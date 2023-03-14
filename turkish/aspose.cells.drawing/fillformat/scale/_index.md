@@ -1,0 +1,25 @@
+---
+title: scale mülk
+second_title: Aspose.Cells for Python via .NET API Referanslar
+description:
+type: docs
+weight: 190
+url: /tr/aspose.cells.drawing/fillformat/scale/
+is_root: false
+---
+##  scale mülk
+
+scale resim biçimini alır ve ayarlar.
+###  Tanım:
+```python
+@property
+def scale(self):
+    ...
+@scale.setter
+def scale(self, value):
+    ...
+```
+
+###  Ayrıca bakınız
+* modül [aspose.cells.drawing](../../)
+* sınıf [FillFormat](/cells/python-net/tr/aspose.cells.drawing/fillformat)

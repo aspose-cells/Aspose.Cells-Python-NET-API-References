@@ -1,0 +1,79 @@
+---
+title: ScrollBarActiveXControl Klasse
+second_title: Aspose.Cells for Python via .NET API Referenzen
+description:
+type: docs
+weight: 100
+url: /de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/
+is_root: false
+---
+##  ScrollBarActiveXControl Klasse
+Stellt das ScrollBar-Steuerelement dar.
+
+
+
+**Nachlass:** [ScrollBarActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol) → 
+[SpinButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol) → 
+[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
+[ActiveXControlBase](/cells/python-net/de/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+
+
+
+Der Typ ScrollBarActiveXControl macht die folgenden Member verfügbar:
+
+###  Eigenschaften
+| Eigentum| Beschreibung|
+| :- | :- |
+| [workbook](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/workbook) | Ruft das [ActiveXControlBase.workbook](/cells/python-net/de/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook)-Objekt ab.|
+| [type](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/type) | Ruft den Typ des ActiveX-Steuerelements ab.|
+| [width](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/width) |Ruft die Breite des Steuerelements in Punkteinheiten ab und legt sie fest.|
+| [height](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/height) | Ruft die Höhe des Steuerelements in Punkteinheiten ab und legt sie fest.|
+| [mouse_icon](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/mouse_icon) | Ruft ein benutzerdefiniertes Symbol ab und legt es fest, das als Mauszeiger für das Steuerelement angezeigt wird.|
+| [mouse_pointer](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/mouse_pointer) | Ruft den Symboltyp ab, der als Mauszeiger für das Steuerelement angezeigt wird, und legt diesen fest.|
+| [fore_ole_color](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/fore_ole_color) | Ruft die alte Farbe des Vordergrunds ab und legt sie fest.|
+| [back_ole_color](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/back_ole_color) | Ruft die Ole-Farbe des Hintergrunds ab und legt sie fest.|
+| [is_visible](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_visible) | Gibt an, ob dieses Steuerelement sichtbar ist.|
+| [shadow](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/shadow) | Gibt an, ob ein Schatten angezeigt werden soll.|
+| [linked_cell](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/linked_cell) | Ruft die verknüpfte Zelle ab und legt sie fest.|
+| [list_fill_range](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/list_fill_range) | Ruft den Füllbereich der Liste ab und legt ihn fest.|
+| [data](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/data) | Ruft die Binärdaten des Steuerelements ab und legt sie fest.|
+| [is_enabled](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_enabled) | Gibt an, ob das Steuerelement den Fokus erhalten und auf vom Benutzer generierte Ereignisse reagieren kann.|
+| [is_locked](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_locked) | Gibt an, ob Daten im Steuerelement zur Bearbeitung gesperrt sind.|
+| [is_transparent](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_transparent) | Gibt an, ob das Steuerelement transparent ist.|
+| [is_auto_size](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_auto_size) | Gibt an, ob die Größe des Steuerelements automatisch geändert wird, um seinen gesamten Inhalt anzuzeigen.|
+| [ime_mode](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/ime_mode) |Ruft den standardmäßigen Laufzeitmodus des Eingabemethoden-Editors für das Steuerelement ab und legt diesen fest, wenn es den Fokus erhält.|
+| [font](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/font) | Stellt die Schriftart des Steuerelements dar.|
+| [text_align](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/text_align) | Stellt dar, wie der vom Steuerelement verwendete Text ausgerichtet wird.|
+| [min](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/min) | Ruft den akzeptablen Mindestwert ab und legt ihn fest.|
+| [max](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/max) | Ruft den maximal akzeptablen Wert ab und legt ihn fest.|
+| [position](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/position) | Ruft den Wert ab und legt ihn fest.|
+| [small_change](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/small_change) | Ruft den Betrag ab, um den sich die Position-Eigenschaft ändert, und legt diesen fest|
+| [orientation](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/orientation) | Ruft ab und legt fest, ob SpinButton oder ScrollBar vertikal oder horizontal ausgerichtet ist.|
+| [large_change](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/large_change) | Ruft den Betrag ab, um den sich die Position-Eigenschaft ändert, und legt diesen fest|
+
+
+
+###  Beispiel
+
+```python
+from aspose import pycore
+from aspose.cells import Workbook
+from aspose.cells.drawing.activexcontrols import ControlType, ScrollBarActiveXControl
+
+# Initialize a new workbook.
+book = Workbook()
+# Add a ToggleButtonActiveXControl.
+shape = book.worksheets[0].shapes.add_active_x_control(ControlType.SCROLL_BAR, 1, 0, 1, 0, 100, 50)
+activeXControl = pycore.cast(ScrollBarActiveXControl, shape.active_x_control)
+# do your business
+# Save the excel file.
+book.save("exmaple.xlsx")
+
+```
+
+###  Siehe auch
+* Modul [aspose.cells.drawing.activexcontrols](..)
+* Klasse [ActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/activexcontrol)
+* Klasse [ActiveXControlBase](/cells/python-net/de/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+* Klasse [ScrollBarActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* Klasse [SpinButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
