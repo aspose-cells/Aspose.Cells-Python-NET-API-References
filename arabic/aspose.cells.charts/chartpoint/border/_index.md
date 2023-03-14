@@ -1,0 +1,23 @@
+---
+title: border الملكية
+second_title: Aspose.Cells for Python via .NET API المراجع
+description:
+type: docs
+weight: 170
+url: /ar/aspose.cells.charts/chartpoint/border/
+is_root: false
+---
+##  border الملكية
+
+يحصل على [Line](/cells/python-net/ar/aspose.cells.drawing/line).
+###  تعريف:
+```python
+@property
+def border(self):
+    ...
+```
+
+###  أنظر أيضا
+* وحدة [aspose.cells.charts](../../)
+* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
