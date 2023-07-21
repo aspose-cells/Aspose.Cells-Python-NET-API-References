@@ -3,7 +3,7 @@ title: merge_areas property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 150
 url: /aspose.cells/docxsaveoptions/merge_areas/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def merge_areas(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DocxSaveOptions](/cells/python-net/aspose.cells/docxsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`DocxSaveOptions`](/cells/python-net/aspose.cells/docxsaveoptions)

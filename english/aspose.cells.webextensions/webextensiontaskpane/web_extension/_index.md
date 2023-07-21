@@ -23,6 +23,6 @@ def web_extension(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.webextensions](../../)
-* class [WebExtension](/cells/python-net/aspose.cells.webextensions/webextension)
-* class [WebExtensionTaskPane](/cells/python-net/aspose.cells.webextensions/webextensiontaskpane)
+* module [`aspose.cells.webextensions`](../../)
+* class [`WebExtension`](/cells/python-net/aspose.cells.webextensions/webextension)
+* class [`WebExtensionTaskPane`](/cells/python-net/aspose.cells.webextensions/webextensiontaskpane)

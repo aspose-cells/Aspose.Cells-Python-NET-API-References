@@ -3,7 +3,7 @@ title: is_rectangular_cornered property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 340
 url: /aspose.cells.charts/chart/is_rectangular_cornered/
 is_root: false
 ---
@@ -24,5 +24,5 @@ def is_rectangular_cornered(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

@@ -23,5 +23,5 @@ def is_auto_tick_label_spacing(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Axis](/cells/python-net/aspose.cells.charts/axis)
+* module [`aspose.cells.charts`](../../)
+* class [`Axis`](/cells/python-net/aspose.cells.charts/axis)

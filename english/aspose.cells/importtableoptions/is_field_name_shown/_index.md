@@ -23,5 +23,5 @@ def is_field_name_shown(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ImportTableOptions](/cells/python-net/aspose.cells/importtableoptions)
+* module [`aspose.cells`](../../)
+* class [`ImportTableOptions`](/cells/python-net/aspose.cells/importtableoptions)

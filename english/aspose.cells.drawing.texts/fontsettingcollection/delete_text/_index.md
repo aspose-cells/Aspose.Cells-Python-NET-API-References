@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.texts/fontsettingcollection/delete_text/
 is_root: false
 ---
 
-## delete_text(index, count) {#int-int}
+## delete_text {#int-int}
 
 Delete some characters.
 
@@ -28,5 +28,5 @@ def delete_text(self, index, count):
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [FontSettingCollection](/cells/python-net/aspose.cells.drawing.texts/fontsettingcollection)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`FontSettingCollection`](/cells/python-net/aspose.cells.drawing.texts/fontsettingcollection)

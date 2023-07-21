@@ -8,7 +8,7 @@ url: /aspose.cells/xmlloadoptions/__init__/
 is_root: false
 ---
 
-## XmlLoadOptions() {#}
+## __init__ {#}
 
 Represents the options of loading xml file.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## XmlLoadOptions(type) {#LoadFormat}
+## __init__ {#aspose.cells.LoadFormat}
 
 Represents the options of loading xml file.
 
@@ -36,10 +36,10 @@ def __init__(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [LoadFormat](/cells/python-net/aspose.cells/loadformat) | The load format type. |
+| type | [`LoadFormat`](/cells/python-net/aspose.cells/loadformat) | The load format type. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XmlLoadOptions](/cells/python-net/aspose.cells/xmlloadoptions)
+* module [`aspose.cells`](../../)
+* class [`XmlLoadOptions`](/cells/python-net/aspose.cells/xmlloadoptions)

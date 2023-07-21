@@ -25,5 +25,5 @@ def parse(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormulaParseOptions](/cells/python-net/aspose.cells/formulaparseoptions)
+* module [`aspose.cells`](../../)
+* class [`FormulaParseOptions`](/cells/python-net/aspose.cells/formulaparseoptions)

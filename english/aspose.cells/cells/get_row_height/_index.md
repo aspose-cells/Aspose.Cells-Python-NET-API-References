@@ -8,9 +8,9 @@ url: /aspose.cells/cells/get_row_height/
 is_root: false
 ---
 
-## get_row_height(row) {#int}
+## get_row_height {#int}
 
-Gets the height of a specified row.
+Gets the height of a specified row, in unit of points.
 
 
 ### Returns 
@@ -32,5 +32,5 @@ def get_row_height(self, row):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.markup](../../)
-* class [SmartTagCollection](/cells/python-net/aspose.cells.markup/smarttagcollection)
+* module [`aspose.cells.markup`](../../)
+* class [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection)

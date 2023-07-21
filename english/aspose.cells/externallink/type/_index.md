@@ -20,6 +20,6 @@ def type(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ExternalLink](/cells/python-net/aspose.cells/externallink)
-* class [ExternalLinkType](/cells/python-net/aspose.cells/externallinktype)
+* module [`aspose.cells`](../../)
+* class [`ExternalLink`](/cells/python-net/aspose.cells/externallink)
+* class [`ExternalLinkType`](/cells/python-net/aspose.cells/externallinktype)

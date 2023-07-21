@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_table_row_type_of_headers/
 is_root: false
 ---
 
-## get_table_row_type_of_headers() {#}
+## get_table_row_type_of_headers {#}
 
 Gets the type name of table rows that consists of the table header.
 Default is "Headers", so in formula "#Headers" represents the table header.
@@ -30,5 +30,5 @@ def get_table_row_type_of_headers(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [GlobalizationSettings](/cells/python-net/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* class [`GlobalizationSettings`](/cells/python-net/aspose.cells/globalizationsettings)

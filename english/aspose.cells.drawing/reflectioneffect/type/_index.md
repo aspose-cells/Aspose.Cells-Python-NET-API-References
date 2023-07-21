@@ -23,6 +23,6 @@ def type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ReflectionEffect](/cells/python-net/aspose.cells.drawing/reflectioneffect)
-* class [ReflectionEffectType](/cells/python-net/aspose.cells.drawing/reflectioneffecttype)
+* module [`aspose.cells.drawing`](../../)
+* class [`ReflectionEffect`](/cells/python-net/aspose.cells.drawing/reflectioneffect)
+* class [`ReflectionEffectType`](/cells/python-net/aspose.cells.drawing/reflectioneffecttype)

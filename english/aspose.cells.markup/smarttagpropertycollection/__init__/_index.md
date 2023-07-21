@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagpropertycollection/__init__/
 is_root: false
 ---
 
-## SmartTagPropertyCollection() {#}
+## __init__ {#}
 
 Constructs a new instance of SmartTagPropertyCollection
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.markup](../../)
-* class [SmartTagPropertyCollection](/cells/python-net/aspose.cells.markup/smarttagpropertycollection)
+* module [`aspose.cells.markup`](../../)
+* class [`SmartTagPropertyCollection`](/cells/python-net/aspose.cells.markup/smarttagpropertycollection)

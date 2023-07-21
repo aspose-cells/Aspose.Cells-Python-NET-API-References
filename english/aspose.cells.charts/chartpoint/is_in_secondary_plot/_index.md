@@ -24,5 +24,5 @@ def is_in_secondary_plot(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartPoint](/cells/python-net/aspose.cells.charts/chartpoint)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint)

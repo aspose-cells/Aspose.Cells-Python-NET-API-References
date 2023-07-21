@@ -23,6 +23,6 @@ def filter_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FilterColumn](/cells/python-net/aspose.cells/filtercolumn)
-* class [FilterType](/cells/python-net/aspose.cells/filtertype)
+* module [`aspose.cells`](../../)
+* class [`FilterColumn`](/cells/python-net/aspose.cells/filtercolumn)
+* class [`FilterType`](/cells/python-net/aspose.cells/filtertype)

@@ -8,7 +8,7 @@ url: /aspose.cells/worksheet/auto_fit_column/
 is_root: false
 ---
 
-## auto_fit_column(column_index) {#int}
+## auto_fit_column {#int}
 
 Autofits the column width.
 
@@ -27,7 +27,7 @@ def auto_fit_column(self, column_index):
 
 AutoFitColumn is an imprecise function.
 
-## auto_fit_column(column_index, first_row, last_row) {#int-int-int}
+## auto_fit_column {#int-int-int}
 
 Autofits the column width.
 
@@ -50,5 +50,5 @@ This method autofits a row based on content in a range of cells within the row.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

@@ -8,7 +8,7 @@ url: /aspose.cells.tables/tablestylecollection/last_index_of/
 is_root: false
 ---
 
-## last_index_of(item) {#TableStyle}
+## last_index_of {#aspose.cells.tables.TableStyle}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list.
 
@@ -27,10 +27,10 @@ def last_index_of(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [TableStyle](/cells/python-net/aspose.cells.tables/tablestyle) | The object to locate in the array list. The value can be null. |
+| item | [`TableStyle`](/cells/python-net/aspose.cells.tables/tablestyle) | The object to locate in the array list. The value can be null. |
 
 
-## last_index_of(item, index) {#TableStyle-int}
+## last_index_of {#aspose.cells.tables.TableStyle-int}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index.
 
@@ -49,11 +49,11 @@ def last_index_of(self, item, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [TableStyle](/cells/python-net/aspose.cells.tables/tablestyle) | The object to locate in the array list. The value can be null. |
+| item | [`TableStyle`](/cells/python-net/aspose.cells.tables/tablestyle) | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the backward search. |
 
 
-## last_index_of(item, index, count) {#TableStyle-int-int}
+## last_index_of {#aspose.cells.tables.TableStyle-int-int}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index.
 
@@ -72,12 +72,12 @@ def last_index_of(self, item, index, count):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [TableStyle](/cells/python-net/aspose.cells.tables/tablestyle) | The object to locate in the array list. The value can be null. |
+| item | [`TableStyle`](/cells/python-net/aspose.cells.tables/tablestyle) | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the backward search. |
 | count | int | The number of elements in the section to search. |
 
 
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [TableStyleCollection](/cells/python-net/aspose.cells.tables/tablestylecollection)
+* module [`aspose.cells.tables`](../../)
+* class [`TableStyleCollection`](/cells/python-net/aspose.cells.tables/tablestylecollection)

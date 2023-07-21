@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfield/get_subtotals/
 is_root: false
 ---
 
-## get_subtotals(subtotal_type) {#PivotFieldSubtotalType}
+## get_subtotals {#aspose.cells.pivot.PivotFieldSubtotalType}
 
 Gets whether the specified field shows that subtotals.
 
@@ -27,10 +27,10 @@ def get_subtotals(self, subtotal_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| subtotal_type | [PivotFieldSubtotalType](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) | subtotals type. |
+| subtotal_type | [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) | subtotals type. |
 
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)

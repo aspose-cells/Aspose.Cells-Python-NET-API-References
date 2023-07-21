@@ -3,12 +3,12 @@ title: set_visible method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 270
 url: /aspose.cells/worksheet/set_visible/
 is_root: false
 ---
 
-## set_visible(is_visible, ignore_error) {#bool-bool}
+## set_visible {#bool-bool}
 
 Sets the visible options.
 
@@ -28,5 +28,5 @@ def set_visible(self, is_visible, ignore_error):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

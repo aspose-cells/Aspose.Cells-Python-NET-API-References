@@ -14,9 +14,9 @@ Represents a ListBox ActiveX control.
 
 
 
-**Inheritance:** [ListBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/listboxactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**Inheritance:** [`ListBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/listboxactivexcontrol) → 
+[`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
+[`ActiveXControlBase`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
 
 
 
@@ -25,7 +25,7 @@ The ListBoxActiveXControl type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/workbook) | Gets the [ActiveXControlBase.workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object. |
+| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/workbook) | Gets the [`ActiveXControlBase.workbook`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object. |
 | [type](/cells/python-net/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/type) | Gets the type of the ActiveX control. |
 | [width](/cells/python-net/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/width) | Gets and sets the width of the control in unit of points. |
 | [height](/cells/python-net/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/height) | Gets and sets the height of the control in unit of points. |
@@ -64,7 +64,7 @@ The ListBoxActiveXControl type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](..)
-* class [ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
-* class [ActiveXControlBase](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* class [ListBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](..)
+* class [`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
+* class [`ActiveXControlBase`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+* class [`ListBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

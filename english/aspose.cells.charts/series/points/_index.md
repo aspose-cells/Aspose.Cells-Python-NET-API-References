@@ -25,6 +25,6 @@ def points(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartPointCollection](/cells/python-net/aspose.cells.charts/chartpointcollection)
-* class [Series](/cells/python-net/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartPointCollection`](/cells/python-net/aspose.cells.charts/chartpointcollection)
+* class [`Series`](/cells/python-net/aspose.cells.charts/series)

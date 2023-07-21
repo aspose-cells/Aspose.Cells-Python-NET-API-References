@@ -23,5 +23,5 @@ def color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Trendline](/cells/python-net/aspose.cells.charts/trendline)
+* module [`aspose.cells.charts`](../../)
+* class [`Trendline`](/cells/python-net/aspose.cells.charts/trendline)

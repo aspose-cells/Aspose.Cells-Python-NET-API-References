@@ -8,7 +8,7 @@ url: /aspose.cells/license/set_license/
 is_root: false
 ---
 
-## set_license(license_name) {#str}
+## set_license {#str}
 
 Licenses the component.
 
@@ -71,7 +71,7 @@ Can be a full or short file name or name of an embedded resource.
 Use an empty string to switch to evaluation mode.
 
 
-## set_license(stream) {#io.RawIOBase}
+## set_license {#io.RawIOBase}
 
 Licenses the component.
 
@@ -103,5 +103,5 @@ license.set_license(myStream)
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [License](/cells/python-net/aspose.cells/license)
+* module [`aspose.cells`](../../)
+* class [`License`](/cells/python-net/aspose.cells/license)

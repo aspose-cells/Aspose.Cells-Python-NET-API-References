@@ -3,7 +3,7 @@ title: name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 640
 url: /aspose.cells/worksheet/name/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

@@ -23,5 +23,5 @@ def password(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.metadata](../../)
-* class [MetadataOptions](/cells/python-net/aspose.cells.metadata/metadataoptions)
+* module [`aspose.cells.metadata`](../../)
+* class [`MetadataOptions`](/cells/python-net/aspose.cells.metadata/metadataoptions)

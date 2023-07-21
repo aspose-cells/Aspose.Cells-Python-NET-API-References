@@ -20,6 +20,6 @@ def y_value_type(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [CellValueType](/cells/python-net/aspose.cells/cellvaluetype)
-* class [ChartPoint](/cells/python-net/aspose.cells.charts/chartpoint)
+* module [`aspose.cells.charts`](../../)
+* class [`CellValueType`](/cells/python-net/aspose.cells/cellvaluetype)
+* class [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint)

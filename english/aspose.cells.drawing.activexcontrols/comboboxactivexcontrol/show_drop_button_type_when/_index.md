@@ -23,6 +23,6 @@ def show_drop_button_type_when(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [ComboBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* class [ShowDropButtonType](/cells/python-net/aspose.cells.drawing.activexcontrols/showdropbuttontype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`ComboBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* class [`ShowDropButtonType`](/cells/python-net/aspose.cells.drawing.activexcontrols/showdropbuttontype)

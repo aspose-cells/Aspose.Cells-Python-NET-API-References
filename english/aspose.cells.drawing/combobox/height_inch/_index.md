@@ -19,7 +19,7 @@ Represents the height of the shape, in unit of inches.
 ```python
 
 if shape.height_inch == 3:
-    shape.height_inch = 1
+    shape.height_inch = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def height_inch(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ComboBox](/cells/python-net/aspose.cells.drawing/combobox)
+* module [`aspose.cells.drawing`](../../)
+* class [`ComboBox`](/cells/python-net/aspose.cells.drawing/combobox)

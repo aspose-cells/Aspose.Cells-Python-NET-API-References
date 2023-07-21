@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.texts/characterbulletvalue/__init__/
 is_root: false
 ---
 
-## CharacterBulletValue() {#}
+## __init__ {#}
 
 Constructs a new instance of CharacterBulletValue
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [CharacterBulletValue](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`CharacterBulletValue`](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue)

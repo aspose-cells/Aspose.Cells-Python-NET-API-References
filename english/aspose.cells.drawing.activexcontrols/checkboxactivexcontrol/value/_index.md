@@ -23,6 +23,6 @@ def value(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [CheckBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* class [CheckValueType](/cells/python-net/aspose.cells.drawing/checkvaluetype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`CheckBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* class [`CheckValueType`](/cells/python-net/aspose.cells.drawing/checkvaluetype)

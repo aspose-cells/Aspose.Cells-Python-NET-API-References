@@ -25,5 +25,5 @@ def all_columns_in_one_page_per_sheet(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PptxSaveOptions](/cells/python-net/aspose.cells/pptxsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`PptxSaveOptions`](/cells/python-net/aspose.cells/pptxsaveoptions)

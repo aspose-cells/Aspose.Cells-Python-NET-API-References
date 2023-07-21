@@ -8,9 +8,9 @@ url: /aspose.cells/style/to_json/
 is_root: false
 ---
 
-## to_json() {#}
+## to_json {#}
 
-Convert [Style](/cells/python-net/aspose.cells/style) to JSON struct data.
+Convert [`Style`](/cells/python-net/aspose.cells/style) to JSON struct data.
 
 
 ### Returns 
@@ -29,5 +29,5 @@ def to_json(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)

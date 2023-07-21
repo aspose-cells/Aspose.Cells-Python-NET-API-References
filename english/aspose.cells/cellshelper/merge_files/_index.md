@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/merge_files/
 is_root: false
 ---
 
-## merge_files(files, cached_file, dest_file) {#list-str-str}
+## merge_files {#list-str-str}
 
 Merges some large xls files to a xls file.
 
@@ -32,5 +32,5 @@ The cached file is used to store some temporary data.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsHelper](/cells/python-net/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* class [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper)

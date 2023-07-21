@@ -3,7 +3,7 @@ title: JsonLoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 960
+weight: 980
 url: /aspose.cells/jsonloadoptions/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents the options of loading json files
 
 
 
-**Inheritance:** [JsonLoadOptions](/cells/python-net/aspose.cells/jsonloadoptions) → 
-[LoadOptions](/cells/python-net/aspose.cells/loadoptions)
+**Inheritance:** [`JsonLoadOptions`](/cells/python-net/aspose.cells/jsonloadoptions) → 
+[`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
 
 
 
@@ -24,7 +24,7 @@ The JsonLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [JsonLoadOptions()](/cells/python-net/aspose.cells/jsonloadoptions/__init__/#) | Creates an options of loading the file. |
+| [__init__](/cells/python-net/aspose.cells/jsonloadoptions/__init__/#) | Creates an options of loading the file. |
 
 
 ### Properties
@@ -50,7 +50,8 @@ The JsonLoadOptions type exposes the following members:
 | [warning_callback](/cells/python-net/aspose.cells/jsonloadoptions/warning_callback) | Gets or sets warning callback. |
 | [auto_fitter_options](/cells/python-net/aspose.cells/jsonloadoptions/auto_fitter_options) | Gets and sets the auto fitter options |
 | [auto_filter](/cells/python-net/aspose.cells/jsonloadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
-| [font_configs](/cells/python-net/aspose.cells/jsonloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [Workbook](/cells/python-net/aspose.cells/workbook) which uses this [LoadOptions](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [font_configs](/cells/python-net/aspose.cells/jsonloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [ignore_useless_shapes](/cells/python-net/aspose.cells/jsonloadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
 | [start_cell](/cells/python-net/aspose.cells/jsonloadoptions/start_cell) | Gets and sets the start cell. |
 | [layout_options](/cells/python-net/aspose.cells/jsonloadoptions/layout_options) | The options of import json. |
 | [multiple_worksheets](/cells/python-net/aspose.cells/jsonloadoptions/multiple_worksheets) | Indicates whether importing each attribute of JsonObject object as one worksheet when all child nodes are array nodes. |
@@ -59,12 +60,12 @@ The JsonLoadOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_paper_size(type)](/cells/python-net/aspose.cells/jsonloadoptions/set_paper_size/#PaperSizeType) | Sets the default print paper size from default printer's setting. |
+| [set_paper_size](/cells/python-net/aspose.cells/jsonloadoptions/set_paper_size/#aspose.cells.PaperSizeType) | Sets the default print paper size from default printer's setting. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [JsonLoadOptions](/cells/python-net/aspose.cells/jsonloadoptions)
-* class [LoadOptions](/cells/python-net/aspose.cells/loadoptions)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](..)
+* class [`JsonLoadOptions`](/cells/python-net/aspose.cells/jsonloadoptions)
+* class [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

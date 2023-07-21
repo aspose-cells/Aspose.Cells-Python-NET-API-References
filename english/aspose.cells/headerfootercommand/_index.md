@@ -26,4 +26,4 @@ The HeaderFooterCommand type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

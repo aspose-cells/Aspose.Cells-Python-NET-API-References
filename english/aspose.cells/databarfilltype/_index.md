@@ -3,7 +3,7 @@ title: DataBarFillType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1920
+weight: 1970
 url: /aspose.cells/databarfilltype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ The DataBarFillType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

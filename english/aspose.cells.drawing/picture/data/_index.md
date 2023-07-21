@@ -3,7 +3,7 @@ title: data property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells.drawing/picture/data/
 is_root: false
 ---
@@ -47,5 +47,5 @@ def data(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)

@@ -29,5 +29,5 @@ def height(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Title](/cells/python-net/aspose.cells.charts/title)
+* module [`aspose.cells.charts`](../../)
+* class [`Title`](/cells/python-net/aspose.cells.charts/title)

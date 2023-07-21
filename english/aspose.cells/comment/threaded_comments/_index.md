@@ -32,6 +32,6 @@ def threaded_comments(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Comment](/cells/python-net/aspose.cells/comment)
-* class [ThreadedCommentCollection](/cells/python-net/aspose.cells/threadedcommentcollection)
+* module [`aspose.cells`](../../)
+* class [`Comment`](/cells/python-net/aspose.cells/comment)
+* class [`ThreadedCommentCollection`](/cells/python-net/aspose.cells/threadedcommentcollection)

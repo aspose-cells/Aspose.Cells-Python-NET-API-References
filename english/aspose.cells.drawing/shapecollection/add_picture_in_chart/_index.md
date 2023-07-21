@@ -3,12 +3,12 @@ title: add_picture_in_chart method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells.drawing/shapecollection/add_picture_in_chart/
 is_root: false
 ---
 
-## add_picture_in_chart(top, left, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+## add_picture_in_chart {#int-int-io.RawIOBase-int-int}
 
 Adds a picture to the chart.
 
@@ -36,5 +36,5 @@ def add_picture_in_chart(self, top, left, stream, width_scale, height_scale):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/hide_column/
 is_root: false
 ---
 
-## hide_column(column) {#int}
+## hide_column {#int}
 
 Hides a column.
 
@@ -27,5 +27,5 @@ def hide_column(self, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

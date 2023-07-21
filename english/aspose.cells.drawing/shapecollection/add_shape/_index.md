@@ -3,12 +3,12 @@ title: add_shape method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 270
 url: /aspose.cells.drawing/shapecollection/add_shape/
 is_root: false
 ---
 
-## add_shape(type, upper_left_row, top, upper_left_column, left, height, width) {#MsoDrawingType-int-int-int-int-int-int}
+## add_shape {#aspose.cells.drawing.MsoDrawingType-int-int-int-int-int-int}
 
 Adds a Shape to the worksheet.
 
@@ -27,7 +27,7 @@ def add_shape(self, type, upper_left_row, top, upper_left_column, left, height, 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [MsoDrawingType](/cells/python-net/aspose.cells.drawing/msodrawingtype) | Mso drawing type. |
+| type | [`MsoDrawingType`](/cells/python-net/aspose.cells.drawing/msodrawingtype) | Mso drawing type. |
 | upper_left_row | int | Upper left row index. |
 | top | int | Represents the vertical  offset of Shape from its left row, in unit of pixel. |
 | upper_left_column | int | Upper left column index. |
@@ -51,5 +51,5 @@ shapeByType = shapes.add_shape(MsoDrawingType.CELLS_DRAWING, 1, 0, 1, 0, 100, 50
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

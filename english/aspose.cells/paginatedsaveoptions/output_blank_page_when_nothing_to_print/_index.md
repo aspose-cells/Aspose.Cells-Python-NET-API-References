@@ -28,5 +28,5 @@ def output_blank_page_when_nothing_to_print(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions)

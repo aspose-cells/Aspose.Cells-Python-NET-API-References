@@ -28,6 +28,6 @@ def line_format(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoLineFormat](/cells/python-net/aspose.cells.drawing/msolineformat)
-* class [ScrollBar](/cells/python-net/aspose.cells.drawing/scrollbar)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoLineFormat`](/cells/python-net/aspose.cells.drawing/msolineformat)
+* class [`ScrollBar`](/cells/python-net/aspose.cells.drawing/scrollbar)

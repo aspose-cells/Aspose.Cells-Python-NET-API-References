@@ -8,7 +8,7 @@ url: /aspose.cells/cells/unhide_columns/
 is_root: false
 ---
 
-## unhide_columns(column, total_columns, width) {#int-int-float}
+## unhide_columns {#int-int-float}
 
 Unhide multiple columns.
 
@@ -31,5 +31,5 @@ Only applies the column width to the hidden columns.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

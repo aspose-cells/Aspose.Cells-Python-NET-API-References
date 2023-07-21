@@ -3,7 +3,7 @@ title: table_style_name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells.tables/listobject/table_style_name/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def table_style_name(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListObject](/cells/python-net/aspose.cells.tables/listobject)
+* module [`aspose.cells.tables`](../../)
+* class [`ListObject`](/cells/python-net/aspose.cells.tables/listobject)

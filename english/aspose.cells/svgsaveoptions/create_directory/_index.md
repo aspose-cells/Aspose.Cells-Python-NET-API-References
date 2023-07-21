@@ -28,5 +28,5 @@ def create_directory(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [SvgSaveOptions](/cells/python-net/aspose.cells/svgsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`SvgSaveOptions`](/cells/python-net/aspose.cells/svgsaveoptions)

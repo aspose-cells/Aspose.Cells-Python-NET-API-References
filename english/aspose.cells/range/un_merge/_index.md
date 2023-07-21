@@ -8,7 +8,7 @@ url: /aspose.cells/range/un_merge/
 is_root: false
 ---
 
-## un_merge() {#}
+## un_merge {#}
 
 Unmerges merged cells of this range.
 
@@ -24,5 +24,5 @@ def un_merge(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`Range`](/cells/python-net/aspose.cells/range)

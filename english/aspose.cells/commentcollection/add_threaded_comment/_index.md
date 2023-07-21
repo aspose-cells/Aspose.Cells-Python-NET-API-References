@@ -8,7 +8,7 @@ url: /aspose.cells/commentcollection/add_threaded_comment/
 is_root: false
 ---
 
-## add_threaded_comment(cell_name, text, author) {#str-str-ThreadedCommentAuthor}
+## add_threaded_comment {#str-str-aspose.cells.ThreadedCommentAuthor}
 
 Adds a threaded comment.
 
@@ -16,7 +16,7 @@ Adds a threaded comment.
 ### Returns 
 
 
-[ThreadedComment](/cells/python-net/aspose.cells/threadedcomment) object index.
+[`ThreadedComment`](/cells/python-net/aspose.cells/threadedcomment) object index.
 
 
 ```python
@@ -29,10 +29,10 @@ def add_threaded_comment(self, cell_name, text, author):
 | :- | :- | :- |
 | cell_name | str | The name of the cell. |
 | text | str | The text of the comment |
-| author | [ThreadedCommentAuthor](/cells/python-net/aspose.cells/threadedcommentauthor) | The user of this threaded comment. |
+| author | [`ThreadedCommentAuthor`](/cells/python-net/aspose.cells/threadedcommentauthor) | The user of this threaded comment. |
 
 
-## add_threaded_comment(row, column, text, author) {#int-int-str-ThreadedCommentAuthor}
+## add_threaded_comment {#int-int-str-aspose.cells.ThreadedCommentAuthor}
 
 Adds a threaded comment.
 
@@ -40,7 +40,7 @@ Adds a threaded comment.
 ### Returns 
 
 
-[ThreadedComment](/cells/python-net/aspose.cells/threadedcomment) object index.
+[`ThreadedComment`](/cells/python-net/aspose.cells/threadedcomment) object index.
 
 
 ```python
@@ -54,11 +54,11 @@ def add_threaded_comment(self, row, column, text, author):
 | row | int | Cell row index. |
 | column | int | Cell column index. |
 | text | str | The text of the comment |
-| author | [ThreadedCommentAuthor](/cells/python-net/aspose.cells/threadedcommentauthor) | The user of this threaded comment. |
+| author | [`ThreadedCommentAuthor`](/cells/python-net/aspose.cells/threadedcommentauthor) | The user of this threaded comment. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CommentCollection](/cells/python-net/aspose.cells/commentcollection)
-* class [ThreadedComment](/cells/python-net/aspose.cells/threadedcomment)
+* module [`aspose.cells`](../../)
+* class [`CommentCollection`](/cells/python-net/aspose.cells/commentcollection)
+* class [`ThreadedComment`](/cells/python-net/aspose.cells/threadedcomment)

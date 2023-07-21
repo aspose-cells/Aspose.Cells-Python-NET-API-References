@@ -8,7 +8,7 @@ url: /aspose.cells/filefontsource/__init__/
 is_root: false
 ---
 
-## FileFontSource(file_path) {#str}
+## __init__ {#str}
 
 Ctor.
 
@@ -27,5 +27,5 @@ def __init__(self, file_path):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FileFontSource](/cells/python-net/aspose.cells/filefontsource)
+* module [`aspose.cells`](../../)
+* class [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource)

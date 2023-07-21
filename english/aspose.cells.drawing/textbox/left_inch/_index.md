@@ -3,7 +3,7 @@ title: left_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 700
 url: /aspose.cells.drawing/textbox/left_inch/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Represents the horizontal offset of shape from its left column, in unit of inche
 ```python
 
 if shape.left_inch == 3:
-    shape.left_inch = 1
+    shape.left_inch = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def left_inch(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

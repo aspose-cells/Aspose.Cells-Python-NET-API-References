@@ -8,7 +8,7 @@ url: /aspose.cells/comment/characters/
 is_root: false
 ---
 
-## characters(start_index, length) {#int-int}
+## characters {#int-int}
 
 Returns a Characters object that represents a range of characters within the comment text.
 
@@ -42,5 +42,5 @@ fontSetting = comment1.characters(0, 4)
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Comment](/cells/python-net/aspose.cells/comment)
+* module [`aspose.cells`](../../)
+* class [`Comment`](/cells/python-net/aspose.cells/comment)

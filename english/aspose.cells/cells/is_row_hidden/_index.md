@@ -8,7 +8,7 @@ url: /aspose.cells/cells/is_row_hidden/
 is_root: false
 ---
 
-## is_row_hidden(row_index) {#int}
+## is_row_hidden {#int}
 
 Checks whether a row at given index is hidden.
 
@@ -32,5 +32,5 @@ def is_row_hidden(self, row_index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

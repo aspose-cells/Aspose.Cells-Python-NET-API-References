@@ -8,10 +8,10 @@ url: /aspose.cells/workbook/update_linked_data_source/
 is_root: false
 ---
 
-## update_linked_data_source(external_workbooks) {#list}
+## update_linked_data_source {#list}
 
 If this workbook contains external links to other data source,
-Aspose.Cells will attempt to retrieve the latest data.
+Aspose.Cells will attempt to retrieve the latest data from give sources.
 
 
 
@@ -23,16 +23,14 @@ def update_linked_data_source(self, external_workbooks):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| external_workbooks | list | External workbooks are referenced by this workbook.<br/>If it's null, we will directly open the external linked files..<br/>If it's not null, <br/>we will check whether the external link in the array first;<br/>if not, we will open the external linked files again. |
+| external_workbooks | list | Workbooks that will be used to update data of external links referenced by this workbook.<br/>The match of those workbooks with external links is determined by [`Workbook.file_name`](/cells/python-net/aspose.cells/workbook#file_name)<br/>and [`ExternalLink.data_source`](/cells/python-net/aspose.cells/externallink#data_source). So please make sure [`Workbook.file_name`](/cells/python-net/aspose.cells/workbook#file_name) has<br/>been specified with the proper value for every workbook so they can be linked to corresponding external link. |
 ### Remarks
 
-If the method is not called before calculating formulas,
-Aspose.Cells will use the previous information(cached in the file);
-Please set CellsHelper.StartupPath,CellsHelper.AltStartPath,CellsHelper.LibraryPath. 
-And please set Workbook.FilePath if this workbook is from a stream,
-otherwise Aspose.Cells could not get the external link full path sometimes.
+If corresponding external link cannot be found for one workbook, then this workbook will be ignored.
+So when you set a formula later with one new external link which you intend to make the ignored workbook
+be linked to it, the link cannot be performed until you call this this method again with those workbooks.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

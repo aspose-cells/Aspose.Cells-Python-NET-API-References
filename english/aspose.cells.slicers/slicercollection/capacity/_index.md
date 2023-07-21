@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [SlicerCollection](/cells/python-net/aspose.cells.slicers/slicercollection)
+* module [`aspose.cells.slicers`](../../)
+* class [`SlicerCollection`](/cells/python-net/aspose.cells.slicers/slicercollection)

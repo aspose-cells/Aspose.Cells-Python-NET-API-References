@@ -25,5 +25,5 @@ def is_above_average(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AboveAverage](/cells/python-net/aspose.cells/aboveaverage)
+* module [`aspose.cells`](../../)
+* class [`AboveAverage`](/cells/python-net/aspose.cells/aboveaverage)

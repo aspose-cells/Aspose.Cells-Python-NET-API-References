@@ -23,6 +23,6 @@ def light_cells_data_provider(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LightCellsDataProvider](/cells/python-net/aspose.cells/lightcellsdataprovider)
-* class [MarkdownSaveOptions](/cells/python-net/aspose.cells/markdownsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`LightCellsDataProvider`](/cells/python-net/aspose.cells/lightcellsdataprovider)
+* class [`MarkdownSaveOptions`](/cells/python-net/aspose.cells/markdownsaveoptions)

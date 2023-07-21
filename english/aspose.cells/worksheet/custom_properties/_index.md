@@ -3,7 +3,7 @@ title: custom_properties property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 440
+weight: 450
 url: /aspose.cells/worksheet/custom_properties/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def custom_properties(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CustomPropertyCollection](/cells/python-net/aspose.cells.properties/custompropertycollection)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`CustomPropertyCollection`](/cells/python-net/aspose.cells.properties/custompropertycollection)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

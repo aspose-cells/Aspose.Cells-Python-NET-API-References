@@ -3,7 +3,7 @@ title: MultipleFilterCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1060
+weight: 1080
 url: /aspose.cells/multiplefiltercollection/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The MultipleFilterCollection type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [MultipleFilterCollection()](/cells/python-net/aspose.cells/multiplefiltercollection/__init__/#) | Constructs a new instance of MultipleFilterCollection |
+| [__init__](/cells/python-net/aspose.cells/multiplefiltercollection/__init__/#) | Constructs a new instance of MultipleFilterCollection |
 
 
 ### Properties
@@ -31,9 +31,9 @@ The MultipleFilterCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add(filter)](/cells/python-net/aspose.cells/multiplefiltercollection/add/#str) | Adds string filter. |
+| [add](/cells/python-net/aspose.cells/multiplefiltercollection/add/#str) | Adds string filter. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

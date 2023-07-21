@@ -23,5 +23,5 @@ def foreground_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [PatternFill](/cells/python-net/aspose.cells.drawing/patternfill)
+* module [`aspose.cells.drawing`](../../)
+* class [`PatternFill`](/cells/python-net/aspose.cells.drawing/patternfill)

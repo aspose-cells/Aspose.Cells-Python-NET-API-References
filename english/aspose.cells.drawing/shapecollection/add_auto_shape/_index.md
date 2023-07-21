@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_auto_shape/
 is_root: false
 ---
 
-## add_auto_shape(type, upper_left_row, top, upper_left_column, left, height, width) {#AutoShapeType-int-int-int-int-int-int}
+## add_auto_shape {#aspose.cells.drawing.AutoShapeType-int-int-int-int-int-int}
 
 Adds a AutoShape to the worksheet.
 
@@ -27,7 +27,7 @@ def add_auto_shape(self, type, upper_left_row, top, upper_left_column, left, hei
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [AutoShapeType](/cells/python-net/aspose.cells.drawing/autoshapetype) | Auto shape type. |
+| type | [`AutoShapeType`](/cells/python-net/aspose.cells.drawing/autoshapetype) | Auto shape type. |
 | upper_left_row | int | Upper left row index. |
 | top | int | Represents the vertical  offset of Shape from its left row, in unit of pixel. |
 | upper_left_column | int | Upper left column index. |
@@ -51,5 +51,5 @@ autoShape = shapes.add_auto_shape(AutoShapeType.CUBE, 1, 0, 1, 0, 100, 50)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

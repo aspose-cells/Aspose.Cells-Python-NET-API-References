@@ -10,7 +10,7 @@ is_root: false
 
 ## ContentTypePropertyCollection class
 
-A collection of [ContentTypeProperty](/cells/python-net/aspose.cells.properties/contenttypeproperty) objects that represent additional information.
+A collection of [`ContentTypeProperty`](/cells/python-net/aspose.cells.properties/contenttypeproperty) objects that represent additional information.
 
 
 
@@ -25,16 +25,16 @@ The ContentTypePropertyCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add(name, value)](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/add/#str-str) | Adds content type property information. |
-| [add(name, value, type)](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/add/#str-str-str) | Adds content type property information. |
-| [copy_to(array)](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
-| [copy_to(index, array, array_index, count)](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
-| [index_of(item, index)](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/index_of/#ContentTypeProperty-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |
-| [index_of(item, index, count)](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/index_of/#ContentTypeProperty-int-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements. |
-| [last_index_of(item)](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/last_index_of/#ContentTypeProperty) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
-| [last_index_of(item, index)](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/last_index_of/#ContentTypeProperty-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
-| [last_index_of(item, index, count)](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/last_index_of/#ContentTypeProperty-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [binary_search(item)](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/binary_search/#ContentTypeProperty) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
+| [add](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/add/#str-str) | Adds content type property information. |
+| [add](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/add/#str-str-str) | Adds content type property information. |
+| [copy_to](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
+| [copy_to](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
+| [index_of](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/index_of/#aspose.cells.properties.ContentTypeProperty-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |
+| [index_of](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/index_of/#aspose.cells.properties.ContentTypeProperty-int-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements. |
+| [last_index_of](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/last_index_of/#aspose.cells.properties.ContentTypeProperty) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
+| [last_index_of](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/last_index_of/#aspose.cells.properties.ContentTypeProperty-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
+| [last_index_of](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/last_index_of/#aspose.cells.properties.ContentTypeProperty-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [binary_search](/cells/python-net/aspose.cells.properties/contenttypepropertycollection/binary_search/#aspose.cells.properties.ContentTypeProperty) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 
 
@@ -54,5 +54,5 @@ workbook.save("book1.xlsm")
 ```
 
 ### See Also
-* module [aspose.cells.properties](..)
-* class [ContentTypeProperty](/cells/python-net/aspose.cells.properties/contenttypeproperty)
+* module [`aspose.cells.properties`](..)
+* class [`ContentTypeProperty`](/cells/python-net/aspose.cells.properties/contenttypeproperty)

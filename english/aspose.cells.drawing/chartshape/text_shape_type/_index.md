@@ -34,6 +34,6 @@ def text_shape_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [AutoShapeType](/cells/python-net/aspose.cells.drawing/autoshapetype)
-* class [ChartShape](/cells/python-net/aspose.cells.drawing/chartshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`AutoShapeType`](/cells/python-net/aspose.cells.drawing/autoshapetype)
+* class [`ChartShape`](/cells/python-net/aspose.cells.drawing/chartshape)

@@ -24,6 +24,6 @@ def html_format(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [HtmlFormatHandlingType](/cells/python-net/aspose.cells.externalconnections/htmlformathandlingtype)
-* class [WebQueryConnection](/cells/python-net/aspose.cells.externalconnections/webqueryconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`HtmlFormatHandlingType`](/cells/python-net/aspose.cells.externalconnections/htmlformathandlingtype)
+* class [`WebQueryConnection`](/cells/python-net/aspose.cells.externalconnections/webqueryconnection)

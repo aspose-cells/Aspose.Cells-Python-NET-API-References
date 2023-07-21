@@ -8,7 +8,7 @@ url: /aspose.cells/range/is_intersect/
 is_root: false
 ---
 
-## is_intersect(range) {#Range}
+## is_intersect {#aspose.cells.Range}
 
 Indicates whether the range is intersect.
 
@@ -27,12 +27,12 @@ def is_intersect(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [Range](/cells/python-net/aspose.cells/range) | The range. |
+| range | [`Range`](/cells/python-net/aspose.cells/range) | The range. |
 ### Remarks
 
 If the two ranges area not in the same worksheet ,return false.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`Range`](/cells/python-net/aspose.cells/range)

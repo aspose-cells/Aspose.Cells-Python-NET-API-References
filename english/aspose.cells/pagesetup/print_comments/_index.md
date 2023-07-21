@@ -23,6 +23,6 @@ def print_comments(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
-* class [PrintCommentsType](/cells/python-net/aspose.cells/printcommentstype)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)
+* class [`PrintCommentsType`](/cells/python-net/aspose.cells/printcommentstype)

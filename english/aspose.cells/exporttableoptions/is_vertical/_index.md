@@ -23,5 +23,5 @@ def is_vertical(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ExportTableOptions](/cells/python-net/aspose.cells/exporttableoptions)
+* module [`aspose.cells`](../../)
+* class [`ExportTableOptions`](/cells/python-net/aspose.cells/exporttableoptions)

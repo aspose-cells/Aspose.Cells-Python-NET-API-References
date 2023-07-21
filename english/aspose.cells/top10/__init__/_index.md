@@ -8,7 +8,7 @@ url: /aspose.cells/top10/__init__/
 is_root: false
 ---
 
-## Top10() {#}
+## __init__ {#}
 
 Constructs a new instance of Top10
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Top10](/cells/python-net/aspose.cells/top10)
+* module [`aspose.cells`](../../)
+* class [`Top10`](/cells/python-net/aspose.cells/top10)

@@ -33,6 +33,6 @@ def compound_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LineFormat](/cells/python-net/aspose.cells.drawing/lineformat)
-* class [MsoLineStyle](/cells/python-net/aspose.cells.drawing/msolinestyle)
+* module [`aspose.cells.drawing`](../../)
+* class [`LineFormat`](/cells/python-net/aspose.cells.drawing/lineformat)
+* class [`MsoLineStyle`](/cells/python-net/aspose.cells.drawing/msolinestyle)

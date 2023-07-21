@@ -14,9 +14,9 @@ Represents the SpinButton control.
 
 
 
-**Inheritance:** [SpinButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**Inheritance:** [`SpinButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol) → 
+[`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
+[`ActiveXControlBase`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
 
 
 
@@ -25,7 +25,7 @@ The SpinButtonActiveXControl type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/workbook) | Gets the [ActiveXControlBase.workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object. |
+| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/workbook) | Gets the [`ActiveXControlBase.workbook`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object. |
 | [type](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/type) | Gets the type of the ActiveX control. |
 | [width](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/width) | Gets and sets the width of the control in unit of points. |
 | [height](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/height) | Gets and sets the height of the control in unit of points. |
@@ -73,7 +73,7 @@ book.save("exmaple.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](..)
-* class [ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
-* class [ActiveXControlBase](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* class [SpinButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](..)
+* class [`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
+* class [`ActiveXControlBase`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+* class [`SpinButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

@@ -48,6 +48,6 @@ def printing_page_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions)
-* class [PrintingPageType](/cells/python-net/aspose.cells/printingpagetype)
+* module [`aspose.cells`](../../)
+* class [`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions)
+* class [`PrintingPageType`](/cells/python-net/aspose.cells/printingpagetype)

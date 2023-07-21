@@ -23,6 +23,6 @@ def type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataBarBorder](/cells/python-net/aspose.cells/databarborder)
-* class [DataBarBorderType](/cells/python-net/aspose.cells/databarbordertype)
+* module [`aspose.cells`](../../)
+* class [`DataBarBorder`](/cells/python-net/aspose.cells/databarborder)
+* class [`DataBarBorderType`](/cells/python-net/aspose.cells/databarbordertype)

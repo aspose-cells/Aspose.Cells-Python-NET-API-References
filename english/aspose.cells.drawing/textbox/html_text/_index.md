@@ -3,7 +3,7 @@ title: html_text property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 490
 url: /aspose.cells.drawing/textbox/html_text/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Gets and sets the html string which contains data and some formats in this textb
 ```python
 
 html = shape.html_text
-if html == null  || html == "":
+if html == null  or html == "":
     shape.html_text = "<Font Style='FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #0000ff;TEXT-ALIGN: left;'>This is a <b>test</b>.</Font>"
 
 ```
@@ -34,5 +34,5 @@ def html_text(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

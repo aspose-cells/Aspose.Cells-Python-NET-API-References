@@ -26,6 +26,6 @@ def base_item_position(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield)
-* class [PivotItemPosition](/cells/python-net/aspose.cells.pivot/pivotitemposition)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)
+* class [`PivotItemPosition`](/cells/python-net/aspose.cells.pivot/pivotitemposition)

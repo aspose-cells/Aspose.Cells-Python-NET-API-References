@@ -3,7 +3,7 @@ title: PptxSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1190
+weight: 1210
 url: /aspose.cells/pptxsaveoptions/
 is_root: false
 ---
@@ -14,9 +14,9 @@ Represents the pptx save options.
 
 
 
-**Inheritance:** [PptxSaveOptions](/cells/python-net/aspose.cells/pptxsaveoptions) → 
-[PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`PptxSaveOptions`](/cells/python-net/aspose.cells/pptxsaveoptions) → 
+[`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -25,8 +25,8 @@ The PptxSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PptxSaveOptions()](/cells/python-net/aspose.cells/pptxsaveoptions/__init__/#) | Represents the pptx save options. |
-| [PptxSaveOptions(save_as_image)](/cells/python-net/aspose.cells/pptxsaveoptions/__init__/#bool) | Represents options of saving .pptx file. |
+| [__init__](/cells/python-net/aspose.cells/pptxsaveoptions/__init__/#) | Represents the pptx save options. |
+| [__init__](/cells/python-net/aspose.cells/pptxsaveoptions/__init__/#bool) | Represents options of saving .pptx file. |
 
 
 ### Properties
@@ -57,14 +57,14 @@ The PptxSaveOptions type exposes the following members:
 | [gridline_type](/cells/python-net/aspose.cells/pptxsaveoptions/gridline_type) | Gets or sets gridline type. |
 | [text_cross_type](/cells/python-net/aspose.cells/pptxsaveoptions/text_cross_type) | Gets or sets displaying text type when the text width is larger than cell width. |
 | [default_edit_language](/cells/python-net/aspose.cells/pptxsaveoptions/default_edit_language) | Gets or sets default edit language. |
-| [sheet_set](/cells/python-net/aspose.cells/pptxsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [SheetSet.visible](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
+| [sheet_set](/cells/python-net/aspose.cells/pptxsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [draw_object_event_handler](/cells/python-net/aspose.cells/pptxsaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/pptxsaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions)
-* class [PptxSaveOptions](/cells/python-net/aspose.cells/pptxsaveoptions)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+* module [`aspose.cells`](..)
+* class [`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions)
+* class [`PptxSaveOptions`](/cells/python-net/aspose.cells/pptxsaveoptions)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)

@@ -28,6 +28,6 @@ def text_frame(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoTextFrame](/cells/python-net/aspose.cells.drawing/msotextframe)
-* class [WebExtensionShape](/cells/python-net/aspose.cells.drawing/webextensionshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoTextFrame`](/cells/python-net/aspose.cells.drawing/msotextframe)
+* class [`WebExtensionShape`](/cells/python-net/aspose.cells.drawing/webextensionshape)

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/link_to_xml_map/
 is_root: false
 ---
 
-## link_to_xml_map(map_name, row, column, path) {#str-int-int-str}
+## link_to_xml_map {#str-int-int-str}
 
 Link to a xml map.
 
@@ -30,5 +30,5 @@ def link_to_xml_map(self, map_name, row, column, path):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

@@ -14,8 +14,8 @@ Represents the options of saving sql.
 
 
 
-**Inheritance:** [SqlScriptSaveOptions](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`SqlScriptSaveOptions`](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -24,7 +24,7 @@ The SqlScriptSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [SqlScriptSaveOptions()](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions/__init__/#) | Creates options for saving sql file. |
+| [__init__](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions/__init__/#) | Creates options for saving sql file. |
 
 
 ### Properties
@@ -60,6 +60,6 @@ The SqlScriptSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.saving](..)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
-* class [SqlScriptSaveOptions](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](..)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
+* class [`SqlScriptSaveOptions`](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)

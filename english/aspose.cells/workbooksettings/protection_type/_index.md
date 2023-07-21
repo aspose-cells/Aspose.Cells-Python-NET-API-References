@@ -20,6 +20,6 @@ def protection_type(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ProtectionType](/cells/python-net/aspose.cells/protectiontype)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`ProtectionType`](/cells/python-net/aspose.cells/protectiontype)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

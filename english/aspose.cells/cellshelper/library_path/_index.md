@@ -23,5 +23,5 @@ def library_path(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsHelper](/cells/python-net/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* class [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper)

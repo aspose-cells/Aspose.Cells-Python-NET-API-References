@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFilterCollection](/cells/python-net/aspose.cells.pivot/pivotfiltercollection)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFilterCollection`](/cells/python-net/aspose.cells.pivot/pivotfiltercollection)

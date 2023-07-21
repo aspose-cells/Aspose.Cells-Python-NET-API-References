@@ -3,12 +3,12 @@ title: get_characters method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells.drawing/groupbox/get_characters/
 is_root: false
 ---
 
-## get_characters() {#}
+## get_characters {#}
 
 Returns all Characters objects 
 that represents a range of characters within the text .
@@ -39,5 +39,5 @@ list = shape.get_characters()
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GroupBox](/cells/python-net/aspose.cells.drawing/groupbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`GroupBox`](/cells/python-net/aspose.cells.drawing/groupbox)

@@ -8,7 +8,7 @@ url: /aspose.cells/errorcheckoption/is_error_check/
 is_root: false
 ---
 
-## is_error_check(error_check_type) {#ErrorCheckType}
+## is_error_check {#aspose.cells.ErrorCheckType}
 
 Checks whether given error type will be checked.
 
@@ -27,10 +27,10 @@ def is_error_check(self, error_check_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| error_check_type | [ErrorCheckType](/cells/python-net/aspose.cells/errorchecktype) | error type can be checked |
+| error_check_type | [`ErrorCheckType`](/cells/python-net/aspose.cells/errorchecktype) | error type can be checked |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ErrorCheckOption](/cells/python-net/aspose.cells/errorcheckoption)
+* module [`aspose.cells`](../../)
+* class [`ErrorCheckOption`](/cells/python-net/aspose.cells/errorcheckoption)

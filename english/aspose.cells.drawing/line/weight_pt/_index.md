@@ -23,5 +23,5 @@ def weight_pt(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
+* module [`aspose.cells.drawing`](../../)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)

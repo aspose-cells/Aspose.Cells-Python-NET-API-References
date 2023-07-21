@@ -23,6 +23,6 @@ def ime_mode(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [ComboBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* class [InputMethodEditorMode](/cells/python-net/aspose.cells.drawing.activexcontrols/inputmethodeditormode)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`ComboBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* class [`InputMethodEditorMode`](/cells/python-net/aspose.cells.drawing.activexcontrols/inputmethodeditormode)

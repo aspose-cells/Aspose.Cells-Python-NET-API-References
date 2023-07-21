@@ -3,7 +3,7 @@ title: LineJoinType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 930
 url: /aspose.cells.drawing/linejointype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ The LineJoinType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

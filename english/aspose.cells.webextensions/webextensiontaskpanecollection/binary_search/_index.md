@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensiontaskpanecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#WebExtensionTaskPane}
+## binary_search {#aspose.cells.webextensions.WebExtensionTaskPane}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [WebExtensionTaskPane](/cells/python-net/aspose.cells.webextensions/webextensiontaskpane) | The System.Object to locate. The value can be null. |
+| item | [`WebExtensionTaskPane`](/cells/python-net/aspose.cells.webextensions/webextensiontaskpane) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.webextensions](../../)
-* class [WebExtensionTaskPaneCollection](/cells/python-net/aspose.cells.webextensions/webextensiontaskpanecollection)
+* module [`aspose.cells.webextensions`](../../)
+* class [`WebExtensionTaskPaneCollection`](/cells/python-net/aspose.cells.webextensions/webextensiontaskpanecollection)

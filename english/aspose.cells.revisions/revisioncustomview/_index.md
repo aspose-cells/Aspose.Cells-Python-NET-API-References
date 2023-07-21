@@ -3,7 +3,7 @@ title: RevisionCustomView class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells.revisions/revisioncustomview/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents a revision record of adding or removing a custom view to the workbook
 
 
 
-**Inheritance:** [RevisionCustomView](/cells/python-net/aspose.cells.revisions/revisioncustomview) → 
-[Revision](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionCustomView`](/cells/python-net/aspose.cells.revisions/revisioncustomview) → 
+[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 
 
 
@@ -33,6 +33,6 @@ The RevisionCustomView type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [RevisionCustomView](/cells/python-net/aspose.cells.revisions/revisioncustomview)
+* module [`aspose.cells.revisions`](..)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`RevisionCustomView`](/cells/python-net/aspose.cells.revisions/revisioncustomview)

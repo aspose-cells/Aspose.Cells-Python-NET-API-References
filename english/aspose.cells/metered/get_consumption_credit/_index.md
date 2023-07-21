@@ -8,7 +8,7 @@ url: /aspose.cells/metered/get_consumption_credit/
 is_root: false
 ---
 
-## get_consumption_credit() {#}
+## get_consumption_credit {#}
 
 Gets consumption credit
 
@@ -29,5 +29,5 @@ def get_consumption_credit(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Metered](/cells/python-net/aspose.cells/metered)
+* module [`aspose.cells`](../../)
+* class [`Metered`](/cells/python-net/aspose.cells/metered)

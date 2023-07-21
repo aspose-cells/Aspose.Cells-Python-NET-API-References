@@ -19,7 +19,7 @@ Represents the horizontal offset of shape from its left column, in unit of centi
 ```python
 
 if shape.left_cm == 3:
-    shape.left_cm = 1
+    shape.left_cm = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def left_cm(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [DialogBox](/cells/python-net/aspose.cells.drawing/dialogbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`DialogBox`](/cells/python-net/aspose.cells.drawing/dialogbox)

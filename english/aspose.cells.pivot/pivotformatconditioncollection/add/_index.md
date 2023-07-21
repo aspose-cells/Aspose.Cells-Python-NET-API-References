@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotformatconditioncollection/add/
 is_root: false
 ---
 
-## add() {#}
+## add {#}
 
 Adds a pivot FormatCondition to the collection.
 
@@ -31,5 +31,5 @@ not supported
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFormatConditionCollection](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFormatConditionCollection`](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection)

@@ -23,5 +23,5 @@ def total_editing_time(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [BuiltInDocumentPropertyCollection](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection)
+* module [`aspose.cells.properties`](../../)
+* class [`BuiltInDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection)

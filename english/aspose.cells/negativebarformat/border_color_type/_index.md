@@ -23,6 +23,6 @@ def border_color_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataBarNegativeColorType](/cells/python-net/aspose.cells/databarnegativecolortype)
-* class [NegativeBarFormat](/cells/python-net/aspose.cells/negativebarformat)
+* module [`aspose.cells`](../../)
+* class [`DataBarNegativeColorType`](/cells/python-net/aspose.cells/databarnegativecolortype)
+* class [`NegativeBarFormat`](/cells/python-net/aspose.cells/negativebarformat)

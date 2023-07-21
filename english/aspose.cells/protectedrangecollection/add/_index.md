@@ -8,9 +8,9 @@ url: /aspose.cells/protectedrangecollection/add/
 is_root: false
 ---
 
-## add(name, start_row, start_column, end_row, end_column) {#str-int-int-int-int}
+## add {#str-int-int-int-int}
 
-Adds a [ProtectedRange](/cells/python-net/aspose.cells/protectedrange) item to the collection.
+Adds a [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange) item to the collection.
 
 
 ### Returns 
@@ -36,6 +36,6 @@ def add(self, name, start_row, start_column, end_row, end_column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ProtectedRange](/cells/python-net/aspose.cells/protectedrange)
-* class [ProtectedRangeCollection](/cells/python-net/aspose.cells/protectedrangecollection)
+* module [`aspose.cells`](../../)
+* class [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange)
+* class [`ProtectedRangeCollection`](/cells/python-net/aspose.cells/protectedrangecollection)

@@ -34,6 +34,6 @@ def text_orientation_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CustomXmlShape](/cells/python-net/aspose.cells.drawing/customxmlshape)
-* class [TextOrientationType](/cells/python-net/aspose.cells/textorientationtype)
+* module [`aspose.cells.drawing`](../../)
+* class [`CustomXmlShape`](/cells/python-net/aspose.cells.drawing/customxmlshape)
+* class [`TextOrientationType`](/cells/python-net/aspose.cells/textorientationtype)

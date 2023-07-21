@@ -86,4 +86,4 @@ book.save("out.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells.slicers](..)
+* module [`aspose.cells.slicers`](..)

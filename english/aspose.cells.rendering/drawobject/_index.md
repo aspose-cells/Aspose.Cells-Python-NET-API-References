@@ -30,4 +30,4 @@ The DrawObject type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.rendering](..)
+* module [`aspose.cells.rendering`](..)

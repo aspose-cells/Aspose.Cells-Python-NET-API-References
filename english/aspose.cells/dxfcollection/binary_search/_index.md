@@ -8,7 +8,7 @@ url: /aspose.cells/dxfcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Style}
+## binary_search {#aspose.cells.Style}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Style](/cells/python-net/aspose.cells/style) | The System.Object to locate. The value can be null. |
+| item | [`Style`](/cells/python-net/aspose.cells/style) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DxfCollection](/cells/python-net/aspose.cells/dxfcollection)
+* module [`aspose.cells`](../../)
+* class [`DxfCollection`](/cells/python-net/aspose.cells/dxfcollection)

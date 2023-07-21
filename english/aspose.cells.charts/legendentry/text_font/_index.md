@@ -11,7 +11,7 @@ is_root: false
 ## text_font property
 
 
-Gets a [LegendEntry.font](/cells/python-net/aspose.cells.charts/legendentry#font) object of the specified LegendEntry object.
+Gets a [`LegendEntry.font`](/cells/python-net/aspose.cells.charts/legendentry#font) object of the specified LegendEntry object.
 
 ### Remarks 
 
@@ -28,6 +28,6 @@ def text_font(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Font](/cells/python-net/aspose.cells/font)
-* class [LegendEntry](/cells/python-net/aspose.cells.charts/legendentry)
+* module [`aspose.cells.charts`](../../)
+* class [`Font`](/cells/python-net/aspose.cells/font)
+* class [`LegendEntry`](/cells/python-net/aspose.cells.charts/legendentry)

@@ -20,6 +20,6 @@ def new_style(self):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [RevisionCellChange](/cells/python-net/aspose.cells.revisions/revisioncellchange)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells.revisions`](../../)
+* class [`RevisionCellChange`](/cells/python-net/aspose.cells.revisions/revisioncellchange)
+* class [`Style`](/cells/python-net/aspose.cells/style)

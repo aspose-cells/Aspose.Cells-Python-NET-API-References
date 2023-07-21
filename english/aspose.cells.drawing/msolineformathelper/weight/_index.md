@@ -23,5 +23,5 @@ def weight(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoLineFormatHelper](/cells/python-net/aspose.cells.drawing/msolineformathelper)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoLineFormatHelper`](/cells/python-net/aspose.cells.drawing/msolineformathelper)

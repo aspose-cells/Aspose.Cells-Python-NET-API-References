@@ -23,6 +23,6 @@ def alignment(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [CheckBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* class [ControlCaptionAlignmentType](/cells/python-net/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`CheckBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* class [`ControlCaptionAlignmentType`](/cells/python-net/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)

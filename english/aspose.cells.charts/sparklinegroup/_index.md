@@ -10,7 +10,7 @@ is_root: false
 
 ## SparklineGroup class
 
-[Sparkline](/cells/python-net/aspose.cells.charts/sparkline) is organized into sparkline group. A SparklineGroup contains a variable number of sparkline items.
+[`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) is organized into sparkline group. A SparklineGroup contains a variable number of sparkline items.
 A sparkline group specifies the type, display settings and axis settings for the sparklines.
 
 
@@ -21,8 +21,8 @@ The SparklineGroup type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [preset_style](/cells/python-net/aspose.cells.charts/sparklinegroup/preset_style) | Gets and sets the preset style type of the sparkline group. |
-| [sparkline_collection](/cells/python-net/aspose.cells.charts/sparklinegroup/sparkline_collection) | Gets the collection of [Sparkline](/cells/python-net/aspose.cells.charts/sparkline) object. |
-| [sparklines](/cells/python-net/aspose.cells.charts/sparklinegroup/sparklines) | Gets the collection of [Sparkline](/cells/python-net/aspose.cells.charts/sparkline) object. |
+| [sparkline_collection](/cells/python-net/aspose.cells.charts/sparklinegroup/sparkline_collection) | Gets the collection of [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) object. |
+| [sparklines](/cells/python-net/aspose.cells.charts/sparklinegroup/sparklines) | Gets the collection of [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) object. |
 | [type](/cells/python-net/aspose.cells.charts/sparklinegroup/type) | Indicates the sparkline type of the sparkline group. |
 | [plot_empty_cells_type](/cells/python-net/aspose.cells.charts/sparklinegroup/plot_empty_cells_type) | Indicates how to plot empty cells. |
 | [display_hidden](/cells/python-net/aspose.cells.charts/sparklinegroup/display_hidden) | Indicates whether to show data in hidden rows and columns. |
@@ -53,7 +53,7 @@ The SparklineGroup type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [reset_ranges(data_range, is_vertical, location_range)](/cells/python-net/aspose.cells.charts/sparklinegroup/reset_ranges/#str-bool-CellArea) | Resets the data range and location range of the sparkline group. <br/>This method will clear original sparkline items in the group and creates new sparkline items for the new ranges. |
+| [reset_ranges](/cells/python-net/aspose.cells.charts/sparklinegroup/reset_ranges/#str-bool-aspose.cells.CellArea) | Resets the data range and location range of the sparkline group. <br/>This method will clear original sparkline items in the group and creates new sparkline items for the new ranges. |
 
 
 
@@ -96,5 +96,5 @@ book.save("output.xlsx", SaveFormat.XLSX)
 ```
 
 ### See Also
-* module [aspose.cells.charts](..)
-* class [Sparkline](/cells/python-net/aspose.cells.charts/sparkline)
+* module [`aspose.cells.charts`](..)
+* class [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline)

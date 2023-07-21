@@ -8,7 +8,7 @@ url: /aspose.cells/calculationdata/get_param_text/
 is_root: false
 ---
 
-## get_param_text(index) {#int}
+## get_param_text {#int}
 
 Gets the literal text of the parameter at given index.
 
@@ -32,5 +32,5 @@ def get_param_text(self, index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CalculationData](/cells/python-net/aspose.cells/calculationdata)
+* module [`aspose.cells`](../../)
+* class [`CalculationData`](/cells/python-net/aspose.cells/calculationdata)

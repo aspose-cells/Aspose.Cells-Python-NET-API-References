@@ -3,7 +3,7 @@ title: soft_edges property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 910
+weight: 920
 url: /aspose.cells.drawing/radiobutton/soft_edges/
 is_root: false
 ---
@@ -32,5 +32,5 @@ def soft_edges(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

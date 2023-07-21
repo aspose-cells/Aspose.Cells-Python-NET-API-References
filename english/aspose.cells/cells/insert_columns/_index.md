@@ -8,7 +8,7 @@ url: /aspose.cells/cells/insert_columns/
 is_root: false
 ---
 
-## insert_columns(column_index, total_columns) {#int-int}
+## insert_columns {#int-int}
 
 Inserts some columns into the worksheet.
 
@@ -26,7 +26,7 @@ def insert_columns(self, column_index, total_columns):
 | total_columns | int | The number of columns. |
 
 
-## insert_columns(column_index, total_columns, update_reference) {#int-int-bool}
+## insert_columns {#int-int-bool}
 
 Inserts some columns into the worksheet.
 
@@ -47,5 +47,5 @@ def insert_columns(self, column_index, total_columns, update_reference):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

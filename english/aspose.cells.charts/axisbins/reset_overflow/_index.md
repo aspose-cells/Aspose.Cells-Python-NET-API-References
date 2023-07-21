@@ -8,7 +8,7 @@ url: /aspose.cells.charts/axisbins/reset_overflow/
 is_root: false
 ---
 
-## reset_overflow() {#}
+## reset_overflow {#}
 
 Reset the overflow
 
@@ -24,5 +24,5 @@ def reset_overflow(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [AxisBins](/cells/python-net/aspose.cells.charts/axisbins)
+* module [`aspose.cells.charts`](../../)
+* class [`AxisBins`](/cells/python-net/aspose.cells.charts/axisbins)

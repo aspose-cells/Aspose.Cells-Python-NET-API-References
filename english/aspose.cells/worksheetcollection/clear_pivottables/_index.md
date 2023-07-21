@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/clear_pivottables/
 is_root: false
 ---
 
-## clear_pivottables() {#}
+## clear_pivottables {#}
 
 Clears pivot tables from the spreadsheet.
 
@@ -24,5 +24,5 @@ def clear_pivottables(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

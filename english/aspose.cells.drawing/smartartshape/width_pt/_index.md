@@ -19,7 +19,7 @@ Represents the width of the shape, in unit of point.
 ```python
 
 if shape.width_pt == 3:
-    shape.width_pt = 1
+    shape.width_pt = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def width_pt(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [SmartArtShape](/cells/python-net/aspose.cells.drawing/smartartshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape)

@@ -25,6 +25,7 @@ The ShapeTextAlignment type exposes the following members:
 | [text_horizontal_overflow](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/text_horizontal_overflow) | Gets and sets the text horizontal overflow type of the text box. |
 | [rotation_angle](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/rotation_angle) | Gets and sets the rotation of the shape. |
 | [text_vertical_type](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/text_vertical_type) | Gets and sets the text direction. |
+| [is_locked_text](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/is_locked_text) | Indicates whether the shape is locked when worksheet is protected. |
 | [auto_size](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/auto_size) | Indicates if size of shape is adjusted automatically according to its content. |
 | [text_shape_type](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/text_shape_type) | Gets and set the transform type of text. |
 | [top_margin_pt](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/top_margin_pt) | Returns the top margin in unit of Points |
@@ -50,4 +51,4 @@ shapeTextAlignment = shape.text_body.text_alignment
 ```
 
 ### See Also
-* module [aspose.cells.drawing.texts](..)
+* module [`aspose.cells.drawing.texts`](..)

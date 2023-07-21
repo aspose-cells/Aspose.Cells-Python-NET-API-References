@@ -35,7 +35,7 @@ The Timeline type exposes the following members:
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -84,4 +84,4 @@ book.save("out.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells.timelines](..)
+* module [`aspose.cells.timelines`](..)

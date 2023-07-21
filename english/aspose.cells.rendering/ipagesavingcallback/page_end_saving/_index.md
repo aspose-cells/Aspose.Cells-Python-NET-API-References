@@ -8,7 +8,7 @@ url: /aspose.cells.rendering/ipagesavingcallback/page_end_saving/
 is_root: false
 ---
 
-## page_end_saving(args) {#PageEndSavingArgs}
+## page_end_saving {#aspose.cells.rendering.PageEndSavingArgs}
 
 Control/Indicate a page ends to be output.
 
@@ -22,10 +22,10 @@ def page_end_saving(self, args):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| args | [PageEndSavingArgs](/cells/python-net/aspose.cells.rendering/pageendsavingargs) | Info for a page ends saving process. |
+| args | [`PageEndSavingArgs`](/cells/python-net/aspose.cells.rendering/pageendsavingargs) | Info for a page ends saving process. |
 
 
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [IPageSavingCallback](/cells/python-net/aspose.cells.rendering/ipagesavingcallback)
+* module [`aspose.cells.rendering`](../../)
+* class [`IPageSavingCallback`](/cells/python-net/aspose.cells.rendering/ipagesavingcallback)

@@ -3,7 +3,7 @@ title: LightRigType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 910
 url: /aspose.cells.drawing/lightrigtype/
 is_root: false
 ---
@@ -51,4 +51,4 @@ The LightRigType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

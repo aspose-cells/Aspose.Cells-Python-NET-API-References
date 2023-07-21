@@ -23,5 +23,5 @@ def row(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.ods](../../)
-* class [OdsCellField](/cells/python-net/aspose.cells.ods/odscellfield)
+* module [`aspose.cells.ods`](../../)
+* class [`OdsCellField`](/cells/python-net/aspose.cells.ods/odscellfield)

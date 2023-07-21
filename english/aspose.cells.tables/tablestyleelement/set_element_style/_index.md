@@ -8,7 +8,7 @@ url: /aspose.cells.tables/tablestyleelement/set_element_style/
 is_root: false
 ---
 
-## set_element_style(style) {#Style}
+## set_element_style {#aspose.cells.Style}
 
 Sets the element style.
 
@@ -22,10 +22,10 @@ def set_element_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [Style](/cells/python-net/aspose.cells/style) | The element style. |
+| style | [`Style`](/cells/python-net/aspose.cells/style) | The element style. |
 
 
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [TableStyleElement](/cells/python-net/aspose.cells.tables/tablestyleelement)
+* module [`aspose.cells.tables`](../../)
+* class [`TableStyleElement`](/cells/python-net/aspose.cells.tables/tablestyleelement)

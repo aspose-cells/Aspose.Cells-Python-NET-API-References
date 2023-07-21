@@ -3,12 +3,12 @@ title: to_pdf method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 150
 url: /aspose.cells.charts/chart/to_pdf/
 is_root: false
 ---
 
-## to_pdf(file_name) {#str}
+## to_pdf {#str}
 
 Saves the chart to a pdf file.
 
@@ -25,7 +25,7 @@ def to_pdf(self, file_name):
 | file_name | str | the pdf file name with full path |
 
 
-## to_pdf(stream) {#io.RawIOBase}
+## to_pdf {#io.RawIOBase}
 
 Creates the chart pdf and saves it to a stream.
 
@@ -42,7 +42,7 @@ def to_pdf(self, stream):
 | stream | io.RawIOBase | The output stream. |
 
 
-## to_pdf(file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#str-float-float-PageLayoutAlignmentType-PageLayoutAlignmentType}
+## to_pdf {#str-float-float-aspose.cells.PageLayoutAlignmentType-aspose.cells.PageLayoutAlignmentType}
 
 Saves the chart to a pdf file.
 
@@ -59,11 +59,11 @@ def to_pdf(self, file_name, desired_page_width, desired_page_height, h_alignment
 | file_name | str | the pdf file name with full path |
 | desired_page_width | float | The desired page width in inches. |
 | desired_page_height | float | The desired page height in inches. |
-| h_alignment_type | [PageLayoutAlignmentType](/cells/python-net/aspose.cells/pagelayoutalignmenttype) | The chart horizontal alignment type in the output page. |
-| v_alignment_type | [PageLayoutAlignmentType](/cells/python-net/aspose.cells/pagelayoutalignmenttype) | The chart vertical alignment type in the output page. |
+| h_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/aspose.cells/pagelayoutalignmenttype) | The chart horizontal alignment type in the output page. |
+| v_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/aspose.cells/pagelayoutalignmenttype) | The chart vertical alignment type in the output page. |
 
 
-## to_pdf(stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#io.RawIOBase-float-float-PageLayoutAlignmentType-PageLayoutAlignmentType}
+## to_pdf {#io.RawIOBase-float-float-aspose.cells.PageLayoutAlignmentType-aspose.cells.PageLayoutAlignmentType}
 
 Creates the chart pdf and saves it to a stream.
 
@@ -80,11 +80,11 @@ def to_pdf(self, stream, desired_page_width, desired_page_height, h_alignment_ty
 | stream | io.RawIOBase | The output stream. |
 | desired_page_width | float | The desired page width in inches. |
 | desired_page_height | float | The desired page height in inches. |
-| h_alignment_type | [PageLayoutAlignmentType](/cells/python-net/aspose.cells/pagelayoutalignmenttype) | The chart horizontal alignment type in the output page. |
-| v_alignment_type | [PageLayoutAlignmentType](/cells/python-net/aspose.cells/pagelayoutalignmenttype) | The chart vertical alignment type in the output page. |
+| h_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/aspose.cells/pagelayoutalignmenttype) | The chart horizontal alignment type in the output page. |
+| v_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/aspose.cells/pagelayoutalignmenttype) | The chart vertical alignment type in the output page. |
 
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

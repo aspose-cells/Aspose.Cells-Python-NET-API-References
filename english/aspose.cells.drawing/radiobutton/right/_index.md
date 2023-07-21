@@ -3,7 +3,7 @@ title: right property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 870
+weight: 880
 url: /aspose.cells.drawing/radiobutton/right/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def right(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

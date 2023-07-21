@@ -19,7 +19,7 @@ The ExportTableOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ExportTableOptions()](/cells/python-net/aspose.cells/exporttableoptions/__init__/#) | Constructs a new instance of ExportTableOptions |
+| [__init__](/cells/python-net/aspose.cells/exporttableoptions/__init__/#) | Constructs a new instance of ExportTableOptions |
 
 
 ### Properties
@@ -41,4 +41,4 @@ The ExportTableOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

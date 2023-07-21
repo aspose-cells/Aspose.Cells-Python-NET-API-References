@@ -26,4 +26,4 @@ The MetadataType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.metadata](..)
+* module [`aspose.cells.metadata`](..)

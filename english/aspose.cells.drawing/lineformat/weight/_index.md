@@ -32,5 +32,5 @@ def weight(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LineFormat](/cells/python-net/aspose.cells.drawing/lineformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`LineFormat`](/cells/python-net/aspose.cells.drawing/lineformat)

@@ -20,5 +20,5 @@ def refers_to(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [UnionRange](/cells/python-net/aspose.cells/unionrange)
+* module [`aspose.cells`](../../)
+* class [`UnionRange`](/cells/python-net/aspose.cells/unionrange)

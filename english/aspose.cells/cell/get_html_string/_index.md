@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_html_string/
 is_root: false
 ---
 
-## get_html_string(html5) {#bool}
+## get_html_string {#bool}
 
 Gets the html string which contains data and some formats in this cell.
 
@@ -32,5 +32,5 @@ def get_html_string(self, html5):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

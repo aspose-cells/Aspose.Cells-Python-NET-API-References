@@ -31,6 +31,6 @@ def credentials(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [CredentialsMethodType](/cells/python-net/aspose.cells.externalconnections/credentialsmethodtype)
-* class [WebQueryConnection](/cells/python-net/aspose.cells.externalconnections/webqueryconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`CredentialsMethodType`](/cells/python-net/aspose.cells.externalconnections/credentialsmethodtype)
+* class [`WebQueryConnection`](/cells/python-net/aspose.cells.externalconnections/webqueryconnection)

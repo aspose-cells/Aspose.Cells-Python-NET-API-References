@@ -14,8 +14,8 @@ Represents the character bullet.
 
 
 
-**Inheritance:** [CharacterBulletValue](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue) → 
-[BulletValue](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
+**Inheritance:** [`CharacterBulletValue`](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue) → 
+[`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
 
 
 
@@ -24,7 +24,7 @@ The CharacterBulletValue type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [CharacterBulletValue()](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) | Constructs a new instance of CharacterBulletValue |
+| [__init__](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) | Constructs a new instance of CharacterBulletValue |
 
 
 ### Properties
@@ -36,6 +36,6 @@ The CharacterBulletValue type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](..)
-* class [BulletValue](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
-* class [CharacterBulletValue](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue)
+* module [`aspose.cells.drawing.texts`](..)
+* class [`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
+* class [`CharacterBulletValue`](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue)

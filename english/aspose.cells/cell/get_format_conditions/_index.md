@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_format_conditions/
 is_root: false
 ---
 
-## get_format_conditions() {#}
+## get_format_conditions {#}
 
 Gets format conditions which applies to this cell.
 
@@ -16,7 +16,7 @@ Gets format conditions which applies to this cell.
 ### Returns 
 
 
-Returns [FormatConditionCollection](/cells/python-net/aspose.cells/formatconditioncollection) object
+Returns [`FormatConditionCollection`](/cells/python-net/aspose.cells/formatconditioncollection) object
 
 
 ```python
@@ -29,6 +29,6 @@ def get_format_conditions(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
-* class [FormatConditionCollection](/cells/python-net/aspose.cells/formatconditioncollection)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`FormatConditionCollection`](/cells/python-net/aspose.cells/formatconditioncollection)

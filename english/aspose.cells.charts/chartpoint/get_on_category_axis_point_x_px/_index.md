@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/
 is_root: false
 ---
 
-## get_on_category_axis_point_x_px(index) {#int}
+## get_on_category_axis_point_x_px {#int}
 
 Gets x-coordinate of the point on category axis after calls Chart.Calculate() method. Only applies to Area chart.
 
@@ -30,5 +30,5 @@ Area 3D chart: index is 0 or 1.
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartPoint](/cells/python-net/aspose.cells.charts/chartpoint)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint)

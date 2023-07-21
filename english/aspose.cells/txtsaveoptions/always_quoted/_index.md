@@ -35,5 +35,5 @@ def always_quoted(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [TxtSaveOptions](/cells/python-net/aspose.cells/txtsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`TxtSaveOptions`](/cells/python-net/aspose.cells/txtsaveoptions)

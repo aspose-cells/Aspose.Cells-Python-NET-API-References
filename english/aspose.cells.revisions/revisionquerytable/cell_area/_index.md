@@ -20,6 +20,6 @@ def cell_area(self):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
-* class [RevisionQueryTable](/cells/python-net/aspose.cells.revisions/revisionquerytable)
+* module [`aspose.cells.revisions`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)
+* class [`RevisionQueryTable`](/cells/python-net/aspose.cells.revisions/revisionquerytable)

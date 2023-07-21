@@ -3,7 +3,7 @@ title: TiffCompression enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 250
 url: /aspose.cells.rendering/tiffcompression/
 is_root: false
 ---
@@ -28,4 +28,4 @@ The TiffCompression type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.rendering](..)
+* module [`aspose.cells.rendering`](..)

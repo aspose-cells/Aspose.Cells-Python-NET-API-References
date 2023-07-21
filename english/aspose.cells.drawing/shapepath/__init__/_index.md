@@ -8,9 +8,9 @@ url: /aspose.cells.drawing/shapepath/__init__/
 is_root: false
 ---
 
-## ShapePath() {#}
+## __init__ {#}
 
-Initializes a new instance of the [ShapePath](/cells/python-net/aspose.cells.drawing/shapepath) class.
+Initializes a new instance of the [`ShapePath`](/cells/python-net/aspose.cells.drawing/shapepath) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePath](/cells/python-net/aspose.cells.drawing/shapepath)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePath`](/cells/python-net/aspose.cells.drawing/shapepath)

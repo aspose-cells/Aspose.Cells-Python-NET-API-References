@@ -28,6 +28,6 @@ def line_format(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoLineFormat](/cells/python-net/aspose.cells.drawing/msolineformat)
-* class [SmartArtShape](/cells/python-net/aspose.cells.drawing/smartartshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoLineFormat`](/cells/python-net/aspose.cells.drawing/msolineformat)
+* class [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape)

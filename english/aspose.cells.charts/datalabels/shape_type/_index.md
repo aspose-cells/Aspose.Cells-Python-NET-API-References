@@ -23,6 +23,6 @@ def shape_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [DataLabelShapeType](/cells/python-net/aspose.cells.drawing/datalabelshapetype)
-* class [DataLabels](/cells/python-net/aspose.cells.charts/datalabels)
+* module [`aspose.cells.charts`](../../)
+* class [`DataLabelShapeType`](/cells/python-net/aspose.cells.drawing/datalabelshapetype)
+* class [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels)

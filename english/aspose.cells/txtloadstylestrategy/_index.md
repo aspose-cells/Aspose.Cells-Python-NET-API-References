@@ -3,7 +3,7 @@ title: TxtLoadStyleStrategy enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2600
+weight: 2650
 url: /aspose.cells/txtloadstylestrategy/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The TxtLoadStyleStrategy type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

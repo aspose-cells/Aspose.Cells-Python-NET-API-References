@@ -24,6 +24,6 @@ def top_bevel_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [BevelType](/cells/python-net/aspose.cells.drawing/beveltype)
-* class [ThreeDFormat](/cells/python-net/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`BevelType`](/cells/python-net/aspose.cells.drawing/beveltype)
+* class [`ThreeDFormat`](/cells/python-net/aspose.cells.drawing/threedformat)

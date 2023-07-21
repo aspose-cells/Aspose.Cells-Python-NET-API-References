@@ -49,5 +49,5 @@ def page_count(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions)

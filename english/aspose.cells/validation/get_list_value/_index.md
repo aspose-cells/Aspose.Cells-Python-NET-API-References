@@ -8,7 +8,7 @@ url: /aspose.cells/validation/get_list_value/
 is_root: false
 ---
 
-## get_list_value(row, column) {#int-int}
+## get_list_value {#int-int}
 
 Get the value for list of the validation for the specified cell.
 
@@ -17,7 +17,7 @@ Get the value for list of the validation for the specified cell.
 
 
 The value to produce the list of this validation for the specified cell.
-If the list references to a range, then the returned value will be a [ReferredArea](/cells/python-net/aspose.cells/referredarea) object;
+If the list references to a range, then the returned value will be a [`ReferredArea`](/cells/python-net/aspose.cells/referredarea) object;
 Otherwise the returned value may be null, object[], or simple object.
 
 
@@ -38,6 +38,6 @@ otherwise null will be returned.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ReferredArea](/cells/python-net/aspose.cells/referredarea)
-* class [Validation](/cells/python-net/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* class [`ReferredArea`](/cells/python-net/aspose.cells/referredarea)
+* class [`Validation`](/cells/python-net/aspose.cells/validation)

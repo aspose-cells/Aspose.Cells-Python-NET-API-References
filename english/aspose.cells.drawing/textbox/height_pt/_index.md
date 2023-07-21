@@ -3,7 +3,7 @@ title: height_pt property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /aspose.cells.drawing/textbox/height_pt/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Represents the height of the shape, in unit of points.
 ```python
 
 if shape.height_pt == 3:
-    shape.height_pt = 1
+    shape.height_pt = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def height_pt(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

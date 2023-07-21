@@ -3,7 +3,7 @@ title: upper_left_column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1130
+weight: 1140
 url: /aspose.cells.drawing/textbox/upper_left_column/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def upper_left_column(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

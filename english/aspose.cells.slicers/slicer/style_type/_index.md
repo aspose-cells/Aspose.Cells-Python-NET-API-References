@@ -34,6 +34,6 @@ def style_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [Slicer](/cells/python-net/aspose.cells.slicers/slicer)
-* class [SlicerStyleType](/cells/python-net/aspose.cells.slicers/slicerstyletype)
+* module [`aspose.cells.slicers`](../../)
+* class [`Slicer`](/cells/python-net/aspose.cells.slicers/slicer)
+* class [`SlicerStyleType`](/cells/python-net/aspose.cells.slicers/slicerstyletype)

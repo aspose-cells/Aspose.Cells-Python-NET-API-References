@@ -3,7 +3,7 @@ title: vertical_resolution property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells.rendering/imageorprintoptions/vertical_resolution/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def vertical_resolution(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [ImageOrPrintOptions](/cells/python-net/aspose.cells.rendering/imageorprintoptions)
+* module [`aspose.cells.rendering`](../../)
+* class [`ImageOrPrintOptions`](/cells/python-net/aspose.cells.rendering/imageorprintoptions)

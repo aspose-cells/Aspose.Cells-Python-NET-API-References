@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XmlMapCollection](/cells/python-net/aspose.cells/xmlmapcollection)
+* module [`aspose.cells`](../../)
+* class [`XmlMapCollection`](/cells/python-net/aspose.cells/xmlmapcollection)

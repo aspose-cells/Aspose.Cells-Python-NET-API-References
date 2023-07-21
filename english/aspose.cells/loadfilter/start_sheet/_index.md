@@ -8,7 +8,7 @@ url: /aspose.cells/loadfilter/start_sheet/
 is_root: false
 ---
 
-## start_sheet(sheet) {#Worksheet}
+## start_sheet {#aspose.cells.Worksheet}
 
 Prepares filter options before loading given worksheet.
 User's implementation of LoadFilter can change the LoadDataFilterOptions here
@@ -24,10 +24,10 @@ def start_sheet(self, sheet):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheet | [Worksheet](/cells/python-net/aspose.cells/worksheet) | The worksheet to be loaded.<br/>There are only few properties can be used for the given worksheet object here<br/>because most data and properties have not been loaded. The available properties are:<br/>Name, Index, VisibilityType |
+| sheet | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | The worksheet to be loaded.<br/>There are only few properties can be used for the given worksheet object here<br/>because most data and properties have not been loaded. The available properties are:<br/>Name, Index, VisibilityType |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LoadFilter](/cells/python-net/aspose.cells/loadfilter)
+* module [`aspose.cells`](../../)
+* class [`LoadFilter`](/cells/python-net/aspose.cells/loadfilter)

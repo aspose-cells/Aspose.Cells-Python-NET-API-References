@@ -3,12 +3,12 @@ title: add_line method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells.drawing/shapecollection/add_line/
 is_root: false
 ---
 
-## add_line(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+## add_line {#int-int-int-int-int-int}
 
 Adds a LineShape to the worksheet.
 
@@ -47,5 +47,5 @@ lineShape = shapes.add_line(1, 0, 1, 0, 100, 50)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

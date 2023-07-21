@@ -32,8 +32,8 @@ The CalculationData type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_param_value(index)](/cells/python-net/aspose.cells/calculationdata/get_param_value/#int) | Gets the represented value object of the parameter at given index. |
-| [get_param_text(index)](/cells/python-net/aspose.cells/calculationdata/get_param_text/#int) | Gets the literal text of the parameter at given index. |
+| [get_param_value](/cells/python-net/aspose.cells/calculationdata/get_param_value/#int) | Gets the represented value object of the parameter at given index. |
+| [get_param_text](/cells/python-net/aspose.cells/calculationdata/get_param_text/#int) | Gets the literal text of the parameter at given index. |
 
 
 
@@ -45,4 +45,4 @@ User should not change any data in the Workbook during the formula calculation p
 Otherwise unexpected result or Exception may be caused.
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

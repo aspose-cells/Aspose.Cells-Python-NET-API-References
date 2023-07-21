@@ -8,7 +8,7 @@ url: /aspose.cells/style/copy/
 is_root: false
 ---
 
-## copy(style) {#Style}
+## copy {#aspose.cells.Style}
 
 Copies data from another style object
 
@@ -22,7 +22,7 @@ def copy(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [Style](/cells/python-net/aspose.cells/style) | Source Style object |
+| style | [`Style`](/cells/python-net/aspose.cells/style) | Source Style object |
 ### Remarks
 
 This method does not copy the name of the style.
@@ -31,5 +31,5 @@ destStyle.Name = style.Name.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)

@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/set_header/
 is_root: false
 ---
 
-## set_header(section, header_script) {#int-str}
+## set_header {#int-str}
 
 Sets a script formatting the header of an Excel file.
 
@@ -47,5 +47,5 @@ For example: "&Arial,Bold&8Header Note"
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)

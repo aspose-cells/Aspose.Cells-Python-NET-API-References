@@ -23,5 +23,5 @@ def color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Border](/cells/python-net/aspose.cells/border)
+* module [`aspose.cells`](../../)
+* class [`Border`](/cells/python-net/aspose.cells/border)

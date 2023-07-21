@@ -3,7 +3,7 @@ title: floor property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 280
 url: /aspose.cells.charts/chart/floor/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## floor property
 
 
-Returns a [Chart.floor](/cells/python-net/aspose.cells.charts/chart#floor) object that represents the walls of a 3-D chart.
+Returns a [`Chart.floor`](/cells/python-net/aspose.cells.charts/chart#floor) object that represents the walls of a 3-D chart.
 
 ### Remarks 
 
@@ -25,6 +25,6 @@ def floor(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
-* class [Floor](/cells/python-net/aspose.cells.charts/floor)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)
+* class [`Floor`](/cells/python-net/aspose.cells.charts/floor)

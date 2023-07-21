@@ -23,5 +23,5 @@ def export_worksheet_css_separately(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)

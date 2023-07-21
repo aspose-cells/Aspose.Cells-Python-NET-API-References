@@ -8,7 +8,7 @@ url: /aspose.cells/cells/is_deleting_range_enabled/
 is_root: false
 ---
 
-## is_deleting_range_enabled(start_row, start_column, total_rows, total_columns) {#int-int-int-int}
+## is_deleting_range_enabled {#int-int-int-int}
 
 Check whether the range could be deleted.
 
@@ -35,5 +35,5 @@ def is_deleting_range_enabled(self, start_row, start_column, total_rows, total_c
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

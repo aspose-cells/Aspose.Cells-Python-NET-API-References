@@ -3,7 +3,7 @@ title: text_frame property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 950
+weight: 960
 url: /aspose.cells.drawing/textbox/text_frame/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def text_frame(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoTextFrame](/cells/python-net/aspose.cells.drawing/msotextframe)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoTextFrame`](/cells/python-net/aspose.cells.drawing/msotextframe)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

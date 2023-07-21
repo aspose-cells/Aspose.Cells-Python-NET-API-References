@@ -23,6 +23,6 @@ def update_links_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [UpdateLinksType](/cells/python-net/aspose.cells/updatelinkstype)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`UpdateLinksType`](/cells/python-net/aspose.cells/updatelinkstype)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

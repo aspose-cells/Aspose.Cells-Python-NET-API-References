@@ -3,7 +3,7 @@ title: RevisionQueryTable class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /aspose.cells.revisions/revisionquerytable/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents a revision of a query table field change.
 
 
 
-**Inheritance:** [RevisionQueryTable](/cells/python-net/aspose.cells.revisions/revisionquerytable) → 
-[Revision](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionQueryTable`](/cells/python-net/aspose.cells.revisions/revisionquerytable) → 
+[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 
 
 
@@ -33,6 +33,6 @@ The RevisionQueryTable type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [RevisionQueryTable](/cells/python-net/aspose.cells.revisions/revisionquerytable)
+* module [`aspose.cells.revisions`](..)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`RevisionQueryTable`](/cells/python-net/aspose.cells.revisions/revisionquerytable)

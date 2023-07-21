@@ -11,7 +11,7 @@ is_root: false
 ## TextParagraphCollection indexer
 
 
-Gets the [TextParagraph](/cells/python-net/aspose.cells.drawing.texts/textparagraph) object at specific index.
+Gets the [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textparagraph) object at specific index.
 ### Indexer
 | Name | Description |
 | :- | :- |
@@ -25,6 +25,6 @@ Gets the [TextParagraph](/cells/python-net/aspose.cells.drawing.texts/textparagr
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [TextParagraph](/cells/python-net/aspose.cells.drawing.texts/textparagraph)
-* class [TextParagraphCollection](/cells/python-net/aspose.cells.drawing.texts/textparagraphcollection)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textparagraph)
+* class [`TextParagraphCollection`](/cells/python-net/aspose.cells.drawing.texts/textparagraphcollection)

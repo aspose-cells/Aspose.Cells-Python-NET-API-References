@@ -19,7 +19,7 @@ Represents the height of the shape, in unit of points.
 ```python
 
 if shape.height_pt == 3:
-    shape.height_pt = 1
+    shape.height_pt = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def height_pt(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Shape](/cells/python-net/aspose.cells.drawing/shape)
+* module [`aspose.cells.drawing`](../../)
+* class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)

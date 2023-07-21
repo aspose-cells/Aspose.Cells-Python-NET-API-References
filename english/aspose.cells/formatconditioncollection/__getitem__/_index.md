@@ -25,5 +25,5 @@ Gets the formatting condition by index.
 the formatting condition
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormatConditionCollection](/cells/python-net/aspose.cells/formatconditioncollection)
+* module [`aspose.cells`](../../)
+* class [`FormatConditionCollection`](/cells/python-net/aspose.cells/formatconditioncollection)

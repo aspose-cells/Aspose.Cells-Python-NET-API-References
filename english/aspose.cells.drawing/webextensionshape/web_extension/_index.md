@@ -23,6 +23,6 @@ def web_extension(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [WebExtension](/cells/python-net/aspose.cells.webextensions/webextension)
-* class [WebExtensionShape](/cells/python-net/aspose.cells.drawing/webextensionshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`WebExtension`](/cells/python-net/aspose.cells.webextensions/webextension)
+* class [`WebExtensionShape`](/cells/python-net/aspose.cells.drawing/webextensionshape)

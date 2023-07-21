@@ -23,5 +23,5 @@ def hide_selection(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [TextBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`TextBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

@@ -19,9 +19,9 @@ The AbstractGlobalizationSettings type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [compare(v1, v2, ignore_case)](/cells/python-net/aspose.cells/abstractglobalizationsettings/compare/#str-str-bool) | Compares two string values according to certain collation rules. |
+| [compare](/cells/python-net/aspose.cells/abstractglobalizationsettings/compare/#str-str-bool) | Compares two string values according to certain collation rules. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

@@ -28,5 +28,5 @@ def is_in_table(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

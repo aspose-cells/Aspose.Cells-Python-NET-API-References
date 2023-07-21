@@ -23,6 +23,6 @@ def picture_position(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [ControlPicturePositionType](/cells/python-net/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)
-* class [RadioButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`ControlPicturePositionType`](/cells/python-net/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)
+* class [`RadioButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

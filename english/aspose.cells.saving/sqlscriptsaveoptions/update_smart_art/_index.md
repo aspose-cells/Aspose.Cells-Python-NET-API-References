@@ -29,5 +29,5 @@ def update_smart_art(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.saving](../../)
-* class [SqlScriptSaveOptions](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](../../)
+* class [`SqlScriptSaveOptions`](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)

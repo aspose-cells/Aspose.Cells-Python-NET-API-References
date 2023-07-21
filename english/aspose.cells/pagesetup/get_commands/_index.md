@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/get_commands/
 is_root: false
 ---
 
-## get_commands(header_footer_script) {#str}
+## get_commands {#str}
 
 Gets all commands of header or footer.
 
@@ -32,5 +32,5 @@ def get_commands(self, header_footer_script):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)

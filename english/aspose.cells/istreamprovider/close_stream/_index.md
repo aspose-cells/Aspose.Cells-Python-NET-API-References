@@ -8,7 +8,7 @@ url: /aspose.cells/istreamprovider/close_stream/
 is_root: false
 ---
 
-## close_stream(options) {#StreamProviderOptions}
+## close_stream {#aspose.cells.StreamProviderOptions}
 
 Closes the stream.
 
@@ -22,10 +22,10 @@ def close_stream(self, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [StreamProviderOptions](/cells/python-net/aspose.cells/streamprovideroptions) |  |
+| options | [`StreamProviderOptions`](/cells/python-net/aspose.cells/streamprovideroptions) |  |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IStreamProvider](/cells/python-net/aspose.cells/istreamprovider)
+* module [`aspose.cells`](../../)
+* class [`IStreamProvider`](/cells/python-net/aspose.cells/istreamprovider)

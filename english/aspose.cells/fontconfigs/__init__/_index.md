@@ -8,7 +8,7 @@ url: /aspose.cells/fontconfigs/__init__/
 is_root: false
 ---
 
-## FontConfigs() {#}
+## __init__ {#}
 
 Constructs a new instance of FontConfigs
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FontConfigs](/cells/python-net/aspose.cells/fontconfigs)
+* module [`aspose.cells`](../../)
+* class [`FontConfigs`](/cells/python-net/aspose.cells/fontconfigs)

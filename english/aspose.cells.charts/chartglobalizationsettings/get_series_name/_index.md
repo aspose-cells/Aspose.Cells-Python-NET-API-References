@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartglobalizationsettings/get_series_name/
 is_root: false
 ---
 
-## get_series_name() {#}
+## get_series_name {#}
 
 Gets the name of Series in the Chart.
 
@@ -29,5 +29,5 @@ def get_series_name(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartGlobalizationSettings](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartGlobalizationSettings`](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)

@@ -20,6 +20,6 @@ def filter_type(self):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFilter](/cells/python-net/aspose.cells.pivot/pivotfilter)
-* class [PivotFilterType](/cells/python-net/aspose.cells.pivot/pivotfiltertype)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFilter`](/cells/python-net/aspose.cells.pivot/pivotfilter)
+* class [`PivotFilterType`](/cells/python-net/aspose.cells.pivot/pivotfiltertype)

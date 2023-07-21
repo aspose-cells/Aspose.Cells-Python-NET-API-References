@@ -34,6 +34,6 @@ def text_direction(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
-* class [TextDirectionType](/cells/python-net/aspose.cells/textdirectiontype)
+* module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)
+* class [`TextDirectionType`](/cells/python-net/aspose.cells/textdirectiontype)

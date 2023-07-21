@@ -23,6 +23,6 @@ def store_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.webextensions](../../)
-* class [WebExtensionReference](/cells/python-net/aspose.cells.webextensions/webextensionreference)
-* class [WebExtensionStoreType](/cells/python-net/aspose.cells.webextensions/webextensionstoretype)
+* module [`aspose.cells.webextensions`](../../)
+* class [`WebExtensionReference`](/cells/python-net/aspose.cells.webextensions/webextensionreference)
+* class [`WebExtensionStoreType`](/cells/python-net/aspose.cells.webextensions/webextensionstoretype)

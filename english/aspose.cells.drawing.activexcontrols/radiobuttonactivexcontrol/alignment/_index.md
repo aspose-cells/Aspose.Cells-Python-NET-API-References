@@ -23,6 +23,6 @@ def alignment(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [ControlCaptionAlignmentType](/cells/python-net/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
-* class [RadioButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`ControlCaptionAlignmentType`](/cells/python-net/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
+* class [`RadioButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

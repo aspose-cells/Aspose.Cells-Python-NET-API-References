@@ -3,7 +3,7 @@ title: text_vertical_alignment property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1040
+weight: 1050
 url: /aspose.cells.drawing/radiobutton/text_vertical_alignment/
 is_root: false
 ---
@@ -34,6 +34,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
-* class [TextAlignmentType](/cells/python-net/aspose.cells/textalignmenttype)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)
+* class [`TextAlignmentType`](/cells/python-net/aspose.cells/textalignmenttype)

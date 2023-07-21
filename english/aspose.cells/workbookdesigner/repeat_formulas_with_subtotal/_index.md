@@ -23,5 +23,5 @@ def repeat_formulas_with_subtotal(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorkbookDesigner](/cells/python-net/aspose.cells/workbookdesigner)
+* module [`aspose.cells`](../../)
+* class [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner)

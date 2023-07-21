@@ -14,9 +14,9 @@ Represents options when importing a html file.
 
 
 
-**Inheritance:** [HtmlLoadOptions](/cells/python-net/aspose.cells/htmlloadoptions) → 
-[AbstractTextLoadOptions](/cells/python-net/aspose.cells/abstracttextloadoptions) → 
-[LoadOptions](/cells/python-net/aspose.cells/loadoptions)
+**Inheritance:** [`HtmlLoadOptions`](/cells/python-net/aspose.cells/htmlloadoptions) → 
+[`AbstractTextLoadOptions`](/cells/python-net/aspose.cells/abstracttextloadoptions) → 
+[`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
 
 
 
@@ -25,8 +25,8 @@ The HtmlLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [HtmlLoadOptions()](/cells/python-net/aspose.cells/htmlloadoptions/__init__/#) | Creates an options of loading the file. |
-| [HtmlLoadOptions(load_format)](/cells/python-net/aspose.cells/htmlloadoptions/__init__/#LoadFormat) | Creates an options of loading the file. |
+| [__init__](/cells/python-net/aspose.cells/htmlloadoptions/__init__/#) | Creates an options of loading the file. |
+| [__init__](/cells/python-net/aspose.cells/htmlloadoptions/__init__/#aspose.cells.LoadFormat) | Creates an options of loading the file. |
 
 
 ### Properties
@@ -52,7 +52,8 @@ The HtmlLoadOptions type exposes the following members:
 | [warning_callback](/cells/python-net/aspose.cells/htmlloadoptions/warning_callback) | Gets or sets warning callback. |
 | [auto_fitter_options](/cells/python-net/aspose.cells/htmlloadoptions/auto_fitter_options) | Gets and sets the auto fitter options |
 | [auto_filter](/cells/python-net/aspose.cells/htmlloadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
-| [font_configs](/cells/python-net/aspose.cells/htmlloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [Workbook](/cells/python-net/aspose.cells/workbook) which uses this [LoadOptions](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [font_configs](/cells/python-net/aspose.cells/htmlloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [ignore_useless_shapes](/cells/python-net/aspose.cells/htmlloadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
 | [encoding](/cells/python-net/aspose.cells/htmlloadoptions/encoding) | Gets and sets the default encoding. Only applies for csv file. |
 | [load_style_strategy](/cells/python-net/aspose.cells/htmlloadoptions/load_style_strategy) | Indicates the strategy to apply style for parsed values when converting string value to number or datetime. |
 | [convert_numeric_data](/cells/python-net/aspose.cells/htmlloadoptions/convert_numeric_data) | Gets or sets a value that indicates whether the string in text file is converted to numeric data. |
@@ -64,20 +65,22 @@ The HtmlLoadOptions type exposes the following members:
 | [delete_redundant_spaces](/cells/python-net/aspose.cells/htmlloadoptions/delete_redundant_spaces) | Indicates whether delete redundant spaces when the text wraps lines using <br>tag.The default value is false. |
 | [auto_fit_cols_and_rows](/cells/python-net/aspose.cells/htmlloadoptions/auto_fit_cols_and_rows) | Indicates whether auto-fit columns and rows. The default value is false. |
 | [convert_formulas_data](/cells/python-net/aspose.cells/htmlloadoptions/convert_formulas_data) | if true, convert string to formula when string value starts with character '=',the default value is false. |
+| [has_formula](/cells/python-net/aspose.cells/htmlloadoptions/has_formula) | Indicates whether the text is formula if it starts with "=". |
 | [stream_provider](/cells/python-net/aspose.cells/htmlloadoptions/stream_provider) | Gets or sets the StreamProviderImportHtmlFile for importing objects. |
 | [prog_id](/cells/python-net/aspose.cells/htmlloadoptions/prog_id) | Gets the program id of creating the file.<br/>Only for MHT files. |
+| [table_load_options](/cells/python-net/aspose.cells/htmlloadoptions/table_load_options) | Get the HtmlTableLoadOptionCollection instance |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_paper_size(type)](/cells/python-net/aspose.cells/htmlloadoptions/set_paper_size/#PaperSizeType) | Sets the default print paper size from default printer's setting. |
+| [set_paper_size](/cells/python-net/aspose.cells/htmlloadoptions/set_paper_size/#aspose.cells.PaperSizeType) | Sets the default print paper size from default printer's setting. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [AbstractTextLoadOptions](/cells/python-net/aspose.cells/abstracttextloadoptions)
-* class [HtmlLoadOptions](/cells/python-net/aspose.cells/htmlloadoptions)
-* class [LoadOptions](/cells/python-net/aspose.cells/loadoptions)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](..)
+* class [`AbstractTextLoadOptions`](/cells/python-net/aspose.cells/abstracttextloadoptions)
+* class [`HtmlLoadOptions`](/cells/python-net/aspose.cells/htmlloadoptions)
+* class [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensionbindingcollection/__init__/
 is_root: false
 ---
 
-## WebExtensionBindingCollection() {#}
+## __init__ {#}
 
 Constructs a new instance of WebExtensionBindingCollection
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.webextensions](../../)
-* class [WebExtensionBindingCollection](/cells/python-net/aspose.cells.webextensions/webextensionbindingcollection)
+* module [`aspose.cells.webextensions`](../../)
+* class [`WebExtensionBindingCollection`](/cells/python-net/aspose.cells.webextensions/webextensionbindingcollection)

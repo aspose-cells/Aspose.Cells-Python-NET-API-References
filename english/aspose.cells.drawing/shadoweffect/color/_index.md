@@ -23,6 +23,6 @@ def color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CellsColor](/cells/python-net/aspose.cells/cellscolor)
-* class [ShadowEffect](/cells/python-net/aspose.cells.drawing/shadoweffect)
+* module [`aspose.cells.drawing`](../../)
+* class [`CellsColor`](/cells/python-net/aspose.cells/cellscolor)
+* class [`ShadowEffect`](/cells/python-net/aspose.cells.drawing/shadoweffect)

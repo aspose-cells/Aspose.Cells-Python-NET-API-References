@@ -3,7 +3,7 @@ title: password property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /aspose.cells/abstracttextloadoptions/password/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def password(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractTextLoadOptions](/cells/python-net/aspose.cells/abstracttextloadoptions)
+* module [`aspose.cells`](../../)
+* class [`AbstractTextLoadOptions`](/cells/python-net/aspose.cells/abstracttextloadoptions)

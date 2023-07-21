@@ -19,17 +19,17 @@ The JsonUtility type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [JsonUtility()](/cells/python-net/aspose.cells.utility/jsonutility/__init__/#) | Constructs a new instance of JsonUtility |
+| [__init__](/cells/python-net/aspose.cells.utility/jsonutility/__init__/#) | Constructs a new instance of JsonUtility |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [export_range_to_json(range, options)](/cells/python-net/aspose.cells.utility/jsonutility/export_range_to_json/#Range-ExportRangeToJsonOptions) | Exporting the range to json file. |
-| [export_range_to_json(range, options)](/cells/python-net/aspose.cells.utility/jsonutility/export_range_to_json/#Range-JsonSaveOptions) | Exporting the range to json file. |
-| [import_data(json, cells, row, column, option)](/cells/python-net/aspose.cells.utility/jsonutility/import_data/#str-Cells-int-int-JsonLayoutOptions) | Import the json string. |
+| [export_range_to_json](/cells/python-net/aspose.cells.utility/jsonutility/export_range_to_json/#aspose.cells.Range-aspose.cells.utility.ExportRangeToJsonOptions) | Exporting the range to json file. |
+| [export_range_to_json](/cells/python-net/aspose.cells.utility/jsonutility/export_range_to_json/#aspose.cells.Range-aspose.cells.JsonSaveOptions) | Exporting the range to json file. |
+| [import_data](/cells/python-net/aspose.cells.utility/jsonutility/import_data/#str-aspose.cells.Cells-int-int-aspose.cells.utility.JsonLayoutOptions) | Import the json string. |
 
 
 
 ### See Also
-* module [aspose.cells.utility](..)
+* module [`aspose.cells.utility`](..)

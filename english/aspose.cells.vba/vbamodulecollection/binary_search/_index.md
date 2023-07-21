@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbamodulecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#VbaModule}
+## binary_search {#aspose.cells.vba.VbaModule}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [VbaModule](/cells/python-net/aspose.cells.vba/vbamodule) | The System.Object to locate. The value can be null. |
+| item | [`VbaModule`](/cells/python-net/aspose.cells.vba/vbamodule) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.vba](../../)
-* class [VbaModuleCollection](/cells/python-net/aspose.cells.vba/vbamodulecollection)
+* module [`aspose.cells.vba`](../../)
+* class [`VbaModuleCollection`](/cells/python-net/aspose.cells.vba/vbamodulecollection)

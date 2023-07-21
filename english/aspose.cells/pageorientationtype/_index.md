@@ -3,7 +3,7 @@ title: PageOrientationType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2310
+weight: 2360
 url: /aspose.cells/pageorientationtype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ The PageOrientationType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

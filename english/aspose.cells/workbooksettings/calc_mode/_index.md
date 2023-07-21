@@ -33,6 +33,6 @@ def calc_mode(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CalcModeType](/cells/python-net/aspose.cells/calcmodetype)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`CalcModeType`](/cells/python-net/aspose.cells/calcmodetype)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

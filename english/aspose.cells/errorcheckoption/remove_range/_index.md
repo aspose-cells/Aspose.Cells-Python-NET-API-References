@@ -8,7 +8,7 @@ url: /aspose.cells/errorcheckoption/remove_range/
 is_root: false
 ---
 
-## remove_range(index) {#int}
+## remove_range {#int}
 
 Removes one range by given index.
 
@@ -27,5 +27,5 @@ def remove_range(self, index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ErrorCheckOption](/cells/python-net/aspose.cells/errorcheckoption)
+* module [`aspose.cells`](../../)
+* class [`ErrorCheckOption`](/cells/python-net/aspose.cells/errorcheckoption)

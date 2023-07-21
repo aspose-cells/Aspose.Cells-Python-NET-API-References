@@ -23,5 +23,5 @@ def rotation_z(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ThreeDFormat](/cells/python-net/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`ThreeDFormat`](/cells/python-net/aspose.cells.drawing/threedformat)

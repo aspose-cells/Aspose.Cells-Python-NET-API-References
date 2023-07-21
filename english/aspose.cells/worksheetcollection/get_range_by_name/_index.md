@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/get_range_by_name/
 is_root: false
 ---
 
-## get_range_by_name(range_name) {#str}
+## get_range_by_name {#str}
 
 Gets Range object by pre-defined name.
 
@@ -33,9 +33,9 @@ def get_range_by_name(self, range_name):
 | range_name | str | Name of range. |
 
 
-## get_range_by_name(range_name, current_sheet_index, include_table) {#str-int-bool}
+## get_range_by_name {#str-int-bool}
 
-Gets [Range](/cells/python-net/aspose.cells/range) by pre-defined name or table's name
+Gets [`Range`](/cells/python-net/aspose.cells/range) by pre-defined name or table's name
 
 
 ### Returns 
@@ -59,6 +59,6 @@ def get_range_by_name(self, range_name, current_sheet_index, include_table):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Range](/cells/python-net/aspose.cells/range)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`Range`](/cells/python-net/aspose.cells/range)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

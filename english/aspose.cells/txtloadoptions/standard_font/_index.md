@@ -3,7 +3,7 @@ title: standard_font property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /aspose.cells/txtloadoptions/standard_font/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def standard_font(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [TxtLoadOptions](/cells/python-net/aspose.cells/txtloadoptions)
+* module [`aspose.cells`](../../)
+* class [`TxtLoadOptions`](/cells/python-net/aspose.cells/txtloadoptions)

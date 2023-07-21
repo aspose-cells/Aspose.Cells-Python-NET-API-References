@@ -35,7 +35,7 @@ The Chart type exposes the following members:
 | [shapes](/cells/python-net/aspose.cells.charts/chart/shapes) | Returns all drawing shapes in this chart. |
 | [print_size](/cells/python-net/aspose.cells.charts/chart/print_size) | Gets and sets the printed chart size. |
 | [type](/cells/python-net/aspose.cells.charts/chart/type) | Gets or sets a chart's type. |
-| [n_series](/cells/python-net/aspose.cells.charts/chart/n_series) | Gets a [SeriesCollection](/cells/python-net/aspose.cells.charts/seriescollection) collection representing the data series in the chart. |
+| [n_series](/cells/python-net/aspose.cells.charts/chart/n_series) | Gets a [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection) collection representing the data series in the chart. |
 | [title](/cells/python-net/aspose.cells.charts/chart/title) | Gets the chart's title. |
 | [sub_title](/cells/python-net/aspose.cells.charts/chart/sub_title) | Gets the chart's sub-title.<br/>Only for ODS format file. |
 | [plot_area](/cells/python-net/aspose.cells.charts/chart/plot_area) | Gets the chart's plot area which includes axis tick labels. |
@@ -50,13 +50,13 @@ The Chart type exposes the following members:
 | [show_legend](/cells/python-net/aspose.cells.charts/chart/show_legend) | Gets or sets a value indicating whether the chart legend will be displayed. Default is true. |
 | [is_rectangular_cornered](/cells/python-net/aspose.cells.charts/chart/is_rectangular_cornered) | Gets or sets a value indicating whether the chart area is rectangular cornered.<br/>Default is true. |
 | [show_data_table](/cells/python-net/aspose.cells.charts/chart/show_data_table) | Gets or sets a value indicating whether the chart displays a data table. |
-| [first_slice_angle](/cells/python-net/aspose.cells.charts/chart/first_slice_angle) | Gets or sets the angle of the first pie-chart or doughnut-chart slice, in degrees (clockwise from vertical). Applies only to pie, 3-D pie, and doughnut charts, 0 to 360. |
+| [first_slice_angle](/cells/python-net/aspose.cells.charts/chart/first_slice_angle) | Gets or sets the angle of the first pie-chart or doughnut-chart slice, in degrees (clockwise from vertical). <br/>Applies only to pie, 3-D pie, and doughnut charts, 0 to 360. |
 | [gap_width](/cells/python-net/aspose.cells.charts/chart/gap_width) | Returns or sets the space between bar or column clusters, as a percentage of the bar or column width.<br/>The value of this property must be between 0 and 500. |
 | [gap_depth](/cells/python-net/aspose.cells.charts/chart/gap_depth) | Gets or sets the distance between the data series in a 3-D chart, as a percentage of the marker width.<br/>The value of this property must be between 0 and 500. |
-| [floor](/cells/python-net/aspose.cells.charts/chart/floor) | Returns a [Chart.floor](/cells/python-net/aspose.cells.charts/chart#floor) object that represents the walls of a 3-D chart. |
-| [walls](/cells/python-net/aspose.cells.charts/chart/walls) | Returns a [Chart.walls](/cells/python-net/aspose.cells.charts/chart#walls) object that represents the walls of a 3-D chart. |
-| [back_wall](/cells/python-net/aspose.cells.charts/chart/back_wall) | Returns a [Chart.walls](/cells/python-net/aspose.cells.charts/chart#walls) object that represents the back wall of a 3-D chart. |
-| [side_wall](/cells/python-net/aspose.cells.charts/chart/side_wall) | Returns a [Chart.walls](/cells/python-net/aspose.cells.charts/chart#walls) object that represents the side wall of a 3-D chart. |
+| [floor](/cells/python-net/aspose.cells.charts/chart/floor) | Returns a [`Chart.floor`](/cells/python-net/aspose.cells.charts/chart#floor) object that represents the walls of a 3-D chart. |
+| [walls](/cells/python-net/aspose.cells.charts/chart/walls) | Returns a [`Chart.walls`](/cells/python-net/aspose.cells.charts/chart#walls) object that represents the walls of a 3-D chart. |
+| [back_wall](/cells/python-net/aspose.cells.charts/chart/back_wall) | Returns a [`Chart.walls`](/cells/python-net/aspose.cells.charts/chart#walls) object that represents the back wall of a 3-D chart. |
+| [side_wall](/cells/python-net/aspose.cells.charts/chart/side_wall) | Returns a [`Chart.walls`](/cells/python-net/aspose.cells.charts/chart#walls) object that represents the side wall of a 3-D chart. |
 | [walls_and_gridlines_2d](/cells/python-net/aspose.cells.charts/chart/walls_and_gridlines_2d) | True if gridlines are drawn two-dimensionally on a 3-D chart. |
 | [rotation_angle](/cells/python-net/aspose.cells.charts/chart/rotation_angle) | Represents the rotation of the 3-D chart view (the rotation of the plot area around the z-axis, in degrees). |
 | [elevation](/cells/python-net/aspose.cells.charts/chart/elevation) | Represents the elevation of the 3-D chart view, in degrees. |
@@ -75,32 +75,36 @@ The Chart type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [to_image(image_file)](/cells/python-net/aspose.cells.charts/chart/to_image/#str) | Creates the chart image and saves it to a file.<br/>The extension of the file name determines the format of the image. |
-| [to_image(image_file, image_type)](/cells/python-net/aspose.cells.charts/chart/to_image/#str-aspose.cells.drawing.ImageType) | Creates the chart image and saves it to a file in the specified image type. |
-| [to_image(image_file, jpeg_quality)](/cells/python-net/aspose.cells.charts/chart/to_image/#str-int) | Creates the chart image and saves it to a file in the Jpeg format. |
-| [to_image(stream, jpeg_quality)](/cells/python-net/aspose.cells.charts/chart/to_image/#io.RawIOBase-int) | Creates the chart image and saves it to a stream in the Jpeg format. |
-| [to_image(stream, image_type)](/cells/python-net/aspose.cells.charts/chart/to_image/#io.RawIOBase-aspose.cells.drawing.ImageType) | Creates the chart image and saves it to a stream in the specified format. |
-| [to_image(image_file, options)](/cells/python-net/aspose.cells.charts/chart/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Creates the chart image and saves it to a file.<br/>The extension of the file name determines the format of the image. |
-| [to_image(stream, options)](/cells/python-net/aspose.cells.charts/chart/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Creates the chart image and saves it to a stream in the specified format. |
-| [to_pdf(file_name)](/cells/python-net/aspose.cells.charts/chart/to_pdf/#str) | Saves the chart to a pdf file. |
-| [to_pdf(file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type)](/cells/python-net/aspose.cells.charts/chart/to_pdf/#str-float-float-PageLayoutAlignmentType-PageLayoutAlignmentType) | Saves the chart to a pdf file. |
-| [to_pdf(stream)](/cells/python-net/aspose.cells.charts/chart/to_pdf/#io.RawIOBase) | Creates the chart pdf and saves it to a stream. |
-| [to_pdf(stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type)](/cells/python-net/aspose.cells.charts/chart/to_pdf/#io.RawIOBase-float-float-PageLayoutAlignmentType-PageLayoutAlignmentType) | Creates the chart pdf and saves it to a stream. |
-| [is_chart_data_changed()](/cells/python-net/aspose.cells.charts/chart/is_chart_data_changed/#) | Detects if a chart's data source has changed. |
-| [refresh_pivot_data()](/cells/python-net/aspose.cells.charts/chart/refresh_pivot_data/#) | Refreshes pivot chart's data  from it's pivot data source. |
-| [change_template(data)](/cells/python-net/aspose.cells.charts/chart/change_template/#bytes) | Change chart type with preset template. |
-| [move(upper_left_row, upper_left_column, lower_right_row, lower_right_column)](/cells/python-net/aspose.cells.charts/chart/move/#int-int-int-int) | Moves the chart to a specified location. |
-| [calculate()](/cells/python-net/aspose.cells.charts/chart/calculate/#) | Calculates the custom position of plot area, axes if the position of them are auto assigned. |
-| [get_actual_size()](/cells/python-net/aspose.cells.charts/chart/get_actual_size/#) | Gets actual size of chart in unit of pixels. |
-| [has_axis(aixs_type, is_primary)](/cells/python-net/aspose.cells.charts/chart/has_axis/#AxisType-bool) | Returns which axes exist on the chart. |
-| [switch_row_column()](/cells/python-net/aspose.cells.charts/chart/switch_row_column/#) | Switches row/column. |
-| [get_chart_data_range()](/cells/python-net/aspose.cells.charts/chart/get_chart_data_range/#) | Gets the data source range of the chart. |
-| [set_chart_data_range(area, is_vertical)](/cells/python-net/aspose.cells.charts/chart/set_chart_data_range/#str-bool) | Specifies data range for a chart. |
+| [to_image](/cells/python-net/aspose.cells.charts/chart/to_image/#str) | Creates the chart image and saves it to a file.<br/>The extension of the file name determines the format of the image. |
+| [to_image](/cells/python-net/aspose.cells.charts/chart/to_image/#str-aspose.cells.drawing.ImageType) | Creates the chart image and saves it to a file in the specified image type. |
+| [to_image](/cells/python-net/aspose.cells.charts/chart/to_image/#str-int) | Creates the chart image and saves it to a file in the Jpeg format. |
+| [to_image](/cells/python-net/aspose.cells.charts/chart/to_image/#io.RawIOBase-int) | Creates the chart image and saves it to a stream in the Jpeg format. |
+| [to_image](/cells/python-net/aspose.cells.charts/chart/to_image/#io.RawIOBase-aspose.cells.drawing.ImageType) | Creates the chart image and saves it to a stream in the specified format. |
+| [to_image](/cells/python-net/aspose.cells.charts/chart/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Creates the chart image and saves it to a file.<br/>The extension of the file name determines the format of the image. |
+| [to_image](/cells/python-net/aspose.cells.charts/chart/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Creates the chart image and saves it to a stream in the specified format. |
+| [to_pdf](/cells/python-net/aspose.cells.charts/chart/to_pdf/#str) | Saves the chart to a pdf file. |
+| [to_pdf](/cells/python-net/aspose.cells.charts/chart/to_pdf/#str-float-float-aspose.cells.PageLayoutAlignmentType-aspose.cells.PageLayoutAlignmentType) | Saves the chart to a pdf file. |
+| [to_pdf](/cells/python-net/aspose.cells.charts/chart/to_pdf/#io.RawIOBase) | Creates the chart pdf and saves it to a stream. |
+| [to_pdf](/cells/python-net/aspose.cells.charts/chart/to_pdf/#io.RawIOBase-float-float-aspose.cells.PageLayoutAlignmentType-aspose.cells.PageLayoutAlignmentType) | Creates the chart pdf and saves it to a stream. |
+| [is_refered_by_chart](/cells/python-net/aspose.cells.charts/chart/is_refered_by_chart/#int-int) | Returns whether the cell refered by the chart. |
+| [is_cell_refered_by_chart](/cells/python-net/aspose.cells.charts/chart/is_cell_refered_by_chart/#int-int-int) | Returns whether the cell refered by the chart. |
+| [is_chart_data_changed](/cells/python-net/aspose.cells.charts/chart/is_chart_data_changed/#) | Detects if a chart's data source has changed. |
+| [refresh_pivot_data](/cells/python-net/aspose.cells.charts/chart/refresh_pivot_data/#) | Refreshes pivot chart's data  from it's pivot data source. |
+| [change_template](/cells/python-net/aspose.cells.charts/chart/change_template/#bytes) | Change chart type with preset template. |
+| [move](/cells/python-net/aspose.cells.charts/chart/move/#int-int-int-int) | Moves the chart to a specified location. |
+| [calculate](/cells/python-net/aspose.cells.charts/chart/calculate/#) | Calculates the custom position of plot area, axes if the position of them are auto assigned. |
+| [get_actual_size](/cells/python-net/aspose.cells.charts/chart/get_actual_size/#) | Gets actual size of chart in unit of pixels. |
+| [has_axis](/cells/python-net/aspose.cells.charts/chart/has_axis/#aspose.cells.charts.AxisType-bool) | Returns which axes exist on the chart. |
+| [switch_row_column](/cells/python-net/aspose.cells.charts/chart/switch_row_column/#) | Switches row/column. |
+| [get_chart_data_range](/cells/python-net/aspose.cells.charts/chart/get_chart_data_range/#) | Gets the data source range of the chart. |
+| [set_chart_data_range](/cells/python-net/aspose.cells.charts/chart/set_chart_data_range/#str-bool) | Specifies data range for a chart. |
 
 
 
 ### Example 
 
+
+The following codes show how to create a chart with .Net codes.
 
 ```python
 from aspose.cells import Workbook
@@ -125,5 +129,5 @@ chart.title.text = "Income Analysis"
 ```
 
 ### See Also
-* module [aspose.cells.charts](..)
-* class [SeriesCollection](/cells/python-net/aspose.cells.charts/seriescollection)
+* module [`aspose.cells.charts`](..)
+* class [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection)

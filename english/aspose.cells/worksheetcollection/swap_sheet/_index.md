@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/swap_sheet/
 is_root: false
 ---
 
-## swap_sheet(sheet_index1, sheet_index2) {#int-int}
+## swap_sheet {#int-int}
 
 Swaps the two sheets.
 
@@ -28,5 +28,5 @@ def swap_sheet(self, sheet_index1, sheet_index2):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

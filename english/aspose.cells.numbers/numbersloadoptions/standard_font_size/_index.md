@@ -3,7 +3,7 @@ title: standard_font_size property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells.numbers/numbersloadoptions/standard_font_size/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def standard_font_size(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.numbers](../../)
-* class [NumbersLoadOptions](/cells/python-net/aspose.cells.numbers/numbersloadoptions)
+* module [`aspose.cells.numbers`](../../)
+* class [`NumbersLoadOptions`](/cells/python-net/aspose.cells.numbers/numbersloadoptions)

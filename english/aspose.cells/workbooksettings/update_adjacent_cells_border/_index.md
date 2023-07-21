@@ -30,5 +30,5 @@ def update_adjacent_cells_border(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

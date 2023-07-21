@@ -34,6 +34,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LineShape](/cells/python-net/aspose.cells.drawing/lineshape)
-* class [TextAlignmentType](/cells/python-net/aspose.cells/textalignmenttype)
+* module [`aspose.cells.drawing`](../../)
+* class [`LineShape`](/cells/python-net/aspose.cells.drawing/lineshape)
+* class [`TextAlignmentType`](/cells/python-net/aspose.cells/textalignmenttype)

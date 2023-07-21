@@ -29,5 +29,5 @@ def column(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Comment](/cells/python-net/aspose.cells/comment)
+* module [`aspose.cells`](../../)
+* class [`Comment`](/cells/python-net/aspose.cells/comment)

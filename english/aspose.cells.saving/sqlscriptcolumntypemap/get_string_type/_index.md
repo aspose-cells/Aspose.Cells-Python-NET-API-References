@@ -8,7 +8,7 @@ url: /aspose.cells.saving/sqlscriptcolumntypemap/get_string_type/
 is_root: false
 ---
 
-## get_string_type() {#}
+## get_string_type {#}
 
 Gets string type in the database.
 
@@ -29,5 +29,5 @@ def get_string_type(self):
 
 
 ### See Also
-* module [aspose.cells.saving](../../)
-* class [SqlScriptColumnTypeMap](/cells/python-net/aspose.cells.saving/sqlscriptcolumntypemap)
+* module [`aspose.cells.saving`](../../)
+* class [`SqlScriptColumnTypeMap`](/cells/python-net/aspose.cells.saving/sqlscriptcolumntypemap)

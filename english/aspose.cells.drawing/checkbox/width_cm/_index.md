@@ -19,7 +19,7 @@ Represents the width of the shape, in unit of centimeters.
 ```python
 
 if shape.width_cm == 3:
-    shape.width_cm = 1
+    shape.width_cm = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def width_cm(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CheckBox](/cells/python-net/aspose.cells.drawing/checkbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox)

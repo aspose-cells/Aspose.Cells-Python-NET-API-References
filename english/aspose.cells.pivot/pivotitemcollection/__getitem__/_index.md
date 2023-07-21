@@ -20,5 +20,5 @@ Gets the PivotItem Object at the specific index.
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotItemCollection](/cells/python-net/aspose.cells.pivot/pivotitemcollection)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotItemCollection`](/cells/python-net/aspose.cells.pivot/pivotitemcollection)

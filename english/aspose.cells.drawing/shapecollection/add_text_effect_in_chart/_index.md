@@ -3,12 +3,12 @@ title: add_text_effect_in_chart method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /aspose.cells.drawing/shapecollection/add_text_effect_in_chart/
 is_root: false
 ---
 
-## add_text_effect_in_chart(effect, text, font_name, size, font_bold, font_italic, top, left, height, width) {#MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int}
+## add_text_effect_in_chart {#aspose.cells.drawing.MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int}
 
 Inserts a WordArt object to the chart
 
@@ -27,7 +27,7 @@ def add_text_effect_in_chart(self, effect, text, font_name, size, font_bold, fon
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| effect | [MsoPresetTextEffect](/cells/python-net/aspose.cells.drawing/msopresettexteffect) | The mso preset text effect type. |
+| effect | [`MsoPresetTextEffect`](/cells/python-net/aspose.cells.drawing/msopresettexteffect) | The mso preset text effect type. |
 | text | str | The WordArt text. |
 | font_name | str | The font name. |
 | size | int | The font size |
@@ -41,5 +41,5 @@ def add_text_effect_in_chart(self, effect, text, font_name, size, font_bold, fon
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

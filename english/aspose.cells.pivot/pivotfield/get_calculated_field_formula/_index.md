@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfield/get_calculated_field_formula/
 is_root: false
 ---
 
-## get_calculated_field_formula() {#}
+## get_calculated_field_formula {#}
 
 Get the formula string of the specified calculated field .
 
@@ -24,5 +24,5 @@ def get_calculated_field_formula(self):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)

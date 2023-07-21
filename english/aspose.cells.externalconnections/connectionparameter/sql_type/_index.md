@@ -23,6 +23,6 @@ def sql_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [ConnectionParameter](/cells/python-net/aspose.cells.externalconnections/connectionparameter)
-* class [SqlDataType](/cells/python-net/aspose.cells.externalconnections/sqldatatype)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`ConnectionParameter`](/cells/python-net/aspose.cells.externalconnections/connectionparameter)
+* class [`SqlDataType`](/cells/python-net/aspose.cells.externalconnections/sqldatatype)

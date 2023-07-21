@@ -8,7 +8,7 @@ url: /aspose.cells/colorfilter/get_color/
 is_root: false
 ---
 
-## get_color(sheets) {#WorksheetCollection}
+## get_color {#aspose.cells.WorksheetCollection}
 
 
 
@@ -27,10 +27,10 @@ def get_color(self, sheets):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheets | [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection) |  |
+| sheets | [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection) |  |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ColorFilter](/cells/python-net/aspose.cells/colorfilter)
+* module [`aspose.cells`](../../)
+* class [`ColorFilter`](/cells/python-net/aspose.cells/colorfilter)

@@ -3,7 +3,7 @@ title: chart_area property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 210
 url: /aspose.cells.charts/chart/chart_area/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def chart_area(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
-* class [ChartArea](/cells/python-net/aspose.cells.charts/chartarea)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)
+* class [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea)

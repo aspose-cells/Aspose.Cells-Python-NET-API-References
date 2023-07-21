@@ -28,6 +28,6 @@ def text_frame(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CheckBox](/cells/python-net/aspose.cells.drawing/checkbox)
-* class [MsoTextFrame](/cells/python-net/aspose.cells.drawing/msotextframe)
+* module [`aspose.cells.drawing`](../../)
+* class [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox)
+* class [`MsoTextFrame`](/cells/python-net/aspose.cells.drawing/msotextframe)

@@ -8,7 +8,7 @@ url: /aspose.cells/scenariocollection/add/
 is_root: false
 ---
 
-## add(name) {#str}
+## add {#str}
 
 Adds a scenario.
 
@@ -32,5 +32,5 @@ def add(self, name):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ScenarioCollection](/cells/python-net/aspose.cells/scenariocollection)
+* module [`aspose.cells`](../../)
+* class [`ScenarioCollection`](/cells/python-net/aspose.cells/scenariocollection)

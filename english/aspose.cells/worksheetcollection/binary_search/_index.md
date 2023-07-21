@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Worksheet}
+## binary_search {#aspose.cells.Worksheet}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Worksheet](/cells/python-net/aspose.cells/worksheet) | The System.Object to locate. The value can be null. |
+| item | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

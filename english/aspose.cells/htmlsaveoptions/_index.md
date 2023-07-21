@@ -14,8 +14,8 @@ Represents the options for saving html file.
 
 
 
-**Inheritance:** [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -24,8 +24,8 @@ The HtmlSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [HtmlSaveOptions()](/cells/python-net/aspose.cells/htmlsaveoptions/__init__/#) | Creates options for saving html file. |
-| [HtmlSaveOptions(format)](/cells/python-net/aspose.cells/htmlsaveoptions/__init__/#SaveFormat) | Creates options for saving htm file. |
+| [__init__](/cells/python-net/aspose.cells/htmlsaveoptions/__init__/#) | Creates options for saving html file. |
+| [__init__](/cells/python-net/aspose.cells/htmlsaveoptions/__init__/#aspose.cells.SaveFormat) | Creates options for saving htm file. |
 
 
 ### Properties
@@ -99,6 +99,6 @@ The HtmlSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+* module [`aspose.cells`](..)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)

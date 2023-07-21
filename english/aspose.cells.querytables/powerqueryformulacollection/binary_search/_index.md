@@ -8,7 +8,7 @@ url: /aspose.cells.querytables/powerqueryformulacollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#PowerQueryFormula}
+## binary_search {#aspose.cells.querytables.PowerQueryFormula}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [PowerQueryFormula](/cells/python-net/aspose.cells.querytables/powerqueryformula) | The System.Object to locate. The value can be null. |
+| item | [`PowerQueryFormula`](/cells/python-net/aspose.cells.querytables/powerqueryformula) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.querytables](../../)
-* class [PowerQueryFormulaCollection](/cells/python-net/aspose.cells.querytables/powerqueryformulacollection)
+* module [`aspose.cells.querytables`](../../)
+* class [`PowerQueryFormulaCollection`](/cells/python-net/aspose.cells.querytables/powerqueryformulacollection)

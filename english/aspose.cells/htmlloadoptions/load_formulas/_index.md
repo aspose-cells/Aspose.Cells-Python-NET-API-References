@@ -3,7 +3,7 @@ title: load_formulas property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 270
 url: /aspose.cells/htmlloadoptions/load_formulas/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def load_formulas(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlLoadOptions](/cells/python-net/aspose.cells/htmlloadoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlLoadOptions`](/cells/python-net/aspose.cells/htmlloadoptions)

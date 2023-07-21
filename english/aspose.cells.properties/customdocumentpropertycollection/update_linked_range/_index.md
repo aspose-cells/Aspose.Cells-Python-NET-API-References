@@ -8,7 +8,7 @@ url: /aspose.cells.properties/customdocumentpropertycollection/update_linked_ran
 is_root: false
 ---
 
-## update_linked_range() {#}
+## update_linked_range {#}
 
 Update custom document property value to linked range.
 
@@ -24,5 +24,5 @@ def update_linked_range(self):
 
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [CustomDocumentPropertyCollection](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
+* module [`aspose.cells.properties`](../../)
+* class [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)

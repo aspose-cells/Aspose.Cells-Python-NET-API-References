@@ -3,12 +3,12 @@ title: remove_active_x_control method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 170
 url: /aspose.cells.drawing/textbox/remove_active_x_control/
 is_root: false
 ---
 
-## remove_active_x_control() {#}
+## remove_active_x_control {#}
 
 Remove activeX control.
 
@@ -33,5 +33,5 @@ shape.remove_active_x_control()
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

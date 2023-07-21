@@ -3,7 +3,7 @@ title: show_legend property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /aspose.cells.charts/chart/show_legend/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def show_legend(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

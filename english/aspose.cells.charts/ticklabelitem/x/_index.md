@@ -20,5 +20,5 @@ def x(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [TickLabelItem](/cells/python-net/aspose.cells.charts/ticklabelitem)
+* module [`aspose.cells.charts`](../../)
+* class [`TickLabelItem`](/cells/python-net/aspose.cells.charts/ticklabelitem)

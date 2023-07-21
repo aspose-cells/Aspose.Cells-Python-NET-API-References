@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get_last_data_row/
 is_root: false
 ---
 
-## get_last_data_row(column) {#int}
+## get_last_data_row {#int}
 
 Gets the last row index of cell which contains data in the specified column.
 
@@ -32,5 +32,5 @@ def get_last_data_row(self, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

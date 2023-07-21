@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/move/
 is_root: false
 ---
 
-## move(dest_cell_name) {#str}
+## move {#str}
 
 Moves the PivotTable to a different location in the worksheet.
 
@@ -25,7 +25,7 @@ def move(self, dest_cell_name):
 | dest_cell_name | str | the dest cell name. |
 
 
-## move(row, column) {#int-int}
+## move {#int-int}
 
 Moves the PivotTable to a different location in the worksheet.
 
@@ -45,5 +45,5 @@ def move(self, row, column):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

@@ -3,7 +3,7 @@ title: display_immediate_items property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 460
 url: /aspose.cells.pivot/pivottable/display_immediate_items/
 is_root: false
 ---
@@ -24,5 +24,5 @@ def display_immediate_items(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

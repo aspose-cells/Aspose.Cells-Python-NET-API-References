@@ -8,7 +8,7 @@ url: /aspose.cells.charts/walls/get_cube_point_x_px/
 is_root: false
 ---
 
-## get_cube_point_x_px(index) {#int}
+## get_cube_point_x_px {#int}
 
 Gets x-coordinate of the apex point of walls cube after calls Chart.Calculate() method.
 The number of apex points of walls cube is eight
@@ -28,5 +28,5 @@ def get_cube_point_x_px(self, index):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Walls](/cells/python-net/aspose.cells.charts/walls)
+* module [`aspose.cells.charts`](../../)
+* class [`Walls`](/cells/python-net/aspose.cells.charts/walls)

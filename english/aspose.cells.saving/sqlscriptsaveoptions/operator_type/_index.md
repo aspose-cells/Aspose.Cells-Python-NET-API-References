@@ -23,6 +23,6 @@ def operator_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.saving](../../)
-* class [SqlScriptOperatorType](/cells/python-net/aspose.cells.saving/sqlscriptoperatortype)
-* class [SqlScriptSaveOptions](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](../../)
+* class [`SqlScriptOperatorType`](/cells/python-net/aspose.cells.saving/sqlscriptoperatortype)
+* class [`SqlScriptSaveOptions`](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)

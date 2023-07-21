@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/add/
 is_root: false
 ---
 
-## add() {#}
+## add {#}
 
 Adds a worksheet to the collection.
 
@@ -16,7 +16,7 @@ Adds a worksheet to the collection.
 ### Returns 
 
 
-[Worksheet](/cells/python-net/aspose.cells/worksheet) object index.
+[`Worksheet`](/cells/python-net/aspose.cells/worksheet) object index.
 
 
 ```python
@@ -27,7 +27,7 @@ def add(self):
 
 
 
-## add(type) {#SheetType}
+## add {#aspose.cells.SheetType}
 
 Adds a worksheet to the collection.
 
@@ -35,7 +35,7 @@ Adds a worksheet to the collection.
 ### Returns 
 
 
-[Worksheet](/cells/python-net/aspose.cells/worksheet) object index.
+[`Worksheet`](/cells/python-net/aspose.cells/worksheet) object index.
 
 
 ```python
@@ -46,7 +46,7 @@ def add(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [SheetType](/cells/python-net/aspose.cells/sheettype) | Worksheet type. |
+| type | [`SheetType`](/cells/python-net/aspose.cells/sheettype) | Worksheet type. |
 
 ### Example 
 
@@ -71,7 +71,7 @@ chart.n_series.add("Sheet1!C2:C6", True)
 ```
 
 
-## add(sheet_name) {#str}
+## add {#str}
 
 Adds a worksheet to the collection.
 
@@ -79,7 +79,7 @@ Adds a worksheet to the collection.
 ### Returns 
 
 
-[Worksheet](/cells/python-net/aspose.cells/worksheet) object.
+[`Worksheet`](/cells/python-net/aspose.cells/worksheet) object.
 
 
 ```python
@@ -95,6 +95,6 @@ def add(self, sheet_name):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

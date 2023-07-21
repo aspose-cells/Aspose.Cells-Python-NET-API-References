@@ -8,7 +8,7 @@ url: /aspose.cells.metadata/workbookmetadata/__init__/
 is_root: false
 ---
 
-## WorkbookMetadata(file_name, options) {#str-MetadataOptions}
+## __init__ {#str-aspose.cells.metadata.MetadataOptions}
 
 Create the meta data object.
 
@@ -23,10 +23,10 @@ def __init__(self, file_name, options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str |  |
-| options | [MetadataOptions](/cells/python-net/aspose.cells.metadata/metadataoptions) |  |
+| options | [`MetadataOptions`](/cells/python-net/aspose.cells.metadata/metadataoptions) |  |
 
 
-## WorkbookMetadata(stream, options) {#io.RawIOBase-MetadataOptions}
+## __init__ {#io.RawIOBase-aspose.cells.metadata.MetadataOptions}
 
 Create the meta data object.
 
@@ -41,10 +41,10 @@ def __init__(self, stream, options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase |  |
-| options | [MetadataOptions](/cells/python-net/aspose.cells.metadata/metadataoptions) |  |
+| options | [`MetadataOptions`](/cells/python-net/aspose.cells.metadata/metadataoptions) |  |
 
 
 
 ### See Also
-* module [aspose.cells.metadata](../../)
-* class [WorkbookMetadata](/cells/python-net/aspose.cells.metadata/workbookmetadata)
+* module [`aspose.cells.metadata`](../../)
+* class [`WorkbookMetadata`](/cells/python-net/aspose.cells.metadata/workbookmetadata)

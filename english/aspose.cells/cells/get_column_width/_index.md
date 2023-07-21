@@ -8,15 +8,16 @@ url: /aspose.cells/cells/get_column_width/
 is_root: false
 ---
 
-## get_column_width(column) {#int}
+## get_column_width {#int}
 
-Gets the width of the specified column in normal view
+Gets the width(in unit of characters) of the specified column in normal view
 
 
 ### Returns 
 
 
-Width of column
+Width of column. For spreadsheet, column width is measured as the number of characters
+of the maximum digit width of the numbers 0~9 as rendered in the normal style's font.
 
 
 ```python
@@ -32,5 +33,5 @@ def get_column_width(self, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

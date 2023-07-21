@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensionreferencecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#WebExtensionReference}
+## binary_search {#aspose.cells.webextensions.WebExtensionReference}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [WebExtensionReference](/cells/python-net/aspose.cells.webextensions/webextensionreference) | The System.Object to locate. The value can be null. |
+| item | [`WebExtensionReference`](/cells/python-net/aspose.cells.webextensions/webextensionreference) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.webextensions](../../)
-* class [WebExtensionReferenceCollection](/cells/python-net/aspose.cells.webextensions/webextensionreferencecollection)
+* module [`aspose.cells.webextensions`](../../)
+* class [`WebExtensionReferenceCollection`](/cells/python-net/aspose.cells.webextensions/webextensionreferencecollection)

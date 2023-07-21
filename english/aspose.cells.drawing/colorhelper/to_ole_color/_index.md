@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/colorhelper/to_ole_color/
 is_root: false
 ---
 
-## to_ole_color(color, workbook) {#aspose.pydrawing.Color-Workbook}
+## to_ole_color {#aspose.pydrawing.Color-aspose.cells.Workbook}
 
 Convert color to OLE_COLOR
 
@@ -28,10 +28,10 @@ def to_ole_color(self, color, workbook):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | color | aspose.pydrawing.Color | The Color object. |
-| workbook | [Workbook](/cells/python-net/aspose.cells/workbook) |  |
+| workbook | [`Workbook`](/cells/python-net/aspose.cells/workbook) |  |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ColorHelper](/cells/python-net/aspose.cells.drawing/colorhelper)
+* module [`aspose.cells.drawing`](../../)
+* class [`ColorHelper`](/cells/python-net/aspose.cells.drawing/colorhelper)

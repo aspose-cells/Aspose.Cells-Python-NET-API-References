@@ -8,7 +8,7 @@ url: /aspose.cells.charts/legendentrycollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#LegendEntry}
+## binary_search {#aspose.cells.charts.LegendEntry}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [LegendEntry](/cells/python-net/aspose.cells.charts/legendentry) | The System.Object to locate. The value can be null. |
+| item | [`LegendEntry`](/cells/python-net/aspose.cells.charts/legendentry) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [LegendEntryCollection](/cells/python-net/aspose.cells.charts/legendentrycollection)
+* module [`aspose.cells.charts`](../../)
+* class [`LegendEntryCollection`](/cells/python-net/aspose.cells.charts/legendentrycollection)

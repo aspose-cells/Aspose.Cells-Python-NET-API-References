@@ -23,6 +23,6 @@ def direction(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataBar](/cells/python-net/aspose.cells/databar)
-* class [TextDirectionType](/cells/python-net/aspose.cells/textdirectiontype)
+* module [`aspose.cells`](../../)
+* class [`DataBar`](/cells/python-net/aspose.cells/databar)
+* class [`TextDirectionType`](/cells/python-net/aspose.cells/textdirectiontype)

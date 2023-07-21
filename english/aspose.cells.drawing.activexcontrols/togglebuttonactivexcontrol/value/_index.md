@@ -23,6 +23,6 @@ def value(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [CheckValueType](/cells/python-net/aspose.cells.drawing/checkvaluetype)
-* class [ToggleButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`CheckValueType`](/cells/python-net/aspose.cells.drawing/checkvaluetype)
+* class [`ToggleButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

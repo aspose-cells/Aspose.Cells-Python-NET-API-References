@@ -23,5 +23,5 @@ def shadow(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartFrame](/cells/python-net/aspose.cells.charts/chartframe)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartFrame`](/cells/python-net/aspose.cells.charts/chartframe)

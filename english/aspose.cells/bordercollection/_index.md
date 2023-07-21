@@ -10,7 +10,7 @@ is_root: false
 
 ## BorderCollection class
 
-Encapsulates a collection of [Border](/cells/python-net/aspose.cells/border) objects.
+Encapsulates a collection of [`Border`](/cells/python-net/aspose.cells/border) objects.
 
 
 
@@ -26,11 +26,11 @@ The BorderCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_color(color)](/cells/python-net/aspose.cells/bordercollection/set_color/#aspose.pydrawing.Color) | Sets the Color of all borders in the collection. |
-| [set_style(style)](/cells/python-net/aspose.cells/bordercollection/set_style/#CellBorderType) | Sets the style of all borders of the collection. |
+| [set_color](/cells/python-net/aspose.cells/bordercollection/set_color/#aspose.pydrawing.Color) | Sets the Color of all borders in the collection. |
+| [set_style](/cells/python-net/aspose.cells/bordercollection/set_style/#aspose.cells.CellBorderType) | Sets the style of all borders of the collection. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [Border](/cells/python-net/aspose.cells/border)
+* module [`aspose.cells`](..)
+* class [`Border`](/cells/python-net/aspose.cells/border)

@@ -8,7 +8,7 @@ url: /aspose.cells/datetimegroupitem/__init__/
 is_root: false
 ---
 
-## DateTimeGroupItem(type, year, month, day, hour, minute, second) {#DateTimeGroupingType-int-int-int-int-int-int}
+## __init__ {#aspose.cells.DateTimeGroupingType-int-int-int-int-int-int}
 
 
 
@@ -22,7 +22,7 @@ def __init__(self, type, year, month, day, hour, minute, second):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [DateTimeGroupingType](/cells/python-net/aspose.cells/datetimegroupingtype) |  |
+| type | [`DateTimeGroupingType`](/cells/python-net/aspose.cells/datetimegroupingtype) |  |
 | year | int |  |
 | month | int |  |
 | day | int |  |
@@ -33,5 +33,5 @@ def __init__(self, type, year, month, day, hour, minute, second):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DateTimeGroupItem](/cells/python-net/aspose.cells/datetimegroupitem)
+* module [`aspose.cells`](../../)
+* class [`DateTimeGroupItem`](/cells/python-net/aspose.cells/datetimegroupitem)

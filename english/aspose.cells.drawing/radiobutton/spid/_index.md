@@ -3,7 +3,7 @@ title: spid property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 930
 url: /aspose.cells.drawing/radiobutton/spid/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def spid(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

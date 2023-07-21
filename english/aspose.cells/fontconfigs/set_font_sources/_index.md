@@ -3,12 +3,12 @@ title: set_font_sources method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells/fontconfigs/set_font_sources/
 is_root: false
 ---
 
-## set_font_sources(sources) {#list}
+## set_font_sources {#list}
 
 Sets the fonts sources.
 
@@ -27,5 +27,5 @@ def set_font_sources(self, sources):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FontConfigs](/cells/python-net/aspose.cells/fontconfigs)
+* module [`aspose.cells`](../../)
+* class [`FontConfigs`](/cells/python-net/aspose.cells/fontconfigs)

@@ -19,7 +19,7 @@ The AutoFitterOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [AutoFitterOptions()](/cells/python-net/aspose.cells/autofitteroptions/__init__/#) | Constructs a new instance of AutoFitterOptions |
+| [__init__](/cells/python-net/aspose.cells/autofitteroptions/__init__/#) | Constructs a new instance of AutoFitterOptions |
 
 
 ### Properties
@@ -33,8 +33,9 @@ The AutoFitterOptions type exposes the following members:
 | [max_row_height](/cells/python-net/aspose.cells/autofitteroptions/max_row_height) | Gets and sets the max row height(in unit of Point) when autofitting rows. |
 | [auto_fit_wrapped_text_type](/cells/python-net/aspose.cells/autofitteroptions/auto_fit_wrapped_text_type) | Gets and sets the type of auto fitting wrapped text. |
 | [format_strategy](/cells/python-net/aspose.cells/autofitteroptions/format_strategy) | Gets and sets the formatted strategy. |
+| [for_rendering](/cells/python-net/aspose.cells/autofitteroptions/for_rendering) | Indicates whether fit for rendering purpose. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

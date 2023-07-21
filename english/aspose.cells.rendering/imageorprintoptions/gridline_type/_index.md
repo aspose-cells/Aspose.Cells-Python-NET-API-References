@@ -28,6 +28,6 @@ def gridline_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [GridlineType](/cells/python-net/aspose.cells/gridlinetype)
-* class [ImageOrPrintOptions](/cells/python-net/aspose.cells.rendering/imageorprintoptions)
+* module [`aspose.cells.rendering`](../../)
+* class [`GridlineType`](/cells/python-net/aspose.cells/gridlinetype)
+* class [`ImageOrPrintOptions`](/cells/python-net/aspose.cells.rendering/imageorprintoptions)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.texts/textparagraphcollection/get_enumerator/
 is_root: false
 ---
 
-## get_enumerator() {#}
+## get_enumerator {#}
 
 Gets the enumerator of the paragraphs.
 
@@ -29,5 +29,5 @@ def get_enumerator(self):
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [TextParagraphCollection](/cells/python-net/aspose.cells.drawing.texts/textparagraphcollection)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`TextParagraphCollection`](/cells/python-net/aspose.cells.drawing.texts/textparagraphcollection)

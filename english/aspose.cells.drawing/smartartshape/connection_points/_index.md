@@ -3,7 +3,7 @@ title: connection_points property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells.drawing/smartartshape/connection_points/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def connection_points(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [SmartArtShape](/cells/python-net/aspose.cells.drawing/smartartshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape)

@@ -3,7 +3,7 @@ title: load_filter property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells/loadoptions/load_filter/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def load_filter(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LoadFilter](/cells/python-net/aspose.cells/loadfilter)
-* class [LoadOptions](/cells/python-net/aspose.cells/loadoptions)
+* module [`aspose.cells`](../../)
+* class [`LoadFilter`](/cells/python-net/aspose.cells/loadfilter)
+* class [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)

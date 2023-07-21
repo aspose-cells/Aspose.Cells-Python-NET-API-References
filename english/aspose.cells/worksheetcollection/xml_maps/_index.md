@@ -23,6 +23,6 @@ def xml_maps(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
-* class [XmlMapCollection](/cells/python-net/aspose.cells/xmlmapcollection)
+* module [`aspose.cells`](../../)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)
+* class [`XmlMapCollection`](/cells/python-net/aspose.cells/xmlmapcollection)

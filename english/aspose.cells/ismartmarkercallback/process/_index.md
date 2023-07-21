@@ -8,7 +8,7 @@ url: /aspose.cells/ismartmarkercallback/process/
 is_root: false
 ---
 
-## process(sheet_index, row_index, col_index, table_name, column_name) {#int-int-int-str-str}
+## process {#int-int-int-str-str}
 
 Callback for processing a smart marker.
 
@@ -31,5 +31,5 @@ def process(self, sheet_index, row_index, col_index, table_name, column_name):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ISmartMarkerCallBack](/cells/python-net/aspose.cells/ismartmarkercallback)
+* module [`aspose.cells`](../../)
+* class [`ISmartMarkerCallBack`](/cells/python-net/aspose.cells/ismartmarkercallback)

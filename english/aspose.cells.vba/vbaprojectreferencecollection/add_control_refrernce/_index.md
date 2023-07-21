@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbaprojectreferencecollection/add_control_refrernce/
 is_root: false
 ---
 
-## add_control_refrernce(name, libid, twiddledlibid, extended_libid) {#str-str-str-str}
+## add_control_refrernce {#str-str-str-str}
 
 Add a reference to a twiddled type library and its extended type library.
 
@@ -35,5 +35,5 @@ def add_control_refrernce(self, name, libid, twiddledlibid, extended_libid):
 
 
 ### See Also
-* module [aspose.cells.vba](../../)
-* class [VbaProjectReferenceCollection](/cells/python-net/aspose.cells.vba/vbaprojectreferencecollection)
+* module [`aspose.cells.vba`](../../)
+* class [`VbaProjectReferenceCollection`](/cells/python-net/aspose.cells.vba/vbaprojectreferencecollection)

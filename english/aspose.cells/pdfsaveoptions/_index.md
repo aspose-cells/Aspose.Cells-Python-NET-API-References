@@ -3,7 +3,7 @@ title: PdfSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1180
+weight: 1200
 url: /aspose.cells/pdfsaveoptions/
 is_root: false
 ---
@@ -14,9 +14,9 @@ Represents the options for saving pdf file.
 
 
 
-**Inheritance:** [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions) → 
-[PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions) → 
+[`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -25,7 +25,7 @@ The PdfSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PdfSaveOptions()](/cells/python-net/aspose.cells/pdfsaveoptions/__init__/#) | Creates the options for saving pdf file. |
+| [__init__](/cells/python-net/aspose.cells/pdfsaveoptions/__init__/#) | Creates the options for saving pdf file. |
 
 
 ### Properties
@@ -56,11 +56,11 @@ The PdfSaveOptions type exposes the following members:
 | [gridline_type](/cells/python-net/aspose.cells/pdfsaveoptions/gridline_type) | Gets or sets gridline type. |
 | [text_cross_type](/cells/python-net/aspose.cells/pdfsaveoptions/text_cross_type) | Gets or sets displaying text type when the text width is larger than cell width. |
 | [default_edit_language](/cells/python-net/aspose.cells/pdfsaveoptions/default_edit_language) | Gets or sets default edit language. |
-| [sheet_set](/cells/python-net/aspose.cells/pdfsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [SheetSet.visible](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
+| [sheet_set](/cells/python-net/aspose.cells/pdfsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [draw_object_event_handler](/cells/python-net/aspose.cells/pdfsaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/pdfsaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
 | [embed_standard_windows_fonts](/cells/python-net/aspose.cells/pdfsaveoptions/embed_standard_windows_fonts) | True to embed true type fonts. <br/>Affects only ASCII characters 32-127.<br/>Fonts for character codes greater than 127 are always embedded.<br/>Fonts are always embedded for PDF/A-1a, PDF/A-1b standard.<br/>Default is true. |
-| [bookmark](/cells/python-net/aspose.cells/pdfsaveoptions/bookmark) | Gets and sets the [PdfBookmarkEntry](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry) object. |
+| [bookmark](/cells/python-net/aspose.cells/pdfsaveoptions/bookmark) | Gets and sets the [`PdfBookmarkEntry`](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry) object. |
 | [compliance](/cells/python-net/aspose.cells/pdfsaveoptions/compliance) | Workbook converts to pdf will according to PdfCompliance in this property. |
 | [security_options](/cells/python-net/aspose.cells/pdfsaveoptions/security_options) | Set this options, when security is need in xls2pdf result. |
 | [image_type](/cells/python-net/aspose.cells/pdfsaveoptions/image_type) | Represents the image type when converting the chart and shape . |
@@ -69,24 +69,25 @@ The PdfSaveOptions type exposes the following members:
 | [created_time](/cells/python-net/aspose.cells/pdfsaveoptions/created_time) | Gets and sets the time of generating the pdf document. |
 | [producer](/cells/python-net/aspose.cells/pdfsaveoptions/producer) | Gets and sets producer of generated pdf document. |
 | [optimization_type](/cells/python-net/aspose.cells/pdfsaveoptions/optimization_type) | Gets and sets pdf optimization type. |
-| [custom_properties_export](/cells/python-net/aspose.cells/pdfsaveoptions/custom_properties_export) | Gets or sets a value determining the way [CustomDocumentPropertyCollection](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection) are exported to PDF file. Default value is None. |
+| [custom_properties_export](/cells/python-net/aspose.cells/pdfsaveoptions/custom_properties_export) | Gets or sets a value determining the way [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection) are exported to PDF file. Default value is None. |
 | [export_document_structure](/cells/python-net/aspose.cells/pdfsaveoptions/export_document_structure) | Indicates whether to export document structure. |
 | [emf_render_setting](/cells/python-net/aspose.cells/pdfsaveoptions/emf_render_setting) | Setting for rendering Emf metafile. |
 | [display_doc_title](/cells/python-net/aspose.cells/pdfsaveoptions/display_doc_title) | Indicates whether the window's title bar should display the document title. |
 | [font_encoding](/cells/python-net/aspose.cells/pdfsaveoptions/font_encoding) | Gets or sets embedded font encoding in pdf. |
+| [watermark](/cells/python-net/aspose.cells/pdfsaveoptions/watermark) | Gets or sets watermark to output. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_image_resample(desired_ppi, jpeg_quality)](/cells/python-net/aspose.cells/pdfsaveoptions/set_image_resample/#int-int) | Sets desired PPI(pixels per inch) of resample images and jpeg quality.  <br/>All images will be converted to JPEG with the specified quality setting, <br/>and images that are greater than the specified PPI (pixels per inch) will be resampled. |
+| [set_image_resample](/cells/python-net/aspose.cells/pdfsaveoptions/set_image_resample/#int-int) | Sets desired PPI(pixels per inch) of resample images and jpeg quality.  <br/>All images will be converted to JPEG with the specified quality setting, <br/>and images that are greater than the specified PPI (pixels per inch) will be resampled. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [CustomDocumentPropertyCollection](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
-* class [PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions)
-* class [PdfBookmarkEntry](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry)
-* class [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+* module [`aspose.cells`](..)
+* class [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
+* class [`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions)
+* class [`PdfBookmarkEntry`](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry)
+* class [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)

@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/remove_digital_signature/
 is_root: false
 ---
 
-## remove_digital_signature() {#}
+## remove_digital_signature {#}
 
 Removes digital signature from this spreadsheet.
 
@@ -24,5 +24,5 @@ def remove_digital_signature(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

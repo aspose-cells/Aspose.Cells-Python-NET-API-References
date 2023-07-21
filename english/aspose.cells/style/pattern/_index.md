@@ -23,6 +23,6 @@ def pattern(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [BackgroundType](/cells/python-net/aspose.cells/backgroundtype)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`BackgroundType`](/cells/python-net/aspose.cells/backgroundtype)
+* class [`Style`](/cells/python-net/aspose.cells/style)

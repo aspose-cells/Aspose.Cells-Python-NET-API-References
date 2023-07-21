@@ -8,7 +8,7 @@ url: /aspose.cells/cells/end_cell_in_column/
 is_root: false
 ---
 
-## end_cell_in_column(column_index) {#int}
+## end_cell_in_column {#int}
 
 Gets the last cell in this column.
 
@@ -30,7 +30,7 @@ def end_cell_in_column(self, column_index):
 | column_index | int | Column index. |
 
 
-## end_cell_in_column(start_row, end_row, start_column, end_column) {#int-int-int-int}
+## end_cell_in_column {#int-int-int-int}
 
 Gets the last cell with maximum column index in this range.
 
@@ -57,5 +57,5 @@ def end_cell_in_column(self, start_row, end_row, start_column, end_column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

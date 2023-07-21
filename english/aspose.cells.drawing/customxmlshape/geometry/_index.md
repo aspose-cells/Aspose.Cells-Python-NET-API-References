@@ -18,7 +18,7 @@ Gets the geometry
 
 ```python
 
-if len(shape.Geometry.ShapeAdjustValues) == 0:
+if len(shape.geometry.shape_adjust_values) == 0:
     print("No geometry path.")
 
 ```
@@ -30,6 +30,6 @@ def geometry(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CustomXmlShape](/cells/python-net/aspose.cells.drawing/customxmlshape)
-* class [Geometry](/cells/python-net/aspose.cells.drawing/geometry)
+* module [`aspose.cells.drawing`](../../)
+* class [`CustomXmlShape`](/cells/python-net/aspose.cells.drawing/customxmlshape)
+* class [`Geometry`](/cells/python-net/aspose.cells.drawing/geometry)

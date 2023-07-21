@@ -23,5 +23,5 @@ def sort_external_names(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XpsSaveOptions](/cells/python-net/aspose.cells/xpssaveoptions)
+* module [`aspose.cells`](../../)
+* class [`XpsSaveOptions`](/cells/python-net/aspose.cells/xpssaveoptions)

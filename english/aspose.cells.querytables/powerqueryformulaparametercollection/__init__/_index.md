@@ -8,7 +8,7 @@ url: /aspose.cells.querytables/powerqueryformulaparametercollection/__init__/
 is_root: false
 ---
 
-## PowerQueryFormulaParameterCollection() {#}
+## __init__ {#}
 
 Constructs a new instance of PowerQueryFormulaParameterCollection
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.querytables](../../)
-* class [PowerQueryFormulaParameterCollection](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection)
+* module [`aspose.cells.querytables`](../../)
+* class [`PowerQueryFormulaParameterCollection`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection)

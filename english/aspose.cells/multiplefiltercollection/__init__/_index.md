@@ -8,7 +8,7 @@ url: /aspose.cells/multiplefiltercollection/__init__/
 is_root: false
 ---
 
-## MultipleFilterCollection() {#}
+## __init__ {#}
 
 Constructs a new instance of MultipleFilterCollection
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [MultipleFilterCollection](/cells/python-net/aspose.cells/multiplefiltercollection)
+* module [`aspose.cells`](../../)
+* class [`MultipleFilterCollection`](/cells/python-net/aspose.cells/multiplefiltercollection)

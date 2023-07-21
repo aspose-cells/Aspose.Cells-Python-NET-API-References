@@ -34,6 +34,6 @@ def placement(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [PlacementType](/cells/python-net/aspose.cells.drawing/placementtype)
-* class [Slicer](/cells/python-net/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* class [`PlacementType`](/cells/python-net/aspose.cells.drawing/placementtype)
+* class [`Slicer`](/cells/python-net/aspose.cells.slicers/slicer)

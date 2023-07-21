@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/change_data_source/
 is_root: false
 ---
 
-## change_data_source(source) {#list}
+## change_data_source {#list}
 
 Set pivottable's source data.
 Sheet1!$A$1:$C$3
@@ -28,5 +28,5 @@ def change_data_source(self, source):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

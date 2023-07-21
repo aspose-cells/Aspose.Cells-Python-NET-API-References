@@ -3,7 +3,7 @@ title: type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1100
+weight: 1110
 url: /aspose.cells.drawing/textbox/type/
 is_root: false
 ---
@@ -29,6 +29,6 @@ def type(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [AutoShapeType](/cells/python-net/aspose.cells.drawing/autoshapetype)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`AutoShapeType`](/cells/python-net/aspose.cells.drawing/autoshapetype)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

@@ -3,12 +3,12 @@ title: replace method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /aspose.cells/worksheet/replace/
 is_root: false
 ---
 
-## replace(old_string, new_string) {#str-str}
+## replace {#str-str}
 
 Replaces all cells' text with a new string.
 
@@ -28,5 +28,5 @@ def replace(self, old_string, new_string):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

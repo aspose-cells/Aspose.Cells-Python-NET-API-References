@@ -8,9 +8,9 @@ url: /aspose.cells/svgsaveoptions/__init__/
 is_root: false
 ---
 
-## SvgSaveOptions() {#}
+## __init__ {#}
 
-Creates the options for saving svg file.
+Creates the options for saving image file.
 
 
 
@@ -20,11 +20,13 @@ def __init__(self):
 ```
 
 
+### Remarks
 
+The default type is Tiff.
 
-## SvgSaveOptions(save_format) {#SaveFormat}
+## __init__ {#aspose.cells.SaveFormat}
 
-Creates the options for saving svg file.
+Creates the options for saving image file.
 
 
 
@@ -36,15 +38,10 @@ def __init__(self, save_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/aspose.cells/saveformat) | The file format.<br/>It must be svg. |
-### Remarks
+| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The file format.<br/>It should be one of following types: [`SaveFormat.TIFF`](/cells/python-net/aspose.cells/saveformat#TIFF), [`SaveFormat.SVG`](/cells/python-net/aspose.cells/saveformat#SVG),<br/>[`SaveFormat.BMP`](/cells/python-net/aspose.cells/saveformat#BMP), [`SaveFormat.PNG`](/cells/python-net/aspose.cells/saveformat#PNG), [`SaveFormat.JPG`](/cells/python-net/aspose.cells/saveformat#JPG),<br/>[`SaveFormat.EMF`](/cells/python-net/aspose.cells/saveformat#EMF) or [`SaveFormat.GIF`](/cells/python-net/aspose.cells/saveformat#GIF),<br/>otherwise the saved format will be set as [`SaveFormat.TIFF`](/cells/python-net/aspose.cells/saveformat#TIFF) automatically. |
 
-NOTE: This constructor is now obsolete. 
-Instead, please use SvgSaveOptions() constructor.
-This property will be removed 12 months later since August 2022. 
-Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [SvgSaveOptions](/cells/python-net/aspose.cells/svgsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`SvgSaveOptions`](/cells/python-net/aspose.cells/svgsaveoptions)

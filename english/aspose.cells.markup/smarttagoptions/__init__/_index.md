@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagoptions/__init__/
 is_root: false
 ---
 
-## SmartTagOptions() {#}
+## __init__ {#}
 
 Constructs a new instance of SmartTagOptions
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.markup](../../)
-* class [SmartTagOptions](/cells/python-net/aspose.cells.markup/smarttagoptions)
+* module [`aspose.cells.markup`](../../)
+* class [`SmartTagOptions`](/cells/python-net/aspose.cells.markup/smarttagoptions)

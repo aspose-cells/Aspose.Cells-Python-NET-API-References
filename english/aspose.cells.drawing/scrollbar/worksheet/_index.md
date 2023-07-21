@@ -11,7 +11,7 @@ is_root: false
 ## worksheet property
 
 
-Gets the [Shape.worksheet](/cells/python-net/aspose.cells.drawing/shape#worksheet) object which contains this shape.
+Gets the [`Shape.worksheet`](/cells/python-net/aspose.cells.drawing/shape#worksheet) object which contains this shape.
 
 ### Example 
 
@@ -29,6 +29,6 @@ def worksheet(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ScrollBar](/cells/python-net/aspose.cells.drawing/scrollbar)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells.drawing`](../../)
+* class [`ScrollBar`](/cells/python-net/aspose.cells.drawing/scrollbar)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

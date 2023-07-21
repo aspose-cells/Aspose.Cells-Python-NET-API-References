@@ -3,7 +3,7 @@ title: three_d_format property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1060
+weight: 1070
 url: /aspose.cells.drawing/radiobutton/three_d_format/
 is_root: false
 ---
@@ -29,6 +29,6 @@ def three_d_format(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
-* class [ThreeDFormat](/cells/python-net/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)
+* class [`ThreeDFormat`](/cells/python-net/aspose.cells.drawing/threedformat)

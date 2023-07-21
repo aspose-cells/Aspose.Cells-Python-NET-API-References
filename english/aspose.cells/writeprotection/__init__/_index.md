@@ -8,7 +8,7 @@ url: /aspose.cells/writeprotection/__init__/
 is_root: false
 ---
 
-## WriteProtection() {#}
+## __init__ {#}
 
 Constructs a new instance of WriteProtection
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WriteProtection](/cells/python-net/aspose.cells/writeprotection)
+* module [`aspose.cells`](../../)
+* class [`WriteProtection`](/cells/python-net/aspose.cells/writeprotection)

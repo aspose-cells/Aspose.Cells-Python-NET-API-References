@@ -48,9 +48,9 @@ The Slicer type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_pivot_connection(pivot)](/cells/python-net/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.PivotTable) | Adds PivotTable connection. |
-| [remove_pivot_connection(pivot)](/cells/python-net/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.PivotTable) | Removes PivotTable connection. |
-| [refresh()](/cells/python-net/aspose.cells.slicers/slicer/refresh/#) | Refreshing the slicer.Meanwhile, Refreshing and Calculating  relative PivotTables. |
+| [add_pivot_connection](/cells/python-net/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.PivotTable) | Adds PivotTable connection. |
+| [remove_pivot_connection](/cells/python-net/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.PivotTable) | Removes PivotTable connection. |
+| [refresh](/cells/python-net/aspose.cells.slicers/slicer/refresh/#) | Refreshing the slicer.Meanwhile, Refreshing and Calculating  relative PivotTables. |
 
 
 
@@ -114,4 +114,4 @@ book.save("out.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells.slicers](..)
+* module [`aspose.cells.slicers`](..)

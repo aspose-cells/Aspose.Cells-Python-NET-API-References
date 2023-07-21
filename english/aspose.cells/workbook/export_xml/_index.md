@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/export_xml/
 is_root: false
 ---
 
-## export_xml(map_name, path) {#str-str}
+## export_xml {#str-str}
 
 Export XML data linked by the specified XML map.
 
@@ -41,7 +41,7 @@ wb.export_xml(xmlMap.name, "output.xml")
 ```
 
 
-## export_xml(map_name, stream) {#str-io.RawIOBase}
+## export_xml {#str-io.RawIOBase}
 
 Export XML data.
 
@@ -61,5 +61,5 @@ def export_xml(self, map_name, stream):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

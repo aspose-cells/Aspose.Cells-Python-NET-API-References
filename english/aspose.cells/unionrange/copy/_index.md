@@ -8,7 +8,7 @@ url: /aspose.cells/unionrange/copy/
 is_root: false
 ---
 
-## copy(range, options) {#UnionRange-PasteOptions}
+## copy {#aspose.cells.UnionRange-aspose.cells.PasteOptions}
 
 Copying the range with paste special options.
 
@@ -22,11 +22,11 @@ def copy(self, range, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [UnionRange](/cells/python-net/aspose.cells/unionrange) | The source range. |
-| options | [PasteOptions](/cells/python-net/aspose.cells/pasteoptions) | The paste special options. |
+| range | [`UnionRange`](/cells/python-net/aspose.cells/unionrange) | The source range. |
+| options | [`PasteOptions`](/cells/python-net/aspose.cells/pasteoptions) | The paste special options. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [UnionRange](/cells/python-net/aspose.cells/unionrange)
+* module [`aspose.cells`](../../)
+* class [`UnionRange`](/cells/python-net/aspose.cells/unionrange)

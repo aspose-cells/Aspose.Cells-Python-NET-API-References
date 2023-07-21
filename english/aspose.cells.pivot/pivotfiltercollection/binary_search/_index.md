@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfiltercollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#PivotFilter}
+## binary_search {#aspose.cells.pivot.PivotFilter}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [PivotFilter](/cells/python-net/aspose.cells.pivot/pivotfilter) | The System.Object to locate. The value can be null. |
+| item | [`PivotFilter`](/cells/python-net/aspose.cells.pivot/pivotfilter) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFilterCollection](/cells/python-net/aspose.cells.pivot/pivotfiltercollection)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFilterCollection`](/cells/python-net/aspose.cells.pivot/pivotfiltercollection)

@@ -8,7 +8,7 @@ url: /aspose.cells/xlsbsaveoptions/__init__/
 is_root: false
 ---
 
-## XlsbSaveOptions() {#}
+## __init__ {#}
 
 Creates xlsb file save options.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## XlsbSaveOptions(save_format) {#SaveFormat}
+## __init__ {#aspose.cells.SaveFormat}
 
 Creates xlsb file save options.
 
@@ -36,7 +36,7 @@ def __init__(self, save_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/aspose.cells/saveformat) | The save format . It must be xlsb. |
+| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The save format . It must be xlsb. |
 ### Remarks
 
 NOTE: This constructor is now obsolete. 
@@ -46,5 +46,5 @@ Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XlsbSaveOptions](/cells/python-net/aspose.cells/xlsbsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`XlsbSaveOptions`](/cells/python-net/aspose.cells/xlsbsaveoptions)

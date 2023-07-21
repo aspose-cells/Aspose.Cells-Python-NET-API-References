@@ -23,6 +23,6 @@ def text_cross_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [ImageOrPrintOptions](/cells/python-net/aspose.cells.rendering/imageorprintoptions)
-* class [TextCrossType](/cells/python-net/aspose.cells/textcrosstype)
+* module [`aspose.cells.rendering`](../../)
+* class [`ImageOrPrintOptions`](/cells/python-net/aspose.cells.rendering/imageorprintoptions)
+* class [`TextCrossType`](/cells/python-net/aspose.cells/textcrosstype)

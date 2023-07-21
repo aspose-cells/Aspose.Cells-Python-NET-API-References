@@ -13,6 +13,6 @@ The **Aspose.Cells.Settings**  namespace contains classes that define settings f
 ### Classes
 | Class | Description |
 | :- | :- |
-| [PivotGlobalizationSettings](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings) | Represents the globalization settings for pivot tables. |
+| [`PivotGlobalizationSettings`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings) | Represents the globalization settings for pivot tables. |
 
 

@@ -3,7 +3,7 @@ title: LoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1020
+weight: 1040
 url: /aspose.cells/loadoptions/
 is_root: false
 ---
@@ -19,8 +19,8 @@ The LoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [LoadOptions()](/cells/python-net/aspose.cells/loadoptions/__init__/#) | Creates an options of loading the file. |
-| [LoadOptions(load_format)](/cells/python-net/aspose.cells/loadoptions/__init__/#LoadFormat) | Creates an options of loading the file. |
+| [__init__](/cells/python-net/aspose.cells/loadoptions/__init__/#) | Creates an options of loading the file. |
+| [__init__](/cells/python-net/aspose.cells/loadoptions/__init__/#aspose.cells.LoadFormat) | Creates an options of loading the file. |
 
 
 ### Properties
@@ -46,17 +46,18 @@ The LoadOptions type exposes the following members:
 | [warning_callback](/cells/python-net/aspose.cells/loadoptions/warning_callback) | Gets or sets warning callback. |
 | [auto_fitter_options](/cells/python-net/aspose.cells/loadoptions/auto_fitter_options) | Gets and sets the auto fitter options |
 | [auto_filter](/cells/python-net/aspose.cells/loadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
-| [font_configs](/cells/python-net/aspose.cells/loadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [Workbook](/cells/python-net/aspose.cells/workbook) which uses this [LoadOptions](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [font_configs](/cells/python-net/aspose.cells/loadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [ignore_useless_shapes](/cells/python-net/aspose.cells/loadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_paper_size(type)](/cells/python-net/aspose.cells/loadoptions/set_paper_size/#PaperSizeType) | Sets the default print paper size from default printer's setting. |
+| [set_paper_size](/cells/python-net/aspose.cells/loadoptions/set_paper_size/#aspose.cells.PaperSizeType) | Sets the default print paper size from default printer's setting. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [LoadOptions](/cells/python-net/aspose.cells/loadoptions)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](..)
+* class [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

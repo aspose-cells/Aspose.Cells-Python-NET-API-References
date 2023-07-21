@@ -3,7 +3,7 @@ title: ignore_not_printed property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells/htmlloadoptions/ignore_not_printed/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def ignore_not_printed(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlLoadOptions](/cells/python-net/aspose.cells/htmlloadoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlLoadOptions`](/cells/python-net/aspose.cells/htmlloadoptions)

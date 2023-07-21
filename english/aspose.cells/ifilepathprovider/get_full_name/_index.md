@@ -8,7 +8,7 @@ url: /aspose.cells/ifilepathprovider/get_full_name/
 is_root: false
 ---
 
-## get_full_name(sheet_name) {#str}
+## get_full_name {#str}
 
 Gets the full path of the file by Worksheet name when exporting Worksheet to html separately.
 So the references among the Worksheets can be exported correctly.
@@ -33,5 +33,5 @@ def get_full_name(self, sheet_name):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IFilePathProvider](/cells/python-net/aspose.cells/ifilepathprovider)
+* module [`aspose.cells`](../../)
+* class [`IFilePathProvider`](/cells/python-net/aspose.cells/ifilepathprovider)

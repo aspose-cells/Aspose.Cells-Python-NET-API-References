@@ -28,6 +28,6 @@ def compliance(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [OoxmlCompliance](/cells/python-net/aspose.cells/ooxmlcompliance)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`OoxmlCompliance`](/cells/python-net/aspose.cells/ooxmlcompliance)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

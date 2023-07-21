@@ -3,7 +3,7 @@ title: Revision class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 10
+weight: 20
 url: /aspose.cells.revisions/revision/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The Revision type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
+* module [`aspose.cells.revisions`](..)

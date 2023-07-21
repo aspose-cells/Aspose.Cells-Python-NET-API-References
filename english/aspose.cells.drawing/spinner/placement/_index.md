@@ -35,6 +35,6 @@ def placement(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [PlacementType](/cells/python-net/aspose.cells.drawing/placementtype)
-* class [Spinner](/cells/python-net/aspose.cells.drawing/spinner)
+* module [`aspose.cells.drawing`](../../)
+* class [`PlacementType`](/cells/python-net/aspose.cells.drawing/placementtype)
+* class [`Spinner`](/cells/python-net/aspose.cells.drawing/spinner)

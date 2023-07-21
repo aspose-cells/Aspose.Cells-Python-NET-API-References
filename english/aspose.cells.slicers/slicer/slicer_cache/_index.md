@@ -29,6 +29,6 @@ def slicer_cache(self):
 ```
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [Slicer](/cells/python-net/aspose.cells.slicers/slicer)
-* class [SlicerCache](/cells/python-net/aspose.cells.slicers/slicercache)
+* module [`aspose.cells.slicers`](../../)
+* class [`Slicer`](/cells/python-net/aspose.cells.slicers/slicer)
+* class [`SlicerCache`](/cells/python-net/aspose.cells.slicers/slicercache)

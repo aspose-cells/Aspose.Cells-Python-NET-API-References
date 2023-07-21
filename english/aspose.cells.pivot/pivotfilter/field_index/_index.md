@@ -20,5 +20,5 @@ def field_index(self):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFilter](/cells/python-net/aspose.cells.pivot/pivotfilter)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFilter`](/cells/python-net/aspose.cells.pivot/pivotfilter)

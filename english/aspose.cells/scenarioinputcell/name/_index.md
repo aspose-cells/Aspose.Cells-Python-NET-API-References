@@ -20,5 +20,5 @@ def name(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ScenarioInputCell](/cells/python-net/aspose.cells/scenarioinputcell)
+* module [`aspose.cells`](../../)
+* class [`ScenarioInputCell`](/cells/python-net/aspose.cells/scenarioinputcell)

@@ -26,7 +26,7 @@ The AbstractCalculationEngine type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [calculate(data)](/cells/python-net/aspose.cells/abstractcalculationengine/calculate/#CalculationData) | Calculates one function with given data. |
+| [calculate](/cells/python-net/aspose.cells/abstractcalculationengine/calculate/#aspose.cells.CalculationData) | Calculates one function with given data. |
 
 
 
@@ -39,4 +39,4 @@ If user needs to change other data than calculated result in the implementation 
 for example, change cell's formula, style, ...etc., user should gather those data in this implementation and change them out of the scope of formula calculation.
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

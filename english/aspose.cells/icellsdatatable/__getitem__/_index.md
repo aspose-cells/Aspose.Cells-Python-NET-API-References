@@ -25,5 +25,5 @@ Gets the data stored in the column specified by index.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ICellsDataTable](/cells/python-net/aspose.cells/icellsdatatable)
+* module [`aspose.cells`](../../)
+* class [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable)

@@ -29,7 +29,7 @@ The ExternalLink type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_external_name(text, refer_to)](/cells/python-net/aspose.cells/externallink/add_external_name/#str-str) | Adds an external name. |
+| [add_external_name](/cells/python-net/aspose.cells/externallink/add_external_name/#str-str) | Adds an external name. |
 
 
 
@@ -49,4 +49,4 @@ externalLink.data_source = "d:\\link.xls"
 ```
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

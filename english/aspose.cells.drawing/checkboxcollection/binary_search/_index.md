@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/checkboxcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#CheckBox}
+## binary_search {#aspose.cells.drawing.CheckBox}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [CheckBox](/cells/python-net/aspose.cells.drawing/checkbox) | The System.Object to locate. The value can be null. |
+| item | [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CheckBoxCollection](/cells/python-net/aspose.cells.drawing/checkboxcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`CheckBoxCollection`](/cells/python-net/aspose.cells.drawing/checkboxcollection)

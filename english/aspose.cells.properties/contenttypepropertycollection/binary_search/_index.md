@@ -8,7 +8,7 @@ url: /aspose.cells.properties/contenttypepropertycollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#ContentTypeProperty}
+## binary_search {#aspose.cells.properties.ContentTypeProperty}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ContentTypeProperty](/cells/python-net/aspose.cells.properties/contenttypeproperty) | The System.Object to locate. The value can be null. |
+| item | [`ContentTypeProperty`](/cells/python-net/aspose.cells.properties/contenttypeproperty) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [ContentTypePropertyCollection](/cells/python-net/aspose.cells.properties/contenttypepropertycollection)
+* module [`aspose.cells.properties`](../../)
+* class [`ContentTypePropertyCollection`](/cells/python-net/aspose.cells.properties/contenttypepropertycollection)

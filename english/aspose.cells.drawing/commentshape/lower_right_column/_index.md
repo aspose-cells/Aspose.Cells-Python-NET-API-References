@@ -33,5 +33,5 @@ def lower_right_column(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CommentShape](/cells/python-net/aspose.cells.drawing/commentshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`CommentShape`](/cells/python-net/aspose.cells.drawing/commentshape)

@@ -18,7 +18,7 @@ Returns or sets the height, in points, of each row in the specified slicer.
 
 ```python
 
-slicer.row_height = 20
+slicer.row_height = 20.0
 
 ```
 ### Definition:
@@ -32,5 +32,5 @@ def row_height(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [Slicer](/cells/python-net/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* class [`Slicer`](/cells/python-net/aspose.cells.slicers/slicer)

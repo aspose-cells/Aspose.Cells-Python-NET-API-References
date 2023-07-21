@@ -3,7 +3,7 @@ title: prefer_system_font_substitutes property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells/fontconfigs/prefer_system_font_substitutes/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def prefer_system_font_substitutes(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FontConfigs](/cells/python-net/aspose.cells/fontconfigs)
+* module [`aspose.cells`](../../)
+* class [`FontConfigs`](/cells/python-net/aspose.cells/fontconfigs)

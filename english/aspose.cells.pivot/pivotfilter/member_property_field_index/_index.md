@@ -23,5 +23,5 @@ def member_property_field_index(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFilter](/cells/python-net/aspose.cells.pivot/pivotfilter)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFilter`](/cells/python-net/aspose.cells.pivot/pivotfilter)

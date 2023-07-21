@@ -8,7 +8,7 @@ url: /aspose.cells/bordercollection/set_style/
 is_root: false
 ---
 
-## set_style(style) {#CellBorderType}
+## set_style {#aspose.cells.CellBorderType}
 
 Sets the style of all borders of the collection.
 
@@ -22,10 +22,10 @@ def set_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [CellBorderType](/cells/python-net/aspose.cells/cellbordertype) | Borders' style |
+| style | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | Borders' style |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [BorderCollection](/cells/python-net/aspose.cells/bordercollection)
+* module [`aspose.cells`](../../)
+* class [`BorderCollection`](/cells/python-net/aspose.cells/bordercollection)

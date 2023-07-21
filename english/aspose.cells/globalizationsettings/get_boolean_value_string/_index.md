@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_boolean_value_string/
 is_root: false
 ---
 
-## get_boolean_value_string(bv) {#bool}
+## get_boolean_value_string {#bool}
 
 Gets the display string value for cell's boolean value
 
@@ -16,7 +16,7 @@ Gets the display string value for cell's boolean value
 ### Returns 
 
 
-Default returns "TRUE" for true value and "FALSE" for false value.
+By default returns "TRUE" for true value and "FALSE" for false value.
 
 
 ```python
@@ -32,5 +32,5 @@ def get_boolean_value_string(self, bv):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [GlobalizationSettings](/cells/python-net/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* class [`GlobalizationSettings`](/cells/python-net/aspose.cells/globalizationsettings)

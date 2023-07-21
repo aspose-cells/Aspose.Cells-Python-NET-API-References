@@ -20,5 +20,5 @@ def gradient_color1(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LineFormat](/cells/python-net/aspose.cells.drawing/lineformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`LineFormat`](/cells/python-net/aspose.cells.drawing/lineformat)

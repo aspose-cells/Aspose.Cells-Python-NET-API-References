@@ -23,5 +23,5 @@ def selected(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [SlicerCacheItem](/cells/python-net/aspose.cells.slicers/slicercacheitem)
+* module [`aspose.cells.slicers`](../../)
+* class [`SlicerCacheItem`](/cells/python-net/aspose.cells.slicers/slicercacheitem)

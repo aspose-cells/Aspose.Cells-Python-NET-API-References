@@ -10,7 +10,7 @@ is_root: false
 
 ## ListColumn class
 
-Represents a column in a list.
+Represents a column in a Table.
 
 
 
@@ -23,15 +23,18 @@ The ListColumn type exposes the following members:
 | [totals_calculation](/cells/python-net/aspose.cells.tables/listcolumn/totals_calculation) | Gets and sets the type of calculation in the Totals row of the list column. |
 | [range](/cells/python-net/aspose.cells.tables/listcolumn/range) | Gets the range of this list column. |
 | [formula](/cells/python-net/aspose.cells.tables/listcolumn/formula) | Gets and sets the formula of the list column. |
+| [totals_row_label](/cells/python-net/aspose.cells.tables/listcolumn/totals_row_label) | Gets and sets the display labels of total row. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_custom_totals_row_formula(is_r1c1, is_local)](/cells/python-net/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/#bool-bool) | Gets the formula of totals row of this list column. |
-| [set_custom_totals_row_formula(formula, is_r1c1, is_local)](/cells/python-net/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#str-bool-bool) | Gets the formula of totals row of this list column. |
-| [get_custom_calculated_formula(is_r1c1, is_local)](/cells/python-net/aspose.cells.tables/listcolumn/get_custom_calculated_formula/#bool-bool) | Gets the formula of this list column. |
-| [set_custom_calculated_formula(formula, is_r1c1, is_local)](/cells/python-net/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#str-bool-bool) | Sets the formula for this list column. |
+| [get_custom_totals_row_formula](/cells/python-net/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/#bool-bool) | Gets the formula of totals row of this list column. |
+| [set_custom_totals_row_formula](/cells/python-net/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#str-bool-bool) | Gets the formula of totals row of this list column. |
+| [get_custom_calculated_formula](/cells/python-net/aspose.cells.tables/listcolumn/get_custom_calculated_formula/#bool-bool) | Gets the formula of this list column. |
+| [set_custom_calculated_formula](/cells/python-net/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#str-bool-bool) | Sets the formula for this list column. |
+| [get_data_style](/cells/python-net/aspose.cells.tables/listcolumn/get_data_style/#) | Gets the style of the data in this column of the table. |
+| [set_data_style](/cells/python-net/aspose.cells.tables/listcolumn/set_data_style/#aspose.cells.Style) | Sets the style of the data in this column of the table. |
 
 
 
@@ -61,4 +64,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells.tables](..)
+* module [`aspose.cells.tables`](..)

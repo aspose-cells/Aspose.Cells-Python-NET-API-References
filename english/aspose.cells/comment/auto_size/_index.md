@@ -18,7 +18,7 @@ Indicates if size of comment is adjusted automatically according to its content.
 
 ```python
 
-if !comment1.auto_size:
+if notcomment1.auto_size:
     # The size of the comment varies with the content
     comment1.auto_size = True
 
@@ -34,5 +34,5 @@ def auto_size(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Comment](/cells/python-net/aspose.cells/comment)
+* module [`aspose.cells`](../../)
+* class [`Comment`](/cells/python-net/aspose.cells/comment)

@@ -23,7 +23,7 @@ The ChartPointCollection type exposes the following members:
 
 
 
-Gets the [ChartPoint](/cells/python-net/aspose.cells.charts/chartpoint) element at the specified index in the series.
+Gets the [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint) element at the specified index in the series.
 ### Indexer
 | Name | Description |
 | :- | :- |
@@ -33,9 +33,9 @@ Gets the [ChartPoint](/cells/python-net/aspose.cells.charts/chartpoint) element 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_enumerator()](/cells/python-net/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Returns an enumerator for the entire [ChartPointCollection](/cells/python-net/aspose.cells.charts/chartpointcollection). |
-| [clear()](/cells/python-net/aspose.cells.charts/chartpointcollection/clear/#) | Remove all setting of the chart points. |
-| [remove_at(index)](/cells/python-net/aspose.cells.charts/chartpointcollection/remove_at/#int) | Removes point at the index of the series.. |
+| [get_enumerator](/cells/python-net/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Returns an enumerator for the entire [`ChartPointCollection`](/cells/python-net/aspose.cells.charts/chartpointcollection). |
+| [clear](/cells/python-net/aspose.cells.charts/chartpointcollection/clear/#) | Remove all setting of the chart points. |
+| [remove_at](/cells/python-net/aspose.cells.charts/chartpointcollection/remove_at/#int) | Removes point at the index of the series.. |
 
 
 
@@ -85,6 +85,6 @@ workbook.save("book1.xls")
 ```
 
 ### See Also
-* module [aspose.cells.charts](..)
-* class [ChartPoint](/cells/python-net/aspose.cells.charts/chartpoint)
-* class [ChartPointCollection](/cells/python-net/aspose.cells.charts/chartpointcollection)
+* module [`aspose.cells.charts`](..)
+* class [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint)
+* class [`ChartPointCollection`](/cells/python-net/aspose.cells.charts/chartpointcollection)

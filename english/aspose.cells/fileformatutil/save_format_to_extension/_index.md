@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/save_format_to_extension/
 is_root: false
 ---
 
-## save_format_to_extension(format) {#SaveFormat}
+## save_format_to_extension {#aspose.cells.SaveFormat}
 
 Converts a save format enumerated value into a file extension.
 
@@ -27,10 +27,10 @@ def save_format_to_extension(self, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | [SaveFormat](/cells/python-net/aspose.cells/saveformat) | The save format. |
+| format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The save format. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FileFormatUtil](/cells/python-net/aspose.cells/fileformatutil)
+* module [`aspose.cells`](../../)
+* class [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil)

@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartglobalizationsettings/__init__/
 is_root: false
 ---
 
-## ChartGlobalizationSettings() {#}
+## __init__ {#}
 
 Constructs a new instance of ChartGlobalizationSettings
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartGlobalizationSettings](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartGlobalizationSettings`](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)

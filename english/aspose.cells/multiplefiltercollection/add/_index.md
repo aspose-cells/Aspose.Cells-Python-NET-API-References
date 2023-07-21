@@ -8,7 +8,7 @@ url: /aspose.cells/multiplefiltercollection/add/
 is_root: false
 ---
 
-## add(filter) {#str}
+## add {#str}
 
 Adds string filter.
 
@@ -27,5 +27,5 @@ def add(self, filter):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [MultipleFilterCollection](/cells/python-net/aspose.cells/multiplefiltercollection)
+* module [`aspose.cells`](../../)
+* class [`MultipleFilterCollection`](/cells/python-net/aspose.cells/multiplefiltercollection)

@@ -23,6 +23,6 @@ def warning_callback(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.saving](../../)
-* class [IWarningCallback](/cells/python-net/aspose.cells/iwarningcallback)
-* class [SqlScriptSaveOptions](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](../../)
+* class [`IWarningCallback`](/cells/python-net/aspose.cells/iwarningcallback)
+* class [`SqlScriptSaveOptions`](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)

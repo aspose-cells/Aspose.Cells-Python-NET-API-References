@@ -23,6 +23,6 @@ def alert_style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Validation](/cells/python-net/aspose.cells/validation)
-* class [ValidationAlertType](/cells/python-net/aspose.cells/validationalerttype)
+* module [`aspose.cells`](../../)
+* class [`Validation`](/cells/python-net/aspose.cells/validation)
+* class [`ValidationAlertType`](/cells/python-net/aspose.cells/validationalerttype)

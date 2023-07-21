@@ -1,0 +1,36 @@
+﻿---
+title: linked_data_sources property
+second_title: Aspose.Cells for Python via .NET API References
+description: 
+type: docs
+weight: 90
+url: /aspose.cells/calculationoptions/linked_data_sources/
+is_root: false
+---
+
+## linked_data_sources property
+
+
+Specifies the data sources for external links used in formulas.
+
+### Remarks 
+
+
+Like [`Workbook.update_linked_data_source`](/cells/python-net/aspose.cells/workbook/update_linked_data_source), here you may specify
+data sources for external links used in formulas to be calculated, especially those
+used in INDIRECT function. For those external links used in INDIRECT function,
+they are not taken as part of the external links of the workbook and cannot be updated
+by [`Workbook.update_linked_data_source`](/cells/python-net/aspose.cells/workbook/update_linked_data_source).
+### Definition:
+```python
+@property
+def linked_data_sources(self):
+    ...
+@linked_data_sources.setter
+def linked_data_sources(self, value):
+    ...
+```
+
+### See Also
+* module [`aspose.cells`](../../)
+* class [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions)

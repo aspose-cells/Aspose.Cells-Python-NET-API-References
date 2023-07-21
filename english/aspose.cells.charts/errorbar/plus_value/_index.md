@@ -23,5 +23,5 @@ def plus_value(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ErrorBar](/cells/python-net/aspose.cells.charts/errorbar)
+* module [`aspose.cells.charts`](../../)
+* class [`ErrorBar`](/cells/python-net/aspose.cells.charts/errorbar)

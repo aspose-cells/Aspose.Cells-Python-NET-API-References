@@ -8,9 +8,9 @@ url: /aspose.cells.charts/chartpointcollection/get_enumerator/
 is_root: false
 ---
 
-## get_enumerator() {#}
+## get_enumerator {#}
 
-Returns an enumerator for the entire [ChartPointCollection](/cells/python-net/aspose.cells.charts/chartpointcollection).
+Returns an enumerator for the entire [`ChartPointCollection`](/cells/python-net/aspose.cells.charts/chartpointcollection).
 
 
 ### Returns 
@@ -29,5 +29,5 @@ def get_enumerator(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartPointCollection](/cells/python-net/aspose.cells.charts/chartpointcollection)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartPointCollection`](/cells/python-net/aspose.cells.charts/chartpointcollection)

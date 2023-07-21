@@ -11,10 +11,11 @@ is_root: false
 ## refer_to_sheet_with_same_name property
 
 
-When copying a worksheet to another workbook and the worksheet contains the formulas which refer to other worksheets in MS Excel,
-the copied formulas should refer to source workbook. 
-But sometimes we have copied other worksheets and we hope the copied formulas refer to other worksheets with the name in the same workbook,
-please set this property as true.
+In ms excel, when copying formulas which refer to other worksheets while copying a worksheet to another one,
+the copied formulas should refer to source workbook.
+However, for some situations user may need the copied formulas refer to worksheets with the same name
+in the same workbook, such as when those worksheets have been copied before this copy operation,
+then this property should be kept as true.
 
 ### Remarks 
 
@@ -31,5 +32,5 @@ def refer_to_sheet_with_same_name(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CopyOptions](/cells/python-net/aspose.cells/copyoptions)
+* module [`aspose.cells`](../../)
+* class [`CopyOptions`](/cells/python-net/aspose.cells/copyoptions)

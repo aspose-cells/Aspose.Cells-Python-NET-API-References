@@ -23,5 +23,5 @@ def is_nillable(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [ContentTypeProperty](/cells/python-net/aspose.cells.properties/contenttypeproperty)
+* module [`aspose.cells.properties`](../../)
+* class [`ContentTypeProperty`](/cells/python-net/aspose.cells.properties/contenttypeproperty)

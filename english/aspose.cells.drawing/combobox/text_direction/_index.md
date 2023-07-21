@@ -34,6 +34,6 @@ def text_direction(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ComboBox](/cells/python-net/aspose.cells.drawing/combobox)
-* class [TextDirectionType](/cells/python-net/aspose.cells/textdirectiontype)
+* module [`aspose.cells.drawing`](../../)
+* class [`ComboBox`](/cells/python-net/aspose.cells.drawing/combobox)
+* class [`TextDirectionType`](/cells/python-net/aspose.cells/textdirectiontype)

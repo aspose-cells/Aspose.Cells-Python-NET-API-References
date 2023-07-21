@@ -3,7 +3,7 @@ title: NumberCategoryType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2260
+weight: 2310
 url: /aspose.cells/numbercategorytype/
 is_root: false
 ---
@@ -30,4 +30,4 @@ The NumberCategoryType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

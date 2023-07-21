@@ -3,7 +3,7 @@ title: group property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /aspose.cells.drawing/radiobutton/group/
 is_root: false
 ---
@@ -29,6 +29,6 @@ def group(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GroupShape](/cells/python-net/aspose.cells.drawing/groupshape)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

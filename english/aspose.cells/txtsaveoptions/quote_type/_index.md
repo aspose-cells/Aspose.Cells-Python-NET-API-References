@@ -23,6 +23,6 @@ def quote_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [TxtSaveOptions](/cells/python-net/aspose.cells/txtsaveoptions)
-* class [TxtValueQuoteType](/cells/python-net/aspose.cells/txtvaluequotetype)
+* module [`aspose.cells`](../../)
+* class [`TxtSaveOptions`](/cells/python-net/aspose.cells/txtsaveoptions)
+* class [`TxtValueQuoteType`](/cells/python-net/aspose.cells/txtvaluequotetype)

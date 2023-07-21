@@ -8,7 +8,7 @@ url: /aspose.cells.externalconnections/externalconnectioncollection/binary_searc
 is_root: false
 ---
 
-## binary_search(item) {#ExternalConnection}
+## binary_search {#aspose.cells.externalconnections.ExternalConnection}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ExternalConnection](/cells/python-net/aspose.cells.externalconnections/externalconnection) | The System.Object to locate. The value can be null. |
+| item | [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [ExternalConnectionCollection](/cells/python-net/aspose.cells.externalconnections/externalconnectioncollection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`ExternalConnectionCollection`](/cells/python-net/aspose.cells.externalconnections/externalconnectioncollection)

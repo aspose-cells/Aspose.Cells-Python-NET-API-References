@@ -25,5 +25,5 @@ def id(self):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [RevisionInsertDelete](/cells/python-net/aspose.cells.revisions/revisioninsertdelete)
+* module [`aspose.cells.revisions`](../../)
+* class [`RevisionInsertDelete`](/cells/python-net/aspose.cells.revisions/revisioninsertdelete)

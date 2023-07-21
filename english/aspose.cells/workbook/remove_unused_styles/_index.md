@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/remove_unused_styles/
 is_root: false
 ---
 
-## remove_unused_styles() {#}
+## remove_unused_styles {#}
 
 Remove all unused styles.
 
@@ -24,5 +24,5 @@ def remove_unused_styles(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/import_csv/
 is_root: false
 ---
 
-## import_csv(file_name, options, first_row, first_column) {#str-TxtLoadOptions-int-int}
+## import_csv {#str-aspose.cells.TxtLoadOptions-int-int}
 
 Import a CSV file to the cells.
 
@@ -23,12 +23,12 @@ def import_csv(self, file_name, options, first_row, first_column):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | The CSV file name. |
-| options | [TxtLoadOptions](/cells/python-net/aspose.cells/txtloadoptions) | The load options for reading text file |
+| options | [`TxtLoadOptions`](/cells/python-net/aspose.cells/txtloadoptions) | The load options for reading text file |
 | first_row | int | The row number of the first cell to import in. |
 | first_column | int | The column number of the first cell to import in. |
 
 
-## import_csv(stream, options, first_row, first_column) {#io.RawIOBase-TxtLoadOptions-int-int}
+## import_csv {#io.RawIOBase-aspose.cells.TxtLoadOptions-int-int}
 
 Import a CSV file to the cells.
 
@@ -43,12 +43,12 @@ def import_csv(self, stream, options, first_row, first_column):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The CSV file stream. |
-| options | [TxtLoadOptions](/cells/python-net/aspose.cells/txtloadoptions) | The load options for reading text file |
+| options | [`TxtLoadOptions`](/cells/python-net/aspose.cells/txtloadoptions) | The load options for reading text file |
 | first_row | int | The row number of the first cell to import in. |
 | first_column | int | The column number of the first cell to import in. |
 
 
-## import_csv(file_name, splitter, convert_numeric_data, first_row, first_column) {#str-str-bool-int-int}
+## import_csv {#str-str-bool-int-int}
 
 Import a CSV file to the cells.
 
@@ -69,7 +69,7 @@ def import_csv(self, file_name, splitter, convert_numeric_data, first_row, first
 | first_column | int | The column number of the first cell to import in. |
 
 
-## import_csv(stream, splitter, convert_numeric_data, first_row, first_column) {#io.RawIOBase-str-bool-int-int}
+## import_csv {#io.RawIOBase-str-bool-int-int}
 
 Import a CSV file to the cells.
 
@@ -92,5 +92,5 @@ def import_csv(self, stream, splitter, convert_numeric_data, first_row, first_co
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

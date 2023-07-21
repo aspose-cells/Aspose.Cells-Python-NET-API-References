@@ -3,7 +3,7 @@ title: SortOrder enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2490
+weight: 2540
 url: /aspose.cells/sortorder/
 is_root: false
 ---
@@ -25,4 +25,4 @@ The SortOrder type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

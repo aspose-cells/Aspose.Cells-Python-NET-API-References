@@ -25,6 +25,6 @@ def hidden_row_display_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlHiddenRowDisplayType](/cells/python-net/aspose.cells/htmlhiddenrowdisplaytype)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlHiddenRowDisplayType`](/cells/python-net/aspose.cells/htmlhiddenrowdisplaytype)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)

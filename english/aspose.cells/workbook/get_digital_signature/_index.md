@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/get_digital_signature/
 is_root: false
 ---
 
-## get_digital_signature() {#}
+## get_digital_signature {#}
 
 Gets digital signature from file.
 
@@ -24,6 +24,6 @@ def get_digital_signature(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DigitalSignatureCollection](/cells/python-net/aspose.cells.digitalsignatures/digitalsignaturecollection)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`DigitalSignatureCollection`](/cells/python-net/aspose.cells.digitalsignatures/digitalsignaturecollection)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

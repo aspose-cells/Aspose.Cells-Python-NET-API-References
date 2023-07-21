@@ -25,4 +25,4 @@ The DataMashup type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.querytables](..)
+* module [`aspose.cells.querytables`](..)

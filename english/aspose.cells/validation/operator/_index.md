@@ -23,6 +23,6 @@ def operator(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [OperatorType](/cells/python-net/aspose.cells/operatortype)
-* class [Validation](/cells/python-net/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* class [`OperatorType`](/cells/python-net/aspose.cells/operatortype)
+* class [`Validation`](/cells/python-net/aspose.cells/validation)

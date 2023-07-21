@@ -23,6 +23,6 @@ def current_person(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ThreadedCommentAuthor](/cells/python-net/aspose.cells/threadedcommentauthor)
-* class [ThreadedCommentAuthorCollection](/cells/python-net/aspose.cells/threadedcommentauthorcollection)
+* module [`aspose.cells`](../../)
+* class [`ThreadedCommentAuthor`](/cells/python-net/aspose.cells/threadedcommentauthor)
+* class [`ThreadedCommentAuthorCollection`](/cells/python-net/aspose.cells/threadedcommentauthorcollection)

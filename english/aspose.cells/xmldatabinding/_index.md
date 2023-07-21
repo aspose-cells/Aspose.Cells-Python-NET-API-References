@@ -3,7 +3,7 @@ title: XmlDataBinding class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1680
+weight: 1730
 url: /aspose.cells/xmldatabinding/
 is_root: false
 ---
@@ -24,4 +24,4 @@ The XmlDataBinding type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

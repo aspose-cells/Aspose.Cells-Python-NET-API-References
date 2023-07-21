@@ -3,7 +3,7 @@ title: anchor_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /aspose.cells.drawing/cellsdrawing/anchor_type/
 is_root: false
 ---
@@ -34,6 +34,6 @@ def anchor_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CellsDrawing](/cells/python-net/aspose.cells.drawing/cellsdrawing)
-* class [ShapeAnchorType](/cells/python-net/aspose.cells.drawing/shapeanchortype)
+* module [`aspose.cells.drawing`](../../)
+* class [`CellsDrawing`](/cells/python-net/aspose.cells.drawing/cellsdrawing)
+* class [`ShapeAnchorType`](/cells/python-net/aspose.cells.drawing/shapeanchortype)

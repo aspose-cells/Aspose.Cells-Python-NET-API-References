@@ -29,6 +29,6 @@ def type(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [AutoShapeType](/cells/python-net/aspose.cells.drawing/autoshapetype)
-* class [CommentShape](/cells/python-net/aspose.cells.drawing/commentshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`AutoShapeType`](/cells/python-net/aspose.cells.drawing/autoshapetype)
+* class [`CommentShape`](/cells/python-net/aspose.cells.drawing/commentshape)

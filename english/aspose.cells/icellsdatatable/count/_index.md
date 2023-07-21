@@ -20,5 +20,5 @@ def count(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ICellsDataTable](/cells/python-net/aspose.cells/icellsdatatable)
+* module [`aspose.cells`](../../)
+* class [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable)

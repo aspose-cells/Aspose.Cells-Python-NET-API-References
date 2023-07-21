@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [RevisionCollection](/cells/python-net/aspose.cells.revisions/revisioncollection)
+* module [`aspose.cells.revisions`](../../)
+* class [`RevisionCollection`](/cells/python-net/aspose.cells.revisions/revisioncollection)

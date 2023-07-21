@@ -23,5 +23,5 @@ def is_strikeout(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Font](/cells/python-net/aspose.cells/font)
+* module [`aspose.cells`](../../)
+* class [`Font`](/cells/python-net/aspose.cells/font)

@@ -8,7 +8,7 @@ url: /aspose.cells/cellarea/create_cell_area/
 is_root: false
 ---
 
-## create_cell_area(start_cell_name, end_cell_name) {#str-str}
+## create_cell_area {#str-str}
 
 Creates a cell area.
 
@@ -16,7 +16,7 @@ Creates a cell area.
 ### Returns 
 
 
-Return a [CellArea](/cells/python-net/aspose.cells/cellarea).
+Return a [`CellArea`](/cells/python-net/aspose.cells/cellarea).
 
 
 ```python
@@ -31,7 +31,7 @@ def create_cell_area(self, start_cell_name, end_cell_name):
 | end_cell_name | str | The bottom-right cell of the range. |
 
 
-## create_cell_area(start_row, start_column, end_row, end_column) {#int-int-int-int}
+## create_cell_area {#int-int-int-int}
 
 Creates a cell area.
 
@@ -39,7 +39,7 @@ Creates a cell area.
 ### Returns 
 
 
-Return a [CellArea](/cells/python-net/aspose.cells/cellarea).
+Return a [`CellArea`](/cells/python-net/aspose.cells/cellarea).
 
 
 ```python
@@ -58,5 +58,5 @@ def create_cell_area(self, start_row, start_column, end_row, end_column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
+* module [`aspose.cells`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)

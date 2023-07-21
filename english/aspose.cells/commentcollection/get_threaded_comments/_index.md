@@ -8,7 +8,7 @@ url: /aspose.cells/commentcollection/get_threaded_comments/
 is_root: false
 ---
 
-## get_threaded_comments(cell_name) {#str}
+## get_threaded_comments {#str}
 
 Gets the threaded comments by cell name.
 
@@ -42,7 +42,7 @@ for i in range(len(threadedComments2)):
 ```
 
 
-## get_threaded_comments(row, column) {#int-int}
+## get_threaded_comments {#int-int}
 
 Gets the threaded comments by row and column index.
 
@@ -79,5 +79,5 @@ for i in range(len(threadedComments1)):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CommentCollection](/cells/python-net/aspose.cells/commentcollection)
+* module [`aspose.cells`](../../)
+* class [`CommentCollection`](/cells/python-net/aspose.cells/commentcollection)

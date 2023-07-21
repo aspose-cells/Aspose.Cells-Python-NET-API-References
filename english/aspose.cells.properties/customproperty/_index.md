@@ -19,7 +19,7 @@ The CustomProperty type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [CustomProperty()](/cells/python-net/aspose.cells.properties/customproperty/__init__/#) | Constructs a new instance of CustomProperty |
+| [__init__](/cells/python-net/aspose.cells.properties/customproperty/__init__/#) | Constructs a new instance of CustomProperty |
 
 
 ### Properties
@@ -32,4 +32,4 @@ The CustomProperty type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.properties](..)
+* module [`aspose.cells.properties`](..)

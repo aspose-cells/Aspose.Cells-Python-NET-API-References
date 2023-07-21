@@ -3,7 +3,7 @@ title: XpsSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1730
+weight: 1780
 url: /aspose.cells/xpssaveoptions/
 is_root: false
 ---
@@ -14,9 +14,9 @@ Represents the additional options when saving the file as the Xps.
 
 
 
-**Inheritance:** [XpsSaveOptions](/cells/python-net/aspose.cells/xpssaveoptions) → 
-[PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`XpsSaveOptions`](/cells/python-net/aspose.cells/xpssaveoptions) → 
+[`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -25,8 +25,8 @@ The XpsSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [XpsSaveOptions()](/cells/python-net/aspose.cells/xpssaveoptions/__init__/#) | Creates options for saving xps file. |
-| [XpsSaveOptions(save_format)](/cells/python-net/aspose.cells/xpssaveoptions/__init__/#SaveFormat) | Creates options for saving xps file. |
+| [__init__](/cells/python-net/aspose.cells/xpssaveoptions/__init__/#) | Creates options for saving xps file. |
+| [__init__](/cells/python-net/aspose.cells/xpssaveoptions/__init__/#aspose.cells.SaveFormat) | Creates options for saving xps file. |
 
 
 ### Properties
@@ -57,14 +57,14 @@ The XpsSaveOptions type exposes the following members:
 | [gridline_type](/cells/python-net/aspose.cells/xpssaveoptions/gridline_type) | Gets or sets gridline type. |
 | [text_cross_type](/cells/python-net/aspose.cells/xpssaveoptions/text_cross_type) | Gets or sets displaying text type when the text width is larger than cell width. |
 | [default_edit_language](/cells/python-net/aspose.cells/xpssaveoptions/default_edit_language) | Gets or sets default edit language. |
-| [sheet_set](/cells/python-net/aspose.cells/xpssaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [SheetSet.visible](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
+| [sheet_set](/cells/python-net/aspose.cells/xpssaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [draw_object_event_handler](/cells/python-net/aspose.cells/xpssaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/xpssaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
-* class [XpsSaveOptions](/cells/python-net/aspose.cells/xpssaveoptions)
+* module [`aspose.cells`](..)
+* class [`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
+* class [`XpsSaveOptions`](/cells/python-net/aspose.cells/xpssaveoptions)

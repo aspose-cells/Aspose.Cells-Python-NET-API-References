@@ -3,7 +3,7 @@ title: bottom property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /aspose.cells.drawing/webextensionshape/bottom/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def bottom(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [WebExtensionShape](/cells/python-net/aspose.cells.drawing/webextensionshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`WebExtensionShape`](/cells/python-net/aspose.cells.drawing/webextensionshape)

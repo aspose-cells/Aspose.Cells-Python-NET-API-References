@@ -30,5 +30,5 @@ def is_group(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ArcShape](/cells/python-net/aspose.cells.drawing/arcshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`ArcShape`](/cells/python-net/aspose.cells.drawing/arcshape)

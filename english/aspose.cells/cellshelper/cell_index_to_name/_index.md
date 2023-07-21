@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/cell_index_to_name/
 is_root: false
 ---
 
-## cell_index_to_name(row, column) {#int-int}
+## cell_index_to_name {#int-int}
 
 Gets cell name according to its row and column indexes.
 
@@ -33,5 +33,5 @@ def cell_index_to_name(self, row, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsHelper](/cells/python-net/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* class [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper)

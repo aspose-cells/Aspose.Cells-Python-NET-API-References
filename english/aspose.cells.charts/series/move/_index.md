@@ -8,7 +8,7 @@ url: /aspose.cells.charts/series/move/
 is_root: false
 ---
 
-## move(count) {#int}
+## move {#int}
 
 Moves the series up or down.
 
@@ -27,5 +27,5 @@ def move(self, count):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Series](/cells/python-net/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* class [`Series`](/cells/python-net/aspose.cells.charts/series)

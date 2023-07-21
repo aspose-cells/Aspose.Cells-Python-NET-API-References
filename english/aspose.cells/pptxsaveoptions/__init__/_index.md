@@ -8,7 +8,7 @@ url: /aspose.cells/pptxsaveoptions/__init__/
 is_root: false
 ---
 
-## PptxSaveOptions() {#}
+## __init__ {#}
 
 Represents the pptx save options.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## PptxSaveOptions(save_as_image) {#bool}
+## __init__ {#bool}
 
 Represents options of saving .pptx file.
 
@@ -41,5 +41,5 @@ def __init__(self, save_as_image):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PptxSaveOptions](/cells/python-net/aspose.cells/pptxsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`PptxSaveOptions`](/cells/python-net/aspose.cells/pptxsaveoptions)

@@ -20,6 +20,6 @@ def font(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [Font](/cells/python-net/aspose.cells/font)
-* class [SpinButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`Font`](/cells/python-net/aspose.cells/font)
+* class [`SpinButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

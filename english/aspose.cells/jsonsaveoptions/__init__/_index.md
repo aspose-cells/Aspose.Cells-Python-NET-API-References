@@ -8,7 +8,7 @@ url: /aspose.cells/jsonsaveoptions/__init__/
 is_root: false
 ---
 
-## JsonSaveOptions() {#}
+## __init__ {#}
 
 Creates options for saving json file.
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [JsonSaveOptions](/cells/python-net/aspose.cells/jsonsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions)

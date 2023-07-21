@@ -8,7 +8,7 @@ url: /aspose.cells/cell/is_rich_text/
 is_root: false
 ---
 
-## is_rich_text() {#}
+## is_rich_text {#}
 
 Indicates whether the cell string value is a rich text.
 
@@ -24,5 +24,5 @@ def is_rich_text(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

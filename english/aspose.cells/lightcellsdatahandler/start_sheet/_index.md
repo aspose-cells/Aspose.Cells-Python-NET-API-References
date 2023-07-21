@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdatahandler/start_sheet/
 is_root: false
 ---
 
-## start_sheet(sheet) {#Worksheet}
+## start_sheet {#aspose.cells.Worksheet}
 
 Starts to process a worksheet.
 
@@ -27,12 +27,12 @@ def start_sheet(self, sheet):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheet | [Worksheet](/cells/python-net/aspose.cells/worksheet) | the worksheet to read cells data. |
+| sheet | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | the worksheet to read cells data. |
 ### Remarks
 
 It will be called before reading cells data of a worksheet.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LightCellsDataHandler](/cells/python-net/aspose.cells/lightcellsdatahandler)
+* module [`aspose.cells`](../../)
+* class [`LightCellsDataHandler`](/cells/python-net/aspose.cells/lightcellsdatahandler)

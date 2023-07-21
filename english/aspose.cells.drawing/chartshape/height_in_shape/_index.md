@@ -38,5 +38,5 @@ def height_in_shape(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ChartShape](/cells/python-net/aspose.cells.drawing/chartshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`ChartShape`](/cells/python-net/aspose.cells.drawing/chartshape)

@@ -33,5 +33,5 @@ def upper_left_column(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ComboBox](/cells/python-net/aspose.cells.drawing/combobox)
+* module [`aspose.cells.drawing`](../../)
+* class [`ComboBox`](/cells/python-net/aspose.cells.drawing/combobox)

@@ -8,7 +8,7 @@ url: /aspose.cells/autofilter/filter/
 is_root: false
 ---
 
-## filter(field_index, criteria) {#int-str}
+## filter {#int-str}
 
 Filters a list with specified criteria.
 
@@ -30,5 +30,5 @@ Aspose.Cells will remove all other filter setting on this field as Ms Excel 97-2
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFilter](/cells/python-net/aspose.cells/autofilter)
+* module [`aspose.cells`](../../)
+* class [`AutoFilter`](/cells/python-net/aspose.cells/autofilter)

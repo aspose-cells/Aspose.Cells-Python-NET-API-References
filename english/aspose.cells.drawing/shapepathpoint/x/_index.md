@@ -23,5 +23,5 @@ def x(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePathPoint](/cells/python-net/aspose.cells.drawing/shapepathpoint)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePathPoint`](/cells/python-net/aspose.cells.drawing/shapepathpoint)

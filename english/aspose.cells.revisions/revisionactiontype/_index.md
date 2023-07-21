@@ -3,7 +3,7 @@ title: RevisionActionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /aspose.cells.revisions/revisionactiontype/
 is_root: false
 ---
@@ -29,4 +29,4 @@ The RevisionActionType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
+* module [`aspose.cells.revisions`](..)

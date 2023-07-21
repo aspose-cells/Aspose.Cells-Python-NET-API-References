@@ -26,5 +26,5 @@ def is_equal_average(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AboveAverage](/cells/python-net/aspose.cells/aboveaverage)
+* module [`aspose.cells`](../../)
+* class [`AboveAverage`](/cells/python-net/aspose.cells/aboveaverage)

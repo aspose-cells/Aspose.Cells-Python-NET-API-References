@@ -3,7 +3,7 @@ title: PaneCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1160
+weight: 1180
 url: /aspose.cells/panecollection/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The PaneCollection type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

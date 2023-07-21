@@ -24,6 +24,6 @@ def material(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [PresetMaterialType](/cells/python-net/aspose.cells.drawing/presetmaterialtype)
-* class [ThreeDFormat](/cells/python-net/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`PresetMaterialType`](/cells/python-net/aspose.cells.drawing/presetmaterialtype)
+* class [`ThreeDFormat`](/cells/python-net/aspose.cells.drawing/threedformat)

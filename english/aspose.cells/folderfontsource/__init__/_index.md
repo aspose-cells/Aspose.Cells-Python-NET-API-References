@@ -8,7 +8,7 @@ url: /aspose.cells/folderfontsource/__init__/
 is_root: false
 ---
 
-## FolderFontSource(folder_path, scan_subfolders) {#str-bool}
+## __init__ {#str-bool}
 
 Ctor.
 
@@ -28,5 +28,5 @@ def __init__(self, folder_path, scan_subfolders):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FolderFontSource](/cells/python-net/aspose.cells/folderfontsource)
+* module [`aspose.cells`](../../)
+* class [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource)

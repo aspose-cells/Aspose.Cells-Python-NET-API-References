@@ -23,6 +23,6 @@ def formatting(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Floor](/cells/python-net/aspose.cells.charts/floor)
-* class [FormattingType](/cells/python-net/aspose.cells.charts/formattingtype)
+* module [`aspose.cells.charts`](../../)
+* class [`Floor`](/cells/python-net/aspose.cells.charts/floor)
+* class [`FormattingType`](/cells/python-net/aspose.cells.charts/formattingtype)

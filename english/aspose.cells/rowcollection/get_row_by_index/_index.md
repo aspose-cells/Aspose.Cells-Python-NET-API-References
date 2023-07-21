@@ -3,12 +3,12 @@ title: get_row_by_index method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells/rowcollection/get_row_by_index/
 is_root: false
 ---
 
-## get_row_by_index(index) {#int}
+## get_row_by_index {#int}
 
 Gets the row object by the position in the list.
 
@@ -32,5 +32,5 @@ def get_row_by_index(self, index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [RowCollection](/cells/python-net/aspose.cells/rowcollection)
+* module [`aspose.cells`](../../)
+* class [`RowCollection`](/cells/python-net/aspose.cells/rowcollection)

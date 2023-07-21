@@ -29,5 +29,5 @@ def check_excel_restriction(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.numbers](../../)
-* class [NumbersLoadOptions](/cells/python-net/aspose.cells.numbers/numbersloadoptions)
+* module [`aspose.cells.numbers`](../../)
+* class [`NumbersLoadOptions`](/cells/python-net/aspose.cells.numbers/numbersloadoptions)

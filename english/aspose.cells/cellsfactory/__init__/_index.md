@@ -8,7 +8,7 @@ url: /aspose.cells/cellsfactory/__init__/
 is_root: false
 ---
 
-## CellsFactory() {#}
+## __init__ {#}
 
 Constructs a new instance of CellsFactory
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsFactory](/cells/python-net/aspose.cells/cellsfactory)
+* module [`aspose.cells`](../../)
+* class [`CellsFactory`](/cells/python-net/aspose.cells/cellsfactory)

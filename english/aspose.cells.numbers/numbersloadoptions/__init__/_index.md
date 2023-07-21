@@ -8,7 +8,7 @@ url: /aspose.cells.numbers/numbersloadoptions/__init__/
 is_root: false
 ---
 
-## NumbersLoadOptions() {#}
+## __init__ {#}
 
 Constructor.
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.numbers](../../)
-* class [NumbersLoadOptions](/cells/python-net/aspose.cells.numbers/numbersloadoptions)
+* module [`aspose.cells.numbers`](../../)
+* class [`NumbersLoadOptions`](/cells/python-net/aspose.cells.numbers/numbersloadoptions)

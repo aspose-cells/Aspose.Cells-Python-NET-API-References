@@ -8,15 +8,15 @@ url: /aspose.cells/cells/create_range/
 is_root: false
 ---
 
-## create_range(address) {#str}
+## create_range {#str}
 
-Creates a [Range](/cells/python-net/aspose.cells/range) object from an address of the range.
+Creates a [`Range`](/cells/python-net/aspose.cells/range) object from an address of the range.
 
 
 ### Returns 
 
 
-A [Range](/cells/python-net/aspose.cells/range) object
+A [`Range`](/cells/python-net/aspose.cells/range) object
 
 
 ```python
@@ -30,15 +30,15 @@ def create_range(self, address):
 | address | str | The address of the range. |
 
 
-## create_range(upper_left_cell, lower_right_cell) {#str-str}
+## create_range {#str-str}
 
-Creates a [Range](/cells/python-net/aspose.cells/range) object from a range of cells.
+Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells.
 
 
 ### Returns 
 
 
-A [Range](/cells/python-net/aspose.cells/range) object
+A [`Range`](/cells/python-net/aspose.cells/range) object
 
 
 ```python
@@ -53,15 +53,15 @@ def create_range(self, upper_left_cell, lower_right_cell):
 | lower_right_cell | str | Lower right cell name. |
 
 
-## create_range(first_index, number, is_vertical) {#int-int-bool}
+## create_range {#int-int-bool}
 
-Creates a [Range](/cells/python-net/aspose.cells/range) object from rows of cells or columns of cells.
+Creates a [`Range`](/cells/python-net/aspose.cells/range) object from rows of cells or columns of cells.
 
 
 ### Returns 
 
 
-A [Range](/cells/python-net/aspose.cells/range) object.
+A [`Range`](/cells/python-net/aspose.cells/range) object.
 
 
 ```python
@@ -77,15 +77,15 @@ def create_range(self, first_index, number, is_vertical):
 | is_vertical | bool | True - Range created from columns of cells. False - Range created from rows of cells. |
 
 
-## create_range(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
+## create_range {#int-int-int-int}
 
-Creates a [Range](/cells/python-net/aspose.cells/range) object from a range of cells.
+Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells.
 
 
 ### Returns 
 
 
-A [Range](/cells/python-net/aspose.cells/range) object
+A [`Range`](/cells/python-net/aspose.cells/range) object
 
 
 ```python
@@ -104,6 +104,6 @@ def create_range(self, first_row, first_column, total_rows, total_columns):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)
+* class [`Range`](/cells/python-net/aspose.cells/range)

@@ -23,5 +23,5 @@ def second(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DateTimeGroupItem](/cells/python-net/aspose.cells/datetimegroupitem)
+* module [`aspose.cells`](../../)
+* class [`DateTimeGroupItem`](/cells/python-net/aspose.cells/datetimegroupitem)

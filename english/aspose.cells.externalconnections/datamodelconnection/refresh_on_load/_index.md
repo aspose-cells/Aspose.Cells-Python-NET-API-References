@@ -23,5 +23,5 @@ def refresh_on_load(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [DataModelConnection](/cells/python-net/aspose.cells.externalconnections/datamodelconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`DataModelConnection`](/cells/python-net/aspose.cells.externalconnections/datamodelconnection)

@@ -8,7 +8,7 @@ url: /aspose.cells.timelines/timelinecollection/add/
 is_root: false
 ---
 
-## add(pivot, dest_cell_name, base_field_name) {#aspose.cells.pivot.PivotTable-str-str}
+## add {#aspose.cells.pivot.PivotTable-str-str}
 
 Add a new Timeline using PivotTable as data source
 
@@ -42,7 +42,7 @@ sheet.timelines.add(pivot, "i15", "date")
 ```
 
 
-## add(pivot, dest_cell_name, base_field_index) {#aspose.cells.pivot.PivotTable-str-int}
+## add {#aspose.cells.pivot.PivotTable-str-int}
 
 Add a new Timeline using PivotTable as data source
 
@@ -76,7 +76,7 @@ sheet.timelines.add(pivot, "i5", 1)
 ```
 
 
-## add(pivot, dest_cell_name, base_field) {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
+## add {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
 
 Add a new Timeline using PivotTable as data source
 
@@ -110,7 +110,7 @@ sheet.timelines.add(pivot, "i10", pivot.base_fields[1])
 ```
 
 
-## add(pivot, row, column, base_field_name) {#aspose.cells.pivot.PivotTable-int-int-str}
+## add {#aspose.cells.pivot.PivotTable-int-int-str}
 
 Add a new Timeline using PivotTable as data source
 
@@ -145,7 +145,7 @@ sheet.timelines.add(pivot, 10, 5, "date")
 ```
 
 
-## add(pivot, row, column, base_field_index) {#aspose.cells.pivot.PivotTable-int-int-int}
+## add {#aspose.cells.pivot.PivotTable-int-int-int}
 
 Add a new Timeline using PivotTable as data source
 
@@ -180,7 +180,7 @@ sheet.timelines.add(pivot, 15, 5, 1)
 ```
 
 
-## add(pivot, row, column, base_field) {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
+## add {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
 
 Add a new Timeline using PivotTable as data source
 
@@ -217,5 +217,5 @@ sheet.timelines.add(pivot, 20, 5, pivot.base_fields[1])
 
 
 ### See Also
-* module [aspose.cells.timelines](../../)
-* class [TimelineCollection](/cells/python-net/aspose.cells.timelines/timelinecollection)
+* module [`aspose.cells.timelines`](../../)
+* class [`TimelineCollection`](/cells/python-net/aspose.cells.timelines/timelinecollection)

@@ -3,7 +3,7 @@ title: RevisionInsertDelete class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /aspose.cells.revisions/revisioninsertdelete/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents a revision record of a row/column insert/delete action.
 
 
 
-**Inheritance:** [RevisionInsertDelete](/cells/python-net/aspose.cells.revisions/revisioninsertdelete) → 
-[Revision](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionInsertDelete`](/cells/python-net/aspose.cells.revisions/revisioninsertdelete) → 
+[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 
 
 
@@ -34,6 +34,6 @@ The RevisionInsertDelete type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [RevisionInsertDelete](/cells/python-net/aspose.cells.revisions/revisioninsertdelete)
+* module [`aspose.cells.revisions`](..)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`RevisionInsertDelete`](/cells/python-net/aspose.cells.revisions/revisioninsertdelete)

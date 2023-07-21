@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chart/calculate/
 is_root: false
 ---
 
-## calculate() {#}
+## calculate {#}
 
 Calculates the custom position of plot area, axes if the position of them are auto assigned.
 
@@ -24,5 +24,5 @@ def calculate(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

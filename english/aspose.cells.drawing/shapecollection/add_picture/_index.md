@@ -3,12 +3,12 @@ title: add_picture method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /aspose.cells.drawing/shapecollection/add_picture/
 is_root: false
 ---
 
-## add_picture(upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
+## add_picture {#int-int-int-int-io.RawIOBase}
 
 Adds a picture to the collection.
 
@@ -16,7 +16,7 @@ Adds a picture to the collection.
 ### Returns 
 
 
-[Picture](/cells/python-net/aspose.cells.drawing/picture) Picture object.
+[`Picture`](/cells/python-net/aspose.cells.drawing/picture) Picture object.
 
 
 ```python
@@ -45,7 +45,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add_picture(upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+## add_picture {#int-int-io.RawIOBase-int-int}
 
 Adds a picture to the collection.
 
@@ -53,7 +53,7 @@ Adds a picture to the collection.
 ### Returns 
 
 
-[Picture](/cells/python-net/aspose.cells.drawing/picture) Picture object.
+[`Picture`](/cells/python-net/aspose.cells.drawing/picture) Picture object.
 
 
 ```python
@@ -84,6 +84,6 @@ with open("image.jpg", "rb") as fs:
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

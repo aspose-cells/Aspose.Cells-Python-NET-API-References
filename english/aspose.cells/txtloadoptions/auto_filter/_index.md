@@ -29,5 +29,5 @@ def auto_filter(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [TxtLoadOptions](/cells/python-net/aspose.cells/txtloadoptions)
+* module [`aspose.cells`](../../)
+* class [`TxtLoadOptions`](/cells/python-net/aspose.cells/txtloadoptions)

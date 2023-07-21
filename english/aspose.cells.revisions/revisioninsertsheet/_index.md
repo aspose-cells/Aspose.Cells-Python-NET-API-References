@@ -3,7 +3,7 @@ title: RevisionInsertSheet class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.revisions/revisioninsertsheet/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents a revision record of a sheet that was inserted.
 
 
 
-**Inheritance:** [RevisionInsertSheet](/cells/python-net/aspose.cells.revisions/revisioninsertsheet) → 
-[Revision](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionInsertSheet`](/cells/python-net/aspose.cells.revisions/revisioninsertsheet) → 
+[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 
 
 
@@ -34,6 +34,6 @@ The RevisionInsertSheet type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [RevisionInsertSheet](/cells/python-net/aspose.cells.revisions/revisioninsertsheet)
+* module [`aspose.cells.revisions`](..)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`RevisionInsertSheet`](/cells/python-net/aspose.cells.revisions/revisioninsertsheet)

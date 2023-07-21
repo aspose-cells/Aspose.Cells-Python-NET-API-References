@@ -3,7 +3,7 @@ title: print_size property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 490
 url: /aspose.cells.charts/chart/print_size/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def print_size(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
-* class [PrintSizeType](/cells/python-net/aspose.cells/printsizetype)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)
+* class [`PrintSizeType`](/cells/python-net/aspose.cells/printsizetype)

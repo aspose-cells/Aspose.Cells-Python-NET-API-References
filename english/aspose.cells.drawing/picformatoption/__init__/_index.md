@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/picformatoption/__init__/
 is_root: false
 ---
 
-## PicFormatOption() {#}
+## __init__ {#}
 
 Constructs a new instance of PicFormatOption
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [PicFormatOption](/cells/python-net/aspose.cells.drawing/picformatoption)
+* module [`aspose.cells.drawing`](../../)
+* class [`PicFormatOption`](/cells/python-net/aspose.cells.drawing/picformatoption)

@@ -3,12 +3,12 @@ title: move_to method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells/worksheet/move_to/
 is_root: false
 ---
 
-## move_to(index) {#int}
+## move_to {#int}
 
 Moves the sheet to another location in the spreadsheet.
 
@@ -27,5 +27,5 @@ def move_to(self, index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

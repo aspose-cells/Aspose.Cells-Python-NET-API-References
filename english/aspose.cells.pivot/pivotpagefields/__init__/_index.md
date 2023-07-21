@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotpagefields/__init__/
 is_root: false
 ---
 
-## PivotPageFields() {#}
+## __init__ {#}
 
 Represents the pivot page field items.
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotPageFields](/cells/python-net/aspose.cells.pivot/pivotpagefields)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotPageFields`](/cells/python-net/aspose.cells.pivot/pivotpagefields)

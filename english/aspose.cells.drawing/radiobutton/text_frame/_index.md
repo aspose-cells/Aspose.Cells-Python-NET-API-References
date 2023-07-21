@@ -3,7 +3,7 @@ title: text_frame property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 980
+weight: 990
 url: /aspose.cells.drawing/radiobutton/text_frame/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def text_frame(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoTextFrame](/cells/python-net/aspose.cells.drawing/msotextframe)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoTextFrame`](/cells/python-net/aspose.cells.drawing/msotextframe)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

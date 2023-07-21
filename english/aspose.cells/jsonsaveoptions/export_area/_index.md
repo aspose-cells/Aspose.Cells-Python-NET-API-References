@@ -23,6 +23,6 @@ def export_area(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
-* class [JsonSaveOptions](/cells/python-net/aspose.cells/jsonsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)
+* class [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions)

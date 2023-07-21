@@ -29,6 +29,6 @@ def format_picture(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CheckBox](/cells/python-net/aspose.cells.drawing/checkbox)
-* class [MsoFormatPicture](/cells/python-net/aspose.cells.drawing/msoformatpicture)
+* module [`aspose.cells.drawing`](../../)
+* class [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox)
+* class [`MsoFormatPicture`](/cells/python-net/aspose.cells.drawing/msoformatpicture)

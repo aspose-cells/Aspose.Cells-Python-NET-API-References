@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/__init__/
 is_root: false
 ---
 
-## PivotGlobalizationSettings() {#}
+## __init__ {#}
 
 Constructs a new instance of PivotGlobalizationSettings
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.settings](../../)
-* class [PivotGlobalizationSettings](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings)
+* module [`aspose.cells.settings`](../../)
+* class [`PivotGlobalizationSettings`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings)

@@ -28,5 +28,5 @@ def create_directory(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [MarkdownSaveOptions](/cells/python-net/aspose.cells/markdownsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`MarkdownSaveOptions`](/cells/python-net/aspose.cells/markdownsaveoptions)

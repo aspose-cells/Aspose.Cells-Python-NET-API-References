@@ -14,8 +14,8 @@ Represents the folder that contains TrueType font files.
 
 
 
-**Inheritance:** [FolderFontSource](/cells/python-net/aspose.cells/folderfontsource) → 
-[FontSourceBase](/cells/python-net/aspose.cells/fontsourcebase)
+**Inheritance:** [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource) → 
+[`FontSourceBase`](/cells/python-net/aspose.cells/fontsourcebase)
 
 
 
@@ -24,7 +24,7 @@ The FolderFontSource type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FolderFontSource(folder_path, scan_subfolders)](/cells/python-net/aspose.cells/folderfontsource/__init__/#str-bool) | Ctor. |
+| [__init__](/cells/python-net/aspose.cells/folderfontsource/__init__/#str-bool) | Ctor. |
 
 
 ### Properties
@@ -37,6 +37,6 @@ The FolderFontSource type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [FolderFontSource](/cells/python-net/aspose.cells/folderfontsource)
-* class [FontSourceBase](/cells/python-net/aspose.cells/fontsourcebase)
+* module [`aspose.cells`](..)
+* class [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource)
+* class [`FontSourceBase`](/cells/python-net/aspose.cells/fontsourcebase)

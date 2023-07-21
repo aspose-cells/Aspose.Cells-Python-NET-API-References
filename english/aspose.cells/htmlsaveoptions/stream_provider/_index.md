@@ -23,6 +23,6 @@ def stream_provider(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
-* class [IStreamProvider](/cells/python-net/aspose.cells/istreamprovider)
+* module [`aspose.cells`](../../)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)
+* class [`IStreamProvider`](/cells/python-net/aspose.cells/istreamprovider)

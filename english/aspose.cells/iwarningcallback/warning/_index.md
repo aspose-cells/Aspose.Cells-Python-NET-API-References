@@ -8,7 +8,7 @@ url: /aspose.cells/iwarningcallback/warning/
 is_root: false
 ---
 
-## warning(warning_info) {#WarningInfo}
+## warning {#aspose.cells.WarningInfo}
 
 Our callback only needs to implement the "Warning" method.
 
@@ -22,10 +22,10 @@ def warning(self, warning_info):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| warning_info | [WarningInfo](/cells/python-net/aspose.cells/warninginfo) | warning info |
+| warning_info | [`WarningInfo`](/cells/python-net/aspose.cells/warninginfo) | warning info |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IWarningCallback](/cells/python-net/aspose.cells/iwarningcallback)
+* module [`aspose.cells`](../../)
+* class [`IWarningCallback`](/cells/python-net/aspose.cells/iwarningcallback)

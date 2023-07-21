@@ -3,7 +3,7 @@ title: CalcModeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1810
+weight: 1860
 url: /aspose.cells/calcmodetype/
 is_root: false
 ---
@@ -31,4 +31,4 @@ The CalcModeType type exposes the following members:
 Only sets for MS Excel.
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

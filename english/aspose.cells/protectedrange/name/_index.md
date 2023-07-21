@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ProtectedRange](/cells/python-net/aspose.cells/protectedrange)
+* module [`aspose.cells`](../../)
+* class [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/tilepicoption/__init__/
 is_root: false
 ---
 
-## TilePicOption() {#}
+## __init__ {#}
 
 Constructs a new instance of TilePicOption
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TilePicOption](/cells/python-net/aspose.cells.drawing/tilepicoption)
+* module [`aspose.cells.drawing`](../../)
+* class [`TilePicOption`](/cells/python-net/aspose.cells.drawing/tilepicoption)

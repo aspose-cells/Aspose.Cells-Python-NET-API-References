@@ -8,7 +8,7 @@ url: /aspose.cells/range/get_enumerator/
 is_root: false
 ---
 
-## get_enumerator() {#}
+## get_enumerator {#}
 
 Gets the enumerator for cells in this Range.
 
@@ -47,5 +47,5 @@ for cell in en:
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`Range`](/cells/python-net/aspose.cells/range)

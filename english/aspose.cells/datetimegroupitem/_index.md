@@ -19,7 +19,7 @@ The DateTimeGroupItem type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [DateTimeGroupItem(type, year, month, day, hour, minute, second)](/cells/python-net/aspose.cells/datetimegroupitem/__init__/#DateTimeGroupingType-int-int-int-int-int-int) |  |
+| [__init__](/cells/python-net/aspose.cells/datetimegroupitem/__init__/#aspose.cells.DateTimeGroupingType-int-int-int-int-int-int) |  |
 
 
 ### Properties
@@ -37,4 +37,4 @@ The DateTimeGroupItem type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

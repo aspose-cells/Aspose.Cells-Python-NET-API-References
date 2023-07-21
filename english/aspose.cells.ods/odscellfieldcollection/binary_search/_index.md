@@ -8,7 +8,7 @@ url: /aspose.cells.ods/odscellfieldcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#OdsCellField}
+## binary_search {#aspose.cells.ods.OdsCellField}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [OdsCellField](/cells/python-net/aspose.cells.ods/odscellfield) | The System.Object to locate. The value can be null. |
+| item | [`OdsCellField`](/cells/python-net/aspose.cells.ods/odscellfield) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.ods](../../)
-* class [OdsCellFieldCollection](/cells/python-net/aspose.cells.ods/odscellfieldcollection)
+* module [`aspose.cells.ods`](../../)
+* class [`OdsCellFieldCollection`](/cells/python-net/aspose.cells.ods/odscellfieldcollection)

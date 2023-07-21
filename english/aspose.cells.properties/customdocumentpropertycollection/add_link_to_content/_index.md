@@ -8,7 +8,7 @@ url: /aspose.cells.properties/customdocumentpropertycollection/add_link_to_conte
 is_root: false
 ---
 
-## add_link_to_content(name, source) {#str-str}
+## add_link_to_content {#str-str}
 
 Creates a new custom document property which links to content.
 
@@ -33,5 +33,5 @@ def add_link_to_content(self, name, source):
 
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [CustomDocumentPropertyCollection](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
+* module [`aspose.cells.properties`](../../)
+* class [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)

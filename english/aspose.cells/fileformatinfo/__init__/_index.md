@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatinfo/__init__/
 is_root: false
 ---
 
-## FileFormatInfo() {#}
+## __init__ {#}
 
 Constructs a new instance of FileFormatInfo
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FileFormatInfo](/cells/python-net/aspose.cells/fileformatinfo)
+* module [`aspose.cells`](../../)
+* class [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo)

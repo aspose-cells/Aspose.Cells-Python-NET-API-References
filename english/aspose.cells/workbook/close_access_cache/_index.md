@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/close_access_cache/
 is_root: false
 ---
 
-## close_access_cache(opts) {#AccessCacheOptions}
+## close_access_cache {#aspose.cells.AccessCacheOptions}
 
 Closes the session that uses caches to access data.
 
@@ -22,10 +22,10 @@ def close_access_cache(self, opts):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| opts | [AccessCacheOptions](/cells/python-net/aspose.cells/accesscacheoptions) | options of data access |
+| opts | [`AccessCacheOptions`](/cells/python-net/aspose.cells/accesscacheoptions) | options of data access |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

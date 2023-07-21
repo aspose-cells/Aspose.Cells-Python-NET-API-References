@@ -8,9 +8,9 @@ url: /aspose.cells.externalconnections/externalconnectioncollection/get_external
 is_root: false
 ---
 
-## get_external_connection_by_id(conn_id) {#int}
+## get_external_connection_by_id {#int}
 
-Gets the [ExternalConnection](/cells/python-net/aspose.cells.externalconnections/externalconnection) element with the specified id.
+Gets the [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection) element with the specified id.
 
 
 ### Returns 
@@ -32,6 +32,6 @@ def get_external_connection_by_id(self, conn_id):
 
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [ExternalConnection](/cells/python-net/aspose.cells.externalconnections/externalconnection)
-* class [ExternalConnectionCollection](/cells/python-net/aspose.cells.externalconnections/externalconnectioncollection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)
+* class [`ExternalConnectionCollection`](/cells/python-net/aspose.cells.externalconnections/externalconnectioncollection)

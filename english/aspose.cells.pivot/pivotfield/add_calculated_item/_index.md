@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfield/add_calculated_item/
 is_root: false
 ---
 
-## add_calculated_item(name, formula) {#str-str}
+## add_calculated_item {#str-str}
 
 Add a calculated item to the pivot field.
 
@@ -30,5 +30,5 @@ Only supports to add calculated item to Row/Column field.
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)

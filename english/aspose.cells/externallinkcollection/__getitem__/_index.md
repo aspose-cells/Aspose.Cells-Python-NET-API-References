@@ -11,7 +11,7 @@ is_root: false
 ## ExternalLinkCollection indexer
 
 
-Gets the [ExternalLink](/cells/python-net/aspose.cells/externallink) element at the specified index.
+Gets the [`ExternalLink`](/cells/python-net/aspose.cells/externallink) element at the specified index.
 ### Indexer
 | Name | Description |
 | :- | :- |
@@ -25,6 +25,6 @@ Gets the [ExternalLink](/cells/python-net/aspose.cells/externallink) element at 
 The element at the specified index.
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ExternalLink](/cells/python-net/aspose.cells/externallink)
-* class [ExternalLinkCollection](/cells/python-net/aspose.cells/externallinkcollection)
+* module [`aspose.cells`](../../)
+* class [`ExternalLink`](/cells/python-net/aspose.cells/externallink)
+* class [`ExternalLinkCollection`](/cells/python-net/aspose.cells/externallinkcollection)

@@ -11,7 +11,7 @@ is_root: false
 ## ChartPointCollection indexer
 
 
-Gets the [ChartPoint](/cells/python-net/aspose.cells.charts/chartpoint) element at the specified index in the series.
+Gets the [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint) element at the specified index in the series.
 ### Indexer
 | Name | Description |
 | :- | :- |
@@ -25,6 +25,6 @@ Gets the [ChartPoint](/cells/python-net/aspose.cells.charts/chartpoint) element 
 The ChartPoint object.
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartPoint](/cells/python-net/aspose.cells.charts/chartpoint)
-* class [ChartPointCollection](/cells/python-net/aspose.cells.charts/chartpointcollection)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint)
+* class [`ChartPointCollection`](/cells/python-net/aspose.cells.charts/chartpointcollection)

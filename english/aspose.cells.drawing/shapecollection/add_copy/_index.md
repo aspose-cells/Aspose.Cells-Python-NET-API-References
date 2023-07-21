@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_copy/
 is_root: false
 ---
 
-## add_copy(source_shape, upper_left_row, top, upper_left_column, left) {#Shape-int-int-int-int}
+## add_copy {#aspose.cells.drawing.Shape-int-int-int-int}
 
 Adds and copy a shape to the worksheet.
 
@@ -27,7 +27,7 @@ def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_shape | [Shape](/cells/python-net/aspose.cells.drawing/shape) | Source shape. |
+| source_shape | [`Shape`](/cells/python-net/aspose.cells.drawing/shape) | Source shape. |
 | upper_left_row | int | Upper left row index. |
 | top | int | Represents the vertical  offset of checkbox from its left row, in unit of pixel. |
 | upper_left_column | int | Upper left column index. |
@@ -48,5 +48,5 @@ shapes.add_copy(rectangle, 7, 0, 7, 0)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

@@ -8,7 +8,7 @@ url: /aspose.cells/insertoptions/__init__/
 is_root: false
 ---
 
-## InsertOptions() {#}
+## __init__ {#}
 
 Constructs a new instance of InsertOptions
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [InsertOptions](/cells/python-net/aspose.cells/insertoptions)
+* module [`aspose.cells`](../../)
+* class [`InsertOptions`](/cells/python-net/aspose.cells/insertoptions)

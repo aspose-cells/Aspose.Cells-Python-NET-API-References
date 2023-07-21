@@ -3,7 +3,7 @@ title: PresetShadowType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1080
+weight: 1070
 url: /aspose.cells.drawing/presetshadowtype/
 is_root: false
 ---
@@ -48,4 +48,4 @@ The PresetShadowType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

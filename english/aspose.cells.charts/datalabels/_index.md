@@ -14,9 +14,9 @@ Encapsulates a collection of all the DataLabel objects for the specified Series.
 
 
 
-**Inheritance:** [DataLabels](/cells/python-net/aspose.cells.charts/datalabels) → 
-[ChartTextFrame](/cells/python-net/aspose.cells.charts/charttextframe) → 
-[ChartFrame](/cells/python-net/aspose.cells.charts/chartframe)
+**Inheritance:** [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels) → 
+[`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe) → 
+[`ChartFrame`](/cells/python-net/aspose.cells.charts/chartframe)
 
 
 
@@ -26,9 +26,9 @@ The DataLabels type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [is_inner_mode](/cells/python-net/aspose.cells.charts/datalabels/is_inner_mode) | Indicates whether the size of the plot area size includes the tick marks, and the axis labels.<br/>False specifies that the size shall determine the size of the plot area, the tick marks, and the axis labels. |
-| [border](/cells/python-net/aspose.cells.charts/datalabels/border) | Gets the [Line](/cells/python-net/aspose.cells.drawing/line). |
-| [area](/cells/python-net/aspose.cells.charts/datalabels/area) | Gets the [DataLabels.area](/cells/python-net/aspose.cells.charts/datalabels#area). |
-| [text_font](/cells/python-net/aspose.cells.charts/datalabels/text_font) | Gets a [ChartFrame.font](/cells/python-net/aspose.cells.charts/chartframe#font) object of the specified ChartFrame object. |
+| [border](/cells/python-net/aspose.cells.charts/datalabels/border) | Gets the [`Line`](/cells/python-net/aspose.cells.drawing/line). |
+| [area](/cells/python-net/aspose.cells.charts/datalabels/area) | Gets the [`DataLabels.area`](/cells/python-net/aspose.cells.charts/datalabels#area). |
+| [text_font](/cells/python-net/aspose.cells.charts/datalabels/text_font) | Gets a [`ChartFrame.font`](/cells/python-net/aspose.cells.charts/chartframe#font) object of the specified ChartFrame object. |
 | [text_options](/cells/python-net/aspose.cells.charts/datalabels/text_options) | Gets and sets the options of the text. |
 | [font](/cells/python-net/aspose.cells.charts/datalabels/font) | Gets the font of the DataLabels; |
 | [auto_scale_font](/cells/python-net/aspose.cells.charts/datalabels/auto_scale_font) | True if the text in the object changes font size when the object size changes. The default value is True. |
@@ -40,7 +40,7 @@ The DataLabels type exposes the following members:
 | [height](/cells/python-net/aspose.cells.charts/datalabels/height) | Gets or sets the height of frame in units of 1/4000 of the chart area. |
 | [width](/cells/python-net/aspose.cells.charts/datalabels/width) | Gets or sets the width of frame in units of 1/4000 of the chart area. |
 | [shadow](/cells/python-net/aspose.cells.charts/datalabels/shadow) | True if the frame has a shadow. |
-| [shape_properties](/cells/python-net/aspose.cells.charts/datalabels/shape_properties) | Gets the [ChartFrame.shape_properties](/cells/python-net/aspose.cells.charts/chartframe#shape_properties) object. |
+| [shape_properties](/cells/python-net/aspose.cells.charts/datalabels/shape_properties) | Gets the [`ChartFrame.shape_properties`](/cells/python-net/aspose.cells.charts/chartframe#shape_properties) object. |
 | [is_default_pos_be_set](/cells/python-net/aspose.cells.charts/datalabels/is_default_pos_be_set) | Indicates whether default position(DefaultX, DefaultY, DefaultWidth and DefaultHeight) are set. |
 | [default_x](/cells/python-net/aspose.cells.charts/datalabels/default_x) | Represents x of default position |
 | [default_y](/cells/python-net/aspose.cells.charts/datalabels/default_y) | Represents y of default position |
@@ -80,8 +80,8 @@ The DataLabels type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_position_auto()](/cells/python-net/aspose.cells.charts/datalabels/set_position_auto/#) | Set position of the frame to automatic |
-| [characters(start_index, length)](/cells/python-net/aspose.cells.charts/datalabels/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
+| [set_position_auto](/cells/python-net/aspose.cells.charts/datalabels/set_position_auto/#) | Set position of the frame to automatic |
+| [characters](/cells/python-net/aspose.cells.charts/datalabels/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
 
 
 
@@ -95,7 +95,7 @@ from aspose.cells.charts import LabelPositionType
 # Set the DataLabels in the chart
 wb = Workbook("chart.xlsx")
 chart = wb.worksheets[0].charts[0]
-for i in range(len(chart.NSeries)):
+for i in range(len(chart.n_series)):
     datalabels = chart.n_series[i].data_labels
     # Set the position of DataLabels
     datalabels.position = LabelPositionType.INSIDE_BASE
@@ -111,8 +111,8 @@ for i in range(len(chart.NSeries)):
 ```
 
 ### See Also
-* module [aspose.cells.charts](..)
-* class [ChartFrame](/cells/python-net/aspose.cells.charts/chartframe)
-* class [ChartTextFrame](/cells/python-net/aspose.cells.charts/charttextframe)
-* class [DataLabels](/cells/python-net/aspose.cells.charts/datalabels)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
+* module [`aspose.cells.charts`](..)
+* class [`ChartFrame`](/cells/python-net/aspose.cells.charts/chartframe)
+* class [`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe)
+* class [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)

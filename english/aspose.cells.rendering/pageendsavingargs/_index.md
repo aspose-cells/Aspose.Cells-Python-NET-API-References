@@ -14,8 +14,8 @@ Info for a page ends saving process.
 
 
 
-**Inheritance:** [PageEndSavingArgs](/cells/python-net/aspose.cells.rendering/pageendsavingargs) → 
-[PageSavingArgs](/cells/python-net/aspose.cells.rendering/pagesavingargs)
+**Inheritance:** [`PageEndSavingArgs`](/cells/python-net/aspose.cells.rendering/pageendsavingargs) → 
+[`PageSavingArgs`](/cells/python-net/aspose.cells.rendering/pagesavingargs)
 
 
 
@@ -31,6 +31,6 @@ The PageEndSavingArgs type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.rendering](..)
-* class [PageEndSavingArgs](/cells/python-net/aspose.cells.rendering/pageendsavingargs)
-* class [PageSavingArgs](/cells/python-net/aspose.cells.rendering/pagesavingargs)
+* module [`aspose.cells.rendering`](..)
+* class [`PageEndSavingArgs`](/cells/python-net/aspose.cells.rendering/pageendsavingargs)
+* class [`PageSavingArgs`](/cells/python-net/aspose.cells.rendering/pagesavingargs)

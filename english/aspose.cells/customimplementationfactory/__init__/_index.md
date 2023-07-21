@@ -8,7 +8,7 @@ url: /aspose.cells/customimplementationfactory/__init__/
 is_root: false
 ---
 
-## CustomImplementationFactory() {#}
+## __init__ {#}
 
 Constructs a new instance of CustomImplementationFactory
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CustomImplementationFactory](/cells/python-net/aspose.cells/customimplementationfactory)
+* module [`aspose.cells`](../../)
+* class [`CustomImplementationFactory`](/cells/python-net/aspose.cells/customimplementationfactory)

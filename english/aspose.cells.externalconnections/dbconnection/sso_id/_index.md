@@ -24,5 +24,5 @@ def sso_id(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [DBConnection](/cells/python-net/aspose.cells.externalconnections/dbconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`DBConnection`](/cells/python-net/aspose.cells.externalconnections/dbconnection)

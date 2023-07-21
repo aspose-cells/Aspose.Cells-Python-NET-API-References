@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdataprovider/next_cell/
 is_root: false
 ---
 
-## next_cell() {#}
+## next_cell {#}
 
 Gets next cell to be saved.
 
@@ -31,5 +31,5 @@ It will be called at the beginning of saving one cell.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LightCellsDataProvider](/cells/python-net/aspose.cells/lightcellsdataprovider)
+* module [`aspose.cells`](../../)
+* class [`LightCellsDataProvider`](/cells/python-net/aspose.cells/lightcellsdataprovider)

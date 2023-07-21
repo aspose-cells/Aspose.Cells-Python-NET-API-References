@@ -23,5 +23,5 @@ def in_cell_drop_down(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Validation](/cells/python-net/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* class [`Validation`](/cells/python-net/aspose.cells/validation)

@@ -3,12 +3,12 @@ title: is_same_setting method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells.drawing/oval/is_same_setting/
 is_root: false
 ---
 
-## is_same_setting(obj) {#any}
+## is_same_setting {#any}
 
 Returns whether the shape is same.
 
@@ -42,5 +42,5 @@ if shape.is_same_setting(shape):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Oval](/cells/python-net/aspose.cells.drawing/oval)
+* module [`aspose.cells.drawing`](../../)
+* class [`Oval`](/cells/python-net/aspose.cells.drawing/oval)

@@ -8,7 +8,7 @@ url: /aspose.cells/commentcollection/remove_at/
 is_root: false
 ---
 
-## remove_at(cell_name) {#str}
+## remove_at {#str}
 
 Removes the comment of the specific cell.
 
@@ -34,7 +34,7 @@ comments.remove_at("B2")
 ```
 
 
-## remove_at(row, column) {#int-int}
+## remove_at {#int-int}
 
 Removes the comment of the specific cell.
 
@@ -63,5 +63,5 @@ comments.remove_at(1, 1)
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CommentCollection](/cells/python-net/aspose.cells/commentcollection)
+* module [`aspose.cells`](../../)
+* class [`CommentCollection`](/cells/python-net/aspose.cells/commentcollection)

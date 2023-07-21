@@ -22,5 +22,5 @@ def sheets_in_loading_order(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LoadFilter](/cells/python-net/aspose.cells/loadfilter)
+* module [`aspose.cells`](../../)
+* class [`LoadFilter`](/cells/python-net/aspose.cells/loadfilter)

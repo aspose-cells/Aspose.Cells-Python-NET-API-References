@@ -8,7 +8,7 @@ url: /aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
 
-## CustomFilterCollection() {#}
+## __init__ {#}
 
 Constructs a new instance of CustomFilterCollection
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CustomFilterCollection](/cells/python-net/aspose.cells/customfiltercollection)
+* module [`aspose.cells`](../../)
+* class [`CustomFilterCollection`](/cells/python-net/aspose.cells/customfiltercollection)

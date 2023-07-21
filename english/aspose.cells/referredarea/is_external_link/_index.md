@@ -20,5 +20,5 @@ def is_external_link(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ReferredArea](/cells/python-net/aspose.cells/referredarea)
+* module [`aspose.cells`](../../)
+* class [`ReferredArea`](/cells/python-net/aspose.cells/referredarea)

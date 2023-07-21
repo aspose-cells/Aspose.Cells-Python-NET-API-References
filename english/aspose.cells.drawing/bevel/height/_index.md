@@ -24,5 +24,5 @@ def height(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Bevel](/cells/python-net/aspose.cells.drawing/bevel)
+* module [`aspose.cells.drawing`](../../)
+* class [`Bevel`](/cells/python-net/aspose.cells.drawing/bevel)

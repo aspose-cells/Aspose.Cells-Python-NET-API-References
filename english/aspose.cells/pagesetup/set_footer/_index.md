@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/set_footer/
 is_root: false
 ---
 
-## set_footer(section, footer_script) {#int-str}
+## set_footer {#int-str}
 
 Sets a script formatting the footer of an Excel file.
 
@@ -47,5 +47,5 @@ For example: "&Arial,Bold&8Footer Note"
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)

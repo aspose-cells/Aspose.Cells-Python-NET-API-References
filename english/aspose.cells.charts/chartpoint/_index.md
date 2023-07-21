@@ -21,15 +21,15 @@ The ChartPoint type exposes the following members:
 | :- | :- |
 | [explosion](/cells/python-net/aspose.cells.charts/chartpoint/explosion) | The distance of an open pie slice from the center of the pie chart is expressed as a percentage of the pie diameter. |
 | [shadow](/cells/python-net/aspose.cells.charts/chartpoint/shadow) | True if the chartpoint has a shadow. |
-| [border](/cells/python-net/aspose.cells.charts/chartpoint/border) | Gets the [Line](/cells/python-net/aspose.cells.drawing/line). |
-| [area](/cells/python-net/aspose.cells.charts/chartpoint/area) | Gets the [ChartPoint.area](/cells/python-net/aspose.cells.charts/chartpoint#area). |
-| [marker](/cells/python-net/aspose.cells.charts/chartpoint/marker) | Gets the [ChartPoint.marker](/cells/python-net/aspose.cells.charts/chartpoint#marker). |
+| [border](/cells/python-net/aspose.cells.charts/chartpoint/border) | Gets the [`Line`](/cells/python-net/aspose.cells.drawing/line). |
+| [area](/cells/python-net/aspose.cells.charts/chartpoint/area) | Gets the [`ChartPoint.area`](/cells/python-net/aspose.cells.charts/chartpoint#area). |
+| [marker](/cells/python-net/aspose.cells.charts/chartpoint/marker) | Gets the [`ChartPoint.marker`](/cells/python-net/aspose.cells.charts/chartpoint#marker). |
 | [data_labels](/cells/python-net/aspose.cells.charts/chartpoint/data_labels) | Returns a DataLabels object that represents the data label associated with the point. |
 | [y_value](/cells/python-net/aspose.cells.charts/chartpoint/y_value) | Gets or sets the Y value of the chart point. |
 | [y_value_type](/cells/python-net/aspose.cells.charts/chartpoint/y_value_type) | Gets Y value type of the chart point. |
 | [x_value](/cells/python-net/aspose.cells.charts/chartpoint/x_value) | Gets or sets the X value of the chart point. |
 | [x_value_type](/cells/python-net/aspose.cells.charts/chartpoint/x_value_type) | Gets X value type of the chart point. |
-| [shape_properties](/cells/python-net/aspose.cells.charts/chartpoint/shape_properties) | Gets the [ShapePropertyCollection](/cells/python-net/aspose.cells.drawing/shapepropertycollection) object that holds the visual shape properties of the ChartPoint. |
+| [shape_properties](/cells/python-net/aspose.cells.charts/chartpoint/shape_properties) | Gets the [`ShapePropertyCollection`](/cells/python-net/aspose.cells.drawing/shapepropertycollection) object that holds the visual shape properties of the ChartPoint. |
 | [is_in_secondary_plot](/cells/python-net/aspose.cells.charts/chartpoint/is_in_secondary_plot) | Gets or sets a value indicates whether this data points is in the second pie or bar<br/>on a pie of pie or bar of pie chart |
 | [shape_x](/cells/python-net/aspose.cells.charts/chartpoint/shape_x) | Gets the x coordinate of the upper left corner in units of 1/4000 of chart's width after calls Chart.Calculate() method. |
 | [shape_y](/cells/python-net/aspose.cells.charts/chartpoint/shape_y) | Gets the y coordinate of the upper left corner in units of 1/4000 of chart's height after calls Chart.Calculate() method. |
@@ -57,15 +57,15 @@ The ChartPoint type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_top_point_count()](/cells/python-net/aspose.cells.charts/chartpoint/get_top_point_count/#) | Gets the number of top points after calls Chart.Calculate() method. |
-| [get_top_point_x_px(index)](/cells/python-net/aspose.cells.charts/chartpoint/get_top_point_x_px/#int) | Gets x-coordinate of the top point of shape after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid and Area3D |
-| [get_top_point_y_px(index)](/cells/python-net/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | Gets y-coordinate of the top point of shape after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid and Area3D |
-| [get_bottom_point_count()](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_count/#) | Gets the number of bottom points  after calls Chart.Calculate() method. |
-| [get_bottom_point_x_px(index)](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | Gets x-coordinate of the bottom point of shape after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid |
-| [get_bottom_point_y_px(index)](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | Gets y-coordinate of the bottom point of shape  after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid |
-| [get_on_category_axis_point_count()](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) | Gets the number of the points on category axis after calls Chart.Calculate() method. Only applies to area chart. |
-| [get_on_category_axis_point_x_px(index)](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | Gets x-coordinate of the point on category axis after calls Chart.Calculate() method. Only applies to Area chart. |
-| [get_on_category_axis_point_y_px(index)](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | Gets y-coordinate of the point on category axis after calls Chart.Calculate() method. Only applies to Area chart. |
+| [get_top_point_count](/cells/python-net/aspose.cells.charts/chartpoint/get_top_point_count/#) | Gets the number of top points after calls Chart.Calculate() method. |
+| [get_top_point_x_px](/cells/python-net/aspose.cells.charts/chartpoint/get_top_point_x_px/#int) | Gets x-coordinate of the top point of shape after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid and Area3D |
+| [get_top_point_y_px](/cells/python-net/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | Gets y-coordinate of the top point of shape after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid and Area3D |
+| [get_bottom_point_count](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_count/#) | Gets the number of bottom points  after calls Chart.Calculate() method. |
+| [get_bottom_point_x_px](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | Gets x-coordinate of the bottom point of shape after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid |
+| [get_bottom_point_y_px](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | Gets y-coordinate of the bottom point of shape  after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid |
+| [get_on_category_axis_point_count](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) | Gets the number of the points on category axis after calls Chart.Calculate() method. Only applies to area chart. |
+| [get_on_category_axis_point_x_px](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | Gets x-coordinate of the point on category axis after calls Chart.Calculate() method. Only applies to Area chart. |
+| [get_on_category_axis_point_y_px](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | Gets y-coordinate of the point on category axis after calls Chart.Calculate() method. Only applies to Area chart. |
 
 
 
@@ -114,6 +114,6 @@ workbook.save("book1.xls")
 ```
 
 ### See Also
-* module [aspose.cells.charts](..)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
-* class [ShapePropertyCollection](/cells/python-net/aspose.cells.drawing/shapepropertycollection)
+* module [`aspose.cells.charts`](..)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)
+* class [`ShapePropertyCollection`](/cells/python-net/aspose.cells.drawing/shapepropertycollection)

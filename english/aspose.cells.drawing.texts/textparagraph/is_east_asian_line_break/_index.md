@@ -23,5 +23,5 @@ def is_east_asian_line_break(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [TextParagraph](/cells/python-net/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textparagraph)

@@ -34,6 +34,6 @@ def text_vertical_overflow(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [DialogBox](/cells/python-net/aspose.cells.drawing/dialogbox)
-* class [TextOverflowType](/cells/python-net/aspose.cells.drawing/textoverflowtype)
+* module [`aspose.cells.drawing`](../../)
+* class [`DialogBox`](/cells/python-net/aspose.cells.drawing/dialogbox)
+* class [`TextOverflowType`](/cells/python-net/aspose.cells.drawing/textoverflowtype)

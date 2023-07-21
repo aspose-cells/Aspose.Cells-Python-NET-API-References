@@ -3,7 +3,7 @@ title: NameScopeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2250
+weight: 2300
 url: /aspose.cells/namescopetype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The NameScopeType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

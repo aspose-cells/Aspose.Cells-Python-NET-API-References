@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/save/
 is_root: false
 ---
 
-## save(file_name) {#str}
+## save {#str}
 
 Save the workbook to the disk.
 
@@ -25,7 +25,7 @@ def save(self, file_name):
 | file_name | str |  |
 
 
-## save(file_name, save_format) {#str-SaveFormat}
+## save {#str-aspose.cells.SaveFormat}
 
 Saves the workbook to the disk.
 
@@ -40,10 +40,10 @@ def save(self, file_name, save_format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | The file name. |
-| save_format | [SaveFormat](/cells/python-net/aspose.cells/saveformat) | The save format type. |
+| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The save format type. |
 
 
-## save(file_name, save_options) {#str-SaveOptions}
+## save {#str-aspose.cells.SaveOptions}
 
 Saves the workbook to the disk.
 
@@ -58,10 +58,10 @@ def save(self, file_name, save_options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | The file name. |
-| save_options | [SaveOptions](/cells/python-net/aspose.cells/saveoptions) | The save options. |
+| save_options | [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions) | The save options. |
 
 
-## save(stream, save_format) {#io.RawIOBase-SaveFormat}
+## save {#io.RawIOBase-aspose.cells.SaveFormat}
 
 Saves the workbook to the stream.
 
@@ -76,10 +76,10 @@ def save(self, stream, save_format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The file stream. |
-| save_format | [SaveFormat](/cells/python-net/aspose.cells/saveformat) | The save file format type. |
+| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The save file format type. |
 
 
-## save(stream, save_options) {#io.RawIOBase-SaveOptions}
+## save {#io.RawIOBase-aspose.cells.SaveOptions}
 
 Saves the workbook to the stream.
 
@@ -94,10 +94,10 @@ def save(self, stream, save_options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The file stream. |
-| save_options | [SaveOptions](/cells/python-net/aspose.cells/saveoptions) | The save options. |
+| save_options | [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions) | The save options. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

@@ -3,7 +3,7 @@ title: worksheet property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 670
 url: /aspose.cells.charts/chart/worksheet/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def worksheet(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

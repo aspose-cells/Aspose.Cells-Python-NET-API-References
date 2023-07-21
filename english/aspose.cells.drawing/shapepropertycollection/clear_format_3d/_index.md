@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapepropertycollection/clear_format_3d/
 is_root: false
 ---
 
-## clear_format_3d() {#}
+## clear_format_3d {#}
 
 Clears the 3D shape properties of the shape.
 
@@ -24,5 +24,5 @@ def clear_format_3d(self):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePropertyCollection](/cells/python-net/aspose.cells.drawing/shapepropertycollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePropertyCollection`](/cells/python-net/aspose.cells.drawing/shapepropertycollection)

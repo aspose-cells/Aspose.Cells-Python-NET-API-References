@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagcollection/add/
 is_root: false
 ---
 
-## add(uri, name) {#str-str}
+## add {#str-str}
 
 Adds a smart tag.
 
@@ -33,5 +33,5 @@ def add(self, uri, name):
 
 
 ### See Also
-* module [aspose.cells.markup](../../)
-* class [SmartTagCollection](/cells/python-net/aspose.cells.markup/smarttagcollection)
+* module [`aspose.cells.markup`](../../)
+* class [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection)

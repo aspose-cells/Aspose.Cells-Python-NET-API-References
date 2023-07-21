@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_table/
 is_root: false
 ---
 
-## get_table() {#}
+## get_table {#}
 
 Gets the table which contains this cell.
 
@@ -29,6 +29,6 @@ def get_table(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
-* class [ListObject](/cells/python-net/aspose.cells.tables/listobject)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`ListObject`](/cells/python-net/aspose.cells.tables/listobject)

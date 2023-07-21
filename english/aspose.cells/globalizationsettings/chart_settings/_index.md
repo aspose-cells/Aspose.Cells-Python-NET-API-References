@@ -23,6 +23,6 @@ def chart_settings(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ChartGlobalizationSettings](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)
-* class [GlobalizationSettings](/cells/python-net/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* class [`ChartGlobalizationSettings`](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)
+* class [`GlobalizationSettings`](/cells/python-net/aspose.cells/globalizationsettings)

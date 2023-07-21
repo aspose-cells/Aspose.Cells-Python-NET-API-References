@@ -3,7 +3,7 @@ title: bottom property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 310
 url: /aspose.cells.drawing/textbox/bottom/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def bottom(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

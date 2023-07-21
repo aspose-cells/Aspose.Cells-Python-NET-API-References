@@ -8,7 +8,7 @@ url: /aspose.cells.rendering.pdfsecurity/pdfsecurityoptions/__init__/
 is_root: false
 ---
 
-## PdfSecurityOptions() {#}
+## __init__ {#}
 
 The constructor of PdfSecurityOptions
 
@@ -50,5 +50,5 @@ wb.save("output.pdf", pdfSaveOptions)
 
 
 ### See Also
-* module [aspose.cells.rendering.pdfsecurity](../../)
-* class [PdfSecurityOptions](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* module [`aspose.cells.rendering.pdfsecurity`](../../)
+* class [`PdfSecurityOptions`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

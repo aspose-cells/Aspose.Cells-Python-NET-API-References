@@ -3,12 +3,12 @@ title: get_input_range method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /aspose.cells.drawing/checkbox/get_input_range/
 is_root: false
 ---
 
-## get_input_range(is_r1c1, is_local) {#bool-bool}
+## get_input_range {#bool-bool}
 
 Gets the range used to fill the control.
 
@@ -42,5 +42,5 @@ range = shape.get_input_range(False, True)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CheckBox](/cells/python-net/aspose.cells.drawing/checkbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox)

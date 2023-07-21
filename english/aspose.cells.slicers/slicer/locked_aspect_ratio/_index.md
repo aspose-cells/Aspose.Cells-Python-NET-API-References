@@ -32,5 +32,5 @@ def locked_aspect_ratio(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [Slicer](/cells/python-net/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* class [`Slicer`](/cells/python-net/aspose.cells.slicers/slicer)

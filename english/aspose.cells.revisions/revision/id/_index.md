@@ -25,5 +25,5 @@ def id(self):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
+* module [`aspose.cells.revisions`](../../)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)

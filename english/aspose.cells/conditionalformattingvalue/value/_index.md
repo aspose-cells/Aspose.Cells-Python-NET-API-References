@@ -30,5 +30,5 @@ def value(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ConditionalFormattingValue](/cells/python-net/aspose.cells/conditionalformattingvalue)
+* module [`aspose.cells`](../../)
+* class [`ConditionalFormattingValue`](/cells/python-net/aspose.cells/conditionalformattingvalue)

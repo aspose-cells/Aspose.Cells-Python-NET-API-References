@@ -10,7 +10,7 @@ is_root: false
 
 ## ColumnCollection class
 
-Collection of the [Column](/cells/python-net/aspose.cells/column) objects that represent the individual column(setting)s in a worksheet.
+Collection of the [`Column`](/cells/python-net/aspose.cells/column) objects that represent the individual column(setting)s in a worksheet.
 The Column object only represents the settings such as column width, styles, .etc. for the whole column,
 has nothing to do with the fact that there are non-empty cells(data) or not in corresponding column.
 And the "Count" of this collection only represents the count Column objects that have been instantiated in this collection,
@@ -29,16 +29,16 @@ The ColumnCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [copy_to(array)](/cells/python-net/aspose.cells/columncollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
-| [copy_to(index, array, array_index, count)](/cells/python-net/aspose.cells/columncollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
-| [index_of(item, index)](/cells/python-net/aspose.cells/columncollection/index_of/#Column-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |
-| [index_of(item, index, count)](/cells/python-net/aspose.cells/columncollection/index_of/#Column-int-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements. |
-| [last_index_of(item)](/cells/python-net/aspose.cells/columncollection/last_index_of/#Column) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
-| [last_index_of(item, index)](/cells/python-net/aspose.cells/columncollection/last_index_of/#Column-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
-| [last_index_of(item, index, count)](/cells/python-net/aspose.cells/columncollection/last_index_of/#Column-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [get_by_index(index)](/cells/python-net/aspose.cells/columncollection/get_by_index/#int) | Gets the column object by the index. |
-| [get_column_by_index(index)](/cells/python-net/aspose.cells/columncollection/get_column_by_index/#int) | Gets the [Column](/cells/python-net/aspose.cells/column) object by the position in the list. |
-| [binary_search(item)](/cells/python-net/aspose.cells/columncollection/binary_search/#Column) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
+| [copy_to](/cells/python-net/aspose.cells/columncollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
+| [copy_to](/cells/python-net/aspose.cells/columncollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
+| [index_of](/cells/python-net/aspose.cells/columncollection/index_of/#aspose.cells.Column-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |
+| [index_of](/cells/python-net/aspose.cells/columncollection/index_of/#aspose.cells.Column-int-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements. |
+| [last_index_of](/cells/python-net/aspose.cells/columncollection/last_index_of/#aspose.cells.Column) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
+| [last_index_of](/cells/python-net/aspose.cells/columncollection/last_index_of/#aspose.cells.Column-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
+| [last_index_of](/cells/python-net/aspose.cells/columncollection/last_index_of/#aspose.cells.Column-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [get_by_index](/cells/python-net/aspose.cells/columncollection/get_by_index/#int) | Gets the column object by the index. |
+| [get_column_by_index](/cells/python-net/aspose.cells/columncollection/get_column_by_index/#int) | Gets the [`Column`](/cells/python-net/aspose.cells/column) object by the position in the list. |
+| [binary_search](/cells/python-net/aspose.cells/columncollection/binary_search/#aspose.cells.Column) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 
 
@@ -65,7 +65,7 @@ styleFlag = StyleFlag()
 styleFlag.all = True
 # Change the default width of first ten columns
 for i in range(10):
-    worksheet.cells.columns[i].width = 20
+    worksheet.cells.columns[i].width = 20.0
 # Get the Column with non default formatting
 columns = worksheet.cells.columns
 for column in columns:
@@ -77,5 +77,5 @@ workbook.save("book1.xls")
 ```
 
 ### See Also
-* module [aspose.cells](..)
-* class [Column](/cells/python-net/aspose.cells/column)
+* module [`aspose.cells`](..)
+* class [`Column`](/cells/python-net/aspose.cells/column)

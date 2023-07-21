@@ -21,6 +21,6 @@ def min_cfvo(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ColorScale](/cells/python-net/aspose.cells/colorscale)
-* class [ConditionalFormattingValue](/cells/python-net/aspose.cells/conditionalformattingvalue)
+* module [`aspose.cells`](../../)
+* class [`ColorScale`](/cells/python-net/aspose.cells/colorscale)
+* class [`ConditionalFormattingValue`](/cells/python-net/aspose.cells/conditionalformattingvalue)

@@ -25,6 +25,6 @@ def max_display_range(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)
+* class [`Range`](/cells/python-net/aspose.cells/range)

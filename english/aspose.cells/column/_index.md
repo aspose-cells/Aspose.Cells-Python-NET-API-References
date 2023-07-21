@@ -31,9 +31,9 @@ The Column type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [apply_style(style, flag)](/cells/python-net/aspose.cells/column/apply_style/#Style-StyleFlag) | Applies formats for a whole column. |
-| [get_style()](/cells/python-net/aspose.cells/column/get_style/#) | Gets the style of this column. |
-| [set_style(style)](/cells/python-net/aspose.cells/column/set_style/#Style) | Sets the style of this column. |
+| [apply_style](/cells/python-net/aspose.cells/column/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Applies formats for a whole column. |
+| [get_style](/cells/python-net/aspose.cells/column/get_style/#) | Gets the style of this column. |
+| [set_style](/cells/python-net/aspose.cells/column/set_style/#aspose.cells.Style) | Sets the style of this column. |
 
 
 
@@ -69,4 +69,4 @@ workbook.save("book1.xls")
 ```
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

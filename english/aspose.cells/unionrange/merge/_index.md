@@ -8,7 +8,7 @@ url: /aspose.cells/unionrange/merge/
 is_root: false
 ---
 
-## merge() {#}
+## merge {#}
 
 Combines a range of cells into a single cell.
 
@@ -26,5 +26,5 @@ Reference the merged cell via the address of the upper-left cell in the range.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [UnionRange](/cells/python-net/aspose.cells/unionrange)
+* module [`aspose.cells`](../../)
+* class [`UnionRange`](/cells/python-net/aspose.cells/unionrange)

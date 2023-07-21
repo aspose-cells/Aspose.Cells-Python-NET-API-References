@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/groupbox/characters/
 is_root: false
 ---
 
-## characters(start_index, length) {#int-int}
+## characters {#int-int}
 
 Returns a Characters object that represents a range of characters within the text.
 
@@ -44,5 +44,5 @@ fontSetting = shape.characters(0, 4)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GroupBox](/cells/python-net/aspose.cells.drawing/groupbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`GroupBox`](/cells/python-net/aspose.cells.drawing/groupbox)

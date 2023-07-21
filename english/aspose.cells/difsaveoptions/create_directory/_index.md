@@ -28,5 +28,5 @@ def create_directory(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DifSaveOptions](/cells/python-net/aspose.cells/difsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`DifSaveOptions`](/cells/python-net/aspose.cells/difsaveoptions)

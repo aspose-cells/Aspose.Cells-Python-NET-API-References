@@ -23,5 +23,5 @@ def linked_graphic(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.ods](../../)
-* class [OdsPageBackground](/cells/python-net/aspose.cells.ods/odspagebackground)
+* module [`aspose.cells.ods`](../../)
+* class [`OdsPageBackground`](/cells/python-net/aspose.cells.ods/odspagebackground)

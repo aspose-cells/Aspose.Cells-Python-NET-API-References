@@ -3,12 +3,12 @@ title: is_chart_data_changed method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells.charts/chart/is_chart_data_changed/
 is_root: false
 ---
 
-## is_chart_data_changed() {#}
+## is_chart_data_changed {#}
 
 Detects if a chart's data source has changed.
 
@@ -33,5 +33,5 @@ Before calling the Chart.toImage method again, call IsChartDataChanged method to
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

@@ -3,7 +3,7 @@ title: is_word_art property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 680
 url: /aspose.cells.drawing/radiobutton/is_word_art/
 is_root: false
 ---
@@ -35,5 +35,5 @@ def is_word_art(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

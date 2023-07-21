@@ -3,7 +3,7 @@ title: warning_callback property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /aspose.cells.rendering/imageorprintoptions/warning_callback/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def warning_callback(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [IWarningCallback](/cells/python-net/aspose.cells/iwarningcallback)
-* class [ImageOrPrintOptions](/cells/python-net/aspose.cells.rendering/imageorprintoptions)
+* module [`aspose.cells.rendering`](../../)
+* class [`IWarningCallback`](/cells/python-net/aspose.cells/iwarningcallback)
+* class [`ImageOrPrintOptions`](/cells/python-net/aspose.cells.rendering/imageorprintoptions)

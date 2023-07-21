@@ -25,6 +25,6 @@ def export_area(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)

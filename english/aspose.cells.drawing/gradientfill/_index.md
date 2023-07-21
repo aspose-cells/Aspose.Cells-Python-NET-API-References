@@ -14,8 +14,8 @@ Represents the gradient fill.
 
 
 
-**Inheritance:** [GradientFill](/cells/python-net/aspose.cells.drawing/gradientfill) → 
-[Fill](/cells/python-net/aspose.cells.drawing/fill)
+**Inheritance:** [`GradientFill`](/cells/python-net/aspose.cells.drawing/gradientfill) → 
+[`Fill`](/cells/python-net/aspose.cells.drawing/fill)
 
 
 
@@ -33,15 +33,15 @@ The GradientFill type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_two_color_gradient(color1, color2, style, variant)](/cells/python-net/aspose.cells.drawing/gradientfill/set_two_color_gradient/#aspose.pydrawing.Color-aspose.pydrawing.Color-GradientStyleType-int) | Sets the specified fill to a two-color gradient.<br/>Only applies for Excel 2007. |
-| [set_two_color_gradient(color1, transparency1, color2, transparency2, style, variant)](/cells/python-net/aspose.cells.drawing/gradientfill/set_two_color_gradient/#aspose.pydrawing.Color-float-aspose.pydrawing.Color-float-GradientStyleType-int) | Sets the specified fill to a two-color gradient.<br/>Only applies for Excel 2007. |
-| [set_gradient(type, angle, direction)](/cells/python-net/aspose.cells.drawing/gradientfill/set_gradient/#GradientFillType-float-GradientDirectionType) | Set the gradient fill type and direction. |
-| [set_preset_theme_gradient(gradient_type, theme_color_type)](/cells/python-net/aspose.cells.drawing/gradientfill/set_preset_theme_gradient/#PresetThemeGradientType-ThemeColorType) | Sets preset theme gradient fill. |
-| [set_one_color_gradient(color, degree, style, variant)](/cells/python-net/aspose.cells.drawing/gradientfill/set_one_color_gradient/#aspose.pydrawing.Color-float-GradientStyleType-int) | Sets the specified fill to a one-color gradient.<br/>Only applies for Excel 2007. |
+| [set_two_color_gradient](/cells/python-net/aspose.cells.drawing/gradientfill/set_two_color_gradient/#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int) | Sets the specified fill to a two-color gradient.<br/>Only applies for Excel 2007. |
+| [set_two_color_gradient](/cells/python-net/aspose.cells.drawing/gradientfill/set_two_color_gradient/#aspose.pydrawing.Color-float-aspose.pydrawing.Color-float-aspose.cells.drawing.GradientStyleType-int) | Sets the specified fill to a two-color gradient.<br/>Only applies for Excel 2007. |
+| [set_gradient](/cells/python-net/aspose.cells.drawing/gradientfill/set_gradient/#aspose.cells.drawing.GradientFillType-float-aspose.cells.drawing.GradientDirectionType) | Set the gradient fill type and direction. |
+| [set_preset_theme_gradient](/cells/python-net/aspose.cells.drawing/gradientfill/set_preset_theme_gradient/#aspose.cells.drawing.PresetThemeGradientType-aspose.cells.ThemeColorType) | Sets preset theme gradient fill. |
+| [set_one_color_gradient](/cells/python-net/aspose.cells.drawing/gradientfill/set_one_color_gradient/#aspose.pydrawing.Color-float-aspose.cells.drawing.GradientStyleType-int) | Sets the specified fill to a one-color gradient.<br/>Only applies for Excel 2007. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
-* class [Fill](/cells/python-net/aspose.cells.drawing/fill)
-* class [GradientFill](/cells/python-net/aspose.cells.drawing/gradientfill)
+* module [`aspose.cells.drawing`](..)
+* class [`Fill`](/cells/python-net/aspose.cells.drawing/fill)
+* class [`GradientFill`](/cells/python-net/aspose.cells.drawing/gradientfill)

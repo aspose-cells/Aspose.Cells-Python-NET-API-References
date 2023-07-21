@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/get_used_colors/
 is_root: false
 ---
 
-## get_used_colors(workbook) {#Workbook}
+## get_used_colors {#aspose.cells.Workbook}
 
 Gets all used colors in the workbook.
 
@@ -27,10 +27,10 @@ def get_used_colors(self, workbook):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| workbook | [Workbook](/cells/python-net/aspose.cells/workbook) | The workbook object. |
+| workbook | [`Workbook`](/cells/python-net/aspose.cells/workbook) | The workbook object. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsHelper](/cells/python-net/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* class [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper)

@@ -20,6 +20,6 @@ def keys(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataSorter](/cells/python-net/aspose.cells/datasorter)
-* class [DataSorterKeyCollection](/cells/python-net/aspose.cells/datasorterkeycollection)
+* module [`aspose.cells`](../../)
+* class [`DataSorter`](/cells/python-net/aspose.cells/datasorter)
+* class [`DataSorterKeyCollection`](/cells/python-net/aspose.cells/datasorterkeycollection)

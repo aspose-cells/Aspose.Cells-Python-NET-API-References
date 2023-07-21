@@ -19,8 +19,8 @@ The Marker type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [border](/cells/python-net/aspose.cells.charts/marker/border) | Gets the [Line](/cells/python-net/aspose.cells.drawing/line). |
-| [area](/cells/python-net/aspose.cells.charts/marker/area) | Gets the [Marker.area](/cells/python-net/aspose.cells.charts/marker#area). |
+| [border](/cells/python-net/aspose.cells.charts/marker/border) | Gets the [`Line`](/cells/python-net/aspose.cells.drawing/line). |
+| [area](/cells/python-net/aspose.cells.charts/marker/area) | Gets the [`Marker.area`](/cells/python-net/aspose.cells.charts/marker#area). |
 | [marker_style](/cells/python-net/aspose.cells.charts/marker/marker_style) | Represents the marker style. Applies to line chart, scatter chart, or radar chart. |
 | [marker_size](/cells/python-net/aspose.cells.charts/marker/marker_size) | Represents the marker size in unit of points. Applies to line chart, scatter chart, or radar chart. |
 | [marker_size_px](/cells/python-net/aspose.cells.charts/marker/marker_size_px) | Represents the marker size in unit of pixels. Applies to line chart, scatter chart, or radar chart. |
@@ -32,5 +32,5 @@ The Marker type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.charts](..)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
+* module [`aspose.cells.charts`](..)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)

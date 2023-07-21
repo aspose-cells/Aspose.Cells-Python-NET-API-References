@@ -3,7 +3,7 @@ title: PivotFormatCondition class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 80
 url: /aspose.cells.pivot/pivotformatcondition/
 is_root: false
 ---
@@ -27,13 +27,13 @@ The PivotFormatCondition type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_data_area_condition(field_name)](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) | Adds PivotTable conditional format limit in the data fields. |
-| [add_data_area_condition(data_field)](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#PivotField) | Adds PivotTable conditional format limit in the data fields. |
-| [add_row_area_condition(field_name)](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) | Adds PivotTable conditional format limit in the row fields. |
-| [add_row_area_condition(row_field)](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#PivotField) | Adds PivotTable conditional format limit in the row fields. |
-| [add_column_area_condition(field_name)](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) | Adds PivotTable conditional format limit in the column fields. |
-| [add_column_area_condition(column_field)](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#PivotField) | Adds PivotTable conditional format limit in the column fields. |
-| [set_conditional_areas()](/cells/python-net/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) | Sets conditional areas of PivotFormatCondition object. |
+| [add_data_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) | Adds PivotTable conditional format limit in the data fields. |
+| [add_data_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#aspose.cells.pivot.PivotField) | Adds PivotTable conditional format limit in the data fields. |
+| [add_row_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) | Adds PivotTable conditional format limit in the row fields. |
+| [add_row_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#aspose.cells.pivot.PivotField) | Adds PivotTable conditional format limit in the row fields. |
+| [add_column_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) | Adds PivotTable conditional format limit in the column fields. |
+| [add_column_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#aspose.cells.pivot.PivotField) | Adds PivotTable conditional format limit in the column fields. |
+| [set_conditional_areas](/cells/python-net/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) | Sets conditional areas of PivotFormatCondition object. |
 
 
 
@@ -100,4 +100,4 @@ book.save("out.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

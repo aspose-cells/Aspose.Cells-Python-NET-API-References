@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_button/
 is_root: false
 ---
 
-## add_button(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+## add_button {#int-int-int-int-int-int}
 
 Adds a Button to the worksheet.
 
@@ -47,5 +47,5 @@ button = shapes.add_button(1, 0, 1, 0, 100, 50)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

@@ -23,6 +23,6 @@ def match_entry(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [ControlMatchEntryType](/cells/python-net/aspose.cells.drawing.activexcontrols/controlmatchentrytype)
-* class [ListBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`ControlMatchEntryType`](/cells/python-net/aspose.cells.drawing.activexcontrols/controlmatchentrytype)
+* class [`ListBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/set_row_height_pixel/
 is_root: false
 ---
 
-## set_row_height_pixel(row, pixels) {#int-int}
+## set_row_height_pixel {#int-int}
 
 Sets row height in unit of pixels.
 
@@ -28,5 +28,5 @@ def set_row_height_pixel(self, row, pixels):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

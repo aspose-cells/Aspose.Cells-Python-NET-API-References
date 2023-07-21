@@ -20,6 +20,6 @@ def type(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FontSetting](/cells/python-net/aspose.cells/fontsetting)
-* class [TextNodeType](/cells/python-net/aspose.cells.drawing.texts/textnodetype)
+* module [`aspose.cells`](../../)
+* class [`FontSetting`](/cells/python-net/aspose.cells/fontsetting)
+* class [`TextNodeType`](/cells/python-net/aspose.cells.drawing.texts/textnodetype)

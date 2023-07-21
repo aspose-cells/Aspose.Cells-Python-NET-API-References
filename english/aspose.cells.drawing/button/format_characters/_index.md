@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/button/format_characters/
 is_root: false
 ---
 
-## format_characters(start_index, length, font) {#int-int-Font}
+## format_characters {#int-int-aspose.cells.Font}
 
 Formats some characters with the font setting.
 
@@ -24,7 +24,7 @@ def format_characters(self, start_index, length, font):
 | :- | :- | :- |
 | start_index | int | The start index. |
 | length | int | The length. |
-| font | [Font](/cells/python-net/aspose.cells/font) | The font setting. |
+| font | [`Font`](/cells/python-net/aspose.cells/font) | The font setting. |
 ### Remarks
 
 NOTE: This member is now obsolete. Instead, 
@@ -32,7 +32,7 @@ please use Shape.FormatCharacters(int startIndex, int length, Font font, StyleFl
 This property will be removed 12 months later since March 2016. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## format_characters(start_index, length, font, flag) {#int-int-Font-StyleFlag}
+## format_characters {#int-int-aspose.cells.Font-aspose.cells.StyleFlag}
 
 Formats some characters with the font setting.
 
@@ -48,11 +48,11 @@ def format_characters(self, start_index, length, font, flag):
 | :- | :- | :- |
 | start_index | int | The start index. |
 | length | int | The length. |
-| font | [Font](/cells/python-net/aspose.cells/font) | The font setting. |
-| flag | [StyleFlag](/cells/python-net/aspose.cells/styleflag) | The flag of the font setting. |
+| font | [`Font`](/cells/python-net/aspose.cells/font) | The font setting. |
+| flag | [`StyleFlag`](/cells/python-net/aspose.cells/styleflag) | The flag of the font setting. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Button](/cells/python-net/aspose.cells.drawing/button)
+* module [`aspose.cells.drawing`](../../)
+* class [`Button`](/cells/python-net/aspose.cells.drawing/button)

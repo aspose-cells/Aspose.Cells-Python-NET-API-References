@@ -3,12 +3,12 @@ title: get_result_of_smart_art method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.drawing/spinner/get_result_of_smart_art/
 is_root: false
 ---
 
-## get_result_of_smart_art() {#}
+## get_result_of_smart_art {#}
 
 Converting smart art to grouped shapes.
 
@@ -33,5 +33,5 @@ groupShape = shape.get_result_of_smart_art()
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Spinner](/cells/python-net/aspose.cells.drawing/spinner)
+* module [`aspose.cells.drawing`](../../)
+* class [`Spinner`](/cells/python-net/aspose.cells.drawing/spinner)

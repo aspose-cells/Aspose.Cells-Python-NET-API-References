@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_precedents_in_calculation/
 is_root: false
 ---
 
-## get_precedents_in_calculation() {#}
+## get_precedents_in_calculation {#}
 
 Gets all precedents(reference to cells in current workbook) used by this cell's formula while calculating it.
 
@@ -27,7 +27,7 @@ def get_precedents_in_calculation(self):
 
 ### Remarks
 
-This method can only work with the situation that [FormulaSettings.enable_calculation_chain](/cells/python-net/aspose.cells/formulasettings#enable_calculation_chain)
+This method can only work with the situation that [`FormulaSettings.enable_calculation_chain`](/cells/python-net/aspose.cells/formulasettings#enable_calculation_chain)
 is true for the workbook and the workbook has been fully calculated.
 If this cell is not a formula or it does not reference to any other cells, null will be returned.
 ### Example 
@@ -51,5 +51,5 @@ for r in en:
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

@@ -22,5 +22,5 @@ def current_page(self):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [DrawObject](/cells/python-net/aspose.cells.rendering/drawobject)
+* module [`aspose.cells.rendering`](../../)
+* class [`DrawObject`](/cells/python-net/aspose.cells.rendering/drawobject)

@@ -8,7 +8,7 @@ url: /aspose.cells/comment/get_characters/
 is_root: false
 ---
 
-## get_characters() {#}
+## get_characters {#}
 
 Returns all Characters objects 
 that represents a range of characters within the comment text.
@@ -39,5 +39,5 @@ list = comment1.get_characters()
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Comment](/cells/python-net/aspose.cells/comment)
+* module [`aspose.cells`](../../)
+* class [`Comment`](/cells/python-net/aspose.cells/comment)

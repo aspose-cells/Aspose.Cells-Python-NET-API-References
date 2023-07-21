@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get_view_row_height_inch/
 is_root: false
 ---
 
-## get_view_row_height_inch(row) {#int}
+## get_view_row_height_inch {#int}
 
 Gets the height of a specified row in unit of inches.
 
@@ -32,5 +32,5 @@ def get_view_row_height_inch(self, row):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

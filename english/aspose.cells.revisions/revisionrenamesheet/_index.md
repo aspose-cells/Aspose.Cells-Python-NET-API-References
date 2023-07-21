@@ -3,7 +3,7 @@ title: RevisionRenameSheet class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells.revisions/revisionrenamesheet/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents a revision of renaming sheet.
 
 
 
-**Inheritance:** [RevisionRenameSheet](/cells/python-net/aspose.cells.revisions/revisionrenamesheet) → 
-[Revision](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionRenameSheet`](/cells/python-net/aspose.cells.revisions/revisionrenamesheet) → 
+[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 
 
 
@@ -33,6 +33,6 @@ The RevisionRenameSheet type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [RevisionRenameSheet](/cells/python-net/aspose.cells.revisions/revisionrenamesheet)
+* module [`aspose.cells.revisions`](..)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`RevisionRenameSheet`](/cells/python-net/aspose.cells.revisions/revisionrenamesheet)

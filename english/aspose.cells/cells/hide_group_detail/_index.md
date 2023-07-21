@@ -8,7 +8,7 @@ url: /aspose.cells/cells/hide_group_detail/
 is_root: false
 ---
 
-## hide_group_detail(is_vertical, index) {#bool-int}
+## hide_group_detail {#bool-int}
 
 Collapses the grouped rows/columns.
 
@@ -28,5 +28,5 @@ def hide_group_detail(self, is_vertical, index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

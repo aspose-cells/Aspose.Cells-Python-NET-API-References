@@ -24,5 +24,5 @@ def is_exp_image_to_temp_dir(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)

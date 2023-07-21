@@ -30,5 +30,5 @@ def check_workbook_default_font(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions)

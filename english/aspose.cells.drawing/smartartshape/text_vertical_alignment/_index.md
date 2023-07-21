@@ -34,6 +34,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [SmartArtShape](/cells/python-net/aspose.cells.drawing/smartartshape)
-* class [TextAlignmentType](/cells/python-net/aspose.cells/textalignmenttype)
+* module [`aspose.cells.drawing`](../../)
+* class [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape)
+* class [`TextAlignmentType`](/cells/python-net/aspose.cells/textalignmenttype)

@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdatahandler/start_cell/
 is_root: false
 ---
 
-## start_cell(column_index) {#int}
+## start_cell {#int}
 
 Prepares to process a cell.
 
@@ -30,9 +30,9 @@ def start_cell(self, column_index):
 | column_index | int | column index of the cell to be processed |
 ### Remarks
 
-It will be called when reaching an existing cell in current row. Current row is the row of last call of [LightCellsDataHandler.process_row(row)](/cells/python-net/aspose.cells/lightcellsdatahandler/process_row).
+It will be called when reaching an existing cell in current row. Current row is the row of last call of [`LightCellsDataHandler.process_row`](/cells/python-net/aspose.cells/lightcellsdatahandler/process_row).
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LightCellsDataHandler](/cells/python-net/aspose.cells/lightcellsdatahandler)
+* module [`aspose.cells`](../../)
+* class [`LightCellsDataHandler`](/cells/python-net/aspose.cells/lightcellsdatahandler)

@@ -3,7 +3,7 @@ title: input_range property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 520
+weight: 530
 url: /aspose.cells.drawing/radiobutton/input_range/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def input_range(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/set_picture/
 is_root: false
 ---
 
-## set_picture(is_first, is_even, is_header, section, image_data) {#bool-bool-bool-int-bytes}
+## set_picture {#bool-bool-bool-int-bytes}
 
 Sets an image in the header/footer of a worksheet.
 
@@ -16,7 +16,7 @@ Sets an image in the header/footer of a worksheet.
 ### Returns 
 
 
-Returns [Picture](/cells/python-net/aspose.cells.drawing/picture) object.
+Returns [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object.
 
 
 ```python
@@ -36,6 +36,6 @@ def set_picture(self, is_first, is_even, is_header, section, image_data):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)

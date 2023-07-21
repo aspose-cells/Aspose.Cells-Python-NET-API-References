@@ -8,7 +8,7 @@ url: /aspose.cells.saving/sqlscriptsaveoptions/__init__/
 is_root: false
 ---
 
-## SqlScriptSaveOptions() {#}
+## __init__ {#}
 
 Creates options for saving sql file.
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.saving](../../)
-* class [SqlScriptSaveOptions](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](../../)
+* class [`SqlScriptSaveOptions`](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)

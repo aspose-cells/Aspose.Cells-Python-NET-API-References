@@ -8,7 +8,7 @@ url: /aspose.cells.utility/jsonlayoutoptions/__init__/
 is_root: false
 ---
 
-## JsonLayoutOptions() {#}
+## __init__ {#}
 
 Constructs a new instance of JsonLayoutOptions
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.utility](../../)
-* class [JsonLayoutOptions](/cells/python-net/aspose.cells.utility/jsonlayoutoptions)
+* module [`aspose.cells.utility`](../../)
+* class [`JsonLayoutOptions`](/cells/python-net/aspose.cells.utility/jsonlayoutoptions)

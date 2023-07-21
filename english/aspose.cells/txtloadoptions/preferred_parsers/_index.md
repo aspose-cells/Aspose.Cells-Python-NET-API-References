@@ -3,7 +3,7 @@ title: preferred_parsers property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells/txtloadoptions/preferred_parsers/
 is_root: false
 ---
@@ -31,5 +31,5 @@ def preferred_parsers(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [TxtLoadOptions](/cells/python-net/aspose.cells/txtloadoptions)
+* module [`aspose.cells`](../../)
+* class [`TxtLoadOptions`](/cells/python-net/aspose.cells/txtloadoptions)

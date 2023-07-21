@@ -14,8 +14,8 @@ Represents no bullet.
 
 
 
-**Inheritance:** [NoneBulletValue](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue) → 
-[BulletValue](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
+**Inheritance:** [`NoneBulletValue`](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue) → 
+[`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
 
 
 
@@ -24,7 +24,7 @@ The NoneBulletValue type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [NoneBulletValue()](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue/__init__/#) | Constructs a new instance of NoneBulletValue |
+| [__init__](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue/__init__/#) | Constructs a new instance of NoneBulletValue |
 
 
 ### Properties
@@ -35,6 +35,6 @@ The NoneBulletValue type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](..)
-* class [BulletValue](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
-* class [NoneBulletValue](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue)
+* module [`aspose.cells.drawing.texts`](..)
+* class [`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
+* class [`NoneBulletValue`](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue)

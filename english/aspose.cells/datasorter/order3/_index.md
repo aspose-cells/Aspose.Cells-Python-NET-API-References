@@ -23,6 +23,6 @@ def order3(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataSorter](/cells/python-net/aspose.cells/datasorter)
-* class [SortOrder](/cells/python-net/aspose.cells/sortorder)
+* module [`aspose.cells`](../../)
+* class [`DataSorter`](/cells/python-net/aspose.cells/datasorter)
+* class [`SortOrder`](/cells/python-net/aspose.cells/sortorder)

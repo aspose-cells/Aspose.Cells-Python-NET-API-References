@@ -8,7 +8,7 @@ url: /aspose.cells.slicers/slicercollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Slicer}
+## binary_search {#aspose.cells.slicers.Slicer}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Slicer](/cells/python-net/aspose.cells.slicers/slicer) | The System.Object to locate. The value can be null. |
+| item | [`Slicer`](/cells/python-net/aspose.cells.slicers/slicer) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [SlicerCollection](/cells/python-net/aspose.cells.slicers/slicercollection)
+* module [`aspose.cells.slicers`](../../)
+* class [`SlicerCollection`](/cells/python-net/aspose.cells.slicers/slicercollection)

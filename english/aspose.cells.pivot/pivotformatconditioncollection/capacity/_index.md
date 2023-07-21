@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFormatConditionCollection](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFormatConditionCollection`](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection)

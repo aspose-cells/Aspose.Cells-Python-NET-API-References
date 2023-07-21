@@ -8,7 +8,7 @@ url: /aspose.cells/autofilter/show_all/
 is_root: false
 ---
 
-## show_all() {#}
+## show_all {#}
 
 Unhide all rows.
 
@@ -24,5 +24,5 @@ def show_all(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFilter](/cells/python-net/aspose.cells/autofilter)
+* module [`aspose.cells`](../../)
+* class [`AutoFilter`](/cells/python-net/aspose.cells/autofilter)

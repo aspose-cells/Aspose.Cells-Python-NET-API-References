@@ -8,7 +8,7 @@ url: /aspose.cells/namecollection/remove_duplicate_names/
 is_root: false
 ---
 
-## remove_duplicate_names() {#}
+## remove_duplicate_names {#}
 
 Remove the duplicate defined names
 
@@ -24,5 +24,5 @@ def remove_duplicate_names(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [NameCollection](/cells/python-net/aspose.cells/namecollection)
+* module [`aspose.cells`](../../)
+* class [`NameCollection`](/cells/python-net/aspose.cells/namecollection)

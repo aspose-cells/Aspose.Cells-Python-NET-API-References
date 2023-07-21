@@ -8,7 +8,7 @@ url: /aspose.cells/style/set_custom/
 is_root: false
 ---
 
-## set_custom(custom, builtin_preference) {#str-bool}
+## set_custom {#str-bool}
 
 Sets the Custom number format string of a cell.
 
@@ -28,5 +28,5 @@ def set_custom(self, custom, builtin_preference):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)

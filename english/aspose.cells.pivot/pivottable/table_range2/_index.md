@@ -3,7 +3,7 @@ title: table_range2 property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1020
+weight: 1040
 url: /aspose.cells.pivot/pivottable/table_range2/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def table_range2(self):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

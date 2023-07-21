@@ -23,5 +23,5 @@ def both(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CustomFilterCollection](/cells/python-net/aspose.cells/customfiltercollection)
+* module [`aspose.cells`](../../)
+* class [`CustomFilterCollection`](/cells/python-net/aspose.cells/customfiltercollection)

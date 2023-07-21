@@ -3,7 +3,7 @@ title: JsonSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 970
+weight: 990
 url: /aspose.cells/jsonsaveoptions/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents the options of saving the workbook as a json file.
 
 
 
-**Inheritance:** [JsonSaveOptions](/cells/python-net/aspose.cells/jsonsaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -24,7 +24,7 @@ The JsonSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [JsonSaveOptions()](/cells/python-net/aspose.cells/jsonsaveoptions/__init__/#) | Creates options for saving json file. |
+| [__init__](/cells/python-net/aspose.cells/jsonsaveoptions/__init__/#) | Creates options for saving json file. |
 
 
 ### Properties
@@ -55,6 +55,6 @@ The JsonSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [JsonSaveOptions](/cells/python-net/aspose.cells/jsonsaveoptions)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+* module [`aspose.cells`](..)
+* class [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)

@@ -3,7 +3,7 @@ title: DynamicFilterType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1980
+weight: 2030
 url: /aspose.cells/dynamicfiltertype/
 is_root: false
 ---
@@ -58,4 +58,4 @@ The DynamicFilterType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

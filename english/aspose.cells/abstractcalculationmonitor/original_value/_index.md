@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets the old value of the calculated cell.
-Should be used only in [AbstractCalculationMonitor.before_calculate(sheet_index, row_index, col_index)](/cells/python-net/aspose.cells/abstractcalculationmonitor/before_calculate) and [AbstractCalculationMonitor.after_calculate(sheet_index, row_index, col_index)](/cells/python-net/aspose.cells/abstractcalculationmonitor/after_calculate).
+Should be used only in [`AbstractCalculationMonitor.before_calculate`](/cells/python-net/aspose.cells/abstractcalculationmonitor/before_calculate) and [`AbstractCalculationMonitor.after_calculate`](/cells/python-net/aspose.cells/abstractcalculationmonitor/after_calculate).
 ### Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def original_value(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractCalculationMonitor](/cells/python-net/aspose.cells/abstractcalculationmonitor)
+* module [`aspose.cells`](../../)
+* class [`AbstractCalculationMonitor`](/cells/python-net/aspose.cells/abstractcalculationmonitor)

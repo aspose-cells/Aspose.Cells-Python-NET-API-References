@@ -8,7 +8,7 @@ url: /aspose.cells.markup/customxmlpartcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#CustomXmlPart}
+## binary_search {#aspose.cells.markup.CustomXmlPart}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [CustomXmlPart](/cells/python-net/aspose.cells.markup/customxmlpart) | The System.Object to locate. The value can be null. |
+| item | [`CustomXmlPart`](/cells/python-net/aspose.cells.markup/customxmlpart) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.markup](../../)
-* class [CustomXmlPartCollection](/cells/python-net/aspose.cells.markup/customxmlpartcollection)
+* module [`aspose.cells.markup`](../../)
+* class [`CustomXmlPartCollection`](/cells/python-net/aspose.cells.markup/customxmlpartcollection)

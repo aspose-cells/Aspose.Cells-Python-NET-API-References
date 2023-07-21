@@ -23,5 +23,5 @@ def top_pixel(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.timelines](../../)
-* class [Timeline](/cells/python-net/aspose.cells.timelines/timeline)
+* module [`aspose.cells.timelines`](../../)
+* class [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline)

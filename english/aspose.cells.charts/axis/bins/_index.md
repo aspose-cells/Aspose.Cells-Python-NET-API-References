@@ -20,6 +20,6 @@ def bins(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Axis](/cells/python-net/aspose.cells.charts/axis)
-* class [AxisBins](/cells/python-net/aspose.cells.charts/axisbins)
+* module [`aspose.cells.charts`](../../)
+* class [`Axis`](/cells/python-net/aspose.cells.charts/axis)
+* class [`AxisBins`](/cells/python-net/aspose.cells.charts/axisbins)

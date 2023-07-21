@@ -23,6 +23,6 @@ def look_in_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FindOptions](/cells/python-net/aspose.cells/findoptions)
-* class [LookInType](/cells/python-net/aspose.cells/lookintype)
+* module [`aspose.cells`](../../)
+* class [`FindOptions`](/cells/python-net/aspose.cells/findoptions)
+* class [`LookInType`](/cells/python-net/aspose.cells/lookintype)

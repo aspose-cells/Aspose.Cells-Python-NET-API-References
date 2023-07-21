@@ -8,7 +8,7 @@ url: /aspose.cells/protectedrangecollection/last_index_of/
 is_root: false
 ---
 
-## last_index_of(item) {#ProtectedRange}
+## last_index_of {#aspose.cells.ProtectedRange}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list.
 
@@ -27,10 +27,10 @@ def last_index_of(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ProtectedRange](/cells/python-net/aspose.cells/protectedrange) | The object to locate in the array list. The value can be null. |
+| item | [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange) | The object to locate in the array list. The value can be null. |
 
 
-## last_index_of(item, index) {#ProtectedRange-int}
+## last_index_of {#aspose.cells.ProtectedRange-int}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index.
 
@@ -49,11 +49,11 @@ def last_index_of(self, item, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ProtectedRange](/cells/python-net/aspose.cells/protectedrange) | The object to locate in the array list. The value can be null. |
+| item | [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange) | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the backward search. |
 
 
-## last_index_of(item, index, count) {#ProtectedRange-int-int}
+## last_index_of {#aspose.cells.ProtectedRange-int-int}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index.
 
@@ -72,12 +72,12 @@ def last_index_of(self, item, index, count):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ProtectedRange](/cells/python-net/aspose.cells/protectedrange) | The object to locate in the array list. The value can be null. |
+| item | [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange) | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the backward search. |
 | count | int | The number of elements in the section to search. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ProtectedRangeCollection](/cells/python-net/aspose.cells/protectedrangecollection)
+* module [`aspose.cells`](../../)
+* class [`ProtectedRangeCollection`](/cells/python-net/aspose.cells/protectedrangecollection)

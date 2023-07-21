@@ -20,6 +20,6 @@ def default_style_settings(self):
 ```
 
 ### See Also
-* module [aspose.cells.numbers](../../)
-* class [DefaultStyleSettings](/cells/python-net/aspose.cells/defaultstylesettings)
-* class [NumbersLoadOptions](/cells/python-net/aspose.cells.numbers/numbersloadoptions)
+* module [`aspose.cells.numbers`](../../)
+* class [`DefaultStyleSettings`](/cells/python-net/aspose.cells/defaultstylesettings)
+* class [`NumbersLoadOptions`](/cells/python-net/aspose.cells.numbers/numbersloadoptions)

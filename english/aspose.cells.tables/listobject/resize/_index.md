@@ -3,12 +3,12 @@ title: resize method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells.tables/listobject/resize/
 is_root: false
 ---
 
-## resize(start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
+## resize {#int-int-int-int-bool}
 
 Resize the range of the list object.
 
@@ -26,10 +26,10 @@ def resize(self, start_row, start_column, end_row, end_column, has_headers):
 | start_column | int | The start column index of the new range. |
 | end_row | int | The end row index of the new range. |
 | end_column | int | The end column index of the new range. |
-| has_headers | bool | Whether the ListObject has headers. |
+| has_headers | bool | Whether this table has headers. |
 
 
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListObject](/cells/python-net/aspose.cells.tables/listobject)
+* module [`aspose.cells.tables`](../../)
+* class [`ListObject`](/cells/python-net/aspose.cells.tables/listobject)

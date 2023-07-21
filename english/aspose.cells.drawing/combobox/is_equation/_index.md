@@ -31,5 +31,5 @@ def is_equation(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ComboBox](/cells/python-net/aspose.cells.drawing/combobox)
+* module [`aspose.cells.drawing`](../../)
+* class [`ComboBox`](/cells/python-net/aspose.cells.drawing/combobox)

@@ -3,12 +3,12 @@ title: to_image method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 230
 url: /aspose.cells.drawing/radiobutton/to_image/
 is_root: false
 ---
 
-## to_image(stream, image_type) {#io.RawIOBase-ImageType}
+## to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
 
 Creates the shape image and saves it to a stream in the specified format.
 
@@ -23,7 +23,7 @@ def to_image(self, stream, image_type):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The output stream. |
-| image_type | [ImageType](/cells/python-net/aspose.cells.drawing/imagetype) | The type in which to save the image. |
+| image_type | [`ImageType`](/cells/python-net/aspose.cells.drawing/imagetype) | The type in which to save the image. |
 ### Remarks
 
 The following formats are supported: 
@@ -41,7 +41,7 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-## to_image(image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
 
 Saves the shape to a file.
 
@@ -70,7 +70,7 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-## to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 
 Saves the shape to a stream.
 
@@ -103,5 +103,5 @@ shape.to_image(imageStream, op)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

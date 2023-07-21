@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/
 is_root: false
 ---
 
-## get_pivot_filter_by_type(type) {#PivotFilterType}
+## get_pivot_filter_by_type {#aspose.cells.pivot.PivotFilterType}
 
 Gets the pivot filter of the pivot field by type
 
@@ -22,10 +22,10 @@ def get_pivot_filter_by_type(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [PivotFilterType](/cells/python-net/aspose.cells.pivot/pivotfiltertype) |  |
+| type | [`PivotFilterType`](/cells/python-net/aspose.cells.pivot/pivotfiltertype) |  |
 
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)

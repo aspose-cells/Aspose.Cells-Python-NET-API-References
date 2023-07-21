@@ -23,5 +23,5 @@ def cached_file_folder(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XlsSaveOptions](/cells/python-net/aspose.cells/xlssaveoptions)
+* module [`aspose.cells`](../../)
+* class [`XlsSaveOptions`](/cells/python-net/aspose.cells/xlssaveoptions)

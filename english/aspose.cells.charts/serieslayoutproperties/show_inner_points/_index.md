@@ -3,7 +3,7 @@ title: show_inner_points property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.charts/serieslayoutproperties/show_inner_points/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def show_inner_points(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [SeriesLayoutProperties](/cells/python-net/aspose.cells.charts/serieslayoutproperties)
+* module [`aspose.cells.charts`](../../)
+* class [`SeriesLayoutProperties`](/cells/python-net/aspose.cells.charts/serieslayoutproperties)

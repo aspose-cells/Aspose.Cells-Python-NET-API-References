@@ -8,7 +8,7 @@ url: /aspose.cells/cells/set_column_width_pixel/
 is_root: false
 ---
 
-## set_column_width_pixel(column, pixels) {#int-int}
+## set_column_width_pixel {#int-int}
 
 Sets column width in unit of pixels in normal view.
 
@@ -28,5 +28,5 @@ def set_column_width_pixel(self, column, pixels):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

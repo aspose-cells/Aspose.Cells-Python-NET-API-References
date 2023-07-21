@@ -28,5 +28,5 @@ def output_blank_page_when_nothing_to_print(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [ImageOrPrintOptions](/cells/python-net/aspose.cells.rendering/imageorprintoptions)
+* module [`aspose.cells.rendering`](../../)
+* class [`ImageOrPrintOptions`](/cells/python-net/aspose.cells.rendering/imageorprintoptions)

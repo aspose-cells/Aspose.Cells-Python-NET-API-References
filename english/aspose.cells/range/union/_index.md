@@ -8,7 +8,7 @@ url: /aspose.cells/range/union/
 is_root: false
 ---
 
-## union(range) {#Range}
+## union {#aspose.cells.Range}
 
 Returns the union of two ranges.
 
@@ -27,10 +27,10 @@ def union(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [Range](/cells/python-net/aspose.cells/range) | The range |
+| range | [`Range`](/cells/python-net/aspose.cells/range) | The range |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`Range`](/cells/python-net/aspose.cells/range)

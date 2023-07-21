@@ -23,6 +23,6 @@ def text_align(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [ComboBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* class [TextAlignmentType](/cells/python-net/aspose.cells/textalignmenttype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`ComboBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* class [`TextAlignmentType`](/cells/python-net/aspose.cells/textalignmenttype)

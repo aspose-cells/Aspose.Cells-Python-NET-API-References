@@ -8,7 +8,7 @@ url: /aspose.cells.tables/listobjectcollection/update_column_name/
 is_root: false
 ---
 
-## update_column_name() {#}
+## update_column_name {#}
 
 Update all column name of the tables.
 
@@ -24,5 +24,5 @@ def update_column_name(self):
 
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListObjectCollection](/cells/python-net/aspose.cells.tables/listobjectcollection)
+* module [`aspose.cells.tables`](../../)
+* class [`ListObjectCollection`](/cells/python-net/aspose.cells.tables/listobjectcollection)

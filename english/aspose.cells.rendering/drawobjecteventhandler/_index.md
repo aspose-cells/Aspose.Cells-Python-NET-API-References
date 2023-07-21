@@ -19,9 +19,9 @@ The DrawObjectEventHandler type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [draw(draw_object, x, y, width, height)](/cells/python-net/aspose.cells.rendering/drawobjecteventhandler/draw/#DrawObject-float-float-float-float) | Implements this interface to get DrawObject and Bound when rendering. |
+| [draw](/cells/python-net/aspose.cells.rendering/drawobjecteventhandler/draw/#aspose.cells.rendering.DrawObject-float-float-float-float) | Implements this interface to get DrawObject and Bound when rendering. |
 
 
 
 ### See Also
-* module [aspose.cells.rendering](..)
+* module [`aspose.cells.rendering`](..)

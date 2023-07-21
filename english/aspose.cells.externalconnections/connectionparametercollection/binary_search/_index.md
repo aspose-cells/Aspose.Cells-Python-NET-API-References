@@ -8,7 +8,7 @@ url: /aspose.cells.externalconnections/connectionparametercollection/binary_sear
 is_root: false
 ---
 
-## binary_search(item) {#ConnectionParameter}
+## binary_search {#aspose.cells.externalconnections.ConnectionParameter}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ConnectionParameter](/cells/python-net/aspose.cells.externalconnections/connectionparameter) | The System.Object to locate. The value can be null. |
+| item | [`ConnectionParameter`](/cells/python-net/aspose.cells.externalconnections/connectionparameter) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [ConnectionParameterCollection](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`ConnectionParameterCollection`](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection)

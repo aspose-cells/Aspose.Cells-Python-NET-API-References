@@ -3,12 +3,12 @@ title: add_text_effect method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells.drawing/shapecollection/add_text_effect/
 is_root: false
 ---
 
-## add_text_effect(effect, text, font_name, size, font_bold, font_italic, upper_left_row, top, upper_left_column, left, height, width) {#MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int-int-int}
+## add_text_effect {#aspose.cells.drawing.MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int-int-int}
 
 Inserts a WordArt object.
 
@@ -27,7 +27,7 @@ def add_text_effect(self, effect, text, font_name, size, font_bold, font_italic,
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| effect | [MsoPresetTextEffect](/cells/python-net/aspose.cells.drawing/msopresettexteffect) | The mso preset text effect type. |
+| effect | [`MsoPresetTextEffect`](/cells/python-net/aspose.cells.drawing/msopresettexteffect) | The mso preset text effect type. |
 | text | str | The WordArt text. |
 | font_name | str | The font name. |
 | size | int | The font size |
@@ -54,5 +54,5 @@ wordArt1 = shapes.add_text_effect(MsoPresetTextEffect.TEXT_EFFECT10, "WordArt", 
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

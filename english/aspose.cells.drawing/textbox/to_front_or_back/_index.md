@@ -3,12 +3,12 @@ title: to_front_or_back method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 220
 url: /aspose.cells.drawing/textbox/to_front_or_back/
 is_root: false
 ---
 
-## to_front_or_back(orders) {#int}
+## to_front_or_back {#int}
 
 Brings the shape to the front or sends the shape to back.
 
@@ -36,5 +36,5 @@ shape.to_front_or_back(2)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

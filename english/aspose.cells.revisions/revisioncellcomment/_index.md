@@ -3,7 +3,7 @@ title: RevisionCellComment class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells.revisions/revisioncellcomment/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents a revision record of a cell comment change.
 
 
 
-**Inheritance:** [RevisionCellComment](/cells/python-net/aspose.cells.revisions/revisioncellcomment) → 
-[Revision](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionCellComment`](/cells/python-net/aspose.cells.revisions/revisioncellcomment) → 
+[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 
 
 
@@ -38,6 +38,6 @@ The RevisionCellComment type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [RevisionCellComment](/cells/python-net/aspose.cells.revisions/revisioncellcomment)
+* module [`aspose.cells.revisions`](..)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`RevisionCellComment`](/cells/python-net/aspose.cells.revisions/revisioncellcomment)

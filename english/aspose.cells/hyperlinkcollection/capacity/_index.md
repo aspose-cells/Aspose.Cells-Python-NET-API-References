@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HyperlinkCollection](/cells/python-net/aspose.cells/hyperlinkcollection)
+* module [`aspose.cells`](../../)
+* class [`HyperlinkCollection`](/cells/python-net/aspose.cells/hyperlinkcollection)

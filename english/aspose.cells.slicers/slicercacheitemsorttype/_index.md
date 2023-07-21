@@ -25,4 +25,4 @@ The SlicerCacheItemSortType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.slicers](..)
+* module [`aspose.cells.slicers`](..)

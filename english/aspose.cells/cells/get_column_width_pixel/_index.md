@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get_column_width_pixel/
 is_root: false
 ---
 
-## get_column_width_pixel(column) {#int}
+## get_column_width_pixel {#int}
 
 Gets the width of the specified column in normal view, in units of pixel.
 
@@ -32,5 +32,5 @@ def get_column_width_pixel(self, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

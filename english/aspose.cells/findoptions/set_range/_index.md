@@ -8,7 +8,7 @@ url: /aspose.cells/findoptions/set_range/
 is_root: false
 ---
 
-## set_range(ca) {#CellArea}
+## set_range {#aspose.cells.CellArea}
 
 Sets the searched range.
 
@@ -22,10 +22,10 @@ def set_range(self, ca):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/aspose.cells/cellarea) | the searched range. |
+| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | the searched range. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FindOptions](/cells/python-net/aspose.cells/findoptions)
+* module [`aspose.cells`](../../)
+* class [`FindOptions`](/cells/python-net/aspose.cells/findoptions)

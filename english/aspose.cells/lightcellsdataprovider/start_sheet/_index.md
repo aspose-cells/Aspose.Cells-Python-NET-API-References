@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdataprovider/start_sheet/
 is_root: false
 ---
 
-## start_sheet(sheet_index) {#int}
+## start_sheet {#int}
 
 Starts to save a worksheet.
 
@@ -38,5 +38,5 @@ the implementation should retain the *`sheetIndex`*  value here.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LightCellsDataProvider](/cells/python-net/aspose.cells/lightcellsdataprovider)
+* module [`aspose.cells`](../../)
+* class [`LightCellsDataProvider`](/cells/python-net/aspose.cells/lightcellsdataprovider)

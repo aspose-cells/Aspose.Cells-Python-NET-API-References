@@ -8,7 +8,7 @@ url: /aspose.cells/cells/import_object_array/
 is_root: false
 ---
 
-## import_object_array(obj_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+## import_object_array {#list-int-int-bool}
 
 Imports an array of data into a worksheet.
 
@@ -28,7 +28,7 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Specifies to import data vertically or horizontally. |
 
 
-## import_object_array(obj_array, first_row, first_column, is_vertical, skip) {#list-int-int-bool-int}
+## import_object_array {#list-int-int-bool-int}
 
 Imports an array of data into a worksheet.
 
@@ -51,5 +51,5 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical, s
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

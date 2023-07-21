@@ -8,9 +8,9 @@ url: /aspose.cells/cells/get_row/
 is_root: false
 ---
 
-## get_row(row) {#int}
+## get_row {#int}
 
-Gets the [Row](/cells/python-net/aspose.cells/row) element at the specified cell row index.
+Gets the [`Row`](/cells/python-net/aspose.cells/row) element at the specified cell row index.
 
 
 ### Returns 
@@ -32,6 +32,6 @@ def get_row(self, row):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
-* class [Row](/cells/python-net/aspose.cells/row)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)
+* class [`Row`](/cells/python-net/aspose.cells/row)

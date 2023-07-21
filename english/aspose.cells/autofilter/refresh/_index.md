@@ -8,7 +8,7 @@ url: /aspose.cells/autofilter/refresh/
 is_root: false
 ---
 
-## refresh() {#}
+## refresh {#}
 
 Refresh auto filters to hide or unhide the rows.
 
@@ -27,7 +27,7 @@ def refresh(self):
 
 
 
-## refresh(hide_rows) {#bool}
+## refresh {#bool}
 
 Gets all hidden rows' indexes.
 
@@ -51,5 +51,5 @@ def refresh(self, hide_rows):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFilter](/cells/python-net/aspose.cells/autofilter)
+* module [`aspose.cells`](../../)
+* class [`AutoFilter`](/cells/python-net/aspose.cells/autofilter)

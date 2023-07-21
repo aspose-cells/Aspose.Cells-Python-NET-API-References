@@ -35,6 +35,6 @@ def placement(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [PlacementType](/cells/python-net/aspose.cells.drawing/placementtype)
-* class [SmartArtShape](/cells/python-net/aspose.cells.drawing/smartartshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`PlacementType`](/cells/python-net/aspose.cells.drawing/placementtype)
+* class [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape)

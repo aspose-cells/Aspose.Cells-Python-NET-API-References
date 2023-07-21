@@ -8,7 +8,7 @@ url: /aspose.cells/cells/set_column_width_inch/
 is_root: false
 ---
 
-## set_column_width_inch(column, inches) {#int-float}
+## set_column_width_inch {#int-float}
 
 Sets column width in unit of inches  in normal view.
 
@@ -28,5 +28,5 @@ def set_column_width_inch(self, column, inches):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

@@ -8,7 +8,7 @@ url: /aspose.cells/interruptmonitor/interrupt/
 is_root: false
 ---
 
-## interrupt() {#}
+## interrupt {#}
 
 Interrupt the current operator.
 
@@ -24,5 +24,5 @@ def interrupt(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [InterruptMonitor](/cells/python-net/aspose.cells/interruptmonitor)
+* module [`aspose.cells`](../../)
+* class [`InterruptMonitor`](/cells/python-net/aspose.cells/interruptmonitor)

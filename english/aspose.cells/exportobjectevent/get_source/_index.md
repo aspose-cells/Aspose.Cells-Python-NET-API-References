@@ -8,7 +8,7 @@ url: /aspose.cells/exportobjectevent/get_source/
 is_root: false
 ---
 
-## get_source() {#}
+## get_source {#}
 
 Gets the object to be exported.
 
@@ -29,5 +29,5 @@ def get_source(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ExportObjectEvent](/cells/python-net/aspose.cells/exportobjectevent)
+* module [`aspose.cells`](../../)
+* class [`ExportObjectEvent`](/cells/python-net/aspose.cells/exportobjectevent)

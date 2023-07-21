@@ -8,7 +8,7 @@ url: /aspose.cells/scenariocollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Scenario}
+## binary_search {#aspose.cells.Scenario}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Scenario](/cells/python-net/aspose.cells/scenario) | The System.Object to locate. The value can be null. |
+| item | [`Scenario`](/cells/python-net/aspose.cells/scenario) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ScenarioCollection](/cells/python-net/aspose.cells/scenariocollection)
+* module [`aspose.cells`](../../)
+* class [`ScenarioCollection`](/cells/python-net/aspose.cells/scenariocollection)

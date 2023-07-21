@@ -23,5 +23,5 @@ def value1(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFilter](/cells/python-net/aspose.cells.pivot/pivotfilter)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFilter`](/cells/python-net/aspose.cells.pivot/pivotfilter)

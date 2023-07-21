@@ -8,7 +8,7 @@ url: /aspose.cells/cells/import_data/
 is_root: false
 ---
 
-## import_data(table, first_row, first_column, options) {#ICellsDataTable-int-int-ImportTableOptions}
+## import_data {#aspose.cells.ICellsDataTable-int-int-aspose.cells.ImportTableOptions}
 
 Import data from custom data table.
 
@@ -27,13 +27,13 @@ def import_data(self, table, first_row, first_column, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| table | [ICellsDataTable](/cells/python-net/aspose.cells/icellsdatatable) | The custom data table. |
+| table | [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable) | The custom data table. |
 | first_row | int | First row index. |
 | first_column | int | First column index. |
-| options | [ImportTableOptions](/cells/python-net/aspose.cells/importtableoptions) | The import options |
+| options | [`ImportTableOptions`](/cells/python-net/aspose.cells/importtableoptions) | The import options |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

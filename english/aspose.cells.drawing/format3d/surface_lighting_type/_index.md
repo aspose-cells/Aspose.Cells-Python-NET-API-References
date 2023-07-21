@@ -24,6 +24,6 @@ def surface_lighting_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Format3D](/cells/python-net/aspose.cells.drawing/format3d)
-* class [LightRigType](/cells/python-net/aspose.cells.drawing/lightrigtype)
+* module [`aspose.cells.drawing`](../../)
+* class [`Format3D`](/cells/python-net/aspose.cells.drawing/format3d)
+* class [`LightRigType`](/cells/python-net/aspose.cells.drawing/lightrigtype)

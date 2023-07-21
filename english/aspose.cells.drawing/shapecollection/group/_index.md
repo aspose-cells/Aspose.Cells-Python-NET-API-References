@@ -3,12 +3,12 @@ title: group method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 430
 url: /aspose.cells.drawing/shapecollection/group/
 is_root: false
 ---
 
-## group(group_items) {#list}
+## group {#list}
 
 Group the shapes.
 
@@ -49,5 +49,5 @@ groupShape = shapes.group(shapesArr)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

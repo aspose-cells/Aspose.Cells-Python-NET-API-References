@@ -23,5 +23,5 @@ def regex_key(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ReplaceOptions](/cells/python-net/aspose.cells/replaceoptions)
+* module [`aspose.cells`](../../)
+* class [`ReplaceOptions`](/cells/python-net/aspose.cells/replaceoptions)

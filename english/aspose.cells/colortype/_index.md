@@ -3,7 +3,7 @@ title: ColorType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1860
+weight: 1910
 url: /aspose.cells/colortype/
 is_root: false
 ---
@@ -28,4 +28,4 @@ The ColorType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

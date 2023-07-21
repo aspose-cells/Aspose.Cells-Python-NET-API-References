@@ -8,7 +8,7 @@ url: /aspose.cells/unionrange/set_outline_borders/
 is_root: false
 ---
 
-## set_outline_borders(border_styles, border_colors) {#list-aspose.pydrawing.Color[]}
+## set_outline_borders {#list-aspose.pydrawing.Color[]}
 
 Sets out line borders around a range of cells.
 
@@ -29,7 +29,7 @@ def set_outline_borders(self, border_styles, border_colors):
 Both the length of borderStyles and borderStyles must be 4.
 The order of borderStyles and borderStyles must be top,bottom,left,right
 
-## set_outline_borders(border_style, border_color) {#CellBorderType-aspose.pydrawing.Color}
+## set_outline_borders {#aspose.cells.CellBorderType-aspose.pydrawing.Color}
 
 Sets the outline borders around a range of cells with same border style and color.
 
@@ -43,11 +43,11 @@ def set_outline_borders(self, border_style, border_color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| border_style | [CellBorderType](/cells/python-net/aspose.cells/cellbordertype) | Border style. |
+| border_style | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | Border style. |
 | border_color | aspose.pydrawing.Color | Border color. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [UnionRange](/cells/python-net/aspose.cells/unionrange)
+* module [`aspose.cells`](../../)
+* class [`UnionRange`](/cells/python-net/aspose.cells/unionrange)

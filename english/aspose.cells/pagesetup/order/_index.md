@@ -23,6 +23,6 @@ def order(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
-* class [PrintOrderType](/cells/python-net/aspose.cells/printordertype)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)
+* class [`PrintOrderType`](/cells/python-net/aspose.cells/printordertype)

@@ -8,7 +8,7 @@ url: /aspose.cells.properties/documentproperty/to_double/
 is_root: false
 ---
 
-## to_double() {#}
+## to_double {#}
 
 Returns the property value as double.
 
@@ -26,5 +26,5 @@ Throws an exception if the property type is not PropertyType.Float.
 
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [DocumentProperty](/cells/python-net/aspose.cells.properties/documentproperty)
+* module [`aspose.cells.properties`](../../)
+* class [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty)

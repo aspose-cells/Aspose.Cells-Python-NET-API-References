@@ -20,5 +20,5 @@ def name(self):
 ```
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [TableStyle](/cells/python-net/aspose.cells.tables/tablestyle)
+* module [`aspose.cells.tables`](../../)
+* class [`TableStyle`](/cells/python-net/aspose.cells.tables/tablestyle)

@@ -3,7 +3,7 @@ title: width_scale property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1200
+weight: 1210
 url: /aspose.cells.drawing/textbox/width_scale/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def width_scale(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

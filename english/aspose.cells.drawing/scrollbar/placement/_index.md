@@ -35,6 +35,6 @@ def placement(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [PlacementType](/cells/python-net/aspose.cells.drawing/placementtype)
-* class [ScrollBar](/cells/python-net/aspose.cells.drawing/scrollbar)
+* module [`aspose.cells.drawing`](../../)
+* class [`PlacementType`](/cells/python-net/aspose.cells.drawing/placementtype)
+* class [`ScrollBar`](/cells/python-net/aspose.cells.drawing/scrollbar)

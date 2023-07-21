@@ -25,6 +25,6 @@ def html_cross_string_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlCrossType](/cells/python-net/aspose.cells/htmlcrosstype)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlCrossType`](/cells/python-net/aspose.cells/htmlcrosstype)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)

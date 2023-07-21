@@ -23,5 +23,5 @@ def transparency(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoFillFormat](/cells/python-net/aspose.cells.drawing/msofillformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoFillFormat`](/cells/python-net/aspose.cells.drawing/msofillformat)

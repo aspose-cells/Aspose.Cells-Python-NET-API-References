@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdatahandler/start_row/
 is_root: false
 ---
 
-## start_row(row_index) {#int}
+## start_row {#int}
 
 Prepares to process a row.
 
@@ -32,5 +32,5 @@ def start_row(self, row_index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LightCellsDataHandler](/cells/python-net/aspose.cells/lightcellsdatahandler)
+* module [`aspose.cells`](../../)
+* class [`LightCellsDataHandler`](/cells/python-net/aspose.cells/lightcellsdatahandler)

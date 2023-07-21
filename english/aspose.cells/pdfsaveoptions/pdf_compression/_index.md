@@ -23,6 +23,6 @@ def pdf_compression(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PdfCompressionCore](/cells/python-net/aspose.cells.rendering/pdfcompressioncore)
-* class [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`PdfCompressionCore`](/cells/python-net/aspose.cells.rendering/pdfcompressioncore)
+* class [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions)

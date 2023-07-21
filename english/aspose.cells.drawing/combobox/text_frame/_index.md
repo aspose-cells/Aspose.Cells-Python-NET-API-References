@@ -28,6 +28,6 @@ def text_frame(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ComboBox](/cells/python-net/aspose.cells.drawing/combobox)
-* class [MsoTextFrame](/cells/python-net/aspose.cells.drawing/msotextframe)
+* module [`aspose.cells.drawing`](../../)
+* class [`ComboBox`](/cells/python-net/aspose.cells.drawing/combobox)
+* class [`MsoTextFrame`](/cells/python-net/aspose.cells.drawing/msotextframe)

@@ -8,7 +8,7 @@ url: /aspose.cells.rendering/sheetrender/__init__/
 is_root: false
 ---
 
-## SheetRender(worksheet, options) {#Worksheet-ImageOrPrintOptions}
+## __init__ {#aspose.cells.Worksheet-aspose.cells.rendering.ImageOrPrintOptions}
 
 the construct of SheetRender, need worksheet and ImageOrPrintOptions as params
 
@@ -22,11 +22,11 @@ def __init__(self, worksheet, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| worksheet | [Worksheet](/cells/python-net/aspose.cells/worksheet) | Indicate which spreadsheet to be rendered. |
-| options | [ImageOrPrintOptions](/cells/python-net/aspose.cells.rendering/imageorprintoptions) | ImageOrPrintOptions contains some property of output image |
+| worksheet | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | Indicate which spreadsheet to be rendered. |
+| options | [`ImageOrPrintOptions`](/cells/python-net/aspose.cells.rendering/imageorprintoptions) | ImageOrPrintOptions contains some property of output image |
 
 
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [SheetRender](/cells/python-net/aspose.cells.rendering/sheetrender)
+* module [`aspose.cells.rendering`](../../)
+* class [`SheetRender`](/cells/python-net/aspose.cells.rendering/sheetrender)

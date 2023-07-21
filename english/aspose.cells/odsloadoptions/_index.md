@@ -3,7 +3,7 @@ title: OdsLoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1100
+weight: 1120
 url: /aspose.cells/odsloadoptions/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents the options of loading ods file.
 
 
 
-**Inheritance:** [OdsLoadOptions](/cells/python-net/aspose.cells/odsloadoptions) → 
-[LoadOptions](/cells/python-net/aspose.cells/loadoptions)
+**Inheritance:** [`OdsLoadOptions`](/cells/python-net/aspose.cells/odsloadoptions) → 
+[`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
 
 
 
@@ -24,8 +24,8 @@ The OdsLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [OdsLoadOptions()](/cells/python-net/aspose.cells/odsloadoptions/__init__/#) | Represents the options of loading ods file. |
-| [OdsLoadOptions(type)](/cells/python-net/aspose.cells/odsloadoptions/__init__/#LoadFormat) | Represents the options of loading ods file. |
+| [__init__](/cells/python-net/aspose.cells/odsloadoptions/__init__/#) | Represents the options of loading ods file. |
+| [__init__](/cells/python-net/aspose.cells/odsloadoptions/__init__/#aspose.cells.LoadFormat) | Represents the options of loading ods file. |
 
 
 ### Properties
@@ -51,7 +51,8 @@ The OdsLoadOptions type exposes the following members:
 | [warning_callback](/cells/python-net/aspose.cells/odsloadoptions/warning_callback) | Gets or sets warning callback. |
 | [auto_fitter_options](/cells/python-net/aspose.cells/odsloadoptions/auto_fitter_options) | Gets and sets the auto fitter options |
 | [auto_filter](/cells/python-net/aspose.cells/odsloadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
-| [font_configs](/cells/python-net/aspose.cells/odsloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [Workbook](/cells/python-net/aspose.cells/workbook) which uses this [LoadOptions](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [font_configs](/cells/python-net/aspose.cells/odsloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [ignore_useless_shapes](/cells/python-net/aspose.cells/odsloadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
 | [apply_excel_default_style_to_hyperlink](/cells/python-net/aspose.cells/odsloadoptions/apply_excel_default_style_to_hyperlink) | Indicates whether applying the default style of the Excel to hyperlink. |
 | [refresh_pivot_tables](/cells/python-net/aspose.cells/odsloadoptions/refresh_pivot_tables) | Indicates whether refresh pivot tables when loading file. |
 
@@ -59,12 +60,12 @@ The OdsLoadOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_paper_size(type)](/cells/python-net/aspose.cells/odsloadoptions/set_paper_size/#PaperSizeType) | Sets the default print paper size from default printer's setting. |
+| [set_paper_size](/cells/python-net/aspose.cells/odsloadoptions/set_paper_size/#aspose.cells.PaperSizeType) | Sets the default print paper size from default printer's setting. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [LoadOptions](/cells/python-net/aspose.cells/loadoptions)
-* class [OdsLoadOptions](/cells/python-net/aspose.cells/odsloadoptions)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](..)
+* class [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
+* class [`OdsLoadOptions`](/cells/python-net/aspose.cells/odsloadoptions)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

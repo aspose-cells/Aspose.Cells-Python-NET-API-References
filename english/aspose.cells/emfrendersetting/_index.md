@@ -3,7 +3,7 @@ title: EmfRenderSetting enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1990
+weight: 2040
 url: /aspose.cells/emfrendersetting/
 is_root: false
 ---
@@ -25,4 +25,4 @@ The EmfRenderSetting type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

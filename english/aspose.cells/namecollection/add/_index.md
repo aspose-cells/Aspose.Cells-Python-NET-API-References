@@ -8,7 +8,7 @@ url: /aspose.cells/namecollection/add/
 is_root: false
 ---
 
-## add(text) {#str}
+## add {#str}
 
 Defines a new name.
 
@@ -16,7 +16,7 @@ Defines a new name.
 ### Returns 
 
 
-[Name](/cells/python-net/aspose.cells/name) object index.
+[`Name`](/cells/python-net/aspose.cells/name) object index.
 
 
 ```python
@@ -34,6 +34,6 @@ Name cannot include spaces and cannot look like cell references.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Name](/cells/python-net/aspose.cells/name)
-* class [NameCollection](/cells/python-net/aspose.cells/namecollection)
+* module [`aspose.cells`](../../)
+* class [`Name`](/cells/python-net/aspose.cells/name)
+* class [`NameCollection`](/cells/python-net/aspose.cells/namecollection)

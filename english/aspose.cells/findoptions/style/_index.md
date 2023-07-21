@@ -23,6 +23,6 @@ def style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FindOptions](/cells/python-net/aspose.cells/findoptions)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`FindOptions`](/cells/python-net/aspose.cells/findoptions)
+* class [`Style`](/cells/python-net/aspose.cells/style)

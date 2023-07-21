@@ -3,7 +3,7 @@ title: left_to_corner property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 700
+weight: 710
 url: /aspose.cells.drawing/textbox/left_to_corner/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def left_to_corner(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

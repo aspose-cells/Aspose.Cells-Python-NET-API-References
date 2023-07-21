@@ -23,6 +23,6 @@ def link_target_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlLinkTargetType](/cells/python-net/aspose.cells/htmllinktargettype)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlLinkTargetType`](/cells/python-net/aspose.cells/htmllinktargettype)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)

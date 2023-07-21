@@ -3,14 +3,14 @@ title: RowCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1310
+weight: 1330
 url: /aspose.cells/rowcollection/
 is_root: false
 ---
 
 ## RowCollection class
 
-Collects the [Row](/cells/python-net/aspose.cells/row) objects that represent the individual rows in a worksheet.
+Collects the [`Row`](/cells/python-net/aspose.cells/row) objects that represent the individual rows in a worksheet.
 
 
 
@@ -23,7 +23,7 @@ The RowCollection type exposes the following members:
 
 
 
-Gets a [Row](/cells/python-net/aspose.cells/row) object by given row index. The Row object of given row index will be instantiated if it does not exist before.
+Gets a [`Row`](/cells/python-net/aspose.cells/row) object by given row index. The Row object of given row index will be instantiated if it does not exist before.
 ### Indexer
 | Name | Description |
 | :- | :- |
@@ -33,9 +33,10 @@ Gets a [Row](/cells/python-net/aspose.cells/row) object by given row index. The 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_row_by_index(index)](/cells/python-net/aspose.cells/rowcollection/get_row_by_index/#int) | Gets the row object by the position in the list. |
-| [clear()](/cells/python-net/aspose.cells/rowcollection/clear/#) | Clear all rows and cells. |
-| [remove_at(index)](/cells/python-net/aspose.cells/rowcollection/remove_at/#int) | Remove the row at the specified index |
+| [get_enumerator](/cells/python-net/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Gets an enumerator that iterates rows through this collection |
+| [get_row_by_index](/cells/python-net/aspose.cells/rowcollection/get_row_by_index/#int) | Gets the row object by the position in the list. |
+| [clear](/cells/python-net/aspose.cells/rowcollection/clear/#) | Clear all rows and cells. |
+| [remove_at](/cells/python-net/aspose.cells/rowcollection/remove_at/#int) | Remove the row at the specified index |
 
 
 
@@ -55,5 +56,5 @@ row = worksheet.cells.rows[0]
 ```
 
 ### See Also
-* module [aspose.cells](..)
-* class [Row](/cells/python-net/aspose.cells/row)
+* module [`aspose.cells`](..)
+* class [`Row`](/cells/python-net/aspose.cells/row)

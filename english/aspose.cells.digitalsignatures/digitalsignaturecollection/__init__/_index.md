@@ -8,7 +8,7 @@ url: /aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/
 is_root: false
 ---
 
-## DigitalSignatureCollection() {#}
+## __init__ {#}
 
 The constructor of DigitalSignatureCollection.
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.digitalsignatures](../../)
-* class [DigitalSignatureCollection](/cells/python-net/aspose.cells.digitalsignatures/digitalsignaturecollection)
+* module [`aspose.cells.digitalsignatures`](../../)
+* class [`DigitalSignatureCollection`](/cells/python-net/aspose.cells.digitalsignatures/digitalsignaturecollection)

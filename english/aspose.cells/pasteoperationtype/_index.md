@@ -3,7 +3,7 @@ title: PasteOperationType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2350
+weight: 2400
 url: /aspose.cells/pasteoperationtype/
 is_root: false
 ---
@@ -28,4 +28,4 @@ The PasteOperationType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

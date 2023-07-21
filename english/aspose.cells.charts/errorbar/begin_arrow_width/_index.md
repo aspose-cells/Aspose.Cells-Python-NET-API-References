@@ -23,6 +23,6 @@ def begin_arrow_width(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ErrorBar](/cells/python-net/aspose.cells.charts/errorbar)
-* class [MsoArrowheadWidth](/cells/python-net/aspose.cells.drawing/msoarrowheadwidth)
+* module [`aspose.cells.charts`](../../)
+* class [`ErrorBar`](/cells/python-net/aspose.cells.charts/errorbar)
+* class [`MsoArrowheadWidth`](/cells/python-net/aspose.cells.drawing/msoarrowheadwidth)

@@ -3,7 +3,7 @@ title: data_source_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells.tables/listobject/data_source_type/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def data_source_type(self):
 ```
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListObject](/cells/python-net/aspose.cells.tables/listobject)
-* class [TableDataSourceType](/cells/python-net/aspose.cells.tables/tabledatasourcetype)
+* module [`aspose.cells.tables`](../../)
+* class [`ListObject`](/cells/python-net/aspose.cells.tables/listobject)
+* class [`TableDataSourceType`](/cells/python-net/aspose.cells.tables/tabledatasourcetype)

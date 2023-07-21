@@ -20,7 +20,7 @@ If number format is builtin, the pattern string corresponding to the builtin num
 
 For builtin number formats, the returned pattern content is still culture-dependent,
 such as, for some locales it returns "m/d/y" and for some other locales it returns "d/m/y".
-The difference from [Style.culture_custom](/cells/python-net/aspose.cells/style#culture_custom) is(that is also what culture-independent means):
+The difference from [`Style.culture_custom`](/cells/python-net/aspose.cells/style#culture_custom) is(that is also what culture-independent means):
 the format specifiers and separators are kept as standard, such as '/' will always be used as datetime separator
 and  "y" will always be used as the "year" part no matter what other special character is used for the specific locale.
 ### Definition:
@@ -31,5 +31,5 @@ def invariant_custom(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)

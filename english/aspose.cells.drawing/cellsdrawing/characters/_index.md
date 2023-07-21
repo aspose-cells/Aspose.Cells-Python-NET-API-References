@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/cellsdrawing/characters/
 is_root: false
 ---
 
-## characters(start_index, length) {#int-int}
+## characters {#int-int}
 
 Returns a Characters object that represents a range of characters within the text.
 
@@ -44,5 +44,5 @@ fontSetting = shape.characters(0, 4)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CellsDrawing](/cells/python-net/aspose.cells.drawing/cellsdrawing)
+* module [`aspose.cells.drawing`](../../)
+* class [`CellsDrawing`](/cells/python-net/aspose.cells.drawing/cellsdrawing)

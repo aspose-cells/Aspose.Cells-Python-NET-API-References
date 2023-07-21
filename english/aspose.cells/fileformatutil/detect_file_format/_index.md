@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/detect_file_format/
 is_root: false
 ---
 
-## detect_file_format(stream) {#io.RawIOBase}
+## detect_file_format {#io.RawIOBase}
 
 Detects and returns the information about a format of an excel stored in a stream.
 
@@ -16,7 +16,7 @@ Detects and returns the information about a format of an excel stored in a strea
 ### Returns 
 
 
-A [FileFormatInfo](/cells/python-net/aspose.cells/fileformatinfo) object that contains the detected information.
+A [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo) object that contains the detected information.
 
 
 ```python
@@ -30,7 +30,7 @@ def detect_file_format(self, stream):
 | stream | io.RawIOBase |  |
 
 
-## detect_file_format(file_path) {#str}
+## detect_file_format {#str}
 
 Detects and returns the information about a format of an excel stored in a file.
 
@@ -38,7 +38,7 @@ Detects and returns the information about a format of an excel stored in a file.
 ### Returns 
 
 
-A [FileFormatInfo](/cells/python-net/aspose.cells/fileformatinfo) object that contains the detected information.
+A [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo) object that contains the detected information.
 
 
 ```python
@@ -52,7 +52,7 @@ def detect_file_format(self, file_path):
 | file_path | str | The file path. |
 
 
-## detect_file_format(stream, password) {#io.RawIOBase-str}
+## detect_file_format {#io.RawIOBase-str}
 
 Detects and returns the information about a format of an excel stored in a stream.
 
@@ -60,7 +60,7 @@ Detects and returns the information about a format of an excel stored in a strea
 ### Returns 
 
 
-A [FileFormatInfo](/cells/python-net/aspose.cells/fileformatinfo) object that contains the detected information.
+A [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo) object that contains the detected information.
 
 
 ```python
@@ -75,7 +75,7 @@ def detect_file_format(self, stream, password):
 | password | str | The password for encrypted ooxml files. |
 
 
-## detect_file_format(file_path, password) {#str-str}
+## detect_file_format {#str-str}
 
 Detects and returns the information about a format of an excel stored in a file.
 
@@ -83,7 +83,7 @@ Detects and returns the information about a format of an excel stored in a file.
 ### Returns 
 
 
-A [FileFormatInfo](/cells/python-net/aspose.cells/fileformatinfo) object that contains the detected information.
+A [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo) object that contains the detected information.
 
 
 ```python
@@ -100,6 +100,6 @@ def detect_file_format(self, file_path, password):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FileFormatInfo](/cells/python-net/aspose.cells/fileformatinfo)
-* class [FileFormatUtil](/cells/python-net/aspose.cells/fileformatutil)
+* module [`aspose.cells`](../../)
+* class [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo)
+* class [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil)

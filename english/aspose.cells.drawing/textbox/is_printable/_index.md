@@ -3,7 +3,7 @@ title: is_printable property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 620
 url: /aspose.cells.drawing/textbox/is_printable/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def is_printable(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

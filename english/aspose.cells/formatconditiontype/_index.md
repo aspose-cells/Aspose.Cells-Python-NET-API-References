@@ -3,7 +3,7 @@ title: FormatConditionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2100
+weight: 2150
 url: /aspose.cells/formatconditiontype/
 is_root: false
 ---
@@ -41,4 +41,4 @@ The FormatConditionType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

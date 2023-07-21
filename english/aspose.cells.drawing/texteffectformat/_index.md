@@ -3,7 +3,7 @@ title: TextEffectFormat class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 700
+weight: 690
 url: /aspose.cells.drawing/texteffectformat/
 is_root: false
 ---
@@ -31,7 +31,7 @@ The TextEffectFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_text_effect(effect)](/cells/python-net/aspose.cells.drawing/texteffectformat/set_text_effect/#MsoPresetTextEffect) | Sets the preset text effect. |
+| [set_text_effect](/cells/python-net/aspose.cells.drawing/texteffectformat/set_text_effect/#aspose.cells.drawing.MsoPresetTextEffect) | Sets the preset text effect. |
 
 
 
@@ -53,4 +53,4 @@ workbook.save("Book1.xls")
 ```
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

@@ -23,6 +23,6 @@ def border_style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [ControlBorderType](/cells/python-net/aspose.cells.drawing.activexcontrols/controlbordertype)
-* class [ImageActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`ControlBorderType`](/cells/python-net/aspose.cells.drawing.activexcontrols/controlbordertype)
+* class [`ImageActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

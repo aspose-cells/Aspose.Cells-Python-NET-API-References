@@ -29,5 +29,5 @@ def is_shape_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsColor](/cells/python-net/aspose.cells/cellscolor)
+* module [`aspose.cells`](../../)
+* class [`CellsColor`](/cells/python-net/aspose.cells/cellscolor)

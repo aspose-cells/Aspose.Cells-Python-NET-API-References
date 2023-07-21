@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/unprotect/
 is_root: false
 ---
 
-## unprotect(password) {#str}
+## unprotect {#str}
 
 Unprotects a workbook.
 
@@ -27,5 +27,5 @@ def unprotect(self, password):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

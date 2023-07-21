@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/create_style/
 is_root: false
 ---
 
-## create_style() {#}
+## create_style {#}
 
 Creates a new style.
 
@@ -29,5 +29,5 @@ def create_style(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

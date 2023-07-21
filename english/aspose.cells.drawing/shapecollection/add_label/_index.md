@@ -3,12 +3,12 @@ title: add_label method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells.drawing/shapecollection/add_label/
 is_root: false
 ---
 
-## add_label(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+## add_label {#int-int-int-int-int-int}
 
 Adds a Label to the worksheet.
 
@@ -47,5 +47,5 @@ label = shapes.add_label(1, 0, 1, 0, 100, 50)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

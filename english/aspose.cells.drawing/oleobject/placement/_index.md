@@ -35,6 +35,6 @@ def placement(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [OleObject](/cells/python-net/aspose.cells.drawing/oleobject)
-* class [PlacementType](/cells/python-net/aspose.cells.drawing/placementtype)
+* module [`aspose.cells.drawing`](../../)
+* class [`OleObject`](/cells/python-net/aspose.cells.drawing/oleobject)
+* class [`PlacementType`](/cells/python-net/aspose.cells.drawing/placementtype)

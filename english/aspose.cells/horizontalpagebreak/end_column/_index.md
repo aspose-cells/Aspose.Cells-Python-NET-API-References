@@ -20,5 +20,5 @@ def end_column(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HorizontalPageBreak](/cells/python-net/aspose.cells/horizontalpagebreak)
+* module [`aspose.cells`](../../)
+* class [`HorizontalPageBreak`](/cells/python-net/aspose.cells/horizontalpagebreak)

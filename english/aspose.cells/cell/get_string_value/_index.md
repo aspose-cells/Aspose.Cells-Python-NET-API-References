@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_string_value/
 is_root: false
 ---
 
-## get_string_value(format_strategy) {#CellValueFormatStrategy}
+## get_string_value {#aspose.cells.CellValueFormatStrategy}
 
 Gets the string value by specific formatted strategy.
 
@@ -27,10 +27,10 @@ def get_string_value(self, format_strategy):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format_strategy | [CellValueFormatStrategy](/cells/python-net/aspose.cells/cellvalueformatstrategy) | The formatted strategy. |
+| format_strategy | [`CellValueFormatStrategy`](/cells/python-net/aspose.cells/cellvalueformatstrategy) | The formatted strategy. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

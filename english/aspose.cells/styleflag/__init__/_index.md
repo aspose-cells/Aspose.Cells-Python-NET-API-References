@@ -8,7 +8,7 @@ url: /aspose.cells/styleflag/__init__/
 is_root: false
 ---
 
-## StyleFlag() {#}
+## __init__ {#}
 
 Constructs an object with all flags as false.
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [StyleFlag](/cells/python-net/aspose.cells/styleflag)
+* module [`aspose.cells`](../../)
+* class [`StyleFlag`](/cells/python-net/aspose.cells/styleflag)

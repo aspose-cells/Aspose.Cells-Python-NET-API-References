@@ -25,5 +25,5 @@ def id(self):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [RevisionMergeConflict](/cells/python-net/aspose.cells.revisions/revisionmergeconflict)
+* module [`aspose.cells.revisions`](../../)
+* class [`RevisionMergeConflict`](/cells/python-net/aspose.cells.revisions/revisionmergeconflict)

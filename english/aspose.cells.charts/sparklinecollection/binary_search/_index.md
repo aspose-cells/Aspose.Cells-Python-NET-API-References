@@ -8,7 +8,7 @@ url: /aspose.cells.charts/sparklinecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Sparkline}
+## binary_search {#aspose.cells.charts.Sparkline}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Sparkline](/cells/python-net/aspose.cells.charts/sparkline) | The System.Object to locate. The value can be null. |
+| item | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [SparklineCollection](/cells/python-net/aspose.cells.charts/sparklinecollection)
+* module [`aspose.cells.charts`](../../)
+* class [`SparklineCollection`](/cells/python-net/aspose.cells.charts/sparklinecollection)

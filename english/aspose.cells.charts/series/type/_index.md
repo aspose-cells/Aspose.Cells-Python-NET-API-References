@@ -23,6 +23,6 @@ def type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartType](/cells/python-net/aspose.cells.charts/charttype)
-* class [Series](/cells/python-net/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartType`](/cells/python-net/aspose.cells.charts/charttype)
+* class [`Series`](/cells/python-net/aspose.cells.charts/series)

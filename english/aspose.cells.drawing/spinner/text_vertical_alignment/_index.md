@@ -34,6 +34,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Spinner](/cells/python-net/aspose.cells.drawing/spinner)
-* class [TextAlignmentType](/cells/python-net/aspose.cells/textalignmenttype)
+* module [`aspose.cells.drawing`](../../)
+* class [`Spinner`](/cells/python-net/aspose.cells.drawing/spinner)
+* class [`TextAlignmentType`](/cells/python-net/aspose.cells/textalignmenttype)

@@ -22,6 +22,6 @@ def color_scale(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ColorScale](/cells/python-net/aspose.cells/colorscale)
-* class [FormatCondition](/cells/python-net/aspose.cells/formatcondition)
+* module [`aspose.cells`](../../)
+* class [`ColorScale`](/cells/python-net/aspose.cells/colorscale)
+* class [`FormatCondition`](/cells/python-net/aspose.cells/formatcondition)

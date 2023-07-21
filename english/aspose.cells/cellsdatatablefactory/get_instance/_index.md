@@ -8,7 +8,7 @@ url: /aspose.cells/cellsdatatablefactory/get_instance/
 is_root: false
 ---
 
-## get_instance(collection) {#list}
+## get_instance {#list}
 
 Creates ICellsDataTable from given collection.
 
@@ -30,7 +30,7 @@ def get_instance(self, collection):
 | collection | list | the collection to build table |
 
 
-## get_instance(vals, column_names) {#list-list}
+## get_instance {#list-list}
 
 Creates ICellsDataTable from given sequence of int values.
 
@@ -53,7 +53,7 @@ def get_instance(self, vals, column_names):
 | column_names | list | Column names of the table.<br/>Its length can only be either 1(build table by the int values vertically)<br/>or length of the int values(build table by the int values horizontally) |
 
 
-## get_instance(vals, vertial) {#list-bool}
+## get_instance {#list-bool}
 
 Creates ICellsDataTable from given sequence of int values.
 
@@ -76,7 +76,7 @@ def get_instance(self, vals, vertial):
 | vertial | bool | whether build table by the int values vertiacally(true) or horizontally(false) |
 
 
-## get_instance(vals, column_names) {#list-list}
+## get_instance {#list-list}
 
 Creates ICellsDataTable from given sequence of double values.
 
@@ -99,7 +99,7 @@ def get_instance(self, vals, column_names):
 | column_names | list | Column names of the table.<br/>Its length can only be either 1(build table by the double values vertically)<br/>or length of the double values(build table by the double values horizontally) |
 
 
-## get_instance(vals, vertial) {#list-bool}
+## get_instance {#list-bool}
 
 Creates ICellsDataTable from given sequence of double values.
 
@@ -122,7 +122,7 @@ def get_instance(self, vals, vertial):
 | vertial | bool | whether build table by the double values vertiacally(true) or horizontally(false) |
 
 
-## get_instance(vals, column_names) {#list-list}
+## get_instance {#list-list}
 
 Creates ICellsDataTable from given sequence of objects.
 
@@ -145,7 +145,7 @@ def get_instance(self, vals, column_names):
 | column_names | list | Column names of the table.<br/>Its length can only be either 1(build table by the objects vertically)<br/>or length of the objects(build table by the objects horizontally) |
 
 
-## get_instance(vals, vertial) {#list-bool}
+## get_instance {#list-bool}
 
 Creates ICellsDataTable from given sequence of objects.
 
@@ -170,5 +170,5 @@ def get_instance(self, vals, vertial):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsDataTableFactory](/cells/python-net/aspose.cells/cellsdatatablefactory)
+* module [`aspose.cells`](../../)
+* class [`CellsDataTableFactory`](/cells/python-net/aspose.cells/cellsdatatablefactory)

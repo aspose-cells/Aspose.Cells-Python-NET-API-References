@@ -24,5 +24,5 @@ def is_resize_shape_to_fit_text(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartTextFrame](/cells/python-net/aspose.cells.charts/charttextframe)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe)

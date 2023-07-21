@@ -8,9 +8,9 @@ url: /aspose.cells/style/__init__/
 is_root: false
 ---
 
-## Style() {#}
+## __init__ {#}
 
-Initializes a new instance of the [Style](/cells/python-net/aspose.cells/style) class.
+Initializes a new instance of the [`Style`](/cells/python-net/aspose.cells/style) class.
 
 
 
@@ -29,5 +29,5 @@ Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)

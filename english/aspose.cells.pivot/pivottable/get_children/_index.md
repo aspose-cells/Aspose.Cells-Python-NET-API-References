@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/get_children/
 is_root: false
 ---
 
-## get_children() {#}
+## get_children {#}
 
 Gets the Children Pivot Tables which use this PivotTable data as data source.
 
@@ -29,5 +29,5 @@ def get_children(self):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

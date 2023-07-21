@@ -23,5 +23,5 @@ def font_name(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [Bullet](/cells/python-net/aspose.cells.drawing.texts/bullet)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`Bullet`](/cells/python-net/aspose.cells.drawing.texts/bullet)

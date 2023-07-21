@@ -29,6 +29,6 @@ def line(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LineFormat](/cells/python-net/aspose.cells.drawing/lineformat)
-* class [Shape](/cells/python-net/aspose.cells.drawing/shape)
+* module [`aspose.cells.drawing`](../../)
+* class [`LineFormat`](/cells/python-net/aspose.cells.drawing/lineformat)
+* class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)

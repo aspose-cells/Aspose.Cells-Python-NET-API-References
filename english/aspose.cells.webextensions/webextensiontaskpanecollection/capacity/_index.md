@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.webextensions](../../)
-* class [WebExtensionTaskPaneCollection](/cells/python-net/aspose.cells.webextensions/webextensiontaskpanecollection)
+* module [`aspose.cells.webextensions`](../../)
+* class [`WebExtensionTaskPaneCollection`](/cells/python-net/aspose.cells.webextensions/webextensiontaskpanecollection)

@@ -3,7 +3,7 @@ title: text_shape_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells.drawing.texts/shapetextalignment/text_shape_type/
 is_root: false
 ---
@@ -34,6 +34,6 @@ def text_shape_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [AutoShapeType](/cells/python-net/aspose.cells.drawing/autoshapetype)
-* class [ShapeTextAlignment](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`AutoShapeType`](/cells/python-net/aspose.cells.drawing/autoshapetype)
+* class [`ShapeTextAlignment`](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment)

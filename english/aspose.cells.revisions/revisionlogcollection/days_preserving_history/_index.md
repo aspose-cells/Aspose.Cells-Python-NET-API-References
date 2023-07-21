@@ -3,7 +3,7 @@ title: days_preserving_history property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.revisions/revisionlogcollection/days_preserving_history/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def days_preserving_history(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [RevisionLogCollection](/cells/python-net/aspose.cells.revisions/revisionlogcollection)
+* module [`aspose.cells.revisions`](../../)
+* class [`RevisionLogCollection`](/cells/python-net/aspose.cells.revisions/revisionlogcollection)

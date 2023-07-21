@@ -14,8 +14,8 @@ Represents the single TrueType font file stored in the file system.
 
 
 
-**Inheritance:** [FileFontSource](/cells/python-net/aspose.cells/filefontsource) → 
-[FontSourceBase](/cells/python-net/aspose.cells/fontsourcebase)
+**Inheritance:** [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource) → 
+[`FontSourceBase`](/cells/python-net/aspose.cells/fontsourcebase)
 
 
 
@@ -24,7 +24,7 @@ The FileFontSource type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FileFontSource(file_path)](/cells/python-net/aspose.cells/filefontsource/__init__/#str) | Ctor. |
+| [__init__](/cells/python-net/aspose.cells/filefontsource/__init__/#str) | Ctor. |
 
 
 ### Properties
@@ -36,6 +36,6 @@ The FileFontSource type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [FileFontSource](/cells/python-net/aspose.cells/filefontsource)
-* class [FontSourceBase](/cells/python-net/aspose.cells/fontsourcebase)
+* module [`aspose.cells`](..)
+* class [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource)
+* class [`FontSourceBase`](/cells/python-net/aspose.cells/fontsourcebase)

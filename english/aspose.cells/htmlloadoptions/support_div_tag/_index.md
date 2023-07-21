@@ -3,7 +3,7 @@ title: support_div_tag property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 380
 url: /aspose.cells/htmlloadoptions/support_div_tag/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def support_div_tag(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlLoadOptions](/cells/python-net/aspose.cells/htmlloadoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlLoadOptions`](/cells/python-net/aspose.cells/htmlloadoptions)

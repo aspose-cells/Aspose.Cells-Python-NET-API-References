@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [ExternalConnectionCollection](/cells/python-net/aspose.cells.externalconnections/externalconnectioncollection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`ExternalConnectionCollection`](/cells/python-net/aspose.cells.externalconnections/externalconnectioncollection)

@@ -23,5 +23,5 @@ def diagonal_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [BorderCollection](/cells/python-net/aspose.cells/bordercollection)
+* module [`aspose.cells`](../../)
+* class [`BorderCollection`](/cells/python-net/aspose.cells/bordercollection)

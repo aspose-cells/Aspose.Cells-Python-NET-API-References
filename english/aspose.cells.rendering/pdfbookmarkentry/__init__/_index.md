@@ -8,7 +8,7 @@ url: /aspose.cells.rendering/pdfbookmarkentry/__init__/
 is_root: false
 ---
 
-## PdfBookmarkEntry() {#}
+## __init__ {#}
 
 Constructs a new instance of PdfBookmarkEntry
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [PdfBookmarkEntry](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry)
+* module [`aspose.cells.rendering`](../../)
+* class [`PdfBookmarkEntry`](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry)

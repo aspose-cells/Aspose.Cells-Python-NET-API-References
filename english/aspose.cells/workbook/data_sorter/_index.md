@@ -20,6 +20,6 @@ def data_sorter(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataSorter](/cells/python-net/aspose.cells/datasorter)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`DataSorter`](/cells/python-net/aspose.cells/datasorter)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

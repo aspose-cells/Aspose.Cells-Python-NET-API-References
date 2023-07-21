@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdataprovider/is_gather_string/
 is_root: false
 ---
 
-## is_gather_string() {#}
+## is_gather_string {#}
 
 Checks whether the current string value of cell needs to be gathered into a global pool.
 
@@ -34,5 +34,5 @@ gathering string will cost more memory and time and has no advantage for the res
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LightCellsDataProvider](/cells/python-net/aspose.cells/lightcellsdataprovider)
+* module [`aspose.cells`](../../)
+* class [`LightCellsDataProvider`](/cells/python-net/aspose.cells/lightcellsdataprovider)

@@ -23,5 +23,5 @@ def font_size(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DefaultStyleSettings](/cells/python-net/aspose.cells/defaultstylesettings)
+* module [`aspose.cells`](../../)
+* class [`DefaultStyleSettings`](/cells/python-net/aspose.cells/defaultstylesettings)

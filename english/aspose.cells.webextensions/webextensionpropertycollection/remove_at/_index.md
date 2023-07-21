@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensionpropertycollection/remove_at/
 is_root: false
 ---
 
-## remove_at(name) {#str}
+## remove_at {#str}
 
 Remove the property by the name.
 
@@ -27,5 +27,5 @@ def remove_at(self, name):
 
 
 ### See Also
-* module [aspose.cells.webextensions](../../)
-* class [WebExtensionPropertyCollection](/cells/python-net/aspose.cells.webextensions/webextensionpropertycollection)
+* module [`aspose.cells.webextensions`](../../)
+* class [`WebExtensionPropertyCollection`](/cells/python-net/aspose.cells.webextensions/webextensionpropertycollection)

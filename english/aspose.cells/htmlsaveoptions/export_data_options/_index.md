@@ -23,6 +23,6 @@ def export_data_options(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlExportDataOptions](/cells/python-net/aspose.cells/htmlexportdataoptions)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlExportDataOptions`](/cells/python-net/aspose.cells/htmlexportdataoptions)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)

@@ -23,6 +23,6 @@ def data_display_format(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield)
-* class [PivotFieldDataDisplayFormat](/cells/python-net/aspose.cells.pivot/pivotfielddatadisplayformat)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)
+* class [`PivotFieldDataDisplayFormat`](/cells/python-net/aspose.cells.pivot/pivotfielddatadisplayformat)

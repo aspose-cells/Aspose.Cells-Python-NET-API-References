@@ -8,7 +8,7 @@ url: /aspose.cells/iexportobjectlistener/export_object/
 is_root: false
 ---
 
-## export_object(e) {#ExportObjectEvent}
+## export_object {#aspose.cells.ExportObjectEvent}
 
 Export one object.
 
@@ -30,10 +30,10 @@ def export_object(self, e):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| e | [ExportObjectEvent](/cells/python-net/aspose.cells/exportobjectevent) | The event triggered when one object needs to be exported. |
+| e | [`ExportObjectEvent`](/cells/python-net/aspose.cells/exportobjectevent) | The event triggered when one object needs to be exported. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IExportObjectListener](/cells/python-net/aspose.cells/iexportobjectlistener)
+* module [`aspose.cells`](../../)
+* class [`IExportObjectListener`](/cells/python-net/aspose.cells/iexportobjectlistener)

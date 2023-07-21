@@ -29,6 +29,6 @@ def hyperlink(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [DialogBox](/cells/python-net/aspose.cells.drawing/dialogbox)
-* class [Hyperlink](/cells/python-net/aspose.cells/hyperlink)
+* module [`aspose.cells.drawing`](../../)
+* class [`DialogBox`](/cells/python-net/aspose.cells.drawing/dialogbox)
+* class [`Hyperlink`](/cells/python-net/aspose.cells/hyperlink)

@@ -20,6 +20,6 @@ def outline(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [LineFormat](/cells/python-net/aspose.cells.drawing/lineformat)
-* class [TextOptions](/cells/python-net/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`LineFormat`](/cells/python-net/aspose.cells.drawing/lineformat)
+* class [`TextOptions`](/cells/python-net/aspose.cells.drawing.texts/textoptions)

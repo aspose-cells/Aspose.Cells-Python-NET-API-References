@@ -24,6 +24,6 @@ def cross_filter_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [SlicerCache](/cells/python-net/aspose.cells.slicers/slicercache)
-* class [SlicerCacheCrossFilterType](/cells/python-net/aspose.cells.slicers/slicercachecrossfiltertype)
+* module [`aspose.cells.slicers`](../../)
+* class [`SlicerCache`](/cells/python-net/aspose.cells.slicers/slicercache)
+* class [`SlicerCacheCrossFilterType`](/cells/python-net/aspose.cells.slicers/slicercachecrossfiltertype)

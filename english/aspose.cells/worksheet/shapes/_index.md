@@ -3,7 +3,7 @@ title: shapes property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 740
 url: /aspose.cells/worksheet/shapes/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def shapes(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

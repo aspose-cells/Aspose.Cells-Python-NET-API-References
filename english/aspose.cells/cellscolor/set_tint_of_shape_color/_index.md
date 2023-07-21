@@ -8,7 +8,7 @@ url: /aspose.cells/cellscolor/set_tint_of_shape_color/
 is_root: false
 ---
 
-## set_tint_of_shape_color(tint) {#float}
+## set_tint_of_shape_color {#float}
 
 Set the tint of the shape color
 
@@ -27,5 +27,5 @@ def set_tint_of_shape_color(self, tint):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsColor](/cells/python-net/aspose.cells/cellscolor)
+* module [`aspose.cells`](../../)
+* class [`CellsColor`](/cells/python-net/aspose.cells/cellscolor)

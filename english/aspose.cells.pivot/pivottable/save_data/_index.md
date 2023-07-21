@@ -3,7 +3,7 @@ title: save_data property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 870
+weight: 890
 url: /aspose.cells.pivot/pivottable/save_data/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def save_data(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

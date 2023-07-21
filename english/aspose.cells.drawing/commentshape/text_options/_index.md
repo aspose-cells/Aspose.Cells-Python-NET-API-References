@@ -35,6 +35,6 @@ def text_options(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CommentShape](/cells/python-net/aspose.cells.drawing/commentshape)
-* class [TextOptions](/cells/python-net/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.drawing`](../../)
+* class [`CommentShape`](/cells/python-net/aspose.cells.drawing/commentshape)
+* class [`TextOptions`](/cells/python-net/aspose.cells.drawing.texts/textoptions)

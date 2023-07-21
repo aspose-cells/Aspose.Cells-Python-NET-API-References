@@ -3,7 +3,7 @@ title: create_directory property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 80
 url: /aspose.cells/docxsaveoptions/create_directory/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def create_directory(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DocxSaveOptions](/cells/python-net/aspose.cells/docxsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`DocxSaveOptions`](/cells/python-net/aspose.cells/docxsaveoptions)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/picturecollection/add/
 is_root: false
 ---
 
-## add(upper_left_row, upper_left_column, stream) {#int-int-io.RawIOBase}
+## add {#int-int-io.RawIOBase}
 
 Adds a picture to the collection.
 
@@ -16,7 +16,7 @@ Adds a picture to the collection.
 ### Returns 
 
 
-[Picture](/cells/python-net/aspose.cells.drawing/picture) object index.
+[`Picture`](/cells/python-net/aspose.cells.drawing/picture) object index.
 
 
 ```python
@@ -43,7 +43,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add(upper_left_row, upper_left_column, file_name) {#int-int-str}
+## add {#int-int-str}
 
 Adds a picture to the collection.
 
@@ -51,7 +51,7 @@ Adds a picture to the collection.
 ### Returns 
 
 
-[Picture](/cells/python-net/aspose.cells.drawing/picture) object index.
+[`Picture`](/cells/python-net/aspose.cells.drawing/picture) object index.
 
 
 ```python
@@ -77,7 +77,7 @@ pictures.add(1, 1, "image.jpg")
 ```
 
 
-## add(upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
+## add {#int-int-int-int-io.RawIOBase}
 
 Adds a picture to the collection.
 
@@ -85,7 +85,7 @@ Adds a picture to the collection.
 ### Returns 
 
 
-[Picture](/cells/python-net/aspose.cells.drawing/picture) object index.
+[`Picture`](/cells/python-net/aspose.cells.drawing/picture) object index.
 
 
 ```python
@@ -114,7 +114,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add(upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name) {#int-int-int-int-str}
+## add {#int-int-int-int-str}
 
 Adds a picture to the collection.
 
@@ -122,7 +122,7 @@ Adds a picture to the collection.
 ### Returns 
 
 
-[Picture](/cells/python-net/aspose.cells.drawing/picture) object index.
+[`Picture`](/cells/python-net/aspose.cells.drawing/picture) object index.
 
 
 ```python
@@ -150,7 +150,7 @@ pictures.add(1, 1, 5, 5, "image.jpg")
 ```
 
 
-## add(upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+## add {#int-int-io.RawIOBase-int-int}
 
 Adds a picture to the collection.
 
@@ -158,7 +158,7 @@ Adds a picture to the collection.
 ### Returns 
 
 
-[Picture](/cells/python-net/aspose.cells.drawing/picture) object index.
+[`Picture`](/cells/python-net/aspose.cells.drawing/picture) object index.
 
 
 ```python
@@ -187,7 +187,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add(upper_left_row, upper_left_column, file_name, width_scale, height_scale) {#int-int-str-int-int}
+## add {#int-int-str-int-int}
 
 Adds a picture to the collection.
 
@@ -195,7 +195,7 @@ Adds a picture to the collection.
 ### Returns 
 
 
-[Picture](/cells/python-net/aspose.cells.drawing/picture) object index.
+[`Picture`](/cells/python-net/aspose.cells.drawing/picture) object index.
 
 
 ```python
@@ -225,6 +225,6 @@ pictures.add(1, 1, "image.jpg", 50, 50)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
-* class [PictureCollection](/cells/python-net/aspose.cells.drawing/picturecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)
+* class [`PictureCollection`](/cells/python-net/aspose.cells.drawing/picturecollection)

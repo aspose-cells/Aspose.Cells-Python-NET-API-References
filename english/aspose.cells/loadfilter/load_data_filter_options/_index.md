@@ -23,6 +23,6 @@ def load_data_filter_options(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LoadDataFilterOptions](/cells/python-net/aspose.cells/loaddatafilteroptions)
-* class [LoadFilter](/cells/python-net/aspose.cells/loadfilter)
+* module [`aspose.cells`](../../)
+* class [`LoadDataFilterOptions`](/cells/python-net/aspose.cells/loaddatafilteroptions)
+* class [`LoadFilter`](/cells/python-net/aspose.cells/loadfilter)

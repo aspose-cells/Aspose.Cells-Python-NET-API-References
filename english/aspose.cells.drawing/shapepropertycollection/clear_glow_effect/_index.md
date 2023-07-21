@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapepropertycollection/clear_glow_effect/
 is_root: false
 ---
 
-## clear_glow_effect() {#}
+## clear_glow_effect {#}
 
 Clears the glow effect of the shape.
 
@@ -24,5 +24,5 @@ def clear_glow_effect(self):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePropertyCollection](/cells/python-net/aspose.cells.drawing/shapepropertycollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePropertyCollection`](/cells/python-net/aspose.cells.drawing/shapepropertycollection)

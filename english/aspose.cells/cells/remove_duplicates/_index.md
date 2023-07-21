@@ -8,7 +8,7 @@ url: /aspose.cells/cells/remove_duplicates/
 is_root: false
 ---
 
-## remove_duplicates() {#}
+## remove_duplicates {#}
 
 Removes duplicate rows in the sheet.
 
@@ -22,7 +22,7 @@ def remove_duplicates(self):
 
 
 
-## remove_duplicates(start_row, start_column, end_row, end_column) {#int-int-int-int}
+## remove_duplicates {#int-int-int-int}
 
 Removes duplicate values in the range.
 
@@ -42,7 +42,7 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column):
 | end_column | int | The end column index. |
 
 
-## remove_duplicates(start_row, start_column, end_row, end_column, has_headers, column_offsets) {#int-int-int-int-bool-list}
+## remove_duplicates {#int-int-int-int-bool-list}
 
 Removes duplicate data of the range.
 
@@ -66,5 +66,5 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column, has_he
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

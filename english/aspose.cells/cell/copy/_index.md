@@ -8,7 +8,7 @@ url: /aspose.cells/cell/copy/
 is_root: false
 ---
 
-## copy(cell) {#Cell}
+## copy {#aspose.cells.Cell}
 
 Copies data from a source cell.
 
@@ -22,10 +22,10 @@ def copy(self, cell):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell | [Cell](/cells/python-net/aspose.cells/cell) | Source [Cell](/cells/python-net/aspose.cells/cell) object. |
+| cell | [`Cell`](/cells/python-net/aspose.cells/cell) | Source [`Cell`](/cells/python-net/aspose.cells/cell) object. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

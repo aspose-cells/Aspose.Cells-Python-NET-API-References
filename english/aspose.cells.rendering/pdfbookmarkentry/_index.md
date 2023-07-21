@@ -21,7 +21,7 @@ The PdfBookmarkEntry type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PdfBookmarkEntry()](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Constructs a new instance of PdfBookmarkEntry |
+| [__init__](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Constructs a new instance of PdfBookmarkEntry |
 
 
 ### Properties
@@ -72,4 +72,4 @@ workbook.save("output_bookmark.pdf", saveOptions)
 ```
 
 ### See Also
-* module [aspose.cells.rendering](..)
+* module [`aspose.cells.rendering`](..)

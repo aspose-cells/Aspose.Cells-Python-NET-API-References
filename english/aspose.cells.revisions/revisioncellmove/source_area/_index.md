@@ -20,6 +20,6 @@ def source_area(self):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
-* class [RevisionCellMove](/cells/python-net/aspose.cells.revisions/revisioncellmove)
+* module [`aspose.cells.revisions`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)
+* class [`RevisionCellMove`](/cells/python-net/aspose.cells.revisions/revisioncellmove)

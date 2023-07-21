@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get/
 is_root: false
 ---
 
-## get(cell_name) {#str}
+## get {#str}
 
 Add API for Python Via .Net.since this[string cellName] is unsupported
 
@@ -16,7 +16,7 @@ Add API for Python Via .Net.since this[string cellName] is unsupported
 ### Returns 
 
 
-A [Cell](/cells/python-net/aspose.cells/cell) object
+A [`Cell`](/cells/python-net/aspose.cells/cell) object
 
 
 ```python
@@ -30,7 +30,7 @@ def get(self, cell_name):
 | cell_name | str | Cell name,including its column letter and row number, for example A5. |
 
 
-## get(row, column) {#int-int}
+## get {#int-int}
 
 Add API for Python Via .Net.since this[int row, int column] is unsupported
 
@@ -38,7 +38,7 @@ Add API for Python Via .Net.since this[int row, int column] is unsupported
 ### Returns 
 
 
-The [Cell](/cells/python-net/aspose.cells/cell) object.
+The [`Cell`](/cells/python-net/aspose.cells/cell) object.
 
 
 ```python
@@ -55,6 +55,6 @@ def get(self, row, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

@@ -32,5 +32,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LineShape](/cells/python-net/aspose.cells.drawing/lineshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`LineShape`](/cells/python-net/aspose.cells.drawing/lineshape)

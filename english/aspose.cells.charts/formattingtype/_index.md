@@ -10,7 +10,7 @@ is_root: false
 
 ## FormattingType enumeration
 
-Represents the type of formatting applied to an [Area](/cells/python-net/aspose.cells.drawing/area) object or a [Line](/cells/python-net/aspose.cells.drawing/line) object.
+Represents the type of formatting applied to an [`Area`](/cells/python-net/aspose.cells.drawing/area) object or a [`Line`](/cells/python-net/aspose.cells.drawing/line) object.
 
 
 
@@ -26,6 +26,6 @@ The FormattingType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.charts](..)
-* class [Area](/cells/python-net/aspose.cells.drawing/area)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
+* module [`aspose.cells.charts`](..)
+* class [`Area`](/cells/python-net/aspose.cells.drawing/area)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)

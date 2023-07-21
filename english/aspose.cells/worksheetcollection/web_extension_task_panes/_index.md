@@ -20,6 +20,6 @@ def web_extension_task_panes(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WebExtensionTaskPaneCollection](/cells/python-net/aspose.cells.webextensions/webextensiontaskpanecollection)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`WebExtensionTaskPaneCollection`](/cells/python-net/aspose.cells.webextensions/webextensiontaskpanecollection)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

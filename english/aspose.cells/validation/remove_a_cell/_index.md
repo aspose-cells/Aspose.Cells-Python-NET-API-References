@@ -8,7 +8,7 @@ url: /aspose.cells/validation/remove_a_cell/
 is_root: false
 ---
 
-## remove_a_cell(row, column) {#int-int}
+## remove_a_cell {#int-int}
 
 Remove the validation settings in the cell.
 
@@ -28,5 +28,5 @@ def remove_a_cell(self, row, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Validation](/cells/python-net/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* class [`Validation`](/cells/python-net/aspose.cells/validation)

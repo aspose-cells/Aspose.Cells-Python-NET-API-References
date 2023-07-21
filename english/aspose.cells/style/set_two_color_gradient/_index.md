@@ -8,7 +8,7 @@ url: /aspose.cells/style/set_two_color_gradient/
 is_root: false
 ---
 
-## set_two_color_gradient(color1, color2, gradient_style_type, variant) {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
+## set_two_color_gradient {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
 
 Sets the specified fill to a two-color gradient.
 
@@ -30,5 +30,5 @@ def set_two_color_gradient(self, color1, color2, gradient_style_type, variant):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)

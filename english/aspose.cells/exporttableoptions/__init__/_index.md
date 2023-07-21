@@ -8,7 +8,7 @@ url: /aspose.cells/exporttableoptions/__init__/
 is_root: false
 ---
 
-## ExportTableOptions() {#}
+## __init__ {#}
 
 Constructs a new instance of ExportTableOptions
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ExportTableOptions](/cells/python-net/aspose.cells/exporttableoptions)
+* module [`aspose.cells`](../../)
+* class [`ExportTableOptions`](/cells/python-net/aspose.cells/exporttableoptions)

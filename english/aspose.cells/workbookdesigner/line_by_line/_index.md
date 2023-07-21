@@ -29,5 +29,5 @@ def line_by_line(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorkbookDesigner](/cells/python-net/aspose.cells/workbookdesigner)
+* module [`aspose.cells`](../../)
+* class [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner)

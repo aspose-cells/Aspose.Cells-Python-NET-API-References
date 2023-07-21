@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/get_theme_color/
 is_root: false
 ---
 
-## get_theme_color(type) {#ThemeColorType}
+## get_theme_color {#aspose.cells.ThemeColorType}
 
 Gets theme color.
 
@@ -27,10 +27,10 @@ def get_theme_color(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [ThemeColorType](/cells/python-net/aspose.cells/themecolortype) | The theme color type. |
+| type | [`ThemeColorType`](/cells/python-net/aspose.cells/themecolortype) | The theme color type. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

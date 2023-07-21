@@ -29,4 +29,4 @@ The PropertyType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.properties](..)
+* module [`aspose.cells.properties`](..)

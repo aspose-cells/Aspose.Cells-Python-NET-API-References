@@ -30,6 +30,6 @@ def text_body(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CheckBox](/cells/python-net/aspose.cells.drawing/checkbox)
-* class [FontSettingCollection](/cells/python-net/aspose.cells.drawing.texts/fontsettingcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox)
+* class [`FontSettingCollection`](/cells/python-net/aspose.cells.drawing.texts/fontsettingcollection)

@@ -19,7 +19,7 @@ Represents the horizontal offset of shape from its left column, in unit of inche
 ```python
 
 if shape.left_inch == 3:
-    shape.left_inch = 1
+    shape.left_inch = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def left_inch(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CustomXmlShape](/cells/python-net/aspose.cells.drawing/customxmlshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`CustomXmlShape`](/cells/python-net/aspose.cells.drawing/customxmlshape)

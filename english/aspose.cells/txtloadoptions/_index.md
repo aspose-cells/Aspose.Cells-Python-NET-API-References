@@ -3,7 +3,7 @@ title: TxtLoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1510
+weight: 1560
 url: /aspose.cells/txtloadoptions/
 is_root: false
 ---
@@ -14,9 +14,9 @@ Represents the options for loading text file.
 
 
 
-**Inheritance:** [TxtLoadOptions](/cells/python-net/aspose.cells/txtloadoptions) → 
-[AbstractTextLoadOptions](/cells/python-net/aspose.cells/abstracttextloadoptions) → 
-[LoadOptions](/cells/python-net/aspose.cells/loadoptions)
+**Inheritance:** [`TxtLoadOptions`](/cells/python-net/aspose.cells/txtloadoptions) → 
+[`AbstractTextLoadOptions`](/cells/python-net/aspose.cells/abstracttextloadoptions) → 
+[`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
 
 
 
@@ -25,8 +25,8 @@ The TxtLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TxtLoadOptions()](/cells/python-net/aspose.cells/txtloadoptions/__init__/#) | Creates the options for loading text file. |
-| [TxtLoadOptions(load_format)](/cells/python-net/aspose.cells/txtloadoptions/__init__/#LoadFormat) | Creates the options for loading text file. |
+| [__init__](/cells/python-net/aspose.cells/txtloadoptions/__init__/#) | Creates the options for loading text file. |
+| [__init__](/cells/python-net/aspose.cells/txtloadoptions/__init__/#aspose.cells.LoadFormat) | Creates the options for loading text file. |
 
 
 ### Properties
@@ -52,7 +52,8 @@ The TxtLoadOptions type exposes the following members:
 | [warning_callback](/cells/python-net/aspose.cells/txtloadoptions/warning_callback) | Gets or sets warning callback. |
 | [auto_fitter_options](/cells/python-net/aspose.cells/txtloadoptions/auto_fitter_options) | Gets and sets the auto fitter options |
 | [auto_filter](/cells/python-net/aspose.cells/txtloadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
-| [font_configs](/cells/python-net/aspose.cells/txtloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [Workbook](/cells/python-net/aspose.cells/workbook) which uses this [LoadOptions](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [font_configs](/cells/python-net/aspose.cells/txtloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [ignore_useless_shapes](/cells/python-net/aspose.cells/txtloadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
 | [encoding](/cells/python-net/aspose.cells/txtloadoptions/encoding) | Gets and sets the default encoding. Only applies for csv file. |
 | [load_style_strategy](/cells/python-net/aspose.cells/txtloadoptions/load_style_strategy) | Indicates the strategy to apply style for parsed values when converting string value to number or datetime. |
 | [convert_numeric_data](/cells/python-net/aspose.cells/txtloadoptions/convert_numeric_data) | Gets or sets a value that indicates whether the string in text file is converted to numeric data. |
@@ -66,20 +67,20 @@ The TxtLoadOptions type exposes the following members:
 | [has_text_qualifier](/cells/python-net/aspose.cells/txtloadoptions/has_text_qualifier) | Whether there is text qualifier for cell value. Default is true. |
 | [text_qualifier](/cells/python-net/aspose.cells/txtloadoptions/text_qualifier) | Specifies the text qualifier for cell values. Default qualifier is '"'. |
 | [treat_consecutive_delimiters_as_one](/cells/python-net/aspose.cells/txtloadoptions/treat_consecutive_delimiters_as_one) | Whether consecutive delimiters should be treated as one. |
-| [treat_quote_prefix_as_value](/cells/python-net/aspose.cells/txtloadoptions/treat_quote_prefix_as_value) | Indicates whether the leading single quote sign should be taken as part of the value of one cell.<br/>Default is true. If it is false, the leading single quote will be removed from corresponding cell's value<br/>and [Style.quote_prefix](/cells/python-net/aspose.cells/style#quote_prefix) will be set as true for the cell. |
+| [treat_quote_prefix_as_value](/cells/python-net/aspose.cells/txtloadoptions/treat_quote_prefix_as_value) | Indicates whether the leading single quote sign should be taken as part of the value of one cell.<br/>Default is true. If it is false, the leading single quote will be removed from corresponding cell's value<br/>and [`Style.quote_prefix`](/cells/python-net/aspose.cells/style#quote_prefix) will be set as true for the cell. |
 | [extend_to_next_sheet](/cells/python-net/aspose.cells/txtloadoptions/extend_to_next_sheet) | Whether extends data to next sheet when the rows or columns of data exceed limit.<br/>If this property is true, extra data will be extended to next sheet behind current one(if current sheet is the last one,<br/>new sheet will be appended to current workbook).<br/>If this property is false, the data exceeds limit will be ignored.<br/>Default is false; |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_paper_size(type)](/cells/python-net/aspose.cells/txtloadoptions/set_paper_size/#PaperSizeType) | Sets the default print paper size from default printer's setting. |
+| [set_paper_size](/cells/python-net/aspose.cells/txtloadoptions/set_paper_size/#aspose.cells.PaperSizeType) | Sets the default print paper size from default printer's setting. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [AbstractTextLoadOptions](/cells/python-net/aspose.cells/abstracttextloadoptions)
-* class [LoadOptions](/cells/python-net/aspose.cells/loadoptions)
-* class [TxtLoadOptions](/cells/python-net/aspose.cells/txtloadoptions)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](..)
+* class [`AbstractTextLoadOptions`](/cells/python-net/aspose.cells/abstracttextloadoptions)
+* class [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
+* class [`TxtLoadOptions`](/cells/python-net/aspose.cells/txtloadoptions)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

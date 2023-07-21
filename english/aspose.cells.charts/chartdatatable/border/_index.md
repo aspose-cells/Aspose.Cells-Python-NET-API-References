@@ -20,6 +20,6 @@ def border(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartDataTable](/cells/python-net/aspose.cells.charts/chartdatatable)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartDataTable`](/cells/python-net/aspose.cells.charts/chartdatatable)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)

@@ -23,5 +23,5 @@ def is_text_no_fill(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [LegendEntry](/cells/python-net/aspose.cells.charts/legendentry)
+* module [`aspose.cells.charts`](../../)
+* class [`LegendEntry`](/cells/python-net/aspose.cells.charts/legendentry)

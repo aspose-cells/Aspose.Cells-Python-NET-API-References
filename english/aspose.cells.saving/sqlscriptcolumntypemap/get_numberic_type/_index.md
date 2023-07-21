@@ -8,7 +8,7 @@ url: /aspose.cells.saving/sqlscriptcolumntypemap/get_numberic_type/
 is_root: false
 ---
 
-## get_numberic_type() {#}
+## get_numberic_type {#}
 
 Gets numeric type in the database.
 
@@ -29,5 +29,5 @@ def get_numberic_type(self):
 
 
 ### See Also
-* module [aspose.cells.saving](../../)
-* class [SqlScriptColumnTypeMap](/cells/python-net/aspose.cells.saving/sqlscriptcolumntypemap)
+* module [`aspose.cells.saving`](../../)
+* class [`SqlScriptColumnTypeMap`](/cells/python-net/aspose.cells.saving/sqlscriptcolumntypemap)

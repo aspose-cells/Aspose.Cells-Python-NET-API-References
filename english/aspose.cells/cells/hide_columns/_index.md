@@ -8,7 +8,7 @@ url: /aspose.cells/cells/hide_columns/
 is_root: false
 ---
 
-## hide_columns(column, total_columns) {#int-int}
+## hide_columns {#int-int}
 
 Hide multiple columns.
 
@@ -28,5 +28,5 @@ def hide_columns(self, column, total_columns):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

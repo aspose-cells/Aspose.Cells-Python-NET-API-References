@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get_row_height_pixel/
 is_root: false
 ---
 
-## get_row_height_pixel(row) {#int}
+## get_row_height_pixel {#int}
 
 Gets the height of a specified row in unit of pixel.
 
@@ -32,5 +32,5 @@ def get_row_height_pixel(self, row):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

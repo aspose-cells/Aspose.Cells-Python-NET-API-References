@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/refresh_pivot_tables/
 is_root: false
 ---
 
-## refresh_pivot_tables() {#}
+## refresh_pivot_tables {#}
 
 Refreshes all the PivotTables in the WorksheetCollection.
 
@@ -24,5 +24,5 @@ def refresh_pivot_tables(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

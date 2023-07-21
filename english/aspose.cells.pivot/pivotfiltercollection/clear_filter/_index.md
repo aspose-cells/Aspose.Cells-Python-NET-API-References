@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfiltercollection/clear_filter/
 is_root: false
 ---
 
-## clear_filter(field_index) {#int}
+## clear_filter {#int}
 
 Clear PivotFilter from the specific PivotField
 
@@ -27,5 +27,5 @@ def clear_filter(self, field_index):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFilterCollection](/cells/python-net/aspose.cells.pivot/pivotfiltercollection)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFilterCollection`](/cells/python-net/aspose.cells.pivot/pivotfiltercollection)

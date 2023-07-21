@@ -28,6 +28,6 @@ def compression_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [OoxmlCompressionType](/cells/python-net/aspose.cells/ooxmlcompressiontype)
-* class [OoxmlSaveOptions](/cells/python-net/aspose.cells/ooxmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`OoxmlCompressionType`](/cells/python-net/aspose.cells/ooxmlcompressiontype)
+* class [`OoxmlSaveOptions`](/cells/python-net/aspose.cells/ooxmlsaveoptions)

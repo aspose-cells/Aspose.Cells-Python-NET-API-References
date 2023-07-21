@@ -12,7 +12,7 @@ is_root: false
 
 
 Whether the cell's value has been changed after the calculation.
-Should be used only in [AbstractCalculationMonitor.after_calculate(sheet_index, row_index, col_index)](/cells/python-net/aspose.cells/abstractcalculationmonitor/after_calculate).
+Should be used only in [`AbstractCalculationMonitor.after_calculate`](/cells/python-net/aspose.cells/abstractcalculationmonitor/after_calculate).
 ### Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value_changed(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractCalculationMonitor](/cells/python-net/aspose.cells/abstractcalculationmonitor)
+* module [`aspose.cells`](../../)
+* class [`AbstractCalculationMonitor`](/cells/python-net/aspose.cells/abstractcalculationmonitor)

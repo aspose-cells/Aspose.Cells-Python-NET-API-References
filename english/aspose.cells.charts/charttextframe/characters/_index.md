@@ -8,7 +8,7 @@ url: /aspose.cells.charts/charttextframe/characters/
 is_root: false
 ---
 
-## characters(start_index, length) {#int-int}
+## characters {#int-int}
 
 Returns a Characters object that represents a range of characters within the text.
 
@@ -33,5 +33,5 @@ def characters(self, start_index, length):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartTextFrame](/cells/python-net/aspose.cells.charts/charttextframe)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe)

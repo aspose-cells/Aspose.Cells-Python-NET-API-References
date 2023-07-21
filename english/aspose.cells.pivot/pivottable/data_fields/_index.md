@@ -3,7 +3,7 @@ title: data_fields property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 430
 url: /aspose.cells.pivot/pivottable/data_fields/
 is_root: false
 ---
@@ -22,6 +22,6 @@ def data_fields(self):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFieldCollection](/cells/python-net/aspose.cells.pivot/pivotfieldcollection)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFieldCollection`](/cells/python-net/aspose.cells.pivot/pivotfieldcollection)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

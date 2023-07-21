@@ -8,7 +8,7 @@ url: /aspose.cells.tables/listcolumn/get_custom_totals_row_formula/
 is_root: false
 ---
 
-## get_custom_totals_row_formula(is_r1c1, is_local) {#bool-bool}
+## get_custom_totals_row_formula {#bool-bool}
 
 Gets the formula of totals row of this list column.
 
@@ -33,5 +33,5 @@ def get_custom_totals_row_formula(self, is_r1c1, is_local):
 
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListColumn](/cells/python-net/aspose.cells.tables/listcolumn)
+* module [`aspose.cells.tables`](../../)
+* class [`ListColumn`](/cells/python-net/aspose.cells.tables/listcolumn)

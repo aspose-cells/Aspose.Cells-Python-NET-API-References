@@ -29,6 +29,6 @@ def group(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Button](/cells/python-net/aspose.cells.drawing/button)
-* class [GroupShape](/cells/python-net/aspose.cells.drawing/groupshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`Button`](/cells/python-net/aspose.cells.drawing/button)
+* class [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape)

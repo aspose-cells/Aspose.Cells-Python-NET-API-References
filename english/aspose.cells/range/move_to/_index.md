@@ -8,7 +8,7 @@ url: /aspose.cells/range/move_to/
 is_root: false
 ---
 
-## move_to(dest_row, dest_column) {#int-int}
+## move_to {#int-int}
 
 Move the current range to the dest range.
 
@@ -28,5 +28,5 @@ def move_to(self, dest_row, dest_column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`Range`](/cells/python-net/aspose.cells/range)

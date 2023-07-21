@@ -30,6 +30,6 @@ def text_body(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Button](/cells/python-net/aspose.cells.drawing/button)
-* class [FontSettingCollection](/cells/python-net/aspose.cells.drawing.texts/fontsettingcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`Button`](/cells/python-net/aspose.cells.drawing/button)
+* class [`FontSettingCollection`](/cells/python-net/aspose.cells.drawing.texts/fontsettingcollection)

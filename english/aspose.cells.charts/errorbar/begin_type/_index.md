@@ -23,6 +23,6 @@ def begin_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ErrorBar](/cells/python-net/aspose.cells.charts/errorbar)
-* class [MsoArrowheadStyle](/cells/python-net/aspose.cells.drawing/msoarrowheadstyle)
+* module [`aspose.cells.charts`](../../)
+* class [`ErrorBar`](/cells/python-net/aspose.cells.charts/errorbar)
+* class [`MsoArrowheadStyle`](/cells/python-net/aspose.cells.drawing/msoarrowheadstyle)

@@ -3,7 +3,7 @@ title: alternative_text property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells.tables/listobject/alternative_text/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def alternative_text(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListObject](/cells/python-net/aspose.cells.tables/listobject)
+* module [`aspose.cells.tables`](../../)
+* class [`ListObject`](/cells/python-net/aspose.cells.tables/listobject)

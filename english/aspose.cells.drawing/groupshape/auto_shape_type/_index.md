@@ -3,7 +3,7 @@ title: auto_shape_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells.drawing/groupshape/auto_shape_type/
 is_root: false
 ---
@@ -34,6 +34,6 @@ def auto_shape_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [AutoShapeType](/cells/python-net/aspose.cells.drawing/autoshapetype)
-* class [GroupShape](/cells/python-net/aspose.cells.drawing/groupshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`AutoShapeType`](/cells/python-net/aspose.cells.drawing/autoshapetype)
+* class [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape)

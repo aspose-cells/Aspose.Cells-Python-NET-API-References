@@ -23,7 +23,7 @@ The TextParagraphCollection type exposes the following members:
 
 
 
-Gets the [TextParagraph](/cells/python-net/aspose.cells.drawing.texts/textparagraph) object at specific index.
+Gets the [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textparagraph) object at specific index.
 ### Indexer
 | Name | Description |
 | :- | :- |
@@ -33,10 +33,10 @@ Gets the [TextParagraph](/cells/python-net/aspose.cells.drawing.texts/textparagr
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_enumerator()](/cells/python-net/aspose.cells.drawing.texts/textparagraphcollection/get_enumerator/#) | Gets the enumerator of the paragraphs. |
+| [get_enumerator](/cells/python-net/aspose.cells.drawing.texts/textparagraphcollection/get_enumerator/#) | Gets the enumerator of the paragraphs. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](..)
-* class [TextParagraph](/cells/python-net/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](..)
+* class [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textparagraph)

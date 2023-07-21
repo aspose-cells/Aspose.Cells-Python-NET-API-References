@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/gradientstopcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#GradientStop}
+## binary_search {#aspose.cells.drawing.GradientStop}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [GradientStop](/cells/python-net/aspose.cells.drawing/gradientstop) | The System.Object to locate. The value can be null. |
+| item | [`GradientStop`](/cells/python-net/aspose.cells.drawing/gradientstop) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GradientStopCollection](/cells/python-net/aspose.cells.drawing/gradientstopcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`GradientStopCollection`](/cells/python-net/aspose.cells.drawing/gradientstopcollection)

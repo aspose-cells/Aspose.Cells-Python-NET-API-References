@@ -29,5 +29,5 @@ def list(self):
 ```
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [SlicerCache](/cells/python-net/aspose.cells.slicers/slicercache)
+* module [`aspose.cells.slicers`](../../)
+* class [`SlicerCache`](/cells/python-net/aspose.cells.slicers/slicercache)

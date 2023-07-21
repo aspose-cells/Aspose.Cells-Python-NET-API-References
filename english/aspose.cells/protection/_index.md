@@ -3,7 +3,7 @@ title: Protection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1220
+weight: 1240
 url: /aspose.cells/protection/
 is_root: false
 ---
@@ -58,9 +58,9 @@ The Protection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [copy(source)](/cells/python-net/aspose.cells/protection/copy/#Protection) | Copy protection info. |
-| [get_password_hash()](/cells/python-net/aspose.cells/protection/get_password_hash/#) | Gets the hash of current password. |
-| [verify_password(password)](/cells/python-net/aspose.cells/protection/verify_password/#str) | Verifies password. |
+| [copy](/cells/python-net/aspose.cells/protection/copy/#aspose.cells.Protection) | Copy protection info. |
+| [get_password_hash](/cells/python-net/aspose.cells/protection/get_password_hash/#) | Gets the hash of current password. |
+| [verify_password](/cells/python-net/aspose.cells/protection/verify_password/#str) | Verifies password. |
 
 
 
@@ -81,4 +81,4 @@ worksheet.protection.allow_selecting_unlocked_cell = True
 ```
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

@@ -23,6 +23,6 @@ def high_point_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [CellsColor](/cells/python-net/aspose.cells/cellscolor)
-* class [SparklineGroup](/cells/python-net/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* class [`CellsColor`](/cells/python-net/aspose.cells/cellscolor)
+* class [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup)

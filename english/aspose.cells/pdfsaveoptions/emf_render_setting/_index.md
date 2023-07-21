@@ -18,8 +18,8 @@ Setting for rendering Emf metafile.
 
 EMF metafiles identified as "EMF+ Dual" can contain both EMF+ records and EMF records. 
 Either type of record can be used to render the image, only EMF+ records, or only EMF records.
-When [EmfRenderSetting.EMF_PLUS_PREFER](/cells/python-net/aspose.cells/emfrendersetting#EMF_PLUS_PREFER) is set, then EMF+ records will be parsed while rendering to pdf, otherwise only EMF records will be parsed.
-Default value is [EmfRenderSetting.EMF_ONLY](/cells/python-net/aspose.cells/emfrendersetting#EMF_ONLY).
+When [`EmfRenderSetting.EMF_PLUS_PREFER`](/cells/python-net/aspose.cells/emfrendersetting#EMF_PLUS_PREFER) is set, then EMF+ records will be parsed while rendering to pdf, otherwise only EMF records will be parsed.
+Default value is [`EmfRenderSetting.EMF_ONLY`](/cells/python-net/aspose.cells/emfrendersetting#EMF_ONLY).
 ### Definition:
 ```python
 @property
@@ -31,6 +31,6 @@ def emf_render_setting(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [EmfRenderSetting](/cells/python-net/aspose.cells/emfrendersetting)
-* class [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`EmfRenderSetting`](/cells/python-net/aspose.cells/emfrendersetting)
+* class [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions)

@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/is_color_in_palette/
 is_root: false
 ---
 
-## is_color_in_palette(color) {#aspose.pydrawing.Color}
+## is_color_in_palette {#aspose.pydrawing.Color}
 
 Checks if a color is in the palette for the spreadsheet.
 
@@ -32,5 +32,5 @@ def is_color_in_palette(self, color):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

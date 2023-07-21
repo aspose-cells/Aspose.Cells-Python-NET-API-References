@@ -14,8 +14,8 @@ Info for a page starts saving process.
 
 
 
-**Inheritance:** [PageStartSavingArgs](/cells/python-net/aspose.cells.rendering/pagestartsavingargs) → 
-[PageSavingArgs](/cells/python-net/aspose.cells.rendering/pagesavingargs)
+**Inheritance:** [`PageStartSavingArgs`](/cells/python-net/aspose.cells.rendering/pagestartsavingargs) → 
+[`PageSavingArgs`](/cells/python-net/aspose.cells.rendering/pagesavingargs)
 
 
 
@@ -31,6 +31,6 @@ The PageStartSavingArgs type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.rendering](..)
-* class [PageSavingArgs](/cells/python-net/aspose.cells.rendering/pagesavingargs)
-* class [PageStartSavingArgs](/cells/python-net/aspose.cells.rendering/pagestartsavingargs)
+* module [`aspose.cells.rendering`](..)
+* class [`PageSavingArgs`](/cells/python-net/aspose.cells.rendering/pagesavingargs)
+* class [`PageStartSavingArgs`](/cells/python-net/aspose.cells.rendering/pagestartsavingargs)

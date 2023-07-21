@@ -3,7 +3,7 @@ title: text_orientation_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1020
+weight: 1030
 url: /aspose.cells.drawing/radiobutton/text_orientation_type/
 is_root: false
 ---
@@ -34,6 +34,6 @@ def text_orientation_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
-* class [TextOrientationType](/cells/python-net/aspose.cells/textorientationtype)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)
+* class [`TextOrientationType`](/cells/python-net/aspose.cells/textorientationtype)

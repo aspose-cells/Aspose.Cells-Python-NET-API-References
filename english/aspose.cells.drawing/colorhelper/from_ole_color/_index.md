@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/colorhelper/from_ole_color/
 is_root: false
 ---
 
-## from_ole_color(ole_color) {#int}
+## from_ole_color {#int}
 
 Convert OLE_COLOR.
 
@@ -32,5 +32,5 @@ def from_ole_color(self, ole_color):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ColorHelper](/cells/python-net/aspose.cells.drawing/colorhelper)
+* module [`aspose.cells.drawing`](../../)
+* class [`ColorHelper`](/cells/python-net/aspose.cells.drawing/colorhelper)

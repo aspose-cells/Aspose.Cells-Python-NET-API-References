@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/set_theme_color/
 is_root: false
 ---
 
-## set_theme_color(type, color) {#ThemeColorType-aspose.pydrawing.Color}
+## set_theme_color {#aspose.cells.ThemeColorType-aspose.pydrawing.Color}
 
 Sets the theme color
 
@@ -22,11 +22,11 @@ def set_theme_color(self, type, color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [ThemeColorType](/cells/python-net/aspose.cells/themecolortype) | The theme color type. |
+| type | [`ThemeColorType`](/cells/python-net/aspose.cells/themecolortype) | The theme color type. |
 | color | aspose.pydrawing.Color | the theme color |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

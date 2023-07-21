@@ -8,7 +8,7 @@ url: /aspose.cells.timelines/timelinecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Timeline}
+## binary_search {#aspose.cells.timelines.Timeline}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Timeline](/cells/python-net/aspose.cells.timelines/timeline) | The System.Object to locate. The value can be null. |
+| item | [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.timelines](../../)
-* class [TimelineCollection](/cells/python-net/aspose.cells.timelines/timelinecollection)
+* module [`aspose.cells.timelines`](../../)
+* class [`TimelineCollection`](/cells/python-net/aspose.cells.timelines/timelinecollection)

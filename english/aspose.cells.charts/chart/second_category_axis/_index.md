@@ -3,7 +3,7 @@ title: second_category_axis property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 500
+weight: 520
 url: /aspose.cells.charts/chart/second_category_axis/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def second_category_axis(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Axis](/cells/python-net/aspose.cells.charts/axis)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Axis`](/cells/python-net/aspose.cells.charts/axis)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

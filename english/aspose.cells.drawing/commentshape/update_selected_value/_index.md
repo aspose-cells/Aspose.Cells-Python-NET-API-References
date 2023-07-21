@@ -3,12 +3,12 @@ title: update_selected_value method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells.drawing/commentshape/update_selected_value/
 is_root: false
 ---
 
-## update_selected_value() {#}
+## update_selected_value {#}
 
 Update the selected value by the value of the linked cell.
 
@@ -28,8 +28,6 @@ def update_selected_value(self):
 from aspose import pycore
 from aspose.cells.drawing import ListBox
 
-# Initialize a new workbook.
-# Workbook book = new Workbook();
 cell = None
 for i in range(10):
     cell = book.worksheets[0].cells.get(i, 0)
@@ -64,5 +62,5 @@ if listbx.is_selected(3):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CommentShape](/cells/python-net/aspose.cells.drawing/commentshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`CommentShape`](/cells/python-net/aspose.cells.drawing/commentshape)

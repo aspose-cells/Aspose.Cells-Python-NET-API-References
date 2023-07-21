@@ -3,7 +3,7 @@ title: is_word_art property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 660
 url: /aspose.cells.drawing/textbox/is_word_art/
 is_root: false
 ---
@@ -35,5 +35,5 @@ def is_word_art(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

@@ -3,7 +3,7 @@ title: lower_right_column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 770
 url: /aspose.cells.drawing/textbox/lower_right_column/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def lower_right_column(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

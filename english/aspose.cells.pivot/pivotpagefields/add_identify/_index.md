@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotpagefields/add_identify/
 is_root: false
 ---
 
-## add_identify(range_index, page_item_index) {#int-list}
+## add_identify {#int-list}
 
 Sets which item label in each page field to use to identify the data range.
 The pageItemIndex.Length must be equal to PageFieldCount, so please add the page field first.
@@ -29,5 +29,5 @@ def add_identify(self, range_index, page_item_index):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotPageFields](/cells/python-net/aspose.cells.pivot/pivotpagefields)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotPageFields`](/cells/python-net/aspose.cells.pivot/pivotpagefields)

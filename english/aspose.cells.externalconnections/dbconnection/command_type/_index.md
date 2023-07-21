@@ -28,6 +28,6 @@ def command_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [DBConnection](/cells/python-net/aspose.cells.externalconnections/dbconnection)
-* class [OLEDBCommandType](/cells/python-net/aspose.cells.externalconnections/oledbcommandtype)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`DBConnection`](/cells/python-net/aspose.cells.externalconnections/dbconnection)
+* class [`OLEDBCommandType`](/cells/python-net/aspose.cells.externalconnections/oledbcommandtype)

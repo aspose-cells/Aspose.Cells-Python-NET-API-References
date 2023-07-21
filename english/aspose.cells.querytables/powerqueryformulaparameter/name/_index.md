@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.querytables](../../)
-* class [PowerQueryFormulaParameter](/cells/python-net/aspose.cells.querytables/powerqueryformulaparameter)
+* module [`aspose.cells.querytables`](../../)
+* class [`PowerQueryFormulaParameter`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparameter)

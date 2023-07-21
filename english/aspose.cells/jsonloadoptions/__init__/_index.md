@@ -8,7 +8,7 @@ url: /aspose.cells/jsonloadoptions/__init__/
 is_root: false
 ---
 
-## JsonLoadOptions() {#}
+## __init__ {#}
 
 Creates an options of loading the file.
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [JsonLoadOptions](/cells/python-net/aspose.cells/jsonloadoptions)
+* module [`aspose.cells`](../../)
+* class [`JsonLoadOptions`](/cells/python-net/aspose.cells/jsonloadoptions)

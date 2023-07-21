@@ -3,7 +3,7 @@ title: TextOverflowType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1170
+weight: 1160
 url: /aspose.cells.drawing/textoverflowtype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The TextOverflowType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

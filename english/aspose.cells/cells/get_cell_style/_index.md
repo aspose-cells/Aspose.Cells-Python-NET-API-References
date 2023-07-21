@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get_cell_style/
 is_root: false
 ---
 
-## get_cell_style(row, column) {#int-int}
+## get_cell_style {#int-int}
 
 Get the style of given cell.
 
@@ -33,5 +33,5 @@ def get_cell_style(self, row, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

@@ -30,5 +30,5 @@ def is_group(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CommentShape](/cells/python-net/aspose.cells.drawing/commentshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`CommentShape`](/cells/python-net/aspose.cells.drawing/commentshape)

@@ -23,6 +23,6 @@ def memory_setting(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
-* class [MemorySetting](/cells/python-net/aspose.cells/memorysetting)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)
+* class [`MemorySetting`](/cells/python-net/aspose.cells/memorysetting)

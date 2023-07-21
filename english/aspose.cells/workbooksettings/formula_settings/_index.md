@@ -20,6 +20,6 @@ def formula_settings(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormulaSettings](/cells/python-net/aspose.cells/formulasettings)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`FormulaSettings`](/cells/python-net/aspose.cells/formulasettings)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

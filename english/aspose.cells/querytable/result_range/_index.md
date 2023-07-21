@@ -20,6 +20,6 @@ def result_range(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [QueryTable](/cells/python-net/aspose.cells/querytable)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`QueryTable`](/cells/python-net/aspose.cells/querytable)
+* class [`Range`](/cells/python-net/aspose.cells/range)

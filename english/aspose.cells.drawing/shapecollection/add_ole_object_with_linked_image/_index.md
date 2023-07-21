@@ -3,12 +3,12 @@ title: add_ole_object_with_linked_image method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.drawing/shapecollection/add_ole_object_with_linked_image/
 is_root: false
 ---
 
-## add_ole_object_with_linked_image(upper_left_row, upper_left_column, height, width, source_full_name) {#int-int-int-int-str}
+## add_ole_object_with_linked_image {#int-int-int-int-str}
 
 Add a linked picture.
 
@@ -16,7 +16,7 @@ Add a linked picture.
 ### Returns 
 
 
-[Picture](/cells/python-net/aspose.cells.drawing/picture) Picture object.
+[`Picture`](/cells/python-net/aspose.cells.drawing/picture) Picture object.
 
 
 ```python
@@ -36,6 +36,6 @@ def add_ole_object_with_linked_image(self, upper_left_row, upper_left_column, he
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

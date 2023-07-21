@@ -33,5 +33,5 @@ def input_range(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Label](/cells/python-net/aspose.cells.drawing/label)
+* module [`aspose.cells.drawing`](../../)
+* class [`Label`](/cells/python-net/aspose.cells.drawing/label)

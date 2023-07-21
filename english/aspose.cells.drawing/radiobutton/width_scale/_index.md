@@ -3,7 +3,7 @@ title: width_scale property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1230
+weight: 1240
 url: /aspose.cells.drawing/radiobutton/width_scale/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def width_scale(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

@@ -23,5 +23,5 @@ def is_visible(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoFillFormatHelper](/cells/python-net/aspose.cells.drawing/msofillformathelper)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoFillFormatHelper`](/cells/python-net/aspose.cells.drawing/msofillformathelper)

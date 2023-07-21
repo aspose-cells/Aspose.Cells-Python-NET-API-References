@@ -38,5 +38,5 @@ def height_in_shape(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GroupBox](/cells/python-net/aspose.cells.drawing/groupbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`GroupBox`](/cells/python-net/aspose.cells.drawing/groupbox)

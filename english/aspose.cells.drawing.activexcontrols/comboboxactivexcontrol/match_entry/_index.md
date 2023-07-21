@@ -23,6 +23,6 @@ def match_entry(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [ComboBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* class [ControlMatchEntryType](/cells/python-net/aspose.cells.drawing.activexcontrols/controlmatchentrytype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`ComboBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* class [`ControlMatchEntryType`](/cells/python-net/aspose.cells.drawing.activexcontrols/controlmatchentrytype)

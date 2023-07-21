@@ -23,5 +23,5 @@ def show_negative_bubbles(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Series](/cells/python-net/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* class [`Series`](/cells/python-net/aspose.cells.charts/series)

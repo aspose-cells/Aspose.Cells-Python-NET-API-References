@@ -3,7 +3,7 @@ title: pivot_filters property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 730
 url: /aspose.cells.pivot/pivottable/pivot_filters/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def pivot_filters(self):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFilterCollection](/cells/python-net/aspose.cells.pivot/pivotfiltercollection)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFilterCollection`](/cells/python-net/aspose.cells.pivot/pivotfiltercollection)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

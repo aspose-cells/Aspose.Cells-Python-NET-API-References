@@ -28,6 +28,6 @@ def theme_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
-* class [ThemeColor](/cells/python-net/aspose.cells/themecolor)
+* module [`aspose.cells.drawing`](../../)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)
+* class [`ThemeColor`](/cells/python-net/aspose.cells/themecolor)

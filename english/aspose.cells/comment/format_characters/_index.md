@@ -8,7 +8,7 @@ url: /aspose.cells/comment/format_characters/
 is_root: false
 ---
 
-## format_characters(start_index, length, font, flag) {#int-int-Font-StyleFlag}
+## format_characters {#int-int-aspose.cells.Font-aspose.cells.StyleFlag}
 
 Format some characters with the font setting.
 
@@ -24,11 +24,11 @@ def format_characters(self, start_index, length, font, flag):
 | :- | :- | :- |
 | start_index | int | The start index. |
 | length | int | The length. |
-| font | [Font](/cells/python-net/aspose.cells/font) | The font setting. |
-| flag | [StyleFlag](/cells/python-net/aspose.cells/styleflag) | The flag of the font setting. |
+| font | [`Font`](/cells/python-net/aspose.cells/font) | The font setting. |
+| flag | [`StyleFlag`](/cells/python-net/aspose.cells/styleflag) | The flag of the font setting. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Comment](/cells/python-net/aspose.cells/comment)
+* module [`aspose.cells`](../../)
+* class [`Comment`](/cells/python-net/aspose.cells/comment)

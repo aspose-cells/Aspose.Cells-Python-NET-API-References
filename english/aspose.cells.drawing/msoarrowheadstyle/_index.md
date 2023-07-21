@@ -3,7 +3,7 @@ title: MsoArrowheadStyle enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 980
+weight: 970
 url: /aspose.cells.drawing/msoarrowheadstyle/
 is_root: false
 ---
@@ -29,4 +29,4 @@ The MsoArrowheadStyle type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

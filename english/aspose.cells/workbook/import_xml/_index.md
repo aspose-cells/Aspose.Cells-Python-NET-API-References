@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/import_xml/
 is_root: false
 ---
 
-## import_xml(url, sheet_name, row, col) {#str-str-int-int}
+## import_xml {#str-str-int-int}
 
 Imports/Updates an XML data file into the workbook.
 
@@ -42,7 +42,7 @@ wb.save("output.xlsx")
 ```
 
 
-## import_xml(stream, sheet_name, row, col) {#io.RawIOBase-str-int-int}
+## import_xml {#io.RawIOBase-str-int-int}
 
 Imports/Updates an XML data file into the workbook.
 
@@ -64,5 +64,5 @@ def import_xml(self, stream, sheet_name, row, col):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/checkboxcollection/add/
 is_root: false
 ---
 
-## add(upper_left_row, upper_left_column, height, width) {#int-int-int-int}
+## add {#int-int-int-int}
 
 Adds a checkBox to the collection.
 
@@ -16,7 +16,7 @@ Adds a checkBox to the collection.
 ### Returns 
 
 
-[CheckBox](/cells/python-net/aspose.cells.drawing/checkbox) object index.
+[`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox) object index.
 
 
 ```python
@@ -35,6 +35,6 @@ def add(self, upper_left_row, upper_left_column, height, width):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CheckBox](/cells/python-net/aspose.cells.drawing/checkbox)
-* class [CheckBoxCollection](/cells/python-net/aspose.cells.drawing/checkboxcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox)
+* class [`CheckBoxCollection`](/cells/python-net/aspose.cells.drawing/checkboxcollection)

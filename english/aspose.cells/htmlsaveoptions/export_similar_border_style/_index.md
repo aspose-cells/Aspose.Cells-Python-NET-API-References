@@ -25,5 +25,5 @@ def export_similar_border_style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)

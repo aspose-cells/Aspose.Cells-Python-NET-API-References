@@ -23,5 +23,5 @@ def is_enabled(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [CommandButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`CommandButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/clear_data/
 is_root: false
 ---
 
-## clear_data() {#}
+## clear_data {#}
 
 Clear PivotTable's data and formatting
 
@@ -26,5 +26,5 @@ If this method is not called before you add or delete PivotField, Maybe the Pivo
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

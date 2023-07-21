@@ -28,4 +28,4 @@ The ControlPictureAlignmentType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](..)
+* module [`aspose.cells.drawing.activexcontrols`](..)

@@ -3,7 +3,7 @@ title: RevisionMergeConflict class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells.revisions/revisionmergeconflict/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents a revision record which indicates that there was a merge conflict.
 
 
 
-**Inheritance:** [RevisionMergeConflict](/cells/python-net/aspose.cells.revisions/revisionmergeconflict) → 
-[Revision](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionMergeConflict`](/cells/python-net/aspose.cells.revisions/revisionmergeconflict) → 
+[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 
 
 
@@ -31,6 +31,6 @@ The RevisionMergeConflict type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [RevisionMergeConflict](/cells/python-net/aspose.cells.revisions/revisionmergeconflict)
+* module [`aspose.cells.revisions`](..)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`RevisionMergeConflict`](/cells/python-net/aspose.cells.revisions/revisionmergeconflict)

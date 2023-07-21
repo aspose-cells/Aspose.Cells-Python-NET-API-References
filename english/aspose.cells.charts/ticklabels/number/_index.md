@@ -23,5 +23,5 @@ def number(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [TickLabels](/cells/python-net/aspose.cells.charts/ticklabels)
+* module [`aspose.cells.charts`](../../)
+* class [`TickLabels`](/cells/python-net/aspose.cells.charts/ticklabels)

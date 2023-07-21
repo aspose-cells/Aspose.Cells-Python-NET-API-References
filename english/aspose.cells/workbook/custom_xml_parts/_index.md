@@ -20,6 +20,6 @@ def custom_xml_parts(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CustomXmlPartCollection](/cells/python-net/aspose.cells.markup/customxmlpartcollection)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`CustomXmlPartCollection`](/cells/python-net/aspose.cells.markup/customxmlpartcollection)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

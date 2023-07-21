@@ -3,12 +3,12 @@ title: delete_in_range method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /aspose.cells.drawing/shapecollection/delete_in_range/
 is_root: false
 ---
 
-## delete_in_range(ca) {#CellArea}
+## delete_in_range {#aspose.cells.CellArea}
 
 Delete shapes in the range.Comment shapes will not be deleted.
 
@@ -22,7 +22,7 @@ def delete_in_range(self, ca):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/aspose.cells/cellarea) | The range.If the shapes are contained in the range, they will be removed. |
+| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The range.If the shapes are contained in the range, they will be removed. |
 
 ### Example 
 
@@ -47,5 +47,5 @@ shapes.delete_in_range(area3)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

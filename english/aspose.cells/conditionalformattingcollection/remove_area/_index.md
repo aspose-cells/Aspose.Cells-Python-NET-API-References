@@ -8,7 +8,7 @@ url: /aspose.cells/conditionalformattingcollection/remove_area/
 is_root: false
 ---
 
-## remove_area(start_row, start_column, total_rows, total_columns) {#int-int-int-int}
+## remove_area {#int-int-int-int}
 
 Remove all conditional formatting in the range.
 
@@ -30,5 +30,5 @@ def remove_area(self, start_row, start_column, total_rows, total_columns):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ConditionalFormattingCollection](/cells/python-net/aspose.cells/conditionalformattingcollection)
+* module [`aspose.cells`](../../)
+* class [`ConditionalFormattingCollection`](/cells/python-net/aspose.cells/conditionalformattingcollection)

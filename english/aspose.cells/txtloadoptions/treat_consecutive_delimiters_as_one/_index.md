@@ -3,7 +3,7 @@ title: treat_consecutive_delimiters_as_one property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells/txtloadoptions/treat_consecutive_delimiters_as_one/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def treat_consecutive_delimiters_as_one(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [TxtLoadOptions](/cells/python-net/aspose.cells/txtloadoptions)
+* module [`aspose.cells`](../../)
+* class [`TxtLoadOptions`](/cells/python-net/aspose.cells/txtloadoptions)

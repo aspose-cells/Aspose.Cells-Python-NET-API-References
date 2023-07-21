@@ -3,12 +3,12 @@ title: add_list_box method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells.drawing/shapecollection/add_list_box/
 is_root: false
 ---
 
-## add_list_box(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+## add_list_box {#int-int-int-int-int-int}
 
 Adds a ListBox to the worksheet.
 
@@ -47,5 +47,5 @@ listBox = shapes.add_list_box(1, 0, 1, 0, 100, 50)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

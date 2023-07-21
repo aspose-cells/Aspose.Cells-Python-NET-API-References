@@ -8,7 +8,7 @@ url: /aspose.cells.tables/listobjectcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#ListObject}
+## binary_search {#aspose.cells.tables.ListObject}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ListObject](/cells/python-net/aspose.cells.tables/listobject) | The System.Object to locate. The value can be null. |
+| item | [`ListObject`](/cells/python-net/aspose.cells.tables/listobject) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListObjectCollection](/cells/python-net/aspose.cells.tables/listobjectcollection)
+* module [`aspose.cells.tables`](../../)
+* class [`ListObjectCollection`](/cells/python-net/aspose.cells.tables/listobjectcollection)

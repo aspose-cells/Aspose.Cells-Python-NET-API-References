@@ -8,7 +8,7 @@ url: /aspose.cells/workbookdesigner/process/
 is_root: false
 ---
 
-## process() {#}
+## process {#}
 
 Processes the smart markers and populates the data source values.
 
@@ -22,7 +22,7 @@ def process(self):
 
 
 
-## process(is_preserved) {#bool}
+## process {#bool}
 
 Processes the smart markers and populates the data source values.
 
@@ -39,7 +39,7 @@ def process(self, is_preserved):
 | is_preserved | bool | True if the unrecognized smart marker is preserved. |
 
 
-## process(sheet_index, is_preserved) {#int-bool}
+## process {#int-bool}
 
 Processes the smart markers and populates the data source values.
 
@@ -61,5 +61,5 @@ This method works on worksheet level.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorkbookDesigner](/cells/python-net/aspose.cells/workbookdesigner)
+* module [`aspose.cells`](../../)
+* class [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner)

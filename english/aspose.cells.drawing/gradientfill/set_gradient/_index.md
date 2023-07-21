@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/gradientfill/set_gradient/
 is_root: false
 ---
 
-## set_gradient(type, angle, direction) {#GradientFillType-float-GradientDirectionType}
+## set_gradient {#aspose.cells.drawing.GradientFillType-float-aspose.cells.drawing.GradientDirectionType}
 
 Set the gradient fill type and direction.
 
@@ -22,12 +22,12 @@ def set_gradient(self, type, angle, direction):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [GradientFillType](/cells/python-net/aspose.cells.drawing/gradientfilltype) | Gradient fill type. |
+| type | [`GradientFillType`](/cells/python-net/aspose.cells.drawing/gradientfilltype) | Gradient fill type. |
 | angle | float | The angle. Only applies for GradientFillType.Linear. |
-| direction | [GradientDirectionType](/cells/python-net/aspose.cells.drawing/gradientdirectiontype) | The direction type. Only applies for GradientFillType.Radial and GradientFillType.Rectangle. |
+| direction | [`GradientDirectionType`](/cells/python-net/aspose.cells.drawing/gradientdirectiontype) | The direction type. Only applies for GradientFillType.Radial and GradientFillType.Rectangle. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GradientFill](/cells/python-net/aspose.cells.drawing/gradientfill)
+* module [`aspose.cells.drawing`](../../)
+* class [`GradientFill`](/cells/python-net/aspose.cells.drawing/gradientfill)

@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ThreadedCommentAuthorCollection](/cells/python-net/aspose.cells/threadedcommentauthorcollection)
+* module [`aspose.cells`](../../)
+* class [`ThreadedCommentAuthorCollection`](/cells/python-net/aspose.cells/threadedcommentauthorcollection)

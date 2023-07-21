@@ -3,7 +3,7 @@ title: field_list_sort_ascending property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 540
+weight: 550
 url: /aspose.cells.pivot/pivottable/field_list_sort_ascending/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def field_list_sort_ascending(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

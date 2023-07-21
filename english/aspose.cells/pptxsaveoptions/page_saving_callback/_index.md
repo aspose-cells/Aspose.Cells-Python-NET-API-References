@@ -23,6 +23,6 @@ def page_saving_callback(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IPageSavingCallback](/cells/python-net/aspose.cells.rendering/ipagesavingcallback)
-* class [PptxSaveOptions](/cells/python-net/aspose.cells/pptxsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`IPageSavingCallback`](/cells/python-net/aspose.cells.rendering/ipagesavingcallback)
+* class [`PptxSaveOptions`](/cells/python-net/aspose.cells/pptxsaveoptions)

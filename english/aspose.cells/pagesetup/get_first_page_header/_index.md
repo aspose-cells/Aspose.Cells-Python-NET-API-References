@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/get_first_page_header/
 is_root: false
 ---
 
-## get_first_page_header(section) {#int}
+## get_first_page_header {#int}
 
 Gets a script formatting the first page header of an Excel file.
 
@@ -27,5 +27,5 @@ def get_first_page_header(self, section):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)

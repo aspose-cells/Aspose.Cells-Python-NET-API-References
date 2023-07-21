@@ -3,7 +3,7 @@ title: MsoPresetTextEffectShape enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1040
+weight: 1030
 url: /aspose.cells.drawing/msopresettexteffectshape/
 is_root: false
 ---
@@ -64,4 +64,4 @@ The MsoPresetTextEffectShape type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

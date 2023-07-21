@@ -11,7 +11,7 @@ is_root: false
 ## glow property
 
 
-Represents a [GlowEffect](/cells/python-net/aspose.cells.drawing/gloweffect) object that specifies glow effect for the chart element or shape.
+Represents a [`GlowEffect`](/cells/python-net/aspose.cells.drawing/gloweffect) object that specifies glow effect for the chart element or shape.
 
 ### Example 
 
@@ -29,6 +29,6 @@ def glow(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GlowEffect](/cells/python-net/aspose.cells.drawing/gloweffect)
-* class [WebExtensionShape](/cells/python-net/aspose.cells.drawing/webextensionshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`GlowEffect`](/cells/python-net/aspose.cells.drawing/gloweffect)
+* class [`WebExtensionShape`](/cells/python-net/aspose.cells.drawing/webextensionshape)

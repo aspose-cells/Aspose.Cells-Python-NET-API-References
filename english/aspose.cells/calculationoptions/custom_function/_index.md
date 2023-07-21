@@ -3,7 +3,7 @@ title: custom_function property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells/calculationoptions/custom_function/
 is_root: false
 ---
@@ -32,6 +32,6 @@ def custom_function(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CalculationOptions](/cells/python-net/aspose.cells/calculationoptions)
-* class [ICustomFunction](/cells/python-net/aspose.cells/icustomfunction)
+* module [`aspose.cells`](../../)
+* class [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions)
+* class [`ICustomFunction`](/cells/python-net/aspose.cells/icustomfunction)

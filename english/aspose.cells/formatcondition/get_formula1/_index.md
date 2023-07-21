@@ -8,7 +8,7 @@ url: /aspose.cells/formatcondition/get_formula1/
 is_root: false
 ---
 
-## get_formula1(is_r1c1, is_local) {#bool-bool}
+## get_formula1 {#bool-bool}
 
 Gets the value or expression associated with this format condition.
 
@@ -31,7 +31,7 @@ def get_formula1(self, is_r1c1, is_local):
 | is_local | bool | Whether the formula needs to be formatted by locale. |
 
 
-## get_formula1(row, column) {#int-int}
+## get_formula1 {#int-int}
 
 Gets the formula of the conditional formatting of the cell.
 
@@ -54,7 +54,7 @@ def get_formula1(self, row, column):
 | column | int | The column index. |
 
 
-## get_formula1(is_r1c1, is_local, row, column) {#bool-bool-int-int}
+## get_formula1 {#bool-bool-int-int}
 
 Gets the value or expression of the conditional formatting of the cell.
 
@@ -83,5 +83,5 @@ The given cell must be contained by this conditional formatting, otherwise null 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormatCondition](/cells/python-net/aspose.cells/formatcondition)
+* module [`aspose.cells`](../../)
+* class [`FormatCondition`](/cells/python-net/aspose.cells/formatcondition)

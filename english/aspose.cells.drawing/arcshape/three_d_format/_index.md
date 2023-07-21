@@ -29,6 +29,6 @@ def three_d_format(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ArcShape](/cells/python-net/aspose.cells.drawing/arcshape)
-* class [ThreeDFormat](/cells/python-net/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`ArcShape`](/cells/python-net/aspose.cells.drawing/arcshape)
+* class [`ThreeDFormat`](/cells/python-net/aspose.cells.drawing/threedformat)

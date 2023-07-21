@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/get_date_time_from_double/
 is_root: false
 ---
 
-## get_date_time_from_double(double_value, date1904) {#float-bool}
+## get_date_time_from_double {#float-bool}
 
 Convert the double value to the date time value.
 
@@ -33,5 +33,5 @@ def get_date_time_from_double(self, double_value, date1904):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsHelper](/cells/python-net/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* class [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper)

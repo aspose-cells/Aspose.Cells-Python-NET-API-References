@@ -32,5 +32,5 @@ def bottom_margin_pt(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [ShapeTextAlignment](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`ShapeTextAlignment`](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment)

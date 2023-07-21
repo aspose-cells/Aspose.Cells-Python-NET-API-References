@@ -23,5 +23,5 @@ def show_error(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Validation](/cells/python-net/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* class [`Validation`](/cells/python-net/aspose.cells/validation)

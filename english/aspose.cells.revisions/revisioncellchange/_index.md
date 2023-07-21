@@ -3,7 +3,7 @@ title: RevisionCellChange class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells.revisions/revisioncellchange/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents the revision that changing cells.
 
 
 
-**Inheritance:** [RevisionCellChange](/cells/python-net/aspose.cells.revisions/revisioncellchange) → 
-[Revision](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionCellChange`](/cells/python-net/aspose.cells.revisions/revisioncellchange) → 
+[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 
 
 
@@ -42,6 +42,6 @@ The RevisionCellChange type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [RevisionCellChange](/cells/python-net/aspose.cells.revisions/revisioncellchange)
+* module [`aspose.cells.revisions`](..)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`RevisionCellChange`](/cells/python-net/aspose.cells.revisions/revisioncellchange)

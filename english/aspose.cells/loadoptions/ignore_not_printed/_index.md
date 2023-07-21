@@ -28,5 +28,5 @@ def ignore_not_printed(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LoadOptions](/cells/python-net/aspose.cells/loadoptions)
+* module [`aspose.cells`](../../)
+* class [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)

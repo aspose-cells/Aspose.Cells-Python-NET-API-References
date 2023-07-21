@@ -3,7 +3,7 @@ title: fill property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 360
 url: /aspose.cells.drawing/listbox/fill/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## fill property
 
 
-Returns a [Shape.fill_format](/cells/python-net/aspose.cells.drawing/shape#fill_format) object that contains fill formatting properties for the specified shape.
+Returns a [`Shape.fill_format`](/cells/python-net/aspose.cells.drawing/shape#fill_format) object that contains fill formatting properties for the specified shape.
 
 ### Example 
 
@@ -29,6 +29,6 @@ def fill(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [FillFormat](/cells/python-net/aspose.cells.drawing/fillformat)
-* class [ListBox](/cells/python-net/aspose.cells.drawing/listbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`FillFormat`](/cells/python-net/aspose.cells.drawing/fillformat)
+* class [`ListBox`](/cells/python-net/aspose.cells.drawing/listbox)

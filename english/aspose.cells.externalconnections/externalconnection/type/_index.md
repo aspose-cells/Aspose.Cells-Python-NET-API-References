@@ -23,6 +23,6 @@ def type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [ConnectionDataSourceType](/cells/python-net/aspose.cells.externalconnections/connectiondatasourcetype)
-* class [ExternalConnection](/cells/python-net/aspose.cells.externalconnections/externalconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`ConnectionDataSourceType`](/cells/python-net/aspose.cells.externalconnections/connectiondatasourcetype)
+* class [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)

@@ -3,7 +3,7 @@ title: DataBarAxisPosition enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1900
+weight: 1950
 url: /aspose.cells/databaraxisposition/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The DataBarAxisPosition type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

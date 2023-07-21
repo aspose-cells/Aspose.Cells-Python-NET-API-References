@@ -20,6 +20,6 @@ def range(self):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield)
-* class [SxRng](/cells/python-net/aspose.cells.pivot/sxrng)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)
+* class [`SxRng`](/cells/python-net/aspose.cells.pivot/sxrng)

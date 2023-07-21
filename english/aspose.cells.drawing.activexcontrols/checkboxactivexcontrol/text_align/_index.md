@@ -23,6 +23,6 @@ def text_align(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [CheckBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* class [TextAlignmentType](/cells/python-net/aspose.cells/textalignmenttype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`CheckBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* class [`TextAlignmentType`](/cells/python-net/aspose.cells/textalignmenttype)

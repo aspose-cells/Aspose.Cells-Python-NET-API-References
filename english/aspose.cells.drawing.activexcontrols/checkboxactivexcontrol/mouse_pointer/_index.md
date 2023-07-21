@@ -23,6 +23,6 @@ def mouse_pointer(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [CheckBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* class [ControlMousePointerType](/cells/python-net/aspose.cells.drawing.activexcontrols/controlmousepointertype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`CheckBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* class [`ControlMousePointerType`](/cells/python-net/aspose.cells.drawing.activexcontrols/controlmousepointertype)

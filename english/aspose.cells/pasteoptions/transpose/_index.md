@@ -3,7 +3,7 @@ title: transpose property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells/pasteoptions/transpose/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def transpose(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PasteOptions](/cells/python-net/aspose.cells/pasteoptions)
+* module [`aspose.cells`](../../)
+* class [`PasteOptions`](/cells/python-net/aspose.cells/pasteoptions)

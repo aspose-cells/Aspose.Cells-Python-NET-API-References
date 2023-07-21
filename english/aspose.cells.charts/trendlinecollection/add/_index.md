@@ -8,15 +8,15 @@ url: /aspose.cells.charts/trendlinecollection/add/
 is_root: false
 ---
 
-## add(type) {#TrendlineType}
+## add {#aspose.cells.charts.TrendlineType}
 
-Adds a [Trendline](/cells/python-net/aspose.cells.charts/trendline) object to this collection with specified type.
+Adds a [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) object to this collection with specified type.
 
 
 ### Returns 
 
 
-[Trendline](/cells/python-net/aspose.cells.charts/trendline) object index.
+[`Trendline`](/cells/python-net/aspose.cells.charts/trendline) object index.
 
 
 ```python
@@ -27,18 +27,18 @@ def add(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [TrendlineType](/cells/python-net/aspose.cells.charts/trendlinetype) | Trendline type. |
+| type | [`TrendlineType`](/cells/python-net/aspose.cells.charts/trendlinetype) | Trendline type. |
 
 
-## add(type, name) {#TrendlineType-str}
+## add {#aspose.cells.charts.TrendlineType-str}
 
-Adds a [Trendline](/cells/python-net/aspose.cells.charts/trendline) object to this collection with specified type and name.
+Adds a [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) object to this collection with specified type and name.
 
 
 ### Returns 
 
 
-[Trendline](/cells/python-net/aspose.cells.charts/trendline) object index.
+[`Trendline`](/cells/python-net/aspose.cells.charts/trendline) object index.
 
 
 ```python
@@ -49,12 +49,12 @@ def add(self, type, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [TrendlineType](/cells/python-net/aspose.cells.charts/trendlinetype) | Trendline type. |
+| type | [`TrendlineType`](/cells/python-net/aspose.cells.charts/trendlinetype) | Trendline type. |
 | name | str | Trendline name. |
 
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Trendline](/cells/python-net/aspose.cells.charts/trendline)
-* class [TrendlineCollection](/cells/python-net/aspose.cells.charts/trendlinecollection)
+* module [`aspose.cells.charts`](../../)
+* class [`Trendline`](/cells/python-net/aspose.cells.charts/trendline)
+* class [`TrendlineCollection`](/cells/python-net/aspose.cells.charts/trendlinecollection)

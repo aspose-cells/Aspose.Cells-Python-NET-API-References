@@ -33,5 +33,5 @@ def relative_to_original_picture_size(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CommentShape](/cells/python-net/aspose.cells.drawing/commentshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`CommentShape`](/cells/python-net/aspose.cells.drawing/commentshape)

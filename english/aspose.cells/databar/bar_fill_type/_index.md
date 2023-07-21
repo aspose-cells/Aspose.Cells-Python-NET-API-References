@@ -23,6 +23,6 @@ def bar_fill_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataBar](/cells/python-net/aspose.cells/databar)
-* class [DataBarFillType](/cells/python-net/aspose.cells/databarfilltype)
+* module [`aspose.cells`](../../)
+* class [`DataBar`](/cells/python-net/aspose.cells/databar)
+* class [`DataBarFillType`](/cells/python-net/aspose.cells/databarfilltype)

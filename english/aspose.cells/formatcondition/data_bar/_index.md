@@ -22,6 +22,6 @@ def data_bar(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataBar](/cells/python-net/aspose.cells/databar)
-* class [FormatCondition](/cells/python-net/aspose.cells/formatcondition)
+* module [`aspose.cells`](../../)
+* class [`DataBar`](/cells/python-net/aspose.cells/databar)
+* class [`FormatCondition`](/cells/python-net/aspose.cells/formatcondition)

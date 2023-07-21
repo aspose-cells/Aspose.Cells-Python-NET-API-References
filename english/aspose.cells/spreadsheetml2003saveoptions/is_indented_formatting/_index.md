@@ -29,5 +29,5 @@ def is_indented_formatting(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [SpreadsheetML2003SaveOptions](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions)
+* module [`aspose.cells`](../../)
+* class [`SpreadsheetML2003SaveOptions`](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions)

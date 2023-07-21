@@ -8,7 +8,7 @@ url: /aspose.cells/font/equals/
 is_root: false
 ---
 
-## equals(font) {#Font}
+## equals {#aspose.cells.Font}
 
 Checks if two fonts are equals.
 
@@ -27,10 +27,10 @@ def equals(self, font):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| font | [Font](/cells/python-net/aspose.cells/font) | Compared font object. |
+| font | [`Font`](/cells/python-net/aspose.cells/font) | Compared font object. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Font](/cells/python-net/aspose.cells/font)
+* module [`aspose.cells`](../../)
+* class [`Font`](/cells/python-net/aspose.cells/font)

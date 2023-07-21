@@ -28,5 +28,5 @@ def rotation_angle(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Legend](/cells/python-net/aspose.cells.charts/legend)
+* module [`aspose.cells.charts`](../../)
+* class [`Legend`](/cells/python-net/aspose.cells.charts/legend)

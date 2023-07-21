@@ -29,6 +29,6 @@ def three_d_format(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ScrollBar](/cells/python-net/aspose.cells.drawing/scrollbar)
-* class [ThreeDFormat](/cells/python-net/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`ScrollBar`](/cells/python-net/aspose.cells.drawing/scrollbar)
+* class [`ThreeDFormat`](/cells/python-net/aspose.cells.drawing/threedformat)

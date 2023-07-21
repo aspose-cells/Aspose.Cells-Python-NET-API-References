@@ -20,6 +20,6 @@ def names(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [NameCollection](/cells/python-net/aspose.cells/namecollection)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`NameCollection`](/cells/python-net/aspose.cells/namecollection)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

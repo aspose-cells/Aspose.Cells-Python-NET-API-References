@@ -30,6 +30,6 @@ def text_effect(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [OleObject](/cells/python-net/aspose.cells.drawing/oleobject)
-* class [TextEffectFormat](/cells/python-net/aspose.cells.drawing/texteffectformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`OleObject`](/cells/python-net/aspose.cells.drawing/oleobject)
+* class [`TextEffectFormat`](/cells/python-net/aspose.cells.drawing/texteffectformat)

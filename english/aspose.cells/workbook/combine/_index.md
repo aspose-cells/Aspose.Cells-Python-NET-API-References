@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/combine/
 is_root: false
 ---
 
-## combine(second_workbook) {#Workbook}
+## combine {#aspose.cells.Workbook}
 
 Combines another Workbook object.
 
@@ -22,12 +22,12 @@ def combine(self, second_workbook):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| second_workbook | [Workbook](/cells/python-net/aspose.cells/workbook) | Another Workbook object. |
+| second_workbook | [`Workbook`](/cells/python-net/aspose.cells/workbook) | Another Workbook object. |
 ### Remarks
 
-Currently, only cell data and cell style of the second Workbook object can be combined. Images, charts and other drawing objects are not supported.
+Merge Excel, ODS , CSV and other files to one file.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

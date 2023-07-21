@@ -8,7 +8,7 @@ url: /aspose.cells/fontconfigs/get_font_substitutes/
 is_root: false
 ---
 
-## get_font_substitutes(original_font_name) {#str}
+## get_font_substitutes {#str}
 
 Returns array containing font substitute names to be used if original font is not presented.
 
@@ -32,5 +32,5 @@ def get_font_substitutes(self, original_font_name):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FontConfigs](/cells/python-net/aspose.cells/fontconfigs)
+* module [`aspose.cells`](../../)
+* class [`FontConfigs`](/cells/python-net/aspose.cells/fontconfigs)

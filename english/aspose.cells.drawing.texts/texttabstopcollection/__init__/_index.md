@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.texts/texttabstopcollection/__init__/
 is_root: false
 ---
 
-## TextTabStopCollection() {#}
+## __init__ {#}
 
 Constructs a new instance of TextTabStopCollection
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [TextTabStopCollection](/cells/python-net/aspose.cells.drawing.texts/texttabstopcollection)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`TextTabStopCollection`](/cells/python-net/aspose.cells.drawing.texts/texttabstopcollection)

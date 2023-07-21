@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbaproject/protect/
 is_root: false
 ---
 
-## protect(islocked_for_viewing, password) {#bool-str}
+## protect {#bool-str}
 
 Protects or unprotects this VBA project.
 
@@ -30,5 +30,5 @@ If islockedForViewing is true, the password could not be null.
 
 
 ### See Also
-* module [aspose.cells.vba](../../)
-* class [VbaProject](/cells/python-net/aspose.cells.vba/vbaproject)
+* module [`aspose.cells.vba`](../../)
+* class [`VbaProject`](/cells/python-net/aspose.cells.vba/vbaproject)

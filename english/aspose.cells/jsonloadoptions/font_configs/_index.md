@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets and sets individual font configs. 
-Only works for the [Workbook](/cells/python-net/aspose.cells/workbook) which uses this [LoadOptions](/cells/python-net/aspose.cells/loadoptions) to load.
+Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load.
 ### Definition:
 ```python
 @property
@@ -24,8 +24,8 @@ def font_configs(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IndividualFontConfigs](/cells/python-net/aspose.cells/individualfontconfigs)
-* class [JsonLoadOptions](/cells/python-net/aspose.cells/jsonloadoptions)
-* class [LoadOptions](/cells/python-net/aspose.cells/loadoptions)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`IndividualFontConfigs`](/cells/python-net/aspose.cells/individualfontconfigs)
+* class [`JsonLoadOptions`](/cells/python-net/aspose.cells/jsonloadoptions)
+* class [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

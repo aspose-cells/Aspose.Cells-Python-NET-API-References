@@ -8,7 +8,7 @@ url: /aspose.cells/cells/unhide_rows/
 is_root: false
 ---
 
-## unhide_rows(row, total_rows, height) {#int-int-float}
+## unhide_rows {#int-int-float}
 
 Unhides the hidden rows.
 
@@ -29,5 +29,5 @@ def unhide_rows(self, row, total_rows, height):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

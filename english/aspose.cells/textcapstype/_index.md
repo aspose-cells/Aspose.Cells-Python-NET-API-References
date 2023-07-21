@@ -3,7 +3,7 @@ title: TextCapsType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2530
+weight: 2580
 url: /aspose.cells/textcapstype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The TextCapsType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

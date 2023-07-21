@@ -3,7 +3,7 @@ title: MarkdownSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1030
+weight: 1050
 url: /aspose.cells/markdownsaveoptions/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents the save options for markdown.
 
 
 
-**Inheritance:** [MarkdownSaveOptions](/cells/python-net/aspose.cells/markdownsaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`MarkdownSaveOptions`](/cells/python-net/aspose.cells/markdownsaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -24,7 +24,7 @@ The MarkdownSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [MarkdownSaveOptions()](/cells/python-net/aspose.cells/markdownsaveoptions/__init__/#) | Creates options for saving markdown document |
+| [__init__](/cells/python-net/aspose.cells/markdownsaveoptions/__init__/#) | Creates options for saving markdown document |
 
 
 ### Properties
@@ -49,6 +49,6 @@ The MarkdownSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [MarkdownSaveOptions](/cells/python-net/aspose.cells/markdownsaveoptions)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+* module [`aspose.cells`](..)
+* class [`MarkdownSaveOptions`](/cells/python-net/aspose.cells/markdownsaveoptions)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)

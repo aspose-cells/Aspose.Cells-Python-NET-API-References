@@ -3,7 +3,7 @@ title: end_arrowhead_style property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells.drawing/lineshape/end_arrowhead_style/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def end_arrowhead_style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LineShape](/cells/python-net/aspose.cells.drawing/lineshape)
-* class [MsoArrowheadStyle](/cells/python-net/aspose.cells.drawing/msoarrowheadstyle)
+* module [`aspose.cells.drawing`](../../)
+* class [`LineShape`](/cells/python-net/aspose.cells.drawing/lineshape)
+* class [`MsoArrowheadStyle`](/cells/python-net/aspose.cells.drawing/msoarrowheadstyle)

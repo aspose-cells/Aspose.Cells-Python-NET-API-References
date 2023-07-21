@@ -8,7 +8,7 @@ url: /aspose.cells/cells/is_column_hidden/
 is_root: false
 ---
 
-## is_column_hidden(column_index) {#int}
+## is_column_hidden {#int}
 
 Checks whether a column at given index is hidden.
 
@@ -32,5 +32,5 @@ def is_column_hidden(self, column_index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

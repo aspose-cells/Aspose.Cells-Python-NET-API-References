@@ -32,5 +32,5 @@ def auto_fit_merged_cells(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFitterOptions](/cells/python-net/aspose.cells/autofitteroptions)
+* module [`aspose.cells`](../../)
+* class [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions)

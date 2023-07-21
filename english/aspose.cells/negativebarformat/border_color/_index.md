@@ -23,5 +23,5 @@ def border_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [NegativeBarFormat](/cells/python-net/aspose.cells/negativebarformat)
+* module [`aspose.cells`](../../)
+* class [`NegativeBarFormat`](/cells/python-net/aspose.cells/negativebarformat)

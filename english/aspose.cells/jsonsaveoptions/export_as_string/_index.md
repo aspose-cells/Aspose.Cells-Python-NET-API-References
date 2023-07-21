@@ -23,5 +23,5 @@ def export_as_string(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [JsonSaveOptions](/cells/python-net/aspose.cells/jsonsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions)

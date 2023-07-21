@@ -28,6 +28,6 @@ def gridline_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [GridlineType](/cells/python-net/aspose.cells/gridlinetype)
-* class [PptxSaveOptions](/cells/python-net/aspose.cells/pptxsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`GridlineType`](/cells/python-net/aspose.cells/gridlinetype)
+* class [`PptxSaveOptions`](/cells/python-net/aspose.cells/pptxsaveoptions)

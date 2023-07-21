@@ -30,9 +30,10 @@ The ControlType type exposes the following members:
 | IMAGE | Image |
 | TOGGLE_BUTTON | ToggleButton |
 | SCROLL_BAR | ScrollBar |
+| BAR_CODE | ScrollBar |
 | UNKNOWN | Unknown |
 
 
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](..)
+* module [`aspose.cells.drawing.activexcontrols`](..)

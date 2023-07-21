@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotformatcondition/set_conditional_areas/
 is_root: false
 ---
 
-## set_conditional_areas() {#}
+## set_conditional_areas {#}
 
 Sets conditional areas of PivotFormatCondition object.
 
@@ -24,5 +24,5 @@ def set_conditional_areas(self):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFormatCondition](/cells/python-net/aspose.cells.pivot/pivotformatcondition)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFormatCondition`](/cells/python-net/aspose.cells.pivot/pivotformatcondition)

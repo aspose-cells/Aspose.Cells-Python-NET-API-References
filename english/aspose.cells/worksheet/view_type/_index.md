@@ -3,7 +3,7 @@ title: view_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 890
+weight: 900
 url: /aspose.cells/worksheet/view_type/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def view_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ViewType](/cells/python-net/aspose.cells/viewtype)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`ViewType`](/cells/python-net/aspose.cells/viewtype)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

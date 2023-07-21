@@ -23,6 +23,6 @@ def begin_arrow_length(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [MsoArrowheadLength](/cells/python-net/aspose.cells.drawing/msoarrowheadlength)
-* class [Trendline](/cells/python-net/aspose.cells.charts/trendline)
+* module [`aspose.cells.charts`](../../)
+* class [`MsoArrowheadLength`](/cells/python-net/aspose.cells.drawing/msoarrowheadlength)
+* class [`Trendline`](/cells/python-net/aspose.cells.charts/trendline)

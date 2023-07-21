@@ -3,7 +3,7 @@ title: TextAlignmentType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2520
+weight: 2570
 url: /aspose.cells/textalignmenttype/
 is_root: false
 ---
@@ -35,4 +35,4 @@ The TextAlignmentType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

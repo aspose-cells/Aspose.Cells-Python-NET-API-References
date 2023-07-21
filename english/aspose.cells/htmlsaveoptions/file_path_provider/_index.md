@@ -23,6 +23,6 @@ def file_path_provider(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
-* class [IFilePathProvider](/cells/python-net/aspose.cells/ifilepathprovider)
+* module [`aspose.cells`](../../)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)
+* class [`IFilePathProvider`](/cells/python-net/aspose.cells/ifilepathprovider)

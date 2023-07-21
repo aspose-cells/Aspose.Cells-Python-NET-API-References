@@ -3,7 +3,7 @@ title: top property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1050
+weight: 1060
 url: /aspose.cells.drawing/textbox/top/
 is_root: false
 ---
@@ -38,5 +38,5 @@ def top(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

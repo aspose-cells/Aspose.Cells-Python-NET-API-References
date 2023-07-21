@@ -29,6 +29,6 @@ def mso_drawing_type(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ArcShape](/cells/python-net/aspose.cells.drawing/arcshape)
-* class [MsoDrawingType](/cells/python-net/aspose.cells.drawing/msodrawingtype)
+* module [`aspose.cells.drawing`](../../)
+* class [`ArcShape`](/cells/python-net/aspose.cells.drawing/arcshape)
+* class [`MsoDrawingType`](/cells/python-net/aspose.cells.drawing/msodrawingtype)

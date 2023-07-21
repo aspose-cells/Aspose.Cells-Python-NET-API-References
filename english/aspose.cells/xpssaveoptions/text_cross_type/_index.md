@@ -23,6 +23,6 @@ def text_cross_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [TextCrossType](/cells/python-net/aspose.cells/textcrosstype)
-* class [XpsSaveOptions](/cells/python-net/aspose.cells/xpssaveoptions)
+* module [`aspose.cells`](../../)
+* class [`TextCrossType`](/cells/python-net/aspose.cells/textcrosstype)
+* class [`XpsSaveOptions`](/cells/python-net/aspose.cells/xpssaveoptions)

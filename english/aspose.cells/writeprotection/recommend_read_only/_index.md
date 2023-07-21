@@ -23,5 +23,5 @@ def recommend_read_only(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WriteProtection](/cells/python-net/aspose.cells/writeprotection)
+* module [`aspose.cells`](../../)
+* class [`WriteProtection`](/cells/python-net/aspose.cells/writeprotection)

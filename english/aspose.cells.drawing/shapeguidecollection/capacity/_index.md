@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeGuideCollection](/cells/python-net/aspose.cells.drawing/shapeguidecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeGuideCollection`](/cells/python-net/aspose.cells.drawing/shapeguidecollection)

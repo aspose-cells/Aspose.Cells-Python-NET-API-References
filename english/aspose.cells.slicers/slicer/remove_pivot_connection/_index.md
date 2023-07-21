@@ -8,7 +8,7 @@ url: /aspose.cells.slicers/slicer/remove_pivot_connection/
 is_root: false
 ---
 
-## remove_pivot_connection(pivot) {#aspose.cells.pivot.PivotTable}
+## remove_pivot_connection {#aspose.cells.pivot.PivotTable}
 
 Removes PivotTable connection.
 
@@ -36,5 +36,5 @@ slicer.remove_pivot_connection(pivot)
 
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [Slicer](/cells/python-net/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* class [`Slicer`](/cells/python-net/aspose.cells.slicers/slicer)

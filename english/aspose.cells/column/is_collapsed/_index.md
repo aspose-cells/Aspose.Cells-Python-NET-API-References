@@ -23,5 +23,5 @@ def is_collapsed(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Column](/cells/python-net/aspose.cells/column)
+* module [`aspose.cells`](../../)
+* class [`Column`](/cells/python-net/aspose.cells/column)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.activexcontrols/unknowncontrol/get_relationship_data/
 is_root: false
 ---
 
-## get_relationship_data(rel_id) {#str}
+## get_relationship_data {#str}
 
 Gets the related data.
 
@@ -32,5 +32,5 @@ def get_relationship_data(self, rel_id):
 
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [UnknownControl](/cells/python-net/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`UnknownControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/unknowncontrol)

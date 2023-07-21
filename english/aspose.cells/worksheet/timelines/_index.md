@@ -3,7 +3,7 @@ title: timelines property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 820
+weight: 830
 url: /aspose.cells/worksheet/timelines/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def timelines(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [TimelineCollection](/cells/python-net/aspose.cells.timelines/timelinecollection)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`TimelineCollection`](/cells/python-net/aspose.cells.timelines/timelinecollection)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

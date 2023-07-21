@@ -3,7 +3,7 @@ title: tiff_color_depth property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /aspose.cells.rendering/imageorprintoptions/tiff_color_depth/
 is_root: false
 ---
@@ -29,6 +29,6 @@ def tiff_color_depth(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [ColorDepth](/cells/python-net/aspose.cells.rendering/colordepth)
-* class [ImageOrPrintOptions](/cells/python-net/aspose.cells.rendering/imageorprintoptions)
+* module [`aspose.cells.rendering`](../../)
+* class [`ColorDepth`](/cells/python-net/aspose.cells.rendering/colordepth)
+* class [`ImageOrPrintOptions`](/cells/python-net/aspose.cells.rendering/imageorprintoptions)

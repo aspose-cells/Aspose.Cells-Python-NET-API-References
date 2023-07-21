@@ -8,7 +8,7 @@ url: /aspose.cells.tables/tablestyleelementcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#TableStyleElement}
+## binary_search {#aspose.cells.tables.TableStyleElement}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [TableStyleElement](/cells/python-net/aspose.cells.tables/tablestyleelement) | The System.Object to locate. The value can be null. |
+| item | [`TableStyleElement`](/cells/python-net/aspose.cells.tables/tablestyleelement) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [TableStyleElementCollection](/cells/python-net/aspose.cells.tables/tablestyleelementcollection)
+* module [`aspose.cells.tables`](../../)
+* class [`TableStyleElementCollection`](/cells/python-net/aspose.cells.tables/tablestyleelementcollection)

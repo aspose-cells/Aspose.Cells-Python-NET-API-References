@@ -3,7 +3,7 @@ title: text_options property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 980
+weight: 990
 url: /aspose.cells.drawing/textbox/text_options/
 is_root: false
 ---
@@ -35,6 +35,6 @@ def text_options(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
-* class [TextOptions](/cells/python-net/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)
+* class [`TextOptions`](/cells/python-net/aspose.cells.drawing.texts/textoptions)

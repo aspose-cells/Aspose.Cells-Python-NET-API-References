@@ -8,7 +8,7 @@ url: /aspose.cells/pdfsaveoptions/set_image_resample/
 is_root: false
 ---
 
-## set_image_resample(desired_ppi, jpeg_quality) {#int-int}
+## set_image_resample {#int-int}
 
 Sets desired PPI(pixels per inch) of resample images and jpeg quality.  
 All images will be converted to JPEG with the specified quality setting, 
@@ -47,5 +47,5 @@ wb.save("output.pdf", pdfSaveOptions)
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions)

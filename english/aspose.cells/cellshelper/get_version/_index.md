@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/get_version/
 is_root: false
 ---
 
-## get_version() {#}
+## get_version {#}
 
 Get the release version.
 
@@ -29,5 +29,5 @@ def get_version(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsHelper](/cells/python-net/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* class [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper)

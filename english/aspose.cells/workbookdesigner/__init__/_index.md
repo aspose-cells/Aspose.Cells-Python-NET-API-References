@@ -8,9 +8,9 @@ url: /aspose.cells/workbookdesigner/__init__/
 is_root: false
 ---
 
-## WorkbookDesigner() {#}
+## __init__ {#}
 
-Initializes a new instance of the [WorkbookDesigner](/cells/python-net/aspose.cells/workbookdesigner) class.
+Initializes a new instance of the [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner) class.
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## WorkbookDesigner(workbook) {#Workbook}
+## __init__ {#aspose.cells.Workbook}
 
-Initializes a new instance of the [WorkbookDesigner](/cells/python-net/aspose.cells/workbookdesigner) class.
+Initializes a new instance of the [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner) class.
 
 
 
@@ -36,10 +36,10 @@ def __init__(self, workbook):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| workbook | [Workbook](/cells/python-net/aspose.cells/workbook) | The template workbook file. |
+| workbook | [`Workbook`](/cells/python-net/aspose.cells/workbook) | The template workbook file. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorkbookDesigner](/cells/python-net/aspose.cells/workbookdesigner)
+* module [`aspose.cells`](../../)
+* class [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner)

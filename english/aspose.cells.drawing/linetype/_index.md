@@ -3,14 +3,14 @@ title: LineType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 950
+weight: 940
 url: /aspose.cells.drawing/linetype/
 is_root: false
 ---
 
 ## LineType enumeration
 
-Enumerates the type of [Picture](/cells/python-net/aspose.cells.drawing/picture) border or [Chart](/cells/python-net/aspose.cells.charts/chart) line.
+Enumerates the type of [`Picture`](/cells/python-net/aspose.cells.drawing/picture) border or [`Chart`](/cells/python-net/aspose.cells.charts/chart) line.
 
 
 
@@ -31,6 +31,6 @@ The LineType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](..)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)

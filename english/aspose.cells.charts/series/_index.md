@@ -39,7 +39,7 @@ The Series type exposes the following members:
 | [bar_shape](/cells/python-net/aspose.cells.charts/series/bar_shape) | Gets or sets the 3D shape type used with the 3-D bar or column chart. |
 | [data_labels](/cells/python-net/aspose.cells.charts/series/data_labels) | Represents the DataLabels object for the specified ASeries. |
 | [type](/cells/python-net/aspose.cells.charts/series/type) | Gets or sets a data series' type. |
-| [marker](/cells/python-net/aspose.cells.charts/series/marker) | Gets the [Series.marker](/cells/python-net/aspose.cells.charts/series#marker). |
+| [marker](/cells/python-net/aspose.cells.charts/series/marker) | Gets the [`Series.marker`](/cells/python-net/aspose.cells.charts/series#marker). |
 | [plot_on_second_axis](/cells/python-net/aspose.cells.charts/series/plot_on_second_axis) | Indicates if this series is plotted on second value axis. |
 | [x_error_bar](/cells/python-net/aspose.cells.charts/series/x_error_bar) | Represents X direction error bar of the series. |
 | [y_error_bar](/cells/python-net/aspose.cells.charts/series/y_error_bar) | Represents Y direction error bar of the series. |
@@ -48,10 +48,10 @@ The Series type exposes the following members:
 | [has_series_lines](/cells/python-net/aspose.cells.charts/series/has_series_lines) | True if a stacked column chart or bar chart has series lines or<br/>if a Pie of Pie chart or Bar of Pie chart has connector lines between the two sections. <br/>Applies only to stacked column charts, bar charts, Pie of Pie charts, or Bar of Pie charts. |
 | [series_lines](/cells/python-net/aspose.cells.charts/series/series_lines) | Returns a SeriesLines object that represents the series lines for a stacked bar chart or a stacked column chart.<br/>Applies only to stacked bar and stacked column charts. |
 | [has_drop_lines](/cells/python-net/aspose.cells.charts/series/has_drop_lines) | True if the chart has drop lines.<br/>Applies only to line chart or area charts. |
-| [drop_lines](/cells/python-net/aspose.cells.charts/series/drop_lines) | Returns a [Line](/cells/python-net/aspose.cells.drawing/line) object that represents the drop lines for a series on the line chart or area chart.<br/>Applies only to line chart or area charts. |
+| [drop_lines](/cells/python-net/aspose.cells.charts/series/drop_lines) | Returns a [`Line`](/cells/python-net/aspose.cells.drawing/line) object that represents the drop lines for a series on the line chart or area chart.<br/>Applies only to line chart or area charts. |
 | [has_up_down_bars](/cells/python-net/aspose.cells.charts/series/has_up_down_bars) | True if a line chart has up and down bars.<br/>Applies only to line charts. |
 | [up_bars](/cells/python-net/aspose.cells.charts/series/up_bars) | Returns an DropBars object that represents the up bars on a line chart.<br/>Applies only to line charts. |
-| [down_bars](/cells/python-net/aspose.cells.charts/series/down_bars) | Returns a [DropBars](/cells/python-net/aspose.cells.charts/dropbars) object that represents the down bars on a line chart.<br/>Applies only to line charts. |
+| [down_bars](/cells/python-net/aspose.cells.charts/series/down_bars) | Returns a [`DropBars`](/cells/python-net/aspose.cells.charts/dropbars) object that represents the down bars on a line chart.<br/>Applies only to line charts. |
 | [is_color_varied](/cells/python-net/aspose.cells.charts/series/is_color_varied) | Represents if the color of points is varied. <br/>The chart must contain only one series. |
 | [gap_width](/cells/python-net/aspose.cells.charts/series/gap_width) | Returns or sets the space between bar or column clusters, as a percentage of the bar or column width.<br/>The value of this property must be between 0 and 500. |
 | [first_slice_angle](/cells/python-net/aspose.cells.charts/series/first_slice_angle) | Gets or sets the angle of the first pie-chart or doughnut-chart slice, in degrees (clockwise from vertical). <br/>Applies only to pie, 3-D pie, and doughnut charts, 0 to 360. |
@@ -69,13 +69,13 @@ The Series type exposes the following members:
 | [has_leader_lines](/cells/python-net/aspose.cells.charts/series/has_leader_lines) | True if the series has leader lines. |
 | [leader_lines](/cells/python-net/aspose.cells.charts/series/leader_lines) | Represents leader lines on a chart. Leader lines connect data labels to data points. <br/>This object isn’t a collection; there’s no object that represents a single leader line. |
 | [legend_entry](/cells/python-net/aspose.cells.charts/series/legend_entry) | Gets the legend entry according to this series. |
-| [shape_properties](/cells/python-net/aspose.cells.charts/series/shape_properties) | Gets the [ShapePropertyCollection](/cells/python-net/aspose.cells.drawing/shapepropertycollection) object that holds the visual shape properties of the Series. |
+| [shape_properties](/cells/python-net/aspose.cells.charts/series/shape_properties) | Gets the [`ShapePropertyCollection`](/cells/python-net/aspose.cells.drawing/shapepropertycollection) object that holds the visual shape properties of the Series. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [move(count)](/cells/python-net/aspose.cells.charts/series/move/#int) | Moves the series up or down. |
+| [move](/cells/python-net/aspose.cells.charts/series/move/#int) | Moves the series up or down. |
 
 
 
@@ -142,7 +142,7 @@ workbook.save("book1.xls")
 ```
 
 ### See Also
-* module [aspose.cells.charts](..)
-* class [DropBars](/cells/python-net/aspose.cells.charts/dropbars)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
-* class [ShapePropertyCollection](/cells/python-net/aspose.cells.drawing/shapepropertycollection)
+* module [`aspose.cells.charts`](..)
+* class [`DropBars`](/cells/python-net/aspose.cells.charts/dropbars)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)
+* class [`ShapePropertyCollection`](/cells/python-net/aspose.cells.drawing/shapepropertycollection)

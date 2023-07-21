@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/radiobutton/calculate_text_size/
 is_root: false
 ---
 
-## calculate_text_size() {#}
+## calculate_text_size {#}
 
 Recalculate the text area
 
@@ -39,5 +39,5 @@ size = shape.calculate_text_size()
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

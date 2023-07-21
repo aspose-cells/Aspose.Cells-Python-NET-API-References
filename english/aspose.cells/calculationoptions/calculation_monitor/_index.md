@@ -23,6 +23,6 @@ def calculation_monitor(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractCalculationMonitor](/cells/python-net/aspose.cells/abstractcalculationmonitor)
-* class [CalculationOptions](/cells/python-net/aspose.cells/calculationoptions)
+* module [`aspose.cells`](../../)
+* class [`AbstractCalculationMonitor`](/cells/python-net/aspose.cells/abstractcalculationmonitor)
+* class [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions)

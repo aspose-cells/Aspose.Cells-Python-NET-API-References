@@ -8,7 +8,7 @@ url: /aspose.cells.tables/listobject/filter/
 is_root: false
 ---
 
-## filter() {#}
+## filter {#}
 
 Filter the table.
 
@@ -24,5 +24,5 @@ def filter(self):
 
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListObject](/cells/python-net/aspose.cells.tables/listobject)
+* module [`aspose.cells.tables`](../../)
+* class [`ListObject`](/cells/python-net/aspose.cells.tables/listobject)

@@ -3,12 +3,12 @@ title: add_scroll_bar method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /aspose.cells.drawing/shapecollection/add_scroll_bar/
 is_root: false
 ---
 
-## add_scroll_bar(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+## add_scroll_bar {#int-int-int-int-int-int}
 
 Adds a ScrollBar to the worksheet.
 
@@ -47,5 +47,5 @@ scrollBar = shapes.add_scroll_bar(1, 0, 1, 0, 100, 50)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

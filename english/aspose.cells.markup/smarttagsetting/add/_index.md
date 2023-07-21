@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagsetting/add/
 is_root: false
 ---
 
-## add(cell_name) {#str}
+## add {#str}
 
 Add a cell smart tags.
 
@@ -30,15 +30,15 @@ def add(self, cell_name):
 | cell_name | str | The name of the cell. |
 
 
-## add(row, column) {#int-int}
+## add {#int-int}
 
-Adds a [SmartTagCollection](/cells/python-net/aspose.cells.markup/smarttagcollection) object to a cell.
+Adds a [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection) object to a cell.
 
 
 ### Returns 
 
 
-Returns index of a [SmartTagCollection](/cells/python-net/aspose.cells.markup/smarttagcollection) object in the worksheet.
+Returns index of a [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection) object in the worksheet.
 
 
 ```python
@@ -55,6 +55,6 @@ def add(self, row, column):
 
 
 ### See Also
-* module [aspose.cells.markup](../../)
-* class [SmartTagCollection](/cells/python-net/aspose.cells.markup/smarttagcollection)
-* class [SmartTagSetting](/cells/python-net/aspose.cells.markup/smarttagsetting)
+* module [`aspose.cells.markup`](../../)
+* class [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection)
+* class [`SmartTagSetting`](/cells/python-net/aspose.cells.markup/smarttagsetting)

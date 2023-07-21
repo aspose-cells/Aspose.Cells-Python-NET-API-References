@@ -23,5 +23,5 @@ def codes(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.vba](../../)
-* class [VbaModule](/cells/python-net/aspose.cells.vba/vbamodule)
+* module [`aspose.cells.vba`](../../)
+* class [`VbaModule`](/cells/python-net/aspose.cells.vba/vbamodule)

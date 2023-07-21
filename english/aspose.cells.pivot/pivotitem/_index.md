@@ -3,7 +3,7 @@ title: PivotItem class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 100
 url: /aspose.cells.pivot/pivotitem/
 is_root: false
 ---
@@ -29,12 +29,12 @@ The PivotItem type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [move(count, is_same_parent)](/cells/python-net/aspose.cells.pivot/pivotitem/move/#int-bool) | Moves the item up or down |
-| [get_string_value()](/cells/python-net/aspose.cells.pivot/pivotitem/get_string_value/#) | Gets the string value of the pivot item<br/>If the value is null, it will return "" |
-| [get_double_value()](/cells/python-net/aspose.cells.pivot/pivotitem/get_double_value/#) | Gets the double value of the pivot item<br/>If the value is null or not number ,it will return 0 |
-| [get_date_time_value()](/cells/python-net/aspose.cells.pivot/pivotitem/get_date_time_value/#) | Gets the date time value of the pivot item<br/>If the value is null ,it will return DateTime.MinValue |
+| [move](/cells/python-net/aspose.cells.pivot/pivotitem/move/#int-bool) | Moves the item up or down |
+| [get_string_value](/cells/python-net/aspose.cells.pivot/pivotitem/get_string_value/#) | Gets the string value of the pivot item<br/>If the value is null, it will return "" |
+| [get_double_value](/cells/python-net/aspose.cells.pivot/pivotitem/get_double_value/#) | Gets the double value of the pivot item<br/>If the value is null or not number ,it will return 0 |
+| [get_date_time_value](/cells/python-net/aspose.cells.pivot/pivotitem/get_date_time_value/#) | Gets the date time value of the pivot item<br/>If the value is null ,it will return DateTime.MinValue |
 
 
 
 ### See Also
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

@@ -25,5 +25,5 @@ def category_data(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [SeriesCollection](/cells/python-net/aspose.cells.charts/seriescollection)
+* module [`aspose.cells.charts`](../../)
+* class [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection)

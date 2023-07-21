@@ -25,5 +25,5 @@ def text(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormatCondition](/cells/python-net/aspose.cells/formatcondition)
+* module [`aspose.cells`](../../)
+* class [`FormatCondition`](/cells/python-net/aspose.cells/formatcondition)

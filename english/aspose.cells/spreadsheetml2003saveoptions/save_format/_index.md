@@ -20,6 +20,6 @@ def save_format(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [SaveFormat](/cells/python-net/aspose.cells/saveformat)
-* class [SpreadsheetML2003SaveOptions](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions)
+* module [`aspose.cells`](../../)
+* class [`SaveFormat`](/cells/python-net/aspose.cells/saveformat)
+* class [`SpreadsheetML2003SaveOptions`](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions)

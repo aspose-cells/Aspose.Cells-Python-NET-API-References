@@ -23,6 +23,6 @@ def style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [LineType](/cells/python-net/aspose.cells.drawing/linetype)
-* class [Trendline](/cells/python-net/aspose.cells.charts/trendline)
+* module [`aspose.cells.charts`](../../)
+* class [`LineType`](/cells/python-net/aspose.cells.drawing/linetype)
+* class [`Trendline`](/cells/python-net/aspose.cells.charts/trendline)

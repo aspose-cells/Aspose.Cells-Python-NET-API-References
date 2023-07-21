@@ -3,7 +3,7 @@ title: ThreeDFormat class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 710
 url: /aspose.cells.drawing/threedformat/
 is_root: false
 ---
@@ -43,4 +43,4 @@ The ThreeDFormat type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

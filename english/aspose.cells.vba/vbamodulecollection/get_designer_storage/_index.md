@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbamodulecollection/get_designer_storage/
 is_root: false
 ---
 
-## get_designer_storage(name) {#str}
+## get_designer_storage {#str}
 
 Represents the data of Designer.
 
@@ -29,5 +29,5 @@ We do not support to parse them. Just only for copying.
 
 
 ### See Also
-* module [aspose.cells.vba](../../)
-* class [VbaModuleCollection](/cells/python-net/aspose.cells.vba/vbamodulecollection)
+* module [`aspose.cells.vba`](../../)
+* class [`VbaModuleCollection`](/cells/python-net/aspose.cells.vba/vbamodulecollection)

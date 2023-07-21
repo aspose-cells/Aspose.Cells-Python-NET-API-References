@@ -28,10 +28,10 @@ The MsoFormatPicture type exposes the following members:
 | [contrast](/cells/python-net/aspose.cells.drawing/msoformatpicture/contrast) | Represents the contrast modification for the picture.in unit of percentage. |
 | [brightness](/cells/python-net/aspose.cells.drawing/msoformatpicture/brightness) | Represents the brightness modification for the picture in unit of percentage. |
 | [gamma](/cells/python-net/aspose.cells.drawing/msoformatpicture/gamma) | Represents gamma of the picture. |
-| [is_bi_level](/cells/python-net/aspose.cells.drawing/msoformatpicture/is_bi_level) | Indicates whether this picture should be displayed in two-color black and white. |
-| [is_gray](/cells/python-net/aspose.cells.drawing/msoformatpicture/is_gray) | Indicates whether this picture SHOULD be displayed in grayscale. |
+| [is_bi_level](/cells/python-net/aspose.cells.drawing/msoformatpicture/is_bi_level) | Indicates whether this picture should display in two-color black and white. |
+| [is_gray](/cells/python-net/aspose.cells.drawing/msoformatpicture/is_gray) | Indicates whether this picture should display in grayscale. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

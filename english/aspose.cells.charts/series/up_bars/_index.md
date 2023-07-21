@@ -21,6 +21,6 @@ def up_bars(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [DropBars](/cells/python-net/aspose.cells.charts/dropbars)
-* class [Series](/cells/python-net/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* class [`DropBars`](/cells/python-net/aspose.cells.charts/dropbars)
+* class [`Series`](/cells/python-net/aspose.cells.charts/series)

@@ -3,7 +3,7 @@ title: is_hidden property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells/row/is_hidden/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def is_hidden(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Row](/cells/python-net/aspose.cells/row)
+* module [`aspose.cells`](../../)
+* class [`Row`](/cells/python-net/aspose.cells/row)

@@ -3,12 +3,12 @@ title: remove_hyperlink method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells.drawing/listbox/remove_hyperlink/
 is_root: false
 ---
 
-## remove_hyperlink() {#}
+## remove_hyperlink {#}
 
 Remove the hyperlink of the shape.
 
@@ -33,5 +33,5 @@ shape.remove_hyperlink()
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ListBox](/cells/python-net/aspose.cells.drawing/listbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`ListBox`](/cells/python-net/aspose.cells.drawing/listbox)

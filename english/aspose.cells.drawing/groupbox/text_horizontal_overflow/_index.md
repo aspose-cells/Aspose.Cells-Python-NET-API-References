@@ -34,6 +34,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GroupBox](/cells/python-net/aspose.cells.drawing/groupbox)
-* class [TextOverflowType](/cells/python-net/aspose.cells.drawing/textoverflowtype)
+* module [`aspose.cells.drawing`](../../)
+* class [`GroupBox`](/cells/python-net/aspose.cells.drawing/groupbox)
+* class [`TextOverflowType`](/cells/python-net/aspose.cells.drawing/textoverflowtype)

@@ -3,7 +3,7 @@ title: RectangleAlignmentType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1110
+weight: 1100
 url: /aspose.cells.drawing/rectanglealignmenttype/
 is_root: false
 ---
@@ -32,4 +32,4 @@ The RectangleAlignmentType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

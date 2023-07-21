@@ -8,7 +8,7 @@ url: /aspose.cells/icustomfunction/calculate_custom_function/
 is_root: false
 ---
 
-## calculate_custom_function(function_name, params_list, context_objects) {#str-list-list}
+## calculate_custom_function {#str-list-list}
 
 
 
@@ -29,5 +29,5 @@ def calculate_custom_function(self, function_name, params_list, context_objects)
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ICustomFunction](/cells/python-net/aspose.cells/icustomfunction)
+* module [`aspose.cells`](../../)
+* class [`ICustomFunction`](/cells/python-net/aspose.cells/icustomfunction)

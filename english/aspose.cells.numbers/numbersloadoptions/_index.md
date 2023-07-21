@@ -14,8 +14,8 @@ Represents the options of loading Apple Numbers files.
 
 
 
-**Inheritance:** [NumbersLoadOptions](/cells/python-net/aspose.cells.numbers/numbersloadoptions) → 
-[LoadOptions](/cells/python-net/aspose.cells/loadoptions)
+**Inheritance:** [`NumbersLoadOptions`](/cells/python-net/aspose.cells.numbers/numbersloadoptions) → 
+[`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
 
 
 
@@ -24,7 +24,7 @@ The NumbersLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [NumbersLoadOptions()](/cells/python-net/aspose.cells.numbers/numbersloadoptions/__init__/#) | Constructor. |
+| [__init__](/cells/python-net/aspose.cells.numbers/numbersloadoptions/__init__/#) | Constructor. |
 
 
 ### Properties
@@ -50,19 +50,20 @@ The NumbersLoadOptions type exposes the following members:
 | [warning_callback](/cells/python-net/aspose.cells.numbers/numbersloadoptions/warning_callback) | Gets or sets warning callback. |
 | [auto_fitter_options](/cells/python-net/aspose.cells.numbers/numbersloadoptions/auto_fitter_options) | Gets and sets the auto fitter options |
 | [auto_filter](/cells/python-net/aspose.cells.numbers/numbersloadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
-| [font_configs](/cells/python-net/aspose.cells.numbers/numbersloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [Workbook](/cells/python-net/aspose.cells/workbook) which uses this [LoadOptions](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [font_configs](/cells/python-net/aspose.cells.numbers/numbersloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
+| [ignore_useless_shapes](/cells/python-net/aspose.cells.numbers/numbersloadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
 | [load_table_type](/cells/python-net/aspose.cells.numbers/numbersloadoptions/load_table_type) | Gets and sets the type of loading multiple tables in one worksheet. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_paper_size(type)](/cells/python-net/aspose.cells.numbers/numbersloadoptions/set_paper_size/#PaperSizeType) | Sets the default print paper size from default printer's setting. |
+| [set_paper_size](/cells/python-net/aspose.cells.numbers/numbersloadoptions/set_paper_size/#aspose.cells.PaperSizeType) | Sets the default print paper size from default printer's setting. |
 
 
 
 ### See Also
-* module [aspose.cells.numbers](..)
-* class [LoadOptions](/cells/python-net/aspose.cells/loadoptions)
-* class [NumbersLoadOptions](/cells/python-net/aspose.cells.numbers/numbersloadoptions)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells.numbers`](..)
+* class [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)
+* class [`NumbersLoadOptions`](/cells/python-net/aspose.cells.numbers/numbersloadoptions)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

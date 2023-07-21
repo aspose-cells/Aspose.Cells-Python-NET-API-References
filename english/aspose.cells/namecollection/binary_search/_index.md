@@ -8,7 +8,7 @@ url: /aspose.cells/namecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Name}
+## binary_search {#aspose.cells.Name}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Name](/cells/python-net/aspose.cells/name) | The System.Object to locate. The value can be null. |
+| item | [`Name`](/cells/python-net/aspose.cells/name) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [NameCollection](/cells/python-net/aspose.cells/namecollection)
+* module [`aspose.cells`](../../)
+* class [`NameCollection`](/cells/python-net/aspose.cells/namecollection)

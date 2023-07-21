@@ -28,6 +28,6 @@ def text_frame(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GroupBox](/cells/python-net/aspose.cells.drawing/groupbox)
-* class [MsoTextFrame](/cells/python-net/aspose.cells.drawing/msotextframe)
+* module [`aspose.cells.drawing`](../../)
+* class [`GroupBox`](/cells/python-net/aspose.cells.drawing/groupbox)
+* class [`MsoTextFrame`](/cells/python-net/aspose.cells.drawing/msotextframe)

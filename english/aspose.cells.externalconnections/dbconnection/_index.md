@@ -14,8 +14,8 @@ Specifies all properties associated with an ODBC or OLE DB external data connect
 
 
 
-**Inheritance:** [DBConnection](/cells/python-net/aspose.cells.externalconnections/dbconnection) → 
-[ExternalConnection](/cells/python-net/aspose.cells.externalconnections/externalconnection)
+**Inheritance:** [`DBConnection`](/cells/python-net/aspose.cells.externalconnections/dbconnection) → 
+[`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)
 
 
 
@@ -46,7 +46,7 @@ The DBConnection type exposes the following members:
 | [credentials_method_type](/cells/python-net/aspose.cells.externalconnections/dbconnection/credentials_method_type) | Specifies the authentication method to be used when establishing (or re-establishing) the connection. |
 | [credentials](/cells/python-net/aspose.cells.externalconnections/dbconnection/credentials) | Specifies the authentication method to be used when establishing (or re-establishing) the connection. |
 | [background_refresh](/cells/python-net/aspose.cells.externalconnections/dbconnection/background_refresh) | Indicates whether the connection can be refreshed in the background (asynchronously). <br/>true if preferred usage of the connection is to refresh asynchronously in the background; <br/>false if preferred usage of the connection is to refresh synchronously in the foreground. |
-| [parameters](/cells/python-net/aspose.cells.externalconnections/dbconnection/parameters) | Gets [ConnectionParameterCollection](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection) for an ODBC or web query. |
+| [parameters](/cells/python-net/aspose.cells.externalconnections/dbconnection/parameters) | Gets [`ConnectionParameterCollection`](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection) for an ODBC or web query. |
 | [connection_info](/cells/python-net/aspose.cells.externalconnections/dbconnection/connection_info) | The connection information string is used to make contact with an OLE DB or ODBC data source. |
 | [command_type](/cells/python-net/aspose.cells.externalconnections/dbconnection/command_type) | Specifies the OLE DB command type. <br/>1. Query specifies a cube name<br/>2. Query specifies a SQL statement<br/>3. Query specifies a table name<br/>4. Query specifies that default information has been given, and it is up to the provider how to interpret.<br/>5. Query is against a web based List Data Provider. |
 | [command](/cells/python-net/aspose.cells.externalconnections/dbconnection/command) | The string containing the database command to pass to the data provider API that will <br/>interact with the external source in order to retrieve data |
@@ -55,7 +55,7 @@ The DBConnection type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.externalconnections](..)
-* class [ConnectionParameterCollection](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection)
-* class [DBConnection](/cells/python-net/aspose.cells.externalconnections/dbconnection)
-* class [ExternalConnection](/cells/python-net/aspose.cells.externalconnections/externalconnection)
+* module [`aspose.cells.externalconnections`](..)
+* class [`ConnectionParameterCollection`](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection)
+* class [`DBConnection`](/cells/python-net/aspose.cells.externalconnections/dbconnection)
+* class [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)

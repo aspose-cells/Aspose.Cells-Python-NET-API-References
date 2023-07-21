@@ -8,15 +8,15 @@ url: /aspose.cells/xmlmapcollection/add/
 is_root: false
 ---
 
-## add(url) {#str}
+## add {#str}
 
-Add a [XmlMap](/cells/python-net/aspose.cells/xmlmap) by the url/path of a xml/xsd file.
+Add a [`XmlMap`](/cells/python-net/aspose.cells/xmlmap) by the url/path of a xml/xsd file.
 
 
 ### Returns 
 
 
-[XmlMap](/cells/python-net/aspose.cells/xmlmap) object index.
+[`XmlMap`](/cells/python-net/aspose.cells/xmlmap) object index.
 
 
 ```python
@@ -50,6 +50,6 @@ wb.save("twoXmlMaps.xlsx")
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XmlMap](/cells/python-net/aspose.cells/xmlmap)
-* class [XmlMapCollection](/cells/python-net/aspose.cells/xmlmapcollection)
+* module [`aspose.cells`](../../)
+* class [`XmlMap`](/cells/python-net/aspose.cells/xmlmap)
+* class [`XmlMapCollection`](/cells/python-net/aspose.cells/xmlmapcollection)

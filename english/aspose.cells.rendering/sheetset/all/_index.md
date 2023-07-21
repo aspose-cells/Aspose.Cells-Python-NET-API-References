@@ -3,7 +3,7 @@ title: all property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells.rendering/sheetset/all/
 is_root: false
 ---
@@ -20,5 +20,5 @@ def all(self):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [SheetSet](/cells/python-net/aspose.cells.rendering/sheetset)
+* module [`aspose.cells.rendering`](../../)
+* class [`SheetSet`](/cells/python-net/aspose.cells.rendering/sheetset)

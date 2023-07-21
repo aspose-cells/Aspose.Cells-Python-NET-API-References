@@ -3,7 +3,7 @@ title: height property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /aspose.cells.drawing/radiobutton/height/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def height(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

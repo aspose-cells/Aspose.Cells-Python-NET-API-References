@@ -25,6 +25,6 @@ def hidden_col_display_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlHiddenColDisplayType](/cells/python-net/aspose.cells/htmlhiddencoldisplaytype)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlHiddenColDisplayType`](/cells/python-net/aspose.cells/htmlhiddencoldisplaytype)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)

@@ -19,13 +19,13 @@ The DigitalSignatureCollection type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [DigitalSignatureCollection()](/cells/python-net/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) | The constructor of DigitalSignatureCollection. |
+| [__init__](/cells/python-net/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) | The constructor of DigitalSignatureCollection. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add(digital_signature)](/cells/python-net/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#DigitalSignature) | Add one signature to DigitalSignatureCollection. |
+| [add](/cells/python-net/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#aspose.cells.digitalsignatures.DigitalSignature) | Add one signature to DigitalSignatureCollection. |
 
 
 
@@ -51,4 +51,4 @@ for existingDs in existingDsc:
 ```
 
 ### See Also
-* module [aspose.cells.digitalsignatures](..)
+* module [`aspose.cells.digitalsignatures`](..)

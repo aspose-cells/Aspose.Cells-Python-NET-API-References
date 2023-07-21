@@ -31,5 +31,5 @@ def string_value(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [CustomProperty](/cells/python-net/aspose.cells.properties/customproperty)
+* module [`aspose.cells.properties`](../../)
+* class [`CustomProperty`](/cells/python-net/aspose.cells.properties/customproperty)

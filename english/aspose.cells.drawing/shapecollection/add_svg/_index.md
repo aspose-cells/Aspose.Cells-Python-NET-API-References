@@ -3,12 +3,12 @@ title: add_svg method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells.drawing/shapecollection/add_svg/
 is_root: false
 ---
 
-## add_svg(upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+## add_svg {#int-int-int-int-int-int-bytes-bytes}
 
 Adds svg image.
 
@@ -41,6 +41,8 @@ def add_svg(self, upper_left_row, top, upper_left_column, left, height, width, s
 
 ```python
 from aspose import pycore
+import bytearray
+import int
 
 #  add a svg
 with open("image.svg", "rb") as fs:
@@ -54,5 +56,5 @@ with open("image.svg", "rb") as fs:
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

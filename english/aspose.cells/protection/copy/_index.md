@@ -8,7 +8,7 @@ url: /aspose.cells/protection/copy/
 is_root: false
 ---
 
-## copy(source) {#Protection}
+## copy {#aspose.cells.Protection}
 
 Copy protection info.
 
@@ -22,10 +22,10 @@ def copy(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [Protection](/cells/python-net/aspose.cells/protection) |  |
+| source | [`Protection`](/cells/python-net/aspose.cells/protection) |  |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Protection](/cells/python-net/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* class [`Protection`](/cells/python-net/aspose.cells/protection)

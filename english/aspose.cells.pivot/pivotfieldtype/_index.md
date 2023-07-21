@@ -3,7 +3,7 @@ title: PivotFieldType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 230
 url: /aspose.cells.pivot/pivotfieldtype/
 is_root: false
 ---
@@ -28,4 +28,4 @@ The PivotFieldType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

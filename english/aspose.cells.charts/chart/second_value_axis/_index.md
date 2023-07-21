@@ -3,7 +3,7 @@ title: second_value_axis property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 530
 url: /aspose.cells.charts/chart/second_value_axis/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def second_value_axis(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Axis](/cells/python-net/aspose.cells.charts/axis)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Axis`](/cells/python-net/aspose.cells.charts/axis)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

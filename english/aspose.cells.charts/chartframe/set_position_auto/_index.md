@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartframe/set_position_auto/
 is_root: false
 ---
 
-## set_position_auto() {#}
+## set_position_auto {#}
 
 Set position of the frame to automatic
 
@@ -24,5 +24,5 @@ def set_position_auto(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartFrame](/cells/python-net/aspose.cells.charts/chartframe)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartFrame`](/cells/python-net/aspose.cells.charts/chartframe)

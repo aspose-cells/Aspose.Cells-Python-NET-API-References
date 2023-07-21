@@ -3,7 +3,7 @@ title: TextureType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1180
+weight: 1170
 url: /aspose.cells.drawing/texturetype/
 is_root: false
 ---
@@ -48,4 +48,4 @@ The TextureType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

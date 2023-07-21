@@ -8,15 +8,15 @@ url: /aspose.cells/workbook/create_cells_color/
 is_root: false
 ---
 
-## create_cells_color() {#}
+## create_cells_color {#}
 
-Creates a [CellsColor](/cells/python-net/aspose.cells/cellscolor) object.
+Creates a [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) object.
 
 
 ### Returns 
 
 
-Returns a [CellsColor](/cells/python-net/aspose.cells/cellscolor) object.
+Returns a [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) object.
 
 
 ```python
@@ -29,6 +29,6 @@ def create_cells_color(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsColor](/cells/python-net/aspose.cells/cellscolor)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`CellsColor`](/cells/python-net/aspose.cells/cellscolor)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

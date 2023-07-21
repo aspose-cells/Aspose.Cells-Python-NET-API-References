@@ -20,6 +20,6 @@ def external_links(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ExternalLinkCollection](/cells/python-net/aspose.cells/externallinkcollection)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`ExternalLinkCollection`](/cells/python-net/aspose.cells/externallinkcollection)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

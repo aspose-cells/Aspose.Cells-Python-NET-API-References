@@ -23,5 +23,5 @@ def name_of_application(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [BuiltInDocumentPropertyCollection](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection)
+* module [`aspose.cells.properties`](../../)
+* class [`BuiltInDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection)

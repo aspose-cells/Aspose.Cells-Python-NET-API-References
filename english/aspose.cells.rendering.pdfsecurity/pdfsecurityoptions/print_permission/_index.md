@@ -23,5 +23,5 @@ def print_permission(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.rendering.pdfsecurity](../../)
-* class [PdfSecurityOptions](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* module [`aspose.cells.rendering.pdfsecurity`](../../)
+* class [`PdfSecurityOptions`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

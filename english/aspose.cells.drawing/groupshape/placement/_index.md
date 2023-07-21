@@ -35,6 +35,6 @@ def placement(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GroupShape](/cells/python-net/aspose.cells.drawing/groupshape)
-* class [PlacementType](/cells/python-net/aspose.cells.drawing/placementtype)
+* module [`aspose.cells.drawing`](../../)
+* class [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape)
+* class [`PlacementType`](/cells/python-net/aspose.cells.drawing/placementtype)

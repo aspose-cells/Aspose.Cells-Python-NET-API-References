@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfieldcollection/add/
 is_root: false
 ---
 
-## add(pivot_field) {#PivotField}
+## add {#aspose.cells.pivot.PivotField}
 
 Adds a PivotField Object to the specific type PivotFields.
 
@@ -27,10 +27,10 @@ def add(self, pivot_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_field | [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield) | a PivotField Object. |
+| pivot_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | a PivotField Object. |
 
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotFieldCollection](/cells/python-net/aspose.cells.pivot/pivotfieldcollection)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotFieldCollection`](/cells/python-net/aspose.cells.pivot/pivotfieldcollection)
