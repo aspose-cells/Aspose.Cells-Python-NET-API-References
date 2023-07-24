@@ -11,7 +11,9 @@ is_root: true
 ### Modules
 | Module | Description |
 | :- | :- |
-| [`aspose.cells`](/cells/python-net/aspose.cells) | The **Aspose.Cells**  namespace provides fundamental and base classes for generating, converting, modifying, rendering and printing Spreadsheets without utilizing Microsoft Excel.<br/>For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the main entry to create or load and then manipulate a spreadsheet file,<br/>[`Cells`](/cells/python-net/aspose.cells/cells) class is the main class to manipulate all data and properties in a sheet, ...etc. |
+| [`aspose.cells`](/cells/python-net/aspose.cells) | The **Aspose.Cells**  namespace provides fundamental and base classes for generating, converting, modifying, rendering and printing Spreadsheets without utilizing Microsoft Excel.
+<br/>For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the main entry to create or load and then manipulate a spreadsheet file,
+<br/>[`Cells`](/cells/python-net/aspose.cells/cells) class is the main class to manipulate all data and properties in a sheet, ...etc. |
 | [`aspose.cells.charts`](/cells/python-net/aspose.cells.charts) | The **Aspose.Cells.Charts**  namespace provides classes that allow to access and drawing charts and sparkline in Microsoft Excel spreadsheets. |
 | [`aspose.cells.digitalsignatures`](/cells/python-net/aspose.cells.digitalsignatures) | The **Aspose.Cells.DigitalSignatures**  namespace provides classes to sign documents and verify signatures. |
 | [`aspose.cells.drawing`](/cells/python-net/aspose.cells.drawing) | The **Aspose.Cells.Drawing**  namespace provides classes that allow to create and modify drawing shapes, form controls, and more advanced drawing objects. |
@@ -38,5 +40,3 @@ is_root: true
 | [`aspose.cells.utility`](/cells/python-net/aspose.cells.utility) | The **Aspose.Cells.Utility**  namespace contains utility classes processing JSON formats for Excel Spreadsheet files. |
 | [`aspose.cells.vba`](/cells/python-net/aspose.cells.vba) | The **Aspose.Cells.Vba**  namespace contains classes to access Visual Basic Analysis projects and modules in Excel Spreadsheet files. |
 | [`aspose.cells.webextensions`](/cells/python-net/aspose.cells.webextensions) | The **Aspose.Cells.WebExtensions**  namespace contains classes to access Office Add-in in Excel Files. |
-
-
