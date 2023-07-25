@@ -23,6 +23,6 @@ def function(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [ConsolidationFunction](/cells/python-net/aspose.cells/consolidationfunction)
-* class [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield)
+* module [`aspose.cells.pivot`](../../)
+* class [`ConsolidationFunction`](/cells/python-net/aspose.cells/consolidationfunction)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)

@@ -8,7 +8,7 @@ url: /aspose.cells.charts/walls/get_cube_point_count/
 is_root: false
 ---
 
-## get_cube_point_count() {#}
+## get_cube_point_count {#}
 
 Gets the number of cube points after calls Chart.Calculate() method.
 
@@ -24,5 +24,5 @@ def get_cube_point_count(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Walls](/cells/python-net/aspose.cells.charts/walls)
+* module [`aspose.cells.charts`](../../)
+* class [`Walls`](/cells/python-net/aspose.cells.charts/walls)

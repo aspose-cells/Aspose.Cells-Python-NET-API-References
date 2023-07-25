@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartglobalizationsettings/get_other_name/
 is_root: false
 ---
 
-## get_other_name() {#}
+## get_other_name {#}
 
 Gets the name of "Other" labels for Chart.
 
@@ -29,5 +29,5 @@ def get_other_name(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartGlobalizationSettings](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartGlobalizationSettings`](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)

@@ -8,9 +8,9 @@ url: /aspose.cells/cells/check_row/
 is_root: false
 ---
 
-## check_row(row) {#int}
+## check_row {#int}
 
-Gets the [Row](/cells/python-net/aspose.cells/row) element or at the specified cell row index.
+Gets the [`Row`](/cells/python-net/aspose.cells/row) element or at the specified cell row index.
 
 
 ### Returns 
@@ -32,6 +32,6 @@ def check_row(self, row):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
-* class [Row](/cells/python-net/aspose.cells/row)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)
+* class [`Row`](/cells/python-net/aspose.cells/row)

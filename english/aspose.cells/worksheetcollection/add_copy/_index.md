@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/add_copy/
 is_root: false
 ---
 
-## add_copy(sheet_name) {#str}
+## add_copy {#str}
 
 Adds a worksheet to the collection and copies data from an existed worksheet.
 
@@ -16,7 +16,7 @@ Adds a worksheet to the collection and copies data from an existed worksheet.
 ### Returns 
 
 
-[Worksheet](/cells/python-net/aspose.cells/worksheet) object index.
+[`Worksheet`](/cells/python-net/aspose.cells/worksheet) object index.
 
 
 ```python
@@ -31,12 +31,12 @@ def add_copy(self, sheet_name):
 ### Exceptions
 | Exception | Description |
 | :- | :- |
-| [CellsException](/cells/python-net/aspose.cells/cellsexception) | Specifies an invalid worksheet name. |
+| [`CellsException`](/cells/python-net/aspose.cells/cellsexception) | Specifies an invalid worksheet name. |
 
 
 
 
-## add_copy(sheet_index) {#int}
+## add_copy {#int}
 
 Adds a worksheet to the collection and copies data from an existed worksheet.
 
@@ -44,7 +44,7 @@ Adds a worksheet to the collection and copies data from an existed worksheet.
 ### Returns 
 
 
-[Worksheet](/cells/python-net/aspose.cells/worksheet) object index.
+[`Worksheet`](/cells/python-net/aspose.cells/worksheet) object index.
 
 
 ```python
@@ -60,7 +60,7 @@ def add_copy(self, sheet_index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsException](/cells/python-net/aspose.cells/cellsexception)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`CellsException`](/cells/python-net/aspose.cells/cellsexception)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

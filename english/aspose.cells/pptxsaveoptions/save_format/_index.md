@@ -20,6 +20,6 @@ def save_format(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PptxSaveOptions](/cells/python-net/aspose.cells/pptxsaveoptions)
-* class [SaveFormat](/cells/python-net/aspose.cells/saveformat)
+* module [`aspose.cells`](../../)
+* class [`PptxSaveOptions`](/cells/python-net/aspose.cells/pptxsaveoptions)
+* class [`SaveFormat`](/cells/python-net/aspose.cells/saveformat)

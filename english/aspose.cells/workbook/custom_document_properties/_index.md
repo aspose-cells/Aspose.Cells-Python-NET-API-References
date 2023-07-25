@@ -11,7 +11,7 @@ is_root: false
 ## custom_document_properties property
 
 
-Returns a [DocumentProperty](/cells/python-net/aspose.cells.properties/documentproperty) collection that represents all the custom document properties of the spreadsheet.
+Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) collection that represents all the custom document properties of the spreadsheet.
 
 ### Example 
 
@@ -31,7 +31,7 @@ def custom_document_properties(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CustomDocumentPropertyCollection](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
-* class [DocumentProperty](/cells/python-net/aspose.cells.properties/documentproperty)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
+* class [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

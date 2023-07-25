@@ -8,7 +8,7 @@ url: /aspose.cells/errorcheckoptioncollection/add/
 is_root: false
 ---
 
-## add() {#}
+## add {#}
 
 Add an error check option.
 
@@ -29,5 +29,5 @@ def add(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ErrorCheckOptionCollection](/cells/python-net/aspose.cells/errorcheckoptioncollection)
+* module [`aspose.cells`](../../)
+* class [`ErrorCheckOptionCollection`](/cells/python-net/aspose.cells/errorcheckoptioncollection)

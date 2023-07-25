@@ -23,5 +23,5 @@ def row(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.webextensions](../../)
-* class [WebExtensionTaskPane](/cells/python-net/aspose.cells.webextensions/webextensiontaskpane)
+* module [`aspose.cells.webextensions`](../../)
+* class [`WebExtensionTaskPane`](/cells/python-net/aspose.cells.webextensions/webextensiontaskpane)

@@ -3,7 +3,7 @@ title: map_chart_region_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells.charts/serieslayoutproperties/map_chart_region_type/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def map_chart_region_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [MapChartRegionType](/cells/python-net/aspose.cells.charts/mapchartregiontype)
-* class [SeriesLayoutProperties](/cells/python-net/aspose.cells.charts/serieslayoutproperties)
+* module [`aspose.cells.charts`](../../)
+* class [`MapChartRegionType`](/cells/python-net/aspose.cells.charts/mapchartregiontype)
+* class [`SeriesLayoutProperties`](/cells/python-net/aspose.cells.charts/serieslayoutproperties)

@@ -31,6 +31,6 @@ def separator(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [DataLabels](/cells/python-net/aspose.cells.charts/datalabels)
-* class [DataLablesSeparatorType](/cells/python-net/aspose.cells.charts/datalablesseparatortype)
+* module [`aspose.cells.charts`](../../)
+* class [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels)
+* class [`DataLablesSeparatorType`](/cells/python-net/aspose.cells.charts/datalablesseparatortype)

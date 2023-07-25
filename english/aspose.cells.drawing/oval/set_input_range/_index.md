@@ -3,12 +3,12 @@ title: set_input_range method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells.drawing/oval/set_input_range/
 is_root: false
 ---
 
-## set_input_range(formula, is_r1c1, is_local) {#str-bool-bool}
+## set_input_range {#str-bool-bool}
 
 Sets the range used to fill the control.
 
@@ -32,8 +32,6 @@ def set_input_range(self, formula, is_r1c1, is_local):
 ```python
 
 # After executing the code below, a ListBox object is created in the generated file. When the selected option is clicked, the selected value is displayed in cell A12.
-# Initialize a new workbook.
-# Workbook book = new Workbook();
 for i in range(10):
     cell = book.worksheets[0].cells.get(i, 0)
     cell.value = i + 1
@@ -52,5 +50,5 @@ listBox.set_linked_cell("$A$12", False, True)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Oval](/cells/python-net/aspose.cells.drawing/oval)
+* module [`aspose.cells.drawing`](../../)
+* class [`Oval`](/cells/python-net/aspose.cells.drawing/oval)

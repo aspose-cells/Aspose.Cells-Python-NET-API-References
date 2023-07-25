@@ -3,7 +3,7 @@ title: geometry property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /aspose.cells.drawing/radiobutton/geometry/
 is_root: false
 ---
@@ -18,7 +18,7 @@ Gets the geometry
 
 ```python
 
-if len(shape.Geometry.ShapeAdjustValues) == 0:
+if len(shape.geometry.shape_adjust_values) == 0:
     print("No geometry path.")
 
 ```
@@ -30,6 +30,6 @@ def geometry(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Geometry](/cells/python-net/aspose.cells.drawing/geometry)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`Geometry`](/cells/python-net/aspose.cells.drawing/geometry)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

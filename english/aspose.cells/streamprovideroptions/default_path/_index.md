@@ -21,5 +21,5 @@ def default_path(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [StreamProviderOptions](/cells/python-net/aspose.cells/streamprovideroptions)
+* module [`aspose.cells`](../../)
+* class [`StreamProviderOptions`](/cells/python-net/aspose.cells/streamprovideroptions)

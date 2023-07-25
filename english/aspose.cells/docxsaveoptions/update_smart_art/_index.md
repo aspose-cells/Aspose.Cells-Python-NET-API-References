@@ -3,7 +3,7 @@ title: update_smart_art property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 280
 url: /aspose.cells/docxsaveoptions/update_smart_art/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def update_smart_art(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DocxSaveOptions](/cells/python-net/aspose.cells/docxsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`DocxSaveOptions`](/cells/python-net/aspose.cells/docxsaveoptions)

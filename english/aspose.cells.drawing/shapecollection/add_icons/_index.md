@@ -3,12 +3,12 @@ title: add_icons method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
 
-## add_icons(upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+## add_icons {#int-int-int-int-int-int-bytes-bytes}
 
 Adds svg image.
 
@@ -41,6 +41,8 @@ def add_icons(self, upper_left_row, top, upper_left_column, left, height, width,
 
 ```python
 from aspose import pycore
+import bytearray
+import int
 
 # add icon
 with open("icon.svg", "rb") as fs:
@@ -54,5 +56,5 @@ with open("icon.svg", "rb") as fs:
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

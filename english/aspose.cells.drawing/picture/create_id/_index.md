@@ -3,7 +3,7 @@ title: create_id property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /aspose.cells.drawing/picture/create_id/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def create_id(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)

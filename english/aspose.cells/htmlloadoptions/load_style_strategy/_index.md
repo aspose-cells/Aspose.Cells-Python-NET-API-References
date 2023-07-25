@@ -3,7 +3,7 @@ title: load_style_strategy property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 280
 url: /aspose.cells/htmlloadoptions/load_style_strategy/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def load_style_strategy(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlLoadOptions](/cells/python-net/aspose.cells/htmlloadoptions)
-* class [TxtLoadStyleStrategy](/cells/python-net/aspose.cells/txtloadstylestrategy)
+* module [`aspose.cells`](../../)
+* class [`HtmlLoadOptions`](/cells/python-net/aspose.cells/htmlloadoptions)
+* class [`TxtLoadStyleStrategy`](/cells/python-net/aspose.cells/txtloadstylestrategy)

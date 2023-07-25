@@ -3,7 +3,7 @@ title: chart_data_table property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 220
 url: /aspose.cells.charts/chart/chart_data_table/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def chart_data_table(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
-* class [ChartDataTable](/cells/python-net/aspose.cells.charts/chartdatatable)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)
+* class [`ChartDataTable`](/cells/python-net/aspose.cells.charts/chartdatatable)

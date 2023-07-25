@@ -3,7 +3,7 @@ title: AutoShapeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 750
 url: /aspose.cells.drawing/autoshapetype/
 is_root: false
 ---
@@ -277,4 +277,4 @@ The AutoShapeType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

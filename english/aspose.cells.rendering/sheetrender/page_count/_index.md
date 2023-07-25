@@ -20,5 +20,5 @@ def page_count(self):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [SheetRender](/cells/python-net/aspose.cells.rendering/sheetrender)
+* module [`aspose.cells.rendering`](../../)
+* class [`SheetRender`](/cells/python-net/aspose.cells.rendering/sheetrender)

@@ -3,7 +3,7 @@ title: RevisionDefinedName class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.revisions/revisiondefinedname/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents a revision record of a defined name change.
 
 
 
-**Inheritance:** [RevisionDefinedName](/cells/python-net/aspose.cells.revisions/revisiondefinedname) → 
-[Revision](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionDefinedName`](/cells/python-net/aspose.cells.revisions/revisiondefinedname) → 
+[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 
 
 
@@ -34,6 +34,6 @@ The RevisionDefinedName type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [RevisionDefinedName](/cells/python-net/aspose.cells.revisions/revisiondefinedname)
+* module [`aspose.cells.revisions`](..)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`RevisionDefinedName`](/cells/python-net/aspose.cells.revisions/revisiondefinedname)

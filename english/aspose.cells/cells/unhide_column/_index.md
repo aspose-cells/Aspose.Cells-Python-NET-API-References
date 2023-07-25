@@ -8,7 +8,7 @@ url: /aspose.cells/cells/unhide_column/
 is_root: false
 ---
 
-## unhide_column(column, width) {#int-float}
+## unhide_column {#int-float}
 
 Unhides a column
 
@@ -28,5 +28,5 @@ def unhide_column(self, column, width):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

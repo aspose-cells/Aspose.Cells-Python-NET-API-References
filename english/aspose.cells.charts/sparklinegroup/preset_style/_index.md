@@ -23,6 +23,6 @@ def preset_style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [SparklineGroup](/cells/python-net/aspose.cells.charts/sparklinegroup)
-* class [SparklinePresetStyleType](/cells/python-net/aspose.cells.charts/sparklinepresetstyletype)
+* module [`aspose.cells.charts`](../../)
+* class [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup)
+* class [`SparklinePresetStyleType`](/cells/python-net/aspose.cells.charts/sparklinepresetstyletype)

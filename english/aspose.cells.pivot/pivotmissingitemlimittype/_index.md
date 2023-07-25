@@ -3,7 +3,7 @@ title: PivotMissingItemLimitType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 270
 url: /aspose.cells.pivot/pivotmissingitemlimittype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The PivotMissingItemLimitType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

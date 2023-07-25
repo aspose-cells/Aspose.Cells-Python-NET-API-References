@@ -3,7 +3,7 @@ title: left_in_shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 700
+weight: 710
 url: /aspose.cells.drawing/radiobutton/left_in_shape/
 is_root: false
 ---
@@ -39,5 +39,5 @@ def left_in_shape(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

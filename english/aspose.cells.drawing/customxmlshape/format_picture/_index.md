@@ -29,6 +29,6 @@ def format_picture(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CustomXmlShape](/cells/python-net/aspose.cells.drawing/customxmlshape)
-* class [MsoFormatPicture](/cells/python-net/aspose.cells.drawing/msoformatpicture)
+* module [`aspose.cells.drawing`](../../)
+* class [`CustomXmlShape`](/cells/python-net/aspose.cells.drawing/customxmlshape)
+* class [`MsoFormatPicture`](/cells/python-net/aspose.cells.drawing/msoformatpicture)

@@ -19,7 +19,7 @@ The FontSetting type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FontSetting(start_index, length, sheets)](/cells/python-net/aspose.cells/fontsetting/__init__/#int-int-WorksheetCollection) |  |
+| [__init__](/cells/python-net/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
 
 
 ### Properties
@@ -35,7 +35,7 @@ The FontSetting type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_word_art_style(style)](/cells/python-net/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Sets the preset WordArt style. |
+| [set_word_art_style](/cells/python-net/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Sets the preset WordArt style. |
 
 
 
@@ -68,4 +68,4 @@ workbook.save("book1.xls")
 ```
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

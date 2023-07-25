@@ -8,7 +8,7 @@ url: /aspose.cells/cells/convert_string_to_numeric_value/
 is_root: false
 ---
 
-## convert_string_to_numeric_value() {#}
+## convert_string_to_numeric_value {#}
 
 Converts string data in cells to numeric value if possible.
 
@@ -24,5 +24,5 @@ def convert_string_to_numeric_value(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

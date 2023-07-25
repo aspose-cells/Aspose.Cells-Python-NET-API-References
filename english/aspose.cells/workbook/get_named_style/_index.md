@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/get_named_style/
 is_root: false
 ---
 
-## get_named_style(name) {#str}
+## get_named_style {#str}
 
 Gets the named style in the style pool.
 
@@ -32,5 +32,5 @@ def get_named_style(self, name):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

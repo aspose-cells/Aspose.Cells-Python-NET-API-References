@@ -8,7 +8,7 @@ url: /aspose.cells/cells/insert_row/
 is_root: false
 ---
 
-## insert_row(row_index) {#int}
+## insert_row {#int}
 
 Inserts a new row into the worksheet.
 
@@ -27,5 +27,5 @@ def insert_row(self, row_index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

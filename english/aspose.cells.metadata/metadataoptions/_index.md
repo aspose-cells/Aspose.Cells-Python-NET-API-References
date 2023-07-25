@@ -19,7 +19,7 @@ The MetadataOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [MetadataOptions(metadata_type)](/cells/python-net/aspose.cells.metadata/metadataoptions/__init__/#MetadataType) | Creates an options of loading the metadata. |
+| [__init__](/cells/python-net/aspose.cells.metadata/metadataoptions/__init__/#aspose.cells.metadata.MetadataType) | Creates an options of loading the metadata. |
 
 
 ### Properties
@@ -32,4 +32,4 @@ The MetadataOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.metadata](..)
+* module [`aspose.cells.metadata`](..)

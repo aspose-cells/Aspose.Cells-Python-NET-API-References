@@ -3,7 +3,7 @@ title: CommentTitleType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 170
 url: /aspose.cells.rendering/commenttitletype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ The CommentTitleType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.rendering](..)
+* module [`aspose.cells.rendering`](..)

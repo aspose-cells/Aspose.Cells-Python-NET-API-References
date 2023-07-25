@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_style/
 is_root: false
 ---
 
-## get_style() {#}
+## get_style {#}
 
 Gets the cell style.
 
@@ -27,9 +27,10 @@ def get_style(self):
 
 ### Remarks
 
-To change the style of the cell, please call Cell.SetStyle() method after changing the style.
+To change the style of the cell, please call Cell.SetStyle() method after modifying the returned style object.
+This method is same with [`Cell.get_style`](/cells/python-net/aspose.cells/cell/get_style) with true value for the parameter.
 
-## get_style(check_borders) {#bool}
+## get_style {#bool}
 
 If checkBorders is true, check whether other cells' borders will effect the style of this cell.
 
@@ -55,5 +56,5 @@ def get_style(self, check_borders):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

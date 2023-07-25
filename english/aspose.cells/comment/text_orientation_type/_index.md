@@ -34,6 +34,6 @@ def text_orientation_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Comment](/cells/python-net/aspose.cells/comment)
-* class [TextOrientationType](/cells/python-net/aspose.cells/textorientationtype)
+* module [`aspose.cells`](../../)
+* class [`Comment`](/cells/python-net/aspose.cells/comment)
+* class [`TextOrientationType`](/cells/python-net/aspose.cells/textorientationtype)

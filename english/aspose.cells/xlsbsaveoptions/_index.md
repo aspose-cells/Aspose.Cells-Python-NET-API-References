@@ -3,7 +3,7 @@ title: XlsbSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1660
+weight: 1710
 url: /aspose.cells/xlsbsaveoptions/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents the options for saving xlsb file.
 
 
 
-**Inheritance:** [XlsbSaveOptions](/cells/python-net/aspose.cells/xlsbsaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`XlsbSaveOptions`](/cells/python-net/aspose.cells/xlsbsaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -24,8 +24,8 @@ The XlsbSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [XlsbSaveOptions()](/cells/python-net/aspose.cells/xlsbsaveoptions/__init__/#) | Creates xlsb file save options. |
-| [XlsbSaveOptions(save_format)](/cells/python-net/aspose.cells/xlsbsaveoptions/__init__/#SaveFormat) | Creates xlsb file save options. |
+| [__init__](/cells/python-net/aspose.cells/xlsbsaveoptions/__init__/#) | Creates xlsb file save options. |
+| [__init__](/cells/python-net/aspose.cells/xlsbsaveoptions/__init__/#aspose.cells.SaveFormat) | Creates xlsb file save options. |
 
 
 ### Properties
@@ -44,10 +44,11 @@ The XlsbSaveOptions type exposes the following members:
 | [update_smart_art](/cells/python-net/aspose.cells/xlsbsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
 | [compression_type](/cells/python-net/aspose.cells/xlsbsaveoptions/compression_type) | Gets and sets the compression type for ooxml file. |
 | [export_all_column_indexes](/cells/python-net/aspose.cells/xlsbsaveoptions/export_all_column_indexes) | Indicates whether exporting all column indexes for cells. |
+| [light_cells_data_provider](/cells/python-net/aspose.cells/xlsbsaveoptions/light_cells_data_provider) | The data provider for saving workbook in light mode. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
-* class [XlsbSaveOptions](/cells/python-net/aspose.cells/xlsbsaveoptions)
+* module [`aspose.cells`](..)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
+* class [`XlsbSaveOptions`](/cells/python-net/aspose.cells/xlsbsaveoptions)

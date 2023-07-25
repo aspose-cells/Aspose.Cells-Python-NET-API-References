@@ -20,6 +20,6 @@ def power_query_formula(self):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [ExternalConnection](/cells/python-net/aspose.cells.externalconnections/externalconnection)
-* class [PowerQueryFormula](/cells/python-net/aspose.cells.querytables/powerqueryformula)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)
+* class [`PowerQueryFormula`](/cells/python-net/aspose.cells.querytables/powerqueryformula)

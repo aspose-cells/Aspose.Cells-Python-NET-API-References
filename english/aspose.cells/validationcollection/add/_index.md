@@ -8,7 +8,7 @@ url: /aspose.cells/validationcollection/add/
 is_root: false
 ---
 
-## add() {#}
+## add {#}
 
 Adds a data validation to the collection.
 
@@ -16,7 +16,7 @@ Adds a data validation to the collection.
 ### Returns 
 
 
-[Validation](/cells/python-net/aspose.cells/validation) object index.
+[`Validation`](/cells/python-net/aspose.cells/validation) object index.
 
 
 ```python
@@ -32,7 +32,7 @@ please use ValidationCollection.Add(CellArea) method.
 This property will be removed 12 months later since JANUARY 2015. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## add(ca) {#CellArea}
+## add {#aspose.cells.CellArea}
 
 Adds a data validation to the collection.
 
@@ -40,7 +40,7 @@ Adds a data validation to the collection.
 ### Returns 
 
 
-[Validation](/cells/python-net/aspose.cells/validation) object index.
+[`Validation`](/cells/python-net/aspose.cells/validation) object index.
 
 
 ```python
@@ -51,11 +51,11 @@ def add(self, ca):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/aspose.cells/cellarea) | The area contains this validation. |
+| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The area contains this validation. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Validation](/cells/python-net/aspose.cells/validation)
-* class [ValidationCollection](/cells/python-net/aspose.cells/validationcollection)
+* module [`aspose.cells`](../../)
+* class [`Validation`](/cells/python-net/aspose.cells/validation)
+* class [`ValidationCollection`](/cells/python-net/aspose.cells/validationcollection)

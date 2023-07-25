@@ -27,5 +27,5 @@ def embed_standard_windows_fonts(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions)

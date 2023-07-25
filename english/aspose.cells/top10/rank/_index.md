@@ -26,5 +26,5 @@ def rank(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Top10](/cells/python-net/aspose.cells/top10)
+* module [`aspose.cells`](../../)
+* class [`Top10`](/cells/python-net/aspose.cells/top10)

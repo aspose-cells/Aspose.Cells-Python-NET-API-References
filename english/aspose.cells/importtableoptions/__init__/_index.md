@@ -8,7 +8,7 @@ url: /aspose.cells/importtableoptions/__init__/
 is_root: false
 ---
 
-## ImportTableOptions() {#}
+## __init__ {#}
 
 Creates the default importing options.
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ImportTableOptions](/cells/python-net/aspose.cells/importtableoptions)
+* module [`aspose.cells`](../../)
+* class [`ImportTableOptions`](/cells/python-net/aspose.cells/importtableoptions)

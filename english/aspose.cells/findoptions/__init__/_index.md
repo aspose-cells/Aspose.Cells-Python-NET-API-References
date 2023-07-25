@@ -8,7 +8,7 @@ url: /aspose.cells/findoptions/__init__/
 is_root: false
 ---
 
-## FindOptions() {#}
+## __init__ {#}
 
 Constructs a new instance of FindOptions
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FindOptions](/cells/python-net/aspose.cells/findoptions)
+* module [`aspose.cells`](../../)
+* class [`FindOptions`](/cells/python-net/aspose.cells/findoptions)

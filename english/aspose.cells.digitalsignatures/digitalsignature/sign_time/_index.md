@@ -3,7 +3,7 @@ title: sign_time property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.digitalsignatures/digitalsignature/sign_time/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def sign_time(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.digitalsignatures](../../)
-* class [DigitalSignature](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature)
+* module [`aspose.cells.digitalsignatures`](../../)
+* class [`DigitalSignature`](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature)

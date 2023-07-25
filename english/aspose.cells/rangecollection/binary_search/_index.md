@@ -8,7 +8,7 @@ url: /aspose.cells/rangecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Range}
+## binary_search {#aspose.cells.Range}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Range](/cells/python-net/aspose.cells/range) | The System.Object to locate. The value can be null. |
+| item | [`Range`](/cells/python-net/aspose.cells/range) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [RangeCollection](/cells/python-net/aspose.cells/rangecollection)
+* module [`aspose.cells`](../../)
+* class [`RangeCollection`](/cells/python-net/aspose.cells/rangecollection)

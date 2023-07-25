@@ -11,7 +11,7 @@ is_root: false
 ## r1c1_formula property
 
 
-Gets or sets a R1C1 formula of the [Cell](/cells/python-net/aspose.cells/cell).
+Gets or sets a R1C1 formula of the [`Cell`](/cells/python-net/aspose.cells/cell).
 ### Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def r1c1_formula(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

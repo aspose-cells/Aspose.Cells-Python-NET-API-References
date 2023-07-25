@@ -41,10 +41,10 @@ The ExternalConnection type exposes the following members:
 | [credentials_method_type](/cells/python-net/aspose.cells.externalconnections/externalconnection/credentials_method_type) | Specifies the authentication method to be used when establishing (or re-establishing) the connection. |
 | [credentials](/cells/python-net/aspose.cells.externalconnections/externalconnection/credentials) | Specifies the authentication method to be used when establishing (or re-establishing) the connection. |
 | [background_refresh](/cells/python-net/aspose.cells.externalconnections/externalconnection/background_refresh) | Indicates whether the connection can be refreshed in the background (asynchronously). <br/>true if preferred usage of the connection is to refresh asynchronously in the background; <br/>false if preferred usage of the connection is to refresh synchronously in the foreground. |
-| [parameters](/cells/python-net/aspose.cells.externalconnections/externalconnection/parameters) | Gets [ConnectionParameterCollection](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection) for an ODBC or web query. |
+| [parameters](/cells/python-net/aspose.cells.externalconnections/externalconnection/parameters) | Gets [`ConnectionParameterCollection`](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection) for an ODBC or web query. |
 
 
 
 ### See Also
-* module [aspose.cells.externalconnections](..)
-* class [ConnectionParameterCollection](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection)
+* module [`aspose.cells.externalconnections`](..)
+* class [`ConnectionParameterCollection`](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection)

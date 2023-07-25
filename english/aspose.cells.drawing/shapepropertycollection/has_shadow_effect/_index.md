@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapepropertycollection/has_shadow_effect/
 is_root: false
 ---
 
-## has_shadow_effect() {#}
+## has_shadow_effect {#}
 
 Indicates if the shape has shadow effect data.
 
@@ -29,5 +29,5 @@ def has_shadow_effect(self):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePropertyCollection](/cells/python-net/aspose.cells.drawing/shapepropertycollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePropertyCollection`](/cells/python-net/aspose.cells.drawing/shapepropertycollection)

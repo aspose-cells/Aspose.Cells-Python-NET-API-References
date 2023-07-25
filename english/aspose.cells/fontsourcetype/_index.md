@@ -3,7 +3,7 @@ title: FontSourceType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2080
+weight: 2130
 url: /aspose.cells/fontsourcetype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The FontSourceType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

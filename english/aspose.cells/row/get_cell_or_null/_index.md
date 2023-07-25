@@ -8,7 +8,7 @@ url: /aspose.cells/row/get_cell_or_null/
 is_root: false
 ---
 
-## get_cell_or_null(column) {#int}
+## get_cell_or_null {#int}
 
 Gets the cell or null in the specific index.
 
@@ -33,5 +33,5 @@ def get_cell_or_null(self, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Row](/cells/python-net/aspose.cells/row)
+* module [`aspose.cells`](../../)
+* class [`Row`](/cells/python-net/aspose.cells/row)

@@ -20,6 +20,6 @@ def options(self):
 ```
 
 ### See Also
-* module [aspose.cells.metadata](../../)
-* class [MetadataOptions](/cells/python-net/aspose.cells.metadata/metadataoptions)
-* class [WorkbookMetadata](/cells/python-net/aspose.cells.metadata/workbookmetadata)
+* module [`aspose.cells.metadata`](../../)
+* class [`MetadataOptions`](/cells/python-net/aspose.cells.metadata/metadataoptions)
+* class [`WorkbookMetadata`](/cells/python-net/aspose.cells.metadata/workbookmetadata)

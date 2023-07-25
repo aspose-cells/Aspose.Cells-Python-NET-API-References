@@ -14,8 +14,8 @@ Represents no fill.
 
 
 
-**Inheritance:** [NoneFill](/cells/python-net/aspose.cells.drawing/nonefill) → 
-[Fill](/cells/python-net/aspose.cells.drawing/fill)
+**Inheritance:** [`NoneFill`](/cells/python-net/aspose.cells.drawing/nonefill) → 
+[`Fill`](/cells/python-net/aspose.cells.drawing/fill)
 
 
 
@@ -23,6 +23,6 @@ The NoneFill type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
-* class [Fill](/cells/python-net/aspose.cells.drawing/fill)
-* class [NoneFill](/cells/python-net/aspose.cells.drawing/nonefill)
+* module [`aspose.cells.drawing`](..)
+* class [`Fill`](/cells/python-net/aspose.cells.drawing/fill)
+* class [`NoneFill`](/cells/python-net/aspose.cells.drawing/nonefill)

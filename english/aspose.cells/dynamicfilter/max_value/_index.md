@@ -23,5 +23,5 @@ def max_value(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DynamicFilter](/cells/python-net/aspose.cells/dynamicfilter)
+* module [`aspose.cells`](../../)
+* class [`DynamicFilter`](/cells/python-net/aspose.cells/dynamicfilter)

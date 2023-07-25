@@ -8,7 +8,7 @@ url: /aspose.cells/cell/characters/
 is_root: false
 ---
 
-## characters(start_index, length) {#int-int}
+## characters {#int-int}
 
 Returns a Characters object that represents a range of characters within the cell text.
 
@@ -50,5 +50,5 @@ cells.get("A1").characters(5, 5).font.color = Color.blue
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

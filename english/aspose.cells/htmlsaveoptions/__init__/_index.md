@@ -8,7 +8,7 @@ url: /aspose.cells/htmlsaveoptions/__init__/
 is_root: false
 ---
 
-## HtmlSaveOptions() {#}
+## __init__ {#}
 
 Creates options for saving html file.
 
@@ -22,24 +22,24 @@ def __init__(self):
 
 
 
-## HtmlSaveOptions(format) {#SaveFormat}
+## __init__ {#aspose.cells.SaveFormat}
 
 Creates options for saving htm file.
 
 
 
 ```python
-def __init__(self, format):
+def __init__(self, save_format):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | [SaveFormat](/cells/python-net/aspose.cells/saveformat) | The saving file format. |
+| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The file format.<br/>It should be one of following types: [`SaveFormat.HTML`](/cells/python-net/aspose.cells/saveformat#HTML), [`SaveFormat.M_HTML`](/cells/python-net/aspose.cells/saveformat#M_HTML),<br/>or [`SaveFormat.X_HTML`](/cells/python-net/aspose.cells/saveformat#X_HTML),<br/>otherwise the saved format will be set as [`SaveFormat.HTML`](/cells/python-net/aspose.cells/saveformat#HTML) automatically. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)

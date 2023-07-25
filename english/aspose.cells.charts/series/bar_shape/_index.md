@@ -31,6 +31,6 @@ def bar_shape(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Bar3DShapeType](/cells/python-net/aspose.cells.charts/bar3dshapetype)
-* class [Series](/cells/python-net/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* class [`Bar3DShapeType`](/cells/python-net/aspose.cells.charts/bar3dshapetype)
+* class [`Series`](/cells/python-net/aspose.cells.charts/series)

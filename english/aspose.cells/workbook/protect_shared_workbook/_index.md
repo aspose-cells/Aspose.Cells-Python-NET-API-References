@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/protect_shared_workbook/
 is_root: false
 ---
 
-## protect_shared_workbook(password) {#str}
+## protect_shared_workbook {#str}
 
 Protects a shared workbook.
 
@@ -27,5 +27,5 @@ def protect_shared_workbook(self, password):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

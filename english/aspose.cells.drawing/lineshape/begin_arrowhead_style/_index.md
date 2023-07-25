@@ -3,7 +3,7 @@ title: begin_arrowhead_style property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells.drawing/lineshape/begin_arrowhead_style/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def begin_arrowhead_style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LineShape](/cells/python-net/aspose.cells.drawing/lineshape)
-* class [MsoArrowheadStyle](/cells/python-net/aspose.cells.drawing/msoarrowheadstyle)
+* module [`aspose.cells.drawing`](../../)
+* class [`LineShape`](/cells/python-net/aspose.cells.drawing/lineshape)
+* class [`MsoArrowheadStyle`](/cells/python-net/aspose.cells.drawing/msoarrowheadstyle)

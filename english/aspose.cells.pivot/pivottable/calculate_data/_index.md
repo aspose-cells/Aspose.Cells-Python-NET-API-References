@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/calculate_data/
 is_root: false
 ---
 
-## calculate_data() {#}
+## calculate_data {#}
 
 Calculates pivottable's data to cells.
 
@@ -28,5 +28,5 @@ So if the data source is changed, please call RefreshData() method first.
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

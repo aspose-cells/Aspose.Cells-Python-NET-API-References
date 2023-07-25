@@ -3,7 +3,7 @@ title: refresh_data_flag property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 810
 url: /aspose.cells.pivot/pivottable/refresh_data_flag/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def refresh_data_flag(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

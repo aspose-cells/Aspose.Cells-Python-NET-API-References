@@ -8,7 +8,7 @@ url: /aspose.cells.utility/jsonutility/__init__/
 is_root: false
 ---
 
-## JsonUtility() {#}
+## __init__ {#}
 
 Constructs a new instance of JsonUtility
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.utility](../../)
-* class [JsonUtility](/cells/python-net/aspose.cells.utility/jsonutility)
+* module [`aspose.cells.utility`](../../)
+* class [`JsonUtility`](/cells/python-net/aspose.cells.utility/jsonutility)

@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [NameCollection](/cells/python-net/aspose.cells/namecollection)
+* module [`aspose.cells`](../../)
+* class [`NameCollection`](/cells/python-net/aspose.cells/namecollection)

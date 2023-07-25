@@ -19,7 +19,7 @@ The FormulaParseOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FormulaParseOptions()](/cells/python-net/aspose.cells/formulaparseoptions/__init__/#) | Constructs a new instance of FormulaParseOptions |
+| [__init__](/cells/python-net/aspose.cells/formulaparseoptions/__init__/#) | Constructs a new instance of FormulaParseOptions |
 
 
 ### Properties
@@ -33,4 +33,4 @@ The FormulaParseOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

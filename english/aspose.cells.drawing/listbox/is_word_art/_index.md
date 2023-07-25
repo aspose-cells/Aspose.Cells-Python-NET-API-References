@@ -35,5 +35,5 @@ def is_word_art(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ListBox](/cells/python-net/aspose.cells.drawing/listbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`ListBox`](/cells/python-net/aspose.cells.drawing/listbox)

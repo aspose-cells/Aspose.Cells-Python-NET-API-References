@@ -3,7 +3,7 @@ title: lower_delta_y property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 750
+weight: 760
 url: /aspose.cells.drawing/textbox/lower_delta_y/
 is_root: false
 ---
@@ -38,5 +38,5 @@ def lower_delta_y(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

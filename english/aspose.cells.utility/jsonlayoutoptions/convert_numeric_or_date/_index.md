@@ -11,7 +11,7 @@ is_root: false
 ## convert_numeric_or_date property
 
 
-Gets or sets a value that indicates whether the string in json is converted to numeric or date.
+Indicates whether converting the string in json to numeric or date value.
 ### Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def convert_numeric_or_date(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.utility](../../)
-* class [JsonLayoutOptions](/cells/python-net/aspose.cells.utility/jsonlayoutoptions)
+* module [`aspose.cells.utility`](../../)
+* class [`JsonLayoutOptions`](/cells/python-net/aspose.cells.utility/jsonlayoutoptions)

@@ -35,14 +35,14 @@ The DataSorter type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_key(key, order)](/cells/python-net/aspose.cells/datasorter/add_key/#int-SortOrder) | Adds sorted column index and sort order. |
-| [add_key(key, order, custom_list)](/cells/python-net/aspose.cells/datasorter/add_key/#int-SortOrder-str) | Adds sorted column index and sort order with custom sort list. |
-| [add_key(key, type, order, custom_list)](/cells/python-net/aspose.cells/datasorter/add_key/#int-SortOnType-SortOrder-any) | Adds sorted column index and sort order with custom sort list. |
-| [add_key(key, order, custom_list)](/cells/python-net/aspose.cells/datasorter/add_key/#int-SortOrder-list) | Adds sorted column index and sort order with custom sort list. |
-| [sort(cells, start_row, start_column, end_row, end_column)](/cells/python-net/aspose.cells/datasorter/sort/#Cells-int-int-int-int) | Sorts the data of the area. |
-| [sort(cells, area)](/cells/python-net/aspose.cells/datasorter/sort/#Cells-CellArea) | Sort the data of the area. |
-| [sort()](/cells/python-net/aspose.cells/datasorter/sort/#) | Sort the data in the range. |
-| [clear()](/cells/python-net/aspose.cells/datasorter/clear/#) | Clear all settings. |
+| [add_key](/cells/python-net/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder) | Adds sorted column index and sort order. |
+| [add_key](/cells/python-net/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-str) | Adds sorted column index and sort order with custom sort list. |
+| [add_key](/cells/python-net/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOnType-aspose.cells.SortOrder-any) | Adds sorted column index and sort order with custom sort list. |
+| [add_key](/cells/python-net/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-list) | Adds sorted column index and sort order with custom sort list. |
+| [sort](/cells/python-net/aspose.cells/datasorter/sort/#aspose.cells.Cells-int-int-int-int) | Sorts the data of the area. |
+| [sort](/cells/python-net/aspose.cells/datasorter/sort/#aspose.cells.Cells-aspose.cells.CellArea) | Sort the data of the area. |
+| [sort](/cells/python-net/aspose.cells/datasorter/sort/#) | Sort the data in the range. |
+| [clear](/cells/python-net/aspose.cells/datasorter/clear/#) | Clear all settings. |
 
 
 
@@ -82,4 +82,4 @@ workbook.save("outBook.xls")
 ```
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

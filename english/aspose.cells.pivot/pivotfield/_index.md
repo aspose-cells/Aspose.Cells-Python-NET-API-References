@@ -3,7 +3,7 @@ title: PivotField class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 10
+weight: 40
 url: /aspose.cells.pivot/pivotfield/
 is_root: false
 ---
@@ -65,19 +65,19 @@ The PivotField type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [hide_item(index, is_hidden)](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#int-bool) | Sets whether the specific PivotItem in a data field is hidden. |
-| [hide_item(item_value, is_hidden)](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#str-bool) | Sets whether the specific PivotItem in a data field is hidden. |
-| [get_pivot_filter_by_type(type)](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/#PivotFilterType) | Gets the pivot filter of the pivot field by type |
-| [get_pivot_filters()](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filters/#) | Gets the pivot filters of the pivot field |
-| [init_pivot_items()](/cells/python-net/aspose.cells.pivot/pivotfield/init_pivot_items/#) | Init the pivot items of the pivot field |
-| [get_calculated_field_formula()](/cells/python-net/aspose.cells.pivot/pivotfield/get_calculated_field_formula/#) | Get the formula string of the specified calculated field . |
-| [set_subtotals(subtotal_type, shown)](/cells/python-net/aspose.cells.pivot/pivotfield/set_subtotals/#PivotFieldSubtotalType-bool) | Sets whether the specified field shows that subtotals. |
-| [get_subtotals(subtotal_type)](/cells/python-net/aspose.cells.pivot/pivotfield/get_subtotals/#PivotFieldSubtotalType) | Gets whether the specified field shows that subtotals. |
-| [is_hidden_item(index)](/cells/python-net/aspose.cells.pivot/pivotfield/is_hidden_item/#int) | Indicates whether the specific PivotItem is hidden. |
-| [is_hidden_item_detail(index)](/cells/python-net/aspose.cells.pivot/pivotfield/is_hidden_item_detail/#int) | Indicates whether the specific PivotItem is hidden detail. |
-| [hide_item_detail(index, is_hidden_detail)](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item_detail/#int-bool) | Sets whether the specific PivotItem in a pivot field is hidden detail. |
-| [hide_detail(is_hidden_detail)](/cells/python-net/aspose.cells.pivot/pivotfield/hide_detail/#bool) | Sets whether the PivotItems in a pivot field is hidden detail.That is collapse/expand this field. |
-| [add_calculated_item(name, formula)](/cells/python-net/aspose.cells.pivot/pivotfield/add_calculated_item/#str-str) | Add a calculated item to the pivot field. |
+| [hide_item](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#int-bool) | Sets whether the specific PivotItem in a data field is hidden. |
+| [hide_item](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#str-bool) | Sets whether the specific PivotItem in a data field is hidden. |
+| [get_pivot_filter_by_type](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/#aspose.cells.pivot.PivotFilterType) | Gets the pivot filter of the pivot field by type |
+| [get_pivot_filters](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filters/#) | Gets the pivot filters of the pivot field |
+| [init_pivot_items](/cells/python-net/aspose.cells.pivot/pivotfield/init_pivot_items/#) | Init the pivot items of the pivot field |
+| [get_calculated_field_formula](/cells/python-net/aspose.cells.pivot/pivotfield/get_calculated_field_formula/#) | Get the formula string of the specified calculated field . |
+| [set_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/set_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType-bool) | Sets whether the specified field shows that subtotals. |
+| [get_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/get_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType) | Gets whether the specified field shows that subtotals. |
+| [is_hidden_item](/cells/python-net/aspose.cells.pivot/pivotfield/is_hidden_item/#int) | Indicates whether the specific PivotItem is hidden. |
+| [is_hidden_item_detail](/cells/python-net/aspose.cells.pivot/pivotfield/is_hidden_item_detail/#int) | Indicates whether the specific PivotItem is hidden detail. |
+| [hide_item_detail](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item_detail/#int-bool) | Sets whether the specific PivotItem in a pivot field is hidden detail. |
+| [hide_detail](/cells/python-net/aspose.cells.pivot/pivotfield/hide_detail/#bool) | Sets whether the PivotItems in a pivot field is hidden detail.That is collapse/expand this field. |
+| [add_calculated_item](/cells/python-net/aspose.cells.pivot/pivotfield/add_calculated_item/#str-str) | Add a calculated item to the pivot field. |
 
 
 
@@ -136,4 +136,4 @@ book.save("out.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

@@ -3,12 +3,12 @@ title: set_custom_calculated_formula method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells.tables/listcolumn/set_custom_calculated_formula/
 is_root: false
 ---
 
-## set_custom_calculated_formula(formula, is_r1c1, is_local) {#str-bool-bool}
+## set_custom_calculated_formula {#str-bool-bool}
 
 Sets the formula for this list column.
 
@@ -29,5 +29,5 @@ def set_custom_calculated_formula(self, formula, is_r1c1, is_local):
 
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListColumn](/cells/python-net/aspose.cells.tables/listcolumn)
+* module [`aspose.cells.tables`](../../)
+* class [`ListColumn`](/cells/python-net/aspose.cells.tables/listcolumn)

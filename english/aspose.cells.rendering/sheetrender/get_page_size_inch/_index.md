@@ -8,7 +8,7 @@ url: /aspose.cells.rendering/sheetrender/get_page_size_inch/
 is_root: false
 ---
 
-## get_page_size_inch(page_index) {#int}
+## get_page_size_inch {#int}
 
 Get page size in inch of output image.
 
@@ -32,5 +32,5 @@ def get_page_size_inch(self, page_index):
 
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [SheetRender](/cells/python-net/aspose.cells.rendering/sheetrender)
+* module [`aspose.cells.rendering`](../../)
+* class [`SheetRender`](/cells/python-net/aspose.cells.rendering/sheetrender)

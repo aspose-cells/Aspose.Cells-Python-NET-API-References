@@ -29,6 +29,6 @@ def format_picture(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoFormatPicture](/cells/python-net/aspose.cells.drawing/msoformatpicture)
-* class [ScrollBar](/cells/python-net/aspose.cells.drawing/scrollbar)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoFormatPicture`](/cells/python-net/aspose.cells.drawing/msoformatpicture)
+* class [`ScrollBar`](/cells/python-net/aspose.cells.drawing/scrollbar)

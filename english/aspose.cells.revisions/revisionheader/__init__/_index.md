@@ -8,7 +8,7 @@ url: /aspose.cells.revisions/revisionheader/__init__/
 is_root: false
 ---
 
-## RevisionHeader() {#}
+## __init__ {#}
 
 Constructs a new instance of RevisionHeader
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [RevisionHeader](/cells/python-net/aspose.cells.revisions/revisionheader)
+* module [`aspose.cells.revisions`](../../)
+* class [`RevisionHeader`](/cells/python-net/aspose.cells.revisions/revisionheader)

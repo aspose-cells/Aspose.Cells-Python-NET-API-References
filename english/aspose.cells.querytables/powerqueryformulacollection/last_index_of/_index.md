@@ -8,7 +8,7 @@ url: /aspose.cells.querytables/powerqueryformulacollection/last_index_of/
 is_root: false
 ---
 
-## last_index_of(item) {#PowerQueryFormula}
+## last_index_of {#aspose.cells.querytables.PowerQueryFormula}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list.
 
@@ -27,10 +27,10 @@ def last_index_of(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [PowerQueryFormula](/cells/python-net/aspose.cells.querytables/powerqueryformula) | The object to locate in the array list. The value can be null. |
+| item | [`PowerQueryFormula`](/cells/python-net/aspose.cells.querytables/powerqueryformula) | The object to locate in the array list. The value can be null. |
 
 
-## last_index_of(item, index) {#PowerQueryFormula-int}
+## last_index_of {#aspose.cells.querytables.PowerQueryFormula-int}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index.
 
@@ -49,11 +49,11 @@ def last_index_of(self, item, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [PowerQueryFormula](/cells/python-net/aspose.cells.querytables/powerqueryformula) | The object to locate in the array list. The value can be null. |
+| item | [`PowerQueryFormula`](/cells/python-net/aspose.cells.querytables/powerqueryformula) | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the backward search. |
 
 
-## last_index_of(item, index, count) {#PowerQueryFormula-int-int}
+## last_index_of {#aspose.cells.querytables.PowerQueryFormula-int-int}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index.
 
@@ -72,12 +72,12 @@ def last_index_of(self, item, index, count):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [PowerQueryFormula](/cells/python-net/aspose.cells.querytables/powerqueryformula) | The object to locate in the array list. The value can be null. |
+| item | [`PowerQueryFormula`](/cells/python-net/aspose.cells.querytables/powerqueryformula) | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the backward search. |
 | count | int | The number of elements in the section to search. |
 
 
 
 ### See Also
-* module [aspose.cells.querytables](../../)
-* class [PowerQueryFormulaCollection](/cells/python-net/aspose.cells.querytables/powerqueryformulacollection)
+* module [`aspose.cells.querytables`](../../)
+* class [`PowerQueryFormulaCollection`](/cells/python-net/aspose.cells.querytables/powerqueryformulacollection)

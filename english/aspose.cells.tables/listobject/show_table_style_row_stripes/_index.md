@@ -3,7 +3,7 @@ title: show_table_style_row_stripes property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells.tables/listobject/show_table_style_row_stripes/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def show_table_style_row_stripes(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListObject](/cells/python-net/aspose.cells.tables/listobject)
+* module [`aspose.cells.tables`](../../)
+* class [`ListObject`](/cells/python-net/aspose.cells.tables/listobject)

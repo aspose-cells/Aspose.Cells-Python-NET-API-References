@@ -23,6 +23,6 @@ def vertical_axis_min_value_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [SparklineAxisMinMaxType](/cells/python-net/aspose.cells.charts/sparklineaxisminmaxtype)
-* class [SparklineGroup](/cells/python-net/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* class [`SparklineAxisMinMaxType`](/cells/python-net/aspose.cells.charts/sparklineaxisminmaxtype)
+* class [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup)

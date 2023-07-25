@@ -23,5 +23,5 @@ def is_hidden(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotItem](/cells/python-net/aspose.cells.pivot/pivotitem)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotItem`](/cells/python-net/aspose.cells.pivot/pivotitem)

@@ -3,7 +3,7 @@ title: name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 100
 url: /aspose.cells.tables/listcolumn/name/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListColumn](/cells/python-net/aspose.cells.tables/listcolumn)
+* module [`aspose.cells.tables`](../../)
+* class [`ListColumn`](/cells/python-net/aspose.cells.tables/listcolumn)

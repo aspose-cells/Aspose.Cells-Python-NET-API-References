@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_error_value_string/
 is_root: false
 ---
 
-## get_error_value_string(err) {#str}
+## get_error_value_string {#str}
 
 Gets the display string value for cell's error value
 
@@ -16,7 +16,7 @@ Gets the display string value for cell's error value
 ### Returns 
 
 
-Default returns the error value itself
+By default returns the error value itself
 
 
 ```python
@@ -32,5 +32,5 @@ def get_error_value_string(self, err):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [GlobalizationSettings](/cells/python-net/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* class [`GlobalizationSettings`](/cells/python-net/aspose.cells/globalizationsettings)

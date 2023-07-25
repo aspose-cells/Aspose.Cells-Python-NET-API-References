@@ -3,7 +3,7 @@ title: line property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 740
 url: /aspose.cells.drawing/radiobutton/line/
 is_root: false
 ---
@@ -29,6 +29,6 @@ def line(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LineFormat](/cells/python-net/aspose.cells.drawing/lineformat)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`LineFormat`](/cells/python-net/aspose.cells.drawing/lineformat)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

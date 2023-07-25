@@ -11,7 +11,7 @@ is_root: false
 ## formula property
 
 
-Gets or sets a formula of the [Cell](/cells/python-net/aspose.cells/cell).
+Gets or sets a formula of the [`Cell`](/cells/python-net/aspose.cells/cell).
 
 ### Remarks 
 
@@ -41,5 +41,5 @@ def formula(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

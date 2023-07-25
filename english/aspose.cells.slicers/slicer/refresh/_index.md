@@ -8,7 +8,7 @@ url: /aspose.cells.slicers/slicer/refresh/
 is_root: false
 ---
 
-## refresh() {#}
+## refresh {#}
 
 Refreshing the slicer.Meanwhile, Refreshing and Calculating  relative PivotTables.
 
@@ -33,5 +33,5 @@ slicer.refresh()
 
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [Slicer](/cells/python-net/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* class [`Slicer`](/cells/python-net/aspose.cells.slicers/slicer)

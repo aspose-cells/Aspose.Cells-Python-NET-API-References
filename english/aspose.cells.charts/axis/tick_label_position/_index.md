@@ -23,6 +23,6 @@ def tick_label_position(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Axis](/cells/python-net/aspose.cells.charts/axis)
-* class [TickLabelPositionType](/cells/python-net/aspose.cells.charts/ticklabelpositiontype)
+* module [`aspose.cells.charts`](../../)
+* class [`Axis`](/cells/python-net/aspose.cells.charts/axis)
+* class [`TickLabelPositionType`](/cells/python-net/aspose.cells.charts/ticklabelpositiontype)

@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/create_builtin_style/
 is_root: false
 ---
 
-## create_builtin_style(type) {#BuiltinStyleType}
+## create_builtin_style {#aspose.cells.BuiltinStyleType}
 
 Creates built-in style by given type.
 
@@ -16,7 +16,7 @@ Creates built-in style by given type.
 ### Returns 
 
 
-style object
+[`Style`](/cells/python-net/aspose.cells/style) object
 
 
 ```python
@@ -27,10 +27,11 @@ def create_builtin_style(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [BuiltinStyleType](/cells/python-net/aspose.cells/builtinstyletype) |  |
+| type | [`BuiltinStyleType`](/cells/python-net/aspose.cells/builtinstyletype) | The builtin style stype. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

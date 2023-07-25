@@ -31,6 +31,6 @@ def stream_provider(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IStreamProvider](/cells/python-net/aspose.cells/istreamprovider)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`IStreamProvider`](/cells/python-net/aspose.cells/istreamprovider)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

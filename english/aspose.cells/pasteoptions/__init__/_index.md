@@ -8,7 +8,7 @@ url: /aspose.cells/pasteoptions/__init__/
 is_root: false
 ---
 
-## PasteOptions() {#}
+## __init__ {#}
 
 Constructs a new instance of PasteOptions
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PasteOptions](/cells/python-net/aspose.cells/pasteoptions)
+* module [`aspose.cells`](../../)
+* class [`PasteOptions`](/cells/python-net/aspose.cells/pasteoptions)

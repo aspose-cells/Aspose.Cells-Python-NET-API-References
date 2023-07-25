@@ -8,7 +8,7 @@ url: /aspose.cells/validation/copy/
 is_root: false
 ---
 
-## copy(source, copy_option) {#Validation-CopyOptions}
+## copy {#aspose.cells.Validation-aspose.cells.CopyOptions}
 
 Copy validation.
 
@@ -22,11 +22,11 @@ def copy(self, source, copy_option):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [Validation](/cells/python-net/aspose.cells/validation) | The source validation. |
-| copy_option | [CopyOptions](/cells/python-net/aspose.cells/copyoptions) | The copy option. |
+| source | [`Validation`](/cells/python-net/aspose.cells/validation) | The source validation. |
+| copy_option | [`CopyOptions`](/cells/python-net/aspose.cells/copyoptions) | The copy option. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Validation](/cells/python-net/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* class [`Validation`](/cells/python-net/aspose.cells/validation)

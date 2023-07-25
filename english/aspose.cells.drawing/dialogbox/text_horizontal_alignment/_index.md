@@ -34,6 +34,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [DialogBox](/cells/python-net/aspose.cells.drawing/dialogbox)
-* class [TextAlignmentType](/cells/python-net/aspose.cells/textalignmenttype)
+* module [`aspose.cells.drawing`](../../)
+* class [`DialogBox`](/cells/python-net/aspose.cells.drawing/dialogbox)
+* class [`TextAlignmentType`](/cells/python-net/aspose.cells/textalignmenttype)

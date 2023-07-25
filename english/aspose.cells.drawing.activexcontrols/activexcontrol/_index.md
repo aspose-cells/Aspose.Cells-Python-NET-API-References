@@ -14,8 +14,8 @@ Represents the ActiveX control.
 
 
 
-**Inheritance:** [ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**Inheritance:** [`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
+[`ActiveXControlBase`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
 
 
 
@@ -24,7 +24,7 @@ The ActiveXControl type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol/workbook) | Gets the [ActiveXControlBase.workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object. |
+| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol/workbook) | Gets the [`ActiveXControlBase.workbook`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object. |
 | [type](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol/type) | Gets the type of the ActiveX control. |
 | [width](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol/width) | Gets and sets the width of the control in unit of points. |
 | [height](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol/height) | Gets and sets the height of the control in unit of points. |
@@ -48,6 +48,6 @@ The ActiveXControl type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](..)
-* class [ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
-* class [ActiveXControlBase](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+* module [`aspose.cells.drawing.activexcontrols`](..)
+* class [`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
+* class [`ActiveXControlBase`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)

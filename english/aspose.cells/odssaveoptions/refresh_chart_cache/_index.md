@@ -23,5 +23,5 @@ def refresh_chart_cache(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [OdsSaveOptions](/cells/python-net/aspose.cells/odssaveoptions)
+* module [`aspose.cells`](../../)
+* class [`OdsSaveOptions`](/cells/python-net/aspose.cells/odssaveoptions)

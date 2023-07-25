@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/
 is_root: false
 ---
 
-## AutoNumberedBulletValue() {#}
+## __init__ {#}
 
 Constructs a new instance of AutoNumberedBulletValue
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [AutoNumberedBulletValue](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`AutoNumberedBulletValue`](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue)

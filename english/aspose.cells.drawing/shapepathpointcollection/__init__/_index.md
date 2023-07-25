@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapepathpointcollection/__init__/
 is_root: false
 ---
 
-## ShapePathPointCollection() {#}
+## __init__ {#}
 
 Constructs a new instance of ShapePathPointCollection
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePathPointCollection](/cells/python-net/aspose.cells.drawing/shapepathpointcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePathPointCollection`](/cells/python-net/aspose.cells.drawing/shapepathpointcollection)

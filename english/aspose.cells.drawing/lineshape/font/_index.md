@@ -3,7 +3,7 @@ title: font property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /aspose.cells.drawing/lineshape/font/
 is_root: false
 ---
@@ -36,6 +36,6 @@ def font(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Font](/cells/python-net/aspose.cells/font)
-* class [LineShape](/cells/python-net/aspose.cells.drawing/lineshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`Font`](/cells/python-net/aspose.cells/font)
+* class [`LineShape`](/cells/python-net/aspose.cells.drawing/lineshape)

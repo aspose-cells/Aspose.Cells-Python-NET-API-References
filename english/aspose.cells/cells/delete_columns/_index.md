@@ -8,7 +8,7 @@ url: /aspose.cells/cells/delete_columns/
 is_root: false
 ---
 
-## delete_columns(column_index, total_columns, update_reference) {#int-int-bool}
+## delete_columns {#int-int-bool}
 
 Deletes several columns.
 
@@ -29,5 +29,5 @@ def delete_columns(self, column_index, total_columns, update_reference):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

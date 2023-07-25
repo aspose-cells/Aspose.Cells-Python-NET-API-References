@@ -8,7 +8,7 @@ url: /aspose.cells.rendering/drawobjecteventhandler/draw/
 is_root: false
 ---
 
-## draw(draw_object, x, y, width, height) {#DrawObject-float-float-float-float}
+## draw {#aspose.cells.rendering.DrawObject-float-float-float-float}
 
 Implements this interface to get DrawObject and Bound when rendering.
 
@@ -22,7 +22,7 @@ def draw(self, draw_object, x, y, width, height):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| draw_object | [DrawObject](/cells/python-net/aspose.cells.rendering/drawobject) | DrawObject will be initialized and returned when rendering |
+| draw_object | [`DrawObject`](/cells/python-net/aspose.cells.rendering/drawobject) | DrawObject will be initialized and returned when rendering |
 | x | float | Left of DrawObject |
 | y | float | Top of DrawObject |
 | width | float | Width of DrawObject |
@@ -31,5 +31,5 @@ def draw(self, draw_object, x, y, width, height):
 
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [DrawObjectEventHandler](/cells/python-net/aspose.cells.rendering/drawobjecteventhandler)
+* module [`aspose.cells.rendering`](../../)
+* class [`DrawObjectEventHandler`](/cells/python-net/aspose.cells.rendering/drawobjecteventhandler)

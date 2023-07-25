@@ -8,7 +8,7 @@ url: /aspose.cells/xmlcolumnproperty/__init__/
 is_root: false
 ---
 
-## XmlColumnProperty() {#}
+## __init__ {#}
 
 Constructs a new instance of XmlColumnProperty
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XmlColumnProperty](/cells/python-net/aspose.cells/xmlcolumnproperty)
+* module [`aspose.cells`](../../)
+* class [`XmlColumnProperty`](/cells/python-net/aspose.cells/xmlcolumnproperty)

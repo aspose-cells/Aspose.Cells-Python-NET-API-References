@@ -20,5 +20,5 @@ def full_text(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Name](/cells/python-net/aspose.cells/name)
+* module [`aspose.cells`](../../)
+* class [`Name`](/cells/python-net/aspose.cells/name)

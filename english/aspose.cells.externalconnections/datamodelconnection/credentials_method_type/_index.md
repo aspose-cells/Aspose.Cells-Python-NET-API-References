@@ -23,6 +23,6 @@ def credentials_method_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [CredentialsMethodType](/cells/python-net/aspose.cells.externalconnections/credentialsmethodtype)
-* class [DataModelConnection](/cells/python-net/aspose.cells.externalconnections/datamodelconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`CredentialsMethodType`](/cells/python-net/aspose.cells.externalconnections/credentialsmethodtype)
+* class [`DataModelConnection`](/cells/python-net/aspose.cells.externalconnections/datamodelconnection)

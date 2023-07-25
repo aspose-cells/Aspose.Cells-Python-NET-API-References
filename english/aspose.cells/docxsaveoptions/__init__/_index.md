@@ -8,7 +8,7 @@ url: /aspose.cells/docxsaveoptions/__init__/
 is_root: false
 ---
 
-## DocxSaveOptions() {#}
+## __init__ {#}
 
 Represents options of saving .docx file.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## DocxSaveOptions(save_as_image) {#bool}
+## __init__ {#bool}
 
 Represents options of saving .docx file.
 
@@ -41,5 +41,5 @@ def __init__(self, save_as_image):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DocxSaveOptions](/cells/python-net/aspose.cells/docxsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`DocxSaveOptions`](/cells/python-net/aspose.cells/docxsaveoptions)

@@ -3,7 +3,7 @@ title: group property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /aspose.cells.drawing/textbox/group/
 is_root: false
 ---
@@ -29,6 +29,6 @@ def group(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GroupShape](/cells/python-net/aspose.cells.drawing/groupshape)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

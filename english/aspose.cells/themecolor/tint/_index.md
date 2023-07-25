@@ -29,5 +29,5 @@ def tint(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ThemeColor](/cells/python-net/aspose.cells/themecolor)
+* module [`aspose.cells`](../../)
+* class [`ThemeColor`](/cells/python-net/aspose.cells/themecolor)

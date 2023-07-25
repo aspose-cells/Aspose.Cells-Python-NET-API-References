@@ -20,5 +20,5 @@ def image_data(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ConditionalFormattingIcon](/cells/python-net/aspose.cells/conditionalformattingicon)
+* module [`aspose.cells`](../../)
+* class [`ConditionalFormattingIcon`](/cells/python-net/aspose.cells/conditionalformattingicon)

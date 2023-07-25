@@ -25,6 +25,6 @@ def time_period(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormatCondition](/cells/python-net/aspose.cells/formatcondition)
-* class [TimePeriodType](/cells/python-net/aspose.cells/timeperiodtype)
+* module [`aspose.cells`](../../)
+* class [`FormatCondition`](/cells/python-net/aspose.cells/formatcondition)
+* class [`TimePeriodType`](/cells/python-net/aspose.cells/timeperiodtype)

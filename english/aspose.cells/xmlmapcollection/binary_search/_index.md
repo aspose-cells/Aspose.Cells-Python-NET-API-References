@@ -8,7 +8,7 @@ url: /aspose.cells/xmlmapcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#XmlMap}
+## binary_search {#aspose.cells.XmlMap}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [XmlMap](/cells/python-net/aspose.cells/xmlmap) | The System.Object to locate. The value can be null. |
+| item | [`XmlMap`](/cells/python-net/aspose.cells/xmlmap) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XmlMapCollection](/cells/python-net/aspose.cells/xmlmapcollection)
+* module [`aspose.cells`](../../)
+* class [`XmlMapCollection`](/cells/python-net/aspose.cells/xmlmapcollection)

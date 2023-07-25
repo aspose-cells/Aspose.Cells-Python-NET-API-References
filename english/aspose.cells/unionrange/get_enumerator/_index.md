@@ -8,7 +8,7 @@ url: /aspose.cells/unionrange/get_enumerator/
 is_root: false
 ---
 
-## get_enumerator() {#}
+## get_enumerator {#}
 
 Gets the enumerator for cells in this Range.
 
@@ -33,5 +33,5 @@ Otherwise the enumerator may not be able to traverse all cells correctly(some el
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [UnionRange](/cells/python-net/aspose.cells/unionrange)
+* module [`aspose.cells`](../../)
+* class [`UnionRange`](/cells/python-net/aspose.cells/unionrange)

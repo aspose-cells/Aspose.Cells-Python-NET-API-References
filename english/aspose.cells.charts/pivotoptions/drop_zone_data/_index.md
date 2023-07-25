@@ -24,5 +24,5 @@ def drop_zone_data(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [PivotOptions](/cells/python-net/aspose.cells.charts/pivotoptions)
+* module [`aspose.cells.charts`](../../)
+* class [`PivotOptions`](/cells/python-net/aspose.cells.charts/pivotoptions)

@@ -3,7 +3,7 @@ title: text_effect property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 950
 url: /aspose.cells.drawing/textbox/text_effect/
 is_root: false
 ---
@@ -30,6 +30,6 @@ def text_effect(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
-* class [TextEffectFormat](/cells/python-net/aspose.cells.drawing/texteffectformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)
+* class [`TextEffectFormat`](/cells/python-net/aspose.cells.drawing/texteffectformat)

@@ -23,6 +23,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Legend](/cells/python-net/aspose.cells.charts/legend)
-* class [TextAlignmentType](/cells/python-net/aspose.cells/textalignmenttype)
+* module [`aspose.cells.charts`](../../)
+* class [`Legend`](/cells/python-net/aspose.cells.charts/legend)
+* class [`TextAlignmentType`](/cells/python-net/aspose.cells/textalignmenttype)

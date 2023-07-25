@@ -23,6 +23,6 @@ def orientation(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [ControlScrollOrientation](/cells/python-net/aspose.cells.drawing.activexcontrols/controlscrollorientation)
-* class [SpinButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`ControlScrollOrientation`](/cells/python-net/aspose.cells.drawing.activexcontrols/controlscrollorientation)
+* class [`SpinButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

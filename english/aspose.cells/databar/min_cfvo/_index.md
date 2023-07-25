@@ -21,6 +21,6 @@ def min_cfvo(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ConditionalFormattingValue](/cells/python-net/aspose.cells/conditionalformattingvalue)
-* class [DataBar](/cells/python-net/aspose.cells/databar)
+* module [`aspose.cells`](../../)
+* class [`ConditionalFormattingValue`](/cells/python-net/aspose.cells/conditionalformattingvalue)
+* class [`DataBar`](/cells/python-net/aspose.cells/databar)

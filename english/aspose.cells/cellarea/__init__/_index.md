@@ -8,7 +8,7 @@ url: /aspose.cells/cellarea/__init__/
 is_root: false
 ---
 
-## CellArea() {#}
+## __init__ {#}
 
 Constructs a new instance of CellArea
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
+* module [`aspose.cells`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)

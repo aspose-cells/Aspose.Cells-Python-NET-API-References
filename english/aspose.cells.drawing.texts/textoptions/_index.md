@@ -14,8 +14,8 @@ Represents the text options.
 
 
 
-**Inheritance:** [TextOptions](/cells/python-net/aspose.cells.drawing.texts/textoptions) → 
-[Font](/cells/python-net/aspose.cells/font)
+**Inheritance:** [`TextOptions`](/cells/python-net/aspose.cells.drawing.texts/textoptions) → 
+[`Font`](/cells/python-net/aspose.cells/font)
 
 
 
@@ -47,7 +47,7 @@ The TextOptions type exposes the following members:
 | [far_east_name](/cells/python-net/aspose.cells.drawing.texts/textoptions/far_east_name) | Gets and sets the FarEast name. |
 | [fill](/cells/python-net/aspose.cells.drawing.texts/textoptions/fill) | Represents the fill format of the text. |
 | [outline](/cells/python-net/aspose.cells.drawing.texts/textoptions/outline) | Represents the outline format of the text. |
-| [shadow](/cells/python-net/aspose.cells.drawing.texts/textoptions/shadow) | Represents a [ShadowEffect](/cells/python-net/aspose.cells.drawing/shadoweffect) object that specifies shadow effect for the chart element or shape. |
+| [shadow](/cells/python-net/aspose.cells.drawing.texts/textoptions/shadow) | Represents a [`ShadowEffect`](/cells/python-net/aspose.cells.drawing/shadoweffect) object that specifies shadow effect for the chart element or shape. |
 | [underline_color](/cells/python-net/aspose.cells.drawing.texts/textoptions/underline_color) | Gets or sets the color of underline. |
 | [kerning](/cells/python-net/aspose.cells.drawing.texts/textoptions/kerning) | Specifies the minimum font size at which character kerning will occur for this text run. |
 | [spacing](/cells/python-net/aspose.cells.drawing.texts/textoptions/spacing) | Specifies the spacing between characters within a text run. |
@@ -56,12 +56,12 @@ The TextOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [equals(font)](/cells/python-net/aspose.cells.drawing.texts/textoptions/equals/#Font) | Checks if two fonts are equals. |
+| [equals](/cells/python-net/aspose.cells.drawing.texts/textoptions/equals/#aspose.cells.Font) | Checks if two fonts are equals. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](..)
-* class [Font](/cells/python-net/aspose.cells/font)
-* class [ShadowEffect](/cells/python-net/aspose.cells.drawing/shadoweffect)
-* class [TextOptions](/cells/python-net/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.drawing.texts`](..)
+* class [`Font`](/cells/python-net/aspose.cells/font)
+* class [`ShadowEffect`](/cells/python-net/aspose.cells.drawing/shadoweffect)
+* class [`TextOptions`](/cells/python-net/aspose.cells.drawing.texts/textoptions)

@@ -23,6 +23,6 @@ def horizontal_alignment(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DefaultStyleSettings](/cells/python-net/aspose.cells/defaultstylesettings)
-* class [TextAlignmentType](/cells/python-net/aspose.cells/textalignmenttype)
+* module [`aspose.cells`](../../)
+* class [`DefaultStyleSettings`](/cells/python-net/aspose.cells/defaultstylesettings)
+* class [`TextAlignmentType`](/cells/python-net/aspose.cells/textalignmenttype)

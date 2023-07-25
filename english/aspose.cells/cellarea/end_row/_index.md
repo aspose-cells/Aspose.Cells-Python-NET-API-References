@@ -14,5 +14,5 @@ is_root: false
 Gets or set the end row of this area.
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
+* module [`aspose.cells`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)

@@ -23,5 +23,5 @@ def filter_by_fill_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ColorFilter](/cells/python-net/aspose.cells/colorfilter)
+* module [`aspose.cells`](../../)
+* class [`ColorFilter`](/cells/python-net/aspose.cells/colorfilter)

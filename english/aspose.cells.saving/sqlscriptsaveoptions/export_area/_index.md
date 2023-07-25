@@ -23,6 +23,6 @@ def export_area(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.saving](../../)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
-* class [SqlScriptSaveOptions](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)
+* class [`SqlScriptSaveOptions`](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions)

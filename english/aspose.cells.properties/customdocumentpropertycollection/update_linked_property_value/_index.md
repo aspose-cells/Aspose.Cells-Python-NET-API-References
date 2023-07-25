@@ -8,7 +8,7 @@ url: /aspose.cells.properties/customdocumentpropertycollection/update_linked_pro
 is_root: false
 ---
 
-## update_linked_property_value() {#}
+## update_linked_property_value {#}
 
 Update custom document property value which links to content.
 
@@ -24,5 +24,5 @@ def update_linked_property_value(self):
 
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [CustomDocumentPropertyCollection](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
+* module [`aspose.cells.properties`](../../)
+* class [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)

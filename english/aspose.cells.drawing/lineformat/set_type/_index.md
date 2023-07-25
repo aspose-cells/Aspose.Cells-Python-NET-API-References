@@ -31,6 +31,6 @@ def set_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [FormatSetType](/cells/python-net/aspose.cells.drawing/formatsettype)
-* class [LineFormat](/cells/python-net/aspose.cells.drawing/lineformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`FormatSetType`](/cells/python-net/aspose.cells.drawing/formatsettype)
+* class [`LineFormat`](/cells/python-net/aspose.cells.drawing/lineformat)

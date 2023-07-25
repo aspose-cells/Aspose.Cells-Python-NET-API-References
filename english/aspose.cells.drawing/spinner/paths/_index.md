@@ -31,6 +31,6 @@ def paths(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePathCollection](/cells/python-net/aspose.cells.drawing/shapepathcollection)
-* class [Spinner](/cells/python-net/aspose.cells.drawing/spinner)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePathCollection`](/cells/python-net/aspose.cells.drawing/shapepathcollection)
+* class [`Spinner`](/cells/python-net/aspose.cells.drawing/spinner)

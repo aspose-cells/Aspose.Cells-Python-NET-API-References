@@ -34,5 +34,5 @@ def height_scale(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ScrollBar](/cells/python-net/aspose.cells.drawing/scrollbar)
+* module [`aspose.cells.drawing`](../../)
+* class [`ScrollBar`](/cells/python-net/aspose.cells.drawing/scrollbar)

@@ -20,5 +20,5 @@ def function_name(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CalculationData](/cells/python-net/aspose.cells/calculationdata)
+* module [`aspose.cells`](../../)
+* class [`CalculationData`](/cells/python-net/aspose.cells/calculationdata)

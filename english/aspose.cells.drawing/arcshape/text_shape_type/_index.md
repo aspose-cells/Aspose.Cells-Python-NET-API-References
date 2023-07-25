@@ -34,6 +34,6 @@ def text_shape_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ArcShape](/cells/python-net/aspose.cells.drawing/arcshape)
-* class [AutoShapeType](/cells/python-net/aspose.cells.drawing/autoshapetype)
+* module [`aspose.cells.drawing`](../../)
+* class [`ArcShape`](/cells/python-net/aspose.cells.drawing/arcshape)
+* class [`AutoShapeType`](/cells/python-net/aspose.cells.drawing/autoshapetype)

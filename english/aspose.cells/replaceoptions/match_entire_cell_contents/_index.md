@@ -23,5 +23,5 @@ def match_entire_cell_contents(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ReplaceOptions](/cells/python-net/aspose.cells/replaceoptions)
+* module [`aspose.cells`](../../)
+* class [`ReplaceOptions`](/cells/python-net/aspose.cells/replaceoptions)

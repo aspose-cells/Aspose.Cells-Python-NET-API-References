@@ -28,5 +28,5 @@ def fore_ole_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [LabelActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`LabelActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

@@ -25,5 +25,5 @@ def text(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HeaderFooterCommand](/cells/python-net/aspose.cells/headerfootercommand)
+* module [`aspose.cells`](../../)
+* class [`HeaderFooterCommand`](/cells/python-net/aspose.cells/headerfootercommand)

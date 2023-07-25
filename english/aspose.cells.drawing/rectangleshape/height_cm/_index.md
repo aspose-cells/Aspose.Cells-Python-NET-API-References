@@ -19,7 +19,7 @@ Represents the height of the shape, in unit of centimeters.
 ```python
 
 if shape.height_cm == 3:
-    shape.height_cm = 1
+    shape.height_cm = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def height_cm(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RectangleShape](/cells/python-net/aspose.cells.drawing/rectangleshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`RectangleShape`](/cells/python-net/aspose.cells.drawing/rectangleshape)

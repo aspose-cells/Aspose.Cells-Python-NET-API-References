@@ -8,9 +8,9 @@ url: /aspose.cells/autofilter/get_cell_area/
 is_root: false
 ---
 
-## get_cell_area() {#}
+## get_cell_area {#}
 
-Gets the [CellArea](/cells/python-net/aspose.cells/cellarea) where the specified AutoFilter applies to.
+Gets the [`CellArea`](/cells/python-net/aspose.cells/cellarea) where the specified AutoFilter applies to.
 
 
 ### Returns 
@@ -29,6 +29,6 @@ def get_cell_area(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFilter](/cells/python-net/aspose.cells/autofilter)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
+* module [`aspose.cells`](../../)
+* class [`AutoFilter`](/cells/python-net/aspose.cells/autofilter)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)

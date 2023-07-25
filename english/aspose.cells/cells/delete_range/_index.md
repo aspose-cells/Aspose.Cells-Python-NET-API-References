@@ -8,7 +8,7 @@ url: /aspose.cells/cells/delete_range/
 is_root: false
 ---
 
-## delete_range(start_row, start_column, end_row, end_column, shift_type) {#int-int-int-int-ShiftType}
+## delete_range {#int-int-int-int-aspose.cells.ShiftType}
 
 Deletes a range of cells and shift cells according to the shift option.
 
@@ -26,10 +26,10 @@ def delete_range(self, start_row, start_column, end_row, end_column, shift_type)
 | start_column | int | Start column index. |
 | end_row | int | End row index. |
 | end_column | int | End column index. |
-| shift_type | [ShiftType](/cells/python-net/aspose.cells/shifttype) | Shift cells option. |
+| shift_type | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | Shift cells option. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

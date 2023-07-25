@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#SmartTag}
+## binary_search {#aspose.cells.markup.SmartTag}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [SmartTag](/cells/python-net/aspose.cells.markup/smarttag) | The System.Object to locate. The value can be null. |
+| item | [`SmartTag`](/cells/python-net/aspose.cells.markup/smarttag) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.markup](../../)
-* class [SmartTagCollection](/cells/python-net/aspose.cells.markup/smarttagcollection)
+* module [`aspose.cells.markup`](../../)
+* class [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection)

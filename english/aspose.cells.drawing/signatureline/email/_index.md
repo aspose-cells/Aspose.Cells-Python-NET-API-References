@@ -35,5 +35,5 @@ def email(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [SignatureLine](/cells/python-net/aspose.cells.drawing/signatureline)
+* module [`aspose.cells.drawing`](../../)
+* class [`SignatureLine`](/cells/python-net/aspose.cells.drawing/signatureline)

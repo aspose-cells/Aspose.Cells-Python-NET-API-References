@@ -19,7 +19,7 @@ The ChartDataTable type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [font](/cells/python-net/aspose.cells.charts/chartdatatable/font) | Gets a [ChartDataTable.font](/cells/python-net/aspose.cells.charts/chartdatatable#font) object which represents the font setting of the specified chart data table. |
+| [font](/cells/python-net/aspose.cells.charts/chartdatatable/font) | Gets a [`ChartDataTable.font`](/cells/python-net/aspose.cells.charts/chartdatatable#font) object which represents the font setting of the specified chart data table. |
 | [auto_scale_font](/cells/python-net/aspose.cells.charts/chartdatatable/auto_scale_font) | True if the text in the object changes font size when the object size changes. <br/>The default value is True. |
 | [background_mode](/cells/python-net/aspose.cells.charts/chartdatatable/background_mode) | Gets and sets the display mode of the background |
 | [background](/cells/python-net/aspose.cells.charts/chartdatatable/background) | Gets and sets the display mode of the background |
@@ -74,4 +74,4 @@ workbook.save("book1.xls")
 ```
 
 ### See Also
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

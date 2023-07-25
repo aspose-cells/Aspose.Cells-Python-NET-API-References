@@ -23,6 +23,6 @@ def warning_callback(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IWarningCallback](/cells/python-net/aspose.cells/iwarningcallback)
-* class [OdsSaveOptions](/cells/python-net/aspose.cells/odssaveoptions)
+* module [`aspose.cells`](../../)
+* class [`IWarningCallback`](/cells/python-net/aspose.cells/iwarningcallback)
+* class [`OdsSaveOptions`](/cells/python-net/aspose.cells/odssaveoptions)

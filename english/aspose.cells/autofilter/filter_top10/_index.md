@@ -8,7 +8,7 @@ url: /aspose.cells/autofilter/filter_top10/
 is_root: false
 ---
 
-## filter_top10(field_index, is_top, is_percent, item_count) {#int-bool-bool-int}
+## filter_top10 {#int-bool-bool-int}
 
 Filter the top 10 item in the list
 
@@ -30,5 +30,5 @@ def filter_top10(self, field_index, is_top, is_percent, item_count):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFilter](/cells/python-net/aspose.cells/autofilter)
+* module [`aspose.cells`](../../)
+* class [`AutoFilter`](/cells/python-net/aspose.cells/autofilter)

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/clear_formats/
 is_root: false
 ---
 
-## clear_formats(range) {#CellArea}
+## clear_formats {#aspose.cells.CellArea}
 
 Clears formatting of a range.
 
@@ -22,10 +22,10 @@ def clear_formats(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [CellArea](/cells/python-net/aspose.cells/cellarea) | Range to be cleared. |
+| range | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | Range to be cleared. |
 
 
-## clear_formats(start_row, start_column, end_row, end_column) {#int-int-int-int}
+## clear_formats {#int-int-int-int}
 
 Clears formatting of a range.
 
@@ -47,5 +47,5 @@ def clear_formats(self, start_row, start_column, end_row, end_column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

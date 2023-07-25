@@ -19,7 +19,7 @@ The FindOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FindOptions()](/cells/python-net/aspose.cells/findoptions/__init__/#) | Constructs a new instance of FindOptions |
+| [__init__](/cells/python-net/aspose.cells/findoptions/__init__/#) | Constructs a new instance of FindOptions |
 
 
 ### Properties
@@ -42,8 +42,8 @@ The FindOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_range()](/cells/python-net/aspose.cells/findoptions/get_range/#) | Gets and sets the searched range. |
-| [set_range(ca)](/cells/python-net/aspose.cells/findoptions/set_range/#CellArea) | Sets the searched range. |
+| [get_range](/cells/python-net/aspose.cells/findoptions/get_range/#) | Gets and sets the searched range. |
+| [set_range](/cells/python-net/aspose.cells/findoptions/set_range/#aspose.cells.CellArea) | Sets the searched range. |
 
 
 
@@ -77,4 +77,4 @@ cell = cells.find(0, None, findOptions)
 ```
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

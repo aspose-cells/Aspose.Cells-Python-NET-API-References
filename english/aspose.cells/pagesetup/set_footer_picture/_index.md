@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/set_footer_picture/
 is_root: false
 ---
 
-## set_footer_picture(section, footer_picture) {#int-bytes}
+## set_footer_picture {#int-bytes}
 
 Sets an image in the footer of a worksheet.
 
@@ -16,7 +16,7 @@ Sets an image in the footer of a worksheet.
 ### Returns 
 
 
-Returns [Picture](/cells/python-net/aspose.cells.drawing/picture) object.
+Returns [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object.
 
 
 ```python
@@ -33,6 +33,6 @@ def set_footer_picture(self, section, footer_picture):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)

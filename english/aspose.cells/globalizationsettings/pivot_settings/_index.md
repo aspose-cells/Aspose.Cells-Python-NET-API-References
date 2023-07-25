@@ -23,6 +23,6 @@ def pivot_settings(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [GlobalizationSettings](/cells/python-net/aspose.cells/globalizationsettings)
-* class [PivotGlobalizationSettings](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings)
+* module [`aspose.cells`](../../)
+* class [`GlobalizationSettings`](/cells/python-net/aspose.cells/globalizationsettings)
+* class [`PivotGlobalizationSettings`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings)

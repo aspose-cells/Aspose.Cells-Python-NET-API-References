@@ -8,7 +8,7 @@ url: /aspose.cells/themecolor/__init__/
 is_root: false
 ---
 
-## ThemeColor(type, tint) {#ThemeColorType-float}
+## __init__ {#aspose.cells.ThemeColorType-float}
 
 
 
@@ -22,11 +22,11 @@ def __init__(self, type, tint):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [ThemeColorType](/cells/python-net/aspose.cells/themecolortype) | The theme type. |
+| type | [`ThemeColorType`](/cells/python-net/aspose.cells/themecolortype) | The theme type. |
 | tint | float | The tint value. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ThemeColor](/cells/python-net/aspose.cells/themecolor)
+* module [`aspose.cells`](../../)
+* class [`ThemeColor`](/cells/python-net/aspose.cells/themecolor)

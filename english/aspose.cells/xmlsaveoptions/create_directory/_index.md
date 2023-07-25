@@ -28,5 +28,5 @@ def create_directory(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XmlSaveOptions](/cells/python-net/aspose.cells/xmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`XmlSaveOptions`](/cells/python-net/aspose.cells/xmlsaveoptions)

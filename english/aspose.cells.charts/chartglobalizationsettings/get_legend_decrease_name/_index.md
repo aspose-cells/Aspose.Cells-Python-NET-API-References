@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartglobalizationsettings/get_legend_decrease_name/
 is_root: false
 ---
 
-## get_legend_decrease_name() {#}
+## get_legend_decrease_name {#}
 
 Gets the name of Decrease for Legend.
 
@@ -29,5 +29,5 @@ def get_legend_decrease_name(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartGlobalizationSettings](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartGlobalizationSettings`](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)

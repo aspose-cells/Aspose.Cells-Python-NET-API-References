@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/accept_all_revisions/
 is_root: false
 ---
 
-## accept_all_revisions() {#}
+## accept_all_revisions {#}
 
 Accepts all tracked changes in the workbook.
 
@@ -24,5 +24,5 @@ def accept_all_revisions(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

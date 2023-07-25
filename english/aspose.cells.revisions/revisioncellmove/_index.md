@@ -3,7 +3,7 @@ title: RevisionCellMove class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cells.revisions/revisioncellmove/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents a revision record on a cell(s) that moved.
 
 
 
-**Inheritance:** [RevisionCellMove](/cells/python-net/aspose.cells.revisions/revisioncellmove) → 
-[Revision](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionCellMove`](/cells/python-net/aspose.cells.revisions/revisioncellmove) → 
+[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 
 
 
@@ -34,6 +34,6 @@ The RevisionCellMove type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [RevisionCellMove](/cells/python-net/aspose.cells.revisions/revisioncellmove)
+* module [`aspose.cells.revisions`](..)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`RevisionCellMove`](/cells/python-net/aspose.cells.revisions/revisioncellmove)

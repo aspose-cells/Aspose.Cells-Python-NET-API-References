@@ -3,7 +3,7 @@ title: OoxmlCompressionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2280
+weight: 2330
 url: /aspose.cells/ooxmlcompressiontype/
 is_root: false
 ---
@@ -32,4 +32,4 @@ The OoxmlCompressionType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

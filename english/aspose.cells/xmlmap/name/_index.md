@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XmlMap](/cells/python-net/aspose.cells/xmlmap)
+* module [`aspose.cells`](../../)
+* class [`XmlMap`](/cells/python-net/aspose.cells/xmlmap)

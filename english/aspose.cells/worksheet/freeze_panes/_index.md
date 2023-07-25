@@ -3,12 +3,12 @@ title: freeze_panes method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells/worksheet/freeze_panes/
 is_root: false
 ---
 
-## freeze_panes(cell_name, freezed_rows, freezed_columns) {#str-int-int}
+## freeze_panes {#str-int-int}
 
 Freezes panes at the specified cell in the worksheet.
 
@@ -30,7 +30,7 @@ def freeze_panes(self, cell_name, freezed_rows, freezed_columns):
 Row index and column index cannot all be zero. Number of rows and number of columns
 also cannot all be zero.
 
-## freeze_panes(row, column, freezed_rows, freezed_columns) {#int-int-int-int}
+## freeze_panes {#int-int-int-int}
 
 Freezes panes at the specified cell in the worksheet.
 
@@ -58,5 +58,5 @@ The first two parameters specify the froze position and the last two parameters 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

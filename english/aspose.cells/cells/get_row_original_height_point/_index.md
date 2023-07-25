@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get_row_original_height_point/
 is_root: false
 ---
 
-## get_row_original_height_point(row) {#int}
+## get_row_original_height_point {#int}
 
 Gets original row's height in unit of point if the row is hidden
 
@@ -32,5 +32,5 @@ def get_row_original_height_point(self, row):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

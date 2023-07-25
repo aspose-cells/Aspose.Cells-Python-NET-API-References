@@ -30,6 +30,6 @@ def text_effect(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [DialogBox](/cells/python-net/aspose.cells.drawing/dialogbox)
-* class [TextEffectFormat](/cells/python-net/aspose.cells.drawing/texteffectformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`DialogBox`](/cells/python-net/aspose.cells.drawing/dialogbox)
+* class [`TextEffectFormat`](/cells/python-net/aspose.cells.drawing/texteffectformat)

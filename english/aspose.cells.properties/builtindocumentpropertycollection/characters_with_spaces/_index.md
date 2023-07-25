@@ -23,5 +23,5 @@ def characters_with_spaces(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [BuiltInDocumentPropertyCollection](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection)
+* module [`aspose.cells.properties`](../../)
+* class [`BuiltInDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection)

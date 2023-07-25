@@ -8,9 +8,9 @@ url: /aspose.cells/xlssaveoptions/__init__/
 is_root: false
 ---
 
-## XlsSaveOptions() {#}
+## __init__ {#}
 
-Creates options for saving Excel 97-2003 xls/xlt file.
+Creates options for saving Excel 97-2003 xls file.
 
 
 
@@ -22,24 +22,24 @@ def __init__(self):
 
 
 
-## XlsSaveOptions(format) {#SaveFormat}
+## __init__ {#aspose.cells.SaveFormat}
 
 Creates options for saving Excel 97-2003 xls/xlt file.
 
 
 
 ```python
-def __init__(self, format):
+def __init__(self, save_format):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | [SaveFormat](/cells/python-net/aspose.cells/saveformat) | The file format. It must be xls/xlt. |
+| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The file format.<br/>It should be [`SaveFormat.EXCEL_97_TO_2003`](/cells/python-net/aspose.cells/saveformat#EXCEL_97_TO_2003) or [`SaveFormat.XLT`](/cells/python-net/aspose.cells/saveformat#XLT),<br/>otherwise the saved format will be set as [`SaveFormat.EXCEL_97_TO_2003`](/cells/python-net/aspose.cells/saveformat#EXCEL_97_TO_2003) automatically. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XlsSaveOptions](/cells/python-net/aspose.cells/xlssaveoptions)
+* module [`aspose.cells`](../../)
+* class [`XlsSaveOptions`](/cells/python-net/aspose.cells/xlssaveoptions)

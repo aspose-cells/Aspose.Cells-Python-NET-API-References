@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/spinner/characters/
 is_root: false
 ---
 
-## characters(start_index, length) {#int-int}
+## characters {#int-int}
 
 Returns a Characters object that represents a range of characters within the text.
 
@@ -44,5 +44,5 @@ fontSetting = shape.characters(0, 4)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Spinner](/cells/python-net/aspose.cells.drawing/spinner)
+* module [`aspose.cells.drawing`](../../)
+* class [`Spinner`](/cells/python-net/aspose.cells.drawing/spinner)

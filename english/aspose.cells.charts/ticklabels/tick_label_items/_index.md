@@ -11,12 +11,12 @@ is_root: false
 ## tick_label_items property
 
 
-Gets the items' info of TickLabel.
+Gets each tick label item's information of axis.
 
 ### Remarks 
 
 
-Only exists after calling [Chart.calculate()](/cells/python-net/aspose.cells.charts/chart/calculate) method.
+Only available after calling [`Chart.calculate`](/cells/python-net/aspose.cells.charts/chart/calculate) method.
 ### Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def tick_label_items(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [TickLabels](/cells/python-net/aspose.cells.charts/ticklabels)
+* module [`aspose.cells.charts`](../../)
+* class [`TickLabels`](/cells/python-net/aspose.cells.charts/ticklabels)

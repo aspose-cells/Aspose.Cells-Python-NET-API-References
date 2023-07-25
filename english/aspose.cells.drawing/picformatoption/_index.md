@@ -19,7 +19,7 @@ The PicFormatOption type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PicFormatOption()](/cells/python-net/aspose.cells.drawing/picformatoption/__init__/#) | Constructs a new instance of PicFormatOption |
+| [__init__](/cells/python-net/aspose.cells.drawing/picformatoption/__init__/#) | Constructs a new instance of PicFormatOption |
 
 
 ### Properties
@@ -35,4 +35,4 @@ The PicFormatOption type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

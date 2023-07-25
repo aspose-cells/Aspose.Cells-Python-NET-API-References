@@ -8,7 +8,7 @@ url: /aspose.cells.charts/seriescollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Series}
+## binary_search {#aspose.cells.charts.Series}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Series](/cells/python-net/aspose.cells.charts/series) | The System.Object to locate. The value can be null. |
+| item | [`Series`](/cells/python-net/aspose.cells.charts/series) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [SeriesCollection](/cells/python-net/aspose.cells.charts/seriescollection)
+* module [`aspose.cells.charts`](../../)
+* class [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection)

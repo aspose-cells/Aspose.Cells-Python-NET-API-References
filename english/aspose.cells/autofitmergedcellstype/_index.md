@@ -3,7 +3,7 @@ title: AutoFitMergedCellsType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1760
+weight: 1810
 url: /aspose.cells/autofitmergedcellstype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ The AutoFitMergedCellsType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

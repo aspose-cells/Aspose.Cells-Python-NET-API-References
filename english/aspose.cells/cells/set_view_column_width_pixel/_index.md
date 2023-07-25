@@ -8,7 +8,7 @@ url: /aspose.cells/cells/set_view_column_width_pixel/
 is_root: false
 ---
 
-## set_view_column_width_pixel(column, pixels) {#int-int}
+## set_view_column_width_pixel {#int-int}
 
 Sets the width of the column in different view.
 
@@ -26,9 +26,9 @@ def set_view_column_width_pixel(self, column, pixels):
 | pixels | int | The width in unit of pixels. |
 ### Remarks
 
-If the current view type is [ViewType.PAGE_LAYOUT_VIEW](/cells/python-net/aspose.cells/viewtype#PAGE_LAYOUT_VIEW), the column's width is same as printed width.
+If the current view type is [`ViewType.PAGE_LAYOUT_VIEW`](/cells/python-net/aspose.cells/viewtype#PAGE_LAYOUT_VIEW), the column's width is same as printed width.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

@@ -29,7 +29,7 @@ The CalculationCell type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_calculated_value(v)](/cells/python-net/aspose.cells/calculationcell/set_calculated_value/#any) | Sets the calculated value for the cell. |
+| [set_calculated_value](/cells/python-net/aspose.cells/calculationcell/set_calculated_value/#any) | Sets the calculated value for the cell. |
 
 
 
@@ -41,4 +41,4 @@ User should not change any data in the Workbook during the formula calculation p
 Otherwise unexpected result or Exception may be caused.
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

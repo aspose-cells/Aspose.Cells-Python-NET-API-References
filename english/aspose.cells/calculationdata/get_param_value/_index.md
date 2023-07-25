@@ -8,7 +8,7 @@ url: /aspose.cells/calculationdata/get_param_value/
 is_root: false
 ---
 
-## get_param_value(index) {#int}
+## get_param_value {#int}
 
 Gets the represented value object of the parameter at given index.
 
@@ -34,5 +34,5 @@ def get_param_value(self, index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CalculationData](/cells/python-net/aspose.cells/calculationdata)
+* module [`aspose.cells`](../../)
+* class [`CalculationData`](/cells/python-net/aspose.cells/calculationdata)

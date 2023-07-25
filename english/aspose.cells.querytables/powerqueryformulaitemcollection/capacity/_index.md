@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.querytables](../../)
-* class [PowerQueryFormulaItemCollection](/cells/python-net/aspose.cells.querytables/powerqueryformulaitemcollection)
+* module [`aspose.cells.querytables`](../../)
+* class [`PowerQueryFormulaItemCollection`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitemcollection)

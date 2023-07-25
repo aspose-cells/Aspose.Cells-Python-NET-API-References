@@ -20,6 +20,6 @@ def pivot_items(self):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield)
-* class [PivotItemCollection](/cells/python-net/aspose.cells.pivot/pivotitemcollection)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)
+* class [`PivotItemCollection`](/cells/python-net/aspose.cells.pivot/pivotitemcollection)

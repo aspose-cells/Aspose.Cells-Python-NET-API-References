@@ -3,7 +3,7 @@ title: actual_chart_size property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 170
 url: /aspose.cells.charts/chart/actual_chart_size/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def actual_chart_size(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

@@ -19,7 +19,7 @@ The ExportRangeToJsonOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ExportRangeToJsonOptions()](/cells/python-net/aspose.cells.utility/exportrangetojsonoptions/__init__/#) | Constructs a new instance of ExportRangeToJsonOptions |
+| [__init__](/cells/python-net/aspose.cells.utility/exportrangetojsonoptions/__init__/#) | Constructs a new instance of ExportRangeToJsonOptions |
 
 
 ### Properties
@@ -33,4 +33,4 @@ The ExportRangeToJsonOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.utility](..)
+* module [`aspose.cells.utility`](..)

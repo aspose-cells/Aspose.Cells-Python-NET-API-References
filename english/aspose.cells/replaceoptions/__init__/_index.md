@@ -8,7 +8,7 @@ url: /aspose.cells/replaceoptions/__init__/
 is_root: false
 ---
 
-## ReplaceOptions() {#}
+## __init__ {#}
 
 Constructs a new instance of ReplaceOptions
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ReplaceOptions](/cells/python-net/aspose.cells/replaceoptions)
+* module [`aspose.cells`](../../)
+* class [`ReplaceOptions`](/cells/python-net/aspose.cells/replaceoptions)

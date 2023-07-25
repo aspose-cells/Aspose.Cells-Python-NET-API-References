@@ -3,7 +3,7 @@ title: TilePicOption class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 720
 url: /aspose.cells.drawing/tilepicoption/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The TilePicOption type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TilePicOption()](/cells/python-net/aspose.cells.drawing/tilepicoption/__init__/#) | Constructs a new instance of TilePicOption |
+| [__init__](/cells/python-net/aspose.cells.drawing/tilepicoption/__init__/#) | Constructs a new instance of TilePicOption |
 
 
 ### Properties
@@ -35,4 +35,4 @@ The TilePicOption type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

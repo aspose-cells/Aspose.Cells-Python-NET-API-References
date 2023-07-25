@@ -32,6 +32,6 @@ def reconnection_method(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [DBConnection](/cells/python-net/aspose.cells.externalconnections/dbconnection)
-* class [ReConnectionMethodType](/cells/python-net/aspose.cells.externalconnections/reconnectionmethodtype)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`DBConnection`](/cells/python-net/aspose.cells.externalconnections/dbconnection)
+* class [`ReConnectionMethodType`](/cells/python-net/aspose.cells.externalconnections/reconnectionmethodtype)

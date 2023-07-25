@@ -3,7 +3,7 @@ title: RevisionAutoFormat class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /aspose.cells.revisions/revisionautoformat/
 is_root: false
 ---
@@ -14,8 +14,8 @@ represents a revision record of information about a formatting change.
 
 
 
-**Inheritance:** [RevisionAutoFormat](/cells/python-net/aspose.cells.revisions/revisionautoformat) → 
-[Revision](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionAutoFormat`](/cells/python-net/aspose.cells.revisions/revisionautoformat) → 
+[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 
 
 
@@ -32,6 +32,6 @@ The RevisionAutoFormat type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [RevisionAutoFormat](/cells/python-net/aspose.cells.revisions/revisionautoformat)
+* module [`aspose.cells.revisions`](..)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`RevisionAutoFormat`](/cells/python-net/aspose.cells.revisions/revisionautoformat)

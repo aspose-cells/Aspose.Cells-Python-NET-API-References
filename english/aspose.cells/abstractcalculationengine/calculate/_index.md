@@ -8,7 +8,7 @@ url: /aspose.cells/abstractcalculationengine/calculate/
 is_root: false
 ---
 
-## calculate(data) {#CalculationData}
+## calculate {#aspose.cells.CalculationData}
 
 Calculates one function with given data.
 
@@ -22,7 +22,7 @@ def calculate(self, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data | [CalculationData](/cells/python-net/aspose.cells/calculationdata) | the required data to calculate function such as function name, parameters, ...etc. |
+| data | [`CalculationData`](/cells/python-net/aspose.cells/calculationdata) | the required data to calculate function such as function name, parameters, ...etc. |
 ### Remarks
 
 User should set the calculated value for given data for all functions(including excel native functions)
@@ -30,5 +30,5 @@ that he wants to calculate by himself in this implementation.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractCalculationEngine](/cells/python-net/aspose.cells/abstractcalculationengine)
+* module [`aspose.cells`](../../)
+* class [`AbstractCalculationEngine`](/cells/python-net/aspose.cells/abstractcalculationengine)

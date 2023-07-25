@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartcollection/get/
 is_root: false
 ---
 
-## get(index) {#int}
+## get {#int}
 
 Add API for Python Via .Net.since this[int index] is unsupported
 
@@ -30,7 +30,7 @@ def get(self, index):
 | index | int | The zero based index of the element. |
 
 
-## get(name) {#str}
+## get {#str}
 
 Add API for Python Via .Net.since this[string Chart] is unsupported
 
@@ -54,5 +54,5 @@ def get(self, name):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartCollection](/cells/python-net/aspose.cells.charts/chartcollection)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartCollection`](/cells/python-net/aspose.cells.charts/chartcollection)

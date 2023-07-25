@@ -3,7 +3,7 @@ title: fill_format property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /aspose.cells.drawing/picture/fill_format/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def fill_format(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoFillFormat](/cells/python-net/aspose.cells.drawing/msofillformat)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoFillFormat`](/cells/python-net/aspose.cells.drawing/msofillformat)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)

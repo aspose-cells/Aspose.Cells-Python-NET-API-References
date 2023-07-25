@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_leafs/
 is_root: false
 ---
 
-## get_leafs() {#}
+## get_leafs {#}
 
 Get all cells which reference to this cell directly and need to be updated when this cell is modified.
 
@@ -32,7 +32,7 @@ please use Cell.GetDependentsInCalculation(bool) to get all dependents in calcul
 This property will be removed 12 months later since May 2022.
 Aspose apologizes for any inconvenience you may have experienced.
 
-## get_leafs(recursive) {#bool}
+## get_leafs {#bool}
 
 Get all cells which will be updated when this cell is modified.
 
@@ -61,5 +61,5 @@ Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

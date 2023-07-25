@@ -3,7 +3,7 @@ title: QueryTable class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1230
+weight: 1250
 url: /aspose.cells/querytable/
 is_root: false
 ---
@@ -38,12 +38,8 @@ from aspose.cells import Workbook
 workbook = Workbook()
 # Obtaining the reference of the first worksheet
 worksheet = workbook.worksheets[0]
-# Getting the first query table in the worksheet
-qt = worksheet.query_tables[0]
-# Getting display address of the query table.
-address = qt.result_range.address
 
 ```
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

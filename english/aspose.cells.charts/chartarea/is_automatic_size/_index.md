@@ -23,5 +23,5 @@ def is_automatic_size(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartArea](/cells/python-net/aspose.cells.charts/chartarea)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea)

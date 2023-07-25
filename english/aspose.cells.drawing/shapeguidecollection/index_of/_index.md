@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapeguidecollection/index_of/
 is_root: false
 ---
 
-## index_of(item, index) {#ShapeGuide-int}
+## index_of {#aspose.cells.drawing.ShapeGuide-int}
 
 Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element.
 
@@ -27,11 +27,11 @@ def index_of(self, item, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ShapeGuide](/cells/python-net/aspose.cells.drawing/shapeguide) | The object to locate in the array list. The value can be null. |
+| item | [`ShapeGuide`](/cells/python-net/aspose.cells.drawing/shapeguide) | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the search. 0 (zero) is valid in an empty list. |
 
 
-## index_of(item, index, count) {#ShapeGuide-int-int}
+## index_of {#aspose.cells.drawing.ShapeGuide-int-int}
 
 Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements.
 
@@ -50,12 +50,12 @@ def index_of(self, item, index, count):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ShapeGuide](/cells/python-net/aspose.cells.drawing/shapeguide) | The object to locate in the array list. The value can be null. |
+| item | [`ShapeGuide`](/cells/python-net/aspose.cells.drawing/shapeguide) | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the search. 0 (zero) is valid in an empty list. |
 | count | int | The number of elements in the section to search. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeGuideCollection](/cells/python-net/aspose.cells.drawing/shapeguidecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeGuideCollection`](/cells/python-net/aspose.cells.drawing/shapeguidecollection)

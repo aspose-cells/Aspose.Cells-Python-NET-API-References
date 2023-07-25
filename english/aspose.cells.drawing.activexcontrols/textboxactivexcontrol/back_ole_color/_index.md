@@ -23,5 +23,5 @@ def back_ole_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [TextBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`TextBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

@@ -11,7 +11,7 @@ is_root: false
 ## background_color property
 
 
-Gets or sets the background Color of the [Area](/cells/python-net/aspose.cells.drawing/area).
+Gets or sets the background Color of the [`Area`](/cells/python-net/aspose.cells.drawing/area).
 ### Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def background_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Area](/cells/python-net/aspose.cells.drawing/area)
+* module [`aspose.cells.drawing`](../../)
+* class [`Area`](/cells/python-net/aspose.cells.drawing/area)

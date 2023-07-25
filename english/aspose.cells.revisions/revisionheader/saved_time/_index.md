@@ -23,5 +23,5 @@ def saved_time(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [RevisionHeader](/cells/python-net/aspose.cells.revisions/revisionheader)
+* module [`aspose.cells.revisions`](../../)
+* class [`RevisionHeader`](/cells/python-net/aspose.cells.revisions/revisionheader)

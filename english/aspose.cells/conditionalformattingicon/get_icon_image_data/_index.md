@@ -8,7 +8,7 @@ url: /aspose.cells/conditionalformattingicon/get_icon_image_data/
 is_root: false
 ---
 
-## get_icon_image_data(type, index) {#IconSetType-int}
+## get_icon_image_data {#aspose.cells.IconSetType-int}
 
 Get the icon set data
 
@@ -27,11 +27,11 @@ def get_icon_image_data(self, type, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [IconSetType](/cells/python-net/aspose.cells/iconsettype) | icon's type |
+| type | [`IconSetType`](/cells/python-net/aspose.cells/iconsettype) | icon's type |
 | index | int | icon's index |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ConditionalFormattingIcon](/cells/python-net/aspose.cells/conditionalformattingicon)
+* module [`aspose.cells`](../../)
+* class [`ConditionalFormattingIcon`](/cells/python-net/aspose.cells/conditionalformattingicon)

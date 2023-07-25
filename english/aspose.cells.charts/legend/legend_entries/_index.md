@@ -22,6 +22,6 @@ def legend_entries(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Legend](/cells/python-net/aspose.cells.charts/legend)
-* class [LegendEntryCollection](/cells/python-net/aspose.cells.charts/legendentrycollection)
+* module [`aspose.cells.charts`](../../)
+* class [`Legend`](/cells/python-net/aspose.cells.charts/legend)
+* class [`LegendEntryCollection`](/cells/python-net/aspose.cells.charts/legendentrycollection)

@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_height_of_value/
 is_root: false
 ---
 
-## get_height_of_value() {#}
+## get_height_of_value {#}
 
 Gets the height of the value in unit of pixels.
 
@@ -29,5 +29,5 @@ def get_height_of_value(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

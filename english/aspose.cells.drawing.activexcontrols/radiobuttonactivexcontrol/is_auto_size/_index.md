@@ -23,5 +23,5 @@ def is_auto_size(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [RadioButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`RadioButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

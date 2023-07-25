@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/textboxcollection/add/
 is_root: false
 ---
 
-## add(upper_left_row, upper_left_column, height, width) {#int-int-int-int}
+## add {#int-int-int-int}
 
 Adds a textbox to the collection.
 
@@ -16,7 +16,7 @@ Adds a textbox to the collection.
 ### Returns 
 
 
-[TextBox](/cells/python-net/aspose.cells.drawing/textbox) object index.
+[`TextBox`](/cells/python-net/aspose.cells.drawing/textbox) object index.
 
 
 ```python
@@ -45,6 +45,6 @@ index2 = textBoxCollection.add(1, 1, 50, 100)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
-* class [TextBoxCollection](/cells/python-net/aspose.cells.drawing/textboxcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)
+* class [`TextBoxCollection`](/cells/python-net/aspose.cells.drawing/textboxcollection)

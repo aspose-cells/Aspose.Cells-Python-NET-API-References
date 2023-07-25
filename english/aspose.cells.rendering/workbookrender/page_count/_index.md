@@ -20,5 +20,5 @@ def page_count(self):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [WorkbookRender](/cells/python-net/aspose.cells.rendering/workbookrender)
+* module [`aspose.cells.rendering`](../../)
+* class [`WorkbookRender`](/cells/python-net/aspose.cells.rendering/workbookrender)

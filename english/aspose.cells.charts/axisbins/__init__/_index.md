@@ -8,7 +8,7 @@ url: /aspose.cells.charts/axisbins/__init__/
 is_root: false
 ---
 
-## AxisBins() {#}
+## __init__ {#}
 
 Constructs a new instance of AxisBins
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [AxisBins](/cells/python-net/aspose.cells.charts/axisbins)
+* module [`aspose.cells.charts`](../../)
+* class [`AxisBins`](/cells/python-net/aspose.cells.charts/axisbins)

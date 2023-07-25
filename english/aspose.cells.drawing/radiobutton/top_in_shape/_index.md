@@ -3,7 +3,7 @@ title: top_in_shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1100
+weight: 1110
 url: /aspose.cells.drawing/radiobutton/top_in_shape/
 is_root: false
 ---
@@ -39,5 +39,5 @@ def top_in_shape(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

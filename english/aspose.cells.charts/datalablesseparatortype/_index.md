@@ -38,4 +38,4 @@ This property will be removed 12 months later since September 2020.
 Aspose apologizes for any inconvenience you may have experienced.
 
 ### See Also
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

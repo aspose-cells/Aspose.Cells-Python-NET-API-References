@@ -23,6 +23,6 @@ def diagonal_style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [BorderCollection](/cells/python-net/aspose.cells/bordercollection)
-* class [CellBorderType](/cells/python-net/aspose.cells/cellbordertype)
+* module [`aspose.cells`](../../)
+* class [`BorderCollection`](/cells/python-net/aspose.cells/bordercollection)
+* class [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype)

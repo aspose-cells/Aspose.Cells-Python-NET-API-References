@@ -8,7 +8,7 @@ url: /aspose.cells/xmlsaveoptions/__init__/
 is_root: false
 ---
 
-## XmlSaveOptions() {#}
+## __init__ {#}
 
 Creates options for saving xml file.
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XmlSaveOptions](/cells/python-net/aspose.cells/xmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`XmlSaveOptions`](/cells/python-net/aspose.cells/xmlsaveoptions)

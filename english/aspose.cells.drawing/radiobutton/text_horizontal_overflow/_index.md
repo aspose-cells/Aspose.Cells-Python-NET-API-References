@@ -3,7 +3,7 @@ title: text_horizontal_overflow property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1000
+weight: 1010
 url: /aspose.cells.drawing/radiobutton/text_horizontal_overflow/
 is_root: false
 ---
@@ -34,6 +34,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
-* class [TextOverflowType](/cells/python-net/aspose.cells.drawing/textoverflowtype)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)
+* class [`TextOverflowType`](/cells/python-net/aspose.cells.drawing/textoverflowtype)

@@ -3,7 +3,7 @@ title: width_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1180
+weight: 1190
 url: /aspose.cells.drawing/textbox/width_inch/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Represents the width of the shape, in unit of inch.
 ```python
 
 if shape.width_inch == 3:
-    shape.width_inch = 1
+    shape.width_inch = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def width_inch(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

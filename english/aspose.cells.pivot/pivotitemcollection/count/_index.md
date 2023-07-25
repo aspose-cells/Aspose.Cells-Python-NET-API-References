@@ -20,5 +20,5 @@ def count(self):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotItemCollection](/cells/python-net/aspose.cells.pivot/pivotitemcollection)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotItemCollection`](/cells/python-net/aspose.cells.pivot/pivotitemcollection)

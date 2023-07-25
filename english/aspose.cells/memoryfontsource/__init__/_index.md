@@ -8,7 +8,7 @@ url: /aspose.cells/memoryfontsource/__init__/
 is_root: false
 ---
 
-## MemoryFontSource(font_data) {#bytes}
+## __init__ {#bytes}
 
 Ctor.
 
@@ -27,5 +27,5 @@ def __init__(self, font_data):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [MemoryFontSource](/cells/python-net/aspose.cells/memoryfontsource)
+* module [`aspose.cells`](../../)
+* class [`MemoryFontSource`](/cells/python-net/aspose.cells/memoryfontsource)

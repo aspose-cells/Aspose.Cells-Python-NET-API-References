@@ -23,6 +23,6 @@ def line_style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Border](/cells/python-net/aspose.cells/border)
-* class [CellBorderType](/cells/python-net/aspose.cells/cellbordertype)
+* module [`aspose.cells`](../../)
+* class [`Border`](/cells/python-net/aspose.cells/border)
+* class [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype)

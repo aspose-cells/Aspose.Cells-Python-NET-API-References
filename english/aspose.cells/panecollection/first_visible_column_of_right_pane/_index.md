@@ -23,5 +23,5 @@ def first_visible_column_of_right_pane(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PaneCollection](/cells/python-net/aspose.cells/panecollection)
+* module [`aspose.cells`](../../)
+* class [`PaneCollection`](/cells/python-net/aspose.cells/panecollection)

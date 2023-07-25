@@ -10,7 +10,7 @@ is_root: false
 
 ## FileFormatInfo class
 
-Contains data returned by [FileFormatUtil](/cells/python-net/aspose.cells/fileformatutil) file format detection methods.
+Contains data returned by [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil) file format detection methods.
 
 
 
@@ -19,7 +19,7 @@ The FileFormatInfo type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FileFormatInfo()](/cells/python-net/aspose.cells/fileformatinfo/__init__/#) | Constructs a new instance of FileFormatInfo |
+| [__init__](/cells/python-net/aspose.cells/fileformatinfo/__init__/#) | Constructs a new instance of FileFormatInfo |
 
 
 ### Properties
@@ -33,5 +33,5 @@ The FileFormatInfo type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [FileFormatUtil](/cells/python-net/aspose.cells/fileformatutil)
+* module [`aspose.cells`](..)
+* class [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil)

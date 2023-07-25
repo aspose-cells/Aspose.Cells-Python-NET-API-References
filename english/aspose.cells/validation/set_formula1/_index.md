@@ -8,7 +8,7 @@ url: /aspose.cells/validation/set_formula1/
 is_root: false
 ---
 
-## set_formula1(formula, is_r1c1, is_local) {#str-bool-bool}
+## set_formula1 {#str-bool-bool}
 
 Sets the value or expression associated with this validation.
 
@@ -29,5 +29,5 @@ def set_formula1(self, formula, is_r1c1, is_local):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Validation](/cells/python-net/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* class [`Validation`](/cells/python-net/aspose.cells/validation)

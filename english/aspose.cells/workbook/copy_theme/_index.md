@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/copy_theme/
 is_root: false
 ---
 
-## copy_theme(source) {#Workbook}
+## copy_theme {#aspose.cells.Workbook}
 
 Copies the theme from another workbook.
 
@@ -22,10 +22,10 @@ def copy_theme(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [Workbook](/cells/python-net/aspose.cells/workbook) | Source workbook. |
+| source | [`Workbook`](/cells/python-net/aspose.cells/workbook) | Source workbook. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

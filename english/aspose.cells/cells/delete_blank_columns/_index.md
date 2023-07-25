@@ -8,7 +8,7 @@ url: /aspose.cells/cells/delete_blank_columns/
 is_root: false
 ---
 
-## delete_blank_columns() {#}
+## delete_blank_columns {#}
 
 Delete all blank columns which do not contain any data.
 
@@ -22,7 +22,7 @@ def delete_blank_columns(self):
 
 
 
-## delete_blank_columns(options) {#DeleteOptions}
+## delete_blank_columns {#aspose.cells.DeleteOptions}
 
 Delete all blank columns which do not contain any data.
 
@@ -36,10 +36,10 @@ def delete_blank_columns(self, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [DeleteOptions](/cells/python-net/aspose.cells/deleteoptions) | The options of deleting range. |
+| options | [`DeleteOptions`](/cells/python-net/aspose.cells/deleteoptions) | The options of deleting range. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

@@ -26,6 +26,6 @@ def type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IconSet](/cells/python-net/aspose.cells/iconset)
-* class [IconSetType](/cells/python-net/aspose.cells/iconsettype)
+* module [`aspose.cells`](../../)
+* class [`IconSet`](/cells/python-net/aspose.cells/iconset)
+* class [`IconSetType`](/cells/python-net/aspose.cells/iconsettype)

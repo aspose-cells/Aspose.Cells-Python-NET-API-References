@@ -3,7 +3,7 @@ title: is_in_group property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 610
 url: /aspose.cells.drawing/radiobutton/is_in_group/
 is_root: false
 ---
@@ -20,5 +20,5 @@ def is_in_group(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

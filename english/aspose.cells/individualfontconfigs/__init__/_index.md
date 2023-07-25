@@ -8,7 +8,7 @@ url: /aspose.cells/individualfontconfigs/__init__/
 is_root: false
 ---
 
-## IndividualFontConfigs() {#}
+## __init__ {#}
 
 Ctor.
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IndividualFontConfigs](/cells/python-net/aspose.cells/individualfontconfigs)
+* module [`aspose.cells`](../../)
+* class [`IndividualFontConfigs`](/cells/python-net/aspose.cells/individualfontconfigs)

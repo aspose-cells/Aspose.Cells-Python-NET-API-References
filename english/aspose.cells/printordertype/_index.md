@@ -3,7 +3,7 @@ title: PrintOrderType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2390
+weight: 2440
 url: /aspose.cells/printordertype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ The PrintOrderType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

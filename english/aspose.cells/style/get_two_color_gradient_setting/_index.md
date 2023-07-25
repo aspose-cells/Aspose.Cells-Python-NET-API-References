@@ -8,7 +8,7 @@ url: /aspose.cells/style/get_two_color_gradient_setting/
 is_root: false
 ---
 
-## get_two_color_gradient_setting() {#}
+## get_two_color_gradient_setting {#}
 
 Get the two-color gradient setting.
 
@@ -24,5 +24,5 @@ def get_two_color_gradient_setting(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)

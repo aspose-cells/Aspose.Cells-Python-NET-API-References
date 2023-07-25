@@ -23,5 +23,5 @@ def key1(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataSorter](/cells/python-net/aspose.cells/datasorter)
+* module [`aspose.cells`](../../)
+* class [`DataSorter`](/cells/python-net/aspose.cells/datasorter)

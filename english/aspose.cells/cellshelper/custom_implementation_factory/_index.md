@@ -23,6 +23,6 @@ def custom_implementation_factory(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsHelper](/cells/python-net/aspose.cells/cellshelper)
-* class [CustomImplementationFactory](/cells/python-net/aspose.cells/customimplementationfactory)
+* module [`aspose.cells`](../../)
+* class [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper)
+* class [`CustomImplementationFactory`](/cells/python-net/aspose.cells/customimplementationfactory)

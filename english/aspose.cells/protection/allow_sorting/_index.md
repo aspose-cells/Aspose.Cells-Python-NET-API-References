@@ -23,5 +23,5 @@ def allow_sorting(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Protection](/cells/python-net/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* class [`Protection`](/cells/python-net/aspose.cells/protection)

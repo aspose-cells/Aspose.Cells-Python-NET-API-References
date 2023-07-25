@@ -31,5 +31,5 @@ def visibledropdown(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FilterColumn](/cells/python-net/aspose.cells/filtercolumn)
+* module [`aspose.cells`](../../)
+* class [`FilterColumn`](/cells/python-net/aspose.cells/filtercolumn)

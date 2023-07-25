@@ -20,6 +20,6 @@ def metadata_type(self):
 ```
 
 ### See Also
-* module [aspose.cells.metadata](../../)
-* class [MetadataOptions](/cells/python-net/aspose.cells.metadata/metadataoptions)
-* class [MetadataType](/cells/python-net/aspose.cells.metadata/metadatatype)
+* module [`aspose.cells.metadata`](../../)
+* class [`MetadataOptions`](/cells/python-net/aspose.cells.metadata/metadataoptions)
+* class [`MetadataType`](/cells/python-net/aspose.cells.metadata/metadatatype)

@@ -20,6 +20,6 @@ def worksheet(self):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [Revision](/cells/python-net/aspose.cells.revisions/revision)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells.revisions`](../../)
+* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/copy/
 is_root: false
 ---
 
-## copy(source) {#Workbook}
+## copy {#aspose.cells.Workbook}
 
 Copies data from a source Workbook object.
 
@@ -22,12 +22,12 @@ def copy(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [Workbook](/cells/python-net/aspose.cells/workbook) | Source Workbook object. |
+| source | [`Workbook`](/cells/python-net/aspose.cells/workbook) | Source Workbook object. |
 
 
-## copy(source, copy_options) {#Workbook-CopyOptions}
+## copy {#aspose.cells.Workbook-aspose.cells.CopyOptions}
 
-Copies data from a source Workbook object.
+Copies another Workbook object.
 
 
 
@@ -39,11 +39,13 @@ def copy(self, source, copy_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [Workbook](/cells/python-net/aspose.cells/workbook) | Source Workbook object. |
-| copy_options | [CopyOptions](/cells/python-net/aspose.cells/copyoptions) |  |
+| source | [`Workbook`](/cells/python-net/aspose.cells/workbook) | Source Workbook object. |
+| copy_options | [`CopyOptions`](/cells/python-net/aspose.cells/copyoptions) | The options of copying other workbook. |
+### Remarks
 
+It's very simple to clone an Excel file.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/clear_merged_cells/
 is_root: false
 ---
 
-## clear_merged_cells() {#}
+## clear_merged_cells {#}
 
 Clears all merged ranges.
 
@@ -24,5 +24,5 @@ def clear_merged_cells(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

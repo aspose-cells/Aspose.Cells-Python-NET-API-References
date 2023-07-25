@@ -33,6 +33,6 @@ def begin_arrowhead_width(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LineFormat](/cells/python-net/aspose.cells.drawing/lineformat)
-* class [MsoArrowheadWidth](/cells/python-net/aspose.cells.drawing/msoarrowheadwidth)
+* module [`aspose.cells.drawing`](../../)
+* class [`LineFormat`](/cells/python-net/aspose.cells.drawing/lineformat)
+* class [`MsoArrowheadWidth`](/cells/python-net/aspose.cells.drawing/msoarrowheadwidth)

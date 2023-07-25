@@ -29,6 +29,6 @@ def hyperlink(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Hyperlink](/cells/python-net/aspose.cells/hyperlink)
-* class [OleObject](/cells/python-net/aspose.cells.drawing/oleobject)
+* module [`aspose.cells.drawing`](../../)
+* class [`Hyperlink`](/cells/python-net/aspose.cells/hyperlink)
+* class [`OleObject`](/cells/python-net/aspose.cells.drawing/oleobject)

@@ -3,7 +3,7 @@ title: linked_cell property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 750
+weight: 760
 url: /aspose.cells.drawing/radiobutton/linked_cell/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def linked_cell(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

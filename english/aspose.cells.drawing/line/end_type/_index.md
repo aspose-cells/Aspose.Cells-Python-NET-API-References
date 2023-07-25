@@ -23,6 +23,6 @@ def end_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
-* class [MsoArrowheadStyle](/cells/python-net/aspose.cells.drawing/msoarrowheadstyle)
+* module [`aspose.cells.drawing`](../../)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)
+* class [`MsoArrowheadStyle`](/cells/python-net/aspose.cells.drawing/msoarrowheadstyle)

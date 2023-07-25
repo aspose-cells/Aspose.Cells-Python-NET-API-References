@@ -8,7 +8,7 @@ url: /aspose.cells/findoptions/get_range/
 is_root: false
 ---
 
-## get_range() {#}
+## get_range {#}
 
 Gets and sets the searched range.
 
@@ -29,5 +29,5 @@ def get_range(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FindOptions](/cells/python-net/aspose.cells/findoptions)
+* module [`aspose.cells`](../../)
+* class [`FindOptions`](/cells/python-net/aspose.cells/findoptions)

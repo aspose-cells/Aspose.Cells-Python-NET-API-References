@@ -3,7 +3,7 @@ title: XmlColumnProperty class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1670
+weight: 1720
 url: /aspose.cells/xmlcolumnproperty/
 is_root: false
 ---
@@ -19,9 +19,9 @@ The XmlColumnProperty type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [XmlColumnProperty()](/cells/python-net/aspose.cells/xmlcolumnproperty/__init__/#) | Constructs a new instance of XmlColumnProperty |
+| [__init__](/cells/python-net/aspose.cells/xmlcolumnproperty/__init__/#) | Constructs a new instance of XmlColumnProperty |
 
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

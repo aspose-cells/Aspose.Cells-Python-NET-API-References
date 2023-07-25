@@ -8,7 +8,7 @@ url: /aspose.cells/filtercolumncollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#FilterColumn}
+## binary_search {#aspose.cells.FilterColumn}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [FilterColumn](/cells/python-net/aspose.cells/filtercolumn) | The System.Object to locate. The value can be null. |
+| item | [`FilterColumn`](/cells/python-net/aspose.cells/filtercolumn) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FilterColumnCollection](/cells/python-net/aspose.cells/filtercolumncollection)
+* module [`aspose.cells`](../../)
+* class [`FilterColumnCollection`](/cells/python-net/aspose.cells/filtercolumncollection)

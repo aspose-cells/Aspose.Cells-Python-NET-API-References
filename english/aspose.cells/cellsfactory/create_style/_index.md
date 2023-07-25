@@ -8,7 +8,7 @@ url: /aspose.cells/cellsfactory/create_style/
 is_root: false
 ---
 
-## create_style() {#}
+## create_style {#}
 
 Creates a new style.
 
@@ -29,5 +29,5 @@ def create_style(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsFactory](/cells/python-net/aspose.cells/cellsfactory)
+* module [`aspose.cells`](../../)
+* class [`CellsFactory`](/cells/python-net/aspose.cells/cellsfactory)

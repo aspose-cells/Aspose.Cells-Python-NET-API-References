@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [ContentTypePropertyCollection](/cells/python-net/aspose.cells.properties/contenttypepropertycollection)
+* module [`aspose.cells.properties`](../../)
+* class [`ContentTypePropertyCollection`](/cells/python-net/aspose.cells.properties/contenttypepropertycollection)

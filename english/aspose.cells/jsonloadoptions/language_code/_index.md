@@ -3,7 +3,7 @@ title: language_code property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells/jsonloadoptions/language_code/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def language_code(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CountryCode](/cells/python-net/aspose.cells/countrycode)
-* class [JsonLoadOptions](/cells/python-net/aspose.cells/jsonloadoptions)
+* module [`aspose.cells`](../../)
+* class [`CountryCode`](/cells/python-net/aspose.cells/countrycode)
+* class [`JsonLoadOptions`](/cells/python-net/aspose.cells/jsonloadoptions)

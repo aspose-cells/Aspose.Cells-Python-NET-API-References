@@ -8,7 +8,7 @@ url: /aspose.cells/name/get_referred_areas/
 is_root: false
 ---
 
-## get_referred_areas(recalculate) {#bool}
+## get_referred_areas {#bool}
 
 Gets all references referred by this name.
 
@@ -32,5 +32,5 @@ def get_referred_areas(self, recalculate):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Name](/cells/python-net/aspose.cells/name)
+* module [`aspose.cells`](../../)
+* class [`Name`](/cells/python-net/aspose.cells/name)

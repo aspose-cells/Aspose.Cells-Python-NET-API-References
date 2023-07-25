@@ -20,5 +20,5 @@ def is_new_formatted(self):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [RevisionCellChange](/cells/python-net/aspose.cells.revisions/revisioncellchange)
+* module [`aspose.cells.revisions`](../../)
+* class [`RevisionCellChange`](/cells/python-net/aspose.cells.revisions/revisioncellchange)

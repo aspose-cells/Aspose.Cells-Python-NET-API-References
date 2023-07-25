@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chart/has_axis/
 is_root: false
 ---
 
-## has_axis(aixs_type, is_primary) {#AxisType-bool}
+## has_axis {#aspose.cells.charts.AxisType-bool}
 
 Returns which axes exist on the chart.
 
@@ -22,7 +22,7 @@ def has_axis(self, aixs_type, is_primary):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| aixs_type | [AxisType](/cells/python-net/aspose.cells.charts/axistype) |  |
+| aixs_type | [`AxisType`](/cells/python-net/aspose.cells.charts/axistype) |  |
 | is_primary | bool |  |
 ### Remarks
 
@@ -30,5 +30,5 @@ Normally, Pie, PieExploded, PiePie,PieBar, Pie3D, Pie3DExploded,Doughnut, Doughn
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

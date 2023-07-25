@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/picture/copy/
 is_root: false
 ---
 
-## copy(source, options) {#Picture-CopyOptions}
+## copy {#aspose.cells.drawing.Picture-aspose.cells.CopyOptions}
 
 Copy the picture.
 
@@ -22,8 +22,8 @@ def copy(self, source, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [Picture](/cells/python-net/aspose.cells.drawing/picture) | The source picture. |
-| options | [CopyOptions](/cells/python-net/aspose.cells/copyoptions) | The copy options. |
+| source | [`Picture`](/cells/python-net/aspose.cells.drawing/picture) | The source picture. |
+| options | [`CopyOptions`](/cells/python-net/aspose.cells/copyoptions) | The copy options. |
 
 ### Example 
 
@@ -53,5 +53,5 @@ workbook.save("result.xlsx")
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)

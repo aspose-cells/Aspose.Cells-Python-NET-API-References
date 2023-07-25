@@ -11,7 +11,7 @@ is_root: false
 ## Cells indexer
 
 
-Gets [Cell](/cells/python-net/aspose.cells/cell) item within the worksheet
+Gets [`Cell`](/cells/python-net/aspose.cells/cell) item within the worksheet
 ### Indexer
 | Name | Description |
 | :- | :- |
@@ -28,6 +28,6 @@ This property will be removed 12 months later since February 2015.
 Aspose apologizes for any inconvenience you may have experienced.
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

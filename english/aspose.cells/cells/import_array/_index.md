@@ -8,7 +8,7 @@ url: /aspose.cells/cells/import_array/
 is_root: false
 ---
 
-## import_array(string_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+## import_array {#list-int-int-bool}
 
 Imports an array of string into a worksheet.
 
@@ -28,7 +28,7 @@ def import_array(self, string_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Specifies to import data vertically or horizontally. |
 
 
-## import_array(int_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+## import_array {#list-int-int-bool}
 
 Imports an array of integer into a worksheet.
 
@@ -48,7 +48,7 @@ def import_array(self, int_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Specifies to import data vertically or horizontally. |
 
 
-## import_array(double_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+## import_array {#list-int-int-bool}
 
 Imports an array of double into a worksheet.
 
@@ -70,5 +70,5 @@ def import_array(self, double_array, first_row, first_column, is_vertical):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

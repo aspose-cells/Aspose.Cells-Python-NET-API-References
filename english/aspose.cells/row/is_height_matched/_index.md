@@ -3,7 +3,7 @@ title: is_height_matched property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /aspose.cells/row/is_height_matched/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def is_height_matched(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Row](/cells/python-net/aspose.cells/row)
+* module [`aspose.cells`](../../)
+* class [`Row`](/cells/python-net/aspose.cells/row)

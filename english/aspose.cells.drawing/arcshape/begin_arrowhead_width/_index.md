@@ -3,7 +3,7 @@ title: begin_arrowhead_width property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 320
 url: /aspose.cells.drawing/arcshape/begin_arrowhead_width/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def begin_arrowhead_width(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ArcShape](/cells/python-net/aspose.cells.drawing/arcshape)
-* class [MsoArrowheadWidth](/cells/python-net/aspose.cells.drawing/msoarrowheadwidth)
+* module [`aspose.cells.drawing`](../../)
+* class [`ArcShape`](/cells/python-net/aspose.cells.drawing/arcshape)
+* class [`MsoArrowheadWidth`](/cells/python-net/aspose.cells.drawing/msoarrowheadwidth)

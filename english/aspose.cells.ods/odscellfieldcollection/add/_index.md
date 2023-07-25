@@ -8,7 +8,7 @@ url: /aspose.cells.ods/odscellfieldcollection/add/
 is_root: false
 ---
 
-## add(row, column, field_type, format) {#int-int-OdsCellFieldType-str}
+## add {#int-int-aspose.cells.ods.OdsCellFieldType-str}
 
 Adds a field.
 
@@ -29,11 +29,11 @@ def add(self, row, column, field_type, format):
 | :- | :- | :- |
 | row | int | The row index. |
 | column | int | The column index. |
-| field_type | [OdsCellFieldType](/cells/python-net/aspose.cells.ods/odscellfieldtype) | The type of the field. |
+| field_type | [`OdsCellFieldType`](/cells/python-net/aspose.cells.ods/odscellfieldtype) | The type of the field. |
 | format | str | The number format of the field. |
 
 
 
 ### See Also
-* module [aspose.cells.ods](../../)
-* class [OdsCellFieldCollection](/cells/python-net/aspose.cells.ods/odscellfieldcollection)
+* module [`aspose.cells.ods`](../../)
+* class [`OdsCellFieldCollection`](/cells/python-net/aspose.cells.ods/odscellfieldcollection)

@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/set_fit_to_pages/
 is_root: false
 ---
 
-## set_fit_to_pages(wide, tall) {#int-int}
+## set_fit_to_pages {#int-int}
 
 Sets the number of pages the worksheet will be scaled to when it's printed.
 
@@ -28,5 +28,5 @@ def set_fit_to_pages(self, wide, tall):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)

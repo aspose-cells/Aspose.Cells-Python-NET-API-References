@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotitemcollection/changeitems_order/
 is_root: false
 ---
 
-## changeitems_order(source_index, dest_index) {#int-int}
+## changeitems_order {#int-int}
 
 Directly changes the orders of the two items.
 
@@ -28,5 +28,5 @@ def changeitems_order(self, source_index, dest_index):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotItemCollection](/cells/python-net/aspose.cells.pivot/pivotitemcollection)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotItemCollection`](/cells/python-net/aspose.cells.pivot/pivotitemcollection)

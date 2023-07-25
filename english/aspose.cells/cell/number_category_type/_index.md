@@ -20,6 +20,6 @@ def number_category_type(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
-* class [NumberCategoryType](/cells/python-net/aspose.cells/numbercategorytype)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`NumberCategoryType`](/cells/python-net/aspose.cells/numbercategorytype)

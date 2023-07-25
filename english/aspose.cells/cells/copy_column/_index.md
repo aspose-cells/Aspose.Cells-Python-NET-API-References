@@ -8,7 +8,7 @@ url: /aspose.cells/cells/copy_column/
 is_root: false
 ---
 
-## copy_column(source_cells, source_column_index, destination_column_index) {#Cells-int-int}
+## copy_column {#aspose.cells.Cells-int-int}
 
 Copies data and formats of a whole column.
 
@@ -22,12 +22,12 @@ def copy_column(self, source_cells, source_column_index, destination_column_inde
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_cells | [Cells](/cells/python-net/aspose.cells/cells) | Source Cells object contains data and formats to copy. |
+| source_cells | [`Cells`](/cells/python-net/aspose.cells/cells) | Source Cells object contains data and formats to copy. |
 | source_column_index | int | Source column index. |
 | destination_column_index | int | Destination column index. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

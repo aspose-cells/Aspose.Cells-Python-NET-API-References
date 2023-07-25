@@ -3,7 +3,7 @@ title: spt property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 930
+weight: 940
 url: /aspose.cells.drawing/radiobutton/spt/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def spt(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

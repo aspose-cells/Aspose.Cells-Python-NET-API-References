@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbaprojectreferencecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#VbaProjectReference}
+## binary_search {#aspose.cells.vba.VbaProjectReference}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [VbaProjectReference](/cells/python-net/aspose.cells.vba/vbaprojectreference) | The System.Object to locate. The value can be null. |
+| item | [`VbaProjectReference`](/cells/python-net/aspose.cells.vba/vbaprojectreference) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.vba](../../)
-* class [VbaProjectReferenceCollection](/cells/python-net/aspose.cells.vba/vbaprojectreferencecollection)
+* module [`aspose.cells.vba`](../../)
+* class [`VbaProjectReferenceCollection`](/cells/python-net/aspose.cells.vba/vbaprojectreferencecollection)

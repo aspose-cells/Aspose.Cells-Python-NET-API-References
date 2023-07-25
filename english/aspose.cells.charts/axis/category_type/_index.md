@@ -23,6 +23,6 @@ def category_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Axis](/cells/python-net/aspose.cells.charts/axis)
-* class [CategoryType](/cells/python-net/aspose.cells.charts/categorytype)
+* module [`aspose.cells.charts`](../../)
+* class [`Axis`](/cells/python-net/aspose.cells.charts/axis)
+* class [`CategoryType`](/cells/python-net/aspose.cells.charts/categorytype)

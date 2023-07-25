@@ -33,5 +33,5 @@ def relative_to_original_picture_size(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ScrollBar](/cells/python-net/aspose.cells.drawing/scrollbar)
+* module [`aspose.cells.drawing`](../../)
+* class [`ScrollBar`](/cells/python-net/aspose.cells.drawing/scrollbar)

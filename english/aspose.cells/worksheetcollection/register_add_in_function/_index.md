@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/register_add_in_function/
 is_root: false
 ---
 
-## register_add_in_function(id, function_name) {#int-str}
+## register_add_in_function {#int-str}
 
 Adds addin function into the workbook
 
@@ -27,11 +27,11 @@ def register_add_in_function(self, id, function_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| id | int | ID of the data which contains addin functions,<br/>can be got by the first call of [WorksheetCollection.register_add_in_function(add_in_file, function_name, lib)](/cells/python-net/aspose.cells/worksheetcollection/register_add_in_function) for the same addin file. |
+| id | int | ID of the data which contains addin functions,<br/>can be got by the first call of [`WorksheetCollection.register_add_in_function`](/cells/python-net/aspose.cells/worksheetcollection/register_add_in_function) for the same addin file. |
 | function_name | str | the addin function name |
 
 
-## register_add_in_function(add_in_file, function_name, lib) {#str-str-bool}
+## register_add_in_function {#str-str-bool}
 
 Adds addin function into the workbook
 
@@ -57,5 +57,5 @@ def register_add_in_function(self, add_in_file, function_name, lib):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

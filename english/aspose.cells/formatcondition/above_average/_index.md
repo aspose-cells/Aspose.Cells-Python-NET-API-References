@@ -23,6 +23,6 @@ def above_average(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AboveAverage](/cells/python-net/aspose.cells/aboveaverage)
-* class [FormatCondition](/cells/python-net/aspose.cells/formatcondition)
+* module [`aspose.cells`](../../)
+* class [`AboveAverage`](/cells/python-net/aspose.cells/aboveaverage)
+* class [`FormatCondition`](/cells/python-net/aspose.cells/formatcondition)

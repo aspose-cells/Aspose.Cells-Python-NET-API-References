@@ -23,6 +23,6 @@ def lighting_direction(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LightRigDirectionType](/cells/python-net/aspose.cells.drawing/lightrigdirectiontype)
-* class [ThreeDFormat](/cells/python-net/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`LightRigDirectionType`](/cells/python-net/aspose.cells.drawing/lightrigdirectiontype)
+* class [`ThreeDFormat`](/cells/python-net/aspose.cells.drawing/threedformat)

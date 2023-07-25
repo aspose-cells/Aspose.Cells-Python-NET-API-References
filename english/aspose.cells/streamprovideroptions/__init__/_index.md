@@ -8,9 +8,9 @@ url: /aspose.cells/streamprovideroptions/__init__/
 is_root: false
 ---
 
-## StreamProviderOptions() {#}
+## __init__ {#}
 
-Initializes a new instance of the [StreamProviderOptions](/cells/python-net/aspose.cells/streamprovideroptions) class.
+Initializes a new instance of the [`StreamProviderOptions`](/cells/python-net/aspose.cells/streamprovideroptions) class.
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## StreamProviderOptions(loading_type, default_path) {#ResourceLoadingType-str}
+## __init__ {#aspose.cells.ResourceLoadingType-str}
 
-Initializes a new instance of the [StreamProviderOptions](/cells/python-net/aspose.cells/streamprovideroptions) class.
+Initializes a new instance of the [`StreamProviderOptions`](/cells/python-net/aspose.cells/streamprovideroptions) class.
 
 
 
@@ -36,11 +36,11 @@ def __init__(self, loading_type, default_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| loading_type | [ResourceLoadingType](/cells/python-net/aspose.cells/resourceloadingtype) | The type to load the linked resource. |
+| loading_type | [`ResourceLoadingType`](/cells/python-net/aspose.cells/resourceloadingtype) | The type to load the linked resource. |
 | default_path | str | The default path. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [StreamProviderOptions](/cells/python-net/aspose.cells/streamprovideroptions)
+* module [`aspose.cells`](../../)
+* class [`StreamProviderOptions`](/cells/python-net/aspose.cells/streamprovideroptions)

@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/custom_paper_size/
 is_root: false
 ---
 
-## custom_paper_size(width, height) {#float-float}
+## custom_paper_size {#float-float}
 
 Sets the custom paper size, in unit of inches.
 
@@ -28,5 +28,5 @@ def custom_paper_size(self, width, height):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.texts/fontsettingcollection/get_paragraph_enumerator/
 is_root: false
 ---
 
-## get_paragraph_enumerator() {#}
+## get_paragraph_enumerator {#}
 
 Gets the enumerator of the paragraphs.
 
@@ -29,5 +29,5 @@ def get_paragraph_enumerator(self):
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [FontSettingCollection](/cells/python-net/aspose.cells.drawing.texts/fontsettingcollection)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`FontSettingCollection`](/cells/python-net/aspose.cells.drawing.texts/fontsettingcollection)

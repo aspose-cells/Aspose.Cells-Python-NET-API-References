@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/set_auto_group_field/
 is_root: false
 ---
 
-## set_auto_group_field(base_field_index) {#int}
+## set_auto_group_field {#int}
 
 Sets auto field group by the PivotTable.
 
@@ -25,7 +25,7 @@ def set_auto_group_field(self, base_field_index):
 | base_field_index | int | The row or column field index in the base fields |
 
 
-## set_auto_group_field(pivot_field) {#PivotField}
+## set_auto_group_field {#aspose.cells.pivot.PivotField}
 
 Sets auto field group by the PivotTable.
 
@@ -39,10 +39,10 @@ def set_auto_group_field(self, pivot_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_field | [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield) | The row or column field in the specific fields |
+| pivot_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | The row or column field in the specific fields |
 
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

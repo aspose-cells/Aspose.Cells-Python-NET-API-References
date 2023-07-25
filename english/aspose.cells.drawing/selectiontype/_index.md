@@ -3,7 +3,7 @@ title: SelectionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1130
+weight: 1120
 url: /aspose.cells.drawing/selectiontype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The SelectionType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

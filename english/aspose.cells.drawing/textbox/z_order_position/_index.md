@@ -3,7 +3,7 @@ title: z_order_position property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1240
+weight: 1250
 url: /aspose.cells.drawing/textbox/z_order_position/
 is_root: false
 ---
@@ -32,5 +32,5 @@ def z_order_position(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

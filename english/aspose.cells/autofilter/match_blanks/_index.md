@@ -8,7 +8,7 @@ url: /aspose.cells/autofilter/match_blanks/
 is_root: false
 ---
 
-## match_blanks(field_index) {#int}
+## match_blanks {#int}
 
 Match all blank cell in the list.
 
@@ -27,5 +27,5 @@ def match_blanks(self, field_index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFilter](/cells/python-net/aspose.cells/autofilter)
+* module [`aspose.cells`](../../)
+* class [`AutoFilter`](/cells/python-net/aspose.cells/autofilter)

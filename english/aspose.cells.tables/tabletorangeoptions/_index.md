@@ -19,7 +19,7 @@ The TableToRangeOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TableToRangeOptions()](/cells/python-net/aspose.cells.tables/tabletorangeoptions/__init__/#) | Constructs a new instance of TableToRangeOptions |
+| [__init__](/cells/python-net/aspose.cells.tables/tabletorangeoptions/__init__/#) | Constructs a new instance of TableToRangeOptions |
 
 
 ### Properties
@@ -30,4 +30,4 @@ The TableToRangeOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.tables](..)
+* module [`aspose.cells.tables`](..)

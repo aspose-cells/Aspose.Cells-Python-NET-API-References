@@ -8,7 +8,7 @@ url: /aspose.cells/horizontalpagebreakcollection/add/
 is_root: false
 ---
 
-## add(row) {#int}
+## add {#int}
 
 Adds a horizontal page break to the collection.
 
@@ -16,7 +16,7 @@ Adds a horizontal page break to the collection.
 ### Returns 
 
 
-[HorizontalPageBreak](/cells/python-net/aspose.cells/horizontalpagebreak) object index.
+[`HorizontalPageBreak`](/cells/python-net/aspose.cells/horizontalpagebreak) object index.
 
 
 ```python
@@ -33,7 +33,7 @@ def add(self, row):
 Page break is added in the top left of the cell.
 Please set a horizontal page break and a vertical page break concurrently.
 
-## add(cell_name) {#str}
+## add {#str}
 
 Adds a horizontal page break to the collection.
 
@@ -41,7 +41,7 @@ Adds a horizontal page break to the collection.
 ### Returns 
 
 
-[HorizontalPageBreak](/cells/python-net/aspose.cells/horizontalpagebreak) object index.
+[`HorizontalPageBreak`](/cells/python-net/aspose.cells/horizontalpagebreak) object index.
 
 
 ```python
@@ -58,7 +58,7 @@ def add(self, cell_name):
 Page break is added in the top left of the cell.
 Please set a horizontal page break and a vertical page break concurrently.
 
-## add(row, column) {#int-int}
+## add {#int-int}
 
 Adds a horizontal page break to the collection.
 
@@ -66,7 +66,7 @@ Adds a horizontal page break to the collection.
 ### Returns 
 
 
-[HorizontalPageBreak](/cells/python-net/aspose.cells/horizontalpagebreak) object index.
+[`HorizontalPageBreak`](/cells/python-net/aspose.cells/horizontalpagebreak) object index.
 
 
 ```python
@@ -84,7 +84,7 @@ def add(self, row, column):
 Page break is added in the top left of the cell.
 Please set a horizontal page break and a vertical page break concurrently.
 
-## add(row, start_column, end_column) {#int-int-int}
+## add {#int-int-int}
 
 Adds a horizontal page break to the collection.
 
@@ -92,7 +92,7 @@ Adds a horizontal page break to the collection.
 ### Returns 
 
 
-[HorizontalPageBreak](/cells/python-net/aspose.cells/horizontalpagebreak) object index.
+[`HorizontalPageBreak`](/cells/python-net/aspose.cells/horizontalpagebreak) object index.
 
 
 ```python
@@ -112,6 +112,6 @@ This method is used to add a horizontal pagebreak within a print area.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HorizontalPageBreak](/cells/python-net/aspose.cells/horizontalpagebreak)
-* class [HorizontalPageBreakCollection](/cells/python-net/aspose.cells/horizontalpagebreakcollection)
+* module [`aspose.cells`](../../)
+* class [`HorizontalPageBreak`](/cells/python-net/aspose.cells/horizontalpagebreak)
+* class [`HorizontalPageBreakCollection`](/cells/python-net/aspose.cells/horizontalpagebreakcollection)

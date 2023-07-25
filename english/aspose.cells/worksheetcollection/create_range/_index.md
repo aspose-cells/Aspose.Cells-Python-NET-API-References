@@ -8,15 +8,15 @@ url: /aspose.cells/worksheetcollection/create_range/
 is_root: false
 ---
 
-## create_range(address, sheet_index) {#str-int}
+## create_range {#str-int}
 
-Creates a [Range](/cells/python-net/aspose.cells/range) object from an address of the range.
+Creates a [`Range`](/cells/python-net/aspose.cells/range) object from an address of the range.
 
 
 ### Returns 
 
 
-A [Range](/cells/python-net/aspose.cells/range) object
+A [`Range`](/cells/python-net/aspose.cells/range) object
 
 
 ```python
@@ -33,6 +33,6 @@ def create_range(self, address, sheet_index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Range](/cells/python-net/aspose.cells/range)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`Range`](/cells/python-net/aspose.cells/range)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

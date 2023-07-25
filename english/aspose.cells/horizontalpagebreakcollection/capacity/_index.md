@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HorizontalPageBreakCollection](/cells/python-net/aspose.cells/horizontalpagebreakcollection)
+* module [`aspose.cells`](../../)
+* class [`HorizontalPageBreakCollection`](/cells/python-net/aspose.cells/horizontalpagebreakcollection)

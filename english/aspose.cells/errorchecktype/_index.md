@@ -3,7 +3,7 @@ title: ErrorCheckType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2010
+weight: 2060
 url: /aspose.cells/errorchecktype/
 is_root: false
 ---
@@ -32,4 +32,4 @@ The ErrorCheckType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

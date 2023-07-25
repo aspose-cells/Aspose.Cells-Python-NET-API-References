@@ -3,7 +3,7 @@ title: chart_object property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 230
 url: /aspose.cells.charts/chart/chart_object/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def chart_object(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
-* class [ChartShape](/cells/python-net/aspose.cells.drawing/chartshape)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)
+* class [`ChartShape`](/cells/python-net/aspose.cells.drawing/chartshape)

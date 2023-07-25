@@ -26,4 +26,4 @@ The LoadNumbersTableType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.numbers](..)
+* module [`aspose.cells.numbers`](..)

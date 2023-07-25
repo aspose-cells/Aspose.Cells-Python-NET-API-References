@@ -23,5 +23,5 @@ def linked_source(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [DisplayUnitLabel](/cells/python-net/aspose.cells.charts/displayunitlabel)
+* module [`aspose.cells.charts`](../../)
+* class [`DisplayUnitLabel`](/cells/python-net/aspose.cells.charts/displayunitlabel)

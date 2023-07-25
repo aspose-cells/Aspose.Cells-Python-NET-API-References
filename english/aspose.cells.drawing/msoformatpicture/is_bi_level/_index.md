@@ -11,7 +11,7 @@ is_root: false
 ## is_bi_level property
 
 
-Indicates whether this picture should be displayed in two-color black and white.
+Indicates whether this picture should display in two-color black and white.
 ### Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def is_bi_level(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoFormatPicture](/cells/python-net/aspose.cells.drawing/msoformatpicture)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoFormatPicture`](/cells/python-net/aspose.cells.drawing/msoformatpicture)

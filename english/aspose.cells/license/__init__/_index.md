@@ -8,7 +8,7 @@ url: /aspose.cells/license/__init__/
 is_root: false
 ---
 
-## License() {#}
+## __init__ {#}
 
 Initializes a new instance of this class.
 
@@ -42,5 +42,5 @@ license.set_license("MyLicense.lic")
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [License](/cells/python-net/aspose.cells/license)
+* module [`aspose.cells`](../../)
+* class [`License`](/cells/python-net/aspose.cells/license)

@@ -8,7 +8,7 @@ url: /aspose.cells/abstractcalculationmonitor/on_circular/
 is_root: false
 ---
 
-## on_circular(circular_cells_data) {#collections.abc.Iterator}
+## on_circular {#collections.abc.Iterator}
 
 Implement this method to do business when calculating formulas with circular references.
 
@@ -37,5 +37,5 @@ for part/all of those cells so the formula engine will not calculate them recurs
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractCalculationMonitor](/cells/python-net/aspose.cells/abstractcalculationmonitor)
+* module [`aspose.cells`](../../)
+* class [`AbstractCalculationMonitor`](/cells/python-net/aspose.cells/abstractcalculationmonitor)

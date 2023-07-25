@@ -28,6 +28,6 @@ def line_format(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GroupBox](/cells/python-net/aspose.cells.drawing/groupbox)
-* class [MsoLineFormat](/cells/python-net/aspose.cells.drawing/msolineformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`GroupBox`](/cells/python-net/aspose.cells.drawing/groupbox)
+* class [`MsoLineFormat`](/cells/python-net/aspose.cells.drawing/msolineformat)

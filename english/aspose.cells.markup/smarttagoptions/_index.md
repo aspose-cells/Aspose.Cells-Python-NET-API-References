@@ -19,7 +19,7 @@ The SmartTagOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [SmartTagOptions()](/cells/python-net/aspose.cells.markup/smarttagoptions/__init__/#) | Constructs a new instance of SmartTagOptions |
+| [__init__](/cells/python-net/aspose.cells.markup/smarttagoptions/__init__/#) | Constructs a new instance of SmartTagOptions |
 
 
 ### Properties
@@ -31,4 +31,4 @@ The SmartTagOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.markup](..)
+* module [`aspose.cells.markup`](..)

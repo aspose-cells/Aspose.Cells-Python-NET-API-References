@@ -23,6 +23,6 @@ def auto_format_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
-* class [PivotTableAutoFormatType](/cells/python-net/aspose.cells.pivot/pivottableautoformattype)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)
+* class [`PivotTableAutoFormatType`](/cells/python-net/aspose.cells.pivot/pivottableautoformattype)

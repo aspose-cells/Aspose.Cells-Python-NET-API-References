@@ -45,6 +45,6 @@ def image_type(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ImageType](/cells/python-net/aspose.cells.drawing/imagetype)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](../../)
+* class [`ImageType`](/cells/python-net/aspose.cells.drawing/imagetype)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)

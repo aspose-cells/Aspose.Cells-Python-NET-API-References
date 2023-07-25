@@ -14,8 +14,8 @@ Represents the text paragraph setting.
 
 
 
-**Inheritance:** [TextParagraph](/cells/python-net/aspose.cells.drawing.texts/textparagraph) → 
-[FontSetting](/cells/python-net/aspose.cells/fontsetting)
+**Inheritance:** [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textparagraph) → 
+[`FontSetting`](/cells/python-net/aspose.cells/fontsetting)
 
 
 
@@ -52,11 +52,11 @@ The TextParagraph type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_word_art_style(style)](/cells/python-net/aspose.cells.drawing.texts/textparagraph/set_word_art_style/#PresetWordArtStyle) | Sets the preset WordArt style. |
+| [set_word_art_style](/cells/python-net/aspose.cells.drawing.texts/textparagraph/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Sets the preset WordArt style. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](..)
-* class [FontSetting](/cells/python-net/aspose.cells/fontsetting)
-* class [TextParagraph](/cells/python-net/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](..)
+* class [`FontSetting`](/cells/python-net/aspose.cells/fontsetting)
+* class [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textparagraph)

@@ -3,7 +3,7 @@ title: FillPictureType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 820
+weight: 810
 url: /aspose.cells.drawing/fillpicturetype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The FillPictureType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

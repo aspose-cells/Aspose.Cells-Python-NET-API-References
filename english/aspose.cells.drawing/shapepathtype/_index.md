@@ -3,7 +3,7 @@ title: ShapePathType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1160
+weight: 1150
 url: /aspose.cells.drawing/shapepathtype/
 is_root: false
 ---
@@ -31,4 +31,4 @@ The ShapePathType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

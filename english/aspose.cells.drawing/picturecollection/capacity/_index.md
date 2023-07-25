@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [PictureCollection](/cells/python-net/aspose.cells.drawing/picturecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`PictureCollection`](/cells/python-net/aspose.cells.drawing/picturecollection)

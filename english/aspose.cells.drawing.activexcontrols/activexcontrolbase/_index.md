@@ -19,7 +19,7 @@ The ActiveXControlBase type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase/workbook) | Gets the [ActiveXControlBase.workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object. |
+| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase/workbook) | Gets the [`ActiveXControlBase.workbook`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object. |
 | [type](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase/type) | Gets the type of the ActiveX control. |
 | [width](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase/width) | Gets and sets the width of the control in unit of points. |
 | [height](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase/height) | Gets and sets the height of the control in unit of points. |
@@ -36,4 +36,4 @@ The ActiveXControlBase type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](..)
+* module [`aspose.cells.drawing.activexcontrols`](..)

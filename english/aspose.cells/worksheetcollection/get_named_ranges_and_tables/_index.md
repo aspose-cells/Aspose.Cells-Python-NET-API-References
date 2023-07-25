@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/get_named_ranges_and_tables/
 is_root: false
 ---
 
-## get_named_ranges_and_tables() {#}
+## get_named_ranges_and_tables {#}
 
 Gets all pre-defined named ranges in the spreadsheet.
 
@@ -32,5 +32,5 @@ def get_named_ranges_and_tables(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

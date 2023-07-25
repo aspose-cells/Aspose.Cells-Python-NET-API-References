@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_empty_data_name/
 is_root: false
 ---
 
-## get_empty_data_name() {#}
+## get_empty_data_name {#}
 
 Gets the name of "(blank)" label in the PivotTable.
 
@@ -28,11 +28,11 @@ def get_empty_data_name(self):
 ### Remarks
 
 NOTE: This member is now obsolete. Instead, 
-please use GlobalizationSettings.GetColumnLabelsOfPivotTable() method.
+please use PivotGlobalizationSettings.GetColumnLabelsOfPivotTable() method.
 This property will be removed 12 months later since December 2022. 
 Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [GlobalizationSettings](/cells/python-net/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* class [`GlobalizationSettings`](/cells/python-net/aspose.cells/globalizationsettings)

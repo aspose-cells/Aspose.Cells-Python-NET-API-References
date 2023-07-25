@@ -28,5 +28,5 @@ def is_font_substitution_char_granularity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions)

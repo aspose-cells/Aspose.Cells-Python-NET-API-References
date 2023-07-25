@@ -3,7 +3,7 @@ title: custom_engine property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cells/calculationoptions/custom_engine/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def custom_engine(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractCalculationEngine](/cells/python-net/aspose.cells/abstractcalculationengine)
-* class [CalculationOptions](/cells/python-net/aspose.cells/calculationoptions)
+* module [`aspose.cells`](../../)
+* class [`AbstractCalculationEngine`](/cells/python-net/aspose.cells/abstractcalculationengine)
+* class [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions)

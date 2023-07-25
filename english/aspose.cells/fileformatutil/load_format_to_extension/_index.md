@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/load_format_to_extension/
 is_root: false
 ---
 
-## load_format_to_extension(load_format) {#LoadFormat}
+## load_format_to_extension {#aspose.cells.LoadFormat}
 
 Converts a load format enumerated value into a file extension.
 
@@ -27,12 +27,12 @@ def load_format_to_extension(self, load_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| load_format | [LoadFormat](/cells/python-net/aspose.cells/loadformat) | The loaded file format. |
+| load_format | [`LoadFormat`](/cells/python-net/aspose.cells/loadformat) | The loaded file format. |
 ### Remarks
 
 If it can not be converted, returns null.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FileFormatUtil](/cells/python-net/aspose.cells/fileformatutil)
+* module [`aspose.cells`](../../)
+* class [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil)

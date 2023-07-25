@@ -3,7 +3,7 @@ title: PivotConditionFormatScopeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 200
 url: /aspose.cells.pivot/pivotconditionformatscopetype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The PivotConditionFormatScopeType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

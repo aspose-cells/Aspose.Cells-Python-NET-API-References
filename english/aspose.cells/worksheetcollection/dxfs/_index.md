@@ -20,6 +20,6 @@ def dxfs(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DxfCollection](/cells/python-net/aspose.cells/dxfcollection)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`DxfCollection`](/cells/python-net/aspose.cells/dxfcollection)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

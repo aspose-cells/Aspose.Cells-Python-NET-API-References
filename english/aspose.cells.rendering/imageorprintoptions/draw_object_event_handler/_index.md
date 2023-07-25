@@ -23,6 +23,6 @@ def draw_object_event_handler(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [DrawObjectEventHandler](/cells/python-net/aspose.cells.rendering/drawobjecteventhandler)
-* class [ImageOrPrintOptions](/cells/python-net/aspose.cells.rendering/imageorprintoptions)
+* module [`aspose.cells.rendering`](../../)
+* class [`DrawObjectEventHandler`](/cells/python-net/aspose.cells.rendering/drawobjecteventhandler)
+* class [`ImageOrPrintOptions`](/cells/python-net/aspose.cells.rendering/imageorprintoptions)

@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/column_name_to_index/
 is_root: false
 ---
 
-## column_name_to_index(column_name) {#str}
+## column_name_to_index {#str}
 
 Gets column index according to column name.
 
@@ -32,5 +32,5 @@ def column_name_to_index(self, column_name):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsHelper](/cells/python-net/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* class [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper)

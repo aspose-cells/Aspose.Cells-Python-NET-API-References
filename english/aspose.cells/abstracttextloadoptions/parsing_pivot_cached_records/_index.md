@@ -3,7 +3,7 @@ title: parsing_pivot_cached_records property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells/abstracttextloadoptions/parsing_pivot_cached_records/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def parsing_pivot_cached_records(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractTextLoadOptions](/cells/python-net/aspose.cells/abstracttextloadoptions)
+* module [`aspose.cells`](../../)
+* class [`AbstractTextLoadOptions`](/cells/python-net/aspose.cells/abstracttextloadoptions)

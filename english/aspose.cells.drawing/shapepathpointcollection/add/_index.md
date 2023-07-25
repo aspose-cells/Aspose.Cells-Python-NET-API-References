@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapepathpointcollection/add/
 is_root: false
 ---
 
-## add(x, y) {#int-int}
+## add {#int-int}
 
 Adds a path point.
 
@@ -28,5 +28,5 @@ def add(self, x, y):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePathPointCollection](/cells/python-net/aspose.cells.drawing/shapepathpointcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePathPointCollection`](/cells/python-net/aspose.cells.drawing/shapepathpointcollection)

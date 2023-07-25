@@ -23,6 +23,6 @@ def language_code(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CountryCode](/cells/python-net/aspose.cells/countrycode)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`CountryCode`](/cells/python-net/aspose.cells/countrycode)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

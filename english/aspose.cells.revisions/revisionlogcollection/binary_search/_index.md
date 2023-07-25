@@ -8,7 +8,7 @@ url: /aspose.cells.revisions/revisionlogcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#RevisionLog}
+## binary_search {#aspose.cells.revisions.RevisionLog}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [RevisionLog](/cells/python-net/aspose.cells.revisions/revisionlog) | The System.Object to locate. The value can be null. |
+| item | [`RevisionLog`](/cells/python-net/aspose.cells.revisions/revisionlog) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [RevisionLogCollection](/cells/python-net/aspose.cells.revisions/revisionlogcollection)
+* module [`aspose.cells.revisions`](../../)
+* class [`RevisionLogCollection`](/cells/python-net/aspose.cells.revisions/revisionlogcollection)

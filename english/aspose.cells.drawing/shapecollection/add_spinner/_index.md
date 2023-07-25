@@ -3,12 +3,12 @@ title: add_spinner method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /aspose.cells.drawing/shapecollection/add_spinner/
 is_root: false
 ---
 
-## add_spinner(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+## add_spinner {#int-int-int-int-int-int}
 
 Adds a Spinner to the worksheet.
 
@@ -47,5 +47,5 @@ spinner = shapes.add_spinner(1, 0, 1, 0, 100, 50)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

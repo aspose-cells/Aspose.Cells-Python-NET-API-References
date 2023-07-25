@@ -11,7 +11,7 @@ is_root: false
 ## shadow_effect property
 
 
-Represents a [ShadowEffect](/cells/python-net/aspose.cells.drawing/shadoweffect) object that specifies shadow effect for the chart element or shape.
+Represents a [`ShadowEffect`](/cells/python-net/aspose.cells.drawing/shadoweffect) object that specifies shadow effect for the chart element or shape.
 
 ### Example 
 
@@ -29,6 +29,6 @@ def shadow_effect(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Label](/cells/python-net/aspose.cells.drawing/label)
-* class [ShadowEffect](/cells/python-net/aspose.cells.drawing/shadoweffect)
+* module [`aspose.cells.drawing`](../../)
+* class [`Label`](/cells/python-net/aspose.cells.drawing/label)
+* class [`ShadowEffect`](/cells/python-net/aspose.cells.drawing/shadoweffect)

@@ -20,5 +20,5 @@ def start_row(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [VerticalPageBreak](/cells/python-net/aspose.cells/verticalpagebreak)
+* module [`aspose.cells`](../../)
+* class [`VerticalPageBreak`](/cells/python-net/aspose.cells/verticalpagebreak)

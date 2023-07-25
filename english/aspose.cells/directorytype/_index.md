@@ -3,7 +3,7 @@ title: DirectoryType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1960
+weight: 2010
 url: /aspose.cells/directorytype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ The DirectoryType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

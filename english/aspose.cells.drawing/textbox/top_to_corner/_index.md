@@ -3,7 +3,7 @@ title: top_to_corner property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1090
+weight: 1100
 url: /aspose.cells.drawing/textbox/top_to_corner/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def top_to_corner(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

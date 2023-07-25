@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/add_calculated_field/
 is_root: false
 ---
 
-## add_calculated_field(name, formula) {#str-str}
+## add_calculated_field {#str-str}
 
 Adds a calculated field to pivot field and drag it to data area.
 
@@ -26,7 +26,7 @@ def add_calculated_field(self, name, formula):
 | formula | str | The formula of the calculated field. |
 
 
-## add_calculated_field(name, formula, drag_to_data_area) {#str-str-bool}
+## add_calculated_field {#str-str-bool}
 
 Adds a calculated field to pivot field.
 
@@ -47,5 +47,5 @@ def add_calculated_field(self, name, formula, drag_to_data_area):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

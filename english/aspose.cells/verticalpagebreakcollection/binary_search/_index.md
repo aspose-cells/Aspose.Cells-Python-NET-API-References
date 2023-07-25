@@ -8,7 +8,7 @@ url: /aspose.cells/verticalpagebreakcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#VerticalPageBreak}
+## binary_search {#aspose.cells.VerticalPageBreak}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [VerticalPageBreak](/cells/python-net/aspose.cells/verticalpagebreak) | The System.Object to locate. The value can be null. |
+| item | [`VerticalPageBreak`](/cells/python-net/aspose.cells/verticalpagebreak) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [VerticalPageBreakCollection](/cells/python-net/aspose.cells/verticalpagebreakcollection)
+* module [`aspose.cells`](../../)
+* class [`VerticalPageBreakCollection`](/cells/python-net/aspose.cells/verticalpagebreakcollection)

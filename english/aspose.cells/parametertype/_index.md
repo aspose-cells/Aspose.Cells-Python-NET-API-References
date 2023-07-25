@@ -3,7 +3,7 @@ title: ParameterType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2340
+weight: 2390
 url: /aspose.cells/parametertype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The ParameterType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

@@ -23,5 +23,5 @@ def sort_names(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ImageSaveOptions](/cells/python-net/aspose.cells/imagesaveoptions)
+* module [`aspose.cells`](../../)
+* class [`ImageSaveOptions`](/cells/python-net/aspose.cells/imagesaveoptions)

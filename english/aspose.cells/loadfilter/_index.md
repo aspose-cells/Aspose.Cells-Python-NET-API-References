@@ -3,7 +3,7 @@ title: LoadFilter class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1010
+weight: 1030
 url: /aspose.cells/loadfilter/
 is_root: false
 ---
@@ -19,8 +19,8 @@ The LoadFilter type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [LoadFilter()](/cells/python-net/aspose.cells/loadfilter/__init__/#) | Constructs one LoadFilter with default filter options LoadDataFilterOptions.All. |
-| [LoadFilter(opts)](/cells/python-net/aspose.cells/loadfilter/__init__/#LoadDataFilterOptions) | Constructs one LoadFilter with given filter options. |
+| [__init__](/cells/python-net/aspose.cells/loadfilter/__init__/#) | Constructs one LoadFilter with default filter options LoadDataFilterOptions.All. |
+| [__init__](/cells/python-net/aspose.cells/loadfilter/__init__/#aspose.cells.LoadDataFilterOptions) | Constructs one LoadFilter with given filter options. |
 
 
 ### Properties
@@ -33,7 +33,7 @@ The LoadFilter type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [start_sheet(sheet)](/cells/python-net/aspose.cells/loadfilter/start_sheet/#Worksheet) | Prepares filter options before loading given worksheet.<br/>User's implementation of LoadFilter can change the LoadDataFilterOptions here<br/>to denote how to load data for this worksheet. |
+| [start_sheet](/cells/python-net/aspose.cells/loadfilter/start_sheet/#aspose.cells.Worksheet) | Prepares filter options before loading given worksheet.<br/>User's implementation of LoadFilter can change the LoadDataFilterOptions here<br/>to denote how to load data for this worksheet. |
 
 
 
@@ -43,4 +43,4 @@ The LoadFilter type exposes the following members:
 User may specify the filter options or implement their own LoadFilter to specify how to load data.
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

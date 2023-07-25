@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/copy_style/
 is_root: false
 ---
 
-## copy_style(pivot_table) {#PivotTable}
+## copy_style {#aspose.cells.pivot.PivotTable}
 
 Copies named style from another pivot table.
 
@@ -22,10 +22,10 @@ def copy_style(self, pivot_table):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_table | [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable) | Source pivot table. |
+| pivot_table | [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable) | Source pivot table. |
 
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

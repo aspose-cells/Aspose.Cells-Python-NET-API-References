@@ -3,7 +3,7 @@ title: WorkbookSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1610
+weight: 1660
 url: /aspose.cells/workbooksettings/
 is_root: false
 ---
@@ -65,7 +65,7 @@ The WorkbookSettings type exposes the following members:
 | [window_height_inch](/cells/python-net/aspose.cells/workbooksettings/window_height_inch) | The height of the window, in unit of inch. |
 | [window_height_cm](/cells/python-net/aspose.cells/workbooksettings/window_height_cm) | The height of the window, in unit of centimeter. |
 | [update_adjacent_cells_border](/cells/python-net/aspose.cells/workbooksettings/update_adjacent_cells_border) | Indicates whether update adjacent cells' border. |
-| [significant_digits](/cells/python-net/aspose.cells/workbooksettings/significant_digits) | Gets and sets the number of significant digits.<br/>The default value is [CellsHelper.significant_digits](/cells/python-net/aspose.cells/cellshelper#significant_digits). |
+| [significant_digits](/cells/python-net/aspose.cells/workbooksettings/significant_digits) | Gets and sets the number of significant digits.<br/>The default value is [`CellsHelper.significant_digits`](/cells/python-net/aspose.cells/cellshelper#significant_digits). |
 | [check_compatibility](/cells/python-net/aspose.cells/workbooksettings/check_compatibility) | Indicates whether check compatibility with earlier versions when saving workbook. |
 | [check_excel_restriction](/cells/python-net/aspose.cells/workbooksettings/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K such as by Cell.PutValue(string), if this property is true, you will get an Exception.<br/>If this property is false, we will accept your input string value as the cell's value so that later<br/>you can output the complete string value for other file formats such as CSV.<br/>However, if you have set such kind of value that is invalid for excel file format,<br/>you should not save the workbook as excel file format later. Otherwise there may be unexpected error for the generated excel file. |
 | [auto_recover](/cells/python-net/aspose.cells/workbooksettings/auto_recover) | Indicates whether the file is mark for auto-recovery. |
@@ -78,7 +78,7 @@ The WorkbookSettings type exposes the following members:
 | [warning_callback](/cells/python-net/aspose.cells/workbooksettings/warning_callback) | Gets or sets warning callback. |
 | [max_rows_of_shared_formula](/cells/python-net/aspose.cells/workbooksettings/max_rows_of_shared_formula) | Gets and sets the max row number of shared formula. |
 | [compliance](/cells/python-net/aspose.cells/workbooksettings/compliance) | Specifies the OOXML version for the output document. The default value is Ecma376_2006. |
-| [quote_prefix_to_style](/cells/python-net/aspose.cells/workbooksettings/quote_prefix_to_style) | Indicates whether setting [Style.quote_prefix](/cells/python-net/aspose.cells/style#quote_prefix) property when entering the string value(which starts  with single quote mark ) to the cell |
+| [quote_prefix_to_style](/cells/python-net/aspose.cells/workbooksettings/quote_prefix_to_style) | Indicates whether setting [`Style.quote_prefix`](/cells/python-net/aspose.cells/style#quote_prefix) property when entering the string value(which starts  with single quote mark ) to the cell |
 | [formula_settings](/cells/python-net/aspose.cells/workbooksettings/formula_settings) | Gets the settings for formula-related features. |
 | [precision_as_displayed](/cells/python-net/aspose.cells/workbooksettings/precision_as_displayed) | True if calculations in this workbook will be done using only the precision of the numbers as they're displayed |
 | [re_calculate_on_open](/cells/python-net/aspose.cells/workbooksettings/re_calculate_on_open) | Indicates whether re-calculate all formulas on opening file. |
@@ -96,8 +96,8 @@ The WorkbookSettings type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_theme_font(type)](/cells/python-net/aspose.cells/workbooksettings/get_theme_font/#FontSchemeType) | Gets the default theme font name. |
-| [set_page_orientation_type(page_orientation_type)](/cells/python-net/aspose.cells/workbooksettings/set_page_orientation_type/#PageOrientationType) | Set the type of  print orientation for the whole workbook. |
+| [get_theme_font](/cells/python-net/aspose.cells/workbooksettings/get_theme_font/#aspose.cells.FontSchemeType) | Gets the default theme font name. |
+| [set_page_orientation_type](/cells/python-net/aspose.cells/workbooksettings/set_page_orientation_type/#aspose.cells.PageOrientationType) | Set the type of  print orientation for the whole workbook. |
 
 
 
@@ -113,4 +113,4 @@ settings = workbook.settings
 ```
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

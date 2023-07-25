@@ -23,6 +23,6 @@ def compliance(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PdfCompliance](/cells/python-net/aspose.cells.rendering/pdfcompliance)
-* class [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`PdfCompliance`](/cells/python-net/aspose.cells.rendering/pdfcompliance)
+* class [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions)

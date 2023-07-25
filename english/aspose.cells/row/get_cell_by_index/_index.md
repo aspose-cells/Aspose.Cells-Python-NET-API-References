@@ -8,7 +8,7 @@ url: /aspose.cells/row/get_cell_by_index/
 is_root: false
 ---
 
-## get_cell_by_index(index) {#int}
+## get_cell_by_index {#int}
 
 Get the cell by specific index in the list.
 
@@ -37,5 +37,5 @@ Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Row](/cells/python-net/aspose.cells/row)
+* module [`aspose.cells`](../../)
+* class [`Row`](/cells/python-net/aspose.cells/row)

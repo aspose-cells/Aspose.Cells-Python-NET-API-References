@@ -3,7 +3,7 @@ title: WebExtensionShape class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 750
+weight: 740
 url: /aspose.cells.drawing/webextensionshape/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents the shape of web extension.
 
 
 
-**Inheritance:** [WebExtensionShape](/cells/python-net/aspose.cells.drawing/webextensionshape) → 
-[Shape](/cells/python-net/aspose.cells.drawing/shape)
+**Inheritance:** [`WebExtensionShape`](/cells/python-net/aspose.cells.drawing/webextensionshape) → 
+[`Shape`](/cells/python-net/aspose.cells.drawing/shape)
 
 
 
@@ -29,16 +29,15 @@ The WebExtensionShape type exposes the following members:
 | [is_smart_art](/cells/python-net/aspose.cells.drawing/webextensionshape/is_smart_art) | Indicates whether the shape is smart art. |
 | [z_order_position](/cells/python-net/aspose.cells.drawing/webextensionshape/z_order_position) | Returns the position of a shape in the z-order. |
 | [name](/cells/python-net/aspose.cells.drawing/webextensionshape/name) | Gets and sets the name of the shape. |
-| [alternative_text](/cells/python-net/aspose.cells.drawing/webextensionshape/alternative_text) | Returns or sets the descriptive (alternative) text string of the [Shape](/cells/python-net/aspose.cells.drawing/shape) object. |
+| [alternative_text](/cells/python-net/aspose.cells.drawing/webextensionshape/alternative_text) | Returns or sets the descriptive (alternative) text string of the [`Shape`](/cells/python-net/aspose.cells.drawing/shape) object. |
 | [title](/cells/python-net/aspose.cells.drawing/webextensionshape/title) | Specifies the title (caption) of the current shape object. |
 | [line_format](/cells/python-net/aspose.cells.drawing/webextensionshape/line_format) | Returns a MsoLineFormat object that contains line formatting properties for the specified shape. |
 | [fill_format](/cells/python-net/aspose.cells.drawing/webextensionshape/fill_format) | Returns a MsoFillFormat object that contains fill formatting properties for the specified shape. |
-| [format](/cells/python-net/aspose.cells.drawing/webextensionshape/format) | Represents the setting of the shape's formatting. |
 | [line](/cells/python-net/aspose.cells.drawing/webextensionshape/line) | Gets line style |
-| [fill](/cells/python-net/aspose.cells.drawing/webextensionshape/fill) | Returns a [Shape.fill_format](/cells/python-net/aspose.cells.drawing/shape#fill_format) object that contains fill formatting properties for the specified shape. |
-| [shadow_effect](/cells/python-net/aspose.cells.drawing/webextensionshape/shadow_effect) | Represents a [ShadowEffect](/cells/python-net/aspose.cells.drawing/shadoweffect) object that specifies shadow effect for the chart element or shape. |
-| [reflection](/cells/python-net/aspose.cells.drawing/webextensionshape/reflection) | Represents a [ReflectionEffect](/cells/python-net/aspose.cells.drawing/reflectioneffect) object that specifies reflection effect for the chart element or shape. |
-| [glow](/cells/python-net/aspose.cells.drawing/webextensionshape/glow) | Represents a [GlowEffect](/cells/python-net/aspose.cells.drawing/gloweffect) object that specifies glow effect for the chart element or shape. |
+| [fill](/cells/python-net/aspose.cells.drawing/webextensionshape/fill) | Returns a [`Shape.fill_format`](/cells/python-net/aspose.cells.drawing/shape#fill_format) object that contains fill formatting properties for the specified shape. |
+| [shadow_effect](/cells/python-net/aspose.cells.drawing/webextensionshape/shadow_effect) | Represents a [`ShadowEffect`](/cells/python-net/aspose.cells.drawing/shadoweffect) object that specifies shadow effect for the chart element or shape. |
+| [reflection](/cells/python-net/aspose.cells.drawing/webextensionshape/reflection) | Represents a [`ReflectionEffect`](/cells/python-net/aspose.cells.drawing/reflectioneffect) object that specifies reflection effect for the chart element or shape. |
+| [glow](/cells/python-net/aspose.cells.drawing/webextensionshape/glow) | Represents a [`GlowEffect`](/cells/python-net/aspose.cells.drawing/gloweffect) object that specifies glow effect for the chart element or shape. |
 | [soft_edges](/cells/python-net/aspose.cells.drawing/webextensionshape/soft_edges) | Gets and sets the radius of blur to apply to the edges, in unit of points. |
 | [three_d_format](/cells/python-net/aspose.cells.drawing/webextensionshape/three_d_format) | Gets and sets 3d format of the shape. |
 | [text_frame](/cells/python-net/aspose.cells.drawing/webextensionshape/text_frame) | Returns a TextFrame object that contains the alignment and anchoring properties for the specified shape. |
@@ -50,7 +49,7 @@ The WebExtensionShape type exposes the following members:
 | [id](/cells/python-net/aspose.cells.drawing/webextensionshape/id) | Gets the identifier of this shape. |
 | [spid](/cells/python-net/aspose.cells.drawing/webextensionshape/spid) | Specifies an optional string that an application can use to Identify the particular shape. |
 | [spt](/cells/python-net/aspose.cells.drawing/webextensionshape/spt) | Specifies an optional number that an application can use to associate the particular shape with a defined shape type. |
-| [worksheet](/cells/python-net/aspose.cells.drawing/webextensionshape/worksheet) | Gets the [Shape.worksheet](/cells/python-net/aspose.cells.drawing/shape#worksheet) object which contains this shape. |
+| [worksheet](/cells/python-net/aspose.cells.drawing/webextensionshape/worksheet) | Gets the [`Shape.worksheet`](/cells/python-net/aspose.cells.drawing/shape#worksheet) object which contains this shape. |
 | [is_group](/cells/python-net/aspose.cells.drawing/webextensionshape/is_group) | Indicates whether the shape is a group. |
 | [is_in_group](/cells/python-net/aspose.cells.drawing/webextensionshape/is_in_group) | Indicates whether the shape is grouped. |
 | [is_word_art](/cells/python-net/aspose.cells.drawing/webextensionshape/is_word_art) | Indicates whether this shape is a word art. |
@@ -131,37 +130,38 @@ The WebExtensionShape type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [to_image(stream, image_type)](/cells/python-net/aspose.cells.drawing/webextensionshape/to_image/#io.RawIOBase-ImageType) | Creates the shape image and saves it to a stream in the specified format. |
-| [to_image(image_file, options)](/cells/python-net/aspose.cells.drawing/webextensionshape/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Saves the shape to a file. |
-| [to_image(stream, options)](/cells/python-net/aspose.cells.drawing/webextensionshape/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Saves the shape to a stream. |
-| [format_characters(start_index, length, font, flag)](/cells/python-net/aspose.cells.drawing/webextensionshape/format_characters/#int-int-Font-StyleFlag) | Formats some characters with the font setting. |
-| [format_characters(start_index, length, font)](/cells/python-net/aspose.cells.drawing/webextensionshape/format_characters/#int-int-Font) | Formats some characters with the font setting. |
-| [get_result_of_smart_art()](/cells/python-net/aspose.cells.drawing/webextensionshape/get_result_of_smart_art/#) | Converting smart art to grouped shapes. |
-| [to_front_or_back(orders)](/cells/python-net/aspose.cells.drawing/webextensionshape/to_front_or_back/#int) | Brings the shape to the front or sends the shape to back. |
-| [get_locked_property(type)](/cells/python-net/aspose.cells.drawing/webextensionshape/get_locked_property/#ShapeLockType) | Gets the value of locked property. |
-| [set_locked_property(type, value)](/cells/python-net/aspose.cells.drawing/webextensionshape/set_locked_property/#ShapeLockType-bool) | Set the locked property. |
-| [add_hyperlink(address)](/cells/python-net/aspose.cells.drawing/webextensionshape/add_hyperlink/#str) | Adds a hyperlink to the shape. |
-| [remove_hyperlink()](/cells/python-net/aspose.cells.drawing/webextensionshape/remove_hyperlink/#) | Remove the hyperlink of the shape. |
-| [move_to_range(upper_left_row, upper_left_column, lower_right_row, lower_right_column)](/cells/python-net/aspose.cells.drawing/webextensionshape/move_to_range/#int-int-int-int) | Moves the shape to a specified range. |
-| [align_top_right_corner(top_row, right_column)](/cells/python-net/aspose.cells.drawing/webextensionshape/align_top_right_corner/#int-int) | Moves the picture to the top-right corner. |
-| [get_connection_points()](/cells/python-net/aspose.cells.drawing/webextensionshape/get_connection_points/#) | Get the connection points |
-| [get_linked_cell(is_r1c1, is_local)](/cells/python-net/aspose.cells.drawing/webextensionshape/get_linked_cell/#bool-bool) | Gets the range linked to the control's value. |
-| [set_linked_cell(formula, is_r1c1, is_local)](/cells/python-net/aspose.cells.drawing/webextensionshape/set_linked_cell/#str-bool-bool) | Sets the range linked to the control's value. |
-| [get_input_range(is_r1c1, is_local)](/cells/python-net/aspose.cells.drawing/webextensionshape/get_input_range/#bool-bool) | Gets the range used to fill the control. |
-| [set_input_range(formula, is_r1c1, is_local)](/cells/python-net/aspose.cells.drawing/webextensionshape/set_input_range/#str-bool-bool) | Sets the range used to fill the control. |
-| [update_selected_value()](/cells/python-net/aspose.cells.drawing/webextensionshape/update_selected_value/#) | Update the selected value by the value of the linked cell. |
-| [calculate_text_size()](/cells/python-net/aspose.cells.drawing/webextensionshape/calculate_text_size/#) | Recalculate the text area |
-| [characters(start_index, length)](/cells/python-net/aspose.cells.drawing/webextensionshape/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
-| [get_characters()](/cells/python-net/aspose.cells.drawing/webextensionshape/get_characters/#) | Returns all Characters objects <br/>that represents a range of characters within the text . |
-| [remove_active_x_control()](/cells/python-net/aspose.cells.drawing/webextensionshape/remove_active_x_control/#) | Remove activeX control. |
-| [is_same_setting(obj)](/cells/python-net/aspose.cells.drawing/webextensionshape/is_same_setting/#any) | Returns whether the shape is same. |
+| [to_image](/cells/python-net/aspose.cells.drawing/webextensionshape/to_image/#io.RawIOBase-aspose.cells.drawing.ImageType) | Creates the shape image and saves it to a stream in the specified format. |
+| [to_image](/cells/python-net/aspose.cells.drawing/webextensionshape/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Saves the shape to a file. |
+| [to_image](/cells/python-net/aspose.cells.drawing/webextensionshape/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Saves the shape to a stream. |
+| [format_characters](/cells/python-net/aspose.cells.drawing/webextensionshape/format_characters/#int-int-aspose.cells.Font-aspose.cells.StyleFlag) | Formats some characters with the font setting. |
+| [format_characters](/cells/python-net/aspose.cells.drawing/webextensionshape/format_characters/#int-int-aspose.cells.Font) | Formats some characters with the font setting. |
+| [get_result_of_smart_art](/cells/python-net/aspose.cells.drawing/webextensionshape/get_result_of_smart_art/#) | Converting smart art to grouped shapes. |
+| [to_front_or_back](/cells/python-net/aspose.cells.drawing/webextensionshape/to_front_or_back/#int) | Brings the shape to the front or sends the shape to back. |
+| [get_locked_property](/cells/python-net/aspose.cells.drawing/webextensionshape/get_locked_property/#aspose.cells.drawing.ShapeLockType) | Gets the value of locked property. |
+| [set_locked_property](/cells/python-net/aspose.cells.drawing/webextensionshape/set_locked_property/#aspose.cells.drawing.ShapeLockType-bool) | Set the locked property. |
+| [add_hyperlink](/cells/python-net/aspose.cells.drawing/webextensionshape/add_hyperlink/#str) | Adds a hyperlink to the shape. |
+| [remove_hyperlink](/cells/python-net/aspose.cells.drawing/webextensionshape/remove_hyperlink/#) | Remove the hyperlink of the shape. |
+| [move_to_range](/cells/python-net/aspose.cells.drawing/webextensionshape/move_to_range/#int-int-int-int) | Moves the shape to a specified range. |
+| [align_top_right_corner](/cells/python-net/aspose.cells.drawing/webextensionshape/align_top_right_corner/#int-int) | Moves the picture to the top-right corner. |
+| [get_connection_points](/cells/python-net/aspose.cells.drawing/webextensionshape/get_connection_points/#) | Get the connection points |
+| [get_linked_cell](/cells/python-net/aspose.cells.drawing/webextensionshape/get_linked_cell/#bool-bool) | Gets the range linked to the control's value. |
+| [set_linked_cell](/cells/python-net/aspose.cells.drawing/webextensionshape/set_linked_cell/#str-bool-bool) | Sets the range linked to the control's value. |
+| [get_input_range](/cells/python-net/aspose.cells.drawing/webextensionshape/get_input_range/#bool-bool) | Gets the range used to fill the control. |
+| [set_input_range](/cells/python-net/aspose.cells.drawing/webextensionshape/set_input_range/#str-bool-bool) | Sets the range used to fill the control. |
+| [update_selected_value](/cells/python-net/aspose.cells.drawing/webextensionshape/update_selected_value/#) | Update the selected value by the value of the linked cell. |
+| [calculate_text_size](/cells/python-net/aspose.cells.drawing/webextensionshape/calculate_text_size/#) | Recalculate the text area |
+| [characters](/cells/python-net/aspose.cells.drawing/webextensionshape/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
+| [get_characters](/cells/python-net/aspose.cells.drawing/webextensionshape/get_characters/#) | Returns all Characters objects <br/>that represents a range of characters within the text . |
+| [remove_active_x_control](/cells/python-net/aspose.cells.drawing/webextensionshape/remove_active_x_control/#) | Remove activeX control. |
+| [is_same_setting](/cells/python-net/aspose.cells.drawing/webextensionshape/is_same_setting/#any) | Returns whether the shape is same. |
+| [get_actual_box](/cells/python-net/aspose.cells.drawing/webextensionshape/get_actual_box/#) | Get the actual position and size of the shape (after applying rotation, flip, etc.) |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
-* class [GlowEffect](/cells/python-net/aspose.cells.drawing/gloweffect)
-* class [ReflectionEffect](/cells/python-net/aspose.cells.drawing/reflectioneffect)
-* class [ShadowEffect](/cells/python-net/aspose.cells.drawing/shadoweffect)
-* class [Shape](/cells/python-net/aspose.cells.drawing/shape)
-* class [WebExtensionShape](/cells/python-net/aspose.cells.drawing/webextensionshape)
+* module [`aspose.cells.drawing`](..)
+* class [`GlowEffect`](/cells/python-net/aspose.cells.drawing/gloweffect)
+* class [`ReflectionEffect`](/cells/python-net/aspose.cells.drawing/reflectioneffect)
+* class [`ShadowEffect`](/cells/python-net/aspose.cells.drawing/shadoweffect)
+* class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)
+* class [`WebExtensionShape`](/cells/python-net/aspose.cells.drawing/webextensionshape)

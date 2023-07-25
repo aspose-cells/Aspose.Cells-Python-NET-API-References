@@ -23,5 +23,5 @@ def character(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [CharacterBulletValue](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`CharacterBulletValue`](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue)

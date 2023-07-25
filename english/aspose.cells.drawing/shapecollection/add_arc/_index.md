@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_arc/
 is_root: false
 ---
 
-## add_arc(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+## add_arc {#int-int-int-int-int-int}
 
 Adds a ArcShape to the worksheet.
 
@@ -47,5 +47,5 @@ arcShape = shapes.add_arc(1, 0, 1, 0, 100, 50)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

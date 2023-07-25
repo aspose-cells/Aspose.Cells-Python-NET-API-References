@@ -31,6 +31,6 @@ def text_direction(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [DataLabels](/cells/python-net/aspose.cells.charts/datalabels)
-* class [TextDirectionType](/cells/python-net/aspose.cells/textdirectiontype)
+* module [`aspose.cells.charts`](../../)
+* class [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels)
+* class [`TextDirectionType`](/cells/python-net/aspose.cells/textdirectiontype)

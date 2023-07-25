@@ -3,7 +3,7 @@ title: PivotFilter class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 60
 url: /aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
@@ -87,4 +87,4 @@ book.save("out.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

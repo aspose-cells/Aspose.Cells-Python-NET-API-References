@@ -20,5 +20,5 @@ def is_default_pos_be_set(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [DisplayUnitLabel](/cells/python-net/aspose.cells.charts/displayunitlabel)
+* module [`aspose.cells.charts`](../../)
+* class [`DisplayUnitLabel`](/cells/python-net/aspose.cells.charts/displayunitlabel)

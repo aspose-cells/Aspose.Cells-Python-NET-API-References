@@ -8,7 +8,7 @@ url: /aspose.cells/cells/group_columns/
 is_root: false
 ---
 
-## group_columns(first_index, last_index) {#int-int}
+## group_columns {#int-int}
 
 Groups columns.
 
@@ -26,7 +26,7 @@ def group_columns(self, first_index, last_index):
 | last_index | int | The last column index to be grouped. |
 
 
-## group_columns(first_index, last_index, is_hidden) {#int-int-bool}
+## group_columns {#int-int-bool}
 
 Groups columns.
 
@@ -47,5 +47,5 @@ def group_columns(self, first_index, last_index, is_hidden):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

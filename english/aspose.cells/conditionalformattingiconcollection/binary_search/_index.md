@@ -8,7 +8,7 @@ url: /aspose.cells/conditionalformattingiconcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#ConditionalFormattingIcon}
+## binary_search {#aspose.cells.ConditionalFormattingIcon}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ConditionalFormattingIcon](/cells/python-net/aspose.cells/conditionalformattingicon) | The System.Object to locate. The value can be null. |
+| item | [`ConditionalFormattingIcon`](/cells/python-net/aspose.cells/conditionalformattingicon) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ConditionalFormattingIconCollection](/cells/python-net/aspose.cells/conditionalformattingiconcollection)
+* module [`aspose.cells`](../../)
+* class [`ConditionalFormattingIconCollection`](/cells/python-net/aspose.cells/conditionalformattingiconcollection)

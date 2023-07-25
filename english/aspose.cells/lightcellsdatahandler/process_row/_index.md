@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdatahandler/process_row/
 is_root: false
 ---
 
-## process_row(row) {#Row}
+## process_row {#aspose.cells.Row}
 
 Starts to process one row.
 
@@ -27,12 +27,12 @@ def process_row(self, row):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| row | [Row](/cells/python-net/aspose.cells/row) | Row object which is being processed currently. |
+| row | [`Row`](/cells/python-net/aspose.cells/row) | Row object which is being processed currently. |
 ### Remarks
 
 It will be called after row's properties such as height, style, ...etc. have been read. However, cells in this row has not been read yet.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LightCellsDataHandler](/cells/python-net/aspose.cells/lightcellsdatahandler)
+* module [`aspose.cells`](../../)
+* class [`LightCellsDataHandler`](/cells/python-net/aspose.cells/lightcellsdatahandler)

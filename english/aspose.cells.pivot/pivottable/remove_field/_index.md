@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/remove_field/
 is_root: false
 ---
 
-## remove_field(field_type, field_name) {#PivotFieldType-str}
+## remove_field {#aspose.cells.pivot.PivotFieldType-str}
 
 Removes a field from specific field area
 
@@ -22,11 +22,11 @@ def remove_field(self, field_type, field_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | The fields area type. |
+| field_type | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | The fields area type. |
 | field_name | str | The name in the base fields. |
 
 
-## remove_field(field_type, base_field_index) {#PivotFieldType-int}
+## remove_field {#aspose.cells.pivot.PivotFieldType-int}
 
 Removes a field from specific field area
 
@@ -40,11 +40,11 @@ def remove_field(self, field_type, base_field_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | The fields area type. |
+| field_type | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | The fields area type. |
 | base_field_index | int | The field index in the base fields. |
 
 
-## remove_field(field_type, pivot_field) {#PivotFieldType-PivotField}
+## remove_field {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
 
 Remove field from specific field area
 
@@ -58,11 +58,11 @@ def remove_field(self, field_type, pivot_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | the fields area type. |
-| pivot_field | [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield) | the field in the base fields. |
+| field_type | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | the fields area type. |
+| pivot_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | the field in the base fields. |
 
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

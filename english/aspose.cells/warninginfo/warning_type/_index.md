@@ -20,6 +20,6 @@ def warning_type(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WarningInfo](/cells/python-net/aspose.cells/warninginfo)
-* class [WarningType](/cells/python-net/aspose.cells/warningtype)
+* module [`aspose.cells`](../../)
+* class [`WarningInfo`](/cells/python-net/aspose.cells/warninginfo)
+* class [`WarningType`](/cells/python-net/aspose.cells/warningtype)

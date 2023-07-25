@@ -23,5 +23,5 @@ def transparency(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [SolidFill](/cells/python-net/aspose.cells.drawing/solidfill)
+* module [`aspose.cells.drawing`](../../)
+* class [`SolidFill`](/cells/python-net/aspose.cells.drawing/solidfill)

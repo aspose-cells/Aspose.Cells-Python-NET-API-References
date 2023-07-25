@@ -3,7 +3,7 @@ title: is_xml_map property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 170
 url: /aspose.cells/xmlloadoptions/is_xml_map/
 is_root: false
 ---
@@ -24,5 +24,5 @@ def is_xml_map(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [XmlLoadOptions](/cells/python-net/aspose.cells/xmlloadoptions)
+* module [`aspose.cells`](../../)
+* class [`XmlLoadOptions`](/cells/python-net/aspose.cells/xmlloadoptions)

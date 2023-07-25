@@ -33,5 +33,5 @@ def macro_name(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ListBox](/cells/python-net/aspose.cells.drawing/listbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`ListBox`](/cells/python-net/aspose.cells.drawing/listbox)

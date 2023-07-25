@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/format_all/
 is_root: false
 ---
 
-## format_all(style) {#Style}
+## format_all {#aspose.cells.Style}
 
 Format all the cell in the pivottable area
 
@@ -22,10 +22,10 @@ def format_all(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [Style](/cells/python-net/aspose.cells/style) | Style which is to format |
+| style | [`Style`](/cells/python-net/aspose.cells/style) | Style which is to format |
 
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

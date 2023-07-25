@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartglobalizationsettings/get_legend_total_name/
 is_root: false
 ---
 
-## get_legend_total_name() {#}
+## get_legend_total_name {#}
 
 Gets the name of Total for Legend.
 
@@ -29,5 +29,5 @@ def get_legend_total_name(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartGlobalizationSettings](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartGlobalizationSettings`](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)

@@ -24,5 +24,5 @@ def has_more_pages(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [PageEndSavingArgs](/cells/python-net/aspose.cells.rendering/pageendsavingargs)
+* module [`aspose.cells.rendering`](../../)
+* class [`PageEndSavingArgs`](/cells/python-net/aspose.cells.rendering/pageendsavingargs)

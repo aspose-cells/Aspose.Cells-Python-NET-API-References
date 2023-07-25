@@ -8,7 +8,7 @@ url: /aspose.cells/cells/remove_formulas/
 is_root: false
 ---
 
-## remove_formulas() {#}
+## remove_formulas {#}
 
 Removes all formula and replaces with the value of the formula.
 
@@ -24,5 +24,5 @@ def remove_formulas(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

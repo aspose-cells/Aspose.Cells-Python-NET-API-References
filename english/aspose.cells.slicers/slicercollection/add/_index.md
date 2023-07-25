@@ -8,7 +8,7 @@ url: /aspose.cells.slicers/slicercollection/add/
 is_root: false
 ---
 
-## add(pivot, dest_cell_name, base_field_name) {#aspose.cells.pivot.PivotTable-str-str}
+## add {#aspose.cells.pivot.PivotTable-str-str}
 
 Add a new Slicer using PivotTable as data source
 
@@ -41,7 +41,7 @@ slicers.add(pivot, "E3", "fruit")
 ```
 
 
-## add(pivot, dest_cell_name, base_field_index) {#aspose.cells.pivot.PivotTable-str-int}
+## add {#aspose.cells.pivot.PivotTable-str-int}
 
 Add a new Slicer using PivotTable as data source
 
@@ -74,7 +74,7 @@ slicers.add(pivot, "E20", 0)
 ```
 
 
-## add(pivot, dest_cell_name, base_field) {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
+## add {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
 
 Add a new Slicer using PivotTable as data source
 
@@ -107,7 +107,7 @@ slicers.add(pivot, "I3", pivot.base_fields[0])
 ```
 
 
-## add(table, index, dest_cell_name) {#aspose.cells.tables.ListObject-int-str}
+## add {#aspose.cells.tables.ListObject-int-str}
 
 Add a new Slicer using ListObjet as data source
 
@@ -140,7 +140,7 @@ slicers.add(table, 1, "E38")
 ```
 
 
-## add(table, list_column, dest_cell_name) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str}
+## add {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str}
 
 Add a new Slicer using ListObjet as data source
 
@@ -173,7 +173,7 @@ slicers.add(table, table.list_columns[1], "I38")
 ```
 
 
-## add(pivot, row, column, base_field_name) {#aspose.cells.pivot.PivotTable-int-int-str}
+## add {#aspose.cells.pivot.PivotTable-int-int-str}
 
 Add a new Slicer using PivotTable as data source
 
@@ -207,7 +207,7 @@ slicers.add(pivot, 20, 12, "fruit")
 ```
 
 
-## add(pivot, row, column, base_field_index) {#aspose.cells.pivot.PivotTable-int-int-int}
+## add {#aspose.cells.pivot.PivotTable-int-int-int}
 
 Add a new Slicer using PivotTable as data source
 
@@ -241,7 +241,7 @@ slicers.add(pivot, 20, 8, 0)
 ```
 
 
-## add(pivot, row, column, base_field) {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
+## add {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
 
 Add a new Slicer using PivotTable as data source
 
@@ -275,7 +275,7 @@ slicers.add(pivot, 3, 12, pivot.base_fields[0])
 ```
 
 
-## add(table, list_column, row, column) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int}
+## add {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int}
 
 Add a new Slicer using ListObjet as data source
 
@@ -311,5 +311,5 @@ slicers.add(table, table.list_columns[1], 38, 12)
 
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [SlicerCollection](/cells/python-net/aspose.cells.slicers/slicercollection)
+* module [`aspose.cells.slicers`](../../)
+* class [`SlicerCollection`](/cells/python-net/aspose.cells.slicers/slicercollection)

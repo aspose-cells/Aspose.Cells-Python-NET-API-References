@@ -35,6 +35,6 @@ def text_options(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Oval](/cells/python-net/aspose.cells.drawing/oval)
-* class [TextOptions](/cells/python-net/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.drawing`](../../)
+* class [`Oval`](/cells/python-net/aspose.cells.drawing/oval)
+* class [`TextOptions`](/cells/python-net/aspose.cells.drawing.texts/textoptions)

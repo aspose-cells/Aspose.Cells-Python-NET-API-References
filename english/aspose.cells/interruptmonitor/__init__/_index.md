@@ -8,7 +8,7 @@ url: /aspose.cells/interruptmonitor/__init__/
 is_root: false
 ---
 
-## InterruptMonitor() {#}
+## __init__ {#}
 
 Constructs a new instance of InterruptMonitor
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [InterruptMonitor](/cells/python-net/aspose.cells/interruptmonitor)
+* module [`aspose.cells`](../../)
+* class [`InterruptMonitor`](/cells/python-net/aspose.cells/interruptmonitor)

@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets and sets the number of significant digits.
-The default value is [CellsHelper.significant_digits](/cells/python-net/aspose.cells/cellshelper#significant_digits).
+The default value is [`CellsHelper.significant_digits`](/cells/python-net/aspose.cells/cellshelper#significant_digits).
 
 ### Remarks 
 
@@ -29,5 +29,5 @@ def significant_digits(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

@@ -8,7 +8,7 @@ url: /aspose.cells/cell/set_characters/
 is_root: false
 ---
 
-## set_characters(characters) {#list}
+## set_characters {#list}
 
 Sets rich text format of the cell.
 
@@ -27,5 +27,5 @@ def set_characters(self, characters):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

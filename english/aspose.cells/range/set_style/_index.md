@@ -8,7 +8,7 @@ url: /aspose.cells/range/set_style/
 is_root: false
 ---
 
-## set_style(style) {#Style}
+## set_style {#aspose.cells.Style}
 
 Sets the style of the range.
 
@@ -22,10 +22,10 @@ def set_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [Style](/cells/python-net/aspose.cells/style) | The Style object. |
+| style | [`Style`](/cells/python-net/aspose.cells/style) | The Style object. |
 
 
-## set_style(style, explicit_flag) {#Style-bool}
+## set_style {#aspose.cells.Style-bool}
 
 Apply the cell style.
 
@@ -39,11 +39,11 @@ def set_style(self, style, explicit_flag):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [Style](/cells/python-net/aspose.cells/style) | The cell style. |
+| style | [`Style`](/cells/python-net/aspose.cells/style) | The cell style. |
 | explicit_flag | bool | True, only overwriting formatting which is explicitly set. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`Range`](/cells/python-net/aspose.cells/range)

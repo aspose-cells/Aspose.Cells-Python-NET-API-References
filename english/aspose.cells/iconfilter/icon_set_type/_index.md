@@ -23,6 +23,6 @@ def icon_set_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IconFilter](/cells/python-net/aspose.cells/iconfilter)
-* class [IconSetType](/cells/python-net/aspose.cells/iconsettype)
+* module [`aspose.cells`](../../)
+* class [`IconFilter`](/cells/python-net/aspose.cells/iconfilter)
+* class [`IconSetType`](/cells/python-net/aspose.cells/iconsettype)

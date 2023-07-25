@@ -8,7 +8,7 @@ url: /aspose.cells/markdownsaveoptions/__init__/
 is_root: false
 ---
 
-## MarkdownSaveOptions() {#}
+## __init__ {#}
 
 Creates options for saving markdown document
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [MarkdownSaveOptions](/cells/python-net/aspose.cells/markdownsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`MarkdownSaveOptions`](/cells/python-net/aspose.cells/markdownsaveoptions)

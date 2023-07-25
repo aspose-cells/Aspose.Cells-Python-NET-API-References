@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/init_for_dot_net_core/
 is_root: false
 ---
 
-## init_for_dot_net_core() {#}
+## init_for_dot_net_core {#}
 
 Do the initialization for .NetCore programme.
 We suggest you to call this method for all .NetCore initialization first. 
@@ -28,5 +28,5 @@ def init_for_dot_net_core(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsHelper](/cells/python-net/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* class [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper)

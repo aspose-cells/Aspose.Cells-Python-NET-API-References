@@ -35,14 +35,14 @@ Gets the formatting condition by index.
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_condition(type, operator_type, formula1, formula2)](/cells/python-net/aspose.cells/formatconditioncollection/add_condition/#FormatConditionType-OperatorType-str-str) | Adds a formatting condition. |
-| [add_condition(type)](/cells/python-net/aspose.cells/formatconditioncollection/add_condition/#FormatConditionType) | Add a format condition. |
-| [remove_area(index)](/cells/python-net/aspose.cells/formatconditioncollection/remove_area/#int) | Removes conditional formatted cell range by index. |
-| [remove_area(start_row, start_column, total_rows, total_columns)](/cells/python-net/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Remove conditional formatting int the range. |
-| [add(cell_area, type, operator_type, formula1, formula2)](/cells/python-net/aspose.cells/formatconditioncollection/add/#CellArea-FormatConditionType-OperatorType-str-str) | Adds a formatting condition and effected cell rang to the FormatConditions<br/>The FormatConditions can contain up to three conditional formats.<br/>References to the other sheets are not allowed in the formulas of conditional formatting. |
-| [add_area(cell_area)](/cells/python-net/aspose.cells/formatconditioncollection/add_area/#CellArea) | Adds a conditional formatted cell range. |
-| [get_cell_area(index)](/cells/python-net/aspose.cells/formatconditioncollection/get_cell_area/#int) | Gets the conditional formatted cell range by index. |
-| [remove_condition(index)](/cells/python-net/aspose.cells/formatconditioncollection/remove_condition/#int) | Removes the formatting condition by index. |
+| [add_condition](/cells/python-net/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Adds a formatting condition. |
+| [add_condition](/cells/python-net/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType) | Add a format condition. |
+| [remove_area](/cells/python-net/aspose.cells/formatconditioncollection/remove_area/#int) | Removes conditional formatted cell range by index. |
+| [remove_area](/cells/python-net/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Remove conditional formatting int the range. |
+| [add](/cells/python-net/aspose.cells/formatconditioncollection/add/#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Adds a formatting condition and effected cell rang to the FormatConditions<br/>The FormatConditions can contain up to three conditional formats.<br/>References to the other sheets are not allowed in the formulas of conditional formatting. |
+| [add_area](/cells/python-net/aspose.cells/formatconditioncollection/add_area/#aspose.cells.CellArea) | Adds a conditional formatted cell range. |
+| [get_cell_area](/cells/python-net/aspose.cells/formatconditioncollection/get_cell_area/#int) | Gets the conditional formatted cell range by index. |
+| [remove_condition](/cells/python-net/aspose.cells/formatconditioncollection/remove_condition/#int) | Removes the formatting condition by index. |
 
 
 
@@ -86,4 +86,4 @@ workbook.save("output.xls")
 ```
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

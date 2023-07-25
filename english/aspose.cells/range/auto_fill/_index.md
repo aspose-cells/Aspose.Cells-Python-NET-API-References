@@ -8,7 +8,7 @@ url: /aspose.cells/range/auto_fill/
 is_root: false
 ---
 
-## auto_fill(target) {#Range}
+## auto_fill {#aspose.cells.Range}
 
 Automaticall fill the target range.
 
@@ -22,7 +22,7 @@ def auto_fill(self, target):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target | [Range](/cells/python-net/aspose.cells/range) | the target range. |
+| target | [`Range`](/cells/python-net/aspose.cells/range) | the target range. |
 
 ### Example 
 
@@ -46,7 +46,7 @@ workbook.save("book1.xlsm")
 ```
 
 
-## auto_fill(target, auto_fill_type) {#Range-AutoFillType}
+## auto_fill {#aspose.cells.Range-aspose.cells.AutoFillType}
 
 Automaticall fill the target range.
 
@@ -60,11 +60,11 @@ def auto_fill(self, target, auto_fill_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target | [Range](/cells/python-net/aspose.cells/range) | The targed range. |
-| auto_fill_type | [AutoFillType](/cells/python-net/aspose.cells/autofilltype) | The auto fill type. |
+| target | [`Range`](/cells/python-net/aspose.cells/range) | The targed range. |
+| auto_fill_type | [`AutoFillType`](/cells/python-net/aspose.cells/autofilltype) | The auto fill type. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`Range`](/cells/python-net/aspose.cells/range)

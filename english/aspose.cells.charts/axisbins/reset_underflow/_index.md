@@ -8,7 +8,7 @@ url: /aspose.cells.charts/axisbins/reset_underflow/
 is_root: false
 ---
 
-## reset_underflow() {#}
+## reset_underflow {#}
 
 Reset the underflow
 
@@ -24,5 +24,5 @@ def reset_underflow(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [AxisBins](/cells/python-net/aspose.cells.charts/axisbins)
+* module [`aspose.cells.charts`](../../)
+* class [`AxisBins`](/cells/python-net/aspose.cells.charts/axisbins)

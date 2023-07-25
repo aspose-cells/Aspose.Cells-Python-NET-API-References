@@ -3,7 +3,7 @@ title: TwoColorGradient class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1500
+weight: 1550
 url: /aspose.cells/twocolorgradient/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The TwoColorGradient type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TwoColorGradient(color1, color2, gradient_style_type, variant)](/cells/python-net/aspose.cells/twocolorgradient/__init__/#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int) |  |
+| [__init__](/cells/python-net/aspose.cells/twocolorgradient/__init__/#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int) |  |
 
 
 ### Properties
@@ -33,4 +33,4 @@ The TwoColorGradient type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/hide_row/
 is_root: false
 ---
 
-## hide_row(row) {#int}
+## hide_row {#int}
 
 Hides a row.
 
@@ -27,5 +27,5 @@ def hide_row(self, row):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

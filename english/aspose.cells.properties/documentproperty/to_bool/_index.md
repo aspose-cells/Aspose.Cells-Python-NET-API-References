@@ -8,7 +8,7 @@ url: /aspose.cells.properties/documentproperty/to_bool/
 is_root: false
 ---
 
-## to_bool() {#}
+## to_bool {#}
 
 Returns the property value as bool.
 
@@ -26,5 +26,5 @@ Throws an exception if the property type is not PropertyType.Boolean.
 
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [DocumentProperty](/cells/python-net/aspose.cells.properties/documentproperty)
+* module [`aspose.cells.properties`](../../)
+* class [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty)

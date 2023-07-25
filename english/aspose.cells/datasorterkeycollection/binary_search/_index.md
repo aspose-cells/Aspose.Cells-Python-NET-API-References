@@ -8,7 +8,7 @@ url: /aspose.cells/datasorterkeycollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#DataSorterKey}
+## binary_search {#aspose.cells.DataSorterKey}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [DataSorterKey](/cells/python-net/aspose.cells/datasorterkey) | The System.Object to locate. The value can be null. |
+| item | [`DataSorterKey`](/cells/python-net/aspose.cells/datasorterkey) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataSorterKeyCollection](/cells/python-net/aspose.cells/datasorterkeycollection)
+* module [`aspose.cells`](../../)
+* class [`DataSorterKeyCollection`](/cells/python-net/aspose.cells/datasorterkeycollection)

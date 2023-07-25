@@ -3,7 +3,7 @@ title: PaginatedSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1150
+weight: 1170
 url: /aspose.cells/paginatedsaveoptions/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents the options for pagination.
 
 
 
-**Inheritance:** [PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -49,13 +49,13 @@ The PaginatedSaveOptions type exposes the following members:
 | [gridline_type](/cells/python-net/aspose.cells/paginatedsaveoptions/gridline_type) | Gets or sets gridline type. |
 | [text_cross_type](/cells/python-net/aspose.cells/paginatedsaveoptions/text_cross_type) | Gets or sets displaying text type when the text width is larger than cell width. |
 | [default_edit_language](/cells/python-net/aspose.cells/paginatedsaveoptions/default_edit_language) | Gets or sets default edit language. |
-| [sheet_set](/cells/python-net/aspose.cells/paginatedsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [SheetSet.visible](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
+| [sheet_set](/cells/python-net/aspose.cells/paginatedsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [draw_object_event_handler](/cells/python-net/aspose.cells/paginatedsaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/paginatedsaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+* module [`aspose.cells`](..)
+* class [`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)

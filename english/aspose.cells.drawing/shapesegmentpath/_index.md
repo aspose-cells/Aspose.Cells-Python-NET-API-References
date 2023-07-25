@@ -3,7 +3,7 @@ title: ShapeSegmentPath class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 620
+weight: 610
 url: /aspose.cells.drawing/shapesegmentpath/
 is_root: false
 ---
@@ -25,4 +25,4 @@ The ShapeSegmentPath type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

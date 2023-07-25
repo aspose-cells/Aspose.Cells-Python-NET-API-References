@@ -3,12 +3,12 @@ title: binary_search method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /aspose.cells.drawing/shapecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Shape}
+## binary_search {#aspose.cells.drawing.Shape}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Shape](/cells/python-net/aspose.cells.drawing/shape) | The System.Object to locate. The value can be null. |
+| item | [`Shape`](/cells/python-net/aspose.cells.drawing/shape) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

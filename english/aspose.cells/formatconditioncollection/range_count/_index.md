@@ -20,5 +20,5 @@ def range_count(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormatConditionCollection](/cells/python-net/aspose.cells/formatconditioncollection)
+* module [`aspose.cells`](../../)
+* class [`FormatConditionCollection`](/cells/python-net/aspose.cells/formatconditioncollection)

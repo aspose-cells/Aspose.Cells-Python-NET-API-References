@@ -3,7 +3,7 @@ title: VisibilityType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2660
+weight: 2710
 url: /aspose.cells/visibilitytype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The VisibilityType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

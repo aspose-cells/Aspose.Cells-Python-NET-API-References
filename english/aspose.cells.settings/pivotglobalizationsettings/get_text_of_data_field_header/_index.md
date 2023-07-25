@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_data_field_he
 is_root: false
 ---
 
-## get_text_of_data_field_header() {#}
+## get_text_of_data_field_header {#}
 
 Gets the the text of the value area field header in the PivotTable.
 
@@ -29,5 +29,5 @@ def get_text_of_data_field_header(self):
 
 
 ### See Also
-* module [aspose.cells.settings](../../)
-* class [PivotGlobalizationSettings](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings)
+* module [`aspose.cells.settings`](../../)
+* class [`PivotGlobalizationSettings`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings)

@@ -3,7 +3,7 @@ title: macro_name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 790
 url: /aspose.cells.drawing/textbox/macro_name/
 is_root: false
 ---
@@ -33,5 +33,5 @@ def macro_name(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

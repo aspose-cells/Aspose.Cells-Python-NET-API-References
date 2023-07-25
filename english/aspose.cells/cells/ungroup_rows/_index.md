@@ -8,7 +8,7 @@ url: /aspose.cells/cells/ungroup_rows/
 is_root: false
 ---
 
-## ungroup_rows(first_index, last_index) {#int-int}
+## ungroup_rows {#int-int}
 
 Ungroups rows.
 
@@ -28,7 +28,7 @@ def ungroup_rows(self, first_index, last_index):
 
 Only removes outer group info.
 
-## ungroup_rows(first_index, last_index, is_all) {#int-int-bool}
+## ungroup_rows {#int-int-bool}
 
 Ungroups rows.
 
@@ -49,5 +49,5 @@ def ungroup_rows(self, first_index, last_index, is_all):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

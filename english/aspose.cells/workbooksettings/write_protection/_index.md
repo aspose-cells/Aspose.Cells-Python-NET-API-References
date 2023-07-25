@@ -20,6 +20,6 @@ def write_protection(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
-* class [WriteProtection](/cells/python-net/aspose.cells/writeprotection)
+* module [`aspose.cells`](../../)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)
+* class [`WriteProtection`](/cells/python-net/aspose.cells/writeprotection)

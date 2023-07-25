@@ -8,7 +8,7 @@ url: /aspose.cells/loadoptions/__init__/
 is_root: false
 ---
 
-## LoadOptions() {#}
+## __init__ {#}
 
 Creates an options of loading the file.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## LoadOptions(load_format) {#LoadFormat}
+## __init__ {#aspose.cells.LoadFormat}
 
 Creates an options of loading the file.
 
@@ -36,10 +36,10 @@ def __init__(self, load_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| load_format | [LoadFormat](/cells/python-net/aspose.cells/loadformat) | The loading format. |
+| load_format | [`LoadFormat`](/cells/python-net/aspose.cells/loadformat) | The loading format. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LoadOptions](/cells/python-net/aspose.cells/loadoptions)
+* module [`aspose.cells`](../../)
+* class [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)

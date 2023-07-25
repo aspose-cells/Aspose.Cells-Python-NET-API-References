@@ -3,12 +3,12 @@ title: update_column_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells.tables/listobject/update_column_name/
 is_root: false
 ---
 
-## update_column_name() {#}
+## update_column_name {#}
 
 Updates all list columns' name from the worksheet.
 
@@ -27,5 +27,5 @@ Cell.PutValue do not auto modify the name of the ListColumn for performance.
 
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListObject](/cells/python-net/aspose.cells.tables/listobject)
+* module [`aspose.cells.tables`](../../)
+* class [`ListObject`](/cells/python-net/aspose.cells.tables/listobject)

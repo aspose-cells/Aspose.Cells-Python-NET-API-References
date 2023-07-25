@@ -8,7 +8,7 @@ url: /aspose.cells/formatconditioncollection/remove_condition/
 is_root: false
 ---
 
-## remove_condition(index) {#int}
+## remove_condition {#int}
 
 Removes the formatting condition by index.
 
@@ -27,5 +27,5 @@ def remove_condition(self, index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormatConditionCollection](/cells/python-net/aspose.cells/formatconditioncollection)
+* module [`aspose.cells`](../../)
+* class [`FormatConditionCollection`](/cells/python-net/aspose.cells/formatconditioncollection)

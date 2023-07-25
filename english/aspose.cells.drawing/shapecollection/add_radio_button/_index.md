@@ -3,12 +3,12 @@ title: add_radio_button method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /aspose.cells.drawing/shapecollection/add_radio_button/
 is_root: false
 ---
 
-## add_radio_button(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+## add_radio_button {#int-int-int-int-int-int}
 
 Adds a RadioButton to the worksheet.
 
@@ -47,5 +47,5 @@ radioButton = shapes.add_radio_button(1, 0, 1, 0, 100, 50)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

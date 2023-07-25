@@ -8,7 +8,7 @@ url: /aspose.cells/cells/set_column_width/
 is_root: false
 ---
 
-## set_column_width(column, width) {#int-float}
+## set_column_width {#int-float}
 
 Sets the width of the specified column in normal view.
 
@@ -30,5 +30,5 @@ To hide a column, sets column width to zero.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

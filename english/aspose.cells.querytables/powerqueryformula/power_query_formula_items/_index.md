@@ -20,6 +20,6 @@ def power_query_formula_items(self):
 ```
 
 ### See Also
-* module [aspose.cells.querytables](../../)
-* class [PowerQueryFormula](/cells/python-net/aspose.cells.querytables/powerqueryformula)
-* class [PowerQueryFormulaItemCollection](/cells/python-net/aspose.cells.querytables/powerqueryformulaitemcollection)
+* module [`aspose.cells.querytables`](../../)
+* class [`PowerQueryFormula`](/cells/python-net/aspose.cells.querytables/powerqueryformula)
+* class [`PowerQueryFormulaItemCollection`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitemcollection)

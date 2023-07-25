@@ -3,7 +3,7 @@ title: TextOrientationType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2560
+weight: 2610
 url: /aspose.cells/textorientationtype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ The TextOrientationType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

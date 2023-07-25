@@ -23,6 +23,6 @@ def style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [MsoLineFormatHelper](/cells/python-net/aspose.cells.drawing/msolineformathelper)
-* class [MsoLineStyle](/cells/python-net/aspose.cells.drawing/msolinestyle)
+* module [`aspose.cells.drawing`](../../)
+* class [`MsoLineFormatHelper`](/cells/python-net/aspose.cells.drawing/msolineformathelper)
+* class [`MsoLineStyle`](/cells/python-net/aspose.cells.drawing/msolinestyle)

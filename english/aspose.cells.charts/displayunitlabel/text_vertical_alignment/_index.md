@@ -23,6 +23,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [DisplayUnitLabel](/cells/python-net/aspose.cells.charts/displayunitlabel)
-* class [TextAlignmentType](/cells/python-net/aspose.cells/textalignmenttype)
+* module [`aspose.cells.charts`](../../)
+* class [`DisplayUnitLabel`](/cells/python-net/aspose.cells.charts/displayunitlabel)
+* class [`TextAlignmentType`](/cells/python-net/aspose.cells/textalignmenttype)

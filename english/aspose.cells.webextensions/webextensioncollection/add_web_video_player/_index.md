@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensioncollection/add_web_video_player/
 is_root: false
 ---
 
-## add_web_video_player(url, auto_play, start_time, end_time) {#str-bool-int-int}
+## add_web_video_player {#str-bool-int-int}
 
 Add a web video player into exel.
 
@@ -30,5 +30,5 @@ def add_web_video_player(self, url, auto_play, start_time, end_time):
 
 
 ### See Also
-* module [aspose.cells.webextensions](../../)
-* class [WebExtensionCollection](/cells/python-net/aspose.cells.webextensions/webextensioncollection)
+* module [`aspose.cells.webextensions`](../../)
+* class [`WebExtensionCollection`](/cells/python-net/aspose.cells.webextensions/webextensioncollection)

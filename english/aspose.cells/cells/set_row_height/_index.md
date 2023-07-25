@@ -8,7 +8,7 @@ url: /aspose.cells/cells/set_row_height/
 is_root: false
 ---
 
-## set_row_height(row, height) {#int-float}
+## set_row_height {#int-float}
 
 Sets the height of the specified row.
 
@@ -28,5 +28,5 @@ def set_row_height(self, row, height):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

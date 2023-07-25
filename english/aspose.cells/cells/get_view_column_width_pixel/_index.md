@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get_view_column_width_pixel/
 is_root: false
 ---
 
-## get_view_column_width_pixel(column) {#int}
+## get_view_column_width_pixel {#int}
 
 Get the width in different view type.
 
@@ -32,5 +32,5 @@ def get_view_column_width_pixel(self, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

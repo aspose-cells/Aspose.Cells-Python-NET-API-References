@@ -23,5 +23,5 @@ def allow_formatting_cell(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Protection](/cells/python-net/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* class [`Protection`](/cells/python-net/aspose.cells/protection)

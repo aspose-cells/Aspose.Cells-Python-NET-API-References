@@ -20,6 +20,6 @@ def power_query_formula_parameters(self):
 ```
 
 ### See Also
-* module [aspose.cells.querytables](../../)
-* class [DataMashup](/cells/python-net/aspose.cells.querytables/datamashup)
-* class [PowerQueryFormulaParameterCollection](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection)
+* module [`aspose.cells.querytables`](../../)
+* class [`DataMashup`](/cells/python-net/aspose.cells.querytables/datamashup)
+* class [`PowerQueryFormulaParameterCollection`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection)

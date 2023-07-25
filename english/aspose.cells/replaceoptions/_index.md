@@ -3,7 +3,7 @@ title: ReplaceOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1290
+weight: 1310
 url: /aspose.cells/replaceoptions/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The ReplaceOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ReplaceOptions()](/cells/python-net/aspose.cells/replaceoptions/__init__/#) | Constructs a new instance of ReplaceOptions |
+| [__init__](/cells/python-net/aspose.cells/replaceoptions/__init__/#) | Constructs a new instance of ReplaceOptions |
 
 
 ### Properties
@@ -32,4 +32,4 @@ The ReplaceOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

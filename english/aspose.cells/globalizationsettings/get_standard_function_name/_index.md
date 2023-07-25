@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_standard_function_name/
 is_root: false
 ---
 
-## get_standard_function_name(local_name) {#str}
+## get_standard_function_name {#str}
 
 Gets the standard function name according to given locale dependent function name.
 
@@ -32,5 +32,5 @@ def get_standard_function_name(self, local_name):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [GlobalizationSettings](/cells/python-net/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* class [`GlobalizationSettings`](/cells/python-net/aspose.cells/globalizationsettings)

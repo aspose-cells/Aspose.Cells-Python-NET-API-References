@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/__init__/
 is_root: false
 ---
 
-## GlobalizationSettings() {#}
+## __init__ {#}
 
 Constructs a new instance of GlobalizationSettings
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [GlobalizationSettings](/cells/python-net/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* class [`GlobalizationSettings`](/cells/python-net/aspose.cells/globalizationsettings)

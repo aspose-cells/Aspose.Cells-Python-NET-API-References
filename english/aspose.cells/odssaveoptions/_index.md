@@ -3,7 +3,7 @@ title: OdsSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1110
+weight: 1130
 url: /aspose.cells/odssaveoptions/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents the options of saving ods file.
 
 
 
-**Inheritance:** [OdsSaveOptions](/cells/python-net/aspose.cells/odssaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`OdsSaveOptions`](/cells/python-net/aspose.cells/odssaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -24,8 +24,8 @@ The OdsSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [OdsSaveOptions()](/cells/python-net/aspose.cells/odssaveoptions/__init__/#) | Creates the options of saving ods file. |
-| [OdsSaveOptions(save_format)](/cells/python-net/aspose.cells/odssaveoptions/__init__/#SaveFormat) | Creates the options of saving ods file. |
+| [__init__](/cells/python-net/aspose.cells/odssaveoptions/__init__/#) | Creates the options of saving ods file. |
+| [__init__](/cells/python-net/aspose.cells/odssaveoptions/__init__/#aspose.cells.SaveFormat) | Creates the options of saving ods file. |
 
 
 ### Properties
@@ -48,6 +48,6 @@ The OdsSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [OdsSaveOptions](/cells/python-net/aspose.cells/odssaveoptions)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+* module [`aspose.cells`](..)
+* class [`OdsSaveOptions`](/cells/python-net/aspose.cells/odssaveoptions)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)

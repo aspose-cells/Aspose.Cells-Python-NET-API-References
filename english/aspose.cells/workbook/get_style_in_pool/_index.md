@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/get_style_in_pool/
 is_root: false
 ---
 
-## get_style_in_pool(index) {#int}
+## get_style_in_pool {#int}
 
 Gets the style in the style pool.
 All styles in the workbook will be gathered into a pool.
@@ -36,5 +36,5 @@ If the returned style is changed, the style of all cells(which refers to this st
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

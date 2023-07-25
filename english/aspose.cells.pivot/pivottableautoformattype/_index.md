@@ -3,7 +3,7 @@ title: PivotTableAutoFormatType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 280
 url: /aspose.cells.pivot/pivottableautoformattype/
 is_root: false
 ---
@@ -45,4 +45,4 @@ The PivotTableAutoFormatType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

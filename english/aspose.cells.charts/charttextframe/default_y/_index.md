@@ -20,5 +20,5 @@ def default_y(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartTextFrame](/cells/python-net/aspose.cells.charts/charttextframe)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe)

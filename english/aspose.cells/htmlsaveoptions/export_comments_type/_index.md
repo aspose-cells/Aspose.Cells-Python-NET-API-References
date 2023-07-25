@@ -23,6 +23,6 @@ def export_comments_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlSaveOptions](/cells/python-net/aspose.cells/htmlsaveoptions)
-* class [PrintCommentsType](/cells/python-net/aspose.cells/printcommentstype)
+* module [`aspose.cells`](../../)
+* class [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions)
+* class [`PrintCommentsType`](/cells/python-net/aspose.cells/printcommentstype)

@@ -25,5 +25,5 @@ def check_mixed_value_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ExportTableOptions](/cells/python-net/aspose.cells/exporttableoptions)
+* module [`aspose.cells`](../../)
+* class [`ExportTableOptions`](/cells/python-net/aspose.cells/exporttableoptions)

@@ -3,7 +3,7 @@ title: PaneStateType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2320
+weight: 2370
 url: /aspose.cells/panestatetype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ The PaneStateType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

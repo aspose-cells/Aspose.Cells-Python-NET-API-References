@@ -24,6 +24,6 @@ def split_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartSplitType](/cells/python-net/aspose.cells.charts/chartsplittype)
-* class [Series](/cells/python-net/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartSplitType`](/cells/python-net/aspose.cells.charts/chartsplittype)
+* class [`Series`](/cells/python-net/aspose.cells.charts/series)

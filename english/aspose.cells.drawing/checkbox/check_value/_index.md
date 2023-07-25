@@ -3,7 +3,7 @@ title: check_value property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells.drawing/checkbox/check_value/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def check_value(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CheckBox](/cells/python-net/aspose.cells.drawing/checkbox)
-* class [CheckValueType](/cells/python-net/aspose.cells.drawing/checkvaluetype)
+* module [`aspose.cells.drawing`](../../)
+* class [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox)
+* class [`CheckValueType`](/cells/python-net/aspose.cells.drawing/checkvaluetype)

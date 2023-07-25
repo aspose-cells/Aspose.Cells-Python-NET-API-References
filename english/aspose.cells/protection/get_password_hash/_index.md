@@ -8,7 +8,7 @@ url: /aspose.cells/protection/get_password_hash/
 is_root: false
 ---
 
-## get_password_hash() {#}
+## get_password_hash {#}
 
 Gets the hash of current password.
 
@@ -24,5 +24,5 @@ def get_password_hash(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Protection](/cells/python-net/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* class [`Protection`](/cells/python-net/aspose.cells/protection)

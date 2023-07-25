@@ -3,12 +3,12 @@ title: ungroup method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 460
 url: /aspose.cells.drawing/shapecollection/ungroup/
 is_root: false
 ---
 
-## ungroup(group) {#GroupShape}
+## ungroup {#aspose.cells.drawing.GroupShape}
 
 Ungroups the shape items.
 
@@ -22,7 +22,7 @@ def ungroup(self, group):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| group | [GroupShape](/cells/python-net/aspose.cells.drawing/groupshape) | The group shape. |
+| group | [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape) | The group shape. |
 ### Remarks
 
 If the group shape is grouped by another group shape,nothing will be done.
@@ -46,5 +46,5 @@ shapes.ungroup(groupShape)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

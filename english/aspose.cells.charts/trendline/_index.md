@@ -14,8 +14,8 @@ Represents a trendline in a chart.
 
 
 
-**Inheritance:** [Trendline](/cells/python-net/aspose.cells.charts/trendline) → 
-[Line](/cells/python-net/aspose.cells.drawing/line)
+**Inheritance:** [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) → 
+[`Line`](/cells/python-net/aspose.cells.drawing/line)
 
 
 
@@ -38,7 +38,7 @@ The Trendline type exposes the following members:
 | [color](/cells/python-net/aspose.cells.charts/trendline/color) | Represents the Color of the line. |
 | [transparency](/cells/python-net/aspose.cells.charts/trendline/transparency) | Returns or sets the degree of transparency of the line as a value from 0.0 (opaque) through 1.0 (clear). |
 | [style](/cells/python-net/aspose.cells.charts/trendline/style) | Represents the style of the line. |
-| [weight](/cells/python-net/aspose.cells.charts/trendline/weight) | Gets or sets the [WeightType](/cells/python-net/aspose.cells.drawing/weighttype) of the line. |
+| [weight](/cells/python-net/aspose.cells.charts/trendline/weight) | Gets or sets the [`WeightType`](/cells/python-net/aspose.cells.drawing/weighttype) of the line. |
 | [weight_pt](/cells/python-net/aspose.cells.charts/trendline/weight_pt) | Gets or sets the weight of the line in unit of points. |
 | [weight_px](/cells/python-net/aspose.cells.charts/trendline/weight_px) | Gets or sets the weight of the line in unit of pixels. |
 | [formatting_type](/cells/python-net/aspose.cells.charts/trendline/formatting_type) | Gets or sets format type. |
@@ -121,7 +121,7 @@ workbook.save("book1.xls")
 ```
 
 ### See Also
-* module [aspose.cells.charts](..)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
-* class [Trendline](/cells/python-net/aspose.cells.charts/trendline)
-* class [WeightType](/cells/python-net/aspose.cells.drawing/weighttype)
+* module [`aspose.cells.charts`](..)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)
+* class [`Trendline`](/cells/python-net/aspose.cells.charts/trendline)
+* class [`WeightType`](/cells/python-net/aspose.cells.drawing/weighttype)

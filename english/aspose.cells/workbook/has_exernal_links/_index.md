@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/has_exernal_links/
 is_root: false
 ---
 
-## has_exernal_links() {#}
+## has_exernal_links {#}
 
 Indicates whether this workbook contains external links to other data sources.
 
@@ -34,5 +34,5 @@ Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

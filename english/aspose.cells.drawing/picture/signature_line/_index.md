@@ -49,6 +49,6 @@ def signature_line(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
-* class [SignatureLine](/cells/python-net/aspose.cells.drawing/signatureline)
+* module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)
+* class [`SignatureLine`](/cells/python-net/aspose.cells.drawing/signatureline)

@@ -8,9 +8,9 @@ url: /aspose.cells/conditionalformattingvaluecollection/add/
 is_root: false
 ---
 
-## add(type, value) {#FormatConditionValueType-str}
+## add {#aspose.cells.FormatConditionValueType-str}
 
-Adds [ConditionalFormattingValue](/cells/python-net/aspose.cells/conditionalformattingvalue) object.
+Adds [`ConditionalFormattingValue`](/cells/python-net/aspose.cells/conditionalformattingvalue) object.
 
 
 ### Returns 
@@ -27,12 +27,12 @@ def add(self, type, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [FormatConditionValueType](/cells/python-net/aspose.cells/formatconditionvaluetype) | The value type. |
+| type | [`FormatConditionValueType`](/cells/python-net/aspose.cells/formatconditionvaluetype) | The value type. |
 | value | str | The value. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ConditionalFormattingValue](/cells/python-net/aspose.cells/conditionalformattingvalue)
-* class [ConditionalFormattingValueCollection](/cells/python-net/aspose.cells/conditionalformattingvaluecollection)
+* module [`aspose.cells`](../../)
+* class [`ConditionalFormattingValue`](/cells/python-net/aspose.cells/conditionalformattingvalue)
+* class [`ConditionalFormattingValueCollection`](/cells/python-net/aspose.cells/conditionalformattingvaluecollection)

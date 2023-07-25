@@ -8,7 +8,7 @@ url: /aspose.cells/unionrange/intersect/
 is_root: false
 ---
 
-## intersect(range) {#str}
+## intersect {#str}
 
 Intersects another range.
 
@@ -27,7 +27,7 @@ def intersect(self, range):
 
 If the two union ranges are not intersected, returns null.
 
-## intersect(union_range) {#UnionRange}
+## intersect {#aspose.cells.UnionRange}
 
 Intersects another range.
 
@@ -41,12 +41,12 @@ def intersect(self, union_range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/aspose.cells/unionrange) | The range. |
+| union_range | [`UnionRange`](/cells/python-net/aspose.cells/unionrange) | The range. |
 ### Remarks
 
 If the two union ranges are not intersected, returns null.
 
-## intersect(ranges) {#list}
+## intersect {#list}
 
 Intersects another range.
 
@@ -67,5 +67,5 @@ If the two union ranges are not intersected, returns null.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [UnionRange](/cells/python-net/aspose.cells/unionrange)
+* module [`aspose.cells`](../../)
+* class [`UnionRange`](/cells/python-net/aspose.cells/unionrange)

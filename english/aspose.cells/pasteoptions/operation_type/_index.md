@@ -3,7 +3,7 @@ title: operation_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells/pasteoptions/operation_type/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def operation_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PasteOperationType](/cells/python-net/aspose.cells/pasteoperationtype)
-* class [PasteOptions](/cells/python-net/aspose.cells/pasteoptions)
+* module [`aspose.cells`](../../)
+* class [`PasteOperationType`](/cells/python-net/aspose.cells/pasteoperationtype)
+* class [`PasteOptions`](/cells/python-net/aspose.cells/pasteoptions)

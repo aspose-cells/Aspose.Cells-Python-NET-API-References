@@ -23,6 +23,6 @@ def pattern(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [FillPattern](/cells/python-net/aspose.cells.drawing/fillpattern)
-* class [LineFormat](/cells/python-net/aspose.cells.drawing/lineformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`FillPattern`](/cells/python-net/aspose.cells.drawing/fillpattern)
+* class [`LineFormat`](/cells/python-net/aspose.cells.drawing/lineformat)

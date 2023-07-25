@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/refresh_dynamic_array_formulas/
 is_root: false
 ---
 
-## refresh_dynamic_array_formulas(calculate) {#bool}
+## refresh_dynamic_array_formulas {#bool}
 
 Refreshes dynamic array formulas(spill into new range of neighboring cells according to current data)
 Other formulas in the workbook will not be calculated recursively even if they were used by dynamic array formulas.
@@ -26,7 +26,7 @@ def refresh_dynamic_array_formulas(self, calculate):
 | calculate | bool | Whether calculates and updates cell values for those dynamic array formulas |
 
 
-## refresh_dynamic_array_formulas(calculate, copts) {#bool-CalculationOptions}
+## refresh_dynamic_array_formulas {#bool-aspose.cells.CalculationOptions}
 
 Refreshes dynamic array formulas(spill into new range of neighboring cells according to current data)
 
@@ -41,10 +41,10 @@ def refresh_dynamic_array_formulas(self, calculate, copts):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | calculate | bool | Whether calculates and updates cell values for those dynamic array formulas |
-| copts | [CalculationOptions](/cells/python-net/aspose.cells/calculationoptions) | The options for calculating formulas |
+| copts | [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions) | The options for calculating formulas |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

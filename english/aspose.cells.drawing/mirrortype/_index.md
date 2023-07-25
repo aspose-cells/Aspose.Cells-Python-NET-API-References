@@ -3,7 +3,7 @@ title: MirrorType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 960
+weight: 950
 url: /aspose.cells.drawing/mirrortype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ The MirrorType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

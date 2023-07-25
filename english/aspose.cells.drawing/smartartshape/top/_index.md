@@ -38,5 +38,5 @@ def top(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [SmartArtShape](/cells/python-net/aspose.cells.drawing/smartartshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape)

@@ -8,7 +8,7 @@ url: /aspose.cells/formatconditioncollection/get_cell_area/
 is_root: false
 ---
 
-## get_cell_area(index) {#int}
+## get_cell_area {#int}
 
 Gets the conditional formatted cell range by index.
 
@@ -32,5 +32,5 @@ def get_cell_area(self, index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormatConditionCollection](/cells/python-net/aspose.cells/formatconditioncollection)
+* module [`aspose.cells`](../../)
+* class [`FormatConditionCollection`](/cells/python-net/aspose.cells/formatconditioncollection)

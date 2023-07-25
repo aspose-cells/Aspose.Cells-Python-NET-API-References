@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chart/change_template/
 is_root: false
 ---
 
-## change_template(data) {#bytes}
+## change_template {#bytes}
 
 Change chart type with preset template.
 
@@ -27,5 +27,5 @@ def change_template(self, data):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

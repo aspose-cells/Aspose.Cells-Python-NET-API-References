@@ -8,7 +8,7 @@ url: /aspose.cells/abstractcalculationmonitor/before_calculate/
 is_root: false
 ---
 
-## before_calculate(sheet_index, row_index, col_index) {#int-int-int}
+## before_calculate {#int-int-int}
 
 Implement this method to do business before calculating one cell.
 
@@ -29,5 +29,5 @@ def before_calculate(self, sheet_index, row_index, col_index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractCalculationMonitor](/cells/python-net/aspose.cells/abstractcalculationmonitor)
+* module [`aspose.cells`](../../)
+* class [`AbstractCalculationMonitor`](/cells/python-net/aspose.cells/abstractcalculationmonitor)

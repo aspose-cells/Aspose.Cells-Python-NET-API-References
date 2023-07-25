@@ -3,12 +3,12 @@ title: unprotect method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells/worksheet/unprotect/
 is_root: false
 ---
 
-## unprotect() {#}
+## unprotect {#}
 
 Unprotects worksheet.
 
@@ -24,7 +24,7 @@ def unprotect(self):
 
 This method unprotects worksheet which is protected without password.
 
-## unprotect(password) {#str}
+## unprotect {#str}
 
 Unprotects worksheet.
 
@@ -45,5 +45,5 @@ If the worksheet is protected without a password, you can set a null value or bl
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.texts/texttabstopcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#TextTabStop}
+## binary_search {#aspose.cells.drawing.texts.TextTabStop}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [TextTabStop](/cells/python-net/aspose.cells.drawing.texts/texttabstop) | The System.Object to locate. The value can be null. |
+| item | [`TextTabStop`](/cells/python-net/aspose.cells.drawing.texts/texttabstop) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [TextTabStopCollection](/cells/python-net/aspose.cells.drawing.texts/texttabstopcollection)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`TextTabStopCollection`](/cells/python-net/aspose.cells.drawing.texts/texttabstopcollection)

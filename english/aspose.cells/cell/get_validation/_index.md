@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_validation/
 is_root: false
 ---
 
-## get_validation() {#}
+## get_validation {#}
 
 Gets the validation applied to this cell.
 
@@ -29,5 +29,5 @@ def get_validation(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

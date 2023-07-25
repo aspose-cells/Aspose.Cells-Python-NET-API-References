@@ -16,8 +16,8 @@ including the parameters and parameter elements.
 
 
 
-**Inheritance:** [WebQueryConnection](/cells/python-net/aspose.cells.externalconnections/webqueryconnection) → 
-[ExternalConnection](/cells/python-net/aspose.cells.externalconnections/externalconnection)
+**Inheritance:** [`WebQueryConnection`](/cells/python-net/aspose.cells.externalconnections/webqueryconnection) → 
+[`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)
 
 
 
@@ -48,7 +48,7 @@ The WebQueryConnection type exposes the following members:
 | [credentials_method_type](/cells/python-net/aspose.cells.externalconnections/webqueryconnection/credentials_method_type) | Specifies the authentication method to be used when establishing (or re-establishing) the connection. |
 | [credentials](/cells/python-net/aspose.cells.externalconnections/webqueryconnection/credentials) | Specifies the authentication method to be used when establishing (or re-establishing) the connection. |
 | [background_refresh](/cells/python-net/aspose.cells.externalconnections/webqueryconnection/background_refresh) | Indicates whether the connection can be refreshed in the background (asynchronously). <br/>true if preferred usage of the connection is to refresh asynchronously in the background; <br/>false if preferred usage of the connection is to refresh synchronously in the foreground. |
-| [parameters](/cells/python-net/aspose.cells.externalconnections/webqueryconnection/parameters) | Gets [ConnectionParameterCollection](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection) for an ODBC or web query. |
+| [parameters](/cells/python-net/aspose.cells.externalconnections/webqueryconnection/parameters) | Gets [`ConnectionParameterCollection`](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection) for an ODBC or web query. |
 | [is_xml](/cells/python-net/aspose.cells.externalconnections/webqueryconnection/is_xml) | true if the web query source is XML (versus HTML), otherwise false. |
 | [is_xl97](/cells/python-net/aspose.cells.externalconnections/webqueryconnection/is_xl97) | This flag exists for backward compatibility with older existing spreadsheet files, and is set<br/>to true if this web query was created in Microsoft Excel 97.<br/>This is an optional attribute that can be ignored. |
 | [is_xl2000](/cells/python-net/aspose.cells.externalconnections/webqueryconnection/is_xl2000) | This flag exists for backward compatibility with older existing spreadsheet files, and is set<br/>to true if this web query was refreshed in a spreadsheet application newer than or equal<br/>to Microsoft Excel 2000.<br/>This is an optional attribute that can be ignored. |
@@ -67,7 +67,7 @@ The WebQueryConnection type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.externalconnections](..)
-* class [ConnectionParameterCollection](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection)
-* class [ExternalConnection](/cells/python-net/aspose.cells.externalconnections/externalconnection)
-* class [WebQueryConnection](/cells/python-net/aspose.cells.externalconnections/webqueryconnection)
+* module [`aspose.cells.externalconnections`](..)
+* class [`ConnectionParameterCollection`](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection)
+* class [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)
+* class [`WebQueryConnection`](/cells/python-net/aspose.cells.externalconnections/webqueryconnection)

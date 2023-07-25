@@ -3,7 +3,7 @@ title: export_area property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells/xmlsaveoptions/export_area/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def export_area(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
-* class [XmlSaveOptions](/cells/python-net/aspose.cells/xmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)
+* class [`XmlSaveOptions`](/cells/python-net/aspose.cells/xmlsaveoptions)

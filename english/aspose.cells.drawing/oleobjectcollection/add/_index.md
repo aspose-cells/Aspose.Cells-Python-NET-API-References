@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/oleobjectcollection/add/
 is_root: false
 ---
 
-## add(upper_left_row, upper_left_column, height, width, image_data) {#int-int-int-int-bytes}
+## add {#int-int-int-int-bytes}
 
 Adds an OleObject to the collection.
 
@@ -16,7 +16,7 @@ Adds an OleObject to the collection.
 ### Returns 
 
 
-[OleObject](/cells/python-net/aspose.cells.drawing/oleobject) object index.
+[`OleObject`](/cells/python-net/aspose.cells.drawing/oleobject) object index.
 
 
 ```python
@@ -34,7 +34,7 @@ def add(self, upper_left_row, upper_left_column, height, width, image_data):
 | image_data | bytes | Image of ole object as byte array. |
 
 
-## add(upper_left_row, upper_left_column, height, width, image_data, linked_file) {#int-int-int-int-bytes-str}
+## add {#int-int-int-int-bytes-str}
 
 Adds a linked OleObject to the collection.
 
@@ -42,7 +42,7 @@ Adds a linked OleObject to the collection.
 ### Returns 
 
 
-[OleObject](/cells/python-net/aspose.cells.drawing/oleobject) object index.
+[`OleObject`](/cells/python-net/aspose.cells.drawing/oleobject) object index.
 
 
 ```python
@@ -63,6 +63,6 @@ def add(self, upper_left_row, upper_left_column, height, width, image_data, link
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [OleObject](/cells/python-net/aspose.cells.drawing/oleobject)
-* class [OleObjectCollection](/cells/python-net/aspose.cells.drawing/oleobjectcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`OleObject`](/cells/python-net/aspose.cells.drawing/oleobject)
+* class [`OleObjectCollection`](/cells/python-net/aspose.cells.drawing/oleobjectcollection)

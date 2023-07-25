@@ -38,7 +38,7 @@ The DataBar type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [to_image(cell, img_opts)](/cells/python-net/aspose.cells/databar/to_image/#Cell-aspose.cells.rendering.ImageOrPrintOptions) | Render data bar in cell to image byte array. |
+| [to_image](/cells/python-net/aspose.cells/databar/to_image/#aspose.cells.Cell-aspose.cells.rendering.ImageOrPrintOptions) | Render data bar in cell to image byte array. |
 
 
 
@@ -95,4 +95,4 @@ workbook.save("book1.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

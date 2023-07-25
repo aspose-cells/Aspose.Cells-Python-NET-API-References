@@ -3,7 +3,7 @@ title: DataLabelShapeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 800
+weight: 790
 url: /aspose.cells.drawing/datalabelshapetype/
 is_root: false
 ---
@@ -38,4 +38,4 @@ The DataLabelShapeType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

@@ -3,7 +3,7 @@ title: show_empty_col property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 900
+weight: 920
 url: /aspose.cells.pivot/pivottable/show_empty_col/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def show_empty_col(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

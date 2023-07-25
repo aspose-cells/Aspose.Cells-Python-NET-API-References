@@ -3,7 +3,7 @@ title: show_data_table property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 540
+weight: 560
 url: /aspose.cells.charts/chart/show_data_table/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def show_data_table(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

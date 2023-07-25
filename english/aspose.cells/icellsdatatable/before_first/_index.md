@@ -8,7 +8,7 @@ url: /aspose.cells/icellsdatatable/before_first/
 is_root: false
 ---
 
-## before_first() {#}
+## before_first {#}
 
 Move the cursor to the front of this object, just before the first row.
 
@@ -24,5 +24,5 @@ def before_first(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ICellsDataTable](/cells/python-net/aspose.cells/icellsdatatable)
+* module [`aspose.cells`](../../)
+* class [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable)

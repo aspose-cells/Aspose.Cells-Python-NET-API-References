@@ -20,6 +20,6 @@ def type(self):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [RevisionInsertSheet](/cells/python-net/aspose.cells.revisions/revisioninsertsheet)
-* class [RevisionType](/cells/python-net/aspose.cells.revisions/revisiontype)
+* module [`aspose.cells.revisions`](../../)
+* class [`RevisionInsertSheet`](/cells/python-net/aspose.cells.revisions/revisioninsertsheet)
+* class [`RevisionType`](/cells/python-net/aspose.cells.revisions/revisiontype)

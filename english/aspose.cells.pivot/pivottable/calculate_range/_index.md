@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/calculate_range/
 is_root: false
 ---
 
-## calculate_range() {#}
+## calculate_range {#}
 
 Calculates pivottable's range.
 
@@ -26,5 +26,5 @@ If this method is not been called,maybe the pivottable range is not corrected.
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

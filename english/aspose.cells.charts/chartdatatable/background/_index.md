@@ -31,6 +31,6 @@ def background(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [BackgroundMode](/cells/python-net/aspose.cells.charts/backgroundmode)
-* class [ChartDataTable](/cells/python-net/aspose.cells.charts/chartdatatable)
+* module [`aspose.cells.charts`](../../)
+* class [`BackgroundMode`](/cells/python-net/aspose.cells.charts/backgroundmode)
+* class [`ChartDataTable`](/cells/python-net/aspose.cells.charts/chartdatatable)

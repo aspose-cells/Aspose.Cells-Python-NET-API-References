@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/verify_password/
 is_root: false
 ---
 
-## verify_password(stream, password) {#io.RawIOBase-str}
+## verify_password {#io.RawIOBase-str}
 
 Detects and returns the information about a format of an excel stored in a stream.
 
@@ -33,5 +33,5 @@ def verify_password(self, stream, password):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FileFormatUtil](/cells/python-net/aspose.cells/fileformatutil)
+* module [`aspose.cells`](../../)
+* class [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil)

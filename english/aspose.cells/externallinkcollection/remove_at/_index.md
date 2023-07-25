@@ -8,7 +8,7 @@ url: /aspose.cells/externallinkcollection/remove_at/
 is_root: false
 ---
 
-## remove_at(index) {#int}
+## remove_at {#int}
 
 Removes the specified external link from the workbook.
 
@@ -28,7 +28,7 @@ def remove_at(self, index):
 When removing the external link, all formulas that reference to it will be removed too because
 the references become invalid.
 
-## remove_at(index, update_references_as_local) {#int-bool}
+## remove_at {#int-bool}
 
 Removes the specified external link from the workbook.
 
@@ -43,17 +43,10 @@ def remove_at(self, index, update_references_as_local):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | index | int | the index of the external link to be removed. |
-| update_references_as_local | bool | Whether update all references of given external link to reference of current workbook itself. |
-### Remarks
+| update_references_as_local | bool | Whether update all references of given external link to reference of current workbook itself.<br/>Check [`ExternalLinkCollection.clear`](/cells/python-net/aspose.cells/externallinkcollection/clear) to get more details about this parameter. |
 
-If references are required to be updated, references to external links in formulas will be changed to current workbook.
-For example, the external link to be removed is "externalsource.xlam" and it defines one custom function "customfunction()",
-one cell's original formula is "='externalsource.xlam'!customfunction()",
-after removing the formula will become "=customfunction()".
-If reference are not required to be updated, all formulas with reference to this external link
-will be removed too because those references become invalid.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ExternalLinkCollection](/cells/python-net/aspose.cells/externallinkcollection)
+* module [`aspose.cells`](../../)
+* class [`ExternalLinkCollection`](/cells/python-net/aspose.cells/externallinkcollection)

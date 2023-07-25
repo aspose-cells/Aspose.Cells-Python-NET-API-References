@@ -14,8 +14,8 @@ Represents the options of saving dif file.
 
 
 
-**Inheritance:** [DifSaveOptions](/cells/python-net/aspose.cells/difsaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`DifSaveOptions`](/cells/python-net/aspose.cells/difsaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -24,7 +24,7 @@ The DifSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [DifSaveOptions()](/cells/python-net/aspose.cells/difsaveoptions/__init__/#) | Creates the options for saving DIF file. |
+| [__init__](/cells/python-net/aspose.cells/difsaveoptions/__init__/#) | Creates the options for saving DIF file. |
 
 
 ### Properties
@@ -45,6 +45,6 @@ The DifSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [DifSaveOptions](/cells/python-net/aspose.cells/difsaveoptions)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+* module [`aspose.cells`](..)
+* class [`DifSaveOptions`](/cells/python-net/aspose.cells/difsaveoptions)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)

@@ -28,6 +28,6 @@ def paper_size(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PaperSizeType](/cells/python-net/aspose.cells/papersizetype)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`PaperSizeType`](/cells/python-net/aspose.cells/papersizetype)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

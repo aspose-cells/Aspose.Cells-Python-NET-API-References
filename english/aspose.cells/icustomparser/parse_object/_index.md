@@ -8,7 +8,7 @@ url: /aspose.cells/icustomparser/parse_object/
 is_root: false
 ---
 
-## parse_object(value) {#str}
+## parse_object {#str}
 
 Parses given string to proper value object.
 
@@ -32,5 +32,5 @@ def parse_object(self, value):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ICustomParser](/cells/python-net/aspose.cells/icustomparser)
+* module [`aspose.cells`](../../)
+* class [`ICustomParser`](/cells/python-net/aspose.cells/icustomparser)

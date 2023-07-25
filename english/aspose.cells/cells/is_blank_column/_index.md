@@ -8,7 +8,7 @@ url: /aspose.cells/cells/is_blank_column/
 is_root: false
 ---
 
-## is_blank_column(column_index) {#int}
+## is_blank_column {#int}
 
 Checks whether given column is blank(does not contain any data).
 
@@ -32,5 +32,5 @@ def is_blank_column(self, column_index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

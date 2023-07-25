@@ -19,7 +19,7 @@ Represents the width of the shape, in unit of inch.
 ```python
 
 if shape.width_inch == 3:
-    shape.width_inch = 1
+    shape.width_inch = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def width_inch(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [WebExtensionShape](/cells/python-net/aspose.cells.drawing/webextensionshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`WebExtensionShape`](/cells/python-net/aspose.cells.drawing/webextensionshape)

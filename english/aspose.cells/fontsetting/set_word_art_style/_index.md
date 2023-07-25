@@ -8,7 +8,7 @@ url: /aspose.cells/fontsetting/set_word_art_style/
 is_root: false
 ---
 
-## set_word_art_style(style) {#aspose.cells.drawing.PresetWordArtStyle}
+## set_word_art_style {#aspose.cells.drawing.PresetWordArtStyle}
 
 Sets the preset WordArt style.
 
@@ -29,5 +29,5 @@ Only for the text of shape/chart.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FontSetting](/cells/python-net/aspose.cells/fontsetting)
+* module [`aspose.cells`](../../)
+* class [`FontSetting`](/cells/python-net/aspose.cells/fontsetting)

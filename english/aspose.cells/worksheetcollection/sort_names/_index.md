@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/sort_names/
 is_root: false
 ---
 
-## sort_names() {#}
+## sort_names {#}
 
 Sorts the defined names.
 
@@ -27,5 +27,5 @@ please call this method after all named ranges are created and before saving
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

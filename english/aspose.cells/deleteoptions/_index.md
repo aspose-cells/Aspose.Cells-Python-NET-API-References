@@ -19,7 +19,7 @@ The DeleteOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [DeleteOptions()](/cells/python-net/aspose.cells/deleteoptions/__init__/#) | Constructs a new instance of DeleteOptions |
+| [__init__](/cells/python-net/aspose.cells/deleteoptions/__init__/#) | Constructs a new instance of DeleteOptions |
 
 
 ### Properties
@@ -30,4 +30,4 @@ The DeleteOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

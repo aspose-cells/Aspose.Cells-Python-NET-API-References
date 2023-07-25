@@ -8,7 +8,7 @@ url: /aspose.cells/cells/add_range/
 is_root: false
 ---
 
-## add_range(range_object) {#Range}
+## add_range {#aspose.cells.Range}
 
 Adds a range object reference to cells
 
@@ -22,10 +22,10 @@ def add_range(self, range_object):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range_object | [Range](/cells/python-net/aspose.cells/range) | The range object will be contained in the cells |
+| range_object | [`Range`](/cells/python-net/aspose.cells/range) | The range object will be contained in the cells |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

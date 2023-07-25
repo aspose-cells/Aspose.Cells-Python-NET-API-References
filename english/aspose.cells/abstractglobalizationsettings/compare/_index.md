@@ -8,7 +8,7 @@ url: /aspose.cells/abstractglobalizationsettings/compare/
 is_root: false
 ---
 
-## compare(v1, v2, ignore_case) {#str-str-bool}
+## compare {#str-str-bool}
 
 Compares two string values according to certain collation rules.
 
@@ -34,5 +34,5 @@ def compare(self, v1, v2, ignore_case):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractGlobalizationSettings](/cells/python-net/aspose.cells/abstractglobalizationsettings)
+* module [`aspose.cells`](../../)
+* class [`AbstractGlobalizationSettings`](/cells/python-net/aspose.cells/abstractglobalizationsettings)

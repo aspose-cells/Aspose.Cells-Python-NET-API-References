@@ -18,7 +18,7 @@ Returns or sets the width, in points, of each column in the slicer.
 
 ```python
 
-slicer.column_width = 80
+slicer.column_width = 80.0
 
 ```
 ### Definition:
@@ -32,5 +32,5 @@ def column_width(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [Slicer](/cells/python-net/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* class [`Slicer`](/cells/python-net/aspose.cells.slicers/slicer)

@@ -24,5 +24,5 @@ def auto_scale_font(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartDataTable](/cells/python-net/aspose.cells.charts/chartdatatable)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartDataTable`](/cells/python-net/aspose.cells.charts/chartdatatable)

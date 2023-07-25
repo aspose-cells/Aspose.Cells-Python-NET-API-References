@@ -8,7 +8,7 @@ url: /aspose.cells/scenarioinputcellcollection/add/
 is_root: false
 ---
 
-## add(row, column, value) {#int-int-str}
+## add {#int-int-str}
 
 Adds an input cell.
 
@@ -34,5 +34,5 @@ def add(self, row, column, value):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ScenarioInputCellCollection](/cells/python-net/aspose.cells/scenarioinputcellcollection)
+* module [`aspose.cells`](../../)
+* class [`ScenarioInputCellCollection`](/cells/python-net/aspose.cells/scenarioinputcellcollection)

@@ -19,7 +19,7 @@ The WebExtensionBinding type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [WebExtensionBinding()](/cells/python-net/aspose.cells.webextensions/webextensionbinding/__init__/#) | Constructs a new instance of WebExtensionBinding |
+| [__init__](/cells/python-net/aspose.cells.webextensions/webextensionbinding/__init__/#) | Constructs a new instance of WebExtensionBinding |
 
 
 ### Properties
@@ -32,4 +32,4 @@ The WebExtensionBinding type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.webextensions](..)
+* module [`aspose.cells.webextensions`](..)

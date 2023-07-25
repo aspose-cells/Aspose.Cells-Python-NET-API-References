@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/custom_theme/
 is_root: false
 ---
 
-## custom_theme(theme_name, colors) {#str-aspose.pydrawing.Color[]}
+## custom_theme {#str-aspose.pydrawing.Color[]}
 
 Customs the theme.
 
@@ -44,5 +44,5 @@ The length of colors should be 12.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

@@ -3,7 +3,7 @@ title: keep_unparsed_data property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.numbers/numbersloadoptions/keep_unparsed_data/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def keep_unparsed_data(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.numbers](../../)
-* class [NumbersLoadOptions](/cells/python-net/aspose.cells.numbers/numbersloadoptions)
+* module [`aspose.cells.numbers`](../../)
+* class [`NumbersLoadOptions`](/cells/python-net/aspose.cells.numbers/numbersloadoptions)

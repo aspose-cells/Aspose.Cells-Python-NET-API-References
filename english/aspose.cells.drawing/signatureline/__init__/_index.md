@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/signatureline/__init__/
 is_root: false
 ---
 
-## SignatureLine() {#}
+## __init__ {#}
 
 Constructs a new instance of SignatureLine
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [SignatureLine](/cells/python-net/aspose.cells.drawing/signatureline)
+* module [`aspose.cells.drawing`](../../)
+* class [`SignatureLine`](/cells/python-net/aspose.cells.drawing/signatureline)

@@ -20,5 +20,5 @@ def is_default_pos_be_set(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [DataLabels](/cells/python-net/aspose.cells.charts/datalabels)
+* module [`aspose.cells.charts`](../../)
+* class [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels)

@@ -11,7 +11,7 @@ is_root: false
 ## sheet_set property
 
 
-Gets or sets the sheets to render. Default is all visible sheets in the workbook: [SheetSet.visible](/cells/python-net/aspose.cells.rendering/sheetset#visible).
+Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible).
 
 ### Example 
 
@@ -41,6 +41,6 @@ def sheet_set(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PptxSaveOptions](/cells/python-net/aspose.cells/pptxsaveoptions)
-* class [SheetSet](/cells/python-net/aspose.cells.rendering/sheetset)
+* module [`aspose.cells`](../../)
+* class [`PptxSaveOptions`](/cells/python-net/aspose.cells/pptxsaveoptions)
+* class [`SheetSet`](/cells/python-net/aspose.cells.rendering/sheetset)

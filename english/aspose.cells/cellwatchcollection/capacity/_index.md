@@ -21,5 +21,5 @@ def capacity(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellWatchCollection](/cells/python-net/aspose.cells/cellwatchcollection)
+* module [`aspose.cells`](../../)
+* class [`CellWatchCollection`](/cells/python-net/aspose.cells/cellwatchcollection)

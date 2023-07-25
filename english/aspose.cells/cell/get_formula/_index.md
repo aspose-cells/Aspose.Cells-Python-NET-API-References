@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_formula/
 is_root: false
 ---
 
-## get_formula(is_r1c1, is_local) {#bool-bool}
+## get_formula {#bool-bool}
 
 Get the formula of this cell.
 
@@ -33,5 +33,5 @@ def get_formula(self, is_r1c1, is_local):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

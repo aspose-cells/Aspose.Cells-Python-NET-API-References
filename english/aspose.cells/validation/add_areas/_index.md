@@ -8,7 +8,7 @@ url: /aspose.cells/validation/add_areas/
 is_root: false
 ---
 
-## add_areas(areas, check_intersection, check_edge) {#list-bool-bool}
+## add_areas {#list-bool-bool}
 
 Applies the validation to given areas.
 
@@ -33,5 +33,5 @@ secondly its StartColumn is the smallest one of those areas who have the same sm
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Validation](/cells/python-net/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* class [`Validation`](/cells/python-net/aspose.cells/validation)

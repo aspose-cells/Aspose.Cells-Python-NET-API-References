@@ -8,7 +8,7 @@ url: /aspose.cells/filtercolumncollection/get_by_index/
 is_root: false
 ---
 
-## get_by_index(index) {#int}
+## get_by_index {#int}
 
 Returns a single Filter object from a collection.
 
@@ -27,5 +27,5 @@ def get_by_index(self, index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FilterColumnCollection](/cells/python-net/aspose.cells/filtercolumncollection)
+* module [`aspose.cells`](../../)
+* class [`FilterColumnCollection`](/cells/python-net/aspose.cells/filtercolumncollection)

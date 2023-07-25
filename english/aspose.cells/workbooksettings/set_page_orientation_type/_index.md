@@ -8,7 +8,7 @@ url: /aspose.cells/workbooksettings/set_page_orientation_type/
 is_root: false
 ---
 
-## set_page_orientation_type(page_orientation_type) {#PageOrientationType}
+## set_page_orientation_type {#aspose.cells.PageOrientationType}
 
 Set the type of  print orientation for the whole workbook.
 
@@ -22,11 +22,10 @@ def set_page_orientation_type(self, page_orientation_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| page_orientation_type | [PageOrientationType](/cells/python-net/aspose.cells/pageorientationtype) | The [PageOrientationType](/cells/python-net/aspose.cells/pageorientationtype) |
+| page_orientation_type | [`PageOrientationType`](/cells/python-net/aspose.cells/pageorientationtype) | The page orientation type |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageOrientationType](/cells/python-net/aspose.cells/pageorientationtype)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

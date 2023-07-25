@@ -3,7 +3,7 @@ title: parsing_formula_on_open property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /aspose.cells/loadoptions/parsing_formula_on_open/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def parsing_formula_on_open(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LoadOptions](/cells/python-net/aspose.cells/loadoptions)
+* module [`aspose.cells`](../../)
+* class [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions)

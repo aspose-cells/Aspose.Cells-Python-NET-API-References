@@ -3,7 +3,7 @@ title: RevisionHeader class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells.revisions/revisionheader/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The RevisionHeader type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [RevisionHeader()](/cells/python-net/aspose.cells.revisions/revisionheader/__init__/#) | Constructs a new instance of RevisionHeader |
+| [__init__](/cells/python-net/aspose.cells.revisions/revisionheader/__init__/#) | Constructs a new instance of RevisionHeader |
 
 
 ### Properties
@@ -31,4 +31,4 @@ The RevisionHeader type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
+* module [`aspose.cells.revisions`](..)

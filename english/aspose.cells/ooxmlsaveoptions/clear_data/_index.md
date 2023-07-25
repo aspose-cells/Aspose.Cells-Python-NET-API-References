@@ -23,5 +23,5 @@ def clear_data(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [OoxmlSaveOptions](/cells/python-net/aspose.cells/ooxmlsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`OoxmlSaveOptions`](/cells/python-net/aspose.cells/ooxmlsaveoptions)

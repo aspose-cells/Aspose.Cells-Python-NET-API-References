@@ -3,7 +3,7 @@ title: HtmlCrossType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2140
+weight: 2190
 url: /aspose.cells/htmlcrosstype/
 is_root: false
 ---
@@ -28,4 +28,4 @@ The HtmlCrossType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

@@ -8,7 +8,7 @@ url: /aspose.cells/autofilter/add_filter/
 is_root: false
 ---
 
-## add_filter(field_index, criteria) {#int-str}
+## add_filter {#int-str}
 
 Adds a filter for a filter column.
 
@@ -30,5 +30,5 @@ MS Excel 2007 supports multiple selection in a filter column.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFilter](/cells/python-net/aspose.cells/autofilter)
+* module [`aspose.cells`](../../)
+* class [`AutoFilter`](/cells/python-net/aspose.cells/autofilter)

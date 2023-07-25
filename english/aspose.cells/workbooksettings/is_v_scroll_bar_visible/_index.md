@@ -40,5 +40,5 @@ def is_v_scroll_bar_visible(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

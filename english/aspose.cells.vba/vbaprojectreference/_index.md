@@ -30,7 +30,7 @@ The VbaProjectReference type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [copy(source)](/cells/python-net/aspose.cells.vba/vbaprojectreference/copy/#VbaProjectReference) |  |
+| [copy](/cells/python-net/aspose.cells.vba/vbaprojectreference/copy/#aspose.cells.vba.VbaProjectReference) |  |
 
 
 
@@ -52,4 +52,4 @@ workbook.save("book1.xlsm")
 ```
 
 ### See Also
-* module [aspose.cells.vba](..)
+* module [`aspose.cells.vba`](..)

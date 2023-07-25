@@ -3,7 +3,7 @@ title: is_text_wrapped property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 640
+weight: 650
 url: /aspose.cells.drawing/textbox/is_text_wrapped/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Gets and sets the text wrapped type of the shape which contains text.
 ```python
 
 if shape.is_text_wrapped:
-    shape.is_text_wrapped = !shape.is_text_wrapped
+    shape.is_text_wrapped = notshape.is_text_wrapped
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def is_text_wrapped(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextBox](/cells/python-net/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

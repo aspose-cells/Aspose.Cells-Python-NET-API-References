@@ -23,5 +23,5 @@ def color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataBarBorder](/cells/python-net/aspose.cells/databarborder)
+* module [`aspose.cells`](../../)
+* class [`DataBarBorder`](/cells/python-net/aspose.cells/databarborder)

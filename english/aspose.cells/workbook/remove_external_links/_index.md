@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/remove_external_links/
 is_root: false
 ---
 
-## remove_external_links() {#}
+## remove_external_links {#}
 
 Removes all external links in the workbook.
 
@@ -29,5 +29,5 @@ Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

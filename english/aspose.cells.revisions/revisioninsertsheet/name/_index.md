@@ -20,5 +20,5 @@ def name(self):
 ```
 
 ### See Also
-* module [aspose.cells.revisions](../../)
-* class [RevisionInsertSheet](/cells/python-net/aspose.cells.revisions/revisioninsertsheet)
+* module [`aspose.cells.revisions`](../../)
+* class [`RevisionInsertSheet`](/cells/python-net/aspose.cells.revisions/revisioninsertsheet)

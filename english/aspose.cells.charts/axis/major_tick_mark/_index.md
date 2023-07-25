@@ -23,6 +23,6 @@ def major_tick_mark(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Axis](/cells/python-net/aspose.cells.charts/axis)
-* class [TickMarkType](/cells/python-net/aspose.cells.charts/tickmarktype)
+* module [`aspose.cells.charts`](../../)
+* class [`Axis`](/cells/python-net/aspose.cells.charts/axis)
+* class [`TickMarkType`](/cells/python-net/aspose.cells.charts/tickmarktype)

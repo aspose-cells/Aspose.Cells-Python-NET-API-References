@@ -3,12 +3,12 @@ title: set_background method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /aspose.cells/worksheet/set_background/
 is_root: false
 ---
 
-## set_background(picture_data) {#bytes}
+## set_background {#bytes}
 
 Sets worksheet background image.
 
@@ -32,5 +32,5 @@ Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

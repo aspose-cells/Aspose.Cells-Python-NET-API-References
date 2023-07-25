@@ -8,7 +8,7 @@ url: /aspose.cells/autofitteroptions/__init__/
 is_root: false
 ---
 
-## AutoFitterOptions() {#}
+## __init__ {#}
 
 Constructs a new instance of AutoFitterOptions
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFitterOptions](/cells/python-net/aspose.cells/autofitteroptions)
+* module [`aspose.cells`](../../)
+* class [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions)

@@ -20,5 +20,5 @@ def connection_id(self):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [DBConnection](/cells/python-net/aspose.cells.externalconnections/dbconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`DBConnection`](/cells/python-net/aspose.cells.externalconnections/dbconnection)

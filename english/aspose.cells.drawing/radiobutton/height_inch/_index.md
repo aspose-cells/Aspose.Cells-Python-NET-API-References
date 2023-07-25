@@ -3,7 +3,7 @@ title: height_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /aspose.cells.drawing/radiobutton/height_inch/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Represents the height of the shape, in unit of inches.
 ```python
 
 if shape.height_inch == 3:
-    shape.height_inch = 1
+    shape.height_inch = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def height_inch(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

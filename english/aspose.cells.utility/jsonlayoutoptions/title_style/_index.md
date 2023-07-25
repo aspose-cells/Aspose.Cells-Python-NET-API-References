@@ -23,6 +23,6 @@ def title_style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.utility](../../)
-* class [JsonLayoutOptions](/cells/python-net/aspose.cells.utility/jsonlayoutoptions)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells.utility`](../../)
+* class [`JsonLayoutOptions`](/cells/python-net/aspose.cells.utility/jsonlayoutoptions)
+* class [`Style`](/cells/python-net/aspose.cells/style)

@@ -23,6 +23,6 @@ def type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Validation](/cells/python-net/aspose.cells/validation)
-* class [ValidationType](/cells/python-net/aspose.cells/validationtype)
+* module [`aspose.cells`](../../)
+* class [`Validation`](/cells/python-net/aspose.cells/validation)
+* class [`ValidationType`](/cells/python-net/aspose.cells/validationtype)

@@ -28,5 +28,5 @@ def extended_libid(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.vba](../../)
-* class [VbaProjectReference](/cells/python-net/aspose.cells.vba/vbaprojectreference)
+* module [`aspose.cells.vba`](../../)
+* class [`VbaProjectReference`](/cells/python-net/aspose.cells.vba/vbaprojectreference)

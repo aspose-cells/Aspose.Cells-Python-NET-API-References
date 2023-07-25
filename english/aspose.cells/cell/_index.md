@@ -38,9 +38,9 @@ The Cell type exposes the following members:
 | [bool_value](/cells/python-net/aspose.cells/cell/bool_value) | Gets the boolean value contained in the cell. |
 | [has_custom_style](/cells/python-net/aspose.cells/cell/has_custom_style) | Indicates whether this cell has custom style settings(different from the default one inherited<br/>from corresponding row, column, or workbook). |
 | [shared_style_index](/cells/python-net/aspose.cells/cell/shared_style_index) | Gets cell's shared style index in the style pool. |
-| [formula](/cells/python-net/aspose.cells/cell/formula) | Gets or sets a formula of the [Cell](/cells/python-net/aspose.cells/cell). |
+| [formula](/cells/python-net/aspose.cells/cell/formula) | Gets or sets a formula of the [`Cell`](/cells/python-net/aspose.cells/cell). |
 | [formula_local](/cells/python-net/aspose.cells/cell/formula_local) | Get the locale formatted formula of the cell. |
-| [r1c1_formula](/cells/python-net/aspose.cells/cell/r1c1_formula) | Gets or sets a R1C1 formula of the [Cell](/cells/python-net/aspose.cells/cell). |
+| [r1c1_formula](/cells/python-net/aspose.cells/cell/r1c1_formula) | Gets or sets a R1C1 formula of the [`Cell`](/cells/python-net/aspose.cells/cell). |
 | [contains_external_link](/cells/python-net/aspose.cells/cell/contains_external_link) | Indicates whether this cell contains an external link.<br/>Only applies when the cell is a formula cell. |
 | [is_array_header](/cells/python-net/aspose.cells/cell/is_array_header) | Indicates the cell's formula is and array formula <br/>and it is the first cell of the array. |
 | [is_dynamic_array_formula](/cells/python-net/aspose.cells/cell/is_dynamic_array_formula) | Indicates whether the cell's formula is dynamic array formula(true) or legacy array formula(false). |
@@ -59,68 +59,68 @@ The Cell type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [calculate(options)](/cells/python-net/aspose.cells/cell/calculate/#CalculationOptions) | Calculates the formula of the cell. |
-| [calculate(ignore_error, custom_function)](/cells/python-net/aspose.cells/cell/calculate/#bool-ICustomFunction) | Calculates the formula of the cell. |
-| [put_value(bool_value)](/cells/python-net/aspose.cells/cell/put_value/#bool) | Puts a boolean value into the cell. |
-| [put_value(int_value)](/cells/python-net/aspose.cells/cell/put_value/#int) | Puts an integer value into the cell. |
-| [put_value(double_value)](/cells/python-net/aspose.cells/cell/put_value/#float) | Puts a double value into the cell. |
-| [put_value(string_value, is_converted, set_style)](/cells/python-net/aspose.cells/cell/put_value/#str-bool-bool) | Puts a value into the cell, if appropriate the value will be converted to other data type and cell's number format will be reset. |
-| [put_value(string_value, is_converted)](/cells/python-net/aspose.cells/cell/put_value/#str-bool) | Puts a string value into the cell and converts the value to other data type if appropriate. |
-| [put_value(string_value)](/cells/python-net/aspose.cells/cell/put_value/#str) | Puts a string value into the cell. |
-| [put_value(date_time)](/cells/python-net/aspose.cells/cell/put_value/#DateTime) | Puts a DateTime value into the cell. |
-| [put_value(object_value)](/cells/python-net/aspose.cells/cell/put_value/#any) | Puts an object value into the cell. |
-| [get_display_style()](/cells/python-net/aspose.cells/cell/get_display_style/#) | Gets the display style of the cell.<br/>If this cell is also affected by other settings such as conditional formatting, list objects, etc.,<br/>then the display style may be different from cell.GetStyle(). |
-| [get_display_style(include_merged_borders)](/cells/python-net/aspose.cells/cell/get_display_style/#bool) | Gets the display style of the cell.<br/>If the cell is conditional formatted, the display style is not same as the cell.GetStyle(). |
-| [get_style()](/cells/python-net/aspose.cells/cell/get_style/#) | Gets the cell style. |
-| [get_style(check_borders)](/cells/python-net/aspose.cells/cell/get_style/#bool) | If checkBorders is true, check whether other cells' borders will effect the style of this cell. |
-| [set_style(style)](/cells/python-net/aspose.cells/cell/set_style/#Style) | Sets the cell style. |
-| [set_style(style, explicit_flag)](/cells/python-net/aspose.cells/cell/set_style/#Style-bool) | Apply the cell style. |
-| [set_style(style, flag)](/cells/python-net/aspose.cells/cell/set_style/#Style-StyleFlag) | Apply the cell style. |
-| [set_formula(formula, value)](/cells/python-net/aspose.cells/cell/set_formula/#str-any) | Set the formula and the value of the formula. |
-| [set_formula(formula, is_r1c1, is_local, value)](/cells/python-net/aspose.cells/cell/set_formula/#str-bool-bool-any) | Set the formula and the value of the formula. |
-| [set_formula(formula, options, value)](/cells/python-net/aspose.cells/cell/set_formula/#str-FormulaParseOptions-any) | Set the formula and the value of the formula. |
-| [set_array_formula(array_formula, row_number, column_number, is_r1c1, is_local)](/cells/python-net/aspose.cells/cell/set_array_formula/#str-int-int-bool-bool) | Sets an array formula to a range of cells. |
-| [set_array_formula(array_formula, row_number, column_number)](/cells/python-net/aspose.cells/cell/set_array_formula/#str-int-int) | Sets an array formula(legacy array formula entered via CTRL+SHIFT+ENTER in ms excel) to a range of cells. |
-| [set_array_formula(array_formula, row_number, column_number, options)](/cells/python-net/aspose.cells/cell/set_array_formula/#str-int-int-FormulaParseOptions) | Sets an array formula to a range of cells. |
-| [set_array_formula(array_formula, row_number, column_number, options, values)](/cells/python-net/aspose.cells/cell/set_array_formula/#str-int-int-FormulaParseOptions-list) | Sets an array formula to a range of cells. |
-| [set_shared_formula(shared_formula, row_number, column_number, is_r1c1, is_local)](/cells/python-net/aspose.cells/cell/set_shared_formula/#str-int-int-bool-bool) | Sets a formula to a range of cells. |
-| [set_shared_formula(shared_formula, row_number, column_number)](/cells/python-net/aspose.cells/cell/set_shared_formula/#str-int-int) | Sets shared formulas to a range of cells. |
-| [set_shared_formula(shared_formula, row_number, column_number, options)](/cells/python-net/aspose.cells/cell/set_shared_formula/#str-int-int-FormulaParseOptions) | Sets shared formulas to a range of cells. |
-| [set_shared_formula(shared_formula, row_number, column_number, options, values)](/cells/python-net/aspose.cells/cell/set_shared_formula/#str-int-int-FormulaParseOptions-list) | Sets shared formulas to a range of cells. |
-| [get_leafs()](/cells/python-net/aspose.cells/cell/get_leafs/#) | Get all cells which reference to this cell directly and need to be updated when this cell is modified. |
-| [get_leafs(recursive)](/cells/python-net/aspose.cells/cell/get_leafs/#bool) | Get all cells which will be updated when this cell is modified. |
-| [set_dynamic_array_formula(array_formula, options, calculate_value)](/cells/python-net/aspose.cells/cell/set_dynamic_array_formula/#str-FormulaParseOptions-bool) | Sets dynamic array formula and make the formula spill into neighboring cells if possible. |
-| [set_dynamic_array_formula(array_formula, options, values, calculate_range, calculate_value)](/cells/python-net/aspose.cells/cell/set_dynamic_array_formula/#str-FormulaParseOptions-list-bool-bool) | Sets dynamic array formula and make the formula spill into neighboring cells if possible. |
-| [set_dynamic_array_formula(array_formula, options, values, calculate_range, calculate_value, copts)](/cells/python-net/aspose.cells/cell/set_dynamic_array_formula/#str-FormulaParseOptions-list-bool-bool-CalculationOptions) | Sets dynamic array formula and make the formula spill into neighboring cells if possible. |
-| [set_table_formula(row_number, column_number, row_input_cell, column_input_cell, values)](/cells/python-net/aspose.cells/cell/set_table_formula/#int-int-str-str-list) | Create two-variable data table for given range starting from this cell. |
-| [set_table_formula(row_number, column_number, input_cell, is_row_input, values)](/cells/python-net/aspose.cells/cell/set_table_formula/#int-int-str-bool-list) | Create one-variable data table for given range starting from this cell. |
-| [set_table_formula(row_number, column_number, row_index_of_row_input_cell, column_index_of_row_input_cell, row_index_of_column_input_cell, column_index_of_column_input_cell, values)](/cells/python-net/aspose.cells/cell/set_table_formula/#int-int-int-int-int-int-list) | Create two-variable data table for given range starting from this cell. |
-| [set_table_formula(row_number, column_number, row_index_of_input_cell, column_index_of_input_cell, is_row_input, values)](/cells/python-net/aspose.cells/cell/set_table_formula/#int-int-int-int-bool-list) | Create one-variable data table for given range starting from this cell. |
-| [get_characters()](/cells/python-net/aspose.cells/cell/get_characters/#) | Returns all Characters objects <br/>that represents a range of characters within the cell text. |
-| [get_characters(flag)](/cells/python-net/aspose.cells/cell/get_characters/#bool) | Returns all Characters objects <br/>that represents a range of characters within the cell text. |
-| [get_string_value(format_strategy)](/cells/python-net/aspose.cells/cell/get_string_value/#CellValueFormatStrategy) | Gets the string value by specific formatted strategy. |
-| [get_width_of_value()](/cells/python-net/aspose.cells/cell/get_width_of_value/#) | Gets the width of the value in unit of pixels. |
-| [get_height_of_value()](/cells/python-net/aspose.cells/cell/get_height_of_value/#) | Gets the height of the value in unit of pixels. |
-| [get_format_conditions()](/cells/python-net/aspose.cells/cell/get_format_conditions/#) | Gets format conditions which applies to this cell. |
-| [get_formula(is_r1c1, is_local)](/cells/python-net/aspose.cells/cell/get_formula/#bool-bool) | Get the formula of this cell. |
-| [get_precedents()](/cells/python-net/aspose.cells/cell/get_precedents/#) | Gets all references appearing in this cell's formula. |
-| [get_dependents(is_all)](/cells/python-net/aspose.cells/cell/get_dependents/#bool) | Get all cells whose formula references to this cell directly. |
-| [get_precedents_in_calculation()](/cells/python-net/aspose.cells/cell/get_precedents_in_calculation/#) | Gets all precedents(reference to cells in current workbook) used by this cell's formula while calculating it. |
-| [get_dependents_in_calculation(recursive)](/cells/python-net/aspose.cells/cell/get_dependents_in_calculation/#bool) | Gets all cells whose calculated result depends on this cell. |
-| [get_array_range()](/cells/python-net/aspose.cells/cell/get_array_range/#) | Gets the array range if the cell's formula is an array formula. |
-| [remove_array_formula(leave_normal_formula)](/cells/python-net/aspose.cells/cell/remove_array_formula/#bool) | Remove array formula. |
-| [copy(cell)](/cells/python-net/aspose.cells/cell/copy/#Cell) | Copies data from a source cell. |
-| [characters(start_index, length)](/cells/python-net/aspose.cells/cell/characters/#int-int) | Returns a Characters object that represents a range of characters within the cell text. |
-| [is_rich_text()](/cells/python-net/aspose.cells/cell/is_rich_text/#) | Indicates whether the cell string value is a rich text. |
-| [set_characters(characters)](/cells/python-net/aspose.cells/cell/set_characters/#list) | Sets rich text format of the cell. |
-| [get_merged_range()](/cells/python-net/aspose.cells/cell/get_merged_range/#) | Returns a [Range](/cells/python-net/aspose.cells/range) object which represents a merged range. |
-| [get_html_string(html5)](/cells/python-net/aspose.cells/cell/get_html_string/#bool) | Gets the html string which contains data and some formats in this cell. |
-| [to_json()](/cells/python-net/aspose.cells/cell/to_json/#) | Convert [Cell](/cells/python-net/aspose.cells/cell) to JSON struct data. |
-| [equals(cell)](/cells/python-net/aspose.cells/cell/equals/#Cell) | Checks whether this object refers to the same cell with another cell object. |
-| [get_conditional_formatting_result()](/cells/python-net/aspose.cells/cell/get_conditional_formatting_result/#) | Get the result of the conditional formatting. |
-| [get_validation()](/cells/python-net/aspose.cells/cell/get_validation/#) | Gets the validation applied to this cell. |
-| [get_validation_value()](/cells/python-net/aspose.cells/cell/get_validation_value/#) | Gets the value of validation which applied to this cell. |
-| [get_table()](/cells/python-net/aspose.cells/cell/get_table/#) | Gets the table which contains this cell. |
+| [calculate](/cells/python-net/aspose.cells/cell/calculate/#aspose.cells.CalculationOptions) | Calculates the formula of the cell. |
+| [calculate](/cells/python-net/aspose.cells/cell/calculate/#bool-aspose.cells.ICustomFunction) | Calculates the formula of the cell. |
+| [put_value](/cells/python-net/aspose.cells/cell/put_value/#bool) | Puts a boolean value into the cell. |
+| [put_value](/cells/python-net/aspose.cells/cell/put_value/#int) | Puts an integer value into the cell. |
+| [put_value](/cells/python-net/aspose.cells/cell/put_value/#float) | Puts a double value into the cell. |
+| [put_value](/cells/python-net/aspose.cells/cell/put_value/#str-bool-bool) | Puts a value into the cell, if appropriate the value will be converted to other data type and cell's number format will be reset. |
+| [put_value](/cells/python-net/aspose.cells/cell/put_value/#str-bool) | Puts a string value into the cell and converts the value to other data type if appropriate. |
+| [put_value](/cells/python-net/aspose.cells/cell/put_value/#str) | Puts a string value into the cell. |
+| [put_value](/cells/python-net/aspose.cells/cell/put_value/#DateTime) | Puts a DateTime value into the cell. |
+| [put_value](/cells/python-net/aspose.cells/cell/put_value/#any) | Puts an object value into the cell. |
+| [get_display_style](/cells/python-net/aspose.cells/cell/get_display_style/#) | Gets the display style of the cell.<br/>If this cell is also affected by other settings such as conditional formatting, list objects, etc.,<br/>then the display style may be different from cell.GetStyle(). |
+| [get_display_style](/cells/python-net/aspose.cells/cell/get_display_style/#bool) | Gets the display style of the cell.<br/>If the cell is conditional formatted, the display style is not same as the cell.GetStyle(). |
+| [get_style](/cells/python-net/aspose.cells/cell/get_style/#) | Gets the cell style. |
+| [get_style](/cells/python-net/aspose.cells/cell/get_style/#bool) | If checkBorders is true, check whether other cells' borders will effect the style of this cell. |
+| [set_style](/cells/python-net/aspose.cells/cell/set_style/#aspose.cells.Style) | Sets the cell style. |
+| [set_style](/cells/python-net/aspose.cells/cell/set_style/#aspose.cells.Style-bool) | Apply the cell style. |
+| [set_style](/cells/python-net/aspose.cells/cell/set_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Apply the cell style. |
+| [set_formula](/cells/python-net/aspose.cells/cell/set_formula/#str-any) | Set the formula and the value(calculated result) of the formula. |
+| [set_formula](/cells/python-net/aspose.cells/cell/set_formula/#str-bool-bool-any) | Set the formula and the value of the formula. |
+| [set_formula](/cells/python-net/aspose.cells/cell/set_formula/#str-aspose.cells.FormulaParseOptions-any) | Set the formula and the value(calculated result) of the formula. |
+| [set_array_formula](/cells/python-net/aspose.cells/cell/set_array_formula/#str-int-int-bool-bool) | Sets an array formula to a range of cells. |
+| [set_array_formula](/cells/python-net/aspose.cells/cell/set_array_formula/#str-int-int) | Sets an array formula(legacy array formula entered via CTRL+SHIFT+ENTER in ms excel) to a range of cells. |
+| [set_array_formula](/cells/python-net/aspose.cells/cell/set_array_formula/#str-int-int-aspose.cells.FormulaParseOptions) | Sets an array formula to a range of cells. |
+| [set_array_formula](/cells/python-net/aspose.cells/cell/set_array_formula/#str-int-int-aspose.cells.FormulaParseOptions-list) | Sets an array formula to a range of cells. |
+| [set_shared_formula](/cells/python-net/aspose.cells/cell/set_shared_formula/#str-int-int-bool-bool) | Sets a formula to a range of cells. |
+| [set_shared_formula](/cells/python-net/aspose.cells/cell/set_shared_formula/#str-int-int) | Sets shared formulas to a range of cells. |
+| [set_shared_formula](/cells/python-net/aspose.cells/cell/set_shared_formula/#str-int-int-aspose.cells.FormulaParseOptions) | Sets shared formulas to a range of cells. |
+| [set_shared_formula](/cells/python-net/aspose.cells/cell/set_shared_formula/#str-int-int-aspose.cells.FormulaParseOptions-list) | Sets shared formulas to a range of cells. |
+| [get_leafs](/cells/python-net/aspose.cells/cell/get_leafs/#) | Get all cells which reference to this cell directly and need to be updated when this cell is modified. |
+| [get_leafs](/cells/python-net/aspose.cells/cell/get_leafs/#bool) | Get all cells which will be updated when this cell is modified. |
+| [set_dynamic_array_formula](/cells/python-net/aspose.cells/cell/set_dynamic_array_formula/#str-aspose.cells.FormulaParseOptions-bool) | Sets dynamic array formula and make the formula spill into neighboring cells if possible. |
+| [set_dynamic_array_formula](/cells/python-net/aspose.cells/cell/set_dynamic_array_formula/#str-aspose.cells.FormulaParseOptions-list-bool-bool) | Sets dynamic array formula and make the formula spill into neighboring cells if possible. |
+| [set_dynamic_array_formula](/cells/python-net/aspose.cells/cell/set_dynamic_array_formula/#str-aspose.cells.FormulaParseOptions-list-bool-bool-aspose.cells.CalculationOptions) | Sets dynamic array formula and make the formula spill into neighboring cells if possible. |
+| [set_table_formula](/cells/python-net/aspose.cells/cell/set_table_formula/#int-int-str-str-list) | Create two-variable data table for given range starting from this cell. |
+| [set_table_formula](/cells/python-net/aspose.cells/cell/set_table_formula/#int-int-str-bool-list) | Create one-variable data table for given range starting from this cell. |
+| [set_table_formula](/cells/python-net/aspose.cells/cell/set_table_formula/#int-int-int-int-int-int-list) | Create two-variable data table for given range starting from this cell. |
+| [set_table_formula](/cells/python-net/aspose.cells/cell/set_table_formula/#int-int-int-int-bool-list) | Create one-variable data table for given range starting from this cell. |
+| [get_characters](/cells/python-net/aspose.cells/cell/get_characters/#) | Returns all Characters objects <br/>that represents a range of characters within the cell text. |
+| [get_characters](/cells/python-net/aspose.cells/cell/get_characters/#bool) | Returns all Characters objects <br/>that represents a range of characters within the cell text. |
+| [get_string_value](/cells/python-net/aspose.cells/cell/get_string_value/#aspose.cells.CellValueFormatStrategy) | Gets the string value by specific formatted strategy. |
+| [get_width_of_value](/cells/python-net/aspose.cells/cell/get_width_of_value/#) | Gets the width of the value in unit of pixels. |
+| [get_height_of_value](/cells/python-net/aspose.cells/cell/get_height_of_value/#) | Gets the height of the value in unit of pixels. |
+| [get_format_conditions](/cells/python-net/aspose.cells/cell/get_format_conditions/#) | Gets format conditions which applies to this cell. |
+| [get_formula](/cells/python-net/aspose.cells/cell/get_formula/#bool-bool) | Get the formula of this cell. |
+| [get_precedents](/cells/python-net/aspose.cells/cell/get_precedents/#) | Gets all references appearing in this cell's formula. |
+| [get_dependents](/cells/python-net/aspose.cells/cell/get_dependents/#bool) | Get all cells whose formula references to this cell directly. |
+| [get_precedents_in_calculation](/cells/python-net/aspose.cells/cell/get_precedents_in_calculation/#) | Gets all precedents(reference to cells in current workbook) used by this cell's formula while calculating it. |
+| [get_dependents_in_calculation](/cells/python-net/aspose.cells/cell/get_dependents_in_calculation/#bool) | Gets all cells whose calculated result depends on this cell. |
+| [get_array_range](/cells/python-net/aspose.cells/cell/get_array_range/#) | Gets the array range if the cell's formula is an array formula. |
+| [remove_array_formula](/cells/python-net/aspose.cells/cell/remove_array_formula/#bool) | Remove array formula. |
+| [copy](/cells/python-net/aspose.cells/cell/copy/#aspose.cells.Cell) | Copies data from a source cell. |
+| [characters](/cells/python-net/aspose.cells/cell/characters/#int-int) | Returns a Characters object that represents a range of characters within the cell text. |
+| [is_rich_text](/cells/python-net/aspose.cells/cell/is_rich_text/#) | Indicates whether the cell string value is a rich text. |
+| [set_characters](/cells/python-net/aspose.cells/cell/set_characters/#list) | Sets rich text format of the cell. |
+| [get_merged_range](/cells/python-net/aspose.cells/cell/get_merged_range/#) | Returns a [`Range`](/cells/python-net/aspose.cells/range) object which represents a merged range. |
+| [get_html_string](/cells/python-net/aspose.cells/cell/get_html_string/#bool) | Gets the html string which contains data and some formats in this cell. |
+| [to_json](/cells/python-net/aspose.cells/cell/to_json/#) | Convert [`Cell`](/cells/python-net/aspose.cells/cell) to JSON struct data. |
+| [equals](/cells/python-net/aspose.cells/cell/equals/#aspose.cells.Cell) | Checks whether this object refers to the same cell with another cell object. |
+| [get_conditional_formatting_result](/cells/python-net/aspose.cells/cell/get_conditional_formatting_result/#) | Get the result of the conditional formatting. |
+| [get_validation](/cells/python-net/aspose.cells/cell/get_validation/#) | Gets the validation applied to this cell. |
+| [get_validation_value](/cells/python-net/aspose.cells/cell/get_validation_value/#) | Gets the value of validation which applied to this cell. |
+| [get_table](/cells/python-net/aspose.cells/cell/get_table/#) | Gets the table which contains this cell. |
 
 
 
@@ -163,6 +163,6 @@ cell.set_style(style)
 ```
 
 ### See Also
-* module [aspose.cells](..)
-* class [Cell](/cells/python-net/aspose.cells/cell)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](..)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`Range`](/cells/python-net/aspose.cells/range)

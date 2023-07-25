@@ -23,5 +23,5 @@ def icon_id(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IconFilter](/cells/python-net/aspose.cells/iconfilter)
+* module [`aspose.cells`](../../)
+* class [`IconFilter`](/cells/python-net/aspose.cells/iconfilter)

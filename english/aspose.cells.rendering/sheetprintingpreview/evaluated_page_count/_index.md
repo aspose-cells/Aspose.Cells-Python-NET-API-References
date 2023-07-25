@@ -36,5 +36,5 @@ def evaluated_page_count(self):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [SheetPrintingPreview](/cells/python-net/aspose.cells.rendering/sheetprintingpreview)
+* module [`aspose.cells.rendering`](../../)
+* class [`SheetPrintingPreview`](/cells/python-net/aspose.cells.rendering/sheetprintingpreview)

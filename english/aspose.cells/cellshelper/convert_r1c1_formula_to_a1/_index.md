@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/convert_r1c1_formula_to_a1/
 is_root: false
 ---
 
-## convert_r1c1_formula_to_a1(r_1c1_formula, row, column) {#str-int-int}
+## convert_r1c1_formula_to_a1 {#str-int-int}
 
 Converts the r1c1 formula of the cell to A1 formula.
 
@@ -34,5 +34,5 @@ def convert_r1c1_formula_to_a1(self, r_1c1_formula, row, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellsHelper](/cells/python-net/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* class [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper)

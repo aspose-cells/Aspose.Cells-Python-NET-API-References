@@ -8,7 +8,7 @@ url: /aspose.cells/cells/copy_row/
 is_root: false
 ---
 
-## copy_row(source_cells, source_row_index, destination_row_index) {#Cells-int-int}
+## copy_row {#aspose.cells.Cells-int-int}
 
 Copies data and formats of a whole row.
 
@@ -22,12 +22,12 @@ def copy_row(self, source_cells, source_row_index, destination_row_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_cells | [Cells](/cells/python-net/aspose.cells/cells) | Source Cells object contains data and formats to copy. |
+| source_cells | [`Cells`](/cells/python-net/aspose.cells/cells) | Source Cells object contains data and formats to copy. |
 | source_row_index | int | Source row index. |
 | destination_row_index | int | Destination row index. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

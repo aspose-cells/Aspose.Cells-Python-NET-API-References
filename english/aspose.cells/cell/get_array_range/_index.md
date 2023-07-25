@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_array_range/
 is_root: false
 ---
 
-## get_array_range() {#}
+## get_array_range {#}
 
 Gets the array range if the cell's formula is an array formula.
 
@@ -31,5 +31,5 @@ Only applies when the cell's formula is an array formula
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

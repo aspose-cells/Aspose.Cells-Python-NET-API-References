@@ -34,6 +34,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextOverflowType](/cells/python-net/aspose.cells.drawing/textoverflowtype)
-* class [WebExtensionShape](/cells/python-net/aspose.cells.drawing/webextensionshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextOverflowType`](/cells/python-net/aspose.cells.drawing/textoverflowtype)
+* class [`WebExtensionShape`](/cells/python-net/aspose.cells.drawing/webextensionshape)

@@ -8,7 +8,7 @@ url: /aspose.cells/referredarea/get_values/
 is_root: false
 ---
 
-## get_values() {#}
+## get_values {#}
 
 Gets cell values in this area.
 
@@ -29,7 +29,7 @@ def get_values(self):
 
 
 
-## get_values(calculate_formulas) {#bool}
+## get_values {#bool}
 
 Gets cell values in this area.
 
@@ -55,5 +55,5 @@ def get_values(self, calculate_formulas):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ReferredArea](/cells/python-net/aspose.cells/referredarea)
+* module [`aspose.cells`](../../)
+* class [`ReferredArea`](/cells/python-net/aspose.cells/referredarea)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapeguidecollection/add/
 is_root: false
 ---
 
-## add(name, val) {#str-float}
+## add {#str-float}
 
 Adds a shape guide.(Important: This feature is currently only available for Excel07 and above)
 
@@ -28,5 +28,5 @@ def add(self, name, val):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeGuideCollection](/cells/python-net/aspose.cells.drawing/shapeguidecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeGuideCollection`](/cells/python-net/aspose.cells.drawing/shapeguidecollection)

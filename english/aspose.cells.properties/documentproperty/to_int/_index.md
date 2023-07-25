@@ -8,7 +8,7 @@ url: /aspose.cells.properties/documentproperty/to_int/
 is_root: false
 ---
 
-## to_int() {#}
+## to_int {#}
 
 Returns the property value as integer.
 
@@ -26,5 +26,5 @@ Throws an exception if the property type is not PropertyType.Number.
 
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [DocumentProperty](/cells/python-net/aspose.cells.properties/documentproperty)
+* module [`aspose.cells.properties`](../../)
+* class [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty)

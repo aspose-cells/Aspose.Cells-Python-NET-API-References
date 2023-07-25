@@ -3,12 +3,12 @@ title: add_rectangle method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells.drawing/shapecollection/add_rectangle/
 is_root: false
 ---
 
-## add_rectangle(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+## add_rectangle {#int-int-int-int-int-int}
 
 Adds a RectangleShape to the worksheet.
 
@@ -47,5 +47,5 @@ rectangleShape = shapes.add_rectangle(2, 0, 2, 0, 130, 130)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

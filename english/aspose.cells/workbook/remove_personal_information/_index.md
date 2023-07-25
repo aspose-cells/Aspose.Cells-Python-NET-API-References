@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/remove_personal_information/
 is_root: false
 ---
 
-## remove_personal_information() {#}
+## remove_personal_information {#}
 
 Removes personal information.
 
@@ -24,5 +24,5 @@ def remove_personal_information(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

@@ -3,7 +3,7 @@ title: range property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 110
 url: /aspose.cells.tables/listcolumn/range/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def range(self):
 ```
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [ListColumn](/cells/python-net/aspose.cells.tables/listcolumn)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells.tables`](../../)
+* class [`ListColumn`](/cells/python-net/aspose.cells.tables/listcolumn)
+* class [`Range`](/cells/python-net/aspose.cells/range)

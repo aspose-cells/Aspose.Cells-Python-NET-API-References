@@ -3,7 +3,7 @@ title: RevisionLog class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells.revisions/revisionlog/
 is_root: false
 ---
@@ -25,4 +25,4 @@ The RevisionLog type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.revisions](..)
+* module [`aspose.cells.revisions`](..)

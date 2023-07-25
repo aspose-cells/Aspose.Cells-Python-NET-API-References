@@ -8,7 +8,7 @@ url: /aspose.cells.properties/customproperty/__init__/
 is_root: false
 ---
 
-## CustomProperty() {#}
+## __init__ {#}
 
 Constructs a new instance of CustomProperty
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [CustomProperty](/cells/python-net/aspose.cells.properties/customproperty)
+* module [`aspose.cells.properties`](../../)
+* class [`CustomProperty`](/cells/python-net/aspose.cells.properties/customproperty)

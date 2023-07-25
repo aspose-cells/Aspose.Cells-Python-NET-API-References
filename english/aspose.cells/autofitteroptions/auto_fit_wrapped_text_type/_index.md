@@ -23,6 +23,6 @@ def auto_fit_wrapped_text_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFitWrappedTextType](/cells/python-net/aspose.cells/autofitwrappedtexttype)
-* class [AutoFitterOptions](/cells/python-net/aspose.cells/autofitteroptions)
+* module [`aspose.cells`](../../)
+* class [`AutoFitWrappedTextType`](/cells/python-net/aspose.cells/autofitwrappedtexttype)
+* class [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions)

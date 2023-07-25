@@ -8,7 +8,7 @@ url: /aspose.cells/cells/import_array_list/
 is_root: false
 ---
 
-## import_array_list(array_list, first_row, first_column, is_vertical) {#list-int-int-bool}
+## import_array_list {#list-int-int-bool}
 
 Imports an arraylist of data into a worksheet.
 
@@ -30,5 +30,5 @@ def import_array_list(self, array_list, first_row, first_column, is_vertical):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

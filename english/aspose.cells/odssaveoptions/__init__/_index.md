@@ -8,7 +8,7 @@ url: /aspose.cells/odssaveoptions/__init__/
 is_root: false
 ---
 
-## OdsSaveOptions() {#}
+## __init__ {#}
 
 Creates the options of saving ods file.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## OdsSaveOptions(save_format) {#SaveFormat}
+## __init__ {#aspose.cells.SaveFormat}
 
 Creates the options of saving ods file.
 
@@ -36,10 +36,10 @@ def __init__(self, save_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/aspose.cells/saveformat) |  |
+| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The file format.<br/>It should be [`SaveFormat.ODS`](/cells/python-net/aspose.cells/saveformat#ODS), [`SaveFormat.OTS`](/cells/python-net/aspose.cells/saveformat#OTS),<br/>[`SaveFormat.FODS`](/cells/python-net/aspose.cells/saveformat#FODS) or [`SaveFormat.SXC`](/cells/python-net/aspose.cells/saveformat#SXC),<br/>otherwise the saved format will be set as [`SaveFormat.ODS`](/cells/python-net/aspose.cells/saveformat#ODS) automatically. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [OdsSaveOptions](/cells/python-net/aspose.cells/odssaveoptions)
+* module [`aspose.cells`](../../)
+* class [`OdsSaveOptions`](/cells/python-net/aspose.cells/odssaveoptions)

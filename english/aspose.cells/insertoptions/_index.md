@@ -3,7 +3,7 @@ title: InsertOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 960
 url: /aspose.cells/insertoptions/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The InsertOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [InsertOptions()](/cells/python-net/aspose.cells/insertoptions/__init__/#) | Constructs a new instance of InsertOptions |
+| [__init__](/cells/python-net/aspose.cells/insertoptions/__init__/#) | Constructs a new instance of InsertOptions |
 
 
 ### Properties
@@ -31,4 +31,4 @@ The InsertOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

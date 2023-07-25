@@ -23,5 +23,5 @@ def rotated_chars(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextEffectFormat](/cells/python-net/aspose.cells.drawing/texteffectformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextEffectFormat`](/cells/python-net/aspose.cells.drawing/texteffectformat)

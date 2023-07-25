@@ -14,9 +14,9 @@ Represents the image control.
 
 
 
-**Inheritance:** [ImageActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**Inheritance:** [`ImageActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol) → 
+[`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
+[`ActiveXControlBase`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
 
 
 
@@ -25,7 +25,7 @@ The ImageActiveXControl type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol/workbook) | Gets the [ActiveXControlBase.workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object. |
+| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol/workbook) | Gets the [`ActiveXControlBase.workbook`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object. |
 | [type](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol/type) | Gets the type of the ActiveX control. |
 | [width](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol/width) | Gets and sets the width of the control in unit of points. |
 | [height](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol/height) | Gets and sets the height of the control in unit of points. |
@@ -56,7 +56,7 @@ The ImageActiveXControl type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](..)
-* class [ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
-* class [ActiveXControlBase](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* class [ImageActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](..)
+* class [`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
+* class [`ActiveXControlBase`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+* class [`ImageActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

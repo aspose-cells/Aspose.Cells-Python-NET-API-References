@@ -3,7 +3,7 @@ title: top_cm property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1090
+weight: 1100
 url: /aspose.cells.drawing/radiobutton/top_cm/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Represents the vertical offset of shape from its top row, in unit of centimeters
 ```python
 
 if shape.top_cm == 3:
-    shape.top_cm = 1
+    shape.top_cm = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def top_cm(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

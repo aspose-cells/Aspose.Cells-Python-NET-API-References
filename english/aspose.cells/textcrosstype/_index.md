@@ -3,7 +3,7 @@ title: TextCrossType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2540
+weight: 2590
 url: /aspose.cells/textcrosstype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ The TextCrossType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

@@ -20,6 +20,6 @@ def threaded_comment_authors(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ThreadedCommentAuthorCollection](/cells/python-net/aspose.cells/threadedcommentauthorcollection)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`ThreadedCommentAuthorCollection`](/cells/python-net/aspose.cells/threadedcommentauthorcollection)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

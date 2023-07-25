@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartglobalizationsettings/get_legend_increase_name/
 is_root: false
 ---
 
-## get_legend_increase_name() {#}
+## get_legend_increase_name {#}
 
 Gets the name of increase for Legend.
 
@@ -29,5 +29,5 @@ def get_legend_increase_name(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartGlobalizationSettings](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartGlobalizationSettings`](/cells/python-net/aspose.cells.charts/chartglobalizationsettings)

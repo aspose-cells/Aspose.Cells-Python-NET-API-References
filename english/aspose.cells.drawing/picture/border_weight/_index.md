@@ -3,7 +3,7 @@ title: border_weight property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
@@ -30,7 +30,7 @@ pic = worksheet.pictures[imgIndex]
 # Set the border color of the picture
 pic.border_line_color = Color.red
 # Set the border width of the picture
-pic.border_weight = 3
+pic.border_weight = 3.0
 # Save the excel file.
 workbook.save("result.xlsx")
 
@@ -46,5 +46,5 @@ def border_weight(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)

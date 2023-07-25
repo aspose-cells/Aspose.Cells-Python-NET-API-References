@@ -20,6 +20,6 @@ def revision_logs(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [RevisionLogCollection](/cells/python-net/aspose.cells.revisions/revisionlogcollection)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`RevisionLogCollection`](/cells/python-net/aspose.cells.revisions/revisionlogcollection)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

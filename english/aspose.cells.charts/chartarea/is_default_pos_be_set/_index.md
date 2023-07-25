@@ -20,5 +20,5 @@ def is_default_pos_be_set(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartArea](/cells/python-net/aspose.cells.charts/chartarea)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea)

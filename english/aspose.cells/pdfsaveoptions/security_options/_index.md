@@ -49,6 +49,6 @@ def security_options(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions)
-* class [PdfSecurityOptions](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* module [`aspose.cells`](../../)
+* class [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions)
+* class [`PdfSecurityOptions`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

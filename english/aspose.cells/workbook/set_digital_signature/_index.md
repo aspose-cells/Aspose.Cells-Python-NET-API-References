@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/set_digital_signature/
 is_root: false
 ---
 
-## set_digital_signature(digital_signature_collection) {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
+## set_digital_signature {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
 
 Sets digital signature to an spreadsheet file (Excel2007 and later).
 
@@ -29,5 +29,5 @@ Only support adding Xmldsig Digital Signature
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

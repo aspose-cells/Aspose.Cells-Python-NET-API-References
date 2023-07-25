@@ -8,7 +8,7 @@ url: /aspose.cells/conditionalformattingcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#FormatConditionCollection}
+## binary_search {#aspose.cells.FormatConditionCollection}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [FormatConditionCollection](/cells/python-net/aspose.cells/formatconditioncollection) | The System.Object to locate. The value can be null. |
+| item | [`FormatConditionCollection`](/cells/python-net/aspose.cells/formatconditioncollection) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ConditionalFormattingCollection](/cells/python-net/aspose.cells/conditionalformattingcollection)
+* module [`aspose.cells`](../../)
+* class [`ConditionalFormattingCollection`](/cells/python-net/aspose.cells/conditionalformattingcollection)

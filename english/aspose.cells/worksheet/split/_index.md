@@ -3,12 +3,12 @@ title: split method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /aspose.cells/worksheet/split/
 is_root: false
 ---
 
-## split() {#}
+## split {#}
 
 Splits window.
 
@@ -24,5 +24,5 @@ def split(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

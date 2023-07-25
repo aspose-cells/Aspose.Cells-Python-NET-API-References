@@ -3,7 +3,7 @@ title: PivotFieldSubtotalType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 220
 url: /aspose.cells.pivot/pivotfieldsubtotaltype/
 is_root: false
 ---
@@ -36,4 +36,4 @@ The PivotFieldSubtotalType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

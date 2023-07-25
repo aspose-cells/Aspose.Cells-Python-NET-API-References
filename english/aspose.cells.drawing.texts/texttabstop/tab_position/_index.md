@@ -23,5 +23,5 @@ def tab_position(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [TextTabStop](/cells/python-net/aspose.cells.drawing.texts/texttabstop)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`TextTabStop`](/cells/python-net/aspose.cells.drawing.texts/texttabstop)

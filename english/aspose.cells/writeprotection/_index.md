@@ -3,7 +3,7 @@ title: WriteProtection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1640
+weight: 1690
 url: /aspose.cells/writeprotection/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The WriteProtection type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [WriteProtection()](/cells/python-net/aspose.cells/writeprotection/__init__/#) | Constructs a new instance of WriteProtection |
+| [__init__](/cells/python-net/aspose.cells/writeprotection/__init__/#) | Constructs a new instance of WriteProtection |
 
 
 ### Properties
@@ -33,9 +33,9 @@ The WriteProtection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [validate_password(password)](/cells/python-net/aspose.cells/writeprotection/validate_password/#str) | Returns true if the specified password is the same as the write-protection password the file was protected with. |
+| [validate_password](/cells/python-net/aspose.cells/writeprotection/validate_password/#str) | Returns true if the specified password is the same as the write-protection password the file was protected with. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

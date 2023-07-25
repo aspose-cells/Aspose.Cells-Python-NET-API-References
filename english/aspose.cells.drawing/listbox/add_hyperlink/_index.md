@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/listbox/add_hyperlink/
 is_root: false
 ---
 
-## add_hyperlink(address) {#str}
+## add_hyperlink {#str}
 
 Adds a hyperlink to the shape.
 
@@ -41,5 +41,5 @@ hyperlink = shape.add_hyperlink("https://www.aspose.com/")
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ListBox](/cells/python-net/aspose.cells.drawing/listbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`ListBox`](/cells/python-net/aspose.cells.drawing/listbox)

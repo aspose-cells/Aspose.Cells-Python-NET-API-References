@@ -8,7 +8,7 @@ url: /aspose.cells/columncollection/get_by_index/
 is_root: false
 ---
 
-## get_by_index(index) {#int}
+## get_by_index {#int}
 
 Gets the column object by the index.
 
@@ -37,5 +37,5 @@ Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ColumnCollection](/cells/python-net/aspose.cells/columncollection)
+* module [`aspose.cells`](../../)
+* class [`ColumnCollection`](/cells/python-net/aspose.cells/columncollection)

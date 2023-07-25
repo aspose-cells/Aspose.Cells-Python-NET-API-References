@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_local_built_in_name/
 is_root: false
 ---
 
-## get_local_built_in_name(standard_name) {#str}
+## get_local_built_in_name {#str}
 
 Gets the locale dependent text for built-in Name according to given standard text.
 
@@ -32,5 +32,5 @@ def get_local_built_in_name(self, standard_name):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [GlobalizationSettings](/cells/python-net/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* class [`GlobalizationSettings`](/cells/python-net/aspose.cells/globalizationsettings)

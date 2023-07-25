@@ -3,12 +3,12 @@ title: get_printing_page_breaks method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells/worksheet/get_printing_page_breaks/
 is_root: false
 ---
 
-## get_printing_page_breaks(options) {#aspose.cells.rendering.ImageOrPrintOptions}
+## get_printing_page_breaks {#aspose.cells.rendering.ImageOrPrintOptions}
 
 Gets automatic page breaks.
 
@@ -34,5 +34,5 @@ Each cell area represents a paper.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

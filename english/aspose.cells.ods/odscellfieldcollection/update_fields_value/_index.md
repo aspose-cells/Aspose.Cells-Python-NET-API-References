@@ -8,7 +8,7 @@ url: /aspose.cells.ods/odscellfieldcollection/update_fields_value/
 is_root: false
 ---
 
-## update_fields_value() {#}
+## update_fields_value {#}
 
 Update fields value to the cells.
 
@@ -24,5 +24,5 @@ def update_fields_value(self):
 
 
 ### See Also
-* module [aspose.cells.ods](../../)
-* class [OdsCellFieldCollection](/cells/python-net/aspose.cells.ods/odscellfieldcollection)
+* module [`aspose.cells.ods`](../../)
+* class [`OdsCellFieldCollection`](/cells/python-net/aspose.cells.ods/odscellfieldcollection)

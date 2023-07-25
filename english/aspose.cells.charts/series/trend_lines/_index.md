@@ -20,6 +20,6 @@ def trend_lines(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Series](/cells/python-net/aspose.cells.charts/series)
-* class [TrendlineCollection](/cells/python-net/aspose.cells.charts/trendlinecollection)
+* module [`aspose.cells.charts`](../../)
+* class [`Series`](/cells/python-net/aspose.cells.charts/series)
+* class [`TrendlineCollection`](/cells/python-net/aspose.cells.charts/trendlinecollection)

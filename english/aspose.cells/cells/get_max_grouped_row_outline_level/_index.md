@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get_max_grouped_row_outline_level/
 is_root: false
 ---
 
-## get_max_grouped_row_outline_level() {#}
+## get_max_grouped_row_outline_level {#}
 
 Gets the max grouped row outline level (zero-based).
 
@@ -29,5 +29,5 @@ def get_max_grouped_row_outline_level(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

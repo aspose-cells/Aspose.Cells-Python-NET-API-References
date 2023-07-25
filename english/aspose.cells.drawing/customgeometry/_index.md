@@ -14,8 +14,8 @@ Represents a custom geometric shape.
 
 
 
-**Inheritance:** [CustomGeometry](/cells/python-net/aspose.cells.drawing/customgeometry) → 
-[Geometry](/cells/python-net/aspose.cells.drawing/geometry)
+**Inheritance:** [`CustomGeometry`](/cells/python-net/aspose.cells.drawing/customgeometry) → 
+[`Geometry`](/cells/python-net/aspose.cells.drawing/geometry)
 
 
 
@@ -30,6 +30,6 @@ The CustomGeometry type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
-* class [CustomGeometry](/cells/python-net/aspose.cells.drawing/customgeometry)
-* class [Geometry](/cells/python-net/aspose.cells.drawing/geometry)
+* module [`aspose.cells.drawing`](..)
+* class [`CustomGeometry`](/cells/python-net/aspose.cells.drawing/customgeometry)
+* class [`Geometry`](/cells/python-net/aspose.cells.drawing/geometry)

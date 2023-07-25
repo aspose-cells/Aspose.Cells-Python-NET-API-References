@@ -8,7 +8,7 @@ url: /aspose.cells.rendering/sheetset/__init__/
 is_root: false
 ---
 
-## SheetSet(sheets) {#list}
+## __init__ {#list}
 
 Creates a sheet set based on exact sheet indexes.
 
@@ -29,5 +29,5 @@ If a sheet is encountered that is not in the workbook, an exception will be thro
 
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [SheetSet](/cells/python-net/aspose.cells.rendering/sheetset)
+* module [`aspose.cells.rendering`](../../)
+* class [`SheetSet`](/cells/python-net/aspose.cells.rendering/sheetset)

@@ -3,7 +3,7 @@ title: UpdateLinksType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2620
+weight: 2670
 url: /aspose.cells/updatelinkstype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The UpdateLinksType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

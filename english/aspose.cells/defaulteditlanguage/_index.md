@@ -3,7 +3,7 @@ title: DefaultEditLanguage enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1950
+weight: 2000
 url: /aspose.cells/defaulteditlanguage/
 is_root: false
 ---
@@ -26,4 +26,4 @@ The DefaultEditLanguage type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

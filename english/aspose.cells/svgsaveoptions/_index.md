@@ -3,21 +3,18 @@ title: SvgSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1420
+weight: 1470
 url: /aspose.cells/svgsaveoptions/
 is_root: false
 ---
 
 ## SvgSaveOptions class
 
-Represents Svg save options.
-For advanced usage, please use [WorkbookRender](/cells/python-net/aspose.cells.rendering/workbookrender) or [SheetRender](/cells/python-net/aspose.cells.rendering/sheetrender).
 
 
-
-**Inheritance:** [SvgSaveOptions](/cells/python-net/aspose.cells/svgsaveoptions) → 
-[ImageSaveOptions](/cells/python-net/aspose.cells/imagesaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`SvgSaveOptions`](/cells/python-net/aspose.cells/svgsaveoptions) → 
+[`ImageSaveOptions`](/cells/python-net/aspose.cells/imagesaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -26,8 +23,8 @@ The SvgSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [SvgSaveOptions()](/cells/python-net/aspose.cells/svgsaveoptions/__init__/#) | Creates the options for saving svg file. |
-| [SvgSaveOptions(save_format)](/cells/python-net/aspose.cells/svgsaveoptions/__init__/#SaveFormat) | Creates the options for saving svg file. |
+| [__init__](/cells/python-net/aspose.cells/svgsaveoptions/__init__/#) | Creates the options for saving image file. |
+| [__init__](/cells/python-net/aspose.cells/svgsaveoptions/__init__/#aspose.cells.SaveFormat) | Creates the options for saving image file. |
 
 
 ### Properties
@@ -44,16 +41,14 @@ The SvgSaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells/svgsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells/svgsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells/svgsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
-| [image_or_print_options](/cells/python-net/aspose.cells/svgsaveoptions/image_or_print_options) | Additional image creation options |
+| [image_or_print_options](/cells/python-net/aspose.cells/svgsaveoptions/image_or_print_options) | Additional image creation options. |
 | [stream_provider](/cells/python-net/aspose.cells/svgsaveoptions/stream_provider) | Gets or sets the IStreamProvider for exporting objects. |
-| [sheet_index](/cells/python-net/aspose.cells/svgsaveoptions/sheet_index) | Gets and sets which worksheet should be exported.<br/>If the value is -1, the active  worksheet will be exported. |
+| [sheet_index](/cells/python-net/aspose.cells/svgsaveoptions/sheet_index) |  |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [ImageSaveOptions](/cells/python-net/aspose.cells/imagesaveoptions)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
-* class [SheetRender](/cells/python-net/aspose.cells.rendering/sheetrender)
-* class [SvgSaveOptions](/cells/python-net/aspose.cells/svgsaveoptions)
-* class [WorkbookRender](/cells/python-net/aspose.cells.rendering/workbookrender)
+* module [`aspose.cells`](..)
+* class [`ImageSaveOptions`](/cells/python-net/aspose.cells/imagesaveoptions)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
+* class [`SvgSaveOptions`](/cells/python-net/aspose.cells/svgsaveoptions)

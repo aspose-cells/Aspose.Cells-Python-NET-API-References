@@ -20,6 +20,6 @@ def file_format_type(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FileFormatInfo](/cells/python-net/aspose.cells/fileformatinfo)
-* class [FileFormatType](/cells/python-net/aspose.cells/fileformattype)
+* module [`aspose.cells`](../../)
+* class [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo)
+* class [`FileFormatType`](/cells/python-net/aspose.cells/fileformattype)

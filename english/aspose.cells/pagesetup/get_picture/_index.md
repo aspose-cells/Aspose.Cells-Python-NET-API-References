@@ -8,15 +8,15 @@ url: /aspose.cells/pagesetup/get_picture/
 is_root: false
 ---
 
-## get_picture(is_header, section) {#bool-int}
+## get_picture {#bool-int}
 
-Gets the [Picture](/cells/python-net/aspose.cells.drawing/picture) object of the header / footer.
+Gets the [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object of the header / footer.
 
 
 ### Returns 
 
 
-Returns [Picture](/cells/python-net/aspose.cells.drawing/picture) object.
+Returns [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object.
 Returns null if there is no picture.
 
 
@@ -32,15 +32,15 @@ def get_picture(self, is_header, section):
 | section | int | 0: Left Section, 1: Center Section, 2: Right Section. |
 
 
-## get_picture(is_first, is_even, is_header, section) {#bool-bool-bool-int}
+## get_picture {#bool-bool-bool-int}
 
-Gets the [Picture](/cells/python-net/aspose.cells.drawing/picture) object of the header / footer.
+Gets the [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object of the header / footer.
 
 
 ### Returns 
 
 
-Returns [Picture](/cells/python-net/aspose.cells.drawing/picture) object.
+Returns [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object.
 
 
 ```python
@@ -59,6 +59,6 @@ def get_picture(self, is_first, is_even, is_header, section):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
-* class [Picture](/cells/python-net/aspose.cells.drawing/picture)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)

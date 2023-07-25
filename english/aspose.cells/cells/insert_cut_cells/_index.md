@@ -8,7 +8,7 @@ url: /aspose.cells/cells/insert_cut_cells/
 is_root: false
 ---
 
-## insert_cut_cells(cut_range, row, column, shift_type) {#Range-int-int-ShiftType}
+## insert_cut_cells {#aspose.cells.Range-int-int-aspose.cells.ShiftType}
 
 Insert cut range.
 
@@ -22,13 +22,13 @@ def insert_cut_cells(self, cut_range, row, column, shift_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cut_range | [Range](/cells/python-net/aspose.cells/range) | The cut range. |
+| cut_range | [`Range`](/cells/python-net/aspose.cells/range) | The cut range. |
 | row | int | The row. |
 | column | int | The column. |
-| shift_type | [ShiftType](/cells/python-net/aspose.cells/shifttype) | The shift type . |
+| shift_type | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | The shift type . |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

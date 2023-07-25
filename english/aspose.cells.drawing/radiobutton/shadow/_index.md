@@ -3,7 +3,7 @@ title: shadow property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 890
+weight: 900
 url: /aspose.cells.drawing/radiobutton/shadow/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def shadow(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

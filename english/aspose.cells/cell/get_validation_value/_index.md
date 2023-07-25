@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_validation_value/
 is_root: false
 ---
 
-## get_validation_value() {#}
+## get_validation_value {#}
 
 Gets the value of validation which applied to this cell.
 
@@ -29,5 +29,5 @@ def get_validation_value(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

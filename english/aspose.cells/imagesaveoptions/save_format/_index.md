@@ -20,6 +20,6 @@ def save_format(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ImageSaveOptions](/cells/python-net/aspose.cells/imagesaveoptions)
-* class [SaveFormat](/cells/python-net/aspose.cells/saveformat)
+* module [`aspose.cells`](../../)
+* class [`ImageSaveOptions`](/cells/python-net/aspose.cells/imagesaveoptions)
+* class [`SaveFormat`](/cells/python-net/aspose.cells/saveformat)

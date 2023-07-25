@@ -3,12 +3,12 @@ title: selected_item method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /aspose.cells.drawing/listbox/selected_item/
 is_root: false
 ---
 
-## selected_item(item_index, is_selected) {#int-bool}
+## selected_item {#int-bool}
 
 Sets whether the item is selected
 
@@ -28,5 +28,5 @@ def selected_item(self, item_index, is_selected):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ListBox](/cells/python-net/aspose.cells.drawing/listbox)
+* module [`aspose.cells.drawing`](../../)
+* class [`ListBox`](/cells/python-net/aspose.cells.drawing/listbox)

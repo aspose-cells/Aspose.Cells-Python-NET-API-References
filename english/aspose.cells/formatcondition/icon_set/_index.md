@@ -22,6 +22,6 @@ def icon_set(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormatCondition](/cells/python-net/aspose.cells/formatcondition)
-* class [IconSet](/cells/python-net/aspose.cells/iconset)
+* module [`aspose.cells`](../../)
+* class [`FormatCondition`](/cells/python-net/aspose.cells/formatcondition)
+* class [`IconSet`](/cells/python-net/aspose.cells/iconset)

@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_display_style/
 is_root: false
 ---
 
-## get_display_style() {#}
+## get_display_style {#}
 
 Gets the display style of the cell.
 If this cell is also affected by other settings such as conditional formatting, list objects, etc.,
@@ -24,7 +24,7 @@ def get_display_style(self):
 
 
 
-## get_display_style(include_merged_borders) {#bool}
+## get_display_style {#bool}
 
 Gets the display style of the cell.
 If the cell is conditional formatted, the display style is not same as the cell.GetStyle().
@@ -44,5 +44,5 @@ def get_display_style(self, include_merged_borders):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

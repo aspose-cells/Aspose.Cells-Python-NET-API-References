@@ -24,5 +24,5 @@ def is_deleted(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.externalconnections](../../)
-* class [ExternalConnection](/cells/python-net/aspose.cells.externalconnections/externalconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* class [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)

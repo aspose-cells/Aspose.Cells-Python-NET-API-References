@@ -23,6 +23,6 @@ def call_back(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ISmartMarkerCallBack](/cells/python-net/aspose.cells/ismartmarkercallback)
-* class [WorkbookDesigner](/cells/python-net/aspose.cells/workbookdesigner)
+* module [`aspose.cells`](../../)
+* class [`ISmartMarkerCallBack`](/cells/python-net/aspose.cells/ismartmarkercallback)
+* class [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner)

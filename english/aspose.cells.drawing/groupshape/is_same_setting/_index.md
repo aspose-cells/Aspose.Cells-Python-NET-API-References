@@ -3,12 +3,12 @@ title: is_same_setting method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells.drawing/groupshape/is_same_setting/
 is_root: false
 ---
 
-## is_same_setting(obj) {#any}
+## is_same_setting {#any}
 
 Returns whether the shape is same.
 
@@ -42,5 +42,5 @@ if shape.is_same_setting(shape):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [GroupShape](/cells/python-net/aspose.cells.drawing/groupshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape)

@@ -20,6 +20,6 @@ def preset_color(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [FillFormat](/cells/python-net/aspose.cells.drawing/fillformat)
-* class [GradientPresetType](/cells/python-net/aspose.cells.drawing/gradientpresettype)
+* module [`aspose.cells.drawing`](../../)
+* class [`FillFormat`](/cells/python-net/aspose.cells.drawing/fillformat)
+* class [`GradientPresetType`](/cells/python-net/aspose.cells.drawing/gradientpresettype)

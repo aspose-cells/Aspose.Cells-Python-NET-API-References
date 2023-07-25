@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/remove_macro/
 is_root: false
 ---
 
-## remove_macro() {#}
+## remove_macro {#}
 
 Removes VBA/macro from this spreadsheet.
 
@@ -24,5 +24,5 @@ def remove_macro(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

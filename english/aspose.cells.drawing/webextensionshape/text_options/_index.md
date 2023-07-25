@@ -35,6 +35,6 @@ def text_options(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [TextOptions](/cells/python-net/aspose.cells.drawing.texts/textoptions)
-* class [WebExtensionShape](/cells/python-net/aspose.cells.drawing/webextensionshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`TextOptions`](/cells/python-net/aspose.cells.drawing.texts/textoptions)
+* class [`WebExtensionShape`](/cells/python-net/aspose.cells.drawing/webextensionshape)

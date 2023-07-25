@@ -3,7 +3,7 @@ title: ShapeGuide class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 540
 url: /aspose.cells.drawing/shapeguide/
 is_root: false
 ---
@@ -15,8 +15,8 @@ govern the geometry of the specified shape
 
 
 
-**Inheritance:** [ShapeGuide](/cells/python-net/aspose.cells.drawing/shapeguide) → 
-[BaseShapeGuide](/cells/python-net/aspose.cells.drawing/baseshapeguide)
+**Inheritance:** [`ShapeGuide`](/cells/python-net/aspose.cells.drawing/shapeguide) → 
+[`BaseShapeGuide`](/cells/python-net/aspose.cells.drawing/baseshapeguide)
 
 
 
@@ -30,6 +30,6 @@ The ShapeGuide type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
-* class [BaseShapeGuide](/cells/python-net/aspose.cells.drawing/baseshapeguide)
-* class [ShapeGuide](/cells/python-net/aspose.cells.drawing/shapeguide)
+* module [`aspose.cells.drawing`](..)
+* class [`BaseShapeGuide`](/cells/python-net/aspose.cells.drawing/baseshapeguide)
+* class [`ShapeGuide`](/cells/python-net/aspose.cells.drawing/shapeguide)

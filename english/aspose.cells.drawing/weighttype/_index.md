@@ -3,7 +3,7 @@ title: WeightType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1190
+weight: 1180
 url: /aspose.cells.drawing/weighttype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ The WeightType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

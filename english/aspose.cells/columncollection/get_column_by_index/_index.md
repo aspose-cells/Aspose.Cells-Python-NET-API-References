@@ -8,9 +8,9 @@ url: /aspose.cells/columncollection/get_column_by_index/
 is_root: false
 ---
 
-## get_column_by_index(index) {#int}
+## get_column_by_index {#int}
 
-Gets the [Column](/cells/python-net/aspose.cells/column) object by the position in the list.
+Gets the [`Column`](/cells/python-net/aspose.cells/column) object by the position in the list.
 
 
 ### Returns 
@@ -32,6 +32,6 @@ def get_column_by_index(self, index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Column](/cells/python-net/aspose.cells/column)
-* class [ColumnCollection](/cells/python-net/aspose.cells/columncollection)
+* module [`aspose.cells`](../../)
+* class [`Column`](/cells/python-net/aspose.cells/column)
+* class [`ColumnCollection`](/cells/python-net/aspose.cells/columncollection)

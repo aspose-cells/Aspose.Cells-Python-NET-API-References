@@ -23,6 +23,6 @@ def reading_order(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [TextDirectionType](/cells/python-net/aspose.cells/textdirectiontype)
-* class [Title](/cells/python-net/aspose.cells.charts/title)
+* module [`aspose.cells.charts`](../../)
+* class [`TextDirectionType`](/cells/python-net/aspose.cells/textdirectiontype)
+* class [`Title`](/cells/python-net/aspose.cells.charts/title)

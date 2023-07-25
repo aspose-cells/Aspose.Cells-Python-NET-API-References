@@ -8,7 +8,7 @@ url: /aspose.cells.tables/tablestyleelement/get_element_style/
 is_root: false
 ---
 
-## get_element_style() {#}
+## get_element_style {#}
 
 Gets the element style.
 
@@ -16,7 +16,7 @@ Gets the element style.
 ### Returns 
 
 
-Returns the [Style](/cells/python-net/aspose.cells/style) object.
+Returns the [`Style`](/cells/python-net/aspose.cells/style) object.
 
 
 ```python
@@ -29,6 +29,6 @@ def get_element_style(self):
 
 
 ### See Also
-* module [aspose.cells.tables](../../)
-* class [Style](/cells/python-net/aspose.cells/style)
-* class [TableStyleElement](/cells/python-net/aspose.cells.tables/tablestyleelement)
+* module [`aspose.cells.tables`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)
+* class [`TableStyleElement`](/cells/python-net/aspose.cells.tables/tablestyleelement)

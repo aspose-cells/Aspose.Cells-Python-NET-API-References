@@ -3,7 +3,7 @@ title: SheetType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2460
+weight: 2510
 url: /aspose.cells/sheettype/
 is_root: false
 ---
@@ -30,4 +30,4 @@ The SheetType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

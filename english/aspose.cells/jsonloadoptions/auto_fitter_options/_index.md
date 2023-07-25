@@ -28,6 +28,6 @@ def auto_fitter_options(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFitterOptions](/cells/python-net/aspose.cells/autofitteroptions)
-* class [JsonLoadOptions](/cells/python-net/aspose.cells/jsonloadoptions)
+* module [`aspose.cells`](../../)
+* class [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions)
+* class [`JsonLoadOptions`](/cells/python-net/aspose.cells/jsonloadoptions)

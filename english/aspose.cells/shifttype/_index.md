@@ -3,7 +3,7 @@ title: ShiftType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2470
+weight: 2520
 url: /aspose.cells/shifttype/
 is_root: false
 ---
@@ -28,4 +28,4 @@ The ShiftType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

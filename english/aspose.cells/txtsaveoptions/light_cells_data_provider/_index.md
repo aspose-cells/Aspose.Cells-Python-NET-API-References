@@ -11,7 +11,7 @@ is_root: false
 ## light_cells_data_provider property
 
 
-The Data provider to provide cells data for saving workbook in light mode.
+The data provider for saving workbook in light mode.
 ### Definition:
 ```python
 @property
@@ -23,6 +23,6 @@ def light_cells_data_provider(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LightCellsDataProvider](/cells/python-net/aspose.cells/lightcellsdataprovider)
-* class [TxtSaveOptions](/cells/python-net/aspose.cells/txtsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`LightCellsDataProvider`](/cells/python-net/aspose.cells/lightcellsdataprovider)
+* class [`TxtSaveOptions`](/cells/python-net/aspose.cells/txtsaveoptions)

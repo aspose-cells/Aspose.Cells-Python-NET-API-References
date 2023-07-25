@@ -20,5 +20,5 @@ def group_by(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [SubtotalSetting](/cells/python-net/aspose.cells/subtotalsetting)
+* module [`aspose.cells`](../../)
+* class [`SubtotalSetting`](/cells/python-net/aspose.cells/subtotalsetting)

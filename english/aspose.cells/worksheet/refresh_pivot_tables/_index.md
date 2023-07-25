@@ -3,12 +3,12 @@ title: refresh_pivot_tables method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells/worksheet/refresh_pivot_tables/
 is_root: false
 ---
 
-## refresh_pivot_tables() {#}
+## refresh_pivot_tables {#}
 
 Refreshes all the PivotTables in this Worksheet.
 
@@ -24,5 +24,5 @@ def refresh_pivot_tables(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

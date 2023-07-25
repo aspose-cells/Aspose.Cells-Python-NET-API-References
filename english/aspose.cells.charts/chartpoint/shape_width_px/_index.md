@@ -20,5 +20,5 @@ def shape_width_px(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartPoint](/cells/python-net/aspose.cells.charts/chartpoint)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint)

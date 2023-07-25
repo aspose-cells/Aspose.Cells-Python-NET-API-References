@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_conditional_formatting_result/
 is_root: false
 ---
 
-## get_conditional_formatting_result() {#}
+## get_conditional_formatting_result {#}
 
 Get the result of the conditional formatting.
 
@@ -26,5 +26,5 @@ Returns null if no conditional formatting is applied to this cell,
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

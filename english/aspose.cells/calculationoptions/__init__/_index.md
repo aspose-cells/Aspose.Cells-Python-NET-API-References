@@ -8,7 +8,7 @@ url: /aspose.cells/calculationoptions/__init__/
 is_root: false
 ---
 
-## CalculationOptions() {#}
+## __init__ {#}
 
 Constructs a new instance of CalculationOptions
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CalculationOptions](/cells/python-net/aspose.cells/calculationoptions)
+* module [`aspose.cells`](../../)
+* class [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions)

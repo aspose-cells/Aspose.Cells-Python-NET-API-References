@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/remove_at/
 is_root: false
 ---
 
-## remove_at(name) {#str}
+## remove_at {#str}
 
 Removes the element at a specified name.
 
@@ -27,5 +27,5 @@ def remove_at(self, name):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

@@ -8,7 +8,7 @@ url: /aspose.cells/range/put_value/
 is_root: false
 ---
 
-## put_value(string_value, is_converted, set_style) {#str-bool-bool}
+## put_value {#str-bool-bool}
 
 Puts a value into the range, if appropriate the value will be converted to other data type and cell's number format will be reset.
 
@@ -29,5 +29,5 @@ def put_value(self, string_value, is_converted, set_style):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`Range`](/cells/python-net/aspose.cells/range)

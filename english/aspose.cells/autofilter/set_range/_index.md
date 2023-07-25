@@ -8,7 +8,7 @@ url: /aspose.cells/autofilter/set_range/
 is_root: false
 ---
 
-## set_range(row, start_column, end_column) {#int-int-int}
+## set_range {#int-int-int}
 
 Sets the range to which the specified AutoFilter applies.
 
@@ -29,5 +29,5 @@ def set_range(self, row, start_column, end_column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AutoFilter](/cells/python-net/aspose.cells/autofilter)
+* module [`aspose.cells`](../../)
+* class [`AutoFilter`](/cells/python-net/aspose.cells/autofilter)

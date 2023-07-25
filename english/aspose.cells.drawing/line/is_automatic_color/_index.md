@@ -20,5 +20,5 @@ def is_automatic_color(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
+* module [`aspose.cells.drawing`](../../)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)

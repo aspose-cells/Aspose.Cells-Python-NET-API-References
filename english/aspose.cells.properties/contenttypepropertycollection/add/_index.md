@@ -8,7 +8,7 @@ url: /aspose.cells.properties/contenttypepropertycollection/add/
 is_root: false
 ---
 
-## add(name, value) {#str-str}
+## add {#str-str}
 
 Adds content type property information.
 
@@ -26,7 +26,7 @@ def add(self, name, value):
 | value | str | The value of the content type property. |
 
 
-## add(name, value, type) {#str-str-str}
+## add {#str-str-str}
 
 Adds content type property information.
 
@@ -47,5 +47,5 @@ def add(self, name, value, type):
 
 
 ### See Also
-* module [aspose.cells.properties](../../)
-* class [ContentTypePropertyCollection](/cells/python-net/aspose.cells.properties/contenttypepropertycollection)
+* module [`aspose.cells.properties`](../../)
+* class [`ContentTypePropertyCollection`](/cells/python-net/aspose.cells.properties/contenttypepropertycollection)

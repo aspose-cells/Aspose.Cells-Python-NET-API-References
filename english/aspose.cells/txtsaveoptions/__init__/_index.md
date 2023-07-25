@@ -8,7 +8,7 @@ url: /aspose.cells/txtsaveoptions/__init__/
 is_root: false
 ---
 
-## TxtSaveOptions() {#}
+## __init__ {#}
 
 Creates text file save options.
 
@@ -22,24 +22,24 @@ def __init__(self):
 
 
 
-## TxtSaveOptions(format) {#SaveFormat}
+## __init__ {#aspose.cells.SaveFormat}
 
 Creates text file save options.
 
 
 
 ```python
-def __init__(self, format):
+def __init__(self, save_format):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | [SaveFormat](/cells/python-net/aspose.cells/saveformat) | The save format of the text file. |
+| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The file format.<br/>It should be [`SaveFormat.CSV`](/cells/python-net/aspose.cells/saveformat#CSV) or [`SaveFormat.TSV`](/cells/python-net/aspose.cells/saveformat#TSV),<br/>otherwise the saved format will be set as [`SaveFormat.CSV`](/cells/python-net/aspose.cells/saveformat#CSV) automatically. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [TxtSaveOptions](/cells/python-net/aspose.cells/txtsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`TxtSaveOptions`](/cells/python-net/aspose.cells/txtsaveoptions)

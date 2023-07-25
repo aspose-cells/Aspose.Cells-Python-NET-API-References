@@ -20,5 +20,5 @@ def is_interruption_requested(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [InterruptMonitor](/cells/python-net/aspose.cells/interruptmonitor)
+* module [`aspose.cells`](../../)
+* class [`InterruptMonitor`](/cells/python-net/aspose.cells/interruptmonitor)

@@ -31,6 +31,6 @@ def image_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ImageType](/cells/python-net/aspose.cells.drawing/imagetype)
-* class [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`ImageType`](/cells/python-net/aspose.cells.drawing/imagetype)
+* class [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions)

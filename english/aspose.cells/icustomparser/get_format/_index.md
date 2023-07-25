@@ -8,9 +8,9 @@ url: /aspose.cells/icustomparser/get_format/
 is_root: false
 ---
 
-## get_format() {#}
+## get_format {#}
 
-Gets the formatting pattern corresponding to the parsed value by last invocation of [ICustomParser.parse_object(value)](/cells/python-net/aspose.cells/icustomparser/parse_object).
+Gets the formatting pattern corresponding to the parsed value by last invocation of [`ICustomParser.parse_object`](/cells/python-net/aspose.cells/icustomparser/parse_object).
 
 
 
@@ -26,5 +26,5 @@ The returned formatting pattern may be used to format corresponding cell(set to 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ICustomParser](/cells/python-net/aspose.cells/icustomparser)
+* module [`aspose.cells`](../../)
+* class [`ICustomParser`](/cells/python-net/aspose.cells/icustomparser)

@@ -8,7 +8,7 @@ url: /aspose.cells/workbookdesigner/get_smart_markers/
 is_root: false
 ---
 
-## get_smart_markers() {#}
+## get_smart_markers {#}
 
 Returns a collection of smart markers in a spreadsheet.
 
@@ -31,5 +31,5 @@ A string array is created on every call. The array is sorted and duplicated valu
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorkbookDesigner](/cells/python-net/aspose.cells/workbookdesigner)
+* module [`aspose.cells`](../../)
+* class [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner)

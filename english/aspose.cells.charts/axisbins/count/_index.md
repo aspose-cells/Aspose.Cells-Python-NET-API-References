@@ -23,5 +23,5 @@ def count(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [AxisBins](/cells/python-net/aspose.cells.charts/axisbins)
+* module [`aspose.cells.charts`](../../)
+* class [`AxisBins`](/cells/python-net/aspose.cells.charts/axisbins)

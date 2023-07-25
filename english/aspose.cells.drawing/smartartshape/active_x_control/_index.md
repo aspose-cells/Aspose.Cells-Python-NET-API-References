@@ -3,7 +3,7 @@ title: active_x_control property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells.drawing/smartartshape/active_x_control/
 is_root: false
 ---
@@ -33,6 +33,6 @@ def active_x_control(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
-* class [SmartArtShape](/cells/python-net/aspose.cells.drawing/smartartshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
+* class [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape)

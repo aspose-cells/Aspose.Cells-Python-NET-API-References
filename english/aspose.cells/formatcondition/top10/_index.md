@@ -23,6 +23,6 @@ def top10(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormatCondition](/cells/python-net/aspose.cells/formatcondition)
-* class [Top10](/cells/python-net/aspose.cells/top10)
+* module [`aspose.cells`](../../)
+* class [`FormatCondition`](/cells/python-net/aspose.cells/formatcondition)
+* class [`Top10`](/cells/python-net/aspose.cells/top10)

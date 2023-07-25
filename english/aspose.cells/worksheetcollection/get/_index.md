@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/get/
 is_root: false
 ---
 
-## get(index) {#int}
+## get {#int}
 
 Add API for Python Via .Net.since this[int index] is unsupported
 
@@ -30,7 +30,7 @@ def get(self, index):
 | index | int | The zero based index of the element. |
 
 
-## get(sheet_name) {#str}
+## get {#str}
 
 Add API for Python Via .Net.since this[string sheetName] is unsupported
 
@@ -54,5 +54,5 @@ def get(self, sheet_name):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorksheetCollection](/cells/python-net/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

@@ -3,7 +3,7 @@ title: map_chart_projection_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells.charts/serieslayoutproperties/map_chart_projection_type/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def map_chart_projection_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [MapChartProjectionType](/cells/python-net/aspose.cells.charts/mapchartprojectiontype)
-* class [SeriesLayoutProperties](/cells/python-net/aspose.cells.charts/serieslayoutproperties)
+* module [`aspose.cells.charts`](../../)
+* class [`MapChartProjectionType`](/cells/python-net/aspose.cells.charts/mapchartprojectiontype)
+* class [`SeriesLayoutProperties`](/cells/python-net/aspose.cells.charts/serieslayoutproperties)

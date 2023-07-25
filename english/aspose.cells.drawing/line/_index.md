@@ -33,7 +33,7 @@ The Line type exposes the following members:
 | [color](/cells/python-net/aspose.cells.drawing/line/color) | Represents the Color of the line. |
 | [transparency](/cells/python-net/aspose.cells.drawing/line/transparency) | Returns or sets the degree of transparency of the line as a value from 0.0 (opaque) through 1.0 (clear). |
 | [style](/cells/python-net/aspose.cells.drawing/line/style) | Represents the style of the line. |
-| [weight](/cells/python-net/aspose.cells.drawing/line/weight) | Gets or sets the [WeightType](/cells/python-net/aspose.cells.drawing/weighttype) of the line. |
+| [weight](/cells/python-net/aspose.cells.drawing/line/weight) | Gets or sets the [`WeightType`](/cells/python-net/aspose.cells.drawing/weighttype) of the line. |
 | [weight_pt](/cells/python-net/aspose.cells.drawing/line/weight_pt) | Gets or sets the weight of the line in unit of points. |
 | [weight_px](/cells/python-net/aspose.cells.drawing/line/weight_px) | Gets or sets the weight of the line in unit of pixels. |
 | [formatting_type](/cells/python-net/aspose.cells.drawing/line/formatting_type) | Gets or sets format type. |
@@ -65,6 +65,10 @@ cells.get(2, 1).put_value(20000)
 cells.get(3, 1).put_value(30000)
 chartIndex = sheet.charts.add(ChartType.LINE, 9, 9, 21, 15)
 chart = sheet.charts[chartIndex]
+# Add series
+chart.n_series.add("A2:B4", True)
+# Set category data
+chart.n_series.category_data = "=Sheet1!$A$2:$A$4"
 # Applying a dotted line style on the lines of an NSeries
 chart.n_series[0].border.style = LineType.DOT
 chart.n_series[0].border.color = Color.red
@@ -76,5 +80,5 @@ chart.n_series[0].border.weight = WeightType.MEDIUM_LINE
 ```
 
 ### See Also
-* module [aspose.cells.drawing](..)
-* class [WeightType](/cells/python-net/aspose.cells.drawing/weighttype)
+* module [`aspose.cells.drawing`](..)
+* class [`WeightType`](/cells/python-net/aspose.cells.drawing/weighttype)

@@ -19,12 +19,14 @@ The DigitalSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [DigitalSignature(raw_data, password, comments, sign_time)](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature/__init__/#bytes-str-str-DateTime) | Constructor of digitalSignature. Uses Bouncy Castle implementation. |
+| [__init__](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature/__init__/#System.Security.Cryptography.X509Certificates.X509Certificate2-str-DateTime) | Constructor of digitalSignature. Uses .Net implementation. |
+| [__init__](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature/__init__/#bytes-str-str-DateTime) | Constructor of digitalSignature. Uses Bouncy Castle implementation. |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
+| [certificate](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature/certificate) | Certificate object that was used to sign the document. |
 | [comments](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature/comments) | The purpose to signature. |
 | [sign_time](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature/sign_time) | The time when the document was signed. |
 | [id](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature/id) | Specifies a GUID which can be cross-referenced with the GUID of the signature line stored in the document content.<br/>Default value is Empty (all zeroes) Guid. |
@@ -37,4 +39,4 @@ The DigitalSignature type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.digitalsignatures](..)
+* module [`aspose.cells.digitalsignatures`](..)

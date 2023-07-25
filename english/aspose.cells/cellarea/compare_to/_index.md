@@ -8,7 +8,7 @@ url: /aspose.cells/cellarea/compare_to/
 is_root: false
 ---
 
-## compare_to(obj) {#any}
+## compare_to {#any}
 
 Compare two CellArea objects according to their top-left corner.
 
@@ -33,5 +33,5 @@ def compare_to(self, obj):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellArea](/cells/python-net/aspose.cells/cellarea)
+* module [`aspose.cells`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)

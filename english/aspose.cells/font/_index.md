@@ -29,7 +29,7 @@ The Font type exposes the following members:
 | [is_superscript](/cells/python-net/aspose.cells/font/is_superscript) | Gets or sets a value indicating whether the font is super script. |
 | [is_subscript](/cells/python-net/aspose.cells/font/is_subscript) | Gets or sets a value indicating whether the font is subscript. |
 | [underline](/cells/python-net/aspose.cells/font/underline) | Gets or sets the font underline type. |
-| [name](/cells/python-net/aspose.cells/font/name) | Gets  or sets the name of the [Font](/cells/python-net/aspose.cells/font). |
+| [name](/cells/python-net/aspose.cells/font/name) | Gets  or sets the name of the [`Font`](/cells/python-net/aspose.cells/font). |
 | [double_size](/cells/python-net/aspose.cells/font/double_size) | Gets and sets the double size of the font. |
 | [size](/cells/python-net/aspose.cells/font/size) | Gets or sets the size of the font. |
 | [theme_color](/cells/python-net/aspose.cells/font/theme_color) | Gets and sets the theme color. |
@@ -42,7 +42,7 @@ The Font type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [equals(font)](/cells/python-net/aspose.cells/font/equals/#Font) | Checks if two fonts are equals. |
+| [equals](/cells/python-net/aspose.cells/font/equals/#aspose.cells.Font) | Checks if two fonts are equals. |
 
 
 
@@ -74,5 +74,5 @@ workbook.save(r"dest.xls")
 ```
 
 ### See Also
-* module [aspose.cells](..)
-* class [Font](/cells/python-net/aspose.cells/font)
+* module [`aspose.cells`](..)
+* class [`Font`](/cells/python-net/aspose.cells/font)

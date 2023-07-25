@@ -20,6 +20,6 @@ def text_options(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [DataLabels](/cells/python-net/aspose.cells.charts/datalabels)
-* class [TextOptions](/cells/python-net/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.charts`](../../)
+* class [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels)
+* class [`TextOptions`](/cells/python-net/aspose.cells.drawing.texts/textoptions)

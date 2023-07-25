@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/replace/
 is_root: false
 ---
 
-## replace(place_holder, new_value) {#str-str}
+## replace {#str-str}
 
 Replaces a cell's value with a new string.
 
@@ -38,7 +38,7 @@ workbook.replace("AnOldValue", "NewValue")
 ```
 
 
-## replace(place_holder, new_value) {#str-int}
+## replace {#str-int}
 
 Replaces a cell's value with a new integer.
 
@@ -69,7 +69,7 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-## replace(place_holder, new_value) {#str-float}
+## replace {#str-float}
 
 Replaces a cell's value with a new double.
 
@@ -100,7 +100,7 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-## replace(bool_value, new_value) {#bool-any}
+## replace {#bool-any}
 
 Replaces cells' values with new data.
 
@@ -118,7 +118,7 @@ def replace(self, bool_value, new_value):
 | new_value | any | New value. Can be string, integer, double or DateTime value. |
 
 
-## replace(int_value, new_value) {#int-any}
+## replace {#int-any}
 
 Replaces cells' values with new data.
 
@@ -136,7 +136,7 @@ def replace(self, int_value, new_value):
 | new_value | any | New value. Can be string, integer, double or DateTime value. |
 
 
-## replace(place_holder, new_values, is_vertical) {#str-list-bool}
+## replace {#str-list-bool}
 
 Replaces a cell's value with a new string array.
 
@@ -168,7 +168,7 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-## replace(place_holder, new_values, is_vertical) {#str-list-bool}
+## replace {#str-list-bool}
 
 Replaces cells' values with an integer array.
 
@@ -200,7 +200,7 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-## replace(place_holder, new_values, is_vertical) {#str-list-bool}
+## replace {#str-list-bool}
 
 Replaces cells' values with a double array.
 
@@ -232,7 +232,7 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-## replace(place_holder, new_value, options) {#str-str-ReplaceOptions}
+## replace {#str-str-aspose.cells.ReplaceOptions}
 
 Replaces a cell's value with a new string.
 
@@ -248,10 +248,10 @@ def replace(self, place_holder, new_value, options):
 | :- | :- | :- |
 | place_holder | str | Cell placeholder |
 | new_value | str | String value to replace |
-| options | [ReplaceOptions](/cells/python-net/aspose.cells/replaceoptions) | The replace options |
+| options | [`ReplaceOptions`](/cells/python-net/aspose.cells/replaceoptions) | The replace options |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

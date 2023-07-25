@@ -3,7 +3,7 @@ title: file_format_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 390
+weight: 400
 url: /aspose.cells.drawing/oleobject/file_format_type/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def file_format_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [FileFormatType](/cells/python-net/aspose.cells/fileformattype)
-* class [OleObject](/cells/python-net/aspose.cells.drawing/oleobject)
+* module [`aspose.cells.drawing`](../../)
+* class [`FileFormatType`](/cells/python-net/aspose.cells/fileformattype)
+* class [`OleObject`](/cells/python-net/aspose.cells.drawing/oleobject)

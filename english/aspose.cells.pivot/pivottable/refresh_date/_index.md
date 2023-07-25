@@ -3,7 +3,7 @@ title: refresh_date property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 810
+weight: 830
 url: /aspose.cells.pivot/pivottable/refresh_date/
 is_root: false
 ---
@@ -20,5 +20,5 @@ def refresh_date(self):
 ```
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

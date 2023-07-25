@@ -1,0 +1,33 @@
+﻿---
+title: get_text_of_column_labels method
+second_title: Aspose.Cells for Python via .NET API References
+description: 
+type: docs
+weight: 30
+url: /aspose.cells/settablepivotglobalizationsettings/get_text_of_column_labels/
+is_root: false
+---
+
+## get_text_of_column_labels {#}
+
+Gets the text of "Column Labels" label in the PivotTable.
+
+
+### Returns 
+
+
+The text of column labels
+
+
+```python
+def get_text_of_column_labels(self):
+    ...
+```
+
+
+
+
+
+### See Also
+* module [`aspose.cells`](../../)
+* class [`SettablePivotGlobalizationSettings`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings)

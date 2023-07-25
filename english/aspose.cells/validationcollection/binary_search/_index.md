@@ -8,7 +8,7 @@ url: /aspose.cells/validationcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Validation}
+## binary_search {#aspose.cells.Validation}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Validation](/cells/python-net/aspose.cells/validation) | The System.Object to locate. The value can be null. |
+| item | [`Validation`](/cells/python-net/aspose.cells/validation) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ValidationCollection](/cells/python-net/aspose.cells/validationcollection)
+* module [`aspose.cells`](../../)
+* class [`ValidationCollection`](/cells/python-net/aspose.cells/validationcollection)

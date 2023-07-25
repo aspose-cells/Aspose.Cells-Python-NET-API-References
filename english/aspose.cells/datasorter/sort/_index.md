@@ -8,7 +8,7 @@ url: /aspose.cells/datasorter/sort/
 is_root: false
 ---
 
-## sort() {#}
+## sort {#}
 
 Sort the data in the range.
 
@@ -28,7 +28,7 @@ def sort(self):
 
 
 
-## sort(cells, area) {#Cells-CellArea}
+## sort {#aspose.cells.Cells-aspose.cells.CellArea}
 
 Sort the data of the area.
 
@@ -48,11 +48,11 @@ def sort(self, cells, area):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cells | [Cells](/cells/python-net/aspose.cells/cells) | The cells contains the data area. |
-| area | [CellArea](/cells/python-net/aspose.cells/cellarea) | The area needed to sort |
+| cells | [`Cells`](/cells/python-net/aspose.cells/cells) | The cells contains the data area. |
+| area | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The area needed to sort |
 
 
-## sort(cells, start_row, start_column, end_row, end_column) {#Cells-int-int-int-int}
+## sort {#aspose.cells.Cells-int-int-int-int}
 
 Sorts the data of the area.
 
@@ -72,7 +72,7 @@ def sort(self, cells, start_row, start_column, end_row, end_column):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cells | [Cells](/cells/python-net/aspose.cells/cells) | The cells contains the data area. |
+| cells | [`Cells`](/cells/python-net/aspose.cells/cells) | The cells contains the data area. |
 | start_row | int | The start row of the area. |
 | start_column | int | The start column of the area. |
 | end_row | int | The end row of the area. |
@@ -81,5 +81,5 @@ def sort(self, cells, start_row, start_column, end_row, end_column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataSorter](/cells/python-net/aspose.cells/datasorter)
+* module [`aspose.cells`](../../)
+* class [`DataSorter`](/cells/python-net/aspose.cells/datasorter)

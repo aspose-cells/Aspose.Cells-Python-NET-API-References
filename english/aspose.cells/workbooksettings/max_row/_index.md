@@ -25,5 +25,5 @@ def max_row(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [WorkbookSettings](/cells/python-net/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* class [`WorkbookSettings`](/cells/python-net/aspose.cells/workbooksettings)

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/delete_row/
 is_root: false
 ---
 
-## delete_row(row_index) {#int}
+## delete_row {#int}
 
 Deletes a row.
 
@@ -27,5 +27,5 @@ def delete_row(self, row_index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

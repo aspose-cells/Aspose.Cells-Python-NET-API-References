@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get_dependents/
 is_root: false
 ---
 
-## get_dependents(is_all, row, column) {#bool-int-int}
+## get_dependents {#bool-int-int}
 
 Get all cells which refer to the specific cell.
 
@@ -34,5 +34,5 @@ def get_dependents(self, is_all, row, column):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

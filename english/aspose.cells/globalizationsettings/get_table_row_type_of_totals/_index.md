@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_table_row_type_of_totals/
 is_root: false
 ---
 
-## get_table_row_type_of_totals() {#}
+## get_table_row_type_of_totals {#}
 
 Gets the type name of table rows that consists of the total row of referenced table.
 Default is "Totals", so in formula "#Totals" represents the total row of referenced table.
@@ -30,5 +30,5 @@ def get_table_row_type_of_totals(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [GlobalizationSettings](/cells/python-net/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* class [`GlobalizationSettings`](/cells/python-net/aspose.cells/globalizationsettings)

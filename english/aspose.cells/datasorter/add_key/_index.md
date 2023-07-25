@@ -8,7 +8,7 @@ url: /aspose.cells/datasorter/add_key/
 is_root: false
 ---
 
-## add_key(key, order) {#int-SortOrder}
+## add_key {#int-aspose.cells.SortOrder}
 
 Adds sorted column index and sort order.
 
@@ -23,10 +23,10 @@ def add_key(self, key, order):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | key | int | The sorted column index(absolute position, column A is 0, B is 1, ...) |
-| order | [SortOrder](/cells/python-net/aspose.cells/sortorder) | The sort order |
+| order | [`SortOrder`](/cells/python-net/aspose.cells/sortorder) | The sort order |
 
 
-## add_key(key, order, custom_list) {#int-SortOrder-str}
+## add_key {#int-aspose.cells.SortOrder-str}
 
 Adds sorted column index and sort order with custom sort list.
 
@@ -41,11 +41,11 @@ def add_key(self, key, order, custom_list):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | key | int | The sorted column index(absolute position, column A is 0, B is 1, ...) |
-| order | [SortOrder](/cells/python-net/aspose.cells/sortorder) | The sort order. |
+| order | [`SortOrder`](/cells/python-net/aspose.cells/sortorder) | The sort order. |
 | custom_list | str | The custom sort list. |
 
 
-## add_key(key, order, custom_list) {#int-SortOrder-list}
+## add_key {#int-aspose.cells.SortOrder-list}
 
 Adds sorted column index and sort order with custom sort list.
 
@@ -60,11 +60,11 @@ def add_key(self, key, order, custom_list):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | key | int | The sorted column index(absolute position, column A is 0, B is 1, ...) |
-| order | [SortOrder](/cells/python-net/aspose.cells/sortorder) | The sort order. |
+| order | [`SortOrder`](/cells/python-net/aspose.cells/sortorder) | The sort order. |
 | custom_list | list | The custom sort list. |
 
 
-## add_key(key, type, order, custom_list) {#int-SortOnType-SortOrder-any}
+## add_key {#int-aspose.cells.SortOnType-aspose.cells.SortOrder-any}
 
 Adds sorted column index and sort order with custom sort list.
 
@@ -79,8 +79,8 @@ def add_key(self, key, type, order, custom_list):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | key | int | The sorted column index(absolute position, column A is 0, B is 1, ...) |
-| type | [SortOnType](/cells/python-net/aspose.cells/sortontype) | The sorted value type. |
-| order | [SortOrder](/cells/python-net/aspose.cells/sortorder) | The sort order. |
+| type | [`SortOnType`](/cells/python-net/aspose.cells/sortontype) | The sorted value type. |
+| order | [`SortOrder`](/cells/python-net/aspose.cells/sortorder) | The sort order. |
 | custom_list | any | The custom sort list. |
 ### Remarks
 
@@ -88,5 +88,5 @@ If type is SortOnType.CellColor or SortOnType.FontColor, the customList is Color
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataSorter](/cells/python-net/aspose.cells/datasorter)
+* module [`aspose.cells`](../../)
+* class [`DataSorter`](/cells/python-net/aspose.cells/datasorter)

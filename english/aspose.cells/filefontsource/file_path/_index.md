@@ -20,5 +20,5 @@ def file_path(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FileFontSource](/cells/python-net/aspose.cells/filefontsource)
+* module [`aspose.cells`](../../)
+* class [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource)

@@ -14,8 +14,8 @@ Represents the value of the image bullet.
 
 
 
-**Inheritance:** [PictureBulletValue](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue) → 
-[BulletValue](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
+**Inheritance:** [`PictureBulletValue`](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue) → 
+[`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
 
 
 
@@ -24,7 +24,7 @@ The PictureBulletValue type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PictureBulletValue()](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue/__init__/#) | Constructs a new instance of PictureBulletValue |
+| [__init__](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue/__init__/#) | Constructs a new instance of PictureBulletValue |
 
 
 ### Properties
@@ -36,6 +36,6 @@ The PictureBulletValue type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing.texts](..)
-* class [BulletValue](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
-* class [PictureBulletValue](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue)
+* module [`aspose.cells.drawing.texts`](..)
+* class [`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
+* class [`PictureBulletValue`](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue)

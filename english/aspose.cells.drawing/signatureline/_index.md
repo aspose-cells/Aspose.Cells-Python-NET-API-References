@@ -3,7 +3,7 @@ title: SignatureLine class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 640
+weight: 630
 url: /aspose.cells.drawing/signatureline/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The SignatureLine type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [SignatureLine()](/cells/python-net/aspose.cells.drawing/signatureline/__init__/#) | Constructs a new instance of SignatureLine |
+| [__init__](/cells/python-net/aspose.cells.drawing/signatureline/__init__/#) | Constructs a new instance of SignatureLine |
 
 
 ### Properties
@@ -64,4 +64,4 @@ workbook.save("result.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

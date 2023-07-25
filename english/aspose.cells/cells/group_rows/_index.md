@@ -8,7 +8,7 @@ url: /aspose.cells/cells/group_rows/
 is_root: false
 ---
 
-## group_rows(first_index, last_index) {#int-int}
+## group_rows {#int-int}
 
 Groups rows.
 
@@ -26,7 +26,7 @@ def group_rows(self, first_index, last_index):
 | last_index | int | The last row index to be grouped. |
 
 
-## group_rows(first_index, last_index, is_hidden) {#int-int-bool}
+## group_rows {#int-int-bool}
 
 Groups rows.
 
@@ -47,5 +47,5 @@ def group_rows(self, first_index, last_index, is_hidden):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

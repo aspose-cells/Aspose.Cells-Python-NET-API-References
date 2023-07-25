@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapepathcollection/index_of/
 is_root: false
 ---
 
-## index_of(item, index) {#ShapePath-int}
+## index_of {#aspose.cells.drawing.ShapePath-int}
 
 Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element.
 
@@ -27,11 +27,11 @@ def index_of(self, item, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ShapePath](/cells/python-net/aspose.cells.drawing/shapepath) | The object to locate in the array list. The value can be null. |
+| item | [`ShapePath`](/cells/python-net/aspose.cells.drawing/shapepath) | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the search. 0 (zero) is valid in an empty list. |
 
 
-## index_of(item, index, count) {#ShapePath-int-int}
+## index_of {#aspose.cells.drawing.ShapePath-int-int}
 
 Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements.
 
@@ -50,12 +50,12 @@ def index_of(self, item, index, count):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ShapePath](/cells/python-net/aspose.cells.drawing/shapepath) | The object to locate in the array list. The value can be null. |
+| item | [`ShapePath`](/cells/python-net/aspose.cells.drawing/shapepath) | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the search. 0 (zero) is valid in an empty list. |
 | count | int | The number of elements in the section to search. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePathCollection](/cells/python-net/aspose.cells.drawing/shapepathcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePathCollection`](/cells/python-net/aspose.cells.drawing/shapepathcollection)

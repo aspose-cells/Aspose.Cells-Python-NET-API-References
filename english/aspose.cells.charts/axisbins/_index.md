@@ -19,7 +19,7 @@ The AxisBins type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [AxisBins()](/cells/python-net/aspose.cells.charts/axisbins/__init__/#) | Constructs a new instance of AxisBins |
+| [__init__](/cells/python-net/aspose.cells.charts/axisbins/__init__/#) | Constructs a new instance of AxisBins |
 
 
 ### Properties
@@ -36,10 +36,10 @@ The AxisBins type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [reset_overflow()](/cells/python-net/aspose.cells.charts/axisbins/reset_overflow/#) | Reset the overflow |
-| [reset_underflow()](/cells/python-net/aspose.cells.charts/axisbins/reset_underflow/#) | Reset the underflow |
+| [reset_overflow](/cells/python-net/aspose.cells.charts/axisbins/reset_overflow/#) | Reset the overflow |
+| [reset_underflow](/cells/python-net/aspose.cells.charts/axisbins/reset_underflow/#) | Reset the underflow |
 
 
 
 ### See Also
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

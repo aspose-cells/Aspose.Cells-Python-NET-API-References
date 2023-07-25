@@ -8,9 +8,9 @@ url: /aspose.cells.charts/seriescollection/get_series_by_order/
 is_root: false
 ---
 
-## get_series_by_order(order) {#int}
+## get_series_by_order {#int}
 
-Gets the [Series](/cells/python-net/aspose.cells.charts/series) element by order.
+Gets the [`Series`](/cells/python-net/aspose.cells.charts/series) element by order.
 
 
 ### Returns 
@@ -32,6 +32,6 @@ def get_series_by_order(self, order):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Series](/cells/python-net/aspose.cells.charts/series)
-* class [SeriesCollection](/cells/python-net/aspose.cells.charts/seriescollection)
+* module [`aspose.cells.charts`](../../)
+* class [`Series`](/cells/python-net/aspose.cells.charts/series)
+* class [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection)

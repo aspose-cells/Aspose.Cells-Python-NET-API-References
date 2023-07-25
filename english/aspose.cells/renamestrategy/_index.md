@@ -3,7 +3,7 @@ title: RenameStrategy enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2430
+weight: 2480
 url: /aspose.cells/renamestrategy/
 is_root: false
 ---
@@ -34,4 +34,4 @@ duplicated values of the header are invalid.
 For such kind of situations, user may determine how to handle them by specifying this strategy.
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

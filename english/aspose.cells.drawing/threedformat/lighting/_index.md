@@ -23,6 +23,6 @@ def lighting(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [LightRigType](/cells/python-net/aspose.cells.drawing/lightrigtype)
-* class [ThreeDFormat](/cells/python-net/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* class [`LightRigType`](/cells/python-net/aspose.cells.drawing/lightrigtype)
+* class [`ThreeDFormat`](/cells/python-net/aspose.cells.drawing/threedformat)

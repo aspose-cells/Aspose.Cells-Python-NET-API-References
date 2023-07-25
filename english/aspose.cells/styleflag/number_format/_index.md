@@ -23,5 +23,5 @@ def number_format(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [StyleFlag](/cells/python-net/aspose.cells/styleflag)
+* module [`aspose.cells`](../../)
+* class [`StyleFlag`](/cells/python-net/aspose.cells/styleflag)

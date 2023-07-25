@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/refresh_data/
 is_root: false
 ---
 
-## refresh_data() {#}
+## refresh_data {#}
 
 Refreshes pivottable's data and setting from it's data source.
 
@@ -27,5 +27,5 @@ This method is only used to gather all data to a pivot cache.
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

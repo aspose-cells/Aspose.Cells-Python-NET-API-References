@@ -14,8 +14,8 @@ Encapsulates the object that represents the chart area in the worksheet.
 
 
 
-**Inheritance:** [ChartArea](/cells/python-net/aspose.cells.charts/chartarea) → 
-[ChartFrame](/cells/python-net/aspose.cells.charts/chartframe)
+**Inheritance:** [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea) → 
+[`ChartFrame`](/cells/python-net/aspose.cells.charts/chartframe)
 
 
 
@@ -25,11 +25,11 @@ The ChartArea type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [is_inner_mode](/cells/python-net/aspose.cells.charts/chartarea/is_inner_mode) | Indicates whether the size of the plot area size includes the tick marks, and the axis labels.<br/>False specifies that the size shall determine the size of the plot area, the tick marks, and the axis labels. |
-| [border](/cells/python-net/aspose.cells.charts/chartarea/border) | Gets the [Line](/cells/python-net/aspose.cells.drawing/line). |
-| [area](/cells/python-net/aspose.cells.charts/chartarea/area) | Gets the [ChartFrame.area](/cells/python-net/aspose.cells.charts/chartframe#area). |
-| [text_font](/cells/python-net/aspose.cells.charts/chartarea/text_font) | Gets a [ChartFrame.font](/cells/python-net/aspose.cells.charts/chartframe#font) object of the specified ChartFrame object. |
+| [border](/cells/python-net/aspose.cells.charts/chartarea/border) | Gets the [`Line`](/cells/python-net/aspose.cells.drawing/line). |
+| [area](/cells/python-net/aspose.cells.charts/chartarea/area) | Gets the [`ChartFrame.area`](/cells/python-net/aspose.cells.charts/chartframe#area). |
+| [text_font](/cells/python-net/aspose.cells.charts/chartarea/text_font) | Gets a [`ChartFrame.font`](/cells/python-net/aspose.cells.charts/chartframe#font) object of the specified ChartFrame object. |
 | [text_options](/cells/python-net/aspose.cells.charts/chartarea/text_options) | Gets and sets the options of the text. |
-| [font](/cells/python-net/aspose.cells.charts/chartarea/font) | Gets a [ChartArea.font](/cells/python-net/aspose.cells.charts/chartarea#font) object of the specified chartarea object. |
+| [font](/cells/python-net/aspose.cells.charts/chartarea/font) | Gets a [`ChartArea.font`](/cells/python-net/aspose.cells.charts/chartarea#font) object of the specified chartarea object. |
 | [auto_scale_font](/cells/python-net/aspose.cells.charts/chartarea/auto_scale_font) | True if the text in the object changes font size when the object size changes. The default value is True. |
 | [background_mode](/cells/python-net/aspose.cells.charts/chartarea/background_mode) | Gets and sets the display mode of the background |
 | [background](/cells/python-net/aspose.cells.charts/chartarea/background) | Gets and sets the display mode of the background |
@@ -39,7 +39,7 @@ The ChartArea type exposes the following members:
 | [height](/cells/python-net/aspose.cells.charts/chartarea/height) | Gets or sets the vertical offset from its lower right corner row. |
 | [width](/cells/python-net/aspose.cells.charts/chartarea/width) | Gets or sets the horizontal offset from its lower right corner column. |
 | [shadow](/cells/python-net/aspose.cells.charts/chartarea/shadow) | True if the frame has a shadow. |
-| [shape_properties](/cells/python-net/aspose.cells.charts/chartarea/shape_properties) | Gets the [ChartFrame.shape_properties](/cells/python-net/aspose.cells.charts/chartframe#shape_properties) object. |
+| [shape_properties](/cells/python-net/aspose.cells.charts/chartarea/shape_properties) | Gets the [`ChartFrame.shape_properties`](/cells/python-net/aspose.cells.charts/chartframe#shape_properties) object. |
 | [is_default_pos_be_set](/cells/python-net/aspose.cells.charts/chartarea/is_default_pos_be_set) | Indicates whether default position(DefaultX, DefaultY, DefaultWidth and DefaultHeight) are set. |
 | [default_x](/cells/python-net/aspose.cells.charts/chartarea/default_x) | Represents x of default position |
 | [default_y](/cells/python-net/aspose.cells.charts/chartarea/default_y) | Represents y of default position |
@@ -50,7 +50,7 @@ The ChartArea type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_position_auto()](/cells/python-net/aspose.cells.charts/chartarea/set_position_auto/#) | Set position of the frame to automatic |
+| [set_position_auto](/cells/python-net/aspose.cells.charts/chartarea/set_position_auto/#) | Set position of the frame to automatic |
 
 
 
@@ -96,7 +96,7 @@ workbook.save("book1.xls")
 ```
 
 ### See Also
-* module [aspose.cells.charts](..)
-* class [ChartArea](/cells/python-net/aspose.cells.charts/chartarea)
-* class [ChartFrame](/cells/python-net/aspose.cells.charts/chartframe)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
+* module [`aspose.cells.charts`](..)
+* class [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea)
+* class [`ChartFrame`](/cells/python-net/aspose.cells.charts/chartframe)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)

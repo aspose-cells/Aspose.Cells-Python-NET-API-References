@@ -3,7 +3,7 @@ title: stream_provider property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 370
 url: /aspose.cells/htmlloadoptions/stream_provider/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def stream_provider(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HtmlLoadOptions](/cells/python-net/aspose.cells/htmlloadoptions)
-* class [IStreamProvider](/cells/python-net/aspose.cells/istreamprovider)
+* module [`aspose.cells`](../../)
+* class [`HtmlLoadOptions`](/cells/python-net/aspose.cells/htmlloadoptions)
+* class [`IStreamProvider`](/cells/python-net/aspose.cells/istreamprovider)

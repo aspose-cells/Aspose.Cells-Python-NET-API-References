@@ -3,7 +3,7 @@ title: ImportTableOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 940
 url: /aspose.cells/importtableoptions/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The ImportTableOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ImportTableOptions()](/cells/python-net/aspose.cells/importtableoptions/__init__/#) | Creates the default importing options. |
+| [__init__](/cells/python-net/aspose.cells/importtableoptions/__init__/#) | Creates the default importing options. |
 
 
 ### Properties
@@ -44,4 +44,4 @@ The ImportTableOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

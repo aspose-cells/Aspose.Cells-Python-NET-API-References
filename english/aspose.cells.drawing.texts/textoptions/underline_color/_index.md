@@ -23,6 +23,6 @@ def underline_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [CellsColor](/cells/python-net/aspose.cells/cellscolor)
-* class [TextOptions](/cells/python-net/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`CellsColor`](/cells/python-net/aspose.cells/cellscolor)
+* class [`TextOptions`](/cells/python-net/aspose.cells.drawing.texts/textoptions)

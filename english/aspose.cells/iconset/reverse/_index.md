@@ -24,5 +24,5 @@ def reverse(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IconSet](/cells/python-net/aspose.cells/iconset)
+* module [`aspose.cells`](../../)
+* class [`IconSet`](/cells/python-net/aspose.cells/iconset)

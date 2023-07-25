@@ -11,7 +11,7 @@ is_root: false
 ## text_font property
 
 
-Gets a [ChartFrame.font](/cells/python-net/aspose.cells.charts/chartframe#font) object of the specified ChartFrame object.
+Gets a [`ChartFrame.font`](/cells/python-net/aspose.cells.charts/chartframe#font) object of the specified ChartFrame object.
 
 ### Remarks 
 
@@ -28,6 +28,6 @@ def text_font(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartArea](/cells/python-net/aspose.cells.charts/chartarea)
-* class [Font](/cells/python-net/aspose.cells/font)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea)
+* class [`Font`](/cells/python-net/aspose.cells/font)

@@ -8,7 +8,7 @@ url: /aspose.cells/formulaparseoptions/__init__/
 is_root: false
 ---
 
-## FormulaParseOptions() {#}
+## __init__ {#}
 
 Constructs a new instance of FormulaParseOptions
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormulaParseOptions](/cells/python-net/aspose.cells/formulaparseoptions)
+* module [`aspose.cells`](../../)
+* class [`FormulaParseOptions`](/cells/python-net/aspose.cells/formulaparseoptions)

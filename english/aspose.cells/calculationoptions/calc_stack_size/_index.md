@@ -32,5 +32,5 @@ def calc_stack_size(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CalculationOptions](/cells/python-net/aspose.cells/calculationoptions)
+* module [`aspose.cells`](../../)
+* class [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions)

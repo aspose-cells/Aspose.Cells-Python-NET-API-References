@@ -8,7 +8,7 @@ url: /aspose.cells.markup/customxmlpartcollection/select_by_id/
 is_root: false
 ---
 
-## select_by_id(id) {#str}
+## select_by_id {#str}
 
 Gets an item by id.
 
@@ -32,5 +32,5 @@ def select_by_id(self, id):
 
 
 ### See Also
-* module [aspose.cells.markup](../../)
-* class [CustomXmlPartCollection](/cells/python-net/aspose.cells.markup/customxmlpartcollection)
+* module [`aspose.cells.markup`](../../)
+* class [`CustomXmlPartCollection`](/cells/python-net/aspose.cells.markup/customxmlpartcollection)

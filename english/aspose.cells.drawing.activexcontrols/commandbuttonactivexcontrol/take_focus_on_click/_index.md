@@ -23,5 +23,5 @@ def take_focus_on_click(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [CommandButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`CommandButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

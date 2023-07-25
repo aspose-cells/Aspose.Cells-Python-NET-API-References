@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapepathcollection/add/
 is_root: false
 ---
 
-## add() {#}
+## add {#}
 
 Add a creation path.
 
@@ -16,7 +16,7 @@ Add a creation path.
 ### Returns 
 
 
-Returns [ShapePath](/cells/python-net/aspose.cells.drawing/shapepath) object.
+Returns [`ShapePath`](/cells/python-net/aspose.cells.drawing/shapepath) object.
 
 
 ```python
@@ -29,6 +29,6 @@ def add(self):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePath](/cells/python-net/aspose.cells.drawing/shapepath)
-* class [ShapePathCollection](/cells/python-net/aspose.cells.drawing/shapepathcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePath`](/cells/python-net/aspose.cells.drawing/shapepath)
+* class [`ShapePathCollection`](/cells/python-net/aspose.cells.drawing/shapepathcollection)

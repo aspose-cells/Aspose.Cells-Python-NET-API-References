@@ -10,7 +10,7 @@ is_root: false
 
 ## Axis class
 
-Encapsulates the object that represents a chart's axis.
+Encapsulates the object that represents an axis of chart.
 
 
 
@@ -19,7 +19,7 @@ The Axis type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [area](/cells/python-net/aspose.cells.charts/axis/area) | Gets the [Axis.area](/cells/python-net/aspose.cells.charts/axis#area). |
+| [area](/cells/python-net/aspose.cells.charts/axis/area) | Gets the [`Axis.area`](/cells/python-net/aspose.cells.charts/axis#area). |
 | [is_automatic_min_value](/cells/python-net/aspose.cells.charts/axis/is_automatic_min_value) | Indicates whether the min value is automatically assigned. |
 | [min_value](/cells/python-net/aspose.cells.charts/axis/min_value) | Represents the minimum value on the value axis. |
 | [is_automatic_max_value](/cells/python-net/aspose.cells.charts/axis/is_automatic_max_value) | Indicates whether the max value is automatically assigned. |
@@ -33,12 +33,12 @@ The Axis type exposes the following members:
 | [minor_tick_mark](/cells/python-net/aspose.cells.charts/axis/minor_tick_mark) | Represents the type of minor tick mark for the specified axis. |
 | [tick_label_position](/cells/python-net/aspose.cells.charts/axis/tick_label_position) | Represents the position of tick-mark labels on the specified axis. |
 | [cross_at](/cells/python-net/aspose.cells.charts/axis/cross_at) | Represents the point on the value axis where the category axis crosses it. |
-| [cross_type](/cells/python-net/aspose.cells.charts/axis/cross_type) | Represents the [Axis.cross_type](/cells/python-net/aspose.cells.charts/axis#cross_type) on the specified axis where the other axis crosses. |
+| [cross_type](/cells/python-net/aspose.cells.charts/axis/cross_type) | Represents the [`Axis.cross_type`](/cells/python-net/aspose.cells.charts/axis#cross_type) on the specified axis where the other axis crosses. |
 | [log_base](/cells/python-net/aspose.cells.charts/axis/log_base) | Represents the logarithmic base. Default value is 10.Only applies for Excel2007. |
 | [is_logarithmic](/cells/python-net/aspose.cells.charts/axis/is_logarithmic) | Represents if the value axis scale type is logarithmic or not. |
 | [is_plot_order_reversed](/cells/python-net/aspose.cells.charts/axis/is_plot_order_reversed) | Represents if Microsoft Excel plots data points from last to first. |
 | [axis_between_categories](/cells/python-net/aspose.cells.charts/axis/axis_between_categories) | Represents if the value axis crosses the category axis between categories. |
-| [tick_labels](/cells/python-net/aspose.cells.charts/axis/tick_labels) | Returns a [Axis.tick_labels](/cells/python-net/aspose.cells.charts/axis#tick_labels) object that represents the tick-mark labels for the specified axis. |
+| [tick_labels](/cells/python-net/aspose.cells.charts/axis/tick_labels) | Returns a [`Axis.tick_labels`](/cells/python-net/aspose.cells.charts/axis#tick_labels) object that represents the tick-mark labels for the specified axis. |
 | [tick_label_spacing](/cells/python-net/aspose.cells.charts/axis/tick_label_spacing) | Represents the number of categories or series between tick-mark labels. Applies only to category and series axes. |
 | [is_auto_tick_label_spacing](/cells/python-net/aspose.cells.charts/axis/is_auto_tick_label_spacing) | Indicates whether the spacing of tick label is automatic |
 | [tick_mark_spacing](/cells/python-net/aspose.cells.charts/axis/tick_mark_spacing) | Returns or sets the number of categories or series between tick marks. Applies only to category and series axes. |
@@ -63,6 +63,8 @@ The Axis type exposes the following members:
 
 ### Example 
 
+
+From the following codes , you can learn how to set unit, maximum and minimum value  of Axis.
 
 ```python
 from aspose.cells import Workbook
@@ -97,7 +99,7 @@ chart.value_axis.max_value = 200
 # Set the min value of value axis
 chart.value_axis.min_value = 0
 # Set the major unit
-chart.value_axis.major_unit = 25
+chart.value_axis.major_unit = 25.0
 # Category(X) axis crosses at the maxinum value.
 chart.value_axis.cross_type = CrossType.MAXIMUM
 # Set he number of categories or series between tick-mark labels.
@@ -109,4 +111,4 @@ workbook.save("book1.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

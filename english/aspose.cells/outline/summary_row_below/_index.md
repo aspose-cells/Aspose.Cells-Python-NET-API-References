@@ -23,5 +23,5 @@ def summary_row_below(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Outline](/cells/python-net/aspose.cells/outline)
+* module [`aspose.cells`](../../)
+* class [`Outline`](/cells/python-net/aspose.cells/outline)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapepathcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#ShapePath}
+## binary_search {#aspose.cells.drawing.ShapePath}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ShapePath](/cells/python-net/aspose.cells.drawing/shapepath) | The System.Object to locate. The value can be null. |
+| item | [`ShapePath`](/cells/python-net/aspose.cells.drawing/shapepath) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePathCollection](/cells/python-net/aspose.cells.drawing/shapepathcollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePathCollection`](/cells/python-net/aspose.cells.drawing/shapepathcollection)

@@ -3,7 +3,7 @@ title: lower_delta_x property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 770
 url: /aspose.cells.drawing/radiobutton/lower_delta_x/
 is_root: false
 ---
@@ -38,5 +38,5 @@ def lower_delta_x(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

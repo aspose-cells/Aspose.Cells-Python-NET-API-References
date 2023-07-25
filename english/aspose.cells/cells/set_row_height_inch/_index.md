@@ -8,7 +8,7 @@ url: /aspose.cells/cells/set_row_height_inch/
 is_root: false
 ---
 
-## set_row_height_inch(row, inches) {#int-float}
+## set_row_height_inch {#int-float}
 
 Sets row height in unit of inches.
 
@@ -28,5 +28,5 @@ def set_row_height_inch(self, row, inches):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

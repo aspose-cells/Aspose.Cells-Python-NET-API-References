@@ -3,7 +3,7 @@ title: BevelPresetType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 770
+weight: 760
 url: /aspose.cells.drawing/bevelpresettype/
 is_root: false
 ---
@@ -36,4 +36,4 @@ The BevelPresetType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

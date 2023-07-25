@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbaprojectreference/copy/
 is_root: false
 ---
 
-## copy(source) {#VbaProjectReference}
+## copy {#aspose.cells.vba.VbaProjectReference}
 
 
 
@@ -22,10 +22,10 @@ def copy(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [VbaProjectReference](/cells/python-net/aspose.cells.vba/vbaprojectreference) |  |
+| source | [`VbaProjectReference`](/cells/python-net/aspose.cells.vba/vbaprojectreference) |  |
 
 
 
 ### See Also
-* module [aspose.cells.vba](../../)
-* class [VbaProjectReference](/cells/python-net/aspose.cells.vba/vbaprojectreference)
+* module [`aspose.cells.vba`](../../)
+* class [`VbaProjectReference`](/cells/python-net/aspose.cells.vba/vbaprojectreference)

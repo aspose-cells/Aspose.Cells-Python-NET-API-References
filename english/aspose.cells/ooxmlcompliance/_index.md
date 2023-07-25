@@ -3,7 +3,7 @@ title: OoxmlCompliance enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2270
+weight: 2320
 url: /aspose.cells/ooxmlcompliance/
 is_root: false
 ---
@@ -25,4 +25,4 @@ The OoxmlCompliance type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

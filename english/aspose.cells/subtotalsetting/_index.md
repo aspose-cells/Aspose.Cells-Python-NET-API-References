@@ -3,7 +3,7 @@ title: SubtotalSetting class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1410
+weight: 1460
 url: /aspose.cells/subtotalsetting/
 is_root: false
 ---
@@ -27,4 +27,4 @@ The SubtotalSetting type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

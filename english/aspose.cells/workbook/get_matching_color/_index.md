@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/get_matching_color/
 is_root: false
 ---
 
-## get_matching_color(raw_color) {#aspose.pydrawing.Color}
+## get_matching_color {#aspose.pydrawing.Color}
 
 Find best matching Color in current palette.
 
@@ -32,5 +32,5 @@ def get_matching_color(self, raw_color):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Workbook](/cells/python-net/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* class [`Workbook`](/cells/python-net/aspose.cells/workbook)

@@ -19,7 +19,7 @@ The ImageOrPrintOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ImageOrPrintOptions()](/cells/python-net/aspose.cells.rendering/imageorprintoptions/__init__/#) | Constructs a new instance of ImageOrPrintOptions |
+| [__init__](/cells/python-net/aspose.cells.rendering/imageorprintoptions/__init__/#) | Constructs a new instance of ImageOrPrintOptions |
 
 
 ### Properties
@@ -31,6 +31,7 @@ The ImageOrPrintOptions type exposes the following members:
 | [vertical_resolution](/cells/python-net/aspose.cells.rendering/imageorprintoptions/vertical_resolution) | Gets or sets the vertical  resolution for generated images, in dots per inch.<br/>Applies generating image method except Emf format image. |
 | [tiff_compression](/cells/python-net/aspose.cells.rendering/imageorprintoptions/tiff_compression) | Gets or sets the type of compression to apply only when saving pages to the `Tiff` format. |
 | [tiff_color_depth](/cells/python-net/aspose.cells.rendering/imageorprintoptions/tiff_color_depth) | Gets or sets bit depth to apply only when saving pages to the `Tiff` format. |
+| [tiff_binarization_method](/cells/python-net/aspose.cells.rendering/imageorprintoptions/tiff_binarization_method) | Gets or sets method used while converting images to 1 bpp format <br/>when [`ImageOrPrintOptions.image_type`](/cells/python-net/aspose.cells.rendering/imageorprintoptions#image_type) is Tiff and [`ImageOrPrintOptions.tiff_compression`](/cells/python-net/aspose.cells.rendering/imageorprintoptions#tiff_compression) is equal to Ccitt3 or Ccitt4. |
 | [printing_page](/cells/python-net/aspose.cells.rendering/imageorprintoptions/printing_page) | Indicates which pages will not be printed. |
 | [quality](/cells/python-net/aspose.cells.rendering/imageorprintoptions/quality) | Gets or sets a value determining the quality of the generated  images<br/>to apply only when saving pages to the `Jpeg` format. The default value is 100 |
 | [image_type](/cells/python-net/aspose.cells.rendering/imageorprintoptions/image_type) | Gets or sets the format of the generated images.<br/>default value: PNG. |
@@ -59,13 +60,14 @@ The ImageOrPrintOptions type exposes the following members:
 | [text_cross_type](/cells/python-net/aspose.cells.rendering/imageorprintoptions/text_cross_type) | Gets or sets displaying text type when the text width is larger than cell width. |
 | [emf_type](/cells/python-net/aspose.cells.rendering/imageorprintoptions/emf_type) | Gets or sets an EmfType that specifies the format of the Metafile..<br/>The default value is EmfPlusDual. |
 | [default_edit_language](/cells/python-net/aspose.cells.rendering/imageorprintoptions/default_edit_language) | Gets or sets default edit language. |
-| [sheet_set](/cells/python-net/aspose.cells.rendering/imageorprintoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [SheetSet.visible](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
+| [sheet_set](/cells/python-net/aspose.cells.rendering/imageorprintoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_desired_size(desired_width, desired_height)](/cells/python-net/aspose.cells.rendering/imageorprintoptions/set_desired_size/#int-int) | Sets desired width and height of image. |
+| [set_desired_size](/cells/python-net/aspose.cells.rendering/imageorprintoptions/set_desired_size/#int-int) | Sets desired width and height of image. |
+| [set_desired_size](/cells/python-net/aspose.cells.rendering/imageorprintoptions/set_desired_size/#int-int-bool) | Sets desired width and height of image. |
 
 
 
@@ -93,4 +95,4 @@ book.worksheets[0].charts[0].to_image("chart.png", options)
 ```
 
 ### See Also
-* module [aspose.cells.rendering](..)
+* module [`aspose.cells.rendering`](..)

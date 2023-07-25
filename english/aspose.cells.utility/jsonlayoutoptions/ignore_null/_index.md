@@ -23,5 +23,5 @@ def ignore_null(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.utility](../../)
-* class [JsonLayoutOptions](/cells/python-net/aspose.cells.utility/jsonlayoutoptions)
+* module [`aspose.cells.utility`](../../)
+* class [`JsonLayoutOptions`](/cells/python-net/aspose.cells.utility/jsonlayoutoptions)

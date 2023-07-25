@@ -3,12 +3,12 @@ title: add_oval method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells.drawing/shapecollection/add_oval/
 is_root: false
 ---
 
-## add_oval(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+## add_oval {#int-int-int-int-int-int}
 
 Adds a Oval to the worksheet.
 
@@ -47,5 +47,5 @@ oval = shapes.add_oval(1, 0, 1, 0, 50, 50)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

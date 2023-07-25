@@ -8,7 +8,7 @@ url: /aspose.cells/calculationcell/set_calculated_value/
 is_root: false
 ---
 
-## set_calculated_value(v) {#any}
+## set_calculated_value {#any}
 
 Sets the calculated value for the cell.
 
@@ -29,5 +29,5 @@ User can set the calculated result by this method to ignore the automatic calcul
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CalculationCell](/cells/python-net/aspose.cells/calculationcell)
+* module [`aspose.cells`](../../)
+* class [`CalculationCell`](/cells/python-net/aspose.cells/calculationcell)

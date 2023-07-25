@@ -3,7 +3,7 @@ title: precision_strategy property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 100
 url: /aspose.cells/calculationoptions/precision_strategy/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def precision_strategy(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CalculationOptions](/cells/python-net/aspose.cells/calculationoptions)
-* class [CalculationPrecisionStrategy](/cells/python-net/aspose.cells/calculationprecisionstrategy)
+* module [`aspose.cells`](../../)
+* class [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions)
+* class [`CalculationPrecisionStrategy`](/cells/python-net/aspose.cells/calculationprecisionstrategy)

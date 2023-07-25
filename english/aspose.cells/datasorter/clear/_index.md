@@ -8,7 +8,7 @@ url: /aspose.cells/datasorter/clear/
 is_root: false
 ---
 
-## clear() {#}
+## clear {#}
 
 Clear all settings.
 
@@ -24,5 +24,5 @@ def clear(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataSorter](/cells/python-net/aspose.cells/datasorter)
+* module [`aspose.cells`](../../)
+* class [`DataSorter`](/cells/python-net/aspose.cells/datasorter)

@@ -34,6 +34,6 @@ def text_orientation_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ListBox](/cells/python-net/aspose.cells.drawing/listbox)
-* class [TextOrientationType](/cells/python-net/aspose.cells/textorientationtype)
+* module [`aspose.cells.drawing`](../../)
+* class [`ListBox`](/cells/python-net/aspose.cells.drawing/listbox)
+* class [`TextOrientationType`](/cells/python-net/aspose.cells/textorientationtype)

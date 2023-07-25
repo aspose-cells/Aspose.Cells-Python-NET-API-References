@@ -3,7 +3,7 @@ title: SpreadsheetML2003SaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1370
+weight: 1420
 url: /aspose.cells/spreadsheetml2003saveoptions/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents the options for saving Excel 2003 spreadml file.
 
 
 
-**Inheritance:** [SpreadsheetML2003SaveOptions](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`SpreadsheetML2003SaveOptions`](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -24,8 +24,8 @@ The SpreadsheetML2003SaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [SpreadsheetML2003SaveOptions()](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions/__init__/#) | Creates the options for saving Excel 2003 spreadml file. |
-| [SpreadsheetML2003SaveOptions(save_format)](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions/__init__/#SaveFormat) | Creates the options for saving Excel 2003 spreadml file. |
+| [__init__](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions/__init__/#) | Creates the options for saving Excel 2003 spreadml file. |
+| [__init__](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions/__init__/#aspose.cells.SaveFormat) | Creates the options for saving Excel 2003 spreadml file. |
 
 
 ### Properties
@@ -49,6 +49,6 @@ The SpreadsheetML2003SaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
-* class [SpreadsheetML2003SaveOptions](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions)
+* module [`aspose.cells`](..)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
+* class [`SpreadsheetML2003SaveOptions`](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions)

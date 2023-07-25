@@ -26,4 +26,4 @@ The ConnectionParameterType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.externalconnections](..)
+* module [`aspose.cells.externalconnections`](..)

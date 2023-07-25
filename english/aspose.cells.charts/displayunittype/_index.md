@@ -10,7 +10,7 @@ is_root: false
 
 ## DisplayUnitType enumeration
 
-Represents the type of display unit.
+Represents the type of display unit of chart's axis.
 
 
 
@@ -36,4 +36,4 @@ The DisplayUnitType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

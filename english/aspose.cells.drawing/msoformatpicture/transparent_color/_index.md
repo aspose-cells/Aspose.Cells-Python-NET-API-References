@@ -23,6 +23,6 @@ def transparent_color(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [CellsColor](/cells/python-net/aspose.cells/cellscolor)
-* class [MsoFormatPicture](/cells/python-net/aspose.cells.drawing/msoformatpicture)
+* module [`aspose.cells.drawing`](../../)
+* class [`CellsColor`](/cells/python-net/aspose.cells/cellscolor)
+* class [`MsoFormatPicture`](/cells/python-net/aspose.cells.drawing/msoformatpicture)

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/merge/
 is_root: false
 ---
 
-## merge(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
+## merge {#int-int-int-int}
 
 Merges a specified range of cells into a single cell.
 
@@ -30,7 +30,7 @@ def merge(self, first_row, first_column, total_rows, total_columns):
 
 Reference the merged cell via the address of the upper-left cell in the range.
 
-## merge(first_row, first_column, total_rows, total_columns, merge_conflict) {#int-int-int-int-bool}
+## merge {#int-int-int-int-bool}
 
 Merges a specified range of cells into a single cell.
 
@@ -55,7 +55,7 @@ Reference the merged cell via the address of the upper-left cell in the range.
 If mergeConflict is true and the merged range conflicts with other merged cells,
 other merged cells will be  automatically removed.
 
-## merge(first_row, first_column, total_rows, total_columns, check_conflict, merge_conflict) {#int-int-int-int-bool-bool}
+## merge {#int-int-int-int-bool-bool}
 
 Merges a specified range of cells into a single cell.
 
@@ -83,5 +83,5 @@ other merged cells will be  automatically removed.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

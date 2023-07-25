@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfield/hide_detail/
 is_root: false
 ---
 
-## hide_detail(is_hidden_detail) {#bool}
+## hide_detail {#bool}
 
 Sets whether the PivotItems in a pivot field is hidden detail.That is collapse/expand this field.
 
@@ -27,5 +27,5 @@ def hide_detail(self, is_hidden_detail):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)

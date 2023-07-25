@@ -23,5 +23,5 @@ def transparency(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Area](/cells/python-net/aspose.cells.drawing/area)
+* module [`aspose.cells.drawing`](../../)
+* class [`Area`](/cells/python-net/aspose.cells.drawing/area)

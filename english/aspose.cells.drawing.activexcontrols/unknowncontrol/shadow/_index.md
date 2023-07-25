@@ -3,7 +3,7 @@ title: shadow property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 190
 url: /aspose.cells.drawing.activexcontrols/unknowncontrol/shadow/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def shadow(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [UnknownControl](/cells/python-net/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`UnknownControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/unknowncontrol)

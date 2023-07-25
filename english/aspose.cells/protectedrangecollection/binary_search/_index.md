@@ -8,7 +8,7 @@ url: /aspose.cells/protectedrangecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#ProtectedRange}
+## binary_search {#aspose.cells.ProtectedRange}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ProtectedRange](/cells/python-net/aspose.cells/protectedrange) | The System.Object to locate. The value can be null. |
+| item | [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ProtectedRangeCollection](/cells/python-net/aspose.cells/protectedrangecollection)
+* module [`aspose.cells`](../../)
+* class [`ProtectedRangeCollection`](/cells/python-net/aspose.cells/protectedrangecollection)

@@ -3,7 +3,7 @@ title: MsoDrawingType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1000
+weight: 990
 url: /aspose.cells.drawing/msodrawingtype/
 is_root: false
 ---
@@ -52,4 +52,4 @@ The MsoDrawingType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

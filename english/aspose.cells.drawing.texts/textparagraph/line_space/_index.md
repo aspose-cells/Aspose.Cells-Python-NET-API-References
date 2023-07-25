@@ -23,5 +23,5 @@ def line_space(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [TextParagraph](/cells/python-net/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textparagraph)

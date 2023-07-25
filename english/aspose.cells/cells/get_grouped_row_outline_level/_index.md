@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get_grouped_row_outline_level/
 is_root: false
 ---
 
-## get_grouped_row_outline_level(row_index) {#int}
+## get_grouped_row_outline_level {#int}
 
 Gets the outline level (zero-based) of the row.
 
@@ -34,5 +34,5 @@ If the row is not grouped, returns zero.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

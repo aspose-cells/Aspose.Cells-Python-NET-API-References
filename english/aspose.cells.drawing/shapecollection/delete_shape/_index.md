@@ -3,12 +3,12 @@ title: delete_shape method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /aspose.cells.drawing/shapecollection/delete_shape/
 is_root: false
 ---
 
-## delete_shape(shape) {#Shape}
+## delete_shape {#aspose.cells.drawing.Shape}
 
 Delete a shape. If the shape is in the group or is a comment shape, it will not be deleted.
 
@@ -22,7 +22,7 @@ def delete_shape(self, shape):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| shape | [Shape](/cells/python-net/aspose.cells.drawing/shape) |  |
+| shape | [`Shape`](/cells/python-net/aspose.cells.drawing/shape) |  |
 
 ### Example 
 
@@ -41,5 +41,5 @@ shapes.delete_shape(firstShape)
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeCollection](/cells/python-net/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

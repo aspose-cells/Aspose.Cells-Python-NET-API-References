@@ -8,7 +8,7 @@ url: /aspose.cells/cells/apply_style/
 is_root: false
 ---
 
-## apply_style(style, flag) {#Style-StyleFlag}
+## apply_style {#aspose.cells.Style-aspose.cells.StyleFlag}
 
 Applies formats for a whole worksheet.
 
@@ -22,11 +22,11 @@ def apply_style(self, style, flag):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [Style](/cells/python-net/aspose.cells/style) | The style object which will be applied. |
-| flag | [StyleFlag](/cells/python-net/aspose.cells/styleflag) | Flags which indicates applied formatting properties. |
+| style | [`Style`](/cells/python-net/aspose.cells/style) | The style object which will be applied. |
+| flag | [`StyleFlag`](/cells/python-net/aspose.cells/styleflag) | Flags which indicates applied formatting properties. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

@@ -8,7 +8,7 @@ url: /aspose.cells/horizontalpagebreakcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#HorizontalPageBreak}
+## binary_search {#aspose.cells.HorizontalPageBreak}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [HorizontalPageBreak](/cells/python-net/aspose.cells/horizontalpagebreak) | The System.Object to locate. The value can be null. |
+| item | [`HorizontalPageBreak`](/cells/python-net/aspose.cells/horizontalpagebreak) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [HorizontalPageBreakCollection](/cells/python-net/aspose.cells/horizontalpagebreakcollection)
+* module [`aspose.cells`](../../)
+* class [`HorizontalPageBreakCollection`](/cells/python-net/aspose.cells/horizontalpagebreakcollection)

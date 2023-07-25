@@ -23,5 +23,5 @@ def rot_with_shape(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ReflectionEffect](/cells/python-net/aspose.cells.drawing/reflectioneffect)
+* module [`aspose.cells.drawing`](../../)
+* class [`ReflectionEffect`](/cells/python-net/aspose.cells.drawing/reflectioneffect)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapepropertycollection/has_format_3d/
 is_root: false
 ---
 
-## has_format_3d() {#}
+## has_format_3d {#}
 
 Indicates if the shape has 3d format data.
 
@@ -29,5 +29,5 @@ def has_format_3d(self):
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapePropertyCollection](/cells/python-net/aspose.cells.drawing/shapepropertycollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapePropertyCollection`](/cells/python-net/aspose.cells.drawing/shapepropertycollection)

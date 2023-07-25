@@ -8,7 +8,7 @@ url: /aspose.cells/range/copy/
 is_root: false
 ---
 
-## copy(range) {#Range}
+## copy {#aspose.cells.Range}
 
 Copies data (including formulas), formatting, drawing objects etc. from a source range.
 
@@ -22,7 +22,7 @@ def copy(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [Range](/cells/python-net/aspose.cells/range) | Source [Range](/cells/python-net/aspose.cells/range) object. |
+| range | [`Range`](/cells/python-net/aspose.cells/range) | Source [`Range`](/cells/python-net/aspose.cells/range) object. |
 
 ### Example 
 
@@ -44,7 +44,7 @@ workbook.save("book1.xlsm")
 ```
 
 
-## copy(range, options) {#Range-PasteOptions}
+## copy {#aspose.cells.Range-aspose.cells.PasteOptions}
 
 Copying the range with paste special options.
 
@@ -58,11 +58,11 @@ def copy(self, range, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [Range](/cells/python-net/aspose.cells/range) | The source range. |
-| options | [PasteOptions](/cells/python-net/aspose.cells/pasteoptions) | The paste special options. |
+| range | [`Range`](/cells/python-net/aspose.cells/range) | The source range. |
+| options | [`PasteOptions`](/cells/python-net/aspose.cells/pasteoptions) | The paste special options. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Range](/cells/python-net/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* class [`Range`](/cells/python-net/aspose.cells/range)

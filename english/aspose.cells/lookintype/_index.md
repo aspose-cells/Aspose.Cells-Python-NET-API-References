@@ -3,7 +3,7 @@ title: LookInType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2230
+weight: 2280
 url: /aspose.cells/lookintype/
 is_root: false
 ---
@@ -29,4 +29,4 @@ The LookInType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

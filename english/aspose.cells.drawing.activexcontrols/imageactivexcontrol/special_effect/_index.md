@@ -23,6 +23,6 @@ def special_effect(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.activexcontrols](../../)
-* class [ControlSpecialEffectType](/cells/python-net/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
-* class [ImageActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* class [`ControlSpecialEffectType`](/cells/python-net/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
+* class [`ImageActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

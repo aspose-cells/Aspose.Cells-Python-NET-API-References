@@ -8,9 +8,9 @@ url: /aspose.cells/cell/set_formula/
 is_root: false
 ---
 
-## set_formula(formula, value) {#str-any}
+## set_formula {#str-any}
 
-Set the formula and the value of the formula.
+Set the formula and the value(calculated result) of the formula.
 
 
 
@@ -23,12 +23,12 @@ def set_formula(self, formula, value):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | formula | str | The formula. |
-| value | any | The value of the formula. |
+| value | any | The value(calculated result) of the formula. |
 
 
-## set_formula(formula, options, value) {#str-FormulaParseOptions-any}
+## set_formula {#str-aspose.cells.FormulaParseOptions-any}
 
-Set the formula and the value of the formula.
+Set the formula and the value(calculated result) of the formula.
 
 
 
@@ -41,11 +41,11 @@ def set_formula(self, formula, options, value):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | formula | str | The formula. |
-| options | [FormulaParseOptions](/cells/python-net/aspose.cells/formulaparseoptions) | Options for parsing the formula. |
-| value | any | The value of the formula. |
+| options | [`FormulaParseOptions`](/cells/python-net/aspose.cells/formulaparseoptions) | Options for parsing the formula. |
+| value | any | The value(calculated result) of the formula. |
 
 
-## set_formula(formula, is_r1c1, is_local, value) {#str-bool-bool-any}
+## set_formula {#str-bool-bool-any}
 
 Set the formula and the value of the formula.
 
@@ -72,5 +72,5 @@ Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

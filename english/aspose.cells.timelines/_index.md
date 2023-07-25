@@ -13,7 +13,7 @@ The **Aspose.Cells.Timelines**  namespace contains classes that allow to access 
 ### Classes
 | Class | Description |
 | :- | :- |
-| [Timeline](/cells/python-net/aspose.cells.timelines/timeline) | Summary description of Timeline View<br/>Due to MS Excel, Excel 2003 does not support Timeline |
-| [TimelineCollection](/cells/python-net/aspose.cells.timelines/timelinecollection) | Specifies the collection of all the Timeline objects on the specified worksheet.<br/>Due to MS Excel, Excel 2003 does not support Timeline. |
+| [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline) | Summary description of Timeline View<br/>Due to MS Excel, Excel 2003 does not support Timeline |
+| [`TimelineCollection`](/cells/python-net/aspose.cells.timelines/timelinecollection) | Specifies the collection of all the Timeline objects on the specified worksheet.<br/>Due to MS Excel, Excel 2003 does not support Timeline. |
 
 

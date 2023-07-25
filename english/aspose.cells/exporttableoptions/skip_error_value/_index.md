@@ -26,5 +26,5 @@ def skip_error_value(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [ExportTableOptions](/cells/python-net/aspose.cells/exporttableoptions)
+* module [`aspose.cells`](../../)
+* class [`ExportTableOptions`](/cells/python-net/aspose.cells/exporttableoptions)

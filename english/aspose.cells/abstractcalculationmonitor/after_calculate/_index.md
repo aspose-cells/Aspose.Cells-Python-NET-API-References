@@ -8,7 +8,7 @@ url: /aspose.cells/abstractcalculationmonitor/after_calculate/
 is_root: false
 ---
 
-## after_calculate(sheet_index, row_index, col_index) {#int-int-int}
+## after_calculate {#int-int-int}
 
 Implement this method to do business after one cell has been calculated.
 
@@ -29,5 +29,5 @@ def after_calculate(self, sheet_index, row_index, col_index):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractCalculationMonitor](/cells/python-net/aspose.cells/abstractcalculationmonitor)
+* module [`aspose.cells`](../../)
+* class [`AbstractCalculationMonitor`](/cells/python-net/aspose.cells/abstractcalculationmonitor)

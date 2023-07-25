@@ -3,7 +3,7 @@ title: ignore_error property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells/calculationoptions/ignore_error/
 is_root: false
 ---
@@ -24,5 +24,5 @@ def ignore_error(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CalculationOptions](/cells/python-net/aspose.cells/calculationoptions)
+* module [`aspose.cells`](../../)
+* class [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions)

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/retrieve_subtotal_setting/
 is_root: false
 ---
 
-## retrieve_subtotal_setting(ca) {#CellArea}
+## retrieve_subtotal_setting {#aspose.cells.CellArea}
 
 Retrieves subtotals setting of the range.
 
@@ -27,10 +27,10 @@ def retrieve_subtotal_setting(self, ca):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/aspose.cells/cellarea) | The range |
+| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The range |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

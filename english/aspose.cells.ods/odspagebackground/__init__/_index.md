@@ -8,7 +8,7 @@ url: /aspose.cells.ods/odspagebackground/__init__/
 is_root: false
 ---
 
-## OdsPageBackground() {#}
+## __init__ {#}
 
 Constructs a new instance of OdsPageBackground
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.ods](../../)
-* class [OdsPageBackground](/cells/python-net/aspose.cells.ods/odspagebackground)
+* module [`aspose.cells.ods`](../../)
+* class [`OdsPageBackground`](/cells/python-net/aspose.cells.ods/odspagebackground)

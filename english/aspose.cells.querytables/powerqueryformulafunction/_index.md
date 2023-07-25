@@ -14,8 +14,8 @@ Represents the function of power query.
 
 
 
-**Inheritance:** [PowerQueryFormulaFunction](/cells/python-net/aspose.cells.querytables/powerqueryformulafunction) → 
-[PowerQueryFormula](/cells/python-net/aspose.cells.querytables/powerqueryformula)
+**Inheritance:** [`PowerQueryFormulaFunction`](/cells/python-net/aspose.cells.querytables/powerqueryformulafunction) → 
+[`PowerQueryFormula`](/cells/python-net/aspose.cells.querytables/powerqueryformula)
 
 
 
@@ -32,6 +32,6 @@ The PowerQueryFormulaFunction type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.querytables](..)
-* class [PowerQueryFormula](/cells/python-net/aspose.cells.querytables/powerqueryformula)
-* class [PowerQueryFormulaFunction](/cells/python-net/aspose.cells.querytables/powerqueryformulafunction)
+* module [`aspose.cells.querytables`](..)
+* class [`PowerQueryFormula`](/cells/python-net/aspose.cells.querytables/powerqueryformula)
+* class [`PowerQueryFormulaFunction`](/cells/python-net/aspose.cells.querytables/powerqueryformulafunction)

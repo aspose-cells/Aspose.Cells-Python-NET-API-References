@@ -3,7 +3,7 @@ title: left_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 720
 url: /aspose.cells.drawing/radiobutton/left_inch/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Represents the horizontal offset of shape from its left column, in unit of inche
 ```python
 
 if shape.left_inch == 3:
-    shape.left_inch = 1
+    shape.left_inch = 1.0
 
 ```
 ### Definition:
@@ -33,5 +33,5 @@ def left_inch(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [RadioButton](/cells/python-net/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* class [`RadioButton`](/cells/python-net/aspose.cells.drawing/radiobutton)

@@ -8,7 +8,7 @@ url: /aspose.cells/querytablecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#QueryTable}
+## binary_search {#aspose.cells.QueryTable}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [QueryTable](/cells/python-net/aspose.cells/querytable) | The System.Object to locate. The value can be null. |
+| item | [`QueryTable`](/cells/python-net/aspose.cells/querytable) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [QueryTableCollection](/cells/python-net/aspose.cells/querytablecollection)
+* module [`aspose.cells`](../../)
+* class [`QueryTableCollection`](/cells/python-net/aspose.cells/querytablecollection)

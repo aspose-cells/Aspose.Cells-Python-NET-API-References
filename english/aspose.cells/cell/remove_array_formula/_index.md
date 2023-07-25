@@ -8,7 +8,7 @@ url: /aspose.cells/cell/remove_array_formula/
 is_root: false
 ---
 
-## remove_array_formula(leave_normal_formula) {#bool}
+## remove_array_formula {#bool}
 
 Remove array formula.
 
@@ -27,5 +27,5 @@ def remove_array_formula(self, leave_normal_formula):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cell](/cells/python-net/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

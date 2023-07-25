@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdataprovider/next_row/
 is_root: false
 ---
 
-## next_row() {#}
+## next_row {#}
 
 Gets the next row to be saved.
 
@@ -27,9 +27,9 @@ def next_row(self):
 
 ### Remarks
 
-It will be called at the beginning of saving a row and its cells data(before [LightCellsDataProvider.start_row(row)](/cells/python-net/aspose.cells/lightcellsdataprovider/start_row)).
+It will be called at the beginning of saving a row and its cells data(before [`LightCellsDataProvider.start_row`](/cells/python-net/aspose.cells/lightcellsdataprovider/start_row)).
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LightCellsDataProvider](/cells/python-net/aspose.cells/lightcellsdataprovider)
+* module [`aspose.cells`](../../)
+* class [`LightCellsDataProvider`](/cells/python-net/aspose.cells/lightcellsdataprovider)

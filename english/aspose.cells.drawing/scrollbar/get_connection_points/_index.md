@@ -3,12 +3,12 @@ title: get_connection_points method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.drawing/scrollbar/get_connection_points/
 is_root: false
 ---
 
-## get_connection_points() {#}
+## get_connection_points {#}
 
 Get the connection points
 
@@ -38,5 +38,5 @@ points = shape.get_connection_points()
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ScrollBar](/cells/python-net/aspose.cells.drawing/scrollbar)
+* module [`aspose.cells.drawing`](../../)
+* class [`ScrollBar`](/cells/python-net/aspose.cells.drawing/scrollbar)

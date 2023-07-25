@@ -19,7 +19,7 @@ The TickLabels type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [font](/cells/python-net/aspose.cells.charts/ticklabels/font) | Returns a [TickLabels.font](/cells/python-net/aspose.cells.charts/ticklabels#font) object that represents the font of the specified TickLabels object. |
+| [font](/cells/python-net/aspose.cells.charts/ticklabels/font) | Returns a [`TickLabels.font`](/cells/python-net/aspose.cells.charts/ticklabels#font) object that represents the font of the specified TickLabels object. |
 | [auto_scale_font](/cells/python-net/aspose.cells.charts/ticklabels/auto_scale_font) | True if the text in the object changes font size when the object size changes. The default value is True. |
 | [background_mode](/cells/python-net/aspose.cells.charts/ticklabels/background_mode) | Gets and sets the display mode of the background |
 | [rotation_angle](/cells/python-net/aspose.cells.charts/ticklabels/rotation_angle) | Represents text rotation angle in clockwise. |
@@ -32,9 +32,9 @@ The TickLabels type exposes the following members:
 | [text_direction](/cells/python-net/aspose.cells.charts/ticklabels/text_direction) | Represents text reading order. |
 | [reading_order](/cells/python-net/aspose.cells.charts/ticklabels/reading_order) | Represents text reading order. |
 | [direction_type](/cells/python-net/aspose.cells.charts/ticklabels/direction_type) | Gets and sets the direction of text. |
-| [tick_label_items](/cells/python-net/aspose.cells.charts/ticklabels/tick_label_items) | Gets the items' info of TickLabel. |
+| [tick_label_items](/cells/python-net/aspose.cells.charts/ticklabels/tick_label_items) | Gets each tick label item's information of axis. |
 
 
 
 ### See Also
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

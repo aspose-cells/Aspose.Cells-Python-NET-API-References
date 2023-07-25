@@ -8,7 +8,7 @@ url: /aspose.cells.saving/sqlscriptcolumntypemap/__init__/
 is_root: false
 ---
 
-## SqlScriptColumnTypeMap() {#}
+## __init__ {#}
 
 Constructs a new instance of SqlScriptColumnTypeMap
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells.saving](../../)
-* class [SqlScriptColumnTypeMap](/cells/python-net/aspose.cells.saving/sqlscriptcolumntypemap)
+* module [`aspose.cells.saving`](../../)
+* class [`SqlScriptColumnTypeMap`](/cells/python-net/aspose.cells.saving/sqlscriptcolumntypemap)

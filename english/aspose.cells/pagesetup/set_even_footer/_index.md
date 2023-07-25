@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/set_even_footer/
 is_root: false
 ---
 
-## set_even_footer(section, footer_script) {#int-str}
+## set_even_footer {#int-str}
 
 Sets a script formatting the even page footer of an Excel file.
 Only effect in Excel 2007 when IsHFDiffOddEven is true.
@@ -29,5 +29,5 @@ def set_even_footer(self, section, footer_script):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)

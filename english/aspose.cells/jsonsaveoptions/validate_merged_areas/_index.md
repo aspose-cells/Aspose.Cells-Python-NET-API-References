@@ -28,5 +28,5 @@ def validate_merged_areas(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [JsonSaveOptions](/cells/python-net/aspose.cells/jsonsaveoptions)
+* module [`aspose.cells`](../../)
+* class [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions)

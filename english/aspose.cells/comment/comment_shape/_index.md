@@ -31,6 +31,6 @@ def comment_shape(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Comment](/cells/python-net/aspose.cells/comment)
-* class [CommentShape](/cells/python-net/aspose.cells.drawing/commentshape)
+* module [`aspose.cells`](../../)
+* class [`Comment`](/cells/python-net/aspose.cells/comment)
+* class [`CommentShape`](/cells/python-net/aspose.cells.drawing/commentshape)

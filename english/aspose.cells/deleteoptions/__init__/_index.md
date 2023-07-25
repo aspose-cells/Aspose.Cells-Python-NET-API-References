@@ -8,7 +8,7 @@ url: /aspose.cells/deleteoptions/__init__/
 is_root: false
 ---
 
-## DeleteOptions() {#}
+## __init__ {#}
 
 Constructs a new instance of DeleteOptions
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DeleteOptions](/cells/python-net/aspose.cells/deleteoptions)
+* module [`aspose.cells`](../../)
+* class [`DeleteOptions`](/cells/python-net/aspose.cells/deleteoptions)

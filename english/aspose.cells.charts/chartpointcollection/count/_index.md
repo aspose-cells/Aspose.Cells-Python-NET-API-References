@@ -20,5 +20,5 @@ def count(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartPointCollection](/cells/python-net/aspose.cells.charts/chartpointcollection)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartPointCollection`](/cells/python-net/aspose.cells.charts/chartpointcollection)

@@ -23,6 +23,6 @@ def format_strategy(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CellValueFormatStrategy](/cells/python-net/aspose.cells/cellvalueformatstrategy)
-* class [ExportTableOptions](/cells/python-net/aspose.cells/exporttableoptions)
+* module [`aspose.cells`](../../)
+* class [`CellValueFormatStrategy`](/cells/python-net/aspose.cells/cellvalueformatstrategy)
+* class [`ExportTableOptions`](/cells/python-net/aspose.cells/exporttableoptions)

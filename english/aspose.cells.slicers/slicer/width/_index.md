@@ -18,7 +18,7 @@ Returns or sets the width of the specified slicer, in points.
 
 ```python
 
-slicer.width = 100
+slicer.width = 100.0
 
 ```
 ### Definition:
@@ -32,5 +32,5 @@ def width(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.slicers](../../)
-* class [Slicer](/cells/python-net/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* class [`Slicer`](/cells/python-net/aspose.cells.slicers/slicer)

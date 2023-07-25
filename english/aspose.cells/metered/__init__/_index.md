@@ -8,7 +8,7 @@ url: /aspose.cells/metered/__init__/
 is_root: false
 ---
 
-## Metered() {#}
+## __init__ {#}
 
 Initializes a new instance of this class.
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Metered](/cells/python-net/aspose.cells/metered)
+* module [`aspose.cells`](../../)
+* class [`Metered`](/cells/python-net/aspose.cells/metered)

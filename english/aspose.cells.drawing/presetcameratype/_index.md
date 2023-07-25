@@ -3,7 +3,7 @@ title: PresetCameraType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1060
+weight: 1050
 url: /aspose.cells.drawing/presetcameratype/
 is_root: false
 ---
@@ -85,4 +85,4 @@ The PresetCameraType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

@@ -3,7 +3,7 @@ title: OperatorType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2290
+weight: 2340
 url: /aspose.cells/operatortype/
 is_root: false
 ---
@@ -32,4 +32,4 @@ The OperatorType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

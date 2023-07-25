@@ -23,5 +23,5 @@ def is_horizontal(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [Spinner](/cells/python-net/aspose.cells.drawing/spinner)
+* module [`aspose.cells.drawing`](../../)
+* class [`Spinner`](/cells/python-net/aspose.cells.drawing/spinner)

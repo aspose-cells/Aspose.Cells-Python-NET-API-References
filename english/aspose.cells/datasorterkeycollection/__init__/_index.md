@@ -8,7 +8,7 @@ url: /aspose.cells/datasorterkeycollection/__init__/
 is_root: false
 ---
 
-## DataSorterKeyCollection() {#}
+## __init__ {#}
 
 Constructs a new instance of DataSorterKeyCollection
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [DataSorterKeyCollection](/cells/python-net/aspose.cells/datasorterkeycollection)
+* module [`aspose.cells`](../../)
+* class [`DataSorterKeyCollection`](/cells/python-net/aspose.cells/datasorterkeycollection)

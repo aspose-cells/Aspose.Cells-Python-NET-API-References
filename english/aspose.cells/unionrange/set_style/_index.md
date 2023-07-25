@@ -8,7 +8,7 @@ url: /aspose.cells/unionrange/set_style/
 is_root: false
 ---
 
-## set_style(style) {#Style}
+## set_style {#aspose.cells.Style}
 
 Sets the style of the range.
 
@@ -22,10 +22,10 @@ def set_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [Style](/cells/python-net/aspose.cells/style) | The Style object. |
+| style | [`Style`](/cells/python-net/aspose.cells/style) | The Style object. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [UnionRange](/cells/python-net/aspose.cells/unionrange)
+* module [`aspose.cells`](../../)
+* class [`UnionRange`](/cells/python-net/aspose.cells/unionrange)

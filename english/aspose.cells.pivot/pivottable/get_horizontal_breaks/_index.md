@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/get_horizontal_breaks/
 is_root: false
 ---
 
-## get_horizontal_breaks() {#}
+## get_horizontal_breaks {#}
 
 get pivot table row index list of horizontal pagebreaks
 
@@ -29,5 +29,5 @@ def get_horizontal_breaks(self):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTable](/cells/python-net/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

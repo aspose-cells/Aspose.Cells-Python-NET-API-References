@@ -28,6 +28,6 @@ def base_unit_scale(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Axis](/cells/python-net/aspose.cells.charts/axis)
-* class [TimeUnit](/cells/python-net/aspose.cells.charts/timeunit)
+* module [`aspose.cells.charts`](../../)
+* class [`Axis`](/cells/python-net/aspose.cells.charts/axis)
+* class [`TimeUnit`](/cells/python-net/aspose.cells.charts/timeunit)

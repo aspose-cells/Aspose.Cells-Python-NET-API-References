@@ -3,7 +3,7 @@ title: XmlSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1720
+weight: 1770
 url: /aspose.cells/xmlsaveoptions/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Represents the options of saving the workbook as an xml file.
 
 
 
-**Inheritance:** [XmlSaveOptions](/cells/python-net/aspose.cells/xmlsaveoptions) → 
-[SaveOptions](/cells/python-net/aspose.cells/saveoptions)
+**Inheritance:** [`XmlSaveOptions`](/cells/python-net/aspose.cells/xmlsaveoptions) → 
+[`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
 
 
 
@@ -24,7 +24,7 @@ The XmlSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [XmlSaveOptions()](/cells/python-net/aspose.cells/xmlsaveoptions/__init__/#) | Creates options for saving xml file. |
+| [__init__](/cells/python-net/aspose.cells/xmlsaveoptions/__init__/#) | Creates options for saving xml file. |
 
 
 ### Properties
@@ -45,10 +45,12 @@ The XmlSaveOptions type exposes the following members:
 | [export_area](/cells/python-net/aspose.cells/xmlsaveoptions/export_area) | Gets or sets the exporting range. |
 | [has_header_row](/cells/python-net/aspose.cells/xmlsaveoptions/has_header_row) | Indicates whether the range contains header row. |
 | [xml_map_name](/cells/python-net/aspose.cells/xmlsaveoptions/xml_map_name) | Indicates whether exporting xml map in the file. |
+| [sheet_name_as_element_name](/cells/python-net/aspose.cells/xmlsaveoptions/sheet_name_as_element_name) | Indicates whether exporting sheet's name as the name of the element. |
+| [data_as_attribute](/cells/python-net/aspose.cells/xmlsaveoptions/data_as_attribute) | Indicates whether exporting data as attributes of element. |
 
 
 
 ### See Also
-* module [aspose.cells](..)
-* class [SaveOptions](/cells/python-net/aspose.cells/saveoptions)
-* class [XmlSaveOptions](/cells/python-net/aspose.cells/xmlsaveoptions)
+* module [`aspose.cells`](..)
+* class [`SaveOptions`](/cells/python-net/aspose.cells/saveoptions)
+* class [`XmlSaveOptions`](/cells/python-net/aspose.cells/xmlsaveoptions)

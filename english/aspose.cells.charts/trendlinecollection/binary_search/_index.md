@@ -8,7 +8,7 @@ url: /aspose.cells.charts/trendlinecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Trendline}
+## binary_search {#aspose.cells.charts.Trendline}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Trendline](/cells/python-net/aspose.cells.charts/trendline) | The System.Object to locate. The value can be null. |
+| item | [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [TrendlineCollection](/cells/python-net/aspose.cells.charts/trendlinecollection)
+* module [`aspose.cells.charts`](../../)
+* class [`TrendlineCollection`](/cells/python-net/aspose.cells.charts/trendlinecollection)

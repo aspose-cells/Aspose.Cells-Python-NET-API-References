@@ -3,7 +3,7 @@ title: ThemeColorType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2580
+weight: 2630
 url: /aspose.cells/themecolortype/
 is_root: false
 ---
@@ -36,4 +36,4 @@ The ThemeColorType type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

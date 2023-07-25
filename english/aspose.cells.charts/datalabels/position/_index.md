@@ -23,6 +23,6 @@ def position(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [DataLabels](/cells/python-net/aspose.cells.charts/datalabels)
-* class [LabelPositionType](/cells/python-net/aspose.cells.charts/labelpositiontype)
+* module [`aspose.cells.charts`](../../)
+* class [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels)
+* class [`LabelPositionType`](/cells/python-net/aspose.cells.charts/labelpositiontype)

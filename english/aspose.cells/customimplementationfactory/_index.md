@@ -19,9 +19,9 @@ The CustomImplementationFactory type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [CustomImplementationFactory()](/cells/python-net/aspose.cells/customimplementationfactory/__init__/#) | Constructs a new instance of CustomImplementationFactory |
+| [__init__](/cells/python-net/aspose.cells/customimplementationfactory/__init__/#) | Constructs a new instance of CustomImplementationFactory |
 
 
 
 ### See Also
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

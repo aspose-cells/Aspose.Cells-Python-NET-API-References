@@ -40,7 +40,7 @@ The ListObject type exposes the following members:
 | [show_table_style_column_stripes](/cells/python-net/aspose.cells.tables/listobject/show_table_style_column_stripes) | Indicates whether column stripe formatting is applied. |
 | [table_style_type](/cells/python-net/aspose.cells.tables/listobject/table_style_type) | Gets and the built-in table style. |
 | [table_style_name](/cells/python-net/aspose.cells.tables/listobject/table_style_name) | Gets and sets the table style name. |
-| [xml_map](/cells/python-net/aspose.cells.tables/listobject/xml_map) | Gets an [ListObject.xml_map](/cells/python-net/aspose.cells.tables/listobject#xml_map) used for this list. |
+| [xml_map](/cells/python-net/aspose.cells.tables/listobject/xml_map) | Gets an [`ListObject.xml_map`](/cells/python-net/aspose.cells.tables/listobject#xml_map) used for this list. |
 | [alternative_text](/cells/python-net/aspose.cells.tables/listobject/alternative_text) | Gets and sets the alternative text. |
 | [alternative_description](/cells/python-net/aspose.cells.tables/listobject/alternative_description) | Gets and sets the alternative description. |
 
@@ -48,13 +48,16 @@ The ListObject type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [convert_to_range()](/cells/python-net/aspose.cells.tables/listobject/convert_to_range/#) | Convert the table to range. |
-| [convert_to_range(options)](/cells/python-net/aspose.cells.tables/listobject/convert_to_range/#TableToRangeOptions) | Convert the table to range. |
-| [resize(start_row, start_column, end_row, end_column, has_headers)](/cells/python-net/aspose.cells.tables/listobject/resize/#int-int-int-int-bool) | Resize the range of the list object. |
-| [put_cell_value(row_offset, column_offset, value)](/cells/python-net/aspose.cells.tables/listobject/put_cell_value/#int-int-any) | Put the value to the cell. |
-| [update_column_name()](/cells/python-net/aspose.cells.tables/listobject/update_column_name/#) | Updates all list columns' name from the worksheet. |
-| [filter()](/cells/python-net/aspose.cells.tables/listobject/filter/#) | Filter the table. |
-| [apply_style_to_range()](/cells/python-net/aspose.cells.tables/listobject/apply_style_to_range/#) | Apply the table style to the range. |
+| [put_cell_value](/cells/python-net/aspose.cells.tables/listobject/put_cell_value/#int-int-any) | Put the value to the cell. |
+| [put_cell_value](/cells/python-net/aspose.cells.tables/listobject/put_cell_value/#int-int-any-bool) | Put the value to the cell. |
+| [put_cell_formula](/cells/python-net/aspose.cells.tables/listobject/put_cell_formula/#int-int-str) | Put the formula to the cell in the table. |
+| [put_cell_formula](/cells/python-net/aspose.cells.tables/listobject/put_cell_formula/#int-int-str-bool) | Put the formula to the cell in the table. |
+| [convert_to_range](/cells/python-net/aspose.cells.tables/listobject/convert_to_range/#) | Convert the table to range. |
+| [convert_to_range](/cells/python-net/aspose.cells.tables/listobject/convert_to_range/#aspose.cells.tables.TableToRangeOptions) | Convert the table to range. |
+| [resize](/cells/python-net/aspose.cells.tables/listobject/resize/#int-int-int-int-bool) | Resize the range of the list object. |
+| [update_column_name](/cells/python-net/aspose.cells.tables/listobject/update_column_name/#) | Updates all list columns' name from the worksheet. |
+| [filter](/cells/python-net/aspose.cells.tables/listobject/filter/#) | Filter the table. |
+| [apply_style_to_range](/cells/python-net/aspose.cells.tables/listobject/apply_style_to_range/#) | Apply the table style to the range. |
 
 
 
@@ -82,4 +85,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ### See Also
-* module [aspose.cells.tables](..)
+* module [`aspose.cells.tables`](..)

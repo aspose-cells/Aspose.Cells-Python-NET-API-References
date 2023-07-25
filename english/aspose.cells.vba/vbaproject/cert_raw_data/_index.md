@@ -20,5 +20,5 @@ def cert_raw_data(self):
 ```
 
 ### See Also
-* module [aspose.cells.vba](../../)
-* class [VbaProject](/cells/python-net/aspose.cells.vba/vbaproject)
+* module [`aspose.cells.vba`](../../)
+* class [`VbaProject`](/cells/python-net/aspose.cells.vba/vbaproject)

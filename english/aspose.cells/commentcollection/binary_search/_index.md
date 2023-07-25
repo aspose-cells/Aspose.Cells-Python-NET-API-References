@@ -8,7 +8,7 @@ url: /aspose.cells/commentcollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#Comment}
+## binary_search {#aspose.cells.Comment}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [Comment](/cells/python-net/aspose.cells/comment) | The System.Object to locate. The value can be null. |
+| item | [`Comment`](/cells/python-net/aspose.cells/comment) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [CommentCollection](/cells/python-net/aspose.cells/commentcollection)
+* module [`aspose.cells`](../../)
+* class [`CommentCollection`](/cells/python-net/aspose.cells/commentcollection)

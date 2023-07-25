@@ -3,7 +3,7 @@ title: style property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells/row/style/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def style(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Row](/cells/python-net/aspose.cells/row)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`Row`](/cells/python-net/aspose.cells/row)
+* class [`Style`](/cells/python-net/aspose.cells/style)

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/find_formula_contains/
 is_root: false
 ---
 
-## find_formula_contains(formula, previous_cell) {#str-Cell}
+## find_formula_contains {#str-aspose.cells.Cell}
 
 Finds the cell with formula which contains the input string.
 
@@ -28,7 +28,7 @@ def find_formula_contains(self, formula, previous_cell):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | formula | str | The formula to search for. |
-| previous_cell | [Cell](/cells/python-net/aspose.cells/cell) | Previous cell with the same formula. This parameter can be set to null if searching from the start. |
+| previous_cell | [`Cell`](/cells/python-net/aspose.cells/cell) | Previous cell with the same formula. This parameter can be set to null if searching from the start. |
 ### Remarks
 
 Returns null (Nothing) if no cell is found.
@@ -40,5 +40,5 @@ Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Cells](/cells/python-net/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)

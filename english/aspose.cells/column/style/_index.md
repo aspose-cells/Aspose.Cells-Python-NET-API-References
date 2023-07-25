@@ -28,6 +28,6 @@ def style(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Column](/cells/python-net/aspose.cells/column)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`Column`](/cells/python-net/aspose.cells/column)
+* class [`Style`](/cells/python-net/aspose.cells/style)

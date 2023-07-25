@@ -14,8 +14,8 @@ Represents error bar of data series.
 
 
 
-**Inheritance:** [ErrorBar](/cells/python-net/aspose.cells.charts/errorbar) → 
-[Line](/cells/python-net/aspose.cells.drawing/line)
+**Inheritance:** [`ErrorBar`](/cells/python-net/aspose.cells.charts/errorbar) → 
+[`Line`](/cells/python-net/aspose.cells.drawing/line)
 
 
 
@@ -38,7 +38,7 @@ The ErrorBar type exposes the following members:
 | [color](/cells/python-net/aspose.cells.charts/errorbar/color) | Represents the Color of the line. |
 | [transparency](/cells/python-net/aspose.cells.charts/errorbar/transparency) | Returns or sets the degree of transparency of the line as a value from 0.0 (opaque) through 1.0 (clear). |
 | [style](/cells/python-net/aspose.cells.charts/errorbar/style) | Represents the style of the line. |
-| [weight](/cells/python-net/aspose.cells.charts/errorbar/weight) | Gets or sets the [WeightType](/cells/python-net/aspose.cells.drawing/weighttype) of the line. |
+| [weight](/cells/python-net/aspose.cells.charts/errorbar/weight) | Gets or sets the [`WeightType`](/cells/python-net/aspose.cells.drawing/weighttype) of the line. |
 | [weight_pt](/cells/python-net/aspose.cells.charts/errorbar/weight_pt) | Gets or sets the weight of the line in unit of points. |
 | [weight_px](/cells/python-net/aspose.cells.charts/errorbar/weight_px) | Gets or sets the weight of the line in unit of pixels. |
 | [formatting_type](/cells/python-net/aspose.cells.charts/errorbar/formatting_type) | Gets or sets format type. |
@@ -80,16 +80,16 @@ chartIndex = workbook.worksheets[0].charts.add(ChartType.COLUMN, 11, 0, 27, 10)
 chart = workbook.worksheets[0].charts[chartIndex]
 chart.n_series.add("A1:B4", True)
 chart.n_series.category_data = "C1:C4"
-for i in range(len(chart.NSeries)):
+for i in range(len(chart.n_series)):
     aseries = chart.n_series[i]
     aseries.y_error_bar.display_type = ErrorBarDisplayType.MINUS
     aseries.y_error_bar.type = ErrorBarType.FIXED_VALUE
-    aseries.y_error_bar.amount = 5
+    aseries.y_error_bar.amount = 5.0
 
 ```
 
 ### See Also
-* module [aspose.cells.charts](..)
-* class [ErrorBar](/cells/python-net/aspose.cells.charts/errorbar)
-* class [Line](/cells/python-net/aspose.cells.drawing/line)
-* class [WeightType](/cells/python-net/aspose.cells.drawing/weighttype)
+* module [`aspose.cells.charts`](..)
+* class [`ErrorBar`](/cells/python-net/aspose.cells.charts/errorbar)
+* class [`Line`](/cells/python-net/aspose.cells.drawing/line)
+* class [`WeightType`](/cells/python-net/aspose.cells.drawing/weighttype)

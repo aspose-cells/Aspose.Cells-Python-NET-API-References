@@ -23,5 +23,5 @@ def show_legend_key(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartDataTable](/cells/python-net/aspose.cells.charts/chartdatatable)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartDataTable`](/cells/python-net/aspose.cells.charts/chartdatatable)

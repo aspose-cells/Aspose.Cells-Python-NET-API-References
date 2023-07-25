@@ -8,7 +8,7 @@ url: /aspose.cells/individualfontconfigs/set_font_sources/
 is_root: false
 ---
 
-## set_font_sources(sources) {#list}
+## set_font_sources {#list}
 
 Sets the fonts sources.
 
@@ -27,5 +27,5 @@ def set_font_sources(self, sources):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [IndividualFontConfigs](/cells/python-net/aspose.cells/individualfontconfigs)
+* module [`aspose.cells`](../../)
+* class [`IndividualFontConfigs`](/cells/python-net/aspose.cells/individualfontconfigs)

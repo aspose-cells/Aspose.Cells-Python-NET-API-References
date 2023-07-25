@@ -8,7 +8,7 @@ url: /aspose.cells/style/set_border/
 is_root: false
 ---
 
-## set_border(border_type, border_style, border_color) {#BorderType-CellBorderType-aspose.pydrawing.Color}
+## set_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
 
 Sets the borders of the style.
 
@@ -27,12 +27,12 @@ def set_border(self, border_type, border_style, border_color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| border_type | [BorderType](/cells/python-net/aspose.cells/bordertype) | The border(s) to be set, can be combination of [BorderType](/cells/python-net/aspose.cells/bordertype). |
-| border_style | [CellBorderType](/cells/python-net/aspose.cells/cellbordertype) | The style of the border. |
+| border_type | [`BorderType`](/cells/python-net/aspose.cells/bordertype) | The border(s) to be set, can be combination of [`BorderType`](/cells/python-net/aspose.cells/bordertype). |
+| border_style | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | The style of the border. |
 | border_color | aspose.pydrawing.Color | The color of the border. |
 
 
-## set_border(border_type, border_style, border_color) {#BorderType-CellBorderType-CellsColor}
+## set_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
 
 Sets the borders of the style.
 
@@ -51,13 +51,13 @@ def set_border(self, border_type, border_style, border_color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| border_type | [BorderType](/cells/python-net/aspose.cells/bordertype) | The border(s) to be set, can be combination of [BorderType](/cells/python-net/aspose.cells/bordertype). |
-| border_style | [CellBorderType](/cells/python-net/aspose.cells/cellbordertype) | The style of the border. |
-| border_color | [CellsColor](/cells/python-net/aspose.cells/cellscolor) | The color of the border. |
+| border_type | [`BorderType`](/cells/python-net/aspose.cells/bordertype) | The border(s) to be set, can be combination of [`BorderType`](/cells/python-net/aspose.cells/bordertype). |
+| border_style | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | The style of the border. |
+| border_color | [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) | The color of the border. |
 
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [BorderType](/cells/python-net/aspose.cells/bordertype)
-* class [Style](/cells/python-net/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* class [`BorderType`](/cells/python-net/aspose.cells/bordertype)
+* class [`Style`](/cells/python-net/aspose.cells/style)

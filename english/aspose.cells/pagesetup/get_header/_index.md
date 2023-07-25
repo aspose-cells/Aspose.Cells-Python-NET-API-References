@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/get_header/
 is_root: false
 ---
 
-## get_header(section) {#int}
+## get_header {#int}
 
 Gets a script formatting the header of an Excel file.
 
@@ -27,5 +27,5 @@ def get_header(self, section):
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PageSetup](/cells/python-net/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* class [`PageSetup`](/cells/python-net/aspose.cells/pagesetup)

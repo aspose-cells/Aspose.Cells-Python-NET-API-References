@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapeguidecollection/binary_search/
 is_root: false
 ---
 
-## binary_search(item) {#ShapeGuide}
+## binary_search {#aspose.cells.drawing.ShapeGuide}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -27,10 +27,10 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [ShapeGuide](/cells/python-net/aspose.cells.drawing/shapeguide) | The System.Object to locate. The value can be null. |
+| item | [`ShapeGuide`](/cells/python-net/aspose.cells.drawing/shapeguide) | The System.Object to locate. The value can be null. |
 
 
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ShapeGuideCollection](/cells/python-net/aspose.cells.drawing/shapeguidecollection)
+* module [`aspose.cells.drawing`](../../)
+* class [`ShapeGuideCollection`](/cells/python-net/aspose.cells.drawing/shapeguidecollection)

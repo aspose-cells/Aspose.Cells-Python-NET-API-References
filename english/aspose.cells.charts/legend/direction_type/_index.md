@@ -23,6 +23,6 @@ def direction_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartTextDirectionType](/cells/python-net/aspose.cells.charts/charttextdirectiontype)
-* class [Legend](/cells/python-net/aspose.cells.charts/legend)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartTextDirectionType`](/cells/python-net/aspose.cells.charts/charttextdirectiontype)
+* class [`Legend`](/cells/python-net/aspose.cells.charts/legend)

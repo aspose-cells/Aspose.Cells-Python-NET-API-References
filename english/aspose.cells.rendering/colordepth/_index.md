@@ -3,7 +3,7 @@ title: ColorDepth enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 160
 url: /aspose.cells.rendering/colordepth/
 is_root: false
 ---
@@ -29,4 +29,4 @@ The ColorDepth type exposes the following members:
 
 
 ### See Also
-* module [aspose.cells.rendering](..)
+* module [`aspose.cells.rendering`](..)

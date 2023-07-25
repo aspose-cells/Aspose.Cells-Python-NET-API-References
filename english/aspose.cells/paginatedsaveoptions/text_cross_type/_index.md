@@ -23,6 +23,6 @@ def text_cross_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions)
-* class [TextCrossType](/cells/python-net/aspose.cells/textcrosstype)
+* module [`aspose.cells`](../../)
+* class [`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions)
+* class [`TextCrossType`](/cells/python-net/aspose.cells/textcrosstype)

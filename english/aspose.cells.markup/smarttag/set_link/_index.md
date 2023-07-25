@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttag/set_link/
 is_root: false
 ---
 
-## set_link(uri, name) {#str-str}
+## set_link {#str-str}
 
 Change the name and  the namespace URI of the smart tag.
 
@@ -28,5 +28,5 @@ def set_link(self, uri, name):
 
 
 ### See Also
-* module [aspose.cells.markup](../../)
-* class [SmartTag](/cells/python-net/aspose.cells.markup/smarttag)
+* module [`aspose.cells.markup`](../../)
+* class [`SmartTag`](/cells/python-net/aspose.cells.markup/smarttag)

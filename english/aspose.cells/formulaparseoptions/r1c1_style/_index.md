@@ -23,5 +23,5 @@ def r1c1_style(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [FormulaParseOptions](/cells/python-net/aspose.cells/formulaparseoptions)
+* module [`aspose.cells`](../../)
+* class [`FormulaParseOptions`](/cells/python-net/aspose.cells/formulaparseoptions)

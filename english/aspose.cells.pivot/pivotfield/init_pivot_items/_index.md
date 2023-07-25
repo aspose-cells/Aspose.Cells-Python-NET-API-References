@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfield/init_pivot_items/
 is_root: false
 ---
 
-## init_pivot_items() {#}
+## init_pivot_items {#}
 
 Init the pivot items of the pivot field
 
@@ -24,5 +24,5 @@ def init_pivot_items(self):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotField](/cells/python-net/aspose.cells.pivot/pivotfield)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)

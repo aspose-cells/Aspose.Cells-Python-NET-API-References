@@ -29,6 +29,6 @@ def three_d_format(self):
 ```
 
 ### See Also
-* module [aspose.cells.drawing](../../)
-* class [ThreeDFormat](/cells/python-net/aspose.cells.drawing/threedformat)
-* class [WebExtensionShape](/cells/python-net/aspose.cells.drawing/webextensionshape)
+* module [`aspose.cells.drawing`](../../)
+* class [`ThreeDFormat`](/cells/python-net/aspose.cells.drawing/threedformat)
+* class [`WebExtensionShape`](/cells/python-net/aspose.cells.drawing/webextensionshape)

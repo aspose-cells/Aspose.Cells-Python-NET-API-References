@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chart/get_actual_size/
 is_root: false
 ---
 
-## get_actual_size() {#}
+## get_actual_size {#}
 
 Gets actual size of chart in unit of pixels.
 
@@ -30,5 +30,5 @@ def get_actual_size(self):
 
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [Chart](/cells/python-net/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)

@@ -23,6 +23,6 @@ def text_direction(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Style](/cells/python-net/aspose.cells/style)
-* class [TextDirectionType](/cells/python-net/aspose.cells/textdirectiontype)
+* module [`aspose.cells`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)
+* class [`TextDirectionType`](/cells/python-net/aspose.cells/textdirectiontype)

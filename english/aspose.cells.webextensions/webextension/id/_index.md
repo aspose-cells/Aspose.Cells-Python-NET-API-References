@@ -23,5 +23,5 @@ def id(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.webextensions](../../)
-* class [WebExtension](/cells/python-net/aspose.cells.webextensions/webextension)
+* module [`aspose.cells.webextensions`](../../)
+* class [`WebExtension`](/cells/python-net/aspose.cells.webextensions/webextension)

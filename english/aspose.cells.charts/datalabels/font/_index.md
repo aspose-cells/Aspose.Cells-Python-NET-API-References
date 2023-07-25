@@ -20,6 +20,6 @@ def font(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [DataLabels](/cells/python-net/aspose.cells.charts/datalabels)
-* class [Font](/cells/python-net/aspose.cells/font)
+* module [`aspose.cells.charts`](../../)
+* class [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels)
+* class [`Font`](/cells/python-net/aspose.cells/font)

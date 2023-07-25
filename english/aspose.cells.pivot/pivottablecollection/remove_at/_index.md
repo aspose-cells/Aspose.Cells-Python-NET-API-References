@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottablecollection/remove_at/
 is_root: false
 ---
 
-## remove_at(index, keep_data) {#int-bool}
+## remove_at {#int-bool}
 
 Deletes the PivotTable at the specified index
 
@@ -28,5 +28,5 @@ def remove_at(self, index, keep_data):
 
 
 ### See Also
-* module [aspose.cells.pivot](../../)
-* class [PivotTableCollection](/cells/python-net/aspose.cells.pivot/pivottablecollection)
+* module [`aspose.cells.pivot`](../../)
+* class [`PivotTableCollection`](/cells/python-net/aspose.cells.pivot/pivottablecollection)

@@ -3,7 +3,7 @@ title: pane_state property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 680
 url: /aspose.cells/worksheet/pane_state/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def pane_state(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [PaneStateType](/cells/python-net/aspose.cells/panestatetype)
-* class [Worksheet](/cells/python-net/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* class [`PaneStateType`](/cells/python-net/aspose.cells/panestatetype)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

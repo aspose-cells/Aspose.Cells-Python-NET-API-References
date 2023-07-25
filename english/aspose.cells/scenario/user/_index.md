@@ -20,5 +20,5 @@ def user(self):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [Scenario](/cells/python-net/aspose.cells/scenario)
+* module [`aspose.cells`](../../)
+* class [`Scenario`](/cells/python-net/aspose.cells/scenario)

@@ -20,6 +20,6 @@ def data_labels(self):
 ```
 
 ### See Also
-* module [aspose.cells.charts](../../)
-* class [ChartPoint](/cells/python-net/aspose.cells.charts/chartpoint)
-* class [DataLabels](/cells/python-net/aspose.cells.charts/datalabels)
+* module [`aspose.cells.charts`](../../)
+* class [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint)
+* class [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels)

@@ -23,5 +23,5 @@ def is_open(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.rendering](../../)
-* class [PdfBookmarkEntry](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry)
+* module [`aspose.cells.rendering`](../../)
+* class [`PdfBookmarkEntry`](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry)

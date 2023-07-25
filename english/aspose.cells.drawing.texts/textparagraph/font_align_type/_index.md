@@ -24,6 +24,6 @@ def font_align_type(self, value):
 ```
 
 ### See Also
-* module [aspose.cells.drawing.texts](../../)
-* class [TextFontAlignType](/cells/python-net/aspose.cells.drawing.texts/textfontaligntype)
-* class [TextParagraph](/cells/python-net/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](../../)
+* class [`TextFontAlignType`](/cells/python-net/aspose.cells.drawing.texts/textfontaligntype)
+* class [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textparagraph)

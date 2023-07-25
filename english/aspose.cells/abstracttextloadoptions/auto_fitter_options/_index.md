@@ -28,6 +28,6 @@ def auto_fitter_options(self, value):
 ```
 
 ### See Also
-* module [aspose.cells](../../)
-* class [AbstractTextLoadOptions](/cells/python-net/aspose.cells/abstracttextloadoptions)
-* class [AutoFitterOptions](/cells/python-net/aspose.cells/autofitteroptions)
+* module [`aspose.cells`](../../)
+* class [`AbstractTextLoadOptions`](/cells/python-net/aspose.cells/abstracttextloadoptions)
+* class [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions)

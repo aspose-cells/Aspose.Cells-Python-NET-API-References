@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdatahandler/process_cell/
 is_root: false
 ---
 
-## process_cell(cell) {#Cell}
+## process_cell {#aspose.cells.Cell}
 
 Starts to process one cell.
 
@@ -32,12 +32,12 @@ def process_cell(self, cell):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell | [Cell](/cells/python-net/aspose.cells/cell) | Cell object which is being processed currently |
+| cell | [`Cell`](/cells/python-net/aspose.cells/cell) | Cell object which is being processed currently |
 ### Remarks
 
 It will be called after one cell's data has been read.
 
 
 ### See Also
-* module [aspose.cells](../../)
-* class [LightCellsDataHandler](/cells/python-net/aspose.cells/lightcellsdatahandler)
+* module [`aspose.cells`](../../)
+* class [`LightCellsDataHandler`](/cells/python-net/aspose.cells/lightcellsdatahandler)
