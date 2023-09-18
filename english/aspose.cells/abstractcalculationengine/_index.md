@@ -20,7 +20,8 @@ The AbstractCalculationEngine type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [is_param_literal_required](/cells/python-net/aspose.cells/abstractcalculationengine/is_param_literal_required) | Indicates whether this engine needs the literal text of parameter while doing calculation. Default value is false. |
-| [process_built_in_functions](/cells/python-net/aspose.cells/abstractcalculationengine/process_built_in_functions) | Whether built-in functions that have been supported by the built-in engine should be checked and processed by this implementation.<br/>Default is false.<br/>If user needs to change the calculation logic of some built-in functions, this property should be set as true. |
+| [is_param_array_mode_required](/cells/python-net/aspose.cells/abstractcalculationengine/is_param_array_mode_required) | Indicates whether this engine needs the parameter to be calculated in array mode. Default value is false.<br/>If [`CalculationData.get_param_value_in_array_mode`](/cells/python-net/aspose.cells/calculationdata/get_param_value_in_array_mode) is required when calculating custom<br/>functions and user has not updated the definition for them<br/>(by [`Workbook.update_custom_function_definition`](/cells/python-net/aspose.cells/workbook/update_custom_function_definition)),<br/>this property needs to be set as true. |
+| [process_built_in_functions](/cells/python-net/aspose.cells/abstractcalculationengine/process_built_in_functions) | Whether built-in functions that have been supported by the built-in engine<br/>should be checked and processed by this implementation.<br/>Default is false.<br/>If user needs to change the calculation logic of some built-in functions, this property should be set as true.<br/>Otherwise please leave this property as false for performance consideration. |
 
 
 ### Methods
@@ -33,10 +34,12 @@ The AbstractCalculationEngine type exposes the following members:
 ### Remarks 
 
 
-User should not modify any part of the Workbook directly in this implementation(except the calculated result of the custom function, which can be set by CalculationData.CalculatedValue property).
+User should not modify any part of the Workbook directly in this implementation(except
+the calculated result of the custom function, which can be set by CalculationData.CalculatedValue property).
 Otherwise unexpected result or Exception may be caused.
 If user needs to change other data than calculated result in the implementation for some custom functions,
-for example, change cell's formula, style, ...etc., user should gather those data in this implementation and change them out of the scope of formula calculation.
+for example, change cell's formula, style, ...etc., user should gather those data in this implementation
+and change them out of the scope of formula calculation.
 
 ### See Also
 * module [`aspose.cells`](..)

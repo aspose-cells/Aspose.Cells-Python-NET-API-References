@@ -3,7 +3,7 @@ title: DataSorterKeyCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 440
+weight: 460
 url: /aspose.cells/datasorterkeycollection/
 is_root: false
 ---

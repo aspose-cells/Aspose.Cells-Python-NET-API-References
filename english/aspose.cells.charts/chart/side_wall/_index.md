@@ -3,7 +3,7 @@ title: side_wall property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 580
+weight: 590
 url: /aspose.cells.charts/chart/side_wall/
 is_root: false
 ---

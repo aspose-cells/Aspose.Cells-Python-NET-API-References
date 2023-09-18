@@ -13,6 +13,6 @@ The **Aspose.Cells.Rendering.PdfSecurity**  namespace provides classes security 
 ### Classes
 | Class | Description |
 | :- | :- |
-| [`PdfSecurityOptions`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions) | Settings of pdf when converting excel to pdf, PDF/A does not allow security setting. |
+| [`PdfSecurityOptions`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions) | Options for encrypting and access permissions for a PDF document.<br/>PDF/A does not allow security setting. |
 
 

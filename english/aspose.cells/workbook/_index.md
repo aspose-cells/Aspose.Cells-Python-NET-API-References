@@ -3,7 +3,7 @@ title: Workbook class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1640
+weight: 1670
 url: /aspose.cells/workbook/
 is_root: false
 ---
@@ -114,6 +114,7 @@ The Workbook type exposes the following members:
 | [custom_theme](/cells/python-net/aspose.cells/workbook/custom_theme/#str-aspose.pydrawing.Color[]) | Customs the theme. |
 | [copy_theme](/cells/python-net/aspose.cells/workbook/copy_theme/#aspose.cells.Workbook) | Copies the theme from another workbook. |
 | [has_exernal_links](/cells/python-net/aspose.cells/workbook/has_exernal_links/#) | Indicates whether this workbook contains external links to other data sources. |
+| [update_custom_function_definition](/cells/python-net/aspose.cells/workbook/update_custom_function_definition/#aspose.cells.CustomFunctionDefinition) | Updates definition of custom functions. |
 | [update_linked_data_source](/cells/python-net/aspose.cells/workbook/update_linked_data_source/#list) | If this workbook contains external links to other data source,<br/>Aspose.Cells will attempt to retrieve the latest data from give sources. |
 | [set_digital_signature](/cells/python-net/aspose.cells/workbook/set_digital_signature/#aspose.cells.digitalsignatures.DigitalSignatureCollection) | Sets digital signature to an spreadsheet file (Excel2007 and later). |
 | [add_digital_signature](/cells/python-net/aspose.cells/workbook/add_digital_signature/#aspose.cells.digitalsignatures.DigitalSignatureCollection) | Adds digital signature to an OOXML spreadsheet file (Excel2007 and later). |

@@ -3,7 +3,7 @@ title: Validation class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1590
+weight: 1620
 url: /aspose.cells/validation/
 is_root: false
 ---
@@ -49,6 +49,7 @@ The Validation type exposes the following members:
 | [set_formula1](/cells/python-net/aspose.cells/validation/set_formula1/#str-bool-bool) | Sets the value or expression associated with this validation. |
 | [set_formula2](/cells/python-net/aspose.cells/validation/set_formula2/#str-bool-bool) | Sets the value or expression associated with this validation. |
 | [get_list_value](/cells/python-net/aspose.cells/validation/get_list_value/#int-int) | Get the value for list of the validation for the specified cell. |
+| [get_value](/cells/python-net/aspose.cells/validation/get_value/#int-int-bool) | Get the value of validation on the specific cell. |
 | [add_areas](/cells/python-net/aspose.cells/validation/add_areas/#list-bool-bool) | Applies the validation to given areas. |
 | [remove_area](/cells/python-net/aspose.cells/validation/remove_area/#aspose.cells.CellArea) | Remove the validation settings in the range. |
 | [remove_areas](/cells/python-net/aspose.cells/validation/remove_areas/#list) | Removes this validation from given areas. |

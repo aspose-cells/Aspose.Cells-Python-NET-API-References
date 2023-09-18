@@ -46,6 +46,7 @@ The AbstractTextLoadOptions type exposes the following members:
 | [auto_filter](/cells/python-net/aspose.cells/abstracttextloadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
 | [font_configs](/cells/python-net/aspose.cells/abstracttextloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
 | [ignore_useless_shapes](/cells/python-net/aspose.cells/abstracttextloadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
+| [preserve_padding_spaces_in_formula](/cells/python-net/aspose.cells/abstracttextloadoptions/preserve_padding_spaces_in_formula) | Indicates whether preserve those spaces and line breaks that are padded between formula tokens<br/>while getting and setting formulas.<br/>Default value is false. |
 | [encoding](/cells/python-net/aspose.cells/abstracttextloadoptions/encoding) | Gets and sets the default encoding. Only applies for csv file. |
 | [load_style_strategy](/cells/python-net/aspose.cells/abstracttextloadoptions/load_style_strategy) | Indicates the strategy to apply style for parsed values when converting string value to number or datetime. |
 | [convert_numeric_data](/cells/python-net/aspose.cells/abstracttextloadoptions/convert_numeric_data) | Gets or sets a value that indicates whether the string in text file is converted to numeric data. |

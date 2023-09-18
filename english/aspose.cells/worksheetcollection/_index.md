@@ -3,7 +3,7 @@ title: WorksheetCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1680
+weight: 1710
 url: /aspose.cells/worksheetcollection/
 is_root: false
 ---
@@ -68,6 +68,7 @@ The WorksheetCollection type exposes the following members:
 | [get_named_ranges_and_tables](/cells/python-net/aspose.cells/worksheetcollection/get_named_ranges_and_tables/#) | Gets all pre-defined named ranges in the spreadsheet. |
 | [set_ole_size](/cells/python-net/aspose.cells/worksheetcollection/set_ole_size/#int-int-int-int) | Sets displayed size when Workbook file is used as an Ole object. |
 | [clear_pivottables](/cells/python-net/aspose.cells/worksheetcollection/clear_pivottables/#) | Clears pivot tables from the spreadsheet. |
+| [refresh_all](/cells/python-net/aspose.cells/worksheetcollection/refresh_all/#) | Refresh all pivot tables and charts with pivot source. |
 | [refresh_pivot_tables](/cells/python-net/aspose.cells/worksheetcollection/refresh_pivot_tables/#) | Refreshes all the PivotTables in the WorksheetCollection. |
 | [binary_search](/cells/python-net/aspose.cells/worksheetcollection/binary_search/#aspose.cells.Worksheet) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 

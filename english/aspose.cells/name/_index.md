@@ -3,7 +3,7 @@ title: Name class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1090
+weight: 1120
 url: /aspose.cells/name/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The Name type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [comment](/cells/python-net/aspose.cells/name/comment) | Gets and sets the comment of the name.<br/>Only applies for Excel 2007. |
+| [comment](/cells/python-net/aspose.cells/name/comment) | Gets and sets the comment of the name.<br/>Only applies for Excel 2007 or higher versions. |
 | [text](/cells/python-net/aspose.cells/name/text) | Gets the name text of the object. |
 | [full_text](/cells/python-net/aspose.cells/name/full_text) | Gets the name  full text of the object with the scope setting. |
 | [refers_to](/cells/python-net/aspose.cells/name/refers_to) | Returns or sets the formula that the name is defined to refer to, beginning with an equal sign. |

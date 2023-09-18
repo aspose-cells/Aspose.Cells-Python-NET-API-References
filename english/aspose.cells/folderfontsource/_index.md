@@ -3,7 +3,7 @@ title: FolderFontSource class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 640
+weight: 670
 url: /aspose.cells/folderfontsource/
 is_root: false
 ---

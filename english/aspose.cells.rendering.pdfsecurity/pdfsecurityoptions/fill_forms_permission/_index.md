@@ -11,7 +11,8 @@ is_root: false
 ## fill_forms_permission property
 
 
-Permission to fill the form fields.
+Indicates whether to allow to fill in existing interactive form fields (including signature fields), 
+even if [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) is clear.
 ### Definition:
 ```python
 @property

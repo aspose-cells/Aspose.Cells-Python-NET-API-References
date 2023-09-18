@@ -11,7 +11,7 @@ is_root: false
 ## accessibility_extract_content property
 
 
-Permission to copy or extract content (in support of accessibility to disabled users or for other purposes).
+Indicates whether to allow to extract text and graphics (in support of accessibility to users with disabilities or for other purposes).
 ### Definition:
 ```python
 @property

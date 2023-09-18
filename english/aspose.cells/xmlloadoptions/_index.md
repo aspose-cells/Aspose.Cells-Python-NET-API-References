@@ -3,7 +3,7 @@ title: XmlLoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1740
+weight: 1770
 url: /aspose.cells/xmlloadoptions/
 is_root: false
 ---
@@ -53,6 +53,7 @@ The XmlLoadOptions type exposes the following members:
 | [auto_filter](/cells/python-net/aspose.cells/xmlloadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
 | [font_configs](/cells/python-net/aspose.cells/xmlloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
 | [ignore_useless_shapes](/cells/python-net/aspose.cells/xmlloadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
+| [preserve_padding_spaces_in_formula](/cells/python-net/aspose.cells/xmlloadoptions/preserve_padding_spaces_in_formula) | Indicates whether preserve those spaces and line breaks that are padded between formula tokens<br/>while getting and setting formulas.<br/>Default value is false. |
 | [start_cell](/cells/python-net/aspose.cells/xmlloadoptions/start_cell) | Gets and sets the start cell. |
 | [is_xml_map](/cells/python-net/aspose.cells/xmlloadoptions/is_xml_map) | Indicates whether mapping xml to Excel.<br/>The default value is false. |
 | [contains_multiple_worksheets](/cells/python-net/aspose.cells/xmlloadoptions/contains_multiple_worksheets) | Indicates whether importing xml as multiple worksheets. |

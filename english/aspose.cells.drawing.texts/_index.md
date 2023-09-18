@@ -14,7 +14,7 @@ The **Aspose.Cells.Drawing.Texts**  namespace provides classes that draw and for
 | Class | Description |
 | :- | :- |
 | [`AutoNumberedBulletValue`](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue) | Represents automatic numbered bullet. |
-| [`Bullet`](/cells/python-net/aspose.cells.drawing.texts/bullet) | Represents the bullet. |
+| [`Bullet`](/cells/python-net/aspose.cells.drawing.texts/bullet) | Represents the bullet points should be applied to a paragraph. |
 | [`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue) | Represents the value of the bullet. |
 | [`CharacterBulletValue`](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue) | Represents the character bullet. |
 | [`FontSettingCollection`](/cells/python-net/aspose.cells.drawing.texts/fontsettingcollection) | Represents the list of [`FontSetting`](/cells/python-net/aspose.cells/fontsetting). |

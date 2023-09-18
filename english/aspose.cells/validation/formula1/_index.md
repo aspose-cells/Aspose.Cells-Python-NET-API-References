@@ -3,7 +3,7 @@ title: formula1 property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /aspose.cells/validation/formula1/
 is_root: false
 ---

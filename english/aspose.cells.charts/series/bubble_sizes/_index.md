@@ -3,7 +3,7 @@ title: bubble_sizes property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 80
 url: /aspose.cells.charts/series/bubble_sizes/
 is_root: false
 ---

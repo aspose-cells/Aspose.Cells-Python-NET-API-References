@@ -11,7 +11,12 @@ is_root: false
 ## owner_password property
 
 
-Gets or sets the owner password of the document
+Gets or sets the owner password for the encrypted PDF document.
+
+### Remarks 
+
+
+The owner password allows the user to open an encrypted PDF document without any access restrictions specified.
 ### Definition:
 ```python
 @property

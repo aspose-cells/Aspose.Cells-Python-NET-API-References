@@ -12,7 +12,7 @@ is_root: false
 
 
 Indicates whether calculate the dependent cells recursively when calculating one cell and it depends on other cells.
-The default value if true.
+The default value is true.
 ### Definition:
 ```python
 @property

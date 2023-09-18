@@ -3,7 +3,7 @@ title: HorizontalPageBreakCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 790
 url: /aspose.cells/horizontalpagebreakcollection/
 is_root: false
 ---

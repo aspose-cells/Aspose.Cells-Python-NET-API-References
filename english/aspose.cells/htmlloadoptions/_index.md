@@ -3,7 +3,7 @@ title: HtmlLoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 770
+weight: 800
 url: /aspose.cells/htmlloadoptions/
 is_root: false
 ---
@@ -54,6 +54,7 @@ The HtmlLoadOptions type exposes the following members:
 | [auto_filter](/cells/python-net/aspose.cells/htmlloadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
 | [font_configs](/cells/python-net/aspose.cells/htmlloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
 | [ignore_useless_shapes](/cells/python-net/aspose.cells/htmlloadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
+| [preserve_padding_spaces_in_formula](/cells/python-net/aspose.cells/htmlloadoptions/preserve_padding_spaces_in_formula) | Indicates whether preserve those spaces and line breaks that are padded between formula tokens<br/>while getting and setting formulas.<br/>Default value is false. |
 | [encoding](/cells/python-net/aspose.cells/htmlloadoptions/encoding) | Gets and sets the default encoding. Only applies for csv file. |
 | [load_style_strategy](/cells/python-net/aspose.cells/htmlloadoptions/load_style_strategy) | Indicates the strategy to apply style for parsed values when converting string value to number or datetime. |
 | [convert_numeric_data](/cells/python-net/aspose.cells/htmlloadoptions/convert_numeric_data) | Gets or sets a value that indicates whether the string in text file is converted to numeric data. |
@@ -61,8 +62,8 @@ The HtmlLoadOptions type exposes the following members:
 | [keep_precision](/cells/python-net/aspose.cells/htmlloadoptions/keep_precision) | Indicates whether not parsing a string value if the length is 15. |
 | [attached_files_directory](/cells/python-net/aspose.cells/htmlloadoptions/attached_files_directory) | The directory that the attached files will be saved to. |
 | [load_formulas](/cells/python-net/aspose.cells/htmlloadoptions/load_formulas) | Indicates whether importing formulas if the original html file contains formulas |
-| [support_div_tag](/cells/python-net/aspose.cells/htmlloadoptions/support_div_tag) | Indicates whether support the layout of <div> tag when the html file contains <div> tags. The default value is false. |
-| [delete_redundant_spaces](/cells/python-net/aspose.cells/htmlloadoptions/delete_redundant_spaces) | Indicates whether delete redundant spaces when the text wraps lines using <br>tag.The default value is false. |
+| [support_div_tag](/cells/python-net/aspose.cells/htmlloadoptions/support_div_tag) | Indicates whether support the layout of `<div>` tag when the html file contains it.<br/>The default value is false. |
+| [delete_redundant_spaces](/cells/python-net/aspose.cells/htmlloadoptions/delete_redundant_spaces) | Indicates whether delete redundant spaces when the text wraps lines using `<br>` tag.<br/>The default value is false. |
 | [auto_fit_cols_and_rows](/cells/python-net/aspose.cells/htmlloadoptions/auto_fit_cols_and_rows) | Indicates whether auto-fit columns and rows. The default value is false. |
 | [convert_formulas_data](/cells/python-net/aspose.cells/htmlloadoptions/convert_formulas_data) | if true, convert string to formula when string value starts with character '=',the default value is false. |
 | [has_formula](/cells/python-net/aspose.cells/htmlloadoptions/has_formula) | Indicates whether the text is formula if it starts with "=". |

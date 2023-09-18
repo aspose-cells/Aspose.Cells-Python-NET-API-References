@@ -3,7 +3,7 @@ title: LookAtType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2270
+weight: 2300
 url: /aspose.cells/lookattype/
 is_root: false
 ---

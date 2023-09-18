@@ -3,7 +3,7 @@ title: remove_areas method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells/validation/remove_areas/
 is_root: false
 ---

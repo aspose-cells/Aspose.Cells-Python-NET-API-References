@@ -3,7 +3,7 @@ title: pivot_source property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 430
 url: /aspose.cells.charts/chart/pivot_source/
 is_root: false
 ---

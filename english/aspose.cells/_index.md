@@ -30,6 +30,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions) | Represents options for calculation. |
 | [`Cell`](/cells/python-net/aspose.cells/cell) | Encapsulates the object that represents a single Workbook cell. |
 | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | Represent an area of cells. |
+| [`CellValue`](/cells/python-net/aspose.cells/cellvalue) | Represents the cell value and corresponding type. |
 | [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) | Represents Cell Watch Item in the 'watch window'. |
 | [`CellWatchCollection`](/cells/python-net/aspose.cells/cellwatchcollection) | Represents the collection of cells on this worksheet being watched in the 'watch window'. |
 | [`Cells`](/cells/python-net/aspose.cells/cells) | Encapsulates a collection of cell relevant objects, such as [`Cell`](/cells/python-net/aspose.cells/cell), [`Row`](/cells/python-net/aspose.cells/row), ...etc. |
@@ -53,6 +54,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`CopyOptions`](/cells/python-net/aspose.cells/copyoptions) | Represents the copy options. |
 | [`CustomFilter`](/cells/python-net/aspose.cells/customfilter) | Represents the custom filter. |
 | [`CustomFilterCollection`](/cells/python-net/aspose.cells/customfiltercollection) | Represents the custom filters. |
+| [`CustomFunctionDefinition`](/cells/python-net/aspose.cells/customfunctiondefinition) | Definition of custom function for calculating with user's custom engine. |
 | [`CustomImplementationFactory`](/cells/python-net/aspose.cells/customimplementationfactory) | Factory to create some instances which may be re-implemented by user for special purpose. |
 | [`DataBar`](/cells/python-net/aspose.cells/databar) | Describe the DataBar conditional formatting rule. <br/>This conditional formatting rule displays a gradated<br/>data bar in the range of cells. |
 | [`DataBarBorder`](/cells/python-net/aspose.cells/databarborder) | Represents the border of the data bars specified by a conditional formatting rule. |
@@ -66,6 +68,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`DocxSaveOptions`](/cells/python-net/aspose.cells/docxsaveoptions) | Represents options of saving .docx file. |
 | [`DxfCollection`](/cells/python-net/aspose.cells/dxfcollection) | Represents the master differential formatting records. |
 | [`DynamicFilter`](/cells/python-net/aspose.cells/dynamicfilter) | Represents the dynamic filter. |
+| [`EbookLoadOptions`](/cells/python-net/aspose.cells/ebookloadoptions) | Represents options when importing an ebook file. |
 | [`ErrorCheckOption`](/cells/python-net/aspose.cells/errorcheckoption) | Error check setting applied on certain ranges. |
 | [`ErrorCheckOptionCollection`](/cells/python-net/aspose.cells/errorcheckoptioncollection) | Represents all error check option. |
 | [`ExportObjectEvent`](/cells/python-net/aspose.cells/exportobjectevent) | The event triggered when exporting an object, such as Picture. |

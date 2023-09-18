@@ -19,6 +19,7 @@ The Series type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [is_filtered](/cells/python-net/aspose.cells.charts/series/is_filtered) | Indicates whether the series is selected or filtered.True represents this series is filtered, and it will not be displayed on the chart. |
 | [layout_properties](/cells/python-net/aspose.cells.charts/series/layout_properties) | Represents the properties of layout. |
 | [points](/cells/python-net/aspose.cells.charts/series/points) | Gets the collection of points in a series in a chart. |
 | [area](/cells/python-net/aspose.cells.charts/series/area) | Represents the background area of Series object. |
@@ -36,7 +37,6 @@ The Series type exposes the following members:
 | [shadow](/cells/python-net/aspose.cells.charts/series/shadow) | True if the series has a shadow. |
 | [has_3d_effect](/cells/python-net/aspose.cells.charts/series/has_3d_effect) | True if the series has a three-dimensional appearance. <br/>Applies only to bubble charts. |
 | [bar_3d_shape_type](/cells/python-net/aspose.cells.charts/series/bar_3d_shape_type) | Gets or sets the 3D shape type used with the 3-D bar or column chart. |
-| [bar_shape](/cells/python-net/aspose.cells.charts/series/bar_shape) | Gets or sets the 3D shape type used with the 3-D bar or column chart. |
 | [data_labels](/cells/python-net/aspose.cells.charts/series/data_labels) | Represents the DataLabels object for the specified ASeries. |
 | [type](/cells/python-net/aspose.cells.charts/series/type) | Gets or sets a data series' type. |
 | [marker](/cells/python-net/aspose.cells.charts/series/marker) | Gets the [`Series.marker`](/cells/python-net/aspose.cells.charts/series#marker). |

@@ -25,8 +25,8 @@ The CalculationOptions type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [ignore_error](/cells/python-net/aspose.cells/calculationoptions/ignore_error) | Indicates if you need to hide the error in calculating formulas.<br/>The error may be unsupported function, external links, etc. |
-| [recursive](/cells/python-net/aspose.cells/calculationoptions/recursive) | Indicates whether calculate the dependent cells recursively when calculating one cell and it depends on other cells.<br/>The default value if true. |
+| [ignore_error](/cells/python-net/aspose.cells/calculationoptions/ignore_error) | Indicates whether errors encountered while calculating formulas should be ignored.<br/>The error may be unsupported function, external links, etc.<br/>The default value is true. |
+| [recursive](/cells/python-net/aspose.cells/calculationoptions/recursive) | Indicates whether calculate the dependent cells recursively when calculating one cell and it depends on other cells.<br/>The default value is true. |
 | [custom_function](/cells/python-net/aspose.cells/calculationoptions/custom_function) | The custom formula calculation functions to extend the calculation engine. |
 | [custom_engine](/cells/python-net/aspose.cells/calculationoptions/custom_engine) | The custom formula calculation engine to extend the default calculation engine of Aspose.Cells. |
 | [calculation_monitor](/cells/python-net/aspose.cells/calculationoptions/calculation_monitor) | The monitor for user to track the progress of formula calculation. |

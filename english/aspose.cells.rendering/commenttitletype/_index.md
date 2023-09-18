@@ -21,6 +21,8 @@ The CommentTitleType type exposes the following members:
 | :- | :- |
 | CELL | Represents comment title cell. |
 | COMMENT | Represents comment title comment. |
+| NOTE | Represents comment title note. |
+| REPLY | Represents comment title reply. |
 
 
 

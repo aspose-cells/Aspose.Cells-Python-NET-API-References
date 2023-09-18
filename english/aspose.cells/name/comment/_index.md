@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets and sets the comment of the name.
-Only applies for Excel 2007.
+Only applies for Excel 2007 or higher versions.
 ### Definition:
 ```python
 @property

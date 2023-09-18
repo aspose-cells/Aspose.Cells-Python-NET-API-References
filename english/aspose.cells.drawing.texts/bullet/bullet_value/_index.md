@@ -11,7 +11,7 @@ is_root: false
 ## bullet_value property
 
 
-Gets bullet value
+Gets the value of bullet.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: hide_pivot_field_buttons property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /aspose.cells.charts/chart/hide_pivot_field_buttons/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: LoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1040
+weight: 1070
 url: /aspose.cells/loadoptions/
 is_root: false
 ---
@@ -48,6 +48,7 @@ The LoadOptions type exposes the following members:
 | [auto_filter](/cells/python-net/aspose.cells/loadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
 | [font_configs](/cells/python-net/aspose.cells/loadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
 | [ignore_useless_shapes](/cells/python-net/aspose.cells/loadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
+| [preserve_padding_spaces_in_formula](/cells/python-net/aspose.cells/loadoptions/preserve_padding_spaces_in_formula) | Indicates whether preserve those spaces and line breaks that are padded between formula tokens<br/>while getting and setting formulas.<br/>Default value is false. |
 
 
 ### Methods

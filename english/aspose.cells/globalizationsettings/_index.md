@@ -3,7 +3,7 @@ title: GlobalizationSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 760
 url: /aspose.cells/globalizationsettings/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: ICustomFunction class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 840
+weight: 870
 url: /aspose.cells/icustomfunction/
 is_root: false
 ---

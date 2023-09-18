@@ -3,7 +3,7 @@ title: sub_title property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 620
 url: /aspose.cells.charts/chart/sub_title/
 is_root: false
 ---

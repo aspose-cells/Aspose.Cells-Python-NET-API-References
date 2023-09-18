@@ -11,7 +11,7 @@ is_root: false
 ## type property
 
 
-Gets and sets the bullet type.
+Gets and sets the type of bullet.
 ### Definition:
 ```python
 @property

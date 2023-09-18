@@ -3,7 +3,7 @@ title: has_leader_lines property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 210
 url: /aspose.cells.charts/series/has_leader_lines/
 is_root: false
 ---

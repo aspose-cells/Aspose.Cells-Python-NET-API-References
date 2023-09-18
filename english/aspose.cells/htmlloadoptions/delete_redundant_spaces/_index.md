@@ -11,7 +11,8 @@ is_root: false
 ## delete_redundant_spaces property
 
 
-Indicates whether delete redundant spaces when the text wraps lines using <br>tag.The default value is false.
+Indicates whether delete redundant spaces when the text wraps lines using `<br>` tag.
+The default value is false.
 ### Definition:
 ```python
 @property

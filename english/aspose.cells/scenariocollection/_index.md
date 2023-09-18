@@ -3,7 +3,7 @@ title: ScenarioCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1360
+weight: 1390
 url: /aspose.cells/scenariocollection/
 is_root: false
 ---

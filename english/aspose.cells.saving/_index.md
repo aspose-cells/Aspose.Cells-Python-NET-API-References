@@ -13,6 +13,7 @@ The **Aspose.Cells.Saving**  namespace provides options classes of saving files.
 ### Classes
 | Class | Description |
 | :- | :- |
+| [`EbookSaveOptions`](/cells/python-net/aspose.cells.saving/ebooksaveoptions) | Represents the options for saving ebook file. |
 | [`SqlScriptColumnTypeMap`](/cells/python-net/aspose.cells.saving/sqlscriptcolumntypemap) | Represents column type map. |
 | [`SqlScriptSaveOptions`](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions) | Represents the options of saving sql. |
 

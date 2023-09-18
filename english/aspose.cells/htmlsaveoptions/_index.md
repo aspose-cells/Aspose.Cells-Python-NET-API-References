@@ -3,7 +3,7 @@ title: HtmlSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 810
 url: /aspose.cells/htmlsaveoptions/
 is_root: false
 ---
@@ -53,13 +53,13 @@ The HtmlSaveOptions type exposes the following members:
 | [disable_downlevel_revealed_comments](/cells/python-net/aspose.cells/htmlsaveoptions/disable_downlevel_revealed_comments) | Indicates if disable Downlevel-revealed conditional comments when exporting file to html, the default value is false. |
 | [is_exp_image_to_temp_dir](/cells/python-net/aspose.cells/htmlsaveoptions/is_exp_image_to_temp_dir) | Indicates whether exporting image files to temp directory.<br/>Only for saving to html stream. |
 | [image_scalable](/cells/python-net/aspose.cells/htmlsaveoptions/image_scalable) | Indicates whether using scalable unit to describe the image width<br/>when using scalable unit to describe the column width.<br/>The default value is true. |
-| [width_scalable](/cells/python-net/aspose.cells/htmlsaveoptions/width_scalable) | Indicates whether using scalable unit to describe the column width when exporting file to html.<br/>The default value is false. |
+| [width_scalable](/cells/python-net/aspose.cells/htmlsaveoptions/width_scalable) | Indicates whether exporting column width in unit of scale to html.<br/>The default value is false. |
 | [export_single_tab](/cells/python-net/aspose.cells/htmlsaveoptions/export_single_tab) | Indicates whether exporting the single tab when the file only has one worksheet.<br/>The default value is false. |
 | [export_images_as_base64](/cells/python-net/aspose.cells/htmlsaveoptions/export_images_as_base64) | Specifies whether images are saved in Base64 format to HTML, MHTML or EPUB. |
-| [export_active_worksheet_only](/cells/python-net/aspose.cells/htmlsaveoptions/export_active_worksheet_only) | Indicates if exporting the whole workbook to html file. |
+| [export_active_worksheet_only](/cells/python-net/aspose.cells/htmlsaveoptions/export_active_worksheet_only) | Indicates if only exporting the active worksheet to html file.<br/>If true then only the active worksheet will be exported to html file;<br/>If false then the whole workbook will be exported to html file.<br/>The default value is false. |
 | [export_print_area_only](/cells/python-net/aspose.cells/htmlsaveoptions/export_print_area_only) | Indicates if only exporting the print area to html file. The default value is false. |
 | [export_area](/cells/python-net/aspose.cells/htmlsaveoptions/export_area) | Gets or Sets the exporting CellArea of current active Worksheet.<br/>If you set this attribute, the print area of current active Worksheet will be omitted.<br/>Only the specified area will be exported when saving the file to html. |
-| [parse_html_tag_in_cell](/cells/python-net/aspose.cells/htmlsaveoptions/parse_html_tag_in_cell) | Parse html tag in cell,like ,as cell value,or as html tag,default is true |
+| [parse_html_tag_in_cell](/cells/python-net/aspose.cells/htmlsaveoptions/parse_html_tag_in_cell) | Indicates whether html tag(such as `<div></div>`) in cell should be parsed as cell value or preserved as it is.<br/>The default value is true. |
 | [html_cross_string_type](/cells/python-net/aspose.cells/htmlsaveoptions/html_cross_string_type) | Indicates if a cross-cell string will be displayed in the same way as MS Excel when saving an Excel file in html format.<br/>By default the value is Default, so, for cross-cell strings, there is little difference between the html files created by Aspose.Cells and MS Excel.<br/>But the performance for creating large html files,setting the value to Cross would be several times faster than setting it to Default or Fit2Cell. |
 | [hidden_col_display_type](/cells/python-net/aspose.cells/htmlsaveoptions/hidden_col_display_type) | Hidden column(the width of this column is 0) in excel,before save this into html format,<br/>if HtmlHiddenColDisplayType is "Remove",the hidden column would not been output,<br/>if the value is "Hidden", the column would been output,but was hidden,the default value is "Hidden" |
 | [hidden_row_display_type](/cells/python-net/aspose.cells/htmlsaveoptions/hidden_row_display_type) | Hidden row(the height of this row is 0) in excel,before save this into html format,<br/>if HtmlHiddenRowDisplayType is "Remove",the hidden row would not been output,<br/>if the value is "Hidden", the row would been output,but was hidden,the default value is "Hidden" |
@@ -94,7 +94,8 @@ The HtmlSaveOptions type exposes the following members:
 | [export_workbook_properties](/cells/python-net/aspose.cells/htmlsaveoptions/export_workbook_properties) | Indicating whether exporting workbook properties.The default value is true.If you want to import <br/>the html or mht file to excel, please keep the default value. |
 | [export_frame_scripts_and_properties](/cells/python-net/aspose.cells/htmlsaveoptions/export_frame_scripts_and_properties) | Indicating whether exporting frame scripts and document properties. The default value is true.If you want to import the html or mht file<br/>to excel, please keep the default value. |
 | [export_data_options](/cells/python-net/aspose.cells/htmlsaveoptions/export_data_options) | Indicating the rule of exporting html file data.The default value is All. |
-| [link_target_type](/cells/python-net/aspose.cells/htmlsaveoptions/link_target_type) | Indicating the type of  target attribute in <a> link,The default value is HtmlLinkTargetType.Parent. |
+| [link_target_type](/cells/python-net/aspose.cells/htmlsaveoptions/link_target_type) | Indicating the type of target attribute in `<a>` link. The default value is HtmlLinkTargetType.Parent. |
+| [is_ie_compatible](/cells/python-net/aspose.cells/htmlsaveoptions/is_ie_compatible) | Indicating whether the output HTML is compatible with IE browser.<br/>The defalut value is false |
 
 
 

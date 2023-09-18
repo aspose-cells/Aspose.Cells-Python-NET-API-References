@@ -24,7 +24,7 @@ def __init__(self):
 ### Example 
 
 
-The following code sets hight resolution print permisson for the output pdf.
+The following code sets high resolution print permisson for the output pdf.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook

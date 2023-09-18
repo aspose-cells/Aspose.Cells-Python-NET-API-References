@@ -12,6 +12,14 @@ is_root: false
 
 
 Permission to copy or extract content Obsoleted according to PDF reference.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead,
+please use ExtractContentPermission property.
+This property will be removed 12 months later since September 2023. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

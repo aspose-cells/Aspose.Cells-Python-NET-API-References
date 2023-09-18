@@ -3,7 +3,7 @@ title: LightCellsDataHandler class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1010
+weight: 1040
 url: /aspose.cells/lightcellsdatahandler/
 is_root: false
 ---
@@ -37,6 +37,16 @@ If a row needs to be processed, properties of this row will be read firstly and 
 if row's cells need to be processed too, then [`LightCellsDataHandler.process_row`](/cells/python-net/aspose.cells/lightcellsdatahandler/process_row) should returns true and then [`LightCellsDataHandler.start_cell`](/cells/python-net/aspose.cells/lightcellsdatahandler/start_cell) will be
 called for every existing cell in this row to check whether one cell need to be processed. If one cell needs to be processed,
 then [`LightCellsDataHandler.process_cell`](/cells/python-net/aspose.cells/lightcellsdatahandler/process_cell) will be called to process the cell by the implementation of this interface.
+
+
+Please note, user should only operate on the values and properties of current Row/Cell object provided by corresponding method.
+Because the cells data is read from the template file in streaming manner, most of other objects may be reset/update later
+after cells data has been loaded. So when user operating other objects in this implementation,
+those operations may be not able to affect the objects existing in the workbook. Or even worse, those operations may
+cause inconsistent data in the workbook and then cause unpected issue or exception later.
+So, for all other objects such as shapes, column width and styles, conditional formattings, ...etc.,
+please do not operate them in any methods of this implementation.
+Instead, please manage them after the workbook has been constructed.
 
 ### See Also
 * module [`aspose.cells`](..)

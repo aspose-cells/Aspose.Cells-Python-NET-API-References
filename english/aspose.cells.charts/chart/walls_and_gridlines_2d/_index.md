@@ -3,7 +3,7 @@ title: walls_and_gridlines_2d property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 670
 url: /aspose.cells.charts/chart/walls_and_gridlines_2d/
 is_root: false
 ---

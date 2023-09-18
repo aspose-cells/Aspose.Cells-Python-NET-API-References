@@ -3,7 +3,7 @@ title: is_shared_formula property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 620
 url: /aspose.cells/cell/is_shared_formula/
 is_root: false
 ---

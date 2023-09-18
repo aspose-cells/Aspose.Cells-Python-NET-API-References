@@ -62,7 +62,7 @@ def insert_range(self, area, shift_number, shift_type, update_reference):
 | area | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | Shift area. |
 | shift_number | int | Number of rows or columns to be inserted. |
 | shift_type | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | Shift cells option. |
-| update_reference | bool | Indicates if update references in other worksheets. |
+| update_reference | bool | Indicates whether update references in other worksheets. |
 
 
 

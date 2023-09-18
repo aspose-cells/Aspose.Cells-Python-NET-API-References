@@ -30,7 +30,11 @@ def convert_a1_formula_to_r1c1(self, formula, row, column):
 | formula | str | The A1 formula. |
 | row | int | The row index of the cell. |
 | column | int | The column index of the cell. |
+### Remarks
 
+NOTE: This member is now obsolete. Instead, please use Worksheet.ConvertFormulaReferenceStyle() method.
+This property will be removed 12 months later since August 2023. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

@@ -111,6 +111,8 @@ The Cell type exposes the following members:
 | [remove_array_formula](/cells/python-net/aspose.cells/cell/remove_array_formula/#bool) | Remove array formula. |
 | [copy](/cells/python-net/aspose.cells/cell/copy/#aspose.cells.Cell) | Copies data from a source cell. |
 | [characters](/cells/python-net/aspose.cells/cell/characters/#int-int) | Returns a Characters object that represents a range of characters within the cell text. |
+| [replace](/cells/python-net/aspose.cells/cell/replace/#str-str-aspose.cells.ReplaceOptions) | Replace text of the cell with options. |
+| [insert_text](/cells/python-net/aspose.cells/cell/insert_text/#int-str) | Insert some characters to the cell.<br/>If the cell is rich formatted, this method could keep the original formatting. |
 | [is_rich_text](/cells/python-net/aspose.cells/cell/is_rich_text/#) | Indicates whether the cell string value is a rich text. |
 | [set_characters](/cells/python-net/aspose.cells/cell/set_characters/#list) | Sets rich text format of the cell. |
 | [get_merged_range](/cells/python-net/aspose.cells/cell/get_merged_range/#) | Returns a [`Range`](/cells/python-net/aspose.cells/range) object which represents a merged range. |

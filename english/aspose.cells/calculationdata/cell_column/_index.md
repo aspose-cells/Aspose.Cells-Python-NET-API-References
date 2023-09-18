@@ -3,7 +3,7 @@ title: cell_column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells/calculationdata/cell_column/
 is_root: false
 ---
