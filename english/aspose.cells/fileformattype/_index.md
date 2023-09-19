@@ -3,7 +3,7 @@ title: FileFormatType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2090
+weight: 2120
 url: /aspose.cells/fileformattype/
 is_root: false
 ---
@@ -70,7 +70,7 @@ The FileFormatType type exposes the following members:
 | OTT | Represents an OTT file. |
 | BMP | Represents a BMP file. |
 | OTS | Represents an ots file. |
-| NUMBERS |  |
+| NUMBERS | Represents Numbers 9.0 file format by Apple Inc. |
 | NUMBERS09 | Represents Numbers 9.0 file format by Apple Inc. |
 | MARKDOWN | Represents markdown document. |
 | GRAPH_CHART | Represents embedded graph chart. |
@@ -89,6 +89,7 @@ The FileFormatType type exposes the following members:
 | ONE_NOTE | Rrepesents One Note file. |
 | MICROSOFT_CABINET | /// <br/>Rrepesents Microsoft Cabinet file.<br/><br/>The file format is not supported<br/>Only for detecting file type. |
 | RTF |  |
+| EPUB | EPUB |
 | G_ZIP | Rrepesents GZip file. |
 
 

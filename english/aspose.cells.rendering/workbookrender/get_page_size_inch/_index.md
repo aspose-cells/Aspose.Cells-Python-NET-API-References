@@ -3,7 +3,7 @@ title: get_page_size_inch method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells.rendering/workbookrender/get_page_size_inch/
 is_root: false
 ---

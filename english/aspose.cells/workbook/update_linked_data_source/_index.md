@@ -3,7 +3,7 @@ title: update_linked_data_source method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /aspose.cells/workbook/update_linked_data_source/
 is_root: false
 ---

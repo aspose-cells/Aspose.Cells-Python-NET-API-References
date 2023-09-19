@@ -3,7 +3,7 @@ title: IExportObjectListener class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 890
 url: /aspose.cells/iexportobjectlistener/
 is_root: false
 ---

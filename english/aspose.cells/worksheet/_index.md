@@ -3,7 +3,7 @@ title: Worksheet class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1670
+weight: 1700
 url: /aspose.cells/worksheet/
 is_root: false
 ---
@@ -111,10 +111,12 @@ The Worksheet type exposes the following members:
 | [unprotect](/cells/python-net/aspose.cells/worksheet/unprotect/#str) | Unprotects worksheet. |
 | [calculate_formula](/cells/python-net/aspose.cells/worksheet/calculate_formula/#str) | Calculates a formula. |
 | [calculate_formula](/cells/python-net/aspose.cells/worksheet/calculate_formula/#str-aspose.cells.CalculationOptions) | Calculates a formula expression directly. |
+| [calculate_formula](/cells/python-net/aspose.cells/worksheet/calculate_formula/#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData) | Calculates a formula expression directly. |
 | [calculate_formula](/cells/python-net/aspose.cells/worksheet/calculate_formula/#bool-bool-aspose.cells.ICustomFunction) | Calculates all formulas in this worksheet. |
 | [calculate_formula](/cells/python-net/aspose.cells/worksheet/calculate_formula/#aspose.cells.CalculationOptions-bool) | Calculates all formulas in this worksheet. |
 | [calculate_array_formula](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#str-aspose.cells.CalculationOptions) | Calculates a formula as array formula. |
 | [calculate_array_formula](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#str-aspose.cells.CalculationOptions-int-int) | Calculates a formula as array formula. |
+| [calculate_array_formula](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-int-int-aspose.cells.CalculationData) | Calculates a formula as array formula. |
 | [get_panes](/cells/python-net/aspose.cells/worksheet/get_panes/#) | Gets the window panes. |
 | [get_freezed_panes](/cells/python-net/aspose.cells/worksheet/get_freezed_panes/#any-any-any-any) | Gets the freeze panes. |
 | [split](/cells/python-net/aspose.cells/worksheet/split/#) | Splits window. |
@@ -134,6 +136,7 @@ The Worksheet type exposes the following members:
 | [get_printing_page_breaks](/cells/python-net/aspose.cells/worksheet/get_printing_page_breaks/#aspose.cells.rendering.ImageOrPrintOptions) | Gets automatic page breaks. |
 | [start_access_cache](/cells/python-net/aspose.cells/worksheet/start_access_cache/#aspose.cells.AccessCacheOptions) | Starts the session that uses caches to access the data in this worksheet. |
 | [close_access_cache](/cells/python-net/aspose.cells/worksheet/close_access_cache/#aspose.cells.AccessCacheOptions) | Closes the session that uses caches to access the data in this worksheet. |
+| [convert_formula_reference_style](/cells/python-net/aspose.cells/worksheet/convert_formula_reference_style/#str-bool-int-int) | Converts the formula reference style. |
 | [xml_map_query](/cells/python-net/aspose.cells/worksheet/xml_map_query/#str-aspose.cells.XmlMap) | Query cell areas that mapped/linked to the specific path of xml map. |
 | [refresh_pivot_tables](/cells/python-net/aspose.cells/worksheet/refresh_pivot_tables/#) | Refreshes all the PivotTables in this Worksheet. |
 

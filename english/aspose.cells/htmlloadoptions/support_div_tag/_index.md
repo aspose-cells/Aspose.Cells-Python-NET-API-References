@@ -3,7 +3,7 @@ title: support_div_tag property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /aspose.cells/htmlloadoptions/support_div_tag/
 is_root: false
 ---
@@ -11,7 +11,8 @@ is_root: false
 ## support_div_tag property
 
 
-Indicates whether support the layout of <div> tag when the html file contains <div> tags. The default value is false.
+Indicates whether support the layout of `<div>` tag when the html file contains it.
+The default value is false.
 ### Definition:
 ```python
 @property

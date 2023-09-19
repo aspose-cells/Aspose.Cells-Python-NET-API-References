@@ -3,7 +3,7 @@ title: LoadFormat enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2260
+weight: 2290
 url: /aspose.cells/loadformat/
 is_root: false
 ---
@@ -35,6 +35,7 @@ The LoadFormat type exposes the following members:
 | FODS | Represents OpenDocument Flat XML Spreadsheet (.fods) file format.<br/>NOTE: This member is now obsolete. Instead, <br/>please use [`LoadFormat.FODS`](/cells/python-net/aspose.cells/loadformat#FODS) property.<br/>This property will be removed 6 months later since April 2021. <br/>Aspose apologizes for any inconvenience you may have experienced. |
 | SXC | Represents StarOffice Calc Spreadsheet (.sxc) file format.<br/>NOTE: This member is now obsolete. Instead, <br/>please use [`LoadFormat.SXC`](/cells/python-net/aspose.cells/loadformat#SXC) property.<br/>This property will be removed 6 months later since April 2021. <br/>Aspose apologizes for any inconvenience you may have experienced. |
 | XML | Represents a simple xml file. |
+| EPUB | Reprents an EPUB file. |
 | UNKNOWN | Represents unrecognized format, cannot be loaded. |
 | IMAGE | Image |
 | JSON | Json |

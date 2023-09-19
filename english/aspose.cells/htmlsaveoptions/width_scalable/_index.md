@@ -3,7 +3,7 @@ title: width_scalable property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 660
 url: /aspose.cells/htmlsaveoptions/width_scalable/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## width_scalable property
 
 
-Indicates whether using scalable unit to describe the column width when exporting file to html.
+Indicates whether exporting column width in unit of scale to html.
 The default value is false.
 ### Definition:
 ```python

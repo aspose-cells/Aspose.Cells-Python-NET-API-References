@@ -3,7 +3,7 @@ title: web_extensions property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells/worksheetcollection/web_extensions/
 is_root: false
 ---

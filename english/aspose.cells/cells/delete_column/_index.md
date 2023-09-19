@@ -22,7 +22,7 @@ def delete_column(self, column_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| column_index | int | Column index. |
+| column_index | int | Index of the column to be deleted. |
 
 
 ## delete_column {#int-bool}
@@ -39,8 +39,8 @@ def delete_column(self, column_index, update_reference):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| column_index | int | Column index. |
-| update_reference | bool | Indicates if update references in other worksheets. |
+| column_index | int | Index of the column to be deleted. |
+| update_reference | bool | Indicates whether update references in other worksheets. |
 
 
 

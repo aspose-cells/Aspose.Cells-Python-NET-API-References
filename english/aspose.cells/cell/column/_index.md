@@ -3,7 +3,7 @@ title: column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 390
+weight: 410
 url: /aspose.cells/cell/column/
 is_root: false
 ---

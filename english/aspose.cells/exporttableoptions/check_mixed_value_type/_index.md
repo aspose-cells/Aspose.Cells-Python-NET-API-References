@@ -3,7 +3,7 @@ title: check_mixed_value_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells/exporttableoptions/check_mixed_value_type/
 is_root: false
 ---

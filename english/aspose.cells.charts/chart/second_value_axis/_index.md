@@ -3,7 +3,7 @@ title: second_value_axis property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 530
+weight: 540
 url: /aspose.cells.charts/chart/second_value_axis/
 is_root: false
 ---

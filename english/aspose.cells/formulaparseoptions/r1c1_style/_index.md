@@ -3,7 +3,7 @@ title: r1c1_style property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells/formulaparseoptions/r1c1_style/
 is_root: false
 ---

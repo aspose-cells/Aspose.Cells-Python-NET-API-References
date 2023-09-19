@@ -3,7 +3,7 @@ title: set_formula2 method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells/validation/set_formula2/
 is_root: false
 ---

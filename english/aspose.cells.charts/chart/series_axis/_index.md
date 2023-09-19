@@ -3,7 +3,7 @@ title: series_axis property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 540
+weight: 550
 url: /aspose.cells.charts/chart/series_axis/
 is_root: false
 ---

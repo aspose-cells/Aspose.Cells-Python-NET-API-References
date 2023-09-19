@@ -3,7 +3,7 @@ title: FontConfigs class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 690
 url: /aspose.cells/fontconfigs/
 is_root: false
 ---

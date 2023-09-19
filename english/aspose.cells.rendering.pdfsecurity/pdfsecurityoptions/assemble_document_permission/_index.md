@@ -11,7 +11,8 @@ is_root: false
 ## assemble_document_permission property
 
 
-Permission to insert, rotate, or delete pages and create bookmarks or thumbnail images even if ModifyDocumentPermission is not set.
+Indicates whether to allow to assemble the document (insert, rotate, or delete pages and create bookmarks or thumbnail images), 
+even if [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) is clear.
 ### Definition:
 ```python
 @property

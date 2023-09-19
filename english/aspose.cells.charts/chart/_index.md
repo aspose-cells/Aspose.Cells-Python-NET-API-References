@@ -36,6 +36,7 @@ The Chart type exposes the following members:
 | [print_size](/cells/python-net/aspose.cells.charts/chart/print_size) | Gets and sets the printed chart size. |
 | [type](/cells/python-net/aspose.cells.charts/chart/type) | Gets or sets a chart's type. |
 | [n_series](/cells/python-net/aspose.cells.charts/chart/n_series) | Gets a [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection) collection representing the data series in the chart. |
+| [filtered_n_series](/cells/python-net/aspose.cells.charts/chart/filtered_n_series) | Gets a [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection) collection representing the data series that are filtered in the chart. |
 | [title](/cells/python-net/aspose.cells.charts/chart/title) | Gets the chart's title. |
 | [sub_title](/cells/python-net/aspose.cells.charts/chart/sub_title) | Gets the chart's sub-title.<br/>Only for ODS format file. |
 | [plot_area](/cells/python-net/aspose.cells.charts/chart/plot_area) | Gets the chart's plot area which includes axis tick labels. |

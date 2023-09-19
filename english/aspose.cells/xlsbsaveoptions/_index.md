@@ -3,7 +3,7 @@ title: XlsbSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1710
+weight: 1740
 url: /aspose.cells/xlsbsaveoptions/
 is_root: false
 ---

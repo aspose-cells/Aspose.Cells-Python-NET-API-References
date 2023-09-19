@@ -3,7 +3,7 @@ title: plot_visible_rows property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells/exporttableoptions/plot_visible_rows/
 is_root: false
 ---

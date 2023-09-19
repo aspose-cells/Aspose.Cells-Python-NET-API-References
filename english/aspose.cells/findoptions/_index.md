@@ -3,7 +3,7 @@ title: FindOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 660
 url: /aspose.cells/findoptions/
 is_root: false
 ---

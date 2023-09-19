@@ -3,7 +3,7 @@ title: FilterType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2110
+weight: 2140
 url: /aspose.cells/filtertype/
 is_root: false
 ---

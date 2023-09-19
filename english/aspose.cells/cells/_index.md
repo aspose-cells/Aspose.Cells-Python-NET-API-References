@@ -3,7 +3,7 @@ title: Cells class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /aspose.cells/cells/
 is_root: false
 ---
@@ -94,6 +94,8 @@ Gets [`Cell`](/cells/python-net/aspose.cells/cell) item within the worksheet
 | [group_rows](/cells/python-net/aspose.cells/cells/group_rows/#int-int) | Groups rows. |
 | [delete_column](/cells/python-net/aspose.cells/cells/delete_column/#int-bool) | Deletes a column. |
 | [delete_column](/cells/python-net/aspose.cells/cells/delete_column/#int) | Deletes a column. |
+| [delete_row](/cells/python-net/aspose.cells/cells/delete_row/#int) | Deletes a row. |
+| [delete_row](/cells/python-net/aspose.cells/cells/delete_row/#int-bool) | Deletes a row. |
 | [delete_rows](/cells/python-net/aspose.cells/cells/delete_rows/#int-int) | Deletes several rows. |
 | [delete_rows](/cells/python-net/aspose.cells/cells/delete_rows/#int-int-bool) | Deletes multiple rows in the worksheet. |
 | [delete_blank_columns](/cells/python-net/aspose.cells/cells/delete_blank_columns/#) | Delete all blank columns which do not contain any data. |
@@ -185,7 +187,6 @@ Gets [`Cell`](/cells/python-net/aspose.cells/cell) item within the worksheet
 | [ungroup_columns](/cells/python-net/aspose.cells/cells/ungroup_columns/#int-int) | Ungroups columns. |
 | [delete_columns](/cells/python-net/aspose.cells/cells/delete_columns/#int-int-bool) | Deletes several columns. |
 | [is_deleting_range_enabled](/cells/python-net/aspose.cells/cells/is_deleting_range_enabled/#int-int-int-int) | Check whether the range could be deleted. |
-| [delete_row](/cells/python-net/aspose.cells/cells/delete_row/#int) | Deletes a row. |
 | [is_blank_column](/cells/python-net/aspose.cells/cells/is_blank_column/#int) | Checks whether given column is blank(does not contain any data). |
 | [insert_row](/cells/python-net/aspose.cells/cells/insert_row/#int) | Inserts a new row into the worksheet. |
 | [link_to_xml_map](/cells/python-net/aspose.cells/cells/link_to_xml_map/#str-int-int-str) | Link to a xml map. |

@@ -3,7 +3,7 @@ title: is_table_formula property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 620
+weight: 640
 url: /aspose.cells/cell/is_table_formula/
 is_root: false
 ---

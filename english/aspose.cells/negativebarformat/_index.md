@@ -3,7 +3,7 @@ title: NegativeBarFormat class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1110
+weight: 1140
 url: /aspose.cells/negativebarformat/
 is_root: false
 ---

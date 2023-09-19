@@ -11,7 +11,13 @@ is_root: false
 ## print_permission property
 
 
-Permission to print pdf document
+Indicates whether to allow to print the document.
+
+### Remarks 
+
+
+Possibly not at the highest quality level, 
+depending on whether [`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission) is also set.
 ### Definition:
 ```python
 @property

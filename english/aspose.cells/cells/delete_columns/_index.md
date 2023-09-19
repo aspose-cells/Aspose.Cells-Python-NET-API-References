@@ -22,9 +22,9 @@ def delete_columns(self, column_index, total_columns, update_reference):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| column_index | int | Column index. |
-| total_columns | int | Number of columns to be deleted. |
-| update_reference | bool | Indicates if update references in other worksheets. |
+| column_index | int | Index of the first column to be deleted. |
+| total_columns | int | Count of columns to be deleted. |
+| update_reference | bool | Indicates whether update references in other worksheets. |
 
 
 

@@ -3,7 +3,7 @@ title: JsonLoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 980
+weight: 1010
 url: /aspose.cells/jsonloadoptions/
 is_root: false
 ---
@@ -52,6 +52,7 @@ The JsonLoadOptions type exposes the following members:
 | [auto_filter](/cells/python-net/aspose.cells/jsonloadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
 | [font_configs](/cells/python-net/aspose.cells/jsonloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
 | [ignore_useless_shapes](/cells/python-net/aspose.cells/jsonloadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
+| [preserve_padding_spaces_in_formula](/cells/python-net/aspose.cells/jsonloadoptions/preserve_padding_spaces_in_formula) | Indicates whether preserve those spaces and line breaks that are padded between formula tokens<br/>while getting and setting formulas.<br/>Default value is false. |
 | [start_cell](/cells/python-net/aspose.cells/jsonloadoptions/start_cell) | Gets and sets the start cell. |
 | [layout_options](/cells/python-net/aspose.cells/jsonloadoptions/layout_options) | The options of import json. |
 | [multiple_worksheets](/cells/python-net/aspose.cells/jsonloadoptions/multiple_worksheets) | Indicates whether importing each attribute of JsonObject object as one worksheet when all child nodes are array nodes. |

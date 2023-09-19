@@ -44,6 +44,7 @@ The SheetRender type exposes the following members:
 | [to_printer](/cells/python-net/aspose.cells.rendering/sheetrender/to_printer/#str-int-int) | Render worksheet to Printer |
 | [get_page_size_inch](/cells/python-net/aspose.cells.rendering/sheetrender/get_page_size_inch/#int) | Get page size in inch of output image. |
 | [custom_print](/cells/python-net/aspose.cells.rendering/sheetrender/custom_print/#bool-aspose.pydrawing.printing.PrintPageEventArgs) | Client can control page setting of printer when print each page using this function. |
+| [dispose](/cells/python-net/aspose.cells.rendering/sheetrender/dispose/#) | Releases resources created and used for rendering. |
 
 
 

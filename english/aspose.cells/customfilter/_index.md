@@ -3,7 +3,7 @@ title: CustomFilter class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells/customfilter/
 is_root: false
 ---

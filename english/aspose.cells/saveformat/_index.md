@@ -3,7 +3,7 @@ title: SaveFormat enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2500
+weight: 2530
 url: /aspose.cells/saveformat/
 is_root: false
 ---
@@ -57,6 +57,7 @@ The SaveFormat type exposes the following members:
 | JSON | Json |
 | SQL_SCRIPT | Sql |
 | X_HTML | Rrepesents XHtml file. |
+| EPUB | Represents Epub file. |
 
 
 

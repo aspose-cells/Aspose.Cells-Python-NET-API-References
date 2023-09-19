@@ -3,7 +3,7 @@ title: ExportTableOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 580
 url: /aspose.cells/exporttableoptions/
 is_root: false
 ---
@@ -39,6 +39,18 @@ The ExportTableOptions type exposes the following members:
 | [rename_strategy](/cells/python-net/aspose.cells/exporttableoptions/rename_strategy) | Strategy for duplicate names of columns. |
 
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [preprocess_exported_value](/cells/python-net/aspose.cells/exporttableoptions/preprocess_exported_value/#int-int-aspose.cells.CellValue) | Preprocess the value of current cell to be exported. |
+
+
+
+### Remarks 
+
+
+If there are some special requirements about the exporting, such as ignoring error values, user may extend this class
+to overwrite corresponding apis to achive the goal.
 
 ### See Also
 * module [`aspose.cells`](..)

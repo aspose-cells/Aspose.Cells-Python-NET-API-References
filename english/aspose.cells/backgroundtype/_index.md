@@ -3,7 +3,7 @@ title: BackgroundType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1830
+weight: 1860
 url: /aspose.cells/backgroundtype/
 is_root: false
 ---

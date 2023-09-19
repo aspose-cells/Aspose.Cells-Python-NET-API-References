@@ -11,7 +11,8 @@ is_root: false
 ## modify_document_permission property
 
 
-Permission to modify pdf document
+Indicates whether to allow to modify the contents of the document by operations other than those controlled 
+by [`PdfSecurityOptions.annotations_permission`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#annotations_permission), [`PdfSecurityOptions.fill_forms_permission`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#fill_forms_permission) and [`PdfSecurityOptions.assemble_document_permission`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#assemble_document_permission).
 ### Definition:
 ```python
 @property

@@ -11,8 +11,9 @@ is_root: false
 ## ignore_error property
 
 
-Indicates if you need to hide the error in calculating formulas.
+Indicates whether errors encountered while calculating formulas should be ignored.
 The error may be unsupported function, external links, etc.
+The default value is true.
 ### Definition:
 ```python
 @property

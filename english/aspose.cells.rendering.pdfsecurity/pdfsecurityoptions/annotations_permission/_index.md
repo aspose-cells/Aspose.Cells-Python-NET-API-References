@@ -11,7 +11,12 @@ is_root: false
 ## annotations_permission property
 
 
-Permission to comment on the document.
+Indicates whether to allow to add or modify text annotations, fill in interactive form fields.
+
+### Remarks 
+
+
+if [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) is also set, create or modify interactive form fields (including signature fields).
 ### Definition:
 ```python
 @property

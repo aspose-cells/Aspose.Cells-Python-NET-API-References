@@ -3,7 +3,7 @@ title: OdsLoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1120
+weight: 1150
 url: /aspose.cells/odsloadoptions/
 is_root: false
 ---
@@ -53,6 +53,7 @@ The OdsLoadOptions type exposes the following members:
 | [auto_filter](/cells/python-net/aspose.cells/odsloadoptions/auto_filter) | Indicates whether auto filtering the data when loading the files. |
 | [font_configs](/cells/python-net/aspose.cells/odsloadoptions/font_configs) | Gets and sets individual font configs. <br/>Only works for the [`Workbook`](/cells/python-net/aspose.cells/workbook) which uses this [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) to load. |
 | [ignore_useless_shapes](/cells/python-net/aspose.cells/odsloadoptions/ignore_useless_shapes) | Indicates whether ignoring useless shapes. |
+| [preserve_padding_spaces_in_formula](/cells/python-net/aspose.cells/odsloadoptions/preserve_padding_spaces_in_formula) | Indicates whether preserve those spaces and line breaks that are padded between formula tokens<br/>while getting and setting formulas.<br/>Default value is false. |
 | [apply_excel_default_style_to_hyperlink](/cells/python-net/aspose.cells/odsloadoptions/apply_excel_default_style_to_hyperlink) | Indicates whether applying the default style of the Excel to hyperlink. |
 | [refresh_pivot_tables](/cells/python-net/aspose.cells/odsloadoptions/refresh_pivot_tables) | Indicates whether refresh pivot tables when loading file. |
 

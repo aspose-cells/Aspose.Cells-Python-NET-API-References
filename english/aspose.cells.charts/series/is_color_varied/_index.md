@@ -3,7 +3,7 @@ title: is_color_varied property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 270
 url: /aspose.cells.charts/series/is_color_varied/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: parse_html_tag_in_cell property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 520
+weight: 530
 url: /aspose.cells/htmlsaveoptions/parse_html_tag_in_cell/
 is_root: false
 ---
@@ -11,7 +11,8 @@ is_root: false
 ## parse_html_tag_in_cell property
 
 
-Parse html tag in cell,like ,as cell value,or as html tag,default is true
+Indicates whether html tag(such as `<div></div>`) in cell should be parsed as cell value or preserved as it is.
+The default value is true.
 ### Definition:
 ```python
 @property

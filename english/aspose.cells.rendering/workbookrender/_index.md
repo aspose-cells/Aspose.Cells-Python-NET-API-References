@@ -43,6 +43,7 @@ The WorkbookRender type exposes the following members:
 | [to_printer](/cells/python-net/aspose.cells.rendering/workbookrender/to_printer/#str-int-int) | Render workbook to Printer |
 | [get_page_size_inch](/cells/python-net/aspose.cells.rendering/workbookrender/get_page_size_inch/#int) | Get page size in inch of output image. |
 | [custom_print](/cells/python-net/aspose.cells.rendering/workbookrender/custom_print/#bool-aspose.pydrawing.printing.PrintPageEventArgs) | Client can control page setting of printer when print each page using this function. |
+| [dispose](/cells/python-net/aspose.cells.rendering/workbookrender/dispose/#) | Releases resources created and used for rendering. |
 
 
 

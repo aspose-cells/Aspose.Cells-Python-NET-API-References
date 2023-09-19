@@ -3,7 +3,7 @@ title: data_connections property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 520
 url: /aspose.cells/workbook/data_connections/
 is_root: false
 ---

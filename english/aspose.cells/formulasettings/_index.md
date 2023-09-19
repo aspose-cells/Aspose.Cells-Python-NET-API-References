@@ -3,7 +3,7 @@ title: FormulaSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 750
 url: /aspose.cells/formulasettings/
 is_root: false
 ---
@@ -29,6 +29,7 @@ The FormulaSettings type exposes the following members:
 | [max_change](/cells/python-net/aspose.cells/formulasettings/max_change) | The maximum change to resolve a circular reference. |
 | [precision_as_displayed](/cells/python-net/aspose.cells/formulasettings/precision_as_displayed) | Whether the precision of calculated result be set as they are displayed while calculating formulas |
 | [enable_calculation_chain](/cells/python-net/aspose.cells/formulasettings/enable_calculation_chain) | Whether enable calculation chain for formulas. Default is false. |
+| [preserve_padding_spaces](/cells/python-net/aspose.cells/formulasettings/preserve_padding_spaces) | Indicates whether preserve those spaces and line breaks that are padded between formula tokens<br/>while getting and setting formulas.<br/>Default value is false. |
 
 
 

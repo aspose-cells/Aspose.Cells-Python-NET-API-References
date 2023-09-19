@@ -11,7 +11,10 @@ is_root: false
 ## export_active_worksheet_only property
 
 
-Indicates if exporting the whole workbook to html file.
+Indicates if only exporting the active worksheet to html file.
+If true then only the active worksheet will be exported to html file;
+If false then the whole workbook will be exported to html file.
+The default value is false.
 ### Definition:
 ```python
 @property

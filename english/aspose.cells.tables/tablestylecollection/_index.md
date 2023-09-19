@@ -19,6 +19,8 @@ The TableStyleCollection type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [default_table_style_name](/cells/python-net/aspose.cells.tables/tablestylecollection/default_table_style_name) | Gets and sets the default style name of the table. |
+| [default_pivot_style_name](/cells/python-net/aspose.cells.tables/tablestylecollection/default_pivot_style_name) | Gets and sets the  default style name of pivot table . |
 | [capacity](/cells/python-net/aspose.cells.tables/tablestylecollection/capacity) | Gets or sets the number of elements that the array list can contain. |
 
 
