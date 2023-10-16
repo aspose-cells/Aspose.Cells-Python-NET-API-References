@@ -3,7 +3,7 @@ title: get_standard_header_footer_font_style_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells/settableglobalizationsettings/get_standard_header_footer_font_style_name/
 is_root: false
 ---

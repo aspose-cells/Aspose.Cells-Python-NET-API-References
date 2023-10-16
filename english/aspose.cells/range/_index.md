@@ -55,10 +55,12 @@ The Range type exposes the following members:
 | [set_outline_border](/cells/python-net/aspose.cells/range/set_outline_border/#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color) | Sets outline border around a range of cells. |
 | [copy](/cells/python-net/aspose.cells/range/copy/#aspose.cells.Range-aspose.cells.PasteOptions) | Copying the range with paste special options. |
 | [copy](/cells/python-net/aspose.cells/range/copy/#aspose.cells.Range) | Copies data (including formulas), formatting, drawing objects etc. from a source range. |
+| [add_hyperlink](/cells/python-net/aspose.cells/range/add_hyperlink/#str-str-str) | Adds a hyperlink to a specified cell or a range of cells. |
 | [get_enumerator](/cells/python-net/aspose.cells/range/get_enumerator/#) | Gets the enumerator for cells in this Range. |
 | [is_intersect](/cells/python-net/aspose.cells/range/is_intersect/#aspose.cells.Range) | Indicates whether the range is intersect. |
 | [intersect](/cells/python-net/aspose.cells/range/intersect/#aspose.cells.Range) | Returns a [`Range`](/cells/python-net/aspose.cells/range) object that represents the rectangular intersection of two ranges. |
 | [union](/cells/python-net/aspose.cells/range/union/#aspose.cells.Range) | Returns the union of two ranges. |
+| [is_blank](/cells/python-net/aspose.cells/range/is_blank/#) | Indicates whether the range contains values. |
 | [merge](/cells/python-net/aspose.cells/range/merge/#) | Combines a range of cells into a single cell. |
 | [un_merge](/cells/python-net/aspose.cells/range/un_merge/#) | Unmerges merged cells of this range. |
 | [put_value](/cells/python-net/aspose.cells/range/put_value/#str-bool-bool) | Puts a value into the range, if appropriate the value will be converted to other data type and cell's number format will be reset. |

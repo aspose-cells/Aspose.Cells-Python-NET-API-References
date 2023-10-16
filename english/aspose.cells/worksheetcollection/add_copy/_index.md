@@ -58,6 +58,24 @@ def add_copy(self, sheet_index):
 | sheet_index | int | Index of source worksheet. |
 
 
+## add_copy {#list-list}
+
+Copy a group of worksheets.
+
+
+
+```python
+def add_copy(self, source, dest_sheet_names):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| source | list | The source worksheets. |
+| dest_sheet_names | list | The names of the copied sheets. |
+
+
 
 ### See Also
 * module [`aspose.cells`](../../)

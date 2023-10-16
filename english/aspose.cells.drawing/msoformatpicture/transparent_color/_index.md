@@ -3,7 +3,7 @@ title: transparent_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 170
 url: /aspose.cells.drawing/msoformatpicture/transparent_color/
 is_root: false
 ---

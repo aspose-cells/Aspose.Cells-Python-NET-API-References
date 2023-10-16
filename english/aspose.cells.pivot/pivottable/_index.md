@@ -137,7 +137,7 @@ The PivotTable type exposes the following members:
 | [show_in_compact_form](/cells/python-net/aspose.cells.pivot/pivottable/show_in_compact_form/#) | Layouts the PivotTable in compact form. |
 | [show_in_outline_form](/cells/python-net/aspose.cells.pivot/pivottable/show_in_outline_form/#) | Layouts the PivotTable in outline form. |
 | [show_in_tabular_form](/cells/python-net/aspose.cells.pivot/pivottable/show_in_tabular_form/#) | Layouts the PivotTable in tabular form. |
-| [get_cell_by_display_name](/cells/python-net/aspose.cells.pivot/pivottable/get_cell_by_display_name/#str) | Gets the Cell object by the DisplayName of PivotField |
+| [get_cell_by_display_name](/cells/python-net/aspose.cells.pivot/pivottable/get_cell_by_display_name/#str) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) object by the display name of PivotField. |
 | [get_children](/cells/python-net/aspose.cells.pivot/pivottable/get_children/#) | Gets the Children Pivot Tables which use this PivotTable data as data source. |
 
 
@@ -213,3 +213,4 @@ book.save("out.xlsx")
 
 ### See Also
 * module [`aspose.cells.pivot`](..)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)

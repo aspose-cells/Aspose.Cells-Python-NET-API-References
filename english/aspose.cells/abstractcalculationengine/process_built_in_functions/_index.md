@@ -14,6 +14,10 @@ is_root: false
 Whether built-in functions that have been supported by the built-in engine
 should be checked and processed by this implementation.
 Default is false.
+
+### Remarks 
+
+
 If user needs to change the calculation logic of some built-in functions, this property should be set as true.
 Otherwise please leave this property as false for performance consideration.
 ### Definition:

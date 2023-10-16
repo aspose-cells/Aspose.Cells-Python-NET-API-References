@@ -11,7 +11,7 @@ is_root: false
 ## value property
 
 
-Gets the value contained in this cell.
+Gets/sets the value contained in this cell.
 
 ### Remarks 
 

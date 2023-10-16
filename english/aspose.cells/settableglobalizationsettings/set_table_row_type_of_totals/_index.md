@@ -3,7 +3,7 @@ title: set_table_row_type_of_totals method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /aspose.cells/settableglobalizationsettings/set_table_row_type_of_totals/
 is_root: false
 ---

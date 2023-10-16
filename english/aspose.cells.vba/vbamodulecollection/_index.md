@@ -36,6 +36,7 @@ The VbaModuleCollection type exposes the following members:
 | [last_index_of](/cells/python-net/aspose.cells.vba/vbamodulecollection/last_index_of/#aspose.cells.vba.VbaModule-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [add_designer_storage](/cells/python-net/aspose.cells.vba/vbamodulecollection/add_designer_storage/#str-bytes) |  |
 | [get_designer_storage](/cells/python-net/aspose.cells.vba/vbamodulecollection/get_designer_storage/#str) | Represents the data of Designer. |
+| [add_user_form](/cells/python-net/aspose.cells.vba/vbamodulecollection/add_user_form/#str-str-bytes) | Inser user form into VBA Project. |
 | [binary_search](/cells/python-net/aspose.cells.vba/vbamodulecollection/binary_search/#aspose.cells.vba.VbaModule) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

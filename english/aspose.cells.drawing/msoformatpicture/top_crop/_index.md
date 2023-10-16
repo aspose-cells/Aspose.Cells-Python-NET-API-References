@@ -3,7 +3,7 @@ title: top_crop property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 140
 url: /aspose.cells.drawing/msoformatpicture/top_crop/
 is_root: false
 ---

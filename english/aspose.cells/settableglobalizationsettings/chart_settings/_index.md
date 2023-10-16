@@ -3,7 +3,7 @@ title: chart_settings property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /aspose.cells/settableglobalizationsettings/chart_settings/
 is_root: false
 ---
