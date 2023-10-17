@@ -3,7 +3,7 @@ title: set_table_row_type_of_data method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /aspose.cells/settableglobalizationsettings/set_table_row_type_of_data/
 is_root: false
 ---

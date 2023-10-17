@@ -3,7 +3,7 @@ title: get_pivot_grand_total_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells/globalizationsettings/get_pivot_grand_total_name/
 is_root: false
 ---

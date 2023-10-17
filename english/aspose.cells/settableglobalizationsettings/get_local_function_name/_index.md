@@ -3,7 +3,7 @@ title: get_local_function_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells/settableglobalizationsettings/get_local_function_name/
 is_root: false
 ---

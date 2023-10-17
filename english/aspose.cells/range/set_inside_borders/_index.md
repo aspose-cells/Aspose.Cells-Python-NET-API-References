@@ -3,7 +3,7 @@ title: set_inside_borders method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 180
 url: /aspose.cells/range/set_inside_borders/
 is_root: false
 ---

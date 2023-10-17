@@ -3,7 +3,7 @@ title: set_table_row_type_of_current method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /aspose.cells/settableglobalizationsettings/set_table_row_type_of_current/
 is_root: false
 ---

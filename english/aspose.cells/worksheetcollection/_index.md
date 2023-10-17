@@ -49,6 +49,7 @@ The WorksheetCollection type exposes the following members:
 | [register_add_in_function](/cells/python-net/aspose.cells/worksheetcollection/register_add_in_function/#int-str) | Adds addin function into the workbook |
 | [add_copy](/cells/python-net/aspose.cells/worksheetcollection/add_copy/#str) | Adds a worksheet to the collection and copies data from an existed worksheet. |
 | [add_copy](/cells/python-net/aspose.cells/worksheetcollection/add_copy/#int) | Adds a worksheet to the collection and copies data from an existed worksheet. |
+| [add_copy](/cells/python-net/aspose.cells/worksheetcollection/add_copy/#list-list) | Copy a group of worksheets. |
 | [get_range_by_name](/cells/python-net/aspose.cells/worksheetcollection/get_range_by_name/#str) | Gets Range object by pre-defined name. |
 | [get_range_by_name](/cells/python-net/aspose.cells/worksheetcollection/get_range_by_name/#str-int-bool) | Gets [`Range`](/cells/python-net/aspose.cells/range) by pre-defined name or table's name |
 | [copy_to](/cells/python-net/aspose.cells/worksheetcollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |

@@ -3,7 +3,7 @@ title: get_sub_total_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /aspose.cells/settableglobalizationsettings/get_sub_total_name/
 is_root: false
 ---

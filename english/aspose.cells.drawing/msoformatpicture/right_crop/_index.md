@@ -3,7 +3,7 @@ title: right_crop property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 120
 url: /aspose.cells.drawing/msoformatpicture/right_crop/
 is_root: false
 ---

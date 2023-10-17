@@ -3,7 +3,7 @@ title: get_multiple_items_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells/globalizationsettings/get_multiple_items_name/
 is_root: false
 ---

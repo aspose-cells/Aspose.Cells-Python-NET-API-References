@@ -3,7 +3,7 @@ title: set_local_built_in_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells/settableglobalizationsettings/set_local_built_in_name/
 is_root: false
 ---

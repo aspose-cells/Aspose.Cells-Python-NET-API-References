@@ -3,7 +3,7 @@ title: set_table_row_type_of_all method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 390
+weight: 400
 url: /aspose.cells/settableglobalizationsettings/set_table_row_type_of_all/
 is_root: false
 ---

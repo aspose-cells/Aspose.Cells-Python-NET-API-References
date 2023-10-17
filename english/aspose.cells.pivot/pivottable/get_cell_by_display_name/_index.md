@@ -10,7 +10,7 @@ is_root: false
 
 ## get_cell_by_display_name {#str}
 
-Gets the Cell object by the DisplayName of PivotField
+Gets the [`Cell`](/cells/python-net/aspose.cells/cell) object by the display name of PivotField.
 
 
 ### Returns 
@@ -33,4 +33,5 @@ def get_cell_by_display_name(self, display_name):
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)
 * class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

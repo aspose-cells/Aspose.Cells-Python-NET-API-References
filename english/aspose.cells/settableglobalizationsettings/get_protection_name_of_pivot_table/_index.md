@@ -3,7 +3,7 @@ title: get_protection_name_of_pivot_table method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /aspose.cells/settableglobalizationsettings/get_protection_name_of_pivot_table/
 is_root: false
 ---

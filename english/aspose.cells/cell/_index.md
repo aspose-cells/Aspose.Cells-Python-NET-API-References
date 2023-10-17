@@ -49,7 +49,7 @@ The Cell type exposes the following members:
 | [is_shared_formula](/cells/python-net/aspose.cells/cell/is_shared_formula) | Indicates whether the cell formula is part of shared formula. |
 | [is_table_formula](/cells/python-net/aspose.cells/cell/is_table_formula) | Indicates whether this cell is part of table formula. |
 | [is_in_table](/cells/python-net/aspose.cells/cell/is_in_table) | Indicates whether this cell is part of table formula. |
-| [value](/cells/python-net/aspose.cells/cell/value) | Gets the value contained in this cell. |
+| [value](/cells/python-net/aspose.cells/cell/value) | Gets/sets the value contained in this cell. |
 | [is_style_set](/cells/python-net/aspose.cells/cell/is_style_set) | Indicates if the cell's style is set. If return false, it means this cell has a default cell format. |
 | [is_merged](/cells/python-net/aspose.cells/cell/is_merged) | Checks if a cell is part of a merged range or not. |
 | [comment](/cells/python-net/aspose.cells/cell/comment) | Gets the comment of this cell. |

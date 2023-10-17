@@ -19,6 +19,10 @@ The MsoFormatPicture type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [top_crop_inch](/cells/python-net/aspose.cells.drawing/msoformatpicture/top_crop_inch) | Represents the location of the top of the crop rectangle expressed, in unit of inches. |
+| [bottom_crop_inch](/cells/python-net/aspose.cells.drawing/msoformatpicture/bottom_crop_inch) | Represents the location of the bottom of the crop rectangle expressed, in unit of inches. |
+| [left_crop_inch](/cells/python-net/aspose.cells.drawing/msoformatpicture/left_crop_inch) | Represents the location of the left of the crop rectangle expressed, in unit of inches. |
+| [right_crop_inch](/cells/python-net/aspose.cells.drawing/msoformatpicture/right_crop_inch) | Represents the location of the right of the crop rectangle expressed, in unit of inches. |
 | [top_crop](/cells/python-net/aspose.cells.drawing/msoformatpicture/top_crop) | Represents the location of the top of the crop rectangle expressed, expressed as a ratio of the image's height. |
 | [bottom_crop](/cells/python-net/aspose.cells.drawing/msoformatpicture/bottom_crop) | Represents the location of the bottom of the crop rectangle expressed, expressed as a ratio of the image's height. |
 | [left_crop](/cells/python-net/aspose.cells.drawing/msoformatpicture/left_crop) | Represents the location of the left of the crop rectangle expressed, expressed as a ratio of the image's width. |

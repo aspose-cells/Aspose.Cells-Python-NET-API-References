@@ -25,8 +25,8 @@ The CellValue type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [type](/cells/python-net/aspose.cells/cellvalue/type) | Represents the type of cell value. |
-| [value](/cells/python-net/aspose.cells/cellvalue/value) | Represents the cell value. |
+| [type](/cells/python-net/aspose.cells/cellvalue/type) | Gets/sets the type of cell value. |
+| [value](/cells/python-net/aspose.cells/cellvalue/value) | Gets/sets the cell value. |
 
 
 

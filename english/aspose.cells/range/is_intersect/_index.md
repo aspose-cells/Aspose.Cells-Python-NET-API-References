@@ -3,7 +3,7 @@ title: is_intersect method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 140
 url: /aspose.cells/range/is_intersect/
 is_root: false
 ---

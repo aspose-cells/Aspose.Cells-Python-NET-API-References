@@ -3,7 +3,7 @@ title: get_designer_storage method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells.vba/vbamodulecollection/get_designer_storage/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: set_standard_function_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells/settableglobalizationsettings/set_standard_function_name/
 is_root: false
 ---
