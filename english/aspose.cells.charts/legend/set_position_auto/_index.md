@@ -3,7 +3,7 @@ title: set_position_auto method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells.charts/legend/set_position_auto/
 is_root: false
 ---

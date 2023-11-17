@@ -22,8 +22,14 @@ def set_auto_group_field(self, base_field_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| base_field_index | int | The row or column field index in the base fields |
+| base_field_index | int |  |
+### Remarks
 
+The row or column field index in the base fields
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.GroupBy() method.
+This method will be removed 12 months later since October 2023. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## set_auto_group_field {#aspose.cells.pivot.PivotField}
 
@@ -40,7 +46,12 @@ def set_auto_group_field(self, pivot_field):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | pivot_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | The row or column field in the specific fields |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.GroupBy() method.
+This method will be removed 12 months later since October 2023. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

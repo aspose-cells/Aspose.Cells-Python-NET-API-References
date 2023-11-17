@@ -49,7 +49,7 @@ with open("icon.svg", "rb") as fs:
     len = pycore.cast(int, utils.filesize(fs))
     imageData = bytearray(len)
     fs.readinto(imageData)
-    picture = shapes.add_svg(4, 0, 5, 0, -1, -1, imageData, None)
+    picture = shapes.add_icons(4, 0, 5, 0, -1, -1, imageData, None)
 
 ```
 

@@ -3,7 +3,7 @@ title: PivotFieldCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 80
 url: /aspose.cells.pivot/pivotfieldcollection/
 is_root: false
 ---
@@ -38,6 +38,7 @@ Gets the PivotField Object at the specific index.
 | [add_by_base_index](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Adds a PivotField Object to the specific type PivotFields. |
 | [add](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.PivotField) | Adds a PivotField Object to the specific type PivotFields. |
 | [clear](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/clear/#) | clear all fields of PivotFieldCollection |
+| [move](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Moves the PivotField from current position to destination position |
 
 
 

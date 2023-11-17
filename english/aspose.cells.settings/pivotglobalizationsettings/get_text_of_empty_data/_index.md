@@ -3,7 +3,7 @@ title: get_text_of_empty_data method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 80
 url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_empty_data/
 is_root: false
 ---

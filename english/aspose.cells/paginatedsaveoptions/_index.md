@@ -52,6 +52,7 @@ The PaginatedSaveOptions type exposes the following members:
 | [sheet_set](/cells/python-net/aspose.cells/paginatedsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [draw_object_event_handler](/cells/python-net/aspose.cells/paginatedsaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/paginatedsaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
+| [emf_render_setting](/cells/python-net/aspose.cells/paginatedsaveoptions/emf_render_setting) | Setting for rendering Emf metafile. |
 
 
 

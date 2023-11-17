@@ -70,6 +70,7 @@ The Legend type exposes the following members:
 | :- | :- |
 | [set_position_auto](/cells/python-net/aspose.cells.charts/legend/set_position_auto/#) | Set position of the frame to automatic |
 | [characters](/cells/python-net/aspose.cells.charts/legend/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
+| [get_legend_labels](/cells/python-net/aspose.cells.charts/legend/get_legend_labels/#) | Gets the labels of the legend entries after call Chart.Calculate() method. |
 
 
 

@@ -3,7 +3,7 @@ title: log_base property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 270
 url: /aspose.cells.charts/axis/log_base/
 is_root: false
 ---

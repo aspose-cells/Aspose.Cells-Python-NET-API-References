@@ -3,7 +3,7 @@ title: PivotArea class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 10
+weight: 20
 url: /aspose.cells.pivot/pivotarea/
 is_root: false
 ---

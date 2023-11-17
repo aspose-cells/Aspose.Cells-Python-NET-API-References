@@ -3,7 +3,7 @@ title: data_display_format property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 250
 url: /aspose.cells.pivot/pivotfield/data_display_format/
 is_root: false
 ---

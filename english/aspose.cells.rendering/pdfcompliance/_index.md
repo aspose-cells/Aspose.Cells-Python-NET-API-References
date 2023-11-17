@@ -19,7 +19,11 @@ The PdfCompliance type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| NONE | Normal pdf format |
+| NONE | Pdf format compatible with PDF 1.4 |
+| PDF14 | Pdf format compatible with PDF 1.4 |
+| PDF15 | Pdf format compatible with PDF 1.5 |
+| PDF16 | Pdf format compatible with PDF 1.6 |
+| PDF17 | Pdf format compatible with PDF 1.7 |
 | PDF_A1B | Pdf format compatible with PDFA-1b |
 | PDF_A1A | Pdf format compatible with PDFA-1a |
 

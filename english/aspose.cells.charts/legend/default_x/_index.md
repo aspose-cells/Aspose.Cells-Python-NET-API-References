@@ -3,7 +3,7 @@ title: default_x property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.charts/legend/default_x/
 is_root: false
 ---

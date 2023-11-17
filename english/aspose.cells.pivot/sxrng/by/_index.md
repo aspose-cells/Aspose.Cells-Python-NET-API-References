@@ -10,8 +10,6 @@ is_root: false
 
 ## by property
 
-
-Represents the interval object for the group range.
 ### Definition:
 ```python
 @property

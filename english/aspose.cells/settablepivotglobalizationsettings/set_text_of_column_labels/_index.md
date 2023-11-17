@@ -3,7 +3,7 @@ title: set_text_of_column_labels method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 240
 url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_column_labels/
 is_root: false
 ---

@@ -11,7 +11,12 @@ is_root: false
 ## compliance property
 
 
-Workbook converts to pdf will according to PdfCompliance in this property.
+Gets or sets the PDF standards compliance level for output documents.
+
+### Remarks 
+
+
+Default is Pdf17.
 ### Definition:
 ```python
 @property

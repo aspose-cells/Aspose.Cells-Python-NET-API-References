@@ -3,7 +3,7 @@ title: axis_labels property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cells.charts/axis/axis_labels/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Gets the labels of the axis after call Chart.Calculate() method.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead, 
+please use Axis.GetAxisTexts method.
+This property will be removed 12 months later since November 2023. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

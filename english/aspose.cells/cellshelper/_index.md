@@ -48,6 +48,7 @@ The CellsHelper type exposes the following members:
 | [get_used_colors](/cells/python-net/aspose.cells/cellshelper/get_used_colors/#aspose.cells.Workbook) | Gets all used colors in the workbook. |
 | [add_add_in_function](/cells/python-net/aspose.cells/cellshelper/add_add_in_function/#str-int-int-list-aspose.cells.ParameterType) | Add addin function. |
 | [merge_files](/cells/python-net/aspose.cells/cellshelper/merge_files/#list-str-str) | Merges some large xls files to a xls file. |
+| [need_quote_in_formula](/cells/python-net/aspose.cells/cellshelper/need_quote_in_formula/#str) | Indicates whether the name of the sheet should be enclosed in single quotes |
 | [init_for_dot_net_core](/cells/python-net/aspose.cells/cellshelper/init_for_dot_net_core/#) | Do the initialization for .NetCore programme.<br/>We suggest you to call this method for all .NetCore initialization first. <br/>For example:<br/>CellsHelper.InitForDotNetCore();<br/>Workbook wb = new Workbook(); |
 
 

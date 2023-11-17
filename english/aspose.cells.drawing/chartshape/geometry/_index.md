@@ -18,7 +18,7 @@ Gets the geometry
 
 ```python
 
-if len(shape.geometry.shape_adjust_values) == 0:
+if shape.geometry != null  and len(shape.geometry.shape_adjust_values) == 0:
     print("No geometry path.")
 
 ```

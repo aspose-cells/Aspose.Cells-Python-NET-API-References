@@ -3,7 +3,7 @@ title: text_cross_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /aspose.cells/xpssaveoptions/text_cross_type/
 is_root: false
 ---

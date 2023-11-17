@@ -10,8 +10,6 @@ is_root: false
 
 ## is_auto_end property
 
-
-Specifies a boolean value that indicates whether the application will use the source data to set the end range value.
 ### Definition:
 ```python
 @property

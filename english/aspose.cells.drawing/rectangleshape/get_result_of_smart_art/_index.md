@@ -26,7 +26,8 @@ def get_result_of_smart_art(self):
 
 ```python
 
-groupShape = shape.get_result_of_smart_art()
+if shape.is_smart_art:
+    groupShape = shape.get_result_of_smart_art()
 
 ```
 

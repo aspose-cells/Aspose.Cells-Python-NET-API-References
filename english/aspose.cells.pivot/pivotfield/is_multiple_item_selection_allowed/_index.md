@@ -3,7 +3,7 @@ title: is_multiple_item_selection_allowed property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 430
 url: /aspose.cells.pivot/pivotfield/is_multiple_item_selection_allowed/
 is_root: false
 ---

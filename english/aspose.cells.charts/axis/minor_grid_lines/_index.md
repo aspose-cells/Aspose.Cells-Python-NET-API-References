@@ -3,7 +3,7 @@ title: minor_grid_lines property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells.charts/axis/minor_grid_lines/
 is_root: false
 ---

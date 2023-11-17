@@ -40,7 +40,7 @@ def add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, w
 ```python
 
 # add a scroll bar
-scrollBar = shapes.add_scroll_bar(1, 0, 1, 0, 100, 50)
+scrollBar = shapes.add_scroll_bar(1, 0, 1, 0, 100, 20)
 
 ```
 

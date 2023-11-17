@@ -3,7 +3,7 @@ title: is_hidden_item method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /aspose.cells.pivot/pivotfield/is_hidden_item/
 is_root: false
 ---

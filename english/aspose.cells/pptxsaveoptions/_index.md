@@ -60,6 +60,7 @@ The PptxSaveOptions type exposes the following members:
 | [sheet_set](/cells/python-net/aspose.cells/pptxsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [draw_object_event_handler](/cells/python-net/aspose.cells/pptxsaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/pptxsaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
+| [emf_render_setting](/cells/python-net/aspose.cells/pptxsaveoptions/emf_render_setting) | Setting for rendering Emf metafile. |
 
 
 
