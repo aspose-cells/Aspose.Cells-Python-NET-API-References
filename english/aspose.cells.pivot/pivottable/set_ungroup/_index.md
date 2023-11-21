@@ -23,7 +23,12 @@ def set_ungroup(self, base_field_index):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | base_field_index | int | The row or column field index in the base fields |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.Ungroup() method.
+This method will be removed 12 months later since October 2023. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## set_ungroup {#aspose.cells.pivot.PivotField}
 
@@ -40,7 +45,12 @@ def set_ungroup(self, pivot_field):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | pivot_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | The row or column field in the base fields |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.Ungroup() method.
+This method will be removed 12 months later since October 2023. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

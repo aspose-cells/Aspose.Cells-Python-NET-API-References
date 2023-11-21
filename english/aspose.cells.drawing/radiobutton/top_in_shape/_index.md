@@ -24,7 +24,7 @@ Only Applies when this shape in the group or chart.
 
 ```python
 
-if shape.top_in_shape == 8000:
+if shape.is_in_group and shape.top_in_shape == 8000:
     shape.top_in_shape = 4000
 
 ```

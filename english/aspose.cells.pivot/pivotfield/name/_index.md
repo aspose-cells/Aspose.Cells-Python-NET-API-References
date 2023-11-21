@@ -3,7 +3,7 @@ title: name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 440
+weight: 470
 url: /aspose.cells.pivot/pivotfield/name/
 is_root: false
 ---
@@ -16,6 +16,9 @@ Represents the PivotField name.
 ```python
 @property
 def name(self):
+    ...
+@name.setter
+def name(self, value):
     ...
 ```
 

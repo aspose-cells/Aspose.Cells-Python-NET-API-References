@@ -11,7 +11,12 @@ is_root: false
 ## filter_by_fill_color property
 
 
-Flag indicating whether filter by the cell's fill color.
+Whether filter by the cell's fill color.
+
+### Remarks 
+
+
+True: cell's fill color; False: cell's font color.
 ### Definition:
 ```python
 @property

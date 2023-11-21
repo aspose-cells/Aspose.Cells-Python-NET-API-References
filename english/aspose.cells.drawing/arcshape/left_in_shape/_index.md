@@ -24,8 +24,8 @@ Only Applies when this shape in the group or chart.
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.left_in_shape == 2000:
+    shape.left_in_shape = 4000
 
 ```
 ### Definition:

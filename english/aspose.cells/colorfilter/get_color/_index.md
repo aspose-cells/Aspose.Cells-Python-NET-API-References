@@ -10,7 +10,7 @@ is_root: false
 
 ## get_color {#aspose.cells.WorksheetCollection}
 
-
+Gets the color of this filter.
 
 
 ### Returns 

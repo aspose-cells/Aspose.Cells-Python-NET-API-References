@@ -19,7 +19,8 @@ Applies to Shape objects that represent WordArt.
 
 ```python
 
-textEffectFormat = shape.text_effect
+if shape.is_word_art:
+    textEffectFormat = shape.text_effect
 
 ```
 ### Definition:

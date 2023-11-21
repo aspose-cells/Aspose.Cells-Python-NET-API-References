@@ -3,7 +3,7 @@ title: PivotField class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 70
 url: /aspose.cells.pivot/pivotfield/
 is_root: false
 ---
@@ -21,6 +21,7 @@ The PivotField type exposes the following members:
 | :- | :- |
 | [pivot_items](/cells/python-net/aspose.cells.pivot/pivotfield/pivot_items) | Gets the pivot items of the pivot field |
 | [range](/cells/python-net/aspose.cells.pivot/pivotfield/range) | Gets the group range of the pivot field |
+| [group_settings](/cells/python-net/aspose.cells.pivot/pivotfield/group_settings) | Gets the group settings of the pivot field. |
 | [is_calculated_field](/cells/python-net/aspose.cells.pivot/pivotfield/is_calculated_field) | Indicates whether the specified PivotTable field is calculated field. |
 | [base_index](/cells/python-net/aspose.cells.pivot/pivotfield/base_index) | Represents the PivotField index in the base PivotFields. |
 | [position](/cells/python-net/aspose.cells.pivot/pivotfield/position) | Represents the PivotField index in the PivotFields. |
@@ -65,11 +66,15 @@ The PivotField type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
+| [group_by](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#DateTime-DateTime-list-float-bool) | Group the file by the date group types. |
+| [group_by](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-float-float-bool) | Group the file by number. |
+| [group_by](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#list-bool) | Custom group the field. |
 | [hide_item](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#int-bool) | Sets whether the specific PivotItem in a data field is hidden. |
 | [hide_item](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#str-bool) | Sets whether the specific PivotItem in a data field is hidden. |
 | [get_pivot_filter_by_type](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/#aspose.cells.pivot.PivotFilterType) | Gets the pivot filter of the pivot field by type |
 | [get_pivot_filters](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filters/#) | Gets the pivot filters of the pivot field |
 | [init_pivot_items](/cells/python-net/aspose.cells.pivot/pivotfield/init_pivot_items/#) | Init the pivot items of the pivot field |
+| [ungroup](/cells/python-net/aspose.cells.pivot/pivotfield/ungroup/#) | Ungroup the pivot field. |
 | [get_calculated_field_formula](/cells/python-net/aspose.cells.pivot/pivotfield/get_calculated_field_formula/#) | Get the formula string of the specified calculated field . |
 | [set_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/set_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType-bool) | Sets whether the specified field shows that subtotals. |
 | [get_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/get_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType) | Gets whether the specified field shows that subtotals. |

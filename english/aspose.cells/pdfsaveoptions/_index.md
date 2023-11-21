@@ -59,9 +59,10 @@ The PdfSaveOptions type exposes the following members:
 | [sheet_set](/cells/python-net/aspose.cells/pdfsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [draw_object_event_handler](/cells/python-net/aspose.cells/pdfsaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/pdfsaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
+| [emf_render_setting](/cells/python-net/aspose.cells/pdfsaveoptions/emf_render_setting) | Setting for rendering Emf metafile. |
 | [embed_standard_windows_fonts](/cells/python-net/aspose.cells/pdfsaveoptions/embed_standard_windows_fonts) | True to embed true type fonts. <br/>Affects only ASCII characters 32-127.<br/>Fonts for character codes greater than 127 are always embedded.<br/>Fonts are always embedded for PDF/A-1a, PDF/A-1b standard.<br/>Default is true. |
 | [bookmark](/cells/python-net/aspose.cells/pdfsaveoptions/bookmark) | Gets and sets the [`PdfBookmarkEntry`](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry) object. |
-| [compliance](/cells/python-net/aspose.cells/pdfsaveoptions/compliance) | Workbook converts to pdf will according to PdfCompliance in this property. |
+| [compliance](/cells/python-net/aspose.cells/pdfsaveoptions/compliance) | Gets or sets the PDF standards compliance level for output documents. |
 | [security_options](/cells/python-net/aspose.cells/pdfsaveoptions/security_options) | Set this options, when security is need in xls2pdf result. |
 | [image_type](/cells/python-net/aspose.cells/pdfsaveoptions/image_type) | Represents the image type when converting the chart and shape . |
 | [calculate_formula](/cells/python-net/aspose.cells/pdfsaveoptions/calculate_formula) | Indicates whether to calculate formulas before saving pdf file. |
@@ -71,7 +72,6 @@ The PdfSaveOptions type exposes the following members:
 | [optimization_type](/cells/python-net/aspose.cells/pdfsaveoptions/optimization_type) | Gets and sets pdf optimization type. |
 | [custom_properties_export](/cells/python-net/aspose.cells/pdfsaveoptions/custom_properties_export) | Gets or sets a value determining the way [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection) are exported to PDF file. Default value is None. |
 | [export_document_structure](/cells/python-net/aspose.cells/pdfsaveoptions/export_document_structure) | Indicates whether to export document structure. |
-| [emf_render_setting](/cells/python-net/aspose.cells/pdfsaveoptions/emf_render_setting) | Setting for rendering Emf metafile. |
 | [display_doc_title](/cells/python-net/aspose.cells/pdfsaveoptions/display_doc_title) | Indicates whether the window's title bar should display the document title. |
 | [font_encoding](/cells/python-net/aspose.cells/pdfsaveoptions/font_encoding) | Gets or sets embedded font encoding in pdf. |
 | [watermark](/cells/python-net/aspose.cells/pdfsaveoptions/watermark) | Gets or sets watermark to output. |

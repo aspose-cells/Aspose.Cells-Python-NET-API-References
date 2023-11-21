@@ -96,6 +96,8 @@ The HtmlSaveOptions type exposes the following members:
 | [export_data_options](/cells/python-net/aspose.cells/htmlsaveoptions/export_data_options) | Indicating the rule of exporting html file data.The default value is All. |
 | [link_target_type](/cells/python-net/aspose.cells/htmlsaveoptions/link_target_type) | Indicating the type of target attribute in `<a>` link. The default value is HtmlLinkTargetType.Parent. |
 | [is_ie_compatible](/cells/python-net/aspose.cells/htmlsaveoptions/is_ie_compatible) | Indicating whether the output HTML is compatible with IE browser.<br/>The defalut value is false |
+| [format_data_ignore_column_width](/cells/python-net/aspose.cells/htmlsaveoptions/format_data_ignore_column_width) | Indicating whether show the whole formatted data of cell when overflowing the column.<br/>If true then ignore the column width and the whole data of cell will be exported.<br/>If false then the data will be exported same as Excel.<br/>The default value is false. |
+| [calculate_formula](/cells/python-net/aspose.cells/htmlsaveoptions/calculate_formula) | Indicates whether to calculate formulas before saving html file. |
 
 
 

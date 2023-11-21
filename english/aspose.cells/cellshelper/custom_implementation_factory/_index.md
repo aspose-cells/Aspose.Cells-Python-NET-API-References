@@ -3,7 +3,7 @@ title: custom_implementation_factory property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /aspose.cells/cellshelper/custom_implementation_factory/
 is_root: false
 ---

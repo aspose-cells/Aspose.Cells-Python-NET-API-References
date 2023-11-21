@@ -10,8 +10,6 @@ is_root: false
 
 ## start property
 
-
-Represents the start object for the group range.
 ### Definition:
 ```python
 @property

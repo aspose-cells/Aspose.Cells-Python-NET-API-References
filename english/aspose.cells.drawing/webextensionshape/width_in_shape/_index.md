@@ -17,16 +17,6 @@ Represents the width of the shape, in unit of 1/4000 of the parent shape.
 
 
 Only Applies when this shape in the group or chart.
-
-### Example 
-
-
-```python
-
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
-
-```
 ### Definition:
 ```python
 @property

@@ -10,8 +10,6 @@ is_root: false
 
 ## end property
 
-
-Represents the end object for the group range.
 ### Definition:
 ```python
 @property

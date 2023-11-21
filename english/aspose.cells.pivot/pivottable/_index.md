@@ -3,7 +3,7 @@ title: PivotTable class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 180
 url: /aspose.cells.pivot/pivottable/
 is_root: false
 ---

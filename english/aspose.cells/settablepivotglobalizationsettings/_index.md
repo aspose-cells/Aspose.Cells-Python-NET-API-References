@@ -40,6 +40,16 @@ The SettablePivotGlobalizationSettings type exposes the following members:
 | [get_text_of_row_labels](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_row_labels/#) | Gets the text of "Row Labels" label in the PivotTable. |
 | [get_text_of_empty_data](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_empty_data/#) | Gets the text of "(blank)" label in the PivotTable. |
 | [get_text_of_data_field_header](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_data_field_header/#) | Gets the the text of the value area field header in the PivotTable. |
+| [get_short_text_of_12_months](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_short_text_of_12_months/#) | Gets all short formatted string of 12 months. |
+| [get_text_of_4_quaters](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_4_quaters/#) | Gets the local text of 4 Quaters. |
+| [get_text_of_years](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_years/#) | Gets the local text of "Years". |
+| [get_text_of_quarters](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_quarters/#) | Get the local text of "Quarters". |
+| [get_text_of_months](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_months/#) | Gets the local text of "Months". |
+| [get_text_of_days](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_days/#) | Gets the local text of "Days". |
+| [get_text_of_hours](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_hours/#) | Gets the local text of "Hours". |
+| [get_text_of_minutes](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_minutes/#) | Gets the local text of "Minutes". |
+| [get_text_of_seconds](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_seconds/#) | Gets the local text of "Seconds" |
+| [get_text_of_range](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_range/#) | Gets the local text of "Range" |
 | [get_text_of_sub_total](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_sub_total/#aspose.cells.pivot.PivotFieldSubtotalType) | Gets the text of [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) type in the PivotTable. |
 | [set_text_of_total](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_total/#str) | Sets the text of "Total" label in the PivotTable. |
 | [set_text_of_grand_total](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_grand_total/#str) | Sets the text of "Grand Total" label in the PivotTable. |
