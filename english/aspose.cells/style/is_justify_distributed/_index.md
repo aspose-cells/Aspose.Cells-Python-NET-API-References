@@ -3,7 +3,7 @@ title: is_justify_distributed property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 340
 url: /aspose.cells/style/is_justify_distributed/
 is_root: false
 ---

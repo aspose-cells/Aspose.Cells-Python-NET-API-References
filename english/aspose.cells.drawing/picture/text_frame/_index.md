@@ -3,7 +3,7 @@ title: text_frame property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1140
+weight: 1150
 url: /aspose.cells.drawing/picture/text_frame/
 is_root: false
 ---

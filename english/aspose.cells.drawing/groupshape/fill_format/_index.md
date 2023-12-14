@@ -3,7 +3,7 @@ title: fill_format property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells.drawing/groupshape/fill_format/
 is_root: false
 ---

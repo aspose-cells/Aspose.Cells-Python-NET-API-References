@@ -3,7 +3,7 @@ title: top_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1120
+weight: 1130
 url: /aspose.cells.drawing/radiobutton/top_inch/
 is_root: false
 ---

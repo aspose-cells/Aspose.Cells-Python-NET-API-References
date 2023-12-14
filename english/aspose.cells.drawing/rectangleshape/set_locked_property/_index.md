@@ -3,7 +3,7 @@ title: set_locked_property method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells.drawing/rectangleshape/set_locked_property/
 is_root: false
 ---

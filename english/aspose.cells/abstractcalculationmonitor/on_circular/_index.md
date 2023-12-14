@@ -29,7 +29,7 @@ def on_circular(self, circular_cells_data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| circular_cells_data | collections.abc.Iterator | IEnumerator with CalculationCell items representing cells that<br/>depend on circular references. |
+| circular_cells_data | collections.abc.Iterator | IEnumerator with [`CalculationCell`](/cells/python-net/aspose.cells/calculationcell) items representing cells that<br/>depend on circular references. |
 ### Remarks
 
 In the implementation user may also set the expected value as calculated result
@@ -39,3 +39,4 @@ for part/all of those cells so the formula engine will not calculate them recurs
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`AbstractCalculationMonitor`](/cells/python-net/aspose.cells/abstractcalculationmonitor)
+* class [`CalculationCell`](/cells/python-net/aspose.cells/calculationcell)

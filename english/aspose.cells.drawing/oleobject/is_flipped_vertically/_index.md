@@ -3,7 +3,7 @@ title: is_flipped_vertically property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 680
 url: /aspose.cells.drawing/oleobject/is_flipped_vertically/
 is_root: false
 ---

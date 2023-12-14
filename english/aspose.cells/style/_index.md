@@ -37,6 +37,12 @@ The Style type exposes the following members:
 | [foreground_argb_color](/cells/python-net/aspose.cells/style/foreground_argb_color) | Gets and sets the foreground color with a 32-bit ARGB value. |
 | [has_borders](/cells/python-net/aspose.cells/style/has_borders) | Checks whether there are borders have been set for the style. |
 | [parent_style](/cells/python-net/aspose.cells/style/parent_style) | Gets the parent style of this style. |
+| [is_number_format_applied](/cells/python-net/aspose.cells/style/is_number_format_applied) | Indicate whether the number formatting should be applied. |
+| [is_font_applied](/cells/python-net/aspose.cells/style/is_font_applied) | Indicate whether the font formatting should be applied. |
+| [is_alignment_applied](/cells/python-net/aspose.cells/style/is_alignment_applied) | Indicate whether the alignment formatting should be applied. |
+| [is_border_applied](/cells/python-net/aspose.cells/style/is_border_applied) | Indicate whether the border formatting should be applied. |
+| [is_fill_applied](/cells/python-net/aspose.cells/style/is_fill_applied) | Indicate whether the fill formatting should be applied. |
+| [is_protection_applied](/cells/python-net/aspose.cells/style/is_protection_applied) | Indicate whether the protection formatting should be applied. |
 | [indent_level](/cells/python-net/aspose.cells/style/indent_level) | Represents the indent level for the cell or range. Can only be an integer from 0 to 250. |
 | [font](/cells/python-net/aspose.cells/style/font) | Gets a [`Style.font`](/cells/python-net/aspose.cells/style#font) object. |
 | [rotation_angle](/cells/python-net/aspose.cells/style/rotation_angle) | Represents text rotation angle. |

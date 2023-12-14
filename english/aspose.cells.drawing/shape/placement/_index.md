@@ -3,7 +3,7 @@ title: placement property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 820
+weight: 830
 url: /aspose.cells.drawing/shape/placement/
 is_root: false
 ---

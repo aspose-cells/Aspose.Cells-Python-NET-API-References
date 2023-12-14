@@ -3,7 +3,7 @@ title: width_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1200
+weight: 1210
 url: /aspose.cells.drawing/groupshape/width_inch/
 is_root: false
 ---

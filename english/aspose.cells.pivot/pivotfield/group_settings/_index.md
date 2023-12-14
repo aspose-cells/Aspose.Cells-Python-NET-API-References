@@ -3,7 +3,7 @@ title: group_settings property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells.pivot/pivotfield/group_settings/
 is_root: false
 ---
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets the group settings of the pivot field.
+
+### Remarks 
+
+
+If this field is not grouped, Null will be returned.
 ### Definition:
 ```python
 @property

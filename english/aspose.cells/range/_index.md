@@ -59,6 +59,7 @@ The Range type exposes the following members:
 | [get_enumerator](/cells/python-net/aspose.cells/range/get_enumerator/#) | Gets the enumerator for cells in this Range. |
 | [is_intersect](/cells/python-net/aspose.cells/range/is_intersect/#aspose.cells.Range) | Indicates whether the range is intersect. |
 | [intersect](/cells/python-net/aspose.cells/range/intersect/#aspose.cells.Range) | Returns a [`Range`](/cells/python-net/aspose.cells/range) object that represents the rectangular intersection of two ranges. |
+| [union_rang](/cells/python-net/aspose.cells/range/union_rang/#aspose.cells.Range) | Returns the union result of two ranges. |
 | [union](/cells/python-net/aspose.cells/range/union/#aspose.cells.Range) | Returns the union of two ranges. |
 | [is_blank](/cells/python-net/aspose.cells/range/is_blank/#) | Indicates whether the range contains values. |
 | [merge](/cells/python-net/aspose.cells/range/merge/#) | Combines a range of cells into a single cell. |

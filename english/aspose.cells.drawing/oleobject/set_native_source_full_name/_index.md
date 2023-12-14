@@ -3,7 +3,7 @@ title: set_native_source_full_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells.drawing/oleobject/set_native_source_full_name/
 is_root: false
 ---

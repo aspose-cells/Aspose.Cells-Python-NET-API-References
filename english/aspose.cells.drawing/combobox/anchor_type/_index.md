@@ -3,7 +3,7 @@ title: anchor_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells.drawing/combobox/anchor_type/
 is_root: false
 ---

@@ -28,7 +28,12 @@ def union(self, range):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | range | [`Range`](/cells/python-net/aspose.cells/range) | The range |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use Range.UnionRang() method.
+This method will be removed 12 months later since November 2023. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

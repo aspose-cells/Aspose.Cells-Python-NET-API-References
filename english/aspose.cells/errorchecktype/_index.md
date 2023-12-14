@@ -20,7 +20,7 @@ The ErrorCheckType type exposes the following members:
 | Field | Description |
 | :- | :- |
 | EVALUATION_ERROR | Ignore errors when cells contain formulas that result in an error. |
-| CALC | check for calculation errors. |
+| CALC |  |
 | EMPTY_CELL_REF | Ignore errors when formulas refer to empty cells. |
 | NUMBER_STORED_AS_TEXT | Ignore errors when numbers are formatted as text or are preceded by an apostrophe |
 | TEXT_NUMBER | Ignore errors when numbers are formatted as text or are preceded by an apostrophe |

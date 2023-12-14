@@ -10,13 +10,13 @@ is_root: false
 
 ## get_product_name {#}
 
-Gets the product name
+Gets product name
 
 
 ### Returns 
 
 
-
+product name
 
 
 ```python

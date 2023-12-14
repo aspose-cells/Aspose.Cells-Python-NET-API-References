@@ -3,7 +3,7 @@ title: connection_points property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells.drawing/listbox/connection_points/
 is_root: false
 ---

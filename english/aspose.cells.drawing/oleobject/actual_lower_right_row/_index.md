@@ -3,7 +3,7 @@ title: actual_lower_right_row property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells.drawing/oleobject/actual_lower_right_row/
 is_root: false
 ---

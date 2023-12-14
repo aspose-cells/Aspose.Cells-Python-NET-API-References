@@ -3,7 +3,7 @@ title: set_linked_cell method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.drawing/checkbox/set_linked_cell/
 is_root: false
 ---

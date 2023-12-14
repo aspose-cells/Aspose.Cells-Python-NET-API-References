@@ -3,7 +3,7 @@ title: shrink_to_fit property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 460
 url: /aspose.cells/style/shrink_to_fit/
 is_root: false
 ---

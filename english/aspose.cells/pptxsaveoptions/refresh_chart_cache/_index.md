@@ -3,7 +3,7 @@ title: refresh_chart_cache property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 250
 url: /aspose.cells/pptxsaveoptions/refresh_chart_cache/
 is_root: false
 ---

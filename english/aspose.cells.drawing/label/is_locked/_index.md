@@ -3,7 +3,7 @@ title: is_locked property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 610
 url: /aspose.cells.drawing/label/is_locked/
 is_root: false
 ---
