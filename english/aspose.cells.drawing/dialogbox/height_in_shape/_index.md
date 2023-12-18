@@ -3,7 +3,7 @@ title: height_in_shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 440
+weight: 450
 url: /aspose.cells.drawing/dialogbox/height_in_shape/
 is_root: false
 ---
@@ -17,6 +17,16 @@ Represents the vertical offset of shape from the top border of the parent shape,
 
 
 Only Applies when this shape in the group or chart.
+
+### Example 
+
+
+```python
+
+if shape.is_in_group and shape.height_in_shape == 4000:
+    shape.height_in_shape = 2000
+
+```
 ### Definition:
 ```python
 @property

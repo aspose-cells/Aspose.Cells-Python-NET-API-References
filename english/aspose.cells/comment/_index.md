@@ -47,6 +47,7 @@ The Comment type exposes the following members:
 | [format_characters](/cells/python-net/aspose.cells/comment/format_characters/#int-int-aspose.cells.Font-aspose.cells.StyleFlag) | Format some characters with the font setting. |
 | [characters](/cells/python-net/aspose.cells/comment/characters/#int-int) | Returns a Characters object that represents a range of characters within the comment text. |
 | [get_characters](/cells/python-net/aspose.cells/comment/get_characters/#) | Returns all Characters objects <br/>that represents a range of characters within the comment text. |
+| [get_rich_formattings](/cells/python-net/aspose.cells/comment/get_rich_formattings/#) | Returns all Characters objects <br/>that represents a range of characters within the comment text. |
 
 
 

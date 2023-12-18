@@ -3,7 +3,7 @@ title: three_d_format property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1030
+weight: 1040
 url: /aspose.cells.drawing/webextensionshape/three_d_format/
 is_root: false
 ---

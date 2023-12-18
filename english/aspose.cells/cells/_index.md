@@ -132,6 +132,7 @@ Gets [`Cell`](/cells/python-net/aspose.cells/cell) item within the worksheet
 | [remove_duplicates](/cells/python-net/aspose.cells/cells/remove_duplicates/#int-int-int-int) | Removes duplicate values in the range. |
 | [remove_duplicates](/cells/python-net/aspose.cells/cells/remove_duplicates/#int-int-int-int-bool-list) | Removes duplicate data of the range. |
 | [get_row_enumerator](/cells/python-net/aspose.cells/cells/get_row_enumerator/#) | Gets the rows enumerator. |
+| [get_merged_areas](/cells/python-net/aspose.cells/cells/get_merged_areas/#) | Gets all merged cells. |
 | [get_cell](/cells/python-net/aspose.cells/cells/get_cell/#int-int) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) element or null at the specified cell row index and column index. |
 | [get_row](/cells/python-net/aspose.cells/cells/get_row/#int) | Gets the [`Row`](/cells/python-net/aspose.cells/row) element at the specified cell row index. |
 | [check_cell](/cells/python-net/aspose.cells/cells/check_cell/#int-int) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) element or null at the specified cell row index and column index. |

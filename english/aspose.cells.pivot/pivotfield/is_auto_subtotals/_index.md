@@ -3,7 +3,7 @@ title: is_auto_subtotals property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 390
+weight: 400
 url: /aspose.cells.pivot/pivotfield/is_auto_subtotals/
 is_root: false
 ---

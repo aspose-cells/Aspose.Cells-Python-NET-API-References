@@ -44,6 +44,7 @@ The WorkbookDesigner type exposes the following members:
 | [process](/cells/python-net/aspose.cells/workbookdesigner/process/#bool) | Processes the smart markers and populates the data source values. |
 | [process](/cells/python-net/aspose.cells/workbookdesigner/process/#int-bool) | Processes the smart markers and populates the data source values. |
 | [clear_data_source](/cells/python-net/aspose.cells/workbookdesigner/clear_data_source/#) | Clears all data sources. |
+| [set_json_data_source](/cells/python-net/aspose.cells/workbookdesigner/set_json_data_source/#str-str) |  |
 | [get_smart_markers](/cells/python-net/aspose.cells/workbookdesigner/get_smart_markers/#) | Returns a collection of smart markers in a spreadsheet. |
 
 

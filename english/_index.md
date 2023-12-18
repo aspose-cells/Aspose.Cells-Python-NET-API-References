@@ -33,8 +33,11 @@ is_root: true
 | [`aspose.cells.saving`](/cells/python-net/aspose.cells.saving) | The **Aspose.Cells.Saving**  namespace provides options classes of saving files. |
 | [`aspose.cells.settings`](/cells/python-net/aspose.cells.settings) | The **Aspose.Cells.Settings**  namespace contains classes that define settings for different features. |
 | [`aspose.cells.slicers`](/cells/python-net/aspose.cells.slicers) | The **Aspose.Cells.Slicers**  namespace provides all classes for Pivot Table Slicer options for Excel Spreadsheet files. |
+| [`aspose.cells.slides`](/cells/python-net/aspose.cells.slides) | The **Aspose.Cells.Slides**  namespace contains classes that define settings for converting Excel to PowerPoint. |
 | [`aspose.cells.tables`](/cells/python-net/aspose.cells.tables) | The **Aspose.Cells.Tables**  namespace contains classes that represent tables, rows, cells and their formatting for Excel Spreadsheet files. |
 | [`aspose.cells.timelines`](/cells/python-net/aspose.cells.timelines) | The **Aspose.Cells.Timelines**  namespace contains classes that allow to access and draw timelines in Excel Spreadsheet files. |
 | [`aspose.cells.utility`](/cells/python-net/aspose.cells.utility) | The **Aspose.Cells.Utility**  namespace contains utility classes processing JSON formats for Excel Spreadsheet files. |
 | [`aspose.cells.vba`](/cells/python-net/aspose.cells.vba) | The **Aspose.Cells.Vba**  namespace contains classes to access Visual Basic Analysis projects and modules in Excel Spreadsheet files. |
 | [`aspose.cells.webextensions`](/cells/python-net/aspose.cells.webextensions) | The **Aspose.Cells.WebExtensions**  namespace contains classes to access Office Add-in in Excel Files. |
+
+

@@ -3,7 +3,7 @@ title: selected_item method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.drawing/listbox/selected_item/
 is_root: false
 ---

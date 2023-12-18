@@ -26,7 +26,12 @@ def get_characters(self):
 ```
 
 
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use Comment.GetRichFormattings() method.
+This method will be removed 12 months later since November 2023. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Example 
 
 

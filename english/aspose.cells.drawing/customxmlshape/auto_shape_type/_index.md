@@ -3,7 +3,7 @@ title: auto_shape_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /aspose.cells.drawing/customxmlshape/auto_shape_type/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: is_same_setting method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells.drawing/picture/is_same_setting/
 is_root: false
 ---

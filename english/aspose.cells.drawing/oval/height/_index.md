@@ -3,7 +3,7 @@ title: height property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 430
 url: /aspose.cells.drawing/oval/height/
 is_root: false
 ---

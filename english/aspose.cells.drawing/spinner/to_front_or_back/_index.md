@@ -3,7 +3,7 @@ title: to_front_or_back method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /aspose.cells.drawing/spinner/to_front_or_back/
 is_root: false
 ---

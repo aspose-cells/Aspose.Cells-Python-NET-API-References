@@ -3,7 +3,7 @@ title: file_format_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /aspose.cells.drawing/oleobject/file_format_type/
 is_root: false
 ---

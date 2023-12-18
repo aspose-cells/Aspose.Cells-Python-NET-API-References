@@ -155,6 +155,7 @@ The CheckBox type exposes the following members:
 | [calculate_text_size](/cells/python-net/aspose.cells.drawing/checkbox/calculate_text_size/#) | Recalculate the text area |
 | [characters](/cells/python-net/aspose.cells.drawing/checkbox/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
 | [get_characters](/cells/python-net/aspose.cells.drawing/checkbox/get_characters/#) | Returns all Characters objects <br/>that represents a range of characters within the text . |
+| [get_rich_formattings](/cells/python-net/aspose.cells.drawing/checkbox/get_rich_formattings/#) | Returns all Characters objects <br/>that represents a range of characters within the text . |
 | [remove_active_x_control](/cells/python-net/aspose.cells.drawing/checkbox/remove_active_x_control/#) | Remove activeX control. |
 | [is_same_setting](/cells/python-net/aspose.cells.drawing/checkbox/is_same_setting/#any) | Returns whether the shape is same. |
 | [get_actual_box](/cells/python-net/aspose.cells.drawing/checkbox/get_actual_box/#) | Get the actual position and size of the shape (after applying rotation, flip, etc.) |

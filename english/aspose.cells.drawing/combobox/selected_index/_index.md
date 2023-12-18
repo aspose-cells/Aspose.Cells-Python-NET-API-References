@@ -3,7 +3,7 @@ title: selected_index property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 890
+weight: 900
 url: /aspose.cells.drawing/combobox/selected_index/
 is_root: false
 ---

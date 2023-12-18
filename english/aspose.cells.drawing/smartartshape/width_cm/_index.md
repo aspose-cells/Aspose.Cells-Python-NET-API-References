@@ -3,7 +3,7 @@ title: width_cm property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1160
+weight: 1170
 url: /aspose.cells.drawing/smartartshape/width_cm/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: width_pt property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1250
+weight: 1260
 url: /aspose.cells.drawing/lineshape/width_pt/
 is_root: false
 ---

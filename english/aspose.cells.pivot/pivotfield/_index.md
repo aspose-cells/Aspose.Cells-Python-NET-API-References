@@ -73,6 +73,7 @@ The PivotField type exposes the following members:
 | [hide_item](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#str-bool) | Sets whether the specific PivotItem in a data field is hidden. |
 | [get_pivot_filter_by_type](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/#aspose.cells.pivot.PivotFilterType) | Gets the pivot filter of the pivot field by type |
 | [get_pivot_filters](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filters/#) | Gets the pivot filters of the pivot field |
+| [get_filters](/cells/python-net/aspose.cells.pivot/pivotfield/get_filters/#) | Gets all pivot filters of this pivot field. |
 | [init_pivot_items](/cells/python-net/aspose.cells.pivot/pivotfield/init_pivot_items/#) | Init the pivot items of the pivot field |
 | [ungroup](/cells/python-net/aspose.cells.pivot/pivotfield/ungroup/#) | Ungroup the pivot field. |
 | [get_calculated_field_formula](/cells/python-net/aspose.cells.pivot/pivotfield/get_calculated_field_formula/#) | Get the formula string of the specified calculated field . |
