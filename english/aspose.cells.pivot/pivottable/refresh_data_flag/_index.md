@@ -11,7 +11,7 @@ is_root: false
 ## refresh_data_flag property
 
 
-Indicates whether Refresh Data or not.
+Indicates whether Refreshing Data or not.
 ### Definition:
 ```python
 @property

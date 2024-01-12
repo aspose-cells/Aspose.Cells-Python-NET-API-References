@@ -63,6 +63,7 @@ The PptxSaveOptions type exposes the following members:
 | [emf_render_setting](/cells/python-net/aspose.cells/pptxsaveoptions/emf_render_setting) | Setting for rendering Emf metafile. |
 | [ignore_hidden_rows](/cells/python-net/aspose.cells/pptxsaveoptions/ignore_hidden_rows) | Inidicates whether ignoring hidden rows when converting Excel to powerpoint. |
 | [adjust_font_size_for_row_type](/cells/python-net/aspose.cells/pptxsaveoptions/adjust_font_size_for_row_type) | Represents what type of line needs to be adjusted size of font if height of row is small. |
+| [export_view_type](/cells/python-net/aspose.cells/pptxsaveoptions/export_view_type) | Gets and sets the display type when exporting to Excel.<br/>The default exporting type is working as printing. |
 
 
 

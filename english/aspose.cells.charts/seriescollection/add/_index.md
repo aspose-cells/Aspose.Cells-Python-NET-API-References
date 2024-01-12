@@ -10,7 +10,7 @@ is_root: false
 
 ## add {#str-bool}
 
-Adds the [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection) collection to a chart.
+Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart.
 
 
 ### Returns 
@@ -35,7 +35,7 @@ def add(self, area, is_vertical):
 
 ## add {#str-bool-bool}
 
-Adds the [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection) collection to a chart.
+Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart.
 
 
 ### Returns 
@@ -62,4 +62,5 @@ def add(self, area, is_vertical, check_labels):
 
 ### See Also
 * module [`aspose.cells.charts`](../../)
+* class [`Series`](/cells/python-net/aspose.cells.charts/series)
 * class [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection)

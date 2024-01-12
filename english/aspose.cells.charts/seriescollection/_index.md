@@ -28,8 +28,8 @@ The SeriesCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add](/cells/python-net/aspose.cells.charts/seriescollection/add/#str-bool) | Adds the [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection) collection to a chart. |
-| [add](/cells/python-net/aspose.cells.charts/seriescollection/add/#str-bool-bool) | Adds the [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection) collection to a chart. |
+| [add](/cells/python-net/aspose.cells.charts/seriescollection/add/#str-bool) | Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart. |
+| [add](/cells/python-net/aspose.cells.charts/seriescollection/add/#str-bool-bool) | Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart. |
 | [copy_to](/cells/python-net/aspose.cells.charts/seriescollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
 | [copy_to](/cells/python-net/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
 | [index_of](/cells/python-net/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |
@@ -40,7 +40,7 @@ The SeriesCollection type exposes the following members:
 | [get_series_by_order](/cells/python-net/aspose.cells.charts/seriescollection/get_series_by_order/#int) | Gets the [`Series`](/cells/python-net/aspose.cells.charts/series) element by order. |
 | [change_series_order](/cells/python-net/aspose.cells.charts/seriescollection/change_series_order/#int-int) | Directly changes the orders of the two series. |
 | [set_series_names](/cells/python-net/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Sets the name of all the serieses in the chart. |
-| [add_r1c1](/cells/python-net/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | Adds the [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection) collection to a chart. |
+| [add_r1c1](/cells/python-net/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart. |
 | [binary_search](/cells/python-net/aspose.cells.charts/seriescollection/binary_search/#aspose.cells.charts.Series) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 
@@ -98,4 +98,3 @@ workbook.save("book1.xls")
 ### See Also
 * module [`aspose.cells.charts`](..)
 * class [`Series`](/cells/python-net/aspose.cells.charts/series)
-* class [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection)

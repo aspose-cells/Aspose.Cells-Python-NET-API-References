@@ -10,7 +10,7 @@ is_root: false
 
 ## AdjustFontSizeForRowType enumeration
 
-Represents what kind of rows should be ajusted.
+Represents which kind of rows should be ajusted.
 
 
 

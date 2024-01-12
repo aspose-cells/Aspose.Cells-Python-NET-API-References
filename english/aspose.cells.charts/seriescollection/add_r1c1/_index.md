@@ -10,7 +10,7 @@ is_root: false
 
 ## add_r1c1 {#str-bool}
 
-Adds the [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection) collection to a chart.
+Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart.
 
 
 ### Returns 
@@ -36,4 +36,5 @@ def add_r1c1(self, area, is_vertical):
 
 ### See Also
 * module [`aspose.cells.charts`](../../)
+* class [`Series`](/cells/python-net/aspose.cells.charts/series)
 * class [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection)

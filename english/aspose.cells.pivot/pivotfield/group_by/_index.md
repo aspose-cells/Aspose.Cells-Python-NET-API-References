@@ -8,6 +8,24 @@ url: /aspose.cells.pivot/pivotfield/group_by/
 is_root: false
 ---
 
+## group_by {#float-bool}
+
+Automatically group the field with internal
+
+
+
+```python
+def group_by(self, interval, new_field):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| interval | float | The internal of group.<br/>Automatic value will be assigned if it's zero, |
+| new_field | bool | Indicates whether adding a new field to the pivottable. |
+
+
 ## group_by {#list-bool}
 
 Custom group the field.

@@ -12,10 +12,14 @@ is_root: false
 
 
 Whether extends data to next sheet when the rows or columns of data exceed limit.
-If this property is true, extra data will be extended to next sheet behind current one(if current sheet is the last one,
-new sheet will be appended to current workbook).
-If this property is false, the data exceeds limit will be ignored.
-Default is false;
+Default is false.
+
+### Remarks 
+
+
+If this property is true, extra data will be put into next sheet behind current one
+(if current sheet is the last one, new sheet will be appended to current workbook).
+If this property is false, the data exceeding limit will be ignored.
 ### Definition:
 ```python
 @property
