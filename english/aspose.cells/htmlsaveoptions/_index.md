@@ -100,6 +100,7 @@ The HtmlSaveOptions type exposes the following members:
 | [calculate_formula](/cells/python-net/aspose.cells/htmlsaveoptions/calculate_formula) | Indicates whether to calculate formulas before saving html file. |
 | [is_js_browser_compatible](/cells/python-net/aspose.cells/htmlsaveoptions/is_js_browser_compatible) | Indicates whether JavaScript is compatible with browsers that do not support JavaScript. <br/>The default value is true. |
 | [is_mobile_compatible](/cells/python-net/aspose.cells/htmlsaveoptions/is_mobile_compatible) | Indicates whether the output HTML is compatible with mobile devices. <br/>The default value is false. |
+| [css_styles](/cells/python-net/aspose.cells/htmlsaveoptions/css_styles) | Gets or sets the additional css styles for the formatter.<br/>Only works when [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/aspose.cells/htmlsaveoptions#save_as_single_file) is True.<br/><br/>CssStyles="body { padding: 5px }"; |
 
 
 

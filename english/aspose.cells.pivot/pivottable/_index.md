@@ -82,7 +82,7 @@ The PivotTable type exposes the following members:
 | [tag](/cells/python-net/aspose.cells.pivot/pivottable/tag) | Gets a string saved with the PivotTable report. |
 | [save_data](/cells/python-net/aspose.cells.pivot/pivottable/save_data) | Indicates whether data for the PivotTable report is saved with the workbook. |
 | [refresh_data_on_opening_file](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data_on_opening_file) | Indicates whether Refresh Data when Opening File. |
-| [refresh_data_flag](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data_flag) | Indicates whether Refresh Data or not. |
+| [refresh_data_flag](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data_flag) | Indicates whether Refreshing Data or not. |
 | [external_connection_data_source](/cells/python-net/aspose.cells.pivot/pivottable/external_connection_data_source) | Gets the external connection data source. |
 | [data_source](/cells/python-net/aspose.cells.pivot/pivottable/data_source) | Gets and sets the data source of the pivot table. |
 | [pivot_formats](/cells/python-net/aspose.cells.pivot/pivottable/pivot_formats) | Gets the collection of formats applied to PivotTable. |

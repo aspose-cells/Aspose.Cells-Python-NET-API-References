@@ -66,6 +66,7 @@ The PivotField type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
+| [group_by](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-bool) | Automatically group the field with internal |
 | [group_by](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#DateTime-DateTime-list-float-bool) | Group the file by the date group types. |
 | [group_by](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-float-float-bool) | Group the file by number. |
 | [group_by](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#list-bool) | Custom group the field. |

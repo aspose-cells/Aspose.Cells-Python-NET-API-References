@@ -69,7 +69,11 @@ The TxtLoadOptions type exposes the following members:
 | [text_qualifier](/cells/python-net/aspose.cells/txtloadoptions/text_qualifier) | Specifies the text qualifier for cell values. Default qualifier is '"'. |
 | [treat_consecutive_delimiters_as_one](/cells/python-net/aspose.cells/txtloadoptions/treat_consecutive_delimiters_as_one) | Whether consecutive delimiters should be treated as one. |
 | [treat_quote_prefix_as_value](/cells/python-net/aspose.cells/txtloadoptions/treat_quote_prefix_as_value) | Indicates whether the leading single quote sign should be taken as part of the value of one cell.<br/>Default is true. If it is false, the leading single quote will be removed from corresponding cell's value<br/>and [`Style.quote_prefix`](/cells/python-net/aspose.cells/style#quote_prefix) will be set as true for the cell. |
-| [extend_to_next_sheet](/cells/python-net/aspose.cells/txtloadoptions/extend_to_next_sheet) | Whether extends data to next sheet when the rows or columns of data exceed limit.<br/>If this property is true, extra data will be extended to next sheet behind current one(if current sheet is the last one,<br/>new sheet will be appended to current workbook).<br/>If this property is false, the data exceeds limit will be ignored.<br/>Default is false; |
+| [extend_to_next_sheet](/cells/python-net/aspose.cells/txtloadoptions/extend_to_next_sheet) | Whether extends data to next sheet when the rows or columns of data exceed limit.<br/>Default is false. |
+| [header_rows_count](/cells/python-net/aspose.cells/txtloadoptions/header_rows_count) | The count of header rows to be repeated for extended sheets. |
+| [header_columns_count](/cells/python-net/aspose.cells/txtloadoptions/header_columns_count) | The count of header columns to be repeated for extended sheets. |
+| [max_row_count](/cells/python-net/aspose.cells/txtloadoptions/max_row_count) | The maximum count of rows to be imported for one sheet. |
+| [max_column_count](/cells/python-net/aspose.cells/txtloadoptions/max_column_count) | The maximum count of columns to be imported for one sheet. |
 
 
 ### Methods
