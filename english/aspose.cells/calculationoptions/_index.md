@@ -30,7 +30,7 @@ The CalculationOptions type exposes the following members:
 | [custom_function](/cells/python-net/aspose.cells/calculationoptions/custom_function) | The custom formula calculation functions to extend the calculation engine. |
 | [custom_engine](/cells/python-net/aspose.cells/calculationoptions/custom_engine) | The custom formula calculation engine to extend the default calculation engine of Aspose.Cells. |
 | [calculation_monitor](/cells/python-net/aspose.cells/calculationoptions/calculation_monitor) | The monitor for user to track the progress of formula calculation. |
-| [calc_stack_size](/cells/python-net/aspose.cells/calculationoptions/calc_stack_size) | Specifies the stack size for calculating cells recursively. |
+| [calc_stack_size](/cells/python-net/aspose.cells/calculationoptions/calc_stack_size) | The stack size for calculating cells recursively. Default value is 200. |
 | [precision_strategy](/cells/python-net/aspose.cells/calculationoptions/precision_strategy) | Specifies the strategy for processing precision of calculation. |
 | [linked_data_sources](/cells/python-net/aspose.cells/calculationoptions/linked_data_sources) | Specifies the data sources for external links used in formulas. |
 | [character_encoding](/cells/python-net/aspose.cells/calculationoptions/character_encoding) | Specifies the encoding used for encoding/decoding characters when calculating formulas.<br/>For functions such as CHAR, CODE, the calculated result depends on the region settings and default charset of the environment.<br/>With this property user can specify the proper encoding used for those function to get the expected result. |

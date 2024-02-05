@@ -11,7 +11,7 @@ is_root: false
 ## ignore_hidden_rows property
 
 
-Inidicates whether ignoring hidden rows when converting Excel to powerpoint.
+Inidicates whether ignoring hidden rows when converting Excel to PowerPoint.
 ### Definition:
 ```python
 @property

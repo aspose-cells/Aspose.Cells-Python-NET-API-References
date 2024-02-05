@@ -12,6 +12,11 @@ is_root: false
 
 
 when ShowInOutlineForm is true, then display subtotals at the top of the list of items instead of at the bottom
+
+### Remarks 
+
+
+Only works when ShowInOutlineForm is true.
 ### Definition:
 ```python
 @property

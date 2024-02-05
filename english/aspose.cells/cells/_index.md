@@ -80,6 +80,8 @@ Gets [`Cell`](/cells/python-net/aspose.cells/cell) item within the worksheet
 | [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int) | Merges a specified range of cells into a single cell. |
 | [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int-bool) | Merges a specified range of cells into a single cell. |
 | [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int-bool-bool) | Merges a specified range of cells into a single cell. |
+| [get_column_width_pixel](/cells/python-net/aspose.cells/cells/get_column_width_pixel/#int) | Gets the width of the specified column in normal view, in units of pixel. |
+| [get_column_width_pixel](/cells/python-net/aspose.cells/cells/get_column_width_pixel/#int-bool) | Gets the width of the specified column in normal view, in units of pixel. |
 | [copy_columns](/cells/python-net/aspose.cells/cells/copy_columns/#aspose.cells.Cells-int-int-int-aspose.cells.PasteOptions) | Copies data and formats of a whole column. |
 | [copy_columns](/cells/python-net/aspose.cells/cells/copy_columns/#aspose.cells.Cells-int-int-int) | Copies data and formats of a whole column. |
 | [copy_columns](/cells/python-net/aspose.cells/cells/copy_columns/#aspose.cells.Cells-int-int-int-int) | Copies data and formats of the whole columns. |
@@ -168,7 +170,6 @@ Gets [`Cell`](/cells/python-net/aspose.cells/cell) item within the worksheet
 | [set_column_width_pixel](/cells/python-net/aspose.cells/cells/set_column_width_pixel/#int-int) | Sets column width in unit of pixels in normal view. |
 | [set_column_width_inch](/cells/python-net/aspose.cells/cells/set_column_width_inch/#int-float) | Sets column width in unit of inches  in normal view. |
 | [set_column_width](/cells/python-net/aspose.cells/cells/set_column_width/#int-float) | Sets the width of the specified column in normal view. |
-| [get_column_width_pixel](/cells/python-net/aspose.cells/cells/get_column_width_pixel/#int) | Gets the width of the specified column in normal view, in units of pixel. |
 | [get_column_width_inch](/cells/python-net/aspose.cells/cells/get_column_width_inch/#int) | Gets the width of the specified column in normal view, in units of inches. |
 | [get_column_width](/cells/python-net/aspose.cells/cells/get_column_width/#int) | Gets the width(in unit of characters) of the specified column in normal view |
 | [get_view_column_width_pixel](/cells/python-net/aspose.cells/cells/get_view_column_width_pixel/#int) | Get the width in different view type. |

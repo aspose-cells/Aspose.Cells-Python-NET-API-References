@@ -24,8 +24,8 @@ The PivotField type exposes the following members:
 | [group_settings](/cells/python-net/aspose.cells.pivot/pivotfield/group_settings) | Gets the group settings of the pivot field. |
 | [is_calculated_field](/cells/python-net/aspose.cells.pivot/pivotfield/is_calculated_field) | Indicates whether the specified PivotTable field is calculated field. |
 | [base_index](/cells/python-net/aspose.cells.pivot/pivotfield/base_index) | Represents the PivotField index in the base PivotFields. |
-| [position](/cells/python-net/aspose.cells.pivot/pivotfield/position) | Represents the PivotField index in the PivotFields. |
-| [name](/cells/python-net/aspose.cells.pivot/pivotfield/name) | Represents the PivotField name. |
+| [position](/cells/python-net/aspose.cells.pivot/pivotfield/position) | Represents the index of [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) in the region. |
+| [name](/cells/python-net/aspose.cells.pivot/pivotfield/name) | Represents the name of PivotField. |
 | [display_name](/cells/python-net/aspose.cells.pivot/pivotfield/display_name) | Represents the PivotField display name. |
 | [is_auto_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/is_auto_subtotals) | Indicates whether the specified field shows automatic subtotals. Default is true. |
 | [drag_to_column](/cells/python-net/aspose.cells.pivot/pivotfield/drag_to_column) | Indicates whether the specified field can be dragged to the column position.<br/>The default value is true. |
@@ -79,7 +79,7 @@ The PivotField type exposes the following members:
 | [ungroup](/cells/python-net/aspose.cells.pivot/pivotfield/ungroup/#) | Ungroup the pivot field. |
 | [get_calculated_field_formula](/cells/python-net/aspose.cells.pivot/pivotfield/get_calculated_field_formula/#) | Get the formula string of the specified calculated field . |
 | [set_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/set_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType-bool) | Sets whether the specified field shows that subtotals. |
-| [get_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/get_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType) | Gets whether the specified field shows that subtotals. |
+| [get_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/get_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType) | Indicates whether showing specified subtotal. |
 | [is_hidden_item](/cells/python-net/aspose.cells.pivot/pivotfield/is_hidden_item/#int) | Indicates whether the specific PivotItem is hidden. |
 | [is_hidden_item_detail](/cells/python-net/aspose.cells.pivot/pivotfield/is_hidden_item_detail/#int) | Indicates whether the specific PivotItem is hidden detail. |
 | [hide_item_detail](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item_detail/#int-bool) | Sets whether the specific PivotItem in a pivot field is hidden detail. |
@@ -144,3 +144,4 @@ book.save("out.xlsx")
 
 ### See Also
 * module [`aspose.cells.pivot`](..)
+* class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)

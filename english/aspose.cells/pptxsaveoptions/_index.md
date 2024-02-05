@@ -61,9 +61,9 @@ The PptxSaveOptions type exposes the following members:
 | [draw_object_event_handler](/cells/python-net/aspose.cells/pptxsaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/pptxsaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
 | [emf_render_setting](/cells/python-net/aspose.cells/pptxsaveoptions/emf_render_setting) | Setting for rendering Emf metafile. |
-| [ignore_hidden_rows](/cells/python-net/aspose.cells/pptxsaveoptions/ignore_hidden_rows) | Inidicates whether ignoring hidden rows when converting Excel to powerpoint. |
+| [ignore_hidden_rows](/cells/python-net/aspose.cells/pptxsaveoptions/ignore_hidden_rows) | Inidicates whether ignoring hidden rows when converting Excel to PowerPoint. |
 | [adjust_font_size_for_row_type](/cells/python-net/aspose.cells/pptxsaveoptions/adjust_font_size_for_row_type) | Represents what type of line needs to be adjusted size of font if height of row is small. |
-| [export_view_type](/cells/python-net/aspose.cells/pptxsaveoptions/export_view_type) | Gets and sets the display type when exporting to Excel.<br/>The default exporting type is working as printing. |
+| [export_view_type](/cells/python-net/aspose.cells/pptxsaveoptions/export_view_type) | Gets and sets the display type when exporting to PowerPoint.<br/>The default exporting type is working as printing. |
 
 
 

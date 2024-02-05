@@ -3,7 +3,7 @@ title: ChartTextDirectionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 440
+weight: 450
 url: /aspose.cells.charts/charttextdirectiontype/
 is_root: false
 ---

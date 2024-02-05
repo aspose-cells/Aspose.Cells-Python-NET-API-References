@@ -90,6 +90,7 @@ The FileFormatType type exposes the following members:
 | MICROSOFT_CABINET | /// <br/>Rrepesents Microsoft Cabinet file.<br/><br/>The file format is not supported<br/>Only for detecting file type. |
 | RTF |  |
 | EPUB | EPUB |
+| OXPS | OXPS (Open XML Paper Specification) format. |
 | G_ZIP | Rrepesents GZip file. |
 
 

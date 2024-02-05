@@ -3,7 +3,7 @@ title: CategoryType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /aspose.cells.charts/categorytype/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: is_vertical property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells/exporttableoptions/is_vertical/
 is_root: false
 ---

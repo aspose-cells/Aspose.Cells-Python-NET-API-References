@@ -76,6 +76,8 @@ The Chart type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
+| [calculate](/cells/python-net/aspose.cells.charts/chart/calculate/#) | Calculates the custom position of plot area, axes if the position of them are auto assigned. |
+| [calculate](/cells/python-net/aspose.cells.charts/chart/calculate/#aspose.cells.charts.ChartCalculateOptions) | Calculates the custom position of plot area, axes if the position of them are auto assigned, with Chart Calculate Options. |
 | [to_image](/cells/python-net/aspose.cells.charts/chart/to_image/#str) | Creates the chart image and saves it to a file.<br/>The extension of the file name determines the format of the image. |
 | [to_image](/cells/python-net/aspose.cells.charts/chart/to_image/#str-aspose.cells.drawing.ImageType) | Creates the chart image and saves it to a file in the specified image type. |
 | [to_image](/cells/python-net/aspose.cells.charts/chart/to_image/#str-int) | Creates the chart image and saves it to a file in the Jpeg format. |
@@ -93,7 +95,6 @@ The Chart type exposes the following members:
 | [refresh_pivot_data](/cells/python-net/aspose.cells.charts/chart/refresh_pivot_data/#) | Refreshes pivot chart's data  from it's pivot data source. |
 | [change_template](/cells/python-net/aspose.cells.charts/chart/change_template/#bytes) | Change chart type with preset template. |
 | [move](/cells/python-net/aspose.cells.charts/chart/move/#int-int-int-int) | Moves the chart to a specified location. |
-| [calculate](/cells/python-net/aspose.cells.charts/chart/calculate/#) | Calculates the custom position of plot area, axes if the position of them are auto assigned. |
 | [get_actual_size](/cells/python-net/aspose.cells.charts/chart/get_actual_size/#) | Gets actual size of chart in unit of pixels. |
 | [has_axis](/cells/python-net/aspose.cells.charts/chart/has_axis/#aspose.cells.charts.AxisType-bool) | Returns which axes exist on the chart. |
 | [switch_row_column](/cells/python-net/aspose.cells.charts/chart/switch_row_column/#) | Switches row/column. |

@@ -11,7 +11,7 @@ is_root: false
 ## export_view_type property
 
 
-Gets and sets the display type when exporting to Excel.
+Gets and sets the display type when exporting to PowerPoint.
 The default exporting type is working as printing.
 ### Definition:
 ```python

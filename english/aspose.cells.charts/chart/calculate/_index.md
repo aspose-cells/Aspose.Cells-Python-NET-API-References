@@ -22,6 +22,23 @@ def calculate(self):
 
 
 
+## calculate {#aspose.cells.charts.ChartCalculateOptions}
+
+Calculates the custom position of plot area, axes if the position of them are auto assigned, with Chart Calculate Options.
+
+
+
+```python
+def calculate(self, calculate_options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| calculate_options | [`ChartCalculateOptions`](/cells/python-net/aspose.cells.charts/chartcalculateoptions) |  |
+
+
 
 ### See Also
 * module [`aspose.cells.charts`](../../)
