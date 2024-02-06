@@ -11,7 +11,7 @@ is_root: false
 ## position property
 
 
-Represents the PivotField index in the PivotFields.
+Represents the index of [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) in the region.
 ### Definition:
 ```python
 @property

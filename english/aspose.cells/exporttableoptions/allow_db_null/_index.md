@@ -1,24 +1,24 @@
 ﻿---
-title: export_as_string property
+title: allow_db_null property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cells/exporttableoptions/export_as_string/
+weight: 40
+url: /aspose.cells/exporttableoptions/allow_db_null/
 is_root: false
 ---
 
-## export_as_string property
+## allow_db_null property
 
 
-Exports the string value of the cells to the DataTable.
+This value indicates whether DBNulls are allowed in this table.
 ### Definition:
 ```python
 @property
-def export_as_string(self):
+def allow_db_null(self):
     ...
-@export_as_string.setter
-def export_as_string(self, value):
+@allow_db_null.setter
+def allow_db_null(self, value):
     ...
 ```
 

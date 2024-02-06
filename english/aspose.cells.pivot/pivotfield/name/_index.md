@@ -11,7 +11,7 @@ is_root: false
 ## name property
 
 
-Represents the PivotField name.
+Represents the name of PivotField.
 ### Definition:
 ```python
 @property

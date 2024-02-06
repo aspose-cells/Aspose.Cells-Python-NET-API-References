@@ -17,6 +17,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`AxisBins`](/cells/python-net/aspose.cells.charts/axisbins) | Represents axis bins |
 | [`Chart`](/cells/python-net/aspose.cells.charts/chart) | Encapsulates the object that represents a single Excel chart. |
 | [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea) | Encapsulates the object that represents the chart area in the worksheet. |
+| [`ChartCalculateOptions`](/cells/python-net/aspose.cells.charts/chartcalculateoptions) | Represents the options for calculating chart. |
 | [`ChartCollection`](/cells/python-net/aspose.cells.charts/chartcollection) | Encapsulates a collection of [`Chart`](/cells/python-net/aspose.cells.charts/chart) objects. |
 | [`ChartDataTable`](/cells/python-net/aspose.cells.charts/chartdatatable) | Represents a chart data table. |
 | [`ChartFrame`](/cells/python-net/aspose.cells.charts/chartframe) | Encapsulates the object that represents the frame object in a chart. |
@@ -85,3 +86,5 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`TickMarkType`](/cells/python-net/aspose.cells.charts/tickmarktype) | Represents the tick mark type for the specified axis. |
 | [`TimeUnit`](/cells/python-net/aspose.cells.charts/timeunit) | Represents the base unit for the category axis. |
 | [`TrendlineType`](/cells/python-net/aspose.cells.charts/trendlinetype) | Represents the trendline type. |
+
+

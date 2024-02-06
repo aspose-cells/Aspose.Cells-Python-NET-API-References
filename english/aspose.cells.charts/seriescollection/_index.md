@@ -3,7 +3,7 @@ title: SeriesCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells.charts/seriescollection/
 is_root: false
 ---

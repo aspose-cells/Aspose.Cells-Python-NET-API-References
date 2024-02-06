@@ -11,7 +11,7 @@ is_root: false
 ## calc_stack_size property
 
 
-Specifies the stack size for calculating cells recursively.
+The stack size for calculating cells recursively. Default value is 200.
 
 ### Remarks 
 
@@ -20,7 +20,9 @@ When there are large amount of cells need to be calculated recursively in the de
 StackOverflowException may be caused in the calculation process.
 If so, user should specify smaller value for this property.
 For such situation, user should determine the proper value for this property according to the actual formulas and data.
-Too small value may cause performance degradation for the formula calculation.
+However, too small value may cause performance degradation for the formula calculation and value less than 2
+will make it impossible to calculate formula which depends on another one. So if the specified value is less than 2,
+it will be reset to 2.
 ### Definition:
 ```python
 @property

@@ -34,6 +34,7 @@ The ExportTableOptions type exposes the following members:
 | [export_as_html_string](/cells/python-net/aspose.cells/exporttableoptions/export_as_html_string) | Exports the html string value of the cells to the DataTable. |
 | [format_strategy](/cells/python-net/aspose.cells/exporttableoptions/format_strategy) | Gets and sets the format strategy when exporting the value as string value. |
 | [check_mixed_value_type](/cells/python-net/aspose.cells/exporttableoptions/check_mixed_value_type) | False, Aspose.Cells will set the DataColumn's type by the value type of the first row for performance.<br/>True, Aspose.Cells will check whether the value type in the column are mixed before set the DataColumn's type <br/>And the value type are mixed, the DataColumn's type will be string. |
+| [allow_db_null](/cells/python-net/aspose.cells/exporttableoptions/allow_db_null) | This value indicates whether DBNulls are allowed in this table. |
 | [is_vertical](/cells/python-net/aspose.cells/exporttableoptions/is_vertical) | True if a row in Workbook file represents a row in DataTable. False if a column in Workbook file represents a row in DataTable. |
 | [indexes](/cells/python-net/aspose.cells/exporttableoptions/indexes) | The indexes of columns/rows which should be exported out. |
 | [rename_strategy](/cells/python-net/aspose.cells/exporttableoptions/rename_strategy) | Strategy for duplicate names of columns. |
