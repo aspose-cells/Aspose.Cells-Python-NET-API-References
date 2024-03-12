@@ -16,12 +16,6 @@ Represents axis bins
 
 The AxisBins type exposes the following members:
 
-### Constructors
-| Constructor | Description |
-| :- | :- |
-| [__init__](/cells/python-net/aspose.cells.charts/axisbins/__init__/#) | Constructs a new instance of AxisBins |
-
-
 ### Properties
 | Property | Description |
 | :- | :- |

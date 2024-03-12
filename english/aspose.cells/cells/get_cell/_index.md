@@ -3,7 +3,7 @@ title: get_cell method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 310
 url: /aspose.cells/cells/get_cell/
 is_root: false
 ---
@@ -30,7 +30,12 @@ def get_cell(self, row, column):
 | :- | :- | :- |
 | row | int | Row index |
 | column | int | Column index |
+### Remarks
 
+NOTE: This member is now obsolete. Instead, 
+please use CheckCell(int row, int column) method.
+This method will be removed 12 months later since February 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

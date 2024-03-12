@@ -3,7 +3,7 @@ title: ungroup_columns method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 960
+weight: 940
 url: /aspose.cells/cells/ungroup_columns/
 is_root: false
 ---

@@ -21,6 +21,7 @@ The PivotItem type exposes the following members:
 | :- | :- |
 | [is_hidden](/cells/python-net/aspose.cells.pivot/pivotitem/is_hidden) | Gets and Sets whether the pivot item is hidden. |
 | [is_hide_detail](/cells/python-net/aspose.cells.pivot/pivotitem/is_hide_detail) | Gets and Sets whether the pivot item hides detail. |
+| [is_missing](/cells/python-net/aspose.cells.pivot/pivotitem/is_missing) | Indicates whether the item has a missing value. |
 | [value](/cells/python-net/aspose.cells.pivot/pivotitem/value) | Gets the value of the pivot item |
 | [name](/cells/python-net/aspose.cells.pivot/pivotitem/name) | Gets the name of the pivot item. |
 | [index](/cells/python-net/aspose.cells.pivot/pivotitem/index) | Gets the index of the pivot item in the pivot field |

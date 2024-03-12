@@ -3,7 +3,7 @@ title: Workbook class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1670
+weight: 1660
 url: /aspose.cells/workbook/
 is_root: false
 ---
@@ -78,7 +78,6 @@ The Workbook type exposes the following members:
 | [copy](/cells/python-net/aspose.cells/workbook/copy/#aspose.cells.Workbook) | Copies data from a source Workbook object. |
 | [calculate_formula](/cells/python-net/aspose.cells/workbook/calculate_formula/#) | Calculates the result of formulas. |
 | [calculate_formula](/cells/python-net/aspose.cells/workbook/calculate_formula/#bool) | Calculates the result of formulas. |
-| [calculate_formula](/cells/python-net/aspose.cells/workbook/calculate_formula/#bool-aspose.cells.ICustomFunction) | Calculates the result of formulas. |
 | [calculate_formula](/cells/python-net/aspose.cells/workbook/calculate_formula/#aspose.cells.CalculationOptions) | Calculating formulas in this workbook. |
 | [refresh_dynamic_array_formulas](/cells/python-net/aspose.cells/workbook/refresh_dynamic_array_formulas/#bool) | Refreshes dynamic array formulas(spill into new range of neighboring cells according to current data)<br/>Other formulas in the workbook will not be calculated recursively even if they were used by dynamic array formulas. |
 | [refresh_dynamic_array_formulas](/cells/python-net/aspose.cells/workbook/refresh_dynamic_array_formulas/#bool-aspose.cells.CalculationOptions) | Refreshes dynamic array formulas(spill into new range of neighboring cells according to current data) |

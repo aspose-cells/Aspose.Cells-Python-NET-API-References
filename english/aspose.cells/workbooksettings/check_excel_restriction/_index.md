@@ -3,7 +3,7 @@ title: check_excel_restriction property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 110
 url: /aspose.cells/workbooksettings/check_excel_restriction/
 is_root: false
 ---

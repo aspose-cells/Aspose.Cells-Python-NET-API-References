@@ -3,7 +3,7 @@ title: data_extract_load property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 140
 url: /aspose.cells/workbooksettings/data_extract_load/
 is_root: false
 ---

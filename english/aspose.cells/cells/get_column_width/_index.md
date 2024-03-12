@@ -3,7 +3,7 @@ title: get_column_width method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 330
 url: /aspose.cells/cells/get_column_width/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: display_number_format property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells.charts/ticklabels/display_number_format/
 is_root: false
 ---

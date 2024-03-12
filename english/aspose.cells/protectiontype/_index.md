@@ -3,7 +3,7 @@ title: ProtectionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2500
+weight: 2510
 url: /aspose.cells/protectiontype/
 is_root: false
 ---

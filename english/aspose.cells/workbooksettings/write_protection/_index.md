@@ -3,7 +3,7 @@ title: write_protection property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 640
 url: /aspose.cells/workbooksettings/write_protection/
 is_root: false
 ---

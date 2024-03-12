@@ -25,7 +25,7 @@ The ChartCalculateOptions type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [update_all_points](/cells/python-net/aspose.cells.charts/chartcalculateoptions/update_all_points) | Whether update all data points when performing the chart calculation. Default: False.<br/>When you want to get the value for each data point in the chart specifically, set it to true.<br/>If this parameter is set to True, the new data points may be generated when chart is calculated. This could make the Excel file larger. |
+| [update_all_points](/cells/python-net/aspose.cells.charts/chartcalculateoptions/update_all_points) | Whether update all data points when performing the chart calculation. Default: False. <br/>When you want to get the value for each data point in the chart specifically, set it to true.<br/>If this parameter is set to True, the new data points may be generated when chart is calculated. This could make the Excel file larger. |
 
 
 

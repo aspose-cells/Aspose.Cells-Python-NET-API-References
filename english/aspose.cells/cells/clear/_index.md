@@ -10,7 +10,7 @@ is_root: false
 
 ## clear {#}
 
-Clears all cell and row objects.
+Clears all data of the worksheet.
 
 
 

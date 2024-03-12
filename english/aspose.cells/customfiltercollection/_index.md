@@ -19,7 +19,7 @@ The CustomFilterCollection type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/customfiltercollection/__init__/#) | Constructs a new instance of CustomFilterCollection |
+| [__init__](/cells/python-net/aspose.cells/customfiltercollection/__init__/#) | Constructs new instance. |
 
 
 ### Properties

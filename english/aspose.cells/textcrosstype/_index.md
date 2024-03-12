@@ -3,7 +3,7 @@ title: TextCrossType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2620
+weight: 2630
 url: /aspose.cells/textcrosstype/
 is_root: false
 ---

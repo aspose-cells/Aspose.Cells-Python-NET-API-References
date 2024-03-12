@@ -3,7 +3,7 @@ title: get_merged_areas method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 430
 url: /aspose.cells/cells/get_merged_areas/
 is_root: false
 ---

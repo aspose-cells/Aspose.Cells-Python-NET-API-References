@@ -3,7 +3,7 @@ title: Worksheet class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1700
+weight: 1690
 url: /aspose.cells/worksheet/
 is_root: false
 ---
@@ -112,7 +112,6 @@ The Worksheet type exposes the following members:
 | [calculate_formula](/cells/python-net/aspose.cells/worksheet/calculate_formula/#str) | Calculates a formula. |
 | [calculate_formula](/cells/python-net/aspose.cells/worksheet/calculate_formula/#str-aspose.cells.CalculationOptions) | Calculates a formula expression directly. |
 | [calculate_formula](/cells/python-net/aspose.cells/worksheet/calculate_formula/#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData) | Calculates a formula expression directly. |
-| [calculate_formula](/cells/python-net/aspose.cells/worksheet/calculate_formula/#bool-bool-aspose.cells.ICustomFunction) | Calculates all formulas in this worksheet. |
 | [calculate_formula](/cells/python-net/aspose.cells/worksheet/calculate_formula/#aspose.cells.CalculationOptions-bool) | Calculates all formulas in this worksheet. |
 | [calculate_array_formula](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#str-aspose.cells.CalculationOptions) | Calculates a formula as array formula. |
 | [calculate_array_formula](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#str-aspose.cells.CalculationOptions-int-int) | Calculates a formula as array formula. |

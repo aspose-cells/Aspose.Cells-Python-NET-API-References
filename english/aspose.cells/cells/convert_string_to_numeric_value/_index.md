@@ -10,7 +10,7 @@ is_root: false
 
 ## convert_string_to_numeric_value {#}
 
-Converts string data in cells to numeric value if possible.
+Converts all string data in the worksheet to numeric value if possible.
 
 
 

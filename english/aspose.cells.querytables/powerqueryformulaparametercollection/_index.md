@@ -10,7 +10,7 @@ is_root: false
 
 ## PowerQueryFormulaParameterCollection class
 
-Represents the
+Represents the parameters of power query formula.
 
 
 

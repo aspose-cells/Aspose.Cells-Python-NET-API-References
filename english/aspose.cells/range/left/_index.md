@@ -3,7 +3,7 @@ title: left property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 360
 url: /aspose.cells/range/left/
 is_root: false
 ---

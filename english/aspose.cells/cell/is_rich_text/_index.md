@@ -10,7 +10,7 @@ is_root: false
 
 ## is_rich_text {#}
 
-Indicates whether the cell string value is a rich text.
+Indicates whether the string value of this cell is a rich formatted text.
 
 
 

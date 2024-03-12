@@ -39,7 +39,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`CellsException`](/cells/python-net/aspose.cells/cellsexception) | The exception that is thrown when Aspose.Cells specified error occurs. |
 | [`CellsFactory`](/cells/python-net/aspose.cells/cellsfactory) | Utility for instantiating classes of Cells model. |
 | [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper) | Provides helper functions. |
-| [`ColorFilter`](/cells/python-net/aspose.cells/colorfilter) | Represents the color filter. |
+| [`ColorFilter`](/cells/python-net/aspose.cells/colorfilter) | Represents filtering the range by color. |
 | [`ColorScale`](/cells/python-net/aspose.cells/colorscale) | Describe the ColorScale conditional formatting rule. <br/>This conditional formatting rule creates a gradated color scale on the cells. |
 | [`Column`](/cells/python-net/aspose.cells/column) | Represents a single column in a worksheet. |
 | [`ColumnCollection`](/cells/python-net/aspose.cells/columncollection) | Collection of the [`Column`](/cells/python-net/aspose.cells/column) objects that represent the individual column(setting)s in a worksheet.<br/>The Column object only represents the settings such as column width, styles, .etc. for the whole column,<br/>has nothing to do with the fact that there are non-empty cells(data) or not in corresponding column.<br/>And the "Count" of this collection only represents the count Column objects that have been instantiated in this collection,<br/>has nothing to do with the fact that there are non-empty cells(data) or not in the worksheet. |
@@ -101,7 +101,6 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`Hyperlink`](/cells/python-net/aspose.cells/hyperlink) | Encapsulates the object that represents a hyperlink. |
 | [`HyperlinkCollection`](/cells/python-net/aspose.cells/hyperlinkcollection) | Encapsulates a collection of [`Hyperlink`](/cells/python-net/aspose.cells/hyperlink) objects. |
 | [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable) | Represents data table. |
-| [`ICustomFunction`](/cells/python-net/aspose.cells/icustomfunction) |  |
 | [`ICustomParser`](/cells/python-net/aspose.cells/icustomparser) | Allows users to add their custom value parser for parsing string values to other proper cell value object. |
 | [`IExportObjectListener`](/cells/python-net/aspose.cells/iexportobjectlistener) | Allows users to manipulate objects while exporting. |
 | [`IFilePathProvider`](/cells/python-net/aspose.cells/ifilepathprovider) | Represents the exported file path provider. |
@@ -246,12 +245,14 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`HtmlHiddenColDisplayType`](/cells/python-net/aspose.cells/htmlhiddencoldisplaytype) | Represents two types of showing the hidden columns in html. |
 | [`HtmlHiddenRowDisplayType`](/cells/python-net/aspose.cells/htmlhiddenrowdisplaytype) | Represents two types of showing the hidden rows in html. |
 | [`HtmlLinkTargetType`](/cells/python-net/aspose.cells/htmllinktargettype) | Represents the type of target attribute in HTML []() tag. |
+| [`HyperlinkType`](/cells/python-net/aspose.cells/hyperlinktype) | Represents the type of hyperlink. |
 | [`IconSetType`](/cells/python-net/aspose.cells/iconsettype) | Icon set type for conditional formatting. <br/>The threshold values for triggering the different icons within a set are<br/>configurable, and the icon order is reversible. |
 | [`LoadDataFilterOptions`](/cells/python-net/aspose.cells/loaddatafilteroptions) | Represents the options to filter data when loading workbook from template. |
 | [`LoadFormat`](/cells/python-net/aspose.cells/loadformat) | Represents the load file format. |
 | [`LookAtType`](/cells/python-net/aspose.cells/lookattype) | Represents look at type. |
 | [`LookInType`](/cells/python-net/aspose.cells/lookintype) | Represents look in type. |
 | [`MemorySetting`](/cells/python-net/aspose.cells/memorysetting) | Memory usage options. |
+| [`MergeEmptyTdType`](/cells/python-net/aspose.cells/mergeemptytdtype) | Represents the merge type for empty TD element when exporting file to html. |
 | [`NameScopeType`](/cells/python-net/aspose.cells/namescopetype) | Represents the scope type of defined names. |
 | [`NumberCategoryType`](/cells/python-net/aspose.cells/numbercategorytype) | Represents category type of cell's number formatting. |
 | [`OoxmlCompliance`](/cells/python-net/aspose.cells/ooxmlcompliance) | Allows to specify which OOXML specification will be used when saving in the Xlsx format. |

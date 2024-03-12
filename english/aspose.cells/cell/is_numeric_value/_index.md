@@ -3,7 +3,7 @@ title: is_numeric_value property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 620
 url: /aspose.cells/cell/is_numeric_value/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## is_numeric_value property
 
 
-Indicates whether the inner value of this cell is numeric(int, double and datetime)
+Indicates whether the value of this cell is numeric(int, double and datetime)
 
 ### Remarks 
 

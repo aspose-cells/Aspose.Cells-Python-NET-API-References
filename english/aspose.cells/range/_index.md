@@ -3,7 +3,7 @@ title: Range class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1300
+weight: 1290
 url: /aspose.cells/range/
 is_root: false
 ---
@@ -23,7 +23,6 @@ The Range type exposes the following members:
 | [hyperlinks](/cells/python-net/aspose.cells/range/hyperlinks) | Gets all hyperlink in the range. |
 | [row_count](/cells/python-net/aspose.cells/range/row_count) | Gets the count of rows in the range. |
 | [column_count](/cells/python-net/aspose.cells/range/column_count) | Gets the count of columns in the range. |
-| [cell_count](/cells/python-net/aspose.cells/range/cell_count) | Gets all cell count in the range. |
 | [name](/cells/python-net/aspose.cells/range/name) | Gets or sets the name of the range. |
 | [refers_to](/cells/python-net/aspose.cells/range/refers_to) | Gets the range's refers to. |
 | [address](/cells/python-net/aspose.cells/range/address) | Gets address of the range. |
