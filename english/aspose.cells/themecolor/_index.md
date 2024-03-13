@@ -3,7 +3,7 @@ title: ThemeColor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1510
+weight: 1500
 url: /aspose.cells/themecolor/
 is_root: false
 ---

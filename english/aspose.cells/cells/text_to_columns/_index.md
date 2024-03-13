@@ -3,7 +3,7 @@ title: text_to_columns method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 920
 url: /aspose.cells/cells/text_to_columns/
 is_root: false
 ---

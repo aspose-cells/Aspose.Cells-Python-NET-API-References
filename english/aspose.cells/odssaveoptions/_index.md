@@ -3,7 +3,7 @@ title: OdsSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1160
+weight: 1150
 url: /aspose.cells/odssaveoptions/
 is_root: false
 ---
@@ -44,6 +44,7 @@ The OdsSaveOptions type exposes the following members:
 | [update_smart_art](/cells/python-net/aspose.cells/odssaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
 | [generator_type](/cells/python-net/aspose.cells/odssaveoptions/generator_type) | Gets and sets the generator of the ods file. |
 | [is_strict_schema11](/cells/python-net/aspose.cells/odssaveoptions/is_strict_schema11) | Indicates whether the ods file should be saved as ODF format version 1.1. Default is false. |
+| [odf_strict_version](/cells/python-net/aspose.cells/odssaveoptions/odf_strict_version) | Gets and sets the ODF version. |
 
 
 

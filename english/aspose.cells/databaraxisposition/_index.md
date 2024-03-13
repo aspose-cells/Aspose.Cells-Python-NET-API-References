@@ -3,7 +3,7 @@ title: DataBarAxisPosition enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1980
+weight: 1970
 url: /aspose.cells/databaraxisposition/
 is_root: false
 ---

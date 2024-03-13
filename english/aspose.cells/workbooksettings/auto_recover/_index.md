@@ -11,7 +11,7 @@ is_root: false
 ## auto_recover property
 
 
-Indicates whether the file is mark for auto-recovery.
+Indicates whether the file is marked for auto-recovery.
 ### Definition:
 ```python
 @property

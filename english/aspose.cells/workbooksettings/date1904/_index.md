@@ -3,7 +3,7 @@ title: date1904 property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 150
 url: /aspose.cells/workbooksettings/date1904/
 is_root: false
 ---

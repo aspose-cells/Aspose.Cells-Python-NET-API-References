@@ -3,7 +3,7 @@ title: FileFormatType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2120
+weight: 2110
 url: /aspose.cells/fileformattype/
 is_root: false
 ---
@@ -90,6 +90,7 @@ The FileFormatType type exposes the following members:
 | MICROSOFT_CABINET | /// <br/>Rrepesents Microsoft Cabinet file.<br/><br/>The file format is not supported<br/>Only for detecting file type. |
 | RTF |  |
 | EPUB | EPUB |
+| AZW3 | AZW3 |
 | OXPS | OXPS (Open XML Paper Specification) format. |
 | G_ZIP | Rrepesents GZip file. |
 

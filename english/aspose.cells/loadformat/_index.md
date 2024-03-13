@@ -36,6 +36,7 @@ The LoadFormat type exposes the following members:
 | SXC | Represents StarOffice Calc Spreadsheet (.sxc) file format.<br/>NOTE: This member is now obsolete. Instead, <br/>please use [`LoadFormat.SXC`](/cells/python-net/aspose.cells/loadformat#SXC) property.<br/>This property will be removed 6 months later since April 2021. <br/>Aspose apologizes for any inconvenience you may have experienced. |
 | XML | Represents a simple xml file. |
 | EPUB | Reprents an EPUB file. |
+| AZW3 | Represents an AZW3 file. |
 | UNKNOWN | Represents unrecognized format, cannot be loaded. |
 | IMAGE | Image |
 | JSON | Json |

@@ -27,7 +27,7 @@ The Cell type exposes the following members:
 | [type](/cells/python-net/aspose.cells/cell/type) | Represents cell value type. |
 | [name](/cells/python-net/aspose.cells/cell/name) | Gets the name of the cell. |
 | [is_error_value](/cells/python-net/aspose.cells/cell/is_error_value) | Checks if the value of this cell is an error. |
-| [is_numeric_value](/cells/python-net/aspose.cells/cell/is_numeric_value) | Indicates whether the inner value of this cell is numeric(int, double and datetime) |
+| [is_numeric_value](/cells/python-net/aspose.cells/cell/is_numeric_value) | Indicates whether the value of this cell is numeric(int, double and datetime) |
 | [string_value](/cells/python-net/aspose.cells/cell/string_value) | Gets the string value contained in the cell. If the type of this cell is string, then return the string value itself.<br/>For other cell types, the formatted string value (formatted with the specified style of this cell) will be returned.<br/>The formatted cell value is same with what you can get from excel when copying a cell as text(such as<br/>copying cell to text editor or exporting to csv). |
 | [string_value_without_format](/cells/python-net/aspose.cells/cell/string_value_without_format) | Gets cell's value as string without any format. |
 | [number_category_type](/cells/python-net/aspose.cells/cell/number_category_type) | Represents the category type of this cell's number formatting. |
@@ -42,7 +42,7 @@ The Cell type exposes the following members:
 | [formula_local](/cells/python-net/aspose.cells/cell/formula_local) | Get the locale formatted formula of the cell. |
 | [r1c1_formula](/cells/python-net/aspose.cells/cell/r1c1_formula) | Gets or sets a R1C1 formula of the [`Cell`](/cells/python-net/aspose.cells/cell). |
 | [contains_external_link](/cells/python-net/aspose.cells/cell/contains_external_link) | Indicates whether this cell contains an external link.<br/>Only applies when the cell is a formula cell. |
-| [is_array_header](/cells/python-net/aspose.cells/cell/is_array_header) | Indicates the cell's formula is and array formula <br/>and it is the first cell of the array. |
+| [is_array_header](/cells/python-net/aspose.cells/cell/is_array_header) | Indicates the cell's formula is an array formula <br/>and it is the first cell of the array. |
 | [is_dynamic_array_formula](/cells/python-net/aspose.cells/cell/is_dynamic_array_formula) | Indicates whether the cell's formula is dynamic array formula(true) or legacy array formula(false). |
 | [is_array_formula](/cells/python-net/aspose.cells/cell/is_array_formula) | Indicates whether the cell formula is an array formula. |
 | [is_in_array](/cells/python-net/aspose.cells/cell/is_in_array) | Indicates whether the cell formula is an array formula. |
@@ -54,13 +54,12 @@ The Cell type exposes the following members:
 | [is_merged](/cells/python-net/aspose.cells/cell/is_merged) | Checks if a cell is part of a merged range or not. |
 | [comment](/cells/python-net/aspose.cells/cell/comment) | Gets the comment of this cell. |
 | [html_string](/cells/python-net/aspose.cells/cell/html_string) | Gets and sets the html string which contains data and some formats in this cell. |
+| [embedded_image](/cells/python-net/aspose.cells/cell/embedded_image) | Gets and sets the embeddedn image in the cell. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [calculate](/cells/python-net/aspose.cells/cell/calculate/#aspose.cells.CalculationOptions) | Calculates the formula of the cell. |
-| [calculate](/cells/python-net/aspose.cells/cell/calculate/#bool-aspose.cells.ICustomFunction) | Calculates the formula of the cell. |
 | [put_value](/cells/python-net/aspose.cells/cell/put_value/#bool) | Puts a boolean value into the cell. |
 | [put_value](/cells/python-net/aspose.cells/cell/put_value/#int) | Puts an integer value into the cell. |
 | [put_value](/cells/python-net/aspose.cells/cell/put_value/#float) | Puts a double value into the cell. |
@@ -74,8 +73,8 @@ The Cell type exposes the following members:
 | [get_style](/cells/python-net/aspose.cells/cell/get_style/#) | Gets the cell style. |
 | [get_style](/cells/python-net/aspose.cells/cell/get_style/#bool) | If checkBorders is true, check whether other cells' borders will effect the style of this cell. |
 | [set_style](/cells/python-net/aspose.cells/cell/set_style/#aspose.cells.Style) | Sets the cell style. |
-| [set_style](/cells/python-net/aspose.cells/cell/set_style/#aspose.cells.Style-bool) | Apply the cell style. |
-| [set_style](/cells/python-net/aspose.cells/cell/set_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Apply the cell style. |
+| [set_style](/cells/python-net/aspose.cells/cell/set_style/#aspose.cells.Style-bool) | Apply the changed property of style to the cell. |
+| [set_style](/cells/python-net/aspose.cells/cell/set_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Apply the cell style based on flags. |
 | [set_formula](/cells/python-net/aspose.cells/cell/set_formula/#str-any) | Set the formula and the value(calculated result) of the formula. |
 | [set_formula](/cells/python-net/aspose.cells/cell/set_formula/#str-bool-bool-any) | Set the formula and the value of the formula. |
 | [set_formula](/cells/python-net/aspose.cells/cell/set_formula/#str-aspose.cells.FormulaParseOptions-any) | Set the formula and the value(calculated result) of the formula. |
@@ -98,6 +97,7 @@ The Cell type exposes the following members:
 | [set_table_formula](/cells/python-net/aspose.cells/cell/set_table_formula/#int-int-int-int-bool-list) | Create one-variable data table for given range starting from this cell. |
 | [get_characters](/cells/python-net/aspose.cells/cell/get_characters/#) | Returns all Characters objects <br/>that represents a range of characters within the cell text. |
 | [get_characters](/cells/python-net/aspose.cells/cell/get_characters/#bool) | Returns all Characters objects <br/>that represents a range of characters within the cell text. |
+| [calculate](/cells/python-net/aspose.cells/cell/calculate/#aspose.cells.CalculationOptions) | Calculates the formula of the cell. |
 | [get_string_value](/cells/python-net/aspose.cells/cell/get_string_value/#aspose.cells.CellValueFormatStrategy) | Gets the string value by specific formatted strategy. |
 | [get_width_of_value](/cells/python-net/aspose.cells/cell/get_width_of_value/#) | Gets the width of the value in unit of pixels. |
 | [get_height_of_value](/cells/python-net/aspose.cells/cell/get_height_of_value/#) | Gets the height of the value in unit of pixels. |
@@ -113,7 +113,7 @@ The Cell type exposes the following members:
 | [characters](/cells/python-net/aspose.cells/cell/characters/#int-int) | Returns a Characters object that represents a range of characters within the cell text. |
 | [replace](/cells/python-net/aspose.cells/cell/replace/#str-str-aspose.cells.ReplaceOptions) | Replace text of the cell with options. |
 | [insert_text](/cells/python-net/aspose.cells/cell/insert_text/#int-str) | Insert some characters to the cell.<br/>If the cell is rich formatted, this method could keep the original formatting. |
-| [is_rich_text](/cells/python-net/aspose.cells/cell/is_rich_text/#) | Indicates whether the cell string value is a rich text. |
+| [is_rich_text](/cells/python-net/aspose.cells/cell/is_rich_text/#) | Indicates whether the string value of this cell is a rich formatted text. |
 | [set_characters](/cells/python-net/aspose.cells/cell/set_characters/#list) | Sets rich text format of the cell. |
 | [get_merged_range](/cells/python-net/aspose.cells/cell/get_merged_range/#) | Returns a [`Range`](/cells/python-net/aspose.cells/range) object which represents a merged range. |
 | [get_html_string](/cells/python-net/aspose.cells/cell/get_html_string/#bool) | Gets the html string which contains data and some formats in this cell. |

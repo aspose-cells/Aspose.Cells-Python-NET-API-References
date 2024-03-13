@@ -3,7 +3,7 @@ title: XpsSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1810
+weight: 1800
 url: /aspose.cells/xpssaveoptions/
 is_root: false
 ---

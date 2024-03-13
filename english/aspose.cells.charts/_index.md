@@ -41,9 +41,9 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`SeriesLayoutProperties`](/cells/python-net/aspose.cells.charts/serieslayoutproperties) | Represents the properties of series layout. |
 | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) | A sparkline represents a tiny chart or graphic in a worksheet cell that provides a visual representation of data. |
 | [`SparklineCollection`](/cells/python-net/aspose.cells.charts/sparklinecollection) | Encapsulates a collection of [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) objects. |
-| [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) is organized into sparkline group. A SparklineGroup contains a variable number of sparkline items.<br/>A sparkline group specifies the type, display settings and axis settings for the sparklines. |
+| [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) is organized into sparkline group. A SparklineGroup contains a variable number of sparkline items.<br/>A sparkline group specifies the type, display settings and axis settings for the sparklines. |
 | [`SparklineGroupCollection`](/cells/python-net/aspose.cells.charts/sparklinegroupcollection) | Encapsulates a collection of [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) objects. |
-| [`TickLabelItem`](/cells/python-net/aspose.cells.charts/ticklabelitem) | Include information of a Ticklabel item |
+| [`TickLabelItem`](/cells/python-net/aspose.cells.charts/ticklabelitem) | Represents a tick label in the chart. |
 | [`TickLabels`](/cells/python-net/aspose.cells.charts/ticklabels) | Represents the tick-mark labels associated with tick marks on a chart axis. |
 | [`Title`](/cells/python-net/aspose.cells.charts/title) | Encapsulates the object that represents the title of chart or axis. |
 | [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) | Represents a trendline in a chart. |
@@ -66,7 +66,6 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`ChartType`](/cells/python-net/aspose.cells.charts/charttype) | Enumerates all chart types used in Excel. |
 | [`CrossType`](/cells/python-net/aspose.cells.charts/crosstype) | Represents the axis cross type. |
 | [`DataLabelsSeparatorType`](/cells/python-net/aspose.cells.charts/datalabelsseparatortype) | Represents the separator type of DataLabels. |
-| [`DataLablesSeparatorType`](/cells/python-net/aspose.cells.charts/datalablesseparatortype) | Represents the separator type of DataLabels. |
 | [`DisplayUnitType`](/cells/python-net/aspose.cells.charts/displayunittype) | Represents the type of display unit of chart's axis. |
 | [`ErrorBarDisplayType`](/cells/python-net/aspose.cells.charts/errorbardisplaytype) | Represents error bar display type. |
 | [`ErrorBarType`](/cells/python-net/aspose.cells.charts/errorbartype) | Represents error bar amount type. |
@@ -82,6 +81,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`SparklineAxisMinMaxType`](/cells/python-net/aspose.cells.charts/sparklineaxisminmaxtype) | Represents the minimum and maximum value types for the sparkline vertical axis. |
 | [`SparklinePresetStyleType`](/cells/python-net/aspose.cells.charts/sparklinepresetstyletype) | Represents the preset style types for sparkline. |
 | [`SparklineType`](/cells/python-net/aspose.cells.charts/sparklinetype) | Represents the sparkline types. |
+| [`TickLabelAlignmentType`](/cells/python-net/aspose.cells.charts/ticklabelalignmenttype) | Represents the text alignment type for the tick labels on the axis |
 | [`TickLabelPositionType`](/cells/python-net/aspose.cells.charts/ticklabelpositiontype) | Represents the position type of tick-mark labels on the specified axis. |
 | [`TickMarkType`](/cells/python-net/aspose.cells.charts/tickmarktype) | Represents the tick mark type for the specified axis. |
 | [`TimeUnit`](/cells/python-net/aspose.cells.charts/timeunit) | Represents the base unit for the category axis. |

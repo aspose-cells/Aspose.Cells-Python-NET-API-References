@@ -26,5 +26,6 @@ The **Aspose.Cells.Ods**  namespace contains all classes of loading and converti
 | [`OdsPageBackgroundGraphicPositionType`](/cells/python-net/aspose.cells.ods/odspagebackgroundgraphicpositiontype) | Represents the position. |
 | [`OdsPageBackgroundGraphicType`](/cells/python-net/aspose.cells.ods/odspagebackgroundgraphictype) | Represents the type of formatting page background with image. |
 | [`OdsPageBackgroundType`](/cells/python-net/aspose.cells.ods/odspagebackgroundtype) | Represents the page background type of ods. |
+| [`OpenDocumentFormatVersionType`](/cells/python-net/aspose.cells.ods/opendocumentformatversiontype) | Open Document Format version type. |
 
 

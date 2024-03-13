@@ -10,7 +10,7 @@ is_root: false
 
 ## __init__ {#}
 
-Constructs a new instance of CustomFilterCollection
+Constructs new instance.
 
 
 

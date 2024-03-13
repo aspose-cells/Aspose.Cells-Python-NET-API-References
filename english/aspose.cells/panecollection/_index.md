@@ -3,7 +3,7 @@ title: PaneCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1210
+weight: 1200
 url: /aspose.cells/panecollection/
 is_root: false
 ---

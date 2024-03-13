@@ -10,13 +10,13 @@ is_root: false
 
 ## check_row {#int}
 
-Gets the [`Row`](/cells/python-net/aspose.cells/row) element or at the specified cell row index.
+Gets the [`Row`](/cells/python-net/aspose.cells/row) element or null at the specified cell row index.
 
 
 ### Returns 
 
 
-If the row object does exist return Row object, otherwise return null.
+Returns [`Row`](/cells/python-net/aspose.cells/row) object If the row object does exist, otherwise returns null.
 
 
 ```python

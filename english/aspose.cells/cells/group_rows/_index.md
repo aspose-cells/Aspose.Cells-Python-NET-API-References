@@ -3,7 +3,7 @@ title: group_rows method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 540
 url: /aspose.cells/cells/group_rows/
 is_root: false
 ---

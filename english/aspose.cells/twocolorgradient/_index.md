@@ -3,7 +3,7 @@ title: TwoColorGradient class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1580
+weight: 1570
 url: /aspose.cells/twocolorgradient/
 is_root: false
 ---

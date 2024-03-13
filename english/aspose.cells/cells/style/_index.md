@@ -3,7 +3,7 @@ title: style property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1320
+weight: 1300
 url: /aspose.cells/cells/style/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## style property
 
 
-Gets and sets the default style.
+Gets and sets the default style of the worksheet.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: IconSet class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 950
+weight: 940
 url: /aspose.cells/iconset/
 is_root: false
 ---

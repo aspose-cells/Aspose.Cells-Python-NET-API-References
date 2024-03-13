@@ -10,7 +10,7 @@ is_root: false
 
 ## remove_at {#int}
 
-Remove the row at the specified index
+Remove the row item at the specified index(position) in this collection.
 
 
 
@@ -22,7 +22,7 @@ def remove_at(self, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| index | int | zero-based row index |
+| index | int | zero-based index(position, not [`Row.index`](/cells/python-net/aspose.cells/row#index)) of the existing row item in this collection. |
 
 
 

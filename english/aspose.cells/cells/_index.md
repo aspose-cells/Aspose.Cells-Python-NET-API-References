@@ -26,7 +26,7 @@ The Cells type exposes the following members:
 | [merged_cells](/cells/python-net/aspose.cells/cells/merged_cells) | Gets the collection of merged cells. |
 | [multi_thread_reading](/cells/python-net/aspose.cells/cells/multi_thread_reading) | Gets or sets whether the cells data model should support Multi-Thread reading.<br/>Default value of this property is false. |
 | [memory_setting](/cells/python-net/aspose.cells/cells/memory_setting) | Gets or sets the memory usage option for this cells. |
-| [style](/cells/python-net/aspose.cells/cells/style) | Gets and sets the default style. |
+| [style](/cells/python-net/aspose.cells/cells/style) | Gets and sets the default style of the worksheet. |
 | [standard_width_inch](/cells/python-net/aspose.cells/cells/standard_width_inch) | Gets or sets the default column width in the worksheet, in unit of inches. |
 | [standard_width_pixels](/cells/python-net/aspose.cells/cells/standard_width_pixels) | Gets or sets the default column width in the worksheet, in unit of pixels. |
 | [standard_width](/cells/python-net/aspose.cells/cells/standard_width) | Gets or sets the default column width in the worksheet, in unit of characters. |
@@ -49,14 +49,6 @@ The Cells type exposes the following members:
 | [last_cell](/cells/python-net/aspose.cells/cells/last_cell) | Gets the last cell in this worksheet. |
 | [max_display_range](/cells/python-net/aspose.cells/cells/max_display_range) | Gets the max range which includes data, merged cells and shapes. |
 | [first_cell](/cells/python-net/aspose.cells/cells/first_cell) | Gets the first cell in this worksheet. |
-
-
-
-Gets [`Cell`](/cells/python-net/aspose.cells/cell) item within the worksheet
-### Indexer
-| Name | Description |
-| :- | :- |
-| [index] | The zero based index of the element. |
 
 
 ### Methods
@@ -138,12 +130,12 @@ Gets [`Cell`](/cells/python-net/aspose.cells/cell) item within the worksheet
 | [get_cell](/cells/python-net/aspose.cells/cells/get_cell/#int-int) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) element or null at the specified cell row index and column index. |
 | [get_row](/cells/python-net/aspose.cells/cells/get_row/#int) | Gets the [`Row`](/cells/python-net/aspose.cells/row) element at the specified cell row index. |
 | [check_cell](/cells/python-net/aspose.cells/cells/check_cell/#int-int) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) element or null at the specified cell row index and column index. |
-| [check_row](/cells/python-net/aspose.cells/cells/check_row/#int) | Gets the [`Row`](/cells/python-net/aspose.cells/row) element or at the specified cell row index. |
+| [check_row](/cells/python-net/aspose.cells/cells/check_row/#int) | Gets the [`Row`](/cells/python-net/aspose.cells/row) element or null at the specified cell row index. |
 | [check_column](/cells/python-net/aspose.cells/cells/check_column/#int) | Gets the [`Column`](/cells/python-net/aspose.cells/column) element or null at the specified column index. |
 | [is_row_hidden](/cells/python-net/aspose.cells/cells/is_row_hidden/#int) | Checks whether a row at given index is hidden. |
 | [is_column_hidden](/cells/python-net/aspose.cells/cells/is_column_hidden/#int) | Checks whether a column at given index is hidden. |
 | [add_range](/cells/python-net/aspose.cells/cells/add_range/#aspose.cells.Range) | Adds a range object reference to cells |
-| [clear](/cells/python-net/aspose.cells/cells/clear/#) | Clears all cell and row objects. |
+| [clear](/cells/python-net/aspose.cells/cells/clear/#) | Clears all data of the worksheet. |
 | [import_data](/cells/python-net/aspose.cells/cells/import_data/#aspose.cells.ICellsDataTable-int-int-aspose.cells.ImportTableOptions) | Import data from custom data table. |
 | [import_array_list](/cells/python-net/aspose.cells/cells/import_array_list/#list-int-int-bool) | Imports an arraylist of data into a worksheet. |
 | [import_formula_array](/cells/python-net/aspose.cells/cells/import_formula_array/#list-int-int-bool) | Imports an array of formula into a worksheet. |
@@ -192,14 +184,12 @@ Gets [`Cell`](/cells/python-net/aspose.cells/cell) item within the worksheet
 | [is_blank_column](/cells/python-net/aspose.cells/cells/is_blank_column/#int) | Checks whether given column is blank(does not contain any data). |
 | [insert_row](/cells/python-net/aspose.cells/cells/insert_row/#int) | Inserts a new row into the worksheet. |
 | [link_to_xml_map](/cells/python-net/aspose.cells/cells/link_to_xml_map/#str-int-int-str) | Link to a xml map. |
-| [find_formula](/cells/python-net/aspose.cells/cells/find_formula/#str-aspose.cells.Cell) | Finds the cell with the input string. |
-| [find_formula_contains](/cells/python-net/aspose.cells/cells/find_formula_contains/#str-aspose.cells.Cell) | Finds the cell with formula which contains the input string. |
 | [move_range](/cells/python-net/aspose.cells/cells/move_range/#aspose.cells.CellArea-int-int) | Moves the range. |
 | [insert_cut_cells](/cells/python-net/aspose.cells/cells/insert_cut_cells/#aspose.cells.Range-int-int-aspose.cells.ShiftType) | Insert cut range. |
 | [delete_range](/cells/python-net/aspose.cells/cells/delete_range/#int-int-int-int-aspose.cells.ShiftType) | Deletes a range of cells and shift cells according to the shift option. |
 | [retrieve_subtotal_setting](/cells/python-net/aspose.cells/cells/retrieve_subtotal_setting/#aspose.cells.CellArea) | Retrieves subtotals setting of the range. |
 | [remove_formulas](/cells/python-net/aspose.cells/cells/remove_formulas/#) | Removes all formula and replaces with the value of the formula. |
-| [convert_string_to_numeric_value](/cells/python-net/aspose.cells/cells/convert_string_to_numeric_value/#) | Converts string data in cells to numeric value if possible. |
+| [convert_string_to_numeric_value](/cells/python-net/aspose.cells/cells/convert_string_to_numeric_value/#) | Converts all string data in the worksheet to numeric value if possible. |
 | [get_dependents](/cells/python-net/aspose.cells/cells/get_dependents/#bool-int-int) | Get all cells which refer to the specific cell. |
 | [get_dependents_in_calculation](/cells/python-net/aspose.cells/cells/get_dependents_in_calculation/#int-int-bool) | Gets all cells whose calculated result depends on specific cell. |
 | [get_cell_style](/cells/python-net/aspose.cells/cells/get_cell_style/#int-int) | Get the style of given cell. |

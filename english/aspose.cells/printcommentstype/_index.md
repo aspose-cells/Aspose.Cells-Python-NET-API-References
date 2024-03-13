@@ -3,7 +3,7 @@ title: PrintCommentsType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2450
+weight: 2460
 url: /aspose.cells/printcommentstype/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: compliance property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 120
 url: /aspose.cells/workbooksettings/compliance/
 is_root: false
 ---

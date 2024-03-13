@@ -3,7 +3,7 @@ title: ReferredArea class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1320
+weight: 1310
 url: /aspose.cells/referredarea/
 is_root: false
 ---

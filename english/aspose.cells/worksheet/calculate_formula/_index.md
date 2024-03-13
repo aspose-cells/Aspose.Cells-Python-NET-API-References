@@ -77,30 +77,6 @@ def calculate_formula(self, options, recursive):
 | recursive | bool | True means if the worksheet' cells depend on the cells of other worksheets,<br/>the dependent cells in other worksheets will be calculated too.<br/>False means all the formulas in the worksheet have been calculated and the values are right. |
 
 
-## calculate_formula {#bool-bool-aspose.cells.ICustomFunction}
-
-Calculates all formulas in this worksheet.
-
-
-
-```python
-def calculate_formula(self, recursive, ignore_error, custom_function):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| recursive | bool | True means if the worksheet' cells depend on the cells of other worksheets,<br/>the dependent cells in other worksheets will be calculated too.<br/>False means all the formulas in the worksheet have been calculated and the values are right. |
-| ignore_error | bool | Indicates if hide the error in calculating formulas.<br/>The error may be unsupported function, external links, etc. |
-| custom_function | [`ICustomFunction`](/cells/python-net/aspose.cells/icustomfunction) | The custom formula calculation functions to extend the calculation engine. |
-### Remarks
-
-NOTE: This member is now obsolete. Instead, 
-please use CalculateFormula(CalculationOptions, bool) method.
-This method will be removed 12 months later since August 2020. 
-Aspose apologizes for any inconvenience you may have experienced.
-
 ## calculate_formula {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
 
 Calculates a formula expression directly.

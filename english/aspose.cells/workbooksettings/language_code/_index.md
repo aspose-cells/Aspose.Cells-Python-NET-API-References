@@ -3,7 +3,7 @@ title: language_code property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 290
 url: /aspose.cells/workbooksettings/language_code/
 is_root: false
 ---

@@ -10,7 +10,7 @@ is_root: false
 
 ## TickLabelItem class
 
-Include information of a Ticklabel item
+Represents a tick label in the chart.
 
 
 

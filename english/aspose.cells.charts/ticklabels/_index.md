@@ -33,6 +33,7 @@ The TickLabels type exposes the following members:
 | [reading_order](/cells/python-net/aspose.cells.charts/ticklabels/reading_order) | Represents text reading order. |
 | [direction_type](/cells/python-net/aspose.cells.charts/ticklabels/direction_type) | Gets and sets the direction of text. |
 | [tick_label_items](/cells/python-net/aspose.cells.charts/ticklabels/tick_label_items) | Gets each tick label item's information of axis. |
+| [alignment_type](/cells/python-net/aspose.cells.charts/ticklabels/alignment_type) | Gets and sets the text alignment for the tick labels on the axis. |
 
 
 

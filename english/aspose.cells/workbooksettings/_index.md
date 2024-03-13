@@ -3,7 +3,7 @@ title: WorkbookSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1690
+weight: 1680
 url: /aspose.cells/workbooksettings/
 is_root: false
 ---
@@ -51,7 +51,6 @@ The WorkbookSettings type exposes the following members:
 | [update_links_type](/cells/python-net/aspose.cells/workbooksettings/update_links_type) | Gets and sets how updates external links when the workbook is opened. |
 | [max_row](/cells/python-net/aspose.cells/workbooksettings/max_row) | Gets the max row index, zero-based. |
 | [max_column](/cells/python-net/aspose.cells/workbooksettings/max_column) | Gets the max column index, zero-based. |
-| [parsing_formula_on_open](/cells/python-net/aspose.cells/workbooksettings/parsing_formula_on_open) | Indicates whether parsing the formula when reading the file. |
 | [window_left](/cells/python-net/aspose.cells/workbooksettings/window_left) | The distance from the left edge of the client area to the left edge of the window, in unit of point. |
 | [window_left_inch](/cells/python-net/aspose.cells/workbooksettings/window_left_inch) | The distance from the left edge of the client area to the left edge of the window.<br/>In unit of inch. |
 | [window_left_cm](/cells/python-net/aspose.cells/workbooksettings/window_left_cm) | The distance from the left edge of the client area to the left edge of the window.<br/>In unit of centimeter. |
@@ -68,7 +67,7 @@ The WorkbookSettings type exposes the following members:
 | [significant_digits](/cells/python-net/aspose.cells/workbooksettings/significant_digits) | Gets and sets the number of significant digits.<br/>The default value is [`CellsHelper.significant_digits`](/cells/python-net/aspose.cells/cellshelper#significant_digits). |
 | [check_compatibility](/cells/python-net/aspose.cells/workbooksettings/check_compatibility) | Indicates whether check compatibility with earlier versions when saving workbook. |
 | [check_excel_restriction](/cells/python-net/aspose.cells/workbooksettings/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K such as by Cell.PutValue(string), if this property is true, you will get an Exception.<br/>If this property is false, we will accept your input string value as the cell's value so that later<br/>you can output the complete string value for other file formats such as CSV.<br/>However, if you have set such kind of value that is invalid for excel file format,<br/>you should not save the workbook as excel file format later. Otherwise there may be unexpected error for the generated excel file. |
-| [auto_recover](/cells/python-net/aspose.cells/workbooksettings/auto_recover) | Indicates whether the file is mark for auto-recovery. |
+| [auto_recover](/cells/python-net/aspose.cells/workbooksettings/auto_recover) | Indicates whether the file is marked for auto-recovery. |
 | [crash_save](/cells/python-net/aspose.cells/workbooksettings/crash_save) | indicates whether the application last saved the workbook file after a crash. |
 | [data_extract_load](/cells/python-net/aspose.cells/workbooksettings/data_extract_load) | indicates whether the application last opened the workbook for data recovery. |
 | [repair_load](/cells/python-net/aspose.cells/workbooksettings/repair_load) | Indicates whether the application last opened the workbook in safe or repair mode. |
@@ -80,17 +79,6 @@ The WorkbookSettings type exposes the following members:
 | [compliance](/cells/python-net/aspose.cells/workbooksettings/compliance) | Specifies the OOXML version for the output document. The default value is Ecma376_2006. |
 | [quote_prefix_to_style](/cells/python-net/aspose.cells/workbooksettings/quote_prefix_to_style) | Indicates whether setting [`Style.quote_prefix`](/cells/python-net/aspose.cells/style#quote_prefix) property when entering the string value(which starts  with single quote mark ) to the cell |
 | [formula_settings](/cells/python-net/aspose.cells/workbooksettings/formula_settings) | Gets the settings for formula-related features. |
-| [precision_as_displayed](/cells/python-net/aspose.cells/workbooksettings/precision_as_displayed) | True if calculations in this workbook will be done using only the precision of the numbers as they're displayed |
-| [re_calculate_on_open](/cells/python-net/aspose.cells/workbooksettings/re_calculate_on_open) | Indicates whether re-calculate all formulas on opening file. |
-| [create_calc_chain](/cells/python-net/aspose.cells/workbooksettings/create_calc_chain) | Whether creates calculated formulas chain. Default is false. |
-| [force_full_calculate](/cells/python-net/aspose.cells/workbooksettings/force_full_calculate) | Fully calculates every time when a calculation is triggered. |
-| [iteration](/cells/python-net/aspose.cells/workbooksettings/iteration) | Indicates whether enable iterative calculation to resolve circular references. |
-| [max_iteration](/cells/python-net/aspose.cells/workbooksettings/max_iteration) | Returns or sets the maximum number of iterations to resolve a circular reference. |
-| [max_change](/cells/python-net/aspose.cells/workbooksettings/max_change) | Returns or sets the maximum number of change to resolve a circular reference. |
-| [calc_mode](/cells/python-net/aspose.cells/workbooksettings/calc_mode) | It specifies whether to calculate formulas manually,<br/>automatically or automatically except for multiple table operations. |
-| [calculation_id](/cells/python-net/aspose.cells/workbooksettings/calculation_id) | Specifies the version of the calculation engine used to calculate values in the workbook. |
-| [calc_stack_size](/cells/python-net/aspose.cells/workbooksettings/calc_stack_size) | Specifies the stack size for calculating cells recursively.<br/>The large value for this size will give better performance when there are lots of cells need to be calculated recursively.<br/>On the other hand, larger value will raise the risk of StackOverflowException.<br/>If user gets StackOverflowException when calculating formulas, this value should be decreased. |
-| [recalculate_before_save](/cells/python-net/aspose.cells/workbooksettings/recalculate_before_save) | Indicates whether to recalculate before saving the document. |
 
 
 ### Methods

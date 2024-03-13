@@ -69,7 +69,6 @@ The DataLabels type exposes the following members:
 | [number_format](/cells/python-net/aspose.cells.charts/datalabels/number_format) | Represents the format string for the DataLabels object. |
 | [number](/cells/python-net/aspose.cells.charts/datalabels/number) | Gets and sets the built-in number format. |
 | [number_format_linked](/cells/python-net/aspose.cells.charts/datalabels/number_format_linked) | True if the number format is linked to the cells <br/>(so that the number format changes in the labels when it changes in the cells). |
-| [separator](/cells/python-net/aspose.cells.charts/datalabels/separator) | Gets or sets the separator type used for the data labels on a chart. |
 | [separator_type](/cells/python-net/aspose.cells.charts/datalabels/separator_type) | Gets or sets the separator type used for the data labels on a chart. |
 | [separator_value](/cells/python-net/aspose.cells.charts/datalabels/separator_value) | Gets or sets the separator value used for the data labels on a chart. |
 | [position](/cells/python-net/aspose.cells.charts/datalabels/position) | Represents the position of the data label. |

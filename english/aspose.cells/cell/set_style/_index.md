@@ -29,7 +29,7 @@ If the border settings are changed, the border of adjust cells will be updated t
 
 ## set_style {#aspose.cells.Style-bool}
 
-Apply the cell style.
+Apply the changed property of style to the cell.
 
 
 
@@ -47,7 +47,7 @@ def set_style(self, style, explicit_flag):
 
 ## set_style {#aspose.cells.Style-aspose.cells.StyleFlag}
 
-Apply the cell style.
+Apply the cell style based on flags.
 
 
 
