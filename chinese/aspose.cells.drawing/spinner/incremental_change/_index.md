@@ -1,15 +1,15 @@
 ---
-title: incremental_change 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: incremental_change属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 520
+weight: 530
 url: /zh/aspose.cells.drawing/spinner/incremental_change/
 is_root: false
 ---
-## incremental_change 属性
+## incremental_change属性
 
-获取或设置滚动条或微调器增加一行滚动的量。
+获取或设置滚动条或微调器每行滚动增量的量。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def incremental_change(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Spinner](/cells/python-net/zh/aspose.cells.drawing/spinner)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Spinner`](/cells/python-net/zh/aspose.cells.drawing/spinner)

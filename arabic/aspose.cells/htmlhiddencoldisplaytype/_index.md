@@ -1,26 +1,26 @@
 ---
-title: العد HtmlHiddenColDisplayType
+title: HtmlHiddenColDisplayType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2160
+weight: 2230
 url: /ar/aspose.cells/htmlhiddencoldisplaytype/
 is_root: false
 ---
-##  العد HtmlHiddenColDisplayType
-يمثل نوعين من إظهار الأعمدة المخفية بصيغة html.
+##  HtmlHiddenColDisplayType التعداد
+يمثل نوعين من إظهار الأعمدة المخفية في لغة HTML.
 
 
 
-يكشف نوع HtmlHiddenColDisplayType الأعضاء التالية:
+يكشف النوع HtmlHiddenColDisplayType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | HIDDEN | إخفاء الأعمدة المخفية في صفحة html.|
-| REMOVE | قم بإزالة الأعمدة المخفية في صفحة html.|
+| REMOVE | إزالة الأعمدة المخفية في صفحة html.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

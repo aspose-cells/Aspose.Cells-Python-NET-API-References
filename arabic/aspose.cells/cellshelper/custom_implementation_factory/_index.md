@@ -1,13 +1,13 @@
 ---
-title: custom_implementation_factory الملكية
+title: custom_implementation_factory عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells/cellshelper/custom_implementation_factory/
 is_root: false
 ---
-##  custom_implementation_factory الملكية
+##  custom_implementation_factory عقار
 
 الحصول على المصنع أو تعيينه لإنشاء مثيلات ذات تنفيذ خاص.
 ###  تعريف:
@@ -21,6 +21,6 @@ def custom_implementation_factory(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellsHelper](/cells/python-net/ar/aspose.cells/cellshelper)
-* فئة [CustomImplementationFactory](/cells/python-net/ar/aspose.cells/customimplementationfactory)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellsHelper`](/cells/python-net/ar/aspose.cells/cellshelper)
+* فئة [`CustomImplementationFactory`](/cells/python-net/ar/aspose.cells/customimplementationfactory)

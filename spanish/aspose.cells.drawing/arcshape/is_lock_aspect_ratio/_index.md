@@ -3,7 +3,7 @@ title: is_lock_aspect_ratio propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 650
+weight: 660
 url: /es/aspose.cells.drawing/arcshape/is_lock_aspect_ratio/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def is_lock_aspect_ratio(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ArcShape](/cells/python-net/es/aspose.cells.drawing/arcshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ArcShape`](/cells/python-net/es/aspose.cells.drawing/arcshape)

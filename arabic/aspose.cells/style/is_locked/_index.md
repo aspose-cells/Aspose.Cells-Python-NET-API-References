@@ -1,19 +1,19 @@
 ---
-title: is_locked الملكية
+title: is_locked عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 350
 url: /ar/aspose.cells/style/is_locked/
 is_root: false
 ---
-##  is_locked الملكية
+##  is_locked عقار
 
-الحصول على أو تعيين قيمة تشير إلى إمكانية تعديل الخلية أم لا.
+الحصول على قيمة أو تعيينها تشير إلى إمكانية تعديل الخلية أم لا.
 
 ###  ملاحظات
 
-لا يكون لتأمين الخلايا أي تأثير إلا إذا كانت ورقة العمل محمية.
+ليس لتأمين الخلايا أي تأثير ما لم تكن ورقة العمل محمية.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def is_locked(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

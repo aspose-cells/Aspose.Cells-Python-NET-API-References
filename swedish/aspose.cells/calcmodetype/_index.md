@@ -3,7 +3,7 @@ title: CalcModeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1810
+weight: 1880
 url: /sv/aspose.cells/calcmodetype/
 is_root: false
 ---
@@ -28,4 +28,4 @@ Typen CalcModeType avslöjar följande medlemmar:
 Endast uppsättningar för MS Excel.
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

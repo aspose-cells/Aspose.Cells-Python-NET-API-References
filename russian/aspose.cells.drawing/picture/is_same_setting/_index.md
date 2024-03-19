@@ -1,17 +1,17 @@
 ---
 title: is_same_setting метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 140
+weight: 160
 url: /ru/aspose.cells.drawing/picture/is_same_setting/
 is_root: false
 ---
-##  is_same_setting(obj) {#any}
-Возвращает, совпадает ли форма.
+##  is_same_setting {#any}
+Возвращает, одинакова ли форма.
 
 
-###  Возвращает
+###  Возврат
 
 
 
@@ -44,7 +44,7 @@ imgIndex2 = worksheet.pictures.add(1, 9, "2.jpeg")
 pic2 = worksheet.pictures[imgIndex2]
 if pic1.is_same_setting(pic1):
     pass
-if !pic1.is_same_setting(pic2):
+if notpic1.is_same_setting(pic2):
     pass
 
 ```
@@ -52,5 +52,5 @@ if !pic1.is_same_setting(pic2):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Picture](/cells/python-net/ru/aspose.cells.drawing/picture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture)

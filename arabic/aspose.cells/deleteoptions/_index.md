@@ -1,31 +1,31 @@
 ---
-title: DeleteOptions الدرجة
+title: DeleteOptions صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 470
+weight: 490
 url: /ar/aspose.cells/deleteoptions/
 is_root: false
 ---
-##  DeleteOptions الدرجة
-يمثل إعداد حذف الصفوف / الأعمدة.
+##  DeleteOptions صف
+يمثل إعداد حذف الصفوف/الأعمدة.
 
 
 
-يكشف نوع DeleteOptions الأعضاء التالية:
+يكشف النوع DeleteOptions عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [DeleteOptions()](/cells/python-net/ar/aspose.cells/deleteoptions/__init__/#) | إنشاء مثيل جديد من DeleteOptions|
+| [__init__](/cells/python-net/ar/aspose.cells/deleteoptions/__init__/#) | إنشاء مثيل جديد لـDeleteOptions|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [update_reference](/cells/python-net/ar/aspose.cells/deleteoptions/update_reference) | يشير إلى ما إذا كان يتم تحديث المراجع في أوراق العمل الأخرى.|
+| [update_reference](/cells/python-net/ar/aspose.cells/deleteoptions/update_reference) |يشير إلى ما إذا كانت مراجع التحديث موجودة في أوراق العمل الأخرى.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

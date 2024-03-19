@@ -3,7 +3,7 @@ title: pattern proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 370
+weight: 430
 url: /it/aspose.cells/style/pattern/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [BackgroundType](/cells/python-net/it/aspose.cells/backgroundtype)
-* classe [Style](/cells/python-net/it/aspose.cells/style)
+* modulo [`aspose.cells`](../../)
+* classe [`BackgroundType`](/cells/python-net/it/aspose.cells/backgroundtype)
+* classe [`Style`](/cells/python-net/it/aspose.cells/style)

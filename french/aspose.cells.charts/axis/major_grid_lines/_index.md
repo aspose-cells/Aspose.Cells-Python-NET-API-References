@@ -3,13 +3,13 @@ title: major_grid_lines propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 280
 url: /fr/aspose.cells.charts/axis/major_grid_lines/
 is_root: false
 ---
 ##  major_grid_lines propriété
 
-Représente le quadrillage principal sur un axe de graphique.
+Représente le quadrillage principal sur un axe du graphique.
 
 ###  Exemple
 
@@ -27,6 +27,6 @@ def major_grid_lines(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/fr/aspose.cells.charts/axis)
-* classe [Line](/cells/python-net/fr/aspose.cells.drawing/line)
+* module [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/fr/aspose.cells.charts/axis)
+* classe [`Line`](/cells/python-net/fr/aspose.cells.drawing/line)

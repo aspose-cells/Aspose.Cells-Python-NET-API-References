@@ -10,7 +10,7 @@ is_root: false
 ##  comment propiedad
 
 Obtiene y establece el comment del nombre.
-Solo aplica para Excel 2007.
+Sólo aplica para Excel 2007 o versiones superiores.
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def comment(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Name](/cells/python-net/es/aspose.cells/name)
+* módulo [`aspose.cells`](../../)
+* clase [`Name`](/cells/python-net/es/aspose.cells/name)

@@ -1,15 +1,15 @@
 ---
-title: text الملكية
+title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 350
 url: /ar/aspose.cells.charts/legend/text/
 is_root: false
 ---
-##  text الملكية
+##  text عقار
 
-الحصول على او تحديد text لعنوان الاطار.
+الحصول على أو تعيين text لعنوان الإطار.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)

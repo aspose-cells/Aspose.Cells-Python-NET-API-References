@@ -1,19 +1,19 @@
 ---
-title: metodo intersect
+title: Metodo intersect
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 110
+weight: 120
 url: /it/aspose.cells/range/intersect/
 is_root: false
 ---
-##  intersect(range) {#Range}
-Restituisce un oggetto [Range](/cells/python-net/it/aspose.cells/range) che rappresenta l'intersezione rettangolare di due intervalli.
+##  intersect {#aspose.cells.Range}
+Restituisce un oggetto [`Range`](/cells/python-net/it/aspose.cells/range) che rappresenta l'intersezione rettangolare di due intervalli.
 
 
 ###  ritorna
 
-Restituisce un oggetto [Range](/cells/python-net/it/aspose.cells/range)
+Restituisce un oggetto [`Range`](/cells/python-net/it/aspose.cells/range)
 
 
 ```python
@@ -24,7 +24,7 @@ def intersect(self, range):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/it/aspose.cells/range) | La gamma intersecante.|
+| range | [`Range`](/cells/python-net/it/aspose.cells/range) | L'intervallo che si interseca.|
 ###  Osservazioni
 
 Se i due intervalli non sono intersecati, restituisce null.
@@ -50,5 +50,5 @@ workbook.save("book1.xlsm")
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Range](/cells/python-net/it/aspose.cells/range)
+* modulo [`aspose.cells`](../../)
+* classe [`Range`](/cells/python-net/it/aspose.cells/range)

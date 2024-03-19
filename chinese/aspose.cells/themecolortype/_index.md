@@ -1,9 +1,9 @@
 ---
 title: ThemeColorType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2580
+weight: 2670
 url: /zh/aspose.cells/themecolortype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-ThemeColorType 类型公开了以下成员：
+ThemeColorType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -34,4 +34,4 @@ ThemeColorType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

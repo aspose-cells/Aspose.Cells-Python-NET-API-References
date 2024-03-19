@@ -3,7 +3,7 @@ title: active_sheet_index fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 230
+weight: 240
 url: /sv/aspose.cells/worksheetcollection/active_sheet_index/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def active_sheet_index(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorksheetCollection](/cells/python-net/sv/aspose.cells/worksheetcollection)
+* modul [`aspose.cells`](../../)
+* klass [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection)

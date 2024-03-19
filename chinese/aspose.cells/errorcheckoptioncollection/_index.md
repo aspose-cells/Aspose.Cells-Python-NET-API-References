@@ -1,18 +1,18 @@
 ---
 title: ErrorCheckOptionCollection类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 530
+weight: 560
 url: /zh/aspose.cells/errorcheckoptioncollection/
 is_root: false
 ---
 ## ErrorCheckOptionCollection类
-表示所有错误检查选项。
+代表所有错误检查选项。
 
 
 
-ErrorCheckOptionCollection 类型公开了以下成员：
+ErrorCheckOptionCollection 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -23,17 +23,17 @@ ErrorCheckOptionCollection 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/copy_to/#list) |将整个数组列表复制到兼容的一维数组列表，从目标数组列表的开头开始。|
-| [copy_to(index, array, array_index, count)](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/copy_to/#int-list-int-int) |将数组列表中的一系列元素复制到兼容的一维数组列表，从目标数组列表的指定索引开始。|
-| [index_of(item, index)](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/index_of/#ErrorCheckOption-int) |搜索指定的对象并返回数组列表中从指定索引延伸到最后一个元素的元素范围内第一次出现的从零开始的索引。|
-| [index_of(item, index, count)](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/index_of/#ErrorCheckOption-int-int) |搜索指定的对象并返回数组列表中从指定索引开始并包含指定数量的元素的元素范围内第一次出现的从零开始的索引。|
-| [last_index_of(item)](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/last_index_of/#ErrorCheckOption) |搜索指定的对象并返回整个数组列表中最后一次出现的从零开始的索引。|
-| [last_index_of(item, index)](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/last_index_of/#ErrorCheckOption-int) |搜索指定的对象并返回数组列表中从第一个元素到指定索引的元素范围内最后一次出现的从零开始的索引。|
-| [last_index_of(item, index, count)](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/last_index_of/#ErrorCheckOption-int-int) |搜索指定的对象并返回数组列表中包含指定数量的元素并以指定索引结束的元素范围内最后一次出现的从零开始的索引。|
-| [add()](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/add/#) |添加错误检查选项。|
-| [binary_search(item)](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/binary_search/#ErrorCheckOption) |使用默认比较器在整个排序数组列表中搜索元素，并返回元素的从零开始的索引。|
+| [copy_to](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/copy_to/#list) |从目标数组列表的开头开始，将整个数组列表复制到兼容的一维数组列表。|
+| [copy_to](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/copy_to/#int-list-int-int) |从目标数组列表的指定索引开始，将数组列表中的一系列元素复制到兼容的一维数组列表。|
+| [index_of](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/index_of/#aspose.cells.ErrorCheckOption-int) |搜索指定对象并返回数组列表中从指定索引延伸到最后一个元素的元素范围内第一个匹配项的从零开始的索引。|
+| [index_of](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/index_of/#aspose.cells.ErrorCheckOption-int-int) |搜索指定对象并返回数组列表中从指定索引开始并包含指定数量元素的元素范围内第一个匹配项的从零开始的索引。|
+| [last_index_of](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/last_index_of/#aspose.cells.ErrorCheckOption) |搜索指定对象并返回整个数组列表中最后一次出现的从零开始的索引。|
+| [last_index_of](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/last_index_of/#aspose.cells.ErrorCheckOption-int) |搜索指定对象并返回数组列表中从第一个元素延伸到指定索引的元素范围内最后一次出现的从零开始的索引。|
+| [last_index_of](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/last_index_of/#aspose.cells.ErrorCheckOption-int-int) |搜索指定的对象，并返回数组列表中包含指定数量的元素并以指定索引结束的元素范围内最后一个匹配项的从零开始的索引。|
+| [add](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/add/#) |添加错误检查选项。|
+| [binary_search](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection/binary_search/#aspose.cells.ErrorCheckOption) |使用默认比较器在整个排序数组列表中搜索元素，并返回该元素从零开始的索引。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

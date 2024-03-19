@@ -1,13 +1,13 @@
 ---
-title: major_unit الملكية
+title: major_unit عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ar/aspose.cells.charts/axis/major_unit/
 is_root: false
 ---
-##  major_unit الملكية
+##  major_unit عقار
 
 يمثل الوحدات الرئيسية للمحور.
 
@@ -25,5 +25,5 @@ def major_unit(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)

@@ -1,21 +1,21 @@
 ---
 title: text_font недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 360
+weight: 370
 url: /ru/aspose.cells.charts/legend/text_font/
 is_root: false
 ---
 ##  text_font недвижимость
 
-Получает объект [ChartFrame.font](/cells/python-net/ru/aspose.cells.charts/chartframe#font) указанного объекта ChartFrame.
+Получает объект [`ChartFrame.font`](/cells/python-net/ru/aspose.cells.charts/chartframe#font) указанного объекта ChartFrame.
 
 ###  Примечания
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
- используйте свойство ChartFrame.Font.
- Это свойство будет удалено через 12 месяцев, начиная с ЯНВАРЯ 2012 Г.
+используйте свойство ChartFrame.Font.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с ЯНВАРЯ 2012 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -25,6 +25,6 @@ def text_font(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Font](/cells/python-net/ru/aspose.cells/font)
-* класс [Legend](/cells/python-net/ru/aspose.cells.charts/legend)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Font`](/cells/python-net/ru/aspose.cells/font)
+* класс [`Legend`](/cells/python-net/ru/aspose.cells.charts/legend)

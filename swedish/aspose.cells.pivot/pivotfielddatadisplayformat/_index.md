@@ -3,7 +3,7 @@ title: PivotFieldDataDisplayFormat uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 260
 url: /sv/aspose.cells.pivot/pivotfielddatadisplayformat/
 is_root: false
 ---
@@ -21,10 +21,10 @@ Typen PivotFieldDataDisplayFormat avslöjar följande medlemmar:
 | DIFFERENCE_FROM | Representerar skillnad från visningsformat.|
 | PERCENTAGE_OF | Representerar procentandelen av visningsformatet.|
 | PERCENTAGE_DIFFERENCE_FROM | Representerar procentuell skillnad från visningsformat.|
-| RUNNING_TOTAL_IN |Representerar löpande total i visningsformat.|
-| PERCENTAGE_OF_ROW | Representerar procentandelen av radvisningsformat.|
+| RUNNING_TOTAL_IN | Representerar löpande total i visningsformat.|
+| PERCENTAGE_OF_ROW |Representerar procentandelen av radvisningsformat.|
 | PERCENTAGE_OF_COLUMN | Representerar procentandelen av kolumnvisningsformatet.|
-| PERCENTAGE_OF_TOTAL | Representerar procentandelen av det totala visningsformatet.|
+| PERCENTAGE_OF_TOTAL | Representerar procent av det totala visningsformatet.|
 | INDEX | Representerar indexvisningsformat.|
 | PERCENTAGE_OF_PARENT_ROW_TOTAL | Representerar procentandelen av det totala visningsformatet för överordnad rad.|
 | PERCENTAGE_OF_PARENT_COLUMN_TOTAL | Representerar procentandelen av det totala visningsformatet för överordnad kolumn.|
@@ -36,4 +36,4 @@ Typen PivotFieldDataDisplayFormat avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.pivot](..)
+* modul [`aspose.cells.pivot`](..)

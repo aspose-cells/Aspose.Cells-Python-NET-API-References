@@ -1,15 +1,15 @@
 ---
-title: first_visible_row الملكية
+title: first_visible_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 490
+weight: 510
 url: /ar/aspose.cells/worksheet/first_visible_row/
 is_root: false
 ---
-##  first_visible_row الملكية
+##  first_visible_row عقار
 
-يمثل أول فهرس للصف المرئي.
+يمثل فهرس الصف المرئي الأول.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def first_visible_row(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

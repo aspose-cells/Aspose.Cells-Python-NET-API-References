@@ -3,7 +3,7 @@ title: file_format propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 550
+weight: 560
 url: /es/aspose.cells/workbook/file_format/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def file_format(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FileFormatType](/cells/python-net/es/aspose.cells/fileformattype)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
+* módulo [`aspose.cells`](../../)
+* clase [`FileFormatType`](/cells/python-net/es/aspose.cells/fileformattype)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)

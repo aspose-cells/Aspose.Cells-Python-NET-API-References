@@ -1,9 +1,9 @@
 ---
 title: is_display_unit_label_shown недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ru/aspose.cells.charts/axis/is_display_unit_label_shown/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def is_display_unit_label_shown(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)

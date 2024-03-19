@@ -3,7 +3,7 @@ title: CellBorderType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1830
+weight: 1900
 url: /sv/aspose.cells/cellbordertype/
 is_root: false
 ---
@@ -35,4 +35,4 @@ Typen CellBorderType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

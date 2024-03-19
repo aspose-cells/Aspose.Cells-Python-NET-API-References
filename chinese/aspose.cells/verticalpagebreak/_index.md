@@ -1,9 +1,9 @@
 ---
 title: VerticalPageBreak类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1560
+weight: 1630
 url: /zh/aspose.cells/verticalpagebreak/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-VerticalPageBreak 类型公开了以下成员：
+VerticalPageBreak 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -36,4 +36,4 @@ excel.worksheets[0].vertical_page_breaks.add("G5")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

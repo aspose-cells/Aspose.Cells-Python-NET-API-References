@@ -1,15 +1,15 @@
 ---
 title: is_workbook_protected_with_password недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 620
+weight: 630
 url: /ru/aspose.cells/workbook/is_workbook_protected_with_password/
 is_root: false
 ---
 ##  is_workbook_protected_with_password недвижимость
 
-Указывает, защищены ли структура или окно паролем.
+Указывает, защищена ли структура или окно паролем.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_workbook_protected_with_password(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

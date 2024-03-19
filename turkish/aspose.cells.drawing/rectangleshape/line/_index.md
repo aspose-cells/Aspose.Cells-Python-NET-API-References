@@ -3,7 +3,7 @@ title: line mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 710
+weight: 720
 url: /tr/aspose.cells.drawing/rectangleshape/line/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def line(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
-* sınıf [RectangleShape](/cells/python-net/tr/aspose.cells.drawing/rectangleshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* sınıf [`RectangleShape`](/cells/python-net/tr/aspose.cells.drawing/rectangleshape)

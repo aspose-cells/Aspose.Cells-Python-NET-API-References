@@ -1,13 +1,13 @@
 ---
-title: quote_prefix الملكية
+title: quote_prefix عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 440
 url: /ar/aspose.cells/style/quote_prefix/
 is_root: false
 ---
-##  quote_prefix الملكية
+##  quote_prefix عقار
 
 يشير إلى ما إذا كانت قيمة الخلية تبدأ بعلامة اقتباس مفردة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def quote_prefix(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

@@ -3,13 +3,13 @@ title: is_h_scroll_bar_visible mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 290
+weight: 240
 url: /tr/aspose.cells/workbooksettings/is_h_scroll_bar_visible/
 is_root: false
 ---
 ##  is_h_scroll_bar_visible mülk
 
-Oluşturulan elektronik tablonun yatay bir kaydırma çubuğu içerip içermeyeceğini gösteren bir değer alır veya ayarlar.
+Oluşturulan elektronik tablonun yatay kaydırma çubuğu içerip içermeyeceğini belirten bir değer alır veya ayarlar.
 
 ###  Notlar
 
@@ -17,7 +17,7 @@ Varsayılan değer doğrudur.
 
 ###  Örnek
 
-Aşağıdaki kod, elektronik tablo için yatay kaydırma çubuğunu görünmez yapar.
+Aşağıdaki kod, yatay kaydırma çubuğunu e-tablo için görünmez hale getirir.
 
 ```python
 
@@ -36,5 +36,5 @@ def is_h_scroll_bar_visible(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

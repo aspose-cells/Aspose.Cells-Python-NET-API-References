@@ -3,7 +3,7 @@ title: text_body fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 940
+weight: 950
 url: /sv/aspose.cells.drawing/groupshape/text_body/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FontSettingCollection](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
-* klass [GroupShape](/cells/python-net/sv/aspose.cells.drawing/groupshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FontSettingCollection`](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
+* klass [`GroupShape`](/cells/python-net/sv/aspose.cells.drawing/groupshape)

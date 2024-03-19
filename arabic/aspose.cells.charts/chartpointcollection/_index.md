@@ -1,27 +1,27 @@
 ---
-title: ChartPointCollection الدرجة
+title: ChartPointCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.charts/chartpointcollection/
 is_root: false
 ---
-##  ChartPointCollection الدرجة
+##  ChartPointCollection صف
 يمثل مجموعة تحتوي على جميع النقاط في سلسلة واحدة.
 
 
 
-يكشف نوع ChartPointCollection الأعضاء التالية:
+يكشف النوع ChartPointCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [count](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/count) | يحصل على عدد نقاط الرسم البياني.|
+| [count](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/count) | الحصول على عدد نقاط الرسم البياني.|
 
 
 
-الحصول على عنصر [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint) بالفهرس المحدد في السلسلة.
+يحصل على العنصر [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint) في الفهرس المحدد في السلسلة.
 ###  مفهرس
 | اسم| وصف|
 | :- | :- |
@@ -31,9 +31,9 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_enumerator()](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/get_enumerator/#) | إرجاع عداد لكامل [ChartPointCollection](/cells/python-net/ar/aspose.cells.charts/chartpointcollection).|
-| [clear()](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/clear/#) | قم بإزالة كل إعدادات نقاط الرسم البياني.|
-| [remove_at(index)](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/remove_at/#int) | يزيل النقطة في فهرس السلسلة ..|
+| [get_enumerator](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/get_enumerator/#) | إرجاع عداد لكامل [`ChartPointCollection`](/cells/python-net/ar/aspose.cells.charts/chartpointcollection).|
+| [clear](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/clear/#) | قم بإزالة كافة إعدادات نقاط الرسم البياني.|
+| [remove_at](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/remove_at/#int) | يزيل النقطة الموجودة في فهرس السلسلة.|
 
 
 
@@ -82,6 +82,6 @@ workbook.save("book1.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
-* فئة [ChartPointCollection](/cells/python-net/ar/aspose.cells.charts/chartpointcollection)
+* الوحدة [`aspose.cells.charts`](..)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* فئة [`ChartPointCollection`](/cells/python-net/ar/aspose.cells.charts/chartpointcollection)

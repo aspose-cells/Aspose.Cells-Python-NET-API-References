@@ -3,13 +3,13 @@ title: worksheet propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /es/aspose.cells.drawing/groupshape/worksheet/
 is_root: false
 ---
 ##  worksheet propiedad
 
-Obtiene el objeto [Shape.worksheet](/cells/python-net/es/aspose.cells.drawing/shape#worksheet) que contiene esta forma.
+Obtiene el objeto [`Shape.worksheet`](/cells/python-net/es/aspose.cells.drawing/shape#worksheet) que contiene esta forma.
 
 ###  Ejemplo
 
@@ -26,6 +26,6 @@ def worksheet(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

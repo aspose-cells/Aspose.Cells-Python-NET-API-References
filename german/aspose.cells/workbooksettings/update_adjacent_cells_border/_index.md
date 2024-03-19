@@ -3,7 +3,7 @@ title: update_adjacent_cells_border Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 610
+weight: 490
 url: /de/aspose.cells/workbooksettings/update_adjacent_cells_border/
 is_root: false
 ---
@@ -13,9 +13,9 @@ Gibt an, ob der Rand benachbarter Zellen aktualisiert wird.
 
 ###  Bemerkungen
 
-Der Standardwert ist falsch.
- Zum Beispiel: Der untere Rand der Zelle A1 ist Update,
-der obere Rand der Zelle A2 sollte ebenfalls geändert werden.
+Der Standardwert ist false.
+ Beispiel: Der untere Rand der Zelle A1 wird aktualisiert.
+Der obere Rand der Zelle A2 sollte ebenfalls geändert werden.
 ###  Definition:
 ```python
 @property
@@ -27,5 +27,5 @@ def update_adjacent_cells_border(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorkbookSettings](/cells/python-net/de/aspose.cells/workbooksettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookSettings`](/cells/python-net/de/aspose.cells/workbooksettings)

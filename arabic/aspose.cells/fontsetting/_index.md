@@ -1,39 +1,39 @@
 ---
-title: FontSetting الدرجة
+title: FontSetting صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 670
+weight: 700
 url: /ar/aspose.cells/fontsetting/
 is_root: false
 ---
-##  FontSetting الدرجة
-يمثل مجموعة من الأحرف داخل نص الخلية.
+##  FontSetting صف
+يمثل نطاقًا من الأحرف داخل نص الخلية.
 
 
 
-يكشف نوع FontSetting الأعضاء التالية:
+يكشف النوع FontSetting عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [FontSetting(start_index, length, sheets)](/cells/python-net/ar/aspose.cells/fontsetting/__init__/#int-int-WorksheetCollection) |  |
+| [__init__](/cells/python-net/ar/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells/fontsetting/type) | يحصل على نوع العقدة النصية.|
-| [start_index](/cells/python-net/ar/aspose.cells/fontsetting/start_index) | يحصل على فهرس البداية للأحرف.|
-| [length](/cells/python-net/ar/aspose.cells/fontsetting/length) |يحصل على طول الأحرف.|
-| [font](/cells/python-net/ar/aspose.cells/fontsetting/font) | إرجاع خط هذا الكائن.|
+| [type](/cells/python-net/ar/aspose.cells/fontsetting/type) | يحصل على نوع عقدة النص.|
+| [start_index](/cells/python-net/ar/aspose.cells/fontsetting/start_index) |يحصل على فهرس البداية للأحرف.|
+| [length](/cells/python-net/ar/aspose.cells/fontsetting/length) | يحصل على طول الأحرف.|
+| [font](/cells/python-net/ar/aspose.cells/fontsetting/font) | إرجاع الخط لهذا الكائن.|
 | [text_options](/cells/python-net/ar/aspose.cells/fontsetting/text_options) | إرجاع خيارات النص.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [set_word_art_style(style)](/cells/python-net/ar/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | يعيّن نمط WordArt المعين مسبقًا.|
+| [set_word_art_style](/cells/python-net/ar/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | يضبط نمط WordArt المعين مسبقًا.|
 
 
 
@@ -65,4 +65,4 @@ workbook.save("book1.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

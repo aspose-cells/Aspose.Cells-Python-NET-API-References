@@ -1,13 +1,13 @@
 ---
-title: file_path_provider الملكية
+title: file_path_provider عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 400
 url: /ar/aspose.cells/htmlsaveoptions/file_path_provider/
 is_root: false
 ---
-##  file_path_provider الملكية
+##  file_path_provider عقار
 
 الحصول على IFilePathProvider أو تعيينه لتصدير ورقة العمل إلى html بشكل منفصل.
 ###  تعريف:
@@ -21,6 +21,6 @@ def file_path_provider(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
-* فئة [IFilePathProvider](/cells/python-net/ar/aspose.cells/ifilepathprovider)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* فئة [`IFilePathProvider`](/cells/python-net/ar/aspose.cells/ifilepathprovider)

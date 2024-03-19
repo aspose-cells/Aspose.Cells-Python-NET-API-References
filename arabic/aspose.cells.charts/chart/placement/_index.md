@@ -1,15 +1,15 @@
 ---
-title: placement الملكية
+title: placement عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 440
 url: /ar/aspose.cells.charts/chart/placement/
 is_root: false
 ---
-##  placement الملكية
+##  placement عقار
 
-يمثل طريقة إرفاق المخطط بالخلايا الموجودة أسفله.
+يمثل طريقة ربط المخطط بالخلايا الموجودة أسفله.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def placement(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
-* فئة [PlacementType](/cells/python-net/ar/aspose.cells.drawing/placementtype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)
+* فئة [`PlacementType`](/cells/python-net/ar/aspose.cells.drawing/placementtype)

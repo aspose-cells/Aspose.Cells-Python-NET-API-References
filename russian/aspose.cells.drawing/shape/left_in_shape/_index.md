@@ -1,27 +1,27 @@
 ---
 title: left_in_shape недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 680
+weight: 690
 url: /ru/aspose.cells.drawing/shape/left_in_shape/
 is_root: false
 ---
 ##  left_in_shape недвижимость
 
- Представляет горизонтальное смещение фигуры от левой границы родительской фигуры,
-в единицах 1/4000 ширины родительской формы.
+ Представляет горизонтальное смещение фигуры от левой границы родительской фигуры.
+в единице 1/4000 ширины родительской фигуры.
 
 ###  Примечания
 
-Применяется только тогда, когда эта фигура находится в группе или на диаграмме.
+Применяется только тогда, когда эта фигура находится в группе или диаграмме.
 
 ###  Пример
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.left_in_shape == 2000:
+    shape.left_in_shape = 4000
 
 ```
 ###  Определение:
@@ -35,5 +35,5 @@ def left_in_shape(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Shape](/cells/python-net/ru/aspose.cells.drawing/shape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Shape`](/cells/python-net/ru/aspose.cells.drawing/shape)

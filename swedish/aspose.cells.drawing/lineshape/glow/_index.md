@@ -3,13 +3,13 @@ title: glow fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 460
 url: /sv/aspose.cells.drawing/lineshape/glow/
 is_root: false
 ---
 ##  glow fastighet
 
-Representerar ett [GlowEffect](/cells/python-net/sv/aspose.cells.drawing/gloweffect)-objekt som anger glow-effekt för diagramelementet eller formen.
+Representerar ett [`GlowEffect`](/cells/python-net/sv/aspose.cells.drawing/gloweffect)-objekt som anger glow-effekt för diagramelementet eller formen.
 
 ###  Exempel
 
@@ -26,6 +26,6 @@ def glow(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GlowEffect](/cells/python-net/sv/aspose.cells.drawing/gloweffect)
-* klass [LineShape](/cells/python-net/sv/aspose.cells.drawing/lineshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GlowEffect`](/cells/python-net/sv/aspose.cells.drawing/gloweffect)
+* klass [`LineShape`](/cells/python-net/sv/aspose.cells.drawing/lineshape)

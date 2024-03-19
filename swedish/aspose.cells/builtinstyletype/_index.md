@@ -3,7 +3,7 @@ title: BuiltinStyleType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1800
+weight: 1870
 url: /sv/aspose.cells/builtinstyletype/
 is_root: false
 ---
@@ -72,4 +72,4 @@ Typen BuiltinStyleType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

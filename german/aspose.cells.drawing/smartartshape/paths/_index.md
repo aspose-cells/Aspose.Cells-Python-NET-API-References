@@ -3,13 +3,13 @@ title: paths Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 810
+weight: 820
 url: /de/aspose.cells.drawing/smartartshape/paths/
 is_root: false
 ---
 ##  paths Eigentum
 
-Ruft paths einer benutzerdefinierten geometrischen Form ab.
+Ruft die paths einer benutzerdefinierten geometrischen Form ab.
 
 ###  Beispiel
 
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapePathCollection](/cells/python-net/de/aspose.cells.drawing/shapepathcollection)
-* Klasse [SmartArtShape](/cells/python-net/de/aspose.cells.drawing/smartartshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapePathCollection`](/cells/python-net/de/aspose.cells.drawing/shapepathcollection)
+* Klasse [`SmartArtShape`](/cells/python-net/de/aspose.cells.drawing/smartartshape)

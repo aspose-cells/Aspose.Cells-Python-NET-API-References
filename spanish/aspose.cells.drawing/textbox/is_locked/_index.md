@@ -3,13 +3,13 @@ title: is_locked propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 600
+weight: 620
 url: /es/aspose.cells.drawing/textbox/is_locked/
 is_root: false
 ---
 ##  is_locked propiedad
 
-True si el objeto está bloqueado, False si el objeto se puede modificar cuando la hoja está protegida.
+Verdadero si el objeto está bloqueado, Falso si el objeto se puede modificar cuando la hoja está protegida.
 
 ###  Ejemplo
 
@@ -30,5 +30,5 @@ def is_locked(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [TextBox](/cells/python-net/es/aspose.cells.drawing/textbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`TextBox`](/cells/python-net/es/aspose.cells.drawing/textbox)

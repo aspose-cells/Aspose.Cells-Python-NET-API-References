@@ -3,7 +3,7 @@ title: Column sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 270
 url: /tr/aspose.cells/column/
 is_root: false
 ---
@@ -12,26 +12,26 @@ is_root: false
 
 
 
-Column türü aşağıdaki üyeleri gösterir:
+Column türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [index](/cells/python-net/tr/aspose.cells/column/index) | Bu sütunun indeksini alır.|
-| [width](/cells/python-net/tr/aspose.cells/column/width) | Karakter birimi cinsinden sütun genişliğini alır ve ayarlar.|
-| [group_level](/cells/python-net/tr/aspose.cells/column/group_level) |Sütunun grup düzeyini alır.|
-| [is_hidden](/cells/python-net/tr/aspose.cells/column/is_hidden) | Sütunun gizli olup olmadığını gösterir.|
-| [has_custom_style](/cells/python-net/tr/aspose.cells/column/has_custom_style) | Bu sütunun özel stil ayarları olup olmadığını gösterir (çalışma kitabından devralınan varsayılandan farklı).|
+| [width](/cells/python-net/tr/aspose.cells/column/width) | Sütun genişliğini karakter birimi cinsinden alır ve ayarlar.|
+| [group_level](/cells/python-net/tr/aspose.cells/column/group_level) | Sütunun grup düzeyini alır.|
+| [is_hidden](/cells/python-net/tr/aspose.cells/column/is_hidden) | Sütunun gizli olup olmadığını belirtir.|
+| [has_custom_style](/cells/python-net/tr/aspose.cells/column/has_custom_style) | Bu sütunun özel stil ayarlarına (çalışma kitabından devralınan varsayılan ayardan farklı) sahip olup olmadığını belirtir.|
 | [style](/cells/python-net/tr/aspose.cells/column/style) | Bu sütunun stilini alır.|
-| [is_collapsed](/cells/python-net/tr/aspose.cells/column/is_collapsed) | sütunun daraltılmış olup olmadığı|
+| [is_collapsed](/cells/python-net/tr/aspose.cells/column/is_collapsed) | sütunun daraltılıp daraltılmadığı|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [apply_style(style, flag)](/cells/python-net/tr/aspose.cells/column/apply_style/#Style-StyleFlag) | Tüm sütun için biçimleri uygular.|
-| [get_style()](/cells/python-net/tr/aspose.cells/column/get_style/#) | Bu sütunun stilini alır.|
-| [set_style(style)](/cells/python-net/tr/aspose.cells/column/set_style/#Style) | Bu sütunun stilini ayarlar.|
+| [apply_style](/cells/python-net/tr/aspose.cells/column/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) |Tüm sütun için formatları uygular.|
+| [get_style](/cells/python-net/tr/aspose.cells/column/get_style/#) | Bu sütunun stilini alır.|
+| [set_style](/cells/python-net/tr/aspose.cells/column/set_style/#aspose.cells.Style) | Bu sütunun stilini ayarlar.|
 
 
 
@@ -66,4 +66,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

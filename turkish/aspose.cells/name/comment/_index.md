@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  comment mülk
 
-Adın comment değerini alır ve ayarlar.
-Yalnızca Excel 2007 için geçerlidir.
+Adın comment'ini alır ve ayarlar.
+Yalnızca Excel 2007 veya üzeri sürümler için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def comment(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Name](/cells/python-net/tr/aspose.cells/name)
+* modül [`aspose.cells`](../../)
+* sınıf [`Name`](/cells/python-net/tr/aspose.cells/name)

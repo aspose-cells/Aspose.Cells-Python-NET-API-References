@@ -3,18 +3,18 @@ title: DisplayDrawingObjects numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1970
+weight: 2040
 url: /tr/aspose.cells/displaydrawingobjects/
 is_root: false
 ---
 ##  DisplayDrawingObjects numaralandırma
-Çalışma kitabında nesnelerin gösterilip gösterilmeyeceğini ve nasıl gösterileceğini temsil eder.
+Çalışma kitabındaki nesnelerin gösterilip gösterilmeyeceğini ve nasıl gösterileceğini temsil eder.
 
 
 
-DisplayDrawingObjects türü aşağıdaki üyeleri gösterir:
+DisplayDrawingObjects türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | DISPLAY_SHAPES | Tüm nesneleri göster|
@@ -24,4 +24,4 @@ DisplayDrawingObjects türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

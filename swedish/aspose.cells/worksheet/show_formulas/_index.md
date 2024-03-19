@@ -3,7 +3,7 @@ title: show_formulas fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 740
+weight: 760
 url: /sv/aspose.cells/worksheet/show_formulas/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_formulas(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

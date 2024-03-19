@@ -3,7 +3,7 @@ title: workbook fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 120
 url: /sv/aspose.cells/calculationdata/workbook/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def workbook(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CalculationData](/cells/python-net/sv/aspose.cells/calculationdata)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`CalculationData`](/cells/python-net/sv/aspose.cells/calculationdata)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

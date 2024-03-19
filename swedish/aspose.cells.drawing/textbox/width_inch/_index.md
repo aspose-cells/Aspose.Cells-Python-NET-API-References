@@ -3,7 +3,7 @@ title: width_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1180
+weight: 1200
 url: /sv/aspose.cells.drawing/textbox/width_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representerar formens bredd, i tumenhet.
 ```python
 
 if shape.width_inch == 3:
-    shape.width_inch = 1
+    shape.width_inch = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def width_inch(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextBox](/cells/python-net/sv/aspose.cells.drawing/textbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextBox`](/cells/python-net/sv/aspose.cells.drawing/textbox)

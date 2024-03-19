@@ -3,12 +3,12 @@ title: TickMarkType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 650
+weight: 660
 url: /es/aspose.cells.charts/tickmarktype/
 is_root: false
 ---
 ##  TickMarkType enumeración
-Representa el tipo de marca de graduación para el eje especificado.
+Representa el tipo de marca de verificación para el eje especificado.
 
 
 
@@ -19,10 +19,10 @@ El tipo TickMarkType expone los siguientes miembros:
 | :- | :- |
 | CROSS | El tipo de marca de verificación es Cruz.|
 | INSIDE | El tipo de marca de verificación es Interior.|
-| NONE |El tipo de marca de verificación es Ninguno.|
-| OUTSIDE | El tipo de marca de verificación es Exterior|
+| NONE | El tipo de marca de verificación es Ninguno.|
+| OUTSIDE | El tipo de marca de verificación es exterior|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

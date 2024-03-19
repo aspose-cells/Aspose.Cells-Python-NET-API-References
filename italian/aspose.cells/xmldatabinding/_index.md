@@ -1,25 +1,25 @@
 ---
-title: classe XmlDataBinding
+title: XmlDataBinding classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1680
+weight: 1750
 url: /it/aspose.cells/xmldatabinding/
 is_root: false
 ---
-##  classe XmlDataBinding
-Rappresenta le informazioni sull'associazione dati Xml.
+##  XmlDataBinding classe
+Rappresenta le informazioni di associazione dati Xml.
 
 
 
-Il tipo XmlDataBinding espone i membri seguenti:
+Il tipo XmlDataBinding espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [url](/cells/python-net/it/aspose.cells/xmldatabinding/url) | Ottiene l'URL di origine di questo data binding.|
+| [url](/cells/python-net/it/aspose.cells/xmldatabinding/url) | Ottiene l'URL di origine di questa associazione dati.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

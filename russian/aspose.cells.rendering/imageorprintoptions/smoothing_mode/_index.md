@@ -1,9 +1,9 @@
 ---
 title: smoothing_mode недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 300
+weight: 310
 url: /ru/aspose.cells.rendering/imageorprintoptions/smoothing_mode/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def smoothing_mode(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)

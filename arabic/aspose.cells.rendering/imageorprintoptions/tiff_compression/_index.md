@@ -1,19 +1,19 @@
 ---
-title: tiff_compression الملكية
+title: tiff_compression عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 370
 url: /ar/aspose.cells.rendering/imageorprintoptions/tiff_compression/
 is_root: false
 ---
-##  tiff_compression الملكية
+##  tiff_compression عقار
 
-الحصول على أو تحديد نوع الضغط ليتم تطبيقه فقط عند حفظ الصفحات بتنسيق `Tiff`.
+الحصول على أو تعيين نوع الضغط الذي سيتم تطبيقه فقط عند حفظ الصفحات بتنسيق `Tiff`.
 
 ###  ملاحظات
 
-يكون له تأثير فقط عند الحفظ بالرقم TIFF.
+يكون له تأثير فقط عند الحفظ على TIFF.
 القيمة الافتراضية هي Lzw.
 ###  تعريف:
 ```python
@@ -26,6 +26,6 @@ def tiff_compression(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
-* فئة [TiffCompression](/cells/python-net/ar/aspose.cells.rendering/tiffcompression)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* فئة [`TiffCompression`](/cells/python-net/ar/aspose.cells.rendering/tiffcompression)

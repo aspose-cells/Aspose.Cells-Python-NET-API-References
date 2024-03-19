@@ -1,15 +1,15 @@
 ---
-title: text_vertical_alignment الملكية
+title: text_vertical_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /ar/aspose.cells.drawing/listbox/text_vertical_alignment/
 is_root: false
 ---
-##  text_vertical_alignment الملكية
+##  text_vertical_alignment عقار
 
-الحصول على نوع المحاذاة الرأسية للنص للشكل وتعيينه.
+الحصول على نوع المحاذاة العمودية للشكل وتعيينها.
 
 ###  مثال
 
@@ -31,6 +31,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
-* فئة [TextAlignmentType](/cells/python-net/ar/aspose.cells/textalignmenttype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* فئة [`TextAlignmentType`](/cells/python-net/ar/aspose.cells/textalignmenttype)

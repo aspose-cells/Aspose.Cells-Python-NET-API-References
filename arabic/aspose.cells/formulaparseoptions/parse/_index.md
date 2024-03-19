@@ -1,17 +1,17 @@
 ---
-title: parse الملكية
+title: parse عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells/formulaparseoptions/parse/
 is_root: false
 ---
-##  parse الملكية
+##  parse عقار
 
-ما إذا كان parse معطى الصيغة. الافتراضي هو الصحيح.
-إذا كانت خاطئة ، فسيتم الاحتفاظ بسلسلة الصيغة كما هي للخلية حتى يقوم المستخدم باستدعاء طرق أخرى إلى parse لهم
-أو بيانات الصيغة التي تم تحليلها مطلوبة من قبل عمليات أخرى مثل حساب الصيغ.
+سواء parse صيغة معينة. الافتراضي صحيح.
+إذا كانت خاطئة، فسيتم الاحتفاظ بسلسلة الصيغة المعطاة كما هي بالنسبة للخلية حتى يقوم المستخدم باستدعاء الطرق الأخرى إلى parse
+أو أن بيانات الصيغة التي تم تحليلها مطلوبة من خلال عمليات أخرى مثل حساب الصيغ.
 ###  تعريف:
 ```python
 @property
@@ -23,5 +23,5 @@ def parse(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormulaParseOptions](/cells/python-net/ar/aspose.cells/formulaparseoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormulaParseOptions`](/cells/python-net/ar/aspose.cells/formulaparseoptions)

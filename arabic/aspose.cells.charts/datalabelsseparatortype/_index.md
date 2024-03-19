@@ -1,31 +1,31 @@
 ---
-title: العد DataLabelsSeparatorType
+title: DataLabelsSeparatorType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 470
+weight: 480
 url: /ar/aspose.cells.charts/datalabelsseparatortype/
 is_root: false
 ---
-##  العد DataLabelsSeparatorType
-يمثل نوع فاصل DataLabels.
+##  DataLabelsSeparatorType التعداد
+يمثل نوع الفاصل لـ DataLabels.
 
 
 
-يكشف نوع DataLabelsSeparatorType الأعضاء التالية:
+يكشف النوع DataLabelsSeparatorType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| AUTO | يمثل فاصل آلي|
-| SPACE | يمثل الفضاء ("")|
-| COMMA | يمثل فاصلة ("،")|
-| SEMICOLON | يمثل فاصلة منقوطة ("؛")|
-| PERIOD |يمثل النقطة (".")|
-| NEW_LINE | يمثل السطر الجديد ("\ n")|
+| AUTO | يمثل الفاصل التلقائي|
+| SPACE | يمثل الفضاء(" ")|
+| COMMA | يمثل الفاصلة ("،")|
+| SEMICOLON | يمثل فاصلة منقوطة(";")|
+| PERIOD | يمثل الفترة(".")|
+| NEW_LINE | يمثل السطر الجديد("\n")|
 | CUSTOM | يمثل فاصل مخصص|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

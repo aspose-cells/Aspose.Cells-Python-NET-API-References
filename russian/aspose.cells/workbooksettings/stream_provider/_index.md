@@ -1,21 +1,21 @@
 ---
 title: stream_provider недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 600
+weight: 480
 url: /ru/aspose.cells/workbooksettings/stream_provider/
 is_root: false
 ---
 ##  stream_provider недвижимость
 
-Получает и задает поставщика потоков для внешнего ресурса.
+Получает и задает поставщика потока для внешнего ресурса.
 
 ###  Примечания
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
 пожалуйста, используйте свойство ResourceProvider.
- Это свойство будет удалено через 12 месяцев, начиная с июня 2022 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с июня 2022 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -28,6 +28,6 @@ def stream_provider(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [IStreamProvider](/cells/python-net/ru/aspose.cells/istreamprovider)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`IStreamProvider`](/cells/python-net/ru/aspose.cells/istreamprovider)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

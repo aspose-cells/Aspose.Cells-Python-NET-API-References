@@ -3,13 +3,13 @@ title: export_worksheet_css_separately mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 380
 url: /tr/aspose.cells/htmlsaveoptions/export_worksheet_css_separately/
 is_root: false
 ---
 ##  export_worksheet_css_separately mülk
 
-Çalışma sayfası css'sinin ayrı olarak dışa aktarılıp aktarılmadığını belirtir. Varsayılan değer yanlıştır.
+Çalışma sayfası css'sinin ayrı olarak dışa aktarılıp aktarılmayacağını belirtir. Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_worksheet_css_separately(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlSaveOptions](/cells/python-net/tr/aspose.cells/htmlsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlSaveOptions`](/cells/python-net/tr/aspose.cells/htmlsaveoptions)

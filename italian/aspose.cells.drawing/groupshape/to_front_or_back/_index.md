@@ -1,14 +1,14 @@
 ---
-title: metodo to_front_or_back
+title: Metodo to_front_or_back
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 210
+weight: 230
 url: /it/aspose.cells.drawing/groupshape/to_front_or_back/
 is_root: false
 ---
-##  to_front_or_back(orders) {#int}
-Porta la forma in primo piano o la sposta in secondo piano.
+##  to_front_or_back {#int}
+Porta la forma in primo piano o la manda in secondo piano.
 
 
 
@@ -20,7 +20,7 @@ def to_front_or_back(self, orders):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| orders | int | Se è minore di zero, imposta la forma indietro.<br/>Se è maggiore di zero, porta la forma in primo piano.|
+| orders | int | Se è inferiore a zero, imposta la forma sul retro.<br/> Se è maggiore di zero, porta la forma in primo piano.|
 
 ###  Esempio
 
@@ -33,5 +33,5 @@ shape.to_front_or_back(2)
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GroupShape](/cells/python-net/it/aspose.cells.drawing/groupshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/it/aspose.cells.drawing/groupshape)

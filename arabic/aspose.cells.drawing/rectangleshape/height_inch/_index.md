@@ -1,13 +1,13 @@
 ---
-title: height_inch الملكية
+title: height_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 460
 url: /ar/aspose.cells.drawing/rectangleshape/height_inch/
 is_root: false
 ---
-##  height_inch الملكية
+##  height_inch عقار
 
 يمثل ارتفاع الشكل بوحدة البوصة.
 
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.height_inch == 3:
-    shape.height_inch = 1
+    shape.height_inch = 1.0
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def height_inch(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RectangleShape](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RectangleShape`](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)

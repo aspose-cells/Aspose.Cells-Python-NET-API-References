@@ -1,13 +1,13 @@
 ---
-title: is_deleted الملكية
+title: is_deleted عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells.charts/legend/is_deleted/
 is_root: false
 ---
-##  is_deleted الملكية
+##  is_deleted عقار
 
 يشير إلى ما إذا تم حذف تسميات البيانات هذه.
 ###  تعريف:
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)

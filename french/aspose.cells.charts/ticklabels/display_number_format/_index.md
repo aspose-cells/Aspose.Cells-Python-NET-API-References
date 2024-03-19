@@ -3,13 +3,13 @@ title: display_number_format propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 60
+weight: 70
 url: /fr/aspose.cells.charts/ticklabels/display_number_format/
 is_root: false
 ---
 ##  display_number_format propriété
 
-Obtient et définit le format de numéro d'affichage des étiquettes de graduation.
+Obtient et définit le format du numéro d’affichage des étiquettes de graduation.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def display_number_format(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [TickLabels](/cells/python-net/fr/aspose.cells.charts/ticklabels)
+* module [`aspose.cells.charts`](../../)
+* classe [`TickLabels`](/cells/python-net/fr/aspose.cells.charts/ticklabels)

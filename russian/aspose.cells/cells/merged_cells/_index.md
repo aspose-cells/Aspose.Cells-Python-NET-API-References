@@ -1,9 +1,9 @@
 ---
 title: merged_cells недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1150
+weight: 1140
 url: /ru/aspose.cells/cells/merged_cells/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-В этой коллекции каждый элемент представляет собой структуру [CellArea](/cells/python-net/ru/aspose.cells/cellarea), которая представляет собой область объединенных ячеек.
+В этой коллекции каждый элемент представляет собой структуру [`CellArea`](/cells/python-net/ru/aspose.cells/cellarea), которая представляет собой область объединенных ячеек.
 ###  Определение:
 ```python
 @property
@@ -22,6 +22,6 @@ def merged_cells(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellArea](/cells/python-net/ru/aspose.cells/cellarea)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`CellArea`](/cells/python-net/ru/aspose.cells/cellarea)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

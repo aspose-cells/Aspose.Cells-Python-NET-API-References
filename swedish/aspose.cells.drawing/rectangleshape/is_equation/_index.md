@@ -3,7 +3,7 @@ title: is_equation fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 520
+weight: 530
 url: /sv/aspose.cells.drawing/rectangleshape/is_equation/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RectangleShape](/cells/python-net/sv/aspose.cells.drawing/rectangleshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RectangleShape`](/cells/python-net/sv/aspose.cells.drawing/rectangleshape)

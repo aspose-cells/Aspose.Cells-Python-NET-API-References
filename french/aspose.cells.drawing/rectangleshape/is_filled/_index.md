@@ -3,7 +3,7 @@ title: is_filled propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 530
+weight: 540
 url: /fr/aspose.cells.drawing/rectangleshape/is_filled/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_filled(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RectangleShape](/cells/python-net/fr/aspose.cells.drawing/rectangleshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RectangleShape`](/cells/python-net/fr/aspose.cells.drawing/rectangleshape)

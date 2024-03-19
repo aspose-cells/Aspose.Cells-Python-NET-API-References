@@ -1,15 +1,15 @@
 ---
-title: author الملكية
+title: author عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells/comment/author/
 is_root: false
 ---
-##  author الملكية
+##  author عقار
 
-الحصول على وتحديد اسم التعليق الأصلي author
+يحصل ويحدد اسم التعليق الأصلي author
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def author(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

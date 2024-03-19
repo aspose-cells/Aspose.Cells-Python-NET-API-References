@@ -1,9 +1,9 @@
 ---
 title: separator_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 340
+weight: 330
 url: /ru/aspose.cells.charts/datalabels/separator_type/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Чтобы установить собственный разделитель, задайте для свойства [DataLabels.separator_type](/cells/python-net/ru/aspose.cells.charts/datalabels#separator_type) значение [DataLabelsSeparatorType.CUSTOM](/cells/python-net/ru/aspose.cells.charts/datalabelsseparatortype#CUSTOM), а затем укажите ожидаемое значение для [DataLabels.separator_value](/cells/python-net/ru/aspose.cells.charts/datalabels#separator_value).
+Чтобы установить собственный разделитель, установите для свойства [`DataLabels.separator_type`](/cells/python-net/ru/aspose.cells.charts/datalabels#separator_type) значение [`DataLabelsSeparatorType.CUSTOM`](/cells/python-net/ru/aspose.cells.charts/datalabelsseparatortype#CUSTOM), а затем укажите ожидаемое значение для [`DataLabels.separator_value`](/cells/python-net/ru/aspose.cells.charts/datalabels#separator_value).
 ###  Определение:
 ```python
 @property
@@ -25,6 +25,6 @@ def separator_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [DataLabels](/cells/python-net/ru/aspose.cells.charts/datalabels)
-* класс [DataLabelsSeparatorType](/cells/python-net/ru/aspose.cells.charts/datalabelsseparatortype)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`DataLabels`](/cells/python-net/ru/aspose.cells.charts/datalabels)
+* класс [`DataLabelsSeparatorType`](/cells/python-net/ru/aspose.cells.charts/datalabelsseparatortype)

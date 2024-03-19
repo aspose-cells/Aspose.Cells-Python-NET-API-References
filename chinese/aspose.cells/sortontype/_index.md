@@ -1,9 +1,9 @@
 ---
 title: SortOnType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2480
+weight: 2570
 url: /zh/aspose.cells/sortontype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-SortOnType 类型公开了以下成员：
+SortOnType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
 | VALUE |按单元格的值排序。|
-| CELL_COLOR |按单元格的颜色排序。|
+| CELL_COLOR |按单元格颜色排序。|
 | FONT_COLOR |按单元格的字体颜色排序。|
 | ICON |按条件图标排序。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

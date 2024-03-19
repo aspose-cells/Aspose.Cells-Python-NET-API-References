@@ -3,7 +3,7 @@ title: paths mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 860
+weight: 870
 url: /tr/aspose.cells.drawing/spinner/paths/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapePathCollection](/cells/python-net/tr/aspose.cells.drawing/shapepathcollection)
-* sınıf [Spinner](/cells/python-net/tr/aspose.cells.drawing/spinner)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapePathCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepathcollection)
+* sınıf [`Spinner`](/cells/python-net/tr/aspose.cells.drawing/spinner)

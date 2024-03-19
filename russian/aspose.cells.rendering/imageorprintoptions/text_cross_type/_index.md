@@ -1,9 +1,9 @@
 ---
 title: text_cross_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ru/aspose.cells.rendering/imageorprintoptions/text_cross_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def text_cross_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
-* класс [TextCrossType](/cells/python-net/ru/aspose.cells/textcrosstype)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* класс [`TextCrossType`](/cells/python-net/ru/aspose.cells/textcrosstype)

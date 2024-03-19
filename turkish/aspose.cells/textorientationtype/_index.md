@@ -3,18 +3,18 @@ title: TextOrientationType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2560
+weight: 2650
 url: /tr/aspose.cells/textorientationtype/
 is_root: false
 ---
 ##  TextOrientationType numaralandırma
-Metin yönü türlerini numaralandırır.
+Metin yönlendirme türlerini numaralandırır.
 
 
 
-TextOrientationType türü aşağıdaki üyeleri gösterir:
+TextOrientationType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | CLOCK_WISE | Metni saat yönünde 90 derece döndürür.|
@@ -25,4 +25,4 @@ TextOrientationType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

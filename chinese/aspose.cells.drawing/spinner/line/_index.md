@@ -1,15 +1,15 @@
 ---
-title: line 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: line属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 740
+weight: 750
 url: /zh/aspose.cells.drawing/spinner/line/
 is_root: false
 ---
-## line 属性
+## line属性
 
-获取 line 样式
+获取line样式
 
 ### 例子
 
@@ -26,6 +26,6 @@ def line(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [LineFormat](/cells/python-net/zh/aspose.cells.drawing/lineformat)
-* 类 [Spinner](/cells/python-net/zh/aspose.cells.drawing/spinner)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`LineFormat`](/cells/python-net/zh/aspose.cells.drawing/lineformat)
+* 类 [`Spinner`](/cells/python-net/zh/aspose.cells.drawing/spinner)

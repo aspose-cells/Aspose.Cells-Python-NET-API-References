@@ -3,13 +3,13 @@ title: signature_line propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /es/aspose.cells.drawing/picture/signature_line/
 is_root: false
 ---
 ##  signature_line propiedad
 
-Obtiene y establece la línea de firma
+Obtiene y establece la línea de firma.
 
 ###  Ejemplo
 
@@ -46,6 +46,6 @@ def signature_line(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Picture](/cells/python-net/es/aspose.cells.drawing/picture)
-* clase [SignatureLine](/cells/python-net/es/aspose.cells.drawing/signatureline)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Picture`](/cells/python-net/es/aspose.cells.drawing/picture)
+* clase [`SignatureLine`](/cells/python-net/es/aspose.cells.drawing/signatureline)

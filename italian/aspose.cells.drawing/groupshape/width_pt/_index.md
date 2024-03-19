@@ -3,7 +3,7 @@ title: width_pt proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /it/aspose.cells.drawing/groupshape/width_pt/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Rappresenta la larghezza della forma, in unità di punto.
 ```python
 
 if shape.width_pt == 3:
-    shape.width_pt = 1
+    shape.width_pt = 1.0
 
 ```
 ###  Definizione:
@@ -30,5 +30,5 @@ def width_pt(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GroupShape](/cells/python-net/it/aspose.cells.drawing/groupshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/it/aspose.cells.drawing/groupshape)

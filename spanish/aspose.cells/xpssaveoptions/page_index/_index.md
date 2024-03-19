@@ -3,13 +3,13 @@ title: page_index propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 190
+weight: 200
 url: /es/aspose.cells/xpssaveoptions/page_index/
 is_root: false
 ---
 ##  page_index propiedad
 
-Obtiene o establece el índice basado en 0 de la primera página que se va a guardar.
+Obtiene o establece el índice basado en 0 de la primera página que se guardará.
 
 ###  Observaciones
 
@@ -45,5 +45,5 @@ def page_index(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [XpsSaveOptions](/cells/python-net/es/aspose.cells/xpssaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`XpsSaveOptions`](/cells/python-net/es/aspose.cells/xpssaveoptions)

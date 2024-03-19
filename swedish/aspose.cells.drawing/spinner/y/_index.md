@@ -3,7 +3,7 @@ title: y fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1290
+weight: 1300
 url: /sv/aspose.cells.drawing/spinner/y/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Spinner](/cells/python-net/sv/aspose.cells.drawing/spinner)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Spinner`](/cells/python-net/sv/aspose.cells.drawing/spinner)

@@ -1,15 +1,15 @@
 ---
-title: print_with_status_dialog 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: print_with_status_dialog属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 260
 url: /zh/aspose.cells.rendering/imageorprintoptions/print_with_status_dialog/
 is_root: false
 ---
-## print_with_status_dialog 属性
+## print_with_status_dialog属性
 
-如果 PrintWithStatusDialog = true ，将出现一个显示当前打印状态的对话框。
+如果 PrintWithStatusDialog = true ，将会出现一个对话框显示当前打印状态。
 否则不会显示这样的对话框。
 ### 定义：
 ```python
@@ -22,5 +22,5 @@ def print_with_status_dialog(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](../../)
-* 类 [ImageOrPrintOptions](/cells/python-net/zh/aspose.cells.rendering/imageorprintoptions)
+* 模块[`aspose.cells.rendering`](../../)
+* 类 [`ImageOrPrintOptions`](/cells/python-net/zh/aspose.cells.rendering/imageorprintoptions)

@@ -1,13 +1,13 @@
 ---
-title: metodo get_row_height_pixel
+title: Metodo get_row_height_pixel
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 490
+weight: 480
 url: /it/aspose.cells/cells/get_row_height_pixel/
 is_root: false
 ---
-##  get_row_height_pixel(row) {#int}
+##  get_row_height_pixel {#int}
 Ottiene l'altezza di una riga specificata in unità di pixel.
 
 
@@ -24,10 +24,10 @@ def get_row_height_pixel(self, row):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row | int | Indice di riga|
+| row | int | Indice delle righe|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

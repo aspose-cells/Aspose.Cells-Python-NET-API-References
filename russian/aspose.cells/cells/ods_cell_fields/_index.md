@@ -1,9 +1,9 @@
 ---
 title: ods_cell_fields недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1210
+weight: 1200
 url: /ru/aspose.cells/cells/ods_cell_fields/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def ods_cell_fields(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
-* класс [OdsCellFieldCollection](/cells/python-net/ru/aspose.cells.ods/odscellfieldcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)
+* класс [`OdsCellFieldCollection`](/cells/python-net/ru/aspose.cells.ods/odscellfieldcollection)

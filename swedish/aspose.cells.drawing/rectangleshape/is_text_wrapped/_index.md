@@ -3,7 +3,7 @@ title: is_text_wrapped fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 640
+weight: 650
 url: /sv/aspose.cells.drawing/rectangleshape/is_text_wrapped/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Hämtar och ställer in texttypen för formen som innehåller text.
 ```python
 
 if shape.is_text_wrapped:
-    shape.is_text_wrapped = !shape.is_text_wrapped
+    shape.is_text_wrapped = notshape.is_text_wrapped
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def is_text_wrapped(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RectangleShape](/cells/python-net/sv/aspose.cells.drawing/rectangleshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RectangleShape`](/cells/python-net/sv/aspose.cells.drawing/rectangleshape)

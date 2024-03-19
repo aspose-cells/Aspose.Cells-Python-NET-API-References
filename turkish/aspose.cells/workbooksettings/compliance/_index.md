@@ -3,13 +3,13 @@ title: compliance mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 120
 url: /tr/aspose.cells/workbooksettings/compliance/
 is_root: false
 ---
 ##  compliance mülk
 
-Çıktı belgesi için OOXML sürümünü belirtir. Varsayılan değer Ecma376_2006'dır.
+Çıktı belgesinin OOXML sürümünü belirtir. Varsayılan değer Ecma376_2006'dır.
 
 ###  Notlar
 
@@ -25,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [OoxmlCompliance](/cells/python-net/tr/aspose.cells/ooxmlcompliance)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`OoxmlCompliance`](/cells/python-net/tr/aspose.cells/ooxmlcompliance)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

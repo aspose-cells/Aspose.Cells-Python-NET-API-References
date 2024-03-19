@@ -3,13 +3,13 @@ title: spid propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 940
+weight: 950
 url: /es/aspose.cells.drawing/combobox/spid/
 is_root: false
 ---
 ##  spid propiedad
 
-Especifica una cadena opcional que una aplicación puede usar para identificar la forma particular.
+Especifica una cadena opcional que una aplicación puede utilizar para identificar la forma particular.
 
 ###  Ejemplo
 
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ComboBox](/cells/python-net/es/aspose.cells.drawing/combobox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ComboBox`](/cells/python-net/es/aspose.cells.drawing/combobox)

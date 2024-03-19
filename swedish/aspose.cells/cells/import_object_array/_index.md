@@ -3,11 +3,11 @@ title: import_object_array metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 670
+weight: 660
 url: /sv/aspose.cells/cells/import_object_array/
 is_root: false
 ---
-##  import_object_array(obj_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+##  import_object_array {#list-int-int-bool}
 Importerar en mängd data till ett kalkylblad.
 
 
@@ -26,7 +26,7 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Anger att importera data vertikalt eller horisontellt.|
 
 
-##  import_object_array(obj_array, first_row, first_column, is_vertical, skip) {#list-int-int-bool-int}
+##  import_object_array {#list-int-int-bool-int}
 Importerar en mängd data till ett kalkylblad.
 
 
@@ -48,5 +48,5 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical, s
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

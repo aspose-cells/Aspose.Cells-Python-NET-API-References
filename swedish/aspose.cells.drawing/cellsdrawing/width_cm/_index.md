@@ -3,7 +3,7 @@ title: width_cm fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /sv/aspose.cells.drawing/cellsdrawing/width_cm/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representerar formens bredd, i centimeterenhet.
 ```python
 
 if shape.width_cm == 3:
-    shape.width_cm = 1
+    shape.width_cm = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def width_cm(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CellsDrawing](/cells/python-net/sv/aspose.cells.drawing/cellsdrawing)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CellsDrawing`](/cells/python-net/sv/aspose.cells.drawing/cellsdrawing)

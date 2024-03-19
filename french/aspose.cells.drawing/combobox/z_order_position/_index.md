@@ -3,7 +3,7 @@ title: z_order_position propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1290
+weight: 1300
 url: /fr/aspose.cells.drawing/combobox/z_order_position/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def z_order_position(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ComboBox](/cells/python-net/fr/aspose.cells.drawing/combobox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ComboBox`](/cells/python-net/fr/aspose.cells.drawing/combobox)

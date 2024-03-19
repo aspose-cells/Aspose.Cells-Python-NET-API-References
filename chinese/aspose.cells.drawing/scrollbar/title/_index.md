@@ -1,13 +1,13 @@
 ---
-title: title 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: title属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1110
+weight: 1120
 url: /zh/aspose.cells.drawing/scrollbar/title/
 is_root: false
 ---
-## title 属性
+## title属性
 
 指定当前形状对象的 title（标题）。
 
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ScrollBar](/cells/python-net/zh/aspose.cells.drawing/scrollbar)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ScrollBar`](/cells/python-net/zh/aspose.cells.drawing/scrollbar)

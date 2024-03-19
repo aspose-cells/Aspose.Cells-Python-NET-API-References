@@ -3,7 +3,7 @@ title: object_source_full_name proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 960
+weight: 970
 url: /it/aspose.cells.drawing/oleobject/object_source_full_name/
 is_root: false
 ---
@@ -13,8 +13,8 @@ Restituisce il nome completo di origine del file di origine per l'oggetto OLE co
 
 ###  Osservazioni
 
-Supporta solo l'impostazione del nome completo di origine quando il tipo di file è OleFileType.Unknown.
-Come file wav, file avi..etc..
+Supporta solo l'impostazione del nome completo dell'origine quando il tipo di file è OleFileType.Unknown.
+Come file wav, file avi, ecc.
 ###  Definizione:
 ```python
 @property
@@ -26,5 +26,5 @@ def object_source_full_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/it/aspose.cells.drawing/oleobject)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/it/aspose.cells.drawing/oleobject)

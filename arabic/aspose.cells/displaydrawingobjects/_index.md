@@ -1,27 +1,27 @@
 ---
-title: العد DisplayDrawingObjects
+title: DisplayDrawingObjects التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1970
+weight: 2040
 url: /ar/aspose.cells/displaydrawingobjects/
 is_root: false
 ---
-##  العد DisplayDrawingObjects
-يمثل ما إذا كان سيتم إظهار الكائنات في المصنف وكيفية إظهارها.
+##  DisplayDrawingObjects التعداد
+يمثل ما إذا كان سيتم إظهار الكائنات في المصنف أم لا وكيفية إظهارها.
 
 
 
-يكشف نوع DisplayDrawingObjects الأعضاء التالية:
+يكشف النوع DisplayDrawingObjects عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | DISPLAY_SHAPES | إظهار كافة الكائنات|
 | PLACEHOLDERS | إظهار العناصر النائبة|
-| HIDE | إخفاء كل الأشكال.|
+| HIDE | إخفاء كافة الأشكال.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

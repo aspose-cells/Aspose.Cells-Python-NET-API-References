@@ -3,13 +3,13 @@ title: is_group mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 570
+weight: 580
 url: /tr/aspose.cells.drawing/commentshape/is_group/
 is_root: false
 ---
 ##  is_group mülk
 
-Şeklin bir grup olup olmadığını gösterir.
+Şeklin bir grup olup olmadığını belirtir.
 
 ###  Örnek
 
@@ -27,5 +27,5 @@ def is_group(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CommentShape](/cells/python-net/tr/aspose.cells.drawing/commentshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CommentShape`](/cells/python-net/tr/aspose.cells.drawing/commentshape)

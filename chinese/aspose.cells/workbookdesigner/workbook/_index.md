@@ -1,15 +1,15 @@
 ---
-title: workbook 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: workbook属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 140
 url: /zh/aspose.cells/workbookdesigner/workbook/
 is_root: false
 ---
-## workbook 属性
+## workbook属性
 
-获取和设置 [WorkbookDesigner.workbook](/cells/python-net/zh/aspose.cells/workbookdesigner#workbook) 对象。
+获取和设置 [`WorkbookDesigner.workbook`](/cells/python-net/zh/aspose.cells/workbookdesigner#workbook) 对象。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def workbook(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
-* 类 [WorkbookDesigner](/cells/python-net/zh/aspose.cells/workbookdesigner)
+* 模块[`aspose.cells`](../../)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)
+* 类 [`WorkbookDesigner`](/cells/python-net/zh/aspose.cells/workbookdesigner)

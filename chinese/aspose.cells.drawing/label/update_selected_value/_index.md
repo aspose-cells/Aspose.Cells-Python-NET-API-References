@@ -1,14 +1,14 @@
 ---
 title: update_selected_value方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 240
 url: /zh/aspose.cells.drawing/label/update_selected_value/
 is_root: false
 ---
-##  update_selected_value() {#}
-通过链接单元格的值更新所选值。
+##  update_selected_value {#}
+用链接单元格的值更新所选值。
 
 
 
@@ -25,8 +25,6 @@ def update_selected_value(self):
 from aspose import pycore
 from aspose.cells.drawing import ListBox
 
-# Initialize a new workbook.
-# Workbook book = new Workbook();
 cell = None
 for i in range(10):
     cell = book.worksheets[0].cells.get(i, 0)
@@ -61,5 +59,5 @@ if listbx.is_selected(3):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Label](/cells/python-net/zh/aspose.cells.drawing/label)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Label`](/cells/python-net/zh/aspose.cells.drawing/label)

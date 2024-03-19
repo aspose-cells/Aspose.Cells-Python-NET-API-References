@@ -3,7 +3,7 @@ title: function_name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 100
 url: /de/aspose.cells/calculationdata/function_name/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def function_name(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CalculationData](/cells/python-net/de/aspose.cells/calculationdata)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CalculationData`](/cells/python-net/de/aspose.cells/calculationdata)

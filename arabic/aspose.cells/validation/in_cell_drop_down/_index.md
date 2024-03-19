@@ -1,13 +1,13 @@
 ---
-title: in_cell_drop_down الملكية
+title: in_cell_drop_down عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells/validation/in_cell_drop_down/
 is_root: false
 ---
-##  in_cell_drop_down الملكية
+##  in_cell_drop_down عقار
 
 يشير إلى ما إذا كان التحقق من صحة البيانات يعرض قائمة منسدلة تحتوي على قيم مقبولة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def in_cell_drop_down(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Validation](/cells/python-net/ar/aspose.cells/validation)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Validation`](/cells/python-net/ar/aspose.cells/validation)

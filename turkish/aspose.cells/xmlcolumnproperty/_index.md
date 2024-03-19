@@ -3,7 +3,7 @@ title: XmlColumnProperty sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1670
+weight: 1740
 url: /tr/aspose.cells/xmlcolumnproperty/
 is_root: false
 ---
@@ -12,14 +12,14 @@ Xml Veri Bağlama bilgilerini temsil eder.
 
 
 
-XmlColumnProperty türü aşağıdaki üyeleri gösterir:
+XmlColumnProperty türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [XmlColumnProperty()](/cells/python-net/tr/aspose.cells/xmlcolumnproperty/__init__/#) | XmlColumnProperty'nin yeni bir örneğini oluşturur|
+| [__init__](/cells/python-net/tr/aspose.cells/xmlcolumnproperty/__init__/#) | XmlColumnProperty'nin yeni bir örneğini oluşturur|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

@@ -13,10 +13,10 @@ Einstellung zum Rendern der EMF-Metadatei.
 
 ###  Bemerkungen
 
- EMF-Metadateien, die als „EMF+ Dual“ gekennzeichnet sind, können sowohl EMF+-Datensätze als auch EMF-Datensätze enthalten.
-Beide Arten von Datensätzen können zum Rendern des Bildes verwendet werden, nur EMF+ Datensätze oder nur EMF Datensätze.
-Wenn [EmfRenderSetting.EMF_PLUS_PREFER](/cells/python-net/de/aspose.cells/emfrendersetting#EMF_PLUS_PREFER) festgelegt ist, werden mehr als EMF-Datensätze beim Rendern in PDF analysiert, andernfalls werden nur EMF-Datensätze analysiert.
-Der Standardwert ist [EmfRenderSetting.EMF_ONLY](/cells/python-net/de/aspose.cells/emfrendersetting#EMF_ONLY).
+ EMF-Metadateien mit der Bezeichnung „EMF+ Dual“ können sowohl EMF+-Datensätze als auch EMF-Datensätze enthalten.
+Zum Rendern des Bildes kann jeder Datensatztyp verwendet werden, nur EMF+ Datensätze oder nur EMF Datensätze.
+Wenn [`EmfRenderSetting.EMF_PLUS_PREFER`](/cells/python-net/de/aspose.cells/emfrendersetting#EMF_PLUS_PREFER) festgelegt ist, werden beim Rendern auf der Seite mehr als EMF Datensätze geparst, andernfalls werden nur EMF Datensätze geparst.
+Der Standardwert ist [`EmfRenderSetting.EMF_ONLY`](/cells/python-net/de/aspose.cells/emfrendersetting#EMF_ONLY).
 ###  Definition:
 ```python
 @property
@@ -28,6 +28,6 @@ def emf_render_setting(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [EmfRenderSetting](/cells/python-net/de/aspose.cells/emfrendersetting)
-* Klasse [PdfSaveOptions](/cells/python-net/de/aspose.cells/pdfsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`EmfRenderSetting`](/cells/python-net/de/aspose.cells/emfrendersetting)
+* Klasse [`PdfSaveOptions`](/cells/python-net/de/aspose.cells/pdfsaveoptions)

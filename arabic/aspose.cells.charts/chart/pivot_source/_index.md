@@ -1,22 +1,22 @@
 ---
-title: pivot_source الملكية
+title: pivot_source عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 430
 url: /ar/aspose.cells.charts/chart/pivot_source/
 is_root: false
 ---
-##  pivot_source الملكية
+##  pivot_source عقار
 
-المصدر هو بيانات جدول pivotTable.
-إذا لم يكن PivotSource فارغًا ، فسيكون المخطط PivotChart.
+المصدر هو بيانات PivotTable.
+إذا لم يكن PivotSource فارغًا، فسيكون المخطط هو PivotChart.
 
 ###  ملاحظات
 
-إذا كان الجدول المحوري "PivotTable1" في ورقة العمل "Sheet1" في ملف "Book1.xls".
-يمكن أن يكون pivotSource "[Book1.xls] Sheet1! PivotTable1" إذا لم يكن المخطط و PivotTable في نفس المصنف.
-إذا قمت بتعيين هذه الخاصية ، فسيتم فقد إعداد مصدر البيانات السابق.
+إذا كان الجدول المحوري "PivotTable1" في ورقة العمل "Sheet1" في الملف "Book1.xls".
+يمكن أن يكون PivotSource "[Book1.xls]Sheet1!PivotTable1" إذا لم يكن المخطط وPivotTable موجودين في نفس المصنف.
+إذا قمت بتعيين هذه الخاصية، فسيتم فقدان إعداد مصدر البيانات السابق.
 ###  تعريف:
 ```python
 @property
@@ -28,5 +28,5 @@ def pivot_source(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

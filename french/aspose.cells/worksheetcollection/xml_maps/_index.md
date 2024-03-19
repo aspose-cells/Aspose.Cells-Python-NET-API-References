@@ -3,7 +3,7 @@ title: xml_maps propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 380
+weight: 390
 url: /fr/aspose.cells/worksheetcollection/xml_maps/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def xml_maps(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [WorksheetCollection](/cells/python-net/fr/aspose.cells/worksheetcollection)
-* classe [XmlMapCollection](/cells/python-net/fr/aspose.cells/xmlmapcollection)
+* module [`aspose.cells`](../../)
+* classe [`WorksheetCollection`](/cells/python-net/fr/aspose.cells/worksheetcollection)
+* classe [`XmlMapCollection`](/cells/python-net/fr/aspose.cells/xmlmapcollection)

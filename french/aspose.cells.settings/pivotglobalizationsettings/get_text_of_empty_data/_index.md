@@ -1,13 +1,13 @@
 ---
-title: get_text_of_empty_data méthode
+title: méthode get_text_of_empty_data
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 50
+weight: 80
 url: /fr/aspose.cells.settings/pivotglobalizationsettings/get_text_of_empty_data/
 is_root: false
 ---
-##  get_text_of_empty_data() {#}
+##  get_text_of_empty_data {#}
 Obtient le texte de l'étiquette "(vide)" dans le tableau croisé dynamique.
 
 
@@ -26,5 +26,5 @@ def get_text_of_empty_data(self):
 
 
 ###  Voir également
-* module [aspose.cells.settings](../../)
-* classe [PivotGlobalizationSettings](/cells/python-net/fr/aspose.cells.settings/pivotglobalizationsettings)
+* module [`aspose.cells.settings`](../../)
+* classe [`PivotGlobalizationSettings`](/cells/python-net/fr/aspose.cells.settings/pivotglobalizationsettings)

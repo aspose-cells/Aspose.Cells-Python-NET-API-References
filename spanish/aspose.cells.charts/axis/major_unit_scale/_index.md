@@ -3,13 +3,13 @@ title: major_unit_scale propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 300
+weight: 310
 url: /es/aspose.cells.charts/axis/major_unit_scale/
 is_root: false
 ---
 ##  major_unit_scale propiedad
 
-Representa la escala de unidad principal para el eje de categorías.
+Representa la escala de unidades principales para el eje de categorías.
 
 ###  Ejemplo
 
@@ -18,7 +18,7 @@ from aspose.cells.charts import CategoryType, TimeUnit
 
 chart.category_axis.category_type = CategoryType.TIME_SCALE
 chart.category_axis.major_unit_scale = TimeUnit.MONTHS
-chart.category_axis.major_unit = 2
+chart.category_axis.major_unit = 2.0
 
 ```
 ###  Definición:
@@ -32,6 +32,6 @@ def major_unit_scale(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Axis](/cells/python-net/es/aspose.cells.charts/axis)
-* clase [TimeUnit](/cells/python-net/es/aspose.cells.charts/timeunit)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Axis`](/cells/python-net/es/aspose.cells.charts/axis)
+* clase [`TimeUnit`](/cells/python-net/es/aspose.cells.charts/timeunit)

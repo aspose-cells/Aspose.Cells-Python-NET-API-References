@@ -3,13 +3,13 @@ title: has_line propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 410
+weight: 420
 url: /es/aspose.cells.drawing/shape/has_line/
 is_root: false
 ---
 ##  has_line propiedad
 
-Obtiene y establece que el borde de línea de la forma sea visible.
+Obtiene y establece que el borde de la línea de la forma sea visible.
 
 ###  Ejemplo
 
@@ -30,5 +30,5 @@ def has_line(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Shape](/cells/python-net/es/aspose.cells.drawing/shape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Shape`](/cells/python-net/es/aspose.cells.drawing/shape)

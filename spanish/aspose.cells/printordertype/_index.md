@@ -3,7 +3,7 @@ title: PrintOrderType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2390
+weight: 2480
 url: /es/aspose.cells/printordertype/
 is_root: false
 ---
@@ -17,10 +17,10 @@ El tipo PrintOrderType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| DOWN_THEN_OVER | Abajo, luego sobre|
+| DOWN_THEN_OVER | Abajo, luego arriba|
 | OVER_THEN_DOWN | Arriba, luego abajo|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

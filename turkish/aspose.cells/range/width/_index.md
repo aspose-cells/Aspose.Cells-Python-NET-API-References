@@ -3,13 +3,13 @@ title: width mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 430
 url: /tr/aspose.cells/range/width/
 is_root: false
 ---
 ##  width mülk
 
-Puan aralığının width'ini alır.
+Puan cinsinden bir aralığın width değerini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def width(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
+* modül [`aspose.cells`](../../)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)

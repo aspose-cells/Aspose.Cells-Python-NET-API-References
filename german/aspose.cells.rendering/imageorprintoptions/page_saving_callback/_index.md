@@ -3,13 +3,13 @@ title: page_saving_callback Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 240
 url: /de/aspose.cells.rendering/imageorprintoptions/page_saving_callback/
 is_root: false
 ---
 ##  page_saving_callback Eigentum
 
-Steuerung/Fortschritt des Seitenspeichervorgangs anzeigen.
+Kontrollieren/Anzeigen des Fortschritts des Seitenspeichervorgangs.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def page_saving_callback(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [IPageSavingCallback](/cells/python-net/de/aspose.cells.rendering/ipagesavingcallback)
-* Klasse [ImageOrPrintOptions](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`IPageSavingCallback`](/cells/python-net/de/aspose.cells.rendering/ipagesavingcallback)
+* Klasse [`ImageOrPrintOptions`](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)

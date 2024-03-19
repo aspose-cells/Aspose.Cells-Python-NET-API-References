@@ -3,7 +3,7 @@ title: first_visible_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 490
+weight: 510
 url: /es/aspose.cells/worksheet/first_visible_row/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def first_visible_row(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

@@ -3,7 +3,7 @@ title: is_ascend_sort mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 330
+weight: 370
 url: /tr/aspose.cells.pivot/pivotfield/is_ascend_sort/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_ascend_sort(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotField](/cells/python-net/tr/aspose.cells.pivot/pivotfield)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield)

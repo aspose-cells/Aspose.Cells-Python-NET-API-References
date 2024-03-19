@@ -1,14 +1,14 @@
 ---
-title: to_tiff méthode
+title: méthode to_tiff
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 60
+weight: 70
 url: /fr/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff(stream) {#io.RawIOBase}
-Rendre la feuille de calcul entière en tant qu'image Tiff à diffuser.
+##  to_tiff {#io.RawIOBase}
+Rendre la feuille de calcul entière sous forme d'image Tiff à diffuser.
 
 
 
@@ -23,8 +23,8 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase | le flux de l'image de sortie|
 
 
-##  to_tiff(filename) {#str}
-Rendre la feuille de calcul entière en tant qu'image Tiff dans un fichier.
+##  to_tiff {#str}
+Rendre la feuille de calcul entière sous forme d'image Tiff dans un fichier.
 
 
 
@@ -40,7 +40,7 @@ def to_tiff(self, filename):
 
 ###  Exemple
 
-Le code suivant sort toutes les pages de la première feuille en image Tiff.
+Le code suivant affiche toutes les pages de la première feuille sur une image Tiff.
 
 ```python
 from aspose.cells import SaveFormat, Workbook
@@ -61,5 +61,5 @@ sr.to_tiff("output.tiff")
 
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [SheetRender](/cells/python-net/fr/aspose.cells.rendering/sheetrender)
+* module [`aspose.cells.rendering`](../../)
+* classe [`SheetRender`](/cells/python-net/fr/aspose.cells.rendering/sheetrender)

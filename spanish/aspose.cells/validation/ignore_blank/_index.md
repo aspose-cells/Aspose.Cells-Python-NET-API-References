@@ -3,7 +3,7 @@ title: ignore_blank propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 200
+weight: 210
 url: /es/aspose.cells/validation/ignore_blank/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def ignore_blank(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Validation](/cells/python-net/es/aspose.cells/validation)
+* módulo [`aspose.cells`](../../)
+* clase [`Validation`](/cells/python-net/es/aspose.cells/validation)

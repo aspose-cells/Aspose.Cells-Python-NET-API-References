@@ -3,7 +3,7 @@ title: PaneStateType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2320
+weight: 2410
 url: /tr/aspose.cells/panestatetype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Sayfa bölmesinin durumunu temsil eder.
 
 
 
-PaneStateType türü aşağıdaki üyeleri gösterir:
+PaneStateType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| FROZEN | Bölmeler donmuştur, ancak donmadan önce donmamıştır.|
-| FROZEN_SPLIT | Bölmeler donmuştur ve dondurulmadan önce bölünmüştür.|
-| SPLIT | Bölmeler bölünmüş, ancak donmamış.|
+| FROZEN | Bölmeler donmuştur, ancak dondurulmadan önce bu durum söz konusu değildi.|
+| FROZEN_SPLIT | Bölmeler dondurulur ve dondurulmadan önce bölünür.|
+| SPLIT |Bölmeler bölünmüş ancak donmamıştır.|
 | NORMAL | Bölmeler donmaz ve bölünmez.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

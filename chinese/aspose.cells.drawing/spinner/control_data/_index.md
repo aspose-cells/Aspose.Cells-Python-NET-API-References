@@ -1,15 +1,15 @@
 ---
-title: control_data 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: control_data属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 310
+weight: 330
 url: /zh/aspose.cells.drawing/spinner/control_data/
 is_root: false
 ---
-## control_data 属性
+## control_data属性
 
-获取控件的数据。
+获取控制数据。
 
 ### 例子
 
@@ -27,5 +27,5 @@ def control_data(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Spinner](/cells/python-net/zh/aspose.cells.drawing/spinner)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Spinner`](/cells/python-net/zh/aspose.cells.drawing/spinner)

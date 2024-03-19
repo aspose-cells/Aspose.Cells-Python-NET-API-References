@@ -1,15 +1,15 @@
 ---
 title: linked_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 760
+weight: 770
 url: /ru/aspose.cells.drawing/scrollbar/linked_cell/
 is_root: false
 ---
 ##  linked_cell недвижимость
 
-Получает или задает диапазон рабочего листа, связанный со значением элемента управления.
+Получает или задает диапазон листа, связанный со значением элемента управления.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ScrollBar](/cells/python-net/ru/aspose.cells.drawing/scrollbar)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ScrollBar`](/cells/python-net/ru/aspose.cells.drawing/scrollbar)

@@ -3,13 +3,13 @@ title: text_horizontal_overflow proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 970
+weight: 980
 url: /it/aspose.cells.drawing/shape/text_horizontal_overflow/
 is_root: false
 ---
 ##  text_horizontal_overflow proprietà
 
-Ottiene e imposta il tipo di overflow orizzontale del testo della forma che contiene il testo.
+Ottiene e imposta il tipo di overflow orizzontale del testo della forma che contiene testo.
 
 ###  Esempio
 
@@ -31,6 +31,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Shape](/cells/python-net/it/aspose.cells.drawing/shape)
-* classe [TextOverflowType](/cells/python-net/it/aspose.cells.drawing/textoverflowtype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Shape`](/cells/python-net/it/aspose.cells.drawing/shape)
+* classe [`TextOverflowType`](/cells/python-net/it/aspose.cells.drawing/textoverflowtype)

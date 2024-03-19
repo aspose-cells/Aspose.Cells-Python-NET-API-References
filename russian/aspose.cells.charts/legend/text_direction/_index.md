@@ -1,9 +1,9 @@
 ---
 title: text_direction недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 350
+weight: 360
 url: /ru/aspose.cells.charts/legend/text_direction/
 is_root: false
 ---
@@ -15,7 +15,7 @@ is_root: false
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
  используйте свойство ChartTextFrame.ReadingOrder.
- Это свойство будет удалено через 12 месяцев, начиная с марта 2020 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с марта 2020 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -28,6 +28,6 @@ def text_direction(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Legend](/cells/python-net/ru/aspose.cells.charts/legend)
-* класс [TextDirectionType](/cells/python-net/ru/aspose.cells/textdirectiontype)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Legend`](/cells/python-net/ru/aspose.cells.charts/legend)
+* класс [`TextDirectionType`](/cells/python-net/ru/aspose.cells/textdirectiontype)

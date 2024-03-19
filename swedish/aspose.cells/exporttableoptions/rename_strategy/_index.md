@@ -3,7 +3,7 @@ title: rename_strategy fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 150
 url: /sv/aspose.cells/exporttableoptions/rename_strategy/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def rename_strategy(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExportTableOptions](/cells/python-net/sv/aspose.cells/exporttableoptions)
-* klass [RenameStrategy](/cells/python-net/sv/aspose.cells/renamestrategy)
+* modul [`aspose.cells`](../../)
+* klass [`ExportTableOptions`](/cells/python-net/sv/aspose.cells/exporttableoptions)
+* klass [`RenameStrategy`](/cells/python-net/sv/aspose.cells/renamestrategy)

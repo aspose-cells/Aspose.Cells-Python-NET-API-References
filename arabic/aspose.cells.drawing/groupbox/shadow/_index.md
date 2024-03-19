@@ -1,15 +1,15 @@
 ---
-title: shadow الملكية
+title: shadow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 870
+weight: 880
 url: /ar/aspose.cells.drawing/groupbox/shadow/
 is_root: false
 ---
-##  shadow الملكية
+##  shadow عقار
 
-الإشارة إلى ما إذا كان صندوق المجموعة يحتوي على shadow.
+يشير إلى ما إذا كان صندوق المجموعة يحتوي على shadow.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupBox](/cells/python-net/ar/aspose.cells.drawing/groupbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupBox`](/cells/python-net/ar/aspose.cells.drawing/groupbox)

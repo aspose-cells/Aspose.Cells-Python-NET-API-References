@@ -3,7 +3,7 @@ title: sheet_tab_bar_width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 450
 url: /sv/aspose.cells/workbooksettings/sheet_tab_bar_width/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sheet_tab_bar_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

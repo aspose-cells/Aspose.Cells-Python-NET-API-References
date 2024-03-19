@@ -3,7 +3,7 @@ title: data_extract_load mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 140
 url: /tr/aspose.cells/workbooksettings/data_extract_load/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def data_extract_load(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

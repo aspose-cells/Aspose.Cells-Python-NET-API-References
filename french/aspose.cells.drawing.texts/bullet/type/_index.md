@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propriété
 
-Obtient et définit la puce type.
+Obtient et définit le type de la puce.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [Bullet](/cells/python-net/fr/aspose.cells.drawing.texts/bullet)
-* classe [BulletType](/cells/python-net/fr/aspose.cells.drawing.texts/bullettype)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`Bullet`](/cells/python-net/fr/aspose.cells.drawing.texts/bullet)
+* classe [`BulletType`](/cells/python-net/fr/aspose.cells.drawing.texts/bullettype)

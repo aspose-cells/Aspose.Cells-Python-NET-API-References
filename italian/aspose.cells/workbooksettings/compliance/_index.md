@@ -3,7 +3,7 @@ title: compliance proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 150
+weight: 120
 url: /it/aspose.cells/workbooksettings/compliance/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [OoxmlCompliance](/cells/python-net/it/aspose.cells/ooxmlcompliance)
-* classe [WorkbookSettings](/cells/python-net/it/aspose.cells/workbooksettings)
+* modulo [`aspose.cells`](../../)
+* classe [`OoxmlCompliance`](/cells/python-net/it/aspose.cells/ooxmlcompliance)
+* classe [`WorkbookSettings`](/cells/python-net/it/aspose.cells/workbooksettings)

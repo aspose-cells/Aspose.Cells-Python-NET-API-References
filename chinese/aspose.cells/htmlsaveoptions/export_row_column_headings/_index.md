@@ -1,19 +1,19 @@
 ---
-title: export_row_column_headings 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: export_row_column_headings属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 320
+weight: 340
 url: /zh/aspose.cells/htmlsaveoptions/export_row_column_headings/
 is_root: false
 ---
-## export_row_column_headings 属性
+## export_row_column_headings属性
 
-指示在保存到 HTML 文件时是否导出工作表的行和列标题。
+指示保存到 HTML 文件时是否导出工作表的行标题和列标题。
 
 ### 评论
 
-默认值为假。
+默认值为 false。
 ### 定义：
 ```python
 @property
@@ -25,5 +25,5 @@ def export_row_column_headings(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlSaveOptions](/cells/python-net/zh/aspose.cells/htmlsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlSaveOptions`](/cells/python-net/zh/aspose.cells/htmlsaveoptions)

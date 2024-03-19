@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  owner_password propiedad
 
-Obtiene o establece la contraseña de propietario del documento
+Obtiene o establece la contraseña del propietario para el documento cifrado PDF.
+
+###  Observaciones
+
+La contraseña del propietario permite al usuario abrir un documento cifrado PDF sin especificar restricciones de acceso.
 ###  Definición:
 ```python
 @property
@@ -21,5 +25,5 @@ def owner_password(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering.pdfsecurity](../../)
-* clase [PdfSecurityOptions](/cells/python-net/es/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* módulo [`aspose.cells.rendering.pdfsecurity`](../../)
+* clase [`PdfSecurityOptions`](/cells/python-net/es/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

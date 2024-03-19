@@ -3,13 +3,13 @@ title: is_printable proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 740
+weight: 750
 url: /it/aspose.cells.drawing/oleobject/is_printable/
 is_root: false
 ---
 ##  is_printable proprietà
 
-True se l'oggetto è stampabile
+Vero se l'oggetto è stampabile
 
 ###  Esempio
 
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/it/aspose.cells.drawing/oleobject)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/it/aspose.cells.drawing/oleobject)

@@ -3,13 +3,13 @@ title: IconSet clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 900
+weight: 940
 url: /es/aspose.cells/iconset/
 is_root: false
 ---
 ##  IconSet clase
- Describa la regla de formato condicional IconSet.
-Esta regla de formato condicional aplica iconos a las celdas
+ Describe la regla de formato condicional IconSet.
+Esta regla de formato condicional aplica iconos a las celdas.
 según sus valores.
 
 
@@ -19,12 +19,12 @@ El tipo IconSet expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [cf_icons](/cells/python-net/es/aspose.cells/iconset/cf_icons) | Consigue el[ConditionalFormattingIcon](/cells/python-net/es/aspose.cells/conditionalformattingicon) de la colección|
+| [cf_icons](/cells/python-net/es/aspose.cells/iconset/cf_icons) | Consigue el [`ConditionalFormattingIcon`](/cells/python-net/es/aspose.cells/conditionalformattingicon) de la colección.|
 | [cfvos](/cells/python-net/es/aspose.cells/iconset/cfvos) | Obtenga la instancia de CFValueObjects.|
-| [type](/cells/python-net/es/aspose.cells/iconset/type) | Obtener o establecer el tipo de conjunto de iconos para mostrar.<br/>Al configurar el tipo, se verificará automáticamente si el recuento actual de Cfvos es<br/> acuerdo con el nuevo tipo. Si no está de acuerdo, los Cfvos viejos serán limpiados y<br/> Se agregarán Cfvos predeterminados.|
+| [type](/cells/python-net/es/aspose.cells/iconset/type) | Obtenga o establezca el tipo de conjunto de iconos que se mostrará.<br/>Al configurar el tipo se comprobará automáticamente si el recuento actual de Cfvos es<br/> de acuerdo con el nuevo tipo. Si no se acuerda, los viejos Cfvos serán limpiados y<br/> Se agregarán Cfvos predeterminados.|
 | [is_custom](/cells/python-net/es/aspose.cells/iconset/is_custom) | Indica si el conjunto de iconos es personalizado.<br/> El valor predeterminado es falso.|
-| [show_value](/cells/python-net/es/aspose.cells/iconset/show_value) | Obtenga o establezca la bandera que indica si mostrar los valores de las celdas en las que se aplica este conjunto de iconos.<br/> El valor predeterminado es verdadero.|
-| [reverse](/cells/python-net/es/aspose.cells/iconset/reverse) | Obtenga o establezca el indicador que indica si se invierte el orden predeterminado de los iconos en este conjunto de iconos.<br/> El valor predeterminado es falso.|
+| [show_value](/cells/python-net/es/aspose.cells/iconset/show_value) | Obtenga o establezca la bandera que indica si se muestran los valores de las celdas en las que se aplica este conjunto de iconos.<br/> El valor predeterminado es verdadero.|
+| [reverse](/cells/python-net/es/aspose.cells/iconset/reverse) | Obtenga o establezca la bandera que indica si se invierte el orden predeterminado de los íconos en este conjunto de íconos.<br/> El valor predeterminado es falso.|
 
 
 
@@ -67,5 +67,5 @@ workbook.save("book1.xlsx")
 ```
 
 ###  Ver también
-* módulo [aspose.cells](..)
-* clase [ConditionalFormattingIcon](/cells/python-net/es/aspose.cells/conditionalformattingicon)
+* módulo [`aspose.cells`](..)
+* clase [`ConditionalFormattingIcon`](/cells/python-net/es/aspose.cells/conditionalformattingicon)

@@ -3,7 +3,7 @@ title: soft_edges mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 880
+weight: 890
 url: /tr/aspose.cells.drawing/rectangleshape/soft_edges/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def soft_edges(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RectangleShape](/cells/python-net/tr/aspose.cells.drawing/rectangleshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RectangleShape`](/cells/python-net/tr/aspose.cells.drawing/rectangleshape)

@@ -1,22 +1,22 @@
 ---
 title: html_text недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 480
+weight: 490
 url: /ru/aspose.cells.drawing/webextensionshape/html_text/
 is_root: false
 ---
 ##  html_text недвижимость
 
-Получает и задает строку html, содержащую данные и некоторые форматы в этом текстовом поле.
+Получает и задает строку HTML, содержащую данные и некоторые форматы в этом текстовом поле.
 
 ###  Пример
 
 ```python
 
 html = shape.html_text
-if html == null  || html == "":
+if html == null  or html == "":
     shape.html_text = "<Font Style='FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #0000ff;TEXT-ALIGN: left;'>This is a <b>test</b>.</Font>"
 
 ```
@@ -31,5 +31,5 @@ def html_text(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [WebExtensionShape](/cells/python-net/ru/aspose.cells.drawing/webextensionshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`WebExtensionShape`](/cells/python-net/ru/aspose.cells.drawing/webextensionshape)

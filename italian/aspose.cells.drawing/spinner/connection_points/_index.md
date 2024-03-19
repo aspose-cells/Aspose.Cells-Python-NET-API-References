@@ -3,7 +3,7 @@ title: connection_points proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 300
+weight: 320
 url: /it/aspose.cells.drawing/spinner/connection_points/
 is_root: false
 ---
@@ -14,9 +14,9 @@ Ottieni i punti di connessione
 ###  Osservazioni
 
  NOTA: questo membro è ora obsoleto. Invece,
-utilizzare il metodo GetConnectionPoints().
- Questo metodo verrà rimosso 12 mesi dopo da aprile 2022.
-Aspose si scusa per gli eventuali disagi causati.
+si prega di utilizzare il metodo GetConnectionPoints().
+ Questo metodo verrà rimosso 12 mesi dopo a partire da aprile 2022.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -25,5 +25,5 @@ def connection_points(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Spinner](/cells/python-net/it/aspose.cells.drawing/spinner)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Spinner`](/cells/python-net/it/aspose.cells.drawing/spinner)

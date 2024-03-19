@@ -3,7 +3,7 @@ title: id mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 500
+weight: 510
 url: /tr/aspose.cells.drawing/groupbox/id/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def id(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GroupBox](/cells/python-net/tr/aspose.cells.drawing/groupbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GroupBox`](/cells/python-net/tr/aspose.cells.drawing/groupbox)

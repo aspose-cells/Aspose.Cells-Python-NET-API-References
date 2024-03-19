@@ -3,13 +3,13 @@ title: anchor_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 300
 url: /de/aspose.cells.drawing/textbox/anchor_type/
 is_root: false
 ---
 ##  anchor_type Eigentum
 
-Ruft den Formankerplatzhalter ab und legt ihn fest.
+Ruft den Platzhalter für den Formanker ab und legt ihn fest.
 
 ###  Beispiel
 
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapeAnchorType](/cells/python-net/de/aspose.cells.drawing/shapeanchortype)
-* Klasse [TextBox](/cells/python-net/de/aspose.cells.drawing/textbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapeAnchorType`](/cells/python-net/de/aspose.cells.drawing/shapeanchortype)
+* Klasse [`TextBox`](/cells/python-net/de/aspose.cells.drawing/textbox)

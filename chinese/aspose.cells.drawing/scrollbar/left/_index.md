@@ -1,15 +1,15 @@
 ---
-title: left 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: left属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 690
+weight: 700
 url: /zh/aspose.cells.drawing/scrollbar/left/
 is_root: false
 ---
-## left 属性
+## left属性
 
-表示形状与其 left 列的水平偏移量，以像素为单位。
+表示形状相对于 left 列的水平偏移量，以像素为单位。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def left(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ScrollBar](/cells/python-net/zh/aspose.cells.drawing/scrollbar)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ScrollBar`](/cells/python-net/zh/aspose.cells.drawing/scrollbar)

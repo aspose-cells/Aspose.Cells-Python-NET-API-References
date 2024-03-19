@@ -3,13 +3,13 @@ title: shadow proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 360
+weight: 350
 url: /it/aspose.cells.charts/datalabels/shadow/
 is_root: false
 ---
 ##  shadow proprietà
 
-True se il frame ha shadow.
+Vero se la cornice ha shadow.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/it/aspose.cells.charts/datalabels)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/it/aspose.cells.charts/datalabels)

@@ -3,13 +3,13 @@ title: y mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1270
+weight: 1280
 url: /tr/aspose.cells.drawing/checkbox/y/
 is_root: false
 ---
 ##  y mülk
 
-Çalışma sayfasının üst sınırından dikey şeklin uzaklığını piksel birimi cinsinden alır ve ayarlar.
+Çalışma sayfasının üst kenarlığından şeklin dikey uzaklığını piksel biriminde alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CheckBox](/cells/python-net/tr/aspose.cells.drawing/checkbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CheckBox`](/cells/python-net/tr/aspose.cells.drawing/checkbox)

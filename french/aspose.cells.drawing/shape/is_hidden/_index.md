@@ -3,7 +3,7 @@ title: is_hidden propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 570
+weight: 580
 url: /fr/aspose.cells.drawing/shape/is_hidden/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def is_hidden(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Shape](/cells/python-net/fr/aspose.cells.drawing/shape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Shape`](/cells/python-net/fr/aspose.cells.drawing/shape)

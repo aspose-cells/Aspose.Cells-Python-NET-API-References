@@ -3,7 +3,7 @@ title: CellBorderType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1830
+weight: 1900
 url: /es/aspose.cells/cellbordertype/
 is_root: false
 ---
@@ -17,22 +17,22 @@ El tipo CellBorderType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| DASH_DOT | Representa una línea delgada de puntos y guiones.|
-| DASH_DOT_DOT | Representa una línea delgada de puntos y guiones.|
-| DASHED | Representa la línea discontinua.|
+| DASH_DOT | Representa una delgada línea de puntos y guiones.|
+| DASH_DOT_DOT | Representa una línea delgada de guiones, puntos y puntos.|
+| DASHED | Representa una línea discontinua.|
 | DOTTED | Representa la línea de puntos.|
 | DOUBLE | Representa doble línea.|
 | HAIR | Representa la línea del cabello.|
-| MEDIUM_DASH_DOT | Representa una línea de puntos y guiones medianos.|
-| MEDIUM_DASH_DOT_DOT | Representa una línea mediana de puntos, guiones y puntos.|
+| MEDIUM_DASH_DOT | Representa una línea mediana de puntos y guiones.|
+| MEDIUM_DASH_DOT_DOT | Representa una línea mediana de guiones, puntos y puntos.|
 | MEDIUM_DASHED | Representa una línea discontinua mediana.|
-| NONE | Representa ninguna línea.|
+| NONE | No representa ninguna línea.|
 | MEDIUM | Representa la línea media.|
-| SLANTED_DASH_DOT | Representa una línea inclinada de puntos y guiones medianos.|
-| THICK | Representa línea gruesa.|
-| THIN | Representa línea delgada.|
+| SLANTED_DASH_DOT | Representa una línea de puntos y guiones mediana inclinada.|
+| THICK | Representa una línea gruesa.|
+| THIN | Representa una línea delgada.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

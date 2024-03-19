@@ -3,7 +3,7 @@ title: operator Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 250
 url: /de/aspose.cells/validation/operator/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def operator(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [OperatorType](/cells/python-net/de/aspose.cells/operatortype)
-* Klasse [Validation](/cells/python-net/de/aspose.cells/validation)
+* Modul [`aspose.cells`](../../)
+* Klasse [`OperatorType`](/cells/python-net/de/aspose.cells/operatortype)
+* Klasse [`Validation`](/cells/python-net/de/aspose.cells/validation)

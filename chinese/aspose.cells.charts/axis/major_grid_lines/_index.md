@@ -1,15 +1,15 @@
 ---
-title: major_grid_lines 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: major_grid_lines属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 270
+weight: 280
 url: /zh/aspose.cells.charts/axis/major_grid_lines/
 is_root: false
 ---
-## major_grid_lines 属性
+## major_grid_lines属性
 
-代表图表轴上的主要网格线。
+表示图表轴上的主要网格线。
 
 ### 例子
 
@@ -27,6 +27,6 @@ def major_grid_lines(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
-* 类 [Line](/cells/python-net/zh/aspose.cells.drawing/line)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)
+* 类 [`Line`](/cells/python-net/zh/aspose.cells.drawing/line)

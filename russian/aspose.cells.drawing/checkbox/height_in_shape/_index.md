@@ -1,9 +1,9 @@
 ---
 title: height_in_shape недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 460
+weight: 470
 url: /ru/aspose.cells.drawing/checkbox/height_in_shape/
 is_root: false
 ---
@@ -13,14 +13,14 @@ is_root: false
 
 ###  Примечания
 
-Применяется только тогда, когда эта фигура находится в группе или на диаграмме.
+Применяется только тогда, когда эта фигура находится в группе или диаграмме.
 
 ###  Пример
 
 ```python
 
-if shape.upper_delta_y == 4000:
-    shape.upper_delta_y = 2000
+if shape.is_in_group and shape.height_in_shape == 4000:
+    shape.height_in_shape = 2000
 
 ```
 ###  Определение:
@@ -34,5 +34,5 @@ def height_in_shape(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CheckBox](/cells/python-net/ru/aspose.cells.drawing/checkbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CheckBox`](/cells/python-net/ru/aspose.cells.drawing/checkbox)

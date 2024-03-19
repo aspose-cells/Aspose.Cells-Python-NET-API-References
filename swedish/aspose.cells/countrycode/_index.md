@@ -3,7 +3,7 @@ title: CountryCode uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1890
+weight: 1960
 url: /sv/aspose.cells/countrycode/
 is_root: false
 ---
@@ -51,7 +51,7 @@ Typen CountryCode avslöjar följande medlemmar:
 | INDIA | Indien|
 | ALGERIA | Algeriet|
 | MOROCCO | Marocko|
-| LIBYA | Libyen|
+| LIBYA |Libyen|
 | PORTUGAL | Portugal|
 | ICELAND | Island|
 | FINLAND | Finland|
@@ -71,4 +71,4 @@ Typen CountryCode avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

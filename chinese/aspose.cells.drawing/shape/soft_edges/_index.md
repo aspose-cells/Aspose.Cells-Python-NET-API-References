@@ -1,15 +1,15 @@
 ---
-title: soft_edges 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: soft_edges属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 880
+weight: 890
 url: /zh/aspose.cells.drawing/shape/soft_edges/
 is_root: false
 ---
-## soft_edges 属性
+## soft_edges属性
 
-以点为单位获取和设置应用于边缘的模糊半径。
+获取并设置应用于边缘的模糊半径（以点为单位）。
 
 ### 例子
 
@@ -29,5 +29,5 @@ def soft_edges(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Shape](/cells/python-net/zh/aspose.cells.drawing/shape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Shape`](/cells/python-net/zh/aspose.cells.drawing/shape)

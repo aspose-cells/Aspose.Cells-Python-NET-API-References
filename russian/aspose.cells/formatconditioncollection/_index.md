@@ -1,9 +1,9 @@
 ---
 title: FormatConditionCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 700
+weight: 730
 url: /ru/aspose.cells/formatconditioncollection/
 is_root: false
 ---
@@ -13,7 +13,7 @@ FormatConditions может содержать до трех условных ф
 
 
 
-Тип FormatConditionCollection предоставляет следующие члены:
+Тип FormatConditionCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -27,20 +27,20 @@ FormatConditions может содержать до трех условных ф
 ###  Индексатор
 | Имя| Описание|
 | :- | :- |
-| [index] | индекс возвращаемого условия форматирования.|
+| [index] |индекс возвращаемого условия форматирования.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add_condition(type, operator_type, formula1, formula2)](/cells/python-net/ru/aspose.cells/formatconditioncollection/add_condition/#FormatConditionType-OperatorType-str-str) | Добавляет условие форматирования.|
-| [add_condition(type)](/cells/python-net/ru/aspose.cells/formatconditioncollection/add_condition/#FormatConditionType) |Добавьте условие формата.|
-| [remove_area(index)](/cells/python-net/ru/aspose.cells/formatconditioncollection/remove_area/#int) | Удаляет условно отформатированный диапазон ячеек по индексу.|
-| [remove_area(start_row, start_column, total_rows, total_columns)](/cells/python-net/ru/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Удалить условное форматирование в диапазоне.|
-| [add(cell_area, type, operator_type, formula1, formula2)](/cells/python-net/ru/aspose.cells/formatconditioncollection/add/#CellArea-FormatConditionType-OperatorType-str-str) | Добавляет условие форматирования и диапазон ячеек в FormatConditions.<br/>FormatConditions может содержать до трех условных форматов.<br/> Ссылки на другие листы в формулах условного форматирования не допускаются.|
-| [add_area(cell_area)](/cells/python-net/ru/aspose.cells/formatconditioncollection/add_area/#CellArea) | Добавляет диапазон ячеек с условным форматированием.|
-| [get_cell_area(index)](/cells/python-net/ru/aspose.cells/formatconditioncollection/get_cell_area/#int) | Получает диапазон ячеек с условным форматированием по индексу.|
-| [remove_condition(index)](/cells/python-net/ru/aspose.cells/formatconditioncollection/remove_condition/#int) | Удаляет условие форматирования по индексу.|
+| [add_condition](/cells/python-net/ru/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Добавляет условие форматирования.|
+| [add_condition](/cells/python-net/ru/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType) | Добавьте условие формата.|
+| [remove_area](/cells/python-net/ru/aspose.cells/formatconditioncollection/remove_area/#int) | Удаляет диапазон ячеек условного форматирования по индексу.|
+| [remove_area](/cells/python-net/ru/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Удалить условное форматирование внутри диапазона.|
+| [add](/cells/python-net/ru/aspose.cells/formatconditioncollection/add/#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Добавляет условие форматирования и задействованный диапазон ячеек в FormatConditions.<br/>FormatConditions может содержать до трех условных форматов.<br/> В формулах условного форматирования не допускаются ссылки на другие листы.|
+| [add_area](/cells/python-net/ru/aspose.cells/formatconditioncollection/add_area/#aspose.cells.CellArea) | Добавляет диапазон ячеек условного форматирования.|
+| [get_cell_area](/cells/python-net/ru/aspose.cells/formatconditioncollection/get_cell_area/#int) | Получает диапазон ячеек условного форматирования по индексу.|
+| [remove_condition](/cells/python-net/ru/aspose.cells/formatconditioncollection/remove_condition/#int) | Удаляет условие форматирования по индексу.|
 
 
 
@@ -83,4 +83,4 @@ workbook.save("output.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

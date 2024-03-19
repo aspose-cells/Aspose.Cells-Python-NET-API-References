@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  fill_forms_permission propiedad
 
-Permiso para llenar los campos del formulario.
+ Indica si se debe permitir completar los campos del formulario interactivo existente (incluidos los campos de firma),
+incluso si [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/es/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) está claro.
 ###  Definición:
 ```python
 @property
@@ -21,5 +22,5 @@ def fill_forms_permission(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering.pdfsecurity](../../)
-* clase [PdfSecurityOptions](/cells/python-net/es/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* módulo [`aspose.cells.rendering.pdfsecurity`](../../)
+* clase [`PdfSecurityOptions`](/cells/python-net/es/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

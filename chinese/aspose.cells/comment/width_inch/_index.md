@@ -1,13 +1,13 @@
 ---
-title: width_inch 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: width_inch属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 260
 url: /zh/aspose.cells/comment/width_inch/
 is_root: false
 ---
-## width_inch 属性
+## width_inch属性
 
 表示注释的宽度，单位为英寸。
 
@@ -29,5 +29,5 @@ def width_inch(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)

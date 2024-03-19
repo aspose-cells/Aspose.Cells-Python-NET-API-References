@@ -3,14 +3,14 @@ title: top_in_shape Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1070
+weight: 1090
 url: /de/aspose.cells.drawing/textbox/top_in_shape/
 is_root: false
 ---
 ##  top_in_shape Eigentum
 
- Stellt den vertikalen Versatz der Form vom oberen Rand der übergeordneten Form dar,
-in Einheiten von 1/4000 der Höhe der übergeordneten Form.
+ Stellt den vertikalen Versatz der Form vom oberen Rand der übergeordneten Form dar.
+in der Einheit 1/4000 der Höhe der übergeordneten Form.
 
 ###  Bemerkungen
 
@@ -20,7 +20,7 @@ Gilt nur, wenn diese Form in der Gruppe oder im Diagramm enthalten ist.
 
 ```python
 
-if shape.top_in_shape == 8000:
+if shape.is_in_group and shape.top_in_shape == 8000:
     shape.top_in_shape = 4000
 
 ```
@@ -35,5 +35,5 @@ def top_in_shape(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextBox](/cells/python-net/de/aspose.cells.drawing/textbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextBox`](/cells/python-net/de/aspose.cells.drawing/textbox)

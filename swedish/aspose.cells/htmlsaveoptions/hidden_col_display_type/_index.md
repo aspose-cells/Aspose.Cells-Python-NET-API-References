@@ -3,7 +3,7 @@ title: hidden_col_display_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 420
 url: /sv/aspose.cells/htmlsaveoptions/hidden_col_display_type/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def hidden_col_display_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlHiddenColDisplayType](/cells/python-net/sv/aspose.cells/htmlhiddencoldisplaytype)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlHiddenColDisplayType`](/cells/python-net/sv/aspose.cells/htmlhiddencoldisplaytype)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

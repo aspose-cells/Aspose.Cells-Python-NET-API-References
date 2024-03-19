@@ -3,7 +3,7 @@ title: memory_setting fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1140
+weight: 1130
 url: /sv/aspose.cells/cells/memory_setting/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def memory_setting(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
-* klass [MemorySetting](/cells/python-net/sv/aspose.cells/memorysetting)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)
+* klass [`MemorySetting`](/cells/python-net/sv/aspose.cells/memorysetting)

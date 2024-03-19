@@ -3,7 +3,7 @@ title: one_page_per_sheet fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 200
 url: /sv/aspose.cells/pptxsaveoptions/one_page_per_sheet/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def one_page_per_sheet(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PptxSaveOptions](/cells/python-net/sv/aspose.cells/pptxsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PptxSaveOptions`](/cells/python-net/sv/aspose.cells/pptxsaveoptions)

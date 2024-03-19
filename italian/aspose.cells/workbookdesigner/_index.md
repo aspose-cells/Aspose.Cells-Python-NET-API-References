@@ -1,48 +1,49 @@
 ---
-title: classe WorkbookDesigner
+title: WorkbookDesigner classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1600
+weight: 1670
 url: /it/aspose.cells/workbookdesigner/
 is_root: false
 ---
-##  classe WorkbookDesigner
-Incapsula l'oggetto che rappresenta un foglio di lavoro di progettazione.
+##  WorkbookDesigner classe
+Incapsula l'oggetto che rappresenta un foglio di calcolo della finestra di progettazione.
 
 
 
-Il tipo WorkbookDesigner espone i membri seguenti:
+Il tipo WorkbookDesigner espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [WorkbookDesigner()](/cells/python-net/it/aspose.cells/workbookdesigner/__init__/#) | Inizializza una nuova istanza della classe [WorkbookDesigner](/cells/python-net/it/aspose.cells/workbookdesigner).|
-| [WorkbookDesigner(workbook)](/cells/python-net/it/aspose.cells/workbookdesigner/__init__/#Workbook) | Inizializza una nuova istanza della classe [WorkbookDesigner](/cells/python-net/it/aspose.cells/workbookdesigner).|
+| [__init__](/cells/python-net/it/aspose.cells/workbookdesigner/__init__/#) | Inizializza una nuova istanza della classe [`WorkbookDesigner`](/cells/python-net/it/aspose.cells/workbookdesigner).|
+| [__init__](/cells/python-net/it/aspose.cells/workbookdesigner/__init__/#aspose.cells.Workbook) | Inizializza una nuova istanza della classe [`WorkbookDesigner`](/cells/python-net/it/aspose.cells/workbookdesigner).|
 
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [workbook](/cells/python-net/it/aspose.cells/workbookdesigner/workbook) |Ottiene e imposta l'oggetto [WorkbookDesigner.workbook](/cells/python-net/it/aspose.cells/workbookdesigner#workbook).|
-| [repeat_formulas_with_subtotal](/cells/python-net/it/aspose.cells/workbookdesigner/repeat_formulas_with_subtotal) | Indica se si ripetono le formule con la riga del totale parziale.|
+| [workbook](/cells/python-net/it/aspose.cells/workbookdesigner/workbook) | Ottiene e imposta l'oggetto [`WorkbookDesigner.workbook`](/cells/python-net/it/aspose.cells/workbookdesigner#workbook).|
+| [repeat_formulas_with_subtotal](/cells/python-net/it/aspose.cells/workbookdesigner/repeat_formulas_with_subtotal) | Indica se ripetere le formule con la riga del totale parziale.|
 | [update_empty_string_as_null](/cells/python-net/it/aspose.cells/workbookdesigner/update_empty_string_as_null) | Se TRUE, verrà inserito Null se il valore è "";|
-| [update_reference](/cells/python-net/it/aspose.cells/workbookdesigner/update_reference) |Indica se i riferimenti in altri fogli di lavoro verranno aggiornati.|
+| [update_reference](/cells/python-net/it/aspose.cells/workbookdesigner/update_reference) | Indica se i riferimenti in altri fogli di lavoro verranno aggiornati.|
 | [calculate_formula](/cells/python-net/it/aspose.cells/workbookdesigner/calculate_formula) | Indica se le formule devono essere calcolate.|
-| [call_back](/cells/python-net/it/aspose.cells/workbookdesigner/call_back) | Ottiene e imposta l'interfaccia di callback dell'elaborazione di smartmarker.|
-| [line_by_line](/cells/python-net/it/aspose.cells/workbookdesigner/line_by_line) | Indica se elaborare l'indicatore intelligente riga per riga.|
+| [call_back](/cells/python-net/it/aspose.cells/workbookdesigner/call_back) | Ottiene e imposta l'interfaccia di callback per l'elaborazione dello smartmarker.|
+| [line_by_line](/cells/python-net/it/aspose.cells/workbookdesigner/line_by_line) | Indica se elaborare lo smart marker riga per riga.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [set_data_source(data_source, cells_data_table)](/cells/python-net/it/aspose.cells/workbookdesigner/set_data_source/#str-ICellsDataTable) | Imposta l'origine dati di un oggetto [ICellsDataTable](/cells/python-net/it/aspose.cells/icellsdatatable).|
-| [set_data_source(variable, data)](/cells/python-net/it/aspose.cells/workbookdesigner/set_data_source/#str-any) | Imposta l'associazione dati a una variabile.|
-| [process()](/cells/python-net/it/aspose.cells/workbookdesigner/process/#) | Elabora gli indicatori intelligenti e popola i valori dell'origine dati.|
-| [process(is_preserved)](/cells/python-net/it/aspose.cells/workbookdesigner/process/#bool) | Elabora gli indicatori intelligenti e popola i valori dell'origine dati.|
-| [process(sheet_index, is_preserved)](/cells/python-net/it/aspose.cells/workbookdesigner/process/#int-bool) | Elabora gli indicatori intelligenti e popola i valori dell'origine dati.|
-| [clear_data_source()](/cells/python-net/it/aspose.cells/workbookdesigner/clear_data_source/#) | Cancella tutte le origini dati.|
-| [get_smart_markers()](/cells/python-net/it/aspose.cells/workbookdesigner/get_smart_markers/#) | Restituisce una raccolta di marcatori intelligenti in un foglio di calcolo.|
+| [set_data_source](/cells/python-net/it/aspose.cells/workbookdesigner/set_data_source/#str-aspose.cells.ICellsDataTable) | Imposta l'origine dati di un oggetto [`ICellsDataTable`](/cells/python-net/it/aspose.cells/icellsdatatable).|
+| [set_data_source](/cells/python-net/it/aspose.cells/workbookdesigner/set_data_source/#str-any) | Imposta l'associazione dati a una variabile.|
+| [process](/cells/python-net/it/aspose.cells/workbookdesigner/process/#) |Elabora gli indicatori intelligenti e popola i valori dell'origine dati.|
+| [process](/cells/python-net/it/aspose.cells/workbookdesigner/process/#bool) |Elabora gli indicatori intelligenti e popola i valori dell'origine dati.|
+| [process](/cells/python-net/it/aspose.cells/workbookdesigner/process/#int-bool) |Elabora gli indicatori intelligenti e popola i valori dell'origine dati.|
+| [clear_data_source](/cells/python-net/it/aspose.cells/workbookdesigner/clear_data_source/#) | Cancella tutte le origini dati.|
+| [set_json_data_source](/cells/python-net/it/aspose.cells/workbookdesigner/set_json_data_source/#str-str) |  |
+| [get_smart_markers](/cells/python-net/it/aspose.cells/workbookdesigner/get_smart_markers/#) | Restituisce una raccolta di indicatori intelligenti in un foglio di calcolo.|
 
 
 
@@ -68,6 +69,6 @@ wd.workbook.save("outSmartMarker_Designer.xls")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
-* classe [ICellsDataTable](/cells/python-net/it/aspose.cells/icellsdatatable)
-* classe [WorkbookDesigner](/cells/python-net/it/aspose.cells/workbookdesigner)
+* modulo [`aspose.cells`](..)
+* classe [`ICellsDataTable`](/cells/python-net/it/aspose.cells/icellsdatatable)
+* classe [`WorkbookDesigner`](/cells/python-net/it/aspose.cells/workbookdesigner)

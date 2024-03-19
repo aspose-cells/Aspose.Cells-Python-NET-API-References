@@ -1,9 +1,9 @@
 ---
 title: error_title недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ru/aspose.cells/validation/error_title/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def error_title(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Validation](/cells/python-net/ru/aspose.cells/validation)
+* модуль [`aspose.cells`](../../)
+* класс [`Validation`](/cells/python-net/ru/aspose.cells/validation)

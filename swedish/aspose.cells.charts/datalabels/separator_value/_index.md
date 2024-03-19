@@ -3,7 +3,7 @@ title: separator_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 340
 url: /sv/aspose.cells.charts/datalabels/separator_value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def separator_value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DataLabels](/cells/python-net/sv/aspose.cells.charts/datalabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DataLabels`](/cells/python-net/sv/aspose.cells.charts/datalabels)

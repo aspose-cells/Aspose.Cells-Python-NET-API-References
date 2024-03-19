@@ -1,18 +1,18 @@
 ---
-title: العد ThemeColorType
+title: ThemeColorType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2580
+weight: 2670
 url: /ar/aspose.cells/themecolortype/
 is_root: false
 ---
-##  العد ThemeColorType
-تعداد أنواع ألوان النسق.
+##  ThemeColorType التعداد
+تعداد أنواع ألوان السمة.
 
 
 
-يكشف نوع ThemeColorType الأعضاء التالية:
+يكشف النوع ThemeColorType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -29,9 +29,9 @@ is_root: false
 | ACCENT6 |  |
 | HYPERLINK |  |
 | FOLLOWED_HYPERLINK |  |
-| STYLE_COLOR | الداخلية المستخدمة.<br/> لون مستخدم في تعريفات السمة مما يعني استخدام لون النمط.|
+| STYLE_COLOR | الداخلية المستخدمة.<br/> لون يستخدم في تعريفات السمات مما يعني استخدام لون النمط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

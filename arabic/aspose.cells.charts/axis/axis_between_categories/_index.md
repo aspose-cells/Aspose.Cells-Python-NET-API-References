@@ -1,19 +1,19 @@
 ---
-title: axis_between_categories الملكية
+title: axis_between_categories عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells.charts/axis/axis_between_categories/
 is_root: false
 ---
-##  axis_between_categories الملكية
+##  axis_between_categories عقار
 
-يمثل إذا تقاطع محور القيمة مع محور الفئة بين الفئات.
+يمثل ما إذا كان محور القيمة يتقاطع مع محور الفئة بين الفئات.
 
 ###  ملاحظات
 
-تنطبق هذه الخاصية فقط على محاور الفئات ، ولا تنطبق على المخططات ثلاثية الأبعاد.
+تنطبق هذه الخاصية فقط على محاور الفئات، ولا تنطبق على المخططات ثلاثية الأبعاد.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def axis_between_categories(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)

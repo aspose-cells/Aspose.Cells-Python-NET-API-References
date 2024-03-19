@@ -3,7 +3,7 @@ title: FileFontSource sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 580
+weight: 610
 url: /tr/aspose.cells/filefontsource/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Dosya sisteminde depolanan tek TrueType yazı tipi dosyasını temsil eder.
 
 
 
-**Miras:** [FileFontSource](/cells/python-net/aspose.cells/filefontsource) → 
-[FontSourceBase](/cells/python-net/tr/aspose.cells/fontsourcebase)
+**Miras:** [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource) → 
+[`FontSourceBase`](/cells/python-net/tr/aspose.cells/fontsourcebase)
 
 
 
-FileFontSource türü aşağıdaki üyeleri gösterir:
+FileFontSource türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [FileFontSource(file_path)](/cells/python-net/tr/aspose.cells/filefontsource/__init__/#str) | Ctor.|
+| [__init__](/cells/python-net/tr/aspose.cells/filefontsource/__init__/#str) | Ctor.|
 
 
 ###  Özellikler
@@ -34,6 +34,6 @@ FileFontSource türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
-* sınıf [FileFontSource](/cells/python-net/tr/aspose.cells/filefontsource)
-* sınıf [FontSourceBase](/cells/python-net/tr/aspose.cells/fontsourcebase)
+* modül [`aspose.cells`](..)
+* sınıf [`FileFontSource`](/cells/python-net/tr/aspose.cells/filefontsource)
+* sınıf [`FontSourceBase`](/cells/python-net/tr/aspose.cells/fontsourcebase)

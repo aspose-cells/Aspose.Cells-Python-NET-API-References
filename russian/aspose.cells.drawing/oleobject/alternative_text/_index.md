@@ -1,15 +1,15 @@
 ---
 title: alternative_text недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 280
+weight: 300
 url: /ru/aspose.cells.drawing/oleobject/alternative_text/
 is_root: false
 ---
 ##  alternative_text недвижимость
 
-Возвращает или задает описательную (альтернативную) текстовую строку объекта [Shape](/cells/python-net/ru/aspose.cells.drawing/shape).
+Возвращает или задает описательную (альтернативную) текстовую строку объекта [`Shape`](/cells/python-net/ru/aspose.cells.drawing/shape).
 
 ###  Пример
 
@@ -29,6 +29,6 @@ def alternative_text(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
-* класс [Shape](/cells/python-net/ru/aspose.cells.drawing/shape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* класс [`Shape`](/cells/python-net/ru/aspose.cells.drawing/shape)

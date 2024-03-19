@@ -3,13 +3,13 @@ title: get_table_row_type_of_all Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 230
 url: /de/aspose.cells/globalizationsettings/get_table_row_type_of_all/
 is_root: false
 ---
-##  get_table_row_type_of_all() {#}
-Ruft den Typnamen von Tabellenzeilen ab, die aus allen Zeilen in der referenzierten Tabelle bestehen.
-Der Standardwert ist „Alle“, sodass in der Formel „#Alle“ alle Zeilen in der referenzierten Tabelle darstellt.
+##  get_table_row_type_of_all {#}
+Ruft den Typnamen der Tabellenzeilen ab, der aus allen Zeilen in der referenzierten Tabelle besteht.
+Der Standardwert ist „Alle“, daher stellt „#All“ in der Formel alle Zeilen in der referenzierten Tabelle dar.
 
 
 ###  Kehrt zurück
@@ -27,5 +27,5 @@ def get_table_row_type_of_all(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [GlobalizationSettings](/cells/python-net/de/aspose.cells/globalizationsettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`GlobalizationSettings`](/cells/python-net/de/aspose.cells/globalizationsettings)

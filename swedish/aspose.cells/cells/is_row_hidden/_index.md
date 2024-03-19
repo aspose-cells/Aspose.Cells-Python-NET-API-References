@@ -3,11 +3,11 @@ title: is_row_hidden metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 770
+weight: 760
 url: /sv/aspose.cells/cells/is_row_hidden/
 is_root: false
 ---
-##  is_row_hidden(row_index) {#int}
+##  is_row_hidden {#int}
 Kontrollerar om en rad vid ett givet index är dold.
 
 
@@ -29,5 +29,5 @@ def is_row_hidden(self, row_index):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

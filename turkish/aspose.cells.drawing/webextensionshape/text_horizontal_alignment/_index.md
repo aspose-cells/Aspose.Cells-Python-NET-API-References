@@ -3,7 +3,7 @@ title: text_horizontal_alignment mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 960
+weight: 970
 url: /tr/aspose.cells.drawing/webextensionshape/text_horizontal_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextAlignmentType](/cells/python-net/tr/aspose.cells/textalignmenttype)
-* sınıf [WebExtensionShape](/cells/python-net/tr/aspose.cells.drawing/webextensionshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextAlignmentType`](/cells/python-net/tr/aspose.cells/textalignmenttype)
+* sınıf [`WebExtensionShape`](/cells/python-net/tr/aspose.cells.drawing/webextensionshape)

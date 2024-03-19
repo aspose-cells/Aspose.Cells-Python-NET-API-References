@@ -1,13 +1,13 @@
 ---
-title: text_orientation_type الملكية
+title: text_orientation_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /ar/aspose.cells.drawing/lineshape/text_orientation_type/
 is_root: false
 ---
-##  text_orientation_type الملكية
+##  text_orientation_type عقار
 
 الحصول على نوع اتجاه النص للشكل وتعيينه.
 
@@ -31,6 +31,6 @@ def text_orientation_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineShape](/cells/python-net/ar/aspose.cells.drawing/lineshape)
-* فئة [TextOrientationType](/cells/python-net/ar/aspose.cells/textorientationtype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineShape`](/cells/python-net/ar/aspose.cells.drawing/lineshape)
+* فئة [`TextOrientationType`](/cells/python-net/ar/aspose.cells/textorientationtype)

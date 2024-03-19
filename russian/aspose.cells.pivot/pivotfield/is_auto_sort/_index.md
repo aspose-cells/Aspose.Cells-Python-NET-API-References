@@ -1,9 +1,9 @@
 ---
 title: is_auto_sort недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 350
+weight: 390
 url: /ru/aspose.cells.pivot/pivotfield/is_auto_sort/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_auto_sort(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotField](/cells/python-net/ru/aspose.cells.pivot/pivotfield)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotField`](/cells/python-net/ru/aspose.cells.pivot/pivotfield)

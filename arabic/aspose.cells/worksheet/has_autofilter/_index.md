@@ -1,15 +1,15 @@
 ---
-title: has_autofilter الملكية
+title: has_autofilter عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 520
 url: /ar/aspose.cells/worksheet/has_autofilter/
 is_root: false
 ---
-##  has_autofilter الملكية
+##  has_autofilter عقار
 
-يشير إلى ما إذا كانت ورقة العمل هذه تحتوي على عامل تصفية تلقائي.
+الإشارة إلى ما إذا كانت ورقة العمل هذه تحتوي على عامل تصفية تلقائي.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def has_autofilter(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

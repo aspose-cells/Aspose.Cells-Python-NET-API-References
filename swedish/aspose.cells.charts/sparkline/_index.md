@@ -3,7 +3,7 @@ title: Sparkline klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 270
 url: /sv/aspose.cells.charts/sparkline/
 is_root: false
 ---
@@ -25,8 +25,8 @@ Typen Sparkline avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [to_image(file_name, options)](/cells/python-net/sv/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Konverterar en sparkline till en bild.|
-| [to_image(stream, options)](/cells/python-net/sv/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Konverterar en sparkline till en bild.|
+| [to_image](/cells/python-net/sv/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Konverterar en sparkline till en bild.|
+| [to_image](/cells/python-net/sv/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Konverterar en sparkline till en bild.|
 
 
 
@@ -59,4 +59,4 @@ line.to_image("output.png", ImageOrPrintOptions())
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

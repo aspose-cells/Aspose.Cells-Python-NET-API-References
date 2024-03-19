@@ -1,13 +1,13 @@
 ---
-title: is_smart_art 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_smart_art属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 630
+weight: 650
 url: /zh/aspose.cells.drawing/textbox/is_smart_art/
 is_root: false
 ---
-## is_smart_art 属性
+## is_smart_art属性
 
 指示形状是否为智能艺术。
 
@@ -32,5 +32,5 @@ def is_smart_art(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [TextBox](/cells/python-net/zh/aspose.cells.drawing/textbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`TextBox`](/cells/python-net/zh/aspose.cells.drawing/textbox)

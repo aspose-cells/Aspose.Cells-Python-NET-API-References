@@ -1,15 +1,15 @@
 ---
-title: top_crop الملكية
+title: top_crop عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 140
 url: /ar/aspose.cells.drawing/msoformatpicture/top_crop/
 is_root: false
 ---
-##  top_crop الملكية
+##  top_crop عقار
 
-يمثل موقع الجزء العلوي من مستطيل الاقتصاص معبرًا عنه كنسبة من ارتفاع الصورة.
+يمثل موقع الجزء العلوي من مستطيل الاقتصاص، معبرًا عنه كنسبة من ارتفاع الصورة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def top_crop(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoFormatPicture](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoFormatPicture`](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)

@@ -3,13 +3,13 @@ title: height mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 450
 url: /tr/aspose.cells.drawing/checkbox/height/
 is_root: false
 ---
 ##  height mülk
 
-height şeklinin piksel birimi cinsinden temsil eder.
+Piksel birimi cinsinden şeklin height'ini temsil eder.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def height(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CheckBox](/cells/python-net/tr/aspose.cells.drawing/checkbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CheckBox`](/cells/python-net/tr/aspose.cells.drawing/checkbox)

@@ -3,7 +3,7 @@ title: upper_delta_y propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /es/aspose.cells.drawing/listbox/upper_delta_y/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtiene o establece el desplazamiento vertical de la forma desde la fila de la e
 
 ###  Observaciones
 
-El rango de valor es de 0 a 256.
+El rango de valores es de 0 a 256.
 
 ###  Ejemplo
 
@@ -34,5 +34,5 @@ def upper_delta_y(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ListBox](/cells/python-net/es/aspose.cells.drawing/listbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ListBox`](/cells/python-net/es/aspose.cells.drawing/listbox)

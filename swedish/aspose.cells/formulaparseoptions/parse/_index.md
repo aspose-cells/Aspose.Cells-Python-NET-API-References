@@ -3,7 +3,7 @@ title: parse fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 50
+weight: 60
 url: /sv/aspose.cells/formulaparseoptions/parse/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def parse(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormulaParseOptions](/cells/python-net/sv/aspose.cells/formulaparseoptions)
+* modul [`aspose.cells`](../../)
+* klass [`FormulaParseOptions`](/cells/python-net/sv/aspose.cells/formulaparseoptions)

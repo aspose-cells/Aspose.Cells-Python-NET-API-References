@@ -3,11 +3,11 @@ title: put_value metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 170
 url: /sv/aspose.cells/range/put_value/
 is_root: false
 ---
-##  put_value(string_value, is_converted, set_style) {#str-bool-bool}
+##  put_value {#str-bool-bool}
 Lägger ett värde i intervallet, om så är lämpligt kommer värdet att konverteras till annan datatyp och cellens talformat återställs.
 
 
@@ -27,5 +27,5 @@ def put_value(self, string_value, is_converted, set_style):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

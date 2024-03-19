@@ -3,12 +3,12 @@ title: طريقة ungroup_columns
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 950
+weight: 940
 url: /ar/aspose.cells/cells/ungroup_columns/
 is_root: false
 ---
-##  ungroup_columns(first_index, last_index) {#int-int}
-يفك تجميع الأعمدة.
+##  ungroup_columns {#int-int}
+فك تجميع الأعمدة.
 
 
 
@@ -26,5 +26,5 @@ def ungroup_columns(self, first_index, last_index):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

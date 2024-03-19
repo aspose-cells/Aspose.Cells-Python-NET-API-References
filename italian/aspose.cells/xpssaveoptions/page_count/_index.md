@@ -3,7 +3,7 @@ title: page_count proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 180
+weight: 190
 url: /it/aspose.cells/xpssaveoptions/page_count/
 is_root: false
 ---
@@ -45,5 +45,5 @@ def page_count(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [XpsSaveOptions](/cells/python-net/it/aspose.cells/xpssaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`XpsSaveOptions`](/cells/python-net/it/aspose.cells/xpssaveoptions)

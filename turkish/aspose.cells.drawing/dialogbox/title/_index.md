@@ -3,7 +3,7 @@ title: title mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /tr/aspose.cells.drawing/dialogbox/title/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [DialogBox](/cells/python-net/tr/aspose.cells.drawing/dialogbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`DialogBox`](/cells/python-net/tr/aspose.cells.drawing/dialogbox)

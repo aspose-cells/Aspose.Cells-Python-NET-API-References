@@ -3,24 +3,24 @@ title: top_in_shape mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /tr/aspose.cells.drawing/arcshape/top_in_shape/
 is_root: false
 ---
 ##  top_in_shape mülk
 
- Ana şeklin üst sınırından şeklin dikey uzaklığını temsil eder,
+ Şeklin üst kenarlığından dikey uzaklığını temsil eder,
 ana şeklin yüksekliğinin 1/4000'i biriminde.
 
 ###  Notlar
 
-Yalnızca bu şekil grup veya grafikte olduğunda geçerlidir.
+Yalnızca bu şekil grupta veya grafikte olduğunda geçerlidir.
 
 ###  Örnek
 
 ```python
 
-if shape.top_in_shape == 8000:
+if shape.is_in_group and shape.top_in_shape == 8000:
     shape.top_in_shape = 4000
 
 ```
@@ -35,5 +35,5 @@ def top_in_shape(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ArcShape](/cells/python-net/tr/aspose.cells.drawing/arcshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ArcShape`](/cells/python-net/tr/aspose.cells.drawing/arcshape)

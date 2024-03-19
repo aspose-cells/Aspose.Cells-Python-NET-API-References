@@ -1,44 +1,44 @@
 ---
-title: CommentCollection الدرجة
+title: CommentCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ar/aspose.cells/commentcollection/
 is_root: false
 ---
-##  CommentCollection الدرجة
-لتغليف مجموعة من [Comment](/cells/python-net/ar/aspose.cells/comment) عنصر.
+##  CommentCollection صف
+يغلف مجموعة من [`Comment`](/cells/python-net/ar/aspose.cells/comment) كائن.
 
 
 
-يكشف نوع CommentCollection الأعضاء التالية:
+يكشف النوع CommentCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [capacity](/cells/python-net/ar/aspose.cells/commentcollection/capacity) | الحصول على أو تحديد عدد العناصر التي يمكن أن تحتويها قائمة الصفيف.|
+| [capacity](/cells/python-net/ar/aspose.cells/commentcollection/capacity) | الحصول على أو تعيين عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add_threaded_comment(row, column, text, author)](/cells/python-net/ar/aspose.cells/commentcollection/add_threaded_comment/#int-int-str-ThreadedCommentAuthor) | يضيف تعليق مترابط.|
-| [add_threaded_comment(cell_name, text, author)](/cells/python-net/ar/aspose.cells/commentcollection/add_threaded_comment/#str-str-ThreadedCommentAuthor) | يضيف تعليق مترابط.|
-| [get_threaded_comments(row, column)](/cells/python-net/ar/aspose.cells/commentcollection/get_threaded_comments/#int-int) | الحصول على التعليقات المترابطة حسب فهرس الصف والعمود.|
-| [get_threaded_comments(cell_name)](/cells/python-net/ar/aspose.cells/commentcollection/get_threaded_comments/#str) | يحصل على التعليقات المترابطة حسب اسم الخلية.|
-| [add(row, column)](/cells/python-net/ar/aspose.cells/commentcollection/add/#int-int) | يضيف تعليقًا إلى المجموعة.|
-| [add(cell_name)](/cells/python-net/ar/aspose.cells/commentcollection/add/#str) | يضيف تعليقًا إلى المجموعة.|
-| [remove_at(cell_name)](/cells/python-net/ar/aspose.cells/commentcollection/remove_at/#str) | يزيل تعليق الخلية المحددة.|
-| [remove_at(row, column)](/cells/python-net/ar/aspose.cells/commentcollection/remove_at/#int-int) | يزيل تعليق الخلية المحددة.|
-| [copy_to(array)](/cells/python-net/ar/aspose.cells/commentcollection/copy_to/#list) | ينسخ قائمة المصفوفات بأكملها إلى قائمة مصفوفة متوافقة أحادية البعد ، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ar/aspose.cells/commentcollection/copy_to/#int-list-int-int) |ينسخ نطاقًا من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة ، بدءًا من الفهرس المحدد لقائمة الصفيف الهدف.|
-| [index_of(item, index)](/cells/python-net/ar/aspose.cells/commentcollection/index_of/#Comment-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of(item, index, count)](/cells/python-net/ar/aspose.cells/commentcollection/index_of/#Comment-int-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ بالفهرس المحدد ويحتوي على عدد محدد من العناصر.|
-| [last_index_of(item)](/cells/python-net/ar/aspose.cells/commentcollection/last_index_of/#Comment) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of(item, index)](/cells/python-net/ar/aspose.cells/commentcollection/last_index_of/#Comment-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of(item, index, count)](/cells/python-net/ar/aspose.cells/commentcollection/last_index_of/#Comment-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
-| [binary_search(item)](/cells/python-net/ar/aspose.cells/commentcollection/binary_search/#Comment) | يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.|
+| [add_threaded_comment](/cells/python-net/ar/aspose.cells/commentcollection/add_threaded_comment/#int-int-str-aspose.cells.ThreadedCommentAuthor) | يضيف تعليقًا مترابطة.|
+| [add_threaded_comment](/cells/python-net/ar/aspose.cells/commentcollection/add_threaded_comment/#str-str-aspose.cells.ThreadedCommentAuthor) | يضيف تعليقًا مترابطة.|
+| [get_threaded_comments](/cells/python-net/ar/aspose.cells/commentcollection/get_threaded_comments/#int-int) | يحصل على التعليقات المترابطة حسب فهرس الصف والعمود.|
+| [get_threaded_comments](/cells/python-net/ar/aspose.cells/commentcollection/get_threaded_comments/#str) |يحصل على التعليقات المترابطة حسب اسم الخلية.|
+| [add](/cells/python-net/ar/aspose.cells/commentcollection/add/#int-int) | يضيف تعليقًا إلى المجموعة.|
+| [add](/cells/python-net/ar/aspose.cells/commentcollection/add/#str) | يضيف تعليقًا إلى المجموعة.|
+| [remove_at](/cells/python-net/ar/aspose.cells/commentcollection/remove_at/#str) | يزيل تعليق الخلية المحددة.|
+| [remove_at](/cells/python-net/ar/aspose.cells/commentcollection/remove_at/#int-int) | يزيل تعليق الخلية المحددة.|
+| [copy_to](/cells/python-net/ar/aspose.cells/commentcollection/copy_to/#list) | نسخ قائمة الصفيف بأكملها إلى قائمة صفيف أحادية البعد متوافقة، بدءًا من بداية قائمة الصفيف الهدف.|
+| [copy_to](/cells/python-net/ar/aspose.cells/commentcollection/copy_to/#int-list-int-int) | نسخ نطاق من العناصر من قائمة المصفوفات إلى قائمة مصفوفات متوافقة أحادية البعد، بدءًا من الفهرس المحدد لقائمة المصفوفات المستهدفة.|
+| [index_of](/cells/python-net/ar/aspose.cells/commentcollection/index_of/#aspose.cells.Comment-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [index_of](/cells/python-net/ar/aspose.cells/commentcollection/index_of/#aspose.cells.Comment-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ عند الفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [last_index_of](/cells/python-net/ar/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
+| [last_index_of](/cells/python-net/ar/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [last_index_of](/cells/python-net/ar/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على العدد المحدد من العناصر وينتهي عند الفهرس المحدد.|
+| [binary_search](/cells/python-net/ar/aspose.cells/commentcollection/binary_search/#aspose.cells.Comment) | يبحث في قائمة المصفوفات التي تم فرزها بالكامل عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس الصفري للعنصر.|
 
 
 
@@ -53,5 +53,5 @@ comments = workbook.worksheets[0].comments
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](..)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

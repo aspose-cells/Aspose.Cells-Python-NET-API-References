@@ -3,7 +3,7 @@ title: ExternalLinkType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2030
+weight: 2100
 url: /tr/aspose.cells/externallinktype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Dış bağlantının türünü temsil eder.
 
 
 
-ExternalLinkType türü aşağıdaki üyeleri gösterir:
+ExternalLinkType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | DDE_LINK | DDE bağlantısını temsil eder.|
@@ -23,4 +23,4 @@ ExternalLinkType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: SortOrder uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2490
+weight: 2580
 url: /sv/aspose.cells/sortorder/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Typen SortOrder avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

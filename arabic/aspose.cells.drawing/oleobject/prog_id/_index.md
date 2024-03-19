@@ -1,15 +1,15 @@
 ---
-title: prog_id الملكية
+title: prog_id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /ar/aspose.cells.drawing/oleobject/prog_id/
 is_root: false
 ---
-##  prog_id الملكية
+##  prog_id عقار
 
-الحصول على أو تعيين ProgID لكائن OLE.
+الحصول على ProgID لكائن OLE أو تعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def prog_id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

@@ -3,17 +3,17 @@ title: sheet_set mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 250
 url: /tr/aspose.cells/xpssaveoptions/sheet_set/
 is_root: false
 ---
 ##  sheet_set mülk
 
-İşlenecek sayfaları alır veya ayarlar. Varsayılan, çalışma kitabındaki tüm görünür sayfalardır: [SheetSet.visible](/cells/python-net/tr/aspose.cells.rendering/sheetset#visible).
+Oluşturulacak sayfaları alır veya ayarlar. Varsayılan, çalışma kitabındaki tüm görünür sayfalardır: [`SheetSet.visible`](/cells/python-net/tr/aspose.cells.rendering/sheetset#visible).
 
 ###  Örnek
 
-Aşağıdaki kod yalnızca aktif sayfayı pdf'ye dönüştürür.
+Aşağıdaki kod yalnızca etkin sayfayı pdf'e dönüştürür.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -38,6 +38,6 @@ def sheet_set(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [SheetSet](/cells/python-net/tr/aspose.cells.rendering/sheetset)
-* sınıf [XpsSaveOptions](/cells/python-net/tr/aspose.cells/xpssaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`SheetSet`](/cells/python-net/tr/aspose.cells.rendering/sheetset)
+* sınıf [`XpsSaveOptions`](/cells/python-net/tr/aspose.cells/xpssaveoptions)

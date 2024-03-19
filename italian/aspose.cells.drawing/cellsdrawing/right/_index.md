@@ -3,7 +3,7 @@ title: right proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 850
+weight: 860
 url: /it/aspose.cells.drawing/cellsdrawing/right/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def right(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CellsDrawing](/cells/python-net/it/aspose.cells.drawing/cellsdrawing)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CellsDrawing`](/cells/python-net/it/aspose.cells.drawing/cellsdrawing)

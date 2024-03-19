@@ -1,33 +1,33 @@
 ---
-title: Top10 الدرجة
+title: Top10 صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1480
+weight: 1550
 url: /ar/aspose.cells/top10/
 is_root: false
 ---
-##  Top10 الدرجة
- صِف قاعدة التنسيق الشرطي Top10.
-تسلط قاعدة التنسيق الشرطي هذه الضوء على الخلايا التي تحتوي على
-تقع القيم في أعلى قوس N أو أسفل N ، كما هو محدد.
+##  Top10 صف
+ وصف قاعدة التنسيق الشرطي Top10.
+تقوم قاعدة التنسيق الشرطي هذه بتمييز الخلايا التي
+تقع القيم في قوس N العلوي أو السفلي، كما هو محدد.
 
 
 
-يكشف نوع Top10 الأعضاء التالية:
+يكشف النوع Top10 عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [Top10()](/cells/python-net/ar/aspose.cells/top10/__init__/#) |يقوم بإنشاء مثيل جديد لـ Top10|
+| [__init__](/cells/python-net/ar/aspose.cells/top10/__init__/#) | إنشاء مثيل جديد لـ Top10|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [is_percent](/cells/python-net/ar/aspose.cells/top10/is_percent) | الحصول على أو تحديد ما إذا كانت قاعدة "أعلى / أسفل" قاعدة "أعلى / أسفل ن" قاعدة.<br/> القيمة الافتراضية هي كاذبة.|
-| [is_bottom](/cells/python-net/ar/aspose.cells/top10/is_bottom) | احصل على أو عيّن ما إذا كانت قاعدة "أعلى / أسفل" قاعدة "سفلية".<br/> القيمة الافتراضية هي كاذبة.|
-| [rank](/cells/python-net/ar/aspose.cells/top10/rank) | الحصول على قيمة "n" أو تعيينها في قاعدة التنسيق الشرطي "top / bottom n".<br/>إذا كانت IsPercent صحيحة ، فيجب أن تتراوح القيمة بين 0 و 100.<br/>وإلا يجب أن يكون بين 0 و 1000.<br/> القيمة الافتراضية هي 10.|
+| [is_percent](/cells/python-net/ar/aspose.cells/top10/is_percent) | احصل على أو قم بتعيين ما إذا كانت قاعدة "أعلى/أسفل n" هي قاعدة "أعلى/أسفل n بالمائة".<br/> القيمة الافتراضية خاطئة.|
+| [is_bottom](/cells/python-net/ar/aspose.cells/top10/is_bottom) | احصل على أو قم بتعيين ما إذا كانت قاعدة "أعلى/أسفل n" هي قاعدة "أسفل n".<br/> القيمة الافتراضية خاطئة.|
+| [rank](/cells/python-net/ar/aspose.cells/top10/rank) | احصل على قيمة "n" أو قم بتعيينها في قاعدة التنسيق الشرطي "أعلى/أسفل n".<br/>إذا كانت قيمة IsPercent صحيحة، فيجب أن تتراوح القيمة بين 0 و100.<br/>وإلا فإنه يجب أن يكون بين 0 و 1000.<br/> القيمة الافتراضية هي 10.|
 
 
 
@@ -60,4 +60,4 @@ workbook.save("output.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

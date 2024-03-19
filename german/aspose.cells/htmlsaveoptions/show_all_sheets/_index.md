@@ -3,7 +3,7 @@ title: show_all_sheets Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 570
+weight: 640
 url: /de/aspose.cells/htmlsaveoptions/show_all_sheets/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Gibt an, ob beim Speichern als einzelne HTML-Datei alle Blätter angezeigt werde
 
 ###  Bemerkungen
 
-Funktioniert nur, wenn [HtmlSaveOptions.save_as_single_file](/cells/python-net/de/aspose.cells/htmlsaveoptions#save_as_single_file) wahr ist.
+Funktioniert nur, wenn [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/de/aspose.cells/htmlsaveoptions#save_as_single_file) True ist.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def show_all_sheets(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlSaveOptions](/cells/python-net/de/aspose.cells/htmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlSaveOptions`](/cells/python-net/de/aspose.cells/htmlsaveoptions)

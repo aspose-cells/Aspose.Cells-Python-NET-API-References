@@ -3,7 +3,7 @@ title: chart_settings propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 290
+weight: 300
 url: /fr/aspose.cells/globalizationsettings/chart_settings/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def chart_settings(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ChartGlobalizationSettings](/cells/python-net/fr/aspose.cells.charts/chartglobalizationsettings)
-* classe [GlobalizationSettings](/cells/python-net/fr/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* classe [`ChartGlobalizationSettings`](/cells/python-net/fr/aspose.cells.charts/chartglobalizationsettings)
+* classe [`GlobalizationSettings`](/cells/python-net/fr/aspose.cells/globalizationsettings)

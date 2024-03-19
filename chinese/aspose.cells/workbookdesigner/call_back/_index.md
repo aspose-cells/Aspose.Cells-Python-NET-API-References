@@ -1,13 +1,13 @@
 ---
-title: call_back 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: call_back属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 90
 url: /zh/aspose.cells/workbookdesigner/call_back/
 is_root: false
 ---
-## call_back 属性
+## call_back属性
 
 获取和设置处理smartmarker的回调接口。
 ### 定义：
@@ -21,6 +21,6 @@ def call_back(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ISmartMarkerCallBack](/cells/python-net/zh/aspose.cells/ismartmarkercallback)
-* 类 [WorkbookDesigner](/cells/python-net/zh/aspose.cells/workbookdesigner)
+* 模块[`aspose.cells`](../../)
+* 类 [`ISmartMarkerCallBack`](/cells/python-net/zh/aspose.cells/ismartmarkercallback)
+* 类 [`WorkbookDesigner`](/cells/python-net/zh/aspose.cells/workbookdesigner)

@@ -3,13 +3,13 @@ title: repair_load propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 540
+weight: 420
 url: /es/aspose.cells/workbooksettings/repair_load/
 is_root: false
 ---
 ##  repair_load propiedad
 
-Indica si la aplicación abrió por última vez el libro en modo seguro o de reparación.
+Indica si la aplicación abrió el libro por última vez en modo seguro o de reparación.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def repair_load(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WorkbookSettings](/cells/python-net/es/aspose.cells/workbooksettings)
+* módulo [`aspose.cells`](../../)
+* clase [`WorkbookSettings`](/cells/python-net/es/aspose.cells/workbooksettings)

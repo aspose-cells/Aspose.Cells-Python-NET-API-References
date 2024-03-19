@@ -3,7 +3,7 @@ title: selected_cells proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 910
+weight: 920
 url: /it/aspose.cells.drawing/listbox/selected_cells/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def selected_cells(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ListBox](/cells/python-net/it/aspose.cells.drawing/listbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ListBox`](/cells/python-net/it/aspose.cells.drawing/listbox)

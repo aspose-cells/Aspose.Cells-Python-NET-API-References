@@ -1,32 +1,33 @@
 ---
-title: العد PivotGroupByType
+title: PivotGroupByType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 310
 url: /ar/aspose.cells.pivot/pivotgroupbytype/
 is_root: false
 ---
-##  العد PivotGroupByType
-يمثل PivotTable groupby النوع.
+##  PivotGroupByType التعداد
+يمثل المجموعة حسب النوع.
 
 
 
-يكشف نوع PivotGroupByType الأعضاء التالية:
+يكشف النوع PivotGroupByType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| RANGE_OF_VALUES | يقدم مجموعة من القيم حسب النوع.|
-| SECONDS | يقدم مجموعة ثانية من النوع.|
-| MINUTES | يقدم مجموعة دقائق من النوع.|
-| HOURS | يقدم ساعات groupby النوع.|
-| DAYS | يقدم أيام groupby النوع.|
-| MONTHS | يقدم شهور groupby النوع.|
-| QUARTERS | يقدم أرباع groupby النوع.|
-| YEARS | يقدم سنوات groupby النوع.|
+| RANGE_OF_VALUES | المجموعة حسب الأرقام.|
+| NUMBERS | المجموعة حسب الأرقام.|
+| SECONDS | يعرض ثانية نوع المجموعة.|
+| MINUTES | يعرض دقائق المجموعة حسب النوع.|
+| HOURS |يعرض ساعات حسب نوع المجموعة.|
+| DAYS | يعرض أيام نوع المجموعة.|
+| MONTHS | يعرض أشهر المجموعة حسب النوع.|
+| QUARTERS | يعرض أرباع نوع المجموعة.|
+| YEARS | يعرض سنوات حسب نوع المجموعة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](..)
+* الوحدة [`aspose.cells.pivot`](..)

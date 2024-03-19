@@ -1,13 +1,13 @@
 ---
-title: theme الملكية
+title: theme عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 650
+weight: 660
 url: /ar/aspose.cells/workbook/theme/
 is_root: false
 ---
-##  theme الملكية
+##  theme عقار
 
 يحصل على اسم theme.
 ###  تعريف:
@@ -18,5 +18,5 @@ def theme(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

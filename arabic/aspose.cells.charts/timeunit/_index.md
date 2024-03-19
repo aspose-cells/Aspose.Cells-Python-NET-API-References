@@ -1,18 +1,18 @@
 ---
-title: العد TimeUnit
+title: TimeUnit التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 660
+weight: 670
 url: /ar/aspose.cells.charts/timeunit/
 is_root: false
 ---
-##  العد TimeUnit
+##  TimeUnit التعداد
 يمثل الوحدة الأساسية لمحور الفئة.
 
 
 
-يكشف نوع TimeUnit الأعضاء التالية:
+يكشف النوع TimeUnit عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

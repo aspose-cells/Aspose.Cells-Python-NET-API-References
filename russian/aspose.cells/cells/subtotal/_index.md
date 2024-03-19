@@ -1,13 +1,13 @@
 ---
 title: subtotal метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 920
+weight: 910
 url: /ru/aspose.cells/cells/subtotal/
 is_root: false
 ---
-##  subtotal(ca, group_by, function, total_list) {#CellArea-int-ConsolidationFunction-list}
+##  subtotal {#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list}
 Создает промежуточные итоги для диапазона.
 
 
@@ -20,13 +20,13 @@ def subtotal(self, ca, group_by, function, total_list):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/ru/aspose.cells/cellarea) | Диапазон|
-| group_by | int | Поле для группировки в виде целочисленного смещения, отсчитываемого от нуля.|
-| function | [ConsolidationFunction](/cells/python-net/ru/aspose.cells/consolidationfunction) | Функция промежуточного итога.|
-| total_list | list | Массив отсчитываемых от нуля смещений полей, указывающий поля, к которым добавляются промежуточные итоги.|
+| ca | [`CellArea`](/cells/python-net/ru/aspose.cells/cellarea) | Диапазон|
+| group_by | int | Поле для группировки, как целочисленное смещение, отсчитываемое от нуля.|
+| function | [`ConsolidationFunction`](/cells/python-net/ru/aspose.cells/consolidationfunction) | Функция промежуточного итога.|
+| total_list | list | Массив смещений полей, отсчитываемых от нуля, указывающий поля, к которым добавляются промежуточные итоги.|
 
 
-##  subtotal(ca, group_by, function, total_list, replace, page_breaks, summary_below_data) {#CellArea-int-ConsolidationFunction-list-bool-bool-bool}
+##  subtotal {#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list-bool-bool-bool}
 Создает промежуточные итоги для диапазона.
 
 
@@ -39,16 +39,16 @@ def subtotal(self, ca, group_by, function, total_list, replace, page_breaks, sum
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/ru/aspose.cells/cellarea) | Диапазон|
-| group_by | int | Поле для группировки в виде целочисленного смещения, отсчитываемого от нуля.|
-| function | [ConsolidationFunction](/cells/python-net/ru/aspose.cells/consolidationfunction) | Функция промежуточного итога.|
-| total_list | list | Массив отсчитываемых от нуля смещений полей, указывающий поля, к которым добавляются промежуточные итоги.|
-| replace | bool | Указывает, заменять ли текущие промежуточные итоги|
-| page_breaks | bool | Указывает, добавлять ли разрыв страницы между группами|
-| summary_below_data | bool | Указывает, следует ли добавлять сводку ниже данных.|
+| ca | [`CellArea`](/cells/python-net/ru/aspose.cells/cellarea) | Диапазон|
+| group_by | int | Поле для группировки, как целочисленное смещение, отсчитываемое от нуля.|
+| function | [`ConsolidationFunction`](/cells/python-net/ru/aspose.cells/consolidationfunction) | Функция промежуточного итога.|
+| total_list | list | Массив смещений полей, отсчитываемых от нуля, указывающий поля, к которым добавляются промежуточные итоги.|
+| replace | bool | Указывает, заменить ли текущие промежуточные итоги|
+| page_breaks | bool | Указывает, добавлять ли разрыв страницы между группами.|
+| summary_below_data | bool | Указывает, добавлять ли сводку ниже данных.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

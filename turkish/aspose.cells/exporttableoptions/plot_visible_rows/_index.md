@@ -3,7 +3,7 @@ title: plot_visible_rows mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 140
 url: /tr/aspose.cells/exporttableoptions/plot_visible_rows/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def plot_visible_rows(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExportTableOptions](/cells/python-net/tr/aspose.cells/exporttableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ExportTableOptions`](/cells/python-net/tr/aspose.cells/exporttableoptions)

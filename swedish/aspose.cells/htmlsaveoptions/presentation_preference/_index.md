@@ -3,7 +3,7 @@ title: presentation_preference fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 530
+weight: 600
 url: /sv/aspose.cells/htmlsaveoptions/presentation_preference/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def presentation_preference(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

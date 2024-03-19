@@ -3,7 +3,7 @@ title: PivotPageFields klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 170
 url: /sv/aspose.cells.pivot/pivotpagefields/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Typen PivotPageFields avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [PivotPageFields()](/cells/python-net/sv/aspose.cells.pivot/pivotpagefields/__init__/#) | Representerar pivotsidans fältobjekt.|
+| [__init__](/cells/python-net/sv/aspose.cells.pivot/pivotpagefields/__init__/#) | Representerar pivotsidans fältobjekt.|
 
 
 ###  Egenskaper
@@ -31,10 +31,10 @@ Typen PivotPageFields avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add_page_field(page_items)](/cells/python-net/sv/aspose.cells.pivot/pivotpagefields/add_page_field/#list) | Lägger till ett sidfält.|
-| [add_identify(range_index, page_item_index)](/cells/python-net/sv/aspose.cells.pivot/pivotpagefields/add_identify/#int-list) | Ställer in vilken objektetikett i varje sidfält som ska användas för att identifiera dataintervallet.<br/> pageItemIndex.Length måste vara lika med PageFieldCount, så lägg till sidfältet först.|
+| [add_page_field](/cells/python-net/sv/aspose.cells.pivot/pivotpagefields/add_page_field/#list) | Lägger till ett sidfält.|
+| [add_identify](/cells/python-net/sv/aspose.cells.pivot/pivotpagefields/add_identify/#int-list) | Ställer in vilken objektetikett i varje sidfält som ska användas för att identifiera dataintervallet.<br/> pageItemIndex.Length måste vara lika med PageFieldCount, så lägg till sidfältet först.|
 
 
 
 ###  Se även
-* modul [aspose.cells.pivot](..)
+* modul [`aspose.cells.pivot`](..)

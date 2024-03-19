@@ -1,15 +1,15 @@
 ---
 title: left_crop недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ru/aspose.cells.drawing/msoformatpicture/left_crop/
 is_root: false
 ---
 ##  left_crop недвижимость
 
-Представляет положение левого края выраженного прямоугольника обрезки, выраженное как отношение ширины изображения.
+Представляет расположение левой части прямоугольника обрезки, выраженное как отношение ширины изображения.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_crop(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoFormatPicture](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoFormatPicture`](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)

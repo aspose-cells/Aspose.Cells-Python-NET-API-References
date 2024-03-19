@@ -1,19 +1,19 @@
 ---
 title: get_local_function_name метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ru/aspose.cells/globalizationsettings/get_local_function_name/
 is_root: false
 ---
-##  get_local_function_name(standard_name) {#str}
-Получает зависящее от языкового стандарта имя функции в соответствии с заданным стандартным именем функции.
+##  get_local_function_name {#str}
+Получает имя функции, зависящей от языкового стандарта, в соответствии с заданным стандартным именем функции.
 
 
-###  Возвращает
+###  Возврат
 
-Имя функции, зависящее от локали. Локаль была указана рабочей книгой, для которой используются эти настройки.
+Имя функции, зависящее от локали. Языковой стандарт указан в книге, для которой используются эти параметры.
 
 
 ```python
@@ -24,10 +24,10 @@ def get_local_function_name(self, standard_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| standard_name | str | Стандартное (локаль en-US) имя функции.|
+| standard_name | str | Стандартное имя функции (язык EN-US).|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GlobalizationSettings](/cells/python-net/ru/aspose.cells/globalizationsettings)
+* модуль [`aspose.cells`](../../)
+* класс [`GlobalizationSettings`](/cells/python-net/ru/aspose.cells/globalizationsettings)

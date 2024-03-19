@@ -3,7 +3,7 @@ title: XlsbSaveOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1660
+weight: 1730
 url: /sv/aspose.cells/xlsbsaveoptions/
 is_root: false
 ---
@@ -12,8 +12,8 @@ Representerar alternativen för att spara xlsb-fil.
 
 
 
-**Arv:** [XlsbSaveOptions](/cells/python-net/aspose.cells/xlsbsaveoptions) → 
-[SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
+**Arv:** [`XlsbSaveOptions`](/cells/python-net/aspose.cells/xlsbsaveoptions) → 
+[`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)
 
 
 
@@ -22,8 +22,8 @@ Typen XlsbSaveOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [XlsbSaveOptions()](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/__init__/#) | Skapar xlsb-filsparalternativ.|
-| [XlsbSaveOptions(save_format)](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/__init__/#SaveFormat) | Skapar xlsb-filsparalternativ.|
+| [__init__](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/__init__/#) | Skapar xlsb-filsparalternativ.|
+| [__init__](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/__init__/#aspose.cells.SaveFormat) | Skapar xlsb-filsparalternativ.|
 
 
 ###  Egenskaper
@@ -36,16 +36,17 @@ Typen XlsbSaveOptions avslöjar följande medlemmar:
 | [merge_areas](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/merge_areas) | Anger om områdena för villkorlig formatering och validering ska slås samman innan filen sparas.|
 | [create_directory](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/create_directory) | Om sant och katalogen inte finns skapas katalogen automatiskt innan filen sparas.|
 | [sort_names](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/sort_names) | Anger om du sorterar definierade namn innan filen sparas.|
-| [sort_external_names](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/sort_external_names) |Anger om externt definierade namn sorteras innan filen sparas.|
+| [sort_external_names](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/sort_external_names) | Anger om externt definierade namn sorteras innan filen sparas.|
 | [refresh_chart_cache](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/refresh_chart_cache) | Anger om diagramcachedata uppdateras|
 | [warning_callback](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/warning_callback) | Får eller ställer in varningsåteruppringning.|
 | [update_smart_art](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/update_smart_art) | Indikerar om inställningen för smart konst uppdateras.<br/> Standardvärdet är falskt.|
-| [compression_type](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/compression_type) | Hämtar och ställer in komprimeringstypen för ooxml-fil.|
+| [compression_type](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/compression_type) |Hämtar och ställer in komprimeringstypen för ooxml-fil.|
 | [export_all_column_indexes](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/export_all_column_indexes) | Anger om alla kolumnindex för celler exporteras.|
+| [light_cells_data_provider](/cells/python-net/sv/aspose.cells/xlsbsaveoptions/light_cells_data_provider) | Dataleverantören för att spara arbetsbok i ljust läge.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
-* klass [XlsbSaveOptions](/cells/python-net/sv/aspose.cells/xlsbsaveoptions)
+* modul [`aspose.cells`](..)
+* klass [`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)
+* klass [`XlsbSaveOptions`](/cells/python-net/sv/aspose.cells/xlsbsaveoptions)

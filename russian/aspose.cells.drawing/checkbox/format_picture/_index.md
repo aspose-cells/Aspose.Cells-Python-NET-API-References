@@ -1,9 +1,9 @@
 ---
 title: format_picture недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 390
+weight: 400
 url: /ru/aspose.cells.drawing/checkbox/format_picture/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def format_picture(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CheckBox](/cells/python-net/ru/aspose.cells.drawing/checkbox)
-* класс [MsoFormatPicture](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CheckBox`](/cells/python-net/ru/aspose.cells.drawing/checkbox)
+* класс [`MsoFormatPicture`](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)

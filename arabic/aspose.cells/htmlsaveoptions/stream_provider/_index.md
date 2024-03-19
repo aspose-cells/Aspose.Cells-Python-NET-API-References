@@ -1,15 +1,15 @@
 ---
-title: stream_provider الملكية
+title: stream_provider عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 600
+weight: 670
 url: /ar/aspose.cells/htmlsaveoptions/stream_provider/
 is_root: false
 ---
-##  stream_provider الملكية
+##  stream_provider عقار
 
-الحصول على أو تعيين IStreamProvider لتصدير الكائنات.
+الحصول على IStreamProvider أو تعيينه لتصدير الكائنات.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def stream_provider(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
-* فئة [IStreamProvider](/cells/python-net/ar/aspose.cells/istreamprovider)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* فئة [`IStreamProvider`](/cells/python-net/ar/aspose.cells/istreamprovider)

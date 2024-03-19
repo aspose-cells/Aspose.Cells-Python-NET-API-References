@@ -3,7 +3,7 @@ title: mso_drawing_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 790
+weight: 800
 url: /es/aspose.cells.drawing/customxmlshape/mso_drawing_type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def mso_drawing_type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CustomXmlShape](/cells/python-net/es/aspose.cells.drawing/customxmlshape)
-* clase [MsoDrawingType](/cells/python-net/es/aspose.cells.drawing/msodrawingtype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CustomXmlShape`](/cells/python-net/es/aspose.cells.drawing/customxmlshape)
+* clase [`MsoDrawingType`](/cells/python-net/es/aspose.cells.drawing/msodrawingtype)

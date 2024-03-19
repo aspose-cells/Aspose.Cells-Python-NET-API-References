@@ -3,11 +3,11 @@ title: get_designer_storage metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 70
 url: /sv/aspose.cells.vba/vbamodulecollection/get_designer_storage/
 is_root: false
 ---
-##  get_designer_storage(name) {#str}
+##  get_designer_storage {#str}
 Representerar data från Designer.
 
 
@@ -28,5 +28,5 @@ Vi stöder inte att analysera dem. Bara för att kopiera.
 
 ###  Se även
 
-* modul [aspose.cells.vba](../../)
-* klass [VbaModuleCollection](/cells/python-net/sv/aspose.cells.vba/vbamodulecollection)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaModuleCollection`](/cells/python-net/sv/aspose.cells.vba/vbamodulecollection)

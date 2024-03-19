@@ -3,7 +3,7 @@ title: PivotTableStyleType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 230
+weight: 360
 url: /es/aspose.cells.pivot/pivottablestyletype/
 is_root: false
 ---
@@ -107,4 +107,4 @@ El tipo PivotTableStyleType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](..)
+* módulo [`aspose.cells.pivot`](..)

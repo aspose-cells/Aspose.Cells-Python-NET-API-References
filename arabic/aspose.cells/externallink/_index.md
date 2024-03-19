@@ -1,18 +1,18 @@
 ---
-title: ExternalLink الدرجة
+title: ExternalLink صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 590
 url: /ar/aspose.cells/externallink/
 is_root: false
 ---
-##  ExternalLink الدرجة
-يمثل ارتباطًا خارجيًا في مصنف.
+##  ExternalLink صف
+يمثل رابطًا خارجيًا في المصنف.
 
 
 
-يكشف نوع ExternalLink الأعضاء التالية:
+يكشف النوع ExternalLink عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
@@ -20,14 +20,14 @@ is_root: false
 | [type](/cells/python-net/ar/aspose.cells/externallink/type) | يحصل على نوع الارتباط الخارجي.|
 | [original_data_source](/cells/python-net/ar/aspose.cells/externallink/original_data_source) | يمثل مصدر البيانات المخزنة للارتباط الخارجي.|
 | [data_source](/cells/python-net/ar/aspose.cells/externallink/data_source) | يمثل مصدر بيانات الارتباط الخارجي.|
-| [is_referred](/cells/python-net/ar/aspose.cells/externallink/is_referred) | يشير إلى ما إذا كان الآخرون قد أشاروا إلى هذا الارتباط الخارجي.|
+| [is_referred](/cells/python-net/ar/aspose.cells/externallink/is_referred) | يشير إلى ما إذا كان هذا الارتباط الخارجي قد تمت الإشارة إليه من قبل الآخرين.|
 | [is_visible](/cells/python-net/ar/aspose.cells/externallink/is_visible) | يشير إلى ما إذا كان هذا الارتباط الخارجي مرئيًا في MS Excel.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add_external_name(text, refer_to)](/cells/python-net/ar/aspose.cells/externallink/add_external_name/#str-str) | يضيف اسمًا خارجيًا.|
+| [add_external_name](/cells/python-net/ar/aspose.cells/externallink/add_external_name/#str-str) | يضيف اسمًا خارجيًا.|
 
 
 
@@ -46,4 +46,4 @@ externalLink.data_source = "d:\\link.xls"
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

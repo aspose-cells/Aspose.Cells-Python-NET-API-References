@@ -3,7 +3,7 @@ title: show_cell_range fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 400
 url: /sv/aspose.cells.charts/datalabels/show_cell_range/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_cell_range(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DataLabels](/cells/python-net/sv/aspose.cells.charts/datalabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DataLabels`](/cells/python-net/sv/aspose.cells.charts/datalabels)

@@ -3,7 +3,7 @@ title: CalculationPrecisionStrategy uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1820
+weight: 1890
 url: /sv/aspose.cells/calculationprecisionstrategy/
 is_root: false
 ---
@@ -22,9 +22,9 @@ Typen CalculationPrecisionStrategy avslöjar följande medlemmar:
 | :- | :- |
 | NONE | Ingen strategi tillämpas på beräkningen.<br/>När du beräknar använd bara det ursprungliga dubbelvärdet som operand och returnera resultatet direkt.<br/> Mest effektiv för prestanda och tillämplig i de flesta fall.|
 | ROUND | Avrundar beräkningsresultatet med signifikanta siffror.|
-| DECIMAL | Använder decimal som operander när det är möjligt.<br/> Mest ineffektivt för prestanda.|
+| DECIMAL |Använder decimal som operander när det är möjligt.<br/> Mest ineffektivt för prestanda.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

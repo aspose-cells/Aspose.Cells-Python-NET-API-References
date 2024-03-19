@@ -1,9 +1,9 @@
 ---
 title: function_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ru/aspose.cells/calculationdata/function_name/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def function_name(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CalculationData](/cells/python-net/ru/aspose.cells/calculationdata)
+* модуль [`aspose.cells`](../../)
+* класс [`CalculationData`](/cells/python-net/ru/aspose.cells/calculationdata)

@@ -3,7 +3,7 @@ title: last_cell proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1080
+weight: 1070
 url: /it/aspose.cells/cells/last_cell/
 is_root: false
 ---
@@ -22,6 +22,6 @@ def last_cell(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

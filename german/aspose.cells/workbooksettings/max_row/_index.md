@@ -3,13 +3,13 @@ title: max_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 390
+weight: 310
 url: /de/aspose.cells/workbooksettings/max_row/
 is_root: false
 ---
 ##  max_row Eigentum
 
-Ruft den maximalen Zeilenindex ab, nullbasiert.
+Ruft den maximalen Zeilenindex nullbasiert ab.
 
 ###  Bemerkungen
 
@@ -22,5 +22,5 @@ def max_row(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorkbookSettings](/cells/python-net/de/aspose.cells/workbooksettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookSettings`](/cells/python-net/de/aspose.cells/workbooksettings)

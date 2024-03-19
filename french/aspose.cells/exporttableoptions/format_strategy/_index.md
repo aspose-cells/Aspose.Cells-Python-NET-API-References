@@ -3,13 +3,13 @@ title: format_strategy propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 90
 url: /fr/aspose.cells/exporttableoptions/format_strategy/
 is_root: false
 ---
 ##  format_strategy propriété
 
-Obtient et définit la stratégie de format lors de l'exportation de la valeur en tant que valeur de chaîne.
+Obtient et définit la stratégie de format lors de l'exportation de la valeur sous forme de valeur de chaîne.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def format_strategy(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellValueFormatStrategy](/cells/python-net/fr/aspose.cells/cellvalueformatstrategy)
-* classe [ExportTableOptions](/cells/python-net/fr/aspose.cells/exporttableoptions)
+* module [`aspose.cells`](../../)
+* classe [`CellValueFormatStrategy`](/cells/python-net/fr/aspose.cells/cellvalueformatstrategy)
+* classe [`ExportTableOptions`](/cells/python-net/fr/aspose.cells/exporttableoptions)

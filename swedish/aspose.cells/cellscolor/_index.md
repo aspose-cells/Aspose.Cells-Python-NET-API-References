@@ -3,7 +3,7 @@ title: CellsColor klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 200
 url: /sv/aspose.cells/cellscolor/
 is_root: false
 ---
@@ -23,15 +23,15 @@ Typen CellsColor avslöjar följande medlemmar:
 | [color_index](/cells/python-net/sv/aspose.cells/cellscolor/color_index) | Hämtar och ställer in färgindex i färgpaletten. Gäller endast indexerad färg.|
 | [color](/cells/python-net/sv/aspose.cells/cellscolor/color) | Hämtar och ställer in RGB-färgen.|
 | [argb](/cells/python-net/sv/aspose.cells/cellscolor/argb) | Hämtar och ställer in färgen från ett 32-bitars ARGB-värde.|
-| [transparency](/cells/python-net/sv/aspose.cells/cellscolor/transparency) | Hämtar och ställer in transparens som ett värde från 0,0 (ogenomskinlig) till 1,0 (ren).|
+| [transparency](/cells/python-net/sv/aspose.cells/cellscolor/transparency) |Hämtar och ställer in transparens som ett värde från 0,0 (ogenomskinlig) till 1,0 (ren).|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [set_tint_of_shape_color(tint)](/cells/python-net/sv/aspose.cells/cellscolor/set_tint_of_shape_color/#float) | Ställ in nyansen på formens färg|
+| [set_tint_of_shape_color](/cells/python-net/sv/aspose.cells/cellscolor/set_tint_of_shape_color/#float) | Ställ in nyansen på formens färg|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

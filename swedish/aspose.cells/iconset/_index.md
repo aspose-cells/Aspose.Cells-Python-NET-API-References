@@ -3,7 +3,7 @@ title: IconSet klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 900
+weight: 940
 url: /sv/aspose.cells/iconset/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Typen IconSet avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [cf_icons](/cells/python-net/sv/aspose.cells/iconset/cf_icons) | Få [ConditionalFormattingIcon](/cells/python-net/sv/aspose.cells/conditionalformattingicon) från samlingen|
+| [cf_icons](/cells/python-net/sv/aspose.cells/iconset/cf_icons) | Få [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon) från samlingen|
 | [cfvos](/cells/python-net/sv/aspose.cells/iconset/cfvos) | Hämta CFValueObjects-instansen.|
 | [type](/cells/python-net/sv/aspose.cells/iconset/type) | Hämta eller Ställ in vilken typ av ikonuppsättning som ska visas.<br/>Att ställa in typen kommer att automatiskt kontrollera om det aktuella Cfvos antal är<br/> överensstämmer med den nya typen. Om inte överensstämmelse kommer gamla Cfvos att rengöras och<br/> standard Cfvos kommer att läggas till.|
 | [is_custom](/cells/python-net/sv/aspose.cells/iconset/is_custom) | Indikerar om ikonuppsättningen är anpassad.<br/> Standardvärdet är falskt.|
@@ -67,5 +67,5 @@ workbook.save("book1.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [ConditionalFormattingIcon](/cells/python-net/sv/aspose.cells/conditionalformattingicon)
+* modul [`aspose.cells`](..)
+* klass [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon)

@@ -1,16 +1,16 @@
 ---
-title: export_document_properties الملكية
+title: export_document_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 220
 url: /ar/aspose.cells/htmlsaveoptions/export_document_properties/
 is_root: false
 ---
-##  export_document_properties الملكية
+##  export_document_properties عقار
 
- الإشارة إلى ما إذا كان تصدير خصائص المستند. القيمة الافتراضية صحيحة ، إذا كنت تريد الاستيراد
-ملف html أو mht إلى التفوق ، يرجى الاحتفاظ بالقيمة الافتراضية.
+ تشير إلى ما إذا كان سيتم تصدير خصائص المستند أم لا. القيمة الافتراضية صحيحة. إذا كنت تريد الاستيراد
+ملف html أو mht للتفوق، يرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def export_document_properties(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

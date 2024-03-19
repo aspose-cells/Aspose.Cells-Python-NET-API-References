@@ -1,15 +1,15 @@
 ---
-title: is_threaded_comment الملكية
+title: is_threaded_comment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells/comment/is_threaded_comment/
 is_root: false
 ---
-##  is_threaded_comment الملكية
+##  is_threaded_comment عقار
 
-يشير إلى ما إذا كان هذا التعليق تعليقًا مترابطًا.
+يشير إلى ما إذا كان هذا التعليق تعليقًا مترابطة.
 
 ###  مثال
 
@@ -27,5 +27,5 @@ def is_threaded_comment(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

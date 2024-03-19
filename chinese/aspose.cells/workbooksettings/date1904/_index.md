@@ -1,13 +1,13 @@
 ---
-title: date1904 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: date1904属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 190
+weight: 150
 url: /zh/aspose.cells/workbooksettings/date1904/
 is_root: false
 ---
-## date1904 属性
+## date1904属性
 
 获取或设置一个值，该值表示工作簿是否使用 1904 日期系统。
 ### 定义：
@@ -21,5 +21,5 @@ def date1904(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)

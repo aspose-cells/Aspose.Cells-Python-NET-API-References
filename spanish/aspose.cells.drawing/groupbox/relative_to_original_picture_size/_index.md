@@ -3,7 +3,7 @@ title: relative_to_original_picture_size propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 840
+weight: 850
 url: /es/aspose.cells.drawing/groupbox/relative_to_original_picture_size/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def relative_to_original_picture_size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupBox](/cells/python-net/es/aspose.cells.drawing/groupbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupBox`](/cells/python-net/es/aspose.cells.drawing/groupbox)

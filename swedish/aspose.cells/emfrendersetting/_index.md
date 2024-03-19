@@ -3,7 +3,7 @@ title: EmfRenderSetting uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1990
+weight: 2060
 url: /sv/aspose.cells/emfrendersetting/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Typen EmfRenderSetting avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

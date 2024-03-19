@@ -1,9 +1,9 @@
 ---
 title: height недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 420
+weight: 440
 url: /ru/aspose.cells.drawing/textbox/height/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def height(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [TextBox](/cells/python-net/ru/aspose.cells.drawing/textbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`TextBox`](/cells/python-net/ru/aspose.cells.drawing/textbox)

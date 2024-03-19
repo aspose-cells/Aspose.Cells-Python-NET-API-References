@@ -3,7 +3,7 @@ title: width_pt fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /sv/aspose.cells.drawing/webextensionshape/width_pt/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representerar formens bredd, i punktenhet.
 ```python
 
 if shape.width_pt == 3:
-    shape.width_pt = 1
+    shape.width_pt = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def width_pt(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [WebExtensionShape](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`WebExtensionShape`](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)

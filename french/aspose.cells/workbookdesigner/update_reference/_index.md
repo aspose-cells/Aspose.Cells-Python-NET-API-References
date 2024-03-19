@@ -3,13 +3,13 @@ title: update_reference propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 120
+weight: 130
 url: /fr/aspose.cells/workbookdesigner/update_reference/
 is_root: false
 ---
 ##  update_reference propriété
 
-Indique si les références dans d'autres feuilles de calcul seront mises à jour.
+Indique si les références dans d’autres feuilles de calcul seront mises à jour.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [WorkbookDesigner](/cells/python-net/fr/aspose.cells/workbookdesigner)
+* module [`aspose.cells`](../../)
+* classe [`WorkbookDesigner`](/cells/python-net/fr/aspose.cells/workbookdesigner)

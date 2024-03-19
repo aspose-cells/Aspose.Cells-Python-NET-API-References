@@ -3,13 +3,13 @@ title: update_smart_art fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 290
 url: /sv/aspose.cells/paginatedsaveoptions/update_smart_art/
 is_root: false
 ---
 ##  update_smart_art fastighet
 
-Anger om inställningen för smart konst uppdateras.
+Indikerar om inställningen för smart konst uppdateras.
 Standardvärdet är falskt.
 
 ###  Anmärkningar
@@ -26,5 +26,5 @@ def update_smart_art(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PaginatedSaveOptions](/cells/python-net/sv/aspose.cells/paginatedsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PaginatedSaveOptions`](/cells/python-net/sv/aspose.cells/paginatedsaveoptions)

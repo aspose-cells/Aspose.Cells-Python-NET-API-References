@@ -3,20 +3,20 @@ title: left_cm propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 670
+weight: 680
 url: /fr/aspose.cells.drawing/shape/left_cm/
 is_root: false
 ---
 ##  left_cm propriété
 
-Représente le décalage horizontal de la forme par rapport à sa colonne de gauche, en centimètres.
+Représente le décalage horizontal de la forme par rapport à sa colonne de gauche, en unités de centimètres.
 
 ###  Exemple
 
 ```python
 
 if shape.left_cm == 3:
-    shape.left_cm = 1
+    shape.left_cm = 1.0
 
 ```
 ###  Définition:
@@ -30,5 +30,5 @@ def left_cm(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Shape](/cells/python-net/fr/aspose.cells.drawing/shape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Shape`](/cells/python-net/fr/aspose.cells.drawing/shape)

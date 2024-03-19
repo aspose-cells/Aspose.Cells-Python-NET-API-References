@@ -1,13 +1,13 @@
 ---
 title: PdfSecurityOptions конструктор
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 10
 url: /ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions/__init__/
 is_root: false
 ---
-##  PdfSecurityOptions() {#}
+##  __в этом__ {#}
 Конструктор PdfSecurityOptions
 
 
@@ -47,5 +47,5 @@ wb.save("output.pdf", pdfSaveOptions)
 
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering.pdfsecurity](../../)
-* класс [PdfSecurityOptions](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* модуль [`aspose.cells.rendering.pdfsecurity`](../../)
+* класс [`PdfSecurityOptions`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

@@ -1,15 +1,15 @@
 ---
 title: update_smart_art недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 280
+weight: 290
 url: /ru/aspose.cells/paginatedsaveoptions/update_smart_art/
 is_root: false
 ---
 ##  update_smart_art недвижимость
 
-Указывает, обновляются ли настройки смарт-арта.
+Указывает, обновляются ли настройки Smart Art.
 Значение по умолчанию неверно.
 
 ###  Примечания
@@ -26,5 +26,5 @@ def update_smart_art(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PaginatedSaveOptions](/cells/python-net/ru/aspose.cells/paginatedsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PaginatedSaveOptions`](/cells/python-net/ru/aspose.cells/paginatedsaveoptions)

@@ -1,15 +1,15 @@
 ---
-title: paths الملكية
+title: paths عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 830
+weight: 850
 url: /ar/aspose.cells.drawing/radiobutton/paths/
 is_root: false
 ---
-##  paths الملكية
+##  paths عقار
 
-الحصول على paths للشكل الهندسي المخصص.
+يحصل على paths لشكل هندسي مخصص.
 
 ###  مثال
 
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
-* فئة [ShapePathCollection](/cells/python-net/ar/aspose.cells.drawing/shapepathcollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* فئة [`ShapePathCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepathcollection)

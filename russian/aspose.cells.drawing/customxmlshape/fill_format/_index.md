@@ -1,9 +1,9 @@
 ---
 title: fill_format недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 340
+weight: 360
 url: /ru/aspose.cells.drawing/customxmlshape/fill_format/
 is_root: false
 ---
@@ -14,8 +14,8 @@ is_root: false
 ###  Примечания
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
- пожалуйста, используйте свойство Shape.Fill.
- Этот ресурс будет удален через 12 месяцев, начиная с июля 2016 года.
+ используйте свойство Shape.Fill.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с июля 2016 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -25,6 +25,6 @@ def fill_format(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CustomXmlShape](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)
-* класс [MsoFillFormat](/cells/python-net/ru/aspose.cells.drawing/msofillformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CustomXmlShape`](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)
+* класс [`MsoFillFormat`](/cells/python-net/ru/aspose.cells.drawing/msofillformat)

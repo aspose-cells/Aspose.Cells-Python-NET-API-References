@@ -3,12 +3,12 @@ title: get_selected_ranges Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 180
 url: /de/aspose.cells/worksheet/get_selected_ranges/
 is_root: false
 ---
-##  get_selected_ranges() {#}
-Ruft ausgewählte Zellbereiche im Designer-Arbeitsblatt ab.
+##  get_selected_ranges {#}
+Ruft ausgewählte Zellbereiche in der Designer-Tabelle ab.
 
 
 ###  Kehrt zurück
@@ -26,5 +26,5 @@ def get_selected_ranges(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Worksheet](/cells/python-net/de/aspose.cells/worksheet)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

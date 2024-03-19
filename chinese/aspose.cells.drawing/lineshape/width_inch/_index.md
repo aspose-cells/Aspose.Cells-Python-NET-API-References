@@ -1,22 +1,22 @@
 ---
-title: width_inch 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: width_inch属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /zh/aspose.cells.drawing/lineshape/width_inch/
 is_root: false
 ---
-## width_inch 属性
+## width_inch属性
 
-表示形状的宽度，以英寸为单位。
+表示形状的宽度，单位为英寸。
 
 ### 例子
 
 ```python
 
 if shape.width_inch == 3:
-    shape.width_inch = 1
+    shape.width_inch = 1.0
 
 ```
 ### 定义：
@@ -30,5 +30,5 @@ def width_inch(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [LineShape](/cells/python-net/zh/aspose.cells.drawing/lineshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`LineShape`](/cells/python-net/zh/aspose.cells.drawing/lineshape)

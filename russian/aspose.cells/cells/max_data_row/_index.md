@@ -1,9 +1,9 @@
 ---
 title: max_data_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1110
+weight: 1100
 url: /ru/aspose.cells/cells/max_data_row/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def max_data_row(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

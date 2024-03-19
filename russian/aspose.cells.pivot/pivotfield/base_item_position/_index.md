@@ -1,9 +1,9 @@
 ---
 title: base_item_position недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 210
+weight: 240
 url: /ru/aspose.cells.pivot/pivotfield/base_item_position/
 is_root: false
 ---
@@ -24,6 +24,6 @@ def base_item_position(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotField](/cells/python-net/ru/aspose.cells.pivot/pivotfield)
-* класс [PivotItemPosition](/cells/python-net/ru/aspose.cells.pivot/pivotitemposition)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotField`](/cells/python-net/ru/aspose.cells.pivot/pivotfield)
+* класс [`PivotItemPosition`](/cells/python-net/ru/aspose.cells.pivot/pivotitemposition)

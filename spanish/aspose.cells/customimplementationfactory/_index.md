@@ -3,12 +3,12 @@ title: CustomImplementationFactory clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 390
+weight: 410
 url: /es/aspose.cells/customimplementationfactory/
 is_root: false
 ---
 ##  CustomImplementationFactory clase
-Factory para crear algunas instancias que el usuario puede volver a implementar para fines especiales.
+Fábrica para crear algunas instancias que el usuario puede volver a implementar para fines especiales.
 
 
 
@@ -17,9 +17,9 @@ El tipo CustomImplementationFactory expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [CustomImplementationFactory()](/cells/python-net/es/aspose.cells/customimplementationfactory/__init__/#) | Construye una nueva instancia de CustomImplementationFactory|
+| [__init__](/cells/python-net/es/aspose.cells/customimplementationfactory/__init__/#) | Construye una nueva instancia de CustomImplementationFactory|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

@@ -3,17 +3,17 @@ title: طريقة get
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 300
 url: /ar/aspose.cells/cells/get/
 is_root: false
 ---
-##  get(cell_name) {#str}
-أضف API for Python عبر .Net. نظرًا لأن [string cellName] غير مدعوم
+##  get {#str}
+أضف API for Python عبر .Net. نظرًا لأن هذا [اسم خلية السلسلة] غير مدعوم
 
 
 ###  عائدات
 
-عنصر [Cell](/cells/python-net/ar/aspose.cells/cell)
+كائن [`Cell`](/cells/python-net/ar/aspose.cells/cell)
 
 
 ```python
@@ -24,16 +24,16 @@ def get(self, cell_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| cell_name | str | Cell الاسم متضمنًا حرف العمود ورقم الصف ، على سبيل المثال A5.|
+| cell_name | str | Cell الاسم، بما في ذلك حرف العمود الخاص به ورقم الصف، على سبيل المثال A5.|
 
 
-##  get(row, column) {#int-int}
-أضف API for Python عبر .Net.s نظرًا لأن هذا [الصف int ، العمود int] غير مدعوم
+##  get {#int-int}
+أضف API for Python عبر .Net. نظرًا لأن هذا [int Row، int column] غير مدعوم
 
 
 ###  عائدات
 
-الكائن [Cell](/cells/python-net/ar/aspose.cells/cell).
+الكائن [`Cell`](/cells/python-net/ar/aspose.cells/cell).
 
 
 ```python
@@ -44,12 +44,12 @@ def get(self, row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس الصف.|
-| column | int | فهرس العمود.|
+| row | int | مؤشر الصف.|
+| column | int | مؤشر العمود.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

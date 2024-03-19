@@ -3,13 +3,13 @@ title: original_items Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 480
+weight: 520
 url: /de/aspose.cells.pivot/pivotfield/original_items/
 is_root: false
 ---
 ##  original_items Eigentum
 
-Holen Sie sich die ursprünglichen Basisartikel;
+Holen Sie sich die Original-Basisgegenstände;
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def original_items(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotField](/cells/python-net/de/aspose.cells.pivot/pivotfield)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotField`](/cells/python-net/de/aspose.cells.pivot/pivotfield)

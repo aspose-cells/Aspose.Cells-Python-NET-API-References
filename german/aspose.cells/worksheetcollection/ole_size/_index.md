@@ -3,7 +3,7 @@ title: ole_size Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 330
 url: /de/aspose.cells/worksheetcollection/ole_size/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ruft die angezeigte Größe ab und legt sie fest, wenn die Arbeitsmappendatei al
 
 ###  Bemerkungen
 
-Null bedeutet keine Ole-Größeneinstellung.
+Null bedeutet, dass keine alte Größeneinstellung erfolgt.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def ole_size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorksheetCollection](/cells/python-net/de/aspose.cells/worksheetcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorksheetCollection`](/cells/python-net/de/aspose.cells/worksheetcollection)

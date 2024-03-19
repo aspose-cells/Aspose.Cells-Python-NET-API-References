@@ -3,13 +3,13 @@ title: is_selected mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 600
+weight: 620
 url: /tr/aspose.cells/worksheet/is_selected/
 is_root: false
 ---
 ##  is_selected mülk
 
-Çalışma kitabı açıldığında bu çalışma sayfasının seçili olup olmadığını gösterir.
+Çalışma kitabı açıldığında bu çalışma sayfasının seçilip seçilmediğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_selected(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

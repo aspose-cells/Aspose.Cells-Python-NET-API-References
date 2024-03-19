@@ -1,15 +1,15 @@
 ---
-title: signature_line الملكية
+title: signature_line عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /ar/aspose.cells.drawing/picture/signature_line/
 is_root: false
 ---
-##  signature_line الملكية
+##  signature_line عقار
 
-يحصل على خط التوقيع ويعينه
+يحصل ويحدد خط التوقيع
 
 ###  مثال
 
@@ -46,6 +46,6 @@ def signature_line(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
-* فئة [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)
+* فئة [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline)

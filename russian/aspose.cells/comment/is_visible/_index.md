@@ -1,15 +1,15 @@
 ---
 title: is_visible недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ru/aspose.cells/comment/is_visible/
 is_root: false
 ---
 ##  is_visible недвижимость
 
-Указывает, виден комментарий или нет.
+Указывает, виден ли комментарий или нет.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def is_visible(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)

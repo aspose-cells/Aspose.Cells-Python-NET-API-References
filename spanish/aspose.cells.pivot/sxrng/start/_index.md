@@ -8,8 +8,6 @@ url: /es/aspose.cells.pivot/sxrng/start/
 is_root: false
 ---
 ##  start propiedad
-
-Representa el objeto start para el rango de grupo.
 ###  Definición:
 ```python
 @property
@@ -18,5 +16,5 @@ def start(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [SxRng](/cells/python-net/es/aspose.cells.pivot/sxrng)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`SxRng`](/cells/python-net/es/aspose.cells.pivot/sxrng)

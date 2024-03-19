@@ -1,15 +1,15 @@
 ---
-title: is_printable 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_printable属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 620
+weight: 630
 url: /zh/aspose.cells.drawing/combobox/is_printable/
 is_root: false
 ---
-## is_printable 属性
+## is_printable属性
 
-如果对象可打印则为真
+如果对象可打印则为 True
 
 ### 例子
 
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ComboBox](/cells/python-net/zh/aspose.cells.drawing/combobox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ComboBox`](/cells/python-net/zh/aspose.cells.drawing/combobox)

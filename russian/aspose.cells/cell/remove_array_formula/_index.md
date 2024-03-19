@@ -1,13 +1,13 @@
 ---
 title: remove_array_formula метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 280
+weight: 290
 url: /ru/aspose.cells/cell/remove_array_formula/
 is_root: false
 ---
-##  remove_array_formula(leave_normal_formula) {#bool}
+##  remove_array_formula {#bool}
 Удалить формулу массива.
 
 
@@ -25,5 +25,5 @@ def remove_array_formula(self, leave_normal_formula):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

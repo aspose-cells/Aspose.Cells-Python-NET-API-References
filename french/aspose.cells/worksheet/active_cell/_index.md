@@ -3,7 +3,7 @@ title: active_cell propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 330
+weight: 350
 url: /fr/aspose.cells/worksheet/active_cell/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def active_cell(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

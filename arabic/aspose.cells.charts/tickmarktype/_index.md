@@ -1,28 +1,28 @@
 ---
-title: العد TickMarkType
+title: TickMarkType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 650
+weight: 660
 url: /ar/aspose.cells.charts/tickmarktype/
 is_root: false
 ---
-##  العد TickMarkType
+##  TickMarkType التعداد
 يمثل نوع علامة التجزئة للمحور المحدد.
 
 
 
-يكشف نوع TickMarkType الأعضاء التالية:
+يكشف النوع TickMarkType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| CROSS | نوع علامة التجزئة هو تقاطع.|
-| INSIDE | نوع علامة التجزئة هو بالداخل.|
-| NONE |نوع علامة التجزئة هو بلا.|
-| OUTSIDE | نوع علامة التجزئة هو خارجي|
+| CROSS | نوع علامة التجزئة هو الصليب.|
+| INSIDE | نوع علامة التجزئة موجود بالداخل.|
+| NONE | نوع علامة التجزئة هو لا شيء.|
+| OUTSIDE | نوع علامة التجزئة هو خارج|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

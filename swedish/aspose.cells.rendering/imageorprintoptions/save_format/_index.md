@@ -3,7 +3,7 @@ title: save_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 290
 url: /sv/aspose.cells.rendering/imageorprintoptions/save_format/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Support Tiff/XPS
 ###  Anmärkningar
 
  OBS: Denna medlem är nu föråldrad. Istället,
-För Tiff/Svg, använd [ImageOrPrintOptions.image_type](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions#image_type); För Xps, använd [Workbook.save(file_name, save_format)](/cells/python-net/sv/aspose.cells/workbook/save) med [XpsSaveOptions](/cells/python-net/sv/aspose.cells/xpssaveoptions).
+För Tiff/Svg, använd [`ImageOrPrintOptions.image_type`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions#image_type); För Xps, använd [`Workbook.save`](/cells/python-net/sv/aspose.cells/workbook/save) med [`XpsSaveOptions`](/cells/python-net/sv/aspose.cells/xpssaveoptions).
  Den här egenskapen kommer att tas bort 12 månader senare sedan augusti 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
@@ -29,7 +29,7 @@ def save_format(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
-* klass [SaveFormat](/cells/python-net/sv/aspose.cells/saveformat)
-* klass [XpsSaveOptions](/cells/python-net/sv/aspose.cells/xpssaveoptions)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* klass [`SaveFormat`](/cells/python-net/sv/aspose.cells/saveformat)
+* klass [`XpsSaveOptions`](/cells/python-net/sv/aspose.cells/xpssaveoptions)

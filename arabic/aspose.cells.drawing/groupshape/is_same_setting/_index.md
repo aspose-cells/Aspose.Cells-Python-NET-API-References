@@ -3,12 +3,12 @@ title: طريقة is_same_setting
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 160
 url: /ar/aspose.cells.drawing/groupshape/is_same_setting/
 is_root: false
 ---
-##  is_same_setting(obj) {#any}
-تُرجع ما إذا كان الشكل متماثلاً.
+##  is_same_setting {#any}
+إرجاع ما إذا كان الشكل هو نفسه.
 
 
 ###  عائدات
@@ -38,5 +38,5 @@ if shape.is_same_setting(shape):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupShape](/cells/python-net/ar/aspose.cells.drawing/groupshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupShape`](/cells/python-net/ar/aspose.cells.drawing/groupshape)

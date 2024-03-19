@@ -7,8 +7,8 @@ weight: 230
 url: /ar/aspose.cells/cells/delete_columns/
 is_root: false
 ---
-##  delete_columns(column_index, total_columns, update_reference) {#int-int-bool}
-يحذف عدة أعمدة.
+##  delete_columns {#int-int-bool}
+حذف عدة أعمدة.
 
 
 
@@ -20,12 +20,12 @@ def delete_columns(self, column_index, total_columns, update_reference):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| column_index | int | فهرس العمود.|
+| column_index | int | فهرس العمود الأول المراد حذفه.|
 | total_columns | int | عدد الأعمدة المراد حذفها.|
-| update_reference | bool | يشير إلى ما إذا كان يتم تحديث المراجع في أوراق العمل الأخرى.|
+| update_reference | bool | يشير إلى ما إذا كانت مراجع التحديث موجودة في أوراق العمل الأخرى.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

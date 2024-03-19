@@ -9,7 +9,14 @@ is_root: false
 ---
 ##  extract_content_permission_obsolete Eigentum
 
-Erlaubnis zum Kopieren oder Extrahieren von Inhalten Veraltet gemäß Referenz PDF.
+Die Erlaubnis zum Kopieren oder Extrahieren von Inhalten ist laut Referenz PDF veraltet.
+
+###  Bemerkungen
+
+HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+Bitte verwenden Sie die ExtractContentPermission-Eigenschaft.
+ Diese Immobilie wird seit September 2023 12 Monate später entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
 ###  Definition:
 ```python
 @property
@@ -21,5 +28,5 @@ def extract_content_permission_obsolete(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering.pdfsecurity](../../)
-* Klasse [PdfSecurityOptions](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* Modul [`aspose.cells.rendering.pdfsecurity`](../../)
+* Klasse [`PdfSecurityOptions`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

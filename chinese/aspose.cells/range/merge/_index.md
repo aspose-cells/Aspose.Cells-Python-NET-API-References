@@ -1,14 +1,14 @@
 ---
 title: merge方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 150
 url: /zh/aspose.cells/range/merge/
 is_root: false
 ---
-##  merge() {#}
-将一系列单元格组合成一个单元格。
+##  merge {#}
+将一系列单元格合并为一个单元格。
 
 
 
@@ -25,5 +25,5 @@ def merge(self):
 
 ### 也可以看看
 
-* 模块 [aspose.cells](../../)
-* 类 [Range](/cells/python-net/zh/aspose.cells/range)
+* 模块[`aspose.cells`](../../)
+* 类 [`Range`](/cells/python-net/zh/aspose.cells/range)

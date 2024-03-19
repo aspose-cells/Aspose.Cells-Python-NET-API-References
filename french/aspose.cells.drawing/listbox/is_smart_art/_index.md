@@ -3,13 +3,13 @@ title: is_smart_art propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 650
+weight: 660
 url: /fr/aspose.cells.drawing/listbox/is_smart_art/
 is_root: false
 ---
 ##  is_smart_art propriété
 
-Indique si la forme est de l'art intelligent.
+Indique si la forme est un art intelligent.
 
 ###  Remarques
 
@@ -32,5 +32,5 @@ def is_smart_art(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ListBox](/cells/python-net/fr/aspose.cells.drawing/listbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ListBox`](/cells/python-net/fr/aspose.cells.drawing/listbox)

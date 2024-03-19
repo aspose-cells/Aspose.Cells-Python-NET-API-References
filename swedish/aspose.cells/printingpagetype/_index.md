@@ -3,7 +3,7 @@ title: PrintingPageType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2410
+weight: 2500
 url: /sv/aspose.cells/printingpagetype/
 is_root: false
 ---
@@ -19,9 +19,9 @@ Typen PrintingPageType avslöjar följande medlemmar:
 | :- | :- |
 | DEFAULT | Skriver ut alla sidor.|
 | IGNORE_BLANK | Skriv inte ut sidorna där cellerna är tomma.|
-| IGNORE_STYLE |Skriv inte ut sidorna där celler bara innehåller stilar.|
+| IGNORE_STYLE | Skriv inte ut sidorna där celler bara innehåller stilar.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

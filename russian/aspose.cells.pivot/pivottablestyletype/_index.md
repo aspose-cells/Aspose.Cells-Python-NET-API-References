@@ -1,9 +1,9 @@
 ---
 title: PivotTableStyleType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 230
+weight: 360
 url: /ru/aspose.cells.pivot/pivottablestyletype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип PivotTableStyleType предоставляет следующие члены:
+Тип PivotTableStyleType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -107,4 +107,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](..)
+* модуль [`aspose.cells.pivot`](..)

@@ -1,34 +1,33 @@
 ---
-title: Row الدرجة
+title: Row صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1300
+weight: 1340
 url: /ar/aspose.cells/row/
 is_root: false
 ---
-##  Row الدرجة
-يمثل صفًا واحدًا في ورقة عمل.
+##  Row صف
+يمثل صفًا واحدًا في ورقة العمل.
 
 
 
-يكشف نوع Row الأعضاء التالية:
+يكشف النوع Row عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [is_blank](/cells/python-net/ar/aspose.cells/row/is_blank) | يشير إلى ما إذا كان الصف يحتوي على أية بيانات|
-| [is_collapsed](/cells/python-net/ar/aspose.cells/row/is_collapsed) | ما إذا كان الصف مطويًا أم لا|
+| [is_blank](/cells/python-net/ar/aspose.cells/row/is_blank) | الإشارة إلى ما إذا كان الصف يحتوي على أية بيانات|
+| [is_collapsed](/cells/python-net/ar/aspose.cells/row/is_collapsed) | ما إذا كان الصف مطويًا|
 | [height](/cells/python-net/ar/aspose.cells/row/height) | الحصول على ارتفاع الصف وتعيينه بوحدة النقاط.|
 | [is_hidden](/cells/python-net/ar/aspose.cells/row/is_hidden) | يشير إلى ما إذا كان الصف مخفيًا.|
 | [index](/cells/python-net/ar/aspose.cells/row/index) | يحصل على فهرس هذا الصف.|
-| [group_level](/cells/python-net/ar/aspose.cells/row/group_level) | يحصل على مستوى المجموعة للصف.|
-| [is_height_matched](/cells/python-net/ar/aspose.cells/row/is_height_matched) |يشير إلى تطابق ارتفاع الصف وارتفاع الخط الافتراضي.|
-| [style](/cells/python-net/ar/aspose.cells/row/style) | يمثل نمط هذا الصف.|
+| [group_level](/cells/python-net/ar/aspose.cells/row/group_level) | الحصول على مستوى المجموعة للصف.|
+| [is_height_matched](/cells/python-net/ar/aspose.cells/row/is_height_matched) | يشير إلى ما إذا كان ارتفاع الصف يطابق إعداد الخط الافتراضي الحالي للمصنف.<br/>تشير هذه الخاصية أيضًا إلى أن ارتفاع الصف "تلقائي" بدون قيمة الارتفاع المخصصة التي يحددها المستخدم.|
 | [has_custom_style](/cells/python-net/ar/aspose.cells/row/has_custom_style) | يشير إلى ما إذا كان هذا الصف يحتوي على إعدادات نمط مخصصة (تختلف عن الإعداد الافتراضي الموروث من المصنف).|
-| [first_cell](/cells/python-net/ar/aspose.cells/row/first_cell) | الحصول على أول كائن خلية في الصف.|
+| [first_cell](/cells/python-net/ar/aspose.cells/row/first_cell) | الحصول على كائن الخلية الأول في الصف.|
 | [first_data_cell](/cells/python-net/ar/aspose.cells/row/first_data_cell) | الحصول على أول خلية غير فارغة في الصف.|
-| [last_cell](/cells/python-net/ar/aspose.cells/row/last_cell) | الحصول على آخر كائن خلية في الصف.|
+| [last_cell](/cells/python-net/ar/aspose.cells/row/last_cell) | الحصول على كائن الخلية الأخير في الصف.|
 | [last_data_cell](/cells/python-net/ar/aspose.cells/row/last_data_cell) | الحصول على آخر خلية غير فارغة في الصف.|
 
 
@@ -43,13 +42,14 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_cell_by_index(index)](/cells/python-net/ar/aspose.cells/row/get_cell_by_index/#int) | احصل على الخلية حسب فهرس محدد في القائمة.|
-| [get_cell_or_null(column)](/cells/python-net/ar/aspose.cells/row/get_cell_or_null/#int) | الحصول على الخلية أو القيمة الخالية في الفهرس المحدد.|
-| [get_style()](/cells/python-net/ar/aspose.cells/row/get_style/#) | يحصل على نمط هذا الصف.|
-| [set_style(style)](/cells/python-net/ar/aspose.cells/row/set_style/#Style) | يحدد نمط هذا الصف.|
-| [copy_settings(source, check_style)](/cells/python-net/ar/aspose.cells/row/copy_settings/#Row-bool) | نسخ إعدادات الصف ، مثل النمط ، الارتفاع ، الرؤية ، ... إلخ.|
-| [apply_style(style, flag)](/cells/python-net/ar/aspose.cells/row/apply_style/#Style-StyleFlag) | يطبق التنسيقات على صف كامل.|
-| [equals(row)](/cells/python-net/ar/aspose.cells/row/equals/#Row) | للتحقق مما إذا كان هذا الكائن يشير إلى نفس الصف مع كائن صف آخر.|
+| [get_cell_by_index](/cells/python-net/ar/aspose.cells/row/get_cell_by_index/#int) | احصل على الخلية حسب فهرس محدد في مجموعة الخلايا لهذا الصف.|
+| [get_enumerator](/cells/python-net/ar/aspose.cells/row/get_enumerator/#bool-bool) | الحصول على عداد يقوم بتكرار الخلايا خلال هذا الصف.|
+| [get_cell_or_null](/cells/python-net/ar/aspose.cells/row/get_cell_or_null/#int) | يحصل على الخلية أو فارغة في الفهرس المحدد.|
+| [get_style](/cells/python-net/ar/aspose.cells/row/get_style/#) | يحصل على نمط هذا الصف.|
+| [set_style](/cells/python-net/ar/aspose.cells/row/set_style/#aspose.cells.Style) | يحدد نمط هذا الصف.|
+| [copy_settings](/cells/python-net/ar/aspose.cells/row/copy_settings/#aspose.cells.Row-bool) | نسخ إعدادات الصف، مثل النمط، الارتفاع، الرؤية، ...إلخ.|
+| [apply_style](/cells/python-net/ar/aspose.cells/row/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | يطبق التنسيقات على صف كامل.|
+| [equals](/cells/python-net/ar/aspose.cells/row/equals/#aspose.cells.Row) | التحقق مما إذا كان هذا الكائن يشير إلى نفس الصف مع كائن صف آخر.|
 
 
 
@@ -84,4 +84,4 @@ workbook.save("book1.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

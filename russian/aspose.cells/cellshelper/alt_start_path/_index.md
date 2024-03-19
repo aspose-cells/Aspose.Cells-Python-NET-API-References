@@ -1,9 +1,9 @@
 ---
 title: alt_start_path недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 200
+weight: 210
 url: /ru/aspose.cells/cellshelper/alt_start_path/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def alt_start_path(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsHelper](/cells/python-net/ru/aspose.cells/cellshelper)
+* модуль [`aspose.cells`](../../)
+* класс [`CellsHelper`](/cells/python-net/ru/aspose.cells/cellshelper)

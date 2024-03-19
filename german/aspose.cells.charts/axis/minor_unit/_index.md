@@ -3,7 +3,7 @@ title: minor_unit Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 350
+weight: 360
 url: /de/aspose.cells.charts/axis/minor_unit/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def minor_unit(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Axis](/cells/python-net/de/aspose.cells.charts/axis)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Axis`](/cells/python-net/de/aspose.cells.charts/axis)

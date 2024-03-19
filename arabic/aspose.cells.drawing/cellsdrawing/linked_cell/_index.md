@@ -1,13 +1,13 @@
 ---
-title: linked_cell الملكية
+title: linked_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 730
+weight: 740
 url: /ar/aspose.cells.drawing/cellsdrawing/linked_cell/
 is_root: false
 ---
-##  linked_cell الملكية
+##  linked_cell عقار
 
 الحصول على نطاق ورقة العمل المرتبط بقيمة عنصر التحكم أو تعيينه.
 
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CellsDrawing](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CellsDrawing`](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)

@@ -3,7 +3,7 @@ title: is_auto_sort Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 350
+weight: 390
 url: /de/aspose.cells.pivot/pivotfield/is_auto_sort/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_auto_sort(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotField](/cells/python-net/de/aspose.cells.pivot/pivotfield)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotField`](/cells/python-net/de/aspose.cells.pivot/pivotfield)

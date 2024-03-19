@@ -1,15 +1,15 @@
 ---
 title: treat_consecutive_delimiters_as_one недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 370
+weight: 430
 url: /ru/aspose.cells/txtloadoptions/treat_consecutive_delimiters_as_one/
 is_root: false
 ---
 ##  treat_consecutive_delimiters_as_one недвижимость
 
-Должны ли последовательные разделители рассматриваться как один.
+Следует ли рассматривать последовательные разделители как один.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def treat_consecutive_delimiters_as_one(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [TxtLoadOptions](/cells/python-net/ru/aspose.cells/txtloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`TxtLoadOptions`](/cells/python-net/ru/aspose.cells/txtloadoptions)

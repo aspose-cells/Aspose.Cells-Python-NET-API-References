@@ -1,9 +1,9 @@
 ---
 title: DataBarFillType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1920
+weight: 1990
 url: /zh/aspose.cells/databarfilltype/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-DataBarFillType 类型公开了以下成员：
+DataBarFillType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| SOLID |数据栏以纯色填充。|
-| GRADIENT |数据栏填充有颜色渐变。|
+| SOLID |数据栏用纯色填充。|
+| GRADIENT |数据栏充满颜色渐变。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

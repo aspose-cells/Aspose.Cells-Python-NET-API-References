@@ -1,15 +1,15 @@
 ---
-title: insert_blank_row الملكية
+title: insert_blank_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 350
 url: /ar/aspose.cells.pivot/pivotfield/insert_blank_row/
 is_root: false
 ---
-##  insert_blank_row الملكية
+##  insert_blank_row عقار
 
-يشير إلى ما إذا كان يتم إدراج سطر فارغ بعد كل عنصر.
+يشير إلى ما إذا كان سيتم إدراج سطر فارغ بعد كل عنصر.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def insert_blank_row(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

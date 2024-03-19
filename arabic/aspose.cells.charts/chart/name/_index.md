@@ -1,15 +1,15 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 390
 url: /ar/aspose.cells.charts/chart/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-الحصول على name للمخطط وتعيينه.
+الحصول على الرقم name للمخطط وتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

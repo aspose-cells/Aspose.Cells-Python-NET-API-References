@@ -1,13 +1,13 @@
 ---
-title: linked_cell الملكية
+title: linked_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 750
+weight: 770
 url: /ar/aspose.cells.drawing/radiobutton/linked_cell/
 is_root: false
 ---
-##  linked_cell الملكية
+##  linked_cell عقار
 
 الحصول على نطاق ورقة العمل المرتبط بقيمة عنصر التحكم أو تعيينه.
 
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

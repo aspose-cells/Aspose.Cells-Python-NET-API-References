@@ -3,13 +3,13 @@ title: bottom propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 290
+weight: 310
 url: /fr/aspose.cells.drawing/oval/bottom/
 is_root: false
 ---
 ##  bottom propriété
 
-Représente la largeur du décalage vertical de la forme par rapport à sa ligne d'angle inférieure bottom, en pixels.
+Représente la largeur du décalage vertical de la forme par rapport à sa rangée de coin inférieure bottom, en unités de pixels.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def bottom(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Oval](/cells/python-net/fr/aspose.cells.drawing/oval)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Oval`](/cells/python-net/fr/aspose.cells.drawing/oval)

@@ -3,7 +3,7 @@ title: tiff_compression mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 350
+weight: 370
 url: /tr/aspose.cells.rendering/imageorprintoptions/tiff_compression/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Yalnızca sayfaları `Tiff` biçiminde kaydederken uygulanacak sıkıştırma t�
 
 ###  Notlar
 
-Yalnızca TIFF'e kaydederken etkilidir.
+Yalnızca TIFF'e kaydederken etkili olur.
 Varsayılan değer Lzw'dir.
 ###  Tanım:
 ```python
@@ -26,6 +26,6 @@ def tiff_compression(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [ImageOrPrintOptions](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)
-* sınıf [TiffCompression](/cells/python-net/tr/aspose.cells.rendering/tiffcompression)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`ImageOrPrintOptions`](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)
+* sınıf [`TiffCompression`](/cells/python-net/tr/aspose.cells.rendering/tiffcompression)

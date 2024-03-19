@@ -1,15 +1,15 @@
 ---
 title: auto_shape_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ru/aspose.cells.drawing/groupshape/auto_shape_type/
 is_root: false
 ---
 ##  auto_shape_type недвижимость
 
-Получает и задает автоматический тип фигуры.
+Получает и задает тип автоматической фигуры.
 
 ###  Пример
 
@@ -31,6 +31,6 @@ def auto_shape_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [AutoShapeType](/cells/python-net/ru/aspose.cells.drawing/autoshapetype)
-* класс [GroupShape](/cells/python-net/ru/aspose.cells.drawing/groupshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`AutoShapeType`](/cells/python-net/ru/aspose.cells.drawing/autoshapetype)
+* класс [`GroupShape`](/cells/python-net/ru/aspose.cells.drawing/groupshape)

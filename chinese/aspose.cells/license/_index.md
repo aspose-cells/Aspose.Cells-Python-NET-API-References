@@ -1,9 +1,9 @@
 ---
 title: License类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 980
+weight: 1020
 url: /zh/aspose.cells/license/
 is_root: false
 ---
@@ -12,19 +12,19 @@ is_root: false
 
 
 
-License 类型公开了以下成员：
+License 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [License()](/cells/python-net/zh/aspose.cells/license/__init__/#) |初始化此类的新实例。|
+| [__init__](/cells/python-net/zh/aspose.cells/license/__init__/#) |初始化此类的新实例。|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [set_license(license_name)](/cells/python-net/zh/aspose.cells/license/set_license/#str) |许可组件。|
-| [set_license(stream)](/cells/python-net/zh/aspose.cells/license/set_license/#io.RawIOBase) |许可组件。|
+| [set_license](/cells/python-net/zh/aspose.cells/license/set_license/#str) |许可该组件。|
+| [set_license](/cells/python-net/zh/aspose.cells/license/set_license/#io.RawIOBase) |许可该组件。|
 
 
 
@@ -34,8 +34,8 @@ License 类型公开了以下成员：
 在包含的文件夹中
 
 
-组件，在包含调用程序集的文件夹中，
-在入口程序集的文件夹中，然后在调用程序集的嵌入式资源中。
+包含调用程序集的文件夹中的组件，
+在入口程序集的文件夹中，然后在调用程序集的嵌入资源中。
 
 ```python
 from aspose.cells import License
@@ -46,4 +46,4 @@ license.set_license("MyLicense.lic")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
-title: update_linked_data_source método
+title: método update_linked_data_source
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 410
+weight: 420
 url: /es/aspose.cells/workbook/update_linked_data_source/
 is_root: false
 ---
-##  update_linked_data_source(external_workbooks) {#list}
-Si este libro de trabajo contiene enlaces externos a otra fuente de datos,
-Aspose.Cells intentará recuperar los datos más recientes.
+##  update_linked_data_source {#list}
+Si este libro contiene enlaces externos a otras fuentes de datos,
+Aspose.Cells intentará recuperar los datos más recientes de las fuentes proporcionadas.
 
 
 
@@ -21,16 +21,14 @@ def update_linked_data_source(self, external_workbooks):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| external_workbooks | list | Este libro hace referencia a los libros de trabajo externos.<br/>Si es nulo, abriremos directamente los archivos vinculados externos.<br/> Si no es nulo,<br/>comprobaremos si el enlace externo en la matriz primero;<br/> si no, volveremos a abrir los archivos vinculados externos.|
+| external_workbooks | list | Libros de trabajo que se utilizarán para actualizar los datos de los enlaces externos a los que hace referencia este libro de trabajo.<br/>La coincidencia de esos libros con enlaces externos está determinada por [`Workbook.file_name`](/cells/python-net/es/aspose.cells/workbook#file_name)<br/>y [`ExternalLink.data_source`](/cells/python-net/es/aspose.cells/externallink#data_source). Así que asegúrese de que [`Workbook.file_name`](/cells/python-net/es/aspose.cells/workbook#file_name) tenga<br/> Se han especificado con el valor adecuado para cada libro de trabajo para que puedan vincularse al enlace externo correspondiente.|
 ###  Observaciones
 
-Si no se llama al método antes de calcular fórmulas,
-Aspose.Cells utilizará la información anterior (almacenada en caché en el archivo);
- Configure CellsHelper.StartupPath,CellsHelper.AltStartPath,CellsHelper.LibraryPath.
-Y configure Workbook.FilePath si este libro de trabajo es de una secuencia,
-de lo contrario, Aspose.Cells a veces no podía obtener la ruta completa del enlace externo.
+Si no se puede encontrar el enlace externo correspondiente para un libro de trabajo, se ignorará este libro de trabajo.
+Entonces, cuando configura una fórmula más adelante con un nuevo enlace externo que desea convertir en el libro ignorado
+estar vinculado a él, el vínculo no se puede realizar hasta que vuelva a llamar a este método con esos libros de trabajo.
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
+* módulo [`aspose.cells`](../../)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)

@@ -1,9 +1,9 @@
 ---
 title: base_unit_scale недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ru/aspose.cells.charts/axis/base_unit_scale/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def base_unit_scale(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
-* класс [TimeUnit](/cells/python-net/ru/aspose.cells.charts/timeunit)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)
+* класс [`TimeUnit`](/cells/python-net/ru/aspose.cells.charts/timeunit)

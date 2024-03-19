@@ -1,25 +1,25 @@
 ---
-title: XmlDataBinding الدرجة
+title: XmlDataBinding صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1680
+weight: 1750
 url: /ar/aspose.cells/xmldatabinding/
 is_root: false
 ---
-##  XmlDataBinding الدرجة
+##  XmlDataBinding صف
 يمثل معلومات ربط بيانات Xml.
 
 
 
-يكشف نوع XmlDataBinding الأعضاء التالية:
+يكشف النوع XmlDataBinding عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [url](/cells/python-net/ar/aspose.cells/xmldatabinding/url) | يحصل على عنوان url لمصدر ربط البيانات هذا.|
+| [url](/cells/python-net/ar/aspose.cells/xmldatabinding/url) | يحصل على عنوان URL المصدر لربط البيانات هذا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

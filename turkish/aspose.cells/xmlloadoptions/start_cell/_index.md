@@ -3,7 +3,7 @@ title: start_cell mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 320
 url: /tr/aspose.cells/xmlloadoptions/start_cell/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Başlangıç hücresini alır ve ayarlar.
 
 ###  Notlar
 
-Yalnızca dosya spadsheetML olmadığında veya xml'yi Excel'e eşlemediğinde çalışır.
+Yalnızca dosya spreadsheetML olmadığında veya xml'yi Excel ile eşlemediğinde çalışır.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def start_cell(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XmlLoadOptions](/cells/python-net/tr/aspose.cells/xmlloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`XmlLoadOptions`](/cells/python-net/tr/aspose.cells/xmlloadoptions)

@@ -1,13 +1,13 @@
 ---
-title: metodo remove_at
+title: Metodo remove_at
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 180
+weight: 190
 url: /it/aspose.cells/worksheetcollection/remove_at/
 is_root: false
 ---
-##  remove_at(name) {#str}
+##  remove_at {#str}
 Rimuove l'elemento con un nome specificato.
 
 
@@ -25,5 +25,5 @@ def remove_at(self, name):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorksheetCollection](/cells/python-net/it/aspose.cells/worksheetcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`WorksheetCollection`](/cells/python-net/it/aspose.cells/worksheetcollection)

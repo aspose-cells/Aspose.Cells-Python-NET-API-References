@@ -1,13 +1,13 @@
 ---
-title: group 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: group属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 420
+weight: 430
 url: /zh/aspose.cells.drawing/groupshape/group/
 is_root: false
 ---
-## group 属性
+## group属性
 
 获取包含此形状的 group 形状。
 
@@ -26,5 +26,5 @@ def group(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GroupShape](/cells/python-net/zh/aspose.cells.drawing/groupshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GroupShape`](/cells/python-net/zh/aspose.cells.drawing/groupshape)

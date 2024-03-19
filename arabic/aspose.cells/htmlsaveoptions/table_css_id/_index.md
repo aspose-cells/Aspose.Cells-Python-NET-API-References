@@ -1,16 +1,16 @@
 ---
-title: table_css_id الملكية
+title: table_css_id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 680
 url: /ar/aspose.cells/htmlsaveoptions/table_css_id/
 is_root: false
 ---
-##  table_css_id الملكية
+##  table_css_id عقار
 
- الحصول على وتعيين بادئة اسم النوع css مثل tr ، col ، td وما إلى ذلك ، يتم تضمينها في عنصر الجدول
-التي لها سمة TableCssId المحددة. القيمة الافتراضية هي "".
+ الحصول على البادئة الخاصة بنوع اسم CSS وتعيينها مثل tr وcol وtd وما إلى ذلك، وهي موجودة في عنصر الجدول
+الذي يحتوي على سمة TableCssId المحددة. القيمة الافتراضية هي "".
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def table_css_id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

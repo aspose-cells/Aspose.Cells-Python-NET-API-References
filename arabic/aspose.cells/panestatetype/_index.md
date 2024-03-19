@@ -1,28 +1,28 @@
 ---
-title: العد PaneStateType
+title: PaneStateType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2320
+weight: 2410
 url: /ar/aspose.cells/panestatetype/
 is_root: false
 ---
-##  العد PaneStateType
+##  PaneStateType التعداد
 يمثل حالة جزء الورقة.
 
 
 
-يكشف نوع PaneStateType الأعضاء التالية:
+يكشف النوع PaneStateType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| FROZEN | يتم تجميد الأجزاء ، ولكن لم يتم تجميدها قبل ذلك.|
+| FROZEN | يتم تجميد الأجزاء، ولكن لم تكن كذلك قبل تجميدها.|
 | FROZEN_SPLIT | يتم تجميد الأجزاء وتقسيمها قبل تجميدها.|
-| SPLIT | الأجزاء منقسمة ولكنها غير مجمدة.|
+| SPLIT |يتم تقسيم الأجزاء، ولكن لا يتم تجميدها.|
 | NORMAL | لا يتم تجميد الأجزاء ولا يتم تقسيمها.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

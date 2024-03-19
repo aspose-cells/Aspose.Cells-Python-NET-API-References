@@ -3,7 +3,7 @@ title: EncryptionType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2000
+weight: 2070
 url: /sv/aspose.cells/encryptiontype/
 is_root: false
 ---
@@ -20,11 +20,11 @@ Typen EncryptionType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | XOR |  |
-| COMPATIBLE | Office 97/2000-kompatibel.|
+| COMPATIBLE |Office 97/2000-kompatibel.|
 | ENHANCED_CRYPTOGRAPHIC_PROVIDER_V1 |  |
 | STRONG_CRYPTOGRAPHIC_PROVIDER |  |
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

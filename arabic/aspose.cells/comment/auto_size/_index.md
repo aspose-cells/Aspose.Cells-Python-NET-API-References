@@ -1,21 +1,21 @@
 ---
-title: auto_size الملكية
+title: auto_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells/comment/auto_size/
 is_root: false
 ---
-##  auto_size الملكية
+##  auto_size عقار
 
-يشير إلى ما إذا تم تعديل حجم التعليق تلقائيًا وفقًا لمحتواه.
+يشير إلى ما إذا كان حجم التعليق قد تم تعديله تلقائيًا وفقًا لمحتواه.
 
 ###  مثال
 
 ```python
 
-if !comment1.auto_size:
+if notcomment1.auto_size:
     # The size of the comment varies with the content
     comment1.auto_size = True
 
@@ -31,5 +31,5 @@ def auto_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

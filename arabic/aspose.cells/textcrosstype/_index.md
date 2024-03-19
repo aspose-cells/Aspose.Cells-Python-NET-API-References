@@ -1,28 +1,28 @@
 ---
-title: العد TextCrossType
+title: TextCrossType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2540
+weight: 2630
 url: /ar/aspose.cells/textcrosstype/
 is_root: false
 ---
-##  العد TextCrossType
+##  TextCrossType التعداد
 تعداد عرض نوع النص عندما يكون عرض النص أكبر من عرض الخلية.
 
 
 
-يكشف نوع TextCrossType الأعضاء التالية:
+يكشف النوع TextCrossType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DEFAULT | عرض نص مثل Microsoft Excel.|
-| CROSS_KEEP | اعرض كل النص بعبور الخلايا الأخرى واحتفظ بنص الخلايا المتقاطعة.|
-| CROSS_OVERRIDE | اعرض كل النص بعبور الخلايا الأخرى وتجاوز نص الخلايا المتقاطعة.|
-| STRICT_IN_CELL | اعرض النص ضمن عرض الخلية فقط.|
+| DEFAULT | عرض النص كما في Microsoft Excel.|
+| CROSS_KEEP | عرض كل النص عن طريق عبور الخلايا الأخرى والاحتفاظ بنص الخلايا المتقاطعة.|
+| CROSS_OVERRIDE |عرض النص بالكامل عن طريق عبور الخلايا الأخرى وتجاوز نص الخلايا المتقاطعة.|
+| STRICT_IN_CELL | عرض النص فقط ضمن عرض الخلية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

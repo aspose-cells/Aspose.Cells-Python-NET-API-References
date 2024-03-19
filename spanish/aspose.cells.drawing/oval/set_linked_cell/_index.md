@@ -1,13 +1,13 @@
 ---
-title: set_linked_cell método
+title: método set_linked_cell
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 180
+weight: 200
 url: /es/aspose.cells.drawing/oval/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell(formula, is_r1c1, is_local) {#str-bool-bool}
+##  set_linked_cell {#str-bool-bool}
 Establece el rango vinculado al valor del control.
 
 
@@ -41,5 +41,5 @@ scrollBar.set_linked_cell("$A$12", False, True)
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Oval](/cells/python-net/es/aspose.cells.drawing/oval)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Oval`](/cells/python-net/es/aspose.cells.drawing/oval)

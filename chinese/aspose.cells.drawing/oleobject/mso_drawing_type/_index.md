@@ -1,13 +1,13 @@
 ---
-title: mso_drawing_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: mso_drawing_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 930
+weight: 940
 url: /zh/aspose.cells.drawing/oleobject/mso_drawing_type/
 is_root: false
 ---
-## mso_drawing_type 属性
+## mso_drawing_type属性
 
 获取 mso 绘图类型。
 
@@ -26,6 +26,6 @@ def mso_drawing_type(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [MsoDrawingType](/cells/python-net/zh/aspose.cells.drawing/msodrawingtype)
-* 类 [OleObject](/cells/python-net/zh/aspose.cells.drawing/oleobject)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`MsoDrawingType`](/cells/python-net/zh/aspose.cells.drawing/msodrawingtype)
+* 类 [`OleObject`](/cells/python-net/zh/aspose.cells.drawing/oleobject)

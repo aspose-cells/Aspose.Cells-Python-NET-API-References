@@ -1,15 +1,15 @@
 ---
-title: label 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: label属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 790
+weight: 800
 url: /zh/aspose.cells.drawing/oleobject/label/
 is_root: false
 ---
-## label 属性
+## label属性
 
-获取和设置链接的 ole 对象的显示 label。
+获取和设置链接ole对象的显示label。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def label(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [OleObject](/cells/python-net/zh/aspose.cells.drawing/oleobject)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`OleObject`](/cells/python-net/zh/aspose.cells.drawing/oleobject)

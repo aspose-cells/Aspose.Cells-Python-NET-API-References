@@ -3,7 +3,7 @@ title: preserve_string fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1220
+weight: 1210
 url: /sv/aspose.cells/cells/preserve_string/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def preserve_string(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

@@ -3,20 +3,20 @@ title: height_inch Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 450
+weight: 460
 url: /de/aspose.cells.drawing/shape/height_inch/
 is_root: false
 ---
 ##  height_inch Eigentum
 
-Stellt die Höhe der Form in Zoll dar.
+Stellt die Höhe der Form in der Einheit Zoll dar.
 
 ###  Beispiel
 
 ```python
 
 if shape.height_inch == 3:
-    shape.height_inch = 1
+    shape.height_inch = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def height_inch(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Shape](/cells/python-net/de/aspose.cells.drawing/shape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Shape`](/cells/python-net/de/aspose.cells.drawing/shape)

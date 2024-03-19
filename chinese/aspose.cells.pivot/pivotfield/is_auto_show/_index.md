@@ -1,15 +1,15 @@
 ---
-title: is_auto_show 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_auto_show属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 340
+weight: 380
 url: /zh/aspose.cells.pivot/pivotfield/is_auto_show/
 is_root: false
 ---
-## is_auto_show 属性
+## is_auto_show属性
 
-表示指定的数据透视表字段是否自动显示，只对excel 2003有效。
+指示是否自动显示指定的数据透视表字段，仅对excel 2003有效。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_show(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotField](/cells/python-net/zh/aspose.cells.pivot/pivotfield)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotField`](/cells/python-net/zh/aspose.cells.pivot/pivotfield)

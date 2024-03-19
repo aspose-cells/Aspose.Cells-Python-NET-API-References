@@ -3,13 +3,13 @@ title: is_auto_sort mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 350
+weight: 390
 url: /tr/aspose.cells.pivot/pivotfield/is_auto_sort/
 is_root: false
 ---
 ##  is_auto_sort mülk
 
-Belirtilen PivotTable alanının otomatik olarak sıralanıp sıralanmadığını gösterir.
+Belirtilen PivotTable alanının otomatik olarak sıralanıp sıralanmayacağını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_sort(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotField](/cells/python-net/tr/aspose.cells.pivot/pivotfield)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield)

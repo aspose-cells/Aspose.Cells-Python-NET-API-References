@@ -1,18 +1,18 @@
 ---
 title: CustomFilter класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 370
+weight: 380
 url: /ru/aspose.cells/customfilter/
 is_root: false
 ---
 ##  CustomFilter класс
-Представляет настраиваемый фильтр.
+Представляет пользовательский фильтр.
 
 
 
-Тип CustomFilter предоставляет следующие члены:
+Тип CustomFilter предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -24,9 +24,9 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [set_criteria(filter_operator, criteria)](/cells/python-net/ru/aspose.cells/customfilter/set_criteria/#FilterOperatorType-any) | Задает критерии фильтра.|
+| [set_criteria](/cells/python-net/ru/aspose.cells/customfilter/set_criteria/#aspose.cells.FilterOperatorType-any) | Устанавливает критерии фильтра.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

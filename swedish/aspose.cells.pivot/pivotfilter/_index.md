@@ -3,7 +3,7 @@ title: PivotFilter klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 30
+weight: 100
 url: /sv/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
@@ -19,13 +19,13 @@ Typen PivotFilter avslöjar följande medlemmar:
 | :- | :- |
 | [auto_filter](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/auto_filter) | Hämtar autofiltret för pivotfiltret.|
 | [filter_type](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/filter_type) | Hämtar autofiltertypen för pivotfiltret.|
-| [field_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/field_index) |Hämtar fältindexet för pivotfiltret.|
+| [field_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/field_index) | Hämtar fältindexet för pivotfiltret.|
 | [value1](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/value1) | Hämtar strängvärdet1 för etikettens pivotfilter.|
-| [value2](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/value2) | Hämtar strängvärdet2 för etikettens pivotfilter.|
+| [value2](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/value2) |Hämtar strängvärdet2 för etikettens pivotfilter.|
 | [measure_fld_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/measure_fld_index) | Hämtar mätfältsindex för pivotfiltret.|
 | [member_property_field_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/member_property_field_index) | Hämtar medlemsegenskapsfältindex för pivotfiltret.|
 | [name](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/name) | Hämtar namnet på pivotfiltret.|
-| [evaluation_order](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/evaluation_order) | Får utvärderingsordningen för pivotfiltret.|
+| [evaluation_order](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/evaluation_order) | Hämtar utvärderingsordningen för pivotfiltret.|
 
 
 
@@ -84,4 +84,4 @@ book.save("out.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](..)
+* modul [`aspose.cells.pivot`](..)

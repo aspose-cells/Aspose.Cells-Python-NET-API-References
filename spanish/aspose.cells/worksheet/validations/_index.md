@@ -3,7 +3,7 @@ title: validations propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 870
+weight: 890
 url: /es/aspose.cells/worksheet/validations/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def validations(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ValidationCollection](/cells/python-net/es/aspose.cells/validationcollection)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`ValidationCollection`](/cells/python-net/es/aspose.cells/validationcollection)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

@@ -1,6 +1,6 @@
 ---
 title: VbaModuleCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 20
@@ -8,33 +8,34 @@ url: /ru/aspose.cells.vba/vbamodulecollection/
 is_root: false
 ---
 ##  VbaModuleCollection класс
-Представляет список [VbaModule](/cells/python-net/ru/aspose.cells.vba/vbamodule)
+Представляет собой список [`VbaModule`](/cells/python-net/ru/aspose.cells.vba/vbamodule).
 
 
 
-Тип VbaModuleCollection предоставляет следующие члены:
+Тип VbaModuleCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [capacity](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/capacity) | Получает или задает количество элементов, которые может содержать список массивов.|
+| [capacity](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/capacity) | Получает или задает количество элементов, которые может содержать список массива.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add(sheet)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/add/#Worksheet) |Добавляет модуль для рабочего листа.|
-| [add(type, name)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/add/#VbaModuleType-str) | Добавляет модуль.|
-| [copy_to(array)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала целевого списка массивов.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/copy_to/#int-list-int-int) |Копирует диапазон элементов из списка массивов в совместимый список одномерных массивов, начиная с указанного индекса целевого списка массивов.|
-| [index_of(item, index)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/index_of/#VbaModule-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который простирается от указанного индекса до последнего элемента.|
-| [index_of(item, index, count)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/index_of/#VbaModule-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
-| [last_index_of(item)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/last_index_of/#VbaModule) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массивов.|
-| [last_index_of(item, index)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/last_index_of/#VbaModule-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который простирается от первого элемента до указанного индекса.|
-| [last_index_of(item, index, count)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/last_index_of/#VbaModule-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который содержит указанное количество элементов и заканчивается указанным индексом.|
-| [add_designer_storage(name, data)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/add_designer_storage/#str-bytes) |  |
-| [get_designer_storage(name)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/get_designer_storage/#str) | Представляет данные конструктора.|
-| [binary_search(item)](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/binary_search/#VbaModule) | Ищет элемент во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает отсчитываемый от нуля индекс элемента.|
+| [add](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/add/#aspose.cells.Worksheet) | Добавляет модуль для рабочего листа.|
+| [add](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/add/#aspose.cells.vba.VbaModuleType-str) | Добавляет модуль.|
+| [copy_to](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала списка целевых массивов.|
+| [copy_to](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/copy_to/#int-list-int-int) | Копирует диапазон элементов из списка массива в совместимый список одномерных массивов, начиная с указанного индекса списка целевого массива.|
+| [index_of](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/index_of/#aspose.cells.vba.VbaModule-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массива, простирающемся от указанного индекса до последнего элемента.|
+| [index_of](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/index_of/#aspose.cells.vba.VbaModule-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
+| [last_index_of](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/last_index_of/#aspose.cells.vba.VbaModule) | Ищет указанный объект и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массива.|
+| [last_index_of](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/last_index_of/#aspose.cells.vba.VbaModule-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, простирающемся от первого элемента до указанного индекса.|
+| [last_index_of](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/last_index_of/#aspose.cells.vba.VbaModule-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, который содержит указанное количество элементов и заканчивается указанным индексом.|
+| [add_designer_storage](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/add_designer_storage/#str-bytes) |  |
+| [get_designer_storage](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/get_designer_storage/#str) | Представляет данные Designer.|
+| [add_user_form](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/add_user_form/#str-str-bytes) | Вставьте пользовательскую форму в проект VBA.|
+| [binary_search](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection/binary_search/#aspose.cells.vba.VbaModule) | Выполняет поиск элемента во всем списке отсортированного массива, используя компаратор по умолчанию, и возвращает индекс элемента, отсчитываемый от нуля.|
 
 
 
@@ -56,5 +57,5 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.vba](..)
-* класс [VbaModule](/cells/python-net/ru/aspose.cells.vba/vbamodule)
+* модуль [`aspose.cells.vba`](..)
+* класс [`VbaModule`](/cells/python-net/ru/aspose.cells.vba/vbamodule)

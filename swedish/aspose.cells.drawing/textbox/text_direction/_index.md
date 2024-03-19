@@ -3,7 +3,7 @@ title: text_direction fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 930
+weight: 950
 url: /sv/aspose.cells.drawing/textbox/text_direction/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_direction(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextBox](/cells/python-net/sv/aspose.cells.drawing/textbox)
-* klass [TextDirectionType](/cells/python-net/sv/aspose.cells/textdirectiontype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextBox`](/cells/python-net/sv/aspose.cells.drawing/textbox)
+* klass [`TextDirectionType`](/cells/python-net/sv/aspose.cells/textdirectiontype)

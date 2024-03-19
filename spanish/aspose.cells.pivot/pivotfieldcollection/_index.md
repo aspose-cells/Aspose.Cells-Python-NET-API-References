@@ -3,13 +3,13 @@ title: PivotFieldCollection clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 20
+weight: 80
 url: /es/aspose.cells.pivot/pivotfieldcollection/
 is_root: false
 ---
 ##  PivotFieldCollection clase
 Representa una colección de todos los objetos PivotField.
-en el tipo de PivotFields específico de la tabla dinámica.
+en el tipo de campos dinámicos específicos de la tabla dinámica.
 
 
 
@@ -33,11 +33,12 @@ Obtiene el objeto PivotField en el índice específico.
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [add_by_base_index(base_field_index)](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Agrega un objeto PivotField al tipo específico PivotFields.|
-| [add(pivot_field)](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/add/#PivotField) | Agrega un objeto PivotField al tipo específico PivotFields.|
-| [clear()](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/clear/#) | borrar todos los campos de PivotFieldCollection|
+| [add_by_base_index](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Agrega un objeto PivotField al tipo específico PivotFields.|
+| [add](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.PivotField) | Agrega un objeto PivotField al tipo específico PivotFields.|
+| [clear](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/clear/#) | borrar todos los campos de PivotFieldCollection|
+| [move](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Mueve el campo dinámico desde la posición actual a la posición de destino|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](..)
+* módulo [`aspose.cells.pivot`](..)

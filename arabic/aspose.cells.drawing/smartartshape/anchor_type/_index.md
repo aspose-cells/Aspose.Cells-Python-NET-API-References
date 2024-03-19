@@ -1,15 +1,15 @@
 ---
-title: anchor_type الملكية
+title: anchor_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 290
 url: /ar/aspose.cells.drawing/smartartshape/anchor_type/
 is_root: false
 ---
-##  anchor_type الملكية
+##  anchor_type عقار
 
-الحصول على الشكل وتعيين العنصر النائب لنقطة الارتساء.
+الحصول على العنصر النائب لترسيخ الشكل وتعيينه.
 
 ###  مثال
 
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapeAnchorType](/cells/python-net/ar/aspose.cells.drawing/shapeanchortype)
-* فئة [SmartArtShape](/cells/python-net/ar/aspose.cells.drawing/smartartshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapeAnchorType`](/cells/python-net/ar/aspose.cells.drawing/shapeanchortype)
+* فئة [`SmartArtShape`](/cells/python-net/ar/aspose.cells.drawing/smartartshape)

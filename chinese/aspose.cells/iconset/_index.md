@@ -1,9 +1,9 @@
 ---
 title: IconSet类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 900
+weight: 940
 url: /zh/aspose.cells/iconset/
 is_root: false
 ---
@@ -14,17 +14,17 @@ is_root: false
 
 
 
-IconSet 类型公开了以下成员：
+IconSet 类型公开以下成员：
 
 ### 特性
 |属性|描述|
 | :- | :- |
-| [cf_icons](/cells/python-net/zh/aspose.cells/iconset/cf_icons) |从集合中获取 the[ConditionalFormattingIcon](/cells/python-net/zh/aspose.cells/conditionalformattingicon)|
+| [cf_icons](/cells/python-net/zh/aspose.cells/iconset/cf_icons) |从集合中获取[`ConditionalFormattingIcon`](/cells/python-net/zh/aspose.cells/conditionalformattingicon)|
 | [cfvos](/cells/python-net/zh/aspose.cells/iconset/cfvos) |获取 CFValueObjects 实例。|
-| [type](/cells/python-net/zh/aspose.cells/iconset/type) |获取或设置要显示的图标集类型。<br/>设置类型将自动检查当前 Cfvos 的计数是否为<br/>符合新类型。如果不一致，旧的 Cfvos 将被清理并<br/>将添加默认 Cfvos。|
-| [is_custom](/cells/python-net/zh/aspose.cells/iconset/is_custom) |指示图标集是否为自定义。<br/>默认值为假。|
-| [show_value](/cells/python-net/zh/aspose.cells/iconset/show_value) |获取或设置标志，指示是否显示应用此图标集的单元格的值。<br/>默认值为真。|
-| [reverse](/cells/python-net/zh/aspose.cells/iconset/reverse) |获取或设置标志，指示是否反转此图标集中图标的默认顺序。<br/>默认值为假。|
+| [type](/cells/python-net/zh/aspose.cells/iconset/type) |获取或设置要显示的图标集类型。<br/>设置类型将自动检查当前 Cfvos 的计数是否为<br/>符合新类型。如果不符合，旧的 Cfvos 将被清理并<br/>将添加默认 Cfvos。|
+| [is_custom](/cells/python-net/zh/aspose.cells/iconset/is_custom) |指示图标集是否是自定义的。<br/>默认值为 false。|
+| [show_value](/cells/python-net/zh/aspose.cells/iconset/show_value) |获取或设置指示是否显示应用此图标集的单元格的值的标志。<br/>默认值为 true。|
+| [reverse](/cells/python-net/zh/aspose.cells/iconset/reverse) |获取或设置指示是否反转此图标集中图标的默认顺序的标志。<br/>默认值为 false。|
 
 
 
@@ -67,5 +67,5 @@ workbook.save("book1.xlsx")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
-* 类 [ConditionalFormattingIcon](/cells/python-net/zh/aspose.cells/conditionalformattingicon)
+* 模块[`aspose.cells`](..)
+* 类 [`ConditionalFormattingIcon`](/cells/python-net/zh/aspose.cells/conditionalformattingicon)

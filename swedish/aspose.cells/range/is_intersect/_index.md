@@ -3,11 +3,11 @@ title: is_intersect metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 140
 url: /sv/aspose.cells/range/is_intersect/
 is_root: false
 ---
-##  is_intersect(range) {#Range}
+##  is_intersect {#aspose.cells.Range}
 Indikerar om räckvidden är skärande.
 
 
@@ -24,7 +24,7 @@ def is_intersect(self, range):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/sv/aspose.cells/range) | Räckvidden.|
+| range | [`Range`](/cells/python-net/sv/aspose.cells/range) | Räckvidden.|
 ###  Anmärkningar
 
 Om de två områdena inte finns i samma kalkylblad, returnera false.
@@ -32,5 +32,5 @@ Om de två områdena inte finns i samma kalkylblad, returnera false.
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

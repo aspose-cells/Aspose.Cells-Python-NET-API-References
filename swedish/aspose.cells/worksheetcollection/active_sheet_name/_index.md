@@ -3,7 +3,7 @@ title: active_sheet_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 250
 url: /sv/aspose.cells/worksheetcollection/active_sheet_name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def active_sheet_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorksheetCollection](/cells/python-net/sv/aspose.cells/worksheetcollection)
+* modul [`aspose.cells`](../../)
+* klass [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection)

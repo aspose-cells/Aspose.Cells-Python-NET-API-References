@@ -3,7 +3,7 @@ title: export_as_html_string proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 40
+weight: 60
 url: /it/aspose.cells/exporttableoptions/export_as_html_string/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def export_as_html_string(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ExportTableOptions](/cells/python-net/it/aspose.cells/exporttableoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`ExportTableOptions`](/cells/python-net/it/aspose.cells/exporttableoptions)

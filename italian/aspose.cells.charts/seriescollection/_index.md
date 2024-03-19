@@ -1,45 +1,45 @@
 ---
-title: classe SeriesCollection
+title: SeriesCollection classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 240
+weight: 250
 url: /it/aspose.cells.charts/seriescollection/
 is_root: false
 ---
-##  classe SeriesCollection
-Incapsula una raccolta di oggetti [Series](/cells/python-net/it/aspose.cells.charts/series).
+##  SeriesCollection classe
+Incapsula una raccolta di [`Series`](/cells/python-net/it/aspose.cells.charts/series) oggetti.
 
 
 
-Il tipo SeriesCollection espone i membri seguenti:
+Il tipo SeriesCollection espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [category_data](/cells/python-net/it/aspose.cells.charts/seriescollection/category_data) | Ottiene o imposta l'intervallo dei valori della categoria Axis.<br/> Può essere un intervallo di celle (come "d1:e10"),<br/> o una sequenza di valori (come "{2,6,8,10}").|
-| [second_category_data](/cells/python-net/it/aspose.cells.charts/seriescollection/second_category_data) | Ottiene o imposta l'intervallo dei valori Axis della seconda categoria.<br/> Può essere un intervallo di celle (come "d1:e10"),<br/> o una sequenza di valori (come "{2,6,8,10}").<br/> Ha effetto solo quando alcuni ASeries tracciano sul secondo asse.|
-| [is_color_varied](/cells/python-net/it/aspose.cells.charts/seriescollection/is_color_varied) | Rappresenta se il colore dei punti è variato.|
+| [category_data](/cells/python-net/it/aspose.cells.charts/seriescollection/category_data) | Ottiene o imposta l'intervallo dei valori della categoria Axis.<br/> Può essere un intervallo di celle (ad esempio "d1:e10"),<br/> o una sequenza di valori (ad esempio,"{2,6,8,10}").|
+| [second_category_data](/cells/python-net/it/aspose.cells.charts/seriescollection/second_category_data) | Ottiene o imposta l'intervallo dei valori Axis della seconda categoria.<br/> Può essere un intervallo di celle (ad esempio "d1:e10"),<br/> o una sequenza di valori (ad esempio,"{2,6,8,10}").<br/> Ha effetto solo quando alcuni ASeries tracciano sul secondo asse.|
+| [is_color_varied](/cells/python-net/it/aspose.cells.charts/seriescollection/is_color_varied) |Rappresenta se il colore dei punti è vario.|
 | [capacity](/cells/python-net/it/aspose.cells.charts/seriescollection/capacity) | Ottiene o imposta il numero di elementi che l'elenco di matrici può contenere.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [add(area, is_vertical)](/cells/python-net/it/aspose.cells.charts/seriescollection/add/#str-bool) | Aggiunge la raccolta [SeriesCollection](/cells/python-net/it/aspose.cells.charts/seriescollection) a un grafico.|
-| [add(area, is_vertical, check_labels)](/cells/python-net/it/aspose.cells.charts/seriescollection/add/#str-bool-bool) | Aggiunge la raccolta [SeriesCollection](/cells/python-net/it/aspose.cells.charts/seriescollection) a un grafico.|
-| [copy_to(array)](/cells/python-net/it/aspose.cells.charts/seriescollection/copy_to/#list) | Copia l'intero elenco di matrici in un elenco di matrici unidimensionale compatibile, a partire dall'inizio dell'elenco di matrici di destinazione.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/it/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) |Copia un intervallo di elementi dall'elenco di matrici a un elenco di matrici unidimensionale compatibile, a partire dall'indice specificato dell'elenco di matrici di destinazione.|
-| [index_of(item, index)](/cells/python-net/it/aspose.cells.charts/seriescollection/index_of/#Series-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che si estende dall'indice specificato all'ultimo elemento.|
-| [index_of(item, index, count)](/cells/python-net/it/aspose.cells.charts/seriescollection/index_of/#Series-int-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che inizia dall'indice specificato e contiene il numero specificato di elementi.|
-| [last_index_of(item)](/cells/python-net/it/aspose.cells.charts/seriescollection/last_index_of/#Series) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intero elenco di matrici.|
-| [last_index_of(item, index)](/cells/python-net/it/aspose.cells.charts/seriescollection/last_index_of/#Series-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che si estende dal primo elemento all'indice specificato.|
-| [last_index_of(item, index, count)](/cells/python-net/it/aspose.cells.charts/seriescollection/last_index_of/#Series-int-int) |Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che contiene il numero specificato di elementi e termina con l'indice specificato.|
-| [get_series_by_order(order)](/cells/python-net/it/aspose.cells.charts/seriescollection/get_series_by_order/#int) | Ottiene l'elemento [Series](/cells/python-net/it/aspose.cells.charts/series) in base all'ordine.|
-| [change_series_order(source_index, dest_index)](/cells/python-net/it/aspose.cells.charts/seriescollection/change_series_order/#int-int) | Cambia direttamente gli ordini delle due serie.|
-| [set_series_names(start_index, area, is_vertical)](/cells/python-net/it/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Imposta il nome di tutte le serie nel grafico.|
-| [add_r1c1(area, is_vertical)](/cells/python-net/it/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | Aggiunge la raccolta [SeriesCollection](/cells/python-net/it/aspose.cells.charts/seriescollection) a un grafico.|
-| [binary_search(item)](/cells/python-net/it/aspose.cells.charts/seriescollection/binary_search/#Series) | Cerca un elemento nell'intero elenco di matrici ordinate utilizzando l'operatore di confronto predefinito e restituisce l'indice in base zero dell'elemento.|
+| [add](/cells/python-net/it/aspose.cells.charts/seriescollection/add/#str-bool) | Aggiunge la raccolta [`Series`](/cells/python-net/it/aspose.cells.charts/series) a un grafico.|
+| [add](/cells/python-net/it/aspose.cells.charts/seriescollection/add/#str-bool-bool) | Aggiunge la raccolta [`Series`](/cells/python-net/it/aspose.cells.charts/series) a un grafico.|
+| [copy_to](/cells/python-net/it/aspose.cells.charts/seriescollection/copy_to/#list) | Copia l'intero elenco di matrici in un elenco di matrici unidimensionali compatibile, a partire dall'inizio dell'elenco di matrici di destinazione.|
+| [copy_to](/cells/python-net/it/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) | Copia un intervallo di elementi dall'elenco di matrici a un elenco di matrici unidimensionali compatibile, a partire dall'indice specificato dell'elenco di matrici di destinazione.|
+| [index_of](/cells/python-net/it/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che si estende dall'indice specificato all'ultimo elemento.|
+| [index_of](/cells/python-net/it/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int-int) |Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che inizia in corrispondenza dell'indice specificato e contiene il numero di elementi specificato.|
+| [last_index_of](/cells/python-net/it/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intero elenco di matrici.|
+| [last_index_of](/cells/python-net/it/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che si estende dal primo elemento all'indice specificato.|
+| [last_index_of](/cells/python-net/it/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che contiene il numero di elementi specificato e termina con l'indice specificato.|
+| [get_series_by_order](/cells/python-net/it/aspose.cells.charts/seriescollection/get_series_by_order/#int) | Ottiene l'elemento [`Series`](/cells/python-net/it/aspose.cells.charts/series) per ordine.|
+| [change_series_order](/cells/python-net/it/aspose.cells.charts/seriescollection/change_series_order/#int-int) | Cambia direttamente gli ordini delle due serie.|
+| [set_series_names](/cells/python-net/it/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Imposta il nome di tutte le serie nel grafico.|
+| [add_r1c1](/cells/python-net/it/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | Aggiunge la raccolta [`Series`](/cells/python-net/it/aspose.cells.charts/series) a un grafico.|
+| [binary_search](/cells/python-net/it/aspose.cells.charts/seriescollection/binary_search/#aspose.cells.charts.Series) | Cerca un elemento nell'intero elenco di array ordinato utilizzando l'operatore di confronto predefinito e restituisce l'indice in base zero dell'elemento.|
 
 
 
@@ -93,6 +93,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
-* classe [SeriesCollection](/cells/python-net/it/aspose.cells.charts/seriescollection)
+* modulo [`aspose.cells.charts`](..)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

@@ -3,13 +3,13 @@ title: is_color_varied propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 280
+weight: 270
 url: /fr/aspose.cells.charts/series/is_color_varied/
 is_root: false
 ---
 ##  is_color_varied propriété
 
- Représente si la couleur des points est variée.
+ Représente si la couleur des points varie.
 Le graphique ne doit contenir qu'une seule série.
 ###  Définition:
 ```python
@@ -22,5 +22,5 @@ def is_color_varied(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

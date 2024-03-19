@@ -3,7 +3,7 @@ title: is_cloud_platform fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 230
+weight: 240
 url: /sv/aspose.cells/cellshelper/is_cloud_platform/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_cloud_platform(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsHelper](/cells/python-net/sv/aspose.cells/cellshelper)
+* modul [`aspose.cells`](../../)
+* klass [`CellsHelper`](/cells/python-net/sv/aspose.cells/cellshelper)

@@ -1,9 +1,9 @@
 ---
 title: text_horizontal_overflow недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 980
+weight: 990
 url: /ru/aspose.cells.drawing/chartshape/text_horizontal_overflow/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ChartShape](/cells/python-net/ru/aspose.cells.drawing/chartshape)
-* класс [TextOverflowType](/cells/python-net/ru/aspose.cells.drawing/textoverflowtype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ChartShape`](/cells/python-net/ru/aspose.cells.drawing/chartshape)
+* класс [`TextOverflowType`](/cells/python-net/ru/aspose.cells.drawing/textoverflowtype)

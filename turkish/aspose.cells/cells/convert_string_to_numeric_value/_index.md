@@ -7,8 +7,8 @@ weight: 140
 url: /tr/aspose.cells/cells/convert_string_to_numeric_value/
 is_root: false
 ---
-##  convert_string_to_numeric_value() {#}
-Mümkünse hücrelerdeki dize verilerini sayısal değere dönüştürür.
+##  convert_string_to_numeric_value {#}
+Mümkünse çalışma sayfasındaki tüm dize verilerini sayısal değere dönüştürür.
 
 
 
@@ -22,5 +22,5 @@ def convert_string_to_numeric_value(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

@@ -1,15 +1,15 @@
 ---
 title: is_flipped_vertically недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 560
+weight: 570
 url: /ru/aspose.cells.drawing/combobox/is_flipped_vertically/
 is_root: false
 ---
 ##  is_flipped_vertically недвижимость
 
-Получает и задает, отражается ли фигура по вертикали.
+Получает и устанавливает, переворачивается ли фигура по вертикали.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def is_flipped_vertically(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ComboBox](/cells/python-net/ru/aspose.cells.drawing/combobox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ComboBox`](/cells/python-net/ru/aspose.cells.drawing/combobox)

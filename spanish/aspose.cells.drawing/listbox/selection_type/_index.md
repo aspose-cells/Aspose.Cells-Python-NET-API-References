@@ -3,7 +3,7 @@ title: selection_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 930
+weight: 940
 url: /es/aspose.cells.drawing/listbox/selection_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def selection_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ListBox](/cells/python-net/es/aspose.cells.drawing/listbox)
-* clase [SelectionType](/cells/python-net/es/aspose.cells.drawing/selectiontype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ListBox`](/cells/python-net/es/aspose.cells.drawing/listbox)
+* clase [`SelectionType`](/cells/python-net/es/aspose.cells.drawing/selectiontype)

@@ -1,13 +1,13 @@
 ---
-title: input_title الملكية
+title: input_title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells/validation/input_title/
 is_root: false
 ---
-##  input_title الملكية
+##  input_title عقار
 
 يمثل عنوان مربع حوار إدخال التحقق من صحة البيانات.
 ###  تعريف:
@@ -21,5 +21,5 @@ def input_title(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Validation](/cells/python-net/ar/aspose.cells/validation)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Validation`](/cells/python-net/ar/aspose.cells/validation)

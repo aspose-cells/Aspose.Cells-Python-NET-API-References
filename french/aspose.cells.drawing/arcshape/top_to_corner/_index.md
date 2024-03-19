@@ -3,13 +3,13 @@ title: top_to_corner propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /fr/aspose.cells.drawing/arcshape/top_to_corner/
 is_root: false
 ---
 ##  top_to_corner propriété
 
-Obtient et définit le décalage vertical de la forme par rapport à la bordure supérieure de la feuille de calcul, en pixels.
+Obtient et définit le décalage vertical de la forme par rapport à la bordure supérieure de la feuille de calcul, en unités de pixels.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/fr/aspose.cells.drawing/arcshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/fr/aspose.cells.drawing/arcshape)

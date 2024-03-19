@@ -3,7 +3,7 @@ title: pivot_items Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 490
+weight: 530
 url: /de/aspose.cells.pivot/pivotfield/pivot_items/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def pivot_items(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotField](/cells/python-net/de/aspose.cells.pivot/pivotfield)
-* Klasse [PivotItemCollection](/cells/python-net/de/aspose.cells.pivot/pivotitemcollection)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotField`](/cells/python-net/de/aspose.cells.pivot/pivotfield)
+* Klasse [`PivotItemCollection`](/cells/python-net/de/aspose.cells.pivot/pivotitemcollection)

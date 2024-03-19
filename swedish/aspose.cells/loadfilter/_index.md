@@ -3,7 +3,7 @@ title: LoadFilter klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1010
+weight: 1050
 url: /sv/aspose.cells/loadfilter/
 is_root: false
 ---
@@ -17,8 +17,8 @@ Typen LoadFilter avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [LoadFilter()](/cells/python-net/sv/aspose.cells/loadfilter/__init__/#) | Konstruerar ett LoadFilter med standardfilteralternativ LoadDataFilterOptions.All.|
-| [LoadFilter(opts)](/cells/python-net/sv/aspose.cells/loadfilter/__init__/#LoadDataFilterOptions) | Konstruerar ett LoadFilter med givna filteralternativ.|
+| [__init__](/cells/python-net/sv/aspose.cells/loadfilter/__init__/#) | Konstruerar ett LoadFilter med standardfilteralternativ LoadDataFilterOptions.All.|
+| [__init__](/cells/python-net/sv/aspose.cells/loadfilter/__init__/#aspose.cells.LoadDataFilterOptions) | Konstruerar ett LoadFilter med givna filteralternativ.|
 
 
 ###  Egenskaper
@@ -31,7 +31,7 @@ Typen LoadFilter avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [start_sheet(sheet)](/cells/python-net/sv/aspose.cells/loadfilter/start_sheet/#Worksheet) | Förbereder filteralternativ innan du laddar ett visst kalkylblad.<br/>Användarens implementering av LoadFilter kan ändra LoadDataFilterOptions här<br/> för att ange hur man laddar data för detta kalkylblad.|
+| [start_sheet](/cells/python-net/sv/aspose.cells/loadfilter/start_sheet/#aspose.cells.Worksheet) | Förbereder filteralternativ innan du laddar ett visst kalkylblad.<br/>Användarens implementering av LoadFilter kan ändra LoadDataFilterOptions här<br/> för att ange hur man laddar data för detta kalkylblad.|
 
 
 
@@ -40,4 +40,4 @@ Typen LoadFilter avslöjar följande medlemmar:
 Användaren kan specificera filteralternativen eller implementera sin egen LoadFilter för att specificera hur data ska laddas.
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

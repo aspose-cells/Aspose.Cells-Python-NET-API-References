@@ -3,20 +3,20 @@ title: height_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 510
+weight: 520
 url: /tr/aspose.cells.drawing/oleobject/height_cm/
 is_root: false
 ---
 ##  height_cm mülk
 
-Şeklin santimetre cinsinden yüksekliğini temsil eder.
+Şeklin yüksekliğini santimetre cinsinden temsil eder.
 
 ###  Örnek
 
 ```python
 
 if shape.height_cm == 3:
-    shape.height_cm = 1
+    shape.height_cm = 1.0
 
 ```
 ###  Tanım:
@@ -30,5 +30,5 @@ def height_cm(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [OleObject](/cells/python-net/tr/aspose.cells.drawing/oleobject)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`OleObject`](/cells/python-net/tr/aspose.cells.drawing/oleobject)

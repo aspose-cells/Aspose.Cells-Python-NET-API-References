@@ -3,7 +3,7 @@ title: FilterType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2060
+weight: 2130
 url: /tr/aspose.cells/filtertype/
 is_root: false
 ---
@@ -12,20 +12,20 @@ Filtre türü.
 
 
 
-FilterType türü aşağıdaki üyeleri gösterir:
+FilterType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | COLOR_FILTER | Hücrenin dolgu rengine göre filtreleyin.|
 | CUSTOM_FILTERS | Özel filtre türü.|
 | DYNAMIC_FILTER | Dinamik filtre türü.|
-| MULTIPLE_FILTERS | Filtrelemek için birden fazla değer seçildiğinde veya filtrelemek için bir tarih değerleri grubu seçildiğinde,<br/> bu öğe, bu kriterleri birlikte gruplandırır.|
+| MULTIPLE_FILTERS | Filtrelemek için birden fazla değer seçildiğinde veya filtre uygulamak için bir grup tarih değeri seçildiğinde,<br/> bu öğe bu kriterleri bir arada gruplandırır.|
 | ICON_FILTER | Koşullu biçimlendirme simgesine göre filtreleyin.|
-| TOP10 | En iyi 10 filtre.|
+| TOP10 | İlk 10 filtre.|
 | NONE | Filtresiz.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

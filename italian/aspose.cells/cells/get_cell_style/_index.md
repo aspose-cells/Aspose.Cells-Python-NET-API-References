@@ -1,19 +1,19 @@
 ---
-title: metodo get_cell_style
+title: Metodo get_cell_style
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 340
+weight: 320
 url: /it/aspose.cells/cells/get_cell_style/
 is_root: false
 ---
-##  get_cell_style(row, column) {#int-int}
-Ottieni lo stile di una data cella.
+##  get_cell_style {#int-int}
+Ottieni lo stile della cella specificata.
 
 
 ###  ritorna
 
-lo stile di una data cella.
+lo stile di una determinata cella.
 
 
 ```python
@@ -30,5 +30,5 @@ def get_cell_style(self, row, column):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

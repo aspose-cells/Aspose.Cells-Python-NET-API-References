@@ -1,13 +1,13 @@
 ---
-title: is_equation 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_equation属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 530
+weight: 540
 url: /zh/aspose.cells.drawing/chartshape/is_equation/
 is_root: false
 ---
-## is_equation 属性
+## is_equation属性
 
 指示形状是否仅包含方程。
 
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ChartShape](/cells/python-net/zh/aspose.cells.drawing/chartshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ChartShape`](/cells/python-net/zh/aspose.cells.drawing/chartshape)

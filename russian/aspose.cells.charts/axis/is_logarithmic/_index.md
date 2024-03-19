@@ -1,9 +1,9 @@
 ---
 title: is_logarithmic недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ru/aspose.cells.charts/axis/is_logarithmic/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_logarithmic(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)

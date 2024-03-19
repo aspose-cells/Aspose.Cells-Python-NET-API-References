@@ -3,7 +3,7 @@ title: current_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 330
+weight: 350
 url: /tr/aspose.cells.drawing/scrollbar/current_value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def current_value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ScrollBar](/cells/python-net/tr/aspose.cells.drawing/scrollbar)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ScrollBar`](/cells/python-net/tr/aspose.cells.drawing/scrollbar)

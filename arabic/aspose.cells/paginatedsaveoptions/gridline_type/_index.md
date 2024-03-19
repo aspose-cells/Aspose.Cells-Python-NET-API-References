@@ -1,19 +1,19 @@
 ---
-title: gridline_type الملكية
+title: gridline_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ar/aspose.cells/paginatedsaveoptions/gridline_type/
 is_root: false
 ---
-##  gridline_type الملكية
+##  gridline_type عقار
 
-الحصول على نوع خط الشبكة أو تعيينه.
+الحصول على أو تعيين نوع خط الشبكة.
 
 ###  ملاحظات
 
-النوع الافتراضي هو نوع منقط.
+الافتراضي هو النوع المنقط.
 ###  تعريف:
 ```python
 @property
@@ -25,6 +25,6 @@ def gridline_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GridlineType](/cells/python-net/ar/aspose.cells/gridlinetype)
-* فئة [PaginatedSaveOptions](/cells/python-net/ar/aspose.cells/paginatedsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GridlineType`](/cells/python-net/ar/aspose.cells/gridlinetype)
+* فئة [`PaginatedSaveOptions`](/cells/python-net/ar/aspose.cells/paginatedsaveoptions)

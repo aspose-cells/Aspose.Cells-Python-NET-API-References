@@ -3,7 +3,7 @@ title: XmlSaveOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1720
+weight: 1790
 url: /sv/aspose.cells/xmlsaveoptions/
 is_root: false
 ---
@@ -12,8 +12,8 @@ Representerar alternativen för att spara arbetsboken som en xml-fil.
 
 
 
-**Arv:** [XmlSaveOptions](/cells/python-net/aspose.cells/xmlsaveoptions) → 
-[SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
+**Arv:** [`XmlSaveOptions`](/cells/python-net/aspose.cells/xmlsaveoptions) → 
+[`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)
 
 
 
@@ -22,7 +22,7 @@ Typen XmlSaveOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [XmlSaveOptions()](/cells/python-net/sv/aspose.cells/xmlsaveoptions/__init__/#) | Skapar alternativ för att spara xml-fil.|
+| [__init__](/cells/python-net/sv/aspose.cells/xmlsaveoptions/__init__/#) | Skapar alternativ för att spara xml-fil.|
 
 
 ###  Egenskaper
@@ -35,7 +35,7 @@ Typen XmlSaveOptions avslöjar följande medlemmar:
 | [merge_areas](/cells/python-net/sv/aspose.cells/xmlsaveoptions/merge_areas) | Anger om områdena för villkorlig formatering och validering ska slås samman innan filen sparas.|
 | [create_directory](/cells/python-net/sv/aspose.cells/xmlsaveoptions/create_directory) | Om sant och katalogen inte finns skapas katalogen automatiskt innan filen sparas.|
 | [sort_names](/cells/python-net/sv/aspose.cells/xmlsaveoptions/sort_names) | Anger om du sorterar definierade namn innan filen sparas.|
-| [sort_external_names](/cells/python-net/sv/aspose.cells/xmlsaveoptions/sort_external_names) |Anger om externt definierade namn sorteras innan filen sparas.|
+| [sort_external_names](/cells/python-net/sv/aspose.cells/xmlsaveoptions/sort_external_names) | Anger om externt definierade namn sorteras innan filen sparas.|
 | [refresh_chart_cache](/cells/python-net/sv/aspose.cells/xmlsaveoptions/refresh_chart_cache) | Anger om diagramcachedata uppdateras|
 | [warning_callback](/cells/python-net/sv/aspose.cells/xmlsaveoptions/warning_callback) | Får eller ställer in varningsåteruppringning.|
 | [update_smart_art](/cells/python-net/sv/aspose.cells/xmlsaveoptions/update_smart_art) | Indikerar om inställningen för smart konst uppdateras.<br/> Standardvärdet är falskt.|
@@ -43,10 +43,12 @@ Typen XmlSaveOptions avslöjar följande medlemmar:
 | [export_area](/cells/python-net/sv/aspose.cells/xmlsaveoptions/export_area) | Hämtar eller ställer in exportintervallet.|
 | [has_header_row](/cells/python-net/sv/aspose.cells/xmlsaveoptions/has_header_row) | Anger om intervallet innehåller rubrikrad.|
 | [xml_map_name](/cells/python-net/sv/aspose.cells/xmlsaveoptions/xml_map_name) | Anger om xml-karta exporteras i filen.|
+| [sheet_name_as_element_name](/cells/python-net/sv/aspose.cells/xmlsaveoptions/sheet_name_as_element_name) | Anger om det exporterar arkets namn som namnet på elementet.|
+| [data_as_attribute](/cells/python-net/sv/aspose.cells/xmlsaveoptions/data_as_attribute) | Anger om data exporteras som attribut för element.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
-* klass [XmlSaveOptions](/cells/python-net/sv/aspose.cells/xmlsaveoptions)
+* modul [`aspose.cells`](..)
+* klass [`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)
+* klass [`XmlSaveOptions`](/cells/python-net/sv/aspose.cells/xmlsaveoptions)

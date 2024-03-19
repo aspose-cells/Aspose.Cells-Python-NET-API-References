@@ -3,7 +3,7 @@ title: UpdateLinksType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2620
+weight: 2710
 url: /sv/aspose.cells/updatelinkstype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen UpdateLinksType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

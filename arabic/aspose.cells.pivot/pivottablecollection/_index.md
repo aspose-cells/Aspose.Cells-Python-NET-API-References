@@ -1,45 +1,45 @@
 ---
-title: PivotTableCollection الدرجة
+title: PivotTableCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 190
 url: /ar/aspose.cells.pivot/pivottablecollection/
 is_root: false
 ---
-##  PivotTableCollection الدرجة
-يمثل مجموعة كل كائنات PivotTable في ورقة العمل المحددة.
+##  PivotTableCollection صف
+يمثل مجموعة كافة كائنات PivotTable في ورقة العمل المحددة.
 
 
 
-يكشف نوع PivotTableCollection الأعضاء التالية:
+يكشف النوع PivotTableCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [capacity](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/capacity) | الحصول على أو تحديد عدد العناصر التي يمكن أن تحتويها قائمة الصفيف.|
+| [capacity](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/capacity) | الحصول على أو تعيين عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add(source_data, dest_cell_name, table_name)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | يضيف ذاكرة تخزين مؤقت PivotTable جديدة إلى مجموعة PivotCaches.|
-| [add(source_data, dest_cell_name, table_name, use_same_source)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | يضيف ذاكرة تخزين مؤقت PivotTable جديدة إلى مجموعة PivotCaches.|
-| [add(source_data, row, column, table_name)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | يضيف ذاكرة تخزين مؤقت PivotTable جديدة إلى مجموعة PivotCaches.|
-| [add(source_data, row, column, table_name, use_same_source)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | يضيف ذاكرة تخزين مؤقت PivotTable جديدة إلى مجموعة PivotCaches.|
-| [add(pivot_table, dest_cell_name, table_name)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#PivotTable-str-str) | إضافة كائن PivotTable جديد إلى المجموعة من PivotTable آخر.|
-| [add(pivot_table, row, column, table_name)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#PivotTable-int-int-str) | إضافة كائن PivotTable جديد إلى المجموعة من PivotTable آخر.|
-| [add(source_data, is_auto_page, page_fields, dest_cell_name, table_name)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#list-bool-PivotPageFields-str-str) | يضيف كائن PivotTable جديدًا إلى المجموعة ذات نطاقات الدمج المتعددة كمصدر بيانات.|
-| [add(source_data, is_auto_page, page_fields, row, column, table_name)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#list-bool-PivotPageFields-int-int-str) | يضيف كائن PivotTable جديدًا إلى المجموعة ذات نطاقات الدمج المتعددة كمصدر بيانات.|
-| [copy_to(array)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/copy_to/#list) | ينسخ قائمة المصفوفات بأكملها إلى قائمة مصفوفة متوافقة أحادية البعد ، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) |ينسخ نطاقًا من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة ، بدءًا من الفهرس المحدد لقائمة الصفيف الهدف.|
-| [index_of(item, index)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/index_of/#PivotTable-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of(item, index, count)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/index_of/#PivotTable-int-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ بالفهرس المحدد ويحتوي على عدد محدد من العناصر.|
-| [last_index_of(item)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of(item, index)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of(item, index, count)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
-| [remove_at(index, keep_data)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | يحذف PivotTable في الفهرس المحدد|
-| [binary_search(item)](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/binary_search/#PivotTable) | يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.|
+| [add](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | إضافة ذاكرة تخزين مؤقت PivotTable جديدة إلى مجموعة PivotCaches.|
+| [add](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | إضافة ذاكرة تخزين مؤقت PivotTable جديدة إلى مجموعة PivotCaches.|
+| [add](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | إضافة ذاكرة تخزين مؤقت PivotTable جديدة إلى مجموعة PivotCaches.|
+| [add](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | إضافة ذاكرة تخزين مؤقت PivotTable جديدة إلى مجموعة PivotCaches.|
+| [add](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-str-str) | إضافة كائن PivotTable جديد إلى المجموعة من PivotTable آخر.|
+| [add](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | إضافة كائن PivotTable جديد إلى المجموعة من PivotTable آخر.|
+| [add](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-str-str) |إضافة كائن PivotTable جديد إلى المجموعة بنطاقات دمج متعددة كمصدر بيانات.|
+| [add](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-int-int-str) |إضافة كائن PivotTable جديد إلى المجموعة بنطاقات دمج متعددة كمصدر بيانات.|
+| [copy_to](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/copy_to/#list) | نسخ قائمة الصفيف بأكملها إلى قائمة صفيف أحادية البعد متوافقة، بدءًا من بداية قائمة الصفيف الهدف.|
+| [copy_to](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) | نسخ نطاق من العناصر من قائمة المصفوفات إلى قائمة مصفوفات متوافقة أحادية البعد، بدءًا من الفهرس المحدد لقائمة المصفوفات المستهدفة.|
+| [index_of](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [index_of](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ عند الفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [last_index_of](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
+| [last_index_of](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [last_index_of](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على العدد المحدد من العناصر وينتهي عند الفهرس المحدد.|
+| [remove_at](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | حذف PivotTable في الفهرس المحدد|
+| [binary_search](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.PivotTable) | يبحث في قائمة المصفوفات التي تم فرزها بالكامل عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس الصفري للعنصر.|
 
 
 
@@ -112,4 +112,4 @@ book.save("out.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](..)
+* الوحدة [`aspose.cells.pivot`](..)

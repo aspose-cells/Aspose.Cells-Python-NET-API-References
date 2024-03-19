@@ -1,13 +1,13 @@
 ---
 title: refresh_pivot_tables метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ru/aspose.cells/worksheetcollection/refresh_pivot_tables/
 is_root: false
 ---
-##  refresh_pivot_tables() {#}
+##  refresh_pivot_tables {#}
 Обновляет все сводные таблицы в коллекции WorksheetCollection.
 
 
@@ -22,5 +22,5 @@ def refresh_pivot_tables(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorksheetCollection](/cells/python-net/ru/aspose.cells/worksheetcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`WorksheetCollection`](/cells/python-net/ru/aspose.cells/worksheetcollection)

@@ -3,13 +3,13 @@ title: walls Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 630
+weight: 660
 url: /de/aspose.cells.charts/chart/walls/
 is_root: false
 ---
 ##  walls Eigentum
 
-Gibt ein [Chart.walls](/cells/python-net/de/aspose.cells.charts/chart#walls)-Objekt zurück, das das walls eines 3D-Diagramms darstellt.
+Gibt ein [`Chart.walls`](/cells/python-net/de/aspose.cells.charts/chart#walls)-Objekt zurück, das die walls eines 3D-Diagramms darstellt.
 
 ###  Bemerkungen
 
@@ -22,6 +22,6 @@ def walls(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Chart](/cells/python-net/de/aspose.cells.charts/chart)
-* Klasse [Walls](/cells/python-net/de/aspose.cells.charts/walls)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Chart`](/cells/python-net/de/aspose.cells.charts/chart)
+* Klasse [`Walls`](/cells/python-net/de/aspose.cells.charts/walls)

@@ -3,13 +3,13 @@ title: control_data Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 380
 url: /de/aspose.cells.drawing/oleobject/control_data/
 is_root: false
 ---
 ##  control_data Eigentum
 
-Ruft die Daten der Steuerung ab.
+Ruft die Kontrolldaten ab.
 
 ###  Beispiel
 
@@ -27,5 +27,5 @@ def control_data(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [OleObject](/cells/python-net/de/aspose.cells.drawing/oleobject)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`OleObject`](/cells/python-net/de/aspose.cells.drawing/oleobject)

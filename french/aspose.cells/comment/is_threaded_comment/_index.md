@@ -3,13 +3,13 @@ title: is_threaded_comment propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 150
+weight: 160
 url: /fr/aspose.cells/comment/is_threaded_comment/
 is_root: false
 ---
 ##  is_threaded_comment propriété
 
-Indique si ce commentaire est un commentaire fileté.
+Indique si ce commentaire est un commentaire filé.
 
 ###  Exemple
 
@@ -27,5 +27,5 @@ def is_threaded_comment(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Comment](/cells/python-net/fr/aspose.cells/comment)
+* module [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/fr/aspose.cells/comment)

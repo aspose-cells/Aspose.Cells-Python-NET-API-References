@@ -1,27 +1,27 @@
 ---
-title: العد TextCapsType
+title: TextCapsType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2530
+weight: 2620
 url: /ar/aspose.cells/textcapstype/
 is_root: false
 ---
-##  العد TextCapsType
-يحدد هذا النوع أنواع الأحرف الاستهلالية للنص.
+##  TextCapsType التعداد
+يحدد هذا النوع أنواع الحروف الكبيرة للنص.
 
 
 
-يكشف نوع TextCapsType الأعضاء التالية:
+يكشف النوع TextCapsType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | لا يوجد قبعات|
-| ALL | قم بتطبيق كل الأحرف الاستهلالية على النص.|
-| SMALL | ضع حروف استهلالية صغيرة على النص.|
+| NONE | لا شيء قبعات|
+| ALL | تطبيق كافة الأحرف الاستهلالية على النص.|
+| SMALL | تطبيق أحرف صغيرة على النص.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

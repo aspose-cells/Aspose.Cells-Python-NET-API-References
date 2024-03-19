@@ -7,8 +7,8 @@ weight: 140
 url: /sv/aspose.cells/cells/convert_string_to_numeric_value/
 is_root: false
 ---
-##  convert_string_to_numeric_value() {#}
-Konverterar strängdata i celler till numeriskt värde om möjligt.
+##  convert_string_to_numeric_value {#}
+Konverterar alla strängdata i kalkylbladet till numeriska värden om möjligt.
 
 
 
@@ -22,5 +22,5 @@ def convert_string_to_numeric_value(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

@@ -1,13 +1,13 @@
 ---
 title: selected_item方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 200
 url: /zh/aspose.cells.drawing/listbox/selected_item/
 is_root: false
 ---
-##  selected_item(item_index, is_selected) {#int-bool}
+##  selected_item {#int-bool}
 设置项目是否被选中
 
 
@@ -26,5 +26,5 @@ def selected_item(self, item_index, is_selected):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ListBox](/cells/python-net/zh/aspose.cells.drawing/listbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ListBox`](/cells/python-net/zh/aspose.cells.drawing/listbox)

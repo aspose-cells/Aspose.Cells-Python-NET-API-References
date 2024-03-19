@@ -3,7 +3,7 @@ title: DefaultEditLanguage numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1950
+weight: 2020
 url: /tr/aspose.cells/defaulteditlanguage/
 is_root: false
 ---
@@ -12,16 +12,16 @@ Varsayılan düzenleme dilini temsil eder.
 
 
 
-DefaultEditLanguage türü aşağıdaki üyeleri gösterir:
+DefaultEditLanguage türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| AUTO | Metnin kendisine göre otomatik olarak algılanan düzenleme dilini temsil eder.|
-| ENGLISH | İngiliz dilini temsil eder.|
+| AUTO | Metnin kendisine göre düzenleme dilinin otomatik olarak algılanmasını temsil eder.|
+| ENGLISH | İngilizce dilini temsil eder.|
 | CJK | Çince, Japonca, Kore dilini temsil eder.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

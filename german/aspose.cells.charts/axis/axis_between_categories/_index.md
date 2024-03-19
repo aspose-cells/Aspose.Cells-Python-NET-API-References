@@ -3,13 +3,13 @@ title: axis_between_categories Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 40
+weight: 50
 url: /de/aspose.cells.charts/axis/axis_between_categories/
 is_root: false
 ---
 ##  axis_between_categories Eigentum
 
-Stellt dar, ob die Wertachse die Kategorieachse zwischen den Kategorien schneidet.
+Stellt dar, ob die Wertachse die Kategorieachse zwischen Kategorien kreuzt.
 
 ###  Bemerkungen
 
@@ -25,5 +25,5 @@ def axis_between_categories(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Axis](/cells/python-net/de/aspose.cells.charts/axis)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Axis`](/cells/python-net/de/aspose.cells.charts/axis)

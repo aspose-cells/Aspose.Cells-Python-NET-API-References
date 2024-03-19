@@ -1,14 +1,14 @@
 ---
-title: Bar3DShapeType dénombrement
+title: Bar3DShapeType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 380
+weight: 390
 url: /fr/aspose.cells.charts/bar3dshapetype/
 is_root: false
 ---
-##  Bar3DShapeType dénombrement
-Représente la forme utilisée avec l'histogramme ou l'histogramme 3D.
+##  Bar3DShapeType énumération
+Représente la forme utilisée avec le graphique à barres ou à colonnes 3D.
 
 
 
@@ -27,4 +27,4 @@ Le type Bar3DShapeType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

@@ -3,7 +3,7 @@ title: call_back fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 90
 url: /sv/aspose.cells/workbookdesigner/call_back/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def call_back(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ISmartMarkerCallBack](/cells/python-net/sv/aspose.cells/ismartmarkercallback)
-* klass [WorkbookDesigner](/cells/python-net/sv/aspose.cells/workbookdesigner)
+* modul [`aspose.cells`](../../)
+* klass [`ISmartMarkerCallBack`](/cells/python-net/sv/aspose.cells/ismartmarkercallback)
+* klass [`WorkbookDesigner`](/cells/python-net/sv/aspose.cells/workbookdesigner)

@@ -1,15 +1,15 @@
 ---
-title: anchor_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: anchor_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 270
+weight: 290
 url: /zh/aspose.cells.drawing/button/anchor_type/
 is_root: false
 ---
-## anchor_type 属性
+## anchor_type属性
 
-获取和设置形状锚点占位符。
+获取并设置形状锚点占位符。
 
 ### 例子
 
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Button](/cells/python-net/zh/aspose.cells.drawing/button)
-* 类 [ShapeAnchorType](/cells/python-net/zh/aspose.cells.drawing/shapeanchortype)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Button`](/cells/python-net/zh/aspose.cells.drawing/button)
+* 类 [`ShapeAnchorType`](/cells/python-net/zh/aspose.cells.drawing/shapeanchortype)

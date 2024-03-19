@@ -9,7 +9,12 @@ is_root: false
 ---
 ##  print_permission propriété
 
-Autorisation d'imprimer un document pdf
+Indique s’il faut autoriser l’impression du document.
+
+###  Remarques
+
+ Peut-être pas au plus haut niveau de qualité,
+selon que [`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/fr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission) est également défini.
 ###  Définition:
 ```python
 @property
@@ -21,5 +26,5 @@ def print_permission(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering.pdfsecurity](../../)
-* classe [PdfSecurityOptions](/cells/python-net/fr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* module [`aspose.cells.rendering.pdfsecurity`](../../)
+* classe [`PdfSecurityOptions`](/cells/python-net/fr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

@@ -3,7 +3,7 @@ title: NumberCategoryType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2260
+weight: 2350
 url: /tr/aspose.cells/numbercategorytype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Hücrenin sayı biçimlendirmesinin kategori türünü temsil eder.
 
 
 
-NumberCategoryType türü aşağıdaki üyeleri gösterir:
+NumberCategoryType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | GENERAL | Genel|
@@ -22,10 +22,10 @@ NumberCategoryType türü aşağıdaki üyeleri gösterir:
 | NUMBER | Sayı|
 | DATE | Tarih veya Tarih ve Saat|
 | TIME | Zaman|
-| FRACTION | kesir|
+| FRACTION | Kesir|
 | SCIENTIFIC | İlmi|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

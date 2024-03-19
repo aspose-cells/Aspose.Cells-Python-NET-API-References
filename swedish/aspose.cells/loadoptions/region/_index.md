@@ -3,7 +3,7 @@ title: region fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 230
 url: /sv/aspose.cells/loadoptions/region/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def region(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CountryCode](/cells/python-net/sv/aspose.cells/countrycode)
-* klass [LoadOptions](/cells/python-net/sv/aspose.cells/loadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CountryCode`](/cells/python-net/sv/aspose.cells/countrycode)
+* klass [`LoadOptions`](/cells/python-net/sv/aspose.cells/loadoptions)

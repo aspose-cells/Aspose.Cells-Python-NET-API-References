@@ -3,13 +3,13 @@ title: has_line propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 410
+weight: 420
 url: /fr/aspose.cells.drawing/dialogbox/has_line/
 is_root: false
 ---
 ##  has_line propriété
 
-Obtient et définit la bordure de ligne de la forme visible.
+Obtient et définit la bordure de ligne de la forme qui est visible.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def has_line(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [DialogBox](/cells/python-net/fr/aspose.cells.drawing/dialogbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`DialogBox`](/cells/python-net/fr/aspose.cells.drawing/dialogbox)

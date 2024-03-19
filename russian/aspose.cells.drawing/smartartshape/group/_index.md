@@ -1,9 +1,9 @@
 ---
 title: group недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 400
+weight: 410
 url: /ru/aspose.cells.drawing/smartartshape/group/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def group(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GroupShape](/cells/python-net/ru/aspose.cells.drawing/groupshape)
-* класс [SmartArtShape](/cells/python-net/ru/aspose.cells.drawing/smartartshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GroupShape`](/cells/python-net/ru/aspose.cells.drawing/groupshape)
+* класс [`SmartArtShape`](/cells/python-net/ru/aspose.cells.drawing/smartartshape)

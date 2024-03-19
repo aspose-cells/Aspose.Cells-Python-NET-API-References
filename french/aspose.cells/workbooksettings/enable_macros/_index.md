@@ -3,7 +3,7 @@ title: enable_macros propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 210
+weight: 170
 url: /fr/aspose.cells/workbooksettings/enable_macros/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Activer les macros ;
 
 ###  Remarques
 
-Désormais, cela ne fonctionne que lors de la copie d'une feuille de calcul vers une autre feuille de calcul dans un classeur.
+Désormais, cela ne fonctionne que lors de la copie d'une feuille de calcul vers une autre feuille de calcul d'un classeur.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def enable_macros(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [WorkbookSettings](/cells/python-net/fr/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* classe [`WorkbookSettings`](/cells/python-net/fr/aspose.cells/workbooksettings)

@@ -1,15 +1,15 @@
 ---
-title: smart_tag_setting الملكية
+title: smart_tag_setting عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 760
+weight: 780
 url: /ar/aspose.cells/worksheet/smart_tag_setting/
 is_root: false
 ---
-##  smart_tag_setting الملكية
+##  smart_tag_setting عقار
 
-يحصل على كل [SmartTagCollection](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) كائنات من ورقة العمل.
+يحصل على كافة الكائنات [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) في ورقة العمل.
 ###  تعريف:
 ```python
 @property
@@ -18,7 +18,7 @@ def smart_tag_setting(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [SmartTagCollection](/cells/python-net/ar/aspose.cells.markup/smarttagcollection)
-* فئة [SmartTagSetting](/cells/python-net/ar/aspose.cells.markup/smarttagsetting)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection)
+* فئة [`SmartTagSetting`](/cells/python-net/ar/aspose.cells.markup/smarttagsetting)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

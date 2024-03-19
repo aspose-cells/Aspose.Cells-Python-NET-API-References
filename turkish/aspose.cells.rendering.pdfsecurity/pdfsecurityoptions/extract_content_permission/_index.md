@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  extract_content_permission mülk
 
-İçeriği kopyalama veya çıkarma izni.
+ Belgeden metin ve grafiklerin kopyalanmasına veya başka şekilde çıkarılmasına izin verilip verilmeyeceğini belirtir
+[`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content) tarafından kontrol edilenler dışındaki operasyonlar tarafından.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +22,5 @@ def extract_content_permission(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering.pdfsecurity](../../)
-* sınıf [PdfSecurityOptions](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modül [`aspose.cells.rendering.pdfsecurity`](../../)
+* sınıf [`PdfSecurityOptions`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

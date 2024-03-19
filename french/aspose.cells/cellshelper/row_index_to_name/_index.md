@@ -1,19 +1,19 @@
 ---
-title: row_index_to_name méthode
+title: méthode row_index_to_name
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 180
 url: /fr/aspose.cells/cellshelper/row_index_to_name/
 is_root: false
 ---
-##  row_index_to_name(row) {#int}
+##  row_index_to_name {#int}
 Obtient le nom de la ligne en fonction de l'index de la ligne.
 
 
 ###  Retour
 
-Nom de ligne.
+Nom de la ligne.
 
 
 ```python
@@ -24,10 +24,10 @@ def row_index_to_name(self, row):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| row | int | Indice de ligne.|
+| row | int | Index de ligne.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellsHelper](/cells/python-net/fr/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* classe [`CellsHelper`](/cells/python-net/fr/aspose.cells/cellshelper)

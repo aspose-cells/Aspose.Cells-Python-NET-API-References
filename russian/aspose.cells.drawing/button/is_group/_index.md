@@ -1,9 +1,9 @@
 ---
 title: is_group недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 560
+weight: 570
 url: /ru/aspose.cells.drawing/button/is_group/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def is_group(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Button](/cells/python-net/ru/aspose.cells.drawing/button)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Button`](/cells/python-net/ru/aspose.cells.drawing/button)

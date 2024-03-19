@@ -3,13 +3,13 @@ title: height_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 130
+weight: 140
 url: /tr/aspose.cells/comment/height_inch/
 is_root: false
 ---
 ##  height_inch mülk
 
-Yorumun inç cinsinden yüksekliğini temsil eder.
+Yorumun yüksekliğini inç cinsinden temsil eder.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def height_inch(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)

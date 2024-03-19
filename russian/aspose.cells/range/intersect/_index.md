@@ -1,19 +1,19 @@
 ---
 title: intersect метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ru/aspose.cells/range/intersect/
 is_root: false
 ---
-##  intersect(range) {#Range}
-Возвращает объект [Range](/cells/python-net/ru/aspose.cells/range), представляющий прямоугольное пересечение двух диапазонов.
+##  intersect {#aspose.cells.Range}
+Возвращает объект [`Range`](/cells/python-net/ru/aspose.cells/range), представляющий прямоугольное пересечение двух диапазонов.
 
 
-###  Возвращает
+###  Возврат
 
-Возвращает объект [Range](/cells/python-net/ru/aspose.cells/range)
+Возвращает объект [`Range`](/cells/python-net/ru/aspose.cells/range).
 
 
 ```python
@@ -24,10 +24,10 @@ def intersect(self, range):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/ru/aspose.cells/range) | Пересекающийся диапазон.|
+| range | [`Range`](/cells/python-net/ru/aspose.cells/range) | Пересекающийся диапазон.|
 ###  Примечания
 
-Если два диапазона не пересекаются, возвращает null.
+Если два диапазона не пересекаются, возвращается ноль.
 ###  Пример
 
 
@@ -50,5 +50,5 @@ workbook.save("book1.xlsm")
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](../../)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

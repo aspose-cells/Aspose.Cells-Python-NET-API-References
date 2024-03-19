@@ -3,11 +3,11 @@ title: طريقة replace
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 250
 url: /ar/aspose.cells/worksheet/replace/
 is_root: false
 ---
-##  replace(old_string, new_string) {#str-str}
+##  replace {#str-str}
 يستبدل نص كل الخلايا بسلسلة جديدة.
 
 
@@ -26,5 +26,5 @@ def replace(self, old_string, new_string):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

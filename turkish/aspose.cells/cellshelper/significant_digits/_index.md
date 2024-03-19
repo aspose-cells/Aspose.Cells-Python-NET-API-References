@@ -3,18 +3,18 @@ title: significant_digits mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 260
 url: /tr/aspose.cells/cellshelper/significant_digits/
 is_root: false
 ---
 ##  significant_digits mülk
 
-Anlamlı basamak sayısını alır ve ayarlar.
+Önemli basamakların sayısını alır ve ayarlar.
 Varsayılan değer 17'dir.
 
 ###  Notlar
 
-Şimdi sadece 15 veya 17 olabilir.
+Şimdilik ancak 15 ya da 17 olabilir.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def significant_digits(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsHelper](/cells/python-net/tr/aspose.cells/cellshelper)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsHelper`](/cells/python-net/tr/aspose.cells/cellshelper)

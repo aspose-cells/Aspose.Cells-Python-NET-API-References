@@ -1,15 +1,15 @@
 ---
-title: title الملكية
+title: title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /ar/aspose.cells.drawing/rectangleshape/title/
 is_root: false
 ---
-##  title الملكية
+##  title عقار
 
-يحدد title (تسمية توضيحية) لعنصر الشكل الحالي.
+يحدد title (تسمية توضيحية) لكائن الشكل الحالي.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RectangleShape](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RectangleShape`](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)

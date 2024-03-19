@@ -1,17 +1,17 @@
 ---
 title: get_grouped_row_outline_level方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 390
 url: /zh/aspose.cells/cells/get_grouped_row_outline_level/
 is_root: false
 ---
-##  get_grouped_row_outline_level(row_index) {#int}
+##  get_grouped_row_outline_level {#int}
 获取行的大纲级别（从零开始）。
 
 
-### 返回
+### 退货
 
 行的大纲级别（从零开始）。
 
@@ -32,5 +32,5 @@ def get_grouped_row_outline_level(self, row_index):
 
 ### 也可以看看
 
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

@@ -1,22 +1,22 @@
 ---
-title: line_format الملكية
+title: line_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 780
+weight: 790
 url: /ar/aspose.cells.drawing/lineshape/line_format/
 is_root: false
 ---
-##  line_format الملكية
+##  line_format عقار
 
-إرجاع كائن MsoLineFormat يحتوي على خصائص تنسيق الخط للشكل المحدد.
+إرجاع كائن MsoLineFormat الذي يحتوي على خصائص تنسيق الخط للشكل المحدد.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
+ ملاحظة: هذا العضو قديم الآن. بدلاً من،
  الرجاء استخدام خاصية Shape.Line.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ يوليو 2016.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ يوليو 2016.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -25,6 +25,6 @@ def line_format(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineShape](/cells/python-net/ar/aspose.cells.drawing/lineshape)
-* فئة [MsoLineFormat](/cells/python-net/ar/aspose.cells.drawing/msolineformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineShape`](/cells/python-net/ar/aspose.cells.drawing/lineshape)
+* فئة [`MsoLineFormat`](/cells/python-net/ar/aspose.cells.drawing/msolineformat)

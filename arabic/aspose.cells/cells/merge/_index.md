@@ -3,12 +3,12 @@ title: طريقة merge
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 790
+weight: 780
 url: /ar/aspose.cells/cells/merge/
 is_root: false
 ---
-##  merge(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
-يدمج نطاقًا محددًا من الخلايا في خلية واحدة.
+##  merge {#int-int-int-int}
+دمج نطاق محدد من الخلايا في خلية واحدة.
 
 
 
@@ -22,15 +22,15 @@ def merge(self, first_row, first_column, total_rows, total_columns):
 | :- | :- | :- |
 | first_row | int | الصف الأول من هذا النطاق (على أساس الصفر)|
 | first_column | int | العمود الأول من هذا النطاق (على أساس الصفر)|
-| total_rows | int | عدد الصفوف (واحد على أساس)|
-| total_columns | int | عدد الأعمدة (واحد قائم)|
+| total_rows | int | عدد الصفوف (على أساس واحد)|
+| total_columns | int | عدد الأعمدة (واحد على أساس)|
 ###  ملاحظات
 
 قم بالإشارة إلى الخلية المدمجة عبر عنوان الخلية العلوية اليسرى في النطاق.
 
-##  merge(first_row, first_column, total_rows, total_columns, merge_conflict) {#int-int-int-int-bool}
+##  merge {#int-int-int-int-bool}
 
-يدمج نطاقًا محددًا من الخلايا في خلية واحدة.
+دمج نطاق محدد من الخلايا في خلية واحدة.
 
 
 
@@ -44,17 +44,17 @@ def merge(self, first_row, first_column, total_rows, total_columns, merge_confli
 | :- | :- | :- |
 | first_row | int | الصف الأول من هذا النطاق (على أساس الصفر)|
 | first_column | int | العمود الأول من هذا النطاق (على أساس الصفر)|
-| total_rows | int | عدد الصفوف (واحد على أساس)|
-| total_columns | int | عدد الأعمدة (واحد قائم)|
-| merge_conflict | bool | دمج النطاقات المدمجة.|
+| total_rows | int | عدد الصفوف (على أساس واحد)|
+| total_columns | int | عدد الأعمدة (واحد على أساس)|
+| merge_conflict | bool | دمج نطاقات الصراع المدمجة.|
 ###  ملاحظات
 
 قم بالإشارة إلى الخلية المدمجة عبر عنوان الخلية العلوية اليسرى في النطاق.
-إذا كان mergeConflict صحيحًا وكان النطاق المدمج يتعارض مع الخلايا المدمجة الأخرى ،
+إذا كانت قيمة mergeConflict صحيحة وكان النطاق المدمج يتعارض مع الخلايا المدمجة الأخرى،
 ستتم إزالة الخلايا المدمجة الأخرى تلقائيًا.
 
-##  merge(first_row, first_column, total_rows, total_columns, check_conflict, merge_conflict) {#int-int-int-int-bool-bool}
-يدمج نطاقًا محددًا من الخلايا في خلية واحدة.
+##  merge {#int-int-int-int-bool-bool}
+دمج نطاق محدد من الخلايا في خلية واحدة.
 
 
 
@@ -68,17 +68,17 @@ def merge(self, first_row, first_column, total_rows, total_columns, check_confli
 | :- | :- | :- |
 | first_row | int | الصف الأول من هذا النطاق (على أساس الصفر)|
 | first_column | int | العمود الأول من هذا النطاق (على أساس الصفر)|
-| total_rows | int | عدد الصفوف (واحد على أساس)|
-| total_columns | int | عدد الأعمدة (واحد قائم)|
-| check_conflict | bool | يشير إلى ما إذا كان التحقق من الخلايا المدمجة يتقاطع مع الخلايا المدمجة الأخرى|
-| merge_conflict | bool | دمج النطاقات المدمجة.|
+| total_rows | int | عدد الصفوف (على أساس واحد)|
+| total_columns | int | عدد الأعمدة (واحد على أساس)|
+| check_conflict | bool | يشير إلى ما إذا كان التحقق من تقاطع الخلايا المدمجة مع الخلايا المدمجة الأخرى|
+| merge_conflict | bool | دمج نطاقات الصراع المدمجة.|
 ###  ملاحظات
 
 قم بالإشارة إلى الخلية المدمجة عبر عنوان الخلية العلوية اليسرى في النطاق.
-إذا كان mergeConflict صحيحًا وكان النطاق المدمج يتعارض مع الخلايا المدمجة الأخرى ،
+إذا كانت قيمة mergeConflict صحيحة وكان النطاق المدمج يتعارض مع الخلايا المدمجة الأخرى،
 ستتم إزالة الخلايا المدمجة الأخرى تلقائيًا.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

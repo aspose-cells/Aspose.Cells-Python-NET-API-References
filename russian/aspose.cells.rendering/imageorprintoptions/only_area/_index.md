@@ -1,15 +1,15 @@
 ---
 title: only_area недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ru/aspose.cells.rendering/imageorprintoptions/only_area/
 is_root: false
 ---
 ##  only_area недвижимость
 
-Если это свойство имеет значение true , будет выведена одна область, и масштаб не будет действовать.
+Если это свойство имеет значение true , будет выведена одна область, и масштаб не вступит в силу.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def only_area(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)

@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  compliance mülk
 
-Çalışma kitabı bu özellikte PdfCompliance'a göre pdf'ye dönüştürülür.
+Çıktı belgeleri için PDF standartlarının compliance düzeyini alır veya ayarlar.
+
+###  Notlar
+
+Varsayılan Pdf17'dir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PdfCompliance](/cells/python-net/tr/aspose.cells.rendering/pdfcompliance)
-* sınıf [PdfSaveOptions](/cells/python-net/tr/aspose.cells/pdfsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PdfCompliance`](/cells/python-net/tr/aspose.cells.rendering/pdfcompliance)
+* sınıf [`PdfSaveOptions`](/cells/python-net/tr/aspose.cells/pdfsaveoptions)

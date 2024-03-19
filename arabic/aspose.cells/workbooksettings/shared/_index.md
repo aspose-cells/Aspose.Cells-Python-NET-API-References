@@ -1,15 +1,15 @@
 ---
-title: shared الملكية
+title: shared عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 440
 url: /ar/aspose.cells/workbooksettings/shared/
 is_root: false
 ---
-##  shared الملكية
+##  shared عقار
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان المصنف هو shared.
+الحصول على قيمة تشير إلى ما إذا كان المصنف هو shared أو تعيينها.
 
 ###  ملاحظات
 
@@ -25,5 +25,5 @@ def shared(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

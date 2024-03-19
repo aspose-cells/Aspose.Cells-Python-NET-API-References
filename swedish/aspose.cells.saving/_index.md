@@ -12,13 +12,14 @@ is_root: false
 ###  Klasser
 | Klass| Beskrivning|
 | :- | :- |
-| [SqlScriptColumnTypeMap](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap) | Representerar kolumntypskarta.|
-| [SqlScriptSaveOptions](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions) | Representerar alternativen för att spara sql.|
+| [`EbookSaveOptions`](/cells/python-net/sv/aspose.cells.saving/ebooksaveoptions) | Representerar alternativen för att spara en e-boksfil.|
+| [`SqlScriptColumnTypeMap`](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap) | Representerar kolumntypskarta.|
+| [`SqlScriptSaveOptions`](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions) | Representerar alternativen för att spara sql.|
 
 
 ###  Uppräkningar
 |Uppräkning| Beskrivning|
 | :- | :- |
-| [SqlScriptOperatorType](/cells/python-net/sv/aspose.cells.saving/sqlscriptoperatortype) | Representerar typen av driftdata.|
+| [`SqlScriptOperatorType`](/cells/python-net/sv/aspose.cells.saving/sqlscriptoperatortype) | Representerar typen av driftdata.|
 
 

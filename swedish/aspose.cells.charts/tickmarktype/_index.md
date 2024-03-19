@@ -3,7 +3,7 @@ title: TickMarkType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 650
+weight: 660
 url: /sv/aspose.cells.charts/tickmarktype/
 is_root: false
 ---
@@ -19,10 +19,10 @@ Typen TickMarkType avslöjar följande medlemmar:
 | :- | :- |
 | CROSS | Krysstyp är Cross.|
 | INSIDE | Kryssningstyp är Inuti.|
-| NONE |Kryssningstyp är Ingen.|
+| NONE | Kryssningstyp är Ingen.|
 | OUTSIDE | Kryssningstyp är Utanför|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

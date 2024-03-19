@@ -3,7 +3,7 @@ title: y proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 420
+weight: 430
 url: /it/aspose.cells.charts/legend/y/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def y(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Legend](/cells/python-net/it/aspose.cells.charts/legend)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Legend`](/cells/python-net/it/aspose.cells.charts/legend)

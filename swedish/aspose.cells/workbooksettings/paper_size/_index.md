@@ -3,7 +3,7 @@ title: paper_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 360
 url: /sv/aspose.cells/workbooksettings/paper_size/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def paper_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PaperSizeType](/cells/python-net/sv/aspose.cells/papersizetype)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`PaperSizeType`](/cells/python-net/sv/aspose.cells/papersizetype)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

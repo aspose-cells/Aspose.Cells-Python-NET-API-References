@@ -3,13 +3,13 @@ title: refresh_chart_cache mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 230
 url: /tr/aspose.cells/xpssaveoptions/refresh_chart_cache/
 is_root: false
 ---
 ##  refresh_chart_cache mülk
 
-Grafik önbellek verilerinin yenilenip yenilenmediğini gösterir.
+Grafik önbellek verilerinin yenilenip yenilenmeyeceğini belirtir
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def refresh_chart_cache(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XpsSaveOptions](/cells/python-net/tr/aspose.cells/xpssaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`XpsSaveOptions`](/cells/python-net/tr/aspose.cells/xpssaveoptions)

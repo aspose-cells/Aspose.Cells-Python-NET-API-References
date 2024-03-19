@@ -1,14 +1,14 @@
 ---
 title: to_front_or_back метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 200
+weight: 220
 url: /ru/aspose.cells.drawing/webextensionshape/to_front_or_back/
 is_root: false
 ---
-##  to_front_or_back(orders) {#int}
-Выводит фигуру на передний план или отправляет фигуру на задний план.
+##  to_front_or_back {#int}
+Перемещает фигуру на передний план или отодвигает ее назад.
 
 
 
@@ -20,7 +20,7 @@ def to_front_or_back(self, orders):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| orders | int | Если меньше нуля, возвращает фигуру обратно.<br/>Если он больше нуля, выводит фигуру на передний план.|
+| orders | int | Если оно меньше нуля, возвращает форму назад.<br/> Если оно больше нуля, фигура перемещается на передний план.|
 
 ###  Пример
 
@@ -33,5 +33,5 @@ shape.to_front_or_back(2)
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [WebExtensionShape](/cells/python-net/ru/aspose.cells.drawing/webextensionshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`WebExtensionShape`](/cells/python-net/ru/aspose.cells.drawing/webextensionshape)

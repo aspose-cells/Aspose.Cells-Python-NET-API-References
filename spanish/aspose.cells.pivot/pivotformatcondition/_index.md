@@ -3,7 +3,7 @@ title: PivotFormatCondition clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 50
+weight: 120
 url: /es/aspose.cells.pivot/pivotformatcondition/
 is_root: false
 ---
@@ -19,19 +19,19 @@ El tipo PivotFormatCondition expone los siguientes miembros:
 | :- | :- |
 | [scope_type](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/scope_type) | Obtenga y establezca el tipo de alcance para el formato de condición de la tabla dinámica.|
 | [rule_type](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/rule_type) | Obtenga y establezca el tipo de regla para el formato de condición de la tabla dinámica.|
-| [format_conditions](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/format_conditions) | Obtenga las condiciones de formato para el formato de condición de la tabla dinámica.|
+| [format_conditions](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/format_conditions) | Obtenga condiciones de formato para el formato de condición de la tabla dinámica.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [add_data_area_condition(field_name)](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) | Agrega límite de formato condicional de tabla dinámica en los campos de datos.|
-| [add_data_area_condition(data_field)](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#PivotField) | Agrega límite de formato condicional de tabla dinámica en los campos de datos.|
-| [add_row_area_condition(field_name)](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) | Agrega límite de formato condicional de tabla dinámica en los campos de fila.|
-| [add_row_area_condition(row_field)](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#PivotField) | Agrega límite de formato condicional de tabla dinámica en los campos de fila.|
-| [add_column_area_condition(field_name)](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) | Agrega límite de formato condicional de tabla dinámica en los campos de columna.|
-| [add_column_area_condition(column_field)](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#PivotField) | Agrega límite de formato condicional de tabla dinámica en los campos de columna.|
-| [set_conditional_areas()](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) | Establece áreas condicionales del objeto PivotFormatCondition.|
+| [add_data_area_condition](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) | Agrega un límite de formato condicional de tabla dinámica en los campos de datos.|
+| [add_data_area_condition](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#aspose.cells.pivot.PivotField) | Agrega un límite de formato condicional de tabla dinámica en los campos de datos.|
+| [add_row_area_condition](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) | Agrega un límite de formato condicional de tabla dinámica en los campos de fila.|
+| [add_row_area_condition](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#aspose.cells.pivot.PivotField) | Agrega un límite de formato condicional de tabla dinámica en los campos de fila.|
+| [add_column_area_condition](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) | Agrega un límite de formato condicional de tabla dinámica en los campos de la columna.|
+| [add_column_area_condition](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#aspose.cells.pivot.PivotField) | Agrega un límite de formato condicional de tabla dinámica en los campos de la columna.|
+| [set_conditional_areas](/cells/python-net/es/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) | Establece áreas condicionales del objeto PivotFormatCondition.|
 
 
 
@@ -97,4 +97,4 @@ book.save("out.xlsx")
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](..)
+* módulo [`aspose.cells.pivot`](..)

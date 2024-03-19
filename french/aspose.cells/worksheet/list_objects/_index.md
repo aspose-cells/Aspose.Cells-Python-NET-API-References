@@ -3,7 +3,7 @@ title: list_objects propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 620
+weight: 640
 url: /fr/aspose.cells/worksheet/list_objects/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def list_objects(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ListObjectCollection](/cells/python-net/fr/aspose.cells.tables/listobjectcollection)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`ListObjectCollection`](/cells/python-net/fr/aspose.cells.tables/listobjectcollection)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

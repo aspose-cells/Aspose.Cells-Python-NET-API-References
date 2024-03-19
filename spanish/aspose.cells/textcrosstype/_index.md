@@ -3,7 +3,7 @@ title: TextCrossType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2540
+weight: 2630
 url: /es/aspose.cells/textcrosstype/
 is_root: false
 ---
@@ -17,12 +17,12 @@ El tipo TextCrossType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| DEFAULT | Mostrar texto como en Microsoft Excel.|
+| DEFAULT | Muestra texto como en Microsoft Excel.|
 | CROSS_KEEP | Muestre todo el texto cruzando otras celdas y mantenga el texto de las celdas cruzadas.|
-| CROSS_OVERRIDE | Muestre todo el texto cruzando otras celdas y anule el texto de las celdas cruzadas.|
-| STRICT_IN_CELL | Solo muestra el texto dentro del ancho de la celda.|
+| CROSS_OVERRIDE |Muestra todo el texto cruzando otras celdas y anula el texto de las celdas cruzadas.|
+| STRICT_IN_CELL | Muestra solo el texto dentro del ancho de la celda.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

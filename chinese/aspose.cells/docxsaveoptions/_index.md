@@ -1,29 +1,30 @@
 ---
 title: DocxSaveOptions类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 490
+weight: 510
 url: /zh/aspose.cells/docxsaveoptions/
 is_root: false
 ---
 ## DocxSaveOptions类
-表示保存 .docx 文件的选项。
+代表保存.docx 文件的选项。
 
 
 
-**继承：** [DocxSaveOptions](/cells/python-net/aspose.cells/docxsaveoptions) → 
-[SaveOptions](/cells/python-net/zh/aspose.cells/saveoptions)
+**遗产：** [`DocxSaveOptions`](/cells/python-net/aspose.cells/docxsaveoptions) → 
+[`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
+[`SaveOptions`](/cells/python-net/zh/aspose.cells/saveoptions)
 
 
 
-DocxSaveOptions 类型公开了以下成员：
+DocxSaveOptions 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [DocxSaveOptions()](/cells/python-net/zh/aspose.cells/docxsaveoptions/__init__/#) |表示保存 .docx 文件的选项。|
-| [DocxSaveOptions(save_as_image)](/cells/python-net/zh/aspose.cells/docxsaveoptions/__init__/#bool) |表示保存 .docx 文件的选项。|
+| [__init__](/cells/python-net/zh/aspose.cells/docxsaveoptions/__init__/#) |代表保存.docx 文件的选项。|
+| [__init__](/cells/python-net/zh/aspose.cells/docxsaveoptions/__init__/#bool) |代表保存.docx 文件的选项。|
 
 
 ### 特性
@@ -32,18 +33,37 @@ DocxSaveOptions 类型公开了以下成员：
 | [save_format](/cells/python-net/zh/aspose.cells/docxsaveoptions/save_format) |获取保存文件格式。|
 | [clear_data](/cells/python-net/zh/aspose.cells/docxsaveoptions/clear_data) |保存文件后将工作簿清空。|
 | [cached_file_folder](/cells/python-net/zh/aspose.cells/docxsaveoptions/cached_file_folder) |缓存文件夹用于存储一些大数据。|
-| [validate_merged_areas](/cells/python-net/zh/aspose.cells/docxsaveoptions/validate_merged_areas) |指示是否在保存文件之前验证合并的单元格。|
-| [merge_areas](/cells/python-net/zh/aspose.cells/docxsaveoptions/merge_areas) |指示是否在保存文件之前合并条件格式和验证区域。|
-| [create_directory](/cells/python-net/zh/aspose.cells/docxsaveoptions/create_directory) |如果为 true 并且目录不存在，则在保存文件之前会自动创建目录。|
-| [sort_names](/cells/python-net/zh/aspose.cells/docxsaveoptions/sort_names) |指示是否在保存文件之前对定义的名称进行排序。|
-| [sort_external_names](/cells/python-net/zh/aspose.cells/docxsaveoptions/sort_external_names) |指示是否在保存文件之前对外部定义的名称进行排序。|
-| [refresh_chart_cache](/cells/python-net/zh/aspose.cells/docxsaveoptions/refresh_chart_cache) |指示是否刷新图表缓存数据|
+| [validate_merged_areas](/cells/python-net/zh/aspose.cells/docxsaveoptions/validate_merged_areas) |指示保存文件之前是否验证合并的单元格。|
+| [merge_areas](/cells/python-net/zh/aspose.cells/docxsaveoptions/merge_areas) |指示在保存文件之前是否合并条件格式和验证区域。|
+| [create_directory](/cells/python-net/zh/aspose.cells/docxsaveoptions/create_directory) |如果为 true 并且该目录不存在，则在保存文件之前将自动创建该目录。|
+| [sort_names](/cells/python-net/zh/aspose.cells/docxsaveoptions/sort_names) |指示在保存文件之前是否对定义的名称进行排序。|
+| [sort_external_names](/cells/python-net/zh/aspose.cells/docxsaveoptions/sort_external_names) |指示在保存文件之前是否对外部定义的名称进行排序。|
+| [refresh_chart_cache](/cells/python-net/zh/aspose.cells/docxsaveoptions/refresh_chart_cache) |是否刷新图表缓存数据|
 | [warning_callback](/cells/python-net/zh/aspose.cells/docxsaveoptions/warning_callback) |获取或设置警告回调。|
-| [update_smart_art](/cells/python-net/zh/aspose.cells/docxsaveoptions/update_smart_art) |指示是否更新智能艺术设置。<br/>默认值为假。|
+| [update_smart_art](/cells/python-net/zh/aspose.cells/docxsaveoptions/update_smart_art) |指示是否更新智能艺术设置。<br/>默认值为 false。|
+| [default_font](/cells/python-net/zh/aspose.cells/docxsaveoptions/default_font) |当Excel中的字符是Unicode且未在单元格样式中设置正确的字体时，<br/>它们可能在 pdf、图像中显示为块。<br/>设置默认字体（例如 MingLiu 或 MS Gothic）来显示这些字符。<br/>如果不设置该属性，Aspose.Cells将使用系统默认字体来显示这些unicode字符。|
+| [check_workbook_default_font](/cells/python-net/zh/aspose.cells/docxsaveoptions/check_workbook_default_font) |当Excel中的字符是Unicode且未在单元格样式中设置正确的字体时，<br/>它们可能在 pdf、图像中显示为块。<br/>将其设置为 true 以尝试使用工作簿的默认字体首先显示这些字符。|
+| [check_font_compatibility](/cells/python-net/zh/aspose.cells/docxsaveoptions/check_font_compatibility) |指示是否检查文本中每个字符的字体兼容性。|
+| [is_font_substitution_char_granularity](/cells/python-net/zh/aspose.cells/docxsaveoptions/is_font_substitution_char_granularity) |指示当单元格字体不兼容时是否仅替换该字符的字体。|
+| [one_page_per_sheet](/cells/python-net/zh/aspose.cells/docxsaveoptions/one_page_per_sheet) |如果 OnePagePerSheet 为 true ，则一张表的所有内容将仅输出到结果中的一页。<br/> pagesetup的纸张尺寸将会失效，pagesetup的其他设置<br/>仍然会生效。|
+| [all_columns_in_one_page_per_sheet](/cells/python-net/zh/aspose.cells/docxsaveoptions/all_columns_in_one_page_per_sheet) |如果 AllColumnsInOnePagePerSheet 为 true ，一张表的所有列内容将仅输出到结果中的一页。<br/> pagesetup的纸张尺寸宽度将被忽略，pagesetup的其他设置<br/>仍然会生效。|
+| [ignore_error](/cells/python-net/zh/aspose.cells/docxsaveoptions/ignore_error) |指示是否需要在渲染时隐藏错误。<br/>错误可能是形状、图像、图表渲染等方面的错误。|
+| [output_blank_page_when_nothing_to_print](/cells/python-net/zh/aspose.cells/docxsaveoptions/output_blank_page_when_nothing_to_print) |指示当没有任何内容可打印时是否输出空白页。|
+| [page_index](/cells/python-net/zh/aspose.cells/docxsaveoptions/page_index) |获取或设置要保存的第一页的从 0 开始的索引。|
+| [page_count](/cells/python-net/zh/aspose.cells/docxsaveoptions/page_count) |获取或设置要保存的页数。|
+| [printing_page_type](/cells/python-net/zh/aspose.cells/docxsaveoptions/printing_page_type) |指示将不打印哪些页面。|
+| [gridline_type](/cells/python-net/zh/aspose.cells/docxsaveoptions/gridline_type) |获取或设置网格线类型。|
+| [text_cross_type](/cells/python-net/zh/aspose.cells/docxsaveoptions/text_cross_type) |获取或设置当文本宽度大于单元格宽度时显示的文本类型。|
+| [default_edit_language](/cells/python-net/zh/aspose.cells/docxsaveoptions/default_edit_language) |获取或设置默认编辑语言。|
+| [sheet_set](/cells/python-net/zh/aspose.cells/docxsaveoptions/sheet_set) |获取或设置要渲染的工作表。默认为工作簿中的所有可见工作表：[`SheetSet.visible`](/cells/python-net/zh/aspose.cells.rendering/sheetset#visible)。|
+| [draw_object_event_handler](/cells/python-net/zh/aspose.cells/docxsaveoptions/draw_object_event_handler) |实现该接口以在渲染时获取DrawObject并Bound。|
+| [page_saving_callback](/cells/python-net/zh/aspose.cells/docxsaveoptions/page_saving_callback) |控制/指示页面保存过程的进度。|
+| [emf_render_setting](/cells/python-net/zh/aspose.cells/docxsaveoptions/emf_render_setting) |用于渲染 Emf 图元文件的设置。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
-* 类 [DocxSaveOptions](/cells/python-net/zh/aspose.cells/docxsaveoptions)
-* 类 [SaveOptions](/cells/python-net/zh/aspose.cells/saveoptions)
+* 模块[`aspose.cells`](..)
+* 类 [`DocxSaveOptions`](/cells/python-net/zh/aspose.cells/docxsaveoptions)
+* 类 [`PaginatedSaveOptions`](/cells/python-net/zh/aspose.cells/paginatedsaveoptions)
+* 类 [`SaveOptions`](/cells/python-net/zh/aspose.cells/saveoptions)

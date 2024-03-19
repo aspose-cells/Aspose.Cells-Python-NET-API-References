@@ -1,5 +1,5 @@
 ---
-title: metodo add_copy
+title: Metodo add_copy
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 30
 url: /it/aspose.cells/worksheetcollection/add_copy/
 is_root: false
 ---
-##  add_copy(sheet_name) {#str}
+##  add_copy {#str}
 Aggiunge un foglio di lavoro alla raccolta e copia i dati da un foglio di lavoro esistente.
 
 
 ###  ritorna
 
-[Worksheet](/cells/python-net/it/aspose.cells/worksheet) indice oggetto.
+[`Worksheet`](/cells/python-net/it/aspose.cells/worksheet) indice oggetto.
 
 
 ```python
@@ -28,18 +28,18 @@ def add_copy(self, sheet_name):
 ###  Eccezioni
 | Eccezione| Descrizione|
 | :- | :- |
-| [CellsException](/cells/python-net/it/aspose.cells/cellsexception) | Specifica un nome di foglio di lavoro non valido.|
+| [`CellsException`](/cells/python-net/it/aspose.cells/cellsexception) | Specifica un nome del foglio di lavoro non valido.|
 
 
 
 
-##  add_copy(sheet_index) {#int}
+##  add_copy {#int}
 Aggiunge un foglio di lavoro alla raccolta e copia i dati da un foglio di lavoro esistente.
 
 
 ###  ritorna
 
-[Worksheet](/cells/python-net/it/aspose.cells/worksheet) indice oggetto.
+[`Worksheet`](/cells/python-net/it/aspose.cells/worksheet) indice oggetto.
 
 
 ```python
@@ -53,9 +53,26 @@ def add_copy(self, sheet_index):
 | sheet_index | int | Indice del foglio di lavoro di origine.|
 
 
+##  add_copy {#list-list}
+Copia un gruppo di fogli di lavoro.
+
+
+
+```python
+def add_copy(self, source, dest_sheet_names):
+    ...
+```
+
+
+| Parametro| Tipo| Descrizione|
+| :- | :- | :- |
+| source | list | I fogli di lavoro di origine.|
+| dest_sheet_names | list | I nomi dei fogli copiati.|
+
+
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CellsException](/cells/python-net/it/aspose.cells/cellsexception)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
-* classe [WorksheetCollection](/cells/python-net/it/aspose.cells/worksheetcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`CellsException`](/cells/python-net/it/aspose.cells/cellsexception)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)
+* classe [`WorksheetCollection`](/cells/python-net/it/aspose.cells/worksheetcollection)

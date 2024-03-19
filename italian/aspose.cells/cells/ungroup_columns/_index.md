@@ -1,13 +1,13 @@
 ---
-title: metodo ungroup_columns
+title: Metodo ungroup_columns
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 950
+weight: 940
 url: /it/aspose.cells/cells/ungroup_columns/
 is_root: false
 ---
-##  ungroup_columns(first_index, last_index) {#int-int}
+##  ungroup_columns {#int-int}
 Separa le colonne.
 
 
@@ -26,5 +26,5 @@ def ungroup_columns(self, first_index, last_index):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

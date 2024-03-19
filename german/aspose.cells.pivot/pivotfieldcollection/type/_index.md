@@ -3,7 +3,7 @@ title: type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 70
+weight: 80
 url: /de/aspose.cells.pivot/pivotfieldcollection/type/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotFieldCollection](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection)
-* Klasse [PivotFieldType](/cells/python-net/de/aspose.cells.pivot/pivotfieldtype)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotFieldCollection`](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection)
+* Klasse [`PivotFieldType`](/cells/python-net/de/aspose.cells.pivot/pivotfieldtype)

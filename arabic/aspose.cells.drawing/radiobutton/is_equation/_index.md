@@ -1,13 +1,13 @@
 ---
-title: is_equation الملكية
+title: is_equation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 540
+weight: 560
 url: /ar/aspose.cells.drawing/radiobutton/is_equation/
 is_root: false
 ---
-##  is_equation الملكية
+##  is_equation عقار
 
 الإشارة إلى ما إذا كان الشكل يحتوي على معادلة فقط.
 
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

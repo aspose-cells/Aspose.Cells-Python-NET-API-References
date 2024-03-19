@@ -1,13 +1,13 @@
 ---
-title: minor_unit_scale الملكية
+title: minor_unit_scale عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 370
 url: /ar/aspose.cells.charts/axis/minor_unit_scale/
 is_root: false
 ---
-##  minor_unit_scale الملكية
+##  minor_unit_scale عقار
 
 يمثل مقياس الوحدة الرئيسية لمحور الفئة.
 
@@ -18,7 +18,7 @@ from aspose.cells.charts import CategoryType, TimeUnit
 
 chart.category_axis.category_type = CategoryType.TIME_SCALE
 chart.category_axis.minor_unit_scale = TimeUnit.MONTHS
-chart.category_axis.minor_unit = 2
+chart.category_axis.minor_unit = 2.0
 
 ```
 ###  تعريف:
@@ -32,6 +32,6 @@ def minor_unit_scale(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
-* فئة [TimeUnit](/cells/python-net/ar/aspose.cells.charts/timeunit)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)
+* فئة [`TimeUnit`](/cells/python-net/ar/aspose.cells.charts/timeunit)

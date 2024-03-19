@@ -1,15 +1,15 @@
 ---
-title: worksheet الملكية
+title: worksheet عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 650
+weight: 680
 url: /ar/aspose.cells.charts/chart/worksheet/
 is_root: false
 ---
-##  worksheet الملكية
+##  worksheet عقار
 
-يحصل على worksheet الذي يحتوي على هذا الرسم البياني.
+يحصل على worksheet الذي يحتوي على هذا المخطط.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def worksheet(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

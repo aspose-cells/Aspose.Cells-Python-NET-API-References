@@ -3,12 +3,12 @@ title: SparklineCollection classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 280
 url: /fr/aspose.cells.charts/sparklinecollection/
 is_root: false
 ---
 ##  SparklineCollection classe
-Encapsule une collection de [Sparkline](/cells/python-net/fr/aspose.cells.charts/sparkline) objets.
+Encapsule une collection d’objets [`Sparkline`](/cells/python-net/fr/aspose.cells.charts/sparkline).
 
 
 
@@ -17,21 +17,21 @@ Le type SparklineCollection expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [capacity](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/capacity) | Obtient ou définit le nombre d'éléments que la liste de tableau peut contenir.|
+| [capacity](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/capacity) | Obtient ou définit le nombre d'éléments que la liste de tableaux peut contenir.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/copy_to/#list) | Copie la totalité de la liste de tableaux dans une liste de tableaux unidimensionnelle compatible, en commençant au début de la liste de tableaux cible.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/copy_to/#int-list-int-int) |Copie une plage d'éléments de la liste de tableaux vers une liste de tableaux unidimensionnelle compatible, en commençant à l'index spécifié de la liste de tableaux cible.|
-| [index_of(item, index)](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/index_of/#Sparkline-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui s'étend de l'index spécifié au dernier élément.|
-| [index_of(item, index, count)](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/index_of/#Sparkline-int-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui commence à l'index spécifié et contient le nombre d'éléments spécifié.|
-| [last_index_of(item)](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/last_index_of/#Sparkline) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la liste complète du tableau.|
-| [last_index_of(item, index)](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/last_index_of/#Sparkline-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui s'étend du premier élément à l'index spécifié.|
-| [last_index_of(item, index, count)](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/last_index_of/#Sparkline-int-int) |Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui contient le nombre d'éléments spécifié et se termine à l'index spécifié.|
-| [add(data_range, row, column)](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/add/#str-int-int) | Ajouter un sparkline.|
-| [binary_search(item)](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/binary_search/#Sparkline) | Recherche un élément dans toute la liste de tableaux triés à l'aide du comparateur par défaut et renvoie l'index de base zéro de l'élément.|
+| [copy_to](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/copy_to/#list) | Copie la liste entière des tableaux dans une liste de tableaux unidimensionnelle compatible, en commençant au début de la liste des tableaux cible.|
+| [copy_to](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/copy_to/#int-list-int-int) | Copie une plage d'éléments de la liste de tableaux vers une liste de tableaux unidimensionnels compatible, en commençant à l'index spécifié de la liste de tableaux cible.|
+| [index_of](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/index_of/#aspose.cells.charts.Sparkline-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste du tableau qui s'étend de l'index spécifié au dernier élément.|
+| [index_of](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/index_of/#aspose.cells.charts.Sparkline-int-int) |Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui commence à l'index spécifié et contient le nombre d'éléments spécifié.|
+| [last_index_of](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/last_index_of/#aspose.cells.charts.Sparkline) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la liste entière du tableau.|
+| [last_index_of](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/last_index_of/#aspose.cells.charts.Sparkline-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste du tableau qui s'étend du premier élément à l'index spécifié.|
+| [last_index_of](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/last_index_of/#aspose.cells.charts.Sparkline-int-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui contient le nombre spécifié d'éléments et se termine à l'index spécifié.|
+| [add](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/add/#str-int-int) | Ajoutez une ligne sparkline.|
+| [binary_search](/cells/python-net/fr/aspose.cells.charts/sparklinecollection/binary_search/#aspose.cells.charts.Sparkline) | Recherche un élément dans toute la liste de tableaux triés à l'aide du comparateur par défaut et renvoie l'index de base zéro de l'élément.|
 
 
 
@@ -61,5 +61,5 @@ book.save("output.xlsx", SaveFormat.XLSX)
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](..)
-* classe [Sparkline](/cells/python-net/fr/aspose.cells.charts/sparkline)
+* module [`aspose.cells.charts`](..)
+* classe [`Sparkline`](/cells/python-net/fr/aspose.cells.charts/sparkline)

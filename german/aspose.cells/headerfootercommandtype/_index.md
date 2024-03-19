@@ -3,12 +3,12 @@ title: HeaderFooterCommandType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2130
+weight: 2200
 url: /de/aspose.cells/headerfootercommandtype/
 is_root: false
 ---
 ##  HeaderFooterCommandType Aufzählung
-Repräsentiert den Befehlstyp der Kopf- und Fußzeile.
+Stellt den Befehlstyp der Kopf- und Fußzeile dar.
 
 
 
@@ -30,4 +30,4 @@ Der Typ HeaderFooterCommandType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: text_orientation_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 990
+weight: 1010
 url: /fr/aspose.cells.drawing/textbox/text_orientation_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_orientation_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TextBox](/cells/python-net/fr/aspose.cells.drawing/textbox)
-* classe [TextOrientationType](/cells/python-net/fr/aspose.cells/textorientationtype)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TextBox`](/cells/python-net/fr/aspose.cells.drawing/textbox)
+* classe [`TextOrientationType`](/cells/python-net/fr/aspose.cells/textorientationtype)

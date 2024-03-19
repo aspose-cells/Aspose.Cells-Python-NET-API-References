@@ -1,17 +1,17 @@
 ---
-title: merge_empty_td_forcely الملكية
+title: merge_empty_td_forcely عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 560
 url: /ar/aspose.cells/htmlsaveoptions/merge_empty_td_forcely/
 is_root: false
 ---
-##  merge_empty_td_forcely الملكية
+##  merge_empty_td_forcely عقار
 
- الإشارة إلى ما إذا كان يتم دمج عنصر TD فارغ بشكل قسري عند تصدير ملف إلى html.
+ يشير إلى ما إذا كان دمج عنصر TD الفارغ قسريًا عند تصدير الملف إلى html.
  سيتم تقليل حجم ملف html بشكل ملحوظ بعد ضبط القيمة على true. القيمة الافتراضية هي كاذبة.
- إذا كنت ترغب في استيراد ملف html إلى Excel أو تصدير خطوط الشبكة المثالية عند حفظ الملف إلى html ،
+ إذا كنت تريد استيراد ملف html إلى Excel أو تصدير خطوط شبكة مثالية عند حفظ الملف إلى html،
 يرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python
@@ -24,5 +24,5 @@ def merge_empty_td_forcely(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

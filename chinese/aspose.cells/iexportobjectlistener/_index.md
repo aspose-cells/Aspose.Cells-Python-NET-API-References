@@ -1,9 +1,9 @@
 ---
 title: IExportObjectListener类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 840
+weight: 880
 url: /zh/aspose.cells/iexportobjectlistener/
 is_root: false
 ---
@@ -12,14 +12,14 @@ is_root: false
 
 
 
-IExportObjectListener 类型公开了以下成员：
+IExportObjectListener 类型公开以下成员：
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [export_object(e)](/cells/python-net/zh/aspose.cells/iexportobjectlistener/export_object/#ExportObjectEvent) |导出一个对象。|
+| [export_object](/cells/python-net/zh/aspose.cells/iexportobjectlistener/export_object/#aspose.cells.ExportObjectEvent) |导出一个对象。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: is_locked fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 600
+weight: 620
 url: /sv/aspose.cells.drawing/textbox/is_locked/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_locked(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextBox](/cells/python-net/sv/aspose.cells.drawing/textbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextBox`](/cells/python-net/sv/aspose.cells.drawing/textbox)

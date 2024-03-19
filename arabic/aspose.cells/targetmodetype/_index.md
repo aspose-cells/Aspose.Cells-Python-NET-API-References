@@ -1,18 +1,18 @@
 ---
-title: العد TargetModeType
+title: TargetModeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2510
+weight: 2600
 url: /ar/aspose.cells/targetmodetype/
 is_root: false
 ---
-##  العد TargetModeType
+##  TargetModeType التعداد
 يمثل نوع الوضع المستهدف.
 
 
 
-يكشف نوع TargetModeType الأعضاء التالية:
+يكشف النوع TargetModeType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -20,9 +20,9 @@ is_root: false
 | EXTERNAL | رابط خارجي|
 | FILE_PATH | المسارات المحلية والكاملة للملفات أو المجلدات.|
 | EMAIL | بريد إلكتروني.|
-| CELL_REFERENCE | ارتباط في خلية أو نطاق مسمى.|
+| CELL_REFERENCE | الارتباط الموجود في الخلية أو النطاق المسمى.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

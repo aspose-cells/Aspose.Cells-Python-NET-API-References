@@ -1,27 +1,27 @@
 ---
-title: العد NameScopeType
+title: NameScopeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2250
+weight: 2340
 url: /ar/aspose.cells/namescopetype/
 is_root: false
 ---
-##  العد NameScopeType
-يمثل نوع النطاق للأسماء المعرفة.
+##  NameScopeType التعداد
+يمثل نوع النطاق للأسماء المحددة.
 
 
 
-يكشف نوع NameScopeType الأعضاء التالية:
+يكشف النوع NameScopeType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| ALL | كل الأسماء المعرفة.|
-| WORKBOOK | الأسماء المعرفة في المصنف.|
-| WORKSHEET | الأسماء المعرفة في ورقة العمل أو جميع أوراق العمل.|
+| ALL | جميع الأسماء المحددة.|
+| WORKBOOK | الأسماء المحددة في المصنف.|
+| WORKSHEET | الأسماء المحددة في ورقة العمل أو كافة أوراق العمل.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

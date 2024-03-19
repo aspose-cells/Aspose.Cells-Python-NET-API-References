@@ -1,19 +1,19 @@
 ---
-title: is_column_hidden método
+title: método is_column_hidden
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 750
+weight: 740
 url: /es/aspose.cells/cells/is_column_hidden/
 is_root: false
 ---
-##  is_column_hidden(column_index) {#int}
-Comprueba si una columna en el índice dado está oculta.
+##  is_column_hidden {#int}
+Comprueba si una columna en un índice determinado está oculta.
 
 
 ###  Devoluciones
 
-verdadero si la columna está oculta.
+Es verdadero si la columna está oculta.
 
 
 ```python
@@ -29,5 +29,5 @@ def is_column_hidden(self, column_index):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

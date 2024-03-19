@@ -3,7 +3,7 @@ title: ignore_error propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 160
 url: /es/aspose.cells/pptxsaveoptions/ignore_error/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def ignore_error(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PptxSaveOptions](/cells/python-net/es/aspose.cells/pptxsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PptxSaveOptions`](/cells/python-net/es/aspose.cells/pptxsaveoptions)

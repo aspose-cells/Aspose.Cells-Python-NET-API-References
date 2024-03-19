@@ -3,7 +3,7 @@ title: page_change mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 860
+weight: 870
 url: /tr/aspose.cells.drawing/scrollbar/page_change/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def page_change(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ScrollBar](/cells/python-net/tr/aspose.cells.drawing/scrollbar)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ScrollBar`](/cells/python-net/tr/aspose.cells.drawing/scrollbar)

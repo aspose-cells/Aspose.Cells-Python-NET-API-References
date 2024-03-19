@@ -1,19 +1,19 @@
 ---
 title: get_standard_built_in_name方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 190
 url: /zh/aspose.cells/globalizationsettings/get_standard_built_in_name/
 is_root: false
 ---
-##  get_standard_built_in_name(local_name) {#str}
-根据给定的语言环境相关文本获取内置名称的标准文本。
+##  get_standard_built_in_name {#str}
+根据给定的区域设置相关文本获取内置名称的标准文本。
 
 
-### 返回
+### 退货
 
-标准（en-US 语言环境）文本。
+标准（en-US 区域设置）文本。
 
 
 ```python
@@ -29,5 +29,5 @@ def get_standard_built_in_name(self, local_name):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [GlobalizationSettings](/cells/python-net/zh/aspose.cells/globalizationsettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`GlobalizationSettings`](/cells/python-net/zh/aspose.cells/globalizationsettings)

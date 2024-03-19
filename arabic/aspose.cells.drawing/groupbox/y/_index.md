@@ -1,15 +1,15 @@
 ---
-title: y الملكية
+title: y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /ar/aspose.cells.drawing/groupbox/y/
 is_root: false
 ---
-##  y الملكية
+##  y عقار
 
-الحصول على الإزاحة الرأسية للشكل وتعيينها من الحد العلوي لورقة العمل ، بوحدة البكسل.
+الحصول على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل وتعيينها، بوحدة البكسل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupBox](/cells/python-net/ar/aspose.cells.drawing/groupbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupBox`](/cells/python-net/ar/aspose.cells.drawing/groupbox)

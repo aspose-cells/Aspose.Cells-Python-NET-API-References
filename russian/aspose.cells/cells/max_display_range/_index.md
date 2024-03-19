@@ -1,9 +1,9 @@
 ---
 title: max_display_range недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1120
+weight: 1110
 url: /ru/aspose.cells/cells/max_display_range/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Возвращает нуль, если рабочий лист пуст с Aspose.Cells 21.5.2.
+Возвращает значение null, если рабочий лист пуст с Aspose.Cells 21.5.2.
 ###  Определение:
 ```python
 @property
@@ -22,6 +22,6 @@ def max_display_range(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

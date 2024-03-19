@@ -3,7 +3,7 @@ title: note mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 180
 url: /tr/aspose.cells/comment/note/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Yorumun içeriğini temsil eder.
 
 ###  Notlar
 
-Bu bir zincirleme yorumsa, note değiştirilemez, aksi halde MS Excel bunu zincirleme bir yorum olarak işleyemez.
+Bu, zincirlenmiş bir yorumsa, note değiştirilemez; aksi takdirde MS Excel, bunu zincirlenmiş bir yorum olarak işleyemez.
 
 ###  Örnek
 
@@ -33,5 +33,5 @@ def note(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)

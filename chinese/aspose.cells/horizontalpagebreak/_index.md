@@ -1,9 +1,9 @@
 ---
 title: HorizontalPageBreak类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 750
+weight: 780
 url: /zh/aspose.cells/horizontalpagebreak/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-HorizontalPageBreak 类型公开了以下成员：
+HorizontalPageBreak 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -40,4 +40,4 @@ hPageBreak = worksheet.horizontal_page_breaks[Index]
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

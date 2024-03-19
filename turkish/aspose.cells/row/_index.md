@@ -3,7 +3,7 @@ title: Row sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1300
+weight: 1340
 url: /tr/aspose.cells/row/
 is_root: false
 ---
@@ -12,20 +12,19 @@ is_root: false
 
 
 
-Row türü aşağıdaki üyeleri gösterir:
+Row türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [is_blank](/cells/python-net/tr/aspose.cells/row/is_blank) | Satırın herhangi bir veri içerip içermediğini gösterir|
-| [is_collapsed](/cells/python-net/tr/aspose.cells/row/is_collapsed) | satırın daraltılmış olup olmadığı|
-| [height](/cells/python-net/tr/aspose.cells/row/height) | Puan birimi cinsinden satır yüksekliğini alır ve ayarlar.|
-| [is_hidden](/cells/python-net/tr/aspose.cells/row/is_hidden) | Satırın gizli olup olmadığını gösterir.|
+| [is_blank](/cells/python-net/tr/aspose.cells/row/is_blank) | Satırın herhangi bir veri içerip içermediğini belirtir|
+| [is_collapsed](/cells/python-net/tr/aspose.cells/row/is_collapsed) | satırın daraltılıp daraltılmadığı|
+| [height](/cells/python-net/tr/aspose.cells/row/height) | Satır yüksekliğini Puan birimi cinsinden alır ve ayarlar.|
+| [is_hidden](/cells/python-net/tr/aspose.cells/row/is_hidden) | Satırın gizli olup olmadığını belirtir.|
 | [index](/cells/python-net/tr/aspose.cells/row/index) | Bu satırın indeksini alır.|
 | [group_level](/cells/python-net/tr/aspose.cells/row/group_level) | Satırın grup düzeyini alır.|
-| [is_height_matched](/cells/python-net/tr/aspose.cells/row/is_height_matched) |Satır yüksekliği ile varsayılan yazı tipi yüksekliğinin eşleştiğini gösterir.|
-| [style](/cells/python-net/tr/aspose.cells/row/style) | Bu satırın stilini temsil eder.|
-| [has_custom_style](/cells/python-net/tr/aspose.cells/row/has_custom_style) | Bu satırın özel stil ayarları olup olmadığını gösterir (çalışma kitabından devralınan varsayılandan farklı).|
+| [is_height_matched](/cells/python-net/tr/aspose.cells/row/is_height_matched) | Satır yüksekliğinin çalışma kitabının geçerli varsayılan yazı tipi ayarıyla eşleşip eşleşmediğini belirtir.<br/>Bu özelliğin doğruluğu aynı zamanda satır yüksekliğinin kullanıcı tarafından ayarlanan özel yükseklik değeri olmadan "otomatik" olduğunu da belirtir.|
+| [has_custom_style](/cells/python-net/tr/aspose.cells/row/has_custom_style) | Bu satırın özel stil ayarlarına (çalışma kitabından devralınan varsayılan ayardan farklı) sahip olup olmadığını belirtir.|
 | [first_cell](/cells/python-net/tr/aspose.cells/row/first_cell) | Satırdaki ilk hücre nesnesini alır.|
 | [first_data_cell](/cells/python-net/tr/aspose.cells/row/first_data_cell) | Satırdaki ilk boş olmayan hücreyi alır.|
 | [last_cell](/cells/python-net/tr/aspose.cells/row/last_cell) | Satırdaki son hücre nesnesini alır.|
@@ -34,22 +33,23 @@ Row türü aşağıdaki üyeleri gösterir:
 
 
 Hücreyi alır.
-###  İndeksleyici
+###  Dizin oluşturucu
 | İsim| Tanım|
 | :- | :- |
-| [index] | sütun dizini|
+| [index] | Sütun dizini|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [get_cell_by_index(index)](/cells/python-net/tr/aspose.cells/row/get_cell_by_index/#int) | Listedeki belirli dizine göre hücreyi alın.|
-| [get_cell_or_null(column)](/cells/python-net/tr/aspose.cells/row/get_cell_or_null/#int) | Belirli dizindeki hücreyi veya boş değeri alır.|
-| [get_style()](/cells/python-net/tr/aspose.cells/row/get_style/#) | Bu satırın stilini alır.|
-| [set_style(style)](/cells/python-net/tr/aspose.cells/row/set_style/#Style) | Bu satırın stilini ayarlar.|
-| [copy_settings(source, check_style)](/cells/python-net/tr/aspose.cells/row/copy_settings/#Row-bool) | Stil, yükseklik, görünürlük, vb. gibi satır ayarlarını kopyalayın.|
-| [apply_style(style, flag)](/cells/python-net/tr/aspose.cells/row/apply_style/#Style-StyleFlag) | Biçimleri tüm satıra uygular.|
-| [equals(row)](/cells/python-net/tr/aspose.cells/row/equals/#Row) | Bu nesnenin başka bir satır nesnesiyle aynı satıra atıfta bulunup bulunmadığını kontrol eder.|
+| [get_cell_by_index](/cells/python-net/tr/aspose.cells/row/get_cell_by_index/#int) | Bu satırın hücre koleksiyonundaki hücreyi belirli bir dizine göre alın.|
+| [get_enumerator](/cells/python-net/tr/aspose.cells/row/get_enumerator/#bool-bool) | Bu satır boyunca hücreleri yineleyen bir numaralandırıcı alır.|
+| [get_cell_or_null](/cells/python-net/tr/aspose.cells/row/get_cell_or_null/#int) | Belirli bir dizindeki hücreyi veya null değerini alır.|
+| [get_style](/cells/python-net/tr/aspose.cells/row/get_style/#) | Bu satırın stilini alır.|
+| [set_style](/cells/python-net/tr/aspose.cells/row/set_style/#aspose.cells.Style) | Bu satırın stilini ayarlar.|
+| [copy_settings](/cells/python-net/tr/aspose.cells/row/copy_settings/#aspose.cells.Row-bool) | Stil, yükseklik, görünürlük vb. gibi satır ayarlarını kopyalayın.|
+| [apply_style](/cells/python-net/tr/aspose.cells/row/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Tüm satırın formatlarını uygular.|
+| [equals](/cells/python-net/tr/aspose.cells/row/equals/#aspose.cells.Row) | Bu nesnenin başka bir satır nesnesiyle aynı satıra başvurup başvurmadığını kontrol eder.|
 
 
 
@@ -84,4 +84,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

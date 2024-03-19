@@ -3,7 +3,7 @@ title: pivot_options Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 390
+weight: 420
 url: /de/aspose.cells.charts/chart/pivot_options/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def pivot_options(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Chart](/cells/python-net/de/aspose.cells.charts/chart)
-* Klasse [PivotOptions](/cells/python-net/de/aspose.cells.charts/pivotoptions)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Chart`](/cells/python-net/de/aspose.cells.charts/chart)
+* Klasse [`PivotOptions`](/cells/python-net/de/aspose.cells.charts/pivotoptions)

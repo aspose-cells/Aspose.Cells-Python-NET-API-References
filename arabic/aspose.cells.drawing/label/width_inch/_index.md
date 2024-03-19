@@ -1,13 +1,13 @@
 ---
-title: width_inch الملكية
+title: width_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /ar/aspose.cells.drawing/label/width_inch/
 is_root: false
 ---
-##  width_inch الملكية
+##  width_inch عقار
 
 يمثل عرض الشكل بوحدة البوصة.
 
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.width_inch == 3:
-    shape.width_inch = 1
+    shape.width_inch = 1.0
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def width_inch(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Label](/cells/python-net/ar/aspose.cells.drawing/label)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Label`](/cells/python-net/ar/aspose.cells.drawing/label)

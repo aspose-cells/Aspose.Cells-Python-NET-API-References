@@ -1,13 +1,13 @@
 ---
-title: auto_shape_type الملكية
+title: auto_shape_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 310
 url: /ar/aspose.cells.drawing/radiobutton/auto_shape_type/
 is_root: false
 ---
-##  auto_shape_type الملكية
+##  auto_shape_type عقار
 
 الحصول على نوع الشكل التلقائي وتعيينه.
 
@@ -31,6 +31,6 @@ def auto_shape_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [AutoShapeType](/cells/python-net/ar/aspose.cells.drawing/autoshapetype)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`AutoShapeType`](/cells/python-net/ar/aspose.cells.drawing/autoshapetype)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

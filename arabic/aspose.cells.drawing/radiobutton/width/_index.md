@@ -1,15 +1,15 @@
 ---
-title: width الملكية
+title: width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1180
+weight: 1200
 url: /ar/aspose.cells.drawing/radiobutton/width/
 is_root: false
 ---
-##  width الملكية
+##  width عقار
 
-يمثل width للشكل بوحدة بكسل.
+يمثل width من الشكل بوحدة البكسل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

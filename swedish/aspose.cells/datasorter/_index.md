@@ -3,7 +3,7 @@ title: DataSorter klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 440
 url: /sv/aspose.cells/datasorter/
 is_root: false
 ---
@@ -27,20 +27,20 @@ Typen DataSorter avslöjar följande medlemmar:
 | [order3](/cells/python-net/sv/aspose.cells/datasorter/order3) | Representerar sorteringsordningen för den tredje nyckeln.|
 | [sort_left_to_right](/cells/python-net/sv/aspose.cells/datasorter/sort_left_to_right) | Sant betyder att sorteringsorienteringen är från vänster till höger.<br/>Falskt betyder att sorteringsorienteringen är från topp till botten.<br/> Standardvärdet är falskt.|
 | [case_sensitive](/cells/python-net/sv/aspose.cells/datasorter/case_sensitive) | Hämtar och ställer in om skiftlägeskänslighet vid jämförelse av sträng.|
-| [sort_as_number](/cells/python-net/sv/aspose.cells/datasorter/sort_as_number) | Anger om något som ser ut som ett nummer sorteras.|
+| [sort_as_number](/cells/python-net/sv/aspose.cells/datasorter/sort_as_number) |Anger om något som ser ut som ett nummer sorteras.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add_key(key, order)](/cells/python-net/sv/aspose.cells/datasorter/add_key/#int-SortOrder) | Lägger till sorterat kolumnindex och sorteringsordning.|
-| [add_key(key, order, custom_list)](/cells/python-net/sv/aspose.cells/datasorter/add_key/#int-SortOrder-str) | Lägger till sorterat kolumnindex och sorteringsordning med anpassad sorteringslista.|
-| [add_key(key, type, order, custom_list)](/cells/python-net/sv/aspose.cells/datasorter/add_key/#int-SortOnType-SortOrder-any) | Lägger till sorterat kolumnindex och sorteringsordning med anpassad sorteringslista.|
-| [add_key(key, order, custom_list)](/cells/python-net/sv/aspose.cells/datasorter/add_key/#int-SortOrder-list) | Lägger till sorterat kolumnindex och sorteringsordning med anpassad sorteringslista.|
-| [sort(cells, start_row, start_column, end_row, end_column)](/cells/python-net/sv/aspose.cells/datasorter/sort/#Cells-int-int-int-int) | Sorterar data för området.|
-| [sort(cells, area)](/cells/python-net/sv/aspose.cells/datasorter/sort/#Cells-CellArea) | Sortera data för området.|
-| [sort()](/cells/python-net/sv/aspose.cells/datasorter/sort/#) | Sortera data i intervallet.|
-| [clear()](/cells/python-net/sv/aspose.cells/datasorter/clear/#) | Rensa alla inställningar.|
+| [add_key](/cells/python-net/sv/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder) | Lägger till sorterat kolumnindex och sorteringsordning.|
+| [add_key](/cells/python-net/sv/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-str) | Lägger till sorterat kolumnindex och sorteringsordning med anpassad sorteringslista.|
+| [add_key](/cells/python-net/sv/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOnType-aspose.cells.SortOrder-any) | Lägger till sorterat kolumnindex och sorteringsordning med anpassad sorteringslista.|
+| [add_key](/cells/python-net/sv/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-list) | Lägger till sorterat kolumnindex och sorteringsordning med anpassad sorteringslista.|
+| [sort](/cells/python-net/sv/aspose.cells/datasorter/sort/#aspose.cells.Cells-int-int-int-int) | Sorterar data för området.|
+| [sort](/cells/python-net/sv/aspose.cells/datasorter/sort/#aspose.cells.Cells-aspose.cells.CellArea) | Sortera data för området.|
+| [sort](/cells/python-net/sv/aspose.cells/datasorter/sort/#) | Sortera data i intervallet.|
+| [clear](/cells/python-net/sv/aspose.cells/datasorter/clear/#) | Rensa alla inställningar.|
 
 
 
@@ -79,4 +79,4 @@ workbook.save("outBook.xls")
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

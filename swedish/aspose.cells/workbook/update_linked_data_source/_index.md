@@ -3,13 +3,13 @@ title: update_linked_data_source metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 420
 url: /sv/aspose.cells/workbook/update_linked_data_source/
 is_root: false
 ---
-##  update_linked_data_source(external_workbooks) {#list}
+##  update_linked_data_source {#list}
 Om den här arbetsboken innehåller externa länkar till andra datakällor,
-Aspose.Cells kommer att försöka hämta de senaste uppgifterna.
+Aspose.Cells kommer att försöka hämta de senaste uppgifterna från givna källor.
 
 
 
@@ -21,16 +21,14 @@ def update_linked_data_source(self, external_workbooks):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| external_workbooks | list | Externa arbetsböcker refereras av denna arbetsbok.<br/>Om det är null öppnar vi de externt länkade filerna direkt.<br/> Om det inte är null,<br/>vi kommer att kontrollera om den externa länken i arrayen först;<br/> om inte kommer vi att öppna de externt länkade filerna igen.|
+| external_workbooks | list | Arbetsböcker som kommer att användas för att uppdatera data från externa länkar som den här arbetsboken refererar till.<br/>Matchningen av dessa arbetsböcker med externa länkar bestäms av [`Workbook.file_name`](/cells/python-net/sv/aspose.cells/workbook#file_name)<br/>och [`ExternalLink.data_source`](/cells/python-net/sv/aspose.cells/externallink#data_source). Så se till att [`Workbook.file_name`](/cells/python-net/sv/aspose.cells/workbook#file_name) har<br/> har angetts med rätt värde för varje arbetsbok så att de kan länkas till motsvarande extern länk.|
 ###  Anmärkningar
 
-Om metoden inte anropas innan formler beräknas,
-Aspose.Cells kommer att använda den tidigare informationen (cachelagrad i filen);
- Vänligen ställ in CellsHelper.StartupPath,CellsHelper.AltStartPath,CellsHelper.LibraryPath.
-Och vänligen ställ in Workbook.FilePath om den här arbetsboken är från en ström,
-annars kunde Aspose.Cells inte få den externa länkens fullständiga sökväg ibland.
+Om motsvarande extern länk inte kan hittas för en arbetsbok, kommer denna arbetsbok att ignoreras.
+Så när du ställer in en formel senare med en ny extern länk som du tänker göra den ignorerade arbetsboken
+vara länkad till den, kan länken inte utföras förrän du kallar den här metoden igen med dessa arbetsböcker.
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

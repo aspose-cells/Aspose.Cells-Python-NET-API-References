@@ -3,7 +3,7 @@ title: original_height_cm proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 930
+weight: 940
 url: /it/aspose.cells.drawing/picture/original_height_cm/
 is_root: false
 ---
@@ -37,5 +37,5 @@ def original_height_cm(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

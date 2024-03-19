@@ -3,7 +3,7 @@ title: ignore_not_printed fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 180
 url: /sv/aspose.cells/txtloadoptions/ignore_not_printed/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def ignore_not_printed(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [TxtLoadOptions](/cells/python-net/sv/aspose.cells/txtloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`TxtLoadOptions`](/cells/python-net/sv/aspose.cells/txtloadoptions)

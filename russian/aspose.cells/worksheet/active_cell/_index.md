@@ -1,9 +1,9 @@
 ---
 title: active_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 330
+weight: 350
 url: /ru/aspose.cells/worksheet/active_cell/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def active_cell(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

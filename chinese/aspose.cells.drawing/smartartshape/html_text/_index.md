@@ -1,22 +1,22 @@
 ---
-title: html_text 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: html_text属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 480
+weight: 490
 url: /zh/aspose.cells.drawing/smartartshape/html_text/
 is_root: false
 ---
-## html_text 属性
+## html_text属性
 
-获取和设置此文本框中包含数据和某些格式的 html 字符串。
+获取和设置包含此文本框中的数据和某些格式的 html 字符串。
 
 ### 例子
 
 ```python
 
 html = shape.html_text
-if html == null  || html == "":
+if html == null  or html == "":
     shape.html_text = "<Font Style='FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #0000ff;TEXT-ALIGN: left;'>This is a <b>test</b>.</Font>"
 
 ```
@@ -31,5 +31,5 @@ def html_text(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [SmartArtShape](/cells/python-net/zh/aspose.cells.drawing/smartartshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`SmartArtShape`](/cells/python-net/zh/aspose.cells.drawing/smartartshape)

@@ -1,15 +1,15 @@
 ---
-title: validate_merged_areas الملكية
+title: validate_merged_areas عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 300
 url: /ar/aspose.cells/docxsaveoptions/validate_merged_areas/
 is_root: false
 ---
-##  validate_merged_areas الملكية
+##  validate_merged_areas عقار
 
-يشير إلى ما إذا كان يجب التحقق من صحة الخلايا المدمجة قبل حفظ الملف.
+يشير إلى ما إذا كان سيتم التحقق من صحة الخلايا المدمجة قبل حفظ الملف.
 
 ###  ملاحظات
 
@@ -25,5 +25,5 @@ def validate_merged_areas(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DocxSaveOptions](/cells/python-net/ar/aspose.cells/docxsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DocxSaveOptions`](/cells/python-net/ar/aspose.cells/docxsaveoptions)

@@ -1,9 +1,9 @@
 ---
 title: value2 недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ru/aspose.cells/validation/value2/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def value2(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Validation](/cells/python-net/ru/aspose.cells/validation)
+* модуль [`aspose.cells`](../../)
+* класс [`Validation`](/cells/python-net/ru/aspose.cells/validation)

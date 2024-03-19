@@ -1,18 +1,18 @@
 ---
 title: Sparkline класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ru/aspose.cells.charts/sparkline/
 is_root: false
 ---
 ##  Sparkline класс
-Спарклайн представляет собой крошечную диаграмму или графику в ячейке рабочего листа, которая обеспечивает визуальное представление данных.
+Спарклайн представляет собой небольшую диаграмму или рисунок в ячейке листа, который обеспечивает визуальное представление данных.
 
 
 
-Тип Sparkline предоставляет следующие члены:
+Тип Sparkline предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -25,8 +25,8 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [to_image(file_name, options)](/cells/python-net/ru/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Преобразует спарклайн в изображение.|
-| [to_image(stream, options)](/cells/python-net/ru/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Преобразует спарклайн в изображение.|
+| [to_image](/cells/python-net/ru/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Преобразует спарклайн в изображение.|
+| [to_image](/cells/python-net/ru/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Преобразует спарклайн в изображение.|
 
 
 
@@ -59,4 +59,4 @@ line.to_image("output.png", ImageOrPrintOptions())
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

@@ -1,9 +1,9 @@
 ---
 title: default_height недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ru/aspose.cells.charts/legend/default_height/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def default_height(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Legend](/cells/python-net/ru/aspose.cells.charts/legend)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Legend`](/cells/python-net/ru/aspose.cells.charts/legend)

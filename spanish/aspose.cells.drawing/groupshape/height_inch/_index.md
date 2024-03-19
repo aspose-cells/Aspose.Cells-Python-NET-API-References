@@ -3,7 +3,7 @@ title: height_inch propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 470
+weight: 480
 url: /es/aspose.cells.drawing/groupshape/height_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representa la altura de la forma, en unidades de pulgadas.
 ```python
 
 if shape.height_inch == 3:
-    shape.height_inch = 1
+    shape.height_inch = 1.0
 
 ```
 ###  Definición:
@@ -30,5 +30,5 @@ def height_inch(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)

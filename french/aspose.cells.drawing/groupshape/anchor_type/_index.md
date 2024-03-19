@@ -3,13 +3,13 @@ title: anchor_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 290
+weight: 310
 url: /fr/aspose.cells.drawing/groupshape/anchor_type/
 is_root: false
 ---
 ##  anchor_type propriété
 
-Obtient et définit l'espace réservé d'ancrage de la forme.
+Obtient et définit l’espace réservé de l’ancre de forme.
 
 ###  Exemple
 
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GroupShape](/cells/python-net/fr/aspose.cells.drawing/groupshape)
-* classe [ShapeAnchorType](/cells/python-net/fr/aspose.cells.drawing/shapeanchortype)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/fr/aspose.cells.drawing/groupshape)
+* classe [`ShapeAnchorType`](/cells/python-net/fr/aspose.cells.drawing/shapeanchortype)

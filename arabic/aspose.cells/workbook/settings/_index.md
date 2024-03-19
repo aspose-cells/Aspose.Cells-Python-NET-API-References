@@ -1,13 +1,13 @@
 ---
-title: settings الملكية
+title: settings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 650
 url: /ar/aspose.cells/workbook/settings/
 is_root: false
 ---
-##  settings الملكية
+##  settings عقار
 
 يمثل المصنف settings.
 ###  تعريف:
@@ -18,6 +18,6 @@ def settings(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

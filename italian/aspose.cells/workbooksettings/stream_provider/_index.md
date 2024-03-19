@@ -3,7 +3,7 @@ title: stream_provider proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 600
+weight: 480
 url: /it/aspose.cells/workbooksettings/stream_provider/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Ottiene e imposta il provider di flussi per la risorsa esterna.
 
  NOTA: questo membro è ora obsoleto. Invece,
 utilizzare la proprietà ResourceProvider.
- Questa proprietà verrà rimossa 12 mesi dopo da giugno 2022.
-Aspose si scusa per gli eventuali disagi causati.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da giugno 2022.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -28,6 +28,6 @@ def stream_provider(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [IStreamProvider](/cells/python-net/it/aspose.cells/istreamprovider)
-* classe [WorkbookSettings](/cells/python-net/it/aspose.cells/workbooksettings)
+* modulo [`aspose.cells`](../../)
+* classe [`IStreamProvider`](/cells/python-net/it/aspose.cells/istreamprovider)
+* classe [`WorkbookSettings`](/cells/python-net/it/aspose.cells/workbooksettings)

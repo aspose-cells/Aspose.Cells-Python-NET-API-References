@@ -1,15 +1,15 @@
 ---
-title: language_code الملكية
+title: language_code عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 290
 url: /ar/aspose.cells/workbooksettings/language_code/
 is_root: false
 ---
-##  language_code الملكية
+##  language_code عقار
 
-الحصول على أو تعيين لغة واجهة المستخدم لإصدار المصنف بناءً على كود البلد الذي حفظ الملف.
+الحصول على لغة واجهة المستخدم الخاصة بإصدار المصنف أو تعيينها بناءً على رمز البلد الذي قام بحفظ الملف.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CountryCode](/cells/python-net/ar/aspose.cells/countrycode)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CountryCode`](/cells/python-net/ar/aspose.cells/countrycode)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

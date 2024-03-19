@@ -1,15 +1,15 @@
 ---
-title: precision_strategy 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: precision_strategy属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 90
 url: /zh/aspose.cells/calculationoptions/precision_strategy/
 is_root: false
 ---
-## precision_strategy 属性
+## precision_strategy属性
 
-指定处理计算精度的策略。
+指定计算处理精度的策略。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def precision_strategy(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CalculationOptions](/cells/python-net/zh/aspose.cells/calculationoptions)
-* 类 [CalculationPrecisionStrategy](/cells/python-net/zh/aspose.cells/calculationprecisionstrategy)
+* 模块[`aspose.cells`](../../)
+* 类 [`CalculationOptions`](/cells/python-net/zh/aspose.cells/calculationoptions)
+* 类 [`CalculationPrecisionStrategy`](/cells/python-net/zh/aspose.cells/calculationprecisionstrategy)

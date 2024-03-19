@@ -1,19 +1,19 @@
 ---
 title: top недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /ru/aspose.cells.drawing/checkbox/top/
 is_root: false
 ---
 ##  top недвижимость
 
-Представляет вертикальное смещение фигуры от ее строки top в единицах пикселей.
+Представляет вертикальное смещение фигуры от ее строки top в пикселях.
 
 ###  Примечания
 
-Если фигура находится на диаграмме, представляет вертикальное смещение фигуры от ее границы top.
+Если фигура находится на диаграмме, она представляет собой вертикальное смещение фигуры от ее границы top.
 
 ###  Пример
 
@@ -34,5 +34,5 @@ def top(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CheckBox](/cells/python-net/ru/aspose.cells.drawing/checkbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CheckBox`](/cells/python-net/ru/aspose.cells.drawing/checkbox)

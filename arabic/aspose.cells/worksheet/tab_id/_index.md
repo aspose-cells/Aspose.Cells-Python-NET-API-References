@@ -1,13 +1,13 @@
 ---
-title: tab_id الملكية
+title: tab_id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 800
+weight: 820
 url: /ar/aspose.cells/worksheet/tab_id/
 is_root: false
 ---
-##  tab_id الملكية
+##  tab_id عقار
 
 يحدد المعرف الداخلي للورقة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def tab_id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

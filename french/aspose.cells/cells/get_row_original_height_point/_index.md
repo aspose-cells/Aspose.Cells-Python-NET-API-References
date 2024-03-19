@@ -1,13 +1,13 @@
 ---
-title: get_row_original_height_point méthode
+title: méthode get_row_original_height_point
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 500
+weight: 490
 url: /fr/aspose.cells/cells/get_row_original_height_point/
 is_root: false
 ---
-##  get_row_original_height_point(row) {#int}
+##  get_row_original_height_point {#int}
 Obtient la hauteur de la ligne d'origine en unité de point si la ligne est masquée
 
 
@@ -29,5 +29,5 @@ def get_row_original_height_point(self, row):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cells](/cells/python-net/fr/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/fr/aspose.cells/cells)

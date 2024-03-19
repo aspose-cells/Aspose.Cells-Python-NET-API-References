@@ -3,12 +3,12 @@ title: طريقة remove_active_x_control
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 180
 url: /ar/aspose.cells.drawing/groupshape/remove_active_x_control/
 is_root: false
 ---
-##  remove_active_x_control() {#}
-إزالة عنصر تحكم ActiveX.
+##  remove_active_x_control {#}
+قم بإزالة عنصر التحكم ActiveX.
 
 
 
@@ -23,12 +23,13 @@ def remove_active_x_control(self):
 
 ```python
 
-shape.remove_active_x_control()
+if shape.active_x_control != None:
+    shape.remove_active_x_control()
 
 ```
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupShape](/cells/python-net/ar/aspose.cells.drawing/groupshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupShape`](/cells/python-net/ar/aspose.cells.drawing/groupshape)

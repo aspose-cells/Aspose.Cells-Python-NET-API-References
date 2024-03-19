@@ -3,13 +3,13 @@ title: height_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 120
+weight: 130
 url: /de/aspose.cells/comment/height_cm/
 is_root: false
 ---
 ##  height_cm Eigentum
 
-Stellt die Höhe des Kommentars in Zentimetern dar.
+Stellt die Höhe des Kommentars in der Einheit Zentimeter dar.
 
 ###  Beispiel
 
@@ -29,5 +29,5 @@ def height_cm(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Comment](/cells/python-net/de/aspose.cells/comment)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Comment`](/cells/python-net/de/aspose.cells/comment)

@@ -3,18 +3,18 @@ title: built_in_document_properties proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 440
+weight: 450
 url: /it/aspose.cells/workbook/built_in_document_properties/
 is_root: false
 ---
 ##  built_in_document_properties proprietà
 
-Restituisce una raccolta [DocumentProperty](/cells/python-net/it/aspose.cells.properties/documentproperty) che rappresenta tutte le proprietà del documento predefinite del foglio di calcolo.
+Restituisce una raccolta [`DocumentProperty`](/cells/python-net/it/aspose.cells.properties/documentproperty) che rappresenta tutte le proprietà del documento integrate nel foglio di calcolo.
 
 ###  Osservazioni
 
-Non è possibile aggiungere una nuova proprietà all'elenco delle proprietà del documento integrato. Puoi solo ottenere una proprietà incorporata e modificarne il valore.
-Di seguito è riportato l'elenco dei nomi delle proprietà predefinite:
+Non è possibile aggiungere una nuova proprietà all'elenco delle proprietà del documento integrato. Puoi solo ottenere una proprietà integrata e modificarne il valore.
+Quello che segue è l'elenco dei nomi delle proprietà integrate:
 
 Titolo
 
@@ -49,7 +49,7 @@ Data dell'ultima stampa
 Data di creazione
 
 
-Ora dell'ultimo salvataggio
+Ultimo salvataggio
 
 
 Tempo totale di modifica
@@ -106,7 +106,7 @@ def built_in_document_properties(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)
-* classe [DocumentProperty](/cells/python-net/it/aspose.cells.properties/documentproperty)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)
+* classe [`DocumentProperty`](/cells/python-net/it/aspose.cells.properties/documentproperty)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

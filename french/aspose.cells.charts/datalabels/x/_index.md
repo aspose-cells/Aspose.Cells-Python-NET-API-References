@@ -3,13 +3,13 @@ title: x propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 530
+weight: 520
 url: /fr/aspose.cells.charts/datalabels/x/
 is_root: false
 ---
 ##  x propriété
 
-Obtient ou définit la coordonnée x du coin supérieur gauche en unités de 1/4000 de la zone de graphique.
+Obtient ou définit la coordonnée x du coin supérieur gauche en unités de 1/4 000 de la zone du graphique.
 
 ###  Remarques
 
@@ -26,5 +26,5 @@ def x(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/fr/aspose.cells.charts/datalabels)
+* module [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/fr/aspose.cells.charts/datalabels)

@@ -1,15 +1,15 @@
 ---
-title: check_boxes الملكية
+title: check_boxes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 420
 url: /ar/aspose.cells/worksheet/check_boxes/
 is_root: false
 ---
-##  check_boxes الملكية
+##  check_boxes عقار
 
-يحصل على مجموعة [CheckBox](/cells/python-net/ar/aspose.cells.drawing/checkbox).
+يحصل على مجموعة [`CheckBox`](/cells/python-net/ar/aspose.cells.drawing/checkbox).
 ###  تعريف:
 ```python
 @property
@@ -18,7 +18,7 @@ def check_boxes(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CheckBox](/cells/python-net/ar/aspose.cells.drawing/checkbox)
-* فئة [CheckBoxCollection](/cells/python-net/ar/aspose.cells.drawing/checkboxcollection)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CheckBox`](/cells/python-net/ar/aspose.cells.drawing/checkbox)
+* فئة [`CheckBoxCollection`](/cells/python-net/ar/aspose.cells.drawing/checkboxcollection)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

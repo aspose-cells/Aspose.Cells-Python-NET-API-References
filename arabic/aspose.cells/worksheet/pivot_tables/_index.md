@@ -1,15 +1,15 @@
 ---
-title: pivot_tables الملكية
+title: pivot_tables عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 690
+weight: 710
 url: /ar/aspose.cells/worksheet/pivot_tables/
 is_root: false
 ---
-##  pivot_tables الملكية
+##  pivot_tables عقار
 
-يحصل على جميع الجداول المحورية في ورقة العمل هذه.
+الحصول على كافة الجداول المحورية في ورقة العمل هذه.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def pivot_tables(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PivotTableCollection](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PivotTableCollection`](/cells/python-net/ar/aspose.cells.pivot/pivottablecollection)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

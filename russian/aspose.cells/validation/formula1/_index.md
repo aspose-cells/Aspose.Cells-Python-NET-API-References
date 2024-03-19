@@ -1,9 +1,9 @@
 ---
 title: formula1 недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ru/aspose.cells/validation/formula1/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def formula1(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Validation](/cells/python-net/ru/aspose.cells/validation)
+* модуль [`aspose.cells`](../../)
+* класс [`Validation`](/cells/python-net/ru/aspose.cells/validation)

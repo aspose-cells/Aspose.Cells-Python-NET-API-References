@@ -3,13 +3,13 @@ title: worksheet Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /de/aspose.cells.drawing/groupshape/worksheet/
 is_root: false
 ---
 ##  worksheet Eigentum
 
-Ruft das [Shape.worksheet](/cells/python-net/de/aspose.cells.drawing/shape#worksheet)-Objekt ab, das diese Form enthält.
+Ruft das [`Shape.worksheet`](/cells/python-net/de/aspose.cells.drawing/shape#worksheet)-Objekt ab, das diese Form enthält.
 
 ###  Beispiel
 
@@ -26,6 +26,6 @@ def worksheet(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GroupShape](/cells/python-net/de/aspose.cells.drawing/groupshape)
-* Klasse [Worksheet](/cells/python-net/de/aspose.cells/worksheet)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GroupShape`](/cells/python-net/de/aspose.cells.drawing/groupshape)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

@@ -1,14 +1,14 @@
 ---
-title: remove_at método
+title: método remove_at
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 40
+weight: 50
 url: /es/aspose.cells/rowcollection/remove_at/
 is_root: false
 ---
-##  remove_at(index) {#int}
-Eliminar la fila en el índice especificado
+##  remove_at {#int}
+Elimine el elemento de fila en el índice (posición) especificado en esta colección.
 
 
 
@@ -20,10 +20,10 @@ def remove_at(self, index):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| index | int | índice de fila de base cero|
+| index | int |Índice de base cero (posición, no [`Row.index`](/cells/python-net/es/aspose.cells/row#index)) del elemento de fila existente en esta colección.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [RowCollection](/cells/python-net/es/aspose.cells/rowcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`RowCollection`](/cells/python-net/es/aspose.cells/rowcollection)

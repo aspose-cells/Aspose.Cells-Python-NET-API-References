@@ -1,20 +1,20 @@
 ---
-title: update_adjacent_cells_border الملكية
+title: update_adjacent_cells_border عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 490
 url: /ar/aspose.cells/workbooksettings/update_adjacent_cells_border/
 is_root: false
 ---
-##  update_adjacent_cells_border الملكية
+##  update_adjacent_cells_border عقار
 
 يشير إلى ما إذا كان سيتم تحديث حدود الخلايا المجاورة.
 
 ###  ملاحظات
 
 القيمة الافتراضية هي كاذبة.
- على سبيل المثال: يتم تحديث الحد السفلي للخلية A1 ،
+ على سبيل المثال: يتم تحديث الحد السفلي للخلية A1،
 يجب تغيير الحد العلوي للخلية A2 أيضًا.
 ###  تعريف:
 ```python
@@ -27,5 +27,5 @@ def update_adjacent_cells_border(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

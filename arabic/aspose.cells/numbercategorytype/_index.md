@@ -1,18 +1,18 @@
 ---
-title: العد NumberCategoryType
+title: NumberCategoryType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2260
+weight: 2350
 url: /ar/aspose.cells/numbercategorytype/
 is_root: false
 ---
-##  العد NumberCategoryType
-يمثل نوع فئة تنسيق رقم الخلية.
+##  NumberCategoryType التعداد
+يمثل نوع فئة تنسيق أرقام الخلية.
 
 
 
-يكشف نوع NumberCategoryType الأعضاء التالية:
+يكشف النوع NumberCategoryType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -28,4 +28,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: FontSetting sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 670
+weight: 700
 url: /tr/aspose.cells/fontsetting/
 is_root: false
 ---
@@ -12,20 +12,20 @@ Hücre metni içindeki bir karakter aralığını temsil eder.
 
 
 
-FontSetting türü aşağıdaki üyeleri gösterir:
+FontSetting türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [FontSetting(start_index, length, sheets)](/cells/python-net/tr/aspose.cells/fontsetting/__init__/#int-int-WorksheetCollection) |  |
+| [__init__](/cells/python-net/tr/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [type](/cells/python-net/tr/aspose.cells/fontsetting/type) | Metin düğümü türünü alır.|
-| [start_index](/cells/python-net/tr/aspose.cells/fontsetting/start_index) | Karakterlerin başlangıç dizinini alır.|
-| [length](/cells/python-net/tr/aspose.cells/fontsetting/length) |Karakterlerin uzunluklarını alır.|
+| [type](/cells/python-net/tr/aspose.cells/fontsetting/type) | Metin düğümünün türünü alır.|
+| [start_index](/cells/python-net/tr/aspose.cells/fontsetting/start_index) |Karakterlerin başlangıç indeksini alır.|
+| [length](/cells/python-net/tr/aspose.cells/fontsetting/length) | Karakterlerin uzunluğunu alır.|
 | [font](/cells/python-net/tr/aspose.cells/fontsetting/font) | Bu nesnenin yazı tipini döndürür.|
 | [text_options](/cells/python-net/tr/aspose.cells/fontsetting/text_options) | Metin seçeneklerini döndürür.|
 
@@ -33,7 +33,7 @@ FontSetting türü aşağıdaki üyeleri gösterir:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [set_word_art_style(style)](/cells/python-net/tr/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Önceden ayarlanmış WordArt stilini ayarlar.|
+| [set_word_art_style](/cells/python-net/tr/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Önceden ayarlanmış WordArt stilini ayarlar.|
 
 
 
@@ -65,4 +65,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

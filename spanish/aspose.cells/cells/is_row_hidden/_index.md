@@ -1,14 +1,14 @@
 ---
-title: is_row_hidden método
+title: método is_row_hidden
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 770
+weight: 760
 url: /es/aspose.cells/cells/is_row_hidden/
 is_root: false
 ---
-##  is_row_hidden(row_index) {#int}
-Comprueba si una fila en el índice dado está oculta.
+##  is_row_hidden {#int}
+Comprueba si una fila en un índice determinado está oculta.
 
 
 ###  Devoluciones
@@ -29,5 +29,5 @@ def is_row_hidden(self, row_index):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

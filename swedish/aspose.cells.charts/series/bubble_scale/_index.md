@@ -3,7 +3,7 @@ title: bubble_scale fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 70
 url: /sv/aspose.cells.charts/series/bubble_scale/
 is_root: false
 ---
@@ -24,5 +24,5 @@ def bubble_scale(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

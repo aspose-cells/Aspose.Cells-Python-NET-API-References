@@ -1,13 +1,13 @@
 ---
-title: is_automatic_rotation 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_automatic_rotation属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 90
 url: /zh/aspose.cells.charts/ticklabels/is_automatic_rotation/
 is_root: false
 ---
-## is_automatic_rotation 属性
+## is_automatic_rotation属性
 
 表示旋转角度是否自动
 ### 定义：
@@ -21,5 +21,5 @@ def is_automatic_rotation(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [TickLabels](/cells/python-net/zh/aspose.cells.charts/ticklabels)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`TickLabels`](/cells/python-net/zh/aspose.cells.charts/ticklabels)

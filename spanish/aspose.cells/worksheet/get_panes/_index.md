@@ -1,13 +1,13 @@
 ---
-title: get_panes método
+title: método get_panes
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 140
+weight: 160
 url: /es/aspose.cells/worksheet/get_panes/
 is_root: false
 ---
-##  get_panes() {#}
+##  get_panes {#}
 Obtiene los cristales de las ventanas.
 
 
@@ -25,5 +25,5 @@ Si la ventana no está dividida o congelada.
 
 ###  Ver también
 
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

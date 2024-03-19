@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bullet_value propriété
 
-Obtient la valeur de la balle
+Obtient la valeur de la puce.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def bullet_value(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [Bullet](/cells/python-net/fr/aspose.cells.drawing.texts/bullet)
-* classe [BulletValue](/cells/python-net/fr/aspose.cells.drawing.texts/bulletvalue)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`Bullet`](/cells/python-net/fr/aspose.cells.drawing.texts/bullet)
+* classe [`BulletValue`](/cells/python-net/fr/aspose.cells.drawing.texts/bulletvalue)

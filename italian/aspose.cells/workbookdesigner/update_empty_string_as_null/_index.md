@@ -3,7 +3,7 @@ title: update_empty_string_as_null proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 110
+weight: 120
 url: /it/aspose.cells/workbookdesigner/update_empty_string_as_null/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def update_empty_string_as_null(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorkbookDesigner](/cells/python-net/it/aspose.cells/workbookdesigner)
+* modulo [`aspose.cells`](../../)
+* classe [`WorkbookDesigner`](/cells/python-net/it/aspose.cells/workbookdesigner)

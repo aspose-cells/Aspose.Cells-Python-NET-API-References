@@ -7,9 +7,9 @@ weight: 40
 url: /tr/aspose.cells/comment/get_characters/
 is_root: false
 ---
-##  get_characters() {#}
- Tüm Karakterler nesnelerini döndürür
-bu, yorum metni içindeki bir karakter aralığını temsil eder.
+##  get_characters {#}
+ Tüm Karakter nesnelerini döndürür
+bu, yorum metnindeki bir dizi karakteri temsil eder.
 
 
 ###  İadeler
@@ -23,7 +23,12 @@ def get_characters(self):
 ```
 
 
+###  Notlar
 
+NOT: Bu yöntem artık geçerliliğini yitirmiştir. Yerine,
+lütfen Comment.GetRichFormattings() yöntemini kullanın.
+ Bu yöntem Kasım 2023'ten 12 ay sonra kaldırılacaktır.
+Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
 ###  Örnek
 
 ```python
@@ -35,5 +40,5 @@ list = comment1.get_characters()
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)

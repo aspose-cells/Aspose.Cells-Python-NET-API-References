@@ -1,13 +1,13 @@
 ---
-title: relative_to_original_picture_size الملكية
+title: relative_to_original_picture_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 860
+weight: 880
 url: /ar/aspose.cells.drawing/radiobutton/relative_to_original_picture_size/
 is_root: false
 ---
-##  relative_to_original_picture_size الملكية
+##  relative_to_original_picture_size عقار
 
 يشير إلى ما إذا كان الشكل متناسبًا مع حجم الصورة الأصلي.
 
@@ -30,5 +30,5 @@ def relative_to_original_picture_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

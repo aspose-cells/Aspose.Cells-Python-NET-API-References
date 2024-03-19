@@ -1,22 +1,22 @@
 ---
-title: left_inch 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: left_inch属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 720
+weight: 730
 url: /zh/aspose.cells.drawing/listbox/left_inch/
 is_root: false
 ---
-## left_inch 属性
+## left_inch属性
 
-表示形状与其左列的水平偏移量，以英寸为单位。
+表示形状相对于其左列的水平偏移量，以英寸为单位。
 
 ### 例子
 
 ```python
 
 if shape.left_inch == 3:
-    shape.left_inch = 1
+    shape.left_inch = 1.0
 
 ```
 ### 定义：
@@ -30,5 +30,5 @@ def left_inch(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ListBox](/cells/python-net/zh/aspose.cells.drawing/listbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ListBox`](/cells/python-net/zh/aspose.cells.drawing/listbox)

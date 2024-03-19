@@ -3,7 +3,7 @@ title: text_body Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 930
+weight: 940
 url: /de/aspose.cells.drawing/groupbox/text_body/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [FontSettingCollection](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)
-* Klasse [GroupBox](/cells/python-net/de/aspose.cells.drawing/groupbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`FontSettingCollection`](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)
+* Klasse [`GroupBox`](/cells/python-net/de/aspose.cells.drawing/groupbox)

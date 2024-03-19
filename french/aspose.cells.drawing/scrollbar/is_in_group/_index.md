@@ -3,7 +3,7 @@ title: is_in_group propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 610
+weight: 620
 url: /fr/aspose.cells.drawing/scrollbar/is_in_group/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_in_group(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ScrollBar](/cells/python-net/fr/aspose.cells.drawing/scrollbar)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ScrollBar`](/cells/python-net/fr/aspose.cells.drawing/scrollbar)

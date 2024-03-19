@@ -3,7 +3,7 @@ title: anchor_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 290
+weight: 310
 url: /es/aspose.cells.drawing/listbox/anchor_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ListBox](/cells/python-net/es/aspose.cells.drawing/listbox)
-* clase [ShapeAnchorType](/cells/python-net/es/aspose.cells.drawing/shapeanchortype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ListBox`](/cells/python-net/es/aspose.cells.drawing/listbox)
+* clase [`ShapeAnchorType`](/cells/python-net/es/aspose.cells.drawing/shapeanchortype)

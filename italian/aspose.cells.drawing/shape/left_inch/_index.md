@@ -3,7 +3,7 @@ title: left_inch propriet√†
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 690
+weight: 700
 url: /it/aspose.cells.drawing/shape/left_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Rappresenta l'offset orizzontale della forma dalla colonna di sinistra, in unit√
 ```python
 
 if shape.left_inch == 3:
-    shape.left_inch = 1
+    shape.left_inch = 1.0
 
 ```
 ###  Definizione:
@@ -30,5 +30,5 @@ def left_inch(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Shape](/cells/python-net/it/aspose.cells.drawing/shape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Shape`](/cells/python-net/it/aspose.cells.drawing/shape)

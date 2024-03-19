@@ -7,23 +7,24 @@ weight: 10
 url: /tr/aspose.cells.ods/
 is_root: false
 ---
- bu**Aspose.Cells.Ods** ad alanı, OpenDocument Elektronik Tablo dosyalarının yüklenmesine ve dönüştürülmesine ilişkin tüm sınıfları içerir.
+**Aspose.Cells.Ods** ad alanı, OpenDocument Elektronik Tablo dosyalarının yüklenmesi ve dönüştürülmesiyle ilgili tüm sınıfları içerir.
 
-###  sınıflar
+###  Sınıflar
 | Sınıf| Tanım|
 | :- | :- |
-| [OdsCellField](/cells/python-net/tr/aspose.cells.ods/odscellfield) | ods hücre alanını temsil eder.|
-| [OdsCellFieldCollection](/cells/python-net/tr/aspose.cells.ods/odscellfieldcollection) | ODS alanlarını temsil eder.|
-| [OdsPageBackground](/cells/python-net/tr/aspose.cells.ods/odspagebackground) | ods'un sayfa arka planını temsil eder.|
+| [`OdsCellField`](/cells/python-net/tr/aspose.cells.ods/odscellfield) | Od'ların hücre alanını temsil eder.|
+| [`OdsCellFieldCollection`](/cells/python-net/tr/aspose.cells.ods/odscellfieldcollection) | ODS alanlarını temsil eder.|
+| [`OdsPageBackground`](/cells/python-net/tr/aspose.cells.ods/odspagebackground) | Ods'un sayfa arka planını temsil eder.|
 
 
 ###  Numaralandırmalar
-|numaralandırma| Tanım|
+|Numaralandırma| Tanım|
 | :- | :- |
-| [OdsCellFieldType](/cells/python-net/tr/aspose.cells.ods/odscellfieldtype) | ods hücre alanı tipini temsil eder.|
-| [OdsGeneratorType](/cells/python-net/tr/aspose.cells.ods/odsgeneratortype) | ODS üreteci türünü temsil eder.|
-| [OdsPageBackgroundGraphicPositionType](/cells/python-net/tr/aspose.cells.ods/odspagebackgroundgraphicpositiontype) | Konumu temsil eder.|
-| [OdsPageBackgroundGraphicType](/cells/python-net/tr/aspose.cells.ods/odspagebackgroundgraphictype) | Resimli sayfa arka planını biçimlendirme türünü temsil eder.|
-| [OdsPageBackgroundType](/cells/python-net/tr/aspose.cells.ods/odspagebackgroundtype) | ods'un sayfa arka plan tipini temsil eder.|
+| [`OdsCellFieldType`](/cells/python-net/tr/aspose.cells.ods/odscellfieldtype) | Odaların hücre alanı türünü temsil eder.|
+| [`OdsGeneratorType`](/cells/python-net/tr/aspose.cells.ods/odsgeneratortype) | ODS oluşturucunun türünü temsil eder.|
+| [`OdsPageBackgroundGraphicPositionType`](/cells/python-net/tr/aspose.cells.ods/odspagebackgroundgraphicpositiontype) | Pozisyonu temsil eder.|
+| [`OdsPageBackgroundGraphicType`](/cells/python-net/tr/aspose.cells.ods/odspagebackgroundgraphictype) | Görüntü içeren sayfa arka planının biçimlendirme türünü temsil eder.|
+| [`OdsPageBackgroundType`](/cells/python-net/tr/aspose.cells.ods/odspagebackgroundtype) | Od'ların sayfa arka plan türünü temsil eder.|
+| [`OpenDocumentFormatVersionType`](/cells/python-net/tr/aspose.cells.ods/opendocumentformatversiontype) | Belge Formatı sürüm türünü açın.|
 
 

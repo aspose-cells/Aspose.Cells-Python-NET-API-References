@@ -3,13 +3,13 @@ title: load_style_strategy propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 250
+weight: 280
 url: /fr/aspose.cells/txtloadoptions/load_style_strategy/
 is_root: false
 ---
 ##  load_style_strategy propriété
 
-Indique la stratégie pour appliquer le style aux valeurs analysées lors de la conversion d'une valeur de chaîne en nombre ou en date/heure.
+Indique la stratégie pour appliquer le style aux valeurs analysées lors de la conversion d'une valeur de chaîne en nombre ou en datetime.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_style_strategy(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [TxtLoadOptions](/cells/python-net/fr/aspose.cells/txtloadoptions)
-* classe [TxtLoadStyleStrategy](/cells/python-net/fr/aspose.cells/txtloadstylestrategy)
+* module [`aspose.cells`](../../)
+* classe [`TxtLoadOptions`](/cells/python-net/fr/aspose.cells/txtloadoptions)
+* classe [`TxtLoadStyleStrategy`](/cells/python-net/fr/aspose.cells/txtloadstylestrategy)

@@ -3,12 +3,12 @@ title: RowCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1310
+weight: 1350
 url: /sv/aspose.cells/rowcollection/
 is_root: false
 ---
 ##  RowCollection klass
-Samlar de [Row](/cells/python-net/sv/aspose.cells/row)-objekt som representerar de enskilda raderna i ett kalkylblad.
+Samlar de [`Row`](/cells/python-net/sv/aspose.cells/row)-objekt som representerar de enskilda raderna i ett kalkylblad.
 
 
 
@@ -21,7 +21,7 @@ Typen RowCollection avslöjar följande medlemmar:
 
 
 
-Hämtar ett [Row](/cells/python-net/sv/aspose.cells/row)-objekt efter givet radindex. Radobjektet för givet radindex kommer att instansieras om det inte finns tidigare.
+Hämtar ett [`Row`](/cells/python-net/sv/aspose.cells/row)-objekt efter givet radindex. Radobjektet för givet radindex kommer att instansieras om det inte finns tidigare.
 ###  Indexerare
 | namn| Beskrivning|
 | :- | :- |
@@ -31,9 +31,10 @@ Hämtar ett [Row](/cells/python-net/sv/aspose.cells/row)-objekt efter givet radi
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_row_by_index(index)](/cells/python-net/sv/aspose.cells/rowcollection/get_row_by_index/#int) | Hämtar radobjektet efter positionen i listan.|
-| [clear()](/cells/python-net/sv/aspose.cells/rowcollection/clear/#) | Rensa alla rader och celler.|
-| [remove_at(index)](/cells/python-net/sv/aspose.cells/rowcollection/remove_at/#int) | Ta bort raden vid angivet index|
+| [get_enumerator](/cells/python-net/sv/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Får en uppräkning som itererar rader genom denna samling|
+| [get_row_by_index](/cells/python-net/sv/aspose.cells/rowcollection/get_row_by_index/#int) | Hämtar radobjektet efter positionen i listan.|
+| [clear](/cells/python-net/sv/aspose.cells/rowcollection/clear/#) | Rensa alla rader och celler.|
+| [remove_at](/cells/python-net/sv/aspose.cells/rowcollection/remove_at/#int) | Ta bort radobjektet vid angivet index(position) i denna samling.|
 
 
 
@@ -52,5 +53,5 @@ row = worksheet.cells.rows[0]
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [Row](/cells/python-net/sv/aspose.cells/row)
+* modul [`aspose.cells`](..)
+* klass [`Row`](/cells/python-net/sv/aspose.cells/row)

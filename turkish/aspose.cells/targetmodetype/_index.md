@@ -3,7 +3,7 @@ title: TargetModeType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2510
+weight: 2600
 url: /tr/aspose.cells/targetmodetype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Hedef modun türünü temsil eder.
 
 
 
-TargetModeType türü aşağıdaki üyeleri gösterir:
+TargetModeType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | EXTERNAL | Dış bağlantı|
-| FILE_PATH | Dosyalara veya klasörlere yerel ve tam yollar.|
+| FILE_PATH | Dosya veya klasörlerin yerel ve tam yolları.|
 | EMAIL | E-posta.|
-| CELL_REFERENCE | Hücre veya adlandırılmış aralıktaki bağlantı.|
+| CELL_REFERENCE | Hücredeki veya adlandırılmış aralıktaki bağlantı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

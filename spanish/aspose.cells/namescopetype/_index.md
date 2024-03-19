@@ -3,7 +3,7 @@ title: NameScopeType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2250
+weight: 2340
 url: /es/aspose.cells/namescopetype/
 is_root: false
 ---
@@ -18,10 +18,10 @@ El tipo NameScopeType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | ALL | Todos los nombres definidos.|
-| WORKBOOK | Los nombres definidos en el libro.|
+| WORKBOOK | Los nombres definidos en el libro de trabajo.|
 | WORKSHEET | Los nombres definidos en una hoja de trabajo o en todas las hojas de trabajo.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

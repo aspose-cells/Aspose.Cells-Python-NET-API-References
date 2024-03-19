@@ -3,14 +3,14 @@ title: selected_index propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 890
+weight: 900
 url: /es/aspose.cells.drawing/combobox/selected_index/
 is_root: false
 ---
 ##  selected_index propiedad
 
 Obtiene o establece el número de índice del elemento seleccionado actualmente en un cuadro de lista o cuadro combinado.
-Basado en cero.
+De base cero.
 
 ###  Observaciones
 
@@ -26,5 +26,5 @@ def selected_index(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ComboBox](/cells/python-net/es/aspose.cells.drawing/combobox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ComboBox`](/cells/python-net/es/aspose.cells.drawing/combobox)

@@ -1,9 +1,9 @@
 ---
 title: ChartPointCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ru/aspose.cells.charts/chartpointcollection/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип ChartPointCollection предоставляет следующие члены:
+Тип ChartPointCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -21,19 +21,19 @@ is_root: false
 
 
 
-Получает элемент [ChartPoint](/cells/python-net/ru/aspose.cells.charts/chartpoint) по указанному индексу в серии.
+Получает элемент [`ChartPoint`](/cells/python-net/ru/aspose.cells.charts/chartpoint) по указанному индексу в серии.
 ###  Индексатор
 | Имя| Описание|
 | :- | :- |
-| [index] | Индекс точки графика в ряду.|
+| [index] | Индекс точки графика в серии.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_enumerator()](/cells/python-net/ru/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Возвращает перечислитель для всего [ChartPointCollection](/cells/python-net/ru/aspose.cells.charts/chartpointcollection).|
-| [clear()](/cells/python-net/ru/aspose.cells.charts/chartpointcollection/clear/#) | Удалите все настройки точек графика.|
-| [remove_at(index)](/cells/python-net/ru/aspose.cells.charts/chartpointcollection/remove_at/#int) | Удаляет точку в индексе серии.|
+| [get_enumerator](/cells/python-net/ru/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Возвращает перечислитель для всего числа [`ChartPointCollection`](/cells/python-net/ru/aspose.cells.charts/chartpointcollection).|
+| [clear](/cells/python-net/ru/aspose.cells.charts/chartpointcollection/clear/#) | Удалите все настройки точек диаграммы.|
+| [remove_at](/cells/python-net/ru/aspose.cells.charts/chartpointcollection/remove_at/#int) | Удаляет точку в индексе серии..|
 
 
 
@@ -82,6 +82,6 @@ workbook.save("book1.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
-* класс [ChartPoint](/cells/python-net/ru/aspose.cells.charts/chartpoint)
-* класс [ChartPointCollection](/cells/python-net/ru/aspose.cells.charts/chartpointcollection)
+* модуль [`aspose.cells.charts`](..)
+* класс [`ChartPoint`](/cells/python-net/ru/aspose.cells.charts/chartpoint)
+* класс [`ChartPointCollection`](/cells/python-net/ru/aspose.cells.charts/chartpointcollection)

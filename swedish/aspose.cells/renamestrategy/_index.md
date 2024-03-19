@@ -3,7 +3,7 @@ title: RenameStrategy uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2430
+weight: 2520
 url: /sv/aspose.cells/renamestrategy/
 is_root: false
 ---
@@ -31,4 +31,4 @@ Duplicerade värden i rubriken är ogiltiga.
 För sådana situationer kan användaren bestämma hur de ska hanteras genom att specificera denna strategi.
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

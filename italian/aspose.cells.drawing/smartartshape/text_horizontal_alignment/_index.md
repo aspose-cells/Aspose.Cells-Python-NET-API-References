@@ -3,7 +3,7 @@ title: text_horizontal_alignment proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 960
+weight: 970
 url: /it/aspose.cells.drawing/smartartshape/text_horizontal_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [SmartArtShape](/cells/python-net/it/aspose.cells.drawing/smartartshape)
-* classe [TextAlignmentType](/cells/python-net/it/aspose.cells/textalignmenttype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`SmartArtShape`](/cells/python-net/it/aspose.cells.drawing/smartartshape)
+* classe [`TextAlignmentType`](/cells/python-net/it/aspose.cells/textalignmenttype)

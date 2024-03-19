@@ -1,15 +1,15 @@
 ---
-title: export_row_column_headings الملكية
+title: export_row_column_headings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ar/aspose.cells/htmlsaveoptions/export_row_column_headings/
 is_root: false
 ---
-##  export_row_column_headings الملكية
+##  export_row_column_headings عقار
 
-الإشارة إلى ما إذا كان يتم تصدير عناوين الصفوف والأعمدة في الورقة عند الحفظ في ملفات HTML.
+يشير إلى ما إذا كان يتم تصدير عناوين الصفوف والأعمدة في الورقة عند الحفظ في ملفات HTML.
 
 ###  ملاحظات
 
@@ -25,5 +25,5 @@ def export_row_column_headings(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

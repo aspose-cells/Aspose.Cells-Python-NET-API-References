@@ -1,19 +1,19 @@
 ---
-title: merged_cells الملكية
+title: merged_cells عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1150
+weight: 1140
 url: /ar/aspose.cells/cells/merged_cells/
 is_root: false
 ---
-##  merged_cells الملكية
+##  merged_cells عقار
 
-يحصل على مجموعة الخلايا المدمجة.
+الحصول على مجموعة الخلايا المدمجة.
 
 ###  ملاحظات
 
-في هذه المجموعة ، كل عنصر عبارة عن هيكل [CellArea](/cells/python-net/ar/aspose.cells/cellarea) يمثل مساحة من الخلايا المدمجة.
+في هذه المجموعة، كل عنصر عبارة عن بنية [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea) والتي تمثل مساحة من الخلايا المدمجة.
 ###  تعريف:
 ```python
 @property
@@ -22,6 +22,6 @@ def merged_cells(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellArea](/cells/python-net/ar/aspose.cells/cellarea)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

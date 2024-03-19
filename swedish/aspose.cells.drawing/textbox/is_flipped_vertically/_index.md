@@ -3,7 +3,7 @@ title: is_flipped_vertically fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 550
+weight: 570
 url: /sv/aspose.cells.drawing/textbox/is_flipped_vertically/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_flipped_vertically(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextBox](/cells/python-net/sv/aspose.cells.drawing/textbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextBox`](/cells/python-net/sv/aspose.cells.drawing/textbox)

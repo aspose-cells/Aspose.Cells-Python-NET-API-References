@@ -3,13 +3,13 @@ title: original_height_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 930
+weight: 940
 url: /de/aspose.cells.drawing/picture/original_height_cm/
 is_root: false
 ---
 ##  original_height_cm Eigentum
 
-Ruft die Originalhöhe des Bildes in Zentimetern ab.
+Ruft die ursprüngliche Höhe des Bildes in der Einheit Zentimeter ab.
 
 ###  Beispiel
 
@@ -37,5 +37,5 @@ def original_height_cm(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Picture](/cells/python-net/de/aspose.cells.drawing/picture)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Picture`](/cells/python-net/de/aspose.cells.drawing/picture)

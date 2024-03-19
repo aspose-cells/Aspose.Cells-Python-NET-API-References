@@ -7,8 +7,8 @@ weight: 10
 url: /it/aspose.cells/multiplefiltercollection/__init__/
 is_root: false
 ---
-##  MultipleFilterCollection() {#}
-Costruisce una nuova istanza di MultipleFilterCollection
+##  __dentro__ {#}
+Costruisce una nuova istanza.
 
 
 
@@ -22,5 +22,5 @@ def __init__(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [MultipleFilterCollection](/cells/python-net/it/aspose.cells/multiplefiltercollection)
+* modulo [`aspose.cells`](../../)
+* classe [`MultipleFilterCollection`](/cells/python-net/it/aspose.cells/multiplefiltercollection)

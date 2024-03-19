@@ -3,7 +3,7 @@ title: bubble_scale propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 80
+weight: 70
 url: /es/aspose.cells.charts/series/bubble_scale/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
  Obtiene o establece el factor de escala de las burbujas en el grupo de gráficos especificado.
  Puede ser un valor entero de 0 (cero) a 300,
 correspondiente a un porcentaje del tamaño predeterminado.
-Se aplica solo a los gráficos de burbujas.
+Se aplica únicamente a los gráficos de burbujas.
 ###  Definición:
 ```python
 @property
@@ -24,5 +24,5 @@ def bubble_scale(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

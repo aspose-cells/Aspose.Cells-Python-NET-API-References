@@ -3,7 +3,7 @@ title: connection_points Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 320
 url: /de/aspose.cells.drawing/cellsdrawing/connection_points/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def connection_points(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CellsDrawing](/cells/python-net/de/aspose.cells.drawing/cellsdrawing)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CellsDrawing`](/cells/python-net/de/aspose.cells.drawing/cellsdrawing)

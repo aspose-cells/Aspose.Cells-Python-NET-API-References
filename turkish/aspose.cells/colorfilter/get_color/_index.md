@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells/colorfilter/get_color/
 is_root: false
 ---
-##  get_color(sheets) {#WorksheetCollection}
-
+##  get_color {#aspose.cells.WorksheetCollection}
+Bu filtrenin rengini alır.
 
 
 ###  İadeler
@@ -24,10 +24,10 @@ def get_color(self, sheets):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| sheets | [WorksheetCollection](/cells/python-net/tr/aspose.cells/worksheetcollection) |  |
+| sheets | [`WorksheetCollection`](/cells/python-net/tr/aspose.cells/worksheetcollection) |  |
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ColorFilter](/cells/python-net/tr/aspose.cells/colorfilter)
+* modül [`aspose.cells`](../../)
+* sınıf [`ColorFilter`](/cells/python-net/tr/aspose.cells/colorfilter)

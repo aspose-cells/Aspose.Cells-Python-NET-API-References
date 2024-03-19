@@ -3,7 +3,7 @@ title: PivotFieldCollection indicizzatore
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 50
+weight: 60
 url: /it/aspose.cells.pivot/pivotfieldcollection/__getitem__/
 is_root: false
 ---
@@ -18,5 +18,5 @@ Ottiene l'oggetto PivotField in corrispondenza dell'indice specifico.
 
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotFieldCollection](/cells/python-net/it/aspose.cells.pivot/pivotfieldcollection)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotFieldCollection`](/cells/python-net/it/aspose.cells.pivot/pivotfieldcollection)

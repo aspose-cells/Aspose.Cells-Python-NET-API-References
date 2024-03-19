@@ -1,15 +1,15 @@
 ---
-title: rotation_angle 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: rotation_angle属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 140
+weight: 150
 url: /zh/aspose.cells.charts/ticklabels/rotation_angle/
 is_root: false
 ---
-## rotation_angle 属性
+## rotation_angle属性
 
-表示顺时针旋转文本的角度。
+表示文本顺时针旋转角度。
 
 ### 评论
 
@@ -25,5 +25,5 @@ def rotation_angle(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [TickLabels](/cells/python-net/zh/aspose.cells.charts/ticklabels)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`TickLabels`](/cells/python-net/zh/aspose.cells.charts/ticklabels)

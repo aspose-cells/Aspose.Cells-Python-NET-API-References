@@ -1,27 +1,27 @@
 ---
-title: العد ValidationAlertType
+title: ValidationAlertType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2630
+weight: 2720
 url: /ar/aspose.cells/validationalerttype/
 is_root: false
 ---
-##  العد ValidationAlertType
+##  ValidationAlertType التعداد
 يمثل نمط تنبيه التحقق من صحة البيانات.
 
 
 
-يكشف نوع ValidationAlertType الأعضاء التالية:
+يكشف النوع ValidationAlertType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| INFORMATION | نمط تنبيه المعلومات.|
-| STOP | وقف نمط التنبيه.|
-| WARNING | نمط تنبيه التحذير.|
+| INFORMATION | أسلوب تنبيه المعلومات.|
+| STOP | توقف عن أسلوب التنبيه.|
+| WARNING | أسلوب التنبيه التحذيري.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

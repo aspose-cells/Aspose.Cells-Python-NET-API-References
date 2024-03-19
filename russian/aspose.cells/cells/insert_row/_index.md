@@ -1,13 +1,13 @@
 ---
 title: insert_row метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 720
+weight: 710
 url: /ru/aspose.cells/cells/insert_row/
 is_root: false
 ---
-##  insert_row(row_index) {#int}
+##  insert_row {#int}
 Вставляет новую строку в рабочий лист.
 
 
@@ -25,5 +25,5 @@ def insert_row(self, row_index):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

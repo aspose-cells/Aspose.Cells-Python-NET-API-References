@@ -1,35 +1,35 @@
 ---
-title: العد FilterOperatorType
+title: FilterOperatorType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2050
+weight: 2120
 url: /ar/aspose.cells/filteroperatortype/
 is_root: false
 ---
-##  العد FilterOperatorType
-نوع عامل تصفية مخصص.
+##  FilterOperatorType التعداد
+نوع عامل التصفية المخصص.
 
 
 
-يكشف نوع FilterOperatorType الأعضاء التالية:
+يكشف النوع FilterOperatorType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| LESS_OR_EQUAL | يمثل عامل التشغيل LessOrEqual.|
-| LESS_THAN | يمثل عامل أقل من.|
-| EQUAL | يمثل عامل تشغيل متساوي.|
-| GREATER_THAN | يمثل مشغل أكبر من.|
-| NOT_EQUAL | يمثل عامل التشغيل NotEqual.|
+| LESS_OR_EQUAL | يمثل عامل التشغيل LesOrEqual.|
+| LESS_THAN | يمثل عامل التشغيل LessThan.|
+| EQUAL | يمثل المشغل المتساوي.|
+| GREATER_THAN | يمثل مشغل GreaterThan.|
+| NOT_EQUAL | يمثل عامل NotEqual.|
 | GREATER_OR_EQUAL | يمثل عامل التشغيل GreaterOrEqual.|
 | NONE | لا يمثل أي مقارنة.|
 | BEGINS_WITH | يبدأ بالنص.|
-| ENDS_WITH |ينتهي بالنص.|
+| ENDS_WITH | ينتهي بالنص.|
 | CONTAINS | يحتوي على النص.|
 | NOT_CONTAINS | لا يحتوي على النص.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

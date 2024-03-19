@@ -1,15 +1,15 @@
 ---
 title: is_flipped_horizontally недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 560
+weight: 570
 url: /ru/aspose.cells.drawing/spinner/is_flipped_horizontally/
 is_root: false
 ---
 ##  is_flipped_horizontally недвижимость
 
-Получает и задает, отражается ли фигура по горизонтали.
+Получает и устанавливает, отражается ли фигура по горизонтали.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def is_flipped_horizontally(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Spinner](/cells/python-net/ru/aspose.cells.drawing/spinner)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Spinner`](/cells/python-net/ru/aspose.cells.drawing/spinner)

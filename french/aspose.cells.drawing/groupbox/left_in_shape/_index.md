@@ -3,25 +3,25 @@ title: left_in_shape propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 680
+weight: 690
 url: /fr/aspose.cells.drawing/groupbox/left_in_shape/
 is_root: false
 ---
 ##  left_in_shape propriété
 
- Représente le décalage horizontal de la forme par rapport à la bordure gauche de la forme parent,
+ Représente le décalage horizontal de la forme par rapport à la bordure gauche de la forme parent.
 en unité de 1/4000 de largeur de la forme parent.
 
 ###  Remarques
 
-S'applique uniquement lorsque cette forme se trouve dans le groupe ou le graphique.
+S'applique uniquement lorsque cette forme fait partie du groupe ou du graphique.
 
 ###  Exemple
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.left_in_shape == 2000:
+    shape.left_in_shape = 4000
 
 ```
 ###  Définition:
@@ -35,5 +35,5 @@ def left_in_shape(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GroupBox](/cells/python-net/fr/aspose.cells.drawing/groupbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GroupBox`](/cells/python-net/fr/aspose.cells.drawing/groupbox)

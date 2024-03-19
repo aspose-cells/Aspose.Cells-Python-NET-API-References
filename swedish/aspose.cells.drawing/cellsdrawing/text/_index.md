@@ -3,7 +3,7 @@ title: text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 910
+weight: 920
 url: /sv/aspose.cells.drawing/cellsdrawing/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CellsDrawing](/cells/python-net/sv/aspose.cells.drawing/cellsdrawing)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CellsDrawing`](/cells/python-net/sv/aspose.cells.drawing/cellsdrawing)

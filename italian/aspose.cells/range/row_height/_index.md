@@ -3,7 +3,7 @@ title: row_height proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 380
+weight: 400
 url: /it/aspose.cells/range/row_height/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def row_height(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Range](/cells/python-net/it/aspose.cells/range)
+* modulo [`aspose.cells`](../../)
+* classe [`Range`](/cells/python-net/it/aspose.cells/range)

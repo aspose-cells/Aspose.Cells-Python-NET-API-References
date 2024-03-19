@@ -3,15 +3,15 @@ title: one_page_per_sheet Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 200
 url: /de/aspose.cells/pptxsaveoptions/one_page_per_sheet/
 is_root: false
 ---
 ##  one_page_per_sheet Eigentum
 
- Wenn OnePagePerSheet true ist, wird der gesamte Inhalt eines Blatts als Ergebnis nur auf einer Seite ausgegeben.
- Die Papiergröße von pagesetup und die anderen Einstellungen von pagesetup werden ungültig
-wird noch wirksam.
+ Wenn OnePagePerSheet true ist, wird der gesamte Inhalt eines Blattes im Ergebnis nur auf einer Seite ausgegeben.
+ Das Papierformat von „pagesetup“ und die anderen Einstellungen von „pagesetup“ sind ungültig
+wird weiterhin wirksam.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def one_page_per_sheet(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PptxSaveOptions](/cells/python-net/de/aspose.cells/pptxsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PptxSaveOptions`](/cells/python-net/de/aspose.cells/pptxsaveoptions)

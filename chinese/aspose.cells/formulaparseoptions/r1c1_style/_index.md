@@ -1,15 +1,15 @@
 ---
-title: r1c1_style 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: r1c1_style属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 70
 url: /zh/aspose.cells/formulaparseoptions/r1c1_style/
 is_root: false
 ---
-## r1c1_style 属性
+## r1c1_style属性
 
-公式是否为R1C1参考风格。默认为假。
+公式是否为R1C1参考风格。默认为 false。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def r1c1_style(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FormulaParseOptions](/cells/python-net/zh/aspose.cells/formulaparseoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`FormulaParseOptions`](/cells/python-net/zh/aspose.cells/formulaparseoptions)

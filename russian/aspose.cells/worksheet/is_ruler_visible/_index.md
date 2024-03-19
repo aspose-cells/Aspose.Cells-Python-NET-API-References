@@ -1,9 +1,9 @@
 ---
 title: is_ruler_visible недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 590
+weight: 610
 url: /ru/aspose.cells/worksheet/is_ruler_visible/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_ruler_visible(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

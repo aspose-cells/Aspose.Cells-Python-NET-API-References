@@ -3,17 +3,17 @@ title: colors mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 460
+weight: 470
 url: /tr/aspose.cells/workbook/colors/
 is_root: false
 ---
 ##  colors mülk
 
-Elektronik tablo için palette colors döndürür.
+Elektronik tablonun paletindeki colors değerini döndürür.
 
 ###  Notlar
 
-Palette, her biri bir RGB değeriyle temsil edilen 56 giriş vardır.
+Palette her biri bir RGB değeriyle temsil edilen 56 giriş vardır.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def colors(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Workbook](/cells/python-net/tr/aspose.cells/workbook)
+* modül [`aspose.cells`](../../)
+* sınıf [`Workbook`](/cells/python-net/tr/aspose.cells/workbook)

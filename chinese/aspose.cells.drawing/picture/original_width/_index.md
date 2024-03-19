@@ -1,13 +1,13 @@
 ---
-title: original_width 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: original_width属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 950
+weight: 960
 url: /zh/aspose.cells.drawing/picture/original_width/
 is_root: false
 ---
-## original_width 属性
+## original_width属性
 
 获取图片的原始宽度。
 
@@ -37,5 +37,5 @@ def original_width(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Picture](/cells/python-net/zh/aspose.cells.drawing/picture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)

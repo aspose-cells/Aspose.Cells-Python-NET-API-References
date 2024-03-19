@@ -3,7 +3,7 @@ title: DataBarAxisPosition uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1900
+weight: 1970
 url: /sv/aspose.cells/databaraxisposition/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen DataBarAxisPosition avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

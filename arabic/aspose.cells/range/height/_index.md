@@ -1,13 +1,13 @@
 ---
-title: height الملكية
+title: height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ar/aspose.cells/range/height/
 is_root: false
 ---
-##  height الملكية
+##  height عقار
 
 الحصول على عرض النطاق بالنقاط.
 ###  تعريف:
@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

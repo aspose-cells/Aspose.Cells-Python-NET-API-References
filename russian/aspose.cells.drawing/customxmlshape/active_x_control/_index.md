@@ -1,9 +1,9 @@
 ---
 title: active_x_control недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 240
+weight: 260
 url: /ru/aspose.cells.drawing/customxmlshape/active_x_control/
 is_root: false
 ---
@@ -17,9 +17,10 @@ is_root: false
 from aspose import pycore
 from aspose.cells.drawing.activexcontrols import CheckBoxActiveXControl
 
-checkBox1 = pycore.cast(CheckBoxActiveXControl, shape.active_x_control)
-# The font name of CheckBox
-fontName = checkBox1.font.name
+if shape.active_x_control != None:
+    checkBox1 = pycore.cast(CheckBoxActiveXControl, shape.active_x_control)
+    # The font name of CheckBox
+    fontName = checkBox1.font.name
 
 ```
 ###  Определение:
@@ -30,6 +31,6 @@ def active_x_control(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrol)
-* класс [CustomXmlShape](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrol)
+* класс [`CustomXmlShape`](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)

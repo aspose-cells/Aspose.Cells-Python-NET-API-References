@@ -3,7 +3,7 @@ title: ExternalLink clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 560
+weight: 590
 url: /es/aspose.cells/externallink/
 is_root: false
 ---
@@ -17,7 +17,7 @@ El tipo ExternalLink expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [type](/cells/python-net/es/aspose.cells/externallink/type) | Obtiene el tipo de enlace externo.|
+| [type](/cells/python-net/es/aspose.cells/externallink/type) | Obtiene el tipo de vínculo externo.|
 | [original_data_source](/cells/python-net/es/aspose.cells/externallink/original_data_source) | Representa la fuente de datos almacenada del enlace externo.|
 | [data_source](/cells/python-net/es/aspose.cells/externallink/data_source) | Representa la fuente de datos del enlace externo.|
 | [is_referred](/cells/python-net/es/aspose.cells/externallink/is_referred) | Indica si otros hacen referencia a este enlace externo.|
@@ -27,7 +27,7 @@ El tipo ExternalLink expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [add_external_name(text, refer_to)](/cells/python-net/es/aspose.cells/externallink/add_external_name/#str-str) | Agrega un nombre externo.|
+| [add_external_name](/cells/python-net/es/aspose.cells/externallink/add_external_name/#str-str) | Agrega un nombre externo.|
 
 
 
@@ -46,4 +46,4 @@ externalLink.data_source = "d:\\link.xls"
 ```
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

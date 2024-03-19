@@ -3,18 +3,18 @@ title: built_in_document_properties mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 450
 url: /tr/aspose.cells/workbook/built_in_document_properties/
 is_root: false
 ---
 ##  built_in_document_properties mülk
 
-Elektronik tablonun tüm yerleşik belge özelliklerini temsil eden bir [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty) koleksiyonunu döndürür.
+Elektronik tablonun tüm yerleşik belge özelliklerini temsil eden [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty) koleksiyonunu döndürür.
 
 ###  Notlar
 
 Yerleşik belge özellikleri listesine yeni bir özellik eklenemez. Yalnızca yerleşik bir özellik alabilir ve değerini değiştirebilirsiniz.
-Yerleşik özellikler adı listesi aşağıdadır:
+Yerleşik özelliklerin ad listesi aşağıdadır:
 
 Başlık
 
@@ -25,7 +25,7 @@ Ders
 Yazar
 
 
-anahtar kelimeler
+Anahtar Kelimeler
 
 
 Yorumlar
@@ -43,13 +43,13 @@ Revizyon numarası
 Uygulama Adı
 
 
-Son Baskı Tarihi
+Son Basım Tarihi
 
 
 Oluşturulma tarihi
 
 
-Son Kaydetme Zamanı
+Son Tasarruf Süresi
 
 
 Toplam Düzenleme Süresi
@@ -91,7 +91,7 @@ Paragraf Sayısı
 Slayt Sayısı
 
 
-Nota Sayısı
+Not Sayısı
 
 
 Gizli Slayt Sayısı
@@ -106,7 +106,7 @@ def built_in_document_properties(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [BuiltInDocumentPropertyCollection](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)
-* sınıf [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty)
-* sınıf [Workbook](/cells/python-net/tr/aspose.cells/workbook)
+* modül [`aspose.cells`](../../)
+* sınıf [`BuiltInDocumentPropertyCollection`](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)
+* sınıf [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty)
+* sınıf [`Workbook`](/cells/python-net/tr/aspose.cells/workbook)

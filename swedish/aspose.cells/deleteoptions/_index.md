@@ -3,7 +3,7 @@ title: DeleteOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 470
+weight: 490
 url: /sv/aspose.cells/deleteoptions/
 is_root: false
 ---
@@ -17,15 +17,15 @@ Typen DeleteOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [DeleteOptions()](/cells/python-net/sv/aspose.cells/deleteoptions/__init__/#) | Konstruerar en ny instans av DeleteOptions|
+| [__init__](/cells/python-net/sv/aspose.cells/deleteoptions/__init__/#) | Konstruerar en ny instans av DeleteOptions|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [update_reference](/cells/python-net/sv/aspose.cells/deleteoptions/update_reference) | Indikerar om uppdateringsreferenser i andra kalkylblad.|
+| [update_reference](/cells/python-net/sv/aspose.cells/deleteoptions/update_reference) |Indikerar om uppdateringsreferenser i andra kalkylblad.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

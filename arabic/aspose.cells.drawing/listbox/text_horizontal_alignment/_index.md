@@ -1,15 +1,15 @@
 ---
-title: text_horizontal_alignment الملكية
+title: text_horizontal_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /ar/aspose.cells.drawing/listbox/text_horizontal_alignment/
 is_root: false
 ---
-##  text_horizontal_alignment الملكية
+##  text_horizontal_alignment عقار
 
-الحصول على نوع المحاذاة الأفقية للنص وتعيينه.
+الحصول على نوع المحاذاة الأفقية للشكل وتعيينها.
 
 ###  مثال
 
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
-* فئة [TextAlignmentType](/cells/python-net/ar/aspose.cells/textalignmenttype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* فئة [`TextAlignmentType`](/cells/python-net/ar/aspose.cells/textalignmenttype)

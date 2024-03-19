@@ -3,7 +3,7 @@ title: doughnut_hole_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 120
 url: /sv/aspose.cells.charts/series/doughnut_hole_size/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def doughnut_hole_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

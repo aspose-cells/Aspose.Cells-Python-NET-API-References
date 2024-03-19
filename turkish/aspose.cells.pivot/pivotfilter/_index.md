@@ -3,26 +3,26 @@ title: PivotFilter sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 30
+weight: 100
 url: /tr/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
 ##  PivotFilter sınıfı
-PivotFilter Koleksiyonunda bir PivotFilter'i temsil eder.
+PivotFilter Koleksiyonundaki PivotFilter'i temsil eder.
 
 
 
-PivotFilter türü aşağıdaki üyeleri gösterir:
+PivotFilter türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [auto_filter](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/auto_filter) | Pivot filtresinin otomatik filtresini alır.|
 | [filter_type](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/filter_type) | Pivot filtresinin otomatik filtre türünü alır.|
-| [field_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/field_index) |Pivot filtresinin alan dizinini alır.|
-| [value1](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/value1) | Etiket pivot filtresinin string value1 değerini alır.|
-| [value2](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/value2) | Etiket pivot filtresinin dize değeri2'yi alır.|
-| [measure_fld_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/measure_fld_index) | Pivot filtresinin ölçü alanı dizinini alır.|
+| [field_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/field_index) | Pivot filtresinin alan dizinini alır.|
+| [value1](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/value1) | Etiket pivot filtresinin dize değeri1'i alır.|
+| [value2](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/value2) |Etiket pivot filtresinin dize değerini2 alır.|
+| [measure_fld_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/measure_fld_index) | Pivot filtresinin ölçüm alanı dizinini alır.|
 | [member_property_field_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/member_property_field_index) | Pivot filtresinin üye özelliği alan dizinini alır.|
 | [name](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/name) | Pivot filtresinin adını alır.|
 | [evaluation_order](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/evaluation_order) | Pivot filtresinin Değerlendirme Sırasını alır.|
@@ -84,4 +84,4 @@ book.save("out.xlsx")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](..)
+* modül [`aspose.cells.pivot`](..)

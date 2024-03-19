@@ -3,7 +3,7 @@ title: ThemeColorType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2580
+weight: 2670
 url: /tr/aspose.cells/themecolortype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Tema renk türlerini numaralandırır.
 
 
 
-ThemeColorType türü aşağıdaki üyeleri gösterir:
+ThemeColorType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | BACKGROUND1 |  |
@@ -29,9 +29,9 @@ ThemeColorType türü aşağıdaki üyeleri gösterir:
 | ACCENT6 |  |
 | HYPERLINK |  |
 | FOLLOWED_HYPERLINK |  |
-| STYLE_COLOR | İç kullanılır.<br/> Stilin rengini kullanmak anlamına gelen tema tanımlarında kullanılan bir renk.|
+| STYLE_COLOR | İç kullanıldı.<br/> Tema tanımlarında kullanılan, yani stilin renginin kullanılması anlamına gelen bir renk.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

@@ -1,13 +1,13 @@
 ---
-title: insert_range méthode
+title: méthode insert_range
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 710
+weight: 700
 url: /fr/aspose.cells/cells/insert_range/
 is_root: false
 ---
-##  insert_range(area, shift_type) {#CellArea-ShiftType}
+##  insert_range {#aspose.cells.CellArea-aspose.cells.ShiftType}
 Insère une plage de cellules et décale les cellules en fonction de l'option de décalage.
 
 
@@ -20,11 +20,11 @@ def insert_range(self, area, shift_type):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| area | [CellArea](/cells/python-net/fr/aspose.cells/cellarea) | Zone de décalage.|
-| shift_type | [ShiftType](/cells/python-net/fr/aspose.cells/shifttype) | Option de décalage des cellules.|
+| area | [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea) | Zone de changement.|
+| shift_type | [`ShiftType`](/cells/python-net/fr/aspose.cells/shifttype) | Option Décalage des cellules.|
 
 
-##  insert_range(area, shift_number, shift_type) {#CellArea-int-ShiftType}
+##  insert_range {#aspose.cells.CellArea-int-aspose.cells.ShiftType}
 Insère une plage de cellules et décale les cellules en fonction de l'option de décalage.
 
 
@@ -37,12 +37,12 @@ def insert_range(self, area, shift_number, shift_type):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| area | [CellArea](/cells/python-net/fr/aspose.cells/cellarea) | Zone de décalage.|
+| area | [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea) | Zone de changement.|
 | shift_number | int | Nombre de lignes ou de colonnes à insérer.|
-| shift_type | [ShiftType](/cells/python-net/fr/aspose.cells/shifttype) | Option de décalage des cellules.|
+| shift_type | [`ShiftType`](/cells/python-net/fr/aspose.cells/shifttype) | Option Décalage des cellules.|
 
 
-##  insert_range(area, shift_number, shift_type, update_reference) {#CellArea-int-ShiftType-bool}
+##  insert_range {#aspose.cells.CellArea-int-aspose.cells.ShiftType-bool}
 Insère une plage de cellules et décale les cellules en fonction de l'option de décalage.
 
 
@@ -55,13 +55,13 @@ def insert_range(self, area, shift_number, shift_type, update_reference):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| area | [CellArea](/cells/python-net/fr/aspose.cells/cellarea) | Zone de décalage.|
+| area | [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea) | Zone de changement.|
 | shift_number | int | Nombre de lignes ou de colonnes à insérer.|
-| shift_type | [ShiftType](/cells/python-net/fr/aspose.cells/shifttype) | Option de décalage des cellules.|
-| update_reference | bool | Indique si la mise à jour des références dans d'autres feuilles de calcul.|
+| shift_type | [`ShiftType`](/cells/python-net/fr/aspose.cells/shifttype) | Option Décalage des cellules.|
+| update_reference | bool | Indique si les références à jour dans d’autres feuilles de calcul sont mises à jour.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cells](/cells/python-net/fr/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/fr/aspose.cells/cells)

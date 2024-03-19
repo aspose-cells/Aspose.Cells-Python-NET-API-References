@@ -3,7 +3,7 @@ title: column_separator_of_formula_array fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 310
 url: /sv/aspose.cells/globalizationsettings/column_separator_of_formula_array/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def column_separator_of_formula_array(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GlobalizationSettings](/cells/python-net/sv/aspose.cells/globalizationsettings)
+* modul [`aspose.cells`](../../)
+* klass [`GlobalizationSettings`](/cells/python-net/sv/aspose.cells/globalizationsettings)

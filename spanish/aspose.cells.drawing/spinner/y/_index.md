@@ -3,7 +3,7 @@ title: y propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1290
+weight: 1300
 url: /es/aspose.cells.drawing/spinner/y/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Spinner](/cells/python-net/es/aspose.cells.drawing/spinner)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Spinner`](/cells/python-net/es/aspose.cells.drawing/spinner)

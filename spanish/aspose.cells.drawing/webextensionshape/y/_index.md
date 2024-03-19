@@ -3,7 +3,7 @@ title: y propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /es/aspose.cells.drawing/webextensionshape/y/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [WebExtensionShape](/cells/python-net/es/aspose.cells.drawing/webextensionshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`WebExtensionShape`](/cells/python-net/es/aspose.cells.drawing/webextensionshape)

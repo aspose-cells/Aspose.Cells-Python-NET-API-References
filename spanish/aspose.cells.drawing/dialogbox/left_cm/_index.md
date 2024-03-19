@@ -3,7 +3,7 @@ title: left_cm propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 670
+weight: 680
 url: /es/aspose.cells.drawing/dialogbox/left_cm/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representa el desplazamiento horizontal de la forma desde su columna izquierda, 
 ```python
 
 if shape.left_cm == 3:
-    shape.left_cm = 1
+    shape.left_cm = 1.0
 
 ```
 ###  Definición:
@@ -30,5 +30,5 @@ def left_cm(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [DialogBox](/cells/python-net/es/aspose.cells.drawing/dialogbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`DialogBox`](/cells/python-net/es/aspose.cells.drawing/dialogbox)

@@ -1,15 +1,19 @@
 ---
-title: compliance 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: compliance属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 110
 url: /zh/aspose.cells/pdfsaveoptions/compliance/
 is_root: false
 ---
-## compliance 属性
+## compliance属性
 
-工作簿将根据此属性中的 PdfCompliance 转换为 pdf。
+获取或设置输出文档的 PDF 标准 compliance 级别。
+
+### 评论
+
+默认为 Pdf17。
 ### 定义：
 ```python
 @property
@@ -21,6 +25,6 @@ def compliance(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PdfCompliance](/cells/python-net/zh/aspose.cells.rendering/pdfcompliance)
-* 类 [PdfSaveOptions](/cells/python-net/zh/aspose.cells/pdfsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`PdfCompliance`](/cells/python-net/zh/aspose.cells.rendering/pdfcompliance)
+* 类 [`PdfSaveOptions`](/cells/python-net/zh/aspose.cells/pdfsaveoptions)

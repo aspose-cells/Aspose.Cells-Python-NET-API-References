@@ -1,15 +1,15 @@
 ---
 title: mso_drawing_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 790
+weight: 810
 url: /ru/aspose.cells.drawing/textbox/mso_drawing_type/
 is_root: false
 ---
 ##  mso_drawing_type недвижимость
 
-Получает тип рисования mso.
+Получает тип чертежа MSO.
 
 ###  Пример
 
@@ -26,6 +26,6 @@ def mso_drawing_type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoDrawingType](/cells/python-net/ru/aspose.cells.drawing/msodrawingtype)
-* класс [TextBox](/cells/python-net/ru/aspose.cells.drawing/textbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoDrawingType`](/cells/python-net/ru/aspose.cells.drawing/msodrawingtype)
+* класс [`TextBox`](/cells/python-net/ru/aspose.cells.drawing/textbox)

@@ -3,7 +3,7 @@ title: lower_delta_y propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 750
+weight: 760
 url: /es/aspose.cells.drawing/oval/lower_delta_y/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtiene o establece el desplazamiento vertical de la forma desde la fila de la e
 
 ###  Observaciones
 
-El rango de valor es de 0 a 256.
+El rango de valores es de 0 a 256.
 
 ###  Ejemplo
 
@@ -34,5 +34,5 @@ def lower_delta_y(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Oval](/cells/python-net/es/aspose.cells.drawing/oval)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Oval`](/cells/python-net/es/aspose.cells.drawing/oval)

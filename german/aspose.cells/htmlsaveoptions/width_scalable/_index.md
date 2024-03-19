@@ -3,14 +3,14 @@ title: width_scalable Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 650
+weight: 720
 url: /de/aspose.cells/htmlsaveoptions/width_scalable/
 is_root: false
 ---
 ##  width_scalable Eigentum
 
-Gibt an, ob eine skalierbare Einheit verwendet wird, um die Spaltenbreite beim Exportieren der Datei in HTML zu beschreiben.
-Der Standardwert ist falsch.
+Gibt an, ob die Spaltenbreite in Skalierungseinheiten nach HTML exportiert wird.
+Der Standardwert ist false.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def width_scalable(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlSaveOptions](/cells/python-net/de/aspose.cells/htmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlSaveOptions`](/cells/python-net/de/aspose.cells/htmlsaveoptions)

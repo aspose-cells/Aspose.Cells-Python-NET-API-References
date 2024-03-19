@@ -1,15 +1,15 @@
 ---
 title: upper_left_column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /ru/aspose.cells.drawing/groupshape/upper_left_column/
 is_root: false
 ---
 ##  upper_left_column недвижимость
 
-Представляет индекс столбца в левом верхнем углу.
+Представляет индекс столбца в верхнем левом углу.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GroupShape](/cells/python-net/ru/aspose.cells.drawing/groupshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GroupShape`](/cells/python-net/ru/aspose.cells.drawing/groupshape)

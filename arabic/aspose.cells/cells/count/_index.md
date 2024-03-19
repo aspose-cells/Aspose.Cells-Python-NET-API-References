@@ -1,15 +1,15 @@
 ---
-title: count الملكية
+title: count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1030
+weight: 1020
 url: /ar/aspose.cells/cells/count/
 is_root: false
 ---
-##  count الملكية
+##  count عقار
 
-الحصول على إجمالي count من Cell عنصر تم تكوينه.
+يحصل على إجمالي count من الكائنات التي تم إنشاء مثيل لها Cell.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

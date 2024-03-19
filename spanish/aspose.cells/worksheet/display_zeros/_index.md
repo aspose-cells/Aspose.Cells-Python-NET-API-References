@@ -3,13 +3,13 @@ title: display_zeros propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 460
+weight: 480
 url: /es/aspose.cells/worksheet/display_zeros/
 is_root: false
 ---
 ##  display_zeros propiedad
 
-True si se muestran valores cero.
+Verdadero si se muestran valores cero.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_zeros(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

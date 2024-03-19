@@ -1,16 +1,16 @@
 ---
-title: selected_cells الملكية
+title: selected_cells عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 910
+weight: 920
 url: /ar/aspose.cells.drawing/listbox/selected_cells/
 is_root: false
 ---
-##  selected_cells الملكية
+##  selected_cells عقار
 
-يحصل على الخلايا المحددة.
-إرجاع القيمة فارغة إذا لم يتم تعيين نطاق الإدخال أو لم يتم تحديد أي عنصر
+الحصول على الخلايا المحددة.
+يُرجع فارغًا إذا لم يتم تعيين نطاق الإدخال أو لم يتم تحديد أي عنصر
 ###  تعريف:
 ```python
 @property
@@ -19,5 +19,5 @@ def selected_cells(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)

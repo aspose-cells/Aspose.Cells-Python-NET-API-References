@@ -3,12 +3,12 @@ title: طريقة set_characters
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ar/aspose.cells/cell/set_characters/
 is_root: false
 ---
-##  set_characters(characters) {#list}
-يعيّن تنسيق النص المنسق للخلية.
+##  set_characters {#list}
+يضبط تنسيق النص المنسق للخلية.
 
 
 
@@ -20,10 +20,10 @@ def set_characters(self, characters):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| characters | list | كل كائنات الشخصيات.|
+| characters | list | جميع كائنات الشخصيات.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

@@ -1,5 +1,5 @@
 ---
-title: get_cell_by_index método
+title: método get_cell_by_index
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 50
 url: /es/aspose.cells/row/get_cell_by_index/
 is_root: false
 ---
-##  get_cell_by_index(index) {#int}
-Obtenga la celda por índice específico en la lista.
+##  get_cell_by_index {#int}
+Obtenga la celda por índice específico en la colección de celdas de esta fila.
 
 
 ###  Devoluciones
 
-El objeto Cell.
+El objeto Cell en una posición determinada.
 
 
 ```python
@@ -24,15 +24,13 @@ def get_cell_by_index(self, index):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| index | int | La posición.|
+| index | int | El índice (posición) de la celda en la colección de celdas de esta fila.|
 ###  Observaciones
 
-NOTA: Este miembro ahora está obsoleto.
-En su lugar, utilice el método Row.GetEnumerator() para iterar todas las celdas de esta fila.
- Esta propiedad se eliminará 12 meses después desde febrero de 2015.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Para recorrer todas las celdas en secuencia sin modificaciones,
+usar [`Row.get_enumerator`](/cells/python-net/es/aspose.cells/row/get_enumerator) dará un mejor rendimiento que usar este método para obtener celdas una por una.
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Row](/cells/python-net/es/aspose.cells/row)
+* módulo [`aspose.cells`](../../)
+* clase [`Row`](/cells/python-net/es/aspose.cells/row)

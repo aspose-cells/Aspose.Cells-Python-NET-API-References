@@ -3,7 +3,7 @@ title: TextDirectionType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2550
+weight: 2640
 url: /tr/aspose.cells/textdirectiontype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Bu paragraf için metin akışının yönünü temsil eder.
 
 
 
-TextDirectionType türü aşağıdaki üyeleri gösterir:
+TextDirectionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | CONTEXT |  |
@@ -24,4 +24,4 @@ TextDirectionType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

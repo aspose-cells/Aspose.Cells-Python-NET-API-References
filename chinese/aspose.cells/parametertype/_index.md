@@ -1,9 +1,9 @@
 ---
 title: ParameterType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2340
+weight: 2430
 url: /zh/aspose.cells/parametertype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-ParameterType 类型公开了以下成员：
+ParameterType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -24,4 +24,4 @@ ParameterType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

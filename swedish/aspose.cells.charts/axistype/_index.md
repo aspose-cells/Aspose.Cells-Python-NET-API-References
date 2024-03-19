@@ -3,7 +3,7 @@ title: AxisType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 370
 url: /sv/aspose.cells.charts/axistype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen AxisType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

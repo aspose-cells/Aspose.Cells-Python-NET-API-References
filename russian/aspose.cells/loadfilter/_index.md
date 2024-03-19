@@ -1,37 +1,37 @@
 ---
 title: LoadFilter класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1010
+weight: 1050
 url: /ru/aspose.cells/loadfilter/
 is_root: false
 ---
 ##  LoadFilter класс
-Представляет фильтр, предоставляющий параметры для загрузки данных при загрузке книги из шаблона.
+Представляет фильтр, предоставляющий параметры загрузки данных при загрузке книги из шаблона.
 
 
 
-Тип LoadFilter предоставляет следующие члены:
+Тип LoadFilter предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [LoadFilter()](/cells/python-net/ru/aspose.cells/loadfilter/__init__/#) | Создает один LoadFilter с параметрами фильтра по умолчанию LoadDataFilterOptions.All.|
-| [LoadFilter(opts)](/cells/python-net/ru/aspose.cells/loadfilter/__init__/#LoadDataFilterOptions) | Создает один LoadFilter с заданными параметрами фильтра.|
+| [__init__](/cells/python-net/ru/aspose.cells/loadfilter/__init__/#) | Создает один LoadFilter с параметрами фильтра по умолчанию LoadDataFilterOptions.All.|
+| [__init__](/cells/python-net/ru/aspose.cells/loadfilter/__init__/#aspose.cells.LoadDataFilterOptions) | Создает один LoadFilter с заданными параметрами фильтра.|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [load_data_filter_options](/cells/python-net/ru/aspose.cells/loadfilter/load_data_filter_options) | Параметры фильтра для обозначения того, какие данные должны быть загружены.|
-| [sheets_in_loading_order](/cells/python-net/ru/aspose.cells/loadfilter/sheets_in_loading_order) | Указывает листы (индексы) и порядок загрузки.<br/>Значение по умолчанию — null, что означает загрузку всех листов в порядке по умолчанию в файле шаблона.<br/> Если не ноль и в возвращаемом массиве нет индекса листа, лист не будет загружен.|
+| [load_data_filter_options](/cells/python-net/ru/aspose.cells/loadfilter/load_data_filter_options) | Параметры фильтра, указывающие, какие данные следует загрузить.|
+| [sheets_in_loading_order](/cells/python-net/ru/aspose.cells/loadfilter/sheets_in_loading_order) | Указывает листы (индексы) и порядок загрузки.<br/>По умолчанию установлено значение null, что означает загрузку всех листов в порядке по умолчанию в файле шаблона.<br/> Если значение не равно нулю и индекс какого-либо листа отсутствует в возвращаемом массиве, лист не будет загружен.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [start_sheet(sheet)](/cells/python-net/ru/aspose.cells/loadfilter/start_sheet/#Worksheet) | Подготавливает параметры фильтра перед загрузкой данного рабочего листа.<br/>Пользовательская реализация LoadFilter может изменить LoadDataFilterOptions здесь<br/> для обозначения того, как загружать данные для этого рабочего листа.|
+| [start_sheet](/cells/python-net/ru/aspose.cells/loadfilter/start_sheet/#aspose.cells.Worksheet) | Подготавливает параметры фильтра перед загрузкой данного листа.<br/>Пользовательская реализация LoadFilter может изменить LoadDataFilterOptions здесь.<br/> чтобы указать, как загрузить данные для этого листа.|
 
 
 
@@ -40,4 +40,4 @@ is_root: false
 Пользователь может указать параметры фильтра или реализовать свой собственный LoadFilter, чтобы указать, как загружать данные.
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

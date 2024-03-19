@@ -1,21 +1,21 @@
 ---
 title: on_circular метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 40
 url: /ru/aspose.cells/abstractcalculationmonitor/on_circular/
 is_root: false
 ---
-##  on_circular(circular_cells_data) {#collections.abc.Iterator}
-Реализуйте этот метод для ведения бизнеса при расчете формул с циклическими ссылками.
+##  on_circular {#collections.abc.Iterator}
+Внедрите этот метод для ведения бизнеса при вычислении формул с циклическими ссылками.
 
 
-###  Возвращает
+###  Возврат
 
-Нужно ли обработчику формул вычислять эти ячейки по кругу после этого вызова.
-Значение true, чтобы обработчик формул продолжал выполнять для них вычисления.
-False, чтобы обработчик формул просто помечал эти ячейки как рассчитанные.
+Необходимо ли обработчику формул вычислять эти ячейки по кругу после этого вызова.
+Верно, чтобы позволить обработчику формул продолжать выполнять вычисления за них.
+Значение False позволяет обработчику формул просто помечать эти ячейки как вычисляемые.
 
 
 ```python
@@ -26,13 +26,14 @@ def on_circular(self, circular_cells_data):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| circular_cells_data | collections.abc.Iterator | IEnumerator с элементами CalculationCell, представляющими ячейки, которые<br/> зависят от циклических ссылок.|
+| circular_cells_data | collections.abc.Iterator | IEnumerator с элементами [`CalculationCell`](/cells/python-net/ru/aspose.cells/calculationcell), представляющими ячейки, которые<br/> зависят от циклических ссылок.|
 ###  Примечания
 
-В реализации пользователь также может установить ожидаемое значение как вычисленный результат.
+В реализации пользователь также может установить ожидаемое значение как рассчитанный результат.
 для части/всех этих ячеек, чтобы механизм формул не вычислял их рекурсивно.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AbstractCalculationMonitor](/cells/python-net/ru/aspose.cells/abstractcalculationmonitor)
+* модуль [`aspose.cells`](../../)
+* класс [`AbstractCalculationMonitor`](/cells/python-net/ru/aspose.cells/abstractcalculationmonitor)
+* класс [`CalculationCell`](/cells/python-net/ru/aspose.cells/calculationcell)

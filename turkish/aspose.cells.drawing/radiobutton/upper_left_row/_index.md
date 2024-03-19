@@ -3,7 +3,7 @@ title: upper_left_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1170
+weight: 1190
 url: /tr/aspose.cells.drawing/radiobutton/upper_left_row/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Sol üst köşe satır dizinini temsil eder.
 
 ###  Notlar
 
-Şekil, şekilde veya gruptaysa, UpperLeftRow yoksayılır.
+Şekil, şeklin içinde veya gruptaysa UpperLeftRow yoksayılır.
 
 ###  Örnek
 
@@ -34,5 +34,5 @@ def upper_left_row(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RadioButton](/cells/python-net/tr/aspose.cells.drawing/radiobutton)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RadioButton`](/cells/python-net/tr/aspose.cells.drawing/radiobutton)

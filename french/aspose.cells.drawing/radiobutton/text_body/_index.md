@@ -3,7 +3,7 @@ title: text_body propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 950
+weight: 970
 url: /fr/aspose.cells.drawing/radiobutton/text_body/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [FontSettingCollection](/cells/python-net/fr/aspose.cells.drawing.texts/fontsettingcollection)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* classe [`FontSettingCollection`](/cells/python-net/fr/aspose.cells.drawing.texts/fontsettingcollection)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)

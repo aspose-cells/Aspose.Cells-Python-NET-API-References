@@ -3,7 +3,7 @@ title: ShiftType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2470
+weight: 2560
 url: /sv/aspose.cells/shifttype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ Typen ShiftType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

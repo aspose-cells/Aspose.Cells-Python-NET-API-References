@@ -1,31 +1,31 @@
 ---
-title: العد FilterType
+title: FilterType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2060
+weight: 2130
 url: /ar/aspose.cells/filtertype/
 is_root: false
 ---
-##  العد FilterType
-نوع المرشح.
+##  FilterType التعداد
+نوع الفلتر.
 
 
 
-يكشف نوع FilterType الأعضاء التالية:
+يكشف النوع FilterType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| COLOR_FILTER | تصفية حسب لون تعبئة الخلية.|
-| CUSTOM_FILTERS | نوع مرشح مخصص.|
-| DYNAMIC_FILTER | نوع المرشح الديناميكي.|
-| MULTIPLE_FILTERS | عند اختيار قيم متعددة للتصفية بحسب ، أو عند اختيار مجموعة قيم تاريخ للتصفية وفقًا لها ،<br/> هذا العنصر يجمع تلك المعايير معًا.|
-| ICON_FILTER | التصفية حسب رمز التنسيق الشرطي.|
-| TOP10 | أعلى 10 مرشح.|
+| COLOR_FILTER | التصفية حسب لون تعبئة الخلية.|
+| CUSTOM_FILTERS | نوع الفلتر المخصص.|
+| DYNAMIC_FILTER | نوع الفلتر الديناميكي|
+| MULTIPLE_FILTERS | عند اختيار قيم متعددة للتصفية حسبها، أو عند اختيار مجموعة من قيم التاريخ للتصفية حسبها،<br/> يجمع هذا العنصر تلك المعايير معًا.|
+| ICON_FILTER | التصفية حسب أيقونة التنسيق الشرطي.|
+| TOP10 | أفضل 10 مرشحات.|
 | NONE | لا يوجد مرشح.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
 title: pixel_format недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ru/aspose.cells.rendering/imageorprintoptions/pixel_format/
 is_root: false
 ---
 ##  pixel_format недвижимость
 
-Получает или задает формат пикселей для сгенерированных изображений.
+Получает или задает формат пикселей для создаваемых изображений.
 
 ###  Примечания
 
@@ -25,5 +25,5 @@ def pixel_format(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)

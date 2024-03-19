@@ -1,15 +1,15 @@
 ---
 title: is_filled недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 530
+weight: 540
 url: /ru/aspose.cells.drawing/rectangleshape/is_filled/
 is_root: false
 ---
 ##  is_filled недвижимость
 
-Указывает, виден ли формат заполнения.
+Указывает, виден ли формат заливки.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def is_filled(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [RectangleShape](/cells/python-net/ru/aspose.cells.drawing/rectangleshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`RectangleShape`](/cells/python-net/ru/aspose.cells.drawing/rectangleshape)

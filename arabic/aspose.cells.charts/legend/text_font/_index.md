@@ -1,22 +1,22 @@
 ---
-title: text_font الملكية
+title: text_font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 370
 url: /ar/aspose.cells.charts/legend/text_font/
 is_root: false
 ---
-##  text_font الملكية
+##  text_font عقار
 
-الحصول على عنصر [ChartFrame.font](/cells/python-net/ar/aspose.cells.charts/chartframe#font) لعنصر ChartFrame المحدد.
+يحصل على كائن [`ChartFrame.font`](/cells/python-net/ar/aspose.cells.charts/chartframe#font) من كائن ChartFrame المحدد.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
- الرجاء استخدام خاصية ChartFrame.Font.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ كانون الثاني (يناير) 2012.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ملاحظة: هذا العضو قديم الآن. بدلاً من،
+الرجاء استخدام خاصية ChartFrame.Font.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ يناير 2012.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -25,6 +25,6 @@ def text_font(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)

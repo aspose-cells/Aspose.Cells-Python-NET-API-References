@@ -3,18 +3,18 @@ title: HeaderFooterCommandType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2130
+weight: 2200
 url: /tr/aspose.cells/headerfootercommandtype/
 is_root: false
 ---
 ##  HeaderFooterCommandType numaralandırma
-Üst bilgi ve alt bilginin komut türünü temsil eder.
+Üstbilgi ve altbilginin komut türünü temsil eder.
 
 
 
-HeaderFooterCommandType türü aşağıdaki üyeleri gösterir:
+HeaderFooterCommandType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | TEXT | Metin.|
@@ -23,11 +23,11 @@ HeaderFooterCommandType türü aşağıdaki üyeleri gösterir:
 | CURRENT_DATE | Geçerli tarih|
 | CURRENT_TIME | Şimdiki zaman|
 | SHEET_NAME | Sayfa adı|
-| FILE_NAME | Yolsuz dosya adı|
+| FILE_NAME | Yol olmadan dosya adı|
 | FILE_PATH | Dosya adı olmayan dosya yolu|
 | PICTURE | Resim|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

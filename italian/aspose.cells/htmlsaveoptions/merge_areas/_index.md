@@ -3,13 +3,13 @@ title: merge_areas proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 490
+weight: 550
 url: /it/aspose.cells/htmlsaveoptions/merge_areas/
 is_root: false
 ---
 ##  merge_areas proprietà
 
-Indica se unire le aree di formattazione condizionale e convalida prima di salvare il file.
+Indica se unire le aree di formattazione condizionale e di validazione prima di salvare il file.
 
 ###  Osservazioni
 
@@ -25,5 +25,5 @@ def merge_areas(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/it/aspose.cells/htmlsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/it/aspose.cells/htmlsaveoptions)

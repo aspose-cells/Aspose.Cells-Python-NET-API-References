@@ -3,7 +3,7 @@ title: hi_lo_lines proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 260
+weight: 250
 url: /it/aspose.cells.charts/series/hi_lo_lines/
 is_root: false
 ---
@@ -19,6 +19,6 @@ def hi_lo_lines(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

@@ -1,13 +1,13 @@
 ---
-title: indexes 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: indexes属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 100
 url: /zh/aspose.cells/exporttableoptions/indexes/
 is_root: false
 ---
-## indexes 属性
+## indexes属性
 
 应导出的列/行的 indexes。
 ### 定义：
@@ -21,5 +21,5 @@ def indexes(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ExportTableOptions](/cells/python-net/zh/aspose.cells/exporttableoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`ExportTableOptions`](/cells/python-net/zh/aspose.cells/exporttableoptions)

@@ -3,7 +3,7 @@ title: start_cell propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 260
+weight: 320
 url: /fr/aspose.cells/xmlloadoptions/start_cell/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtient et définit la cellule de départ.
 
 ###  Remarques
 
-Ne fonctionne que lorsque le fichier n'est pas un speadsheetML ou un mappage xml vers Excel.
+Fonctionne uniquement lorsque le fichier n'est pas spreadsheetML ou ne mappe pas XML vers Excel.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def start_cell(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [XmlLoadOptions](/cells/python-net/fr/aspose.cells/xmlloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`XmlLoadOptions`](/cells/python-net/fr/aspose.cells/xmlloadoptions)

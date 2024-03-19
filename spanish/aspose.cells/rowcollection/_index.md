@@ -3,12 +3,12 @@ title: RowCollection clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1310
+weight: 1350
 url: /es/aspose.cells/rowcollection/
 is_root: false
 ---
 ##  RowCollection clase
-Recopila los objetos [Row](/cells/python-net/es/aspose.cells/row) que representan las filas individuales en una hoja de trabajo.
+Recopila los objetos [`Row`](/cells/python-net/es/aspose.cells/row) que representan las filas individuales de una hoja de trabajo.
 
 
 
@@ -21,7 +21,7 @@ El tipo RowCollection expone los siguientes miembros:
 
 
 
-Obtiene un objeto [Row](/cells/python-net/es/aspose.cells/row) por índice de fila dado. Se creará una instancia del objeto Fila del índice de fila dado si no existe antes.
+Obtiene un objeto [`Row`](/cells/python-net/es/aspose.cells/row) según el índice de fila determinado. Se creará una instancia del objeto Fila del índice de fila dado si no existe antes.
 ###  indexador
 | Nombre| Descripción|
 | :- | :- |
@@ -31,9 +31,10 @@ Obtiene un objeto [Row](/cells/python-net/es/aspose.cells/row) por índice de fi
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [get_row_by_index(index)](/cells/python-net/es/aspose.cells/rowcollection/get_row_by_index/#int) | Obtiene el objeto de fila por la posición en la lista.|
-| [clear()](/cells/python-net/es/aspose.cells/rowcollection/clear/#) | Borrar todas las filas y celdas.|
-| [remove_at(index)](/cells/python-net/es/aspose.cells/rowcollection/remove_at/#int) | Eliminar la fila en el índice especificado|
+| [get_enumerator](/cells/python-net/es/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Obtiene un enumerador que itera filas a través de esta colección.|
+| [get_row_by_index](/cells/python-net/es/aspose.cells/rowcollection/get_row_by_index/#int) | Obtiene el objeto de fila por su posición en la lista.|
+| [clear](/cells/python-net/es/aspose.cells/rowcollection/clear/#) | Borre todas las filas y celdas.|
+| [remove_at](/cells/python-net/es/aspose.cells/rowcollection/remove_at/#int) | Elimine el elemento de fila en el índice (posición) especificado en esta colección.|
 
 
 
@@ -52,5 +53,5 @@ row = worksheet.cells.rows[0]
 ```
 
 ###  Ver también
-* módulo [aspose.cells](..)
-* clase [Row](/cells/python-net/es/aspose.cells/row)
+* módulo [`aspose.cells`](..)
+* clase [`Row`](/cells/python-net/es/aspose.cells/row)

@@ -8,8 +8,6 @@ url: /tr/aspose.cells.pivot/sxrng/end/
 is_root: false
 ---
 ##  end mülk
-
-Grup aralığı için end nesnesini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +16,5 @@ def end(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [SxRng](/cells/python-net/tr/aspose.cells.pivot/sxrng)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`SxRng`](/cells/python-net/tr/aspose.cells.pivot/sxrng)

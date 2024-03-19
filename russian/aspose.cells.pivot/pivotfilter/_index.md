@@ -1,29 +1,29 @@
 ---
 title: PivotFilter класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 30
+weight: 100
 url: /ru/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
 ##  PivotFilter класс
-Представляет коллекцию PivotFilter из коллекции PivotFilter.
+Представляет PivotFilter в коллекции PivotFilter.
 
 
 
-Тип PivotFilter предоставляет следующие члены:
+Тип PivotFilter предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [auto_filter](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/auto_filter) | Получает автофильтр сводного фильтра.|
 | [filter_type](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/filter_type) | Получает тип автофильтра сводного фильтра.|
-| [field_index](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/field_index) |Получает индекс поля сводного фильтра.|
-| [value1](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/value1) | Получает строковое значение1 сводного фильтра метки.|
-| [value2](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/value2) | Получает строковое значение2 сводного фильтра метки.|
+| [field_index](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/field_index) | Получает индекс поля сводного фильтра.|
+| [value1](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/value1) | Получает строковое значение1 фильтра сводной метки.|
+| [value2](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/value2) |Получает строковое значение2 фильтра сводной метки.|
 | [measure_fld_index](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/measure_fld_index) | Получает индекс поля меры сводного фильтра.|
-| [member_property_field_index](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/member_property_field_index) | Получает индекс поля свойства члена сводного фильтра.|
+| [member_property_field_index](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/member_property_field_index) | Получает индекс поля свойств элемента сводного фильтра.|
 | [name](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/name) | Получает имя сводного фильтра.|
 | [evaluation_order](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/evaluation_order) | Получает порядок оценки сводного фильтра.|
 
@@ -84,4 +84,4 @@ book.save("out.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](..)
+* модуль [`aspose.cells.pivot`](..)

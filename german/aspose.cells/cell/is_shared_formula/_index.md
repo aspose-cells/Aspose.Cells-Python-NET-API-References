@@ -3,13 +3,13 @@ title: is_shared_formula Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 600
+weight: 630
 url: /de/aspose.cells/cell/is_shared_formula/
 is_root: false
 ---
 ##  is_shared_formula Eigentum
 
-Gibt an, ob die Zellformel Teil einer freigegebenen Formel ist.
+Gibt an, ob die Zellformel Teil einer gemeinsamen Formel ist.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_shared_formula(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

@@ -3,13 +3,13 @@ title: is_lock_aspect_ratio mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 590
+weight: 610
 url: /tr/aspose.cells.drawing/textbox/is_lock_aspect_ratio/
 is_root: false
 ---
 ##  is_lock_aspect_ratio mülk
 
-Doğru, en boy oranında değişiklik yapılmasına izin verilmediği anlamına gelir.
+Doğru, en boy oranında değişikliğe izin verilmediği anlamına gelir.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def is_lock_aspect_ratio(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextBox](/cells/python-net/tr/aspose.cells.drawing/textbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextBox`](/cells/python-net/tr/aspose.cells.drawing/textbox)

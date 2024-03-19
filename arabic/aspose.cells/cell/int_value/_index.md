@@ -1,13 +1,13 @@
 ---
-title: int_value الملكية
+title: int_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 530
 url: /ar/aspose.cells/cell/int_value/
 is_root: false
 ---
-##  int_value الملكية
+##  int_value عقار
 
 الحصول على القيمة الصحيحة الموجودة في الخلية.
 ###  تعريف:
@@ -18,5 +18,5 @@ def int_value(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

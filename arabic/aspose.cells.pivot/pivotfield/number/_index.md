@@ -1,13 +1,13 @@
 ---
-title: number الملكية
+title: number عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 460
+weight: 500
 url: /ar/aspose.cells.pivot/pivotfield/number/
 is_root: false
 ---
-##  number الملكية
+##  number عقار
 
 يمثل تنسيق العرض المدمج للأرقام والتواريخ.
 ###  تعريف:
@@ -21,5 +21,5 @@ def number(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

@@ -3,7 +3,7 @@ title: workbook proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 110
+weight: 120
 url: /it/aspose.cells/calculationdata/workbook/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def workbook(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CalculationData](/cells/python-net/it/aspose.cells/calculationdata)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](../../)
+* classe [`CalculationData`](/cells/python-net/it/aspose.cells/calculationdata)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

@@ -3,13 +3,13 @@ title: is_printable proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 670
+weight: 680
 url: /it/aspose.cells.drawing/arcshape/is_printable/
 is_root: false
 ---
 ##  is_printable proprietà
 
-True se l'oggetto è stampabile
+Vero se l'oggetto è stampabile
 
 ###  Esempio
 
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/it/aspose.cells.drawing/arcshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/it/aspose.cells.drawing/arcshape)

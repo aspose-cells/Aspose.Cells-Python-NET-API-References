@@ -1,13 +1,13 @@
 ---
-title: is_lock_aspect_ratio 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_lock_aspect_ratio属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 620
+weight: 630
 url: /zh/aspose.cells.drawing/spinner/is_lock_aspect_ratio/
 is_root: false
 ---
-## is_lock_aspect_ratio 属性
+## is_lock_aspect_ratio属性
 
 True 表示不允许更改纵横比。
 
@@ -29,5 +29,5 @@ def is_lock_aspect_ratio(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Spinner](/cells/python-net/zh/aspose.cells.drawing/spinner)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Spinner`](/cells/python-net/zh/aspose.cells.drawing/spinner)

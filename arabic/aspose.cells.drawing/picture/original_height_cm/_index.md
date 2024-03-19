@@ -1,13 +1,13 @@
 ---
-title: original_height_cm الملكية
+title: original_height_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 930
+weight: 940
 url: /ar/aspose.cells.drawing/picture/original_height_cm/
 is_root: false
 ---
-##  original_height_cm الملكية
+##  original_height_cm عقار
 
 الحصول على الارتفاع الأصلي للصورة بوحدة السنتيمتر.
 
@@ -37,5 +37,5 @@ def original_height_cm(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

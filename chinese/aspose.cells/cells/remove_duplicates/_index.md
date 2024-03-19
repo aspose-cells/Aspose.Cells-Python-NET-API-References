@@ -1,13 +1,13 @@
 ---
 title: remove_duplicates方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 810
+weight: 800
 url: /zh/aspose.cells/cells/remove_duplicates/
 is_root: false
 ---
-##  remove_duplicates() {#}
+##  remove_duplicates {#}
 删除工作表中的重复行。
 
 
@@ -20,7 +20,7 @@ def remove_duplicates(self):
 
 
 
-##  remove_duplicates(start_row, start_column, end_row, end_column) {#int-int-int-int}
+##  remove_duplicates {#int-int-int-int}
 删除范围内的重复值。
 
 
@@ -39,8 +39,8 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column):
 | end_column | int |结束列索引。|
 
 
-##  remove_duplicates(start_row, start_column, end_row, end_column, has_headers, column_offsets) {#int-int-int-int-bool-list}
-删除范围的重复数据。
+##  remove_duplicates {#int-int-int-int-bool-list}
+删除范围内的重复数据。
 
 
 
@@ -62,5 +62,5 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column, has_he
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

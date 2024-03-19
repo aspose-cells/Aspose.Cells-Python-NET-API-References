@@ -3,14 +3,14 @@ title: export_extra_headings mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 230
 url: /tr/aspose.cells/htmlsaveoptions/export_extra_headings/
 is_root: false
 ---
 ##  export_extra_headings mülk
 
-Metin uzunluğu maksimum görüntüleme sütunundan daha uzun olduğunda fazladan başlıkların dışa aktarılıp aktarılmayacağını gösterir.
-Varsayılan değer yanlıştır. Html dosyasını excel'e aktarmak istiyorsanız, lütfen varsayılan değeri koruyun.
+Metin uzunluğu maksimum görüntüleme sütunundan uzun olduğunda ekstra başlıkların dışa aktarılıp aktarılmayacağını belirtir.
+Varsayılan değer false'tur. Html dosyasını excel'e aktarmak istiyorsanız lütfen varsayılan değeri koruyun.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def export_extra_headings(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlSaveOptions](/cells/python-net/tr/aspose.cells/htmlsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlSaveOptions`](/cells/python-net/tr/aspose.cells/htmlsaveoptions)

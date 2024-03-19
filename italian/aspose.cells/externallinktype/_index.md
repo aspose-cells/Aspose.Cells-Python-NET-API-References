@@ -1,18 +1,18 @@
 ---
-title: ExternalLinkType enumerazione
+title: Enumerazione ExternalLinkType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2030
+weight: 2100
 url: /it/aspose.cells/externallinktype/
 is_root: false
 ---
-##  ExternalLinkType enumerazione
+##  Enumerazione ExternalLinkType
 Rappresenta il tipo di collegamento esterno.
 
 
 
-Il tipo ExternalLinkType espone i membri seguenti:
+Il tipo ExternalLinkType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -23,4 +23,4 @@ Il tipo ExternalLinkType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

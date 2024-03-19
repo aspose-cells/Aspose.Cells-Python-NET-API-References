@@ -3,7 +3,7 @@ title: has_up_down_bars fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 240
 url: /sv/aspose.cells.charts/series/has_up_down_bars/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def has_up_down_bars(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

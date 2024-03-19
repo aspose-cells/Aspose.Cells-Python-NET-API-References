@@ -3,7 +3,7 @@ title: check_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 320
 url: /tr/aspose.cells.drawing/checkbox/check_value/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Onay kutusunun değerini alır veya ayarlar.
 
  NOT: Bu üye artık kullanılmıyor. Yerine,
  lütfen CheckBox.CheckValueType özelliğini kullanın.
- Bu mülk, Haziran 2010'dan bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+ Bu mülk Haziran 2010'dan 12 ay sonra kaldırılacaktır.
+Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -28,6 +28,6 @@ def check_value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CheckBox](/cells/python-net/tr/aspose.cells.drawing/checkbox)
-* sınıf [CheckValueType](/cells/python-net/tr/aspose.cells.drawing/checkvaluetype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CheckBox`](/cells/python-net/tr/aspose.cells.drawing/checkbox)
+* sınıf [`CheckValueType`](/cells/python-net/tr/aspose.cells.drawing/checkvaluetype)

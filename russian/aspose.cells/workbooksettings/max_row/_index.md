@@ -1,9 +1,9 @@
 ---
 title: max_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 390
+weight: 310
 url: /ru/aspose.cells/workbooksettings/max_row/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Возвращает 65535, если формат файла Excel97-2003;
+Возвращает 65535, если формат файла — Excel97-2003;
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def max_row(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

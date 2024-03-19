@@ -3,7 +3,7 @@ title: export_worksheet_css_separately propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 380
 url: /fr/aspose.cells/htmlsaveoptions/export_worksheet_css_separately/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def export_worksheet_css_separately(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/fr/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/fr/aspose.cells/htmlsaveoptions)

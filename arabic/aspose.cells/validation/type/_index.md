@@ -1,13 +1,13 @@
 ---
-title: type الملكية
+title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ar/aspose.cells/validation/type/
 is_root: false
 ---
-##  type الملكية
+##  type عقار
 
 يمثل التحقق من صحة البيانات type.
 ###  تعريف:
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Validation](/cells/python-net/ar/aspose.cells/validation)
-* فئة [ValidationType](/cells/python-net/ar/aspose.cells/validationtype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Validation`](/cells/python-net/ar/aspose.cells/validation)
+* فئة [`ValidationType`](/cells/python-net/ar/aspose.cells/validationtype)

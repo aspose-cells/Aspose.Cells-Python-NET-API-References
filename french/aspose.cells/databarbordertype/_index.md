@@ -1,13 +1,13 @@
 ---
-title: DataBarBorderType dénombrement
+title: DataBarBorderType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1910
+weight: 1980
 url: /fr/aspose.cells/databarbordertype/
 is_root: false
 ---
-##  DataBarBorderType dénombrement
+##  DataBarBorderType énumération
 Spécifie le type de bordure d'une barre de données.
 
 
@@ -23,4 +23,4 @@ Le type DataBarBorderType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

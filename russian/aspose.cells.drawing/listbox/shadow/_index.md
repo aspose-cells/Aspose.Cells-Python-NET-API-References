@@ -1,15 +1,15 @@
 ---
 title: shadow недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 940
+weight: 950
 url: /ru/aspose.cells.drawing/listbox/shadow/
 is_root: false
 ---
 ##  shadow недвижимость
 
-Указывает, имеет ли поле со списком трехмерное затенение.
+Указывает, имеет ли поле со списком трехмерную заливку.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ListBox](/cells/python-net/ru/aspose.cells.drawing/listbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ListBox`](/cells/python-net/ru/aspose.cells.drawing/listbox)

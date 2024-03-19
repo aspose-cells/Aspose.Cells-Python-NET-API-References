@@ -3,20 +3,20 @@ title: left_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 680
+weight: 690
 url: /de/aspose.cells.drawing/chartshape/left_cm/
 is_root: false
 ---
 ##  left_cm Eigentum
 
-Stellt den horizontalen Versatz der Form von der linken Spalte in Zentimetern dar.
+Stellt den horizontalen Versatz der Form von ihrer linken Spalte in der Einheit Zentimeter dar.
 
 ###  Beispiel
 
 ```python
 
 if shape.left_cm == 3:
-    shape.left_cm = 1
+    shape.left_cm = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def left_cm(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ChartShape](/cells/python-net/de/aspose.cells.drawing/chartshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ChartShape`](/cells/python-net/de/aspose.cells.drawing/chartshape)

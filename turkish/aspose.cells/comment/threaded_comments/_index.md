@@ -3,13 +3,13 @@ title: threaded_comments mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 230
 url: /tr/aspose.cells/comment/threaded_comments/
 is_root: false
 ---
 ##  threaded_comments mülk
 
-Zincirleme yorumların listesini alır;
+Zincirlenmiş yorumların listesini alır;
 
 ###  Örnek
 
@@ -29,6 +29,6 @@ def threaded_comments(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
-* sınıf [ThreadedCommentCollection](/cells/python-net/tr/aspose.cells/threadedcommentcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)
+* sınıf [`ThreadedCommentCollection`](/cells/python-net/tr/aspose.cells/threadedcommentcollection)

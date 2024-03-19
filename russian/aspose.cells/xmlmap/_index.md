@@ -1,9 +1,9 @@
 ---
 title: XmlMap класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1700
+weight: 1770
 url: /ru/aspose.cells/xmlmap/
 is_root: false
 ---
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-Тип XmlMap предоставляет следующие члены:
+Тип XmlMap предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [name](/cells/python-net/ru/aspose.cells/xmlmap/name) | Возвращает или задает имя объекта.|
+| [name](/cells/python-net/ru/aspose.cells/xmlmap/name) |Возвращает или задает имя объекта.|
 | [root_element_name](/cells/python-net/ru/aspose.cells/xmlmap/root_element_name) | Получает имя корневого элемента.|
-| [data_binding](/cells/python-net/ru/aspose.cells/xmlmap/data_binding) | Получает [XmlDataBinding](/cells/python-net/ru/aspose.cells/xmldatabinding) этой карты.|
+| [data_binding](/cells/python-net/ru/aspose.cells/xmlmap/data_binding) | Получает [`XmlDataBinding`](/cells/python-net/ru/aspose.cells/xmldatabinding) этой карты.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
-* класс [XmlDataBinding](/cells/python-net/ru/aspose.cells/xmldatabinding)
+* модуль [`aspose.cells`](..)
+* класс [`XmlDataBinding`](/cells/python-net/ru/aspose.cells/xmldatabinding)

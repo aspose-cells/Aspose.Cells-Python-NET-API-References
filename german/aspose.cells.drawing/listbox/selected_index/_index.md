@@ -3,7 +3,7 @@ title: selected_index Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 920
+weight: 930
 url: /de/aspose.cells.drawing/listbox/selected_index/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Nullbasiert.
 
 ###  Bemerkungen
 
--1 zeigt an, dass kein Element ausgewählt ist.
+-1 bedeutet, dass kein Element ausgewählt ist.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def selected_index(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ListBox](/cells/python-net/de/aspose.cells.drawing/listbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ListBox`](/cells/python-net/de/aspose.cells.drawing/listbox)

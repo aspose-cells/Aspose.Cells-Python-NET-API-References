@@ -3,7 +3,7 @@ title: macro_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 780
+weight: 790
 url: /tr/aspose.cells.drawing/rectangleshape/macro_name/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def macro_name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RectangleShape](/cells/python-net/tr/aspose.cells.drawing/rectangleshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RectangleShape`](/cells/python-net/tr/aspose.cells.drawing/rectangleshape)

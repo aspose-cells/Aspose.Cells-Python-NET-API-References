@@ -1,15 +1,15 @@
 ---
-title: window_left الملكية
+title: window_left عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 670
+weight: 550
 url: /ar/aspose.cells/workbooksettings/window_left/
 is_root: false
 ---
-##  window_left الملكية
+##  window_left عقار
 
-المسافة من الحافة اليسرى لمنطقة العميل إلى الحافة اليسرى للنافذة ، بوحدة النقطة.
+المسافة من الحافة اليسرى لمنطقة العميل إلى الحافة اليسرى للنافذة، بوحدة النقطة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def window_left(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

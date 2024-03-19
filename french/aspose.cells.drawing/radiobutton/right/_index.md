@@ -3,13 +3,13 @@ title: right propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 870
+weight: 890
 url: /fr/aspose.cells.drawing/radiobutton/right/
 is_root: false
 ---
 ##  right propriété
 
-Représente la largeur du décalage horizontal de la forme par rapport à sa colonne d'angle inférieure right, en pixels.
+Représente la largeur du décalage horizontal de la forme par rapport à sa colonne de coin inférieure right, en unités de pixels.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def right(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)

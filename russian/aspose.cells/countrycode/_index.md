@@ -1,18 +1,18 @@
 ---
 title: CountryCode перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1890
+weight: 1960
 url: /ru/aspose.cells/countrycode/
 is_root: false
 ---
 ##  CountryCode перечисление
-Представляет идентификаторы страны Excel.
+Представляет идентификаторы стран Excel.
 
 
 
-Тип CountryCode предоставляет следующие члены:
+Тип CountryCode предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -51,7 +51,7 @@ is_root: false
 | INDIA | Индия|
 | ALGERIA | Алжир|
 | MOROCCO | Марокко|
-| LIBYA | Ливия|
+| LIBYA |Ливия|
 | PORTUGAL | Португалия|
 | ICELAND | Исландия|
 | FINLAND | Финляндия|
@@ -71,4 +71,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

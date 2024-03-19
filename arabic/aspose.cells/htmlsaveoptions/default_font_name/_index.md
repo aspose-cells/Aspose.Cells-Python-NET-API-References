@@ -1,16 +1,16 @@
 ---
-title: default_font_name الملكية
+title: default_font_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 120
 url: /ar/aspose.cells/htmlsaveoptions/default_font_name/
 is_root: false
 ---
-##  default_font_name الملكية
+##  default_font_name عقار
 
-حدد اسم الخط الافتراضي لتصدير html ، سيتم استخدام الخط الافتراضي عندما لا يكون خط النمط موجودًا ،
-إذا كانت هذه الخاصية خالية ، فسيستخدم Aspose.Cells الخط العام الذي له نفس العائلة مع الخط الأصلي ،
+حدد اسم الخط الافتراضي لتصدير html، وسيتم استخدام الخط الافتراضي عندما لا يكون خط النمط موجودًا،
+إذا كانت هذه الخاصية فارغة، فسيستخدم Aspose.Cells خطًا عالميًا له نفس عائلة الخط الأصلي،
 القيمه الافتراضيه فارغه.
 ###  تعريف:
 ```python
@@ -23,5 +23,5 @@ def default_font_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

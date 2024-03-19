@@ -1,9 +1,9 @@
 ---
 title: refresh_chart_cache недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 70
+weight: 230
 url: /ru/aspose.cells/docxsaveoptions/refresh_chart_cache/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def refresh_chart_cache(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DocxSaveOptions](/cells/python-net/ru/aspose.cells/docxsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`DocxSaveOptions`](/cells/python-net/ru/aspose.cells/docxsaveoptions)

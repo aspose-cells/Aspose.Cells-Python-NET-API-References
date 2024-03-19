@@ -3,17 +3,17 @@ title: transparent mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 380
 url: /tr/aspose.cells.rendering/imageorprintoptions/transparent/
 is_root: false
 ---
 ##  transparent mülk
 
-Oluşturulan görüntünün arka planının transparent olması gerekip gerekmediğini gösterir.
+Oluşturulan görüntünün arka planının transparent olması gerekip gerekmediğini belirtir.
 
 ###  Notlar
 
-Varsayılan değer yanlıştır. Bu, oluşturulan görüntülerin arka planının beyaz olduğu anlamına gelir.
+Varsayılan değer false'tur. Bu, oluşturulan görüntülerin arka planının beyaz olduğu anlamına gelir.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def transparent(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [ImageOrPrintOptions](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`ImageOrPrintOptions`](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)

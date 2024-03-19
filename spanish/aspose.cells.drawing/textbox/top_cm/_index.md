@@ -3,7 +3,7 @@ title: top_cm propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1060
+weight: 1080
 url: /es/aspose.cells.drawing/textbox/top_cm/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representa el desplazamiento vertical de la forma desde su fila superior, en uni
 ```python
 
 if shape.top_cm == 3:
-    shape.top_cm = 1
+    shape.top_cm = 1.0
 
 ```
 ###  Definición:
@@ -30,5 +30,5 @@ def top_cm(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [TextBox](/cells/python-net/es/aspose.cells.drawing/textbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`TextBox`](/cells/python-net/es/aspose.cells.drawing/textbox)

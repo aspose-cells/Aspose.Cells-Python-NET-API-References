@@ -3,7 +3,7 @@ title: date_time_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 440
 url: /tr/aspose.cells/cell/date_time_value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def date_time_value(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

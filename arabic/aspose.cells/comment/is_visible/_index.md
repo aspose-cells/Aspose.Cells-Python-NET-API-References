@@ -1,15 +1,15 @@
 ---
-title: is_visible الملكية
+title: is_visible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ar/aspose.cells/comment/is_visible/
 is_root: false
 ---
-##  is_visible الملكية
+##  is_visible عقار
 
-يمثل ما إذا كان التعليق مرئيًا أم لا.
+يمثل ما إذا كان التعليق مرئيا أم لا.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def is_visible(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

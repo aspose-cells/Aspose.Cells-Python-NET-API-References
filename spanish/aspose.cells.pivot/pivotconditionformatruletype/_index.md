@@ -3,7 +3,7 @@ title: PivotConditionFormatRuleType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 240
 url: /es/aspose.cells.pivot/pivotconditionformatruletype/
 is_root: false
 ---
@@ -18,11 +18,11 @@ El tipo PivotConditionFormatRuleType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | NONE | Indica que el formato condicional Top N no se evalúa|
-| ALL | Indica que el formato condicional Top N es<br/> evaluado en todo el rango de alcance.|
+| ALL | Indica que el formato condicional Top N es<br/> evaluados en todo el rango de alcance.|
 | ROW | Indica que el formato condicional Top N se evalúa para cada fila.|
-| COLUMN | Indica que el formato condicional Top N es<br/> evaluado para cada columna.|
+| COLUMN | Indica que el formato condicional Top N es<br/> evaluados para cada columna.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](..)
+* módulo [`aspose.cells.pivot`](..)

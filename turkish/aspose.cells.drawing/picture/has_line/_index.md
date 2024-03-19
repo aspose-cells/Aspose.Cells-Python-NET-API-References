@@ -3,13 +3,13 @@ title: has_line mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 480
+weight: 490
 url: /tr/aspose.cells.drawing/picture/has_line/
 is_root: false
 ---
 ##  has_line mülk
 
-Görünür şeklin çizgi kenarlığını alır ve ayarlar.
+Şeklin görünür kenar çizgisini alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def has_line(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)

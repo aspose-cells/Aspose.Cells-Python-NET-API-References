@@ -1,18 +1,18 @@
 ---
 title: SortOrder перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2490
+weight: 2580
 url: /ru/aspose.cells/sortorder/
 is_root: false
 ---
 ##  SortOrder перечисление
-Представляет порядок сортировки для диапазона данных.
+Представляет порядок сортировки диапазона данных.
 
 
 
-Тип SortOrder предоставляет следующие члены:
+Тип SortOrder предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

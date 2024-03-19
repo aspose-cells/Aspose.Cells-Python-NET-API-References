@@ -1,15 +1,15 @@
 ---
 title: top_to_corner недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1120
+weight: 1140
 url: /ru/aspose.cells.drawing/radiobutton/top_to_corner/
 is_root: false
 ---
 ##  top_to_corner недвижимость
 
-Получает и задает вертикальное смещение фигуры от верхней границы рабочего листа в пикселях.
+Получает и задает вертикальное смещение фигуры от верхней границы листа в пикселях.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [RadioButton](/cells/python-net/ru/aspose.cells.drawing/radiobutton)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`RadioButton`](/cells/python-net/ru/aspose.cells.drawing/radiobutton)

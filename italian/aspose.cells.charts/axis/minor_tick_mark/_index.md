@@ -3,13 +3,13 @@ title: minor_tick_mark proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 340
+weight: 350
 url: /it/aspose.cells.charts/axis/minor_tick_mark/
 is_root: false
 ---
 ##  minor_tick_mark proprietà
 
-Rappresenta il tipo di segno di graduazione minore per l'asse specificato.
+Rappresenta il tipo di segno di spunta minore per l'asse specificato.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def minor_tick_mark(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/it/aspose.cells.charts/axis)
-* classe [TickMarkType](/cells/python-net/it/aspose.cells.charts/tickmarktype)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/it/aspose.cells.charts/axis)
+* classe [`TickMarkType`](/cells/python-net/it/aspose.cells.charts/tickmarktype)

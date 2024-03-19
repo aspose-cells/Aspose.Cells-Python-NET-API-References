@@ -1,15 +1,15 @@
 ---
-title: is_display_unit_label_shown الملكية
+title: is_display_unit_label_shown عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ar/aspose.cells.charts/axis/is_display_unit_label_shown/
 is_root: false
 ---
-##  is_display_unit_label_shown الملكية
+##  is_display_unit_label_shown عقار
 
-يمثل إذا تم عرض تسمية وحدة العرض على المحور المحدد.
+يمثل ما إذا كانت تسمية وحدة العرض معروضة على المحور المحدد.
 
 ###  ملاحظات
 
@@ -25,5 +25,5 @@ def is_display_unit_label_shown(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)

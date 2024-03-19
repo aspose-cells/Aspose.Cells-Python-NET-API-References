@@ -3,7 +3,7 @@ title: font propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 100
+weight: 110
 url: /fr/aspose.cells/comment/font/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def font(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Comment](/cells/python-net/fr/aspose.cells/comment)
-* classe [Font](/cells/python-net/fr/aspose.cells/font)
+* module [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/fr/aspose.cells/comment)
+* classe [`Font`](/cells/python-net/fr/aspose.cells/font)

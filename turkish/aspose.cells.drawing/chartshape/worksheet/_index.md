@@ -3,13 +3,13 @@ title: worksheet mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /tr/aspose.cells.drawing/chartshape/worksheet/
 is_root: false
 ---
 ##  worksheet mülk
 
-Bu şekli içeren [Shape.worksheet](/cells/python-net/tr/aspose.cells.drawing/shape#worksheet) nesnesini alır.
+Bu şekli içeren [`Shape.worksheet`](/cells/python-net/tr/aspose.cells.drawing/shape#worksheet) nesnesini alır.
 
 ###  Örnek
 
@@ -26,6 +26,6 @@ def worksheet(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ChartShape](/cells/python-net/tr/aspose.cells.drawing/chartshape)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ChartShape`](/cells/python-net/tr/aspose.cells.drawing/chartshape)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

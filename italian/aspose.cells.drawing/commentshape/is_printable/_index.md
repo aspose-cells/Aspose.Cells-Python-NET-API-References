@@ -3,13 +3,13 @@ title: is_printable proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 620
+weight: 630
 url: /it/aspose.cells.drawing/commentshape/is_printable/
 is_root: false
 ---
 ##  is_printable proprietà
 
-True se l'oggetto è stampabile
+Vero se l'oggetto è stampabile
 
 ###  Esempio
 
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CommentShape](/cells/python-net/it/aspose.cells.drawing/commentshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CommentShape`](/cells/python-net/it/aspose.cells.drawing/commentshape)

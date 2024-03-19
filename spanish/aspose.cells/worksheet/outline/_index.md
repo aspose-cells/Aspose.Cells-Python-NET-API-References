@@ -3,7 +3,7 @@ title: outline propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 650
+weight: 670
 url: /es/aspose.cells/worksheet/outline/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def outline(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Outline](/cells/python-net/es/aspose.cells/outline)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Outline`](/cells/python-net/es/aspose.cells/outline)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

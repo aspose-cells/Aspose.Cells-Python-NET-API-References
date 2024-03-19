@@ -1,15 +1,15 @@
 ---
 title: input_range недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 530
+weight: 540
 url: /ru/aspose.cells.drawing/checkbox/input_range/
 is_root: false
 ---
 ##  input_range недвижимость
 
-Получает или задает диапазон рабочего листа, используемый для заполнения указанного поля со списком.
+Получает или задает диапазон листа, используемый для заполнения указанного поля со списком.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def input_range(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CheckBox](/cells/python-net/ru/aspose.cells.drawing/checkbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CheckBox`](/cells/python-net/ru/aspose.cells.drawing/checkbox)

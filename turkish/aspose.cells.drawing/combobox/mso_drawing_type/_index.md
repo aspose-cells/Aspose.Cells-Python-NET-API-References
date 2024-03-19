@@ -3,7 +3,7 @@ title: mso_drawing_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 800
+weight: 810
 url: /tr/aspose.cells.drawing/combobox/mso_drawing_type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def mso_drawing_type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ComboBox](/cells/python-net/tr/aspose.cells.drawing/combobox)
-* sınıf [MsoDrawingType](/cells/python-net/tr/aspose.cells.drawing/msodrawingtype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ComboBox`](/cells/python-net/tr/aspose.cells.drawing/combobox)
+* sınıf [`MsoDrawingType`](/cells/python-net/tr/aspose.cells.drawing/msodrawingtype)

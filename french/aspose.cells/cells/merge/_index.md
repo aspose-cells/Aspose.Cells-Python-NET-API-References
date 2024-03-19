@@ -1,14 +1,14 @@
 ---
-title: merge méthode
+title: méthode merge
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 790
+weight: 780
 url: /fr/aspose.cells/cells/merge/
 is_root: false
 ---
-##  merge(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
-Fusionne une plage de cellules spécifiée en une seule cellule.
+##  merge {#int-int-int-int}
+Fusionne une plage spécifiée de cellules en une seule cellule.
 
 
 
@@ -23,14 +23,14 @@ def merge(self, first_row, first_column, total_rows, total_columns):
 | first_row | int | Première ligne de cette plage (base zéro)|
 | first_column | int | Première colonne de cette plage (base zéro)|
 | total_rows | int | Nombre de lignes (une base)|
-| total_columns | int | Nombre de colonnes (une base)|
+| total_columns | int | Nombre de colonnes (une basée)|
 ###  Remarques
 
-Référencez la cellule fusionnée via l'adresse de la cellule supérieure gauche de la plage.
+Référencez la cellule fusionnée via l’adresse de la cellule supérieure gauche de la plage.
 
-##  merge(first_row, first_column, total_rows, total_columns, merge_conflict) {#int-int-int-int-bool}
+##  merge {#int-int-int-int-bool}
 
-Fusionne une plage de cellules spécifiée en une seule cellule.
+Fusionne une plage spécifiée de cellules en une seule cellule.
 
 
 
@@ -45,16 +45,16 @@ def merge(self, first_row, first_column, total_rows, total_columns, merge_confli
 | first_row | int | Première ligne de cette plage (base zéro)|
 | first_column | int | Première colonne de cette plage (base zéro)|
 | total_rows | int | Nombre de lignes (une base)|
-| total_columns | int | Nombre de colonnes (une base)|
+| total_columns | int | Nombre de colonnes (une basée)|
 | merge_conflict | bool | Fusionner les plages fusionnées en conflit.|
 ###  Remarques
 
-Référencez la cellule fusionnée via l'adresse de la cellule supérieure gauche de la plage.
+Référencez la cellule fusionnée via l’adresse de la cellule supérieure gauche de la plage.
 Si mergeConflict est vrai et que la plage fusionnée est en conflit avec d'autres cellules fusionnées,
 les autres cellules fusionnées seront automatiquement supprimées.
 
-##  merge(first_row, first_column, total_rows, total_columns, check_conflict, merge_conflict) {#int-int-int-int-bool-bool}
-Fusionne une plage de cellules spécifiée en une seule cellule.
+##  merge {#int-int-int-int-bool-bool}
+Fusionne une plage spécifiée de cellules en une seule cellule.
 
 
 
@@ -69,16 +69,16 @@ def merge(self, first_row, first_column, total_rows, total_columns, check_confli
 | first_row | int | Première ligne de cette plage (base zéro)|
 | first_column | int | Première colonne de cette plage (base zéro)|
 | total_rows | int | Nombre de lignes (une base)|
-| total_columns | int | Nombre de colonnes (une base)|
-| check_conflict | bool | Indique si cocher les cellules fusionnées croise d'autres cellules fusionnées|
+| total_columns | int | Nombre de colonnes (une basée)|
+| check_conflict | bool | Indique si la vérification des cellules fusionnées croise d'autres cellules fusionnées|
 | merge_conflict | bool | Fusionner les plages fusionnées en conflit.|
 ###  Remarques
 
-Référencez la cellule fusionnée via l'adresse de la cellule supérieure gauche de la plage.
+Référencez la cellule fusionnée via l’adresse de la cellule supérieure gauche de la plage.
 Si mergeConflict est vrai et que la plage fusionnée est en conflit avec d'autres cellules fusionnées,
 les autres cellules fusionnées seront automatiquement supprimées.
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cells](/cells/python-net/fr/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/fr/aspose.cells/cells)

@@ -1,13 +1,13 @@
 ---
-title: text_orientation_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_orientation_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /zh/aspose.cells.drawing/oleobject/text_orientation_type/
 is_root: false
 ---
-## text_orientation_type 属性
+## text_orientation_type属性
 
 获取和设置形状的文本方向类型。
 
@@ -31,6 +31,6 @@ def text_orientation_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [OleObject](/cells/python-net/zh/aspose.cells.drawing/oleobject)
-* 类 [TextOrientationType](/cells/python-net/zh/aspose.cells/textorientationtype)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`OleObject`](/cells/python-net/zh/aspose.cells.drawing/oleobject)
+* 类 [`TextOrientationType`](/cells/python-net/zh/aspose.cells/textorientationtype)

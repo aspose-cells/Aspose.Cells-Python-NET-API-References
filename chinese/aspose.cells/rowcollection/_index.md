@@ -1,18 +1,18 @@
 ---
 title: RowCollection类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1310
+weight: 1350
 url: /zh/aspose.cells/rowcollection/
 is_root: false
 ---
 ## RowCollection类
-收集代表工作表中各行的 [Row](/cells/python-net/zh/aspose.cells/row) 对象。
+收集代表工作表中各个行的 [`Row`](/cells/python-net/zh/aspose.cells/row) 对象。
 
 
 
-RowCollection 类型公开了以下成员：
+RowCollection 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -21,7 +21,7 @@ RowCollection 类型公开了以下成员：
 
 
 
-通过给定的行索引获取 [Row](/cells/python-net/zh/aspose.cells/row) 对象。如果给定行索引的 Row 对象之前不存在，则将其实例化。
+通过给定的行索引获取 [`Row`](/cells/python-net/zh/aspose.cells/row) 对象。如果给定行索引的 Row 对象之前不存在，则将实例化该对象。
 ### 索引器
 |名称|描述|
 | :- | :- |
@@ -31,9 +31,10 @@ RowCollection 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [get_row_by_index(index)](/cells/python-net/zh/aspose.cells/rowcollection/get_row_by_index/#int) |根据列表中的位置获取行对象。|
-| [clear()](/cells/python-net/zh/aspose.cells/rowcollection/clear/#) |清除所有行和单元格。|
-| [remove_at(index)](/cells/python-net/zh/aspose.cells/rowcollection/remove_at/#int) |删除指定索引处的行|
+| [get_enumerator](/cells/python-net/zh/aspose.cells/rowcollection/get_enumerator/#bool-bool) |获取一个枚举器，该枚举器迭代此集合中的行|
+| [get_row_by_index](/cells/python-net/zh/aspose.cells/rowcollection/get_row_by_index/#int) |按列表中的位置获取行对象。|
+| [clear](/cells/python-net/zh/aspose.cells/rowcollection/clear/#) |清除所有行和单元格。|
+| [remove_at](/cells/python-net/zh/aspose.cells/rowcollection/remove_at/#int) |删除此集合中指定索引（位置）处的行项目。|
 
 
 
@@ -52,5 +53,5 @@ row = worksheet.cells.rows[0]
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
-* 类 [Row](/cells/python-net/zh/aspose.cells/row)
+* 模块[`aspose.cells`](..)
+* 类 [`Row`](/cells/python-net/zh/aspose.cells/row)

@@ -1,14 +1,14 @@
 ---
-title: PaneStateType dénombrement
+title: PaneStateType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2320
+weight: 2410
 url: /fr/aspose.cells/panestatetype/
 is_root: false
 ---
-##  PaneStateType dénombrement
-Représente l'état du volet de la feuille.
+##  PaneStateType énumération
+Représente l’état du volet de la feuille.
 
 
 
@@ -17,12 +17,12 @@ Le type PaneStateType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| FROZEN | Les vitres sont gelées, mais ne l'étaient pas avant d'être gelées.|
-| FROZEN_SPLIT | Les vitres sont figées et ont été fendues avant d'être figées.|
-| SPLIT | Les volets sont divisés, mais pas figés.|
-| NORMAL | Les volets ne sont pas figés et non fractionnés.|
+| FROZEN | Les vitres sont gelées, mais elles ne l'étaient pas avant d'être gelées.|
+| FROZEN_SPLIT | Les vitres sont gelées et ont été fendues avant d'être gelées.|
+| SPLIT |Les vitres sont fendues, mais pas gelées.|
+| NORMAL | Les vitres ne sont ni gelées ni fendues.|
 
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: lower_right_column propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 760
+weight: 770
 url: /es/aspose.cells.drawing/oval/lower_right_column/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def lower_right_column(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Oval](/cells/python-net/es/aspose.cells.drawing/oval)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Oval`](/cells/python-net/es/aspose.cells.drawing/oval)

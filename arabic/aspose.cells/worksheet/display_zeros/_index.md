@@ -1,15 +1,15 @@
 ---
-title: display_zeros الملكية
+title: display_zeros عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 460
+weight: 480
 url: /ar/aspose.cells/worksheet/display_zeros/
 is_root: false
 ---
-##  display_zeros الملكية
+##  display_zeros عقار
 
-صواب إذا تم عرض القيم الصفرية.
+صحيح إذا تم عرض القيم الصفرية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_zeros(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

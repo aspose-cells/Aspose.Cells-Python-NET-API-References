@@ -3,7 +3,7 @@ title: line proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 340
+weight: 370
 url: /it/aspose.cells.charts/chart/line/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def line(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)

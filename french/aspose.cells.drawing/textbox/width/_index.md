@@ -3,13 +3,13 @@ title: width propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1150
+weight: 1170
 url: /fr/aspose.cells.drawing/textbox/width/
 is_root: false
 ---
 ##  width propriété
 
-Représente le width de la forme, en unité de pixels.
+Représente le width de forme, en unité de pixels.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TextBox](/cells/python-net/fr/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TextBox`](/cells/python-net/fr/aspose.cells.drawing/textbox)

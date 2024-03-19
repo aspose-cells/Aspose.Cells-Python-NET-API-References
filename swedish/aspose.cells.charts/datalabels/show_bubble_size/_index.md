@@ -3,7 +3,7 @@ title: show_bubble_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 380
 url: /sv/aspose.cells.charts/datalabels/show_bubble_size/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_bubble_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DataLabels](/cells/python-net/sv/aspose.cells.charts/datalabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DataLabels`](/cells/python-net/sv/aspose.cells.charts/datalabels)

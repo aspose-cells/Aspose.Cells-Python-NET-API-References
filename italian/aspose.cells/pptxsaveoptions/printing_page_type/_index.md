@@ -3,7 +3,7 @@ title: printing_page_type proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 210
+weight: 250
 url: /it/aspose.cells/pptxsaveoptions/printing_page_type/
 is_root: false
 ---
@@ -13,12 +13,12 @@ Indica quali pagine non verranno stampate.
 
 ###  Osservazioni
 
-Se il contenuto del foglio è scarso, ci saranno alcune pagine completamente vuote nel file pdf di output.
-Se non desideri queste pagine vuote, puoi utilizzare questa opzione per ometterle.
+Se il contenuto del foglio è scarso, alcune pagine saranno completamente vuote nel file pdf di output.
+Se non vuoi queste pagine vuote, puoi usare questa opzione per ometterle.
 
 ###  Esempio
 
-Il codice seguente omette le pagine vuote o le pagine che contengono solo alcuni contenuti di stile come lo sfondo delle celle, i bordi.
+Il codice seguente omette le pagine vuote o le pagine che contengono solo alcuni contenuti di stile come lo sfondo della cella e i bordi.
 
 ```python
 from aspose.cells import PdfSaveOptions, PrintingPageType, Workbook
@@ -44,6 +44,6 @@ def printing_page_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PptxSaveOptions](/cells/python-net/it/aspose.cells/pptxsaveoptions)
-* classe [PrintingPageType](/cells/python-net/it/aspose.cells/printingpagetype)
+* modulo [`aspose.cells`](../../)
+* classe [`PptxSaveOptions`](/cells/python-net/it/aspose.cells/pptxsaveoptions)
+* classe [`PrintingPageType`](/cells/python-net/it/aspose.cells/printingpagetype)

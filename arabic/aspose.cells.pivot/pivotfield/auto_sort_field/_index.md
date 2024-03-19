@@ -1,16 +1,16 @@
 ---
-title: auto_sort_field الملكية
+title: auto_sort_field عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 200
 url: /ar/aspose.cells.pivot/pivotfield/auto_sort_field/
 is_root: false
 ---
-##  auto_sort_field الملكية
+##  auto_sort_field عقار
 
  يمثل فهرس حقل الفرز التلقائي.
--1 تعني PivotField نفسها ، والبعض الآخر يعني موضع حقول البيانات.
+-1 يعني PivotField نفسه، والبعض الآخر يعني موضع حقول البيانات.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def auto_sort_field(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

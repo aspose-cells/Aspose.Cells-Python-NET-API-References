@@ -1,19 +1,19 @@
 ---
-title: export_page_headers الملكية
+title: export_page_headers عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ar/aspose.cells/htmlsaveoptions/export_page_headers/
 is_root: false
 ---
-##  export_page_headers الملكية
+##  export_page_headers عقار
 
-يشير إلى ما إذا كان يتم تصدير رؤوس الصفحات أم لا.
+يشير إلى ما إذا كان سيتم تصدير رؤوس الصفحات.
 
 ###  ملاحظات
 
-يعمل فقط عندما يكون [HtmlSaveOptions.save_as_single_file](/cells/python-net/ar/aspose.cells/htmlsaveoptions#save_as_single_file) صحيحًا.
+يعمل فقط عندما يكون [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/ar/aspose.cells/htmlsaveoptions#save_as_single_file) صحيحًا.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def export_page_headers(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

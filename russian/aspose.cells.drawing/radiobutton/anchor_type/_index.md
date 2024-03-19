@@ -1,9 +1,9 @@
 ---
 title: anchor_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 270
+weight: 300
 url: /ru/aspose.cells.drawing/radiobutton/anchor_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [RadioButton](/cells/python-net/ru/aspose.cells.drawing/radiobutton)
-* класс [ShapeAnchorType](/cells/python-net/ru/aspose.cells.drawing/shapeanchortype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`RadioButton`](/cells/python-net/ru/aspose.cells.drawing/radiobutton)
+* класс [`ShapeAnchorType`](/cells/python-net/ru/aspose.cells.drawing/shapeanchortype)

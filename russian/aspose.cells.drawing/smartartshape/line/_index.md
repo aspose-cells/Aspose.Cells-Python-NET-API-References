@@ -1,9 +1,9 @@
 ---
 title: line недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 710
+weight: 720
 url: /ru/aspose.cells.drawing/smartartshape/line/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def line(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineFormat](/cells/python-net/ru/aspose.cells.drawing/lineformat)
-* класс [SmartArtShape](/cells/python-net/ru/aspose.cells.drawing/smartartshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineFormat`](/cells/python-net/ru/aspose.cells.drawing/lineformat)
+* класс [`SmartArtShape`](/cells/python-net/ru/aspose.cells.drawing/smartartshape)

@@ -1,9 +1,9 @@
 ---
 title: cell_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ru/aspose.cells/calculationdata/cell_row/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def cell_row(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CalculationData](/cells/python-net/ru/aspose.cells/calculationdata)
+* модуль [`aspose.cells`](../../)
+* класс [`CalculationData`](/cells/python-net/ru/aspose.cells/calculationdata)

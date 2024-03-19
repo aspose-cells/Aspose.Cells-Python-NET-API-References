@@ -1,15 +1,15 @@
 ---
 title: hyperlink недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 490
+weight: 500
 url: /ru/aspose.cells.drawing/oval/hyperlink/
 is_root: false
 ---
 ##  hyperlink недвижимость
 
-Получает hyperlink формы.
+Получает hyperlink фигуры.
 
 ###  Пример
 
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Hyperlink](/cells/python-net/ru/aspose.cells/hyperlink)
-* класс [Oval](/cells/python-net/ru/aspose.cells.drawing/oval)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Hyperlink`](/cells/python-net/ru/aspose.cells/hyperlink)
+* класс [`Oval`](/cells/python-net/ru/aspose.cells.drawing/oval)

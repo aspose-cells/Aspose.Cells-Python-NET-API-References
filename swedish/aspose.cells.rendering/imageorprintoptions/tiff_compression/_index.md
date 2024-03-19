@@ -3,7 +3,7 @@ title: tiff_compression fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 370
 url: /sv/aspose.cells.rendering/imageorprintoptions/tiff_compression/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def tiff_compression(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
-* klass [TiffCompression](/cells/python-net/sv/aspose.cells.rendering/tiffcompression)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* klass [`TiffCompression`](/cells/python-net/sv/aspose.cells.rendering/tiffcompression)

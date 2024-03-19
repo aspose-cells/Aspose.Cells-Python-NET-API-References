@@ -3,7 +3,7 @@ title: gridline_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 150
 url: /tr/aspose.cells/pptxsaveoptions/gridline_type/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Kılavuz çizgisi türünü alır veya ayarlar.
 
 ###  Notlar
 
-Varsayılan Noktalı tiptir.
+Varsayılan Noktalı türdür.
 ###  Tanım:
 ```python
 @property
@@ -25,6 +25,6 @@ def gridline_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [GridlineType](/cells/python-net/tr/aspose.cells/gridlinetype)
-* sınıf [PptxSaveOptions](/cells/python-net/tr/aspose.cells/pptxsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`GridlineType`](/cells/python-net/tr/aspose.cells/gridlinetype)
+* sınıf [`PptxSaveOptions`](/cells/python-net/tr/aspose.cells/pptxsaveoptions)

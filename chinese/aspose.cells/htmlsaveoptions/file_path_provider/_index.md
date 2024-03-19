@@ -1,15 +1,15 @@
 ---
-title: file_path_provider 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: file_path_provider属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 380
+weight: 400
 url: /zh/aspose.cells/htmlsaveoptions/file_path_provider/
 is_root: false
 ---
-## file_path_provider 属性
+## file_path_provider属性
 
-单独获取或设置用于将Worksheet导出为html的IFilePathProvider。
+获取或设置用于将Worksheet单独导出为html的IFilePathProvider。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def file_path_provider(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlSaveOptions](/cells/python-net/zh/aspose.cells/htmlsaveoptions)
-* 类 [IFilePathProvider](/cells/python-net/zh/aspose.cells/ifilepathprovider)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlSaveOptions`](/cells/python-net/zh/aspose.cells/htmlsaveoptions)
+* 类 [`IFilePathProvider`](/cells/python-net/zh/aspose.cells/ifilepathprovider)

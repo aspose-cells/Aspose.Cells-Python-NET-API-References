@@ -1,15 +1,15 @@
 ---
-title: error_check_options 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: error_check_options属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 470
+weight: 490
 url: /zh/aspose.cells/worksheet/error_check_options/
 is_root: false
 ---
-## error_check_options 属性
+## error_check_options属性
 
-获取应用于特定范围的错误检查设置。
+获取应用于某些范围的错误检查设置。
 ### 定义：
 ```python
 @property
@@ -18,6 +18,6 @@ def error_check_options(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ErrorCheckOptionCollection](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection)
-* 类 [Worksheet](/cells/python-net/zh/aspose.cells/worksheet)
+* 模块[`aspose.cells`](../../)
+* 类 [`ErrorCheckOptionCollection`](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection)
+* 类 [`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet)

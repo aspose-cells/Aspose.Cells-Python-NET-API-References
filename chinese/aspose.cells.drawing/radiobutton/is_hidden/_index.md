@@ -1,13 +1,13 @@
 ---
-title: is_hidden 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_hidden属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 590
+weight: 610
 url: /zh/aspose.cells.drawing/radiobutton/is_hidden/
 is_root: false
 ---
-## is_hidden 属性
+## is_hidden属性
 
 指示对象是否可见。
 
@@ -29,5 +29,5 @@ def is_hidden(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [RadioButton](/cells/python-net/zh/aspose.cells.drawing/radiobutton)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`RadioButton`](/cells/python-net/zh/aspose.cells.drawing/radiobutton)

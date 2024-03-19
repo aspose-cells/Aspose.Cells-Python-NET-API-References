@@ -3,20 +3,20 @@ title: width_inch proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /it/aspose.cells.drawing/chartshape/width_inch/
 is_root: false
 ---
 ##  width_inch proprietà
 
-Rappresenta la larghezza della forma, in unità di pollici.
+Rappresenta la larghezza della forma, in unità di pollice.
 
 ###  Esempio
 
 ```python
 
 if shape.width_inch == 3:
-    shape.width_inch = 1
+    shape.width_inch = 1.0
 
 ```
 ###  Definizione:
@@ -30,5 +30,5 @@ def width_inch(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ChartShape](/cells/python-net/it/aspose.cells.drawing/chartshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ChartShape`](/cells/python-net/it/aspose.cells.drawing/chartshape)

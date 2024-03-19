@@ -1,15 +1,15 @@
 ---
-title: r1c1_formula الملكية
+title: r1c1_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 650
+weight: 680
 url: /ar/aspose.cells/cell/r1c1_formula/
 is_root: false
 ---
-##  r1c1_formula الملكية
+##  r1c1_formula عقار
 
-الحصول على أو تحديد صيغة R1C1 من [Cell](/cells/python-net/ar/aspose.cells/cell).
+الحصول على صيغة R1C1 للرقم [`Cell`](/cells/python-net/ar/aspose.cells/cell) أو تعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def r1c1_formula(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

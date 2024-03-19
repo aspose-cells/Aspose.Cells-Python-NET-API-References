@@ -3,13 +3,13 @@ title: lower_right_column mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 790
+weight: 800
 url: /tr/aspose.cells.drawing/scrollbar/lower_right_column/
 is_root: false
 ---
 ##  lower_right_column mülk
 
-Sağ alt köşe sütun indeksini temsil eder.
+Sağ alt köşe sütun dizinini temsil eder.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def lower_right_column(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ScrollBar](/cells/python-net/tr/aspose.cells.drawing/scrollbar)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ScrollBar`](/cells/python-net/tr/aspose.cells.drawing/scrollbar)

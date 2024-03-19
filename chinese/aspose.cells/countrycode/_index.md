@@ -1,9 +1,9 @@
 ---
 title: CountryCode枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1890
+weight: 1960
 url: /zh/aspose.cells/countrycode/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-CountryCode 类型公开了以下成员：
+CountryCode 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -20,14 +20,14 @@ CountryCode 类型公开了以下成员：
 | DEFAULT |  |
 | USA |美国|
 | CANADA |加拿大|
-| LATIN_AMERIC |拉丁美洲，巴西除外|
+| LATIN_AMERIC |拉丁美洲（巴西除外）|
 | RUSSIA |俄罗斯|
 | EGYPT |埃及|
 | GREECE |希腊|
 | NETHERLANDS |荷兰|
 | BELGIUM |比利时|
 | FRANCE |法国|
-| SPAIN |西班牙|
+| SPAIN |西类牙|
 | HUNGARY |匈牙利|
 | ITALY |意大利|
 | SWITZERLAND |瑞士|
@@ -71,4 +71,4 @@ CountryCode 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

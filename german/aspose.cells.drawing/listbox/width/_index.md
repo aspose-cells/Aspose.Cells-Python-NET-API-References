@@ -3,13 +3,13 @@ title: width Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /de/aspose.cells.drawing/listbox/width/
 is_root: false
 ---
 ##  width Eigentum
 
-Repräsentiert die Form width in Pixeleinheiten.
+Stellt die width der Form in der Einheit Pixel dar.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ListBox](/cells/python-net/de/aspose.cells.drawing/listbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ListBox`](/cells/python-net/de/aspose.cells.drawing/listbox)

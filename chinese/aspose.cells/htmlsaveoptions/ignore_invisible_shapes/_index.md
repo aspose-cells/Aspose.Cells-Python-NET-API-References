@@ -1,19 +1,19 @@
 ---
-title: ignore_invisible_shapes 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: ignore_invisible_shapes属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 420
+weight: 450
 url: /zh/aspose.cells/htmlsaveoptions/ignore_invisible_shapes/
 is_root: false
 ---
-## ignore_invisible_shapes 属性
+## ignore_invisible_shapes属性
 
 指示是否导出那些不可见的形状
 
 ### 评论
 
-默认值为假。
+默认值为 false。
 ### 定义：
 ```python
 @property
@@ -25,5 +25,5 @@ def ignore_invisible_shapes(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlSaveOptions](/cells/python-net/zh/aspose.cells/htmlsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlSaveOptions`](/cells/python-net/zh/aspose.cells/htmlsaveoptions)

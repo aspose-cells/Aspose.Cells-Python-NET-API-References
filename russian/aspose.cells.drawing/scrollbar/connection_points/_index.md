@@ -1,9 +1,9 @@
 ---
 title: connection_points недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ru/aspose.cells.drawing/scrollbar/connection_points/
 is_root: false
 ---
@@ -14,8 +14,8 @@ is_root: false
 ###  Примечания
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
-пожалуйста, используйте метод GetConnectionPoints().
- Этот метод будет удален через 12 месяцев, начиная с апреля 2022 года.
+используйте метод GetConnectionPoints().
+ Этот метод будет удален через 12 месяцев, с апреля 2022 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -25,5 +25,5 @@ def connection_points(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ScrollBar](/cells/python-net/ru/aspose.cells.drawing/scrollbar)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ScrollBar`](/cells/python-net/ru/aspose.cells.drawing/scrollbar)

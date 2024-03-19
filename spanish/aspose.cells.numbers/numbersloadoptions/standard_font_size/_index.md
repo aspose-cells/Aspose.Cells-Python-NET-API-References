@@ -3,7 +3,7 @@ title: standard_font_size propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 260
 url: /es/aspose.cells.numbers/numbersloadoptions/standard_font_size/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Establece el tamaño de fuente estándar predeterminado.
 ###  Observaciones
 
 NOTA: Este miembro ahora está obsoleto. En su lugar, utilice DefaultStyleSettings.
- Esta propiedad se eliminará 12 meses después desde marzo de 2022.
+ Esta propiedad será eliminada 12 meses después desde marzo de 2022.
 Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
@@ -27,5 +27,5 @@ def standard_font_size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.numbers](../../)
-* clase [NumbersLoadOptions](/cells/python-net/es/aspose.cells.numbers/numbersloadoptions)
+* módulo [`aspose.cells.numbers`](../../)
+* clase [`NumbersLoadOptions`](/cells/python-net/es/aspose.cells.numbers/numbersloadoptions)

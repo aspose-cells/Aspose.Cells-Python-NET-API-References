@@ -3,7 +3,7 @@ title: y mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 430
 url: /tr/aspose.cells.charts/legend/y/
 is_root: false
 ---
@@ -13,8 +13,8 @@ Grafik alanının 1/4000'lik birimlerinde sol üst köşenin y koordinatını al
 
 ###  Notlar
 
- 1/4000 birimleri piksele nasıl çevrilir?
-Y Piksel = Y * Chart.ChartObject.Height / 4000;
+ 1/4000 birimleri piksele nasıl dönüştürülür?
+Y Piksel Olarak = Y * Chart.ChartObject.Height / 4000;
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def y(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Legend](/cells/python-net/tr/aspose.cells.charts/legend)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Legend`](/cells/python-net/tr/aspose.cells.charts/legend)

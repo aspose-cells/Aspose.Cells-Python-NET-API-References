@@ -3,13 +3,13 @@ title: spid mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 920
+weight: 930
 url: /tr/aspose.cells.drawing/checkbox/spid/
 is_root: false
 ---
 ##  spid mülk
 
-Bir uygulamanın belirli şekli Tanımlamak için kullanabileceği isteğe bağlı bir dize belirtir.
+Bir uygulamanın belirli bir şekli tanımlamak için kullanabileceği isteğe bağlı bir dize belirtir.
 
 ###  Örnek
 
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CheckBox](/cells/python-net/tr/aspose.cells.drawing/checkbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CheckBox`](/cells/python-net/tr/aspose.cells.drawing/checkbox)

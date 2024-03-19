@@ -1,22 +1,22 @@
 ---
-title: string_value_without_format الملكية
+title: string_value_without_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 690
+weight: 720
 url: /ar/aspose.cells/cell/string_value_without_format/
 is_root: false
 ---
-##  string_value_without_format الملكية
+##  string_value_without_format عقار
 
-الحصول على قيمة الخلية كسلسلة بدون أي تنسيق.
+يحصل على قيمة الخلية كسلسلة بدون أي تنسيق.
 
 ###  ملاحظات
 
-ملاحظة: هذه الطريقة عفا عليها الزمن الآن. بدلاً من،
+ملاحظة: هذه الطريقة أصبحت الآن قديمة. بدلاً من،
 يجب على المستخدم الحصول على كائن القيمة وتنسيقه وفقًا لنوع القيمة والمتطلبات المحددة.
-ستتم إزالة هذا العقار بعد 12 شهرًا منذ ديسمبر 2020.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ ديسمبر 2020.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def string_value_without_format(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

@@ -1,9 +1,9 @@
 ---
 title: ColorType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1860
+weight: 1930
 url: /ru/aspose.cells/colortype/
 is_root: false
 ---
@@ -12,13 +12,13 @@ is_root: false
 
 
 
-Тип ColorType предоставляет следующие члены:
+Тип ColorType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | AUTOMATIC | Автоматический цвет.|
-| AUTOMATIC_INDEX | Это автоматический цвет, но отображаемый цвет зависит от настроек операционной системы.|
+| AUTOMATIC_INDEX | Это автоматический цвет, но отображаемый цвет зависит от настроек ОС.|
 | RGB | Цвет RGB.|
 | INDEXED_COLOR | Индекс цвета в цветовой палитре.|
 | THEME | Цвет темы.|
@@ -26,4 +26,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

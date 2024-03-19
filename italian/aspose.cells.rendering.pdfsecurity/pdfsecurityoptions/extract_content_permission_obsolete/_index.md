@@ -9,7 +9,14 @@ is_root: false
 ---
 ##  extract_content_permission_obsolete proprietà
 
-Autorizzazione a copiare o estrarre contenuto Obsoleto secondo riferimento PDF.
+Autorizzazione a copiare o estrarre contenuti Obsoleto secondo il riferimento PDF.
+
+###  Osservazioni
+
+NOTA: questo membro è ora obsoleto. Invece,
+utilizzare la proprietà ExtractContentPermission.
+ Questa proprietà verrà rimossa 12 mesi dopo a partire da settembre 2023.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +28,5 @@ def extract_content_permission_obsolete(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering.pdfsecurity](../../)
-* classe [PdfSecurityOptions](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modulo [`aspose.cells.rendering.pdfsecurity`](../../)
+* classe [`PdfSecurityOptions`](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

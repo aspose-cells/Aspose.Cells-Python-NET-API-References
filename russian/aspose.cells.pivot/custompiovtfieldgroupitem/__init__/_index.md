@@ -1,0 +1,30 @@
+---
+title: CustomPiovtFieldGroupItem конструктор
+second_title: Aspose.Cells for Python via .NET API Рекомендации
+description:
+type: docs
+weight: 10
+url: /ru/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/
+is_root: false
+---
+##  __в этом__ {#str-list}
+Конструктор элемента пользовательской группы сводного поля.
+
+
+
+```python
+def __init__(self, name, item_indexes):
+    ...
+```
+
+
+| Параметр| Тип| Описание|
+| :- | :- | :- |
+| name | str | Название группового элемента|
+| item_indexes | list | Все индексы элементов базового сводного поля.|
+
+
+
+###  Смотрите также
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`CustomPiovtFieldGroupItem`](/cells/python-net/ru/aspose.cells.pivot/custompiovtfieldgroupitem)

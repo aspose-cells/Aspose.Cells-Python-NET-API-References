@@ -1,27 +1,27 @@
 ---
 title: PivotItemCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 80
+weight: 150
 url: /ru/aspose.cells.pivot/pivotitemcollection/
 is_root: false
 ---
 ##  PivotItemCollection класс
-Представляет коллекцию всех объектов PivotItem в поле PivotField.
+Представляет коллекцию всех объектов PivotItem в PivotField.
 
 
 
-Тип PivotItemCollection предоставляет следующие члены:
+Тип PivotItemCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [count](/cells/python-net/ru/aspose.cells.pivot/pivotitemcollection/count) | Получает количество элементов сводки.|
+| [count](/cells/python-net/ru/aspose.cells.pivot/pivotitemcollection/count) | Получает количество элементов сводной таблицы.|
 
 
 
-Получает объект PivotItem по указанному индексу.
+Получает объект PivotItem по определенному индексу.
 ###  Индексатор
 | Имя| Описание|
 | :- | :- |
@@ -31,9 +31,9 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [changeitems_order(source_index, dest_index)](/cells/python-net/ru/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | Непосредственно изменяет порядок двух элементов.|
+| [changeitems_order](/cells/python-net/ru/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | Непосредственно меняет порядок двух элементов.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](..)
+* модуль [`aspose.cells.pivot`](..)

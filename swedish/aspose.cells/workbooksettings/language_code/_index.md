@@ -3,7 +3,7 @@ title: language_code fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 290
 url: /sv/aspose.cells/workbooksettings/language_code/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CountryCode](/cells/python-net/sv/aspose.cells/countrycode)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`CountryCode`](/cells/python-net/sv/aspose.cells/countrycode)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

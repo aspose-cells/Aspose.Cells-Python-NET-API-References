@@ -3,7 +3,7 @@ title: transparent Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 380
 url: /de/aspose.cells.rendering/imageorprintoptions/transparent/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Gibt an, ob der Hintergrund des generierten Bildes transparent sein soll.
 
 ###  Bemerkungen
 
-Der Standardwert ist falsch. Das bedeutet, dass der Hintergrund der generierten Bilder weiß ist.
+Der Standardwert ist false. Das bedeutet, dass der Hintergrund der erzeugten Bilder weiß ist.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def transparent(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [ImageOrPrintOptions](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`ImageOrPrintOptions`](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)

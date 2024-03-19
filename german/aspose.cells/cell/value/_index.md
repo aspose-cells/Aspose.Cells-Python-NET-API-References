@@ -3,13 +3,13 @@ title: value Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 710
+weight: 740
 url: /de/aspose.cells/cell/value/
 is_root: false
 ---
 ##  value Eigentum
 
-Ruft die in dieser Zelle enthaltene value ab.
+Ruft die in dieser Zelle enthaltene value ab bzw. legt sie fest.
 
 ###  Bemerkungen
 
@@ -18,7 +18,7 @@ Möglicher Typ:
 Null,
 
 
-Boolesch,
+Boolescher Wert,
 
 
 Terminzeit,
@@ -30,10 +30,10 @@ Doppelt,
 Ganze Zahl
 
 
-Schnur.
+Zeichenfolge.
 
 
-Für int value kann es als Integer-Objekt oder als Double-Objekt zurückgegeben werden.
+Für int value kann es als Integer-Objekt oder Double-Objekt zurückgegeben werden.
 Und es gibt keine Garantie dafür, dass die zurückgegebene value immer als derselbe Objekttyp beibehalten wird.
 ###  Definition:
 ```python
@@ -46,5 +46,5 @@ def value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

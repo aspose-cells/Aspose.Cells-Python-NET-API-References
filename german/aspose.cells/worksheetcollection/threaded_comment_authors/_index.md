@@ -3,7 +3,7 @@ title: threaded_comment_authors Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 350
+weight: 360
 url: /de/aspose.cells/worksheetcollection/threaded_comment_authors/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def threaded_comment_authors(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ThreadedCommentAuthorCollection](/cells/python-net/de/aspose.cells/threadedcommentauthorcollection)
-* Klasse [WorksheetCollection](/cells/python-net/de/aspose.cells/worksheetcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ThreadedCommentAuthorCollection`](/cells/python-net/de/aspose.cells/threadedcommentauthorcollection)
+* Klasse [`WorksheetCollection`](/cells/python-net/de/aspose.cells/worksheetcollection)

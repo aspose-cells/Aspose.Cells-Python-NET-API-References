@@ -3,14 +3,14 @@ title: export_cell_coordinate mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 190
 url: /tr/aspose.cells/htmlsaveoptions/export_cell_coordinate/
 is_root: false
 ---
 ##  export_cell_coordinate mülk
 
-Dosyayı html'ye kaydederken boş olmayan hücrelerin excel koordinatlarının dışa aktarılıp aktarılmadığını gösterir. Varsayılan değer yanlıştır.
-Çıktı html'sini excel'e aktarmak istiyorsanız, lütfen varsayılan değeri koruyun.
+Dosyayı html'ye kaydederken boş olmayan hücrelerin excel koordinatlarının dışa aktarılıp aktarılmayacağını belirtir. Varsayılan değer false'tur.
+Çıktı html'sini excel'e aktarmak istiyorsanız lütfen varsayılan değeri koruyun.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def export_cell_coordinate(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlSaveOptions](/cells/python-net/tr/aspose.cells/htmlsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlSaveOptions`](/cells/python-net/tr/aspose.cells/htmlsaveoptions)

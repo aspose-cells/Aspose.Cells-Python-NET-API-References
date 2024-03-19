@@ -1,16 +1,16 @@
 ---
-title: export_column_name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: export_column_name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 80
 url: /zh/aspose.cells/exporttableoptions/export_column_name/
 is_root: false
 ---
-## export_column_name 属性
+## export_column_name属性
 
-表示第一行的数据是否导出到DataTable的列名。
-默认值为假。
+是否将第一行的数据导出到DataTable的列名。
+默认值为 false。
 ### 定义：
 ```python
 @property
@@ -22,5 +22,5 @@ def export_column_name(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ExportTableOptions](/cells/python-net/zh/aspose.cells/exporttableoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`ExportTableOptions`](/cells/python-net/zh/aspose.cells/exporttableoptions)

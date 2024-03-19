@@ -1,13 +1,13 @@
 ---
-title: in_cell_drop_down 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: in_cell_drop_down属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 220
 url: /zh/aspose.cells/validation/in_cell_drop_down/
 is_root: false
 ---
-## in_cell_drop_down 属性
+## in_cell_drop_down属性
 
 指示数据验证是否显示包含可接受值的下拉列表。
 ### 定义：
@@ -21,5 +21,5 @@ def in_cell_drop_down(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Validation](/cells/python-net/zh/aspose.cells/validation)
+* 模块[`aspose.cells`](../../)
+* 类 [`Validation`](/cells/python-net/zh/aspose.cells/validation)

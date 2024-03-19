@@ -1,13 +1,13 @@
 ---
-title: entire_row 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: entire_row属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 310
 url: /zh/aspose.cells/range/entire_row/
 is_root: false
 ---
-## entire_row 属性
+## entire_row属性
 
 获取一个 Range 对象，该对象表示包含指定范围的整行（或多行）。
 ### 定义：
@@ -18,5 +18,5 @@ def entire_row(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Range](/cells/python-net/zh/aspose.cells/range)
+* 模块[`aspose.cells`](../../)
+* 类 [`Range`](/cells/python-net/zh/aspose.cells/range)

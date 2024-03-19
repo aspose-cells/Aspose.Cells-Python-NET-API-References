@@ -3,13 +3,13 @@ title: mso_drawing_type proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 790
+weight: 800
 url: /it/aspose.cells.drawing/button/mso_drawing_type/
 is_root: false
 ---
 ##  mso_drawing_type proprietà
 
-Ottiene il tipo di disegno mso.
+Ottiene il tipo di disegno MSO.
 
 ###  Esempio
 
@@ -26,6 +26,6 @@ def mso_drawing_type(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Button](/cells/python-net/it/aspose.cells.drawing/button)
-* classe [MsoDrawingType](/cells/python-net/it/aspose.cells.drawing/msodrawingtype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Button`](/cells/python-net/it/aspose.cells.drawing/button)
+* classe [`MsoDrawingType`](/cells/python-net/it/aspose.cells.drawing/msodrawingtype)

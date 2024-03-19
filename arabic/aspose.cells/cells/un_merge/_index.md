@@ -3,12 +3,12 @@ title: طريقة un_merge
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 940
+weight: 930
 url: /ar/aspose.cells/cells/un_merge/
 is_root: false
 ---
-##  un_merge(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
-يدمج نطاقًا محددًا من الخلايا المدمجة.
+##  un_merge {#int-int-int-int}
+إلغاء دمج نطاق محدد من الخلايا المدمجة.
 
 
 
@@ -22,11 +22,11 @@ def un_merge(self, first_row, first_column, total_rows, total_columns):
 | :- | :- | :- |
 | first_row | int | الصف الأول من هذا النطاق (على أساس الصفر)|
 | first_column | int | العمود الأول من هذا النطاق (على أساس الصفر)|
-| total_rows | int | عدد الصفوف (واحد على أساس)|
-| total_columns | int | عدد الأعمدة (واحد قائم)|
+| total_rows | int | عدد الصفوف (على أساس واحد)|
+| total_columns | int | عدد الأعمدة (واحد على أساس)|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

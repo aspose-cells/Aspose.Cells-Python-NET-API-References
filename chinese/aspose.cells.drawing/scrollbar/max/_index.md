@@ -1,13 +1,13 @@
 ---
-title: max 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: max属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 820
+weight: 830
 url: /zh/aspose.cells.drawing/scrollbar/max/
 is_root: false
 ---
-## max 属性
+## max属性
 
 获取或设置滚动条或微调器范围的最大值。
 ### 定义：
@@ -21,5 +21,5 @@ def max(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ScrollBar](/cells/python-net/zh/aspose.cells.drawing/scrollbar)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ScrollBar`](/cells/python-net/zh/aspose.cells.drawing/scrollbar)

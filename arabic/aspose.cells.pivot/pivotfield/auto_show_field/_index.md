@@ -1,15 +1,15 @@
 ---
-title: auto_show_field الملكية
+title: auto_show_field عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 190
 url: /ar/aspose.cells.pivot/pivotfield/auto_show_field/
 is_root: false
 ---
-##  auto_show_field الملكية
+##  auto_show_field عقار
 
-يمثل مؤشر حقل العرض التلقائي. -1 تعني PivotField نفسها.
+يمثل فهرس حقل العرض التلقائي. -1 يعني PivotField نفسه.
 يجب أن يكون فهرس حقول البيانات.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def auto_show_field(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

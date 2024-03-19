@@ -1,15 +1,15 @@
 ---
-title: is_minimized الملكية
+title: is_minimized عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 260
 url: /ar/aspose.cells/workbooksettings/is_minimized/
 is_root: false
 ---
-##  is_minimized الملكية
+##  is_minimized عقار
 
-يمثل ما إذا كان سيتم فتح جدول البيانات الذي تم إنشاؤه مصغرًا.
+يمثل ما إذا كان سيتم فتح جدول البيانات الذي تم إنشاؤه بشكل مصغر.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_minimized(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

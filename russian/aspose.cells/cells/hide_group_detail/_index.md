@@ -1,13 +1,13 @@
 ---
 title: hide_group_detail метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 580
+weight: 570
 url: /ru/aspose.cells/cells/hide_group_detail/
 is_root: false
 ---
-##  hide_group_detail(is_vertical, index) {#bool-int}
+##  hide_group_detail {#bool-int}
 Сворачивает сгруппированные строки/столбцы.
 
 
@@ -26,5 +26,5 @@ def hide_group_detail(self, is_vertical, index):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

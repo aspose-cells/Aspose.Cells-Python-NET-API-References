@@ -1,14 +1,14 @@
 ---
-title: to_image méthode
+title: méthode to_image
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 210
+weight: 230
 url: /fr/aspose.cells.drawing/dialogbox/to_image/
 is_root: false
 ---
-##  to_image(stream, image_type) {#io.RawIOBase-ImageType}
-Crée l'image de la forme et l'enregistre dans un flux au format spécifié.
+##  to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
+Crée l'image de forme et l'enregistre dans un flux au format spécifié.
 
 
 
@@ -21,7 +21,7 @@ def to_image(self, stream, image_type):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | stream | io.RawIOBase | Le flux de sortie.|
-| image_type | [ImageType](/cells/python-net/fr/aspose.cells.drawing/imagetype) | Le type dans lequel enregistrer l'image.|
+| image_type | [`ImageType`](/cells/python-net/fr/aspose.cells.drawing/imagetype) | Le type dans lequel enregistrer l’image.|
 ###  Remarques
 
 Les formats suivants sont pris en charge :
@@ -38,7 +38,7 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-##  to_image(image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Enregistre la forme dans un fichier.
 
 
@@ -65,7 +65,7 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 Enregistre la forme dans un flux.
 
 
@@ -96,5 +96,5 @@ shape.to_image(imageStream, op)
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [DialogBox](/cells/python-net/fr/aspose.cells.drawing/dialogbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`DialogBox`](/cells/python-net/fr/aspose.cells.drawing/dialogbox)

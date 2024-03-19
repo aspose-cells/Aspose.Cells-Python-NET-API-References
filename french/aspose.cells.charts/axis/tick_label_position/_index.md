@@ -3,13 +3,13 @@ title: tick_label_position propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 370
+weight: 380
 url: /fr/aspose.cells.charts/axis/tick_label_position/
 is_root: false
 ---
 ##  tick_label_position propriété
 
-Représente la position des étiquettes de graduation sur l'axe spécifié.
+Représente la position des étiquettes de graduation sur l’axe spécifié.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def tick_label_position(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/fr/aspose.cells.charts/axis)
-* classe [TickLabelPositionType](/cells/python-net/fr/aspose.cells.charts/ticklabelpositiontype)
+* module [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/fr/aspose.cells.charts/axis)
+* classe [`TickLabelPositionType`](/cells/python-net/fr/aspose.cells.charts/ticklabelpositiontype)

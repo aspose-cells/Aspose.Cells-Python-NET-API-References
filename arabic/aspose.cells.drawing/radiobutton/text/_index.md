@@ -1,15 +1,15 @@
 ---
-title: text الملكية
+title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 940
+weight: 960
 url: /ar/aspose.cells.drawing/radiobutton/text/
 is_root: false
 ---
-##  text الملكية
+##  text عقار
 
-يمثل السلسلة في كائن TextBox هذا.
+يمثل السلسلة الموجودة في كائن TextBox هذا.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

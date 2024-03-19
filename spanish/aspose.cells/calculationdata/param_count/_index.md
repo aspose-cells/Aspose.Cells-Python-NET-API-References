@@ -3,7 +3,7 @@ title: param_count propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 100
+weight: 110
 url: /es/aspose.cells/calculationdata/param_count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def param_count(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CalculationData](/cells/python-net/es/aspose.cells/calculationdata)
+* módulo [`aspose.cells`](../../)
+* clase [`CalculationData`](/cells/python-net/es/aspose.cells/calculationdata)

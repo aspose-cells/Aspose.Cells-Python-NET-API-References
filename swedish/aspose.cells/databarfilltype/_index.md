@@ -3,7 +3,7 @@ title: DataBarFillType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1920
+weight: 1990
 url: /sv/aspose.cells/databarfilltype/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Typen DataBarFillType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

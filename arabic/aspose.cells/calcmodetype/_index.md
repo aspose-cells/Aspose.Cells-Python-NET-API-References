@@ -1,18 +1,18 @@
 ---
-title: العد CalcModeType
+title: CalcModeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1810
+weight: 1880
 url: /ar/aspose.cells/calcmodetype/
 is_root: false
 ---
-##  العد CalcModeType
-يمثل نوع وضع حساب الصيغ.
+##  CalcModeType التعداد
+يمثل نوع الوضع لحساب الصيغ.
 
 
 
-يكشف نوع CalcModeType الأعضاء التالية:
+يكشف النوع CalcModeType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -25,7 +25,7 @@ is_root: false
 
 ###  ملاحظات
 
-مجموعات فقط لبرنامج MS Excel.
+مجموعات فقط لـ MS Excel.
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -1,13 +1,13 @@
 ---
-title: number الملكية
+title: number عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells.charts/ticklabels/number/
 is_root: false
 ---
-##  number الملكية
+##  number عقار
 
 يمثل التنسيق number لكائن TickLabels.
 ###  تعريف:
@@ -21,5 +21,5 @@ def number(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [TickLabels](/cells/python-net/ar/aspose.cells.charts/ticklabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`TickLabels`](/cells/python-net/ar/aspose.cells.charts/ticklabels)

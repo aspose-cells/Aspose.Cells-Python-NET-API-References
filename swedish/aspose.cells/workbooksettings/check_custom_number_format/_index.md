@@ -3,7 +3,7 @@ title: check_custom_number_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 100
 url: /sv/aspose.cells/workbooksettings/check_custom_number_format/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def check_custom_number_format(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

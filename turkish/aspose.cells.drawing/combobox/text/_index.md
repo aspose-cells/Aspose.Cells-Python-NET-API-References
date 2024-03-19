@@ -3,7 +3,7 @@ title: text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 960
+weight: 970
 url: /tr/aspose.cells.drawing/combobox/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ComboBox](/cells/python-net/tr/aspose.cells.drawing/combobox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ComboBox`](/cells/python-net/tr/aspose.cells.drawing/combobox)

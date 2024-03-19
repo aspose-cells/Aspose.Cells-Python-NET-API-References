@@ -1,15 +1,15 @@
 ---
-title: is_automatic_min_value الملكية
+title: is_automatic_min_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 210
 url: /ar/aspose.cells.charts/axis/is_automatic_min_value/
 is_root: false
 ---
-##  is_automatic_min_value الملكية
+##  is_automatic_min_value عقار
 
-يشير إلى ما إذا كان يتم تعيين القيمة الدنيا تلقائيًا.
+يشير إلى ما إذا تم تعيين القيمة الدنيا تلقائيًا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_automatic_min_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)

@@ -1,9 +1,9 @@
 ---
 title: Hyperlink类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 790
+weight: 840
 url: /zh/aspose.cells/hyperlink/
 is_root: false
 ---
@@ -12,13 +12,13 @@ is_root: false
 
 
 
-Hyperlink 类型公开了以下成员：
+Hyperlink 类型公开以下成员：
 
 ### 特性
 |属性|描述|
 | :- | :- |
 | [address](/cells/python-net/zh/aspose.cells/hyperlink/address) |表示超链接的地址。|
-| [text_to_display](/cells/python-net/zh/aspose.cells/hyperlink/text_to_display) |表示要为指定超链接显示的文本。默认值是超链接的地址。|
+| [text_to_display](/cells/python-net/zh/aspose.cells/hyperlink/text_to_display) |表示要为指定的超链接显示的文本。默认值是超链接的地址。|
 | [area](/cells/python-net/zh/aspose.cells/hyperlink/area) |获取超链接的范围。|
 | [screen_tip](/cells/python-net/zh/aspose.cells/hyperlink/screen_tip) |返回或设置指定超链接的屏幕提示文本。|
 | [link_type](/cells/python-net/zh/aspose.cells/hyperlink/link_type) |获取链接类型。|
@@ -27,7 +27,7 @@ Hyperlink 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [delete()](/cells/python-net/zh/aspose.cells/hyperlink/delete/#) |删除此超链接|
+| [delete](/cells/python-net/zh/aspose.cells/hyperlink/delete/#) |删除该超链接|
 
 
 
@@ -54,4 +54,4 @@ workbook.save("book1.xls")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

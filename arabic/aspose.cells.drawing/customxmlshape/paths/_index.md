@@ -1,15 +1,15 @@
 ---
-title: paths الملكية
+title: paths عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 810
+weight: 820
 url: /ar/aspose.cells.drawing/customxmlshape/paths/
 is_root: false
 ---
-##  paths الملكية
+##  paths عقار
 
-الحصول على paths للشكل الهندسي المخصص.
+يحصل على paths لشكل هندسي مخصص.
 
 ###  مثال
 
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CustomXmlShape](/cells/python-net/ar/aspose.cells.drawing/customxmlshape)
-* فئة [ShapePathCollection](/cells/python-net/ar/aspose.cells.drawing/shapepathcollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CustomXmlShape`](/cells/python-net/ar/aspose.cells.drawing/customxmlshape)
+* فئة [`ShapePathCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepathcollection)

@@ -1,57 +1,57 @@
 ---
-title: SparklineGroup الدرجة
+title: SparklineGroup صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 290
 url: /ar/aspose.cells.charts/sparklinegroup/
 is_root: false
 ---
-##  SparklineGroup الدرجة
-[Sparkline](/cells/python-net/ar/aspose.cells.charts/sparkline) منظم في مجموعة خط المؤشر. يحتوي SparklineGroup على عدد متغير من عناصر خط المؤشر.
-تحدد مجموعة خط المؤشر النوع وإعدادات العرض وإعدادات المحور لخطوط المؤشرات.
+##  SparklineGroup صف
+[`Sparkline`](/cells/python-net/ar/aspose.cells.charts/sparkline) منظم في مجموعة لامعة. يحتوي الرقم SparklineGroup على عدد متغير من عناصر خط المؤشر.
+تحدد مجموعة خطوط المؤشر النوع وإعدادات العرض وإعدادات المحور لخطوط المؤشرات.
 
 
 
-يكشف نوع SparklineGroup الأعضاء التالية:
+يكشف النوع SparklineGroup عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [preset_style](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/preset_style) | الحصول على نوع النمط المعين مسبقًا لمجموعة خط المؤشر وتعيينه.|
-| [sparkline_collection](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/sparkline_collection) | الحصول على مجموعة عنصر [Sparkline](/cells/python-net/ar/aspose.cells.charts/sparkline).|
-| [sparklines](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/sparklines) | الحصول على مجموعة عنصر [Sparkline](/cells/python-net/ar/aspose.cells.charts/sparkline).|
+| [preset_style](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/preset_style) |الحصول على نوع النمط المحدد مسبقًا لمجموعة الخطوط المميزة وتعيينه.|
+| [sparkline_collection](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/sparkline_collection) | الحصول على مجموعة كائن [`Sparkline`](/cells/python-net/ar/aspose.cells.charts/sparkline).|
+| [sparklines](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/sparklines) | الحصول على مجموعة كائن [`Sparkline`](/cells/python-net/ar/aspose.cells.charts/sparkline).|
 | [type](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/type) | يشير إلى نوع خط المؤشر لمجموعة خط المؤشر.|
 | [plot_empty_cells_type](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/plot_empty_cells_type) | يشير إلى كيفية رسم الخلايا الفارغة.|
-| [display_hidden](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/display_hidden) |يشير إلى ما إذا كان سيتم إظهار البيانات في صفوف وأعمدة مخفية.|
-| [show_high_point](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_high_point) | يشير إلى ما إذا كان سيتم تمييز أعلى نقاط البيانات في مجموعة خط المؤشر أم لا.|
+| [display_hidden](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/display_hidden) | يشير إلى ما إذا كان سيتم إظهار البيانات في الصفوف والأعمدة المخفية.|
+| [show_high_point](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_high_point) | يشير إلى ما إذا كان سيتم تمييز أعلى نقاط البيانات في مجموعة خط المؤشر.|
 | [high_point_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/high_point_color) | الحصول على لون أعلى نقاط البيانات في مجموعة خط المؤشر وتعيينه.|
-| [show_low_point](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_low_point) | يشير إلى ما إذا كان سيتم تمييز أدنى نقاط البيانات في مجموعة خط المؤشر أم لا.|
+| [show_low_point](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_low_point) | يشير إلى ما إذا كان سيتم تمييز أدنى نقاط البيانات في مجموعة خط المؤشر.|
 | [low_point_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/low_point_color) | الحصول على لون أدنى نقاط البيانات في مجموعة خط المؤشر وتعيينه.|
-| [show_negative_points](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_negative_points) | يشير إلى ما إذا كان سيتم إبراز القيم السالبة في مجموعة خط المؤشر بلون أو علامة مختلفة.|
+| [show_negative_points](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_negative_points) | يشير إلى ما إذا كان سيتم تمييز القيم السالبة في مجموعة خطوط المؤشر بلون أو علامة مختلفة.|
 | [negative_points_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/negative_points_color) | الحصول على لون القيم السالبة في مجموعة خط المؤشر وتعيينه.|
-| [show_first_point](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_first_point) | يشير إلى ما إذا كان سيتم تمييز النقطة الأولى من البيانات في مجموعة خط المؤشر أم لا.|
-| [first_point_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/first_point_color) | الحصول على لون النقطة الأولى من البيانات وتعيينه في مجموعة خط المؤشر.|
-| [show_last_point](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_last_point) | يشير إلى ما إذا كان سيتم تمييز النقطة الأخيرة من البيانات في مجموعة خط المؤشر أم لا.|
-| [last_point_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/last_point_color) | الحصول على لون النقطة الأخيرة من البيانات وتعيينه في مجموعة خط المؤشر.|
-| [show_markers](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_markers) |يشير إلى ما إذا كان سيتم تمييز كل نقطة في كل خط مؤشر في مجموعة خط المؤشر.|
-| [markers_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/markers_color) | الحصول على لون النقاط وتعيينه في كل خط مؤشر في مجموعة خط المؤشر.|
-| [series_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/series_color) | الحصول على لون خطوط المؤشرات في مجموعة خط المؤشر وتعيينه.|
-| [plot_right_to_left](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/plot_right_to_left) | يشير إلى ما إذا كانت بيانات الرسم البياني من اليمين إلى اليسار.|
-| [line_weight](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/line_weight) | الحصول على سمك الخط وتعيينه في كل خط مؤشر في مجموعة خط المؤشر ، في وحدة النقاط.|
-| [horizontal_axis_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/horizontal_axis_color) | الحصول على لون المحور الأفقي وتعيينه في مجموعة خط المؤشر.|
-| [show_horizontal_axis](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_horizontal_axis) | يشير إلى ما إذا كان سيتم إظهار المحور الأفقي لخط المؤشر أم لا.<br/> يظهر المحور الأفقي إذا كان خط المؤشر يحتوي على بيانات تعبر محور الصفر.|
+| [show_first_point](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_first_point) | يشير إلى ما إذا كان سيتم تمييز النقطة الأولى من البيانات في مجموعة خط المؤشر.|
+| [first_point_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/first_point_color) | الحصول على لون النقطة الأولى من البيانات في مجموعة خط المؤشر وتعيينه.|
+| [show_last_point](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_last_point) |يشير إلى ما إذا كان سيتم تمييز النقطة الأخيرة من البيانات في مجموعة خط المؤشر.|
+| [last_point_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/last_point_color) | الحصول على لون آخر نقطة من البيانات في مجموعة خط المؤشر وتعيينه.|
+| [show_markers](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_markers) | يشير إلى ما إذا كان سيتم تمييز كل نقطة في كل خط مؤشر في مجموعة خطوط المؤشر.|
+| [markers_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/markers_color) | الحصول على لون النقاط في كل سطر من خط المؤشر في مجموعة خطوط المؤشر وتعيينه.|
+| [series_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/series_color) | الحصول على لون خطوط المؤشرات في مجموعة خطوط المؤشرات وتعيينها.|
+| [plot_right_to_left](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/plot_right_to_left) | يشير إلى ما إذا كانت بيانات المؤامرة من اليمين إلى اليسار.|
+| [line_weight](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/line_weight) | الحصول على وزن الخط وتعيينه في كل خط من خطوط المؤشر في مجموعة خطوط المؤشر، بوحدة النقاط.|
+| [horizontal_axis_color](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/horizontal_axis_color) | الحصول على لون المحور الأفقي في مجموعة خطوط المؤشر وتعيينه.|
+| [show_horizontal_axis](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/show_horizontal_axis) | يشير إلى ما إذا كان سيتم إظهار المحور الأفقي لخط المؤشر.<br/> يظهر المحور الأفقي إذا كان خط المؤشر يحتوي على بيانات تعبر محور الصفر.|
 | [horizontal_axis_date_range](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/horizontal_axis_date_range) | يمثل النطاق الذي يحتوي على قيم التاريخ لبيانات خط المؤشر.|
-| [vertical_axis_max_value_type](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/vertical_axis_max_value_type) | يمثل نوع القيمة القصوى للمحور العمودي.|
-| [vertical_axis_max_value](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/vertical_axis_max_value) | الحصول على القيمة القصوى المخصصة للمحور العمودي وتعيينها.|
-| [vertical_axis_min_value_type](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/vertical_axis_min_value_type) | يمثل الحد الأدنى لنوع قيمة المحور الرأسي.|
+| [vertical_axis_max_value_type](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/vertical_axis_max_value_type) | يمثل نوع القيمة القصوى للمحور الرأسي.|
+| [vertical_axis_max_value](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/vertical_axis_max_value) |الحصول على القيمة القصوى المخصصة للمحور العمودي وتعيينها.|
+| [vertical_axis_min_value_type](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/vertical_axis_min_value_type) | يمثل نوع القيمة الدنيا للمحور العمودي.|
 | [vertical_axis_min_value](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/vertical_axis_min_value) | الحصول على القيمة الدنيا المخصصة للمحور العمودي وتعيينها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [reset_ranges(data_range, is_vertical, location_range)](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/reset_ranges/#str-bool-CellArea) |يعيد تعيين نطاق البيانات ونطاق الموقع لمجموعة خط المؤشر.<br/> ستعمل هذه الطريقة على مسح عناصر خط المؤشر الأصلية في المجموعة وإنشاء عناصر خط مؤشر جديدة للنطاقات الجديدة.|
+| [reset_ranges](/cells/python-net/ar/aspose.cells.charts/sparklinegroup/reset_ranges/#str-bool-aspose.cells.CellArea) | يعيد تعيين نطاق البيانات ونطاق الموقع لمجموعة الخطوط المؤشرة.<br/> ستقوم هذه الطريقة بمسح عناصر الخطوط المميزة الأصلية في المجموعة وإنشاء عناصر خطوط المؤشرات الجديدة للنطاقات الجديدة.|
 
 
 
@@ -93,5 +93,5 @@ book.save("output.xlsx", SaveFormat.XLSX)
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
-* فئة [Sparkline](/cells/python-net/ar/aspose.cells.charts/sparkline)
+* الوحدة [`aspose.cells.charts`](..)
+* فئة [`Sparkline`](/cells/python-net/ar/aspose.cells.charts/sparkline)

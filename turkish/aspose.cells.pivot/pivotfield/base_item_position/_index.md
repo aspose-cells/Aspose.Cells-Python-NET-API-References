@@ -3,7 +3,7 @@ title: base_item_position mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 240
 url: /tr/aspose.cells.pivot/pivotfield/base_item_position/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 Özel bir hesaplama için temel alandaki öğeyi temsil eder.
  Yalnızca veri alanları için geçerlidir.
-PivotItemPosition.Custom yalnızca okuma amaçlı olduğundan, PivotItemPosition.Custom'u ayarlamanız gerekirse,
+PivotItemPosition.Custom yalnızca okuma amaçlı olduğundan, PivotItemPosition.Custom'u ayarlamanız gerekiyorsa,
 lütfen PivotField.BaseItemIndex niteliğini ayarlayın.
 ###  Tanım:
 ```python
@@ -24,6 +24,6 @@ def base_item_position(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotField](/cells/python-net/tr/aspose.cells.pivot/pivotfield)
-* sınıf [PivotItemPosition](/cells/python-net/tr/aspose.cells.pivot/pivotitemposition)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield)
+* sınıf [`PivotItemPosition`](/cells/python-net/tr/aspose.cells.pivot/pivotitemposition)

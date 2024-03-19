@@ -3,14 +3,14 @@ title: placement proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 840
+weight: 860
 url: /it/aspose.cells.drawing/radiobutton/placement/
 is_root: false
 ---
 ##  placement proprietà
 
 Rappresenta il modo in cui l'oggetto di disegno è collegato alle celle sottostanti.
-La proprietà controlla il placement di un oggetto in un foglio di lavoro.
+La proprietà controlla lo placement di un oggetto su un foglio di lavoro.
 
 ###  Esempio
 
@@ -32,6 +32,6 @@ def placement(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [PlacementType](/cells/python-net/it/aspose.cells.drawing/placementtype)
-* classe [RadioButton](/cells/python-net/it/aspose.cells.drawing/radiobutton)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`PlacementType`](/cells/python-net/it/aspose.cells.drawing/placementtype)
+* classe [`RadioButton`](/cells/python-net/it/aspose.cells.drawing/radiobutton)

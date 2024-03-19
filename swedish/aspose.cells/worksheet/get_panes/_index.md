@@ -3,11 +3,11 @@ title: get_panes metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 160
 url: /sv/aspose.cells/worksheet/get_panes/
 is_root: false
 ---
-##  get_panes() {#}
+##  get_panes {#}
 Får fönsterrutorna.
 
 
@@ -25,5 +25,5 @@ Om fönstret inte är kluvet eller fruset.
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

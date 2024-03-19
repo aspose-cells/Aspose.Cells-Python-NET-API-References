@@ -3,13 +3,13 @@ title: default_style fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 540
+weight: 550
 url: /sv/aspose.cells/workbook/default_style/
 is_root: false
 ---
 ##  default_style fastighet
 
-Hämtar eller ställer in standardobjektet [Style](/cells/python-net/sv/aspose.cells/style) för arbetsboken.
+Hämtar eller ställer in standardobjektet [`Style`](/cells/python-net/sv/aspose.cells/style) för arbetsboken.
 
 ###  Anmärkningar
 
@@ -17,7 +17,7 @@ Egenskapen DefaultStyle är användbar för att implementera en stil för hela a
 
 ###  Exempel
 
-Följande kod skapar och instansierar en ny arbetsbok och anger standardvärdet [Style](/cells/python-net/sv/aspose.cells/style) för den.
+Följande kod skapar och instansierar en ny arbetsbok och anger standardvärdet [`Style`](/cells/python-net/sv/aspose.cells/style) för den.
 
 ```python
 from aspose.cells import Workbook
@@ -39,6 +39,6 @@ def default_style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

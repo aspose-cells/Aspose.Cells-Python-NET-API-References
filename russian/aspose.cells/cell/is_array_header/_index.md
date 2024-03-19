@@ -1,15 +1,15 @@
 ---
 title: is_array_header недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 520
+weight: 550
 url: /ru/aspose.cells/cell/is_array_header/
 is_root: false
 ---
 ##  is_array_header недвижимость
 
- Указывает, что формула ячейки и формула массива
+ Указывает, что формула ячейки является формулой массива.
 и это первая ячейка массива.
 ###  Определение:
 ```python
@@ -19,5 +19,5 @@ def is_array_header(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

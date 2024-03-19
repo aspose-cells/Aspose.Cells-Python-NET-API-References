@@ -3,7 +3,7 @@ title: drag_to_data fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 290
 url: /sv/aspose.cells.pivot/pivotfield/drag_to_data/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def drag_to_data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotField](/cells/python-net/sv/aspose.cells.pivot/pivotfield)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield)

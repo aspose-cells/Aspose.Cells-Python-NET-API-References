@@ -3,7 +3,7 @@ title: check_excel_restriction fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 110
 url: /sv/aspose.cells/workbooksettings/check_excel_restriction/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 Om kontrollera begränsning av excel-fil när användaren ändrar cellrelaterade objekt.
 Till exempel tillåter excel inte inmatning av strängvärden som är längre än 32K.
-När du matar in ett värde som är längre än 32K, till exempel Cell.PutValue(string), får du ett undantag om den här egenskapen är sann.
+När du matar in ett värde som är längre än 32K, t.ex. Cell.PutValue(string), får du ett undantag om den här egenskapen är sann.
 Om den här egenskapen är falsk kommer vi att acceptera ditt inmatade strängvärde som cellens värde så att senare
 du kan mata ut hela strängvärdet för andra filformat som CSV.
 Men om du har angett en sådan typ av värde som är ogiltigt för Excel-filformat,
@@ -27,5 +27,5 @@ def check_excel_restriction(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

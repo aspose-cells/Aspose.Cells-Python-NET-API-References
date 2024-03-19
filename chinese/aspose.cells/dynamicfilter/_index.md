@@ -1,18 +1,18 @@
 ---
 title: DynamicFilter类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 510
+weight: 530
 url: /zh/aspose.cells/dynamicfilter/
 is_root: false
 ---
 ## DynamicFilter类
-表示动态过滤器。
+代表动态滤波器。
 
 
 
-DynamicFilter 类型公开了以下成员：
+DynamicFilter 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -24,4 +24,4 @@ DynamicFilter 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

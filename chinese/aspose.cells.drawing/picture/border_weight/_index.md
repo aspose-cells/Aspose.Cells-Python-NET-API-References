@@ -1,15 +1,15 @@
 ---
-title: border_weight 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: border_weight属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 320
+weight: 340
 url: /zh/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
-## border_weight 属性
+## border_weight属性
 
-获取或设置图片边框线的粗细，单位为pt。
+获取或设置图片边框线的粗细，以 pt 为单位。
 
 ### 例子
 
@@ -27,7 +27,7 @@ pic = worksheet.pictures[imgIndex]
 # Set the border color of the picture
 pic.border_line_color = Color.red
 # Set the border width of the picture
-pic.border_weight = 3
+pic.border_weight = 3.0
 # Save the excel file.
 workbook.save("result.xlsx")
 
@@ -43,5 +43,5 @@ def border_weight(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Picture](/cells/python-net/zh/aspose.cells.drawing/picture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)

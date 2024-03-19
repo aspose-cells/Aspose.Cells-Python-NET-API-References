@@ -1,27 +1,27 @@
 ---
 title: DropBars类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 140
+weight: 150
 url: /zh/aspose.cells.charts/dropbars/
 is_root: false
 ---
 ## DropBars类
-代表图表中的上/下柱。
+代表图表中的向上/向下条形。
 
 
 
-DropBars 类型公开了以下成员：
+DropBars 类型公开以下成员：
 
 ### 特性
 |属性|描述|
 | :- | :- |
-| [border](/cells/python-net/zh/aspose.cells.charts/dropbars/border) |获取边框 [Line](/cells/python-net/zh/aspose.cells.drawing/line)。|
-| [area](/cells/python-net/zh/aspose.cells.charts/dropbars/area) |获取 [DropBars.area](/cells/python-net/zh/aspose.cells.charts/dropbars#area)。|
+| [border](/cells/python-net/zh/aspose.cells.charts/dropbars/border) |获取边界[`Line`](/cells/python-net/zh/aspose.cells.drawing/line)。|
+| [area](/cells/python-net/zh/aspose.cells.charts/dropbars/area) |获取[`DropBars.area`](/cells/python-net/zh/aspose.cells.charts/dropbars#area)。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
-* 类 [Line](/cells/python-net/zh/aspose.cells.drawing/line)
+* 模块[`aspose.cells.charts`](..)
+* 类 [`Line`](/cells/python-net/zh/aspose.cells.drawing/line)

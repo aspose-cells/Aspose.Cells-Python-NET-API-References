@@ -3,7 +3,7 @@ title: cell_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 80
+weight: 90
 url: /de/aspose.cells/calculationdata/cell_row/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def cell_row(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CalculationData](/cells/python-net/de/aspose.cells/calculationdata)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CalculationData`](/cells/python-net/de/aspose.cells/calculationdata)

@@ -1,15 +1,15 @@
 ---
-title: input_range الملكية
+title: input_range عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 620
+weight: 630
 url: /ar/aspose.cells.drawing/oleobject/input_range/
 is_root: false
 ---
-##  input_range الملكية
+##  input_range عقار
 
-الحصول على أو تعيين نطاق ورقة العمل المستخدم لتعبئة مربع التحرير والسرد المحدد.
+الحصول على أو تعيين نطاق ورقة العمل المستخدم لملء مربع التحرير والسرد المحدد.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def input_range(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

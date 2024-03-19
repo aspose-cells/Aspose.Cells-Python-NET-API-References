@@ -3,7 +3,7 @@ title: PdfSaveOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1180
+weight: 1220
 url: /sv/aspose.cells/pdfsaveoptions/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Representerar alternativen för att spara pdf-fil.
 
 
 
-**Arv:** [PdfSaveOptions](/cells/python-net/aspose.cells/pdfsaveoptions) → 
-[PaginatedSaveOptions](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
-[SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
+**Arv:** [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions) → 
+[`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
+[`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)
 
 
 
@@ -23,7 +23,7 @@ Typen PdfSaveOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [PdfSaveOptions()](/cells/python-net/sv/aspose.cells/pdfsaveoptions/__init__/#) | Skapar alternativen för att spara pdf-fil.|
+| [__init__](/cells/python-net/sv/aspose.cells/pdfsaveoptions/__init__/#) | Skapar alternativen för att spara pdf-fil.|
 
 
 ###  Egenskaper
@@ -36,14 +36,14 @@ Typen PdfSaveOptions avslöjar följande medlemmar:
 | [merge_areas](/cells/python-net/sv/aspose.cells/pdfsaveoptions/merge_areas) | Anger om områdena för villkorlig formatering och validering ska slås samman innan filen sparas.|
 | [create_directory](/cells/python-net/sv/aspose.cells/pdfsaveoptions/create_directory) | Om sant och katalogen inte finns skapas katalogen automatiskt innan filen sparas.|
 | [sort_names](/cells/python-net/sv/aspose.cells/pdfsaveoptions/sort_names) | Anger om du sorterar definierade namn innan filen sparas.|
-| [sort_external_names](/cells/python-net/sv/aspose.cells/pdfsaveoptions/sort_external_names) |Anger om externt definierade namn sorteras innan filen sparas.|
+| [sort_external_names](/cells/python-net/sv/aspose.cells/pdfsaveoptions/sort_external_names) | Anger om externt definierade namn sorteras innan filen sparas.|
 | [refresh_chart_cache](/cells/python-net/sv/aspose.cells/pdfsaveoptions/refresh_chart_cache) | Anger om diagramcachedata uppdateras|
 | [warning_callback](/cells/python-net/sv/aspose.cells/pdfsaveoptions/warning_callback) | Får eller ställer in varningsåteruppringning.|
 | [update_smart_art](/cells/python-net/sv/aspose.cells/pdfsaveoptions/update_smart_art) | Indikerar om inställningen för smart konst uppdateras.<br/> Standardvärdet är falskt.|
 | [default_font](/cells/python-net/sv/aspose.cells/pdfsaveoptions/default_font) | När tecken i Excel är Unicode och inte är inställda med korrekt typsnitt i cellstil,<br/>De kan visas som block i pdf, bild.<br/>Ställ in standardteckensnittet som MingLiu eller MS Gothic för att visa dessa tecken.<br/> Om den här egenskapen inte är inställd kommer Aspose.Cells att använda systemets standardteckensnitt för att visa dessa unicode-tecken.|
 | [check_workbook_default_font](/cells/python-net/sv/aspose.cells/pdfsaveoptions/check_workbook_default_font) | När tecken i Excel är Unicode och inte är inställda med korrekt typsnitt i cellstil,<br/>De kan visas som block i pdf, bild.<br/> Ställ in detta på sant för att försöka använda arbetsbokens standardteckensnitt för att visa dessa tecken först.|
-| [check_font_compatibility](/cells/python-net/sv/aspose.cells/pdfsaveoptions/check_font_compatibility) |Anger om teckensnittskompatibilitet ska kontrolleras för varje tecken i texten.|
-| [is_font_substitution_char_granularity](/cells/python-net/sv/aspose.cells/pdfsaveoptions/is_font_substitution_char_granularity) | Indikerar om teckensnittet endast ska bytas ut när cellteckensnittet inte är kompatibelt med det.|
+| [check_font_compatibility](/cells/python-net/sv/aspose.cells/pdfsaveoptions/check_font_compatibility) | Anger om teckensnittskompatibilitet ska kontrolleras för varje tecken i texten.|
+| [is_font_substitution_char_granularity](/cells/python-net/sv/aspose.cells/pdfsaveoptions/is_font_substitution_char_granularity) |Indikerar om teckensnittet endast ska bytas ut när cellteckensnittet inte är kompatibelt med det.|
 | [one_page_per_sheet](/cells/python-net/sv/aspose.cells/pdfsaveoptions/one_page_per_sheet) | Om OnePagePerSheet är sant , kommer allt innehåll på ett ark endast att matas ut till en sida som resultat.<br/> Pappersstorleken för sidinställningarna kommer att vara ogiltig, och de andra inställningarna för sidinställningarna<br/> kommer fortfarande att träda i kraft.|
 | [all_columns_in_one_page_per_sheet](/cells/python-net/sv/aspose.cells/pdfsaveoptions/all_columns_in_one_page_per_sheet) | Om AllColumnsInOnePagePerSheet är sant , kommer allt kolumninnehåll i ett ark att matas ut till endast en sida i resultat.<br/> Bredden på pappersstorleken för sidinställningarna ignoreras, och de andra inställningarna för sidinställningarna<br/> kommer fortfarande att träda i kraft.|
 | [ignore_error](/cells/python-net/sv/aspose.cells/pdfsaveoptions/ignore_error) | Indikerar om du behöver dölja felet under renderingen.<br/> Felet kan vara fel i form, bild, diagramrendering, etc.|
@@ -54,37 +54,38 @@ Typen PdfSaveOptions avslöjar följande medlemmar:
 | [gridline_type](/cells/python-net/sv/aspose.cells/pdfsaveoptions/gridline_type) | Hämtar eller ställer in rutnätstyp.|
 | [text_cross_type](/cells/python-net/sv/aspose.cells/pdfsaveoptions/text_cross_type) | Hämtar eller ställer in visning av texttyp när textbredden är större än cellbredden.|
 | [default_edit_language](/cells/python-net/sv/aspose.cells/pdfsaveoptions/default_edit_language) | Hämtar eller ställer in standardspråk för redigering.|
-| [sheet_set](/cells/python-net/sv/aspose.cells/pdfsaveoptions/sheet_set) |Hämtar eller ställer in arken att rendera. Standard är alla synliga ark i arbetsboken: [SheetSet.visible](/cells/python-net/sv/aspose.cells.rendering/sheetset#visible).|
+| [sheet_set](/cells/python-net/sv/aspose.cells/pdfsaveoptions/sheet_set) |Hämtar eller ställer in arken att rendera. Standard är alla synliga ark i arbetsboken: [`SheetSet.visible`](/cells/python-net/sv/aspose.cells.rendering/sheetset#visible).|
 | [draw_object_event_handler](/cells/python-net/sv/aspose.cells/pdfsaveoptions/draw_object_event_handler) | Implementerar detta gränssnitt för att få DrawObject och Bound vid rendering.|
 | [page_saving_callback](/cells/python-net/sv/aspose.cells/pdfsaveoptions/page_saving_callback) | Kontrollera/indikera framsteg för sidsparprocessen.|
+| [emf_render_setting](/cells/python-net/sv/aspose.cells/pdfsaveoptions/emf_render_setting) | Inställning för rendering av Emf-metafil.|
 | [embed_standard_windows_fonts](/cells/python-net/sv/aspose.cells/pdfsaveoptions/embed_standard_windows_fonts) | True att bädda in true type-teckensnitt.<br/>Påverkar endast ASCII-tecken 32-127.<br/>Teckensnitt för teckenkoder större än 127 är alltid inbäddade.<br/>Teckensnitt är alltid inbäddade för PDF/A-1a, PDF/A-1b standard.<br/> Standard är sant.|
-| [bookmark](/cells/python-net/sv/aspose.cells/pdfsaveoptions/bookmark) |Hämtar och ställer in objektet [PdfBookmarkEntry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry).|
-| [compliance](/cells/python-net/sv/aspose.cells/pdfsaveoptions/compliance) | Arbetsboken konverteras till pdf enligt PdfCompliance i den här egenskapen.|
+| [bookmark](/cells/python-net/sv/aspose.cells/pdfsaveoptions/bookmark) | Hämtar och ställer in objektet [`PdfBookmarkEntry`](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry).|
+| [compliance](/cells/python-net/sv/aspose.cells/pdfsaveoptions/compliance) | Hämtar eller ställer in PDF standardernas överensstämmelsenivå för utgående dokument.|
 | [security_options](/cells/python-net/sv/aspose.cells/pdfsaveoptions/security_options) | Ställ in detta alternativ när säkerhet behövs i xls2pdf-resultat.|
-| [image_type](/cells/python-net/sv/aspose.cells/pdfsaveoptions/image_type) | Representerar bildtypen vid konvertering av diagram och form.|
+| [image_type](/cells/python-net/sv/aspose.cells/pdfsaveoptions/image_type) |Representerar bildtypen vid konvertering av diagram och form.|
 | [calculate_formula](/cells/python-net/sv/aspose.cells/pdfsaveoptions/calculate_formula) | Indikerar om formler ska beräknas innan pdf-filen sparas.|
 | [pdf_compression](/cells/python-net/sv/aspose.cells/pdfsaveoptions/pdf_compression) | Ange komprimeringsalgoritmen|
 | [created_time](/cells/python-net/sv/aspose.cells/pdfsaveoptions/created_time) | Hämtar och ställer in tiden för generering av pdf-dokumentet.|
 | [producer](/cells/python-net/sv/aspose.cells/pdfsaveoptions/producer) | Hämtar och ställer in producent av genererade pdf-dokument.|
 | [optimization_type](/cells/python-net/sv/aspose.cells/pdfsaveoptions/optimization_type) | Hämtar och ställer in pdf-optimeringstyp.|
-| [custom_properties_export](/cells/python-net/sv/aspose.cells/pdfsaveoptions/custom_properties_export) | Hämtar eller ställer in ett värde som bestämmer hur [CustomDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/customdocumentpropertycollection) exporteras till filen PDF. Standardvärdet är None.|
+| [custom_properties_export](/cells/python-net/sv/aspose.cells/pdfsaveoptions/custom_properties_export) | Hämtar eller ställer in ett värde som bestämmer hur [`CustomDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/customdocumentpropertycollection) exporteras till filen PDF. Standardvärdet är Ingen.|
 | [export_document_structure](/cells/python-net/sv/aspose.cells/pdfsaveoptions/export_document_structure) | Indikerar om dokumentstruktur ska exporteras.|
-| [emf_render_setting](/cells/python-net/sv/aspose.cells/pdfsaveoptions/emf_render_setting) | Inställning för rendering av Emf-metafil.|
 | [display_doc_title](/cells/python-net/sv/aspose.cells/pdfsaveoptions/display_doc_title) | Indikerar om fönstrets namnlist ska visa dokumentets titel.|
 | [font_encoding](/cells/python-net/sv/aspose.cells/pdfsaveoptions/font_encoding) | Hämtar eller ställer in inbäddad teckensnittskodning i pdf.|
+| [watermark](/cells/python-net/sv/aspose.cells/pdfsaveoptions/watermark) | Hämtar eller ställer in vattenstämpel till utmatning.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [set_image_resample(desired_ppi, jpeg_quality)](/cells/python-net/sv/aspose.cells/pdfsaveoptions/set_image_resample/#int-int) | Ställer in önskad PPI (pixlar per tum) för omsamplingsbilder och jpeg-kvalitet.<br/> Alla bilder kommer att konverteras till JPEG med den angivna kvalitetsinställningen,<br/>och bilder som är större än den angivna PPI (pixlar per tum) omsamplas.|
+| [set_image_resample](/cells/python-net/sv/aspose.cells/pdfsaveoptions/set_image_resample/#int-int) | Ställer in önskad PPI (pixlar per tum) för omsamplingsbilder och jpeg-kvalitet.<br/> Alla bilder kommer att konverteras till JPEG med den angivna kvalitetsinställningen,<br/> och bilder som är större än den angivna PPI (pixlar per tum) omsamplas.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [CustomDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/customdocumentpropertycollection)
-* klass [PaginatedSaveOptions](/cells/python-net/sv/aspose.cells/paginatedsaveoptions)
-* klass [PdfBookmarkEntry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)
-* klass [PdfSaveOptions](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
-* klass [SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
+* modul [`aspose.cells`](..)
+* klass [`CustomDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/customdocumentpropertycollection)
+* klass [`PaginatedSaveOptions`](/cells/python-net/sv/aspose.cells/paginatedsaveoptions)
+* klass [`PdfBookmarkEntry`](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)
+* klass [`PdfSaveOptions`](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
+* klass [`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)

@@ -3,24 +3,24 @@ title: number Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 350
+weight: 410
 url: /de/aspose.cells/style/number/
 is_root: false
 ---
 ##  number Eigentum
 
-Ruft das Anzeigeformat von Zahlen und Daten ab oder legt es fest. Die Formatierungsmuster sind für verschiedene Regionen unterschiedlich.
+Ruft das Anzeigeformat von Zahlen und Datumsangaben ab oder legt dieses fest. Die Formatierungsmuster sind je nach Region unterschiedlich.
 
 ###  Bemerkungen
 
-Beispielsweise die durch Zahlen dargestellten Formatierungsmuster für die Region en_US:
-| Wert| Typ| Zeichenkette formatieren|
+Beispielsweise die durch Zahlen dargestellten Formatierungsmuster für die Region „en_US“:
+| Wert| Typ| Zeichenfolge formatieren|
 | :- | :- | :- |
 | 0| Allgemein|
-| 1| Dezimal|
-| 2| Dezimal|
-| 3| Dezimal|
-| 4| Dezimal|
+| 1|Dezimal|
+| 2|Dezimal|
+| 3|Dezimal|
+| 4|Dezimal|
 | 5| Währung|
 | 6| Währung|
 | 7| Währung|
@@ -63,5 +63,5 @@ def number(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

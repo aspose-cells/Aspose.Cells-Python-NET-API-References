@@ -1,15 +1,15 @@
 ---
 title: warning_callback недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 270
+weight: 330
 url: /ru/aspose.cells/xmlloadoptions/warning_callback/
 is_root: false
 ---
 ##  warning_callback недвижимость
 
-Получает или задает обратный вызов предупреждения.
+Получает или задает обратный вызов с предупреждением.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def warning_callback(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [IWarningCallback](/cells/python-net/ru/aspose.cells/iwarningcallback)
-* класс [XmlLoadOptions](/cells/python-net/ru/aspose.cells/xmlloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`IWarningCallback`](/cells/python-net/ru/aspose.cells/iwarningcallback)
+* класс [`XmlLoadOptions`](/cells/python-net/ru/aspose.cells/xmlloadoptions)

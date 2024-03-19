@@ -17,21 +17,22 @@ Le type CalculationOptions expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [CalculationOptions()](/cells/python-net/fr/aspose.cells/calculationoptions/__init__/#) | Construit une nouvelle instance de CalculationOptions|
+| [__init__](/cells/python-net/fr/aspose.cells/calculationoptions/__init__/#) | Construit une nouvelle instance de CalculationOptions|
 
 
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [ignore_error](/cells/python-net/fr/aspose.cells/calculationoptions/ignore_error) | Indique si vous devez masquer l'erreur dans le calcul des formules.<br/> L'erreur peut être une fonction non prise en charge, des liens externes, etc.|
-| [custom_function](/cells/python-net/fr/aspose.cells/calculationoptions/custom_function) | Les fonctions de calcul de formule personnalisée pour étendre le moteur de calcul.|
-| [custom_engine](/cells/python-net/fr/aspose.cells/calculationoptions/custom_engine) |Le moteur de calcul de formule personnalisé pour étendre le moteur de calcul par défaut de Aspose.Cells.|
+| [ignore_error](/cells/python-net/fr/aspose.cells/calculationoptions/ignore_error) | Indique si les erreurs rencontrées lors du calcul des formules doivent être ignorées.<br/>L'erreur peut provenir d'une fonction non prise en charge, de liens externes, etc.<br/> La valeur par défaut est vraie.|
+| [recursive](/cells/python-net/fr/aspose.cells/calculationoptions/recursive) | Indique si le calcul des cellules dépendantes est effectué de manière récursive lors du calcul d'une cellule et si cela dépend des autres cellules.<br/> La valeur par défaut est vraie.|
+| [custom_engine](/cells/python-net/fr/aspose.cells/calculationoptions/custom_engine) | Le moteur de calcul de formule personnalisé pour étendre le moteur de calcul par défaut de Aspose.Cells.|
 | [calculation_monitor](/cells/python-net/fr/aspose.cells/calculationoptions/calculation_monitor) | Le moniteur permettant à l'utilisateur de suivre la progression du calcul de la formule.|
-| [calc_stack_size](/cells/python-net/fr/aspose.cells/calculationoptions/calc_stack_size) | Spécifie la taille de la pile pour le calcul récursif des cellules.|
+| [calc_stack_size](/cells/python-net/fr/aspose.cells/calculationoptions/calc_stack_size) | La taille de la pile pour calculer les cellules de manière récursive. La valeur par défaut est 200.|
 | [precision_strategy](/cells/python-net/fr/aspose.cells/calculationoptions/precision_strategy) | Spécifie la stratégie de traitement de la précision du calcul.|
-| [recursive](/cells/python-net/fr/aspose.cells/calculationoptions/recursive) | Indique si calculer les cellules dépendantes de manière récursive lors du calcul d'une cellule et cela dépend des autres cellules.|
+| [linked_data_sources](/cells/python-net/fr/aspose.cells/calculationoptions/linked_data_sources) | Spécifie les sources de données pour les liens externes utilisés dans les formules.|
+| [character_encoding](/cells/python-net/fr/aspose.cells/calculationoptions/character_encoding) | Spécifie l'encodage utilisé pour encoder/décoder les caractères lors du calcul des formules.<br/>Pour les fonctions telles que CHAR, CODE, le résultat calculé dépend des paramètres de région et du jeu de caractères par défaut de l'environnement.<br/> Avec cette propriété, l'utilisateur peut spécifier le codage approprié utilisé pour ces fonctions afin d'obtenir le résultat attendu.|
 
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: MemoryFontSource klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1040
+weight: 1080
 url: /sv/aspose.cells/memoryfontsource/
 is_root: false
 ---
@@ -12,8 +12,8 @@ Representerar den enda TrueType-teckensnittsfilen som är lagrad i minnet.
 
 
 
-**Arv:** [MemoryFontSource](/cells/python-net/aspose.cells/memoryfontsource) → 
-[FontSourceBase](/cells/python-net/sv/aspose.cells/fontsourcebase)
+**Arv:** [`MemoryFontSource`](/cells/python-net/aspose.cells/memoryfontsource) → 
+[`FontSourceBase`](/cells/python-net/sv/aspose.cells/fontsourcebase)
 
 
 
@@ -22,7 +22,7 @@ Typen MemoryFontSource avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [MemoryFontSource(font_data)](/cells/python-net/sv/aspose.cells/memoryfontsource/__init__/#bytes) | Ctor.|
+| [__init__](/cells/python-net/sv/aspose.cells/memoryfontsource/__init__/#bytes) | Ctor.|
 
 
 ###  Egenskaper
@@ -34,6 +34,6 @@ Typen MemoryFontSource avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [FontSourceBase](/cells/python-net/sv/aspose.cells/fontsourcebase)
-* klass [MemoryFontSource](/cells/python-net/sv/aspose.cells/memoryfontsource)
+* modul [`aspose.cells`](..)
+* klass [`FontSourceBase`](/cells/python-net/sv/aspose.cells/fontsourcebase)
+* klass [`MemoryFontSource`](/cells/python-net/sv/aspose.cells/memoryfontsource)

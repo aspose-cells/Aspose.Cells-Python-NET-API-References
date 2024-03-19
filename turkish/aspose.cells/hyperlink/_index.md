@@ -3,31 +3,31 @@ title: Hyperlink sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 790
+weight: 840
 url: /tr/aspose.cells/hyperlink/
 is_root: false
 ---
 ##  Hyperlink sınıfı
-Bir köprüyü temsil eden nesneyi kapsüller.
+Köprüyü temsil eden nesneyi kapsüller.
 
 
 
-Hyperlink türü aşağıdaki üyeleri gösterir:
+Hyperlink türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [address](/cells/python-net/tr/aspose.cells/hyperlink/address) | Bir köprünün adresini temsil eder.|
-| [text_to_display](/cells/python-net/tr/aspose.cells/hyperlink/text_to_display) | Belirtilen köprü için görüntülenecek metni temsil eder. Varsayılan değer, köprünün adresidir.|
+| [text_to_display](/cells/python-net/tr/aspose.cells/hyperlink/text_to_display) | Belirtilen köprü için görüntülenecek metni temsil eder. Varsayılan değer köprünün adresidir.|
 | [area](/cells/python-net/tr/aspose.cells/hyperlink/area) | Köprü aralığını alır.|
-| [screen_tip](/cells/python-net/tr/aspose.cells/hyperlink/screen_tip) | Belirtilen köprü için Ekran İpucu metnini döndürür veya ayarlar.|
+| [screen_tip](/cells/python-net/tr/aspose.cells/hyperlink/screen_tip) | Belirtilen köprünün Ekran İpucu metnini döndürür veya ayarlar.|
 | [link_type](/cells/python-net/tr/aspose.cells/hyperlink/link_type) | Bağlantı türünü alır.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [delete()](/cells/python-net/tr/aspose.cells/hyperlink/delete/#) | Bu köprüyü siler|
+| [delete](/cells/python-net/tr/aspose.cells/hyperlink/delete/#) |Bu köprüyü siler|
 
 
 
@@ -54,4 +54,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

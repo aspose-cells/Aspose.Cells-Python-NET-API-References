@@ -3,7 +3,7 @@ title: max_row fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 310
 url: /sv/aspose.cells/workbooksettings/max_row/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def max_row(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

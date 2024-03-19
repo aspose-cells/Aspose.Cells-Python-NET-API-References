@@ -3,25 +3,25 @@ title: PivotItemPosition numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 320
 url: /tr/aspose.cells.pivot/pivotitemposition/
 is_root: false
 ---
 ##  PivotItemPosition numaralandırma
-Temel alandaki PivotTable temel öğesinin Sonraki/Önceki/Tüm konumunu temsil eder.
+PivotTable temel öğesinin temel alandaki Sonraki/Önceki/Tümü konumunu temsil eder.
 
 
 
-PivotItemPosition türü aşağıdaki üyeleri gösterir:
+PivotItemPosition türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | PREVIOUS | PivotField'daki önceki pivot öğesini temsil eder.|
 | NEXT | PivotField'daki bir sonraki pivot öğesini temsil eder.|
-| CUSTOM | PivotField içinde bir pivot öğeyi belirten Pivot Öğeleri tarafından belirtildiği şekilde bir pivot öğe dizinini temsil eder.<br/> Sadece oku|
+| CUSTOM | PivotField'da bir pivot öğeyi belirten, Pivot Öğeleri tarafından belirtildiği gibi bir pivot öğesi dizinini temsil eder.<br/> Sadece oku|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](..)
+* modül [`aspose.cells.pivot`](..)

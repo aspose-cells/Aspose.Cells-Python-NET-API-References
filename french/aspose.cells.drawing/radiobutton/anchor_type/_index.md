@@ -3,13 +3,13 @@ title: anchor_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 300
 url: /fr/aspose.cells.drawing/radiobutton/anchor_type/
 is_root: false
 ---
 ##  anchor_type propriété
 
-Obtient et définit l'espace réservé d'ancrage de la forme.
+Obtient et définit l’espace réservé de l’ancre de forme.
 
 ###  Exemple
 
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
-* classe [ShapeAnchorType](/cells/python-net/fr/aspose.cells.drawing/shapeanchortype)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* classe [`ShapeAnchorType`](/cells/python-net/fr/aspose.cells.drawing/shapeanchortype)

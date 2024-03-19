@@ -1,5 +1,5 @@
 ---
-title: PdfSecurityOptions المنشئ
+title: PdfSecurityOptions منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 10
 url: /ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions/__init__/
 is_root: false
 ---
-##  PdfSecurityOptions() {#}
+##  __فيه__ {#}
 منشئ PdfSecurityOptions
 
 
@@ -21,7 +21,7 @@ def __init__(self):
 
 ###  مثال
 
-يحدد الكود التالي إذن طباعة عالي الدقة لملف pdf.
+يقوم التعليمة البرمجية التالية بتعيين إذن طباعة عالي الدقة لملف pdf الناتج.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -47,5 +47,5 @@ wb.save("output.pdf", pdfSaveOptions)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering.pdfsecurity](../../)
-* فئة [PdfSecurityOptions](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* الوحدة [`aspose.cells.rendering.pdfsecurity`](../../)
+* فئة [`PdfSecurityOptions`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

@@ -3,7 +3,7 @@ title: border mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 60
 url: /tr/aspose.cells.charts/series/border/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def border(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Line](/cells/python-net/tr/aspose.cells.drawing/line)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

@@ -1,15 +1,15 @@
 ---
-title: lower_right_row الملكية
+title: lower_right_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 800
+weight: 810
 url: /ar/aspose.cells.drawing/scrollbar/lower_right_row/
 is_root: false
 ---
-##  lower_right_row الملكية
+##  lower_right_row عقار
 
-يمثل فهرس صف الزاوية اليمنى السفلي.
+يمثل مؤشر الصف السفلي الأيمن.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def lower_right_row(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ScrollBar](/cells/python-net/ar/aspose.cells.drawing/scrollbar)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ScrollBar`](/cells/python-net/ar/aspose.cells.drawing/scrollbar)

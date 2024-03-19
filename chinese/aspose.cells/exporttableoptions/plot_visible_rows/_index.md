@@ -1,13 +1,13 @@
 ---
-title: plot_visible_rows 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: plot_visible_rows属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 120
+weight: 140
 url: /zh/aspose.cells/exporttableoptions/plot_visible_rows/
 is_root: false
 ---
-## plot_visible_rows 属性
+## plot_visible_rows属性
 
 仅导出可见行。
 ### 定义：
@@ -21,5 +21,5 @@ def plot_visible_rows(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ExportTableOptions](/cells/python-net/zh/aspose.cells/exporttableoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`ExportTableOptions`](/cells/python-net/zh/aspose.cells/exporttableoptions)

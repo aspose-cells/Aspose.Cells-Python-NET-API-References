@@ -3,7 +3,7 @@ title: selected_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 900
+weight: 910
 url: /tr/aspose.cells.drawing/combobox/selected_value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def selected_value(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ComboBox](/cells/python-net/tr/aspose.cells.drawing/combobox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ComboBox`](/cells/python-net/tr/aspose.cells.drawing/combobox)

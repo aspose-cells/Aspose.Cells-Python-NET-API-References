@@ -1,13 +1,13 @@
 ---
-title: set_linked_cell méthode
+title: méthode set_linked_cell
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 180
+weight: 200
 url: /fr/aspose.cells.drawing/commentshape/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell(formula, is_r1c1, is_local) {#str-bool-bool}
+##  set_linked_cell {#str-bool-bool}
 Définit la plage liée à la valeur du contrôle.
 
 
@@ -21,8 +21,8 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | formula | str | La plage liée à la valeur du contrôle.|
-| is_r1c1 | bool | Indique si la formule doit être formatée en tant que R1C1.|
-| is_local | bool | Indique si la formule doit être formatée par les paramètres régionaux.|
+| is_r1c1 | bool | Si la formule doit être formatée en R1C1.|
+| is_local | bool | Si la formule doit être formatée par paramètres régionaux.|
 
 ###  Exemple
 
@@ -41,5 +41,5 @@ scrollBar.set_linked_cell("$A$12", False, True)
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [CommentShape](/cells/python-net/fr/aspose.cells.drawing/commentshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`CommentShape`](/cells/python-net/fr/aspose.cells.drawing/commentshape)

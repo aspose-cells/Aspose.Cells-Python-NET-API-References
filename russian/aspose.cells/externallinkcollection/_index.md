@@ -1,9 +1,9 @@
 ---
 title: ExternalLinkCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 570
+weight: 600
 url: /ru/aspose.cells/externallinkcollection/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип ExternalLinkCollection предоставляет следующие члены:
+Тип ExternalLinkCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -21,22 +21,22 @@ is_root: false
 
 
 
-Получает элемент [ExternalLink](/cells/python-net/ru/aspose.cells/externallink) по указанному индексу.
+Получает элемент [`ExternalLink`](/cells/python-net/ru/aspose.cells/externallink) по указанному индексу.
 ###  Индексатор
 | Имя| Описание|
 | :- | :- |
-| [index] | Отсчитываемый от нуля индекс элемента.|
+| [index] | Индекс элемента, отсчитываемый от нуля.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add(file_name, sheet_names)](/cells/python-net/ru/aspose.cells/externallinkcollection/add/#str-list) | Добавляет внешнюю ссылку.|
-| [add(directory_type, file_name, sheet_names)](/cells/python-net/ru/aspose.cells/externallinkcollection/add/#DirectoryType-str-list) | Добавьте внешнюю ссылку.|
-| [clear()](/cells/python-net/ru/aspose.cells/externallinkcollection/clear/#) | Удаляет все внешние ссылки.|
-| [clear(update_references_as_local)](/cells/python-net/ru/aspose.cells/externallinkcollection/clear/#bool) | Удаляет все внешние ссылки.|
-| [remove_at(index)](/cells/python-net/ru/aspose.cells/externallinkcollection/remove_at/#int) | Удаляет указанную внешнюю ссылку из книги.|
-| [remove_at(index, update_references_as_local)](/cells/python-net/ru/aspose.cells/externallinkcollection/remove_at/#int-bool) | Удаляет указанную внешнюю ссылку из книги.|
+| [add](/cells/python-net/ru/aspose.cells/externallinkcollection/add/#str-list) | Добавляет внешнюю ссылку.|
+| [add](/cells/python-net/ru/aspose.cells/externallinkcollection/add/#aspose.cells.DirectoryType-str-list) | Добавьте внешнюю ссылку.|
+| [clear](/cells/python-net/ru/aspose.cells/externallinkcollection/clear/#) | Удаляет все внешние ссылки.|
+| [clear](/cells/python-net/ru/aspose.cells/externallinkcollection/clear/#bool) | Удаляет все внешние ссылки.|
+| [remove_at](/cells/python-net/ru/aspose.cells/externallinkcollection/remove_at/#int) | Удаляет указанную внешнюю ссылку из книги.|
+| [remove_at](/cells/python-net/ru/aspose.cells/externallinkcollection/remove_at/#int-bool) | Удаляет указанную внешнюю ссылку из книги.|
 
 
 
@@ -53,5 +53,5 @@ workbook.worksheets.external_links[0].data_source = "d:\\link.xls"
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
-* класс [ExternalLink](/cells/python-net/ru/aspose.cells/externallink)
+* модуль [`aspose.cells`](..)
+* класс [`ExternalLink`](/cells/python-net/ru/aspose.cells/externallink)

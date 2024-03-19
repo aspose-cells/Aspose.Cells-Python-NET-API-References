@@ -1,29 +1,29 @@
 ---
-title: classe XlsSaveOptions
+title: XlsSaveOptions classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1650
+weight: 1720
 url: /it/aspose.cells/xlssaveoptions/
 is_root: false
 ---
-##  classe XlsSaveOptions
-Rappresenta le opzioni di salvataggio per il formato di file Excel 97-2003: xls e xlt.
+##  XlsSaveOptions classe
+Rappresenta le opzioni di salvataggio per il formato file Excel 97-2003: xls e xlt.
 
 
 
-**Eredità:** [XlsSaveOptions](/cells/python-net/aspose.cells/xlssaveoptions) → 
-[SaveOptions](/cells/python-net/it/aspose.cells/saveoptions)
+**Eredità:** [`XlsSaveOptions`](/cells/python-net/aspose.cells/xlssaveoptions) → 
+[`SaveOptions`](/cells/python-net/it/aspose.cells/saveoptions)
 
 
 
-Il tipo XlsSaveOptions espone i membri seguenti:
+Il tipo XlsSaveOptions espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [XlsSaveOptions()](/cells/python-net/it/aspose.cells/xlssaveoptions/__init__/#) | Crea opzioni per il salvataggio del file xls/xlt di Excel 97-2003.|
-| [XlsSaveOptions(format)](/cells/python-net/it/aspose.cells/xlssaveoptions/__init__/#SaveFormat) | Crea opzioni per il salvataggio del file xls/xlt di Excel 97-2003.|
+| [__init__](/cells/python-net/it/aspose.cells/xlssaveoptions/__init__/#) |Crea opzioni per il salvataggio del file xls di Excel 97-2003.|
+| [__init__](/cells/python-net/it/aspose.cells/xlssaveoptions/__init__/#aspose.cells.SaveFormat) | Crea opzioni per il salvataggio del file xls/xlt di Excel 97-2003.|
 
 
 ###  Proprietà
@@ -33,20 +33,20 @@ Il tipo XlsSaveOptions espone i membri seguenti:
 | [clear_data](/cells/python-net/it/aspose.cells/xlssaveoptions/clear_data) | Rendi vuota la cartella di lavoro dopo aver salvato il file.|
 | [cached_file_folder](/cells/python-net/it/aspose.cells/xlssaveoptions/cached_file_folder) | La cartella dei file memorizzati nella cache viene utilizzata per archiviare alcuni dati di grandi dimensioni.|
 | [validate_merged_areas](/cells/python-net/it/aspose.cells/xlssaveoptions/validate_merged_areas) | Indica se convalidare le celle unite prima di salvare il file.|
-| [merge_areas](/cells/python-net/it/aspose.cells/xlssaveoptions/merge_areas) | Indica se unire le aree di formattazione condizionale e convalida prima di salvare il file.|
-| [create_directory](/cells/python-net/it/aspose.cells/xlssaveoptions/create_directory) | Se true e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.|
+| [merge_areas](/cells/python-net/it/aspose.cells/xlssaveoptions/merge_areas) | Indica se unire le aree di formattazione condizionale e di validazione prima di salvare il file.|
+| [create_directory](/cells/python-net/it/aspose.cells/xlssaveoptions/create_directory) | Se vero e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.|
 | [sort_names](/cells/python-net/it/aspose.cells/xlssaveoptions/sort_names) | Indica se ordinare i nomi definiti prima di salvare il file.|
-| [sort_external_names](/cells/python-net/it/aspose.cells/xlssaveoptions/sort_external_names) |Indica se ordinare i nomi definiti esterni prima di salvare il file.|
+| [sort_external_names](/cells/python-net/it/aspose.cells/xlssaveoptions/sort_external_names) | Indica se ordinare i nomi definiti esterni prima di salvare il file.|
 | [refresh_chart_cache](/cells/python-net/it/aspose.cells/xlssaveoptions/refresh_chart_cache) | Indica se aggiornare i dati della cache del grafico|
 | [warning_callback](/cells/python-net/it/aspose.cells/xlssaveoptions/warning_callback) | Ottiene o imposta la richiamata di avviso.|
 | [update_smart_art](/cells/python-net/it/aspose.cells/xlssaveoptions/update_smart_art) | Indica se aggiornare l'impostazione della grafica intelligente.<br/> Il valore predefinito è falso.|
-| [light_cells_data_provider](/cells/python-net/it/aspose.cells/xlssaveoptions/light_cells_data_provider) | Il provider di dati per fornire i dati delle celle per il salvataggio della cartella di lavoro in modalità light.|
+| [light_cells_data_provider](/cells/python-net/it/aspose.cells/xlssaveoptions/light_cells_data_provider) | Il fornitore di dati per il salvataggio della cartella di lavoro in modalità Light.|
 | [is_template](/cells/python-net/it/aspose.cells/xlssaveoptions/is_template) | Indica se salvare un file modello.|
-| [match_color](/cells/python-net/it/aspose.cells/xlssaveoptions/match_color) | Indica se corrisponde al colore del carattere perché ci sono 56 colori nella tavolozza dei colori standard.|
+| [match_color](/cells/python-net/it/aspose.cells/xlssaveoptions/match_color) | Indica se corrisponde al colore del carattere perché sono presenti 56 colori nella tavolozza dei colori standard.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
-* classe [SaveOptions](/cells/python-net/it/aspose.cells/saveoptions)
-* classe [XlsSaveOptions](/cells/python-net/it/aspose.cells/xlssaveoptions)
+* modulo [`aspose.cells`](..)
+* classe [`SaveOptions`](/cells/python-net/it/aspose.cells/saveoptions)
+* classe [`XlsSaveOptions`](/cells/python-net/it/aspose.cells/xlssaveoptions)

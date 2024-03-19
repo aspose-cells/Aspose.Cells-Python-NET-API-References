@@ -3,7 +3,7 @@ title: is_automatic_rotation proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 80
+weight: 90
 url: /it/aspose.cells.charts/ticklabels/is_automatic_rotation/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_automatic_rotation(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [TickLabels](/cells/python-net/it/aspose.cells.charts/ticklabels)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`TickLabels`](/cells/python-net/it/aspose.cells.charts/ticklabels)

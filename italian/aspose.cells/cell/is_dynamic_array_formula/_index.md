@@ -3,13 +3,13 @@ title: is_dynamic_array_formula proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 530
+weight: 560
 url: /it/aspose.cells/cell/is_dynamic_array_formula/
 is_root: false
 ---
 ##  is_dynamic_array_formula proprietà
 
-Indica se la formula della cella è una formula di matrice dinamica (vero) o una formula di matrice legacy (falso).
+Indica se la formula della cella è una formula in matrice dinamica (true) o una formula in matrice legacy (false).
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_dynamic_array_formula(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

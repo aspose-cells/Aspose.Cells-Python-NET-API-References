@@ -1,9 +1,9 @@
 ---
 title: ChartGlobalizationSettings类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 90
 url: /zh/aspose.cells.charts/chartglobalizationsettings/
 is_root: false
 ---
@@ -12,27 +12,27 @@ is_root: false
 
 
 
-ChartGlobalizationSettings 类型公开了以下成员：
+ChartGlobalizationSettings 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [ChartGlobalizationSettings()](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/__init__/#) |构造 ChartGlobalizationSettings 的新实例|
+| [__init__](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/__init__/#) |构造 ChartGlobalizationSettings 的新实例|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [get_series_name()](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_series_name/#) |获取图表中系列的名称。|
-| [get_chart_title_name()](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_chart_title_name/#) |获取图表标题的名称。|
-| [get_legend_increase_name()](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_legend_increase_name/#) |获取 Legend 增加的名称。|
-| [get_legend_decrease_name()](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_legend_decrease_name/#) |获取图例的减少量的名称。|
-| [get_legend_total_name()](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_legend_total_name/#) |获取图例总计的名称。|
-| [get_axis_title_name()](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_axis_title_name/#) |获取 Axis 的标题名称。|
-| [get_other_name()](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_other_name/#) |获取图表的“其他”标签的名称。|
-| [get_axis_unit_name(type)](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_axis_unit_name/#DisplayUnitType) |获取轴单位的名称。|
+| [get_series_name](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_series_name/#) |获取图表中系列的名称。|
+| [get_chart_title_name](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_chart_title_name/#) |获取图表标题的名称。|
+| [get_legend_increase_name](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_legend_increase_name/#) |获取 Legend 的增加名称。|
+| [get_legend_decrease_name](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_legend_decrease_name/#) |获取图例减少的名称。|
+| [get_legend_total_name](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_legend_total_name/#) |获取 Legend 的 Total 名称。|
+| [get_axis_title_name](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_axis_title_name/#) |获取轴的标题名称。|
+| [get_other_name](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_other_name/#) |获取图表的“其他”标签的名称。|
+| [get_axis_unit_name](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings/get_axis_unit_name/#aspose.cells.charts.DisplayUnitType) |获取轴单位的名称。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

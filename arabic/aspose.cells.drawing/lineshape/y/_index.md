@@ -1,15 +1,15 @@
 ---
-title: y الملكية
+title: y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1290
+weight: 1300
 url: /ar/aspose.cells.drawing/lineshape/y/
 is_root: false
 ---
-##  y الملكية
+##  y عقار
 
-الحصول على الإزاحة الرأسية للشكل وتعيينها من الحد العلوي لورقة العمل ، بوحدة البكسل.
+الحصول على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل وتعيينها، بوحدة البكسل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineShape](/cells/python-net/ar/aspose.cells.drawing/lineshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineShape`](/cells/python-net/ar/aspose.cells.drawing/lineshape)

@@ -1,9 +1,9 @@
 ---
 title: WriteProtection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1640
+weight: 1710
 url: /ru/aspose.cells/writeprotection/
 is_root: false
 ---
@@ -12,12 +12,12 @@ is_root: false
 
 
 
-Тип WriteProtection предоставляет следующие члены:
+Тип WriteProtection предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [WriteProtection()](/cells/python-net/ru/aspose.cells/writeprotection/__init__/#) | Создает новый экземпляр WriteProtection|
+| [__init__](/cells/python-net/ru/aspose.cells/writeprotection/__init__/#) | Создает новый экземпляр WriteProtection.|
 
 
 ###  Характеристики
@@ -31,9 +31,9 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [validate_password(password)](/cells/python-net/ru/aspose.cells/writeprotection/validate_password/#str) | Возвращает true, если указанный пароль совпадает с паролем защиты от записи, которым был защищен файл.|
+| [validate_password](/cells/python-net/ru/aspose.cells/writeprotection/validate_password/#str) | Возвращает true, если указанный пароль совпадает с паролем защиты от записи, которым был защищен файл.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

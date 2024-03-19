@@ -1,13 +1,13 @@
 ---
-title: metodo swap_sheet
+title: Metodo swap_sheet
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 210
+weight: 220
 url: /it/aspose.cells/worksheetcollection/swap_sheet/
 is_root: false
 ---
-##  swap_sheet(sheet_index1, sheet_index2) {#int-int}
+##  swap_sheet {#int-int}
 Scambia i due fogli.
 
 
@@ -26,5 +26,5 @@ def swap_sheet(self, sheet_index1, sheet_index2):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorksheetCollection](/cells/python-net/it/aspose.cells/worksheetcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`WorksheetCollection`](/cells/python-net/it/aspose.cells/worksheetcollection)

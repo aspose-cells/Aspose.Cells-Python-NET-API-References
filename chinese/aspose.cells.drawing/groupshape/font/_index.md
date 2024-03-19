@@ -1,15 +1,15 @@
 ---
-title: font 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: font属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 370
+weight: 390
 url: /zh/aspose.cells.drawing/groupshape/font/
 is_root: false
 ---
-## font 属性
+## font属性
 
-代表 font 的形状。
+代表形状的font。
 
 ### 例子
 
@@ -33,6 +33,6 @@ def font(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Font](/cells/python-net/zh/aspose.cells/font)
-* 类 [GroupShape](/cells/python-net/zh/aspose.cells.drawing/groupshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Font`](/cells/python-net/zh/aspose.cells/font)
+* 类 [`GroupShape`](/cells/python-net/zh/aspose.cells.drawing/groupshape)

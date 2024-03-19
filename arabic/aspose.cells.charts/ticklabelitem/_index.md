@@ -1,28 +1,28 @@
 ---
-title: TickLabelItem الدرجة
+title: TickLabelItem صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 310
 url: /ar/aspose.cells.charts/ticklabelitem/
 is_root: false
 ---
-##  TickLabelItem الدرجة
-قم بتضمين معلومات عن عنصر Ticklabel
+##  TickLabelItem صف
+يمثل علامة التجزئة في المخطط.
 
 
 
-يكشف نوع TickLabelItem الأعضاء التالية:
+يكشف النوع TickLabelItem عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [x](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/x) | إحداثيات X لعنصر Ticklabel في نسبة عرض المخطط.|
-| [y](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/y) | إحداثيات Y لعنصر Ticklabel في نسبة ارتفاع الرسم البياني.|
-| [width](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/width) |عرض عنصر Ticklabel في نسبة عرض المخطط.|
-| [height](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/height) | ارتفاع عنصر Ticklabel في نسبة ارتفاع الرسم البياني.|
+| [x](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/x) | إحداثيات X لعنصر Ticklabel بالنسبة إلى عرض المخطط.|
+| [y](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/y) | إحداثيات Y لعنصر Ticklabel بالنسبة لارتفاع المخطط.|
+| [width](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/width) | عرض عنصر Ticklabel بالنسبة إلى عرض المخطط.|
+| [height](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/height) |ارتفاع عنصر Ticklabel بالنسبة لارتفاع المخطط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

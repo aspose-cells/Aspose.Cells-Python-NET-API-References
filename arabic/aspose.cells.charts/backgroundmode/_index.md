@@ -1,27 +1,27 @@
 ---
-title: العد BackgroundMode
+title: BackgroundMode التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 380
 url: /ar/aspose.cells.charts/backgroundmode/
 is_root: false
 ---
-##  العد BackgroundMode
-يمثل وضع عرض الخلفية.
+##  BackgroundMode التعداد
+يمثل وضع العرض للخلفية.
 
 
 
-يكشف نوع BackgroundMode الأعضاء التالية:
+يكشف النوع BackgroundMode عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| AUTOMATIC | تلقائي|
-| OPAQUE |مبهمة|
+| AUTOMATIC |تلقائي|
+| OPAQUE | مبهمة|
 | TRANSPARENT | شفاف|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

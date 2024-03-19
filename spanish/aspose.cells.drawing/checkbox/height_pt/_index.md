@@ -3,7 +3,7 @@ title: height_pt propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 480
+weight: 490
 url: /es/aspose.cells.drawing/checkbox/height_pt/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representa la altura de la forma, en unidades de puntos.
 ```python
 
 if shape.height_pt == 3:
-    shape.height_pt = 1
+    shape.height_pt = 1.0
 
 ```
 ###  Definición:
@@ -30,5 +30,5 @@ def height_pt(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CheckBox](/cells/python-net/es/aspose.cells.drawing/checkbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CheckBox`](/cells/python-net/es/aspose.cells.drawing/checkbox)

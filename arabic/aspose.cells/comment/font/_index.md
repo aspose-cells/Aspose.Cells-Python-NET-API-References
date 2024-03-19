@@ -1,13 +1,13 @@
 ---
-title: font الملكية
+title: font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells/comment/font/
 is_root: false
 ---
-##  font الملكية
+##  font عقار
 
 يحصل على font من التعليق.
 
@@ -27,6 +27,6 @@ def font(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)

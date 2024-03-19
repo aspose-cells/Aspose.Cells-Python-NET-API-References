@@ -1,15 +1,15 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 820
+weight: 830
 url: /ru/aspose.cells.drawing/groupshape/name/
 is_root: false
 ---
 ##  name недвижимость
 
-Получает и задает name фигуры.
+Получает и устанавливает name фигуры.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GroupShape](/cells/python-net/ru/aspose.cells.drawing/groupshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GroupShape`](/cells/python-net/ru/aspose.cells.drawing/groupshape)

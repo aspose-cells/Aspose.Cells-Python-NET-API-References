@@ -1,30 +1,30 @@
 ---
-title: العد EncryptionType
+title: EncryptionType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2000
+weight: 2070
 url: /ar/aspose.cells/encryptiontype/
 is_root: false
 ---
-##  العد EncryptionType
+##  EncryptionType التعداد
  نوع التشفير.
-تستخدم فقط من قبل excel2003.
-سنقوم بتشفير مصنف 2007/2010 باستخدام SHA AES كما يفعل Excel ، وسيتم تجاهل هذا EncryptionType.
+يستخدم فقط بواسطة Excel 2003.
+سنقوم بتشفير مصنف 2007/2010 باستخدام SHA AES كما يفعل Excel، وسيتم تجاهل هذا الرقم EncryptionType.
 
 
 
-يكشف نوع EncryptionType الأعضاء التالية:
+يكشف النوع EncryptionType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | XOR |  |
-| COMPATIBLE | متوافق مع Office 97/2000.|
+| COMPATIBLE |متوافق مع مكتب 97/2000.|
 | ENHANCED_CRYPTOGRAPHIC_PROVIDER_V1 |  |
 | STRONG_CRYPTOGRAPHIC_PROVIDER |  |
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

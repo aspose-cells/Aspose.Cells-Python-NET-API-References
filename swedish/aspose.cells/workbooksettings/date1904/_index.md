@@ -3,7 +3,7 @@ title: date1904 fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 150
 url: /sv/aspose.cells/workbooksettings/date1904/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def date1904(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

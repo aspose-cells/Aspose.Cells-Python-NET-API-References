@@ -1,29 +1,29 @@
 ---
-title: ThemeColor الدرجة
+title: ThemeColor صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1430
+weight: 1500
 url: /ar/aspose.cells/themecolor/
 is_root: false
 ---
-##  ThemeColor الدرجة
-يمثل لون النسق.
+##  ThemeColor صف
+يمثل لون الموضوع.
 
 
 
-يكشف نوع ThemeColor الأعضاء التالية:
+يكشف النوع ThemeColor عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [ThemeColor(type, tint)](/cells/python-net/ar/aspose.cells/themecolor/__init__/#ThemeColorType-float) |  |
+| [__init__](/cells/python-net/ar/aspose.cells/themecolor/__init__/#aspose.cells.ThemeColorType-float) |  |
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [color_type](/cells/python-net/ar/aspose.cells/themecolor/color_type) | يحصل ويضبط نوع الموضوع.|
+| [color_type](/cells/python-net/ar/aspose.cells/themecolor/color_type) | الحصول على نوع السمة وتعيينها.|
 | [tint](/cells/python-net/ar/aspose.cells/themecolor/tint) | الحصول على قيمة الصبغة وتعيينها.|
 
 
@@ -50,4 +50,4 @@ workbook.save("book1.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  accessibility_extract_content proprietà
 
-Autorizzazione a copiare o estrarre contenuti (a supporto dell'accessibilità agli utenti disabili o per altri scopi).
+Indica se consentire l'estrazione di testo e grafica (a supporto dell'accessibilità agli utenti con disabilità o per altri scopi).
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def accessibility_extract_content(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering.pdfsecurity](../../)
-* classe [PdfSecurityOptions](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modulo [`aspose.cells.rendering.pdfsecurity`](../../)
+* classe [`PdfSecurityOptions`](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

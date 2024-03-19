@@ -1,15 +1,15 @@
 ---
-title: is_over_lay الملكية
+title: is_over_lay عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells.charts/legend/is_over_lay/
 is_root: false
 ---
-##  is_over_lay الملكية
+##  is_over_lay عقار
 
-الحصول على أو تحديد ما إذا كان يُسمح لعناصر المخطط الأخرى بالتداخل مع عنصر المخطط هذا.
+الحصول على أو تعيين ما إذا كان سيتم السماح لعناصر المخطط الأخرى بالتداخل مع عنصر المخطط هذا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_over_lay(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)

@@ -1,15 +1,15 @@
 ---
-title: image_type الملكية
+title: image_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells.rendering/imageorprintoptions/image_type/
 is_root: false
 ---
-##  image_type الملكية
+##  image_type عقار
 
-الحصول على أو تحديد تنسيق الصور التي تم إنشاؤها.
+الحصول على أو تعيين تنسيق الصور التي تم إنشاؤها.
 القيمة الافتراضية: PNG.
 ###  تعريف:
 ```python
@@ -22,6 +22,6 @@ def image_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
-* فئة [ImageType](/cells/python-net/ar/aspose.cells.drawing/imagetype)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* فئة [`ImageType`](/cells/python-net/ar/aspose.cells.drawing/imagetype)

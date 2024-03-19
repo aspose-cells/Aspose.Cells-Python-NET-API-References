@@ -1,13 +1,13 @@
 ---
-title: type الملكية
+title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 700
+weight: 730
 url: /ar/aspose.cells/cell/type/
 is_root: false
 ---
-##  type الملكية
+##  type عقار
 
 يمثل قيمة الخلية type.
 ###  تعريف:
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
-* فئة [CellValueType](/cells/python-net/ar/aspose.cells/cellvaluetype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)
+* فئة [`CellValueType`](/cells/python-net/ar/aspose.cells/cellvaluetype)

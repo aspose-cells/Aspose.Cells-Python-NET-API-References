@@ -3,7 +3,7 @@ title: first_slice_angle proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 170
+weight: 160
 url: /it/aspose.cells.charts/series/first_slice_angle/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def first_slice_angle(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

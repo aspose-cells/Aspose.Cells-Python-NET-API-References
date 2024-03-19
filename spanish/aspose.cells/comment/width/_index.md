@@ -3,13 +3,13 @@ title: width propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 230
+weight: 240
 url: /es/aspose.cells/comment/width/
 is_root: false
 ---
 ##  width propiedad
 
-Representa el width del comentario, en unidades de píxeles.
+Representa el width del comentario, en unidad de píxeles.
 
 ###  Ejemplo
 
@@ -29,5 +29,5 @@ def width(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Comment](/cells/python-net/es/aspose.cells/comment)
+* módulo [`aspose.cells`](../../)
+* clase [`Comment`](/cells/python-net/es/aspose.cells/comment)

@@ -3,7 +3,7 @@ title: original_width_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 970
+weight: 980
 url: /sv/aspose.cells.drawing/picture/original_width_inch/
 is_root: false
 ---
@@ -37,5 +37,5 @@ def original_width_inch(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Picture](/cells/python-net/sv/aspose.cells.drawing/picture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture)

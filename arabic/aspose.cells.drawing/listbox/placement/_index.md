@@ -1,16 +1,16 @@
 ---
-title: placement الملكية
+title: placement عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 860
+weight: 870
 url: /ar/aspose.cells.drawing/listbox/placement/
 is_root: false
 ---
-##  placement الملكية
+##  placement عقار
 
-يمثل الطريقة التي يتم بها إرفاق الكائن الرسومي بالخلايا الموجودة أسفله.
-تتحكم الخاصية في placement لكائن موجود بورقة عمل.
+يمثل الطريقة التي يتم بها ربط الكائن الرسومي بالخلايا الموجودة أسفله.
+تتحكم الخاصية في placement لكائن في ورقة العمل.
 
 ###  مثال
 
@@ -32,6 +32,6 @@ def placement(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
-* فئة [PlacementType](/cells/python-net/ar/aspose.cells.drawing/placementtype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* فئة [`PlacementType`](/cells/python-net/ar/aspose.cells.drawing/placementtype)

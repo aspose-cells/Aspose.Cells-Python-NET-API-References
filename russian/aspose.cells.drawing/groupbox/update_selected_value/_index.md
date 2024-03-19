@@ -1,13 +1,13 @@
 ---
 title: update_selected_value метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 220
+weight: 240
 url: /ru/aspose.cells.drawing/groupbox/update_selected_value/
 is_root: false
 ---
-##  update_selected_value() {#}
+##  update_selected_value {#}
 Обновите выбранное значение значением связанной ячейки.
 
 
@@ -25,8 +25,6 @@ def update_selected_value(self):
 from aspose import pycore
 from aspose.cells.drawing import ListBox
 
-# Initialize a new workbook.
-# Workbook book = new Workbook();
 cell = None
 for i in range(10):
     cell = book.worksheets[0].cells.get(i, 0)
@@ -61,5 +59,5 @@ if listbx.is_selected(3):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GroupBox](/cells/python-net/ru/aspose.cells.drawing/groupbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GroupBox`](/cells/python-net/ru/aspose.cells.drawing/groupbox)

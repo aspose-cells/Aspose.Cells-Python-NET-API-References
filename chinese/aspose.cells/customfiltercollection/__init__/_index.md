@@ -1,14 +1,14 @@
 ---
-title: CustomFilterCollection 构造函数
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: CustomFilterCollection 施工人员
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
 url: /zh/aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
-##  CustomFilterCollection() {#}
-构造 CustomFilterCollection 的新实例
+##  __在里面__ {#}
+构造新实例。
 
 
 
@@ -22,5 +22,5 @@ def __init__(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CustomFilterCollection](/cells/python-net/zh/aspose.cells/customfiltercollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`CustomFilterCollection`](/cells/python-net/zh/aspose.cells/customfiltercollection)

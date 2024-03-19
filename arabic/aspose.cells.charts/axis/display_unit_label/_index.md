@@ -1,16 +1,16 @@
 ---
-title: display_unit_label الملكية
+title: display_unit_label عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells.charts/axis/display_unit_label/
 is_root: false
 ---
-##  display_unit_label الملكية
+##  display_unit_label عقار
 
  يمثل تسمية وحدة على محور في المخطط المحدد.
-تسميات الوحدات مفيدة لرسم قيم كبيرة - على سبيل المثال ، بالملايين أو المليارات.
+تعتبر تسميات الوحدات مفيدة لتخطيط القيم الكبيرة، على سبيل المثال، بالملايين أو المليارات.
 ###  تعريف:
 ```python
 @property
@@ -19,6 +19,6 @@ def display_unit_label(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
-* فئة [DisplayUnitLabel](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)
+* فئة [`DisplayUnitLabel`](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)

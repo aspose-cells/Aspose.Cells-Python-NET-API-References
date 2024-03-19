@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  compliance propriété
 
-Le classeur se convertit en pdf selon PdfCompliance dans cette propriété.
+Obtient ou définit le niveau PDF des normes compliance pour les documents de sortie.
+
+###  Remarques
+
+La valeur par défaut est PDF17.
 ###  Définition:
 ```python
 @property
@@ -21,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PdfCompliance](/cells/python-net/fr/aspose.cells.rendering/pdfcompliance)
-* classe [PdfSaveOptions](/cells/python-net/fr/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`PdfCompliance`](/cells/python-net/fr/aspose.cells.rendering/pdfcompliance)
+* classe [`PdfSaveOptions`](/cells/python-net/fr/aspose.cells/pdfsaveoptions)

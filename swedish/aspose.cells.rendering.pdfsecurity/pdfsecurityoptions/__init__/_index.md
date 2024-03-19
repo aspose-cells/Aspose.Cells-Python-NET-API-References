@@ -7,7 +7,7 @@ weight: 10
 url: /sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions/__init__/
 is_root: false
 ---
-##  PdfSecurityOptions() {#}
+##  __i det__ {#}
 Konstruktören av PdfSecurityOptions
 
 
@@ -21,7 +21,7 @@ def __init__(self):
 
 ###  Exempel
 
-Följande kod anger utskriftstillstånd för hög upplösning för utdata-pdf.
+Följande kod anger högupplöst utskriftstillstånd för utdata-pdf.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -47,5 +47,5 @@ wb.save("output.pdf", pdfSaveOptions)
 
 
 ###  Se även
-* modul [aspose.cells.rendering.pdfsecurity](../../)
-* klass [PdfSecurityOptions](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modul [`aspose.cells.rendering.pdfsecurity`](../../)
+* klass [`PdfSecurityOptions`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

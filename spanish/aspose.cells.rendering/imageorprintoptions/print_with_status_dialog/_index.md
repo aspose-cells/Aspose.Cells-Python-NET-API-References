@@ -3,14 +3,14 @@ title: print_with_status_dialog propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 250
+weight: 260
 url: /es/aspose.cells.rendering/imageorprintoptions/print_with_status_dialog/
 is_root: false
 ---
 ##  print_with_status_dialog propiedad
 
 Si PrintWithStatusDialog = true, habrá un cuadro de diálogo que muestra el estado de impresión actual.
-de lo contrario, no se mostrará dicho diálogo.
+de lo contrario, no se mostrará ningún cuadro de diálogo de este tipo.
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def print_with_status_dialog(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [ImageOrPrintOptions](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`ImageOrPrintOptions`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)

@@ -1,15 +1,15 @@
 ---
-title: base_index الملكية
+title: base_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 220
 url: /ar/aspose.cells.pivot/pivotfield/base_index/
 is_root: false
 ---
-##  base_index الملكية
+##  base_index عقار
 
-يمثل فهرس PivotField في PivotFields الأساسية.
+يمثل فهرس PivotField في PivotFields الأساسي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def base_index(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

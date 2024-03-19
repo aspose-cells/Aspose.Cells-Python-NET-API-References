@@ -1,9 +1,9 @@
 ---
 title: PaneStateType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2320
+weight: 2410
 url: /ru/aspose.cells/panestatetype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-Тип PaneStateType предоставляет следующие члены:
+Тип PaneStateType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| FROZEN | Панели заморожены, но не были заморожены до того, как были заморожены.|
-| FROZEN_SPLIT | Панели заморожены и были разделены до того, как были заморожены.|
-| SPLIT | Панели разделены, но не заморожены.|
-| NORMAL | Панели не замерзают и не разбиваются.|
+| FROZEN | Стекла заморожены, но до этого не были заморожены.|
+| FROZEN_SPLIT | Стекла заморожены и были разделены перед замораживанием.|
+| SPLIT |Стекла разделены, но не заморожены.|
+| NORMAL | Стекла не замерзают и не раскалываются.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

@@ -1,18 +1,18 @@
 ---
-title: classe DynamicFilter
+title: DynamicFilter classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 510
+weight: 530
 url: /it/aspose.cells/dynamicfilter/
 is_root: false
 ---
-##  classe DynamicFilter
+##  DynamicFilter classe
 Rappresenta il filtro dinamico.
 
 
 
-Il tipo DynamicFilter espone i membri seguenti:
+Il tipo DynamicFilter espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -24,4 +24,4 @@ Il tipo DynamicFilter espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

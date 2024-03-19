@@ -1,15 +1,15 @@
 ---
-title: glow 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: glow属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 420
 url: /zh/aspose.cells.drawing/listbox/glow/
 is_root: false
 ---
-## glow 属性
+## glow属性
 
-表示一个 [GlowEffect](/cells/python-net/zh/aspose.cells.drawing/gloweffect) 对象，该对象指定图表元素或形状的 glow 效果。
+表示一个 [`GlowEffect`](/cells/python-net/zh/aspose.cells.drawing/gloweffect) 对象，该对象指定图表元素或形状的 glow 效果。
 
 ### 例子
 
@@ -26,6 +26,6 @@ def glow(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GlowEffect](/cells/python-net/zh/aspose.cells.drawing/gloweffect)
-* 类 [ListBox](/cells/python-net/zh/aspose.cells.drawing/listbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GlowEffect`](/cells/python-net/zh/aspose.cells.drawing/gloweffect)
+* 类 [`ListBox`](/cells/python-net/zh/aspose.cells.drawing/listbox)

@@ -3,7 +3,7 @@ title: linked_cell propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 730
+weight: 740
 url: /es/aspose.cells.drawing/rectangleshape/linked_cell/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [RectangleShape](/cells/python-net/es/aspose.cells.drawing/rectangleshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`RectangleShape`](/cells/python-net/es/aspose.cells.drawing/rectangleshape)

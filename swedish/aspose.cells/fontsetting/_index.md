@@ -3,7 +3,7 @@ title: FontSetting klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 670
+weight: 700
 url: /sv/aspose.cells/fontsetting/
 is_root: false
 ---
@@ -17,15 +17,15 @@ Typen FontSetting avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [FontSetting(start_index, length, sheets)](/cells/python-net/sv/aspose.cells/fontsetting/__init__/#int-int-WorksheetCollection) |  |
+| [__init__](/cells/python-net/sv/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [type](/cells/python-net/sv/aspose.cells/fontsetting/type) | Hämtar typen av textnod.|
-| [start_index](/cells/python-net/sv/aspose.cells/fontsetting/start_index) | Hämtar startindex för tecknen.|
-| [length](/cells/python-net/sv/aspose.cells/fontsetting/length) |Får längden på karaktärerna.|
+| [start_index](/cells/python-net/sv/aspose.cells/fontsetting/start_index) |Hämtar startindex för tecknen.|
+| [length](/cells/python-net/sv/aspose.cells/fontsetting/length) | Får längden på karaktärerna.|
 | [font](/cells/python-net/sv/aspose.cells/fontsetting/font) | Returnerar teckensnittet för detta objekt.|
 | [text_options](/cells/python-net/sv/aspose.cells/fontsetting/text_options) | Returnerar textalternativen.|
 
@@ -33,7 +33,7 @@ Typen FontSetting avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [set_word_art_style(style)](/cells/python-net/sv/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Ställer in den förinställda WordArt-stilen.|
+| [set_word_art_style](/cells/python-net/sv/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Ställer in den förinställda WordArt-stilen.|
 
 
 
@@ -65,4 +65,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

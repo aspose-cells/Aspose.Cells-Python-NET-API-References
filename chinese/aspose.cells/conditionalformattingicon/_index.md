@@ -1,9 +1,9 @@
 ---
 title: ConditionalFormattingIcon类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 310
+weight: 320
 url: /zh/aspose.cells/conditionalformattingicon/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-ConditionalFormattingIcon 类型公开了以下成员：
+ConditionalFormattingIcon 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -25,10 +25,10 @@ ConditionalFormattingIcon 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [get_icon_image_data(type, index)](/cells/python-net/zh/aspose.cells/conditionalformattingicon/get_icon_image_data/#IconSetType-int) |获取图标集数据|
-| [get_image_data(cell)](/cells/python-net/zh/aspose.cells/conditionalformattingicon/get_image_data/#Cell) |获取带有单元格设置的图像数据。|
+| [get_icon_image_data](/cells/python-net/zh/aspose.cells/conditionalformattingicon/get_icon_image_data/#aspose.cells.IconSetType-int) |获取图标集数据|
+| [get_image_data](/cells/python-net/zh/aspose.cells/conditionalformattingicon/get_image_data/#aspose.cells.Cell) |通过cell的设置获取图像数据。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

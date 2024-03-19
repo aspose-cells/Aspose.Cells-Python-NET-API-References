@@ -1,18 +1,18 @@
 ---
-title: CountryCode enumerazione
+title: Enumerazione CountryCode
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1890
+weight: 1960
 url: /it/aspose.cells/countrycode/
 is_root: false
 ---
-##  CountryCode enumerazione
-Rappresenta gli identificatori di paese di Excel.
+##  Enumerazione CountryCode
+Rappresenta gli identificatori del paese in Excel.
 
 
 
-Il tipo CountryCode espone i membri seguenti:
+Il tipo CountryCode espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -20,7 +20,7 @@ Il tipo CountryCode espone i membri seguenti:
 | DEFAULT |  |
 | USA | stati Uniti|
 | CANADA | Canada|
-| LATIN_AMERIC | America Latina, tranne il Brasile|
+| LATIN_AMERIC | America Latina, escluso il Brasile|
 | RUSSIA | Russia|
 | EGYPT | Egitto|
 | GREECE | Grecia|
@@ -51,7 +51,7 @@ Il tipo CountryCode espone i membri seguenti:
 | INDIA | India|
 | ALGERIA | Algeria|
 | MOROCCO | Marocco|
-| LIBYA | Libia|
+| LIBYA |Libia|
 | PORTUGAL | Portogallo|
 | ICELAND | Islanda|
 | FINLAND | Finlandia|
@@ -71,4 +71,4 @@ Il tipo CountryCode espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

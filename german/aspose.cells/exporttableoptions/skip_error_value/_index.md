@@ -3,16 +3,16 @@ title: skip_error_value Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 160
 url: /de/aspose.cells/exporttableoptions/skip_error_value/
 is_root: false
 ---
 ##  skip_error_value Eigentum
 
 Gibt an, ob ein ungültiger Wert für die Spalte übersprungen wird.
- Wenn der Spaltentyp beispielsweise decimal ist, ist der Wert größer als decimal.MaxValue
+ Wenn der Spaltentyp beispielsweise „decimal“ ist, ist der Wert größer als „decimal.MaxValue“.
 und diese Eigenschaft wahr ist, werden wir keine Ausnahme mehr auslösen.
-Der Standardwert ist falsch.
+Der Standardwert ist false.
 ###  Definition:
 ```python
 @property
@@ -24,5 +24,5 @@ def skip_error_value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ExportTableOptions](/cells/python-net/de/aspose.cells/exporttableoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ExportTableOptions`](/cells/python-net/de/aspose.cells/exporttableoptions)

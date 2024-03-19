@@ -3,13 +3,13 @@ title: is_flipped_vertically propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 570
+weight: 580
 url: /fr/aspose.cells.drawing/scrollbar/is_flipped_vertically/
 is_root: false
 ---
 ##  is_flipped_vertically propriété
 
-Obtient et définit si la forme est retournée verticalement.
+Obtient et définit si la forme est inversée verticalement.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def is_flipped_vertically(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ScrollBar](/cells/python-net/fr/aspose.cells.drawing/scrollbar)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ScrollBar`](/cells/python-net/fr/aspose.cells.drawing/scrollbar)

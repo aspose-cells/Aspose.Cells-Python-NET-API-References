@@ -1,15 +1,15 @@
 ---
 title: image_scalable недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 440
+weight: 470
 url: /ru/aspose.cells/htmlsaveoptions/image_scalable/
 is_root: false
 ---
 ##  image_scalable недвижимость
 
-Указывает, используется ли масштабируемая единица для описания ширины изображения.
+Указывает, используется ли масштабируемая единица измерения для описания ширины изображения.
 при использовании масштабируемой единицы для описания ширины столбца.
 Значение по умолчанию верно.
 ###  Определение:
@@ -23,5 +23,5 @@ def image_scalable(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)

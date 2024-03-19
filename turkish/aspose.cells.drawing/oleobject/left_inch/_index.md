@@ -3,20 +3,20 @@ title: left_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 830
+weight: 840
 url: /tr/aspose.cells.drawing/oleobject/left_inch/
 is_root: false
 ---
 ##  left_inch mülk
 
-Şeklin sol sütunundan yatay uzaklığını inç cinsinden temsil eder.
+İnç birimi cinsinden şeklin sol sütunundan yatay uzaklığını temsil eder.
 
 ###  Örnek
 
 ```python
 
 if shape.left_inch == 3:
-    shape.left_inch = 1
+    shape.left_inch = 1.0
 
 ```
 ###  Tanım:
@@ -30,5 +30,5 @@ def left_inch(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [OleObject](/cells/python-net/tr/aspose.cells.drawing/oleobject)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`OleObject`](/cells/python-net/tr/aspose.cells.drawing/oleobject)

@@ -1,26 +1,26 @@
 ---
-title: العد PrintOrderType
+title: PrintOrderType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2390
+weight: 2480
 url: /ar/aspose.cells/printordertype/
 is_root: false
 ---
-##  العد PrintOrderType
-تمثيل ثوابت أمر الطباعة.
+##  PrintOrderType التعداد
+تمثيل ثوابت ترتيب الطباعة.
 
 
 
-يكشف نوع PrintOrderType الأعضاء التالية:
+يكشف النوع PrintOrderType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DOWN_THEN_OVER | إلى الأسفل ، ثم فوق|
-| OVER_THEN_DOWN | فوق ثم لأسفل|
+| DOWN_THEN_OVER | إلى الأسفل، ثم إلى الأعلى|
+| OVER_THEN_DOWN | فوق، ثم إلى الأسفل|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

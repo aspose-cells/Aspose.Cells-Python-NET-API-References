@@ -3,12 +3,12 @@ title: Sparkline Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 270
 url: /de/aspose.cells.charts/sparkline/
 is_root: false
 ---
 ##  Sparkline Klasse
-Eine Sparkline stellt ein winziges Diagramm oder eine Grafik in einer Arbeitsblattzelle dar, die eine visuelle Darstellung von Daten bietet.
+Eine Sparkline stellt ein kleines Diagramm oder eine kleine Grafik in einer Arbeitsblattzelle dar, die eine visuelle Darstellung von Daten bietet.
 
 
 
@@ -17,7 +17,7 @@ Der Typ Sparkline macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [data_range](/cells/python-net/de/aspose.cells.charts/sparkline/data_range) | Repräsentiert den Datenbereich der Sparkline.|
+| [data_range](/cells/python-net/de/aspose.cells.charts/sparkline/data_range) | Stellt den Datenbereich der Sparkline dar.|
 | [row](/cells/python-net/de/aspose.cells.charts/sparkline/row) | Ruft den Zeilenindex der Sparkline ab.|
 | [column](/cells/python-net/de/aspose.cells.charts/sparkline/column) | Ruft den Spaltenindex der Sparkline ab.|
 
@@ -25,8 +25,8 @@ Der Typ Sparkline macht die folgenden Member verfügbar:
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [to_image(file_name, options)](/cells/python-net/de/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Konvertiert eine Sparkline in ein Bild.|
-| [to_image(stream, options)](/cells/python-net/de/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Konvertiert eine Sparkline in ein Bild.|
+| [to_image](/cells/python-net/de/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Konvertiert eine Sparkline in ein Bild.|
+| [to_image](/cells/python-net/de/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Konvertiert eine Sparkline in ein Bild.|
 
 
 
@@ -59,4 +59,4 @@ line.to_image("output.png", ImageOrPrintOptions())
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

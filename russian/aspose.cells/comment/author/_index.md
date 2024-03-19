@@ -1,15 +1,15 @@
 ---
 title: author недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ru/aspose.cells/comment/author/
 is_root: false
 ---
 ##  author недвижимость
 
-Получает и устанавливает Имя исходного комментария author
+Получает и задает Имя исходного комментария author.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def author(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)

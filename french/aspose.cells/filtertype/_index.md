@@ -1,13 +1,13 @@
 ---
-title: FilterType dénombrement
+title: FilterType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2060
+weight: 2130
 url: /fr/aspose.cells/filtertype/
 is_root: false
 ---
-##  FilterType dénombrement
+##  FilterType énumération
 Le type de filtre.
 
 
@@ -28,4 +28,4 @@ Le type FilterType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

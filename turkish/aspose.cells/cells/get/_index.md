@@ -3,17 +3,17 @@ title: get yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 300
 url: /tr/aspose.cells/cells/get/
 is_root: false
 ---
-##  get(cell_name) {#str}
-API for Python .Net yoluyla ekleyin, çünkü bu [dize hücreAdı] desteklenmiyor
+##  get {#str}
+Bu[string cellName] desteklenmediğinden API for Python'i .Net.üzerinden ekleyin
 
 
 ###  İadeler
 
-[Cell](/cells/python-net/tr/aspose.cells/cell) nesnesi
+[`Cell`](/cells/python-net/tr/aspose.cells/cell) nesnesi
 
 
 ```python
@@ -27,13 +27,13 @@ def get(self, cell_name):
 | cell_name | str | Cell adı, sütun harfi ve satır numarası dahil, örneğin A5.|
 
 
-##  get(row, column) {#int-int}
-API for Python Via .Net.bu[int satır, int sütun] desteklenmediğinden ekleyin
+##  get {#int-int}
+Bu[int satır, int sütun] desteklenmediğinden .Net. yoluyla API for Python ekleyin
 
 
 ###  İadeler
 
-[Cell](/cells/python-net/tr/aspose.cells/cell) nesnesi.
+[`Cell`](/cells/python-net/tr/aspose.cells/cell) nesnesi.
 
 
 ```python
@@ -50,6 +50,6 @@ def get(self, row, column):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

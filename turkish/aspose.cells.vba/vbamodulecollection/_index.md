@@ -8,11 +8,11 @@ url: /tr/aspose.cells.vba/vbamodulecollection/
 is_root: false
 ---
 ##  VbaModuleCollection sınıfı
-[VbaModule](/cells/python-net/tr/aspose.cells.vba/vbamodule) listesini temsil eder
+[`VbaModule`](/cells/python-net/tr/aspose.cells.vba/vbamodule) listesini temsil eder
 
 
 
-VbaModuleCollection türü aşağıdaki üyeleri gösterir:
+VbaModuleCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -23,18 +23,19 @@ VbaModuleCollection türü aşağıdaki üyeleri gösterir:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add(sheet)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/add/#Worksheet) |Bir çalışma sayfası için modül ekler.|
-| [add(type, name)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/add/#VbaModuleType-str) | Modül ekler.|
-| [copy_to(array)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/copy_to/#int-list-int-int) |Dizi listesindeki bir dizi öğeyi, hedef dizi listesinin belirtilen dizininden başlayarak uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of(item, index)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/index_of/#VbaModule-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of(item, index, count)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/index_of/#VbaModule-int-int) | Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/last_index_of/#VbaModule) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/last_index_of/#VbaModule-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index, count)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/last_index_of/#VbaModule-int-int) |Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [add_designer_storage(name, data)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/add_designer_storage/#str-bytes) |  |
-| [get_designer_storage(name)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/get_designer_storage/#str) | Tasarımcının verilerini temsil eder.|
-| [binary_search(item)](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/binary_search/#VbaModule) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [add](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/add/#aspose.cells.Worksheet) | Bir çalışma sayfası için modül ekler.|
+| [add](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/add/#aspose.cells.vba.VbaModuleType-str) | Modül ekler.|
+| [copy_to](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak dizi listesinin tamamını uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [copy_to](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen dizininden başlayarak, dizi listesinden bir dizi öğeyi uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [index_of](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/index_of/#aspose.cells.vba.VbaModule-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [index_of](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/index_of/#aspose.cells.vba.VbaModule-int-int) |Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğeyi içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/last_index_of/#aspose.cells.vba.VbaModule) | Belirtilen nesneyi arar ve dizi listesinin tamamındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/last_index_of/#aspose.cells.vba.VbaModule-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/last_index_of/#aspose.cells.vba.VbaModule-int-int) | Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [add_designer_storage](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/add_designer_storage/#str-bytes) |  |
+| [get_designer_storage](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/get_designer_storage/#str) | Tasarımcının verilerini temsil eder.|
+| [add_user_form](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/add_user_form/#str-str-bytes) | Kullanıcı formunu VBA Projesine ekleyin.|
+| [binary_search](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection/binary_search/#aspose.cells.vba.VbaModule) | Varsayılan karşılaştırıcıyı kullanarak bir öğe için sıralanmış dizi listesinin tamamını arar ve öğenin sıfır tabanlı dizinini döndürür.|
 
 
 
@@ -56,5 +57,5 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](..)
-* sınıf [VbaModule](/cells/python-net/tr/aspose.cells.vba/vbamodule)
+* modül [`aspose.cells.vba`](..)
+* sınıf [`VbaModule`](/cells/python-net/tr/aspose.cells.vba/vbamodule)

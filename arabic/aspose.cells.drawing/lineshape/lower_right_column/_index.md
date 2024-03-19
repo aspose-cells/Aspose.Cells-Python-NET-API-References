@@ -1,15 +1,15 @@
 ---
-title: lower_right_column الملكية
+title: lower_right_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 820
+weight: 830
 url: /ar/aspose.cells.drawing/lineshape/lower_right_column/
 is_root: false
 ---
-##  lower_right_column الملكية
+##  lower_right_column عقار
 
-يمثل فهرس عمود الركن الأيمن السفلي.
+يمثل مؤشر عمود الزاوية اليمنى السفلى.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def lower_right_column(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineShape](/cells/python-net/ar/aspose.cells.drawing/lineshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineShape`](/cells/python-net/ar/aspose.cells.drawing/lineshape)

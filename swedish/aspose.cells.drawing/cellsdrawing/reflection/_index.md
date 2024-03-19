@@ -3,13 +3,13 @@ title: reflection fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 830
+weight: 840
 url: /sv/aspose.cells.drawing/cellsdrawing/reflection/
 is_root: false
 ---
 ##  reflection fastighet
 
-Representerar ett [ReflectionEffect](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)-objekt som anger reflection-effekt för diagramelementet eller formen.
+Representerar ett [`ReflectionEffect`](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)-objekt som anger reflection-effekt för diagramelementet eller formen.
 
 ###  Exempel
 
@@ -26,6 +26,6 @@ def reflection(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CellsDrawing](/cells/python-net/sv/aspose.cells.drawing/cellsdrawing)
-* klass [ReflectionEffect](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CellsDrawing`](/cells/python-net/sv/aspose.cells.drawing/cellsdrawing)
+* klass [`ReflectionEffect`](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)

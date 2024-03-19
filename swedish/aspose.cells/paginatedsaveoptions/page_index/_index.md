@@ -3,7 +3,7 @@ title: page_index fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 200
 url: /sv/aspose.cells/paginatedsaveoptions/page_index/
 is_root: false
 ---
@@ -45,5 +45,5 @@ def page_index(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PaginatedSaveOptions](/cells/python-net/sv/aspose.cells/paginatedsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PaginatedSaveOptions`](/cells/python-net/sv/aspose.cells/paginatedsaveoptions)

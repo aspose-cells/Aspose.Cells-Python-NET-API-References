@@ -3,12 +3,12 @@ title: import_object_array yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 670
+weight: 660
 url: /tr/aspose.cells/cells/import_object_array/
 is_root: false
 ---
-##  import_object_array(obj_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-Bir veri dizisini bir çalışma sayfasına aktarır.
+##  import_object_array {#list-int-int-bool}
+Bir dizi veriyi çalışma sayfasına aktarır.
 
 
 
@@ -26,8 +26,8 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Verilerin dikey veya yatay olarak içe aktarılacağını belirtir.|
 
 
-##  import_object_array(obj_array, first_row, first_column, is_vertical, skip) {#list-int-int-bool-int}
-Bir veri dizisini bir çalışma sayfasına aktarır.
+##  import_object_array {#list-int-int-bool-int}
+Bir dizi veriyi çalışma sayfasına aktarır.
 
 
 
@@ -48,5 +48,5 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical, s
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

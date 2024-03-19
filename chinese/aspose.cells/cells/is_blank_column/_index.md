@@ -1,19 +1,19 @@
 ---
 title: is_blank_column方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 740
+weight: 730
 url: /zh/aspose.cells/cells/is_blank_column/
 is_root: false
 ---
-##  is_blank_column(column_index) {#int}
+##  is_blank_column {#int}
 检查给定列是否为空（不包含任何数据）。
 
 
-### 返回
+### 退货
 
-如果给定列不包含任何数据，则为真
+如果给定列不包含任何数据，则为 true
 
 
 ```python
@@ -29,5 +29,5 @@ def is_blank_column(self, column_index):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

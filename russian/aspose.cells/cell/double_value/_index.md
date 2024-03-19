@@ -1,9 +1,9 @@
 ---
 title: double_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 440
+weight: 460
 url: /ru/aspose.cells/cell/double_value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def double_value(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

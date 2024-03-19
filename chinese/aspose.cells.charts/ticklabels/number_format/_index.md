@@ -1,13 +1,13 @@
 ---
-title: number_format 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: number_format属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 100
+weight: 110
 url: /zh/aspose.cells.charts/ticklabels/number_format/
 is_root: false
 ---
-## number_format 属性
+## number_format属性
 
 表示 TickLabels 对象的格式字符串。
 
@@ -25,5 +25,5 @@ def number_format(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [TickLabels](/cells/python-net/zh/aspose.cells.charts/ticklabels)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`TickLabels`](/cells/python-net/zh/aspose.cells.charts/ticklabels)

@@ -1,9 +1,9 @@
 ---
 title: TrendlineType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 670
+weight: 680
 url: /zh/aspose.cells.charts/trendlinetype/
 is_root: false
 ---
@@ -12,13 +12,13 @@ is_root: false
 
 
 
-TrendlineType 类型公开了以下成员：
+TrendlineType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| EXPONENTIAL |指数型|
-| LINEAR |线性的|
+| EXPONENTIAL |指数|
+| LINEAR |线性|
 | LOGARITHMIC |对数|
 | MOVING_AVERAGE |移动平均线|
 | POLYNOMIAL |多项式|
@@ -27,4 +27,4 @@ TrendlineType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

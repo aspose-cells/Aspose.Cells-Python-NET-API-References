@@ -3,7 +3,7 @@ title: ViewType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2650
+weight: 2740
 url: /sv/aspose.cells/viewtype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen ViewType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -1,5 +1,5 @@
 ---
-title: PdfSecurityOptions Konstrukteur
+title: PdfSecurityOptions Konstruktor
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 10
 url: /de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions/__init__/
 is_root: false
 ---
-##  PdfSecurityOptions() {#}
-Der Konstruktor von PdfSecurityOptions
+##  __drin__ {#}
+Der Konstrukteur von PdfSecurityOptions
 
 
 
@@ -21,7 +21,7 @@ def __init__(self):
 
 ###  Beispiel
 
-Der folgende Code legt die Berechtigung zum Drucken in hoher Auflösung für das Ausgabe-PDF fest.
+Der folgende Code legt die Druckberechtigung für die Ausgabe-PDF in hoher Auflösung fest.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -47,5 +47,5 @@ wb.save("output.pdf", pdfSaveOptions)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering.pdfsecurity](../../)
-* Klasse [PdfSecurityOptions](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* Modul [`aspose.cells.rendering.pdfsecurity`](../../)
+* Klasse [`PdfSecurityOptions`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

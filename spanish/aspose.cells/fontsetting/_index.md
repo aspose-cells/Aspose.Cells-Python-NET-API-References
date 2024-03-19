@@ -3,12 +3,12 @@ title: FontSetting clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 670
+weight: 700
 url: /es/aspose.cells/fontsetting/
 is_root: false
 ---
 ##  FontSetting clase
-Representa un rango de caracteres dentro del texto de la celda.
+Representa una variedad de caracteres dentro del texto de la celda.
 
 
 
@@ -17,15 +17,15 @@ El tipo FontSetting expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [FontSetting(start_index, length, sheets)](/cells/python-net/es/aspose.cells/fontsetting/__init__/#int-int-WorksheetCollection) |  |
+| [__init__](/cells/python-net/es/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
 
 
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
 | [type](/cells/python-net/es/aspose.cells/fontsetting/type) | Obtiene el tipo de nodo de texto.|
-| [start_index](/cells/python-net/es/aspose.cells/fontsetting/start_index) | Obtiene el índice de inicio de los caracteres.|
-| [length](/cells/python-net/es/aspose.cells/fontsetting/length) |Obtiene la longitud de los caracteres.|
+| [start_index](/cells/python-net/es/aspose.cells/fontsetting/start_index) |Obtiene el índice inicial de los caracteres.|
+| [length](/cells/python-net/es/aspose.cells/fontsetting/length) | Obtiene la longitud de los caracteres.|
 | [font](/cells/python-net/es/aspose.cells/fontsetting/font) | Devuelve la fuente de este objeto.|
 | [text_options](/cells/python-net/es/aspose.cells/fontsetting/text_options) | Devuelve las opciones de texto.|
 
@@ -33,7 +33,7 @@ El tipo FontSetting expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [set_word_art_style(style)](/cells/python-net/es/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Establece el estilo predeterminado de WordArt.|
+| [set_word_art_style](/cells/python-net/es/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Establece el estilo preestablecido de WordArt.|
 
 
 
@@ -65,4 +65,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

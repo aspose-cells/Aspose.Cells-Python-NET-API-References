@@ -1,13 +1,13 @@
 ---
-title: FontSchemeType dénombrement
+title: FontSchemeType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2070
+weight: 2140
 url: /fr/aspose.cells/fontschemetype/
 is_root: false
 ---
-##  FontSchemeType dénombrement
+##  FontSchemeType énumération
 Représente le type de schéma de la police.
 
 
@@ -24,4 +24,4 @@ Le type FontSchemeType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

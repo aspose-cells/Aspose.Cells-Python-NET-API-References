@@ -1,9 +1,9 @@
 ---
 title: in_cell_drop_down недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ru/aspose.cells/validation/in_cell_drop_down/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def in_cell_drop_down(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Validation](/cells/python-net/ru/aspose.cells/validation)
+* модуль [`aspose.cells`](../../)
+* класс [`Validation`](/cells/python-net/ru/aspose.cells/validation)

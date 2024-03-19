@@ -1,15 +1,15 @@
 ---
 title: is_color_varied недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 280
+weight: 270
 url: /ru/aspose.cells.charts/series/is_color_varied/
 is_root: false
 ---
 ##  is_color_varied недвижимость
 
- Представляет, если цвет точек различен.
+ Указывает, различается ли цвет точек.
 Диаграмма должна содержать только одну серию.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def is_color_varied(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

@@ -1,15 +1,15 @@
 ---
-title: remove_personal_information الملكية
+title: remove_personal_information عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 410
 url: /ar/aspose.cells/workbooksettings/remove_personal_information/
 is_root: false
 ---
-##  remove_personal_information الملكية
+##  remove_personal_information عقار
 
-صواب إذا كان من الممكن إزالة المعلومات الشخصية من المصنف المحدد.
+صحيح إذا كان من الممكن إزالة المعلومات الشخصية من المصنف المحدد.
 
 ###  ملاحظات
 
@@ -25,5 +25,5 @@ def remove_personal_information(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

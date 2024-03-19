@@ -3,34 +3,34 @@ title: ChartMarkerType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 430
 url: /tr/aspose.cells.charts/chartmarkertype/
 is_root: false
 ---
 ##  ChartMarkerType numaralandırma
-Çizgi grafiği, dağılım grafiği veya radar grafiğindeki işaretçi stilini temsil eder.
+Çizgi grafiğinde, dağılım grafiğinde veya radar grafiğinde işaretçi stilini temsil eder.
 
 
 
-ChartMarkerType türü aşağıdaki üyeleri gösterir:
+ChartMarkerType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| AUTOMATIC | Otomatik işaretçiler.|
-| CIRCLE | Dairesel işaretçiler.|
+| AUTOMATIC | Otomatik işaretleyiciler.|
+| CIRCLE | Dairesel işaretleyiciler.|
 | DASH | Uzun çubuk işaretleri|
 | DIAMOND | Elmas şeklindeki işaretleyiciler.|
 | DOT | Kısa çubuk işaretleri.|
 | NONE | İşaret yok.|
-| SQUARE_PLUS | Artı işareti olan kare işaretçiler.|
-| SQUARE | Kare işaretçiler.|
-| SQUARE_STAR | Yıldızlı kare işaretçiler.|
-| TRIANGLE | Üçgen işaretçiler.|
-| SQUARE_X | X ile kare işaretleri.|
+| SQUARE_PLUS | Artı işaretli kare işaretleyiciler.|
+| SQUARE | Kare işaretleyiciler.|
+| SQUARE_STAR | Yıldız işaretli kare işaretleyiciler.|
+| TRIANGLE | Üçgen işaretleyiciler.|
+| SQUARE_X | X içeren kare işaretleyiciler.|
 | PICTURE | Resim|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

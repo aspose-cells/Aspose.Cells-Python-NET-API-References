@@ -12,28 +12,31 @@ Aspose.Cells varsayılan hesaplama motorunu genişletmek için kullanıcının �
 
 
 
-AbstractCalculationEngine türü aşağıdaki üyeleri gösterir:
+AbstractCalculationEngine türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [is_param_literal_required](/cells/python-net/tr/aspose.cells/abstractcalculationengine/is_param_literal_required) | Hesaplama yaparken bu motorun parametrenin değişmez metnine ihtiyaç duyup duymadığını gösterir. Varsayılan değer yanlıştır.|
-| [process_built_in_functions](/cells/python-net/tr/aspose.cells/abstractcalculationengine/process_built_in_functions) | Yerleşik motor tarafından desteklenen yerleşik işlevlerin bu uygulama tarafından kontrol edilip işlenmesi gerekip gerekmediği.<br/>Varsayılan yanlıştır.<br/> Kullanıcının bazı yerleşik fonksiyonların hesaplama mantığını değiştirmesi gerekiyorsa, bu özellik true olarak ayarlanmalıdır.|
+| [is_param_literal_required](/cells/python-net/tr/aspose.cells/abstractcalculationengine/is_param_literal_required) |Bu motorun hesaplama yaparken parametrenin tam metnine ihtiyacı olup olmadığını gösterir. Varsayılan değer false'tur.|
+| [is_param_array_mode_required](/cells/python-net/tr/aspose.cells/abstractcalculationengine/is_param_array_mode_required) | Bu motorun dizi modunda hesaplanması için parametreye ihtiyacı olup olmadığını gösterir. Varsayılan değer false'tur.<br/>Özel hesaplama yaparken [`CalculationData.get_param_value_in_array_mode`](/cells/python-net/tr/aspose.cells/calculationdata/get_param_value_in_array_mode) gerekiyorsa<br/>işlevler ve kullanıcı bunların tanımını güncellemedi<br/>([`Workbook.update_custom_function_definition`](/cells/python-net/tr/aspose.cells/workbook/update_custom_function_definition) tarafından),<br/> bu özelliğin true olarak ayarlanması gerekiyor.|
+| [process_built_in_functions](/cells/python-net/tr/aspose.cells/abstractcalculationengine/process_built_in_functions) | Yerleşik motor tarafından desteklenen yerleşik işlevlerin olup olmadığı<br/>Bu uygulama tarafından kontrol edilmeli ve işlenmelidir.<br/> Varsayılan yanlıştır.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [calculate(data)](/cells/python-net/tr/aspose.cells/abstractcalculationengine/calculate/#CalculationData) | Verilen verilerle bir işlevi hesaplar.|
+| [calculate](/cells/python-net/tr/aspose.cells/abstractcalculationengine/calculate/#aspose.cells.CalculationData) | Verilen verilerle bir fonksiyonu hesaplar.|
 
 
 
 ###  Notlar
 
-Kullanıcı, bu uygulamada Çalışma Kitabının herhangi bir bölümünü doğrudan değiştirmemelidir (CalculationData.CalculatedValue özelliği tarafından ayarlanabilen özel işlevin hesaplanan sonucu dışında).
-Aksi takdirde beklenmeyen sonuç veya İstisna meydana gelebilir.
-Kullanıcının, bazı özel işlevler için uygulamada hesaplanan sonuçlar dışındaki verileri değiştirmesi gerekiyorsa,
-örneğin, hücrenin formülünü, stilini vb. değiştirmek, kullanıcı bu verileri bu uygulamada toplamalı ve formül hesaplama kapsamı dışında değiştirmelidir.
+Kullanıcı, Çalışma Kitabının herhangi bir bölümünü doğrudan bu uygulamada değiştirmemelidir (hariç
+CalculationData.CalculatedValue özelliği tarafından ayarlanabilen özel işlevin hesaplanan sonucu).
+Aksi takdirde beklenmeyen bir sonuç veya İstisna meydana gelebilir.
+Kullanıcının bazı özel işlevler için uygulamada hesaplanan sonuçtan başka verileri değiştirmesi gerekiyorsa,
+örneğin, hücrenin formülünü, stilini vb. değiştirin, kullanıcının bu verileri bu uygulamada toplaması gerekir
+ve bunları formül hesaplamasının kapsamı dışında değiştirin.
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

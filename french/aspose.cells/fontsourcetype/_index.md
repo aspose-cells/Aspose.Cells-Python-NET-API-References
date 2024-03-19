@@ -1,13 +1,13 @@
 ---
-title: FontSourceType dénombrement
+title: FontSourceType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2080
+weight: 2150
 url: /fr/aspose.cells/fontsourcetype/
 is_root: false
 ---
-##  FontSourceType dénombrement
+##  FontSourceType énumération
 Spécifie le type d'une source de police.
 
 
@@ -24,4 +24,4 @@ Le type FontSourceType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

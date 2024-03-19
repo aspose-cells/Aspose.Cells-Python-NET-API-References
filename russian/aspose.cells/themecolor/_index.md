@@ -1,9 +1,9 @@
 ---
 title: ThemeColor класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1430
+weight: 1500
 url: /ru/aspose.cells/themecolor/
 is_root: false
 ---
@@ -12,12 +12,12 @@ is_root: false
 
 
 
-Тип ThemeColor предоставляет следующие члены:
+Тип ThemeColor предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [ThemeColor(type, tint)](/cells/python-net/ru/aspose.cells/themecolor/__init__/#ThemeColorType-float) |  |
+| [__init__](/cells/python-net/ru/aspose.cells/themecolor/__init__/#aspose.cells.ThemeColorType-float) |  |
 
 
 ###  Характеристики
@@ -50,4 +50,4 @@ workbook.save("book1.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

@@ -3,12 +3,12 @@ title: طريقة register_add_in_function
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ar/aspose.cells/worksheetcollection/register_add_in_function/
 is_root: false
 ---
-##  register_add_in_function(id, function_name) {#int-str}
-يضيف وظيفة الوظيفة الإضافية في المصنف
+##  register_add_in_function {#int-str}
+يضيف وظيفة الوظيفة الإضافية إلى المصنف
 
 
 ###  عائدات
@@ -24,17 +24,17 @@ def register_add_in_function(self, id, function_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| id | int | معرف البيانات التي تحتوي على وظائف إضافية ،<br/> يمكن الحصول عليها من خلال المكالمة الأولى من [WorksheetCollection.register_add_in_function(add_in_file, function_name, lib)](/cells/python-net/ar/aspose.cells/worksheetcollection/register_add_in_function) لنفس ملف الوظيفة الإضافية.|
-| function_name | str | اسم وظيفة الوظيفة الإضافية|
+| id | int | معرف البيانات التي تحتوي على وظائف الوظيفة الإضافية،<br/> يمكن الحصول عليها عن طريق الاتصال الأول على الرقم [`WorksheetCollection.register_add_in_function`](/cells/python-net/ar/aspose.cells/worksheetcollection/register_add_in_function) لنفس الملف الإضافي.|
+| function_name | str | اسم الوظيفة الإضافية|
 
 
-##  register_add_in_function(add_in_file, function_name, lib) {#str-str-bool}
-يضيف وظيفة الوظيفة الإضافية في المصنف
+##  register_add_in_function {#str-str-bool}
+يضيف وظيفة الوظيفة الإضافية إلى المصنف
 
 
 ###  عائدات
 
-معرف البيانات التي تحتوي على وظيفة إضافية معينة
+معرف البيانات التي تحتوي على وظيفة الوظيفة الإضافية المحددة
 
 
 ```python
@@ -46,11 +46,11 @@ def register_add_in_function(self, add_in_file, function_name, lib):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | add_in_file | str | يحتوي الملف على وظائف الوظيفة الإضافية|
-| function_name | str | اسم وظيفة الوظيفة الإضافية|
-| lib | bool | ما إذا كان الملف الإضافي المحدد موجودًا في الدليل أو الدليل الفرعي لمكتبة Workbook Add-In.<br/>تسري هذه العلامة وتحدث فرقًا عندما يكون ملف addIn المعطى ذا مسار نسبي:<br/> تشير القيمة true إلى أن المسار متعلق بمكتبة الوظائف الإضافية بينما تشير القيمة false إلى أن المسار مرتبط بهذا المصنف.|
+| function_name | str | اسم الوظيفة الإضافية|
+| lib | bool | ما إذا كان ملف الوظيفة الإضافية المحدد موجودًا في الدليل أو الدليل الفرعي لمكتبة Workbook Add-In.<br/>تصبح هذه العلامة سارية المفعول وتُحدث فرقًا عندما يكون ملف addInFile ذو مسار نسبي:<br/> يشير "صحيح" إلى أن المسار مرتبط بمكتبة الوظائف الإضافية ويشير "خطأ" إلى أن المسار مرتبط بهذا المصنف.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

@@ -1,13 +1,13 @@
 ---
-title: match_entire_cell_contents الملكية
+title: match_entire_cell_contents عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells/replaceoptions/match_entire_cell_contents/
 is_root: false
 ---
-##  match_entire_cell_contents الملكية
+##  match_entire_cell_contents عقار
 
 يشير إلى ما إذا كان سيتم مطابقة محتويات الخلايا بأكملها
 ###  تعريف:
@@ -21,5 +21,5 @@ def match_entire_cell_contents(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ReplaceOptions](/cells/python-net/ar/aspose.cells/replaceoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ReplaceOptions`](/cells/python-net/ar/aspose.cells/replaceoptions)

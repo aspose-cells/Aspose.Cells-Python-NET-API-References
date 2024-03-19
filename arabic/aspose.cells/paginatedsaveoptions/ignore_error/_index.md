@@ -1,16 +1,16 @@
 ---
-title: ignore_error الملكية
+title: ignore_error عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ar/aspose.cells/paginatedsaveoptions/ignore_error/
 is_root: false
 ---
-##  ignore_error الملكية
+##  ignore_error عقار
 
 يشير إلى ما إذا كنت بحاجة إلى إخفاء الخطأ أثناء العرض.
-يمكن أن يكون الخطأ خطأ في الشكل ، الصورة ، عرض المخطط ، إلخ.
+يمكن أن يكون الخطأ خطأ في الشكل أو الصورة أو عرض المخطط وما إلى ذلك.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def ignore_error(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PaginatedSaveOptions](/cells/python-net/ar/aspose.cells/paginatedsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PaginatedSaveOptions`](/cells/python-net/ar/aspose.cells/paginatedsaveoptions)

@@ -3,7 +3,7 @@ title: top_cm proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /it/aspose.cells.drawing/spinner/top_cm/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Rappresenta l'offset verticale della forma dalla riga superiore, in unità di ce
 ```python
 
 if shape.top_cm == 3:
-    shape.top_cm = 1
+    shape.top_cm = 1.0
 
 ```
 ###  Definizione:
@@ -30,5 +30,5 @@ def top_cm(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Spinner](/cells/python-net/it/aspose.cells.drawing/spinner)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Spinner`](/cells/python-net/it/aspose.cells.drawing/spinner)

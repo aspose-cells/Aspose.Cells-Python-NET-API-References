@@ -1,27 +1,27 @@
 ---
 title: PivotTableAutoFormatType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 220
+weight: 340
 url: /ru/aspose.cells.pivot/pivottableautoformattype/
 is_root: false
 ---
 ##  PivotTableAutoFormatType перечисление
-Представляет тип автоматического формата сводной таблицы.
+Представляет тип автоматического форматирования сводной таблицы.
 
 
 
-Тип PivotTableAutoFormatType предоставляет следующие члены:
+Тип PivotTableAutoFormatType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NONE |Представляет тип формата None.|
-| CLASSIC | Представляет классический тип автоматического формата.|
+| NONE | Представляет тип формата «Нет».|
+| CLASSIC | Представляет тип автоматического форматирования Classic.|
 | REPORT1 | Представляет тип формата Report1.|
 | REPORT2 | Представляет тип формата Report2.|
-| REPORT3 | Представляет тип формата Report3.|
+| REPORT3 |Представляет тип формата Report3.|
 | REPORT4 | Представляет тип формата Report4.|
 | REPORT5 | Представляет тип формата Report5.|
 | REPORT6 | Представляет тип формата Report6.|
@@ -43,4 +43,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](..)
+* модуль [`aspose.cells.pivot`](..)

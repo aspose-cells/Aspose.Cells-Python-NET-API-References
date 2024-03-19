@@ -3,13 +3,13 @@ title: relative_to_original_picture_size propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 840
+weight: 850
 url: /fr/aspose.cells.drawing/smartartshape/relative_to_original_picture_size/
 is_root: false
 ---
 ##  relative_to_original_picture_size propriété
 
-Indique si la forme est relative à la taille de l'image d'origine.
+Indique si la forme est relative à la taille d'origine de l'image.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def relative_to_original_picture_size(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [SmartArtShape](/cells/python-net/fr/aspose.cells.drawing/smartartshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`SmartArtShape`](/cells/python-net/fr/aspose.cells.drawing/smartartshape)

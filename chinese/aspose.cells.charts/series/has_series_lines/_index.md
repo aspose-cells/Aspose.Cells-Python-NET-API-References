@@ -1,17 +1,17 @@
 ---
-title: has_series_lines 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: has_series_lines属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 230
 url: /zh/aspose.cells.charts/series/has_series_lines/
 is_root: false
 ---
-## has_series_lines 属性
+## has_series_lines属性
 
-如果堆积柱形图或条形图具有系列线或
-如果 Pie of Pie 图表或 Bar of Pie 图表在两个部分之间有连接线。
-仅适用于堆积柱形图、条形图、饼图或条形饼图。
+如果堆积柱形图或条形图具有系列线或则为 True
+如果饼图或饼图条形图的两个部分之间有连接线。
+仅适用于堆叠柱形图、条形图、饼图或饼图。
 ### 定义：
 ```python
 @property
@@ -23,5 +23,5 @@ def has_series_lines(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Series](/cells/python-net/zh/aspose.cells.charts/series)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Series`](/cells/python-net/zh/aspose.cells.charts/series)

@@ -1,15 +1,15 @@
 ---
-title: row الملكية
+title: row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 660
+weight: 690
 url: /ar/aspose.cells/cell/row/
 is_root: false
 ---
-##  row الملكية
+##  row عقار
 
-الحصول على row رقم الخلية (على أساس الصفر).
+يحصل على رقم row (على أساس صفر) للخلية.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

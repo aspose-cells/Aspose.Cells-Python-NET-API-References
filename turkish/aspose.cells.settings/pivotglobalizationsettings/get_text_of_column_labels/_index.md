@@ -3,11 +3,11 @@ title: get_text_of_column_labels yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 30
+weight: 50
 url: /tr/aspose.cells.settings/pivotglobalizationsettings/get_text_of_column_labels/
 is_root: false
 ---
-##  get_text_of_column_labels() {#}
+##  get_text_of_column_labels {#}
 PivotTable'daki "Sütun Etiketleri" etiketinin metnini alır.
 
 
@@ -26,5 +26,5 @@ def get_text_of_column_labels(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.settings](../../)
-* sınıf [PivotGlobalizationSettings](/cells/python-net/tr/aspose.cells.settings/pivotglobalizationsettings)
+* modül [`aspose.cells.settings`](../../)
+* sınıf [`PivotGlobalizationSettings`](/cells/python-net/tr/aspose.cells.settings/pivotglobalizationsettings)

@@ -1,24 +1,24 @@
 ---
 title: SeriesCollection类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 250
 url: /zh/aspose.cells.charts/seriescollection/
 is_root: false
 ---
 ## SeriesCollection类
-封装 [Series](/cells/python-net/zh/aspose.cells.charts/series) 对象的集合。
+封装了 [`Series`](/cells/python-net/zh/aspose.cells.charts/series) 对象的集合。
 
 
 
-SeriesCollection 类型公开了以下成员：
+SeriesCollection 类型公开以下成员：
 
 ### 特性
 |属性|描述|
 | :- | :- |
-| [category_data](/cells/python-net/zh/aspose.cells.charts/seriescollection/category_data) |获取或设置类别 Axis 值的范围。<br/>它可以是一系列单元格（例如“d1:e10”），<br/>或一系列值（例如，“{2,6,8,10}”）。|
-| [second_category_data](/cells/python-net/zh/aspose.cells.charts/seriescollection/second_category_data) |获取或设置第二类 Axis 值的范围。<br/>它可以是一系列单元格（例如“d1:e10”），<br/>或一系列值（例如，“{2,6,8,10}”）。<br/>仅当一些 ASerieses 在第二个轴上绘制时才有效。|
+| [category_data](/cells/python-net/zh/aspose.cells.charts/seriescollection/category_data) |获取或设置类别轴值的范围。<br/>它可以是一系列单元格（例如“d1:e10”），<br/>或值序列（例如“{2,6,8,10}”）。|
+| [second_category_data](/cells/python-net/zh/aspose.cells.charts/seriescollection/second_category_data) |获取或设置第二类轴值的范围。<br/>它可以是一系列单元格（例如“d1:e10”），<br/>或值序列（例如“{2,6,8,10}”）。<br/>仅当某些 ASeries 在第二个轴上绘制时才有效。|
 | [is_color_varied](/cells/python-net/zh/aspose.cells.charts/seriescollection/is_color_varied) |表示点的颜色是否变化。|
 | [capacity](/cells/python-net/zh/aspose.cells.charts/seriescollection/capacity) |获取或设置数组列表可以包含的元素数。|
 
@@ -26,20 +26,20 @@ SeriesCollection 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [add(area, is_vertical)](/cells/python-net/zh/aspose.cells.charts/seriescollection/add/#str-bool) |将 [SeriesCollection](/cells/python-net/zh/aspose.cells.charts/seriescollection) 集合添加到图表中。|
-| [add(area, is_vertical, check_labels)](/cells/python-net/zh/aspose.cells.charts/seriescollection/add/#str-bool-bool) |将 [SeriesCollection](/cells/python-net/zh/aspose.cells.charts/seriescollection) 集合添加到图表中。|
-| [copy_to(array)](/cells/python-net/zh/aspose.cells.charts/seriescollection/copy_to/#list) |将整个数组列表复制到兼容的一维数组列表，从目标数组列表的开头开始。|
-| [copy_to(index, array, array_index, count)](/cells/python-net/zh/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) |将数组列表中的一系列元素复制到兼容的一维数组列表，从目标数组列表的指定索引开始。|
-| [index_of(item, index)](/cells/python-net/zh/aspose.cells.charts/seriescollection/index_of/#Series-int) |搜索指定的对象并返回数组列表中从指定索引延伸到最后一个元素的元素范围内第一次出现的从零开始的索引。|
-| [index_of(item, index, count)](/cells/python-net/zh/aspose.cells.charts/seriescollection/index_of/#Series-int-int) |搜索指定的对象并返回数组列表中从指定索引开始并包含指定数量的元素的元素范围内第一次出现的从零开始的索引。|
-| [last_index_of(item)](/cells/python-net/zh/aspose.cells.charts/seriescollection/last_index_of/#Series) |搜索指定的对象并返回整个数组列表中最后一次出现的从零开始的索引。|
-| [last_index_of(item, index)](/cells/python-net/zh/aspose.cells.charts/seriescollection/last_index_of/#Series-int) |搜索指定的对象并返回数组列表中从第一个元素到指定索引的元素范围内最后一次出现的从零开始的索引。|
-| [last_index_of(item, index, count)](/cells/python-net/zh/aspose.cells.charts/seriescollection/last_index_of/#Series-int-int) |搜索指定的对象并返回数组列表中包含指定数量的元素并以指定索引结束的元素范围内最后一次出现的从零开始的索引。|
-| [get_series_by_order(order)](/cells/python-net/zh/aspose.cells.charts/seriescollection/get_series_by_order/#int) |按顺序获取 [Series](/cells/python-net/zh/aspose.cells.charts/series) 元素。|
-| [change_series_order(source_index, dest_index)](/cells/python-net/zh/aspose.cells.charts/seriescollection/change_series_order/#int-int) |直接改变两个系列的顺序。|
-| [set_series_names(start_index, area, is_vertical)](/cells/python-net/zh/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) |设置图表中所有系列的名称。|
-| [add_r1c1(area, is_vertical)](/cells/python-net/zh/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) |将 [SeriesCollection](/cells/python-net/zh/aspose.cells.charts/seriescollection) 集合添加到图表中。|
-| [binary_search(item)](/cells/python-net/zh/aspose.cells.charts/seriescollection/binary_search/#Series) |使用默认比较器在整个排序数组列表中搜索元素，并返回元素的从零开始的索引。|
+| [add](/cells/python-net/zh/aspose.cells.charts/seriescollection/add/#str-bool) |将 [`Series`](/cells/python-net/zh/aspose.cells.charts/series) 集合添加到图表中。|
+| [add](/cells/python-net/zh/aspose.cells.charts/seriescollection/add/#str-bool-bool) |将 [`Series`](/cells/python-net/zh/aspose.cells.charts/series) 集合添加到图表中。|
+| [copy_to](/cells/python-net/zh/aspose.cells.charts/seriescollection/copy_to/#list) |从目标数组列表的开头开始，将整个数组列表复制到兼容的一维数组列表。|
+| [copy_to](/cells/python-net/zh/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) |从目标数组列表的指定索引开始，将数组列表中的一系列元素复制到兼容的一维数组列表。|
+| [index_of](/cells/python-net/zh/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int) |搜索指定对象并返回数组列表中从指定索引延伸到最后一个元素的元素范围内第一个匹配项的从零开始的索引。|
+| [index_of](/cells/python-net/zh/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int-int) |搜索指定对象并返回数组列表中从指定索引开始并包含指定数量元素的元素范围内第一个匹配项的从零开始的索引。|
+| [last_index_of](/cells/python-net/zh/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series) |搜索指定对象并返回整个数组列表中最后一次出现的从零开始的索引。|
+| [last_index_of](/cells/python-net/zh/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int) |搜索指定对象并返回数组列表中从第一个元素延伸到指定索引的元素范围内最后一次出现的从零开始的索引。|
+| [last_index_of](/cells/python-net/zh/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int-int) |搜索指定的对象，并返回数组列表中包含指定数量的元素并以指定索引结束的元素范围内最后一个匹配项的从零开始的索引。|
+| [get_series_by_order](/cells/python-net/zh/aspose.cells.charts/seriescollection/get_series_by_order/#int) |按顺序获取[`Series`](/cells/python-net/zh/aspose.cells.charts/series)元素。|
+| [change_series_order](/cells/python-net/zh/aspose.cells.charts/seriescollection/change_series_order/#int-int) |直接改变两个系列的顺序。|
+| [set_series_names](/cells/python-net/zh/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) |设置图表中所有系列的名称。|
+| [add_r1c1](/cells/python-net/zh/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) |将 [`Series`](/cells/python-net/zh/aspose.cells.charts/series) 集合添加到图表中。|
+| [binary_search](/cells/python-net/zh/aspose.cells.charts/seriescollection/binary_search/#aspose.cells.charts.Series) |使用默认比较器在整个排序数组列表中搜索元素，并返回该元素从零开始的索引。|
 
 
 
@@ -93,6 +93,5 @@ workbook.save("book1.xls")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
-* 类 [Series](/cells/python-net/zh/aspose.cells.charts/series)
-* 类 [SeriesCollection](/cells/python-net/zh/aspose.cells.charts/seriescollection)
+* 模块[`aspose.cells.charts`](..)
+* 类 [`Series`](/cells/python-net/zh/aspose.cells.charts/series)

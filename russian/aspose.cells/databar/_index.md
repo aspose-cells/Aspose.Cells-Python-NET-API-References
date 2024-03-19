@@ -1,42 +1,42 @@
 ---
 title: DataBar класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 400
+weight: 420
 url: /ru/aspose.cells/databar/
 is_root: false
 ---
 ##  DataBar класс
  Опишите правило условного форматирования DataBar.
-Это правило условного форматирования отображает градуированный
+Это правило условного форматирования отображает градуированное
 панель данных в диапазоне ячеек.
 
 
 
-Тип DataBar предоставляет следующие члены:
+Тип DataBar предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [axis_color](/cells/python-net/ru/aspose.cells/databar/axis_color) | Получает цвет оси для ячеек с условным форматированием в виде гистограмм.|
 | [axis_position](/cells/python-net/ru/aspose.cells/databar/axis_position) | Получает или задает положение оси гистограмм, заданное правилом условного форматирования.|
-| [bar_fill_type](/cells/python-net/ru/aspose.cells/databar/bar_fill_type) | Получает или задает способ заполнения панели данных цветом.|
+| [bar_fill_type](/cells/python-net/ru/aspose.cells/databar/bar_fill_type) | Получает или задает цвет заливки панели данных.|
 | [direction](/cells/python-net/ru/aspose.cells/databar/direction) |Получает или задает направление отображения панели данных.|
-| [bar_border](/cells/python-net/ru/aspose.cells/databar/bar_border) | Получает объект, указывающий границу гистограммы.|
-| [negative_bar_format](/cells/python-net/ru/aspose.cells/databar/negative_bar_format) | Получает объект NegativeBarFormat, связанный с правилом условного форматирования гистограммы.|
-| [min_cfvo](/cells/python-net/ru/aspose.cells/databar/min_cfvo) | Получите или установите объект минимального значения этого DataBar.<br/> Невозможно установить значение null или CFValueObject с типом FormatConditionValueType.Max.|
-| [max_cfvo](/cells/python-net/ru/aspose.cells/databar/max_cfvo) | Получите или установите объект максимального значения этого DataBar.<br/> Невозможно установить значение null или CFValueObject с типом FormatConditionValueType.Min.|
-| [color](/cells/python-net/ru/aspose.cells/databar/color) | Получить или установить цвет этого DataBar.|
-| [min_length](/cells/python-net/ru/aspose.cells/databar/min_length) | Представляет минимальную длину строки данных.|
-| [max_length](/cells/python-net/ru/aspose.cells/databar/max_length) | Представляет максимальную длину строки данных.|
-| [show_value](/cells/python-net/ru/aspose.cells/databar/show_value) | Получите или установите флаг, указывающий, следует ли отображать значения ячеек, к которым применяется эта панель данных.<br/> Значение по умолчанию — истина.|
+| [bar_border](/cells/python-net/ru/aspose.cells/databar/bar_border) | Получает объект, задающий границу панели данных.|
+| [negative_bar_format](/cells/python-net/ru/aspose.cells/databar/negative_bar_format) | Получает объект NegativeBarFormat, связанный с правилом условного форматирования панели данных.|
+| [min_cfvo](/cells/python-net/ru/aspose.cells/databar/min_cfvo) | Получите или установите объект минимального значения этого DataBar.<br/> Невозможно установить для него значение null или CFValueObject с типом FormatConditionValueType.Max.|
+| [max_cfvo](/cells/python-net/ru/aspose.cells/databar/max_cfvo) | Получите или установите объект максимального значения этого DataBar.<br/> Невозможно установить для него значение null или CFValueObject с типом FormatConditionValueType.Min.|
+| [color](/cells/python-net/ru/aspose.cells/databar/color) | Получите или установите цвет этого DataBar.|
+| [min_length](/cells/python-net/ru/aspose.cells/databar/min_length) | Представляет минимальную длину панели данных.|
+| [max_length](/cells/python-net/ru/aspose.cells/databar/max_length) | Представляет максимальную длину панели данных.|
+| [show_value](/cells/python-net/ru/aspose.cells/databar/show_value) | Получите или установите флаг, указывающий, следует ли отображать значения ячеек, к которым применяется эта панель данных.<br/> Значение по умолчанию — правда.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [to_image(cell, img_opts)](/cells/python-net/ru/aspose.cells/databar/to_image/#Cell-aspose.cells.rendering.ImageOrPrintOptions) | Отобразите панель данных в ячейке в массив байтов изображения.|
+| [to_image](/cells/python-net/ru/aspose.cells/databar/to_image/#aspose.cells.Cell-aspose.cells.rendering.ImageOrPrintOptions) | Отображение панели данных в ячейке в массив байтов изображения.|
 
 
 
@@ -92,4 +92,4 @@ workbook.save("book1.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

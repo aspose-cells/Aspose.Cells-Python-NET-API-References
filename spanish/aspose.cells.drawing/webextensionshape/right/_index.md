@@ -3,13 +3,13 @@ title: right propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 850
+weight: 860
 url: /es/aspose.cells.drawing/webextensionshape/right/
 is_root: false
 ---
 ##  right propiedad
 
-Representa el ancho del desplazamiento horizontal de la forma desde su columna de esquina inferior right, en unidades de píxeles.
+Representa el ancho del desplazamiento horizontal de la forma desde su columna de la esquina inferior right, en unidades de píxeles.
 
 ###  Ejemplo
 
@@ -30,5 +30,5 @@ def right(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [WebExtensionShape](/cells/python-net/es/aspose.cells.drawing/webextensionshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`WebExtensionShape`](/cells/python-net/es/aspose.cells.drawing/webextensionshape)

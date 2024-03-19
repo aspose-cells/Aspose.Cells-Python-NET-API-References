@@ -8,9 +8,6 @@ url: /sv/aspose.cells.pivot/sxrng/group_by_types/
 is_root: false
 ---
 ##  group_by_types fastighet
-
-Representerar grupptypen för gruppintervallet.
-rangeofvalue Sekunder Minuter Timmar Dagar Månader Kvartalsår
 ###  Definition:
 ```python
 @property
@@ -19,5 +16,5 @@ def group_by_types(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [SxRng](/cells/python-net/sv/aspose.cells.pivot/sxrng)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`SxRng`](/cells/python-net/sv/aspose.cells.pivot/sxrng)

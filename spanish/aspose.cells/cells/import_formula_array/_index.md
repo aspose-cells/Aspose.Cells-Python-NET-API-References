@@ -1,14 +1,14 @@
 ---
-title: import_formula_array método
+title: método import_formula_array
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 660
+weight: 650
 url: /es/aspose.cells/cells/import_formula_array/
 is_root: false
 ---
-##  import_formula_array(string_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-Importa una matriz de fórmulas en una hoja de cálculo.
+##  import_formula_array {#list-int-int-bool}
+Importa una matriz de fórmulas a una hoja de trabajo.
 
 
 
@@ -28,5 +28,5 @@ def import_formula_array(self, string_array, first_row, first_column, is_vertica
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

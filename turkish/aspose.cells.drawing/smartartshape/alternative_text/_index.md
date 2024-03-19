@@ -3,13 +3,13 @@ title: alternative_text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 280
 url: /tr/aspose.cells.drawing/smartartshape/alternative_text/
 is_root: false
 ---
 ##  alternative_text mülk
 
-[Shape](/cells/python-net/tr/aspose.cells.drawing/shape) nesnesinin açıklayıcı (alternatif) metin dizesini döndürür veya ayarlar.
+[`Shape`](/cells/python-net/tr/aspose.cells.drawing/shape) nesnesinin açıklayıcı (alternatif) metin dizesini döndürür veya ayarlar.
 
 ###  Örnek
 
@@ -29,6 +29,6 @@ def alternative_text(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Shape](/cells/python-net/tr/aspose.cells.drawing/shape)
-* sınıf [SmartArtShape](/cells/python-net/tr/aspose.cells.drawing/smartartshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Shape`](/cells/python-net/tr/aspose.cells.drawing/shape)
+* sınıf [`SmartArtShape`](/cells/python-net/tr/aspose.cells.drawing/smartartshape)

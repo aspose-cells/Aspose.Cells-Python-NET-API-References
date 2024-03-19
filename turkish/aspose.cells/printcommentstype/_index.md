@@ -3,25 +3,25 @@ title: PrintCommentsType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2370
+weight: 2460
 url: /tr/aspose.cells/printcommentstype/
 is_root: false
 ---
 ##  PrintCommentsType numaralandırma
-Yorumların sayfa ile yazdırılma şeklini temsil eder.
+Yorumların sayfayla yazdırılma şeklini temsil eder.
 
 
 
-PrintCommentsType türü aşağıdaki üyeleri gösterir:
+PrintCommentsType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| PRINT_IN_PLACE | Yorumları sayfada görüntülendiği gibi yazdırmayı temsil eder.|
-| PRINT_NO_COMMENTS | Yorumları yazdırmamayı temsil eder.|
-| PRINT_SHEET_END | Sayfa sonunda açıklamaları yazdırmayı temsil eder.|
+| PRINT_IN_PLACE |Yorumları sayfada görüntülendiği şekilde yazdırmayı temsil eder.|
+| PRINT_NO_COMMENTS | Yorumların yazdırılmamasını temsil eder.|
+| PRINT_SHEET_END | Yorumların sayfanın sonuna yazdırılmasını temsil eder.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

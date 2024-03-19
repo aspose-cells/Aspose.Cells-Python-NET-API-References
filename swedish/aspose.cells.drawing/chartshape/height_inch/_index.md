@@ -3,7 +3,7 @@ title: height_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 470
 url: /sv/aspose.cells.drawing/chartshape/height_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representerar höjden på formen, i enhet av tum.
 ```python
 
 if shape.height_inch == 3:
-    shape.height_inch = 1
+    shape.height_inch = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def height_inch(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ChartShape](/cells/python-net/sv/aspose.cells.drawing/chartshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ChartShape`](/cells/python-net/sv/aspose.cells.drawing/chartshape)

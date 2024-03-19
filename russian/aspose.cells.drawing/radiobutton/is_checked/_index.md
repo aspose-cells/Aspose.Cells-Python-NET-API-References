@@ -1,15 +1,15 @@
 ---
 title: is_checked недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 530
+weight: 550
 url: /ru/aspose.cells.drawing/radiobutton/is_checked/
 is_root: false
 ---
 ##  is_checked недвижимость
 
-Указывает, отмечена ли радиокнопка или нет.
+Указывает, установлен ли переключатель или нет.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_checked(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [RadioButton](/cells/python-net/ru/aspose.cells.drawing/radiobutton)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`RadioButton`](/cells/python-net/ru/aspose.cells.drawing/radiobutton)

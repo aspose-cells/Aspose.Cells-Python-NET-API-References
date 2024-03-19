@@ -3,7 +3,7 @@ title: min_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 330
 url: /tr/aspose.cells.charts/axis/min_value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Değer eksenindeki minimum değeri temsil eder.
 
 ###  Notlar
 
-MinValue türü yalnızca çift veya DateTime olabilir
+minValue türü yalnızca double veya DateTime olabilir
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def min_value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Axis](/cells/python-net/tr/aspose.cells.charts/axis)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Axis`](/cells/python-net/tr/aspose.cells.charts/axis)

@@ -3,7 +3,7 @@ title: custom_xml_parts proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 500
+weight: 510
 url: /it/aspose.cells/workbook/custom_xml_parts/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def custom_xml_parts(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CustomXmlPartCollection](/cells/python-net/it/aspose.cells.markup/customxmlpartcollection)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](../../)
+* classe [`CustomXmlPartCollection`](/cells/python-net/it/aspose.cells.markup/customxmlpartcollection)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

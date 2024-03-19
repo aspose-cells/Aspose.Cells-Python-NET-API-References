@@ -1,15 +1,15 @@
 ---
 title: has_3d_effect недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 190
+weight: 180
 url: /ru/aspose.cells.charts/series/has_3d_effect/
 is_root: false
 ---
 ##  has_3d_effect недвижимость
 
- Верно, если сериал имеет трехмерный вид.
+ Правда, если сериал имеет трехмерный вид.
 Применяется только к пузырьковым диаграммам.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def has_3d_effect(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

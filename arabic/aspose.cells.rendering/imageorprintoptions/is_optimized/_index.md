@@ -1,19 +1,22 @@
 ---
-title: is_optimized الملكية
+title: is_optimized عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ar/aspose.cells.rendering/imageorprintoptions/is_optimized/
 is_root: false
 ---
-##  is_optimized الملكية
+##  is_optimized عقار
 
 يشير إلى ما إذا كان سيتم تحسين عناصر الإخراج.
 
 ###  ملاحظات
 
-القيمة الافتراضية هي كاذبة. حاليًا ، يتم تحسين خطوط الحدود فقط عند تعيين هذه الخاصية على "صواب".
+ القيمة الافتراضية خاطئة.
+حاليًا، عند تعيين هذه الخاصية على "صحيح"، سيتم إجراء التحسينات التالية:
+1. تحسين خطوط الحدود.
+2. قم بتحسين حجم الملف أثناء العرض إلى صورة Svg.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +28,5 @@ def is_optimized(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

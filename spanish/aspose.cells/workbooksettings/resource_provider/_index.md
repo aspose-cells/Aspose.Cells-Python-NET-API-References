@@ -3,7 +3,7 @@ title: resource_provider propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 550
+weight: 430
 url: /es/aspose.cells/workbooksettings/resource_provider/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def resource_provider(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [IStreamProvider](/cells/python-net/es/aspose.cells/istreamprovider)
-* clase [WorkbookSettings](/cells/python-net/es/aspose.cells/workbooksettings)
+* módulo [`aspose.cells`](../../)
+* clase [`IStreamProvider`](/cells/python-net/es/aspose.cells/istreamprovider)
+* clase [`WorkbookSettings`](/cells/python-net/es/aspose.cells/workbooksettings)

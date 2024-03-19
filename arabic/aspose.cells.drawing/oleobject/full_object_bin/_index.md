@@ -1,15 +1,15 @@
 ---
-title: full_object_bin الملكية
+title: full_object_bin عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 460
 url: /ar/aspose.cells.drawing/oleobject/full_object_bin/
 is_root: false
 ---
-##  full_object_bin الملكية
+##  full_object_bin عقار
 
-الحصول على البيانات الثنائية الكاملة المضمنة في كائن أول في ملف القالب.
+يحصل على البيانات الثنائية الكاملة لكائن ole المضمن في ملف القالب.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def full_object_bin(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

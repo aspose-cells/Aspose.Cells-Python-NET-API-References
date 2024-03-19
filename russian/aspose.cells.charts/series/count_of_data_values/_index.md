@@ -1,9 +1,9 @@
 ---
 title: count_of_data_values недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 100
+weight: 90
 url: /ru/aspose.cells.charts/series/count_of_data_values/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def count_of_data_values(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

@@ -3,16 +3,16 @@ title: ThreadedCommentAuthor sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1450
+weight: 1520
 url: /tr/aspose.cells/threadedcommentauthor/
 is_root: false
 ---
 ##  ThreadedCommentAuthor sınıfı
-Zincirleme açıklamaları oluşturan kişiyi temsil eder;
+Mesaj dizili yorumları oluşturan kişiyi temsil eder;
 
 
 
-ThreadedCommentAuthor türü aşağıdaki üyeleri gösterir:
+ThreadedCommentAuthor türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -24,4 +24,4 @@ ThreadedCommentAuthor türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

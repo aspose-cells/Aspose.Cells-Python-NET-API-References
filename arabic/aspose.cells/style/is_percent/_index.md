@@ -1,15 +1,15 @@
 ---
-title: is_percent الملكية
+title: is_percent عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 370
 url: /ar/aspose.cells/style/is_percent/
 is_root: false
 ---
-##  is_percent الملكية
+##  is_percent عقار
 
-يشير إلى ما إذا كان تنسيق الأرقام هو تنسيق النسبة المئوية.
+الإشارة إلى ما إذا كان تنسيق الأرقام هو تنسيق النسبة المئوية.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_percent(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

@@ -1,20 +1,20 @@
 ---
 title: get_pivot_total_name метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ru/aspose.cells/globalizationsettings/get_pivot_total_name/
 is_root: false
 ---
-##  get_pivot_total_name() {#}
+##  get_pivot_total_name {#}
 Получает имя метки «Итого» в сводной таблице.
-Вам необходимо переопределить этот метод, если сводная таблица содержит два или более сводных полей в области данных.
+Вам необходимо переопределить этот метод, если сводная таблица содержит два или более сводных поля в области данных.
 
 
-###  Возвращает
+###  Возврат
 
-Название метки "Всего"
+Название метки «Итого»
 
 
 ```python
@@ -26,11 +26,11 @@ def get_pivot_total_name(self):
 ###  Примечания
 
 ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
-используйте метод GlobalizationSettings.GetColumnLabelsOfPivotTable().
- Это свойство будет удалено через 12 месяцев, начиная с декабря 2022 года.
+используйте метод PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с декабря 2022 года.
 Aspose приносит извинения за возможные неудобства.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GlobalizationSettings](/cells/python-net/ru/aspose.cells/globalizationsettings)
+* модуль [`aspose.cells`](../../)
+* класс [`GlobalizationSettings`](/cells/python-net/ru/aspose.cells/globalizationsettings)

@@ -3,7 +3,7 @@ title: LoadDataFilterOptions uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2200
+weight: 2280
 url: /sv/aspose.cells/loaddatafilteroptions/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Typen LoadDataFilterOptions avslöjar följande medlemmar:
 | :- | :- |
 | NONE | Ladda ingenting för arkdata|
 | ALL | Ladda alla|
-| CELL_BLANK | Ladda celler vars värde är tomt|
+| CELL_BLANK |Ladda celler vars värde är tomt|
 | CELL_STRING | Ladda celler vars värde är sträng|
 | CELL_NUMERIC | Ladda celler vars värde är numeriskt (inklusive datetime)|
 | CELL_ERROR | Ladda celler vars värde är fel|
@@ -37,7 +37,7 @@ Typen LoadDataFilterOptions avslöjar följande medlemmar:
 | TABLE | Ladda tabeller|
 | HYPERLINKS | Ladda hyperlänkar|
 | SHEET_SETTINGS | Ladda inställningar för kalkylblad|
-| SHEET_DATA |Ladda alla data i kalkylbladet, såsom celldata, inställningar, objekt, ... etc.|
+| SHEET_DATA | Ladda alla data i kalkylbladet, såsom celldata, inställningar, objekt, ... etc.|
 | BOOK_SETTINGS | Ladda inställningar för arbetsbok|
 | SETTINGS | Ladda inställningar för arbetsbok och kalkylblad|
 | XML_MAP | Ladda XmlMap|
@@ -45,7 +45,7 @@ Typen LoadDataFilterOptions avslöjar följande medlemmar:
 | DOCUMENT_PROPERTIES | Ladda dokumentegenskaper|
 | DEFINED_NAMES | Ladda definierade namnobjekt|
 | VBA | Ladda VBA-projekt|
-| STYLE | Ladda stilar för cellformatering|
+| STYLE |Ladda stilar för cellformatering|
 | PICTURE | Ladda bilder|
 | OLE_OBJECT | Ladda OleObjects|
 | REVISION | Ladda revisionsloggar|
@@ -53,4 +53,4 @@ Typen LoadDataFilterOptions avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

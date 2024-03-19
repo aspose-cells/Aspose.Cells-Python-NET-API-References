@@ -3,11 +3,11 @@ title: get_column_width_inch metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 340
 url: /sv/aspose.cells/cells/get_column_width_inch/
 is_root: false
 ---
-##  get_column_width_inch(column) {#int}
+##  get_column_width_inch {#int}
 Hämtar bredden på den angivna kolumnen i normalvy, i enheter av tum.
 
 
@@ -29,5 +29,5 @@ def get_column_width_inch(self, column):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

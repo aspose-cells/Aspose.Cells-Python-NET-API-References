@@ -1,9 +1,9 @@
 ---
 title: FontSourceType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2080
+weight: 2150
 url: /zh/aspose.cells/fontsourcetype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-FontSourceType 类型公开了以下成员：
+FontSourceType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| FONT_FILE |表示单个字体文件。|
-| FONTS_FOLDER |表示包含字体文件的文件夹。|
-| MEMORY_FONT |代表内存中的单一字体。|
+| FONT_FILE |代表单个字体文件。|
+| FONTS_FOLDER |代表包含字体文件的文件夹。|
+| MEMORY_FONT |代表内存中的单个字体。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
-title: row_height الملكية
+title: row_height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 400
 url: /ar/aspose.cells/range/row_height/
 is_root: false
 ---
-##  row_height الملكية
+##  row_height عقار
 
-تعيين أو الحصول على ارتفاع الصفوف في هذا النطاق
+يضبط أو يحصل على ارتفاع الصفوف في هذا النطاق
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def row_height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

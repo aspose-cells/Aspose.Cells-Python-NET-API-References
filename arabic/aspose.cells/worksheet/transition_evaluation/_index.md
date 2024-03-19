@@ -1,15 +1,15 @@
 ---
-title: transition_evaluation الملكية
+title: transition_evaluation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 840
+weight: 860
 url: /ar/aspose.cells/worksheet/transition_evaluation/
 is_root: false
 ---
-##  transition_evaluation الملكية
+##  transition_evaluation عقار
 
-يشير إلى ما إذا كان خيار تقييم الصيغة الانتقالية (توافق Lotus) ممكّنًا.
+يشير إلى ما إذا كان خيار تقييم صيغة الانتقال (توافق Lotus) ممكنًا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def transition_evaluation(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

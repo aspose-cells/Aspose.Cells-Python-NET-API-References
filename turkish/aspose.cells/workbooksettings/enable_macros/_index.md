@@ -3,13 +3,13 @@ title: enable_macros mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 170
 url: /tr/aspose.cells/workbooksettings/enable_macros/
 is_root: false
 ---
 ##  enable_macros mülk
 
-makroları etkinleştir;
+Makroları etkinleştirin;
 
 ###  Notlar
 
@@ -25,5 +25,5 @@ def enable_macros(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

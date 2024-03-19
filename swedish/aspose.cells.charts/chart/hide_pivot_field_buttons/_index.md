@@ -3,7 +3,7 @@ title: hide_pivot_field_buttons fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 330
 url: /sv/aspose.cells.charts/chart/hide_pivot_field_buttons/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def hide_pivot_field_buttons(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Chart](/cells/python-net/sv/aspose.cells.charts/chart)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Chart`](/cells/python-net/sv/aspose.cells.charts/chart)

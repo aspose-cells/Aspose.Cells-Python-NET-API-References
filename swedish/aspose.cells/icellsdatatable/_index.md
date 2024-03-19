@@ -3,7 +3,7 @@ title: ICellsDataTable klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 810
+weight: 860
 url: /sv/aspose.cells/icellsdatatable/
 is_root: false
 ---
@@ -32,8 +32,8 @@ Hämtar data som lagras i kolumnen som anges av index.
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [before_first()](/cells/python-net/sv/aspose.cells/icellsdatatable/before_first/#) | Flytta markören till framsidan av detta objekt, strax före den första raden.|
-| [next()](/cells/python-net/sv/aspose.cells/icellsdatatable/next/#) | Flyttar markören ned en rad från dess nuvarande position.|
+| [before_first](/cells/python-net/sv/aspose.cells/icellsdatatable/before_first/#) | Flytta markören till framsidan av detta objekt, strax före den första raden.|
+| [next](/cells/python-net/sv/aspose.cells/icellsdatatable/next/#) | Flyttar markören ned en rad från dess nuvarande position.|
 
 
 
@@ -42,4 +42,4 @@ Hämtar data som lagras i kolumnen som anges av index.
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

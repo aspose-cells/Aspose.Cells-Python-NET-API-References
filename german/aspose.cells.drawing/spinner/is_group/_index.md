@@ -3,13 +3,13 @@ title: is_group Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 580
+weight: 590
 url: /de/aspose.cells.drawing/spinner/is_group/
 is_root: false
 ---
 ##  is_group Eigentum
 
-Gibt an, ob das Shape eine Gruppe ist.
+Gibt an, ob es sich bei der Form um eine Gruppe handelt.
 
 ###  Beispiel
 
@@ -27,5 +27,5 @@ def is_group(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Spinner](/cells/python-net/de/aspose.cells.drawing/spinner)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Spinner`](/cells/python-net/de/aspose.cells.drawing/spinner)

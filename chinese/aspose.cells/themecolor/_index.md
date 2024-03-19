@@ -1,23 +1,23 @@
 ---
 title: ThemeColor类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1430
+weight: 1500
 url: /zh/aspose.cells/themecolor/
 is_root: false
 ---
 ## ThemeColor类
-代表主题颜色。
+代表一种主题颜色。
 
 
 
-ThemeColor 类型公开了以下成员：
+ThemeColor 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [ThemeColor(type, tint)](/cells/python-net/zh/aspose.cells/themecolor/__init__/#ThemeColorType-float) |  |
+| [__init__](/cells/python-net/zh/aspose.cells/themecolor/__init__/#aspose.cells.ThemeColorType-float) |  |
 
 
 ### 特性
@@ -50,4 +50,4 @@ workbook.save("book1.xlsx")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

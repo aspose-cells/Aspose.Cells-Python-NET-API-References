@@ -3,13 +3,13 @@ title: show_all_items proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 520
+weight: 560
 url: /it/aspose.cells.pivot/pivotfield/show_all_items/
 is_root: false
 ---
 ##  show_all_items proprietà
 
- Indica se vengono visualizzati tutti gli elementi nel rapporto di tabella pivot,
+ Indica se tutti gli elementi vengono visualizzati nel rapporto di tabella pivot,
 anche se non contengono dati di sintesi.
 mostra elementi senza dati
 Il valore predefinito è falso.
@@ -24,5 +24,5 @@ def show_all_items(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotField](/cells/python-net/it/aspose.cells.pivot/pivotfield)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotField`](/cells/python-net/it/aspose.cells.pivot/pivotfield)

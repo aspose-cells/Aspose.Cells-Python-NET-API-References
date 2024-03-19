@@ -3,19 +3,19 @@ title: begin_arrowhead_width Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 310
+weight: 330
 url: /de/aspose.cells.drawing/arcshape/begin_arrowhead_width/
 is_root: false
 ---
 ##  begin_arrowhead_width Eigentum
 
-Ruft die Anfangspfeilspitzenbreite der Linie ab und legt sie fest.
+Ruft die Breite der Anfangspfeilspitze der Linie ab und legt diese fest.
 
 ###  Bemerkungen
 
  HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
- Bitte verwenden Sie die Shape.Line.BeginArrowheadWidth-Eigenschaft.
- Diese Property wird 12 Monate später seit August 2016 entfernt.
+ Bitte verwenden Sie die Eigenschaft Shape.Line.BeginArrowheadWidth.
+ Diese Eigenschaft wird seit August 2016 12 Monate später entfernt.
 Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
 ###  Definition:
 ```python
@@ -28,6 +28,6 @@ def begin_arrowhead_width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ArcShape](/cells/python-net/de/aspose.cells.drawing/arcshape)
-* Klasse [MsoArrowheadWidth](/cells/python-net/de/aspose.cells.drawing/msoarrowheadwidth)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ArcShape`](/cells/python-net/de/aspose.cells.drawing/arcshape)
+* Klasse [`MsoArrowheadWidth`](/cells/python-net/de/aspose.cells.drawing/msoarrowheadwidth)

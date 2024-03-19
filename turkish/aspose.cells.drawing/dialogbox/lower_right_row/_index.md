@@ -3,7 +3,7 @@ title: lower_right_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 770
+weight: 780
 url: /tr/aspose.cells.drawing/dialogbox/lower_right_row/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def lower_right_row(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [DialogBox](/cells/python-net/tr/aspose.cells.drawing/dialogbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`DialogBox`](/cells/python-net/tr/aspose.cells.drawing/dialogbox)

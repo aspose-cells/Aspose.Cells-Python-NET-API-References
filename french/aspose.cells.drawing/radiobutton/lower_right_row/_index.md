@@ -3,13 +3,13 @@ title: lower_right_row propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 790
+weight: 810
 url: /fr/aspose.cells.drawing/radiobutton/lower_right_row/
 is_root: false
 ---
 ##  lower_right_row propriété
 
-Représente l'index de ligne du coin inférieur droit.
+Représente l’index de la ligne du coin inférieur droit.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def lower_right_row(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)

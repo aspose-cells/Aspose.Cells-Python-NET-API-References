@@ -3,15 +3,15 @@ title: one_page_per_sheet proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 160
+weight: 170
 url: /it/aspose.cells/paginatedsaveoptions/one_page_per_sheet/
 is_root: false
 ---
 ##  one_page_per_sheet proprietà
 
- Se OnePagePerSheet è true , tutto il contenuto di un foglio verrà restituito a una sola pagina nel risultato.
- Il formato carta di pagesetup non sarà valido e le altre impostazioni di pagesetup
-avrà ancora effetto.
+ Se OnePagePerSheet è true , tutto il contenuto di un foglio verrà visualizzato in una sola pagina come risultato.
+ Il formato carta di pagesetup non sarà valido, così come le altre impostazioni di pagesetup
+avrà comunque effetto.
 ###  Definizione:
 ```python
 @property
@@ -23,5 +23,5 @@ def one_page_per_sheet(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PaginatedSaveOptions](/cells/python-net/it/aspose.cells/paginatedsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`PaginatedSaveOptions`](/cells/python-net/it/aspose.cells/paginatedsaveoptions)

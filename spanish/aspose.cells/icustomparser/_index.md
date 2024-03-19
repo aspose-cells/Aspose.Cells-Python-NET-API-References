@@ -3,7 +3,7 @@ title: ICustomParser clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 830
+weight: 870
 url: /es/aspose.cells/icustomparser/
 is_root: false
 ---
@@ -17,10 +17,10 @@ El tipo ICustomParser expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [parse_object(value)](/cells/python-net/es/aspose.cells/icustomparser/parse_object/#str) | Analiza la cadena dada al objeto de valor adecuado.|
-| [get_format()](/cells/python-net/es/aspose.cells/icustomparser/get_format/#) |Obtiene el patrón de formato correspondiente al valor analizado por la última invocación de [ICustomParser.parse_object(value)](/cells/python-net/es/aspose.cells/icustomparser/parse_object).|
+| [parse_object](/cells/python-net/es/aspose.cells/icustomparser/parse_object/#str) | Analiza la cadena dada al objeto de valor adecuado.|
+| [get_format](/cells/python-net/es/aspose.cells/icustomparser/get_format/#) | Obtiene el patrón de formato correspondiente al valor analizado mediante la última invocación de [`ICustomParser.parse_object`](/cells/python-net/es/aspose.cells/icustomparser/parse_object).|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

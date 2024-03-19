@@ -3,11 +3,11 @@ title: set_style metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 210
 url: /sv/aspose.cells/range/set_style/
 is_root: false
 ---
-##  set_style(style) {#Style}
+##  set_style {#aspose.cells.Style}
 Ställer in stilen för intervallet.
 
 
@@ -20,10 +20,10 @@ def set_style(self, style):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/sv/aspose.cells/style) | Stilobjektet.|
+| style | [`Style`](/cells/python-net/sv/aspose.cells/style) | Stilobjektet.|
 
 
-##  set_style(style, explicit_flag) {#Style-bool}
+##  set_style {#aspose.cells.Style-bool}
 Använd cellformatet.
 
 
@@ -36,11 +36,11 @@ def set_style(self, style, explicit_flag):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/sv/aspose.cells/style) | Cellstilen.|
+| style | [`Style`](/cells/python-net/sv/aspose.cells/style) | Cellstilen.|
 | explicit_flag | bool | Det är sant, endast överskrivning av formatering som är explicit inställd.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

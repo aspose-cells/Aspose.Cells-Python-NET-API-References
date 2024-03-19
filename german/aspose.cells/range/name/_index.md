@@ -3,13 +3,13 @@ title: name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 350
+weight: 370
 url: /de/aspose.cells/range/name/
 is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name des Bereichs ab oder legt sie fest.
+Ruft die name des Bereichs ab oder legt diese fest.
 
 ###  Bemerkungen
 
@@ -27,5 +27,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Range](/cells/python-net/de/aspose.cells/range)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Range`](/cells/python-net/de/aspose.cells/range)

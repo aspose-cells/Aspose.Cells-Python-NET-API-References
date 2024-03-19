@@ -3,7 +3,7 @@ title: InsertOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 940
+weight: 980
 url: /sv/aspose.cells/insertoptions/
 is_root: false
 ---
@@ -17,16 +17,16 @@ Typen InsertOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [InsertOptions()](/cells/python-net/sv/aspose.cells/insertoptions/__init__/#) | Konstruerar en ny instans av InsertOptions|
+| [__init__](/cells/python-net/sv/aspose.cells/insertoptions/__init__/#) | Konstruerar en ny instans av InsertOptions|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [copy_format_type](/cells/python-net/sv/aspose.cells/insertoptions/copy_format_type) |  |
-| [update_reference](/cells/python-net/sv/aspose.cells/insertoptions/update_reference) |Anger om referenser i andra arbetsblad kommer att uppdateras.|
+| [update_reference](/cells/python-net/sv/aspose.cells/insertoptions/update_reference) | Anger om referenser i andra arbetsblad kommer att uppdateras.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

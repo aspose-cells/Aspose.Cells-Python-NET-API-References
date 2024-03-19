@@ -3,13 +3,13 @@ title: create_id mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 370
+weight: 390
 url: /tr/aspose.cells.drawing/oleobject/create_id/
 is_root: false
 ---
 ##  create_id mülk
 
-Alır ve ayarlar, bu şekil için kimlik oluşturur.
+Bu şekil için oluşturma kimliğini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def create_id(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [OleObject](/cells/python-net/tr/aspose.cells.drawing/oleobject)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`OleObject`](/cells/python-net/tr/aspose.cells.drawing/oleobject)

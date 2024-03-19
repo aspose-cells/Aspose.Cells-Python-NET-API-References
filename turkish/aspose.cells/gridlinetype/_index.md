@@ -3,7 +3,7 @@ title: GridlineType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2120
+weight: 2190
 url: /tr/aspose.cells/gridlinetype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Izgara çizgisi Türünü numaralandırır.
 
 
 
-GridlineType türü aşağıdaki üyeleri gösterir:
+GridlineType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | DOTTED | Noktalı çizgiyi temsil eder.|
@@ -23,4 +23,4 @@ GridlineType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

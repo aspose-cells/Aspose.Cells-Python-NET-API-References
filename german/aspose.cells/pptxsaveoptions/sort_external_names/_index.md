@@ -3,13 +3,13 @@ title: sort_external_names Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 250
+weight: 290
 url: /de/aspose.cells/pptxsaveoptions/sort_external_names/
 is_root: false
 ---
 ##  sort_external_names Eigentum
 
-Gibt an, ob extern definierte Namen vor dem Speichern der Datei sortiert werden.
+Gibt an, ob extern definierte Namen vor dem Speichern der Datei sortiert werden sollen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def sort_external_names(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PptxSaveOptions](/cells/python-net/de/aspose.cells/pptxsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PptxSaveOptions`](/cells/python-net/de/aspose.cells/pptxsaveoptions)

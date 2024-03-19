@@ -1,34 +1,34 @@
 ---
-title: Floor الدرجة
+title: Floor صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ar/aspose.cells.charts/floor/
 is_root: false
 ---
-##  Floor الدرجة
-لتغليف الكائن الذي يمثل أرضية مخطط ثلاثي الأبعاد.
+##  Floor صف
+يقوم بتغليف الكائن الذي يمثل أرضية المخطط ثلاثي الأبعاد.
 
 
 
-**ميراث:** [Floor](/cells/python-net/aspose.cells.charts/floor) → 
-[Area](/cells/python-net/ar/aspose.cells.drawing/area)
+**ميراث:** [`Floor`](/cells/python-net/aspose.cells.charts/floor) → 
+[`Area`](/cells/python-net/ar/aspose.cells.drawing/area)
 
 
 
-يكشف نوع Floor الأعضاء التالية:
+يكشف النوع Floor عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [background_color](/cells/python-net/ar/aspose.cells.charts/floor/background_color) | الحصول على او تحديد لون خلفية [Area](/cells/python-net/ar/aspose.cells.drawing/area).|
-| [foreground_color](/cells/python-net/ar/aspose.cells.charts/floor/foreground_color) | الحصول على او تحديد لون المقدمة.|
+| [background_color](/cells/python-net/ar/aspose.cells.charts/floor/background_color) | الحصول على أو تعيين لون الخلفية لـ [`Area`](/cells/python-net/ar/aspose.cells.drawing/area).|
+| [foreground_color](/cells/python-net/ar/aspose.cells.charts/floor/foreground_color) | الحصول على أو تعيين اللون الأمامي.|
 | [formatting](/cells/python-net/ar/aspose.cells.charts/floor/formatting) | يمثل تنسيق المنطقة.|
-| [invert_if_negative](/cells/python-net/ar/aspose.cells.charts/floor/invert_if_negative) | إذا كانت الخاصية صحيحة وكانت قيمة نقطة المخطط رقمًا سالبًا ،<br/> سيتم استبدال لون المقدمة ولون الخلفية.|
-| [fill_format](/cells/python-net/ar/aspose.cells.charts/floor/fill_format) | يمثل عنصر [Area.fill_format](/cells/python-net/ar/aspose.cells.drawing/area#fill_format) يحتوي على خصائص تنسيق التعبئة للشكل أو الرسم البياني المحدد.|
-| [transparency](/cells/python-net/ar/aspose.cells.charts/floor/transparency) | إرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (معتم) إلى 1.0 (واضح).|
-| [border](/cells/python-net/ar/aspose.cells.charts/floor/border) | الحصول على او تحديد الحدود [Line](/cells/python-net/ar/aspose.cells.drawing/line).|
+| [invert_if_negative](/cells/python-net/ar/aspose.cells.charts/floor/invert_if_negative) | إذا كانت الخاصية صحيحة وكانت قيمة نقطة المخطط رقمًا سالبًا،<br/> سيتم تبادل اللون الأمامي ولون الخلفية.|
+| [fill_format](/cells/python-net/ar/aspose.cells.charts/floor/fill_format) | يمثل كائن [`Area.fill_format`](/cells/python-net/ar/aspose.cells.drawing/area#fill_format) الذي يحتوي على خصائص تنسيق التعبئة للمخطط أو الشكل المحدد.|
+| [transparency](/cells/python-net/ar/aspose.cells.charts/floor/transparency) |إرجاع أو تعيين درجة شفافية المنطقة كقيمة تتراوح من 0.0 (معتم) إلى 1.0 (واضح).|
+| [border](/cells/python-net/ar/aspose.cells.charts/floor/border) | يحصل أو يحدد الحدود [`Line`](/cells/python-net/ar/aspose.cells.drawing/line).|
 
 
 
@@ -74,7 +74,7 @@ workbook.save(r"dest.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
-* فئة [Area](/cells/python-net/ar/aspose.cells.drawing/area)
-* فئة [Floor](/cells/python-net/ar/aspose.cells.charts/floor)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
+* الوحدة [`aspose.cells.charts`](..)
+* فئة [`Area`](/cells/python-net/ar/aspose.cells.drawing/area)
+* فئة [`Floor`](/cells/python-net/ar/aspose.cells.charts/floor)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)

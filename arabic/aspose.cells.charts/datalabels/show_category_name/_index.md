@@ -1,15 +1,15 @@
 ---
-title: show_category_name الملكية
+title: show_category_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 390
 url: /ar/aspose.cells.charts/datalabels/show_category_name/
 is_root: false
 ---
-##  show_category_name الملكية
+##  show_category_name عقار
 
-يمثل سلوك عرض اسم فئة تسمية البيانات للمخطط المحدد. صحيح أن عرض اسم الفئة لتسميات البيانات على المخطط. خطأ للاختباء.
+يمثل سلوك عرض اسم فئة تسمية البيانات الخاصة بالمخطط المحدد. صحيح لعرض اسم الفئة لتسميات البيانات على المخطط. كذبة للاختباء.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_category_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

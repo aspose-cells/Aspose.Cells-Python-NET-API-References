@@ -1,13 +1,13 @@
 ---
-title: is_rich_text الملكية
+title: is_rich_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 630
+weight: 640
 url: /ar/aspose.cells.drawing/chartshape/is_rich_text/
 is_root: false
 ---
-##  is_rich_text الملكية
+##  is_rich_text عقار
 
 ما إذا كان النص نصًا منسقًا أم لا.
 
@@ -27,5 +27,5 @@ def is_rich_text(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ChartShape](/cells/python-net/ar/aspose.cells.drawing/chartshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ChartShape`](/cells/python-net/ar/aspose.cells.drawing/chartshape)

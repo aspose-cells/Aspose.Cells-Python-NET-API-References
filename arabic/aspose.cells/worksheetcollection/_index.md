@@ -1,73 +1,75 @@
 ---
-title: WorksheetCollection الدرجة
+title: WorksheetCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1630
+weight: 1700
 url: /ar/aspose.cells/worksheetcollection/
 is_root: false
 ---
-##  WorksheetCollection الدرجة
-لتغليف مجموعة من [Worksheet](/cells/python-net/ar/aspose.cells/worksheet) عنصر.
+##  WorksheetCollection صف
+يغلف مجموعة من [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet) كائن.
 
 
 
-يكشف نوع WorksheetCollection الأعضاء التالية:
+يكشف النوع WorksheetCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [web_extension_task_panes](/cells/python-net/ar/aspose.cells/worksheetcollection/web_extension_task_panes) | يحصل على قائمة أجزاء المهام.|
-| [web_extensions](/cells/python-net/ar/aspose.cells/worksheetcollection/web_extensions) | يحصل على قائمة أجزاء المهام.|
-| [threaded_comment_authors](/cells/python-net/ar/aspose.cells/worksheetcollection/threaded_comment_authors) | يحصل على قائمة مؤلفي التعليقات المترابطة.|
-| [is_refresh_all_connections](/cells/python-net/ar/aspose.cells/worksheetcollection/is_refresh_all_connections) | يشير إلى ما إذا كان يتم تحديث جميع الاتصالات عند فتح الملف في MS Excel.|
-| [names](/cells/python-net/ar/aspose.cells/worksheetcollection/names) | الحصول على مجموعة كل كائنات الاسم في جدول البيانات.|
+| [web_extension_task_panes](/cells/python-net/ar/aspose.cells/worksheetcollection/web_extension_task_panes) | الحصول على قائمة أجزاء المهام.|
+| [web_extensions](/cells/python-net/ar/aspose.cells/worksheetcollection/web_extensions) | الحصول على قائمة أجزاء المهام.|
+| [threaded_comment_authors](/cells/python-net/ar/aspose.cells/worksheetcollection/threaded_comment_authors) | الحصول على قائمة مؤلفي التعليقات المترابطة.|
+| [is_refresh_all_connections](/cells/python-net/ar/aspose.cells/worksheetcollection/is_refresh_all_connections) | يشير إلى ما إذا كان سيتم تحديث جميع الاتصالات عند فتح الملف في MS Excel.|
+| [names](/cells/python-net/ar/aspose.cells/worksheetcollection/names) |الحصول على مجموعة كافة كائنات الاسم في جدول البيانات.|
 | [active_sheet_name](/cells/python-net/ar/aspose.cells/worksheetcollection/active_sheet_name) | يمثل اسم ورقة العمل النشطة عند فتح جدول البيانات.|
 | [active_sheet_index](/cells/python-net/ar/aspose.cells/worksheetcollection/active_sheet_index) | يمثل فهرس ورقة العمل النشطة عند فتح جدول البيانات.|
-| [dxfs](/cells/python-net/ar/aspose.cells/worksheetcollection/dxfs) | الحصول على سجلات التنسيق التفاضلي الرئيسية.|
+| [dxfs](/cells/python-net/ar/aspose.cells/worksheetcollection/dxfs) | يحصل على سجلات التنسيق التفاضلي الرئيسية.|
 | [xml_maps](/cells/python-net/ar/aspose.cells/worksheetcollection/xml_maps) | الحصول على خرائط XML وتعيينها في المصنف.|
-| [built_in_document_properties](/cells/python-net/ar/aspose.cells/worksheetcollection/built_in_document_properties) | تقوم بارجاع مجموعة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كل خصائص الوثيقة المضمنة لجدول حسابي.|
-| [custom_document_properties](/cells/python-net/ar/aspose.cells/worksheetcollection/custom_document_properties) | تقوم بارجاع مجموعة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كل خصائص الوثيقة المهيأة للجدول الحسابي.|
+| [built_in_document_properties](/cells/python-net/ar/aspose.cells/worksheetcollection/built_in_document_properties) | تقوم بإرجاع مجموعة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل جميع خصائص المستند المضمنة في جدول البيانات.|
+| [custom_document_properties](/cells/python-net/ar/aspose.cells/worksheetcollection/custom_document_properties) | تقوم بإرجاع مجموعة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كافة خصائص المستند المخصصة لجدول البيانات.|
 | [ole_size](/cells/python-net/ar/aspose.cells/worksheetcollection/ole_size) | الحصول على الحجم المعروض وتعيينه عند استخدام ملف المصنف ككائن Ole.|
-| [external_links](/cells/python-net/ar/aspose.cells/worksheetcollection/external_links) | يمثل ارتباطات خارجية في مصنف.|
-| [table_styles](/cells/python-net/ar/aspose.cells/worksheetcollection/table_styles) | يحصل على كائن [WorksheetCollection.table_styles](/cells/python-net/ar/aspose.cells/worksheetcollection#table_styles).|
-| [revision_logs](/cells/python-net/ar/aspose.cells/worksheetcollection/revision_logs) |يمثل سجلات المراجعة.|
-| [capacity](/cells/python-net/ar/aspose.cells/worksheetcollection/capacity) | الحصول على أو تحديد عدد العناصر التي يمكن أن تحتويها قائمة الصفيف.|
+| [external_links](/cells/python-net/ar/aspose.cells/worksheetcollection/external_links) | يمثل الروابط الخارجية في المصنف.|
+| [table_styles](/cells/python-net/ar/aspose.cells/worksheetcollection/table_styles) | يحصل على كائن [`WorksheetCollection.table_styles`](/cells/python-net/ar/aspose.cells/worksheetcollection#table_styles).|
+| [revision_logs](/cells/python-net/ar/aspose.cells/worksheetcollection/revision_logs) | يمثل سجلات المراجعة.|
+| [capacity](/cells/python-net/ar/aspose.cells/worksheetcollection/capacity) | الحصول على أو تعيين عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get(index)](/cells/python-net/ar/aspose.cells/worksheetcollection/get/#int) |أضف API for Python عبر .Net. لأن هذا [الفهرس] غير مدعوم|
-| [get(sheet_name)](/cells/python-net/ar/aspose.cells/worksheetcollection/get/#str) | أضف API for Python عبر .Net. نظرًا لأن [اسم الورقة] هذا غير مدعوم|
-| [add(type)](/cells/python-net/ar/aspose.cells/worksheetcollection/add/#SheetType) | يضيف ورقة عمل إلى المجموعة.|
-| [add()](/cells/python-net/ar/aspose.cells/worksheetcollection/add/#) | يضيف ورقة عمل إلى المجموعة.|
-| [add(sheet_name)](/cells/python-net/ar/aspose.cells/worksheetcollection/add/#str) | يضيف ورقة عمل إلى المجموعة.|
-| [register_add_in_function(add_in_file, function_name, lib)](/cells/python-net/ar/aspose.cells/worksheetcollection/register_add_in_function/#str-str-bool) | يضيف وظيفة الوظيفة الإضافية في المصنف|
-| [register_add_in_function(id, function_name)](/cells/python-net/ar/aspose.cells/worksheetcollection/register_add_in_function/#int-str) | يضيف وظيفة الوظيفة الإضافية في المصنف|
-| [add_copy(sheet_name)](/cells/python-net/ar/aspose.cells/worksheetcollection/add_copy/#str) | يضيف ورقة عمل إلى المجموعة ونسخ البيانات من ورقة عمل موجودة.|
-| [add_copy(sheet_index)](/cells/python-net/ar/aspose.cells/worksheetcollection/add_copy/#int) | يضيف ورقة عمل إلى المجموعة ونسخ البيانات من ورقة عمل موجودة.|
-| [get_range_by_name(range_name)](/cells/python-net/ar/aspose.cells/worksheetcollection/get_range_by_name/#str) | يحصل على كائن النطاق باسم محدد مسبقًا.|
-| [get_range_by_name(range_name, current_sheet_index, include_table)](/cells/python-net/ar/aspose.cells/worksheetcollection/get_range_by_name/#str-int-bool) | يحصل على [Range](/cells/python-net/ar/aspose.cells/range) بالاسم المحدد مسبقًا أو اسم الجدول|
-| [copy_to(array)](/cells/python-net/ar/aspose.cells/worksheetcollection/copy_to/#list) | ينسخ قائمة المصفوفات بأكملها إلى قائمة مصفوفة متوافقة أحادية البعد ، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ar/aspose.cells/worksheetcollection/copy_to/#int-list-int-int) |ينسخ نطاقًا من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة ، بدءًا من الفهرس المحدد لقائمة الصفيف الهدف.|
-| [index_of(item, index)](/cells/python-net/ar/aspose.cells/worksheetcollection/index_of/#Worksheet-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of(item, index, count)](/cells/python-net/ar/aspose.cells/worksheetcollection/index_of/#Worksheet-int-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ بالفهرس المحدد ويحتوي على عدد محدد من العناصر.|
-| [last_index_of(item)](/cells/python-net/ar/aspose.cells/worksheetcollection/last_index_of/#Worksheet) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of(item, index)](/cells/python-net/ar/aspose.cells/worksheetcollection/last_index_of/#Worksheet-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of(item, index, count)](/cells/python-net/ar/aspose.cells/worksheetcollection/last_index_of/#Worksheet-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
-| [create_range(address, sheet_index)](/cells/python-net/ar/aspose.cells/worksheetcollection/create_range/#str-int) | لتكوين عنصر [Range](/cells/python-net/ar/aspose.cells/range) من عنوان النطاق.|
-| [create_union_range(address, sheet_index)](/cells/python-net/ar/aspose.cells/worksheetcollection/create_union_range/#str-int) | لتكوين عنصر [Range](/cells/python-net/ar/aspose.cells/range) من عنوان النطاق.|
-| [get_sheet_by_code_name(code_name)](/cells/python-net/ar/aspose.cells/worksheetcollection/get_sheet_by_code_name/#str) | يحصل على ورقة العمل بالاسم الرمزي.|
-| [sort_names()](/cells/python-net/ar/aspose.cells/worksheetcollection/sort_names/#) | يفرز الأسماء المعرفة.|
-| [swap_sheet(sheet_index1, sheet_index2)](/cells/python-net/ar/aspose.cells/worksheetcollection/swap_sheet/#int-int) | مقايضة الورقتين.|
-| [remove_at(name)](/cells/python-net/ar/aspose.cells/worksheetcollection/remove_at/#str) | يزيل العنصر باسم محدد.|
-| [get_named_ranges()](/cells/python-net/ar/aspose.cells/worksheetcollection/get_named_ranges/#) | يحصل على جميع النطاقات المسماة المحددة مسبقًا في جدول البيانات.|
-| [get_named_ranges_and_tables()](/cells/python-net/ar/aspose.cells/worksheetcollection/get_named_ranges_and_tables/#) | يحصل على جميع النطاقات المسماة المحددة مسبقًا في جدول البيانات.|
-| [set_ole_size(start_row, end_row, start_column, end_column)](/cells/python-net/ar/aspose.cells/worksheetcollection/set_ole_size/#int-int-int-int) | يضبط الحجم المعروض عند استخدام ملف المصنف ككائن Ole.|
-| [clear_pivottables()](/cells/python-net/ar/aspose.cells/worksheetcollection/clear_pivottables/#) | مسح الجداول المحورية من جدول البيانات.|
-| [refresh_pivot_tables()](/cells/python-net/ar/aspose.cells/worksheetcollection/refresh_pivot_tables/#) | يحدّث كل جداول PivotTables في WorksheetCollection.|
-| [binary_search(item)](/cells/python-net/ar/aspose.cells/worksheetcollection/binary_search/#Worksheet) | يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.|
+| [get](/cells/python-net/ar/aspose.cells/worksheetcollection/get/#int) | أضف API for Python عبر .Net. نظرًا لأن هذا [int Index] غير مدعوم|
+| [get](/cells/python-net/ar/aspose.cells/worksheetcollection/get/#str) | أضف API for Python عبر .Net. نظرًا لأن هذا [string SheetName] غير مدعوم|
+| [add](/cells/python-net/ar/aspose.cells/worksheetcollection/add/#aspose.cells.SheetType) | إضافة ورقة عمل إلى المجموعة.|
+| [add](/cells/python-net/ar/aspose.cells/worksheetcollection/add/#) | إضافة ورقة عمل إلى المجموعة.|
+| [add](/cells/python-net/ar/aspose.cells/worksheetcollection/add/#str) | إضافة ورقة عمل إلى المجموعة.|
+| [register_add_in_function](/cells/python-net/ar/aspose.cells/worksheetcollection/register_add_in_function/#str-str-bool) | يضيف وظيفة الوظيفة الإضافية إلى المصنف|
+| [register_add_in_function](/cells/python-net/ar/aspose.cells/worksheetcollection/register_add_in_function/#int-str) | يضيف وظيفة الوظيفة الإضافية إلى المصنف|
+| [add_copy](/cells/python-net/ar/aspose.cells/worksheetcollection/add_copy/#str) | إضافة ورقة عمل إلى المجموعة ونسخ البيانات من ورقة عمل موجودة.|
+| [add_copy](/cells/python-net/ar/aspose.cells/worksheetcollection/add_copy/#int) | إضافة ورقة عمل إلى المجموعة ونسخ البيانات من ورقة عمل موجودة.|
+| [add_copy](/cells/python-net/ar/aspose.cells/worksheetcollection/add_copy/#list-list) | انسخ مجموعة من أوراق العمل.|
+| [get_range_by_name](/cells/python-net/ar/aspose.cells/worksheetcollection/get_range_by_name/#str) | يحصل على كائن النطاق باسم محدد مسبقًا.|
+| [get_range_by_name](/cells/python-net/ar/aspose.cells/worksheetcollection/get_range_by_name/#str-int-bool) | يحصل على [`Range`](/cells/python-net/ar/aspose.cells/range) بالاسم المحدد مسبقًا أو اسم الجدول|
+| [copy_to](/cells/python-net/ar/aspose.cells/worksheetcollection/copy_to/#list) | نسخ قائمة الصفيف بأكملها إلى قائمة صفيف أحادية البعد متوافقة، بدءًا من بداية قائمة الصفيف الهدف.|
+| [copy_to](/cells/python-net/ar/aspose.cells/worksheetcollection/copy_to/#int-list-int-int) | نسخ نطاق من العناصر من قائمة المصفوفات إلى قائمة مصفوفات متوافقة أحادية البعد، بدءًا من الفهرس المحدد لقائمة المصفوفات المستهدفة.|
+| [index_of](/cells/python-net/ar/aspose.cells/worksheetcollection/index_of/#aspose.cells.Worksheet-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [index_of](/cells/python-net/ar/aspose.cells/worksheetcollection/index_of/#aspose.cells.Worksheet-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ عند الفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [last_index_of](/cells/python-net/ar/aspose.cells/worksheetcollection/last_index_of/#aspose.cells.Worksheet) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
+| [last_index_of](/cells/python-net/ar/aspose.cells/worksheetcollection/last_index_of/#aspose.cells.Worksheet-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [last_index_of](/cells/python-net/ar/aspose.cells/worksheetcollection/last_index_of/#aspose.cells.Worksheet-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على العدد المحدد من العناصر وينتهي عند الفهرس المحدد.|
+| [create_range](/cells/python-net/ar/aspose.cells/worksheetcollection/create_range/#str-int) | يقوم بإنشاء كائن [`Range`](/cells/python-net/ar/aspose.cells/range) من عنوان النطاق.|
+| [create_union_range](/cells/python-net/ar/aspose.cells/worksheetcollection/create_union_range/#str-int) | يقوم بإنشاء كائن [`Range`](/cells/python-net/ar/aspose.cells/range) من عنوان النطاق.|
+| [get_sheet_by_code_name](/cells/python-net/ar/aspose.cells/worksheetcollection/get_sheet_by_code_name/#str) | الحصول على ورقة العمل بالاسم الرمزي.|
+| [sort_names](/cells/python-net/ar/aspose.cells/worksheetcollection/sort_names/#) | فرز الأسماء المحددة.|
+| [swap_sheet](/cells/python-net/ar/aspose.cells/worksheetcollection/swap_sheet/#int-int) |يستبدل الورقتين.|
+| [remove_at](/cells/python-net/ar/aspose.cells/worksheetcollection/remove_at/#str) | إزالة العنصر باسم محدد.|
+| [get_named_ranges](/cells/python-net/ar/aspose.cells/worksheetcollection/get_named_ranges/#) | يحصل على جميع النطاقات المسماة المحددة مسبقًا في جدول البيانات.|
+| [get_named_ranges_and_tables](/cells/python-net/ar/aspose.cells/worksheetcollection/get_named_ranges_and_tables/#) | يحصل على جميع النطاقات المسماة المحددة مسبقًا في جدول البيانات.|
+| [set_ole_size](/cells/python-net/ar/aspose.cells/worksheetcollection/set_ole_size/#int-int-int-int) | يضبط الحجم المعروض عند استخدام ملف المصنف ككائن Ole.|
+| [clear_pivottables](/cells/python-net/ar/aspose.cells/worksheetcollection/clear_pivottables/#) | مسح الجداول المحورية من جدول البيانات.|
+| [refresh_all](/cells/python-net/ar/aspose.cells/worksheetcollection/refresh_all/#) | قم بتحديث كافة الجداول والمخططات المحورية باستخدام المصدر المحوري.|
+| [refresh_pivot_tables](/cells/python-net/ar/aspose.cells/worksheetcollection/refresh_pivot_tables/#) | يقوم بتحديث كافة جداول PivotTables الموجودة في WorksheetCollection.|
+| [binary_search](/cells/python-net/ar/aspose.cells/worksheetcollection/binary_search/#aspose.cells.Worksheet) | يبحث في قائمة المصفوفات التي تم فرزها بالكامل عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس الصفري للعنصر.|
 
 
 
@@ -88,7 +90,7 @@ sheets.active_sheet_index = 1
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
-* فئة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](..)
+* فئة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

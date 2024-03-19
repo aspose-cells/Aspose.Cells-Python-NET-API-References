@@ -3,13 +3,13 @@ title: data_extract_load propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 180
+weight: 140
 url: /es/aspose.cells/workbooksettings/data_extract_load/
 is_root: false
 ---
 ##  data_extract_load propiedad
 
-indica si la aplicación abrió por última vez el libro de trabajo para la recuperación de datos.
+indica si la aplicación abrió por última vez el libro para la recuperación de datos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def data_extract_load(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WorkbookSettings](/cells/python-net/es/aspose.cells/workbooksettings)
+* módulo [`aspose.cells`](../../)
+* clase [`WorkbookSettings`](/cells/python-net/es/aspose.cells/workbooksettings)

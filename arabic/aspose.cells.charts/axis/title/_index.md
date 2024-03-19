@@ -1,13 +1,13 @@
 ---
-title: title الملكية
+title: title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 420
 url: /ar/aspose.cells.charts/axis/title/
 is_root: false
 ---
-##  title الملكية
+##  title عقار
 
 يحصل على المحور title.
 ###  تعريف:
@@ -18,6 +18,6 @@ def title(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
-* فئة [Title](/cells/python-net/ar/aspose.cells.charts/title)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)
+* فئة [`Title`](/cells/python-net/ar/aspose.cells.charts/title)

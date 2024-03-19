@@ -3,16 +3,16 @@ title: PivotItemCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 80
+weight: 150
 url: /tr/aspose.cells.pivot/pivotitemcollection/
 is_root: false
 ---
 ##  PivotItemCollection sınıfı
-PivotField'deki tüm PivotItem nesnelerinin bir koleksiyonunu temsil eder.
+PivotField'daki tüm PivotItem nesnelerinin bir koleksiyonunu temsil eder
 
 
 
-PivotItemCollection türü aşağıdaki üyeleri gösterir:
+PivotItemCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -21,8 +21,8 @@ PivotItemCollection türü aşağıdaki üyeleri gösterir:
 
 
 
-Belirli dizindeki PivotItem Nesnesini alır.
-###  İndeksleyici
+Belirli bir dizindeki PivotItem Nesnesini alır.
+###  Dizin oluşturucu
 | İsim| Tanım|
 | :- | :- |
 | [index] |  |
@@ -31,9 +31,9 @@ Belirli dizindeki PivotItem Nesnesini alır.
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [changeitems_order(source_index, dest_index)](/cells/python-net/tr/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | İki öğenin sırasını doğrudan değiştirir.|
+| [changeitems_order](/cells/python-net/tr/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | İki öğenin sırasını doğrudan değiştirir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](..)
+* modül [`aspose.cells.pivot`](..)

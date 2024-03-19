@@ -1,13 +1,13 @@
 ---
-title: rename_strategy 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: rename_strategy属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 150
 url: /zh/aspose.cells/exporttableoptions/rename_strategy/
 is_root: false
 ---
-## rename_strategy 属性
+## rename_strategy属性
 
 列重复名称的策略。
 ### 定义：
@@ -21,6 +21,6 @@ def rename_strategy(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ExportTableOptions](/cells/python-net/zh/aspose.cells/exporttableoptions)
-* 类 [RenameStrategy](/cells/python-net/zh/aspose.cells/renamestrategy)
+* 模块[`aspose.cells`](../../)
+* 类 [`ExportTableOptions`](/cells/python-net/zh/aspose.cells/exporttableoptions)
+* 类 [`RenameStrategy`](/cells/python-net/zh/aspose.cells/renamestrategy)

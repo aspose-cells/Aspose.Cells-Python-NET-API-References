@@ -1,13 +1,13 @@
 ---
-title: page_count الملكية
+title: page_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells.rendering/workbookrender/page_count/
 is_root: false
 ---
-##  page_count الملكية
+##  page_count عقار
 
 الحصول على إجمالي عدد صفحات المصنف.
 ###  تعريف:
@@ -18,5 +18,5 @@ def page_count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [WorkbookRender](/cells/python-net/ar/aspose.cells.rendering/workbookrender)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`WorkbookRender`](/cells/python-net/ar/aspose.cells.rendering/workbookrender)

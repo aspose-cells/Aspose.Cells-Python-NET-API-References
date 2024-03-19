@@ -1,13 +1,13 @@
 ---
-title: chart_settings الملكية
+title: chart_settings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ar/aspose.cells/globalizationsettings/chart_settings/
 is_root: false
 ---
-##  chart_settings الملكية
+##  chart_settings عقار
 
 الحصول على أو تعيين إعدادات العولمة للمخطط.
 ###  تعريف:
@@ -21,6 +21,6 @@ def chart_settings(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ChartGlobalizationSettings](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings)
-* فئة [GlobalizationSettings](/cells/python-net/ar/aspose.cells/globalizationsettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ChartGlobalizationSettings`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings)
+* فئة [`GlobalizationSettings`](/cells/python-net/ar/aspose.cells/globalizationsettings)

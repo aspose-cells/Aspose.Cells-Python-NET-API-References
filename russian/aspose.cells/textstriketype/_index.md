@@ -1,9 +1,9 @@
 ---
 title: TextStrikeType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2570
+weight: 2660
 url: /ru/aspose.cells/textstriketype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип TextStrikeType предоставляет следующие члены:
+Тип TextStrikeType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| SINGLE |Текст зачеркнут один раз.|
-| DOUBLE | Двойное зачеркивание применено к тексту.|
-| NONE | Страйк к тексту не применяется.|
+| SINGLE | К тексту применено одинарное зачеркивание.|
+| DOUBLE | К тексту применено двойное зачеркивание.|
+| NONE | К тексту не применяется ударение.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

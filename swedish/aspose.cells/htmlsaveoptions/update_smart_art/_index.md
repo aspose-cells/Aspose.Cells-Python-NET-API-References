@@ -3,13 +3,13 @@ title: update_smart_art fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 620
+weight: 690
 url: /sv/aspose.cells/htmlsaveoptions/update_smart_art/
 is_root: false
 ---
 ##  update_smart_art fastighet
 
-Anger om inställningen för smart konst uppdateras.
+Indikerar om inställningen för smart konst uppdateras.
 Standardvärdet är falskt.
 
 ###  Anmärkningar
@@ -26,5 +26,5 @@ def update_smart_art(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

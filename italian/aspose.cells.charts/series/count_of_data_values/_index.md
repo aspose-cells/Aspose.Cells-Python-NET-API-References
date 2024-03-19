@@ -3,7 +3,7 @@ title: count_of_data_values proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 100
+weight: 90
 url: /it/aspose.cells.charts/series/count_of_data_values/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def count_of_data_values(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

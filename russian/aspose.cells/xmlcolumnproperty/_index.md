@@ -1,9 +1,9 @@
 ---
 title: XmlColumnProperty класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1670
+weight: 1740
 url: /ru/aspose.cells/xmlcolumnproperty/
 is_root: false
 ---
@@ -12,14 +12,14 @@ is_root: false
 
 
 
-Тип XmlColumnProperty предоставляет следующие члены:
+Тип XmlColumnProperty предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [XmlColumnProperty()](/cells/python-net/ru/aspose.cells/xmlcolumnproperty/__init__/#) | Создает новый экземпляр XmlColumnProperty.|
+| [__init__](/cells/python-net/ru/aspose.cells/xmlcolumnproperty/__init__/#) | Создает новый экземпляр XmlColumnProperty.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

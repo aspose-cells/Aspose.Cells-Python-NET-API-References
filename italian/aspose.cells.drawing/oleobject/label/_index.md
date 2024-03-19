@@ -3,7 +3,7 @@ title: label proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 790
+weight: 800
 url: /it/aspose.cells.drawing/oleobject/label/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def label(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/it/aspose.cells.drawing/oleobject)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/it/aspose.cells.drawing/oleobject)

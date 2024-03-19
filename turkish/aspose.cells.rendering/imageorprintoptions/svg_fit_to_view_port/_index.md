@@ -3,13 +3,13 @@ title: svg_fit_to_view_port mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 320
 url: /tr/aspose.cells.rendering/imageorprintoptions/svg_fit_to_view_port/
 is_root: false
 ---
 ##  svg_fit_to_view_port mülk
 
-bu özellik doğruysa, oluşturulan svg bağlantı noktasını görüntülemeye sığar.
+bu özellik doğruysa oluşturulan svg, görüntüleme bağlantı noktasına sığacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def svg_fit_to_view_port(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [ImageOrPrintOptions](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`ImageOrPrintOptions`](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)

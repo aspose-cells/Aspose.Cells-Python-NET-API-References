@@ -1,13 +1,13 @@
 ---
-title: metodo remove_hyperlink
+title: Metodo remove_hyperlink
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 160
+weight: 190
 url: /it/aspose.cells.drawing/radiobutton/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink() {#}
+##  remove_hyperlink {#}
 Rimuovere il collegamento ipertestuale della forma.
 
 
@@ -30,5 +30,5 @@ shape.remove_hyperlink()
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/it/aspose.cells.drawing/radiobutton)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/it/aspose.cells.drawing/radiobutton)

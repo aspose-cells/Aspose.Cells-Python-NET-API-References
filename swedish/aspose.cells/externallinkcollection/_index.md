@@ -3,7 +3,7 @@ title: ExternalLinkCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 600
 url: /sv/aspose.cells/externallinkcollection/
 is_root: false
 ---
@@ -21,7 +21,7 @@ Typen ExternalLinkCollection avslöjar följande medlemmar:
 
 
 
-Hämtar elementet [ExternalLink](/cells/python-net/sv/aspose.cells/externallink) vid det angivna indexet.
+Hämtar elementet [`ExternalLink`](/cells/python-net/sv/aspose.cells/externallink) vid det angivna indexet.
 ###  Indexerare
 | namn| Beskrivning|
 | :- | :- |
@@ -31,12 +31,12 @@ Hämtar elementet [ExternalLink](/cells/python-net/sv/aspose.cells/externallink)
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add(file_name, sheet_names)](/cells/python-net/sv/aspose.cells/externallinkcollection/add/#str-list) | Lägger till en extern länk.|
-| [add(directory_type, file_name, sheet_names)](/cells/python-net/sv/aspose.cells/externallinkcollection/add/#DirectoryType-str-list) | Lägg till en extern länk.|
-| [clear()](/cells/python-net/sv/aspose.cells/externallinkcollection/clear/#) | Tar bort alla externa länkar.|
-| [clear(update_references_as_local)](/cells/python-net/sv/aspose.cells/externallinkcollection/clear/#bool) | Tar bort alla externa länkar.|
-| [remove_at(index)](/cells/python-net/sv/aspose.cells/externallinkcollection/remove_at/#int) | Tar bort den angivna externa länken från arbetsboken.|
-| [remove_at(index, update_references_as_local)](/cells/python-net/sv/aspose.cells/externallinkcollection/remove_at/#int-bool) | Tar bort den angivna externa länken från arbetsboken.|
+| [add](/cells/python-net/sv/aspose.cells/externallinkcollection/add/#str-list) | Lägger till en extern länk.|
+| [add](/cells/python-net/sv/aspose.cells/externallinkcollection/add/#aspose.cells.DirectoryType-str-list) | Lägg till en extern länk.|
+| [clear](/cells/python-net/sv/aspose.cells/externallinkcollection/clear/#) | Tar bort alla externa länkar.|
+| [clear](/cells/python-net/sv/aspose.cells/externallinkcollection/clear/#bool) | Tar bort alla externa länkar.|
+| [remove_at](/cells/python-net/sv/aspose.cells/externallinkcollection/remove_at/#int) | Tar bort den angivna externa länken från arbetsboken.|
+| [remove_at](/cells/python-net/sv/aspose.cells/externallinkcollection/remove_at/#int-bool) | Tar bort den angivna externa länken från arbetsboken.|
 
 
 
@@ -53,5 +53,5 @@ workbook.worksheets.external_links[0].data_source = "d:\\link.xls"
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [ExternalLink](/cells/python-net/sv/aspose.cells/externallink)
+* modul [`aspose.cells`](..)
+* klass [`ExternalLink`](/cells/python-net/sv/aspose.cells/externallink)

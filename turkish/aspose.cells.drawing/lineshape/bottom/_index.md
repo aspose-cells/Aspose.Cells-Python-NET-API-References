@@ -3,13 +3,13 @@ title: bottom mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 340
 url: /tr/aspose.cells.drawing/lineshape/bottom/
 is_root: false
 ---
 ##  bottom mülk
 
-Şeklin alt bottom köşe satırından dikey uzaklığının genişliğini piksel birimi cinsinden temsil eder.
+Piksel biriminde, şeklin alt bottom köşe satırından dikey uzaklığının genişliğini temsil eder.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def bottom(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineShape](/cells/python-net/tr/aspose.cells.drawing/lineshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineShape`](/cells/python-net/tr/aspose.cells.drawing/lineshape)

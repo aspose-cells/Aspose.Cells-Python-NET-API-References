@@ -1,15 +1,15 @@
 ---
-title: text_vertical_alignment 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_vertical_alignment属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 220
 url: /zh/aspose.cells/comment/text_vertical_alignment/
 is_root: false
 ---
-## text_vertical_alignment 属性
+## text_vertical_alignment属性
 
-获取和设置评论的文本垂直对齐类型。
+获取和设置注释的文本垂直对齐类型。
 
 ### 例子
 
@@ -31,6 +31,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
-* 类 [TextAlignmentType](/cells/python-net/zh/aspose.cells/textalignmenttype)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)
+* 类 [`TextAlignmentType`](/cells/python-net/zh/aspose.cells/textalignmenttype)

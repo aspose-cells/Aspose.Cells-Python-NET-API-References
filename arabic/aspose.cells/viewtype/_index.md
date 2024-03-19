@@ -1,18 +1,18 @@
 ---
-title: العد ViewType
+title: ViewType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2650
+weight: 2740
 url: /ar/aspose.cells/viewtype/
 is_root: false
 ---
-##  العد ViewType
+##  ViewType التعداد
 يمثل نوع عرض ورقة العمل.
 
 
 
-يكشف نوع ViewType الأعضاء التالية:
+يكشف النوع ViewType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

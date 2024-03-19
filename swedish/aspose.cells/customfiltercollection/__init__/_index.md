@@ -7,8 +7,8 @@ weight: 10
 url: /sv/aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
-##  CustomFilterCollection() {#}
-Konstruerar en ny instans av CustomFilterCollection
+##  __i det__ {#}
+Konstruerar en ny instans.
 
 
 
@@ -22,5 +22,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CustomFilterCollection](/cells/python-net/sv/aspose.cells/customfiltercollection)
+* modul [`aspose.cells`](../../)
+* klass [`CustomFilterCollection`](/cells/python-net/sv/aspose.cells/customfiltercollection)

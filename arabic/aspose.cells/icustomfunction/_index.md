@@ -1,23 +1,23 @@
 ---
-title: ICustomFunction الدرجة
+title: ICustomFunction صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 820
+weight: 870
 url: /ar/aspose.cells/icustomfunction/
 is_root: false
 ---
-##  ICustomFunction الدرجة
+##  ICustomFunction صف
 
 
-يكشف نوع ICustomFunction الأعضاء التالية:
+يكشف النوع ICustomFunction عن الأعضاء التاليين:
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [calculate_custom_function(function_name, params_list, context_objects)](/cells/python-net/ar/aspose.cells/icustomfunction/calculate_custom_function/#str-list-list) |  |
+| [calculate_custom_function](/cells/python-net/ar/aspose.cells/icustomfunction/calculate_custom_function/#str-list-list) |  |
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

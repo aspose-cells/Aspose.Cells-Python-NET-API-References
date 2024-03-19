@@ -1,18 +1,18 @@
 ---
-title: TextDirectionType enumerazione
+title: Enumerazione TextDirectionType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2550
+weight: 2640
 url: /it/aspose.cells/textdirectiontype/
 is_root: false
 ---
-##  TextDirectionType enumerazione
-Rappresenta la direzione del flusso di testo per questo paragrafo.
+##  Enumerazione TextDirectionType
+Rappresenta la direzione del flusso del testo per questo paragrafo.
 
 
 
-Il tipo TextDirectionType espone i membri seguenti:
+Il tipo TextDirectionType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -24,4 +24,4 @@ Il tipo TextDirectionType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

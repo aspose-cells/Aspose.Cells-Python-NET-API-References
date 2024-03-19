@@ -1,13 +1,13 @@
 ---
-title: ribbon_xml الملكية
+title: ribbon_xml عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 630
+weight: 640
 url: /ar/aspose.cells/workbook/ribbon_xml/
 is_root: false
 ---
-##  ribbon_xml الملكية
+##  ribbon_xml عقار
 
 الحصول على ملف XML الذي يحدد واجهة مستخدم الشريط وتعيينه.
 ###  تعريف:
@@ -21,5 +21,5 @@ def ribbon_xml(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

@@ -1,5 +1,5 @@
 ---
-title: group_by_types الملكية
+title: group_by_types عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,7 @@ weight: 50
 url: /ar/aspose.cells.pivot/sxrng/group_by_types/
 is_root: false
 ---
-##  group_by_types الملكية
-
-يمثل نوع المجموعة لنطاق المجموعة.
-rangeofvalue ثوانى دقائق ساعات أيام شهور أرباع سنوات
+##  group_by_types عقار
 ###  تعريف:
 ```python
 @property
@@ -19,5 +16,5 @@ def group_by_types(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [SxRng](/cells/python-net/ar/aspose.cells.pivot/sxrng)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`SxRng`](/cells/python-net/ar/aspose.cells.pivot/sxrng)

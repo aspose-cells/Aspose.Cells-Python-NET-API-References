@@ -1,17 +1,17 @@
 ---
 title: set_dynamic_array_formula метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 310
+weight: 330
 url: /ru/aspose.cells/cell/set_dynamic_array_formula/
 is_root: false
 ---
-##  set_dynamic_array_formula(array_formula, options, calculate_value) {#str-FormulaParseOptions-bool}
-Задает формулу динамического массива и по возможности распространяет формулу на соседние ячейки.
+##  set_dynamic_array_formula {#str-aspose.cells.FormulaParseOptions-bool}
+Устанавливает формулу динамического массива и, если это возможно, заставляет формулу распространяться на соседние ячейки.
 
 
-###  Возвращает
+###  Возврат
 
 диапазон, в который должна попасть формула.
 
@@ -24,16 +24,16 @@ def set_dynamic_array_formula(self, array_formula, options, calculate_value):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| array_formula | str | выражение формулы|
-| options | [FormulaParseOptions](/cells/python-net/ru/aspose.cells/formulaparseoptions) | варианты разбора формулы.<br/> Параметр «Разбор» будет игнорироваться, и формула всегда будет анализироваться немедленно.|
-| calculate_value | bool | вычислить ли эту формулу динамического массива для тех ячеек в разлитом диапазоне.|
+| array_formula | str |выражение формулы|
+| options | [`FormulaParseOptions`](/cells/python-net/ru/aspose.cells/formulaparseoptions) | варианты анализа формулы.<br/> Опция «Разобрать» будет игнорироваться, и формула всегда будет анализироваться немедленно.|
+| calculate_value | bool | следует ли вычислять эту формулу динамического массива для этих ячеек в расширенном диапазоне.|
 
 
-##  set_dynamic_array_formula(array_formula, options, values, calculate_range, calculate_value) {#str-FormulaParseOptions-list-bool-bool}
-Задает формулу динамического массива и по возможности распространяет формулу на соседние ячейки.
+##  set_dynamic_array_formula {#str-aspose.cells.FormulaParseOptions-list-bool-bool}
+Устанавливает формулу динамического массива и, если это возможно, заставляет формулу распространяться на соседние ячейки.
 
 
-###  Возвращает
+###  Возврат
 
 диапазон, в который должна попасть формула.
 
@@ -46,18 +46,18 @@ def set_dynamic_array_formula(self, array_formula, options, values, calculate_ra
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| array_formula | str | выражение формулы|
-| options | [FormulaParseOptions](/cells/python-net/ru/aspose.cells/formulaparseoptions) | варианты разбора формулы.<br/> Параметр «Разбор» будет игнорироваться, и формула всегда будет анализироваться немедленно.|
-| values | list |значения для тех ячеек с заданной формулой динамического массива|
-| calculate_range | bool | Вычислите ли разбросанный диапазон для этой формулы динамического массива.<br/>Если параметр "values" не нулевой и этот флаг ложный,<br/> тогда высота разлитого диапазона будет значениями. Длина и ширина будут значениями [0]. Длина.|
-| calculate_value | bool | вычислить ли эту формулу динамического массива для тех ячеек в пролитом диапазоне, когда «значения» равны нулю<br/> или соответствующий элемент в «значениях» для одной ячейки равен нулю.|
+| array_formula | str |выражение формулы|
+| options | [`FormulaParseOptions`](/cells/python-net/ru/aspose.cells/formulaparseoptions) | варианты анализа формулы.<br/> Опция «Разобрать» будет игнорироваться, и формула всегда будет анализироваться немедленно.|
+| values | list | значения (расчетные результаты) для этих ячеек с заданной формулой динамического массива|
+| calculate_range | bool | Можно ли рассчитать расширенный диапазон для этой формулы динамического массива.<br/>Если параметр «values» не равен нулю и этот флаг имеет значение false,<br/> тогда высота выделенного диапазона будет равна значениям. Длина и ширина будут значениями [0]. Длина.|
+| calculate_value | bool | вычислять ли эту формулу динамического массива для тех ячеек в расширенном диапазоне, когда «значения» равны нулю<br/> или соответствующий элемент в «значениях» для одной ячейки имеет значение NULL.|
 
 
-##  set_dynamic_array_formula(array_formula, options, values, calculate_range, calculate_value, copts) {#str-FormulaParseOptions-list-bool-bool-CalculationOptions}
-Задает формулу динамического массива и по возможности распространяет формулу на соседние ячейки.
+##  set_dynamic_array_formula {#str-aspose.cells.FormulaParseOptions-list-bool-bool-aspose.cells.CalculationOptions}
+Устанавливает формулу динамического массива и, если это возможно, заставляет формулу распространяться на соседние ячейки.
 
 
-###  Возвращает
+###  Возврат
 
 диапазон, в который должна попасть формула.
 
@@ -70,15 +70,15 @@ def set_dynamic_array_formula(self, array_formula, options, values, calculate_ra
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| array_formula | str | выражение формулы|
-| options | [FormulaParseOptions](/cells/python-net/ru/aspose.cells/formulaparseoptions) | варианты разбора формулы.<br/> Параметр «Разбор» будет игнорироваться, и формула всегда будет анализироваться немедленно.|
-| values | list |значения для тех ячеек с заданной формулой динамического массива|
-| calculate_range | bool | Вычислите ли разбросанный диапазон для этой формулы динамического массива.<br/>Если параметр "values" не нулевой и этот флаг ложный,<br/> тогда высота разлитого диапазона будет значениями. Длина и ширина будут значениями [0]. Длина.|
-| calculate_value | bool | вычислить ли эту формулу динамического массива для тех ячеек в пролитом диапазоне, когда «значения» равны нулю<br/> или соответствующий элемент в «значениях» для одной ячейки равен нулю.|
-| copts | [CalculationOptions](/cells/python-net/ru/aspose.cells/calculationoptions) | Варианты расчета формулы.<br/> Обычно из соображений производительности свойство [CalculationOptions.recursive](/cells/python-net/ru/aspose.cells/calculationoptions#recursive) должно иметь значение false.|
+| array_formula | str |выражение формулы|
+| options | [`FormulaParseOptions`](/cells/python-net/ru/aspose.cells/formulaparseoptions) | варианты анализа формулы.<br/> Опция «Разобрать» будет игнорироваться, и формула всегда будет анализироваться немедленно.|
+| values | list | значения (расчетные результаты) для этих ячеек с заданной формулой динамического массива|
+| calculate_range | bool | Можно ли рассчитать расширенный диапазон для этой формулы динамического массива.<br/>Если параметр «values» не равен нулю и этот флаг имеет значение false,<br/> тогда высота выделенного диапазона будет равна значениям. Длина и ширина будут значениями [0]. Длина.|
+| calculate_value | bool | вычислять ли эту формулу динамического массива для тех ячеек в расширенном диапазоне, когда «значения» равны нулю<br/> или соответствующий элемент в «значениях» для одной ячейки имеет значение NULL.|
+| copts | [`CalculationOptions`](/cells/python-net/ru/aspose.cells/calculationoptions) | Варианты расчета формулы.<br/> Обычно для обеспечения производительности свойство [`CalculationOptions.recursive`](/cells/python-net/ru/aspose.cells/calculationoptions#recursive) должно быть ложным.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

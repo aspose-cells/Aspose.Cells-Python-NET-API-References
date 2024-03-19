@@ -3,11 +3,11 @@ title: remove_array_formula metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 290
 url: /sv/aspose.cells/cell/remove_array_formula/
 is_root: false
 ---
-##  remove_array_formula(leave_normal_formula) {#bool}
+##  remove_array_formula {#bool}
 Ta bort matrisformel.
 
 
@@ -25,5 +25,5 @@ def remove_array_formula(self, leave_normal_formula):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

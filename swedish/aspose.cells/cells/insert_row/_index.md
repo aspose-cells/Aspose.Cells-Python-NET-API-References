@@ -3,11 +3,11 @@ title: insert_row metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 720
+weight: 710
 url: /sv/aspose.cells/cells/insert_row/
 is_root: false
 ---
-##  insert_row(row_index) {#int}
+##  insert_row {#int}
 Infogar en ny rad i kalkylbladet.
 
 
@@ -25,5 +25,5 @@ def insert_row(self, row_index):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

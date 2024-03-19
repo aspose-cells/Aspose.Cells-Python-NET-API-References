@@ -1,15 +1,15 @@
 ---
-title: entire_row الملكية
+title: entire_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 310
 url: /ar/aspose.cells/range/entire_row/
 is_root: false
 ---
-##  entire_row الملكية
+##  entire_row عقار
 
-الحصول على كائن Range يمثل الصف بأكمله (أو الصفوف) الذي يحتوي على النطاق المحدد.
+الحصول على كائن نطاق يمثل الصف (أو الصفوف) بأكمله الذي يحتوي على النطاق المحدد.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def entire_row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

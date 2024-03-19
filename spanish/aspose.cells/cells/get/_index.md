@@ -1,19 +1,19 @@
 ---
-title: get método
+title: método get
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 300
 url: /es/aspose.cells/cells/get/
 is_root: false
 ---
-##  get(cell_name) {#str}
-Agregue API for Python a través de .Net.ya que este [string cellName] no es compatible
+##  get {#str}
+Agregue API for Python a través de .Net, ya que esta [cadena nombre de celda] no es compatible
 
 
 ###  Devoluciones
 
-Un objeto [Cell](/cells/python-net/es/aspose.cells/cell)
+Un objeto [`Cell`](/cells/python-net/es/aspose.cells/cell)
 
 
 ```python
@@ -24,16 +24,16 @@ def get(self, cell_name):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| cell_name | str | Cell nombre, incluida la letra de la columna y el número de fila, por ejemplo, A5.|
+| cell_name | str | Cell nombre, incluida la letra de la columna y el número de fila, por ejemplo A5.|
 
 
-##  get(row, column) {#int-int}
-Agregue API for Python a través de .Net.ya que esta [fila int, columna int] no es compatible
+##  get {#int-int}
+Agregue API for Python a través de .Net, ya que esta [fila int, columna int] no es compatible
 
 
 ###  Devoluciones
 
-El objeto [Cell](/cells/python-net/es/aspose.cells/cell).
+El objeto [`Cell`](/cells/python-net/es/aspose.cells/cell).
 
 
 ```python
@@ -50,6 +50,6 @@ def get(self, row, column):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cell](/cells/python-net/es/aspose.cells/cell)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cell`](/cells/python-net/es/aspose.cells/cell)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

@@ -1,15 +1,15 @@
 ---
-title: is_locked الملكية
+title: is_locked عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 730
+weight: 740
 url: /ar/aspose.cells.drawing/oleobject/is_locked/
 is_root: false
 ---
-##  is_locked الملكية
+##  is_locked عقار
 
-صواب إذا كان الكائن مؤمنًا ، خطأ إذا كان من الممكن تعديل الكائن عندما تكون الورقة محمية.
+صحيح إذا كان الكائن مقفلاً، وخطأ إذا كان من الممكن تعديل الكائن عندما تكون الورقة محمية.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def is_locked(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

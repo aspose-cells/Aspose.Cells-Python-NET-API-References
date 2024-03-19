@@ -1,25 +1,25 @@
 ---
-title: CellsException الدرجة
+title: CellsException صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells/cellsexception/
 is_root: false
 ---
-##  CellsException الدرجة
-يتم طرح الاستثناء عند حدوث الخطأ المحدد Aspose.Cells.
+##  CellsException صف
+الاستثناء الذي يتم طرحه عند حدوث الخطأ المحدد Aspose.Cells.
 
 
 
-يكشف نوع CellsException الأعضاء التالية:
+يكشف النوع CellsException عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [code](/cells/python-net/ar/aspose.cells/cellsexception/code) | يمثل رمز استثناء مخصص.|
+| [code](/cells/python-net/ar/aspose.cells/cellsexception/code) | يمثل رمز الاستثناء المخصص.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

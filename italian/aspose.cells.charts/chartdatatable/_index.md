@@ -1,30 +1,30 @@
 ---
-title: classe ChartDataTable
+title: ChartDataTable classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 60
+weight: 70
 url: /it/aspose.cells.charts/chartdatatable/
 is_root: false
 ---
-##  classe ChartDataTable
-Rappresenta una tabella di dati del grafico.
+##  ChartDataTable classe
+Rappresenta una tabella dati del grafico.
 
 
 
-Il tipo ChartDataTable espone i membri seguenti:
+Il tipo ChartDataTable espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [font](/cells/python-net/it/aspose.cells.charts/chartdatatable/font) | Ottiene un oggetto [ChartDataTable.font](/cells/python-net/it/aspose.cells.charts/chartdatatable#font) che rappresenta l'impostazione del tipo di carattere della tabella di dati del grafico specificata.|
-| [auto_scale_font](/cells/python-net/it/aspose.cells.charts/chartdatatable/auto_scale_font) | True se il testo nell'oggetto cambia la dimensione del carattere quando cambia la dimensione dell'oggetto.<br/> Il valore predefinito è Vero.|
+| [font](/cells/python-net/it/aspose.cells.charts/chartdatatable/font) | Ottiene un oggetto [`ChartDataTable.font`](/cells/python-net/it/aspose.cells.charts/chartdatatable#font) che rappresenta l'impostazione del carattere della tabella dati del grafico specificata.|
+| [auto_scale_font](/cells/python-net/it/aspose.cells.charts/chartdatatable/auto_scale_font) | Vero se il testo nell'oggetto cambia la dimensione del carattere quando cambia la dimensione dell'oggetto.<br/>Il valore predefinito è Vero.|
 | [background_mode](/cells/python-net/it/aspose.cells.charts/chartdatatable/background_mode) | Ottiene e imposta la modalità di visualizzazione dello sfondo|
 | [background](/cells/python-net/it/aspose.cells.charts/chartdatatable/background) | Ottiene e imposta la modalità di visualizzazione dello sfondo|
-| [has_border_horizontal](/cells/python-net/it/aspose.cells.charts/chartdatatable/has_border_horizontal) |True se la tabella dei dati del grafico ha i bordi delle celle orizzontali|
-| [has_border_vertical](/cells/python-net/it/aspose.cells.charts/chartdatatable/has_border_vertical) | True se la tabella dei dati del grafico ha bordi di cella verticali|
-| [has_border_outline](/cells/python-net/it/aspose.cells.charts/chartdatatable/has_border_outline) | True se la tabella dei dati del grafico ha i bordi del contorno|
-| [show_legend_key](/cells/python-net/it/aspose.cells.charts/chartdatatable/show_legend_key) | True se la chiave della legenda dell'etichetta dati è visibile.|
+| [has_border_horizontal](/cells/python-net/it/aspose.cells.charts/chartdatatable/has_border_horizontal) | Vero se la tabella dati del grafico ha bordi di cella orizzontali|
+| [has_border_vertical](/cells/python-net/it/aspose.cells.charts/chartdatatable/has_border_vertical) | Vero se la tabella dati del grafico ha bordi di cella verticali|
+| [has_border_outline](/cells/python-net/it/aspose.cells.charts/chartdatatable/has_border_outline) | Vero se la tabella dati del grafico presenta bordi delineati|
+| [show_legend_key](/cells/python-net/it/aspose.cells.charts/chartdatatable/show_legend_key) | Vero se la chiave della legenda dell'etichetta dati è visibile.|
 | [border](/cells/python-net/it/aspose.cells.charts/chartdatatable/border) | Restituisce un oggetto Border che rappresenta il bordo dell'oggetto|
 
 
@@ -71,4 +71,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
+* modulo [`aspose.cells.charts`](..)

@@ -3,11 +3,11 @@ title: طريقة apply_style
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 20
+weight: 30
 url: /ar/aspose.cells/range/apply_style/
 is_root: false
 ---
-##  apply_style(style, flag) {#Style-StyleFlag}
+##  apply_style {#aspose.cells.Style-aspose.cells.StyleFlag}
 يطبق التنسيقات على نطاق كامل.
 
 
@@ -20,15 +20,15 @@ def apply_style(self, style, flag):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/ar/aspose.cells/style) | كائن النمط الذي سيتم تطبيقه.|
-| flag | [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag) |علامات تشير إلى خصائص التنسيق المطبقة.|
+| style | [`Style`](/cells/python-net/ar/aspose.cells/style) | كائن النمط الذي سيتم تطبيقه.|
+| flag | [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag) | العلامات التي تشير إلى خصائص التنسيق المطبقة.|
 ###  ملاحظات
 
-ستحتوي كل خلية في هذا النطاق على عنصر [Style](/cells/python-net/ar/aspose.cells/style).
-لذا فهذه طريقة تستهلك الذاكرة. الرجاء استخدامه بعناية.
+ستحتوي كل خلية في هذا النطاق على كائن [`Style`](/cells/python-net/ar/aspose.cells/style).
+لذا فهذه طريقة تستهلك الذاكرة. يرجى استخدامه بعناية.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

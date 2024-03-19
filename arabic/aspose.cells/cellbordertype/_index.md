@@ -1,38 +1,38 @@
 ---
-title: العد CellBorderType
+title: CellBorderType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1830
+weight: 1900
 url: /ar/aspose.cells/cellbordertype/
 is_root: false
 ---
-##  العد CellBorderType
-تعداد نوع حد الخلية.
+##  CellBorderType التعداد
+تعداد نوع حدود الخلية.
 
 
 
-يكشف نوع CellBorderType الأعضاء التالية:
+يكشف النوع CellBorderType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DASH_DOT | يمثل خطًا رفيعًا منقّطًا بشرطة.|
-| DASH_DOT_DOT | يمثل خطًا رفيعًا منقّطًا بشرطة.|
+| DASH_DOT | يمثل خطًا رفيعًا منقطًا.|
+| DASH_DOT_DOT | يمثل خطًا رفيعًا منقطًا بشرطة ونقطة.|
 | DASHED | يمثل خط متقطع.|
-| DOTTED | يمثل خط منقط.|
+| DOTTED | يمثل الخط المنقط.|
 | DOUBLE | يمثل خط مزدوج.|
 | HAIR | يمثل خط الشعر.|
-| MEDIUM_DASH_DOT | يمثل خطًا متوسطًا منقّطًا بشرطة.|
-| MEDIUM_DASH_DOT_DOT | يمثل خطًا متوسطًا منقطًا وشرطة.|
-| MEDIUM_DASHED | يمثل خط متوسط متقطع.|
-| NONE | لا يمثل أي خط.|
+| MEDIUM_DASH_DOT | يمثل خطًا منقطًا متوسطًا.|
+| MEDIUM_DASH_DOT_DOT | يمثل خطًا متوسطًا منقطًا بشرطة ونقطة.|
+| MEDIUM_DASHED | يمثل خطًا متقطعًا متوسطًا.|
+| NONE | لا يمثل أي خط|
 | MEDIUM | يمثل الخط المتوسط.|
-| SLANTED_DASH_DOT | يمثل خطًا مائلًا منقطًا بشرطة متوسطة.|
-| THICK | يمثل خط سميك.|
+| SLANTED_DASH_DOT | يمثل خطًا منقطًا متوسطًا مائلًا.|
+| THICK | يمثل خطًا سميكًا.|
 | THIN | يمثل خط رفيع.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

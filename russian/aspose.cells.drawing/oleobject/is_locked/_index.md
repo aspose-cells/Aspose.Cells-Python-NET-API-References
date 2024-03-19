@@ -1,9 +1,9 @@
 ---
 title: is_locked недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 730
+weight: 740
 url: /ru/aspose.cells.drawing/oleobject/is_locked/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_locked(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

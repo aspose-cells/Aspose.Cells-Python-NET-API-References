@@ -1,15 +1,15 @@
 ---
-title: language_code 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: language_code属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 240
 url: /zh/aspose.cells/txtloadoptions/language_code/
 is_root: false
 ---
-## language_code 属性
+## language_code属性
 
-获取或设置基于已保存文件的 CountryCode 的 Workbook 版本的用户界面语言。
+根据保存文件的 CountryCode 获取或设置 Workbook 版本的用户界面语言。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CountryCode](/cells/python-net/zh/aspose.cells/countrycode)
-* 类 [TxtLoadOptions](/cells/python-net/zh/aspose.cells/txtloadoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`CountryCode`](/cells/python-net/zh/aspose.cells/countrycode)
+* 类 [`TxtLoadOptions`](/cells/python-net/zh/aspose.cells/txtloadoptions)

@@ -3,7 +3,7 @@ title: ViewType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2650
+weight: 2740
 url: /tr/aspose.cells/viewtype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ is_root: false
 
 
 
-ViewType türü aşağıdaki üyeleri gösterir:
+ViewType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NORMAL_VIEW |  |
@@ -24,4 +24,4 @@ ViewType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

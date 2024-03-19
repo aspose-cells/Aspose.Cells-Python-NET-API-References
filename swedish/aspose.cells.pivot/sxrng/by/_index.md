@@ -8,8 +8,6 @@ url: /sv/aspose.cells.pivot/sxrng/by/
 is_root: false
 ---
 ##  by fastighet
-
-Representerar intervallobjektet för gruppintervallet.
 ###  Definition:
 ```python
 @property
@@ -18,5 +16,5 @@ def by(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [SxRng](/cells/python-net/sv/aspose.cells.pivot/sxrng)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`SxRng`](/cells/python-net/sv/aspose.cells.pivot/sxrng)

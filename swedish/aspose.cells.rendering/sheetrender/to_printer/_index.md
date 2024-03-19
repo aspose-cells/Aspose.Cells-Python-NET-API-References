@@ -3,11 +3,11 @@ title: to_printer metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 50
+weight: 60
 url: /sv/aspose.cells.rendering/sheetrender/to_printer/
 is_root: false
 ---
-##  to_printer(printer_name) {#str}
+##  to_printer {#str}
 Återge arbetsbladet till skrivaren
 
 
@@ -23,7 +23,7 @@ def to_printer(self, printer_name):
 | printer_name | str | namnet på skrivaren , till exempel: "Microsoft Office Document Image Writer"|
 
 
-##  to_printer(printer_settings) {#aspose.pydrawing.printing.PrinterSettings}
+##  to_printer {#aspose.pydrawing.printing.PrinterSettings}
 Återge arbetsbladet till skrivaren
 
 
@@ -39,7 +39,7 @@ def to_printer(self, printer_settings):
 | printer_settings | aspose.pydrawing.printing.PrinterSettings | skrivarens inställningar, t.ex. Skrivarnamn, Duplex|
 
 
-##  to_printer(printer_name, job_name) {#str-str}
+##  to_printer {#str-str}
 Återge arbetsbladet till skrivaren
 
 
@@ -56,7 +56,7 @@ def to_printer(self, printer_name, job_name):
 | job_name | str | ställ in utskriftsjobbets namn|
 
 
-##  to_printer(printer_settings, job_name) {#aspose.pydrawing.printing.PrinterSettings-str}
+##  to_printer {#aspose.pydrawing.printing.PrinterSettings-str}
 Återge arbetsbladet till skrivaren
 
 
@@ -73,7 +73,7 @@ def to_printer(self, printer_settings, job_name):
 | job_name | str | ställ in utskriftsjobbets namn|
 
 
-##  to_printer(printer_name, print_page_index, print_page_count) {#str-int-int}
+##  to_printer {#str-int-int}
 Återge arbetsbladet till skrivaren
 
 
@@ -98,5 +98,5 @@ Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [SheetRender](/cells/python-net/sv/aspose.cells.rendering/sheetrender)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`SheetRender`](/cells/python-net/sv/aspose.cells.rendering/sheetrender)

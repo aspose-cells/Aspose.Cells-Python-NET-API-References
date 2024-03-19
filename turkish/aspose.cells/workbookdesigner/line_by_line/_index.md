@@ -3,18 +3,18 @@ title: line_by_line mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 100
 url: /tr/aspose.cells/workbookdesigner/line_by_line/
 is_root: false
 ---
 ##  line_by_line mülk
 
-Akıllı işaretleyicinin satır satır işlenip işlenmediğini gösterir.
+Akıllı işaretleyicinin satır satır işlenip işlenmeyeceğini belirtir.
 
 ###  Notlar
 
 Varsayılan değer doğrudur.
-Yanlış ise, şablon dosyası "_CellsSmartMarkers" olarak adlandırılan bir aralık içermelidir.
+False ise şablon dosyası "_CellsSmartMarkers" olarak adlandırılan bir aralık içermelidir.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def line_by_line(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookDesigner](/cells/python-net/tr/aspose.cells/workbookdesigner)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookDesigner`](/cells/python-net/tr/aspose.cells/workbookdesigner)

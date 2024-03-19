@@ -7,8 +7,8 @@ weight: 20
 url: /sv/aspose.cells.charts/seriescollection/add/
 is_root: false
 ---
-##  add(area, is_vertical) {#str-bool}
-Lägger till samlingen [SeriesCollection](/cells/python-net/sv/aspose.cells.charts/seriescollection) i ett diagram.
+##  add {#str-bool}
+Lägger till samlingen [`Series`](/cells/python-net/sv/aspose.cells.charts/series) i ett diagram.
 
 
 ###  Returnerar
@@ -25,14 +25,14 @@ def add(self, area, is_vertical):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | area | str | Anger värden från vilka dataserien ska plottas|
-| is_vertical | bool | Anger om serien ska plottas från ett intervall av cellvärden efter rad eller kolumn.|
+| is_vertical | bool |Anger om serien ska plottas från ett intervall av cellvärden efter rad eller kolumn.|
 ###  Anmärkningar
 
 
 
-##  add(area, is_vertical, check_labels) {#str-bool-bool}
+##  add {#str-bool-bool}
 
-Lägger till samlingen [SeriesCollection](/cells/python-net/sv/aspose.cells.charts/seriescollection) i ett diagram.
+Lägger till samlingen [`Series`](/cells/python-net/sv/aspose.cells.charts/series) i ett diagram.
 
 
 ###  Returnerar
@@ -49,7 +49,7 @@ def add(self, area, is_vertical, check_labels):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | area | str | Anger värden från vilka dataserien ska plottas|
-| is_vertical | bool | Anger om serien ska plottas från ett intervall av cellvärden efter rad eller kolumn.|
+| is_vertical | bool |Anger om serien ska plottas från ett intervall av cellvärden efter rad eller kolumn.|
 | check_labels | bool | Anger om intervallet innehåller serienamn|
 ###  Anmärkningar
 
@@ -58,5 +58,6 @@ def add(self, area, is_vertical, check_labels):
 
 ###  Se även
 
-* modul [aspose.cells.charts](../../)
-* klass [SeriesCollection](/cells/python-net/sv/aspose.cells.charts/seriescollection)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)
+* klass [`SeriesCollection`](/cells/python-net/sv/aspose.cells.charts/seriescollection)

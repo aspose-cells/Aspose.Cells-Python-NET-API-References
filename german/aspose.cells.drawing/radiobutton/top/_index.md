@@ -3,17 +3,17 @@ title: top Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1080
+weight: 1100
 url: /de/aspose.cells.drawing/radiobutton/top/
 is_root: false
 ---
 ##  top Eigentum
 
-Stellt den vertikalen Versatz der Form von ihrer top-Zeile in Pixeleinheiten dar.
+Stellt den vertikalen Versatz der Form von ihrer Zeile top in Pixeleinheiten dar.
 
 ###  Bemerkungen
 
-Wenn sich die Form im Diagramm befindet, stellt dies den vertikalen Versatz der Form von ihrer top-Grenze dar.
+Wenn sich die Form im Diagramm befindet, stellt dies den vertikalen Versatz der Form von ihrem top-Rand dar.
 
 ###  Beispiel
 
@@ -34,5 +34,5 @@ def top(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RadioButton](/cells/python-net/de/aspose.cells.drawing/radiobutton)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RadioButton`](/cells/python-net/de/aspose.cells.drawing/radiobutton)

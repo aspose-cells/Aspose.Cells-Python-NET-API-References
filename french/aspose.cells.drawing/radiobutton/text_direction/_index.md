@@ -3,7 +3,7 @@ title: text_direction propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 960
+weight: 980
 url: /fr/aspose.cells.drawing/radiobutton/text_direction/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_direction(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
-* classe [TextDirectionType](/cells/python-net/fr/aspose.cells/textdirectiontype)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* classe [`TextDirectionType`](/cells/python-net/fr/aspose.cells/textdirectiontype)

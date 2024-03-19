@@ -3,7 +3,7 @@ title: is_auto_tick_label_spacing propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 180
 url: /es/aspose.cells.charts/axis/is_auto_tick_label_spacing/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_auto_tick_label_spacing(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Axis](/cells/python-net/es/aspose.cells.charts/axis)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Axis`](/cells/python-net/es/aspose.cells.charts/axis)

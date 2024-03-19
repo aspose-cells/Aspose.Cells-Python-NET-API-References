@@ -3,13 +3,13 @@ title: height_percent propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 290
+weight: 320
 url: /fr/aspose.cells.charts/chart/height_percent/
 is_root: false
 ---
 ##  height_percent propriété
 
-Renvoie ou définit la hauteur d'un graphique 3D sous forme de pourcentage de la largeur du graphique (entre 5 et 500 %).
+Renvoie ou définit la hauteur d'un graphique 3D sous forme de pourcentage de la largeur du graphique (entre 5 et 500 pour cent).
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def height_percent(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)

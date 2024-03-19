@@ -3,13 +3,14 @@ title: parse_html_tag_in_cell propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 520
+weight: 590
 url: /es/aspose.cells/htmlsaveoptions/parse_html_tag_in_cell/
 is_root: false
 ---
 ##  parse_html_tag_in_cell propiedad
 
-Analizar la etiqueta html en la celda, como valor de celda o como etiqueta html, el valor predeterminado es verdadero
+Indica si la etiqueta html (como `<div></div>`) en la celda debe analizarse como valor de celda o conservarse tal como está.
+El valor por defecto es verdadero.
 ###  Definición:
 ```python
 @property
@@ -21,5 +22,5 @@ def parse_html_tag_in_cell(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HtmlSaveOptions](/cells/python-net/es/aspose.cells/htmlsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`HtmlSaveOptions`](/cells/python-net/es/aspose.cells/htmlsaveoptions)

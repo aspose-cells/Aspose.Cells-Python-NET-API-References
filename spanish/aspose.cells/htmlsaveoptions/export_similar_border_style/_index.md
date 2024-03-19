@@ -3,14 +3,14 @@ title: export_similar_border_style propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 330
+weight: 350
 url: /es/aspose.cells/htmlsaveoptions/export_similar_border_style/
 is_root: false
 ---
 ##  export_similar_border_style propiedad
 
-Indicar si se exporta el estilo de borde similar cuando los navegadores no admiten el estilo de borde.
-Si desea importar el archivo html o mht a Excel, mantenga el valor predeterminado.
+Indica si se exporta el estilo de borde similar cuando el estilo de borde no es compatible con los navegadores.
+Si desea importar el archivo html o mht para Excel, mantenga el valor predeterminado.
 El valor predeterminado es falso.
 ###  Definición:
 ```python
@@ -23,5 +23,5 @@ def export_similar_border_style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HtmlSaveOptions](/cells/python-net/es/aspose.cells/htmlsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`HtmlSaveOptions`](/cells/python-net/es/aspose.cells/htmlsaveoptions)

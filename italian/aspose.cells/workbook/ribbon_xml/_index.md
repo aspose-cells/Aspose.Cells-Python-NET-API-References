@@ -3,7 +3,7 @@ title: ribbon_xml proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 630
+weight: 640
 url: /it/aspose.cells/workbook/ribbon_xml/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def ribbon_xml(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

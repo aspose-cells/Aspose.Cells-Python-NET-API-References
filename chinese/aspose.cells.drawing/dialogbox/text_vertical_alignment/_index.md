@@ -1,13 +1,13 @@
 ---
-title: text_vertical_alignment 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_vertical_alignment属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /zh/aspose.cells.drawing/dialogbox/text_vertical_alignment/
 is_root: false
 ---
-## text_vertical_alignment 属性
+## text_vertical_alignment属性
 
 获取和设置形状的文本垂直对齐类型。
 
@@ -31,6 +31,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [DialogBox](/cells/python-net/zh/aspose.cells.drawing/dialogbox)
-* 类 [TextAlignmentType](/cells/python-net/zh/aspose.cells/textalignmenttype)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`DialogBox`](/cells/python-net/zh/aspose.cells.drawing/dialogbox)
+* 类 [`TextAlignmentType`](/cells/python-net/zh/aspose.cells/textalignmenttype)

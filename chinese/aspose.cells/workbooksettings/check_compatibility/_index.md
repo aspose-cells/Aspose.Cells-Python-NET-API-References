@@ -1,15 +1,15 @@
 ---
-title: check_compatibility 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: check_compatibility属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 120
+weight: 90
 url: /zh/aspose.cells/workbooksettings/check_compatibility/
 is_root: false
 ---
-## check_compatibility 属性
+## check_compatibility属性
 
-指示在保存工作簿时是否检查与早期版本的兼容性。
+指示保存工作簿时是否检查与早期版本的兼容性。
 
 ### 评论
 
@@ -26,5 +26,5 @@ def check_compatibility(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)

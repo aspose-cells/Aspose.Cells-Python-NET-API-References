@@ -3,7 +3,7 @@ title: offset fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 130
 url: /sv/aspose.cells.charts/ticklabels/offset/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def offset(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [TickLabels](/cells/python-net/sv/aspose.cells.charts/ticklabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`TickLabels`](/cells/python-net/sv/aspose.cells.charts/ticklabels)

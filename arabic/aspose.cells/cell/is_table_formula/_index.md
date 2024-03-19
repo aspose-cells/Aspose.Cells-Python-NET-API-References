@@ -1,15 +1,15 @@
 ---
-title: is_table_formula الملكية
+title: is_table_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 620
+weight: 650
 url: /ar/aspose.cells/cell/is_table_formula/
 is_root: false
 ---
-##  is_table_formula الملكية
+##  is_table_formula عقار
 
-يشير إلى ما إذا كانت هذه الخلية جزء من صيغة الجدول.
+الإشارة إلى ما إذا كانت هذه الخلية جزءًا من صيغة الجدول.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_table_formula(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

@@ -1,15 +1,15 @@
 ---
-title: window_top_inch الملكية
+title: window_top_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 720
+weight: 600
 url: /ar/aspose.cells/workbooksettings/window_top_inch/
 is_root: false
 ---
-##  window_top_inch الملكية
+##  window_top_inch عقار
 
-المسافة من الحافة العلوية لمنطقة العميل إلى الحافة العلوية للنافذة ، بوحدة البوصة.
+المسافة من الحافة العلوية لمنطقة العميل إلى الحافة العلوية للنافذة، بوحدة البوصة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def window_top_inch(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

@@ -1,9 +1,9 @@
 ---
 title: FileFontSource类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 580
+weight: 610
 url: /zh/aspose.cells/filefontsource/
 is_root: false
 ---
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-**继承：** [FileFontSource](/cells/python-net/aspose.cells/filefontsource) → 
-[FontSourceBase](/cells/python-net/zh/aspose.cells/fontsourcebase)
+**遗产：** [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource) → 
+[`FontSourceBase`](/cells/python-net/zh/aspose.cells/fontsourcebase)
 
 
 
-FileFontSource 类型公开了以下成员：
+FileFontSource 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [FileFontSource(file_path)](/cells/python-net/zh/aspose.cells/filefontsource/__init__/#str) | Ctor。|
+| [__init__](/cells/python-net/zh/aspose.cells/filefontsource/__init__/#str) |科特。|
 
 
 ### 特性
@@ -34,6 +34,6 @@ FileFontSource 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
-* 类 [FileFontSource](/cells/python-net/zh/aspose.cells/filefontsource)
-* 类 [FontSourceBase](/cells/python-net/zh/aspose.cells/fontsourcebase)
+* 模块[`aspose.cells`](..)
+* 类 [`FileFontSource`](/cells/python-net/zh/aspose.cells/filefontsource)
+* 类 [`FontSourceBase`](/cells/python-net/zh/aspose.cells/fontsourcebase)

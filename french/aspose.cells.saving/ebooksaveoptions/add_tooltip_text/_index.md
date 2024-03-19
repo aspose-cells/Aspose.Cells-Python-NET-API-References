@@ -1,0 +1,26 @@
+---
+title: add_tooltip_text propriété
+second_title: Aspose.Cells for Python via .NET API Références
+description:
+type: docs
+weight: 30
+url: /fr/aspose.cells.saving/ebooksaveoptions/add_tooltip_text/
+is_root: false
+---
+##  add_tooltip_text propriété
+
+Indique s'il faut ajouter du texte d'info-bulle lorsque les données ne peuvent pas être entièrement affichées.
+La valeur par défaut est fausse.
+###  Définition:
+```python
+@property
+def add_tooltip_text(self):
+    ...
+@add_tooltip_text.setter
+def add_tooltip_text(self, value):
+    ...
+```
+
+###  Voir également
+* module [`aspose.cells.saving`](../../)
+* classe [`EbookSaveOptions`](/cells/python-net/fr/aspose.cells.saving/ebooksaveoptions)

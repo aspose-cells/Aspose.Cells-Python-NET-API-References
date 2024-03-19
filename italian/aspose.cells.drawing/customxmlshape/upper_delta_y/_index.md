@@ -3,7 +3,7 @@ title: upper_delta_y proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /it/aspose.cells.drawing/customxmlshape/upper_delta_y/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ottiene o imposta l'offset verticale della forma dalla riga dell'angolo superior
 
 ###  Osservazioni
 
-L'intervallo di valori va da 0 a 256.
+L'intervallo di valori è compreso tra 0 e 256.
 
 ###  Esempio
 
@@ -34,5 +34,5 @@ def upper_delta_y(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CustomXmlShape](/cells/python-net/it/aspose.cells.drawing/customxmlshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CustomXmlShape`](/cells/python-net/it/aspose.cells.drawing/customxmlshape)

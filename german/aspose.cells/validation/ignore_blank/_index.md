@@ -3,13 +3,13 @@ title: ignore_blank Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 210
 url: /de/aspose.cells/validation/ignore_blank/
 is_root: false
 ---
 ##  ignore_blank Eigentum
 
-Gibt an, ob bei der Bereichsdatenvalidierung Leerwerte zulässig sind.
+Gibt an, ob leere Werte bei der Bereichsdatenvalidierung zulässig sind.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def ignore_blank(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Validation](/cells/python-net/de/aspose.cells/validation)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Validation`](/cells/python-net/de/aspose.cells/validation)

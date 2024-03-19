@@ -3,13 +3,13 @@ title: update_smart_art propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 280
+weight: 320
 url: /es/aspose.cells/pptxsaveoptions/update_smart_art/
 is_root: false
 ---
 ##  update_smart_art propiedad
 
-Indica si se está actualizando la configuración de arte inteligente.
+Indica si se actualiza la configuración de arte inteligente.
 El valor predeterminado es falso.
 
 ###  Observaciones
@@ -26,5 +26,5 @@ def update_smart_art(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PptxSaveOptions](/cells/python-net/es/aspose.cells/pptxsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PptxSaveOptions`](/cells/python-net/es/aspose.cells/pptxsaveoptions)

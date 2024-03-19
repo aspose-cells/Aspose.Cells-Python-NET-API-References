@@ -1,25 +1,25 @@
 ---
-title: XmlColumnProperty الدرجة
+title: XmlColumnProperty صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1670
+weight: 1740
 url: /ar/aspose.cells/xmlcolumnproperty/
 is_root: false
 ---
-##  XmlColumnProperty الدرجة
+##  XmlColumnProperty صف
 يمثل معلومات ربط بيانات Xml.
 
 
 
-يكشف نوع XmlColumnProperty الأعضاء التالية:
+يكشف النوع XmlColumnProperty عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [XmlColumnProperty()](/cells/python-net/ar/aspose.cells/xmlcolumnproperty/__init__/#) | بناء مثيل جديد لـ XmlColumnProperty|
+| [__init__](/cells/python-net/ar/aspose.cells/xmlcolumnproperty/__init__/#) | إنشاء مثيل جديد لـ XmlColumnProperty|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

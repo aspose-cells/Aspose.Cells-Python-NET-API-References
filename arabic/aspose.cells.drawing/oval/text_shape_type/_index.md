@@ -1,15 +1,15 @@
 ---
-title: text_shape_type الملكية
+title: text_shape_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1000
+weight: 1010
 url: /ar/aspose.cells.drawing/oval/text_shape_type/
 is_root: false
 ---
-##  text_shape_type الملكية
+##  text_shape_type عقار
 
-الحصول على نوع شكل النص المعين مسبقًا وتعيينه.
+الحصول على نوع شكل النص المحدد مسبقًا وتعيينه.
 
 ###  مثال
 
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [AutoShapeType](/cells/python-net/ar/aspose.cells.drawing/autoshapetype)
-* فئة [Oval](/cells/python-net/ar/aspose.cells.drawing/oval)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`AutoShapeType`](/cells/python-net/ar/aspose.cells.drawing/autoshapetype)
+* فئة [`Oval`](/cells/python-net/ar/aspose.cells.drawing/oval)

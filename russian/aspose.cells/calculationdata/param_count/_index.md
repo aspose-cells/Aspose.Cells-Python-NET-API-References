@@ -1,9 +1,9 @@
 ---
 title: param_count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ru/aspose.cells/calculationdata/param_count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def param_count(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CalculationData](/cells/python-net/ru/aspose.cells/calculationdata)
+* модуль [`aspose.cells`](../../)
+* класс [`CalculationData`](/cells/python-net/ru/aspose.cells/calculationdata)

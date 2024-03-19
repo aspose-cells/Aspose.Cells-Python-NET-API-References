@@ -3,7 +3,7 @@ title: export_column_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 80
 url: /sv/aspose.cells/exporttableoptions/export_column_name/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def export_column_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExportTableOptions](/cells/python-net/sv/aspose.cells/exporttableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ExportTableOptions`](/cells/python-net/sv/aspose.cells/exporttableoptions)

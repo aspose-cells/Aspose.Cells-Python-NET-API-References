@@ -1,9 +1,9 @@
 ---
 title: PivotFormatCondition类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 50
+weight: 120
 url: /zh/aspose.cells.pivot/pivotformatcondition/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-PivotFormatCondition 类型公开了以下成员：
+PivotFormatCondition 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -25,13 +25,13 @@ PivotFormatCondition 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [add_data_area_condition(field_name)](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) |在数据字段中添加数据透视表条件格式限制。|
-| [add_data_area_condition(data_field)](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#PivotField) |在数据字段中添加数据透视表条件格式限制。|
-| [add_row_area_condition(field_name)](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) |在行字段中添加数据透视表条件格式限制。|
-| [add_row_area_condition(row_field)](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#PivotField) |在行字段中添加数据透视表条件格式限制。|
-| [add_column_area_condition(field_name)](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) |在列字段中添加数据透视表条件格式限制。|
-| [add_column_area_condition(column_field)](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#PivotField) |在列字段中添加数据透视表条件格式限制。|
-| [set_conditional_areas()](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) |设置 PivotFormatCondition 对象的条件区域。|
+| [add_data_area_condition](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) |在数据字段中添加数据透视表条件格式限制。|
+| [add_data_area_condition](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#aspose.cells.pivot.PivotField) |在数据字段中添加数据透视表条件格式限制。|
+| [add_row_area_condition](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) |在行字段中添加数据透视表条件格式限制。|
+| [add_row_area_condition](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#aspose.cells.pivot.PivotField) |在行字段中添加数据透视表条件格式限制。|
+| [add_column_area_condition](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) |在列字段中添加数据透视表条件格式限制。|
+| [add_column_area_condition](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#aspose.cells.pivot.PivotField) |在列字段中添加数据透视表条件格式限制。|
+| [set_conditional_areas](/cells/python-net/zh/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) |设置 PivotFormatCondition 对象的条件区域。|
 
 
 
@@ -97,4 +97,4 @@ book.save("out.xlsx")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](..)
+* 模块[`aspose.cells.pivot`](..)

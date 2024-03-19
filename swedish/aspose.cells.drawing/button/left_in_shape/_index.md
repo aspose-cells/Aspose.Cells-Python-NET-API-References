@@ -3,7 +3,7 @@ title: left_in_shape fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 680
+weight: 690
 url: /sv/aspose.cells.drawing/button/left_in_shape/
 is_root: false
 ---
@@ -20,8 +20,8 @@ Gäller endast när denna form i gruppen eller diagrammet.
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.left_in_shape == 2000:
+    shape.left_in_shape = 4000
 
 ```
 ###  Definition:
@@ -35,5 +35,5 @@ def left_in_shape(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Button](/cells/python-net/sv/aspose.cells.drawing/button)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Button`](/cells/python-net/sv/aspose.cells.drawing/button)

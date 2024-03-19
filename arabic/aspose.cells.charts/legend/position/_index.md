@@ -1,15 +1,15 @@
 ---
-title: position الملكية
+title: position عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ar/aspose.cells.charts/legend/position/
 is_root: false
 ---
-##  position الملكية
+##  position عقار
 
-الحصول على أو تعيين نوع وسيلة الإيضاح position.
+الحصول على نوع وسيلة الإيضاح position أو تعيينه.
 
 ###  ملاحظات
 
@@ -25,6 +25,6 @@ def position(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
-* فئة [LegendPositionType](/cells/python-net/ar/aspose.cells.charts/legendpositiontype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)
+* فئة [`LegendPositionType`](/cells/python-net/ar/aspose.cells.charts/legendpositiontype)

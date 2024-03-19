@@ -1,22 +1,22 @@
 ---
-title: string_value_without_format 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: string_value_without_format属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 690
+weight: 720
 url: /zh/aspose.cells/cell/string_value_without_format/
 is_root: false
 ---
-## string_value_without_format 属性
+## string_value_without_format属性
 
-获取单元格的值作为不带任何格式的字符串。
+获取不带任何格式的字符串形式的单元格值。
 
 ### 评论
 
 注意：此方法现已过时。反而，
-用户应获取值对象并根据值类型和特定要求对其进行格式化。
-自 2020 年 12 月起，此属性将在 12 个月后移除。
-Aspose 对您可能遇到的任何不便深表歉意。
+用户应获取值对象并根据值类型和具体要求对其进行格式化。
+该房产将于 2020 年 12 月起 12 个月后被移除。
+Aspose 对于给您带来的任何不便，我们深表歉意。
 ### 定义：
 ```python
 @property
@@ -25,5 +25,5 @@ def string_value_without_format(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cell](/cells/python-net/zh/aspose.cells/cell)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cell`](/cells/python-net/zh/aspose.cells/cell)

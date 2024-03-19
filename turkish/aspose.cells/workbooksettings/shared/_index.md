@@ -3,7 +3,7 @@ title: shared mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 560
+weight: 440
 url: /tr/aspose.cells/workbooksettings/shared/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Notlar
 
-Varsayılan değer yanlıştır.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def shared(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

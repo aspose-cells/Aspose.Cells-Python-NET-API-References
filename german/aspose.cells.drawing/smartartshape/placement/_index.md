@@ -3,13 +3,13 @@ title: placement Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 820
+weight: 830
 url: /de/aspose.cells.drawing/smartartshape/placement/
 is_root: false
 ---
 ##  placement Eigentum
 
-Stellt die Art und Weise dar, wie das Zeichnungsobjekt an die darunter liegenden Zellen angehängt ist.
+Stellt die Art und Weise dar, wie das Zeichenobjekt an die darunter liegenden Zellen angehängt wird.
 Die Eigenschaft steuert die placement eines Objekts auf einem Arbeitsblatt.
 
 ###  Beispiel
@@ -32,6 +32,6 @@ def placement(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [PlacementType](/cells/python-net/de/aspose.cells.drawing/placementtype)
-* Klasse [SmartArtShape](/cells/python-net/de/aspose.cells.drawing/smartartshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`PlacementType`](/cells/python-net/de/aspose.cells.drawing/placementtype)
+* Klasse [`SmartArtShape`](/cells/python-net/de/aspose.cells.drawing/smartartshape)

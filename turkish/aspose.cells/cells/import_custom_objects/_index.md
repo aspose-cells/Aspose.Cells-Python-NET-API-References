@@ -3,11 +3,11 @@ title: import_custom_objects yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 640
+weight: 630
 url: /tr/aspose.cells/cells/import_custom_objects/
 is_root: false
 ---
-##  import_custom_objects(list, first_row, first_column, options) {#list-int-int-ImportTableOptions}
+##  import_custom_objects {#list-int-int-aspose.cells.ImportTableOptions}
 Özel nesneleri içe aktarır.
 
 
@@ -24,15 +24,15 @@ def import_custom_objects(self, list, first_row, first_column, options):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| list | list | özel nesne|
+| list | list | Özel nesne|
 | first_row | int | İçe aktarılacak ilk hücrenin satır numarası.|
 | first_column | int | İçe aktarılacak ilk hücrenin sütun numarası.|
-| options | [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions) | İçe aktarma seçenekleri.|
+| options | [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions) | İçe aktarma seçenekleri.|
 ###  Notlar
 
 Özel nesneler aynı türde olmalıdır.
 
-##  import_custom_objects(list, property_names, is_property_name_shown, first_row, first_column, row_number, insert_rows, date_format_string, convert_string_to_number) {#list-list-bool-int-int-int-bool-str-bool}
+##  import_custom_objects {#list-list-bool-int-int-int-bool-str-bool}
 
 Özel nesneleri içe aktarır.
 
@@ -50,15 +50,15 @@ def import_custom_objects(self, list, property_names, is_property_name_shown, fi
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| list | list | özel nesne|
-| property_names | list | Özellik adları.Eğer null ise, nesnenin tüm özelliklerini içe aktaracağız.|
+| list | list | Özel nesne|
+| property_names | list | Özellik adları. Eğer null ise nesnenin tüm özelliklerini içe aktaracağız.|
 | is_property_name_shown | bool | Özellik adının ilk satıra aktarılıp aktarılmayacağını belirtir.|
 | first_row | int | İçe aktarılacak ilk hücrenin satır numarası.|
 | first_column | int | İçe aktarılacak ilk hücrenin sütun numarası.|
 | row_number | int | İçe aktarılacak satır sayısı.|
-| insert_rows | bool | Verileri sığdırmak için fazladan satırların eklenip eklenmediğini gösterir.|
+| insert_rows | bool | Verileri sığdırmak için fazladan satırların eklenip eklenmeyeceğini belirtir.|
 | date_format_string | str | Hücreler için tarih biçimi dizesi.|
-| convert_string_to_number | bool | Bu yöntemin dizeyi sayıya dönüştürmeye çalışıp çalışmayacağını gösterir.|
+| convert_string_to_number | bool | Bu yöntemin dizeyi sayıya dönüştürmeye çalışıp çalışmayacağını belirtir.|
 ###  Notlar
 
 Özel nesneler aynı türde olmalıdır.
@@ -66,5 +66,5 @@ def import_custom_objects(self, list, property_names, is_property_name_shown, fi
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

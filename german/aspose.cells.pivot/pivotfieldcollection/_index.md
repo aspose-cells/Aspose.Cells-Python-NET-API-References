@@ -3,12 +3,12 @@ title: PivotFieldCollection Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 20
+weight: 80
 url: /de/aspose.cells.pivot/pivotfieldcollection/
 is_root: false
 ---
 ##  PivotFieldCollection Klasse
-Stellt eine Auflistung aller PivotField-Objekte dar
+Stellt eine Sammlung aller PivotField-Objekte dar
 im spezifischen PivotFields-Typ der PivotTable.
 
 
@@ -19,12 +19,12 @@ Der Typ PivotFieldCollection macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [type](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/type) | Ruft den PivotFields-Typ ab.|
-| [count](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/count) | Ruft die Anzahl der pivotFields ab.|
+| [count](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/count) | Ruft die Anzahl der PivotFields ab.|
 
 
 
-Ruft das PivotField-Objekt am bestimmten Index ab.
-###  Indexierer
+Ruft das PivotField-Objekt am spezifischen Index ab.
+###  Indexer
 | Name| Beschreibung|
 | :- | :- |
 | [index] |  |
@@ -33,11 +33,12 @@ Ruft das PivotField-Objekt am bestimmten Index ab.
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add_by_base_index(base_field_index)](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Fügt dem spezifischen Typ PivotFields ein PivotField-Objekt hinzu.|
-| [add(pivot_field)](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/add/#PivotField) | Fügt dem spezifischen Typ PivotFields ein PivotField-Objekt hinzu.|
-| [clear()](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/clear/#) | Löschen Sie alle Felder von PivotFieldCollection|
+| [add_by_base_index](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Fügt ein PivotField-Objekt zum spezifischen Typ PivotFields hinzu.|
+| [add](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.PivotField) | Fügt ein PivotField-Objekt zum spezifischen Typ PivotFields hinzu.|
+| [clear](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/clear/#) | Alle Felder der PivotFieldCollection löschen|
+| [move](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Verschiebt das PivotField von der aktuellen Position zur Zielposition|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](..)
+* Modul [`aspose.cells.pivot`](..)

@@ -1,9 +1,9 @@
 ---
 title: DateTimeGroupItem类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 450
+weight: 470
 url: /zh/aspose.cells/datetimegroupitem/
 is_root: false
 ---
@@ -12,12 +12,12 @@ is_root: false
 
 
 
-DateTimeGroupItem 类型公开了以下成员：
+DateTimeGroupItem 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [DateTimeGroupItem(type, year, month, day, hour, minute, second)](/cells/python-net/zh/aspose.cells/datetimegroupitem/__init__/#DateTimeGroupingType-int-int-int-int-int-int) |  |
+| [__init__](/cells/python-net/zh/aspose.cells/datetimegroupitem/__init__/#aspose.cells.DateTimeGroupingType-int-int-int-int-int-int) |  |
 
 
 ### 特性
@@ -35,4 +35,4 @@ DateTimeGroupItem 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

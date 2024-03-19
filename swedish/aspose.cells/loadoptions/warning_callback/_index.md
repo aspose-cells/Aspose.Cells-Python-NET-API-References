@@ -3,7 +3,7 @@ title: warning_callback fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 260
 url: /sv/aspose.cells/loadoptions/warning_callback/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def warning_callback(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [IWarningCallback](/cells/python-net/sv/aspose.cells/iwarningcallback)
-* klass [LoadOptions](/cells/python-net/sv/aspose.cells/loadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`IWarningCallback`](/cells/python-net/sv/aspose.cells/iwarningcallback)
+* klass [`LoadOptions`](/cells/python-net/sv/aspose.cells/loadoptions)

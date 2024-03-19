@@ -1,9 +1,9 @@
 ---
 title: upper_left_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /ru/aspose.cells.drawing/dialogbox/upper_left_row/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Если фигура находится в форме или в группе, UpperLeftRow будет игнорироваться.
+Если фигура находится в фигуре или в группе, UpperLeftRow будет игнорироваться.
 
 ###  Пример
 
@@ -34,5 +34,5 @@ def upper_left_row(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [DialogBox](/cells/python-net/ru/aspose.cells.drawing/dialogbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`DialogBox`](/cells/python-net/ru/aspose.cells.drawing/dialogbox)

@@ -1,5 +1,5 @@
 ---
-title: metodo delete_column
+title: Metodo delete_column
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 220
 url: /it/aspose.cells/cells/delete_column/
 is_root: false
 ---
-##  delete_column(column_index) {#int}
+##  delete_column {#int}
 Elimina una colonna.
 
 
@@ -20,10 +20,10 @@ def delete_column(self, column_index):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| column_index | int | Indice di colonna.|
+| column_index | int | Indice della colonna da eliminare.|
 
 
-##  delete_column(column_index, update_reference) {#int-bool}
+##  delete_column {#int-bool}
 Elimina una colonna.
 
 
@@ -36,11 +36,11 @@ def delete_column(self, column_index, update_reference):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| column_index | int | Indice di colonna.|
+| column_index | int | Indice della colonna da eliminare.|
 | update_reference | bool | Indica se aggiornare i riferimenti in altri fogli di lavoro.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

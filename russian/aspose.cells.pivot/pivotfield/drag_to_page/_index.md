@@ -1,15 +1,15 @@
 ---
 title: drag_to_page недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 280
+weight: 310
 url: /ru/aspose.cells.pivot/pivotfield/drag_to_page/
 is_root: false
 ---
 ##  drag_to_page недвижимость
 
-Указывает, можно ли перетаскивать указанное поле на позицию страницы.
+Указывает, можно ли перетащить указанное поле на место страницы.
 Значение по умолчанию верно.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def drag_to_page(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotField](/cells/python-net/ru/aspose.cells.pivot/pivotfield)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotField`](/cells/python-net/ru/aspose.cells.pivot/pivotfield)

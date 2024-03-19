@@ -3,13 +3,13 @@ title: text_vertical_overflow mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /tr/aspose.cells.drawing/listbox/text_vertical_overflow/
 is_root: false
 ---
 ##  text_vertical_overflow mülk
 
-Metin içeren şeklin metin dikey taşma türünü alır ve ayarlar.
+Metni içeren şeklin metin dikey taşma türünü alır ve ayarlar.
 
 ###  Örnek
 
@@ -31,6 +31,6 @@ def text_vertical_overflow(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ListBox](/cells/python-net/tr/aspose.cells.drawing/listbox)
-* sınıf [TextOverflowType](/cells/python-net/tr/aspose.cells.drawing/textoverflowtype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ListBox`](/cells/python-net/tr/aspose.cells.drawing/listbox)
+* sınıf [`TextOverflowType`](/cells/python-net/tr/aspose.cells.drawing/textoverflowtype)

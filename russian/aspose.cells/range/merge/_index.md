@@ -1,13 +1,13 @@
 ---
 title: merge метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 130
+weight: 150
 url: /ru/aspose.cells/range/merge/
 is_root: false
 ---
-##  merge() {#}
+##  merge {#}
 Объединяет диапазон ячеек в одну ячейку.
 
 
@@ -20,10 +20,10 @@ def merge(self):
 
 ###  Примечания
 
-Ссылка на объединенную ячейку через адрес верхней левой ячейки в диапазоне.
+Ссылайтесь на объединенную ячейку по адресу верхней левой ячейки диапазона.
 
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](../../)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

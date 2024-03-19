@@ -3,13 +3,13 @@ title: disable_downlevel_revealed_comments mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 130
 url: /tr/aspose.cells/htmlsaveoptions/disable_downlevel_revealed_comments/
 is_root: false
 ---
 ##  disable_downlevel_revealed_comments mülk
 
-Dosyayı html'ye dışa aktarırken Alt Düzeyde ortaya çıkan koşullu yorumları devre dışı bırakıp bırakmadığınızı belirtir, varsayılan değer yanlıştır.
+Dosyayı html'ye aktarırken Alt Düzey tarafından açıklanan koşullu yorumların devre dışı bırakılıp bırakılmayacağını belirtir; varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def disable_downlevel_revealed_comments(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlSaveOptions](/cells/python-net/tr/aspose.cells/htmlsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlSaveOptions`](/cells/python-net/tr/aspose.cells/htmlsaveoptions)

@@ -1,19 +1,19 @@
 ---
-title: absolute_path الملكية
+title: absolute_path عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 430
+weight: 440
 url: /ar/aspose.cells/workbook/absolute_path/
 is_root: false
 ---
-##  absolute_path الملكية
+##  absolute_path عقار
 
-الحصول على المسار المطلق للملف وتعيينه.
+يحصل ويحدد المسار المطلق للملف.
 
 ###  ملاحظات
 
-تستخدم فقط للروابط الخارجية.
+يستخدم فقط للروابط الخارجية.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def absolute_path(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

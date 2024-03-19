@@ -3,17 +3,17 @@ title: is_word_art proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 660
+weight: 670
 url: /it/aspose.cells.drawing/commentshape/is_word_art/
 is_root: false
 ---
 ##  is_word_art proprietà
 
-Indica se questa forma è una word art.
+Indica se questa forma è una parola d'arte.
 
 ###  Osservazioni
 
-Solo per la forma legacy del file xls.
+Solo per il file Legacy Shape xls.
 
 ###  Esempio
 
@@ -31,5 +31,5 @@ def is_word_art(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CommentShape](/cells/python-net/it/aspose.cells.drawing/commentshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CommentShape`](/cells/python-net/it/aspose.cells.drawing/commentshape)

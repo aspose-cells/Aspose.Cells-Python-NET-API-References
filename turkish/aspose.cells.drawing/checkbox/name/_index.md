@@ -3,13 +3,13 @@ title: name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 820
+weight: 830
 url: /tr/aspose.cells.drawing/checkbox/name/
 is_root: false
 ---
 ##  name mülk
 
-Şeklin name değerini alır ve ayarlar.
+Şeklin name'ini alır ve ayarlar.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CheckBox](/cells/python-net/tr/aspose.cells.drawing/checkbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CheckBox`](/cells/python-net/tr/aspose.cells.drawing/checkbox)

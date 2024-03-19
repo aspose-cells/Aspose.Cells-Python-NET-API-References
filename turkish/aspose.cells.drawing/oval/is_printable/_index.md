@@ -3,13 +3,13 @@ title: is_printable mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 610
+weight: 620
 url: /tr/aspose.cells.drawing/oval/is_printable/
 is_root: false
 ---
 ##  is_printable mülk
 
-Nesne yazdırılabilir ise doğrudur
+Nesne yazdırılabilirse doğrudur
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Oval](/cells/python-net/tr/aspose.cells.drawing/oval)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Oval`](/cells/python-net/tr/aspose.cells.drawing/oval)

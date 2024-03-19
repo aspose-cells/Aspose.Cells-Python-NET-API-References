@@ -1,15 +1,15 @@
 ---
-title: is_bi_level الملكية
+title: is_bi_level عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells.drawing/msoformatpicture/is_bi_level/
 is_root: false
 ---
-##  is_bi_level الملكية
+##  is_bi_level عقار
 
-يشير إلى ما إذا كان يجب عرض هذه الصورة بلونين أبيض وأسود.
+يشير إلى ما إذا كان ينبغي عرض هذه الصورة باللونين الأسود والأبيض.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_bi_level(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoFormatPicture](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoFormatPicture`](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)

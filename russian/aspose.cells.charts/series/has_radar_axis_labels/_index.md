@@ -1,15 +1,15 @@
 ---
 title: has_radar_axis_labels недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 230
+weight: 220
 url: /ru/aspose.cells.charts/series/has_radar_axis_labels/
 is_root: false
 ---
 ##  has_radar_axis_labels недвижимость
 
-Значение true, если лепестковая диаграмма имеет метки оси категорий. Применяется только к радиолокационным картам.
+Истинно, если на лепестковой диаграмме есть метки осей категорий. Применяется только к радиолокационным картам.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_radar_axis_labels(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

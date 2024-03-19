@@ -1,0 +1,26 @@
+---
+title: pivot_settings mülk
+second_title: Aspose.Cells for Python via .NET API Referanslar
+description:
+type: docs
+weight: 500
+url: /tr/aspose.cells/settableglobalizationsettings/pivot_settings/
+is_root: false
+---
+##  pivot_settings mülk
+
+Pivot tablo için genelleştirme ayarlarını alır veya ayarlar.
+###  Tanım:
+```python
+@property
+def pivot_settings(self):
+    ...
+@pivot_settings.setter
+def pivot_settings(self, value):
+    ...
+```
+
+###  Ayrıca bakınız
+* modül [`aspose.cells`](../../)
+* sınıf [`PivotGlobalizationSettings`](/cells/python-net/tr/aspose.cells.settings/pivotglobalizationsettings)
+* sınıf [`SettableGlobalizationSettings`](/cells/python-net/tr/aspose.cells/settableglobalizationsettings)

@@ -3,13 +3,13 @@ title: shared propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 560
+weight: 440
 url: /es/aspose.cells/workbooksettings/shared/
 is_root: false
 ---
 ##  shared propiedad
 
-Obtiene o establece un valor que indica si Workbook es shared.
+Obtiene o establece un valor que indica si el libro de trabajo es shared.
 
 ###  Observaciones
 
@@ -25,5 +25,5 @@ def shared(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WorkbookSettings](/cells/python-net/es/aspose.cells/workbooksettings)
+* módulo [`aspose.cells`](../../)
+* clase [`WorkbookSettings`](/cells/python-net/es/aspose.cells/workbooksettings)

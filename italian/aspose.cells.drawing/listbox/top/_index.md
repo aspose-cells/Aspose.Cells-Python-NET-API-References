@@ -3,17 +3,17 @@ title: top proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /it/aspose.cells.drawing/listbox/top/
 is_root: false
 ---
 ##  top proprietà
 
-Rappresenta l'offset verticale della forma dalla relativa riga top, in unità di pixel.
+Rappresenta l'offset verticale della forma dalla riga top, in unità di pixel.
 
 ###  Osservazioni
 
-Se la forma è nel grafico, rappresenta l'offset verticale della forma dal suo bordo top.
+Se la forma è nel grafico, rappresenta l'offset verticale della forma dal bordo top.
 
 ###  Esempio
 
@@ -34,5 +34,5 @@ def top(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ListBox](/cells/python-net/it/aspose.cells.drawing/listbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ListBox`](/cells/python-net/it/aspose.cells.drawing/listbox)

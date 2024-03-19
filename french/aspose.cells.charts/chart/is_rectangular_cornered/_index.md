@@ -3,14 +3,14 @@ title: is_rectangular_cornered propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 320
+weight: 350
 url: /fr/aspose.cells.charts/chart/is_rectangular_cornered/
 is_root: false
 ---
 ##  is_rectangular_cornered propriété
 
-Obtient ou définit une valeur indiquant si la zone de graphique est rectangulaire.
-La valeur par défaut est true.
+Obtient ou définit une valeur indiquant si la zone du graphique est rectangulaire.
+La valeur par défaut est vraie.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_rectangular_cornered(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)

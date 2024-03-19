@@ -3,7 +3,7 @@ title: names proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 310
+weight: 320
 url: /it/aspose.cells/worksheetcollection/names/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def names(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [NameCollection](/cells/python-net/it/aspose.cells/namecollection)
-* classe [WorksheetCollection](/cells/python-net/it/aspose.cells/worksheetcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`NameCollection`](/cells/python-net/it/aspose.cells/namecollection)
+* classe [`WorksheetCollection`](/cells/python-net/it/aspose.cells/worksheetcollection)

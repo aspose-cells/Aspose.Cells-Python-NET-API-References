@@ -1,9 +1,9 @@
 ---
 title: PivotTableCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 110
+weight: 190
 url: /ru/aspose.cells.pivot/pivottablecollection/
 is_root: false
 ---
@@ -12,34 +12,34 @@ is_root: false
 
 
 
-Тип PivotTableCollection предоставляет следующие члены:
+Тип PivotTableCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [capacity](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/capacity) | Получает или задает количество элементов, которые может содержать список массивов.|
+| [capacity](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/capacity) | Получает или задает количество элементов, которые может содержать список массива.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add(source_data, dest_cell_name, table_name)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Добавляет новый кэш сводной таблицы в коллекцию сводных кешей.|
-| [add(source_data, dest_cell_name, table_name, use_same_source)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Добавляет новый кэш сводной таблицы в коллекцию сводных кешей.|
-| [add(source_data, row, column, table_name)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Добавляет новый кэш сводной таблицы в коллекцию сводных кешей.|
-| [add(source_data, row, column, table_name, use_same_source)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Добавляет новый кэш сводной таблицы в коллекцию сводных кешей.|
-| [add(pivot_table, dest_cell_name, table_name)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#PivotTable-str-str) | Добавляет новый объект сводной таблицы в коллекцию из другой сводной таблицы.|
-| [add(pivot_table, row, column, table_name)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#PivotTable-int-int-str) | Добавляет новый объект сводной таблицы в коллекцию из другой сводной таблицы.|
-| [add(source_data, is_auto_page, page_fields, dest_cell_name, table_name)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#list-bool-PivotPageFields-str-str) | Добавляет новый объект сводной таблицы в коллекцию с несколькими диапазонами консолидации в качестве источника данных.|
-| [add(source_data, is_auto_page, page_fields, row, column, table_name)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#list-bool-PivotPageFields-int-int-str) | Добавляет новый объект сводной таблицы в коллекцию с несколькими диапазонами консолидации в качестве источника данных.|
-| [copy_to(array)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала целевого списка массивов.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) |Копирует диапазон элементов из списка массивов в совместимый список одномерных массивов, начиная с указанного индекса целевого списка массивов.|
-| [index_of(item, index)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/index_of/#PivotTable-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который простирается от указанного индекса до последнего элемента.|
-| [index_of(item, index, count)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/index_of/#PivotTable-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
-| [last_index_of(item)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массивов.|
-| [last_index_of(item, index)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который простирается от первого элемента до указанного индекса.|
-| [last_index_of(item, index, count)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который содержит указанное количество элементов и заканчивается указанным индексом.|
-| [remove_at(index, keep_data)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Удаляет сводную таблицу по указанному индексу.|
-| [binary_search(item)](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/binary_search/#PivotTable) | Ищет элемент во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает отсчитываемый от нуля индекс элемента.|
+| [add](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Добавляет новый кэш сводной таблицы в коллекцию PivotCaches.|
+| [add](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Добавляет новый кэш сводной таблицы в коллекцию PivotCaches.|
+| [add](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Добавляет новый кэш сводной таблицы в коллекцию PivotCaches.|
+| [add](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Добавляет новый кэш сводной таблицы в коллекцию PivotCaches.|
+| [add](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-str-str) | Добавляет новый объект сводной таблицы в коллекцию из другой сводной таблицы.|
+| [add](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Добавляет новый объект сводной таблицы в коллекцию из другой сводной таблицы.|
+| [add](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-str-str) |Добавляет в коллекцию новый объект сводной таблицы с несколькими диапазонами консолидации в качестве источника данных.|
+| [add](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-int-int-str) |Добавляет в коллекцию новый объект сводной таблицы с несколькими диапазонами консолидации в качестве источника данных.|
+| [copy_to](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала списка целевых массивов.|
+| [copy_to](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) | Копирует диапазон элементов из списка массива в совместимый список одномерных массивов, начиная с указанного индекса списка целевого массива.|
+| [index_of](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массива, простирающемся от указанного индекса до последнего элемента.|
+| [index_of](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
+| [last_index_of](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable) | Ищет указанный объект и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массива.|
+| [last_index_of](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, простирающемся от первого элемента до указанного индекса.|
+| [last_index_of](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, который содержит указанное количество элементов и заканчивается указанным индексом.|
+| [remove_at](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Удаляет сводную таблицу по указанному индексу.|
+| [binary_search](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.PivotTable) | Выполняет поиск элемента во всем списке отсортированного массива, используя компаратор по умолчанию, и возвращает индекс элемента, отсчитываемый от нуля.|
 
 
 
@@ -112,4 +112,4 @@ book.save("out.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](..)
+* модуль [`aspose.cells.pivot`](..)

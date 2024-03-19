@@ -3,7 +3,7 @@ title: text_orientation_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /tr/aspose.cells.drawing/scrollbar/text_orientation_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_orientation_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ScrollBar](/cells/python-net/tr/aspose.cells.drawing/scrollbar)
-* sınıf [TextOrientationType](/cells/python-net/tr/aspose.cells/textorientationtype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ScrollBar`](/cells/python-net/tr/aspose.cells.drawing/scrollbar)
+* sınıf [`TextOrientationType`](/cells/python-net/tr/aspose.cells/textorientationtype)

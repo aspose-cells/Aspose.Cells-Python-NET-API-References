@@ -3,13 +3,13 @@ title: height propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 440
+weight: 450
 url: /es/aspose.cells.drawing/groupshape/height/
 is_root: false
 ---
 ##  height propiedad
 
-Representa el height de forma, en unidad de píxel.
+Representa el height de forma, en unidades de píxel.
 
 ###  Ejemplo
 
@@ -30,5 +30,5 @@ def height(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)

@@ -1,27 +1,27 @@
 ---
-title: HeaderFooterCommand الدرجة
+title: HeaderFooterCommand صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 740
+weight: 770
 url: /ar/aspose.cells/headerfootercommand/
 is_root: false
 ---
-##  HeaderFooterCommand الدرجة
-يمثل أمر الرأس / التذييل
+##  HeaderFooterCommand صف
+يمثل أمر الرأس/التذييل
 
 
 
-يكشف نوع HeaderFooterCommand الأعضاء التالية:
+يكشف النوع HeaderFooterCommand عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells/headerfootercommand/type) | الحصول على نوع أمر الرأس / التذييل.|
+| [type](/cells/python-net/ar/aspose.cells/headerfootercommand/type) | يحصل على نوع أمر الرأس/التذييل.|
 | [font](/cells/python-net/ar/aspose.cells/headerfootercommand/font) | يحصل على خط قيمة الأمر.|
 | [text](/cells/python-net/ar/aspose.cells/headerfootercommand/text) | يحصل على نص الأمر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

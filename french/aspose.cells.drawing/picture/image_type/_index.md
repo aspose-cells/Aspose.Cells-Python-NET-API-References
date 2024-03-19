@@ -3,7 +3,7 @@ title: image_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 580
+weight: 590
 url: /fr/aspose.cells.drawing/picture/image_type/
 is_root: false
 ---
@@ -42,6 +42,6 @@ def image_type(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ImageType](/cells/python-net/fr/aspose.cells.drawing/imagetype)
-* classe [Picture](/cells/python-net/fr/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ImageType`](/cells/python-net/fr/aspose.cells.drawing/imagetype)
+* classe [`Picture`](/cells/python-net/fr/aspose.cells.drawing/picture)

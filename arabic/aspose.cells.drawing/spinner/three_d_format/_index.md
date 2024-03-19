@@ -1,15 +1,15 @@
 ---
-title: three_d_format الملكية
+title: three_d_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /ar/aspose.cells.drawing/spinner/three_d_format/
 is_root: false
 ---
-##  three_d_format الملكية
+##  three_d_format عقار
 
-الحصول على تنسيق ثلاثي الأبعاد للشكل وتعيينه.
+الحصول على التنسيق الثلاثي الأبعاد للشكل وتعيينه.
 
 ###  مثال
 
@@ -26,6 +26,6 @@ def three_d_format(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Spinner](/cells/python-net/ar/aspose.cells.drawing/spinner)
-* فئة [ThreeDFormat](/cells/python-net/ar/aspose.cells.drawing/threedformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Spinner`](/cells/python-net/ar/aspose.cells.drawing/spinner)
+* فئة [`ThreeDFormat`](/cells/python-net/ar/aspose.cells.drawing/threedformat)

@@ -1,20 +1,20 @@
 ---
-title: region 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: region属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 250
 url: /zh/aspose.cells/jsonloadoptions/region/
 is_root: false
 ---
-## region 属性
+## region属性
 
-获取或设置加载文件时基于 CountryCode 的系统区域设置。
+根据加载文件时的 CountryCode 获取或设置系统区域设置。
 
 ### 评论
 
-如果不想使用保存在文件中的region，
-请阅读文件后重新设置。
+如果您不想使用文件中保存的region，
+请在阅读文件后重置它。
 ### 定义：
 ```python
 @property
@@ -26,6 +26,6 @@ def region(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CountryCode](/cells/python-net/zh/aspose.cells/countrycode)
-* 类 [JsonLoadOptions](/cells/python-net/zh/aspose.cells/jsonloadoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`CountryCode`](/cells/python-net/zh/aspose.cells/countrycode)
+* 类 [`JsonLoadOptions`](/cells/python-net/zh/aspose.cells/jsonloadoptions)

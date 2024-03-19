@@ -1,25 +1,25 @@
 ---
-title: ExportObjectEvent الدرجة
+title: ExportObjectEvent صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 540
+weight: 570
 url: /ar/aspose.cells/exportobjectevent/
 is_root: false
 ---
-##  ExportObjectEvent الدرجة
-يتم تشغيل الحدث عند تصدير كائن ، مثل صورة.
+##  ExportObjectEvent صف
+الحدث الذي تم تشغيله عند تصدير كائن، مثل صورة.
 
 
 
-يكشف نوع ExportObjectEvent الأعضاء التالية:
+يكشف النوع ExportObjectEvent عن الأعضاء التاليين:
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_source()](/cells/python-net/ar/aspose.cells/exportobjectevent/get_source/#) | يحصل على الكائن المراد تصديره.|
+| [get_source](/cells/python-net/ar/aspose.cells/exportobjectevent/get_source/#) | الحصول على الكائن المراد تصديره.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

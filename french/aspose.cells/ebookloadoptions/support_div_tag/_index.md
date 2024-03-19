@@ -1,0 +1,26 @@
+---
+title: support_div_tag propriété
+second_title: Aspose.Cells for Python via .NET API Références
+description:
+type: docs
+weight: 390
+url: /fr/aspose.cells/ebookloadoptions/support_div_tag/
+is_root: false
+---
+##  support_div_tag propriété
+
+Indique si la mise en page de la balise `<div>` est prise en charge lorsque le fichier HTML la contient.
+La valeur par défaut est fausse.
+###  Définition:
+```python
+@property
+def support_div_tag(self):
+    ...
+@support_div_tag.setter
+def support_div_tag(self, value):
+    ...
+```
+
+###  Voir également
+* module [`aspose.cells`](../../)
+* classe [`EbookLoadOptions`](/cells/python-net/fr/aspose.cells/ebookloadoptions)

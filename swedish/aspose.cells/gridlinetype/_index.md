@@ -3,7 +3,7 @@ title: GridlineType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2120
+weight: 2190
 url: /sv/aspose.cells/gridlinetype/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Typen GridlineType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

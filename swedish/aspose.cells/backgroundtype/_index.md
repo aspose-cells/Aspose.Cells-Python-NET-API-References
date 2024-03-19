@@ -3,7 +3,7 @@ title: BackgroundType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1780
+weight: 1850
 url: /sv/aspose.cells/backgroundtype/
 is_root: false
 ---
@@ -19,13 +19,13 @@ Typen BackgroundType avslöjar följande medlemmar:
 | :- | :- |
 | DIAGONAL_CROSSHATCH | Representerar diagonalt rutmönster.|
 | DIAGONAL_STRIPE | Representerar diagonalt randmönster.|
-| GRAY6 |Representerar 6,25 % grått mönster|
+| GRAY6 | Representerar 6,25 % grått mönster|
 | GRAY12 | Representerar 12,5 % grått mönster|
 | GRAY25 | Representerar 25 % grått mönster.|
 | GRAY50 | Representerar 50 % grått mönster.|
 | GRAY75 | Representerar 75 % grått mönster.|
 | HORIZONTAL_STRIPE | Representerar horisontellt randmönster.|
-| NONE | Representerar ingen bakgrund.|
+| NONE |Representerar ingen bakgrund.|
 | REVERSE_DIAGONAL_STRIPE | Representerar omvänt diagonalt randmönster.|
 | SOLID | Representerar ett fast mönster.|
 | THICK_DIAGONAL_CROSSHATCH | Representerar ett tjockt diagonalt kryssmönster.|
@@ -35,9 +35,9 @@ Typen BackgroundType avslöjar följande medlemmar:
 | THIN_HORIZONTAL_STRIPE | Representerar ett tunt horisontellt randmönster.|
 | THIN_REVERSE_DIAGONAL_STRIPE | Representerar ett tunt omvänt diagonalt randmönster.|
 | THIN_VERTICAL_STRIPE | Representerar ett tunt vertikalt randmönster.|
-| VERTICAL_STRIPE | Representerar vertikala randmönster.|
+| VERTICAL_STRIPE | Representerar vertikalt randmönster.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

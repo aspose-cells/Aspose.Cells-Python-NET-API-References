@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bullet_value fastighet
 
-Får kulvärde
+Får värdet av kula.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def bullet_value(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [Bullet](/cells/python-net/sv/aspose.cells.drawing.texts/bullet)
-* klass [BulletValue](/cells/python-net/sv/aspose.cells.drawing.texts/bulletvalue)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`Bullet`](/cells/python-net/sv/aspose.cells.drawing.texts/bullet)
+* klass [`BulletValue`](/cells/python-net/sv/aspose.cells.drawing.texts/bulletvalue)

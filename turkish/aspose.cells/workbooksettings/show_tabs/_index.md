@@ -3,7 +3,7 @@ title: show_tabs mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 580
+weight: 460
 url: /tr/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Varsayılan değer doğrudur.
 
 ###  Örnek
 
-Aşağıdaki kod, elektronik tablo için Sayfa Sekmelerini ve Sekme Kaydırma Düğmelerini gizler.
+Aşağıdaki kod, elektronik tabloya ilişkin Sayfa Sekmelerini ve Sekme Kaydırma Düğmelerini gizler.
 
 ```python
 
@@ -36,5 +36,5 @@ def show_tabs(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

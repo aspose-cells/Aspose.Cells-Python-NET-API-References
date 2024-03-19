@@ -1,9 +1,9 @@
 ---
 title: is_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 550
+weight: 580
 url: /ru/aspose.cells/cell/is_formula/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_formula(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

@@ -3,13 +3,13 @@ title: sheet_set proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 240
+weight: 250
 url: /it/aspose.cells/paginatedsaveoptions/sheet_set/
 is_root: false
 ---
 ##  sheet_set proprietà
 
-Ottiene o imposta i fogli di cui eseguire il rendering. L'impostazione predefinita è tutti i fogli visibili nella cartella di lavoro: [SheetSet.visible](/cells/python-net/it/aspose.cells.rendering/sheetset#visible).
+Ottiene o imposta i fogli di cui eseguire il rendering. Per impostazione predefinita sono tutti i fogli visibili nella cartella di lavoro: [`SheetSet.visible`](/cells/python-net/it/aspose.cells.rendering/sheetset#visible).
 
 ###  Esempio
 
@@ -38,6 +38,6 @@ def sheet_set(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PaginatedSaveOptions](/cells/python-net/it/aspose.cells/paginatedsaveoptions)
-* classe [SheetSet](/cells/python-net/it/aspose.cells.rendering/sheetset)
+* modulo [`aspose.cells`](../../)
+* classe [`PaginatedSaveOptions`](/cells/python-net/it/aspose.cells/paginatedsaveoptions)
+* classe [`SheetSet`](/cells/python-net/it/aspose.cells.rendering/sheetset)

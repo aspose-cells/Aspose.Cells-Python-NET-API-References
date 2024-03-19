@@ -3,7 +3,7 @@ title: spt Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 900
+weight: 910
 url: /de/aspose.cells.drawing/rectangleshape/spt/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def spt(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RectangleShape](/cells/python-net/de/aspose.cells.drawing/rectangleshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RectangleShape`](/cells/python-net/de/aspose.cells.drawing/rectangleshape)

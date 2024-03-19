@@ -1,18 +1,18 @@
 ---
-title: RowCollection الدرجة
+title: RowCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1310
+weight: 1350
 url: /ar/aspose.cells/rowcollection/
 is_root: false
 ---
-##  RowCollection الدرجة
-لتجميع [Row](/cells/python-net/ar/aspose.cells/row) كائنات تمثل الصفوف الفردية بورقة العمل.
+##  RowCollection صف
+يجمع الكائنات [`Row`](/cells/python-net/ar/aspose.cells/row) التي تمثل الصفوف الفردية في ورقة العمل.
 
 
 
-يكشف نوع RowCollection الأعضاء التالية:
+يكشف النوع RowCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
@@ -21,7 +21,7 @@ is_root: false
 
 
 
-يحصل على عنصر [Row](/cells/python-net/ar/aspose.cells/row) من خلال فهرس الصف المحدد. سيتم إنشاء كائن الصف لفهرس الصف المحدد إذا لم يكن موجودًا من قبل.
+يحصل على كائن [`Row`](/cells/python-net/ar/aspose.cells/row) حسب فهرس الصف المحدد. سيتم إنشاء كائن الصف الخاص بفهرس الصف المحدد إذا لم يكن موجودًا من قبل.
 ###  مفهرس
 | اسم| وصف|
 | :- | :- |
@@ -31,9 +31,10 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_row_by_index(index)](/cells/python-net/ar/aspose.cells/rowcollection/get_row_by_index/#int) | الحصول على كائن الصف حسب الموضع في القائمة.|
-| [clear()](/cells/python-net/ar/aspose.cells/rowcollection/clear/#) | امسح كل الصفوف والخلايا.|
-| [remove_at(index)](/cells/python-net/ar/aspose.cells/rowcollection/remove_at/#int) | قم بإزالة الصف في الفهرس المحدد|
+| [get_enumerator](/cells/python-net/ar/aspose.cells/rowcollection/get_enumerator/#bool-bool) | الحصول على عداد يقوم بتكرار الصفوف خلال هذه المجموعة|
+| [get_row_by_index](/cells/python-net/ar/aspose.cells/rowcollection/get_row_by_index/#int) | الحصول على كائن الصف حسب الموضع في القائمة.|
+| [clear](/cells/python-net/ar/aspose.cells/rowcollection/clear/#) | مسح كافة الصفوف والخلايا.|
+| [remove_at](/cells/python-net/ar/aspose.cells/rowcollection/remove_at/#int) | قم بإزالة عنصر الصف في الفهرس (الموضع) المحدد في هذه المجموعة.|
 
 
 
@@ -52,5 +53,5 @@ row = worksheet.cells.rows[0]
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
-* فئة [Row](/cells/python-net/ar/aspose.cells/row)
+* الوحدة [`aspose.cells`](..)
+* فئة [`Row`](/cells/python-net/ar/aspose.cells/row)

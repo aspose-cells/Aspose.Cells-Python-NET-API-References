@@ -1,13 +1,13 @@
 ---
-title: row_count الملكية
+title: row_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 390
 url: /ar/aspose.cells/range/row_count/
 is_root: false
 ---
-##  row_count الملكية
+##  row_count عقار
 
 الحصول على عدد الصفوف في النطاق.
 ###  تعريف:
@@ -18,5 +18,5 @@ def row_count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

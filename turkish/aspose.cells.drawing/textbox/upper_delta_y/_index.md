@@ -3,17 +3,17 @@ title: upper_delta_y mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1120
+weight: 1140
 url: /tr/aspose.cells.drawing/textbox/upper_delta_y/
 is_root: false
 ---
 ##  upper_delta_y mülk
 
-Şeklin sol üst köşe satırından dikey uzaklığını alır veya ayarlar.
+Şeklin dikey uzaklığını sol üst köşe satırından alır veya ayarlar.
 
 ###  Notlar
 
-Değer aralığı 0 ila 256'dır.
+Değer aralığı 0 ile 256 arasındadır.
 
 ###  Örnek
 
@@ -34,5 +34,5 @@ def upper_delta_y(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextBox](/cells/python-net/tr/aspose.cells.drawing/textbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextBox`](/cells/python-net/tr/aspose.cells.drawing/textbox)

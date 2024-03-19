@@ -1,18 +1,18 @@
 ---
-title: العد TrendlineType
+title: TrendlineType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 670
+weight: 680
 url: /ar/aspose.cells.charts/trendlinetype/
 is_root: false
 ---
-##  العد TrendlineType
+##  TrendlineType التعداد
 يمثل نوع خط الاتجاه.
 
 
 
-يكشف نوع TrendlineType الأعضاء التالية:
+يكشف النوع TrendlineType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -20,11 +20,11 @@ is_root: false
 | EXPONENTIAL | متسارع|
 | LINEAR | خطي|
 | LOGARITHMIC | لوغاريتمي|
-| MOVING_AVERAGE | متوسط الحركة|
+| MOVING_AVERAGE | المتوسط المتحرك|
 | POLYNOMIAL | متعدد الحدود|
 | POWER | قوة|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

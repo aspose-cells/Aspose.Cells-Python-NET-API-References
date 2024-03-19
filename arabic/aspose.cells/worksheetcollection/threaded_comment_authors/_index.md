@@ -1,15 +1,15 @@
 ---
-title: threaded_comment_authors الملكية
+title: threaded_comment_authors عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 360
 url: /ar/aspose.cells/worksheetcollection/threaded_comment_authors/
 is_root: false
 ---
-##  threaded_comment_authors الملكية
+##  threaded_comment_authors عقار
 
-يحصل على قائمة مؤلفي التعليقات المترابطة.
+الحصول على قائمة مؤلفي التعليقات المترابطة.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def threaded_comment_authors(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ThreadedCommentAuthorCollection](/cells/python-net/ar/aspose.cells/threadedcommentauthorcollection)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ThreadedCommentAuthorCollection`](/cells/python-net/ar/aspose.cells/threadedcommentauthorcollection)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

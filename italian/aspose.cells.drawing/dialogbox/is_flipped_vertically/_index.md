@@ -3,7 +3,7 @@ title: is_flipped_vertically proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 550
+weight: 560
 url: /it/aspose.cells.drawing/dialogbox/is_flipped_vertically/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_flipped_vertically(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [DialogBox](/cells/python-net/it/aspose.cells.drawing/dialogbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`DialogBox`](/cells/python-net/it/aspose.cells.drawing/dialogbox)

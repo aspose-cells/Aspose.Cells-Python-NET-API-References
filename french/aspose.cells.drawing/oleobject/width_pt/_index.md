@@ -3,7 +3,7 @@ title: width_pt propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1370
+weight: 1380
 url: /fr/aspose.cells.drawing/oleobject/width_pt/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Représente la largeur de la forme, en unité de point.
 ```python
 
 if shape.width_pt == 3:
-    shape.width_pt = 1
+    shape.width_pt = 1.0
 
 ```
 ###  Définition:
@@ -30,5 +30,5 @@ def width_pt(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/fr/aspose.cells.drawing/oleobject)
+* module [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/fr/aspose.cells.drawing/oleobject)

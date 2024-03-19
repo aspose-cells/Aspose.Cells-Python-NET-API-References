@@ -3,13 +3,13 @@ title: built_in_document_properties propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 250
+weight: 260
 url: /fr/aspose.cells/worksheetcollection/built_in_document_properties/
 is_root: false
 ---
 ##  built_in_document_properties propriété
 
-Renvoie une collection [DocumentProperty](/cells/python-net/fr/aspose.cells.properties/documentproperty) qui représente toutes les propriétés de document intégrées de la feuille de calcul.
+Renvoie une collection [`DocumentProperty`](/cells/python-net/fr/aspose.cells.properties/documentproperty) qui représente toutes les propriétés de document intégrées de la feuille de calcul.
 
 ###  Remarques
 
@@ -49,10 +49,10 @@ Date de la dernière impression
 Date de création
 
 
-Heure de la dernière sauvegarde
+Dernier temps de sauvegarde
 
 
-Temps d'édition total
+Durée totale d'édition
 
 
 Nombre de pages
@@ -91,7 +91,7 @@ Nombre de paragraphes
 Nombre de diapositives
 
 
-Nombre de billets
+Nombre de notes
 
 
 Nombre de diapositives masquées
@@ -106,7 +106,7 @@ def built_in_document_properties(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/fr/aspose.cells.properties/builtindocumentpropertycollection)
-* classe [DocumentProperty](/cells/python-net/fr/aspose.cells.properties/documentproperty)
-* classe [WorksheetCollection](/cells/python-net/fr/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/fr/aspose.cells.properties/builtindocumentpropertycollection)
+* classe [`DocumentProperty`](/cells/python-net/fr/aspose.cells.properties/documentproperty)
+* classe [`WorksheetCollection`](/cells/python-net/fr/aspose.cells/worksheetcollection)

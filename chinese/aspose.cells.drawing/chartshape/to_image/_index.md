@@ -1,14 +1,14 @@
 ---
 title: to_image方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 230
 url: /zh/aspose.cells.drawing/chartshape/to_image/
 is_root: false
 ---
-##  to_image(stream, image_type) {#io.RawIOBase-ImageType}
-创建形状图像并将其保存到指定格式的流中。
+##  to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
+创建形状图像并将其以指定格式保存到流中。
 
 
 
@@ -21,7 +21,7 @@ def to_image(self, stream, image_type):
 |范围|类型|描述|
 | :- | :- | :- |
 | stream | io.RawIOBase |输出流。|
-| image_type | [ImageType](/cells/python-net/zh/aspose.cells.drawing/imagetype) |保存图像的类型。|
+| image_type | [`ImageType`](/cells/python-net/zh/aspose.cells.drawing/imagetype) |保存图像的类型。|
 ### 评论
 
 支持以下格式：
@@ -38,7 +38,7 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-##  to_image(image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
 将形状保存到文件中。
 
 
@@ -65,7 +65,7 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 将形状保存到流中。
 
 
@@ -96,5 +96,5 @@ shape.to_image(imageStream, op)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ChartShape](/cells/python-net/zh/aspose.cells.drawing/chartshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ChartShape`](/cells/python-net/zh/aspose.cells.drawing/chartshape)

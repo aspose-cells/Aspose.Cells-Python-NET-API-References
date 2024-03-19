@@ -3,7 +3,7 @@ title: DataBarBorder klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 430
 url: /sv/aspose.cells/databarborder/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Typen DataBarBorder avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -3,12 +3,12 @@ title: copy Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 40
+weight: 50
 url: /de/aspose.cells/range/copy/
 is_root: false
 ---
-##  copy(range) {#Range}
-Kopiert Daten (einschließlich Formeln), Formatierungen, Zeichenobjekte usw. aus einem Quellbereich.
+##  copy {#aspose.cells.Range}
+Kopiert Daten (einschließlich Formeln), Formatierungen, Zeichnungsobjekte usw. aus einem Quellbereich.
 
 
 
@@ -20,7 +20,7 @@ def copy(self, range):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/de/aspose.cells/range) | Quelle [Range](/cells/python-net/de/aspose.cells/range) Objekt.|
+| range | [`Range`](/cells/python-net/de/aspose.cells/range) |Quelle [`Range`](/cells/python-net/de/aspose.cells/range) Objekt.|
 
 ###  Beispiel
 
@@ -41,8 +41,8 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  copy(range, options) {#Range-PasteOptions}
-Kopieren des Bereichs mit speziellen Optionen zum Einfügen.
+##  copy {#aspose.cells.Range-aspose.cells.PasteOptions}
+Kopieren des Bereichs mit Sonderoptionen zum Einfügen.
 
 
 
@@ -54,11 +54,11 @@ def copy(self, range, options):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/de/aspose.cells/range) | Der Quellbereich.|
-| options | [PasteOptions](/cells/python-net/de/aspose.cells/pasteoptions) | Die speziellen Optionen zum Einfügen.|
+| range | [`Range`](/cells/python-net/de/aspose.cells/range) | Der Quellbereich.|
+| options | [`PasteOptions`](/cells/python-net/de/aspose.cells/pasteoptions) | Die speziellen Optionen zum Einfügen.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Range](/cells/python-net/de/aspose.cells/range)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Range`](/cells/python-net/de/aspose.cells/range)

@@ -3,20 +3,20 @@ title: top_inch Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1110
+weight: 1120
 url: /de/aspose.cells.drawing/checkbox/top_inch/
 is_root: false
 ---
 ##  top_inch Eigentum
 
-Stellt den vertikalen Versatz der Form von der obersten Reihe in Zoll dar.
+Stellt den vertikalen Versatz der Form von ihrer oberen Reihe in der Einheit Zoll dar.
 
 ###  Beispiel
 
 ```python
 
 if shape.top_inch == 3:
-    shape.top_inch = 1
+    shape.top_inch = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def top_inch(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CheckBox](/cells/python-net/de/aspose.cells.drawing/checkbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CheckBox`](/cells/python-net/de/aspose.cells.drawing/checkbox)

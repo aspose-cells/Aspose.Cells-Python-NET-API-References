@@ -3,13 +3,13 @@ title: shadow Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 890
+weight: 910
 url: /de/aspose.cells.drawing/radiobutton/shadow/
 is_root: false
 ---
 ##  shadow Eigentum
 
-Gibt an, ob das Kombinationsfeld 3D-Schattierung hat.
+Gibt an, ob das Kombinationsfeld über eine 3D-Schattierung verfügt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RadioButton](/cells/python-net/de/aspose.cells.drawing/radiobutton)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RadioButton`](/cells/python-net/de/aspose.cells.drawing/radiobutton)

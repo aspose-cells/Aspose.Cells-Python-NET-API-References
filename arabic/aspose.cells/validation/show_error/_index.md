@@ -1,13 +1,13 @@
 ---
-title: show_error الملكية
+title: show_error عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ar/aspose.cells/validation/show_error/
 is_root: false
 ---
-##  show_error الملكية
+##  show_error عقار
 
 يشير إلى ما إذا كان سيتم عرض رسالة خطأ التحقق من صحة البيانات عندما يقوم المستخدم بإدخال بيانات غير صالحة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def show_error(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Validation](/cells/python-net/ar/aspose.cells/validation)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Validation`](/cells/python-net/ar/aspose.cells/validation)

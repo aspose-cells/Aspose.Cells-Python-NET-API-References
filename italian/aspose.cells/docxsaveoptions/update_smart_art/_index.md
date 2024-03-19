@@ -3,7 +3,7 @@ title: update_smart_art proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 110
+weight: 290
 url: /it/aspose.cells/docxsaveoptions/update_smart_art/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Il valore predefinito è falso.
 
 ###  Osservazioni
 
-Nel file modello esistono solo gli effetti dopo la chiamata al metodo Shape.GetResultOfSmartArt() e le forme memorizzate nella cache.
+Nel file modello esistono solo gli effetti dopo aver chiamato il metodo Shape.GetResultOfSmartArt() e le forme memorizzate nella cache.
 ###  Definizione:
 ```python
 @property
@@ -26,5 +26,5 @@ def update_smart_art(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DocxSaveOptions](/cells/python-net/it/aspose.cells/docxsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`DocxSaveOptions`](/cells/python-net/it/aspose.cells/docxsaveoptions)

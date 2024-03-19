@@ -1,15 +1,15 @@
 ---
-title: height 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: height属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 500
+weight: 510
 url: /zh/aspose.cells.drawing/oleobject/height/
 is_root: false
 ---
-## height 属性
+## height属性
 
-代表形状的height，单位为像素。
+代表形状的height，以像素为单位。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def height(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [OleObject](/cells/python-net/zh/aspose.cells.drawing/oleobject)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`OleObject`](/cells/python-net/zh/aspose.cells.drawing/oleobject)

@@ -3,13 +3,13 @@ title: original_height_inch proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 940
+weight: 950
 url: /it/aspose.cells.drawing/picture/original_height_inch/
 is_root: false
 ---
 ##  original_height_inch proprietà
 
-Ottiene l'altezza originale dell'immagine, in pollici.
+Ottiene l'altezza originale dell'immagine, in unità di pollici.
 
 ###  Esempio
 
@@ -37,5 +37,5 @@ def original_height_inch(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

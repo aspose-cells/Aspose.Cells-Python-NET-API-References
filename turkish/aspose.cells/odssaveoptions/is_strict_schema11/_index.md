@@ -9,7 +9,14 @@ is_root: false
 ---
 ##  is_strict_schema11 mülk
 
-ods dosyasının ODF formatı sürüm 1.1 olarak kaydedilip kaydedilmeyeceğini belirtir. Varsayılan yanlıştır.
+Ods dosyasının ODF formatı sürüm 1.1 olarak kaydedilip kaydedilmeyeceğini belirtir. Varsayılan yanlıştır.
+
+###  Notlar
+
+ NOT: Bu üye artık kullanılmıyor. Yerine,
+lütfen OdsSaveOptions.OdfStrictVersion özelliğini kullanın.
+ Bu yöntem Şubat 2024'ten 12 ay sonra kaldırılacaktır.
+Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +28,5 @@ def is_strict_schema11(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [OdsSaveOptions](/cells/python-net/tr/aspose.cells/odssaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`OdsSaveOptions`](/cells/python-net/tr/aspose.cells/odssaveoptions)

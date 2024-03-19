@@ -3,7 +3,7 @@ title: page_count Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 210
+weight: 220
 url: /de/aspose.cells.rendering/imageorprintoptions/page_count/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ruft die Anzahl der zu speichernden Seiten ab oder legt diese fest.
 
 ###  Bemerkungen
 
-Standard ist System.Int32.MaxValue, was bedeutet, dass alle Seiten gerendert werden.
+Der Standardwert ist System.Int32.MaxValue, was bedeutet, dass alle Seiten gerendert werden.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def page_count(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [ImageOrPrintOptions](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`ImageOrPrintOptions`](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)

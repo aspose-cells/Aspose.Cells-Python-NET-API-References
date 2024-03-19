@@ -3,7 +3,7 @@ title: UpdateLinksType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2620
+weight: 2710
 url: /tr/aspose.cells/updatelinkstype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-UpdateLinksType türü aşağıdaki üyeleri gösterir:
+UpdateLinksType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | USER_SET | Kullanıcıdan güncelleme yapmasını isteyin.|
-| NEVER | Güncelleme yapmayın ve kullanıcıya sormayın.|
+| NEVER | Güncellemeyin ve kullanıcıya bilgi vermeyin.|
 | ALWAYS | Her zaman güncelleyin.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

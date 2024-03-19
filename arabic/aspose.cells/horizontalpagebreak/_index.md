@@ -1,25 +1,25 @@
 ---
-title: HorizontalPageBreak الدرجة
+title: HorizontalPageBreak صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 750
+weight: 780
 url: /ar/aspose.cells/horizontalpagebreak/
 is_root: false
 ---
-##  HorizontalPageBreak الدرجة
-لتغليف الكائن الذي يمثل فاصل صفحات أفقيًا.
+##  HorizontalPageBreak صف
+يقوم بتغليف الكائن الذي يمثل فاصل الصفحات الأفقي.
 
 
 
-يكشف نوع HorizontalPageBreak الأعضاء التالية:
+يكشف النوع HorizontalPageBreak عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
 | [start_column](/cells/python-net/ar/aspose.cells/horizontalpagebreak/start_column) | الحصول على فهرس عمود البداية لفاصل الصفحات الأفقي هذا.|
-| [end_column](/cells/python-net/ar/aspose.cells/horizontalpagebreak/end_column) | يحصل على فهرس عمود نهاية فاصل الصفحات الأفقي هذا.|
-| [row](/cells/python-net/ar/aspose.cells/horizontalpagebreak/row) | يحصل على فهرس الصف الصفري.|
+| [end_column](/cells/python-net/ar/aspose.cells/horizontalpagebreak/end_column) | الحصول على فهرس عمود النهاية لفاصل الصفحات الأفقي هذا.|
+| [row](/cells/python-net/ar/aspose.cells/horizontalpagebreak/row) | يحصل على فهرس الصف القائم على الصفر.|
 
 
 
@@ -40,4 +40,4 @@ hPageBreak = worksheet.horizontal_page_breaks[Index]
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

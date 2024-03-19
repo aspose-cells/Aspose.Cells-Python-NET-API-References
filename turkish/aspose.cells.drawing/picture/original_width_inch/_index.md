@@ -3,13 +3,13 @@ title: original_width_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 970
+weight: 980
 url: /tr/aspose.cells.drawing/picture/original_width_inch/
 is_root: false
 ---
 ##  original_width_inch mülk
 
-Resmin orijinal genişliğini inç cinsinden alır.
+Resmin orijinal genişliğini inç birimi cinsinden alır.
 
 ###  Örnek
 
@@ -37,5 +37,5 @@ def original_width_inch(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)

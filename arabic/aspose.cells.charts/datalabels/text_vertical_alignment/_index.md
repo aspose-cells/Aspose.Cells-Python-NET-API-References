@@ -1,15 +1,15 @@
 ---
-title: text_vertical_alignment الملكية
+title: text_vertical_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 510
+weight: 500
 url: /ar/aspose.cells.charts/datalabels/text_vertical_alignment/
 is_root: false
 ---
-##  text_vertical_alignment الملكية
+##  text_vertical_alignment عقار
 
-الحصول على المحاذاة الرأسية للنص أو تعيينها.
+الحصول على أو تعيين المحاذاة العمودية للنص.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
-* فئة [TextAlignmentType](/cells/python-net/ar/aspose.cells/textalignmenttype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* فئة [`TextAlignmentType`](/cells/python-net/ar/aspose.cells/textalignmenttype)

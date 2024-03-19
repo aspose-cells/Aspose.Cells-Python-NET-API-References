@@ -1,20 +1,20 @@
 ---
-title: quality 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: quality属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 270
+weight: 280
 url: /zh/aspose.cells.rendering/imageorprintoptions/quality/
 is_root: false
 ---
-## quality 属性
+## quality属性
 
-获取或设置一个值，该值确定生成的图像的 quality
+获取或设置确定生成图像的 quality 的值
 仅在将页面保存为 `Jpeg` 格式时应用。默认值为 100
 
 ### 评论
 
-仅在保存到 JPEG 时有效。
+仅在保存到JPEG时有效。
 该值必须介于 0 和 100 之间。
 默认值为 100。
 ### 定义：
@@ -28,5 +28,5 @@ def quality(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](../../)
-* 类 [ImageOrPrintOptions](/cells/python-net/zh/aspose.cells.rendering/imageorprintoptions)
+* 模块[`aspose.cells.rendering`](../../)
+* 类 [`ImageOrPrintOptions`](/cells/python-net/zh/aspose.cells.rendering/imageorprintoptions)

@@ -3,13 +3,13 @@ title: min mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 830
+weight: 840
 url: /tr/aspose.cells.drawing/spinner/min/
 is_root: false
 ---
 ##  min mülk
 
-Kaydırma çubuğunun veya döndürme aralığının minimum değerini alır veya ayarlar.
+Kaydırma çubuğunun veya döndürücü aralığının minimum değerini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def min(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Spinner](/cells/python-net/tr/aspose.cells.drawing/spinner)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Spinner`](/cells/python-net/tr/aspose.cells.drawing/spinner)

@@ -1,29 +1,29 @@
 ---
-title: العد ColorType
+title: ColorType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1860
+weight: 1930
 url: /ar/aspose.cells/colortype/
 is_root: false
 ---
-##  العد ColorType
-يمثل كل أنواع الألوان
+##  ColorType التعداد
+يمثل كل نوع اللون
 
 
 
-يكشف نوع ColorType الأعضاء التالية:
+يكشف النوع ColorType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| AUTOMATIC | لون تلقائي.|
-| AUTOMATIC_INDEX | إنه لون تلقائي ، لكن اللون المعروض يعتمد على إعداد نظام OS.|
-| RGB | لون RGB.|
+| AUTOMATIC | اللون التلقائي.|
+| AUTOMATIC_INDEX | إنه لون تلقائي، ولكن اللون المعروض يعتمد على إعداد نظام التشغيل.|
+| RGB | لون آر جي بي.|
 | INDEXED_COLOR | مؤشر اللون في لوحة الألوان.|
 | THEME | لون الموضوع.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

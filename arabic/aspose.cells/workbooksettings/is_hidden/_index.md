@@ -1,15 +1,15 @@
 ---
-title: is_hidden الملكية
+title: is_hidden عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 250
 url: /ar/aspose.cells/workbooksettings/is_hidden/
 is_root: false
 ---
-##  is_hidden الملكية
+##  is_hidden عقار
 
-يشير إلى ما إذا كان هذا المصنف مخفيًا.
+يشير إلى ما إذا كان هذا المصنف مخفياً.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

@@ -3,7 +3,7 @@ title: PageOrientationType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2310
+weight: 2400
 url: /sv/aspose.cells/pageorientationtype/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Typen PageOrientationType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -1,19 +1,19 @@
 ---
-title: number 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: number属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 350
+weight: 410
 url: /zh/aspose.cells/style/number/
 is_root: false
 ---
-## number 属性
+## number属性
 
-获取或设置数字和日期的显示格式。不同地区的格式化模式不同。
+获取或设置数字和日期的显示格式。不同地区的格式化模式有所不同。
 
 ### 评论
 
-例如，en_US 区域用数字表示的格式化模式：
+例如，en_US 区域的数字表示的格式模式：
 |价值|类型|格式化字符串|
 | :- | :- | :- |
 | 0|一般的|
@@ -63,5 +63,5 @@ def number(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Style](/cells/python-net/zh/aspose.cells/style)
+* 模块[`aspose.cells`](../../)
+* 类 [`Style`](/cells/python-net/zh/aspose.cells/style)

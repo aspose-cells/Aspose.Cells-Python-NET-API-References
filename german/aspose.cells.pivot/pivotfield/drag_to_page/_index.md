@@ -3,7 +3,7 @@ title: drag_to_page Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 280
+weight: 310
 url: /de/aspose.cells.pivot/pivotfield/drag_to_page/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def drag_to_page(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotField](/cells/python-net/de/aspose.cells.pivot/pivotfield)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotField`](/cells/python-net/de/aspose.cells.pivot/pivotfield)

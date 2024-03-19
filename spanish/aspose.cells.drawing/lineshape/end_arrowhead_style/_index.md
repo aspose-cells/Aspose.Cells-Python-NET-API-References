@@ -3,7 +3,7 @@ title: end_arrowhead_style propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 370
+weight: 390
 url: /es/aspose.cells.drawing/lineshape/end_arrowhead_style/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Obtiene y establece el estilo de punta de flecha final de la línea.
 
  NOTA: Este miembro ahora está obsoleto. En cambio,
  utilice la propiedad Shape.Line.EndArrowheadStyle.
- Esta propiedad se eliminará 12 meses después desde agosto de 2016.
+ Esta propiedad será eliminada 12 meses después desde agosto de 2016.
 Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
@@ -28,6 +28,6 @@ def end_arrowhead_style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [LineShape](/cells/python-net/es/aspose.cells.drawing/lineshape)
-* clase [MsoArrowheadStyle](/cells/python-net/es/aspose.cells.drawing/msoarrowheadstyle)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`LineShape`](/cells/python-net/es/aspose.cells.drawing/lineshape)
+* clase [`MsoArrowheadStyle`](/cells/python-net/es/aspose.cells.drawing/msoarrowheadstyle)

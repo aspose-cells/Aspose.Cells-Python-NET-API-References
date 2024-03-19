@@ -1,18 +1,18 @@
 ---
-title: DisplayDrawingObjects enumerazione
+title: Enumerazione DisplayDrawingObjects
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1970
+weight: 2040
 url: /it/aspose.cells/displaydrawingobjects/
 is_root: false
 ---
-##  DisplayDrawingObjects enumerazione
+##  Enumerazione DisplayDrawingObjects
 Rappresenta se e come mostrare gli oggetti nella cartella di lavoro.
 
 
 
-Il tipo DisplayDrawingObjects espone i membri seguenti:
+Il tipo DisplayDrawingObjects espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -24,4 +24,4 @@ Il tipo DisplayDrawingObjects espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

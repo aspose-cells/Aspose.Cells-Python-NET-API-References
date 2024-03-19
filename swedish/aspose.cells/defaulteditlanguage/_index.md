@@ -3,7 +3,7 @@ title: DefaultEditLanguage uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1950
+weight: 2020
 url: /sv/aspose.cells/defaulteditlanguage/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen DefaultEditLanguage avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

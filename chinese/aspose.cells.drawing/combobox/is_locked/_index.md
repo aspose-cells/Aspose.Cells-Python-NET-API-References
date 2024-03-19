@@ -1,15 +1,15 @@
 ---
-title: is_locked 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_locked属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 610
+weight: 620
 url: /zh/aspose.cells.drawing/combobox/is_locked/
 is_root: false
 ---
-## is_locked 属性
+## is_locked属性
 
-如果对象被锁定，则为 True；如果工作表受保护时可以修改对象，则为 False。
+如果对象被锁定，则为 True；如果在工作表受保护时可以修改对象，则为 False。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def is_locked(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ComboBox](/cells/python-net/zh/aspose.cells.drawing/combobox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ComboBox`](/cells/python-net/zh/aspose.cells.drawing/combobox)

@@ -1,15 +1,15 @@
 ---
-title: cell_column الملكية
+title: cell_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells/calculationdata/cell_column/
 is_root: false
 ---
-##  cell_column الملكية
+##  cell_column عقار
 
-الحصول على فهرس العمود للخلية حيث توجد الوظيفة.
+الحصول على فهرس عمود الخلية التي توجد بها الوظيفة.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def cell_column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CalculationData](/cells/python-net/ar/aspose.cells/calculationdata)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CalculationData`](/cells/python-net/ar/aspose.cells/calculationdata)

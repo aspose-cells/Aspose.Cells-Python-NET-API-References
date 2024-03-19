@@ -1,18 +1,18 @@
 ---
-title: العد EmfRenderSetting
+title: EmfRenderSetting التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1990
+weight: 2060
 url: /ar/aspose.cells/emfrendersetting/
 is_root: false
 ---
-##  العد EmfRenderSetting
-الإعداد لعرض ملف تعريف Emf.
+##  EmfRenderSetting التعداد
+الإعداد لتقديم ملف التعريف Emf.
 
 
 
-يكشف نوع EmfRenderSetting الأعضاء التالية:
+يكشف النوع EmfRenderSetting عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

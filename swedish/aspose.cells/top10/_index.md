@@ -3,7 +3,7 @@ title: Top10 klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1480
+weight: 1550
 url: /sv/aspose.cells/top10/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Typen Top10 avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [Top10()](/cells/python-net/sv/aspose.cells/top10/__init__/#) |Konstruerar en ny instans av Top10|
+| [__init__](/cells/python-net/sv/aspose.cells/top10/__init__/#) | Konstruerar en ny instans av Top10|
 
 
 ###  Egenskaper
@@ -60,4 +60,4 @@ workbook.save("output.xls")
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

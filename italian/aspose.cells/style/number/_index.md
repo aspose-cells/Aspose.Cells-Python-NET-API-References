@@ -3,7 +3,7 @@ title: number proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 350
+weight: 410
 url: /it/aspose.cells/style/number/
 is_root: false
 ---
@@ -13,14 +13,14 @@ Ottiene o imposta il formato di visualizzazione di numeri e date. I modelli di f
 
 ###  Osservazioni
 
-Ad esempio, i modelli di formattazione rappresentati dai numeri per la regione en_US:
-| Valore| Tipo| Formato stringa|
+Ad esempio, i modelli di formattazione rappresentati da numeri per la regione en_US:
+| Valore| Tipo| Stringa di formato|
 | :- | :- | :- |
 | 0| Generale|
-| 1| Decimale|
-| 2| Decimale|
-| 3| Decimale|
-| 4| Decimale|
+| 1|Decimale|
+| 2|Decimale|
+| 3|Decimale|
+| 4|Decimale|
 | 5| Valuta|
 | 6| Valuta|
 | 7| Valuta|
@@ -63,5 +63,5 @@ def number(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Style](/cells/python-net/it/aspose.cells/style)
+* modulo [`aspose.cells`](../../)
+* classe [`Style`](/cells/python-net/it/aspose.cells/style)

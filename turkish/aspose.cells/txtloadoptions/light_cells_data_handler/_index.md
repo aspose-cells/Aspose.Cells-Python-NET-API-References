@@ -3,7 +3,7 @@ title: light_cells_data_handler mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 250
 url: /tr/aspose.cells/txtloadoptions/light_cells_data_handler/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def light_cells_data_handler(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [LightCellsDataHandler](/cells/python-net/tr/aspose.cells/lightcellsdatahandler)
-* sınıf [TxtLoadOptions](/cells/python-net/tr/aspose.cells/txtloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`LightCellsDataHandler`](/cells/python-net/tr/aspose.cells/lightcellsdatahandler)
+* sınıf [`TxtLoadOptions`](/cells/python-net/tr/aspose.cells/txtloadoptions)

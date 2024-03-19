@@ -3,13 +3,13 @@ title: export_grid_lines propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 240
+weight: 260
 url: /fr/aspose.cells/htmlsaveoptions/export_grid_lines/
 is_root: false
 ---
 ##  export_grid_lines propriété
 
-Indique si le quadrillage est exporté. La valeur par défaut est false.
+Indique s'il faut exporter le quadrillage. La valeur par défaut est false.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_grid_lines(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/fr/aspose.cells/htmlsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/fr/aspose.cells/htmlsaveoptions)

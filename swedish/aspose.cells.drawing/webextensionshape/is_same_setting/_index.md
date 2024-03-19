@@ -3,11 +3,11 @@ title: is_same_setting metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 150
 url: /sv/aspose.cells.drawing/webextensionshape/is_same_setting/
 is_root: false
 ---
-##  is_same_setting(obj) {#any}
+##  is_same_setting {#any}
 Returnerar om formen är densamma.
 
 
@@ -38,5 +38,5 @@ if shape.is_same_setting(shape):
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [WebExtensionShape](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`WebExtensionShape`](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)

@@ -1,36 +1,36 @@
 ---
-title: العد TextAlignmentType
+title: TextAlignmentType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2520
+weight: 2610
 url: /ar/aspose.cells/textalignmenttype/
 is_root: false
 ---
-##  العد TextAlignmentType
+##  TextAlignmentType التعداد
 تعداد أنواع محاذاة النص.
 
 
 
-يكشف نوع TextAlignmentType الأعضاء التالية:
+يكشف النوع TextAlignmentType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| GENERAL | يمثل محاذاة نص عامة.|
+| GENERAL |يمثل محاذاة النص العامة.|
 | BOTTOM | يمثل محاذاة النص السفلي.|
-| CENTER | يمثل مركز محاذاة النص.|
+| CENTER | يمثل محاذاة النص المركزي.|
 | CENTER_ACROSS | يمثل المركز عبر محاذاة النص.|
-| DISTRIBUTED | يمثل محاذاة النص الموزع.|
-| FILL | يمثل محاذاة النص التعبئة.|
-| JUSTIFY | التمثيلات تضبط محاذاة النص.|
+| DISTRIBUTED | يمثل محاذاة النص الموزعة.|
+| FILL | يمثل محاذاة نص التعبئة.|
+| JUSTIFY | يمثل تبرير محاذاة النص.|
 | LEFT | يمثل محاذاة النص الأيسر.|
-| RIGHT | يمثل محاذاة النص الصحيحة.|
+| RIGHT | يمثل محاذاة النص الصحيح.|
 | TOP | يمثل محاذاة النص العلوي.|
-| JUSTIFIED_LOW |يحاذي النص بطول الكشيدة المعدل للنص العربي.|
-| THAI_DISTRIBUTED | يوزع النص التايلاندي بشكل خاص ، لأنه يتم التعامل مع كل حرف على أنه كلمة.|
+| JUSTIFIED_LOW | محاذاة النص بطول الكشيدة المعدل للنص العربي.|
+| THAI_DISTRIBUTED | يوزع النص التايلاندي بشكل خاص، لأنه يتم التعامل مع كل حرف على أنه كلمة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

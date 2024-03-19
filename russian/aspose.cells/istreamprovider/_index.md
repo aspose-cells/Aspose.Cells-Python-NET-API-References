@@ -1,9 +1,9 @@
 ---
 title: IStreamProvider класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 870
+weight: 910
 url: /ru/aspose.cells/istreamprovider/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-Тип IStreamProvider предоставляет следующие члены:
+Тип IStreamProvider предоставляет следующие элементы:
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [init_stream(options)](/cells/python-net/ru/aspose.cells/istreamprovider/init_stream/#StreamProviderOptions) | Получает поток.|
-| [close_stream(options)](/cells/python-net/ru/aspose.cells/istreamprovider/close_stream/#StreamProviderOptions) | Закрывает поток.|
+| [init_stream](/cells/python-net/ru/aspose.cells/istreamprovider/init_stream/#aspose.cells.StreamProviderOptions) | Получает поток.|
+| [close_stream](/cells/python-net/ru/aspose.cells/istreamprovider/close_stream/#aspose.cells.StreamProviderOptions) | Закрывает поток.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

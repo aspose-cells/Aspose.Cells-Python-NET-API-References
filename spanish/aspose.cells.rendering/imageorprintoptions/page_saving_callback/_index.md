@@ -3,7 +3,7 @@ title: page_saving_callback propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 230
+weight: 240
 url: /es/aspose.cells.rendering/imageorprintoptions/page_saving_callback/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def page_saving_callback(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [IPageSavingCallback](/cells/python-net/es/aspose.cells.rendering/ipagesavingcallback)
-* clase [ImageOrPrintOptions](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`IPageSavingCallback`](/cells/python-net/es/aspose.cells.rendering/ipagesavingcallback)
+* clase [`ImageOrPrintOptions`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)

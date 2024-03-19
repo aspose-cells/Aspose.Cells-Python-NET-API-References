@@ -3,7 +3,7 @@ title: current_region fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 290
 url: /sv/aspose.cells/range/current_region/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def current_region(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

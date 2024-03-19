@@ -3,7 +3,7 @@ title: CellValueFormatStrategy enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1840
+weight: 1910
 url: /es/aspose.cells/cellvalueformatstrategy/
 is_root: false
 ---
@@ -18,11 +18,11 @@ El tipo CellValueFormatStrategy expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | NONE | No formateado.|
-| CELL_STYLE | Solo formateado con el estilo original de la celda.|
+| CELL_STYLE |Solo formateado con el estilo original de la celda.|
 | DISPLAY_STYLE | Formateado con el estilo mostrado de la celda.|
-| DISPLAY_STRING | Obtiene la cadena que se muestra en MS Excel.<br/>La principal diferencia con [CellValueFormatStrategy.DISPLAY_STYLE](/cells/python-net/es/aspose.cells/cellvalueformatstrategy#DISPLAY_STYLE) es que esta opción también considera el efecto del ancho de columna.<br/>Si el ancho de la columna es demasiado pequeño para mostrar la cadena formateada por completo,<br/>Se puede mostrar "#", al igual que lo hace MS Excel.|
+| DISPLAY_STRING | Obtiene la cadena mostrada en ms excel.<br/>La principal diferencia con [`CellValueFormatStrategy.DISPLAY_STYLE`](/cells/python-net/es/aspose.cells/cellvalueformatstrategy#DISPLAY_STYLE) es que esta opción también considera el efecto del ancho de la columna.<br/>Si el ancho de la columna es demasiado pequeño para mostrar la cadena formateada por completo,<br/> Es posible que se muestre "#", tal como lo hace MS Excel.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

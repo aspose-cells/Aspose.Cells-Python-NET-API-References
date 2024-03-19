@@ -3,7 +3,7 @@ title: ValidationType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2640
+weight: 2730
 url: /sv/aspose.cells/validationtype/
 is_root: false
 ---
@@ -29,4 +29,4 @@ Typen ValidationType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

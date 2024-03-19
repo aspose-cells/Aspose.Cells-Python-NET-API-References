@@ -3,7 +3,7 @@ title: TxtValueQuoteType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2610
+weight: 2700
 url: /sv/aspose.cells/txtvaluequotetype/
 is_root: false
 ---
@@ -20,9 +20,9 @@ Typen TxtValueQuoteType avslöjar följande medlemmar:
 | NORMAL | Alla värden som innehåller specialtecken som citattecken, avgränsare kommer att citeras.<br/> Samma med beteendet hos ms excel för export av textfil.|
 | ALWAYS | Alla värden kommer alltid att anges.|
 | MINIMUM | Ange endast värden när det behövs. Till exempel, om ett värde innehåller citattecken men citattecken inte är i början av detta värde, kommer detta värde inte att citeras.|
-| NEVER | Alla värden kommer inte att citeras. Den exporterade textfilen med denna typ kanske inte läses tillbaka korrekt eftersom de nödvändiga citattecken saknas.|
+| NEVER |Alla värden kommer inte att citeras. Den exporterade textfilen med denna typ kanske inte läses tillbaka korrekt eftersom de nödvändiga citattecken saknas.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

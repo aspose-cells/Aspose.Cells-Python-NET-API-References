@@ -3,18 +3,18 @@ title: HtmlExportDataOptions numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2150
+weight: 2220
 url: /tr/aspose.cells/htmlexportdataoptions/
 is_root: false
 ---
 ##  HtmlExportDataOptions numaralandırma
-Html verilerini dışa aktarma seçeneklerini temsil eder.
+Html verilerini dışarı aktarma seçeneklerini temsil eder.
 
 
 
-HtmlExportDataOptions türü aşağıdaki üyeleri gösterir:
+HtmlExportDataOptions türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | TABLE | Dosyayı yalnızca tablo bölümünü içeren html'ye aktarın.|
@@ -23,4 +23,4 @@ HtmlExportDataOptions türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

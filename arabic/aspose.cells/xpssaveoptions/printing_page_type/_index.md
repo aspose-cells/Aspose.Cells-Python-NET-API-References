@@ -1,24 +1,24 @@
 ---
-title: printing_page_type الملكية
+title: printing_page_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells/xpssaveoptions/printing_page_type/
 is_root: false
 ---
-##  printing_page_type الملكية
+##  printing_page_type عقار
 
 يشير إلى الصفحات التي لن تتم طباعتها.
 
 ###  ملاحظات
 
-إذا كان المحتوى في الورقة متناثرًا ، فستكون هناك بعض الصفحات فارغة تمامًا في ملف pdf الناتج.
-إذا كنت لا تريد هذه الصفحات الفارغة ، يمكنك استخدام هذا الخيار لحذفها.
+إذا كان المحتوى الموجود في الورقة متناثرًا، فستكون هناك بعض الصفحات فارغة تمامًا في ملف PDF الناتج.
+إذا كنت لا تريد هذه الصفحات الفارغة، فيمكنك استخدام هذا الخيار لحذفها.
 
 ###  مثال
 
-يحذف الكود التالي الصفحات أو الصفحات الفارغة التي تحتوي فقط على بعض محتوى النمط مثل خلفية الخلية والحدود.
+يحذف التعليمة البرمجية التالية الصفحات الفارغة أو الصفحات التي تحتوي فقط على بعض محتوى النمط مثل خلفية الخلية والحدود.
 
 ```python
 from aspose.cells import PdfSaveOptions, PrintingPageType, Workbook
@@ -44,6 +44,6 @@ def printing_page_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PrintingPageType](/cells/python-net/ar/aspose.cells/printingpagetype)
-* فئة [XpsSaveOptions](/cells/python-net/ar/aspose.cells/xpssaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PrintingPageType`](/cells/python-net/ar/aspose.cells/printingpagetype)
+* فئة [`XpsSaveOptions`](/cells/python-net/ar/aspose.cells/xpssaveoptions)

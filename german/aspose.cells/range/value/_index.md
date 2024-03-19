@@ -3,13 +3,13 @@ title: value Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 400
+weight: 420
 url: /de/aspose.cells/range/value/
 is_root: false
 ---
 ##  value Eigentum
 
-Ruft die value des Bereichs ab und legt sie fest.
+Ruft die value des Bereichs ab und legt diese fest.
 
 ###  Bemerkungen
 
@@ -25,5 +25,5 @@ def value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Range](/cells/python-net/de/aspose.cells/range)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Range`](/cells/python-net/de/aspose.cells/range)

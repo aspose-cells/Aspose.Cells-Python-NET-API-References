@@ -3,7 +3,7 @@ title: page_count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 220
 url: /tr/aspose.cells/pptxsaveoptions/page_count/
 is_root: false
 ---
@@ -13,11 +13,11 @@ Kaydedilecek sayfa sayısını alır veya ayarlar.
 
 ###  Notlar
 
-Varsayılan, System.Int32.MaxValue'dur, bu da tüm sayfaların oluşturulacağı anlamına gelir.
+Varsayılan, System.Int32.MaxValue'dur; bu, tüm sayfaların oluşturulacağı anlamına gelir.
 
 ###  Örnek
 
-Aşağıdaki örnek, bir Microsoft Excel dosyasındaki sayfa aralığının (3 ve 4) PDF'e nasıl dönüştürüleceğini gösterir.
+Aşağıdaki örnek, Microsoft Excel dosyasındaki bir sayfa aralığının (3 ve 4) PDF'e nasıl dönüştürüleceğini gösterir.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -45,5 +45,5 @@ def page_count(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PptxSaveOptions](/cells/python-net/tr/aspose.cells/pptxsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PptxSaveOptions`](/cells/python-net/tr/aspose.cells/pptxsaveoptions)

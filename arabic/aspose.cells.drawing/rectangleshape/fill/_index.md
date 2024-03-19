@@ -1,15 +1,15 @@
 ---
-title: fill الملكية
+title: fill عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 350
 url: /ar/aspose.cells.drawing/rectangleshape/fill/
 is_root: false
 ---
-##  fill الملكية
+##  fill عقار
 
-إرجاع عنصر [Shape.fill_format](/cells/python-net/ar/aspose.cells.drawing/shape#fill_format) يحتوي على fill خصائص تنسيق للشكل المحدد.
+تقوم بإرجاع كائن [`Shape.fill_format`](/cells/python-net/ar/aspose.cells.drawing/shape#fill_format) الذي يحتوي على fill خصائص التنسيق للشكل المحدد.
 
 ###  مثال
 
@@ -26,6 +26,6 @@ def fill(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [FillFormat](/cells/python-net/ar/aspose.cells.drawing/fillformat)
-* فئة [RectangleShape](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`FillFormat`](/cells/python-net/ar/aspose.cells.drawing/fillformat)
+* فئة [`RectangleShape`](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)

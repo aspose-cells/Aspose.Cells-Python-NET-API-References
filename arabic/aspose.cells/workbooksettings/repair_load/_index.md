@@ -1,15 +1,15 @@
 ---
-title: repair_load الملكية
+title: repair_load عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 540
+weight: 420
 url: /ar/aspose.cells/workbooksettings/repair_load/
 is_root: false
 ---
-##  repair_load الملكية
+##  repair_load عقار
 
-يشير إلى ما إذا كان التطبيق فتح المصنف آخر مرة في الوضع الآمن أو وضع الإصلاح.
+يشير إلى ما إذا كان التطبيق قد فتح المصنف آخر مرة في الوضع الآمن أو الوضع الإصلاحي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def repair_load(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

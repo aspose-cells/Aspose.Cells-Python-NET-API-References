@@ -1,9 +1,9 @@
 ---
 title: CategoryType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 400
+weight: 410
 url: /ru/aspose.cells.charts/categorytype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип CategoryType предоставляет следующие члены:
+Тип CategoryType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| AUTOMATIC_SCALE | Автоматическая шкала|
+| AUTOMATIC_SCALE | Автоматическое масштабирование|
 | CATEGORY_SCALE | КатегорияМасштаб|
-| TIME_SCALE | шкала времени|
+| TIME_SCALE | Шкала времени|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

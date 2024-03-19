@@ -1,18 +1,18 @@
 ---
-title: العد CountryCode
+title: CountryCode التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1890
+weight: 1960
 url: /ar/aspose.cells/countrycode/
 is_root: false
 ---
-##  العد CountryCode
-يمثل معرّفات البلد في Excel.
+##  CountryCode التعداد
+يمثل معرفات البلد في Excel.
 
 
 
-يكشف نوع CountryCode الأعضاء التالية:
+يكشف النوع CountryCode عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -20,7 +20,7 @@ is_root: false
 | DEFAULT |  |
 | USA | الولايات المتحدة|
 | CANADA | كندا|
-| LATIN_AMERIC | أمريكا اللاتينية ، باستثناء البرازيل|
+| LATIN_AMERIC | أمريكا اللاتينية باستثناء البرازيل|
 | RUSSIA | روسيا|
 | EGYPT | مصر|
 | GREECE | اليونان|
@@ -45,13 +45,13 @@ is_root: false
 | THAILAND | تايلاند|
 | JAPAN | اليابان|
 | SOUTH_KOREA | كوريا الجنوبية|
-| VIET_NAM | فييت نام|
+| VIET_NAM | فيتنام|
 | CHINA | جمهورية الصين الشعبية|
 | TURKEY | ديك رومى|
 | INDIA | الهند|
 | ALGERIA | الجزائر|
 | MOROCCO | المغرب|
-| LIBYA | ليبيا|
+| LIBYA |ليبيا|
 | PORTUGAL | البرتغال|
 | ICELAND | أيسلندا|
 | FINLAND | فنلندا|
@@ -71,4 +71,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
-title: spt الملكية
+title: spt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 980
+weight: 990
 url: /ar/aspose.cells.drawing/listbox/spt/
 is_root: false
 ---
-##  spt الملكية
+##  spt عقار
 
-يحدد رقمًا اختياريًا يمكن لأحد التطبيقات استخدامه لإقران الشكل المعين بنوع شكل محدد.
+يحدد رقمًا اختياريًا يمكن أن يستخدمه التطبيق لربط شكل معين بنوع شكل محدد.
 
 ###  مثال
 
@@ -26,5 +26,5 @@ def spt(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)

@@ -1,26 +1,26 @@
 ---
-title: العد ExternalLinkType
+title: ExternalLinkType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2030
+weight: 2100
 url: /ar/aspose.cells/externallinktype/
 is_root: false
 ---
-##  العد ExternalLinkType
+##  ExternalLinkType التعداد
 يمثل نوع الارتباط الخارجي.
 
 
 
-يكشف نوع ExternalLinkType الأعضاء التالية:
+يكشف النوع ExternalLinkType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DDE_LINK | يمثل ارتباط DDE.|
-| EXTERNAL | يمثل ارتباط خارجي.|
+| DDE_LINK | يمثل رابط DDE.|
+| EXTERNAL | يمثل الارتباط الخارجي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
-title: minor_tick_mark 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: minor_tick_mark属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 340
+weight: 350
 url: /zh/aspose.cells.charts/axis/minor_tick_mark/
 is_root: false
 ---
-## minor_tick_mark 属性
+## minor_tick_mark属性
 
-表示指定轴的次刻度线类型。
+表示指定轴的小刻度线的类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def minor_tick_mark(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
-* 类 [TickMarkType](/cells/python-net/zh/aspose.cells.charts/tickmarktype)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)
+* 类 [`TickMarkType`](/cells/python-net/zh/aspose.cells.charts/tickmarktype)

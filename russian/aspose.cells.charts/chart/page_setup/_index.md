@@ -1,9 +1,9 @@
 ---
 title: page_setup недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 370
+weight: 400
 url: /ru/aspose.cells.charts/chart/page_setup/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def page_setup(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

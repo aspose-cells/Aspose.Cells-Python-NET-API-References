@@ -1,15 +1,15 @@
 ---
-title: object_data الملكية
+title: object_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 950
+weight: 960
 url: /ar/aspose.cells.drawing/oleobject/object_data/
 is_root: false
 ---
-##  object_data الملكية
+##  object_data عقار
 
-يمثل بيانات كائن أولية المضمنة كمصفوفة بايت.
+يمثل بيانات كائن أولي المضمنة كمصفوفة بايت.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def object_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

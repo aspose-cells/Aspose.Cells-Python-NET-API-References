@@ -1,15 +1,15 @@
 ---
-title: refresh_pivot_tables الملكية
+title: refresh_pivot_tables عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 240
 url: /ar/aspose.cells/odsloadoptions/refresh_pivot_tables/
 is_root: false
 ---
-##  refresh_pivot_tables الملكية
+##  refresh_pivot_tables عقار
 
-يشير إلى ما إذا كان يتم تحديث الجداول المحورية عند تحميل الملف.
+يشير إلى ما إذا كان سيتم تحديث الجداول المحورية عند تحميل الملف.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def refresh_pivot_tables(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [OdsLoadOptions](/cells/python-net/ar/aspose.cells/odsloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`OdsLoadOptions`](/cells/python-net/ar/aspose.cells/odsloadoptions)

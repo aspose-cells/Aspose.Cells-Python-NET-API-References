@@ -3,13 +3,13 @@ title: has_line mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 420
 url: /tr/aspose.cells.drawing/dialogbox/has_line/
 is_root: false
 ---
 ##  has_line mülk
 
-Görünür şeklin çizgi kenarlığını alır ve ayarlar.
+Şeklin görünür kenar çizgisini alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def has_line(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [DialogBox](/cells/python-net/tr/aspose.cells.drawing/dialogbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`DialogBox`](/cells/python-net/tr/aspose.cells.drawing/dialogbox)

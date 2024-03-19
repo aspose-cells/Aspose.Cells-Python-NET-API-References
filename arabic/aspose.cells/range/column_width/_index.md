@@ -1,15 +1,15 @@
 ---
-title: column_width الملكية
+title: column_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 280
 url: /ar/aspose.cells/range/column_width/
 is_root: false
 ---
-##  column_width الملكية
+##  column_width عقار
 
-تعيين عرض العمود لهذا النطاق أو الحصول عليه
+يضبط أو يحصل على عرض العمود لهذا النطاق
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_width(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

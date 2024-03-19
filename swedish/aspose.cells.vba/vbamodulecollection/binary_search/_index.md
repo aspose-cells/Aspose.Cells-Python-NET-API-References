@@ -3,11 +3,11 @@ title: binary_search metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 40
+weight: 50
 url: /sv/aspose.cells.vba/vbamodulecollection/binary_search/
 is_root: false
 ---
-##  binary_search(item) {#VbaModule}
+##  binary_search {#aspose.cells.vba.VbaModule}
 Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.
 
 
@@ -24,10 +24,10 @@ def binary_search(self, item):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| item | [VbaModule](/cells/python-net/sv/aspose.cells.vba/vbamodule) | System.Object att lokalisera. Värdet kan vara null.|
+| item | [`VbaModule`](/cells/python-net/sv/aspose.cells.vba/vbamodule) | System.Object att lokalisera. Värdet kan vara null.|
 
 
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaModuleCollection](/cells/python-net/sv/aspose.cells.vba/vbamodulecollection)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaModuleCollection`](/cells/python-net/sv/aspose.cells.vba/vbamodulecollection)

@@ -1,13 +1,13 @@
 ---
-title: link_to_xml_map método
+title: método link_to_xml_map
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 780
+weight: 770
 url: /es/aspose.cells/cells/link_to_xml_map/
 is_root: false
 ---
-##  link_to_xml_map(map_name, row, column, path) {#str-int-int-str}
+##  link_to_xml_map {#str-int-int-str}
 Enlace a un mapa xml.
 
 
@@ -28,5 +28,5 @@ def link_to_xml_map(self, map_name, row, column, path):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

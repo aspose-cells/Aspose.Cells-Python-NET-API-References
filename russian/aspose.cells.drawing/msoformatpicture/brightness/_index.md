@@ -1,9 +1,9 @@
 ---
 title: brightness недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ru/aspose.cells.drawing/msoformatpicture/brightness/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Он находится между -100% и 100%. Он работает так же, как Excel 2007 или более поздняя версия.
+Оно находится между -100% и 100%. Он работает так же, как версия Excel 2007 или более поздней версии.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def brightness(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoFormatPicture](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoFormatPicture`](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)

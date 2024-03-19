@@ -3,12 +3,12 @@ title: طريقة set_column_width_inch
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 850
+weight: 840
 url: /ar/aspose.cells/cells/set_column_width_inch/
 is_root: false
 ---
-##  set_column_width_inch(column, inches) {#int-float}
-يضبط عرض العمود بوحدة بوصة في العرض العادي.
+##  set_column_width_inch {#int-float}
+يضبط عرض العمود بوحدة البوصة في العرض العادي.
 
 
 
@@ -20,11 +20,11 @@ def set_column_width_inch(self, column, inches):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| column | int | فهرس العمود.|
-| inches | float | عدد البوصات.|
+| column | int | مؤشر العمود.|
+| inches | float |عدد البوصات.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

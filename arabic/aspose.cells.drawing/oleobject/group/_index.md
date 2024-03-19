@@ -1,15 +1,15 @@
 ---
-title: group الملكية
+title: group عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 490
 url: /ar/aspose.cells.drawing/oleobject/group/
 is_root: false
 ---
-##  group الملكية
+##  group عقار
 
-الحصول على الشكل group الذي يحتوي على هذا الشكل.
+يحصل على الشكل group الذي يحتوي على هذا الشكل.
 
 ###  مثال
 
@@ -26,6 +26,6 @@ def group(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupShape](/cells/python-net/ar/aspose.cells.drawing/groupshape)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupShape`](/cells/python-net/ar/aspose.cells.drawing/groupshape)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

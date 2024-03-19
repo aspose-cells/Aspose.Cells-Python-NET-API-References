@@ -3,7 +3,7 @@ title: PrintSizeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2400
+weight: 2490
 url: /sv/aspose.cells/printsizetype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen PrintSizeType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

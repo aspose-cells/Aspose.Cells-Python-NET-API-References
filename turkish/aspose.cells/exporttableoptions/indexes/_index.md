@@ -3,7 +3,7 @@ title: indexes mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 80
+weight: 100
 url: /tr/aspose.cells/exporttableoptions/indexes/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def indexes(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExportTableOptions](/cells/python-net/tr/aspose.cells/exporttableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ExportTableOptions`](/cells/python-net/tr/aspose.cells/exporttableoptions)

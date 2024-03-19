@@ -3,7 +3,7 @@ title: display_unit proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 140
+weight: 150
 url: /it/aspose.cells.charts/axis/display_unit/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def display_unit(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/it/aspose.cells.charts/axis)
-* classe [DisplayUnitType](/cells/python-net/it/aspose.cells.charts/displayunittype)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/it/aspose.cells.charts/axis)
+* classe [`DisplayUnitType`](/cells/python-net/it/aspose.cells.charts/displayunittype)

@@ -3,14 +3,14 @@ title: window_left_cm propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 680
+weight: 560
 url: /es/aspose.cells/workbooksettings/window_left_cm/
 is_root: false
 ---
 ##  window_left_cm propiedad
 
 La distancia desde el borde izquierdo del área del cliente hasta el borde izquierdo de la ventana.
-En unidad de centimetro.
+En unidad de centímetro.
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def window_left_cm(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WorkbookSettings](/cells/python-net/es/aspose.cells/workbooksettings)
+* módulo [`aspose.cells`](../../)
+* clase [`WorkbookSettings`](/cells/python-net/es/aspose.cells/workbooksettings)

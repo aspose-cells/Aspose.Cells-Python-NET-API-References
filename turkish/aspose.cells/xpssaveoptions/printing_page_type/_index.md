@@ -3,7 +3,7 @@ title: printing_page_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 220
 url: /tr/aspose.cells/xpssaveoptions/printing_page_type/
 is_root: false
 ---
@@ -14,11 +14,11 @@ Hangi sayfaların yazdırılmayacağını belirtir.
 ###  Notlar
 
 Sayfadaki içerik seyrekse, çıktı pdf dosyasında bazı sayfalar tamamen boş olacaktır.
-Bu boş sayfaları istemiyorsanız, onları atlamak için bu seçeneği kullanabilirsiniz.
+Bu boş sayfaları istemiyorsanız bu seçeneği kullanarak bunları atlayabilirsiniz.
 
 ###  Örnek
 
-Aşağıdaki kod, boş sayfaları veya yalnızca hücre arka planı, kenarlıklar gibi bazı stil içeriği içeren sayfaları atlar.
+Aşağıdaki kod, boş sayfaları veya yalnızca hücre arka planı, kenarlıklar gibi bazı stil içeriğini içeren sayfaları atlar.
 
 ```python
 from aspose.cells import PdfSaveOptions, PrintingPageType, Workbook
@@ -44,6 +44,6 @@ def printing_page_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PrintingPageType](/cells/python-net/tr/aspose.cells/printingpagetype)
-* sınıf [XpsSaveOptions](/cells/python-net/tr/aspose.cells/xpssaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PrintingPageType`](/cells/python-net/tr/aspose.cells/printingpagetype)
+* sınıf [`XpsSaveOptions`](/cells/python-net/tr/aspose.cells/xpssaveoptions)

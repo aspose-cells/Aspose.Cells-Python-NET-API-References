@@ -1,9 +1,9 @@
 ---
 title: is_justify_distributed недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 300
+weight: 340
 url: /ru/aspose.cells/style/is_justify_distributed/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Это типично для восточноазиатских мировоззрений, но не характерно для других контекстов.
+Это типично для восточноазиатских группировок, но нетипично для других контекстов.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def is_justify_distributed(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Style](/cells/python-net/ru/aspose.cells/style)
+* модуль [`aspose.cells`](../../)
+* класс [`Style`](/cells/python-net/ru/aspose.cells/style)

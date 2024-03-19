@@ -1,15 +1,15 @@
 ---
 title: base_index недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 190
+weight: 220
 url: /ru/aspose.cells.pivot/pivotfield/base_index/
 is_root: false
 ---
 ##  base_index недвижимость
 
-Представляет индекс PivotField в базовых полях PivotField.
+Представляет индекс PivotField в базовых PivotFields.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def base_index(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotField](/cells/python-net/ru/aspose.cells.pivot/pivotfield)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotField`](/cells/python-net/ru/aspose.cells.pivot/pivotfield)

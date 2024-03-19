@@ -3,13 +3,13 @@ title: show_tabs Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 580
+weight: 460
 url: /de/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
 ##  show_tabs Eigentum
 
-Ruft einen Wert ab oder legt einen Wert fest, ob die Registerkarten der Arbeitsmappe angezeigt werden.
+Ruft einen Wert ab, ob die Arbeitsmappenregisterkarten angezeigt werden, oder legt diesen fest.
 
 ###  Bemerkungen
 
@@ -17,7 +17,7 @@ Der Standardwert ist wahr.
 
 ###  Beispiel
 
-Der folgende Code blendet die Blattregisterkarten und die Schaltflächen zum Blättern durch die Registerkarten für die Tabelle aus.
+Der folgende Code verbirgt die Blattregisterkarten und Tab-Bildlaufschaltflächen für die Tabelle.
 
 ```python
 
@@ -36,5 +36,5 @@ def show_tabs(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorkbookSettings](/cells/python-net/de/aspose.cells/workbooksettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookSettings`](/cells/python-net/de/aspose.cells/workbooksettings)

@@ -3,11 +3,11 @@ title: unhide_columns metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 980
+weight: 970
 url: /sv/aspose.cells/cells/unhide_columns/
 is_root: false
 ---
-##  unhide_columns(column, total_columns, width) {#int-int-float}
+##  unhide_columns {#int-int-float}
 Visa flera kolumner.
 
 
@@ -30,5 +30,5 @@ Använder endast kolumnbredden på de dolda kolumnerna.
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

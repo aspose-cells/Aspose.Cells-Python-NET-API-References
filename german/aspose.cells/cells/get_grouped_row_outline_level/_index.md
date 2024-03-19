@@ -3,11 +3,11 @@ title: get_grouped_row_outline_level Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 410
+weight: 390
 url: /de/aspose.cells/cells/get_grouped_row_outline_level/
 is_root: false
 ---
-##  get_grouped_row_outline_level(row_index) {#int}
+##  get_grouped_row_outline_level {#int}
 Ruft die Gliederungsebene (nullbasiert) der Zeile ab.
 
 
@@ -32,5 +32,5 @@ Wenn die Zeile nicht gruppiert ist, wird Null zurückgegeben.
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

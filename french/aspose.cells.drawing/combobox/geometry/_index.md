@@ -3,7 +3,7 @@ title: geometry propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 390
+weight: 400
 url: /fr/aspose.cells.drawing/combobox/geometry/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Obtient le geometry
 
 ```python
 
-if len(shape.Geometry.ShapeAdjustValues) == 0:
+if shape.geometry != null  and len(shape.geometry.shape_adjust_values) == 0:
     print("No geometry path.")
 
 ```
@@ -27,6 +27,6 @@ def geometry(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ComboBox](/cells/python-net/fr/aspose.cells.drawing/combobox)
-* classe [Geometry](/cells/python-net/fr/aspose.cells.drawing/geometry)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ComboBox`](/cells/python-net/fr/aspose.cells.drawing/combobox)
+* classe [`Geometry`](/cells/python-net/fr/aspose.cells.drawing/geometry)

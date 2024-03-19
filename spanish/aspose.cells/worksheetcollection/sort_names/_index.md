@@ -1,13 +1,13 @@
 ---
-title: sort_names método
+title: método sort_names
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 200
+weight: 210
 url: /es/aspose.cells/worksheetcollection/sort_names/
 is_root: false
 ---
-##  sort_names() {#}
+##  sort_names {#}
 Ordena los nombres definidos.
 
 
@@ -25,5 +25,5 @@ llame a este método después de crear todos los rangos con nombre y antes de gu
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WorksheetCollection](/cells/python-net/es/aspose.cells/worksheetcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`WorksheetCollection`](/cells/python-net/es/aspose.cells/worksheetcollection)

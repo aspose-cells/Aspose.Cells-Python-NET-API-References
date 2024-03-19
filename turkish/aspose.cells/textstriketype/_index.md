@@ -3,25 +3,25 @@ title: TextStrikeType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2570
+weight: 2660
 url: /tr/aspose.cells/textstriketype/
 is_root: false
 ---
 ##  TextStrikeType numaralandırma
-Bu tip, grev tipini belirtir.
+Bu tür, vuruş türünü belirtir.
 
 
 
-TextStrikeType türü aşağıdaki üyeleri gösterir:
+TextStrikeType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| SINGLE |Metne tek bir üstü çizili uygulama uygulandı.|
-| DOUBLE | Metne çift üstü çizili uygulama uygulandı.|
-| NONE | Metne herhangi bir darbe uygulanmaz.|
+| SINGLE | Metnin üzerine tek bir üstü çizili çizgi uygulandı.|
+| DOUBLE | Metnin üzerine çift çizgi uygulandı.|
+| NONE | Metne herhangi bir vuruş uygulanmaz.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

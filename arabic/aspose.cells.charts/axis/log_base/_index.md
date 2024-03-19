@@ -1,13 +1,13 @@
 ---
-title: log_base الملكية
+title: log_base عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ar/aspose.cells.charts/axis/log_base/
 is_root: false
 ---
-##  log_base الملكية
+##  log_base عقار
 
 يمثل القاعدة اللوغاريتمية. القيمة الافتراضية هي 10. تنطبق فقط على Excel2007.
 ###  تعريف:
@@ -21,5 +21,5 @@ def log_base(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)

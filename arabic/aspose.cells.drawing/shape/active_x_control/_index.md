@@ -1,15 +1,15 @@
 ---
-title: active_x_control الملكية
+title: active_x_control عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 260
 url: /ar/aspose.cells.drawing/shape/active_x_control/
 is_root: false
 ---
-##  active_x_control الملكية
+##  active_x_control عقار
 
-يحصل على عنصر تحكم ActiveX.
+الحصول على عنصر تحكم ActiveX.
 
 ###  مثال
 
@@ -17,9 +17,10 @@ is_root: false
 from aspose import pycore
 from aspose.cells.drawing.activexcontrols import CheckBoxActiveXControl
 
-checkBox1 = pycore.cast(CheckBoxActiveXControl, shape.active_x_control)
-# The font name of CheckBox
-fontName = checkBox1.font.name
+if shape.active_x_control != None:
+    checkBox1 = pycore.cast(CheckBoxActiveXControl, shape.active_x_control)
+    # The font name of CheckBox
+    fontName = checkBox1.font.name
 
 ```
 ###  تعريف:
@@ -30,6 +31,6 @@ def active_x_control(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrol)
-* فئة [Shape](/cells/python-net/ar/aspose.cells.drawing/shape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrol)
+* فئة [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape)

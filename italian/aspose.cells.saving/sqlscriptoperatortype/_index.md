@@ -1,27 +1,27 @@
 ---
-title: SqlScriptOperatorType enumerazione
+title: Enumerazione SqlScriptOperatorType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 30
+weight: 40
 url: /it/aspose.cells.saving/sqlscriptoperatortype/
 is_root: false
 ---
-##  SqlScriptOperatorType enumerazione
-Rappresenta il tipo di dato operativo.
+##  Enumerazione SqlScriptOperatorType
+Rappresenta la tipologia dei dati operativi.
 
 
 
-Il tipo SqlScriptOperatorType espone i membri seguenti:
+Il tipo SqlScriptOperatorType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | INSERT | Inserisci i dati.|
-| UPDATE | Aggiorna i dati.|
+| UPDATE | Aggiorna dati.|
 | DELETE | Elimina dati.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.saving](..)
+* modulo [`aspose.cells.saving`](..)

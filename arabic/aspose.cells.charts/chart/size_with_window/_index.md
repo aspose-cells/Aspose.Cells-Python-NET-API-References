@@ -1,15 +1,15 @@
 ---
-title: size_with_window الملكية
+title: size_with_window عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 570
+weight: 600
 url: /ar/aspose.cells.charts/chart/size_with_window/
 is_root: false
 ---
-##  size_with_window الملكية
+##  size_with_window عقار
 
-إجابة صحيحة إذا قام Microsoft Excel بتغيير حجم المخطط ليطابق حجم نافذة ورقة المخطط.
+صحيح إذا كان Microsoft يقوم Excel بتغيير حجم المخطط ليتناسب مع حجم نافذة ورقة المخطط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def size_with_window(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

@@ -1,14 +1,14 @@
 ---
 title: set_formula方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 320
+weight: 340
 url: /zh/aspose.cells/cell/set_formula/
 is_root: false
 ---
-##  set_formula(formula, value) {#str-any}
-设置公式和公式的值。
+##  set_formula {#str-any}
+设置公式和公式的值（计算结果）。
 
 
 
@@ -21,11 +21,11 @@ def set_formula(self, formula, value):
 |范围|类型|描述|
 | :- | :- | :- |
 | formula | str |公式。|
-| value | any |公式的值。|
+| value | any |公式的值（计算结果）。|
 
 
-##  set_formula(formula, options, value) {#str-FormulaParseOptions-any}
-设置公式和公式的值。
+##  set_formula {#str-aspose.cells.FormulaParseOptions-any}
+设置公式和公式的值（计算结果）。
 
 
 
@@ -38,11 +38,11 @@ def set_formula(self, formula, options, value):
 |范围|类型|描述|
 | :- | :- | :- |
 | formula | str |公式。|
-| options | [FormulaParseOptions](/cells/python-net/zh/aspose.cells/formulaparseoptions) |解析公式的选项。|
-| value | any |公式的值。|
+| options | [`FormulaParseOptions`](/cells/python-net/zh/aspose.cells/formulaparseoptions) |用于解析公式的选项。|
+| value | any |公式的值（计算结果）。|
 
 
-##  set_formula(formula, is_r1c1, is_local, value) {#str-bool-bool-any}
+##  set_formula {#str-bool-bool-any}
 设置公式和公式的值。
 
 
@@ -56,17 +56,17 @@ def set_formula(self, formula, is_r1c1, is_local, value):
 |范围|类型|描述|
 | :- | :- | :- |
 | formula | str |公式。|
-| is_r1c1 | bool |公式是否为R1C1公式。|
-| is_local | bool |公式是否为区域设置格式。|
+| is_r1c1 | bool |式子是否为R1C1式子。|
+| is_local | bool |公式是否采用区域设置格式。|
 | value | any |公式的值。|
 ### 评论
 
-注意：此类现在已过时。反而，
+注意：该类现已过时。反而，
 请使用 Cell.SetFormula(string,FormulaParseOptions,object)。
-自 2019 年 12 月起 12 个月后，此属性将被删除。
-Aspose 对您可能遇到的任何不便深表歉意。
+该房产将于 2019 年 12 月起 12 个月后被移除。
+Aspose 对于给您带来的任何不便，我们深表歉意。
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cell](/cells/python-net/zh/aspose.cells/cell)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cell`](/cells/python-net/zh/aspose.cells/cell)

@@ -3,7 +3,7 @@ title: standard_width_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1290
+weight: 1280
 url: /sv/aspose.cells/cells/standard_width_inch/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def standard_width_inch(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

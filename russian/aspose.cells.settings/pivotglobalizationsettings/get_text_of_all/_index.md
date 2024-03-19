@@ -1,19 +1,19 @@
 ---
 title: get_text_of_all метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 20
+weight: 40
 url: /ru/aspose.cells.settings/pivotglobalizationsettings/get_text_of_all/
 is_root: false
 ---
-##  get_text_of_all() {#}
-Получает текст метки "(Все)" в сводной таблице.
+##  get_text_of_all {#}
+Получает текст метки «(Все)» в сводной таблице.
 
 
-###  Возвращает
+###  Возврат
 
-Текст метки "(Все)"
+Текст метки «(Все)»
 
 
 ```python
@@ -26,5 +26,5 @@ def get_text_of_all(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.settings](../../)
-* класс [PivotGlobalizationSettings](/cells/python-net/ru/aspose.cells.settings/pivotglobalizationsettings)
+* модуль [`aspose.cells.settings`](../../)
+* класс [`PivotGlobalizationSettings`](/cells/python-net/ru/aspose.cells.settings/pivotglobalizationsettings)

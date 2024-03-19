@@ -3,20 +3,20 @@ title: is_text_wrapped propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 660
+weight: 670
 url: /fr/aspose.cells.drawing/groupshape/is_text_wrapped/
 is_root: false
 ---
 ##  is_text_wrapped propriété
 
-Obtient et définit le type de texte enveloppé de la forme qui contient du texte.
+Obtient et définit le type de texte renvoyé à la ligne de la forme qui contient le texte.
 
 ###  Exemple
 
 ```python
 
 if shape.is_text_wrapped:
-    shape.is_text_wrapped = !shape.is_text_wrapped
+    shape.is_text_wrapped = notshape.is_text_wrapped
 
 ```
 ###  Définition:
@@ -30,5 +30,5 @@ def is_text_wrapped(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GroupShape](/cells/python-net/fr/aspose.cells.drawing/groupshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/fr/aspose.cells.drawing/groupshape)

@@ -1,6 +1,6 @@
 ---
 title: compliance недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 110
@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  compliance недвижимость
 
-Рабочая книга преобразуется в pdf в соответствии с PdfCompliance в этом свойстве.
+Получает или задает уровень стандартов compliance compliance для выходных документов.
+
+###  Примечания
+
+По умолчанию — PDF17.
 ###  Определение:
 ```python
 @property
@@ -21,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PdfCompliance](/cells/python-net/ru/aspose.cells.rendering/pdfcompliance)
-* класс [PdfSaveOptions](/cells/python-net/ru/aspose.cells/pdfsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PdfCompliance`](/cells/python-net/ru/aspose.cells.rendering/pdfcompliance)
+* класс [`PdfSaveOptions`](/cells/python-net/ru/aspose.cells/pdfsaveoptions)

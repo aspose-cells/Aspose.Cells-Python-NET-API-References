@@ -3,7 +3,7 @@ title: theme proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 650
+weight: 660
 url: /it/aspose.cells/workbook/theme/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def theme(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

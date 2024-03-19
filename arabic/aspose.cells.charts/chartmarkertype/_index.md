@@ -1,36 +1,36 @@
 ---
-title: العد ChartMarkerType
+title: ChartMarkerType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 430
 url: /ar/aspose.cells.charts/chartmarkertype/
 is_root: false
 ---
-##  العد ChartMarkerType
-يمثل نمط العلامة في مخطط خطي أو مخطط مبعثر أو مخطط نسيجي.
+##  ChartMarkerType التعداد
+يمثل نمط العلامة في مخطط خطي أو مخطط مبعثر أو مخطط راداري.
 
 
 
-يكشف نوع ChartMarkerType الأعضاء التالية:
+يكشف النوع ChartMarkerType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | AUTOMATIC | علامات تلقائية.|
 | CIRCLE | علامات دائرية.|
-| DASH | علامات الشريط الطويل|
+| DASH | علامات شريطية طويلة|
 | DIAMOND | علامات على شكل الماس.|
-| DOT | علامات شريط قصير.|
-| NONE | لا توجد علامات.|
-| SQUARE_PLUS | علامات مربعة بعلامة زائد.|
+| DOT | علامات شريطية قصيرة.|
+| NONE | لا علامات.|
+| SQUARE_PLUS | علامات مربعة مع علامة زائد.|
 | SQUARE | علامات مربعة.|
-| SQUARE_STAR | علامات مربعة بعلامة النجمة.|
-| TRIANGLE | علامات مثلثة.|
+| SQUARE_STAR | علامات مربعة مع علامة النجمة.|
+| TRIANGLE | علامات الثلاثي.|
 | SQUARE_X | علامات مربعة بعلامة X.|
 | PICTURE | صورة|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

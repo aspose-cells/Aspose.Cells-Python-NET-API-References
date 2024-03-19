@@ -1,13 +1,13 @@
 ---
-title: CountryCode dénombrement
+title: CountryCode énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1890
+weight: 1960
 url: /fr/aspose.cells/countrycode/
 is_root: false
 ---
-##  CountryCode dénombrement
+##  CountryCode énumération
 Représente les identifiants de pays Excel.
 
 
@@ -45,13 +45,13 @@ Le type CountryCode expose les membres suivants :
 | THAILAND | Thaïlande|
 | JAPAN | Japon|
 | SOUTH_KOREA | Corée du Sud|
-| VIET_NAM | Vietnam|
+| VIET_NAM | Viet Nam|
 | CHINA | La république populaire de chine|
 | TURKEY | Turquie|
 | INDIA | Inde|
 | ALGERIA | Algérie|
 | MOROCCO | Maroc|
-| LIBYA | Libye|
+| LIBYA |Libye|
 | PORTUGAL | le Portugal|
 | ICELAND | Islande|
 | FINLAND | Finlande|
@@ -71,4 +71,4 @@ Le type CountryCode expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

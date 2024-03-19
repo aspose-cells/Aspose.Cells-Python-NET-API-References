@@ -3,7 +3,7 @@ title: non_auto_sort_default fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 490
 url: /sv/aspose.cells.pivot/pivotfield/non_auto_sort_default/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def non_auto_sort_default(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotField](/cells/python-net/sv/aspose.cells.pivot/pivotfield)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield)

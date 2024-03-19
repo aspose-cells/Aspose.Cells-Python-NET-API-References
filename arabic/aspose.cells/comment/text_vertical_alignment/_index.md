@@ -1,15 +1,15 @@
 ---
-title: text_vertical_alignment الملكية
+title: text_vertical_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells/comment/text_vertical_alignment/
 is_root: false
 ---
-##  text_vertical_alignment الملكية
+##  text_vertical_alignment عقار
 
-الحصول على نوع المحاذاة الرأسية للنص الخاص بالتعليق وتعيينه.
+الحصول على نوع المحاذاة الرأسية للنص وتعيينها للتعليق.
 
 ###  مثال
 
@@ -31,6 +31,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
-* فئة [TextAlignmentType](/cells/python-net/ar/aspose.cells/textalignmenttype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)
+* فئة [`TextAlignmentType`](/cells/python-net/ar/aspose.cells/textalignmenttype)

@@ -3,12 +3,12 @@ title: ErrorCheckOption klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 520
+weight: 550
 url: /sv/aspose.cells/errorcheckoption/
 is_root: false
 ---
 ##  ErrorCheckOption klass
-Inställningen för felkontroll tillämpas på vissa intervall.
+Felkontrollinställning tillämpas på vissa intervall.
 
 
 
@@ -17,12 +17,12 @@ Typen ErrorCheckOption avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [is_error_check(error_check_type)](/cells/python-net/sv/aspose.cells/errorcheckoption/is_error_check/#ErrorCheckType) | Kontrollerar om given feltyp kommer att kontrolleras.|
-| [set_error_check(error_check_type, is_check)](/cells/python-net/sv/aspose.cells/errorcheckoption/set_error_check/#ErrorCheckType-bool) | Anger om given feltyp ska kontrolleras.|
-| [get_count_of_range()](/cells/python-net/sv/aspose.cells/errorcheckoption/get_count_of_range/#) | Hämtar antalet intervall som påverkas av den här inställningen.|
-| [add_range(ca)](/cells/python-net/sv/aspose.cells/errorcheckoption/add_range/#CellArea) | Lägger till ett påverkat område av denna inställning.|
-| [get_range(index)](/cells/python-net/sv/aspose.cells/errorcheckoption/get_range/#int) | Hämtar det påverkade intervallet för denna inställning av ett givet index.|
-| [remove_range(index)](/cells/python-net/sv/aspose.cells/errorcheckoption/remove_range/#int) | Tar bort ett intervall efter givet index.|
+| [is_error_check](/cells/python-net/sv/aspose.cells/errorcheckoption/is_error_check/#aspose.cells.ErrorCheckType) | Kontrollerar om given feltyp kommer att kontrolleras.|
+| [set_error_check](/cells/python-net/sv/aspose.cells/errorcheckoption/set_error_check/#aspose.cells.ErrorCheckType-bool) | Anger om given feltyp ska kontrolleras.|
+| [get_count_of_range](/cells/python-net/sv/aspose.cells/errorcheckoption/get_count_of_range/#) | Hämtar antalet intervall som påverkas av den här inställningen.|
+| [add_range](/cells/python-net/sv/aspose.cells/errorcheckoption/add_range/#aspose.cells.CellArea) | Lägger till ett påverkat område av denna inställning.|
+| [get_range](/cells/python-net/sv/aspose.cells/errorcheckoption/get_range/#int) | Hämtar det påverkade intervallet för denna inställning av ett givet index.|
+| [remove_range](/cells/python-net/sv/aspose.cells/errorcheckoption/remove_range/#int) | Tar bort ett intervall efter givet index.|
 
 
 
@@ -46,4 +46,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

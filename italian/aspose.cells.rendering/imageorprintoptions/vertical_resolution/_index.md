@@ -3,14 +3,14 @@ title: vertical_resolution proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 370
+weight: 390
 url: /it/aspose.cells.rendering/imageorprintoptions/vertical_resolution/
 is_root: false
 ---
 ##  vertical_resolution proprietà
 
 Ottiene o imposta la risoluzione verticale per le immagini generate, in punti per pollice.
-Applica il metodo di generazione dell'immagine tranne l'immagine in formato Emf.
+Applica il metodo di generazione dell'immagine ad eccezione dell'immagine in formato Emf.
 
 ###  Osservazioni
 
@@ -26,5 +26,5 @@ def vertical_resolution(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [ImageOrPrintOptions](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`ImageOrPrintOptions`](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)

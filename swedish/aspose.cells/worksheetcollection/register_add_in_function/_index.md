@@ -3,11 +3,11 @@ title: register_add_in_function metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 180
 url: /sv/aspose.cells/worksheetcollection/register_add_in_function/
 is_root: false
 ---
-##  register_add_in_function(id, function_name) {#int-str}
+##  register_add_in_function {#int-str}
 Lägger till tilläggsfunktion i arbetsboken
 
 
@@ -24,11 +24,11 @@ def register_add_in_function(self, id, function_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| id | int | ID för data som innehåller tilläggsfunktioner,<br/> kan fås av det första samtalet på [WorksheetCollection.register_add_in_function(add_in_file, function_name, lib)](/cells/python-net/sv/aspose.cells/worksheetcollection/register_add_in_function) för samma tilläggsfil.|
+| id | int | ID för data som innehåller tilläggsfunktioner,<br/> kan fås av det första samtalet på [`WorksheetCollection.register_add_in_function`](/cells/python-net/sv/aspose.cells/worksheetcollection/register_add_in_function) för samma tilläggsfil.|
 | function_name | str | tilläggsfunktionens namn|
 
 
-##  register_add_in_function(add_in_file, function_name, lib) {#str-str-bool}
+##  register_add_in_function {#str-str-bool}
 Lägger till tilläggsfunktion i arbetsboken
 
 
@@ -52,5 +52,5 @@ def register_add_in_function(self, add_in_file, function_name, lib):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorksheetCollection](/cells/python-net/sv/aspose.cells/worksheetcollection)
+* modul [`aspose.cells`](../../)
+* klass [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection)

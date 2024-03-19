@@ -1,15 +1,15 @@
 ---
-title: slicers الملكية
+title: slicers عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 750
+weight: 770
 url: /ar/aspose.cells/worksheet/slicers/
 is_root: false
 ---
-##  slicers الملكية
+##  slicers عقار
 
-احصل على مجموعة القطاعة في ورقة العمل
+احصل على مجموعة Slicer في ورقة العمل
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def slicers(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [SlicerCollection](/cells/python-net/ar/aspose.cells.slicers/slicercollection)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`SlicerCollection`](/cells/python-net/ar/aspose.cells.slicers/slicercollection)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

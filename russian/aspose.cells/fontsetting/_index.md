@@ -1,9 +1,9 @@
 ---
 title: FontSetting класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 670
+weight: 700
 url: /ru/aspose.cells/fontsetting/
 is_root: false
 ---
@@ -12,20 +12,20 @@ is_root: false
 
 
 
-Тип FontSetting предоставляет следующие члены:
+Тип FontSetting предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [FontSetting(start_index, length, sheets)](/cells/python-net/ru/aspose.cells/fontsetting/__init__/#int-int-WorksheetCollection) |  |
+| [__init__](/cells/python-net/ru/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [type](/cells/python-net/ru/aspose.cells/fontsetting/type) | Получает тип текстового узла.|
-| [start_index](/cells/python-net/ru/aspose.cells/fontsetting/start_index) | Получает начальный индекс символов.|
-| [length](/cells/python-net/ru/aspose.cells/fontsetting/length) |Получает длину символов.|
+| [start_index](/cells/python-net/ru/aspose.cells/fontsetting/start_index) |Получает начальный индекс символов.|
+| [length](/cells/python-net/ru/aspose.cells/fontsetting/length) | Получает длину символов.|
 | [font](/cells/python-net/ru/aspose.cells/fontsetting/font) | Возвращает шрифт этого объекта.|
 | [text_options](/cells/python-net/ru/aspose.cells/fontsetting/text_options) | Возвращает параметры текста.|
 
@@ -33,7 +33,7 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [set_word_art_style(style)](/cells/python-net/ru/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Задает предустановленный стиль WordArt.|
+| [set_word_art_style](/cells/python-net/ru/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Устанавливает предустановленный стиль WordArt.|
 
 
 
@@ -65,4 +65,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

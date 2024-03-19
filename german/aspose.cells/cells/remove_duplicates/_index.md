@@ -3,11 +3,11 @@ title: remove_duplicates Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 810
+weight: 800
 url: /de/aspose.cells/cells/remove_duplicates/
 is_root: false
 ---
-##  remove_duplicates() {#}
+##  remove_duplicates {#}
 Entfernt doppelte Zeilen im Blatt.
 
 
@@ -20,7 +20,7 @@ def remove_duplicates(self):
 
 
 
-##  remove_duplicates(start_row, start_column, end_row, end_column) {#int-int-int-int}
+##  remove_duplicates {#int-int-int-int}
 Entfernt doppelte Werte im Bereich.
 
 
@@ -36,10 +36,10 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column):
 | start_row | int | Die Startreihe.|
 | start_column | int | Die Startspalte|
 | end_row | int | Der Endzeilenindex.|
-| end_column | int | Der letzte Spaltenindex.|
+| end_column | int | Der Endspaltenindex.|
 
 
-##  remove_duplicates(start_row, start_column, end_row, end_column, has_headers, column_offsets) {#int-int-int-int-bool-list}
+##  remove_duplicates {#int-int-int-int-bool-list}
 Entfernt doppelte Daten des Bereichs.
 
 
@@ -55,12 +55,12 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column, has_he
 | start_row | int | Die Startreihe.|
 | start_column | int | Die Startspalte|
 | end_row | int | Der Endzeilenindex.|
-| end_column | int | Der letzte Spaltenindex.|
+| end_column | int | Der Endspaltenindex.|
 | has_headers | bool | Gibt an, ob der Bereich Header enthält.|
-| column_offsets | list | Die Spalte versetzt.|
+| column_offsets | list | Die Spaltenversätze.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

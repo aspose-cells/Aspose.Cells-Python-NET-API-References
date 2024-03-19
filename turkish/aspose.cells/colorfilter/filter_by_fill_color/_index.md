@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  filter_by_fill_color mülk
 
-Hücrenin dolgu rengine göre filtrelenip filtrelenmediğini gösteren bayrak.
+Hücrenin dolgu rengine göre filtrelenip filtrelenmeyeceği.
+
+###  Notlar
+
+Doğru: hücrenin dolgu rengi; Yanlış: hücrenin yazı tipi rengi.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +25,5 @@ def filter_by_fill_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ColorFilter](/cells/python-net/tr/aspose.cells/colorfilter)
+* modül [`aspose.cells`](../../)
+* sınıf [`ColorFilter`](/cells/python-net/tr/aspose.cells/colorfilter)

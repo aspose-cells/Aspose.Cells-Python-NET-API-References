@@ -3,7 +3,7 @@ title: visibility_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 900
+weight: 920
 url: /sv/aspose.cells/worksheet/visibility_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def visibility_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [VisibilityType](/cells/python-net/sv/aspose.cells/visibilitytype)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`VisibilityType`](/cells/python-net/sv/aspose.cells/visibilitytype)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

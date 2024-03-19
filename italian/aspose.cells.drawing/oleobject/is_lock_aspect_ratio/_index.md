@@ -3,13 +3,13 @@ title: is_lock_aspect_ratio proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 720
+weight: 730
 url: /it/aspose.cells.drawing/oleobject/is_lock_aspect_ratio/
 is_root: false
 ---
 ##  is_lock_aspect_ratio proprietà
 
-Vero significa che non consentono modifiche nelle proporzioni.
+Vero significa che non consente modifiche alle proporzioni.
 
 ###  Esempio
 
@@ -29,5 +29,5 @@ def is_lock_aspect_ratio(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/it/aspose.cells.drawing/oleobject)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/it/aspose.cells.drawing/oleobject)

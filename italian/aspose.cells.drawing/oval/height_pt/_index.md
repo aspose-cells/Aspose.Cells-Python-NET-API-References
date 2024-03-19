@@ -3,7 +3,7 @@ title: height_pt proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 460
+weight: 470
 url: /it/aspose.cells.drawing/oval/height_pt/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Rappresenta l'altezza della forma, in unità di punti.
 ```python
 
 if shape.height_pt == 3:
-    shape.height_pt = 1
+    shape.height_pt = 1.0
 
 ```
 ###  Definizione:
@@ -30,5 +30,5 @@ def height_pt(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Oval](/cells/python-net/it/aspose.cells.drawing/oval)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Oval`](/cells/python-net/it/aspose.cells.drawing/oval)

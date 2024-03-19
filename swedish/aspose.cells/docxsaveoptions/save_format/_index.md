@@ -3,7 +3,7 @@ title: save_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 240
 url: /sv/aspose.cells/docxsaveoptions/save_format/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def save_format(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DocxSaveOptions](/cells/python-net/sv/aspose.cells/docxsaveoptions)
-* klass [SaveFormat](/cells/python-net/sv/aspose.cells/saveformat)
+* modul [`aspose.cells`](../../)
+* klass [`DocxSaveOptions`](/cells/python-net/sv/aspose.cells/docxsaveoptions)
+* klass [`SaveFormat`](/cells/python-net/sv/aspose.cells/saveformat)

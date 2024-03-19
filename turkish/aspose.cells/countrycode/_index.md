@@ -3,7 +3,7 @@ title: CountryCode numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1890
+weight: 1960
 url: /tr/aspose.cells/countrycode/
 is_root: false
 ---
@@ -12,15 +12,15 @@ Excel ülke tanımlayıcılarını temsil eder.
 
 
 
-CountryCode türü aşağıdaki üyeleri gösterir:
+CountryCode türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | DEFAULT |  |
 | USA | Amerika Birleşik Devletleri|
 | CANADA | Kanada|
-| LATIN_AMERIC | Latin Amerika, Brezilya hariç|
+| LATIN_AMERIC | Brezilya hariç Latin Amerika|
 | RUSSIA | Rusya|
 | EGYPT | Mısır|
 | GREECE | Yunanistan|
@@ -51,7 +51,7 @@ CountryCode türü aşağıdaki üyeleri gösterir:
 | INDIA | Hindistan|
 | ALGERIA | Cezayir|
 | MOROCCO | Fas|
-| LIBYA | Libya|
+| LIBYA |Libya|
 | PORTUGAL | Portekiz|
 | ICELAND | İzlanda|
 | FINLAND | Finlandiya|
@@ -71,4 +71,4 @@ CountryCode türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

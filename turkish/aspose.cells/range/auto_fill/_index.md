@@ -3,11 +3,11 @@ title: auto_fill yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 30
+weight: 40
 url: /tr/aspose.cells/range/auto_fill/
 is_root: false
 ---
-##  auto_fill(target) {#Range}
+##  auto_fill {#aspose.cells.Range}
 Hedef aralığı otomatik olarak doldurun.
 
 
@@ -20,7 +20,7 @@ def auto_fill(self, target):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| target | [Range](/cells/python-net/tr/aspose.cells/range) | hedef aralığı.|
+| target | [`Range`](/cells/python-net/tr/aspose.cells/range) | hedef aralığı.|
 
 ###  Örnek
 
@@ -43,7 +43,7 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  auto_fill(target, auto_fill_type) {#Range-AutoFillType}
+##  auto_fill {#aspose.cells.Range-aspose.cells.AutoFillType}
 Hedef aralığı otomatik olarak doldurun.
 
 
@@ -56,11 +56,11 @@ def auto_fill(self, target, auto_fill_type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| target | [Range](/cells/python-net/tr/aspose.cells/range) | Hedeflenen aralık.|
-| auto_fill_type | [AutoFillType](/cells/python-net/tr/aspose.cells/autofilltype) | Otomatik doldurma türü.|
+| target | [`Range`](/cells/python-net/tr/aspose.cells/range) | Hedeflenen aralık.|
+| auto_fill_type | [`AutoFillType`](/cells/python-net/tr/aspose.cells/autofilltype) | Otomatik doldurma türü.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
+* modül [`aspose.cells`](../../)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)

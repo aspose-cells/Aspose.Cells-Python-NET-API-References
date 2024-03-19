@@ -3,7 +3,7 @@ title: number_group_separator fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 430
+weight: 350
 url: /sv/aspose.cells/workbooksettings/number_group_separator/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def number_group_separator(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

@@ -3,31 +3,31 @@ title: ExternalLink sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 560
+weight: 590
 url: /tr/aspose.cells/externallink/
 is_root: false
 ---
 ##  ExternalLink sınıfı
-Çalışma kitabındaki harici bir bağlantıyı temsil eder.
+Çalışma kitabındaki dış bağlantıyı temsil eder.
 
 
 
-ExternalLink türü aşağıdaki üyeleri gösterir:
+ExternalLink türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [type](/cells/python-net/tr/aspose.cells/externallink/type) | Dış bağlantının türünü alır.|
-| [original_data_source](/cells/python-net/tr/aspose.cells/externallink/original_data_source) | Dış bağlantının saklanan veri kaynağını temsil eder.|
+| [original_data_source](/cells/python-net/tr/aspose.cells/externallink/original_data_source) | Harici bağlantının depolanan veri kaynağını temsil eder.|
 | [data_source](/cells/python-net/tr/aspose.cells/externallink/data_source) | Dış bağlantının veri kaynağını temsil eder.|
-| [is_referred](/cells/python-net/tr/aspose.cells/externallink/is_referred) | Bu harici bağlantıya başkaları tarafından başvuruda bulunulup bulunulmadığını gösterir.|
-| [is_visible](/cells/python-net/tr/aspose.cells/externallink/is_visible) | Bu harici bağlantının MS Excel'de görünüp görünmediğini gösterir.|
+| [is_referred](/cells/python-net/tr/aspose.cells/externallink/is_referred) | Bu harici bağlantıya başkaları tarafından başvurulup başvurulmadığını belirtir.|
+| [is_visible](/cells/python-net/tr/aspose.cells/externallink/is_visible) | Bu dış bağlantının MS Excel'de görünür olup olmadığını belirtir.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add_external_name(text, refer_to)](/cells/python-net/tr/aspose.cells/externallink/add_external_name/#str-str) | Harici bir ad ekler.|
+| [add_external_name](/cells/python-net/tr/aspose.cells/externallink/add_external_name/#str-str) | Harici bir ad ekler.|
 
 
 
@@ -46,4 +46,4 @@ externalLink.data_source = "d:\\link.xls"
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

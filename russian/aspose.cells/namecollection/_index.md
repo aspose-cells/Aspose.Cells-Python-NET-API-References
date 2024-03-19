@@ -1,44 +1,44 @@
 ---
 title: NameCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1080
+weight: 1120
 url: /ru/aspose.cells/namecollection/
 is_root: false
 ---
 ##  NameCollection класс
-Представляет коллекцию всех [Name](/cells/python-net/ru/aspose.cells/name) объектов электронной таблицы.
+Представляет коллекцию всех объектов [`Name`](/cells/python-net/ru/aspose.cells/name) в электронной таблице.
 
 
 
-Тип NameCollection предоставляет следующие члены:
+Тип NameCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [capacity](/cells/python-net/ru/aspose.cells/namecollection/capacity) | Получает или задает количество элементов, которые может содержать список массивов.|
+| [capacity](/cells/python-net/ru/aspose.cells/namecollection/capacity) | Получает или задает количество элементов, которые может содержать список массива.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get(index)](/cells/python-net/ru/aspose.cells/namecollection/get/#int) |Добавить API for Python через .Net.так как это [индекс int] не поддерживается|
-| [get(text)](/cells/python-net/ru/aspose.cells/namecollection/get/#str) | Добавить API for Python через .Net.так как это[string text] не поддерживается|
-| [copy_to(array)](/cells/python-net/ru/aspose.cells/namecollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала целевого списка массивов.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ru/aspose.cells/namecollection/copy_to/#int-list-int-int) |Копирует диапазон элементов из списка массивов в совместимый список одномерных массивов, начиная с указанного индекса целевого списка массивов.|
-| [index_of(item, index)](/cells/python-net/ru/aspose.cells/namecollection/index_of/#Name-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который простирается от указанного индекса до последнего элемента.|
-| [index_of(item, index, count)](/cells/python-net/ru/aspose.cells/namecollection/index_of/#Name-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
-| [last_index_of(item)](/cells/python-net/ru/aspose.cells/namecollection/last_index_of/#Name) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массивов.|
-| [last_index_of(item, index)](/cells/python-net/ru/aspose.cells/namecollection/last_index_of/#Name-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который простирается от первого элемента до указанного индекса.|
-| [last_index_of(item, index, count)](/cells/python-net/ru/aspose.cells/namecollection/last_index_of/#Name-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который содержит указанное количество элементов и заканчивается указанным индексом.|
-| [add(text)](/cells/python-net/ru/aspose.cells/namecollection/add/#str) | Определяет новое имя.|
-| [filter(type, sheet_index)](/cells/python-net/ru/aspose.cells/namecollection/filter/#NameScopeType-int) | Получает все определенные имена по области.|
-| [remove_duplicate_names()](/cells/python-net/ru/aspose.cells/namecollection/remove_duplicate_names/#) | Удалить повторяющиеся определенные имена|
-| [binary_search(item)](/cells/python-net/ru/aspose.cells/namecollection/binary_search/#Name) | Ищет элемент во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает отсчитываемый от нуля индекс элемента.|
+| [get](/cells/python-net/ru/aspose.cells/namecollection/get/#int) | Добавьте API for Python через .Net.так как этот[int index] не поддерживается.|
+| [get](/cells/python-net/ru/aspose.cells/namecollection/get/#str) | Добавьте API for Python через .Net.поскольку этот [текст строки] не поддерживается.|
+| [copy_to](/cells/python-net/ru/aspose.cells/namecollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала списка целевых массивов.|
+| [copy_to](/cells/python-net/ru/aspose.cells/namecollection/copy_to/#int-list-int-int) | Копирует диапазон элементов из списка массива в совместимый список одномерных массивов, начиная с указанного индекса списка целевого массива.|
+| [index_of](/cells/python-net/ru/aspose.cells/namecollection/index_of/#aspose.cells.Name-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массива, простирающемся от указанного индекса до последнего элемента.|
+| [index_of](/cells/python-net/ru/aspose.cells/namecollection/index_of/#aspose.cells.Name-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
+| [last_index_of](/cells/python-net/ru/aspose.cells/namecollection/last_index_of/#aspose.cells.Name) | Ищет указанный объект и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массива.|
+| [last_index_of](/cells/python-net/ru/aspose.cells/namecollection/last_index_of/#aspose.cells.Name-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, простирающемся от первого элемента до указанного индекса.|
+| [last_index_of](/cells/python-net/ru/aspose.cells/namecollection/last_index_of/#aspose.cells.Name-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, который содержит указанное количество элементов и заканчивается указанным индексом.|
+| [add](/cells/python-net/ru/aspose.cells/namecollection/add/#str) | Определяет новое имя.|
+| [filter](/cells/python-net/ru/aspose.cells/namecollection/filter/#aspose.cells.NameScopeType-int) | Получает все определенные имена по области.|
+| [remove_duplicate_names](/cells/python-net/ru/aspose.cells/namecollection/remove_duplicate_names/#) | Удалите повторяющиеся определенные имена|
+| [binary_search](/cells/python-net/ru/aspose.cells/namecollection/binary_search/#aspose.cells.Name) | Выполняет поиск элемента во всем списке отсортированного массива, используя компаратор по умолчанию, и возвращает индекс элемента, отсчитываемый от нуля.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
-* класс [Name](/cells/python-net/ru/aspose.cells/name)
+* модуль [`aspose.cells`](..)
+* класс [`Name`](/cells/python-net/ru/aspose.cells/name)

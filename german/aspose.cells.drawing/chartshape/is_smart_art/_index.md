@@ -3,7 +3,7 @@ title: is_smart_art Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 640
+weight: 650
 url: /de/aspose.cells.drawing/chartshape/is_smart_art/
 is_root: false
 ---
@@ -32,5 +32,5 @@ def is_smart_art(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ChartShape](/cells/python-net/de/aspose.cells.drawing/chartshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ChartShape`](/cells/python-net/de/aspose.cells.drawing/chartshape)

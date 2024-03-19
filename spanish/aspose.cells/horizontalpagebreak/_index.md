@@ -3,7 +3,7 @@ title: HorizontalPageBreak clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 750
+weight: 780
 url: /es/aspose.cells/horizontalpagebreak/
 is_root: false
 ---
@@ -19,7 +19,7 @@ El tipo HorizontalPageBreak expone los siguientes miembros:
 | :- | :- |
 | [start_column](/cells/python-net/es/aspose.cells/horizontalpagebreak/start_column) | Obtiene el índice de la columna inicial de este salto de página horizontal.|
 | [end_column](/cells/python-net/es/aspose.cells/horizontalpagebreak/end_column) | Obtiene el índice de la columna final de este salto de página horizontal.|
-| [row](/cells/python-net/es/aspose.cells/horizontalpagebreak/row) | Obtiene el índice de fila basado en cero.|
+| [row](/cells/python-net/es/aspose.cells/horizontalpagebreak/row) | Obtiene el índice de fila de base cero.|
 
 
 
@@ -40,4 +40,4 @@ hPageBreak = worksheet.horizontal_page_breaks[Index]
 ```
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

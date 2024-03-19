@@ -3,12 +3,12 @@ title: PageOrientationType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2310
+weight: 2400
 url: /de/aspose.cells/pageorientationtype/
 is_root: false
 ---
 ##  PageOrientationType Aufzählung
-Repräsentiert Druckausrichtungskonstanten.
+Stellt Druckausrichtungskonstanten dar.
 
 
 
@@ -23,4 +23,4 @@ Der Typ PageOrientationType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

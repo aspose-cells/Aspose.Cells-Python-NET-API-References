@@ -1,18 +1,18 @@
 ---
-title: ViewType enumerazione
+title: Enumerazione ViewType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2650
+weight: 2740
 url: /it/aspose.cells/viewtype/
 is_root: false
 ---
-##  ViewType enumerazione
+##  Enumerazione ViewType
 Rappresenta il tipo di visualizzazione del foglio di lavoro.
 
 
 
-Il tipo ViewType espone i membri seguenti:
+Il tipo ViewType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -24,4 +24,4 @@ Il tipo ViewType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

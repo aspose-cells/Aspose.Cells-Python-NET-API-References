@@ -3,13 +3,13 @@ title: is_locked propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 620
+weight: 630
 url: /es/aspose.cells.drawing/groupshape/is_locked/
 is_root: false
 ---
 ##  is_locked propiedad
 
-True si el objeto está bloqueado, False si el objeto se puede modificar cuando la hoja está protegida.
+Verdadero si el objeto está bloqueado, Falso si el objeto se puede modificar cuando la hoja está protegida.
 
 ###  Ejemplo
 
@@ -30,5 +30,5 @@ def is_locked(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)

@@ -3,7 +3,7 @@ title: page_index mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 190
+weight: 200
 url: /tr/aspose.cells/xpssaveoptions/page_index/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Varsayılan 0'dır.
 
 ###  Örnek
 
-Aşağıdaki örnek, bir Microsoft Excel dosyasındaki sayfa aralığının (3 ve 4) PDF'e nasıl dönüştürüleceğini gösterir.
+Aşağıdaki örnek, Microsoft Excel dosyasındaki bir sayfa aralığının (3 ve 4) PDF'e nasıl dönüştürüleceğini gösterir.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -45,5 +45,5 @@ def page_index(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XpsSaveOptions](/cells/python-net/tr/aspose.cells/xpssaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`XpsSaveOptions`](/cells/python-net/tr/aspose.cells/xpssaveoptions)

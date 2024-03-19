@@ -3,12 +3,12 @@ title: PasteType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2360
+weight: 2450
 url: /de/aspose.cells/pastetype/
 is_root: false
 ---
 ##  PasteType Aufzählung
-Stellt den Spezialpastentyp dar.
+Stellt den Spezialtyp „Paste“ dar.
 
 
 
@@ -18,10 +18,10 @@ Der Typ PasteType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | ALL | Kopiert alle Daten des Bereichs.|
-| DEFAULT | Es funktioniert als "Alles"-Verhalten von MS Excel.|
+| DEFAULT | Es funktioniert als „Alle“-Verhalten von MS Excel.|
 | ALL_EXCEPT_BORDERS | Kopiert alle Daten des Bereichs ohne den Bereich.|
-| DEFAULT_EXCEPT_BORDERS | Es funktioniert wie das „Alle außer Grenzen“-Verhalten von MS Excel.|
-| COLUMN_WIDTHS | Kopiert nur die Breite des Bereichs.|
+| DEFAULT_EXCEPT_BORDERS | Es funktioniert wie das Verhalten „Alle außer Ränder“ von MS Excel.|
+| COLUMN_WIDTHS | Kopiert nur die Breiten des Bereichs.|
 | ROW_HEIGHTS | Kopiert nur die Höhen des Bereichs.|
 | COMMENTS |  |
 | FORMATS |  |
@@ -35,4 +35,4 @@ Der Typ PasteType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

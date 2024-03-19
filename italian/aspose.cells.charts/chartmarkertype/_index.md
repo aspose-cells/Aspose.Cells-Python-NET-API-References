@@ -1,31 +1,31 @@
 ---
-title: ChartMarkerType enumerazione
+title: Enumerazione ChartMarkerType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 420
+weight: 430
 url: /it/aspose.cells.charts/chartmarkertype/
 is_root: false
 ---
-##  ChartMarkerType enumerazione
-Rappresenta lo stile dell'indicatore in un grafico a linee, a dispersione o radar.
+##  Enumerazione ChartMarkerType
+Rappresenta lo stile dell'indicatore in un grafico a linee, a dispersione o a radar.
 
 
 
-Il tipo ChartMarkerType espone i membri seguenti:
+Il tipo ChartMarkerType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | AUTOMATIC | Marcatori automatici.|
-| CIRCLE | Marcatori circolari.|
+| CIRCLE | Segnali circolari.|
 | DASH | Indicatori a barra lunga|
-| DIAMOND | Marcatori a forma di diamante.|
-| DOT | Marcatori a barra corta.|
+| DIAMOND | Indici a forma di diamante.|
+| DOT | Indicatori di barra corta.|
 | NONE | Nessun marcatore.|
-| SQUARE_PLUS | Marcatori quadrati con un segno più.|
+| SQUARE_PLUS | Indicatori quadrati con un segno più.|
 | SQUARE | Indicatori quadrati.|
-| SQUARE_STAR | Marcatori quadrati con un asterisco.|
+| SQUARE_STAR | Indicatori quadrati con un asterisco.|
 | TRIANGLE | Indicatori triangolari.|
 | SQUARE_X | Indicatori quadrati con una X.|
 | PICTURE | Immagine|
@@ -33,4 +33,4 @@ Il tipo ChartMarkerType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
+* modulo [`aspose.cells.charts`](..)

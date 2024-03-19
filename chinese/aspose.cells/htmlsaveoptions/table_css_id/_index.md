@@ -1,15 +1,15 @@
 ---
-title: table_css_id 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: table_css_id属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 610
+weight: 680
 url: /zh/aspose.cells/htmlsaveoptions/table_css_id/
 is_root: false
 ---
-## table_css_id 属性
+## table_css_id属性
 
-获取和设置类型css名称的前缀，如tr,col,td等，它们包含在table元素中
+获取和设置类型css名称的前缀，例如tr，col，td等，它们包含在表格元素中
 它具有特定的 TableCssId 属性。默认值为“”。
 ### 定义：
 ```python
@@ -22,5 +22,5 @@ def table_css_id(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlSaveOptions](/cells/python-net/zh/aspose.cells/htmlsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlSaveOptions`](/cells/python-net/zh/aspose.cells/htmlsaveoptions)

@@ -3,7 +3,7 @@ title: tick_label_spacing propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 380
+weight: 390
 url: /fr/aspose.cells.charts/axis/tick_label_spacing/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Représente le nombre de catégories ou de séries entre les étiquettes de grad
 
 ###  Remarques
 
-Le nombre doit être compris entre 1 et 31999.
+Le numéro doit être compris entre 1 et 31999.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def tick_label_spacing(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/fr/aspose.cells.charts/axis)
+* module [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/fr/aspose.cells.charts/axis)

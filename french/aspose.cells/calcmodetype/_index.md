@@ -1,14 +1,14 @@
 ---
-title: CalcModeType dénombrement
+title: CalcModeType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1810
+weight: 1880
 url: /fr/aspose.cells/calcmodetype/
 is_root: false
 ---
-##  CalcModeType dénombrement
-Représente le type de mode de calcul des formules.
+##  CalcModeType énumération
+Représente le type de mode des formules de calcul.
 
 
 
@@ -25,7 +25,7 @@ Le type CalcModeType expose les membres suivants :
 
 ###  Remarques
 
-Seuls les ensembles pour MS Excel.
+Ensembles uniquement pour MS Excel.
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

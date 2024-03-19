@@ -3,17 +3,17 @@ title: intersect yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 120
 url: /tr/aspose.cells/range/intersect/
 is_root: false
 ---
-##  intersect(range) {#Range}
-İki aralığın dikdörtgen kesişimini temsil eden bir [Range](/cells/python-net/tr/aspose.cells/range) nesnesi döndürür.
+##  intersect {#aspose.cells.Range}
+İki aralığın dikdörtgen kesişimini temsil eden [`Range`](/cells/python-net/tr/aspose.cells/range) nesnesini döndürür.
 
 
 ###  İadeler
 
-[Range](/cells/python-net/tr/aspose.cells/range) nesnesini döndürür
+[`Range`](/cells/python-net/tr/aspose.cells/range) nesnesini döndürür
 
 
 ```python
@@ -24,10 +24,10 @@ def intersect(self, range):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/tr/aspose.cells/range) | kesişen aralık.|
+| range | [`Range`](/cells/python-net/tr/aspose.cells/range) | Kesişen aralık.|
 ###  Notlar
 
-İki aralık kesişmezse, null değerini döndürür.
+İki aralık kesişmiyorsa null değerini döndürür.
 ###  Örnek
 
 
@@ -50,5 +50,5 @@ workbook.save("book1.xlsm")
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
+* modül [`aspose.cells`](../../)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)

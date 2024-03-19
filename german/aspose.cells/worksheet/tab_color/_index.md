@@ -3,13 +3,13 @@ title: tab_color Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 790
+weight: 810
 url: /de/aspose.cells/worksheet/tab_color/
 is_root: false
 ---
 ##  tab_color Eigentum
 
-Stellt die Farbe der Arbeitsblatt-Registerkarte dar.
+Stellt die Farbe der Arbeitsblattregisterkarte dar.
 
 ###  Bemerkungen
 
@@ -26,5 +26,5 @@ def tab_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Worksheet](/cells/python-net/de/aspose.cells/worksheet)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

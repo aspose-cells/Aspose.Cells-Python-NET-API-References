@@ -1,15 +1,15 @@
 ---
-title: cell_watches الملكية
+title: cell_watches عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 390
 url: /ar/aspose.cells/worksheet/cell_watches/
 is_root: false
 ---
-##  cell_watches الملكية
+##  cell_watches عقار
 
-الحصول على مجموعة من الخلايا في ورقة العمل هذه تتم مشاهدتها في "نافذة المراقبة".
+الحصول على مجموعة من الخلايا الموجودة في ورقة العمل هذه والتي تتم مشاهدتها في "نافذة المراقبة".
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def cell_watches(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellWatchCollection](/cells/python-net/ar/aspose.cells/cellwatchcollection)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellWatchCollection`](/cells/python-net/ar/aspose.cells/cellwatchcollection)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

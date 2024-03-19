@@ -1,17 +1,17 @@
 ---
 title: import_custom_objects方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 640
+weight: 630
 url: /zh/aspose.cells/cells/import_custom_objects/
 is_root: false
 ---
-##  import_custom_objects(list, first_row, first_column, options) {#list-int-int-ImportTableOptions}
+##  import_custom_objects {#list-int-int-aspose.cells.ImportTableOptions}
 导入自定义对象。
 
 
-### 返回
+### 退货
 
 导入的总行数。
 
@@ -27,17 +27,17 @@ def import_custom_objects(self, list, first_row, first_column, options):
 | list | list |自定义对象|
 | first_row | int |要导入的第一个单元格的行号。|
 | first_column | int |要导入的第一个单元格的列号。|
-| options | [ImportTableOptions](/cells/python-net/zh/aspose.cells/importtableoptions) |导入选项。|
+| options | [`ImportTableOptions`](/cells/python-net/zh/aspose.cells/importtableoptions) |导入选项。|
 ### 评论
 
 自定义对象应该是同一类型。
 
-##  import_custom_objects(list, property_names, is_property_name_shown, first_row, first_column, row_number, insert_rows, date_format_string, convert_string_to_number) {#list-list-bool-int-int-int-bool-str-bool}
+##  import_custom_objects {#list-list-bool-int-int-int-bool-str-bool}
 
 导入自定义对象。
 
 
-### 返回
+### 退货
 
 导入的总行数。
 
@@ -58,7 +58,7 @@ def import_custom_objects(self, list, property_names, is_property_name_shown, fi
 | row_number | int |要导入的行数。|
 | insert_rows | bool |指示是否添加额外的行以适合数据。|
 | date_format_string | str |单元格的日期格式字符串。|
-| convert_string_to_number | bool |指示此方法是否将尝试将字符串转换为数字。|
+| convert_string_to_number | bool |指示此方法是否尝试将字符串转换为数字。|
 ### 评论
 
 自定义对象应该是同一类型。
@@ -66,5 +66,5 @@ def import_custom_objects(self, list, property_names, is_property_name_shown, fi
 
 ### 也可以看看
 
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

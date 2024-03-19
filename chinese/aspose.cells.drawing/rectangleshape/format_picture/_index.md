@@ -1,13 +1,13 @@
 ---
-title: format_picture 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: format_picture属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 370
+weight: 380
 url: /zh/aspose.cells.drawing/rectangleshape/format_picture/
 is_root: false
 ---
-## format_picture 属性
+## format_picture属性
 
 获取和设置图片格式选项。
 
@@ -26,6 +26,6 @@ def format_picture(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [MsoFormatPicture](/cells/python-net/zh/aspose.cells.drawing/msoformatpicture)
-* 类 [RectangleShape](/cells/python-net/zh/aspose.cells.drawing/rectangleshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`MsoFormatPicture`](/cells/python-net/zh/aspose.cells.drawing/msoformatpicture)
+* 类 [`RectangleShape`](/cells/python-net/zh/aspose.cells.drawing/rectangleshape)

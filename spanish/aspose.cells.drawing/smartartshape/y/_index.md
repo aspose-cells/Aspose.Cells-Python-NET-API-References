@@ -3,7 +3,7 @@ title: y propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /es/aspose.cells.drawing/smartartshape/y/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [SmartArtShape](/cells/python-net/es/aspose.cells.drawing/smartartshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`SmartArtShape`](/cells/python-net/es/aspose.cells.drawing/smartartshape)

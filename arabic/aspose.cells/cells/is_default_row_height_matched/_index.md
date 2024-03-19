@@ -1,15 +1,15 @@
 ---
-title: is_default_row_height_matched الملكية
+title: is_default_row_height_matched عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1060
+weight: 1050
 url: /ar/aspose.cells/cells/is_default_row_height_matched/
 is_root: false
 ---
-##  is_default_row_height_matched الملكية
+##  is_default_row_height_matched عقار
 
-يشير إلى تطابق ارتفاع الصف وارتفاع الخط الافتراضي
+يشير إلى تطابق ارتفاع الصف مع ارتفاع الخط الافتراضي
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_default_row_height_matched(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

@@ -1,15 +1,15 @@
 ---
-title: custom_document_properties الملكية
+title: custom_document_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 490
+weight: 500
 url: /ar/aspose.cells/workbook/custom_document_properties/
 is_root: false
 ---
-##  custom_document_properties الملكية
+##  custom_document_properties عقار
 
-تقوم بارجاع مجموعة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كل خصائص الوثيقة المهيأة للجدول الحسابي.
+تقوم بإرجاع مجموعة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كافة خصائص المستند المخصصة لجدول البيانات.
 
 ###  مثال
 
@@ -28,7 +28,7 @@ def custom_document_properties(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CustomDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)
-* فئة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CustomDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)
+* فئة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

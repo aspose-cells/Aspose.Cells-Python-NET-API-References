@@ -1,5 +1,5 @@
 ---
-title: delete_redundant_spaces الملكية
+title: delete_redundant_spaces عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,10 @@ weight: 140
 url: /ar/aspose.cells/htmlloadoptions/delete_redundant_spaces/
 is_root: false
 ---
-##  delete_redundant_spaces الملكية
+##  delete_redundant_spaces عقار
 
- الإشارة إلى ما إذا كان سيتم حذف المسافات الزائدة عند التفاف النص على الأسطر أم لا<br>العلامة ، القيمة الافتراضية هي false.
+يشير إلى ما إذا كان سيتم حذف المسافات الزائدة عند التفاف النص للأسطر باستخدام علامة `<br>`.
+القيمة الافتراضية هي كاذبة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +22,5 @@ def delete_redundant_spaces(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlLoadOptions](/cells/python-net/ar/aspose.cells/htmlloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlLoadOptions`](/cells/python-net/ar/aspose.cells/htmlloadoptions)

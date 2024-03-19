@@ -7,7 +7,7 @@ weight: 70
 url: /tr/aspose.cells/cellshelper/convert_a1_formula_to_r1c1/
 is_root: false
 ---
-##  convert_a1_formula_to_r1c1(formula, row, column) {#str-int-int}
+##  convert_a1_formula_to_r1c1 {#str-int-int}
 Hücrenin A1 formülünü r1c1 formülüne dönüştürür.
 
 
@@ -27,9 +27,13 @@ def convert_a1_formula_to_r1c1(self, formula, row, column):
 | formula | str | A1 formülü.|
 | row | int | Hücrenin satır dizini.|
 | column | int | Hücrenin sütun dizini.|
+###  Notlar
 
+NOT: Bu üye artık kullanılmıyor. Bunun yerine lütfen Worksheet.ConvertFormulaReferenceStyle() yöntemini kullanın.
+ Bu mülk, Ağustos 2023'ten 12 ay sonra kaldırılacaktır.
+Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsHelper](/cells/python-net/tr/aspose.cells/cellshelper)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsHelper`](/cells/python-net/tr/aspose.cells/cellshelper)

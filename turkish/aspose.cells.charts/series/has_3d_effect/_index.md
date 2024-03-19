@@ -3,14 +3,14 @@ title: has_3d_effect mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 190
+weight: 180
 url: /tr/aspose.cells.charts/series/has_3d_effect/
 is_root: false
 ---
 ##  has_3d_effect mülk
 
  Serinin üç boyutlu bir görünümü varsa doğrudur.
-Yalnızca kabarcık grafikler için geçerlidir.
+Yalnızca kabarcık grafikleri için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def has_3d_effect(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

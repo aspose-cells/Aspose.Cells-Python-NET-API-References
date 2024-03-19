@@ -3,13 +3,13 @@ title: export_as_html_string mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 60
 url: /tr/aspose.cells/exporttableoptions/export_as_html_string/
 is_root: false
 ---
 ##  export_as_html_string mülk
 
-Hücrelerin html dizesi değerini DataTable'a verir.
+Hücrelerin html dize değerini DataTable'a aktarır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_as_html_string(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExportTableOptions](/cells/python-net/tr/aspose.cells/exporttableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ExportTableOptions`](/cells/python-net/tr/aspose.cells/exporttableoptions)

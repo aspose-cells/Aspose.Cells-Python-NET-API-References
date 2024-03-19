@@ -3,13 +3,13 @@ title: custom_document_properties Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 490
+weight: 500
 url: /de/aspose.cells/workbook/custom_document_properties/
 is_root: false
 ---
 ##  custom_document_properties Eigentum
 
-Gibt eine [DocumentProperty](/cells/python-net/de/aspose.cells.properties/documentproperty)-Sammlung zurück, die alle benutzerdefinierten Dokumenteigenschaften der Tabelle darstellt.
+Gibt eine [`DocumentProperty`](/cells/python-net/de/aspose.cells.properties/documentproperty)-Sammlung zurück, die alle benutzerdefinierten Dokumenteigenschaften der Tabelle darstellt.
 
 ###  Beispiel
 
@@ -28,7 +28,7 @@ def custom_document_properties(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CustomDocumentPropertyCollection](/cells/python-net/de/aspose.cells.properties/customdocumentpropertycollection)
-* Klasse [DocumentProperty](/cells/python-net/de/aspose.cells.properties/documentproperty)
-* Klasse [Workbook](/cells/python-net/de/aspose.cells/workbook)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CustomDocumentPropertyCollection`](/cells/python-net/de/aspose.cells.properties/customdocumentpropertycollection)
+* Klasse [`DocumentProperty`](/cells/python-net/de/aspose.cells.properties/documentproperty)
+* Klasse [`Workbook`](/cells/python-net/de/aspose.cells/workbook)

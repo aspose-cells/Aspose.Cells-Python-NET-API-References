@@ -3,7 +3,7 @@ title: show_compact propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 530
+weight: 570
 url: /es/aspose.cells.pivot/pivotfield/show_compact/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_compact(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotField](/cells/python-net/es/aspose.cells.pivot/pivotfield)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotField`](/cells/python-net/es/aspose.cells.pivot/pivotfield)

@@ -3,7 +3,7 @@ title: has_series_lines fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 230
 url: /sv/aspose.cells.charts/series/has_series_lines/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def has_series_lines(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

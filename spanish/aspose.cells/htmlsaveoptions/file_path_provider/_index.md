@@ -3,13 +3,13 @@ title: file_path_provider propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 380
+weight: 400
 url: /es/aspose.cells/htmlsaveoptions/file_path_provider/
 is_root: false
 ---
 ##  file_path_provider propiedad
 
-Obtiene o establece el IFilePathProvider para exportar la hoja de trabajo a html por separado.
+Obtiene o establece IFilePathProvider para exportar la hoja de trabajo a HTML por separado.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def file_path_provider(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HtmlSaveOptions](/cells/python-net/es/aspose.cells/htmlsaveoptions)
-* clase [IFilePathProvider](/cells/python-net/es/aspose.cells/ifilepathprovider)
+* módulo [`aspose.cells`](../../)
+* clase [`HtmlSaveOptions`](/cells/python-net/es/aspose.cells/htmlsaveoptions)
+* clase [`IFilePathProvider`](/cells/python-net/es/aspose.cells/ifilepathprovider)

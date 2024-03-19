@@ -7,8 +7,8 @@ weight: 200
 url: /tr/aspose.cells.pivot/pivottable/set_auto_group_field/
 is_root: false
 ---
-##  set_auto_group_field(base_field_index) {#int}
-PivotTable tarafından otomatik alan grubunu ayarlar.
+##  set_auto_group_field {#int}
+PivotTable'a göre otomatik alan grubunu ayarlar.
 
 
 
@@ -20,11 +20,17 @@ def set_auto_group_field(self, base_field_index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| base_field_index | int | Temel alanlardaki satır veya sütun alanı dizini|
+| base_field_index | int |  |
+###  Notlar
 
+Temel alanlardaki satır veya sütun alanı dizini
+ NOT: Bu yöntem artık geçerliliğini yitirmiştir. Yerine,
+lütfen PivotField.GroupBy() yöntemini kullanın.
+ Bu yöntem Ekim 2023'ten 12 ay sonra kaldırılacaktır.
+Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
 
-##  set_auto_group_field(pivot_field) {#PivotField}
-PivotTable tarafından otomatik alan grubunu ayarlar.
+##  set_auto_group_field {#aspose.cells.pivot.PivotField}
+PivotTable'a göre otomatik alan grubunu ayarlar.
 
 
 
@@ -36,10 +42,15 @@ def set_auto_group_field(self, pivot_field):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| pivot_field | [PivotField](/cells/python-net/tr/aspose.cells.pivot/pivotfield) | Belirli alanlardaki satır veya sütun alanı|
+| pivot_field | [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield) | Belirli alanlardaki satır veya sütun alanı|
+###  Notlar
 
+NOT: Bu yöntem artık geçerliliğini yitirmiştir. Yerine,
+lütfen PivotField.GroupBy() yöntemini kullanın.
+ Bu yöntem Ekim 2023'ten 12 ay sonra kaldırılacaktır.
+Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

@@ -3,17 +3,17 @@ title: lower_delta_y proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 750
+weight: 760
 url: /it/aspose.cells.drawing/shape/lower_delta_y/
 is_root: false
 ---
 ##  lower_delta_y proprietà
 
-Ottiene o imposta l'offset verticale della forma rispetto alla riga dell'angolo inferiore destro.
+Ottiene o imposta l'offset verticale della forma dalla riga dell'angolo inferiore destro.
 
 ###  Osservazioni
 
-L'intervallo di valori va da 0 a 256.
+L'intervallo di valori è compreso tra 0 e 256.
 
 ###  Esempio
 
@@ -34,5 +34,5 @@ def lower_delta_y(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Shape](/cells/python-net/it/aspose.cells.drawing/shape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Shape`](/cells/python-net/it/aspose.cells.drawing/shape)

@@ -3,7 +3,7 @@ title: HeaderFooterCommandType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2130
+weight: 2200
 url: /es/aspose.cells/headerfootercommandtype/
 is_root: false
 ---
@@ -24,10 +24,10 @@ El tipo HeaderFooterCommandType expone los siguientes miembros:
 | CURRENT_TIME | Tiempo actual|
 | SHEET_NAME | Nombre de la hoja|
 | FILE_NAME | Nombre de archivo sin ruta|
-| FILE_PATH | Ruta de archivo sin nombre de archivo|
+| FILE_PATH | Ruta del archivo sin nombre de archivo|
 | PICTURE | Imagen|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

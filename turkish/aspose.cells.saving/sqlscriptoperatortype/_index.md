@@ -3,7 +3,7 @@ title: SqlScriptOperatorType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 30
+weight: 40
 url: /tr/aspose.cells.saving/sqlscriptoperatortype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-SqlScriptOperatorType türü aşağıdaki üyeleri gösterir:
+SqlScriptOperatorType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| INSERT | Verileri girin.|
+| INSERT | Veri ekleyin.|
 | UPDATE | Veriyi güncelle.|
 | DELETE | Verileri silin.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.saving](..)
+* modül [`aspose.cells.saving`](..)

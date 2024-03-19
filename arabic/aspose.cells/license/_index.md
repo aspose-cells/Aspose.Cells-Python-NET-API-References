@@ -1,41 +1,41 @@
 ---
-title: License الدرجة
+title: License صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 980
+weight: 1020
 url: /ar/aspose.cells/license/
 is_root: false
 ---
-##  License الدرجة
-يوفر طرقًا لترخيص المكون.
+##  License صف
+يوفر أساليب لترخيص المكون.
 
 
 
-يكشف نوع License الأعضاء التالية:
+يكشف النوع License عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [License()](/cells/python-net/ar/aspose.cells/license/__init__/#) | تهيئة مثيل جديد من هذه الفئة.|
+| [__init__](/cells/python-net/ar/aspose.cells/license/__init__/#) | تهيئة مثيل جديد من هذه الفئة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [set_license(license_name)](/cells/python-net/ar/aspose.cells/license/set_license/#str) | تراخيص المكون.|
-| [set_license(stream)](/cells/python-net/ar/aspose.cells/license/set_license/#io.RawIOBase) | تراخيص المكون.|
+| [set_license](/cells/python-net/ar/aspose.cells/license/set_license/#str) | ترخيص المكون.|
+| [set_license](/cells/python-net/ar/aspose.cells/license/set_license/#io.RawIOBase) | ترخيص المكون.|
 
 
 
 ###  مثال
 
-في هذا المثال ، سيتم إجراء محاولة للعثور على ملف ترخيص باسم MyLicense.lic
- في المجلد الذي يحتوي على
+في هذا المثال، سيتم إجراء محاولة للعثور على ملف الترخيص المسمى MyLicense.lic
+ في المجلد الذي يحتوي
 
 
-المكون ، في المجلد الذي يحتوي على التجميع المتصل ،
-في مجلد تجميع الإدخال ثم في الموارد المضمنة للتجميع المتصل.
+المكون الموجود في المجلد الذي يحتوي على مجموعة الاستدعاء،
+في مجلد مجموعة الإدخال ثم في الموارد المضمنة لمجموعة الاستدعاء.
 
 ```python
 from aspose.cells import License
@@ -46,4 +46,4 @@ license.set_license("MyLicense.lic")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -1,18 +1,18 @@
 ---
-title: العد HeaderFooterCommandType
+title: HeaderFooterCommandType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2130
+weight: 2200
 url: /ar/aspose.cells/headerfootercommandtype/
 is_root: false
 ---
-##  العد HeaderFooterCommandType
-يمثل نوع الأمر الخاص بالرأس والتذييل.
+##  HeaderFooterCommandType التعداد
+يمثل نوع أمر الرأس والتذييل.
 
 
 
-يكشف نوع HeaderFooterCommandType الأعضاء التالية:
+يكشف النوع HeaderFooterCommandType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -30,4 +30,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -1,24 +1,24 @@
 ---
-title: ColorType enumerazione
+title: Enumerazione ColorType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1860
+weight: 1930
 url: /it/aspose.cells/colortype/
 is_root: false
 ---
-##  ColorType enumerazione
+##  Enumerazione ColorType
 Rappresenta tutti i tipi di colore
 
 
 
-Il tipo ColorType espone i membri seguenti:
+Il tipo ColorType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | AUTOMATIC | Colore automatico.|
-| AUTOMATIC_INDEX | È il colore automatico, ma il colore visualizzato dipende dall'impostazione del sistema operativo.|
+| AUTOMATIC_INDEX | È un colore automatico, ma il colore visualizzato dipende dall'impostazione del sistema operativo.|
 | RGB | Il colore RGB.|
 | INDEXED_COLOR | L'indice dei colori nella tavolozza dei colori.|
 | THEME | Il colore del tema.|
@@ -26,4 +26,4 @@ Il tipo ColorType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

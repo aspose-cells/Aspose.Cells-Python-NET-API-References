@@ -1,31 +1,31 @@
 ---
-title: CellsDataTableFactory الدرجة
+title: CellsDataTableFactory صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 210
 url: /ar/aspose.cells/cellsdatatablefactory/
 is_root: false
 ---
-##  CellsDataTableFactory الدرجة
-أداة لبناء ICellsDataTable من كائنات مخصصة لراحة المستخدم.
+##  CellsDataTableFactory صف
+أداة مساعدة لبناء ICellsDataTable من كائنات مخصصة لراحة المستخدم.
 
 
 
-يكشف نوع CellsDataTableFactory الأعضاء التالية:
+يكشف النوع CellsDataTableFactory عن الأعضاء التاليين:
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_instance(vals, column_names)](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-list) | يقوم بإنشاء ICellsDataTable من تسلسل محدد لقيم int.|
-| [get_instance(vals, vertial)](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) | يقوم بإنشاء ICellsDataTable من تسلسل محدد لقيم int.|
-| [get_instance(vals, column_names)](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-list) | يقوم بإنشاء ICellsDataTable من تسلسل معين من القيم المزدوجة.|
-| [get_instance(vals, vertial)](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) | يقوم بإنشاء ICellsDataTable من تسلسل معين من القيم المزدوجة.|
-| [get_instance(vals, column_names)](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-list) |يقوم بإنشاء ICellsDataTable من تسلسل محدد للكائنات.|
-| [get_instance(vals, vertial)](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) |يقوم بإنشاء ICellsDataTable من تسلسل محدد للكائنات.|
-| [get_instance(collection)](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list) | يقوم بإنشاء ICellsDataTable من مجموعة معينة.|
+| [get_instance](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-list) | ينشئ ICellsDataTable من تسلسل محدد لقيم int.|
+| [get_instance](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) | ينشئ ICellsDataTable من تسلسل محدد لقيم int.|
+| [get_instance](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-list) | ينشئ ICellsDataTable من تسلسل معين من القيم المزدوجة.|
+| [get_instance](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) | ينشئ ICellsDataTable من تسلسل معين من القيم المزدوجة.|
+| [get_instance](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-list) | ينشئ ICellsDataTable من تسلسل محدد للكائنات.|
+| [get_instance](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) | ينشئ ICellsDataTable من تسلسل محدد للكائنات.|
+| [get_instance](/cells/python-net/ar/aspose.cells/cellsdatatablefactory/get_instance/#list) | ينشئ ICellsDataTable من مجموعة معينة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

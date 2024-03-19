@@ -3,7 +3,7 @@ title: Comment klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 290
 url: /sv/aspose.cells/comment/
 is_root: false
 ---
@@ -25,12 +25,12 @@ Typen Comment avslöjar följande medlemmar:
 | [threaded_comments](/cells/python-net/sv/aspose.cells/comment/threaded_comments) | Hämtar listan med trådade kommentarer;|
 | [note](/cells/python-net/sv/aspose.cells/comment/note) | Representerar innehållet i kommentaren.|
 | [html_note](/cells/python-net/sv/aspose.cells/comment/html_note) | Hämtar och ställer in html-strängen som innehåller data och vissa format i denna kommentar.|
-| [font](/cells/python-net/sv/aspose.cells/comment/font) | Får typsnittet kommentar.|
+| [font](/cells/python-net/sv/aspose.cells/comment/font) | Får typsnittet för kommentar.|
 | [is_visible](/cells/python-net/sv/aspose.cells/comment/is_visible) | Representerar om kommentaren är synlig eller inte.|
 | [text_orientation_type](/cells/python-net/sv/aspose.cells/comment/text_orientation_type) | Hämtar och ställer in textorienteringstypen för kommentaren.|
-| [text_horizontal_alignment](/cells/python-net/sv/aspose.cells/comment/text_horizontal_alignment) | Hämtar och ställer in textens horisontella justering av kommentaren.|
+| [text_horizontal_alignment](/cells/python-net/sv/aspose.cells/comment/text_horizontal_alignment) |Hämtar och ställer in textens horisontella justering av kommentaren.|
 | [text_vertical_alignment](/cells/python-net/sv/aspose.cells/comment/text_vertical_alignment) | Hämtar och ställer in den vertikala textjusteringstypen för kommentaren.|
-| [auto_size](/cells/python-net/sv/aspose.cells/comment/auto_size) |Indikerar om storleken på kommentaren justeras automatiskt efter dess innehåll.|
+| [auto_size](/cells/python-net/sv/aspose.cells/comment/auto_size) | Indikerar om storleken på kommentaren justeras automatiskt efter dess innehåll.|
 | [height_cm](/cells/python-net/sv/aspose.cells/comment/height_cm) | Representerar höjden på kommentaren, i centimeterenhet.|
 | [width_cm](/cells/python-net/sv/aspose.cells/comment/width_cm) | Representerar bredden på kommentaren, i centimeterenhet.|
 | [width](/cells/python-net/sv/aspose.cells/comment/width) | Representerar bredden på kommentaren, i pixelenhet.|
@@ -42,11 +42,12 @@ Typen Comment avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [format_characters(start_index, length, font, flag)](/cells/python-net/sv/aspose.cells/comment/format_characters/#int-int-Font-StyleFlag) | Formatera några tecken med teckensnittsinställningen.|
-| [characters(start_index, length)](/cells/python-net/sv/aspose.cells/comment/characters/#int-int) | Returnerar ett teckenobjekt som representerar ett antal tecken i kommentarstexten.|
-| [get_characters()](/cells/python-net/sv/aspose.cells/comment/get_characters/#) | Returnerar alla teckenobjekt<br/> som representerar ett antal tecken i kommentarstexten.|
+| [format_characters](/cells/python-net/sv/aspose.cells/comment/format_characters/#int-int-aspose.cells.Font-aspose.cells.StyleFlag) | Formatera några tecken med teckensnittsinställningen.|
+| [characters](/cells/python-net/sv/aspose.cells/comment/characters/#int-int) | Returnerar ett teckenobjekt som representerar ett antal tecken i kommentarstexten.|
+| [get_characters](/cells/python-net/sv/aspose.cells/comment/get_characters/#) | Returnerar alla teckenobjekt<br/> som representerar ett antal tecken i kommentarstexten.|
+| [get_rich_formattings](/cells/python-net/sv/aspose.cells/comment/get_rich_formattings/#) | Returnerar alla teckenobjekt<br/> som representerar ett antal tecken i kommentarstexten.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: CrossType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 470
 url: /sv/aspose.cells.charts/crosstype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen CrossType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

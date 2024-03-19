@@ -7,13 +7,13 @@ weight: 30
 url: /ar/aspose.cells.charts/seriescollection/add_r1c1/
 is_root: false
 ---
-##  add_r1c1(area, is_vertical) {#str-bool}
-اضافة مجموعة [SeriesCollection](/cells/python-net/ar/aspose.cells.charts/seriescollection) الى مخطط.
+##  add_r1c1 {#str-bool}
+إضافة مجموعة [`Series`](/cells/python-net/ar/aspose.cells.charts/series) إلى المخطط.
 
 
 ###  عائدات
 
-قم بإرجاع الفهرس الأول لـ ASeries المضافة في NSeries.
+قم بإرجاع الفهرس الأول لسلسلة AS المضافة في NSeries.
 
 
 ```python
@@ -24,8 +24,8 @@ def add_r1c1(self, area, is_vertical):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| area | str | يحدد القيم التي سيتم رسم سلسلة البيانات منها|
-| is_vertical | bool | يحدد ما إذا كان سيتم رسم السلسلة من نطاق من قيم الخلايا حسب الصف أو العمود.|
+| area | str | يحدد القيم التي سيتم من خلالها رسم سلسلة البيانات|
+| is_vertical | bool |يحدد ما إذا كان سيتم رسم السلسلة من نطاق قيم الخلايا حسب الصف أو العمود.|
 ###  ملاحظات
 
 
@@ -33,5 +33,6 @@ def add_r1c1(self, area, is_vertical):
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells.charts](../../)
-* فئة [SeriesCollection](/cells/python-net/ar/aspose.cells.charts/seriescollection)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)
+* فئة [`SeriesCollection`](/cells/python-net/ar/aspose.cells.charts/seriescollection)

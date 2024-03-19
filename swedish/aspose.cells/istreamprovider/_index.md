@@ -3,7 +3,7 @@ title: IStreamProvider klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 870
+weight: 910
 url: /sv/aspose.cells/istreamprovider/
 is_root: false
 ---
@@ -17,10 +17,10 @@ Typen IStreamProvider avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [init_stream(options)](/cells/python-net/sv/aspose.cells/istreamprovider/init_stream/#StreamProviderOptions) | Får strömmen.|
-| [close_stream(options)](/cells/python-net/sv/aspose.cells/istreamprovider/close_stream/#StreamProviderOptions) | Stänger strömmen.|
+| [init_stream](/cells/python-net/sv/aspose.cells/istreamprovider/init_stream/#aspose.cells.StreamProviderOptions) | Får strömmen.|
+| [close_stream](/cells/python-net/sv/aspose.cells/istreamprovider/close_stream/#aspose.cells.StreamProviderOptions) | Stänger strömmen.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

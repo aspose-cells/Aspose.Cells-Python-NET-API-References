@@ -1,14 +1,14 @@
 ---
-title: set_row_height_pixel método
+title: método set_row_height_pixel
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 890
+weight: 880
 url: /es/aspose.cells/cells/set_row_height_pixel/
 is_root: false
 ---
-##  set_row_height_pixel(row, pixels) {#int-int}
-Establece la altura de fila en unidades de píxeles.
+##  set_row_height_pixel {#int-int}
+Establece la altura de la fila en unidades de píxeles.
 
 
 
@@ -26,5 +26,5 @@ def set_row_height_pixel(self, row, pixels):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

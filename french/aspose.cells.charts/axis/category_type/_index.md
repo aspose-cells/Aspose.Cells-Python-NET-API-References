@@ -3,13 +3,13 @@ title: category_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 100
 url: /fr/aspose.cells.charts/axis/category_type/
 is_root: false
 ---
 ##  category_type propriété
 
-Représente le type d'axe de catégorie.
+Représente le type d’axe de catégorie.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def category_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/fr/aspose.cells.charts/axis)
-* classe [CategoryType](/cells/python-net/fr/aspose.cells.charts/categorytype)
+* module [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/fr/aspose.cells.charts/axis)
+* classe [`CategoryType`](/cells/python-net/fr/aspose.cells.charts/categorytype)

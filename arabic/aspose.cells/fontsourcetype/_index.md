@@ -1,27 +1,27 @@
 ---
-title: العد FontSourceType
+title: FontSourceType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2080
+weight: 2150
 url: /ar/aspose.cells/fontsourcetype/
 is_root: false
 ---
-##  العد FontSourceType
+##  FontSourceType التعداد
 يحدد نوع مصدر الخط.
 
 
 
-يكشف نوع FontSourceType الأعضاء التالية:
+يكشف النوع FontSourceType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | FONT_FILE | يمثل ملف خط واحد.|
-| FONTS_FOLDER | يمثل المجلد مع ملفات الخط.|
+| FONTS_FOLDER | يمثل مجلدًا يحتوي على ملفات الخطوط.|
 | MEMORY_FONT | يمثل خطًا واحدًا في الذاكرة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

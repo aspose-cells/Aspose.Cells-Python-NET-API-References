@@ -3,13 +3,13 @@ title: title propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /fr/aspose.cells.drawing/listbox/title/
 is_root: false
 ---
 ##  title propriété
 
-Spécifie le title (légende) de l'objet forme actuel.
+Spécifie le title (légende) de l'objet de forme actuel.
 
 ###  Exemple
 
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ListBox](/cells/python-net/fr/aspose.cells.drawing/listbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ListBox`](/cells/python-net/fr/aspose.cells.drawing/listbox)

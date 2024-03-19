@@ -3,24 +3,24 @@ title: AutoFitWrappedTextType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1770
+weight: 1840
 url: /tr/aspose.cells/autofitwrappedtexttype/
 is_root: false
 ---
 ##  AutoFitWrappedTextType numaralandırma
-Sarılmış metnin otomatik sığdırma türünü temsil eder.
+Otomatik sığdırılan sarılmış metnin türünü temsil eder.
 
 
 
-AutoFitWrappedTextType türü aşağıdaki üyeleri gösterir:
+AutoFitWrappedTextType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | DEFAULT | MS Excel olarak çalışır.|
-| PARAGRAPH | Genişliği en uzun paragrafla otomatik sığdır.|
+| PARAGRAPH | Genişliği en uzun paragrafa otomatik sığdır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

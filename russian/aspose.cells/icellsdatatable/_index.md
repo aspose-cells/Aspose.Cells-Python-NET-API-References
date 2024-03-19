@@ -1,9 +1,9 @@
 ---
 title: ICellsDataTable класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 810
+weight: 860
 url: /ru/aspose.cells/icellsdatatable/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип ICellsDataTable предоставляет следующие члены:
+Тип ICellsDataTable предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -26,14 +26,14 @@ is_root: false
 ###  Индексатор
 | Имя| Описание|
 | :- | :- |
-| [index] | Отсчитываемый от нуля индекс столбца.|
+| [index] | Индекс столбца, отсчитываемый от нуля.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [before_first()](/cells/python-net/ru/aspose.cells/icellsdatatable/before_first/#) | Переместите курсор к передней части этого объекта, непосредственно перед первой строкой.|
-| [next()](/cells/python-net/ru/aspose.cells/icellsdatatable/next/#) | Перемещает курсор вниз на одну строку от его текущей позиции.|
+| [before_first](/cells/python-net/ru/aspose.cells/icellsdatatable/before_first/#) | Переместите курсор в начало этого объекта, прямо перед первой строкой.|
+| [next](/cells/python-net/ru/aspose.cells/icellsdatatable/next/#) | Перемещает курсор на одну строку вниз от его текущего положения.|
 
 
 
@@ -42,4 +42,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: transition_entry fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 830
+weight: 850
 url: /sv/aspose.cells/worksheet/transition_entry/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def transition_entry(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

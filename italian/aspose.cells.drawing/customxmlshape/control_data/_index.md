@@ -3,7 +3,7 @@ title: control_data proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 310
+weight: 330
 url: /it/aspose.cells.drawing/customxmlshape/control_data/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def control_data(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CustomXmlShape](/cells/python-net/it/aspose.cells.drawing/customxmlshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CustomXmlShape`](/cells/python-net/it/aspose.cells.drawing/customxmlshape)

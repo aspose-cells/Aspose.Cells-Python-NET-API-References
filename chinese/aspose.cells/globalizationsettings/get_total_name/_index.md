@@ -1,17 +1,17 @@
 ---
 title: get_total_name方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 270
+weight: 280
 url: /zh/aspose.cells/globalizationsettings/get_total_name/
 is_root: false
 ---
-##  get_total_name(function_type) {#ConsolidationFunction}
+##  get_total_name {#aspose.cells.ConsolidationFunction}
 获取函数的总名称。
 
 
-### 返回
+### 退货
 
 函数的总名称。
 
@@ -24,10 +24,10 @@ def get_total_name(self, function_type):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| function_type | [ConsolidationFunction](/cells/python-net/zh/aspose.cells/consolidationfunction) |函数类型。|
+| function_type | [`ConsolidationFunction`](/cells/python-net/zh/aspose.cells/consolidationfunction) |函数类型。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [GlobalizationSettings](/cells/python-net/zh/aspose.cells/globalizationsettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`GlobalizationSettings`](/cells/python-net/zh/aspose.cells/globalizationsettings)

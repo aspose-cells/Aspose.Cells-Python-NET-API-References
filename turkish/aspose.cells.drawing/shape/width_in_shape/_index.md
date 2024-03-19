@@ -3,24 +3,24 @@ title: width_in_shape mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /tr/aspose.cells.drawing/shape/width_in_shape/
 is_root: false
 ---
 ##  width_in_shape mülk
 
-Ana şeklin 1/4000 biriminde şeklin genişliğini temsil eder.
+Ana şeklin 1/4000 birimi cinsinden şeklin genişliğini temsil eder.
 
 ###  Notlar
 
-Yalnızca bu şekil grup veya grafikte olduğunda geçerlidir.
+Yalnızca bu şekil grupta veya grafikte olduğunda geçerlidir.
 
 ###  Örnek
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.width_in_shape == 2000:
+    shape.width_in_shape = 4000
 
 ```
 ###  Tanım:
@@ -34,5 +34,5 @@ def width_in_shape(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Shape](/cells/python-net/tr/aspose.cells.drawing/shape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Shape`](/cells/python-net/tr/aspose.cells.drawing/shape)

@@ -3,7 +3,7 @@ title: TextOrientationType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2560
+weight: 2650
 url: /sv/aspose.cells/textorientationtype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen TextOrientationType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

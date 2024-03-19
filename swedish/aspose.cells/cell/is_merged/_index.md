@@ -3,7 +3,7 @@ title: is_merged fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 580
+weight: 610
 url: /sv/aspose.cells/cell/is_merged/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_merged(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

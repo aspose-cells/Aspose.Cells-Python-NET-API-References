@@ -3,7 +3,7 @@ title: text_cross_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 280
 url: /tr/aspose.cells/xpssaveoptions/text_cross_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def text_cross_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TextCrossType](/cells/python-net/tr/aspose.cells/textcrosstype)
-* sınıf [XpsSaveOptions](/cells/python-net/tr/aspose.cells/xpssaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`TextCrossType`](/cells/python-net/tr/aspose.cells/textcrosstype)
+* sınıf [`XpsSaveOptions`](/cells/python-net/tr/aspose.cells/xpssaveoptions)

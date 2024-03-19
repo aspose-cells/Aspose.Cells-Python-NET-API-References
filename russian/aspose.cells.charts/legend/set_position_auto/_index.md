@@ -1,14 +1,14 @@
 ---
 title: set_position_auto метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ru/aspose.cells.charts/legend/set_position_auto/
 is_root: false
 ---
-##  set_position_auto() {#}
-Установите положение кадра на автоматический
+##  set_position_auto {#}
+Установить положение рамки на автоматическое
 
 
 
@@ -22,5 +22,5 @@ def set_position_auto(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Legend](/cells/python-net/ru/aspose.cells.charts/legend)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Legend`](/cells/python-net/ru/aspose.cells.charts/legend)

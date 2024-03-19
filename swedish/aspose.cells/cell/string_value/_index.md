@@ -3,7 +3,7 @@ title: string_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 680
+weight: 710
 url: /sv/aspose.cells/cell/string_value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def string_value(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

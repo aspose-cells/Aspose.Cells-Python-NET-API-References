@@ -3,7 +3,7 @@ title: DisplayUnitLabel klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 140
 url: /sv/aspose.cells.charts/displayunitlabel/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Representerar displayenhetens etikett.
 
 
 
-**Arv:** [DisplayUnitLabel](/cells/python-net/aspose.cells.charts/displayunitlabel) → 
-[ChartTextFrame](/cells/python-net/aspose.cells.charts/charttextframe) → 
-[ChartFrame](/cells/python-net/sv/aspose.cells.charts/chartframe)
+**Arv:** [`DisplayUnitLabel`](/cells/python-net/aspose.cells.charts/displayunitlabel) → 
+[`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe) → 
+[`ChartFrame`](/cells/python-net/sv/aspose.cells.charts/chartframe)
 
 
 
@@ -24,21 +24,21 @@ Typen DisplayUnitLabel avslöjar följande medlemmar:
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [is_inner_mode](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/is_inner_mode) | Anger om storleken på plottytans storlek inkluderar bockmarkeringarna och axeletiketterna.<br/> False anger att storleken ska avgöra storleken på tomtområdet, bockarna och axeletiketterna.|
-| [border](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/border) | Får [Line](/cells/python-net/sv/aspose.cells.drawing/line).|
-| [area](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/area) | Får [ChartFrame.area](/cells/python-net/sv/aspose.cells.charts/chartframe#area).|
-| [text_font](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/text_font) | Hämtar ett [ChartFrame.font](/cells/python-net/sv/aspose.cells.charts/chartframe#font)-objekt av det angivna ChartFrame-objektet.|
+| [border](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/border) | Får [`Line`](/cells/python-net/sv/aspose.cells.drawing/line).|
+| [area](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/area) | Får [`ChartFrame.area`](/cells/python-net/sv/aspose.cells.charts/chartframe#area).|
+| [text_font](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/text_font) | Hämtar ett [`ChartFrame.font`](/cells/python-net/sv/aspose.cells.charts/chartframe#font)-objekt av det angivna ChartFrame-objektet.|
 | [text_options](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/text_options) | Hämtar och ställer in alternativen för texten.|
-| [font](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/font) | Hämtar ett [DisplayUnitLabel.font](/cells/python-net/sv/aspose.cells.charts/displayunitlabel#font)-objekt av det angivna ChartFrame-objektet.|
+| [font](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/font) | Hämtar ett [`DisplayUnitLabel.font`](/cells/python-net/sv/aspose.cells.charts/displayunitlabel#font)-objekt av det angivna ChartFrame-objektet.|
 | [auto_scale_font](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/auto_scale_font) | Sant om texten i objektet ändrar teckenstorlek när objektstorleken ändras. Standardvärdet är True.|
 | [background_mode](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/background_mode) | Hämtar och ställer in visningsläget för bakgrunden|
 | [background](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/background) | Hämtar och ställer in visningsläget för bakgrunden|
 | [is_automatic_size](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/is_automatic_size) | Indikerar om kartramen har automatisk storlek.|
-| [x](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/x) | Hämtar eller ställer in x-koordinaten för det övre vänstra hörnet i enheter på 1/4000 av sjökortsytan.|
-| [y](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/y) |Hämtar eller ställer in y-koordinaten för det övre vänstra hörnet i enheter på 1/4000 av sjökortsytan.|
+| [x](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/x) |Hämtar eller ställer in x-koordinaten för det övre vänstra hörnet i enheter på 1/4000 av sjökortsytan.|
+| [y](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/y) | Hämtar eller ställer in y-koordinaten för det övre vänstra hörnet i enheter på 1/4000 av sjökortsytan.|
 | [height](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/height) | Hämtar eller ställer in ramhöjden i enheter på 1/4000 av kartytan.|
 | [width](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/width) | Hämtar eller ställer in ramens bredd i enheter på 1/4000 av kartytan.|
 | [shadow](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/shadow) | Sant om ramen har en skugga.|
-| [shape_properties](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/shape_properties) | Hämtar objektet [ChartFrame.shape_properties](/cells/python-net/sv/aspose.cells.charts/chartframe#shape_properties).|
+| [shape_properties](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/shape_properties) | Hämtar objektet [`ChartFrame.shape_properties`](/cells/python-net/sv/aspose.cells.charts/chartframe#shape_properties).|
 | [is_default_pos_be_set](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/is_default_pos_be_set) | Anger om standardpositionen (DefaultX, DefaultY, DefaultWidth och DefaultHeight) är inställda.|
 | [default_x](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/default_x) | Representerar x av standardposition|
 | [default_y](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/default_y) | Representerar y för standardposition|
@@ -47,7 +47,7 @@ Typen DisplayUnitLabel avslöjar följande medlemmar:
 | [is_auto_text](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/is_auto_text) | Indikerar att texten genereras automatiskt.|
 | [is_deleted](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/is_deleted) | Indikerar om denna dataetikett är raderad.|
 | [text_horizontal_alignment](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/text_horizontal_alignment) | Hämtar och ställer in textens horisontella justering.|
-| [text_vertical_alignment](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/text_vertical_alignment) |Hämtar eller ställer in textens vertikala justering av text.|
+| [text_vertical_alignment](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/text_vertical_alignment) | Hämtar eller ställer in textens vertikala justering av text.|
 | [rotation_angle](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/rotation_angle) | Representerar textrotationsvinkel.|
 | [is_automatic_rotation](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/is_automatic_rotation) | Indikerar om texten i diagrammet roteras automatiskt.|
 | [text](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/text) | Hämtar eller ställer in texten för displayenhetens etikett.|
@@ -62,8 +62,8 @@ Typen DisplayUnitLabel avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [set_position_auto()](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/set_position_auto/#) | Ställ in ramens position på automatisk|
-| [characters(start_index, length)](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/characters/#int-int) | Returnerar ett teckenobjekt som representerar ett teckenintervall i texten.|
+| [set_position_auto](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/set_position_auto/#) | Ställ in ramens position på automatisk|
+| [characters](/cells/python-net/sv/aspose.cells.charts/displayunitlabel/characters/#int-int) | Returnerar ett teckenobjekt som representerar ett teckenintervall i texten.|
 
 
 
@@ -122,8 +122,8 @@ workbook.save("book1.xls")
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](..)
-* klass [ChartFrame](/cells/python-net/sv/aspose.cells.charts/chartframe)
-* klass [ChartTextFrame](/cells/python-net/sv/aspose.cells.charts/charttextframe)
-* klass [DisplayUnitLabel](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
+* modul [`aspose.cells.charts`](..)
+* klass [`ChartFrame`](/cells/python-net/sv/aspose.cells.charts/chartframe)
+* klass [`ChartTextFrame`](/cells/python-net/sv/aspose.cells.charts/charttextframe)
+* klass [`DisplayUnitLabel`](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)

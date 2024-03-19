@@ -1,13 +1,13 @@
 ---
-title: border_line_color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: border_line_color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 310
+weight: 330
 url: /zh/aspose.cells.drawing/picture/border_line_color/
 is_root: false
 ---
-## border_line_color 属性
+## border_line_color属性
 
 表示图片边框线的颜色。
 
@@ -41,5 +41,5 @@ def border_line_color(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Picture](/cells/python-net/zh/aspose.cells.drawing/picture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)

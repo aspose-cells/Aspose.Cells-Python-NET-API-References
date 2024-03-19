@@ -3,7 +3,7 @@ title: is_lock_aspect_ratio propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 590
+weight: 600
 url: /es/aspose.cells.drawing/button/is_lock_aspect_ratio/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def is_lock_aspect_ratio(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Button](/cells/python-net/es/aspose.cells.drawing/button)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Button`](/cells/python-net/es/aspose.cells.drawing/button)

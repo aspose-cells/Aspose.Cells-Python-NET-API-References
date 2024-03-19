@@ -3,12 +3,12 @@ title: get_panes Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 160
 url: /de/aspose.cells/worksheet/get_panes/
 is_root: false
 ---
-##  get_panes() {#}
-Ruft die Fensterscheiben ab.
+##  get_panes {#}
+Ruft die Fensterbereiche ab.
 
 
 
@@ -25,5 +25,5 @@ Wenn das Fenster nicht geteilt oder eingefroren ist.
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [Worksheet](/cells/python-net/de/aspose.cells/worksheet)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

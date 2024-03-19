@@ -3,7 +3,7 @@ title: file_format_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 410
 url: /sv/aspose.cells.drawing/oleobject/file_format_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def file_format_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FileFormatType](/cells/python-net/sv/aspose.cells/fileformattype)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FileFormatType`](/cells/python-net/sv/aspose.cells/fileformattype)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

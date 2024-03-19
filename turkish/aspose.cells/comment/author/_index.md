@@ -3,13 +3,13 @@ title: author mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 70
 url: /tr/aspose.cells/comment/author/
 is_root: false
 ---
 ##  author mülk
 
-Orijinal yorumun Adını alır ve ayarlar author
+Orijinal yorumun adını alır ve ayarlar author
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def author(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)

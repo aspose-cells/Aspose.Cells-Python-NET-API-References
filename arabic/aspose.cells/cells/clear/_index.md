@@ -7,8 +7,8 @@ weight: 90
 url: /ar/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear() {#}
-يمسح كل كائنات الخلية والصف.
+##  clear {#}
+مسح جميع بيانات ورقة العمل.
 
 
 
@@ -22,5 +22,5 @@ def clear(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

@@ -1,13 +1,13 @@
 ---
-title: metodo set_characters
+title: Metodo set_characters
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 300
+weight: 320
 url: /it/aspose.cells/cell/set_characters/
 is_root: false
 ---
-##  set_characters(characters) {#list}
+##  set_characters {#list}
 Imposta il formato RTF della cella.
 
 
@@ -25,5 +25,5 @@ def set_characters(self, characters):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

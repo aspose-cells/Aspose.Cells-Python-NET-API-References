@@ -3,13 +3,13 @@ title: line_by_line proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 90
+weight: 100
 url: /it/aspose.cells/workbookdesigner/line_by_line/
 is_root: false
 ---
 ##  line_by_line proprietà
 
-Indica se elaborare l'indicatore intelligente riga per riga.
+Indica se elaborare lo smart marker riga per riga.
 
 ###  Osservazioni
 
@@ -26,5 +26,5 @@ def line_by_line(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorkbookDesigner](/cells/python-net/it/aspose.cells/workbookdesigner)
+* modulo [`aspose.cells`](../../)
+* classe [`WorkbookDesigner`](/cells/python-net/it/aspose.cells/workbookdesigner)

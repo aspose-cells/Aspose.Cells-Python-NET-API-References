@@ -1,15 +1,15 @@
 ---
-title: chart الملكية
+title: chart عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ar/aspose.cells.drawing/chartshape/chart/
 is_root: false
 ---
-##  chart الملكية
+##  chart عقار
 
-تقوم بارجاع عنصر المخطط الذي يمثل chart المضمن في العنصر.
+تقوم بإرجاع كائن مخطط يمثل الرقم chart الموجود في الكائن.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def chart(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
-* فئة [ChartShape](/cells/python-net/ar/aspose.cells.drawing/chartshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)
+* فئة [`ChartShape`](/cells/python-net/ar/aspose.cells.drawing/chartshape)

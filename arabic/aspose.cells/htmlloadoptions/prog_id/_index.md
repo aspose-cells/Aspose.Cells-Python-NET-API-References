@@ -1,15 +1,15 @@
 ---
-title: prog_id الملكية
+title: prog_id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 340
 url: /ar/aspose.cells/htmlloadoptions/prog_id/
 is_root: false
 ---
-##  prog_id الملكية
+##  prog_id عقار
 
-يحصل على معرف البرنامج الخاص بإنشاء الملف.
+يحصل على معرف البرنامج لإنشاء الملف.
 فقط لملفات MHT.
 ###  تعريف:
 ```python
@@ -19,5 +19,5 @@ def prog_id(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlLoadOptions](/cells/python-net/ar/aspose.cells/htmlloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlLoadOptions`](/cells/python-net/ar/aspose.cells/htmlloadoptions)

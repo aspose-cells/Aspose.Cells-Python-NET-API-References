@@ -1,16 +1,16 @@
 ---
-title: show_series_name الملكية
+title: show_series_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 430
 url: /ar/aspose.cells.charts/datalabels/show_series_name/
 is_root: false
 ---
-##  show_series_name الملكية
+##  show_series_name عقار
 
-إرجاع أو تعيين قيمة منطقية للإشارة إلى سلوك عرض اسم السلسلة لتسميات البيانات على مخطط.
-صحيح أن تظهر اسم المسلسل. خطأ للاختباء.
+إرجاع قيمة منطقية أو تعيينها للإشارة إلى سلوك عرض اسم السلسلة لتسميات البيانات في المخطط.
+صحيح لإظهار اسم السلسلة. كذبة للاختباء.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def show_series_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

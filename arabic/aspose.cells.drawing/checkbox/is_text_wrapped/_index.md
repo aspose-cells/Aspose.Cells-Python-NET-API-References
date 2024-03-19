@@ -1,22 +1,22 @@
 ---
-title: is_text_wrapped الملكية
+title: is_text_wrapped عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 660
+weight: 670
 url: /ar/aspose.cells.drawing/checkbox/is_text_wrapped/
 is_root: false
 ---
-##  is_text_wrapped الملكية
+##  is_text_wrapped عقار
 
-الحصول على وتعيين نوع التفاف النص للشكل الذي يحتوي على نص.
+الحصول على نوع النص الملتف للشكل الذي يحتوي على النص وتعيينه.
 
 ###  مثال
 
 ```python
 
 if shape.is_text_wrapped:
-    shape.is_text_wrapped = !shape.is_text_wrapped
+    shape.is_text_wrapped = notshape.is_text_wrapped
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def is_text_wrapped(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CheckBox](/cells/python-net/ar/aspose.cells.drawing/checkbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CheckBox`](/cells/python-net/ar/aspose.cells.drawing/checkbox)

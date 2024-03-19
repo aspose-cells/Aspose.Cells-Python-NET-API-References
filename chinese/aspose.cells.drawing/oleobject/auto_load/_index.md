@@ -1,16 +1,16 @@
 ---
-title: auto_load 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: auto_load属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 300
+weight: 320
 url: /zh/aspose.cells.drawing/oleobject/auto_load/
 is_root: false
 ---
-## auto_load 属性
+## auto_load属性
 
-指定是否应调用嵌入对象的宿主应用程序来加载
-打开父工作簿时自动显示对象数据。
+指定是否应调用嵌入对象的主机应用程序来加载
+打开父工作簿时自动获取对象数据。
 ### 定义：
 ```python
 @property
@@ -22,5 +22,5 @@ def auto_load(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [OleObject](/cells/python-net/zh/aspose.cells.drawing/oleobject)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`OleObject`](/cells/python-net/zh/aspose.cells.drawing/oleobject)

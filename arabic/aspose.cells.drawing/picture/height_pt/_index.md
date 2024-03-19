@@ -1,13 +1,13 @@
 ---
-title: height_pt الملكية
+title: height_pt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 540
 url: /ar/aspose.cells.drawing/picture/height_pt/
 is_root: false
 ---
-##  height_pt الملكية
+##  height_pt عقار
 
 يمثل ارتفاع الشكل بوحدة النقاط.
 
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.height_pt == 3:
-    shape.height_pt = 1
+    shape.height_pt = 1.0
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def height_pt(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

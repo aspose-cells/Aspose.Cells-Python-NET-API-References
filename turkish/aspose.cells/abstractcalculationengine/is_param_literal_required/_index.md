@@ -3,18 +3,21 @@ title: is_param_literal_required mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 50
 url: /tr/aspose.cells/abstractcalculationengine/is_param_literal_required/
 is_root: false
 ---
 ##  is_param_literal_required mülk
 
-Hesaplama yaparken bu motorun parametrenin değişmez metnine ihtiyaç duyup duymadığını gösterir. Varsayılan değer yanlıştır.
+Bu motorun hesaplama yaparken parametrenin tam metnine ihtiyacı olup olmadığını gösterir. Varsayılan değer false'tur.
 
 ###  Notlar
 
-Bu özel hesaplama motoru, parametrenin değişmez metnini gerektiriyorsa, değişmez metni parametreler için önbelleğe almak için daha fazla yığın gerekir ve parametrenin değerini hesaplamak için Calculate() yöntemi yinelemeli olarak çağrılabilir.
-Formülleri hesaplamak için genellikle değişmez metin gerekli değildir ve bu yöntem, çoğu uygulamanın daha iyi performans elde etmesi için false döndürmelidir.
+Bu özel hesaplama motorunun parametrenin gerçek metnine ihtiyacı varsa,
+Parametrelerin gerçek metnini önbelleğe almak için daha fazla yığın gerekli olacaktır
+ve Calculate() yöntemi, parametrenin değerini hesaplamak için yinelemeli olarak çağrılabilir.
+Genellikle formüllerin hesaplanması için gerçek metne ihtiyaç duyulmaz
+ve çoğu uygulamanın daha iyi performans elde etmesi için bu özelliğin false olarak tutulması gerekir.
 ###  Tanım:
 ```python
 @property
@@ -23,5 +26,5 @@ def is_param_literal_required(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AbstractCalculationEngine](/cells/python-net/tr/aspose.cells/abstractcalculationengine)
+* modül [`aspose.cells`](../../)
+* sınıf [`AbstractCalculationEngine`](/cells/python-net/tr/aspose.cells/abstractcalculationengine)

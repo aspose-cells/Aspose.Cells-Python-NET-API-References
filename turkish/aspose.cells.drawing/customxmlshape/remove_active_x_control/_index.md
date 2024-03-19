@@ -3,12 +3,12 @@ title: remove_active_x_control yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 170
 url: /tr/aspose.cells.drawing/customxmlshape/remove_active_x_control/
 is_root: false
 ---
-##  remove_active_x_control() {#}
-activeX denetimini kaldırın.
+##  remove_active_x_control {#}
+ActiveX kontrolünü kaldırın.
 
 
 
@@ -23,12 +23,13 @@ def remove_active_x_control(self):
 
 ```python
 
-shape.remove_active_x_control()
+if shape.active_x_control != None:
+    shape.remove_active_x_control()
 
 ```
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CustomXmlShape](/cells/python-net/tr/aspose.cells.drawing/customxmlshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CustomXmlShape`](/cells/python-net/tr/aspose.cells.drawing/customxmlshape)

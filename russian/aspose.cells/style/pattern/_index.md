@@ -1,9 +1,9 @@
 ---
 title: pattern недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 370
+weight: 430
 url: /ru/aspose.cells/style/pattern/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [BackgroundType](/cells/python-net/ru/aspose.cells/backgroundtype)
-* класс [Style](/cells/python-net/ru/aspose.cells/style)
+* модуль [`aspose.cells`](../../)
+* класс [`BackgroundType`](/cells/python-net/ru/aspose.cells/backgroundtype)
+* класс [`Style`](/cells/python-net/ru/aspose.cells/style)

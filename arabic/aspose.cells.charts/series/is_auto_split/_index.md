@@ -1,13 +1,13 @@
 ---
-title: is_auto_split الملكية
+title: is_auto_split عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 260
 url: /ar/aspose.cells.charts/series/is_auto_split/
 is_root: false
 ---
-##  is_auto_split الملكية
+##  is_auto_split عقار
 
 يشير إلى ما إذا كانت قيمة العتبة تلقائية.
 ###  تعريف:
@@ -18,5 +18,5 @@ def is_auto_split(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

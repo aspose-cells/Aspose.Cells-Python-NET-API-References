@@ -3,18 +3,18 @@ title: style Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 580
+weight: 610
 url: /de/aspose.cells.charts/chart/style/
 is_root: false
 ---
 ##  style Eigentum
 
-Ruft die eingebaute style ab und setzt sie.
+Ruft die integrierte style ab und legt sie fest.
 
 ###  Bemerkungen
 
 Er sollte zwischen 1 und 48 liegen.
-Gibt -1 zurück, wenn es nicht gesetzt ist.
+Gibt -1 zurück, wenn es nicht festgelegt ist.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Chart](/cells/python-net/de/aspose.cells.charts/chart)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Chart`](/cells/python-net/de/aspose.cells.charts/chart)

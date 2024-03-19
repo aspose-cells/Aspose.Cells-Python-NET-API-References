@@ -1,31 +1,31 @@
 ---
-title: SheetType enumerazione
+title: Enumerazione SheetType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2460
+weight: 2550
 url: /it/aspose.cells/sheettype/
 is_root: false
 ---
-##  SheetType enumerazione
+##  Enumerazione SheetType
 Specifica il tipo di foglio di lavoro.
 
 
 
-Il tipo SheetType espone i membri seguenti:
+Il tipo SheetType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| VB | Modulo VisualBasic|
+| VB | Modulo Visual Basic|
 | WORKSHEET |  |
 | CHART | Grafico|
 | BIFF4_MACRO | BIFF4 Foglio macro|
-| INTERNATIONAL_MACRO | Scheda macro internazionale|
+| INTERNATIONAL_MACRO | Scheda Macro Internazionale|
 | OTHER |  |
-| DIALOG |Foglio di lavoro di dialogo|
+| DIALOG |Foglio di lavoro della finestra di dialogo|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

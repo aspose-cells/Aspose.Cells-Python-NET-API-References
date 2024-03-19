@@ -3,7 +3,7 @@ title: font propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 410
+weight: 430
 url: /fr/aspose.cells.drawing/picture/font/
 is_root: false
 ---
@@ -33,6 +33,6 @@ def font(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Font](/cells/python-net/fr/aspose.cells/font)
-* classe [Picture](/cells/python-net/fr/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Font`](/cells/python-net/fr/aspose.cells/font)
+* classe [`Picture`](/cells/python-net/fr/aspose.cells.drawing/picture)

@@ -1,15 +1,15 @@
 ---
-title: is_multi_encoded الملكية
+title: is_multi_encoded عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 210
 url: /ar/aspose.cells/txtloadoptions/is_multi_encoded/
 is_root: false
 ---
-##  is_multi_encoded الملكية
+##  is_multi_encoded عقار
 
-يعني صحيح أن الملف يحتوي على عدة ترميزات.
+صحيح يعني أن الملف يحتوي على عدة ترميز.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_multi_encoded(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TxtLoadOptions](/cells/python-net/ar/aspose.cells/txtloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TxtLoadOptions`](/cells/python-net/ar/aspose.cells/txtloadoptions)

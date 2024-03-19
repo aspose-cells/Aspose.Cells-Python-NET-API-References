@@ -1,5 +1,5 @@
 ---
-title: auto_recover الملكية
+title: auto_recover عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells/workbooksettings/auto_recover/
 is_root: false
 ---
-##  auto_recover الملكية
+##  auto_recover عقار
 
-يشير إلى ما إذا كان الملف محددًا للاسترداد التلقائي.
+يشير إلى ما إذا كان الملف قد تم وضع علامة عليه للاسترداد التلقائي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_recover(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

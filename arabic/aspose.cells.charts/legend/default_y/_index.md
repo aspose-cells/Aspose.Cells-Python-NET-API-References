@@ -1,15 +1,15 @@
 ---
-title: default_y الملكية
+title: default_y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ar/aspose.cells.charts/legend/default_y/
 is_root: false
 ---
-##  default_y الملكية
+##  default_y عقار
 
-يمثل y الوضع الافتراضي
+يمثل y للموضع الافتراضي
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def default_y(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)

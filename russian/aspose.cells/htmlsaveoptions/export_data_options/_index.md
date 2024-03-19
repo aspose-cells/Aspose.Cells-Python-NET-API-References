@@ -1,15 +1,15 @@
 ---
 title: export_data_options недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 190
+weight: 210
 url: /ru/aspose.cells/htmlsaveoptions/export_data_options/
 is_root: false
 ---
 ##  export_data_options недвижимость
 
-Указание правила экспорта данных файла html. Значение по умолчанию — All.
+Указание правила экспорта данных html-файла. Значение по умолчанию — «Все».
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def export_data_options(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlExportDataOptions](/cells/python-net/ru/aspose.cells/htmlexportdataoptions)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlExportDataOptions`](/cells/python-net/ru/aspose.cells/htmlexportdataoptions)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)

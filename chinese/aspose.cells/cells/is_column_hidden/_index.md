@@ -1,19 +1,19 @@
 ---
 title: is_column_hidden方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 750
+weight: 740
 url: /zh/aspose.cells/cells/is_column_hidden/
 is_root: false
 ---
-##  is_column_hidden(column_index) {#int}
+##  is_column_hidden {#int}
 检查给定索引处的列是否隐藏。
 
 
-### 返回
+### 退货
 
-如果列被隐藏，则为真。
+如果该列隐藏，则为 true。
 
 
 ```python
@@ -29,5 +29,5 @@ def is_column_hidden(self, column_index):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

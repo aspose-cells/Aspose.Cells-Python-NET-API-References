@@ -3,7 +3,7 @@ title: show_legend fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 550
+weight: 580
 url: /sv/aspose.cells.charts/chart/show_legend/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_legend(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Chart](/cells/python-net/sv/aspose.cells.charts/chart)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Chart`](/cells/python-net/sv/aspose.cells.charts/chart)

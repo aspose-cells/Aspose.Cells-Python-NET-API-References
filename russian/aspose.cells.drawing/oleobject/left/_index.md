@@ -1,15 +1,15 @@
 ---
 title: left недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 800
+weight: 810
 url: /ru/aspose.cells.drawing/oleobject/left/
 is_root: false
 ---
 ##  left недвижимость
 
-Представляет горизонтальное смещение фигуры от ее столбца left в единицах пикселей.
+Представляет горизонтальное смещение фигуры от столбца left в пикселях.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def left(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

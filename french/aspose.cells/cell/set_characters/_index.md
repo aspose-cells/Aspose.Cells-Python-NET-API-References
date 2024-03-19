@@ -1,13 +1,13 @@
 ---
-title: set_characters méthode
+title: méthode set_characters
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 300
+weight: 320
 url: /fr/aspose.cells/cell/set_characters/
 is_root: false
 ---
-##  set_characters(characters) {#list}
+##  set_characters {#list}
 Définit le format de texte enrichi de la cellule.
 
 
@@ -25,5 +25,5 @@ def set_characters(self, characters):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)

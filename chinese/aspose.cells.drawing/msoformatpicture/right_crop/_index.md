@@ -1,15 +1,15 @@
 ---
-title: right_crop 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: right_crop属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 100
+weight: 120
 url: /zh/aspose.cells.drawing/msoformatpicture/right_crop/
 is_root: false
 ---
-## right_crop 属性
+## right_crop属性
 
-表示裁剪矩形右边的位置表示，表示为图像宽度的比例。
+表示所表示的裁剪矩形右侧的位置，以图像宽度的比例表示。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def right_crop(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [MsoFormatPicture](/cells/python-net/zh/aspose.cells.drawing/msoformatpicture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`MsoFormatPicture`](/cells/python-net/zh/aspose.cells.drawing/msoformatpicture)

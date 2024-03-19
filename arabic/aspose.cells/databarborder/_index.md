@@ -1,26 +1,26 @@
 ---
-title: DataBarBorder الدرجة
+title: DataBarBorder صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 430
 url: /ar/aspose.cells/databarborder/
 is_root: false
 ---
-##  DataBarBorder الدرجة
-يمثل حدود أشرطة البيانات المحددة بواسطة قاعدة تنسيق شرطي.
+##  DataBarBorder صف
+يمثل حدود أشرطة البيانات المحددة بواسطة قاعدة التنسيق الشرطي.
 
 
 
-يكشف نوع DataBarBorder الأعضاء التالية:
+يكشف النوع DataBarBorder عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [color](/cells/python-net/ar/aspose.cells/databarborder/color) | الحصول على أو تعيين لون الحدود لأشرطة البيانات المحددة بواسطة قاعدة تنسيق شرطي.|
-| [type](/cells/python-net/ar/aspose.cells/databarborder/type) | الحصول على أو تعيين نوع الحدود لأشرطة البيانات المحددة بواسطة قاعدة تنسيق شرطي.|
+| [color](/cells/python-net/ar/aspose.cells/databarborder/color) | الحصول على أو تعيين لون حدود أشرطة البيانات المحددة بواسطة قاعدة التنسيق الشرطي.|
+| [type](/cells/python-net/ar/aspose.cells/databarborder/type) | الحصول على أو تعيين نوع أشرطة البيانات الخاصة بالحدود المحددة بواسطة قاعدة التنسيق الشرطي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
 title: standard_height недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1250
+weight: 1240
 url: /ru/aspose.cells/cells/standard_height/
 is_root: false
 ---
 ##  standard_height недвижимость
 
-Получает или задает высоту строки по умолчанию на этом листе в пунктах.
+Получает или задает высоту строки по умолчанию на этом листе в точках.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def standard_height(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

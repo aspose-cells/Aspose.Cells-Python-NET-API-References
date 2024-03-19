@@ -1,9 +1,9 @@
 ---
 title: prog_id недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /ru/aspose.cells.drawing/oleobject/prog_id/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def prog_id(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

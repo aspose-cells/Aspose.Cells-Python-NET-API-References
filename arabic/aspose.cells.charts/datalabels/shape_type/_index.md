@@ -1,13 +1,13 @@
 ---
-title: shape_type الملكية
+title: shape_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 370
 url: /ar/aspose.cells.charts/datalabels/shape_type/
 is_root: false
 ---
-##  shape_type الملكية
+##  shape_type عقار
 
 الحصول على نوع شكل تسمية البيانات أو تعيينه.
 ###  تعريف:
@@ -21,6 +21,6 @@ def shape_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabelShapeType](/cells/python-net/ar/aspose.cells.drawing/datalabelshapetype)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabelShapeType`](/cells/python-net/ar/aspose.cells.drawing/datalabelshapetype)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

@@ -1,15 +1,15 @@
 ---
-title: refresh_data_flag الملكية
+title: refresh_data_flag عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 790
+weight: 810
 url: /ar/aspose.cells.pivot/pivottable/refresh_data_flag/
 is_root: false
 ---
-##  refresh_data_flag الملكية
+##  refresh_data_flag عقار
 
-يشير إلى تحديث البيانات أم لا.
+يشير إلى ما إذا كان تحديث البيانات أم لا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def refresh_data_flag(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

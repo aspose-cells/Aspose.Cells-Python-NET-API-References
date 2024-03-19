@@ -3,7 +3,7 @@ title: ValidationAlertType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2630
+weight: 2720
 url: /sv/aspose.cells/validationalerttype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen ValidationAlertType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

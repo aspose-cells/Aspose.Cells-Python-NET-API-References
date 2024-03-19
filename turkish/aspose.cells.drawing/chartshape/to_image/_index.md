@@ -3,12 +3,12 @@ title: to_image yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 230
 url: /tr/aspose.cells.drawing/chartshape/to_image/
 is_root: false
 ---
-##  to_image(stream, image_type) {#io.RawIOBase-ImageType}
-Şekil görüntüsünü oluşturur ve belirtilen biçimde bir akışa kaydeder.
+##  to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
+Şekil görüntüsünü oluşturur ve onu belirtilen formatta bir akışa kaydeder.
 
 
 
@@ -21,10 +21,10 @@ def to_image(self, stream, image_type):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | stream | io.RawIOBase | Çıkış akışı.|
-| image_type | [ImageType](/cells/python-net/tr/aspose.cells.drawing/imagetype) | Görüntünün kaydedileceği tür.|
+| image_type | [`ImageType`](/cells/python-net/tr/aspose.cells.drawing/imagetype) | Görüntünün kaydedileceği tür.|
 ###  Notlar
 
-Aşağıdaki biçimler desteklenir:
+Aşağıdaki formatlar desteklenmektedir:
 .bmp, .gif, .jpg, .jpeg, .tiff, .emf.
 ###  Örnek
 
@@ -38,7 +38,7 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-##  to_image(image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Şekli bir dosyaya kaydeder.
 
 
@@ -65,7 +65,7 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 Şekli bir akışa kaydeder.
 
 
@@ -96,5 +96,5 @@ shape.to_image(imageStream, op)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ChartShape](/cells/python-net/tr/aspose.cells.drawing/chartshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ChartShape`](/cells/python-net/tr/aspose.cells.drawing/chartshape)

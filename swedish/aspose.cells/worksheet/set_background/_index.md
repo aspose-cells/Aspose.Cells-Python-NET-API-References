@@ -3,11 +3,11 @@ title: set_background metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 270
 url: /sv/aspose.cells/worksheet/set_background/
 is_root: false
 ---
-##  set_background(picture_data) {#bytes}
+##  set_background {#bytes}
 Ställer in kalkylbladsbakgrundsbild.
 
 
@@ -30,5 +30,5 @@ Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

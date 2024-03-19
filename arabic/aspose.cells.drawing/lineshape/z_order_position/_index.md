@@ -1,13 +1,13 @@
 ---
-title: z_order_position الملكية
+title: z_order_position عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1300
+weight: 1310
 url: /ar/aspose.cells.drawing/lineshape/z_order_position/
 is_root: false
 ---
-##  z_order_position الملكية
+##  z_order_position عقار
 
 إرجاع موضع الشكل بالترتيب z.
 
@@ -29,5 +29,5 @@ def z_order_position(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineShape](/cells/python-net/ar/aspose.cells.drawing/lineshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineShape`](/cells/python-net/ar/aspose.cells.drawing/lineshape)

@@ -3,7 +3,7 @@ title: type proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 850
+weight: 870
 url: /it/aspose.cells/worksheet/type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [SheetType](/cells/python-net/it/aspose.cells/sheettype)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`SheetType`](/cells/python-net/it/aspose.cells/sheettype)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

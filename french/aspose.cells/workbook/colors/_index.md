@@ -3,7 +3,7 @@ title: colors propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 460
+weight: 470
 url: /fr/aspose.cells/workbook/colors/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def colors(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

@@ -1,15 +1,15 @@
 ---
 title: floor недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 260
+weight: 290
 url: /ru/aspose.cells.charts/chart/floor/
 is_root: false
 ---
 ##  floor недвижимость
 
-Возвращает объект [Chart.floor](/cells/python-net/ru/aspose.cells.charts/chart#floor), представляющий стены трехмерной диаграммы.
+Возвращает объект [`Chart.floor`](/cells/python-net/ru/aspose.cells.charts/chart#floor), представляющий стены трехмерной диаграммы.
 
 ###  Примечания
 
@@ -22,6 +22,6 @@ def floor(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
-* класс [Floor](/cells/python-net/ru/aspose.cells.charts/floor)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)
+* класс [`Floor`](/cells/python-net/ru/aspose.cells.charts/floor)

@@ -3,12 +3,12 @@ title: طريقة auto_fill
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ar/aspose.cells/range/auto_fill/
 is_root: false
 ---
-##  auto_fill(target) {#Range}
-كل ملء النطاق المستهدف.
+##  auto_fill {#aspose.cells.Range}
+تعبئة النطاق المستهدف تلقائيًا.
 
 
 
@@ -20,7 +20,7 @@ def auto_fill(self, target):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| target | [Range](/cells/python-net/ar/aspose.cells/range) | النطاق المستهدف.|
+| target | [`Range`](/cells/python-net/ar/aspose.cells/range) | النطاق المستهدف.|
 
 ###  مثال
 
@@ -43,8 +43,8 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  auto_fill(target, auto_fill_type) {#Range-AutoFillType}
-كل ملء النطاق المستهدف.
+##  auto_fill {#aspose.cells.Range-aspose.cells.AutoFillType}
+تعبئة النطاق المستهدف تلقائيًا.
 
 
 
@@ -56,11 +56,11 @@ def auto_fill(self, target, auto_fill_type):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| target | [Range](/cells/python-net/ar/aspose.cells/range) | النطاق الملون.|
-| auto_fill_type | [AutoFillType](/cells/python-net/ar/aspose.cells/autofilltype) | نوع الملء التلقائي.|
+| target | [`Range`](/cells/python-net/ar/aspose.cells/range) | النطاق المستهدف.|
+| auto_fill_type | [`AutoFillType`](/cells/python-net/ar/aspose.cells/autofilltype) | نوع التعبئة التلقائية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

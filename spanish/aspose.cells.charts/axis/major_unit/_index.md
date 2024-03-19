@@ -3,7 +3,7 @@ title: major_unit propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 290
+weight: 300
 url: /es/aspose.cells.charts/axis/major_unit/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Representa las unidades principales del eje.
 
 ###  Observaciones
 
-Las unidades mayores deben ser mayores que cero.
+Las unidades principales deben ser mayores que cero.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def major_unit(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Axis](/cells/python-net/es/aspose.cells.charts/axis)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Axis`](/cells/python-net/es/aspose.cells.charts/axis)

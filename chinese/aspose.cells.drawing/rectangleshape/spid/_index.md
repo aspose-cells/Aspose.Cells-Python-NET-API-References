@@ -1,13 +1,13 @@
 ---
-title: spid 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: spid属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 890
+weight: 900
 url: /zh/aspose.cells.drawing/rectangleshape/spid/
 is_root: false
 ---
-## spid 属性
+## spid属性
 
 指定应用程序可用于识别特定形状的可选字符串。
 
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [RectangleShape](/cells/python-net/zh/aspose.cells.drawing/rectangleshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`RectangleShape`](/cells/python-net/zh/aspose.cells.drawing/rectangleshape)

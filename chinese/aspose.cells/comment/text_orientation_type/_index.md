@@ -1,15 +1,15 @@
 ---
-title: text_orientation_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_orientation_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 200
+weight: 210
 url: /zh/aspose.cells/comment/text_orientation_type/
 is_root: false
 ---
-## text_orientation_type 属性
+## text_orientation_type属性
 
-获取和设置评论的文本方向类型。
+获取和设置注释的文本方向类型。
 
 ### 例子
 
@@ -31,6 +31,6 @@ def text_orientation_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
-* 类 [TextOrientationType](/cells/python-net/zh/aspose.cells/textorientationtype)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)
+* 类 [`TextOrientationType`](/cells/python-net/zh/aspose.cells/textorientationtype)

@@ -3,7 +3,7 @@ title: GroupShape indicizzatore
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 250
+weight: 270
 url: /it/aspose.cells.drawing/groupshape/__getitem__/
 is_root: false
 ---
@@ -22,5 +22,5 @@ Ottiene la forma figlio in base all'indice.
 restituire la forma del bambino.
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GroupShape](/cells/python-net/it/aspose.cells.drawing/groupshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/it/aspose.cells.drawing/groupshape)

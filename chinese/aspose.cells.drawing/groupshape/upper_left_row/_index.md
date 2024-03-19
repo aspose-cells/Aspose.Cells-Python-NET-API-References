@@ -1,15 +1,15 @@
 ---
-title: upper_left_row 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: upper_left_row属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /zh/aspose.cells.drawing/groupshape/upper_left_row/
 is_root: false
 ---
-## upper_left_row 属性
+## upper_left_row属性
 
-表示左上角的行索引。
+表示左上角行索引。
 
 ### 评论
 
@@ -34,5 +34,5 @@ def upper_left_row(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GroupShape](/cells/python-net/zh/aspose.cells.drawing/groupshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GroupShape`](/cells/python-net/zh/aspose.cells.drawing/groupshape)

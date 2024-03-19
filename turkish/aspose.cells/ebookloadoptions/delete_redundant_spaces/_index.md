@@ -1,0 +1,26 @@
+---
+title: delete_redundant_spaces mülk
+second_title: Aspose.Cells for Python via .NET API Referanslar
+description:
+type: docs
+weight: 140
+url: /tr/aspose.cells/ebookloadoptions/delete_redundant_spaces/
+is_root: false
+---
+##  delete_redundant_spaces mülk
+
+Metin `<br>` etiketini kullanarak satırları kaydırdığında gereksiz boşlukların silinip silinmeyeceğini belirtir.
+Varsayılan değer false'tur.
+###  Tanım:
+```python
+@property
+def delete_redundant_spaces(self):
+    ...
+@delete_redundant_spaces.setter
+def delete_redundant_spaces(self, value):
+    ...
+```
+
+###  Ayrıca bakınız
+* modül [`aspose.cells`](../../)
+* sınıf [`EbookLoadOptions`](/cells/python-net/tr/aspose.cells/ebookloadoptions)

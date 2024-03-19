@@ -3,13 +3,13 @@ title: is_lock_aspect_ratio propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 590
+weight: 600
 url: /fr/aspose.cells.drawing/label/is_lock_aspect_ratio/
 is_root: false
 ---
 ##  is_lock_aspect_ratio propriété
 
-True signifie qu'il n'est pas possible de modifier les proportions.
+Vrai signifie que cela n'autorise pas les changements de rapport hauteur/largeur.
 
 ###  Exemple
 
@@ -29,5 +29,5 @@ def is_lock_aspect_ratio(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Label](/cells/python-net/fr/aspose.cells.drawing/label)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Label`](/cells/python-net/fr/aspose.cells.drawing/label)

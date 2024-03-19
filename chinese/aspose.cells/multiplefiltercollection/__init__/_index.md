@@ -1,14 +1,14 @@
 ---
-title: MultipleFilterCollection 构造函数
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: MultipleFilterCollection 施工人员
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
 url: /zh/aspose.cells/multiplefiltercollection/__init__/
 is_root: false
 ---
-##  MultipleFilterCollection() {#}
-构造 MultipleFilterCollection 的新实例
+##  __在里面__ {#}
+构造一个新实例。
 
 
 
@@ -22,5 +22,5 @@ def __init__(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [MultipleFilterCollection](/cells/python-net/zh/aspose.cells/multiplefiltercollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`MultipleFilterCollection`](/cells/python-net/zh/aspose.cells/multiplefiltercollection)

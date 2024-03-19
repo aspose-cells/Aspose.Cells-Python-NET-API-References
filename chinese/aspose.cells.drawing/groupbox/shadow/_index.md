@@ -1,15 +1,15 @@
 ---
-title: shadow 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: shadow属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 870
+weight: 880
 url: /zh/aspose.cells.drawing/groupbox/shadow/
 is_root: false
 ---
-## shadow 属性
+## shadow属性
 
-表示groupbox是否有shadow。
+指示组框是否有shadow。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GroupBox](/cells/python-net/zh/aspose.cells.drawing/groupbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GroupBox`](/cells/python-net/zh/aspose.cells.drawing/groupbox)

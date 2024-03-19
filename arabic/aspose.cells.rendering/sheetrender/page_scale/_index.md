@@ -1,16 +1,16 @@
 ---
-title: page_scale الملكية
+title: page_scale عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells.rendering/sheetrender/page_scale/
 is_root: false
 ---
-##  page_scale الملكية
+##  page_scale عقار
 
 يحصل على مقياس الصفحة المحسوب للورقة.
-إرجاع المقياس المحدد إذا تم تعيين [PageSetup.zoom](/cells/python-net/ar/aspose.cells/pagesetup#zoom). وإلا ، تُرجع المقياس المحسوب وفقًا لـ [PageSetup.fit_to_pages_wide](/cells/python-net/ar/aspose.cells/pagesetup#fit_to_pages_wide) و [PageSetup.fit_to_pages_tall](/cells/python-net/ar/aspose.cells/pagesetup#fit_to_pages_tall).
+يُرجع المقياس المحدد إذا تم ضبط [`PageSetup.zoom`](/cells/python-net/ar/aspose.cells/pagesetup#zoom). وبخلاف ذلك، يتم إرجاع المقياس المحسوب وفقًا لـ [`PageSetup.fit_to_pages_wide`](/cells/python-net/ar/aspose.cells/pagesetup#fit_to_pages_wide) و[`PageSetup.fit_to_pages_tall`](/cells/python-net/ar/aspose.cells/pagesetup#fit_to_pages_tall).
 
 ###  مثال
 
@@ -32,5 +32,5 @@ def page_scale(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [SheetRender](/cells/python-net/ar/aspose.cells.rendering/sheetrender)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`SheetRender`](/cells/python-net/ar/aspose.cells.rendering/sheetrender)

@@ -1,23 +1,23 @@
 ---
-title: CellWatch الدرجة
+title: CellWatch صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ar/aspose.cells/cellwatch/
 is_root: false
 ---
-##  CellWatch الدرجة
-يمثل Cell عنصر المشاهدة في "نافذة الساعة".
+##  CellWatch صف
+يمثل Cell عنصر الساعة في "نافذة الساعة".
 
 
 
-يكشف نوع CellWatch الأعضاء التالية:
+يكشف النوع CellWatch عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [CellWatch()](/cells/python-net/ar/aspose.cells/cellwatch/__init__/#) | يقوم بإنشاء مثيل جديد لـ CellWatch|
+| [__init__](/cells/python-net/ar/aspose.cells/cellwatch/__init__/#) |إنشاء مثيل جديد لـ CellWatch|
 
 
 ###  ملكيات
@@ -30,4 +30,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

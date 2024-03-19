@@ -3,16 +3,16 @@ title: FontSourceBase sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 680
+weight: 710
 url: /tr/aspose.cells/fontsourcebase/
 is_root: false
 ---
 ##  FontSourceBase sınıfı
-Bu, kullanıcının çeşitli yazı tipi kaynakları belirtmesine izin veren sınıflar için soyut bir temel sınıftır.
+Bu, kullanıcının çeşitli yazı tipi kaynaklarını belirlemesine olanak tanıyan sınıflar için soyut bir temel sınıftır.
 
 
 
-FontSourceBase türü aşağıdaki üyeleri gösterir:
+FontSourceBase türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -22,4 +22,4 @@ FontSourceBase türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

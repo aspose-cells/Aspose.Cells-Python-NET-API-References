@@ -1,13 +1,13 @@
 ---
-title: second_value_axis 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: second_value_axis属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 510
+weight: 540
 url: /zh/aspose.cells.charts/chart/second_value_axis/
 is_root: false
 ---
-## second_value_axis 属性
+## second_value_axis属性
 
 获取图表的第二个 Y 轴。
 ### 定义：
@@ -18,6 +18,6 @@ def second_value_axis(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
-* 类 [Chart](/cells/python-net/zh/aspose.cells.charts/chart)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)
+* 类 [`Chart`](/cells/python-net/zh/aspose.cells.charts/chart)

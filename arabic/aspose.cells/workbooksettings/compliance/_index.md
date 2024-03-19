@@ -1,15 +1,15 @@
 ---
-title: compliance الملكية
+title: compliance عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 120
 url: /ar/aspose.cells/workbooksettings/compliance/
 is_root: false
 ---
-##  compliance الملكية
+##  compliance عقار
 
-يحدد إصدار OOXML لمستند الإخراج. القيمة الافتراضية هي Ecma376_2006.
+يحدد إصدار OOXML للمستند الناتج. القيمة الافتراضية هي Ecma376_2006.
 
 ###  ملاحظات
 
@@ -25,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [OoxmlCompliance](/cells/python-net/ar/aspose.cells/ooxmlcompliance)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`OoxmlCompliance`](/cells/python-net/ar/aspose.cells/ooxmlcompliance)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

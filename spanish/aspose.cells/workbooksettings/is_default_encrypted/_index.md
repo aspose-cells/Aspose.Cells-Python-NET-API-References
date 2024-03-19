@@ -3,13 +3,13 @@ title: is_default_encrypted propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 270
+weight: 220
 url: /es/aspose.cells/workbooksettings/is_default_encrypted/
 is_root: false
 ---
 ##  is_default_encrypted propiedad
 
-Indica si se cifra el libro de trabajo con la contraseña predeterminada si la Estructura y Windows del libro de trabajo están bloqueados.
+Indica si se cifra el libro con la contraseña predeterminada si la Estructura y Windows del libro están bloqueados.
 
 ###  Observaciones
 
@@ -25,5 +25,5 @@ def is_default_encrypted(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WorkbookSettings](/cells/python-net/es/aspose.cells/workbooksettings)
+* módulo [`aspose.cells`](../../)
+* clase [`WorkbookSettings`](/cells/python-net/es/aspose.cells/workbooksettings)

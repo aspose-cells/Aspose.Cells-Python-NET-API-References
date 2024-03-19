@@ -1,13 +1,13 @@
 ---
-title: stream_provider 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: stream_provider属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 600
+weight: 670
 url: /zh/aspose.cells/htmlsaveoptions/stream_provider/
 is_root: false
 ---
-## stream_provider 属性
+## stream_provider属性
 
 获取或设置用于导出对象的 IStreamProvider。
 ### 定义：
@@ -21,6 +21,6 @@ def stream_provider(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlSaveOptions](/cells/python-net/zh/aspose.cells/htmlsaveoptions)
-* 类 [IStreamProvider](/cells/python-net/zh/aspose.cells/istreamprovider)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlSaveOptions`](/cells/python-net/zh/aspose.cells/htmlsaveoptions)
+* 类 [`IStreamProvider`](/cells/python-net/zh/aspose.cells/istreamprovider)

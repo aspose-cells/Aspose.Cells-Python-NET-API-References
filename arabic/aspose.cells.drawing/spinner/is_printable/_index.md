@@ -1,15 +1,15 @@
 ---
-title: is_printable الملكية
+title: is_printable عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 650
 url: /ar/aspose.cells.drawing/spinner/is_printable/
 is_root: false
 ---
-##  is_printable الملكية
+##  is_printable عقار
 
-صحيح إذا كان الكائن قابل للطباعة
+صحيح إذا كان الكائن قابلاً للطباعة
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Spinner](/cells/python-net/ar/aspose.cells.drawing/spinner)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Spinner`](/cells/python-net/ar/aspose.cells.drawing/spinner)

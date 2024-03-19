@@ -7,8 +7,8 @@ weight: 90
 url: /sv/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear() {#}
-Rensar alla cell- och radobjekt.
+##  clear {#}
+Rensar alla data i kalkylbladet.
 
 
 
@@ -22,5 +22,5 @@ def clear(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

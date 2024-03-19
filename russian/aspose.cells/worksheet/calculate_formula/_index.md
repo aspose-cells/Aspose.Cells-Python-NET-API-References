@@ -1,19 +1,19 @@
 ---
 title: calculate_formula метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ru/aspose.cells/worksheet/calculate_formula/
 is_root: false
 ---
-##  calculate_formula(formula) {#str}
+##  calculate_formula {#str}
 Вычисляет формулу.
 
 
-###  Возвращает
+###  Возврат
 
-Результат расчетной формулы.
+Результат расчета формулы.
 
 
 ```python
@@ -27,13 +27,14 @@ def calculate_formula(self, formula):
 | formula | str | Формула для расчета.|
 
 
-##  calculate_formula(formula, opts) {#str-CalculationOptions}
-Вычисляет формулу.
+##  calculate_formula {#str-aspose.cells.CalculationOptions}
+Непосредственное вычисление выражения формулы.
 
 
-###  Возвращает
+###  Возврат
 
-Результат расчетной формулы.
+Расчетный результат по данной формуле.
+Возвращаемый объект может иметь возможные типы [`Cell.value`](/cells/python-net/ru/aspose.cells/cell#value) или ReferredArea.
 
 
 ```python
@@ -45,10 +46,15 @@ def calculate_formula(self, formula, opts):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | formula | str | Формула для расчета.|
-| opts | [CalculationOptions](/cells/python-net/ru/aspose.cells/calculationoptions) | Варианты расчета формулы|
+| opts | [`CalculationOptions`](/cells/python-net/ru/aspose.cells/calculationoptions) | Варианты расчета формулы|
+###  Примечания
 
+Формула будет рассчитана так же, как она была установлена в ячейке A1.
+И формула будет принята как обычная формула.
+Если вам нужно, чтобы формула была рассчитана как формула массива и чтобы получить массив для вычисленного результата,
+вместо этого используйте [`Worksheet.calculate_array_formula`](/cells/python-net/ru/aspose.cells/worksheet/calculate_array_formula).
 
-##  calculate_formula(options, recursive) {#CalculationOptions-bool}
+##  calculate_formula {#aspose.cells.CalculationOptions-bool}
 Вычисляет все формулы на этом листе.
 
 
@@ -61,34 +67,42 @@ def calculate_formula(self, options, recursive):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| options | [CalculationOptions](/cells/python-net/ru/aspose.cells/calculationoptions) | Варианты расчета|
-| recursive | bool | True означает, что ячейки рабочего листа зависят от ячеек других рабочих листов,<br/>зависимые ячейки на других листах также будут рассчитаны.<br/> Ложь означает, что все формулы на листе были рассчитаны и значения верны.|
+| options | [`CalculationOptions`](/cells/python-net/ru/aspose.cells/calculationoptions) | Варианты расчета|
+| recursive | bool | True означает, что ячейки рабочего листа зависят от ячеек других листов,<br/>зависимые ячейки на других листах также будут рассчитаны.<br/> Ложь означает, что все формулы на листе были рассчитаны и значения верны.|
 
 
-##  calculate_formula(recursive, ignore_error, custom_function) {#bool-bool-ICustomFunction}
-Вычисляет все формулы на этом листе.
+##  calculate_formula {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
+Непосредственное вычисление выражения формулы.
 
+
+###  Возврат
+
+Расчетный результат по данной формуле.
+Возвращаемый объект может иметь возможные типы [`Cell.value`](/cells/python-net/ru/aspose.cells/cell#value) или ReferredArea.
 
 
 ```python
-def calculate_formula(self, recursive, ignore_error, custom_function):
+def calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data):
     ...
 ```
 
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| recursive | bool | True означает, что ячейки рабочего листа зависят от ячеек других рабочих листов,<br/>зависимые ячейки на других листах также будут рассчитаны.<br/> Ложь означает, что все формулы на листе были рассчитаны и значения верны.|
-| ignore_error | bool | Указывает, если скрыть ошибку при вычислении формул.<br/> Ошибка может быть в неподдерживаемой функции, внешних ссылках и т.п.|
-| custom_function | [ICustomFunction](/cells/python-net/ru/aspose.cells/icustomfunction) | Функции вычисления пользовательских формул для расширения механизма вычислений.|
+| formula | str | Формула для расчета.|
+| p_opts | [`FormulaParseOptions`](/cells/python-net/ru/aspose.cells/formulaparseoptions) | Варианты разбора формулы.|
+| c_opts | [`CalculationOptions`](/cells/python-net/ru/aspose.cells/calculationoptions) | Варианты расчета формулы.|
+| base_cell_row | int | Индекс строки базовой ячейки.|
+| base_cell_column | int | Индекс столбца базовой ячейки.|
+| calculation_data | [`CalculationData`](/cells/python-net/ru/aspose.cells/calculationdata) | Данные расчета. Используется в ситуации<br/>этому пользователю необходимо вычислить некоторые статические формулы при реализации пользовательского механизма вычислений.<br/>В такой ситуации пользователю необходимо указать это с помощью предоставленных расчетных данных.<br/> по номеру [`AbstractCalculationEngine.calculate`](/cells/python-net/ru/aspose.cells/abstractcalculationengine/calculate).|
 ###  Примечания
 
-ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
-пожалуйста, используйте метод CalculateFormula(CalculationOptions, bool).
- Этот метод будет удален через 12 месяцев, начиная с августа 2020 года.
-Aspose приносит извинения за возможные неудобства.
+Формула будет рассчитана так же, как она была установлена для указанной базовой ячейки.
+И формула будет принята как обычная формула. Если вам нужно, чтобы формула была рассчитана как формула массива
+и чтобы получить массив для вычисленного результата, используйте
+Вместо этого [`Worksheet.calculate_array_formula`](/cells/python-net/ru/aspose.cells/worksheet/calculate_array_formula).
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

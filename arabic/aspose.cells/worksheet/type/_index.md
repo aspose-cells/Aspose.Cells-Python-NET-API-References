@@ -1,15 +1,15 @@
 ---
-title: type الملكية
+title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 850
+weight: 870
 url: /ar/aspose.cells/worksheet/type/
 is_root: false
 ---
-##  type الملكية
+##  type عقار
 
-تمثل ورقة عمل type.
+يمثل ورقة العمل type.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [SheetType](/cells/python-net/ar/aspose.cells/sheettype)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`SheetType`](/cells/python-net/ar/aspose.cells/sheettype)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

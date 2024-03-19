@@ -3,11 +3,11 @@ title: get_text_of_total yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 210
 url: /tr/aspose.cells.settings/pivotglobalizationsettings/get_text_of_total/
 is_root: false
 ---
-##  get_text_of_total() {#}
+##  get_text_of_total {#}
 PivotTable'daki "Toplam" etiketinin metnini alır.
 PivotTable veri alanında iki veya daha fazla PivotField içerdiğinde bu yöntemi geçersiz kılmanız gerekir.
 
@@ -27,5 +27,5 @@ def get_text_of_total(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.settings](../../)
-* sınıf [PivotGlobalizationSettings](/cells/python-net/tr/aspose.cells.settings/pivotglobalizationsettings)
+* modül [`aspose.cells.settings`](../../)
+* sınıf [`PivotGlobalizationSettings`](/cells/python-net/tr/aspose.cells.settings/pivotglobalizationsettings)

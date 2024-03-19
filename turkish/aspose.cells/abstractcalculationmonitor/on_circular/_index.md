@@ -7,15 +7,15 @@ weight: 40
 url: /tr/aspose.cells/abstractcalculationmonitor/on_circular/
 is_root: false
 ---
-##  on_circular(circular_cells_data) {#collections.abc.Iterator}
+##  on_circular {#collections.abc.Iterator}
 Döngüsel referanslara sahip formülleri hesaplarken iş yapmak için bu yöntemi uygulayın.
 
 
 ###  İadeler
 
-Formül motorunun bu aramadan sonra bu hücreleri döngüsel olarak hesaplaması gerekip gerekmediği.
-True, formül motorunun onlar için hesaplama yapmaya devam etmesine izin verir.
-Formül motorunun bu hücreleri Hesaplanmış olarak işaretlemesine izin vermek için yanlış.
+Bu çağrıdan sonra formül motorunun bu hücreleri dairesel olarak hesaplaması gerekip gerekmediği.
+Formül motorunun onlar için hesaplama yapmaya devam etmesine izin vermek doğru.
+Formül motorunun bu hücreleri Hesaplanmış olarak işaretlemesine izin vermek için False.
 
 
 ```python
@@ -26,13 +26,14 @@ def on_circular(self, circular_cells_data):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| circular_cells_data | collections.abc.Iterator | CalculationCell ile IEnumerator hücreleri temsil eden öğeler<br/> döngüsel referanslara bağlıdır.|
+| circular_cells_data | collections.abc.Iterator | IEnumerator, hücreleri temsil eden [`CalculationCell`](/cells/python-net/tr/aspose.cells/calculationcell) öğeye sahip<br/> döngüsel referanslara bağlıdır.|
 ###  Notlar
 
-Uygulamada kullanıcı, beklenen değeri hesaplanan sonuç olarak da ayarlayabilir.
-bu hücrelerin bir kısmı/tümü için, böylece formül motoru bunları yinelemeli olarak hesaplamaz.
+Uygulamada kullanıcı beklenen değeri hesaplanan sonuç olarak da ayarlayabilir
+bu hücrelerin bir kısmı/tümü için formül motoru bunları yinelemeli olarak hesaplamayacaktır.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AbstractCalculationMonitor](/cells/python-net/tr/aspose.cells/abstractcalculationmonitor)
+* modül [`aspose.cells`](../../)
+* sınıf [`AbstractCalculationMonitor`](/cells/python-net/tr/aspose.cells/abstractcalculationmonitor)
+* sınıf [`CalculationCell`](/cells/python-net/tr/aspose.cells/calculationcell)

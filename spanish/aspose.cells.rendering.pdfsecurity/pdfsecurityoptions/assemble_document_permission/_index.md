@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  assemble_document_permission propiedad
 
-Permiso para insertar, rotar o eliminar páginas y crear marcadores o imágenes en miniatura incluso si ModifyDocumentPermission no está configurado.
+ Indica si se permite ensamblar el documento (insertar, rotar o eliminar páginas y crear marcadores o imágenes en miniatura),
+incluso si [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/es/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) está claro.
 ###  Definición:
 ```python
 @property
@@ -21,5 +22,5 @@ def assemble_document_permission(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering.pdfsecurity](../../)
-* clase [PdfSecurityOptions](/cells/python-net/es/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* módulo [`aspose.cells.rendering.pdfsecurity`](../../)
+* clase [`PdfSecurityOptions`](/cells/python-net/es/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

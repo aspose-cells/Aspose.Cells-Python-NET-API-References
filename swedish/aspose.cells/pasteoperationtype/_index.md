@@ -3,7 +3,7 @@ title: PasteOperationType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2350
+weight: 2440
 url: /sv/aspose.cells/pasteoperationtype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ Typen PasteOperationType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

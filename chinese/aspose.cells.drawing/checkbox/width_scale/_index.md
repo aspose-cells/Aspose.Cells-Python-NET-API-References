@@ -1,16 +1,16 @@
 ---
-title: width_scale 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: width_scale属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /zh/aspose.cells.drawing/checkbox/width_scale/
 is_root: false
 ---
-## width_scale 属性
+## width_scale属性
 
-获取和设置宽度比例，单位为原始图片宽度的百分比。
-如果形状不是图片，WidthScale 属性只返回 100；
+获取和设置宽度比例，以原始图片宽度的百分比为单位。
+如果形状不是图片，则WidthScale属性仅返回100；
 
 ### 例子
 
@@ -31,5 +31,5 @@ def width_scale(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CheckBox](/cells/python-net/zh/aspose.cells.drawing/checkbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CheckBox`](/cells/python-net/zh/aspose.cells.drawing/checkbox)

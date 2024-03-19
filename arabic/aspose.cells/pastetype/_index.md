@@ -1,28 +1,28 @@
 ---
-title: العد PasteType
+title: PasteType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2360
+weight: 2450
 url: /ar/aspose.cells/pastetype/
 is_root: false
 ---
-##  العد PasteType
-يمثل عجينة خاصة من النوع.
+##  PasteType التعداد
+يمثل نوع المعجون الخاص.
 
 
 
-يكشف نوع PasteType الأعضاء التالية:
+يكشف النوع PasteType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| ALL | ينسخ كافة بيانات النطاق.|
-| DEFAULT | يعمل كسلوك "كل" لبرنامج MS Excel.|
-| ALL_EXCEPT_BORDERS | ينسخ جميع بيانات النطاق بدون النطاق.|
-| DEFAULT_EXCEPT_BORDERS | يعمل كسلوك "الكل ماعدا الحدود" لبرنامج MS Excel.|
-| COLUMN_WIDTHS | ينسخ عرض النطاق فقط.|
-| ROW_HEIGHTS | ينسخ ارتفاعات النطاق فقط.|
+| ALL | نسخ جميع بيانات النطاق.|
+| DEFAULT | إنه يعمل كسلوك "الكل" لبرنامج MS Excel.|
+| ALL_EXCEPT_BORDERS | نسخ جميع بيانات النطاق بدون النطاق.|
+| DEFAULT_EXCEPT_BORDERS | إنه يعمل كسلوك "الكل ما عدا الحدود" لبرنامج MS Excel.|
+| COLUMN_WIDTHS | نسخ عرض النطاق فقط.|
+| ROW_HEIGHTS | ينسخ فقط ارتفاعات النطاق.|
 | COMMENTS |  |
 | FORMATS |  |
 | FORMULAS |  |
@@ -35,4 +35,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

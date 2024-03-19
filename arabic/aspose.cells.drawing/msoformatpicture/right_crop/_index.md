@@ -1,15 +1,15 @@
 ---
-title: right_crop الملكية
+title: right_crop عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 120
 url: /ar/aspose.cells.drawing/msoformatpicture/right_crop/
 is_root: false
 ---
-##  right_crop الملكية
+##  right_crop عقار
 
-يمثل موقع يمين مستطيل الاقتصاص معبرًا عنه كنسبة من عرض الصورة.
+يمثل الموقع على يمين مستطيل الاقتصاص، معبرًا عنه كنسبة من عرض الصورة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def right_crop(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoFormatPicture](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoFormatPicture`](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)

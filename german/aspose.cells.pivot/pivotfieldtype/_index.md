@@ -3,7 +3,7 @@ title: PivotFieldType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 290
 url: /de/aspose.cells.pivot/pivotfieldtype/
 is_root: false
 ---
@@ -17,13 +17,13 @@ Der Typ PivotFieldType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| UNDEFINED | Präsentiert den Basis-Pivot-Feldtyp.|
-| ROW | Stellt den Zeilen-Pivot-Feldtyp dar.|
-| COLUMN | Stellt den Spalten-Pivot-Feldtyp dar.|
-| PAGE | Präsentiert den Seiten-Pivot-Feldtyp.|
+| UNDEFINED | Stellt den Basis-Pivot-Feldtyp dar.|
+| ROW | Stellt den Typ des Zeilen-Pivotfelds dar.|
+| COLUMN | Zeigt den Typ des Spalten-Pivotfelds an.|
+| PAGE | Stellt den Pivot-Feldtyp der Seite dar.|
 | DATA | Stellt den Daten-Pivot-Feldtyp dar.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](..)
+* Modul [`aspose.cells.pivot`](..)

@@ -1,13 +1,13 @@
 ---
-title: ribbon_xml 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: ribbon_xml属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 630
+weight: 640
 url: /zh/aspose.cells/workbook/ribbon_xml/
 is_root: false
 ---
-## ribbon_xml 属性
+## ribbon_xml属性
 
 获取和设置定义功能区 UI 的 XML 文件。
 ### 定义：
@@ -21,5 +21,5 @@ def ribbon_xml(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
+* 模块[`aspose.cells`](../../)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)

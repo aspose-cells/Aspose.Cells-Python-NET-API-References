@@ -3,17 +3,17 @@ title: upper_left_row propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /fr/aspose.cells.drawing/lineshape/upper_left_row/
 is_root: false
 ---
 ##  upper_left_row propriété
 
-Représente l'index de ligne du coin supérieur gauche.
+Représente l’index de la ligne du coin supérieur gauche.
 
 ###  Remarques
 
-Si la forme est dans la forme ou dans le groupe , UpperLeftRow sera ignoré.
+Si la forme est dans la forme ou dans le groupe, UpperLeftRow sera ignoré.
 
 ###  Exemple
 
@@ -34,5 +34,5 @@ def upper_left_row(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [LineShape](/cells/python-net/fr/aspose.cells.drawing/lineshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`LineShape`](/cells/python-net/fr/aspose.cells.drawing/lineshape)

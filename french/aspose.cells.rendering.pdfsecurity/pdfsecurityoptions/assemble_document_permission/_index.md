@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  assemble_document_permission propriété
 
-Autorisation d'insérer, de faire pivoter ou de supprimer des pages et de créer des signets ou des images miniatures même si ModifyDocumentPermission n'est pas défini.
+ Indique s'il faut autoriser l'assemblage du document (insérer, faire pivoter ou supprimer des pages et créer des signets ou des images miniatures),
+même si [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/fr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) est clair.
 ###  Définition:
 ```python
 @property
@@ -21,5 +22,5 @@ def assemble_document_permission(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering.pdfsecurity](../../)
-* classe [PdfSecurityOptions](/cells/python-net/fr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* module [`aspose.cells.rendering.pdfsecurity`](../../)
+* classe [`PdfSecurityOptions`](/cells/python-net/fr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

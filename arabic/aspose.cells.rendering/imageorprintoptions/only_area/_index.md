@@ -1,15 +1,15 @@
 ---
-title: only_area الملكية
+title: only_area عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ar/aspose.cells.rendering/imageorprintoptions/only_area/
 is_root: false
 ---
-##  only_area الملكية
+##  only_area عقار
 
-إذا كانت هذه الخاصية صحيحة ، فسيتم إخراج منطقة واحدة ، ولن يسري أي مقياس.
+إذا كانت هذه الخاصية صحيحة، فسيتم إخراج منطقة واحدة، ولن يتم تفعيل أي مقياس.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def only_area(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

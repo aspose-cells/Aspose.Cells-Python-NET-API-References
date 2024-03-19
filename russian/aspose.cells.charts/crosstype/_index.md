@@ -1,28 +1,28 @@
 ---
 title: CrossType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 460
+weight: 470
 url: /ru/aspose.cells.charts/crosstype/
 is_root: false
 ---
 ##  CrossType перечисление
-Представляет собой ось перекрестного типа.
+Представляет тип креста оси.
 
 
 
-Тип CrossType предоставляет следующие члены:
+Тип CrossType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| AUTOMATIC | Microsoft Excel устанавливает точку пересечения осей.|
-| MAXIMUM | Ось пересекает максимальное значение.|
+| AUTOMATIC | Microsoft Excel устанавливает точку пересечения оси.|
+| MAXIMUM | Ось пересекается при максимальном значении.|
 | MINIMUM | Ось пересекает минимальное значение.|
 | CUSTOM | Ось пересекает пользовательское значение.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

@@ -1,39 +1,39 @@
 ---
 title: HyperlinkCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 800
+weight: 850
 url: /ru/aspose.cells/hyperlinkcollection/
 is_root: false
 ---
 ##  HyperlinkCollection класс
-Инкапсулирует коллекцию из [Hyperlink](/cells/python-net/ru/aspose.cells/hyperlink) объектов.
+Инкапсулирует коллекцию из [`Hyperlink`](/cells/python-net/ru/aspose.cells/hyperlink) объектов.
 
 
 
-Тип HyperlinkCollection предоставляет следующие члены:
+Тип HyperlinkCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [capacity](/cells/python-net/ru/aspose.cells/hyperlinkcollection/capacity) | Получает или задает количество элементов, которые может содержать список массивов.|
+| [capacity](/cells/python-net/ru/aspose.cells/hyperlinkcollection/capacity) | Получает или задает количество элементов, которые может содержать список массива.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add(first_row, first_column, total_rows, total_columns, address)](/cells/python-net/ru/aspose.cells/hyperlinkcollection/add/#int-int-int-int-str) | Добавляет гиперссылку к указанной ячейке или диапазону ячеек.|
-| [add(cell_name, total_rows, total_columns, address)](/cells/python-net/ru/aspose.cells/hyperlinkcollection/add/#str-int-int-str) | Добавляет гиперссылку к указанной ячейке или диапазону ячеек.|
-| [add(start_cell_name, end_cell_name, address, text_to_display, screen_tip)](/cells/python-net/ru/aspose.cells/hyperlinkcollection/add/#str-str-str-str-str) | Добавляет гиперссылку к указанной ячейке или диапазону ячеек.|
-| [copy_to(array)](/cells/python-net/ru/aspose.cells/hyperlinkcollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала целевого списка массивов.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ru/aspose.cells/hyperlinkcollection/copy_to/#int-list-int-int) |Копирует диапазон элементов из списка массивов в совместимый список одномерных массивов, начиная с указанного индекса целевого списка массивов.|
-| [index_of(item, index)](/cells/python-net/ru/aspose.cells/hyperlinkcollection/index_of/#Hyperlink-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который простирается от указанного индекса до последнего элемента.|
-| [index_of(item, index, count)](/cells/python-net/ru/aspose.cells/hyperlinkcollection/index_of/#Hyperlink-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
-| [last_index_of(item)](/cells/python-net/ru/aspose.cells/hyperlinkcollection/last_index_of/#Hyperlink) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массивов.|
-| [last_index_of(item, index)](/cells/python-net/ru/aspose.cells/hyperlinkcollection/last_index_of/#Hyperlink-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который простирается от первого элемента до указанного индекса.|
-| [last_index_of(item, index, count)](/cells/python-net/ru/aspose.cells/hyperlinkcollection/last_index_of/#Hyperlink-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который содержит указанное количество элементов и заканчивается указанным индексом.|
-| [binary_search(item)](/cells/python-net/ru/aspose.cells/hyperlinkcollection/binary_search/#Hyperlink) | Ищет элемент во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает отсчитываемый от нуля индекс элемента.|
+| [add](/cells/python-net/ru/aspose.cells/hyperlinkcollection/add/#int-int-int-int-str) | Добавляет гиперссылку в указанную ячейку или диапазон ячеек.|
+| [add](/cells/python-net/ru/aspose.cells/hyperlinkcollection/add/#str-int-int-str) | Добавляет гиперссылку в указанную ячейку или диапазон ячеек.|
+| [add](/cells/python-net/ru/aspose.cells/hyperlinkcollection/add/#str-str-str-str-str) | Добавляет гиперссылку в указанную ячейку или диапазон ячеек.|
+| [copy_to](/cells/python-net/ru/aspose.cells/hyperlinkcollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала списка целевых массивов.|
+| [copy_to](/cells/python-net/ru/aspose.cells/hyperlinkcollection/copy_to/#int-list-int-int) | Копирует диапазон элементов из списка массива в совместимый список одномерных массивов, начиная с указанного индекса списка целевого массива.|
+| [index_of](/cells/python-net/ru/aspose.cells/hyperlinkcollection/index_of/#aspose.cells.Hyperlink-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массива, простирающемся от указанного индекса до последнего элемента.|
+| [index_of](/cells/python-net/ru/aspose.cells/hyperlinkcollection/index_of/#aspose.cells.Hyperlink-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
+| [last_index_of](/cells/python-net/ru/aspose.cells/hyperlinkcollection/last_index_of/#aspose.cells.Hyperlink) | Ищет указанный объект и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массива.|
+| [last_index_of](/cells/python-net/ru/aspose.cells/hyperlinkcollection/last_index_of/#aspose.cells.Hyperlink-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, простирающемся от первого элемента до указанного индекса.|
+| [last_index_of](/cells/python-net/ru/aspose.cells/hyperlinkcollection/last_index_of/#aspose.cells.Hyperlink-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, который содержит указанное количество элементов и заканчивается указанным индексом.|
+| [binary_search](/cells/python-net/ru/aspose.cells/hyperlinkcollection/binary_search/#aspose.cells.Hyperlink) | Выполняет поиск элемента во всем списке отсортированного массива, используя компаратор по умолчанию, и возвращает индекс элемента, отсчитываемый от нуля.|
 
 
 
@@ -56,5 +56,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
-* класс [Hyperlink](/cells/python-net/ru/aspose.cells/hyperlink)
+* модуль [`aspose.cells`](..)
+* класс [`Hyperlink`](/cells/python-net/ru/aspose.cells/hyperlink)

@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/colorfilter/get_color/
 is_root: false
 ---
-##  get_color(sheets) {#WorksheetCollection}
-
+##  get_color {#aspose.cells.WorksheetCollection}
+يحصل على لون هذا الفلتر.
 
 
 ###  عائدات
@@ -24,10 +24,10 @@ def get_color(self, sheets):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| sheets | [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection) |  |
+| sheets | [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection) |  |
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ColorFilter](/cells/python-net/ar/aspose.cells/colorfilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ColorFilter`](/cells/python-net/ar/aspose.cells/colorfilter)

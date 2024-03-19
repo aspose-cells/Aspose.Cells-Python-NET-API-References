@@ -1,15 +1,15 @@
 ---
-title: is_link الملكية
+title: is_link عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 690
+weight: 700
 url: /ar/aspose.cells.drawing/picture/is_link/
 is_root: false
 ---
-##  is_link الملكية
+##  is_link عقار
 
-يعود صحيحًا إذا كانت الصورة مرتبطة بملف.
+يُرجع صحيحًا إذا كانت الصورة مرتبطة بملف.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_link(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

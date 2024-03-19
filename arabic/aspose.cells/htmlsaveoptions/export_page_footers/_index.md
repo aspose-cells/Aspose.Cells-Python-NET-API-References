@@ -1,19 +1,19 @@
 ---
-title: export_page_footers الملكية
+title: export_page_footers عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 310
 url: /ar/aspose.cells/htmlsaveoptions/export_page_footers/
 is_root: false
 ---
-##  export_page_footers الملكية
+##  export_page_footers عقار
 
-يشير إلى ما إذا كان يتم تصدير رؤوس الصفحات أم لا.
+يشير إلى ما إذا كان سيتم تصدير رؤوس الصفحات.
 
 ###  ملاحظات
 
-يعمل فقط عندما يكون [HtmlSaveOptions.save_as_single_file](/cells/python-net/ar/aspose.cells/htmlsaveoptions#save_as_single_file) صحيحًا.
+يعمل فقط عندما يكون [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/ar/aspose.cells/htmlsaveoptions#save_as_single_file) صحيحًا.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def export_page_footers(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

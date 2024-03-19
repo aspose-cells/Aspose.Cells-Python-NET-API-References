@@ -3,7 +3,7 @@ title: dxfs mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 280
+weight: 290
 url: /tr/aspose.cells/worksheetcollection/dxfs/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def dxfs(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DxfCollection](/cells/python-net/tr/aspose.cells/dxfcollection)
-* sınıf [WorksheetCollection](/cells/python-net/tr/aspose.cells/worksheetcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`DxfCollection`](/cells/python-net/tr/aspose.cells/dxfcollection)
+* sınıf [`WorksheetCollection`](/cells/python-net/tr/aspose.cells/worksheetcollection)

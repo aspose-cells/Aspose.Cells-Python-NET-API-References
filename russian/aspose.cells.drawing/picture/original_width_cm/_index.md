@@ -1,9 +1,9 @@
 ---
 title: original_width_cm недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 960
+weight: 970
 url: /ru/aspose.cells.drawing/picture/original_width_cm/
 is_root: false
 ---
@@ -37,5 +37,5 @@ def original_width_cm(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Picture](/cells/python-net/ru/aspose.cells.drawing/picture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture)

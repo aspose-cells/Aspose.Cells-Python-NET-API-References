@@ -1,15 +1,15 @@
 ---
 title: fill недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 340
+weight: 360
 url: /ru/aspose.cells.drawing/chartshape/fill/
 is_root: false
 ---
 ##  fill недвижимость
 
-Возвращает объект [Shape.fill_format](/cells/python-net/ru/aspose.cells.drawing/shape#fill_format), содержащий fill свойств форматирования для указанной фигуры.
+Возвращает объект [`Shape.fill_format`](/cells/python-net/ru/aspose.cells.drawing/shape#fill_format), содержащий свойства форматирования fill для указанной фигуры.
 
 ###  Пример
 
@@ -26,6 +26,6 @@ def fill(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ChartShape](/cells/python-net/ru/aspose.cells.drawing/chartshape)
-* класс [FillFormat](/cells/python-net/ru/aspose.cells.drawing/fillformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ChartShape`](/cells/python-net/ru/aspose.cells.drawing/chartshape)
+* класс [`FillFormat`](/cells/python-net/ru/aspose.cells.drawing/fillformat)

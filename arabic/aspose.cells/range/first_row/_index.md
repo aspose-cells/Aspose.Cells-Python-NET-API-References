@@ -1,13 +1,13 @@
 ---
-title: first_row الملكية
+title: first_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 330
 url: /ar/aspose.cells/range/first_row/
 is_root: false
 ---
-##  first_row الملكية
+##  first_row عقار
 
 الحصول على فهرس الصف الأول من النطاق.
 ###  تعريف:
@@ -18,5 +18,5 @@ def first_row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

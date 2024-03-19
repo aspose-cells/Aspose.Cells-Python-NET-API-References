@@ -1,13 +1,13 @@
 ---
-title: mso_drawing_type الملكية
+title: mso_drawing_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 810
+weight: 820
 url: /ar/aspose.cells.drawing/checkbox/mso_drawing_type/
 is_root: false
 ---
-##  mso_drawing_type الملكية
+##  mso_drawing_type عقار
 
 يحصل على نوع الرسم MSO.
 
@@ -26,6 +26,6 @@ def mso_drawing_type(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CheckBox](/cells/python-net/ar/aspose.cells.drawing/checkbox)
-* فئة [MsoDrawingType](/cells/python-net/ar/aspose.cells.drawing/msodrawingtype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CheckBox`](/cells/python-net/ar/aspose.cells.drawing/checkbox)
+* فئة [`MsoDrawingType`](/cells/python-net/ar/aspose.cells.drawing/msodrawingtype)

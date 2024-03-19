@@ -3,13 +3,13 @@ title: glow Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 390
+weight: 400
 url: /de/aspose.cells.drawing/groupbox/glow/
 is_root: false
 ---
 ##  glow Eigentum
 
-Stellt ein [GlowEffect](/cells/python-net/de/aspose.cells.drawing/gloweffect)-Objekt dar, das den glow-Effekt für das Diagrammelement oder die Form angibt.
+Stellt ein [`GlowEffect`](/cells/python-net/de/aspose.cells.drawing/gloweffect)-Objekt dar, das den glow-Effekt für das Diagrammelement oder die Form angibt.
 
 ###  Beispiel
 
@@ -26,6 +26,6 @@ def glow(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GlowEffect](/cells/python-net/de/aspose.cells.drawing/gloweffect)
-* Klasse [GroupBox](/cells/python-net/de/aspose.cells.drawing/groupbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GlowEffect`](/cells/python-net/de/aspose.cells.drawing/gloweffect)
+* Klasse [`GroupBox`](/cells/python-net/de/aspose.cells.drawing/groupbox)

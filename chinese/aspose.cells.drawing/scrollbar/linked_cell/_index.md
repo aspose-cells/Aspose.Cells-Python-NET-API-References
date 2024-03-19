@@ -1,13 +1,13 @@
 ---
-title: linked_cell 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: linked_cell属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 760
+weight: 770
 url: /zh/aspose.cells.drawing/scrollbar/linked_cell/
 is_root: false
 ---
-## linked_cell 属性
+## linked_cell属性
 
 获取或设置链接到控件值的工作表范围。
 
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ScrollBar](/cells/python-net/zh/aspose.cells.drawing/scrollbar)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ScrollBar`](/cells/python-net/zh/aspose.cells.drawing/scrollbar)

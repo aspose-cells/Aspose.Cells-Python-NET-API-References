@@ -3,17 +3,17 @@ title: upper_delta_x propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /es/aspose.cells.drawing/groupshape/upper_delta_x/
 is_root: false
 ---
 ##  upper_delta_x propiedad
 
-Obtiene o establece el desplazamiento horizontal de la forma desde la columna de la esquina superior izquierda.
+Obtiene o establece el desplazamiento horizontal de la forma desde su columna de la esquina superior izquierda.
 
 ###  Observaciones
 
-El rango de valor es de 0 a 1024.
+El rango de valores es de 0 a 1024.
 
 ###  Ejemplo
 
@@ -34,5 +34,5 @@ def upper_delta_x(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)

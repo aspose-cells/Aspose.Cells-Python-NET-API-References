@@ -3,7 +3,7 @@ title: ExceptionType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2020
+weight: 2090
 url: /sv/aspose.cells/exceptiontype/
 is_root: false
 ---
@@ -27,7 +27,7 @@ Typen ExceptionType avslöjar följande medlemmar:
 | INVALID_OPERATOR | Ogiltig operatör.|
 | INCORRECT_PASSWORD | Fel lösenord.|
 | LICENSE | Licensrelaterade fel.|
-| LIMITATION |Av MS Excel-begränsningsfel.|
+| LIMITATION | Av MS Excel-begränsningsfel.|
 | PAGE_SETUP | Ogiltig inställning för sidinställningar.|
 | PIVOT_TABLE | Ogiltig pivottabellinställning.|
 | SHAPE | Ogiltig inställning för ritobjekt.|
@@ -36,7 +36,7 @@ Typen ExceptionType avslöjar följande medlemmar:
 | SHEET_TYPE | Ogiltig kalkylbladstyp.|
 | INTERRUPTED | Processen avbryts.|
 | IO | Filen är ogiltig.|
-| PERMISSION | Tillstånd krävs för att öppna den här filen.|
+| PERMISSION |Tillstånd krävs för att öppna den här filen.|
 | UNSUPPORTED_FEATURE | Funktionen stöds inte.|
 | UNSUPPORTED_STREAM | Ström som inte stöds ska öppnas.|
 | UNDISCLOSED_INFORMATION | Filer innehåller en del hemlig information.|
@@ -45,4 +45,4 @@ Typen ExceptionType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

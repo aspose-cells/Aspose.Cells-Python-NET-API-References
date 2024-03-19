@@ -3,7 +3,7 @@ title: show_formulas mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 740
+weight: 760
 url: /tr/aspose.cells/worksheet/show_formulas/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_formulas(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

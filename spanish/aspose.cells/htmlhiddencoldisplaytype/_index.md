@@ -3,7 +3,7 @@ title: HtmlHiddenColDisplayType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2160
+weight: 2230
 url: /es/aspose.cells/htmlhiddencoldisplaytype/
 is_root: false
 ---
@@ -17,10 +17,10 @@ El tipo HtmlHiddenColDisplayType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| HIDDEN | Ocultó las columnas ocultas en la página html.|
-| REMOVE | Elimina las columnas ocultas en la página html.|
+| HIDDEN | Ocultar las columnas ocultas en la página html.|
+| REMOVE | Elimine las columnas ocultas en la página html.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

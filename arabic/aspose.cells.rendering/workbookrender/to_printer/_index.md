@@ -3,11 +3,11 @@ title: طريقة to_printer
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells.rendering/workbookrender/to_printer/
 is_root: false
 ---
-##  to_printer(printer_name) {#str}
+##  to_printer {#str}
 تقديم المصنف إلى الطابعة
 
 
@@ -20,10 +20,10 @@ def to_printer(self, printer_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| printer_name | str | اسم الطابعة ، على سبيل المثال: "Microsoft Office Document Image Writer"|
+| printer_name | str | اسم الطابعة، على سبيل المثال: "Microsoft Office Document Image Writer"|
 
 
-##  to_printer(printer_settings) {#aspose.pydrawing.printing.PrinterSettings}
+##  to_printer {#aspose.pydrawing.printing.PrinterSettings}
 تقديم المصنف إلى الطابعة
 
 
@@ -36,10 +36,10 @@ def to_printer(self, printer_settings):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| printer_settings | aspose.pydrawing.printing.PrinterSettings | إعدادات الطابعة ، على سبيل المثال اسم الطابعة ، الطباعة على الوجهين|
+| printer_settings | aspose.pydrawing.printing.PrinterSettings | إعدادات الطابعة، على سبيل المثال اسم الطابعة، والطباعة على الوجهين|
 
 
-##  to_printer(printer_name, job_name) {#str-str}
+##  to_printer {#str-str}
 تقديم المصنف إلى الطابعة
 
 
@@ -52,11 +52,11 @@ def to_printer(self, printer_name, job_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| printer_name | str | اسم الطابعة ، على سبيل المثال: "Microsoft Office Document Image Writer"|
+| printer_name | str | اسم الطابعة، على سبيل المثال: "Microsoft Office Document Image Writer"|
 | job_name | str | قم بتعيين اسم مهمة الطباعة|
 
 
-##  to_printer(printer_settings, job_name) {#aspose.pydrawing.printing.PrinterSettings-str}
+##  to_printer {#aspose.pydrawing.printing.PrinterSettings-str}
 تقديم المصنف إلى الطابعة
 
 
@@ -69,11 +69,11 @@ def to_printer(self, printer_settings, job_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| printer_settings | aspose.pydrawing.printing.PrinterSettings | إعدادات الطابعة ، على سبيل المثال اسم الطابعة ، الطباعة على الوجهين|
+| printer_settings | aspose.pydrawing.printing.PrinterSettings | إعدادات الطابعة، على سبيل المثال اسم الطابعة، والطباعة على الوجهين|
 | job_name | str | قم بتعيين اسم مهمة الطباعة|
 
 
-##  to_printer(printer_name, print_page_index, print_page_count) {#str-int-int}
+##  to_printer {#str-int-int}
 تقديم المصنف إلى الطابعة
 
 
@@ -86,17 +86,17 @@ def to_printer(self, printer_name, print_page_index, print_page_count):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| printer_name | str | اسم الطابعة ، على سبيل المثال: "Microsoft Office Document Image Writer"|
-| print_page_index | int | الفهرس الذي يستند إلى 0 للصفحة الأولى للطباعة ، يجب أن يكون في النطاق [0 ، WorkbookRender.PageCount-1]|
-| print_page_count | int | عدد الصفحات المراد طباعتها ، يجب أن يكون أكبر من الصفر|
+| printer_name | str | اسم الطابعة، على سبيل المثال: "Microsoft Office Document Image Writer"|
+| print_page_index | int | الفهرس المستند إلى 0 للصفحة الأولى المراد طباعتها، يجب أن يكون في النطاق [0، WorkbookRender.PageCount-1]|
+| print_page_count | int | عدد الصفحات المراد طباعتها، يجب أن يكون أكبر من الصفر|
 ###  ملاحظات
 
-ملاحظة: هذه الطريقة عفا عليها الزمن الآن.
-بدلاً من ذلك ، الرجاء استخدام ToPrinter (سلسلة PrinterName) و ImageOrPrintOptions.PageIndex و PageCount لتعيين الصفحة الأولى وعدد الصفحات المطلوب طباعتها.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ ديسمبر 2021.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملاحظة: هذه الطريقة أصبحت الآن قديمة.
+بدلاً من ذلك، الرجاء استخدام ToPrinter(string PrinterName) وImageOrPrintOptions.PageIndex وPageCount لتعيين الصفحة الأولى وعدد الصفحات المراد طباعتها.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ ديسمبر 2021.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [WorkbookRender](/cells/python-net/ar/aspose.cells.rendering/workbookrender)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`WorkbookRender`](/cells/python-net/ar/aspose.cells.rendering/workbookrender)

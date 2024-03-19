@@ -1,13 +1,13 @@
 ---
-title: linked_source الملكية
+title: linked_source عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 290
 url: /ar/aspose.cells.charts/legend/linked_source/
 is_root: false
 ---
-##  linked_source الملكية
+##  linked_source عقار
 
 الحصول على مرجع إلى ورقة العمل وتعيينه.
 ###  تعريف:
@@ -21,5 +21,5 @@ def linked_source(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)

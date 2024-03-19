@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  filter_by_fill_color propiedad
 
-Marca que indica si se filtra por el color de relleno de la celda.
+Ya sea para filtrar por el color de relleno de la celda.
+
+###  Observaciones
+
+Verdadero: color de relleno de la celda; Falso: color de fuente de la celda.
 ###  Definición:
 ```python
 @property
@@ -21,5 +25,5 @@ def filter_by_fill_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ColorFilter](/cells/python-net/es/aspose.cells/colorfilter)
+* módulo [`aspose.cells`](../../)
+* clase [`ColorFilter`](/cells/python-net/es/aspose.cells/colorfilter)

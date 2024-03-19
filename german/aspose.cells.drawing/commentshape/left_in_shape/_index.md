@@ -3,14 +3,14 @@ title: left_in_shape Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 690
+weight: 700
 url: /de/aspose.cells.drawing/commentshape/left_in_shape/
 is_root: false
 ---
 ##  left_in_shape Eigentum
 
- Stellt den horizontalen Versatz der Form vom linken Rand der übergeordneten Form dar,
-in Einheiten von 1/4000 der Breite der übergeordneten Form.
+ Stellt den horizontalen Versatz der Form vom linken Rand der übergeordneten Form dar.
+in der Einheit 1/4000 der Breite der übergeordneten Form.
 
 ###  Bemerkungen
 
@@ -20,8 +20,8 @@ Gilt nur, wenn diese Form in der Gruppe oder im Diagramm enthalten ist.
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.left_in_shape == 2000:
+    shape.left_in_shape = 4000
 
 ```
 ###  Definition:
@@ -35,5 +35,5 @@ def left_in_shape(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CommentShape](/cells/python-net/de/aspose.cells.drawing/commentshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CommentShape`](/cells/python-net/de/aspose.cells.drawing/commentshape)

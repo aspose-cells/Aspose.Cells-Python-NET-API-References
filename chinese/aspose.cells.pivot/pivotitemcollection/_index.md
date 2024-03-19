@@ -1,23 +1,23 @@
 ---
 title: PivotItemCollection类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 150
 url: /zh/aspose.cells.pivot/pivotitemcollection/
 is_root: false
 ---
 ## PivotItemCollection类
-表示 PivotField 的所有 PivotItem 对象的集合
+表示 PivotField 中所有 PivotItem 对象的集合
 
 
 
-PivotItemCollection 类型公开了以下成员：
+PivotItemCollection 类型公开以下成员：
 
 ### 特性
 |属性|描述|
 | :- | :- |
-| [count](/cells/python-net/zh/aspose.cells.pivot/pivotitemcollection/count) |获取数据透视项的计数。|
+| [count](/cells/python-net/zh/aspose.cells.pivot/pivotitemcollection/count) |获取枢轴项目的计数。|
 
 
 
@@ -31,9 +31,9 @@ PivotItemCollection 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [changeitems_order(source_index, dest_index)](/cells/python-net/zh/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) |直接改变两个item的顺序。|
+| [changeitems_order](/cells/python-net/zh/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) |直接改变两个项目的顺序。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](..)
+* 模块[`aspose.cells.pivot`](..)

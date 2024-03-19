@@ -3,26 +3,26 @@ title: ExternalLinkCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 570
+weight: 600
 url: /tr/aspose.cells/externallinkcollection/
 is_root: false
 ---
 ##  ExternalLinkCollection sınıfı
-Bir çalışma kitabındaki dış bağlantılar koleksiyonunu temsil eder.
+Bir çalışma kitabındaki dış bağlantı koleksiyonunu temsil eder.
 
 
 
-ExternalLinkCollection türü aşağıdaki üyeleri gösterir:
+ExternalLinkCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [count](/cells/python-net/tr/aspose.cells/externallinkcollection/count) | Koleksiyonda fiilen bulunan öğelerin sayısını alır.|
+| [count](/cells/python-net/tr/aspose.cells/externallinkcollection/count) | Koleksiyonda gerçekte bulunan öğelerin sayısını alır.|
 
 
 
-Belirtilen dizindeki [ExternalLink](/cells/python-net/tr/aspose.cells/externallink) öğesini alır.
-###  İndeksleyici
+Belirtilen dizindeki [`ExternalLink`](/cells/python-net/tr/aspose.cells/externallink) öğesini alır.
+###  Dizin oluşturucu
 | İsim| Tanım|
 | :- | :- |
 | [index] | Öğenin sıfır tabanlı dizini.|
@@ -31,12 +31,12 @@ Belirtilen dizindeki [ExternalLink](/cells/python-net/tr/aspose.cells/externalli
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add(file_name, sheet_names)](/cells/python-net/tr/aspose.cells/externallinkcollection/add/#str-list) | Harici bir bağlantı ekler.|
-| [add(directory_type, file_name, sheet_names)](/cells/python-net/tr/aspose.cells/externallinkcollection/add/#DirectoryType-str-list) | Harici bir bağlantı ekleyin.|
-| [clear()](/cells/python-net/tr/aspose.cells/externallinkcollection/clear/#) | Tüm harici bağlantıları kaldırır.|
-| [clear(update_references_as_local)](/cells/python-net/tr/aspose.cells/externallinkcollection/clear/#bool) | Tüm harici bağlantıları kaldırır.|
-| [remove_at(index)](/cells/python-net/tr/aspose.cells/externallinkcollection/remove_at/#int) | Belirtilen dış bağlantıyı çalışma kitabından kaldırır.|
-| [remove_at(index, update_references_as_local)](/cells/python-net/tr/aspose.cells/externallinkcollection/remove_at/#int-bool) | Belirtilen dış bağlantıyı çalışma kitabından kaldırır.|
+| [add](/cells/python-net/tr/aspose.cells/externallinkcollection/add/#str-list) | Harici bir bağlantı ekler.|
+| [add](/cells/python-net/tr/aspose.cells/externallinkcollection/add/#aspose.cells.DirectoryType-str-list) | Harici bir bağlantı ekleyin.|
+| [clear](/cells/python-net/tr/aspose.cells/externallinkcollection/clear/#) | Tüm dış bağlantıları kaldırır.|
+| [clear](/cells/python-net/tr/aspose.cells/externallinkcollection/clear/#bool) | Tüm dış bağlantıları kaldırır.|
+| [remove_at](/cells/python-net/tr/aspose.cells/externallinkcollection/remove_at/#int) | Belirtilen dış bağlantıyı çalışma kitabından kaldırır.|
+| [remove_at](/cells/python-net/tr/aspose.cells/externallinkcollection/remove_at/#int-bool) | Belirtilen dış bağlantıyı çalışma kitabından kaldırır.|
 
 
 
@@ -53,5 +53,5 @@ workbook.worksheets.external_links[0].data_source = "d:\\link.xls"
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
-* sınıf [ExternalLink](/cells/python-net/tr/aspose.cells/externallink)
+* modül [`aspose.cells`](..)
+* sınıf [`ExternalLink`](/cells/python-net/tr/aspose.cells/externallink)

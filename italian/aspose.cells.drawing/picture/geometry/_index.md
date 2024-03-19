@@ -3,7 +3,7 @@ title: geometry proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 450
+weight: 460
 url: /it/aspose.cells.drawing/picture/geometry/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Ottiene lo geometry
 
 ```python
 
-if len(shape.Geometry.ShapeAdjustValues) == 0:
+if shape.geometry != null  and len(shape.geometry.shape_adjust_values) == 0:
     print("No geometry path.")
 
 ```
@@ -27,6 +27,6 @@ def geometry(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Geometry](/cells/python-net/it/aspose.cells.drawing/geometry)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Geometry`](/cells/python-net/it/aspose.cells.drawing/geometry)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

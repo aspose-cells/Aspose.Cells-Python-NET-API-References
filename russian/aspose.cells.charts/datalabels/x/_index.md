@@ -1,15 +1,15 @@
 ---
 title: x недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 530
+weight: 520
 url: /ru/aspose.cells.charts/datalabels/x/
 is_root: false
 ---
 ##  x недвижимость
 
-Получает или задает координату x левого верхнего угла в единицах 1/4000 области диаграммы.
+Получает или задает координату x верхнего левого угла в единицах 1/4000 области диаграммы.
 
 ###  Примечания
 
@@ -26,5 +26,5 @@ def x(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [DataLabels](/cells/python-net/ru/aspose.cells.charts/datalabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`DataLabels`](/cells/python-net/ru/aspose.cells.charts/datalabels)

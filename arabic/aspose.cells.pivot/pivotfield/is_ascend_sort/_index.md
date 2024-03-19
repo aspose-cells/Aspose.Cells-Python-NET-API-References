@@ -1,15 +1,15 @@
 ---
-title: is_ascend_sort الملكية
+title: is_ascend_sort عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 370
 url: /ar/aspose.cells.pivot/pivotfield/is_ascend_sort/
 is_root: false
 ---
-##  is_ascend_sort الملكية
+##  is_ascend_sort عقار
 
-الإشارة إلى ما إذا كان حقل PivotTable المحدد يتم فرزه تلقائيًا بشكل تصاعدي.
+الإشارة إلى ما إذا كان حقل PivotTable المحدد قد تم فرزه تلقائياً تصاعدياً.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_ascend_sort(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

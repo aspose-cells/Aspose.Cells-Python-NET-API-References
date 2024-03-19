@@ -1,13 +1,13 @@
 ---
-title: active_cell الملكية
+title: active_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 350
 url: /ar/aspose.cells/worksheet/active_cell/
 is_root: false
 ---
-##  active_cell الملكية
+##  active_cell عقار
 
 الحصول على الخلية النشطة أو تعيينها في ورقة العمل.
 ###  تعريف:
@@ -21,5 +21,5 @@ def active_cell(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

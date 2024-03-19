@@ -3,7 +3,7 @@ title: page_index propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 190
+weight: 230
 url: /fr/aspose.cells/pptxsaveoptions/page_index/
 is_root: false
 ---
@@ -17,7 +17,7 @@ La valeur par défaut est 0.
 
 ###  Exemple
 
-L'exemple suivant montre comment rendre une plage de pages (3 et 4) dans un fichier Excel Microsoft en PDF.
+L'exemple suivant montre comment restituer une plage de pages (3 et 4) d'un fichier Excel Microsoft vers PDF.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -45,5 +45,5 @@ def page_index(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PptxSaveOptions](/cells/python-net/fr/aspose.cells/pptxsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`PptxSaveOptions`](/cells/python-net/fr/aspose.cells/pptxsaveoptions)

@@ -3,7 +3,7 @@ title: export_column_name proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 60
+weight: 80
 url: /it/aspose.cells/exporttableoptions/export_column_name/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def export_column_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ExportTableOptions](/cells/python-net/it/aspose.cells/exporttableoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`ExportTableOptions`](/cells/python-net/it/aspose.cells/exporttableoptions)

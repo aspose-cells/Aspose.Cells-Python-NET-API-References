@@ -1,9 +1,9 @@
 ---
 title: font недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ru/aspose.cells/comment/font/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def font(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
-* класс [Font](/cells/python-net/ru/aspose.cells/font)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)
+* класс [`Font`](/cells/python-net/ru/aspose.cells/font)

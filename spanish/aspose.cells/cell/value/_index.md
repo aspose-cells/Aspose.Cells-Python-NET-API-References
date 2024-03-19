@@ -3,13 +3,13 @@ title: value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 710
+weight: 740
 url: /es/aspose.cells/cell/value/
 is_root: false
 ---
 ##  value propiedad
 
-Obtiene el value contenido en esta celda.
+Obtiene/establece el value contenido en esta celda.
 
 ###  Observaciones
 
@@ -33,7 +33,7 @@ Entero
 Cadena.
 
 
-Para el int value, puede devolverse como un objeto Integer o un objeto Double.
+Para int value, se puede devolver como un objeto Integer o un objeto Double.
 Y no hay garantía de que el value devuelto se mantenga siempre como el mismo tipo de objeto.
 ###  Definición:
 ```python
@@ -46,5 +46,5 @@ def value(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cell](/cells/python-net/es/aspose.cells/cell)
+* módulo [`aspose.cells`](../../)
+* clase [`Cell`](/cells/python-net/es/aspose.cells/cell)

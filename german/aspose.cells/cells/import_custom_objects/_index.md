@@ -3,11 +3,11 @@ title: import_custom_objects Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 640
+weight: 630
 url: /de/aspose.cells/cells/import_custom_objects/
 is_root: false
 ---
-##  import_custom_objects(list, first_row, first_column, options) {#list-int-int-ImportTableOptions}
+##  import_custom_objects {#list-int-int-aspose.cells.ImportTableOptions}
 Importiert benutzerdefinierte Objekte.
 
 
@@ -27,12 +27,12 @@ def import_custom_objects(self, list, first_row, first_column, options):
 | list | list | Das benutzerdefinierte Objekt|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
-| options | [ImportTableOptions](/cells/python-net/de/aspose.cells/importtableoptions) | Die Importoptionen.|
+| options | [`ImportTableOptions`](/cells/python-net/de/aspose.cells/importtableoptions) | Die Importoptionen.|
 ###  Bemerkungen
 
 Die benutzerdefinierten Objekte sollten vom gleichen Typ sein.
 
-##  import_custom_objects(list, property_names, is_property_name_shown, first_row, first_column, row_number, insert_rows, date_format_string, convert_string_to_number) {#list-list-bool-int-int-int-bool-str-bool}
+##  import_custom_objects {#list-list-bool-int-int-int-bool-str-bool}
 
 Importiert benutzerdefinierte Objekte.
 
@@ -66,5 +66,5 @@ Die benutzerdefinierten Objekte sollten vom gleichen Typ sein.
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

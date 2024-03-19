@@ -3,17 +3,17 @@ title: top mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /tr/aspose.cells.drawing/button/top/
 is_root: false
 ---
 ##  top mülk
 
-Şeklin top satırındaki dikey kaymasını piksel birimi cinsinden temsil eder.
+Şeklin top satırındaki dikey uzaklığını piksel cinsinden temsil eder.
 
 ###  Notlar
 
-Şekil grafikteyse, şeklin top kenarlığından dikey uzaklığını temsil eder.
+Şekil grafikte yer alıyorsa, şeklin top sınırından dikey uzaklığını temsil eder.
 
 ###  Örnek
 
@@ -34,5 +34,5 @@ def top(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Button](/cells/python-net/tr/aspose.cells.drawing/button)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Button`](/cells/python-net/tr/aspose.cells.drawing/button)

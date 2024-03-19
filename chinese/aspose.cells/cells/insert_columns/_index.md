@@ -1,14 +1,14 @@
 ---
 title: insert_columns方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 690
+weight: 680
 url: /zh/aspose.cells/cells/insert_columns/
 is_root: false
 ---
-##  insert_columns(column_index, total_columns) {#int-int}
-在工作表中插入一些列。
+##  insert_columns {#int-int}
+将一些列插入工作表中。
 
 
 
@@ -24,8 +24,8 @@ def insert_columns(self, column_index, total_columns):
 | total_columns | int |列数。|
 
 
-##  insert_columns(column_index, total_columns, update_reference) {#int-int-bool}
-在工作表中插入一些列。
+##  insert_columns {#int-int-bool}
+将一些列插入工作表中。
 
 
 
@@ -39,10 +39,10 @@ def insert_columns(self, column_index, total_columns, update_reference):
 | :- | :- | :- |
 | column_index | int |列索引。|
 | total_columns | int |列数。|
-| update_reference | bool |指示是否更新其他工作表中的引用。|
+| update_reference | bool |指示其他工作表中的引用是否将更新。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

@@ -3,7 +3,7 @@ title: page_setup propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 660
+weight: 680
 url: /es/aspose.cells/worksheet/page_setup/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def page_setup(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

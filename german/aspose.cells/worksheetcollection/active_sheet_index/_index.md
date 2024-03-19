@@ -3,7 +3,7 @@ title: active_sheet_index Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 240
 url: /de/aspose.cells/worksheetcollection/active_sheet_index/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Stellt den Index des aktiven Arbeitsblatts dar, wenn die Tabelle geöffnet wird.
 
 ###  Bemerkungen
 
-Der Blattindex ist nullbasiert.
+Der Blattindex basiert auf Null.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def active_sheet_index(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorksheetCollection](/cells/python-net/de/aspose.cells/worksheetcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorksheetCollection`](/cells/python-net/de/aspose.cells/worksheetcollection)

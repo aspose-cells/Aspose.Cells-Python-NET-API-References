@@ -3,17 +3,17 @@ title: region proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 210
+weight: 230
 url: /it/aspose.cells/loadoptions/region/
 is_root: false
 ---
 ##  region proprietà
 
-Ottiene o imposta le impostazioni internazionali del sistema in base a CountryCode al momento del caricamento del file.
+Ottiene o imposta le impostazioni internazionali del sistema in base al CountryCode al momento del caricamento del file.
 
 ###  Osservazioni
 
- Se non si desidera utilizzare lo region salvato nel file,
+ Se non vuoi utilizzare lo region salvato nel file,
 si prega di reimpostarlo dopo aver letto il file.
 ###  Definizione:
 ```python
@@ -26,6 +26,6 @@ def region(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CountryCode](/cells/python-net/it/aspose.cells/countrycode)
-* classe [LoadOptions](/cells/python-net/it/aspose.cells/loadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`CountryCode`](/cells/python-net/it/aspose.cells/countrycode)
+* classe [`LoadOptions`](/cells/python-net/it/aspose.cells/loadoptions)

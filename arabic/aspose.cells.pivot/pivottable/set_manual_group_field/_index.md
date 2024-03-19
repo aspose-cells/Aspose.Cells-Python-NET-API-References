@@ -7,8 +7,8 @@ weight: 210
 url: /ar/aspose.cells.pivot/pivottable/set_manual_group_field/
 is_root: false
 ---
-##  set_manual_group_field(base_field_index, start_val, end_val, group_by_list, interval_num) {#int-float-float-list-float}
-يعيّن مجموعة الحقول اليدوية بواسطة PivotTable.
+##  set_manual_group_field {#int-float-float-list-float}
+تعيين مجموعة الحقول اليدوية بواسطة PivotTable.
 
 
 
@@ -22,13 +22,18 @@ def set_manual_group_field(self, base_field_index, start_val, end_val, group_by_
 | :- | :- | :- |
 | base_field_index | int | فهرس حقل الصف أو العمود في الحقول الأساسية|
 | start_val | float | يحدد قيمة البداية للتجميع الرقمي.|
-| end_val | float | يحدد قيمة النهاية للتجميع الرقمي.|
-| group_by_list | list | يحدد قائمة نوع التجميع. محدد بواسطة PivotTableGroupType|
-| interval_num | float | يحدد مجموعة الأرقام الفاصلة بالتجميع الرقمي.|
+| end_val | float | يحدد القيمة النهائية للتجميع الرقمي.|
+| group_by_list | list | يحدد قائمة نوع التجميع. تم تحديده بواسطة PivotTableGroupType|
+| interval_num | float | يحدد مجموعة أرقام الفاصل الزمني عن طريق التجميع الرقمي.|
+###  ملاحظات
 
+ملاحظة: هذه الطريقة أصبحت الآن قديمة. بدلاً من،
+الرجاء استخدام طريقة PivotField.GroupBy().
+ ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ أكتوبر 2023.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 
-##  set_manual_group_field(pivot_field, start_val, end_val, group_by_list, interval_num) {#PivotField-float-float-list-float}
-يعيّن مجموعة الحقول اليدوية بواسطة PivotTable.
+##  set_manual_group_field {#aspose.cells.pivot.PivotField-float-float-list-float}
+تعيين مجموعة الحقول اليدوية بواسطة PivotTable.
 
 
 
@@ -40,15 +45,20 @@ def set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list,
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| pivot_field | [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield) | حقل الصف أو العمود في الحقول الأساسية|
+| pivot_field | [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield) | حقل الصف أو العمود في الحقول الأساسية|
 | start_val | float | يحدد قيمة البداية للتجميع الرقمي.|
-| end_val | float | يحدد قيمة النهاية للتجميع الرقمي.|
-| group_by_list | list | يحدد قائمة نوع التجميع. محدد بواسطة PivotTableGroupType|
-| interval_num | float | يحدد مجموعة الأرقام الفاصلة بالتجميع الرقمي.|
+| end_val | float | يحدد القيمة النهائية للتجميع الرقمي.|
+| group_by_list | list | يحدد قائمة نوع التجميع. تم تحديده بواسطة PivotTableGroupType|
+| interval_num | float | يحدد مجموعة أرقام الفاصل الزمني عن طريق التجميع الرقمي.|
+###  ملاحظات
 
+ملاحظة: هذه الطريقة أصبحت الآن قديمة. بدلاً من،
+الرجاء استخدام طريقة PivotField.GroupBy().
+ ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ أكتوبر 2023.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 
-##  set_manual_group_field(base_field_index, start_val, end_val, group_by_list, interval_num) {#int-DateTime-DateTime-list-int}
-يعيّن مجموعة الحقول اليدوية بواسطة PivotTable.
+##  set_manual_group_field {#int-DateTime-DateTime-list-int}
+تعيين مجموعة الحقول اليدوية بواسطة PivotTable.
 
 
 
@@ -61,14 +71,19 @@ def set_manual_group_field(self, base_field_index, start_val, end_val, group_by_
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | base_field_index | int | فهرس حقل الصف أو العمود في الحقول الأساسية|
-| start_val | DateTime |يحدد قيمة البداية لتجميع التاريخ.|
-| end_val | DateTime | تحدد القيمة النهائية لتجميع التاريخ.|
-| group_by_list | list | يحدد قائمة نوع التجميع. محدد بواسطة PivotTableGroupType|
-| interval_num | int | يحدد مجموعة الأرقام الفاصلة حسب تجميع الأيام. يجب أن يكون عدد الأيام عددًا صحيحًا موجبًا غير صفري|
+| start_val | DateTime | يحدد قيمة البداية لتجميع التاريخ.|
+| end_val | DateTime | يحدد القيمة النهائية لتجميع التاريخ.|
+| group_by_list | list | يحدد قائمة نوع التجميع. تم تحديده بواسطة PivotTableGroupType|
+| interval_num | int | تحديد مجموعة أرقام الفاصل الزمني حسب تجميع الأيام. يجب أن يكون عدد الأيام عددًا صحيحًا موجبًا غير صفر|
+###  ملاحظات
 
+ملاحظة: هذه الطريقة أصبحت الآن قديمة. بدلاً من،
+الرجاء استخدام طريقة PivotField.GroupBy().
+ ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ أكتوبر 2023.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 
-##  set_manual_group_field(pivot_field, start_val, end_val, group_by_list, interval_num) {#PivotField-DateTime-DateTime-list-int}
-يعيّن مجموعة الحقول اليدوية بواسطة PivotTable.
+##  set_manual_group_field {#aspose.cells.pivot.PivotField-DateTime-DateTime-list-int}
+تعيين مجموعة الحقول اليدوية بواسطة PivotTable.
 
 
 
@@ -80,14 +95,19 @@ def set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list,
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| pivot_field | [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield) | حقل الصف أو العمود في الحقول الأساسية|
-| start_val | DateTime |يحدد قيمة البداية لتجميع التاريخ.|
-| end_val | DateTime | تحدد القيمة النهائية لتجميع التاريخ.|
-| group_by_list | list | يحدد قائمة نوع التجميع. محدد بواسطة PivotTableGroupType|
-| interval_num | int | يحدد مجموعة الأرقام الفاصلة حسب تجميع الأيام. يجب أن يكون عدد الأيام عددًا صحيحًا موجبًا غير صفري|
+| pivot_field | [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield) | حقل الصف أو العمود في الحقول الأساسية|
+| start_val | DateTime | يحدد قيمة البداية لتجميع التاريخ.|
+| end_val | DateTime | يحدد القيمة النهائية لتجميع التاريخ.|
+| group_by_list | list | يحدد قائمة نوع التجميع. تم تحديده بواسطة PivotTableGroupType|
+| interval_num | int | تحديد مجموعة أرقام الفاصل الزمني حسب تجميع الأيام. يجب أن يكون عدد الأيام عددًا صحيحًا موجبًا غير صفر|
+###  ملاحظات
 
+ملاحظة: هذه الطريقة أصبحت الآن قديمة. بدلاً من،
+الرجاء استخدام طريقة PivotField.GroupBy().
+ ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ أكتوبر 2023.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

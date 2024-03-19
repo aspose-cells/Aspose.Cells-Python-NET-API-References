@@ -1,13 +1,13 @@
 ---
-title: TextCrossType dénombrement
+title: TextCrossType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2540
+weight: 2630
 url: /fr/aspose.cells/textcrosstype/
 is_root: false
 ---
-##  TextCrossType dénombrement
+##  TextCrossType énumération
 Énumère l'affichage du type de texte lorsque la largeur du texte est supérieure à la largeur de la cellule.
 
 
@@ -19,10 +19,10 @@ Le type TextCrossType expose les membres suivants :
 | :- | :- |
 | DEFAULT | Afficher le texte comme dans Microsoft Excel.|
 | CROSS_KEEP | Affichez tout le texte en croisant d'autres cellules et conservez le texte des cellules croisées.|
-| CROSS_OVERRIDE | Affichez tout le texte en croisant d'autres cellules et remplacez le texte des cellules croisées.|
+| CROSS_OVERRIDE |Affichez tout le texte en croisant d'autres cellules et remplacez le texte des cellules croisées.|
 | STRICT_IN_CELL | Afficher uniquement le texte dans la largeur de la cellule.|
 
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

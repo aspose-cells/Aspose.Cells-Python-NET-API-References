@@ -3,7 +3,7 @@ title: html_note mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 140
+weight: 150
 url: /tr/aspose.cells/comment/html_note/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Bu yorumdaki verileri ve bazı biçimleri içeren html dizesini alır ve ayarlar
 
 ###  Notlar
 
-Bu bir zincirleme yorumsa, not değiştirilemez, aksi halde MS Excel bunu zincirleme bir yorum olarak işleyemez.
+Bu, zincirleme bir yorumsa not değiştirilemez; aksi halde MS Excel, bunu zincirleme yorum olarak işleyemedi.
 
 ###  Örnek
 
@@ -33,5 +33,5 @@ def html_note(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)

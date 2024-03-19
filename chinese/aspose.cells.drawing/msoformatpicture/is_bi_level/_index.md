@@ -1,15 +1,15 @@
 ---
-title: is_bi_level 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_bi_level属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 70
+weight: 80
 url: /zh/aspose.cells.drawing/msoformatpicture/is_bi_level/
 is_root: false
 ---
-## is_bi_level 属性
+## is_bi_level属性
 
-指示此图片是否应以黑白双色显示。
+指示该图片是否应以黑白两种颜色显示。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def is_bi_level(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [MsoFormatPicture](/cells/python-net/zh/aspose.cells.drawing/msoformatpicture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`MsoFormatPicture`](/cells/python-net/zh/aspose.cells.drawing/msoformatpicture)

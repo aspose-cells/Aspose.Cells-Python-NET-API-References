@@ -3,7 +3,7 @@ title: settings propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 640
+weight: 650
 url: /fr/aspose.cells/workbook/settings/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def settings(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
-* classe [WorkbookSettings](/cells/python-net/fr/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)
+* classe [`WorkbookSettings`](/cells/python-net/fr/aspose.cells/workbooksettings)

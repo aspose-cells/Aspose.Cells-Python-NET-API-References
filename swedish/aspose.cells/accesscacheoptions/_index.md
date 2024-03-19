@@ -3,7 +3,7 @@ title: AccessCacheOptions uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1740
+weight: 1810
 url: /sv/aspose.cells/accesscacheoptions/
 is_root: false
 ---
@@ -19,12 +19,12 @@ Typen AccessCacheOptions avslöjar följande medlemmar:
 | :- | :- |
 | NONE | Inget cache för dataåtkomst.|
 | ALL | Tillämpa alla möjliga optimeringar för alla typer av dataåtkomst i arbetsboken.<br/> Alla inställningar och data ska inte ändras under den optimerade åtkomsten.|
-| POSITION_AND_SIZE | Tillämpa möjlig optimering för att få objektets (som Shape) position och storlek.<br/>Inställningarna för radhöjd och kolumnbredd ska inte ändras under den optimerade åtkomsten.|
-| CELLS_DATA | Tillämpa möjlig optimering för att få cellers värden.<br/>Cells-data (data och inställningar för Cell, rad) bör inte ändras under<br/>den optimerade åtkomsten, inga nya Cell/Row-objekt ska skapas heller (som t.ex.<br/> av [[indexer]](/cells/python-net/aspose.cells/cells/__getitem__/)).|
-| CELL_DISPLAY | Tillämpa möjlig optimering för att få visningsrelaterade resultat av<br/>celler ([Cell.display_string_value](/cells/python-net/sv/aspose.cells/cell#display_string_value), [Cell.get_style()](/cells/python-net/sv/aspose.cells/cell/get_style), [Cell.get_display_style()](/cells/python-net/sv/aspose.cells/cell/get_display_style), etc.).<br/>Cells data och stilrelaterade objekt (Cell/rad/kolumnstilar, kolumnbredd etc.) ska inte ändras<br/> under den optimerade åtkomsten.|
+| POSITION_AND_SIZE |Tillämpa möjlig optimering för att få objektets (som Shape) position och storlek.<br/> Inställningarna för radhöjd och kolumnbredd ska inte ändras under den optimerade åtkomsten.|
+| CELLS_DATA | Tillämpa möjlig optimering för att få cellers värden.<br/>Cells-data (data och inställningar för Cell, rad) bör inte ändras under<br/>den optimerade åtkomsten, inga nya Cell/Row-objekt ska skapas heller (som t.ex.<br/> av [indexerare]).|
+| CELL_DISPLAY | Tillämpa möjlig optimering för att få visningsrelaterade resultat av<br/>celler ([`Cell.display_string_value`](/cells/python-net/sv/aspose.cells/cell#display_string_value), [`Cell.get_style`](/cells/python-net/sv/aspose.cells/cell/get_style), [`Cell.get_display_style`](/cells/python-net/sv/aspose.cells/cell/get_display_style), etc.).<br/>Cells data och stilrelaterade objekt (Cell/rad/kolumnstilar, kolumnbredd etc.) ska inte ändras<br/> under den optimerade åtkomsten.|
 | GET_FORMULA | Tillämpa möjlig optimering för att få formler.<br/>Alla data och inställningar som kan påverka formeluttrycket (arbetsbladets namn, namnets text,<br/> tabellens kolumn, etc.) bör inte ändras under den optimerade åtkomsten.|
-| SET_FORMULA | Tillämpa möjlig optimering för att ställa in formler.<br/>Alla data och inställningar som kan påverka formeluttrycket (arbetsbladets namn, namnets text,<br/> tabellens kolumn, etc.) bör inte ändras under den optimerade åtkomsten.|
-| CALCULATE_FORMULA |Tillämpa möjlig optimering för beräkning av formler.<br/>Cells data bör inte ändras under den optimerade åtkomsten, inga nya objekt (Cell, rad, etc.)<br/> bör skapas antingen (som av [[indexerare]](/cells/python-net/aspose.cells/cells/__getitem__/)).|
+| SET_FORMULA |Tillämpa möjlig optimering för att ställa in formler.<br/>Alla data och inställningar som kan påverka formeluttrycket (arbetsbladets namn, namnets text,<br/> tabellens kolumn, etc.) bör inte ändras under den optimerade åtkomsten.|
+| CALCULATE_FORMULA | Tillämpa möjlig optimering för beräkning av formler.<br/>Cells data bör inte ändras under den optimerade åtkomsten, inga nya objekt (Cell, rad, etc.)<br/> ska skapas antingen (som av [indexerare]).|
 | CONDITIONAL_FORMATTING | Tillämpa möjlig optimering för att få formateringsresultat av villkorliga formateringar.<br/>Alla data och inställningar som kan påverka resultatet av villkorlig formatering (inställningar för<br/> villkorlig formatering, beroende cellvärden etc.) bör inte ändras under den optimerade åtkomsten.|
 | VALIDATION | Tillämpa möjlig optimering för att få valideringsresultat.<br/>Alla data och inställningar som kan påverka resultatet av valideringen (inställningar för valideringen,<br/> beroende cellvärden etc.) bör inte ändras under den optimerade åtkomsten.|
 
@@ -47,4 +47,4 @@ som att datauppsättningen som ska nås är liten, kan användning av cache orsa
 själva cachen kräver också viss extra tid.
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -1,26 +1,26 @@
 ---
-title: IStreamProvider الدرجة
+title: IStreamProvider صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 870
+weight: 910
 url: /ar/aspose.cells/istreamprovider/
 is_root: false
 ---
-##  IStreamProvider الدرجة
-يمثل موفر البث الذي تم تصديره.
+##  IStreamProvider صف
+يمثل موفر الدفق المصدر.
 
 
 
-يكشف نوع IStreamProvider الأعضاء التالية:
+يكشف النوع IStreamProvider عن الأعضاء التاليين:
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [init_stream(options)](/cells/python-net/ar/aspose.cells/istreamprovider/init_stream/#StreamProviderOptions) | يحصل على الدفق.|
-| [close_stream(options)](/cells/python-net/ar/aspose.cells/istreamprovider/close_stream/#StreamProviderOptions) | يغلق الدفق.|
+| [init_stream](/cells/python-net/ar/aspose.cells/istreamprovider/init_stream/#aspose.cells.StreamProviderOptions) | يحصل على الدفق.|
+| [close_stream](/cells/python-net/ar/aspose.cells/istreamprovider/close_stream/#aspose.cells.StreamProviderOptions) | يغلق الدفق.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

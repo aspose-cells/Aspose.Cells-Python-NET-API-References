@@ -3,7 +3,7 @@ title: sparkline_group_collection propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 770
+weight: 790
 url: /fr/aspose.cells/worksheet/sparkline_group_collection/
 is_root: false
 ---
@@ -13,9 +13,9 @@ Obtient la collection de groupes sparkline dans la feuille de calcul.
 
 ###  Remarques
 
-REMARQUE : ce membre est désormais obsolète. Au lieu de cela, veuillez utiliser la propriété Worksheet.SparklineGroups.
- Cette propriété sera supprimée 12 mois plus tard depuis novembre 2022.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+REMARQUE : ce membre est désormais obsolète. Veuillez plutôt utiliser la propriété Worksheet.SparklineGroups.
+ Ce bien sera supprimé 12 mois plus tard à partir de novembre 2022.
+Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
 ###  Définition:
 ```python
 @property
@@ -24,6 +24,6 @@ def sparkline_group_collection(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [SparklineGroupCollection](/cells/python-net/fr/aspose.cells.charts/sparklinegroupcollection)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`SparklineGroupCollection`](/cells/python-net/fr/aspose.cells.charts/sparklinegroupcollection)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

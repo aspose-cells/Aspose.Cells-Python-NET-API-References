@@ -3,14 +3,14 @@ title: has_drop_lines propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 200
+weight: 190
 url: /es/aspose.cells.charts/series/has_drop_lines/
 is_root: false
 ---
 ##  has_drop_lines propiedad
 
-True si el gráfico tiene líneas desplegables.
-Se aplica solo a gráficos de líneas o gráficos de áreas.
+Verdadero si el gráfico tiene líneas desplegables.
+Se aplica solo a gráficos de líneas o de áreas.
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def has_drop_lines(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

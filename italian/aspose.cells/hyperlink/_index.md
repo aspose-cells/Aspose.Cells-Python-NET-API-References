@@ -1,18 +1,18 @@
 ---
-title: classe Hyperlink
+title: Hyperlink classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 790
+weight: 840
 url: /it/aspose.cells/hyperlink/
 is_root: false
 ---
-##  classe Hyperlink
+##  Hyperlink classe
 Incapsula l'oggetto che rappresenta un collegamento ipertestuale.
 
 
 
-Il tipo Hyperlink espone i membri seguenti:
+Il tipo Hyperlink espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -27,7 +27,7 @@ Il tipo Hyperlink espone i membri seguenti:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [delete()](/cells/python-net/it/aspose.cells/hyperlink/delete/#) | Elimina questo collegamento ipertestuale|
+| [delete](/cells/python-net/it/aspose.cells/hyperlink/delete/#) |Elimina questo collegamento ipertestuale|
 
 
 
@@ -54,4 +54,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

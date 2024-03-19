@@ -3,7 +3,7 @@ title: text_shape_type proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1000
+weight: 1010
 url: /it/aspose.cells.drawing/dialogbox/text_shape_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [AutoShapeType](/cells/python-net/it/aspose.cells.drawing/autoshapetype)
-* classe [DialogBox](/cells/python-net/it/aspose.cells.drawing/dialogbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`AutoShapeType`](/cells/python-net/it/aspose.cells.drawing/autoshapetype)
+* classe [`DialogBox`](/cells/python-net/it/aspose.cells.drawing/dialogbox)

@@ -3,7 +3,7 @@ title: ThreadedCommentAuthor Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1450
+weight: 1520
 url: /de/aspose.cells/threadedcommentauthor/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Der Typ ThreadedCommentAuthor macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

@@ -1,13 +1,13 @@
 ---
-title: error_message الملكية
+title: error_message عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ar/aspose.cells/validation/error_message/
 is_root: false
 ---
-##  error_message الملكية
+##  error_message عقار
 
 يمثل رسالة خطأ التحقق من صحة البيانات.
 ###  تعريف:
@@ -21,5 +21,5 @@ def error_message(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Validation](/cells/python-net/ar/aspose.cells/validation)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Validation`](/cells/python-net/ar/aspose.cells/validation)

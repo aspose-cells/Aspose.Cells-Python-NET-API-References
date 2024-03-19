@@ -3,7 +3,7 @@ title: TrendlineType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 670
+weight: 680
 url: /de/aspose.cells.charts/trendlinetype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ Der Typ TrendlineType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

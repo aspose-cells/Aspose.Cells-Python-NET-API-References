@@ -1,25 +1,25 @@
 ---
 title: ExportObjectEvent类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 540
+weight: 570
 url: /zh/aspose.cells/exportobjectevent/
 is_root: false
 ---
 ## ExportObjectEvent类
-导出图片等对象时触发的事件。
+导出对象（例如图片）时触发的事件。
 
 
 
-ExportObjectEvent 类型公开了以下成员：
+ExportObjectEvent 类型公开以下成员：
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [get_source()](/cells/python-net/zh/aspose.cells/exportobjectevent/get_source/#) |获取要导出的对象。|
+| [get_source](/cells/python-net/zh/aspose.cells/exportobjectevent/get_source/#) |获取要导出的对象。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

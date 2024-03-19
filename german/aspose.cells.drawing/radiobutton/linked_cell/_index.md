@@ -3,13 +3,13 @@ title: linked_cell Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 750
+weight: 770
 url: /de/aspose.cells.drawing/radiobutton/linked_cell/
 is_root: false
 ---
 ##  linked_cell Eigentum
 
-Ruft den Arbeitsblattbereich ab, der mit dem Wert des Steuerelements verknüpft ist, oder legt diesen fest.
+Ruft den mit dem Wert des Steuerelements verknüpften Arbeitsblattbereich ab oder legt diesen fest.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RadioButton](/cells/python-net/de/aspose.cells.drawing/radiobutton)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RadioButton`](/cells/python-net/de/aspose.cells.drawing/radiobutton)

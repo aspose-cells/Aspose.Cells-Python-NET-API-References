@@ -3,13 +3,13 @@ title: x mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /tr/aspose.cells.drawing/groupbox/x/
 is_root: false
 ---
 ##  x mülk
 
-Şeklin yatay ofsetini çalışma sayfasının sol kenarından piksel birimi cinsinden alır ve ayarlar.
+Çalışma sayfasının sol kenarlığından şeklin yatay uzaklığını piksel biriminde alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def x(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GroupBox](/cells/python-net/tr/aspose.cells.drawing/groupbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GroupBox`](/cells/python-net/tr/aspose.cells.drawing/groupbox)

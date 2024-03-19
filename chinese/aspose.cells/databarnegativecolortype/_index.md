@@ -1,9 +1,9 @@
 ---
 title: DataBarNegativeColorType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1930
+weight: 2000
 url: /zh/aspose.cells/databarnegativecolortype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-DataBarNegativeColorType 类型公开了以下成员：
+DataBarNegativeColorType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -23,4 +23,4 @@ DataBarNegativeColorType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

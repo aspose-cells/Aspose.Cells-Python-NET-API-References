@@ -1,14 +1,14 @@
 ---
-title: metodo to_image
+title: Metodo to_image
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 40
+weight: 50
 url: /it/aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
-##  to_image(stream) {#io.RawIOBase}
-Renderizza l'intera cartella di lavoro come immagine Tiff per lo streaming.
+##  to_image {#io.RawIOBase}
+Visualizza l'intera cartella di lavoro come immagine Tiff per lo streaming.
 
 
 
@@ -23,8 +23,8 @@ def to_image(self, stream):
 | stream | io.RawIOBase | il flusso dell'immagine di output|
 
 
-##  to_image(filename) {#str}
-Renderizza l'intera cartella di lavoro come immagine Tiff in un file.
+##  to_image {#str}
+Visualizza l'intera cartella di lavoro come immagine Tiff in un file.
 
 
 
@@ -36,11 +36,11 @@ def to_image(self, filename):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| filename | str | il nome del file dell'immagine di output|
+| filename | str | il nome file dell'immagine di output|
 
 
-##  to_image(page_index, file_name) {#int-str}
-Renderizza determinate pagine in un file.
+##  to_image {#int-str}
+Renderizza una determinata pagina in un file.
 
 
 
@@ -56,8 +56,8 @@ def to_image(self, page_index, file_name):
 | file_name | str | nome file dell'immagine di output|
 
 
-##  to_image(page_index, stream) {#int-io.RawIOBase}
-Renderizza determinate pagine in un flusso.
+##  to_image {#int-io.RawIOBase}
+Visualizza una determinata pagina in uno stream.
 
 
 
@@ -75,5 +75,5 @@ def to_image(self, page_index, stream):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [WorkbookRender](/cells/python-net/it/aspose.cells.rendering/workbookrender)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`WorkbookRender`](/cells/python-net/it/aspose.cells.rendering/workbookrender)

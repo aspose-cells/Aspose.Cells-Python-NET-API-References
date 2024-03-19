@@ -1,9 +1,9 @@
 ---
 title: CopyFormatType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1880
+weight: 1950
 url: /ru/aspose.cells/copyformattype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип CopyFormatType предоставляет следующие члены:
+Тип CopyFormatType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| SAME_AS_ABOVE |Форматы такие же, как в строке выше.|
+| SAME_AS_ABOVE | Форматы такие же, как в строке выше.|
 | SAME_AS_BELOW | Форматы такие же, как в строке ниже.|
 | CLEAR | Очищает форматирование.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

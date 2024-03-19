@@ -1,15 +1,15 @@
 ---
-title: reflection 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: reflection属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 830
+weight: 840
 url: /zh/aspose.cells.drawing/customxmlshape/reflection/
 is_root: false
 ---
-## reflection 属性
+## reflection属性
 
-表示一个 [ReflectionEffect](/cells/python-net/zh/aspose.cells.drawing/reflectioneffect) 对象，该对象指定图表元素或形状的 reflection 效果。
+表示一个 [`ReflectionEffect`](/cells/python-net/zh/aspose.cells.drawing/reflectioneffect) 对象，该对象指定图表元素或形状的 reflection 效果。
 
 ### 例子
 
@@ -26,6 +26,6 @@ def reflection(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CustomXmlShape](/cells/python-net/zh/aspose.cells.drawing/customxmlshape)
-* 类 [ReflectionEffect](/cells/python-net/zh/aspose.cells.drawing/reflectioneffect)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CustomXmlShape`](/cells/python-net/zh/aspose.cells.drawing/customxmlshape)
+* 类 [`ReflectionEffect`](/cells/python-net/zh/aspose.cells.drawing/reflectioneffect)

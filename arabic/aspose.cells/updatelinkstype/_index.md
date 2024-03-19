@@ -1,27 +1,27 @@
 ---
-title: العد UpdateLinksType
+title: UpdateLinksType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2620
+weight: 2710
 url: /ar/aspose.cells/updatelinkstype/
 is_root: false
 ---
-##  العد UpdateLinksType
+##  UpdateLinksType التعداد
 يمثل كيفية تحديث الارتباطات إلى المصنفات الأخرى عند فتح المصنف.
 
 
 
-يكشف نوع UpdateLinksType الأعضاء التالية:
+يكشف النوع UpdateLinksType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | USER_SET | مطالبة المستخدم بالتحديث.|
-| NEVER | لا تقم بالتحديث ، ولا تطالب المستخدم.|
-| ALWAYS | دائما التحديث.|
+| NEVER | لا تقم بالتحديث ولا تطالب المستخدم.|
+| ALWAYS | قم بالتحديث دائمًا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

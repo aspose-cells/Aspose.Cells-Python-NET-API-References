@@ -3,13 +3,13 @@ title: soft_edges propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 890
+weight: 900
 url: /es/aspose.cells.drawing/chartshape/soft_edges/
 is_root: false
 ---
 ##  soft_edges propiedad
 
-Obtiene y establece el radio de desenfoque que se aplica a los bordes, en unidades de puntos.
+Obtiene y establece el radio de desenfoque que se aplicará a los bordes, en unidades de puntos.
 
 ###  Ejemplo
 
@@ -29,5 +29,5 @@ def soft_edges(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ChartShape](/cells/python-net/es/aspose.cells.drawing/chartshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ChartShape`](/cells/python-net/es/aspose.cells.drawing/chartshape)

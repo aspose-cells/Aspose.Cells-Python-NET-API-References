@@ -3,13 +3,13 @@ title: startup_path propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 260
+weight: 270
 url: /fr/aspose.cells/cellshelper/startup_path/
 is_root: false
 ---
 ##  startup_path propriété
 
-Obtient ou définit le chemin de démarrage, auquel font référence certaines références de formules externes.
+Obtient ou définit le chemin de démarrage, auquel font référence certaines références de formule externes.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def startup_path(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellsHelper](/cells/python-net/fr/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* classe [`CellsHelper`](/cells/python-net/fr/aspose.cells/cellshelper)

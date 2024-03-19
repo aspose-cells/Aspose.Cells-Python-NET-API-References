@@ -1,38 +1,38 @@
 ---
 title: DateTimeGroupItem класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 450
+weight: 470
 url: /ru/aspose.cells/datetimegroupitem/
 is_root: false
 ---
 ##  DateTimeGroupItem класс
-Представляет параметр группы datetime.
+Представляет настройку группы datetime.
 
 
 
-Тип DateTimeGroupItem предоставляет следующие члены:
+Тип DateTimeGroupItem предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [DateTimeGroupItem(type, year, month, day, hour, minute, second)](/cells/python-net/ru/aspose.cells/datetimegroupitem/__init__/#DateTimeGroupingType-int-int-int-int-int-int) |  |
+| [__init__](/cells/python-net/ru/aspose.cells/datetimegroupitem/__init__/#aspose.cells.DateTimeGroupingType-int-int-int-int-int-int) |  |
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [min_value](/cells/python-net/ru/aspose.cells/datetimegroupitem/min_value) | Получает минимальное значение.|
-| [date_time_grouping_type](/cells/python-net/ru/aspose.cells/datetimegroupitem/date_time_grouping_type) | Получает и задает тип группы.|
-| [year](/cells/python-net/ru/aspose.cells/datetimegroupitem/year) | Получает и задает год сгруппированного времени даты.|
-| [month](/cells/python-net/ru/aspose.cells/datetimegroupitem/month) | Получает и задает месяц сгруппированного времени даты.|
-| [day](/cells/python-net/ru/aspose.cells/datetimegroupitem/day) | Получает и задает день сгруппированного времени даты.|
-| [hour](/cells/python-net/ru/aspose.cells/datetimegroupitem/hour) | Получает и задает час сгруппированного времени даты.|
-| [minute](/cells/python-net/ru/aspose.cells/datetimegroupitem/minute) | Получает и задает минуты сгруппированного времени даты.|
-| [second](/cells/python-net/ru/aspose.cells/datetimegroupitem/second) | Получает и задает второе значение сгруппированной даты и времени.|
+| [date_time_grouping_type](/cells/python-net/ru/aspose.cells/datetimegroupitem/date_time_grouping_type) |Получает и задает тип группы.|
+| [year](/cells/python-net/ru/aspose.cells/datetimegroupitem/year) | Получает и задает год сгруппированной даты и времени.|
+| [month](/cells/python-net/ru/aspose.cells/datetimegroupitem/month) | Получает и задает месяц сгруппированной даты и времени.|
+| [day](/cells/python-net/ru/aspose.cells/datetimegroupitem/day) | Получает и задает день сгруппированной даты и времени.|
+| [hour](/cells/python-net/ru/aspose.cells/datetimegroupitem/hour) | Получает и задает час сгруппированной даты и времени.|
+| [minute](/cells/python-net/ru/aspose.cells/datetimegroupitem/minute) | Получает и задает минуты сгруппированной даты и времени.|
+| [second](/cells/python-net/ru/aspose.cells/datetimegroupitem/second) | Получает и задает секунду сгруппированной даты и времени.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

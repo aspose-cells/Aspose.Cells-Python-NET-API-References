@@ -1,13 +1,13 @@
 ---
 title: set_visible метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 260
+weight: 280
 url: /ru/aspose.cells/worksheet/set_visible/
 is_root: false
 ---
-##  set_visible(is_visible, ignore_error) {#bool-bool}
+##  set_visible {#bool-bool}
 Устанавливает видимые параметры.
 
 
@@ -20,11 +20,11 @@ def set_visible(self, is_visible, ignore_error):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| is_visible | bool | Виден ли рабочий лист|
-| ignore_error | bool | Игнорировать ли ошибку, если этот параметр недействителен.|
+| is_visible | bool | Виден ли лист|
+| ignore_error | bool | Игнорировать ли ошибку, если эта опция недействительна.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

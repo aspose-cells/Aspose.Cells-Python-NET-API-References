@@ -1,23 +1,23 @@
 ---
-title: save_as_single_file الملكية
+title: save_as_single_file عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 550
+weight: 620
 url: /ar/aspose.cells/htmlsaveoptions/save_as_single_file/
 is_root: false
 ---
-##  save_as_single_file الملكية
+##  save_as_single_file عقار
 
-يشير إلى ما إذا كنت ستحفظ html كملف فردي.
+يشير إلى ما إذا كان سيتم حفظ HTML كملف واحد.
 القيمة الافتراضية هي كاذبة.
 
 ###  ملاحظات
 
-إذا كانت هناك أوراق عمل متعددة أو موارد أخرى مطلوبة مثل الصور في المصنف ،
-عادةً ما يلزم حفظ أوراق العمل والموارد الأخرى في ملفات منفصلة.
-بالنسبة لبعض السيناريوهات ، قد يحتاج المستخدم إلى الحصول على ملف ناتج واحد فقط ، مثل تسهيل النقل.
-إذا كان الأمر كذلك ، يجوز للمستخدم تعيين هذه الخاصية على أنها صحيحة.
+إذا كان هناك أوراق عمل متعددة أو موارد أخرى مطلوبة مثل الصور الموجودة في المصنف،
+ عادةً ما تحتاج أوراق العمل والموارد الأخرى إلى حفظها في ملفات منفصلة.
+بالنسبة لبعض السيناريوهات، قد يحتاج المستخدم إلى الحصول على ملف ناتج واحد فقط لتسهيل النقل.
+إذا كان الأمر كذلك، يجوز للمستخدم تعيين هذه الخاصية على أنها صحيحة.
 ###  تعريف:
 ```python
 @property
@@ -29,5 +29,5 @@ def save_as_single_file(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

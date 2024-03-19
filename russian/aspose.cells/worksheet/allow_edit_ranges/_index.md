@@ -1,9 +1,9 @@
 ---
 title: allow_edit_ranges недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 340
+weight: 360
 url: /ru/aspose.cells/worksheet/allow_edit_ranges/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def allow_edit_ranges(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ProtectedRangeCollection](/cells/python-net/ru/aspose.cells/protectedrangecollection)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`ProtectedRangeCollection`](/cells/python-net/ru/aspose.cells/protectedrangecollection)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

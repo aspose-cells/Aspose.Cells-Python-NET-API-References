@@ -1,15 +1,15 @@
 ---
-title: selected_value الملكية
+title: selected_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 900
+weight: 910
 url: /ar/aspose.cells.drawing/combobox/selected_value/
 is_root: false
 ---
-##  selected_value الملكية
+##  selected_value عقار
 
-يحصل على القيمة المحددة لمربع التحرير والسرد.
+الحصول على القيمة المحددة لمربع التحرير والسرد.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def selected_value(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ComboBox](/cells/python-net/ar/aspose.cells.drawing/combobox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ComboBox`](/cells/python-net/ar/aspose.cells.drawing/combobox)

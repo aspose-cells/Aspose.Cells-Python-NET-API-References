@@ -1,9 +1,9 @@
 ---
 title: start_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 260
+weight: 280
 url: /ru/aspose.cells/jsonloadoptions/start_cell/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def start_cell(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [JsonLoadOptions](/cells/python-net/ru/aspose.cells/jsonloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`JsonLoadOptions`](/cells/python-net/ru/aspose.cells/jsonloadoptions)

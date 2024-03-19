@@ -3,7 +3,7 @@ title: font fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 370
 url: /sv/aspose.cells.drawing/dialogbox/font/
 is_root: false
 ---
@@ -33,6 +33,6 @@ def font(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [DialogBox](/cells/python-net/sv/aspose.cells.drawing/dialogbox)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`DialogBox`](/cells/python-net/sv/aspose.cells.drawing/dialogbox)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)

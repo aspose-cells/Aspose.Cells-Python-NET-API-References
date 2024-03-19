@@ -1,15 +1,15 @@
 ---
 title: is_printable недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 720
+weight: 730
 url: /ru/aspose.cells.drawing/picture/is_printable/
 is_root: false
 ---
 ##  is_printable недвижимость
 
-Истинно, если объект доступен для печати
+True, если объект можно распечатать
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Picture](/cells/python-net/ru/aspose.cells.drawing/picture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture)

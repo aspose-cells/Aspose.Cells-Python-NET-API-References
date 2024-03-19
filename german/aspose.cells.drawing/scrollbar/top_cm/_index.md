@@ -3,20 +3,20 @@ title: top_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /de/aspose.cells.drawing/scrollbar/top_cm/
 is_root: false
 ---
 ##  top_cm Eigentum
 
-Stellt den vertikalen Versatz der Form von der oberen Reihe in Zentimetern dar.
+Stellt den vertikalen Versatz der Form von ihrer oberen Reihe in der Einheit Zentimeter dar.
 
 ###  Beispiel
 
 ```python
 
 if shape.top_cm == 3:
-    shape.top_cm = 1
+    shape.top_cm = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def top_cm(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ScrollBar](/cells/python-net/de/aspose.cells.drawing/scrollbar)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ScrollBar`](/cells/python-net/de/aspose.cells.drawing/scrollbar)

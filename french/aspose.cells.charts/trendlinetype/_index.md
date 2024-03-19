@@ -1,14 +1,14 @@
 ---
-title: TrendlineType dénombrement
+title: TrendlineType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 670
+weight: 680
 url: /fr/aspose.cells.charts/trendlinetype/
 is_root: false
 ---
-##  TrendlineType dénombrement
-Représente le type de courbe de tendance.
+##  TrendlineType énumération
+Représente le type de ligne de tendance.
 
 
 
@@ -20,11 +20,11 @@ Le type TrendlineType expose les membres suivants :
 | EXPONENTIAL | Exponentiel|
 | LINEAR | Linéaire|
 | LOGARITHMIC | Logarithmique|
-| MOVING_AVERAGE | Moyenne mobile|
+| MOVING_AVERAGE | MoyenneMouvement|
 | POLYNOMIAL | Polynôme|
 | POWER | Pouvoir|
 
 
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

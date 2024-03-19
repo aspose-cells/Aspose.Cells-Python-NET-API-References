@@ -1,15 +1,15 @@
 ---
-title: show_tabs الملكية
+title: show_tabs عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 460
 url: /ar/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
-##  show_tabs الملكية
+##  show_tabs عقار
 
-احصل على قيمة أو عيّنها سواء تم عرض علامات تبويب المصنف.
+احصل على قيمة أو قم بتعيينها سواء تم عرض علامات تبويب المصنف.
 
 ###  ملاحظات
 
@@ -17,7 +17,7 @@ is_root: false
 
 ###  مثال
 
-تخفي التعليمة البرمجية التالية علامات تبويب الورقة وأزرار تمرير علامات التبويب لجدول البيانات.
+يخفي التعليمة البرمجية التالية علامات تبويب الأوراق وأزرار تمرير علامات التبويب لجدول البيانات.
 
 ```python
 
@@ -36,5 +36,5 @@ def show_tabs(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

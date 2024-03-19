@@ -3,7 +3,7 @@ title: PivotItemCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 150
 url: /sv/aspose.cells.pivot/pivotitemcollection/
 is_root: false
 ---
@@ -31,9 +31,9 @@ Hämtar PivotItem-objektet vid det specifika indexet.
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [changeitems_order(source_index, dest_index)](/cells/python-net/sv/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | Ändrar direkt beställningarna för de två artiklarna.|
+| [changeitems_order](/cells/python-net/sv/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | Ändrar direkt beställningarna för de två artiklarna.|
 
 
 
 ###  Se även
-* modul [aspose.cells.pivot](..)
+* modul [`aspose.cells.pivot`](..)

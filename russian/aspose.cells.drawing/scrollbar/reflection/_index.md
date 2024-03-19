@@ -1,15 +1,15 @@
 ---
 title: reflection недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 890
+weight: 900
 url: /ru/aspose.cells.drawing/scrollbar/reflection/
 is_root: false
 ---
 ##  reflection недвижимость
 
-Представляет объект [ReflectionEffect](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect), задающий эффект reflection для элемента диаграммы или фигуры.
+Представляет объект [`ReflectionEffect`](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect), задающий эффект reflection для элемента или фигуры диаграммы.
 
 ###  Пример
 
@@ -26,6 +26,6 @@ def reflection(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ReflectionEffect](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect)
-* класс [ScrollBar](/cells/python-net/ru/aspose.cells.drawing/scrollbar)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ReflectionEffect`](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect)
+* класс [`ScrollBar`](/cells/python-net/ru/aspose.cells.drawing/scrollbar)

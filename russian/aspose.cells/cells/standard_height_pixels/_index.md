@@ -1,9 +1,9 @@
 ---
 title: standard_height_pixels недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1270
+weight: 1260
 url: /ru/aspose.cells/cells/standard_height_pixels/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def standard_height_pixels(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

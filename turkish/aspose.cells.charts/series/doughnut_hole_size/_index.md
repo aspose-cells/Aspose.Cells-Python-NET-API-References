@@ -3,14 +3,14 @@ title: doughnut_hole_size mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 130
+weight: 120
 url: /tr/aspose.cells.charts/series/doughnut_hole_size/
 is_root: false
 ---
 ##  doughnut_hole_size mülk
 
  Halka grafik grubundaki deliğin boyutunu döndürür veya ayarlar.
-Delik boyutu, grafik boyutunun yüzdesi olarak yüzde 10 ile 90 arasında ifade edilir.
+Delik boyutu, grafik boyutunun yüzde 10 ila 90'ı arasındaki bir yüzdesi olarak ifade edilir.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def doughnut_hole_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

@@ -1,15 +1,15 @@
 ---
-title: data_sorter الملكية
+title: data_sorter عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 540
 url: /ar/aspose.cells/workbook/data_sorter/
 is_root: false
 ---
-##  data_sorter الملكية
+##  data_sorter عقار
 
-يحصل على كائن DataSorter لفرز البيانات.
+الحصول على كائن DataSorter لفرز البيانات.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def data_sorter(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataSorter](/cells/python-net/ar/aspose.cells/datasorter)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataSorter`](/cells/python-net/ar/aspose.cells/datasorter)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

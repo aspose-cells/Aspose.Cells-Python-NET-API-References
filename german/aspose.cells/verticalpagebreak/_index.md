@@ -3,7 +3,7 @@ title: VerticalPageBreak Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1560
+weight: 1630
 url: /de/aspose.cells/verticalpagebreak/
 is_root: false
 ---
@@ -36,4 +36,4 @@ excel.worksheets[0].vertical_page_breaks.add("G5")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

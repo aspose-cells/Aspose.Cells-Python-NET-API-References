@@ -3,11 +3,11 @@ title: set_column_width_inch metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 850
+weight: 840
 url: /sv/aspose.cells/cells/set_column_width_inch/
 is_root: false
 ---
-##  set_column_width_inch(column, inches) {#int-float}
+##  set_column_width_inch {#int-float}
 Ställer in kolumnbredden i tumenhet i normalvy.
 
 
@@ -21,10 +21,10 @@ def set_column_width_inch(self, column, inches):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | column | int | Kolumnindex.|
-| inches | float | Antal tum.|
+| inches | float |Antal tum.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

@@ -3,18 +3,18 @@ title: طريقة get_characters
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells.drawing/cellsdrawing/get_characters/
 is_root: false
 ---
-##  get_characters() {#}
- ترجع جميع كائنات الأحرف
-يمثل مجموعة من الأحرف داخل النص.
+##  get_characters {#}
+ إرجاع كافة كائنات الأحرف
+الذي يمثل مجموعة من الأحرف داخل النص.
 
 
 ###  عائدات
 
-كل كائنات الشخصيات
+جميع كائنات الشخصيات
 
 
 ```python
@@ -23,7 +23,12 @@ def get_characters(self):
 ```
 
 
+###  ملاحظات
 
+ملاحظة: هذه الطريقة أصبحت الآن قديمة. بدلاً من،
+الرجاء استخدام طريقة Shape.GetRichFormattings().
+ ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ نوفمبر 2023.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  مثال
 
 ```python
@@ -35,5 +40,5 @@ list = shape.get_characters()
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CellsDrawing](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CellsDrawing`](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)

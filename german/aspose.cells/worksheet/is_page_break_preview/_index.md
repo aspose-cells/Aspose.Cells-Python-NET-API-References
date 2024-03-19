@@ -3,7 +3,7 @@ title: is_page_break_preview Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 560
+weight: 580
 url: /de/aspose.cells/worksheet/is_page_break_preview/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_page_break_preview(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Worksheet](/cells/python-net/de/aspose.cells/worksheet)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

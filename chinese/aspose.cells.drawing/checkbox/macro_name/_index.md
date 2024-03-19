@@ -1,13 +1,13 @@
 ---
-title: macro_name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: macro_name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 800
+weight: 810
 url: /zh/aspose.cells.drawing/checkbox/macro_name/
 is_root: false
 ---
-## macro_name 属性
+## macro_name属性
 
 获取和设置宏的名称。
 
@@ -30,5 +30,5 @@ def macro_name(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CheckBox](/cells/python-net/zh/aspose.cells.drawing/checkbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CheckBox`](/cells/python-net/zh/aspose.cells.drawing/checkbox)

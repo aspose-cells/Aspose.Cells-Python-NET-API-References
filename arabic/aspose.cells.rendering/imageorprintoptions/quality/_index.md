@@ -1,21 +1,21 @@
 ---
-title: quality الملكية
+title: quality عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ar/aspose.cells.rendering/imageorprintoptions/quality/
 is_root: false
 ---
-##  quality الملكية
+##  quality عقار
 
-الحصول على أو تحديد قيمة تحدد quality للصور التي تم تكوينها
-لتطبيقه فقط عند حفظ الصفحات بتنسيق `Jpeg`. القيمة الافتراضية هي 100
+الحصول على أو تعيين قيمة تحدد quality للصور التي تم إنشاؤها
+يتم تطبيقه فقط عند حفظ الصفحات بتنسيق `Jpeg`. القيمة الافتراضية هي 100
 
 ###  ملاحظات
 
-يكون له تأثير فقط عند الحفظ بالرقم JPEG.
-يجب أن تكون القيمة بين 0 و 100.
+يكون له تأثير فقط عند الحفظ على JPEG.
+يجب أن تكون القيمة بين 0 و100.
 القيمة الافتراضية هي 100.
 ###  تعريف:
 ```python
@@ -28,5 +28,5 @@ def quality(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

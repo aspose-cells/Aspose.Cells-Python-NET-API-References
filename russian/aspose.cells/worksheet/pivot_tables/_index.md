@@ -1,9 +1,9 @@
 ---
 title: pivot_tables недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 690
+weight: 710
 url: /ru/aspose.cells/worksheet/pivot_tables/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def pivot_tables(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PivotTableCollection](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`PivotTableCollection`](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

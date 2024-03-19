@@ -3,12 +3,12 @@ title: un_merge Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 220
 url: /de/aspose.cells/range/un_merge/
 is_root: false
 ---
-##  un_merge() {#}
-Hebt verbundene Zellen dieses Bereichs auf.
+##  un_merge {#}
+Hebt zusammengeführte Zellen dieses Bereichs auf.
 
 
 
@@ -22,5 +22,5 @@ def un_merge(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Range](/cells/python-net/de/aspose.cells/range)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Range`](/cells/python-net/de/aspose.cells/range)

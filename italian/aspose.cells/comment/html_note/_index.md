@@ -3,17 +3,17 @@ title: html_note proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 140
+weight: 150
 url: /it/aspose.cells/comment/html_note/
 is_root: false
 ---
 ##  html_note proprietà
 
-Ottiene e imposta la stringa html che contiene dati e alcuni formati in questo commento.
+Ottiene e imposta la stringa html che contiene i dati e alcuni formati in questo commento.
 
 ###  Osservazioni
 
-Se si tratta di un commento con thread, la nota non può essere modificata, altrimenti MS Excel non potrebbe elaborarla come commento con thread.
+Se si tratta di un commento in thread, la nota non potrà essere modificata, altrimenti MS Excel non potrebbe elaborarla come commento in thread.
 
 ###  Esempio
 
@@ -33,5 +33,5 @@ def html_note(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Comment](/cells/python-net/it/aspose.cells/comment)
+* modulo [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/it/aspose.cells/comment)

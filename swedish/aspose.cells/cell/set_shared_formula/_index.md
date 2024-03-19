@@ -3,11 +3,11 @@ title: set_shared_formula metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 350
 url: /sv/aspose.cells/cell/set_shared_formula/
 is_root: false
 ---
-##  set_shared_formula(shared_formula, row_number, column_number) {#str-int-int}
+##  set_shared_formula {#str-int-int}
 Ställer in delade formler till ett cellintervall.
 
 
@@ -21,13 +21,13 @@ def set_shared_formula(self, shared_formula, row_number, column_number):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | shared_formula | str | Delad formel.|
-| row_number | int |Antal rader att fylla i formeln.|
+| row_number | int | Antal rader att fylla i formeln.|
 | column_number | int | Antal kolumner att fylla i formeln.|
 ###  Anmärkningar
 
 
 
-##  set_shared_formula(shared_formula, row_number, column_number, options) {#str-int-int-FormulaParseOptions}
+##  set_shared_formula {#str-int-int-aspose.cells.FormulaParseOptions}
 
 Ställer in delade formler till ett cellintervall.
 
@@ -42,12 +42,12 @@ def set_shared_formula(self, shared_formula, row_number, column_number, options)
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | shared_formula | str | Delad formel.|
-| row_number | int |Antal rader att fylla i formeln.|
+| row_number | int | Antal rader att fylla i formeln.|
 | column_number | int | Antal kolumner att fylla i formeln.|
-| options | [FormulaParseOptions](/cells/python-net/sv/aspose.cells/formulaparseoptions) | Alternativ för att analysera formeln.|
+| options | [`FormulaParseOptions`](/cells/python-net/sv/aspose.cells/formulaparseoptions) | Alternativ för att analysera formeln.|
 
 
-##  set_shared_formula(shared_formula, row_number, column_number, is_r1c1, is_local) {#str-int-int-bool-bool}
+##  set_shared_formula {#str-int-int-bool-bool}
 Ställer in en formel för ett cellintervall.
 
 
@@ -61,7 +61,7 @@ def set_shared_formula(self, shared_formula, row_number, column_number, is_r1c1,
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | shared_formula | str | Delad formel.|
-| row_number | int |Antal rader att fylla i formeln.|
+| row_number | int | Antal rader att fylla i formeln.|
 | column_number | int | Antal kolumner att fylla i formeln.|
 | is_r1c1 | bool | om formeln är R1C1-formel|
 | is_local | bool | om formeln är språkformaterad|
@@ -72,7 +72,7 @@ använd Cell.SetSharedFormula(string,int,int,FormulaParseOptions).
 Den här egenskapen kommer att tas bort 12 månader senare sedan december 2019.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
-##  set_shared_formula(shared_formula, row_number, column_number, options, values) {#str-int-int-FormulaParseOptions-list}
+##  set_shared_formula {#str-int-int-aspose.cells.FormulaParseOptions-list}
 Ställer in delade formler till ett cellintervall.
 
 
@@ -86,13 +86,13 @@ def set_shared_formula(self, shared_formula, row_number, column_number, options,
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | shared_formula | str | Delad formel.|
-| row_number | int |Antal rader att fylla i formeln.|
+| row_number | int | Antal rader att fylla i formeln.|
 | column_number | int | Antal kolumner att fylla i formeln.|
-| options | [FormulaParseOptions](/cells/python-net/sv/aspose.cells/formulaparseoptions) | Alternativ för att analysera formeln.|
-| values | list | värden för dessa celler med en given delad formel|
+| options | [`FormulaParseOptions`](/cells/python-net/sv/aspose.cells/formulaparseoptions) | Alternativ för att analysera formeln.|
+| values | list | värden för de cellerna med en given delad formel|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

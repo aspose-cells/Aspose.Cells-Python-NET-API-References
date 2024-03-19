@@ -1,27 +1,27 @@
 ---
-title: العد ValidationType
+title: ValidationType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2640
+weight: 2730
 url: /ar/aspose.cells/validationtype/
 is_root: false
 ---
-##  العد ValidationType
+##  ValidationType التعداد
 يمثل نوع التحقق من صحة البيانات.
 
 
 
-يكشف نوع ValidationType الأعضاء التالية:
+يكشف النوع ValidationType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | ANY_VALUE | أي نوع من التحقق من صحة القيمة.|
-| WHOLE_NUMBER | نوع التحقق من الرقم الصحيح.|
+| WHOLE_NUMBER | نوع التحقق من صحة الرقم الكامل.|
 | DECIMAL | نوع التحقق العشري.|
-| LIST | نوع التحقق من القائمة.|
-| DATE | نوع التحقق من التاريخ.|
+| LIST | نوع التحقق من صحة القائمة.|
+| DATE | نوع التحقق من صحة التاريخ.|
 | TIME | نوع التحقق من الوقت.|
 | TEXT_LENGTH | نوع التحقق من طول النص.|
 | CUSTOM | نوع التحقق المخصص.|
@@ -29,4 +29,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

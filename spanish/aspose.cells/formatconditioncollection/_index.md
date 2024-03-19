@@ -3,12 +3,12 @@ title: FormatConditionCollection clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 700
+weight: 730
 url: /es/aspose.cells/formatconditioncollection/
 is_root: false
 ---
 ##  FormatConditionCollection clase
-Representa formato condicional.
+Representa el formato condicional.
 FormatConditions puede contener hasta tres formatos condicionales.
 
 
@@ -19,7 +19,7 @@ El tipo FormatConditionCollection expone los siguientes miembros:
 | Propiedad| Descripción|
 | :- | :- |
 | [count](/cells/python-net/es/aspose.cells/formatconditioncollection/count) | Obtiene el recuento de las condiciones.|
-| [range_count](/cells/python-net/es/aspose.cells/formatconditioncollection/range_count) | Obtiene el recuento de rangos con formato condicional.|
+| [range_count](/cells/python-net/es/aspose.cells/formatconditioncollection/range_count) | Obtiene el recuento de rangos formateados condicionalmente.|
 
 
 
@@ -27,20 +27,20 @@ Obtiene la condición de formato por índice.
 ###  indexador
 | Nombre| Descripción|
 | :- | :- |
-| [index] | el índice de la condición de formato a devolver.|
+| [index] |el índice de la condición de formato a devolver.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [add_condition(type, operator_type, formula1, formula2)](/cells/python-net/es/aspose.cells/formatconditioncollection/add_condition/#FormatConditionType-OperatorType-str-str) | Agrega una condición de formato.|
-| [add_condition(type)](/cells/python-net/es/aspose.cells/formatconditioncollection/add_condition/#FormatConditionType) |Agregue una condición de formato.|
-| [remove_area(index)](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_area/#int) | Elimina el rango de celdas con formato condicional por índice.|
-| [remove_area(start_row, start_column, total_rows, total_columns)](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Eliminar el formato condicional en el rango.|
-| [add(cell_area, type, operator_type, formula1, formula2)](/cells/python-net/es/aspose.cells/formatconditioncollection/add/#CellArea-FormatConditionType-OperatorType-str-str) | Agrega una condición de formato y un rango de celda afectado a FormatConditions<br/>FormatConditions puede contener hasta tres formatos condicionales.<br/> Las referencias a las otras hojas no están permitidas en las fórmulas de formato condicional.|
-| [add_area(cell_area)](/cells/python-net/es/aspose.cells/formatconditioncollection/add_area/#CellArea) | Agrega un rango de celdas con formato condicional.|
-| [get_cell_area(index)](/cells/python-net/es/aspose.cells/formatconditioncollection/get_cell_area/#int) | Obtiene el rango de celdas con formato condicional por índice.|
-| [remove_condition(index)](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_condition/#int) | Elimina la condición de formateo por índice.|
+| [add_condition](/cells/python-net/es/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Agrega una condición de formato.|
+| [add_condition](/cells/python-net/es/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType) | Agregue una condición de formato.|
+| [remove_area](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_area/#int) | Elimina el rango de celdas con formato condicional por índice.|
+| [remove_area](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Elimine el formato condicional en el rango.|
+| [add](/cells/python-net/es/aspose.cells/formatconditioncollection/add/#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Agrega una condición de formato y un rango de celda afectado a FormatConditions<br/>FormatConditions puede contener hasta tres formatos condicionales.<br/> No se permiten referencias a otras hojas en las fórmulas de formato condicional.|
+| [add_area](/cells/python-net/es/aspose.cells/formatconditioncollection/add_area/#aspose.cells.CellArea) | Agrega un rango de celdas con formato condicional.|
+| [get_cell_area](/cells/python-net/es/aspose.cells/formatconditioncollection/get_cell_area/#int) | Obtiene el rango de celdas con formato condicional por índice.|
+| [remove_condition](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_condition/#int) | Elimina la condición de formato por índice.|
 
 
 
@@ -83,4 +83,4 @@ workbook.save("output.xls")
 ```
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

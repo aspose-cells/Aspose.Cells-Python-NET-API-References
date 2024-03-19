@@ -1,15 +1,15 @@
 ---
-title: page_index الملكية
+title: page_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ar/aspose.cells/xpssaveoptions/page_index/
 is_root: false
 ---
-##  page_index الملكية
+##  page_index عقار
 
-الحصول على أو تحديد الفهرس الذي يستند إلى 0 للصفحة الأولى لحفظها.
+الحصول على أو تعيين الفهرس المستند إلى 0 للصفحة الأولى المراد حفظها.
 
 ###  ملاحظات
 
@@ -17,7 +17,7 @@ is_root: false
 
 ###  مثال
 
-يوضح المثال التالي كيفية عرض نطاق من الصفحات (3 و 4) في ملف Excel Microsoft إلى PDF.
+يوضح المثال التالي كيفية عرض نطاق من الصفحات (3 و4) في ملف Excel Microsoft إلى PDF.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -45,5 +45,5 @@ def page_index(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [XpsSaveOptions](/cells/python-net/ar/aspose.cells/xpssaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`XpsSaveOptions`](/cells/python-net/ar/aspose.cells/xpssaveoptions)

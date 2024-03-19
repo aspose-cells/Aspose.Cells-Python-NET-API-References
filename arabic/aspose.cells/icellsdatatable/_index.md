@@ -1,24 +1,24 @@
 ---
-title: ICellsDataTable الدرجة
+title: ICellsDataTable صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 810
+weight: 860
 url: /ar/aspose.cells/icellsdatatable/
 is_root: false
 ---
-##  ICellsDataTable الدرجة
+##  ICellsDataTable صف
 يمثل جدول البيانات.
 
 
 
-يكشف نوع ICellsDataTable الأعضاء التالية:
+يكشف النوع ICellsDataTable عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [columns](/cells/python-net/ar/aspose.cells/icellsdatatable/columns) | الحصول على اسم الأعمدة.|
-| [count](/cells/python-net/ar/aspose.cells/icellsdatatable/count) | يحصل على عدد السجلات. -1 لسجلات غير معروفة العد.|
+| [columns](/cells/python-net/ar/aspose.cells/icellsdatatable/columns) | يحصل على اسم الأعمدة.|
+| [count](/cells/python-net/ar/aspose.cells/icellsdatatable/count) | يحصل على عدد السجلات. -1 لعدد السجلات غير المعروفة.|
 
 
 
@@ -26,14 +26,14 @@ is_root: false
 ###  مفهرس
 | اسم| وصف|
 | :- | :- |
-| [index] | فهرس العمود الصفري.|
+| [index] | الفهرس الصفري للعمود.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [before_first()](/cells/python-net/ar/aspose.cells/icellsdatatable/before_first/#) | حرك المؤشر إلى مقدمة هذا الكائن ، قبل الصف الأول مباشرة.|
-| [next()](/cells/python-net/ar/aspose.cells/icellsdatatable/next/#) | ينقل المؤشر لأسفل بمقدار صف واحد عن موضعه الحالي.|
+| [before_first](/cells/python-net/ar/aspose.cells/icellsdatatable/before_first/#) | حرك المؤشر إلى مقدمة هذا الكائن، قبل الصف الأول مباشرة.|
+| [next](/cells/python-net/ar/aspose.cells/icellsdatatable/next/#) | لتحريك المؤشر لأسفل بمقدار صف واحد من موضعه الحالي.|
 
 
 
@@ -42,4 +42,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

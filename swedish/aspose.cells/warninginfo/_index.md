@@ -3,7 +3,7 @@ title: WarningInfo klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1580
+weight: 1650
 url: /sv/aspose.cells/warninginfo/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen WarningInfo avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

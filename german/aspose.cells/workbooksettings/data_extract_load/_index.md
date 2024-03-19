@@ -3,13 +3,13 @@ title: data_extract_load Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 180
+weight: 140
 url: /de/aspose.cells/workbooksettings/data_extract_load/
 is_root: false
 ---
 ##  data_extract_load Eigentum
 
-gibt an, ob die Anwendung die Arbeitsmappe zuletzt zur Datenwiederherstellung geöffnet hat.
+Gibt an, ob die Anwendung die Arbeitsmappe zuletzt zur Datenwiederherstellung geöffnet hat.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def data_extract_load(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorkbookSettings](/cells/python-net/de/aspose.cells/workbooksettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookSettings`](/cells/python-net/de/aspose.cells/workbooksettings)

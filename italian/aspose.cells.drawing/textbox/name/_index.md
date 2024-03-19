@@ -3,13 +3,13 @@ title: name proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 800
+weight: 820
 url: /it/aspose.cells.drawing/textbox/name/
 is_root: false
 ---
 ##  name proprietà
 
-Ottiene e imposta name della forma.
+Ottiene e imposta lo name della forma.
 
 ###  Esempio
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [TextBox](/cells/python-net/it/aspose.cells.drawing/textbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`TextBox`](/cells/python-net/it/aspose.cells.drawing/textbox)

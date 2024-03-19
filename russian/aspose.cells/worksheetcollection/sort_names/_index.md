@@ -1,13 +1,13 @@
 ---
 title: sort_names метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 200
+weight: 210
 url: /ru/aspose.cells/worksheetcollection/sort_names/
 is_root: false
 ---
-##  sort_names() {#}
+##  sort_names {#}
 Сортирует определенные имена.
 
 
@@ -25,5 +25,5 @@ def sort_names(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorksheetCollection](/cells/python-net/ru/aspose.cells/worksheetcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`WorksheetCollection`](/cells/python-net/ru/aspose.cells/worksheetcollection)

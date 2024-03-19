@@ -3,7 +3,7 @@ title: is_group propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 560
+weight: 570
 url: /es/aspose.cells.drawing/button/is_group/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def is_group(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Button](/cells/python-net/es/aspose.cells.drawing/button)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Button`](/cells/python-net/es/aspose.cells.drawing/button)

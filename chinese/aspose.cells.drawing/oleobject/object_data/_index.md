@@ -1,13 +1,13 @@
 ---
-title: object_data 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: object_data属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 950
+weight: 960
 url: /zh/aspose.cells.drawing/oleobject/object_data/
 is_root: false
 ---
-## object_data 属性
+## object_data属性
 
 将嵌入的 ole 对象数据表示为字节数组。
 ### 定义：
@@ -21,5 +21,5 @@ def object_data(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [OleObject](/cells/python-net/zh/aspose.cells.drawing/oleobject)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`OleObject`](/cells/python-net/zh/aspose.cells.drawing/oleobject)

@@ -1,15 +1,15 @@
 ---
-title: row الملكية
+title: row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ar/aspose.cells/comment/row/
 is_root: false
 ---
-##  row الملكية
+##  row عقار
 
-الحصول على فهرس row للتعليق.
+يحصل على فهرس التعليق row.
 
 ###  مثال
 
@@ -26,5 +26,5 @@ def row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

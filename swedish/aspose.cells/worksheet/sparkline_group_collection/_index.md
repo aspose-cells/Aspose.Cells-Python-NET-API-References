@@ -3,7 +3,7 @@ title: sparkline_group_collection fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 770
+weight: 790
 url: /sv/aspose.cells/worksheet/sparkline_group_collection/
 is_root: false
 ---
@@ -24,6 +24,6 @@ def sparkline_group_collection(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [SparklineGroupCollection](/cells/python-net/sv/aspose.cells.charts/sparklinegroupcollection)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`SparklineGroupCollection`](/cells/python-net/sv/aspose.cells.charts/sparklinegroupcollection)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

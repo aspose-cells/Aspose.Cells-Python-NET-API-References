@@ -3,17 +3,17 @@ title: lower_delta_y propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 770
+weight: 780
 url: /fr/aspose.cells.drawing/checkbox/lower_delta_y/
 is_root: false
 ---
 ##  lower_delta_y propriété
 
-Obtient ou définit le décalage vertical de la forme par rapport à sa rangée du coin inférieur droit.
+Obtient ou définit le décalage vertical de la forme par rapport à sa ligne du coin inférieur droit.
 
 ###  Remarques
 
-La plage de valeurs est de 0 à 256.
+La plage de valeurs va de 0 à 256.
 
 ###  Exemple
 
@@ -34,5 +34,5 @@ def lower_delta_y(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [CheckBox](/cells/python-net/fr/aspose.cells.drawing/checkbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`CheckBox`](/cells/python-net/fr/aspose.cells.drawing/checkbox)

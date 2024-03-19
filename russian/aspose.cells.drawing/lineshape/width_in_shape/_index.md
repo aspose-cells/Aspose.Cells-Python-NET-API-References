@@ -1,26 +1,26 @@
 ---
 title: width_in_shape недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /ru/aspose.cells.drawing/lineshape/width_in_shape/
 is_root: false
 ---
 ##  width_in_shape недвижимость
 
-Представляет ширину фигуры в 1/4000 от родительской фигуры.
+Представляет ширину фигуры в единицах 1/4000 родительской фигуры.
 
 ###  Примечания
 
-Применяется только тогда, когда эта фигура находится в группе или на диаграмме.
+Применяется только тогда, когда эта фигура находится в группе или диаграмме.
 
 ###  Пример
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.width_in_shape == 2000:
+    shape.width_in_shape = 4000
 
 ```
 ###  Определение:
@@ -34,5 +34,5 @@ def width_in_shape(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineShape](/cells/python-net/ru/aspose.cells.drawing/lineshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineShape`](/cells/python-net/ru/aspose.cells.drawing/lineshape)

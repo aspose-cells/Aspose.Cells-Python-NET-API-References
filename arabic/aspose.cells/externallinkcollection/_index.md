@@ -1,18 +1,18 @@
 ---
-title: ExternalLinkCollection الدرجة
+title: ExternalLinkCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 570
+weight: 600
 url: /ar/aspose.cells/externallinkcollection/
 is_root: false
 ---
-##  ExternalLinkCollection الدرجة
-يمثل مجموعة الارتباطات الخارجية في مصنف.
+##  ExternalLinkCollection صف
+يمثل مجموعة الروابط الخارجية في المصنف.
 
 
 
-يكشف نوع ExternalLinkCollection الأعضاء التالية:
+يكشف النوع ExternalLinkCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
@@ -21,7 +21,7 @@ is_root: false
 
 
 
-الحصول على عنصر [ExternalLink](/cells/python-net/ar/aspose.cells/externallink) بالفهرس المحدد.
+يحصل على العنصر [`ExternalLink`](/cells/python-net/ar/aspose.cells/externallink) في الفهرس المحدد.
 ###  مفهرس
 | اسم| وصف|
 | :- | :- |
@@ -31,12 +31,12 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add(file_name, sheet_names)](/cells/python-net/ar/aspose.cells/externallinkcollection/add/#str-list) | يضيف ارتباط خارجي.|
-| [add(directory_type, file_name, sheet_names)](/cells/python-net/ar/aspose.cells/externallinkcollection/add/#DirectoryType-str-list) | أضف ارتباطًا خارجيًا.|
-| [clear()](/cells/python-net/ar/aspose.cells/externallinkcollection/clear/#) | يزيل كل الروابط الخارجية.|
-| [clear(update_references_as_local)](/cells/python-net/ar/aspose.cells/externallinkcollection/clear/#bool) | يزيل كل الروابط الخارجية.|
-| [remove_at(index)](/cells/python-net/ar/aspose.cells/externallinkcollection/remove_at/#int) | يزيل الارتباط الخارجي المحدد من المصنف.|
-| [remove_at(index, update_references_as_local)](/cells/python-net/ar/aspose.cells/externallinkcollection/remove_at/#int-bool) | يزيل الارتباط الخارجي المحدد من المصنف.|
+| [add](/cells/python-net/ar/aspose.cells/externallinkcollection/add/#str-list) | يضيف رابط خارجي.|
+| [add](/cells/python-net/ar/aspose.cells/externallinkcollection/add/#aspose.cells.DirectoryType-str-list) | إضافة رابط خارجي .|
+| [clear](/cells/python-net/ar/aspose.cells/externallinkcollection/clear/#) | يزيل كافة الروابط الخارجية.|
+| [clear](/cells/python-net/ar/aspose.cells/externallinkcollection/clear/#bool) | يزيل كافة الروابط الخارجية.|
+| [remove_at](/cells/python-net/ar/aspose.cells/externallinkcollection/remove_at/#int) | إزالة الارتباط الخارجي المحدد من المصنف.|
+| [remove_at](/cells/python-net/ar/aspose.cells/externallinkcollection/remove_at/#int-bool) | إزالة الارتباط الخارجي المحدد من المصنف.|
 
 
 
@@ -53,5 +53,5 @@ workbook.worksheets.external_links[0].data_source = "d:\\link.xls"
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
-* فئة [ExternalLink](/cells/python-net/ar/aspose.cells/externallink)
+* الوحدة [`aspose.cells`](..)
+* فئة [`ExternalLink`](/cells/python-net/ar/aspose.cells/externallink)

@@ -3,14 +3,14 @@ title: placement propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 820
+weight: 830
 url: /es/aspose.cells.drawing/groupbox/placement/
 is_root: false
 ---
 ##  placement propiedad
 
 Representa la forma en que el objeto de dibujo se adjunta a las celdas debajo de él.
-La propiedad controla el placement de un objeto en una hoja de cálculo.
+La propiedad controla el placement de un objeto en una hoja de trabajo.
 
 ###  Ejemplo
 
@@ -32,6 +32,6 @@ def placement(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupBox](/cells/python-net/es/aspose.cells.drawing/groupbox)
-* clase [PlacementType](/cells/python-net/es/aspose.cells.drawing/placementtype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupBox`](/cells/python-net/es/aspose.cells.drawing/groupbox)
+* clase [`PlacementType`](/cells/python-net/es/aspose.cells.drawing/placementtype)

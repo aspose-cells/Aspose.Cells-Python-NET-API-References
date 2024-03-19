@@ -1,16 +1,16 @@
 ---
-title: is_multiple_item_selection_allowed الملكية
+title: is_multiple_item_selection_allowed عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 440
 url: /ar/aspose.cells.pivot/pivotfield/is_multiple_item_selection_allowed/
 is_root: false
 ---
-##  is_multiple_item_selection_allowed الملكية
+##  is_multiple_item_selection_allowed عقار
 
-يشير إلى ما إذا كان يمكن أن يحتوي الحقل على عناصر متعددة
-المختارة في حقل الصفحة
+يشير إلى ما إذا كان الحقل يمكن أن يحتوي على عناصر متعددة
+المحدد في حقل الصفحة
 القيمة الافتراضية هي كاذبة.
 ###  تعريف:
 ```python
@@ -23,5 +23,5 @@ def is_multiple_item_selection_allowed(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

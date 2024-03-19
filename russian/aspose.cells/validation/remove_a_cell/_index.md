@@ -1,14 +1,14 @@
 ---
 title: remove_a_cell метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ru/aspose.cells/validation/remove_a_cell/
 is_root: false
 ---
-##  remove_a_cell(row, column) {#int-int}
-Удалите настройки проверки в ячейке.
+##  remove_a_cell {#int-int}
+Удалите параметры проверки в ячейке.
 
 
 
@@ -26,5 +26,5 @@ def remove_a_cell(self, row, column):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Validation](/cells/python-net/ru/aspose.cells/validation)
+* модуль [`aspose.cells`](../../)
+* класс [`Validation`](/cells/python-net/ru/aspose.cells/validation)

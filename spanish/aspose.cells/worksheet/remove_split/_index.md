@@ -1,13 +1,13 @@
 ---
-title: remove_split método
+title: método remove_split
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 240
 url: /es/aspose.cells/worksheet/remove_split/
 is_root: false
 ---
-##  remove_split() {#}
+##  remove_split {#}
 Elimina la ventana dividida.
 
 
@@ -22,5 +22,5 @@ def remove_split(self):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

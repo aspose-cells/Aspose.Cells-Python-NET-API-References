@@ -3,13 +3,13 @@ title: is_word_art propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 680
+weight: 690
 url: /fr/aspose.cells.drawing/spinner/is_word_art/
 is_root: false
 ---
 ##  is_word_art propriété
 
-Indique si cette forme est un mot art.
+Indique si cette forme est un word art.
 
 ###  Remarques
 
@@ -31,5 +31,5 @@ def is_word_art(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Spinner](/cells/python-net/fr/aspose.cells.drawing/spinner)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Spinner`](/cells/python-net/fr/aspose.cells.drawing/spinner)

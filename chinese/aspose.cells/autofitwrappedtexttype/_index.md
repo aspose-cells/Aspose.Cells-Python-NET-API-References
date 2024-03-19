@@ -1,9 +1,9 @@
 ---
 title: AutoFitWrappedTextType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1770
+weight: 1840
 url: /zh/aspose.cells/autofitwrappedtexttype/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-AutoFitWrappedTextType 类型公开了以下成员：
+AutoFitWrappedTextType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| DEFAULT |作为 MS Excel 工作。|
+| DEFAULT |与 MS Excel 一样工作。|
 | PARAGRAPH |自动适应最长段落的宽度。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

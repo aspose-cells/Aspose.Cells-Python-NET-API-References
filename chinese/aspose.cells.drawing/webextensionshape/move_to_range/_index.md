@@ -1,13 +1,13 @@
 ---
 title: move_to_range方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 140
+weight: 160
 url: /zh/aspose.cells.drawing/webextensionshape/move_to_range/
 is_root: false
 ---
-##  move_to_range(upper_left_row, upper_left_column, lower_right_row, lower_right_column) {#int-int-int-int}
+##  move_to_range {#int-int-int-int}
 将形状移动到指定范围。
 
 
@@ -36,5 +36,5 @@ shape.move_to_range(12, 3, 13, 5)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [WebExtensionShape](/cells/python-net/zh/aspose.cells.drawing/webextensionshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`WebExtensionShape`](/cells/python-net/zh/aspose.cells.drawing/webextensionshape)

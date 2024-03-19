@@ -3,7 +3,7 @@ title: note propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 180
 url: /es/aspose.cells/comment/note/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Representa el contenido del comentario.
 
 ###  Observaciones
 
-Si se trata de un comentario encadenado, el note no se pudo cambiar; de lo contrario, MS Excel no podría procesarlo como un comentario encadenado.
+Si se trata de un comentario encadenado, el note no se podrá cambiar; de lo contrario, MS Excel no podrá procesarlo como un comentario encadenado.
 
 ###  Ejemplo
 
@@ -33,5 +33,5 @@ def note(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Comment](/cells/python-net/es/aspose.cells/comment)
+* módulo [`aspose.cells`](../../)
+* clase [`Comment`](/cells/python-net/es/aspose.cells/comment)

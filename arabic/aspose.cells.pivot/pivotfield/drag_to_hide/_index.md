@@ -1,15 +1,15 @@
 ---
-title: drag_to_hide الملكية
+title: drag_to_hide عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 300
 url: /ar/aspose.cells.pivot/pivotfield/drag_to_hide/
 is_root: false
 ---
-##  drag_to_hide الملكية
+##  drag_to_hide عقار
 
-يشير إلى إمكانية سحب الحقل المحدد إلى موضع الإخفاء.
+يشير إلى ما إذا كان يمكن سحب الحقل المحدد إلى موضع الإخفاء.
 القيمة الافتراضية هي الحقيقية.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def drag_to_hide(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

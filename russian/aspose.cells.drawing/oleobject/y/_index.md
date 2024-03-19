@@ -1,15 +1,15 @@
 ---
 title: y недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1410
+weight: 1420
 url: /ru/aspose.cells.drawing/oleobject/y/
 is_root: false
 ---
 ##  y недвижимость
 
-Получает и задает вертикальное смещение фигуры от верхней границы рабочего листа в единицах пикселей.
+Получает и задает вертикальное смещение фигуры от верхней границы листа в пикселях.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

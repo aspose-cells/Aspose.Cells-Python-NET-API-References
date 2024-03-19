@@ -3,11 +3,11 @@ title: hide_columns metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 560
 url: /sv/aspose.cells/cells/hide_columns/
 is_root: false
 ---
-##  hide_columns(column, total_columns) {#int-int}
+##  hide_columns {#int-int}
 Dölj flera kolumner.
 
 
@@ -26,5 +26,5 @@ def hide_columns(self, column, total_columns):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

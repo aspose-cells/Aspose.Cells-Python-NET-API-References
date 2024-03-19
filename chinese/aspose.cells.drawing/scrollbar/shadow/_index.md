@@ -1,13 +1,13 @@
 ---
-title: shadow 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: shadow属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 930
+weight: 940
 url: /zh/aspose.cells.drawing/scrollbar/shadow/
 is_root: false
 ---
-## shadow 属性
+## shadow属性
 
 指示形状是否具有 3-D 阴影。
 ### 定义：
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ScrollBar](/cells/python-net/zh/aspose.cells.drawing/scrollbar)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ScrollBar`](/cells/python-net/zh/aspose.cells.drawing/scrollbar)

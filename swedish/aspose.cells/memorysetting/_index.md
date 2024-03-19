@@ -3,7 +3,7 @@ title: MemorySetting uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2240
+weight: 2320
 url: /sv/aspose.cells/memorysetting/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Typen MemorySetting avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

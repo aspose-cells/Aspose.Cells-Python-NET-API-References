@@ -3,13 +3,13 @@ title: shadow_effect proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 870
+weight: 890
 url: /it/aspose.cells.drawing/textbox/shadow_effect/
 is_root: false
 ---
 ##  shadow_effect proprietà
 
-Rappresenta un oggetto [ShadowEffect](/cells/python-net/it/aspose.cells.drawing/shadoweffect) che specifica l'effetto ombra per l'elemento o la forma del grafico.
+Rappresenta un oggetto [`ShadowEffect`](/cells/python-net/it/aspose.cells.drawing/shadoweffect) che specifica l'effetto ombra per l'elemento o la forma del grafico.
 
 ###  Esempio
 
@@ -26,6 +26,6 @@ def shadow_effect(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ShadowEffect](/cells/python-net/it/aspose.cells.drawing/shadoweffect)
-* classe [TextBox](/cells/python-net/it/aspose.cells.drawing/textbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ShadowEffect`](/cells/python-net/it/aspose.cells.drawing/shadoweffect)
+* classe [`TextBox`](/cells/python-net/it/aspose.cells.drawing/textbox)

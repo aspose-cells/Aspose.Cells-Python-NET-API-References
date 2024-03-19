@@ -1,19 +1,19 @@
 ---
-title: is_word_art الملكية
+title: is_word_art عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 650
+weight: 660
 url: /ar/aspose.cells.drawing/rectangleshape/is_word_art/
 is_root: false
 ---
-##  is_word_art الملكية
+##  is_word_art عقار
 
-يشير إلى ما إذا كان هذا الشكل عبارة عن صورة فنية.
+يشير إلى ما إذا كان هذا الشكل عبارة عن كلمة فنية.
 
 ###  ملاحظات
 
-فقط من أجل Legacy Shape لملف xls.
+فقط للشكل القديم لملف xls.
 
 ###  مثال
 
@@ -31,5 +31,5 @@ def is_word_art(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RectangleShape](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RectangleShape`](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)

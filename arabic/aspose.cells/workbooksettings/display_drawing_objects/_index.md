@@ -1,15 +1,15 @@
 ---
-title: display_drawing_objects الملكية
+title: display_drawing_objects عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 160
 url: /ar/aspose.cells/workbooksettings/display_drawing_objects/
 is_root: false
 ---
-##  display_drawing_objects الملكية
+##  display_drawing_objects عقار
 
-يشير إلى ما إذا كان سيتم إظهار الكائنات في المصنف وكيفية إظهارها.
+يشير إلى ما إذا كان سيتم إظهار الكائنات في المصنف أم لا وكيفية إظهارها.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def display_drawing_objects(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DisplayDrawingObjects](/cells/python-net/ar/aspose.cells/displaydrawingobjects)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DisplayDrawingObjects`](/cells/python-net/ar/aspose.cells/displaydrawingobjects)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

@@ -3,13 +3,13 @@ title: is_word_art mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 670
+weight: 690
 url: /tr/aspose.cells.drawing/radiobutton/is_word_art/
 is_root: false
 ---
 ##  is_word_art mülk
 
-Bu şeklin bir kelime sanatı olup olmadığını gösterir.
+Bu şeklin bir kelime sanatı olup olmadığını belirtir.
 
 ###  Notlar
 
@@ -31,5 +31,5 @@ def is_word_art(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RadioButton](/cells/python-net/tr/aspose.cells.drawing/radiobutton)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RadioButton`](/cells/python-net/tr/aspose.cells.drawing/radiobutton)

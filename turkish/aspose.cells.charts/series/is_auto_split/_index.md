@@ -3,13 +3,13 @@ title: is_auto_split mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 260
 url: /tr/aspose.cells.charts/series/is_auto_split/
 is_root: false
 ---
 ##  is_auto_split mülk
 
-Eşik değerinin otomatik olup olmadığını gösterir.
+Eşik değerinin otomatik olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_auto_split(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

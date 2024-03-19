@@ -3,7 +3,7 @@ title: is_plot_order_reversed propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 250
 url: /es/aspose.cells.charts/axis/is_plot_order_reversed/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_plot_order_reversed(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Axis](/cells/python-net/es/aspose.cells.charts/axis)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Axis`](/cells/python-net/es/aspose.cells.charts/axis)

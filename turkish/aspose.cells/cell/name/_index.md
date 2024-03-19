@@ -3,17 +3,17 @@ title: name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 630
+weight: 660
 url: /tr/aspose.cells/cell/name/
 is_root: false
 ---
 ##  name mülk
 
-Hücrenin name'ini alır.
+Hücrenin name’ini alır.
 
 ###  Notlar
 
-name hücresi, sütun harfini ve satır numarasını içerir. Örneğin, satır 0 ve sütun 0'daki bir hücrenin name'i A1'dir.
+name hücresi, sütun harfini ve satır numarasını içerir. Örneğin satır 0 ve sütun 0'daki bir hücrenin name'i A1'dir.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def name(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

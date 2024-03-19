@@ -1,15 +1,15 @@
 ---
-title: worksheet_scalable الملكية
+title: worksheet_scalable عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 660
+weight: 730
 url: /ar/aspose.cells/htmlsaveoptions/worksheet_scalable/
 is_root: false
 ---
-##  worksheet_scalable الملكية
+##  worksheet_scalable عقار
 
-يشير إلى ما إذا كنت تقوم بتكبير أو تصغير html عبر مستوى تكبير ورقة العمل عند حفظ الملف في html ، فإن القيمة الافتراضية هي false.
+يشير إلى ما إذا كان تكبير أو تصغير html عبر مستوى تكبير ورقة العمل عند حفظ الملف إلى html، فإن القيمة الافتراضية خاطئة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def worksheet_scalable(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

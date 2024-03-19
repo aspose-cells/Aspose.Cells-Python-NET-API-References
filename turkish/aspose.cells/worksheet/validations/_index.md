@@ -3,7 +3,7 @@ title: validations mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 870
+weight: 890
 url: /tr/aspose.cells/worksheet/validations/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def validations(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ValidationCollection](/cells/python-net/tr/aspose.cells/validationcollection)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`ValidationCollection`](/cells/python-net/tr/aspose.cells/validationcollection)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

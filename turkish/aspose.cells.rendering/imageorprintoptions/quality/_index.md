@@ -3,18 +3,18 @@ title: quality mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 280
 url: /tr/aspose.cells.rendering/imageorprintoptions/quality/
 is_root: false
 ---
 ##  quality mülk
 
 Oluşturulan görüntülerin quality'ini belirleyen bir değer alır veya ayarlar
-yalnızca sayfaları `Jpeg` biçiminde kaydederken uygulanacak. Varsayılan değer 100'dür
+yalnızca sayfaları `Jpeg` biçiminde kaydederken uygulamak için. Varsayılan değer 100'dür
 
 ###  Notlar
 
-Yalnızca JPEG'e kaydederken etkilidir.
+Yalnızca JPEG'e kaydederken etkili olur.
 Değer 0 ile 100 arasında olmalıdır.
 Varsayılan değer 100'dür.
 ###  Tanım:
@@ -28,5 +28,5 @@ def quality(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [ImageOrPrintOptions](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`ImageOrPrintOptions`](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)

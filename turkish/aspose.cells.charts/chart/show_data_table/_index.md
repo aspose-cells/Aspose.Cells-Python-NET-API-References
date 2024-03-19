@@ -3,13 +3,13 @@ title: show_data_table mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 540
+weight: 570
 url: /tr/aspose.cells.charts/chart/show_data_table/
 is_root: false
 ---
 ##  show_data_table mülk
 
-Grafiğin bir veri tablosu gösterip göstermediğini gösteren bir değer alır veya ayarlar.
+Grafiğin bir veri tablosu görüntüleyip görüntülemediğini gösteren bir değer alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_data_table(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Chart](/cells/python-net/tr/aspose.cells.charts/chart)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Chart`](/cells/python-net/tr/aspose.cells.charts/chart)

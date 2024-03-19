@@ -3,11 +3,11 @@ title: to_tiff metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 70
 url: /sv/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff(stream) {#io.RawIOBase}
+##  to_tiff {#io.RawIOBase}
 Gör hela kalkylbladet som Tiff-bild för att streama.
 
 
@@ -23,7 +23,7 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase | strömmen av utdatabilden|
 
 
-##  to_tiff(filename) {#str}
+##  to_tiff {#str}
 Gör hela kalkylbladet som Tiff-bild till en fil.
 
 
@@ -61,5 +61,5 @@ sr.to_tiff("output.tiff")
 
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [SheetRender](/cells/python-net/sv/aspose.cells.rendering/sheetrender)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`SheetRender`](/cells/python-net/sv/aspose.cells.rendering/sheetrender)

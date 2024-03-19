@@ -1,9 +1,9 @@
 ---
 title: ValidationType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2640
+weight: 2730
 url: /ru/aspose.cells/validationtype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип ValidationType предоставляет следующие члены:
+Тип ValidationType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -29,4 +29,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

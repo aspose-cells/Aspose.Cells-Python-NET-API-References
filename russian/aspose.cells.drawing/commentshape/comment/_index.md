@@ -1,9 +1,9 @@
 ---
 title: comment недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ru/aspose.cells.drawing/commentshape/comment/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def comment(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
-* класс [CommentShape](/cells/python-net/ru/aspose.cells.drawing/commentshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)
+* класс [`CommentShape`](/cells/python-net/ru/aspose.cells.drawing/commentshape)

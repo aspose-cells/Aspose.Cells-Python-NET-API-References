@@ -3,14 +3,14 @@ title: height_scale proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 470
+weight: 480
 url: /it/aspose.cells.drawing/smartartshape/height_scale/
 is_root: false
 ---
 ##  height_scale proprietà
 
-Ottiene e imposta la scala dell'altezza, in unità di percentuale dell'altezza dell'immagine originale.
-Se la forma non è picture , la proprietà HeightScale restituisce solo 100;
+Ottiene e imposta la scala dell'altezza, in unità percentuali dell'altezza dell'immagine originale.
+Se la forma non è un'immagine, la proprietà HeightScale restituisce solo 100;
 
 ###  Esempio
 
@@ -31,5 +31,5 @@ def height_scale(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [SmartArtShape](/cells/python-net/it/aspose.cells.drawing/smartartshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`SmartArtShape`](/cells/python-net/it/aspose.cells.drawing/smartartshape)

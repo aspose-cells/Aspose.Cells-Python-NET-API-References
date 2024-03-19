@@ -3,13 +3,13 @@ title: is_automatic_major_unit propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 180
+weight: 190
 url: /es/aspose.cells.charts/axis/is_automatic_major_unit/
 is_root: false
 ---
 ##  is_automatic_major_unit propiedad
 
-Indica si la unidad principal del eje se asigna automáticamente.
+Indica si la unidad mayor del eje se asigna automáticamente.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_automatic_major_unit(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Axis](/cells/python-net/es/aspose.cells.charts/axis)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Axis`](/cells/python-net/es/aspose.cells.charts/axis)

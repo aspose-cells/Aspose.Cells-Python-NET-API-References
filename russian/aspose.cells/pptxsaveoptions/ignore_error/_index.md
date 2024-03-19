@@ -1,16 +1,16 @@
 ---
 title: ignore_error недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 130
+weight: 160
 url: /ru/aspose.cells/pptxsaveoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error недвижимость
 
 Указывает, нужно ли скрыть ошибку при рендеринге.
-Ошибка может быть ошибкой в форме, изображении, рендеринге диаграммы и т. д.
+Ошибка может заключаться в ошибке формы, изображения, отрисовки диаграммы и т. д.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def ignore_error(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PptxSaveOptions](/cells/python-net/ru/aspose.cells/pptxsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PptxSaveOptions`](/cells/python-net/ru/aspose.cells/pptxsaveoptions)

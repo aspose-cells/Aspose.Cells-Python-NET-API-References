@@ -1,13 +1,13 @@
 ---
-title: calculate_formula método
+title: método calculate_formula
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 80
+weight: 90
 url: /es/aspose.cells/worksheet/calculate_formula/
 is_root: false
 ---
-##  calculate_formula(formula) {#str}
+##  calculate_formula {#str}
 Calcula una fórmula.
 
 
@@ -27,13 +27,14 @@ def calculate_formula(self, formula):
 | formula | str | Fórmula a calcular.|
 
 
-##  calculate_formula(formula, opts) {#str-CalculationOptions}
-Calcula una fórmula.
+##  calculate_formula {#str-aspose.cells.CalculationOptions}
+Calcula una expresión de fórmula directamente.
 
 
 ###  Devoluciones
 
-Resultado de la fórmula calculada.
+Resultado calculado de la fórmula dada.
+El objeto devuelto puede ser de posibles tipos de [`Cell.value`](/cells/python-net/es/aspose.cells/cell#value) o ReferedArea.
 
 
 ```python
@@ -45,11 +46,16 @@ def calculate_formula(self, formula, opts):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | formula | str | Fórmula a calcular.|
-| opts | [CalculationOptions](/cells/python-net/es/aspose.cells/calculationoptions) | Opciones para calcular la fórmula|
+| opts | [`CalculationOptions`](/cells/python-net/es/aspose.cells/calculationoptions) | Opciones para calcular la fórmula.|
+###  Observaciones
 
+La fórmula se calculará tal como se configuró en la celda A1.
+Y la fórmula se tomará como fórmula normal.
+Si necesita que la fórmula se calcule como una fórmula matricial y obtenga una matriz para el resultado calculado,
+utilice [`Worksheet.calculate_array_formula`](/cells/python-net/es/aspose.cells/worksheet/calculate_array_formula) en su lugar.
 
-##  calculate_formula(options, recursive) {#CalculationOptions-bool}
-Calcula todas las fórmulas en esta hoja de cálculo.
+##  calculate_formula {#aspose.cells.CalculationOptions-bool}
+Calcula todas las fórmulas en esta hoja de trabajo.
 
 
 
@@ -61,34 +67,42 @@ def calculate_formula(self, options, recursive):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| options | [CalculationOptions](/cells/python-net/es/aspose.cells/calculationoptions) | Opciones de cálculo|
-| recursive | bool | Verdadero significa que si las celdas de la hoja de trabajo dependen de las celdas de otras hojas de trabajo,<br/>las celdas dependientes en otras hojas de cálculo también se calcularán.<br/> Falso significa que se han calculado todas las fórmulas de la hoja de trabajo y los valores son correctos.|
+| options | [`CalculationOptions`](/cells/python-net/es/aspose.cells/calculationoptions) | Opciones de cálculo|
+| recursive | bool | Verdadero significa que si las celdas de la hoja de trabajo dependen de las celdas de otras hojas de trabajo,<br/>Las celdas dependientes en otras hojas de trabajo también se calcularán.<br/> Falso significa que todas las fórmulas de la hoja de cálculo se han calculado y los valores son correctos.|
 
 
-##  calculate_formula(recursive, ignore_error, custom_function) {#bool-bool-ICustomFunction}
-Calcula todas las fórmulas en esta hoja de cálculo.
+##  calculate_formula {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
+Calcula una expresión de fórmula directamente.
 
+
+###  Devoluciones
+
+Resultado calculado de la fórmula dada.
+El objeto devuelto puede ser de posibles tipos de [`Cell.value`](/cells/python-net/es/aspose.cells/cell#value) o ReferedArea.
 
 
 ```python
-def calculate_formula(self, recursive, ignore_error, custom_function):
+def calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data):
     ...
 ```
 
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| recursive | bool | Verdadero significa que si las celdas de la hoja de trabajo dependen de las celdas de otras hojas de trabajo,<br/>las celdas dependientes en otras hojas de cálculo también se calcularán.<br/> Falso significa que se han calculado todas las fórmulas de la hoja de trabajo y los valores son correctos.|
-| ignore_error | bool | Indica si se oculta el error en el cálculo de fórmulas.<br/> El error puede ser una función no compatible, enlaces externos, etc.|
-| custom_function | [ICustomFunction](/cells/python-net/es/aspose.cells/icustomfunction) | Las funciones de cálculo de fórmula personalizada para ampliar el motor de cálculo.|
+| formula | str | Fórmula a calcular.|
+| p_opts | [`FormulaParseOptions`](/cells/python-net/es/aspose.cells/formulaparseoptions) | Opciones para analizar la fórmula.|
+| c_opts | [`CalculationOptions`](/cells/python-net/es/aspose.cells/calculationoptions) | Opciones para calcular la fórmula.|
+| base_cell_row | int | El índice de fila de la celda base.|
+| base_cell_column | int | El índice de columna de la celda base.|
+| calculation_data | [`CalculationData`](/cells/python-net/es/aspose.cells/calculationdata) | Los datos del cálculo. Se utiliza para la situación.<br/>ese usuario necesita calcular algunas fórmulas estáticas al implementar un motor de cálculo personalizado.<br/>Para tal tipo de situación, el usuario debe especificarlo con los datos de cálculo proporcionados.<br/> para [`AbstractCalculationEngine.calculate`](/cells/python-net/es/aspose.cells/abstractcalculationengine/calculate).|
 ###  Observaciones
 
-NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice el método CalculateFormula(CalculationOptions, bool).
- Este método se eliminará 12 meses después desde agosto de 2020.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+La fórmula se calculará tal como se configuró en la celda base especificada.
+la fórmula se tomará como fórmula normal. Si necesita que la fórmula se calcule como una fórmula matricial
+y para obtener una matriz para el resultado calculado, utilice
+[`Worksheet.calculate_array_formula`](/cells/python-net/es/aspose.cells/worksheet/calculate_array_formula) en su lugar.
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

@@ -1,9 +1,9 @@
 ---
 title: reading_order недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 300
+weight: 310
 url: /ru/aspose.cells.charts/legend/reading_order/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def reading_order(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Legend](/cells/python-net/ru/aspose.cells.charts/legend)
-* класс [TextDirectionType](/cells/python-net/ru/aspose.cells/textdirectiontype)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Legend`](/cells/python-net/ru/aspose.cells.charts/legend)
+* класс [`TextDirectionType`](/cells/python-net/ru/aspose.cells/textdirectiontype)

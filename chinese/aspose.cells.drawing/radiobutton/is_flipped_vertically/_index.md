@@ -1,15 +1,15 @@
 ---
-title: is_flipped_vertically 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_flipped_vertically属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 570
+weight: 590
 url: /zh/aspose.cells.drawing/radiobutton/is_flipped_vertically/
 is_root: false
 ---
-## is_flipped_vertically 属性
+## is_flipped_vertically属性
 
-获取和设置形状是否垂直翻转。
+获取并设置形状是否垂直翻转。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def is_flipped_vertically(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [RadioButton](/cells/python-net/zh/aspose.cells.drawing/radiobutton)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`RadioButton`](/cells/python-net/zh/aspose.cells.drawing/radiobutton)

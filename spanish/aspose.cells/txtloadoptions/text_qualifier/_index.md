@@ -3,7 +3,7 @@ title: text_qualifier propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 360
+weight: 420
 url: /es/aspose.cells/txtloadoptions/text_qualifier/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Especifica el calificador de texto para los valores de celda. El calificador pre
 
 ###  Observaciones
 
-Al configurar esta propiedad, [TxtLoadOptions.has_text_qualifier](/cells/python-net/es/aspose.cells/txtloadoptions#has_text_qualifier) se hará realidad automáticamente.
+Al configurar esta propiedad, [`TxtLoadOptions.has_text_qualifier`](/cells/python-net/es/aspose.cells/txtloadoptions#has_text_qualifier) se convertirá en verdadero automáticamente.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def text_qualifier(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [TxtLoadOptions](/cells/python-net/es/aspose.cells/txtloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`TxtLoadOptions`](/cells/python-net/es/aspose.cells/txtloadoptions)

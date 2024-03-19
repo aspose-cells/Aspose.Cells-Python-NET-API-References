@@ -3,13 +3,13 @@ title: prog_id propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 310
+weight: 340
 url: /fr/aspose.cells/htmlloadoptions/prog_id/
 is_root: false
 ---
 ##  prog_id propriété
 
-Obtient l'ID du programme de création du fichier.
+Obtient l'identifiant du programme de création du fichier.
 Uniquement pour les fichiers MHT.
 ###  Définition:
 ```python
@@ -19,5 +19,5 @@ def prog_id(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HtmlLoadOptions](/cells/python-net/fr/aspose.cells/htmlloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`HtmlLoadOptions`](/cells/python-net/fr/aspose.cells/htmlloadoptions)

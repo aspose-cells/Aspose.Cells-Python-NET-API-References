@@ -3,7 +3,7 @@ title: window_width_cm fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 740
+weight: 620
 url: /sv/aspose.cells/workbooksettings/window_width_cm/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def window_width_cm(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

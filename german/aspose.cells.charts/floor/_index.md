@@ -3,7 +3,7 @@ title: Floor Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 170
 url: /de/aspose.cells.charts/floor/
 is_root: false
 ---
@@ -12,8 +12,8 @@ Kapselt das Objekt, das den Boden eines 3D-Diagramms darstellt.
 
 
 
-**Nachlass:** [Floor](/cells/python-net/aspose.cells.charts/floor) → 
-[Area](/cells/python-net/de/aspose.cells.drawing/area)
+**Nachlass:** [`Floor`](/cells/python-net/aspose.cells.charts/floor) → 
+[`Area`](/cells/python-net/de/aspose.cells.drawing/area)
 
 
 
@@ -22,13 +22,13 @@ Der Typ Floor macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [background_color](/cells/python-net/de/aspose.cells.charts/floor/background_color) | Ruft die Hintergrundfarbe von [Area](/cells/python-net/de/aspose.cells.drawing/area) ab oder legt sie fest.|
-| [foreground_color](/cells/python-net/de/aspose.cells.charts/floor/foreground_color) | Ruft die Vordergrundfarbe ab oder legt sie fest.|
-| [formatting](/cells/python-net/de/aspose.cells.charts/floor/formatting) | Repräsentiert die Formatierung des Bereichs.|
-| [invert_if_negative](/cells/python-net/de/aspose.cells.charts/floor/invert_if_negative) | Wenn die Eigenschaft wahr ist und der Wert des Diagrammpunkts eine negative Zahl ist,<br/> Vorder- und Hintergrundfarbe werden vertauscht.|
-| [fill_format](/cells/python-net/de/aspose.cells.charts/floor/fill_format) | Stellt ein [Area.fill_format](/cells/python-net/de/aspose.cells.drawing/area#fill_format)-Objekt dar, das Füllformatierungseigenschaften für das angegebene Diagramm oder Shape enthält.|
-| [transparency](/cells/python-net/de/aspose.cells.charts/floor/transparency) | Gibt den Transparenzgrad des Bereichs als Wert von 0,0 (deckend) bis 1,0 (durchsichtig) zurück oder legt ihn fest.|
-| [border](/cells/python-net/de/aspose.cells.charts/floor/border) | Ruft die Grenze [Line](/cells/python-net/de/aspose.cells.drawing/line) ab oder legt sie fest.|
+| [background_color](/cells/python-net/de/aspose.cells.charts/floor/background_color) | Ruft die Hintergrundfarbe von [`Area`](/cells/python-net/de/aspose.cells.drawing/area) ab oder legt diese fest.|
+| [foreground_color](/cells/python-net/de/aspose.cells.charts/floor/foreground_color) | Ruft die Vordergrundfarbe ab oder legt diese fest.|
+| [formatting](/cells/python-net/de/aspose.cells.charts/floor/formatting) | Stellt die Formatierung des Bereichs dar.|
+| [invert_if_negative](/cells/python-net/de/aspose.cells.charts/floor/invert_if_negative) | Wenn die Eigenschaft wahr ist und der Wert des Diagrammpunkts eine negative Zahl ist,<br/> Vordergrundfarbe und Hintergrundfarbe werden vertauscht.|
+| [fill_format](/cells/python-net/de/aspose.cells.charts/floor/fill_format) | Stellt ein [`Area.fill_format`](/cells/python-net/de/aspose.cells.drawing/area#fill_format)-Objekt dar, das Füllungsformatierungseigenschaften für das angegebene Diagramm oder die angegebene Form enthält.|
+| [transparency](/cells/python-net/de/aspose.cells.charts/floor/transparency) |Gibt den Grad der Transparenz des Bereichs als Wert von 0,0 (undurchsichtig) bis 1,0 (klar) zurück oder legt diesen fest.|
+| [border](/cells/python-net/de/aspose.cells.charts/floor/border) | Ruft den Rahmen [`Line`](/cells/python-net/de/aspose.cells.drawing/line) ab oder legt diesen fest.|
 
 
 
@@ -74,7 +74,7 @@ workbook.save(r"dest.xls")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
-* Klasse [Area](/cells/python-net/de/aspose.cells.drawing/area)
-* Klasse [Floor](/cells/python-net/de/aspose.cells.charts/floor)
-* Klasse [Line](/cells/python-net/de/aspose.cells.drawing/line)
+* Modul [`aspose.cells.charts`](..)
+* Klasse [`Area`](/cells/python-net/de/aspose.cells.drawing/area)
+* Klasse [`Floor`](/cells/python-net/de/aspose.cells.charts/floor)
+* Klasse [`Line`](/cells/python-net/de/aspose.cells.drawing/line)

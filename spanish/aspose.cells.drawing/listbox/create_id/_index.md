@@ -3,13 +3,13 @@ title: create_id propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 340
+weight: 360
 url: /es/aspose.cells.drawing/listbox/create_id/
 is_root: false
 ---
 ##  create_id propiedad
 
-Obtiene y establece el ID de creación de esta forma.
+Obtiene y establece la identificación de creación para esta forma.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def create_id(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ListBox](/cells/python-net/es/aspose.cells.drawing/listbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ListBox`](/cells/python-net/es/aspose.cells.drawing/listbox)

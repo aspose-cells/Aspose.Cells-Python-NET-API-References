@@ -1,13 +1,13 @@
 ---
-title: text_body 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_body属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 930
+weight: 940
 url: /zh/aspose.cells.drawing/groupbox/text_body/
 is_root: false
 ---
-## text_body 属性
+## text_body属性
 
 获取和设置形状文本的设置。
 
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [FontSettingCollection](/cells/python-net/zh/aspose.cells.drawing.texts/fontsettingcollection)
-* 类 [GroupBox](/cells/python-net/zh/aspose.cells.drawing/groupbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`FontSettingCollection`](/cells/python-net/zh/aspose.cells.drawing.texts/fontsettingcollection)
+* 类 [`GroupBox`](/cells/python-net/zh/aspose.cells.drawing/groupbox)

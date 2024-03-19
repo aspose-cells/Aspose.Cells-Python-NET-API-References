@@ -3,7 +3,7 @@ title: Legend klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 180
 url: /sv/aspose.cells.charts/legend/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Kapslar in objektet som representerar diagramförklaringen.
 
 
 
-**Arv:** [Legend](/cells/python-net/aspose.cells.charts/legend) → 
-[ChartTextFrame](/cells/python-net/aspose.cells.charts/charttextframe) → 
-[ChartFrame](/cells/python-net/sv/aspose.cells.charts/chartframe)
+**Arv:** [`Legend`](/cells/python-net/aspose.cells.charts/legend) → 
+[`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe) → 
+[`ChartFrame`](/cells/python-net/sv/aspose.cells.charts/chartframe)
 
 
 
@@ -24,21 +24,21 @@ Typen Legend avslöjar följande medlemmar:
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [is_inner_mode](/cells/python-net/sv/aspose.cells.charts/legend/is_inner_mode) | Anger om storleken på plottytans storlek inkluderar bockmarkeringarna och axeletiketterna.<br/> False anger att storleken ska avgöra storleken på tomtområdet, bockarna och axeletiketterna.|
-| [border](/cells/python-net/sv/aspose.cells.charts/legend/border) | Får [Line](/cells/python-net/sv/aspose.cells.drawing/line).|
-| [area](/cells/python-net/sv/aspose.cells.charts/legend/area) | Får [ChartFrame.area](/cells/python-net/sv/aspose.cells.charts/chartframe#area).|
-| [text_font](/cells/python-net/sv/aspose.cells.charts/legend/text_font) | Hämtar ett [ChartFrame.font](/cells/python-net/sv/aspose.cells.charts/chartframe#font)-objekt av det angivna ChartFrame-objektet.|
+| [border](/cells/python-net/sv/aspose.cells.charts/legend/border) | Får [`Line`](/cells/python-net/sv/aspose.cells.drawing/line).|
+| [area](/cells/python-net/sv/aspose.cells.charts/legend/area) | Får [`ChartFrame.area`](/cells/python-net/sv/aspose.cells.charts/chartframe#area).|
+| [text_font](/cells/python-net/sv/aspose.cells.charts/legend/text_font) | Hämtar ett [`ChartFrame.font`](/cells/python-net/sv/aspose.cells.charts/chartframe#font)-objekt av det angivna ChartFrame-objektet.|
 | [text_options](/cells/python-net/sv/aspose.cells.charts/legend/text_options) | Hämtar och ställer in alternativen för texten.|
-| [font](/cells/python-net/sv/aspose.cells.charts/legend/font) | Hämtar ett [ChartFrame.font](/cells/python-net/sv/aspose.cells.charts/chartframe#font)-objekt av det angivna ChartFrame-objektet.|
+| [font](/cells/python-net/sv/aspose.cells.charts/legend/font) | Hämtar ett [`ChartFrame.font`](/cells/python-net/sv/aspose.cells.charts/chartframe#font)-objekt av det angivna ChartFrame-objektet.|
 | [auto_scale_font](/cells/python-net/sv/aspose.cells.charts/legend/auto_scale_font) | Sant om texten i objektet ändrar teckenstorlek när objektstorleken ändras. Standardvärdet är True.|
 | [background_mode](/cells/python-net/sv/aspose.cells.charts/legend/background_mode) | Hämtar och ställer in visningsläget för bakgrunden|
 | [background](/cells/python-net/sv/aspose.cells.charts/legend/background) | Hämtar och ställer in visningsläget för bakgrunden|
 | [is_automatic_size](/cells/python-net/sv/aspose.cells.charts/legend/is_automatic_size) | Indikerar om kartramen har automatisk storlek.|
-| [x](/cells/python-net/sv/aspose.cells.charts/legend/x) | Hämtar eller ställer in x-koordinaten för det övre vänstra hörnet i enheter på 1/4000 av sjökortsytan.|
-| [y](/cells/python-net/sv/aspose.cells.charts/legend/y) |Hämtar eller ställer in y-koordinaten för det övre vänstra hörnet i enheter på 1/4000 av sjökortsytan.|
+| [x](/cells/python-net/sv/aspose.cells.charts/legend/x) |Hämtar eller ställer in x-koordinaten för det övre vänstra hörnet i enheter på 1/4000 av sjökortsytan.|
+| [y](/cells/python-net/sv/aspose.cells.charts/legend/y) | Hämtar eller ställer in y-koordinaten för det övre vänstra hörnet i enheter på 1/4000 av sjökortsytan.|
 | [height](/cells/python-net/sv/aspose.cells.charts/legend/height) | Hämtar eller ställer in ramhöjden i enheter på 1/4000 av kartytan.|
 | [width](/cells/python-net/sv/aspose.cells.charts/legend/width) | Hämtar eller ställer in ramens bredd i enheter på 1/4000 av kartytan.|
 | [shadow](/cells/python-net/sv/aspose.cells.charts/legend/shadow) | Sant om ramen har en skugga.|
-| [shape_properties](/cells/python-net/sv/aspose.cells.charts/legend/shape_properties) | Hämtar objektet [ChartFrame.shape_properties](/cells/python-net/sv/aspose.cells.charts/chartframe#shape_properties).|
+| [shape_properties](/cells/python-net/sv/aspose.cells.charts/legend/shape_properties) | Hämtar objektet [`ChartFrame.shape_properties`](/cells/python-net/sv/aspose.cells.charts/chartframe#shape_properties).|
 | [is_default_pos_be_set](/cells/python-net/sv/aspose.cells.charts/legend/is_default_pos_be_set) | Anger om standardpositionen (DefaultX, DefaultY, DefaultWidth och DefaultHeight) är inställda.|
 | [default_x](/cells/python-net/sv/aspose.cells.charts/legend/default_x) | Representerar x av standardposition|
 | [default_y](/cells/python-net/sv/aspose.cells.charts/legend/default_y) | Representerar y för standardposition|
@@ -47,10 +47,10 @@ Typen Legend avslöjar följande medlemmar:
 | [is_auto_text](/cells/python-net/sv/aspose.cells.charts/legend/is_auto_text) | Indikerar att texten genereras automatiskt.|
 | [is_deleted](/cells/python-net/sv/aspose.cells.charts/legend/is_deleted) | Indikerar om denna dataetikett är raderad.|
 | [text_horizontal_alignment](/cells/python-net/sv/aspose.cells.charts/legend/text_horizontal_alignment) | Hämtar och ställer in textens horisontella justering.|
-| [text_vertical_alignment](/cells/python-net/sv/aspose.cells.charts/legend/text_vertical_alignment) |Hämtar eller ställer in textens vertikala justering av text.|
+| [text_vertical_alignment](/cells/python-net/sv/aspose.cells.charts/legend/text_vertical_alignment) | Hämtar eller ställer in textens vertikala justering av text.|
 | [rotation_angle](/cells/python-net/sv/aspose.cells.charts/legend/rotation_angle) | Representerar textrotationsvinkel.|
 | [is_automatic_rotation](/cells/python-net/sv/aspose.cells.charts/legend/is_automatic_rotation) | Indikerar om texten i diagrammet roteras automatiskt.|
-| [text](/cells/python-net/sv/aspose.cells.charts/legend/text) | Hämtar eller ställer in texten i en rams titel.|
+| [text](/cells/python-net/sv/aspose.cells.charts/legend/text) |Hämtar eller ställer in texten i en rams titel.|
 | [linked_source](/cells/python-net/sv/aspose.cells.charts/legend/linked_source) | Hämtar och ställer in en referens till arbetsbladet.|
 | [text_direction](/cells/python-net/sv/aspose.cells.charts/legend/text_direction) | Representerar textläsordning.|
 | [reading_order](/cells/python-net/sv/aspose.cells.charts/legend/reading_order) | Representerar textläsordning.|
@@ -59,15 +59,16 @@ Typen Legend avslöjar följande medlemmar:
 | [is_resize_shape_to_fit_text](/cells/python-net/sv/aspose.cells.charts/legend/is_resize_shape_to_fit_text) | Hämtar eller ställer in om en form ska anpassas automatiskt för att helt innehålla texten som beskrivs i den. Automatisk montering är<br/> när text i en form skalas för att innehålla all text inuti.|
 | [position](/cells/python-net/sv/aspose.cells.charts/legend/position) | Hämtar eller ställer in förklaringspositionstypen.|
 | [legend_entries](/cells/python-net/sv/aspose.cells.charts/legend/legend_entries) | Får en samling av alla LegendEntry-objekt i den angivna sjökortsförklaringen.<br/>Det stöds inte att ställa in förklaringsposterna för ytdiagrammet.<br/> Så det kommer att returnera null om diagramtypen är av typen ytdiagram.|
-| [legend_entries_labels](/cells/python-net/sv/aspose.cells.charts/legend/legend_entries_labels) |Hämtar etiketterna för förklaringsposterna efter anropet Chart.Calculate()-metoden.|
+| [legend_entries_labels](/cells/python-net/sv/aspose.cells.charts/legend/legend_entries_labels) | Hämtar etiketterna för förklaringsposterna efter anropet Chart.Calculate()-metoden.|
 | [is_over_lay](/cells/python-net/sv/aspose.cells.charts/legend/is_over_lay) | Hämtar eller ställer in om andra diagramelement ska tillåtas att överlappa detta diagramelement.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [set_position_auto()](/cells/python-net/sv/aspose.cells.charts/legend/set_position_auto/#) | Ställ in ramens position på automatisk|
-| [characters(start_index, length)](/cells/python-net/sv/aspose.cells.charts/legend/characters/#int-int) | Returnerar ett teckenobjekt som representerar ett teckenintervall i texten.|
+| [set_position_auto](/cells/python-net/sv/aspose.cells.charts/legend/set_position_auto/#) | Ställ in ramens position på automatisk|
+| [characters](/cells/python-net/sv/aspose.cells.charts/legend/characters/#int-int) | Returnerar ett teckenobjekt som representerar ett teckenintervall i texten.|
+| [get_legend_labels](/cells/python-net/sv/aspose.cells.charts/legend/get_legend_labels/#) | Hämtar etiketterna för förklaringsposterna efter anropet Chart.Calculate()-metoden.|
 
 
 
@@ -104,8 +105,8 @@ legend.position = LegendPositionType.LEFT
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](..)
-* klass [ChartFrame](/cells/python-net/sv/aspose.cells.charts/chartframe)
-* klass [ChartTextFrame](/cells/python-net/sv/aspose.cells.charts/charttextframe)
-* klass [Legend](/cells/python-net/sv/aspose.cells.charts/legend)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
+* modul [`aspose.cells.charts`](..)
+* klass [`ChartFrame`](/cells/python-net/sv/aspose.cells.charts/chartframe)
+* klass [`ChartTextFrame`](/cells/python-net/sv/aspose.cells.charts/charttextframe)
+* klass [`Legend`](/cells/python-net/sv/aspose.cells.charts/legend)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)

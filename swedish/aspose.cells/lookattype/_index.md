@@ -3,7 +3,7 @@ title: LookAtType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2220
+weight: 2300
 url: /sv/aspose.cells/lookattype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen LookAtType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

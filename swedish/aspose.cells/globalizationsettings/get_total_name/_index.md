@@ -3,11 +3,11 @@ title: get_total_name metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 280
 url: /sv/aspose.cells/globalizationsettings/get_total_name/
 is_root: false
 ---
-##  get_total_name(function_type) {#ConsolidationFunction}
+##  get_total_name {#aspose.cells.ConsolidationFunction}
 Får det totala namnet på funktionen.
 
 
@@ -24,10 +24,10 @@ def get_total_name(self, function_type):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| function_type | [ConsolidationFunction](/cells/python-net/sv/aspose.cells/consolidationfunction) | Funktionstypen.|
+| function_type | [`ConsolidationFunction`](/cells/python-net/sv/aspose.cells/consolidationfunction) | Funktionstypen.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GlobalizationSettings](/cells/python-net/sv/aspose.cells/globalizationsettings)
+* modul [`aspose.cells`](../../)
+* klass [`GlobalizationSettings`](/cells/python-net/sv/aspose.cells/globalizationsettings)

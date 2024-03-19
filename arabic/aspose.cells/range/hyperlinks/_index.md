@@ -1,15 +1,15 @@
 ---
-title: hyperlinks الملكية
+title: hyperlinks عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 350
 url: /ar/aspose.cells/range/hyperlinks/
 is_root: false
 ---
-##  hyperlinks الملكية
+##  hyperlinks عقار
 
-يحصل على كل الارتباط التشعبي في النطاق.
+يحصل على كافة الارتباطات التشعبية في النطاق.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def hyperlinks(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

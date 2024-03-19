@@ -3,7 +3,7 @@ title: minor_tick_mark fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 350
 url: /sv/aspose.cells.charts/axis/minor_tick_mark/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def minor_tick_mark(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Axis](/cells/python-net/sv/aspose.cells.charts/axis)
-* klass [TickMarkType](/cells/python-net/sv/aspose.cells.charts/tickmarktype)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Axis`](/cells/python-net/sv/aspose.cells.charts/axis)
+* klass [`TickMarkType`](/cells/python-net/sv/aspose.cells.charts/tickmarktype)

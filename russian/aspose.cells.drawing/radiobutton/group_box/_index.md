@@ -1,9 +1,9 @@
 ---
 title: group_box недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 410
+weight: 430
 url: /ru/aspose.cells.drawing/radiobutton/group_box/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def group_box(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GroupBox](/cells/python-net/ru/aspose.cells.drawing/groupbox)
-* класс [RadioButton](/cells/python-net/ru/aspose.cells.drawing/radiobutton)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GroupBox`](/cells/python-net/ru/aspose.cells.drawing/groupbox)
+* класс [`RadioButton`](/cells/python-net/ru/aspose.cells.drawing/radiobutton)

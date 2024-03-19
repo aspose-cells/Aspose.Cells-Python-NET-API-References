@@ -3,12 +3,12 @@ title: طريقة move_to
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 160
 url: /ar/aspose.cells/range/move_to/
 is_root: false
 ---
-##  move_to(dest_row, dest_column) {#int-int}
-انقل النطاق الحالي إلى نطاق التوزيع المباشر.
+##  move_to {#int-int}
+انقل النطاق الحالي إلى النطاق الأقل.
 
 
 
@@ -20,11 +20,11 @@ def move_to(self, dest_row, dest_column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| dest_row | int | صف البداية لنطاق الوجهة.|
-| dest_column | int | عمود البداية لنطاق التوزيع.|
+| dest_row | int | صف البداية للنطاق السيئ.|
+| dest_column | int | عمود البداية للنطاق السيئ.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

@@ -1,9 +1,9 @@
 ---
 title: bool_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 380
+weight: 400
 url: /ru/aspose.cells/cell/bool_value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def bool_value(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

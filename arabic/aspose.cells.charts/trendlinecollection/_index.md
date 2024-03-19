@@ -1,38 +1,38 @@
 ---
-title: TrendlineCollection الدرجة
+title: TrendlineCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 350
 url: /ar/aspose.cells.charts/trendlinecollection/
 is_root: false
 ---
-##  TrendlineCollection الدرجة
-يمثل مجموعة من كل العناصر [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline) لسلسلة البيانات المحددة.
+##  TrendlineCollection صف
+يمثل مجموعة من كافة الكائنات [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline) لسلسلة البيانات المحددة.
 
 
 
-يكشف نوع TrendlineCollection الأعضاء التالية:
+يكشف النوع TrendlineCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [capacity](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/capacity) | الحصول على أو تحديد عدد العناصر التي يمكن أن تحتويها قائمة الصفيف.|
+| [capacity](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/capacity) | الحصول على أو تعيين عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add(type)](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/add/#TrendlineType) | يقوم باضافة عنصر [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline) لهذه المجموعة بالنوع المحدد.|
-| [add(type, name)](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/add/#TrendlineType-str) | يقوم باضافة عنصر [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline) لهذه المجموعة بالنوع والاسم المحددين.|
-| [copy_to(array)](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/copy_to/#list) | ينسخ قائمة المصفوفات بأكملها إلى قائمة مصفوفة متوافقة أحادية البعد ، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/copy_to/#int-list-int-int) |ينسخ نطاقًا من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة ، بدءًا من الفهرس المحدد لقائمة الصفيف الهدف.|
-| [index_of(item, index)](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/index_of/#Trendline-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of(item, index, count)](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/index_of/#Trendline-int-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ بالفهرس المحدد ويحتوي على عدد محدد من العناصر.|
-| [last_index_of(item)](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/last_index_of/#Trendline) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of(item, index)](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/last_index_of/#Trendline-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of(item, index, count)](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/last_index_of/#Trendline-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
-| [binary_search(item)](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/binary_search/#Trendline) | يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.|
+| [add](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/add/#aspose.cells.charts.TrendlineType) | يضيف كائن [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline) إلى هذه المجموعة بالنوع المحدد.|
+| [add](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/add/#aspose.cells.charts.TrendlineType-str) | يضيف كائن [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline) إلى هذه المجموعة بالنوع والاسم المحددين.|
+| [copy_to](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/copy_to/#list) | نسخ قائمة الصفيف بأكملها إلى قائمة صفيف أحادية البعد متوافقة، بدءًا من بداية قائمة الصفيف الهدف.|
+| [copy_to](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/copy_to/#int-list-int-int) | نسخ نطاق من العناصر من قائمة المصفوفات إلى قائمة مصفوفات متوافقة أحادية البعد، بدءًا من الفهرس المحدد لقائمة المصفوفات المستهدفة.|
+| [index_of](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/index_of/#aspose.cells.charts.Trendline-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [index_of](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/index_of/#aspose.cells.charts.Trendline-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ عند الفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [last_index_of](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/last_index_of/#aspose.cells.charts.Trendline) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
+| [last_index_of](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/last_index_of/#aspose.cells.charts.Trendline-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [last_index_of](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/last_index_of/#aspose.cells.charts.Trendline-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على العدد المحدد من العناصر وينتهي عند الفهرس المحدد.|
+| [binary_search](/cells/python-net/ar/aspose.cells.charts/trendlinecollection/binary_search/#aspose.cells.charts.Trendline) | يبحث في قائمة المصفوفات التي تم فرزها بالكامل عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس الصفري للعنصر.|
 
 
 
@@ -70,5 +70,5 @@ line.color = Color.red
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
-* فئة [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline)
+* الوحدة [`aspose.cells.charts`](..)
+* فئة [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline)

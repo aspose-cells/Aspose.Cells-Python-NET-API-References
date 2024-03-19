@@ -3,11 +3,11 @@ title: is_same_setting Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 130
+weight: 150
 url: /de/aspose.cells.drawing/dialogbox/is_same_setting/
 is_root: false
 ---
-##  is_same_setting(obj) {#any}
+##  is_same_setting {#any}
 Gibt zurück, ob die Form gleich ist.
 
 
@@ -38,5 +38,5 @@ if shape.is_same_setting(shape):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [DialogBox](/cells/python-net/de/aspose.cells.drawing/dialogbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`DialogBox`](/cells/python-net/de/aspose.cells.drawing/dialogbox)

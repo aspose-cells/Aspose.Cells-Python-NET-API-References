@@ -1,13 +1,13 @@
 ---
-title: address الملكية
+title: address عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 260
 url: /ar/aspose.cells/range/address/
 is_root: false
 ---
-##  address الملكية
+##  address عقار
 
 يحصل على address من النطاق.
 ###  تعريف:
@@ -18,5 +18,5 @@ def address(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

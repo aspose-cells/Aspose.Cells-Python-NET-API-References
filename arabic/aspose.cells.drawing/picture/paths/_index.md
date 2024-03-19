@@ -1,15 +1,15 @@
 ---
-title: paths الملكية
+title: paths عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 980
+weight: 990
 url: /ar/aspose.cells.drawing/picture/paths/
 is_root: false
 ---
-##  paths الملكية
+##  paths عقار
 
-الحصول على paths للشكل الهندسي المخصص.
+يحصل على paths لشكل هندسي مخصص.
 
 ###  مثال
 
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
-* فئة [ShapePathCollection](/cells/python-net/ar/aspose.cells.drawing/shapepathcollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)
+* فئة [`ShapePathCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepathcollection)

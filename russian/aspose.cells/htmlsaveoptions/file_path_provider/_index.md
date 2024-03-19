@@ -1,15 +1,15 @@
 ---
 title: file_path_provider недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 380
+weight: 400
 url: /ru/aspose.cells/htmlsaveoptions/file_path_provider/
 is_root: false
 ---
 ##  file_path_provider недвижимость
 
-Получает или задает IFilePathProvider для отдельного экспорта рабочего листа в HTML.
+Получает или задает IFilePathProvider для отдельного экспорта листа в HTML.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def file_path_provider(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
-* класс [IFilePathProvider](/cells/python-net/ru/aspose.cells/ifilepathprovider)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* класс [`IFilePathProvider`](/cells/python-net/ru/aspose.cells/ifilepathprovider)

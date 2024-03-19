@@ -1,28 +1,28 @@
 ---
-title: العد AutoFitMergedCellsType
+title: AutoFitMergedCellsType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1760
+weight: 1830
 url: /ar/aspose.cells/autofitmergedcellstype/
 is_root: false
 ---
-##  العد AutoFitMergedCellsType
-يمثل نوع الخلايا المدمجة ذات الملاءمة التلقائية.
+##  AutoFitMergedCellsType التعداد
+يمثل نوع الخلايا المدمجة ذات التركيب التلقائي.
 
 
 
-يكشف نوع AutoFitMergedCellsType الأعضاء التالية:
+يكشف النوع AutoFitMergedCellsType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | NONE | تجاهل الخلايا المدمجة.|
-| FIRST_LINE | يوسع ارتفاع الصف الأول فقط.|
-| LAST_LINE |يوسع ارتفاع الصف الأخير فقط.|
-| EACH_LINE | يوسع ارتفاع كل صف فقط.|
+| FIRST_LINE | يوسع فقط ارتفاع الصف الأول.|
+| LAST_LINE | يوسع فقط ارتفاع الصف الأخير.|
+| EACH_LINE | يوسع فقط ارتفاع كل صف.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

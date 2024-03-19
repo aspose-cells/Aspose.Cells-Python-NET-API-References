@@ -3,7 +3,7 @@ title: display_drawing_objects Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 160
 url: /de/aspose.cells/workbooksettings/display_drawing_objects/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def display_drawing_objects(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DisplayDrawingObjects](/cells/python-net/de/aspose.cells/displaydrawingobjects)
-* Klasse [WorkbookSettings](/cells/python-net/de/aspose.cells/workbooksettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DisplayDrawingObjects`](/cells/python-net/de/aspose.cells/displaydrawingobjects)
+* Klasse [`WorkbookSettings`](/cells/python-net/de/aspose.cells/workbooksettings)

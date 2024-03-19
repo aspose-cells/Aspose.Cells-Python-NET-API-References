@@ -3,24 +3,24 @@ title: DataBarNegativeColorType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1930
+weight: 2000
 url: /tr/aspose.cells/databarnegativecolortype/
 is_root: false
 ---
 ##  DataBarNegativeColorType numaralandırma
-Pozitif veri çubukları olarak aynı kenarlık ve dolgu renginin kullanılıp kullanılmayacağını belirtir.
+Pozitif veri çubuklarıyla aynı kenarlık ve dolgu renginin kullanılıp kullanılmayacağını belirtir.
 
 
 
-DataBarNegativeColorType türü aşağıdaki üyeleri gösterir:
+DataBarNegativeColorType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| COLOR | Negatif Değer ve Eksen Ayarı iletişim kutusunda belirtilen rengi kullanın<br/> veya NegativeBarFormat nesnesinin ColorType ve BorderColorType özelliklerini kullanarak.|
+| COLOR |Negatif Değer ve Eksen Ayarı iletişim kutusunda belirtilen rengi kullanın<br/> veya NegativeBarFormat nesnesinin ColorType ve BorderColorType özelliklerini kullanarak.|
 | SAME_AS_POSITIVE | Pozitif veri çubuklarıyla aynı rengi kullanın.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

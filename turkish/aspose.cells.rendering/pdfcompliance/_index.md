@@ -3,25 +3,35 @@ title: PdfCompliance numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 200
 url: /tr/aspose.cells.rendering/pdfcompliance/
 is_root: false
 ---
 ##  PdfCompliance numaralandırma
-Kullanıcının PDF dönüşümünün Uyumluluğunu ayarlamasına izin veriliyor
+Kullanıcının PDF dönüşümün Uyumluluğunu ayarlamasına izin veriliyor
 
 
 
-PdfCompliance türü aşağıdaki üyeleri gösterir:
+PdfCompliance türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NONE | normal pdf formatı|
-| PDF_A1B | PDFA-1b ile uyumlu pdf formatı|
-| PDF_A1A | PDFA-1a ile uyumlu pdf formatı|
+| NONE | PDF 1.4 ile uyumlu PDF formatı|
+| PDF14 | PDF 1.4 ile uyumlu PDF formatı|
+| PDF15 | PDF 1.5 ile uyumlu PDF formatı|
+| PDF16 | PDF 1.6 ile uyumlu PDF formatı|
+| PDF17 | PDF 1.7 ile uyumlu PDF formatı|
+| PDF_A1B | PDF/A-1b(ISO 19005-1) ile uyumlu PDF formatı|
+| PDF_A1A | PDF/A-1a(ISO 19005-1) ile uyumlu PDF formatı|
+| PDF_A2B | PDF/A-2b(ISO 19005-2) ile uyumlu PDF formatı|
+| PDF_A2U | PDF/A-2u(ISO 19005-2) ile uyumlu PDF formatı|
+| PDF_A2A | PDF/A-2a(ISO 19005-2) ile uyumlu PDF formatı|
+| PDF_A3B | PDF/A-3b(ISO 19005-3) ile uyumlu PDF formatı|
+| PDF_A3U | PDF/A-3u(ISO 19005-3) ile uyumlu PDF formatı|
+| PDF_A3A | PDF/A-3a(ISO 19005-3) ile uyumlu PDF formatı|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](..)
+* modül [`aspose.cells.rendering`](..)

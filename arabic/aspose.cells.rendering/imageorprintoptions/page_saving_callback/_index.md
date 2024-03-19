@@ -1,15 +1,15 @@
 ---
-title: page_saving_callback الملكية
+title: page_saving_callback عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells.rendering/imageorprintoptions/page_saving_callback/
 is_root: false
 ---
-##  page_saving_callback الملكية
+##  page_saving_callback عقار
 
-التحكم / الإشارة إلى التقدم المحرز في عملية حفظ الصفحة.
+التحكم/الإشارة إلى تقدم عملية حفظ الصفحة.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def page_saving_callback(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [IPageSavingCallback](/cells/python-net/ar/aspose.cells.rendering/ipagesavingcallback)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`IPageSavingCallback`](/cells/python-net/ar/aspose.cells.rendering/ipagesavingcallback)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

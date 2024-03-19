@@ -3,19 +3,19 @@ title: is_in_array Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 560
+weight: 590
 url: /de/aspose.cells/cell/is_in_array/
 is_root: false
 ---
 ##  is_in_array Eigentum
 
-Gibt an, ob die Zellformel eine Matrixformel ist.
+Gibt an, ob die Zellformel eine Arrayformel ist.
 
 ###  Bemerkungen
 
- HINWEIS: Diese Klasse ist jetzt veraltet. Stattdessen,
-prüfen Sie bitte mit Cell.IsArrayFormula, ob es sich bei der Zellformel um eine Matrixformel handelt.
-Diese Property wird 12 Monate später seit Mai 2018 entfernt.
+HINWEIS: Diese Klasse ist mittlerweile veraltet. Stattdessen,
+Bitte verwenden Sie Cell.IsArrayFormula, um zu prüfen, ob die Zellformel eine Arrayformel ist.
+Diese Eigenschaft wird seit Mai 2018 12 Monate später entfernt.
 Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
 ###  Definition:
 ```python
@@ -25,5 +25,5 @@ def is_in_array(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

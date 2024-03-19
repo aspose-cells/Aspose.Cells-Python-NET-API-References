@@ -1,19 +1,19 @@
 ---
-title: is_intersect método
+title: método is_intersect
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 120
+weight: 140
 url: /es/aspose.cells/range/is_intersect/
 is_root: false
 ---
-##  is_intersect(range) {#Range}
-Indica si el rango es de intersección.
+##  is_intersect {#aspose.cells.Range}
+Indica si el rango se cruza.
 
 
 ###  Devoluciones
 
-Si el rango se interseca.
+Si el rango se cruza.
 
 
 ```python
@@ -24,13 +24,13 @@ def is_intersect(self, range):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/es/aspose.cells/range) | El rango.|
+| range | [`Range`](/cells/python-net/es/aspose.cells/range) | El rango.|
 ###  Observaciones
 
-Si los dos rangos no están en la misma hoja de trabajo, devuelva falso.
+Si los dos rangos no están en la misma hoja de trabajo, devuelve falso.
 
 
 ###  Ver también
 
-* módulo [aspose.cells](../../)
-* clase [Range](/cells/python-net/es/aspose.cells/range)
+* módulo [`aspose.cells`](../../)
+* clase [`Range`](/cells/python-net/es/aspose.cells/range)

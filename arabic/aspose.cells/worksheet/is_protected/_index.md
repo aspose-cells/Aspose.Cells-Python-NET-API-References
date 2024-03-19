@@ -1,13 +1,13 @@
 ---
-title: is_protected الملكية
+title: is_protected عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 570
+weight: 590
 url: /ar/aspose.cells/worksheet/is_protected/
 is_root: false
 ---
-##  is_protected الملكية
+##  is_protected عقار
 
 يشير إلى ما إذا كانت ورقة العمل محمية.
 ###  تعريف:
@@ -18,5 +18,5 @@ def is_protected(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

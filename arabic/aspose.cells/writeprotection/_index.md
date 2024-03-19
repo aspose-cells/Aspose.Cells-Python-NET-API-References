@@ -1,39 +1,39 @@
 ---
-title: WriteProtection الدرجة
+title: WriteProtection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1640
+weight: 1710
 url: /ar/aspose.cells/writeprotection/
 is_root: false
 ---
-##  WriteProtection الدرجة
-يحدد إعدادات الحماية ضد الكتابة لمصنف.
+##  WriteProtection صف
+تحديد إعدادات الحماية ضد الكتابة لمصنف.
 
 
 
-يكشف نوع WriteProtection الأعضاء التالية:
+يكشف النوع WriteProtection عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [WriteProtection()](/cells/python-net/ar/aspose.cells/writeprotection/__init__/#) | إنشاء مثيل جديد لـ WriteProtection|
+| [__init__](/cells/python-net/ar/aspose.cells/writeprotection/__init__/#) | إنشاء مثيل جديد لـ WriteProtection|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [author](/cells/python-net/ar/aspose.cells/writeprotection/author) | يحصل ويضع المؤلف.|
-| [recommend_read_only](/cells/python-net/ar/aspose.cells/writeprotection/recommend_read_only) | يشير إلى ما إذا كان خيار القراءة فقط الموصى به قد تم تحديده.|
-| [is_write_protected](/cells/python-net/ar/aspose.cells/writeprotection/is_write_protected) | يشير إلى ما إذا كان هذا المصنف محميًا ضد الكتابة.|
+| [author](/cells/python-net/ar/aspose.cells/writeprotection/author) | يحصل ويحدد المؤلف.|
+| [recommend_read_only](/cells/python-net/ar/aspose.cells/writeprotection/recommend_read_only) | يشير إلى ما إذا تم تحديد خيار القراءة الموصى بها فقط.|
+| [is_write_protected](/cells/python-net/ar/aspose.cells/writeprotection/is_write_protected) | يشير إلى ما إذا كان هذا المصنف محمي ضد الكتابة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [validate_password(password)](/cells/python-net/ar/aspose.cells/writeprotection/validate_password/#str) | يعود صحيحًا إذا كانت كلمة المرور المحددة هي نفسها كلمة مرور الحماية ضد الكتابة التي تم حماية الملف بها.|
+| [validate_password](/cells/python-net/ar/aspose.cells/writeprotection/validate_password/#str) | يُرجع صحيحًا إذا كانت كلمة المرور المحددة هي نفس كلمة مرور الحماية ضد الكتابة التي تمت حماية الملف بها.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

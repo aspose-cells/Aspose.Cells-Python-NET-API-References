@@ -3,7 +3,7 @@ title: web_extensions propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 370
+weight: 380
 url: /es/aspose.cells/worksheetcollection/web_extensions/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def web_extensions(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WebExtensionCollection](/cells/python-net/es/aspose.cells.webextensions/webextensioncollection)
-* clase [WorksheetCollection](/cells/python-net/es/aspose.cells/worksheetcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`WebExtensionCollection`](/cells/python-net/es/aspose.cells.webextensions/webextensioncollection)
+* clase [`WorksheetCollection`](/cells/python-net/es/aspose.cells/worksheetcollection)

@@ -1,15 +1,15 @@
 ---
 title: formula_local недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 470
+weight: 500
 url: /ru/aspose.cells/cell/formula_local/
 is_root: false
 ---
 ##  formula_local недвижимость
 
-Получите формулу ячейки в формате локали.
+Получите формулу ячейки в языковом формате.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def formula_local(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

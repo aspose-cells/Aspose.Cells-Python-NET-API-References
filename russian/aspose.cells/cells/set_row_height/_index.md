@@ -1,13 +1,13 @@
 ---
 title: set_row_height метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 870
+weight: 860
 url: /ru/aspose.cells/cells/set_row_height/
 is_root: false
 ---
-##  set_row_height(row, height) {#int-float}
+##  set_row_height {#int-float}
 Устанавливает высоту указанной строки.
 
 
@@ -21,10 +21,10 @@ def set_row_height(self, row, height):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | row | int | Индекс строки.|
-| height | float | Высота строки. В пунктах Должна быть в диапазоне от 0 до 409,5.|
+| height | float | Высота строки. В единицах измерения должно быть от 0 до 409,5.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

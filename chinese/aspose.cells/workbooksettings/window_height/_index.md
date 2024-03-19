@@ -1,13 +1,13 @@
 ---
-title: window_height 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: window_height属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 640
+weight: 520
 url: /zh/aspose.cells/workbooksettings/window_height/
 is_root: false
 ---
-## window_height 属性
+## window_height属性
 
 窗口的高度，以点为单位。
 ### 定义：
@@ -21,5 +21,5 @@ def window_height(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)

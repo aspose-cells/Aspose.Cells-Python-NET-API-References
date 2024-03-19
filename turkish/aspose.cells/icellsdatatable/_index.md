@@ -3,7 +3,7 @@ title: ICellsDataTable sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 810
+weight: 860
 url: /tr/aspose.cells/icellsdatatable/
 is_root: false
 ---
@@ -12,7 +12,7 @@ Veri tablosunu temsil eder.
 
 
 
-ICellsDataTable türü aşağıdaki üyeleri gösterir:
+ICellsDataTable türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -22,8 +22,8 @@ ICellsDataTable türü aşağıdaki üyeleri gösterir:
 
 
 
-Dizin tarafından belirtilen sütunda depolanan verileri alır.
-###  İndeksleyici
+Dizine göre belirtilen sütunda depolanan verileri alır.
+###  Dizin oluşturucu
 | İsim| Tanım|
 | :- | :- |
 | [index] | Sütunun sıfır tabanlı dizini.|
@@ -32,8 +32,8 @@ Dizin tarafından belirtilen sütunda depolanan verileri alır.
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [before_first()](/cells/python-net/tr/aspose.cells/icellsdatatable/before_first/#) | İmleci bu nesnenin önüne, ilk satırın hemen öncesine getirin.|
-| [next()](/cells/python-net/tr/aspose.cells/icellsdatatable/next/#) | İmleci geçerli konumundan bir satır aşağı taşır.|
+| [before_first](/cells/python-net/tr/aspose.cells/icellsdatatable/before_first/#) | İmleci bu nesnenin önüne, ilk satırın hemen öncesine taşıyın.|
+| [next](/cells/python-net/tr/aspose.cells/icellsdatatable/next/#) | İmleci geçerli konumundan bir satır aşağı taşır.|
 
 
 
@@ -42,4 +42,4 @@ Dizin tarafından belirtilen sütunda depolanan verileri alır.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

@@ -1,31 +1,31 @@
 ---
-title: PivotFilter الدرجة
+title: PivotFilter صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 100
 url: /ar/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
-##  PivotFilter الدرجة
-يمثل PivotFilter في PivotFilter Collection.
+##  PivotFilter صف
+يمثل PivotFilter في مجموعة PivotFilter.
 
 
 
-يكشف نوع PivotFilter الأعضاء التالية:
+يكشف النوع PivotFilter عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [auto_filter](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/auto_filter) | يحصل على التصفية التلقائية لمرشح المحور.|
-| [filter_type](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/filter_type) | الحصول على نوع الفلتر التلقائي للمرشح المحوري.|
-| [field_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/field_index) |يحصل على فهرس المجال لعامل التصفية المحوري.|
-| [value1](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/value1) | الحصول على قيمة السلسلة 1 لعامل التصفية المحوري للتسمية.|
-| [value2](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/value2) | يحصل على سلسلة القيمة 2 لعامل التصفية المحوري للتسمية.|
-| [measure_fld_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/measure_fld_index) | الحصول على فهرس حقل القياس لمرشح المحور.|
-| [member_property_field_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/member_property_field_index) | الحصول على فهرس حقل خاصية العضو لعامل التصفية المحوري.|
-| [name](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/name) | يحصل على اسم المرشح المحوري.|
-| [evaluation_order](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/evaluation_order) | يحصل على ترتيب التقييم لعامل التصفية المحوري.|
+| [auto_filter](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/auto_filter) | يحصل على التصفية التلقائية للمرشح المحوري.|
+| [filter_type](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/filter_type) | يحصل على نوع التصفية التلقائية للمرشح المحوري.|
+| [field_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/field_index) | يحصل على فهرس الحقل للمرشح المحوري.|
+| [value1](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/value1) | يحصل على قيمة السلسلة 1 للمرشح المحوري للتسمية.|
+| [value2](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/value2) |يحصل على قيمة السلسلة 2 للمرشح المحوري للتسمية.|
+| [measure_fld_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/measure_fld_index) | يحصل على مؤشر مجال القياس للمرشح المحوري.|
+| [member_property_field_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/member_property_field_index) | يحصل على فهرس حقل خاصية العضو للمرشح المحوري.|
+| [name](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/name) | يحصل على اسم عامل التصفية المحوري.|
+| [evaluation_order](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/evaluation_order) | الحصول على ترتيب تقييم عامل التصفية المحوري.|
 
 
 
@@ -84,4 +84,4 @@ book.save("out.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](..)
+* الوحدة [`aspose.cells.pivot`](..)

@@ -1,15 +1,15 @@
 ---
-title: label الملكية
+title: label عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 790
+weight: 800
 url: /ar/aspose.cells.drawing/oleobject/label/
 is_root: false
 ---
-##  label الملكية
+##  label عقار
 
-الحصول على وتعيين عرض label لعنصر أول مرتبط.
+الحصول على العرض label لكائن ole المرتبط وتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def label(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

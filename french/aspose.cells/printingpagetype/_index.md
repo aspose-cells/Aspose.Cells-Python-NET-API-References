@@ -1,13 +1,13 @@
 ---
-title: PrintingPageType dénombrement
+title: PrintingPageType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2410
+weight: 2500
 url: /fr/aspose.cells/printingpagetype/
 is_root: false
 ---
-##  PrintingPageType dénombrement
+##  PrintingPageType énumération
 Indique quelles pages ne seront pas imprimées.
 
 
@@ -18,10 +18,10 @@ Le type PrintingPageType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | DEFAULT | Imprime toutes les pages.|
-| IGNORE_BLANK | N'imprimez pas les pages dont les cellules sont vides.|
-| IGNORE_STYLE |N'imprimez pas les pages dont les cellules ne contiennent que des styles.|
+| IGNORE_BLANK | N'imprimez pas les pages dont les cellules sont vierges.|
+| IGNORE_STYLE | N'imprimez pas les pages dont les cellules contiennent uniquement des styles.|
 
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

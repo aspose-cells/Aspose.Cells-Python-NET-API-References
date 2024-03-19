@@ -1,16 +1,16 @@
 ---
-title: width_scale الملكية
+title: width_scale عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /ar/aspose.cells.drawing/rectangleshape/width_scale/
 is_root: false
 ---
-##  width_scale الملكية
+##  width_scale عقار
 
-الحصول على مقياس العرض وتعيينه ، بوحدة نسبة مئوية من عرض الصورة الأصلي.
-إذا لم يكن الشكل صورة ، تقوم الخاصية WidthScale بإرجاع 100 فقط ؛
+الحصول على مقياس العرض وتعيينه بوحدة النسبة المئوية لعرض الصورة الأصلي.
+إذا لم يكن الشكل صورة، فإن خاصية WidthScale ترجع 100 فقط؛
 
 ###  مثال
 
@@ -31,5 +31,5 @@ def width_scale(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RectangleShape](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RectangleShape`](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)

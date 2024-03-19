@@ -3,7 +3,7 @@ title: group_box propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 410
+weight: 430
 url: /fr/aspose.cells.drawing/radiobutton/group_box/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def group_box(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GroupBox](/cells/python-net/fr/aspose.cells.drawing/groupbox)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GroupBox`](/cells/python-net/fr/aspose.cells.drawing/groupbox)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)

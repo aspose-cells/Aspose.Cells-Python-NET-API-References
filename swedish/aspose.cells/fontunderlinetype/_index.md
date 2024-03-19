@@ -3,7 +3,7 @@ title: FontUnderlineType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2090
+weight: 2160
 url: /sv/aspose.cells/fontunderlinetype/
 is_root: false
 ---
@@ -29,8 +29,8 @@ Typen FontUnderlineType avslöjar följande medlemmar:
 | DASH_LONG | Representerar lång streckad underlinje|
 | DASH_LONG_HEAVY | Representerar tjock lång streckad underlinje|
 | DOT_DASH | Representerar Dash-Dot Underline|
-| DOT_DOT_DASH | Representerar streck-punkt-punkt understrykning|
-| DOTTED |Representerar prickad underlinje|
+| DOT_DOT_DASH |Representerar streck-punkt-punkt understrykning|
+| DOTTED | Representerar prickad underlinje|
 | DOTTED_HEAVY | Representerar tjock prickad underlinje|
 | HEAVY | Representerar tjock understrykning|
 | WAVE | Representerar Wave Underline|
@@ -41,4 +41,4 @@ Typen FontUnderlineType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

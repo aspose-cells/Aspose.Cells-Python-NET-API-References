@@ -1,13 +1,13 @@
 ---
-title: show_value 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: show_value属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 450
+weight: 440
 url: /zh/aspose.cells.charts/datalabels/show_value/
 is_root: false
 ---
-## show_value 属性
+## show_value属性
 
 表示指定图表的数据标签值显示行为。 True 显示值。假以掩饰。
 ### 定义：
@@ -21,5 +21,5 @@ def show_value(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [DataLabels](/cells/python-net/zh/aspose.cells.charts/datalabels)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`DataLabels`](/cells/python-net/zh/aspose.cells.charts/datalabels)

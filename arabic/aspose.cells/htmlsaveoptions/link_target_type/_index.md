@@ -1,15 +1,15 @@
 ---
-title: link_target_type الملكية
+title: link_target_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 540
 url: /ar/aspose.cells/htmlsaveoptions/link_target_type/
 is_root: false
 ---
-##  link_target_type الملكية
+##  link_target_type عقار
 
- الإشارة إلى نوع السمة الهدف في<a> الارتباط ، القيمة الافتراضية هي HtmlLinkTargetType.Parent.
+توضيح نوع السمة المستهدفة في الرابط `<a>`. القيمة الافتراضية هي HtmlLinkTargetType.Parent.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def link_target_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlLinkTargetType](/cells/python-net/ar/aspose.cells/htmllinktargettype)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlLinkTargetType`](/cells/python-net/ar/aspose.cells/htmllinktargettype)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

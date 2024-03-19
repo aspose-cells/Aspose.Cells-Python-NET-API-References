@@ -3,7 +3,7 @@ title: show_formulas proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 740
+weight: 760
 url: /it/aspose.cells/worksheet/show_formulas/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_formulas(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

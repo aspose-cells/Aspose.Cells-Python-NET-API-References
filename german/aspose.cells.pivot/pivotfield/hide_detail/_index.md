@@ -3,12 +3,12 @@ title: hide_detail Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 70
+weight: 90
 url: /de/aspose.cells.pivot/pivotfield/hide_detail/
 is_root: false
 ---
-##  hide_detail(is_hidden_detail) {#bool}
-Legt fest, ob die PivotItems in einem Pivot-Feld im Detail ausgeblendet sind. Das heißt, dieses Feld komprimieren/erweitern.
+##  hide_detail {#bool}
+Legt fest, ob die PivotItems in einem Pivot-Feld ausgeblendet sind. Das bedeutet, dass dieses Feld minimiert/erweitert wird.
 
 
 
@@ -25,5 +25,5 @@ def hide_detail(self, is_hidden_detail):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotField](/cells/python-net/de/aspose.cells.pivot/pivotfield)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotField`](/cells/python-net/de/aspose.cells.pivot/pivotfield)

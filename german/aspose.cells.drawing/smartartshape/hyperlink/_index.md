@@ -3,7 +3,7 @@ title: hyperlink Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 490
+weight: 500
 url: /de/aspose.cells.drawing/smartartshape/hyperlink/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Hyperlink](/cells/python-net/de/aspose.cells/hyperlink)
-* Klasse [SmartArtShape](/cells/python-net/de/aspose.cells.drawing/smartartshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Hyperlink`](/cells/python-net/de/aspose.cells/hyperlink)
+* Klasse [`SmartArtShape`](/cells/python-net/de/aspose.cells.drawing/smartartshape)

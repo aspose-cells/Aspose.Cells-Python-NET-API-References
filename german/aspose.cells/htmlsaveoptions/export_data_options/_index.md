@@ -3,13 +3,13 @@ title: export_data_options Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 190
+weight: 210
 url: /de/aspose.cells/htmlsaveoptions/export_data_options/
 is_root: false
 ---
 ##  export_data_options Eigentum
 
-Gibt die Regel zum Exportieren von HTML-Dateidaten an. Der Standardwert ist Alle.
+Gibt die Regel zum Exportieren von HTML-Dateidaten an. Der Standardwert ist „Alle“.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def export_data_options(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlExportDataOptions](/cells/python-net/de/aspose.cells/htmlexportdataoptions)
-* Klasse [HtmlSaveOptions](/cells/python-net/de/aspose.cells/htmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlExportDataOptions`](/cells/python-net/de/aspose.cells/htmlexportdataoptions)
+* Klasse [`HtmlSaveOptions`](/cells/python-net/de/aspose.cells/htmlsaveoptions)

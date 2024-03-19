@@ -3,7 +3,7 @@ title: is_export_comments fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 490
 url: /sv/aspose.cells/htmlsaveoptions/is_export_comments/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_export_comments(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

@@ -3,7 +3,7 @@ title: HtmlLinkTargetType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2180
+weight: 2250
 url: /es/aspose.cells/htmllinktargettype/
 is_root: false
 ---
@@ -17,12 +17,12 @@ El tipo HtmlLinkTargetType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| BLANK |Abre el documento vinculado en una nueva ventana o pestaña|
+| BLANK | Abre el documento vinculado en una nueva ventana o pestaña|
 | PARENT | Abre el documento vinculado en el marco principal.|
-| SELF | Abre el documento vinculado en el mismo marco en el que se hizo clic (esto es predeterminado)|
+| SELF | Abre el documento vinculado en el mismo marco en el que se hizo clic (esto es el valor predeterminado)|
 | TOP | Abre el documento vinculado en el cuerpo completo de la ventana.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

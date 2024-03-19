@@ -1,18 +1,18 @@
 ---
-title: classe Top10Filter
+title: Top10Filter classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1490
+weight: 1560
 url: /it/aspose.cells/top10filter/
 is_root: false
 ---
-##  classe Top10Filter
+##  Top10Filter classe
 Rappresenta i primi 10 filtri.
 
 
 
-Il tipo Top10Filter espone i membri seguenti:
+Il tipo Top10Filter espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -25,4 +25,4 @@ Il tipo Top10Filter espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

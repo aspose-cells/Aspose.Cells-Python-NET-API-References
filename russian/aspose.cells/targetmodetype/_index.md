@@ -1,9 +1,9 @@
 ---
 title: TargetModeType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2510
+weight: 2600
 url: /ru/aspose.cells/targetmodetype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип TargetModeType предоставляет следующие члены:
+Тип TargetModeType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -25,4 +25,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

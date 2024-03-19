@@ -1,18 +1,18 @@
 ---
-title: classe ChartPointCollection
+title: ChartPointCollection classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 100
+weight: 110
 url: /it/aspose.cells.charts/chartpointcollection/
 is_root: false
 ---
-##  classe ChartPointCollection
+##  ChartPointCollection classe
 Rappresenta una raccolta che contiene tutti i punti di una serie.
 
 
 
-Il tipo ChartPointCollection espone i membri seguenti:
+Il tipo ChartPointCollection espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -21,19 +21,19 @@ Il tipo ChartPointCollection espone i membri seguenti:
 
 
 
-Ottiene l'elemento [ChartPoint](/cells/python-net/it/aspose.cells.charts/chartpoint) in corrispondenza dell'indice specificato nella serie.
+Ottiene l'elemento [`ChartPoint`](/cells/python-net/it/aspose.cells.charts/chartpoint) in corrispondenza dell'indice specificato nella serie.
 ###  Indicizzatore
 | Nome| Descrizione|
 | :- | :- |
-| [index] | L'indice del punto grafico nella serie.|
+| [index] | L'indice del punto del grafico nella serie.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [get_enumerator()](/cells/python-net/it/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Restituisce un enumeratore per l'intero [ChartPointCollection](/cells/python-net/it/aspose.cells.charts/chartpointcollection).|
-| [clear()](/cells/python-net/it/aspose.cells.charts/chartpointcollection/clear/#) | Rimuovi tutte le impostazioni dei punti del grafico.|
-| [remove_at(index)](/cells/python-net/it/aspose.cells.charts/chartpointcollection/remove_at/#int) | Rimuove il punto all'indice della serie..|
+| [get_enumerator](/cells/python-net/it/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Restituisce un enumeratore per l'intero [`ChartPointCollection`](/cells/python-net/it/aspose.cells.charts/chartpointcollection).|
+| [clear](/cells/python-net/it/aspose.cells.charts/chartpointcollection/clear/#) | Rimuovi tutte le impostazioni dei punti del grafico.|
+| [remove_at](/cells/python-net/it/aspose.cells.charts/chartpointcollection/remove_at/#int) | Rimuove il punto all'indice della serie..|
 
 
 
@@ -82,6 +82,6 @@ workbook.save("book1.xls")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
-* classe [ChartPoint](/cells/python-net/it/aspose.cells.charts/chartpoint)
-* classe [ChartPointCollection](/cells/python-net/it/aspose.cells.charts/chartpointcollection)
+* modulo [`aspose.cells.charts`](..)
+* classe [`ChartPoint`](/cells/python-net/it/aspose.cells.charts/chartpoint)
+* classe [`ChartPointCollection`](/cells/python-net/it/aspose.cells.charts/chartpointcollection)

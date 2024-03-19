@@ -3,7 +3,7 @@ title: PivotFilter Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 30
+weight: 100
 url: /de/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
@@ -19,13 +19,13 @@ Der Typ PivotFilter macht die folgenden Member verfügbar:
 | :- | :- |
 | [auto_filter](/cells/python-net/de/aspose.cells.pivot/pivotfilter/auto_filter) | Ruft den Autofilter des Pivot-Filters ab.|
 | [filter_type](/cells/python-net/de/aspose.cells.pivot/pivotfilter/filter_type) | Ruft den Autofiltertyp des Pivotfilters ab.|
-| [field_index](/cells/python-net/de/aspose.cells.pivot/pivotfilter/field_index) |Ruft den Feldindex des Pivot-Filters ab.|
-| [value1](/cells/python-net/de/aspose.cells.pivot/pivotfilter/value1) | Ruft die Zeichenfolge value1 des Label-Pivot-Filters ab.|
-| [value2](/cells/python-net/de/aspose.cells.pivot/pivotfilter/value2) | Ruft den Zeichenfolgenwert2 des Label-Pivot-Filters ab.|
-| [measure_fld_index](/cells/python-net/de/aspose.cells.pivot/pivotfilter/measure_fld_index) | Ruft den Kennzahlenfeldindex des Pivot-Filters ab.|
-| [member_property_field_index](/cells/python-net/de/aspose.cells.pivot/pivotfilter/member_property_field_index) | Ruft den Mitgliedseigenschaftsfeldindex des Pivotfilters ab.|
-| [name](/cells/python-net/de/aspose.cells.pivot/pivotfilter/name) | Ruft den Namen des Pivot-Filters ab.|
-| [evaluation_order](/cells/python-net/de/aspose.cells.pivot/pivotfilter/evaluation_order) | Ruft die Auswertungsreihenfolge des Pivot-Filters ab.|
+| [field_index](/cells/python-net/de/aspose.cells.pivot/pivotfilter/field_index) | Ruft den Feldindex des Pivot-Filters ab.|
+| [value1](/cells/python-net/de/aspose.cells.pivot/pivotfilter/value1) | Ruft den Zeichenfolgenwert1 des Label-Pivot-Filters ab.|
+| [value2](/cells/python-net/de/aspose.cells.pivot/pivotfilter/value2) |Ruft den Zeichenfolgenwert2 des Label-Pivot-Filters ab.|
+| [measure_fld_index](/cells/python-net/de/aspose.cells.pivot/pivotfilter/measure_fld_index) | Ruft den Kennzahlfeldindex des Pivotfilters ab.|
+| [member_property_field_index](/cells/python-net/de/aspose.cells.pivot/pivotfilter/member_property_field_index) | Ruft den Elementeigenschaftenfeldindex des Pivotfilters ab.|
+| [name](/cells/python-net/de/aspose.cells.pivot/pivotfilter/name) | Ruft den Namen des Pivotfilters ab.|
+| [evaluation_order](/cells/python-net/de/aspose.cells.pivot/pivotfilter/evaluation_order) | Ruft die Auswertungsreihenfolge des Pivotfilters ab.|
 
 
 
@@ -84,4 +84,4 @@ book.save("out.xlsx")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](..)
+* Modul [`aspose.cells.pivot`](..)

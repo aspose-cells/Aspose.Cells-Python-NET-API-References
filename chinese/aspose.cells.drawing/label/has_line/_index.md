@@ -1,15 +1,15 @@
 ---
-title: has_line 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: has_line属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 420
 url: /zh/aspose.cells.drawing/label/has_line/
 is_root: false
 ---
-## has_line 属性
+## has_line属性
 
-获取和设置形状的线条边框是否可见。
+获取和设置形状的线边框是否可见。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def has_line(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Label](/cells/python-net/zh/aspose.cells.drawing/label)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Label`](/cells/python-net/zh/aspose.cells.drawing/label)

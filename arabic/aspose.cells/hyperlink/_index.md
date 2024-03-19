@@ -1,18 +1,18 @@
 ---
-title: Hyperlink الدرجة
+title: Hyperlink صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 790
+weight: 840
 url: /ar/aspose.cells/hyperlink/
 is_root: false
 ---
-##  Hyperlink الدرجة
-لتغليف الكائن الذي يمثل ارتباطًا تشعبيًا.
+##  Hyperlink صف
+يقوم بتغليف الكائن الذي يمثل ارتباطًا تشعبيًا.
 
 
 
-يكشف نوع Hyperlink الأعضاء التالية:
+يكشف النوع Hyperlink عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
@@ -27,7 +27,7 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [delete()](/cells/python-net/ar/aspose.cells/hyperlink/delete/#) | يحذف هذا الارتباط التشعبي|
+| [delete](/cells/python-net/ar/aspose.cells/hyperlink/delete/#) |يحذف هذا الارتباط التشعبي|
 
 
 
@@ -54,4 +54,4 @@ workbook.save("book1.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

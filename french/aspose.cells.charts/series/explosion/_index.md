@@ -3,13 +3,13 @@ title: explosion propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 160
+weight: 150
 url: /fr/aspose.cells.charts/series/explosion/
 is_root: false
 ---
 ##  explosion propriété
 
-La distance entre un secteur ouvert et le centre du graphique à secteurs est exprimée en pourcentage du diamètre du secteur.
+La distance entre une tranche de secteur ouverte et le centre du diagramme à secteurs est exprimée en pourcentage du diamètre du secteur.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def explosion(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

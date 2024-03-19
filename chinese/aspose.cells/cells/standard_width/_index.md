@@ -1,15 +1,15 @@
 ---
-title: standard_width 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: standard_width属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1280
+weight: 1270
 url: /zh/aspose.cells/cells/standard_width/
 is_root: false
 ---
-## standard_width 属性
+## standard_width属性
 
-获取或设置工作表中的默认列宽，以字符为单位。
+获取或设置工作表中的默认列宽（以字符为单位）。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def standard_width(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

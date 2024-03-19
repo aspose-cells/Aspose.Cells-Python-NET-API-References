@@ -3,7 +3,7 @@ title: data_display_format propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 230
+weight: 260
 url: /es/aspose.cells.pivot/pivotfield/data_display_format/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def data_display_format(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotField](/cells/python-net/es/aspose.cells.pivot/pivotfield)
-* clase [PivotFieldDataDisplayFormat](/cells/python-net/es/aspose.cells.pivot/pivotfielddatadisplayformat)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotField`](/cells/python-net/es/aspose.cells.pivot/pivotfield)
+* clase [`PivotFieldDataDisplayFormat`](/cells/python-net/es/aspose.cells.pivot/pivotfielddatadisplayformat)

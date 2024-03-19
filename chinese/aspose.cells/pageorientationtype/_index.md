@@ -1,18 +1,18 @@
 ---
 title: PageOrientationType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2310
+weight: 2400
 url: /zh/aspose.cells/pageorientationtype/
 is_root: false
 ---
 ## PageOrientationType枚举
-表示打印方向常量。
+表示打印方向常数。
 
 
 
-PageOrientationType 类型公开了以下成员：
+PageOrientationType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -23,4 +23,4 @@ PageOrientationType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

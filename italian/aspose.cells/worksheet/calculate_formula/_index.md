@@ -1,13 +1,13 @@
 ---
-title: metodo calculate_formula
+title: Metodo calculate_formula
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 80
+weight: 90
 url: /it/aspose.cells/worksheet/calculate_formula/
 is_root: false
 ---
-##  calculate_formula(formula) {#str}
+##  calculate_formula {#str}
 Calcola una formula.
 
 
@@ -27,13 +27,14 @@ def calculate_formula(self, formula):
 | formula | str | Formula da calcolare.|
 
 
-##  calculate_formula(formula, opts) {#str-CalculationOptions}
-Calcola una formula.
+##  calculate_formula {#str-aspose.cells.CalculationOptions}
+Calcola direttamente un'espressione di formula.
 
 
 ###  ritorna
 
-Risultato della formula calcolata.
+Risultato calcolato della formula data.
+L'oggetto restituito può essere dei possibili tipi [`Cell.value`](/cells/python-net/it/aspose.cells/cell#value) o ReferredArea.
 
 
 ```python
@@ -45,10 +46,15 @@ def calculate_formula(self, formula, opts):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | formula | str | Formula da calcolare.|
-| opts | [CalculationOptions](/cells/python-net/it/aspose.cells/calculationoptions) | Opzioni per il calcolo della formula|
+| opts | [`CalculationOptions`](/cells/python-net/it/aspose.cells/calculationoptions) | Opzioni per il calcolo della formula|
+###  Osservazioni
 
+La formula verrà calcolata proprio come è stata impostata sulla cella A1.
+E la formula verrà presa come formula normale.
+Se è necessario che la formula venga calcolata come formula di matrice e per ottenere una matrice per il risultato calcolato,
+si prega di utilizzare invece [`Worksheet.calculate_array_formula`](/cells/python-net/it/aspose.cells/worksheet/calculate_array_formula).
 
-##  calculate_formula(options, recursive) {#CalculationOptions-bool}
+##  calculate_formula {#aspose.cells.CalculationOptions-bool}
 Calcola tutte le formule in questo foglio di lavoro.
 
 
@@ -61,34 +67,42 @@ def calculate_formula(self, options, recursive):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| options | [CalculationOptions](/cells/python-net/it/aspose.cells/calculationoptions) | Opzioni per il calcolo|
+| options | [`CalculationOptions`](/cells/python-net/it/aspose.cells/calculationoptions) | Opzioni per il calcolo|
 | recursive | bool | Vero significa che se le celle del foglio di lavoro dipendono dalle celle di altri fogli di lavoro,<br/>verranno calcolate anche le celle dipendenti in altri fogli di lavoro.<br/> Falso significa che tutte le formule nel foglio di lavoro sono state calcolate e i valori sono corretti.|
 
 
-##  calculate_formula(recursive, ignore_error, custom_function) {#bool-bool-ICustomFunction}
-Calcola tutte le formule in questo foglio di lavoro.
+##  calculate_formula {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
+Calcola direttamente un'espressione di formula.
 
+
+###  ritorna
+
+Risultato calcolato della formula data.
+L'oggetto restituito può essere dei possibili tipi [`Cell.value`](/cells/python-net/it/aspose.cells/cell#value) o ReferredArea.
 
 
 ```python
-def calculate_formula(self, recursive, ignore_error, custom_function):
+def calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data):
     ...
 ```
 
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| recursive | bool | Vero significa che se le celle del foglio di lavoro dipendono dalle celle di altri fogli di lavoro,<br/>verranno calcolate anche le celle dipendenti in altri fogli di lavoro.<br/> Falso significa che tutte le formule nel foglio di lavoro sono state calcolate e i valori sono corretti.|
-| ignore_error | bool | Indica se nascondere l'errore nel calcolo delle formule.<br/> L'errore potrebbe essere una funzione non supportata, collegamenti esterni, ecc.|
-| custom_function | [ICustomFunction](/cells/python-net/it/aspose.cells/icustomfunction) | Il calcolo della formula personalizzata funziona per estendere il motore di calcolo.|
+| formula | str | Formula da calcolare.|
+| p_opts | [`FormulaParseOptions`](/cells/python-net/it/aspose.cells/formulaparseoptions) | Opzioni per l'analisi della formula.|
+| c_opts | [`CalculationOptions`](/cells/python-net/it/aspose.cells/calculationoptions) | Opzioni per il calcolo della formula.|
+| base_cell_row | int | L'indice di riga della cella base.|
+| base_cell_column | int | L'indice della colonna della cella base.|
+| calculation_data | [`CalculationData`](/cells/python-net/it/aspose.cells/calculationdata) | I dati di calcolo. È usato per la situazione<br/>l'utente deve calcolare alcune formule statiche durante l'implementazione del motore di calcolo personalizzato.<br/>Per questo tipo di situazione, l'utente deve specificarlo con i dati di calcolo forniti<br/> per [`AbstractCalculationEngine.calculate`](/cells/python-net/it/aspose.cells/abstractcalculationengine/calculate).|
 ###  Osservazioni
 
-NOTA: questo membro è ora obsoleto. Invece,
-si prega di utilizzare il metodo CalculateFormula(CalculationOptions, bool).
- Questo metodo verrà rimosso 12 mesi dopo da agosto 2020.
-Aspose si scusa per gli eventuali disagi causati.
+La formula verrà calcolata proprio come se fosse stata impostata sulla cella base specificata.
+la formula verrà presa come formula normale. Se è necessario che la formula venga calcolata come formula di matrice
+e per ottenere un array per il risultato calcolato, utilizzare
+[`Worksheet.calculate_array_formula`](/cells/python-net/it/aspose.cells/worksheet/calculate_array_formula) invece.
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

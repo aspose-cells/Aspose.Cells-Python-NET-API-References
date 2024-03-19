@@ -1,9 +1,9 @@
 ---
 title: GridlineType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2120
+weight: 2190
 url: /zh/aspose.cells/gridlinetype/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-GridlineType 类型公开了以下成员：
+GridlineType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| DOTTED |表示虚线。|
+| DOTTED |代表虚线。|
 | HAIR |代表发际线。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
-title: has_up_down_bars الملكية
+title: has_up_down_bars عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 240
 url: /ar/aspose.cells.charts/series/has_up_down_bars/
 is_root: false
 ---
-##  has_up_down_bars الملكية
+##  has_up_down_bars عقار
 
-صحيح إذا كان الرسم البياني الخطي يحتوي على أشرطة لأعلى ولأسفل.
+صحيح إذا كان المخطط الخطي يحتوي على أشرطة لأعلى ولأسفل.
 ينطبق فقط على المخططات الخطية.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def has_up_down_bars(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

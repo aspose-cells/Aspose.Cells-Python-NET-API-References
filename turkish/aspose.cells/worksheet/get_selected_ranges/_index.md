@@ -3,12 +3,12 @@ title: get_selected_ranges yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 180
 url: /tr/aspose.cells/worksheet/get_selected_ranges/
 is_root: false
 ---
-##  get_selected_ranges() {#}
-Tasarımcı elektronik tablosundaki seçili hücre aralıklarını alır.
+##  get_selected_ranges {#}
+Tasarımcı e-tablosunda seçilen hücre aralıklarını alır.
 
 
 ###  İadeler
@@ -26,5 +26,5 @@ def get_selected_ranges(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

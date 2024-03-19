@@ -1,38 +1,38 @@
 ---
-title: DateTimeGroupItem الدرجة
+title: DateTimeGroupItem صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 470
 url: /ar/aspose.cells/datetimegroupitem/
 is_root: false
 ---
-##  DateTimeGroupItem الدرجة
+##  DateTimeGroupItem صف
 يمثل إعداد مجموعة التاريخ والوقت.
 
 
 
-يكشف نوع DateTimeGroupItem الأعضاء التالية:
+يكشف النوع DateTimeGroupItem عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [DateTimeGroupItem(type, year, month, day, hour, minute, second)](/cells/python-net/ar/aspose.cells/datetimegroupitem/__init__/#DateTimeGroupingType-int-int-int-int-int-int) |  |
+| [__init__](/cells/python-net/ar/aspose.cells/datetimegroupitem/__init__/#aspose.cells.DateTimeGroupingType-int-int-int-int-int-int) |  |
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [min_value](/cells/python-net/ar/aspose.cells/datetimegroupitem/min_value) | يحصل على الحد الأدنى للقيمة.|
-| [date_time_grouping_type](/cells/python-net/ar/aspose.cells/datetimegroupitem/date_time_grouping_type) | يحصل ويضبط نوع المجموعة.|
-| [year](/cells/python-net/ar/aspose.cells/datetimegroupitem/year) | الحصول على سنة وقت التاريخ المجمع وتعيينه.|
-| [month](/cells/python-net/ar/aspose.cells/datetimegroupitem/month) | الحصول على شهر التاريخ المجمع للوقت وتعيينه.|
-| [day](/cells/python-net/ar/aspose.cells/datetimegroupitem/day) | الحصول على يوم التاريخ المجمع للوقت وتعيينه.|
-| [hour](/cells/python-net/ar/aspose.cells/datetimegroupitem/hour) | الحصول على الساعة من وقت التاريخ المجمع وتعيينها.|
-| [minute](/cells/python-net/ar/aspose.cells/datetimegroupitem/minute) | الحصول على وتعيين دقيقة من وقت التاريخ المجمع.|
+| [min_value](/cells/python-net/ar/aspose.cells/datetimegroupitem/min_value) | يحصل على القيمة الدنيا.|
+| [date_time_grouping_type](/cells/python-net/ar/aspose.cells/datetimegroupitem/date_time_grouping_type) |الحصول على نوع المجموعة وتعيينه.|
+| [year](/cells/python-net/ar/aspose.cells/datetimegroupitem/year) | الحصول على سنة التاريخ المجمع وتعيينها.|
+| [month](/cells/python-net/ar/aspose.cells/datetimegroupitem/month) | الحصول على شهر التاريخ المجمع وتعيينه.|
+| [day](/cells/python-net/ar/aspose.cells/datetimegroupitem/day) | الحصول على وتعيين يوم التاريخ والوقت المجمع.|
+| [hour](/cells/python-net/ar/aspose.cells/datetimegroupitem/hour) | الحصول على وتعيين ساعة التاريخ المجمع.|
+| [minute](/cells/python-net/ar/aspose.cells/datetimegroupitem/minute) | الحصول على دقيقة من وقت التاريخ المجمع وتعيينها.|
 | [second](/cells/python-net/ar/aspose.cells/datetimegroupitem/second) | الحصول على الثانية من وقت التاريخ المجمع وتعيينها.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

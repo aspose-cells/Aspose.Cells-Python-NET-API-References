@@ -3,7 +3,7 @@ title: sort_external_names proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 110
+weight: 120
 url: /it/aspose.cells/odssaveoptions/sort_external_names/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sort_external_names(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [OdsSaveOptions](/cells/python-net/it/aspose.cells/odssaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`OdsSaveOptions`](/cells/python-net/it/aspose.cells/odssaveoptions)

@@ -3,7 +3,7 @@ title: export_row_column_headings proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 320
+weight: 340
 url: /it/aspose.cells/htmlsaveoptions/export_row_column_headings/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def export_row_column_headings(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/it/aspose.cells/htmlsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/it/aspose.cells/htmlsaveoptions)

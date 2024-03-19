@@ -1,18 +1,18 @@
 ---
-title: العد SortOrder
+title: SortOrder التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2490
+weight: 2580
 url: /ar/aspose.cells/sortorder/
 is_root: false
 ---
-##  العد SortOrder
+##  SortOrder التعداد
 يمثل ترتيب الفرز لنطاق البيانات.
 
 
 
-يكشف نوع SortOrder الأعضاء التالية:
+يكشف النوع SortOrder عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

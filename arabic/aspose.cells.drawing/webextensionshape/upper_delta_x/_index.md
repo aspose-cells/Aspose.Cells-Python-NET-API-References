@@ -1,19 +1,19 @@
 ---
-title: upper_delta_x الملكية
+title: upper_delta_x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1110
+weight: 1120
 url: /ar/aspose.cells.drawing/webextensionshape/upper_delta_x/
 is_root: false
 ---
-##  upper_delta_x الملكية
+##  upper_delta_x عقار
 
-الحصول على أو تعيين الإزاحة الأفقية للشكل من عمود الزاوية اليسرى العليا.
+الحصول على الإزاحة الأفقية للشكل أو تعيينها من عمود الزاوية اليسرى العليا.
 
 ###  ملاحظات
 
-نطاق القيمة من 0 إلى 1024.
+نطاق القيمة هو 0 إلى 1024.
 
 ###  مثال
 
@@ -34,5 +34,5 @@ def upper_delta_x(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [WebExtensionShape](/cells/python-net/ar/aspose.cells.drawing/webextensionshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`WebExtensionShape`](/cells/python-net/ar/aspose.cells.drawing/webextensionshape)

@@ -3,7 +3,7 @@ title: DataSorter classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 420
+weight: 440
 url: /fr/aspose.cells/datasorter/
 is_root: false
 ---
@@ -18,29 +18,29 @@ Le type DataSorter expose les membres suivants :
 | Propriété| Description|
 | :- | :- |
 | [keys](/cells/python-net/fr/aspose.cells/datasorter/keys) | Obtient la liste des clés du trieur de données.|
-| [has_headers](/cells/python-net/fr/aspose.cells/datasorter/has_headers) | Représente si la plage a des en-têtes.|
-| [key1](/cells/python-net/fr/aspose.cells/datasorter/key1) | Représente le premier index de colonne trié (position absolue, la colonne A est 0, B est 1, ...).|
-| [order1](/cells/python-net/fr/aspose.cells/datasorter/order1) | Représente l'ordre de tri de la première clé.|
+| [has_headers](/cells/python-net/fr/aspose.cells/datasorter/has_headers) | Représente si la plage comporte des en-têtes.|
+| [key1](/cells/python-net/fr/aspose.cells/datasorter/key1) | Représente l'index de la première colonne triée (position absolue, la colonne A est 0, B est 1, ...).|
+| [order1](/cells/python-net/fr/aspose.cells/datasorter/order1) | Représente l’ordre de tri de la première clé.|
 | [key2](/cells/python-net/fr/aspose.cells/datasorter/key2) | Représente l'index de la deuxième colonne triée (position absolue, la colonne A est 0, B est 1, ...).|
-| [order2](/cells/python-net/fr/aspose.cells/datasorter/order2) | Représente l'ordre de tri de la deuxième clé.|
-| [key3](/cells/python-net/fr/aspose.cells/datasorter/key3) | Représente le troisième index de colonne trié (position absolue, la colonne A est 0, B est 1, ...).|
-| [order3](/cells/python-net/fr/aspose.cells/datasorter/order3) | Représente l'ordre de tri de la troisième clé.|
-| [sort_left_to_right](/cells/python-net/fr/aspose.cells/datasorter/sort_left_to_right) | True signifie que l'orientation du tri est de gauche à droite.<br/>False signifie que l'orientation du tri est de haut en bas.<br/> La valeur par défaut est faux.|
-| [case_sensitive](/cells/python-net/fr/aspose.cells/datasorter/case_sensitive) | Obtient et définit si la casse est sensible lors de la comparaison de chaîne.|
-| [sort_as_number](/cells/python-net/fr/aspose.cells/datasorter/sort_as_number) | Indique s'il faut trier tout ce qui ressemble à un nombre.|
+| [order2](/cells/python-net/fr/aspose.cells/datasorter/order2) | Représente l’ordre de tri de la deuxième clé.|
+| [key3](/cells/python-net/fr/aspose.cells/datasorter/key3) | Représente l'index de la troisième colonne triée (position absolue, la colonne A est 0, B est 1, ...).|
+| [order3](/cells/python-net/fr/aspose.cells/datasorter/order3) | Représente l’ordre de tri de la troisième clé.|
+| [sort_left_to_right](/cells/python-net/fr/aspose.cells/datasorter/sort_left_to_right) | True signifie que l'orientation du tri se fait de gauche à droite.<br/>False signifie que l'orientation du tri se fait de haut en bas.<br/> La valeur par défaut est fausse.|
+| [case_sensitive](/cells/python-net/fr/aspose.cells/datasorter/case_sensitive) | Obtient et définit si la casse est respectée lors de la comparaison d'une chaîne.|
+| [sort_as_number](/cells/python-net/fr/aspose.cells/datasorter/sort_as_number) |Indique si le tri est effectué sur tout ce qui ressemble à un nombre.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [add_key(key, order)](/cells/python-net/fr/aspose.cells/datasorter/add_key/#int-SortOrder) | Ajoute un index de colonne trié et un ordre de tri.|
-| [add_key(key, order, custom_list)](/cells/python-net/fr/aspose.cells/datasorter/add_key/#int-SortOrder-str) | Ajoute un index de colonne trié et un ordre de tri avec une liste de tri personnalisée.|
-| [add_key(key, type, order, custom_list)](/cells/python-net/fr/aspose.cells/datasorter/add_key/#int-SortOnType-SortOrder-any) | Ajoute un index de colonne trié et un ordre de tri avec une liste de tri personnalisée.|
-| [add_key(key, order, custom_list)](/cells/python-net/fr/aspose.cells/datasorter/add_key/#int-SortOrder-list) | Ajoute un index de colonne trié et un ordre de tri avec une liste de tri personnalisée.|
-| [sort(cells, start_row, start_column, end_row, end_column)](/cells/python-net/fr/aspose.cells/datasorter/sort/#Cells-int-int-int-int) | Trie les données de la zone.|
-| [sort(cells, area)](/cells/python-net/fr/aspose.cells/datasorter/sort/#Cells-CellArea) | Trier les données de la zone.|
-| [sort()](/cells/python-net/fr/aspose.cells/datasorter/sort/#) | Triez les données dans la plage.|
-| [clear()](/cells/python-net/fr/aspose.cells/datasorter/clear/#) | Effacez tous les paramètres.|
+| [add_key](/cells/python-net/fr/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder) | Ajoute un index de colonne trié et un ordre de tri.|
+| [add_key](/cells/python-net/fr/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-str) | Ajoute un index de colonne trié et un ordre de tri avec une liste de tri personnalisée.|
+| [add_key](/cells/python-net/fr/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOnType-aspose.cells.SortOrder-any) | Ajoute un index de colonne trié et un ordre de tri avec une liste de tri personnalisée.|
+| [add_key](/cells/python-net/fr/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-list) | Ajoute un index de colonne trié et un ordre de tri avec une liste de tri personnalisée.|
+| [sort](/cells/python-net/fr/aspose.cells/datasorter/sort/#aspose.cells.Cells-int-int-int-int) | Trie les données de la zone.|
+| [sort](/cells/python-net/fr/aspose.cells/datasorter/sort/#aspose.cells.Cells-aspose.cells.CellArea) | Triez les données de la zone.|
+| [sort](/cells/python-net/fr/aspose.cells/datasorter/sort/#) | Triez les données dans la plage.|
+| [clear](/cells/python-net/fr/aspose.cells/datasorter/clear/#) | Effacez tous les paramètres.|
 
 
 
@@ -79,4 +79,4 @@ workbook.save("outBook.xls")
 ```
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

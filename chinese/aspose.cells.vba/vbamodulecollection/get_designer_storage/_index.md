@@ -1,13 +1,13 @@
 ---
 title: get_designer_storage方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 70
 url: /zh/aspose.cells.vba/vbamodulecollection/get_designer_storage/
 is_root: false
 ---
-##  get_designer_storage(name) {#str}
+##  get_designer_storage {#str}
 代表Designer的数据。
 
 
@@ -28,5 +28,5 @@ def get_designer_storage(self, name):
 
 ### 也可以看看
 
-* 模块 [aspose.cells.vba](../../)
-* 类 [VbaModuleCollection](/cells/python-net/zh/aspose.cells.vba/vbamodulecollection)
+* 模块[`aspose.cells.vba`](../../)
+* 类 [`VbaModuleCollection`](/cells/python-net/zh/aspose.cells.vba/vbamodulecollection)

@@ -1,14 +1,14 @@
 ---
-title: metodo import_object_array
+title: Metodo import_object_array
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 670
+weight: 660
 url: /it/aspose.cells/cells/import_object_array/
 is_root: false
 ---
-##  import_object_array(obj_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-Importa una matrice di dati in un foglio di lavoro.
+##  import_object_array {#list-int-int-bool}
+Importa una serie di dati in un foglio di lavoro.
 
 
 
@@ -26,8 +26,8 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Specifica di importare i dati verticalmente o orizzontalmente.|
 
 
-##  import_object_array(obj_array, first_row, first_column, is_vertical, skip) {#list-int-int-bool-int}
-Importa una matrice di dati in un foglio di lavoro.
+##  import_object_array {#list-int-int-bool-int}
+Importa una serie di dati in un foglio di lavoro.
 
 
 
@@ -43,10 +43,10 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical, s
 | first_row | int | Il numero di riga della prima cella in cui importare.|
 | first_column | int | Il numero di colonna della prima cella in cui importare.|
 | is_vertical | bool | Specifica di importare i dati verticalmente o orizzontalmente.|
-| skip | int | Numero di righe o colonne ignorate.|
+| skip | int | Numero di righe o colonne saltate.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

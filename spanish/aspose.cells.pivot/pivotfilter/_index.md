@@ -3,7 +3,7 @@ title: PivotFilter clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 30
+weight: 100
 url: /es/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
@@ -19,11 +19,11 @@ El tipo PivotFilter expone los siguientes miembros:
 | :- | :- |
 | [auto_filter](/cells/python-net/es/aspose.cells.pivot/pivotfilter/auto_filter) | Obtiene el filtro automático del filtro dinámico.|
 | [filter_type](/cells/python-net/es/aspose.cells.pivot/pivotfilter/filter_type) | Obtiene el tipo de filtro automático del filtro dinámico.|
-| [field_index](/cells/python-net/es/aspose.cells.pivot/pivotfilter/field_index) |Obtiene el índice de campo del filtro dinámico.|
-| [value1](/cells/python-net/es/aspose.cells.pivot/pivotfilter/value1) | Obtiene el valor de cadena 1 del filtro dinámico de etiquetas.|
-| [value2](/cells/python-net/es/aspose.cells.pivot/pivotfilter/value2) | Obtiene el valor de cadena 2 del filtro dinámico de etiquetas.|
+| [field_index](/cells/python-net/es/aspose.cells.pivot/pivotfilter/field_index) | Obtiene el índice de campo del filtro dinámico.|
+| [value1](/cells/python-net/es/aspose.cells.pivot/pivotfilter/value1) | Obtiene el valor de cadena1 del filtro dinámico de etiquetas.|
+| [value2](/cells/python-net/es/aspose.cells.pivot/pivotfilter/value2) |Obtiene el valor de cadena2 del filtro dinámico de etiquetas.|
 | [measure_fld_index](/cells/python-net/es/aspose.cells.pivot/pivotfilter/measure_fld_index) | Obtiene el índice del campo de medida del filtro dinámico.|
-| [member_property_field_index](/cells/python-net/es/aspose.cells.pivot/pivotfilter/member_property_field_index) | Obtiene el índice de campo de propiedad de miembro del filtro dinámico.|
+| [member_property_field_index](/cells/python-net/es/aspose.cells.pivot/pivotfilter/member_property_field_index) | Obtiene el índice del campo de propiedad del miembro del filtro dinámico.|
 | [name](/cells/python-net/es/aspose.cells.pivot/pivotfilter/name) | Obtiene el nombre del filtro dinámico.|
 | [evaluation_order](/cells/python-net/es/aspose.cells.pivot/pivotfilter/evaluation_order) | Obtiene el orden de evaluación del filtro dinámico.|
 
@@ -84,4 +84,4 @@ book.save("out.xlsx")
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](..)
+* módulo [`aspose.cells.pivot`](..)

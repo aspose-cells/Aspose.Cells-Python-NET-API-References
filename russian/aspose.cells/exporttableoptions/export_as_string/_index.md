@@ -1,9 +1,9 @@
 ---
 title: export_as_string недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 50
+weight: 70
 url: /ru/aspose.cells/exporttableoptions/export_as_string/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def export_as_string(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ExportTableOptions](/cells/python-net/ru/aspose.cells/exporttableoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ExportTableOptions`](/cells/python-net/ru/aspose.cells/exporttableoptions)

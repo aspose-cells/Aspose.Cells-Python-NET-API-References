@@ -3,7 +3,7 @@ title: capacity proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 100
+weight: 110
 url: /it/aspose.cells.vba/vbamodulecollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.vba](../../)
-* classe [VbaModuleCollection](/cells/python-net/it/aspose.cells.vba/vbamodulecollection)
+* modulo [`aspose.cells.vba`](../../)
+* classe [`VbaModuleCollection`](/cells/python-net/it/aspose.cells.vba/vbamodulecollection)

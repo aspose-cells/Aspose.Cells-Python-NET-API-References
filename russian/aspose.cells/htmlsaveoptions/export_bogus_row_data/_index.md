@@ -1,16 +1,16 @@
 ---
 title: export_bogus_row_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 160
+weight: 180
 url: /ru/aspose.cells/htmlsaveoptions/export_bogus_row_data/
 is_root: false
 ---
 ##  export_bogus_row_data недвижимость
 
 Указывает, экспортируются ли фиктивные данные нижней строки. Значение по умолчанию — true. Если вы хотите импортировать файл html или mht
-чтобы преуспеть, оставьте значение по умолчанию.
+чтобы преуспеть, сохраните значение по умолчанию.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def export_bogus_row_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)

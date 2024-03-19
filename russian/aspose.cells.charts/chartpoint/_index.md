@@ -1,9 +1,9 @@
 ---
 title: ChartPoint класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ru/aspose.cells.charts/chartpoint/
 is_root: false
 ---
@@ -12,58 +12,58 @@ is_root: false
 
 
 
-Тип ChartPoint предоставляет следующие члены:
+Тип ChartPoint предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [explosion](/cells/python-net/ru/aspose.cells.charts/chartpoint/explosion) | Расстояние открытого сегмента круговой диаграммы от центра круговой диаграммы выражается в процентах от диаметра круговой диаграммы.|
+| [explosion](/cells/python-net/ru/aspose.cells.charts/chartpoint/explosion) | Расстояние открытого фрагмента круговой диаграммы от центра круговой диаграммы выражается в процентах от диаметра круговой диаграммы.|
 | [shadow](/cells/python-net/ru/aspose.cells.charts/chartpoint/shadow) | Истинно, если точка диаграммы имеет тень.|
-| [border](/cells/python-net/ru/aspose.cells.charts/chartpoint/border) | Получает [Line](/cells/python-net/ru/aspose.cells.drawing/line).|
-| [area](/cells/python-net/ru/aspose.cells.charts/chartpoint/area) | Получает [ChartPoint.area](/cells/python-net/ru/aspose.cells.charts/chartpoint#area).|
-| [marker](/cells/python-net/ru/aspose.cells.charts/chartpoint/marker) | Получает [ChartPoint.marker](/cells/python-net/ru/aspose.cells.charts/chartpoint#marker).|
+| [border](/cells/python-net/ru/aspose.cells.charts/chartpoint/border) | Получает [`Line`](/cells/python-net/ru/aspose.cells.drawing/line).|
+| [area](/cells/python-net/ru/aspose.cells.charts/chartpoint/area) | Получает [`ChartPoint.area`](/cells/python-net/ru/aspose.cells.charts/chartpoint#area).|
+| [marker](/cells/python-net/ru/aspose.cells.charts/chartpoint/marker) | Получает [`ChartPoint.marker`](/cells/python-net/ru/aspose.cells.charts/chartpoint#marker).|
 | [data_labels](/cells/python-net/ru/aspose.cells.charts/chartpoint/data_labels) | Возвращает объект DataLabels, представляющий метку данных, связанную с точкой.|
 | [y_value](/cells/python-net/ru/aspose.cells.charts/chartpoint/y_value) | Получает или задает значение Y точки диаграммы.|
 | [y_value_type](/cells/python-net/ru/aspose.cells.charts/chartpoint/y_value_type) | Получает тип значения Y точки диаграммы.|
-| [x_value](/cells/python-net/ru/aspose.cells.charts/chartpoint/x_value) |Получает или задает значение X точки диаграммы.|
+| [x_value](/cells/python-net/ru/aspose.cells.charts/chartpoint/x_value) | Получает или задает значение X точки диаграммы.|
 | [x_value_type](/cells/python-net/ru/aspose.cells.charts/chartpoint/x_value_type) | Получает тип значения X точки диаграммы.|
-| [shape_properties](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_properties) | Получает объект [ShapePropertyCollection](/cells/python-net/ru/aspose.cells.drawing/shapepropertycollection), содержащий свойства визуальной формы ChartPoint.|
-| [is_in_secondary_plot](/cells/python-net/ru/aspose.cells.charts/chartpoint/is_in_secondary_plot) | Получает или задает значение, указывающее, находятся ли эти точки данных во второй круговой диаграмме или столбце.<br/> на круговой диаграмме или столбце круговой диаграммы|
-| [shape_x](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_x) | Получает координату x левого верхнего угла в единицах 1/4000 ширины графика после вызова метода Chart.Calculate().|
-| [shape_y](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_y) | Получает координату y левого верхнего угла в единицах 1/4000 высоты графика после вызова метода Chart.Calculate().|
-| [shape_width](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_width) | Получает ширину в единицах 1/4000 ширины графика после вызова метода Chart.Calculate().|
-| [shape_height](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_height) | Получает высоту в единицах 1/4000 высоты графика после вызова метода Chart.Calculate().|
-| [shape_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_x_px) | Получает координату x левого верхнего угла в пикселях после вызова метода Chart.Calculate().|
+| [shape_properties](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_properties) |Получает объект [`ShapePropertyCollection`](/cells/python-net/ru/aspose.cells.drawing/shapepropertycollection), содержащий свойства визуальной фигуры ChartPoint.|
+| [is_in_secondary_plot](/cells/python-net/ru/aspose.cells.charts/chartpoint/is_in_secondary_plot) | Получает или задает значение, указывающее, находятся ли эти точки данных во второй круговой диаграмме или столбце.<br/> на круговой диаграмме или круговой диаграмме|
+| [shape_x](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_x) | Получает координату x верхнего левого угла в единицах 1/4000 ширины диаграммы после вызова метода Chart.Calculate().|
+| [shape_y](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_y) | Получает координату y верхнего левого угла в единицах 1/4000 высоты диаграммы после вызова метода Chart.Calculate().|
+| [shape_width](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_width) | Получает ширину в единицах 1/4000 ширины диаграммы после вызова метода Chart.Calculate().|
+| [shape_height](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_height) | Получает высоту в единицах 1/4000 высоты диаграммы после вызова метода Chart.Calculate().|
+| [shape_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_x_px) | Получает координату x верхнего левого угла в пикселях после вызова метода Chart.Calculate().|
 | [shape_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_y_px) | Получает координату y верхнего левого угла в пикселях после вызова метода Chart.Calculate().|
-| [shape_width_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_width_px) |Получает ширину в пикселях после вызова метода Chart.Calculate().|
-| [shape_height_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_height_px) | Получает высоту в пикселях после вызова метода Chart.Calculate().|
+| [shape_width_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_width_px) | Получает ширину в пикселях после вызова метода Chart.Calculate().|
+| [shape_height_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/shape_height_px) |Получает высоту в пикселях после вызова метода Chart.Calculate().|
 | [border_width_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/border_width_px) | Получает ширину границы в пикселях после вызова метода Chart.Calculate().|
-| [radius_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/radius_px) | Получает радиус пузырька, круга или пончика в пикселях после вызова метода Chart.Calculate().|
-| [inner_radius_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/inner_radius_px) | Получает внутренний радиус среза пончика в пикселях после вызова метода Chart.Calculate().<br/> Применяется к кольцевой диаграмме.|
-| [start_angle](/cells/python-net/ru/aspose.cells.charts/chartpoint/start_angle) | Получает начальный угол для сегмента круговой диаграммы, измеренный в градусах по часовой стрелке от оси x после вызова метода Chart.Calculate().<br/> Применяется к круговой диаграмме.|
-| [end_angle](/cells/python-net/ru/aspose.cells.charts/chartpoint/end_angle) | Получает конечный угол для сегмента круговой диаграммы, измеренный в градусах по часовой стрелке от оси x после вызова метода Chart.Calculate().<br/> Применяется к круговой диаграмме.|
-| [arc_start_point_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/arc_start_point_x_px) | Получает координату x начальной точки сектора круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к круговой и кольцевой диаграммам.|
-| [arc_start_point_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/arc_start_point_y_px) |Получает координату y начальной точки сектора круга после вызова метода Chart.Calculate().<br/> Применяется к круговой и кольцевой диаграммам.|
-| [arc_end_point_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/arc_end_point_x_px) | Получает координату x конечной точки сектора круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к круговой и кольцевой диаграммам.|
-| [arc_end_point_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/arc_end_point_y_px) | Получает координату y конечной точки сектора круга после вызова метода Chart.Calculate().<br/> Применяется к круговой и кольцевой диаграммам.|
-| [inner_arc_start_point_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/inner_arc_start_point_x_px) | Получает координату x начальной точки сектора круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к кольцевой диаграмме.|
-| [inner_arc_start_point_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/inner_arc_start_point_y_px) |Получает координату y начальной точки сектора круга после вызова метода Chart.Calculate().<br/> Применяется к кольцевой диаграмме.|
-| [inner_arc_end_point_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/inner_arc_end_point_x_px) | Получает координату x конечной точки сектора круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к кольцевой диаграмме.|
-| [inner_arc_end_point_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/inner_arc_end_point_y_px) | Получает координату y конечной точки сектора круга после вызова метода Chart.Calculate().<br/> Применяется к кольцевой диаграмме.|
+| [radius_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/radius_px) | Получает радиус пузыря, круга или пончика в пикселях после вызова метода Chart.Calculate().|
+| [inner_radius_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/inner_radius_px) | Получает внутренний радиус среза круга в пикселях после вызова метода Chart.Calculate().<br/> Применяется к кольцевой диаграмме.|
+| [start_angle](/cells/python-net/ru/aspose.cells.charts/chartpoint/start_angle) | Получает начальный угол сечения круговой диаграммы, измеряемый в градусах по часовой стрелке от оси X после вызова метода Chart.Calculate().<br/> Применяется к круговой диаграмме.|
+| [end_angle](/cells/python-net/ru/aspose.cells.charts/chartpoint/end_angle) | Получает конечный угол сечения круговой диаграммы, измеряемый в градусах по часовой стрелке от оси X, после вызова метода Chart.Calculate().<br/> Применяется к круговой диаграмме.|
+| [arc_start_point_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/arc_start_point_x_px) | Получает координату X начальной точки круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к круговой и кольцевой диаграмме.|
+| [arc_start_point_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/arc_start_point_y_px) | Получает координату Y начальной точки круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к круговой и кольцевой диаграмме.|
+| [arc_end_point_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/arc_end_point_x_px) |Получает координату X конечной точки круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к круговой и кольцевой диаграмме.|
+| [arc_end_point_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/arc_end_point_y_px) | Получает координату Y конечной точки круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к круговой и кольцевой диаграмме.|
+| [inner_arc_start_point_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/inner_arc_start_point_x_px) | Получает координату X начальной точки круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к кольцевой диаграмме.|
+| [inner_arc_start_point_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/inner_arc_start_point_y_px) | Получает координату Y начальной точки круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к кольцевой диаграмме.|
+| [inner_arc_end_point_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/inner_arc_end_point_x_px) |Получает координату X конечной точки круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к кольцевой диаграмме.|
+| [inner_arc_end_point_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/inner_arc_end_point_y_px) | Получает координату Y конечной точки круговой диаграммы после вызова метода Chart.Calculate().<br/> Применяется к кольцевой диаграмме.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_top_point_count()](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_top_point_count/#) | Получает количество верхних точек после вызова метода Chart.Calculate().|
-| [get_top_point_x_px(index)](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_top_point_x_px/#int) | Получает x-координату верхней точки фигуры после вызова метода Chart.Calculate().<br/> Применяет трехмерные диаграммы: Column3D, Bar3D, Cone, Cylinder, Pyramid и Area3D.|
-| [get_top_point_y_px(index)](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | Получает координату y верхней точки фигуры после вызова метода Chart.Calculate().<br/> Применяет трехмерные диаграммы: Column3D, Bar3D, Cone, Cylinder, Pyramid и Area3D.|
-| [get_bottom_point_count()](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_bottom_point_count/#) | Получает количество точек дна после вызова метода Chart.Calculate().|
-| [get_bottom_point_x_px(index)](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | Получает x-координату нижней точки фигуры после вызова метода Chart.Calculate().<br/> Применяет трехмерные диаграммы: Column3D, Bar3D, Cone, Cylinder, Pyramid|
-| [get_bottom_point_y_px(index)](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | Получает координату y нижней точки фигуры после вызова метода Chart.Calculate().<br/> Применяет трехмерные диаграммы: Column3D, Bar3D, Cone, Cylinder, Pyramid|
-| [get_on_category_axis_point_count()](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) |Получает количество точек на оси категорий после вызова метода Chart.Calculate(). Применяется только к диаграмме с областями.|
-| [get_on_category_axis_point_x_px(index)](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | Получает x-координату точки на оси категории после вызова метода Chart.Calculate(). Применяется только к диаграмме с областями.|
-| [get_on_category_axis_point_y_px(index)](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | Получает координату y точки на оси категорий после вызова метода Chart.Calculate(). Применяется только к диаграмме с областями.|
+| [get_top_point_count](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_top_point_count/#) | Получает количество верхних точек после вызова метода Chart.Calculate().|
+| [get_top_point_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_top_point_x_px/#int) | Получает координату X верхней точки фигуры после вызова метода Chart.Calculate().<br/> Применяет 3D-диаграммы: Column3D, Bar3D, Cone, Cylinder, Pyramid и Area3D.|
+| [get_top_point_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | Получает координату Y верхней точки фигуры после вызова метода Chart.Calculate().<br/> Применяет 3D-диаграммы: Column3D, Bar3D, Cone, Cylinder, Pyramid и Area3D.|
+| [get_bottom_point_count](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_bottom_point_count/#) | Получает количество нижних точек после вызова метода Chart.Calculate().|
+| [get_bottom_point_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | Получает координату X нижней точки фигуры после вызова метода Chart.Calculate().<br/> Применяет 3D-диаграммы: Column3D, Bar3D, Cone, Cylinder, Pyramid.|
+| [get_bottom_point_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | Получает координату Y нижней точки фигуры после вызова метода Chart.Calculate().<br/> Применяет 3D-диаграммы: Column3D, Bar3D, Cone, Cylinder, Pyramid.|
+| [get_on_category_axis_point_count](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) |Получает количество точек на оси категорий после вызова метода Chart.Calculate(). Применяется только к диаграмме с областями.|
+| [get_on_category_axis_point_x_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | Получает координату x точки на оси категорий после вызова метода Chart.Calculate(). Применяется только к диаграмме областей.|
+| [get_on_category_axis_point_y_px](/cells/python-net/ru/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | Получает координату Y точки на оси категорий после вызова метода Chart.Calculate(). Применяется только к диаграмме областей.|
 
 
 
@@ -111,6 +111,6 @@ workbook.save("book1.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
-* класс [Line](/cells/python-net/ru/aspose.cells.drawing/line)
-* класс [ShapePropertyCollection](/cells/python-net/ru/aspose.cells.drawing/shapepropertycollection)
+* модуль [`aspose.cells.charts`](..)
+* класс [`Line`](/cells/python-net/ru/aspose.cells.drawing/line)
+* класс [`ShapePropertyCollection`](/cells/python-net/ru/aspose.cells.drawing/shapepropertycollection)

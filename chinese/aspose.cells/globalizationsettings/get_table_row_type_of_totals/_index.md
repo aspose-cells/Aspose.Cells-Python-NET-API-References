@@ -1,18 +1,18 @@
 ---
 title: get_table_row_type_of_totals方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 260
+weight: 270
 url: /zh/aspose.cells/globalizationsettings/get_table_row_type_of_totals/
 is_root: false
 ---
-##  get_table_row_type_of_totals() {#}
+##  get_table_row_type_of_totals {#}
 获取由引用表的总行组成的表行的类型名称。
-默认为“总计”，因此在公式中“#Totals”表示引用表的总行。
+默认为“Totals”，因此公式中“#Totals”代表引用表的总行数。
 
 
-### 返回
+### 退货
 
 表行的类型名称
 
@@ -27,5 +27,5 @@ def get_table_row_type_of_totals(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [GlobalizationSettings](/cells/python-net/zh/aspose.cells/globalizationsettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`GlobalizationSettings`](/cells/python-net/zh/aspose.cells/globalizationsettings)

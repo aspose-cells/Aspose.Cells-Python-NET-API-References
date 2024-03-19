@@ -3,7 +3,7 @@ title: PivotFormatCondition classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 50
+weight: 120
 url: /fr/aspose.cells.pivot/pivotformatcondition/
 is_root: false
 ---
@@ -17,21 +17,21 @@ Le type PivotFormatCondition expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [scope_type](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/scope_type) | Obtenir et définir le type d'étendue pour le format de condition de tableau croisé dynamique .|
-| [rule_type](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/rule_type) | Obtenir et définir le type de règle pour le format de condition de tableau croisé dynamique .|
-| [format_conditions](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/format_conditions) | Obtenez formatconditions pour le format de condition de tableau croisé dynamique .|
+| [scope_type](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/scope_type) | Obtenez et définissez le type de portée pour le format de condition du tableau croisé dynamique.|
+| [rule_type](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/rule_type) | Obtenez et définissez le type de règle pour le format de condition du tableau croisé dynamique.|
+| [format_conditions](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/format_conditions) | Obtenez les conditions de format pour le format de condition du tableau croisé dynamique.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [add_data_area_condition(field_name)](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de données.|
-| [add_data_area_condition(data_field)](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#PivotField) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de données.|
-| [add_row_area_condition(field_name)](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de ligne.|
-| [add_row_area_condition(row_field)](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#PivotField) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de ligne.|
-| [add_column_area_condition(field_name)](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de colonne.|
-| [add_column_area_condition(column_field)](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#PivotField) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de colonne.|
-| [set_conditional_areas()](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) | Définit les zones conditionnelles de l'objet PivotFormatCondition.|
+| [add_data_area_condition](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de données.|
+| [add_data_area_condition](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#aspose.cells.pivot.PivotField) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de données.|
+| [add_row_area_condition](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de ligne.|
+| [add_row_area_condition](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#aspose.cells.pivot.PivotField) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de ligne.|
+| [add_column_area_condition](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de colonne.|
+| [add_column_area_condition](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#aspose.cells.pivot.PivotField) | Ajoute une limite de format conditionnel de tableau croisé dynamique dans les champs de colonne.|
+| [set_conditional_areas](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) | Définit les zones conditionnelles de l’objet PivotFormatCondition.|
 
 
 
@@ -97,4 +97,4 @@ book.save("out.xlsx")
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

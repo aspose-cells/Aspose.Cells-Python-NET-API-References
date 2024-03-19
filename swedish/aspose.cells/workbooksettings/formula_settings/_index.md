@@ -3,7 +3,7 @@ title: formula_settings fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 190
 url: /sv/aspose.cells/workbooksettings/formula_settings/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def formula_settings(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormulaSettings](/cells/python-net/sv/aspose.cells/formulasettings)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`FormulaSettings`](/cells/python-net/sv/aspose.cells/formulasettings)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

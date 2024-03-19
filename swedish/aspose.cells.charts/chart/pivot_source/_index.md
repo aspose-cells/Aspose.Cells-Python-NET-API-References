@@ -3,7 +3,7 @@ title: pivot_source fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 430
 url: /sv/aspose.cells.charts/chart/pivot_source/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def pivot_source(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Chart](/cells/python-net/sv/aspose.cells.charts/chart)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Chart`](/cells/python-net/sv/aspose.cells.charts/chart)

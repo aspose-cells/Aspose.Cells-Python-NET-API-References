@@ -3,13 +3,13 @@ title: reflection proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 830
+weight: 840
 url: /it/aspose.cells.drawing/oval/reflection/
 is_root: false
 ---
 ##  reflection proprietà
 
-Rappresenta un oggetto [ReflectionEffect](/cells/python-net/it/aspose.cells.drawing/reflectioneffect) che specifica l'effetto reflection per l'elemento o la forma del grafico.
+Rappresenta un oggetto [`ReflectionEffect`](/cells/python-net/it/aspose.cells.drawing/reflectioneffect) che specifica l'effetto reflection per l'elemento o la forma del grafico.
 
 ###  Esempio
 
@@ -26,6 +26,6 @@ def reflection(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Oval](/cells/python-net/it/aspose.cells.drawing/oval)
-* classe [ReflectionEffect](/cells/python-net/it/aspose.cells.drawing/reflectioneffect)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Oval`](/cells/python-net/it/aspose.cells.drawing/oval)
+* classe [`ReflectionEffect`](/cells/python-net/it/aspose.cells.drawing/reflectioneffect)

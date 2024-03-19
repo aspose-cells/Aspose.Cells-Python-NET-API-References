@@ -3,7 +3,7 @@ title: License sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 980
+weight: 1020
 url: /tr/aspose.cells/license/
 is_root: false
 ---
@@ -12,25 +12,25 @@ Bileşeni lisanslamak için yöntemler sağlar.
 
 
 
-License türü aşağıdaki üyeleri gösterir:
+License türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [License()](/cells/python-net/tr/aspose.cells/license/__init__/#) | Bu sınıfın yeni bir örneğini başlatır.|
+| [__init__](/cells/python-net/tr/aspose.cells/license/__init__/#) | Bu sınıfın yeni bir örneğini başlatır.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [set_license(license_name)](/cells/python-net/tr/aspose.cells/license/set_license/#str) | Bileşeni lisanslar.|
-| [set_license(stream)](/cells/python-net/tr/aspose.cells/license/set_license/#io.RawIOBase) | Bileşeni lisanslar.|
+| [set_license](/cells/python-net/tr/aspose.cells/license/set_license/#str) | Bileşeni lisanslar.|
+| [set_license](/cells/python-net/tr/aspose.cells/license/set_license/#io.RawIOBase) | Bileşeni lisanslar.|
 
 
 
 ###  Örnek
 
-Bu örnekte, MyLicense.lic adlı bir lisans dosyası bulunmaya çalışılacaktır.
+Bu örnekte MyLicense.lic isimli lisans dosyası bulunmaya çalışılacaktır.
  içeren klasörde
 
 
@@ -46,4 +46,4 @@ license.set_license("MyLicense.lic")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

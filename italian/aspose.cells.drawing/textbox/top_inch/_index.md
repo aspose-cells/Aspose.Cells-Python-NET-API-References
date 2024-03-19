@@ -3,7 +3,7 @@ title: top_inch proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1080
+weight: 1100
 url: /it/aspose.cells.drawing/textbox/top_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Rappresenta l'offset verticale della forma dalla riga superiore, in unità di po
 ```python
 
 if shape.top_inch == 3:
-    shape.top_inch = 1
+    shape.top_inch = 1.0
 
 ```
 ###  Definizione:
@@ -30,5 +30,5 @@ def top_inch(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [TextBox](/cells/python-net/it/aspose.cells.drawing/textbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`TextBox`](/cells/python-net/it/aspose.cells.drawing/textbox)

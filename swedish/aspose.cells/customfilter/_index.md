@@ -3,7 +3,7 @@ title: CustomFilter klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 380
 url: /sv/aspose.cells/customfilter/
 is_root: false
 ---
@@ -24,9 +24,9 @@ Typen CustomFilter avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [set_criteria(filter_operator, criteria)](/cells/python-net/sv/aspose.cells/customfilter/set_criteria/#FilterOperatorType-any) | Ställer in filterkriterierna.|
+| [set_criteria](/cells/python-net/sv/aspose.cells/customfilter/set_criteria/#aspose.cells.FilterOperatorType-any) | Ställer in filterkriterierna.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

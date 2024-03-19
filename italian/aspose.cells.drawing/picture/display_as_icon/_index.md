@@ -3,13 +3,13 @@ title: display_as_icon proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 380
+weight: 400
 url: /it/aspose.cells.drawing/picture/display_as_icon/
 is_root: false
 ---
 ##  display_as_icon proprietà
 
- True se l'oggetto specificato viene visualizzato come icona
+ Vero se l'oggetto specificato viene visualizzato come icona
 e l'immagine non verrà modificata automaticamente.
 ###  Definizione:
 ```python
@@ -22,5 +22,5 @@ def display_as_icon(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

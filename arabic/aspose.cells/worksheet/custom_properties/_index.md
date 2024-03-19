@@ -1,21 +1,21 @@
 ---
-title: custom_properties الملكية
+title: custom_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 460
 url: /ar/aspose.cells/worksheet/custom_properties/
 is_root: false
 ---
-##  custom_properties الملكية
+##  custom_properties عقار
 
  يحصل على كائن يمثل
 معلومات المعرف المرتبطة بورقة العمل.
 
 ###  ملاحظات
 
- ورقة العمل: توفر CustomProperties آلية مفضلة لتخزين البيانات التعسفية.
-وهو يدعم مكونات المستندات القديمة التابعة لجهات خارجية ، بالإضافة إلى المواقف التي تحتاج بشدة إلى الأجزاء الثنائية.
+ توفر Worksheet.CustomProperties آلية مفضلة لتخزين البيانات العشوائية.
+وهو يدعم مكونات مستند الطرف الثالث القديمة، بالإضافة إلى المواقف التي تتطلب بشدة الأجزاء الثنائية.
 ###  تعريف:
 ```python
 @property
@@ -24,6 +24,6 @@ def custom_properties(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CustomPropertyCollection](/cells/python-net/ar/aspose.cells.properties/custompropertycollection)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CustomPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/custompropertycollection)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

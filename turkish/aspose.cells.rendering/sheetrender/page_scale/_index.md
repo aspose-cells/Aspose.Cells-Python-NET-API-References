@@ -3,14 +3,14 @@ title: page_scale mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 100
 url: /tr/aspose.cells.rendering/sheetrender/page_scale/
 is_root: false
 ---
 ##  page_scale mülk
 
 Sayfanın hesaplanan sayfa ölçeğini alır.
-[PageSetup.zoom](/cells/python-net/tr/aspose.cells/pagesetup#zoom) ayarlanmışsa ayarlanan ölçeği döndürür. Aksi takdirde, [PageSetup.fit_to_pages_wide](/cells/python-net/tr/aspose.cells/pagesetup#fit_to_pages_wide) ve [PageSetup.fit_to_pages_tall](/cells/python-net/tr/aspose.cells/pagesetup#fit_to_pages_tall)'e göre hesaplanan ölçeği döndürür.
+[`PageSetup.zoom`](/cells/python-net/tr/aspose.cells/pagesetup#zoom) ayarlanmışsa ayarlanan ölçeği döndürür. Aksi halde [`PageSetup.fit_to_pages_wide`](/cells/python-net/tr/aspose.cells/pagesetup#fit_to_pages_wide) ve [`PageSetup.fit_to_pages_tall`](/cells/python-net/tr/aspose.cells/pagesetup#fit_to_pages_tall)'e göre hesaplanan ölçeği döndürür.
 
 ###  Örnek
 
@@ -32,5 +32,5 @@ def page_scale(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [SheetRender](/cells/python-net/tr/aspose.cells.rendering/sheetrender)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`SheetRender`](/cells/python-net/tr/aspose.cells.rendering/sheetrender)

@@ -3,7 +3,7 @@ title: tab_color propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 790
+weight: 810
 url: /es/aspose.cells/worksheet/tab_color/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Representa el color de la pestaña de la hoja de cálculo.
 
 ###  Observaciones
 
- Esta función solo se admite en ExcelXP (Excel2002) y versiones posteriores.
+ Esta característica sólo es compatible con ExcelXP (Excel2002) y versiones posteriores.
 Si guarda el archivo en formato Excel97 o Excel2000, se omitirá.
 ###  Definición:
 ```python
@@ -26,5 +26,5 @@ def tab_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

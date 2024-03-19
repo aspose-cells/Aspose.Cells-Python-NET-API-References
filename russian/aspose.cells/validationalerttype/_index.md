@@ -1,27 +1,27 @@
 ---
 title: ValidationAlertType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2630
+weight: 2720
 url: /ru/aspose.cells/validationalerttype/
 is_root: false
 ---
 ##  ValidationAlertType перечисление
-Представляет стиль оповещения о проверке данных.
+Представляет стиль оповещения проверки данных.
 
 
 
-Тип ValidationAlertType предоставляет следующие члены:
+Тип ValidationAlertType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | INFORMATION | Стиль информационного оповещения.|
-| STOP | Остановите стиль оповещения.|
-| WARNING | Предупреждающий стиль оповещения.|
+| STOP | Стиль стоп-сигнала.|
+| WARNING | Стиль предупреждения.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
-title: plot_visible_cells_only الملكية
+title: plot_visible_cells_only عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 460
+weight: 490
 url: /ar/aspose.cells.charts/chart/plot_visible_cells_only/
 is_root: false
 ---
-##  plot_visible_cells_only الملكية
+##  plot_visible_cells_only عقار
 
-يشير إلى ما إذا كان يتم رسم الخلايا المرئية فقط.
+يشير إلى ما إذا كانت الخلايا المرئية مؤامرة فقط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def plot_visible_cells_only(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

@@ -3,7 +3,7 @@ title: line_format proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 750
+weight: 760
 url: /it/aspose.cells.drawing/spinner/line_format/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Restituisce un oggetto MsoLineFormat che contiene le proprietà di formattazione
 
  NOTA: questo membro è ora obsoleto. Invece,
  si prega di utilizzare la proprietà Shape.Line.
- Questa proprietà verrà rimossa 12 mesi dopo da luglio 2016.
-Aspose si scusa per gli eventuali disagi causati.
+ Questa proprietà verrà rimossa 12 mesi dopo a partire da luglio 2016.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -25,6 +25,6 @@ def line_format(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [MsoLineFormat](/cells/python-net/it/aspose.cells.drawing/msolineformat)
-* classe [Spinner](/cells/python-net/it/aspose.cells.drawing/spinner)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`MsoLineFormat`](/cells/python-net/it/aspose.cells.drawing/msolineformat)
+* classe [`Spinner`](/cells/python-net/it/aspose.cells.drawing/spinner)

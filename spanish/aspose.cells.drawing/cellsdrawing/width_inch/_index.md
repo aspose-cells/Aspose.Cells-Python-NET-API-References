@@ -3,7 +3,7 @@ title: width_inch propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /es/aspose.cells.drawing/cellsdrawing/width_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representa el ancho de la forma, en unidades de pulgada.
 ```python
 
 if shape.width_inch == 3:
-    shape.width_inch = 1
+    shape.width_inch = 1.0
 
 ```
 ###  Definición:
@@ -30,5 +30,5 @@ def width_inch(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CellsDrawing](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CellsDrawing`](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)

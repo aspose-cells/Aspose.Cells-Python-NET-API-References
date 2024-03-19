@@ -1,13 +1,13 @@
 ---
 title: set_locked_property метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 200
+weight: 220
 url: /ru/aspose.cells.drawing/oleobject/set_locked_property/
 is_root: false
 ---
-##  set_locked_property(type, value) {#ShapeLockType-bool}
+##  set_locked_property {#aspose.cells.drawing.ShapeLockType-bool}
 Установите заблокированное свойство.
 
 
@@ -20,8 +20,8 @@ def set_locked_property(self, type, value):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| type | [ShapeLockType](/cells/python-net/ru/aspose.cells.drawing/shapelocktype) | Запертый тип.|
-| value | bool | Стоимость имущества.|
+| type | [`ShapeLockType`](/cells/python-net/ru/aspose.cells.drawing/shapelocktype) | Закрытый тип.|
+| value | bool | Стоимость недвижимости.|
 
 ###  Пример
 
@@ -35,5 +35,5 @@ shape.set_locked_property(ShapeLockType.ADJUST_HANDLES, True)
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

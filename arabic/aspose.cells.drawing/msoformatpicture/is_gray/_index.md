@@ -1,13 +1,13 @@
 ---
-title: is_gray الملكية
+title: is_gray عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells.drawing/msoformatpicture/is_gray/
 is_root: false
 ---
-##  is_gray الملكية
+##  is_gray عقار
 
 يشير إلى ما إذا كان يجب عرض هذه الصورة بتدرج الرمادي.
 ###  تعريف:
@@ -21,5 +21,5 @@ def is_gray(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoFormatPicture](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoFormatPicture`](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)

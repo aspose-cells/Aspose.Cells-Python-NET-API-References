@@ -3,16 +3,16 @@ title: LegendEntryCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 190
+weight: 200
 url: /tr/aspose.cells.charts/legendentrycollection/
 is_root: false
 ---
 ##  LegendEntryCollection sınıfı
-Belirtilen grafik açıklamasındaki tüm [LegendEntry](/cells/python-net/tr/aspose.cells.charts/legendentry) nesnelerinin bir koleksiyonunu temsil eder.
+Belirtilen grafik göstergesindeki tüm [`LegendEntry`](/cells/python-net/tr/aspose.cells.charts/legendentry) nesnelerinin bir koleksiyonunu temsil eder.
 
 
 
-LegendEntryCollection türü aşağıdaki üyeleri gösterir:
+LegendEntryCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -23,17 +23,17 @@ LegendEntryCollection türü aşağıdaki üyeleri gösterir:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/copy_to/#int-list-int-int) |Dizi listesindeki bir dizi öğeyi, hedef dizi listesinin belirtilen dizininden başlayarak uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of(item, index)](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/index_of/#LegendEntry-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of(item, index, count)](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/index_of/#LegendEntry-int-int) | Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item)](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/last_index_of/#LegendEntry) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index)](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/last_index_of/#LegendEntry-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index, count)](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/last_index_of/#LegendEntry-int-int) |Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [binary_search(item)](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/binary_search/#LegendEntry) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [copy_to](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak dizi listesinin tamamını uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [copy_to](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen dizininden başlayarak, dizi listesinden bir dizi öğeyi uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [index_of](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/index_of/#aspose.cells.charts.LegendEntry-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [index_of](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/index_of/#aspose.cells.charts.LegendEntry-int-int) |Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğeyi içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/last_index_of/#aspose.cells.charts.LegendEntry) | Belirtilen nesneyi arar ve dizi listesinin tamamındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/last_index_of/#aspose.cells.charts.LegendEntry-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/last_index_of/#aspose.cells.charts.LegendEntry-int-int) | Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [binary_search](/cells/python-net/tr/aspose.cells.charts/legendentrycollection/binary_search/#aspose.cells.charts.LegendEntry) | Varsayılan karşılaştırıcıyı kullanarak bir öğe için sıralanmış dizi listesinin tamamını arar ve öğenin sıfır tabanlı dizinini döndürür.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
-* sınıf [LegendEntry](/cells/python-net/tr/aspose.cells.charts/legendentry)
+* modül [`aspose.cells.charts`](..)
+* sınıf [`LegendEntry`](/cells/python-net/tr/aspose.cells.charts/legendentry)

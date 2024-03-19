@@ -1,14 +1,14 @@
 ---
-title: set_background método
+title: método set_background
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 250
+weight: 270
 url: /es/aspose.cells/worksheet/set_background/
 is_root: false
 ---
-##  set_background(picture_data) {#bytes}
-Establece la imagen de fondo de la hoja de cálculo.
+##  set_background {#bytes}
+Establece la imagen de fondo de la hoja de trabajo.
 
 
 
@@ -25,10 +25,10 @@ def set_background(self, picture_data):
 
 NOTA: Este miembro ahora está obsoleto. En cambio,
 utilice la propiedad Worksheet.BackgroundImage.
- Esta propiedad se eliminará 12 meses después desde agosto de 2016.
+ Esta propiedad será eliminada 12 meses después desde agosto de 2016.
 Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

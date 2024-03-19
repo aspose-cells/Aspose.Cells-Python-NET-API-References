@@ -3,11 +3,11 @@ title: freeze_panes metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 140
 url: /sv/aspose.cells/worksheet/freeze_panes/
 is_root: false
 ---
-##  freeze_panes(cell_name, freezed_rows, freezed_columns) {#str-int-int}
+##  freeze_panes {#str-int-int}
 Fryser rutor vid den angivna cellen i kalkylbladet.
 
 
@@ -28,7 +28,7 @@ def freeze_panes(self, cell_name, freezed_rows, freezed_columns):
 Radindex och kolumnindex kan inte alla vara noll. Antal rader och antal kolumner
 inte heller alla kan vara noll.
 
-##  freeze_panes(row, column, freezed_rows, freezed_columns) {#int-int-int-int}
+##  freeze_panes {#int-int-int-int}
 Fryser rutor vid den angivna cellen i kalkylbladet.
 
 
@@ -55,5 +55,5 @@ De två första parametrarna anger den frysta positionen och de två sista param
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

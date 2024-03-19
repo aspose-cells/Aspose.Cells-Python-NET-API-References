@@ -3,7 +3,7 @@ title: ExceptionType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2020
+weight: 2090
 url: /tr/aspose.cells/exceptiontype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ is_root: false
 
 
 
-ExceptionType türü aşağıdaki üyeleri gösterir:
+ExceptionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | CHART | Geçersiz grafik ayarı.|
@@ -27,16 +27,16 @@ ExceptionType türü aşağıdaki üyeleri gösterir:
 | INVALID_OPERATOR | Geçersiz operatör.|
 | INCORRECT_PASSWORD | Yanlış parola.|
 | LICENSE | Lisansla ilgili hatalar.|
-| LIMITATION |MS Excel sınırlama hatası dışında.|
-| PAGE_SETUP | Geçersiz sayfa yapısı ayarı.|
+| LIMITATION | MS Excel sınırlamasının dışında hata.|
+| PAGE_SETUP | Geçersiz sayfa düzeni ayarı.|
 | PIVOT_TABLE | Geçersiz pivotTable ayarı.|
 | SHAPE | Geçersiz çizim nesnesi ayarı.|
-| SPARKLINE | Geçersiz mini grafik nesne ayarı.|
+| SPARKLINE | Geçersiz mini grafik nesnesi ayarı.|
 | SHEET_NAME | Geçersiz çalışma sayfası adı.|
 | SHEET_TYPE | Geçersiz çalışma sayfası türü.|
-| INTERRUPTED | Süreç kesintiye uğradı.|
+| INTERRUPTED | Süreç kesintiye uğrar.|
 | IO | Dosya geçersiz.|
-| PERMISSION | Bu dosyayı açmak için izin gerekiyor.|
+| PERMISSION |Bu dosyayı açmak için izin gerekiyor.|
 | UNSUPPORTED_FEATURE | Desteklenmeyen özellik.|
 | UNSUPPORTED_STREAM | Desteklenmeyen akış açılacak.|
 | UNDISCLOSED_INFORMATION | Dosyalar bazı açıklanmayan bilgiler içeriyor.|
@@ -45,4 +45,4 @@ ExceptionType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

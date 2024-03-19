@@ -1,9 +1,9 @@
 ---
 title: PivotFieldCollection类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 20
+weight: 80
 url: /zh/aspose.cells.pivot/pivotfieldcollection/
 is_root: false
 ---
@@ -13,13 +13,13 @@ is_root: false
 
 
 
-PivotFieldCollection 类型公开了以下成员：
+PivotFieldCollection 类型公开以下成员：
 
 ### 特性
 |属性|描述|
 | :- | :- |
 | [type](/cells/python-net/zh/aspose.cells.pivot/pivotfieldcollection/type) |获取 PivotFields 类型。|
-| [count](/cells/python-net/zh/aspose.cells.pivot/pivotfieldcollection/count) |获取 pivotFields 的计数。|
+| [count](/cells/python-net/zh/aspose.cells.pivot/pivotfieldcollection/count) |获取数据透视字段的计数。|
 
 
 
@@ -33,11 +33,12 @@ PivotFieldCollection 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [add_by_base_index(base_field_index)](/cells/python-net/zh/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) |将 PivotField 对象添加到特定类型的 PivotFields。|
-| [add(pivot_field)](/cells/python-net/zh/aspose.cells.pivot/pivotfieldcollection/add/#PivotField) |将 PivotField 对象添加到特定类型的 PivotFields。|
-| [clear()](/cells/python-net/zh/aspose.cells.pivot/pivotfieldcollection/clear/#) |清除 PivotFieldCollection 的所有字段|
+| [add_by_base_index](/cells/python-net/zh/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) |将数据透视字段对象添加到特定类型的数据透视字段。|
+| [add](/cells/python-net/zh/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.PivotField) |将数据透视字段对象添加到特定类型的数据透视字段。|
+| [clear](/cells/python-net/zh/aspose.cells.pivot/pivotfieldcollection/clear/#) |清除 PivotFieldCollection 的所有字段|
+| [move](/cells/python-net/zh/aspose.cells.pivot/pivotfieldcollection/move/#int-int) |将数据透视字段从当前位置移动到目标位置|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](..)
+* 模块[`aspose.cells.pivot`](..)

@@ -1,15 +1,15 @@
 ---
 title: upper_left_column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /ru/aspose.cells.drawing/checkbox/upper_left_column/
 is_root: false
 ---
 ##  upper_left_column недвижимость
 
-Представляет индекс столбца в левом верхнем углу.
+Представляет индекс столбца в верхнем левом углу.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CheckBox](/cells/python-net/ru/aspose.cells.drawing/checkbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CheckBox`](/cells/python-net/ru/aspose.cells.drawing/checkbox)

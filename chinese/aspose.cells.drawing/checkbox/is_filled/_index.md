@@ -1,13 +1,13 @@
 ---
-title: is_filled 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_filled属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 550
+weight: 560
 url: /zh/aspose.cells.drawing/checkbox/is_filled/
 is_root: false
 ---
-## is_filled 属性
+## is_filled属性
 
 指示填充格式是否可见。
 
@@ -30,5 +30,5 @@ def is_filled(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CheckBox](/cells/python-net/zh/aspose.cells.drawing/checkbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CheckBox`](/cells/python-net/zh/aspose.cells.drawing/checkbox)

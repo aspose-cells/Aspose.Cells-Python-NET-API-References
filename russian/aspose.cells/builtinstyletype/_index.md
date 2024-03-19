@@ -1,9 +1,9 @@
 ---
 title: BuiltinStyleType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1800
+weight: 1870
 url: /ru/aspose.cells/builtinstyletype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип BuiltinStyleType предоставляет следующие члены:
+Тип BuiltinStyleType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -72,4 +72,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

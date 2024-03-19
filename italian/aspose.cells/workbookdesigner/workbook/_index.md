@@ -3,13 +3,13 @@ title: workbook proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 130
+weight: 140
 url: /it/aspose.cells/workbookdesigner/workbook/
 is_root: false
 ---
 ##  workbook proprietà
 
-Ottiene e imposta l'oggetto [WorkbookDesigner.workbook](/cells/python-net/it/aspose.cells/workbookdesigner#workbook).
+Ottiene e imposta l'oggetto [`WorkbookDesigner.workbook`](/cells/python-net/it/aspose.cells/workbookdesigner#workbook).
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def workbook(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
-* classe [WorkbookDesigner](/cells/python-net/it/aspose.cells/workbookdesigner)
+* modulo [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)
+* classe [`WorkbookDesigner`](/cells/python-net/it/aspose.cells/workbookdesigner)

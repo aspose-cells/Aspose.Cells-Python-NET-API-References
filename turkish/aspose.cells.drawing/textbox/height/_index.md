@@ -3,13 +3,13 @@ title: height mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 440
 url: /tr/aspose.cells.drawing/textbox/height/
 is_root: false
 ---
 ##  height mülk
 
-height şeklinin piksel birimi cinsinden temsil eder.
+Piksel birimi cinsinden şeklin height'ini temsil eder.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def height(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextBox](/cells/python-net/tr/aspose.cells.drawing/textbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextBox`](/cells/python-net/tr/aspose.cells.drawing/textbox)

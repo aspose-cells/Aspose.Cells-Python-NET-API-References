@@ -1,15 +1,15 @@
 ---
-title: has_revisions الملكية
+title: has_revisions عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 590
 url: /ar/aspose.cells/workbook/has_revisions/
 is_root: false
 ---
-##  has_revisions الملكية
+##  has_revisions عقار
 
-يحصل على ما إذا كان المصنف يحتوي على أي تغييرات متعقبة
+يتم الحصول عليه إذا كان المصنف يحتوي على أي تغييرات متعقبة
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def has_revisions(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

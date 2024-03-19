@@ -3,7 +3,7 @@ title: has_hi_lo_lines fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 200
 url: /sv/aspose.cells.charts/series/has_hi_lo_lines/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def has_hi_lo_lines(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

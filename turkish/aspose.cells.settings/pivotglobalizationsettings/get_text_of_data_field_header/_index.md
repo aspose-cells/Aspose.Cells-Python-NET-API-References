@@ -3,12 +3,12 @@ title: get_text_of_data_field_header yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 60
 url: /tr/aspose.cells.settings/pivotglobalizationsettings/get_text_of_data_field_header/
 is_root: false
 ---
-##  get_text_of_data_field_header() {#}
-PivotTable'daki değer alanı alan başlığının metnini alır.
+##  get_text_of_data_field_header {#}
+PivotTable'daki değer alanı alanı başlığının metnini alır.
 
 
 ###  İadeler
@@ -26,5 +26,5 @@ def get_text_of_data_field_header(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.settings](../../)
-* sınıf [PivotGlobalizationSettings](/cells/python-net/tr/aspose.cells.settings/pivotglobalizationsettings)
+* modül [`aspose.cells.settings`](../../)
+* sınıf [`PivotGlobalizationSettings`](/cells/python-net/tr/aspose.cells.settings/pivotglobalizationsettings)

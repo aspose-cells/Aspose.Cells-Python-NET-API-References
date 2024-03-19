@@ -1,14 +1,14 @@
 ---
-title: TimeUnit dénombrement
+title: TimeUnit énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 660
+weight: 670
 url: /fr/aspose.cells.charts/timeunit/
 is_root: false
 ---
-##  TimeUnit dénombrement
-Représente l'unité de base pour l'axe des abscisses.
+##  TimeUnit énumération
+Représente l’unité de base pour l’axe des catégories.
 
 
 
@@ -24,4 +24,4 @@ Le type TimeUnit expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

@@ -3,11 +3,11 @@ title: move_to_range metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 170
 url: /sv/aspose.cells.drawing/textbox/move_to_range/
 is_root: false
 ---
-##  move_to_range(upper_left_row, upper_left_column, lower_right_row, lower_right_column) {#int-int-int-int}
+##  move_to_range {#int-int-int-int}
 Flyttar formen till ett angivet område.
 
 
@@ -36,5 +36,5 @@ shape.move_to_range(12, 3, 13, 5)
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextBox](/cells/python-net/sv/aspose.cells.drawing/textbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextBox`](/cells/python-net/sv/aspose.cells.drawing/textbox)

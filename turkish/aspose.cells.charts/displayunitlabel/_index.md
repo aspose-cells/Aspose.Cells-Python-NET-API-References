@@ -3,7 +3,7 @@ title: DisplayUnitLabel sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 130
+weight: 140
 url: /tr/aspose.cells.charts/displayunitlabel/
 is_root: false
 ---
@@ -12,58 +12,58 @@ Görüntü birimi etiketini temsil eder.
 
 
 
-**Miras:** [DisplayUnitLabel](/cells/python-net/aspose.cells.charts/displayunitlabel) → 
-[ChartTextFrame](/cells/python-net/aspose.cells.charts/charttextframe) → 
-[ChartFrame](/cells/python-net/tr/aspose.cells.charts/chartframe)
+**Miras:** [`DisplayUnitLabel`](/cells/python-net/aspose.cells.charts/displayunitlabel) → 
+[`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe) → 
+[`ChartFrame`](/cells/python-net/tr/aspose.cells.charts/chartframe)
 
 
 
-DisplayUnitLabel türü aşağıdaki üyeleri gösterir:
+DisplayUnitLabel türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [is_inner_mode](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_inner_mode) | Çizim alanı boyutunun, onay işaretlerini ve eksen etiketlerini içerip içermediğini gösterir.<br/> False, boyutun çizim alanının boyutunu, onay işaretlerini ve eksen etiketlerini belirleyeceğini belirtir.|
-| [border](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/border) | [Line](/cells/python-net/tr/aspose.cells.drawing/line)'i alır.|
-| [area](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/area) | [ChartFrame.area](/cells/python-net/tr/aspose.cells.charts/chartframe#area)'i alır.|
-| [text_font](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/text_font) | Belirtilen ChartFrame nesnesinin [ChartFrame.font](/cells/python-net/tr/aspose.cells.charts/chartframe#font) nesnesini alır.|
+| [is_inner_mode](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_inner_mode) | Çizim alanı boyutunun onay işaretlerini ve eksen etiketlerini içerip içermediğini belirtir.<br/> False, boyutun çizim alanının, onay işaretlerinin ve eksen etiketlerinin boyutunu belirleyeceğini belirtir.|
+| [border](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/border) | [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)'i alır.|
+| [area](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/area) | [`ChartFrame.area`](/cells/python-net/tr/aspose.cells.charts/chartframe#area)'i alır.|
+| [text_font](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/text_font) | Belirtilen ChartFrame nesnesinin [`ChartFrame.font`](/cells/python-net/tr/aspose.cells.charts/chartframe#font) nesnesini alır.|
 | [text_options](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/text_options) | Metnin seçeneklerini alır ve ayarlar.|
-| [font](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/font) | Belirtilen ChartFrame nesnesinin [DisplayUnitLabel.font](/cells/python-net/tr/aspose.cells.charts/displayunitlabel#font) nesnesini alır.|
-| [auto_scale_font](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/auto_scale_font) | Nesne boyutu değiştiğinde, nesnedeki metin yazı tipi boyutunu değiştirirse doğrudur. Varsayılan değer True'dur.|
+| [font](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/font) | Belirtilen ChartFrame nesnesinin [`DisplayUnitLabel.font`](/cells/python-net/tr/aspose.cells.charts/displayunitlabel#font) nesnesini alır.|
+| [auto_scale_font](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/auto_scale_font) | Nesne boyutu değiştiğinde nesnedeki metnin yazı tipi boyutu da değişirse doğrudur. Varsayılan değer Doğru'dur.|
 | [background_mode](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/background_mode) | Arka planın görüntüleme modunu alır ve ayarlar|
 | [background](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/background) | Arka planın görüntüleme modunu alır ve ayarlar|
-| [is_automatic_size](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_automatic_size) | Grafik çerçevesinin otomatik boyutlandırılıp boyutlandırılmadığını gösterir.|
-| [x](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/x) | Grafik alanının 1/4000'lik birimlerinde sol üst köşenin x koordinatını alır veya ayarlar.|
-| [y](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/y) |Grafik alanının 1/4000'lik birimlerinde sol üst köşenin y koordinatını alır veya ayarlar.|
-| [height](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/height) | Grafik alanının 1/4000'lik birimlerinde çerçevenin yüksekliğini alır veya ayarlar.|
-| [width](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/width) | Grafik alanının 1/4000'lik birimlerinde çerçeve genişliğini alır veya ayarlar.|
-| [shadow](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/shadow) | Çerçevede gölge varsa doğrudur.|
-| [shape_properties](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/shape_properties) | [ChartFrame.shape_properties](/cells/python-net/tr/aspose.cells.charts/chartframe#shape_properties) nesnesini alır.|
+| [is_automatic_size](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_automatic_size) | Grafik çerçevesinin otomatik olarak boyutlandırılıp boyutlandırılmadığını belirtir.|
+| [x](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/x) |Grafik alanının 1/4000'lik birimlerinde sol üst köşenin x koordinatını alır veya ayarlar.|
+| [y](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/y) | Grafik alanının 1/4000'lik birimlerinde sol üst köşenin y koordinatını alır veya ayarlar.|
+| [height](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/height) | Çerçevenin yüksekliğini grafik alanının 1/4000'i cinsinden alır veya ayarlar.|
+| [width](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/width) | Çerçevenin genişliğini grafik alanının 1/4000'i cinsinden alır veya ayarlar.|
+| [shadow](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/shadow) | Çerçevenin gölgesi varsa doğrudur.|
+| [shape_properties](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/shape_properties) | [`ChartFrame.shape_properties`](/cells/python-net/tr/aspose.cells.charts/chartframe#shape_properties) nesnesini alır.|
 | [is_default_pos_be_set](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_default_pos_be_set) | Varsayılan konumun (DefaultX, DefaultY, DefaultWidth ve DefaultHeight) ayarlanıp ayarlanmadığını gösterir.|
 | [default_x](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/default_x) | Varsayılan konumun x'ini temsil eder|
 | [default_y](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/default_y) | Varsayılan konumun y'sini temsil eder|
 | [default_width](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/default_width) | Varsayılan konumun genişliğini temsil eder|
 | [default_height](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/default_height) | Varsayılan konumun yüksekliğini temsil eder|
-| [is_auto_text](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_auto_text) | Metnin otomatik olarak oluşturulduğunu gösterir.|
-| [is_deleted](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_deleted) | Bu veri etiketlerinin silinip silinmediğini gösterir.|
-| [text_horizontal_alignment](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/text_horizontal_alignment) | Metin yatay hizalamasını alır ve ayarlar.|
-| [text_vertical_alignment](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/text_vertical_alignment) |Metnin dikey hizalamasını alır veya ayarlar.|
+| [is_auto_text](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_auto_text) | Metnin otomatik olarak oluşturulduğunu belirtir.|
+| [is_deleted](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_deleted) | Bu veri etiketlerinin silinip silinmediğini belirtir.|
+| [text_horizontal_alignment](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/text_horizontal_alignment) | Metnin yatay hizalamasını alır ve ayarlar.|
+| [text_vertical_alignment](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/text_vertical_alignment) | Metnin dikey hizalamasını alır veya ayarlar.|
 | [rotation_angle](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/rotation_angle) | Metin döndürme açısını temsil eder.|
-| [is_automatic_rotation](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_automatic_rotation) | Grafik metninin otomatik olarak döndürülüp döndürülmediğini gösterir.|
+| [is_automatic_rotation](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_automatic_rotation) | Grafiğin metninin otomatik olarak döndürülüp döndürülmeyeceğini belirtir.|
 | [text](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/text) | Görüntü birimi etiketinin metnini alır veya ayarlar.|
 | [linked_source](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/linked_source) | Çalışma sayfasına bir başvuru alır ve ayarlar.|
 | [text_direction](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/text_direction) | Metin okuma sırasını temsil eder.|
 | [reading_order](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/reading_order) | Metin okuma sırasını temsil eder.|
 | [direction_type](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/direction_type) | Metnin yönünü alır ve ayarlar.|
 | [is_text_wrapped](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_text_wrapped) | Metnin kaydırılıp kaydırılmadığını gösteren bir değer alır veya ayarlar.|
-| [is_resize_shape_to_fit_text](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_resize_shape_to_fit_text) | İçinde açıklanan metni tam olarak içerecek şekilde şeklin otomatik olarak sığdırılıp sığdırılmayacağını alır veya ayarlar. Otomatik sığdırma:<br/> şeklin içindeki metin, içindeki tüm metni içerecek şekilde ölçeklendiğinde.|
+| [is_resize_shape_to_fit_text](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/is_resize_shape_to_fit_text) | Bir şeklin, içinde açıklanan metni tam olarak içerecek şekilde otomatik olarak sığdırılıp sığdırılmayacağını alır veya ayarlar. Otomatik sığdırma:<br/> Bir şeklin içindeki metin, içindeki tüm metni içerecek şekilde ölçeklendiğinde.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [set_position_auto()](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/set_position_auto/#) | Çerçevenin konumunu otomatik olarak ayarlayın|
-| [characters(start_index, length)](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/characters/#int-int) | Metin içindeki bir karakter aralığını temsil eden bir Characters nesnesi döndürür.|
+| [set_position_auto](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/set_position_auto/#) | Çerçevenin konumunu otomatik olarak ayarla|
+| [characters](/cells/python-net/tr/aspose.cells.charts/displayunitlabel/characters/#int-int) | Metin içindeki bir karakter aralığını temsil eden bir Characters nesnesini döndürür.|
 
 
 
@@ -122,8 +122,8 @@ workbook.save("book1.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
-* sınıf [ChartFrame](/cells/python-net/tr/aspose.cells.charts/chartframe)
-* sınıf [ChartTextFrame](/cells/python-net/tr/aspose.cells.charts/charttextframe)
-* sınıf [DisplayUnitLabel](/cells/python-net/tr/aspose.cells.charts/displayunitlabel)
-* sınıf [Line](/cells/python-net/tr/aspose.cells.drawing/line)
+* modül [`aspose.cells.charts`](..)
+* sınıf [`ChartFrame`](/cells/python-net/tr/aspose.cells.charts/chartframe)
+* sınıf [`ChartTextFrame`](/cells/python-net/tr/aspose.cells.charts/charttextframe)
+* sınıf [`DisplayUnitLabel`](/cells/python-net/tr/aspose.cells.charts/displayunitlabel)
+* sınıf [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)

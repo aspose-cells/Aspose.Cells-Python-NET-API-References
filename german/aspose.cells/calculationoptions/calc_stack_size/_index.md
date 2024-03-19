@@ -9,15 +9,17 @@ is_root: false
 ---
 ##  calc_stack_size Eigentum
 
-Gibt die Stapelgröße für die rekursive Berechnung von Zellen an.
+Die Stapelgröße für die rekursive Berechnung von Zellen. Der Standardwert ist 200.
 
 ###  Bemerkungen
 
-Wenn im Abhängigkeitsbaum eine große Anzahl von Zellen rekursiv berechnet werden muss,
-StackOverflowException kann im Berechnungsprozess verursacht werden.
-Wenn dies der Fall ist, sollte der Benutzer einen kleineren Wert für diese Eigenschaft angeben.
-Für eine solche Situation sollte der Benutzer den richtigen Wert für diese Eigenschaft gemäß den tatsächlichen Formeln und Daten bestimmen.
-Ein zu kleiner Wert kann zu Leistungseinbußen bei der Formelberechnung führen.
+Wenn eine große Anzahl von Zellen im Abhängigkeitsbaum rekursiv berechnet werden muss,
+Im Berechnungsprozess kann eine StackOverflowException verursacht werden.
+Wenn ja, sollte der Benutzer einen kleineren Wert für diese Eigenschaft angeben.
+In einer solchen Situation sollte der Benutzer den richtigen Wert für diese Eigenschaft anhand der tatsächlichen Formeln und Daten ermitteln.
+Ein zu kleiner Wert kann jedoch zu Leistungseinbußen bei der Formelberechnung und einem Wert unter 2 führen
+wird es unmöglich machen, eine Formel zu berechnen, die von einer anderen abhängt. Wenn der angegebene Wert also kleiner als 2 ist,
+es wird auf 2 zurückgesetzt.
 ###  Definition:
 ```python
 @property
@@ -29,5 +31,5 @@ def calc_stack_size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CalculationOptions](/cells/python-net/de/aspose.cells/calculationoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CalculationOptions`](/cells/python-net/de/aspose.cells/calculationoptions)

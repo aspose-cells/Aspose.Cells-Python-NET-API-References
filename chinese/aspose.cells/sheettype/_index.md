@@ -1,9 +1,9 @@
 ---
 title: SheetType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2460
+weight: 2550
 url: /zh/aspose.cells/sheettype/
 is_root: false
 ---
@@ -12,20 +12,20 @@ is_root: false
 
 
 
-SheetType 类型公开了以下成员：
+SheetType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| VB | Visual Basic 模块|
+| VB |视觉基本模块|
 | WORKSHEET |  |
 | CHART |图表|
 | BIFF4_MACRO |BIFF4 宏表|
 | INTERNATIONAL_MACRO |国际宏观表|
 | OTHER |  |
-| DIALOG |对话工作表|
+| DIALOG |对话框工作表|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

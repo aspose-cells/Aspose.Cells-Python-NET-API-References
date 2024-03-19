@@ -3,12 +3,12 @@ title: طريقة select_range
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 260
 url: /ar/aspose.cells/worksheet/select_range/
 is_root: false
 ---
-##  select_range(start_row, start_column, total_rows, total_columns, remove_others) {#int-int-int-int-bool}
-يختار النطاق.
+##  select_range {#int-int-int-int-bool}
+يحدد نطاقًا.
 
 
 
@@ -24,10 +24,10 @@ def select_range(self, start_row, start_column, total_rows, total_columns, remov
 | start_column | int | عمود البداية|
 | total_rows | int | عدد الصفوف.|
 | total_columns | int | عدد الأعمدة|
-| remove_others | bool | تعني كلمة True إزالة النطاق المحدد الآخر وتحديد هذا النطاق فقط.|
+| remove_others | bool | صحيح يعني إزالة النطاق المحدد الآخر وتحديد هذا النطاق فقط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

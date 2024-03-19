@@ -8,8 +8,6 @@ url: /fr/aspose.cells.pivot/sxrng/is_auto_end/
 is_root: false
 ---
 ##  is_auto_end propriété
-
-Spécifie une valeur booléenne qui indique si l'application utilisera les données source pour définir la valeur de fin de plage.
 ###  Définition:
 ```python
 @property
@@ -18,5 +16,5 @@ def is_auto_end(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [SxRng](/cells/python-net/fr/aspose.cells.pivot/sxrng)
+* module [`aspose.cells.pivot`](../../)
+* classe [`SxRng`](/cells/python-net/fr/aspose.cells.pivot/sxrng)

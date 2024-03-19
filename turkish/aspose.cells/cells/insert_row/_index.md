@@ -3,11 +3,11 @@ title: insert_row yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 720
+weight: 710
 url: /tr/aspose.cells/cells/insert_row/
 is_root: false
 ---
-##  insert_row(row_index) {#int}
+##  insert_row {#int}
 Çalışma sayfasına yeni bir satır ekler.
 
 
@@ -25,5 +25,5 @@ def insert_row(self, row_index):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

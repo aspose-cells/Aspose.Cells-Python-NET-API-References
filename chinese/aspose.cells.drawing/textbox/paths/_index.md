@@ -1,15 +1,15 @@
 ---
-title: paths 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: paths属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 810
+weight: 830
 url: /zh/aspose.cells.drawing/textbox/paths/
 is_root: false
 ---
-## paths 属性
+## paths属性
 
-获取自定义几何形状的 paths。
+获取自定义几何形状的paths。
 
 ### 例子
 
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapePathCollection](/cells/python-net/zh/aspose.cells.drawing/shapepathcollection)
-* 类 [TextBox](/cells/python-net/zh/aspose.cells.drawing/textbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapePathCollection`](/cells/python-net/zh/aspose.cells.drawing/shapepathcollection)
+* 类 [`TextBox`](/cells/python-net/zh/aspose.cells.drawing/textbox)

@@ -1,13 +1,13 @@
 ---
-title: capacity الملكية
+title: capacity عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.vba/vbamodulecollection/capacity/
 is_root: false
 ---
-##  capacity الملكية
+##  capacity عقار
 ###  تعريف:
 ```python
 @property
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](../../)
-* فئة [VbaModuleCollection](/cells/python-net/ar/aspose.cells.vba/vbamodulecollection)
+* الوحدة [`aspose.cells.vba`](../../)
+* فئة [`VbaModuleCollection`](/cells/python-net/ar/aspose.cells.vba/vbamodulecollection)

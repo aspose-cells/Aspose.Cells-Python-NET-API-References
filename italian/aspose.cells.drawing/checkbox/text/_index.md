@@ -3,7 +3,7 @@ title: text proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 940
+weight: 950
 url: /it/aspose.cells.drawing/checkbox/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CheckBox](/cells/python-net/it/aspose.cells.drawing/checkbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CheckBox`](/cells/python-net/it/aspose.cells.drawing/checkbox)

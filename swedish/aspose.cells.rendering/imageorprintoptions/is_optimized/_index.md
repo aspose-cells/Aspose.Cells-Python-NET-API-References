@@ -3,7 +3,7 @@ title: is_optimized fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 180
 url: /sv/aspose.cells.rendering/imageorprintoptions/is_optimized/
 is_root: false
 ---
@@ -13,7 +13,10 @@ Indikerar om utgångselementen ska optimeras.
 
 ###  Anmärkningar
 
-Standardvärdet är falskt. För närvarande är endast kantlinjerna optimerade när den här egenskapen är inställd på sann.
+ Standardvärdet är falskt.
+För närvarande när den här egenskapen är inställd på sant kommer följande optimeringar att göras:
+1. optimera gränslinjerna.
+2. optimera filstorleken medan du renderar till Svg-bild.
 ###  Definition:
 ```python
 @property
@@ -25,5 +28,5 @@ def is_optimized(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)

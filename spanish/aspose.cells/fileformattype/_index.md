@@ -3,7 +3,7 @@ title: FileFormatType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2040
+weight: 2110
 url: /es/aspose.cells/fileformattype/
 is_root: false
 ---
@@ -17,40 +17,39 @@ El tipo FileFormatType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| CSV |Archivo de texto de valores separados por comas (CSV).<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.CSV](/cells/python-net/es/aspose.cells/fileformattype#CSV).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
+| CSV |Archivo de texto de valores separados por comas (CSV).|
 | XLSX | Archivo Office Open XML SpreadsheetML (sin macros).|
 | XLSM | Office Open XML SpreadsheetML Archivo habilitado para macros.|
 | XLTX | Plantilla Office Open XML SpreadsheetML (sin macros).|
-| XLTM | Office Open XML SpreadsheetML Plantilla habilitada para macros.|
-| XLAM | Office Open XML SpreadsheetML addinMacro-Enabled file.|
-| TSV | Archivo de texto de valores separados por tabuladores (TSV).<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.TSV](/cells/python-net/es/aspose.cells/fileformattype#TSV).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| TAB_DELIMITED | Archivo de texto de valores separados por tabuladores (TSV), igual que [FileFormatType.TSV](/cells/python-net/es/aspose.cells/fileformattype#TSV).|
-| HTML | formato HTML.|
-| M_HTML | MHTML (archivo web) formato.|
-| ODS | Abra el archivo Hoja de documento (ODS).<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.ODS](/cells/python-net/es/aspose.cells/fileformattype#ODS).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
+| XLTM | Plantilla habilitada para macros de Office Open XML SpreadsheetML.|
+| XLAM | Complemento Office Open XML SpreadsheetML Archivo habilitado para macros.|
+| TSV | Archivo de texto de valores separados por tabulaciones (TSV).|
+| TAB_DELIMITED | Archivo de texto de valores separados por tabulaciones (TSV), lo mismo que [`FileFormatType.TSV`](/cells/python-net/es/aspose.cells/fileformattype#TSV).|
+| HTML | Formato HTML.|
+| M_HTML | Formato MHTML (archivo web).|
+| ODS | Abra el archivo Hoja de documento (ODS).|
 | EXCEL_97_TO_2003 | Archivo de hoja de cálculo Excel97-2003.|
 | SPREADSHEET_ML | Archivo de datos XML de Excel 2003.|
-| EXCEL_2003XML | Archivo de datos XML de Excel 2003.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.SPREADSHEET_ML](/cells/python-net/es/aspose.cells/fileformattype#SPREADSHEET_ML).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
 | XLSB | El formato de archivo binario de Excel (.xlsb)|
 | UNKNOWN | Representa un formato no reconocido, no se puede cargar.|
-| PDF | PDF (Documento portátil de Adobe) formato.|
-| XPS |XPS (Especificación de papel XML).<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.XPS](/cells/python-net/es/aspose.cells/fileformattype#XPS).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| TIFF | Representa un archivo TIFF.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.TIFF](/cells/python-net/es/aspose.cells/fileformattype#TIFF).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| SVG | SVG expediente.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.SVG](/cells/python-net/es/aspose.cells/fileformattype#SVG).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| EXCEL95 | Representa un archivo Excel95 xls.|
-| EXCEL4 | Representa un archivo Excel4.0 xls.|
-| EXCEL3 | Representa un archivo Excel3.0 xls.|
-| EXCEL2 | Representa un archivo Excel2.1 xls.|
+| PDF | Formato PDF (Documento portátil de Adobe).|
+| XPS | Formato XPS (especificación de papel XML).|
+| TIFF | Representa un archivo TIFF.|
+| SVG | Archivo SVG.|
+| EXCEL95 | Representa un archivo xls de Excel95.|
+| EXCEL4 | Representa un archivo xls de Excel4.0.|
+| EXCEL3 |Representa un archivo xls de Excel3.0.|
+| EXCEL2 | Representa un archivo xls de Excel2.1.|
 | PPTX | Representa un archivo pptx.|
 | DOCX | Representa un archivo docx.|
 | DIF | Formato de intercambio de datos.|
 | DOC | Representa un archivo doc.|
 | PPT | Representa un archivo ppt.|
 | MAPI_MESSAGE | Representa un archivo de correo electrónico.|
-| MS_EQUATION | Representa el objeto MS Equation 3.0.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.MS_EQUATION](/cells/python-net/es/aspose.cells/fileformattype#MS_EQUATION).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
+| MS_EQUATION | Representa el objeto MS Equation 3.0.|
 | OLE_10_NATIVE | Representa el objeto nativo incrustado.|
-| VSD | Representa el formato binario MS Visio VSD.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.VSD](/cells/python-net/es/aspose.cells/fileformattype#VSD).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| VSDX | Representa el formato de archivo MS Visio 2013 VSDX.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.VSDX](/cells/python-net/es/aspose.cells/fileformattype#VSDX).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
+| VSD | Representa el formato binario MS Visio VSD.|
+| VSDX | Representa el formato de archivo MS Visio 2013 VSDX.|
 | DOCM | Representa un archivo docm.|
 | DOTX | Representa un archivo dotx.|
 | DOTM | Representa un archivo dotm.|
@@ -59,33 +58,41 @@ El tipo FileFormatType expone los siguientes miembros:
 | POTM | Representa un archivo Potm.|
 | PPSX | Representa un archivo ppsx.|
 | PPSM | Representa un archivo ppsm.|
-| OOXML | Representa el archivo xml abierto de Office (como xlsx, docx, pptx, etc.).|
-| ODT |Representa un archivo ODT.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.ODT](/cells/python-net/es/aspose.cells/fileformattype#ODT).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| ODP | Representa un archivo ODP.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.ODP](/cells/python-net/es/aspose.cells/fileformattype#ODP).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| ODF | Representa un archivo ODF.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.ODF](/cells/python-net/es/aspose.cells/fileformattype#ODF).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| ODG | Representa un archivo ODG.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.ODG](/cells/python-net/es/aspose.cells/fileformattype#ODG).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| XML | Representa un archivo xml simple.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.XML](/cells/python-net/es/aspose.cells/fileformattype#XML).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
+| OOXML | Representa un archivo xml abierto de Office (como xlsx, docx, pptx, etc.).|
+| ODT | Representa un archivo ODT.|
+| ODP | Representa un archivo ODP.|
+| ODF | Representa un archivo ODF.|
+| ODG | Representa un archivo ODG.|
+| XML | Representa un archivo xml simple.|
 | XLT | Plantilla de hoja de cálculo Excel97-2003.|
-| OTT | Representa un archivo OTT.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.OTT](/cells/python-net/es/aspose.cells/fileformattype#OTT).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| BMP | Representa un archivo BMP.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.BMP](/cells/python-net/es/aspose.cells/fileformattype#BMP).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| OTS | Representa un archivo OTS.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.OTS](/cells/python-net/es/aspose.cells/fileformattype#OTS).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
+| OTT |Representa un archivo OTT.|
+| BMP | Representa un archivo BMP.|
+| OTS | Representa un archivo ots.|
 | NUMBERS | Representa el formato de archivo Numbers 9.0 de Apple Inc.|
 | NUMBERS09 | Representa el formato de archivo Numbers 9.0 de Apple Inc.|
-| MARKDOWN | Representa el documento de descuento.|
+| MARKDOWN | Representa un documento de rebajas.|
 | GRAPH_CHART | Representa un gráfico incrustado.|
-| FODS | Representa el formato de archivo de hoja de cálculo XML plano de OpenDocument (.fods).<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.FODS](/cells/python-net/es/aspose.cells/fileformattype#FODS).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| SXC | Representa el formato de archivo de hoja de cálculo de StarOffice Calc (.sxc).<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.SXC](/cells/python-net/es/aspose.cells/fileformattype#SXC).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| OTP | Representa un archivo OTP.<br/> NOTA: Este miembro ahora está obsoleto. En cambio,<br/>utilice la propiedad [FileFormatType.OTP](/cells/python-net/es/aspose.cells/fileformattype#OTP).<br/> Esta propiedad se eliminará 6 meses después desde abril de 2021.<br/> Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.|
-| NUMBERS35 | Representa el formato de archivo Numbers 3.5 desde 2014 por Apple Inc.|
+| FODS | Representa el formato de archivo OpenDocument Flat XML Spreadsheet (.fods).|
+| SXC | Representa el formato de archivo de hoja de cálculo de StarOffice Calc (.sxc).|
+| OTP | Representa un archivo OTP.|
+| NUMBERS35 | Representa el formato de archivo Numbers 3.5 desde 2014 de Apple Inc.|
 | EMF | Windows Metarchivo mejorado.|
 | WMF | Windows Metarchivo.|
-| JPG | JPEG JFIF.|
+| JPG | JPEGJFIF.|
 | PNG | Gráficos de red portátiles.|
-| GIF | Gif|
+| GIF | GIF|
 | JSON | json|
-| SQL_SCRIPT | sql|
+| SQL_SCRIPT | SQL|
+| X_HTML | Representa el archivo XHtml.|
+| ONE_NOTE | Representa un archivo de notas.|
+| MICROSOFT_CABINET | /// <br/>Rrepesents Microsoft Archivador.<br/><br/>El formato de archivo no es compatible<br/> Sólo para detectar el tipo de archivo.|
+| RTF |  |
+| EPUB | EPUB |
+| AZW3 | AZW3 |
+| OXPS | Formato OXPS (Especificación de papel XML abierto).|
+| G_ZIP | Representa un archivo GZip.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

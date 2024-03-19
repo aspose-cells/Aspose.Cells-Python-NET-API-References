@@ -3,13 +3,13 @@ title: left Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 690
+weight: 700
 url: /de/aspose.cells.drawing/scrollbar/left/
 is_root: false
 ---
 ##  left Eigentum
 
-Stellt den horizontalen Versatz der Form von ihrer Spalte left in Pixeleinheiten dar.
+Stellt den horizontalen Versatz der Form von ihrer Spalte left in der Einheit Pixel dar.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def left(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ScrollBar](/cells/python-net/de/aspose.cells.drawing/scrollbar)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ScrollBar`](/cells/python-net/de/aspose.cells.drawing/scrollbar)

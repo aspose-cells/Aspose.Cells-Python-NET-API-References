@@ -1,19 +1,19 @@
 ---
-title: upper_delta_y الملكية
+title: upper_delta_y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /ar/aspose.cells.drawing/groupshape/upper_delta_y/
 is_root: false
 ---
-##  upper_delta_y الملكية
+##  upper_delta_y عقار
 
-الحصول على أو تعيين الإزاحة الرأسية للشكل من صف الزاوية اليسرى العليا.
+الحصول على الإزاحة الرأسية للشكل أو تعيينها من الصف العلوي الأيسر الخاص به.
 
 ###  ملاحظات
 
-نطاق القيمة من 0 إلى 256.
+نطاق القيمة هو 0 إلى 256.
 
 ###  مثال
 
@@ -34,5 +34,5 @@ def upper_delta_y(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupShape](/cells/python-net/ar/aspose.cells.drawing/groupshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupShape`](/cells/python-net/ar/aspose.cells.drawing/groupshape)

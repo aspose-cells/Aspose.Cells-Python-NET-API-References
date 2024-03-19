@@ -3,13 +3,13 @@ title: is_word_art propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 780
+weight: 790
 url: /fr/aspose.cells.drawing/oleobject/is_word_art/
 is_root: false
 ---
 ##  is_word_art propriété
 
-Indique si cette forme est un mot art.
+Indique si cette forme est un word art.
 
 ###  Remarques
 
@@ -31,5 +31,5 @@ def is_word_art(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/fr/aspose.cells.drawing/oleobject)
+* module [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/fr/aspose.cells.drawing/oleobject)

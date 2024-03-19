@@ -1,39 +1,39 @@
 ---
-title: MemoryFontSource الدرجة
+title: MemoryFontSource صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1040
+weight: 1080
 url: /ar/aspose.cells/memoryfontsource/
 is_root: false
 ---
-##  MemoryFontSource الدرجة
-يمثل ملف خط تروتايب الفردي المخزن في الذاكرة.
+##  MemoryFontSource صف
+يمثل ملف خط TrueType الوحيد المخزن في الذاكرة.
 
 
 
-**ميراث:** [MemoryFontSource](/cells/python-net/aspose.cells/memoryfontsource) → 
-[FontSourceBase](/cells/python-net/ar/aspose.cells/fontsourcebase)
+**ميراث:** [`MemoryFontSource`](/cells/python-net/aspose.cells/memoryfontsource) → 
+[`FontSourceBase`](/cells/python-net/ar/aspose.cells/fontsourcebase)
 
 
 
-يكشف نوع MemoryFontSource الأعضاء التالية:
+يكشف النوع MemoryFontSource عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [MemoryFontSource(font_data)](/cells/python-net/ar/aspose.cells/memoryfontsource/__init__/#bytes) | Ctor.|
+| [__init__](/cells/python-net/ar/aspose.cells/memoryfontsource/__init__/#bytes) | دكتور.|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells/memoryfontsource/type) | ترجع نوع مصدر الخط.|
+| [type](/cells/python-net/ar/aspose.cells/memoryfontsource/type) | إرجاع نوع مصدر الخط.|
 | [font_data](/cells/python-net/ar/aspose.cells/memoryfontsource/font_data) | بيانات الخط الثنائي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
-* فئة [FontSourceBase](/cells/python-net/ar/aspose.cells/fontsourcebase)
-* فئة [MemoryFontSource](/cells/python-net/ar/aspose.cells/memoryfontsource)
+* الوحدة [`aspose.cells`](..)
+* فئة [`FontSourceBase`](/cells/python-net/ar/aspose.cells/fontsourcebase)
+* فئة [`MemoryFontSource`](/cells/python-net/ar/aspose.cells/memoryfontsource)

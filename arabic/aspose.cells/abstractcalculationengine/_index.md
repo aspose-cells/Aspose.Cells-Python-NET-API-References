@@ -1,5 +1,5 @@
 ---
-title: AbstractCalculationEngine الدرجة
+title: AbstractCalculationEngine صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,33 +7,36 @@ weight: 20
 url: /ar/aspose.cells/abstractcalculationengine/
 is_root: false
 ---
-##  AbstractCalculationEngine الدرجة
-يمثل محرك الحساب المخصص للمستخدم لتوسيع محرك الحساب الافتراضي لـ Aspose.Cells.
+##  AbstractCalculationEngine صف
+يمثل محرك الحساب المخصص للمستخدم لتوسيع محرك الحساب الافتراضي Aspose.Cells.
 
 
 
-يكشف نوع AbstractCalculationEngine الأعضاء التالية:
+يكشف النوع AbstractCalculationEngine عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [is_param_literal_required](/cells/python-net/ar/aspose.cells/abstractcalculationengine/is_param_literal_required) | يشير إلى ما إذا كان هذا المحرك يحتاج إلى النص الحرفي للمعلمة أثناء إجراء الحساب. القيمة الافتراضية هي كاذبة.|
-| [process_built_in_functions](/cells/python-net/ar/aspose.cells/abstractcalculationengine/process_built_in_functions) | ما إذا كان يجب فحص ومعالجة الوظائف المضمنة التي تم دعمها بواسطة المحرك المدمج من خلال هذا التنفيذ.<br/>الافتراضي هو خطأ.<br/> إذا احتاج المستخدم إلى تغيير منطق الحساب لبعض الوظائف المضمنة ، فيجب تعيين هذه الخاصية على أنها صحيحة.|
+| [is_param_literal_required](/cells/python-net/ar/aspose.cells/abstractcalculationengine/is_param_literal_required) |يشير إلى ما إذا كان هذا المحرك يحتاج إلى النص الحرفي للمعلمة أثناء إجراء الحساب. القيمة الافتراضية خاطئة.|
+| [is_param_array_mode_required](/cells/python-net/ar/aspose.cells/abstractcalculationengine/is_param_array_mode_required) | يشير إلى ما إذا كان هذا المحرك يحتاج إلى المعلمة التي سيتم حسابها في وضع الصفيف. القيمة الافتراضية خاطئة.<br/>إذا كان [`CalculationData.get_param_value_in_array_mode`](/cells/python-net/ar/aspose.cells/calculationdata/get_param_value_in_array_mode) مطلوبًا عند حساب العرف<br/>الوظائف ولم يقم المستخدم بتحديث التعريف الخاص بها<br/>(بواسطة [`Workbook.update_custom_function_definition`](/cells/python-net/ar/aspose.cells/workbook/update_custom_function_definition))،<br/> يجب تعيين هذه الخاصية على أنها صحيحة.|
+| [process_built_in_functions](/cells/python-net/ar/aspose.cells/abstractcalculationengine/process_built_in_functions) | ما إذا كانت الوظائف المضمنة التي تم دعمها بواسطة المحرك المدمج<br/>يجب فحصها ومعالجتها بواسطة هذا التنفيذ.<br/> الافتراضي خطأ.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [calculate(data)](/cells/python-net/ar/aspose.cells/abstractcalculationengine/calculate/#CalculationData) | تحسب دالة واحدة ببيانات معينة.|
+| [calculate](/cells/python-net/ar/aspose.cells/abstractcalculationengine/calculate/#aspose.cells.CalculationData) | يحسب دالة واحدة مع البيانات المعطاة.|
 
 
 
 ###  ملاحظات
 
-يجب ألا يقوم المستخدم بتعديل أي جزء من المصنف مباشرةً في هذا التنفيذ (باستثناء النتيجة المحسوبة للدالة المخصصة ، والتي يمكن تعيينها بواسطة الخاصية CalculationData.CalculatedValue).
-خلاف ذلك قد يكون سبب نتيجة غير متوقعة أو استثناء.
-إذا احتاج المستخدم إلى تغيير بيانات أخرى غير النتيجة المحسوبة في تنفيذ بعض الوظائف المخصصة ،
-على سبيل المثال ، تغيير صيغة الخلية ونمطها ... إلخ ، يجب على المستخدم جمع هذه البيانات في هذا التطبيق وتغييرها خارج نطاق حساب الصيغة.
+يجب ألا يقوم المستخدم بتعديل أي جزء من المصنف مباشرة في هذا التنفيذ (باستثناء
+النتيجة المحسوبة للدالة المخصصة، والتي يمكن تعيينها بواسطة خاصية CalculationData.CalculatedValue).
+وإلا قد يحدث نتيجة غير متوقعة أو استثناء.
+إذا كان المستخدم يحتاج إلى تغيير بيانات أخرى غير النتيجة المحسوبة في تنفيذ بعض الوظائف المخصصة،
+على سبيل المثال، تغيير صيغة الخلية ونمطها ... وما إلى ذلك، يجب على المستخدم جمع تلك البيانات في هذا التنفيذ
+وتغييرها خارج نطاق حساب الصيغة.
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

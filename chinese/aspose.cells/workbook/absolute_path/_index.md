@@ -1,13 +1,13 @@
 ---
-title: absolute_path 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: absolute_path属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 430
+weight: 440
 url: /zh/aspose.cells/workbook/absolute_path/
 is_root: false
 ---
-## absolute_path 属性
+## absolute_path属性
 
 获取和设置文件的绝对路径。
 
@@ -25,5 +25,5 @@ def absolute_path(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
+* 模块[`aspose.cells`](../../)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)

@@ -3,7 +3,7 @@ title: FontSourceBase Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 680
+weight: 710
 url: /de/aspose.cells/fontsourcebase/
 is_root: false
 ---
@@ -22,4 +22,4 @@ Der Typ FontSourceBase macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

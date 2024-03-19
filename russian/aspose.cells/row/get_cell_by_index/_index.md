@@ -1,19 +1,19 @@
 ---
 title: get_cell_by_index метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 50
 url: /ru/aspose.cells/row/get_cell_by_index/
 is_root: false
 ---
-##  get_cell_by_index(index) {#int}
-Получить ячейку по определенному индексу в списке.
+##  get_cell_by_index {#int}
+Получите ячейку по определенному индексу в коллекции ячеек этой строки.
 
 
-###  Возвращает
+###  Возврат
 
-Объект Cell.
+Объект Cell в данной позиции.
 
 
 ```python
@@ -24,15 +24,13 @@ def get_cell_by_index(self, index):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| index | int | Позиция.|
+| index | int | Индекс (позиция) ячейки в коллекции ячеек этой строки.|
 ###  Примечания
 
-ПРИМЕЧАНИЕ. Этот элемент устарел.
-Вместо этого используйте метод Row.GetEnumerator() для перебора всех ячеек в этой строке.
- Это свойство будет удалено через 12 месяцев, начиная с февраля 2015 года.
-Aspose приносит извинения за возможные неудобства.
+Чтобы последовательно пройти все ячейки без изменений,
+использование [`Row.get_enumerator`](/cells/python-net/ru/aspose.cells/row/get_enumerator) даст лучшую производительность, чем использование этого метода для получения ячеек одну за другой.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Row](/cells/python-net/ru/aspose.cells/row)
+* модуль [`aspose.cells`](../../)
+* класс [`Row`](/cells/python-net/ru/aspose.cells/row)

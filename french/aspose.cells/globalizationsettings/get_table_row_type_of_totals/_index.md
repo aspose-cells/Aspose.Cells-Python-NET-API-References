@@ -1,15 +1,15 @@
 ---
-title: get_table_row_type_of_totals méthode
+title: méthode get_table_row_type_of_totals
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 260
+weight: 270
 url: /fr/aspose.cells/globalizationsettings/get_table_row_type_of_totals/
 is_root: false
 ---
-##  get_table_row_type_of_totals() {#}
-Obtient le nom de type des lignes de table qui se compose de la ligne totale de la table référencée.
-La valeur par défaut est "Totals", donc dans la formule "#Totals" représente la ligne totale de la table référencée.
+##  get_table_row_type_of_totals {#}
+Obtient le nom de type des lignes de table qui constituent la ligne totale de la table référencée.
+La valeur par défaut est "Totaux", donc dans la formule "#Totaux" représente la ligne totale du tableau référencé.
 
 
 ###  Retour
@@ -27,5 +27,5 @@ def get_table_row_type_of_totals(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [GlobalizationSettings](/cells/python-net/fr/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* classe [`GlobalizationSettings`](/cells/python-net/fr/aspose.cells/globalizationsettings)

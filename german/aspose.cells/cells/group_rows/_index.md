@@ -3,11 +3,11 @@ title: group_rows Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 550
+weight: 540
 url: /de/aspose.cells/cells/group_rows/
 is_root: false
 ---
-##  group_rows(first_index, last_index) {#int-int}
+##  group_rows {#int-int}
 Gruppiert Zeilen.
 
 
@@ -20,11 +20,11 @@ def group_rows(self, first_index, last_index):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| first_index | int | Der erste zu gruppierende Zeilenindex.|
-| last_index | int |Der letzte zu gruppierende Zeilenindex.|
+| first_index | int | Der erste Zeilenindex, der gruppiert werden soll.|
+| last_index | int | Der letzte zu gruppierende Zeilenindex.|
 
 
-##  group_rows(first_index, last_index, is_hidden) {#int-int-bool}
+##  group_rows {#int-int-bool}
 Gruppiert Zeilen.
 
 
@@ -37,12 +37,12 @@ def group_rows(self, first_index, last_index, is_hidden):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| first_index | int | Der erste zu gruppierende Zeilenindex.|
-| last_index | int |Der letzte zu gruppierende Zeilenindex.|
+| first_index | int | Der erste Zeilenindex, der gruppiert werden soll.|
+| last_index | int | Der letzte zu gruppierende Zeilenindex.|
 | is_hidden | bool | Gibt an, ob die gruppierten Zeilen ausgeblendet sind.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

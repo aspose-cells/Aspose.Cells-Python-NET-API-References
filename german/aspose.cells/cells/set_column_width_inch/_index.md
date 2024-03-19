@@ -3,11 +3,11 @@ title: set_column_width_inch Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 850
+weight: 840
 url: /de/aspose.cells/cells/set_column_width_inch/
 is_root: false
 ---
-##  set_column_width_inch(column, inches) {#int-float}
+##  set_column_width_inch {#int-float}
 Legt die Spaltenbreite in der Einheit Zoll in der Normalansicht fest.
 
 
@@ -21,10 +21,10 @@ def set_column_width_inch(self, column, inches):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | column | int | Spaltenindex.|
-| inches | float | Anzahl Zoll.|
+| inches | float |Anzahl Zoll.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

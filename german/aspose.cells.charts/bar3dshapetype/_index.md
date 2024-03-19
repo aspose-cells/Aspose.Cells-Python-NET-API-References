@@ -3,7 +3,7 @@ title: Bar3DShapeType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 380
+weight: 390
 url: /de/aspose.cells.charts/bar3dshapetype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ Der Typ Bar3DShapeType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

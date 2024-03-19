@@ -3,7 +3,7 @@ title: HtmlHiddenRowDisplayType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2170
+weight: 2240
 url: /es/aspose.cells/htmlhiddenrowdisplaytype/
 is_root: false
 ---
@@ -17,10 +17,10 @@ El tipo HtmlHiddenRowDisplayType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| HIDDEN | Ocultó las filas ocultas en la página html.|
-| REMOVE | Elimina las filas ocultas en la página html.|
+| HIDDEN |Ocultar las filas ocultas en la página html.|
+| REMOVE | Elimine las filas ocultas en la página html.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

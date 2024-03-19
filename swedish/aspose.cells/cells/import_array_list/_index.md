@@ -3,11 +3,11 @@ title: import_array_list metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 620
+weight: 610
 url: /sv/aspose.cells/cells/import_array_list/
 is_root: false
 ---
-##  import_array_list(array_list, first_row, first_column, is_vertical) {#list-int-int-bool}
+##  import_array_list {#list-int-int-bool}
 Importerar en arraylista med data till ett kalkylblad.
 
 
@@ -28,5 +28,5 @@ def import_array_list(self, array_list, first_row, first_column, is_vertical):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

@@ -3,12 +3,12 @@ title: طريقة get_enumerator
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells/range/get_enumerator/
 is_root: false
 ---
-##  get_enumerator() {#}
-الحصول على عداد الخلايا في هذا النطاق.
+##  get_enumerator {#}
+الحصول على العداد للخلايا الموجودة في هذا النطاق.
 
 
 ###  عائدات
@@ -24,8 +24,8 @@ def get_enumerator(self):
 
 ###  ملاحظات
 
-عند اجتياز العناصر بواسطة Enumerator المرتجع ، فإن مجموعة الخلايا
-لا ينبغي تعديله (مثل العمليات التي ستؤدي إلى إنشاء نسخة جديدة من Cell / صف أو حذف Cell الموجود / الصف).
+عند اجتياز العناصر بواسطة العداد الذي تم إرجاعه، فإن مجموعة الخلايا
+لا ينبغي تعديلها (مثل العمليات التي ستتسبب في إنشاء مثيل Cell/صف جديد أو حذف Cell/صف موجود).
 وإلا فقد لا يتمكن العداد من اجتياز جميع الخلايا بشكل صحيح (قد يتم اجتياز بعض العناصر بشكل متكرر أو تخطيها).
 ###  مثال
 
@@ -43,5 +43,5 @@ for cell in en:
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

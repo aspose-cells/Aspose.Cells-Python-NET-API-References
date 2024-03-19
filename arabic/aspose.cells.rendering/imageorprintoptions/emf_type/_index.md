@@ -1,15 +1,15 @@
 ---
-title: emf_type الملكية
+title: emf_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells.rendering/imageorprintoptions/emf_type/
 is_root: false
 ---
-##  emf_type الملكية
+##  emf_type عقار
 
-الحصول على أو تعيين EmfType الذي يحدد تنسيق ملف التعريف ..
+الحصول على EmfType أو تعيينه الذي يحدد تنسيق ملف التعريف.
 القيمة الافتراضية هي EmfPlusDual.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def emf_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

@@ -1,9 +1,9 @@
 ---
 title: colors недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 460
+weight: 470
 url: /ru/aspose.cells/workbook/colors/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Палитра имеет 56 элементов, каждый из которых представлен значением RGB.
+Палитра имеет 56 записей, каждая из которых представлена значением RGB.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def colors(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

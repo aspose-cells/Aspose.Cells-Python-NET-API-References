@@ -3,11 +3,11 @@ title: set_formula1 metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 120
 url: /sv/aspose.cells/validation/set_formula1/
 is_root: false
 ---
-##  set_formula1(formula, is_r1c1, is_local) {#str-bool-bool}
+##  set_formula1 {#str-bool-bool}
 Ställer in värdet eller uttrycket som är associerat med denna validering.
 
 
@@ -20,12 +20,12 @@ def set_formula1(self, formula, is_r1c1, is_local):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| formula | str |Värdet eller uttrycket som är associerat med detta formatvillkor.|
+| formula | str | Värdet eller uttrycket som är associerat med detta formatvillkor.|
 | is_r1c1 | bool | Om formeln är R1C1-formel.|
 | is_local | bool | Om formeln är språkformaterad.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Validation](/cells/python-net/sv/aspose.cells/validation)
+* modul [`aspose.cells`](../../)
+* klass [`Validation`](/cells/python-net/sv/aspose.cells/validation)

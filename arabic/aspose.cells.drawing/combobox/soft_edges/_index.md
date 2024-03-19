@@ -1,15 +1,15 @@
 ---
-title: soft_edges الملكية
+title: soft_edges عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 930
+weight: 940
 url: /ar/aspose.cells.drawing/combobox/soft_edges/
 is_root: false
 ---
-##  soft_edges الملكية
+##  soft_edges عقار
 
-الحصول على نصف قطر التمويه وتعيينه لتطبيقه على الحواف ، في وحدة من النقاط.
+الحصول على نصف قطر التمويه وتعيينه ليتم تطبيقه على الحواف، بوحدة النقاط.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def soft_edges(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ComboBox](/cells/python-net/ar/aspose.cells.drawing/combobox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ComboBox`](/cells/python-net/ar/aspose.cells.drawing/combobox)

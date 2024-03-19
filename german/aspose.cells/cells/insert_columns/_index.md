@@ -3,11 +3,11 @@ title: insert_columns Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 690
+weight: 680
 url: /de/aspose.cells/cells/insert_columns/
 is_root: false
 ---
-##  insert_columns(column_index, total_columns) {#int-int}
+##  insert_columns {#int-int}
 Fügt einige Spalten in das Arbeitsblatt ein.
 
 
@@ -24,7 +24,7 @@ def insert_columns(self, column_index, total_columns):
 | total_columns | int | Die Anzahl der Spalten.|
 
 
-##  insert_columns(column_index, total_columns, update_reference) {#int-int-bool}
+##  insert_columns {#int-int-bool}
 Fügt einige Spalten in das Arbeitsblatt ein.
 
 
@@ -39,10 +39,10 @@ def insert_columns(self, column_index, total_columns, update_reference):
 | :- | :- | :- |
 | column_index | int | Spaltenindex.|
 | total_columns | int | Die Anzahl der Spalten.|
-| update_reference | bool |Gibt an, ob Verweise in anderen Arbeitsblättern aktualisiert werden.|
+| update_reference | bool | Gibt an, ob Verweise in anderen Arbeitsblättern aktualisiert werden.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

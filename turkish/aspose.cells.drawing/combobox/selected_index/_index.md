@@ -3,13 +3,13 @@ title: selected_index mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 890
+weight: 900
 url: /tr/aspose.cells.drawing/combobox/selected_index/
 is_root: false
 ---
 ##  selected_index mülk
 
-Bir liste kutusunda veya açılan kutuda seçili olan öğenin dizin numarasını alır veya ayarlar.
+Bir liste kutusunda veya birleşik giriş kutusunda o anda seçili olan öğenin dizin numarasını alır veya ayarlar.
 Sıfır tabanlı.
 
 ###  Notlar
@@ -26,5 +26,5 @@ def selected_index(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ComboBox](/cells/python-net/tr/aspose.cells.drawing/combobox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ComboBox`](/cells/python-net/tr/aspose.cells.drawing/combobox)

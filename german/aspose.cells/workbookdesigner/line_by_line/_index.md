@@ -3,13 +3,13 @@ title: line_by_line Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 100
 url: /de/aspose.cells/workbookdesigner/line_by_line/
 is_root: false
 ---
 ##  line_by_line Eigentum
 
-Gibt an, ob die intelligente Markierung Zeile für Zeile verarbeitet wird.
+Gibt an, ob der Smart Marker zeilenweise verarbeitet wird.
 
 ###  Bemerkungen
 
@@ -26,5 +26,5 @@ def line_by_line(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorkbookDesigner](/cells/python-net/de/aspose.cells/workbookdesigner)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookDesigner`](/cells/python-net/de/aspose.cells/workbookdesigner)

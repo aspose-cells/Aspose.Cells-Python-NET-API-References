@@ -3,7 +3,7 @@ title: TextDirectionType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2550
+weight: 2640
 url: /es/aspose.cells/textdirectiontype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ El tipo TextDirectionType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

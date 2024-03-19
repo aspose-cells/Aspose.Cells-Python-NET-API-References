@@ -1,15 +1,15 @@
 ---
-title: export_data_options 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: export_data_options属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 190
+weight: 210
 url: /zh/aspose.cells/htmlsaveoptions/export_data_options/
 is_root: false
 ---
-## export_data_options 属性
+## export_data_options属性
 
-表示导出html文件数据的规则，默认为全部。
+导出html文件数据的规则，默认为全部。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def export_data_options(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlExportDataOptions](/cells/python-net/zh/aspose.cells/htmlexportdataoptions)
-* 类 [HtmlSaveOptions](/cells/python-net/zh/aspose.cells/htmlsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlExportDataOptions`](/cells/python-net/zh/aspose.cells/htmlexportdataoptions)
+* 类 [`HtmlSaveOptions`](/cells/python-net/zh/aspose.cells/htmlsaveoptions)

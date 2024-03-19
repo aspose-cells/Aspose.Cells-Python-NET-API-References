@@ -1,15 +1,15 @@
 ---
-title: show_value الملكية
+title: show_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 440
 url: /ar/aspose.cells.charts/datalabels/show_value/
 is_root: false
 ---
-##  show_value الملكية
+##  show_value عقار
 
-يمثل سلوك عرض قيم تسمية بيانات المخطط المحدد. يعرض صحيح القيم. خطأ للاختباء.
+يمثل سلوك عرض قيم تسمية بيانات المخطط المحدد. صحيح يعرض القيم. كذبة للاختباء.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

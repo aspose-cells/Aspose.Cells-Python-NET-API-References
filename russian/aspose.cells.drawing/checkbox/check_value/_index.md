@@ -1,9 +1,9 @@
 ---
 title: check_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ru/aspose.cells.drawing/checkbox/check_value/
 is_root: false
 ---
@@ -15,7 +15,7 @@ is_root: false
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
  используйте свойство CheckBox.CheckValueType.
- Это свойство будет удалено через 12 месяцев, начиная с июня 2010 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с июня 2010 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -28,6 +28,6 @@ def check_value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CheckBox](/cells/python-net/ru/aspose.cells.drawing/checkbox)
-* класс [CheckValueType](/cells/python-net/ru/aspose.cells.drawing/checkvaluetype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CheckBox`](/cells/python-net/ru/aspose.cells.drawing/checkbox)
+* класс [`CheckValueType`](/cells/python-net/ru/aspose.cells.drawing/checkvaluetype)

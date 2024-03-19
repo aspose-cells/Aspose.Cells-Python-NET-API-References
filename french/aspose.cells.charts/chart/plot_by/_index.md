@@ -3,7 +3,7 @@ title: plot_by propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 430
+weight: 460
 url: /fr/aspose.cells.charts/chart/plot_by/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def plot_by(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
-* classe [PlotDataByType](/cells/python-net/fr/aspose.cells.charts/plotdatabytype)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)
+* classe [`PlotDataByType`](/cells/python-net/fr/aspose.cells.charts/plotdatabytype)

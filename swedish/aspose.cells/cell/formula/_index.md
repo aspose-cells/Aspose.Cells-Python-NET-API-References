@@ -3,13 +3,13 @@ title: formula fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 490
 url: /sv/aspose.cells/cell/formula/
 is_root: false
 ---
 ##  formula fastighet
 
-Hämtar eller ställer in ett formula av [Cell](/cells/python-net/sv/aspose.cells/cell).
+Hämtar eller ställer in ett formula av [`Cell`](/cells/python-net/sv/aspose.cells/cell).
 
 ###  Anmärkningar
 
@@ -37,5 +37,5 @@ def formula(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

@@ -3,17 +3,17 @@ title: built_in_document_properties propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 440
+weight: 450
 url: /es/aspose.cells/workbook/built_in_document_properties/
 is_root: false
 ---
 ##  built_in_document_properties propiedad
 
-Devuelve una colección [DocumentProperty](/cells/python-net/es/aspose.cells.properties/documentproperty) que representa todas las propiedades de documento integradas de la hoja de cálculo.
+Devuelve una colección [`DocumentProperty`](/cells/python-net/es/aspose.cells.properties/documentproperty) que representa todas las propiedades del documento integrado de la hoja de cálculo.
 
 ###  Observaciones
 
-No se puede agregar una nueva propiedad a la lista de propiedades del documento integrado. Solo puede obtener una propiedad incorporada y cambiar su valor.
+No se puede agregar una nueva propiedad a la lista de propiedades del documento integrado. Sólo puede obtener una propiedad incorporada y cambiar su valor.
 La siguiente es la lista de nombres de propiedades integradas:
 
 Título
@@ -49,7 +49,7 @@ Nombre de la aplicación
 Fecha de creación
 
 
-Hora de guardar por última vez
+Hora del último guardado
 
 
 Tiempo total de edición
@@ -106,7 +106,7 @@ def built_in_document_properties(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [BuiltInDocumentPropertyCollection](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)
-* clase [DocumentProperty](/cells/python-net/es/aspose.cells.properties/documentproperty)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
+* módulo [`aspose.cells`](../../)
+* clase [`BuiltInDocumentPropertyCollection`](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)
+* clase [`DocumentProperty`](/cells/python-net/es/aspose.cells.properties/documentproperty)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)

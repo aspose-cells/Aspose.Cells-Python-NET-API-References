@@ -7,8 +7,8 @@ weight: 140
 url: /ar/aspose.cells/cells/convert_string_to_numeric_value/
 is_root: false
 ---
-##  convert_string_to_numeric_value() {#}
-يحول بيانات السلسلة في الخلايا إلى قيمة رقمية إن أمكن.
+##  convert_string_to_numeric_value {#}
+تحويل كافة بيانات السلسلة في ورقة العمل إلى قيمة رقمية إن أمكن.
 
 
 
@@ -22,5 +22,5 @@ def convert_string_to_numeric_value(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

@@ -1,15 +1,15 @@
 ---
-title: minor_unit_scale 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: minor_unit_scale属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 360
+weight: 370
 url: /zh/aspose.cells.charts/axis/minor_unit_scale/
 is_root: false
 ---
-## minor_unit_scale 属性
+## minor_unit_scale属性
 
-表示类别轴的主要单位刻度。
+表示类别轴的主要单位比例。
 
 ### 例子
 
@@ -18,7 +18,7 @@ from aspose.cells.charts import CategoryType, TimeUnit
 
 chart.category_axis.category_type = CategoryType.TIME_SCALE
 chart.category_axis.minor_unit_scale = TimeUnit.MONTHS
-chart.category_axis.minor_unit = 2
+chart.category_axis.minor_unit = 2.0
 
 ```
 ### 定义：
@@ -32,6 +32,6 @@ def minor_unit_scale(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
-* 类 [TimeUnit](/cells/python-net/zh/aspose.cells.charts/timeunit)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)
+* 类 [`TimeUnit`](/cells/python-net/zh/aspose.cells.charts/timeunit)

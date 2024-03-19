@@ -1,40 +1,40 @@
 ---
-title: FolderFontSource الدرجة
+title: FolderFontSource صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 670
 url: /ar/aspose.cells/folderfontsource/
 is_root: false
 ---
-##  FolderFontSource الدرجة
-يمثل المجلد الذي يحتوي على ملفات خطوط تروتايب.
+##  FolderFontSource صف
+يمثل المجلد الذي يحتوي على ملفات خطوط TrueType.
 
 
 
-**ميراث:** [FolderFontSource](/cells/python-net/aspose.cells/folderfontsource) → 
-[FontSourceBase](/cells/python-net/ar/aspose.cells/fontsourcebase)
+**ميراث:** [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource) → 
+[`FontSourceBase`](/cells/python-net/ar/aspose.cells/fontsourcebase)
 
 
 
-يكشف نوع FolderFontSource الأعضاء التالية:
+يكشف النوع FolderFontSource عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [FolderFontSource(folder_path, scan_subfolders)](/cells/python-net/ar/aspose.cells/folderfontsource/__init__/#str-bool) | Ctor.|
+| [__init__](/cells/python-net/ar/aspose.cells/folderfontsource/__init__/#str-bool) | دكتور.|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells/folderfontsource/type) | ترجع نوع مصدر الخط.|
-| [folder_path](/cells/python-net/ar/aspose.cells/folderfontsource/folder_path) | مسار مجلد الخطوط.|
-| [scan_sub_folders](/cells/python-net/ar/aspose.cells/folderfontsource/scan_sub_folders) | يحدد ما إذا كان سيتم فحص المجلدات الفرعية أم لا.|
+| [type](/cells/python-net/ar/aspose.cells/folderfontsource/type) | إرجاع نوع مصدر الخط.|
+| [folder_path](/cells/python-net/ar/aspose.cells/folderfontsource/folder_path) | المسار إلى مجلد الخطوط.|
+| [scan_sub_folders](/cells/python-net/ar/aspose.cells/folderfontsource/scan_sub_folders) | تحديد ما إذا كان سيتم فحص المجلدات الفرعية أم لا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
-* فئة [FolderFontSource](/cells/python-net/ar/aspose.cells/folderfontsource)
-* فئة [FontSourceBase](/cells/python-net/ar/aspose.cells/fontsourcebase)
+* الوحدة [`aspose.cells`](..)
+* فئة [`FolderFontSource`](/cells/python-net/ar/aspose.cells/folderfontsource)
+* فئة [`FontSourceBase`](/cells/python-net/ar/aspose.cells/fontsourcebase)

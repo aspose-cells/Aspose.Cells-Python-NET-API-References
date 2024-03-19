@@ -1,9 +1,9 @@
 ---
 title: shape_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 380
+weight: 370
 url: /ru/aspose.cells.charts/datalabels/shape_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def shape_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [DataLabelShapeType](/cells/python-net/ru/aspose.cells.drawing/datalabelshapetype)
-* класс [DataLabels](/cells/python-net/ru/aspose.cells.charts/datalabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`DataLabelShapeType`](/cells/python-net/ru/aspose.cells.drawing/datalabelshapetype)
+* класс [`DataLabels`](/cells/python-net/ru/aspose.cells.charts/datalabels)

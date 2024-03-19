@@ -1,13 +1,13 @@
 ---
-title: rotation_angle 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: rotation_angle属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 860
+weight: 870
 url: /zh/aspose.cells.drawing/oval/rotation_angle/
 is_root: false
 ---
-## rotation_angle 属性
+## rotation_angle属性
 
 获取和设置形状的旋转。
 
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.rotation_angle == 45:
-    shape.rotation_angle = 60
+    shape.rotation_angle = 60.0
 
 ```
 ### 定义：
@@ -30,5 +30,5 @@ def rotation_angle(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Oval](/cells/python-net/zh/aspose.cells.drawing/oval)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Oval`](/cells/python-net/zh/aspose.cells.drawing/oval)

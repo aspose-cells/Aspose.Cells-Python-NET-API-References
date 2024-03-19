@@ -1,14 +1,14 @@
 ---
 title: import_array_list方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 620
+weight: 610
 url: /zh/aspose.cells/cells/import_array_list/
 is_root: false
 ---
-##  import_array_list(array_list, first_row, first_column, is_vertical) {#list-int-int-bool}
-将数据数组列表导入工作表。
+##  import_array_list {#list-int-int-bool}
+将数据数组列表导入到工作表中。
 
 
 
@@ -28,5 +28,5 @@ def import_array_list(self, array_list, first_row, first_column, is_vertical):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

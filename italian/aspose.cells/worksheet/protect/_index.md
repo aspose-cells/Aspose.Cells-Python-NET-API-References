@@ -1,13 +1,13 @@
 ---
-title: metodo protect
+title: Metodo protect
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 180
+weight: 200
 url: /it/aspose.cells/worksheet/protect/
 is_root: false
 ---
-##  protect(type) {#ProtectionType}
+##  protect {#aspose.cells.ProtectionType}
 Protegge il foglio di lavoro.
 
 
@@ -20,12 +20,12 @@ def protect(self, type):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| type | [ProtectionType](/cells/python-net/it/aspose.cells/protectiontype) | Tipo di protezione.|
+| type | [`ProtectionType`](/cells/python-net/it/aspose.cells/protectiontype) | Tipo di protezione.|
 ###  Osservazioni
 
-Questo metodo protegge il foglio di lavoro senza password. Può protect foglio di lavoro in tutte le versioni del file Excel.
+Questo metodo protegge il foglio di lavoro senza password. Può contenere il foglio di lavoro protect in tutte le versioni del file Excel.
 
-##  protect(type, password, old_password) {#ProtectionType-str-str}
+##  protect {#aspose.cells.ProtectionType-str-str}
 
 Protegge il foglio di lavoro.
 
@@ -39,12 +39,12 @@ def protect(self, type, password, old_password):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| type | [ProtectionType](/cells/python-net/it/aspose.cells/protectiontype) | Tipo di protezione.|
+| type | [`ProtectionType`](/cells/python-net/it/aspose.cells/protectiontype) | Tipo di protezione.|
 | password | str | Parola d'ordine.|
-| old_password | str | Se il foglio di lavoro è già protetto da una password, fornire la vecchia password.<br/> In caso contrario, è possibile impostare un valore nullo o una stringa vuota su questo parametro.|
+| old_password | str | Se il foglio di lavoro è già protetto da password, fornire la vecchia password.<br/> In caso contrario, è possibile impostare un valore null o una stringa vuota su questo parametro.|
 ###  Osservazioni
 
-Questo metodo può protect foglio di lavoro in tutte le versioni del file Excel.
+Questo metodo può essere utilizzato nel foglio di lavoro protect in tutte le versioni del file Excel.
 ###  Esempio
 
 
@@ -65,5 +65,5 @@ excel.save("output.xls")
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

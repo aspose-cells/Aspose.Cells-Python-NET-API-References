@@ -3,7 +3,7 @@ title: SortOnType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2480
+weight: 2570
 url: /tr/aspose.cells/sortontype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Sıralanmış değer türü.
 
 
 
-SortOnType türü aşağıdaki üyeleri gösterir:
+SortOnType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | VALUE | Hücrelerin değerine göre sıralar.|
@@ -25,4 +25,4 @@ SortOnType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

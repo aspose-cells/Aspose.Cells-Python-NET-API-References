@@ -1,13 +1,13 @@
 ---
-title: bubble_sizes 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: bubble_sizes属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 90
+weight: 80
 url: /zh/aspose.cells.charts/series/bubble_sizes/
 is_root: false
 ---
-## bubble_sizes 属性
+## bubble_sizes属性
 
 获取或设置图表系列的气泡大小值。
 ### 定义：
@@ -21,5 +21,5 @@ def bubble_sizes(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Series](/cells/python-net/zh/aspose.cells.charts/series)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Series`](/cells/python-net/zh/aspose.cells.charts/series)

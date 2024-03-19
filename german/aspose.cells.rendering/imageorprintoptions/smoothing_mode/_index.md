@@ -3,13 +3,13 @@ title: smoothing_mode Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 310
 url: /de/aspose.cells.rendering/imageorprintoptions/smoothing_mode/
 is_root: false
 ---
 ##  smoothing_mode Eigentum
 
-Legt fest, ob Glättung (Antialiasing) auf Linien und Kurven sowie die Kanten gefüllter Bereiche angewendet wird.
+Gibt an, ob eine Glättung (Antialiasing) auf Linien und Kurven sowie die Kanten gefüllter Bereiche angewendet wird.
 Der Standardwert ist SmoothingMode.None
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def smoothing_mode(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [ImageOrPrintOptions](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`ImageOrPrintOptions`](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)

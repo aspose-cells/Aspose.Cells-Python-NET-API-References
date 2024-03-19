@@ -1,13 +1,13 @@
 ---
-title: unhide_row méthode
+title: méthode unhide_row
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 990
+weight: 980
 url: /fr/aspose.cells/cells/unhide_row/
 is_root: false
 ---
-##  unhide_row(row, height) {#int-float}
+##  unhide_row {#int-float}
 Affiche une ligne.
 
 
@@ -20,11 +20,11 @@ def unhide_row(self, row, height):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| row | int | Indice de ligne.|
-| height | float | Hauteur de ligne. La hauteur de la ligne ne sera modifiée que lorsque la ligne est masquée et que la valeur de hauteur donnée est positive.|
+| row | int | Index de ligne.|
+| height | float | Hauteur de rangée. La hauteur de la ligne sera modifiée uniquement lorsque la ligne est masquée et que la valeur de hauteur donnée est positive.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cells](/cells/python-net/fr/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/fr/aspose.cells/cells)

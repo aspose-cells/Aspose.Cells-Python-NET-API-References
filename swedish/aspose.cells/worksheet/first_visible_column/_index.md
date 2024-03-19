@@ -3,7 +3,7 @@ title: first_visible_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 480
+weight: 500
 url: /sv/aspose.cells/worksheet/first_visible_column/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def first_visible_column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

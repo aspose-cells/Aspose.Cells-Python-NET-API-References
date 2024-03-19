@@ -3,7 +3,7 @@ title: FontSchemeType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2070
+weight: 2140
 url: /es/aspose.cells/fontschemetype/
 is_root: false
 ---
@@ -18,10 +18,10 @@ El tipo FontSchemeType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | NONE | Ninguno|
-| MAJOR | esquema mayor.|
-| MINOR | esquema menor.|
+| MAJOR | Esquema mayor.|
+| MINOR | Esquema menor.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

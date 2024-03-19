@@ -1,9 +1,9 @@
 ---
 title: rotation_angle недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 390
+weight: 450
 url: /ru/aspose.cells/style/rotation_angle/
 is_root: false
 ---
@@ -37,5 +37,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Style](/cells/python-net/ru/aspose.cells/style)
+* модуль [`aspose.cells`](../../)
+* класс [`Style`](/cells/python-net/ru/aspose.cells/style)

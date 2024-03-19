@@ -3,7 +3,7 @@ title: Row Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1300
+weight: 1340
 url: /de/aspose.cells/row/
 is_root: false
 ---
@@ -19,13 +19,12 @@ Der Typ Row macht die folgenden Member verfügbar:
 | :- | :- |
 | [is_blank](/cells/python-net/de/aspose.cells/row/is_blank) | Gibt an, ob die Zeile Daten enthält|
 | [is_collapsed](/cells/python-net/de/aspose.cells/row/is_collapsed) | ob die Zeile reduziert ist|
-| [height](/cells/python-net/de/aspose.cells/row/height) | Ruft die Zeilenhöhe in Punkteinheiten ab und legt sie fest.|
+| [height](/cells/python-net/de/aspose.cells/row/height) | Ruft die Zeilenhöhe in der Einheit Punkte ab und legt sie fest.|
 | [is_hidden](/cells/python-net/de/aspose.cells/row/is_hidden) | Gibt an, ob die Zeile ausgeblendet ist.|
 | [index](/cells/python-net/de/aspose.cells/row/index) | Ruft den Index dieser Zeile ab.|
 | [group_level](/cells/python-net/de/aspose.cells/row/group_level) | Ruft die Gruppenebene der Zeile ab.|
-| [is_height_matched](/cells/python-net/de/aspose.cells/row/is_height_matched) |Gibt an, dass die Zeilenhöhe und die Standardschrifthöhe übereinstimmen.|
-| [style](/cells/python-net/de/aspose.cells/row/style) | Stellt den Stil dieser Zeile dar.|
-| [has_custom_style](/cells/python-net/de/aspose.cells/row/has_custom_style) | Gibt an, ob diese Zeile über benutzerdefinierte Stileinstellungen verfügt (anders als die von der Arbeitsmappe geerbte Standardeinstellung).|
+| [is_height_matched](/cells/python-net/de/aspose.cells/row/is_height_matched) | Gibt an, ob die Zeilenhöhe mit der aktuellen Standardschriftarteinstellung der Arbeitsmappe übereinstimmt.<br/>„True“ dieser Eigenschaft bedeutet auch, dass die Zeilenhöhe „automatisch“ ist, ohne dass vom Benutzer ein benutzerdefinierter Höhenwert festgelegt wird.|
+| [has_custom_style](/cells/python-net/de/aspose.cells/row/has_custom_style) | Gibt an, ob diese Zeile über benutzerdefinierte Stileinstellungen verfügt (anders als die von der Arbeitsmappe geerbten Standardeinstellungen).|
 | [first_cell](/cells/python-net/de/aspose.cells/row/first_cell) | Ruft das erste Zellobjekt in der Zeile ab.|
 | [first_data_cell](/cells/python-net/de/aspose.cells/row/first_data_cell) | Ruft die erste nicht leere Zelle in der Zeile ab.|
 | [last_cell](/cells/python-net/de/aspose.cells/row/last_cell) | Ruft das letzte Zellobjekt in der Zeile ab.|
@@ -34,7 +33,7 @@ Der Typ Row macht die folgenden Member verfügbar:
 
 
 Ruft die Zelle ab.
-###  Indexierer
+###  Indexer
 | Name| Beschreibung|
 | :- | :- |
 | [index] | Der Spaltenindex|
@@ -43,13 +42,14 @@ Ruft die Zelle ab.
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_cell_by_index(index)](/cells/python-net/de/aspose.cells/row/get_cell_by_index/#int) | Rufen Sie die Zelle nach einem bestimmten Index in der Liste ab.|
-| [get_cell_or_null(column)](/cells/python-net/de/aspose.cells/row/get_cell_or_null/#int) | Ruft die Zelle oder Null im spezifischen Index ab.|
-| [get_style()](/cells/python-net/de/aspose.cells/row/get_style/#) | Ruft den Stil dieser Zeile ab.|
-| [set_style(style)](/cells/python-net/de/aspose.cells/row/set_style/#Style) | Legt den Stil dieser Zeile fest.|
-| [copy_settings(source, check_style)](/cells/python-net/de/aspose.cells/row/copy_settings/#Row-bool) | Kopieren Sie die Einstellungen der Zeile, wie z. B. Stil, Höhe, Sichtbarkeit usw.|
-| [apply_style(style, flag)](/cells/python-net/de/aspose.cells/row/apply_style/#Style-StyleFlag) | Wendet Formate für eine ganze Zeile an.|
-| [equals(row)](/cells/python-net/de/aspose.cells/row/equals/#Row) | Überprüft, ob dieses Objekt mit einem anderen Zeilenobjekt auf dieselbe Zeile verweist.|
+| [get_cell_by_index](/cells/python-net/de/aspose.cells/row/get_cell_by_index/#int) | Rufen Sie die Zelle nach einem bestimmten Index in der Zellsammlung dieser Zeile ab.|
+| [get_enumerator](/cells/python-net/de/aspose.cells/row/get_enumerator/#bool-bool) | Ruft einen Enumerator ab, der Zellen durch diese Zeile iteriert.|
+| [get_cell_or_null](/cells/python-net/de/aspose.cells/row/get_cell_or_null/#int) | Ruft die Zelle oder Null im spezifischen Index ab.|
+| [get_style](/cells/python-net/de/aspose.cells/row/get_style/#) | Ruft den Stil dieser Zeile ab.|
+| [set_style](/cells/python-net/de/aspose.cells/row/set_style/#aspose.cells.Style) | Legt den Stil dieser Zeile fest.|
+| [copy_settings](/cells/python-net/de/aspose.cells/row/copy_settings/#aspose.cells.Row-bool) | Kopieren Sie die Einstellungen der Zeile, z. B. Stil, Höhe, Sichtbarkeit usw.|
+| [apply_style](/cells/python-net/de/aspose.cells/row/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Wendet Formate für eine ganze Zeile an.|
+| [equals](/cells/python-net/de/aspose.cells/row/equals/#aspose.cells.Row) | Prüft, ob dieses Objekt auf dieselbe Zeile mit einem anderen Zeilenobjekt verweist.|
 
 
 
@@ -84,4 +84,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

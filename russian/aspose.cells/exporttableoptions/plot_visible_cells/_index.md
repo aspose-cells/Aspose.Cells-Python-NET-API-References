@@ -1,9 +1,9 @@
 ---
 title: plot_visible_cells недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 100
+weight: 120
 url: /ru/aspose.cells/exporttableoptions/plot_visible_cells/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def plot_visible_cells(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ExportTableOptions](/cells/python-net/ru/aspose.cells/exporttableoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ExportTableOptions`](/cells/python-net/ru/aspose.cells/exporttableoptions)

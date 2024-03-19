@@ -3,13 +3,13 @@ title: text_vertical_alignment Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 390
+weight: 400
 url: /de/aspose.cells.charts/legend/text_vertical_alignment/
 is_root: false
 ---
 ##  text_vertical_alignment Eigentum
 
-Ruft die vertikale Textausrichtung von Text ab oder legt diese fest.
+Ruft die vertikale Textausrichtung des Textes ab oder legt diese fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Legend](/cells/python-net/de/aspose.cells.charts/legend)
-* Klasse [TextAlignmentType](/cells/python-net/de/aspose.cells/textalignmenttype)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Legend`](/cells/python-net/de/aspose.cells.charts/legend)
+* Klasse [`TextAlignmentType`](/cells/python-net/de/aspose.cells/textalignmenttype)

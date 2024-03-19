@@ -1,18 +1,18 @@
 ---
 title: SheetType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2460
+weight: 2550
 url: /ru/aspose.cells/sheettype/
 is_root: false
 ---
 ##  SheetType перечисление
-Задает тип рабочего листа.
+Указывает тип рабочего листа.
 
 
 
-Тип SheetType предоставляет следующие члены:
+Тип SheetType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -23,9 +23,9 @@ is_root: false
 | BIFF4_MACRO | Лист макросов BIFF4|
 | INTERNATIONAL_MACRO | Международный лист макросов|
 | OTHER |  |
-| DIALOG |Рабочий лист диалога|
+| DIALOG |Диалоговый лист|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

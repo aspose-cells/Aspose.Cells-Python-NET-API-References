@@ -3,12 +3,12 @@ title: طريقة remove_formulas
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 820
+weight: 810
 url: /ar/aspose.cells/cells/remove_formulas/
 is_root: false
 ---
-##  remove_formulas() {#}
-يزيل كل الصيغة ويستبدل بقيمة الصيغة.
+##  remove_formulas {#}
+يزيل كل الصيغة ويستبدلها بقيمة الصيغة.
 
 
 
@@ -22,5 +22,5 @@ def remove_formulas(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

@@ -1,15 +1,16 @@
 ---
-title: support_div_tag الملكية
+title: support_div_tag عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 390
 url: /ar/aspose.cells/htmlloadoptions/support_div_tag/
 is_root: false
 ---
-##  support_div_tag الملكية
+##  support_div_tag عقار
 
-يشير إلى ما إذا كان يدعم تخطيط<div> علامة عندما يحتوي ملف html<div> العلامات. القيمة الافتراضية هي كاذبة.
+يشير إلى ما إذا كان يدعم تخطيط علامة `<div>` عندما يحتوي عليه ملف html.
+القيمة الافتراضية هي كاذبة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +22,5 @@ def support_div_tag(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlLoadOptions](/cells/python-net/ar/aspose.cells/htmlloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlLoadOptions`](/cells/python-net/ar/aspose.cells/htmlloadoptions)

@@ -3,13 +3,13 @@ title: three_d_format mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /tr/aspose.cells.drawing/groupbox/three_d_format/
 is_root: false
 ---
 ##  three_d_format mülk
 
-Şeklin 3 boyutlu biçimini alır ve ayarlar.
+Şeklin 3 boyutlu formatını alır ve ayarlar.
 
 ###  Örnek
 
@@ -26,6 +26,6 @@ def three_d_format(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GroupBox](/cells/python-net/tr/aspose.cells.drawing/groupbox)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GroupBox`](/cells/python-net/tr/aspose.cells.drawing/groupbox)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

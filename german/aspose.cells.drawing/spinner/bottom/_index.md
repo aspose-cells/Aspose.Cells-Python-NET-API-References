@@ -3,13 +3,13 @@ title: bottom Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 290
+weight: 310
 url: /de/aspose.cells.drawing/spinner/bottom/
 is_root: false
 ---
 ##  bottom Eigentum
 
-Repräsentiert die Breite des vertikalen Versatzes der Form von ihrer unteren bottom-Eckreihe in Pixeleinheiten.
+Stellt die Breite des vertikalen Versatzes der Form von ihrer unteren bottom Eckreihe in Pixeleinheiten dar.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def bottom(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Spinner](/cells/python-net/de/aspose.cells.drawing/spinner)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Spinner`](/cells/python-net/de/aspose.cells.drawing/spinner)

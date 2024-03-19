@@ -1,15 +1,15 @@
 ---
-title: height_cm الملكية
+title: height_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ar/aspose.cells/comment/height_cm/
 is_root: false
 ---
-##  height_cm الملكية
+##  height_cm عقار
 
-يمثل ارتفاع التعليق بوحدة سنتيمترات.
+يمثل ارتفاع التعليق بوحدة السنتيمتر.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def height_cm(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

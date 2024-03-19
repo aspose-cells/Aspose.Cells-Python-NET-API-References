@@ -3,11 +3,11 @@ title: import_csv Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 630
+weight: 620
 url: /de/aspose.cells/cells/import_csv/
 is_root: false
 ---
-##  import_csv(file_name, options, first_row, first_column) {#str-TxtLoadOptions-int-int}
+##  import_csv {#str-aspose.cells.TxtLoadOptions-int-int}
 Importieren Sie eine CSV-Datei in die Zellen.
 
 
@@ -21,12 +21,12 @@ def import_csv(self, file_name, options, first_row, first_column):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | file_name | str | Der Dateiname CSV.|
-| options | [TxtLoadOptions](/cells/python-net/de/aspose.cells/txtloadoptions) | Die Ladeoptionen zum Lesen von Textdateien|
+| options | [`TxtLoadOptions`](/cells/python-net/de/aspose.cells/txtloadoptions) | Die Ladeoptionen zum Lesen einer Textdatei|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
 
 
-##  import_csv(stream, options, first_row, first_column) {#io.RawIOBase-TxtLoadOptions-int-int}
+##  import_csv {#io.RawIOBase-aspose.cells.TxtLoadOptions-int-int}
 Importieren Sie eine CSV-Datei in die Zellen.
 
 
@@ -39,13 +39,13 @@ def import_csv(self, stream, options, first_row, first_column):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| stream | io.RawIOBase | Der CSV-Dateistream.|
-| options | [TxtLoadOptions](/cells/python-net/de/aspose.cells/txtloadoptions) | Die Ladeoptionen zum Lesen von Textdateien|
+| stream | io.RawIOBase | Der Dateistream CSV.|
+| options | [`TxtLoadOptions`](/cells/python-net/de/aspose.cells/txtloadoptions) | Die Ladeoptionen zum Lesen einer Textdatei|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
 
 
-##  import_csv(file_name, splitter, convert_numeric_data, first_row, first_column) {#str-str-bool-int-int}
+##  import_csv {#str-str-bool-int-int}
 Importieren Sie eine CSV-Datei in die Zellen.
 
 
@@ -60,12 +60,12 @@ def import_csv(self, file_name, splitter, convert_numeric_data, first_row, first
 | :- | :- | :- |
 | file_name | str | Der Dateiname CSV.|
 | splitter | str | Der Splitter|
-| convert_numeric_data | bool |Ob die Zeichenfolge in der Textdatei in numerische Daten konvertiert wird.|
+| convert_numeric_data | bool | Ob die Zeichenfolge in der Textdatei in numerische Daten konvertiert wird.|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
 
 
-##  import_csv(stream, splitter, convert_numeric_data, first_row, first_column) {#io.RawIOBase-str-bool-int-int}
+##  import_csv {#io.RawIOBase-str-bool-int-int}
 Importieren Sie eine CSV-Datei in die Zellen.
 
 
@@ -78,14 +78,14 @@ def import_csv(self, stream, splitter, convert_numeric_data, first_row, first_co
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| stream | io.RawIOBase | Der CSV-Dateistream.|
+| stream | io.RawIOBase | Der Dateistream CSV.|
 | splitter | str | Der Splitter|
-| convert_numeric_data | bool |Ob die Zeichenfolge in der Textdatei in numerische Daten konvertiert wird.|
+| convert_numeric_data | bool | Ob die Zeichenfolge in der Textdatei in numerische Daten konvertiert wird.|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

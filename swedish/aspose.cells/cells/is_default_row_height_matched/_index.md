@@ -3,7 +3,7 @@ title: is_default_row_height_matched fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1060
+weight: 1050
 url: /sv/aspose.cells/cells/is_default_row_height_matched/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_default_row_height_matched(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

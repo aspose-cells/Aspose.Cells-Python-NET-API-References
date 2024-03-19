@@ -3,13 +3,13 @@ title: call_back propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 90
 url: /fr/aspose.cells/workbookdesigner/call_back/
 is_root: false
 ---
 ##  call_back propriété
 
-Obtient et définit l'interface de rappel du traitement smartmarker.
+Obtient et définit l'interface de rappel du traitement du marqueur intelligent.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def call_back(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ISmartMarkerCallBack](/cells/python-net/fr/aspose.cells/ismartmarkercallback)
-* classe [WorkbookDesigner](/cells/python-net/fr/aspose.cells/workbookdesigner)
+* module [`aspose.cells`](../../)
+* classe [`ISmartMarkerCallBack`](/cells/python-net/fr/aspose.cells/ismartmarkercallback)
+* classe [`WorkbookDesigner`](/cells/python-net/fr/aspose.cells/workbookdesigner)

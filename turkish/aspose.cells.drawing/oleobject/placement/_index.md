@@ -3,14 +3,14 @@ title: placement mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 980
+weight: 990
 url: /tr/aspose.cells.drawing/oleobject/placement/
 is_root: false
 ---
 ##  placement mülk
 
-Çizim nesnesinin altındaki hücrelere iliştirilme şeklini temsil eder.
-Özellik, çalışma sayfasındaki bir nesnenin placement'ini denetler.
+Çizim nesnesinin altındaki hücrelere bağlanma şeklini temsil eder.
+Özellik, çalışma sayfasındaki bir nesnenin placement'ini kontrol eder.
 
 ###  Örnek
 
@@ -32,6 +32,6 @@ def placement(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [OleObject](/cells/python-net/tr/aspose.cells.drawing/oleobject)
-* sınıf [PlacementType](/cells/python-net/tr/aspose.cells.drawing/placementtype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`OleObject`](/cells/python-net/tr/aspose.cells.drawing/oleobject)
+* sınıf [`PlacementType`](/cells/python-net/tr/aspose.cells.drawing/placementtype)

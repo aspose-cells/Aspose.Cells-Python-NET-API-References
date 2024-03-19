@@ -3,7 +3,7 @@ title: is_justify_distributed propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 300
+weight: 340
 url: /fr/aspose.cells/style/is_justify_distributed/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Indique si l'alignement justifié ou distribué des cellules doit être utilisé
 
 ###  Remarques
 
-Ceci est typique des alignements d'Asie de l'Est mais pas typique dans d'autres contextes.
+Ceci est typique des alignements d’Asie de l’Est, mais pas typique dans d’autres contextes.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def is_justify_distributed(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Style](/cells/python-net/fr/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* classe [`Style`](/cells/python-net/fr/aspose.cells/style)

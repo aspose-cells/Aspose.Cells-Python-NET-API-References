@@ -3,13 +3,13 @@ title: image_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 580
+weight: 590
 url: /tr/aspose.cells.drawing/picture/image_type/
 is_root: false
 ---
 ##  image_type mülk
 
-Resmin resim formatını alır.
+Resmin görüntü formatını alır.
 
 ###  Örnek
 
@@ -42,6 +42,6 @@ def image_type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ImageType](/cells/python-net/tr/aspose.cells.drawing/imagetype)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ImageType`](/cells/python-net/tr/aspose.cells.drawing/imagetype)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)

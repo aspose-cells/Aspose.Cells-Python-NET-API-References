@@ -3,13 +3,13 @@ title: upper_left_column propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1160
+weight: 1180
 url: /fr/aspose.cells.drawing/radiobutton/upper_left_column/
 is_root: false
 ---
 ##  upper_left_column propriété
 
-Représente l'index de la colonne du coin supérieur gauche.
+Représente l’index de la colonne du coin supérieur gauche.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)

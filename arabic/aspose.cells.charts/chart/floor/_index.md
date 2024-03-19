@@ -1,15 +1,15 @@
 ---
-title: floor الملكية
+title: floor عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 290
 url: /ar/aspose.cells.charts/chart/floor/
 is_root: false
 ---
-##  floor الملكية
+##  floor عقار
 
-إرجاع عنصر [Chart.floor](/cells/python-net/ar/aspose.cells.charts/chart#floor) يمثل جدران مخطط ثلاثي الأبعاد.
+تقوم بإرجاع كائن [`Chart.floor`](/cells/python-net/ar/aspose.cells.charts/chart#floor) الذي يمثل جدران مخطط ثلاثي الأبعاد.
 
 ###  ملاحظات
 
@@ -22,6 +22,6 @@ def floor(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
-* فئة [Floor](/cells/python-net/ar/aspose.cells.charts/floor)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)
+* فئة [`Floor`](/cells/python-net/ar/aspose.cells.charts/floor)

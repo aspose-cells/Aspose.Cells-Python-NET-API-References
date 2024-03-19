@@ -3,7 +3,7 @@ title: memory_setting propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1140
+weight: 1130
 url: /es/aspose.cells/cells/memory_setting/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def memory_setting(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
-* clase [MemorySetting](/cells/python-net/es/aspose.cells/memorysetting)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)
+* clase [`MemorySetting`](/cells/python-net/es/aspose.cells/memorysetting)

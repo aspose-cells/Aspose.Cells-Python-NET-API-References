@@ -1,9 +1,9 @@
 ---
 title: PivotTableCollection类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 190
 url: /zh/aspose.cells.pivot/pivottablecollection/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-PivotTableCollection 类型公开了以下成员：
+PivotTableCollection 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -23,23 +23,23 @@ PivotTableCollection 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [add(source_data, dest_cell_name, table_name)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#str-str-str) |将新的数据透视表缓存添加到 PivotCaches 集合。|
-| [add(source_data, dest_cell_name, table_name, use_same_source)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) |将新的数据透视表缓存添加到 PivotCaches 集合。|
-| [add(source_data, row, column, table_name)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) |将新的数据透视表缓存添加到 PivotCaches 集合。|
-| [add(source_data, row, column, table_name, use_same_source)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) |将新的数据透视表缓存添加到 PivotCaches 集合。|
-| [add(pivot_table, dest_cell_name, table_name)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#PivotTable-str-str) |将新的数据透视表对象添加到另一个数据透视表的集合中。|
-| [add(pivot_table, row, column, table_name)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#PivotTable-int-int-str) |将新的数据透视表对象添加到另一个数据透视表的集合中。|
-| [add(source_data, is_auto_page, page_fields, dest_cell_name, table_name)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#list-bool-PivotPageFields-str-str) |将新的数据透视表对象添加到具有多个合并范围作为数据源的集合中。|
-| [add(source_data, is_auto_page, page_fields, row, column, table_name)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#list-bool-PivotPageFields-int-int-str) |将新的数据透视表对象添加到具有多个合并范围作为数据源的集合中。|
-| [copy_to(array)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/copy_to/#list) |将整个数组列表复制到兼容的一维数组列表，从目标数组列表的开头开始。|
-| [copy_to(index, array, array_index, count)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) |将数组列表中的一系列元素复制到兼容的一维数组列表，从目标数组列表的指定索引开始。|
-| [index_of(item, index)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/index_of/#PivotTable-int) |搜索指定的对象并返回数组列表中从指定索引延伸到最后一个元素的元素范围内第一次出现的从零开始的索引。|
-| [index_of(item, index, count)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/index_of/#PivotTable-int-int) |搜索指定的对象并返回数组列表中从指定索引开始并包含指定数量的元素的元素范围内第一次出现的从零开始的索引。|
-| [last_index_of(item)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable) |搜索指定的对象并返回整个数组列表中最后一次出现的从零开始的索引。|
-| [last_index_of(item, index)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable-int) |搜索指定的对象并返回数组列表中从第一个元素到指定索引的元素范围内最后一次出现的从零开始的索引。|
-| [last_index_of(item, index, count)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable-int-int) |搜索指定的对象并返回数组列表中包含指定数量的元素并以指定索引结束的元素范围内最后一次出现的从零开始的索引。|
-| [remove_at(index, keep_data)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) |删除指定索引处的数据透视表|
-| [binary_search(item)](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/binary_search/#PivotTable) |使用默认比较器在整个排序数组列表中搜索元素，并返回元素的从零开始的索引。|
+| [add](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#str-str-str) |将新的数据透视表缓存添加到 PivotCaches 集合中。|
+| [add](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) |将新的数据透视表缓存添加到 PivotCaches 集合中。|
+| [add](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) |将新的数据透视表缓存添加到 PivotCaches 集合中。|
+| [add](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) |将新的数据透视表缓存添加到 PivotCaches 集合中。|
+| [add](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-str-str) |将新的数据透视表对象从另一个数据透视表添加到集合中。|
+| [add](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) |将新的数据透视表对象从另一个数据透视表添加到集合中。|
+| [add](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-str-str) |将新的数据透视表对象添加到集合中，并将多个合并范围作为数据源。|
+| [add](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-int-int-str) |将新的数据透视表对象添加到集合中，并将多个合并范围作为数据源。|
+| [copy_to](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/copy_to/#list) |从目标数组列表的开头开始，将整个数组列表复制到兼容的一维数组列表。|
+| [copy_to](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) |从目标数组列表的指定索引开始，将数组列表中的一系列元素复制到兼容的一维数组列表。|
+| [index_of](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int) |搜索指定对象并返回数组列表中从指定索引延伸到最后一个元素的元素范围内第一个匹配项的从零开始的索引。|
+| [index_of](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int-int) |搜索指定对象并返回数组列表中从指定索引开始并包含指定数量元素的元素范围内第一个匹配项的从零开始的索引。|
+| [last_index_of](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable) |搜索指定对象并返回整个数组列表中最后一次出现的从零开始的索引。|
+| [last_index_of](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int) |搜索指定对象并返回数组列表中从第一个元素延伸到指定索引的元素范围内最后一次出现的从零开始的索引。|
+| [last_index_of](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int-int) |搜索指定的对象，并返回数组列表中包含指定数量的元素并以指定索引结束的元素范围内最后一个匹配项的从零开始的索引。|
+| [remove_at](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) |删除指定索引处的数据透视表|
+| [binary_search](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.PivotTable) |使用默认比较器在整个排序数组列表中搜索元素，并返回该元素从零开始的索引。|
 
 
 
@@ -112,4 +112,4 @@ book.save("out.xlsx")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](..)
+* 模块[`aspose.cells.pivot`](..)

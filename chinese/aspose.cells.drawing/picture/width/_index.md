@@ -1,15 +1,15 @@
 ---
-title: width 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: width属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1340
+weight: 1350
 url: /zh/aspose.cells.drawing/picture/width/
 is_root: false
 ---
-## width 属性
+## width属性
 
-表示形状的 width，以像素为单位。
+代表形状的width，以像素为单位。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Picture](/cells/python-net/zh/aspose.cells.drawing/picture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)

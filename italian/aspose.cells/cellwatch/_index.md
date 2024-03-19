@@ -1,23 +1,23 @@
 ---
-title: classe CellWatch
+title: CellWatch classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 160
+weight: 170
 url: /it/aspose.cells/cellwatch/
 is_root: false
 ---
-##  classe CellWatch
-Rappresenta Cell Watch Item nella 'finestra di controllo'.
+##  CellWatch classe
+Rappresenta Cell oggetto da guardare nella "finestra di controllo".
 
 
 
-Il tipo CellWatch espone i membri seguenti:
+Il tipo CellWatch espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [CellWatch()](/cells/python-net/it/aspose.cells/cellwatch/__init__/#) | Costruisce una nuova istanza di CellWatch|
+| [__init__](/cells/python-net/it/aspose.cells/cellwatch/__init__/#) |Costruisce una nuova istanza di CellWatch|
 
 
 ###  Proprietà
@@ -30,4 +30,4 @@ Il tipo CellWatch espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

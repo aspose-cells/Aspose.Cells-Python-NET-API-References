@@ -1,17 +1,17 @@
 ---
-title: treat_quote_prefix_as_value الملكية
+title: treat_quote_prefix_as_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 440
 url: /ar/aspose.cells/txtloadoptions/treat_quote_prefix_as_value/
 is_root: false
 ---
-##  treat_quote_prefix_as_value الملكية
+##  treat_quote_prefix_as_value عقار
 
-يشير إلى ما إذا كان يجب أخذ علامة الاقتباس المفردة كجزء من قيمة خلية واحدة.
-الافتراضي هو الصحيح. إذا كانت خاطئة ، فستتم إزالة علامة الاقتباس المفردة البادئة من قيمة الخلية المقابلة
-وسيتم تعيين [Style.quote_prefix](/cells/python-net/ar/aspose.cells/style#quote_prefix) على أنه صحيح للخلية.
+يشير إلى ما إذا كان ينبغي اعتبار علامة الاقتباس المفردة البادئة جزءًا من قيمة خلية واحدة.
+الافتراضي صحيح. إذا كانت خاطئة، فستتم إزالة علامة الاقتباس المفردة البادئة من قيمة الخلية المقابلة
+وسيتم تعيين [`Style.quote_prefix`](/cells/python-net/ar/aspose.cells/style#quote_prefix) على أنه صحيح للخلية.
 ###  تعريف:
 ```python
 @property
@@ -23,5 +23,5 @@ def treat_quote_prefix_as_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TxtLoadOptions](/cells/python-net/ar/aspose.cells/txtloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TxtLoadOptions`](/cells/python-net/ar/aspose.cells/txtloadoptions)

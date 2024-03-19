@@ -1,15 +1,15 @@
 ---
-title: date_time_value 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: date_time_value属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 420
+weight: 440
 url: /zh/aspose.cells/cell/date_time_value/
 is_root: false
 ---
-## date_time_value 属性
+## date_time_value属性
 
-获取单元格中包含的 DateTime 值。
+获取单元格中包含的日期时间值。
 ### 定义：
 ```python
 @property
@@ -18,5 +18,5 @@ def date_time_value(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cell](/cells/python-net/zh/aspose.cells/cell)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cell`](/cells/python-net/zh/aspose.cells/cell)

@@ -1,26 +1,26 @@
 ---
-title: classe IconFilter
+title: IconFilter classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 890
+weight: 930
 url: /it/aspose.cells/iconfilter/
 is_root: false
 ---
-##  classe IconFilter
-Rappresenta il filtro icona.
+##  IconFilter classe
+Rappresenta il filtro delle icone.
 
 
 
-Il tipo IconFilter espone i membri seguenti:
+Il tipo IconFilter espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [icon_set_type](/cells/python-net/it/aspose.cells/iconfilter/icon_set_type) |Ottiene e imposta il set di icone utilizzato nei criteri di filtro.|
+| [icon_set_type](/cells/python-net/it/aspose.cells/iconfilter/icon_set_type) | Ottiene e imposta il set di icone utilizzato nei criteri di filtro.|
 | [icon_id](/cells/python-net/it/aspose.cells/iconfilter/icon_id) | Ottiene e imposta l'indice in base zero di un'icona in un set di icone.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

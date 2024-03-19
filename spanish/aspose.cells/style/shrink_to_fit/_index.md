@@ -3,7 +3,7 @@ title: shrink_to_fit propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 400
+weight: 460
 url: /es/aspose.cells/style/shrink_to_fit/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def shrink_to_fit(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)

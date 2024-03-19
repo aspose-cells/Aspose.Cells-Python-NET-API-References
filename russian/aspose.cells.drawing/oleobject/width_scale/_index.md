@@ -1,15 +1,15 @@
 ---
 title: width_scale недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1380
+weight: 1390
 url: /ru/aspose.cells.drawing/oleobject/width_scale/
 is_root: false
 ---
 ##  width_scale недвижимость
 
-Получает и задает масштаб ширины в процентах от исходной ширины изображения.
+Получает и задает масштаб ширины в процентах от ширины исходного изображения.
 Если фигура не является изображением, свойство WidthScale возвращает только 100;
 
 ###  Пример
@@ -31,5 +31,5 @@ def width_scale(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

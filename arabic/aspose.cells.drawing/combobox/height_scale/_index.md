@@ -1,16 +1,16 @@
 ---
-title: height_scale الملكية
+title: height_scale عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 490
 url: /ar/aspose.cells.drawing/combobox/height_scale/
 is_root: false
 ---
-##  height_scale الملكية
+##  height_scale عقار
 
-الحصول على مقياس الارتفاع وتعيينه ، بوحدة نسبة مئوية من ارتفاع الصورة الأصلي.
-إذا لم يكن الشكل صورة ، تقوم الخاصية HeightScale بإرجاع 100 فقط ؛
+الحصول على مقياس الارتفاع وتعيينه بوحدة النسبة المئوية لارتفاع الصورة الأصلية.
+إذا لم يكن الشكل صورة، فإن خاصية HeightScale تُرجع 100 فقط؛
 
 ###  مثال
 
@@ -31,5 +31,5 @@ def height_scale(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ComboBox](/cells/python-net/ar/aspose.cells.drawing/combobox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ComboBox`](/cells/python-net/ar/aspose.cells.drawing/combobox)

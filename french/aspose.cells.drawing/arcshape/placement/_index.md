@@ -3,13 +3,13 @@ title: placement propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 880
+weight: 890
 url: /fr/aspose.cells.drawing/arcshape/placement/
 is_root: false
 ---
 ##  placement propriété
 
-Représente la manière dont l'objet dessin est attaché aux cellules situées en dessous.
+Représente la manière dont l'objet de dessin est attaché aux cellules situées en dessous.
 La propriété contrôle le placement d'un objet sur une feuille de calcul.
 
 ###  Exemple
@@ -32,6 +32,6 @@ def placement(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/fr/aspose.cells.drawing/arcshape)
-* classe [PlacementType](/cells/python-net/fr/aspose.cells.drawing/placementtype)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/fr/aspose.cells.drawing/arcshape)
+* classe [`PlacementType`](/cells/python-net/fr/aspose.cells.drawing/placementtype)

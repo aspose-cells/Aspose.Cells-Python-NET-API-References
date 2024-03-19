@@ -1,9 +1,9 @@
 ---
 title: ISmartMarkerCallBack класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 860
+weight: 900
 url: /ru/aspose.cells/ismartmarkercallback/
 is_root: false
 ---
@@ -12,14 +12,14 @@ is_root: false
 
 
 
-Тип ISmartMarkerCallBack предоставляет следующие члены:
+Тип ISmartMarkerCallBack предоставляет следующие элементы:
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [process(sheet_index, row_index, col_index, table_name, column_name)](/cells/python-net/ru/aspose.cells/ismartmarkercallback/process/#int-int-int-str-str) | Обратный вызов для обработки смарт-маркера.|
+| [process](/cells/python-net/ru/aspose.cells/ismartmarkercallback/process/#int-int-int-str-str) |Обратный вызов для обработки смарт-маркера.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

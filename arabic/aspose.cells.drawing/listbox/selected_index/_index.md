@@ -1,15 +1,15 @@
 ---
-title: selected_index الملكية
+title: selected_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 920
+weight: 930
 url: /ar/aspose.cells.drawing/listbox/selected_index/
 is_root: false
 ---
-##  selected_index الملكية
+##  selected_index عقار
 
-الحصول على رقم الفهرس للعنصر المحدد حاليًا أو تعيينه في مربع قائمة أو مربع تحرير وسرد.
+الحصول على رقم الفهرس للعنصر المحدد حاليًا أو تعيينه في مربع القائمة أو مربع التحرير والسرد.
 على أساس الصفر.
 
 ###  ملاحظات
@@ -26,5 +26,5 @@ def selected_index(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)

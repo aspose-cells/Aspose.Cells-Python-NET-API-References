@@ -1,14 +1,14 @@
 ---
 title: set_formula метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ru/aspose.cells/cell/set_formula/
 is_root: false
 ---
-##  set_formula(formula, value) {#str-any}
-Установите формулу и значение формулы.
+##  set_formula {#str-any}
+Установите формулу и значение (расчетный результат) формулы.
 
 
 
@@ -21,11 +21,11 @@ def set_formula(self, formula, value):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | formula | str | Формула.|
-| value | any | Значение формулы.|
+| value | any |Значение (расчетный результат) формулы.|
 
 
-##  set_formula(formula, options, value) {#str-FormulaParseOptions-any}
-Установите формулу и значение формулы.
+##  set_formula {#str-aspose.cells.FormulaParseOptions-any}
+Установите формулу и значение (расчетный результат) формулы.
 
 
 
@@ -38,11 +38,11 @@ def set_formula(self, formula, options, value):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | formula | str | Формула.|
-| options | [FormulaParseOptions](/cells/python-net/ru/aspose.cells/formulaparseoptions) | Варианты разбора формулы.|
-| value | any | Значение формулы.|
+| options | [`FormulaParseOptions`](/cells/python-net/ru/aspose.cells/formulaparseoptions) | Варианты разбора формулы.|
+| value | any |Значение (расчетный результат) формулы.|
 
 
-##  set_formula(formula, is_r1c1, is_local, value) {#str-bool-bool-any}
+##  set_formula {#str-bool-bool-any}
 Установите формулу и значение формулы.
 
 
@@ -57,16 +57,16 @@ def set_formula(self, formula, is_r1c1, is_local, value):
 | :- | :- | :- |
 | formula | str | Формула.|
 | is_r1c1 | bool | Является ли формула формулой R1C1.|
-| is_local | bool | Отформатирована ли формула в языковом стандарте.|
+| is_local | bool | Отформатирована ли формула в локали.|
 | value | any | Значение формулы.|
 ###  Примечания
 
 ПРИМЕЧАНИЕ. Этот класс устарел. Вместо,
 используйте Cell.SetFormula(строка,FormulaParseOptions,объект).
-Это свойство будет удалено через 12 месяцев, начиная с декабря 2019 года.
+Этот объект недвижимости будет удален через 12 месяцев, начиная с декабря 2019 года.
 Aspose приносит извинения за возможные неудобства.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

@@ -1,18 +1,18 @@
 ---
-title: classe ReferredArea
+title: ReferredArea classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1270
+weight: 1310
 url: /it/aspose.cells/referredarea/
 is_root: false
 ---
-##  classe ReferredArea
-Rappresenta un'area indicata dalla formula.
+##  ReferredArea classe
+Rappresenta un'area riferita dalla formula.
 
 
 
-Il tipo ReferredArea espone i membri seguenti:
+Il tipo ReferredArea espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -23,19 +23,19 @@ Il tipo ReferredArea espone i membri seguenti:
 | [is_area](/cells/python-net/it/aspose.cells/referredarea/is_area) | Indica se si tratta di un'area.|
 | [end_column](/cells/python-net/it/aspose.cells/referredarea/end_column) | La colonna finale dell'area.|
 | [start_column](/cells/python-net/it/aspose.cells/referredarea/start_column) | La colonna iniziale dell'area.|
-| [end_row](/cells/python-net/it/aspose.cells/referredarea/end_row) | L'ultima fila dell'area.|
-| [start_row](/cells/python-net/it/aspose.cells/referredarea/start_row) | La riga iniziale dell'area.|
+| [end_row](/cells/python-net/it/aspose.cells/referredarea/end_row) | La fila finale dell'area.|
+| [start_row](/cells/python-net/it/aspose.cells/referredarea/start_row) | La fila iniziale dell'area.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [get_values()](/cells/python-net/it/aspose.cells/referredarea/get_values/#) | Ottiene i valori delle celle in quest'area.|
-| [get_values(calculate_formulas)](/cells/python-net/it/aspose.cells/referredarea/get_values/#bool) | Ottiene i valori delle celle in quest'area.|
-| [get_value(row_offset, col_offset)](/cells/python-net/it/aspose.cells/referredarea/get_value/#int-int) | Ottiene il valore della cella con un determinato offset dall'angolo in alto a sinistra di quest'area.|
-| [get_value(row_offset, col_offset, calculate_formulas)](/cells/python-net/it/aspose.cells/referredarea/get_value/#int-int-bool) | Ottiene il valore della cella con un determinato offset dall'angolo in alto a sinistra di quest'area.|
+| [get_values](/cells/python-net/it/aspose.cells/referredarea/get_values/#) | Ottiene i valori delle celle in quest'area.|
+| [get_values](/cells/python-net/it/aspose.cells/referredarea/get_values/#bool) | Ottiene i valori delle celle in quest'area.|
+| [get_value](/cells/python-net/it/aspose.cells/referredarea/get_value/#int-int) | Ottiene il valore della cella con l'offset specificato dall'angolo superiore sinistro di quest'area.|
+| [get_value](/cells/python-net/it/aspose.cells/referredarea/get_value/#int-int-bool) | Ottiene il valore della cella con l'offset specificato dall'angolo superiore sinistro di quest'area.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

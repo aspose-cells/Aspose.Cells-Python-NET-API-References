@@ -1,15 +1,15 @@
 ---
-title: is_group الملكية
+title: is_group عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 570
 url: /ar/aspose.cells.drawing/label/is_group/
 is_root: false
 ---
-##  is_group الملكية
+##  is_group عقار
 
-يشير إلى ما إذا كان الشكل مجموعة.
+الإشارة إلى ما إذا كان الشكل عبارة عن مجموعة.
 
 ###  مثال
 
@@ -27,5 +27,5 @@ def is_group(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Label](/cells/python-net/ar/aspose.cells.drawing/label)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Label`](/cells/python-net/ar/aspose.cells.drawing/label)

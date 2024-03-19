@@ -3,13 +3,13 @@ title: width_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 260
 url: /tr/aspose.cells/comment/width_inch/
 is_root: false
 ---
 ##  width_inch mülk
 
-Açıklamanın genişliğini inç cinsinden temsil eder.
+Yorumun genişliğini inç birimi cinsinden temsil eder.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def width_inch(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)

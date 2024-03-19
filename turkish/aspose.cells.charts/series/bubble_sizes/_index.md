@@ -3,7 +3,7 @@ title: bubble_sizes mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 80
 url: /tr/aspose.cells.charts/series/bubble_sizes/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def bubble_sizes(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

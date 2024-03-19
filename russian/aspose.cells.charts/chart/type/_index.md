@@ -1,9 +1,9 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 610
+weight: 640
 url: /ru/aspose.cells.charts/chart/type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
-* класс [ChartType](/cells/python-net/ru/aspose.cells.charts/charttype)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)
+* класс [`ChartType`](/cells/python-net/ru/aspose.cells.charts/charttype)

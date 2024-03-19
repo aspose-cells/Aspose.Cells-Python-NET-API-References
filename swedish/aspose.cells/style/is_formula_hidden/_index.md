@@ -3,7 +3,7 @@ title: is_formula_hidden fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 320
 url: /sv/aspose.cells/style/is_formula_hidden/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_formula_hidden(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

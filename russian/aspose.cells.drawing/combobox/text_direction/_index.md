@@ -1,15 +1,15 @@
 ---
 title: text_direction недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 980
+weight: 990
 url: /ru/aspose.cells.drawing/combobox/text_direction/
 is_root: false
 ---
 ##  text_direction недвижимость
 
-Получает/устанавливает направление потока текста для этого объекта.
+Получает/задает направление потока текста для этого объекта.
 
 ###  Пример
 
@@ -31,6 +31,6 @@ def text_direction(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ComboBox](/cells/python-net/ru/aspose.cells.drawing/combobox)
-* класс [TextDirectionType](/cells/python-net/ru/aspose.cells/textdirectiontype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ComboBox`](/cells/python-net/ru/aspose.cells.drawing/combobox)
+* класс [`TextDirectionType`](/cells/python-net/ru/aspose.cells/textdirectiontype)

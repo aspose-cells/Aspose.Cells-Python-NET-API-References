@@ -3,7 +3,7 @@ title: is_smart_art Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 630
+weight: 640
 url: /de/aspose.cells.drawing/dialogbox/is_smart_art/
 is_root: false
 ---
@@ -32,5 +32,5 @@ def is_smart_art(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [DialogBox](/cells/python-net/de/aspose.cells.drawing/dialogbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`DialogBox`](/cells/python-net/de/aspose.cells.drawing/dialogbox)

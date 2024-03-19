@@ -1,26 +1,26 @@
 ---
-title: العد BubbleSizeRepresents
+title: BubbleSizeRepresents التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 400
 url: /ar/aspose.cells.charts/bubblesizerepresents/
 is_root: false
 ---
-##  العد BubbleSizeRepresents
-يمثل ما يمثله حجم الفقاعة على مخطط فقاعي.
+##  BubbleSizeRepresents التعداد
+يمثل ما يمثله حجم الفقاعة على المخطط الفقاعي.
 
 
 
-يكشف نوع BubbleSizeRepresents الأعضاء التالية:
+يكشف النوع BubbleSizeRepresents عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| SIZE_IS_AREA | يمثل قيمة [Series.bubble_sizes](/cells/python-net/ar/aspose.cells.charts/series#bubble_sizes) مساحة الفقاعة.|
-| SIZE_IS_WIDTH | يمثل قيمة [Series.bubble_sizes](/cells/python-net/ar/aspose.cells.charts/series#bubble_sizes) عرض الفقاعة.|
+| SIZE_IS_AREA | تمثل قيمة [`Series.bubble_sizes`](/cells/python-net/ar/aspose.cells.charts/series#bubble_sizes) مساحة الفقاعة.|
+| SIZE_IS_WIDTH | تمثل قيمة [`Series.bubble_sizes`](/cells/python-net/ar/aspose.cells.charts/series#bubble_sizes) عرض الفقاعة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

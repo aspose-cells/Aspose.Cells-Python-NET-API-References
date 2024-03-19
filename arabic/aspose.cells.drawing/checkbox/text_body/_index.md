@@ -1,13 +1,13 @@
 ---
-title: text_body الملكية
+title: text_body عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 950
+weight: 960
 url: /ar/aspose.cells.drawing/checkbox/text_body/
 is_root: false
 ---
-##  text_body الملكية
+##  text_body عقار
 
 الحصول على إعداد نص الشكل وتعيينه.
 
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CheckBox](/cells/python-net/ar/aspose.cells.drawing/checkbox)
-* فئة [FontSettingCollection](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CheckBox`](/cells/python-net/ar/aspose.cells.drawing/checkbox)
+* فئة [`FontSettingCollection`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection)

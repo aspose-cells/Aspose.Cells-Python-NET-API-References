@@ -3,12 +3,12 @@ title: put_value yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 170
 url: /tr/aspose.cells/range/put_value/
 is_root: false
 ---
-##  put_value(string_value, is_converted, set_style) {#str-bool-bool}
-Aralığa bir değer koyar, uygunsa değer diğer veri tipine dönüştürülür ve hücrenin sayı formatı sıfırlanır.
+##  put_value {#str-bool-bool}
+Aralığa bir değer koyar, uygunsa değer başka bir veri türüne dönüştürülür ve hücrenin sayı formatı sıfırlanır.
 
 
 
@@ -22,10 +22,10 @@ def put_value(self, string_value, is_converted, set_style):
 | :- | :- | :- |
 | string_value | str | Girdi değeri|
 | is_converted | bool | Doğru: uygunsa diğer veri türüne dönüştürülür.|
-| set_style | bool | Doğru: diğer veri türüne dönüştürürken sayı biçimini hücrenin stiline ayarlayın|
+| set_style | bool | Doğru: diğer veri türlerine dönüştürürken sayı biçimini hücrenin stiline göre ayarlayın|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
+* modül [`aspose.cells`](../../)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)

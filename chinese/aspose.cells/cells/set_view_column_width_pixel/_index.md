@@ -1,13 +1,13 @@
 ---
 title: set_view_column_width_pixel方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 900
+weight: 890
 url: /zh/aspose.cells/cells/set_view_column_width_pixel/
 is_root: false
 ---
-##  set_view_column_width_pixel(column, pixels) {#int-int}
+##  set_view_column_width_pixel {#int-int}
 设置不同视图中列的宽度。
 
 
@@ -24,10 +24,10 @@ def set_view_column_width_pixel(self, column, pixels):
 | pixels | int |以像素为单位的宽度。|
 ### 评论
 
-如果当前视图类型为 [ViewType.PAGE_LAYOUT_VIEW](/cells/python-net/zh/aspose.cells/viewtype#PAGE_LAYOUT_VIEW)，则列宽与打印宽度相同。
+如果当前视图类型为[`ViewType.PAGE_LAYOUT_VIEW`](/cells/python-net/zh/aspose.cells/viewtype#PAGE_LAYOUT_VIEW)，则该列的宽度与打印宽度相同。
 
 
 ### 也可以看看
 
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

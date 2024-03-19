@@ -1,15 +1,15 @@
 ---
-title: down_bars الملكية
+title: down_bars عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 130
 url: /ar/aspose.cells.charts/series/down_bars/
 is_root: false
 ---
-##  down_bars الملكية
+##  down_bars عقار
 
-إرجاع عنصر [DropBars](/cells/python-net/ar/aspose.cells.charts/dropbars) يمثل الأعمدة السفلية على مخطط خطي.
+تقوم بإرجاع كائن [`DropBars`](/cells/python-net/ar/aspose.cells.charts/dropbars) الذي يمثل الأشرطة السفلية على المخطط الخطي.
 ينطبق فقط على المخططات الخطية.
 ###  تعريف:
 ```python
@@ -19,6 +19,6 @@ def down_bars(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DropBars](/cells/python-net/ar/aspose.cells.charts/dropbars)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DropBars`](/cells/python-net/ar/aspose.cells.charts/dropbars)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

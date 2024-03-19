@@ -1,28 +1,28 @@
 ---
-title: العد SortOnType
+title: SortOnType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2480
+weight: 2570
 url: /ar/aspose.cells/sortontype/
 is_root: false
 ---
-##  العد SortOnType
-نوع القيمة المصنفة.
+##  SortOnType التعداد
+نوع القيمة المرتبة.
 
 
 
-يكشف نوع SortOnType الأعضاء التالية:
+يكشف النوع SortOnType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| VALUE | الفرز حسب قيمة الخلايا.|
-| CELL_COLOR | الفرز حسب لون الخلايا.|
-| FONT_COLOR | يفرز حسب لون خط الخلايا.|
-| ICON | يفرز حسب الأيقونة الشرطية.|
+| VALUE | فرز حسب قيمة الخلايا.|
+| CELL_COLOR | فرز حسب لون الخلايا.|
+| FONT_COLOR | فرز حسب لون الخط الخلايا.|
+| ICON | فرز حسب الرمز الشرطي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

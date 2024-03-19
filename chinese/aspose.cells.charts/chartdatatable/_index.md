@@ -1,31 +1,31 @@
 ---
 title: ChartDataTable类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 70
 url: /zh/aspose.cells.charts/chartdatatable/
 is_root: false
 ---
 ## ChartDataTable类
-表示图表数据表。
+代表一个图表数据表。
 
 
 
-ChartDataTable 类型公开了以下成员：
+ChartDataTable 类型公开以下成员：
 
 ### 特性
 |属性|描述|
 | :- | :- |
-| [font](/cells/python-net/zh/aspose.cells.charts/chartdatatable/font) |获取一个[ChartDataTable.font](/cells/python-net/zh/aspose.cells.charts/chartdatatable#font)对象，代表指定图表数据表的字体设置。|
-| [auto_scale_font](/cells/python-net/zh/aspose.cells.charts/chartdatatable/auto_scale_font) |如果对象中的文本在对象大小更改时更改字体大小，则为真。<br/>默认值是true。|
-| [background_mode](/cells/python-net/zh/aspose.cells.charts/chartdatatable/background_mode) |获取和设置背景的显示方式|
-| [background](/cells/python-net/zh/aspose.cells.charts/chartdatatable/background) |获取和设置背景的显示方式|
-| [has_border_horizontal](/cells/python-net/zh/aspose.cells.charts/chartdatatable/has_border_horizontal) |如果图表数据表具有水平单元格边框则为真|
-| [has_border_vertical](/cells/python-net/zh/aspose.cells.charts/chartdatatable/has_border_vertical) |如果图表数据表具有垂直单元格边框则为真|
-| [has_border_outline](/cells/python-net/zh/aspose.cells.charts/chartdatatable/has_border_outline) |如果图表数据表有轮廓边框则为真|
-| [show_legend_key](/cells/python-net/zh/aspose.cells.charts/chartdatatable/show_legend_key) |如果数据标签图例键可见，则为真。|
-| [border](/cells/python-net/zh/aspose.cells.charts/chartdatatable/border) |返回表示对象边框的 Border 对象|
+| [font](/cells/python-net/zh/aspose.cells.charts/chartdatatable/font) |获取[`ChartDataTable.font`](/cells/python-net/zh/aspose.cells.charts/chartdatatable#font)对象，该对象代表指定图表数据表的字体设置。|
+| [auto_scale_font](/cells/python-net/zh/aspose.cells.charts/chartdatatable/auto_scale_font) |如果对象中的文本随对象大小更改而更改字体大小，则为 true。<br/>默认值是true。|
+| [background_mode](/cells/python-net/zh/aspose.cells.charts/chartdatatable/background_mode) |获取和设置背景的显示模式|
+| [background](/cells/python-net/zh/aspose.cells.charts/chartdatatable/background) |获取和设置背景的显示模式|
+| [has_border_horizontal](/cells/python-net/zh/aspose.cells.charts/chartdatatable/has_border_horizontal) |如果图表数据表具有水平单元格边框，则为 True|
+| [has_border_vertical](/cells/python-net/zh/aspose.cells.charts/chartdatatable/has_border_vertical) |如果图表数据表具有垂直单元格边框，则为 True|
+| [has_border_outline](/cells/python-net/zh/aspose.cells.charts/chartdatatable/has_border_outline) |如果图表数据表有轮廓边框，则为 True|
+| [show_legend_key](/cells/python-net/zh/aspose.cells.charts/chartdatatable/show_legend_key) |如果数据标签图例键可见，则为 true。|
+| [border](/cells/python-net/zh/aspose.cells.charts/chartdatatable/border) |返回一个Border对象，表示对象的边框|
 
 
 
@@ -71,4 +71,4 @@ workbook.save("book1.xls")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

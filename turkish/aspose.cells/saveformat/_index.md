@@ -3,7 +3,7 @@ title: SaveFormat numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2450
+weight: 2540
 url: /tr/aspose.cells/saveformat/
 is_root: false
 ---
@@ -12,50 +12,52 @@ is_root: false
 
 
 
-SaveFormat türü aşağıdaki üyeleri gösterir:
+SaveFormat türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| CSV |Virgülle Ayrılmış Değerler(CSV) metin dosyası.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [SaveFormat.CSV](/cells/python-net/tr/aspose.cells/saveformat#CSV) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.|
+| CSV | Virgülle Ayrılmış Değerler(CSV) metin dosyası.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [`SaveFormat.CSV`](/cells/python-net/tr/aspose.cells/saveformat#CSV) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.|
 | XLSX | Bir xlsx dosyasını temsil eder.|
 | XLSM | Makroları etkinleştiren bir xlsm dosyasını temsil eder.|
 | XLTX | Bir xltx dosyasını temsil eder.|
 | XLTM | Makroları etkinleştiren bir xltm dosyasını temsil eder.|
 | XLAM | Eklenti makrolarını etkinleştiren bir xltm dosyasını temsil eder.|
-| TSV | Sekmeyle Ayrılmış Değerler(TSV) metin dosyası.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [SaveFormat.TSV](/cells/python-net/tr/aspose.cells/saveformat#TSV) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.|
-| TAB_DELIMITED | [SaveFormat.TSV](/cells/python-net/tr/aspose.cells/saveformat#TSV) ile aynı, sekmeyle ayrılmış bir metin dosyasını temsil eder.|
+| TSV | Sekmeyle Ayrılmış Değerler(TSV) metin dosyası.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [`SaveFormat.TSV`](/cells/python-net/tr/aspose.cells/saveformat#TSV) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.|
+| TAB_DELIMITED | [`SaveFormat.TSV`](/cells/python-net/tr/aspose.cells/saveformat#TSV) ile aynı şekilde sekmeyle ayrılmış bir metin dosyasını temsil eder.|
 | HTML | Bir html dosyasını temsil eder.|
 | M_HTML | Bir mhtml dosyasını temsil eder.|
-| ODS | Belge Sayfası(ODS) dosyasını açın.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [SaveFormat.ODS](/cells/python-net/tr/aspose.cells/saveformat#ODS) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.|
+| ODS | Belge Sayfası(ODS) dosyasını açın.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [`SaveFormat.ODS`](/cells/python-net/tr/aspose.cells/saveformat#ODS) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.|
 | EXCEL_97_TO_2003 | Bir Excel97-2003 xls dosyasını temsil eder.|
 | SPREADSHEET_ML | Bir Excel 2003 xml dosyasını temsil eder.|
 | XLSB | Bir xlsb dosyasını temsil eder.|
-| AUTO | Dosyayı diske kaydediyorsanız, dosya biçimi dosya adının uzantısına göre değişir.<br/> Dosya akışa kaydediliyorsa, dosya formatı xlsx'tir.|
+| AUTO | Dosyayı diske kaydediyorsanız, dosya formatı dosya adının uzantısına uygun olacaktır.<br/>Dosyayı akışa kaydediyorsanız dosya formatı xlsx'tir.|
 | UNKNOWN | Tanınmayan biçimi temsil eder, kaydedilemez.|
-| PDF | Bir pdf dosyasını temsil eder.|
-| XPS |XPS (XML Kağıt Spesifikasyonu) formatı.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [SaveFormat.XPS](/cells/python-net/tr/aspose.cells/saveformat#XPS) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.|
-| TIFF | Bir TIFF dosyasını temsil eder.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [SaveFormat.TIFF](/cells/python-net/tr/aspose.cells/saveformat#TIFF) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.|
-| SVG | SVG dosyası.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [SaveFormat.SVG](/cells/python-net/tr/aspose.cells/saveformat#SVG) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.|
+| PDF | Bir Pdf dosyasını temsil eder.|
+| XPS | XPS (XML Kağıt Belirtimi) biçimi.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [`SaveFormat.XPS`](/cells/python-net/tr/aspose.cells/saveformat#XPS) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.|
+| TIFF | TIFF dosyasını temsil eder.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [`SaveFormat.TIFF`](/cells/python-net/tr/aspose.cells/saveformat#TIFF) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.|
+| SVG | SVG dosya.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [`SaveFormat.SVG`](/cells/python-net/tr/aspose.cells/saveformat#SVG) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.|
 | DIF | Veri Değişim Formatı.|
-| OTS | Belge Şablonu Sayfası (OTS) dosyasını açın.|
+| OTS | Belge Şablon Sayfası (OTS) dosyasını açın.|
 | XLT | Excel 97-2003 şablon dosyası.|
 | XML | Basit bir xml dosyasını temsil eder.|
 | NUMBERS | Bir sayı dosyasını temsil eder.|
-| MARKDOWN | İşaretleme belgesini temsil eder.|
-| FODS | OpenDocument Düz XML Elektronik Tablosu (.fods) dosya biçimini temsil eder.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [SaveFormat.FODS](/cells/python-net/tr/aspose.cells/saveformat#FODS) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.|
-| SXC | StarOffice Calc Hesap Tablosu (.sxc) dosya biçimini temsil eder.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [SaveFormat.SXC](/cells/python-net/tr/aspose.cells/saveformat#SXC) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.|
+| MARKDOWN | Markdown belgesini temsil eder.|
+| FODS | OpenDocument Düz XML Elektronik Tablosu (.fods) dosya biçimini temsil eder.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [`SaveFormat.FODS`](/cells/python-net/tr/aspose.cells/saveformat#FODS) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.|
+| SXC | StarOffice Calc Elektronik Tablosu (.sxc) dosya formatını temsil eder.<br/> NOT: Bu üye artık kullanılmıyor. Yerine,<br/>lütfen [`SaveFormat.SXC`](/cells/python-net/tr/aspose.cells/saveformat#SXC) özelliğini kullanın.<br/> Bu mülk, Nisan 2021'den itibaren 6 ay sonra kaldırılacaktır.<br/> Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.|
 | PPTX | .pptx dosyasını temsil eder.|
-| DOCX |.docx dosyasını temsil eder.|
-| EMF | Windows Gelişmiş Meta Dosyası.|
+| DOCX | .docx dosyasını temsil eder.|
+| EMF | Windows Geliştirilmiş Meta Dosyası.|
 | JPG | JPEG JFIF.|
 | PNG | Taşınabilir Ağ Grafikleri.|
-| BMP | Windows Bit Eşlem|
+| BMP | Windows Bit eşlem|
 | GIF | Gif|
 | JSON | Json|
-| SQL_SCRIPT | sql|
+| SQL_SCRIPT | SQL|
+| X_HTML | XHtml dosyasını temsil eder.|
+| EPUB | Epub dosyasını temsil eder.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

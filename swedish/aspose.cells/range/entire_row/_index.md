@@ -3,7 +3,7 @@ title: entire_row fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 310
 url: /sv/aspose.cells/range/entire_row/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def entire_row(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

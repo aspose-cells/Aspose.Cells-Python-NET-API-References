@@ -3,7 +3,7 @@ title: width_cm proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 240
+weight: 250
 url: /it/aspose.cells/comment/width_cm/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def width_cm(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Comment](/cells/python-net/it/aspose.cells/comment)
+* modulo [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/it/aspose.cells/comment)

@@ -12,6 +12,6 @@ is_root: false
 ###  Klasser
 | Klass| Beskrivning|
 | :- | :- |
-| [PdfSecurityOptions](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions) | Inställningar för pdf vid konvertering av excel till pdf, PDF/A tillåter inte säkerhetsinställningar.|
+| [`PdfSecurityOptions`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions) | Alternativ för kryptering och åtkomstbehörigheter för ett PDF-dokument.<br/> PDF/A tillåter inte säkerhetsinställningar.|
 
 

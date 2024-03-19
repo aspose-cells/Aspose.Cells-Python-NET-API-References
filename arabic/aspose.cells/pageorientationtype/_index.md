@@ -1,18 +1,18 @@
 ---
-title: العد PageOrientationType
+title: PageOrientationType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2310
+weight: 2400
 url: /ar/aspose.cells/pageorientationtype/
 is_root: false
 ---
-##  العد PageOrientationType
+##  PageOrientationType التعداد
 يمثل ثوابت اتجاه الطباعة.
 
 
 
-يكشف نوع PageOrientationType الأعضاء التالية:
+يكشف النوع PageOrientationType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -1,14 +1,14 @@
 ---
 title: set_row_height_pixel метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 890
+weight: 880
 url: /ru/aspose.cells/cells/set_row_height_pixel/
 is_root: false
 ---
-##  set_row_height_pixel(row, pixels) {#int-int}
-Задает высоту строки в пикселях.
+##  set_row_height_pixel {#int-int}
+Устанавливает высоту строки в пикселях.
 
 
 
@@ -26,5 +26,5 @@ def set_row_height_pixel(self, row, pixels):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

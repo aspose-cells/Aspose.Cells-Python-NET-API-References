@@ -1,22 +1,22 @@
 ---
-title: background الملكية
+title: background عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells.charts/legend/background/
 is_root: false
 ---
-##  background الملكية
+##  background عقار
 
-الحصول على وضبط وضع العرض background
+الحصول على وضع العرض لـ background وتعيينه
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
+ ملاحظة: هذا العضو قديم الآن. بدلاً من،
  الرجاء استخدام خاصية ChartFrame.BackgroundMode.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ كانون الثاني (يناير) 2012.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ يناير 2012.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -28,6 +28,6 @@ def background(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [BackgroundMode](/cells/python-net/ar/aspose.cells.charts/backgroundmode)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`BackgroundMode`](/cells/python-net/ar/aspose.cells.charts/backgroundmode)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)

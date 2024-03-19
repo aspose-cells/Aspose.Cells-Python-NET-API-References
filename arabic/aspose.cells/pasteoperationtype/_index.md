@@ -1,18 +1,18 @@
 ---
-title: العد PasteOperationType
+title: PasteOperationType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2350
+weight: 2440
 url: /ar/aspose.cells/pasteoperationtype/
 is_root: false
 ---
-##  العد PasteOperationType
+##  PasteOperationType التعداد
 يمثل نوع العملية عند لصق النطاق.
 
 
 
-يكشف نوع PasteOperationType الأعضاء التالية:
+يكشف النوع PasteOperationType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -26,4 +26,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

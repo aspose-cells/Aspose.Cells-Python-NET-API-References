@@ -1,9 +1,9 @@
 ---
 title: interrupt_monitor недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 170
+weight: 200
 url: /ru/aspose.cells/txtloadoptions/interrupt_monitor/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def interrupt_monitor(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AbstractInterruptMonitor](/cells/python-net/ru/aspose.cells/abstractinterruptmonitor)
-* класс [TxtLoadOptions](/cells/python-net/ru/aspose.cells/txtloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`AbstractInterruptMonitor`](/cells/python-net/ru/aspose.cells/abstractinterruptmonitor)
+* класс [`TxtLoadOptions`](/cells/python-net/ru/aspose.cells/txtloadoptions)

@@ -3,7 +3,7 @@ title: DefaultStyleSettings klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 480
 url: /sv/aspose.cells/defaultstylesettings/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen DefaultStyleSettings avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

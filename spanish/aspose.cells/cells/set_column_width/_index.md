@@ -1,13 +1,13 @@
 ---
-title: set_column_width método
+title: método set_column_width
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 840
+weight: 830
 url: /es/aspose.cells/cells/set_column_width/
 is_root: false
 ---
-##  set_column_width(column, width) {#int-float}
+##  set_column_width {#int-float}
 Establece el ancho de la columna especificada en la vista normal.
 
 
@@ -24,10 +24,10 @@ def set_column_width(self, column, width):
 | width | float | Ancho de la columna. El ancho de la columna debe estar entre 0 y 255.|
 ###  Observaciones
 
-Para ocultar una columna, establece el ancho de columna en cero.
+Para ocultar una columna, establezca el ancho de la columna en cero.
 
 
 ###  Ver también
 
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

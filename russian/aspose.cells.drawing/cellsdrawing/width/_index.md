@@ -1,9 +1,9 @@
 ---
 title: width недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /ru/aspose.cells.drawing/cellsdrawing/width/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CellsDrawing](/cells/python-net/ru/aspose.cells.drawing/cellsdrawing)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CellsDrawing`](/cells/python-net/ru/aspose.cells.drawing/cellsdrawing)

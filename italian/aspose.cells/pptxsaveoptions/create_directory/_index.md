@@ -3,13 +3,13 @@ title: create_directory proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 80
+weight: 90
 url: /it/aspose.cells/pptxsaveoptions/create_directory/
 is_root: false
 ---
 ##  create_directory proprietà
 
-Se true e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.
+Se vero e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.
 
 ###  Osservazioni
 
@@ -25,5 +25,5 @@ def create_directory(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PptxSaveOptions](/cells/python-net/it/aspose.cells/pptxsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`PptxSaveOptions`](/cells/python-net/it/aspose.cells/pptxsaveoptions)

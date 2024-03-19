@@ -1,18 +1,18 @@
 ---
-title: classe HorizontalPageBreakCollection
+title: HorizontalPageBreakCollection classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 760
+weight: 790
 url: /it/aspose.cells/horizontalpagebreakcollection/
 is_root: false
 ---
-##  classe HorizontalPageBreakCollection
-Incapsula una raccolta di oggetti [HorizontalPageBreak](/cells/python-net/it/aspose.cells/horizontalpagebreak).
+##  HorizontalPageBreakCollection classe
+Incapsula una raccolta di [`HorizontalPageBreak`](/cells/python-net/it/aspose.cells/horizontalpagebreak) oggetti.
 
 
 
-Il tipo HorizontalPageBreakCollection espone i membri seguenti:
+Il tipo HorizontalPageBreakCollection espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -23,18 +23,18 @@ Il tipo HorizontalPageBreakCollection espone i membri seguenti:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [add(row, start_column, end_column)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/add/#int-int-int) | Aggiunge un'interruzione di pagina orizzontale alla raccolta.|
-| [add(row)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/add/#int) | Aggiunge un'interruzione di pagina orizzontale alla raccolta.|
-| [add(row, column)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/add/#int-int) | Aggiunge un'interruzione di pagina orizzontale alla raccolta.|
-| [add(cell_name)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/add/#str) | Aggiunge un'interruzione di pagina orizzontale alla raccolta.|
-| [copy_to(array)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/copy_to/#list) | Copia l'intero elenco di matrici in un elenco di matrici unidimensionale compatibile, a partire dall'inizio dell'elenco di matrici di destinazione.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/copy_to/#int-list-int-int) |Copia un intervallo di elementi dall'elenco di matrici a un elenco di matrici unidimensionale compatibile, a partire dall'indice specificato dell'elenco di matrici di destinazione.|
-| [index_of(item, index)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/index_of/#HorizontalPageBreak-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che si estende dall'indice specificato all'ultimo elemento.|
-| [index_of(item, index, count)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/index_of/#HorizontalPageBreak-int-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che inizia dall'indice specificato e contiene il numero specificato di elementi.|
-| [last_index_of(item)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/last_index_of/#HorizontalPageBreak) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intero elenco di matrici.|
-| [last_index_of(item, index)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/last_index_of/#HorizontalPageBreak-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che si estende dal primo elemento all'indice specificato.|
-| [last_index_of(item, index, count)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/last_index_of/#HorizontalPageBreak-int-int) |Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che contiene il numero specificato di elementi e termina con l'indice specificato.|
-| [binary_search(item)](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/binary_search/#HorizontalPageBreak) | Cerca un elemento nell'intero elenco di matrici ordinate utilizzando l'operatore di confronto predefinito e restituisce l'indice in base zero dell'elemento.|
+| [add](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/add/#int-int-int) |Aggiunge un'interruzione di pagina orizzontale alla raccolta.|
+| [add](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/add/#int) |Aggiunge un'interruzione di pagina orizzontale alla raccolta.|
+| [add](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/add/#int-int) |Aggiunge un'interruzione di pagina orizzontale alla raccolta.|
+| [add](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/add/#str) |Aggiunge un'interruzione di pagina orizzontale alla raccolta.|
+| [copy_to](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/copy_to/#list) | Copia l'intero elenco di matrici in un elenco di matrici unidimensionali compatibile, a partire dall'inizio dell'elenco di matrici di destinazione.|
+| [copy_to](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/copy_to/#int-list-int-int) | Copia un intervallo di elementi dall'elenco di matrici a un elenco di matrici unidimensionali compatibile, a partire dall'indice specificato dell'elenco di matrici di destinazione.|
+| [index_of](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/index_of/#aspose.cells.HorizontalPageBreak-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che si estende dall'indice specificato all'ultimo elemento.|
+| [index_of](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/index_of/#aspose.cells.HorizontalPageBreak-int-int) |Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che inizia in corrispondenza dell'indice specificato e contiene il numero di elementi specificato.|
+| [last_index_of](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/last_index_of/#aspose.cells.HorizontalPageBreak) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intero elenco di matrici.|
+| [last_index_of](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/last_index_of/#aspose.cells.HorizontalPageBreak-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che si estende dal primo elemento all'indice specificato.|
+| [last_index_of](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/last_index_of/#aspose.cells.HorizontalPageBreak-int-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che contiene il numero di elementi specificato e termina con l'indice specificato.|
+| [binary_search](/cells/python-net/it/aspose.cells/horizontalpagebreakcollection/binary_search/#aspose.cells.HorizontalPageBreak) | Cerca un elemento nell'intero elenco di array ordinato utilizzando l'operatore di confronto predefinito e restituisce l'indice in base zero dell'elemento.|
 
 
 
@@ -51,5 +51,5 @@ excel.worksheets[0].vertical_page_breaks.add("G5")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
-* classe [HorizontalPageBreak](/cells/python-net/it/aspose.cells/horizontalpagebreak)
+* modulo [`aspose.cells`](..)
+* classe [`HorizontalPageBreak`](/cells/python-net/it/aspose.cells/horizontalpagebreak)

@@ -1,18 +1,18 @@
 ---
-title: SortOrder enumerazione
+title: Enumerazione SortOrder
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2490
+weight: 2580
 url: /it/aspose.cells/sortorder/
 is_root: false
 ---
-##  SortOrder enumerazione
+##  Enumerazione SortOrder
 Rappresenta l'ordinamento per l'intervallo di dati.
 
 
 
-Il tipo SortOrder espone i membri seguenti:
+Il tipo SortOrder espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -23,4 +23,4 @@ Il tipo SortOrder espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

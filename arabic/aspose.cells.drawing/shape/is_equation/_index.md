@@ -1,13 +1,13 @@
 ---
-title: is_equation الملكية
+title: is_equation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 530
 url: /ar/aspose.cells.drawing/shape/is_equation/
 is_root: false
 ---
-##  is_equation الملكية
+##  is_equation عقار
 
 الإشارة إلى ما إذا كان الشكل يحتوي على معادلة فقط.
 
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Shape](/cells/python-net/ar/aspose.cells.drawing/shape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape)

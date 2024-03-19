@@ -1,13 +1,13 @@
 ---
-title: geometry الملكية
+title: geometry عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 460
+weight: 470
 url: /ar/aspose.cells.drawing/oleobject/geometry/
 is_root: false
 ---
-##  geometry الملكية
+##  geometry عقار
 
 يحصل على geometry
 
@@ -15,7 +15,7 @@ is_root: false
 
 ```python
 
-if len(shape.Geometry.ShapeAdjustValues) == 0:
+if shape.geometry != null  and len(shape.geometry.shape_adjust_values) == 0:
     print("No geometry path.")
 
 ```
@@ -27,6 +27,6 @@ def geometry(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Geometry](/cells/python-net/ar/aspose.cells.drawing/geometry)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Geometry`](/cells/python-net/ar/aspose.cells.drawing/geometry)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

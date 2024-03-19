@@ -1,14 +1,14 @@
 ---
-title: to_image método
+title: método to_image
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 40
+weight: 50
 url: /es/aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
-##  to_image(stream) {#io.RawIOBase}
-Renderice todo el libro de trabajo como imagen Tiff para transmitir.
+##  to_image {#io.RawIOBase}
+Renderice todo el libro como imagen Tiff para transmitirlo.
 
 
 
@@ -23,8 +23,8 @@ def to_image(self, stream):
 | stream | io.RawIOBase | el flujo de la imagen de salida|
 
 
-##  to_image(filename) {#str}
-Renderice todo el libro de trabajo como imagen Tiff en un archivo.
+##  to_image {#str}
+Renderice todo el libro como imagen Tiff en un archivo.
 
 
 
@@ -39,8 +39,8 @@ def to_image(self, filename):
 | filename | str | el nombre de archivo de la imagen de salida|
 
 
-##  to_image(page_index, file_name) {#int-str}
-Renderizar cierta página a un archivo.
+##  to_image {#int-str}
+Renderiza cierta página en un archivo.
 
 
 
@@ -56,8 +56,8 @@ def to_image(self, page_index, file_name):
 | file_name | str | nombre de archivo de la imagen de salida|
 
 
-##  to_image(page_index, stream) {#int-io.RawIOBase}
-Renderizar cierta página a una secuencia.
+##  to_image {#int-io.RawIOBase}
+Renderiza cierta página en una secuencia.
 
 
 
@@ -75,5 +75,5 @@ def to_image(self, page_index, stream):
 
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [WorkbookRender](/cells/python-net/es/aspose.cells.rendering/workbookrender)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`WorkbookRender`](/cells/python-net/es/aspose.cells.rendering/workbookrender)

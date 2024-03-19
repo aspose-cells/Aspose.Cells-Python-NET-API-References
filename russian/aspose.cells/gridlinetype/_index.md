@@ -1,9 +1,9 @@
 ---
 title: GridlineType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2120
+weight: 2190
 url: /ru/aspose.cells/gridlinetype/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-Тип GridlineType предоставляет следующие члены:
+Тип GridlineType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | DOTTED | Представляет собой пунктирную линию.|
-| HAIR | Представляет собой линию роста волос.|
+| HAIR | Обозначает линию волос.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

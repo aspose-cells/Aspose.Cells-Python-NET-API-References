@@ -3,7 +3,7 @@ title: display_as_icon Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 380
+weight: 400
 url: /de/aspose.cells.drawing/oleobject/display_as_icon/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def display_as_icon(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [OleObject](/cells/python-net/de/aspose.cells.drawing/oleobject)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`OleObject`](/cells/python-net/de/aspose.cells.drawing/oleobject)

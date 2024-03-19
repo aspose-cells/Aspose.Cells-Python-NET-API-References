@@ -1,17 +1,17 @@
 ---
 title: is_row_hidden метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 770
+weight: 760
 url: /ru/aspose.cells/cells/is_row_hidden/
 is_root: false
 ---
-##  is_row_hidden(row_index) {#int}
+##  is_row_hidden {#int}
 Проверяет, скрыта ли строка по данному индексу.
 
 
-###  Возвращает
+###  Возврат
 
 true, если строка скрыта
 
@@ -29,5 +29,5 @@ def is_row_hidden(self, row_index):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

@@ -3,12 +3,12 @@ title: ExceptionType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2020
+weight: 2090
 url: /de/aspose.cells/exceptiontype/
 is_root: false
 ---
 ##  ExceptionType Aufzählung
-Stellt benutzerdefinierten Ausnahmetypcode dar.
+Stellt einen benutzerdefinierten Ausnahmetypcode dar.
 
 
 
@@ -19,15 +19,15 @@ Der Typ ExceptionType macht die folgenden Member verfügbar:
 | :- | :- |
 | CHART | Ungültige Diagrammeinstellung.|
 | DATA_TYPE | Ungültige Datentypeinstellung.|
-| DATA_VALIDATION | Ungültige Datenüberprüfungseinstellung.|
-| CONDITIONAL_FORMATTING | Ungültige Datenüberprüfungseinstellung.|
+| DATA_VALIDATION | Ungültige Datenvalidierungseinstellung.|
+| CONDITIONAL_FORMATTING | Ungültige Datenvalidierungseinstellung.|
 | FILE_FORMAT | Ungültiges Dateiformat.|
 | FORMULA | Ungültige Formel.|
 | INVALID_DATA | Ungültige Daten.|
 | INVALID_OPERATOR | Ungültiger Operator.|
 | INCORRECT_PASSWORD | Falsches Passwort.|
 | LICENSE | Lizenzbezogene Fehler.|
-| LIMITATION |Fehler außerhalb der MS Excel-Beschränkung.|
+| LIMITATION | Fehler aufgrund von MS Excel-Einschränkungen.|
 | PAGE_SETUP | Ungültige Seiteneinrichtungseinstellung.|
 | PIVOT_TABLE | Ungültige PivotTable-Einstellung.|
 | SHAPE | Ungültige Zeichnungsobjekteinstellung.|
@@ -36,13 +36,13 @@ Der Typ ExceptionType macht die folgenden Member verfügbar:
 | SHEET_TYPE | Ungültiger Arbeitsblatttyp.|
 | INTERRUPTED | Der Vorgang wird unterbrochen.|
 | IO | Die Datei ist ungültig.|
-| PERMISSION | Zum Öffnen dieser Datei ist eine Berechtigung erforderlich.|
+| PERMISSION |Zum Öffnen dieser Datei ist eine Genehmigung erforderlich.|
 | UNSUPPORTED_FEATURE | Nicht unterstützte Funktion.|
-| UNSUPPORTED_STREAM | Nicht unterstützter Stream, der geöffnet werden soll.|
-| UNDISCLOSED_INFORMATION | Dateien enthält einige nicht offengelegte Informationen.|
-| FILE_CORRUPTED | Dateiinhalt ist beschädigt.|
+| UNSUPPORTED_STREAM | Nicht unterstützter Stream zum Öffnen.|
+| UNDISCLOSED_INFORMATION | Die Dateien enthalten einige nicht offengelegte Informationen.|
+| FILE_CORRUPTED | Der Dateiinhalt ist beschädigt.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

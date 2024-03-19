@@ -1,15 +1,15 @@
 ---
-title: top_to_corner 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: top_to_corner属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /zh/aspose.cells.drawing/customxmlshape/top_to_corner/
 is_root: false
 ---
-## top_to_corner 属性
+## top_to_corner属性
 
-获取和设置形状相对于工作表上边框的垂直偏移量，以像素为单位。
+获取和设置形状距工作表顶部边框的垂直偏移量（以像素为单位）。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CustomXmlShape](/cells/python-net/zh/aspose.cells.drawing/customxmlshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CustomXmlShape`](/cells/python-net/zh/aspose.cells.drawing/customxmlshape)

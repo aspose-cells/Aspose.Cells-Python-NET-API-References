@@ -1,20 +1,20 @@
 ---
-title: tab_color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: tab_color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 790
+weight: 810
 url: /zh/aspose.cells/worksheet/tab_color/
 is_root: false
 ---
-## tab_color 属性
+## tab_color属性
 
-代表工作表标签颜色。
+代表工作表选项卡颜色。
 
 ### 评论
 
-此功能仅在 ExcelXP(Excel2002) 及更高版本中支持。
-如果您将文件保存为 Excel97 或 Excel2000 格式，它将被省略。
+仅ExcelXP(Excel2002)及以上版本支持此功能。
+如果您将文件另存为Excel97或Excel2000格式，则会被省略。
 ### 定义：
 ```python
 @property
@@ -26,5 +26,5 @@ def tab_color(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Worksheet](/cells/python-net/zh/aspose.cells/worksheet)
+* 模块[`aspose.cells`](../../)
+* 类 [`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet)

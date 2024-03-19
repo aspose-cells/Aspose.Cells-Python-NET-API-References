@@ -3,7 +3,7 @@ title: allow_edit_ranges mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 360
 url: /tr/aspose.cells/worksheet/allow_edit_ranges/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def allow_edit_ranges(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ProtectedRangeCollection](/cells/python-net/tr/aspose.cells/protectedrangecollection)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`ProtectedRangeCollection`](/cells/python-net/tr/aspose.cells/protectedrangecollection)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

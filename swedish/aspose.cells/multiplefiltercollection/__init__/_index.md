@@ -7,8 +7,8 @@ weight: 10
 url: /sv/aspose.cells/multiplefiltercollection/__init__/
 is_root: false
 ---
-##  MultipleFilterCollection() {#}
-Konstruerar en ny instans av MultipleFilterCollection
+##  __i det__ {#}
+Konstruerar en ny instans.
 
 
 
@@ -22,5 +22,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [MultipleFilterCollection](/cells/python-net/sv/aspose.cells/multiplefiltercollection)
+* modul [`aspose.cells`](../../)
+* klass [`MultipleFilterCollection`](/cells/python-net/sv/aspose.cells/multiplefiltercollection)

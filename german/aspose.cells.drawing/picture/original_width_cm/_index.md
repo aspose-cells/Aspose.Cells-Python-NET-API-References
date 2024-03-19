@@ -3,13 +3,13 @@ title: original_width_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 960
+weight: 970
 url: /de/aspose.cells.drawing/picture/original_width_cm/
 is_root: false
 ---
 ##  original_width_cm Eigentum
 
-Ruft die Originalbreite des Bildes in Zentimetern ab.
+Ruft die ursprüngliche Breite des Bildes in der Einheit Zentimeter ab.
 
 ###  Beispiel
 
@@ -37,5 +37,5 @@ def original_width_cm(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Picture](/cells/python-net/de/aspose.cells.drawing/picture)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Picture`](/cells/python-net/de/aspose.cells.drawing/picture)

@@ -3,7 +3,7 @@ title: is_encrypted propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 280
+weight: 230
 url: /fr/aspose.cells/workbooksettings/is_encrypted/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_encrypted(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [WorkbookSettings](/cells/python-net/fr/aspose.cells/workbooksettings)
+* module [`aspose.cells`](../../)
+* classe [`WorkbookSettings`](/cells/python-net/fr/aspose.cells/workbooksettings)

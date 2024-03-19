@@ -1,15 +1,15 @@
 ---
-title: top_crop 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: top_crop属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 140
 url: /zh/aspose.cells.drawing/msoformatpicture/top_crop/
 is_root: false
 ---
-## top_crop 属性
+## top_crop属性
 
-表示表示裁剪矩形顶部的位置，表示为与图像高度的比率。
+表示所表示的裁剪矩形顶部的位置，以图像高度的比率表示。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def top_crop(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [MsoFormatPicture](/cells/python-net/zh/aspose.cells.drawing/msoformatpicture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`MsoFormatPicture`](/cells/python-net/zh/aspose.cells.drawing/msoformatpicture)

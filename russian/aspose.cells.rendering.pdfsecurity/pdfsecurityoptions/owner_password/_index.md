@@ -1,6 +1,6 @@
 ---
 title: owner_password недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 110
@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  owner_password недвижимость
 
-Получает или задает пароль владельца документа
+Получает или задает пароль владельца для зашифрованного документа PDF.
+
+###  Примечания
+
+Пароль владельца позволяет пользователю открыть зашифрованный документ PDF без каких-либо ограничений доступа.
 ###  Определение:
 ```python
 @property
@@ -21,5 +25,5 @@ def owner_password(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering.pdfsecurity](../../)
-* класс [PdfSecurityOptions](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* модуль [`aspose.cells.rendering.pdfsecurity`](../../)
+* класс [`PdfSecurityOptions`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

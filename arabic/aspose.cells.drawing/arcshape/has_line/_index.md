@@ -1,15 +1,15 @@
 ---
-title: has_line الملكية
+title: has_line عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 470
+weight: 480
 url: /ar/aspose.cells.drawing/arcshape/has_line/
 is_root: false
 ---
-##  has_line الملكية
+##  has_line عقار
 
-الحصول على وتعيين حد الخط للشكل مرئي.
+يحصل على ويحدد حدود الخط للشكل مرئية.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def has_line(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ArcShape](/cells/python-net/ar/aspose.cells.drawing/arcshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ArcShape`](/cells/python-net/ar/aspose.cells.drawing/arcshape)

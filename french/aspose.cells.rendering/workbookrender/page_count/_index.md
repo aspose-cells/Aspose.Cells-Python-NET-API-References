@@ -3,7 +3,7 @@ title: page_count propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 80
 url: /fr/aspose.cells.rendering/workbookrender/page_count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def page_count(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [WorkbookRender](/cells/python-net/fr/aspose.cells.rendering/workbookrender)
+* module [`aspose.cells.rendering`](../../)
+* classe [`WorkbookRender`](/cells/python-net/fr/aspose.cells.rendering/workbookrender)

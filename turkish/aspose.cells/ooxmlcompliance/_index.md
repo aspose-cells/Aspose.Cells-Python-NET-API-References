@@ -3,24 +3,24 @@ title: OoxmlCompliance numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2270
+weight: 2360
 url: /tr/aspose.cells/ooxmlcompliance/
 is_root: false
 ---
 ##  OoxmlCompliance numaralandırma
-Xlsx biçiminde kaydederken hangi OOXML spesifikasyonunun kullanılacağını belirlemeye izin verir.
+Xlsx formatında kaydederken hangi OOXML spesifikasyonunun kullanılacağını belirtmenize olanak sağlar.
 
 
 
-OoxmlCompliance türü aşağıdaki üyeleri gösterir:
+OoxmlCompliance türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | ECMA_376_2006 | ECMA-376 1. Baskı, 2006.|
-| ISO_29500_2008_STRICT | ISO/IEC 29500:2008 Katı uyumluluk düzeyi.|
+| ISO_29500_2008_STRICT | ISO/IEC 29500:2008 Sıkı uyumluluk düzeyi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

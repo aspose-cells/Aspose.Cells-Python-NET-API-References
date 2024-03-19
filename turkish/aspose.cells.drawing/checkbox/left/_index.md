@@ -3,13 +3,13 @@ title: left mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 680
+weight: 690
 url: /tr/aspose.cells.drawing/checkbox/left/
 is_root: false
 ---
 ##  left mülk
 
-Şeklin left sütunundan yatay uzaklığını piksel birimi cinsinden temsil eder.
+Şeklin left sütunundan yatay uzaklığını piksel cinsinden temsil eder.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def left(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CheckBox](/cells/python-net/tr/aspose.cells.drawing/checkbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CheckBox`](/cells/python-net/tr/aspose.cells.drawing/checkbox)

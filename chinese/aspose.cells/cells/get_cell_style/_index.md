@@ -1,17 +1,17 @@
 ---
 title: get_cell_style方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 340
+weight: 320
 url: /zh/aspose.cells/cells/get_cell_style/
 is_root: false
 ---
-##  get_cell_style(row, column) {#int-int}
+##  get_cell_style {#int-int}
 获取给定单元格的样式。
 
 
-### 返回
+### 退货
 
 给定单元格的样式。
 
@@ -30,5 +30,5 @@ def get_cell_style(self, row, column):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

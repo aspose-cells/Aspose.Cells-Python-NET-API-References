@@ -1,15 +1,15 @@
 ---
-title: border_weight الملكية
+title: border_weight عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ar/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
-##  border_weight الملكية
+##  border_weight عقار
 
-الحصول على أو تحديد وزن خط حد الصورة بوحدات pt.
+الحصول على أو تعيين وزن الخط الحدودي للصورة بوحدات pt.
 
 ###  مثال
 
@@ -27,7 +27,7 @@ pic = worksheet.pictures[imgIndex]
 # Set the border color of the picture
 pic.border_line_color = Color.red
 # Set the border width of the picture
-pic.border_weight = 3
+pic.border_weight = 3.0
 # Save the excel file.
 workbook.save("result.xlsx")
 
@@ -43,5 +43,5 @@ def border_weight(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

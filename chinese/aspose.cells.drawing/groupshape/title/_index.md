@@ -1,13 +1,13 @@
 ---
-title: title 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: title属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /zh/aspose.cells.drawing/groupshape/title/
 is_root: false
 ---
-## title 属性
+## title属性
 
 指定当前形状对象的 title（标题）。
 
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GroupShape](/cells/python-net/zh/aspose.cells.drawing/groupshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GroupShape`](/cells/python-net/zh/aspose.cells.drawing/groupshape)

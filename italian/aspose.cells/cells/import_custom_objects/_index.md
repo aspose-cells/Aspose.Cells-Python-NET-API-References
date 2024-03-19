@@ -1,13 +1,13 @@
 ---
-title: metodo import_custom_objects
+title: Metodo import_custom_objects
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 640
+weight: 630
 url: /it/aspose.cells/cells/import_custom_objects/
 is_root: false
 ---
-##  import_custom_objects(list, first_row, first_column, options) {#list-int-int-ImportTableOptions}
+##  import_custom_objects {#list-int-int-aspose.cells.ImportTableOptions}
 Importa oggetti personalizzati.
 
 
@@ -27,12 +27,12 @@ def import_custom_objects(self, list, first_row, first_column, options):
 | list | list | L'oggetto personalizzato|
 | first_row | int | Il numero di riga della prima cella in cui importare.|
 | first_column | int | Il numero di colonna della prima cella in cui importare.|
-| options | [ImportTableOptions](/cells/python-net/it/aspose.cells/importtableoptions) | Le opzioni di importazione.|
+| options | [`ImportTableOptions`](/cells/python-net/it/aspose.cells/importtableoptions) | Le opzioni di importazione.|
 ###  Osservazioni
 
 Gli oggetti personalizzati devono essere dello stesso tipo.
 
-##  import_custom_objects(list, property_names, is_property_name_shown, first_row, first_column, row_number, insert_rows, date_format_string, convert_string_to_number) {#list-list-bool-int-int-int-bool-str-bool}
+##  import_custom_objects {#list-list-bool-int-int-int-bool-str-bool}
 
 Importa oggetti personalizzati.
 
@@ -56,9 +56,9 @@ def import_custom_objects(self, list, property_names, is_property_name_shown, fi
 | first_row | int | Il numero di riga della prima cella in cui importare.|
 | first_column | int | Il numero di colonna della prima cella in cui importare.|
 | row_number | int | Numero di righe da importare.|
-| insert_rows | bool | Indica se vengono aggiunte ulteriori righe per adattare i dati.|
+| insert_rows | bool | Indica se vengono aggiunte righe aggiuntive per adattare i dati.|
 | date_format_string | str | Stringa del formato della data per le celle.|
-| convert_string_to_number | bool | Indica se questo metodo proverà a convertire la stringa in numero.|
+| convert_string_to_number | bool | Indica se questo metodo tenterà di convertire la stringa in numero.|
 ###  Osservazioni
 
 Gli oggetti personalizzati devono essere dello stesso tipo.
@@ -66,5 +66,5 @@ Gli oggetti personalizzati devono essere dello stesso tipo.
 
 ###  Guarda anche
 
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

@@ -1,13 +1,13 @@
 ---
-title: is_automatic_rotation الملكية
+title: is_automatic_rotation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells.charts/ticklabels/is_automatic_rotation/
 is_root: false
 ---
-##  is_automatic_rotation الملكية
+##  is_automatic_rotation عقار
 
 يشير إلى ما إذا كانت زاوية الدوران تلقائية
 ###  تعريف:
@@ -21,5 +21,5 @@ def is_automatic_rotation(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [TickLabels](/cells/python-net/ar/aspose.cells.charts/ticklabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`TickLabels`](/cells/python-net/ar/aspose.cells.charts/ticklabels)

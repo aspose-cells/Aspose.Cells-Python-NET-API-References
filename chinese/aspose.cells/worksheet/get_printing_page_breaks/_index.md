@@ -1,17 +1,17 @@
 ---
 title: get_printing_page_breaks方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 150
+weight: 170
 url: /zh/aspose.cells/worksheet/get_printing_page_breaks/
 is_root: false
 ---
-##  get_printing_page_breaks(options) {#aspose.cells.rendering.ImageOrPrintOptions}
+##  get_printing_page_breaks {#aspose.cells.rendering.ImageOrPrintOptions}
 获取自动分页符。
 
 
-### 返回
+### 退货
 
 自动分页区域。
 
@@ -32,5 +32,5 @@ def get_printing_page_breaks(self, options):
 
 ### 也可以看看
 
-* 模块 [aspose.cells](../../)
-* 类 [Worksheet](/cells/python-net/zh/aspose.cells/worksheet)
+* 模块[`aspose.cells`](../../)
+* 类 [`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet)

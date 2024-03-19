@@ -1,9 +1,9 @@
 ---
 title: WarningType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2670
+weight: 2760
 url: /zh/aspose.cells/warningtype/
 is_root: false
 ---
@@ -12,12 +12,12 @@ is_root: false
 
 
 
-WarningType 类型公开了以下成员：
+WarningType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| FONT_SUBSTITUTION |字体替换警告类型<br/>当未找到字体时，可以获取此警告类型。|
+| FONT_SUBSTITUTION |字体替换警告类型<br/>当未找到字体时，可以获得此警告类型。|
 | DUPLICATE_DEFINED_NAME |在文件中发现重复的定义名称。|
 | UNSUPPORTED_FILE_FORMAT |不支持的文件格式。|
 | INVALID_TEXT_OF_DEFINED_NAME |定义名称的文本无效。|
@@ -27,8 +27,9 @@ WarningType 类型公开了以下成员：
 | LIMITATION |超出 MS Excel 限制错误。|
 | INVALID_DATA |无效数据。|
 | FORMULA |公式无效。|
+| INVALID_OPERATOR |无效的运算符。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

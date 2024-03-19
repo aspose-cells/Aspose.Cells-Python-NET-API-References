@@ -3,7 +3,7 @@ title: is_workbook_protected_with_password propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 620
+weight: 630
 url: /fr/aspose.cells/workbook/is_workbook_protected_with_password/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_workbook_protected_with_password(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

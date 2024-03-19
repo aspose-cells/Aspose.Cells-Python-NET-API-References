@@ -1,0 +1,29 @@
+---
+title: font_configs proprietà
+second_title: Aspose.Cells for Python via .NET API Referenze
+description:
+type: docs
+weight: 160
+url: /it/aspose.cells/ebookloadoptions/font_configs/
+is_root: false
+---
+##  font_configs proprietà
+
+ Ottiene e imposta configurazioni di caratteri individuali.
+Funziona solo per lo [`Workbook`](/cells/python-net/it/aspose.cells/workbook) che utilizza questo [`LoadOptions`](/cells/python-net/it/aspose.cells/loadoptions) per caricare.
+###  Definizione:
+```python
+@property
+def font_configs(self):
+    ...
+@font_configs.setter
+def font_configs(self, value):
+    ...
+```
+
+###  Guarda anche
+* modulo [`aspose.cells`](../../)
+* classe [`EbookLoadOptions`](/cells/python-net/it/aspose.cells/ebookloadoptions)
+* classe [`IndividualFontConfigs`](/cells/python-net/it/aspose.cells/individualfontconfigs)
+* classe [`LoadOptions`](/cells/python-net/it/aspose.cells/loadoptions)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

@@ -1,18 +1,18 @@
 ---
-title: classe HeaderFooterCommand
+title: HeaderFooterCommand classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 740
+weight: 770
 url: /it/aspose.cells/headerfootercommand/
 is_root: false
 ---
-##  classe HeaderFooterCommand
+##  HeaderFooterCommand classe
 Rappresenta il comando di intestazione/piè di pagina
 
 
 
-Il tipo HeaderFooterCommand espone i membri seguenti:
+Il tipo HeaderFooterCommand espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -24,4 +24,4 @@ Il tipo HeaderFooterCommand espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

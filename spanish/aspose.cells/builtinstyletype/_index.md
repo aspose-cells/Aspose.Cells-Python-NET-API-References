@@ -3,7 +3,7 @@ title: BuiltinStyleType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1800
+weight: 1870
 url: /es/aspose.cells/builtinstyletype/
 is_root: false
 ---
@@ -72,4 +72,4 @@ El tipo BuiltinStyleType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

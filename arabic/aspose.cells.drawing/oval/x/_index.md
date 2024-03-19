@@ -1,15 +1,15 @@
 ---
-title: x الملكية
+title: x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /ar/aspose.cells.drawing/oval/x/
 is_root: false
 ---
-##  x الملكية
+##  x عقار
 
-الحصول على الإزاحة الأفقية للشكل وتعيينها من الحد الأيسر لورقة العمل ، بوحدة البكسل.
+الحصول على الإزاحة الأفقية للشكل من الحد الأيسر لورقة العمل وتعيينها، بوحدة البكسل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def x(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Oval](/cells/python-net/ar/aspose.cells.drawing/oval)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Oval`](/cells/python-net/ar/aspose.cells.drawing/oval)

@@ -1,29 +1,29 @@
 ---
-title: العد ShiftType
+title: ShiftType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2470
+weight: 2560
 url: /ar/aspose.cells/shifttype/
 is_root: false
 ---
-##  العد ShiftType
-قم بتمثيل خيارات الإزاحة عند حذف نطاق من الخلايا.
+##  ShiftType التعداد
+تمثيل خيارات النقل عند حذف نطاق من الخلايا.
 
 
 
-يكشف نوع ShiftType الأعضاء التالية:
+يكشف النوع ShiftType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DOWN | انقل الخلايا لأسفل.|
+| DOWN | إزاحة الخلايا إلى الأسفل.|
 | LEFT | خلايا تحول اليسار.|
-| NONE | لا تنقل الخلايا.|
+| NONE | لا تحول الخلايا.|
 | RIGHT | خلايا تحول الحق.|
-| UP | تحويل الخلايا لأعلى.|
+| UP | إزاحة الخلايا لأعلى.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

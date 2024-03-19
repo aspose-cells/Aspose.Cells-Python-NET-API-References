@@ -1,14 +1,14 @@
 ---
-title: metodo get_text_of_empty_data
+title: Metodo get_text_of_empty_data
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 50
+weight: 80
 url: /it/aspose.cells.settings/pivotglobalizationsettings/get_text_of_empty_data/
 is_root: false
 ---
-##  get_text_of_empty_data() {#}
-Ottiene il testo dell'etichetta "(vuota)" nella tabella pivot.
+##  get_text_of_empty_data {#}
+Ottiene il testo dell'etichetta "(vuoto)" nella tabella pivot.
 
 
 ###  ritorna
@@ -26,5 +26,5 @@ def get_text_of_empty_data(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.settings](../../)
-* classe [PivotGlobalizationSettings](/cells/python-net/it/aspose.cells.settings/pivotglobalizationsettings)
+* modulo [`aspose.cells.settings`](../../)
+* classe [`PivotGlobalizationSettings`](/cells/python-net/it/aspose.cells.settings/pivotglobalizationsettings)

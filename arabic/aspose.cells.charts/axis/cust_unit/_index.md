@@ -1,22 +1,22 @@
 ---
-title: cust_unit الملكية
+title: cust_unit عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ar/aspose.cells.charts/axis/cust_unit/
 is_root: false
 ---
-##  cust_unit الملكية
+##  cust_unit عقار
 
 يحدد قيمة مخصصة لوحدة العرض.
 
 ###  ملاحظات
 
- ملاحظة: هذه الخاصية عفا عليها الزمن الآن. بدلاً من،
+ ملاحظة: هذه الخاصية أصبحت الآن قديمة. بدلاً من،
 الرجاء استخدام خاصية Axis.CustomUnit.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ يناير 2023.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ يناير 2023.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -28,5 +28,5 @@ def cust_unit(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)

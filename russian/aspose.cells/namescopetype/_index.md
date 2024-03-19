@@ -1,9 +1,9 @@
 ---
 title: NameScopeType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2250
+weight: 2340
 url: /ru/aspose.cells/namescopetype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип NameScopeType предоставляет следующие члены:
+Тип NameScopeType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | ALL | Все определенные имена.|
 | WORKBOOK | Определенные имена в книге.|
-| WORKSHEET | Определенные имена на рабочем листе или на всех рабочих листах.|
+| WORKSHEET | Определенные имена на листе или на всех листах.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

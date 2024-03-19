@@ -3,7 +3,7 @@ title: Trendline klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 340
 url: /sv/aspose.cells.charts/trendline/
 is_root: false
 ---
@@ -12,8 +12,8 @@ Representerar en trendlinje i ett diagram.
 
 
 
-**Arv:** [Trendline](/cells/python-net/aspose.cells.charts/trendline) → 
-[Line](/cells/python-net/sv/aspose.cells.drawing/line)
+**Arv:** [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) → 
+[`Line`](/cells/python-net/sv/aspose.cells.drawing/line)
 
 
 
@@ -24,9 +24,9 @@ Typen Trendline avslöjar följande medlemmar:
 | :- | :- |
 | [compound_type](/cells/python-net/sv/aspose.cells.charts/trendline/compound_type) | Anger den sammansatta linjetypen|
 | [dash_type](/cells/python-net/sv/aspose.cells.charts/trendline/dash_type) | Anger typen av strecklinje|
-| [cap_type](/cells/python-net/sv/aspose.cells.charts/trendline/cap_type) | Anger slutbeteckningarna.|
+| [cap_type](/cells/python-net/sv/aspose.cells.charts/trendline/cap_type) |Anger slutbeteckningarna.|
 | [join_type](/cells/python-net/sv/aspose.cells.charts/trendline/join_type) | Specificerar sammanfogningslocken.|
-| [begin_type](/cells/python-net/sv/aspose.cells.charts/trendline/begin_type) |Anger en pilspets för början av en rad.|
+| [begin_type](/cells/python-net/sv/aspose.cells.charts/trendline/begin_type) | Anger en pilspets för början av en rad.|
 | [end_type](/cells/python-net/sv/aspose.cells.charts/trendline/end_type) | Anger en pilspets för slutet av en rad.|
 | [begin_arrow_length](/cells/python-net/sv/aspose.cells.charts/trendline/begin_arrow_length) | Anger längden på pilspetsen för början av en linje.|
 | [end_arrow_length](/cells/python-net/sv/aspose.cells.charts/trendline/end_arrow_length) | Anger längden på pilspetsen för slutet av en linje.|
@@ -36,25 +36,25 @@ Typen Trendline avslöjar följande medlemmar:
 | [color](/cells/python-net/sv/aspose.cells.charts/trendline/color) | Representerar färgen på linjen.|
 | [transparency](/cells/python-net/sv/aspose.cells.charts/trendline/transparency) | Returnerar eller ställer in graden av transparens för linjen som ett värde från 0,0 (opak) till 1,0 (ren).|
 | [style](/cells/python-net/sv/aspose.cells.charts/trendline/style) | Representerar linjens stil.|
-| [weight](/cells/python-net/sv/aspose.cells.charts/trendline/weight) | Hämtar eller ställer in linjens [WeightType](/cells/python-net/sv/aspose.cells.drawing/weighttype).|
+| [weight](/cells/python-net/sv/aspose.cells.charts/trendline/weight) | Hämtar eller ställer in linjens [`WeightType`](/cells/python-net/sv/aspose.cells.drawing/weighttype).|
 | [weight_pt](/cells/python-net/sv/aspose.cells.charts/trendline/weight_pt) | Hämtar eller ställer in linjens vikt i poängenhet.|
 | [weight_px](/cells/python-net/sv/aspose.cells.charts/trendline/weight_px) | Hämtar eller ställer in linjens vikt i pixelenhet.|
 | [formatting_type](/cells/python-net/sv/aspose.cells.charts/trendline/formatting_type) | Hämtar eller ställer in formattyp.|
 | [is_automatic_color](/cells/python-net/sv/aspose.cells.charts/trendline/is_automatic_color) | Indikerar om färgen på linjen tilldelas automatiskt.|
 | [is_visible](/cells/python-net/sv/aspose.cells.charts/trendline/is_visible) | Representerar om linjen är synlig.|
-| [is_auto](/cells/python-net/sv/aspose.cells.charts/trendline/is_auto) | Indikerar om denna linjestil är autotilldelad.|
+| [is_auto](/cells/python-net/sv/aspose.cells.charts/trendline/is_auto) |Indikerar om denna linjestil är autotilldelad.|
 | [gradient_fill](/cells/python-net/sv/aspose.cells.charts/trendline/gradient_fill) | Representerar gradientfyllning.|
 | [is_name_auto](/cells/python-net/sv/aspose.cells.charts/trendline/is_name_auto) | Returnerar om Microsoft Excel bestämmer automatiskt namnet på trendlinjen.|
 | [type](/cells/python-net/sv/aspose.cells.charts/trendline/type) | Returnerar trendlinjetypen.|
 | [name](/cells/python-net/sv/aspose.cells.charts/trendline/name) | Returnerar namnet på trendlinjen.|
-| [order](/cells/python-net/sv/aspose.cells.charts/trendline/order) | Returnerar eller ställer in trendlinjeordningen (ett heltal större än 1) när trendlinjetypen är polynom.<br/> Beställningen måste vara mellan 2 och 6.|
+| [order](/cells/python-net/sv/aspose.cells.charts/trendline/order) | Returnerar eller ställer in trendlinjeordningen (ett heltal större än 1) när trendlinjetypen är polynom.<br/>Beställningen måste vara mellan 2 och 6.|
 | [period](/cells/python-net/sv/aspose.cells.charts/trendline/period) | Returnerar eller ställer in perioden för trendlinjen för glidande medelvärde.|
 | [forward](/cells/python-net/sv/aspose.cells.charts/trendline/forward) | Returnerar eller ställer in antalet perioder (eller enheter på ett punktdiagram) som trendlinjen sträcker sig framåt.<br/> Antalet perioder måste vara större än eller lika med noll.|
 | [backward](/cells/python-net/sv/aspose.cells.charts/trendline/backward) | Returnerar eller ställer in antalet perioder (eller enheter på ett punktdiagram) som trendlinjen sträcker sig bakåt.<br/>Antalet perioder måste vara större än eller lika med noll.<br/> Om diagramtypen är kolumn måste antalet perioder vara mellan 0 och 0,5|
-| [display_equation](/cells/python-net/sv/aspose.cells.charts/trendline/display_equation) |Representerar om ekvationen för trendlinjen visas i diagrammet (i samma dataetikett som R-kvadratvärdet). Om du ställer in den här egenskapen till True aktiveras dataetiketter automatiskt.|
+| [display_equation](/cells/python-net/sv/aspose.cells.charts/trendline/display_equation) | Representerar om ekvationen för trendlinjen visas i diagrammet (i samma dataetikett som R-kvadratvärdet). Om du ställer in den här egenskapen till True aktiveras dataetiketter automatiskt.|
 | [display_r_squared](/cells/python-net/sv/aspose.cells.charts/trendline/display_r_squared) | Representerar om trendlinjens R-kvadratvärde visas i diagrammet (i samma dataetikett som ekvationen). Om du ställer in den här egenskapen till True aktiveras dataetiketter automatiskt.|
 | [intercept](/cells/python-net/sv/aspose.cells.charts/trendline/intercept) | Returnerar eller ställer in punkten där trendlinjen korsar värdeaxeln.|
-| [data_labels](/cells/python-net/sv/aspose.cells.charts/trendline/data_labels) | Representerar DataLabels-objektet för den angivna serien.|
+| [data_labels](/cells/python-net/sv/aspose.cells.charts/trendline/data_labels) |Representerar DataLabels-objektet för den angivna serien.|
 | [legend_entry](/cells/python-net/sv/aspose.cells.charts/trendline/legend_entry) | Får legendposten enligt denna trendlinje|
 
 
@@ -118,7 +118,7 @@ workbook.save("book1.xls")
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](..)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
-* klass [WeightType](/cells/python-net/sv/aspose.cells.drawing/weighttype)
+* modul [`aspose.cells.charts`](..)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)
+* klass [`WeightType`](/cells/python-net/sv/aspose.cells.drawing/weighttype)

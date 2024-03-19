@@ -1,0 +1,26 @@
+---
+title: PivotFieldGroupSettings constructeur
+second_title: Aspose.Cells for Python via .NET API Références
+description:
+type: docs
+weight: 10
+url: /fr/aspose.cells.pivot/pivotfieldgroupsettings/__init__/
+is_root: false
+---
+##  __initialisation__ {#}
+Construit une nouvelle instance de PivotFieldGroupSettings
+
+
+
+```python
+def __init__(self):
+    ...
+```
+
+
+
+
+
+###  Voir également
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotFieldGroupSettings`](/cells/python-net/fr/aspose.cells.pivot/pivotfieldgroupsettings)

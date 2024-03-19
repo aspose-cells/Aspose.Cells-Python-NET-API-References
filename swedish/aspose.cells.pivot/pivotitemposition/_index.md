@@ -3,7 +3,7 @@ title: PivotItemPosition uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 200
+weight: 320
 url: /sv/aspose.cells.pivot/pivotitemposition/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen PivotItemPosition avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.pivot](..)
+* modul [`aspose.cells.pivot`](..)

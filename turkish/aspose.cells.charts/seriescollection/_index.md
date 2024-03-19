@@ -3,43 +3,43 @@ title: SeriesCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 250
 url: /tr/aspose.cells.charts/seriescollection/
 is_root: false
 ---
 ##  SeriesCollection sınıfı
-[Series](/cells/python-net/tr/aspose.cells.charts/series) nesne koleksiyonunu kapsüller.
+[`Series`](/cells/python-net/tr/aspose.cells.charts/series) nesneden oluşan bir koleksiyonu kapsüller.
 
 
 
-SeriesCollection türü aşağıdaki üyeleri gösterir:
+SeriesCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [category_data](/cells/python-net/tr/aspose.cells.charts/seriescollection/category_data) | Eksen değerleri kategorisinin aralığını alır veya ayarlar.<br/> Bir hücre aralığı olabilir ("d1:e10" gibi),<br/> veya bir değer dizisi ("{2,6,8,10}" gibi).|
-| [second_category_data](/cells/python-net/tr/aspose.cells.charts/seriescollection/second_category_data) | İkinci kategori Eksen değerlerinin aralığını alır veya ayarlar.<br/> Bir hücre aralığı olabilir ("d1:e10" gibi),<br/> veya bir değer dizisi ("{2,6,8,10}" gibi).<br/> Yalnızca bazı ASeries'ler ikinci eksende çizildiğinde etki eder.|
-| [is_color_varied](/cells/python-net/tr/aspose.cells.charts/seriescollection/is_color_varied) | Noktaların renginin değişip değişmediğini temsil eder.|
+| [category_data](/cells/python-net/tr/aspose.cells.charts/seriescollection/category_data) | Kategori Eksen değerlerinin aralığını alır veya ayarlar.<br/> Bir dizi hücre olabilir ("d1:e10" gibi),<br/> veya bir değerler dizisi ("{2,6,8,10}" gibi).|
+| [second_category_data](/cells/python-net/tr/aspose.cells.charts/seriescollection/second_category_data) | İkinci kategori Eksen değerlerinin aralığını alır veya ayarlar.<br/> Bir dizi hücre olabilir ("d1:e10" gibi),<br/> veya bir değerler dizisi ("{2,6,8,10}" gibi).<br/> Yalnızca bazı ASeries ikinci eksende çizim yaptığında etkilidir.|
+| [is_color_varied](/cells/python-net/tr/aspose.cells.charts/seriescollection/is_color_varied) |Noktaların renginin değişip değişmediğini temsil eder.|
 | [capacity](/cells/python-net/tr/aspose.cells.charts/seriescollection/capacity) | Dizi listesinin içerebileceği öğe sayısını alır veya ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add(area, is_vertical)](/cells/python-net/tr/aspose.cells.charts/seriescollection/add/#str-bool) | [SeriesCollection](/cells/python-net/tr/aspose.cells.charts/seriescollection) koleksiyonunu bir grafiğe ekler.|
-| [add(area, is_vertical, check_labels)](/cells/python-net/tr/aspose.cells.charts/seriescollection/add/#str-bool-bool) | [SeriesCollection](/cells/python-net/tr/aspose.cells.charts/seriescollection) koleksiyonunu bir grafiğe ekler.|
-| [copy_to(array)](/cells/python-net/tr/aspose.cells.charts/seriescollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/tr/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) |Dizi listesindeki bir dizi öğeyi, hedef dizi listesinin belirtilen dizininden başlayarak uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of(item, index)](/cells/python-net/tr/aspose.cells.charts/seriescollection/index_of/#Series-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of(item, index, count)](/cells/python-net/tr/aspose.cells.charts/seriescollection/index_of/#Series-int-int) | Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item)](/cells/python-net/tr/aspose.cells.charts/seriescollection/last_index_of/#Series) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index)](/cells/python-net/tr/aspose.cells.charts/seriescollection/last_index_of/#Series-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index, count)](/cells/python-net/tr/aspose.cells.charts/seriescollection/last_index_of/#Series-int-int) |Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [get_series_by_order(order)](/cells/python-net/tr/aspose.cells.charts/seriescollection/get_series_by_order/#int) | [Series](/cells/python-net/tr/aspose.cells.charts/series) öğesini sırayla alır.|
-| [change_series_order(source_index, dest_index)](/cells/python-net/tr/aspose.cells.charts/seriescollection/change_series_order/#int-int) | İki dizinin sıralamasını doğrudan değiştirir.|
-| [set_series_names(start_index, area, is_vertical)](/cells/python-net/tr/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Grafikteki tüm serilerin adını ayarlar.|
-| [add_r1c1(area, is_vertical)](/cells/python-net/tr/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | [SeriesCollection](/cells/python-net/tr/aspose.cells.charts/seriescollection) koleksiyonunu bir grafiğe ekler.|
-| [binary_search(item)](/cells/python-net/tr/aspose.cells.charts/seriescollection/binary_search/#Series) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [add](/cells/python-net/tr/aspose.cells.charts/seriescollection/add/#str-bool) | [`Series`](/cells/python-net/tr/aspose.cells.charts/series) koleksiyonunu bir grafiğe ekler.|
+| [add](/cells/python-net/tr/aspose.cells.charts/seriescollection/add/#str-bool-bool) | [`Series`](/cells/python-net/tr/aspose.cells.charts/series) koleksiyonunu bir grafiğe ekler.|
+| [copy_to](/cells/python-net/tr/aspose.cells.charts/seriescollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak dizi listesinin tamamını uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [copy_to](/cells/python-net/tr/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen dizininden başlayarak, dizi listesinden bir dizi öğeyi uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [index_of](/cells/python-net/tr/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [index_of](/cells/python-net/tr/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int-int) |Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğeyi içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series) | Belirtilen nesneyi arar ve dizi listesinin tamamındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int-int) | Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [get_series_by_order](/cells/python-net/tr/aspose.cells.charts/seriescollection/get_series_by_order/#int) | [`Series`](/cells/python-net/tr/aspose.cells.charts/series) öğesini siparişe göre alır.|
+| [change_series_order](/cells/python-net/tr/aspose.cells.charts/seriescollection/change_series_order/#int-int) | İki serinin sıralarını doğrudan değiştirir.|
+| [set_series_names](/cells/python-net/tr/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Grafikteki tüm serilerin adını ayarlar.|
+| [add_r1c1](/cells/python-net/tr/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | [`Series`](/cells/python-net/tr/aspose.cells.charts/series) koleksiyonunu bir grafiğe ekler.|
+| [binary_search](/cells/python-net/tr/aspose.cells.charts/seriescollection/binary_search/#aspose.cells.charts.Series) | Varsayılan karşılaştırıcıyı kullanarak bir öğe için sıralanmış dizi listesinin tamamını arar ve öğenin sıfır tabanlı dizinini döndürür.|
 
 
 
@@ -93,6 +93,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
-* sınıf [SeriesCollection](/cells/python-net/tr/aspose.cells.charts/seriescollection)
+* modül [`aspose.cells.charts`](..)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

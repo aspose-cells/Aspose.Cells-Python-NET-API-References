@@ -3,7 +3,7 @@ title: ChartPointCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 110
 url: /tr/aspose.cells.charts/chartpointcollection/
 is_root: false
 ---
@@ -12,7 +12,7 @@ Bir serideki tüm noktaları içeren bir koleksiyonu temsil eder.
 
 
 
-ChartPointCollection türü aşağıdaki üyeleri gösterir:
+ChartPointCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -21,19 +21,19 @@ ChartPointCollection türü aşağıdaki üyeleri gösterir:
 
 
 
-Dizide belirtilen dizindeki [ChartPoint](/cells/python-net/tr/aspose.cells.charts/chartpoint) öğesini alır.
-###  İndeksleyici
+Seride belirtilen dizindeki [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint) öğesini alır.
+###  Dizin oluşturucu
 | İsim| Tanım|
 | :- | :- |
-| [index] | Dizideki grafik noktasının dizini.|
+| [index] | Serideki grafik noktasının indeksi.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [get_enumerator()](/cells/python-net/tr/aspose.cells.charts/chartpointcollection/get_enumerator/#) | [ChartPointCollection](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)'in tamamı için bir Numaralandırıcı döndürür.|
-| [clear()](/cells/python-net/tr/aspose.cells.charts/chartpointcollection/clear/#) | Grafik noktalarının tüm ayarlarını kaldırın.|
-| [remove_at(index)](/cells/python-net/tr/aspose.cells.charts/chartpointcollection/remove_at/#int) | Serinin indeksindeki noktayı kaldırır..|
+| [get_enumerator](/cells/python-net/tr/aspose.cells.charts/chartpointcollection/get_enumerator/#) | [`ChartPointCollection`](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)'in tamamı için bir numaralandırıcı döndürür.|
+| [clear](/cells/python-net/tr/aspose.cells.charts/chartpointcollection/clear/#) | Grafik noktalarının tüm ayarlarını kaldırın.|
+| [remove_at](/cells/python-net/tr/aspose.cells.charts/chartpointcollection/remove_at/#int) | Serinin indeksindeki noktayı kaldırır.|
 
 
 
@@ -82,6 +82,6 @@ workbook.save("book1.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
-* sınıf [ChartPoint](/cells/python-net/tr/aspose.cells.charts/chartpoint)
-* sınıf [ChartPointCollection](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)
+* modül [`aspose.cells.charts`](..)
+* sınıf [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint)
+* sınıf [`ChartPointCollection`](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)

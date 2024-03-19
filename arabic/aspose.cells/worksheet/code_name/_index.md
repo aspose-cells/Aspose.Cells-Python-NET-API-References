@@ -1,15 +1,15 @@
 ---
-title: code_name الملكية
+title: code_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 430
 url: /ar/aspose.cells/worksheet/code_name/
 is_root: false
 ---
-##  code_name الملكية
+##  code_name عقار
 
-يحصل على الاسم الرمزي لورقة العمل.
+يحصل على اسم رمز ورقة العمل.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def code_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

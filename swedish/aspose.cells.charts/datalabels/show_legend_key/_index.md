@@ -3,7 +3,7 @@ title: show_legend_key fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 410
 url: /sv/aspose.cells.charts/datalabels/show_legend_key/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def show_legend_key(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DataLabels](/cells/python-net/sv/aspose.cells.charts/datalabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DataLabels`](/cells/python-net/sv/aspose.cells.charts/datalabels)

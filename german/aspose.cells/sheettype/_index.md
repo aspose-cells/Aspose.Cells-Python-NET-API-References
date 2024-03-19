@@ -3,7 +3,7 @@ title: SheetType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2460
+weight: 2550
 url: /de/aspose.cells/sheettype/
 is_root: false
 ---
@@ -23,9 +23,9 @@ Der Typ SheetType macht die folgenden Member verfügbar:
 | BIFF4_MACRO | BIFF4-Makroblatt|
 | INTERNATIONAL_MACRO | Internationales Makroblatt|
 | OTHER |  |
-| DIALOG |Dialogarbeitsblatt|
+| DIALOG |Dialog-Arbeitsblatt|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

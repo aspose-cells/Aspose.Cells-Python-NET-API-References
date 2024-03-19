@@ -3,7 +3,7 @@ title: height_inch proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 450
+weight: 460
 url: /it/aspose.cells.drawing/oval/height_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Rappresenta l'altezza della forma, in unità di pollici.
 ```python
 
 if shape.height_inch == 3:
-    shape.height_inch = 1
+    shape.height_inch = 1.0
 
 ```
 ###  Definizione:
@@ -30,5 +30,5 @@ def height_inch(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Oval](/cells/python-net/it/aspose.cells.drawing/oval)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Oval`](/cells/python-net/it/aspose.cells.drawing/oval)

@@ -3,12 +3,12 @@ title: SortOrder enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2490
+weight: 2580
 url: /es/aspose.cells/sortorder/
 is_root: false
 ---
 ##  SortOrder enumeración
-Representa el orden de clasificación para el rango de datos.
+Representa el orden de clasificación del rango de datos.
 
 
 
@@ -23,4 +23,4 @@ El tipo SortOrder expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

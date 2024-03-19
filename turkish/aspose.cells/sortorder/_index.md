@@ -3,7 +3,7 @@ title: SortOrder numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2490
+weight: 2580
 url: /tr/aspose.cells/sortorder/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Veri aralığı için sıralama düzenini temsil eder.
 
 
 
-SortOrder türü aşağıdaki üyeleri gösterir:
+SortOrder türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | ASCENDING |  |
@@ -23,4 +23,4 @@ SortOrder türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

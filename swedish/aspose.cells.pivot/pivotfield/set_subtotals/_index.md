@@ -3,11 +3,11 @@ title: set_subtotals metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 150
 url: /sv/aspose.cells.pivot/pivotfield/set_subtotals/
 is_root: false
 ---
-##  set_subtotals(subtotal_type, shown) {#PivotFieldSubtotalType-bool}
+##  set_subtotals {#aspose.cells.pivot.PivotFieldSubtotalType-bool}
 Anger om det angivna fältet visar dessa delsummor.
 
 
@@ -20,11 +20,11 @@ def set_subtotals(self, subtotal_type, shown):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| subtotal_type | [PivotFieldSubtotalType](/cells/python-net/sv/aspose.cells.pivot/pivotfieldsubtotaltype) | delsummor typ.|
-| shown | bool | om det angivna fältet visar att delsummor.|
+| subtotal_type | [`PivotFieldSubtotalType`](/cells/python-net/sv/aspose.cells.pivot/pivotfieldsubtotaltype) | delsummor typ.|
+| shown | bool |om det angivna fältet visar att delsummor.|
 
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotField](/cells/python-net/sv/aspose.cells.pivot/pivotfield)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield)

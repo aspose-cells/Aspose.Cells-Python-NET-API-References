@@ -3,7 +3,7 @@ title: item_count proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 680
+weight: 690
 url: /it/aspose.cells.drawing/listbox/item_count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def item_count(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ListBox](/cells/python-net/it/aspose.cells.drawing/listbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ListBox`](/cells/python-net/it/aspose.cells.drawing/listbox)

@@ -3,7 +3,7 @@ title: input_range proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 510
+weight: 520
 url: /it/aspose.cells.drawing/dialogbox/input_range/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def input_range(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [DialogBox](/cells/python-net/it/aspose.cells.drawing/dialogbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`DialogBox`](/cells/python-net/it/aspose.cells.drawing/dialogbox)

@@ -1,9 +1,9 @@
 ---
 title: TextCrossType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2540
+weight: 2630
 url: /zh/aspose.cells/textcrosstype/
 is_root: false
 ---
@@ -12,12 +12,12 @@ is_root: false
 
 
 
-TextCrossType 类型公开了以下成员：
+TextCrossType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| DEFAULT |在 Microsoft Excel 中显示文本。|
+| DEFAULT |显示类似于 Microsoft Excel 中的文本。|
 | CROSS_KEEP |通过交叉其他单元格显示所有文本并保留交叉单元格的文本。|
 | CROSS_OVERRIDE |通过交叉其他单元格显示所有文本并覆盖交叉单元格的文本。|
 | STRICT_IN_CELL |仅显示单元格宽度内的文本。|
@@ -25,4 +25,4 @@ TextCrossType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
-title: page_change الملكية
+title: page_change عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 860
+weight: 870
 url: /ar/aspose.cells.drawing/scrollbar/page_change/
 is_root: false
 ---
-##  page_change الملكية
+##  page_change عقار
 
-يحصل أو يحدد تغيير الصفحة
+الحصول على تغيير الصفحة أو تعيينه
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def page_change(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ScrollBar](/cells/python-net/ar/aspose.cells.drawing/scrollbar)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ScrollBar`](/cells/python-net/ar/aspose.cells.drawing/scrollbar)

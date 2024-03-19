@@ -1,14 +1,14 @@
 ---
-title: NumberCategoryType dénombrement
+title: NumberCategoryType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2260
+weight: 2350
 url: /fr/aspose.cells/numbercategorytype/
 is_root: false
 ---
-##  NumberCategoryType dénombrement
-Représente le type de catégorie de la mise en forme des numéros de cellule.
+##  NumberCategoryType énumération
+Représente le type de catégorie de formatage des nombres de cellule.
 
 
 
@@ -28,4 +28,4 @@ Le type NumberCategoryType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

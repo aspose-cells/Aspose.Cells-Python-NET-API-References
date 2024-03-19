@@ -1,20 +1,20 @@
 ---
-title: parsing_formula_on_open الملكية
+title: parsing_formula_on_open عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 320
 url: /ar/aspose.cells/txtloadoptions/parsing_formula_on_open/
 is_root: false
 ---
-##  parsing_formula_on_open الملكية
+##  parsing_formula_on_open عقار
 
 يشير إلى ما إذا كان سيتم تحليل الصيغة عند قراءة الملف.
 
 ###  ملاحظات
 
-ينطبق فقط على ملفات Excel Xlsx و Xltx و Xltm و Xlsm
-لأن الصيغ في الملفات مخزنة بصيغة سلسلة.
+ينطبق فقط على ملفات Excel Xlsx وXltx وXltm وXlsm
+لأنه يتم تخزين الصيغ الموجودة في الملفات باستخدام صيغة سلسلة.
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def parsing_formula_on_open(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TxtLoadOptions](/cells/python-net/ar/aspose.cells/txtloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TxtLoadOptions`](/cells/python-net/ar/aspose.cells/txtloadoptions)

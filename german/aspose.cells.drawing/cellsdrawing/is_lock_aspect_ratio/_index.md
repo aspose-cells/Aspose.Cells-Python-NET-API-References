@@ -3,13 +3,13 @@ title: is_lock_aspect_ratio Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 590
+weight: 600
 url: /de/aspose.cells.drawing/cellsdrawing/is_lock_aspect_ratio/
 is_root: false
 ---
 ##  is_lock_aspect_ratio Eigentum
 
-True bedeutet, dass Änderungen des Seitenverhältnisses nicht zulässig sind.
+„True“ bedeutet, dass keine Änderungen im Seitenverhältnis zulässig sind.
 
 ###  Beispiel
 
@@ -29,5 +29,5 @@ def is_lock_aspect_ratio(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CellsDrawing](/cells/python-net/de/aspose.cells.drawing/cellsdrawing)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CellsDrawing`](/cells/python-net/de/aspose.cells.drawing/cellsdrawing)

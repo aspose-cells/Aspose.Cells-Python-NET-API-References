@@ -3,17 +3,17 @@ title: create_directory Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 100
 url: /de/aspose.cells/htmlsaveoptions/create_directory/
 is_root: false
 ---
 ##  create_directory Eigentum
 
-Wenn wahr und das Verzeichnis nicht existiert, wird das Verzeichnis automatisch erstellt, bevor die Datei gespeichert wird.
+Wenn „true“ und das Verzeichnis nicht existiert, wird das Verzeichnis automatisch erstellt, bevor die Datei gespeichert wird.
 
 ###  Bemerkungen
 
-Der Standardwert ist falsch.
+Der Standardwert ist false.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def create_directory(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlSaveOptions](/cells/python-net/de/aspose.cells/htmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlSaveOptions`](/cells/python-net/de/aspose.cells/htmlsaveoptions)

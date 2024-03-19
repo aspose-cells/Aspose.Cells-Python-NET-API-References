@@ -3,14 +3,14 @@ title: export_area propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 150
+weight: 170
 url: /es/aspose.cells/htmlsaveoptions/export_area/
 is_root: false
 ---
 ##  export_area propiedad
 
-Obtiene o establece la exportación de CellArea de la hoja de trabajo activa actual.
-Si establece este atributo, se omitirá el área de impresión de la hoja de trabajo activa actual.
+Obtiene o establece el CellArea de exportación de la hoja de trabajo activa actual.
+Si configura este atributo, se omitirá el área de impresión de la hoja de trabajo activa actual.
 Solo se exportará el área especificada al guardar el archivo en html.
 ###  Definición:
 ```python
@@ -23,6 +23,6 @@ def export_area(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellArea](/cells/python-net/es/aspose.cells/cellarea)
-* clase [HtmlSaveOptions](/cells/python-net/es/aspose.cells/htmlsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`CellArea`](/cells/python-net/es/aspose.cells/cellarea)
+* clase [`HtmlSaveOptions`](/cells/python-net/es/aspose.cells/htmlsaveoptions)

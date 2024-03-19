@@ -3,7 +3,7 @@ title: FontSourceType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2080
+weight: 2150
 url: /sv/aspose.cells/fontsourcetype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen FontSourceType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -1,14 +1,14 @@
 ---
 title: set_native_source_full_name метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 210
+weight: 230
 url: /ru/aspose.cells.drawing/oleobject/set_native_source_full_name/
 is_root: false
 ---
-##  set_native_source_full_name(source_full_name) {#str}
-Задает полное имя исходного файла ole с указанием пути.
+##  set_native_source_full_name {#str}
+Устанавливает полное имя файла исходного исходного кода с путем.
 
 
 
@@ -20,10 +20,10 @@ def set_native_source_full_name(self, source_full_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| source_full_name | str | полное имя исходного файла ole|
+| source_full_name | str | полное имя файла старого исходного кода|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

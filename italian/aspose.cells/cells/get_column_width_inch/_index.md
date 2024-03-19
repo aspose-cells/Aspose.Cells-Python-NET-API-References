@@ -1,13 +1,13 @@
 ---
-title: metodo get_column_width_inch
+title: Metodo get_column_width_inch
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 360
+weight: 340
 url: /it/aspose.cells/cells/get_column_width_inch/
 is_root: false
 ---
-##  get_column_width_inch(column) {#int}
+##  get_column_width_inch {#int}
 Ottiene la larghezza della colonna specificata nella visualizzazione normale, in unità di pollici.
 
 
@@ -24,10 +24,10 @@ def get_column_width_inch(self, column):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| column | int | Indice di colonna|
+| column | int | Indice delle colonne|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

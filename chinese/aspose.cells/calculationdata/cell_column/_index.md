@@ -1,13 +1,13 @@
 ---
-title: cell_column 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: cell_column属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 70
+weight: 80
 url: /zh/aspose.cells/calculationdata/cell_column/
 is_root: false
 ---
-## cell_column 属性
+## cell_column属性
 
 获取函数所在单元格的列索引。
 ### 定义：
@@ -18,5 +18,5 @@ def cell_column(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CalculationData](/cells/python-net/zh/aspose.cells/calculationdata)
+* 模块[`aspose.cells`](../../)
+* 类 [`CalculationData`](/cells/python-net/zh/aspose.cells/calculationdata)

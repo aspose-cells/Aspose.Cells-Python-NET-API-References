@@ -3,7 +3,7 @@ title: ChartLineFormattingType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 410
+weight: 420
 url: /es/aspose.cells.charts/chartlineformattingtype/
 is_root: false
 ---
@@ -19,10 +19,10 @@ El tipo ChartLineFormattingType expone los siguientes miembros:
 | :- | :- |
 | AUTOMATIC | Representa el tipo de formato automático.|
 | SOLID | Representa el tipo de formato sólido.|
-| NONE | Representa ningún tipo de formato.|
+| NONE |No representa ningún tipo de formato.|
 | GRADIENT | Degradado|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

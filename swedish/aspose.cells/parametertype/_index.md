@@ -3,7 +3,7 @@ title: ParameterType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2340
+weight: 2430
 url: /sv/aspose.cells/parametertype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen ParameterType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

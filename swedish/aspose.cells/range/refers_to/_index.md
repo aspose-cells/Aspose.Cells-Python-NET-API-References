@@ -3,7 +3,7 @@ title: refers_to fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 380
 url: /sv/aspose.cells/range/refers_to/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def refers_to(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

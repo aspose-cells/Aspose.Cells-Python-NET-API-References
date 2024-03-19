@@ -9,8 +9,9 @@ is_root: false
 ---
 ##  ignore_error Eigentum
 
-Gibt an, ob Sie den Fehler bei der Berechnung von Formeln ausblenden müssen.
-Der Fehler kann eine nicht unterstützte Funktion, externe Links usw. sein.
+Gibt an, ob beim Berechnen von Formeln aufgetretene Fehler ignoriert werden sollen.
+Der Fehler kann auf nicht unterstützte Funktionen, externe Links usw. zurückzuführen sein.
+Der Standardwert ist wahr.
 ###  Definition:
 ```python
 @property
@@ -22,5 +23,5 @@ def ignore_error(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CalculationOptions](/cells/python-net/de/aspose.cells/calculationoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CalculationOptions`](/cells/python-net/de/aspose.cells/calculationoptions)

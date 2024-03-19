@@ -3,12 +3,12 @@ title: طريقة set_style
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 210
 url: /ar/aspose.cells/range/set_style/
 is_root: false
 ---
-##  set_style(style) {#Style}
-يعيّن نمط النطاق.
+##  set_style {#aspose.cells.Style}
+يضبط نمط النطاق.
 
 
 
@@ -20,11 +20,11 @@ def set_style(self, style):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/ar/aspose.cells/style) | كائن النمط.|
+| style | [`Style`](/cells/python-net/ar/aspose.cells/style) | كائن النمط.|
 
 
-##  set_style(style, explicit_flag) {#Style-bool}
-قم بتطبيق نمط الخلية.
+##  set_style {#aspose.cells.Style-bool}
+تطبيق نمط الخلية.
 
 
 
@@ -36,11 +36,11 @@ def set_style(self, style, explicit_flag):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/ar/aspose.cells/style) | نمط الخلية.|
-| explicit_flag | bool | صحيح ، الكتابة فوق التنسيق الذي تم تعيينه صراحةً فقط.|
+| style | [`Style`](/cells/python-net/ar/aspose.cells/style) | نمط الخلية.|
+| explicit_flag | bool | صحيح، فقط الكتابة فوق التنسيق الذي تم تعيينه بشكل صريح.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

@@ -1,15 +1,15 @@
 ---
-title: is_formula_hidden الملكية
+title: is_formula_hidden عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 320
 url: /ar/aspose.cells/style/is_formula_hidden/
 is_root: false
 ---
-##  is_formula_hidden الملكية
+##  is_formula_hidden عقار
 
-يمثل ما إذا كانت الصيغة ستكون مخفية عندما تكون ورقة العمل محمية.
+يمثل ما إذا كان سيتم إخفاء الصيغة عندما تكون ورقة العمل محمية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_formula_hidden(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

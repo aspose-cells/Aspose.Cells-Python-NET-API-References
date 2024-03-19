@@ -3,7 +3,7 @@ title: interrupt_monitor propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 200
 url: /es/aspose.cells/txtloadoptions/interrupt_monitor/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def interrupt_monitor(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AbstractInterruptMonitor](/cells/python-net/es/aspose.cells/abstractinterruptmonitor)
-* clase [TxtLoadOptions](/cells/python-net/es/aspose.cells/txtloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`AbstractInterruptMonitor`](/cells/python-net/es/aspose.cells/abstractinterruptmonitor)
+* clase [`TxtLoadOptions`](/cells/python-net/es/aspose.cells/txtloadoptions)

@@ -3,11 +3,11 @@ title: get_table_row_type_of_data metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 250
 url: /sv/aspose.cells/globalizationsettings/get_table_row_type_of_data/
 is_root: false
 ---
-##  get_table_row_type_of_data() {#}
+##  get_table_row_type_of_data {#}
 Hämtar typnamnet på tabellrader som består av dataregionen i den refererade tabellen.
 Standard är "Data", så i formeln representerar "#Data" dataområdet i tabellen.
 
@@ -27,5 +27,5 @@ def get_table_row_type_of_data(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GlobalizationSettings](/cells/python-net/sv/aspose.cells/globalizationsettings)
+* modul [`aspose.cells`](../../)
+* klass [`GlobalizationSettings`](/cells/python-net/sv/aspose.cells/globalizationsettings)

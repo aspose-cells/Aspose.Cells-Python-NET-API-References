@@ -3,13 +3,13 @@ title: floor proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 260
+weight: 290
 url: /it/aspose.cells.charts/chart/floor/
 is_root: false
 ---
 ##  floor proprietà
 
-Restituisce un oggetto [Chart.floor](/cells/python-net/it/aspose.cells.charts/chart#floor) che rappresenta le pareti di un grafico 3D.
+Restituisce un oggetto [`Chart.floor`](/cells/python-net/it/aspose.cells.charts/chart#floor) che rappresenta le pareti di un grafico 3D.
 
 ###  Osservazioni
 
@@ -22,6 +22,6 @@ def floor(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
-* classe [Floor](/cells/python-net/it/aspose.cells.charts/floor)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)
+* classe [`Floor`](/cells/python-net/it/aspose.cells.charts/floor)

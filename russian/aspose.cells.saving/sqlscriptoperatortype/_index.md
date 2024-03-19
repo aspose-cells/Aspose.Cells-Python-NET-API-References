@@ -1,9 +1,9 @@
 ---
 title: SqlScriptOperatorType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ru/aspose.cells.saving/sqlscriptoperatortype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип SqlScriptOperatorType предоставляет следующие члены:
+Тип SqlScriptOperatorType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | INSERT | Вставьте данные.|
-| UPDATE | Обновите данные.|
+| UPDATE | Обновить данные.|
 | DELETE | Удалить данные.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.saving](..)
+* модуль [`aspose.cells.saving`](..)

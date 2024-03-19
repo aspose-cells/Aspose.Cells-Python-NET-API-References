@@ -3,13 +3,13 @@ title: width propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1180
+weight: 1200
 url: /fr/aspose.cells.drawing/radiobutton/width/
 is_root: false
 ---
 ##  width propriété
 
-Représente le width de la forme, en unité de pixels.
+Représente le width de forme, en unité de pixels.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)

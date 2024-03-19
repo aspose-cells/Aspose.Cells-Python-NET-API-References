@@ -1,13 +1,13 @@
 ---
-title: insert_row método
+title: método insert_row
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 720
+weight: 710
 url: /es/aspose.cells/cells/insert_row/
 is_root: false
 ---
-##  insert_row(row_index) {#int}
+##  insert_row {#int}
 Inserta una nueva fila en la hoja de trabajo.
 
 
@@ -25,5 +25,5 @@ def insert_row(self, row_index):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

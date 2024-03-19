@@ -1,16 +1,16 @@
 ---
-title: export_similar_border_style الملكية
+title: export_similar_border_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 350
 url: /ar/aspose.cells/htmlsaveoptions/export_similar_border_style/
 is_root: false
 ---
-##  export_similar_border_style الملكية
+##  export_similar_border_style عقار
 
-الإشارة إلى ما إذا كان تصدير نمط الحدود المماثل عندما لا تدعم المستعرضات نمط الحدود.
-إذا كنت تريد استيراد ملف html أو mht إلى Excel ، فيرجى الاحتفاظ بالقيمة الافتراضية.
+للإشارة إلى ما إذا كان سيتم تصدير نمط الحدود المماثل عندما لا يكون نمط الحدود مدعومًا بواسطة المتصفحات.
+إذا كنت تريد استيراد ملف html أو mht إلى Excel، فيرجى الاحتفاظ بالقيمة الافتراضية.
 القيمة الافتراضية هي كاذبة.
 ###  تعريف:
 ```python
@@ -23,5 +23,5 @@ def export_similar_border_style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

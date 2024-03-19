@@ -3,13 +3,13 @@ title: walls_and_gridlines_2d mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 640
+weight: 670
 url: /tr/aspose.cells.charts/chart/walls_and_gridlines_2d/
 is_root: false
 ---
 ##  walls_and_gridlines_2d mülk
 
-Kılavuz çizgileri 3 boyutlu bir grafikte iki boyutlu olarak çizilirse doğrudur.
+Kılavuz çizgileri 3 boyutlu bir grafik üzerinde iki boyutlu olarak çiziliyorsa doğrudur.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def walls_and_gridlines_2d(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Chart](/cells/python-net/tr/aspose.cells.charts/chart)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Chart`](/cells/python-net/tr/aspose.cells.charts/chart)

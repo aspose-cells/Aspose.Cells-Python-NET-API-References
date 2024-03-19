@@ -3,17 +3,17 @@ title: طريقة get_max_grouped_row_outline_level
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 420
 url: /ar/aspose.cells/cells/get_max_grouped_row_outline_level/
 is_root: false
 ---
-##  get_max_grouped_row_outline_level() {#}
-الحصول على الحد الأقصى لمستوى المخطط التفصيلي للصف المجمع (على أساس الصفر).
+##  get_max_grouped_row_outline_level {#}
+الحصول على الحد الأقصى لمستوى المخطط التفصيلي للصفوف المجمعة (يعتمد على الصفر).
 
 
 ###  عائدات
 
-الحد الأقصى لمستوى المخطط التفصيلي للصف المجمّع (مستند إلى الصفر)
+الحد الأقصى لمستوى المخطط التفصيلي للصفوف المجمعة (يعتمد على الصفر)
 
 
 ```python
@@ -26,5 +26,5 @@ def get_max_grouped_row_outline_level(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

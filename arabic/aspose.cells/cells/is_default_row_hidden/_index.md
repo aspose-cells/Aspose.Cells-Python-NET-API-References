@@ -1,15 +1,15 @@
 ---
-title: is_default_row_hidden الملكية
+title: is_default_row_hidden عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1070
+weight: 1060
 url: /ar/aspose.cells/cells/is_default_row_hidden/
 is_root: false
 ---
-##  is_default_row_hidden الملكية
+##  is_default_row_hidden عقار
 
-يشير إلى ما إذا كان الصف مخفيًا افتراضيًا.
+يشير إلى ما إذا كان الصف مخفيًا بشكل افتراضي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_default_row_hidden(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

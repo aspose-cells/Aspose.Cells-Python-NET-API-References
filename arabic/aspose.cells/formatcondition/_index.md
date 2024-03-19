@@ -1,50 +1,50 @@
 ---
-title: FormatCondition الدرجة
+title: FormatCondition صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 690
+weight: 720
 url: /ar/aspose.cells/formatcondition/
 is_root: false
 ---
-##  FormatCondition الدرجة
-يمثل شرط التنسيق الشرطي.
+##  FormatCondition صف
+يمثل حالة التنسيق الشرطي.
 
 
 
-يكشف نوع FormatCondition الأعضاء التالية:
+يكشف النوع FormatCondition عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [formula1](/cells/python-net/ar/aspose.cells/formatcondition/formula1) | الحصول على القيمة أو التعبير المرتبط بالتنسيق الشرطي وتعيينهما.|
-| [formula2](/cells/python-net/ar/aspose.cells/formatcondition/formula2) | الحصول على القيمة أو التعبير المرتبط بالتنسيق الشرطي وتعيينهما.|
-| [operator](/cells/python-net/ar/aspose.cells/formatcondition/operator) | الحصول على نوع مشغل التنسيق الشرطي وتعيينه.|
-| [stop_if_true](/cells/python-net/ar/aspose.cells/formatcondition/stop_if_true) |صحيح ، لا يمكن تطبيق أي قواعد ذات أولوية أقل على هذه القاعدة ، عندما يتم تقييم هذه القاعدة على صواب.<br/> ينطبق فقط على Excel 2007 ؛|
-| [priority](/cells/python-net/ar/aspose.cells/formatcondition/priority) | أولوية قاعدة التنسيق الشرطي هذه. يتم استخدام هذه القيمة لتحديد أي<br/>يجب تقييم التنسيق وتقديمه. القيم الرقمية الأقل أولوية أعلى من<br/> القيم الرقمية الأعلى ، حيث يمثل "1" الأولوية القصوى.|
-| [style](/cells/python-net/ar/aspose.cells/formatcondition/style) | الحصول على أو تحديد نمط نطاقات الخلايا المنسقة الشرطية.|
-| [type](/cells/python-net/ar/aspose.cells/formatcondition/type) | الحصول على نوع التنسيق الشرطي وتحديده.|
-| [icon_set](/cells/python-net/ar/aspose.cells/formatcondition/icon_set) | احصل على مثيل "IconSet" للتنسيق الشرطي.<br/>IconSetType للمثيل الافتراضي هو TrafficLights31.<br/> صالح فقط لنوع = IconSet.|
-| [data_bar](/cells/python-net/ar/aspose.cells/formatcondition/data_bar) | احصل على مثيل "DataBar" الخاص بالتنسيق الشرطي.<br/>اللون الافتراضي للمثيل هو الأزرق.<br/> صالح فقط للنوع هو DataBar.|
-| [color_scale](/cells/python-net/ar/aspose.cells/formatcondition/color_scale) | احصل على مثيل "ColorScale" الخاص بالتنسيق الشرطي.<br/>المثيل الافتراضي هو 3ColorScale "أخضر - أصفر - أحمر".<br/> صالح فقط للنوع = ColorScale.|
-| [top10](/cells/python-net/ar/aspose.cells/formatcondition/top10) | احصل على مثيل "Top10" للتنسيق الشرطي.<br/>تبرز قاعدة المثيل الافتراضي الخلايا التي تحتوي على<br/>تقع القيم في أعلى 10 شريحة.<br/> صالح فقط للنوع هو Top10.|
-| [above_average](/cells/python-net/ar/aspose.cells/formatcondition/above_average) |احصل على مثيل "AboveAverage" للتنسيق الشرطي.<br/> تقوم قاعدة المثيل الافتراضية بتمييز الخلايا الموجودة<br/>فوق المتوسط لجميع القيم في النطاق.<br/> صالح فقط لنوع = AboveAverage.|
-| [text](/cells/python-net/ar/aspose.cells/formatcondition/text) | قيمة النص في "نص يحتوي على" قاعدة تنسيق شرطي.<br/>صالح فقط للنوع = يحتوي على نص ، لا يحتوي على نص ، يبدأ مع وينتهي.<br/> القيمه الافتراضيه فارغه.|
-| [time_period](/cells/python-net/ar/aspose.cells/formatcondition/time_period) | الفترة الزمنية المطبقة في قاعدة التنسيق الشرطي "تاريخ حدوث ...".<br/>صالح فقط للنوع = timePeriod.<br/> القيمة الافتراضية هي TimePeriodType.Today.|
+| [formula1](/cells/python-net/ar/aspose.cells/formatcondition/formula1) | الحصول على القيمة أو التعبير المرتبط بالتنسيق الشرطي وتعيينه.|
+| [formula2](/cells/python-net/ar/aspose.cells/formatcondition/formula2) | الحصول على القيمة أو التعبير المرتبط بالتنسيق الشرطي وتعيينه.|
+| [operator](/cells/python-net/ar/aspose.cells/formatcondition/operator) | الحصول على نوع عامل التنسيق الشرطي وتعيينه.|
+| [stop_if_true](/cells/python-net/ar/aspose.cells/formatcondition/stop_if_true) | صحيح، لا يجوز تطبيق أي قواعد ذات أولوية أقل على هذه القاعدة، عندما يتم تقييم هذه القاعدة على أنها صحيحة.<br/> ينطبق فقط على Excel 2007؛|
+| [priority](/cells/python-net/ar/aspose.cells/formatcondition/priority) | أولوية قاعدة التنسيق الشرطي هذه. يتم استخدام هذه القيمة لتحديد أي منها<br/>يجب تقييم التنسيق وتقديمه. تعتبر القيم الرقمية الأقل أولوية أعلى من<br/> قيم رقمية أعلى، حيث يكون "1" هو الأولوية القصوى.|
+| [style](/cells/python-net/ar/aspose.cells/formatcondition/style) | الحصول على نمط نطاقات الخلايا المنسقة الشرطية أو تعيينه.|
+| [type](/cells/python-net/ar/aspose.cells/formatcondition/type) |يحصل على ويحدد ما إذا كان نوع التنسيق الشرطي.|
+| [icon_set](/cells/python-net/ar/aspose.cells/formatcondition/icon_set) | احصل على مثيل "IconSet" الخاص بالتنسيق الشرطي.<br/>IconSetType للمثيل الافتراضي هو TrafficLights31.<br/> صالح فقط للنوع = IconSet.|
+| [data_bar](/cells/python-net/ar/aspose.cells/formatcondition/data_bar) | احصل على مثيل "DataBar" الخاص بالتنسيق الشرطي.<br/>لون المثيل الافتراضي هو اللون الأزرق.<br/> صالح فقط للنوع DataBar.|
+| [color_scale](/cells/python-net/ar/aspose.cells/formatcondition/color_scale) | احصل على مثيل "ColorScale" الخاص بالتنسيق الشرطي.<br/>المثيل الافتراضي هو 3ColorScale "أخضر-أصفر-أحمر".<br/> صالح فقط للنوع = ColorScale.|
+| [top10](/cells/python-net/ar/aspose.cells/formatcondition/top10) | احصل على مثيل "Top10" للتنسيق الشرطي.<br/>تقوم قاعدة المثيل الافتراضي بتمييز الخلايا التي<br/>تقع القيم في أعلى 10 شريحة.<br/> صالح فقط للنوع هو Top10.|
+| [above_average](/cells/python-net/ar/aspose.cells/formatcondition/above_average) | احصل على مثيل "AboveAverage" الخاص بالتنسيق الشرطي.<br/> تقوم قاعدة المثيل الافتراضي بتمييز الخلايا الموجودة<br/>أعلى من المتوسط لجميع القيم في النطاق.<br/>صالح فقط للنوع = فوق المتوسط.|
+| [text](/cells/python-net/ar/aspose.cells/formatcondition/text) | قيمة النص في قاعدة التنسيق الشرطي "يحتوي على نص".<br/>صالح فقط للنوع = يحتوي على نص، وليس يحتوي على نص، ويبدأ مع، وينتهي مع.<br/> القيمه الافتراضيه فارغه.|
+| [time_period](/cells/python-net/ar/aspose.cells/formatcondition/time_period) | الفترة الزمنية المعمول بها في قاعدة التنسيق الشرطي "تاريخ حدوث...".<br/>صالح فقط للنوع = timePeriod.<br/> القيمة الافتراضية هي TimePeriodType.Today.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_formula1(is_r1c1, is_local)](/cells/python-net/ar/aspose.cells/formatcondition/get_formula1/#bool-bool) | الحصول على القيمة أو التعبير المرتبط بشرط التنسيق هذا.|
-| [get_formula1(is_r1c1, is_local, row, column)](/cells/python-net/ar/aspose.cells/formatcondition/get_formula1/#bool-bool-int-int) | الحصول على قيمة أو تعبير التنسيق الشرطي للخلية.|
-| [get_formula1(row, column)](/cells/python-net/ar/aspose.cells/formatcondition/get_formula1/#int-int) | الحصول على صيغة التنسيق الشرطي للخلية.|
-| [get_formula2(is_r1c1, is_local)](/cells/python-net/ar/aspose.cells/formatcondition/get_formula2/#bool-bool) | الحصول على القيمة أو التعبير المرتبط بشرط التنسيق هذا.|
-| [get_formula2(is_r1c1, is_local, row, column)](/cells/python-net/ar/aspose.cells/formatcondition/get_formula2/#bool-bool-int-int) | الحصول على قيمة أو تعبير التنسيق الشرطي للخلية.|
-| [get_formula2(row, column)](/cells/python-net/ar/aspose.cells/formatcondition/get_formula2/#int-int) | الحصول على صيغة التنسيق الشرطي للخلية.|
-| [set_formulas(formula1, formula2, is_r1c1, is_local)](/cells/python-net/ar/aspose.cells/formatcondition/set_formulas/#str-str-bool-bool) | يعيّن القيمة أو التعبير المرتبط بشرط التنسيق هذا.|
-| [set_formula1(formula, is_r1c1, is_local)](/cells/python-net/ar/aspose.cells/formatcondition/set_formula1/#str-bool-bool) | يعيّن القيمة أو التعبير المرتبط بشرط التنسيق هذا.|
-| [set_formula2(formula, is_r1c1, is_local)](/cells/python-net/ar/aspose.cells/formatcondition/set_formula2/#str-bool-bool) | يعيّن القيمة أو التعبير المرتبط بشرط التنسيق هذا.|
+| [get_formula1](/cells/python-net/ar/aspose.cells/formatcondition/get_formula1/#bool-bool) | يحصل على القيمة أو التعبير المرتبط بشرط التنسيق هذا.|
+| [get_formula1](/cells/python-net/ar/aspose.cells/formatcondition/get_formula1/#bool-bool-int-int) | الحصول على قيمة أو تعبير التنسيق الشرطي للخلية.|
+| [get_formula1](/cells/python-net/ar/aspose.cells/formatcondition/get_formula1/#int-int) | الحصول على صيغة التنسيق الشرطي للخلية.|
+| [get_formula2](/cells/python-net/ar/aspose.cells/formatcondition/get_formula2/#bool-bool) | يحصل على القيمة أو التعبير المرتبط بشرط التنسيق هذا.|
+| [get_formula2](/cells/python-net/ar/aspose.cells/formatcondition/get_formula2/#bool-bool-int-int) | الحصول على قيمة أو تعبير التنسيق الشرطي للخلية.|
+| [get_formula2](/cells/python-net/ar/aspose.cells/formatcondition/get_formula2/#int-int) | الحصول على صيغة التنسيق الشرطي للخلية.|
+| [set_formulas](/cells/python-net/ar/aspose.cells/formatcondition/set_formulas/#str-str-bool-bool) | لتعيين القيمة أو التعبير المرتبط بشرط التنسيق هذا.|
+| [set_formula1](/cells/python-net/ar/aspose.cells/formatcondition/set_formula1/#str-bool-bool) | لتعيين القيمة أو التعبير المرتبط بشرط التنسيق هذا.|
+| [set_formula2](/cells/python-net/ar/aspose.cells/formatcondition/set_formula2/#str-bool-bool) | لتعيين القيمة أو التعبير المرتبط بشرط التنسيق هذا.|
 
 
 
@@ -86,4 +86,4 @@ workbook.save("output.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

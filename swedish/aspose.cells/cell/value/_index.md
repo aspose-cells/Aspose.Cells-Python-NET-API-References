@@ -3,13 +3,13 @@ title: value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 710
+weight: 740
 url: /sv/aspose.cells/cell/value/
 is_root: false
 ---
 ##  value fastighet
 
-Hämtar value som finns i den här cellen.
+Hämtar/ställer in value som finns i den här cellen.
 
 ###  Anmärkningar
 
@@ -46,5 +46,5 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

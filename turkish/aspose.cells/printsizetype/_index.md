@@ -3,7 +3,7 @@ title: PrintSizeType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2400
+weight: 2490
 url: /tr/aspose.cells/printsizetype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Yazdırılan grafik boyutunu temsil eder.
 
 
 
-PrintSizeType türü aşağıdaki üyeleri gösterir:
+PrintSizeType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | FULL | Tam sayfayı kullanın.|
@@ -24,4 +24,4 @@ PrintSizeType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

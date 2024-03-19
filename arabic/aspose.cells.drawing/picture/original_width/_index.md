@@ -1,15 +1,15 @@
 ---
-title: original_width الملكية
+title: original_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 950
+weight: 960
 url: /ar/aspose.cells.drawing/picture/original_width/
 is_root: false
 ---
-##  original_width الملكية
+##  original_width عقار
 
-الحصول على العرض الاصلي للصورة.
+الحصول على العرض الأصلي للصورة.
 
 ###  مثال
 
@@ -37,5 +37,5 @@ def original_width(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

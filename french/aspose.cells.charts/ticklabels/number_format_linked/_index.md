@@ -3,14 +3,14 @@ title: number_format_linked propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 110
+weight: 120
 url: /fr/aspose.cells.charts/ticklabels/number_format_linked/
 is_root: false
 ---
 ##  number_format_linked propriété
 
- Vrai si le format numérique est lié aux cellules
-(afin que le format des nombres change dans les étiquettes lorsqu'il change dans les cellules).
+ Vrai si le format des nombres est lié aux cellules
+(pour que le format des nombres change dans les étiquettes lorsqu'il change dans les cellules).
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def number_format_linked(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [TickLabels](/cells/python-net/fr/aspose.cells.charts/ticklabels)
+* module [`aspose.cells.charts`](../../)
+* classe [`TickLabels`](/cells/python-net/fr/aspose.cells.charts/ticklabels)

@@ -3,7 +3,7 @@ title: max_data_row fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1110
+weight: 1100
 url: /sv/aspose.cells/cells/max_data_row/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def max_data_row(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

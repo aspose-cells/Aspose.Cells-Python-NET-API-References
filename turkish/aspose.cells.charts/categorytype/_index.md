@@ -3,18 +3,18 @@ title: CategoryType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 400
+weight: 410
 url: /tr/aspose.cells.charts/categorytype/
 is_root: false
 ---
 ##  CategoryType numaralandırma
-Kategori eksen tipini temsil eder.
+Kategori ekseni türünü temsil eder.
 
 
 
-CategoryType türü aşağıdaki üyeleri gösterir:
+CategoryType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | AUTOMATIC_SCALE | Otomatik Ölçek|
@@ -24,4 +24,4 @@ CategoryType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

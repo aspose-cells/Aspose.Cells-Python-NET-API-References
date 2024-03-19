@@ -3,17 +3,17 @@ title: get_cell Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 330
+weight: 310
 url: /de/aspose.cells/cells/get_cell/
 is_root: false
 ---
-##  get_cell(row, column) {#int-int}
-Ruft das [Cell](/cells/python-net/de/aspose.cells/cell)-Element oder null am angegebenen Zellenzeilenindex und Spaltenindex ab.
+##  get_cell {#int-int}
+Ruft das Element [`Cell`](/cells/python-net/de/aspose.cells/cell) oder null am angegebenen Zeilenindex und Spaltenindex der Zelle ab.
 
 
 ###  Kehrt zurück
 
-Cell-Objekt zurückgeben, wenn ein Cell-Objekt vorhanden ist.
+Gibt das Objekt Cell zurück, wenn ein Objekt Cell vorhanden ist.
 Gibt null zurück, wenn die Zelle nicht existiert.
 
 
@@ -27,10 +27,15 @@ def get_cell(self, row, column):
 | :- | :- | :- |
 | row | int | Zeilenindex|
 | column | int | Spaltenindex|
+###  Bemerkungen
 
+HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+Bitte verwenden Sie die CheckCell-Methode (int row, int columns).
+ Diese Methode wird 12 Monate später seit Februar 2024 entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

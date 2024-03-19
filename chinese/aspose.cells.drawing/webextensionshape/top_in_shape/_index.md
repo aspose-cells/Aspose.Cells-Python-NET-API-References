@@ -1,16 +1,16 @@
 ---
-title: top_in_shape 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: top_in_shape属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /zh/aspose.cells.drawing/webextensionshape/top_in_shape/
 is_root: false
 ---
-## top_in_shape 属性
+## top_in_shape属性
 
 表示形状相对于父形状上边框的垂直偏移量，
-以父图形高度的 1/4000 为单位。
+以父形状高度的 1/4000 为单位。
 
 ### 评论
 
@@ -20,7 +20,7 @@ is_root: false
 
 ```python
 
-if shape.top_in_shape == 8000:
+if shape.is_in_group and shape.top_in_shape == 8000:
     shape.top_in_shape = 4000
 
 ```
@@ -35,5 +35,5 @@ def top_in_shape(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [WebExtensionShape](/cells/python-net/zh/aspose.cells.drawing/webextensionshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`WebExtensionShape`](/cells/python-net/zh/aspose.cells.drawing/webextensionshape)

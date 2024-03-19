@@ -3,7 +3,7 @@ title: count_large fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1040
+weight: 1030
 url: /sv/aspose.cells/cells/count_large/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def count_large(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

@@ -1,15 +1,15 @@
 ---
-title: id 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: id属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 500
+weight: 510
 url: /zh/aspose.cells.drawing/oval/id/
 is_root: false
 ---
-## id 属性
+## id属性
 
-获取此形状的标识符。
+获取该形状的标识符。
 
 ### 例子
 
@@ -26,5 +26,5 @@ def id(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Oval](/cells/python-net/zh/aspose.cells.drawing/oval)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Oval`](/cells/python-net/zh/aspose.cells.drawing/oval)

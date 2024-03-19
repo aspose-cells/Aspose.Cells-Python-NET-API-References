@@ -3,13 +3,13 @@ title: glow proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 390
+weight: 410
 url: /it/aspose.cells.drawing/textbox/glow/
 is_root: false
 ---
 ##  glow proprietà
 
-Rappresenta un oggetto [GlowEffect](/cells/python-net/it/aspose.cells.drawing/gloweffect) che specifica l'effetto glow per l'elemento o la forma del grafico.
+Rappresenta un oggetto [`GlowEffect`](/cells/python-net/it/aspose.cells.drawing/gloweffect) che specifica l'effetto glow per l'elemento o la forma del grafico.
 
 ###  Esempio
 
@@ -26,6 +26,6 @@ def glow(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GlowEffect](/cells/python-net/it/aspose.cells.drawing/gloweffect)
-* classe [TextBox](/cells/python-net/it/aspose.cells.drawing/textbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GlowEffect`](/cells/python-net/it/aspose.cells.drawing/gloweffect)
+* classe [`TextBox`](/cells/python-net/it/aspose.cells.drawing/textbox)

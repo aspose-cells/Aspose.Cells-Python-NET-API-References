@@ -3,12 +3,12 @@ title: to_front_or_back Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 230
 url: /de/aspose.cells.drawing/textbox/to_front_or_back/
 is_root: false
 ---
-##  to_front_or_back(orders) {#int}
-Bringt die Form nach vorne oder stellt die Form nach hinten.
+##  to_front_or_back {#int}
+Bringt die Form nach vorne oder nach hinten.
 
 
 
@@ -20,7 +20,7 @@ def to_front_or_back(self, orders):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| orders | int | Wenn es kleiner als Null ist, wird die Form auf „Rücken“ gesetzt.<br/>Wenn es größer als Null ist, wird die Form nach vorne gebracht.|
+| orders | int | Wenn der Wert kleiner als Null ist, wird die Form auf „Zurück“ gesetzt.<br/> Wenn der Wert größer als Null ist, wird die Form in den Vordergrund gebracht.|
 
 ###  Beispiel
 
@@ -33,5 +33,5 @@ shape.to_front_or_back(2)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextBox](/cells/python-net/de/aspose.cells.drawing/textbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextBox`](/cells/python-net/de/aspose.cells.drawing/textbox)

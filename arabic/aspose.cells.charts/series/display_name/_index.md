@@ -1,15 +1,15 @@
 ---
-title: display_name الملكية
+title: display_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 110
 url: /ar/aspose.cells.charts/series/display_name/
 is_root: false
 ---
-##  display_name الملكية
+##  display_name عقار
 
-الحصول على اسم السلسلة الذي يتم عرضه على الرسم البياني للرسم البياني.
+يحصل على اسم السلسلة الذي يتم عرضه على الرسم البياني للمخطط.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def display_name(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

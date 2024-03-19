@@ -1,27 +1,27 @@
 ---
-title: العد FontSchemeType
+title: FontSchemeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2070
+weight: 2140
 url: /ar/aspose.cells/fontschemetype/
 is_root: false
 ---
-##  العد FontSchemeType
+##  FontSchemeType التعداد
 يمثل نوع مخطط الخط.
 
 
 
-يكشف نوع FontSchemeType الأعضاء التالية:
+يكشف النوع FontSchemeType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | NONE | لا أحد|
-| MAJOR | المخطط الرئيسي.|
-| MINOR | مخطط ثانوي.|
+| MAJOR | مخطط رئيسي.|
+| MINOR | مخطط بسيط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -14,12 +14,6 @@ Representerar axelfack
 
 Typen AxisBins avslöjar följande medlemmar:
 
-###  Konstruktörer
-| Konstruktör| Beskrivning|
-| :- | :- |
-| [AxisBins()](/cells/python-net/sv/aspose.cells.charts/axisbins/__init__/#) | Konstruerar en ny instans av AxisBins|
-
-
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
@@ -34,10 +28,10 @@ Typen AxisBins avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [reset_overflow()](/cells/python-net/sv/aspose.cells.charts/axisbins/reset_overflow/#) | Återställ överflödet|
-| [reset_underflow()](/cells/python-net/sv/aspose.cells.charts/axisbins/reset_underflow/#) | Återställ underflödet|
+| [reset_overflow](/cells/python-net/sv/aspose.cells.charts/axisbins/reset_overflow/#) | Återställ överflödet|
+| [reset_underflow](/cells/python-net/sv/aspose.cells.charts/axisbins/reset_underflow/#) | Återställ underflödet|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

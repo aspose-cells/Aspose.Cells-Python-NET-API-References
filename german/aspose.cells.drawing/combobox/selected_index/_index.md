@@ -3,7 +3,7 @@ title: selected_index Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 890
+weight: 900
 url: /de/aspose.cells.drawing/combobox/selected_index/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Nullbasiert.
 
 ###  Bemerkungen
 
--1 zeigt an, dass kein Element ausgewählt ist.
+-1 bedeutet, dass kein Element ausgewählt ist.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def selected_index(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ComboBox](/cells/python-net/de/aspose.cells.drawing/combobox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ComboBox`](/cells/python-net/de/aspose.cells.drawing/combobox)

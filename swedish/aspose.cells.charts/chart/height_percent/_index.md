@@ -3,7 +3,7 @@ title: height_percent fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 320
 url: /sv/aspose.cells.charts/chart/height_percent/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def height_percent(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Chart](/cells/python-net/sv/aspose.cells.charts/chart)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Chart`](/cells/python-net/sv/aspose.cells.charts/chart)

@@ -1,9 +1,9 @@
 ---
 title: standard_font_size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 240
+weight: 260
 url: /ru/aspose.cells.numbers/numbersloadoptions/standard_font_size/
 is_root: false
 ---
@@ -14,7 +14,7 @@ is_root: false
 ###  Примечания
 
 ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо этого используйте DefaultStyleSettings.
- Это свойство будет удалено через 12 месяцев, начиная с марта 2022 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с марта 2022 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -27,5 +27,5 @@ def standard_font_size(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.numbers](../../)
-* класс [NumbersLoadOptions](/cells/python-net/ru/aspose.cells.numbers/numbersloadoptions)
+* модуль [`aspose.cells.numbers`](../../)
+* класс [`NumbersLoadOptions`](/cells/python-net/ru/aspose.cells.numbers/numbersloadoptions)

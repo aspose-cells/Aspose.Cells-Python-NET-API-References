@@ -3,11 +3,11 @@ title: select_range metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 260
 url: /sv/aspose.cells/worksheet/select_range/
 is_root: false
 ---
-##  select_range(start_row, start_column, total_rows, total_columns, remove_others) {#int-int-int-int-bool}
+##  select_range {#int-int-int-int-bool}
 Väljer ett intervall.
 
 
@@ -29,5 +29,5 @@ def select_range(self, start_row, start_column, total_rows, total_columns, remov
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

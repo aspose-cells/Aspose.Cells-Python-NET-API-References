@@ -3,13 +3,13 @@ title: name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 390
 url: /de/aspose.cells.charts/chart/name/
 is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name des Diagramms ab und legt sie fest.
+Ruft die name des Diagramms ab und legt diese fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Chart](/cells/python-net/de/aspose.cells.charts/chart)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Chart`](/cells/python-net/de/aspose.cells.charts/chart)

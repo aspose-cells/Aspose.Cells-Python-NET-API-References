@@ -3,7 +3,7 @@ title: auto_update propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 340
 url: /es/aspose.cells.drawing/oleobject/auto_update/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def auto_update(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [OleObject](/cells/python-net/es/aspose.cells.drawing/oleobject)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`OleObject`](/cells/python-net/es/aspose.cells.drawing/oleobject)

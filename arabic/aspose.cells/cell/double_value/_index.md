@@ -1,13 +1,13 @@
 ---
-title: double_value الملكية
+title: double_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 460
 url: /ar/aspose.cells/cell/double_value/
 is_root: false
 ---
-##  double_value الملكية
+##  double_value عقار
 
 الحصول على القيمة المزدوجة الموجودة في الخلية.
 ###  تعريف:
@@ -18,5 +18,5 @@ def double_value(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

@@ -3,17 +3,17 @@ title: get_error_value_string metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 100
 url: /sv/aspose.cells/globalizationsettings/get_error_value_string/
 is_root: false
 ---
-##  get_error_value_string(err) {#str}
+##  get_error_value_string {#str}
 Hämtar visningssträngvärdet för cellens felvärde
 
 
 ###  Returnerar
 
-Standard returnerar själva felvärdet
+Som standard returnerar själva felvärdet
 
 
 ```python
@@ -29,5 +29,5 @@ def get_error_value_string(self, err):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GlobalizationSettings](/cells/python-net/sv/aspose.cells/globalizationsettings)
+* modul [`aspose.cells`](../../)
+* klass [`GlobalizationSettings`](/cells/python-net/sv/aspose.cells/globalizationsettings)

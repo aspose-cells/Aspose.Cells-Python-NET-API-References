@@ -1,22 +1,22 @@
 ---
 title: top_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /ru/aspose.cells.drawing/combobox/top_inch/
 is_root: false
 ---
 ##  top_inch недвижимость
 
-Представляет вертикальное смещение фигуры от верхней строки в дюймах.
+Представляет вертикальное смещение фигуры от ее верхнего ряда в дюймах.
 
 ###  Пример
 
 ```python
 
 if shape.top_inch == 3:
-    shape.top_inch = 1
+    shape.top_inch = 1.0
 
 ```
 ###  Определение:
@@ -30,5 +30,5 @@ def top_inch(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ComboBox](/cells/python-net/ru/aspose.cells.drawing/combobox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ComboBox`](/cells/python-net/ru/aspose.cells.drawing/combobox)

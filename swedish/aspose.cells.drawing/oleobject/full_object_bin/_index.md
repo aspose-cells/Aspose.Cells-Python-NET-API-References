@@ -3,7 +3,7 @@ title: full_object_bin fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 460
 url: /sv/aspose.cells.drawing/oleobject/full_object_bin/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def full_object_bin(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

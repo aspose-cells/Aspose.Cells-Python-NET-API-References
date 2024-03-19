@@ -1,0 +1,26 @@
+---
+title: language_code mülk
+second_title: Aspose.Cells for Python via .NET API Referanslar
+description:
+type: docs
+weight: 230
+url: /tr/aspose.cells/ebookloadoptions/language_code/
+is_root: false
+---
+##  language_code mülk
+
+Dosyayı kaydeden CountryCode'a göre Çalışma Kitabı sürümünün kullanıcı arayüzü dilini alır veya ayarlar.
+###  Tanım:
+```python
+@property
+def language_code(self):
+    ...
+@language_code.setter
+def language_code(self, value):
+    ...
+```
+
+###  Ayrıca bakınız
+* modül [`aspose.cells`](../../)
+* sınıf [`CountryCode`](/cells/python-net/tr/aspose.cells/countrycode)
+* sınıf [`EbookLoadOptions`](/cells/python-net/tr/aspose.cells/ebookloadoptions)

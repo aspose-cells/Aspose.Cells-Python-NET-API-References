@@ -3,7 +3,7 @@ title: height_cm proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 440
+weight: 450
 url: /it/aspose.cells.drawing/combobox/height_cm/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Rappresenta l'altezza della forma, in unità di centimetri.
 ```python
 
 if shape.height_cm == 3:
-    shape.height_cm = 1
+    shape.height_cm = 1.0
 
 ```
 ###  Definizione:
@@ -30,5 +30,5 @@ def height_cm(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ComboBox](/cells/python-net/it/aspose.cells.drawing/combobox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ComboBox`](/cells/python-net/it/aspose.cells.drawing/combobox)

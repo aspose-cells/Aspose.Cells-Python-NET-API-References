@@ -3,13 +3,13 @@ title: is_resize_shape_to_fit_text propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 250
 url: /es/aspose.cells.charts/legend/is_resize_shape_to_fit_text/
 is_root: false
 ---
 ##  is_resize_shape_to_fit_text propiedad
 
-Obtiene o establece si una forma debe ajustarse automáticamente para contener completamente el texto descrito en ella. El ajuste automático es
+Obtiene o establece si una forma debe ajustarse automáticamente para contener completamente el texto descrito en ella. El autoajuste es
 cuando el texto dentro de una forma se escala para contener todo el texto dentro.
 ###  Definición:
 ```python
@@ -22,5 +22,5 @@ def is_resize_shape_to_fit_text(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Legend](/cells/python-net/es/aspose.cells.charts/legend)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Legend`](/cells/python-net/es/aspose.cells.charts/legend)

@@ -7,18 +7,19 @@ weight: 10
 url: /tr/aspose.cells.saving/
 is_root: false
 ---
- bu**Aspose.Cells.Saving** ad alanı, dosya kaydetme seçenekleri sınıfları sağlar.
+**Aspose.Cells.Saving** ad alanı, dosyaları kaydetme seçenekleri sınıfları sağlar.
 
-###  sınıflar
+###  Sınıflar
 | Sınıf| Tanım|
 | :- | :- |
-| [SqlScriptColumnTypeMap](/cells/python-net/tr/aspose.cells.saving/sqlscriptcolumntypemap) | Sütun tipi haritayı temsil eder.|
-| [SqlScriptSaveOptions](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions) | Sql kaydetme seçeneklerini temsil eder.|
+| [`EbookSaveOptions`](/cells/python-net/tr/aspose.cells.saving/ebooksaveoptions) | E-kitap dosyasını kaydetme seçeneklerini temsil eder.|
+| [`SqlScriptColumnTypeMap`](/cells/python-net/tr/aspose.cells.saving/sqlscriptcolumntypemap) | Sütun türü haritasını temsil eder.|
+| [`SqlScriptSaveOptions`](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions) | Sql kaydetme seçeneklerini temsil eder.|
 
 
 ###  Numaralandırmalar
-|numaralandırma| Tanım|
+|Numaralandırma| Tanım|
 | :- | :- |
-| [SqlScriptOperatorType](/cells/python-net/tr/aspose.cells.saving/sqlscriptoperatortype) | İşletim verilerinin türünü temsil eder.|
+| [`SqlScriptOperatorType`](/cells/python-net/tr/aspose.cells.saving/sqlscriptoperatortype) | İşletim verilerinin türünü temsil eder.|
 
 

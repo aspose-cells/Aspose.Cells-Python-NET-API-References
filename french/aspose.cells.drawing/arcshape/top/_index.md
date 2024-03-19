@@ -3,17 +3,17 @@ title: top propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1110
+weight: 1120
 url: /fr/aspose.cells.drawing/arcshape/top/
 is_root: false
 ---
 ##  top propriété
 
-Représente le décalage vertical de la forme par rapport à sa ligne top, en pixels.
+Représente le décalage vertical de la forme par rapport à sa ligne top, en unités de pixels.
 
 ###  Remarques
 
-Si la forme est dans le graphique, représente le décalage vertical de la forme par rapport à sa bordure top.
+Si la forme se trouve dans le graphique, représente le décalage vertical de la forme par rapport à sa bordure top.
 
 ###  Exemple
 
@@ -34,5 +34,5 @@ def top(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/fr/aspose.cells.drawing/arcshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/fr/aspose.cells.drawing/arcshape)

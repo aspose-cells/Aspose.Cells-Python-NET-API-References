@@ -1,25 +1,25 @@
 ---
-title: IFilePathProvider الدرجة
+title: IFilePathProvider صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 850
+weight: 890
 url: /ar/aspose.cells/ifilepathprovider/
 is_root: false
 ---
-##  IFilePathProvider الدرجة
-يمثل موفر مسار الملف الذي تم تصديره.
+##  IFilePathProvider صف
+يمثل موفر مسار الملف المصدر.
 
 
 
-يكشف نوع IFilePathProvider الأعضاء التالية:
+يكشف النوع IFilePathProvider عن الأعضاء التاليين:
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_full_name(sheet_name)](/cells/python-net/ar/aspose.cells/ifilepathprovider/get_full_name/#str) | يحصل على المسار الكامل للملف حسب اسم ورقة العمل عند تصدير ورقة العمل إلى html بشكل منفصل.<br/> لذلك يمكن تصدير المراجع بين أوراق العمل بشكل صحيح.|
+| [get_full_name](/cells/python-net/ar/aspose.cells/ifilepathprovider/get_full_name/#str) | يحصل على المسار الكامل للملف حسب اسم ورقة العمل عند تصدير ورقة العمل إلى html بشكل منفصل.<br/> لذلك يمكن تصدير المراجع الموجودة بين أوراق العمل بشكل صحيح.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

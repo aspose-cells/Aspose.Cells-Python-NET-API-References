@@ -3,7 +3,7 @@ title: is_dynamic_array_formula fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 530
+weight: 560
 url: /sv/aspose.cells/cell/is_dynamic_array_formula/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_dynamic_array_formula(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

@@ -3,7 +3,7 @@ title: DynamicFilterType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1980
+weight: 2050
 url: /sv/aspose.cells/dynamicfiltertype/
 is_root: false
 ---
@@ -56,4 +56,4 @@ Typen DynamicFilterType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

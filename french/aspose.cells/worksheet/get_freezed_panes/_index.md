@@ -1,14 +1,14 @@
 ---
-title: get_freezed_panes méthode
+title: méthode get_freezed_panes
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 150
 url: /fr/aspose.cells/worksheet/get_freezed_panes/
 is_root: false
 ---
-##  get_freezed_panes(row, column, freezed_rows, freezed_columns) {#any-any-any-any}
-Obtient les volets de gel.
+##  get_freezed_panes {#any-any-any-any}
+Obtient les volets figés.
 
 
 ###  Retour
@@ -24,13 +24,13 @@ def get_freezed_panes(self, row, column, freezed_rows, freezed_columns):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| row | any | Indice de ligne.|
-| column | any | Indice de colonne.|
-| freezed_rows | any | Nombre de lignes visibles dans le volet supérieur, pas plus que l'index de ligne.|
-| freezed_columns | any | Nombre de colonnes visibles dans le volet de gauche, pas plus que l'index de colonne.|
+| row | any | Index de ligne.|
+| column | any | Index de colonne.|
+| freezed_rows | any | Nombre de lignes visibles dans le volet supérieur, pas plus que l'index des lignes.|
+| freezed_columns | any | Nombre de colonnes visibles dans le volet de gauche, pas plus que l'index de la colonne.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

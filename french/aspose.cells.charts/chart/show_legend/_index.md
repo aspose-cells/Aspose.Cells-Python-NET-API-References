@@ -3,13 +3,13 @@ title: show_legend propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 550
+weight: 580
 url: /fr/aspose.cells.charts/chart/show_legend/
 is_root: false
 ---
 ##  show_legend propriété
 
-Obtient ou définit une valeur indiquant si la légende du graphique sera affichée. La valeur par défaut est true.
+Obtient ou définit une valeur indiquant si la légende du graphique sera affichée. La valeur par défaut est vraie.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_legend(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)

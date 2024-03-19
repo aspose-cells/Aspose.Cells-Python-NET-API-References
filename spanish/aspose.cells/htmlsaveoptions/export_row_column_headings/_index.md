@@ -3,13 +3,13 @@ title: export_row_column_headings propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 340
 url: /es/aspose.cells/htmlsaveoptions/export_row_column_headings/
 is_root: false
 ---
 ##  export_row_column_headings propiedad
 
-Indica si se exportan los encabezados de fila y columna de la hoja al guardar en archivos HTML.
+Indica si exporta los encabezados de fila y columna de la hoja al guardarla en archivos HTML.
 
 ###  Observaciones
 
@@ -25,5 +25,5 @@ def export_row_column_headings(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HtmlSaveOptions](/cells/python-net/es/aspose.cells/htmlsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`HtmlSaveOptions`](/cells/python-net/es/aspose.cells/htmlsaveoptions)

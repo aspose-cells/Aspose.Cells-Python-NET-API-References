@@ -1,14 +1,14 @@
 ---
-title: insert_columns método
+title: método insert_columns
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 690
+weight: 680
 url: /es/aspose.cells/cells/insert_columns/
 is_root: false
 ---
-##  insert_columns(column_index, total_columns) {#int-int}
-Inserta algunas columnas en la hoja de cálculo.
+##  insert_columns {#int-int}
+Inserta algunas columnas en la hoja de trabajo.
 
 
 
@@ -24,8 +24,8 @@ def insert_columns(self, column_index, total_columns):
 | total_columns | int | El número de columnas.|
 
 
-##  insert_columns(column_index, total_columns, update_reference) {#int-int-bool}
-Inserta algunas columnas en la hoja de cálculo.
+##  insert_columns {#int-int-bool}
+Inserta algunas columnas en la hoja de trabajo.
 
 
 
@@ -39,10 +39,10 @@ def insert_columns(self, column_index, total_columns, update_reference):
 | :- | :- | :- |
 | column_index | int | Índice de columnas.|
 | total_columns | int | El número de columnas.|
-| update_reference | bool |Indica si se actualizarán las referencias en otras hojas de trabajo.|
+| update_reference | bool | Indica si se actualizarán las referencias en otras hojas de trabajo.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

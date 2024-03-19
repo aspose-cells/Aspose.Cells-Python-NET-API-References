@@ -8,8 +8,6 @@ url: /fr/aspose.cells.pivot/sxrng/is_auto_start/
 is_root: false
 ---
 ##  is_auto_start propriété
-
-Spécifie une valeur booléenne qui indique si l'application utilisera les données source pour définir la valeur de la plage de début.
 ###  Définition:
 ```python
 @property
@@ -18,5 +16,5 @@ def is_auto_start(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [SxRng](/cells/python-net/fr/aspose.cells.pivot/sxrng)
+* module [`aspose.cells.pivot`](../../)
+* classe [`SxRng`](/cells/python-net/fr/aspose.cells.pivot/sxrng)

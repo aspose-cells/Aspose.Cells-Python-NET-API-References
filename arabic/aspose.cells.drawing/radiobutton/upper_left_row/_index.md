@@ -1,19 +1,19 @@
 ---
-title: upper_left_row الملكية
+title: upper_left_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1170
+weight: 1190
 url: /ar/aspose.cells.drawing/radiobutton/upper_left_row/
 is_root: false
 ---
-##  upper_left_row الملكية
+##  upper_left_row عقار
 
 يمثل فهرس صف الزاوية اليسرى العليا.
 
 ###  ملاحظات
 
-إذا كان الشكل في الشكل أو في المجموعة ، فسيتم تجاهل UpperLeftRow.
+إذا كان الشكل موجودًا في الشكل أو في المجموعة، فسيتم تجاهل UpperLeftRow.
 
 ###  مثال
 
@@ -34,5 +34,5 @@ def upper_left_row(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

@@ -1,18 +1,18 @@
 ---
 title: TextDirectionType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2550
+weight: 2640
 url: /zh/aspose.cells/textdirectiontype/
 is_root: false
 ---
 ## TextDirectionType枚举
-表示该段落的文本流方向。
+表示该段落的文本流向。
 
 
 
-TextDirectionType 类型公开了以下成员：
+TextDirectionType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -24,4 +24,4 @@ TextDirectionType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

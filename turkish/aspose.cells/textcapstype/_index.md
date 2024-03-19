@@ -3,25 +3,25 @@ title: TextCapsType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2530
+weight: 2620
 url: /tr/aspose.cells/textcapstype/
 is_root: false
 ---
 ##  TextCapsType numaralandırma
-Bu tür, metnin büyük harf türlerini belirtir.
+Bu tür metnin büyük harf türlerini belirtir.
 
 
 
-TextCapsType türü aşağıdaki üyeleri gösterir:
+TextCapsType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NONE | Büyük harf yok|
-| ALL | Metne tamamı büyük harf uygulayın.|
-| SMALL | Metne küçük büyük harfler uygulayın.|
+| ALL | Metnin tamamına büyük harf uygulayın.|
+| SMALL | Metne küçük harfler uygulayın.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

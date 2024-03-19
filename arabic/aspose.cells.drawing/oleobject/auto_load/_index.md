@@ -1,16 +1,16 @@
 ---
-title: auto_load الملكية
+title: auto_load عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ar/aspose.cells.drawing/oleobject/auto_load/
 is_root: false
 ---
-##  auto_load الملكية
+##  auto_load عقار
 
 يحدد ما إذا كان سيتم استدعاء التطبيق المضيف للكائن المضمن للتحميل
-بيانات الكائن تلقائيًا عند فتح المصنف الأصل.
+بيانات الكائن تلقائيًا عند فتح المصنف الأصلي.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def auto_load(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

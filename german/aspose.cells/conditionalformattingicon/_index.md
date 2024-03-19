@@ -3,12 +3,12 @@ title: ConditionalFormattingIcon Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 310
+weight: 320
 url: /de/aspose.cells/conditionalformattingicon/
 is_root: false
 ---
 ##  ConditionalFormattingIcon Klasse
-Stellt das benutzerdefinierte Symbol der Regel zur bedingten Formatierung dar.
+Stellt das benutzerdefinierte Symbol der Regel für bedingte Formatierung dar.
 
 
 
@@ -25,10 +25,10 @@ Der Typ ConditionalFormattingIcon macht die folgenden Member verfügbar:
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_icon_image_data(type, index)](/cells/python-net/de/aspose.cells/conditionalformattingicon/get_icon_image_data/#IconSetType-int) | Holen Sie sich die Icon-Set-Daten|
-| [get_image_data(cell)](/cells/python-net/de/aspose.cells/conditionalformattingicon/get_image_data/#Cell) | Ruft die Bilddaten mit der Einstellung von Zelle ab.|
+| [get_icon_image_data](/cells/python-net/de/aspose.cells/conditionalformattingicon/get_icon_image_data/#aspose.cells.IconSetType-int) | Rufen Sie die Icon-Set-Daten ab|
+| [get_image_data](/cells/python-net/de/aspose.cells/conditionalformattingicon/get_image_data/#aspose.cells.Cell) | Ruft die Bilddaten mit der Einstellung „Zelle“ ab.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

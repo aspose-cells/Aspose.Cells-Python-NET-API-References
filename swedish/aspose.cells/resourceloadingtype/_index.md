@@ -3,7 +3,7 @@ title: ResourceLoadingType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2440
+weight: 2530
 url: /sv/aspose.cells/resourceloadingtype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen ResourceLoadingType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

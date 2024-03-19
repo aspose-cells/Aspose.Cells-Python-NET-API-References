@@ -1,15 +1,15 @@
 ---
-title: incremental_change الملكية
+title: incremental_change عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 530
 url: /ar/aspose.cells.drawing/spinner/incremental_change/
 is_root: false
 ---
-##  incremental_change الملكية
+##  incremental_change عقار
 
-الحصول على أو تعيين مقدار زيادة شريط التمرير أو الزيادة والنقصان في تمرير سطر.
+الحصول على أو تعيين مقدار زيادة شريط التمرير أو القرص الدوار بتمريرة خطية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def incremental_change(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Spinner](/cells/python-net/ar/aspose.cells.drawing/spinner)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Spinner`](/cells/python-net/ar/aspose.cells.drawing/spinner)

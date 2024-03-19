@@ -3,7 +3,7 @@ title: colors Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 460
+weight: 470
 url: /de/aspose.cells/workbook/colors/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Gibt colors in der Palette für die Tabelle zurück.
 
 ###  Bemerkungen
 
-Die Palette hat 56 Einträge, die jeweils durch einen RGB-Wert dargestellt werden.
+Die Palette verfügt über 56 Einträge, die jeweils durch einen RGB-Wert dargestellt werden.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def colors(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Workbook](/cells/python-net/de/aspose.cells/workbook)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Workbook`](/cells/python-net/de/aspose.cells/workbook)

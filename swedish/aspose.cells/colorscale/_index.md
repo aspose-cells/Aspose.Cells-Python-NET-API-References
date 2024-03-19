@@ -3,7 +3,7 @@ title: ColorScale klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 260
 url: /sv/aspose.cells/colorscale/
 is_root: false
 ---
@@ -29,4 +29,4 @@ Typen ColorScale avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

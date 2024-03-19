@@ -1,15 +1,15 @@
 ---
 title: right_angle_axes недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 480
+weight: 510
 url: /ru/aspose.cells.charts/chart/right_angle_axes/
 is_root: false
 ---
 ##  right_angle_axes недвижимость
 
-Истинно, если оси диаграммы расположены под прямым углом. Применяется только для трехмерных диаграмм (кроме Column3D и трехмерных круговых диаграмм).
+Верно, если оси диаграммы расположены под прямым углом. Применяется только для трехмерных диаграмм (кроме Column3D и трехмерных круговых диаграмм).
 
 ###  Примечания
 
@@ -25,5 +25,5 @@ def right_angle_axes(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)

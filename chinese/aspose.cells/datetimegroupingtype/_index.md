@@ -1,9 +1,9 @@
 ---
 title: DateTimeGroupingType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1940
+weight: 2010
 url: /zh/aspose.cells/datetimegroupingtype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-DateTimeGroupingType 类型公开了以下成员：
+DateTimeGroupingType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -21,10 +21,10 @@ DateTimeGroupingType 类型公开了以下成员：
 | HOUR |按小时分组。|
 | MINUTE |按分钟分组。|
 | MONTH |按月分组。|
-| SECOND |按秒分组。|
-| YEAR |按年分组。|
+| SECOND |按第二分组。|
+| YEAR |按年份分组。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

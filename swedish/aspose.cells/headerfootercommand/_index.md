@@ -3,7 +3,7 @@ title: HeaderFooterCommand klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 740
+weight: 770
 url: /sv/aspose.cells/headerfootercommand/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen HeaderFooterCommand avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

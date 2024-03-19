@@ -1,15 +1,15 @@
 ---
-title: control_data الملكية
+title: control_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 350
 url: /ar/aspose.cells.drawing/checkbox/control_data/
 is_root: false
 ---
-##  control_data الملكية
+##  control_data عقار
 
-يحصل على بيانات التحكم.
+يحصل على بيانات السيطرة.
 
 ###  مثال
 
@@ -27,5 +27,5 @@ def control_data(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CheckBox](/cells/python-net/ar/aspose.cells.drawing/checkbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CheckBox`](/cells/python-net/ar/aspose.cells.drawing/checkbox)

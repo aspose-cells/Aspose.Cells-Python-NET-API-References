@@ -8,8 +8,6 @@ url: /tr/aspose.cells.pivot/sxrng/by/
 is_root: false
 ---
 ##  by mülk
-
-Grup aralığı için aralık nesnesini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +16,5 @@ def by(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [SxRng](/cells/python-net/tr/aspose.cells.pivot/sxrng)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`SxRng`](/cells/python-net/tr/aspose.cells.pivot/sxrng)

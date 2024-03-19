@@ -7,8 +7,8 @@ weight: 220
 url: /ar/aspose.cells/cells/delete_column/
 is_root: false
 ---
-##  delete_column(column_index) {#int}
-يحذف عمود.
+##  delete_column {#int}
+يحذف عمودًا.
 
 
 
@@ -20,11 +20,11 @@ def delete_column(self, column_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| column_index | int | فهرس العمود.|
+| column_index | int | فهرس العمود المراد حذفه.|
 
 
-##  delete_column(column_index, update_reference) {#int-bool}
-يحذف عمود.
+##  delete_column {#int-bool}
+يحذف عمودًا.
 
 
 
@@ -36,11 +36,11 @@ def delete_column(self, column_index, update_reference):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| column_index | int | فهرس العمود.|
-| update_reference | bool | يشير إلى ما إذا كان يتم تحديث المراجع في أوراق العمل الأخرى.|
+| column_index | int | فهرس العمود المراد حذفه.|
+| update_reference | bool | يشير إلى ما إذا كانت مراجع التحديث موجودة في أوراق العمل الأخرى.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

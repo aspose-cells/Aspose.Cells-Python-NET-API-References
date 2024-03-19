@@ -1,19 +1,19 @@
 ---
 title: is_intersect метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 120
+weight: 140
 url: /ru/aspose.cells/range/is_intersect/
 is_root: false
 ---
-##  is_intersect(range) {#Range}
-Указывает, является ли диапазон пересекающимся.
+##  is_intersect {#aspose.cells.Range}
+Указывает, является ли диапазон пересечением.
 
 
-###  Возвращает
+###  Возврат
 
-Является ли диапазон пересекающимся.
+Пересекается ли диапазон.
 
 
 ```python
@@ -24,13 +24,13 @@ def is_intersect(self, range):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/ru/aspose.cells/range) | Диапазон.|
+| range | [`Range`](/cells/python-net/ru/aspose.cells/range) | Диапазон.|
 ###  Примечания
 
-Если два диапазона не находятся на одном рабочем листе, верните false.
+Если эти два диапазона не находятся на одном листе, верните false.
 
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](../../)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

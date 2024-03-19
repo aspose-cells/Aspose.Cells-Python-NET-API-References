@@ -1,22 +1,22 @@
 ---
-title: width_pt 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: width_pt属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /zh/aspose.cells.drawing/groupshape/width_pt/
 is_root: false
 ---
-## width_pt 属性
+## width_pt属性
 
-表示形状的宽度，以磅为单位。
+表示形状的宽度，以点为单位。
 
 ### 例子
 
 ```python
 
 if shape.width_pt == 3:
-    shape.width_pt = 1
+    shape.width_pt = 1.0
 
 ```
 ### 定义：
@@ -30,5 +30,5 @@ def width_pt(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GroupShape](/cells/python-net/zh/aspose.cells.drawing/groupshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GroupShape`](/cells/python-net/zh/aspose.cells.drawing/groupshape)

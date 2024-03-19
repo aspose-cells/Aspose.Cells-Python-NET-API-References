@@ -1,13 +1,13 @@
 ---
-title: macro_name الملكية
+title: macro_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 800
+weight: 810
 url: /ar/aspose.cells.drawing/groupshape/macro_name/
 is_root: false
 ---
-##  macro_name الملكية
+##  macro_name عقار
 
 الحصول على اسم الماكرو وتعيينه.
 
@@ -30,5 +30,5 @@ def macro_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupShape](/cells/python-net/ar/aspose.cells.drawing/groupshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupShape`](/cells/python-net/ar/aspose.cells.drawing/groupshape)

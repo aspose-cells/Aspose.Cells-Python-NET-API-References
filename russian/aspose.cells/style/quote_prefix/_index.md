@@ -1,9 +1,9 @@
 ---
 title: quote_prefix недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 380
+weight: 440
 url: /ru/aspose.cells/style/quote_prefix/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def quote_prefix(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Style](/cells/python-net/ru/aspose.cells/style)
+* модуль [`aspose.cells`](../../)
+* класс [`Style`](/cells/python-net/ru/aspose.cells/style)

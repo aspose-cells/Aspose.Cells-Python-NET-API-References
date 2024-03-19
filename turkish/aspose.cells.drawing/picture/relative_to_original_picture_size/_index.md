@@ -3,13 +3,13 @@ title: relative_to_original_picture_size mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /tr/aspose.cells.drawing/picture/relative_to_original_picture_size/
 is_root: false
 ---
 ##  relative_to_original_picture_size mülk
 
-Şeklin orijinal resim boyutuna göre olup olmadığını gösterir.
+Şeklin orijinal resim boyutuna göre olup olmadığını belirtir.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def relative_to_original_picture_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)

@@ -1,17 +1,17 @@
 ---
 title: union метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 210
+weight: 230
 url: /ru/aspose.cells/range/union/
 is_root: false
 ---
-##  union(range) {#Range}
-Возвращает union двух диапазонов.
+##  union {#aspose.cells.Range}
+Возвращает union из двух диапазонов.
 
 
-###  Возвращает
+###  Возврат
 
 union двух диапазонов.
 
@@ -24,10 +24,15 @@ def union(self, range):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/ru/aspose.cells/range) | Диапазон|
+| range | [`Range`](/cells/python-net/ru/aspose.cells/range) | Диапазон|
+###  Примечания
 
+ПРИМЕЧАНИЕ. Этот метод устарел. Вместо,
+пожалуйста, используйте метод Range.UnionRang().
+ Этот метод будет удален через 12 месяцев, с ноября 2023 года.
+Aspose приносит извинения за возможные неудобства.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](../../)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

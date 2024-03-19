@@ -1,9 +1,9 @@
 ---
 title: title недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /ru/aspose.cells.drawing/groupbox/title/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GroupBox](/cells/python-net/ru/aspose.cells.drawing/groupbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GroupBox`](/cells/python-net/ru/aspose.cells.drawing/groupbox)

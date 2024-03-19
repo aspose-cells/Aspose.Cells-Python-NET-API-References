@@ -1,17 +1,17 @@
 ---
 title: get_enumerator метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ru/aspose.cells/range/get_enumerator/
 is_root: false
 ---
-##  get_enumerator() {#}
+##  get_enumerator {#}
 Получает перечислитель для ячеек в этом диапазоне.
 
 
-###  Возвращает
+###  Возврат
 
 Перечислитель ячеек
 
@@ -25,8 +25,8 @@ def get_enumerator(self):
 ###  Примечания
 
 При обходе элементов возвращаемым Enumerator коллекция ячеек
-не следует изменять (например, операции, которые вызовут создание новой строки Cell/Row или удаление существующей строки Cell/Row).
-В противном случае счетчик не сможет правильно пройти все ячейки (некоторые элементы могут быть пройдены повторно или пропущены).
+не следует изменять (например, операции, которые приведут к созданию нового экземпляра Cell/Row или удалению существующего Cell/Row).
+В противном случае перечислитель не сможет правильно пройти все ячейки (некоторые элементы могут проходиться повторно или пропускаться).
 ###  Пример
 
 ```python
@@ -43,5 +43,5 @@ for cell in en:
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](../../)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

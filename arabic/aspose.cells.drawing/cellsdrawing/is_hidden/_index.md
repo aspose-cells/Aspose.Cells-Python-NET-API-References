@@ -1,15 +1,15 @@
 ---
-title: is_hidden الملكية
+title: is_hidden عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 570
+weight: 580
 url: /ar/aspose.cells.drawing/cellsdrawing/is_hidden/
 is_root: false
 ---
-##  is_hidden الملكية
+##  is_hidden عقار
 
-يشير إلى ما إذا كان الكائن مرئيًا أم لا.
+يشير إلى ما إذا كان الكائن مرئيًا.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def is_hidden(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CellsDrawing](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CellsDrawing`](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)

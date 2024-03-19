@@ -3,17 +3,17 @@ title: protection propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 700
+weight: 720
 url: /es/aspose.cells/worksheet/protection/
 is_root: false
 ---
 ##  protection propiedad
 
-Representa los distintos tipos de opciones protection disponibles para una hoja de trabajo. Admite opciones avanzadas protection en ExcelXP y versiones superiores.
+Representa los distintos tipos de opciones protection disponibles para una hoja de cálculo. Admite opciones avanzadas protection en ExcelXP y versiones superiores.
 
 ###  Observaciones
 
-Esta propiedad puede proteger la hoja de trabajo en todas las versiones del archivo de Excel y admitir opciones avanzadas protection en ExcelXP y versiones superiores.
+Esta propiedad puede proteger la hoja de cálculo en todas las versiones del archivo Excel y admitir opciones avanzadas protection en ExcelXP y versiones superiores.
 ###  Definición:
 ```python
 @property
@@ -22,6 +22,6 @@ def protection(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Protection](/cells/python-net/es/aspose.cells/protection)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Protection`](/cells/python-net/es/aspose.cells/protection)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

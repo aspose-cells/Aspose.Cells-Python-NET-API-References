@@ -1,15 +1,15 @@
 ---
-title: walls_and_gridlines_2d الملكية
+title: walls_and_gridlines_2d عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 670
 url: /ar/aspose.cells.charts/chart/walls_and_gridlines_2d/
 is_root: false
 ---
-##  walls_and_gridlines_2d الملكية
+##  walls_and_gridlines_2d عقار
 
-صحيح إذا تم رسم خطوط الشبكة ثنائية الأبعاد على مخطط ثلاثي الأبعاد.
+صحيح إذا تم رسم خطوط الشبكة بشكل ثنائي الأبعاد على مخطط ثلاثي الأبعاد.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def walls_and_gridlines_2d(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

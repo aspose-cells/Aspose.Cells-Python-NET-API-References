@@ -1,13 +1,13 @@
 ---
-title: metodo set_locked_property
+title: Metodo set_locked_property
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 190
+weight: 210
 url: /it/aspose.cells.drawing/commentshape/set_locked_property/
 is_root: false
 ---
-##  set_locked_property(type, value) {#ShapeLockType-bool}
+##  set_locked_property {#aspose.cells.drawing.ShapeLockType-bool}
 Imposta la proprietà bloccata.
 
 
@@ -20,7 +20,7 @@ def set_locked_property(self, type, value):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| type | [ShapeLockType](/cells/python-net/it/aspose.cells.drawing/shapelocktype) | Il tipo bloccato.|
+| type | [`ShapeLockType`](/cells/python-net/it/aspose.cells.drawing/shapelocktype) | Il tipo bloccato.|
 | value | bool | Il valore della proprietà.|
 
 ###  Esempio
@@ -35,5 +35,5 @@ shape.set_locked_property(ShapeLockType.ADJUST_HANDLES, True)
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CommentShape](/cells/python-net/it/aspose.cells.drawing/commentshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CommentShape`](/cells/python-net/it/aspose.cells.drawing/commentshape)

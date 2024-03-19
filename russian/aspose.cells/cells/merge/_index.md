@@ -1,13 +1,13 @@
 ---
 title: merge метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 790
+weight: 780
 url: /ru/aspose.cells/cells/merge/
 is_root: false
 ---
-##  merge(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
+##  merge {#int-int-int-int}
 Объединяет указанный диапазон ячеек в одну ячейку.
 
 
@@ -20,15 +20,15 @@ def merge(self, first_row, first_column, total_rows, total_columns):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| first_row | int | Первая строка этого диапазона (с нуля)|
-| first_column | int | Первый столбец этого диапазона (с нуля)|
-| total_rows | int | Количество рядов (на основе одного)|
+| first_row | int | Первая строка этого диапазона (отсчет от нуля)|
+| first_column | int | Первый столбец этого диапазона (отсчет от нуля).|
+| total_rows | int | Количество строк (на основе одной)|
 | total_columns | int | Количество столбцов (на основе одного)|
 ###  Примечания
 
-Ссылка на объединенную ячейку через адрес верхней левой ячейки в диапазоне.
+Ссылайтесь на объединенную ячейку по адресу верхней левой ячейки диапазона.
 
-##  merge(first_row, first_column, total_rows, total_columns, merge_conflict) {#int-int-int-int-bool}
+##  merge {#int-int-int-int-bool}
 
 Объединяет указанный диапазон ячеек в одну ячейку.
 
@@ -42,18 +42,18 @@ def merge(self, first_row, first_column, total_rows, total_columns, merge_confli
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| first_row | int | Первая строка этого диапазона (с нуля)|
-| first_column | int | Первый столбец этого диапазона (с нуля)|
-| total_rows | int | Количество рядов (на основе одного)|
+| first_row | int | Первая строка этого диапазона (отсчет от нуля)|
+| first_column | int | Первый столбец этого диапазона (отсчет от нуля).|
+| total_rows | int | Количество строк (на основе одной)|
 | total_columns | int | Количество столбцов (на основе одного)|
 | merge_conflict | bool | Объединить конфликтующие объединенные диапазоны.|
 ###  Примечания
 
-Ссылка на объединенную ячейку через адрес верхней левой ячейки в диапазоне.
+Ссылайтесь на объединенную ячейку по адресу верхней левой ячейки диапазона.
 Если mergeConflict имеет значение true и объединенный диапазон конфликтует с другими объединенными ячейками,
 другие объединенные ячейки будут автоматически удалены.
 
-##  merge(first_row, first_column, total_rows, total_columns, check_conflict, merge_conflict) {#int-int-int-int-bool-bool}
+##  merge {#int-int-int-int-bool-bool}
 Объединяет указанный диапазон ячеек в одну ячейку.
 
 
@@ -66,19 +66,19 @@ def merge(self, first_row, first_column, total_rows, total_columns, check_confli
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| first_row | int | Первая строка этого диапазона (с нуля)|
-| first_column | int | Первый столбец этого диапазона (с нуля)|
-| total_rows | int | Количество рядов (на основе одного)|
+| first_row | int | Первая строка этого диапазона (отсчет от нуля)|
+| first_column | int | Первый столбец этого диапазона (отсчет от нуля).|
+| total_rows | int | Количество строк (на основе одной)|
 | total_columns | int | Количество столбцов (на основе одного)|
-| check_conflict | bool | Указывает, пересекает ли проверка объединенных ячеек другие объединенные ячейки.|
+| check_conflict | bool | Указывает, пересекает ли объединенная ячейка другие объединенные ячейки.|
 | merge_conflict | bool | Объединить конфликтующие объединенные диапазоны.|
 ###  Примечания
 
-Ссылка на объединенную ячейку через адрес верхней левой ячейки в диапазоне.
+Ссылайтесь на объединенную ячейку по адресу верхней левой ячейки диапазона.
 Если mergeConflict имеет значение true и объединенный диапазон конфликтует с другими объединенными ячейками,
 другие объединенные ячейки будут автоматически удалены.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

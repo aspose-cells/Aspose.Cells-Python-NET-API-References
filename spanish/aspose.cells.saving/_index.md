@@ -12,13 +12,14 @@ is_root: false
 ###  Clases
 | Clase| Descripción|
 | :- | :- |
-| [SqlScriptColumnTypeMap](/cells/python-net/es/aspose.cells.saving/sqlscriptcolumntypemap) | Representa el mapa de tipo de columna.|
-| [SqlScriptSaveOptions](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions) | Representa las opciones de guardar sql.|
+| [`EbookSaveOptions`](/cells/python-net/es/aspose.cells.saving/ebooksaveoptions) | Representa las opciones para guardar archivos de libros electrónicos.|
+| [`SqlScriptColumnTypeMap`](/cells/python-net/es/aspose.cells.saving/sqlscriptcolumntypemap) | Representa el mapa de tipo de columna.|
+| [`SqlScriptSaveOptions`](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions) | Representa las opciones de guardar sql.|
 
 
-###  enumeraciones
+###  Enumeraciones
 |Enumeración| Descripción|
 | :- | :- |
-| [SqlScriptOperatorType](/cells/python-net/es/aspose.cells.saving/sqlscriptoperatortype) | Representa el tipo de datos operativos.|
+| [`SqlScriptOperatorType`](/cells/python-net/es/aspose.cells.saving/sqlscriptoperatortype) | Representa el tipo de datos operativos.|
 
 

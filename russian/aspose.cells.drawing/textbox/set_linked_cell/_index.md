@@ -1,14 +1,14 @@
 ---
 title: set_linked_cell метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 180
+weight: 210
 url: /ru/aspose.cells.drawing/textbox/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell(formula, is_r1c1, is_local) {#str-bool-bool}
-Задает диапазон, связанный со значением элемента управления.
+##  set_linked_cell {#str-bool-bool}
+Устанавливает диапазон, связанный со значением элемента управления.
 
 
 
@@ -21,8 +21,8 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | formula | str | Диапазон, связанный со значением элемента управления.|
-| is_r1c1 | bool | Нужно ли форматировать формулу как R1C1.|
-| is_local | bool | Нужно ли форматировать формулу по локали.|
+| is_r1c1 | bool | Необходимо ли форматировать формулу как R1C1.|
+| is_local | bool | Необходимо ли форматировать формулу по локали.|
 
 ###  Пример
 
@@ -41,5 +41,5 @@ scrollBar.set_linked_cell("$A$12", False, True)
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [TextBox](/cells/python-net/ru/aspose.cells.drawing/textbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`TextBox`](/cells/python-net/ru/aspose.cells.drawing/textbox)

@@ -3,7 +3,7 @@ title: regex_key fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 50
+weight: 60
 url: /sv/aspose.cells/replaceoptions/regex_key/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def regex_key(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ReplaceOptions](/cells/python-net/sv/aspose.cells/replaceoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ReplaceOptions`](/cells/python-net/sv/aspose.cells/replaceoptions)

@@ -3,7 +3,7 @@ title: FormatCondition sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 690
+weight: 720
 url: /tr/aspose.cells/formatcondition/
 is_root: false
 ---
@@ -12,7 +12,7 @@ Koşullu biçimlendirme koşulunu temsil eder.
 
 
 
-FormatCondition türü aşağıdaki üyeleri gösterir:
+FormatCondition türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -20,31 +20,31 @@ FormatCondition türü aşağıdaki üyeleri gösterir:
 | [formula1](/cells/python-net/tr/aspose.cells/formatcondition/formula1) | Koşullu biçimlendirmeyle ilişkili değeri veya ifadeyi alır ve ayarlar.|
 | [formula2](/cells/python-net/tr/aspose.cells/formatcondition/formula2) | Koşullu biçimlendirmeyle ilişkili değeri veya ifadeyi alır ve ayarlar.|
 | [operator](/cells/python-net/tr/aspose.cells/formatcondition/operator) | Koşullu biçim işleç türünü alır ve ayarlar.|
-| [stop_if_true](/cells/python-net/tr/aspose.cells/formatcondition/stop_if_true) |Doğru, bu kural doğru olarak değerlendirildiğinde, daha düşük önceliğe sahip hiçbir kural bu kurala uygulanamaz.<br/> Yalnızca Excel 2007 için geçerlidir;|
-| [priority](/cells/python-net/tr/aspose.cells/formatcondition/priority) | Bu koşullu biçimlendirme kuralının önceliği. Bu değer hangisini belirlemek için kullanılır?<br/>biçimi değerlendirilmeli ve işlenmelidir. Daha düşük sayısal değerler daha yüksek önceliğe sahiptir.<br/> '1'in en yüksek öncelik olduğu daha yüksek sayısal değerler.|
+| [stop_if_true](/cells/python-net/tr/aspose.cells/formatcondition/stop_if_true) | Doğru, bu kural doğru olarak değerlendirildiğinde bu kurala daha düşük önceliğe sahip hiçbir kural uygulanamaz.<br/> Yalnızca Excel 2007 için geçerlidir;|
+| [priority](/cells/python-net/tr/aspose.cells/formatcondition/priority) | Bu koşullu biçimlendirme kuralının önceliği. Bu değer hangisini belirlemek için kullanılır?<br/>formatı değerlendirilmeli ve işlenmelidir. Daha düşük sayısal değerler, şuna göre daha yüksek önceliğe sahiptir:<br/> '1'in en yüksek öncelik olduğu daha yüksek sayısal değerler.|
 | [style](/cells/python-net/tr/aspose.cells/formatcondition/style) | Koşullu biçimlendirilmiş hücre aralıklarının stilini alır veya ayarlar.|
-| [type](/cells/python-net/tr/aspose.cells/formatcondition/type) | Alır ve koşullu biçim Type ayarlar.|
+| [type](/cells/python-net/tr/aspose.cells/formatcondition/type) |Koşullu formatın Type olup olmadığını alır ve ayarlar.|
 | [icon_set](/cells/python-net/tr/aspose.cells/formatcondition/icon_set) | Koşullu biçimlendirmenin "IconSet" örneğini alın.<br/>Varsayılan örneğin IconSetType'ı TrafficLights31'dir.<br/> Yalnızca type = IconSet için geçerlidir.|
-| [data_bar](/cells/python-net/tr/aspose.cells/formatcondition/data_bar) | Koşullu biçimlendirmenin "DataBar" örneğini alın.<br/>Varsayılan örneğin rengi mavidir.<br/> Yalnızca tür için geçerli olan DataBar'dır.|
-| [color_scale](/cells/python-net/tr/aspose.cells/formatcondition/color_scale) | Koşullu biçimlendirmenin "ColorScale" örneğini alın.<br/>Varsayılan örnek bir "yeşil-sarı-kırmızı" 3ColorScale'dir.<br/> Yalnızca type = ColorScale için geçerlidir.|
-| [top10](/cells/python-net/tr/aspose.cells/formatcondition/top10) | Koşullu biçimlendirmenin "Top10" örneğini alın.<br/>Varsayılan örneğin kuralı,<br/>değerler ilk 10 parantez içinde yer alır.<br/> Sadece Top10 türü için geçerlidir.|
-| [above_average](/cells/python-net/tr/aspose.cells/formatcondition/above_average) |Koşullu biçimlendirmenin "AboveAverage" örneğini alın.<br/> Varsayılan örneğin kuralı, şu hücreleri vurgular:<br/>aralıktaki tüm değerler için ortalamanın üzerinde.<br/> Yalnızca type = AboveAverage için geçerlidir.|
-| [text](/cells/python-net/tr/aspose.cells/formatcondition/text) | Bir "metin içerir" koşullu biçimlendirme kuralındaki metin değeri.<br/>Yalnızca type = includeText, notContainsText, beginWith ve biterWith için geçerlidir.<br/> Varsayılan değer boştur.|
-| [time_period](/cells/python-net/tr/aspose.cells/formatcondition/time_period) | Bir "tarih meydana geliyor..." koşullu biçimlendirme kuralında geçerli zaman aralığı.<br/>Yalnızca type = timePeriod için geçerlidir.<br/> Varsayılan değer TimePeriodType.Today'dir.|
+| [data_bar](/cells/python-net/tr/aspose.cells/formatcondition/data_bar) | Koşullu biçimlendirmenin "DataBar" örneğini alın.<br/>Varsayılan örneğin rengi mavidir.<br/> Yalnızca DataBar türü için geçerlidir.|
+| [color_scale](/cells/python-net/tr/aspose.cells/formatcondition/color_scale) | Koşullu biçimlendirmenin "ColorScale" örneğini alın.<br/>Varsayılan örnek "yeşil-sarı-kırmızı" 3ColorScale'dir.<br/> Yalnızca tür = ColorScale için geçerlidir.|
+| [top10](/cells/python-net/tr/aspose.cells/formatcondition/top10) | Koşullu biçimlendirmenin "Top10" örneğini alın.<br/>Varsayılan örneğin kuralı,<br/>değerler ilk 10 parantez içinde yer almaktadır.<br/> Yalnızca Top10 türü için geçerlidir.|
+| [above_average](/cells/python-net/tr/aspose.cells/formatcondition/above_average) | Koşullu biçimlendirmenin "AboveAverage" örneğini alın.<br/> Varsayılan örneğin kuralı, şu hücreleri vurgular:<br/>aralıktaki tüm değerler için ortalamanın üzerinde.<br/>Yalnızca = Ortalamanın Üstündeki türü için geçerlidir.|
+| [text](/cells/python-net/tr/aspose.cells/formatcondition/text) | "Metin şunu içerir" koşullu biçimlendirme kuralındaki metin değeri.<br/>Yalnızca type = includeText, notContainsText, beginWith ve endWith için geçerlidir.<br/> Varsayılan değer null'dur.|
+| [time_period](/cells/python-net/tr/aspose.cells/formatcondition/time_period) | "Gerçekleşen tarih..." koşullu biçimlendirme kuralındaki geçerli zaman aralığı.<br/>Yalnızca type = timePeriod için geçerlidir.<br/> Varsayılan değer TimePeriodType.Today'dır.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [get_formula1(is_r1c1, is_local)](/cells/python-net/tr/aspose.cells/formatcondition/get_formula1/#bool-bool) | Bu biçim koşuluyla ilişkili değeri veya ifadeyi alır.|
-| [get_formula1(is_r1c1, is_local, row, column)](/cells/python-net/tr/aspose.cells/formatcondition/get_formula1/#bool-bool-int-int) | Hücrenin koşullu biçimlendirmesinin değerini veya ifadesini alır.|
-| [get_formula1(row, column)](/cells/python-net/tr/aspose.cells/formatcondition/get_formula1/#int-int) | Hücrenin koşullu biçimlendirmesinin formülünü alır.|
-| [get_formula2(is_r1c1, is_local)](/cells/python-net/tr/aspose.cells/formatcondition/get_formula2/#bool-bool) | Bu biçim koşuluyla ilişkili değeri veya ifadeyi alır.|
-| [get_formula2(is_r1c1, is_local, row, column)](/cells/python-net/tr/aspose.cells/formatcondition/get_formula2/#bool-bool-int-int) | Hücrenin koşullu biçimlendirmesinin değerini veya ifadesini alır.|
-| [get_formula2(row, column)](/cells/python-net/tr/aspose.cells/formatcondition/get_formula2/#int-int) | Hücrenin koşullu biçimlendirmesinin formülünü alır.|
-| [set_formulas(formula1, formula2, is_r1c1, is_local)](/cells/python-net/tr/aspose.cells/formatcondition/set_formulas/#str-str-bool-bool) | Bu biçim koşuluyla ilişkili değeri veya ifadeyi ayarlar.|
-| [set_formula1(formula, is_r1c1, is_local)](/cells/python-net/tr/aspose.cells/formatcondition/set_formula1/#str-bool-bool) | Bu biçim koşuluyla ilişkili değeri veya ifadeyi ayarlar.|
-| [set_formula2(formula, is_r1c1, is_local)](/cells/python-net/tr/aspose.cells/formatcondition/set_formula2/#str-bool-bool) | Bu biçim koşuluyla ilişkili değeri veya ifadeyi ayarlar.|
+| [get_formula1](/cells/python-net/tr/aspose.cells/formatcondition/get_formula1/#bool-bool) | Bu biçim koşuluyla ilişkili değeri veya ifadeyi alır.|
+| [get_formula1](/cells/python-net/tr/aspose.cells/formatcondition/get_formula1/#bool-bool-int-int) | Hücrenin koşullu biçimlendirmesinin değerini veya ifadesini alır.|
+| [get_formula1](/cells/python-net/tr/aspose.cells/formatcondition/get_formula1/#int-int) | Hücrenin koşullu biçimlendirme formülünü alır.|
+| [get_formula2](/cells/python-net/tr/aspose.cells/formatcondition/get_formula2/#bool-bool) | Bu biçim koşuluyla ilişkili değeri veya ifadeyi alır.|
+| [get_formula2](/cells/python-net/tr/aspose.cells/formatcondition/get_formula2/#bool-bool-int-int) | Hücrenin koşullu biçimlendirmesinin değerini veya ifadesini alır.|
+| [get_formula2](/cells/python-net/tr/aspose.cells/formatcondition/get_formula2/#int-int) | Hücrenin koşullu biçimlendirme formülünü alır.|
+| [set_formulas](/cells/python-net/tr/aspose.cells/formatcondition/set_formulas/#str-str-bool-bool) | Bu biçim koşuluyla ilişkili değeri veya ifadeyi ayarlar.|
+| [set_formula1](/cells/python-net/tr/aspose.cells/formatcondition/set_formula1/#str-bool-bool) | Bu biçim koşuluyla ilişkili değeri veya ifadeyi ayarlar.|
+| [set_formula2](/cells/python-net/tr/aspose.cells/formatcondition/set_formula2/#str-bool-bool) | Bu biçim koşuluyla ilişkili değeri veya ifadeyi ayarlar.|
 
 
 
@@ -86,4 +86,4 @@ workbook.save("output.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

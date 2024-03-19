@@ -7,8 +7,8 @@ weight: 140
 url: /de/aspose.cells/cells/convert_string_to_numeric_value/
 is_root: false
 ---
-##  convert_string_to_numeric_value() {#}
-Konvertiert Zeichenfolgendaten in Zellen nach Möglichkeit in numerische Werte.
+##  convert_string_to_numeric_value {#}
+Konvertiert nach Möglichkeit alle Zeichenfolgendaten im Arbeitsblatt in einen numerischen Wert.
 
 
 
@@ -22,5 +22,5 @@ def convert_string_to_numeric_value(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

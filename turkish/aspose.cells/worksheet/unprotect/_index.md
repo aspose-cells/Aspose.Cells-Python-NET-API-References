@@ -3,11 +3,11 @@ title: unprotect yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 320
 url: /tr/aspose.cells/worksheet/unprotect/
 is_root: false
 ---
-##  unprotect() {#}
+##  unprotect {#}
 Çalışma sayfasının korumasını kaldırır.
 
 
@@ -22,7 +22,7 @@ def unprotect(self):
 
 Bu yöntem, parola olmadan korunan çalışma sayfasının korumasını kaldırır.
 
-##  unprotect(password) {#str}
+##  unprotect {#str}
 
 Çalışma sayfasının korumasını kaldırır.
 
@@ -44,5 +44,5 @@ def unprotect(self, password):
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

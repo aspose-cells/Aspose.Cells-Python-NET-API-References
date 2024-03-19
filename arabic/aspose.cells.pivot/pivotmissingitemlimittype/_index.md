@@ -1,27 +1,27 @@
 ---
-title: العد PivotMissingItemLimitType
+title: PivotMissingItemLimitType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 330
 url: /ar/aspose.cells.pivot/pivotmissingitemlimittype/
 is_root: false
 ---
-##  العد PivotMissingItemLimitType
-يمثل عدد العناصر المطلوب الاحتفاظ بها في كل حقل.
+##  PivotMissingItemLimitType التعداد
+يمثل عدد العناصر المطلوب الاحتفاظ بها لكل حقل.
 
 
 
-يكشف نوع PivotMissingItemLimitType الأعضاء التالية:
+يكشف النوع PivotMissingItemLimitType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| AUTOMATIC | العدد الافتراضي للعناصر الفريدة لكل PivotField المسموح به.|
-| MAX | الحد الأقصى لعدد العناصر الفريدة المسموح بها لكل PivotField (> 32500).|
-| NONE | لا يسمح بعناصر فريدة لكل PivotField.|
+| AUTOMATIC | العدد الافتراضي للعناصر الفريدة المسموح بها لكل PivotField.|
+| MAX | الحد الأقصى المسموح به لعدد العناصر الفريدة لكل PivotField (> 32,500).|
+| NONE | لا يُسمح بأي عناصر فريدة لكل PivotField.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](..)
+* الوحدة [`aspose.cells.pivot`](..)

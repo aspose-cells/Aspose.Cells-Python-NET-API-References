@@ -3,7 +3,7 @@ title: min_value Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 330
 url: /de/aspose.cells.charts/axis/min_value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Stellt den Mindestwert auf der Werteachse dar.
 
 ###  Bemerkungen
 
-Der Typ minValue kann nur double oder DateTime sein
+Der Typ „minValue“ kann nur „double“ oder „DateTime“ sein
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def min_value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Axis](/cells/python-net/de/aspose.cells.charts/axis)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Axis`](/cells/python-net/de/aspose.cells.charts/axis)

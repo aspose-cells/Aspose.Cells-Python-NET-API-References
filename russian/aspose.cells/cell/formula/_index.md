@@ -1,20 +1,20 @@
 ---
 title: formula недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 460
+weight: 490
 url: /ru/aspose.cells/cell/formula/
 is_root: false
 ---
 ##  formula недвижимость
 
-Получает или задает formula из [Cell](/cells/python-net/ru/aspose.cells/cell).
+Получает или задает formula из [`Cell`](/cells/python-net/ru/aspose.cells/cell).
 
 ###  Примечания
 
  Строка formula всегда начинается со знака равенства (=).
-И, пожалуйста, всегда используйте запятую (,) в качестве разделителя параметров, например "=СУММ(A1, E1, H2)".
+И пожалуйста, всегда используйте запятую (,) в качестве разделителя параметров, например «=SUM(A1, E1, H2)».
 
 ###  Пример
 
@@ -37,5 +37,5 @@ def formula(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

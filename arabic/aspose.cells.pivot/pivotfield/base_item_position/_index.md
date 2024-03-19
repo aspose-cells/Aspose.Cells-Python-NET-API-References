@@ -1,18 +1,18 @@
 ---
-title: base_item_position الملكية
+title: base_item_position عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 240
 url: /ar/aspose.cells.pivot/pivotfield/base_item_position/
 is_root: false
 ---
-##  base_item_position الملكية
+##  base_item_position عقار
 
-يمثل العنصر في الحقل الأساسي لحساب مخصص.
+يمثل العنصر الموجود في الحقل الأساسي لحساب مخصص.
  صالحة فقط لحقول البيانات.
-لأن PivotItemPosition.Custom للقراءة فقط ، إذا كنت بحاجة إلى تعيين PivotItemPosition.Custom ،
-يرجى تعيين سمة PivotField.BaseItemIndex.
+نظرًا لأن PivotItemPosition.Custom مخصص للقراءة فقط، إذا كنت بحاجة إلى تعيين PivotItemPosition.Custom،
+الرجاء تعيين سمة PivotField.BaseItemIndex.
 ###  تعريف:
 ```python
 @property
@@ -24,6 +24,6 @@ def base_item_position(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
-* فئة [PivotItemPosition](/cells/python-net/ar/aspose.cells.pivot/pivotitemposition)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* فئة [`PivotItemPosition`](/cells/python-net/ar/aspose.cells.pivot/pivotitemposition)

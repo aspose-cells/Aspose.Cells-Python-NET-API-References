@@ -3,13 +3,13 @@ title: allow_edit_ranges propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 340
+weight: 360
 url: /fr/aspose.cells/worksheet/allow_edit_ranges/
 is_root: false
 ---
 ##  allow_edit_ranges propriété
 
-Obtient la collection de plages de modification autorisées dans la feuille de calcul.
+Obtient la collection de plages d’édition autorisées dans la feuille de calcul.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def allow_edit_ranges(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ProtectedRangeCollection](/cells/python-net/fr/aspose.cells/protectedrangecollection)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`ProtectedRangeCollection`](/cells/python-net/fr/aspose.cells/protectedrangecollection)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

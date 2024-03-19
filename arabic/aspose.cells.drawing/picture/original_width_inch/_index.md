@@ -1,15 +1,15 @@
 ---
-title: original_width_inch الملكية
+title: original_width_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 970
+weight: 980
 url: /ar/aspose.cells.drawing/picture/original_width_inch/
 is_root: false
 ---
-##  original_width_inch الملكية
+##  original_width_inch عقار
 
-الحصول على عرض الصورة الأصلي بوحدة البوصة.
+الحصول على العرض الأصلي للصورة بوحدة البوصة.
 
 ###  مثال
 
@@ -37,5 +37,5 @@ def original_width_inch(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

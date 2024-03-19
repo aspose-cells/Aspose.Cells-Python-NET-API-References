@@ -3,12 +3,12 @@ title: طريقة copy_data
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells/range/copy_data/
 is_root: false
 ---
-##  copy_data(range) {#Range}
-ينسخ بيانات الخلية (بما في ذلك الصيغ) من نطاق مصدر.
+##  copy_data {#aspose.cells.Range}
+نسخ بيانات الخلية (بما في ذلك الصيغ) من نطاق مصدر.
 
 
 
@@ -20,10 +20,10 @@ def copy_data(self, range):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/ar/aspose.cells/range) | المصدر [Range](/cells/python-net/ar/aspose.cells/range) كائن.|
+| range | [`Range`](/cells/python-net/ar/aspose.cells/range) |المصدر [`Range`](/cells/python-net/ar/aspose.cells/range) كائن.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

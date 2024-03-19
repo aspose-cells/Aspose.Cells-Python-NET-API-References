@@ -1,17 +1,17 @@
 ---
-title: is_multiple_item_selection_allowed 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_multiple_item_selection_allowed属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 400
+weight: 440
 url: /zh/aspose.cells.pivot/pivotfield/is_multiple_item_selection_allowed/
 is_root: false
 ---
-## is_multiple_item_selection_allowed 属性
+## is_multiple_item_selection_allowed属性
 
 指示该字段是否可以有多个项目
 在页面字段中选择
-默认值为假。
+默认值为 false。
 ### 定义：
 ```python
 @property
@@ -23,5 +23,5 @@ def is_multiple_item_selection_allowed(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotField](/cells/python-net/zh/aspose.cells.pivot/pivotfield)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotField`](/cells/python-net/zh/aspose.cells.pivot/pivotfield)

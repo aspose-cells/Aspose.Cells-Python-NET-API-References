@@ -1,15 +1,15 @@
 ---
-title: index الملكية
+title: index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 550
 url: /ar/aspose.cells/worksheet/index/
 is_root: false
 ---
-##  index الملكية
+##  index عقار
 
-الحصول على index للورقة في مجموعة ورقة العمل.
+يحصل على index من الورقة في مجموعة أوراق العمل.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def index(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

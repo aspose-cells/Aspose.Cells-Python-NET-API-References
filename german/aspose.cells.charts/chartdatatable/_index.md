@@ -3,7 +3,7 @@ title: ChartDataTable Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 60
+weight: 70
 url: /de/aspose.cells.charts/chartdatatable/
 is_root: false
 ---
@@ -17,15 +17,15 @@ Der Typ ChartDataTable macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [font](/cells/python-net/de/aspose.cells.charts/chartdatatable/font) | Ruft ein [ChartDataTable.font](/cells/python-net/de/aspose.cells.charts/chartdatatable#font)-Objekt ab, das die Schriftarteinstellung der angegebenen Diagrammdatentabelle darstellt.|
-| [auto_scale_font](/cells/python-net/de/aspose.cells.charts/chartdatatable/auto_scale_font) | True, wenn der Text im Objekt die Schriftgröße ändert, wenn sich die Objektgröße ändert.<br/> Der Standardwert ist True.|
-| [background_mode](/cells/python-net/de/aspose.cells.charts/chartdatatable/background_mode) | Ruft den Anzeigemodus des Hintergrunds ab und legt ihn fest|
-| [background](/cells/python-net/de/aspose.cells.charts/chartdatatable/background) | Ruft den Anzeigemodus des Hintergrunds ab und legt ihn fest|
-| [has_border_horizontal](/cells/python-net/de/aspose.cells.charts/chartdatatable/has_border_horizontal) |True, wenn die Diagrammdatentabelle horizontale Zellränder hat|
-| [has_border_vertical](/cells/python-net/de/aspose.cells.charts/chartdatatable/has_border_vertical) | True, wenn die Diagrammdatentabelle vertikale Zellenränder hat|
-| [has_border_outline](/cells/python-net/de/aspose.cells.charts/chartdatatable/has_border_outline) | True, wenn die Diagrammdatentabelle Umrissrahmen hat|
+| [font](/cells/python-net/de/aspose.cells.charts/chartdatatable/font) | Ruft ein [`ChartDataTable.font`](/cells/python-net/de/aspose.cells.charts/chartdatatable#font)-Objekt ab, das die Schriftarteinstellung der angegebenen Diagrammdatentabelle darstellt.|
+| [auto_scale_font](/cells/python-net/de/aspose.cells.charts/chartdatatable/auto_scale_font) | True, wenn der Text im Objekt die Schriftgröße ändert, wenn sich die Objektgröße ändert.<br/>Der Standardwert ist True.|
+| [background_mode](/cells/python-net/de/aspose.cells.charts/chartdatatable/background_mode) | Ruft den Anzeigemodus des Hintergrunds ab und legt diesen fest|
+| [background](/cells/python-net/de/aspose.cells.charts/chartdatatable/background) | Ruft den Anzeigemodus des Hintergrunds ab und legt diesen fest|
+| [has_border_horizontal](/cells/python-net/de/aspose.cells.charts/chartdatatable/has_border_horizontal) | True, wenn die Diagrammdatentabelle horizontale Zellränder hat|
+| [has_border_vertical](/cells/python-net/de/aspose.cells.charts/chartdatatable/has_border_vertical) | True, wenn die Diagrammdatentabelle vertikale Zellränder hat|
+| [has_border_outline](/cells/python-net/de/aspose.cells.charts/chartdatatable/has_border_outline) | True, wenn die Diagrammdatentabelle Umrissränder aufweist|
 | [show_legend_key](/cells/python-net/de/aspose.cells.charts/chartdatatable/show_legend_key) | True, wenn der Legendenschlüssel der Datenbeschriftung sichtbar ist.|
-| [border](/cells/python-net/de/aspose.cells.charts/chartdatatable/border) | Gibt ein Border-Objekt zurück, das den Rahmen des Objekts darstellt|
+| [border](/cells/python-net/de/aspose.cells.charts/chartdatatable/border) | Gibt ein Border-Objekt zurück, das den Rand des Objekts darstellt|
 
 
 
@@ -71,4 +71,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

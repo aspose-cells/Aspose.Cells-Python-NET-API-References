@@ -1,15 +1,15 @@
 ---
-title: reflection الملكية
+title: reflection عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 830
+weight: 840
 url: /ar/aspose.cells.drawing/button/reflection/
 is_root: false
 ---
-##  reflection الملكية
+##  reflection عقار
 
-يمثل عنصر [ReflectionEffect](/cells/python-net/ar/aspose.cells.drawing/reflectioneffect) يحدد تأثير reflection لعنصر المخطط أو شكله.
+يمثل كائن [`ReflectionEffect`](/cells/python-net/ar/aspose.cells.drawing/reflectioneffect) الذي يحدد تأثير reflection لعنصر المخطط أو الشكل.
 
 ###  مثال
 
@@ -26,6 +26,6 @@ def reflection(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Button](/cells/python-net/ar/aspose.cells.drawing/button)
-* فئة [ReflectionEffect](/cells/python-net/ar/aspose.cells.drawing/reflectioneffect)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Button`](/cells/python-net/ar/aspose.cells.drawing/button)
+* فئة [`ReflectionEffect`](/cells/python-net/ar/aspose.cells.drawing/reflectioneffect)

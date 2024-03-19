@@ -1,15 +1,15 @@
 ---
-title: row_separator_of_formula_array الملكية
+title: row_separator_of_formula_array عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 340
 url: /ar/aspose.cells/globalizationsettings/row_separator_of_formula_array/
 is_root: false
 ---
-##  row_separator_of_formula_array الملكية
+##  row_separator_of_formula_array عقار
 
-يحصل على فاصل الصفوف في بيانات الصفيف في الصيغة.
+الحصول على فاصل الصفوف في بيانات الصفيف في الصيغة.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def row_separator_of_formula_array(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GlobalizationSettings](/cells/python-net/ar/aspose.cells/globalizationsettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GlobalizationSettings`](/cells/python-net/ar/aspose.cells/globalizationsettings)

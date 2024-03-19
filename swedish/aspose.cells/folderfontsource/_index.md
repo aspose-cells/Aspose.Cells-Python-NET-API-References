@@ -3,7 +3,7 @@ title: FolderFontSource klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 640
+weight: 670
 url: /sv/aspose.cells/folderfontsource/
 is_root: false
 ---
@@ -12,8 +12,8 @@ Representerar mappen som innehåller TrueType-teckensnittsfiler.
 
 
 
-**Arv:** [FolderFontSource](/cells/python-net/aspose.cells/folderfontsource) → 
-[FontSourceBase](/cells/python-net/sv/aspose.cells/fontsourcebase)
+**Arv:** [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource) → 
+[`FontSourceBase`](/cells/python-net/sv/aspose.cells/fontsourcebase)
 
 
 
@@ -22,7 +22,7 @@ Typen FolderFontSource avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [FolderFontSource(folder_path, scan_subfolders)](/cells/python-net/sv/aspose.cells/folderfontsource/__init__/#str-bool) | Ctor.|
+| [__init__](/cells/python-net/sv/aspose.cells/folderfontsource/__init__/#str-bool) | Ctor.|
 
 
 ###  Egenskaper
@@ -35,6 +35,6 @@ Typen FolderFontSource avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [FolderFontSource](/cells/python-net/sv/aspose.cells/folderfontsource)
-* klass [FontSourceBase](/cells/python-net/sv/aspose.cells/fontsourcebase)
+* modul [`aspose.cells`](..)
+* klass [`FolderFontSource`](/cells/python-net/sv/aspose.cells/folderfontsource)
+* klass [`FontSourceBase`](/cells/python-net/sv/aspose.cells/fontsourcebase)

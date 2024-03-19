@@ -1,13 +1,13 @@
 ---
-title: data_display_format الملكية
+title: data_display_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 260
 url: /ar/aspose.cells.pivot/pivotfield/data_display_format/
 is_root: false
 ---
-##  data_display_format الملكية
+##  data_display_format عقار
 
 يمثل كيفية عرض القيم الموجودة في حقل البيانات.
 ###  تعريف:
@@ -21,6 +21,6 @@ def data_display_format(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
-* فئة [PivotFieldDataDisplayFormat](/cells/python-net/ar/aspose.cells.pivot/pivotfielddatadisplayformat)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* فئة [`PivotFieldDataDisplayFormat`](/cells/python-net/ar/aspose.cells.pivot/pivotfielddatadisplayformat)

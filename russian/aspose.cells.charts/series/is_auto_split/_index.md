@@ -1,9 +1,9 @@
 ---
 title: is_auto_split недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 270
+weight: 260
 url: /ru/aspose.cells.charts/series/is_auto_split/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_auto_split(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

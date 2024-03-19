@@ -1,15 +1,15 @@
 ---
 title: is_v_scroll_bar_visible недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 330
+weight: 280
 url: /ru/aspose.cells/workbooksettings/is_v_scroll_bar_visible/
 is_root: false
 ---
 ##  is_v_scroll_bar_visible недвижимость
 
-Получает или задает значение, указывающее, будет ли сгенерированная электронная таблица содержать вертикальную полосу прокрутки.
+Получает или задает значение, указывающее, будет ли созданная электронная таблица содержать вертикальную полосу прокрутки.
 
 ###  Примечания
 
@@ -36,5 +36,5 @@ def is_v_scroll_bar_visible(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

@@ -1,9 +1,9 @@
 ---
 title: Row класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1300
+weight: 1340
 url: /ru/aspose.cells/row/
 is_root: false
 ---
@@ -12,20 +12,19 @@ is_root: false
 
 
 
-Тип Row предоставляет следующие члены:
+Тип Row предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [is_blank](/cells/python-net/ru/aspose.cells/row/is_blank) | Указывает, содержит ли строка какие-либо данные|
 | [is_collapsed](/cells/python-net/ru/aspose.cells/row/is_collapsed) | свернута ли строка|
-| [height](/cells/python-net/ru/aspose.cells/row/height) | Получает и задает высоту строки в пунктах.|
+| [height](/cells/python-net/ru/aspose.cells/row/height) | Получает и задает высоту строки в баллах.|
 | [is_hidden](/cells/python-net/ru/aspose.cells/row/is_hidden) | Указывает, скрыта ли строка.|
 | [index](/cells/python-net/ru/aspose.cells/row/index) | Получает индекс этой строки.|
 | [group_level](/cells/python-net/ru/aspose.cells/row/group_level) | Получает уровень группы строки.|
-| [is_height_matched](/cells/python-net/ru/aspose.cells/row/is_height_matched) |Указывает, что высота строки и высота шрифта по умолчанию совпадают.|
-| [style](/cells/python-net/ru/aspose.cells/row/style) | Представляет стиль этой строки.|
-| [has_custom_style](/cells/python-net/ru/aspose.cells/row/has_custom_style) | Указывает, есть ли в этой строке пользовательские настройки стиля (отличные от настроек по умолчанию, унаследованных от книги).|
+| [is_height_matched](/cells/python-net/ru/aspose.cells/row/is_height_matched) | Указывает, соответствует ли высота строки текущей настройке шрифта по умолчанию в книге.<br/>Значение true для этого свойства также означает, что высота строки является «автоматической» без специального значения высоты, установленного пользователем.|
+| [has_custom_style](/cells/python-net/ru/aspose.cells/row/has_custom_style) | Указывает, имеет ли эта строка пользовательские настройки стиля (отличные от стиля по умолчанию, унаследованного из книги).|
 | [first_cell](/cells/python-net/ru/aspose.cells/row/first_cell) | Получает первый объект ячейки в строке.|
 | [first_data_cell](/cells/python-net/ru/aspose.cells/row/first_data_cell) | Получает первую непустую ячейку в строке.|
 | [last_cell](/cells/python-net/ru/aspose.cells/row/last_cell) | Получает последний объект ячейки в строке.|
@@ -43,13 +42,14 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_cell_by_index(index)](/cells/python-net/ru/aspose.cells/row/get_cell_by_index/#int) | Получить ячейку по определенному индексу в списке.|
-| [get_cell_or_null(column)](/cells/python-net/ru/aspose.cells/row/get_cell_or_null/#int) | Получает ячейку или null в указанном индексе.|
-| [get_style()](/cells/python-net/ru/aspose.cells/row/get_style/#) | Получает стиль этой строки.|
-| [set_style(style)](/cells/python-net/ru/aspose.cells/row/set_style/#Style) | Устанавливает стиль этой строки.|
-| [copy_settings(source, check_style)](/cells/python-net/ru/aspose.cells/row/copy_settings/#Row-bool) | Скопируйте настройки строки, такие как стиль, высота, видимость и т. д.|
-| [apply_style(style, flag)](/cells/python-net/ru/aspose.cells/row/apply_style/#Style-StyleFlag) | Применяет форматы ко всей строке.|
-| [equals(row)](/cells/python-net/ru/aspose.cells/row/equals/#Row) | Проверяет, ссылается ли этот объект на ту же строку с другим объектом строки.|
+| [get_cell_by_index](/cells/python-net/ru/aspose.cells/row/get_cell_by_index/#int) | Получите ячейку по определенному индексу в коллекции ячеек этой строки.|
+| [get_enumerator](/cells/python-net/ru/aspose.cells/row/get_enumerator/#bool-bool) | Получает перечислитель, который перебирает ячейки в этой строке.|
+| [get_cell_or_null](/cells/python-net/ru/aspose.cells/row/get_cell_or_null/#int) | Получает ячейку или значение NULL в определенном индексе.|
+| [get_style](/cells/python-net/ru/aspose.cells/row/get_style/#) | Получает стиль этой строки.|
+| [set_style](/cells/python-net/ru/aspose.cells/row/set_style/#aspose.cells.Style) | Устанавливает стиль этой строки.|
+| [copy_settings](/cells/python-net/ru/aspose.cells/row/copy_settings/#aspose.cells.Row-bool) | Скопируйте настройки строки, такие как стиль, высота, видимость и т. д.|
+| [apply_style](/cells/python-net/ru/aspose.cells/row/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Применяет форматы для всей строки.|
+| [equals](/cells/python-net/ru/aspose.cells/row/equals/#aspose.cells.Row) | Проверяет, ссылается ли этот объект на одну и ту же строку с другим объектом строки.|
 
 
 
@@ -84,4 +84,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

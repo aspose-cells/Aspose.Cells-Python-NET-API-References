@@ -1,15 +1,15 @@
 ---
 title: reflection недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 850
+weight: 860
 url: /ru/aspose.cells.drawing/checkbox/reflection/
 is_root: false
 ---
 ##  reflection недвижимость
 
-Представляет объект [ReflectionEffect](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect), задающий эффект reflection для элемента диаграммы или фигуры.
+Представляет объект [`ReflectionEffect`](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect), задающий эффект reflection для элемента или фигуры диаграммы.
 
 ###  Пример
 
@@ -26,6 +26,6 @@ def reflection(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CheckBox](/cells/python-net/ru/aspose.cells.drawing/checkbox)
-* класс [ReflectionEffect](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CheckBox`](/cells/python-net/ru/aspose.cells.drawing/checkbox)
+* класс [`ReflectionEffect`](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect)

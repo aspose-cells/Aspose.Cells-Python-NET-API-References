@@ -3,7 +3,7 @@ title: background fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 80
 url: /sv/aspose.cells.charts/legend/background/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def background(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [BackgroundMode](/cells/python-net/sv/aspose.cells.charts/backgroundmode)
-* klass [Legend](/cells/python-net/sv/aspose.cells.charts/legend)
+* modul [`aspose.cells.charts`](../../)
+* klass [`BackgroundMode`](/cells/python-net/sv/aspose.cells.charts/backgroundmode)
+* klass [`Legend`](/cells/python-net/sv/aspose.cells.charts/legend)

@@ -1,26 +1,26 @@
 ---
-title: العد GridlineType
+title: GridlineType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2120
+weight: 2190
 url: /ar/aspose.cells/gridlinetype/
 is_root: false
 ---
-##  العد GridlineType
+##  GridlineType التعداد
 تعداد نوع خط الشبكة.
 
 
 
-يكشف نوع GridlineType الأعضاء التالية:
+يكشف النوع GridlineType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DOTTED | يمثل خط منقط.|
+| DOTTED | يمثل الخط المنقط.|
 | HAIR | يمثل خط الشعر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: TextCapsType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2530
+weight: 2620
 url: /de/aspose.cells/textcapstype/
 is_root: false
 ---
@@ -17,11 +17,11 @@ Der Typ TextCapsType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| NONE | Keine Kappen|
-| ALL | Wenden Sie alle Großbuchstaben auf den Text an.|
-| SMALL | Wende Kapitälchen auf den Text an.|
+| NONE | Keine Obergrenzen|
+| ALL | Setzen Sie den Text in Großbuchstaben.|
+| SMALL | Setzen Sie Kapitälchen auf den Text.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

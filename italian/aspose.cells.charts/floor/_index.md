@@ -1,34 +1,34 @@
 ---
-title: classe Floor
+title: Floor classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 160
+weight: 170
 url: /it/aspose.cells.charts/floor/
 is_root: false
 ---
-##  classe Floor
-Incapsula l'oggetto che rappresenta la base di un grafico 3D.
+##  Floor classe
+Incapsula l'oggetto che rappresenta il fondo di un grafico 3D.
 
 
 
-**Eredità:** [Floor](/cells/python-net/aspose.cells.charts/floor) → 
-[Area](/cells/python-net/it/aspose.cells.drawing/area)
+**Eredità:** [`Floor`](/cells/python-net/aspose.cells.charts/floor) → 
+[`Area`](/cells/python-net/it/aspose.cells.drawing/area)
 
 
 
-Il tipo Floor espone i membri seguenti:
+Il tipo Floor espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [background_color](/cells/python-net/it/aspose.cells.charts/floor/background_color) | Ottiene o imposta il colore di sfondo di [Area](/cells/python-net/it/aspose.cells.drawing/area).|
-| [foreground_color](/cells/python-net/it/aspose.cells.charts/floor/foreground_color) | Ottiene o imposta il Color in primo piano.|
+| [background_color](/cells/python-net/it/aspose.cells.charts/floor/background_color) | Ottiene o imposta il colore di sfondo di [`Area`](/cells/python-net/it/aspose.cells.drawing/area).|
+| [foreground_color](/cells/python-net/it/aspose.cells.charts/floor/foreground_color) | Ottiene o imposta il colore di primo piano.|
 | [formatting](/cells/python-net/it/aspose.cells.charts/floor/formatting) | Rappresenta la formattazione dell'area.|
 | [invert_if_negative](/cells/python-net/it/aspose.cells.charts/floor/invert_if_negative) | Se la proprietà è vera e il valore del punto del grafico è un numero negativo,<br/> il colore di primo piano e il colore di sfondo verranno scambiati.|
-| [fill_format](/cells/python-net/it/aspose.cells.charts/floor/fill_format) | Rappresenta un oggetto [Area.fill_format](/cells/python-net/it/aspose.cells.drawing/area#fill_format) che contiene le proprietà di formattazione del riempimento per il grafico o la forma specificati.|
-| [transparency](/cells/python-net/it/aspose.cells.charts/floor/transparency) | Restituisce o imposta il grado di trasparenza dell'area come valore compreso tra 0,0 (opaco) e 1,0 (trasparente).|
-| [border](/cells/python-net/it/aspose.cells.charts/floor/border) | Ottiene o imposta il bordo [Line](/cells/python-net/it/aspose.cells.drawing/line).|
+| [fill_format](/cells/python-net/it/aspose.cells.charts/floor/fill_format) | Rappresenta un oggetto [`Area.fill_format`](/cells/python-net/it/aspose.cells.drawing/area#fill_format) che contiene le proprietà di formattazione del riempimento per il grafico o la forma specificata.|
+| [transparency](/cells/python-net/it/aspose.cells.charts/floor/transparency) |Restituisce o imposta il grado di trasparenza dell'area come un valore compreso tra 0,0 (opaco) e 1,0 (chiaro).|
+| [border](/cells/python-net/it/aspose.cells.charts/floor/border) | Ottiene o imposta il bordo [`Line`](/cells/python-net/it/aspose.cells.drawing/line).|
 
 
 
@@ -74,7 +74,7 @@ workbook.save(r"dest.xls")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
-* classe [Area](/cells/python-net/it/aspose.cells.drawing/area)
-* classe [Floor](/cells/python-net/it/aspose.cells.charts/floor)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
+* modulo [`aspose.cells.charts`](..)
+* classe [`Area`](/cells/python-net/it/aspose.cells.drawing/area)
+* classe [`Floor`](/cells/python-net/it/aspose.cells.charts/floor)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)

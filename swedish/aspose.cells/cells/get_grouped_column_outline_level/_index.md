@@ -3,11 +3,11 @@ title: get_grouped_column_outline_level metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 380
 url: /sv/aspose.cells/cells/get_grouped_column_outline_level/
 is_root: false
 ---
-##  get_grouped_column_outline_level(column_index) {#int}
+##  get_grouped_column_outline_level {#int}
 Hämtar konturnivån (nollbaserad) för kolumnen.
 
 
@@ -32,5 +32,5 @@ Om kolumnen inte är grupperad returneras noll.
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

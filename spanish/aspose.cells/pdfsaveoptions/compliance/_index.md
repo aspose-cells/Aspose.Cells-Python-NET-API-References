@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  compliance propiedad
 
-El libro de trabajo se convierte a pdf de acuerdo con PdfCompliance en esta propiedad.
+Obtiene o establece el nivel de los estándares PDF compliance para los documentos de salida.
+
+###  Observaciones
+
+El valor predeterminado es Pdf17.
 ###  Definición:
 ```python
 @property
@@ -21,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PdfCompliance](/cells/python-net/es/aspose.cells.rendering/pdfcompliance)
-* clase [PdfSaveOptions](/cells/python-net/es/aspose.cells/pdfsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PdfCompliance`](/cells/python-net/es/aspose.cells.rendering/pdfcompliance)
+* clase [`PdfSaveOptions`](/cells/python-net/es/aspose.cells/pdfsaveoptions)

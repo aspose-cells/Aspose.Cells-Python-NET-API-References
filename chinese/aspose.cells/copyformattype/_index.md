@@ -1,9 +1,9 @@
 ---
 title: CopyFormatType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1880
+weight: 1950
 url: /zh/aspose.cells/copyformattype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-CopyFormatType 类型公开了以下成员：
+CopyFormatType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| SAME_AS_ABOVE |格式与上一行相同。|
-| SAME_AS_BELOW |格式与下行相同。|
+| SAME_AS_ABOVE |格式与上行相同。|
+| SAME_AS_BELOW |格式与下面行相同。|
 | CLEAR |清除格式。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

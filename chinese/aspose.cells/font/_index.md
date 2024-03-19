@@ -1,9 +1,9 @@
 ---
 title: Font类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 650
+weight: 680
 url: /zh/aspose.cells/font/
 is_root: false
 ---
@@ -12,35 +12,35 @@ is_root: false
 
 
 
-Font 类型公开了以下成员：
+Font 类型公开以下成员：
 
 ### 特性
 |属性|描述|
 | :- | :- |
-| [charset](/cells/python-net/zh/aspose.cells/font/charset) |表示字符集。|
+| [charset](/cells/python-net/zh/aspose.cells/font/charset) |代表字符集。|
 | [is_italic](/cells/python-net/zh/aspose.cells/font/is_italic) |获取或设置一个值，该值指示字体是否为斜体。|
-| [is_bold](/cells/python-net/zh/aspose.cells/font/is_bold) |获取或设置一个值，该值指示字体是否为粗体。|
+| [is_bold](/cells/python-net/zh/aspose.cells/font/is_bold) |获取或设置一个指示字体是否为粗体的值。|
 | [caps_type](/cells/python-net/zh/aspose.cells/font/caps_type) |获取和设置文本大写类型。|
-| [strike_type](/cells/python-net/zh/aspose.cells/font/strike_type) |获取文本的敲击类型。|
+| [strike_type](/cells/python-net/zh/aspose.cells/font/strike_type) |获取文本的罢工类型。|
 | [is_strikeout](/cells/python-net/zh/aspose.cells/font/is_strikeout) |获取或设置一个值，该值指示字体是否为单删除线。|
-| [script_offset](/cells/python-net/zh/aspose.cells/font/script_offset) |获取和设置脚本偏移量，以百分比为单位|
+| [script_offset](/cells/python-net/zh/aspose.cells/font/script_offset) |获取和设置脚本偏移量，单位为百分比|
 | [is_superscript](/cells/python-net/zh/aspose.cells/font/is_superscript) |获取或设置一个值，该值指示字体是否为超级脚本。|
 | [is_subscript](/cells/python-net/zh/aspose.cells/font/is_subscript) |获取或设置一个值，该值指示字体是否为下标。|
 | [underline](/cells/python-net/zh/aspose.cells/font/underline) |获取或设置字体下划线类型。|
-| [name](/cells/python-net/zh/aspose.cells/font/name) |获取或设置 [Font](/cells/python-net/zh/aspose.cells/font) 的名称。|
+| [name](/cells/python-net/zh/aspose.cells/font/name) |获取或设置 [`Font`](/cells/python-net/zh/aspose.cells/font) 的名称。|
 | [double_size](/cells/python-net/zh/aspose.cells/font/double_size) |获取和设置字体的双倍大小。|
 | [size](/cells/python-net/zh/aspose.cells/font/size) |获取或设置字体的大小。|
 | [theme_color](/cells/python-net/zh/aspose.cells/font/theme_color) |获取和设置主题颜色。|
 | [color](/cells/python-net/zh/aspose.cells/font/color) |获取或设置字体的颜色。|
-| [argb_color](/cells/python-net/zh/aspose.cells/font/argb_color) |使用 32 位 ARGB 值获取和设置颜色。|
-| [is_normalize_heights](/cells/python-net/zh/aspose.cells/font/is_normalize_heights) |指示要应用于文本的高度规范化是否运行。|
+| [argb_color](/cells/python-net/zh/aspose.cells/font/argb_color) |获取和设置 32 位 ARGB 值的颜色。|
+| [is_normalize_heights](/cells/python-net/zh/aspose.cells/font/is_normalize_heights) |指示是否要应用到文本的高度标准化。|
 | [scheme_type](/cells/python-net/zh/aspose.cells/font/scheme_type) |获取和设置字体的方案类型。|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [equals(font)](/cells/python-net/zh/aspose.cells/font/equals/#Font) |检查两个字体是否相等。|
+| [equals](/cells/python-net/zh/aspose.cells/font/equals/#aspose.cells.Font) |检查两种字体是否相等。|
 
 
 
@@ -71,5 +71,5 @@ workbook.save(r"dest.xls")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
-* 类 [Font](/cells/python-net/zh/aspose.cells/font)
+* 模块[`aspose.cells`](..)
+* 类 [`Font`](/cells/python-net/zh/aspose.cells/font)

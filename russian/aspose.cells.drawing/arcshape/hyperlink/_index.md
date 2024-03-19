@@ -1,15 +1,15 @@
 ---
 title: hyperlink недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 550
+weight: 560
 url: /ru/aspose.cells.drawing/arcshape/hyperlink/
 is_root: false
 ---
 ##  hyperlink недвижимость
 
-Получает hyperlink формы.
+Получает hyperlink фигуры.
 
 ###  Пример
 
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ArcShape](/cells/python-net/ru/aspose.cells.drawing/arcshape)
-* класс [Hyperlink](/cells/python-net/ru/aspose.cells/hyperlink)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ArcShape`](/cells/python-net/ru/aspose.cells.drawing/arcshape)
+* класс [`Hyperlink`](/cells/python-net/ru/aspose.cells/hyperlink)

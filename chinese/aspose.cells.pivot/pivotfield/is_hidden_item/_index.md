@@ -1,19 +1,19 @@
 ---
 title: is_hidden_item方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 130
 url: /zh/aspose.cells.pivot/pivotfield/is_hidden_item/
 is_root: false
 ---
-##  is_hidden_item(index) {#int}
+##  is_hidden_item {#int}
 指示特定 PivotItem 是否隐藏。
 
 
-### 返回
+### 退货
 
-特定的 PivotItem 是否被隐藏
+特定的 PivotItem 是否隐藏
 
 
 ```python
@@ -24,10 +24,10 @@ def is_hidden_item(self, index):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| index | int | pivotField 中 pivotItem 的索引。|
+| index | int |数据透视项在数据透视字段中的索引。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotField](/cells/python-net/zh/aspose.cells.pivot/pivotfield)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotField`](/cells/python-net/zh/aspose.cells.pivot/pivotfield)

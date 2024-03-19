@@ -3,7 +3,7 @@ title: refresh_chart_cache fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 100
 url: /sv/aspose.cells/odssaveoptions/refresh_chart_cache/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def refresh_chart_cache(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [OdsSaveOptions](/cells/python-net/sv/aspose.cells/odssaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`OdsSaveOptions`](/cells/python-net/sv/aspose.cells/odssaveoptions)

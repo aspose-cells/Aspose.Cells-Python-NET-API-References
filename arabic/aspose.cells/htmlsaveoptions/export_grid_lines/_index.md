@@ -1,15 +1,15 @@
 ---
-title: export_grid_lines الملكية
+title: export_grid_lines عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 260
 url: /ar/aspose.cells/htmlsaveoptions/export_grid_lines/
 is_root: false
 ---
-##  export_grid_lines الملكية
+##  export_grid_lines عقار
 
-الإشارة إلى ما إذا كان تصدير خطوط الشبكة أم لا. القيمة الافتراضية هي false.
+تشير إلى ما إذا كان سيتم تصدير خطوط الشبكة أم لا. القيمة الافتراضية خاطئة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_grid_lines(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

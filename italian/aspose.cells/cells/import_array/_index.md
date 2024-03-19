@@ -1,13 +1,13 @@
 ---
-title: metodo import_array
+title: Metodo import_array
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 610
+weight: 600
 url: /it/aspose.cells/cells/import_array/
 is_root: false
 ---
-##  import_array(string_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+##  import_array {#list-int-int-bool}
 Importa una matrice di stringhe in un foglio di lavoro.
 
 
@@ -26,7 +26,7 @@ def import_array(self, string_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Specifica di importare i dati verticalmente o orizzontalmente.|
 
 
-##  import_array(int_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+##  import_array {#list-int-int-bool}
 Importa una matrice di numeri interi in un foglio di lavoro.
 
 
@@ -45,7 +45,7 @@ def import_array(self, int_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Specifica di importare i dati verticalmente o orizzontalmente.|
 
 
-##  import_array(double_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+##  import_array {#list-int-int-bool}
 Importa una matrice di double in un foglio di lavoro.
 
 
@@ -66,5 +66,5 @@ def import_array(self, double_array, first_row, first_column, is_vertical):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

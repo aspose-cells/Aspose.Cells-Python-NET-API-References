@@ -1,5 +1,5 @@
 ---
-title: metodo clear
+title: Metodo clear
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 90
 url: /it/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear() {#}
-Cancella tutti gli oggetti cella e riga.
+##  clear {#}
+Cancella tutti i dati del foglio di lavoro.
 
 
 
@@ -22,5 +22,5 @@ def clear(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

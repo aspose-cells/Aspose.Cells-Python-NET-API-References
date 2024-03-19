@@ -3,13 +3,13 @@ title: is_vertical Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 110
 url: /de/aspose.cells/exporttableoptions/is_vertical/
 is_root: false
 ---
 ##  is_vertical Eigentum
 
-True, wenn eine Zeile in der Arbeitsmappendatei eine Zeile in DataTable darstellt. False, wenn eine Spalte in der Arbeitsmappendatei eine Zeile in DataTable darstellt.
+True, wenn eine Zeile in der Arbeitsmappendatei eine Zeile in der Datentabelle darstellt. Falsch, wenn eine Spalte in der Arbeitsmappendatei eine Zeile in der Datentabelle darstellt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_vertical(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ExportTableOptions](/cells/python-net/de/aspose.cells/exporttableoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ExportTableOptions`](/cells/python-net/de/aspose.cells/exporttableoptions)

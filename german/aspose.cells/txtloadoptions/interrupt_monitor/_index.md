@@ -3,13 +3,13 @@ title: interrupt_monitor Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 200
 url: /de/aspose.cells/txtloadoptions/interrupt_monitor/
 is_root: false
 ---
 ##  interrupt_monitor Eigentum
 
-Ruft den Interrupt-Monitor ab und setzt ihn.
+Ruft den Interrupt-Monitor ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def interrupt_monitor(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AbstractInterruptMonitor](/cells/python-net/de/aspose.cells/abstractinterruptmonitor)
-* Klasse [TxtLoadOptions](/cells/python-net/de/aspose.cells/txtloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AbstractInterruptMonitor`](/cells/python-net/de/aspose.cells/abstractinterruptmonitor)
+* Klasse [`TxtLoadOptions`](/cells/python-net/de/aspose.cells/txtloadoptions)

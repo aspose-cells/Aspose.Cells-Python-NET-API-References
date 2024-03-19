@@ -3,7 +3,7 @@ title: format_strategy fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 90
 url: /sv/aspose.cells/exporttableoptions/format_strategy/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def format_strategy(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellValueFormatStrategy](/cells/python-net/sv/aspose.cells/cellvalueformatstrategy)
-* klass [ExportTableOptions](/cells/python-net/sv/aspose.cells/exporttableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CellValueFormatStrategy`](/cells/python-net/sv/aspose.cells/cellvalueformatstrategy)
+* klass [`ExportTableOptions`](/cells/python-net/sv/aspose.cells/exporttableoptions)

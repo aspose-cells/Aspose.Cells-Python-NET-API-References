@@ -1,9 +1,9 @@
 ---
 title: TrendlineType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 670
+weight: 680
 url: /ru/aspose.cells.charts/trendlinetype/
 is_root: false
 ---
@@ -12,19 +12,19 @@ is_root: false
 
 
 
-Тип TrendlineType предоставляет следующие члены:
+Тип TrendlineType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| EXPONENTIAL | экспоненциальный|
+| EXPONENTIAL | Экспоненциальный|
 | LINEAR | Линейный|
-| LOGARITHMIC | Логарифмический|
-| MOVING_AVERAGE | скользящее среднее|
+| LOGARITHMIC | логарифмический|
+| MOVING_AVERAGE | Скользящее среднее|
 | POLYNOMIAL | Полиномиальный|
 | POWER | Власть|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

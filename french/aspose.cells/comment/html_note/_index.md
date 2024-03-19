@@ -3,17 +3,17 @@ title: html_note propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 150
 url: /fr/aspose.cells/comment/html_note/
 is_root: false
 ---
 ##  html_note propriété
 
-Obtient et définit la chaîne html qui contient des données et certains formats dans ce commentaire.
+Obtient et définit la chaîne HTML qui contient les données et certains formats dans ce commentaire.
 
 ###  Remarques
 
-S'il s'agit d'un commentaire fileté, la note ne pourrait pas être modifiée, sinon MS Excel ne pourrait pas la traiter comme un commentaire fileté.
+S'il s'agit d'un commentaire filé, la note ne pourra pas être modifiée, sinon MS Excel ne pourra pas la traiter comme un commentaire filé.
 
 ###  Exemple
 
@@ -33,5 +33,5 @@ def html_note(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Comment](/cells/python-net/fr/aspose.cells/comment)
+* module [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/fr/aspose.cells/comment)

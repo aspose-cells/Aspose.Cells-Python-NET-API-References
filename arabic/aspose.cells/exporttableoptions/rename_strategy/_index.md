@@ -1,15 +1,15 @@
 ---
-title: rename_strategy الملكية
+title: rename_strategy عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 150
 url: /ar/aspose.cells/exporttableoptions/rename_strategy/
 is_root: false
 ---
-##  rename_strategy الملكية
+##  rename_strategy عقار
 
-استراتيجية لتكرار أسماء الأعمدة.
+استراتيجية لأسماء الأعمدة المكررة.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def rename_strategy(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ExportTableOptions](/cells/python-net/ar/aspose.cells/exporttableoptions)
-* فئة [RenameStrategy](/cells/python-net/ar/aspose.cells/renamestrategy)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ExportTableOptions`](/cells/python-net/ar/aspose.cells/exporttableoptions)
+* فئة [`RenameStrategy`](/cells/python-net/ar/aspose.cells/renamestrategy)

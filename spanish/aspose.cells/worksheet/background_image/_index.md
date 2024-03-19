@@ -3,13 +3,13 @@ title: background_image propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 360
+weight: 380
 url: /es/aspose.cells/worksheet/background_image/
 is_root: false
 ---
 ##  background_image propiedad
 
-Obtiene y establece la imagen de fondo de la hoja de trabajo.
+Obtiene y establece la imagen de fondo de la hoja de cálculo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def background_image(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

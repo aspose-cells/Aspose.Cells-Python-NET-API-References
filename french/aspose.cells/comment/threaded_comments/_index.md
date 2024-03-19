@@ -3,13 +3,13 @@ title: threaded_comments propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 220
+weight: 230
 url: /fr/aspose.cells/comment/threaded_comments/
 is_root: false
 ---
 ##  threaded_comments propriété
 
-Obtient la liste des commentaires thématiques ;
+Obtient la liste des commentaires du fil de discussion ;
 
 ###  Exemple
 
@@ -29,6 +29,6 @@ def threaded_comments(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Comment](/cells/python-net/fr/aspose.cells/comment)
-* classe [ThreadedCommentCollection](/cells/python-net/fr/aspose.cells/threadedcommentcollection)
+* module [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/fr/aspose.cells/comment)
+* classe [`ThreadedCommentCollection`](/cells/python-net/fr/aspose.cells/threadedcommentcollection)

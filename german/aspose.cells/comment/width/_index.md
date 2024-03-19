@@ -3,13 +3,13 @@ title: width Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 240
 url: /de/aspose.cells/comment/width/
 is_root: false
 ---
 ##  width Eigentum
 
-Stellt die width des Kommentars in Pixeleinheiten dar.
+Stellt die width des Kommentars in der Einheit Pixel dar.
 
 ###  Beispiel
 
@@ -29,5 +29,5 @@ def width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Comment](/cells/python-net/de/aspose.cells/comment)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Comment`](/cells/python-net/de/aspose.cells/comment)

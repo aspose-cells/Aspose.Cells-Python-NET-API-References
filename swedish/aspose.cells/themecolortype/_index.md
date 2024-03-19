@@ -3,12 +3,12 @@ title: ThemeColorType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2580
+weight: 2670
 url: /sv/aspose.cells/themecolortype/
 is_root: false
 ---
 ##  ThemeColorType uppräkning
-Räknar upp temafärgtyperna.
+Räknar upp temafärgstyperna.
 
 
 
@@ -34,4 +34,4 @@ Typen ThemeColorType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -1,9 +1,9 @@
 ---
 title: PivotFilter类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 30
+weight: 100
 url: /zh/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
@@ -12,20 +12,20 @@ is_root: false
 
 
 
-PivotFilter 类型公开了以下成员：
+PivotFilter 类型公开以下成员：
 
 ### 特性
 |属性|描述|
 | :- | :- |
-| [auto_filter](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/auto_filter) |获取数据透视过滤器的自动过滤器。|
-| [filter_type](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/filter_type) |获取数据透视过滤器的自动过滤器类型。|
+| [auto_filter](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/auto_filter) |获取枢轴过滤器的自动过滤器。|
+| [filter_type](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/filter_type) |获取数据透视过滤器的自动过滤类型。|
 | [field_index](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/field_index) |获取数据透视过滤器的字段索引。|
-| [value1](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/value1) |获取标签数据透视过滤器的字符串 value1。|
-| [value2](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/value2) |获取标签数据透视过滤器的字符串值 2。|
+| [value1](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/value1) |获取标签透视过滤器的字符串 value1。|
+| [value2](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/value2) |获取标签透视过滤器的字符串 value2。|
 | [measure_fld_index](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/measure_fld_index) |获取数据透视过滤器的度量字段索引。|
 | [member_property_field_index](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/member_property_field_index) |获取数据透视过滤器的成员属性字段索引。|
 | [name](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/name) |获取数据透视过滤器的名称。|
-| [evaluation_order](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/evaluation_order) |获取数据透视过滤器的评估顺序。|
+| [evaluation_order](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/evaluation_order) |获取枢轴过滤器的评估顺序。|
 
 
 
@@ -84,4 +84,4 @@ book.save("out.xlsx")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](..)
+* 模块[`aspose.cells.pivot`](..)

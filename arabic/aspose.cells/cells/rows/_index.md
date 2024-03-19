@@ -1,15 +1,15 @@
 ---
-title: rows الملكية
+title: rows عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1240
+weight: 1230
 url: /ar/aspose.cells/cells/rows/
 is_root: false
 ---
-##  rows الملكية
+##  rows عقار
 
-الحصول على مجموعة [Row](/cells/python-net/ar/aspose.cells/row) كائنات تمثل rows الفردي في ورقة العمل هذه.
+الحصول على مجموعة الكائنات [`Row`](/cells/python-net/ar/aspose.cells/row) التي تمثل الفرد rows في ورقة العمل هذه.
 ###  تعريف:
 ```python
 @property
@@ -18,7 +18,7 @@ def rows(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
-* فئة [Row](/cells/python-net/ar/aspose.cells/row)
-* فئة [RowCollection](/cells/python-net/ar/aspose.cells/rowcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)
+* فئة [`Row`](/cells/python-net/ar/aspose.cells/row)
+* فئة [`RowCollection`](/cells/python-net/ar/aspose.cells/rowcollection)

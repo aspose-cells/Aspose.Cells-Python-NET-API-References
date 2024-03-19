@@ -1,13 +1,13 @@
 ---
-title: gamma الملكية
+title: gamma عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells.drawing/msoformatpicture/gamma/
 is_root: false
 ---
-##  gamma الملكية
+##  gamma عقار
 
 يمثل gamma من الصورة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def gamma(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoFormatPicture](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoFormatPicture`](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)

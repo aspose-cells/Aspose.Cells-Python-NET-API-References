@@ -1,15 +1,15 @@
 ---
-title: left_crop الملكية
+title: left_crop عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells.drawing/msoformatpicture/left_crop/
 is_root: false
 ---
-##  left_crop الملكية
+##  left_crop عقار
 
-يمثل موقع يسار مستطيل الاقتصاص معبرًا عنه كنسبة من عرض الصورة.
+يمثل موقع يسار مستطيل الاقتصاص، معبرًا عنه كنسبة من عرض الصورة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_crop(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoFormatPicture](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoFormatPicture`](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)

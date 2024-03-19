@@ -3,35 +3,35 @@ title: PivotFormatCondition sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 50
+weight: 120
 url: /tr/aspose.cells.pivot/pivotformatcondition/
 is_root: false
 ---
 ##  PivotFormatCondition sınıfı
-PivotFormatCondition Koleksiyonunda bir PivotTable Format Koşulunu temsil eder.
+PivotFormatCondition Koleksiyonundaki PivotTable Format Koşulunu temsil eder.
 
 
 
-PivotFormatCondition türü aşağıdaki üyeleri gösterir:
+PivotFormatCondition türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [scope_type](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/scope_type) | Pivot tablo koşul biçimi için kapsam türünü alın ve ayarlayın.|
 | [rule_type](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/rule_type) | Pivot tablo koşul biçimi için kural türünü alın ve ayarlayın.|
-| [format_conditions](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/format_conditions) | Pivot tablo koşul biçimi için biçim koşullarını alın.|
+| [format_conditions](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/format_conditions) | Pivot tablo koşulu formatı için formatkoşullarını alın.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add_data_area_condition(field_name)](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) | Veri alanlarına PivotTable koşullu biçim sınırı ekler.|
-| [add_data_area_condition(data_field)](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#PivotField) | Veri alanlarına PivotTable koşullu biçim sınırı ekler.|
-| [add_row_area_condition(field_name)](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) | Satır alanlarına PivotTable koşullu biçim sınırı ekler.|
-| [add_row_area_condition(row_field)](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#PivotField) | Satır alanlarına PivotTable koşullu biçim sınırı ekler.|
-| [add_column_area_condition(field_name)](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) | Sütun alanlarına PivotTable koşullu biçim sınırı ekler.|
-| [add_column_area_condition(column_field)](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#PivotField) | Sütun alanlarına PivotTable koşullu biçim sınırı ekler.|
-| [set_conditional_areas()](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) | PivotFormatCondition nesnesinin koşullu alanlarını ayarlar.|
+| [add_data_area_condition](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) | Veri alanlarına PivotTable koşullu biçim sınırını ekler.|
+| [add_data_area_condition](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#aspose.cells.pivot.PivotField) | Veri alanlarına PivotTable koşullu biçim sınırını ekler.|
+| [add_row_area_condition](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) | Satır alanlarına PivotTable koşullu biçim sınırını ekler.|
+| [add_row_area_condition](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#aspose.cells.pivot.PivotField) | Satır alanlarına PivotTable koşullu biçim sınırını ekler.|
+| [add_column_area_condition](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) | Sütun alanlarına PivotTable koşullu biçim sınırını ekler.|
+| [add_column_area_condition](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#aspose.cells.pivot.PivotField) | Sütun alanlarına PivotTable koşullu biçim sınırını ekler.|
+| [set_conditional_areas](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) | PivotFormatCondition nesnesinin koşullu alanlarını ayarlar.|
 
 
 
@@ -97,4 +97,4 @@ book.save("out.xlsx")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](..)
+* modül [`aspose.cells.pivot`](..)

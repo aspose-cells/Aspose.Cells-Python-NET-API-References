@@ -1,15 +1,15 @@
 ---
-title: image_type الملكية
+title: image_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 590
 url: /ar/aspose.cells.drawing/picture/image_type/
 is_root: false
 ---
-##  image_type الملكية
+##  image_type عقار
 
-يحصل على تنسيق صورة الصورة.
+يحصل على تنسيق الصورة للصورة.
 
 ###  مثال
 
@@ -42,6 +42,6 @@ def image_type(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ImageType](/cells/python-net/ar/aspose.cells.drawing/imagetype)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ImageType`](/cells/python-net/ar/aspose.cells.drawing/imagetype)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

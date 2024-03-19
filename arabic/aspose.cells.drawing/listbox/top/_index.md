@@ -1,19 +1,19 @@
 ---
-title: top الملكية
+title: top عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /ar/aspose.cells.drawing/listbox/top/
 is_root: false
 ---
-##  top الملكية
+##  top عقار
 
-يمثل الإزاحة الرأسية للشكل من صفه top ، بوحدة البكسل.
+يمثل الإزاحة الرأسية للشكل من الصف top، بوحدة البكسل.
 
 ###  ملاحظات
 
-إذا كان الشكل في المخطط ، فإنه يمثل الإزاحة الرأسية للشكل من حده top.
+إذا كان الشكل موجودًا في المخطط، فإنه يمثل الإزاحة الرأسية للشكل من حدوده top.
 
 ###  مثال
 
@@ -34,5 +34,5 @@ def top(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)

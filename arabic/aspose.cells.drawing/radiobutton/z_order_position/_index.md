@@ -1,13 +1,13 @@
 ---
-title: z_order_position الملكية
+title: z_order_position عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1270
+weight: 1290
 url: /ar/aspose.cells.drawing/radiobutton/z_order_position/
 is_root: false
 ---
-##  z_order_position الملكية
+##  z_order_position عقار
 
 إرجاع موضع الشكل بالترتيب z.
 
@@ -29,5 +29,5 @@ def z_order_position(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

@@ -3,13 +3,13 @@ title: text_direction proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /it/aspose.cells.drawing/picture/text_direction/
 is_root: false
 ---
 ##  text_direction proprietà
 
-Ottiene/imposta la direzione del flusso di testo per questo oggetto.
+Ottiene/imposta la direzione del flusso del testo per questo oggetto.
 
 ###  Esempio
 
@@ -31,6 +31,6 @@ def text_direction(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
-* classe [TextDirectionType](/cells/python-net/it/aspose.cells/textdirectiontype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)
+* classe [`TextDirectionType`](/cells/python-net/it/aspose.cells/textdirectiontype)

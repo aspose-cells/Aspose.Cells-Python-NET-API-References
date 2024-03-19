@@ -1,15 +1,15 @@
 ---
 title: image_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 590
+weight: 600
 url: /ru/aspose.cells.drawing/oleobject/image_data/
 is_root: false
 ---
 ##  image_data недвижимость
 
-Представляет изображение объекта ole в виде массива байтов.
+Представляет изображение ole-объекта в виде массива байтов.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

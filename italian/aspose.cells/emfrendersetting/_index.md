@@ -1,26 +1,26 @@
 ---
-title: EmfRenderSetting enumerazione
+title: Enumerazione EmfRenderSetting
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1990
+weight: 2060
 url: /it/aspose.cells/emfrendersetting/
 is_root: false
 ---
-##  EmfRenderSetting enumerazione
-Impostazione per il rendering del metafile EMF.
+##  Enumerazione EmfRenderSetting
+Impostazione per il rendering del metafile Emf.
 
 
 
-Il tipo EmfRenderSetting espone i membri seguenti:
+Il tipo EmfRenderSetting espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| EMF_ONLY | Solo rendering di record Emf.|
+| EMF_ONLY | Renderizza solo i record EMF.|
 | EMF_PLUS_PREFER | Preferisci il rendering dei record EmfPlus.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

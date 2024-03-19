@@ -3,12 +3,12 @@ title: طريقة import_array
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 600
 url: /ar/aspose.cells/cells/import_array/
 is_root: false
 ---
-##  import_array(string_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-يستورد مصفوفة سلسلة في ورقة عمل.
+##  import_array {#list-int-int-bool}
+استيراد مجموعة من السلسلة إلى ورقة عمل.
 
 
 
@@ -20,14 +20,14 @@ def import_array(self, string_array, first_row, first_column, is_vertical):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| string_array | list | مجموعة سلسلة.|
-| first_row | int | رقم صف الخلية الأولى المطلوب الاستيراد فيها.|
-| first_column | int | رقم العمود الخاص بالخلية الأولى التي سيتم الاستيراد فيها.|
-| is_vertical | bool | يُحدد لاستيراد البيانات عموديًا أو أفقيًا.|
+| string_array | list | مصفوفة السلسلة.|
+| first_row | int | رقم الصف للخلية الأولى المراد الاستيراد فيها.|
+| first_column | int | رقم عمود الخلية الأولى المراد الاستيراد فيها.|
+| is_vertical | bool | يحدد لاستيراد البيانات عموديا أو أفقيا.|
 
 
-##  import_array(int_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-يستورد مصفوفة من الأعداد الصحيحة في ورقة عمل.
+##  import_array {#list-int-int-bool}
+استيراد مجموعة من الأعداد الصحيحة إلى ورقة عمل.
 
 
 
@@ -39,14 +39,14 @@ def import_array(self, int_array, first_row, first_column, is_vertical):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| int_array | list | مجموعة عدد صحيح.|
-| first_row | int | رقم صف الخلية الأولى المطلوب الاستيراد فيها.|
-| first_column | int | رقم العمود الخاص بالخلية الأولى التي سيتم الاستيراد فيها.|
-| is_vertical | bool | يُحدد لاستيراد البيانات عموديًا أو أفقيًا.|
+| int_array | list | مصفوفة عدد صحيح.|
+| first_row | int | رقم الصف للخلية الأولى المراد الاستيراد فيها.|
+| first_column | int | رقم عمود الخلية الأولى المراد الاستيراد فيها.|
+| is_vertical | bool | يحدد لاستيراد البيانات عموديا أو أفقيا.|
 
 
-##  import_array(double_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-يستورد صفيف من المضاعفات في ورقة عمل.
+##  import_array {#list-int-int-bool}
+استيراد مصفوفة مزدوجة إلى ورقة عمل.
 
 
 
@@ -58,13 +58,13 @@ def import_array(self, double_array, first_row, first_column, is_vertical):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| double_array | list | صفيف مزدوج.|
-| first_row | int | رقم صف الخلية الأولى المطلوب الاستيراد فيها.|
-| first_column | int | رقم العمود الخاص بالخلية الأولى التي سيتم الاستيراد فيها.|
-| is_vertical | bool | يُحدد لاستيراد البيانات عموديًا أو أفقيًا.|
+| double_array | list | مصفوفة مزدوجة.|
+| first_row | int | رقم الصف للخلية الأولى المراد الاستيراد فيها.|
+| first_column | int | رقم عمود الخلية الأولى المراد الاستيراد فيها.|
+| is_vertical | bool | يحدد لاستيراد البيانات عموديا أو أفقيا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

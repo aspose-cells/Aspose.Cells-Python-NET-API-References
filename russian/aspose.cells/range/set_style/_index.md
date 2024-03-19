@@ -1,13 +1,13 @@
 ---
 title: set_style метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 190
+weight: 210
 url: /ru/aspose.cells/range/set_style/
 is_root: false
 ---
-##  set_style(style) {#Style}
+##  set_style {#aspose.cells.Style}
 Устанавливает стиль диапазона.
 
 
@@ -20,10 +20,10 @@ def set_style(self, style):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/ru/aspose.cells/style) | Объект стиля.|
+| style | [`Style`](/cells/python-net/ru/aspose.cells/style) | Объект Стиль.|
 
 
-##  set_style(style, explicit_flag) {#Style-bool}
+##  set_style {#aspose.cells.Style-bool}
 Примените стиль ячейки.
 
 
@@ -36,11 +36,11 @@ def set_style(self, style, explicit_flag):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/ru/aspose.cells/style) | Стиль клетки.|
-| explicit_flag | bool | Правда, только перезапись форматирования, которое задано явно.|
+| style | [`Style`](/cells/python-net/ru/aspose.cells/style) | Стиль ячейки.|
+| explicit_flag | bool | Правда, перезаписывает только явно заданное форматирование.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](../../)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

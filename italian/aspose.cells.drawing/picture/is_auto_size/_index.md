@@ -3,14 +3,14 @@ title: is_auto_size proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 600
+weight: 610
 url: /it/aspose.cells.drawing/picture/is_auto_size/
 is_root: false
 ---
 ##  is_auto_size proprietà
 
-True indica che la dimensione dell'oggetto ole verrà modificata automaticamente come dimensione dell'istantanea del contenuto incorporato
-quando l'oggetto ole è attivato.
+Vero indica che la dimensione dell'oggetto oleo verrà modificata automaticamente come dimensione dell'istantanea del contenuto incorporato
+quando l'oggetto ole viene attivato.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_auto_size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

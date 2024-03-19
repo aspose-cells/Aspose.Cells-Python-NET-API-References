@@ -1,13 +1,13 @@
 ---
-title: stream_provider 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: stream_provider属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 350
+weight: 380
 url: /zh/aspose.cells/htmlloadoptions/stream_provider/
 is_root: false
 ---
-## stream_provider 属性
+## stream_provider属性
 
 获取或设置用于导入对象的 StreamProviderImportHtmlFile。
 ### 定义：
@@ -21,6 +21,6 @@ def stream_provider(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlLoadOptions](/cells/python-net/zh/aspose.cells/htmlloadoptions)
-* 类 [IStreamProvider](/cells/python-net/zh/aspose.cells/istreamprovider)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlLoadOptions`](/cells/python-net/zh/aspose.cells/htmlloadoptions)
+* 类 [`IStreamProvider`](/cells/python-net/zh/aspose.cells/istreamprovider)

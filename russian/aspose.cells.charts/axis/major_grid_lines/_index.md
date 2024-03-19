@@ -1,9 +1,9 @@
 ---
 title: major_grid_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ru/aspose.cells.charts/axis/major_grid_lines/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def major_grid_lines(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
-* класс [Line](/cells/python-net/ru/aspose.cells.drawing/line)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)
+* класс [`Line`](/cells/python-net/ru/aspose.cells.drawing/line)

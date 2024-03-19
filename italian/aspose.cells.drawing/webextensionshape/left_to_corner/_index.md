@@ -3,7 +3,7 @@ title: left_to_corner proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 700
+weight: 710
 url: /it/aspose.cells.drawing/webextensionshape/left_to_corner/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def left_to_corner(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [WebExtensionShape](/cells/python-net/it/aspose.cells.drawing/webextensionshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`WebExtensionShape`](/cells/python-net/it/aspose.cells.drawing/webextensionshape)

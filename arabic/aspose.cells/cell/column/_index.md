@@ -1,15 +1,15 @@
 ---
-title: column الملكية
+title: column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 410
 url: /ar/aspose.cells/cell/column/
 is_root: false
 ---
-##  column الملكية
+##  column عقار
 
-الحصول على column رقم الخلية (على أساس الصفر).
+يحصل على رقم column (على أساس صفر) للخلية.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

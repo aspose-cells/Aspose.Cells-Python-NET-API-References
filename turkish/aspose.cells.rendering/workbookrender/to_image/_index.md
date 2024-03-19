@@ -3,11 +3,11 @@ title: to_image yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 50
 url: /tr/aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
-##  to_image(stream) {#io.RawIOBase}
+##  to_image {#io.RawIOBase}
 Akış için tüm çalışma kitabını Tiff Görüntüsü olarak işleyin.
 
 
@@ -20,11 +20,11 @@ def to_image(self, stream):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| stream | io.RawIOBase | çıkış görüntüsünün akışı|
+| stream | io.RawIOBase | çıktı görüntüsünün akışı|
 
 
-##  to_image(filename) {#str}
-Tüm çalışma kitabını bir dosyaya Tiff Görüntüsü olarak işleyin.
+##  to_image {#str}
+Çalışma kitabının tamamını Tiff Görüntüsü olarak bir dosyaya dönüştürün.
 
 
 
@@ -39,7 +39,7 @@ def to_image(self, filename):
 | filename | str | çıktı görüntüsünün dosya adı|
 
 
-##  to_image(page_index, file_name) {#int-str}
+##  to_image {#int-str}
 Belirli bir sayfayı bir dosyaya dönüştürün.
 
 
@@ -56,7 +56,7 @@ def to_image(self, page_index, file_name):
 | file_name | str | çıktı görüntüsünün dosya adı|
 
 
-##  to_image(page_index, stream) {#int-io.RawIOBase}
+##  to_image {#int-io.RawIOBase}
 Belirli bir sayfayı bir akışa dönüştürün.
 
 
@@ -70,10 +70,10 @@ def to_image(self, page_index, stream):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | page_index | int | hangi sayfanın dönüştürüleceğini belirtin|
-| stream | io.RawIOBase | çıkış görüntüsünün akışı|
+| stream | io.RawIOBase | çıktı görüntüsünün akışı|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [WorkbookRender](/cells/python-net/tr/aspose.cells.rendering/workbookrender)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`WorkbookRender`](/cells/python-net/tr/aspose.cells.rendering/workbookrender)

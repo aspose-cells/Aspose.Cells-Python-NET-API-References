@@ -1,18 +1,18 @@
 ---
 title: ScenarioInputCell类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1350
+weight: 1390
 url: /zh/aspose.cells/scenarioinputcell/
 is_root: false
 ---
 ## ScenarioInputCell类
-表示场景的输入单元格。
+代表场景的输入单元格。
 
 
 
-ScenarioInputCell 类型公开了以下成员：
+ScenarioInputCell 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -26,4 +26,4 @@ ScenarioInputCell 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

@@ -1,13 +1,13 @@
 ---
-title: remove_auto_filter méthode
+title: méthode remove_auto_filter
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 210
+weight: 230
 url: /fr/aspose.cells/worksheet/remove_auto_filter/
 is_root: false
 ---
-##  remove_auto_filter() {#}
+##  remove_auto_filter {#}
 Supprime le filtre automatique de la feuille de calcul.
 
 
@@ -22,5 +22,5 @@ def remove_auto_filter(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

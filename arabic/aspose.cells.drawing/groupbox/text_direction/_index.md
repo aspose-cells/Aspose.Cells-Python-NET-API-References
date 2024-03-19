@@ -1,15 +1,15 @@
 ---
-title: text_direction الملكية
+title: text_direction عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 940
+weight: 950
 url: /ar/aspose.cells.drawing/groupbox/text_direction/
 is_root: false
 ---
-##  text_direction الملكية
+##  text_direction عقار
 
-الحصول على / تعيين اتجاه تدفق النص لهذا الكائن.
+الحصول على/تعيين اتجاه تدفق النص لهذا الكائن.
 
 ###  مثال
 
@@ -31,6 +31,6 @@ def text_direction(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupBox](/cells/python-net/ar/aspose.cells.drawing/groupbox)
-* فئة [TextDirectionType](/cells/python-net/ar/aspose.cells/textdirectiontype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupBox`](/cells/python-net/ar/aspose.cells.drawing/groupbox)
+* فئة [`TextDirectionType`](/cells/python-net/ar/aspose.cells/textdirectiontype)

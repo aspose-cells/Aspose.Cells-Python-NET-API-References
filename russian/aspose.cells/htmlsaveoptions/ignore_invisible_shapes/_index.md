@@ -1,19 +1,19 @@
 ---
 title: ignore_invisible_shapes недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 420
+weight: 450
 url: /ru/aspose.cells/htmlsaveoptions/ignore_invisible_shapes/
 is_root: false
 ---
 ##  ignore_invisible_shapes недвижимость
 
-Укажите, экспортируются ли невидимые фигуры
+Укажите, следует ли экспортировать невидимые фигуры.
 
 ###  Примечания
 
-Значения по умолчанию — ложь.
+Значения по умолчанию — false.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def ignore_invisible_shapes(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)

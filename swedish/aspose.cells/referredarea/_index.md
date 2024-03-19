@@ -3,7 +3,7 @@ title: ReferredArea klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1270
+weight: 1310
 url: /sv/aspose.cells/referredarea/
 is_root: false
 ---
@@ -30,12 +30,12 @@ Typen ReferredArea avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_values()](/cells/python-net/sv/aspose.cells/referredarea/get_values/#) | Får cellvärden i detta område.|
-| [get_values(calculate_formulas)](/cells/python-net/sv/aspose.cells/referredarea/get_values/#bool) | Får cellvärden i detta område.|
-| [get_value(row_offset, col_offset)](/cells/python-net/sv/aspose.cells/referredarea/get_value/#int-int) | Får cellvärde med given offset från det övre vänstra området i detta område.|
-| [get_value(row_offset, col_offset, calculate_formulas)](/cells/python-net/sv/aspose.cells/referredarea/get_value/#int-int-bool) | Får cellvärde med given offset från det övre vänstra området i detta område.|
+| [get_values](/cells/python-net/sv/aspose.cells/referredarea/get_values/#) | Får cellvärden i detta område.|
+| [get_values](/cells/python-net/sv/aspose.cells/referredarea/get_values/#bool) | Får cellvärden i detta område.|
+| [get_value](/cells/python-net/sv/aspose.cells/referredarea/get_value/#int-int) | Får cellvärde med given offset från det övre vänstra området i detta område.|
+| [get_value](/cells/python-net/sv/aspose.cells/referredarea/get_value/#int-int-bool) | Får cellvärde med given offset från det övre vänstra området i detta område.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

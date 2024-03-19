@@ -1,17 +1,17 @@
 ---
 title: default_font недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ru/aspose.cells/pptxsaveoptions/default_font/
 is_root: false
 ---
 ##  default_font недвижимость
 
-Когда символы в Excel имеют формат Unicode и для них не задан правильный шрифт в стиле ячейки,
-Они могут отображаться как блок в pdf, изображение.
-Установите DefaultFont, например MingLiu или MS Gothic, чтобы отображались эти символы.
+Если символы в Excel имеют формат Unicode и не имеют правильного шрифта в стиле ячейки,
+Они могут отображаться как блоки в формате pdf, изображения.
+Установите DefaultFont, например MingLiu или MS Gothic, чтобы отобразить эти символы.
 Если это свойство не установлено, Aspose.Cells будет использовать системный шрифт по умолчанию для отображения этих символов Юникода.
 ###  Определение:
 ```python
@@ -24,5 +24,5 @@ def default_font(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PptxSaveOptions](/cells/python-net/ru/aspose.cells/pptxsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PptxSaveOptions`](/cells/python-net/ru/aspose.cells/pptxsaveoptions)

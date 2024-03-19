@@ -1,26 +1,26 @@
 ---
-title: IconFilter الدرجة
+title: IconFilter صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 890
+weight: 930
 url: /ar/aspose.cells/iconfilter/
 is_root: false
 ---
-##  IconFilter الدرجة
-يمثل مرشح رمز.
+##  IconFilter صف
+يمثل مرشح الأيقونة.
 
 
 
-يكشف نوع IconFilter الأعضاء التالية:
+يكشف النوع IconFilter عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [icon_set_type](/cells/python-net/ar/aspose.cells/iconfilter/icon_set_type) |الحصول على مجموعة الرموز المستخدمة في معايير التصفية وتعيينها.|
-| [icon_id](/cells/python-net/ar/aspose.cells/iconfilter/icon_id) | الحصول على الفهرس الصفري لأيقونة في مجموعة الرموز وتعيينه.|
+| [icon_set_type](/cells/python-net/ar/aspose.cells/iconfilter/icon_set_type) | الحصول على مجموعة الرموز المستخدمة في معايير التصفية وتعيينها.|
+| [icon_id](/cells/python-net/ar/aspose.cells/iconfilter/icon_id) | الحصول على فهرس يستند إلى الصفر لرمز في مجموعة أيقونات وتعيينه.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

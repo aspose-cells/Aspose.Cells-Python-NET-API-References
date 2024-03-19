@@ -3,7 +3,7 @@ title: placement fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 840
+weight: 860
 url: /sv/aspose.cells.drawing/radiobutton/placement/
 is_root: false
 ---
@@ -32,6 +32,6 @@ def placement(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PlacementType](/cells/python-net/sv/aspose.cells.drawing/placementtype)
-* klass [RadioButton](/cells/python-net/sv/aspose.cells.drawing/radiobutton)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PlacementType`](/cells/python-net/sv/aspose.cells.drawing/placementtype)
+* klass [`RadioButton`](/cells/python-net/sv/aspose.cells.drawing/radiobutton)

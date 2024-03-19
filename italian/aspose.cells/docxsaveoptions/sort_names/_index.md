@@ -3,7 +3,7 @@ title: sort_names proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 100
+weight: 270
 url: /it/aspose.cells/docxsaveoptions/sort_names/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sort_names(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DocxSaveOptions](/cells/python-net/it/aspose.cells/docxsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`DocxSaveOptions`](/cells/python-net/it/aspose.cells/docxsaveoptions)

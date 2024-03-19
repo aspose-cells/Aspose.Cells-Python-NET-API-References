@@ -7,7 +7,7 @@ weight: 40
 url: /sv/aspose.cells/workbook/calculate_formula/
 is_root: false
 ---
-##  calculate_formula() {#}
+##  calculate_formula {#}
 Beräknar resultatet av formler.
 
 
@@ -22,7 +22,7 @@ def calculate_formula(self):
 
 För alla formler som stöds, se listan på https://docs.aspose.com/display/cellsnet/Supported+Formula+Functions
 
-##  calculate_formula(ignore_error) {#bool}
+##  calculate_formula {#bool}
 
 Beräknar resultatet av formler.
 
@@ -36,10 +36,10 @@ def calculate_formula(self, ignore_error):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| ignore_error | bool | Indikerar om dölj felet i beräkningsformler. Felet kan vara en funktion som inte stöds, externa länkar, etc.|
+| ignore_error | bool |Indikerar om dölj felet i beräkningsformler. Felet kan vara en funktion som inte stöds, externa länkar, etc.|
 
 
-##  calculate_formula(options) {#CalculationOptions}
+##  calculate_formula {#aspose.cells.CalculationOptions}
 Beräkna formler i denna arbetsbok.
 
 
@@ -52,32 +52,10 @@ def calculate_formula(self, options):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| options | [CalculationOptions](/cells/python-net/sv/aspose.cells/calculationoptions) | Alternativ för beräkning|
+| options | [`CalculationOptions`](/cells/python-net/sv/aspose.cells/calculationoptions) | Alternativ för beräkning|
 
-
-##  calculate_formula(ignore_error, custom_function) {#bool-ICustomFunction}
-Beräknar resultatet av formler.
-
-
-
-```python
-def calculate_formula(self, ignore_error, custom_function):
-    ...
-```
-
-
-| Parameter| Typ| Beskrivning|
-| :- | :- | :- |
-| ignore_error | bool | Indikerar om dölj felet i beräkningsformler. Felet kan vara en funktion som inte stöds, externa länkar, etc.|
-| custom_function | [ICustomFunction](/cells/python-net/sv/aspose.cells/icustomfunction) | Den anpassade formelberäkningen fungerar för att utöka beräkningsmotorn.|
-###  Anmärkningar
-
-OBS: Denna medlem är nu föråldrad. Istället,
-använd metoden CalculateFormula(CalculationOptions).
- Denna metod kommer att tas bort 12 månader senare sedan augusti 2020.
-Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

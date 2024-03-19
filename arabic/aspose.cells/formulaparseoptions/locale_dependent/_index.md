@@ -1,15 +1,15 @@
 ---
-title: locale_dependent الملكية
+title: locale_dependent عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells/formulaparseoptions/locale_dependent/
 is_root: false
 ---
-##  locale_dependent الملكية
+##  locale_dependent عقار
 
-ما إذا كانت الصيغة منسقة محليًا أم لا. الافتراضي هو خطأ.
+ما إذا كانت الصيغة منسقة بالإعدادات المحلية. الافتراضي خطأ.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def locale_dependent(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormulaParseOptions](/cells/python-net/ar/aspose.cells/formulaparseoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormulaParseOptions`](/cells/python-net/ar/aspose.cells/formulaparseoptions)

@@ -3,13 +3,13 @@ title: max_data_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1110
+weight: 1100
 url: /es/aspose.cells/cells/max_data_row/
 is_root: false
 ---
 ##  max_data_row propiedad
 
-Índice de fila máximo de celda que contiene datos.
+Índice máximo de fila de la celda que contiene datos.
 
 ###  Observaciones
 
@@ -22,5 +22,5 @@ def max_data_row(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

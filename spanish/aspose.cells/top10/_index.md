@@ -3,14 +3,14 @@ title: Top10 clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1480
+weight: 1550
 url: /es/aspose.cells/top10/
 is_root: false
 ---
 ##  Top10 clase
- Describa la regla de formato condicional Top10.
+ Describe la regla de formato condicional Top10.
 Esta regla de formato condicional resalta las celdas cuyas
-los valores caen en el paréntesis N superior o N inferior, según se especifica.
+los valores se encuentran en el corchete N superior o N inferior, según se especifica.
 
 
 
@@ -19,15 +19,15 @@ El tipo Top10 expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [Top10()](/cells/python-net/es/aspose.cells/top10/__init__/#) |Construye una nueva instancia de Top10|
+| [__init__](/cells/python-net/es/aspose.cells/top10/__init__/#) | Construye una nueva instancia de Top10|
 
 
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [is_percent](/cells/python-net/es/aspose.cells/top10/is_percent) | Obtenga o establezca si una regla de "n superior/inferior" es una regla de "n porcentaje superior/inferior".<br/> El valor predeterminado es falso.|
-| [is_bottom](/cells/python-net/es/aspose.cells/top10/is_bottom) | Obtenga o establezca si una regla "n superior/inferior" es una regla "n inferior".<br/> El valor predeterminado es falso.|
-| [rank](/cells/python-net/es/aspose.cells/top10/rank) | Obtener o establecer el valor de "n" en una regla de formato condicional "arriba/abajo n".<br/>Si IsPercent es verdadero, el valor debe estar entre 0 y 100.<br/>En caso contrario debe estar entre 0 y 1000.<br/> El valor predeterminado es 10.|
+| [is_percent](/cells/python-net/es/aspose.cells/top10/is_percent) | Obtenga o establezca si una regla de "n porcentaje superior/inferior" es una regla de "n porcentaje superior/inferior".<br/> El valor predeterminado es falso.|
+| [is_bottom](/cells/python-net/es/aspose.cells/top10/is_bottom) | Obtenga o establezca si una regla de "n superiores/inferiores" es una regla de "n inferiores".<br/> El valor predeterminado es falso.|
+| [rank](/cells/python-net/es/aspose.cells/top10/rank) | Obtenga o establezca el valor de "n" en una regla de formato condicional "n superior/inferior".<br/>Si IsPercent es verdadero, el valor debe estar entre 0 y 100.<br/>De lo contrario, debe estar entre 0 y 1000.<br/> El valor predeterminado es 10.|
 
 
 
@@ -60,4 +60,4 @@ workbook.save("output.xls")
 ```
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: export_page_footers Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 290
+weight: 310
 url: /de/aspose.cells/htmlsaveoptions/export_page_footers/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Gibt an, ob Seitenkopfzeilen exportiert werden.
 
 ###  Bemerkungen
 
-Funktioniert nur, wenn [HtmlSaveOptions.save_as_single_file](/cells/python-net/de/aspose.cells/htmlsaveoptions#save_as_single_file) wahr ist.
+Funktioniert nur, wenn [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/de/aspose.cells/htmlsaveoptions#save_as_single_file) True ist.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def export_page_footers(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlSaveOptions](/cells/python-net/de/aspose.cells/htmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlSaveOptions`](/cells/python-net/de/aspose.cells/htmlsaveoptions)

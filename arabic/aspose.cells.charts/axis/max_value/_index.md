@@ -1,19 +1,19 @@
 ---
-title: max_value الملكية
+title: max_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 320
 url: /ar/aspose.cells.charts/axis/max_value/
 is_root: false
 ---
-##  max_value الملكية
+##  max_value عقار
 
-يمثل القيمة القصوى على محور القيمة.
+يمثل الحد الأقصى للقيمة على محور القيمة.
 
 ###  ملاحظات
 
-يمكن أن يكون نوع maxValue فقط مزدوجًا أو DateTime
+يمكن أن يكون نوع maxValue مزدوجًا أو DateTime فقط
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def max_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)

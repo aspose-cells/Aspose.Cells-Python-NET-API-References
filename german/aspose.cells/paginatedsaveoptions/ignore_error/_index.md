@@ -3,14 +3,14 @@ title: ignore_error Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 130
+weight: 140
 url: /de/aspose.cells/paginatedsaveoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error Eigentum
 
 Gibt an, ob Sie den Fehler beim Rendern ausblenden müssen.
-Der Fehler kann ein Fehler in Form, Bild, Diagrammwiedergabe usw. sein.
+Der Fehler kann ein Fehler in Form, Bild, Diagrammdarstellung usw. sein.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def ignore_error(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PaginatedSaveOptions](/cells/python-net/de/aspose.cells/paginatedsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PaginatedSaveOptions`](/cells/python-net/de/aspose.cells/paginatedsaveoptions)

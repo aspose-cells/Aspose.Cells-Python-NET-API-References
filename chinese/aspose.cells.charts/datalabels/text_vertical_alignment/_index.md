@@ -1,15 +1,15 @@
 ---
-title: text_vertical_alignment 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_vertical_alignment属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 510
+weight: 500
 url: /zh/aspose.cells.charts/datalabels/text_vertical_alignment/
 is_root: false
 ---
-## text_vertical_alignment 属性
+## text_vertical_alignment属性
 
-获取或设置文本的文本垂直对齐方式。
+获取或设置文本的垂直对齐方式。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [DataLabels](/cells/python-net/zh/aspose.cells.charts/datalabels)
-* 类 [TextAlignmentType](/cells/python-net/zh/aspose.cells/textalignmenttype)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`DataLabels`](/cells/python-net/zh/aspose.cells.charts/datalabels)
+* 类 [`TextAlignmentType`](/cells/python-net/zh/aspose.cells/textalignmenttype)

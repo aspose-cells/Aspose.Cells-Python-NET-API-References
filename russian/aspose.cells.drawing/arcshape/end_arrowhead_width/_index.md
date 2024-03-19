@@ -1,21 +1,21 @@
 ---
 title: end_arrowhead_width недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 380
+weight: 400
 url: /ru/aspose.cells.drawing/arcshape/end_arrowhead_width/
 is_root: false
 ---
 ##  end_arrowhead_width недвижимость
 
-Получает и задает ширину конца стрелки линии.
+Получает и задает ширину конечной стрелки линии.
 
 ###  Примечания
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
  используйте свойство Shape.Line.EndArrowheadWidth.
- Это свойство будет удалено через 12 месяцев, начиная с августа 2016 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с августа 2016 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -28,6 +28,6 @@ def end_arrowhead_width(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ArcShape](/cells/python-net/ru/aspose.cells.drawing/arcshape)
-* класс [MsoArrowheadWidth](/cells/python-net/ru/aspose.cells.drawing/msoarrowheadwidth)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ArcShape`](/cells/python-net/ru/aspose.cells.drawing/arcshape)
+* класс [`MsoArrowheadWidth`](/cells/python-net/ru/aspose.cells.drawing/msoarrowheadwidth)

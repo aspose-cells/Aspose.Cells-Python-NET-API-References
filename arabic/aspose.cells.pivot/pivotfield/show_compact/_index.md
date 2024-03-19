@@ -1,15 +1,15 @@
 ---
-title: show_compact الملكية
+title: show_compact عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 570
 url: /ar/aspose.cells.pivot/pivotfield/show_compact/
 is_root: false
 ---
-##  show_compact الملكية
+##  show_compact عقار
 
-الإشارة إلى ما إذا كان سيتم عرض التسميات من الحقل التالي في نفس العمود في طريقة العرض Pivot Table
+يشير إلى ما إذا كان سيتم عرض التسميات من الحقل التالي في نفس العمود في طريقة عرض Pivot Table
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_compact(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

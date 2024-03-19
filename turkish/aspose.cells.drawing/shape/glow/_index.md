@@ -3,13 +3,13 @@ title: glow mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 390
+weight: 400
 url: /tr/aspose.cells.drawing/shape/glow/
 is_root: false
 ---
 ##  glow mülk
 
-Grafik öğesi veya şekli için glow efektini belirten bir [GlowEffect](/cells/python-net/tr/aspose.cells.drawing/gloweffect) nesnesini temsil eder.
+Grafik öğesi veya şekli için glow efektini belirten bir [`GlowEffect`](/cells/python-net/tr/aspose.cells.drawing/gloweffect) nesnesini temsil eder.
 
 ###  Örnek
 
@@ -26,6 +26,6 @@ def glow(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GlowEffect](/cells/python-net/tr/aspose.cells.drawing/gloweffect)
-* sınıf [Shape](/cells/python-net/tr/aspose.cells.drawing/shape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GlowEffect`](/cells/python-net/tr/aspose.cells.drawing/gloweffect)
+* sınıf [`Shape`](/cells/python-net/tr/aspose.cells.drawing/shape)

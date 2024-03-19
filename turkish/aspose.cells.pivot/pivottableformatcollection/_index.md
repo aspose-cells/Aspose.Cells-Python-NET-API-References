@@ -1,0 +1,41 @@
+---
+title: PivotTableFormatCollection sınıfı
+second_title: Aspose.Cells for Python via .NET API Referanslar
+description:
+type: docs
+weight: 210
+url: /tr/aspose.cells.pivot/pivottableformatcollection/
+is_root: false
+---
+##  PivotTableFormatCollection sınıfı
+PivotTable'a uygulanan biçimlerin koleksiyonunu temsil eder.
+
+
+
+PivotTableFormatCollection türü aşağıdaki üyeleri ortaya çıkarır:
+
+###  Özellikler
+| Mülk| Tanım|
+| :- | :- |
+| [capacity](/cells/python-net/tr/aspose.cells.pivot/pivottableformatcollection/capacity) | Dizi listesinin içerebileceği öğe sayısını alır veya ayarlar.|
+
+
+###  Yöntemler
+| Yöntem| Tanım|
+| :- | :- |
+| [copy_to](/cells/python-net/tr/aspose.cells.pivot/pivottableformatcollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak dizi listesinin tamamını uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [copy_to](/cells/python-net/tr/aspose.cells.pivot/pivottableformatcollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen dizininden başlayarak, dizi listesinden bir dizi öğeyi uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [index_of](/cells/python-net/tr/aspose.cells.pivot/pivottableformatcollection/index_of/#aspose.cells.pivot.PivotTableFormat-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [index_of](/cells/python-net/tr/aspose.cells.pivot/pivottableformatcollection/index_of/#aspose.cells.pivot.PivotTableFormat-int-int) |Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğeyi içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.pivot/pivottableformatcollection/last_index_of/#aspose.cells.pivot.PivotTableFormat) | Belirtilen nesneyi arar ve dizi listesinin tamamındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.pivot/pivottableformatcollection/last_index_of/#aspose.cells.pivot.PivotTableFormat-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.pivot/pivottableformatcollection/last_index_of/#aspose.cells.pivot.PivotTableFormat-int-int) | Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [add](/cells/python-net/tr/aspose.cells.pivot/pivottableformatcollection/add/#) | [`PivotTableFormat`](/cells/python-net/tr/aspose.cells.pivot/pivottableformat) ekleyin.|
+| [format_area](/cells/python-net/tr/aspose.cells.pivot/pivottableformatcollection/format_area/#aspose.cells.pivot.PivotFieldType-int-aspose.cells.pivot.PivotFieldSubtotalType-aspose.cells.pivot.PivotTableSelectionType-bool-bool-aspose.cells.Style) | Seçilen alanı formatlar.|
+| [binary_search](/cells/python-net/tr/aspose.cells.pivot/pivottableformatcollection/binary_search/#aspose.cells.pivot.PivotTableFormat) | Varsayılan karşılaştırıcıyı kullanarak bir öğe için sıralanmış dizi listesinin tamamını arar ve öğenin sıfır tabanlı dizinini döndürür.|
+
+
+
+###  Ayrıca bakınız
+* modül [`aspose.cells.pivot`](..)
+* sınıf [`PivotTableFormat`](/cells/python-net/tr/aspose.cells.pivot/pivottableformat)

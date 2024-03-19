@@ -3,25 +3,25 @@ title: AxisType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 370
 url: /tr/aspose.cells.charts/axistype/
 is_root: false
 ---
 ##  AxisType numaralandırma
-Eksen tipini temsil eder.
+Eksen türünü temsil eder.
 
 
 
-AxisType türü aşağıdaki üyeleri gösterir:
+AxisType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | CATEGORY | Kategori ekseni|
-| VALUE | değer ekseni|
+| VALUE | Değer ekseni|
 | SERIES | Seri ekseni|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

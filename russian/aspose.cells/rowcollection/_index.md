@@ -1,18 +1,18 @@
 ---
 title: RowCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1310
+weight: 1350
 url: /ru/aspose.cells/rowcollection/
 is_root: false
 ---
 ##  RowCollection класс
-Собирает объекты [Row](/cells/python-net/ru/aspose.cells/row), представляющие отдельные строки на листе.
+Собирает объекты [`Row`](/cells/python-net/ru/aspose.cells/row), представляющие отдельные строки на листе.
 
 
 
-Тип RowCollection предоставляет следующие члены:
+Тип RowCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -21,7 +21,7 @@ is_root: false
 
 
 
-Получает объект [Row](/cells/python-net/ru/aspose.cells/row) по заданному индексу строки. Объект Row с заданным индексом строки будет создан, если он не существовал ранее.
+Получает объект [`Row`](/cells/python-net/ru/aspose.cells/row) по заданному индексу строки. Будет создан экземпляр объекта Row с заданным индексом строки, если он не существовал ранее.
 ###  Индексатор
 | Имя| Описание|
 | :- | :- |
@@ -31,9 +31,10 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_row_by_index(index)](/cells/python-net/ru/aspose.cells/rowcollection/get_row_by_index/#int) | Получает объект строки по позиции в списке.|
-| [clear()](/cells/python-net/ru/aspose.cells/rowcollection/clear/#) | Очистить все строки и ячейки.|
-| [remove_at(index)](/cells/python-net/ru/aspose.cells/rowcollection/remove_at/#int) | Удалить строку по указанному индексу|
+| [get_enumerator](/cells/python-net/ru/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Получает перечислитель, который перебирает строки в этой коллекции.|
+| [get_row_by_index](/cells/python-net/ru/aspose.cells/rowcollection/get_row_by_index/#int) | Получает объект строки по позиции в списке.|
+| [clear](/cells/python-net/ru/aspose.cells/rowcollection/clear/#) | Очистите все строки и ячейки.|
+| [remove_at](/cells/python-net/ru/aspose.cells/rowcollection/remove_at/#int) | Удалите элемент строки по указанному индексу (позиции) в этой коллекции.|
 
 
 
@@ -52,5 +53,5 @@ row = worksheet.cells.rows[0]
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
-* класс [Row](/cells/python-net/ru/aspose.cells/row)
+* модуль [`aspose.cells`](..)
+* класс [`Row`](/cells/python-net/ru/aspose.cells/row)

@@ -3,7 +3,7 @@ title: category_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 100
 url: /de/aspose.cells.charts/axis/category_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def category_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Axis](/cells/python-net/de/aspose.cells.charts/axis)
-* Klasse [CategoryType](/cells/python-net/de/aspose.cells.charts/categorytype)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Axis`](/cells/python-net/de/aspose.cells.charts/axis)
+* Klasse [`CategoryType`](/cells/python-net/de/aspose.cells.charts/categorytype)

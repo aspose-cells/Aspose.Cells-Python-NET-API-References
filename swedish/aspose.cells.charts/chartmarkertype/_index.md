@@ -3,7 +3,7 @@ title: ChartMarkerType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 430
 url: /sv/aspose.cells.charts/chartmarkertype/
 is_root: false
 ---
@@ -33,4 +33,4 @@ Typen ChartMarkerType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

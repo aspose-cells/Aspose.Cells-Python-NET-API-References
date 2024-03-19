@@ -3,7 +3,7 @@ title: JsonSaveOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 970
+weight: 1010
 url: /sv/aspose.cells/jsonsaveoptions/
 is_root: false
 ---
@@ -12,8 +12,8 @@ Representerar alternativen för att spara arbetsboken som en json-fil.
 
 
 
-**Arv:** [JsonSaveOptions](/cells/python-net/aspose.cells/jsonsaveoptions) → 
-[SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
+**Arv:** [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions) → 
+[`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)
 
 
 
@@ -22,7 +22,7 @@ Typen JsonSaveOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [JsonSaveOptions()](/cells/python-net/sv/aspose.cells/jsonsaveoptions/__init__/#) |Skapar alternativ för att spara json-fil.|
+| [__init__](/cells/python-net/sv/aspose.cells/jsonsaveoptions/__init__/#) | Skapar alternativ för att spara json-fil.|
 
 
 ###  Egenskaper
@@ -35,7 +35,7 @@ Typen JsonSaveOptions avslöjar följande medlemmar:
 | [merge_areas](/cells/python-net/sv/aspose.cells/jsonsaveoptions/merge_areas) | Anger om områdena för villkorlig formatering och validering ska slås samman innan filen sparas.|
 | [create_directory](/cells/python-net/sv/aspose.cells/jsonsaveoptions/create_directory) | Om sant och katalogen inte finns skapas katalogen automatiskt innan filen sparas.|
 | [sort_names](/cells/python-net/sv/aspose.cells/jsonsaveoptions/sort_names) | Anger om du sorterar definierade namn innan filen sparas.|
-| [sort_external_names](/cells/python-net/sv/aspose.cells/jsonsaveoptions/sort_external_names) |Anger om externt definierade namn sorteras innan filen sparas.|
+| [sort_external_names](/cells/python-net/sv/aspose.cells/jsonsaveoptions/sort_external_names) | Anger om externt definierade namn sorteras innan filen sparas.|
 | [refresh_chart_cache](/cells/python-net/sv/aspose.cells/jsonsaveoptions/refresh_chart_cache) | Anger om diagramcachedata uppdateras|
 | [warning_callback](/cells/python-net/sv/aspose.cells/jsonsaveoptions/warning_callback) | Får eller ställer in varningsåteruppringning.|
 | [update_smart_art](/cells/python-net/sv/aspose.cells/jsonsaveoptions/update_smart_art) | Indikerar om inställningen för smart konst uppdateras.<br/> Standardvärdet är falskt.|
@@ -46,13 +46,13 @@ Typen JsonSaveOptions avslöjar följande medlemmar:
 | [has_header_row](/cells/python-net/sv/aspose.cells/jsonsaveoptions/has_header_row) | Anger om intervallet innehåller rubrikrad.|
 | [export_as_string](/cells/python-net/sv/aspose.cells/jsonsaveoptions/export_as_string) | Exporterar strängvärdet för cellerna till json.|
 | [indent](/cells/python-net/sv/aspose.cells/jsonsaveoptions/indent) | Indikerar indraget.|
-| [export_nested_structure](/cells/python-net/sv/aspose.cells/jsonsaveoptions/export_nested_structure) | Exporterad som Json-struktur för överordnad och underordnad hierarki.|
+| [export_nested_structure](/cells/python-net/sv/aspose.cells/jsonsaveoptions/export_nested_structure) |Exporterad som Json-struktur för överordnad och underordnad hierarki.|
 | [export_empty_cells](/cells/python-net/sv/aspose.cells/jsonsaveoptions/export_empty_cells) | Anger om tomma celler exporteras som null.|
 | [always_export_as_json_object](/cells/python-net/sv/aspose.cells/jsonsaveoptions/always_export_as_json_object) | Anger om excel alltid exporteras till json som objekt, även om det bara finns ett kalkylblad i filen.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [JsonSaveOptions](/cells/python-net/sv/aspose.cells/jsonsaveoptions)
-* klass [SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
+* modul [`aspose.cells`](..)
+* klass [`JsonSaveOptions`](/cells/python-net/sv/aspose.cells/jsonsaveoptions)
+* klass [`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)

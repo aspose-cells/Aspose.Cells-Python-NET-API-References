@@ -3,13 +3,13 @@ title: bottom proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 290
+weight: 320
 url: /it/aspose.cells.drawing/radiobutton/bottom/
 is_root: false
 ---
 ##  bottom proprietà
 
-Rappresenta la larghezza dell'offset verticale della forma dalla relativa riga d'angolo inferiore bottom, in unità di pixel.
+Rappresenta la larghezza dell'offset verticale della forma dalla riga dell'angolo inferiore bottom, in unità di pixel.
 
 ###  Esempio
 
@@ -30,5 +30,5 @@ def bottom(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/it/aspose.cells.drawing/radiobutton)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/it/aspose.cells.drawing/radiobutton)

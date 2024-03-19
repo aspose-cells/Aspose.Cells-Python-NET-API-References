@@ -3,20 +3,20 @@ title: height_inch propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 460
+weight: 480
 url: /fr/aspose.cells.drawing/radiobutton/height_inch/
 is_root: false
 ---
 ##  height_inch propriété
 
-Représente la hauteur de la forme, en pouces.
+Représente la hauteur de la forme, en unités de pouces.
 
 ###  Exemple
 
 ```python
 
 if shape.height_inch == 3:
-    shape.height_inch = 1
+    shape.height_inch = 1.0
 
 ```
 ###  Définition:
@@ -30,5 +30,5 @@ def height_inch(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)

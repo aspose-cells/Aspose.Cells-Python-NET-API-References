@@ -1,18 +1,18 @@
 ---
-title: العد PivotTableStyleType
+title: PivotTableStyleType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 360
 url: /ar/aspose.cells.pivot/pivottablestyletype/
 is_root: false
 ---
-##  العد PivotTableStyleType
+##  PivotTableStyleType التعداد
 يمثل نوع نمط الجدول المحوري.
 
 
 
-يكشف نوع PivotTableStyleType الأعضاء التالية:
+يكشف النوع PivotTableStyleType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -107,4 +107,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](..)
+* الوحدة [`aspose.cells.pivot`](..)

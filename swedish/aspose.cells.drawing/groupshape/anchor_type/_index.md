@@ -3,7 +3,7 @@ title: anchor_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 310
 url: /sv/aspose.cells.drawing/groupshape/anchor_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GroupShape](/cells/python-net/sv/aspose.cells.drawing/groupshape)
-* klass [ShapeAnchorType](/cells/python-net/sv/aspose.cells.drawing/shapeanchortype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GroupShape`](/cells/python-net/sv/aspose.cells.drawing/groupshape)
+* klass [`ShapeAnchorType`](/cells/python-net/sv/aspose.cells.drawing/shapeanchortype)

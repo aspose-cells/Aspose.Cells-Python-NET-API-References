@@ -1,15 +1,15 @@
 ---
 title: custom_unit недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells.charts/axis/custom_unit/
 is_root: false
 ---
 ##  custom_unit недвижимость
 
-Указывает пользовательское значение для единицы отображения.
+Задает пользовательское значение для единицы отображения.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def custom_unit(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)

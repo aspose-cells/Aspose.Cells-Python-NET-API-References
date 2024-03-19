@@ -1,15 +1,15 @@
 ---
-title: font الملكية
+title: font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells.charts/ticklabels/font/
 is_root: false
 ---
-##  font الملكية
+##  font عقار
 
-إرجاع عنصر [TickLabels.font](/cells/python-net/ar/aspose.cells.charts/ticklabels#font) يمثل font لعنصر TickLabels المحدد.
+تقوم بإرجاع كائن [`TickLabels.font`](/cells/python-net/ar/aspose.cells.charts/ticklabels#font) الذي يمثل font لكائن TickLabels المحدد.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
-* فئة [TickLabels](/cells/python-net/ar/aspose.cells.charts/ticklabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)
+* فئة [`TickLabels`](/cells/python-net/ar/aspose.cells.charts/ticklabels)

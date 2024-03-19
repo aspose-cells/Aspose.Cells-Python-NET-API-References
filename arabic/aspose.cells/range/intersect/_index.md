@@ -3,17 +3,17 @@ title: طريقة intersect
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells/range/intersect/
 is_root: false
 ---
-##  intersect(range) {#Range}
-إرجاع عنصر [Range](/cells/python-net/ar/aspose.cells/range) يمثل التقاطع المستطيل لنطاقين.
+##  intersect {#aspose.cells.Range}
+تقوم بإرجاع كائن [`Range`](/cells/python-net/ar/aspose.cells/range) الذي يمثل التقاطع المستطيل لنطاقين.
 
 
 ###  عائدات
 
-إرجاع عنصر [Range](/cells/python-net/ar/aspose.cells/range)
+إرجاع كائن [`Range`](/cells/python-net/ar/aspose.cells/range)
 
 
 ```python
@@ -24,10 +24,10 @@ def intersect(self, range):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/ar/aspose.cells/range) | النطاق المتقاطع.|
+| range | [`Range`](/cells/python-net/ar/aspose.cells/range) | النطاق المتقاطع.|
 ###  ملاحظات
 
-إذا لم يتم تقاطع النطاقين ، يتم إرجاع قيمة خالية.
+إذا لم يتقاطع النطاقان، فسيتم إرجاع القيمة null.
 ###  مثال
 
 
@@ -50,5 +50,5 @@ workbook.save("book1.xlsm")
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

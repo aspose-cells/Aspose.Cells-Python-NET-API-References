@@ -1,24 +1,24 @@
 ---
-title: WorkbookRender الدرجة
+title: WorkbookRender صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 150
 url: /ar/aspose.cells.rendering/workbookrender/
 is_root: false
 ---
-##  WorkbookRender الدرجة
- يمثل عرض مصنف.
+##  WorkbookRender صف
+ يمثل تقديم المصنف.
 يجب استخدام مُنشئ هذه الفئة بعد تعديل إعداد الصفحات ونمط الخلية.
 
 
 
-يكشف نوع WorkbookRender الأعضاء التالية:
+يكشف النوع WorkbookRender عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [WorkbookRender(workbook, options)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/__init__/#Workbook-ImageOrPrintOptions) | بناء WorkbookRender|
+| [__init__](/cells/python-net/ar/aspose.cells.rendering/workbookrender/__init__/#aspose.cells.Workbook-aspose.cells.rendering.ImageOrPrintOptions) | بناء WorkbookRender|
 
 
 ###  ملكيات
@@ -30,17 +30,18 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [to_image(stream)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_image/#io.RawIOBase) | عرض المصنف بأكمله كصورة Tiff للدفق.|
-| [to_image(filename)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_image/#str) | عرض المصنف بأكمله على هيئة Tiff Image إلى ملف.|
-| [to_image(page_index, file_name)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_image/#int-str) | تقديم صفحة معينة إلى ملف.|
-| [to_image(page_index, stream)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_image/#int-io.RawIOBase) | تقديم صفحة معينة إلى دفق.|
-| [to_printer(printer_name)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_printer/#str) | تقديم المصنف إلى الطابعة|
-| [to_printer(printer_name, job_name)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_printer/#str-str) | تقديم المصنف إلى الطابعة|
-| [to_printer(printer_settings)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings) | تقديم المصنف إلى الطابعة|
-| [to_printer(printer_settings, job_name)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings-str) | تقديم المصنف إلى الطابعة|
-| [to_printer(printer_name, print_page_index, print_page_count)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_printer/#str-int-int) | تقديم المصنف إلى الطابعة|
-| [get_page_size_inch(page_index)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/get_page_size_inch/#int) |الحصول على حجم الصفحة بوصة من الصورة الناتجة.|
-| [custom_print(next_page_after_print, print_page_event_args)](/cells/python-net/ar/aspose.cells.rendering/workbookrender/custom_print/#bool-aspose.pydrawing.printing.PrintPageEventArgs) | يمكن للعميل التحكم في إعداد صفحة الطابعة عند طباعة كل صفحة باستخدام هذه الوظيفة.|
+| [to_image](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_image/#io.RawIOBase) | قم بعرض المصنف بأكمله كصورة Tiff للبث.|
+| [to_image](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_image/#str) | تقديم المصنف بأكمله كصورة Tiff إلى ملف.|
+| [to_image](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_image/#int-str) |تقديم صفحة معينة إلى ملف.|
+| [to_image](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_image/#int-io.RawIOBase) | تقديم صفحة معينة إلى دفق.|
+| [to_printer](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_printer/#str) | تقديم المصنف إلى الطابعة|
+| [to_printer](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_printer/#str-str) | تقديم المصنف إلى الطابعة|
+| [to_printer](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings) | تقديم المصنف إلى الطابعة|
+| [to_printer](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings-str) | تقديم المصنف إلى الطابعة|
+| [to_printer](/cells/python-net/ar/aspose.cells.rendering/workbookrender/to_printer/#str-int-int) | تقديم المصنف إلى الطابعة|
+| [get_page_size_inch](/cells/python-net/ar/aspose.cells.rendering/workbookrender/get_page_size_inch/#int) | احصل على حجم الصفحة بالبوصة من الصورة الناتجة.|
+| [custom_print](/cells/python-net/ar/aspose.cells.rendering/workbookrender/custom_print/#bool-aspose.pydrawing.printing.PrintPageEventArgs) | يمكن للعميل التحكم في إعداد صفحة الطابعة عند طباعة كل صفحة باستخدام هذه الوظيفة.|
+| [dispose](/cells/python-net/ar/aspose.cells.rendering/workbookrender/dispose/#) | يطلق الموارد التي تم إنشاؤها واستخدامها للعرض.|
 
 
 
@@ -49,4 +50,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
+* الوحدة [`aspose.cells.rendering`](..)

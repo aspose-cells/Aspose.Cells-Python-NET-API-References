@@ -1,27 +1,27 @@
 ---
-title: value الملكية
+title: value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 710
+weight: 740
 url: /ar/aspose.cells/cell/value/
 is_root: false
 ---
-##  value الملكية
+##  value عقار
 
-الحصول على value الموجود في هذه الخلية.
+الحصول على/تعيين value الموجود في هذه الخلية.
 
 ###  ملاحظات
 
-النوع الممكن:
+النوع المحتمل:
 
 باطل،
 
 
-منطقية ،
+منطقية،
 
 
-التاريخ والوقت ،
+التاريخ والوقت،
 
 
 مزدوج،
@@ -33,8 +33,8 @@ is_root: false
 خيط.
 
 
-بالنسبة إلى int value ، يمكن إرجاعه ككائن عدد صحيح أو كائن مزدوج.
-وليس هناك ما يضمن أن value الذي تم إرجاعه سيتم الاحتفاظ به كنوع الكائن نفسه دائمًا.
+بالنسبة إلى int value، قد يتم إرجاعه ككائن عدد صحيح أو كائن مزدوج.
+وليس هناك ما يضمن أن الرقم value الذي تم إرجاعه سيتم الاحتفاظ به بنفس نوع الكائن دائمًا.
 ###  تعريف:
 ```python
 @property
@@ -46,5 +46,5 @@ def value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

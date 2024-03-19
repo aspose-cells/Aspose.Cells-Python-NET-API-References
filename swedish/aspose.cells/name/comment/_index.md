@@ -10,7 +10,7 @@ is_root: false
 ##  comment fastighet
 
 Hämtar och ställer in comment för namnet.
-Gäller endast Excel 2007.
+Gäller endast Excel 2007 eller högre versioner.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def comment(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Name](/cells/python-net/sv/aspose.cells/name)
+* modul [`aspose.cells`](../../)
+* klass [`Name`](/cells/python-net/sv/aspose.cells/name)

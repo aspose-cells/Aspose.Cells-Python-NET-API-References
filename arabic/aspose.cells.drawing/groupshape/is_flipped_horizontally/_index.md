@@ -1,13 +1,13 @@
 ---
-title: is_flipped_horizontally الملكية
+title: is_flipped_horizontally عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 570
 url: /ar/aspose.cells.drawing/groupshape/is_flipped_horizontally/
 is_root: false
 ---
-##  is_flipped_horizontally الملكية
+##  is_flipped_horizontally عقار
 
 الحصول على وتحديد ما إذا كان الشكل مقلوبًا أفقيًا.
 
@@ -30,5 +30,5 @@ def is_flipped_horizontally(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupShape](/cells/python-net/ar/aspose.cells.drawing/groupshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupShape`](/cells/python-net/ar/aspose.cells.drawing/groupshape)
