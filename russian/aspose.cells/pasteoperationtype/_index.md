@@ -1,9 +1,9 @@
 ---
 title: PasteOperationType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2350
+weight: 2440
 url: /ru/aspose.cells/pasteoperationtype/
 is_root: false
 ---
@@ -12,12 +12,12 @@ is_root: false
 
 
 
-Тип PasteOperationType предоставляет следующие члены:
+Тип PasteOperationType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NONE | Без операции.|
+| NONE | Никакой операции.|
 | ADD | Добавлять|
 | SUBTRACT | Вычесть|
 | MULTIPLY | Умножить|
@@ -26,4 +26,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: value2 propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 290
+weight: 300
 url: /es/aspose.cells/validation/value2/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def value2(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Validation](/cells/python-net/es/aspose.cells/validation)
+* módulo [`aspose.cells`](../../)
+* clase [`Validation`](/cells/python-net/es/aspose.cells/validation)

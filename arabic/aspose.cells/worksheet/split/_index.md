@@ -3,12 +3,12 @@ title: طريقة split
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 290
 url: /ar/aspose.cells/worksheet/split/
 is_root: false
 ---
-##  split() {#}
-نافذة الانقسام.
+##  split {#}
+نافذة الانقسامات.
 
 
 
@@ -22,5 +22,5 @@ def split(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

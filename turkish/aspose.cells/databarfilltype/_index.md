@@ -3,18 +3,18 @@ title: DataBarFillType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1920
+weight: 1990
 url: /tr/aspose.cells/databarfilltype/
 is_root: false
 ---
 ##  DataBarFillType numaralandırma
-Bir veri çubuğunun renkle nasıl doldurulacağını belirtir.
+Veri çubuğunun renkle nasıl doldurulacağını belirtir.
 
 
 
-DataBarFillType türü aşağıdaki üyeleri gösterir:
+DataBarFillType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | SOLID | Veri çubuğu düz renkle doldurulur.|
@@ -23,4 +23,4 @@ DataBarFillType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

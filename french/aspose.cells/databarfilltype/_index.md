@@ -1,13 +1,13 @@
 ---
-title: DataBarFillType dénombrement
+title: DataBarFillType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1920
+weight: 1990
 url: /fr/aspose.cells/databarfilltype/
 is_root: false
 ---
-##  DataBarFillType dénombrement
+##  DataBarFillType énumération
 Spécifie comment une barre de données est remplie de couleur.
 
 
@@ -23,4 +23,4 @@ Le type DataBarFillType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

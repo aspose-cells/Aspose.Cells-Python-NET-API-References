@@ -3,7 +3,7 @@ title: CommentTitleType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 150
+weight: 170
 url: /de/aspose.cells.rendering/commenttitletype/
 is_root: false
 ---
@@ -17,10 +17,12 @@ Der Typ CommentTitleType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| CELL | Stellt die Titelzelle des Kommentars dar.|
+| CELL | Stellt die Kommentartitelzelle dar.|
 | COMMENT | Stellt den Kommentartitelkommentar dar.|
+| NOTE | Stellt die Titelnotiz des Kommentars dar.|
+| REPLY | Stellt die Antwort auf den Kommentartitel dar.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](..)
+* Modul [`aspose.cells.rendering`](..)

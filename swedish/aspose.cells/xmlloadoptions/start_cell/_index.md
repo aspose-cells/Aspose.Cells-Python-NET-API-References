@@ -3,7 +3,7 @@ title: start_cell fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 320
 url: /sv/aspose.cells/xmlloadoptions/start_cell/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def start_cell(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XmlLoadOptions](/cells/python-net/sv/aspose.cells/xmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`XmlLoadOptions`](/cells/python-net/sv/aspose.cells/xmlloadoptions)

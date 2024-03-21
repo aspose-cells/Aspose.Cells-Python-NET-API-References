@@ -3,7 +3,7 @@ title: three_d_format Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /de/aspose.cells.drawing/groupbox/three_d_format/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def three_d_format(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GroupBox](/cells/python-net/de/aspose.cells.drawing/groupbox)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GroupBox`](/cells/python-net/de/aspose.cells.drawing/groupbox)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

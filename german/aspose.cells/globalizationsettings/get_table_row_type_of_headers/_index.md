@@ -3,13 +3,13 @@ title: get_table_row_type_of_headers Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 250
+weight: 260
 url: /de/aspose.cells/globalizationsettings/get_table_row_type_of_headers/
 is_root: false
 ---
-##  get_table_row_type_of_headers() {#}
-Ruft den Typnamen von Tabellenzeilen ab, der aus dem Tabellenkopf besteht.
-Standard ist "Headers", also repräsentiert "#Headers" in der Formel den Tabellenkopf.
+##  get_table_row_type_of_headers {#}
+Ruft den Typnamen von Tabellenzeilen ab, die aus dem Tabellenkopf bestehen.
+Der Standardwert ist „Headers“, daher stellt „#Headers“ in der Formel den Tabellenkopf dar.
 
 
 ###  Kehrt zurück
@@ -27,5 +27,5 @@ def get_table_row_type_of_headers(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [GlobalizationSettings](/cells/python-net/de/aspose.cells/globalizationsettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`GlobalizationSettings`](/cells/python-net/de/aspose.cells/globalizationsettings)

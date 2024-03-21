@@ -3,7 +3,7 @@ title: pivot_settings proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 320
+weight: 330
 url: /it/aspose.cells/globalizationsettings/pivot_settings/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def pivot_settings(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [GlobalizationSettings](/cells/python-net/it/aspose.cells/globalizationsettings)
-* classe [PivotGlobalizationSettings](/cells/python-net/it/aspose.cells.settings/pivotglobalizationsettings)
+* modulo [`aspose.cells`](../../)
+* classe [`GlobalizationSettings`](/cells/python-net/it/aspose.cells/globalizationsettings)
+* classe [`PivotGlobalizationSettings`](/cells/python-net/it/aspose.cells.settings/pivotglobalizationsettings)

@@ -1,15 +1,15 @@
 ---
-title: worksheet الملكية
+title: worksheet عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1260
+weight: 1270
 url: /ar/aspose.cells.drawing/combobox/worksheet/
 is_root: false
 ---
-##  worksheet الملكية
+##  worksheet عقار
 
-الحصول على الكائن [Shape.worksheet](/cells/python-net/ar/aspose.cells.drawing/shape#worksheet) الذي يحتوي على هذا الشكل.
+يحصل على الكائن [`Shape.worksheet`](/cells/python-net/ar/aspose.cells.drawing/shape#worksheet) الذي يحتوي على هذا الشكل.
 
 ###  مثال
 
@@ -26,6 +26,6 @@ def worksheet(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ComboBox](/cells/python-net/ar/aspose.cells.drawing/combobox)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ComboBox`](/cells/python-net/ar/aspose.cells.drawing/combobox)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

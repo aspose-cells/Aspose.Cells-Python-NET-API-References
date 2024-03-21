@@ -3,7 +3,7 @@ title: prog_id mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 340
 url: /tr/aspose.cells/htmlloadoptions/prog_id/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def prog_id(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlLoadOptions](/cells/python-net/tr/aspose.cells/htmlloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlLoadOptions`](/cells/python-net/tr/aspose.cells/htmlloadoptions)

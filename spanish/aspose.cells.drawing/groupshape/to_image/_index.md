@@ -1,13 +1,13 @@
 ---
-title: to_image método
+title: método to_image
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 240
 url: /es/aspose.cells.drawing/groupshape/to_image/
 is_root: false
 ---
-##  to_image(stream, image_type) {#io.RawIOBase-ImageType}
+##  to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
 Crea la imagen de la forma y la guarda en una secuencia en el formato especificado.
 
 
@@ -21,7 +21,7 @@ def to_image(self, stream, image_type):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | stream | io.RawIOBase | El flujo de salida.|
-| image_type | [ImageType](/cells/python-net/es/aspose.cells.drawing/imagetype) | El tipo en el que guardar la imagen.|
+| image_type | [`ImageType`](/cells/python-net/es/aspose.cells.drawing/imagetype) | El tipo en el que guardar la imagen.|
 ###  Observaciones
 
 Se admiten los siguientes formatos:
@@ -38,7 +38,7 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-##  to_image(image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Guarda la forma en un archivo.
 
 
@@ -65,7 +65,7 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 Guarda la forma en una secuencia.
 
 
@@ -96,5 +96,5 @@ shape.to_image(imageStream, op)
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)

@@ -1,9 +1,9 @@
 ---
 title: standard_width_pixels недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1300
+weight: 1290
 url: /ru/aspose.cells/cells/standard_width_pixels/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def standard_width_pixels(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

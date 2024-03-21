@@ -1,18 +1,18 @@
 ---
 title: TargetModeType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2510
+weight: 2600
 url: /zh/aspose.cells/targetmodetype/
 is_root: false
 ---
 ## TargetModeType枚举
-表示目标模式的类型。
+代表目标模式的类型。
 
 
 
-TargetModeType 类型公开了以下成员：
+TargetModeType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -25,4 +25,4 @@ TargetModeType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

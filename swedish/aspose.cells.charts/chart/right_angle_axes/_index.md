@@ -3,7 +3,7 @@ title: right_angle_axes fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 480
+weight: 510
 url: /sv/aspose.cells.charts/chart/right_angle_axes/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def right_angle_axes(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Chart](/cells/python-net/sv/aspose.cells.charts/chart)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Chart`](/cells/python-net/sv/aspose.cells.charts/chart)

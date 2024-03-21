@@ -3,21 +3,21 @@ title: default_style propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 540
+weight: 550
 url: /es/aspose.cells/workbook/default_style/
 is_root: false
 ---
 ##  default_style propiedad
 
-Obtiene o establece el objeto [Style](/cells/python-net/es/aspose.cells/style) predeterminado del libro.
+Obtiene o establece el objeto [`Style`](/cells/python-net/es/aspose.cells/style) predeterminado del libro.
 
 ###  Observaciones
 
-La propiedad DefaultStyle es útil para implementar un estilo para todo el libro de trabajo.
+La propiedad DefaultStyle es útil para implementar un estilo para todo el libro.
 
 ###  Ejemplo
 
-El siguiente código crea e instancia un nuevo libro de trabajo y le establece un valor predeterminado [Style](/cells/python-net/es/aspose.cells/style).
+El siguiente código crea y crea una instancia de un nuevo libro de trabajo y le establece un valor predeterminado [`Style`](/cells/python-net/es/aspose.cells/style).
 
 ```python
 from aspose.cells import Workbook
@@ -39,6 +39,6 @@ def default_style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)

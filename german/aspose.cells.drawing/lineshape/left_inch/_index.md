@@ -3,20 +3,20 @@ title: left_inch Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 750
+weight: 760
 url: /de/aspose.cells.drawing/lineshape/left_inch/
 is_root: false
 ---
 ##  left_inch Eigentum
 
-Stellt den horizontalen Versatz der Form von der linken Spalte in Zoll dar.
+Stellt den horizontalen Versatz der Form von ihrer linken Spalte in der Einheit Zoll dar.
 
 ###  Beispiel
 
 ```python
 
 if shape.left_inch == 3:
-    shape.left_inch = 1
+    shape.left_inch = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def left_inch(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LineShape](/cells/python-net/de/aspose.cells.drawing/lineshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LineShape`](/cells/python-net/de/aspose.cells.drawing/lineshape)

@@ -3,11 +3,11 @@ title: remove_area Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 100
 url: /de/aspose.cells/validation/remove_area/
 is_root: false
 ---
-##  remove_area(cell_area) {#CellArea}
+##  remove_area {#aspose.cells.CellArea}
 Entfernen Sie die Validierungseinstellungen im Bereich.
 
 
@@ -20,10 +20,10 @@ def remove_area(self, cell_area):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| cell_area | [CellArea](/cells/python-net/de/aspose.cells/cellarea) | die Bereiche, in denen diese Validierungseinstellungen entfernt werden sollen.|
+| cell_area | [`CellArea`](/cells/python-net/de/aspose.cells/cellarea) | die Bereiche, in denen diese Validierungseinstellungen entfernt werden sollten.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Validation](/cells/python-net/de/aspose.cells/validation)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Validation`](/cells/python-net/de/aspose.cells/validation)

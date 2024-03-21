@@ -1,13 +1,13 @@
 ---
-title: remove_formulas méthode
+title: méthode remove_formulas
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 820
+weight: 810
 url: /fr/aspose.cells/cells/remove_formulas/
 is_root: false
 ---
-##  remove_formulas() {#}
+##  remove_formulas {#}
 Supprime toutes les formules et les remplace par la valeur de la formule.
 
 
@@ -22,5 +22,5 @@ def remove_formulas(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cells](/cells/python-net/fr/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/fr/aspose.cells/cells)

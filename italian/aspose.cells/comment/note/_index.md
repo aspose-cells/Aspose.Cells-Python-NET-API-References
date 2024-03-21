@@ -3,7 +3,7 @@ title: note proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 170
+weight: 180
 url: /it/aspose.cells/comment/note/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Rappresenta il contenuto del commento.
 
 ###  Osservazioni
 
-Se si tratta di un commento in thread, non è possibile modificare note, altrimenti MS Excel non potrebbe elaborarlo come commento in thread.
+Se si tratta di un commento in thread, note non può essere modificato, altrimenti MS Excel non potrebbe elaborarlo come commento in thread.
 
 ###  Esempio
 
@@ -33,5 +33,5 @@ def note(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Comment](/cells/python-net/it/aspose.cells/comment)
+* modulo [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/it/aspose.cells/comment)

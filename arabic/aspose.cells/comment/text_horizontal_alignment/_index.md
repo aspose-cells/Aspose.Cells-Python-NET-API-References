@@ -1,15 +1,15 @@
 ---
-title: text_horizontal_alignment الملكية
+title: text_horizontal_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ar/aspose.cells/comment/text_horizontal_alignment/
 is_root: false
 ---
-##  text_horizontal_alignment الملكية
+##  text_horizontal_alignment عقار
 
-الحصول على نوع المحاذاة الأفقية للنص وتعيينه.
+الحصول على نوع المحاذاة الأفقية للتعليق وتعيينه.
 
 ###  مثال
 
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
-* فئة [TextAlignmentType](/cells/python-net/ar/aspose.cells/textalignmenttype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)
+* فئة [`TextAlignmentType`](/cells/python-net/ar/aspose.cells/textalignmenttype)

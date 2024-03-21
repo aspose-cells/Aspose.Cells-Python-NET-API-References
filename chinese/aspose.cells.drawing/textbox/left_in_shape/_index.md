@@ -1,16 +1,16 @@
 ---
-title: left_in_shape 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: left_in_shape属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 680
+weight: 700
 url: /zh/aspose.cells.drawing/textbox/left_in_shape/
 is_root: false
 ---
-## left_in_shape 属性
+## left_in_shape属性
 
-表示形状相对于父形状左边框的水平偏移量，
-以父图形宽度的 1/4000 为单位。
+表示形状相对于父形状左边框的水平偏移，
+以父形状宽度的 1/4000 为单位。
 
 ### 评论
 
@@ -20,8 +20,8 @@ is_root: false
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.left_in_shape == 2000:
+    shape.left_in_shape = 4000
 
 ```
 ### 定义：
@@ -35,5 +35,5 @@ def left_in_shape(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [TextBox](/cells/python-net/zh/aspose.cells.drawing/textbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`TextBox`](/cells/python-net/zh/aspose.cells.drawing/textbox)

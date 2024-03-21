@@ -3,13 +3,13 @@ title: actual_lower_right_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 270
 url: /tr/aspose.cells.drawing/lineshape/actual_lower_right_row/
 is_root: false
 ---
 ##  actual_lower_right_row mülk
 
-Gerçek alt sırayı alın.
+Gerçek alt satırı alın.
 
 ###  Örnek
 
@@ -26,5 +26,5 @@ def actual_lower_right_row(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineShape](/cells/python-net/tr/aspose.cells.drawing/lineshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineShape`](/cells/python-net/tr/aspose.cells.drawing/lineshape)

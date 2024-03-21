@@ -3,7 +3,7 @@ title: placement propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 410
+weight: 440
 url: /fr/aspose.cells.charts/chart/placement/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def placement(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
-* classe [PlacementType](/cells/python-net/fr/aspose.cells.drawing/placementtype)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)
+* classe [`PlacementType`](/cells/python-net/fr/aspose.cells.drawing/placementtype)

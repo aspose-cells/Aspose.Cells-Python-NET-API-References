@@ -3,7 +3,7 @@ title: alert_style mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 140
+weight: 150
 url: /tr/aspose.cells/validation/alert_style/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def alert_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Validation](/cells/python-net/tr/aspose.cells/validation)
-* sınıf [ValidationAlertType](/cells/python-net/tr/aspose.cells/validationalerttype)
+* modül [`aspose.cells`](../../)
+* sınıf [`Validation`](/cells/python-net/tr/aspose.cells/validation)
+* sınıf [`ValidationAlertType`](/cells/python-net/tr/aspose.cells/validationalerttype)

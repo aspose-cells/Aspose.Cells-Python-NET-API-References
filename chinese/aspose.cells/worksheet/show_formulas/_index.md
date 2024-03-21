@@ -1,13 +1,13 @@
 ---
-title: show_formulas 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: show_formulas属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 740
+weight: 760
 url: /zh/aspose.cells/worksheet/show_formulas/
 is_root: false
 ---
-## show_formulas 属性
+## show_formulas属性
 
 指示是否显示公式或其结果。
 ### 定义：
@@ -21,5 +21,5 @@ def show_formulas(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Worksheet](/cells/python-net/zh/aspose.cells/worksheet)
+* 模块[`aspose.cells`](../../)
+* 类 [`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet)

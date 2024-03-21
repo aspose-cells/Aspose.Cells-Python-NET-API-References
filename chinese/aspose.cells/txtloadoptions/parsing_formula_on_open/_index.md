@@ -1,13 +1,13 @@
 ---
-title: parsing_formula_on_open 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: parsing_formula_on_open属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 270
+weight: 320
 url: /zh/aspose.cells/txtloadoptions/parsing_formula_on_open/
 is_root: false
 ---
-## parsing_formula_on_open 属性
+## parsing_formula_on_open属性
 
 表示读取文件时是否解析公式。
 
@@ -26,5 +26,5 @@ def parsing_formula_on_open(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [TxtLoadOptions](/cells/python-net/zh/aspose.cells/txtloadoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`TxtLoadOptions`](/cells/python-net/zh/aspose.cells/txtloadoptions)

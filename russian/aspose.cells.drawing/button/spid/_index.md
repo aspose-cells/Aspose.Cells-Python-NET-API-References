@@ -1,9 +1,9 @@
 ---
 title: spid недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 890
+weight: 900
 url: /ru/aspose.cells.drawing/button/spid/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Button](/cells/python-net/ru/aspose.cells.drawing/button)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Button`](/cells/python-net/ru/aspose.cells.drawing/button)

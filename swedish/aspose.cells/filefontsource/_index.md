@@ -3,7 +3,7 @@ title: FileFontSource klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 580
+weight: 610
 url: /sv/aspose.cells/filefontsource/
 is_root: false
 ---
@@ -12,8 +12,8 @@ Representerar den enda TrueType-teckensnittsfilen som är lagrad i filsystemet.
 
 
 
-**Arv:** [FileFontSource](/cells/python-net/aspose.cells/filefontsource) → 
-[FontSourceBase](/cells/python-net/sv/aspose.cells/fontsourcebase)
+**Arv:** [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource) → 
+[`FontSourceBase`](/cells/python-net/sv/aspose.cells/fontsourcebase)
 
 
 
@@ -22,7 +22,7 @@ Typen FileFontSource avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [FileFontSource(file_path)](/cells/python-net/sv/aspose.cells/filefontsource/__init__/#str) | Ctor.|
+| [__init__](/cells/python-net/sv/aspose.cells/filefontsource/__init__/#str) | Ctor.|
 
 
 ###  Egenskaper
@@ -34,6 +34,6 @@ Typen FileFontSource avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [FileFontSource](/cells/python-net/sv/aspose.cells/filefontsource)
-* klass [FontSourceBase](/cells/python-net/sv/aspose.cells/fontsourcebase)
+* modul [`aspose.cells`](..)
+* klass [`FileFontSource`](/cells/python-net/sv/aspose.cells/filefontsource)
+* klass [`FontSourceBase`](/cells/python-net/sv/aspose.cells/fontsourcebase)

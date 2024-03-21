@@ -1,9 +1,9 @@
 ---
 title: DataLabelsSeparatorType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 470
+weight: 480
 url: /zh/aspose.cells.charts/datalabelsseparatortype/
 is_root: false
 ---
@@ -12,20 +12,20 @@ is_root: false
 
 
 
-DataLabelsSeparatorType 类型公开了以下成员：
+DataLabelsSeparatorType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| AUTO |代表自动分隔符|
+| AUTO |代表自动分离器|
 | SPACE |代表空格(" ")|
-| COMMA |表示逗号(",")|
+| COMMA |代表逗号(",")|
 | SEMICOLON |代表分号(";")|
-| PERIOD |代表句号(".")|
+| PERIOD |代表句点(".")|
 | NEW_LINE |代表换行符("\n")|
 | CUSTOM |代表自定义分隔符|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

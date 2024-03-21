@@ -3,7 +3,7 @@ title: text_effect mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /tr/aspose.cells.drawing/picture/text_effect/
 is_root: false
 ---
@@ -16,7 +16,8 @@ WordArt'ı temsil eden Shape nesneleri için geçerlidir.
 
 ```python
 
-textEffectFormat = shape.text_effect
+if shape.is_word_art:
+    textEffectFormat = shape.text_effect
 
 ```
 ###  Tanım:
@@ -27,6 +28,6 @@ def text_effect(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
-* sınıf [TextEffectFormat](/cells/python-net/tr/aspose.cells.drawing/texteffectformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)
+* sınıf [`TextEffectFormat`](/cells/python-net/tr/aspose.cells.drawing/texteffectformat)

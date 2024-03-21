@@ -3,7 +3,7 @@ title: SqlScriptSaveOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 20
+weight: 30
 url: /sv/aspose.cells.saving/sqlscriptsaveoptions/
 is_root: false
 ---
@@ -12,8 +12,8 @@ Representerar alternativen för att spara sql.
 
 
 
-**Arv:** [SqlScriptSaveOptions](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions) → 
-[SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
+**Arv:** [`SqlScriptSaveOptions`](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions) → 
+[`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)
 
 
 
@@ -22,7 +22,7 @@ Typen SqlScriptSaveOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [SqlScriptSaveOptions()](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/__init__/#) | Skapar alternativ för att spara sql-fil.|
+| [__init__](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/__init__/#) | Skapar alternativ för att spara sql-fil.|
 
 
 ###  Egenskaper
@@ -35,12 +35,12 @@ Typen SqlScriptSaveOptions avslöjar följande medlemmar:
 | [merge_areas](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/merge_areas) | Anger om områdena för villkorlig formatering och validering ska slås samman innan filen sparas.|
 | [create_directory](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/create_directory) | Om sant och katalogen inte finns skapas katalogen automatiskt innan filen sparas.|
 | [sort_names](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/sort_names) | Anger om du sorterar definierade namn innan filen sparas.|
-| [sort_external_names](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/sort_external_names) |Anger om externt definierade namn sorteras innan filen sparas.|
+| [sort_external_names](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/sort_external_names) | Anger om externt definierade namn sorteras innan filen sparas.|
 | [refresh_chart_cache](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/refresh_chart_cache) | Anger om diagramcachedata uppdateras|
 | [warning_callback](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/warning_callback) | Får eller ställer in varningsåteruppringning.|
 | [update_smart_art](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/update_smart_art) | Indikerar om inställningen för smart konst uppdateras.<br/> Standardvärdet är falskt.|
 | [check_if_table_exists](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/check_if_table_exists) | Kontrollera om tabellnamnet finns innan du skapar|
-| [column_type_map](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/column_type_map) |Hämtar och ställer in kartan över kolumntyp för olika databas.|
+| [column_type_map](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/column_type_map) | Hämtar och ställer in kartan över kolumntyp för olika databas.|
 | [check_all_data_for_column_type](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/check_all_data_for_column_type) | Kontrollera alla data för att hitta kolumnernas datatyp.|
 | [add_blank_line_between_rows](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/add_blank_line_between_rows) | Infoga tom rad mellan varje data.|
 | [separator](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions/separator) | Hämtar och ställer in teckenseparator för sql-skript.|
@@ -58,6 +58,6 @@ Typen SqlScriptSaveOptions avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.saving](..)
-* klass [SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
-* klass [SqlScriptSaveOptions](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions)
+* modul [`aspose.cells.saving`](..)
+* klass [`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)
+* klass [`SqlScriptSaveOptions`](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions)

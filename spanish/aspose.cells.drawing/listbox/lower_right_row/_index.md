@@ -3,7 +3,7 @@ title: lower_right_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 800
+weight: 810
 url: /es/aspose.cells.drawing/listbox/lower_right_row/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def lower_right_row(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ListBox](/cells/python-net/es/aspose.cells.drawing/listbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ListBox`](/cells/python-net/es/aspose.cells.drawing/listbox)

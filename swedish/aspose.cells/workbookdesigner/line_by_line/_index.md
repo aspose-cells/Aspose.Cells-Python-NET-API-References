@@ -3,7 +3,7 @@ title: line_by_line fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 100
 url: /sv/aspose.cells/workbookdesigner/line_by_line/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def line_by_line(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookDesigner](/cells/python-net/sv/aspose.cells/workbookdesigner)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookDesigner`](/cells/python-net/sv/aspose.cells/workbookdesigner)

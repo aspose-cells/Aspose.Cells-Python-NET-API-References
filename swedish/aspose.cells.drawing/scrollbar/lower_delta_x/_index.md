@@ -3,7 +3,7 @@ title: lower_delta_x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 770
+weight: 780
 url: /sv/aspose.cells.drawing/scrollbar/lower_delta_x/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def lower_delta_x(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ScrollBar](/cells/python-net/sv/aspose.cells.drawing/scrollbar)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ScrollBar`](/cells/python-net/sv/aspose.cells.drawing/scrollbar)

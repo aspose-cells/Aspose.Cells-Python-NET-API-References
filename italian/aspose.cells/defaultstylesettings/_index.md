@@ -1,18 +1,18 @@
 ---
-title: classe DefaultStyleSettings
+title: DefaultStyleSettings classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 460
+weight: 480
 url: /it/aspose.cells/defaultstylesettings/
 is_root: false
 ---
-##  classe DefaultStyleSettings
+##  DefaultStyleSettings classe
 Impostazioni per i valori predefiniti delle proprietà di stile della cartella di lavoro.
 
 
 
-Il tipo DefaultStyleSettings espone i membri seguenti:
+Il tipo DefaultStyleSettings espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -25,4 +25,4 @@ Il tipo DefaultStyleSettings espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

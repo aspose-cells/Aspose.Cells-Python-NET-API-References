@@ -3,7 +3,7 @@ title: is_filled propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 530
+weight: 540
 url: /es/aspose.cells.drawing/dialogbox/is_filled/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_filled(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [DialogBox](/cells/python-net/es/aspose.cells.drawing/dialogbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`DialogBox`](/cells/python-net/es/aspose.cells.drawing/dialogbox)

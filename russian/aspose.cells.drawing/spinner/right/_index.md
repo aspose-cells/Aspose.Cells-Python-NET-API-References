@@ -1,9 +1,9 @@
 ---
 title: right недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 900
+weight: 910
 url: /ru/aspose.cells.drawing/spinner/right/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def right(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Spinner](/cells/python-net/ru/aspose.cells.drawing/spinner)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Spinner`](/cells/python-net/ru/aspose.cells.drawing/spinner)

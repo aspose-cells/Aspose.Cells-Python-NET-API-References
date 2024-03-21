@@ -1,14 +1,14 @@
 ---
 title: import_formula_array方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 660
+weight: 650
 url: /zh/aspose.cells/cells/import_formula_array/
 is_root: false
 ---
-##  import_formula_array(string_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-将公式数组导入工作表。
+##  import_formula_array {#list-int-int-bool}
+将公式数组导入到工作表中。
 
 
 
@@ -28,5 +28,5 @@ def import_formula_array(self, string_array, first_row, first_column, is_vertica
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

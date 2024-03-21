@@ -3,11 +3,11 @@ title: move_to metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 160
 url: /sv/aspose.cells/range/move_to/
 is_root: false
 ---
-##  move_to(dest_row, dest_column) {#int-int}
+##  move_to {#int-int}
 Flytta det aktuella intervallet till destinationsintervallet.
 
 
@@ -26,5 +26,5 @@ def move_to(self, dest_row, dest_column):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

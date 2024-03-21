@@ -3,7 +3,7 @@ title: hyperlink propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 550
+weight: 560
 url: /es/aspose.cells.drawing/arcshape/hyperlink/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ArcShape](/cells/python-net/es/aspose.cells.drawing/arcshape)
-* clase [Hyperlink](/cells/python-net/es/aspose.cells/hyperlink)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ArcShape`](/cells/python-net/es/aspose.cells.drawing/arcshape)
+* clase [`Hyperlink`](/cells/python-net/es/aspose.cells/hyperlink)

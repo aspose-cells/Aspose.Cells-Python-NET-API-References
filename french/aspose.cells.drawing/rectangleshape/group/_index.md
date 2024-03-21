@@ -3,7 +3,7 @@ title: group propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 400
+weight: 410
 url: /fr/aspose.cells.drawing/rectangleshape/group/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def group(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GroupShape](/cells/python-net/fr/aspose.cells.drawing/groupshape)
-* classe [RectangleShape](/cells/python-net/fr/aspose.cells.drawing/rectangleshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/fr/aspose.cells.drawing/groupshape)
+* classe [`RectangleShape`](/cells/python-net/fr/aspose.cells.drawing/rectangleshape)

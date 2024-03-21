@@ -3,7 +3,7 @@ title: input_range Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 510
+weight: 520
 url: /de/aspose.cells.drawing/rectangleshape/input_range/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def input_range(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RectangleShape](/cells/python-net/de/aspose.cells.drawing/rectangleshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RectangleShape`](/cells/python-net/de/aspose.cells.drawing/rectangleshape)

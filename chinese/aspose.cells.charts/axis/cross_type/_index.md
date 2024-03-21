@@ -1,15 +1,15 @@
 ---
-title: cross_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: cross_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 120
 url: /zh/aspose.cells.charts/axis/cross_type/
 is_root: false
 ---
-## cross_type 属性
+## cross_type属性
 
-代表[Axis.cross_type](/cells/python-net/zh/aspose.cells.charts/axis#cross_type)在指定轴上与其他轴交叉。
+表示指定轴上与其他轴相交的 [`Axis.cross_type`](/cells/python-net/zh/aspose.cells.charts/axis#cross_type)。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def cross_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
-* 类 [CrossType](/cells/python-net/zh/aspose.cells.charts/crosstype)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)
+* 类 [`CrossType`](/cells/python-net/zh/aspose.cells.charts/crosstype)

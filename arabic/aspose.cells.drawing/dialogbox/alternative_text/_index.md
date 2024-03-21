@@ -1,15 +1,15 @@
 ---
-title: alternative_text الملكية
+title: alternative_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 280
 url: /ar/aspose.cells.drawing/dialogbox/alternative_text/
 is_root: false
 ---
-##  alternative_text الملكية
+##  alternative_text عقار
 
-إرجاع أو تحديد السلسلة النصية الوصفية (البديلة) للعنصر [Shape](/cells/python-net/ar/aspose.cells.drawing/shape).
+إرجاع أو تعيين السلسلة النصية الوصفية (البديلة) للكائن [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape).
 
 ###  مثال
 
@@ -29,6 +29,6 @@ def alternative_text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [DialogBox](/cells/python-net/ar/aspose.cells.drawing/dialogbox)
-* فئة [Shape](/cells/python-net/ar/aspose.cells.drawing/shape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`DialogBox`](/cells/python-net/ar/aspose.cells.drawing/dialogbox)
+* فئة [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape)

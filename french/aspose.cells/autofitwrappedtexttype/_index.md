@@ -1,14 +1,14 @@
 ---
-title: AutoFitWrappedTextType dénombrement
+title: AutoFitWrappedTextType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1770
+weight: 1840
 url: /fr/aspose.cells/autofitwrappedtexttype/
 is_root: false
 ---
-##  AutoFitWrappedTextType dénombrement
-Représente le type de texte ajusté automatiquement.
+##  AutoFitWrappedTextType énumération
+Représente le type de texte enveloppé à ajustement automatique.
 
 
 
@@ -18,9 +18,9 @@ Le type AutoFitWrappedTextType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | DEFAULT | Fonctionne comme MS Excel.|
-| PARAGRAPH | Ajuster automatiquement la largeur au paragraphe le plus long.|
+| PARAGRAPH | Ajustement automatique de la largeur avec le paragraphe le plus long.|
 
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

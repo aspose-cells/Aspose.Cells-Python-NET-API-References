@@ -3,7 +3,7 @@ title: is_bi_level fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 80
 url: /sv/aspose.cells.drawing/msoformatpicture/is_bi_level/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_bi_level(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoFormatPicture](/cells/python-net/sv/aspose.cells.drawing/msoformatpicture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoFormatPicture`](/cells/python-net/sv/aspose.cells.drawing/msoformatpicture)

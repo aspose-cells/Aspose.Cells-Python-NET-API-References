@@ -1,13 +1,13 @@
 ---
 title: to_image方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 40
+weight: 50
 url: /zh/aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
-##  to_image(page_index, file_name) {#int-str}
+##  to_image {#int-str}
 将特定页面渲染到文件中。
 
 
@@ -45,8 +45,8 @@ sr.to_image(0, "output.png")
 ```
 
 
-##  to_image(page_index, stream) {#int-io.RawIOBase}
-将特定页面渲染到流中。
+##  to_image {#int-io.RawIOBase}
+将特定页面渲染到流。
 
 
 
@@ -59,10 +59,10 @@ def to_image(self, page_index, stream):
 |范围|类型|描述|
 | :- | :- | :- |
 | page_index | int |指示要转换的页面|
-| stream | io.RawIOBase |输出图像流|
+| stream | io.RawIOBase |输出图像的流|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](../../)
-* 类 [SheetRender](/cells/python-net/zh/aspose.cells.rendering/sheetrender)
+* 模块[`aspose.cells.rendering`](../../)
+* 类 [`SheetRender`](/cells/python-net/zh/aspose.cells.rendering/sheetrender)

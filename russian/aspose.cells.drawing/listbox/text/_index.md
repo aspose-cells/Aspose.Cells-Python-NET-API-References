@@ -1,9 +1,9 @@
 ---
 title: text недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /ru/aspose.cells.drawing/listbox/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ListBox](/cells/python-net/ru/aspose.cells.drawing/listbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ListBox`](/cells/python-net/ru/aspose.cells.drawing/listbox)

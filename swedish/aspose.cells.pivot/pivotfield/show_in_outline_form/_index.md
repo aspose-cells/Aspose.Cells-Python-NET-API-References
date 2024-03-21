@@ -3,7 +3,7 @@ title: show_in_outline_form fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 540
+weight: 580
 url: /sv/aspose.cells.pivot/pivotfield/show_in_outline_form/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_in_outline_form(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotField](/cells/python-net/sv/aspose.cells.pivot/pivotfield)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield)

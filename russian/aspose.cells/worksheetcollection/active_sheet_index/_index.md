@@ -1,19 +1,19 @@
 ---
 title: active_sheet_index недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ru/aspose.cells/worksheetcollection/active_sheet_index/
 is_root: false
 ---
 ##  active_sheet_index недвижимость
 
-Представляет индекс активного рабочего листа при открытии электронной таблицы.
+Представляет индекс активного листа при открытии электронной таблицы.
 
 ###  Примечания
 
-Индекс листа отсчитывается от нуля.
+Индекс листа начинается с нуля.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def active_sheet_index(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorksheetCollection](/cells/python-net/ru/aspose.cells/worksheetcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`WorksheetCollection`](/cells/python-net/ru/aspose.cells/worksheetcollection)

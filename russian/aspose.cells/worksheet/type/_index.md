@@ -1,9 +1,9 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 850
+weight: 870
 url: /ru/aspose.cells/worksheet/type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [SheetType](/cells/python-net/ru/aspose.cells/sheettype)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`SheetType`](/cells/python-net/ru/aspose.cells/sheettype)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

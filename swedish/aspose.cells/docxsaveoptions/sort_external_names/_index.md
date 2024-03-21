@@ -3,7 +3,7 @@ title: sort_external_names fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 260
 url: /sv/aspose.cells/docxsaveoptions/sort_external_names/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sort_external_names(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DocxSaveOptions](/cells/python-net/sv/aspose.cells/docxsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`DocxSaveOptions`](/cells/python-net/sv/aspose.cells/docxsaveoptions)

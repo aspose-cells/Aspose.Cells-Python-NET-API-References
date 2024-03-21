@@ -1,13 +1,13 @@
 ---
-title: unprotect método
+title: método unprotect
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 300
+weight: 320
 url: /es/aspose.cells/worksheet/unprotect/
 is_root: false
 ---
-##  unprotect() {#}
+##  unprotect {#}
 Desprotege la hoja de trabajo.
 
 
@@ -22,7 +22,7 @@ def unprotect(self):
 
 Este método desprotege la hoja de trabajo que está protegida sin contraseña.
 
-##  unprotect(password) {#str}
+##  unprotect {#str}
 
 Desprotege la hoja de trabajo.
 
@@ -39,10 +39,10 @@ def unprotect(self, password):
 | password | str | Contraseña|
 ###  Observaciones
 
-Si la hoja de trabajo está protegida sin una contraseña, puede establecer un valor nulo o una cadena en blanco para el parámetro de contraseña.
+Si la hoja de trabajo está protegida sin contraseña, puede establecer un valor nulo o una cadena en blanco para el parámetro de contraseña.
 
 
 ###  Ver también
 
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

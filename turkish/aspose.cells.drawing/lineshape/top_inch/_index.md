@@ -3,20 +3,20 @@ title: top_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /tr/aspose.cells.drawing/lineshape/top_inch/
 is_root: false
 ---
 ##  top_inch mülk
 
-Şeklin üst satırından dikey uzaklığını inç cinsinden temsil eder.
+İnç birimi cinsinden şeklin üst satırından dikey uzaklığını temsil eder.
 
 ###  Örnek
 
 ```python
 
 if shape.top_inch == 3:
-    shape.top_inch = 1
+    shape.top_inch = 1.0
 
 ```
 ###  Tanım:
@@ -30,5 +30,5 @@ def top_inch(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineShape](/cells/python-net/tr/aspose.cells.drawing/lineshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineShape`](/cells/python-net/tr/aspose.cells.drawing/lineshape)

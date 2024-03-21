@@ -1,15 +1,15 @@
 ---
-title: page_index الملكية
+title: page_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ar/aspose.cells.rendering/imageorprintoptions/page_index/
 is_root: false
 ---
-##  page_index الملكية
+##  page_index عقار
 
-الحصول على أو تحديد الفهرس الذي يستند إلى 0 للصفحة الأولى لحفظها.
+الحصول على أو تعيين الفهرس المستند إلى 0 للصفحة الأولى المراد حفظها.
 
 ###  ملاحظات
 
@@ -25,5 +25,5 @@ def page_index(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

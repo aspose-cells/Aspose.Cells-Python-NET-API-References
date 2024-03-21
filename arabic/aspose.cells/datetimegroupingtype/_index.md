@@ -1,30 +1,30 @@
 ---
-title: العد DateTimeGroupingType
+title: DateTimeGroupingType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1940
+weight: 2010
 url: /ar/aspose.cells/datetimegroupingtype/
 is_root: false
 ---
-##  العد DateTimeGroupingType
-يحدد كيفية تجميع قيم التاريخ والوقت.
+##  DateTimeGroupingType التعداد
+يحدد كيفية تجميع قيم dateTime.
 
 
 
-يكشف نوع DateTimeGroupingType الأعضاء التالية:
+يكشف النوع DateTimeGroupingType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DAY | تجميع حسب اليوم.|
-| HOUR | تجميع حسب الساعة.|
-| MINUTE | تجميع بالدقيقة.|
-| MONTH | تجميع حسب الشهر.|
-| SECOND | تجميع حسب الثانية.|
-| YEAR |تجميع حسب السنة.|
+| DAY | مجموعة بعد يوم.|
+| HOUR | المجموعة حسب الساعة.|
+| MINUTE | تجميع حسب الدقيقة.|
+| MONTH | المجموعة حسب الشهر.|
+| SECOND | المجموعة بالثانية.|
+| YEAR | المجموعة حسب السنة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

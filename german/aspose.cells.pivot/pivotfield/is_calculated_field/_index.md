@@ -3,7 +3,7 @@ title: is_calculated_field Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 370
+weight: 410
 url: /de/aspose.cells.pivot/pivotfield/is_calculated_field/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_calculated_field(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotField](/cells/python-net/de/aspose.cells.pivot/pivotfield)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotField`](/cells/python-net/de/aspose.cells.pivot/pivotfield)

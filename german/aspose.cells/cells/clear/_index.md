@@ -7,8 +7,8 @@ weight: 90
 url: /de/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear() {#}
-Löscht alle Zellen- und Zeilenobjekte.
+##  clear {#}
+Löscht alle Daten des Arbeitsblatts.
 
 
 
@@ -22,5 +22,5 @@ def clear(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

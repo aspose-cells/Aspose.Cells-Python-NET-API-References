@@ -1,23 +1,25 @@
 ---
-title: calculated_value الملكية
+title: calculated_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells/calculationdata/calculated_value/
 is_root: false
 ---
-##  calculated_value الملكية
+##  calculated_value عقار
 
-الحصول على أو تحديد القيمة المحسوبة لهذه الوظيفة.
+الحصول على أو تعيين القيمة المحسوبة لهذه الوظيفة.
 
 ###  ملاحظات
 
-يجب على المستخدم تعيين هذه الخاصية في محرك الحساب المخصص الخاص به لتلك الوظائف التي يدعمها المحرك ،
+يجب على المستخدم تعيين هذه الخاصية في محرك الحساب المخصص الخاص به لتلك الوظائف التي يدعمها المحرك،
 وسيتم إرجاع القيمة المحددة عند الحصول على هذه الخاصية لاحقًا.
-يمكن أن تكون القيمة المحددة أي قيمة لتلك العناصر التي يمكن تعيينها على Cell (Cell.Value).
-ويمكن أيضًا أن تكون مصفوفة من هذا النوع من القيم ، أو نطاقًا ، اسمًا ، منطقة مرجعية.
-سيؤدي الحصول على هذه الخاصية قبل الإعداد إلى احتساب الوظيفة بواسطة محرك الحساب الافتراضي Aspose.Cells وسيتم إرجاع القيمة المحسوبة.
+قد تكون القيمة المحددة من الأنواع المحتملة [`Cell.value`](/cells/python-net/ar/aspose.cells/cell#value)،
+أو مجموعة من هذا النوع من القيم، أو نطاق، اسم، منطقة مرجعية.
+الحصول على هذه الخاصية قبل تحديد القيمة لها سيؤدي إلى حساب الدالة
+بواسطة محرك الحساب الافتراضي Aspose.Cells ثم القيمة المحسوبة
+يتم إرجاعها (بشكل عام يجب أن يكون #NAME؟ للوظائف المحددة من قبل المستخدم).
 ###  تعريف:
 ```python
 @property
@@ -29,5 +31,5 @@ def calculated_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CalculationData](/cells/python-net/ar/aspose.cells/calculationdata)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CalculationData`](/cells/python-net/ar/aspose.cells/calculationdata)

@@ -3,7 +3,7 @@ title: BorderType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1790
+weight: 1860
 url: /sv/aspose.cells/bordertype/
 is_root: false
 ---
@@ -21,7 +21,7 @@ Typen BorderType avslöjar följande medlemmar:
 | DIAGONAL_DOWN | Representerar den diagonala linjen från övre vänster till höger nere.|
 | DIAGONAL_UP | Representerar den diagonala linjen från nedre vänster till höger upptill.|
 | LEFT_BORDER | Representerar vänster gränslinje.|
-| RIGHT_BORDER |Representerar höger gränslinje finns.|
+| RIGHT_BORDER | Representerar höger gränslinje finns.|
 | TOP_BORDER | Representerar övre kantlinjen.|
 | HORIZONTAL | Endast för dynamisk stil, som villkorlig formatering.|
 | VERTICAL | Endast för dynamisk stil, som villkorlig formatering.|
@@ -29,4 +29,4 @@ Typen BorderType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

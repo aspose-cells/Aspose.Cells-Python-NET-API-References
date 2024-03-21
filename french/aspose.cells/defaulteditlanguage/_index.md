@@ -1,13 +1,13 @@
 ---
-title: DefaultEditLanguage dénombrement
+title: DefaultEditLanguage énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1950
+weight: 2020
 url: /fr/aspose.cells/defaulteditlanguage/
 is_root: false
 ---
-##  DefaultEditLanguage dénombrement
+##  DefaultEditLanguage énumération
 Représente la langue d'édition par défaut.
 
 
@@ -17,11 +17,11 @@ Le type DefaultEditLanguage expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| AUTO | Représente la détection automatique de la langue d'édition en fonction du texte lui-même.|
+| AUTO | Représente la langue d'édition à détection automatique en fonction du texte lui-même.|
 | ENGLISH | Représente la langue anglaise.|
-| CJK | Représente la langue chinoise, japonaise, coréenne.|
+| CJK | Représente les langues chinoise, japonaise et coréenne.|
 
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

@@ -1,9 +1,9 @@
 ---
 title: XmlColumnProperty类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1670
+weight: 1740
 url: /zh/aspose.cells/xmlcolumnproperty/
 is_root: false
 ---
@@ -12,14 +12,14 @@ is_root: false
 
 
 
-XmlColumnProperty 类型公开了以下成员：
+XmlColumnProperty 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [XmlColumnProperty()](/cells/python-net/zh/aspose.cells/xmlcolumnproperty/__init__/#) |构造 XmlColumnProperty 的新实例|
+| [__init__](/cells/python-net/zh/aspose.cells/xmlcolumnproperty/__init__/#) |构造 XmlColumnProperty 的新实例|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

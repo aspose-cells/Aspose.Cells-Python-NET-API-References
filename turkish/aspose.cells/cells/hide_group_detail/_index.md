@@ -3,11 +3,11 @@ title: hide_group_detail yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 580
+weight: 570
 url: /tr/aspose.cells/cells/hide_group_detail/
 is_root: false
 ---
-##  hide_group_detail(is_vertical, index) {#bool-int}
+##  hide_group_detail {#bool-int}
 Gruplandırılmış satırları/sütunları daraltır.
 
 
@@ -26,5 +26,5 @@ def hide_group_detail(self, is_vertical, index):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

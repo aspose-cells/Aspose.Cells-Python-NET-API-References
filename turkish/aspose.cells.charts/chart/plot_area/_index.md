@@ -3,13 +3,13 @@ title: plot_area mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 450
 url: /tr/aspose.cells.charts/chart/plot_area/
 is_root: false
 ---
 ##  plot_area mülk
 
-Eksen etiketi etiketlerini içeren grafiğin çizim alanını alır.
+Eksen onay etiketlerini içeren grafiğin çizim alanını alır.
 
 ###  Notlar
 
@@ -22,6 +22,6 @@ def plot_area(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Chart](/cells/python-net/tr/aspose.cells.charts/chart)
-* sınıf [PlotArea](/cells/python-net/tr/aspose.cells.charts/plotarea)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Chart`](/cells/python-net/tr/aspose.cells.charts/chart)
+* sınıf [`PlotArea`](/cells/python-net/tr/aspose.cells.charts/plotarea)

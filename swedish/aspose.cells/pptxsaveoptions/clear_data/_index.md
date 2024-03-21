@@ -3,7 +3,7 @@ title: clear_data fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 80
 url: /sv/aspose.cells/pptxsaveoptions/clear_data/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def clear_data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PptxSaveOptions](/cells/python-net/sv/aspose.cells/pptxsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PptxSaveOptions`](/cells/python-net/sv/aspose.cells/pptxsaveoptions)

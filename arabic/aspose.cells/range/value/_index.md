@@ -1,19 +1,19 @@
 ---
-title: value الملكية
+title: value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 420
 url: /ar/aspose.cells/range/value/
 is_root: false
 ---
-##  value الملكية
+##  value عقار
 
-الحصول على وتعيين value للنطاق.
+الحصول على value للنطاق وتعيينه.
 
 ###  ملاحظات
 
-إذا كان النطاق يحتوي على خلايا متعددة ، فيجب أن يكون الكائن المرتجع / المطبق عبارة عن كائن صفيف ثنائي الأبعاد.
+إذا كان النطاق يحتوي على خلايا متعددة، فيجب أن يكون الكائن الذي تم إرجاعه/تطبيقه عبارة عن كائن صفيف ثنائي الأبعاد.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

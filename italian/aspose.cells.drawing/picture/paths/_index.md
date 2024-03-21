@@ -3,13 +3,13 @@ title: paths proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 980
+weight: 990
 url: /it/aspose.cells.drawing/picture/paths/
 is_root: false
 ---
 ##  paths proprietà
 
-Ottiene paths di una forma geometrica personalizzata.
+Ottiene lo paths di una forma geometrica personalizzata.
 
 ###  Esempio
 
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
-* classe [ShapePathCollection](/cells/python-net/it/aspose.cells.drawing/shapepathcollection)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)
+* classe [`ShapePathCollection`](/cells/python-net/it/aspose.cells.drawing/shapepathcollection)

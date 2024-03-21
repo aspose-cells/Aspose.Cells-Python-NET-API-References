@@ -3,7 +3,7 @@ title: source_full_name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /de/aspose.cells.drawing/oleobject/source_full_name/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Gibt den vollständigen Quellnamen der Quelldatei für das verknüpfte OLE-Objek
 ###  Bemerkungen
 
  HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
-Bitte verwenden Sie die OleObject.ObjectSourceFullName-Eigenschaft.
- Diese Property wird 12 Monate später seit November 2013 entfernt.
+Bitte verwenden Sie die Eigenschaft OleObject.ObjectSourceFullName.
+ Diese Eigenschaft wird seit November 2013 12 Monate später entfernt.
 Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
 ###  Definition:
 ```python
@@ -28,5 +28,5 @@ def source_full_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [OleObject](/cells/python-net/de/aspose.cells.drawing/oleobject)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`OleObject`](/cells/python-net/de/aspose.cells.drawing/oleobject)

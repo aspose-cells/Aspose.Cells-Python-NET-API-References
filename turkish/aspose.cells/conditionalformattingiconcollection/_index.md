@@ -3,16 +3,16 @@ title: ConditionalFormattingIconCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 330
 url: /tr/aspose.cells/conditionalformattingiconcollection/
 is_root: false
 ---
 ##  ConditionalFormattingIconCollection sınıfı
-[ConditionalFormattingIcon](/cells/python-net/tr/aspose.cells/conditionalformattingicon) nesne koleksiyonunu temsil eder.
+[`ConditionalFormattingIcon`](/cells/python-net/tr/aspose.cells/conditionalformattingicon) nesneden oluşan bir koleksiyonu temsil eder.
 
 
 
-ConditionalFormattingIconCollection türü aşağıdaki üyeleri gösterir:
+ConditionalFormattingIconCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -23,16 +23,16 @@ ConditionalFormattingIconCollection türü aşağıdaki üyeleri gösterir:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add(type, index)](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/add/#IconSetType-int) | [ConditionalFormattingIcon](/cells/python-net/tr/aspose.cells/conditionalformattingicon) nesnesini ekler.|
-| [add(cficon)](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/add/#ConditionalFormattingIcon) | [ConditionalFormattingIcon](/cells/python-net/tr/aspose.cells/conditionalformattingicon) nesnesini ekler.|
-| [copy_to(array)](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/copy_to/#int-list-int-int) |Dizi listesindeki bir dizi öğeyi, hedef dizi listesinin belirtilen dizininden başlayarak uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of(item, index)](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/index_of/#ConditionalFormattingIcon-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of(item, index, count)](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/index_of/#ConditionalFormattingIcon-int-int) | Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item)](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/last_index_of/#ConditionalFormattingIcon) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index)](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/last_index_of/#ConditionalFormattingIcon-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index, count)](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/last_index_of/#ConditionalFormattingIcon-int-int) |Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [binary_search(item)](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/binary_search/#ConditionalFormattingIcon) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [add](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/add/#aspose.cells.IconSetType-int) | [`ConditionalFormattingIcon`](/cells/python-net/tr/aspose.cells/conditionalformattingicon) nesnesini ekler.|
+| [add](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/add/#aspose.cells.ConditionalFormattingIcon) | [`ConditionalFormattingIcon`](/cells/python-net/tr/aspose.cells/conditionalformattingicon) nesnesini ekler.|
+| [copy_to](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak dizi listesinin tamamını uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [copy_to](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen dizininden başlayarak, dizi listesinden bir dizi öğeyi uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [index_of](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/index_of/#aspose.cells.ConditionalFormattingIcon-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [index_of](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/index_of/#aspose.cells.ConditionalFormattingIcon-int-int) |Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğeyi içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.ConditionalFormattingIcon) | Belirtilen nesneyi arar ve dizi listesinin tamamındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.ConditionalFormattingIcon-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.ConditionalFormattingIcon-int-int) | Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [binary_search](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection/binary_search/#aspose.cells.ConditionalFormattingIcon) | Varsayılan karşılaştırıcıyı kullanarak bir öğe için sıralanmış dizi listesinin tamamını arar ve öğenin sıfır tabanlı dizinini döndürür.|
 
 
 
@@ -84,5 +84,5 @@ workbook.save("output.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
-* sınıf [ConditionalFormattingIcon](/cells/python-net/tr/aspose.cells/conditionalformattingicon)
+* modül [`aspose.cells`](..)
+* sınıf [`ConditionalFormattingIcon`](/cells/python-net/tr/aspose.cells/conditionalformattingicon)

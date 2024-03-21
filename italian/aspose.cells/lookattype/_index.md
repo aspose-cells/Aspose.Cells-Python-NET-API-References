@@ -1,28 +1,28 @@
 ---
-title: LookAtType enumerazione
+title: Enumerazione LookAtType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2220
+weight: 2300
 url: /it/aspose.cells/lookattype/
 is_root: false
 ---
-##  LookAtType enumerazione
-Rappresenta guardare il tipo.
+##  Enumerazione LookAtType
+Rappresenta il tipo.
 
 
 
-Il tipo LookAtType espone i membri seguenti:
+Il tipo LookAtType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| CONTAINS | Cell valore Contiene l'oggetto find.|
-| START_WITH | Cell valore Inizia con l'oggetto find.|
-| END_WITH | Cell termina con l'oggetto find.|
-| ENTIRE_CONTENT | Il valore Cell è lo stesso dell'oggetto find.|
+| CONTAINS | Cell valore Contiene l'oggetto trovato.|
+| START_WITH | Cell valore Inizia con l'oggetto trova.|
+| END_WITH | Il valore Cell termina con l'oggetto trova.|
+| ENTIRE_CONTENT | Il valore Cell è uguale all'oggetto trova.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

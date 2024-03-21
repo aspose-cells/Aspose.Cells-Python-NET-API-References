@@ -3,7 +3,7 @@ title: explosion Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 150
 url: /de/aspose.cells.charts/series/explosion/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def explosion(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

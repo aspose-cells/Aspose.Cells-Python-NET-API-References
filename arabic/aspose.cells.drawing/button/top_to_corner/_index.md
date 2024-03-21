@@ -1,15 +1,15 @@
 ---
-title: top_to_corner الملكية
+title: top_to_corner عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /ar/aspose.cells.drawing/button/top_to_corner/
 is_root: false
 ---
-##  top_to_corner الملكية
+##  top_to_corner عقار
 
-الحصول على الإزاحة الرأسية للشكل وتعيينها من الحد العلوي لورقة العمل ، بوحدة البكسل.
+الحصول على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل وتعيينها، بوحدة البكسل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Button](/cells/python-net/ar/aspose.cells.drawing/button)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Button`](/cells/python-net/ar/aspose.cells.drawing/button)

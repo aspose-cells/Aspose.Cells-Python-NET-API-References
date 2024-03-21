@@ -3,7 +3,7 @@ title: MultipleFilterCollection Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1060
+weight: 1100
 url: /de/aspose.cells/multiplefiltercollection/
 is_root: false
 ---
@@ -17,21 +17,21 @@ Der Typ MultipleFilterCollection macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [MultipleFilterCollection()](/cells/python-net/de/aspose.cells/multiplefiltercollection/__init__/#) | Erstellt eine neue Instanz von MultipleFilterCollection|
+| [__init__](/cells/python-net/de/aspose.cells/multiplefiltercollection/__init__/#) | Konstruiert eine neue Instanz.|
 
 
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [match_blank](/cells/python-net/de/aspose.cells/multiplefiltercollection/match_blank) | Gibt an, ob nach Leerzeichen gefiltert werden soll.|
+| [match_blank](/cells/python-net/de/aspose.cells/multiplefiltercollection/match_blank) |Gibt an, ob nach Leerzeichen gefiltert werden soll.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add(filter)](/cells/python-net/de/aspose.cells/multiplefiltercollection/add/#str) | Fügt einen Zeichenfolgenfilter hinzu.|
+| [add](/cells/python-net/de/aspose.cells/multiplefiltercollection/add/#str) | Fügt einen String-Filter hinzu.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

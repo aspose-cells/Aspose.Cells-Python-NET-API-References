@@ -1,13 +1,13 @@
 ---
-title: width_cm 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: width_cm属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 250
 url: /zh/aspose.cells/comment/width_cm/
 is_root: false
 ---
-## width_cm 属性
+## width_cm属性
 
 表示注释的宽度，单位为厘米。
 
@@ -29,5 +29,5 @@ def width_cm(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)

@@ -7,7 +7,7 @@ weight: 40
 url: /de/aspose.cells/workbook/calculate_formula/
 is_root: false
 ---
-##  calculate_formula() {#}
+##  calculate_formula {#}
 Berechnet das Ergebnis von Formeln.
 
 
@@ -22,7 +22,7 @@ def calculate_formula(self):
 
 Alle unterstützten Formeln finden Sie in der Liste unter https://docs.aspose.com/display/cellsnet/Supported+Formula+Functions
 
-##  calculate_formula(ignore_error) {#bool}
+##  calculate_formula {#bool}
 
 Berechnet das Ergebnis von Formeln.
 
@@ -36,11 +36,11 @@ def calculate_formula(self, ignore_error):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| ignore_error | bool | Gibt an, ob der Fehler beim Berechnen von Formeln ausgeblendet wird. Der Fehler kann eine nicht unterstützte Funktion, externe Links usw. sein.|
+| ignore_error | bool |Zeigt an, ob der Fehler bei der Berechnung von Formeln ausgeblendet wird. Der Fehler kann auf nicht unterstützte Funktionen, externe Links usw. zurückzuführen sein.|
 
 
-##  calculate_formula(options) {#CalculationOptions}
-Berechnungsformeln in diesem Arbeitsbuch.
+##  calculate_formula {#aspose.cells.CalculationOptions}
+Berechnungsformeln in dieser Arbeitsmappe.
 
 
 
@@ -52,32 +52,10 @@ def calculate_formula(self, options):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| options | [CalculationOptions](/cells/python-net/de/aspose.cells/calculationoptions) | Berechnungsmöglichkeiten|
+| options | [`CalculationOptions`](/cells/python-net/de/aspose.cells/calculationoptions) | Berechnungsmöglichkeiten|
 
-
-##  calculate_formula(ignore_error, custom_function) {#bool-ICustomFunction}
-Berechnet das Ergebnis von Formeln.
-
-
-
-```python
-def calculate_formula(self, ignore_error, custom_function):
-    ...
-```
-
-
-| Parameter| Typ| Beschreibung|
-| :- | :- | :- |
-| ignore_error | bool | Gibt an, ob der Fehler beim Berechnen von Formeln ausgeblendet wird. Der Fehler kann eine nicht unterstützte Funktion, externe Links usw. sein.|
-| custom_function | [ICustomFunction](/cells/python-net/de/aspose.cells/icustomfunction) | Die Berechnungsfunktionen für benutzerdefinierte Formeln erweitern die Berechnungs-Engine.|
-###  Bemerkungen
-
-HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
-Bitte verwenden Sie die Methode CalculateFormula (CalculationOptions).
- Diese Methode wird 12 Monate später seit August 2020 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Workbook](/cells/python-net/de/aspose.cells/workbook)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Workbook`](/cells/python-net/de/aspose.cells/workbook)

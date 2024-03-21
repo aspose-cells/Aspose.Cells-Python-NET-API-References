@@ -1,0 +1,25 @@
+---
+title: cell_css_prefix недвижимость
+second_title: Aspose.Cells for Python via .NET API Рекомендации
+description:
+type: docs
+weight: 80
+url: /ru/aspose.cells.saving/ebooksaveoptions/cell_css_prefix/
+is_root: false
+---
+##  cell_css_prefix недвижимость
+
+Получает и устанавливает префикс имени CSS, значение по умолчанию — "".
+###  Определение:
+```python
+@property
+def cell_css_prefix(self):
+    ...
+@cell_css_prefix.setter
+def cell_css_prefix(self, value):
+    ...
+```
+
+###  Смотрите также
+* модуль [`aspose.cells.saving`](../../)
+* класс [`EbookSaveOptions`](/cells/python-net/ru/aspose.cells.saving/ebooksaveoptions)

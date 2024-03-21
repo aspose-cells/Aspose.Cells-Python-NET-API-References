@@ -3,7 +3,7 @@ title: count_of_styles_in_pool propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 480
+weight: 490
 url: /es/aspose.cells/workbook/count_of_styles_in_pool/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def count_of_styles_in_pool(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
+* módulo [`aspose.cells`](../../)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)

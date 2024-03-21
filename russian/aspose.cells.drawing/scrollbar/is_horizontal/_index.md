@@ -1,9 +1,9 @@
 ---
 title: is_horizontal недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 600
+weight: 610
 url: /ru/aspose.cells.drawing/scrollbar/is_horizontal/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_horizontal(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ScrollBar](/cells/python-net/ru/aspose.cells.drawing/scrollbar)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ScrollBar`](/cells/python-net/ru/aspose.cells.drawing/scrollbar)

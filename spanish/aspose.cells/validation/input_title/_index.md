@@ -3,7 +3,7 @@ title: input_title propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 230
+weight: 240
 url: /es/aspose.cells/validation/input_title/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def input_title(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Validation](/cells/python-net/es/aspose.cells/validation)
+* módulo [`aspose.cells`](../../)
+* clase [`Validation`](/cells/python-net/es/aspose.cells/validation)

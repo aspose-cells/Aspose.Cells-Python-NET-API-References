@@ -3,7 +3,7 @@ title: create_id Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 340
 url: /de/aspose.cells.drawing/scrollbar/create_id/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def create_id(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ScrollBar](/cells/python-net/de/aspose.cells.drawing/scrollbar)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ScrollBar`](/cells/python-net/de/aspose.cells.drawing/scrollbar)

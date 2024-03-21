@@ -3,7 +3,7 @@ title: text_vertical_overflow propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /es/aspose.cells.drawing/arcshape/text_vertical_overflow/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_vertical_overflow(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ArcShape](/cells/python-net/es/aspose.cells.drawing/arcshape)
-* clase [TextOverflowType](/cells/python-net/es/aspose.cells.drawing/textoverflowtype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ArcShape`](/cells/python-net/es/aspose.cells.drawing/arcshape)
+* clase [`TextOverflowType`](/cells/python-net/es/aspose.cells.drawing/textoverflowtype)

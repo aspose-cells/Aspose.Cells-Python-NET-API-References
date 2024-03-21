@@ -1,13 +1,13 @@
 ---
-title: write_protection 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: write_protection属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 760
+weight: 640
 url: /zh/aspose.cells/workbooksettings/write_protection/
 is_root: false
 ---
-## write_protection 属性
+## write_protection属性
 
 提供对工作簿写保护选项的访问。
 ### 定义：
@@ -18,6 +18,6 @@ def write_protection(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
-* 类 [WriteProtection](/cells/python-net/zh/aspose.cells/writeprotection)
+* 模块[`aspose.cells`](../../)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 类 [`WriteProtection`](/cells/python-net/zh/aspose.cells/writeprotection)

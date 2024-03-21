@@ -1,17 +1,17 @@
 ---
 title: has_series_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 240
+weight: 230
 url: /ru/aspose.cells.charts/series/has_series_lines/
 is_root: false
 ---
 ##  has_series_lines недвижимость
 
-Значение true, если столбчатая диаграмма с накоплением или линейчатая диаграмма содержит ряды линий или
- если круговая диаграмма или гистограмма имеет соединительные линии между двумя разделами.
-Применяется только к столбчатым диаграммам с накоплением, столбчатым диаграммам, круговым диаграммам или столбчатым круговым диаграммам.
+Истинно, если гистограмма с накоплением или линейчатая диаграмма имеет ряды или
+ если на круговой диаграмме или линейчатой диаграмме есть соединительные линии между двумя разделами.
+Применяется только к гистограммам с накоплением, линейчатым диаграммам, круговым диаграммам или линейчатым диаграммам.
 ###  Определение:
 ```python
 @property
@@ -23,5 +23,5 @@ def has_series_lines(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

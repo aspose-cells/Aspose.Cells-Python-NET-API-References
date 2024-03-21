@@ -1,13 +1,13 @@
 ---
-title: first_column الملكية
+title: first_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ar/aspose.cells/range/first_column/
 is_root: false
 ---
-##  first_column الملكية
+##  first_column عقار
 
 الحصول على فهرس العمود الأول من النطاق.
 ###  تعريف:
@@ -18,5 +18,5 @@ def first_column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

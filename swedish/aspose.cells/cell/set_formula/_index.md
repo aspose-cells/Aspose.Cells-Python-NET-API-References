@@ -3,12 +3,12 @@ title: set_formula metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 340
 url: /sv/aspose.cells/cell/set_formula/
 is_root: false
 ---
-##  set_formula(formula, value) {#str-any}
-Ställ in formeln och värdet på formeln.
+##  set_formula {#str-any}
+Ställ in formeln och värdet (beräknat resultat) för formeln.
 
 
 
@@ -21,11 +21,11 @@ def set_formula(self, formula, value):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | formula | str | Formeln.|
-| value | any | Formelns värde.|
+| value | any |Värdet (beräknat resultat) av formeln.|
 
 
-##  set_formula(formula, options, value) {#str-FormulaParseOptions-any}
-Ställ in formeln och värdet på formeln.
+##  set_formula {#str-aspose.cells.FormulaParseOptions-any}
+Ställ in formeln och värdet (beräknat resultat) för formeln.
 
 
 
@@ -38,11 +38,11 @@ def set_formula(self, formula, options, value):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | formula | str | Formeln.|
-| options | [FormulaParseOptions](/cells/python-net/sv/aspose.cells/formulaparseoptions) | Alternativ för att analysera formeln.|
-| value | any | Formelns värde.|
+| options | [`FormulaParseOptions`](/cells/python-net/sv/aspose.cells/formulaparseoptions) | Alternativ för att analysera formeln.|
+| value | any |Värdet (beräknat resultat) av formeln.|
 
 
-##  set_formula(formula, is_r1c1, is_local, value) {#str-bool-bool-any}
+##  set_formula {#str-bool-bool-any}
 Ställ in formeln och värdet på formeln.
 
 
@@ -68,5 +68,5 @@ Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

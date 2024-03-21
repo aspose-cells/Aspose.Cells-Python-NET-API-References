@@ -3,7 +3,7 @@ title: text_horizontal_overflow fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 980
+weight: 990
 url: /sv/aspose.cells.drawing/groupbox/text_horizontal_overflow/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GroupBox](/cells/python-net/sv/aspose.cells.drawing/groupbox)
-* klass [TextOverflowType](/cells/python-net/sv/aspose.cells.drawing/textoverflowtype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GroupBox`](/cells/python-net/sv/aspose.cells.drawing/groupbox)
+* klass [`TextOverflowType`](/cells/python-net/sv/aspose.cells.drawing/textoverflowtype)

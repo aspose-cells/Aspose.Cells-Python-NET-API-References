@@ -3,7 +3,7 @@ title: is_selected propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 600
+weight: 620
 url: /es/aspose.cells/worksheet/is_selected/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_selected(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

@@ -3,12 +3,12 @@ title: remove_areas yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 110
 url: /tr/aspose.cells/validation/remove_areas/
 is_root: false
 ---
-##  remove_areas(areas) {#list}
-Bu doğrulamayı verilen alanlardan kaldırır.
+##  remove_areas {#list}
+Bu doğrulamayı belirli alanlardan kaldırır.
 
 
 
@@ -25,5 +25,5 @@ def remove_areas(self, areas):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Validation](/cells/python-net/tr/aspose.cells/validation)
+* modül [`aspose.cells`](../../)
+* sınıf [`Validation`](/cells/python-net/tr/aspose.cells/validation)

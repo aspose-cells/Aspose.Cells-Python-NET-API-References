@@ -3,7 +3,7 @@ title: date_time_value proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 420
+weight: 440
 url: /it/aspose.cells/cell/date_time_value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def date_time_value(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

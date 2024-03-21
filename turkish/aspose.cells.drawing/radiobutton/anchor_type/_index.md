@@ -3,7 +3,7 @@ title: anchor_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 300
 url: /tr/aspose.cells.drawing/radiobutton/anchor_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RadioButton](/cells/python-net/tr/aspose.cells.drawing/radiobutton)
-* sınıf [ShapeAnchorType](/cells/python-net/tr/aspose.cells.drawing/shapeanchortype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RadioButton`](/cells/python-net/tr/aspose.cells.drawing/radiobutton)
+* sınıf [`ShapeAnchorType`](/cells/python-net/tr/aspose.cells.drawing/shapeanchortype)

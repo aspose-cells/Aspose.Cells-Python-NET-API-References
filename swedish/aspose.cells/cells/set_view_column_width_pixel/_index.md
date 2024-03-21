@@ -3,11 +3,11 @@ title: set_view_column_width_pixel metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 900
+weight: 890
 url: /sv/aspose.cells/cells/set_view_column_width_pixel/
 is_root: false
 ---
-##  set_view_column_width_pixel(column, pixels) {#int-int}
+##  set_view_column_width_pixel {#int-int}
 Ställer in bredden på kolumnen i en annan vy.
 
 
@@ -24,10 +24,10 @@ def set_view_column_width_pixel(self, column, pixels):
 | pixels | int | Bredden i enhet pixlar.|
 ###  Anmärkningar
 
-Om den aktuella vytypen är [ViewType.PAGE_LAYOUT_VIEW](/cells/python-net/sv/aspose.cells/viewtype#PAGE_LAYOUT_VIEW), är kolumnens bredd samma som den utskrivna bredden.
+Om den aktuella vytypen är [`ViewType.PAGE_LAYOUT_VIEW`](/cells/python-net/sv/aspose.cells/viewtype#PAGE_LAYOUT_VIEW), är kolumnens bredd samma som den utskrivna bredden.
 
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

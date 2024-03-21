@@ -7,13 +7,13 @@ weight: 80
 url: /tr/aspose.cells/cells/check_row/
 is_root: false
 ---
-##  check_row(row) {#int}
-[Row](/cells/python-net/tr/aspose.cells/row) öğesini veya belirtilen hücre satırı dizinini alır.
+##  check_row {#int}
+Belirtilen hücre satırı dizinindeki [`Row`](/cells/python-net/tr/aspose.cells/row) öğesini veya null öğesini alır.
 
 
 ###  İadeler
 
-Row nesnesi varsa, Row nesnesini döndürür, aksi takdirde null değerini döndürür.
+[`Row`](/cells/python-net/tr/aspose.cells/row) nesnesini döndürür. Satır nesnesi mevcutsa, aksi halde null değerini döndürür.
 
 
 ```python
@@ -29,6 +29,6 @@ def check_row(self, row):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
-* sınıf [Row](/cells/python-net/tr/aspose.cells/row)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)
+* sınıf [`Row`](/cells/python-net/tr/aspose.cells/row)

@@ -3,13 +3,20 @@ title: range proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 510
+weight: 550
 url: /it/aspose.cells.pivot/pivotfield/range/
 is_root: false
 ---
 ##  range proprietà
 
 Ottiene il gruppo range del campo pivot
+
+###  Osservazioni
+
+ NOTA: questo metodo è ormai obsoleto. Invece,
+utilizzare la proprietà PivotField.GroupSettings.
+ Questo metodo verrà rimosso 12 mesi dopo a partire da ottobre 2023.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -18,6 +25,6 @@ def range(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotField](/cells/python-net/it/aspose.cells.pivot/pivotfield)
-* classe [SxRng](/cells/python-net/it/aspose.cells.pivot/sxrng)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotField`](/cells/python-net/it/aspose.cells.pivot/pivotfield)
+* classe [`SxRng`](/cells/python-net/it/aspose.cells.pivot/sxrng)

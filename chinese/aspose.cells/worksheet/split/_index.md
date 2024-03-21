@@ -1,14 +1,14 @@
 ---
 title: split方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 270
+weight: 290
 url: /zh/aspose.cells/worksheet/split/
 is_root: false
 ---
-##  split() {#}
-拆分窗口。
+##  split {#}
+分割窗口。
 
 
 
@@ -22,5 +22,5 @@ def split(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Worksheet](/cells/python-net/zh/aspose.cells/worksheet)
+* 模块[`aspose.cells`](../../)
+* 类 [`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet)

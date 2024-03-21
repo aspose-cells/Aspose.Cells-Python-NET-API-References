@@ -3,7 +3,7 @@ title: z_order_position propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /es/aspose.cells.drawing/dialogbox/z_order_position/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def z_order_position(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [DialogBox](/cells/python-net/es/aspose.cells.drawing/dialogbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`DialogBox`](/cells/python-net/es/aspose.cells.drawing/dialogbox)

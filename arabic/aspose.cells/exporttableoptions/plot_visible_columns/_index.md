@@ -1,15 +1,15 @@
 ---
-title: plot_visible_columns الملكية
+title: plot_visible_columns عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 130
 url: /ar/aspose.cells/exporttableoptions/plot_visible_columns/
 is_root: false
 ---
-##  plot_visible_columns الملكية
+##  plot_visible_columns عقار
 
-تصدر الأعمدة المرئية فقط.
+تصدير الأعمدة المرئية فقط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def plot_visible_columns(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ExportTableOptions](/cells/python-net/ar/aspose.cells/exporttableoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ExportTableOptions`](/cells/python-net/ar/aspose.cells/exporttableoptions)

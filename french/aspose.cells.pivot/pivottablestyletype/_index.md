@@ -1,13 +1,13 @@
 ---
-title: PivotTableStyleType dénombrement
+title: PivotTableStyleType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 230
+weight: 360
 url: /fr/aspose.cells.pivot/pivottablestyletype/
 is_root: false
 ---
-##  PivotTableStyleType dénombrement
+##  PivotTableStyleType énumération
 Représente le type de style de tableau croisé dynamique.
 
 
@@ -107,4 +107,4 @@ Le type PivotTableStyleType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

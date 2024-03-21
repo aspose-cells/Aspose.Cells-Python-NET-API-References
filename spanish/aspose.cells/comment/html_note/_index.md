@@ -3,7 +3,7 @@ title: html_note propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 140
+weight: 150
 url: /es/aspose.cells/comment/html_note/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtiene y establece la cadena html que contiene datos y algunos formatos en este
 
 ###  Observaciones
 
-Si se trata de un comentario encadenado, la nota no se puede cambiar; de lo contrario, MS Excel no podría procesarlo como un comentario encadenado.
+Si se trata de un comentario encadenado, la nota no se podrá cambiar; de lo contrario, MS Excel no podrá procesarla como un comentario encadenado.
 
 ###  Ejemplo
 
@@ -33,5 +33,5 @@ def html_note(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Comment](/cells/python-net/es/aspose.cells/comment)
+* módulo [`aspose.cells`](../../)
+* clase [`Comment`](/cells/python-net/es/aspose.cells/comment)

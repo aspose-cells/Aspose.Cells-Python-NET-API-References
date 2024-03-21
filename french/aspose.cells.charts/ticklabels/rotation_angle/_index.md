@@ -3,13 +3,13 @@ title: rotation_angle propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 150
 url: /fr/aspose.cells.charts/ticklabels/rotation_angle/
 is_root: false
 ---
 ##  rotation_angle propriété
 
-Représente l'angle de rotation du texte dans le sens des aiguilles d'une montre.
+Représente l’angle de rotation du texte dans le sens des aiguilles d’une montre.
 
 ###  Remarques
 
@@ -25,5 +25,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [TickLabels](/cells/python-net/fr/aspose.cells.charts/ticklabels)
+* module [`aspose.cells.charts`](../../)
+* classe [`TickLabels`](/cells/python-net/fr/aspose.cells.charts/ticklabels)

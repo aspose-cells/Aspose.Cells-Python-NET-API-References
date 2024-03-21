@@ -1,19 +1,19 @@
 ---
 title: get_multiple_items_name метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells/globalizationsettings/get_multiple_items_name/
 is_root: false
 ---
-##  get_multiple_items_name() {#}
+##  get_multiple_items_name {#}
 Получает имя метки «(Несколько элементов)» в сводной таблице.
 
 
-###  Возвращает
+###  Возврат
 
-Название ярлыка "(Несколько элементов)"
+Название ярлыка «(Несколько элементов)»
 
 
 ```python
@@ -25,11 +25,11 @@ def get_multiple_items_name(self):
 ###  Примечания
 
 ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
-используйте метод GlobalizationSettings.GetColumnLabelsOfPivotTable().
- Это свойство будет удалено через 12 месяцев, начиная с декабря 2022 года.
+используйте метод PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с декабря 2022 года.
 Aspose приносит извинения за возможные неудобства.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GlobalizationSettings](/cells/python-net/ru/aspose.cells/globalizationsettings)
+* модуль [`aspose.cells`](../../)
+* класс [`GlobalizationSettings`](/cells/python-net/ru/aspose.cells/globalizationsettings)

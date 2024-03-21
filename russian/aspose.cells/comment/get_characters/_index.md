@@ -1,20 +1,20 @@
 ---
 title: get_characters метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 40
 url: /ru/aspose.cells/comment/get_characters/
 is_root: false
 ---
-##  get_characters() {#}
+##  get_characters {#}
  Возвращает все объекты символов
 который представляет собой диапазон символов в тексте комментария.
 
 
-###  Возвращает
+###  Возврат
 
-Все объекты персонажей
+Все объекты Персонажи
 
 
 ```python
@@ -23,7 +23,12 @@ def get_characters(self):
 ```
 
 
+###  Примечания
 
+ПРИМЕЧАНИЕ. Этот метод устарел. Вместо,
+используйте метод Comment.GetRichFormattings().
+ Этот метод будет удален через 12 месяцев, с ноября 2023 года.
+Aspose приносит извинения за возможные неудобства.
 ###  Пример
 
 ```python
@@ -35,5 +40,5 @@ list = comment1.get_characters()
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)

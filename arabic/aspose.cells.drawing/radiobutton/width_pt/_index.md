@@ -1,13 +1,13 @@
 ---
-title: width_pt الملكية
+title: width_pt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1220
+weight: 1240
 url: /ar/aspose.cells.drawing/radiobutton/width_pt/
 is_root: false
 ---
-##  width_pt الملكية
+##  width_pt عقار
 
 يمثل عرض الشكل بوحدة النقطة.
 
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.width_pt == 3:
-    shape.width_pt = 1
+    shape.width_pt = 1.0
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def width_pt(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

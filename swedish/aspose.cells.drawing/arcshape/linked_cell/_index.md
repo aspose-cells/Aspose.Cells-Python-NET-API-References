@@ -3,7 +3,7 @@ title: linked_cell fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 790
+weight: 800
 url: /sv/aspose.cells.drawing/arcshape/linked_cell/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ArcShape](/cells/python-net/sv/aspose.cells.drawing/arcshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ArcShape`](/cells/python-net/sv/aspose.cells.drawing/arcshape)

@@ -1,15 +1,15 @@
 ---
 title: auto_update недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ru/aspose.cells.drawing/oleobject/auto_update/
 is_root: false
 ---
 ##  auto_update недвижимость
 
-Указывает, будет ли автоматически обновляться ссылка на OleObject.
+Указывает, обновляется ли ссылка на OleObject автоматически или нет.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_update(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

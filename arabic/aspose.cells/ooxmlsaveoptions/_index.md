@@ -1,29 +1,29 @@
 ---
-title: OoxmlSaveOptions الدرجة
+title: OoxmlSaveOptions صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1120
+weight: 1160
 url: /ar/aspose.cells/ooxmlsaveoptions/
 is_root: false
 ---
-##  OoxmlSaveOptions الدرجة
-يمثل خيارات حفظ ملف Office open xml.
+##  OoxmlSaveOptions صف
+يمثل خيارات حفظ ملف xml المفتوح للمكتب.
 
 
 
-**ميراث:** [OoxmlSaveOptions](/cells/python-net/aspose.cells/ooxmlsaveoptions) → 
-[SaveOptions](/cells/python-net/ar/aspose.cells/saveoptions)
+**ميراث:** [`OoxmlSaveOptions`](/cells/python-net/aspose.cells/ooxmlsaveoptions) → 
+[`SaveOptions`](/cells/python-net/ar/aspose.cells/saveoptions)
 
 
 
-يكشف نوع OoxmlSaveOptions الأعضاء التالية:
+يكشف النوع OoxmlSaveOptions عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [OoxmlSaveOptions()](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/__init__/#) | ينشئ خيارات حفظ ملف Office open xml.|
-| [OoxmlSaveOptions(save_format)](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/__init__/#SaveFormat) | ينشئ خيارات حفظ ملف Office open xml.|
+| [__init__](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/__init__/#) | إنشاء خيارات لحفظ ملف xml مفتوح للمكتب.|
+| [__init__](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/__init__/#aspose.cells.SaveFormat) | إنشاء خيارات لحفظ ملف xml مفتوح للمكتب.|
 
 
 ###  ملكيات
@@ -31,25 +31,25 @@ is_root: false
 | :- | :- |
 | [save_format](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/save_format) | يحصل على تنسيق ملف الحفظ.|
 | [clear_data](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/clear_data) | اجعل المصنف فارغًا بعد حفظ الملف.|
-| [cached_file_folder](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/cached_file_folder) | يتم استخدام مجلد الملف المخزن مؤقتًا لتخزين بعض البيانات الكبيرة.|
-| [validate_merged_areas](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/validate_merged_areas) | يشير إلى ما إذا كان يجب التحقق من صحة الخلايا المدمجة قبل حفظ الملف.|
-| [merge_areas](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/merge_areas) | يشير إلى ما إذا كان يتم دمج مناطق التنسيق الشرطي والتحقق من الصحة قبل حفظ الملف.|
-| [create_directory](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/create_directory) | إذا كان صحيحًا وكان الدليل غير موجود ، فسيتم إنشاء الدليل تلقائيًا قبل حفظ الملف.|
-| [sort_names](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/sort_names) | يشير إلى ما إذا كان يتم فرز الأسماء المعرفة قبل حفظ الملف.|
-| [sort_external_names](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/sort_external_names) |يشير إلى ما إذا كان يتم فرز الأسماء المعرفة الخارجية قبل حفظ الملف.|
-| [refresh_chart_cache](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/refresh_chart_cache) | يشير إلى ما إذا كان يتم تحديث بيانات ذاكرة التخزين المؤقت للرسم البياني أم لا|
-| [warning_callback](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/warning_callback) | يحصل أو يحدد رد الاتصال التحذيري.|
-| [update_smart_art](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/update_smart_art) | يشير إلى ما إذا كان يتم تحديث إعداد الفن الذكي.<br/> القيمة الافتراضية هي كاذبة.|
-| [export_cell_name](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/export_cell_name) | الإشارة إلى ما إذا كان يتم تصدير اسم الخلية إلى ملف Excel2007 .xlsx (.xlsm ، .xltx ، .xltm).<br/>إذا كان من الممكن الوصول إلى ملف الإخراج بواسطة SQL Server DTS ، يجب أن تكون هذه القيمة صحيحة.<br/>سيؤدي تعيين القيمة إلى false إلى زيادة الأداء وتقليل حجم الملف عند إنشاء ملف كبير.<br/> القيمة الافتراضية صحيحة.|
-| [light_cells_data_provider](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/light_cells_data_provider) | موفر البيانات لتوفير بيانات الخلايا لحفظ المصنف في الوضع الخفيف.|
-| [update_zoom](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/update_zoom) | يشير إلى ما إذا كان يتم تحديث عامل التحجيم قبل حفظ الملف<br/> إذا كانت خصائص PageSetup.FitToPagesWide و PageSetup.FitToPagesTall تتحكم في كيفية قياس ورقة العمل.|
-| [enable_zip64](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/enable_zip64) | استخدم دائمًا امتدادات ZIP64 عند كتابة أرشيفات مضغوطة ، حتى عندما لا يكون ذلك ضروريًا.|
-| [embed_ooxml_as_ole_object](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/embed_ooxml_as_ole_object) | الإشارة إلى ما إذا كان يتم تضمين ملفات Ooxml في OleObject ككائن أولي.|
-| [compression_type](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/compression_type) | الحصول على نوع الضغط لملف ooxml وتعيينه.|
+| [cached_file_folder](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/cached_file_folder) | يتم استخدام مجلد الملفات المخزنة مؤقتًا لتخزين بعض البيانات الكبيرة.|
+| [validate_merged_areas](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/validate_merged_areas) | يشير إلى ما إذا كان سيتم التحقق من صحة الخلايا المدمجة قبل حفظ الملف.|
+| [merge_areas](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/merge_areas) | يشير إلى ما إذا كان سيتم دمج مناطق التنسيق الشرطي والتحقق من الصحة قبل حفظ الملف.|
+| [create_directory](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/create_directory) | إذا كان صحيحًا وكان الدليل غير موجود، فسيتم إنشاء الدليل تلقائيًا قبل حفظ الملف.|
+| [sort_names](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/sort_names) | يشير إلى ما إذا كان سيتم فرز الأسماء المحددة قبل حفظ الملف.|
+| [sort_external_names](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/sort_external_names) | يشير إلى ما إذا كان سيتم فرز الأسماء المحددة الخارجية قبل حفظ الملف.|
+| [refresh_chart_cache](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/refresh_chart_cache) | يشير إلى ما إذا كان سيتم تحديث بيانات ذاكرة التخزين المؤقت للمخطط أم لا|
+| [warning_callback](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/warning_callback) | الحصول على رد اتصال تحذيري أو تعيينه.|
+| [update_smart_art](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/update_smart_art) | يشير إلى ما إذا كان سيتم تحديث إعداد الفن الذكي.<br/> القيمة الافتراضية هي كاذبة.|
+| [export_cell_name](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/export_cell_name) | يشير إلى ما إذا كان يتم تصدير اسم الخلية إلى ملف Excel2007 .xlsx (.xlsm، .xltx، .xltm).<br/>إذا كان من الممكن الوصول إلى ملف الإخراج بواسطة SQL Server DTS، فيجب أن تكون هذه القيمة صحيحة.<br/>سيؤدي تعيين القيمة إلى false إلى زيادة الأداء بشكل كبير وتقليل حجم الملف عند إنشاء ملف كبير.<br/> القيمة الافتراضية صحيحة.|
+| [light_cells_data_provider](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/light_cells_data_provider) | موفر البيانات لحفظ المصنف في الوضع الفاتح.|
+| [update_zoom](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/update_zoom) | يشير إلى ما إذا كان عامل تغيير الحجم للتحديث قبل حفظ الملف<br/> إذا كانت خصائص PageSetup.FitToPagesWide وPageSetup.FitToPagesTall تتحكم في كيفية تغيير حجم ورقة العمل.|
+| [enable_zip64](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/enable_zip64) | استخدم دائمًا امتدادات ZIP64 عند كتابة أرشيفات مضغوطة، حتى عندما تكون غير ضرورية.|
+| [embed_ooxml_as_ole_object](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/embed_ooxml_as_ole_object) | يشير إلى ما إذا كان سيتم تضمين ملفات Ooxml الخاصة بـ OleObject ككائن ole.|
+| [compression_type](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions/compression_type) |الحصول على نوع الضغط لملف ooxml وتعيينه.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
-* فئة [OoxmlSaveOptions](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions)
-* فئة [SaveOptions](/cells/python-net/ar/aspose.cells/saveoptions)
+* الوحدة [`aspose.cells`](..)
+* فئة [`OoxmlSaveOptions`](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions)
+* فئة [`SaveOptions`](/cells/python-net/ar/aspose.cells/saveoptions)

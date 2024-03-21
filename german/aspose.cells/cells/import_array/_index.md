@@ -3,11 +3,11 @@ title: import_array Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 610
+weight: 600
 url: /de/aspose.cells/cells/import_array/
 is_root: false
 ---
-##  import_array(string_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+##  import_array {#list-int-int-bool}
 Importiert ein String-Array in ein Arbeitsblatt.
 
 
@@ -23,11 +23,11 @@ def import_array(self, string_array, first_row, first_column, is_vertical):
 | string_array | list | String-Array.|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
-| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden.|
+| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden sollen.|
 
 
-##  import_array(int_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-Importiert ein Integer-Array in ein Arbeitsblatt.
+##  import_array {#list-int-int-bool}
+Importiert ein Array von Ganzzahlen in ein Arbeitsblatt.
 
 
 
@@ -42,11 +42,11 @@ def import_array(self, int_array, first_row, first_column, is_vertical):
 | int_array | list | Ganzzahliges Array.|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
-| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden.|
+| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden sollen.|
 
 
-##  import_array(double_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-Importiert ein Array von Double in ein Arbeitsblatt.
+##  import_array {#list-int-int-bool}
+Importiert ein Double-Array in ein Arbeitsblatt.
 
 
 
@@ -58,13 +58,13 @@ def import_array(self, double_array, first_row, first_column, is_vertical):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| double_array | list | Doppelte Anordnung.|
+| double_array | list | Doppeltes Array.|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
-| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden.|
+| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden sollen.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

@@ -3,7 +3,7 @@ title: legend_entries fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 270
 url: /sv/aspose.cells.charts/legend/legend_entries/
 is_root: false
 ---
@@ -20,6 +20,6 @@ def legend_entries(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Legend](/cells/python-net/sv/aspose.cells.charts/legend)
-* klass [LegendEntryCollection](/cells/python-net/sv/aspose.cells.charts/legendentrycollection)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Legend`](/cells/python-net/sv/aspose.cells.charts/legend)
+* klass [`LegendEntryCollection`](/cells/python-net/sv/aspose.cells.charts/legendentrycollection)

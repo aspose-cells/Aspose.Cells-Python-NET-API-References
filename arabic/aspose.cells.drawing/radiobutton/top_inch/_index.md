@@ -1,22 +1,22 @@
 ---
-title: top_inch الملكية
+title: top_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1110
+weight: 1130
 url: /ar/aspose.cells.drawing/radiobutton/top_inch/
 is_root: false
 ---
-##  top_inch الملكية
+##  top_inch عقار
 
-يمثل الإزاحة الرأسية للشكل من صفه العلوي بوحدة البوصة.
+يمثل الإزاحة الرأسية للشكل من صفه العلوي، بوحدة البوصة.
 
 ###  مثال
 
 ```python
 
 if shape.top_inch == 3:
-    shape.top_inch = 1
+    shape.top_inch = 1.0
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def top_inch(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

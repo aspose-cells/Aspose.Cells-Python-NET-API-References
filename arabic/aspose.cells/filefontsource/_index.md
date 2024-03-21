@@ -1,39 +1,39 @@
 ---
-title: FileFontSource الدرجة
+title: FileFontSource صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 610
 url: /ar/aspose.cells/filefontsource/
 is_root: false
 ---
-##  FileFontSource الدرجة
-يمثل ملف خط تروتايب الفردي المخزن في نظام الملفات.
+##  FileFontSource صف
+يمثل ملف خط TrueType الفردي المخزن في نظام الملفات.
 
 
 
-**ميراث:** [FileFontSource](/cells/python-net/aspose.cells/filefontsource) → 
-[FontSourceBase](/cells/python-net/ar/aspose.cells/fontsourcebase)
+**ميراث:** [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource) → 
+[`FontSourceBase`](/cells/python-net/ar/aspose.cells/fontsourcebase)
 
 
 
-يكشف نوع FileFontSource الأعضاء التالية:
+يكشف النوع FileFontSource عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [FileFontSource(file_path)](/cells/python-net/ar/aspose.cells/filefontsource/__init__/#str) | Ctor.|
+| [__init__](/cells/python-net/ar/aspose.cells/filefontsource/__init__/#str) | دكتور.|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells/filefontsource/type) | ترجع نوع مصدر الخط.|
-| [file_path](/cells/python-net/ar/aspose.cells/filefontsource/file_path) | مسار ملف الخط.|
+| [type](/cells/python-net/ar/aspose.cells/filefontsource/type) | إرجاع نوع مصدر الخط.|
+| [file_path](/cells/python-net/ar/aspose.cells/filefontsource/file_path) | المسار إلى ملف الخط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
-* فئة [FileFontSource](/cells/python-net/ar/aspose.cells/filefontsource)
-* فئة [FontSourceBase](/cells/python-net/ar/aspose.cells/fontsourcebase)
+* الوحدة [`aspose.cells`](..)
+* فئة [`FileFontSource`](/cells/python-net/ar/aspose.cells/filefontsource)
+* فئة [`FontSourceBase`](/cells/python-net/ar/aspose.cells/fontsourcebase)

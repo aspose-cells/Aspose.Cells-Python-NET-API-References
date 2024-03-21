@@ -3,7 +3,7 @@ title: is_error_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 540
+weight: 570
 url: /tr/aspose.cells/cell/is_error_value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Bu hücrenin değerinin bir hata olup olmadığını kontrol eder.
 
 ###  Notlar
 
-Hesaplanan sonucun bir hata olup olmadığını kontrol etmek için formül hücresine de uygulanır.
+Ayrıca hesaplanan sonucun bir hata olup olmadığını kontrol etmek için formül hücresine de uygulanır.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_error_value(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

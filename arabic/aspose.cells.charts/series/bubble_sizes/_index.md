@@ -1,15 +1,15 @@
 ---
-title: bubble_sizes الملكية
+title: bubble_sizes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 80
 url: /ar/aspose.cells.charts/series/bubble_sizes/
 is_root: false
 ---
-##  bubble_sizes الملكية
+##  bubble_sizes عقار
 
-الحصول على أو تعيين قيم أحجام الفقاعات لسلسلة المخططات.
+الحصول على قيم أحجام الفقاعات لسلسلة المخططات أو تعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def bubble_sizes(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

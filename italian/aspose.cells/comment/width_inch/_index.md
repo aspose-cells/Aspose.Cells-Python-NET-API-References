@@ -3,13 +3,13 @@ title: width_inch proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 250
+weight: 260
 url: /it/aspose.cells/comment/width_inch/
 is_root: false
 ---
 ##  width_inch proprietà
 
-Rappresenta la larghezza del commento, in pollici.
+Rappresenta la larghezza del commento, in unità di pollici.
 
 ###  Esempio
 
@@ -29,5 +29,5 @@ def width_inch(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Comment](/cells/python-net/it/aspose.cells/comment)
+* modulo [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/it/aspose.cells/comment)

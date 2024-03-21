@@ -3,7 +3,7 @@ title: has_autofilter propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 500
+weight: 520
 url: /es/aspose.cells/worksheet/has_autofilter/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def has_autofilter(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

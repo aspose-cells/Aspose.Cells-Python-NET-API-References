@@ -3,7 +3,7 @@ title: transition_evaluation fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 840
+weight: 860
 url: /sv/aspose.cells/worksheet/transition_evaluation/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def transition_evaluation(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

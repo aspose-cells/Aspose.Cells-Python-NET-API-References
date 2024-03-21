@@ -1,9 +1,9 @@
 ---
 title: start_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 260
+weight: 320
 url: /ru/aspose.cells/xmlloadoptions/start_cell/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Работает только в том случае, если файл не является spreadsheetML или сопоставлением xml с Excel.
+Работает только в том случае, если файл не является speasheetML или не отображает XML в Excel.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def start_cell(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [XmlLoadOptions](/cells/python-net/ru/aspose.cells/xmlloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`XmlLoadOptions`](/cells/python-net/ru/aspose.cells/xmlloadoptions)

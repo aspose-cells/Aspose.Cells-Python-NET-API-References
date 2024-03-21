@@ -1,15 +1,15 @@
 ---
-title: bottom الملكية
+title: bottom عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 310
 url: /ar/aspose.cells.drawing/commentshape/bottom/
 is_root: false
 ---
-##  bottom الملكية
+##  bottom عقار
 
-يمثل عرض الإزاحة الرأسية للشكل من صف الزاوية السفلي bottom ، بوحدة البكسل.
+يمثل عرض الإزاحة الرأسية للشكل من صف الزاوية السفلي bottom، بوحدة البكسل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def bottom(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CommentShape](/cells/python-net/ar/aspose.cells.drawing/commentshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CommentShape`](/cells/python-net/ar/aspose.cells.drawing/commentshape)

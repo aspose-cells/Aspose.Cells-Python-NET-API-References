@@ -3,7 +3,7 @@ title: bottom fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 350
 url: /sv/aspose.cells.drawing/oleobject/bottom/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def bottom(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

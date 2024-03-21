@@ -1,18 +1,18 @@
 ---
-title: ConsolidationFunction enumerazione
+title: Enumerazione ConsolidationFunction
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1870
+weight: 1940
 url: /it/aspose.cells/consolidationfunction/
 is_root: false
 ---
-##  ConsolidationFunction enumerazione
+##  Enumerazione ConsolidationFunction
 Rappresenta la funzione di consolidamento.
 
 
 
-Il tipo ConsolidationFunction espone i membri seguenti:
+Il tipo ConsolidationFunction espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -23,14 +23,14 @@ Il tipo ConsolidationFunction espone i membri seguenti:
 | MAX | Rappresenta la funzione Max.|
 | MIN | Rappresenta la funzione Min.|
 | PRODUCT | Rappresenta la funzione del prodotto.|
-| COUNT_NUMS | Rappresenta la funzione Count Nums.|
-| STD_DEV | Rappresenta la funzione StdDev.|
+| COUNT_NUMS | Rappresenta la funzione Conteggio numeri.|
+| STD_DEV |Rappresenta la funzione StdDev.|
 | STD_DEVP | Rappresenta la funzione StdDevp.|
 | VAR | Rappresenta la funzione Var.|
 | VARP | Rappresenta la funzione Varp.|
-| DISTINCT_COUNT | Rappresenta la funzione Distinct Count.|
+| DISTINCT_COUNT | Rappresenta la funzione Conteggio distinto.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

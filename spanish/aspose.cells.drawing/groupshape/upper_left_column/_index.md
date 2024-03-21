@@ -3,7 +3,7 @@ title: upper_left_column propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /es/aspose.cells.drawing/groupshape/upper_left_column/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)

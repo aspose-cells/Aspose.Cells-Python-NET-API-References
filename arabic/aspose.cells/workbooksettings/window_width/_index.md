@@ -1,13 +1,13 @@
 ---
-title: window_width الملكية
+title: window_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 730
+weight: 610
 url: /ar/aspose.cells/workbooksettings/window_width/
 is_root: false
 ---
-##  window_width الملكية
+##  window_width عقار
 
 عرض النافذة بوحدة النقطة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def window_width(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

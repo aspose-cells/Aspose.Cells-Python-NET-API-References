@@ -3,13 +3,13 @@ title: perspective propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 380
+weight: 410
 url: /es/aspose.cells.charts/chart/perspective/
 is_root: false
 ---
 ##  perspective propiedad
 
-Devuelve o establece el perspective para la vista de gráfico 3D. Debe estar entre 0 y 100.
+Devuelve o establece el perspective para la vista del gráfico 3D. Debe estar entre 0 y 100.
 Esta propiedad se ignora si la propiedad RightAngleAxes es True.
 ###  Definición:
 ```python
@@ -22,5 +22,5 @@ def perspective(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Chart](/cells/python-net/es/aspose.cells.charts/chart)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Chart`](/cells/python-net/es/aspose.cells.charts/chart)

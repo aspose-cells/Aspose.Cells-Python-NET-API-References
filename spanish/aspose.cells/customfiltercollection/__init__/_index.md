@@ -7,8 +7,8 @@ weight: 10
 url: /es/aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
-##  CustomFilterCollection() {#}
-Construye una nueva instancia de CustomFilterCollection
+##  __en eso__ {#}
+Construye una nueva instancia.
 
 
 
@@ -22,5 +22,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CustomFilterCollection](/cells/python-net/es/aspose.cells/customfiltercollection)
+* módulo [`aspose.cells`](../../)
+* clase [`CustomFilterCollection`](/cells/python-net/es/aspose.cells/customfiltercollection)

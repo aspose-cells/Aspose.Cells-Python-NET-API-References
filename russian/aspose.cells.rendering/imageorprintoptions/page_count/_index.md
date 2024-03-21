@@ -1,19 +1,19 @@
 ---
 title: page_count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ru/aspose.cells.rendering/imageorprintoptions/page_count/
 is_root: false
 ---
 ##  page_count недвижимость
 
-Получает или задает количество страниц для сохранения.
+Получает или задает количество сохраняемых страниц.
 
 ###  Примечания
 
-По умолчанию используется System.Int32.MaxValue, что означает, что будут отображаться все страницы.
+По умолчанию используется System.Int32.MaxValue, что означает, что все страницы будут отображены.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def page_count(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)

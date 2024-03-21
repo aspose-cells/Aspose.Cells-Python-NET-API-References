@@ -1,13 +1,13 @@
 ---
 title: remove_a_cell方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 90
 url: /zh/aspose.cells/validation/remove_a_cell/
 is_root: false
 ---
-##  remove_a_cell(row, column) {#int-int}
+##  remove_a_cell {#int-int}
 删除单元格中的验证设置。
 
 
@@ -26,5 +26,5 @@ def remove_a_cell(self, row, column):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Validation](/cells/python-net/zh/aspose.cells/validation)
+* 模块[`aspose.cells`](../../)
+* 类 [`Validation`](/cells/python-net/zh/aspose.cells/validation)

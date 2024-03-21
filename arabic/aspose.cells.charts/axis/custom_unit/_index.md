@@ -1,13 +1,13 @@
 ---
-title: custom_unit الملكية
+title: custom_unit عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ar/aspose.cells.charts/axis/custom_unit/
 is_root: false
 ---
-##  custom_unit الملكية
+##  custom_unit عقار
 
 يحدد قيمة مخصصة لوحدة العرض.
 ###  تعريف:
@@ -21,5 +21,5 @@ def custom_unit(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)

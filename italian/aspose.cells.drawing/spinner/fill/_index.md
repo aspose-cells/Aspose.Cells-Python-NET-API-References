@@ -3,13 +3,13 @@ title: fill proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 340
+weight: 360
 url: /it/aspose.cells.drawing/spinner/fill/
 is_root: false
 ---
 ##  fill proprietà
 
-Restituisce un oggetto [Shape.fill_format](/cells/python-net/it/aspose.cells.drawing/shape#fill_format) che contiene fill proprietà di formattazione per la forma specificata.
+Restituisce un oggetto [`Shape.fill_format`](/cells/python-net/it/aspose.cells.drawing/shape#fill_format) che contiene le proprietà di formattazione fill per la forma specificata.
 
 ###  Esempio
 
@@ -26,6 +26,6 @@ def fill(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [FillFormat](/cells/python-net/it/aspose.cells.drawing/fillformat)
-* classe [Spinner](/cells/python-net/it/aspose.cells.drawing/spinner)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`FillFormat`](/cells/python-net/it/aspose.cells.drawing/fillformat)
+* classe [`Spinner`](/cells/python-net/it/aspose.cells.drawing/spinner)

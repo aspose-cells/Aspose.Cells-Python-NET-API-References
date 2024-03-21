@@ -3,7 +3,7 @@ title: PivotConditionFormatScopeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 250
 url: /sv/aspose.cells.pivot/pivotconditionformatscopetype/
 is_root: false
 ---
@@ -18,10 +18,10 @@ Typen PivotConditionFormatScopeType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | DATA | Indikerar att villkorlig formatering tillämpas på de valda datafälten.|
-| FIELD | Indikerar att villkorlig formatering tillämpas på de markerade pivottabellfältskärningarna.|
+| FIELD |Indikerar att villkorlig formatering tillämpas på de markerade pivottabellfältskärningarna.|
 | SELECTION | Indikerar att villkorlig formatering tillämpas på de markerade cellerna.|
 
 
 
 ###  Se även
-* modul [aspose.cells.pivot](..)
+* modul [`aspose.cells.pivot`](..)

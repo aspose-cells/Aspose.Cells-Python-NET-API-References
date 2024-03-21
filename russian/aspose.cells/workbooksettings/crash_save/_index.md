@@ -1,15 +1,15 @@
 ---
 title: crash_save недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 160
+weight: 130
 url: /ru/aspose.cells/workbooksettings/crash_save/
 is_root: false
 ---
 ##  crash_save недвижимость
 
-указывает, сохраняло ли приложение последний файл рабочей книги после сбоя.
+указывает, сохраняло ли приложение последний раз файл книги после сбоя.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def crash_save(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

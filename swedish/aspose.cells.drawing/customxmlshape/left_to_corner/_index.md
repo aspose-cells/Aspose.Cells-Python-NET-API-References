@@ -3,7 +3,7 @@ title: left_to_corner fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 700
+weight: 710
 url: /sv/aspose.cells.drawing/customxmlshape/left_to_corner/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def left_to_corner(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CustomXmlShape](/cells/python-net/sv/aspose.cells.drawing/customxmlshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CustomXmlShape`](/cells/python-net/sv/aspose.cells.drawing/customxmlshape)

@@ -1,20 +1,20 @@
 ---
-title: line_by_line الملكية
+title: line_by_line عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells/workbookdesigner/line_by_line/
 is_root: false
 ---
-##  line_by_line الملكية
+##  line_by_line عقار
 
-يشير إلى ما إذا كانت معالجة العلامة الذكية سطرًا بسطر.
+يشير إلى ما إذا كان سيتم معالجة العلامة الذكية سطرًا تلو الآخر.
 
 ###  ملاحظات
 
 القيمة الافتراضية هي الحقيقية.
-إذا كان خطأ ، يجب أن يحتوي ملف القالب على نطاق يسمى "_CellsSmartMarkers".
+إذا كان خطأ، فيجب أن يحتوي ملف القالب على نطاق يسمى "_CellsSmartMarkers".
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def line_by_line(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookDesigner](/cells/python-net/ar/aspose.cells/workbookdesigner)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookDesigner`](/cells/python-net/ar/aspose.cells/workbookdesigner)

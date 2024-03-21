@@ -3,7 +3,7 @@ title: shadow propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 320
+weight: 330
 url: /fr/aspose.cells.charts/legend/shadow/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Legend](/cells/python-net/fr/aspose.cells.charts/legend)
+* module [`aspose.cells.charts`](../../)
+* classe [`Legend`](/cells/python-net/fr/aspose.cells.charts/legend)

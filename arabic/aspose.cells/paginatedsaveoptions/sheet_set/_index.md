@@ -1,19 +1,19 @@
 ---
-title: sheet_set الملكية
+title: sheet_set عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ar/aspose.cells/paginatedsaveoptions/sheet_set/
 is_root: false
 ---
-##  sheet_set الملكية
+##  sheet_set عقار
 
-الحصول على الأوراق أو تعيينها للعرض. الافتراضي هو كل الأوراق المرئية في المصنف: [SheetSet.visible](/cells/python-net/ar/aspose.cells.rendering/sheetset#visible).
+الحصول على الأوراق المراد عرضها أو تعيينها. الافتراضي هو كافة الأوراق المرئية في المصنف: [`SheetSet.visible`](/cells/python-net/ar/aspose.cells.rendering/sheetset#visible).
 
 ###  مثال
 
-الكود التالي يعرض الورقة النشطة فقط لقوات الدفاع الشعبي.
+يعرض التعليمة البرمجية التالية الورقة النشطة فقط إلى pdf.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -38,6 +38,6 @@ def sheet_set(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PaginatedSaveOptions](/cells/python-net/ar/aspose.cells/paginatedsaveoptions)
-* فئة [SheetSet](/cells/python-net/ar/aspose.cells.rendering/sheetset)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PaginatedSaveOptions`](/cells/python-net/ar/aspose.cells/paginatedsaveoptions)
+* فئة [`SheetSet`](/cells/python-net/ar/aspose.cells.rendering/sheetset)

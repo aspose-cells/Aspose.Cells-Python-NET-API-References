@@ -3,7 +3,7 @@ title: startup_path fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 270
 url: /sv/aspose.cells/cellshelper/startup_path/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def startup_path(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsHelper](/cells/python-net/sv/aspose.cells/cellshelper)
+* modul [`aspose.cells`](../../)
+* klass [`CellsHelper`](/cells/python-net/sv/aspose.cells/cellshelper)

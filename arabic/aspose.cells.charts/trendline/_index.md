@@ -1,60 +1,60 @@
 ---
-title: Trendline الدرجة
+title: Trendline صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 340
 url: /ar/aspose.cells.charts/trendline/
 is_root: false
 ---
-##  Trendline الدرجة
-يمثل خط اتجاه في الرسم البياني.
+##  Trendline صف
+يمثل خط الاتجاه في الرسم البياني.
 
 
 
-**ميراث:** [Trendline](/cells/python-net/aspose.cells.charts/trendline) → 
-[Line](/cells/python-net/ar/aspose.cells.drawing/line)
+**ميراث:** [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) → 
+[`Line`](/cells/python-net/ar/aspose.cells.drawing/line)
 
 
 
-يكشف نوع Trendline الأعضاء التالية:
+يكشف النوع Trendline عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
 | [compound_type](/cells/python-net/ar/aspose.cells.charts/trendline/compound_type) | يحدد نوع الخط المركب|
-| [dash_type](/cells/python-net/ar/aspose.cells.charts/trendline/dash_type) | يحدد نوع خط الشرطة|
-| [cap_type](/cells/python-net/ar/aspose.cells.charts/trendline/cap_type) | يحدد قبعات النهاية.|
+| [dash_type](/cells/python-net/ar/aspose.cells.charts/trendline/dash_type) | يحدد نوع الخط المتقطع|
+| [cap_type](/cells/python-net/ar/aspose.cells.charts/trendline/cap_type) |يحدد قبعات النهاية.|
 | [join_type](/cells/python-net/ar/aspose.cells.charts/trendline/join_type) | يحدد قبعات الانضمام.|
-| [begin_type](/cells/python-net/ar/aspose.cells.charts/trendline/begin_type) |يحدد رأس سهم لبداية السطر.|
+| [begin_type](/cells/python-net/ar/aspose.cells.charts/trendline/begin_type) | يحدد رأس سهم لبداية السطر.|
 | [end_type](/cells/python-net/ar/aspose.cells.charts/trendline/end_type) | يحدد رأس سهم لنهاية السطر.|
 | [begin_arrow_length](/cells/python-net/ar/aspose.cells.charts/trendline/begin_arrow_length) | يحدد طول رأس السهم لبداية السطر.|
 | [end_arrow_length](/cells/python-net/ar/aspose.cells.charts/trendline/end_arrow_length) | يحدد طول رأس السهم لنهاية السطر.|
 | [begin_arrow_width](/cells/python-net/ar/aspose.cells.charts/trendline/begin_arrow_width) | يحدد عرض رأس السهم لبداية السطر.|
 | [end_arrow_width](/cells/python-net/ar/aspose.cells.charts/trendline/end_arrow_width) | يحدد عرض رأس السهم لنهاية السطر.|
-| [theme_color](/cells/python-net/ar/aspose.cells.charts/trendline/theme_color) | الحصول على لون المظهر وتعيينه.|
+| [theme_color](/cells/python-net/ar/aspose.cells.charts/trendline/theme_color) | الحصول على لون السمة وتعيينه.|
 | [color](/cells/python-net/ar/aspose.cells.charts/trendline/color) | يمثل لون الخط.|
-| [transparency](/cells/python-net/ar/aspose.cells.charts/trendline/transparency) | إرجاع أو تعيين درجة شفافية الخط كقيمة من 0.0 (معتم) إلى 1.0 (واضح).|
+| [transparency](/cells/python-net/ar/aspose.cells.charts/trendline/transparency) | إرجاع أو تعيين درجة شفافية الخط كقيمة تتراوح من 0.0 (معتم) إلى 1.0 (واضح).|
 | [style](/cells/python-net/ar/aspose.cells.charts/trendline/style) | يمثل نمط الخط.|
-| [weight](/cells/python-net/ar/aspose.cells.charts/trendline/weight) | الحصول على او تحديد [WeightType](/cells/python-net/ar/aspose.cells.drawing/weighttype) للخط.|
-| [weight_pt](/cells/python-net/ar/aspose.cells.charts/trendline/weight_pt) | الحصول على أو تحديد وزن الخط بوحدة النقاط.|
-| [weight_px](/cells/python-net/ar/aspose.cells.charts/trendline/weight_px) | الحصول على أو تحديد وزن الخط بوحدة البكسل.|
-| [formatting_type](/cells/python-net/ar/aspose.cells.charts/trendline/formatting_type) | يحصل أو يحدد نوع التنسيق.|
-| [is_automatic_color](/cells/python-net/ar/aspose.cells.charts/trendline/is_automatic_color) | يشير إلى ما إذا كان لون الخط معينًا تلقائيًا أم لا.|
+| [weight](/cells/python-net/ar/aspose.cells.charts/trendline/weight) | الحصول على أو تعيين [`WeightType`](/cells/python-net/ar/aspose.cells.drawing/weighttype) من السطر.|
+| [weight_pt](/cells/python-net/ar/aspose.cells.charts/trendline/weight_pt) | الحصول على أو تعيين وزن الخط بوحدة النقاط.|
+| [weight_px](/cells/python-net/ar/aspose.cells.charts/trendline/weight_px) | الحصول على أو تعيين وزن الخط بوحدة البكسل.|
+| [formatting_type](/cells/python-net/ar/aspose.cells.charts/trendline/formatting_type) | الحصول على نوع التنسيق أو تحديده.|
+| [is_automatic_color](/cells/python-net/ar/aspose.cells.charts/trendline/is_automatic_color) | يشير إلى ما إذا كان لون الخط قد تم تعيينه تلقائيًا.|
 | [is_visible](/cells/python-net/ar/aspose.cells.charts/trendline/is_visible) | يمثل ما إذا كان الخط مرئيًا.|
-| [is_auto](/cells/python-net/ar/aspose.cells.charts/trendline/is_auto) | يشير إلى ما إذا كان نمط الخط هذا قد تم تعيينه تلقائيًا أم لا.|
+| [is_auto](/cells/python-net/ar/aspose.cells.charts/trendline/is_auto) |يشير إلى ما إذا كان نمط الخط هذا قد تم تعيينه تلقائيًا.|
 | [gradient_fill](/cells/python-net/ar/aspose.cells.charts/trendline/gradient_fill) | يمثل تعبئة متدرجة.|
-| [is_name_auto](/cells/python-net/ar/aspose.cells.charts/trendline/is_name_auto) | إرجاع إذا قام Microsoft Excel بتحديد اسم خط الاتجاه تلقائيًا.|
+| [is_name_auto](/cells/python-net/ar/aspose.cells.charts/trendline/is_name_auto) | يُرجع إذا كان Microsoft يقوم Excel تلقائيًا بتحديد اسم خط الاتجاه.|
 | [type](/cells/python-net/ar/aspose.cells.charts/trendline/type) | إرجاع نوع خط الاتجاه.|
 | [name](/cells/python-net/ar/aspose.cells.charts/trendline/name) | إرجاع اسم خط الاتجاه.|
-| [order](/cells/python-net/ar/aspose.cells.charts/trendline/order) | إرجاع أو تعيين ترتيب خط الاتجاه (عدد صحيح أكبر من 1) عندما يكون نوع خط الاتجاه متعدد الحدود.<br/> يجب أن يكون الترتيب بين 2 و 6.|
+| [order](/cells/python-net/ar/aspose.cells.charts/trendline/order) | إرجاع ترتيب خط الاتجاه أو تعيينه (عدد صحيح أكبر من 1) عندما يكون نوع خط الاتجاه متعدد الحدود.<br/>يجب أن يكون الطلب بين 2 و 6.|
 | [period](/cells/python-net/ar/aspose.cells.charts/trendline/period) | إرجاع أو تعيين الفترة لخط اتجاه المتوسط المتحرك.|
-| [forward](/cells/python-net/ar/aspose.cells.charts/trendline/forward) | إرجاع أو تعيين عدد الفترات (أو الوحدات على مخطط مبعثر) التي يمتدها خط الاتجاه إلى الأمام.<br/> يجب أن يكون عدد الفترات أكبر من أو يساوي الصفر.|
-| [backward](/cells/python-net/ar/aspose.cells.charts/trendline/backward) | إرجاع أو تعيين عدد الفترات (أو الوحدات على مخطط مبعثر) التي يمتدها خط الاتجاه للخلف.<br/>يجب أن يكون عدد الفترات أكبر من أو يساوي الصفر.<br/> إذا كان نوع المخطط عمودًا ، فيجب أن يتراوح عدد الفترات بين 0 و 0.5|
-| [display_equation](/cells/python-net/ar/aspose.cells.charts/trendline/display_equation) |يمثل ما إذا كانت معادلة خط الاتجاه معروضة على الرسم البياني (في نفس تسمية البيانات مثل قيمة R التربيعية). يؤدي تعيين هذه الخاصية إلى True إلى تشغيل تسميات البيانات تلقائيًا.|
-| [display_r_squared](/cells/python-net/ar/aspose.cells.charts/trendline/display_r_squared) | يمثل ما إذا كانت قيمة R التربيعية لخط الاتجاه معروضة على الرسم البياني (في نفس تسمية البيانات مثل المعادلة). يؤدي تعيين هذه الخاصية إلى True إلى تشغيل تسميات البيانات تلقائيًا.|
-| [intercept](/cells/python-net/ar/aspose.cells.charts/trendline/intercept) | إرجاع أو تعيين النقطة التي يتقاطع فيها خط الاتجاه مع محور القيمة.|
-| [data_labels](/cells/python-net/ar/aspose.cells.charts/trendline/data_labels) | يمثل الكائن DataLabels للسلسلة المحددة.|
+| [forward](/cells/python-net/ar/aspose.cells.charts/trendline/forward) | إرجاع أو تعيين عدد الفترات (أو الوحدات على المخطط المبعثر) التي يمتد فيها خط الاتجاه للأمام.<br/> يجب أن يكون عدد الفترات أكبر من أو يساوي الصفر.|
+| [backward](/cells/python-net/ar/aspose.cells.charts/trendline/backward) | إرجاع أو تعيين عدد الفترات (أو الوحدات على المخطط المبعثر) التي يمتد فيها خط الاتجاه للخلف.<br/>يجب أن يكون عدد الفترات أكبر من أو يساوي الصفر.<br/> إذا كان نوع المخطط عمودًا، فيجب أن يتراوح عدد الفترات بين 0 و0.5|
+| [display_equation](/cells/python-net/ar/aspose.cells.charts/trendline/display_equation) | يمثل ما إذا كانت معادلة خط الاتجاه معروضة على الرسم البياني (في نفس تسمية البيانات مثل قيمة R-squared). يؤدي تعيين هذه الخاصية إلى True إلى تشغيل تسميات البيانات تلقائيًا.|
+| [display_r_squared](/cells/python-net/ar/aspose.cells.charts/trendline/display_r_squared) | يمثل ما إذا كانت قيمة R-squared لخط الاتجاه معروضة على الرسم البياني (في نفس تسمية البيانات مثل المعادلة). يؤدي تعيين هذه الخاصية إلى True إلى تشغيل تسميات البيانات تلقائيًا.|
+| [intercept](/cells/python-net/ar/aspose.cells.charts/trendline/intercept) | لإرجاع أو تعيين النقطة التي يتقاطع فيها خط الاتجاه مع محور القيمة.|
+| [data_labels](/cells/python-net/ar/aspose.cells.charts/trendline/data_labels) |يمثل كائن DataLabels للسلسلة المحددة.|
 | [legend_entry](/cells/python-net/ar/aspose.cells.charts/trendline/legend_entry) | يحصل على إدخال وسيلة الإيضاح وفقًا لخط الاتجاه هذا|
 
 
@@ -118,7 +118,7 @@ workbook.save("book1.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
-* فئة [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline)
-* فئة [WeightType](/cells/python-net/ar/aspose.cells.drawing/weighttype)
+* الوحدة [`aspose.cells.charts`](..)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)
+* فئة [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline)
+* فئة [`WeightType`](/cells/python-net/ar/aspose.cells.drawing/weighttype)

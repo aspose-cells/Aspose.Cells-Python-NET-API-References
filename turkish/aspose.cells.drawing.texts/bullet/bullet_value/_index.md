@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bullet_value mülk
 
-Mermi değeri alır
+Mermi değerini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def bullet_value(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [Bullet](/cells/python-net/tr/aspose.cells.drawing.texts/bullet)
-* sınıf [BulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/bulletvalue)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`Bullet`](/cells/python-net/tr/aspose.cells.drawing.texts/bullet)
+* sınıf [`BulletValue`](/cells/python-net/tr/aspose.cells.drawing.texts/bulletvalue)

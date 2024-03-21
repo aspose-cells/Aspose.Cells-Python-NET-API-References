@@ -1,9 +1,9 @@
 ---
 title: height_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 530
+weight: 540
 url: /ru/aspose.cells.drawing/oleobject/height_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.height_inch == 3:
-    shape.height_inch = 1
+    shape.height_inch = 1.0
 
 ```
 ###  Определение:
@@ -30,5 +30,5 @@ def height_inch(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

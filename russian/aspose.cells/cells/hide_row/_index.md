@@ -1,14 +1,14 @@
 ---
 title: hide_row метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 590
+weight: 580
 url: /ru/aspose.cells/cells/hide_row/
 is_root: false
 ---
-##  hide_row(row) {#int}
-Скрывает ряд.
+##  hide_row {#int}
+Скрывает строку.
 
 
 
@@ -25,5 +25,5 @@ def hide_row(self, row):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

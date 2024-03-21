@@ -1,9 +1,9 @@
 ---
 title: text недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 340
+weight: 350
 url: /ru/aspose.cells.charts/legend/text/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Legend](/cells/python-net/ru/aspose.cells.charts/legend)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Legend`](/cells/python-net/ru/aspose.cells.charts/legend)

@@ -9,15 +9,17 @@ is_root: false
 ---
 ##  calc_stack_size proprietà
 
-Specifica la dimensione dello stack per il calcolo delle celle in modo ricorsivo.
+La dimensione dello stack per il calcolo ricorsivo delle celle. Il valore predefinito è 200.
 
 ###  Osservazioni
 
-Quando ci sono grandi quantità di celle devono essere calcolate in modo ricorsivo nell'albero delle dipendenze,
+Quando è necessario calcolare una grande quantità di celle in modo ricorsivo nell'albero delle dipendenze,
 StackOverflowException può essere causato nel processo di calcolo.
-In tal caso, l'utente deve specificare un valore inferiore per questa proprietà.
+In tal caso, l'utente deve specificare un valore più piccolo per questa proprietà.
 Per tale situazione, l'utente deve determinare il valore corretto per questa proprietà in base alle formule e ai dati effettivi.
-Un valore troppo basso può causare un degrado delle prestazioni per il calcolo della formula.
+Tuttavia, un valore troppo piccolo potrebbe causare un degrado delle prestazioni per il calcolo della formula e un valore inferiore a 2
+renderà impossibile calcolare una formula che dipende da un'altra. Quindi, se il valore specificato è inferiore a 2,
+verrà ripristinato a 2.
 ###  Definizione:
 ```python
 @property
@@ -29,5 +31,5 @@ def calc_stack_size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CalculationOptions](/cells/python-net/it/aspose.cells/calculationoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`CalculationOptions`](/cells/python-net/it/aspose.cells/calculationoptions)

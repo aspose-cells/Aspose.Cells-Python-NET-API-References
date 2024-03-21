@@ -1,15 +1,15 @@
 ---
-title: shadow الملكية
+title: shadow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 930
+weight: 940
 url: /ar/aspose.cells.drawing/scrollbar/shadow/
 is_root: false
 ---
-##  shadow الملكية
+##  shadow عقار
 
-يشير إلى ما إذا كان للشكل تظليل ثلاثي الأبعاد.
+الإشارة إلى ما إذا كان الشكل يحتوي على تظليل ثلاثي الأبعاد.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ScrollBar](/cells/python-net/ar/aspose.cells.drawing/scrollbar)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ScrollBar`](/cells/python-net/ar/aspose.cells.drawing/scrollbar)

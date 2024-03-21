@@ -7,7 +7,7 @@ weight: 260
 url: /tr/aspose.cells/cells/delete_rows/
 is_root: false
 ---
-##  delete_rows(row_index, total_rows) {#int-int}
+##  delete_rows {#int-int}
 Birkaç satırı siler.
 
 
@@ -20,14 +20,15 @@ def delete_rows(self, row_index, total_rows):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| row_index | int |Silinecek ilk satır dizini.|
+| row_index | int | Silinecek ilk satır dizini.|
 | total_rows | int | Silinecek satır sayısı.|
 ###  Notlar
 
-Silinen aralık, tablonun (ListObject) üst kısmını (tamamını değil) içeriyorsa,
-aralık silinemedi ve hiçbir şey yapılmayacak. MS Excel olarak çalışıyor.
+Silinen aralık tablonun üst kısmını (tamını değil) içeriyorsa (ListObject),
+aralıklar silinemedi ve hiçbir şey yapılmayacak.
+MS Excel ile aynı şekilde çalışır.
 
-##  delete_rows(row_index, total_rows, update_reference) {#int-int-bool}
+##  delete_rows {#int-int-bool}
 Çalışma sayfasındaki birden çok satırı siler.
 
 
@@ -44,12 +45,12 @@ def delete_rows(self, row_index, total_rows, update_reference):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| row_index | int | Satır dizini.|
+| row_index | int | Silinecek ilk satırın dizini.|
 | total_rows | int | Silinecek satır sayısı.|
-| update_reference | bool | Diğer çalışma sayfalarındaki güncelleme başvurularının olup olmadığını gösterir.|
+| update_reference | bool | Diğer çalışma sayfalarındaki referansların güncelleştirilip güncelleştirilmediğini gösterir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

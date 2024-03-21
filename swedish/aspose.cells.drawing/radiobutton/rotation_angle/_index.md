@@ -3,7 +3,7 @@ title: rotation_angle fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 880
+weight: 900
 url: /sv/aspose.cells.drawing/radiobutton/rotation_angle/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Får och ställer in formens rotation.
 ```python
 
 if shape.rotation_angle == 45:
-    shape.rotation_angle = 60
+    shape.rotation_angle = 60.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RadioButton](/cells/python-net/sv/aspose.cells.drawing/radiobutton)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RadioButton`](/cells/python-net/sv/aspose.cells.drawing/radiobutton)

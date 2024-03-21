@@ -1,20 +1,20 @@
 ---
-title: height الملكية
+title: height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ar/aspose.cells.charts/legend/height/
 is_root: false
 ---
-##  height الملكية
+##  height عقار
 
-الحصول على أو تحديد height للإطار بوحدات 1/4000 من منطقة المخطط.
+الحصول على أو تعيين height للإطار بوحدات 1/4000 من منطقة المخطط.
 
 ###  ملاحظات
 
  كيفية تحويل وحدات من 1/4000 إلى بكسل؟
-الارتفاع بالبكسل = Y * Chart.ChartObject.Height / 4000 ؛
+الارتفاع بالبكسل = Y * Chart.ChartObject.Height / 4000؛
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)

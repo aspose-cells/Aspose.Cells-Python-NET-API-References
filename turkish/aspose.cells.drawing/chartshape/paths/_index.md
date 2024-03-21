@@ -3,7 +3,7 @@ title: paths mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 820
+weight: 830
 url: /tr/aspose.cells.drawing/chartshape/paths/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ChartShape](/cells/python-net/tr/aspose.cells.drawing/chartshape)
-* sınıf [ShapePathCollection](/cells/python-net/tr/aspose.cells.drawing/shapepathcollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ChartShape`](/cells/python-net/tr/aspose.cells.drawing/chartshape)
+* sınıf [`ShapePathCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepathcollection)

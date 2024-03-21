@@ -1,27 +1,27 @@
 ---
-title: العد PrintingPageType
+title: PrintingPageType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2410
+weight: 2500
 url: /ar/aspose.cells/printingpagetype/
 is_root: false
 ---
-##  العد PrintingPageType
+##  PrintingPageType التعداد
 يشير إلى الصفحات التي لن تتم طباعتها.
 
 
 
-يكشف نوع PrintingPageType الأعضاء التالية:
+يكشف النوع PrintingPageType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DEFAULT | يطبع كل الصفحات.|
-| IGNORE_BLANK | لا تطبع الصفحات التي تكون فيها الخلايا فارغة.|
-| IGNORE_STYLE |لا تطبع الصفحات التي تحتوي الخلايا على أنماط فقط.|
+| DEFAULT | يطبع كافة الصفحات.|
+| IGNORE_BLANK | لا تطبع الصفحات التي تكون خلاياها فارغة.|
+| IGNORE_STYLE | لا تطبع الصفحات التي تحتوي الخلايا على أنماط فقط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: relative_to_original_picture_size propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 850
+weight: 860
 url: /es/aspose.cells.drawing/combobox/relative_to_original_picture_size/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def relative_to_original_picture_size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ComboBox](/cells/python-net/es/aspose.cells.drawing/combobox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ComboBox`](/cells/python-net/es/aspose.cells.drawing/combobox)

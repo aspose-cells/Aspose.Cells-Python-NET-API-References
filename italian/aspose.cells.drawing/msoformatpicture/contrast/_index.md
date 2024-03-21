@@ -3,13 +3,13 @@ title: contrast proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 50
+weight: 60
 url: /it/aspose.cells.drawing/msoformatpicture/contrast/
 is_root: false
 ---
 ##  contrast proprietà
 
-Rappresenta la modifica contrast per l'immagine.in unità di percentuale.
+Rappresenta la modifica contrast per l'immagine in unità percentuali.
 
 ###  Osservazioni
 
@@ -25,5 +25,5 @@ def contrast(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [MsoFormatPicture](/cells/python-net/it/aspose.cells.drawing/msoformatpicture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`MsoFormatPicture`](/cells/python-net/it/aspose.cells.drawing/msoformatpicture)

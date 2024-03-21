@@ -3,7 +3,7 @@ title: plot_visible_cells propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 450
+weight: 480
 url: /fr/aspose.cells.charts/chart/plot_visible_cells/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Indique si seules les cellules visibles sont tracées.
 
  REMARQUE : ce membre est désormais obsolète. Plutôt,
 veuillez utiliser la propriété PlotVisibleCellsOnly.
- Cette méthode sera supprimée 12 mois plus tard depuis décembre 2022.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+Cette méthode sera supprimée 12 mois plus tard depuis décembre 2022.
+Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
 ###  Définition:
 ```python
 @property
@@ -28,5 +28,5 @@ def plot_visible_cells(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)

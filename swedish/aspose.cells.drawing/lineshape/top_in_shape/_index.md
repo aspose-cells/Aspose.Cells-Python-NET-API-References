@@ -3,7 +3,7 @@ title: top_in_shape fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /sv/aspose.cells.drawing/lineshape/top_in_shape/
 is_root: false
 ---
@@ -20,7 +20,7 @@ Gäller endast när denna form i gruppen eller diagrammet.
 
 ```python
 
-if shape.top_in_shape == 8000:
+if shape.is_in_group and shape.top_in_shape == 8000:
     shape.top_in_shape = 4000
 
 ```
@@ -35,5 +35,5 @@ def top_in_shape(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineShape](/cells/python-net/sv/aspose.cells.drawing/lineshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineShape`](/cells/python-net/sv/aspose.cells.drawing/lineshape)

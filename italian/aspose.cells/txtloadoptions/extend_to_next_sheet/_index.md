@@ -9,11 +9,14 @@ is_root: false
 ---
 ##  extend_to_next_sheet proprietà
 
-Se estende i dati al foglio successivo quando le righe o le colonne di dati superano il limite.
-Se questa proprietàètrue, i dati extra saranno estesi al foglio successivo dietro a quello corrente (se il foglio corrente è l'ultimo,
-il nuovo foglio verrà aggiunto alla cartella di lavoro corrente).
-Se questa proprietà è false, i dati che superano il limite verranno ignorati.
-L'impostazione predefinita è false;
+Indica se estende i dati al foglio successivo quando le righe o le colonne di dati superano il limite.
+L'impostazione predefinita è falsa.
+
+###  Osservazioni
+
+Se questa proprietà è vera, i dati aggiuntivi verranno inseriti nel foglio successivo a quello corrente
+(se il foglio corrente è l'ultimo, il nuovo foglio verrà aggiunto alla cartella di lavoro corrente).
+Se questa proprietà è falsa, i dati che superano il limite verranno ignorati.
 ###  Definizione:
 ```python
 @property
@@ -25,5 +28,5 @@ def extend_to_next_sheet(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [TxtLoadOptions](/cells/python-net/it/aspose.cells/txtloadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`TxtLoadOptions`](/cells/python-net/it/aspose.cells/txtloadoptions)

@@ -3,11 +3,11 @@ title: set_row_height_inch metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 880
+weight: 870
 url: /sv/aspose.cells/cells/set_row_height_inch/
 is_root: false
 ---
-##  set_row_height_inch(row, inches) {#int-float}
+##  set_row_height_inch {#int-float}
 Ställer in radhöjden i enhet av tum.
 
 
@@ -26,5 +26,5 @@ def set_row_height_inch(self, row, inches):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

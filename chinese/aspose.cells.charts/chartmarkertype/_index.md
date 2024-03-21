@@ -1,9 +1,9 @@
 ---
 title: ChartMarkerType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 420
+weight: 430
 url: /zh/aspose.cells.charts/chartmarkertype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-ChartMarkerType 类型公开了以下成员：
+ChartMarkerType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -26,11 +26,11 @@ ChartMarkerType 类型公开了以下成员：
 | SQUARE_PLUS |带有加号的方形标记。|
 | SQUARE |方形标记。|
 | SQUARE_STAR |带星号的方形标记。|
-| TRIANGLE |三角标记。|
+| TRIANGLE |三角形标记。|
 | SQUARE_X |带 X 的方形标记。|
 | PICTURE |图片|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

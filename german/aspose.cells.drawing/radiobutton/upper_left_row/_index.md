@@ -3,13 +3,13 @@ title: upper_left_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1170
+weight: 1190
 url: /de/aspose.cells.drawing/radiobutton/upper_left_row/
 is_root: false
 ---
 ##  upper_left_row Eigentum
 
-Repräsentiert den Zeilenindex der oberen linken Ecke.
+Stellt den Zeilenindex der oberen linken Ecke dar.
 
 ###  Bemerkungen
 
@@ -34,5 +34,5 @@ def upper_left_row(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RadioButton](/cells/python-net/de/aspose.cells.drawing/radiobutton)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RadioButton`](/cells/python-net/de/aspose.cells.drawing/radiobutton)

@@ -3,12 +3,12 @@ title: PivotFilter classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 30
+weight: 100
 url: /fr/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
 ##  PivotFilter classe
-Représente un PivotFilter dans la collection PivotFilter.
+Représente un PivotFilter dans la Collection PivotFilter.
 
 
 
@@ -19,11 +19,11 @@ Le type PivotFilter expose les membres suivants :
 | :- | :- |
 | [auto_filter](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/auto_filter) | Obtient le filtre automatique du filtre pivot.|
 | [filter_type](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/filter_type) | Obtient le type de filtre automatique du filtre pivot.|
-| [field_index](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/field_index) |Obtient l'index de champ du filtre pivot.|
-| [value1](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/value1) | Obtient la chaîne value1 du filtre de pivot d'étiquette.|
-| [value2](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/value2) | Obtient la valeur de chaîne2 du filtre de pivot d'étiquette.|
-| [measure_fld_index](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/measure_fld_index) | Obtient l'index de champ de mesure du filtre pivot.|
-| [member_property_field_index](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/member_property_field_index) | Obtient l'index de champ de propriété de membre du filtre pivot.|
+| [field_index](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/field_index) | Obtient l'index de champ du filtre pivot.|
+| [value1](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/value1) | Obtient la chaîne value1 du filtre pivot d’étiquette.|
+| [value2](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/value2) |Obtient la chaîne value2 du filtre pivot d’étiquette.|
+| [measure_fld_index](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/measure_fld_index) | Obtient l'index du champ de mesure du filtre pivot.|
+| [member_property_field_index](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/member_property_field_index) | Obtient l'index du champ de propriété de membre du filtre pivot.|
 | [name](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/name) | Obtient le nom du filtre pivot.|
 | [evaluation_order](/cells/python-net/fr/aspose.cells.pivot/pivotfilter/evaluation_order) | Obtient l'ordre d'évaluation du filtre pivot.|
 
@@ -84,4 +84,4 @@ book.save("out.xlsx")
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](..)
+* module [`aspose.cells.pivot`](..)

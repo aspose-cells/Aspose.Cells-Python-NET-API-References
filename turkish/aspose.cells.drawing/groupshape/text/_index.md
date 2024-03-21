@@ -3,7 +3,7 @@ title: text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 930
+weight: 940
 url: /tr/aspose.cells.drawing/groupshape/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GroupShape](/cells/python-net/tr/aspose.cells.drawing/groupshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GroupShape`](/cells/python-net/tr/aspose.cells.drawing/groupshape)

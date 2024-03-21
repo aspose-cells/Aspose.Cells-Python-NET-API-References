@@ -3,17 +3,17 @@ title: ignore_invisible_shapes mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 450
 url: /tr/aspose.cells/htmlsaveoptions/ignore_invisible_shapes/
 is_root: false
 ---
 ##  ignore_invisible_shapes mülk
 
-Görünmeyen şekillerin dışa aktarılıp aktarılmadığını belirtin
+Görünmeyen şekillerin dışa aktarılıp aktarılmayacağını belirtin
 
 ###  Notlar
 
-Varsayılan değerler yanlıştır.
+Varsayılan değerler false'tur.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def ignore_invisible_shapes(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlSaveOptions](/cells/python-net/tr/aspose.cells/htmlsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlSaveOptions`](/cells/python-net/tr/aspose.cells/htmlsaveoptions)

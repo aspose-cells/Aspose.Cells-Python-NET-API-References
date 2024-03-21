@@ -1,59 +1,59 @@
 ---
-title: classe Walls
+title: Walls classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 350
+weight: 360
 url: /it/aspose.cells.charts/walls/
 is_root: false
 ---
-##  classe Walls
+##  Walls classe
 Incapsula l'oggetto che rappresenta le pareti di un grafico 3D.
 
 
 
-**Eredità:** [Walls](/cells/python-net/aspose.cells.charts/walls) → 
-[Floor](/cells/python-net/aspose.cells.charts/floor) → 
-[Area](/cells/python-net/it/aspose.cells.drawing/area)
+**Eredità:** [`Walls`](/cells/python-net/aspose.cells.charts/walls) → 
+[`Floor`](/cells/python-net/aspose.cells.charts/floor) → 
+[`Area`](/cells/python-net/it/aspose.cells.drawing/area)
 
 
 
-Il tipo Walls espone i membri seguenti:
+Il tipo Walls espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [background_color](/cells/python-net/it/aspose.cells.charts/walls/background_color) | Ottiene o imposta il colore di sfondo di [Area](/cells/python-net/it/aspose.cells.drawing/area).|
-| [foreground_color](/cells/python-net/it/aspose.cells.charts/walls/foreground_color) | Ottiene o imposta il Color in primo piano.|
+| [background_color](/cells/python-net/it/aspose.cells.charts/walls/background_color) | Ottiene o imposta il colore di sfondo di [`Area`](/cells/python-net/it/aspose.cells.drawing/area).|
+| [foreground_color](/cells/python-net/it/aspose.cells.charts/walls/foreground_color) | Ottiene o imposta il colore di primo piano.|
 | [formatting](/cells/python-net/it/aspose.cells.charts/walls/formatting) | Rappresenta la formattazione dell'area.|
 | [invert_if_negative](/cells/python-net/it/aspose.cells.charts/walls/invert_if_negative) | Se la proprietà è vera e il valore del punto del grafico è un numero negativo,<br/> il colore di primo piano e il colore di sfondo verranno scambiati.|
-| [fill_format](/cells/python-net/it/aspose.cells.charts/walls/fill_format) | Rappresenta un oggetto [Area.fill_format](/cells/python-net/it/aspose.cells.drawing/area#fill_format) che contiene le proprietà di formattazione del riempimento per il grafico o la forma specificati.|
-| [transparency](/cells/python-net/it/aspose.cells.charts/walls/transparency) | Restituisce o imposta il grado di trasparenza dell'area come valore compreso tra 0,0 (opaco) e 1,0 (trasparente).|
-| [border](/cells/python-net/it/aspose.cells.charts/walls/border) | Ottiene o imposta il bordo [Line](/cells/python-net/it/aspose.cells.drawing/line).|
+| [fill_format](/cells/python-net/it/aspose.cells.charts/walls/fill_format) | Rappresenta un oggetto [`Area.fill_format`](/cells/python-net/it/aspose.cells.drawing/area#fill_format) che contiene le proprietà di formattazione del riempimento per il grafico o la forma specificata.|
+| [transparency](/cells/python-net/it/aspose.cells.charts/walls/transparency) |Restituisce o imposta il grado di trasparenza dell'area come un valore compreso tra 0,0 (opaco) e 1,0 (chiaro).|
+| [border](/cells/python-net/it/aspose.cells.charts/walls/border) | Ottiene o imposta il bordo [`Line`](/cells/python-net/it/aspose.cells.drawing/line).|
 | [center_x](/cells/python-net/it/aspose.cells.charts/walls/center_x) | Ottiene la coordinata x dell'angolo inferiore sinistro del centro del muro in unità di 1/4000 della larghezza del grafico dopo aver chiamato il metodo Chart.Calculate().|
-| [center_y](/cells/python-net/it/aspose.cells.charts/walls/center_y) |Ottiene la coordinata y dell'angolo inferiore sinistro del centro del muro in unità di 1/4000 dell'altezza del grafico dopo aver chiamato il metodo Chart.Calculate().|
+| [center_y](/cells/python-net/it/aspose.cells.charts/walls/center_y) | Ottiene la coordinata y dell'angolo inferiore sinistro del centro del muro in unità di 1/4000 dell'altezza del grafico dopo aver chiamato il metodo Chart.Calculate().|
 | [width](/cells/python-net/it/aspose.cells.charts/walls/width) | Ottiene la larghezza da sinistra a destra in unità di 1/4000 della larghezza del grafico dopo aver chiamato il metodo Chart.Calculate().|
-| [depth](/cells/python-net/it/aspose.cells.charts/walls/depth) | Ottiene la profondità dalla parte anteriore a quella posteriore in unità di 1/4000 della larghezza del grafico dopo aver chiamato il metodo Chart.Calculate().|
+| [depth](/cells/python-net/it/aspose.cells.charts/walls/depth) |Ottiene la profondità dalla parte anteriore a quella posteriore in unità di 1/4000 della larghezza del grafico dopo aver chiamato il metodo Chart.Calculate().|
 | [height](/cells/python-net/it/aspose.cells.charts/walls/height) | Ottiene l'altezza dall'alto verso il basso in unità di 1/4000 dell'altezza del grafico dopo aver chiamato il metodo Chart.Calculate().|
-| [center_x_px](/cells/python-net/it/aspose.cells.charts/walls/center_x_px) | Ottiene la coordinata x dell'angolo inferiore sinistro del centro della parete in unità di pixel dopo aver chiamato il metodo Chart.Calculate().|
-| [center_y_px](/cells/python-net/it/aspose.cells.charts/walls/center_y_px) | Ottiene la coordinata y dell'angolo inferiore sinistro del centro della parete in unità di pixel dopo aver chiamato il metodo Chart.Calculate().|
+| [center_x_px](/cells/python-net/it/aspose.cells.charts/walls/center_x_px) | Ottiene la coordinata x dell'angolo inferiore sinistro del centro del muro in unità di pixel dopo aver chiamato il metodo Chart.Calculate().|
+| [center_y_px](/cells/python-net/it/aspose.cells.charts/walls/center_y_px) | Ottiene la coordinata y dell'angolo inferiore sinistro del centro del muro in unità di pixel dopo aver chiamato il metodo Chart.Calculate().|
 | [width_px](/cells/python-net/it/aspose.cells.charts/walls/width_px) | Ottiene la larghezza da sinistra a destra in unità di pixel dopo aver chiamato il metodo Chart.Calculate().|
 | [depth_px](/cells/python-net/it/aspose.cells.charts/walls/depth_px) | Ottiene la profondità dalla parte anteriore a quella posteriore in unità di pixel dopo aver chiamato il metodo Chart.Calculate().|
-| [height_px](/cells/python-net/it/aspose.cells.charts/walls/height_px) |Ottiene l'altezza dall'alto verso il basso in unità di pixel dopo aver chiamato il metodo Chart.Calculate().|
+| [height_px](/cells/python-net/it/aspose.cells.charts/walls/height_px) | Ottiene l'altezza dall'alto verso il basso in unità di pixel dopo aver chiamato il metodo Chart.Calculate().|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [get_cube_point_count()](/cells/python-net/it/aspose.cells.charts/walls/get_cube_point_count/#) | Ottiene il numero di punti del cubo dopo aver chiamato il metodo Chart.Calculate().|
-| [get_cube_point_x_px(index)](/cells/python-net/it/aspose.cells.charts/walls/get_cube_point_x_px/#int) | Ottiene la coordinata x del punto apice del cubo delle pareti dopo aver chiamato il metodo Chart.Calculate().<br/> Il numero di punti apicali del cubo delle pareti è otto|
-| [get_cube_point_y_px(index)](/cells/python-net/it/aspose.cells.charts/walls/get_cube_point_y_px/#int) | Ottiene la coordinata y del punto apice del cubo delle pareti dopo aver chiamato il metodo Chart.Calculate().<br/> Il numero di punti apicali del cubo delle pareti è otto.|
+| [get_cube_point_count](/cells/python-net/it/aspose.cells.charts/walls/get_cube_point_count/#) | Ottiene il numero di punti del cubo dopo aver chiamato il metodo Chart.Calculate().|
+| [get_cube_point_x_px](/cells/python-net/it/aspose.cells.charts/walls/get_cube_point_x_px/#int) | Ottiene la coordinata x del punto apicale delle pareti del cubo dopo aver chiamato il metodo Chart.Calculate().<br/> Il numero di punti all'apice delle pareti del cubo è otto|
+| [get_cube_point_y_px](/cells/python-net/it/aspose.cells.charts/walls/get_cube_point_y_px/#int) |Ottiene la coordinata y del punto apicale delle pareti del cubo dopo aver chiamato il metodo Chart.Calculate().<br/> Il numero di punti all'apice delle pareti del cubo è otto.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
-* classe [Area](/cells/python-net/it/aspose.cells.drawing/area)
-* classe [Floor](/cells/python-net/it/aspose.cells.charts/floor)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
-* classe [Walls](/cells/python-net/it/aspose.cells.charts/walls)
+* modulo [`aspose.cells.charts`](..)
+* classe [`Area`](/cells/python-net/it/aspose.cells.drawing/area)
+* classe [`Floor`](/cells/python-net/it/aspose.cells.charts/floor)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)
+* classe [`Walls`](/cells/python-net/it/aspose.cells.charts/walls)

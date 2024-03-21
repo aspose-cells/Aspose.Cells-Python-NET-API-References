@@ -3,7 +3,7 @@ title: text_horizontal_alignment proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 970
+weight: 980
 url: /it/aspose.cells.drawing/commentshape/text_horizontal_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CommentShape](/cells/python-net/it/aspose.cells.drawing/commentshape)
-* classe [TextAlignmentType](/cells/python-net/it/aspose.cells/textalignmenttype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CommentShape`](/cells/python-net/it/aspose.cells.drawing/commentshape)
+* classe [`TextAlignmentType`](/cells/python-net/it/aspose.cells/textalignmenttype)

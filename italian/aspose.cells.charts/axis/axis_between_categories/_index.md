@@ -3,13 +3,13 @@ title: axis_between_categories proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 40
+weight: 50
 url: /it/aspose.cells.charts/axis/axis_between_categories/
 is_root: false
 ---
 ##  axis_between_categories proprietà
 
-Indica se l'asse dei valori attraversa l'asse delle categorie tra le categorie.
+Rappresenta se l'asse dei valori incrocia l'asse delle categorie tra le categorie.
 
 ###  Osservazioni
 
@@ -25,5 +25,5 @@ def axis_between_categories(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/it/aspose.cells.charts/axis)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/it/aspose.cells.charts/axis)

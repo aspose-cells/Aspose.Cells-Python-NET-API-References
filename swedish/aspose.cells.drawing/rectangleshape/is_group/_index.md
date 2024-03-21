@@ -3,7 +3,7 @@ title: is_group fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 560
+weight: 570
 url: /sv/aspose.cells.drawing/rectangleshape/is_group/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def is_group(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RectangleShape](/cells/python-net/sv/aspose.cells.drawing/rectangleshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RectangleShape`](/cells/python-net/sv/aspose.cells.drawing/rectangleshape)

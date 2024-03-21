@@ -3,7 +3,7 @@ title: type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1130
+weight: 1150
 url: /fr/aspose.cells.drawing/radiobutton/type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [AutoShapeType](/cells/python-net/fr/aspose.cells.drawing/autoshapetype)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* classe [`AutoShapeType`](/cells/python-net/fr/aspose.cells.drawing/autoshapetype)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)

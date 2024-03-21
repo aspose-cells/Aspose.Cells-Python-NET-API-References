@@ -3,7 +3,7 @@ title: PivotOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 220
 url: /sv/aspose.cells.charts/pivotoptions/
 is_root: false
 ---
@@ -18,12 +18,12 @@ Typen PivotOptions avslöjar följande medlemmar:
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [drop_zone_filter](/cells/python-net/sv/aspose.cells.charts/pivotoptions/drop_zone_filter) | Anger om en kontroll för varje pivottabellfält på pivottabellsidans axel<br/> av källpivottabellen visas i diagrammet när dropZonesVisible är satt till true.|
-| [drop_zone_categories](/cells/python-net/sv/aspose.cells.charts/pivotoptions/drop_zone_categories) | Anger om en kontroll för varje pivottabellfält på pivottabellradaxeln<br/> av källpivottabellen visas i diagrammet när dropZonesVisible är satt till true.|
+| [drop_zone_categories](/cells/python-net/sv/aspose.cells.charts/pivotoptions/drop_zone_categories) |Anger om en kontroll för varje pivottabellfält på pivottabellradaxeln<br/> av källpivottabellen visas i diagrammet när dropZonesVisible är satt till true.|
 | [drop_zone_data](/cells/python-net/sv/aspose.cells.charts/pivotoptions/drop_zone_data) | Anger om en kontroll för varje pivottabellfält på pivottabelldataaxeln<br/> av källpivottabellen visas i diagrammet när dropZonesVisible är satt till true.|
 | [drop_zone_series](/cells/python-net/sv/aspose.cells.charts/pivotoptions/drop_zone_series) | Anger om en kontroll för varje pivottabellfält på pivottabellkolumnaxeln<br/> av källpivottabellen visas i diagrammet när dropZonesVisible är satt till true.|
-| [drop_zones_visible](/cells/python-net/sv/aspose.cells.charts/pivotoptions/drop_zones_visible) |Anger om några pivotkontroller kan visas på pivotdiagrammet.|
+| [drop_zones_visible](/cells/python-net/sv/aspose.cells.charts/pivotoptions/drop_zones_visible) | Anger om några pivotkontroller kan visas på pivotdiagrammet.|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

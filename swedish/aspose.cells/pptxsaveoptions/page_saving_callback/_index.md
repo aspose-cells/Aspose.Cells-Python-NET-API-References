@@ -3,7 +3,7 @@ title: page_saving_callback fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 200
+weight: 240
 url: /sv/aspose.cells/pptxsaveoptions/page_saving_callback/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def page_saving_callback(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [IPageSavingCallback](/cells/python-net/sv/aspose.cells.rendering/ipagesavingcallback)
-* klass [PptxSaveOptions](/cells/python-net/sv/aspose.cells/pptxsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`IPageSavingCallback`](/cells/python-net/sv/aspose.cells.rendering/ipagesavingcallback)
+* klass [`PptxSaveOptions`](/cells/python-net/sv/aspose.cells/pptxsaveoptions)

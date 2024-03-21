@@ -3,7 +3,7 @@ title: text_shape_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1030
+weight: 1040
 url: /es/aspose.cells.drawing/checkbox/text_shape_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [AutoShapeType](/cells/python-net/es/aspose.cells.drawing/autoshapetype)
-* clase [CheckBox](/cells/python-net/es/aspose.cells.drawing/checkbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`AutoShapeType`](/cells/python-net/es/aspose.cells.drawing/autoshapetype)
+* clase [`CheckBox`](/cells/python-net/es/aspose.cells.drawing/checkbox)

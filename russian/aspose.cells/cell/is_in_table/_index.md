@@ -1,9 +1,9 @@
 ---
 title: is_in_table недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 570
+weight: 600
 url: /ru/aspose.cells/cell/is_in_table/
 is_root: false
 ---
@@ -13,9 +13,9 @@ is_root: false
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот класс устарел. Вместо,
+ПРИМЕЧАНИЕ. Этот класс устарел. Вместо,
 используйте Cell.IsTableFormula, чтобы проверить, является ли формула ячейки частью формулы таблицы.
-Этот ресурс будет удален через 12 месяцев, начиная с мая 2018 года.
+Этот объект недвижимости будет удален через 12 месяцев, начиная с мая 2018 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -25,5 +25,5 @@ def is_in_table(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

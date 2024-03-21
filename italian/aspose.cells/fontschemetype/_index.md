@@ -1,18 +1,18 @@
 ---
-title: FontSchemeType enumerazione
+title: Enumerazione FontSchemeType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2070
+weight: 2140
 url: /it/aspose.cells/fontschemetype/
 is_root: false
 ---
-##  FontSchemeType enumerazione
+##  Enumerazione FontSchemeType
 Rappresenta il tipo di schema del carattere.
 
 
 
-Il tipo FontSchemeType espone i membri seguenti:
+Il tipo FontSchemeType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -24,4 +24,4 @@ Il tipo FontSchemeType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

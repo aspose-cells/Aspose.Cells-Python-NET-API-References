@@ -3,13 +3,13 @@ title: export_grid_lines propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 260
 url: /es/aspose.cells/htmlsaveoptions/export_grid_lines/
 is_root: false
 ---
 ##  export_grid_lines propiedad
 
-Indicando si se exportan las líneas de cuadrícula. El valor predeterminado es falso.
+Indicando si se exportan las líneas de la cuadrícula. El valor predeterminado es falso.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_grid_lines(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HtmlSaveOptions](/cells/python-net/es/aspose.cells/htmlsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`HtmlSaveOptions`](/cells/python-net/es/aspose.cells/htmlsaveoptions)

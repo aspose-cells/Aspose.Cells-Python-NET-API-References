@@ -3,7 +3,7 @@ title: title fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /sv/aspose.cells.drawing/label/title/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Label](/cells/python-net/sv/aspose.cells.drawing/label)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Label`](/cells/python-net/sv/aspose.cells.drawing/label)

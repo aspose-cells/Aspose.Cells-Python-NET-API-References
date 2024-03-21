@@ -1,25 +1,25 @@
 ---
-title: IExportObjectListener الدرجة
+title: IExportObjectListener صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 840
+weight: 880
 url: /ar/aspose.cells/iexportobjectlistener/
 is_root: false
 ---
-##  IExportObjectListener الدرجة
+##  IExportObjectListener صف
 يسمح للمستخدمين بمعالجة الكائنات أثناء التصدير.
 
 
 
-يكشف نوع IExportObjectListener الأعضاء التالية:
+يكشف النوع IExportObjectListener عن الأعضاء التاليين:
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [export_object(e)](/cells/python-net/ar/aspose.cells/iexportobjectlistener/export_object/#ExportObjectEvent) | تصدير كائن واحد.|
+| [export_object](/cells/python-net/ar/aspose.cells/iexportobjectlistener/export_object/#aspose.cells.ExportObjectEvent) | تصدير كائن واحد.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

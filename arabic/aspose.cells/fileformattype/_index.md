@@ -1,91 +1,98 @@
 ---
-title: العد FileFormatType
+title: FileFormatType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2040
+weight: 2110
 url: /ar/aspose.cells/fileformattype/
 is_root: false
 ---
-##  العد FileFormatType
+##  FileFormatType التعداد
 يمثل أنواع تنسيقات الملفات.
 
 
 
-يكشف نوع FileFormatType الأعضاء التالية:
+يكشف النوع FileFormatType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| CSV |ملف نصي لقيم مفصولة بفواصل (CSV).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.CSV](/cells/python-net/ar/aspose.cells/fileformattype#CSV).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| XLSX | Office افتح ملف XML SpreadsheetML (خالٍ من الماكرو).|
+| CSV |القيم المفصولة بفواصل (CSV) ملف نصي.|
+| XLSX | ملف Office Open XML SpreadsheetML (خالي من الماكرو).|
 | XLSM | Office Open XML SpreadsheetML ملف ممكن بماكرو.|
-| XLTX | قالب Office Open XML SpreadsheetML (خالٍ من الماكرو).|
-| XLTM | Office Open XML SpreadsheetML قالب ممكّن بماكرو.|
-| XLAM | فتح ملف ملحق XML SpreadsheetML Office OpenMacro-Enabled.|
-| TSV | ملف نصي لقيم مفصولة بعلامات جدولة (TSV).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.TSV](/cells/python-net/ar/aspose.cells/fileformattype#TSV).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| TAB_DELIMITED | ملف نصي لقيم مفصولة بعلامات جدولة (TSV) ، كما هو الحال مع [FileFormatType.TSV](/cells/python-net/ar/aspose.cells/fileformattype#TSV).|
+| XLTX | قالب Office Open XML SpreadsheetML (خالي من وحدات الماكرو).|
+| XLTM | Office Open XML SpreadsheetML قالب ممكن بماكرو.|
+| XLAM | Office Open XML SpreadsheetML ملف addinMacro-Enabled.|
+| TSV | القيم المفصولة بعلامات جدولة (TSV) ملف نصي.|
+| TAB_DELIMITED | ملف نصي للقيم المفصولة بعلامات جدولة (TSV)، نفس الشيء مع [`FileFormatType.TSV`](/cells/python-net/ar/aspose.cells/fileformattype#TSV).|
 | HTML | تنسيق HTML.|
-| M_HTML | MHTML (أرشيف ويب) نسق.|
-| ODS | افتح ملف Document Sheet (ODS).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.ODS](/cells/python-net/ar/aspose.cells/fileformattype#ODS).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| EXCEL_97_TO_2003 | ملف جدول بيانات Excel97-2003.|
-| SPREADSHEET_ML | ملف بيانات Excel 2003 XML.|
-| EXCEL_2003XML | ملف بيانات Excel 2003 XML.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.SPREADSHEET_ML](/cells/python-net/ar/aspose.cells/fileformattype#SPREADSHEET_ML).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
+| M_HTML | MHTML تنسيق (أرشيف الويب).|
+| ODS | افتح ملف ورقة المستندات (ODS).|
+| EXCEL_97_TO_2003 | ملف جدول البيانات Excel97-2003.|
+| SPREADSHEET_ML | ملف بيانات إكسل 2003 XML.|
 | XLSB | تنسيق ملف Excel الثنائي (.xlsb)|
-| UNKNOWN | يمثل تنسيقًا غير معروف ، لا يمكن تحميله.|
-| PDF | PDF (Adobe Portable Document) بتنسيق.|
-| XPS |XPS (مواصفات ورق XML).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.XPS](/cells/python-net/ar/aspose.cells/fileformattype#XPS).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| TIFF | يمثل ملف TIFF.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.TIFF](/cells/python-net/ar/aspose.cells/fileformattype#TIFF).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| SVG | SVG ملف.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.SVG](/cells/python-net/ar/aspose.cells/fileformattype#SVG).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| EXCEL95 | يمثل ملف Excel95 xls.|
-| EXCEL4 | يمثل ملف Excel4.0 xls.|
-| EXCEL3 | يمثل ملف Excel3.0 xls.|
-| EXCEL2 | يمثل ملف Excel2.1 xls.|
+| UNKNOWN | يمثل تنسيقًا غير معروف، ولا يمكن تحميله.|
+| PDF | PDF (أدوبي مستند محمول) تنسيق.|
+| XPS | تنسيق XPS (مواصفات ورق XML).|
+| TIFF | يمثل ملف TIFF.|
+| SVG | SVG الملف.|
+| EXCEL95 | يمثل ملف Excel95 XLS.|
+| EXCEL4 | يمثل ملف Excel4.0 XLS.|
+| EXCEL3 |يمثل ملف Excel3.0 XLS.|
+| EXCEL2 | يمثل ملف Excel2.1 XLS.|
 | PPTX | يمثل ملف pptx.|
-| DOCX | يمثل ملف docx.|
+| DOCX | يمثل ملف دوكإكس.|
 | DIF | تنسيق تبادل البيانات.|
 | DOC | يمثل ملف مستند.|
 | PPT | يمثل ملف ppt.|
-| MAPI_MESSAGE | يمثل ملف بريد إلكتروني.|
-| MS_EQUATION | يمثل كائن MS Equation 3.0.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.MS_EQUATION](/cells/python-net/ar/aspose.cells/fileformattype#MS_EQUATION).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| OLE_10_NATIVE | يمثل الكائن الأصلي المضمّن.|
-| VSD | يمثل MS Visio VSD التنسيق الثنائي.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.VSD](/cells/python-net/ar/aspose.cells/fileformattype#VSD).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| VSDX | يمثل MS Visio 2013 VSDX تنسيق الملف.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.VSDX](/cells/python-net/ar/aspose.cells/fileformattype#VSDX).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| DOCM | يمثل ملف docm.|
+| MAPI_MESSAGE | يمثل ملف البريد الإلكتروني.|
+| MS_EQUATION | يمثل كائن MS Equation 3.0.|
+| OLE_10_NATIVE | يمثل الكائن الأصلي المضمن.|
+| VSD | يمثل التنسيق الثنائي MS Visio VSD.|
+| VSDX | يمثل تنسيق الملف MS Visio 2013 VSDX.|
+| DOCM | يمثل ملف دوكم.|
 | DOTX | يمثل ملف dotx.|
 | DOTM | يمثل ملف dotm.|
 | PPTM | يمثل ملف pptm.|
-| POTX | يمثل ملف بوتكس.|
+| POTX | يمثل ملف Potx.|
 | POTM | يمثل ملف Potm.|
 | PPSX | يمثل ملف ppsx.|
 | PPSM | يمثل ملف ppsm.|
-| OOXML | يمثل ملف Office open xml (مثل xlsx و docx و pptx وما إلى ذلك).|
-| ODT |يمثل ملف ODT.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.ODT](/cells/python-net/ar/aspose.cells/fileformattype#ODT).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| ODP | يمثل ملف ODP.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.ODP](/cells/python-net/ar/aspose.cells/fileformattype#ODP).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| ODF | يمثل ملف ODF.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.ODF](/cells/python-net/ar/aspose.cells/fileformattype#ODF).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| ODG | يمثل ملف ODG.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.ODG](/cells/python-net/ar/aspose.cells/fileformattype#ODG).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| XML | يمثل ملف xml بسيط.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.XML](/cells/python-net/ar/aspose.cells/fileformattype#XML).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| XLT | قالب جدول بيانات Excel97-2003.|
-| OTT | يمثل ملف OTT.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.OTT](/cells/python-net/ar/aspose.cells/fileformattype#OTT).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| BMP | يمثل ملف BMP.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.BMP](/cells/python-net/ar/aspose.cells/fileformattype#BMP).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| OTS | يمثل ملف OTS.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.OTS](/cells/python-net/ar/aspose.cells/fileformattype#OTS).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| NUMBERS | يمثل Numbers 9.0 تنسيق ملف بواسطة شركة آبل.|
-| NUMBERS09 | يمثل Numbers 9.0 تنسيق ملف بواسطة شركة آبل.|
+| OOXML | يمثل ملف xml مفتوح للمكتب (مثل xlsx وdocx وpptx وما إلى ذلك).|
+| ODT | يمثل ملف ODT.|
+| ODP | يمثل ملف ODP.|
+| ODF | يمثل ملف ODF.|
+| ODG | يمثل ملف ODG.|
+| XML | يمثل ملف XML بسيط.|
+| XLT | قالب جدول البيانات Excel97-2003.|
+| OTT |يمثل ملف OTT.|
+| BMP | يمثل ملف BMP.|
+| OTS | يمثل ملف ots.|
+| NUMBERS | يمثل تنسيق الملف Numbers 9.0 من شركة Apple Inc.|
+| NUMBERS09 | يمثل تنسيق الملف Numbers 9.0 من شركة Apple Inc.|
 | MARKDOWN | يمثل وثيقة تخفيض السعر.|
-| GRAPH_CHART | يمثل الرسم البياني المضمّن.|
-| FODS | يمثل تنسيق ملف OpenDocument Flat XML Spreadsheet (.fods).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.FODS](/cells/python-net/ar/aspose.cells/fileformattype#FODS).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| SXC | يمثل تنسيق ملف StarOffice Calc Spreadsheet (.sxc).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.SXC](/cells/python-net/ar/aspose.cells/fileformattype#SXC).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| OTP | يمثل ملف OTP.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [FileFormatType.OTP](/cells/python-net/ar/aspose.cells/fileformattype#OTP).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| NUMBERS35 | يمثل Numbers 3.5 تنسيق ملف منذ 2014 بواسطة شركة آبل|
-| EMF | Windows ملف تعريف محسن.|
-| WMF | Windows ملف تعريف.|
+| GRAPH_CHART | يمثل الرسم البياني المضمن.|
+| FODS | يمثل تنسيق ملف OpenDocument Flat XML Spreadsheet (.fods).|
+| SXC | يمثل تنسيق ملف StarOffice Calc Spreadsheet (.sxc).|
+| OTP | يمثل ملف OTP.|
+| NUMBERS35 | يمثل تنسيق الملف Numbers 3.5 منذ عام 2014 بواسطة شركة Apple Inc|
+| EMF | Windows ملف التعريف المحسن.|
+| WMF | Windows ملف التعريف.|
 | JPG | JPEG جفيف.|
 | PNG | رسومات الشبكة المحمولة.|
 | GIF | GIF|
 | JSON | جسون|
-| SQL_SCRIPT | أس كيو إل|
+| SQL_SCRIPT | مزود|
+| X_HTML | ممثلو ملف XHtml.|
+| ONE_NOTE | ممثلو ملف One Note.|
+| MICROSOFT_CABINET | /// <br/>الممثلون Microsoft ملف الخزانة.<br/><br/>تنسيق الملف غير مدعوم<br/> فقط للكشف عن نوع الملف.|
+| RTF |  |
+| EPUB | EPUB |
+| AZW3 | AZW3 |
+| OXPS | تنسيق OXPS (مواصفات ورق XML المفتوحة).|
+| G_ZIP | ممثلين عن ملف GZip.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

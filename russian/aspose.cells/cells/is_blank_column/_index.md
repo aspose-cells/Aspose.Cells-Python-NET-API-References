@@ -1,19 +1,19 @@
 ---
 title: is_blank_column метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 740
+weight: 730
 url: /ru/aspose.cells/cells/is_blank_column/
 is_root: false
 ---
-##  is_blank_column(column_index) {#int}
-Проверяет, является ли данный столбец пустым (не содержит никаких данных).
+##  is_blank_column {#int}
+Проверяет, является ли данный столбец пустым (не содержит данных).
 
 
-###  Возвращает
+###  Возврат
 
-true, если данный столбец не содержит данных
+true, если данный столбец не содержит никаких данных
 
 
 ```python
@@ -29,5 +29,5 @@ def is_blank_column(self, column_index):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

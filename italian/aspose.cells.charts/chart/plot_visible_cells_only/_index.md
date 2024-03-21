@@ -3,7 +3,7 @@ title: plot_visible_cells_only proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 460
+weight: 490
 url: /it/aspose.cells.charts/chart/plot_visible_cells_only/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def plot_visible_cells_only(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)

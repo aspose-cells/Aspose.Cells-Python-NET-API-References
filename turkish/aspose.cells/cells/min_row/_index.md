@@ -3,7 +3,7 @@ title: min_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1190
+weight: 1180
 url: /tr/aspose.cells/cells/min_row/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def min_row(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

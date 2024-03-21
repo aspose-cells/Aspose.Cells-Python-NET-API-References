@@ -3,7 +3,7 @@ title: HorizontalPageBreak klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 750
+weight: 780
 url: /sv/aspose.cells/horizontalpagebreak/
 is_root: false
 ---
@@ -40,4 +40,4 @@ hPageBreak = worksheet.horizontal_page_breaks[Index]
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

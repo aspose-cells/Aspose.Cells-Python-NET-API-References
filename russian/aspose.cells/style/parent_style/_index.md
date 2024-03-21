@@ -1,9 +1,9 @@
 ---
 title: parent_style недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 360
+weight: 420
 url: /ru/aspose.cells/style/parent_style/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def parent_style(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Style](/cells/python-net/ru/aspose.cells/style)
+* модуль [`aspose.cells`](../../)
+* класс [`Style`](/cells/python-net/ru/aspose.cells/style)

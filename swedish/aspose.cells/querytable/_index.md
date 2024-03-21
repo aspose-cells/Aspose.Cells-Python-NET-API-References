@@ -3,7 +3,7 @@ title: QueryTable klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1230
+weight: 1270
 url: /sv/aspose.cells/querytable/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Typen QueryTable avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [connection_id](/cells/python-net/sv/aspose.cells/querytable/connection_id) |Hämtar anslutnings-id för frågetabellen.|
+| [connection_id](/cells/python-net/sv/aspose.cells/querytable/connection_id) | Hämtar anslutnings-id för frågetabellen.|
 | [external_connection](/cells/python-net/sv/aspose.cells/querytable/external_connection) | Får relaterad extern anslutning.|
 | [name](/cells/python-net/sv/aspose.cells/querytable/name) | Får namnet på frågetabellen.|
 | [result_range](/cells/python-net/sv/aspose.cells/querytable/result_range) | Får resultatets omfång.|
@@ -35,12 +35,8 @@ from aspose.cells import Workbook
 workbook = Workbook()
 # Obtaining the reference of the first worksheet
 worksheet = workbook.worksheets[0]
-# Getting the first query table in the worksheet
-qt = worksheet.query_tables[0]
-# Getting display address of the query table.
-address = qt.result_range.address
 
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

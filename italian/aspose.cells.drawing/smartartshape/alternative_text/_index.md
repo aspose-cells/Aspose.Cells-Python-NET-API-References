@@ -3,13 +3,13 @@ title: alternative_text proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 260
+weight: 280
 url: /it/aspose.cells.drawing/smartartshape/alternative_text/
 is_root: false
 ---
 ##  alternative_text proprietà
 
-Restituisce o imposta la stringa di testo descrittiva (alternativa) dell'oggetto [Shape](/cells/python-net/it/aspose.cells.drawing/shape).
+Restituisce o imposta la stringa di testo descrittivo (alternativa) dell'oggetto [`Shape`](/cells/python-net/it/aspose.cells.drawing/shape).
 
 ###  Esempio
 
@@ -29,6 +29,6 @@ def alternative_text(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Shape](/cells/python-net/it/aspose.cells.drawing/shape)
-* classe [SmartArtShape](/cells/python-net/it/aspose.cells.drawing/smartartshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Shape`](/cells/python-net/it/aspose.cells.drawing/shape)
+* classe [`SmartArtShape`](/cells/python-net/it/aspose.cells.drawing/smartartshape)

@@ -1,15 +1,15 @@
 ---
-title: control_data الملكية
+title: control_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 380
 url: /ar/aspose.cells.drawing/oleobject/control_data/
 is_root: false
 ---
-##  control_data الملكية
+##  control_data عقار
 
-يحصل على بيانات التحكم.
+يحصل على بيانات السيطرة.
 
 ###  مثال
 
@@ -27,5 +27,5 @@ def control_data(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

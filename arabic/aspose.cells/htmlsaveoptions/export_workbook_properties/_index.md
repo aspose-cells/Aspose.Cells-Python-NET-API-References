@@ -1,16 +1,16 @@
 ---
-title: export_workbook_properties الملكية
+title: export_workbook_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 370
 url: /ar/aspose.cells/htmlsaveoptions/export_workbook_properties/
 is_root: false
 ---
-##  export_workbook_properties الملكية
+##  export_workbook_properties عقار
 
- الإشارة إلى ما إذا كان تصدير خصائص المصنف. القيمة الافتراضية صحيحة ، إذا كنت تريد الاستيراد
-ملف html أو mht إلى التفوق ، يرجى الاحتفاظ بالقيمة الافتراضية.
+ الإشارة إلى ما إذا كان سيتم تصدير خصائص المصنف أم لا. القيمة الافتراضية صحيحة. إذا كنت تريد الاستيراد
+ملف html أو mht للتفوق، يرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def export_workbook_properties(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

@@ -3,13 +3,13 @@ title: right_crop mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 120
 url: /tr/aspose.cells.drawing/msoformatpicture/right_crop/
 is_root: false
 ---
 ##  right_crop mülk
 
-Görüntünün genişliğinin bir oranı olarak ifade edilen, kırpma dikdörtgeninin sağının konumunu temsil eder.
+Görüntünün genişliğinin oranı olarak ifade edilen, kırpma dikdörtgeninin sağındaki konumunu temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def right_crop(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoFormatPicture](/cells/python-net/tr/aspose.cells.drawing/msoformatpicture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoFormatPicture`](/cells/python-net/tr/aspose.cells.drawing/msoformatpicture)

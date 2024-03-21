@@ -3,7 +3,7 @@ title: connection_points fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 340
 url: /sv/aspose.cells.drawing/checkbox/connection_points/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def connection_points(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CheckBox](/cells/python-net/sv/aspose.cells.drawing/checkbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CheckBox`](/cells/python-net/sv/aspose.cells.drawing/checkbox)

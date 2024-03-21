@@ -3,13 +3,13 @@ title: keep_unparsed_data mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 230
 url: /tr/aspose.cells/txtloadoptions/keep_unparsed_data/
 is_root: false
 ---
 ##  keep_unparsed_data mülk
 
-Şablon dosyasından yüklendiğinde Çalışma Kitabı için ayrıştırılmamış verilerin bellekte tutulup tutulmadığı. Varsayılan doğrudur.
+Şablon dosyasından yüklendiğinde Çalışma Kitabının ayrıştırılmamış verilerinin bellekte tutulup tutulmayacağı. Varsayılan doğrudur.
 
 ###  Notlar
 
@@ -26,5 +26,5 @@ def keep_unparsed_data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TxtLoadOptions](/cells/python-net/tr/aspose.cells/txtloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`TxtLoadOptions`](/cells/python-net/tr/aspose.cells/txtloadoptions)

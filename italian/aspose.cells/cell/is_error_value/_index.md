@@ -3,7 +3,7 @@ title: is_error_value proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 540
+weight: 570
 url: /it/aspose.cells/cell/is_error_value/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def is_error_value(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

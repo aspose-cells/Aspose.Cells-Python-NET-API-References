@@ -3,7 +3,7 @@ title: text_body propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 930
+weight: 940
 url: /es/aspose.cells.drawing/commentshape/text_body/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CommentShape](/cells/python-net/es/aspose.cells.drawing/commentshape)
-* clase [FontSettingCollection](/cells/python-net/es/aspose.cells.drawing.texts/fontsettingcollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CommentShape`](/cells/python-net/es/aspose.cells.drawing/commentshape)
+* clase [`FontSettingCollection`](/cells/python-net/es/aspose.cells.drawing.texts/fontsettingcollection)

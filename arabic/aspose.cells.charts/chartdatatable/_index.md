@@ -1,31 +1,31 @@
 ---
-title: ChartDataTable الدرجة
+title: ChartDataTable صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells.charts/chartdatatable/
 is_root: false
 ---
-##  ChartDataTable الدرجة
+##  ChartDataTable صف
 يمثل جدول بيانات الرسم البياني.
 
 
 
-يكشف نوع ChartDataTable الأعضاء التالية:
+يكشف النوع ChartDataTable عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [font](/cells/python-net/ar/aspose.cells.charts/chartdatatable/font) | الحصول على عنصر [ChartDataTable.font](/cells/python-net/ar/aspose.cells.charts/chartdatatable#font) والذي يمثل محددات الخط لجدول بيانات المخطط المحدد.|
-| [auto_scale_font](/cells/python-net/ar/aspose.cells.charts/chartdatatable/auto_scale_font) | صواب إذا كان النص في الكائن يغير حجم الخط عندما يتغير حجم الكائن.<br/> القيمة الافتراضية هي الحقيقية.|
-| [background_mode](/cells/python-net/ar/aspose.cells.charts/chartdatatable/background_mode) | الحصول على وضبط وضع عرض الخلفية|
-| [background](/cells/python-net/ar/aspose.cells.charts/chartdatatable/background) | الحصول على وضبط وضع عرض الخلفية|
-| [has_border_horizontal](/cells/python-net/ar/aspose.cells.charts/chartdatatable/has_border_horizontal) |صواب إذا كان جدول بيانات المخطط يحتوي على حدود خلية أفقية|
-| [has_border_vertical](/cells/python-net/ar/aspose.cells.charts/chartdatatable/has_border_vertical) | صواب إذا كان جدول بيانات المخطط يحتوي على حدود خلية عمودية|
-| [has_border_outline](/cells/python-net/ar/aspose.cells.charts/chartdatatable/has_border_outline) | صواب إذا كان جدول بيانات المخطط يحتوي على حدود خارجية|
-| [show_legend_key](/cells/python-net/ar/aspose.cells.charts/chartdatatable/show_legend_key) | صواب إذا كان مفتاح وسيلة إيضاح تسمية البيانات مرئيًا.|
-| [border](/cells/python-net/ar/aspose.cells.charts/chartdatatable/border) | إرجاع كائن حد يمثل حد الكائن|
+| [font](/cells/python-net/ar/aspose.cells.charts/chartdatatable/font) | يحصل على كائن [`ChartDataTable.font`](/cells/python-net/ar/aspose.cells.charts/chartdatatable#font) الذي يمثل إعداد الخط لجدول بيانات المخطط المحدد.|
+| [auto_scale_font](/cells/python-net/ar/aspose.cells.charts/chartdatatable/auto_scale_font) | صحيح إذا تغير حجم الخط النص الموجود في الكائن عندما يتغير حجم الكائن.<br/>القيمة الافتراضية هي الحقيقية.|
+| [background_mode](/cells/python-net/ar/aspose.cells.charts/chartdatatable/background_mode) | الحصول على وضع عرض الخلفية وتعيينه|
+| [background](/cells/python-net/ar/aspose.cells.charts/chartdatatable/background) | الحصول على وضع عرض الخلفية وتعيينه|
+| [has_border_horizontal](/cells/python-net/ar/aspose.cells.charts/chartdatatable/has_border_horizontal) | صحيح إذا كان جدول بيانات المخطط يحتوي على حدود خلايا أفقية|
+| [has_border_vertical](/cells/python-net/ar/aspose.cells.charts/chartdatatable/has_border_vertical) | صحيح إذا كان جدول بيانات المخطط يحتوي على حدود خلايا عمودية|
+| [has_border_outline](/cells/python-net/ar/aspose.cells.charts/chartdatatable/has_border_outline) | صحيح إذا كان جدول بيانات المخطط يحتوي على حدود تفصيلية|
+| [show_legend_key](/cells/python-net/ar/aspose.cells.charts/chartdatatable/show_legend_key) | صحيح إذا كان مفتاح وسيلة إيضاح تسمية البيانات مرئيًا.|
+| [border](/cells/python-net/ar/aspose.cells.charts/chartdatatable/border) | تقوم بإرجاع كائن Border الذي يمثل حدود الكائن|
 
 
 
@@ -71,4 +71,4 @@ workbook.save("book1.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

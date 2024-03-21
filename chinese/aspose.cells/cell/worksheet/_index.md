@@ -1,13 +1,13 @@
 ---
-title: worksheet 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: worksheet属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 720
+weight: 750
 url: /zh/aspose.cells/cell/worksheet/
 is_root: false
 ---
-## worksheet 属性
+## worksheet属性
 
 获取父级 worksheet。
 ### 定义：
@@ -18,6 +18,6 @@ def worksheet(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cell](/cells/python-net/zh/aspose.cells/cell)
-* 类 [Worksheet](/cells/python-net/zh/aspose.cells/worksheet)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cell`](/cells/python-net/zh/aspose.cells/cell)
+* 类 [`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet)

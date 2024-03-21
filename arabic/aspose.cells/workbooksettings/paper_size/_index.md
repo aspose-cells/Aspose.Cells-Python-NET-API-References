@@ -1,19 +1,19 @@
 ---
-title: paper_size الملكية
+title: paper_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 360
 url: /ar/aspose.cells/workbooksettings/paper_size/
 is_root: false
 ---
-##  paper_size الملكية
+##  paper_size عقار
 
 الحصول على حجم ورق الطباعة الافتراضي وتعيينه.
 
 ###  ملاحظات
 
-إذا لم يكن هناك إعداد حول حجم الورق ، فسيستخدم MS Excel إعداد الطابعة الافتراضي.
+إذا لم يكن هناك أي إعداد يتعلق بحجم الورق، فسيستخدم برنامج MS Excel إعداد الطابعة الافتراضية.
 ###  تعريف:
 ```python
 @property
@@ -25,6 +25,6 @@ def paper_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PaperSizeType](/cells/python-net/ar/aspose.cells/papersizetype)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PaperSizeType`](/cells/python-net/ar/aspose.cells/papersizetype)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

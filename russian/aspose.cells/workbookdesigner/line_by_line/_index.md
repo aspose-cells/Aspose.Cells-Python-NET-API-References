@@ -1,20 +1,20 @@
 ---
 title: line_by_line недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ru/aspose.cells/workbookdesigner/line_by_line/
 is_root: false
 ---
 ##  line_by_line недвижимость
 
-Указывает, обрабатывается ли смарт-маркер построчно.
+Указывает, обрабатывается ли интеллектуальный маркер построчно.
 
 ###  Примечания
 
 Значение по умолчанию верно.
-Если установлено значение False, файл шаблона должен содержать диапазон с именем «_CellsSmartMarkers».
+Если значение равно False, файл шаблона должен содержать диапазон с именем «_CellsSmartMarkers».
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def line_by_line(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookDesigner](/cells/python-net/ru/aspose.cells/workbookdesigner)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookDesigner`](/cells/python-net/ru/aspose.cells/workbookdesigner)

@@ -3,17 +3,17 @@ title: intersect Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 110
+weight: 120
 url: /de/aspose.cells/range/intersect/
 is_root: false
 ---
-##  intersect(range) {#Range}
-Gibt ein [Range](/cells/python-net/de/aspose.cells/range)-Objekt zurück, das die rechteckige Schnittmenge zweier Bereiche darstellt.
+##  intersect {#aspose.cells.Range}
+Gibt ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt zurück, das den rechteckigen Schnittpunkt zweier Bereiche darstellt.
 
 
 ###  Kehrt zurück
 
-Gibt ein [Range](/cells/python-net/de/aspose.cells/range)-Objekt zurück
+Gibt ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt zurück
 
 
 ```python
@@ -24,10 +24,10 @@ def intersect(self, range):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/de/aspose.cells/range) | Der Schnittbereich.|
+| range | [`Range`](/cells/python-net/de/aspose.cells/range) | Der Schnittbereich.|
 ###  Bemerkungen
 
-Wenn sich die beiden Bereiche nicht schneiden, wird null zurückgegeben.
+Wenn sich die beiden Bereiche nicht überschneiden, wird null zurückgegeben.
 ###  Beispiel
 
 
@@ -50,5 +50,5 @@ workbook.save("book1.xlsm")
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Range](/cells/python-net/de/aspose.cells/range)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Range`](/cells/python-net/de/aspose.cells/range)

@@ -3,11 +3,11 @@ title: set_visible yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 280
 url: /tr/aspose.cells/worksheet/set_visible/
 is_root: false
 ---
-##  set_visible(is_visible, ignore_error) {#bool-bool}
+##  set_visible {#bool-bool}
 Görünür seçenekleri ayarlar.
 
 
@@ -26,5 +26,5 @@ def set_visible(self, is_visible, ignore_error):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

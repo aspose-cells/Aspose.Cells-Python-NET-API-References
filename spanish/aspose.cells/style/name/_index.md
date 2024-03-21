@@ -3,7 +3,7 @@ title: name propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 340
+weight: 400
 url: /es/aspose.cells/style/name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)

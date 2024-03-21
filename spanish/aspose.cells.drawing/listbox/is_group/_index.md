@@ -3,7 +3,7 @@ title: is_group propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 580
+weight: 590
 url: /es/aspose.cells.drawing/listbox/is_group/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def is_group(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ListBox](/cells/python-net/es/aspose.cells.drawing/listbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ListBox`](/cells/python-net/es/aspose.cells.drawing/listbox)

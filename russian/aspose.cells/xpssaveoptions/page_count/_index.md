@@ -1,23 +1,23 @@
 ---
 title: page_count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ru/aspose.cells/xpssaveoptions/page_count/
 is_root: false
 ---
 ##  page_count недвижимость
 
-Получает или задает количество страниц для сохранения.
+Получает или задает количество сохраняемых страниц.
 
 ###  Примечания
 
-По умолчанию используется System.Int32.MaxValue, что означает, что будут отображаться все страницы.
+По умолчанию используется System.Int32.MaxValue, что означает, что все страницы будут отображаться.
 
 ###  Пример
 
-В следующем примере показано, как преобразовать диапазон страниц (3 и 4) в файле Excel Microsoft в PDF.
+В следующем примере показано, как преобразовать диапазон страниц (3 и 4) в файле Excel с номером Microsoft в номер PDF.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -45,5 +45,5 @@ def page_count(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [XpsSaveOptions](/cells/python-net/ru/aspose.cells/xpssaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`XpsSaveOptions`](/cells/python-net/ru/aspose.cells/xpssaveoptions)

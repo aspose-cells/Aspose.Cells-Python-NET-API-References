@@ -1,15 +1,15 @@
 ---
-title: lower_right_row 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: lower_right_row属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 790
+weight: 810
 url: /zh/aspose.cells.drawing/radiobutton/lower_right_row/
 is_root: false
 ---
-## lower_right_row 属性
+## lower_right_row属性
 
-表示右下角的行索引。
+代表右下角行索引。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def lower_right_row(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [RadioButton](/cells/python-net/zh/aspose.cells.drawing/radiobutton)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`RadioButton`](/cells/python-net/zh/aspose.cells.drawing/radiobutton)

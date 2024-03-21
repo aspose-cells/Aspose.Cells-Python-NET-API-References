@@ -3,7 +3,7 @@ title: height propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 480
+weight: 490
 url: /fr/aspose.cells.drawing/arcshape/height/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def height(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/fr/aspose.cells.drawing/arcshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/fr/aspose.cells.drawing/arcshape)

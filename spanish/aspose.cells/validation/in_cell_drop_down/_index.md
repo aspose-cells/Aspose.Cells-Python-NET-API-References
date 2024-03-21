@@ -3,7 +3,7 @@ title: in_cell_drop_down propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 210
+weight: 220
 url: /es/aspose.cells/validation/in_cell_drop_down/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def in_cell_drop_down(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Validation](/cells/python-net/es/aspose.cells/validation)
+* módulo [`aspose.cells`](../../)
+* clase [`Validation`](/cells/python-net/es/aspose.cells/validation)

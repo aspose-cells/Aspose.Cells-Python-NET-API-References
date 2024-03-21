@@ -3,7 +3,7 @@ title: hyperlink Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 500
+weight: 510
 url: /de/aspose.cells.drawing/commentshape/hyperlink/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CommentShape](/cells/python-net/de/aspose.cells.drawing/commentshape)
-* Klasse [Hyperlink](/cells/python-net/de/aspose.cells/hyperlink)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CommentShape`](/cells/python-net/de/aspose.cells.drawing/commentshape)
+* Klasse [`Hyperlink`](/cells/python-net/de/aspose.cells/hyperlink)

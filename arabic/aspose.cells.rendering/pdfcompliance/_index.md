@@ -1,27 +1,37 @@
 ---
-title: العد PdfCompliance
+title: PdfCompliance التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 200
 url: /ar/aspose.cells.rendering/pdfcompliance/
 is_root: false
 ---
-##  العد PdfCompliance
+##  PdfCompliance التعداد
 السماح للمستخدم بتعيين توافق التحويل PDF
 
 
 
-يكشف نوع PdfCompliance الأعضاء التالية:
+يكشف النوع PdfCompliance عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | تنسيق pdf عادي|
-| PDF_A1B | تنسيق PDF متوافق مع PDFA-1b|
-| PDF_A1A | تنسيق PDF متوافق مع PDFA-1a|
+| NONE | تنسيق Pdf متوافق مع PDF 1.4|
+| PDF14 | تنسيق Pdf متوافق مع PDF 1.4|
+| PDF15 | تنسيق Pdf متوافق مع PDF 1.5|
+| PDF16 | تنسيق Pdf متوافق مع PDF 1.6|
+| PDF17 | تنسيق Pdf متوافق مع PDF 1.7|
+| PDF_A1B | تنسيق PDF متوافق مع PDF/A-1b (ISO 19005-1)|
+| PDF_A1A | تنسيق PDF متوافق مع PDF/A-1a (ISO 19005-1)|
+| PDF_A2B | تنسيق PDF متوافق مع PDF/A-2b (ISO 19005-2)|
+| PDF_A2U | تنسيق PDF متوافق مع PDF/A-2u (ISO 19005-2)|
+| PDF_A2A | تنسيق PDF متوافق مع PDF/A-2a (ISO 19005-2)|
+| PDF_A3B | تنسيق PDF متوافق مع PDF/A-3b (ISO 19005-3)|
+| PDF_A3U | تنسيق PDF متوافق مع PDF/A-3u (ISO 19005-3)|
+| PDF_A3A | تنسيق PDF متوافق مع PDF/A-3a (ISO 19005-3)|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
+* الوحدة [`aspose.cells.rendering`](..)

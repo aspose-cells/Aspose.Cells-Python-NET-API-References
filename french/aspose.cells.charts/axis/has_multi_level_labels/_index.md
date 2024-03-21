@@ -3,7 +3,7 @@ title: has_multi_level_labels propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 160
+weight: 170
 url: /fr/aspose.cells.charts/axis/has_multi_level_labels/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def has_multi_level_labels(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/fr/aspose.cells.charts/axis)
+* module [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/fr/aspose.cells.charts/axis)

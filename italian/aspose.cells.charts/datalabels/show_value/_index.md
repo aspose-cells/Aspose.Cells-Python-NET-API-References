@@ -3,7 +3,7 @@ title: show_value proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 450
+weight: 440
 url: /it/aspose.cells.charts/datalabels/show_value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/it/aspose.cells.charts/datalabels)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/it/aspose.cells.charts/datalabels)

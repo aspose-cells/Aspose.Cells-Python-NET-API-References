@@ -1,15 +1,15 @@
 ---
-title: auto_show_count الملكية
+title: auto_show_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 180
 url: /ar/aspose.cells.pivot/pivotfield/auto_show_count/
 is_root: false
 ---
-##  auto_show_count الملكية
+##  auto_show_count عقار
 
-تمثل عدد العناصر العلوية أو السفلية
+تمثيل عدد العناصر العلوية أو السفلية
 التي يتم عرضها تلقائيًا في حقل PivotTable المحدد.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def auto_show_count(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

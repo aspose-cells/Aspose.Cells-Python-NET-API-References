@@ -1,13 +1,13 @@
 ---
-title: actual_lower_right_row 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: actual_lower_right_row属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 270
+weight: 290
 url: /zh/aspose.cells.drawing/groupshape/actual_lower_right_row/
 is_root: false
 ---
-## actual_lower_right_row 属性
+## actual_lower_right_row属性
 
 获取实际的底行。
 
@@ -26,5 +26,5 @@ def actual_lower_right_row(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GroupShape](/cells/python-net/zh/aspose.cells.drawing/groupshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GroupShape`](/cells/python-net/zh/aspose.cells.drawing/groupshape)

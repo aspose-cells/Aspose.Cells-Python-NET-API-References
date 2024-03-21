@@ -1,9 +1,9 @@
 ---
 title: printing_page_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ru/aspose.cells/paginatedsaveoptions/printing_page_type/
 is_root: false
 ---
@@ -13,12 +13,12 @@ is_root: false
 
 ###  Примечания
 
-Если содержимое на листе разрежено, некоторые страницы будут полностью пустыми в выходном файле PDF.
-Если вам не нужны эти пустые страницы, вы можете использовать эту опцию, чтобы опустить их.
+Если содержимое листа скудное, некоторые страницы в выходном PDF-файле будут совершенно пустыми.
+Если вам не нужны эти пустые страницы, вы можете использовать эту опцию, чтобы пропустить их.
 
 ###  Пример
 
-Следующий код пропускает пустые страницы или страницы, которые содержат только некоторое содержимое стиля, такое как фон ячейки, границы.
+В следующем коде отсутствуют пустые страницы или страницы, которые содержат только некоторое содержимое стиля, например фон ячейки и границы.
 
 ```python
 from aspose.cells import PdfSaveOptions, PrintingPageType, Workbook
@@ -44,6 +44,6 @@ def printing_page_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PaginatedSaveOptions](/cells/python-net/ru/aspose.cells/paginatedsaveoptions)
-* класс [PrintingPageType](/cells/python-net/ru/aspose.cells/printingpagetype)
+* модуль [`aspose.cells`](../../)
+* класс [`PaginatedSaveOptions`](/cells/python-net/ru/aspose.cells/paginatedsaveoptions)
+* класс [`PrintingPageType`](/cells/python-net/ru/aspose.cells/printingpagetype)

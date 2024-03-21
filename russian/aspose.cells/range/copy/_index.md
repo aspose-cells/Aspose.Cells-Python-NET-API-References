@@ -1,14 +1,14 @@
 ---
 title: copy метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ru/aspose.cells/range/copy/
 is_root: false
 ---
-##  copy(range) {#Range}
-Копирует данные (включая формулы), форматирование, объекты рисования и т. д. из исходного диапазона.
+##  copy {#aspose.cells.Range}
+Копирует данные (включая формулы), форматирование, рисование объектов и т. д. из исходного диапазона.
 
 
 
@@ -20,7 +20,7 @@ def copy(self, range):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/ru/aspose.cells/range) | Источник [Range](/cells/python-net/ru/aspose.cells/range) объект.|
+| range | [`Range`](/cells/python-net/ru/aspose.cells/range) |Исходный объект [`Range`](/cells/python-net/ru/aspose.cells/range).|
 
 ###  Пример
 
@@ -41,7 +41,7 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  copy(range, options) {#Range-PasteOptions}
+##  copy {#aspose.cells.Range-aspose.cells.PasteOptions}
 Копирование диапазона со специальными параметрами вставки.
 
 
@@ -54,11 +54,11 @@ def copy(self, range, options):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/ru/aspose.cells/range) | Исходный диапазон.|
-| options | [PasteOptions](/cells/python-net/ru/aspose.cells/pasteoptions) | Вставить специальные параметры.|
+| range | [`Range`](/cells/python-net/ru/aspose.cells/range) | Исходный диапазон.|
+| options | [`PasteOptions`](/cells/python-net/ru/aspose.cells/pasteoptions) | Специальные параметры пасты.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](../../)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

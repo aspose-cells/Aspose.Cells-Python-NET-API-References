@@ -1,22 +1,22 @@
 ---
-title: source_full_name الملكية
+title: source_full_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /ar/aspose.cells.drawing/oleobject/source_full_name/
 is_root: false
 ---
-##  source_full_name الملكية
+##  source_full_name عقار
 
-إرجاع اسم المصدر الكامل للملف المصدر لكائن OLE المرتبط.
+إرجاع الاسم الكامل للمصدر للملف المصدر لكائن OLE المرتبط.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
+ ملاحظة: هذا العضو قديم الآن. بدلاً من،
 الرجاء استخدام خاصية OleObject.ObjectSourceFullName.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ نوفمبر 2013.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ستتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ نوفمبر 2013.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -28,5 +28,5 @@ def source_full_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

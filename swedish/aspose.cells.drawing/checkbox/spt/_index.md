@@ -3,7 +3,7 @@ title: spt fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 930
+weight: 940
 url: /sv/aspose.cells.drawing/checkbox/spt/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def spt(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CheckBox](/cells/python-net/sv/aspose.cells.drawing/checkbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CheckBox`](/cells/python-net/sv/aspose.cells.drawing/checkbox)

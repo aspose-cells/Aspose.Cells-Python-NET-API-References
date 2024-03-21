@@ -3,7 +3,7 @@ title: is_justify_distributed fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 340
 url: /sv/aspose.cells/style/is_justify_distributed/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def is_justify_distributed(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

@@ -3,14 +3,14 @@ title: doughnut_hole_size propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 120
 url: /fr/aspose.cells.charts/series/doughnut_hole_size/
 is_root: false
 ---
 ##  doughnut_hole_size propriété
 
  Renvoie ou définit la taille du trou dans un groupe de graphiques en anneau.
-La taille du trou est exprimée en pourcentage de la taille du graphique, entre 10 et 90 %.
+La taille du trou est exprimée en pourcentage de la taille du graphique, entre 10 et 90 pour cent.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def doughnut_hole_size(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

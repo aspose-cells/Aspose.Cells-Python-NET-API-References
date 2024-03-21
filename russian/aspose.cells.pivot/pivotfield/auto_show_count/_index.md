@@ -1,9 +1,9 @@
 ---
 title: auto_show_count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 150
+weight: 180
 url: /ru/aspose.cells.pivot/pivotfield/auto_show_count/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def auto_show_count(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotField](/cells/python-net/ru/aspose.cells.pivot/pivotfield)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotField`](/cells/python-net/ru/aspose.cells.pivot/pivotfield)

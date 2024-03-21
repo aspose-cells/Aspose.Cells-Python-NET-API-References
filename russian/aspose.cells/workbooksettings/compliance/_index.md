@@ -1,9 +1,9 @@
 ---
 title: compliance недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 150
+weight: 120
 url: /ru/aspose.cells/workbooksettings/compliance/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [OoxmlCompliance](/cells/python-net/ru/aspose.cells/ooxmlcompliance)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`OoxmlCompliance`](/cells/python-net/ru/aspose.cells/ooxmlcompliance)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

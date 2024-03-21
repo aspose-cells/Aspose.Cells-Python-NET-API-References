@@ -1,14 +1,14 @@
 ---
-title: LookAtType dénombrement
+title: LookAtType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2220
+weight: 2300
 url: /fr/aspose.cells/lookattype/
 is_root: false
 ---
-##  LookAtType dénombrement
-Représente le type de regard.
+##  LookAtType énumération
+Représente le type d'apparence.
 
 
 
@@ -17,12 +17,12 @@ Le type LookAtType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| CONTAINS | Cell valeur Contient l'objet de recherche.|
-| START_WITH | Cell valeur Commence par l'objet de recherche.|
-| END_WITH | La valeur Cell se termine par l'objet de recherche.|
-| ENTIRE_CONTENT | La valeur Cell est la même que celle de l'objet de recherche.|
+| CONTAINS | Valeur Cell Contient l'objet recherché.|
+| START_WITH | Valeur Cell Commence par l'objet recherché.|
+| END_WITH | La valeur Cell se termine par l'objet recherché.|
+| ENTIRE_CONTENT | La valeur Cell est la même que celle de l'objet recherché.|
 
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

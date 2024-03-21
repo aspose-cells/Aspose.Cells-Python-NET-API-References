@@ -3,7 +3,7 @@ title: is_visible fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 170
 url: /sv/aspose.cells/comment/is_visible/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_visible(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Comment](/cells/python-net/sv/aspose.cells/comment)
+* modul [`aspose.cells`](../../)
+* klass [`Comment`](/cells/python-net/sv/aspose.cells/comment)

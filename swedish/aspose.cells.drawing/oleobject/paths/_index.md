@@ -3,7 +3,7 @@ title: paths fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 970
+weight: 980
 url: /sv/aspose.cells.drawing/oleobject/paths/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
-* klass [ShapePathCollection](/cells/python-net/sv/aspose.cells.drawing/shapepathcollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* klass [`ShapePathCollection`](/cells/python-net/sv/aspose.cells.drawing/shapepathcollection)

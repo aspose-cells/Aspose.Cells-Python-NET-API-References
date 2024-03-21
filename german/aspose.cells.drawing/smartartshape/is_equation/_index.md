@@ -3,7 +3,7 @@ title: is_equation Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 520
+weight: 530
 url: /de/aspose.cells.drawing/smartartshape/is_equation/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [SmartArtShape](/cells/python-net/de/aspose.cells.drawing/smartartshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`SmartArtShape`](/cells/python-net/de/aspose.cells.drawing/smartartshape)

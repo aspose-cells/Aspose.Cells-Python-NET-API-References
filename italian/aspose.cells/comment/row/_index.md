@@ -3,7 +3,7 @@ title: row proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 180
+weight: 190
 url: /it/aspose.cells/comment/row/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def row(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Comment](/cells/python-net/it/aspose.cells/comment)
+* modulo [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/it/aspose.cells/comment)

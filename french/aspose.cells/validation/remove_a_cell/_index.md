@@ -1,13 +1,13 @@
 ---
-title: remove_a_cell méthode
+title: méthode remove_a_cell
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 90
 url: /fr/aspose.cells/validation/remove_a_cell/
 is_root: false
 ---
-##  remove_a_cell(row, column) {#int-int}
+##  remove_a_cell {#int-int}
 Supprimez les paramètres de validation dans la cellule.
 
 
@@ -21,10 +21,10 @@ def remove_a_cell(self, row, column):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | row | int | L'index de ligne.|
-| column | int | L'indice de colonne.|
+| column | int | L'index de la colonne.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Validation](/cells/python-net/fr/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* classe [`Validation`](/cells/python-net/fr/aspose.cells/validation)

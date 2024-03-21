@@ -8,8 +8,6 @@ url: /de/aspose.cells.pivot/sxrng/by/
 is_root: false
 ---
 ##  by Eigentum
-
-Stellt das Intervallobjekt für den Gruppenbereich dar.
 ###  Definition:
 ```python
 @property
@@ -18,5 +16,5 @@ def by(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [SxRng](/cells/python-net/de/aspose.cells.pivot/sxrng)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`SxRng`](/cells/python-net/de/aspose.cells.pivot/sxrng)

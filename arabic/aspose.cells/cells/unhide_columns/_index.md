@@ -3,12 +3,12 @@ title: طريقة unhide_columns
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 980
+weight: 970
 url: /ar/aspose.cells/cells/unhide_columns/
 is_root: false
 ---
-##  unhide_columns(column, total_columns, width) {#int-int-float}
-إظهار عدة أعمدة.
+##  unhide_columns {#int-int-float}
+إظهار أعمدة متعددة.
 
 
 
@@ -20,15 +20,15 @@ def unhide_columns(self, column, total_columns, width):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| column | int | فهرس العمود.|
+| column | int | مؤشر العمود.|
 | total_columns | int | رقم العمود|
 | width | float | عرض العمود.|
 ###  ملاحظات
 
-يطبق عرض العمود على الأعمدة المخفية فقط.
+يتم تطبيق عرض العمود على الأعمدة المخفية فقط.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

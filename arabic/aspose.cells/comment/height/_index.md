@@ -1,13 +1,13 @@
 ---
-title: height الملكية
+title: height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells/comment/height/
 is_root: false
 ---
-##  height الملكية
+##  height عقار
 
 يمثل ارتفاع التعليق بوحدة البكسل.
 
@@ -29,5 +29,5 @@ def height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

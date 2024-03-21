@@ -3,13 +3,13 @@ title: gamma mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 70
 url: /tr/aspose.cells.drawing/msoformatpicture/gamma/
 is_root: false
 ---
 ##  gamma mülk
 
-Resmin gamma numarasını temsil eder.
+Resmin gamma'ini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def gamma(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoFormatPicture](/cells/python-net/tr/aspose.cells.drawing/msoformatpicture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoFormatPicture`](/cells/python-net/tr/aspose.cells.drawing/msoformatpicture)

@@ -1,5 +1,5 @@
 ---
-title: MsoFormatPicture الدرجة
+title: MsoFormatPicture صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,29 +7,33 @@ weight: 350
 url: /ar/aspose.cells.drawing/msoformatpicture/
 is_root: false
 ---
-##  MsoFormatPicture الدرجة
+##  MsoFormatPicture صف
 يمثل تنسيق الصورة.
 
 
 
-يكشف نوع MsoFormatPicture الأعضاء التالية:
+يكشف النوع MsoFormatPicture عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [top_crop](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/top_crop) | يمثل موقع الجزء العلوي من مستطيل الاقتصاص معبرًا عنه كنسبة من ارتفاع الصورة.|
-| [bottom_crop](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/bottom_crop) | يمثل موقع الجزء السفلي من مستطيل الاقتصاص معبرًا عنه كنسبة من ارتفاع الصورة.|
-| [left_crop](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/left_crop) | يمثل موقع يسار مستطيل الاقتصاص معبرًا عنه كنسبة من عرض الصورة.|
-| [right_crop](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/right_crop) | يمثل موقع يمين مستطيل الاقتصاص معبرًا عنه كنسبة من عرض الصورة.|
-| [transparency](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/transparency) | إرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (معتم) إلى 1.0 (واضح).|
+| [top_crop_inch](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/top_crop_inch) | يمثل موقع الجزء العلوي من مستطيل الاقتصاص، بوحدة البوصة.|
+| [bottom_crop_inch](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/bottom_crop_inch) | يمثل موقع الجزء السفلي من مستطيل الاقتصاص، بوحدة البوصة.|
+| [left_crop_inch](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/left_crop_inch) | يمثل موقع يسار مستطيل الاقتصاص، بوحدة البوصة.|
+| [right_crop_inch](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/right_crop_inch) | يمثل موقع يمين مستطيل القطع المعبر عنه بوحدة البوصة.|
+| [top_crop](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/top_crop) |يمثل موقع الجزء العلوي من مستطيل الاقتصاص، معبرًا عنه كنسبة من ارتفاع الصورة.|
+| [bottom_crop](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/bottom_crop) | يمثل موقع الجزء السفلي من مستطيل الاقتصاص، معبرًا عنه كنسبة من ارتفاع الصورة.|
+| [left_crop](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/left_crop) | يمثل موقع يسار مستطيل الاقتصاص، معبرًا عنه كنسبة من عرض الصورة.|
+| [right_crop](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/right_crop) | يمثل الموقع على يمين مستطيل الاقتصاص، معبرًا عنه كنسبة من عرض الصورة.|
+| [transparency](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/transparency) |إرجاع أو تعيين درجة شفافية المنطقة كقيمة تتراوح من 0.0 (معتم) إلى 1.0 (واضح).|
 | [transparent_color](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/transparent_color) | الحصول على اللون الشفاف للصورة وتعيينه.|
-| [contrast](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/contrast) | يمثل تعديل التباين للصورة في وحدة النسبة المئوية.|
-| [brightness](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/brightness) | يمثل تعديل سطوع الصورة بوحدة النسبة المئوية.|
-| [gamma](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/gamma) | يمثل جاما للصورة.|
-| [is_bi_level](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/is_bi_level) | يشير إلى ما إذا كان يجب عرض هذه الصورة بلونين أبيض وأسود.|
+| [contrast](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/contrast) | يمثل تعديل التباين للصورة بوحدة النسبة المئوية.|
+| [brightness](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/brightness) | يمثل تعديل السطوع للصورة بوحدة النسبة المئوية.|
+| [gamma](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/gamma) | يمثل جاما الصورة.|
+| [is_bi_level](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/is_bi_level) | يشير إلى ما إذا كان ينبغي عرض هذه الصورة باللونين الأسود والأبيض.|
 | [is_gray](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture/is_gray) | يشير إلى ما إذا كان يجب عرض هذه الصورة بتدرج الرمادي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

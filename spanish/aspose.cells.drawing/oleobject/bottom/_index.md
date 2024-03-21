@@ -3,13 +3,13 @@ title: bottom propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 330
+weight: 350
 url: /es/aspose.cells.drawing/oleobject/bottom/
 is_root: false
 ---
 ##  bottom propiedad
 
-Representa el ancho del desplazamiento vertical de la forma desde su fila de esquina inferior bottom, en unidades de píxeles.
+Representa el ancho del desplazamiento vertical de la forma desde su fila de la esquina inferior bottom, en unidades de píxeles.
 
 ###  Ejemplo
 
@@ -30,5 +30,5 @@ def bottom(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [OleObject](/cells/python-net/es/aspose.cells.drawing/oleobject)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`OleObject`](/cells/python-net/es/aspose.cells.drawing/oleobject)

@@ -1,15 +1,15 @@
 ---
-title: background_mode الملكية
+title: background_mode عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells.charts/ticklabels/background_mode/
 is_root: false
 ---
-##  background_mode الملكية
+##  background_mode عقار
 
-الحصول على وضبط وضع عرض الخلفية
+الحصول على وضع عرض الخلفية وتعيينه
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_mode(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [BackgroundMode](/cells/python-net/ar/aspose.cells.charts/backgroundmode)
-* فئة [TickLabels](/cells/python-net/ar/aspose.cells.charts/ticklabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`BackgroundMode`](/cells/python-net/ar/aspose.cells.charts/backgroundmode)
+* فئة [`TickLabels`](/cells/python-net/ar/aspose.cells.charts/ticklabels)

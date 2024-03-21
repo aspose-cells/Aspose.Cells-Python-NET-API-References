@@ -1,20 +1,20 @@
 ---
-title: parsing_pivot_cached_records الملكية
+title: parsing_pivot_cached_records عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 330
 url: /ar/aspose.cells/txtloadoptions/parsing_pivot_cached_records/
 is_root: false
 ---
-##  parsing_pivot_cached_records الملكية
+##  parsing_pivot_cached_records عقار
 
-يشير إلى ما إذا كان تحليل السجلات المحورية المخزنة مؤقتًا عند تحميل الملف.
+يشير إلى ما إذا كان سيتم تحليل السجلات المحورية المخزنة مؤقتًا عند تحميل الملف.
 القيمة الافتراضية هي كاذبة.
 
 ###  ملاحظات
 
-ينطبق فقط على ملفات Excel Xlsx و Xltx و Xltm و Xlsm و xlsb
+ينطبق فقط على ملفات Excel Xlsx وXltx وXltm وXlsm وxlsb
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def parsing_pivot_cached_records(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TxtLoadOptions](/cells/python-net/ar/aspose.cells/txtloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TxtLoadOptions`](/cells/python-net/ar/aspose.cells/txtloadoptions)

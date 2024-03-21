@@ -1,15 +1,15 @@
 ---
 title: parsing_pivot_cached_records недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 280
+weight: 330
 url: /ru/aspose.cells/txtloadoptions/parsing_pivot_cached_records/
 is_root: false
 ---
 ##  parsing_pivot_cached_records недвижимость
 
-Указывает, выполняется ли разбор сводных кэшированных записей при загрузке файла.
+Указывает, выполняется ли синтаксический анализ сводных кэшированных записей при загрузке файла.
 Значение по умолчанию неверно.
 
 ###  Примечания
@@ -26,5 +26,5 @@ def parsing_pivot_cached_records(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [TxtLoadOptions](/cells/python-net/ru/aspose.cells/txtloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`TxtLoadOptions`](/cells/python-net/ru/aspose.cells/txtloadoptions)

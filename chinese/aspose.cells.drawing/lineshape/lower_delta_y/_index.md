@@ -1,19 +1,19 @@
 ---
-title: lower_delta_y 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: lower_delta_y属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 810
+weight: 820
 url: /zh/aspose.cells.drawing/lineshape/lower_delta_y/
 is_root: false
 ---
-## lower_delta_y 属性
+## lower_delta_y属性
 
-获取或设置形状与其右下角行的垂直偏移量。
+获取或设置形状相对于其右下角行的垂直偏移量。
 
 ### 评论
 
-取值范围为 0 到 256。
+值的范围是0到256。
 
 ### 例子
 
@@ -34,5 +34,5 @@ def lower_delta_y(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [LineShape](/cells/python-net/zh/aspose.cells.drawing/lineshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`LineShape`](/cells/python-net/zh/aspose.cells.drawing/lineshape)

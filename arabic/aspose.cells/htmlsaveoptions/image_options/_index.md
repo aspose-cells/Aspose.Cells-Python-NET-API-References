@@ -1,13 +1,13 @@
 ---
-title: image_options الملكية
+title: image_options عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 430
+weight: 460
 url: /ar/aspose.cells/htmlsaveoptions/image_options/
 is_root: false
 ---
-##  image_options الملكية
+##  image_options عقار
 
 احصل على كائن ImageOrPrintOptions قبل التصدير
 ###  تعريف:
@@ -18,6 +18,6 @@ def image_options(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

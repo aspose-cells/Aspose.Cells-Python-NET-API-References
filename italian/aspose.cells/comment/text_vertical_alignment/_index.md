@@ -3,7 +3,7 @@ title: text_vertical_alignment proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 210
+weight: 220
 url: /it/aspose.cells/comment/text_vertical_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Comment](/cells/python-net/it/aspose.cells/comment)
-* classe [TextAlignmentType](/cells/python-net/it/aspose.cells/textalignmenttype)
+* modulo [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/it/aspose.cells/comment)
+* classe [`TextAlignmentType`](/cells/python-net/it/aspose.cells/textalignmenttype)

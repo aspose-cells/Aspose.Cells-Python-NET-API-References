@@ -1,22 +1,22 @@
 ---
-title: export_object_listener الملكية
+title: export_object_listener عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 300
 url: /ar/aspose.cells/htmlsaveoptions/export_object_listener/
 is_root: false
 ---
-##  export_object_listener الملكية
+##  export_object_listener عقار
 
 الحصول على أو تعيين ExportObjectListener لتصدير الكائنات.
 
 ###  ملاحظات
 
- ملاحظة: هذه الخاصية عفا عليها الزمن الآن. بدلاً من،
-الرجاء استخدام الخاصية HtmlSaveOptions.IStreamProvider.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ أغسطس 2015.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ملاحظة: هذه الخاصية أصبحت الآن قديمة. بدلاً من،
+الرجاء استخدام خاصية HtmlSaveOptions.IStreamProvider.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ أغسطس 2015.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -28,6 +28,6 @@ def export_object_listener(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
-* فئة [IExportObjectListener](/cells/python-net/ar/aspose.cells/iexportobjectlistener)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* فئة [`IExportObjectListener`](/cells/python-net/ar/aspose.cells/iexportobjectlistener)

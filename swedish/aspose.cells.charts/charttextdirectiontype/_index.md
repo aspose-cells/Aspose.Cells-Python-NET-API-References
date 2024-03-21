@@ -3,7 +3,7 @@ title: ChartTextDirectionType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 450
 url: /sv/aspose.cells.charts/charttextdirectiontype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ Typen ChartTextDirectionType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

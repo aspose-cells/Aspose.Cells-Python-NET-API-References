@@ -1,15 +1,15 @@
 ---
-title: is_printable الملكية
+title: is_printable عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 630
+weight: 650
 url: /ar/aspose.cells.drawing/radiobutton/is_printable/
 is_root: false
 ---
-##  is_printable الملكية
+##  is_printable عقار
 
-صحيح إذا كان الكائن قابل للطباعة
+صحيح إذا كان الكائن قابلاً للطباعة
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

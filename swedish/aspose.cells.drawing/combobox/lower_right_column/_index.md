@@ -3,7 +3,7 @@ title: lower_right_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 770
+weight: 780
 url: /sv/aspose.cells.drawing/combobox/lower_right_column/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def lower_right_column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ComboBox](/cells/python-net/sv/aspose.cells.drawing/combobox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ComboBox`](/cells/python-net/sv/aspose.cells.drawing/combobox)

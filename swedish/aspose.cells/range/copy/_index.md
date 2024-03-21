@@ -3,11 +3,11 @@ title: copy metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 40
+weight: 50
 url: /sv/aspose.cells/range/copy/
 is_root: false
 ---
-##  copy(range) {#Range}
+##  copy {#aspose.cells.Range}
 Kopierar data (inklusive formler), formatering, rita objekt etc. från ett källområde.
 
 
@@ -20,7 +20,7 @@ def copy(self, range):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/sv/aspose.cells/range) | Källa [Range](/cells/python-net/sv/aspose.cells/range) objekt.|
+| range | [`Range`](/cells/python-net/sv/aspose.cells/range) |Källa [`Range`](/cells/python-net/sv/aspose.cells/range) objekt.|
 
 ###  Exempel
 
@@ -41,7 +41,7 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  copy(range, options) {#Range-PasteOptions}
+##  copy {#aspose.cells.Range-aspose.cells.PasteOptions}
 Kopiera intervallet med specialalternativ för klistra in.
 
 
@@ -54,11 +54,11 @@ def copy(self, range, options):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/sv/aspose.cells/range) | Källomfånget.|
-| options | [PasteOptions](/cells/python-net/sv/aspose.cells/pasteoptions) | Klistra specialalternativ.|
+| range | [`Range`](/cells/python-net/sv/aspose.cells/range) | Källomfånget.|
+| options | [`PasteOptions`](/cells/python-net/sv/aspose.cells/pasteoptions) | Klistra specialalternativ.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

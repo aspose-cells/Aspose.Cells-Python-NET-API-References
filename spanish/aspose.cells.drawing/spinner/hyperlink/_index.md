@@ -3,7 +3,7 @@ title: hyperlink propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 500
+weight: 510
 url: /es/aspose.cells.drawing/spinner/hyperlink/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Hyperlink](/cells/python-net/es/aspose.cells/hyperlink)
-* clase [Spinner](/cells/python-net/es/aspose.cells.drawing/spinner)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Hyperlink`](/cells/python-net/es/aspose.cells/hyperlink)
+* clase [`Spinner`](/cells/python-net/es/aspose.cells.drawing/spinner)

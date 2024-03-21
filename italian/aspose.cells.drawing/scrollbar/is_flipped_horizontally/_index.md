@@ -3,7 +3,7 @@ title: is_flipped_horizontally proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 560
+weight: 570
 url: /it/aspose.cells.drawing/scrollbar/is_flipped_horizontally/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_flipped_horizontally(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ScrollBar](/cells/python-net/it/aspose.cells.drawing/scrollbar)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ScrollBar`](/cells/python-net/it/aspose.cells.drawing/scrollbar)

@@ -3,17 +3,17 @@ title: get metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 300
 url: /sv/aspose.cells/cells/get/
 is_root: false
 ---
-##  get(cell_name) {#str}
+##  get {#str}
 Lägg till API for Python Via .Net.eftersom denna [sträng cellnamn] inte stöds
 
 
 ###  Returnerar
 
-Ett [Cell](/cells/python-net/sv/aspose.cells/cell) objekt
+Ett [`Cell`](/cells/python-net/sv/aspose.cells/cell) objekt
 
 
 ```python
@@ -27,13 +27,13 @@ def get(self, cell_name):
 | cell_name | str | Cell namn, inklusive dess kolumnbokstav och radnummer, till exempel A5.|
 
 
-##  get(row, column) {#int-int}
+##  get {#int-int}
 Lägg till API for Python Via .Net.eftersom denna [int rad, int kolumn] inte stöds
 
 
 ###  Returnerar
 
-Objektet [Cell](/cells/python-net/sv/aspose.cells/cell).
+Objektet [`Cell`](/cells/python-net/sv/aspose.cells/cell).
 
 
 ```python
@@ -50,6 +50,6 @@ def get(self, row, column):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

@@ -1,15 +1,15 @@
 ---
-title: create_id الملكية
+title: create_id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 370
 url: /ar/aspose.cells.drawing/arcshape/create_id/
 is_root: false
 ---
-##  create_id الملكية
+##  create_id عقار
 
-يحصل ويخلق مجموعات معرّف لهذا الشكل.
+يحصل ويحدد معرفًا لهذا الشكل.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def create_id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ArcShape](/cells/python-net/ar/aspose.cells.drawing/arcshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ArcShape`](/cells/python-net/ar/aspose.cells.drawing/arcshape)

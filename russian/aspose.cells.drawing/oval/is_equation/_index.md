@@ -1,9 +1,9 @@
 ---
 title: is_equation недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 520
+weight: 530
 url: /ru/aspose.cells.drawing/oval/is_equation/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Oval](/cells/python-net/ru/aspose.cells.drawing/oval)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Oval`](/cells/python-net/ru/aspose.cells.drawing/oval)

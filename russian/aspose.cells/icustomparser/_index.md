@@ -1,26 +1,26 @@
 ---
 title: ICustomParser класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 830
+weight: 870
 url: /ru/aspose.cells/icustomparser/
 is_root: false
 ---
 ##  ICustomParser класс
-Позволяет пользователям добавлять свой собственный анализатор значений для анализа строковых значений в другой правильный объект значения ячейки.
+Позволяет пользователям добавлять свой собственный анализатор значений для анализа строковых значений в другой соответствующий объект значения ячейки.
 
 
 
-Тип ICustomParser предоставляет следующие члены:
+Тип ICustomParser предоставляет следующие элементы:
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [parse_object(value)](/cells/python-net/ru/aspose.cells/icustomparser/parse_object/#str) | Разбирает заданную строку на правильный объект значения.|
-| [get_format()](/cells/python-net/ru/aspose.cells/icustomparser/get_format/#) |Получает шаблон форматирования, соответствующий проанализированному значению при последнем вызове [ICustomParser.parse_object(value)](/cells/python-net/ru/aspose.cells/icustomparser/parse_object).|
+| [parse_object](/cells/python-net/ru/aspose.cells/icustomparser/parse_object/#str) | Анализирует данную строку, чтобы получить правильный объект значения.|
+| [get_format](/cells/python-net/ru/aspose.cells/icustomparser/get_format/#) | Получает шаблон форматирования, соответствующий анализируемому значению при последнем вызове [`ICustomParser.parse_object`](/cells/python-net/ru/aspose.cells/icustomparser/parse_object).|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

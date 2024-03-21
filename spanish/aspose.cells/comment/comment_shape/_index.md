@@ -3,13 +3,13 @@ title: comment_shape propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 90
+weight: 100
 url: /es/aspose.cells/comment/comment_shape/
 is_root: false
 ---
 ##  comment_shape propiedad
 
-Obtenga un objeto Shape que represente la forma adjunta al comentario especificado.
+Obtiene un objeto Shape que representa la forma adjunta al comentario especificado.
 
 ###  Ejemplo
 
@@ -28,6 +28,6 @@ def comment_shape(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Comment](/cells/python-net/es/aspose.cells/comment)
-* clase [CommentShape](/cells/python-net/es/aspose.cells.drawing/commentshape)
+* módulo [`aspose.cells`](../../)
+* clase [`Comment`](/cells/python-net/es/aspose.cells/comment)
+* clase [`CommentShape`](/cells/python-net/es/aspose.cells.drawing/commentshape)

@@ -3,13 +3,13 @@ title: SheetRender clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 100
+weight: 120
 url: /es/aspose.cells.rendering/sheetrender/
 is_root: false
 ---
 ##  SheetRender clase
-Representa un procesamiento de hoja de trabajo que puede representar la hoja de trabajo en varias imágenes como (BMP, PNG, JPEG, TIFF...)
-El constructor de esta clase debe usarse después de la modificación de la configuración de página, estilo de celda.
+Representa una representación de una hoja de trabajo que puede representar una hoja de trabajo en varias imágenes, como (BMP, PNG, JPEG, TIFF..)
+El constructor de esta clase debe usarse después de modificar la configuración de página y el estilo de celda.
 
 
 
@@ -18,32 +18,33 @@ El tipo SheetRender expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [SheetRender(worksheet, options)](/cells/python-net/es/aspose.cells.rendering/sheetrender/__init__/#Worksheet-ImageOrPrintOptions) | la construcción de SheetRender, necesita hoja de trabajo e ImageOrPrintOptions como parámetros|
+| [__init__](/cells/python-net/es/aspose.cells.rendering/sheetrender/__init__/#aspose.cells.Worksheet-aspose.cells.rendering.ImageOrPrintOptions) | la construcción de SheetRender, necesita hoja de trabajo e ImageOrPrintOptions como parámetros|
 
 
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [page_count](/cells/python-net/es/aspose.cells.rendering/sheetrender/page_count) | Obtiene el recuento total de páginas de la hoja de cálculo actual.|
-| [page_scale](/cells/python-net/es/aspose.cells.rendering/sheetrender/page_scale) | Obtiene la escala de página calculada de la hoja.<br/> Devuelve la escala establecida si se establece [PageSetup.zoom](/cells/python-net/es/aspose.cells/pagesetup#zoom). De lo contrario, devuelve la escala calculada según [PageSetup.fit_to_pages_wide](/cells/python-net/es/aspose.cells/pagesetup#fit_to_pages_wide) y [PageSetup.fit_to_pages_tall](/cells/python-net/es/aspose.cells/pagesetup#fit_to_pages_tall).|
+| [page_count](/cells/python-net/es/aspose.cells.rendering/sheetrender/page_count) | Obtiene el recuento total de páginas de la hoja de trabajo actual.|
+| [page_scale](/cells/python-net/es/aspose.cells.rendering/sheetrender/page_scale) | Obtiene la escala de página calculada de la hoja.<br/> Devuelve la escala establecida si se establece [`PageSetup.zoom`](/cells/python-net/es/aspose.cells/pagesetup#zoom). En caso contrario, devuelve la escala calculada según [`PageSetup.fit_to_pages_wide`](/cells/python-net/es/aspose.cells/pagesetup#fit_to_pages_wide) y [`PageSetup.fit_to_pages_tall`](/cells/python-net/es/aspose.cells/pagesetup#fit_to_pages_tall).|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [to_image(page_index, file_name)](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_image/#int-str) | Renderizar cierta página a un archivo.|
-| [to_image(page_index, stream)](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_image/#int-io.RawIOBase) | Renderizar cierta página a una secuencia.|
-| [to_tiff(stream)](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_tiff/#io.RawIOBase) | Renderice toda la hoja de trabajo como imagen Tiff para transmitir.|
-| [to_tiff(filename)](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_tiff/#str) | Renderice toda la hoja de trabajo como imagen Tiff en un archivo.|
-| [to_printer(printer_name)](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_printer/#str) | Renderizar la hoja de trabajo a la impresora|
-| [to_printer(printer_name, job_name)](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_printer/#str-str) | Renderizar la hoja de trabajo a la impresora|
-| [to_printer(printer_settings)](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_printer/#aspose.pydrawing.printing.PrinterSettings) | Renderizar la hoja de trabajo a la impresora|
-| [to_printer(printer_settings, job_name)](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_printer/#aspose.pydrawing.printing.PrinterSettings-str) | Renderizar la hoja de trabajo a la impresora|
-| [to_printer(printer_name, print_page_index, print_page_count)](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_printer/#str-int-int) | Renderizar la hoja de trabajo a la impresora|
-| [get_page_size_inch(page_index)](/cells/python-net/es/aspose.cells.rendering/sheetrender/get_page_size_inch/#int) |Obtenga el tamaño de página en pulgadas de la imagen de salida.|
-| [custom_print(next_page_after_print, print_page_event_args)](/cells/python-net/es/aspose.cells.rendering/sheetrender/custom_print/#bool-aspose.pydrawing.printing.PrintPageEventArgs) | El cliente puede controlar la configuración de la página de la impresora cuando imprima cada página usando esta función.|
+| [to_image](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_image/#int-str) |Renderiza cierta página en un archivo.|
+| [to_image](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_image/#int-io.RawIOBase) | Renderiza cierta página en una secuencia.|
+| [to_tiff](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_tiff/#io.RawIOBase) | Renderice toda la hoja de trabajo como imagen Tiff para transmitirla.|
+| [to_tiff](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_tiff/#str) | Renderice toda la hoja de trabajo como imagen Tiff en un archivo.|
+| [to_printer](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_printer/#str) | Renderizar hoja de trabajo a impresora|
+| [to_printer](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_printer/#str-str) | Renderizar hoja de trabajo a impresora|
+| [to_printer](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_printer/#aspose.pydrawing.printing.PrinterSettings) | Renderizar hoja de trabajo a impresora|
+| [to_printer](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_printer/#aspose.pydrawing.printing.PrinterSettings-str) | Renderizar hoja de trabajo a impresora|
+| [to_printer](/cells/python-net/es/aspose.cells.rendering/sheetrender/to_printer/#str-int-int) | Renderizar hoja de trabajo a impresora|
+| [get_page_size_inch](/cells/python-net/es/aspose.cells.rendering/sheetrender/get_page_size_inch/#int) | Obtenga el tamaño de página en pulgadas de la imagen de salida.|
+| [custom_print](/cells/python-net/es/aspose.cells.rendering/sheetrender/custom_print/#bool-aspose.pydrawing.printing.PrintPageEventArgs) | El cliente puede controlar la configuración de página de la impresora cuando imprime cada página usando esta función.|
+| [dispose](/cells/python-net/es/aspose.cells.rendering/sheetrender/dispose/#) | Libera recursos creados y utilizados para la renderización.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.rendering](..)
+* módulo [`aspose.cells.rendering`](..)

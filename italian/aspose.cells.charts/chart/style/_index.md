@@ -3,13 +3,13 @@ title: style proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 580
+weight: 610
 url: /it/aspose.cells.charts/chart/style/
 is_root: false
 ---
 ##  style proprietà
 
-Ottiene e imposta il valore predefinito style.
+Ottiene e imposta il codice integrato style.
 
 ###  Osservazioni
 
@@ -26,5 +26,5 @@ def style(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)

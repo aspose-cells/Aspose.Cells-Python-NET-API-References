@@ -3,13 +3,13 @@ title: height_inch proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 130
+weight: 140
 url: /it/aspose.cells/comment/height_inch/
 is_root: false
 ---
 ##  height_inch proprietà
 
-Rappresenta l'altezza del commento, in pollici.
+Rappresenta l'altezza del commento, in unità di pollici.
 
 ###  Esempio
 
@@ -29,5 +29,5 @@ def height_inch(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Comment](/cells/python-net/it/aspose.cells/comment)
+* modulo [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/it/aspose.cells/comment)

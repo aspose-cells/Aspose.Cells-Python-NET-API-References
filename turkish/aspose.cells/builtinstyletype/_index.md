@@ -3,7 +3,7 @@ title: BuiltinStyleType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1800
+weight: 1870
 url: /tr/aspose.cells/builtinstyletype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Tüm yerleşik stil türlerini temsil eder.
 
 
 
-BuiltinStyleType türü aşağıdaki üyeleri gösterir:
+BuiltinStyleType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | TWENTY_PERCENT_ACCENT1 |  |
@@ -72,4 +72,4 @@ BuiltinStyleType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

@@ -1,9 +1,9 @@
 ---
 title: selected_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 900
+weight: 910
 url: /ru/aspose.cells.drawing/combobox/selected_value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def selected_value(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ComboBox](/cells/python-net/ru/aspose.cells.drawing/combobox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ComboBox`](/cells/python-net/ru/aspose.cells.drawing/combobox)

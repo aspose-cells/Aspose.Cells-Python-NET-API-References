@@ -3,7 +3,7 @@ title: SheetType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2460
+weight: 2550
 url: /tr/aspose.cells/sheettype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ is_root: false
 
 
 
-SheetType türü aşağıdaki üyeleri gösterir:
+SheetType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | VB | Visual Basic modülü|
@@ -28,4 +28,4 @@ SheetType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

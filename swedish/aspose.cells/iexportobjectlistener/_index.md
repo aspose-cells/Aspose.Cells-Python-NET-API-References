@@ -3,7 +3,7 @@ title: IExportObjectListener klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 840
+weight: 880
 url: /sv/aspose.cells/iexportobjectlistener/
 is_root: false
 ---
@@ -17,9 +17,9 @@ Typen IExportObjectListener avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [export_object(e)](/cells/python-net/sv/aspose.cells/iexportobjectlistener/export_object/#ExportObjectEvent) | Exportera ett objekt.|
+| [export_object](/cells/python-net/sv/aspose.cells/iexportobjectlistener/export_object/#aspose.cells.ExportObjectEvent) | Exportera ett objekt.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: linked_cell proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 750
+weight: 760
 url: /it/aspose.cells.drawing/groupshape/linked_cell/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GroupShape](/cells/python-net/it/aspose.cells.drawing/groupshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/it/aspose.cells.drawing/groupshape)

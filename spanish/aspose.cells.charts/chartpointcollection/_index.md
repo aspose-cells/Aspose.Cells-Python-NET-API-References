@@ -3,7 +3,7 @@ title: ChartPointCollection clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 100
+weight: 110
 url: /es/aspose.cells.charts/chartpointcollection/
 is_root: false
 ---
@@ -21,19 +21,19 @@ El tipo ChartPointCollection expone los siguientes miembros:
 
 
 
-Obtiene el elemento [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartpoint) en el índice especificado de la serie.
+Obtiene el elemento [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint) en el índice especificado de la serie.
 ###  indexador
 | Nombre| Descripción|
 | :- | :- |
-| [index] | El índice del punto del gráfico en la serie.|
+| [index] | El índice del punto del gráfico de la serie.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [get_enumerator()](/cells/python-net/es/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Devuelve un enumerador para todo el [ChartPointCollection](/cells/python-net/es/aspose.cells.charts/chartpointcollection).|
-| [clear()](/cells/python-net/es/aspose.cells.charts/chartpointcollection/clear/#) | Elimina todos los ajustes de los puntos del gráfico.|
-| [remove_at(index)](/cells/python-net/es/aspose.cells.charts/chartpointcollection/remove_at/#int) | Quita el punto en el índice de la serie..|
+| [get_enumerator](/cells/python-net/es/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Devuelve un enumerador para todo el [`ChartPointCollection`](/cells/python-net/es/aspose.cells.charts/chartpointcollection).|
+| [clear](/cells/python-net/es/aspose.cells.charts/chartpointcollection/clear/#) | Elimine todos los ajustes de los puntos del gráfico.|
+| [remove_at](/cells/python-net/es/aspose.cells.charts/chartpointcollection/remove_at/#int) | Elimina punto en el índice de la serie.|
 
 
 
@@ -82,6 +82,6 @@ workbook.save("book1.xls")
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
-* clase [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartpoint)
-* clase [ChartPointCollection](/cells/python-net/es/aspose.cells.charts/chartpointcollection)
+* módulo [`aspose.cells.charts`](..)
+* clase [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint)
+* clase [`ChartPointCollection`](/cells/python-net/es/aspose.cells.charts/chartpointcollection)

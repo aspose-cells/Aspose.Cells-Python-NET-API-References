@@ -7,8 +7,8 @@ weight: 30
 url: /de/aspose.cells.charts/seriescollection/add_r1c1/
 is_root: false
 ---
-##  add_r1c1(area, is_vertical) {#str-bool}
-Fügt die Sammlung [SeriesCollection](/cells/python-net/de/aspose.cells.charts/seriescollection) einem Diagramm hinzu.
+##  add_r1c1 {#str-bool}
+Fügt die Sammlung [`Series`](/cells/python-net/de/aspose.cells.charts/series) einem Diagramm hinzu.
 
 
 ###  Kehrt zurück
@@ -24,8 +24,8 @@ def add_r1c1(self, area, is_vertical):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| area | str | Gibt Werte an, aus denen die Datenreihe gezeichnet werden soll|
-| is_vertical | bool | Gibt an, ob die Reihe aus einem Bereich von Zellenwerten zeilen- oder spaltenweise dargestellt werden soll.|
+| area | str | Gibt Werte an, anhand derer die Datenreihe dargestellt werden soll|
+| is_vertical | bool |Gibt an, ob die Reihe aus einem Bereich von Zellwerten zeilen- oder spaltenweise dargestellt werden soll.|
 ###  Bemerkungen
 
 
@@ -33,5 +33,6 @@ def add_r1c1(self, area, is_vertical):
 
 ###  Siehe auch
 
-* Modul [aspose.cells.charts](../../)
-* Klasse [SeriesCollection](/cells/python-net/de/aspose.cells.charts/seriescollection)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)
+* Klasse [`SeriesCollection`](/cells/python-net/de/aspose.cells.charts/seriescollection)

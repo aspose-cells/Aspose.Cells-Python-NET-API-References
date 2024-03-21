@@ -3,7 +3,7 @@ title: EncryptionType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2000
+weight: 2070
 url: /de/aspose.cells/encryptiontype/
 is_root: false
 ---
@@ -20,11 +20,11 @@ Der Typ EncryptionType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | XOR |  |
-| COMPATIBLE | Kompatibel mit Office 97/2000.|
+| COMPATIBLE |Kompatibel mit Office 97/2000.|
 | ENHANCED_CRYPTOGRAPHIC_PROVIDER_V1 |  |
 | STRONG_CRYPTOGRAPHIC_PROVIDER |  |
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

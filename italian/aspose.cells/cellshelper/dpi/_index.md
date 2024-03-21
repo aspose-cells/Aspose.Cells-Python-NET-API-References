@@ -3,7 +3,7 @@ title: dpi proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 220
+weight: 230
 url: /it/aspose.cells/cellshelper/dpi/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def dpi(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CellsHelper](/cells/python-net/it/aspose.cells/cellshelper)
+* modulo [`aspose.cells`](../../)
+* classe [`CellsHelper`](/cells/python-net/it/aspose.cells/cellshelper)

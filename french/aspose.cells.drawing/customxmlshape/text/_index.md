@@ -3,7 +3,7 @@ title: text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 910
+weight: 920
 url: /fr/aspose.cells.drawing/customxmlshape/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [CustomXmlShape](/cells/python-net/fr/aspose.cells.drawing/customxmlshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`CustomXmlShape`](/cells/python-net/fr/aspose.cells.drawing/customxmlshape)

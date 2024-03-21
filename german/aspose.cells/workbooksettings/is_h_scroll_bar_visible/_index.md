@@ -3,13 +3,13 @@ title: is_h_scroll_bar_visible Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 290
+weight: 240
 url: /de/aspose.cells/workbooksettings/is_h_scroll_bar_visible/
 is_root: false
 ---
 ##  is_h_scroll_bar_visible Eigentum
 
-Ruft einen Wert ab, der angibt, ob das generierte Arbeitsblatt eine horizontale Bildlaufleiste enthält, oder legt diesen fest.
+Ruft einen Wert ab, der angibt, ob die generierte Tabelle eine horizontale Bildlaufleiste enthält, oder legt diesen fest.
 
 ###  Bemerkungen
 
@@ -36,5 +36,5 @@ def is_h_scroll_bar_visible(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorkbookSettings](/cells/python-net/de/aspose.cells/workbooksettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookSettings`](/cells/python-net/de/aspose.cells/workbooksettings)

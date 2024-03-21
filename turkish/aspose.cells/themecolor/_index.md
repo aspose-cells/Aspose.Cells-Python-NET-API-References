@@ -3,7 +3,7 @@ title: ThemeColor sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1430
+weight: 1500
 url: /tr/aspose.cells/themecolor/
 is_root: false
 ---
@@ -12,12 +12,12 @@ Bir tema rengini temsil eder.
 
 
 
-ThemeColor türü aşağıdaki üyeleri gösterir:
+ThemeColor türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [ThemeColor(type, tint)](/cells/python-net/tr/aspose.cells/themecolor/__init__/#ThemeColorType-float) |  |
+| [__init__](/cells/python-net/tr/aspose.cells/themecolor/__init__/#aspose.cells.ThemeColorType-float) |  |
 
 
 ###  Özellikler
@@ -50,4 +50,4 @@ workbook.save("book1.xlsx")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

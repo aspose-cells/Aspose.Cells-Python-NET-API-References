@@ -3,7 +3,7 @@ title: is_font_substitution_char_granularity fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 180
 url: /sv/aspose.cells/pptxsaveoptions/is_font_substitution_char_granularity/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def is_font_substitution_char_granularity(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PptxSaveOptions](/cells/python-net/sv/aspose.cells/pptxsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PptxSaveOptions`](/cells/python-net/sv/aspose.cells/pptxsaveoptions)

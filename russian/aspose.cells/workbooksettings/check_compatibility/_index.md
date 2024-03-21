@@ -1,15 +1,15 @@
 ---
 title: check_compatibility недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 120
+weight: 90
 url: /ru/aspose.cells/workbooksettings/check_compatibility/
 is_root: false
 ---
 ##  check_compatibility недвижимость
 
-Указывает, следует ли проверять совместимость с более ранними версиями при сохранении книги.
+Указывает, нужно ли проверять совместимость с более ранними версиями при сохранении книги.
 
 ###  Примечания
 
@@ -26,5 +26,5 @@ def check_compatibility(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

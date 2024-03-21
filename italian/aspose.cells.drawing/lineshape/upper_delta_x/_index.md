@@ -3,17 +3,17 @@ title: upper_delta_x proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /it/aspose.cells.drawing/lineshape/upper_delta_x/
 is_root: false
 ---
 ##  upper_delta_x proprietà
 
-Ottiene o imposta l'offset orizzontale della forma rispetto alla colonna dell'angolo superiore sinistro.
+Ottiene o imposta l'offset orizzontale della forma dalla colonna dell'angolo superiore sinistro.
 
 ###  Osservazioni
 
-L'intervallo di valori va da 0 a 1024.
+L'intervallo di valori è compreso tra 0 e 1024.
 
 ###  Esempio
 
@@ -34,5 +34,5 @@ def upper_delta_x(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [LineShape](/cells/python-net/it/aspose.cells.drawing/lineshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`LineShape`](/cells/python-net/it/aspose.cells.drawing/lineshape)

@@ -1,9 +1,9 @@
 ---
 title: height недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ru/aspose.cells/comment/height/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def height(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)

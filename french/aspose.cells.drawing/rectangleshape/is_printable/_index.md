@@ -3,7 +3,7 @@ title: is_printable propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 610
+weight: 620
 url: /fr/aspose.cells.drawing/rectangleshape/is_printable/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RectangleShape](/cells/python-net/fr/aspose.cells.drawing/rectangleshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RectangleShape`](/cells/python-net/fr/aspose.cells.drawing/rectangleshape)

@@ -3,7 +3,7 @@ title: is_default_pos_be_set mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 210
 url: /tr/aspose.cells.charts/legend/is_default_pos_be_set/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_default_pos_be_set(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Legend](/cells/python-net/tr/aspose.cells.charts/legend)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Legend`](/cells/python-net/tr/aspose.cells.charts/legend)

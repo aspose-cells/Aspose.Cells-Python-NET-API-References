@@ -3,7 +3,7 @@ title: three_d_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /sv/aspose.cells.drawing/groupshape/three_d_format/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def three_d_format(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GroupShape](/cells/python-net/sv/aspose.cells.drawing/groupshape)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GroupShape`](/cells/python-net/sv/aspose.cells.drawing/groupshape)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

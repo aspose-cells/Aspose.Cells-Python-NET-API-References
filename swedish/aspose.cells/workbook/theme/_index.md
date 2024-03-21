@@ -3,7 +3,7 @@ title: theme fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 650
+weight: 660
 url: /sv/aspose.cells/workbook/theme/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def theme(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

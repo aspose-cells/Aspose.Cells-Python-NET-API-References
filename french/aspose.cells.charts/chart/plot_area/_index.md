@@ -3,13 +3,13 @@ title: plot_area propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 420
+weight: 450
 url: /fr/aspose.cells.charts/chart/plot_area/
 is_root: false
 ---
 ##  plot_area propriété
 
-Obtient la zone de traçage du graphique qui inclut les étiquettes de graduation des axes.
+Obtient la zone de tracé du graphique qui inclut les étiquettes de graduation des axes.
 
 ###  Remarques
 
@@ -22,6 +22,6 @@ def plot_area(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
-* classe [PlotArea](/cells/python-net/fr/aspose.cells.charts/plotarea)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)
+* classe [`PlotArea`](/cells/python-net/fr/aspose.cells.charts/plotarea)

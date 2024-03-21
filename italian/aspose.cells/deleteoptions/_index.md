@@ -1,31 +1,31 @@
 ---
-title: classe DeleteOptions
+title: DeleteOptions classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 470
+weight: 490
 url: /it/aspose.cells/deleteoptions/
 is_root: false
 ---
-##  classe DeleteOptions
+##  DeleteOptions classe
 Rappresenta l'impostazione di eliminazione di righe/colonne.
 
 
 
-Il tipo DeleteOptions espone i membri seguenti:
+Il tipo DeleteOptions espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [DeleteOptions()](/cells/python-net/it/aspose.cells/deleteoptions/__init__/#) | Costruisce una nuova istanza di DeleteOptions|
+| [__init__](/cells/python-net/it/aspose.cells/deleteoptions/__init__/#) | Costruisce una nuova istanza di DeleteOptions|
 
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [update_reference](/cells/python-net/it/aspose.cells/deleteoptions/update_reference) | Indica se aggiornare i riferimenti in altri fogli di lavoro.|
+| [update_reference](/cells/python-net/it/aspose.cells/deleteoptions/update_reference) |Indica se aggiornare i riferimenti in altri fogli di lavoro.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

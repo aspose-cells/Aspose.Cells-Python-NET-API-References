@@ -1,9 +1,9 @@
 ---
 title: ChartPointCollection类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 100
+weight: 110
 url: /zh/aspose.cells.charts/chartpointcollection/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-ChartPointCollection 类型公开了以下成员：
+ChartPointCollection 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -21,7 +21,7 @@ ChartPointCollection 类型公开了以下成员：
 
 
 
-获取系列中指定索引处的 [ChartPoint](/cells/python-net/zh/aspose.cells.charts/chartpoint) 元素。
+获取系列中指定索引处的 [`ChartPoint`](/cells/python-net/zh/aspose.cells.charts/chartpoint) 元素。
 ### 索引器
 |名称|描述|
 | :- | :- |
@@ -31,9 +31,9 @@ ChartPointCollection 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [get_enumerator()](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/get_enumerator/#) |返回整个 [ChartPointCollection](/cells/python-net/zh/aspose.cells.charts/chartpointcollection) 的枚举器。|
-| [clear()](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/clear/#) |删除图表点的所有设置。|
-| [remove_at(index)](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/remove_at/#int) |删除系列索引处的点..|
+| [get_enumerator](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/get_enumerator/#) |返回整个 [`ChartPointCollection`](/cells/python-net/zh/aspose.cells.charts/chartpointcollection) 的枚举数。|
+| [clear](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/clear/#) |删除图表点的所有设置。|
+| [remove_at](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/remove_at/#int) |删除系列索引处的点..|
 
 
 
@@ -82,6 +82,6 @@ workbook.save("book1.xls")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
-* 类 [ChartPoint](/cells/python-net/zh/aspose.cells.charts/chartpoint)
-* 类 [ChartPointCollection](/cells/python-net/zh/aspose.cells.charts/chartpointcollection)
+* 模块[`aspose.cells.charts`](..)
+* 类 [`ChartPoint`](/cells/python-net/zh/aspose.cells.charts/chartpoint)
+* 类 [`ChartPointCollection`](/cells/python-net/zh/aspose.cells.charts/chartpointcollection)

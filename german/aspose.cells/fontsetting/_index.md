@@ -3,7 +3,7 @@ title: FontSetting Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 670
+weight: 700
 url: /de/aspose.cells/fontsetting/
 is_root: false
 ---
@@ -17,15 +17,15 @@ Der Typ FontSetting macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [FontSetting(start_index, length, sheets)](/cells/python-net/de/aspose.cells/fontsetting/__init__/#int-int-WorksheetCollection) |  |
+| [__init__](/cells/python-net/de/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
 
 
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
 | [type](/cells/python-net/de/aspose.cells/fontsetting/type) | Ruft den Typ des Textknotens ab.|
-| [start_index](/cells/python-net/de/aspose.cells/fontsetting/start_index) | Ruft den Startindex der Zeichen ab.|
-| [length](/cells/python-net/de/aspose.cells/fontsetting/length) |Ruft die Länge der Zeichen ab.|
+| [start_index](/cells/python-net/de/aspose.cells/fontsetting/start_index) |Ruft den Startindex der Zeichen ab.|
+| [length](/cells/python-net/de/aspose.cells/fontsetting/length) | Ruft die Länge der Zeichen ab.|
 | [font](/cells/python-net/de/aspose.cells/fontsetting/font) | Gibt die Schriftart dieses Objekts zurück.|
 | [text_options](/cells/python-net/de/aspose.cells/fontsetting/text_options) | Gibt die Textoptionen zurück.|
 
@@ -33,7 +33,7 @@ Der Typ FontSetting macht die folgenden Member verfügbar:
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [set_word_art_style(style)](/cells/python-net/de/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Legt den voreingestellten WordArt-Stil fest.|
+| [set_word_art_style](/cells/python-net/de/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Legt den voreingestellten WordArt-Stil fest.|
 
 
 
@@ -65,4 +65,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

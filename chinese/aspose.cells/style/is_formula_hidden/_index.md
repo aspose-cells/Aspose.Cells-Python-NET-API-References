@@ -1,15 +1,15 @@
 ---
-title: is_formula_hidden 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_formula_hidden属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 280
+weight: 320
 url: /zh/aspose.cells/style/is_formula_hidden/
 is_root: false
 ---
-## is_formula_hidden 属性
+## is_formula_hidden属性
 
-表示当工作表受到保护时是否隐藏公式。
+表示当工作表受保护时是否隐藏公式。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def is_formula_hidden(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Style](/cells/python-net/zh/aspose.cells/style)
+* 模块[`aspose.cells`](../../)
+* 类 [`Style`](/cells/python-net/zh/aspose.cells/style)

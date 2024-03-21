@@ -3,13 +3,13 @@ title: control_data Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 330
+weight: 350
 url: /de/aspose.cells.drawing/groupshape/control_data/
 is_root: false
 ---
 ##  control_data Eigentum
 
-Ruft die Daten der Steuerung ab.
+Ruft die Kontrolldaten ab.
 
 ###  Beispiel
 
@@ -27,5 +27,5 @@ def control_data(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GroupShape](/cells/python-net/de/aspose.cells.drawing/groupshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GroupShape`](/cells/python-net/de/aspose.cells.drawing/groupshape)

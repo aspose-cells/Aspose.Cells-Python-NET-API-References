@@ -1,13 +1,13 @@
 ---
-title: is_dynamic_data_exchange 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_dynamic_data_exchange属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 610
+weight: 620
 url: /zh/aspose.cells.drawing/picture/is_dynamic_data_exchange/
 is_root: false
 ---
-## is_dynamic_data_exchange 属性
+## is_dynamic_data_exchange属性
 
 获取或设置是否动态数据交换
 ### 定义：
@@ -21,5 +21,5 @@ def is_dynamic_data_exchange(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Picture](/cells/python-net/zh/aspose.cells.drawing/picture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)

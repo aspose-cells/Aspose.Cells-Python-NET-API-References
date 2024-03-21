@@ -3,12 +3,12 @@ title: ParameterType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2340
+weight: 2430
 url: /de/aspose.cells/parametertype/
 is_root: false
 ---
 ##  ParameterType Aufzählung
-Repräsentiert den Typ aller Parameter oder den Rückgabewerttyp der Funktion.
+Stellt den Typ aller Parameter oder den Rückgabewerttyp der Funktion dar.
 
 
 
@@ -24,4 +24,4 @@ Der Typ ParameterType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

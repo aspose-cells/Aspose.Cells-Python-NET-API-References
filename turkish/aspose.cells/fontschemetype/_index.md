@@ -3,7 +3,7 @@ title: FontSchemeType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2070
+weight: 2140
 url: /tr/aspose.cells/fontschemetype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Yazı tipinin şema türünü temsil eder.
 
 
 
-FontSchemeType türü aşağıdaki üyeleri gösterir:
+FontSchemeType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NONE | Hiçbiri|
@@ -24,4 +24,4 @@ FontSchemeType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: text_direction proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 470
+weight: 460
 url: /it/aspose.cells.charts/datalabels/text_direction/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Rappresenta l'ordine di lettura del testo.
 
  NOTA: questo membro è ora obsoleto. Invece,
  si prega di utilizzare la proprietà ChartTextFrame.ReadingOrder.
- Questa proprietà verrà rimossa 12 mesi dopo da marzo 2020.
-Aspose si scusa per gli eventuali disagi causati.
+ Questa proprietà verrà rimossa 12 mesi dopo a partire da marzo 2020.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -28,6 +28,6 @@ def text_direction(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/it/aspose.cells.charts/datalabels)
-* classe [TextDirectionType](/cells/python-net/it/aspose.cells/textdirectiontype)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/it/aspose.cells.charts/datalabels)
+* classe [`TextDirectionType`](/cells/python-net/it/aspose.cells/textdirectiontype)

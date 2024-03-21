@@ -1,15 +1,15 @@
 ---
-title: top الملكية
+title: top عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 410
 url: /ar/aspose.cells/range/top/
 is_root: false
 ---
-##  top الملكية
+##  top عقار
 
-الحصول على المسافة ، بالنقاط ، من حافة الصف top للصف 1 إلى top حافة النطاق.
+يحصل على المسافة، بالنقاط، من حافة الصف top إلى حافة النطاق top.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def top(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

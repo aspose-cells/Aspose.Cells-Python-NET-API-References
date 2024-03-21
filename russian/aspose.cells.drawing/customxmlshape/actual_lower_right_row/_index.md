@@ -1,9 +1,9 @@
 ---
 title: actual_lower_right_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 250
+weight: 270
 url: /ru/aspose.cells.drawing/customxmlshape/actual_lower_right_row/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def actual_lower_right_row(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CustomXmlShape](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CustomXmlShape`](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)

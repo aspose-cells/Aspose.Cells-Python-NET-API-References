@@ -1,18 +1,18 @@
 ---
-title: classe ExternalLink
+title: ExternalLink classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 560
+weight: 590
 url: /it/aspose.cells/externallink/
 is_root: false
 ---
-##  classe ExternalLink
+##  ExternalLink classe
 Rappresenta un collegamento esterno in una cartella di lavoro.
 
 
 
-Il tipo ExternalLink espone i membri seguenti:
+Il tipo ExternalLink espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -27,7 +27,7 @@ Il tipo ExternalLink espone i membri seguenti:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [add_external_name(text, refer_to)](/cells/python-net/it/aspose.cells/externallink/add_external_name/#str-str) | Aggiunge un nome esterno.|
+| [add_external_name](/cells/python-net/it/aspose.cells/externallink/add_external_name/#str-str) | Aggiunge un nome esterno.|
 
 
 
@@ -46,4 +46,4 @@ externalLink.data_source = "d:\\link.xls"
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
-title: html_string الملكية
+title: html_string عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 490
+weight: 520
 url: /ar/aspose.cells/cell/html_string/
 is_root: false
 ---
-##  html_string الملكية
+##  html_string عقار
 
-الحصول على وتعيين سلسلة html التي تحتوي على بيانات وبعض التنسيقات في هذه الخلية.
+الحصول على سلسلة html التي تحتوي على البيانات وبعض التنسيقات في هذه الخلية وتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def html_string(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

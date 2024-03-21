@@ -3,7 +3,7 @@ title: is_flipped_horizontally mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 560
+weight: 570
 url: /tr/aspose.cells.drawing/checkbox/is_flipped_horizontally/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_flipped_horizontally(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CheckBox](/cells/python-net/tr/aspose.cells.drawing/checkbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CheckBox`](/cells/python-net/tr/aspose.cells.drawing/checkbox)

@@ -3,7 +3,7 @@ title: text_options mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /tr/aspose.cells.drawing/listbox/text_options/
 is_root: false
 ---
@@ -32,6 +32,6 @@ def text_options(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ListBox](/cells/python-net/tr/aspose.cells.drawing/listbox)
-* sınıf [TextOptions](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ListBox`](/cells/python-net/tr/aspose.cells.drawing/listbox)
+* sınıf [`TextOptions`](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)

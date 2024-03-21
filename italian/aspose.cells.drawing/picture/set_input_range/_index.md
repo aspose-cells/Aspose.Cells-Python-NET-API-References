@@ -1,13 +1,13 @@
 ---
-title: metodo set_input_range
+title: Metodo set_input_range
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 190
+weight: 210
 url: /it/aspose.cells.drawing/picture/set_input_range/
 is_root: false
 ---
-##  set_input_range(formula, is_r1c1, is_local) {#str-bool-bool}
+##  set_input_range {#str-bool-bool}
 Imposta l'intervallo utilizzato per riempire il controllo.
 
 
@@ -20,17 +20,15 @@ def set_input_range(self, formula, is_r1c1, is_local):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| formula | str | L'intervallo usato per riempire il controllo.|
+| formula | str | L'intervallo utilizzato per riempire il controllo.|
 | is_r1c1 | bool | Se la formula deve essere formattata come R1C1.|
-| is_local | bool | Se la formula deve essere formattata in base alle impostazioni locali.|
+| is_local | bool | Indica se la formula deve essere formattata in base alle impostazioni locali.|
 
 ###  Esempio
 
 ```python
 
 # After executing the code below, a ListBox object is created in the generated file. When the selected option is clicked, the selected value is displayed in cell A12.
-# Initialize a new workbook.
-# Workbook book = new Workbook();
 for i in range(10):
     cell = book.worksheets[0].cells.get(i, 0)
     cell.value = i + 1
@@ -49,5 +47,5 @@ listBox.set_linked_cell("$A$12", False, True)
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

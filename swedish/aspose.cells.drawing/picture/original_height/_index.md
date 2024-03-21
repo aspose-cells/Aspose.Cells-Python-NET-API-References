@@ -3,7 +3,7 @@ title: original_height fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 920
+weight: 930
 url: /sv/aspose.cells.drawing/picture/original_height/
 is_root: false
 ---
@@ -37,5 +37,5 @@ def original_height(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Picture](/cells/python-net/sv/aspose.cells.drawing/picture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture)

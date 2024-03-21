@@ -3,13 +3,13 @@ title: is_word_art mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 650
+weight: 660
 url: /tr/aspose.cells.drawing/oval/is_word_art/
 is_root: false
 ---
 ##  is_word_art mülk
 
-Bu şeklin bir kelime sanatı olup olmadığını gösterir.
+Bu şeklin bir kelime sanatı olup olmadığını belirtir.
 
 ###  Notlar
 
@@ -31,5 +31,5 @@ def is_word_art(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Oval](/cells/python-net/tr/aspose.cells.drawing/oval)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Oval`](/cells/python-net/tr/aspose.cells.drawing/oval)

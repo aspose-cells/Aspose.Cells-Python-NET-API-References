@@ -3,7 +3,7 @@ title: three_d_format proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1110
+weight: 1120
 url: /it/aspose.cells.drawing/listbox/three_d_format/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def three_d_format(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ListBox](/cells/python-net/it/aspose.cells.drawing/listbox)
-* classe [ThreeDFormat](/cells/python-net/it/aspose.cells.drawing/threedformat)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ListBox`](/cells/python-net/it/aspose.cells.drawing/listbox)
+* classe [`ThreeDFormat`](/cells/python-net/it/aspose.cells.drawing/threedformat)

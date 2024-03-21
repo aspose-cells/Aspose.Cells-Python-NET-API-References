@@ -3,7 +3,7 @@ title: printing_page_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 210
+weight: 220
 url: /es/aspose.cells/xpssaveoptions/printing_page_type/
 is_root: false
 ---
@@ -14,11 +14,11 @@ Indica qué páginas no se imprimirán.
 ###  Observaciones
 
 Si el contenido de la hoja es escaso, habrá algunas páginas totalmente en blanco en el archivo pdf de salida.
-Si no desea estas páginas en blanco, puede usar esta opción para omitirlas.
+Si no desea estas páginas en blanco, puede utilizar esta opción para omitirlas.
 
 ###  Ejemplo
 
-El siguiente código omite páginas en blanco o páginas que solo contienen algún contenido de estilo como fondo de celda, bordes.
+El siguiente código omite páginas en blanco o páginas que solo contienen contenido de estilo, como fondo de celda y bordes.
 
 ```python
 from aspose.cells import PdfSaveOptions, PrintingPageType, Workbook
@@ -44,6 +44,6 @@ def printing_page_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PrintingPageType](/cells/python-net/es/aspose.cells/printingpagetype)
-* clase [XpsSaveOptions](/cells/python-net/es/aspose.cells/xpssaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PrintingPageType`](/cells/python-net/es/aspose.cells/printingpagetype)
+* clase [`XpsSaveOptions`](/cells/python-net/es/aspose.cells/xpssaveoptions)

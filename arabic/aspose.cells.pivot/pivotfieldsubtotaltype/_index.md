@@ -1,37 +1,37 @@
 ---
-title: العد PivotFieldSubtotalType
+title: PivotFieldSubtotalType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 280
 url: /ar/aspose.cells.pivot/pivotfieldsubtotaltype/
 is_root: false
 ---
-##  العد PivotFieldSubtotalType
-وصف موجز لـ PivotFieldSubtotalType.
+##  PivotFieldSubtotalType التعداد
+وصف موجز لPivotFieldSubtotalType.
 
 
 
-يكشف نوع PivotFieldSubtotalType الأعضاء التالية:
+يكشف النوع PivotFieldSubtotalType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | يمثل بلا نوع المجموع الفرعي.|
-| AUTOMATIC | يمثل نوع المجموع الفرعي التلقائي.|
-| SUM | يمثل مجموع نوع المجموع الفرعي.|
-| COUNT | يمثل نوع المجموع الفرعي للعد.|
-| AVERAGE | يمثل متوسط نوع المجموع الفرعي.|
+| NONE | لا يمثل أي نوع المجموع الفرعي.|
+| AUTOMATIC |يمثل نوع الإجمالي الفرعي التلقائي.|
+| SUM | يمثل نوع المجموع الفرعي.|
+| COUNT | يمثل نوع العدد الإجمالي الفرعي.|
+| AVERAGE | يمثل متوسط النوع الفرعي.|
 | MAX | يمثل ماكس نوع المجموع الفرعي.|
-| MIN | يمثل الحد الأدنى من نوع المجموع الفرعي.|
-| PRODUCT | يمثل نوع المجموع الفرعي للمنتج.|
-| COUNT_NUMS | يمثل نوع المجموع الفرعي للعدد.|
-| STDEV |يمثل Stdev نوع المجموع الفرعي.|
-| STDEVP | يمثل نوع المجموع الفرعي ستديفب.|
+| MIN | يمثل الحد الأدنى لنوع الإجمالي الفرعي.|
+| PRODUCT | يمثل النوع الإجمالي الفرعي للمنتج.|
+| COUNT_NUMS | يمثل النوع الفرعي Count Nums.|
+| STDEV | يمثل النوع الإجمالي الفرعي Stdev.|
+| STDEVP | يمثل النوع الفرعي Stdevp.|
 | VAR | يمثل نوع الإجمالي الفرعي Var.|
-| VARP | يمثل نوع المجموع الفرعي لـ Varp.|
+| VARP | يمثل النوع الفرعي Varp.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](..)
+* الوحدة [`aspose.cells.pivot`](..)

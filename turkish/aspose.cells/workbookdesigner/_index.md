@@ -3,7 +3,7 @@ title: WorkbookDesigner sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1600
+weight: 1670
 url: /tr/aspose.cells/workbookdesigner/
 is_root: false
 ---
@@ -12,37 +12,38 @@ Bir tasarımcı elektronik tablosunu temsil eden nesneyi kapsüller.
 
 
 
-WorkbookDesigner türü aşağıdaki üyeleri gösterir:
+WorkbookDesigner türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [WorkbookDesigner()](/cells/python-net/tr/aspose.cells/workbookdesigner/__init__/#) | [WorkbookDesigner](/cells/python-net/tr/aspose.cells/workbookdesigner) sınıfının yeni bir örneğini başlatır.|
-| [WorkbookDesigner(workbook)](/cells/python-net/tr/aspose.cells/workbookdesigner/__init__/#Workbook) | [WorkbookDesigner](/cells/python-net/tr/aspose.cells/workbookdesigner) sınıfının yeni bir örneğini başlatır.|
+| [__init__](/cells/python-net/tr/aspose.cells/workbookdesigner/__init__/#) | [`WorkbookDesigner`](/cells/python-net/tr/aspose.cells/workbookdesigner) sınıfının yeni bir örneğini başlatır.|
+| [__init__](/cells/python-net/tr/aspose.cells/workbookdesigner/__init__/#aspose.cells.Workbook) | [`WorkbookDesigner`](/cells/python-net/tr/aspose.cells/workbookdesigner) sınıfının yeni bir örneğini başlatır.|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [workbook](/cells/python-net/tr/aspose.cells/workbookdesigner/workbook) |[WorkbookDesigner.workbook](/cells/python-net/tr/aspose.cells/workbookdesigner#workbook) nesnesini alır ve ayarlar.|
-| [repeat_formulas_with_subtotal](/cells/python-net/tr/aspose.cells/workbookdesigner/repeat_formulas_with_subtotal) | Ara toplam satırı ile formüllerin tekrarlanıp tekrarlanmadığını gösterir.|
+| [workbook](/cells/python-net/tr/aspose.cells/workbookdesigner/workbook) | [`WorkbookDesigner.workbook`](/cells/python-net/tr/aspose.cells/workbookdesigner#workbook) nesnesini alır ve ayarlar.|
+| [repeat_formulas_with_subtotal](/cells/python-net/tr/aspose.cells/workbookdesigner/repeat_formulas_with_subtotal) | Formüllerin alt toplam satırıyla yinelenip yinelenmediğini belirtir.|
 | [update_empty_string_as_null](/cells/python-net/tr/aspose.cells/workbookdesigner/update_empty_string_as_null) | DOĞRU ise, değer "" ise Null eklenecektir;|
-| [update_reference](/cells/python-net/tr/aspose.cells/workbookdesigner/update_reference) |Diğer çalışma sayfalarındaki başvuruların güncellenip güncellenmeyeceğini belirtir.|
+| [update_reference](/cells/python-net/tr/aspose.cells/workbookdesigner/update_reference) | Diğer çalışma sayfalarındaki referansların güncellenip güncellenmeyeceğini belirtir.|
 | [calculate_formula](/cells/python-net/tr/aspose.cells/workbookdesigner/calculate_formula) | Formüllerin hesaplanıp hesaplanmayacağını belirtir.|
-| [call_back](/cells/python-net/tr/aspose.cells/workbookdesigner/call_back) | Smartmarker işlemenin geri arama arayüzünü alır ve ayarlar.|
-| [line_by_line](/cells/python-net/tr/aspose.cells/workbookdesigner/line_by_line) | Akıllı işaretleyicinin satır satır işlenip işlenmediğini gösterir.|
+| [call_back](/cells/python-net/tr/aspose.cells/workbookdesigner/call_back) | Akıllı işaretçiyi işlemenin geri arama arayüzünü alır ve ayarlar.|
+| [line_by_line](/cells/python-net/tr/aspose.cells/workbookdesigner/line_by_line) | Akıllı işaretleyicinin satır satır işlenip işlenmeyeceğini belirtir.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [set_data_source(data_source, cells_data_table)](/cells/python-net/tr/aspose.cells/workbookdesigner/set_data_source/#str-ICellsDataTable) | [ICellsDataTable](/cells/python-net/tr/aspose.cells/icellsdatatable) nesnesinin veri kaynağını ayarlar.|
-| [set_data_source(variable, data)](/cells/python-net/tr/aspose.cells/workbookdesigner/set_data_source/#str-any) | Veri bağlamayı bir değişkene ayarlar.|
-| [process()](/cells/python-net/tr/aspose.cells/workbookdesigner/process/#) | Akıllı işaretleyicileri işler ve veri kaynağı değerlerini doldurur.|
-| [process(is_preserved)](/cells/python-net/tr/aspose.cells/workbookdesigner/process/#bool) | Akıllı işaretleyicileri işler ve veri kaynağı değerlerini doldurur.|
-| [process(sheet_index, is_preserved)](/cells/python-net/tr/aspose.cells/workbookdesigner/process/#int-bool) | Akıllı işaretleyicileri işler ve veri kaynağı değerlerini doldurur.|
-| [clear_data_source()](/cells/python-net/tr/aspose.cells/workbookdesigner/clear_data_source/#) | Tüm veri kaynaklarını temizler.|
-| [get_smart_markers()](/cells/python-net/tr/aspose.cells/workbookdesigner/get_smart_markers/#) | Bir elektronik tablodaki akıllı işaretçilerin bir koleksiyonunu döndürür.|
+| [set_data_source](/cells/python-net/tr/aspose.cells/workbookdesigner/set_data_source/#str-aspose.cells.ICellsDataTable) | [`ICellsDataTable`](/cells/python-net/tr/aspose.cells/icellsdatatable) nesnesinin veri kaynağını ayarlar.|
+| [set_data_source](/cells/python-net/tr/aspose.cells/workbookdesigner/set_data_source/#str-any) | Bir değişkene veri bağlamayı ayarlar.|
+| [process](/cells/python-net/tr/aspose.cells/workbookdesigner/process/#) |Akıllı işaretçileri işler ve veri kaynağı değerlerini doldurur.|
+| [process](/cells/python-net/tr/aspose.cells/workbookdesigner/process/#bool) |Akıllı işaretçileri işler ve veri kaynağı değerlerini doldurur.|
+| [process](/cells/python-net/tr/aspose.cells/workbookdesigner/process/#int-bool) |Akıllı işaretçileri işler ve veri kaynağı değerlerini doldurur.|
+| [clear_data_source](/cells/python-net/tr/aspose.cells/workbookdesigner/clear_data_source/#) | Tüm veri kaynaklarını temizler.|
+| [set_json_data_source](/cells/python-net/tr/aspose.cells/workbookdesigner/set_json_data_source/#str-str) |  |
+| [get_smart_markers](/cells/python-net/tr/aspose.cells/workbookdesigner/get_smart_markers/#) | Bir e-tablodaki akıllı işaretçilerin bir koleksiyonunu döndürür.|
 
 
 
@@ -68,6 +69,6 @@ wd.workbook.save("outSmartMarker_Designer.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
-* sınıf [ICellsDataTable](/cells/python-net/tr/aspose.cells/icellsdatatable)
-* sınıf [WorkbookDesigner](/cells/python-net/tr/aspose.cells/workbookdesigner)
+* modül [`aspose.cells`](..)
+* sınıf [`ICellsDataTable`](/cells/python-net/tr/aspose.cells/icellsdatatable)
+* sınıf [`WorkbookDesigner`](/cells/python-net/tr/aspose.cells/workbookdesigner)

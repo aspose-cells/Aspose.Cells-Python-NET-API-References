@@ -1,9 +1,9 @@
 ---
 title: has_macro недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 570
+weight: 580
 url: /ru/aspose.cells/workbook/has_macro/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def has_macro(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

@@ -3,13 +3,13 @@ title: is_array_header mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 520
+weight: 550
 url: /tr/aspose.cells/cell/is_array_header/
 is_root: false
 ---
 ##  is_array_header mülk
 
- Hücrenin formülünü ve dizi formülünü gösterir
+ Hücrenin formülünün bir dizi formülü olduğunu belirtir
 ve dizinin ilk hücresidir.
 ###  Tanım:
 ```python
@@ -19,5 +19,5 @@ def is_array_header(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

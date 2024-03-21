@@ -1,13 +1,13 @@
 ---
-title: original_width_inch 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: original_width_inch属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 970
+weight: 980
 url: /zh/aspose.cells.drawing/picture/original_width_inch/
 is_root: false
 ---
-## original_width_inch 属性
+## original_width_inch属性
 
 获取图片的原始宽度，单位为英寸。
 
@@ -37,5 +37,5 @@ def original_width_inch(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Picture](/cells/python-net/zh/aspose.cells.drawing/picture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)

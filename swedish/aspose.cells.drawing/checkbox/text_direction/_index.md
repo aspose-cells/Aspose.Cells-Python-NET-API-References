@@ -3,7 +3,7 @@ title: text_direction fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 960
+weight: 970
 url: /sv/aspose.cells.drawing/checkbox/text_direction/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_direction(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CheckBox](/cells/python-net/sv/aspose.cells.drawing/checkbox)
-* klass [TextDirectionType](/cells/python-net/sv/aspose.cells/textdirectiontype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CheckBox`](/cells/python-net/sv/aspose.cells.drawing/checkbox)
+* klass [`TextDirectionType`](/cells/python-net/sv/aspose.cells/textdirectiontype)

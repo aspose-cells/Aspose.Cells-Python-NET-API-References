@@ -1,21 +1,21 @@
 ---
 title: cell_count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 240
+weight: 270
 url: /ru/aspose.cells/range/cell_count/
 is_root: false
 ---
 ##  cell_count недвижимость
 
-Получает количество всех ячеек в диапазоне.
+Получает все количество ячеек в диапазоне.
 
 ###  Примечания
 
  ПРИМЕЧАНИЕ. Это свойство устарело.
 Вместо этого используйте RowCount и ColumnCount, чтобы получить общее количество ячеек.
- Это свойство будет удалено через 12 месяцев, начиная с февраля 2021 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с февраля 2021 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -25,5 +25,5 @@ def cell_count(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](../../)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

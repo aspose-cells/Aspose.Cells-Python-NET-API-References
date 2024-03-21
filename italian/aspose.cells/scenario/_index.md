@@ -1,18 +1,18 @@
 ---
-title: classe Scenario
+title: Scenario classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1330
+weight: 1370
 url: /it/aspose.cells/scenario/
 is_root: false
 ---
-##  classe Scenario
+##  Scenario classe
 Rappresenta uno scenario individuale.
 
 
 
-Il tipo Scenario espone i membri seguenti:
+Il tipo Scenario espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -27,4 +27,4 @@ Il tipo Scenario espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

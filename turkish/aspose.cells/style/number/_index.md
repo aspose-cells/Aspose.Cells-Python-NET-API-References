@@ -3,24 +3,24 @@ title: number mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 350
+weight: 410
 url: /tr/aspose.cells/style/number/
 is_root: false
 ---
 ##  number mülk
 
-Sayıların ve tarihlerin görüntülenme biçimini alır veya ayarlar. Biçimlendirme modelleri farklı bölgeler için farklıdır.
+Sayıların ve tarihlerin görüntülenme biçimini alır veya ayarlar. Biçimlendirme desenleri farklı bölgeler için farklıdır.
 
 ###  Notlar
 
-Örneğin, en_US bölgesi için sayılarla gösterilen biçimlendirme kalıpları:
+Örneğin, en_US bölgesi için sayılarla temsil edilen biçimlendirme kalıpları:
 | Değer| Tip| Dizeyi Biçimlendir|
 | :- | :- | :- |
 | 0| Genel|
-| 1| Ondalık|
-| 2| Ondalık|
-| 3| Ondalık|
-| 4| Ondalık|
+| 1|Ondalık|
+| 2|Ondalık|
+| 3|Ondalık|
+| 4|Ondalık|
 | 5| Para birimi|
 | 6| Para birimi|
 | 7| Para birimi|
@@ -28,8 +28,8 @@ Sayıların ve tarihlerin görüntülenme biçimini alır veya ayarlar. Biçimle
 | 9| Yüzde|
 | 10| Yüzde|
 | 11| İlmi|
-| 12| kesir|
-| 13| kesir|
+| 12| Kesir|
+| 13| Kesir|
 | 14| Tarih|
 | 15| Tarih|
 | 16| Tarih|
@@ -63,5 +63,5 @@ def number(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

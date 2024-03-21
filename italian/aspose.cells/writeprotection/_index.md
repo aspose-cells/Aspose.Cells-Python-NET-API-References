@@ -1,39 +1,39 @@
 ---
-title: classe WriteProtection
+title: WriteProtection classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1640
+weight: 1710
 url: /it/aspose.cells/writeprotection/
 is_root: false
 ---
-##  classe WriteProtection
+##  WriteProtection classe
 Specifica le impostazioni di protezione da scrittura per una cartella di lavoro.
 
 
 
-Il tipo WriteProtection espone i membri seguenti:
+Il tipo WriteProtection espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [WriteProtection()](/cells/python-net/it/aspose.cells/writeprotection/__init__/#) | Costruisce una nuova istanza di WriteProtection|
+| [__init__](/cells/python-net/it/aspose.cells/writeprotection/__init__/#) | Costruisce una nuova istanza di WriteProtection|
 
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
 | [author](/cells/python-net/it/aspose.cells/writeprotection/author) | Ottiene e imposta l'autore.|
-| [recommend_read_only](/cells/python-net/it/aspose.cells/writeprotection/recommend_read_only) | Indica se è selezionata l'opzione Sola lettura consigliata.|
+| [recommend_read_only](/cells/python-net/it/aspose.cells/writeprotection/recommend_read_only) | Indica se è selezionata l'opzione Consigliata di sola lettura.|
 | [is_write_protected](/cells/python-net/it/aspose.cells/writeprotection/is_write_protected) | Indica se questa cartella di lavoro è protetta da scrittura.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [validate_password(password)](/cells/python-net/it/aspose.cells/writeprotection/validate_password/#str) | Restituisce true se la password specificata è la stessa della password di protezione da scrittura con cui il file era protetto.|
+| [validate_password](/cells/python-net/it/aspose.cells/writeprotection/validate_password/#str) | Restituisce vero se la password specificata è la stessa password di protezione da scrittura con cui era protetto il file.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

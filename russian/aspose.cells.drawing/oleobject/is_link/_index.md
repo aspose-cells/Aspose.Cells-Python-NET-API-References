@@ -1,9 +1,9 @@
 ---
 title: is_link недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 710
+weight: 720
 url: /ru/aspose.cells.drawing/oleobject/is_link/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_link(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

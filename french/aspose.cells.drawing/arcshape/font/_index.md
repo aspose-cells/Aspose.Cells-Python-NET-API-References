@@ -3,7 +3,7 @@ title: font propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 410
+weight: 430
 url: /fr/aspose.cells.drawing/arcshape/font/
 is_root: false
 ---
@@ -33,6 +33,6 @@ def font(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/fr/aspose.cells.drawing/arcshape)
-* classe [Font](/cells/python-net/fr/aspose.cells/font)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/fr/aspose.cells.drawing/arcshape)
+* classe [`Font`](/cells/python-net/fr/aspose.cells/font)

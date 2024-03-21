@@ -3,7 +3,7 @@ title: base_item_position Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 210
+weight: 240
 url: /de/aspose.cells.pivot/pivotfield/base_item_position/
 is_root: false
 ---
@@ -11,8 +11,8 @@ is_root: false
 
 Stellt das Element im Basisfeld für eine benutzerdefinierte Berechnung dar.
  Gilt nur für Datenfelder.
-Da PivotItemPosition.Custom nur zum Lesen dient, müssen Sie PivotItemPosition.Custom festlegen,
-Bitte setzen Sie das Attribut PivotField.BaseItemIndex.
+Da PivotItemPosition.Custom nur zum Lesen dient, müssen Sie PivotItemPosition.Custom festlegen.
+Bitte legen Sie das Attribut PivotField.BaseItemIndex fest.
 ###  Definition:
 ```python
 @property
@@ -24,6 +24,6 @@ def base_item_position(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotField](/cells/python-net/de/aspose.cells.pivot/pivotfield)
-* Klasse [PivotItemPosition](/cells/python-net/de/aspose.cells.pivot/pivotitemposition)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotField`](/cells/python-net/de/aspose.cells.pivot/pivotfield)
+* Klasse [`PivotItemPosition`](/cells/python-net/de/aspose.cells.pivot/pivotitemposition)

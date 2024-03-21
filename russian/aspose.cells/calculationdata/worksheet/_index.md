@@ -1,9 +1,9 @@
 ---
 title: worksheet недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ru/aspose.cells/calculationdata/worksheet/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def worksheet(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CalculationData](/cells/python-net/ru/aspose.cells/calculationdata)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`CalculationData`](/cells/python-net/ru/aspose.cells/calculationdata)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

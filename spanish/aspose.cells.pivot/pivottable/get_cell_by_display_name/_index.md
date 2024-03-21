@@ -1,5 +1,5 @@
 ---
-title: get_cell_by_display_name método
+title: método get_cell_by_display_name
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 130
 url: /es/aspose.cells.pivot/pivottable/get_cell_by_display_name/
 is_root: false
 ---
-##  get_cell_by_display_name(display_name) {#str}
-Obtiene el objeto Cell por el DisplayName de PivotField
+##  get_cell_by_display_name {#str}
+Obtiene el objeto [`Cell`](/cells/python-net/es/aspose.cells/cell) por el nombre para mostrar de PivotField.
 
 
 ###  Devoluciones
@@ -29,5 +29,6 @@ def get_cell_by_display_name(self, display_name):
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`Cell`](/cells/python-net/es/aspose.cells/cell)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

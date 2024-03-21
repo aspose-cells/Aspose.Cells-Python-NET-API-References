@@ -1,9 +1,9 @@
 ---
 title: entire_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 290
+weight: 310
 url: /ru/aspose.cells/range/entire_row/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def entire_row(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](../../)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

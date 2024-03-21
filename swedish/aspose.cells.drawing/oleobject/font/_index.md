@@ -3,7 +3,7 @@ title: font fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 440
 url: /sv/aspose.cells.drawing/oleobject/font/
 is_root: false
 ---
@@ -33,6 +33,6 @@ def font(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

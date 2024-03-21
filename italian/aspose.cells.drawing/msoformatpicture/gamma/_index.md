@@ -3,13 +3,13 @@ title: gamma proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 60
+weight: 70
 url: /it/aspose.cells.drawing/msoformatpicture/gamma/
 is_root: false
 ---
 ##  gamma proprietà
 
-Rappresenta gamma dell'immagine.
+Rappresenta lo gamma della foto.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def gamma(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [MsoFormatPicture](/cells/python-net/it/aspose.cells.drawing/msoformatpicture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`MsoFormatPicture`](/cells/python-net/it/aspose.cells.drawing/msoformatpicture)

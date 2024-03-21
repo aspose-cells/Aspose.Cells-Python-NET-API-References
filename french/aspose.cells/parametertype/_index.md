@@ -1,13 +1,13 @@
 ---
-title: ParameterType dénombrement
+title: ParameterType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2340
+weight: 2430
 url: /fr/aspose.cells/parametertype/
 is_root: false
 ---
-##  ParameterType dénombrement
+##  ParameterType énumération
 Représente le type de tous les paramètres ou le type de valeur de retour de la fonction.
 
 
@@ -24,4 +24,4 @@ Le type ParameterType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

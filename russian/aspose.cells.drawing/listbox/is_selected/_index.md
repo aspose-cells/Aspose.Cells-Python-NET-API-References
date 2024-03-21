@@ -1,17 +1,17 @@
 ---
 title: is_selected метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 140
+weight: 160
 url: /ru/aspose.cells.drawing/listbox/is_selected/
 is_root: false
 ---
-##  is_selected(item_index) {#int}
+##  is_selected {#int}
 Указывает, выбран ли элемент.
 
 
-###  Возвращает
+###  Возврат
 
 выбран ли элемент.
 
@@ -29,5 +29,5 @@ def is_selected(self, item_index):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ListBox](/cells/python-net/ru/aspose.cells.drawing/listbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ListBox`](/cells/python-net/ru/aspose.cells.drawing/listbox)

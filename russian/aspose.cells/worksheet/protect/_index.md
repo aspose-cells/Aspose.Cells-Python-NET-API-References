@@ -1,13 +1,13 @@
 ---
 title: protect метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 180
+weight: 200
 url: /ru/aspose.cells/worksheet/protect/
 is_root: false
 ---
-##  protect(type) {#ProtectionType}
+##  protect {#aspose.cells.ProtectionType}
 Защищает рабочий лист.
 
 
@@ -20,12 +20,12 @@ def protect(self, type):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| type | [ProtectionType](/cells/python-net/ru/aspose.cells/protectiontype) | Тип защиты.|
+| type | [`ProtectionType`](/cells/python-net/ru/aspose.cells/protectiontype) | Тип защиты.|
 ###  Примечания
 
-Этот метод защищает рабочий лист без пароля. Он может protect рабочий лист во всех версиях файла Excel.
+Этот метод защищает лист без пароля. Он может использовать рабочий лист protect во всех версиях файла Excel.
 
-##  protect(type, password, old_password) {#ProtectionType-str-str}
+##  protect {#aspose.cells.ProtectionType-str-str}
 
 Защищает рабочий лист.
 
@@ -39,12 +39,12 @@ def protect(self, type, password, old_password):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| type | [ProtectionType](/cells/python-net/ru/aspose.cells/protectiontype) | Тип защиты.|
+| type | [`ProtectionType`](/cells/python-net/ru/aspose.cells/protectiontype) | Тип защиты.|
 | password | str | Пароль.|
 | old_password | str | Если рабочий лист уже защищен паролем, укажите старый пароль.<br/> В противном случае вы можете установить для этого параметра нулевое значение или пустую строку.|
 ###  Примечания
 
-Этот метод может работать с рабочим листом protect во всех версиях файла Excel.
+Этот метод позволяет создать рабочий лист protect во всех версиях файла Excel.
 ###  Пример
 
 
@@ -65,5 +65,5 @@ excel.save("output.xls")
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

@@ -3,17 +3,17 @@ title: is_column_hidden yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 750
+weight: 740
 url: /tr/aspose.cells/cells/is_column_hidden/
 is_root: false
 ---
-##  is_column_hidden(column_index) {#int}
-Belirli bir dizindeki bir sütunun gizlenip gizlenmediğini kontrol eder.
+##  is_column_hidden {#int}
+Verilen dizindeki bir sütunun gizli olup olmadığını kontrol eder.
 
 
 ###  İadeler
 
-true sütun gizliyse.
+sütun gizliyse true.
 
 
 ```python
@@ -29,5 +29,5 @@ def is_column_hidden(self, column_index):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

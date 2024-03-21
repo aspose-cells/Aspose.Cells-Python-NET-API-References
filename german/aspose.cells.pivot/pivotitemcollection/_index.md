@@ -3,12 +3,12 @@ title: PivotItemCollection Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 80
+weight: 150
 url: /de/aspose.cells.pivot/pivotitemcollection/
 is_root: false
 ---
 ##  PivotItemCollection Klasse
-Stellt eine Auflistung aller PivotItem-Objekte in den PivotFields dar
+Stellt eine Sammlung aller PivotItem-Objekte in den PivotFields dar
 
 
 
@@ -21,8 +21,8 @@ Der Typ PivotItemCollection macht die folgenden Member verfügbar:
 
 
 
-Ruft das PivotItem-Objekt am bestimmten Index ab.
-###  Indexierer
+Ruft das PivotItem-Objekt am spezifischen Index ab.
+###  Indexer
 | Name| Beschreibung|
 | :- | :- |
 | [index] |  |
@@ -31,9 +31,9 @@ Ruft das PivotItem-Objekt am bestimmten Index ab.
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [changeitems_order(source_index, dest_index)](/cells/python-net/de/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | Ändert direkt die Reihenfolge der beiden Artikel.|
+| [changeitems_order](/cells/python-net/de/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | Ändert direkt die Reihenfolge der beiden Artikel.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](..)
+* Modul [`aspose.cells.pivot`](..)

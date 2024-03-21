@@ -1,9 +1,9 @@
 ---
 title: export_object_listener недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 280
+weight: 300
 url: /ru/aspose.cells/htmlsaveoptions/export_object_listener/
 is_root: false
 ---
@@ -15,7 +15,7 @@ is_root: false
 
  ПРИМЕЧАНИЕ. Это свойство устарело. Вместо,
 используйте свойство HtmlSaveOptions.IStreamProvider.
- Это свойство будет удалено через 12 месяцев, начиная с августа 2015 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с августа 2015 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -28,6 +28,6 @@ def export_object_listener(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
-* класс [IExportObjectListener](/cells/python-net/ru/aspose.cells/iexportobjectlistener)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* класс [`IExportObjectListener`](/cells/python-net/ru/aspose.cells/iexportobjectlistener)

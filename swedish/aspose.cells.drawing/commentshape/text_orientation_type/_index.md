@@ -3,7 +3,7 @@ title: text_orientation_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1000
+weight: 1010
 url: /sv/aspose.cells.drawing/commentshape/text_orientation_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_orientation_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CommentShape](/cells/python-net/sv/aspose.cells.drawing/commentshape)
-* klass [TextOrientationType](/cells/python-net/sv/aspose.cells/textorientationtype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CommentShape`](/cells/python-net/sv/aspose.cells.drawing/commentshape)
+* klass [`TextOrientationType`](/cells/python-net/sv/aspose.cells/textorientationtype)

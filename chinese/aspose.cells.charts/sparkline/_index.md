@@ -1,18 +1,18 @@
 ---
 title: Sparkline类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 260
+weight: 270
 url: /zh/aspose.cells.charts/sparkline/
 is_root: false
 ---
 ## Sparkline类
-迷你图表示工作表单元格中提供数据可视化表示的微小图表或图形。
+迷你图表示工作表单元格中的微小图表或图形，提供数据的可视化表示。
 
 
 
-Sparkline 类型公开了以下成员：
+Sparkline 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -25,8 +25,8 @@ Sparkline 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [to_image(file_name, options)](/cells/python-net/zh/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) |将迷你图转换为图像。|
-| [to_image(stream, options)](/cells/python-net/zh/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) |将迷你图转换为图像。|
+| [to_image](/cells/python-net/zh/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) |将迷你图转换为图像。|
+| [to_image](/cells/python-net/zh/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) |将迷你图转换为图像。|
 
 
 
@@ -59,4 +59,4 @@ line.to_image("output.png", ImageOrPrintOptions())
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

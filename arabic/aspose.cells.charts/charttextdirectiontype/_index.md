@@ -1,29 +1,29 @@
 ---
-title: العد ChartTextDirectionType
+title: ChartTextDirectionType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 450
 url: /ar/aspose.cells.charts/charttextdirectiontype/
 is_root: false
 ---
-##  العد ChartTextDirectionType
-يمثل نوع اتجاه النص في الرسم البياني.
+##  ChartTextDirectionType التعداد
+يمثل نوع اتجاه النص للمخطط.
 
 
 
-يكشف نوع ChartTextDirectionType الأعضاء التالية:
+يكشف النوع ChartTextDirectionType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | HORIZONTAL | نوع الاتجاه الأفقي.|
 | VERTICAL | نوع الاتجاه العمودي.|
-| ROTATE90 | تدوير بزاوية 90.|
-| ROTATE270 | استدارة 270 زاوية.|
+| ROTATE90 | تدوير 90 زاوية.|
+| ROTATE270 | تدوير 270 زاوية.|
 | STACKED | نص مكدس.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

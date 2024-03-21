@@ -3,7 +3,7 @@ title: lower_delta_y fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 760
+weight: 770
 url: /sv/aspose.cells.drawing/chartshape/lower_delta_y/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def lower_delta_y(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ChartShape](/cells/python-net/sv/aspose.cells.drawing/chartshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ChartShape`](/cells/python-net/sv/aspose.cells.drawing/chartshape)

@@ -1,29 +1,29 @@
 ---
-title: ShiftType enumerazione
+title: Enumerazione ShiftType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2470
+weight: 2560
 url: /it/aspose.cells/shifttype/
 is_root: false
 ---
-##  ShiftType enumerazione
-Rappresenta le opzioni di spostamento durante l'eliminazione di un intervallo di celle.
+##  Enumerazione ShiftType
+Rappresenta le opzioni di spostamento quando si elimina un intervallo di celle.
 
 
 
-Il tipo ShiftType espone i membri seguenti:
+Il tipo ShiftType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | DOWN | Sposta le celle verso il basso.|
-| LEFT | Sposta celle a sinistra.|
+| LEFT | Sposta le celle a sinistra.|
 | NONE | Non spostare le celle.|
 | RIGHT | Sposta le celle a destra.|
-| UP | Sposta le celle in alto.|
+| UP | Sposta le celle verso l'alto.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

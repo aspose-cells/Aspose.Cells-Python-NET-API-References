@@ -1,9 +1,9 @@
 ---
 title: gap_width недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 280
+weight: 310
 url: /ru/aspose.cells.charts/chart/gap_width/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def gap_width(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)

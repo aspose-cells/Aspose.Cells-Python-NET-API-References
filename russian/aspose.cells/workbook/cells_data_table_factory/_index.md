@@ -1,9 +1,9 @@
 ---
 title: cells_data_table_factory недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 450
+weight: 460
 url: /ru/aspose.cells/workbook/cells_data_table_factory/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def cells_data_table_factory(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsDataTableFactory](/cells/python-net/ru/aspose.cells/cellsdatatablefactory)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`CellsDataTableFactory`](/cells/python-net/ru/aspose.cells/cellsdatatablefactory)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

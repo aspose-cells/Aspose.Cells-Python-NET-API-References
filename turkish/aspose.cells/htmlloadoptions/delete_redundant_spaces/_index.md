@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  delete_redundant_spaces mülk
 
- Metin, kullanarak satırları kaydırdığında gereksiz boşlukların silinip silinmeyeceğini gösterir.<br>tag.Varsayılan değer yanlıştır.
+Metin `<br>` etiketini kullanarak satırları kaydırdığında gereksiz boşlukların silinip silinmeyeceğini belirtir.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +22,5 @@ def delete_redundant_spaces(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlLoadOptions](/cells/python-net/tr/aspose.cells/htmlloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlLoadOptions`](/cells/python-net/tr/aspose.cells/htmlloadoptions)

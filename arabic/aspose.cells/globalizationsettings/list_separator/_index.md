@@ -1,15 +1,15 @@
 ---
-title: list_separator الملكية
+title: list_separator عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 320
 url: /ar/aspose.cells/globalizationsettings/list_separator/
 is_root: false
 ---
-##  list_separator الملكية
+##  list_separator عقار
 
-الحصول على فاصل القائمة ، معاملات الوظيفة ، ... إلخ.
+الحصول على فاصل القائمة ومعلمات الوظيفة وما إلى ذلك.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def list_separator(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GlobalizationSettings](/cells/python-net/ar/aspose.cells/globalizationsettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GlobalizationSettings`](/cells/python-net/ar/aspose.cells/globalizationsettings)

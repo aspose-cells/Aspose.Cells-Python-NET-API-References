@@ -1,37 +1,37 @@
 ---
-title: classe MultipleFilterCollection
+title: MultipleFilterCollection classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1060
+weight: 1100
 url: /it/aspose.cells/multiplefiltercollection/
 is_root: false
 ---
-##  classe MultipleFilterCollection
+##  MultipleFilterCollection classe
 Rappresenta la raccolta di filtri multipli.
 
 
 
-Il tipo MultipleFilterCollection espone i membri seguenti:
+Il tipo MultipleFilterCollection espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [MultipleFilterCollection()](/cells/python-net/it/aspose.cells/multiplefiltercollection/__init__/#) | Costruisce una nuova istanza di MultipleFilterCollection|
+| [__init__](/cells/python-net/it/aspose.cells/multiplefiltercollection/__init__/#) | Costruisce una nuova istanza.|
 
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [match_blank](/cells/python-net/it/aspose.cells/multiplefiltercollection/match_blank) | Indica se filtrare per vuoto.|
+| [match_blank](/cells/python-net/it/aspose.cells/multiplefiltercollection/match_blank) |Indica se filtrare in base allo spazio vuoto.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [add(filter)](/cells/python-net/it/aspose.cells/multiplefiltercollection/add/#str) | Aggiunge il filtro stringa.|
+| [add](/cells/python-net/it/aspose.cells/multiplefiltercollection/add/#str) | Aggiunge il filtro stringa.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

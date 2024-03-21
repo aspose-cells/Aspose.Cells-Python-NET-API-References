@@ -3,7 +3,7 @@ title: ShiftType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2470
+weight: 2560
 url: /tr/aspose.cells/shifttype/
 is_root: false
 ---
@@ -12,13 +12,13 @@ Bir hücre aralığını silerken kaydırma seçeneklerini temsil edin.
 
 
 
-ShiftType türü aşağıdaki üyeleri gösterir:
+ShiftType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | DOWN | Hücreleri aşağı kaydırın.|
-| LEFT | Hücreleri sola kaydır.|
+| LEFT | Hücreleri sola kaydırın.|
 | NONE | Hücreleri kaydırmayın.|
 | RIGHT | Hücreleri sağa kaydır.|
 | UP | Hücreleri yukarı kaydırın.|
@@ -26,4 +26,4 @@ ShiftType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

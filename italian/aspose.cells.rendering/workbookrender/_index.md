@@ -1,24 +1,24 @@
 ---
-title: classe WorkbookRender
+title: WorkbookRender classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 130
+weight: 150
 url: /it/aspose.cells.rendering/workbookrender/
 is_root: false
 ---
-##  classe WorkbookRender
- Rappresenta un rendering della cartella di lavoro.
-Il costruttore di questa classe, deve essere utilizzato dopo la modifica di pagesetup, cell style.
+##  WorkbookRender classe
+ Rappresenta il rendering di una cartella di lavoro.
+Il costruttore di questa classe, deve essere utilizzato dopo la modifica di pagesetup, stile cella.
 
 
 
-Il tipo WorkbookRender espone i membri seguenti:
+Il tipo WorkbookRender espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [WorkbookRender(workbook, options)](/cells/python-net/it/aspose.cells.rendering/workbookrender/__init__/#Workbook-ImageOrPrintOptions) | Il costrutto di WorkbookRender|
+| [__init__](/cells/python-net/it/aspose.cells.rendering/workbookrender/__init__/#aspose.cells.Workbook-aspose.cells.rendering.ImageOrPrintOptions) | Il costrutto di WorkbookRender|
 
 
 ###  Proprietà
@@ -30,17 +30,18 @@ Il tipo WorkbookRender espone i membri seguenti:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [to_image(stream)](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_image/#io.RawIOBase) | Renderizza l'intera cartella di lavoro come immagine Tiff per lo streaming.|
-| [to_image(filename)](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_image/#str) | Renderizza l'intera cartella di lavoro come immagine Tiff in un file.|
-| [to_image(page_index, file_name)](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_image/#int-str) | Renderizza determinate pagine in un file.|
-| [to_image(page_index, stream)](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_image/#int-io.RawIOBase) | Renderizza determinate pagine in un flusso.|
-| [to_printer(printer_name)](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_printer/#str) | Renderizza la cartella di lavoro sulla stampante|
-| [to_printer(printer_name, job_name)](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_printer/#str-str) | Renderizza la cartella di lavoro sulla stampante|
-| [to_printer(printer_settings)](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings) | Renderizza la cartella di lavoro sulla stampante|
-| [to_printer(printer_settings, job_name)](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings-str) | Renderizza la cartella di lavoro sulla stampante|
-| [to_printer(printer_name, print_page_index, print_page_count)](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_printer/#str-int-int) | Renderizza la cartella di lavoro sulla stampante|
-| [get_page_size_inch(page_index)](/cells/python-net/it/aspose.cells.rendering/workbookrender/get_page_size_inch/#int) |Ottieni le dimensioni della pagina in pollici dell'immagine di output.|
-| [custom_print(next_page_after_print, print_page_event_args)](/cells/python-net/it/aspose.cells.rendering/workbookrender/custom_print/#bool-aspose.pydrawing.printing.PrintPageEventArgs) | Il client può controllare l'impostazione della pagina della stampante quando stampa ciascuna pagina utilizzando questa funzione.|
+| [to_image](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_image/#io.RawIOBase) | Visualizza l'intera cartella di lavoro come immagine Tiff per lo streaming.|
+| [to_image](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_image/#str) | Visualizza l'intera cartella di lavoro come immagine Tiff in un file.|
+| [to_image](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_image/#int-str) |Renderizza una determinata pagina in un file.|
+| [to_image](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_image/#int-io.RawIOBase) | Visualizza una determinata pagina in uno stream.|
+| [to_printer](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_printer/#str) | Rendering della cartella di lavoro sulla stampante|
+| [to_printer](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_printer/#str-str) | Rendering della cartella di lavoro sulla stampante|
+| [to_printer](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings) | Rendering della cartella di lavoro sulla stampante|
+| [to_printer](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings-str) | Rendering della cartella di lavoro sulla stampante|
+| [to_printer](/cells/python-net/it/aspose.cells.rendering/workbookrender/to_printer/#str-int-int) | Rendering della cartella di lavoro sulla stampante|
+| [get_page_size_inch](/cells/python-net/it/aspose.cells.rendering/workbookrender/get_page_size_inch/#int) | Ottieni le dimensioni della pagina in pollici dell'immagine di output.|
+| [custom_print](/cells/python-net/it/aspose.cells.rendering/workbookrender/custom_print/#bool-aspose.pydrawing.printing.PrintPageEventArgs) | Il client può controllare l'impostazione della pagina della stampante quando stampa ciascuna pagina utilizzando questa funzione.|
+| [dispose](/cells/python-net/it/aspose.cells.rendering/workbookrender/dispose/#) | Rilascia le risorse create e utilizzate per il rendering.|
 
 
 
@@ -49,4 +50,4 @@ Il tipo WorkbookRender espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](..)
+* modulo [`aspose.cells.rendering`](..)

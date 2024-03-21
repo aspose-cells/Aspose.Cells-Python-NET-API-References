@@ -3,7 +3,7 @@ title: ExternalLink klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 560
+weight: 590
 url: /sv/aspose.cells/externallink/
 is_root: false
 ---
@@ -27,7 +27,7 @@ Typen ExternalLink avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add_external_name(text, refer_to)](/cells/python-net/sv/aspose.cells/externallink/add_external_name/#str-str) | Lägger till ett externt namn.|
+| [add_external_name](/cells/python-net/sv/aspose.cells/externallink/add_external_name/#str-str) | Lägger till ett externt namn.|
 
 
 
@@ -46,4 +46,4 @@ externalLink.data_source = "d:\\link.xls"
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 630
+weight: 660
 url: /sv/aspose.cells/cell/name/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

@@ -3,7 +3,7 @@ title: is_protected proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 570
+weight: 590
 url: /it/aspose.cells/worksheet/is_protected/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_protected(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

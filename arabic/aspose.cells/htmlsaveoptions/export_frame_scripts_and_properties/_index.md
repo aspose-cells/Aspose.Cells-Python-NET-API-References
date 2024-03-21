@@ -1,16 +1,16 @@
 ---
-title: export_frame_scripts_and_properties الملكية
+title: export_frame_scripts_and_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 250
 url: /ar/aspose.cells/htmlsaveoptions/export_frame_scripts_and_properties/
 is_root: false
 ---
-##  export_frame_scripts_and_properties الملكية
+##  export_frame_scripts_and_properties عقار
 
-الإشارة إلى ما إذا كان يتم تصدير البرامج النصية للإطار وخصائص المستند. القيمة الافتراضية هي true ، إذا كنت تريد استيراد ملف html أو mht
-للتفوق ، يرجى الاحتفاظ بالقيمة الافتراضية.
+الإشارة إلى ما إذا كان سيتم تصدير البرامج النصية للإطار وخصائص المستند. القيمة الافتراضية هي true.إذا كنت تريد استيراد ملف html أو mht
+للتفوق، يرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def export_frame_scripts_and_properties(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

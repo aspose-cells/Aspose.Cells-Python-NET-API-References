@@ -3,7 +3,7 @@ title: is_smart_art Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 650
+weight: 670
 url: /de/aspose.cells.drawing/radiobutton/is_smart_art/
 is_root: false
 ---
@@ -32,5 +32,5 @@ def is_smart_art(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RadioButton](/cells/python-net/de/aspose.cells.drawing/radiobutton)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RadioButton`](/cells/python-net/de/aspose.cells.drawing/radiobutton)

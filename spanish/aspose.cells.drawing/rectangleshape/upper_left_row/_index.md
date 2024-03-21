@@ -3,7 +3,7 @@ title: upper_left_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /es/aspose.cells.drawing/rectangleshape/upper_left_row/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def upper_left_row(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [RectangleShape](/cells/python-net/es/aspose.cells.drawing/rectangleshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`RectangleShape`](/cells/python-net/es/aspose.cells.drawing/rectangleshape)

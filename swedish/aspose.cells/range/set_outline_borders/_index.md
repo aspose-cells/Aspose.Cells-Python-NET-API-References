@@ -3,11 +3,11 @@ title: set_outline_borders metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 200
 url: /sv/aspose.cells/range/set_outline_borders/
 is_root: false
 ---
-##  set_outline_borders(border_style, border_color) {#CellBorderType-CellsColor}
+##  set_outline_borders {#aspose.cells.CellBorderType-aspose.cells.CellsColor}
 Ställer in konturkanterna runt ett cellintervall med samma kantstil och färg.
 
 
@@ -20,11 +20,11 @@ def set_outline_borders(self, border_style, border_color):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| border_style | [CellBorderType](/cells/python-net/sv/aspose.cells/cellbordertype) | Border stil.|
-| border_color | [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor) | Gräns färg.|
+| border_style | [`CellBorderType`](/cells/python-net/sv/aspose.cells/cellbordertype) | Border stil.|
+| border_color | [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor) | Gräns färg.|
 
 
-##  set_outline_borders(border_style, border_color) {#CellBorderType-aspose.pydrawing.Color}
+##  set_outline_borders {#aspose.cells.CellBorderType-aspose.pydrawing.Color}
 Ställer in konturkanterna runt ett cellintervall med samma kantstil och färg.
 
 
@@ -37,11 +37,11 @@ def set_outline_borders(self, border_style, border_color):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| border_style | [CellBorderType](/cells/python-net/sv/aspose.cells/cellbordertype) | Border stil.|
+| border_style | [`CellBorderType`](/cells/python-net/sv/aspose.cells/cellbordertype) | Border stil.|
 | border_color | aspose.pydrawing.Color | Gräns färg.|
 
 
-##  set_outline_borders(border_styles, border_colors) {#list-aspose.pydrawing.Color[]}
+##  set_outline_borders {#list-aspose.pydrawing.Color[]}
 Anger linjekanter runt ett cellintervall.
 
 
@@ -54,7 +54,7 @@ def set_outline_borders(self, border_styles, border_colors):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| border_styles | list | Border stilar.|
+| border_styles | list |Border stilar.|
 | border_colors | aspose.pydrawing.Color[] | Kantfärger.|
 ###  Anmärkningar
 
@@ -63,5 +63,5 @@ Ordningen för borderStyles och borderStyles måste vara upptill, botten, vänst
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

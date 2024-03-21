@@ -3,11 +3,11 @@ title: طريقة set_linked_cell
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 200
 url: /ar/aspose.cells.drawing/smartartshape/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell(formula, is_r1c1, is_local) {#str-bool-bool}
+##  set_linked_cell {#str-bool-bool}
 يضبط النطاق المرتبط بقيمة عنصر التحكم.
 
 
@@ -21,8 +21,8 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | formula | str | النطاق المرتبط بقيمة عنصر التحكم.|
-| is_r1c1 | bool | ما إذا كانت الصيغة تحتاج إلى تنسيقها كـ R1C1.|
-| is_local | bool | ما إذا كانت الصيغة تحتاج إلى التنسيق بواسطة الإعدادات المحلية.|
+| is_r1c1 | bool | ما إذا كانت الصيغة بحاجة إلى التنسيق كـ R1C1.|
+| is_local | bool | ما إذا كانت الصيغة بحاجة إلى التنسيق حسب الإعدادات المحلية.|
 
 ###  مثال
 
@@ -41,5 +41,5 @@ scrollBar.set_linked_cell("$A$12", False, True)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [SmartArtShape](/cells/python-net/ar/aspose.cells.drawing/smartartshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SmartArtShape`](/cells/python-net/ar/aspose.cells.drawing/smartartshape)

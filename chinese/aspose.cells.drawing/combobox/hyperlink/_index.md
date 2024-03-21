@@ -1,15 +1,15 @@
 ---
-title: hyperlink 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: hyperlink属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 500
+weight: 510
 url: /zh/aspose.cells.drawing/combobox/hyperlink/
 is_root: false
 ---
-## hyperlink 属性
+## hyperlink属性
 
-获取形状的 hyperlink。
+获取形状的hyperlink。
 
 ### 例子
 
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ComboBox](/cells/python-net/zh/aspose.cells.drawing/combobox)
-* 类 [Hyperlink](/cells/python-net/zh/aspose.cells/hyperlink)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ComboBox`](/cells/python-net/zh/aspose.cells.drawing/combobox)
+* 类 [`Hyperlink`](/cells/python-net/zh/aspose.cells/hyperlink)

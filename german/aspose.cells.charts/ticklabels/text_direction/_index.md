@@ -3,7 +3,7 @@ title: text_direction Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 150
+weight: 160
 url: /de/aspose.cells.charts/ticklabels/text_direction/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Stellt die Lesereihenfolge des Textes dar.
 
  HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
  Bitte verwenden Sie die TickLabels.ReadingOrder-Eigenschaft.
- Diese Property wird 12 Monate später seit März 2020 entfernt.
+ Diese Immobilie wird seit März 2020 12 Monate später entfernt.
 Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
 ###  Definition:
 ```python
@@ -28,6 +28,6 @@ def text_direction(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [TextDirectionType](/cells/python-net/de/aspose.cells/textdirectiontype)
-* Klasse [TickLabels](/cells/python-net/de/aspose.cells.charts/ticklabels)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`TextDirectionType`](/cells/python-net/de/aspose.cells/textdirectiontype)
+* Klasse [`TickLabels`](/cells/python-net/de/aspose.cells.charts/ticklabels)

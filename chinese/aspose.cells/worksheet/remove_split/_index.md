@@ -1,14 +1,14 @@
 ---
 title: remove_split方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 240
 url: /zh/aspose.cells/worksheet/remove_split/
 is_root: false
 ---
-##  remove_split() {#}
-删除拆分窗口。
+##  remove_split {#}
+删除分割窗口。
 
 
 
@@ -22,5 +22,5 @@ def remove_split(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Worksheet](/cells/python-net/zh/aspose.cells/worksheet)
+* 模块[`aspose.cells`](../../)
+* 类 [`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet)

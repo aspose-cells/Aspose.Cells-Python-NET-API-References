@@ -3,11 +3,11 @@ title: import_data yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 650
+weight: 640
 url: /tr/aspose.cells/cells/import_data/
 is_root: false
 ---
-##  import_data(table, first_row, first_column, options) {#ICellsDataTable-int-int-ImportTableOptions}
+##  import_data {#aspose.cells.ICellsDataTable-int-int-aspose.cells.ImportTableOptions}
 Özel veri tablosundan verileri içe aktarın.
 
 
@@ -24,13 +24,13 @@ def import_data(self, table, first_row, first_column, options):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| table | [ICellsDataTable](/cells/python-net/tr/aspose.cells/icellsdatatable) | Özel veri tablosu.|
+| table | [`ICellsDataTable`](/cells/python-net/tr/aspose.cells/icellsdatatable) | Özel veri tablosu.|
 | first_row | int | İlk satır dizini.|
 | first_column | int | İlk sütun dizini.|
-| options | [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions) | içe aktarma seçenekleri|
+| options | [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions) | İçe aktarma seçenekleri|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

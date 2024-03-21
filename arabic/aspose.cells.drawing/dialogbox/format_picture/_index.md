@@ -1,13 +1,13 @@
 ---
-title: format_picture الملكية
+title: format_picture عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 380
 url: /ar/aspose.cells.drawing/dialogbox/format_picture/
 is_root: false
 ---
-##  format_picture الملكية
+##  format_picture عقار
 
 الحصول على خيارات تنسيق الصورة وتعيينها.
 
@@ -26,6 +26,6 @@ def format_picture(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [DialogBox](/cells/python-net/ar/aspose.cells.drawing/dialogbox)
-* فئة [MsoFormatPicture](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`DialogBox`](/cells/python-net/ar/aspose.cells.drawing/dialogbox)
+* فئة [`MsoFormatPicture`](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)

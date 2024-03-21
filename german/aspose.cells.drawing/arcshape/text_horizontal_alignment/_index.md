@@ -3,7 +3,7 @@ title: text_horizontal_alignment Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1020
+weight: 1030
 url: /de/aspose.cells.drawing/arcshape/text_horizontal_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ArcShape](/cells/python-net/de/aspose.cells.drawing/arcshape)
-* Klasse [TextAlignmentType](/cells/python-net/de/aspose.cells/textalignmenttype)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ArcShape`](/cells/python-net/de/aspose.cells.drawing/arcshape)
+* Klasse [`TextAlignmentType`](/cells/python-net/de/aspose.cells/textalignmenttype)

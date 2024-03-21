@@ -3,11 +3,11 @@ title: get_standard_function_name metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 200
 url: /sv/aspose.cells/globalizationsettings/get_standard_function_name/
 is_root: false
 ---
-##  get_standard_function_name(local_name) {#str}
+##  get_standard_function_name {#str}
 Hämtar standardfunktionsnamnet enligt ett visst språkberoende funktionsnamn.
 
 
@@ -29,5 +29,5 @@ def get_standard_function_name(self, local_name):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GlobalizationSettings](/cells/python-net/sv/aspose.cells/globalizationsettings)
+* modul [`aspose.cells`](../../)
+* klass [`GlobalizationSettings`](/cells/python-net/sv/aspose.cells/globalizationsettings)

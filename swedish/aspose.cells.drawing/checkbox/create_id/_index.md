@@ -3,7 +3,7 @@ title: create_id fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 360
 url: /sv/aspose.cells.drawing/checkbox/create_id/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def create_id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CheckBox](/cells/python-net/sv/aspose.cells.drawing/checkbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CheckBox`](/cells/python-net/sv/aspose.cells.drawing/checkbox)

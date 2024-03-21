@@ -3,7 +3,7 @@ title: ThemeColor klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1430
+weight: 1500
 url: /sv/aspose.cells/themecolor/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Typen ThemeColor avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [ThemeColor(type, tint)](/cells/python-net/sv/aspose.cells/themecolor/__init__/#ThemeColorType-float) |  |
+| [__init__](/cells/python-net/sv/aspose.cells/themecolor/__init__/#aspose.cells.ThemeColorType-float) |  |
 
 
 ###  Egenskaper
@@ -50,4 +50,4 @@ workbook.save("book1.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

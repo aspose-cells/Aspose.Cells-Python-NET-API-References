@@ -3,7 +3,7 @@ title: top fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /sv/aspose.cells.drawing/shape/top/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def top(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Shape](/cells/python-net/sv/aspose.cells.drawing/shape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Shape`](/cells/python-net/sv/aspose.cells.drawing/shape)

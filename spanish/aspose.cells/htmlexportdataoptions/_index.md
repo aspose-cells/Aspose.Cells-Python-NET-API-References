@@ -3,7 +3,7 @@ title: HtmlExportDataOptions enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2150
+weight: 2220
 url: /es/aspose.cells/htmlexportdataoptions/
 is_root: false
 ---
@@ -17,10 +17,10 @@ El tipo HtmlExportDataOptions expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| TABLE | Exportar archivo a html que solo contiene parte de la tabla.|
+| TABLE | Exporte el archivo a html que solo contiene parte de la tabla.|
 | ALL | Exporta todos los datos a html.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

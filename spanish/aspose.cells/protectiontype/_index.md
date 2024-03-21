@@ -3,12 +3,12 @@ title: ProtectionType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2420
+weight: 2510
 url: /es/aspose.cells/protectiontype/
 is_root: false
 ---
 ##  ProtectionType enumeración
-Representa el tipo de protección del libro/hoja de trabajo.
+Representa el tipo de protección de libro/hoja de trabajo.
 
 
 
@@ -18,14 +18,14 @@ El tipo ProtectionType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | ALL | Representa proteger a todos.|
-| CONTENTS | Representa para proteger el contenido, utilizado en la protección de la hoja de trabajo.|
-| OBJECTS | Representa la protección de objetos, utilizada en la protección de hojas de trabajo.|
-| SCENARIOS | Representa escenarios de protección, utilizados en la protección de la hoja de trabajo.|
-| STRUCTURE | Representa para proteger la estructura, utilizada en la protección del libro de trabajo.|
-| WINDOWS | Representa para proteger la ventana, utilizada en la protección del libro de trabajo.|
-| NONE | Representa ninguna protección. Sólo para la propiedad de lectura.|
+| CONTENTS | Representa la protección de contenidos, utilizado en la protección de hojas de trabajo.|
+| OBJECTS | Representa proteger objetos, utilizado en la protección de hojas de trabajo.|
+| SCENARIOS | Representa escenarios de protección, utilizados en la protección de hojas de trabajo.|
+| STRUCTURE | Representa la protección de la estructura, utilizada en la protección del libro de trabajo.|
+| WINDOWS | Representa la ventana de protección, utilizada en la protección del libro de trabajo.|
+| NONE | No representa protección. Sólo para propiedad de lectura.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

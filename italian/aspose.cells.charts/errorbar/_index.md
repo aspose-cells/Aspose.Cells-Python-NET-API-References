@@ -1,55 +1,55 @@
 ---
-title: classe ErrorBar
+title: ErrorBar classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 150
+weight: 160
 url: /it/aspose.cells.charts/errorbar/
 is_root: false
 ---
-##  classe ErrorBar
+##  ErrorBar classe
 Rappresenta la barra di errore delle serie di dati.
 
 
 
-**Eredità:** [ErrorBar](/cells/python-net/aspose.cells.charts/errorbar) → 
-[Line](/cells/python-net/it/aspose.cells.drawing/line)
+**Eredità:** [`ErrorBar`](/cells/python-net/aspose.cells.charts/errorbar) → 
+[`Line`](/cells/python-net/it/aspose.cells.drawing/line)
 
 
 
-Il tipo ErrorBar espone i membri seguenti:
+Il tipo ErrorBar espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
 | [compound_type](/cells/python-net/it/aspose.cells.charts/errorbar/compound_type) | Specifica il tipo di linea composta|
 | [dash_type](/cells/python-net/it/aspose.cells.charts/errorbar/dash_type) | Specifica il tipo di linea tratteggiata|
-| [cap_type](/cells/python-net/it/aspose.cells.charts/errorbar/cap_type) | Specifica le maiuscole finali.|
-| [join_type](/cells/python-net/it/aspose.cells.charts/errorbar/join_type) | Specifica le estremità di giunzione.|
-| [begin_type](/cells/python-net/it/aspose.cells.charts/errorbar/begin_type) |Specifica una freccia per l'inizio di una riga.|
-| [end_type](/cells/python-net/it/aspose.cells.charts/errorbar/end_type) | Specifica una freccia per la fine di una riga.|
-| [begin_arrow_length](/cells/python-net/it/aspose.cells.charts/errorbar/begin_arrow_length) | Specifica la lunghezza della punta della freccia per l'inizio di una riga.|
-| [end_arrow_length](/cells/python-net/it/aspose.cells.charts/errorbar/end_arrow_length) | Specifica la lunghezza della punta della freccia per la fine di una riga.|
-| [begin_arrow_width](/cells/python-net/it/aspose.cells.charts/errorbar/begin_arrow_width) | Specifica la larghezza della punta della freccia per l'inizio di una riga.|
-| [end_arrow_width](/cells/python-net/it/aspose.cells.charts/errorbar/end_arrow_width) | Specifica la larghezza della punta della freccia per la fine di una riga.|
+| [cap_type](/cells/python-net/it/aspose.cells.charts/errorbar/cap_type) |Specifica le estremità finali.|
+| [join_type](/cells/python-net/it/aspose.cells.charts/errorbar/join_type) | Specifica le estremità di unione.|
+| [begin_type](/cells/python-net/it/aspose.cells.charts/errorbar/begin_type) | Specifica una freccia per l'inizio di una linea.|
+| [end_type](/cells/python-net/it/aspose.cells.charts/errorbar/end_type) | Specifica una freccia per la fine di una linea.|
+| [begin_arrow_length](/cells/python-net/it/aspose.cells.charts/errorbar/begin_arrow_length) | Specifica la lunghezza della punta della freccia per l'inizio di una linea.|
+| [end_arrow_length](/cells/python-net/it/aspose.cells.charts/errorbar/end_arrow_length) | Specifica la lunghezza della freccia per la fine di una linea.|
+| [begin_arrow_width](/cells/python-net/it/aspose.cells.charts/errorbar/begin_arrow_width) | Specifica la larghezza della freccia per l'inizio di una linea.|
+| [end_arrow_width](/cells/python-net/it/aspose.cells.charts/errorbar/end_arrow_width) | Specifica la larghezza della freccia per la fine di una linea.|
 | [theme_color](/cells/python-net/it/aspose.cells.charts/errorbar/theme_color) | Ottiene e imposta il colore del tema.|
-| [color](/cells/python-net/it/aspose.cells.charts/errorbar/color) | Rappresenta il Colore della linea.|
-| [transparency](/cells/python-net/it/aspose.cells.charts/errorbar/transparency) | Restituisce o imposta il grado di trasparenza della linea come valore compreso tra 0,0 (opaco) e 1,0 (chiaro).|
+| [color](/cells/python-net/it/aspose.cells.charts/errorbar/color) | Rappresenta il colore della linea.|
+| [transparency](/cells/python-net/it/aspose.cells.charts/errorbar/transparency) | Restituisce o imposta il grado di trasparenza della linea come un valore compreso tra 0,0 (opaco) e 1,0 (chiaro).|
 | [style](/cells/python-net/it/aspose.cells.charts/errorbar/style) | Rappresenta lo stile della linea.|
-| [weight](/cells/python-net/it/aspose.cells.charts/errorbar/weight) | Ottiene o imposta lo [WeightType](/cells/python-net/it/aspose.cells.drawing/weighttype) della riga.|
+| [weight](/cells/python-net/it/aspose.cells.charts/errorbar/weight) | Ottiene o imposta lo [`WeightType`](/cells/python-net/it/aspose.cells.drawing/weighttype) della linea.|
 | [weight_pt](/cells/python-net/it/aspose.cells.charts/errorbar/weight_pt) | Ottiene o imposta lo spessore della linea in unità di punti.|
 | [weight_px](/cells/python-net/it/aspose.cells.charts/errorbar/weight_px) | Ottiene o imposta lo spessore della linea in unità di pixel.|
 | [formatting_type](/cells/python-net/it/aspose.cells.charts/errorbar/formatting_type) | Ottiene o imposta il tipo di formato.|
-| [is_automatic_color](/cells/python-net/it/aspose.cells.charts/errorbar/is_automatic_color) | Indica se il colore della linea è assegnato automaticamente.|
+| [is_automatic_color](/cells/python-net/it/aspose.cells.charts/errorbar/is_automatic_color) | Indica se il colore della linea viene assegnato automaticamente.|
 | [is_visible](/cells/python-net/it/aspose.cells.charts/errorbar/is_visible) | Indica se la linea è visibile.|
-| [is_auto](/cells/python-net/it/aspose.cells.charts/errorbar/is_auto) | Indica se questo stile di linea è assegnato automaticamente.|
+| [is_auto](/cells/python-net/it/aspose.cells.charts/errorbar/is_auto) |Indica se questo stile di linea è assegnato automaticamente.|
 | [gradient_fill](/cells/python-net/it/aspose.cells.charts/errorbar/gradient_fill) | Rappresenta il riempimento sfumato.|
-| [type](/cells/python-net/it/aspose.cells.charts/errorbar/type) |Rappresenta il tipo di importo della barra di errore.|
+| [type](/cells/python-net/it/aspose.cells.charts/errorbar/type) | Rappresenta il tipo di importo della barra di errore.|
 | [display_type](/cells/python-net/it/aspose.cells.charts/errorbar/display_type) | Rappresenta il tipo di visualizzazione della barra di errore.|
 | [amount](/cells/python-net/it/aspose.cells.charts/errorbar/amount) | Rappresenta la quantità di barra di errore.<br/> L'importo deve essere maggiore o uguale a zero.|
-| [show_marker_t_top](/cells/python-net/it/aspose.cells.charts/errorbar/show_marker_t_top) | Indica se formattare le barre di errore con un T-top.|
-| [plus_value](/cells/python-net/it/aspose.cells.charts/errorbar/plus_value) | Rappresenta l'importo dell'errore positivo quando il tipo di barra di errore è Personalizzato.|
-| [minus_value](/cells/python-net/it/aspose.cells.charts/errorbar/minus_value) | Rappresenta l'importo dell'errore negativo quando il tipo di barra di errore è Personalizzato.|
+| [show_marker_t_top](/cells/python-net/it/aspose.cells.charts/errorbar/show_marker_t_top) | Indica se si formattano le barre di errore con un T-top.|
+| [plus_value](/cells/python-net/it/aspose.cells.charts/errorbar/plus_value) | Rappresenta un importo di errore positivo quando il tipo di barra di errore è Personalizzato.|
+| [minus_value](/cells/python-net/it/aspose.cells.charts/errorbar/minus_value) | Rappresenta un importo di errore negativo quando il tipo di barra di errore è Personalizzato.|
 
 
 
@@ -77,16 +77,16 @@ chartIndex = workbook.worksheets[0].charts.add(ChartType.COLUMN, 11, 0, 27, 10)
 chart = workbook.worksheets[0].charts[chartIndex]
 chart.n_series.add("A1:B4", True)
 chart.n_series.category_data = "C1:C4"
-for i in range(len(chart.NSeries)):
+for i in range(len(chart.n_series)):
     aseries = chart.n_series[i]
     aseries.y_error_bar.display_type = ErrorBarDisplayType.MINUS
     aseries.y_error_bar.type = ErrorBarType.FIXED_VALUE
-    aseries.y_error_bar.amount = 5
+    aseries.y_error_bar.amount = 5.0
 
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
-* classe [ErrorBar](/cells/python-net/it/aspose.cells.charts/errorbar)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
-* classe [WeightType](/cells/python-net/it/aspose.cells.drawing/weighttype)
+* modulo [`aspose.cells.charts`](..)
+* classe [`ErrorBar`](/cells/python-net/it/aspose.cells.charts/errorbar)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)
+* classe [`WeightType`](/cells/python-net/it/aspose.cells.drawing/weighttype)

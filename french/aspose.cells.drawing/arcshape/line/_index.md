@@ -3,7 +3,7 @@ title: line propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 770
+weight: 780
 url: /fr/aspose.cells.drawing/arcshape/line/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def line(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/fr/aspose.cells.drawing/arcshape)
-* classe [LineFormat](/cells/python-net/fr/aspose.cells.drawing/lineformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/fr/aspose.cells.drawing/arcshape)
+* classe [`LineFormat`](/cells/python-net/fr/aspose.cells.drawing/lineformat)

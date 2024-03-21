@@ -1,15 +1,15 @@
 ---
-title: title الملكية
+title: title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /ar/aspose.cells.drawing/combobox/title/
 is_root: false
 ---
-##  title الملكية
+##  title عقار
 
-يحدد title (تسمية توضيحية) لعنصر الشكل الحالي.
+يحدد title (تسمية توضيحية) لكائن الشكل الحالي.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ComboBox](/cells/python-net/ar/aspose.cells.drawing/combobox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ComboBox`](/cells/python-net/ar/aspose.cells.drawing/combobox)

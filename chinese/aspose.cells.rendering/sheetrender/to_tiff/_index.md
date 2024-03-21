@@ -1,13 +1,13 @@
 ---
 title: to_tiff方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 70
 url: /zh/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff(stream) {#io.RawIOBase}
+##  to_tiff {#io.RawIOBase}
 将整个工作表渲染为 Tiff 图像以进行流式传输。
 
 
@@ -20,11 +20,11 @@ def to_tiff(self, stream):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| stream | io.RawIOBase |输出图像流|
+| stream | io.RawIOBase |输出图像的流|
 
 
-##  to_tiff(filename) {#str}
-将整个工作表作为 Tiff 图像呈现到文件中。
+##  to_tiff {#str}
+将整个工作表作为 Tiff 图像渲染到文件中。
 
 
 
@@ -61,5 +61,5 @@ sr.to_tiff("output.tiff")
 
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](../../)
-* 类 [SheetRender](/cells/python-net/zh/aspose.cells.rendering/sheetrender)
+* 模块[`aspose.cells.rendering`](../../)
+* 类 [`SheetRender`](/cells/python-net/zh/aspose.cells.rendering/sheetrender)

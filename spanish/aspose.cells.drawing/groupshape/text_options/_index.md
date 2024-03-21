@@ -3,7 +3,7 @@ title: text_options propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1000
+weight: 1010
 url: /es/aspose.cells.drawing/groupshape/text_options/
 is_root: false
 ---
@@ -32,6 +32,6 @@ def text_options(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
-* clase [TextOptions](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* clase [`TextOptions`](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)

@@ -3,7 +3,7 @@ title: first_column proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 300
+weight: 320
 url: /it/aspose.cells/range/first_column/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def first_column(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Range](/cells/python-net/it/aspose.cells/range)
+* modulo [`aspose.cells`](../../)
+* classe [`Range`](/cells/python-net/it/aspose.cells/range)

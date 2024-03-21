@@ -1,19 +1,19 @@
 ---
 title: get_grouped_column_outline_level метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 400
+weight: 380
 url: /ru/aspose.cells/cells/get_grouped_column_outline_level/
 is_root: false
 ---
-##  get_grouped_column_outline_level(column_index) {#int}
-Получает уровень структуры (отсчитываемый от нуля) столбца.
+##  get_grouped_column_outline_level {#int}
+Получает уровень структуры (отсчет от нуля) столбца.
 
 
-###  Возвращает
+###  Возврат
 
-Уровень контура столбца
+Уровень структуры столбца
 
 
 ```python
@@ -27,10 +27,10 @@ def get_grouped_column_outline_level(self, column_index):
 | column_index | int | Индекс столбца|
 ###  Примечания
 
-Если столбец не сгруппирован, возвращает ноль.
+Если столбец не сгруппирован, возвращается ноль.
 
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

@@ -3,7 +3,7 @@ title: x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1280
+weight: 1290
 url: /sv/aspose.cells.drawing/spinner/x/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def x(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Spinner](/cells/python-net/sv/aspose.cells.drawing/spinner)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Spinner`](/cells/python-net/sv/aspose.cells.drawing/spinner)

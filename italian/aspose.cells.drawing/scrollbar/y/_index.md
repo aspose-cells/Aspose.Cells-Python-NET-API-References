@@ -3,7 +3,7 @@ title: y proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1300
+weight: 1310
 url: /it/aspose.cells.drawing/scrollbar/y/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ScrollBar](/cells/python-net/it/aspose.cells.drawing/scrollbar)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ScrollBar`](/cells/python-net/it/aspose.cells.drawing/scrollbar)

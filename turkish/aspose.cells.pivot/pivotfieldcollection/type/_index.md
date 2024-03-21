@@ -3,7 +3,7 @@ title: type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 80
 url: /tr/aspose.cells.pivot/pivotfieldcollection/type/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotFieldCollection](/cells/python-net/tr/aspose.cells.pivot/pivotfieldcollection)
-* sınıf [PivotFieldType](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotFieldCollection`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldcollection)
+* sınıf [`PivotFieldType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype)

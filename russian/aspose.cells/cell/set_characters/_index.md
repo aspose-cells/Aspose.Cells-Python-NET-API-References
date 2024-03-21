@@ -1,13 +1,13 @@
 ---
 title: set_characters метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ru/aspose.cells/cell/set_characters/
 is_root: false
 ---
-##  set_characters(characters) {#list}
+##  set_characters {#list}
 Устанавливает расширенный текстовый формат ячейки.
 
 
@@ -20,10 +20,10 @@ def set_characters(self, characters):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| characters | list | Все объекты персонажей.|
+| characters | list | Все объекты Персонажи.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

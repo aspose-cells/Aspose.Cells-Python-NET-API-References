@@ -3,7 +3,7 @@ title: quote_prefix proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 380
+weight: 440
 url: /it/aspose.cells/style/quote_prefix/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def quote_prefix(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Style](/cells/python-net/it/aspose.cells/style)
+* modulo [`aspose.cells`](../../)
+* classe [`Style`](/cells/python-net/it/aspose.cells/style)

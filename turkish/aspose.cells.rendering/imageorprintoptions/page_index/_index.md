@@ -3,7 +3,7 @@ title: page_index mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 230
 url: /tr/aspose.cells.rendering/imageorprintoptions/page_index/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def page_index(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [ImageOrPrintOptions](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`ImageOrPrintOptions`](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)

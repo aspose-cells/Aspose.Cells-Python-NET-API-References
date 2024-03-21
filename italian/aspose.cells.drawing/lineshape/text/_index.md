@@ -3,7 +3,7 @@ title: text proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 970
+weight: 980
 url: /it/aspose.cells.drawing/lineshape/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [LineShape](/cells/python-net/it/aspose.cells.drawing/lineshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`LineShape`](/cells/python-net/it/aspose.cells.drawing/lineshape)

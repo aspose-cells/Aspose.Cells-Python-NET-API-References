@@ -3,7 +3,7 @@ title: DisplayDrawingObjects Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1970
+weight: 2040
 url: /de/aspose.cells/displaydrawingobjects/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Der Typ DisplayDrawingObjects macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

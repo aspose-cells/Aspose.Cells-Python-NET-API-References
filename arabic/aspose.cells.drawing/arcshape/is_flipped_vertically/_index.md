@@ -1,15 +1,15 @@
 ---
-title: is_flipped_vertically الملكية
+title: is_flipped_vertically عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 620
 url: /ar/aspose.cells.drawing/arcshape/is_flipped_vertically/
 is_root: false
 ---
-##  is_flipped_vertically الملكية
+##  is_flipped_vertically عقار
 
-الحصول على وتحديد ما إذا كان الشكل مقلوبًا رأسياً.
+الحصول على وتحديد ما إذا كان الشكل مقلوبًا رأسيًا.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def is_flipped_vertically(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ArcShape](/cells/python-net/ar/aspose.cells.drawing/arcshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ArcShape`](/cells/python-net/ar/aspose.cells.drawing/arcshape)

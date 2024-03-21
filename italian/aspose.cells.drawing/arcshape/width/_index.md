@@ -3,7 +3,7 @@ title: width proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /it/aspose.cells.drawing/arcshape/width/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/it/aspose.cells.drawing/arcshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/it/aspose.cells.drawing/arcshape)

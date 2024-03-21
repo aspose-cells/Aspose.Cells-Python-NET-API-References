@@ -3,7 +3,7 @@ title: Font clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 650
+weight: 680
 url: /es/aspose.cells/font/
 is_root: false
 ---
@@ -17,30 +17,30 @@ El tipo Font expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [charset](/cells/python-net/es/aspose.cells/font/charset) | Representar el conjunto de caracteres.|
+| [charset](/cells/python-net/es/aspose.cells/font/charset) | Representa el conjunto de caracteres.|
 | [is_italic](/cells/python-net/es/aspose.cells/font/is_italic) | Obtiene o establece un valor que indica si la fuente está en cursiva.|
-| [is_bold](/cells/python-net/es/aspose.cells/font/is_bold) |Obtiene o establece un valor que indica si la fuente está en negrita.|
-| [caps_type](/cells/python-net/es/aspose.cells/font/caps_type) | Obtiene y establece el tipo de mayúsculas de texto.|
-| [strike_type](/cells/python-net/es/aspose.cells/font/strike_type) | Obtiene el tipo de aviso del texto.|
-| [is_strikeout](/cells/python-net/es/aspose.cells/font/is_strikeout) | Obtiene o establece un valor que indica si la fuente está tachada.|
-| [script_offset](/cells/python-net/es/aspose.cells/font/script_offset) | Obtiene y establece el desplazamiento del script, en unidades de porcentaje|
+| [is_bold](/cells/python-net/es/aspose.cells/font/is_bold) | Obtiene o establece un valor que indica si la fuente está en negrita.|
+| [caps_type](/cells/python-net/es/aspose.cells/font/caps_type) | Obtiene y establece el tipo de mayúsculas del texto.|
+| [strike_type](/cells/python-net/es/aspose.cells/font/strike_type) | Obtiene el tipo de falta del texto.|
+| [is_strikeout](/cells/python-net/es/aspose.cells/font/is_strikeout) | Obtiene o establece un valor que indica si la fuente tiene un solo tachado.|
+| [script_offset](/cells/python-net/es/aspose.cells/font/script_offset) | Obtiene y establece el desplazamiento del script, en unidades de porcentaje.|
 | [is_superscript](/cells/python-net/es/aspose.cells/font/is_superscript) | Obtiene o establece un valor que indica si la fuente es superscript.|
 | [is_subscript](/cells/python-net/es/aspose.cells/font/is_subscript) | Obtiene o establece un valor que indica si la fuente es un subíndice.|
-| [underline](/cells/python-net/es/aspose.cells/font/underline) | Obtiene o establece el tipo de subrayado de la fuente.|
-| [name](/cells/python-net/es/aspose.cells/font/name) | Obtiene o establece el nombre de [Font](/cells/python-net/es/aspose.cells/font).|
-| [double_size](/cells/python-net/es/aspose.cells/font/double_size) | Obtiene y establece el tamaño doble de la fuente.|
+| [underline](/cells/python-net/es/aspose.cells/font/underline) | Obtiene o establece el tipo de subrayado de fuente.|
+| [name](/cells/python-net/es/aspose.cells/font/name) | Obtiene o establece el nombre de [`Font`](/cells/python-net/es/aspose.cells/font).|
+| [double_size](/cells/python-net/es/aspose.cells/font/double_size) | Obtiene y establece el doble de tamaño de la fuente.|
 | [size](/cells/python-net/es/aspose.cells/font/size) | Obtiene o establece el tamaño de la fuente.|
 | [theme_color](/cells/python-net/es/aspose.cells/font/theme_color) | Obtiene y establece el color del tema.|
 | [color](/cells/python-net/es/aspose.cells/font/color) | Obtiene o establece el Color de la fuente.|
 | [argb_color](/cells/python-net/es/aspose.cells/font/argb_color) | Obtiene y establece el color con un valor ARGB de 32 bits.|
-| [is_normalize_heights](/cells/python-net/es/aspose.cells/font/is_normalize_heights) | Indica si la normalización de altura que se va a aplicar al texto se ejecuta.|
-| [scheme_type](/cells/python-net/es/aspose.cells/font/scheme_type) | Obtiene y establece el tipo de esquema de la fuente.|
+| [is_normalize_heights](/cells/python-net/es/aspose.cells/font/is_normalize_heights) | Indica si se ejecutará la normalización de altura que se va a aplicar al texto.|
+| [scheme_type](/cells/python-net/es/aspose.cells/font/scheme_type) |Obtiene y establece el tipo de esquema de la fuente.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [equals(font)](/cells/python-net/es/aspose.cells/font/equals/#Font) | Comprueba si dos fuentes son iguales.|
+| [equals](/cells/python-net/es/aspose.cells/font/equals/#aspose.cells.Font) | Comprueba si dos fuentes son iguales.|
 
 
 
@@ -71,5 +71,5 @@ workbook.save(r"dest.xls")
 ```
 
 ###  Ver también
-* módulo [aspose.cells](..)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
+* módulo [`aspose.cells`](..)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)

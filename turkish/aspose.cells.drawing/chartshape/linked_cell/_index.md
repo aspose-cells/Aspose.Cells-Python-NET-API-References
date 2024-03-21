@@ -3,7 +3,7 @@ title: linked_cell mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 740
+weight: 750
 url: /tr/aspose.cells.drawing/chartshape/linked_cell/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ChartShape](/cells/python-net/tr/aspose.cells.drawing/chartshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ChartShape`](/cells/python-net/tr/aspose.cells.drawing/chartshape)

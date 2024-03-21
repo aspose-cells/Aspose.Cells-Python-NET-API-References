@@ -3,14 +3,14 @@ title: page_scale propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 90
+weight: 100
 url: /es/aspose.cells.rendering/sheetrender/page_scale/
 is_root: false
 ---
 ##  page_scale propiedad
 
 Obtiene la escala de página calculada de la hoja.
-Devuelve la escala establecida si se establece [PageSetup.zoom](/cells/python-net/es/aspose.cells/pagesetup#zoom). De lo contrario, devuelve la escala calculada según [PageSetup.fit_to_pages_wide](/cells/python-net/es/aspose.cells/pagesetup#fit_to_pages_wide) y [PageSetup.fit_to_pages_tall](/cells/python-net/es/aspose.cells/pagesetup#fit_to_pages_tall).
+Devuelve la escala establecida si se establece [`PageSetup.zoom`](/cells/python-net/es/aspose.cells/pagesetup#zoom). En caso contrario, devuelve la escala calculada según [`PageSetup.fit_to_pages_wide`](/cells/python-net/es/aspose.cells/pagesetup#fit_to_pages_wide) y [`PageSetup.fit_to_pages_tall`](/cells/python-net/es/aspose.cells/pagesetup#fit_to_pages_tall).
 
 ###  Ejemplo
 
@@ -32,5 +32,5 @@ def page_scale(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [SheetRender](/cells/python-net/es/aspose.cells.rendering/sheetrender)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`SheetRender`](/cells/python-net/es/aspose.cells.rendering/sheetrender)

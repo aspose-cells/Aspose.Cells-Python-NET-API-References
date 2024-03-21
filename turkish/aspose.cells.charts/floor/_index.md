@@ -3,32 +3,32 @@ title: Floor sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 170
 url: /tr/aspose.cells.charts/floor/
 is_root: false
 ---
 ##  Floor sınıfı
-3 boyutlu grafiğin zeminini temsil eden nesneyi kapsüller.
+3 boyutlu bir grafiğin tabanını temsil eden nesneyi kapsüller.
 
 
 
-**Miras:** [Floor](/cells/python-net/aspose.cells.charts/floor) → 
-[Area](/cells/python-net/tr/aspose.cells.drawing/area)
+**Miras:** [`Floor`](/cells/python-net/aspose.cells.charts/floor) → 
+[`Area`](/cells/python-net/tr/aspose.cells.drawing/area)
 
 
 
-Floor türü aşağıdaki üyeleri gösterir:
+Floor türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [background_color](/cells/python-net/tr/aspose.cells.charts/floor/background_color) | [Area](/cells/python-net/tr/aspose.cells.drawing/area)'in arka plan rengini alır veya ayarlar.|
-| [foreground_color](/cells/python-net/tr/aspose.cells.charts/floor/foreground_color) | Ön plan Rengini alır veya ayarlar.|
+| [background_color](/cells/python-net/tr/aspose.cells.charts/floor/background_color) | [`Area`](/cells/python-net/tr/aspose.cells.drawing/area)'in arka plan rengini alır veya ayarlar.|
+| [foreground_color](/cells/python-net/tr/aspose.cells.charts/floor/foreground_color) | Ön plan rengini alır veya ayarlar.|
 | [formatting](/cells/python-net/tr/aspose.cells.charts/floor/formatting) | Alanın biçimlendirmesini temsil eder.|
-| [invert_if_negative](/cells/python-net/tr/aspose.cells.charts/floor/invert_if_negative) | Özellik true ise ve grafik noktasının değeri negatif bir sayıysa,<br/> ön plan rengi ve arka plan rengi değiştirilecektir.|
-| [fill_format](/cells/python-net/tr/aspose.cells.charts/floor/fill_format) | Belirtilen grafik veya şekil için dolgu biçimlendirme özelliklerini içeren bir [Area.fill_format](/cells/python-net/tr/aspose.cells.drawing/area#fill_format) nesnesini temsil eder.|
-| [transparency](/cells/python-net/tr/aspose.cells.charts/floor/transparency) | Alanın şeffaflık derecesini 0,0 (opak) ila 1,0 (temiz) arasında bir değer olarak döndürür veya ayarlar.|
-| [border](/cells/python-net/tr/aspose.cells.charts/floor/border) | [Line](/cells/python-net/tr/aspose.cells.drawing/line) kenarlığını alır veya ayarlar.|
+| [invert_if_negative](/cells/python-net/tr/aspose.cells.charts/floor/invert_if_negative) | Özellik doğruysa ve grafik noktasının değeri negatif bir sayı ise,<br/> ön plan rengi ve arka plan rengi değiştirilecektir.|
+| [fill_format](/cells/python-net/tr/aspose.cells.charts/floor/fill_format) | Belirtilen grafik veya şekil için dolgu biçimlendirme özelliklerini içeren [`Area.fill_format`](/cells/python-net/tr/aspose.cells.drawing/area#fill_format) nesnesini temsil eder.|
+| [transparency](/cells/python-net/tr/aspose.cells.charts/floor/transparency) |Alanın şeffaflık derecesini 0,0 (opak) ila 1,0 (şeffaf) arasında bir değer olarak döndürür veya ayarlar.|
+| [border](/cells/python-net/tr/aspose.cells.charts/floor/border) | [`Line`](/cells/python-net/tr/aspose.cells.drawing/line) sınırını alır veya ayarlar.|
 
 
 
@@ -74,7 +74,7 @@ workbook.save(r"dest.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
-* sınıf [Area](/cells/python-net/tr/aspose.cells.drawing/area)
-* sınıf [Floor](/cells/python-net/tr/aspose.cells.charts/floor)
-* sınıf [Line](/cells/python-net/tr/aspose.cells.drawing/line)
+* modül [`aspose.cells.charts`](..)
+* sınıf [`Area`](/cells/python-net/tr/aspose.cells.drawing/area)
+* sınıf [`Floor`](/cells/python-net/tr/aspose.cells.charts/floor)
+* sınıf [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)

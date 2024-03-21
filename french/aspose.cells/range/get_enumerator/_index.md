@@ -1,19 +1,19 @@
 ---
-title: get_enumerator méthode
+title: méthode get_enumerator
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 100
 url: /fr/aspose.cells/range/get_enumerator/
 is_root: false
 ---
-##  get_enumerator() {#}
-Obtient l'énumérateur des cellules de cette plage.
+##  get_enumerator {#}
+Obtient l'énumérateur pour les cellules de cette plage.
 
 
 ###  Retour
 
-L'énumérateur de cellules
+L'enquêteur de cellules
 
 
 ```python
@@ -24,9 +24,9 @@ def get_enumerator(self):
 
 ###  Remarques
 
-Lors de la traversée d'éléments par l'énumérateur renvoyé, la collection de cellules
+Lors du parcours d'éléments par l'énumérateur renvoyé, la collection de cellules
 ne doit pas être modifié (comme les opérations qui entraîneront l'instanciation d'un nouveau Cell/Row ou la suppression d'un Cell/Row existant).
-Sinon, l'énumérateur peut ne pas être en mesure de parcourir correctement toutes les cellules (certains éléments peuvent être parcourus à plusieurs reprises ou ignorés).
+Sinon, l'enquêteur risque de ne pas être en mesure de parcourir toutes les cellules correctement (certains éléments peuvent être parcourus à plusieurs reprises ou ignorés).
 ###  Exemple
 
 ```python
@@ -43,5 +43,5 @@ for cell in en:
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Range](/cells/python-net/fr/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* classe [`Range`](/cells/python-net/fr/aspose.cells/range)

@@ -3,7 +3,7 @@ title: title Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /de/aspose.cells.drawing/listbox/title/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ListBox](/cells/python-net/de/aspose.cells.drawing/listbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ListBox`](/cells/python-net/de/aspose.cells.drawing/listbox)

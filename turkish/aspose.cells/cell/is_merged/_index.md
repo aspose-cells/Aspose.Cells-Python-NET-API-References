@@ -3,13 +3,13 @@ title: is_merged mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 580
+weight: 610
 url: /tr/aspose.cells/cell/is_merged/
 is_root: false
 ---
 ##  is_merged mülk
 
-Bir hücrenin birleştirilmiş bir aralığın parçası olup olmadığını kontrol eder.
+Bir hücrenin birleştirilmiş aralığın parçası olup olmadığını kontrol eder.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_merged(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

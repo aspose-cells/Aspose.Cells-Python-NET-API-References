@@ -3,11 +3,11 @@ title: hide_group_detail metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 580
+weight: 570
 url: /sv/aspose.cells/cells/hide_group_detail/
 is_root: false
 ---
-##  hide_group_detail(is_vertical, index) {#bool-int}
+##  hide_group_detail {#bool-int}
 Komprimerar de grupperade raderna/kolumnerna.
 
 
@@ -26,5 +26,5 @@ def hide_group_detail(self, is_vertical, index):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

@@ -3,7 +3,7 @@ title: fill_format Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 360
 url: /de/aspose.cells.drawing/webextensionshape/fill_format/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Gibt ein MsoFillFormat-Objekt zurück, das Füllformatierungseigenschaften für 
 
  HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
  Bitte verwenden Sie die Shape.Fill-Eigenschaft.
- Diese Property wird 12 Monate später seit Juli 2016 entfernt.
+ Diese Eigenschaft wird seit Juli 2016 12 Monate später entfernt.
 Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
 ###  Definition:
 ```python
@@ -25,6 +25,6 @@ def fill_format(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoFillFormat](/cells/python-net/de/aspose.cells.drawing/msofillformat)
-* Klasse [WebExtensionShape](/cells/python-net/de/aspose.cells.drawing/webextensionshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoFillFormat`](/cells/python-net/de/aspose.cells.drawing/msofillformat)
+* Klasse [`WebExtensionShape`](/cells/python-net/de/aspose.cells.drawing/webextensionshape)

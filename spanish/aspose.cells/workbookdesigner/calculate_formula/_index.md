@@ -3,7 +3,7 @@ title: calculate_formula propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 70
+weight: 80
 url: /es/aspose.cells/workbookdesigner/calculate_formula/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def calculate_formula(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WorkbookDesigner](/cells/python-net/es/aspose.cells/workbookdesigner)
+* módulo [`aspose.cells`](../../)
+* clase [`WorkbookDesigner`](/cells/python-net/es/aspose.cells/workbookdesigner)

@@ -1,15 +1,15 @@
 ---
-title: is_threaded_comment 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_threaded_comment属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 150
+weight: 160
 url: /zh/aspose.cells/comment/is_threaded_comment/
 is_root: false
 ---
-## is_threaded_comment 属性
+## is_threaded_comment属性
 
-指示此评论是否是线程评论。
+指示此评论是否为线索评论。
 
 ### 例子
 
@@ -27,5 +27,5 @@ def is_threaded_comment(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)

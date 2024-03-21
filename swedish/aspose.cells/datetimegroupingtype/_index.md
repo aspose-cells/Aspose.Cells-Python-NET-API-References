@@ -3,7 +3,7 @@ title: DateTimeGroupingType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1940
+weight: 2010
 url: /sv/aspose.cells/datetimegroupingtype/
 is_root: false
 ---
@@ -22,9 +22,9 @@ Typen DateTimeGroupingType avslöjar följande medlemmar:
 | MINUTE | Gruppera för minut.|
 | MONTH | Gruppera efter månad.|
 | SECOND | Gruppera efter andra.|
-| YEAR |Grupp efter år.|
+| YEAR | Grupp efter år.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

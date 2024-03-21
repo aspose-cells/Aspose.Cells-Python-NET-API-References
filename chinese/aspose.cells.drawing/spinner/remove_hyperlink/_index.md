@@ -1,13 +1,13 @@
 ---
 title: remove_hyperlink方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 180
 url: /zh/aspose.cells.drawing/spinner/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink() {#}
+##  remove_hyperlink {#}
 删除形状的超链接。
 
 
@@ -30,5 +30,5 @@ shape.remove_hyperlink()
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Spinner](/cells/python-net/zh/aspose.cells.drawing/spinner)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Spinner`](/cells/python-net/zh/aspose.cells.drawing/spinner)

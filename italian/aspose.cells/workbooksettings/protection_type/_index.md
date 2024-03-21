@@ -3,7 +3,7 @@ title: protection_type proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 480
+weight: 380
 url: /it/aspose.cells/workbooksettings/protection_type/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def protection_type(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ProtectionType](/cells/python-net/it/aspose.cells/protectiontype)
-* classe [WorkbookSettings](/cells/python-net/it/aspose.cells/workbooksettings)
+* modulo [`aspose.cells`](../../)
+* classe [`ProtectionType`](/cells/python-net/it/aspose.cells/protectiontype)
+* classe [`WorkbookSettings`](/cells/python-net/it/aspose.cells/workbooksettings)

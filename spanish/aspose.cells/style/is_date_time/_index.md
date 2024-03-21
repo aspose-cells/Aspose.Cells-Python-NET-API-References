@@ -3,7 +3,7 @@ title: is_date_time propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 270
+weight: 290
 url: /es/aspose.cells/style/is_date_time/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_date_time(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)

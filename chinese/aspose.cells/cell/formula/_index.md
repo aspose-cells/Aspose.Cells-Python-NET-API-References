@@ -1,20 +1,20 @@
 ---
-title: formula 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: formula属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 460
+weight: 490
 url: /zh/aspose.cells/cell/formula/
 is_root: false
 ---
-## formula 属性
+## formula属性
 
-获取或设置 [Cell](/cells/python-net/zh/aspose.cells/cell) 的 formula。
+获取或设置 [`Cell`](/cells/python-net/zh/aspose.cells/cell) 中的 formula。
 
 ### 评论
 
  formula 字符串始终以等号 (=) 开头。
-并且请始终使用逗号（，）作为参数分隔符，例如“=SUM（A1，E1，H2）”。
+请始终使用逗号(,)作为参数分隔符，例如“=SUM(A1, E1, H2)”。
 
 ### 例子
 
@@ -37,5 +37,5 @@ def formula(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cell](/cells/python-net/zh/aspose.cells/cell)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cell`](/cells/python-net/zh/aspose.cells/cell)

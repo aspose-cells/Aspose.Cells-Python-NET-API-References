@@ -3,7 +3,7 @@ title: ResourceLoadingType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2440
+weight: 2530
 url: /tr/aspose.cells/resourceloadingtype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Bağlantılı kaynağın nasıl yükleneceğini temsil eder.
 
 
 
-ResourceLoadingType türü aşağıdaki üyeleri gösterir:
+ResourceLoadingType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | DEFAULT | Bu kaynağı her zamanki gibi yükler.|
@@ -24,4 +24,4 @@ ResourceLoadingType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

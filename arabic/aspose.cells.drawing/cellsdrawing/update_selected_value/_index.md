@@ -3,11 +3,11 @@ title: طريقة update_selected_value
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 240
 url: /ar/aspose.cells.drawing/cellsdrawing/update_selected_value/
 is_root: false
 ---
-##  update_selected_value() {#}
+##  update_selected_value {#}
 قم بتحديث القيمة المحددة بقيمة الخلية المرتبطة.
 
 
@@ -25,8 +25,6 @@ def update_selected_value(self):
 from aspose import pycore
 from aspose.cells.drawing import ListBox
 
-# Initialize a new workbook.
-# Workbook book = new Workbook();
 cell = None
 for i in range(10):
     cell = book.worksheets[0].cells.get(i, 0)
@@ -61,5 +59,5 @@ if listbx.is_selected(3):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CellsDrawing](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CellsDrawing`](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)

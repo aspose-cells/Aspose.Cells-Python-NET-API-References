@@ -1,9 +1,9 @@
 ---
 title: anchor_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 270
+weight: 290
 url: /ru/aspose.cells.drawing/checkbox/anchor_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CheckBox](/cells/python-net/ru/aspose.cells.drawing/checkbox)
-* класс [ShapeAnchorType](/cells/python-net/ru/aspose.cells.drawing/shapeanchortype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CheckBox`](/cells/python-net/ru/aspose.cells.drawing/checkbox)
+* класс [`ShapeAnchorType`](/cells/python-net/ru/aspose.cells.drawing/shapeanchortype)

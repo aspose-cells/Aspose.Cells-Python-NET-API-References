@@ -3,7 +3,7 @@ title: min_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1160
+weight: 1150
 url: /sv/aspose.cells/cells/min_column/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def min_column(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

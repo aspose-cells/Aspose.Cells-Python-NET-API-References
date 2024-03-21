@@ -1,28 +1,28 @@
 ---
-title: العد PivotConditionFormatRuleType
+title: PivotConditionFormatRuleType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 240
 url: /ar/aspose.cells.pivot/pivotconditionformatruletype/
 is_root: false
 ---
-##  العد PivotConditionFormatRuleType
+##  PivotConditionFormatRuleType التعداد
 يمثل نوع قاعدة تنسيق شرط PivotTable.
 
 
 
-يكشف نوع PivotConditionFormatRuleType الأعضاء التالية:
+يكشف النوع PivotConditionFormatRuleType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | يشير إلى أن التنسيق الشرطي لـ Top N لم يتم تقييمه|
-| ALL | يشير إلى أن التنسيق الشرطي Top N هو<br/> عبر نطاق النطاق بأكمله.|
-| ROW | يشير إلى أن التنسيق الشرطي الأعلى N يتم تقييمه لكل صف.|
-| COLUMN | يشير إلى أن التنسيق الشرطي Top N هو<br/> تقييم لكل عمود.|
+| NONE | يشير إلى أنه لم يتم تقييم التنسيق الشرطي Top N|
+| ALL | يشير إلى أن التنسيق الشرطي Top N هو<br/> يتم تقييمها عبر نطاق النطاق بأكمله.|
+| ROW | يشير إلى أنه يتم تقييم التنسيق الشرطي Top N لكل صف.|
+| COLUMN | يشير إلى أن التنسيق الشرطي Top N هو<br/> تم تقييمه لكل عمود.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](..)
+* الوحدة [`aspose.cells.pivot`](..)

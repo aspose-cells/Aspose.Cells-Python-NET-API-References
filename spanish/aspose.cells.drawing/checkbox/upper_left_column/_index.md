@@ -3,7 +3,7 @@ title: upper_left_column propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /es/aspose.cells.drawing/checkbox/upper_left_column/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CheckBox](/cells/python-net/es/aspose.cells.drawing/checkbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CheckBox`](/cells/python-net/es/aspose.cells.drawing/checkbox)

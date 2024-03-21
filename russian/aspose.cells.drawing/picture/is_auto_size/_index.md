@@ -1,15 +1,15 @@
 ---
 title: is_auto_size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 600
+weight: 610
 url: /ru/aspose.cells.drawing/picture/is_auto_size/
 is_root: false
 ---
 ##  is_auto_size недвижимость
 
-True указывает, что размер объекта ole будет автоматически изменен в соответствии с размером моментального снимка встроенного содержимого.
+True указывает, что размер объекта ole будет автоматически изменен в соответствии с размером снимка встроенного содержимого.
 когда объект ole активирован.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def is_auto_size(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Picture](/cells/python-net/ru/aspose.cells.drawing/picture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture)

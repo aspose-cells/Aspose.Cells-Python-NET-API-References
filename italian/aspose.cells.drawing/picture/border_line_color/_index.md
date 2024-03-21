@@ -3,13 +3,13 @@ title: border_line_color proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 310
+weight: 330
 url: /it/aspose.cells.drawing/picture/border_line_color/
 is_root: false
 ---
 ##  border_line_color proprietà
 
-Rappresenta il Colore della linea di confine di un'immagine.
+Rappresenta il colore del bordo di un'immagine.
 
 ###  Esempio
 
@@ -41,5 +41,5 @@ def border_line_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

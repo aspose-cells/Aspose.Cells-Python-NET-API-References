@@ -1,15 +1,15 @@
 ---
 title: minor_tick_mark недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 340
+weight: 350
 url: /ru/aspose.cells.charts/axis/minor_tick_mark/
 is_root: false
 ---
 ##  minor_tick_mark недвижимость
 
-Представляет тип вспомогательной засечки для указанной оси.
+Представляет тип вспомогательной деления для указанной оси.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def minor_tick_mark(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
-* класс [TickMarkType](/cells/python-net/ru/aspose.cells.charts/tickmarktype)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)
+* класс [`TickMarkType`](/cells/python-net/ru/aspose.cells.charts/tickmarktype)

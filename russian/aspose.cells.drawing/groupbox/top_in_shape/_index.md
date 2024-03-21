@@ -1,26 +1,26 @@
 ---
 title: top_in_shape недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /ru/aspose.cells.drawing/groupbox/top_in_shape/
 is_root: false
 ---
 ##  top_in_shape недвижимость
 
- Представляет вертикальное смещение фигуры от верхней границы родительской фигуры,
-в единице 1/4000 высоты родительской формы.
+ Представляет вертикальное смещение фигуры от верхней границы родительской фигуры.
+в единице 1/4000 высоты родительской фигуры.
 
 ###  Примечания
 
-Применяется только тогда, когда эта фигура находится в группе или на диаграмме.
+Применяется только тогда, когда эта фигура находится в группе или диаграмме.
 
 ###  Пример
 
 ```python
 
-if shape.top_in_shape == 8000:
+if shape.is_in_group and shape.top_in_shape == 8000:
     shape.top_in_shape = 4000
 
 ```
@@ -35,5 +35,5 @@ def top_in_shape(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GroupBox](/cells/python-net/ru/aspose.cells.drawing/groupbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GroupBox`](/cells/python-net/ru/aspose.cells.drawing/groupbox)

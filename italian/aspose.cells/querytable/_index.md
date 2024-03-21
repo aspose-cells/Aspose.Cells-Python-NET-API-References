@@ -1,28 +1,28 @@
 ---
-title: classe QueryTable
+title: QueryTable classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1230
+weight: 1270
 url: /it/aspose.cells/querytable/
 is_root: false
 ---
-##  classe QueryTable
+##  QueryTable classe
 Rappresenta le informazioni QueryTable.
 
 
 
-Il tipo QueryTable espone i membri seguenti:
+Il tipo QueryTable espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [connection_id](/cells/python-net/it/aspose.cells/querytable/connection_id) |Ottiene l'ID connessione della tabella di query.|
+| [connection_id](/cells/python-net/it/aspose.cells/querytable/connection_id) | Ottiene l'ID di connessione della tabella di query.|
 | [external_connection](/cells/python-net/it/aspose.cells/querytable/external_connection) | Ottiene la connessione esterna correlata.|
 | [name](/cells/python-net/it/aspose.cells/querytable/name) | Ottiene il nome di querytable.|
 | [result_range](/cells/python-net/it/aspose.cells/querytable/result_range) | Ottiene l'intervallo del risultato.|
 | [preserve_formatting](/cells/python-net/it/aspose.cells/querytable/preserve_formatting) | Restituisce o imposta PreserveFormatting dell'oggetto.|
-| [adjust_column_width](/cells/python-net/it/aspose.cells/querytable/adjust_column_width) | Restituisce o imposta l'oggetto AdjustColumnWidth dell'oggetto.|
+| [adjust_column_width](/cells/python-net/it/aspose.cells/querytable/adjust_column_width) | Restituisce o imposta l'AdjustColumnWidth dell'oggetto.|
 
 
 
@@ -35,12 +35,8 @@ from aspose.cells import Workbook
 workbook = Workbook()
 # Obtaining the reference of the first worksheet
 worksheet = workbook.worksheets[0]
-# Getting the first query table in the worksheet
-qt = worksheet.query_tables[0]
-# Getting display address of the query table.
-address = qt.result_range.address
 
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

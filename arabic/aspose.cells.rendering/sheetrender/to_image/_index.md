@@ -3,11 +3,11 @@ title: طريقة to_image
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
-##  to_image(page_index, file_name) {#int-str}
+##  to_image {#int-str}
 تقديم صفحة معينة إلى ملف.
 
 
@@ -20,12 +20,12 @@ def to_image(self, page_index, file_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| page_index | int | الإشارة إلى الصفحة المراد تحويلها|
-| file_name | str | اسم ملف الصورة الناتجة|
+| page_index | int | تشير إلى الصفحة التي سيتم تحويلها|
+| file_name | str | اسم الملف لصورة الإخراج|
 
 ###  مثال
 
-يخرج الكود التالي الصفحة الأولى من الورقة الأولى إلى صورة png.
+يقوم التعليمة البرمجية التالية بإخراج الصفحة الأولى من الورقة الأولى إلى صورة png.
 
 ```python
 from aspose.cells import Workbook
@@ -45,7 +45,7 @@ sr.to_image(0, "output.png")
 ```
 
 
-##  to_image(page_index, stream) {#int-io.RawIOBase}
+##  to_image {#int-io.RawIOBase}
 تقديم صفحة معينة إلى دفق.
 
 
@@ -58,11 +58,11 @@ def to_image(self, page_index, stream):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| page_index | int | الإشارة إلى الصفحة المراد تحويلها|
-| stream | io.RawIOBase | تيار الصورة الناتجة|
+| page_index | int | تشير إلى الصفحة التي سيتم تحويلها|
+| stream | io.RawIOBase | دفق صورة الإخراج|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [SheetRender](/cells/python-net/ar/aspose.cells.rendering/sheetrender)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`SheetRender`](/cells/python-net/ar/aspose.cells.rendering/sheetrender)

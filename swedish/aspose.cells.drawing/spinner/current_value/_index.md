@@ -3,7 +3,7 @@ title: current_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 350
 url: /sv/aspose.cells.drawing/spinner/current_value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def current_value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Spinner](/cells/python-net/sv/aspose.cells.drawing/spinner)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Spinner`](/cells/python-net/sv/aspose.cells.drawing/spinner)

@@ -1,15 +1,15 @@
 ---
-title: threaded_comments 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: threaded_comments属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 230
 url: /zh/aspose.cells/comment/threaded_comments/
 is_root: false
 ---
-## threaded_comments 属性
+## threaded_comments属性
 
-获取线程评论列表；
+获取线索评论列表；
 
 ### 例子
 
@@ -29,6 +29,6 @@ def threaded_comments(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
-* 类 [ThreadedCommentCollection](/cells/python-net/zh/aspose.cells/threadedcommentcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)
+* 类 [`ThreadedCommentCollection`](/cells/python-net/zh/aspose.cells/threadedcommentcollection)

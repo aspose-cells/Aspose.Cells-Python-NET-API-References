@@ -3,13 +3,13 @@ title: width_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 250
 url: /de/aspose.cells/comment/width_cm/
 is_root: false
 ---
 ##  width_cm Eigentum
 
-Stellt die Breite des Kommentars in Zentimetern dar.
+Stellt die Breite des Kommentars in der Einheit Zentimeter dar.
 
 ###  Beispiel
 
@@ -29,5 +29,5 @@ def width_cm(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Comment](/cells/python-net/de/aspose.cells/comment)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Comment`](/cells/python-net/de/aspose.cells/comment)

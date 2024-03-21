@@ -3,7 +3,7 @@ title: base_item_index propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 200
+weight: 230
 url: /fr/aspose.cells.pivot/pivotfield/base_item_index/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def base_item_index(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotField](/cells/python-net/fr/aspose.cells.pivot/pivotfield)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotField`](/cells/python-net/fr/aspose.cells.pivot/pivotfield)

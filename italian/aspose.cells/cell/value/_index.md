@@ -3,13 +3,13 @@ title: value proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 710
+weight: 740
 url: /it/aspose.cells/cell/value/
 is_root: false
 ---
 ##  value proprietà
 
-Ottiene il numero value contenuto in questa cella.
+Ottiene/imposta lo value contenuto in questa cella.
 
 ###  Osservazioni
 
@@ -18,7 +18,7 @@ Tipo possibile:
 nullo,
 
 
-booleano,
+Booleano,
 
 
 Appuntamento,
@@ -33,8 +33,8 @@ Numero intero
 Corda.
 
 
-Per int value, può essere restituito come oggetto Integer o Double.
-E non vi è alcuna garanzia che lo value restituito venga conservato sempre come lo stesso tipo di oggetto.
+Per l'int value, può essere restituito come oggetto Integer o Double.
+E non vi è alcuna garanzia che lo value restituito venga mantenuto sempre come lo stesso tipo di oggetto.
 ###  Definizione:
 ```python
 @property
@@ -46,5 +46,5 @@ def value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

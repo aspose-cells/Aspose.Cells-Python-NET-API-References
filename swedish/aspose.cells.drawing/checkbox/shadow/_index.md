@@ -3,7 +3,7 @@ title: shadow fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 890
+weight: 900
 url: /sv/aspose.cells.drawing/checkbox/shadow/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CheckBox](/cells/python-net/sv/aspose.cells.drawing/checkbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CheckBox`](/cells/python-net/sv/aspose.cells.drawing/checkbox)

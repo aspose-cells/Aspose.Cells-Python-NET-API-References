@@ -3,13 +3,13 @@ title: anchor_type proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 270
+weight: 290
 url: /it/aspose.cells.drawing/combobox/anchor_type/
 is_root: false
 ---
 ##  anchor_type proprietà
 
-Ottiene e imposta il segnaposto dell'ancora della forma.
+Ottiene e imposta il segnaposto di ancoraggio della forma.
 
 ###  Esempio
 
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ComboBox](/cells/python-net/it/aspose.cells.drawing/combobox)
-* classe [ShapeAnchorType](/cells/python-net/it/aspose.cells.drawing/shapeanchortype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ComboBox`](/cells/python-net/it/aspose.cells.drawing/combobox)
+* classe [`ShapeAnchorType`](/cells/python-net/it/aspose.cells.drawing/shapeanchortype)

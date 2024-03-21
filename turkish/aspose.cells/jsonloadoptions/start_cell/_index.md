@@ -3,7 +3,7 @@ title: start_cell mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 280
 url: /tr/aspose.cells/jsonloadoptions/start_cell/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def start_cell(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [JsonLoadOptions](/cells/python-net/tr/aspose.cells/jsonloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`JsonLoadOptions`](/cells/python-net/tr/aspose.cells/jsonloadoptions)

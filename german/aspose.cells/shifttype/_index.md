@@ -3,12 +3,12 @@ title: ShiftType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2470
+weight: 2560
 url: /de/aspose.cells/shifttype/
 is_root: false
 ---
 ##  ShiftType Aufzählung
-Stellt die Umschaltoptionen dar, wenn ein Zellbereich gelöscht wird.
+Stellt die Verschiebungsoptionen beim Löschen eines Zellbereichs dar.
 
 
 
@@ -26,4 +26,4 @@ Der Typ ShiftType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

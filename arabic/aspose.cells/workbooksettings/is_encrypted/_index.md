@@ -1,13 +1,13 @@
 ---
-title: is_encrypted الملكية
+title: is_encrypted عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 230
 url: /ar/aspose.cells/workbooksettings/is_encrypted/
 is_root: false
 ---
-##  is_encrypted الملكية
+##  is_encrypted عقار
 
 الحصول على قيمة تشير إلى ما إذا كانت كلمة المرور مطلوبة لفتح هذا المصنف.
 ###  تعريف:
@@ -18,5 +18,5 @@ def is_encrypted(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

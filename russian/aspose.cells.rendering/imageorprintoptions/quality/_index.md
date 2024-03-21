@@ -1,21 +1,21 @@
 ---
 title: quality недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ru/aspose.cells.rendering/imageorprintoptions/quality/
 is_root: false
 ---
 ##  quality недвижимость
 
-Получает или задает значение, определяющее quality сгенерированных изображений.
+Получает или задает значение, определяющее номер quality сгенерированных изображений.
 применять только при сохранении страниц в формате `Jpeg`. Значение по умолчанию – 100.
 
 ###  Примечания
 
-Действует только при сохранении на JPEG.
-Значение должно быть между 0 и 100.
+Действует только при сохранении на номер JPEG.
+Значение должно находиться в диапазоне от 0 до 100.
 Значение по умолчанию — 100.
 ###  Определение:
 ```python
@@ -28,5 +28,5 @@ def quality(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)

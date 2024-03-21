@@ -3,7 +3,7 @@ title: export_data_options fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 210
 url: /sv/aspose.cells/htmlsaveoptions/export_data_options/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def export_data_options(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlExportDataOptions](/cells/python-net/sv/aspose.cells/htmlexportdataoptions)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlExportDataOptions`](/cells/python-net/sv/aspose.cells/htmlexportdataoptions)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

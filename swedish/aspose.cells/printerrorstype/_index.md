@@ -3,7 +3,7 @@ title: PrintErrorsType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2380
+weight: 2470
 url: /sv/aspose.cells/printerrorstype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen PrintErrorsType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -3,13 +3,13 @@ title: upper_left_column mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /tr/aspose.cells.drawing/checkbox/upper_left_column/
 is_root: false
 ---
 ##  upper_left_column mülk
 
-Sol üst köşe sütun indeksini temsil eder.
+Sol üst köşe sütun dizinini temsil eder.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CheckBox](/cells/python-net/tr/aspose.cells.drawing/checkbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CheckBox`](/cells/python-net/tr/aspose.cells.drawing/checkbox)

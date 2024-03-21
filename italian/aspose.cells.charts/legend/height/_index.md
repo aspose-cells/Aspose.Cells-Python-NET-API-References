@@ -3,7 +3,7 @@ title: height proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 160
+weight: 170
 url: /it/aspose.cells.charts/legend/height/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def height(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Legend](/cells/python-net/it/aspose.cells.charts/legend)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Legend`](/cells/python-net/it/aspose.cells.charts/legend)

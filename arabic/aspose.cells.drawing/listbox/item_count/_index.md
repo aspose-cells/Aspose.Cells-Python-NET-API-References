@@ -1,13 +1,13 @@
 ---
-title: item_count الملكية
+title: item_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 680
+weight: 690
 url: /ar/aspose.cells.drawing/listbox/item_count/
 is_root: false
 ---
-##  item_count الملكية
+##  item_count عقار
 
 الحصول على عدد العناصر في مربع القائمة.
 ###  تعريف:
@@ -18,5 +18,5 @@ def item_count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)

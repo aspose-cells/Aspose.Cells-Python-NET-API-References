@@ -3,7 +3,7 @@ title: width_in_shape propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /es/aspose.cells.drawing/cellsdrawing/width_in_shape/
 is_root: false
 ---
@@ -19,8 +19,8 @@ Solo se aplica cuando esta forma está en el grupo o gráfico.
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.width_in_shape == 2000:
+    shape.width_in_shape = 4000
 
 ```
 ###  Definición:
@@ -34,5 +34,5 @@ def width_in_shape(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CellsDrawing](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CellsDrawing`](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)

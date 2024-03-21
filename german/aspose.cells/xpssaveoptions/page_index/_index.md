@@ -3,7 +3,7 @@ title: page_index Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 190
+weight: 200
 url: /de/aspose.cells/xpssaveoptions/page_index/
 is_root: false
 ---
@@ -13,11 +13,11 @@ Ruft den 0-basierten Index der ersten zu speichernden Seite ab oder legt diesen 
 
 ###  Bemerkungen
 
-Standard ist 0.
+Der Standardwert ist 0.
 
 ###  Beispiel
 
-Das folgende Beispiel zeigt, wie ein Seitenbereich (3 und 4) in einer Microsoft-Excel-Datei in PDF gerendert wird.
+Das folgende Beispiel zeigt, wie ein Seitenbereich (3 und 4) in einer Excel-Datei Microsoft in PDF gerendert wird.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -45,5 +45,5 @@ def page_index(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [XpsSaveOptions](/cells/python-net/de/aspose.cells/xpssaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`XpsSaveOptions`](/cells/python-net/de/aspose.cells/xpssaveoptions)

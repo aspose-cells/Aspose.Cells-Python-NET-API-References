@@ -3,7 +3,7 @@ title: repeat_formulas_with_subtotal propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 100
+weight: 110
 url: /es/aspose.cells/workbookdesigner/repeat_formulas_with_subtotal/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def repeat_formulas_with_subtotal(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WorkbookDesigner](/cells/python-net/es/aspose.cells/workbookdesigner)
+* módulo [`aspose.cells`](../../)
+* clase [`WorkbookDesigner`](/cells/python-net/es/aspose.cells/workbookdesigner)

@@ -1,16 +1,16 @@
 ---
-title: is_row_column_headers_visible الملكية
+title: is_row_column_headers_visible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 600
 url: /ar/aspose.cells/worksheet/is_row_column_headers_visible/
 is_root: false
 ---
-##  is_row_column_headers_visible الملكية
+##  is_row_column_headers_visible عقار
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت ورقة العمل ستعرض رؤوس الصفوف والأعمدة.
-الافتراضي هو الصحيح.
+الحصول على قيمة أو تعيينها تشير إلى ما إذا كانت ورقة العمل ستعرض رؤوس الصفوف والأعمدة.
+الافتراضي صحيح.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_row_column_headers_visible(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

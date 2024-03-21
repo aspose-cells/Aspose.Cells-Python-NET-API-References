@@ -1,13 +1,13 @@
 ---
-title: text_rendering_hint الملكية
+title: text_rendering_hint عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 340
 url: /ar/aspose.cells.rendering/imageorprintoptions/text_rendering_hint/
 is_root: false
 ---
-##  text_rendering_hint الملكية
+##  text_rendering_hint عقار
 
 يحدد جودة عرض النص.
 القيمة الافتراضية هي TextRenderingHint.SystemDefault
@@ -22,5 +22,5 @@ def text_rendering_hint(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

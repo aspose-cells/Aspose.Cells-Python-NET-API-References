@@ -3,7 +3,7 @@ title: TimeUnit Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 660
+weight: 670
 url: /de/aspose.cells.charts/timeunit/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Der Typ TimeUnit macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

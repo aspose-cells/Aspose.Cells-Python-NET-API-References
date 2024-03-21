@@ -1,20 +1,20 @@
 ---
-title: formula الملكية
+title: formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 460
+weight: 490
 url: /ar/aspose.cells/cell/formula/
 is_root: false
 ---
-##  formula الملكية
+##  formula عقار
 
-يحصل أو يحدد formula من [Cell](/cells/python-net/ar/aspose.cells/cell).
+الحصول على أو تعيين formula من [`Cell`](/cells/python-net/ar/aspose.cells/cell).
 
 ###  ملاحظات
 
- تبدأ سلسلة formula دائمًا بعلامة يساوي (=).
-ويرجى دائمًا استخدام الفاصلة (،) كمحدد للمعلمات ، مثل "= SUM (A1، E1، H2)".
+ تبدأ السلسلة formula دائمًا بعلامة التساوي (=).
+ويرجى دائمًا استخدام الفاصلة (،) كمحدد للمعلمات، مثل "=SUM(A1, E1, H2)".
 
 ###  مثال
 
@@ -37,5 +37,5 @@ def formula(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

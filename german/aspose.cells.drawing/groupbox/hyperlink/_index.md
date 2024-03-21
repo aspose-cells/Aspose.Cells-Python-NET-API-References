@@ -3,7 +3,7 @@ title: hyperlink Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 490
+weight: 500
 url: /de/aspose.cells.drawing/groupbox/hyperlink/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GroupBox](/cells/python-net/de/aspose.cells.drawing/groupbox)
-* Klasse [Hyperlink](/cells/python-net/de/aspose.cells/hyperlink)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GroupBox`](/cells/python-net/de/aspose.cells.drawing/groupbox)
+* Klasse [`Hyperlink`](/cells/python-net/de/aspose.cells/hyperlink)

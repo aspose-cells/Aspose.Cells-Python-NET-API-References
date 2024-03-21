@@ -3,7 +3,7 @@ title: text_direction proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 150
+weight: 160
 url: /it/aspose.cells.charts/ticklabels/text_direction/
 is_root: false
 ---
@@ -14,9 +14,9 @@ Rappresenta l'ordine di lettura del testo.
 ###  Osservazioni
 
  NOTA: questo membro è ora obsoleto. Invece,
- utilizzare la proprietà TickLabels.ReadingOrder.
- Questa proprietà verrà rimossa 12 mesi dopo da marzo 2020.
-Aspose si scusa per gli eventuali disagi causati.
+ si prega di utilizzare la proprietà TickLabels.ReadingOrder.
+ Questa proprietà verrà rimossa 12 mesi dopo a partire da marzo 2020.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -28,6 +28,6 @@ def text_direction(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [TextDirectionType](/cells/python-net/it/aspose.cells/textdirectiontype)
-* classe [TickLabels](/cells/python-net/it/aspose.cells.charts/ticklabels)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`TextDirectionType`](/cells/python-net/it/aspose.cells/textdirectiontype)
+* classe [`TickLabels`](/cells/python-net/it/aspose.cells.charts/ticklabels)

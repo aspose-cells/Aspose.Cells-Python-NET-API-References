@@ -3,7 +3,7 @@ title: top_cm fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /sv/aspose.cells.drawing/smartartshape/top_cm/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representerar den vertikala förskjutningen av formen från dess översta rad, i
 ```python
 
 if shape.top_cm == 3:
-    shape.top_cm = 1
+    shape.top_cm = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def top_cm(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [SmartArtShape](/cells/python-net/sv/aspose.cells.drawing/smartartshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`SmartArtShape`](/cells/python-net/sv/aspose.cells.drawing/smartartshape)

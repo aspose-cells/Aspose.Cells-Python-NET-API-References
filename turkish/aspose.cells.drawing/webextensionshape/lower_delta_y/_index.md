@@ -3,17 +3,17 @@ title: lower_delta_y mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 750
+weight: 760
 url: /tr/aspose.cells.drawing/webextensionshape/lower_delta_y/
 is_root: false
 ---
 ##  lower_delta_y mülk
 
-Şeklin sağ alt köşe satırından dikey uzaklığını alır veya ayarlar.
+Şeklin dikey uzaklığını sağ alt köşe satırından alır veya ayarlar.
 
 ###  Notlar
 
-Değer aralığı 0 ila 256'dır.
+Değer aralığı 0 ile 256 arasındadır.
 
 ###  Örnek
 
@@ -34,5 +34,5 @@ def lower_delta_y(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [WebExtensionShape](/cells/python-net/tr/aspose.cells.drawing/webextensionshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`WebExtensionShape`](/cells/python-net/tr/aspose.cells.drawing/webextensionshape)

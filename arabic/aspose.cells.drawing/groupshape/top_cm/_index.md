@@ -1,22 +1,22 @@
 ---
-title: top_cm الملكية
+title: top_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /ar/aspose.cells.drawing/groupshape/top_cm/
 is_root: false
 ---
-##  top_cm الملكية
+##  top_cm عقار
 
-يمثل الإزاحة الرأسية للشكل من صفه العلوي بوحدة سنتيمترات.
+يمثل الإزاحة الرأسية للشكل من الصف العلوي بوحدة السنتيمتر.
 
 ###  مثال
 
 ```python
 
 if shape.top_cm == 3:
-    shape.top_cm = 1
+    shape.top_cm = 1.0
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def top_cm(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupShape](/cells/python-net/ar/aspose.cells.drawing/groupshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupShape`](/cells/python-net/ar/aspose.cells.drawing/groupshape)

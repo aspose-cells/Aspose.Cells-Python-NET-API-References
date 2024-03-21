@@ -1,20 +1,20 @@
 ---
-title: significant_digits 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: significant_digits属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 590
+weight: 470
 url: /zh/aspose.cells/workbooksettings/significant_digits/
 is_root: false
 ---
-## significant_digits 属性
+## significant_digits属性
 
 获取和设置有效位数。
-默认值为 [CellsHelper.significant_digits](/cells/python-net/zh/aspose.cells/cellshelper#significant_digits)。
+默认值为 [`CellsHelper.significant_digits`](/cells/python-net/zh/aspose.cells/cellshelper#significant_digits)。
 
 ### 评论
 
-现在只能是 15 或 17 岁。
+现在可能只有15或17岁。
 ### 定义：
 ```python
 @property
@@ -26,5 +26,5 @@ def significant_digits(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)

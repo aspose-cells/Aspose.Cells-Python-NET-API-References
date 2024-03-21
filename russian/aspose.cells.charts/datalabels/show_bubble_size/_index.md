@@ -1,15 +1,15 @@
 ---
 title: show_bubble_size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 390
+weight: 380
 url: /ru/aspose.cells.charts/datalabels/show_bubble_size/
 is_root: false
 ---
 ##  show_bubble_size недвижимость
 
-Представляет поведение отображения процентного значения метки данных указанной диаграммы. True отображает процентное значение. Ложь скрывать.
+Представляет поведение отображения процентного значения метки данных указанной диаграммы. True отображает процентное значение. Ложь, чтобы скрыть.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_bubble_size(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [DataLabels](/cells/python-net/ru/aspose.cells.charts/datalabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`DataLabels`](/cells/python-net/ru/aspose.cells.charts/datalabels)

@@ -3,7 +3,7 @@ title: height_scale fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 470
+weight: 480
 url: /sv/aspose.cells.drawing/button/height_scale/
 is_root: false
 ---
@@ -31,5 +31,5 @@ def height_scale(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Button](/cells/python-net/sv/aspose.cells.drawing/button)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Button`](/cells/python-net/sv/aspose.cells.drawing/button)

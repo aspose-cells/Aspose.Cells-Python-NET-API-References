@@ -3,7 +3,7 @@ title: ole_size mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 330
 url: /tr/aspose.cells/worksheetcollection/ole_size/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Notlar
 
-Boş, ole boyutu ayarı olmadığı anlamına gelir.
+Null, ole boyutu ayarının olmadığı anlamına gelir.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def ole_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorksheetCollection](/cells/python-net/tr/aspose.cells/worksheetcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorksheetCollection`](/cells/python-net/tr/aspose.cells/worksheetcollection)

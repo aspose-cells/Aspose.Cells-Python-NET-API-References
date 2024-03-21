@@ -1,13 +1,13 @@
 ---
-title: input_message 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: input_message属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 230
 url: /zh/aspose.cells/validation/input_message/
 is_root: false
 ---
-## input_message 属性
+## input_message属性
 
 表示数据验证输入消息。
 ### 定义：
@@ -21,5 +21,5 @@ def input_message(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Validation](/cells/python-net/zh/aspose.cells/validation)
+* 模块[`aspose.cells`](../../)
+* 类 [`Validation`](/cells/python-net/zh/aspose.cells/validation)

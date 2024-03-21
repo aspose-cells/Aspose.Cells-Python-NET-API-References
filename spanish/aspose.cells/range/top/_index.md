@@ -3,7 +3,7 @@ title: top propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 390
+weight: 410
 url: /es/aspose.cells/range/top/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def top(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Range](/cells/python-net/es/aspose.cells/range)
+* módulo [`aspose.cells`](../../)
+* clase [`Range`](/cells/python-net/es/aspose.cells/range)

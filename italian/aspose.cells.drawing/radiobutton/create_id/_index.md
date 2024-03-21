@@ -3,7 +3,7 @@ title: create_id proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 320
+weight: 350
 url: /it/aspose.cells.drawing/radiobutton/create_id/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def create_id(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/it/aspose.cells.drawing/radiobutton)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/it/aspose.cells.drawing/radiobutton)

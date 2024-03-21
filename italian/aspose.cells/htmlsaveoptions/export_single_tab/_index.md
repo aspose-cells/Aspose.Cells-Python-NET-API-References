@@ -3,7 +3,7 @@ title: export_single_tab proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 340
+weight: 360
 url: /it/aspose.cells/htmlsaveoptions/export_single_tab/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def export_single_tab(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/it/aspose.cells/htmlsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/it/aspose.cells/htmlsaveoptions)

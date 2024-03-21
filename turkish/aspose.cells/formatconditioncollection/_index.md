@@ -3,17 +3,17 @@ title: FormatConditionCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 700
+weight: 730
 url: /tr/aspose.cells/formatconditioncollection/
 is_root: false
 ---
 ##  FormatConditionCollection sınıfı
 Koşullu biçimlendirmeyi temsil eder.
-FormatConditions en fazla üç koşullu biçim içerebilir.
+FormatConditions en fazla üç koşullu format içerebilir.
 
 
 
-FormatConditionCollection türü aşağıdaki üyeleri gösterir:
+FormatConditionCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -24,23 +24,23 @@ FormatConditionCollection türü aşağıdaki üyeleri gösterir:
 
 
 Biçimlendirme koşulunu dizine göre alır.
-###  İndeksleyici
+###  Dizin oluşturucu
 | İsim| Tanım|
 | :- | :- |
-| [index] | döndürülecek biçimlendirme koşulunun dizini.|
+| [index] |döndürülecek biçimlendirme koşulunun dizini.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add_condition(type, operator_type, formula1, formula2)](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_condition/#FormatConditionType-OperatorType-str-str) | Bir biçimlendirme koşulu ekler.|
-| [add_condition(type)](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_condition/#FormatConditionType) |Bir biçim koşulu ekleyin.|
-| [remove_area(index)](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_area/#int) | Koşullu biçimlendirilmiş hücre aralığını dizine göre kaldırır.|
-| [remove_area(start_row, start_column, total_rows, total_columns)](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Aralıktaki koşullu biçimlendirmeyi kaldırın.|
-| [add(cell_area, type, operator_type, formula1, formula2)](/cells/python-net/tr/aspose.cells/formatconditioncollection/add/#CellArea-FormatConditionType-OperatorType-str-str) | FormatConditions'a bir biçimlendirme koşulu ve etkilenen hücre aralığı ekler<br/>FormatConditions en fazla üç koşullu biçim içerebilir.<br/> Koşullu biçimlendirme formüllerinde diğer sayfalara atıfta bulunulmasına izin verilmez.|
-| [add_area(cell_area)](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_area/#CellArea) | Koşullu biçimlendirilmiş bir hücre aralığı ekler.|
-| [get_cell_area(index)](/cells/python-net/tr/aspose.cells/formatconditioncollection/get_cell_area/#int) | Koşullu biçimlendirilmiş hücre aralığını dizine göre alır.|
-| [remove_condition(index)](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_condition/#int) | Biçimlendirme koşulunu dizine göre kaldırır.|
+| [add_condition](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Bir biçimlendirme koşulu ekler.|
+| [add_condition](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType) | Bir biçim koşulu ekleyin.|
+| [remove_area](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_area/#int) | Koşullu biçimlendirilmiş hücre aralığını dizine göre kaldırır.|
+| [remove_area](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Aralıktaki koşullu biçimlendirmeyi kaldırın.|
+| [add](/cells/python-net/tr/aspose.cells/formatconditioncollection/add/#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | FormatConditions'a bir biçimlendirme koşulu ve etkilenen hücre çalması ekler<br/>FormatConditions en fazla üç koşullu format içerebilir.<br/> Koşullu biçimlendirme formüllerinde diğer sayfalara referans verilmesine izin verilmez.|
+| [add_area](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_area/#aspose.cells.CellArea) | Koşullu biçimlendirilmiş bir hücre aralığı ekler.|
+| [get_cell_area](/cells/python-net/tr/aspose.cells/formatconditioncollection/get_cell_area/#int) | Koşullu biçimlendirilmiş hücre aralığını dizine göre alır.|
+| [remove_condition](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_condition/#int) | Biçimlendirme koşulunu dizine göre kaldırır.|
 
 
 
@@ -83,4 +83,4 @@ workbook.save("output.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

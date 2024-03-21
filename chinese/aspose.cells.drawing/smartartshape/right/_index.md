@@ -1,15 +1,15 @@
 ---
-title: right 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: right属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 850
+weight: 860
 url: /zh/aspose.cells.drawing/smartartshape/right/
 is_root: false
 ---
-## right 属性
+## right属性
 
-表示形状从其下 right 角列的水平偏移的宽度，以像素为单位。
+表示形状相对于其下部 right 角列的水平偏移的宽度，以像素为单位。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def right(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [SmartArtShape](/cells/python-net/zh/aspose.cells.drawing/smartartshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`SmartArtShape`](/cells/python-net/zh/aspose.cells.drawing/smartartshape)

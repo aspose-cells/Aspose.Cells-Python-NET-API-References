@@ -1,19 +1,19 @@
 ---
-title: get_view_column_width_pixel método
+title: método get_view_column_width_pixel
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 510
+weight: 500
 url: /es/aspose.cells/cells/get_view_column_width_pixel/
 is_root: false
 ---
-##  get_view_column_width_pixel(column) {#int}
+##  get_view_column_width_pixel {#int}
 Obtenga el ancho en diferentes tipos de vista.
 
 
 ###  Devoluciones
 
-el ancho de columna en unidades de píxeles
+el ancho de la columna en unidades de píxeles
 
 
 ```python
@@ -29,5 +29,5 @@ def get_view_column_width_pixel(self, column):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

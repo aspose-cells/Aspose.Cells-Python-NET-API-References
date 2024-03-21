@@ -3,13 +3,13 @@ title: shared_style_index Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 670
+weight: 700
 url: /de/aspose.cells/cell/shared_style_index/
 is_root: false
 ---
 ##  shared_style_index Eigentum
 
-Ruft den gemeinsam genutzten Stilindex der Zelle im Stilpool ab.
+Ruft den gemeinsamen Stilindex der Zelle im Stilpool ab.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def shared_style_index(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

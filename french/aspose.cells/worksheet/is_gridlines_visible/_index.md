@@ -3,7 +3,7 @@ title: is_gridlines_visible propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 540
+weight: 560
 url: /fr/aspose.cells/worksheet/is_gridlines_visible/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_gridlines_visible(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

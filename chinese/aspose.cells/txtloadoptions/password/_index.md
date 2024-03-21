@@ -1,15 +1,15 @@
 ---
-title: password 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: password属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 340
 url: /zh/aspose.cells/txtloadoptions/password/
 is_root: false
 ---
-## password 属性
+## password属性
 
-获取并设置工作簿的 password。
+获取和设置工作簿的password。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [TxtLoadOptions](/cells/python-net/zh/aspose.cells/txtloadoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`TxtLoadOptions`](/cells/python-net/zh/aspose.cells/txtloadoptions)

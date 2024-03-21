@@ -3,7 +3,7 @@ title: drag_to_hide proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 270
+weight: 300
 url: /it/aspose.cells.pivot/pivotfield/drag_to_hide/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def drag_to_hide(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotField](/cells/python-net/it/aspose.cells.pivot/pivotfield)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotField`](/cells/python-net/it/aspose.cells.pivot/pivotfield)

@@ -1,13 +1,13 @@
 ---
-title: is_selected الملكية
+title: is_selected عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 600
+weight: 620
 url: /ar/aspose.cells/worksheet/is_selected/
 is_root: false
 ---
-##  is_selected الملكية
+##  is_selected عقار
 
 يشير إلى ما إذا كانت ورقة العمل هذه محددة عند فتح المصنف.
 ###  تعريف:
@@ -21,5 +21,5 @@ def is_selected(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

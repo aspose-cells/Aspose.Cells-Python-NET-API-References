@@ -1,9 +1,9 @@
 ---
 title: OoxmlCompressionType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2280
+weight: 2370
 url: /ru/aspose.cells/ooxmlcompressiontype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип OoxmlCompressionType предоставляет следующие члены:
+Тип OoxmlCompressionType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -23,11 +23,11 @@ is_root: false
 | LEVEL4 | Немного медленнее, но лучше, чем уровень 3.|
 | LEVEL5 | Немного медленнее, чем уровень 4, но с лучшим сжатием.|
 | LEVEL6 | Хороший баланс скорости и эффективности сжатия.|
-| LEVEL7 | Довольно хорошая компрессия!|
+| LEVEL7 | Довольно хорошее сжатие!|
 | LEVEL8 | Лучшее сжатие, чем Level7!|
-| LEVEL9 |«Лучшее» сжатие, где «лучшее» означает максимальное уменьшение размера входного потока данных.<br/> Это также самое медленное сжатие.|
+| LEVEL9 |«Наилучшее» сжатие, где лучшее означает наибольшее уменьшение размера входного потока данных.<br/> Это также самое медленное сжатие.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

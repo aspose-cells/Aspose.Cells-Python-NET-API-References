@@ -1,13 +1,13 @@
 ---
-title: text_body 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_body属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 970
+weight: 980
 url: /zh/aspose.cells.drawing/combobox/text_body/
 is_root: false
 ---
-## text_body 属性
+## text_body属性
 
 获取和设置形状文本的设置。
 
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ComboBox](/cells/python-net/zh/aspose.cells.drawing/combobox)
-* 类 [FontSettingCollection](/cells/python-net/zh/aspose.cells.drawing.texts/fontsettingcollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ComboBox`](/cells/python-net/zh/aspose.cells.drawing/combobox)
+* 类 [`FontSettingCollection`](/cells/python-net/zh/aspose.cells.drawing.texts/fontsettingcollection)

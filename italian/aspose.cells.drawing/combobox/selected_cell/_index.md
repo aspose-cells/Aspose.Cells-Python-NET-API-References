@@ -3,7 +3,7 @@ title: selected_cell proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 880
+weight: 890
 url: /it/aspose.cells.drawing/combobox/selected_cell/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def selected_cell(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
-* classe [ComboBox](/cells/python-net/it/aspose.cells.drawing/combobox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)
+* classe [`ComboBox`](/cells/python-net/it/aspose.cells.drawing/combobox)

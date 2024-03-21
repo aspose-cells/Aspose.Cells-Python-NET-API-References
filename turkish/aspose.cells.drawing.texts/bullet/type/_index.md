@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-type mermisini alır ve ayarlar.
+Madde işaretinin type'ini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [Bullet](/cells/python-net/tr/aspose.cells.drawing.texts/bullet)
-* sınıf [BulletType](/cells/python-net/tr/aspose.cells.drawing.texts/bullettype)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`Bullet`](/cells/python-net/tr/aspose.cells.drawing.texts/bullet)
+* sınıf [`BulletType`](/cells/python-net/tr/aspose.cells.drawing.texts/bullettype)

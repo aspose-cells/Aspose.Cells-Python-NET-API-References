@@ -3,7 +3,7 @@ title: number fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 410
 url: /sv/aspose.cells/style/number/
 is_root: false
 ---
@@ -17,10 +17,10 @@ Till exempel, formatmönstren som representeras av siffror för en_US-regionen:
 | Värde| Typ| Formatera sträng|
 | :- | :- | :- |
 | 0| Allmän|
-| 1| Decimal|
-| 2| Decimal|
-| 3| Decimal|
-| 4| Decimal|
+| 1|Decimal|
+| 2|Decimal|
+| 3|Decimal|
+| 4|Decimal|
 | 5| Valuta|
 | 6| Valuta|
 | 7| Valuta|
@@ -63,5 +63,5 @@ def number(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

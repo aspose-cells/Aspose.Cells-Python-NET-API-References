@@ -1,15 +1,15 @@
 ---
-title: spt 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: spt属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 910
+weight: 920
 url: /zh/aspose.cells.drawing/chartshape/spt/
 is_root: false
 ---
-## spt 属性
+## spt属性
 
-指定一个可选数字，应用程序可以使用该数字将特定形状与定义的形状类型相关联。
+指定应用程序可用于将特定形状与定义的形状类型相关联的可选数字。
 
 ### 例子
 
@@ -26,5 +26,5 @@ def spt(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ChartShape](/cells/python-net/zh/aspose.cells.drawing/chartshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ChartShape`](/cells/python-net/zh/aspose.cells.drawing/chartshape)

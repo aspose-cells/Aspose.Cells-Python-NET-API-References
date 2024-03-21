@@ -3,7 +3,7 @@ title: axis_line propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 60
+weight: 70
 url: /es/aspose.cells.charts/axis/axis_line/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def axis_line(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Axis](/cells/python-net/es/aspose.cells.charts/axis)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Axis`](/cells/python-net/es/aspose.cells.charts/axis)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)

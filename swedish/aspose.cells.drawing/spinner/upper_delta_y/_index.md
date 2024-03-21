@@ -3,7 +3,7 @@ title: upper_delta_y fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /sv/aspose.cells.drawing/spinner/upper_delta_y/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def upper_delta_y(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Spinner](/cells/python-net/sv/aspose.cells.drawing/spinner)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Spinner`](/cells/python-net/sv/aspose.cells.drawing/spinner)

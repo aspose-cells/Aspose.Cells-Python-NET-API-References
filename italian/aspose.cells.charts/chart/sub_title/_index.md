@@ -3,7 +3,7 @@ title: sub_title proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 590
+weight: 620
 url: /it/aspose.cells.charts/chart/sub_title/
 is_root: false
 ---
@@ -19,6 +19,6 @@ def sub_title(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
-* classe [Title](/cells/python-net/it/aspose.cells.charts/title)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)
+* classe [`Title`](/cells/python-net/it/aspose.cells.charts/title)

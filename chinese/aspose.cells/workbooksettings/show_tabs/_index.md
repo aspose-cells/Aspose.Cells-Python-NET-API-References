@@ -1,13 +1,13 @@
 ---
-title: show_tabs 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: show_tabs属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 580
+weight: 460
 url: /zh/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
-## show_tabs 属性
+## show_tabs属性
 
 获取或设置是否显示工作簿选项卡的值。
 
@@ -36,5 +36,5 @@ def show_tabs(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)

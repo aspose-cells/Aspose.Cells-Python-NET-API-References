@@ -3,13 +3,13 @@ title: height_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 130
 url: /tr/aspose.cells/comment/height_cm/
 is_root: false
 ---
 ##  height_cm mülk
 
-Yorumun santimetre cinsinden yüksekliğini temsil eder.
+Yorumun yüksekliğini santimetre cinsinden temsil eder.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def height_cm(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)

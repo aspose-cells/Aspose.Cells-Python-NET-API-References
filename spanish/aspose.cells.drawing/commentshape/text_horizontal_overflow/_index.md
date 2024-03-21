@@ -3,7 +3,7 @@ title: text_horizontal_overflow propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 980
+weight: 990
 url: /es/aspose.cells.drawing/commentshape/text_horizontal_overflow/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CommentShape](/cells/python-net/es/aspose.cells.drawing/commentshape)
-* clase [TextOverflowType](/cells/python-net/es/aspose.cells.drawing/textoverflowtype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CommentShape`](/cells/python-net/es/aspose.cells.drawing/commentshape)
+* clase [`TextOverflowType`](/cells/python-net/es/aspose.cells.drawing/textoverflowtype)

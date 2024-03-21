@@ -1,14 +1,14 @@
 ---
 title: remove_duplicates метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 810
+weight: 800
 url: /ru/aspose.cells/cells/remove_duplicates/
 is_root: false
 ---
-##  remove_duplicates() {#}
-Удаляет повторяющиеся строки в таблице.
+##  remove_duplicates {#}
+Удаляет повторяющиеся строки на листе.
 
 
 
@@ -20,7 +20,7 @@ def remove_duplicates(self):
 
 
 
-##  remove_duplicates(start_row, start_column, end_row, end_column) {#int-int-int-int}
+##  remove_duplicates {#int-int-int-int}
 Удаляет повторяющиеся значения в диапазоне.
 
 
@@ -39,7 +39,7 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column):
 | end_column | int | Индекс конечного столбца.|
 
 
-##  remove_duplicates(start_row, start_column, end_row, end_column, has_headers, column_offsets) {#int-int-int-int-bool-list}
+##  remove_duplicates {#int-int-int-int-bool-list}
 Удаляет повторяющиеся данные диапазона.
 
 
@@ -62,5 +62,5 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column, has_he
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

@@ -3,7 +3,7 @@ title: standard_width_pixels Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1300
+weight: 1290
 url: /de/aspose.cells/cells/standard_width_pixels/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def standard_width_pixels(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

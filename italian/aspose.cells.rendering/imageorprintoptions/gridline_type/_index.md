@@ -3,13 +3,13 @@ title: gridline_type proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 120
+weight: 130
 url: /it/aspose.cells.rendering/imageorprintoptions/gridline_type/
 is_root: false
 ---
 ##  gridline_type proprietà
 
-Ottiene o imposta il tipo di griglia.
+Ottiene o imposta il tipo di linea della griglia.
 
 ###  Osservazioni
 
@@ -25,6 +25,6 @@ def gridline_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [GridlineType](/cells/python-net/it/aspose.cells/gridlinetype)
-* classe [ImageOrPrintOptions](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`GridlineType`](/cells/python-net/it/aspose.cells/gridlinetype)
+* classe [`ImageOrPrintOptions`](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)

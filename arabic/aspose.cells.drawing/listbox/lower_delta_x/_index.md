@@ -1,19 +1,19 @@
 ---
-title: lower_delta_x الملكية
+title: lower_delta_x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 770
+weight: 780
 url: /ar/aspose.cells.drawing/listbox/lower_delta_x/
 is_root: false
 ---
-##  lower_delta_x الملكية
+##  lower_delta_x عقار
 
-الحصول على أو تعيين الإزاحة الأفقية للشكل من عمود الركن الأيمن السفلي.
+الحصول على الإزاحة الأفقية للشكل أو تعيينها من عمود الزاوية اليمنى السفلية.
 
 ###  ملاحظات
 
-نطاق القيمة من 0 إلى 1024.
+نطاق القيمة هو 0 إلى 1024.
 
 ###  مثال
 
@@ -34,5 +34,5 @@ def lower_delta_x(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)

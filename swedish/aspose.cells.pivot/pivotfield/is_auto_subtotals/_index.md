@@ -3,7 +3,7 @@ title: is_auto_subtotals fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 400
 url: /sv/aspose.cells.pivot/pivotfield/is_auto_subtotals/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_auto_subtotals(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotField](/cells/python-net/sv/aspose.cells.pivot/pivotfield)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield)

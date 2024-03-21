@@ -1,9 +1,9 @@
 ---
 title: is_text_wrapped недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 640
+weight: 650
 url: /ru/aspose.cells.drawing/rectangleshape/is_text_wrapped/
 is_root: false
 ---
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.is_text_wrapped:
-    shape.is_text_wrapped = !shape.is_text_wrapped
+    shape.is_text_wrapped = notshape.is_text_wrapped
 
 ```
 ###  Определение:
@@ -30,5 +30,5 @@ def is_text_wrapped(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [RectangleShape](/cells/python-net/ru/aspose.cells.drawing/rectangleshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`RectangleShape`](/cells/python-net/ru/aspose.cells.drawing/rectangleshape)

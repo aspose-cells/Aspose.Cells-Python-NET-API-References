@@ -3,7 +3,7 @@ title: min_row fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1190
+weight: 1180
 url: /sv/aspose.cells/cells/min_row/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def min_row(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

@@ -3,7 +3,7 @@ title: image_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 610
+weight: 620
 url: /tr/aspose.cells.drawing/oleobject/image_type/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def image_type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ImageType](/cells/python-net/tr/aspose.cells.drawing/imagetype)
-* sınıf [OleObject](/cells/python-net/tr/aspose.cells.drawing/oleobject)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ImageType`](/cells/python-net/tr/aspose.cells.drawing/imagetype)
+* sınıf [`OleObject`](/cells/python-net/tr/aspose.cells.drawing/oleobject)

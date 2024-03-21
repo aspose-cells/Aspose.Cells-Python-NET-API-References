@@ -3,35 +3,37 @@ title: Metered sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1050
+weight: 1090
 url: /tr/aspose.cells/metered/
 is_root: false
 ---
 ##  Metered sınıfı
-Ölçülen anahtarı ayarlamak için yöntemler sağlar.
+Ölçülü anahtarı ayarlamak için yöntemler sağlar.
 
 
 
-Metered türü aşağıdaki üyeleri gösterir:
+Metered türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [Metered()](/cells/python-net/tr/aspose.cells/metered/__init__/#) | Bu sınıfın yeni bir örneğini başlatır.|
+| [__init__](/cells/python-net/tr/aspose.cells/metered/__init__/#) | Bu sınıfın yeni bir örneğini başlatır.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [set_metered_key(public_key, private_key)](/cells/python-net/tr/aspose.cells/metered/set_metered_key/#str-str) | Tarifeli genel ve özel anahtarı ayarlar.<br/>Sayaçlı lisans satın alıyorsanız, uygulamayı başlattığınızda bu API aranmalıdır, normalde bu yeterlidir. Ancak, tüketim verilerini her zaman yükleyemezseniz ve 24 saati aşarsanız, lisans değerlendirme durumuna alınır, böyle bir durumla karşılaşmamak için lisans durumunu düzenli olarak kontrol etmelisiniz, değerlendirme durumuysa, bu API'i tekrar arayın.|
-| [get_consumption_quantity()](/cells/python-net/tr/aspose.cells/metered/get_consumption_quantity/#) | Tüketim dosyası boyutunu alır|
-| [get_consumption_credit()](/cells/python-net/tr/aspose.cells/metered/get_consumption_credit/#) | Tüketim kredisi alıyor|
+| [set_metered_key](/cells/python-net/tr/aspose.cells/metered/set_metered_key/#str-str) | Ölçülen genel ve özel anahtarı ayarlar.<br/> Tarifeli lisans satın alırsanız başvuruya başladığınızda bu API'i aramanız gerekiyor, normalde bu yeterli.<br/> Ancak tüketim verilerinin yüklenememesi ve 24 saati aşması halinde lisans değerlendirme durumuna geçecektir.<br/> böyle bir durumla karşılaşmamak için lisans durumunu düzenli olarak kontrol etmelisiniz, değerlendirme durumu ise API'i tekrar arayın.|
+| [get_consumption_quantity](/cells/python-net/tr/aspose.cells/metered/get_consumption_quantity/#) | Tüketim dosyası boyutunu alır|
+| [get_consumption_credit](/cells/python-net/tr/aspose.cells/metered/get_consumption_credit/#) | Tüketim kredisi alıyor|
+| [get_product_name](/cells/python-net/tr/aspose.cells/metered/get_product_name/#) | Ürün adını alır|
+| [is_metered_licensed](/cells/python-net/tr/aspose.cells/metered/is_metered_licensed/#) | Ölçüm cihazının lisanslı olup olmadığını kontrol edin|
 
 
 
 ###  Örnek
 
-Bu örnekte ölçülü genel ve özel anahtar ayarlanmaya çalışılacaktır.
+Bu örnekte, ölçülü genel ve özel anahtar ayarlanmaya çalışılacaktır.
 
 
 ```python
@@ -43,4 +45,4 @@ matered.set_metered_key("PublicKey", "PrivateKey")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

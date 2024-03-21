@@ -1,13 +1,13 @@
 ---
-title: item_count 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: item_count属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 680
+weight: 690
 url: /zh/aspose.cells.drawing/listbox/item_count/
 is_root: false
 ---
-## item_count 属性
+## item_count属性
 
 获取列表框中的项目数。
 ### 定义：
@@ -18,5 +18,5 @@ def item_count(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ListBox](/cells/python-net/zh/aspose.cells.drawing/listbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ListBox`](/cells/python-net/zh/aspose.cells.drawing/listbox)

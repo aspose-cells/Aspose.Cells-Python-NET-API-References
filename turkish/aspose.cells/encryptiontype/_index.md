@@ -3,28 +3,28 @@ title: EncryptionType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2000
+weight: 2070
 url: /tr/aspose.cells/encryptiontype/
 is_root: false
 ---
 ##  EncryptionType numaralandırma
  Şifreleme tipi.
 Yalnızca excel2003 tarafından kullanılır.
-2007/2010 çalışma kitabını SHA AES kullanarak Excel'in yaptığı gibi şifreleyeceğiz ve bu EncryptionType dikkate alınmayacaktır.
+2007/2010 çalışma kitabını Excel'in yaptığı gibi SHA AES kullanarak şifreleyeceğiz ve bu EncryptionType dikkate alınmayacaktır.
 
 
 
-EncryptionType türü aşağıdaki üyeleri gösterir:
+EncryptionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | XOR |  |
-| COMPATIBLE | Office 97/2000 uyumlu.|
+| COMPATIBLE |Office 97/2000 uyumludur.|
 | ENHANCED_CRYPTOGRAPHIC_PROVIDER_V1 |  |
 | STRONG_CRYPTOGRAPHIC_PROVIDER |  |
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

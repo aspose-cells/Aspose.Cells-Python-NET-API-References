@@ -1,25 +1,25 @@
 ---
-title: FontSourceBase الدرجة
+title: FontSourceBase صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 680
+weight: 710
 url: /ar/aspose.cells/fontsourcebase/
 is_root: false
 ---
-##  FontSourceBase الدرجة
+##  FontSourceBase صف
 هذه فئة أساسية مجردة للفئات التي تسمح للمستخدم بتحديد مصادر الخطوط المختلفة
 
 
 
-يكشف نوع FontSourceBase الأعضاء التالية:
+يكشف النوع FontSourceBase عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells/fontsourcebase/type) | ترجع نوع مصدر الخط.|
+| [type](/cells/python-net/ar/aspose.cells/fontsourcebase/type) | إرجاع نوع مصدر الخط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

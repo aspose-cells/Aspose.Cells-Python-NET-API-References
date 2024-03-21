@@ -1,19 +1,19 @@
 ---
 title: html_note недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells/comment/html_note/
 is_root: false
 ---
 ##  html_note недвижимость
 
-Получает и задает строку html, содержащую данные и некоторые форматы в этом комментарии.
+Получает и устанавливает строку HTML, содержащую данные и некоторые форматы в этом комментарии.
 
 ###  Примечания
 
-Если это связанный комментарий, примечание не может быть изменено, иначе MS Excel не сможет обработать его как связанный комментарий.
+Если это цепочный комментарий, примечание нельзя изменить, иначе MS Excel не сможет обработать его как цепочный комментарий.
 
 ###  Пример
 
@@ -33,5 +33,5 @@ def html_note(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)

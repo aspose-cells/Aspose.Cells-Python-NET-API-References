@@ -7,8 +7,8 @@ weight: 90
 url: /tr/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear() {#}
-Tüm hücre ve satır nesnelerini temizler.
+##  clear {#}
+Çalışma sayfasındaki tüm verileri temizler.
 
 
 
@@ -22,5 +22,5 @@ def clear(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

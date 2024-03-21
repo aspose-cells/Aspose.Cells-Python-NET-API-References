@@ -1,9 +1,9 @@
 ---
 title: object_source_full_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 960
+weight: 970
 url: /ru/aspose.cells.drawing/oleobject/object_source_full_name/
 is_root: false
 ---
@@ -14,7 +14,7 @@ is_root: false
 ###  Примечания
 
 Поддерживает установку полного имени источника только в том случае, если тип файла — OleFileType.Unknown.
-Например, WAV-файл, AVI-файл и т. д.
+Такие как wav-файл, avi-файл... и т. д.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def object_source_full_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

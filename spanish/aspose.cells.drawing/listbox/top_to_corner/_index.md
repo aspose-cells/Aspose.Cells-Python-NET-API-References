@@ -3,7 +3,7 @@ title: top_to_corner propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /es/aspose.cells.drawing/listbox/top_to_corner/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ListBox](/cells/python-net/es/aspose.cells.drawing/listbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ListBox`](/cells/python-net/es/aspose.cells.drawing/listbox)

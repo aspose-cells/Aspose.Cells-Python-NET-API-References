@@ -1,22 +1,22 @@
 ---
-title: height_cm الملكية
+title: height_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 450
 url: /ar/aspose.cells.drawing/combobox/height_cm/
 is_root: false
 ---
-##  height_cm الملكية
+##  height_cm عقار
 
-يمثل ارتفاع الشكل بوحدة السنتيمترات.
+يمثل ارتفاع الشكل بوحدة السنتيمتر.
 
 ###  مثال
 
 ```python
 
 if shape.height_cm == 3:
-    shape.height_cm = 1
+    shape.height_cm = 1.0
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def height_cm(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ComboBox](/cells/python-net/ar/aspose.cells.drawing/combobox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ComboBox`](/cells/python-net/ar/aspose.cells.drawing/combobox)

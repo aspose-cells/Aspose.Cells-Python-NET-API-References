@@ -3,7 +3,7 @@ title: right proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 860
+weight: 870
 url: /it/aspose.cells.drawing/commentshape/right/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def right(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CommentShape](/cells/python-net/it/aspose.cells.drawing/commentshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CommentShape`](/cells/python-net/it/aspose.cells.drawing/commentshape)

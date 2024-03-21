@@ -1,27 +1,27 @@
 ---
-title: العد TextStrikeType
+title: TextStrikeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2570
+weight: 2660
 url: /ar/aspose.cells/textstriketype/
 is_root: false
 ---
-##  العد TextStrikeType
-يحدد هذا النوع نوع الضربة.
+##  TextStrikeType التعداد
+يحدد هذا النوع نوع المخالفة.
 
 
 
-يكشف نوع TextStrikeType الأعضاء التالية:
+يكشف النوع TextStrikeType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| SINGLE |يتم تطبيق خط واحد يتوسطه خط على النص.|
-| DOUBLE | يتوسطه خط مزدوج مطبق على النص.|
-| NONE | لم يتم تطبيق أي إضراب على النص.|
+| SINGLE | يتوسطه خط واحد مطبق على النص.|
+| DOUBLE | يتم تطبيق خط مزدوج على النص.|
+| NONE | لا يتم تطبيق أي مخالفة على النص.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

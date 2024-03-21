@@ -1,14 +1,14 @@
 ---
-title: set_column_width_inch méthode
+title: méthode set_column_width_inch
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 850
+weight: 840
 url: /fr/aspose.cells/cells/set_column_width_inch/
 is_root: false
 ---
-##  set_column_width_inch(column, inches) {#int-float}
-Définit la largeur de la colonne en pouces en vue normale.
+##  set_column_width_inch {#int-float}
+Définit la largeur de la colonne en unités de pouces en vue normale.
 
 
 
@@ -20,11 +20,11 @@ def set_column_width_inch(self, column, inches):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| column | int | Indice de colonne.|
-| inches | float | Nombre de pouces.|
+| column | int | Index de colonne.|
+| inches | float |Nombre de pouces.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cells](/cells/python-net/fr/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/fr/aspose.cells/cells)

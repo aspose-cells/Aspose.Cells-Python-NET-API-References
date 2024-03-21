@@ -3,7 +3,7 @@ title: tick_mark_spacing propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 400
+weight: 410
 url: /fr/aspose.cells.charts/axis/tick_mark_spacing/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Renvoie ou définit le nombre de catégories ou de séries entre les graduations
 
 ###  Remarques
 
-Le nombre doit être compris entre 1 et 31999.
+Le numéro doit être compris entre 1 et 31999.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def tick_mark_spacing(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/fr/aspose.cells.charts/axis)
+* module [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/fr/aspose.cells.charts/axis)

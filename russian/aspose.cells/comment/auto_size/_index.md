@@ -1,9 +1,9 @@
 ---
 title: auto_size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ru/aspose.cells/comment/auto_size/
 is_root: false
 ---
@@ -15,7 +15,7 @@ is_root: false
 
 ```python
 
-if !comment1.auto_size:
+if notcomment1.auto_size:
     # The size of the comment varies with the content
     comment1.auto_size = True
 
@@ -31,5 +31,5 @@ def auto_size(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)

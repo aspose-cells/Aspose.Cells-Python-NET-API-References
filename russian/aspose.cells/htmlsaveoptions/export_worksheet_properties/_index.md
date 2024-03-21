@@ -1,16 +1,16 @@
 ---
 title: export_worksheet_properties недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 370
+weight: 390
 url: /ru/aspose.cells/htmlsaveoptions/export_worksheet_properties/
 is_root: false
 ---
 ##  export_worksheet_properties недвижимость
 
- Указывает, экспортируются ли свойства рабочего листа. Значение по умолчанию — true. Если вы хотите импортировать
-файл html или mht, чтобы преуспеть, оставьте значение по умолчанию.
+Указывает, экспортируются ли свойства листа. Значение по умолчанию — true. Если вы хотите импортировать
+файл html или mht для Excel, оставьте значение по умолчанию.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def export_worksheet_properties(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)

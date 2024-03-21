@@ -3,7 +3,7 @@ title: left_cm fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 690
+weight: 710
 url: /sv/aspose.cells.drawing/radiobutton/left_cm/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representerar den horisontella förskjutningen av formen från dess vänstra kol
 ```python
 
 if shape.left_cm == 3:
-    shape.left_cm = 1
+    shape.left_cm = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def left_cm(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RadioButton](/cells/python-net/sv/aspose.cells.drawing/radiobutton)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RadioButton`](/cells/python-net/sv/aspose.cells.drawing/radiobutton)

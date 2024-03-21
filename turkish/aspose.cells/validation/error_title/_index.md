@@ -3,7 +3,7 @@ title: error_title mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 180
 url: /tr/aspose.cells/validation/error_title/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def error_title(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Validation](/cells/python-net/tr/aspose.cells/validation)
+* modül [`aspose.cells`](../../)
+* sınıf [`Validation`](/cells/python-net/tr/aspose.cells/validation)

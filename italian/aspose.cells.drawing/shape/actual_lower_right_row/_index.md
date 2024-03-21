@@ -3,7 +3,7 @@ title: actual_lower_right_row proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 250
+weight: 270
 url: /it/aspose.cells.drawing/shape/actual_lower_right_row/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def actual_lower_right_row(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Shape](/cells/python-net/it/aspose.cells.drawing/shape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Shape`](/cells/python-net/it/aspose.cells.drawing/shape)

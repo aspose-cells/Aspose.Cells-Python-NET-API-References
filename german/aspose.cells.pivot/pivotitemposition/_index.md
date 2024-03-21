@@ -3,12 +3,12 @@ title: PivotItemPosition Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 320
 url: /de/aspose.cells.pivot/pivotitemposition/
 is_root: false
 ---
 ##  PivotItemPosition Aufzählung
-Stellt die nächste/vorherige/alle Position des PivotTable-Basiselements im Basisfeld dar.
+Stellt die Position des PivotTable-Basiselements Nächste/Vorherige/Alle im Basisfeld dar.
 
 
 
@@ -24,4 +24,4 @@ Der Typ PivotItemPosition macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](..)
+* Modul [`aspose.cells.pivot`](..)

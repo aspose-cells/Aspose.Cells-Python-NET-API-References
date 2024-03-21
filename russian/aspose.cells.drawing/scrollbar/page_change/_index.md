@@ -1,15 +1,15 @@
 ---
 title: page_change недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 860
+weight: 870
 url: /ru/aspose.cells.drawing/scrollbar/page_change/
 is_root: false
 ---
 ##  page_change недвижимость
 
-Получает или задает изменение страницы
+Получает или задает смену страницы
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def page_change(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ScrollBar](/cells/python-net/ru/aspose.cells.drawing/scrollbar)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ScrollBar`](/cells/python-net/ru/aspose.cells.drawing/scrollbar)

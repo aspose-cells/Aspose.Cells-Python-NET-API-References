@@ -1,6 +1,6 @@
 ---
 title: fill_forms_permission недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 80
@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  fill_forms_permission недвижимость
 
-Разрешение на заполнение полей формы.
+ Указывает, разрешить ли заполнение существующих полей интерактивной формы (включая поля для подписи),
+даже если [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) ясно.
 ###  Определение:
 ```python
 @property
@@ -21,5 +22,5 @@ def fill_forms_permission(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering.pdfsecurity](../../)
-* класс [PdfSecurityOptions](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* модуль [`aspose.cells.rendering.pdfsecurity`](../../)
+* класс [`PdfSecurityOptions`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

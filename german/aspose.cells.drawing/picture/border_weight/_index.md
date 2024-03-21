@@ -3,13 +3,13 @@ title: border_weight Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 340
 url: /de/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
 ##  border_weight Eigentum
 
-Ruft die Stärke der Rahmenlinie eines Bilds in Einheiten von pt ab oder legt diese fest.
+Ruft die Stärke der Randlinie eines Bildes in Einheiten von pt ab oder legt diese fest.
 
 ###  Beispiel
 
@@ -27,7 +27,7 @@ pic = worksheet.pictures[imgIndex]
 # Set the border color of the picture
 pic.border_line_color = Color.red
 # Set the border width of the picture
-pic.border_weight = 3
+pic.border_weight = 3.0
 # Save the excel file.
 workbook.save("result.xlsx")
 
@@ -43,5 +43,5 @@ def border_weight(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Picture](/cells/python-net/de/aspose.cells.drawing/picture)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Picture`](/cells/python-net/de/aspose.cells.drawing/picture)

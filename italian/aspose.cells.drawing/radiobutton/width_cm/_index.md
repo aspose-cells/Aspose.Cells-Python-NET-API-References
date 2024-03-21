@@ -3,7 +3,7 @@ title: width_cm proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1190
+weight: 1210
 url: /it/aspose.cells.drawing/radiobutton/width_cm/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Rappresenta la larghezza della forma, in unità di centimetri.
 ```python
 
 if shape.width_cm == 3:
-    shape.width_cm = 1
+    shape.width_cm = 1.0
 
 ```
 ###  Definizione:
@@ -30,5 +30,5 @@ def width_cm(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/it/aspose.cells.drawing/radiobutton)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/it/aspose.cells.drawing/radiobutton)

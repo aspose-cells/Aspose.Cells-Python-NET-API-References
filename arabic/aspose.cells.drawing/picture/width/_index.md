@@ -1,15 +1,15 @@
 ---
-title: width الملكية
+title: width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1340
+weight: 1350
 url: /ar/aspose.cells.drawing/picture/width/
 is_root: false
 ---
-##  width الملكية
+##  width عقار
 
-يمثل width للشكل بوحدة بكسل.
+يمثل width من الشكل بوحدة البكسل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

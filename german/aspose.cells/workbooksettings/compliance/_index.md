@@ -3,7 +3,7 @@ title: compliance Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 150
+weight: 120
 url: /de/aspose.cells/workbooksettings/compliance/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Gibt die OOXML-Version für das Ausgabedokument an. Der Standardwert ist Ecma376
 
 ###  Bemerkungen
 
-Nur für .xlsx-Dateien.
+Nur für XLSX-Dateien.
 ###  Definition:
 ```python
 @property
@@ -25,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [OoxmlCompliance](/cells/python-net/de/aspose.cells/ooxmlcompliance)
-* Klasse [WorkbookSettings](/cells/python-net/de/aspose.cells/workbooksettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`OoxmlCompliance`](/cells/python-net/de/aspose.cells/ooxmlcompliance)
+* Klasse [`WorkbookSettings`](/cells/python-net/de/aspose.cells/workbooksettings)

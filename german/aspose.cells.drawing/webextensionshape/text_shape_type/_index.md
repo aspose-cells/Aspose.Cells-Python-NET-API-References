@@ -3,7 +3,7 @@ title: text_shape_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1000
+weight: 1010
 url: /de/aspose.cells.drawing/webextensionshape/text_shape_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [AutoShapeType](/cells/python-net/de/aspose.cells.drawing/autoshapetype)
-* Klasse [WebExtensionShape](/cells/python-net/de/aspose.cells.drawing/webextensionshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`AutoShapeType`](/cells/python-net/de/aspose.cells.drawing/autoshapetype)
+* Klasse [`WebExtensionShape`](/cells/python-net/de/aspose.cells.drawing/webextensionshape)

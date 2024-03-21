@@ -3,7 +3,7 @@ title: show_error mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 260
 url: /tr/aspose.cells/validation/show_error/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_error(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Validation](/cells/python-net/tr/aspose.cells/validation)
+* modül [`aspose.cells`](../../)
+* sınıf [`Validation`](/cells/python-net/tr/aspose.cells/validation)

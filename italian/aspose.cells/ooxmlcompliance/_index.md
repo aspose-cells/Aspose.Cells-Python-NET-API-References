@@ -1,18 +1,18 @@
 ---
-title: OoxmlCompliance enumerazione
+title: Enumerazione OoxmlCompliance
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2270
+weight: 2360
 url: /it/aspose.cells/ooxmlcompliance/
 is_root: false
 ---
-##  OoxmlCompliance enumerazione
-Consente di specificare quale specifica OOXML verrà utilizzata durante il salvataggio nel formato Xlsx.
+##  Enumerazione OoxmlCompliance
+Permette di specificare quale specifica OOXML verrà utilizzata durante il salvataggio nel formato Xlsx.
 
 
 
-Il tipo OoxmlCompliance espone i membri seguenti:
+Il tipo OoxmlCompliance espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -23,4 +23,4 @@ Il tipo OoxmlCompliance espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

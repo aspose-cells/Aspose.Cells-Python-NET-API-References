@@ -3,11 +3,11 @@ title: copy_to metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 50
+weight: 60
 url: /sv/aspose.cells.vba/vbamodulecollection/copy_to/
 is_root: false
 ---
-##  copy_to(array) {#list}
+##  copy_to {#list}
 Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.
 
 
@@ -23,7 +23,7 @@ def copy_to(self, array):
 | array | list | Den endimensionella arraylistan som är destinationen för elementens kopierade arraylista. Matrislistan måste ha nollbaserad indexering.|
 
 
-##  copy_to(index, array, array_index, count) {#int-list-int-int}
+##  copy_to {#int-list-int-int}
 Kopierar ett intervall av element från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.
 
 
@@ -36,13 +36,13 @@ def copy_to(self, index, array, array_index, count):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| index | int | Det nollbaserade indexet i källmatrislistan där kopieringen börjar.|
+| index | int |Det nollbaserade indexet i källmatrislistan där kopieringen börjar.|
 | array | list | Den endimensionella arraylistan som är destinationen för elementen som kopierats från arraylistan. Matrislistan måste ha nollbaserad indexering.|
-| array_index | int |Det nollbaserade indexet i arraylistan där kopieringen börjar.|
+| array_index | int | Det nollbaserade indexet i arraylistan där kopieringen börjar.|
 | count | int | Antalet element som ska kopieras.|
 
 
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaModuleCollection](/cells/python-net/sv/aspose.cells.vba/vbamodulecollection)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaModuleCollection`](/cells/python-net/sv/aspose.cells.vba/vbamodulecollection)

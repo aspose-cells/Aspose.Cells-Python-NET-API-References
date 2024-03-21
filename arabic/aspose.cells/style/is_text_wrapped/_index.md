@@ -1,15 +1,15 @@
 ---
-title: is_text_wrapped الملكية
+title: is_text_wrapped عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 390
 url: /ar/aspose.cells/style/is_text_wrapped/
 is_root: false
 ---
-##  is_text_wrapped الملكية
+##  is_text_wrapped عقار
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان النص داخل الخلية ملتفًا أم لا.
+الحصول على قيمة أو تعيينها تشير إلى ما إذا كان النص داخل الخلية ملتفًا أم لا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_text_wrapped(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

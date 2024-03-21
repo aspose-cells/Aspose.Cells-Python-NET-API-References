@@ -1,6 +1,6 @@
 ---
 title: comment недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 80
@@ -10,7 +10,7 @@ is_root: false
 ##  comment недвижимость
 
 Получает и задает comment имени.
-Применяется только для Excel 2007.
+Применяется только для Excel 2007 или более поздних версий.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def comment(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Name](/cells/python-net/ru/aspose.cells/name)
+* модуль [`aspose.cells`](../../)
+* класс [`Name`](/cells/python-net/ru/aspose.cells/name)

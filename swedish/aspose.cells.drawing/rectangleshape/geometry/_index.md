@@ -3,7 +3,7 @@ title: geometry fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 390
 url: /sv/aspose.cells.drawing/rectangleshape/geometry/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Får geometry
 
 ```python
 
-if len(shape.Geometry.ShapeAdjustValues) == 0:
+if shape.geometry != null  and len(shape.geometry.shape_adjust_values) == 0:
     print("No geometry path.")
 
 ```
@@ -27,6 +27,6 @@ def geometry(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Geometry](/cells/python-net/sv/aspose.cells.drawing/geometry)
-* klass [RectangleShape](/cells/python-net/sv/aspose.cells.drawing/rectangleshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Geometry`](/cells/python-net/sv/aspose.cells.drawing/geometry)
+* klass [`RectangleShape`](/cells/python-net/sv/aspose.cells.drawing/rectangleshape)

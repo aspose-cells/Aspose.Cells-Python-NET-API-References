@@ -1,18 +1,18 @@
 ---
-title: classe ThreadedCommentCollection
+title: ThreadedCommentCollection classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1470
+weight: 1540
 url: /it/aspose.cells/threadedcommentcollection/
 is_root: false
 ---
-##  classe ThreadedCommentCollection
+##  ThreadedCommentCollection classe
 Rappresenta l'elenco dei commenti in thread.
 
 
 
-Il tipo ThreadedCommentCollection espone i membri seguenti:
+Il tipo ThreadedCommentCollection espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -23,17 +23,17 @@ Il tipo ThreadedCommentCollection espone i membri seguenti:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/it/aspose.cells/threadedcommentcollection/copy_to/#list) | Copia l'intero elenco di matrici in un elenco di matrici unidimensionale compatibile, a partire dall'inizio dell'elenco di matrici di destinazione.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/it/aspose.cells/threadedcommentcollection/copy_to/#int-list-int-int) |Copia un intervallo di elementi dall'elenco di matrici a un elenco di matrici unidimensionale compatibile, a partire dall'indice specificato dell'elenco di matrici di destinazione.|
-| [index_of(item, index)](/cells/python-net/it/aspose.cells/threadedcommentcollection/index_of/#ThreadedComment-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che si estende dall'indice specificato all'ultimo elemento.|
-| [index_of(item, index, count)](/cells/python-net/it/aspose.cells/threadedcommentcollection/index_of/#ThreadedComment-int-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che inizia dall'indice specificato e contiene il numero specificato di elementi.|
-| [last_index_of(item)](/cells/python-net/it/aspose.cells/threadedcommentcollection/last_index_of/#ThreadedComment) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intero elenco di matrici.|
-| [last_index_of(item, index)](/cells/python-net/it/aspose.cells/threadedcommentcollection/last_index_of/#ThreadedComment-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che si estende dal primo elemento all'indice specificato.|
-| [last_index_of(item, index, count)](/cells/python-net/it/aspose.cells/threadedcommentcollection/last_index_of/#ThreadedComment-int-int) |Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che contiene il numero specificato di elementi e termina con l'indice specificato.|
-| [add(text, author)](/cells/python-net/it/aspose.cells/threadedcommentcollection/add/#str-ThreadedCommentAuthor) | Aggiunge un commento in thread;|
-| [binary_search(item)](/cells/python-net/it/aspose.cells/threadedcommentcollection/binary_search/#ThreadedComment) | Cerca un elemento nell'intero elenco di matrici ordinate utilizzando l'operatore di confronto predefinito e restituisce l'indice in base zero dell'elemento.|
+| [copy_to](/cells/python-net/it/aspose.cells/threadedcommentcollection/copy_to/#list) | Copia l'intero elenco di matrici in un elenco di matrici unidimensionali compatibile, a partire dall'inizio dell'elenco di matrici di destinazione.|
+| [copy_to](/cells/python-net/it/aspose.cells/threadedcommentcollection/copy_to/#int-list-int-int) | Copia un intervallo di elementi dall'elenco di matrici a un elenco di matrici unidimensionali compatibile, a partire dall'indice specificato dell'elenco di matrici di destinazione.|
+| [index_of](/cells/python-net/it/aspose.cells/threadedcommentcollection/index_of/#aspose.cells.ThreadedComment-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che si estende dall'indice specificato all'ultimo elemento.|
+| [index_of](/cells/python-net/it/aspose.cells/threadedcommentcollection/index_of/#aspose.cells.ThreadedComment-int-int) |Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che inizia in corrispondenza dell'indice specificato e contiene il numero di elementi specificato.|
+| [last_index_of](/cells/python-net/it/aspose.cells/threadedcommentcollection/last_index_of/#aspose.cells.ThreadedComment) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intero elenco di matrici.|
+| [last_index_of](/cells/python-net/it/aspose.cells/threadedcommentcollection/last_index_of/#aspose.cells.ThreadedComment-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che si estende dal primo elemento all'indice specificato.|
+| [last_index_of](/cells/python-net/it/aspose.cells/threadedcommentcollection/last_index_of/#aspose.cells.ThreadedComment-int-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che contiene il numero di elementi specificato e termina con l'indice specificato.|
+| [add](/cells/python-net/it/aspose.cells/threadedcommentcollection/add/#str-aspose.cells.ThreadedCommentAuthor) | Aggiunge un commento in thread;|
+| [binary_search](/cells/python-net/it/aspose.cells/threadedcommentcollection/binary_search/#aspose.cells.ThreadedComment) | Cerca un elemento nell'intero elenco di array ordinato utilizzando l'operatore di confronto predefinito e restituisce l'indice in base zero dell'elemento.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

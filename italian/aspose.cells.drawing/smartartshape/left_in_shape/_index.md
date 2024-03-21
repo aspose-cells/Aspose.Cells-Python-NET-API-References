@@ -3,14 +3,14 @@ title: left_in_shape proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 680
+weight: 690
 url: /it/aspose.cells.drawing/smartartshape/left_in_shape/
 is_root: false
 ---
 ##  left_in_shape proprietà
 
- Rappresenta l'offset orizzontale della forma dal bordo sinistro della forma padre,
-in unità di 1/4000 di larghezza della forma padre.
+ Rappresenta l'offset orizzontale della forma dal bordo sinistro della forma genitore,
+in unità di 1/4000 della larghezza della forma principale.
 
 ###  Osservazioni
 
@@ -20,8 +20,8 @@ Si applica solo quando questa forma è nel gruppo o nel grafico.
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.left_in_shape == 2000:
+    shape.left_in_shape = 4000
 
 ```
 ###  Definizione:
@@ -35,5 +35,5 @@ def left_in_shape(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [SmartArtShape](/cells/python-net/it/aspose.cells.drawing/smartartshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`SmartArtShape`](/cells/python-net/it/aspose.cells.drawing/smartartshape)

@@ -1,14 +1,14 @@
 ---
 title: remove_hyperlink метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 170
+weight: 190
 url: /ru/aspose.cells.drawing/listbox/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink() {#}
-Удалите гиперссылку формы.
+##  remove_hyperlink {#}
+Удалите гиперссылку фигуры.
 
 
 
@@ -30,5 +30,5 @@ shape.remove_hyperlink()
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ListBox](/cells/python-net/ru/aspose.cells.drawing/listbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ListBox`](/cells/python-net/ru/aspose.cells.drawing/listbox)

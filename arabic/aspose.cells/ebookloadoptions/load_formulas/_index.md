@@ -1,0 +1,25 @@
+---
+title: load_formulas عقار
+second_title: Aspose.Cells for Python via .NET API المراجع
+description:
+type: docs
+weight: 270
+url: /ar/aspose.cells/ebookloadoptions/load_formulas/
+is_root: false
+---
+##  load_formulas عقار
+
+يشير إلى ما إذا كان سيتم استيراد الصيغ إذا كان ملف html الأصلي يحتوي على صيغ
+###  تعريف:
+```python
+@property
+def load_formulas(self):
+    ...
+@load_formulas.setter
+def load_formulas(self, value):
+    ...
+```
+
+###  أنظر أيضا
+* الوحدة [`aspose.cells`](../../)
+* فئة [`EbookLoadOptions`](/cells/python-net/ar/aspose.cells/ebookloadoptions)

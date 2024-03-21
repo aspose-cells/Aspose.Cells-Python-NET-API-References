@@ -1,15 +1,15 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 800
+weight: 810
 url: /ru/aspose.cells.drawing/customxmlshape/name/
 is_root: false
 ---
 ##  name недвижимость
 
-Получает и задает name фигуры.
+Получает и устанавливает name фигуры.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CustomXmlShape](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CustomXmlShape`](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)

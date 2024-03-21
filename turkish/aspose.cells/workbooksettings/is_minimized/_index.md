@@ -3,7 +3,7 @@ title: is_minimized mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 260
 url: /tr/aspose.cells/workbooksettings/is_minimized/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_minimized(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

@@ -3,7 +3,7 @@ title: is_rich_text proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 630
+weight: 640
 url: /it/aspose.cells.drawing/combobox/is_rich_text/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def is_rich_text(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ComboBox](/cells/python-net/it/aspose.cells.drawing/combobox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ComboBox`](/cells/python-net/it/aspose.cells.drawing/combobox)

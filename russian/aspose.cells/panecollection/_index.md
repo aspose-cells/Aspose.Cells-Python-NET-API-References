@@ -1,9 +1,9 @@
 ---
 title: PaneCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1160
+weight: 1200
 url: /ru/aspose.cells/panecollection/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип PaneCollection предоставляет следующие члены:
+Тип PaneCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

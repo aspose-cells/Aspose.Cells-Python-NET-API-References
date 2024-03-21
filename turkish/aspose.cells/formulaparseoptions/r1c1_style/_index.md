@@ -3,7 +3,7 @@ title: r1c1_style mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 70
 url: /tr/aspose.cells/formulaparseoptions/r1c1_style/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def r1c1_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormulaParseOptions](/cells/python-net/tr/aspose.cells/formulaparseoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormulaParseOptions`](/cells/python-net/tr/aspose.cells/formulaparseoptions)

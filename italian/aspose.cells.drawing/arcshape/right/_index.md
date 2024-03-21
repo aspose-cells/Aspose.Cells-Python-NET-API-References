@@ -3,7 +3,7 @@ title: right proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 910
+weight: 920
 url: /it/aspose.cells.drawing/arcshape/right/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def right(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/it/aspose.cells.drawing/arcshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/it/aspose.cells.drawing/arcshape)

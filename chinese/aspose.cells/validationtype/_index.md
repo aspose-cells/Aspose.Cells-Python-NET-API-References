@@ -1,18 +1,18 @@
 ---
 title: ValidationType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2640
+weight: 2730
 url: /zh/aspose.cells/validationtype/
 is_root: false
 ---
 ## ValidationType枚举
-表示数据验证类型。
+代表数据验证类型。
 
 
 
-ValidationType 类型公开了以下成员：
+ValidationType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -29,4 +29,4 @@ ValidationType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

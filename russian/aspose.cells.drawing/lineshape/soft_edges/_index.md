@@ -1,9 +1,9 @@
 ---
 title: soft_edges недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 940
+weight: 950
 url: /ru/aspose.cells.drawing/lineshape/soft_edges/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def soft_edges(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineShape](/cells/python-net/ru/aspose.cells.drawing/lineshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineShape`](/cells/python-net/ru/aspose.cells.drawing/lineshape)

@@ -3,14 +3,14 @@ title: page_change proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 840
+weight: 850
 url: /it/aspose.cells.drawing/listbox/page_change/
 is_root: false
 ---
 ##  page_change proprietà
 
- Specifica la quantità di cui viene modificato il valore del controllo
-quando l'utente fa clic sulla regione pagina su o pagina giù della barra di scorrimento.
+ Specifica l'importo in base al quale viene modificato il valore del controllo
+quando l'utente fa clic sull'area pagina su o pagina giù della barra di scorrimento.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def page_change(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ListBox](/cells/python-net/it/aspose.cells.drawing/listbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ListBox`](/cells/python-net/it/aspose.cells.drawing/listbox)

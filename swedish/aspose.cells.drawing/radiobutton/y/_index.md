@@ -3,7 +3,7 @@ title: y fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1260
+weight: 1280
 url: /sv/aspose.cells.drawing/radiobutton/y/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RadioButton](/cells/python-net/sv/aspose.cells.drawing/radiobutton)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RadioButton`](/cells/python-net/sv/aspose.cells.drawing/radiobutton)

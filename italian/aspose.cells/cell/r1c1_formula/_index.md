@@ -3,13 +3,13 @@ title: r1c1_formula proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 650
+weight: 680
 url: /it/aspose.cells/cell/r1c1_formula/
 is_root: false
 ---
 ##  r1c1_formula proprietà
 
-Ottiene o imposta una formula R1C1 di [Cell](/cells/python-net/it/aspose.cells/cell).
+Ottiene o imposta una formula R1C1 di [`Cell`](/cells/python-net/it/aspose.cells/cell).
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def r1c1_formula(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

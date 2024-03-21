@@ -3,17 +3,17 @@ title: tick_label_items Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 170
 url: /de/aspose.cells.charts/ticklabels/tick_label_items/
 is_root: false
 ---
 ##  tick_label_items Eigentum
 
-Ruft die Artikelinformationen von TickLabel ab.
+Ruft die Achseninformationen jedes Teilstrichbeschriftungselements ab.
 
 ###  Bemerkungen
 
-Existiert nur nach Aufruf der Methode [Chart.calculate()](/cells/python-net/de/aspose.cells.charts/chart/calculate).
+Nur verfügbar nach Aufruf der Methode [`Chart.calculate`](/cells/python-net/de/aspose.cells.charts/chart/calculate).
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def tick_label_items(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [TickLabels](/cells/python-net/de/aspose.cells.charts/ticklabels)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`TickLabels`](/cells/python-net/de/aspose.cells.charts/ticklabels)

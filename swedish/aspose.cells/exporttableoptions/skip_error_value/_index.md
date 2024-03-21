@@ -3,7 +3,7 @@ title: skip_error_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 160
 url: /sv/aspose.cells/exporttableoptions/skip_error_value/
 is_root: false
 ---
@@ -24,5 +24,5 @@ def skip_error_value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExportTableOptions](/cells/python-net/sv/aspose.cells/exporttableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ExportTableOptions`](/cells/python-net/sv/aspose.cells/exporttableoptions)

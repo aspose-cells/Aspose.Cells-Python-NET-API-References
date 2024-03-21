@@ -3,7 +3,7 @@ title: drag_to_column Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 250
+weight: 280
 url: /de/aspose.cells.pivot/pivotfield/drag_to_column/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def drag_to_column(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotField](/cells/python-net/de/aspose.cells.pivot/pivotfield)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotField`](/cells/python-net/de/aspose.cells.pivot/pivotfield)

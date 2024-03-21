@@ -1,26 +1,26 @@
 ---
-title: العد AutoFitWrappedTextType
+title: AutoFitWrappedTextType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1770
+weight: 1840
 url: /ar/aspose.cells/autofitwrappedtexttype/
 is_root: false
 ---
-##  العد AutoFitWrappedTextType
-يمثل نوع النص المغلف المناسب تلقائيًا.
+##  AutoFitWrappedTextType التعداد
+يمثل نوع النص الملتف المناسب تلقائيًا.
 
 
 
-يكشف نوع AutoFitWrappedTextType الأعضاء التالية:
+يكشف النوع AutoFitWrappedTextType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DEFAULT | يعمل مثل MS Excel.|
+| DEFAULT | يعمل كبرنامج MS Excel.|
 | PARAGRAPH | عرض الاحتواء التلقائي مع أطول فقرة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

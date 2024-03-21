@@ -1,61 +1,63 @@
 ---
-title: العد SaveFormat
+title: SaveFormat التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2450
+weight: 2540
 url: /ar/aspose.cells/saveformat/
 is_root: false
 ---
-##  العد SaveFormat
-يمثل التنسيق الذي تم حفظ المصنف به.
+##  SaveFormat التعداد
+يمثل التنسيق الذي يتم حفظ المصنف به.
 
 
 
-يكشف نوع SaveFormat الأعضاء التالية:
+يكشف النوع SaveFormat عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| CSV |ملف نصي لقيم مفصولة بفواصل (CSV).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [SaveFormat.CSV](/cells/python-net/ar/aspose.cells/saveformat#CSV).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| XLSX | يمثل ملف xlsx.|
+| CSV | القيم المفصولة بفواصل (CSV) ملف نصي.<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`SaveFormat.CSV`](/cells/python-net/ar/aspose.cells/saveformat#CSV).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
+| XLSX | يمثل ملف XLSX.|
 | XLSM | يمثل ملف xlsm الذي يمكّن وحدات الماكرو.|
 | XLTX | يمثل ملف xltx.|
 | XLTM | يمثل ملف xltm الذي يمكّن وحدات الماكرو.|
 | XLAM | يمثل ملف xltm الذي يمكّن وحدات الماكرو الإضافية.|
-| TSV | ملف نصي لقيم مفصولة بعلامات جدولة (TSV).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [SaveFormat.TSV](/cells/python-net/ar/aspose.cells/saveformat#TSV).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| TAB_DELIMITED | يمثل ملفًا نصيًا محددًا بعلامات جدولة ، كما هو الحال مع [SaveFormat.TSV](/cells/python-net/ar/aspose.cells/saveformat#TSV).|
-| HTML | يمثل ملف html.|
-| M_HTML | يمثل ملف mhtml.|
-| ODS | افتح ملف Document Sheet (ODS).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [SaveFormat.ODS](/cells/python-net/ar/aspose.cells/saveformat#ODS).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| EXCEL_97_TO_2003 | يمثل ملف Excel97-2003 xls.|
+| TSV | القيم المفصولة بعلامات جدولة (TSV) ملف نصي.<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`SaveFormat.TSV`](/cells/python-net/ar/aspose.cells/saveformat#TSV).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
+| TAB_DELIMITED | يمثل ملفًا نصيًا محددًا بعلامات جدولة، كما هو الحال مع [`SaveFormat.TSV`](/cells/python-net/ar/aspose.cells/saveformat#TSV).|
+| HTML | يمثل ملف HTML.|
+| M_HTML | يمثل ملف MHTML.|
+| ODS | افتح ملف ورقة المستندات (ODS).<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`SaveFormat.ODS`](/cells/python-net/ar/aspose.cells/saveformat#ODS).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
+| EXCEL_97_TO_2003 | يمثل ملف Excel97-2003 XLS.|
 | SPREADSHEET_ML | يمثل ملف Excel 2003 xml.|
 | XLSB | يمثل ملف xlsb.|
-| AUTO | في حالة حفظ الملف على القرص ، يتوافق تنسيق الملف مع امتداد اسم الملف.<br/> في حالة حفظ الملف في الدفق ، يكون تنسيق الملف هو xlsx.|
-| UNKNOWN | يمثل تنسيقًا غير معروف ، لا يمكن حفظه.|
+| AUTO | في حالة حفظ الملف على القرص، يتوافق تنسيق الملف مع امتداد اسم الملف.<br/>في حالة حفظ الملف في الدفق، يكون تنسيق الملف هو xlsx.|
+| UNKNOWN | يمثل تنسيقًا غير معروف، ولا يمكن حفظه.|
 | PDF | يمثل ملف PDF.|
-| XPS |XPS (مواصفات ورق XML).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [SaveFormat.XPS](/cells/python-net/ar/aspose.cells/saveformat#XPS).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| TIFF | يمثل ملف TIFF.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [SaveFormat.TIFF](/cells/python-net/ar/aspose.cells/saveformat#TIFF).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| SVG | SVG ملف.<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [SaveFormat.SVG](/cells/python-net/ar/aspose.cells/saveformat#SVG).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
+| XPS | تنسيق XPS (مواصفات ورق XML).<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`SaveFormat.XPS`](/cells/python-net/ar/aspose.cells/saveformat#XPS).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
+| TIFF | يمثل ملف TIFF.<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`SaveFormat.TIFF`](/cells/python-net/ar/aspose.cells/saveformat#TIFF).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
+| SVG | SVG الملف.<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`SaveFormat.SVG`](/cells/python-net/ar/aspose.cells/saveformat#SVG).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
 | DIF | تنسيق تبادل البيانات.|
 | OTS | افتح ملف ورقة قالب المستند (OTS).|
-| XLT | ملف قالب Excel 97-2003.|
-| XML | يمثل ملف xml بسيط.|
+| XLT | ملف قالب اكسل 97-2003.|
+| XML | يمثل ملف XML بسيط.|
 | NUMBERS | يمثل ملف أرقام.|
 | MARKDOWN | يمثل وثيقة تخفيض السعر.|
-| FODS | يمثل تنسيق ملف OpenDocument Flat XML Spreadsheet (.fods).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [SaveFormat.FODS](/cells/python-net/ar/aspose.cells/saveformat#FODS).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| SXC | يمثل تنسيق ملف StarOffice Calc Spreadsheet (.sxc).<br/> ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،<br/>الرجاء استخدام خاصية [SaveFormat.SXC](/cells/python-net/ar/aspose.cells/saveformat#SXC).<br/> ستتم إزالة هذا العقار بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون سببه لك.|
-| PPTX | يمثل ملف pptx.|
-| DOCX |يمثل ملف docx.|
-| EMF | Windows ملف تعريف محسن.|
+| FODS | يمثل تنسيق ملف OpenDocument Flat XML Spreadsheet (.fods).<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`SaveFormat.FODS`](/cells/python-net/ar/aspose.cells/saveformat#FODS).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
+| SXC | يمثل تنسيق ملف StarOffice Calc Spreadsheet (.sxc).<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`SaveFormat.SXC`](/cells/python-net/ar/aspose.cells/saveformat#SXC).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
+| PPTX | يمثل ملف .pptx.|
+| DOCX | يمثل ملف .docx.|
+| EMF | Windows ملف التعريف المحسن.|
 | JPG | JPEG جفيف.|
 | PNG | رسومات الشبكة المحمولة.|
-| BMP | Windows صورة نقطية|
+| BMP | Windows الصورة النقطية|
 | GIF | GIF|
 | JSON | جسون|
-| SQL_SCRIPT | أس كيو إل|
+| SQL_SCRIPT | مزود|
+| X_HTML | ممثلو ملف XHtml.|
+| EPUB | يمثل ملف Epub.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

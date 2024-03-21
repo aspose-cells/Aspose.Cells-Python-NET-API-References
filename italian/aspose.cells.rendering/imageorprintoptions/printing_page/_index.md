@@ -3,7 +3,7 @@ title: printing_page proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 260
+weight: 270
 url: /it/aspose.cells.rendering/imageorprintoptions/printing_page/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def printing_page(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [ImageOrPrintOptions](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)
-* classe [PrintingPageType](/cells/python-net/it/aspose.cells/printingpagetype)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`ImageOrPrintOptions`](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)
+* classe [`PrintingPageType`](/cells/python-net/it/aspose.cells/printingpagetype)

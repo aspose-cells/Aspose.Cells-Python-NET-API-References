@@ -1,13 +1,13 @@
 ---
-title: protect méthode
+title: méthode protect
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 180
+weight: 200
 url: /fr/aspose.cells/worksheet/protect/
 is_root: false
 ---
-##  protect(type) {#ProtectionType}
+##  protect {#aspose.cells.ProtectionType}
 Protège la feuille de calcul.
 
 
@@ -20,12 +20,12 @@ def protect(self, type):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| type | [ProtectionType](/cells/python-net/fr/aspose.cells/protectiontype) | Type de protection.|
+| type | [`ProtectionType`](/cells/python-net/fr/aspose.cells/protectiontype) | Type de protection.|
 ###  Remarques
 
 Cette méthode protège la feuille de calcul sans mot de passe. Il peut protect feuille de calcul dans toutes les versions du fichier Excel.
 
-##  protect(type, password, old_password) {#ProtectionType-str-str}
+##  protect {#aspose.cells.ProtectionType-str-str}
 
 Protège la feuille de calcul.
 
@@ -39,12 +39,12 @@ def protect(self, type, password, old_password):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| type | [ProtectionType](/cells/python-net/fr/aspose.cells/protectiontype) | Type de protection.|
+| type | [`ProtectionType`](/cells/python-net/fr/aspose.cells/protectiontype) | Type de protection.|
 | password | str | Mot de passe.|
 | old_password | str | Si la feuille de calcul est déjà protégée par un mot de passe, veuillez fournir l'ancien mot de passe.<br/> Sinon, vous pouvez définir une valeur nulle ou une chaîne vide pour ce paramètre.|
 ###  Remarques
 
-Cette méthode peut protect feuille de calcul dans toutes les versions du fichier Excel.
+Cette méthode peut générer une feuille de calcul protect dans toutes les versions du fichier Excel.
 ###  Exemple
 
 
@@ -65,5 +65,5 @@ excel.save("output.xls")
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

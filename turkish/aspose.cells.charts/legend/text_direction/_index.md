@@ -3,7 +3,7 @@ title: text_direction mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 350
+weight: 360
 url: /tr/aspose.cells.charts/legend/text_direction/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Metin okuma sırasını temsil eder.
  NOT: Bu üye artık kullanılmıyor. Yerine,
  lütfen ChartTextFrame.ReadingOrder özelliğini kullanın.
  Bu mülk, Mart 2020'den itibaren 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -28,6 +28,6 @@ def text_direction(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Legend](/cells/python-net/tr/aspose.cells.charts/legend)
-* sınıf [TextDirectionType](/cells/python-net/tr/aspose.cells/textdirectiontype)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Legend`](/cells/python-net/tr/aspose.cells.charts/legend)
+* sınıf [`TextDirectionType`](/cells/python-net/tr/aspose.cells/textdirectiontype)

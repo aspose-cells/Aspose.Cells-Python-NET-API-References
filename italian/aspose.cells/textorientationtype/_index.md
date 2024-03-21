@@ -1,18 +1,18 @@
 ---
-title: TextOrientationType enumerazione
+title: Enumerazione TextOrientationType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2560
+weight: 2650
 url: /it/aspose.cells/textorientationtype/
 is_root: false
 ---
-##  TextOrientationType enumerazione
+##  Enumerazione TextOrientationType
 Enumera i tipi di orientamento del testo.
 
 
 
-Il tipo TextOrientationType espone i membri seguenti:
+Il tipo TextOrientationType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -25,4 +25,4 @@ Il tipo TextOrientationType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

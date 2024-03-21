@@ -3,11 +3,11 @@ title: unhide_row yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 990
+weight: 980
 url: /tr/aspose.cells/cells/unhide_row/
 is_root: false
 ---
-##  unhide_row(row, height) {#int-float}
+##  unhide_row {#int-float}
 Bir satırı gösterir.
 
 
@@ -21,10 +21,10 @@ def unhide_row(self, row, height):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | row | int | Satır dizini.|
-| height | float | Satır yüksekliği. Satırın yüksekliği yalnızca satır gizlendiğinde ve verilen yükseklik değeri pozitif olduğunda değiştirilecektir.|
+| height | float | Satır yüksekliği. Satırın yüksekliği yalnızca satır gizlendiğinde ve verilen yükseklik değeri pozitif olduğunda değişecektir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

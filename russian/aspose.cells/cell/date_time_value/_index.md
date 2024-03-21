@@ -1,9 +1,9 @@
 ---
 title: date_time_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 420
+weight: 440
 url: /ru/aspose.cells/cell/date_time_value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def date_time_value(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

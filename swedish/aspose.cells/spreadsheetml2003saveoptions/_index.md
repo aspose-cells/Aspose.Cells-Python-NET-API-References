@@ -3,7 +3,7 @@ title: SpreadsheetML2003SaveOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1370
+weight: 1440
 url: /sv/aspose.cells/spreadsheetml2003saveoptions/
 is_root: false
 ---
@@ -12,8 +12,8 @@ Representerar alternativen för att spara Excel 2003 spreadml-fil.
 
 
 
-**Arv:** [SpreadsheetML2003SaveOptions](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions) → 
-[SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
+**Arv:** [`SpreadsheetML2003SaveOptions`](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions) → 
+[`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)
 
 
 
@@ -22,8 +22,8 @@ Typen SpreadsheetML2003SaveOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [SpreadsheetML2003SaveOptions()](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/__init__/#) | Skapar alternativen för att spara Excel 2003 spreadml-fil.|
-| [SpreadsheetML2003SaveOptions(save_format)](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/__init__/#SaveFormat) | Skapar alternativen för att spara Excel 2003 spreadml-fil.|
+| [__init__](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/__init__/#) | Skapar alternativen för att spara Excel 2003 spreadml-fil.|
+| [__init__](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/__init__/#aspose.cells.SaveFormat) | Skapar alternativen för att spara Excel 2003 spreadml-fil.|
 
 
 ###  Egenskaper
@@ -36,17 +36,17 @@ Typen SpreadsheetML2003SaveOptions avslöjar följande medlemmar:
 | [merge_areas](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/merge_areas) | Anger om områdena för villkorlig formatering och validering ska slås samman innan filen sparas.|
 | [create_directory](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/create_directory) | Om sant och katalogen inte finns skapas katalogen automatiskt innan filen sparas.|
 | [sort_names](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/sort_names) | Anger om du sorterar definierade namn innan filen sparas.|
-| [sort_external_names](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/sort_external_names) |Anger om externt definierade namn sorteras innan filen sparas.|
+| [sort_external_names](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/sort_external_names) | Anger om externt definierade namn sorteras innan filen sparas.|
 | [refresh_chart_cache](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/refresh_chart_cache) | Anger om diagramcachedata uppdateras|
 | [warning_callback](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/warning_callback) | Får eller ställer in varningsåteruppringning.|
 | [update_smart_art](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/update_smart_art) | Indikerar om inställningen för smart konst uppdateras.<br/> Standardvärdet är falskt.|
 | [is_indented_formatting](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/is_indented_formatting) | Gör att underordnade element dras in.|
 | [limit_as_xls](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/limit_as_xls) | Begränsa som xls, max radindex är 65535 och max kolumnindex är 255.|
-| [export_column_index_of_cell](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/export_column_index_of_cell) |Standardvärdet är false, det betyder att kolumnindex kommer att ignoreras om cellen gränsar till föregående cell.|
+| [export_column_index_of_cell](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions/export_column_index_of_cell) | Standardvärdet är false, det betyder att kolumnindex kommer att ignoreras om cellen gränsar till föregående cell.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [SaveOptions](/cells/python-net/sv/aspose.cells/saveoptions)
-* klass [SpreadsheetML2003SaveOptions](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions)
+* modul [`aspose.cells`](..)
+* klass [`SaveOptions`](/cells/python-net/sv/aspose.cells/saveoptions)
+* klass [`SpreadsheetML2003SaveOptions`](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions)

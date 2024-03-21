@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  annotations_permission proprietà
 
-Autorizzazione a commentare il documento.
+Indica se consentire di aggiungere o modificare annotazioni di testo, compilare campi del modulo interattivo.
+
+###  Osservazioni
+
+se è impostato anche [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission), creare o modificare i campi del modulo interattivo (compresi i campi firma).
 ###  Definizione:
 ```python
 @property
@@ -21,5 +25,5 @@ def annotations_permission(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering.pdfsecurity](../../)
-* classe [PdfSecurityOptions](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modulo [`aspose.cells.rendering.pdfsecurity`](../../)
+* classe [`PdfSecurityOptions`](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

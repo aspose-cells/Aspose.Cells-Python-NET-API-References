@@ -3,7 +3,7 @@ title: is_text_wrapped Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 670
+weight: 680
 url: /de/aspose.cells.drawing/spinner/is_text_wrapped/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Ruft den Textumbruchtyp der Form ab, die Text enthält, und legt diesen fest.
 ```python
 
 if shape.is_text_wrapped:
-    shape.is_text_wrapped = !shape.is_text_wrapped
+    shape.is_text_wrapped = notshape.is_text_wrapped
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def is_text_wrapped(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Spinner](/cells/python-net/de/aspose.cells.drawing/spinner)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Spinner`](/cells/python-net/de/aspose.cells.drawing/spinner)

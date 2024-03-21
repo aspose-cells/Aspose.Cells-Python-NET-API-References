@@ -3,13 +3,13 @@ title: is_auto_tick_label_spacing proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 170
+weight: 180
 url: /it/aspose.cells.charts/axis/is_auto_tick_label_spacing/
 is_root: false
 ---
 ##  is_auto_tick_label_spacing proprietà
 
-Indica se la spaziatura dell'etichetta di spunta è automatica
+Indica se la spaziatura dell'etichetta tick è automatica
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_tick_label_spacing(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/it/aspose.cells.charts/axis)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/it/aspose.cells.charts/axis)

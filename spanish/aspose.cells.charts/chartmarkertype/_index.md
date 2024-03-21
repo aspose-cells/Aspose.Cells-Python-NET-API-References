@@ -3,12 +3,12 @@ title: ChartMarkerType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 420
+weight: 430
 url: /es/aspose.cells.charts/chartmarkertype/
 is_root: false
 ---
 ##  ChartMarkerType enumeración
-Representa el estilo de marcador en un gráfico de líneas, un gráfico de dispersión o un gráfico radial.
+Representa el estilo del marcador en un gráfico de líneas, un gráfico de dispersión o un gráfico de radar.
 
 
 
@@ -25,7 +25,7 @@ El tipo ChartMarkerType expone los siguientes miembros:
 | NONE | Sin marcadores.|
 | SQUARE_PLUS | Marcadores cuadrados con un signo más.|
 | SQUARE | Marcadores cuadrados.|
-| SQUARE_STAR | Marcadores cuadrados con asterisco.|
+| SQUARE_STAR | Marcadores cuadrados con un asterisco.|
 | TRIANGLE | Marcadores triangulares.|
 | SQUARE_X | Marcadores cuadrados con una X.|
 | PICTURE | Imagen|
@@ -33,4 +33,4 @@ El tipo ChartMarkerType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

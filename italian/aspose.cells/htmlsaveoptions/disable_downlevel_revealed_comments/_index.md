@@ -3,7 +3,7 @@ title: disable_downlevel_revealed_comments proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 110
+weight: 130
 url: /it/aspose.cells/htmlsaveoptions/disable_downlevel_revealed_comments/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def disable_downlevel_revealed_comments(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/it/aspose.cells/htmlsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/it/aspose.cells/htmlsaveoptions)

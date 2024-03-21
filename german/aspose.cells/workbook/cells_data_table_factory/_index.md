@@ -3,7 +3,7 @@ title: cells_data_table_factory Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 450
+weight: 460
 url: /de/aspose.cells/workbook/cells_data_table_factory/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def cells_data_table_factory(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellsDataTableFactory](/cells/python-net/de/aspose.cells/cellsdatatablefactory)
-* Klasse [Workbook](/cells/python-net/de/aspose.cells/workbook)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellsDataTableFactory`](/cells/python-net/de/aspose.cells/cellsdatatablefactory)
+* Klasse [`Workbook`](/cells/python-net/de/aspose.cells/workbook)

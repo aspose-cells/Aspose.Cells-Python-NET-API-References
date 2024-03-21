@@ -1,22 +1,22 @@
 ---
-title: rotation_angle الملكية
+title: rotation_angle عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 860
+weight: 870
 url: /ar/aspose.cells.drawing/shape/rotation_angle/
 is_root: false
 ---
-##  rotation_angle الملكية
+##  rotation_angle عقار
 
-يحصل على دوران الشكل ويضبطه.
+الحصول على دوران الشكل وتعيينه.
 
 ###  مثال
 
 ```python
 
 if shape.rotation_angle == 45:
-    shape.rotation_angle = 60
+    shape.rotation_angle = 60.0
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def rotation_angle(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Shape](/cells/python-net/ar/aspose.cells.drawing/shape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape)

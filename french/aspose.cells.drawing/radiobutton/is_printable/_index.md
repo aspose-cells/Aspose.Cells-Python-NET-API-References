@@ -3,7 +3,7 @@ title: is_printable propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 630
+weight: 650
 url: /fr/aspose.cells.drawing/radiobutton/is_printable/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)

@@ -3,13 +3,13 @@ title: text_horizontal_alignment propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 190
+weight: 200
 url: /fr/aspose.cells/comment/text_horizontal_alignment/
 is_root: false
 ---
 ##  text_horizontal_alignment propriété
 
-Obtient et définit le type d'alignement horizontal du texte du commentaire.
+Obtient et définit le type d’alignement horizontal du texte du commentaire.
 
 ###  Exemple
 
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Comment](/cells/python-net/fr/aspose.cells/comment)
-* classe [TextAlignmentType](/cells/python-net/fr/aspose.cells/textalignmenttype)
+* module [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/fr/aspose.cells/comment)
+* classe [`TextAlignmentType`](/cells/python-net/fr/aspose.cells/textalignmenttype)

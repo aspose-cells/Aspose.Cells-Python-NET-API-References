@@ -1,20 +1,20 @@
 ---
 title: cross_at недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ru/aspose.cells.charts/axis/cross_at/
 is_root: false
 ---
 ##  cross_at недвижимость
 
-Представляет точку на оси значений, где ее пересекает ось категорий.
+Представляет точку на оси значений, в которой ее пересекает ось категорий.
 
 ###  Примечания
 
-Число должно быть целым числом, когда оно применяется к оси категорий.
-И значение должно быть между 1 и 31999.
+Число должно быть целым числом, если оно применяется к оси категорий.
+Значение должно находиться в диапазоне от 1 до 31999.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def cross_at(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)

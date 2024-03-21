@@ -3,7 +3,7 @@ title: error_message propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 170
 url: /es/aspose.cells/validation/error_message/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def error_message(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Validation](/cells/python-net/es/aspose.cells/validation)
+* módulo [`aspose.cells`](../../)
+* clase [`Validation`](/cells/python-net/es/aspose.cells/validation)

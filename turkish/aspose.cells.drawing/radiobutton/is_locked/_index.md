@@ -3,7 +3,7 @@ title: is_locked mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 620
+weight: 640
 url: /tr/aspose.cells.drawing/radiobutton/is_locked/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_locked(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RadioButton](/cells/python-net/tr/aspose.cells.drawing/radiobutton)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RadioButton`](/cells/python-net/tr/aspose.cells.drawing/radiobutton)

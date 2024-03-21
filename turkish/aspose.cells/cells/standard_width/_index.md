@@ -3,7 +3,7 @@ title: standard_width mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1280
+weight: 1270
 url: /tr/aspose.cells/cells/standard_width/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def standard_width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

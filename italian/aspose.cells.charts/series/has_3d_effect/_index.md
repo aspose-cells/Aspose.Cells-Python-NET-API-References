@@ -3,7 +3,7 @@ title: has_3d_effect proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 190
+weight: 180
 url: /it/aspose.cells.charts/series/has_3d_effect/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def has_3d_effect(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

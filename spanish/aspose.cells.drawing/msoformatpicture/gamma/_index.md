@@ -3,7 +3,7 @@ title: gamma propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 60
+weight: 70
 url: /es/aspose.cells.drawing/msoformatpicture/gamma/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def gamma(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoFormatPicture](/cells/python-net/es/aspose.cells.drawing/msoformatpicture)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoFormatPicture`](/cells/python-net/es/aspose.cells.drawing/msoformatpicture)

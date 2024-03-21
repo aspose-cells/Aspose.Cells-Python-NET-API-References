@@ -3,7 +3,7 @@ title: spid fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 890
+weight: 900
 url: /sv/aspose.cells.drawing/shape/spid/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Shape](/cells/python-net/sv/aspose.cells.drawing/shape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Shape`](/cells/python-net/sv/aspose.cells.drawing/shape)

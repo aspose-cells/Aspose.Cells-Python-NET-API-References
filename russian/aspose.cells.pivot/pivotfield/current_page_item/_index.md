@@ -1,9 +1,9 @@
 ---
 title: current_page_item недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 220
+weight: 250
 url: /ru/aspose.cells.pivot/pivotfield/current_page_item/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def current_page_item(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotField](/cells/python-net/ru/aspose.cells.pivot/pivotfield)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotField`](/cells/python-net/ru/aspose.cells.pivot/pivotfield)

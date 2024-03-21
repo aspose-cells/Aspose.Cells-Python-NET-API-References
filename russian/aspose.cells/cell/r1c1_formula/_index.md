@@ -1,15 +1,15 @@
 ---
 title: r1c1_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 650
+weight: 680
 url: /ru/aspose.cells/cell/r1c1_formula/
 is_root: false
 ---
 ##  r1c1_formula недвижимость
 
-Получает или задает формулу R1C1 для [Cell](/cells/python-net/ru/aspose.cells/cell).
+Получает или задает формулу R1C1 для номера [`Cell`](/cells/python-net/ru/aspose.cells/cell).
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def r1c1_formula(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

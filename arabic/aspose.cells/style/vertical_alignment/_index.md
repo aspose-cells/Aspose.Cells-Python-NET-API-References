@@ -1,15 +1,15 @@
 ---
-title: vertical_alignment الملكية
+title: vertical_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 480
 url: /ar/aspose.cells/style/vertical_alignment/
 is_root: false
 ---
-##  vertical_alignment الملكية
+##  vertical_alignment عقار
 
-الحصول على نوع المحاذاة الرأسية للنص في خلية أو تعيينه.
+الحصول على نوع المحاذاة العمودية للنص في الخلية أو تعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def vertical_alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
-* فئة [TextAlignmentType](/cells/python-net/ar/aspose.cells/textalignmenttype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)
+* فئة [`TextAlignmentType`](/cells/python-net/ar/aspose.cells/textalignmenttype)

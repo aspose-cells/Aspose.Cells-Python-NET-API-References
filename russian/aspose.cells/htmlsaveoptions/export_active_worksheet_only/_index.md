@@ -1,15 +1,18 @@
 ---
 title: export_active_worksheet_only недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 140
+weight: 160
 url: /ru/aspose.cells/htmlsaveoptions/export_active_worksheet_only/
 is_root: false
 ---
 ##  export_active_worksheet_only недвижимость
 
-Указывает, экспортируется ли вся книга в html-файл.
+Указывает, экспортируется ли только активный лист в файл html.
+Если это правда, то только активный лист будет экспортирован в html-файл;
+Если установлено значение false, вся книга будет экспортирована в файл html.
+Значение по умолчанию неверно.
 ###  Определение:
 ```python
 @property
@@ -21,5 +24,5 @@ def export_active_worksheet_only(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)

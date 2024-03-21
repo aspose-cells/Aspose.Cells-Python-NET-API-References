@@ -3,13 +3,13 @@ title: alternative_text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 260
+weight: 290
 url: /fr/aspose.cells.drawing/radiobutton/alternative_text/
 is_root: false
 ---
 ##  alternative_text propriété
 
-Renvoie ou définit la chaîne de texte descriptive (alternative) de l'objet [Shape](/cells/python-net/fr/aspose.cells.drawing/shape).
+Renvoie ou définit la chaîne de texte descriptive (alternative) de l'objet [`Shape`](/cells/python-net/fr/aspose.cells.drawing/shape).
 
 ###  Exemple
 
@@ -29,6 +29,6 @@ def alternative_text(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
-* classe [Shape](/cells/python-net/fr/aspose.cells.drawing/shape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* classe [`Shape`](/cells/python-net/fr/aspose.cells.drawing/shape)

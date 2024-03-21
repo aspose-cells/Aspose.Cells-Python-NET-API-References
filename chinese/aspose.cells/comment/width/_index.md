@@ -1,15 +1,15 @@
 ---
-title: width 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: width属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 240
 url: /zh/aspose.cells/comment/width/
 is_root: false
 ---
-## width 属性
+## width属性
 
-表示评论的width，单位为像素。
+代表评论的width，以像素为单位。
 
 ### 例子
 
@@ -29,5 +29,5 @@ def width(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)

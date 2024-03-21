@@ -1,28 +1,28 @@
 ---
-title: العد ChartLineFormattingType
+title: ChartLineFormattingType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 420
 url: /ar/aspose.cells.charts/chartlineformattingtype/
 is_root: false
 ---
-##  العد ChartLineFormattingType
+##  ChartLineFormattingType التعداد
 يمثل نوع تنسيق الخط لخط الرسم البياني.
 
 
 
-يكشف نوع ChartLineFormattingType الأعضاء التالية:
+يكشف النوع ChartLineFormattingType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | AUTOMATIC | يمثل نوع التنسيق التلقائي.|
-| SOLID | يمثل نوع تنسيق خالص.|
-| NONE | لا يمثل أي نوع من التنسيق.|
+| SOLID | يمثل نوع التنسيق الصلب.|
+| NONE |لا يمثل أي نوع تنسيق.|
 | GRADIENT | الانحدار|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

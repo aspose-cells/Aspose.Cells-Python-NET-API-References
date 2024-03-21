@@ -1,9 +1,9 @@
 ---
 title: text_horizontal_alignment недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ru/aspose.cells/comment/text_horizontal_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
-* класс [TextAlignmentType](/cells/python-net/ru/aspose.cells/textalignmenttype)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)
+* класс [`TextAlignmentType`](/cells/python-net/ru/aspose.cells/textalignmenttype)

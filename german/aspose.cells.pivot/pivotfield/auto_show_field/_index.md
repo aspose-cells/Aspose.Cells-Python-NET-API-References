@@ -3,7 +3,7 @@ title: auto_show_field Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 190
 url: /de/aspose.cells.pivot/pivotfield/auto_show_field/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def auto_show_field(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotField](/cells/python-net/de/aspose.cells.pivot/pivotfield)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotField`](/cells/python-net/de/aspose.cells.pivot/pivotfield)

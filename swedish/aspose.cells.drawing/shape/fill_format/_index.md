@@ -3,7 +3,7 @@ title: fill_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 360
 url: /sv/aspose.cells.drawing/shape/fill_format/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def fill_format(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoFillFormat](/cells/python-net/sv/aspose.cells.drawing/msofillformat)
-* klass [Shape](/cells/python-net/sv/aspose.cells.drawing/shape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoFillFormat`](/cells/python-net/sv/aspose.cells.drawing/msofillformat)
+* klass [`Shape`](/cells/python-net/sv/aspose.cells.drawing/shape)

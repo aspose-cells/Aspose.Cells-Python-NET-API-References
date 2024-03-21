@@ -3,11 +3,11 @@ title: remove_hyperlink yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 180
 url: /tr/aspose.cells.drawing/spinner/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink() {#}
+##  remove_hyperlink {#}
 Şeklin köprüsünü kaldırın.
 
 
@@ -30,5 +30,5 @@ shape.remove_hyperlink()
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Spinner](/cells/python-net/tr/aspose.cells.drawing/spinner)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Spinner`](/cells/python-net/tr/aspose.cells.drawing/spinner)

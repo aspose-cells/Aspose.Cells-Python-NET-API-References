@@ -3,17 +3,17 @@ title: lower_delta_x proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 770
+weight: 780
 url: /it/aspose.cells.drawing/scrollbar/lower_delta_x/
 is_root: false
 ---
 ##  lower_delta_x proprietà
 
-Ottiene o imposta l'offset orizzontale della forma rispetto alla colonna nell'angolo inferiore destro.
+Ottiene o imposta l'offset orizzontale della forma dalla colonna dell'angolo inferiore destro.
 
 ###  Osservazioni
 
-L'intervallo di valori va da 0 a 1024.
+L'intervallo di valori è compreso tra 0 e 1024.
 
 ###  Esempio
 
@@ -34,5 +34,5 @@ def lower_delta_x(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ScrollBar](/cells/python-net/it/aspose.cells.drawing/scrollbar)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ScrollBar`](/cells/python-net/it/aspose.cells.drawing/scrollbar)

@@ -1,6 +1,6 @@
 ---
 title: print_permission недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 120
@@ -9,7 +9,12 @@ is_root: false
 ---
 ##  print_permission недвижимость
 
-Разрешение на печать pdf документа
+Указывает, разрешить ли печать документа.
+
+###  Примечания
+
+ Возможно, не на самом высоком уровне качества,
+в зависимости от того, установлен ли также [`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission).
 ###  Определение:
 ```python
 @property
@@ -21,5 +26,5 @@ def print_permission(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering.pdfsecurity](../../)
-* класс [PdfSecurityOptions](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* модуль [`aspose.cells.rendering.pdfsecurity`](../../)
+* класс [`PdfSecurityOptions`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

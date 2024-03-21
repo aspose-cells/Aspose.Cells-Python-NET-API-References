@@ -1,9 +1,9 @@
 ---
 title: float_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 450
+weight: 480
 url: /ru/aspose.cells/cell/float_value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def float_value(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

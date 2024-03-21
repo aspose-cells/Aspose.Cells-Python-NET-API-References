@@ -3,7 +3,7 @@ title: macro_name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 780
+weight: 790
 url: /de/aspose.cells.drawing/cellsdrawing/macro_name/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def macro_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CellsDrawing](/cells/python-net/de/aspose.cells.drawing/cellsdrawing)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CellsDrawing`](/cells/python-net/de/aspose.cells.drawing/cellsdrawing)

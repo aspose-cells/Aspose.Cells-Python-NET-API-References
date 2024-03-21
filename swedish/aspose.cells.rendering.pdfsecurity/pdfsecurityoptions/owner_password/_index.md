@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  owner_password fastighet
 
-Hämtar eller ställer in ägarlösenordet för dokumentet
+Hämtar eller ställer in ägarlösenordet för det krypterade PDF-dokumentet.
+
+###  Anmärkningar
+
+Ägarlösenordet tillåter användaren att öppna ett krypterat PDF-dokument utan några angivna åtkomstbegränsningar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +25,5 @@ def owner_password(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering.pdfsecurity](../../)
-* klass [PdfSecurityOptions](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modul [`aspose.cells.rendering.pdfsecurity`](../../)
+* klass [`PdfSecurityOptions`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

@@ -3,13 +3,13 @@ title: is_gradient Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 290
+weight: 330
 url: /de/aspose.cells/style/is_gradient/
 is_root: false
 ---
 ##  is_gradient Eigentum
 
-Gibt an, ob die Zellschattierung ein Verlaufsmuster ist.
+Gibt an, ob die Zellschattierung ein Farbverlaufsmuster ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_gradient(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

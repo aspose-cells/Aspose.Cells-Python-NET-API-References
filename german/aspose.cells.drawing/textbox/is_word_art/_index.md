@@ -3,7 +3,7 @@ title: is_word_art Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 650
+weight: 670
 url: /de/aspose.cells.drawing/textbox/is_word_art/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Gibt an, ob es sich bei dieser Form um eine Wortkunst handelt.
 
 ###  Bemerkungen
 
-Nur für die Legacy-Form der xls-Datei.
+Nur für die Legacy-Form der XLS-Datei.
 
 ###  Beispiel
 
@@ -31,5 +31,5 @@ def is_word_art(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextBox](/cells/python-net/de/aspose.cells.drawing/textbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextBox`](/cells/python-net/de/aspose.cells.drawing/textbox)

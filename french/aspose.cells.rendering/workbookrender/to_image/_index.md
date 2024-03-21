@@ -1,14 +1,14 @@
 ---
-title: to_image méthode
+title: méthode to_image
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 40
+weight: 50
 url: /fr/aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
-##  to_image(stream) {#io.RawIOBase}
-Rendre le classeur entier en tant qu'image Tiff à diffuser.
+##  to_image {#io.RawIOBase}
+Restituez l'intégralité du classeur sous forme d'image Tiff à diffuser.
 
 
 
@@ -23,8 +23,8 @@ def to_image(self, stream):
 | stream | io.RawIOBase | le flux de l'image de sortie|
 
 
-##  to_image(filename) {#str}
-Rendre le classeur entier en tant qu'image Tiff dans un fichier.
+##  to_image {#str}
+Restituez l'intégralité du classeur sous forme d'image Tiff dans un fichier.
 
 
 
@@ -39,8 +39,8 @@ def to_image(self, filename):
 | filename | str | le nom de fichier de l'image de sortie|
 
 
-##  to_image(page_index, file_name) {#int-str}
-Afficher certaines pages dans un fichier.
+##  to_image {#int-str}
+Rendre certaines pages dans un fichier.
 
 
 
@@ -56,8 +56,8 @@ def to_image(self, page_index, file_name):
 | file_name | str | nom de fichier de l'image de sortie|
 
 
-##  to_image(page_index, stream) {#int-io.RawIOBase}
-Rendre certaines pages dans un flux.
+##  to_image {#int-io.RawIOBase}
+Afficher certaines pages dans un flux.
 
 
 
@@ -75,5 +75,5 @@ def to_image(self, page_index, stream):
 
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [WorkbookRender](/cells/python-net/fr/aspose.cells.rendering/workbookrender)
+* module [`aspose.cells.rendering`](../../)
+* classe [`WorkbookRender`](/cells/python-net/fr/aspose.cells.rendering/workbookrender)

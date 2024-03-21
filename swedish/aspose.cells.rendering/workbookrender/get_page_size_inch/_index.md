@@ -3,11 +3,11 @@ title: get_page_size_inch metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 30
+weight: 40
 url: /sv/aspose.cells.rendering/workbookrender/get_page_size_inch/
 is_root: false
 ---
-##  get_page_size_inch(page_index) {#int}
+##  get_page_size_inch {#int}
 Få sidstorlek i tum av utdatabilden.
 
 
@@ -24,10 +24,10 @@ def get_page_size_inch(self, page_index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| page_index | int | Sidindexet är baserat på noll.|
+| page_index | int |Sidindexet är baserat på noll.|
 
 
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [WorkbookRender](/cells/python-net/sv/aspose.cells.rendering/workbookrender)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`WorkbookRender`](/cells/python-net/sv/aspose.cells.rendering/workbookrender)

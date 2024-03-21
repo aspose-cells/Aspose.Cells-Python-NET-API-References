@@ -3,13 +3,13 @@ title: PivotFieldCollection مفهرس
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells.pivot/pivotfieldcollection/__getitem__/
 is_root: false
 ---
 ##  PivotFieldCollection مفهرس
 
-الحصول على كائن PivotField عند الفهرس المحدد.
+يحصل على كائن PivotField في الفهرس المحدد.
 ###  مفهرس
 | اسم| وصف|
 | :- | :- |
@@ -18,5 +18,5 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotFieldCollection](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotFieldCollection`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection)

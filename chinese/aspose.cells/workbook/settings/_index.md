@@ -1,13 +1,13 @@
 ---
-title: settings 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: settings属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 640
+weight: 650
 url: /zh/aspose.cells/workbook/settings/
 is_root: false
 ---
-## settings 属性
+## settings属性
 
 代表工作簿 settings。
 ### 定义：
@@ -18,6 +18,6 @@ def settings(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)

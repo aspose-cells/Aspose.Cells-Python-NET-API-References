@@ -3,7 +3,7 @@ title: title fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1070
+weight: 1090
 url: /sv/aspose.cells.drawing/radiobutton/title/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RadioButton](/cells/python-net/sv/aspose.cells.drawing/radiobutton)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RadioButton`](/cells/python-net/sv/aspose.cells.drawing/radiobutton)

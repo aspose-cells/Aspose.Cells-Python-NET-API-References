@@ -3,11 +3,11 @@ title: remove_areas metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 110
 url: /sv/aspose.cells/validation/remove_areas/
 is_root: false
 ---
-##  remove_areas(areas) {#list}
+##  remove_areas {#list}
 Tar bort denna validering från givna områden.
 
 
@@ -25,5 +25,5 @@ def remove_areas(self, areas):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Validation](/cells/python-net/sv/aspose.cells/validation)
+* modul [`aspose.cells`](../../)
+* klass [`Validation`](/cells/python-net/sv/aspose.cells/validation)

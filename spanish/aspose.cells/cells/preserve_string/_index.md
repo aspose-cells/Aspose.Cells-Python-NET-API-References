@@ -3,7 +3,7 @@ title: preserve_string propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1220
+weight: 1210
 url: /es/aspose.cells/cells/preserve_string/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def preserve_string(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

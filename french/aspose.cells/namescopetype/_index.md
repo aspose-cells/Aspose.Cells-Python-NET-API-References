@@ -1,13 +1,13 @@
 ---
-title: NameScopeType dénombrement
+title: NameScopeType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2250
+weight: 2340
 url: /fr/aspose.cells/namescopetype/
 is_root: false
 ---
-##  NameScopeType dénombrement
+##  NameScopeType énumération
 Représente le type de portée des noms définis.
 
 
@@ -24,4 +24,4 @@ Le type NameScopeType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

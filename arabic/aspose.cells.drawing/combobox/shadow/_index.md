@@ -1,15 +1,15 @@
 ---
-title: shadow الملكية
+title: shadow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 910
+weight: 920
 url: /ar/aspose.cells.drawing/combobox/shadow/
 is_root: false
 ---
-##  shadow الملكية
+##  shadow عقار
 
-يشير إلى ما إذا كان المربع السرد به تظليل ثلاثي الأبعاد.
+يشير إلى ما إذا كان مربع التحرير والسرد يحتوي على تظليل ثلاثي الأبعاد.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ComboBox](/cells/python-net/ar/aspose.cells.drawing/combobox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ComboBox`](/cells/python-net/ar/aspose.cells.drawing/combobox)

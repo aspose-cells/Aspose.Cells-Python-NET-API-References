@@ -1,15 +1,15 @@
 ---
 title: sort_external_names недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ru/aspose.cells/odssaveoptions/sort_external_names/
 is_root: false
 ---
 ##  sort_external_names недвижимость
 
-Указывает, выполняется ли сортировка внешних определенных имен перед сохранением файла.
+Указывает, следует ли сортировать внешние определенные имена перед сохранением файла.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def sort_external_names(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [OdsSaveOptions](/cells/python-net/ru/aspose.cells/odssaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`OdsSaveOptions`](/cells/python-net/ru/aspose.cells/odssaveoptions)

@@ -1,15 +1,15 @@
 ---
-title: left_to_corner 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: left_to_corner属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 730
+weight: 740
 url: /zh/aspose.cells.drawing/scrollbar/left_to_corner/
 is_root: false
 ---
-## left_to_corner 属性
+## left_to_corner属性
 
-获取和设置形状相对于工作表左边框的水平偏移量。
+获取和设置形状距工作表左边框的水平偏移量。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def left_to_corner(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ScrollBar](/cells/python-net/zh/aspose.cells.drawing/scrollbar)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ScrollBar`](/cells/python-net/zh/aspose.cells.drawing/scrollbar)

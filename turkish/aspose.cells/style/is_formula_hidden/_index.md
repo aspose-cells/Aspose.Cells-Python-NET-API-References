@@ -3,13 +3,13 @@ title: is_formula_hidden mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 280
+weight: 320
 url: /tr/aspose.cells/style/is_formula_hidden/
 is_root: false
 ---
 ##  is_formula_hidden mülk
 
-Çalışma sayfası korunduğunda formülün gizlenip gizlenmeyeceğini temsil eder.
+Çalışma sayfası korunurken formülün gizlenip gizlenmeyeceğini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_formula_hidden(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

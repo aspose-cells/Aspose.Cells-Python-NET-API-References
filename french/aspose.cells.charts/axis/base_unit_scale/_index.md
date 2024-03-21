@@ -3,13 +3,13 @@ title: base_unit_scale propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 80
 url: /fr/aspose.cells.charts/axis/base_unit_scale/
 is_root: false
 ---
 ##  base_unit_scale propriété
 
-Représente l'échelle d'unité de base pour l'axe des abscisses.
+Représente l’échelle des unités de base pour l’axe des catégories.
 
 ###  Remarques
 
@@ -25,6 +25,6 @@ def base_unit_scale(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/fr/aspose.cells.charts/axis)
-* classe [TimeUnit](/cells/python-net/fr/aspose.cells.charts/timeunit)
+* module [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/fr/aspose.cells.charts/axis)
+* classe [`TimeUnit`](/cells/python-net/fr/aspose.cells.charts/timeunit)

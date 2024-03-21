@@ -1,9 +1,9 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 630
+weight: 660
 url: /ru/aspose.cells/cell/name/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def name(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

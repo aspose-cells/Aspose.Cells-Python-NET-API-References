@@ -3,18 +3,18 @@ title: formula Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 460
+weight: 490
 url: /de/aspose.cells/cell/formula/
 is_root: false
 ---
 ##  formula Eigentum
 
-Ruft eine formula der [Cell](/cells/python-net/de/aspose.cells/cell) ab oder legt sie fest.
+Ruft eine formula von [`Cell`](/cells/python-net/de/aspose.cells/cell) ab oder legt diese fest.
 
 ###  Bemerkungen
 
- Ein formula-String beginnt immer mit einem Gleichheitszeichen (=).
-Und verwenden Sie bitte immer Komma (,) als Parametertrennzeichen, z. B. "= SUMME (A1, E1, H2)".
+ Eine Zeichenfolge vom Typ formula beginnt immer mit einem Gleichheitszeichen (=).
+Und bitte verwenden Sie immer Komma(,) als Parametertrennzeichen, z. B. „=SUM(A1, E1, H2)“.
 
 ###  Beispiel
 
@@ -37,5 +37,5 @@ def formula(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

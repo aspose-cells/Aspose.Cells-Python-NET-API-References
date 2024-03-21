@@ -3,16 +3,16 @@ title: RowCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1310
+weight: 1350
 url: /tr/aspose.cells/rowcollection/
 is_root: false
 ---
 ##  RowCollection sınıfı
-Bir çalışma sayfasındaki tek tek satırları temsil eden [Row](/cells/python-net/tr/aspose.cells/row) nesnelerini toplar.
+Bir çalışma sayfasındaki tek tek satırları temsil eden [`Row`](/cells/python-net/tr/aspose.cells/row) nesneyi toplar.
 
 
 
-RowCollection türü aşağıdaki üyeleri gösterir:
+RowCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -21,8 +21,8 @@ RowCollection türü aşağıdaki üyeleri gösterir:
 
 
 
-Verilen satır dizinine göre bir [Row](/cells/python-net/tr/aspose.cells/row) nesnesi alır. Daha önce mevcut değilse, verilen satır dizininin Row nesnesi başlatılacaktır.
-###  İndeksleyici
+Verilen satır indeksine göre [`Row`](/cells/python-net/tr/aspose.cells/row) nesnesini alır. Verilen satır indeksinin Row nesnesi, daha önce mevcut değilse başlatılacaktır.
+###  Dizin oluşturucu
 | İsim| Tanım|
 | :- | :- |
 | [index] |  |
@@ -31,9 +31,10 @@ Verilen satır dizinine göre bir [Row](/cells/python-net/tr/aspose.cells/row) n
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [get_row_by_index(index)](/cells/python-net/tr/aspose.cells/rowcollection/get_row_by_index/#int) | Satır nesnesini listedeki konuma göre alır.|
-| [clear()](/cells/python-net/tr/aspose.cells/rowcollection/clear/#) | Tüm satırları ve hücreleri temizleyin.|
-| [remove_at(index)](/cells/python-net/tr/aspose.cells/rowcollection/remove_at/#int) | Belirtilen dizindeki satırı kaldır|
+| [get_enumerator](/cells/python-net/tr/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Bu koleksiyondaki satırları yineleyen bir numaralandırıcı alır|
+| [get_row_by_index](/cells/python-net/tr/aspose.cells/rowcollection/get_row_by_index/#int) | Satır nesnesini listedeki konuma göre alır.|
+| [clear](/cells/python-net/tr/aspose.cells/rowcollection/clear/#) | Tüm satırları ve hücreleri temizleyin.|
+| [remove_at](/cells/python-net/tr/aspose.cells/rowcollection/remove_at/#int) | Bu koleksiyonda belirtilen dizindeki (konumdaki) satır öğesini kaldırın.|
 
 
 
@@ -52,5 +53,5 @@ row = worksheet.cells.rows[0]
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
-* sınıf [Row](/cells/python-net/tr/aspose.cells/row)
+* modül [`aspose.cells`](..)
+* sınıf [`Row`](/cells/python-net/tr/aspose.cells/row)

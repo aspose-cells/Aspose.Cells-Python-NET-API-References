@@ -1,13 +1,13 @@
 ---
-title: height_inch الملكية
+title: height_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ar/aspose.cells/comment/height_inch/
 is_root: false
 ---
-##  height_inch الملكية
+##  height_inch عقار
 
 يمثل ارتفاع التعليق بوحدة البوصة.
 
@@ -29,5 +29,5 @@ def height_inch(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

@@ -1,15 +1,15 @@
 ---
-title: author 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: author属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 70
 url: /zh/aspose.cells/comment/author/
 is_root: false
 ---
-## author 属性
+## author属性
 
-获取并设置原始评论名称 author
+获取并设置原始评论的名称 author
 
 ### 例子
 
@@ -29,5 +29,5 @@ def author(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)

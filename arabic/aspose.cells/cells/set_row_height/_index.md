@@ -3,11 +3,11 @@ title: طريقة set_row_height
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 870
+weight: 860
 url: /ar/aspose.cells/cells/set_row_height/
 is_root: false
 ---
-##  set_row_height(row, height) {#int-float}
+##  set_row_height {#int-float}
 يضبط ارتفاع الصف المحدد.
 
 
@@ -20,11 +20,11 @@ def set_row_height(self, row, height):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس الصف.|
-| height | float | ارتفاع الصف ، يجب أن يكون بين 0 و 409.5 بوحدة النقطة.|
+| row | int | مؤشر الصف.|
+| height | float | ارتفاع الصف. في وحدة النقطة يجب أن يكون بين 0 و 409.5.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

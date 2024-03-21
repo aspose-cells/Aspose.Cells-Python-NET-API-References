@@ -10,7 +10,7 @@ is_root: false
 ##  comment propriété
 
 Obtient et définit le comment du nom.
-Ne s'applique qu'à Excel 2007.
+S'applique uniquement à Excel 2007 ou aux versions supérieures.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def comment(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Name](/cells/python-net/fr/aspose.cells/name)
+* module [`aspose.cells`](../../)
+* classe [`Name`](/cells/python-net/fr/aspose.cells/name)

@@ -1,18 +1,18 @@
 ---
-title: GridlineType enumerazione
+title: Enumerazione GridlineType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2120
+weight: 2190
 url: /it/aspose.cells/gridlinetype/
 is_root: false
 ---
-##  GridlineType enumerazione
+##  Enumerazione GridlineType
 Enumera il tipo di linea della griglia.
 
 
 
-Il tipo GridlineType espone i membri seguenti:
+Il tipo GridlineType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -23,4 +23,4 @@ Il tipo GridlineType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

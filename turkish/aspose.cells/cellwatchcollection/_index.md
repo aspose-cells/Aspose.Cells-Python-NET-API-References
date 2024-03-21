@@ -3,21 +3,21 @@ title: CellWatchCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 180
 url: /tr/aspose.cells/cellwatchcollection/
 is_root: false
 ---
 ##  CellWatchCollection sınıfı
-Bu çalışma sayfasındaki 'izleme penceresinde' izlenen hücre koleksiyonunu temsil eder.
+Bu çalışma sayfasındaki 'gözetleme penceresinde' izlenen hücrelerin koleksiyonunu temsil eder.
 
 
 
-CellWatchCollection türü aşağıdaki üyeleri gösterir:
+CellWatchCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [CellWatchCollection()](/cells/python-net/tr/aspose.cells/cellwatchcollection/__init__/#) | CellWatchCollection'ın yeni bir örneğini oluşturur|
+| [__init__](/cells/python-net/tr/aspose.cells/cellwatchcollection/__init__/#) | CellWatchCollection'ın yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
@@ -29,16 +29,16 @@ CellWatchCollection türü aşağıdaki üyeleri gösterir:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add(row, column)](/cells/python-net/tr/aspose.cells/cellwatchcollection/add/#int-int) | Satır ve sütun ile [CellWatch](/cells/python-net/tr/aspose.cells/cellwatch) ekler.|
-| [add(cell_name)](/cells/python-net/tr/aspose.cells/cellwatchcollection/add/#str) | Hücrenin adı ile [CellWatch](/cells/python-net/tr/aspose.cells/cellwatch) ekler.|
-| [copy_to(array)](/cells/python-net/tr/aspose.cells/cellwatchcollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/tr/aspose.cells/cellwatchcollection/copy_to/#int-list-int-int) |Dizi listesindeki bir dizi öğeyi, hedef dizi listesinin belirtilen dizininden başlayarak uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of(item, index)](/cells/python-net/tr/aspose.cells/cellwatchcollection/index_of/#CellWatch-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of(item, index, count)](/cells/python-net/tr/aspose.cells/cellwatchcollection/index_of/#CellWatch-int-int) | Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item)](/cells/python-net/tr/aspose.cells/cellwatchcollection/last_index_of/#CellWatch) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index)](/cells/python-net/tr/aspose.cells/cellwatchcollection/last_index_of/#CellWatch-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index, count)](/cells/python-net/tr/aspose.cells/cellwatchcollection/last_index_of/#CellWatch-int-int) |Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [binary_search(item)](/cells/python-net/tr/aspose.cells/cellwatchcollection/binary_search/#CellWatch) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [add](/cells/python-net/tr/aspose.cells/cellwatchcollection/add/#int-int) | Satır ve sütunla birlikte [`CellWatch`](/cells/python-net/tr/aspose.cells/cellwatch)'i ekler.|
+| [add](/cells/python-net/tr/aspose.cells/cellwatchcollection/add/#str) | Hücre adını içeren [`CellWatch`](/cells/python-net/tr/aspose.cells/cellwatch)'i ekler.|
+| [copy_to](/cells/python-net/tr/aspose.cells/cellwatchcollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak dizi listesinin tamamını uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [copy_to](/cells/python-net/tr/aspose.cells/cellwatchcollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen dizininden başlayarak, dizi listesinden bir dizi öğeyi uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [index_of](/cells/python-net/tr/aspose.cells/cellwatchcollection/index_of/#aspose.cells.CellWatch-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [index_of](/cells/python-net/tr/aspose.cells/cellwatchcollection/index_of/#aspose.cells.CellWatch-int-int) |Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğeyi içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells/cellwatchcollection/last_index_of/#aspose.cells.CellWatch) | Belirtilen nesneyi arar ve dizi listesinin tamamındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells/cellwatchcollection/last_index_of/#aspose.cells.CellWatch-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells/cellwatchcollection/last_index_of/#aspose.cells.CellWatch-int-int) | Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [binary_search](/cells/python-net/tr/aspose.cells/cellwatchcollection/binary_search/#aspose.cells.CellWatch) | Varsayılan karşılaştırıcıyı kullanarak bir öğe için sıralanmış dizi listesinin tamamını arar ve öğenin sıfır tabanlı dizinini döndürür.|
 
 
 
@@ -57,5 +57,5 @@ sheet.cell_watches.add("B2")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
-* sınıf [CellWatch](/cells/python-net/tr/aspose.cells/cellwatch)
+* modül [`aspose.cells`](..)
+* sınıf [`CellWatch`](/cells/python-net/tr/aspose.cells/cellwatch)

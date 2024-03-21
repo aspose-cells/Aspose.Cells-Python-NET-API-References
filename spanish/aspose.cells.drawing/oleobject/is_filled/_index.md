@@ -3,7 +3,7 @@ title: is_filled propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 650
+weight: 660
 url: /es/aspose.cells.drawing/oleobject/is_filled/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_filled(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [OleObject](/cells/python-net/es/aspose.cells.drawing/oleobject)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`OleObject`](/cells/python-net/es/aspose.cells.drawing/oleobject)

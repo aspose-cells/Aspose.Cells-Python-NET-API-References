@@ -3,7 +3,7 @@ title: is_equation propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 530
+weight: 540
 url: /fr/aspose.cells.drawing/chartshape/is_equation/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ChartShape](/cells/python-net/fr/aspose.cells.drawing/chartshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ChartShape`](/cells/python-net/fr/aspose.cells.drawing/chartshape)

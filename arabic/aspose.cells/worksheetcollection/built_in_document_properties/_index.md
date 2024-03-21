@@ -1,19 +1,19 @@
 ---
-title: built_in_document_properties الملكية
+title: built_in_document_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ar/aspose.cells/worksheetcollection/built_in_document_properties/
 is_root: false
 ---
-##  built_in_document_properties الملكية
+##  built_in_document_properties عقار
 
-تقوم بارجاع مجموعة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كل خصائص الوثيقة المضمنة لجدول حسابي.
+تقوم بإرجاع مجموعة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل جميع خصائص المستند المضمنة في جدول البيانات.
 
 ###  ملاحظات
 
-لا يمكن إضافة خاصية جديدة إلى قائمة خصائص الوثيقة المضمنة. يمكنك فقط الحصول على خاصية مدمجة وتغيير قيمتها.
+لا يمكن إضافة خاصية جديدة إلى قائمة خصائص المستند المضمنة. يمكنك فقط الحصول على عقار مدمج وتغيير قيمته.
 فيما يلي قائمة أسماء الخصائص المضمنة:
 
 عنوان
@@ -34,7 +34,7 @@ is_root: false
 نموذج
 
 
-آخر مؤلف
+المؤلف الأخير
 
 
 رقم المراجعة
@@ -43,7 +43,7 @@ is_root: false
 اسم التطبيق
 
 
-تاريخ آخر طباعة
+تاريخ الطباعة الأخير
 
 
 تاريخ الإنشاء
@@ -79,7 +79,7 @@ is_root: false
 شركة
 
 
-عدد البايت
+عدد البايتات
 
 
 عدد الخطوط
@@ -106,7 +106,7 @@ def built_in_document_properties(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
-* فئة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* فئة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

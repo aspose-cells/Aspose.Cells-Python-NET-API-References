@@ -3,13 +3,13 @@ title: show_error propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 250
+weight: 260
 url: /fr/aspose.cells/validation/show_error/
 is_root: false
 ---
 ##  show_error propriété
 
-Indique si le message d'erreur de validation des données s'affichera chaque fois que l'utilisateur saisira des données non valides.
+Indique si le message d'erreur de validation des données sera affiché chaque fois que l'utilisateur saisit des données non valides.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_error(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Validation](/cells/python-net/fr/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* classe [`Validation`](/cells/python-net/fr/aspose.cells/validation)

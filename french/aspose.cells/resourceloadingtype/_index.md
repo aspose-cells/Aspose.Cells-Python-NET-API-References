@@ -1,13 +1,13 @@
 ---
-title: ResourceLoadingType dénombrement
+title: ResourceLoadingType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2440
+weight: 2530
 url: /fr/aspose.cells/resourceloadingtype/
 is_root: false
 ---
-##  ResourceLoadingType dénombrement
+##  ResourceLoadingType énumération
 Représente comment charger la ressource liée.
 
 
@@ -24,4 +24,4 @@ Le type ResourceLoadingType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

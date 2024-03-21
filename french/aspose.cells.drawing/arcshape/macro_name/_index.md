@@ -3,7 +3,7 @@ title: macro_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 840
+weight: 850
 url: /fr/aspose.cells.drawing/arcshape/macro_name/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def macro_name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/fr/aspose.cells.drawing/arcshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/fr/aspose.cells.drawing/arcshape)

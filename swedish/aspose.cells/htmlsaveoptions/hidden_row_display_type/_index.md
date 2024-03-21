@@ -3,7 +3,7 @@ title: hidden_row_display_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 430
 url: /sv/aspose.cells/htmlsaveoptions/hidden_row_display_type/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def hidden_row_display_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlHiddenRowDisplayType](/cells/python-net/sv/aspose.cells/htmlhiddenrowdisplaytype)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlHiddenRowDisplayType`](/cells/python-net/sv/aspose.cells/htmlhiddenrowdisplaytype)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

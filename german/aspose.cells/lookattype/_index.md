@@ -3,12 +3,12 @@ title: LookAtType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2220
+weight: 2300
 url: /de/aspose.cells/lookattype/
 is_root: false
 ---
 ##  LookAtType Aufzählung
-Repräsentiert den Look-at-Typ.
+Stellt den Blicktyp dar.
 
 
 
@@ -18,11 +18,11 @@ Der Typ LookAtType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | CONTAINS | Cell Wert Enthält das Suchobjekt.|
-| START_WITH | Cell Wert Beginnt mit dem Find-Objekt.|
-| END_WITH | Cell Wert endet mit dem Find-Objekt.|
-| ENTIRE_CONTENT | Cell-Wert ist derselbe wie das Suchobjekt.|
+| START_WITH | Cell Wert Beginnt mit dem Suchobjekt.|
+| END_WITH | Der Wert Cell endet mit dem Suchobjekt.|
+| ENTIRE_CONTENT | Der Wert Cell ist mit dem Suchobjekt identisch.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

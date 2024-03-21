@@ -3,7 +3,7 @@ title: source_full_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /sv/aspose.cells.drawing/picture/source_full_name/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def source_full_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Picture](/cells/python-net/sv/aspose.cells.drawing/picture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture)

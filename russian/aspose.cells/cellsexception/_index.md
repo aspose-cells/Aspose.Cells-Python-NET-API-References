@@ -1,9 +1,9 @@
 ---
 title: CellsException класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ru/aspose.cells/cellsexception/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип CellsException предоставляет следующие члены:
+Тип CellsException предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -22,4 +22,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

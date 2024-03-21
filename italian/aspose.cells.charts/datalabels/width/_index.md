@@ -3,7 +3,7 @@ title: width proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 520
+weight: 510
 url: /it/aspose.cells.charts/datalabels/width/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def width(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/it/aspose.cells.charts/datalabels)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/it/aspose.cells.charts/datalabels)

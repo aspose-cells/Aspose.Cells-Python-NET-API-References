@@ -1,16 +1,16 @@
 ---
-title: preserve_string الملكية
+title: preserve_string عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1220
+weight: 1210
 url: /ar/aspose.cells/cells/preserve_string/
 is_root: false
 ---
-##  preserve_string الملكية
+##  preserve_string عقار
 
- الحصول على قيمة أو تعيينها تشير إلى ما إذا كان سيتم الاحتفاظ بجميع قيم ورقة العمل كسلاسل أم لا.
-الافتراضي هو خطأ.
+ الحصول على قيمة أو تعيينها تشير إلى ما إذا كان سيتم الاحتفاظ بجميع قيم ورقة العمل كسلاسل.
+الافتراضي خطأ.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def preserve_string(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

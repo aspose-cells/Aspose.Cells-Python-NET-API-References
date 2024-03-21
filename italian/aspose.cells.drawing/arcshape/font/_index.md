@@ -3,13 +3,13 @@ title: font proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 410
+weight: 430
 url: /it/aspose.cells.drawing/arcshape/font/
 is_root: false
 ---
 ##  font proprietà
 
-Rappresenta lo font della forma.
+Rappresenta lo font di forma.
 
 ###  Esempio
 
@@ -33,6 +33,6 @@ def font(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/it/aspose.cells.drawing/arcshape)
-* classe [Font](/cells/python-net/it/aspose.cells/font)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/it/aspose.cells.drawing/arcshape)
+* classe [`Font`](/cells/python-net/it/aspose.cells/font)

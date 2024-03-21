@@ -3,13 +3,13 @@ title: height propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 110
+weight: 120
 url: /fr/aspose.cells/comment/height/
 is_root: false
 ---
 ##  height propriété
 
-Représente la hauteur du commentaire, en pixels.
+Représente la hauteur du commentaire, en unités de pixels.
 
 ###  Exemple
 
@@ -29,5 +29,5 @@ def height(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Comment](/cells/python-net/fr/aspose.cells/comment)
+* module [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/fr/aspose.cells/comment)

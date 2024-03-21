@@ -3,7 +3,7 @@ title: is_rich_text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 750
+weight: 760
 url: /sv/aspose.cells.drawing/oleobject/is_rich_text/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def is_rich_text(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

@@ -1,13 +1,13 @@
 ---
-title: function الملكية
+title: function عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 330
 url: /ar/aspose.cells.pivot/pivotfield/function/
 is_root: false
 ---
-##  function الملكية
+##  function عقار
 
 يمثل function المستخدم لتلخيص حقل بيانات PivotTable.
 ###  تعريف:
@@ -21,6 +21,6 @@ def function(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [ConsolidationFunction](/cells/python-net/ar/aspose.cells/consolidationfunction)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`ConsolidationFunction`](/cells/python-net/ar/aspose.cells/consolidationfunction)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

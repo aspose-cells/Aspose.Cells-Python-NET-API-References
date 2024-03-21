@@ -21,5 +21,5 @@ def auto_recover(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorkbookSettings](/cells/python-net/it/aspose.cells/workbooksettings)
+* modulo [`aspose.cells`](../../)
+* classe [`WorkbookSettings`](/cells/python-net/it/aspose.cells/workbooksettings)

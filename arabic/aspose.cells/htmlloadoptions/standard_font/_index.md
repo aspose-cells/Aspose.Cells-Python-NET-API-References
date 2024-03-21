@@ -1,21 +1,21 @@
 ---
-title: standard_font الملكية
+title: standard_font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 360
 url: /ar/aspose.cells/htmlloadoptions/standard_font/
 is_root: false
 ---
-##  standard_font الملكية
+##  standard_font عقار
 
-يعيّن اسم الخط القياسي الافتراضي
+يضبط اسم الخط القياسي الافتراضي
 
 ###  ملاحظات
 
-ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من ذلك ، الرجاء استخدام DefaultStyleSettings.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ مارس 2022.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملاحظة: هذا العضو قديم الآن. بدلاً من ذلك، الرجاء استخدام DefaultStyleSettings.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ مارس 2022.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -27,5 +27,5 @@ def standard_font(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlLoadOptions](/cells/python-net/ar/aspose.cells/htmlloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlLoadOptions`](/cells/python-net/ar/aspose.cells/htmlloadoptions)

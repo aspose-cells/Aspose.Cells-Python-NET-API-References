@@ -3,7 +3,7 @@ title: cross_at mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 110
 url: /tr/aspose.cells.charts/axis/cross_at/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Değer ekseninde kategori ekseninin kesiştiği noktayı temsil eder.
 
 ###  Notlar
 
-Sayı, kategori eksenine uygulandığında bir tam sayı olmalıdır.
+Sayı, kategori eksenine uygulandığında tam sayı olmalıdır.
 Ve değer 1 ile 31999 arasında olmalıdır.
 ###  Tanım:
 ```python
@@ -26,5 +26,5 @@ def cross_at(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Axis](/cells/python-net/tr/aspose.cells.charts/axis)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Axis`](/cells/python-net/tr/aspose.cells.charts/axis)

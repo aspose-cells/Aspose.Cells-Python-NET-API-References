@@ -3,7 +3,7 @@ title: format_picture propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 380
+weight: 390
 url: /es/aspose.cells.drawing/combobox/format_picture/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def format_picture(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ComboBox](/cells/python-net/es/aspose.cells.drawing/combobox)
-* clase [MsoFormatPicture](/cells/python-net/es/aspose.cells.drawing/msoformatpicture)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ComboBox`](/cells/python-net/es/aspose.cells.drawing/combobox)
+* clase [`MsoFormatPicture`](/cells/python-net/es/aspose.cells.drawing/msoformatpicture)

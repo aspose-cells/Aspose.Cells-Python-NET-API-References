@@ -3,7 +3,7 @@ title: CrossType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 460
+weight: 470
 url: /es/aspose.cells.charts/crosstype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ El tipo CrossType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

@@ -3,14 +3,14 @@ title: all_columns_in_one_page_per_sheet propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 30
+weight: 40
 url: /fr/aspose.cells/pptxsaveoptions/all_columns_in_one_page_per_sheet/
 is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet propriété
 
- Si AllColumnsInOnePagePerSheet est true , tout le contenu de la colonne d'une feuille sortira sur une seule page dans le résultat.
- La largeur de la taille du papier de pagesetup sera ignorée, et les autres paramètres de pagesetup
+ Si AllColumnsInOnePagePerSheet est true , tout le contenu des colonnes d’une feuille sera affiché sur une seule page dans le résultat.
+ La largeur du format de papier de pagesetup sera ignorée et les autres paramètres de pagesetup
 prendra toujours effet.
 ###  Définition:
 ```python
@@ -23,5 +23,5 @@ def all_columns_in_one_page_per_sheet(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PptxSaveOptions](/cells/python-net/fr/aspose.cells/pptxsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`PptxSaveOptions`](/cells/python-net/fr/aspose.cells/pptxsaveoptions)

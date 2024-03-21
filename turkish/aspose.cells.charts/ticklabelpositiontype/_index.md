@@ -3,7 +3,7 @@ title: TickLabelPositionType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 640
+weight: 650
 url: /tr/aspose.cells.charts/ticklabelpositiontype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Belirtilen eksendeki onay işareti etiketlerinin konum türünü temsil eder.
 
 
 
-TickLabelPositionType türü aşağıdaki üyeleri gösterir:
+TickLabelPositionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| HIGH | Pozisyon tipi yüksektir.|
-| LOW | Konum türü düşük.|
-| NEXT_TO_AXIS | Konum tipi, eksenin yanındadır.|
+| HIGH | Pozisyon türü yüksek.|
+| LOW | Pozisyon türü düşük.|
+| NEXT_TO_AXIS | Konum türü eksenin yanındadır.|
 | NONE | Pozisyon türü yok.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

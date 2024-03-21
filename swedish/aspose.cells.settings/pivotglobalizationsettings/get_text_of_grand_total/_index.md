@@ -3,11 +3,11 @@ title: get_text_of_grand_total metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 90
 url: /sv/aspose.cells.settings/pivotglobalizationsettings/get_text_of_grand_total/
 is_root: false
 ---
-##  get_text_of_grand_total() {#}
+##  get_text_of_grand_total {#}
 Hämtar texten till etiketten "Grand Summa" i pivottabellen.
 
 
@@ -26,5 +26,5 @@ def get_text_of_grand_total(self):
 
 
 ###  Se även
-* modul [aspose.cells.settings](../../)
-* klass [PivotGlobalizationSettings](/cells/python-net/sv/aspose.cells.settings/pivotglobalizationsettings)
+* modul [`aspose.cells.settings`](../../)
+* klass [`PivotGlobalizationSettings`](/cells/python-net/sv/aspose.cells.settings/pivotglobalizationsettings)

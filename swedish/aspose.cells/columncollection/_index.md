@@ -3,12 +3,12 @@ title: ColumnCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 280
 url: /sv/aspose.cells/columncollection/
 is_root: false
 ---
 ##  ColumnCollection klass
-Samling av de [Column](/cells/python-net/sv/aspose.cells/column)-objekt som representerar de individuella kolumnerna i ett kalkylblad.
+Samling av de [`Column`](/cells/python-net/sv/aspose.cells/column)-objekt som representerar de individuella kolumnerna i ett kalkylblad.
 Kolumnobjektet representerar endast inställningar som kolumnbredd, stilar osv. för hela kolumnen,
 har inget att göra med det faktum att det finns icke-tomma celler(data) eller inte i motsvarande kolumn.
 Och "Räkneverket" i denna samling representerar bara de räkningskolumnobjekt som har instansierats i den här samlingen,
@@ -27,16 +27,16 @@ Typen ColumnCollection avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/sv/aspose.cells/columncollection/copy_to/#list) | Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/sv/aspose.cells/columncollection/copy_to/#int-list-int-int) |Kopierar ett intervall av element från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
-| [index_of(item, index)](/cells/python-net/sv/aspose.cells/columncollection/index_of/#Column-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
-| [index_of(item, index, count)](/cells/python-net/sv/aspose.cells/columncollection/index_of/#Column-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
-| [last_index_of(item)](/cells/python-net/sv/aspose.cells/columncollection/last_index_of/#Column) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
-| [last_index_of(item, index)](/cells/python-net/sv/aspose.cells/columncollection/last_index_of/#Column-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
-| [last_index_of(item, index, count)](/cells/python-net/sv/aspose.cells/columncollection/last_index_of/#Column-int-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
-| [get_by_index(index)](/cells/python-net/sv/aspose.cells/columncollection/get_by_index/#int) | Hämtar kolumnobjektet genom index.|
-| [get_column_by_index(index)](/cells/python-net/sv/aspose.cells/columncollection/get_column_by_index/#int) | Hämtar objektet [Column](/cells/python-net/sv/aspose.cells/column) efter positionen i listan.|
-| [binary_search(item)](/cells/python-net/sv/aspose.cells/columncollection/binary_search/#Column) | Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
+| [copy_to](/cells/python-net/sv/aspose.cells/columncollection/copy_to/#list) | Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
+| [copy_to](/cells/python-net/sv/aspose.cells/columncollection/copy_to/#int-list-int-int) | Kopierar ett intervall av element från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
+| [index_of](/cells/python-net/sv/aspose.cells/columncollection/index_of/#aspose.cells.Column-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
+| [index_of](/cells/python-net/sv/aspose.cells/columncollection/index_of/#aspose.cells.Column-int-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
+| [last_index_of](/cells/python-net/sv/aspose.cells/columncollection/last_index_of/#aspose.cells.Column) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
+| [last_index_of](/cells/python-net/sv/aspose.cells/columncollection/last_index_of/#aspose.cells.Column-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
+| [last_index_of](/cells/python-net/sv/aspose.cells/columncollection/last_index_of/#aspose.cells.Column-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
+| [get_by_index](/cells/python-net/sv/aspose.cells/columncollection/get_by_index/#int) | Hämtar kolumnobjektet genom index.|
+| [get_column_by_index](/cells/python-net/sv/aspose.cells/columncollection/get_column_by_index/#int) | Hämtar objektet [`Column`](/cells/python-net/sv/aspose.cells/column) efter positionen i listan.|
+| [binary_search](/cells/python-net/sv/aspose.cells/columncollection/binary_search/#aspose.cells.Column) | Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
 
 
 
@@ -62,7 +62,7 @@ styleFlag = StyleFlag()
 styleFlag.all = True
 # Change the default width of first ten columns
 for i in range(10):
-    worksheet.cells.columns[i].width = 20
+    worksheet.cells.columns[i].width = 20.0
 # Get the Column with non default formatting
 columns = worksheet.cells.columns
 for column in columns:
@@ -74,5 +74,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [Column](/cells/python-net/sv/aspose.cells/column)
+* modul [`aspose.cells`](..)
+* klass [`Column`](/cells/python-net/sv/aspose.cells/column)

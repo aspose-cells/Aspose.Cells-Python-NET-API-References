@@ -1,16 +1,16 @@
 ---
-title: is_rectangular_cornered الملكية
+title: is_rectangular_cornered عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 350
 url: /ar/aspose.cells.charts/chart/is_rectangular_cornered/
 is_root: false
 ---
-##  is_rectangular_cornered الملكية
+##  is_rectangular_cornered عقار
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت منطقة المخطط محاطة بزوايا مستطيلة.
-الافتراضي هو الصحيح.
+الحصول على قيمة تشير إلى ما إذا كانت منطقة المخطط مستطيلة الشكل أو تعيينها.
+الافتراضي صحيح.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_rectangular_cornered(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

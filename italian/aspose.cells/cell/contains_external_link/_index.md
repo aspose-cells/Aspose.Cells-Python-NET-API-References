@@ -3,7 +3,7 @@ title: contains_external_link proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 410
+weight: 430
 url: /it/aspose.cells/cell/contains_external_link/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def contains_external_link(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

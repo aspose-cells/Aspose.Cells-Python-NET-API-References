@@ -1,19 +1,19 @@
 ---
-title: cross_at 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: cross_at属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 100
+weight: 110
 url: /zh/aspose.cells.charts/axis/cross_at/
 is_root: false
 ---
-## cross_at 属性
+## cross_at属性
 
-表示值轴上类别轴与其交叉的点。
+表示值轴上与类别轴相交的点。
 
 ### 评论
 
-适用于类别轴时，该数字应为整数。
+当应用于类别轴时，该数字应为整数。
 并且该值必须在 1 到 31999 之间。
 ### 定义：
 ```python
@@ -26,5 +26,5 @@ def cross_at(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)

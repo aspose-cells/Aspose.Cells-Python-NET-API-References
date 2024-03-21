@@ -1,13 +1,13 @@
 ---
-title: image_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: image_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 580
+weight: 590
 url: /zh/aspose.cells.drawing/picture/image_type/
 is_root: false
 ---
-## image_type 属性
+## image_type属性
 
 获取图片的图像格式。
 
@@ -42,6 +42,6 @@ def image_type(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ImageType](/cells/python-net/zh/aspose.cells.drawing/imagetype)
-* 类 [Picture](/cells/python-net/zh/aspose.cells.drawing/picture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ImageType`](/cells/python-net/zh/aspose.cells.drawing/imagetype)
+* 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)

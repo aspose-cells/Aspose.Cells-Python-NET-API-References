@@ -3,7 +3,7 @@ title: custom_properties fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 460
 url: /sv/aspose.cells/worksheet/custom_properties/
 is_root: false
 ---
@@ -24,6 +24,6 @@ def custom_properties(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CustomPropertyCollection](/cells/python-net/sv/aspose.cells.properties/custompropertycollection)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`CustomPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/custompropertycollection)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

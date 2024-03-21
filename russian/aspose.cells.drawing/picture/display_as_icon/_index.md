@@ -1,9 +1,9 @@
 ---
 title: display_as_icon недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 380
+weight: 400
 url: /ru/aspose.cells.drawing/picture/display_as_icon/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def display_as_icon(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Picture](/cells/python-net/ru/aspose.cells.drawing/picture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture)

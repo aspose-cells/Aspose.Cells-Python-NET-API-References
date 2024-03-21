@@ -1,9 +1,9 @@
 ---
 title: BackgroundMode перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 370
+weight: 380
 url: /ru/aspose.cells.charts/backgroundmode/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип BackgroundMode предоставляет следующие члены:
+Тип BackgroundMode предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| AUTOMATIC | автоматический|
-| OPAQUE |Непрозрачный|
+| AUTOMATIC |Автоматический|
+| OPAQUE | Непрозрачный|
 | TRANSPARENT | Прозрачный|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

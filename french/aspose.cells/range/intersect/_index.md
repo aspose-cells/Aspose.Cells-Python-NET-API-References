@@ -1,19 +1,19 @@
 ---
-title: intersect méthode
+title: méthode intersect
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 110
+weight: 120
 url: /fr/aspose.cells/range/intersect/
 is_root: false
 ---
-##  intersect(range) {#Range}
-Renvoie un objet [Range](/cells/python-net/fr/aspose.cells/range) qui représente l'intersection rectangulaire de deux plages.
+##  intersect {#aspose.cells.Range}
+Renvoie un objet [`Range`](/cells/python-net/fr/aspose.cells/range) qui représente l'intersection rectangulaire de deux plages.
 
 
 ###  Retour
 
-Renvoie un objet [Range](/cells/python-net/fr/aspose.cells/range)
+Renvoie un objet [`Range`](/cells/python-net/fr/aspose.cells/range)
 
 
 ```python
@@ -24,10 +24,10 @@ def intersect(self, range):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/fr/aspose.cells/range) | La plage d'intersection.|
+| range | [`Range`](/cells/python-net/fr/aspose.cells/range) | La plage qui se croise.|
 ###  Remarques
 
-Si les deux plages ne sont pas intersectées, renvoie null.
+Si les deux plages ne se croisent pas, renvoie null.
 ###  Exemple
 
 
@@ -50,5 +50,5 @@ workbook.save("book1.xlsm")
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Range](/cells/python-net/fr/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* classe [`Range`](/cells/python-net/fr/aspose.cells/range)

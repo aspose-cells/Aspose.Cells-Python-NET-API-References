@@ -3,7 +3,7 @@ title: data_labels mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 100
 url: /tr/aspose.cells.charts/series/data_labels/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def data_labels(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [DataLabels](/cells/python-net/tr/aspose.cells.charts/datalabels)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`DataLabels`](/cells/python-net/tr/aspose.cells.charts/datalabels)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

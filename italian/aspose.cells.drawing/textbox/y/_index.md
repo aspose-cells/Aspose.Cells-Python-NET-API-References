@@ -3,7 +3,7 @@ title: y proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1230
+weight: 1250
 url: /it/aspose.cells.drawing/textbox/y/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [TextBox](/cells/python-net/it/aspose.cells.drawing/textbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`TextBox`](/cells/python-net/it/aspose.cells.drawing/textbox)

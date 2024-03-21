@@ -3,7 +3,7 @@ title: export_print_area_only proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 310
+weight: 330
 url: /it/aspose.cells/htmlsaveoptions/export_print_area_only/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def export_print_area_only(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/it/aspose.cells/htmlsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/it/aspose.cells/htmlsaveoptions)

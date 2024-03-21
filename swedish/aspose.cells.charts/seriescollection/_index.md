@@ -3,12 +3,12 @@ title: SeriesCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 250
 url: /sv/aspose.cells.charts/seriescollection/
 is_root: false
 ---
 ##  SeriesCollection klass
-Kapslar in en samling av [Series](/cells/python-net/sv/aspose.cells.charts/series) objekt.
+Kapslar in en samling av [`Series`](/cells/python-net/sv/aspose.cells.charts/series) objekt.
 
 
 
@@ -19,27 +19,27 @@ Typen SeriesCollection avslöjar följande medlemmar:
 | :- | :- |
 | [category_data](/cells/python-net/sv/aspose.cells.charts/seriescollection/category_data) | Hämtar eller ställer in intervallet för kategoriaxelvärden.<br/> Det kan vara ett cellintervall (som "d1:e10"),<br/> eller en sekvens av värden (som,"{2,6,8,10}").|
 | [second_category_data](/cells/python-net/sv/aspose.cells.charts/seriescollection/second_category_data) | Hämtar eller ställer in intervallet för andra kategorins axelvärden.<br/> Det kan vara ett cellintervall (som "d1:e10"),<br/> eller en sekvens av värden (som,"{2,6,8,10}").<br/> Effekter endast när vissa ASeries plottar på den andra axeln.|
-| [is_color_varied](/cells/python-net/sv/aspose.cells.charts/seriescollection/is_color_varied) | Representerar om färgen på punkterna varieras.|
+| [is_color_varied](/cells/python-net/sv/aspose.cells.charts/seriescollection/is_color_varied) |Representerar om färgen på punkterna varieras.|
 | [capacity](/cells/python-net/sv/aspose.cells.charts/seriescollection/capacity) | Hämtar eller ställer in antalet element som arraylistan kan innehålla.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add(area, is_vertical)](/cells/python-net/sv/aspose.cells.charts/seriescollection/add/#str-bool) | Lägger till samlingen [SeriesCollection](/cells/python-net/sv/aspose.cells.charts/seriescollection) i ett diagram.|
-| [add(area, is_vertical, check_labels)](/cells/python-net/sv/aspose.cells.charts/seriescollection/add/#str-bool-bool) | Lägger till samlingen [SeriesCollection](/cells/python-net/sv/aspose.cells.charts/seriescollection) i ett diagram.|
-| [copy_to(array)](/cells/python-net/sv/aspose.cells.charts/seriescollection/copy_to/#list) | Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/sv/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) |Kopierar ett intervall av element från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
-| [index_of(item, index)](/cells/python-net/sv/aspose.cells.charts/seriescollection/index_of/#Series-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
-| [index_of(item, index, count)](/cells/python-net/sv/aspose.cells.charts/seriescollection/index_of/#Series-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
-| [last_index_of(item)](/cells/python-net/sv/aspose.cells.charts/seriescollection/last_index_of/#Series) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
-| [last_index_of(item, index)](/cells/python-net/sv/aspose.cells.charts/seriescollection/last_index_of/#Series-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
-| [last_index_of(item, index, count)](/cells/python-net/sv/aspose.cells.charts/seriescollection/last_index_of/#Series-int-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
-| [get_series_by_order(order)](/cells/python-net/sv/aspose.cells.charts/seriescollection/get_series_by_order/#int) | Hämtar elementet [Series](/cells/python-net/sv/aspose.cells.charts/series) efter beställning.|
-| [change_series_order(source_index, dest_index)](/cells/python-net/sv/aspose.cells.charts/seriescollection/change_series_order/#int-int) | Ändrar direkt beställningarna för de två serierna.|
-| [set_series_names(start_index, area, is_vertical)](/cells/python-net/sv/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Ställer in namnet på alla serier i diagrammet.|
-| [add_r1c1(area, is_vertical)](/cells/python-net/sv/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | Lägger till samlingen [SeriesCollection](/cells/python-net/sv/aspose.cells.charts/seriescollection) i ett diagram.|
-| [binary_search(item)](/cells/python-net/sv/aspose.cells.charts/seriescollection/binary_search/#Series) | Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
+| [add](/cells/python-net/sv/aspose.cells.charts/seriescollection/add/#str-bool) | Lägger till samlingen [`Series`](/cells/python-net/sv/aspose.cells.charts/series) i ett diagram.|
+| [add](/cells/python-net/sv/aspose.cells.charts/seriescollection/add/#str-bool-bool) | Lägger till samlingen [`Series`](/cells/python-net/sv/aspose.cells.charts/series) i ett diagram.|
+| [copy_to](/cells/python-net/sv/aspose.cells.charts/seriescollection/copy_to/#list) | Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
+| [copy_to](/cells/python-net/sv/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) | Kopierar ett intervall av element från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
+| [index_of](/cells/python-net/sv/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
+| [index_of](/cells/python-net/sv/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
+| [last_index_of](/cells/python-net/sv/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
+| [last_index_of](/cells/python-net/sv/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
+| [last_index_of](/cells/python-net/sv/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
+| [get_series_by_order](/cells/python-net/sv/aspose.cells.charts/seriescollection/get_series_by_order/#int) | Hämtar elementet [`Series`](/cells/python-net/sv/aspose.cells.charts/series) efter beställning.|
+| [change_series_order](/cells/python-net/sv/aspose.cells.charts/seriescollection/change_series_order/#int-int) | Ändrar direkt beställningarna för de två serierna.|
+| [set_series_names](/cells/python-net/sv/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Ställer in namnet på alla serier i diagrammet.|
+| [add_r1c1](/cells/python-net/sv/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | Lägger till samlingen [`Series`](/cells/python-net/sv/aspose.cells.charts/series) i ett diagram.|
+| [binary_search](/cells/python-net/sv/aspose.cells.charts/seriescollection/binary_search/#aspose.cells.charts.Series) | Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
 
 
 
@@ -93,6 +93,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](..)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
-* klass [SeriesCollection](/cells/python-net/sv/aspose.cells.charts/seriescollection)
+* modul [`aspose.cells.charts`](..)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

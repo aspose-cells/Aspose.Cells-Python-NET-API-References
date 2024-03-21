@@ -3,12 +3,12 @@ title: import_object_array Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 670
+weight: 660
 url: /de/aspose.cells/cells/import_object_array/
 is_root: false
 ---
-##  import_object_array(obj_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-Importiert ein Array von Daten in ein Arbeitsblatt.
+##  import_object_array {#list-int-int-bool}
+Importiert ein Datenarray in ein Arbeitsblatt.
 
 
 
@@ -23,11 +23,11 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical):
 | obj_array | list | Datenarray.|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
-| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden.|
+| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden sollen.|
 
 
-##  import_object_array(obj_array, first_row, first_column, is_vertical, skip) {#list-int-int-bool-int}
-Importiert ein Array von Daten in ein Arbeitsblatt.
+##  import_object_array {#list-int-int-bool-int}
+Importiert ein Datenarray in ein Arbeitsblatt.
 
 
 
@@ -42,11 +42,11 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical, s
 | obj_array | list | Datenarray.|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
-| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden.|
-| skip | int | Übersprungene Anzahl von Zeilen oder Spalten.|
+| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden sollen.|
+| skip | int | Anzahl der Zeilen oder Spalten übersprungen.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

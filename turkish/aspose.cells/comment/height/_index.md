@@ -3,13 +3,13 @@ title: height mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 120
 url: /tr/aspose.cells/comment/height/
 is_root: false
 ---
 ##  height mülk
 
-Yorumun Piksel birimi cinsinden Yüksekliğini temsil eder.
+Yorumun Yüksekliğini piksel birimi cinsinden temsil eder.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def height(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)

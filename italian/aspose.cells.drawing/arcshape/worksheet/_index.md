@@ -3,13 +3,13 @@ title: worksheet proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1270
+weight: 1280
 url: /it/aspose.cells.drawing/arcshape/worksheet/
 is_root: false
 ---
 ##  worksheet proprietà
 
-Ottiene l'oggetto [Shape.worksheet](/cells/python-net/it/aspose.cells.drawing/shape#worksheet) che contiene questa forma.
+Ottiene l'oggetto [`Shape.worksheet`](/cells/python-net/it/aspose.cells.drawing/shape#worksheet) che contiene questa forma.
 
 ###  Esempio
 
@@ -26,6 +26,6 @@ def worksheet(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/it/aspose.cells.drawing/arcshape)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/it/aspose.cells.drawing/arcshape)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

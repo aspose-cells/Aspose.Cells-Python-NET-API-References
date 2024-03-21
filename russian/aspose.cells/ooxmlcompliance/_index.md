@@ -1,9 +1,9 @@
 ---
 title: OoxmlCompliance перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2270
+weight: 2360
 url: /ru/aspose.cells/ooxmlcompliance/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип OoxmlCompliance предоставляет следующие члены:
+Тип OoxmlCompliance предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

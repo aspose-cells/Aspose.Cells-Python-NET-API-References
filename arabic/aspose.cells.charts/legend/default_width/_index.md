@@ -1,13 +1,13 @@
 ---
-title: default_width الملكية
+title: default_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells.charts/legend/default_width/
 is_root: false
 ---
-##  default_width الملكية
+##  default_width عقار
 
 يمثل عرض الموضع الافتراضي
 ###  تعريف:
@@ -18,5 +18,5 @@ def default_width(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)

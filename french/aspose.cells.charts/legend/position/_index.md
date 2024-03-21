@@ -3,7 +3,7 @@ title: position propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 290
+weight: 300
 url: /fr/aspose.cells.charts/legend/position/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def position(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Legend](/cells/python-net/fr/aspose.cells.charts/legend)
-* classe [LegendPositionType](/cells/python-net/fr/aspose.cells.charts/legendpositiontype)
+* module [`aspose.cells.charts`](../../)
+* classe [`Legend`](/cells/python-net/fr/aspose.cells.charts/legend)
+* classe [`LegendPositionType`](/cells/python-net/fr/aspose.cells.charts/legendpositiontype)

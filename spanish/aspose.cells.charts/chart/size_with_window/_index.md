@@ -3,7 +3,7 @@ title: size_with_window propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 570
+weight: 600
 url: /es/aspose.cells.charts/chart/size_with_window/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def size_with_window(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Chart](/cells/python-net/es/aspose.cells.charts/chart)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Chart`](/cells/python-net/es/aspose.cells.charts/chart)

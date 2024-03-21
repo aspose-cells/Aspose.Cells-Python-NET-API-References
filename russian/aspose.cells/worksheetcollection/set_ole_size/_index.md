@@ -1,14 +1,14 @@
 ---
 title: set_ole_size метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ru/aspose.cells/worksheetcollection/set_ole_size/
 is_root: false
 ---
-##  set_ole_size(start_row, end_row, start_column, end_column) {#int-int-int-int}
-Устанавливает отображаемый размер, когда файл рабочей книги используется в качестве объекта Ole.
+##  set_ole_size {#int-int-int-int}
+Устанавливает отображаемый размер, когда файл книги используется в качестве объекта Ole.
 
 
 
@@ -23,13 +23,13 @@ def set_ole_size(self, start_row, end_row, start_column, end_column):
 | start_row | int | Индекс начальной строки.|
 | end_row | int | Индекс конечной строки.|
 | start_column | int | Начальный индекс столбца.|
-| end_column | int | Конечный индекс столбца.|
+| end_column | int | Индекс конечного столбца.|
 ###  Примечания
 
-Этот метод обычно используется для настройки размера отображения в файле ppt или файле doc.
+Этот метод обычно используется для настройки размера отображения в файле PPT или файле документа.
 
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [WorksheetCollection](/cells/python-net/ru/aspose.cells/worksheetcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`WorksheetCollection`](/cells/python-net/ru/aspose.cells/worksheetcollection)

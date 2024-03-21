@@ -1,14 +1,14 @@
 ---
 title: insert_row方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 720
+weight: 710
 url: /zh/aspose.cells/cells/insert_row/
 is_root: false
 ---
-##  insert_row(row_index) {#int}
-在工作表中插入一个新行。
+##  insert_row {#int}
+将新行插入工作表中。
 
 
 
@@ -25,5 +25,5 @@ def insert_row(self, row_index):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

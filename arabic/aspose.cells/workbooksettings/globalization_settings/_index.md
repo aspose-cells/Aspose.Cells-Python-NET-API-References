@@ -1,13 +1,13 @@
 ---
-title: globalization_settings الملكية
+title: globalization_settings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 200
 url: /ar/aspose.cells/workbooksettings/globalization_settings/
 is_root: false
 ---
-##  globalization_settings الملكية
+##  globalization_settings عقار
 
 الحصول على إعدادات العولمة وتعيينها.
 ###  تعريف:
@@ -21,6 +21,6 @@ def globalization_settings(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GlobalizationSettings](/cells/python-net/ar/aspose.cells/globalizationsettings)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GlobalizationSettings`](/cells/python-net/ar/aspose.cells/globalizationsettings)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

@@ -3,12 +3,12 @@ title: set_column_width_pixel yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 860
+weight: 850
 url: /tr/aspose.cells/cells/set_column_width_pixel/
 is_root: false
 ---
-##  set_column_width_pixel(column, pixels) {#int-int}
-Normal görünümde sütun genişliğini piksel birimi olarak ayarlar.
+##  set_column_width_pixel {#int-int}
+Normal görünümde sütun genişliğini piksel birimi cinsinden ayarlar.
 
 
 
@@ -26,5 +26,5 @@ def set_column_width_pixel(self, column, pixels):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

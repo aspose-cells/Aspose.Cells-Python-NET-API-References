@@ -3,7 +3,7 @@ title: control_data fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 330
 url: /sv/aspose.cells.drawing/combobox/control_data/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def control_data(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ComboBox](/cells/python-net/sv/aspose.cells.drawing/combobox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ComboBox`](/cells/python-net/sv/aspose.cells.drawing/combobox)

@@ -3,7 +3,7 @@ title: DateTimeGroupingType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1940
+weight: 2010
 url: /de/aspose.cells/datetimegroupingtype/
 is_root: false
 ---
@@ -18,13 +18,13 @@ Der Typ DateTimeGroupingType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | DAY | Gruppieren Sie nach Tag.|
-| HOUR | Gruppieren Sie nach Stunden.|
-| MINUTE | Gruppieren nach Minute.|
+| HOUR | Gruppieren Sie nach Stunde.|
+| MINUTE | Gruppieren Sie nach Minute.|
 | MONTH | Nach Monat gruppieren.|
-| SECOND | Gruppieren nach Sekunde.|
-| YEAR |Nach Jahr gruppieren.|
+| SECOND | Nach Sekunde gruppieren.|
+| YEAR | Nach Jahr gruppieren.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

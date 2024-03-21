@@ -1,15 +1,15 @@
 ---
-title: max_column الملكية
+title: max_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1090
+weight: 1080
 url: /ar/aspose.cells/cells/max_column/
 is_root: false
 ---
-##  max_column الملكية
+##  max_column عقار
 
-الحد الأدنى لفهرس العمود لتلك الخلايا التي تم إنشاء مثيل لها في المجموعة (لا يشمل العمود
+الحد الأقصى لفهرس العمود لتلك الخلايا التي تم إنشاء مثيل لها في المجموعة (لا يتضمن العمود
 حيث يتم تعريف النمط للعمود بأكمله ولكن لم يتم إنشاء مثيل لأي خلية فيه).
 
 ###  ملاحظات
@@ -23,5 +23,5 @@ def max_column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

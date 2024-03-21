@@ -3,7 +3,7 @@ title: text_vertical_overflow fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /sv/aspose.cells.drawing/oleobject/text_vertical_overflow/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_vertical_overflow(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
-* klass [TextOverflowType](/cells/python-net/sv/aspose.cells.drawing/textoverflowtype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* klass [`TextOverflowType`](/cells/python-net/sv/aspose.cells.drawing/textoverflowtype)

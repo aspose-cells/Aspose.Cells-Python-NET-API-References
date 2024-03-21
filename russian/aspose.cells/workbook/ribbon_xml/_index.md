@@ -1,9 +1,9 @@
 ---
 title: ribbon_xml недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 630
+weight: 640
 url: /ru/aspose.cells/workbook/ribbon_xml/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def ribbon_xml(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

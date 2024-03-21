@@ -3,7 +3,7 @@ title: AutoFitWrappedTextType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1770
+weight: 1840
 url: /sv/aspose.cells/autofitwrappedtexttype/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Typen AutoFitWrappedTextType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -1,22 +1,22 @@
 ---
-title: html_text الملكية
+title: html_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 490
 url: /ar/aspose.cells.drawing/cellsdrawing/html_text/
 is_root: false
 ---
-##  html_text الملكية
+##  html_text عقار
 
-الحصول على وتعيين سلسلة html التي تحتوي على بيانات وبعض التنسيقات في مربع النص هذا.
+الحصول على سلسلة html التي تحتوي على البيانات وبعض التنسيقات في مربع النص هذا وتعيينها.
 
 ###  مثال
 
 ```python
 
 html = shape.html_text
-if html == null  || html == "":
+if html == null  or html == "":
     shape.html_text = "<Font Style='FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #0000ff;TEXT-ALIGN: left;'>This is a <b>test</b>.</Font>"
 
 ```
@@ -31,5 +31,5 @@ def html_text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CellsDrawing](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CellsDrawing`](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)

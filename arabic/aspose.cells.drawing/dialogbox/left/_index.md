@@ -1,15 +1,15 @@
 ---
-title: left الملكية
+title: left عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 660
+weight: 670
 url: /ar/aspose.cells.drawing/dialogbox/left/
 is_root: false
 ---
-##  left الملكية
+##  left عقار
 
-يمثل الإزاحة الأفقية للشكل من عمود left ، بوحدة البكسل.
+يمثل الإزاحة الأفقية للشكل من عموده left، بوحدة البكسل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def left(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [DialogBox](/cells/python-net/ar/aspose.cells.drawing/dialogbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`DialogBox`](/cells/python-net/ar/aspose.cells.drawing/dialogbox)

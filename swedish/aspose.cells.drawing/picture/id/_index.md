@@ -3,7 +3,7 @@ title: id fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 580
 url: /sv/aspose.cells.drawing/picture/id/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def id(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Picture](/cells/python-net/sv/aspose.cells.drawing/picture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture)

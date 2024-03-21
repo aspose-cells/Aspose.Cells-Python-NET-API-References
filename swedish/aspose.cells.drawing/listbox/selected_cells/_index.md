@@ -3,7 +3,7 @@ title: selected_cells fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 910
+weight: 920
 url: /sv/aspose.cells.drawing/listbox/selected_cells/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def selected_cells(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ListBox](/cells/python-net/sv/aspose.cells.drawing/listbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ListBox`](/cells/python-net/sv/aspose.cells.drawing/listbox)

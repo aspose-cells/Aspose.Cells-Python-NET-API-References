@@ -3,7 +3,7 @@ title: type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 280
 url: /de/aspose.cells/validation/type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Validation](/cells/python-net/de/aspose.cells/validation)
-* Klasse [ValidationType](/cells/python-net/de/aspose.cells/validationtype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Validation`](/cells/python-net/de/aspose.cells/validation)
+* Klasse [`ValidationType`](/cells/python-net/de/aspose.cells/validationtype)

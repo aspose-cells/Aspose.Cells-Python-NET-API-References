@@ -3,7 +3,7 @@ title: upper_left_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /sv/aspose.cells.drawing/webextensionshape/upper_left_column/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [WebExtensionShape](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`WebExtensionShape`](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)

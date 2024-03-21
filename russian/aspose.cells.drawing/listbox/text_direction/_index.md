@@ -1,15 +1,15 @@
 ---
 title: text_direction недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /ru/aspose.cells.drawing/listbox/text_direction/
 is_root: false
 ---
 ##  text_direction недвижимость
 
-Получает/устанавливает направление потока текста для этого объекта.
+Получает/задает направление потока текста для этого объекта.
 
 ###  Пример
 
@@ -31,6 +31,6 @@ def text_direction(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ListBox](/cells/python-net/ru/aspose.cells.drawing/listbox)
-* класс [TextDirectionType](/cells/python-net/ru/aspose.cells/textdirectiontype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ListBox`](/cells/python-net/ru/aspose.cells.drawing/listbox)
+* класс [`TextDirectionType`](/cells/python-net/ru/aspose.cells/textdirectiontype)

@@ -1,15 +1,15 @@
 ---
-title: is_h_scroll_bar_visible الملكية
+title: is_h_scroll_bar_visible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 240
 url: /ar/aspose.cells/workbooksettings/is_h_scroll_bar_visible/
 is_root: false
 ---
-##  is_h_scroll_bar_visible الملكية
+##  is_h_scroll_bar_visible عقار
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان جدول البيانات الذي تم إنشاؤه سيحتوي على شريط تمرير أفقي.
+الحصول على قيمة أو تعيينها تشير إلى ما إذا كان جدول البيانات الذي تم إنشاؤه سيحتوي على شريط تمرير أفقي.
 
 ###  ملاحظات
 
@@ -17,7 +17,7 @@ is_root: false
 
 ###  مثال
 
-تجعل التعليمات البرمجية التالية شريط التمرير الأفقي غير مرئي لجدول البيانات.
+التعليمة البرمجية التالية تجعل شريط التمرير الأفقي غير مرئي لجدول البيانات.
 
 ```python
 
@@ -36,5 +36,5 @@ def is_h_scroll_bar_visible(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

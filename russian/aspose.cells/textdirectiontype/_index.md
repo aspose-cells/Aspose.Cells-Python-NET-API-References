@@ -1,9 +1,9 @@
 ---
 title: TextDirectionType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2550
+weight: 2640
 url: /ru/aspose.cells/textdirectiontype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип TextDirectionType предоставляет следующие члены:
+Тип TextDirectionType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

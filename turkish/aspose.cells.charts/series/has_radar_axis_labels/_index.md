@@ -3,13 +3,13 @@ title: has_radar_axis_labels mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 230
+weight: 220
 url: /tr/aspose.cells.charts/series/has_radar_axis_labels/
 is_root: false
 ---
 ##  has_radar_axis_labels mülk
 
-Bir radar grafiğinin kategori ekseni etiketleri varsa doğrudur. Yalnızca radar haritaları için geçerlidir.
+Bir radar grafiğinde kategori ekseni etiketleri varsa doğrudur. Yalnızca radar grafikleri için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_radar_axis_labels(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

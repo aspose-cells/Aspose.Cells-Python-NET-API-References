@@ -3,7 +3,7 @@ title: paths propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 830
+weight: 850
 url: /es/aspose.cells.drawing/radiobutton/paths/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [RadioButton](/cells/python-net/es/aspose.cells.drawing/radiobutton)
-* clase [ShapePathCollection](/cells/python-net/es/aspose.cells.drawing/shapepathcollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`RadioButton`](/cells/python-net/es/aspose.cells.drawing/radiobutton)
+* clase [`ShapePathCollection`](/cells/python-net/es/aspose.cells.drawing/shapepathcollection)

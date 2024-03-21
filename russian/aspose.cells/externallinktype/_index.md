@@ -1,9 +1,9 @@
 ---
 title: ExternalLinkType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2030
+weight: 2100
 url: /ru/aspose.cells/externallinktype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип ExternalLinkType предоставляет следующие члены:
+Тип ExternalLinkType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

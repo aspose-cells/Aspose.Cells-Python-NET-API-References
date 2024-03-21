@@ -3,13 +3,13 @@ title: parsing_formula_on_open proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 270
+weight: 320
 url: /it/aspose.cells/txtloadoptions/parsing_formula_on_open/
 is_root: false
 ---
 ##  parsing_formula_on_open proprietà
 
-Indica se analizzare la formula durante la lettura del file.
+Indica se si sta analizzando la formula durante la lettura del file.
 
 ###  Osservazioni
 
@@ -26,5 +26,5 @@ def parsing_formula_on_open(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [TxtLoadOptions](/cells/python-net/it/aspose.cells/txtloadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`TxtLoadOptions`](/cells/python-net/it/aspose.cells/txtloadoptions)

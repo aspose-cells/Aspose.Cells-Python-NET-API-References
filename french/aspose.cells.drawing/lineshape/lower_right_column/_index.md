@@ -3,13 +3,13 @@ title: lower_right_column propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 820
+weight: 830
 url: /fr/aspose.cells.drawing/lineshape/lower_right_column/
 is_root: false
 ---
 ##  lower_right_column propriété
 
-Représente l'index de la colonne du coin inférieur droit.
+Représente l’index de la colonne du coin inférieur droit.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def lower_right_column(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [LineShape](/cells/python-net/fr/aspose.cells.drawing/lineshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`LineShape`](/cells/python-net/fr/aspose.cells.drawing/lineshape)

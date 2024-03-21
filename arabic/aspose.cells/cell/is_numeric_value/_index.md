@@ -1,15 +1,15 @@
 ---
-title: is_numeric_value الملكية
+title: is_numeric_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 620
 url: /ar/aspose.cells/cell/is_numeric_value/
 is_root: false
 ---
-##  is_numeric_value الملكية
+##  is_numeric_value عقار
 
-الإشارة إلى ما إذا كانت القيمة الداخلية لهذه الخلية رقمية (عدد صحيح ومزدوج وتاريخ ووقت)
+يشير إلى ما إذا كانت قيمة هذه الخلية رقمية (int، double و datetime)
 
 ###  ملاحظات
 
@@ -22,5 +22,5 @@ def is_numeric_value(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

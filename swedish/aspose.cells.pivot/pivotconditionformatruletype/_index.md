@@ -3,7 +3,7 @@ title: PivotConditionFormatRuleType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 240
 url: /sv/aspose.cells.pivot/pivotconditionformatruletype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen PivotConditionFormatRuleType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.pivot](..)
+* modul [`aspose.cells.pivot`](..)

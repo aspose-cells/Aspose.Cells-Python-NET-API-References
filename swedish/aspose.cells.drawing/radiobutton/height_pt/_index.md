@@ -3,7 +3,7 @@ title: height_pt fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 470
+weight: 490
 url: /sv/aspose.cells.drawing/radiobutton/height_pt/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representerar höjden på formen, i punktenhet.
 ```python
 
 if shape.height_pt == 3:
-    shape.height_pt = 1
+    shape.height_pt = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def height_pt(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RadioButton](/cells/python-net/sv/aspose.cells.drawing/radiobutton)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RadioButton`](/cells/python-net/sv/aspose.cells.drawing/radiobutton)

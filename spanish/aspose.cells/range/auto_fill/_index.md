@@ -1,14 +1,14 @@
 ---
-title: auto_fill método
+title: método auto_fill
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 30
+weight: 40
 url: /es/aspose.cells/range/auto_fill/
 is_root: false
 ---
-##  auto_fill(target) {#Range}
-Automaticall llena el rango objetivo.
+##  auto_fill {#aspose.cells.Range}
+Completa automáticamente el rango objetivo.
 
 
 
@@ -20,7 +20,7 @@ def auto_fill(self, target):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| target | [Range](/cells/python-net/es/aspose.cells/range) | el rango objetivo.|
+| target | [`Range`](/cells/python-net/es/aspose.cells/range) | el rango objetivo.|
 
 ###  Ejemplo
 
@@ -43,8 +43,8 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  auto_fill(target, auto_fill_type) {#Range-AutoFillType}
-Automaticall llena el rango objetivo.
+##  auto_fill {#aspose.cells.Range-aspose.cells.AutoFillType}
+Completa automáticamente el rango objetivo.
 
 
 
@@ -56,11 +56,11 @@ def auto_fill(self, target, auto_fill_type):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| target | [Range](/cells/python-net/es/aspose.cells/range) | El rango objetivo.|
-| auto_fill_type | [AutoFillType](/cells/python-net/es/aspose.cells/autofilltype) | El tipo de relleno automático.|
+| target | [`Range`](/cells/python-net/es/aspose.cells/range) | El rango objetivo.|
+| auto_fill_type | [`AutoFillType`](/cells/python-net/es/aspose.cells/autofilltype) | El tipo de autocompletar.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Range](/cells/python-net/es/aspose.cells/range)
+* módulo [`aspose.cells`](../../)
+* clase [`Range`](/cells/python-net/es/aspose.cells/range)

@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  annotations_permission fastighet
 
-Tillåtelse att kommentera dokumentet.
+Anger om det ska tillåtas att lägga till eller ändra textkommentarer, fyll i interaktiva formulärfält.
+
+###  Anmärkningar
+
+om [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) också är inställt, skapa eller ändra interaktiva formulärfält (inklusive signaturfält).
 ###  Definition:
 ```python
 @property
@@ -21,5 +25,5 @@ def annotations_permission(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering.pdfsecurity](../../)
-* klass [PdfSecurityOptions](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modul [`aspose.cells.rendering.pdfsecurity`](../../)
+* klass [`PdfSecurityOptions`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

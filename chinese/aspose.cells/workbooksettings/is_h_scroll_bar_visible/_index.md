@@ -1,13 +1,13 @@
 ---
-title: is_h_scroll_bar_visible 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_h_scroll_bar_visible属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 240
 url: /zh/aspose.cells/workbooksettings/is_h_scroll_bar_visible/
 is_root: false
 ---
-## is_h_scroll_bar_visible 属性
+## is_h_scroll_bar_visible属性
 
 获取或设置一个值，该值指示生成的电子表格是否包含水平滚动条。
 
@@ -17,7 +17,7 @@ is_root: false
 
 ### 例子
 
-以下代码使电子表格的水平滚动条不可见。
+以下代码使水平滚动条对于电子表格不可见。
 
 ```python
 
@@ -36,5 +36,5 @@ def is_h_scroll_bar_visible(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)

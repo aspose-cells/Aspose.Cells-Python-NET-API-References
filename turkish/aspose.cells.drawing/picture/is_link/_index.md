@@ -3,7 +3,7 @@ title: is_link mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 690
+weight: 700
 url: /tr/aspose.cells.drawing/picture/is_link/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_link(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)

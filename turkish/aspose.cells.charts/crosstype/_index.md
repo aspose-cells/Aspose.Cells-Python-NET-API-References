@@ -3,7 +3,7 @@ title: CrossType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 460
+weight: 470
 url: /tr/aspose.cells.charts/crosstype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Eksen çapraz tipini temsil eder.
 
 
 
-CrossType türü aşağıdaki üyeleri gösterir:
+CrossType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| AUTOMATIC | Microsoft Excel, eksen kesişme noktasını ayarlar.|
-| MAXIMUM | Eksen maksimum değerde kesişiyor.|
+| AUTOMATIC | Microsoft Excel eksen geçiş noktasını ayarlar.|
+| MAXIMUM | Eksen maksimum değerde kesişir.|
 | MINIMUM | Eksen minimum değerde kesişir.|
-| CUSTOM | Eksen özel değerde kesişiyor.|
+| CUSTOM | Eksen özel değerde kesişir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

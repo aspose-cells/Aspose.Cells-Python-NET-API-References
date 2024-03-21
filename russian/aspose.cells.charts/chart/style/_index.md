@@ -1,19 +1,19 @@
 ---
 title: style недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 580
+weight: 610
 url: /ru/aspose.cells.charts/chart/style/
 is_root: false
 ---
 ##  style недвижимость
 
-Получает и задает встроенный style.
+Получает и устанавливает встроенный style.
 
 ###  Примечания
 
-Должно быть от 1 до 48.
+Оно должно быть между 1 и 48.
 Верните -1, если он не установлен.
 ###  Определение:
 ```python
@@ -26,5 +26,5 @@ def style(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)

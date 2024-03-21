@@ -3,13 +3,13 @@ title: reflection Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 890
+weight: 900
 url: /de/aspose.cells.drawing/arcshape/reflection/
 is_root: false
 ---
 ##  reflection Eigentum
 
-Stellt ein [ReflectionEffect](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)-Objekt dar, das den reflection-Effekt für das Diagrammelement oder die Form angibt.
+Stellt ein [`ReflectionEffect`](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)-Objekt dar, das den reflection-Effekt für das Diagrammelement oder die Form angibt.
 
 ###  Beispiel
 
@@ -26,6 +26,6 @@ def reflection(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ArcShape](/cells/python-net/de/aspose.cells.drawing/arcshape)
-* Klasse [ReflectionEffect](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ArcShape`](/cells/python-net/de/aspose.cells.drawing/arcshape)
+* Klasse [`ReflectionEffect`](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)

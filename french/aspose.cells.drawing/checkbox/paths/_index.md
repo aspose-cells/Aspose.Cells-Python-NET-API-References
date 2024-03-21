@@ -3,13 +3,13 @@ title: paths propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 830
+weight: 840
 url: /fr/aspose.cells.drawing/checkbox/paths/
 is_root: false
 ---
 ##  paths propriété
 
-Obtient le paths d'une forme géométrique personnalisée.
+Obtient le paths d’une forme géométrique personnalisée.
 
 ###  Exemple
 
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [CheckBox](/cells/python-net/fr/aspose.cells.drawing/checkbox)
-* classe [ShapePathCollection](/cells/python-net/fr/aspose.cells.drawing/shapepathcollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`CheckBox`](/cells/python-net/fr/aspose.cells.drawing/checkbox)
+* classe [`ShapePathCollection`](/cells/python-net/fr/aspose.cells.drawing/shapepathcollection)

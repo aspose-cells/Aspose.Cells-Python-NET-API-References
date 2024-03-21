@@ -1,19 +1,19 @@
 ---
 title: get_cell_by_index方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells/row/get_cell_by_index/
 is_root: false
 ---
-##  get_cell_by_index(index) {#int}
-通过列表中的特定索引获取单元格。
+##  get_cell_by_index {#int}
+获取该行单元格集合中特定索引的单元格。
 
 
-### 返回
+### 退货
 
-Cell 对象。
+给定位置的 Cell 对象。
 
 
 ```python
@@ -24,15 +24,13 @@ def get_cell_by_index(self, index):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| index | int |的位置。|
+| index | int |该行的单元格集合中单元格的索引（位置）。|
 ### 评论
 
-注意：该成员现已过时。
-相反，请使用 Row.GetEnumerator() 方法迭代此行中的所有单元格。
-自 2015 年 2 月起 12 个月后，此属性将被删除。
-Aspose 对您可能遇到的任何不便深表歉意。
+要按顺序遍历所有单元格而不进行修改，
+使用 [`Row.get_enumerator`](/cells/python-net/zh/aspose.cells/row/get_enumerator) 比使用此方法逐一获取单元格的性能更好。
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Row](/cells/python-net/zh/aspose.cells/row)
+* 模块[`aspose.cells`](../../)
+* 类 [`Row`](/cells/python-net/zh/aspose.cells/row)

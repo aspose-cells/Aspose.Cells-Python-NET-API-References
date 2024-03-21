@@ -1,15 +1,15 @@
 ---
 title: is_vertical недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 90
+weight: 110
 url: /ru/aspose.cells/exporttableoptions/is_vertical/
 is_root: false
 ---
 ##  is_vertical недвижимость
 
-Истинно, если строка в файле рабочей книги представляет строку в DataTable. False, если столбец в файле рабочей книги представляет строку в DataTable.
+Истинно, если строка в файле книги представляет строку в DataTable. Значение false, если столбец в файле книги представляет строку в DataTable.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_vertical(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ExportTableOptions](/cells/python-net/ru/aspose.cells/exporttableoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ExportTableOptions`](/cells/python-net/ru/aspose.cells/exporttableoptions)

@@ -3,7 +3,7 @@ title: type proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1110
+weight: 1120
 url: /it/aspose.cells.drawing/chartshape/type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [AutoShapeType](/cells/python-net/it/aspose.cells.drawing/autoshapetype)
-* classe [ChartShape](/cells/python-net/it/aspose.cells.drawing/chartshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`AutoShapeType`](/cells/python-net/it/aspose.cells.drawing/autoshapetype)
+* classe [`ChartShape`](/cells/python-net/it/aspose.cells.drawing/chartshape)

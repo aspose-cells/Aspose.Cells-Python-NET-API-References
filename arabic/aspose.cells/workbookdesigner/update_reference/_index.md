@@ -1,13 +1,13 @@
 ---
-title: update_reference الملكية
+title: update_reference عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ar/aspose.cells/workbookdesigner/update_reference/
 is_root: false
 ---
-##  update_reference الملكية
+##  update_reference عقار
 
 يشير إلى ما إذا كان سيتم تحديث المراجع في أوراق العمل الأخرى.
 ###  تعريف:
@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookDesigner](/cells/python-net/ar/aspose.cells/workbookdesigner)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookDesigner`](/cells/python-net/ar/aspose.cells/workbookdesigner)

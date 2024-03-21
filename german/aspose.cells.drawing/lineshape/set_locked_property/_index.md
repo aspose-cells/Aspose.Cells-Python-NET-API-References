@@ -3,11 +3,11 @@ title: set_locked_property Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 190
+weight: 210
 url: /de/aspose.cells.drawing/lineshape/set_locked_property/
 is_root: false
 ---
-##  set_locked_property(type, value) {#ShapeLockType-bool}
+##  set_locked_property {#aspose.cells.drawing.ShapeLockType-bool}
 Legen Sie die gesperrte Eigenschaft fest.
 
 
@@ -20,7 +20,7 @@ def set_locked_property(self, type, value):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| type | [ShapeLockType](/cells/python-net/de/aspose.cells.drawing/shapelocktype) | Der gesperrte Typ.|
+| type | [`ShapeLockType`](/cells/python-net/de/aspose.cells.drawing/shapelocktype) | Der gesperrte Typ.|
 | value | bool | Der Wert der Immobilie.|
 
 ###  Beispiel
@@ -35,5 +35,5 @@ shape.set_locked_property(ShapeLockType.ADJUST_HANDLES, True)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LineShape](/cells/python-net/de/aspose.cells.drawing/lineshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LineShape`](/cells/python-net/de/aspose.cells.drawing/lineshape)

@@ -3,7 +3,7 @@ title: is_in_group propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 580
+weight: 590
 url: /es/aspose.cells.drawing/cellsdrawing/is_in_group/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_in_group(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CellsDrawing](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CellsDrawing`](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)

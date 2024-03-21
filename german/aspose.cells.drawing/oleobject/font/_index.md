@@ -3,13 +3,13 @@ title: font Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 420
+weight: 440
 url: /de/aspose.cells.drawing/oleobject/font/
 is_root: false
 ---
 ##  font Eigentum
 
-Repräsentiert die Form font.
+Stellt die Form font dar.
 
 ###  Beispiel
 
@@ -33,6 +33,6 @@ def font(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
-* Klasse [OleObject](/cells/python-net/de/aspose.cells.drawing/oleobject)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)
+* Klasse [`OleObject`](/cells/python-net/de/aspose.cells.drawing/oleobject)

@@ -1,13 +1,13 @@
 ---
-title: separator_value 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: separator_value属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 350
+weight: 340
 url: /zh/aspose.cells.charts/datalabels/separator_value/
 is_root: false
 ---
-## separator_value 属性
+## separator_value属性
 
 获取或设置用于图表上数据标签的分隔符值。
 ### 定义：
@@ -21,5 +21,5 @@ def separator_value(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [DataLabels](/cells/python-net/zh/aspose.cells.charts/datalabels)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`DataLabels`](/cells/python-net/zh/aspose.cells.charts/datalabels)

@@ -1,15 +1,15 @@
 ---
-title: window_width_inch 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: window_width_inch属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 750
+weight: 630
 url: /zh/aspose.cells/workbooksettings/window_width_inch/
 is_root: false
 ---
-## window_width_inch 属性
+## window_width_inch属性
 
-窗口的宽度，以英寸为单位。
+窗口的宽度，单位为英寸。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def window_width_inch(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)

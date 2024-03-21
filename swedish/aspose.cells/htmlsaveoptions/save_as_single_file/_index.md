@@ -3,7 +3,7 @@ title: save_as_single_file fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 550
+weight: 620
 url: /sv/aspose.cells/htmlsaveoptions/save_as_single_file/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Standardvärdet är falskt.
 ###  Anmärkningar
 
 Om det finns flera kalkylblad eller andra nödvändiga resurser som bilder i arbetsboken,
-Vanligtvis måste dessa kalkylblad och andra resurser sparas i separata filer.
+ Vanligtvis måste dessa kalkylblad och andra resurser sparas i separata filer.
 För vissa scenarier kanske användaren behöver bara få en resulterande fil, till exempel för att underlätta överföringen.
 Om så är fallet kan användaren ställa in den här egenskapen som true.
 ###  Definition:
@@ -29,5 +29,5 @@ def save_as_single_file(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

@@ -3,7 +3,7 @@ title: height_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 140
 url: /sv/aspose.cells/comment/height_inch/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def height_inch(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Comment](/cells/python-net/sv/aspose.cells/comment)
+* modul [`aspose.cells`](../../)
+* klass [`Comment`](/cells/python-net/sv/aspose.cells/comment)

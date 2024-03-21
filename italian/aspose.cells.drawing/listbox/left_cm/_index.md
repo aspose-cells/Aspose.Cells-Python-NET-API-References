@@ -3,20 +3,20 @@ title: left_cm proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 700
+weight: 710
 url: /it/aspose.cells.drawing/listbox/left_cm/
 is_root: false
 ---
 ##  left_cm proprietà
 
-Rappresenta l'offset orizzontale della forma dalla colonna sinistra, in unità di centimetri.
+Rappresenta l'offset orizzontale della forma dalla colonna di sinistra, in unità di centimetri.
 
 ###  Esempio
 
 ```python
 
 if shape.left_cm == 3:
-    shape.left_cm = 1
+    shape.left_cm = 1.0
 
 ```
 ###  Definizione:
@@ -30,5 +30,5 @@ def left_cm(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ListBox](/cells/python-net/it/aspose.cells.drawing/listbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ListBox`](/cells/python-net/it/aspose.cells.drawing/listbox)

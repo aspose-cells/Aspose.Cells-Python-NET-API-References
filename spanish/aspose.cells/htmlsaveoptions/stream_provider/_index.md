@@ -3,7 +3,7 @@ title: stream_provider propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 600
+weight: 670
 url: /es/aspose.cells/htmlsaveoptions/stream_provider/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def stream_provider(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HtmlSaveOptions](/cells/python-net/es/aspose.cells/htmlsaveoptions)
-* clase [IStreamProvider](/cells/python-net/es/aspose.cells/istreamprovider)
+* módulo [`aspose.cells`](../../)
+* clase [`HtmlSaveOptions`](/cells/python-net/es/aspose.cells/htmlsaveoptions)
+* clase [`IStreamProvider`](/cells/python-net/es/aspose.cells/istreamprovider)

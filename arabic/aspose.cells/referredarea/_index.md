@@ -1,41 +1,41 @@
 ---
-title: ReferredArea الدرجة
+title: ReferredArea صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1270
+weight: 1310
 url: /ar/aspose.cells/referredarea/
 is_root: false
 ---
-##  ReferredArea الدرجة
-يمثل منطقة مشار إليها بالصيغة.
+##  ReferredArea صف
+يمثل المنطقة المشار إليها بواسطة الصيغة.
 
 
 
-يكشف نوع ReferredArea الأعضاء التالية:
+يكشف النوع ReferredArea عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [is_external_link](/cells/python-net/ar/aspose.cells/referredarea/is_external_link) | يشير إلى ما إذا كان هذا ارتباطًا خارجيًا.|
+| [is_external_link](/cells/python-net/ar/aspose.cells/referredarea/is_external_link) | يشير إلى ما إذا كان هذا رابط خارجي.|
 | [external_file_name](/cells/python-net/ar/aspose.cells/referredarea/external_file_name) | احصل على اسم الملف الخارجي إذا كان هذا مرجعًا خارجيًا.|
 | [sheet_name](/cells/python-net/ar/aspose.cells/referredarea/sheet_name) |يشير إلى الورقة التي يوجد بها هذا المرجع.|
 | [is_area](/cells/python-net/ar/aspose.cells/referredarea/is_area) | يشير إلى ما إذا كانت هذه منطقة.|
-| [end_column](/cells/python-net/ar/aspose.cells/referredarea/end_column) | عمود نهاية المنطقة.|
+| [end_column](/cells/python-net/ar/aspose.cells/referredarea/end_column) | العمود النهائي للمنطقة.|
 | [start_column](/cells/python-net/ar/aspose.cells/referredarea/start_column) | عمود البداية للمنطقة.|
-| [end_row](/cells/python-net/ar/aspose.cells/referredarea/end_row) | صف نهاية المنطقة.|
+| [end_row](/cells/python-net/ar/aspose.cells/referredarea/end_row) | الصف نهاية المنطقة.|
 | [start_row](/cells/python-net/ar/aspose.cells/referredarea/start_row) | صف البداية للمنطقة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_values()](/cells/python-net/ar/aspose.cells/referredarea/get_values/#) | الحصول على قيم الخلية في هذه المنطقة.|
-| [get_values(calculate_formulas)](/cells/python-net/ar/aspose.cells/referredarea/get_values/#bool) | الحصول على قيم الخلية في هذه المنطقة.|
-| [get_value(row_offset, col_offset)](/cells/python-net/ar/aspose.cells/referredarea/get_value/#int-int) | الحصول على قيمة الخلية بإزاحة معينة من أعلى يسار هذه المنطقة.|
-| [get_value(row_offset, col_offset, calculate_formulas)](/cells/python-net/ar/aspose.cells/referredarea/get_value/#int-int-bool) | الحصول على قيمة الخلية بإزاحة معينة من أعلى يسار هذه المنطقة.|
+| [get_values](/cells/python-net/ar/aspose.cells/referredarea/get_values/#) | يحصل على قيم الخلايا في هذه المنطقة.|
+| [get_values](/cells/python-net/ar/aspose.cells/referredarea/get_values/#bool) | يحصل على قيم الخلايا في هذه المنطقة.|
+| [get_value](/cells/python-net/ar/aspose.cells/referredarea/get_value/#int-int) | يحصل على قيمة الخلية بإزاحة معينة من أعلى يسار هذه المنطقة.|
+| [get_value](/cells/python-net/ar/aspose.cells/referredarea/get_value/#int-int-bool) | يحصل على قيمة الخلية بإزاحة معينة من أعلى يسار هذه المنطقة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

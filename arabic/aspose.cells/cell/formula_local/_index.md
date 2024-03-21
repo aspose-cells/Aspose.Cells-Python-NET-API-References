@@ -1,15 +1,15 @@
 ---
-title: formula_local الملكية
+title: formula_local عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 470
+weight: 500
 url: /ar/aspose.cells/cell/formula_local/
 is_root: false
 ---
-##  formula_local الملكية
+##  formula_local عقار
 
-احصل على الصيغة المحلية للخلية.
+احصل على الصيغة المنسقة للخلية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def formula_local(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

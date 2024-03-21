@@ -3,7 +3,7 @@ title: upper_delta_x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /sv/aspose.cells.drawing/groupbox/upper_delta_x/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def upper_delta_x(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GroupBox](/cells/python-net/sv/aspose.cells.drawing/groupbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GroupBox`](/cells/python-net/sv/aspose.cells.drawing/groupbox)

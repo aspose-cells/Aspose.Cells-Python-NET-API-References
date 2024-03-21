@@ -3,7 +3,7 @@ title: draw_object_event_handler propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 110
+weight: 120
 url: /fr/aspose.cells/pptxsaveoptions/draw_object_event_handler/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def draw_object_event_handler(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DrawObjectEventHandler](/cells/python-net/fr/aspose.cells.rendering/drawobjecteventhandler)
-* classe [PptxSaveOptions](/cells/python-net/fr/aspose.cells/pptxsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`DrawObjectEventHandler`](/cells/python-net/fr/aspose.cells.rendering/drawobjecteventhandler)
+* classe [`PptxSaveOptions`](/cells/python-net/fr/aspose.cells/pptxsaveoptions)

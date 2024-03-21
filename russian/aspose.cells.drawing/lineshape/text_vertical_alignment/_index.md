@@ -1,9 +1,9 @@
 ---
 title: text_vertical_alignment недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /ru/aspose.cells.drawing/lineshape/text_vertical_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineShape](/cells/python-net/ru/aspose.cells.drawing/lineshape)
-* класс [TextAlignmentType](/cells/python-net/ru/aspose.cells/textalignmenttype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineShape`](/cells/python-net/ru/aspose.cells.drawing/lineshape)
+* класс [`TextAlignmentType`](/cells/python-net/ru/aspose.cells/textalignmenttype)

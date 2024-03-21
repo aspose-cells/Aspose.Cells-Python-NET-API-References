@@ -3,7 +3,7 @@ title: control_data proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 350
+weight: 370
 url: /it/aspose.cells.drawing/picture/control_data/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def control_data(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

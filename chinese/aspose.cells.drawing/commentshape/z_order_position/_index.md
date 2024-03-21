@@ -1,13 +1,13 @@
 ---
-title: z_order_position 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: z_order_position属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1250
+weight: 1260
 url: /zh/aspose.cells.drawing/commentshape/z_order_position/
 is_root: false
 ---
-## z_order_position 属性
+## z_order_position属性
 
 返回形状在 z 顺序中的位置。
 
@@ -29,5 +29,5 @@ def z_order_position(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CommentShape](/cells/python-net/zh/aspose.cells.drawing/commentshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CommentShape`](/cells/python-net/zh/aspose.cells.drawing/commentshape)

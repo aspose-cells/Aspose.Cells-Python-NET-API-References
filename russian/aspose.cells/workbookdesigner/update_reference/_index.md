@@ -1,15 +1,15 @@
 ---
 title: update_reference недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ru/aspose.cells/workbookdesigner/update_reference/
 is_root: false
 ---
 ##  update_reference недвижимость
 
-Указывает, будут ли обновлены ссылки на других рабочих листах.
+Указывает, будут ли обновляться ссылки на других листах.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookDesigner](/cells/python-net/ru/aspose.cells/workbookdesigner)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookDesigner`](/cells/python-net/ru/aspose.cells/workbookdesigner)

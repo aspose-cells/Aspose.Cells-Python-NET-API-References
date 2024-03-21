@@ -1,9 +1,9 @@
 ---
 title: image_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 580
+weight: 590
 url: /ru/aspose.cells.drawing/picture/image_type/
 is_root: false
 ---
@@ -42,6 +42,6 @@ def image_type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ImageType](/cells/python-net/ru/aspose.cells.drawing/imagetype)
-* класс [Picture](/cells/python-net/ru/aspose.cells.drawing/picture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ImageType`](/cells/python-net/ru/aspose.cells.drawing/imagetype)
+* класс [`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture)

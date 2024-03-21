@@ -1,13 +1,13 @@
 ---
-title: printing_page الملكية
+title: printing_page عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ar/aspose.cells.rendering/imageorprintoptions/printing_page/
 is_root: false
 ---
-##  printing_page الملكية
+##  printing_page عقار
 
 يشير إلى الصفحات التي لن تتم طباعتها.
 ###  تعريف:
@@ -21,6 +21,6 @@ def printing_page(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
-* فئة [PrintingPageType](/cells/python-net/ar/aspose.cells/printingpagetype)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* فئة [`PrintingPageType`](/cells/python-net/ar/aspose.cells/printingpagetype)

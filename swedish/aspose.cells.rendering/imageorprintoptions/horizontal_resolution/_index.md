@@ -3,7 +3,7 @@ title: horizontal_resolution fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 140
 url: /sv/aspose.cells.rendering/imageorprintoptions/horizontal_resolution/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def horizontal_resolution(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)

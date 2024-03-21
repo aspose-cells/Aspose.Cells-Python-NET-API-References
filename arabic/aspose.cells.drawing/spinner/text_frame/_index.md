@@ -1,22 +1,22 @@
 ---
-title: text_frame الملكية
+title: text_frame عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /ar/aspose.cells.drawing/spinner/text_frame/
 is_root: false
 ---
-##  text_frame الملكية
+##  text_frame عقار
 
-إرجاع كائن TextFrame يحتوي على خصائص المحاذاة والتثبيت للشكل المحدد.
+تقوم بإرجاع كائن TextFrame الذي يحتوي على خصائص المحاذاة والتثبيت للشكل المحدد.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
- الرجاء استخدام خاصية Shape.TextBody.TextAlignment.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ مايو 2016.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ملاحظة: هذا العضو قديم الآن. بدلاً من،
+ الرجاء استخدام الخاصية Shape.TextBody.TextAlignment.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ مايو 2016.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -25,6 +25,6 @@ def text_frame(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoTextFrame](/cells/python-net/ar/aspose.cells.drawing/msotextframe)
-* فئة [Spinner](/cells/python-net/ar/aspose.cells.drawing/spinner)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoTextFrame`](/cells/python-net/ar/aspose.cells.drawing/msotextframe)
+* فئة [`Spinner`](/cells/python-net/ar/aspose.cells.drawing/spinner)

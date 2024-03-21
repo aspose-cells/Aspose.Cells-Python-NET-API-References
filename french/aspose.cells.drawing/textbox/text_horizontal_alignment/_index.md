@@ -3,13 +3,13 @@ title: text_horizontal_alignment propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 960
+weight: 980
 url: /fr/aspose.cells.drawing/textbox/text_horizontal_alignment/
 is_root: false
 ---
 ##  text_horizontal_alignment propriété
 
-Obtient et définit le type d'alignement horizontal du texte de la forme.
+Obtient et définit le type d’alignement horizontal du texte de la forme.
 
 ###  Exemple
 
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TextAlignmentType](/cells/python-net/fr/aspose.cells/textalignmenttype)
-* classe [TextBox](/cells/python-net/fr/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TextAlignmentType`](/cells/python-net/fr/aspose.cells/textalignmenttype)
+* classe [`TextBox`](/cells/python-net/fr/aspose.cells.drawing/textbox)

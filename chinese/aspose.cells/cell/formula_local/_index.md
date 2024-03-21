@@ -1,15 +1,15 @@
 ---
-title: formula_local 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: formula_local属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 470
+weight: 500
 url: /zh/aspose.cells/cell/formula_local/
 is_root: false
 ---
-## formula_local 属性
+## formula_local属性
 
-获取单元格的语言环境格式化公式。
+获取单元格的区域设置格式的公式。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def formula_local(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cell](/cells/python-net/zh/aspose.cells/cell)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cell`](/cells/python-net/zh/aspose.cells/cell)

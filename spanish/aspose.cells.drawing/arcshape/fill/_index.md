@@ -3,13 +3,13 @@ title: fill propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 390
+weight: 410
 url: /es/aspose.cells.drawing/arcshape/fill/
 is_root: false
 ---
 ##  fill propiedad
 
-Devuelve un objeto [Shape.fill_format](/cells/python-net/es/aspose.cells.drawing/shape#fill_format) que contiene propiedades de formato fill para la forma especificada.
+Devuelve un objeto [`Shape.fill_format`](/cells/python-net/es/aspose.cells.drawing/shape#fill_format) que contiene fill propiedades de formato para la forma especificada.
 
 ###  Ejemplo
 
@@ -26,6 +26,6 @@ def fill(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ArcShape](/cells/python-net/es/aspose.cells.drawing/arcshape)
-* clase [FillFormat](/cells/python-net/es/aspose.cells.drawing/fillformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ArcShape`](/cells/python-net/es/aspose.cells.drawing/arcshape)
+* clase [`FillFormat`](/cells/python-net/es/aspose.cells.drawing/fillformat)

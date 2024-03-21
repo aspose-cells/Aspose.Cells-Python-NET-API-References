@@ -7,7 +7,7 @@ weight: 40
 url: /sv/aspose.cells/abstractcalculationmonitor/on_circular/
 is_root: false
 ---
-##  on_circular(circular_cells_data) {#collections.abc.Iterator}
+##  on_circular {#collections.abc.Iterator}
 Implementera denna metod för att göra affärer när du beräknar formler med cirkulära referenser.
 
 
@@ -26,13 +26,14 @@ def on_circular(self, circular_cells_data):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| circular_cells_data | collections.abc.Iterator | IEnumerator med CalculationCell-objekt som representerar celler som<br/> beror på cirkulära referenser.|
+| circular_cells_data | collections.abc.Iterator | IEnumerator med [`CalculationCell`](/cells/python-net/sv/aspose.cells/calculationcell) objekt som representerar celler som<br/> beror på cirkulära referenser.|
 ###  Anmärkningar
 
-implementeringen kan användaren också ställa in det förväntade värdet som beräknat resultat
+I implementeringen kan användaren också ställa in det förväntade värdet som beräknat resultat
 för en del/alla av dessa celler så att formelmotorn inte kommer att beräkna dem rekursivt.
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AbstractCalculationMonitor](/cells/python-net/sv/aspose.cells/abstractcalculationmonitor)
+* modul [`aspose.cells`](../../)
+* klass [`AbstractCalculationMonitor`](/cells/python-net/sv/aspose.cells/abstractcalculationmonitor)
+* klass [`CalculationCell`](/cells/python-net/sv/aspose.cells/calculationcell)

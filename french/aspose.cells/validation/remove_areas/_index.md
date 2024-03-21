@@ -1,13 +1,13 @@
 ---
-title: remove_areas méthode
+title: méthode remove_areas
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 100
+weight: 110
 url: /fr/aspose.cells/validation/remove_areas/
 is_root: false
 ---
-##  remove_areas(areas) {#list}
+##  remove_areas {#list}
 Supprime cette validation des zones données.
 
 
@@ -20,10 +20,10 @@ def remove_areas(self, areas):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| areas | list | les zones où ces paramètres de validation doivent être supprimés.|
+| areas | list | les zones dans lesquelles ces paramètres de validation doivent être supprimés.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Validation](/cells/python-net/fr/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* classe [`Validation`](/cells/python-net/fr/aspose.cells/validation)

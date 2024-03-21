@@ -3,7 +3,7 @@ title: table_css_id fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 610
+weight: 680
 url: /sv/aspose.cells/htmlsaveoptions/table_css_id/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def table_css_id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

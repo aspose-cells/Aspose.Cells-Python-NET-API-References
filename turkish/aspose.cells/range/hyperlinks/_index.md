@@ -3,7 +3,7 @@ title: hyperlinks mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 330
+weight: 350
 url: /tr/aspose.cells/range/hyperlinks/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def hyperlinks(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
+* modül [`aspose.cells`](../../)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)

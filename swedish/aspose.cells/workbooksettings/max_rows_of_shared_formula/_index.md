@@ -3,7 +3,7 @@ title: max_rows_of_shared_formula fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 320
 url: /sv/aspose.cells/workbooksettings/max_rows_of_shared_formula/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def max_rows_of_shared_formula(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

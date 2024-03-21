@@ -1,13 +1,13 @@
 ---
-title: metodo is_same_setting
+title: Metodo is_same_setting
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 130
+weight: 150
 url: /it/aspose.cells.drawing/button/is_same_setting/
 is_root: false
 ---
-##  is_same_setting(obj) {#any}
+##  is_same_setting {#any}
 Restituisce se la forma è la stessa.
 
 
@@ -38,5 +38,5 @@ if shape.is_same_setting(shape):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Button](/cells/python-net/it/aspose.cells.drawing/button)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Button`](/cells/python-net/it/aspose.cells.drawing/button)

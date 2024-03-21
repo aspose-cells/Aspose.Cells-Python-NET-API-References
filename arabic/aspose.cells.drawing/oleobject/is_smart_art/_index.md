@@ -1,13 +1,13 @@
 ---
-title: is_smart_art الملكية
+title: is_smart_art عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 760
+weight: 770
 url: /ar/aspose.cells.drawing/oleobject/is_smart_art/
 is_root: false
 ---
-##  is_smart_art الملكية
+##  is_smart_art عقار
 
 يشير إلى ما إذا كان الشكل فنًا ذكيًا.
 
@@ -32,5 +32,5 @@ def is_smart_art(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

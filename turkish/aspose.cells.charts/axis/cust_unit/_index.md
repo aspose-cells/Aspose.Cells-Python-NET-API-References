@@ -3,20 +3,20 @@ title: cust_unit mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 130
 url: /tr/aspose.cells.charts/axis/cust_unit/
 is_root: false
 ---
 ##  cust_unit mülk
 
-Görüntü birimi için özel bir değer belirtir.
+Görüntüleme birimi için özel bir değer belirtir.
 
 ###  Notlar
 
- NOT: Bu özellik artık kullanılmamaktadır. Yerine,
+ NOT: Bu özellik artık kullanılmıyor. Yerine,
 lütfen Axis.CustomUnit özelliğini kullanın.
- Bu mülk, Ocak 2023'ten bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+ Bu mülk, Ocak 2023'ten 12 ay sonra kaldırılacaktır.
+Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -28,5 +28,5 @@ def cust_unit(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Axis](/cells/python-net/tr/aspose.cells.charts/axis)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Axis`](/cells/python-net/tr/aspose.cells.charts/axis)

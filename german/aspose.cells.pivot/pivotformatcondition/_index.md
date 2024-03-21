@@ -3,12 +3,12 @@ title: PivotFormatCondition Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 120
 url: /de/aspose.cells.pivot/pivotformatcondition/
 is_root: false
 ---
 ##  PivotFormatCondition Klasse
-Stellt eine PivotTable-Formatbedingung in der Sammlung PivotFormatCondition dar.
+Stellt eine PivotTable-Formatbedingung in der PivotFormatCondition-Sammlung dar.
 
 
 
@@ -17,21 +17,21 @@ Der Typ PivotFormatCondition macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [scope_type](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/scope_type) | Abrufen und Festlegen des Bereichstyps für das Bedingungsformat der Pivot-Tabelle .|
-| [rule_type](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/rule_type) | Abrufen und Festlegen des Regeltyps für das Bedingungsformat der Pivot-Tabelle .|
-| [format_conditions](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/format_conditions) | Rufen Sie formatconditions für das Format der Pivot-Tabellenbedingung ab.|
+| [scope_type](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/scope_type) | Holen Sie sich den Bereichstyp für das Bedingungsformat der Pivot-Tabelle und legen Sie ihn fest.|
+| [rule_type](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/rule_type) | Rufen Sie den Regeltyp für das Bedingungsformat der Pivot-Tabelle ab und legen Sie ihn fest.|
+| [format_conditions](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/format_conditions) | Rufen Sie Formatbedingungen für das Bedingungsformat der Pivot-Tabelle ab.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add_data_area_condition(field_name)](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) | Fügt das bedingte PivotTable-Formatlimit in den Datenfeldern hinzu.|
-| [add_data_area_condition(data_field)](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#PivotField) | Fügt das bedingte PivotTable-Formatlimit in den Datenfeldern hinzu.|
-| [add_row_area_condition(field_name)](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) | Fügt das bedingte PivotTable-Formatlimit in den Zeilenfeldern hinzu.|
-| [add_row_area_condition(row_field)](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#PivotField) | Fügt das bedingte PivotTable-Formatlimit in den Zeilenfeldern hinzu.|
-| [add_column_area_condition(field_name)](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) | Fügt den Grenzwert für das bedingte PivotTable-Format in den Spaltenfeldern hinzu.|
-| [add_column_area_condition(column_field)](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#PivotField) | Fügt den Grenzwert für das bedingte PivotTable-Format in den Spaltenfeldern hinzu.|
-| [set_conditional_areas()](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) | Legt bedingte Bereiche des PivotFormatCondition-Objekts fest.|
+| [add_data_area_condition](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) | Fügt eine bedingte PivotTable-Formatbeschränkung in den Datenfeldern hinzu.|
+| [add_data_area_condition](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#aspose.cells.pivot.PivotField) | Fügt eine bedingte PivotTable-Formatbeschränkung in den Datenfeldern hinzu.|
+| [add_row_area_condition](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) | Fügt eine Beschränkung für das bedingte PivotTable-Format in den Zeilenfeldern hinzu.|
+| [add_row_area_condition](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#aspose.cells.pivot.PivotField) | Fügt eine Beschränkung für das bedingte PivotTable-Format in den Zeilenfeldern hinzu.|
+| [add_column_area_condition](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) | Fügt eine Beschränkung für das bedingte PivotTable-Format in den Spaltenfeldern hinzu.|
+| [add_column_area_condition](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#aspose.cells.pivot.PivotField) | Fügt eine Beschränkung für das bedingte PivotTable-Format in den Spaltenfeldern hinzu.|
+| [set_conditional_areas](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) | Legt bedingte Bereiche des PivotFormatCondition-Objekts fest.|
 
 
 
@@ -97,4 +97,4 @@ book.save("out.xlsx")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](..)
+* Modul [`aspose.cells.pivot`](..)

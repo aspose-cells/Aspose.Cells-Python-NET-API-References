@@ -3,7 +3,7 @@ title: text_frame fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /sv/aspose.cells.drawing/spinner/text_frame/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def text_frame(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoTextFrame](/cells/python-net/sv/aspose.cells.drawing/msotextframe)
-* klass [Spinner](/cells/python-net/sv/aspose.cells.drawing/spinner)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoTextFrame`](/cells/python-net/sv/aspose.cells.drawing/msotextframe)
+* klass [`Spinner`](/cells/python-net/sv/aspose.cells.drawing/spinner)

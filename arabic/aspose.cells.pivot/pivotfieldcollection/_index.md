@@ -1,29 +1,29 @@
 ---
-title: PivotFieldCollection الدرجة
+title: PivotFieldCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 20
+weight: 80
 url: /ar/aspose.cells.pivot/pivotfieldcollection/
 is_root: false
 ---
-##  PivotFieldCollection الدرجة
-يمثل مجموعة من كل كائنات PivotField
-في نوع PivotFields المحدد لـ PivotTable.
+##  PivotFieldCollection صف
+يمثل مجموعة من كافة كائنات PivotField
+في نوع PivotFields المحدد في PivotTable.
 
 
 
-يكشف نوع PivotFieldCollection الأعضاء التالية:
+يكشف النوع PivotFieldCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection/type) | يحصل على نوع PivotFields.|
-| [count](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection/count) | يحصل على عدد الحقول المحورية.|
+| [type](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection/type) | الحصول على نوع PivotFields.|
+| [count](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection/count) | الحصول على عدد الحقول المحورية.|
 
 
 
-الحصول على كائن PivotField عند الفهرس المحدد.
+يحصل على كائن PivotField في الفهرس المحدد.
 ###  مفهرس
 | اسم| وصف|
 | :- | :- |
@@ -33,11 +33,12 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add_by_base_index(base_field_index)](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | يضيف كائن PivotField إلى نوع PivotFields المحدد.|
-| [add(pivot_field)](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection/add/#PivotField) | يضيف كائن PivotField إلى نوع PivotFields المحدد.|
-| [clear()](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection/clear/#) | امسح كافة حقول PivotFieldCollection|
+| [add_by_base_index](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | إضافة كائن PivotField إلى النوع المحدد PivotFields.|
+| [add](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.PivotField) | إضافة كائن PivotField إلى النوع المحدد PivotFields.|
+| [clear](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection/clear/#) | امسح كافة حقول PivotFieldCollection|
+| [move](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | ينقل PivotField من الموضع الحالي إلى الموضع الوجهة|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](..)
+* الوحدة [`aspose.cells.pivot`](..)

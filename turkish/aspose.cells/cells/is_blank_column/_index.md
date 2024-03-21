@@ -3,17 +3,17 @@ title: is_blank_column yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 740
+weight: 730
 url: /tr/aspose.cells/cells/is_blank_column/
 is_root: false
 ---
-##  is_blank_column(column_index) {#int}
-Verilen sütunun boş olup olmadığını kontrol eder (herhangi bir veri içermez).
+##  is_blank_column {#int}
+Verilen sütunun boş olup olmadığını (herhangi bir veri içermediğini) kontrol eder.
 
 
 ###  İadeler
 
-true verilen sütun herhangi bir veri içermiyorsa
+verilen sütun herhangi bir veri içermiyorsa doğru
 
 
 ```python
@@ -29,5 +29,5 @@ def is_blank_column(self, column_index):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

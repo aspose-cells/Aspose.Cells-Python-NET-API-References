@@ -3,7 +3,7 @@ title: width_scale fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1390
+weight: 1400
 url: /sv/aspose.cells.drawing/picture/width_scale/
 is_root: false
 ---
@@ -31,5 +31,5 @@ def width_scale(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Picture](/cells/python-net/sv/aspose.cells.drawing/picture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture)

@@ -1,18 +1,18 @@
 ---
-title: TrendlineType enumerazione
+title: Enumerazione TrendlineType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 670
+weight: 680
 url: /it/aspose.cells.charts/trendlinetype/
 is_root: false
 ---
-##  TrendlineType enumerazione
+##  Enumerazione TrendlineType
 Rappresenta il tipo di linea di tendenza.
 
 
 
-Il tipo TrendlineType espone i membri seguenti:
+Il tipo TrendlineType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -27,4 +27,4 @@ Il tipo TrendlineType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
+* modulo [`aspose.cells.charts`](..)

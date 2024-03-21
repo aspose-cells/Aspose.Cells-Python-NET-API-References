@@ -3,7 +3,7 @@ title: hyperlink fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 580
 url: /sv/aspose.cells.drawing/oleobject/hyperlink/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Hyperlink](/cells/python-net/sv/aspose.cells/hyperlink)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Hyperlink`](/cells/python-net/sv/aspose.cells/hyperlink)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

@@ -1,5 +1,5 @@
 ---
-title: by الملكية
+title: by عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 30
 url: /ar/aspose.cells.pivot/sxrng/by/
 is_root: false
 ---
-##  by الملكية
-
-يمثل كائن الفاصل الزمني لنطاق المجموعة.
+##  by عقار
 ###  تعريف:
 ```python
 @property
@@ -18,5 +16,5 @@ def by(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [SxRng](/cells/python-net/ar/aspose.cells.pivot/sxrng)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`SxRng`](/cells/python-net/ar/aspose.cells.pivot/sxrng)

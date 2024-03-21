@@ -1,26 +1,26 @@
 ---
-title: PasteType enumerazione
+title: Enumerazione PasteType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2360
+weight: 2450
 url: /it/aspose.cells/pastetype/
 is_root: false
 ---
-##  PasteType enumerazione
+##  Enumerazione PasteType
 Rappresenta il tipo speciale di pasta.
 
 
 
-Il tipo PasteType espone i membri seguenti:
+Il tipo PasteType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | ALL | Copia tutti i dati dell'intervallo.|
-| DEFAULT | Funziona come comportamento "Tutto" di MS Excel.|
+| DEFAULT | Funziona come il comportamento "Tutti" di MS Excel.|
 | ALL_EXCEPT_BORDERS | Copia tutti i dati dell'intervallo senza l'intervallo.|
-| DEFAULT_EXCEPT_BORDERS | Funziona come comportamento "Tutto tranne i bordi" di MS Excel.|
+| DEFAULT_EXCEPT_BORDERS | Funziona come il comportamento "Tutto tranne i bordi" di MS Excel.|
 | COLUMN_WIDTHS | Copia solo le larghezze dell'intervallo.|
 | ROW_HEIGHTS | Copia solo le altezze dell'intervallo.|
 | COMMENTS |  |
@@ -35,4 +35,4 @@ Il tipo PasteType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

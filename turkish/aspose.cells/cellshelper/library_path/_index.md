@@ -3,7 +3,7 @@ title: library_path mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 250
 url: /tr/aspose.cells/cellshelper/library_path/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def library_path(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsHelper](/cells/python-net/tr/aspose.cells/cellshelper)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsHelper`](/cells/python-net/tr/aspose.cells/cellshelper)

@@ -1,15 +1,15 @@
 ---
-title: window_width_cm الملكية
+title: window_width_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 740
+weight: 620
 url: /ar/aspose.cells/workbooksettings/window_width_cm/
 is_root: false
 ---
-##  window_width_cm الملكية
+##  window_width_cm عقار
 
-عرض النافذة بوحدة سنتيمتر.
+عرض النافذة بوحدة السنتيمتر.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def window_width_cm(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

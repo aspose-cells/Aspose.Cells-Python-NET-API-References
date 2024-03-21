@@ -1,9 +1,9 @@
 ---
 title: width_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ru/aspose.cells/comment/width_inch/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def width_inch(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)

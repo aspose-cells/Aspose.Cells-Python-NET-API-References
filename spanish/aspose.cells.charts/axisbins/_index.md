@@ -8,36 +8,30 @@ url: /es/aspose.cells.charts/axisbins/
 is_root: false
 ---
 ##  AxisBins clase
-Representa contenedores de eje
+Representa contenedores de ejes
 
 
 
 El tipo AxisBins expone los siguientes miembros:
 
-###  Constructores
-| Constructor| Descripción|
-| :- | :- |
-| [AxisBins()](/cells/python-net/es/aspose.cells.charts/axisbins/__init__/#) | Construye una nueva instancia de AxisBins|
-
-
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
 | [is_by_category](/cells/python-net/es/aspose.cells.charts/axisbins/is_by_category) | Indica si agrupar datos por categoría|
-| [is_automatic](/cells/python-net/es/aspose.cells.charts/axisbins/is_automatic) | Indica si los bins de los ejes son automáticos.|
-| [width](/cells/python-net/es/aspose.cells.charts/axisbins/width) | Obtiene o establece el ancho del contenedor del eje|
-| [count](/cells/python-net/es/aspose.cells.charts/axisbins/count) | Obtiene o establece el recuento de contenedores de eje|
-| [overflow](/cells/python-net/es/aspose.cells.charts/axisbins/overflow) | Obtiene o establece el desbordamiento de los contenedores de eje|
-| [underflow](/cells/python-net/es/aspose.cells.charts/axisbins/underflow) | Obtiene o establece el subdesbordamiento de los contenedores de eje|
+| [is_automatic](/cells/python-net/es/aspose.cells.charts/axisbins/is_automatic) | Indica si los contenedores de ejes son automáticos.|
+| [width](/cells/python-net/es/aspose.cells.charts/axisbins/width) | Obtiene o establece el ancho del contenedor del eje.|
+| [count](/cells/python-net/es/aspose.cells.charts/axisbins/count) | Obtiene o establece el recuento de contenedores de ejes.|
+| [overflow](/cells/python-net/es/aspose.cells.charts/axisbins/overflow) | Obtiene o establece el desbordamiento de los contenedores de ejes.|
+| [underflow](/cells/python-net/es/aspose.cells.charts/axisbins/underflow) | Obtiene o establece el desbordamiento inferior de los contenedores del eje.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [reset_overflow()](/cells/python-net/es/aspose.cells.charts/axisbins/reset_overflow/#) | Restablecer el desbordamiento|
-| [reset_underflow()](/cells/python-net/es/aspose.cells.charts/axisbins/reset_underflow/#) | Restablecer el desbordamiento|
+| [reset_overflow](/cells/python-net/es/aspose.cells.charts/axisbins/reset_overflow/#) | Restablecer el desbordamiento|
+| [reset_underflow](/cells/python-net/es/aspose.cells.charts/axisbins/reset_underflow/#) | Restablecer el desbordamiento inferior|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

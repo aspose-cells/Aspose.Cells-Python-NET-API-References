@@ -3,7 +3,7 @@ title: id mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 510
+weight: 520
 url: /tr/aspose.cells.drawing/commentshape/id/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def id(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CommentShape](/cells/python-net/tr/aspose.cells.drawing/commentshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CommentShape`](/cells/python-net/tr/aspose.cells.drawing/commentshape)

@@ -1,9 +1,9 @@
 ---
 title: title недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1070
+weight: 1090
 url: /ru/aspose.cells.drawing/radiobutton/title/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [RadioButton](/cells/python-net/ru/aspose.cells.drawing/radiobutton)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`RadioButton`](/cells/python-net/ru/aspose.cells.drawing/radiobutton)

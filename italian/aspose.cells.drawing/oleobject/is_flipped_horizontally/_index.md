@@ -3,7 +3,7 @@ title: is_flipped_horizontally proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 660
+weight: 670
 url: /it/aspose.cells.drawing/oleobject/is_flipped_horizontally/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_flipped_horizontally(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/it/aspose.cells.drawing/oleobject)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/it/aspose.cells.drawing/oleobject)

@@ -3,7 +3,7 @@ title: name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 630
+weight: 660
 url: /de/aspose.cells/cell/name/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def name(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

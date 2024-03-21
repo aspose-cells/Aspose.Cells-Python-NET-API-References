@@ -1,15 +1,15 @@
 ---
 title: merge_areas недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 150
+weight: 190
 url: /ru/aspose.cells/pptxsaveoptions/merge_areas/
 is_root: false
 ---
 ##  merge_areas недвижимость
 
-Указывает, объединяются ли области условного форматирования и проверки перед сохранением файла.
+Указывает, нужно ли объединять области условного форматирования и проверки перед сохранением файла.
 
 ###  Примечания
 
@@ -25,5 +25,5 @@ def merge_areas(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PptxSaveOptions](/cells/python-net/ru/aspose.cells/pptxsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PptxSaveOptions`](/cells/python-net/ru/aspose.cells/pptxsaveoptions)

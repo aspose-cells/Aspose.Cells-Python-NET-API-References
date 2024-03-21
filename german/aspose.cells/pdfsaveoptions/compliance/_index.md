@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  compliance Eigentum
 
-Die Arbeitsmappe wird gemäß PdfCompliance in dieser Eigenschaft in PDF konvertiert.
+Ruft die compliance-Standardebene für Ausgabedokumente ab oder legt diese fest.
+
+###  Bemerkungen
+
+Der Standardwert ist PDF17.
 ###  Definition:
 ```python
 @property
@@ -21,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PdfCompliance](/cells/python-net/de/aspose.cells.rendering/pdfcompliance)
-* Klasse [PdfSaveOptions](/cells/python-net/de/aspose.cells/pdfsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PdfCompliance`](/cells/python-net/de/aspose.cells.rendering/pdfcompliance)
+* Klasse [`PdfSaveOptions`](/cells/python-net/de/aspose.cells/pdfsaveoptions)

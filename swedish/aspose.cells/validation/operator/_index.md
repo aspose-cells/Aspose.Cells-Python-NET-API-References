@@ -3,7 +3,7 @@ title: operator fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 250
 url: /sv/aspose.cells/validation/operator/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def operator(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [OperatorType](/cells/python-net/sv/aspose.cells/operatortype)
-* klass [Validation](/cells/python-net/sv/aspose.cells/validation)
+* modul [`aspose.cells`](../../)
+* klass [`OperatorType`](/cells/python-net/sv/aspose.cells/operatortype)
+* klass [`Validation`](/cells/python-net/sv/aspose.cells/validation)

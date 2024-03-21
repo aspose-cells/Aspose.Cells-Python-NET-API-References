@@ -1,29 +1,29 @@
 ---
-title: العد HtmlCrossType
+title: HtmlCrossType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2140
+weight: 2210
 url: /ar/aspose.cells/htmlcrosstype/
 is_root: false
 ---
-##  العد HtmlCrossType
-يمثل خمسة أنواع من سلسلة html المتقاطعة.
+##  HtmlCrossType التعداد
+يمثل خمسة أنواع من سلسلة HTML المتقاطعة.
 
 
 
-يكشف نوع HtmlCrossType الأعضاء التالية:
+يكشف النوع HtmlCrossType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DEFAULT | عرض مثل MS Excel ، يعتمد على الخلية التالية.<br/>إذا كانت الخلية التالية خالية ، فستتقاطع السلسلة ، أو سيتم اقتطاعها|
-| MS_EXPORT | عرض السلسلة مثل MS Excel تصدير html.|
-| CROSS | عرض HTML سلسلة متقاطعة ، سيكون هذا الأداء لإنشاء ملفات HTML كبيرة أكثر من عشر مرات أسرع من تعيين القيمة إلى افتراضي أو FitToCell.|
-| CROSS_HIDE_RIGHT | عرض HTML سلسلة متقاطعة وإخفاء السلسلة الصحيحة عند تداخل النصوص.|
-| FIT_TO_CELL | عرض السلسلة فقط في عرض الخلية.|
+| DEFAULT | يعتمد العرض مثل MS Excel على الخلية التالية.<br/> إذا كانت الخلية التالية فارغة، فسيتم تقاطع السلسلة، أو سيتم اقتطاعها|
+| MS_EXPORT | اعرض السلسلة مثل تصدير MS Excel بتنسيق html.|
+| CROSS | عرض سلسلة متقاطعة HTML، سيكون هذا الأداء لإنشاء ملفات html كبيرة أسرع بعشر مرات من تعيين القيمة على Default أو FitToCell.|
+| CROSS_HIDE_RIGHT | عرض سلسلة متقاطعة HTML وإخفاء السلسلة الصحيحة عند تداخل النصوص.|
+| FIT_TO_CELL | عرض السلسلة فقط ضمن عرض الخلية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

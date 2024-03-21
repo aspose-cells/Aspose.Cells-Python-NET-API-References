@@ -1,15 +1,15 @@
 ---
-title: style 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: style属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1310
+weight: 1300
 url: /zh/aspose.cells/cells/style/
 is_root: false
 ---
-## style 属性
+## style属性
 
-获取和设置默认值 style。
+获取和设置工作表的默认值style。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
-* 类 [Style](/cells/python-net/zh/aspose.cells/style)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)
+* 类 [`Style`](/cells/python-net/zh/aspose.cells/style)

@@ -1,31 +1,31 @@
 ---
-title: ColorFilter الدرجة
+title: ColorFilter صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ar/aspose.cells/colorfilter/
 is_root: false
 ---
-##  ColorFilter الدرجة
-يمثل مرشح اللون.
+##  ColorFilter صف
+يمثل تصفية النطاق حسب اللون.
 
 
 
-يكشف نوع ColorFilter الأعضاء التالية:
+يكشف النوع ColorFilter عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [filter_by_fill_color](/cells/python-net/ar/aspose.cells/colorfilter/filter_by_fill_color) | علامة تشير إلى ما إذا كان التصفية حسب لون تعبئة الخلية.|
+| [filter_by_fill_color](/cells/python-net/ar/aspose.cells/colorfilter/filter_by_fill_color) | ما إذا كان سيتم التصفية حسب لون تعبئة الخلية.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_color(sheets)](/cells/python-net/ar/aspose.cells/colorfilter/get_color/#WorksheetCollection) |  |
+| [get_color](/cells/python-net/ar/aspose.cells/colorfilter/get_color/#aspose.cells.WorksheetCollection) | يحصل على لون هذا الفلتر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

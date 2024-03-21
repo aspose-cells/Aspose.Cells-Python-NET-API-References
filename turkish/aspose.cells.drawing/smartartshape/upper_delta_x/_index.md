@@ -3,7 +3,7 @@ title: upper_delta_x mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1110
+weight: 1120
 url: /tr/aspose.cells.drawing/smartartshape/upper_delta_x/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Notlar
 
-Değer aralığı 0 ila 1024'tür.
+Değer aralığı 0 ile 1024 arasındadır.
 
 ###  Örnek
 
@@ -34,5 +34,5 @@ def upper_delta_x(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [SmartArtShape](/cells/python-net/tr/aspose.cells.drawing/smartartshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`SmartArtShape`](/cells/python-net/tr/aspose.cells.drawing/smartartshape)

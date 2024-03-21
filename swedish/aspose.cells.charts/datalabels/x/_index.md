@@ -3,7 +3,7 @@ title: x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 530
+weight: 520
 url: /sv/aspose.cells.charts/datalabels/x/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def x(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DataLabels](/cells/python-net/sv/aspose.cells.charts/datalabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DataLabels`](/cells/python-net/sv/aspose.cells.charts/datalabels)

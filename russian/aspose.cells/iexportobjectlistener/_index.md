@@ -1,9 +1,9 @@
 ---
 title: IExportObjectListener класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 840
+weight: 880
 url: /ru/aspose.cells/iexportobjectlistener/
 is_root: false
 ---
@@ -12,14 +12,14 @@ is_root: false
 
 
 
-Тип IExportObjectListener предоставляет следующие члены:
+Тип IExportObjectListener предоставляет следующие элементы:
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [export_object(e)](/cells/python-net/ru/aspose.cells/iexportobjectlistener/export_object/#ExportObjectEvent) | Экспорт одного объекта.|
+| [export_object](/cells/python-net/ru/aspose.cells/iexportobjectlistener/export_object/#aspose.cells.ExportObjectEvent) | Экспортируйте один объект.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

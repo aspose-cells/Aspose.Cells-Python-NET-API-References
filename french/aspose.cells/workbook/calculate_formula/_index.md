@@ -1,5 +1,5 @@
 ---
-title: calculate_formula méthode
+title: méthode calculate_formula
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 40
 url: /fr/aspose.cells/workbook/calculate_formula/
 is_root: false
 ---
-##  calculate_formula() {#}
-Calcule le résultat de formules.
+##  calculate_formula {#}
+Calcule le résultat des formules.
 
 
 
@@ -22,9 +22,9 @@ def calculate_formula(self):
 
 Pour toutes les formules prises en charge, veuillez consulter la liste sur https://docs.aspose.com/display/cellsnet/Supported+Formula+Functions
 
-##  calculate_formula(ignore_error) {#bool}
+##  calculate_formula {#bool}
 
-Calcule le résultat de formules.
+Calcule le résultat des formules.
 
 
 
@@ -36,10 +36,10 @@ def calculate_formula(self, ignore_error):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| ignore_error | bool | Indique si masquer l'erreur dans le calcul des formules. L'erreur peut être une fonction non prise en charge, des liens externes, etc.|
+| ignore_error | bool |Indique si masquer l'erreur dans le calcul des formules. L'erreur peut provenir d'une fonction non prise en charge, de liens externes, etc.|
 
 
-##  calculate_formula(options) {#CalculationOptions}
+##  calculate_formula {#aspose.cells.CalculationOptions}
 Calculer des formules dans ce classeur.
 
 
@@ -52,32 +52,10 @@ def calculate_formula(self, options):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| options | [CalculationOptions](/cells/python-net/fr/aspose.cells/calculationoptions) | Options de calcul|
+| options | [`CalculationOptions`](/cells/python-net/fr/aspose.cells/calculationoptions) | Options de calcul|
 
-
-##  calculate_formula(ignore_error, custom_function) {#bool-ICustomFunction}
-Calcule le résultat de formules.
-
-
-
-```python
-def calculate_formula(self, ignore_error, custom_function):
-    ...
-```
-
-
-| Paramètre| Taper| Description|
-| :- | :- | :- |
-| ignore_error | bool | Indique si masquer l'erreur dans le calcul des formules. L'erreur peut être une fonction non prise en charge, des liens externes, etc.|
-| custom_function | [ICustomFunction](/cells/python-net/fr/aspose.cells/icustomfunction) | Les fonctions de calcul de formule personnalisée pour étendre le moteur de calcul.|
-###  Remarques
-
-REMARQUE : ce membre est désormais obsolète. Plutôt,
-veuillez utiliser la méthode CalculateFormula(CalculationOptions).
- Cette méthode sera supprimée 12 mois plus tard depuis août 2020.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

@@ -3,7 +3,7 @@ title: window_height_inch proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 660
+weight: 540
 url: /it/aspose.cells/workbooksettings/window_height_inch/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def window_height_inch(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorkbookSettings](/cells/python-net/it/aspose.cells/workbooksettings)
+* modulo [`aspose.cells`](../../)
+* classe [`WorkbookSettings`](/cells/python-net/it/aspose.cells/workbooksettings)

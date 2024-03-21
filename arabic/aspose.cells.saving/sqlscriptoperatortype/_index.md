@@ -1,18 +1,18 @@
 ---
-title: العد SqlScriptOperatorType
+title: SqlScriptOperatorType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ar/aspose.cells.saving/sqlscriptoperatortype/
 is_root: false
 ---
-##  العد SqlScriptOperatorType
+##  SqlScriptOperatorType التعداد
 يمثل نوع بيانات التشغيل.
 
 
 
-يكشف نوع SqlScriptOperatorType الأعضاء التالية:
+يكشف النوع SqlScriptOperatorType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.saving](..)
+* الوحدة [`aspose.cells.saving`](..)

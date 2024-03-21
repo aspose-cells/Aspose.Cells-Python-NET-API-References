@@ -3,7 +3,7 @@ title: ChartPointCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 110
 url: /sv/aspose.cells.charts/chartpointcollection/
 is_root: false
 ---
@@ -21,7 +21,7 @@ Typen ChartPointCollection avslöjar följande medlemmar:
 
 
 
-Hämtar elementet [ChartPoint](/cells/python-net/sv/aspose.cells.charts/chartpoint) vid det angivna indexet i serien.
+Hämtar elementet [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint) vid det angivna indexet i serien.
 ###  Indexerare
 | namn| Beskrivning|
 | :- | :- |
@@ -31,9 +31,9 @@ Hämtar elementet [ChartPoint](/cells/python-net/sv/aspose.cells.charts/chartpoi
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_enumerator()](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Returnerar en uppräkning för hela [ChartPointCollection](/cells/python-net/sv/aspose.cells.charts/chartpointcollection).|
-| [clear()](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/clear/#) | Ta bort all inställning av diagrampunkterna.|
-| [remove_at(index)](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/remove_at/#int) | Tar bort punkt på indexet för serien..|
+| [get_enumerator](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Returnerar en uppräkning för hela [`ChartPointCollection`](/cells/python-net/sv/aspose.cells.charts/chartpointcollection).|
+| [clear](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/clear/#) | Ta bort all inställning av diagrampunkterna.|
+| [remove_at](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/remove_at/#int) | Tar bort punkt på indexet för serien..|
 
 
 
@@ -82,6 +82,6 @@ workbook.save("book1.xls")
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](..)
-* klass [ChartPoint](/cells/python-net/sv/aspose.cells.charts/chartpoint)
-* klass [ChartPointCollection](/cells/python-net/sv/aspose.cells.charts/chartpointcollection)
+* modul [`aspose.cells.charts`](..)
+* klass [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint)
+* klass [`ChartPointCollection`](/cells/python-net/sv/aspose.cells.charts/chartpointcollection)

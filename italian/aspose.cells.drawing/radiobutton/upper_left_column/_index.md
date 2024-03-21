@@ -3,7 +3,7 @@ title: upper_left_column proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1160
+weight: 1180
 url: /it/aspose.cells.drawing/radiobutton/upper_left_column/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/it/aspose.cells.drawing/radiobutton)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/it/aspose.cells.drawing/radiobutton)

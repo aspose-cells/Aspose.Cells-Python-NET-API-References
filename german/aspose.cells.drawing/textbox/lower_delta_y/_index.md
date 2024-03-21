@@ -3,17 +3,17 @@ title: lower_delta_y Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 750
+weight: 770
 url: /de/aspose.cells.drawing/textbox/lower_delta_y/
 is_root: false
 ---
 ##  lower_delta_y Eigentum
 
-Ruft den vertikalen Versatz des Shapes von seiner unteren rechten Eckzeile ab oder legt diesen fest.
+Ruft den vertikalen Versatz der Form von der unteren rechten Eckreihe ab oder legt diesen fest.
 
 ###  Bemerkungen
 
-Der Wertebereich ist 0 bis 256.
+Der Wertebereich liegt zwischen 0 und 256.
 
 ###  Beispiel
 
@@ -34,5 +34,5 @@ def lower_delta_y(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextBox](/cells/python-net/de/aspose.cells.drawing/textbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextBox`](/cells/python-net/de/aspose.cells.drawing/textbox)

@@ -1,18 +1,18 @@
 ---
-title: classe DataSorterKey
+title: DataSorterKey classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 430
+weight: 450
 url: /it/aspose.cells/datasorterkey/
 is_root: false
 ---
-##  classe DataSorterKey
-Rappresenta la chiave dell'ordinatore di dati.
+##  DataSorterKey classe
+Rappresenta la chiave del sorter dei dati.
 
 
 
-Il tipo DataSorterKey espone i membri seguenti:
+Il tipo DataSorterKey espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -27,4 +27,4 @@ Il tipo DataSorterKey espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

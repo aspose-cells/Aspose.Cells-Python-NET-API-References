@@ -3,11 +3,11 @@ title: set_row_height yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 870
+weight: 860
 url: /tr/aspose.cells/cells/set_row_height/
 is_root: false
 ---
-##  set_row_height(row, height) {#int-float}
+##  set_row_height {#int-float}
 Belirtilen satırın yüksekliğini ayarlar.
 
 
@@ -21,10 +21,10 @@ def set_row_height(self, row, height):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | row | int | Satır dizini.|
-| height | float | Sıra yüksekliği Nokta biriminde 0 ile 409,5 arasında olmalıdır.|
+| height | float | Satır yüksekliği.Nokta birimi cinsinden 0 ile 409,5 arasında olmalıdır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

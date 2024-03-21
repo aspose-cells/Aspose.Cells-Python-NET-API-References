@@ -1,22 +1,22 @@
 ---
-title: left_cm 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: left_cm属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 670
+weight: 680
 url: /zh/aspose.cells.drawing/webextensionshape/left_cm/
 is_root: false
 ---
-## left_cm 属性
+## left_cm属性
 
-表示形状与其左列的水平偏移量，以厘米为单位。
+表示形状相对于其左列的水平偏移量，以厘米为单位。
 
 ### 例子
 
 ```python
 
 if shape.left_cm == 3:
-    shape.left_cm = 1
+    shape.left_cm = 1.0
 
 ```
 ### 定义：
@@ -30,5 +30,5 @@ def left_cm(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [WebExtensionShape](/cells/python-net/zh/aspose.cells.drawing/webextensionshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`WebExtensionShape`](/cells/python-net/zh/aspose.cells.drawing/webextensionshape)

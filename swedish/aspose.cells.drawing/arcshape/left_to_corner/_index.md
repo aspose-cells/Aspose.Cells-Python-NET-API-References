@@ -3,7 +3,7 @@ title: left_to_corner fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 760
+weight: 770
 url: /sv/aspose.cells.drawing/arcshape/left_to_corner/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def left_to_corner(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ArcShape](/cells/python-net/sv/aspose.cells.drawing/arcshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ArcShape`](/cells/python-net/sv/aspose.cells.drawing/arcshape)

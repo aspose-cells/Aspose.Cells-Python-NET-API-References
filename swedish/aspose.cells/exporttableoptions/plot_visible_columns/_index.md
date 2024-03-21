@@ -3,7 +3,7 @@ title: plot_visible_columns fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 130
 url: /sv/aspose.cells/exporttableoptions/plot_visible_columns/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def plot_visible_columns(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExportTableOptions](/cells/python-net/sv/aspose.cells/exporttableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ExportTableOptions`](/cells/python-net/sv/aspose.cells/exporttableoptions)

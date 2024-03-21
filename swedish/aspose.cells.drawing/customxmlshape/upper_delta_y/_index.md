@@ -3,7 +3,7 @@ title: upper_delta_y fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /sv/aspose.cells.drawing/customxmlshape/upper_delta_y/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def upper_delta_y(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CustomXmlShape](/cells/python-net/sv/aspose.cells.drawing/customxmlshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CustomXmlShape`](/cells/python-net/sv/aspose.cells.drawing/customxmlshape)

@@ -3,7 +3,7 @@ title: plot_visible_columns proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 110
+weight: 130
 url: /it/aspose.cells/exporttableoptions/plot_visible_columns/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def plot_visible_columns(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ExportTableOptions](/cells/python-net/it/aspose.cells/exporttableoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`ExportTableOptions`](/cells/python-net/it/aspose.cells/exporttableoptions)

@@ -3,7 +3,7 @@ title: name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 940
+weight: 950
 url: /sv/aspose.cells.drawing/oleobject/name/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

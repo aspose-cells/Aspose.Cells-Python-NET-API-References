@@ -3,7 +3,7 @@ title: LoadDataFilterOptions Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2200
+weight: 2280
 url: /de/aspose.cells/loaddatafilteroptions/
 is_root: false
 ---
@@ -17,40 +17,40 @@ Der Typ LoadDataFilterOptions macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| NONE | Laden Sie nichts für Blattdaten|
+| NONE | Für Blattdaten wird nichts geladen|
 | ALL | Alle laden|
-| CELL_BLANK | Wägezellen, deren Wert leer ist|
-| CELL_STRING | Wägezellen, deren Wert eine Zeichenfolge ist|
-| CELL_NUMERIC | Wägezellen, deren Wert numerisch ist (einschließlich datetime)|
-| CELL_ERROR | Wägezellen, deren Wert ein Fehler ist|
-| CELL_BOOL | Wägezellen, deren Wert bool ist|
+| CELL_BLANK |Wägezellen, deren Wert leer ist|
+| CELL_STRING | Ladezellen, deren Wert eine Zeichenfolge ist|
+| CELL_NUMERIC | Wägezellen, deren Wert numerisch ist (einschließlich Datum/Uhrzeit)|
+| CELL_ERROR | Wägezellen, deren Wert fehlerhaft ist|
+| CELL_BOOL | Ladezellen, deren Wert bool ist|
 | CELL_VALUE | Nur Wägezellenwert (alle Werttypen).|
-| FORMULA | Formeln für Wägezellen.|
-| CELL_DATA | Wägezellendaten einschließlich Werte, Formeln und Formatierung|
+| FORMULA | Zellenformeln laden.|
+| CELL_DATA | Laden Sie Zellendaten, einschließlich Werte, Formeln und Formatierung|
 | CHART | Diagramme laden|
 | SHAPE | Formen laden|
 | DRAWING | Zeichenobjekte (einschließlich Diagramm, Bild, OleObject und alle anderen Zeichenobjekte)|
-| MERGED_AREA | Verbundene Zellen laden|
+| MERGED_AREA | Zusammengeführte Zellen laden|
 | CONDITIONAL_FORMATTING | Bedingte Formatierung laden|
 | DATA_VALIDATION | Datenvalidierungen laden|
-| PIVOT_TABLE | Laden Sie Pivot-Tabellen|
+| PIVOT_TABLE | Pivot-Tabellen laden|
 | TABLE | Tabellen laden|
 | HYPERLINKS | Hyperlinks laden|
 | SHEET_SETTINGS | Einstellungen für Arbeitsblatt laden|
-| SHEET_DATA |Laden Sie alle Daten des Arbeitsblatts, wie Zellendaten, Einstellungen, Objekte usw.|
+| SHEET_DATA | Laden Sie alle Daten des Arbeitsblatts, z. B. Zelldaten, Einstellungen, Objekte usw.|
 | BOOK_SETTINGS | Einstellungen für Arbeitsmappe laden|
 | SETTINGS | Einstellungen für Arbeitsmappe und Arbeitsblatt laden|
-| XML_MAP | XmlMap laden|
+| XML_MAP | Laden Sie XmlMap|
 | STRUCTURE | Struktur der Arbeitsmappe laden|
 | DOCUMENT_PROPERTIES | Dokumenteigenschaften laden|
-| DEFINED_NAMES | Laden definierter Name-Objekte|
+| DEFINED_NAMES | Definierte Namensobjekte laden|
 | VBA | Laden Sie VBA-Projekte|
-| STYLE | Laden Sie Stile für die Zellenformatierung|
+| STYLE |Laden Sie Stile für die Zellenformatierung|
 | PICTURE | Bilder laden|
-| OLE_OBJECT | OleObjects laden|
-| REVISION | Überarbeitungsprotokolle laden|
+| OLE_OBJECT | Laden Sie OleObjects|
+| REVISION | Revisionsprotokolle laden|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

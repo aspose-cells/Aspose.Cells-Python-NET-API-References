@@ -1,9 +1,9 @@
 ---
 title: height_pt недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 470
+weight: 480
 url: /ru/aspose.cells.drawing/chartshape/height_pt/
 is_root: false
 ---
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.height_pt == 3:
-    shape.height_pt = 1
+    shape.height_pt = 1.0
 
 ```
 ###  Определение:
@@ -30,5 +30,5 @@ def height_pt(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ChartShape](/cells/python-net/ru/aspose.cells.drawing/chartshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ChartShape`](/cells/python-net/ru/aspose.cells.drawing/chartshape)

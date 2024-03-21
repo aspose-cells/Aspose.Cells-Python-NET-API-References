@@ -3,7 +3,7 @@ title: is_licensed fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 610
+weight: 620
 url: /sv/aspose.cells/workbook/is_licensed/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_licensed(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

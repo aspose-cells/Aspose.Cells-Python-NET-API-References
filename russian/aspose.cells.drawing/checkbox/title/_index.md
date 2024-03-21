@@ -1,9 +1,9 @@
 ---
 title: title недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /ru/aspose.cells.drawing/checkbox/title/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CheckBox](/cells/python-net/ru/aspose.cells.drawing/checkbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CheckBox`](/cells/python-net/ru/aspose.cells.drawing/checkbox)

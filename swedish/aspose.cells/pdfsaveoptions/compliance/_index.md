@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  compliance fastighet
 
-Arbetsboken konverteras till pdf enligt PdfCompliance i den här egenskapen.
+Hämtar eller ställer in PDF-standarden compliance-nivån för utdatadokument.
+
+###  Anmärkningar
+
+Standard är Pdf17.
 ###  Definition:
 ```python
 @property
@@ -21,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PdfCompliance](/cells/python-net/sv/aspose.cells.rendering/pdfcompliance)
-* klass [PdfSaveOptions](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PdfCompliance`](/cells/python-net/sv/aspose.cells.rendering/pdfcompliance)
+* klass [`PdfSaveOptions`](/cells/python-net/sv/aspose.cells/pdfsaveoptions)

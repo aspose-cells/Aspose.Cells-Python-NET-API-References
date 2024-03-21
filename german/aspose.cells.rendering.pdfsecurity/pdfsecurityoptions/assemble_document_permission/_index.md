@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  assemble_document_permission Eigentum
 
-Berechtigung zum Einfügen, Drehen oder Löschen von Seiten und zum Erstellen von Lesezeichen oder Miniaturbildern, auch wenn ModifyDocumentPermission nicht festgelegt ist.
+ Gibt an, ob das Zusammenstellen des Dokuments zulässig ist (Seiten einfügen, drehen oder löschen und Lesezeichen oder Miniaturbilder erstellen).
+auch wenn [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) klar ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +22,5 @@ def assemble_document_permission(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering.pdfsecurity](../../)
-* Klasse [PdfSecurityOptions](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* Modul [`aspose.cells.rendering.pdfsecurity`](../../)
+* Klasse [`PdfSecurityOptions`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

@@ -3,7 +3,7 @@ title: Name sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1070
+weight: 1110
 url: /tr/aspose.cells/name/
 is_root: false
 ---
@@ -12,33 +12,33 @@ Bir hücre aralığı için tanımlanmış bir adı temsil eder.
 
 
 
-Name türü aşağıdaki üyeleri gösterir:
+Name türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [comment](/cells/python-net/tr/aspose.cells/name/comment) | Adın yorumunu alır ve ayarlar.<br/> Yalnızca Excel 2007 için geçerlidir.|
+| [comment](/cells/python-net/tr/aspose.cells/name/comment) | İsmin yorumunu alır ve ayarlar.<br/> Yalnızca Excel 2007 veya üzeri sürümler için geçerlidir.|
 | [text](/cells/python-net/tr/aspose.cells/name/text) | Nesnenin ad metnini alır.|
-| [full_text](/cells/python-net/tr/aspose.cells/name/full_text) | Kapsam ayarı ile nesnenin adını tam metnini alır.|
-| [refers_to](/cells/python-net/tr/aspose.cells/name/refers_to) | Adın başvurmak üzere tanımlandığı formülü, eşittir işaretiyle başlayarak döndürür veya ayarlar.|
-| [r1c1_refers_to](/cells/python-net/tr/aspose.cells/name/r1c1_refers_to) | [Name](/cells/python-net/tr/aspose.cells/name)'in bir R1C1 referansını alır veya ayarlar.|
-| [is_referred](/cells/python-net/tr/aspose.cells/name/is_referred) | Bu adın diğer formüller tarafından başvuruda bulunup bulunmadığını gösterir.|
-| [is_visible](/cells/python-net/tr/aspose.cells/name/is_visible) | Adın görünür olup olmadığını gösterir.|
-| [sheet_index](/cells/python-net/tr/aspose.cells/name/sheet_index) | Bu adın Çalışma Kitabı veya Çalışma Sayfasına ait olduğunu gösterir.<br/> 0 = Genel ad, aksi takdirde dizinden sayfaya (tek tabanlı)|
+| [full_text](/cells/python-net/tr/aspose.cells/name/full_text) | Kapsam ayarıyla nesnenin adının tam metnini alır.|
+| [refers_to](/cells/python-net/tr/aspose.cells/name/refers_to) | Adın başvuruda bulunmak üzere tanımlandığı formülü eşittir işaretiyle başlayarak döndürür veya ayarlar.|
+| [r1c1_refers_to](/cells/python-net/tr/aspose.cells/name/r1c1_refers_to) | [`Name`](/cells/python-net/tr/aspose.cells/name)'in R1C1 referansını alır veya ayarlar.|
+| [is_referred](/cells/python-net/tr/aspose.cells/name/is_referred) | Bu ismin başka formüllerle anılıp anılmadığını belirtir.|
+| [is_visible](/cells/python-net/tr/aspose.cells/name/is_visible) | Adın görünür olup olmadığını belirtir.|
+| [sheet_index](/cells/python-net/tr/aspose.cells/name/sheet_index) | Bu adın Çalışma Kitabı veya Çalışma Sayfasına ait olduğunu belirtir.<br/> 0 = Genel ad, aksi takdirde sayfaya dizin (tek tabanlı)|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [get_refers_to(is_r1c1, is_local)](/cells/python-net/tr/aspose.cells/name/get_refers_to/#bool-bool) | Bu İsmin referansını alın.|
-| [get_refers_to(is_r1c1, is_local, row, column)](/cells/python-net/tr/aspose.cells/name/get_refers_to/#bool-bool-int-int) | Belirtilen hücreye göre bu Adın referansını alın.|
-| [get_ranges()](/cells/python-net/tr/aspose.cells/name/get_ranges/#) |Bu adla anılan tüm aralıkları alır.|
-| [get_ranges(recalculate)](/cells/python-net/tr/aspose.cells/name/get_ranges/#bool) |Bu adla anılan tüm aralıkları alır.|
-| [get_range()](/cells/python-net/tr/aspose.cells/name/get_range/#) | Bu ad bir aralığa başvuruyorsa aralığı alır.|
-| [get_range(recalculate)](/cells/python-net/tr/aspose.cells/name/get_range/#bool) | Bu ad bir aralığa başvuruyorsa aralığı alır|
-| [get_range(sheet_index, row, column)](/cells/python-net/tr/aspose.cells/name/get_range/#int-int-int) | Bu ad bir aralığa başvuruyorsa aralığı alır.<br/> Bu ismin referansı mutlak değilse, aralık farklı hücreler için farklı olabilir.|
-| [set_refers_to(refers_to, is_r1c1, is_local)](/cells/python-net/tr/aspose.cells/name/set_refers_to/#str-bool-bool) | Bu Adın referansını ayarlayın.|
-| [get_referred_areas(recalculate)](/cells/python-net/tr/aspose.cells/name/get_referred_areas/#bool) | Bu adla anılan tüm başvuruları alır.|
+| [get_refers_to](/cells/python-net/tr/aspose.cells/name/get_refers_to/#bool-bool) | Bu İsmin referansını alın.|
+| [get_refers_to](/cells/python-net/tr/aspose.cells/name/get_refers_to/#bool-bool-int-int) | Belirtilen hücreye göre bu Adın referansını alın.|
+| [get_ranges](/cells/python-net/tr/aspose.cells/name/get_ranges/#) | Bu isimle anılan tüm aralıkları alır.|
+| [get_ranges](/cells/python-net/tr/aspose.cells/name/get_ranges/#bool) | Bu isimle anılan tüm aralıkları alır.|
+| [get_range](/cells/python-net/tr/aspose.cells/name/get_range/#) |Bu ad bir aralığa başvuruyorsa aralığı alır.|
+| [get_range](/cells/python-net/tr/aspose.cells/name/get_range/#bool) | Bu ad bir aralığa başvuruyorsa aralığı alır|
+| [get_range](/cells/python-net/tr/aspose.cells/name/get_range/#int-int-int) | Bu ad bir aralığa başvuruyorsa aralığı alır.<br/> Bu ismin referansı mutlak değilse aralık farklı hücreler için farklı olabilir.|
+| [set_refers_to](/cells/python-net/tr/aspose.cells/name/set_refers_to/#str-bool-bool) | Bu Adın referansını ayarlayın.|
+| [get_referred_areas](/cells/python-net/tr/aspose.cells/name/get_referred_areas/#bool) | Bu isimle anılan tüm referansları alır.|
 
 
 
@@ -61,5 +61,5 @@ workbook.save("output.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
-* sınıf [Name](/cells/python-net/tr/aspose.cells/name)
+* modül [`aspose.cells`](..)
+* sınıf [`Name`](/cells/python-net/tr/aspose.cells/name)

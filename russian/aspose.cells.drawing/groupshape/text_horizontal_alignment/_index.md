@@ -1,9 +1,9 @@
 ---
 title: text_horizontal_alignment недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 980
+weight: 990
 url: /ru/aspose.cells.drawing/groupshape/text_horizontal_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GroupShape](/cells/python-net/ru/aspose.cells.drawing/groupshape)
-* класс [TextAlignmentType](/cells/python-net/ru/aspose.cells/textalignmenttype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GroupShape`](/cells/python-net/ru/aspose.cells.drawing/groupshape)
+* класс [`TextAlignmentType`](/cells/python-net/ru/aspose.cells/textalignmenttype)

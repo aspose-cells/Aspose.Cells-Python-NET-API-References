@@ -3,7 +3,7 @@ title: formula1 Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 180
+weight: 190
 url: /de/aspose.cells/validation/formula1/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def formula1(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Validation](/cells/python-net/de/aspose.cells/validation)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Validation`](/cells/python-net/de/aspose.cells/validation)

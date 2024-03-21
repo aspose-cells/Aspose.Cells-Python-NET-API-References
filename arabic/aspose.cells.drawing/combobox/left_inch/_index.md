@@ -1,22 +1,22 @@
 ---
-title: left_inch الملكية
+title: left_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 700
+weight: 710
 url: /ar/aspose.cells.drawing/combobox/left_inch/
 is_root: false
 ---
-##  left_inch الملكية
+##  left_inch عقار
 
-يمثل الإزاحة الأفقية للشكل من العمود الأيسر ، بوحدة البوصة.
+يمثل الإزاحة الأفقية للشكل من عموده الأيسر، بوحدة البوصة.
 
 ###  مثال
 
 ```python
 
 if shape.left_inch == 3:
-    shape.left_inch = 1
+    shape.left_inch = 1.0
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def left_inch(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ComboBox](/cells/python-net/ar/aspose.cells.drawing/combobox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ComboBox`](/cells/python-net/ar/aspose.cells.drawing/combobox)

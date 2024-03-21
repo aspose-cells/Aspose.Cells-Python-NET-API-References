@@ -3,11 +3,11 @@ title: unprotect metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 320
 url: /sv/aspose.cells/worksheet/unprotect/
 is_root: false
 ---
-##  unprotect() {#}
+##  unprotect {#}
 Tar bort skyddet för arbetsbladet.
 
 
@@ -22,7 +22,7 @@ def unprotect(self):
 
 Denna metod tar bort skyddet för kalkylbladet som är skyddat utan lösenord.
 
-##  unprotect(password) {#str}
+##  unprotect {#str}
 
 Tar bort skyddet för arbetsbladet.
 
@@ -44,5 +44,5 @@ Om kalkylbladet är skyddat utan lösenord kan du ställa in ett nollvärde elle
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

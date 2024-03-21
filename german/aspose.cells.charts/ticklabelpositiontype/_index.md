@@ -3,12 +3,12 @@ title: TickLabelPositionType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 640
+weight: 650
 url: /de/aspose.cells.charts/ticklabelpositiontype/
 is_root: false
 ---
 ##  TickLabelPositionType Aufzählung
-Stellt den Positionstyp von Teilstrichbeschriftungen auf der angegebenen Achse dar.
+Stellt den Positionstyp der Teilstrichbeschriftungen auf der angegebenen Achse dar.
 
 
 
@@ -17,12 +17,12 @@ Der Typ TickLabelPositionType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| HIGH | Positionstyp ist hoch.|
+| HIGH | Der Positionstyp ist hoch.|
 | LOW | Positionstyp ist niedrig.|
-| NEXT_TO_AXIS | Der Positionstyp steht neben der Achse.|
-| NONE | Positionstyp ist keine.|
+| NEXT_TO_AXIS | Positionstyp ist neben der Achse.|
+| NONE | Der Positionstyp ist „Keiner“.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

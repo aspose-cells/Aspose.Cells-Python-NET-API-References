@@ -1,16 +1,16 @@
 ---
-title: height_scale 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: height_scale属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 530
+weight: 540
 url: /zh/aspose.cells.drawing/arcshape/height_scale/
 is_root: false
 ---
-## height_scale 属性
+## height_scale属性
 
 获取和设置高度比例，单位为原始图片高度的百分比。
-如果形状不是图片，HeightScale 属性只返回 100；
+如果形状不是图片，则HeightScale属性仅返回100；
 
 ### 例子
 
@@ -31,5 +31,5 @@ def height_scale(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ArcShape](/cells/python-net/zh/aspose.cells.drawing/arcshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ArcShape`](/cells/python-net/zh/aspose.cells.drawing/arcshape)

@@ -1,17 +1,17 @@
 ---
 title: get_row_original_height_point方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 500
+weight: 490
 url: /zh/aspose.cells/cells/get_row_original_height_point/
 is_root: false
 ---
-##  get_row_original_height_point(row) {#int}
-如果行被隐藏，则以点为单位获取原始行的高度
+##  get_row_original_height_point {#int}
+如果行被隐藏，则获取原始行的高度（以点为单位）
 
 
-### 返回
+### 退货
 
 
 
@@ -29,5 +29,5 @@ def get_row_original_height_point(self, row):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

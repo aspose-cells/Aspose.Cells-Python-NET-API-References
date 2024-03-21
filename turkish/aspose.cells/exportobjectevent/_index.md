@@ -3,23 +3,23 @@ title: ExportObjectEvent sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 540
+weight: 570
 url: /tr/aspose.cells/exportobjectevent/
 is_root: false
 ---
 ##  ExportObjectEvent sınıfı
-Resim gibi bir nesne dışa aktarılırken tetiklenen olay.
+Resim gibi bir nesneyi dışa aktarırken tetiklenen olay.
 
 
 
-ExportObjectEvent türü aşağıdaki üyeleri gösterir:
+ExportObjectEvent türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [get_source()](/cells/python-net/tr/aspose.cells/exportobjectevent/get_source/#) | Dışa aktarılacak nesneyi alır.|
+| [get_source](/cells/python-net/tr/aspose.cells/exportobjectevent/get_source/#) | Dışa aktarılacak nesneyi alır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

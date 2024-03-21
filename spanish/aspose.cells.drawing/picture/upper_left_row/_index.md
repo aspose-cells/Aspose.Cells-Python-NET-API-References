@@ -3,7 +3,7 @@ title: upper_left_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1330
+weight: 1340
 url: /es/aspose.cells.drawing/picture/upper_left_row/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def upper_left_row(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Picture](/cells/python-net/es/aspose.cells.drawing/picture)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Picture`](/cells/python-net/es/aspose.cells.drawing/picture)

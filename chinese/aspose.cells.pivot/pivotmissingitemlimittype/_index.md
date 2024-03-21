@@ -1,9 +1,9 @@
 ---
 title: PivotMissingItemLimitType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 330
 url: /zh/aspose.cells.pivot/pivotmissingitemlimittype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-PivotMissingItemLimitType 类型公开了以下成员：
+PivotMissingItemLimitType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| AUTOMATIC |每个 PivotField 允许的唯一项目的默认数量。|
-| MAX |每个 PivotField 允许的唯一项的最大数量（>32,500）。|
-| NONE |每个 PivotField 不允许有唯一项。|
+| AUTOMATIC |每个数据透视字段允许的唯一项目的默认数量。|
+| MAX |每个数据透视字段允许的最大唯一项目数 (>32,500)。|
+| NONE |每个数据透视字段不允许有唯一的项目。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](..)
+* 模块[`aspose.cells.pivot`](..)

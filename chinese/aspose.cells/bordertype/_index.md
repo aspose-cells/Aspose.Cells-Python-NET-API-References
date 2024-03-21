@@ -1,9 +1,9 @@
 ---
 title: BorderType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1790
+weight: 1860
 url: /zh/aspose.cells/bordertype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-BorderType 类型公开了以下成员：
+BorderType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| BOTTOM_BORDER |表示底部边框线。|
-| DIAGONAL_DOWN |表示从左上角到右下角的对角线。|
-| DIAGONAL_UP |表示从左下角到右上角的对角线。|
-| LEFT_BORDER |表示左边框线。|
-| RIGHT_BORDER |表示右边界线存在。|
+| BOTTOM_BORDER |代表底部边框线。|
+| DIAGONAL_DOWN |表示从左上到右下的对角线。|
+| DIAGONAL_UP |表示从左下到右上的对角线。|
+| LEFT_BORDER |代表左边界线。|
+| RIGHT_BORDER |代表右边界线存在。|
 | TOP_BORDER |代表顶部边框线。|
 | HORIZONTAL |仅适用于动态样式，例如条件格式。|
 | VERTICAL |仅适用于动态样式，例如条件格式。|
@@ -29,4 +29,4 @@ BorderType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

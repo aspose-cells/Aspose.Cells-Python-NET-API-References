@@ -1,9 +1,9 @@
 ---
 title: CellWatch类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 170
 url: /zh/aspose.cells/cellwatch/
 is_root: false
 ---
@@ -12,12 +12,12 @@ is_root: false
 
 
 
-CellWatch 类型公开了以下成员：
+CellWatch 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [CellWatch()](/cells/python-net/zh/aspose.cells/cellwatch/__init__/#) |构造 CellWatch 的新实例|
+| [__init__](/cells/python-net/zh/aspose.cells/cellwatch/__init__/#) |构造 CellWatch 的新实例|
 
 
 ### 特性
@@ -30,4 +30,4 @@ CellWatch 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

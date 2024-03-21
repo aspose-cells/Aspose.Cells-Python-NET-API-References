@@ -1,13 +1,13 @@
 ---
-title: get_pivot_filter_by_type método
+title: método get_pivot_filter_by_type
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 40
+weight: 50
 url: /es/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/
 is_root: false
 ---
-##  get_pivot_filter_by_type(type) {#PivotFilterType}
+##  get_pivot_filter_by_type {#aspose.cells.pivot.PivotFilterType}
 Obtiene el filtro dinámico del campo dinámico por tipo
 
 
@@ -20,10 +20,10 @@ def get_pivot_filter_by_type(self, type):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| type | [PivotFilterType](/cells/python-net/es/aspose.cells.pivot/pivotfiltertype) |  |
+| type | [`PivotFilterType`](/cells/python-net/es/aspose.cells.pivot/pivotfiltertype) |  |
 
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotField](/cells/python-net/es/aspose.cells.pivot/pivotfield)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotField`](/cells/python-net/es/aspose.cells.pivot/pivotfield)

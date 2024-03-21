@@ -1,18 +1,18 @@
 ---
-title: PivotTableStyleType enumerazione
+title: Enumerazione PivotTableStyleType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 230
+weight: 360
 url: /it/aspose.cells.pivot/pivottablestyletype/
 is_root: false
 ---
-##  PivotTableStyleType enumerazione
+##  Enumerazione PivotTableStyleType
 Rappresenta il tipo di stile della tabella pivot.
 
 
 
-Il tipo PivotTableStyleType espone i membri seguenti:
+Il tipo PivotTableStyleType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -107,4 +107,4 @@ Il tipo PivotTableStyleType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](..)
+* modulo [`aspose.cells.pivot`](..)

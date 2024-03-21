@@ -3,12 +3,12 @@ title: DataSorter clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 420
+weight: 440
 url: /es/aspose.cells/datasorter/
 is_root: false
 ---
 ##  DataSorter clase
-Descripción resumida para DataSorter.
+Descripción resumida de DataSorter.
 
 
 
@@ -25,22 +25,22 @@ El tipo DataSorter expone los siguientes miembros:
 | [order2](/cells/python-net/es/aspose.cells/datasorter/order2) | Representa el orden de clasificación de la segunda clave.|
 | [key3](/cells/python-net/es/aspose.cells/datasorter/key3) | Representa el índice de la tercera columna ordenada (posición absoluta, la columna A es 0, B es 1, ...).|
 | [order3](/cells/python-net/es/aspose.cells/datasorter/order3) | Representa el orden de clasificación de la tercera clave.|
-| [sort_left_to_right](/cells/python-net/es/aspose.cells/datasorter/sort_left_to_right) | Verdadero significa que la orientación de clasificación es de izquierda a derecha.<br/>Falso significa que la orientación de clasificación es de arriba hacia abajo.<br/> El valor predeterminado es falso.|
-| [case_sensitive](/cells/python-net/es/aspose.cells/datasorter/case_sensitive) | Obtiene y establece si distingue entre mayúsculas y minúsculas al comparar cadenas.|
-| [sort_as_number](/cells/python-net/es/aspose.cells/datasorter/sort_as_number) | Indica si ordenar cualquier cosa que parezca un número.|
+| [sort_left_to_right](/cells/python-net/es/aspose.cells/datasorter/sort_left_to_right) | Verdadero significa que la orientación de clasificación es de izquierda a derecha.<br/>Falso significa que la orientación de clasificación es de arriba a abajo.<br/> El valor predeterminado es falso.|
+| [case_sensitive](/cells/python-net/es/aspose.cells/datasorter/case_sensitive) | Obtiene y establece si se distingue entre mayúsculas y minúsculas al comparar cadenas.|
+| [sort_as_number](/cells/python-net/es/aspose.cells/datasorter/sort_as_number) |Indica si se está clasificando algo que parece un número.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [add_key(key, order)](/cells/python-net/es/aspose.cells/datasorter/add_key/#int-SortOrder) | Agrega índice de columna ordenada y orden de clasificación.|
-| [add_key(key, order, custom_list)](/cells/python-net/es/aspose.cells/datasorter/add_key/#int-SortOrder-str) | Agrega índice de columna ordenado y orden de clasificación con lista de clasificación personalizada.|
-| [add_key(key, type, order, custom_list)](/cells/python-net/es/aspose.cells/datasorter/add_key/#int-SortOnType-SortOrder-any) | Agrega índice de columna ordenado y orden de clasificación con lista de clasificación personalizada.|
-| [add_key(key, order, custom_list)](/cells/python-net/es/aspose.cells/datasorter/add_key/#int-SortOrder-list) | Agrega índice de columna ordenado y orden de clasificación con lista de clasificación personalizada.|
-| [sort(cells, start_row, start_column, end_row, end_column)](/cells/python-net/es/aspose.cells/datasorter/sort/#Cells-int-int-int-int) | Ordena los datos del área.|
-| [sort(cells, area)](/cells/python-net/es/aspose.cells/datasorter/sort/#Cells-CellArea) | Ordenar los datos del área.|
-| [sort()](/cells/python-net/es/aspose.cells/datasorter/sort/#) | Ordenar los datos en el rango.|
-| [clear()](/cells/python-net/es/aspose.cells/datasorter/clear/#) | Borrar todas las configuraciones.|
+| [add_key](/cells/python-net/es/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder) | Agrega índice de columnas ordenadas y orden de clasificación.|
+| [add_key](/cells/python-net/es/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-str) | Agrega un índice de columnas ordenadas y un orden de clasificación con una lista de clasificación personalizada.|
+| [add_key](/cells/python-net/es/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOnType-aspose.cells.SortOrder-any) | Agrega un índice de columnas ordenadas y un orden de clasificación con una lista de clasificación personalizada.|
+| [add_key](/cells/python-net/es/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-list) | Agrega un índice de columnas ordenadas y un orden de clasificación con una lista de clasificación personalizada.|
+| [sort](/cells/python-net/es/aspose.cells/datasorter/sort/#aspose.cells.Cells-int-int-int-int) | Ordena los datos del área.|
+| [sort](/cells/python-net/es/aspose.cells/datasorter/sort/#aspose.cells.Cells-aspose.cells.CellArea) | Ordenar los datos del área.|
+| [sort](/cells/python-net/es/aspose.cells/datasorter/sort/#) | Ordena los datos en el rango.|
+| [clear](/cells/python-net/es/aspose.cells/datasorter/clear/#) | Borre todas las configuraciones.|
 
 
 
@@ -79,4 +79,4 @@ workbook.save("outBook.xls")
 ```
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

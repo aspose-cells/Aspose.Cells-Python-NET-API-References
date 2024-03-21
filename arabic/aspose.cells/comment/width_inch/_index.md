@@ -1,13 +1,13 @@
 ---
-title: width_inch الملكية
+title: width_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ar/aspose.cells/comment/width_inch/
 is_root: false
 ---
-##  width_inch الملكية
+##  width_inch عقار
 
 يمثل عرض التعليق بوحدة البوصة.
 
@@ -29,5 +29,5 @@ def width_inch(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

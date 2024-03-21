@@ -1,15 +1,15 @@
 ---
-title: interrupt_monitor الملكية
+title: interrupt_monitor عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 600
 url: /ar/aspose.cells/workbook/interrupt_monitor/
 is_root: false
 ---
-##  interrupt_monitor الملكية
+##  interrupt_monitor عقار
 
-يحصل على جهاز مراقبة المقاطعة ويضبطه.
+الحصول على جهاز مراقبة المقاطعة وتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def interrupt_monitor(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AbstractInterruptMonitor](/cells/python-net/ar/aspose.cells/abstractinterruptmonitor)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AbstractInterruptMonitor`](/cells/python-net/ar/aspose.cells/abstractinterruptmonitor)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

@@ -3,7 +3,7 @@ title: lower_right_column proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 780
+weight: 790
 url: /it/aspose.cells.drawing/groupshape/lower_right_column/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def lower_right_column(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GroupShape](/cells/python-net/it/aspose.cells.drawing/groupshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/it/aspose.cells.drawing/groupshape)

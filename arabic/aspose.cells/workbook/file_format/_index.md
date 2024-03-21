@@ -1,15 +1,15 @@
 ---
-title: file_format الملكية
+title: file_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 550
+weight: 560
 url: /ar/aspose.cells/workbook/file_format/
 is_root: false
 ---
-##  file_format الملكية
+##  file_format عقار
 
-الحصول على تنسيق الملف وتعيينه.
+يحصل ويحدد تنسيق الملف.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def file_format(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FileFormatType](/cells/python-net/ar/aspose.cells/fileformattype)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FileFormatType`](/cells/python-net/ar/aspose.cells/fileformattype)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

@@ -1,13 +1,13 @@
 ---
-title: position 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: position属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 300
 url: /zh/aspose.cells.charts/legend/position/
 is_root: false
 ---
-## position 属性
+## position属性
 
 获取或设置图例 position 类型。
 
@@ -25,6 +25,6 @@ def position(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Legend](/cells/python-net/zh/aspose.cells.charts/legend)
-* 类 [LegendPositionType](/cells/python-net/zh/aspose.cells.charts/legendpositiontype)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Legend`](/cells/python-net/zh/aspose.cells.charts/legend)
+* 类 [`LegendPositionType`](/cells/python-net/zh/aspose.cells.charts/legendpositiontype)

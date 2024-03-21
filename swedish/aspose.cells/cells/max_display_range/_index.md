@@ -3,7 +3,7 @@ title: max_display_range fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1120
+weight: 1110
 url: /sv/aspose.cells/cells/max_display_range/
 is_root: false
 ---
@@ -22,6 +22,6 @@ def max_display_range(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

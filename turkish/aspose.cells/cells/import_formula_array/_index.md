@@ -3,12 +3,12 @@ title: import_formula_array yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 660
+weight: 650
 url: /tr/aspose.cells/cells/import_formula_array/
 is_root: false
 ---
-##  import_formula_array(string_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-Bir formül dizisini bir çalışma sayfasına aktarır.
+##  import_formula_array {#list-int-int-bool}
+Bir formül dizisini çalışma sayfasına aktarır.
 
 
 
@@ -28,5 +28,5 @@ def import_formula_array(self, string_array, first_row, first_column, is_vertica
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

@@ -3,7 +3,7 @@ title: is_3d propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 310
+weight: 340
 url: /fr/aspose.cells.charts/chart/is_3d/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_3d(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)

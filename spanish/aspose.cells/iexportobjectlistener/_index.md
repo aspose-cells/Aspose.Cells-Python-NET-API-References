@@ -3,12 +3,12 @@ title: IExportObjectListener clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 840
+weight: 880
 url: /es/aspose.cells/iexportobjectlistener/
 is_root: false
 ---
 ##  IExportObjectListener clase
-Permite a los usuarios manipular objetos durante la exportación.
+Permite a los usuarios manipular objetos mientras exportan.
 
 
 
@@ -17,9 +17,9 @@ El tipo IExportObjectListener expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [export_object(e)](/cells/python-net/es/aspose.cells/iexportobjectlistener/export_object/#ExportObjectEvent) | Exportar un objeto.|
+| [export_object](/cells/python-net/es/aspose.cells/iexportobjectlistener/export_object/#aspose.cells.ExportObjectEvent) | Exporta un objeto.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

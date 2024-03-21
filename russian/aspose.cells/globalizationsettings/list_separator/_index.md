@@ -1,15 +1,15 @@
 ---
 title: list_separator недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 310
+weight: 320
 url: /ru/aspose.cells/globalizationsettings/list_separator/
 is_root: false
 ---
 ##  list_separator недвижимость
 
-Получает разделитель для списка, параметры функции и т.д.
+Получает разделитель для списка, параметров функции и т. д.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def list_separator(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GlobalizationSettings](/cells/python-net/ru/aspose.cells/globalizationsettings)
+* модуль [`aspose.cells`](../../)
+* класс [`GlobalizationSettings`](/cells/python-net/ru/aspose.cells/globalizationsettings)

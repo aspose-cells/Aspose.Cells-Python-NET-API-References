@@ -3,7 +3,7 @@ title: has_custom_style proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 480
+weight: 510
 url: /it/aspose.cells/cell/has_custom_style/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def has_custom_style(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

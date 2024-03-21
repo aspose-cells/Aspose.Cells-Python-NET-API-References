@@ -3,14 +3,14 @@ title: ignore_error propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 140
 url: /fr/aspose.cells/xpssaveoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error propriété
 
 Indique si vous devez masquer l'erreur lors du rendu.
-L'erreur peut être une erreur de forme, d'image, de rendu graphique, etc.
+L'erreur peut être une erreur de forme, d'image, de rendu du graphique, etc.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def ignore_error(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [XpsSaveOptions](/cells/python-net/fr/aspose.cells/xpssaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`XpsSaveOptions`](/cells/python-net/fr/aspose.cells/xpssaveoptions)

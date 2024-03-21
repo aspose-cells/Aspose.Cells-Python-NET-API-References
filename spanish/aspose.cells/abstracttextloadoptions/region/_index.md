@@ -3,7 +3,7 @@ title: region propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 260
+weight: 280
 url: /es/aspose.cells/abstracttextloadoptions/region/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def region(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AbstractTextLoadOptions](/cells/python-net/es/aspose.cells/abstracttextloadoptions)
-* clase [CountryCode](/cells/python-net/es/aspose.cells/countrycode)
+* módulo [`aspose.cells`](../../)
+* clase [`AbstractTextLoadOptions`](/cells/python-net/es/aspose.cells/abstracttextloadoptions)
+* clase [`CountryCode`](/cells/python-net/es/aspose.cells/countrycode)

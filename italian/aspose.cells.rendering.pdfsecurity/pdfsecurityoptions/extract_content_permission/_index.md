@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  extract_content_permission proprietà
 
-Autorizzazione a copiare o estrarre contenuti.
+ Indica se consentire di copiare o altrimenti estrarre testo e grafica dal documento
+da operazioni diverse da quella controllata da [`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content).
 ###  Definizione:
 ```python
 @property
@@ -21,5 +22,5 @@ def extract_content_permission(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering.pdfsecurity](../../)
-* classe [PdfSecurityOptions](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modulo [`aspose.cells.rendering.pdfsecurity`](../../)
+* classe [`PdfSecurityOptions`](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

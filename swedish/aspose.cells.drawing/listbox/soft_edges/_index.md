@@ -3,7 +3,7 @@ title: soft_edges fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 960
+weight: 970
 url: /sv/aspose.cells.drawing/listbox/soft_edges/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def soft_edges(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ListBox](/cells/python-net/sv/aspose.cells.drawing/listbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ListBox`](/cells/python-net/sv/aspose.cells.drawing/listbox)

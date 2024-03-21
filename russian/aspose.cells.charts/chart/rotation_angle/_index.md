@@ -1,19 +1,19 @@
 ---
 title: rotation_angle недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 490
+weight: 520
 url: /ru/aspose.cells.charts/chart/rotation_angle/
 is_root: false
 ---
 ##  rotation_angle недвижимость
 
-Представляет поворот представления трехмерной диаграммы (поворот области графика вокруг оси Z в градусах).
+Представляет вращение трехмерного представления диаграммы (поворот области графика вокруг оси Z в градусах).
 
 ###  Примечания
 
- Значение этого свойства должно быть от 0 до 360, за исключением объемных гистограмм, где значение должно быть от 0 до 44.
+ Значение этого свойства должно быть от 0 до 360, за исключением трехмерных гистограмм, где значение должно быть от 0 до 44.
 Значение по умолчанию — 20. Применяется только к трехмерным диаграммам.
 ###  Определение:
 ```python
@@ -26,5 +26,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)

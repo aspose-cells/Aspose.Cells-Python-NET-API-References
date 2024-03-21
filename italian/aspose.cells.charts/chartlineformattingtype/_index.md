@@ -1,28 +1,28 @@
 ---
-title: ChartLineFormattingType enumerazione
+title: Enumerazione ChartLineFormattingType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 410
+weight: 420
 url: /it/aspose.cells.charts/chartlineformattingtype/
 is_root: false
 ---
-##  ChartLineFormattingType enumerazione
-Rappresenta il tipo di formato della linea della linea del grafico.
+##  Enumerazione ChartLineFormattingType
+Rappresenta il tipo di formato della linea del grafico.
 
 
 
-Il tipo ChartLineFormattingType espone i membri seguenti:
+Il tipo ChartLineFormattingType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | AUTOMATIC | Rappresenta il tipo di formattazione automatica.|
-| SOLID | Rappresenta il tipo di formattazione solida.|
-| NONE | Rappresenta nessun tipo di formattazione.|
+| SOLID | Rappresenta il tipo di formattazione continua.|
+| NONE |Non rappresenta alcun tipo di formattazione.|
 | GRADIENT | Pendenza|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
+* modulo [`aspose.cells.charts`](..)

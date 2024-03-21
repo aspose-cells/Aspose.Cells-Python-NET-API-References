@@ -3,12 +3,12 @@ title: AxisType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 370
 url: /de/aspose.cells.charts/axistype/
 is_root: false
 ---
 ##  AxisType Aufzählung
-Repräsentiert den Achsentyp.
+Stellt den Achsentyp dar.
 
 
 
@@ -19,9 +19,9 @@ Der Typ AxisType macht die folgenden Member verfügbar:
 | :- | :- |
 | CATEGORY | Kategorieachse|
 | VALUE | Werteachse|
-| SERIES | Reihenachse|
+| SERIES | Serienachse|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

@@ -3,13 +3,13 @@ title: width propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /fr/aspose.cells.drawing/combobox/width/
 is_root: false
 ---
 ##  width propriété
 
-Représente le width de la forme, en unité de pixels.
+Représente le width de forme, en unité de pixels.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ComboBox](/cells/python-net/fr/aspose.cells.drawing/combobox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ComboBox`](/cells/python-net/fr/aspose.cells.drawing/combobox)

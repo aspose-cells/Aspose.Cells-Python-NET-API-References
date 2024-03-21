@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  delete_redundant_spaces propriété
 
- Indique si supprimer les espaces redondants lorsque le texte revient à la ligne à l'aide de<br>tag. La valeur par défaut est false.
+Indique si vous supprimez les espaces redondants lorsque le texte retourne à la ligne à l’aide de la balise `<br>`.
+La valeur par défaut est fausse.
 ###  Définition:
 ```python
 @property
@@ -21,5 +22,5 @@ def delete_redundant_spaces(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HtmlLoadOptions](/cells/python-net/fr/aspose.cells/htmlloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`HtmlLoadOptions`](/cells/python-net/fr/aspose.cells/htmlloadoptions)

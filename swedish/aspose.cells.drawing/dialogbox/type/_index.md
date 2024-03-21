@@ -3,7 +3,7 @@ title: type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /sv/aspose.cells.drawing/dialogbox/type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [AutoShapeType](/cells/python-net/sv/aspose.cells.drawing/autoshapetype)
-* klass [DialogBox](/cells/python-net/sv/aspose.cells.drawing/dialogbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`AutoShapeType`](/cells/python-net/sv/aspose.cells.drawing/autoshapetype)
+* klass [`DialogBox`](/cells/python-net/sv/aspose.cells.drawing/dialogbox)

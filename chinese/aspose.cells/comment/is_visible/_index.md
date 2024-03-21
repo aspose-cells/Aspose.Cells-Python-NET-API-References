@@ -1,13 +1,13 @@
 ---
-title: is_visible 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_visible属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 170
 url: /zh/aspose.cells/comment/is_visible/
 is_root: false
 ---
-## is_visible 属性
+## is_visible属性
 
 表示评论是否可见。
 
@@ -30,5 +30,5 @@ def is_visible(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)

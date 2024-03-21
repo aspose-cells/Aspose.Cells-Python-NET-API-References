@@ -3,14 +3,14 @@ title: is_repeat_item_labels propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 410
+weight: 450
 url: /fr/aspose.cells.pivot/pivotfield/is_repeat_item_labels/
 is_root: false
 ---
 ##  is_repeat_item_labels propriété
 
 indique si le champ peut répéter les étiquettes des éléments
-La valeur par défaut est faux.
+La valeur par défaut est fausse.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_repeat_item_labels(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotField](/cells/python-net/fr/aspose.cells.pivot/pivotfield)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotField`](/cells/python-net/fr/aspose.cells.pivot/pivotfield)

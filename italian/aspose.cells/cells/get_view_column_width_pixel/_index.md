@@ -1,14 +1,14 @@
 ---
-title: metodo get_view_column_width_pixel
+title: Metodo get_view_column_width_pixel
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 510
+weight: 500
 url: /it/aspose.cells/cells/get_view_column_width_pixel/
 is_root: false
 ---
-##  get_view_column_width_pixel(column) {#int}
-Ottieni la larghezza in diversi tipi di visualizzazione.
+##  get_view_column_width_pixel {#int}
+Ottieni la larghezza in diversi tipi di vista.
 
 
 ###  ritorna
@@ -24,10 +24,10 @@ def get_view_column_width_pixel(self, column):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| column | int | L'indice di colonna.|
+| column | int | L'indice della colonna.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

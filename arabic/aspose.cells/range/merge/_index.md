@@ -3,12 +3,12 @@ title: طريقة merge
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 150
 url: /ar/aspose.cells/range/merge/
 is_root: false
 ---
-##  merge() {#}
-يدمج نطاقًا من الخلايا في خلية واحدة.
+##  merge {#}
+يجمع نطاقًا من الخلايا في خلية واحدة.
 
 
 
@@ -25,5 +25,5 @@ def merge(self):
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

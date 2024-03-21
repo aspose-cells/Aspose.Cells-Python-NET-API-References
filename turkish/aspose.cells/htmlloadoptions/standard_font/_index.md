@@ -3,7 +3,7 @@ title: standard_font mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 330
+weight: 360
 url: /tr/aspose.cells/htmlloadoptions/standard_font/
 is_root: false
 ---
@@ -13,9 +13,9 @@ Varsayılan standart yazı tipi adını ayarlar
 
 ###  Notlar
 
-NOT: Bu üye artık kullanılmıyor. Bunun yerine, lütfen DefaultStyleSettings'i kullanın.
- Bu mülk, Mart 2022'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+NOT: Bu üye artık kullanılmıyor. Bunun yerine lütfen DefaultStyleSettings'i kullanın.
+ Bu mülk, Mart 2022'den 12 ay sonra kaldırılacaktır.
+Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -27,5 +27,5 @@ def standard_font(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlLoadOptions](/cells/python-net/tr/aspose.cells/htmlloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlLoadOptions`](/cells/python-net/tr/aspose.cells/htmlloadoptions)

@@ -3,7 +3,7 @@ title: line fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 730
+weight: 750
 url: /sv/aspose.cells.drawing/radiobutton/line/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def line(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
-* klass [RadioButton](/cells/python-net/sv/aspose.cells.drawing/radiobutton)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* klass [`RadioButton`](/cells/python-net/sv/aspose.cells.drawing/radiobutton)

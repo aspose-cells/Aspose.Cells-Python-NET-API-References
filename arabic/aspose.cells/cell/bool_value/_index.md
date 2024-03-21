@@ -1,15 +1,15 @@
 ---
-title: bool_value الملكية
+title: bool_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 400
 url: /ar/aspose.cells/cell/bool_value/
 is_root: false
 ---
-##  bool_value الملكية
+##  bool_value عقار
 
-الحصول على القيمة المنطقية الموجودة في الخلية.
+يحصل على القيمة المنطقية الموجودة في الخلية.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def bool_value(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

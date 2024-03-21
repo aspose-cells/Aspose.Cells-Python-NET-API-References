@@ -3,7 +3,7 @@ title: globalization_settings mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 200
 url: /tr/aspose.cells/workbooksettings/globalization_settings/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def globalization_settings(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [GlobalizationSettings](/cells/python-net/tr/aspose.cells/globalizationsettings)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`GlobalizationSettings`](/cells/python-net/tr/aspose.cells/globalizationsettings)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

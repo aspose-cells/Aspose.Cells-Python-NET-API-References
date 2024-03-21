@@ -3,7 +3,7 @@ title: text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 980
+weight: 990
 url: /de/aspose.cells.drawing/scrollbar/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ScrollBar](/cells/python-net/de/aspose.cells.drawing/scrollbar)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ScrollBar`](/cells/python-net/de/aspose.cells.drawing/scrollbar)

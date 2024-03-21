@@ -3,7 +3,7 @@ title: minor_grid_lines mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 330
+weight: 340
 url: /tr/aspose.cells.charts/axis/minor_grid_lines/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def minor_grid_lines(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Axis](/cells/python-net/tr/aspose.cells.charts/axis)
-* sınıf [Line](/cells/python-net/tr/aspose.cells.drawing/line)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Axis`](/cells/python-net/tr/aspose.cells.charts/axis)
+* sınıf [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)

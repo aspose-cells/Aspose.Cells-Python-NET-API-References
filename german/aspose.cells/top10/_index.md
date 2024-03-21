@@ -3,14 +3,14 @@ title: Top10 Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1480
+weight: 1550
 url: /de/aspose.cells/top10/
 is_root: false
 ---
 ##  Top10 Klasse
  Beschreiben Sie die bedingte Formatierungsregel Top10.
-Diese Regel zur bedingten Formatierung hebt Zellen hervor, deren
-Werte fallen in die obere N- oder untere N-Klammer, wie angegeben.
+Diese bedingte Formatierungsregel hebt Zellen hervor, deren
+Die Werte liegen je nach Angabe in der oberen N- oder unteren N-Klammer.
 
 
 
@@ -19,15 +19,15 @@ Der Typ Top10 macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [Top10()](/cells/python-net/de/aspose.cells/top10/__init__/#) |Erstellt eine neue Instanz von Top10|
+| [__init__](/cells/python-net/de/aspose.cells/top10/__init__/#) | Erstellt eine neue Instanz von Top10|
 
 
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
 | [is_percent](/cells/python-net/de/aspose.cells/top10/is_percent) | Rufen Sie ab oder legen Sie fest, ob eine „Top/Bottom n“-Regel eine „Top/Bottom n Prozent“-Regel ist.<br/> Der Standardwert ist falsch.|
-| [is_bottom](/cells/python-net/de/aspose.cells/top10/is_bottom) | Rufen Sie ab oder legen Sie fest, ob eine „Top/Bottom n“-Regel eine „Bottom n“-Regel ist.<br/> Der Standardwert ist falsch.|
-| [rank](/cells/python-net/de/aspose.cells/top10/rank) | Abrufen oder Festlegen des Werts von „n“ in einer bedingten Formatierungsregel „top/bottom n“.<br/>Wenn IsPercent wahr ist, muss der Wert zwischen 0 und 100 liegen.<br/>Andernfalls muss er zwischen 0 und 1000 liegen.<br/> Der Standardwert ist 10.|
+| [is_bottom](/cells/python-net/de/aspose.cells/top10/is_bottom) | Rufen Sie ab oder legen Sie fest, ob eine „Top/Bottom-n“-Regel eine „Bottom-n“-Regel ist.<br/> Der Standardwert ist falsch.|
+| [rank](/cells/python-net/de/aspose.cells/top10/rank) | Rufen Sie den Wert von „n“ in einer bedingten Formatierungsregel „oben/unten n“ ab oder legen Sie ihn fest.<br/>Wenn IsPercent wahr ist, muss der Wert zwischen 0 und 100 liegen.<br/>Ansonsten muss es zwischen 0 und 1000 liegen.<br/> Der Standardwert ist 10.|
 
 
 
@@ -60,4 +60,4 @@ workbook.save("output.xls")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

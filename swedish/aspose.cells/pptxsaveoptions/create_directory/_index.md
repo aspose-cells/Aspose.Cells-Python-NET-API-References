@@ -3,7 +3,7 @@ title: create_directory fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 90
 url: /sv/aspose.cells/pptxsaveoptions/create_directory/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def create_directory(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PptxSaveOptions](/cells/python-net/sv/aspose.cells/pptxsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PptxSaveOptions`](/cells/python-net/sv/aspose.cells/pptxsaveoptions)

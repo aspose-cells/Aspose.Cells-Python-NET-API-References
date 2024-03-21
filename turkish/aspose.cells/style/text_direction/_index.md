@@ -3,7 +3,7 @@ title: text_direction mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 470
 url: /tr/aspose.cells/style/text_direction/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def text_direction(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
-* sınıf [TextDirectionType](/cells/python-net/tr/aspose.cells/textdirectiontype)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)
+* sınıf [`TextDirectionType`](/cells/python-net/tr/aspose.cells/textdirectiontype)

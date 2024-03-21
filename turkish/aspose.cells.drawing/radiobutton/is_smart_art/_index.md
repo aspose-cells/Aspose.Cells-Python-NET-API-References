@@ -3,13 +3,13 @@ title: is_smart_art mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 650
+weight: 670
 url: /tr/aspose.cells.drawing/radiobutton/is_smart_art/
 is_root: false
 ---
 ##  is_smart_art mülk
 
-Şeklin akıllı sanat olup olmadığını gösterir.
+Şeklin akıllı sanat olup olmadığını belirtir.
 
 ###  Notlar
 
@@ -32,5 +32,5 @@ def is_smart_art(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RadioButton](/cells/python-net/tr/aspose.cells.drawing/radiobutton)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RadioButton`](/cells/python-net/tr/aspose.cells.drawing/radiobutton)

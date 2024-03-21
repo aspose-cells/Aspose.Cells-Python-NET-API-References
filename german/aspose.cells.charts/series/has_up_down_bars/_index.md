@@ -3,13 +3,13 @@ title: has_up_down_bars Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 250
+weight: 240
 url: /de/aspose.cells.charts/series/has_up_down_bars/
 is_root: false
 ---
 ##  has_up_down_bars Eigentum
 
-True, wenn ein Liniendiagramm Aufwärts- und Abwärtsbalken hat.
+True, wenn ein Liniendiagramm über Aufwärts- und Abwärtsbalken verfügt.
 Gilt nur für Liniendiagramme.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def has_up_down_bars(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

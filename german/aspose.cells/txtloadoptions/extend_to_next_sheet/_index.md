@@ -9,11 +9,14 @@ is_root: false
 ---
 ##  extend_to_next_sheet Eigentum
 
-Ob Daten auf das nächste Blatt erweitert werden, wenn die Datenzeilen oder -spalten das Limit überschreiten.
-Wenn diese Eigenschaft wahr ist, werden zusätzliche Daten auf das nächste Blatt hinter dem aktuellen erweitert (wenn das aktuelle Blatt das letzte ist,
-neues Blatt wird an aktuelle Arbeitsmappe angehängt).
-Wenn diese Eigenschaft falsch ist, wird die Datenüberschreitung ignoriert.
-Standard ist falsch;
+Ob die Daten auf das nächste Blatt erweitert werden, wenn die Datenzeilen oder -spalten den Grenzwert überschreiten.
+Der Standardwert ist falsch.
+
+###  Bemerkungen
+
+Wenn diese Eigenschaft wahr ist, werden zusätzliche Daten in das nächste Blatt hinter dem aktuellen eingefügt
+(Wenn das aktuelle Blatt das letzte ist, wird das neue Blatt an die aktuelle Arbeitsmappe angehängt).
+Wenn diese Eigenschaft falsch ist, werden die Daten, die den Grenzwert überschreiten, ignoriert.
 ###  Definition:
 ```python
 @property
@@ -25,5 +28,5 @@ def extend_to_next_sheet(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [TxtLoadOptions](/cells/python-net/de/aspose.cells/txtloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`TxtLoadOptions`](/cells/python-net/de/aspose.cells/txtloadoptions)

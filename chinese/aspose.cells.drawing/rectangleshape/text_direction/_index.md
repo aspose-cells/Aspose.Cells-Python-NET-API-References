@@ -1,15 +1,15 @@
 ---
-title: text_direction 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_direction属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 930
+weight: 940
 url: /zh/aspose.cells.drawing/rectangleshape/text_direction/
 is_root: false
 ---
-## text_direction 属性
+## text_direction属性
 
-获取/设置此对象的文本流方向。
+获取/设置该对象的文本流方向。
 
 ### 例子
 
@@ -31,6 +31,6 @@ def text_direction(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [RectangleShape](/cells/python-net/zh/aspose.cells.drawing/rectangleshape)
-* 类 [TextDirectionType](/cells/python-net/zh/aspose.cells/textdirectiontype)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`RectangleShape`](/cells/python-net/zh/aspose.cells.drawing/rectangleshape)
+* 类 [`TextDirectionType`](/cells/python-net/zh/aspose.cells/textdirectiontype)

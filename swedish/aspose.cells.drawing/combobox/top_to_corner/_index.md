@@ -3,7 +3,7 @@ title: top_to_corner fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /sv/aspose.cells.drawing/combobox/top_to_corner/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ComboBox](/cells/python-net/sv/aspose.cells.drawing/combobox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ComboBox`](/cells/python-net/sv/aspose.cells.drawing/combobox)

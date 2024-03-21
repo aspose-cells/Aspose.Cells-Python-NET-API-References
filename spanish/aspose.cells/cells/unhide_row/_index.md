@@ -1,13 +1,13 @@
 ---
-title: unhide_row método
+title: método unhide_row
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 990
+weight: 980
 url: /es/aspose.cells/cells/unhide_row/
 is_root: false
 ---
-##  unhide_row(row, height) {#int-float}
+##  unhide_row {#int-float}
 Muestra una fila.
 
 
@@ -26,5 +26,5 @@ def unhide_row(self, row, height):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

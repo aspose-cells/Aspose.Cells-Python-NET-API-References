@@ -1,5 +1,5 @@
 ---
-title: CustomFilterCollection Konstrukteur
+title: CustomFilterCollection Konstruktor
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 10
 url: /de/aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
-##  CustomFilterCollection() {#}
-Erstellt eine neue Instanz von CustomFilterCollection
+##  __drin__ {#}
+Konstruiert eine neue Instanz.
 
 
 
@@ -22,5 +22,5 @@ def __init__(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CustomFilterCollection](/cells/python-net/de/aspose.cells/customfiltercollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CustomFilterCollection`](/cells/python-net/de/aspose.cells/customfiltercollection)

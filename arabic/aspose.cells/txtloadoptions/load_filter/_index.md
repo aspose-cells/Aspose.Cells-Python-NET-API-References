@@ -1,15 +1,15 @@
 ---
-title: load_filter الملكية
+title: load_filter عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 260
 url: /ar/aspose.cells/txtloadoptions/load_filter/
 is_root: false
 ---
-##  load_filter الملكية
+##  load_filter عقار
 
-عامل التصفية للدلالة على كيفية تحميل البيانات.
+عامل التصفية للإشارة إلى كيفية تحميل البيانات.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_filter(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [LoadFilter](/cells/python-net/ar/aspose.cells/loadfilter)
-* فئة [TxtLoadOptions](/cells/python-net/ar/aspose.cells/txtloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`LoadFilter`](/cells/python-net/ar/aspose.cells/loadfilter)
+* فئة [`TxtLoadOptions`](/cells/python-net/ar/aspose.cells/txtloadoptions)

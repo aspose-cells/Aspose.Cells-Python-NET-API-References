@@ -3,13 +3,13 @@ title: text_direction propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 930
+weight: 940
 url: /es/aspose.cells.drawing/dialogbox/text_direction/
 is_root: false
 ---
 ##  text_direction propiedad
 
-Obtiene/Establece la dirección del flujo de texto para este objeto.
+Obtiene/establece la dirección del flujo de texto para este objeto.
 
 ###  Ejemplo
 
@@ -31,6 +31,6 @@ def text_direction(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [DialogBox](/cells/python-net/es/aspose.cells.drawing/dialogbox)
-* clase [TextDirectionType](/cells/python-net/es/aspose.cells/textdirectiontype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`DialogBox`](/cells/python-net/es/aspose.cells.drawing/dialogbox)
+* clase [`TextDirectionType`](/cells/python-net/es/aspose.cells/textdirectiontype)

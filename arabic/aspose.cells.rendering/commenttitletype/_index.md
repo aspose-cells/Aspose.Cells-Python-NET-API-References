@@ -1,26 +1,28 @@
 ---
-title: العد CommentTitleType
+title: CommentTitleType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 170
 url: /ar/aspose.cells.rendering/commenttitletype/
 is_root: false
 ---
-##  العد CommentTitleType
-يمثل نوع عنوان التعليق أثناء العرض عند تعيين التعليق للعرض في نهاية الورقة.
+##  CommentTitleType التعداد
+يمثل نوع عنوان التعليق أثناء العرض عندما يتم تعيين التعليق للعرض في نهاية الورقة.
 
 
 
-يكشف نوع CommentTitleType الأعضاء التالية:
+يكشف النوع CommentTitleType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | CELL | يمثل خلية عنوان التعليق.|
 | COMMENT | يمثل تعليق عنوان التعليق.|
+| NOTE | يمثل ملاحظة عنوان التعليق.|
+| REPLY | يمثل الرد على عنوان التعليق.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
+* الوحدة [`aspose.cells.rendering`](..)

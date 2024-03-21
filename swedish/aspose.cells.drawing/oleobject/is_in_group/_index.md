@@ -3,7 +3,7 @@ title: is_in_group fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 700
+weight: 710
 url: /sv/aspose.cells.drawing/oleobject/is_in_group/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_in_group(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

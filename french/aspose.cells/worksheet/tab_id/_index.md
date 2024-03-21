@@ -3,13 +3,13 @@ title: tab_id propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 800
+weight: 820
 url: /fr/aspose.cells/worksheet/tab_id/
 is_root: false
 ---
 ##  tab_id propriété
 
-Spécifie l'identificateur interne de la feuille.
+Spécifie l'identifiant interne de la feuille.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def tab_id(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

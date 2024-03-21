@@ -3,7 +3,7 @@ title: text_vertical_overflow propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1030
+weight: 1040
 url: /es/aspose.cells.drawing/commentshape/text_vertical_overflow/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_vertical_overflow(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CommentShape](/cells/python-net/es/aspose.cells.drawing/commentshape)
-* clase [TextOverflowType](/cells/python-net/es/aspose.cells.drawing/textoverflowtype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CommentShape`](/cells/python-net/es/aspose.cells.drawing/commentshape)
+* clase [`TextOverflowType`](/cells/python-net/es/aspose.cells.drawing/textoverflowtype)

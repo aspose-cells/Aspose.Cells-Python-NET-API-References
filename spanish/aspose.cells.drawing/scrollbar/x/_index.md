@@ -3,7 +3,7 @@ title: x propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1290
+weight: 1300
 url: /es/aspose.cells.drawing/scrollbar/x/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def x(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ScrollBar](/cells/python-net/es/aspose.cells.drawing/scrollbar)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ScrollBar`](/cells/python-net/es/aspose.cells.drawing/scrollbar)

@@ -1,13 +1,13 @@
 ---
-title: text الملكية
+title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 460
+weight: 450
 url: /ar/aspose.cells.charts/datalabels/text/
 is_root: false
 ---
-##  text الملكية
+##  text عقار
 
 الحصول على أو تعيين text لتسمية البيانات.
 ###  تعريف:
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

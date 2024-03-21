@@ -1,9 +1,9 @@
 ---
 title: width недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 400
+weight: 410
 url: /ru/aspose.cells.charts/legend/width/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def width(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Legend](/cells/python-net/ru/aspose.cells.charts/legend)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Legend`](/cells/python-net/ru/aspose.cells.charts/legend)

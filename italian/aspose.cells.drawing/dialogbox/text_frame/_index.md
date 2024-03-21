@@ -3,7 +3,7 @@ title: text_frame proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 950
+weight: 960
 url: /it/aspose.cells.drawing/dialogbox/text_frame/
 is_root: false
 ---
@@ -14,9 +14,9 @@ Restituisce un oggetto TextFrame che contiene le proprietà di allineamento e an
 ###  Osservazioni
 
  NOTA: questo membro è ora obsoleto. Invece,
- si prega di utilizzare la proprietà Shape.TextBody.TextAlignment.
- Questa proprietà verrà rimossa 12 mesi dopo da maggio 2016.
-Aspose si scusa per gli eventuali disagi causati.
+ utilizzare la proprietà Shape.TextBody.TextAlignment.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da maggio 2016.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -25,6 +25,6 @@ def text_frame(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [DialogBox](/cells/python-net/it/aspose.cells.drawing/dialogbox)
-* classe [MsoTextFrame](/cells/python-net/it/aspose.cells.drawing/msotextframe)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`DialogBox`](/cells/python-net/it/aspose.cells.drawing/dialogbox)
+* classe [`MsoTextFrame`](/cells/python-net/it/aspose.cells.drawing/msotextframe)

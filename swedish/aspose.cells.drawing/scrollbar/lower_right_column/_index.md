@@ -3,7 +3,7 @@ title: lower_right_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 790
+weight: 800
 url: /sv/aspose.cells.drawing/scrollbar/lower_right_column/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def lower_right_column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ScrollBar](/cells/python-net/sv/aspose.cells.drawing/scrollbar)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ScrollBar`](/cells/python-net/sv/aspose.cells.drawing/scrollbar)

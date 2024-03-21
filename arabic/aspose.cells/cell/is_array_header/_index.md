@@ -1,15 +1,15 @@
 ---
-title: is_array_header الملكية
+title: is_array_header عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 550
 url: /ar/aspose.cells/cell/is_array_header/
 is_root: false
 ---
-##  is_array_header الملكية
+##  is_array_header عقار
 
- يشير إلى أن صيغة الخلية هي وصيغة الصفيف
+ يشير إلى أن صيغة الخلية هي صيغة صفيف
 وهي الخلية الأولى في المصفوفة.
 ###  تعريف:
 ```python
@@ -19,5 +19,5 @@ def is_array_header(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

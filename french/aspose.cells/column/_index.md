@@ -3,7 +3,7 @@ title: Column classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 260
+weight: 270
 url: /fr/aspose.cells/column/
 is_root: false
 ---
@@ -18,10 +18,10 @@ Le type Column expose les membres suivants :
 | Propriété| Description|
 | :- | :- |
 | [index](/cells/python-net/fr/aspose.cells/column/index) | Obtient l'index de cette colonne.|
-| [width](/cells/python-net/fr/aspose.cells/column/width) | Obtient et définit la largeur de la colonne en unité de caractères.|
-| [group_level](/cells/python-net/fr/aspose.cells/column/group_level) |Obtient le niveau de groupe de la colonne.|
+| [width](/cells/python-net/fr/aspose.cells/column/width) | Obtient et définit la largeur de colonne en unité de caractères.|
+| [group_level](/cells/python-net/fr/aspose.cells/column/group_level) | Obtient le niveau de groupe de la colonne.|
 | [is_hidden](/cells/python-net/fr/aspose.cells/column/is_hidden) | Indique si la colonne est masquée.|
-| [has_custom_style](/cells/python-net/fr/aspose.cells/column/has_custom_style) | Indique si cette colonne a des paramètres de style personnalisés (différents de ceux par défaut hérités du classeur).|
+| [has_custom_style](/cells/python-net/fr/aspose.cells/column/has_custom_style) | Indique si cette colonne a des paramètres de style personnalisés (différents de celui par défaut hérité du classeur).|
 | [style](/cells/python-net/fr/aspose.cells/column/style) | Obtient le style de cette colonne.|
 | [is_collapsed](/cells/python-net/fr/aspose.cells/column/is_collapsed) | si la colonne est réduite|
 
@@ -29,9 +29,9 @@ Le type Column expose les membres suivants :
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [apply_style(style, flag)](/cells/python-net/fr/aspose.cells/column/apply_style/#Style-StyleFlag) | Applique les formats pour une colonne entière.|
-| [get_style()](/cells/python-net/fr/aspose.cells/column/get_style/#) | Obtient le style de cette colonne.|
-| [set_style(style)](/cells/python-net/fr/aspose.cells/column/set_style/#Style) | Définit le style de cette colonne.|
+| [apply_style](/cells/python-net/fr/aspose.cells/column/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) |Applique des formats pour une colonne entière.|
+| [get_style](/cells/python-net/fr/aspose.cells/column/get_style/#) | Obtient le style de cette colonne.|
+| [set_style](/cells/python-net/fr/aspose.cells/column/set_style/#aspose.cells.Style) | Définit le style de cette colonne.|
 
 
 
@@ -66,4 +66,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

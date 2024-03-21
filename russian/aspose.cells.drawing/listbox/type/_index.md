@@ -1,15 +1,15 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /ru/aspose.cells.drawing/listbox/type/
 is_root: false
 ---
 ##  type недвижимость
 
-Получает автоматическую форму type.
+Получает автофигуру type.
 
 ###  Пример
 
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [AutoShapeType](/cells/python-net/ru/aspose.cells.drawing/autoshapetype)
-* класс [ListBox](/cells/python-net/ru/aspose.cells.drawing/listbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`AutoShapeType`](/cells/python-net/ru/aspose.cells.drawing/autoshapetype)
+* класс [`ListBox`](/cells/python-net/ru/aspose.cells.drawing/listbox)

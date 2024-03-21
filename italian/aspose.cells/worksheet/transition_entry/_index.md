@@ -3,7 +3,7 @@ title: transition_entry proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 830
+weight: 850
 url: /it/aspose.cells/worksheet/transition_entry/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def transition_entry(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

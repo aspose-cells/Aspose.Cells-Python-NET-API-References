@@ -3,7 +3,7 @@ title: is_cell_auto_fit fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 160
 url: /sv/aspose.cells.rendering/imageorprintoptions/is_cell_auto_fit/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Standardvärdet är falskt.
 ###  Anmärkningar
 
  OBS: Denna medlem är nu föråldrad. Istället,
-använd [Worksheet.auto_fit_columns()](/cells/python-net/sv/aspose.cells/worksheet/auto_fit_columns) och [Worksheet.auto_fit_rows()](/cells/python-net/sv/aspose.cells/worksheet/auto_fit_rows).
+använd [`Worksheet.auto_fit_columns`](/cells/python-net/sv/aspose.cells/worksheet/auto_fit_columns) och [`Worksheet.auto_fit_rows`](/cells/python-net/sv/aspose.cells/worksheet/auto_fit_rows).
  Den här egenskapen kommer att tas bort 12 månader senare sedan augusti 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
@@ -29,5 +29,5 @@ def is_cell_auto_fit(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)

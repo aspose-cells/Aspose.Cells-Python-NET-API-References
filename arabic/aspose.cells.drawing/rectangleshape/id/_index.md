@@ -1,13 +1,13 @@
 ---
-title: id الملكية
+title: id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 510
 url: /ar/aspose.cells.drawing/rectangleshape/id/
 is_root: false
 ---
-##  id الملكية
+##  id عقار
 
 يحصل على معرف هذا الشكل.
 
@@ -26,5 +26,5 @@ def id(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RectangleShape](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RectangleShape`](/cells/python-net/ar/aspose.cells.drawing/rectangleshape)

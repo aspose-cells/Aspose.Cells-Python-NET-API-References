@@ -3,11 +3,11 @@ title: ungroup_columns metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 950
+weight: 940
 url: /sv/aspose.cells/cells/ungroup_columns/
 is_root: false
 ---
-##  ungroup_columns(first_index, last_index) {#int-int}
+##  ungroup_columns {#int-int}
 Delar upp kolumner.
 
 
@@ -26,5 +26,5 @@ def ungroup_columns(self, first_index, last_index):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

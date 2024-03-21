@@ -1,13 +1,13 @@
 ---
 title: import_formula_array метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 660
+weight: 650
 url: /ru/aspose.cells/cells/import_formula_array/
 is_root: false
 ---
-##  import_formula_array(string_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+##  import_formula_array {#list-int-int-bool}
 Импортирует массив формул на лист.
 
 
@@ -23,10 +23,10 @@ def import_formula_array(self, string_array, first_row, first_column, is_vertica
 | string_array | list | Массив формул.|
 | first_row | int | Номер строки первой ячейки для импорта.|
 | first_column | int | Номер столбца первой ячейки для импорта.|
-| is_vertical | bool | Задает импорт данных по вертикали или по горизонтали.|
+| is_vertical | bool | Указывает, нужно ли импортировать данные вертикально или горизонтально.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

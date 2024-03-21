@@ -1,13 +1,13 @@
 ---
 title: replace метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 230
+weight: 250
 url: /ru/aspose.cells/worksheet/replace/
 is_root: false
 ---
-##  replace(old_string, new_string) {#str-str}
+##  replace {#str-str}
 Заменяет текст всех ячеек новой строкой.
 
 
@@ -26,5 +26,5 @@ def replace(self, old_string, new_string):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

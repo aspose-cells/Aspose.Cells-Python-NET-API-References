@@ -1,13 +1,13 @@
 ---
 title: unhide_columns метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 980
+weight: 970
 url: /ru/aspose.cells/cells/unhide_columns/
 is_root: false
 ---
-##  unhide_columns(column, total_columns, width) {#int-int-float}
+##  unhide_columns {#int-int-float}
 Показать несколько столбцов.
 
 
@@ -30,5 +30,5 @@ def unhide_columns(self, column, total_columns, width):
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

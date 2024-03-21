@@ -3,12 +3,12 @@ title: ChartLineFormattingType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 410
+weight: 420
 url: /de/aspose.cells.charts/chartlineformattingtype/
 is_root: false
 ---
 ##  ChartLineFormattingType Aufzählung
-Repräsentiert den Linienformattyp der Diagrammlinie.
+Stellt den Linienformattyp der Diagrammlinie dar.
 
 
 
@@ -17,12 +17,12 @@ Der Typ ChartLineFormattingType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| AUTOMATIC | Stellt den automatischen Formatierungstyp dar.|
-| SOLID | Stellt den Formatierungstyp Solid dar.|
-| NONE | Stellt keinen Formatierungstyp dar.|
+| AUTOMATIC | Stellt den Typ der automatischen Formatierung dar.|
+| SOLID | Stellt den festen Formatierungstyp dar.|
+| NONE |Stellt keinen Formatierungstyp dar.|
 | GRADIENT | Gradient|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

@@ -1,15 +1,15 @@
 ---
-title: border_line_color الملكية
+title: border_line_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 330
 url: /ar/aspose.cells.drawing/picture/border_line_color/
 is_root: false
 ---
-##  border_line_color الملكية
+##  border_line_color عقار
 
-يمثل لون خط حدود الصورة.
+يمثل لون الخط الحدودي للصورة.
 
 ###  مثال
 
@@ -41,5 +41,5 @@ def border_line_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

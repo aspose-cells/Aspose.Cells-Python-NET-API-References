@@ -1,6 +1,6 @@
 ---
 title: assemble_document_permission недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 50
@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  assemble_document_permission недвижимость
 
-Разрешение на вставку, поворот или удаление страниц и создание закладок или эскизов, даже если ModifyDocumentPermission не установлен.
+ Указывает, разрешено ли собирать документ (вставлять, поворачивать или удалять страницы, а также создавать закладки или миниатюры изображений).
+даже если [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) ясно.
 ###  Определение:
 ```python
 @property
@@ -21,5 +22,5 @@ def assemble_document_permission(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering.pdfsecurity](../../)
-* класс [PdfSecurityOptions](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* модуль [`aspose.cells.rendering.pdfsecurity`](../../)
+* класс [`PdfSecurityOptions`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

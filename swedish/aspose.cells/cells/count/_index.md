@@ -3,7 +3,7 @@ title: count fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1030
+weight: 1020
 url: /sv/aspose.cells/cells/count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

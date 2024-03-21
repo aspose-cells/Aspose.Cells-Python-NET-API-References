@@ -3,7 +3,7 @@ title: quality propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 280
 url: /fr/aspose.cells.rendering/imageorprintoptions/quality/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def quality(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [ImageOrPrintOptions](/cells/python-net/fr/aspose.cells.rendering/imageorprintoptions)
+* module [`aspose.cells.rendering`](../../)
+* classe [`ImageOrPrintOptions`](/cells/python-net/fr/aspose.cells.rendering/imageorprintoptions)

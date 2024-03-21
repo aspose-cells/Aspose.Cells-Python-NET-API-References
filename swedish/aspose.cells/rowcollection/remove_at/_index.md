@@ -3,12 +3,12 @@ title: remove_at metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 40
+weight: 50
 url: /sv/aspose.cells/rowcollection/remove_at/
 is_root: false
 ---
-##  remove_at(index) {#int}
-Ta bort raden vid angivet index
+##  remove_at {#int}
+Ta bort radobjektet vid angivet index(position) i denna samling.
 
 
 
@@ -20,10 +20,10 @@ def remove_at(self, index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| index | int | nollbaserat radindex|
+| index | int |nollbaserat index (position, inte [`Row.index`](/cells/python-net/sv/aspose.cells/row#index)) för det befintliga radobjektet i den här samlingen.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [RowCollection](/cells/python-net/sv/aspose.cells/rowcollection)
+* modul [`aspose.cells`](../../)
+* klass [`RowCollection`](/cells/python-net/sv/aspose.cells/rowcollection)

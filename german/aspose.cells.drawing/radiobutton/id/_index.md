@@ -3,7 +3,7 @@ title: id Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 510
+weight: 530
 url: /de/aspose.cells.drawing/radiobutton/id/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def id(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RadioButton](/cells/python-net/de/aspose.cells.drawing/radiobutton)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RadioButton`](/cells/python-net/de/aspose.cells.drawing/radiobutton)

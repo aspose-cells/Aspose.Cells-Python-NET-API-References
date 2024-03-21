@@ -3,7 +3,7 @@ title: top fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 410
 url: /sv/aspose.cells/range/top/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def top(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

@@ -1,9 +1,9 @@
 ---
 title: CellValueType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1850
+weight: 1920
 url: /ru/aspose.cells/cellvaluetype/
 is_root: false
 ---
@@ -12,20 +12,20 @@ is_root: false
 
 
 
-Тип CellValueType предоставляет следующие члены:
+Тип CellValueType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| IS_BOOL | Cell значение логическое.|
-| IS_DATE_TIME | Значение Cell — это дата и время.|
-| IS_ERROR | Cell содержит значение ошибки|
-| IS_NULL | Пустая ячейка.|
-| IS_NUMERIC | Значение Cell является числовым.|
-| IS_STRING | Значение Cell — строка.|
 | IS_UNKNOWN | Cell тип значения неизвестен.|
+| IS_NULL | Пустая ячейка. Соответствующее значение должно быть нулевым.|
+| IS_NUMERIC | Значение Cell является числовым. Соответствующее значение должно быть int или double.|
+| IS_DATE_TIME | Значение Cell — это дата и время. Соответствующее значение должно быть DateTime.|
+| IS_STRING | Значение Cell является строкой. Соответствующее значение должно быть строкой.|
+| IS_BOOL | Значение Cell является логическим. Соответствующее значение должно быть bool.|
+| IS_ERROR | Cell содержит значение ошибки. Соответствующее значение должно быть строкой ошибки.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

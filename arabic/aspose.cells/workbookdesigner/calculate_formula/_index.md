@@ -1,15 +1,15 @@
 ---
-title: calculate_formula الملكية
+title: calculate_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells/workbookdesigner/calculate_formula/
 is_root: false
 ---
-##  calculate_formula الملكية
+##  calculate_formula عقار
 
-يشير إلى ما إذا كان يجب حساب الصيغ.
+الإشارة إلى ما إذا كان ينبغي حساب الصيغ.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def calculate_formula(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookDesigner](/cells/python-net/ar/aspose.cells/workbookdesigner)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookDesigner`](/cells/python-net/ar/aspose.cells/workbookdesigner)

@@ -1,18 +1,18 @@
 ---
 title: UnionRange类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1530
+weight: 1600
 url: /zh/aspose.cells/unionrange/
 is_root: false
 ---
 ## UnionRange类
-表示联合范围。
+代表联合范围。
 
 
 
-UnionRange 类型公开了以下成员：
+UnionRange 类型公开以下成员：
 
 ### 特性
 |属性|描述|
@@ -34,23 +34,23 @@ UnionRange 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [set_outline_borders(border_styles, border_colors)](/cells/python-net/zh/aspose.cells/unionrange/set_outline_borders/#list-aspose.pydrawing.Color[]) |在一系列单元格周围设置线条边框。|
-| [set_outline_borders(border_style, border_color)](/cells/python-net/zh/aspose.cells/unionrange/set_outline_borders/#CellBorderType-aspose.pydrawing.Color) |在具有相同边框样式和颜色的一系列单元格周围设置轮廓边框。|
-| [intersect(range)](/cells/python-net/zh/aspose.cells/unionrange/intersect/#str) |与另一个范围相交。|
-| [intersect(union_range)](/cells/python-net/zh/aspose.cells/unionrange/intersect/#UnionRange) |与另一个范围相交。|
-| [intersect(ranges)](/cells/python-net/zh/aspose.cells/unionrange/intersect/#list) |与另一个范围相交。|
-| [union(range)](/cells/python-net/zh/aspose.cells/unionrange/union/#str) |联合另一个范围。|
-| [union(union_range)](/cells/python-net/zh/aspose.cells/unionrange/union/#UnionRange) |联合另一个范围。|
-| [union(ranges)](/cells/python-net/zh/aspose.cells/unionrange/union/#list) |合并范围。|
-| [merge()](/cells/python-net/zh/aspose.cells/unionrange/merge/#) |将一系列单元格组合成一个单元格。|
-| [un_merge()](/cells/python-net/zh/aspose.cells/unionrange/un_merge/#) |取消合并此范围内的合并单元格。|
-| [put_value(string_value, is_converted, set_style)](/cells/python-net/zh/aspose.cells/unionrange/put_value/#str-bool-bool) |将一个值放入范围内，如果合适，该值将被转换为其他数据类型，并且单元格的数字格式将被重置。|
-| [set_style(style)](/cells/python-net/zh/aspose.cells/unionrange/set_style/#Style) |设置范围的样式。|
-| [apply_style(style, flag)](/cells/python-net/zh/aspose.cells/unionrange/apply_style/#Style-StyleFlag) |应用整个范围的格式。|
-| [copy(range, options)](/cells/python-net/zh/aspose.cells/unionrange/copy/#UnionRange-PasteOptions) |使用粘贴特殊选项复制范围。|
-| [get_enumerator()](/cells/python-net/zh/aspose.cells/unionrange/get_enumerator/#) |获取此 Range 中单元格的枚举器。|
+| [set_outline_borders](/cells/python-net/zh/aspose.cells/unionrange/set_outline_borders/#list-aspose.pydrawing.Color[]) |设置一系列单元格周围的线条边框。|
+| [set_outline_borders](/cells/python-net/zh/aspose.cells/unionrange/set_outline_borders/#aspose.cells.CellBorderType-aspose.pydrawing.Color) |设置具有相同边框样式和颜色的一系列单元格周围的轮廓边框。|
+| [intersect](/cells/python-net/zh/aspose.cells/unionrange/intersect/#str) |与另一个范围相交。|
+| [intersect](/cells/python-net/zh/aspose.cells/unionrange/intersect/#aspose.cells.UnionRange) |与另一个范围相交。|
+| [intersect](/cells/python-net/zh/aspose.cells/unionrange/intersect/#list) |与另一个范围相交。|
+| [union](/cells/python-net/zh/aspose.cells/unionrange/union/#str) |联合另一个范围。|
+| [union](/cells/python-net/zh/aspose.cells/unionrange/union/#aspose.cells.UnionRange) |联合另一个范围。|
+| [union](/cells/python-net/zh/aspose.cells/unionrange/union/#list) |联合范围。|
+| [merge](/cells/python-net/zh/aspose.cells/unionrange/merge/#) |将一系列单元格合并为一个单元格。|
+| [un_merge](/cells/python-net/zh/aspose.cells/unionrange/un_merge/#) |取消合并该范围的合并单元格。|
+| [put_value](/cells/python-net/zh/aspose.cells/unionrange/put_value/#str-bool-bool) |将一个值放入范围内，如果合适，该值将转换为其他数据类型，并且单元格的数字格式将被重置。|
+| [set_style](/cells/python-net/zh/aspose.cells/unionrange/set_style/#aspose.cells.Style) |设置范围的样式。|
+| [apply_style](/cells/python-net/zh/aspose.cells/unionrange/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) |应用整个范围的格式。|
+| [copy](/cells/python-net/zh/aspose.cells/unionrange/copy/#aspose.cells.UnionRange-aspose.cells.PasteOptions) |使用粘贴特殊选项复制范围。|
+| [get_enumerator](/cells/python-net/zh/aspose.cells/unionrange/get_enumerator/#) |获取此范围内的单元格的枚举数。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

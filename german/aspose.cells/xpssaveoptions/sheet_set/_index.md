@@ -3,17 +3,17 @@ title: sheet_set Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 250
 url: /de/aspose.cells/xpssaveoptions/sheet_set/
 is_root: false
 ---
 ##  sheet_set Eigentum
 
-Ruft die zu rendernden Blätter ab oder legt diese fest. Standard sind alle sichtbaren Blätter in der Arbeitsmappe: [SheetSet.visible](/cells/python-net/de/aspose.cells.rendering/sheetset#visible).
+Ruft die zu rendernden Blätter ab oder legt diese fest. Standardmäßig sind alle sichtbaren Blätter in der Arbeitsmappe: [`SheetSet.visible`](/cells/python-net/de/aspose.cells.rendering/sheetset#visible).
 
 ###  Beispiel
 
-Der folgende Code rendert nur das aktive Blatt in PDF.
+Der folgende Code rendert nur das aktive Blatt als PDF.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -38,6 +38,6 @@ def sheet_set(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [SheetSet](/cells/python-net/de/aspose.cells.rendering/sheetset)
-* Klasse [XpsSaveOptions](/cells/python-net/de/aspose.cells/xpssaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`SheetSet`](/cells/python-net/de/aspose.cells.rendering/sheetset)
+* Klasse [`XpsSaveOptions`](/cells/python-net/de/aspose.cells/xpssaveoptions)

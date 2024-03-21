@@ -1,15 +1,15 @@
 ---
 title: match_entire_cell_contents недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ru/aspose.cells/replaceoptions/match_entire_cell_contents/
 is_root: false
 ---
 ##  match_entire_cell_contents недвижимость
 
-Указывает, следует ли сопоставлять все содержимое ячеек
+Указывает, следует ли сопоставлять содержимое всех ячеек
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def match_entire_cell_contents(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ReplaceOptions](/cells/python-net/ru/aspose.cells/replaceoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ReplaceOptions`](/cells/python-net/ru/aspose.cells/replaceoptions)

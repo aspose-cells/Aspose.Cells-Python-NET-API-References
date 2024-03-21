@@ -1,15 +1,15 @@
 ---
 title: left_to_corner недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 710
+weight: 720
 url: /ru/aspose.cells.drawing/chartshape/left_to_corner/
 is_root: false
 ---
 ##  left_to_corner недвижимость
 
-Получает и задает горизонтальное смещение фигуры от левой границы рабочего листа.
+Получает и задает горизонтальное смещение фигуры от левой границы листа.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def left_to_corner(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ChartShape](/cells/python-net/ru/aspose.cells.drawing/chartshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ChartShape`](/cells/python-net/ru/aspose.cells.drawing/chartshape)

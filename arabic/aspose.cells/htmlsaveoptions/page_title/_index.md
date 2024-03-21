@@ -1,15 +1,15 @@
 ---
-title: page_title الملكية
+title: page_title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 510
+weight: 580
 url: /ar/aspose.cells/htmlsaveoptions/page_title/
 is_root: false
 ---
-##  page_title الملكية
+##  page_title عقار
 
-عنوان صفحة html.
+عنوان صفحة HTML.
 فقط للحفظ في دفق HTML.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def page_title(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

@@ -1,9 +1,9 @@
 ---
 title: Column класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ru/aspose.cells/column/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип Column предоставляет следующие члены:
+Тип Column предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [index](/cells/python-net/ru/aspose.cells/column/index) | Получает индекс этого столбца.|
 | [width](/cells/python-net/ru/aspose.cells/column/width) | Получает и задает ширину столбца в символах.|
-| [group_level](/cells/python-net/ru/aspose.cells/column/group_level) |Получает уровень группы столбца.|
+| [group_level](/cells/python-net/ru/aspose.cells/column/group_level) | Получает уровень группы столбца.|
 | [is_hidden](/cells/python-net/ru/aspose.cells/column/is_hidden) | Указывает, скрыт ли столбец.|
-| [has_custom_style](/cells/python-net/ru/aspose.cells/column/has_custom_style) | Указывает, имеет ли этот столбец пользовательские настройки стиля (отличные от стандартных, унаследованных от книги).|
+| [has_custom_style](/cells/python-net/ru/aspose.cells/column/has_custom_style) | Указывает, имеет ли этот столбец пользовательские настройки стиля (отличные от стиля по умолчанию, унаследованного из книги).|
 | [style](/cells/python-net/ru/aspose.cells/column/style) | Получает стиль этого столбца.|
 | [is_collapsed](/cells/python-net/ru/aspose.cells/column/is_collapsed) | свернута ли колонка|
 
@@ -29,9 +29,9 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [apply_style(style, flag)](/cells/python-net/ru/aspose.cells/column/apply_style/#Style-StyleFlag) | Применяет форматы ко всему столбцу.|
-| [get_style()](/cells/python-net/ru/aspose.cells/column/get_style/#) | Получает стиль этого столбца.|
-| [set_style(style)](/cells/python-net/ru/aspose.cells/column/set_style/#Style) | Задает стиль этого столбца.|
+| [apply_style](/cells/python-net/ru/aspose.cells/column/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) |Применяет форматы для всего столбца.|
+| [get_style](/cells/python-net/ru/aspose.cells/column/get_style/#) | Получает стиль этого столбца.|
+| [set_style](/cells/python-net/ru/aspose.cells/column/set_style/#aspose.cells.Style) | Устанавливает стиль этого столбца.|
 
 
 
@@ -66,4 +66,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

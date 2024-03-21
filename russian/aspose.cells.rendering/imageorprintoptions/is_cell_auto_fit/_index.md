@@ -1,22 +1,22 @@
 ---
 title: is_cell_auto_fit недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ru/aspose.cells.rendering/imageorprintoptions/is_cell_auto_fit/
 is_root: false
 ---
 ##  is_cell_auto_fit недвижимость
 
- Указывает, подгоняются ли ширина и высота ячеек автоматически по значению ячейки.
+ Указывает, подгоняется ли ширина и высота ячеек автоматически по значению ячейки.
 Значение по умолчанию неверно.
 
 ###  Примечания
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
-пожалуйста, используйте [Worksheet.auto_fit_columns()](/cells/python-net/ru/aspose.cells/worksheet/auto_fit_columns) и [Worksheet.auto_fit_rows()](/cells/python-net/ru/aspose.cells/worksheet/auto_fit_rows).
- Это свойство будет удалено через 12 месяцев, начиная с августа 2022 года.
+пожалуйста, используйте [`Worksheet.auto_fit_columns`](/cells/python-net/ru/aspose.cells/worksheet/auto_fit_columns) и [`Worksheet.auto_fit_rows`](/cells/python-net/ru/aspose.cells/worksheet/auto_fit_rows).
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с августа 2022 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -29,5 +29,5 @@ def is_cell_auto_fit(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)

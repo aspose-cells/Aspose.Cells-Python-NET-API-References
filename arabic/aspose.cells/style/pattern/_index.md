@@ -1,15 +1,15 @@
 ---
-title: pattern الملكية
+title: pattern عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 430
 url: /ar/aspose.cells/style/pattern/
 is_root: false
 ---
-##  pattern الملكية
+##  pattern عقار
 
-الحصول على نوع خلفية الخلية pattern أو تعيينه.
+الحصول على أو تعيين نوع خلفية الخلية pattern.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [BackgroundType](/cells/python-net/ar/aspose.cells/backgroundtype)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`BackgroundType`](/cells/python-net/ar/aspose.cells/backgroundtype)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

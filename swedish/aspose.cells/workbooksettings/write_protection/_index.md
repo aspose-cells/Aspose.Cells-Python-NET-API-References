@@ -3,7 +3,7 @@ title: write_protection fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 760
+weight: 640
 url: /sv/aspose.cells/workbooksettings/write_protection/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def write_protection(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
-* klass [WriteProtection](/cells/python-net/sv/aspose.cells/writeprotection)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)
+* klass [`WriteProtection`](/cells/python-net/sv/aspose.cells/writeprotection)

@@ -1,15 +1,15 @@
 ---
-title: font الملكية
+title: font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 440
 url: /ar/aspose.cells.drawing/oleobject/font/
 is_root: false
 ---
-##  font الملكية
+##  font عقار
 
-يمثل font للشكل.
+يمثل font من الشكل.
 
 ###  مثال
 
@@ -33,6 +33,6 @@ def font(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

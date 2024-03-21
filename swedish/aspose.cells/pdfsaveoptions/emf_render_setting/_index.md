@@ -15,8 +15,8 @@ Inställning för rendering av Emf-metafil.
 
  EMF metafiler identifierade som "EMF+ Dual" kan innehålla både EMF+ poster och EMF poster.
 Vilken typ av post som helst kan användas för att återge bilden, endast EMF+ poster, eller bara EMF poster.
-När [EmfRenderSetting.EMF_PLUS_PREFER](/cells/python-net/sv/aspose.cells/emfrendersetting#EMF_PLUS_PREFER) är inställt, kommer EMF+ poster att tolkas under rendering till pdf, annars kommer endast EMF poster att tolkas.
-Standardvärdet är [EmfRenderSetting.EMF_ONLY](/cells/python-net/sv/aspose.cells/emfrendersetting#EMF_ONLY).
+När [`EmfRenderSetting.EMF_PLUS_PREFER`](/cells/python-net/sv/aspose.cells/emfrendersetting#EMF_PLUS_PREFER) är inställt, kommer EMF+ poster att tolkas under rendering till sida, annars kommer endast EMF poster att tolkas.
+Standardvärdet är [`EmfRenderSetting.EMF_ONLY`](/cells/python-net/sv/aspose.cells/emfrendersetting#EMF_ONLY).
 ###  Definition:
 ```python
 @property
@@ -28,6 +28,6 @@ def emf_render_setting(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [EmfRenderSetting](/cells/python-net/sv/aspose.cells/emfrendersetting)
-* klass [PdfSaveOptions](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`EmfRenderSetting`](/cells/python-net/sv/aspose.cells/emfrendersetting)
+* klass [`PdfSaveOptions`](/cells/python-net/sv/aspose.cells/pdfsaveoptions)

@@ -3,7 +3,7 @@ title: source_full_name proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /it/aspose.cells.drawing/oleobject/source_full_name/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Restituisce il nome completo di origine del file di origine per l'oggetto OLE co
 
  NOTA: questo membro è ora obsoleto. Invece,
 utilizzare la proprietà OleObject.ObjectSourceFullName.
- Questa proprietà verrà rimossa 12 mesi dopo da novembre 2013.
-Aspose si scusa per gli eventuali disagi causati.
+ Questa proprietà verrà rimossa 12 mesi dopo a partire da novembre 2013.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -28,5 +28,5 @@ def source_full_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/it/aspose.cells.drawing/oleobject)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/it/aspose.cells.drawing/oleobject)

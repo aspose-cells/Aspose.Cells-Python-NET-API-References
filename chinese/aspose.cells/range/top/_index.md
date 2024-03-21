@@ -1,13 +1,13 @@
 ---
-title: top 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: top属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 390
+weight: 410
 url: /zh/aspose.cells/range/top/
 is_root: false
 ---
-## top 属性
+## top属性
 
 获取从第 1 行的 top 边缘到范围的 top 边缘的距离（以磅为单位）。
 ### 定义：
@@ -18,5 +18,5 @@ def top(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Range](/cells/python-net/zh/aspose.cells/range)
+* 模块[`aspose.cells`](../../)
+* 类 [`Range`](/cells/python-net/zh/aspose.cells/range)

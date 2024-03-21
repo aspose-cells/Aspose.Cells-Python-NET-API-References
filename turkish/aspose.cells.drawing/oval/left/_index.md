@@ -3,13 +3,13 @@ title: left mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 660
+weight: 670
 url: /tr/aspose.cells.drawing/oval/left/
 is_root: false
 ---
 ##  left mülk
 
-Şeklin left sütunundan yatay uzaklığını piksel birimi cinsinden temsil eder.
+Şeklin left sütunundan yatay uzaklığını piksel cinsinden temsil eder.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def left(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Oval](/cells/python-net/tr/aspose.cells.drawing/oval)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Oval`](/cells/python-net/tr/aspose.cells.drawing/oval)

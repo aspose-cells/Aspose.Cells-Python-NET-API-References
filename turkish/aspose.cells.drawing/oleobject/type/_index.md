@@ -3,7 +3,7 @@ title: type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1280
+weight: 1290
 url: /tr/aspose.cells.drawing/oleobject/type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [AutoShapeType](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)
-* sınıf [OleObject](/cells/python-net/tr/aspose.cells.drawing/oleobject)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`AutoShapeType`](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)
+* sınıf [`OleObject`](/cells/python-net/tr/aspose.cells.drawing/oleobject)

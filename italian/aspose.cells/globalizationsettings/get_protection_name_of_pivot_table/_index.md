@@ -1,13 +1,13 @@
 ---
-title: metodo get_protection_name_of_pivot_table
+title: Metodo get_protection_name_of_pivot_table
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 160
+weight: 170
 url: /it/aspose.cells/globalizationsettings/get_protection_name_of_pivot_table/
 is_root: false
 ---
-##  get_protection_name_of_pivot_table() {#}
+##  get_protection_name_of_pivot_table {#}
 Ottiene il nome della protezione nella tabella pivot.
 
 
@@ -25,11 +25,11 @@ def get_protection_name_of_pivot_table(self):
 ###  Osservazioni
 
 NOTA: questo membro è ora obsoleto. Invece,
-utilizzare il metodo GlobalizationSettings.GetColumnLabelsOfPivotTable().
- Questa proprietà verrà rimossa 12 mesi dopo da dicembre 2022.
-Aspose si scusa per gli eventuali disagi causati.
+utilizzare il metodo PivotGlobalizationSettings.GetTextOfProtectedName(string).
+ Questa proprietà verrà rimossa 12 mesi dopo a partire da dicembre 2022.
+Aspose si scusa per eventuali disagi riscontrati.
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [GlobalizationSettings](/cells/python-net/it/aspose.cells/globalizationsettings)
+* modulo [`aspose.cells`](../../)
+* classe [`GlobalizationSettings`](/cells/python-net/it/aspose.cells/globalizationsettings)

@@ -1,9 +1,9 @@
 ---
 title: format_picture недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 430
+weight: 440
 url: /ru/aspose.cells.drawing/lineshape/format_picture/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def format_picture(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineShape](/cells/python-net/ru/aspose.cells.drawing/lineshape)
-* класс [MsoFormatPicture](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineShape`](/cells/python-net/ru/aspose.cells.drawing/lineshape)
+* класс [`MsoFormatPicture`](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)

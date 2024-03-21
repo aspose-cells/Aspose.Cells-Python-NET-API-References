@@ -3,7 +3,7 @@ title: DropBars clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 140
+weight: 150
 url: /es/aspose.cells.charts/dropbars/
 is_root: false
 ---
@@ -17,11 +17,11 @@ El tipo DropBars expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [border](/cells/python-net/es/aspose.cells.charts/dropbars/border) | Obtiene el borde [Line](/cells/python-net/es/aspose.cells.drawing/line).|
-| [area](/cells/python-net/es/aspose.cells.charts/dropbars/area) | Obtiene el [DropBars.area](/cells/python-net/es/aspose.cells.charts/dropbars#area).|
+| [border](/cells/python-net/es/aspose.cells.charts/dropbars/border) | Obtiene la frontera [`Line`](/cells/python-net/es/aspose.cells.drawing/line).|
+| [area](/cells/python-net/es/aspose.cells.charts/dropbars/area) | Obtiene el [`DropBars.area`](/cells/python-net/es/aspose.cells.charts/dropbars#area).|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
+* módulo [`aspose.cells.charts`](..)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)

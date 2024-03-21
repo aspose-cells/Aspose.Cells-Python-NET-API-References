@@ -3,7 +3,7 @@ title: FontSchemeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2070
+weight: 2140
 url: /sv/aspose.cells/fontschemetype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen FontSchemeType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

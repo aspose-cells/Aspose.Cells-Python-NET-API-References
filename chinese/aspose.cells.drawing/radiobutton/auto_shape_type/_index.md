@@ -1,13 +1,13 @@
 ---
-title: auto_shape_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: auto_shape_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 280
+weight: 310
 url: /zh/aspose.cells.drawing/radiobutton/auto_shape_type/
 is_root: false
 ---
-## auto_shape_type 属性
+## auto_shape_type属性
 
 获取和设置自动形状类型。
 
@@ -31,6 +31,6 @@ def auto_shape_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [AutoShapeType](/cells/python-net/zh/aspose.cells.drawing/autoshapetype)
-* 类 [RadioButton](/cells/python-net/zh/aspose.cells.drawing/radiobutton)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`AutoShapeType`](/cells/python-net/zh/aspose.cells.drawing/autoshapetype)
+* 类 [`RadioButton`](/cells/python-net/zh/aspose.cells.drawing/radiobutton)

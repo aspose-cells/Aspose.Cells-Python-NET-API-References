@@ -3,7 +3,7 @@ title: anchor_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 270
+weight: 290
 url: /es/aspose.cells.drawing/checkbox/anchor_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def anchor_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CheckBox](/cells/python-net/es/aspose.cells.drawing/checkbox)
-* clase [ShapeAnchorType](/cells/python-net/es/aspose.cells.drawing/shapeanchortype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CheckBox`](/cells/python-net/es/aspose.cells.drawing/checkbox)
+* clase [`ShapeAnchorType`](/cells/python-net/es/aspose.cells.drawing/shapeanchortype)

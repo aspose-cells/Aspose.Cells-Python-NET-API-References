@@ -1,9 +1,9 @@
 ---
 title: ChartDataTable класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ru/aspose.cells.charts/chartdatatable/
 is_root: false
 ---
@@ -12,20 +12,20 @@ is_root: false
 
 
 
-Тип ChartDataTable предоставляет следующие члены:
+Тип ChartDataTable предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [font](/cells/python-net/ru/aspose.cells.charts/chartdatatable/font) | Получает объект [ChartDataTable.font](/cells/python-net/ru/aspose.cells.charts/chartdatatable#font), представляющий настройку шрифта указанной таблицы данных диаграммы.|
-| [auto_scale_font](/cells/python-net/ru/aspose.cells.charts/chartdatatable/auto_scale_font) | Истинно, если текст в объекте изменяет размер шрифта при изменении размера объекта.<br/> Значение по умолчанию верно.|
-| [background_mode](/cells/python-net/ru/aspose.cells.charts/chartdatatable/background_mode) | Получает и задает режим отображения фона|
-| [background](/cells/python-net/ru/aspose.cells.charts/chartdatatable/background) | Получает и задает режим отображения фона|
-| [has_border_horizontal](/cells/python-net/ru/aspose.cells.charts/chartdatatable/has_border_horizontal) |Истинно, если таблица данных диаграммы имеет горизонтальные границы ячеек|
-| [has_border_vertical](/cells/python-net/ru/aspose.cells.charts/chartdatatable/has_border_vertical) | Истинно, если таблица данных диаграммы имеет вертикальные границы ячеек|
-| [has_border_outline](/cells/python-net/ru/aspose.cells.charts/chartdatatable/has_border_outline) | Истинно, если таблица данных диаграммы имеет контурные границы|
+| [font](/cells/python-net/ru/aspose.cells.charts/chartdatatable/font) | Получает объект [`ChartDataTable.font`](/cells/python-net/ru/aspose.cells.charts/chartdatatable#font), который представляет настройку шрифта указанной таблицы данных диаграммы.|
+| [auto_scale_font](/cells/python-net/ru/aspose.cells.charts/chartdatatable/auto_scale_font) | Истинно, если текст в объекте меняет размер шрифта при изменении размера объекта.<br/>Значение по умолчанию верно.|
+| [background_mode](/cells/python-net/ru/aspose.cells.charts/chartdatatable/background_mode) | Получает и устанавливает режим отображения фона.|
+| [background](/cells/python-net/ru/aspose.cells.charts/chartdatatable/background) | Получает и устанавливает режим отображения фона.|
+| [has_border_horizontal](/cells/python-net/ru/aspose.cells.charts/chartdatatable/has_border_horizontal) | Истинно, если таблица данных диаграммы имеет горизонтальные границы ячеек.|
+| [has_border_vertical](/cells/python-net/ru/aspose.cells.charts/chartdatatable/has_border_vertical) | Истинно, если таблица данных диаграммы имеет вертикальные границы ячеек.|
+| [has_border_outline](/cells/python-net/ru/aspose.cells.charts/chartdatatable/has_border_outline) | Истинно, если таблица данных диаграммы имеет контурные границы.|
 | [show_legend_key](/cells/python-net/ru/aspose.cells.charts/chartdatatable/show_legend_key) | Истинно, если ключ легенды метки данных виден.|
-| [border](/cells/python-net/ru/aspose.cells.charts/chartdatatable/border) | Возвращает объект Border, представляющий границу объекта.|
+| [border](/cells/python-net/ru/aspose.cells.charts/chartdatatable/border) | Возвращает объект Border, который представляет границу объекта.|
 
 
 
@@ -71,4 +71,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

@@ -3,13 +3,13 @@ title: page_count propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 210
+weight: 220
 url: /es/aspose.cells.rendering/imageorprintoptions/page_count/
 is_root: false
 ---
 ##  page_count propiedad
 
-Obtiene o establece el número de páginas que se van a guardar.
+Obtiene o establece el número de páginas que se guardarán.
 
 ###  Observaciones
 
@@ -25,5 +25,5 @@ def page_count(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [ImageOrPrintOptions](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`ImageOrPrintOptions`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)

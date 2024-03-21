@@ -1,9 +1,9 @@
 ---
 title: xml_maps недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 380
+weight: 390
 url: /ru/aspose.cells/worksheetcollection/xml_maps/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def xml_maps(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorksheetCollection](/cells/python-net/ru/aspose.cells/worksheetcollection)
-* класс [XmlMapCollection](/cells/python-net/ru/aspose.cells/xmlmapcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`WorksheetCollection`](/cells/python-net/ru/aspose.cells/worksheetcollection)
+* класс [`XmlMapCollection`](/cells/python-net/ru/aspose.cells/xmlmapcollection)

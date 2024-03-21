@@ -1,26 +1,26 @@
 ---
-title: width_in_shape الملكية
+title: width_in_shape عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /ar/aspose.cells.drawing/customxmlshape/width_in_shape/
 is_root: false
 ---
-##  width_in_shape الملكية
+##  width_in_shape عقار
 
-يمثل عرض الشكل بوحدة 1/4000 من الشكل الأصل.
+يمثل عرض الشكل بوحدة 1/4000 من الشكل الأصلي.
 
 ###  ملاحظات
 
-يتم تطبيقه فقط عندما يكون هذا الشكل في المجموعة أو المخطط.
+ينطبق فقط عندما يكون هذا الشكل في المجموعة أو المخطط.
 
 ###  مثال
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.width_in_shape == 2000:
+    shape.width_in_shape = 4000
 
 ```
 ###  تعريف:
@@ -34,5 +34,5 @@ def width_in_shape(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CustomXmlShape](/cells/python-net/ar/aspose.cells.drawing/customxmlshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CustomXmlShape`](/cells/python-net/ar/aspose.cells.drawing/customxmlshape)

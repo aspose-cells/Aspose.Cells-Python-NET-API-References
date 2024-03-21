@@ -3,7 +3,7 @@ title: major_unit proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 290
+weight: 300
 url: /it/aspose.cells.charts/axis/major_unit/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def major_unit(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/it/aspose.cells.charts/axis)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/it/aspose.cells.charts/axis)

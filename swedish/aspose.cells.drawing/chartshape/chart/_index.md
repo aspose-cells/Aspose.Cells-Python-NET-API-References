@@ -3,7 +3,7 @@ title: chart fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 320
 url: /sv/aspose.cells.drawing/chartshape/chart/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def chart(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Chart](/cells/python-net/sv/aspose.cells.charts/chart)
-* klass [ChartShape](/cells/python-net/sv/aspose.cells.drawing/chartshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Chart`](/cells/python-net/sv/aspose.cells.charts/chart)
+* klass [`ChartShape`](/cells/python-net/sv/aspose.cells.drawing/chartshape)

@@ -1,15 +1,15 @@
 ---
-title: text الملكية
+title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 910
+weight: 920
 url: /ar/aspose.cells.drawing/shape/text/
 is_root: false
 ---
-##  text الملكية
+##  text عقار
 
-يمثل السلسلة في كائن TextBox هذا.
+يمثل السلسلة الموجودة في كائن TextBox هذا.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Shape](/cells/python-net/ar/aspose.cells.drawing/shape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape)

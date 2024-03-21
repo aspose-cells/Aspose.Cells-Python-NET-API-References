@@ -3,7 +3,7 @@ title: is_word_art fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 710
+weight: 720
 url: /sv/aspose.cells.drawing/arcshape/is_word_art/
 is_root: false
 ---
@@ -31,5 +31,5 @@ def is_word_art(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ArcShape](/cells/python-net/sv/aspose.cells.drawing/arcshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ArcShape`](/cells/python-net/sv/aspose.cells.drawing/arcshape)

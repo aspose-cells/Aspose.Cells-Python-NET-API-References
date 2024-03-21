@@ -1,15 +1,15 @@
 ---
 title: encoding недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 120
+weight: 140
 url: /ru/aspose.cells/htmlsaveoptions/encoding/
 is_root: false
 ---
 ##  encoding недвижимость
 
-Если не задано, используйте Encoding.UTF8 в качестве типа кодировки по умолчанию.
+Если не установлено, используйте Encoding.UTF8 в качестве типа кодировки по умолчанию.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def encoding(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)

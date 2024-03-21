@@ -3,7 +3,7 @@ title: CellsFactory klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 230
 url: /sv/aspose.cells/cellsfactory/
 is_root: false
 ---
@@ -17,15 +17,15 @@ Typen CellsFactory avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [CellsFactory()](/cells/python-net/sv/aspose.cells/cellsfactory/__init__/#) | Konstruerar en ny instans av CellsFactory|
+| [__init__](/cells/python-net/sv/aspose.cells/cellsfactory/__init__/#) | Konstruerar en ny instans av CellsFactory|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [create_style()](/cells/python-net/sv/aspose.cells/cellsfactory/create_style/#) | Skapar en ny stil.|
+| [create_style](/cells/python-net/sv/aspose.cells/cellsfactory/create_style/#) | Skapar en ny stil.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 80
 url: /sv/aspose.cells.pivot/pivotfieldcollection/type/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotFieldCollection](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection)
-* klass [PivotFieldType](/cells/python-net/sv/aspose.cells.pivot/pivotfieldtype)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotFieldCollection`](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection)
+* klass [`PivotFieldType`](/cells/python-net/sv/aspose.cells.pivot/pivotfieldtype)

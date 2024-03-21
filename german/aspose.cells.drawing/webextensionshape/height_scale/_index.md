@@ -3,14 +3,14 @@ title: height_scale Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 470
+weight: 480
 url: /de/aspose.cells.drawing/webextensionshape/height_scale/
 is_root: false
 ---
 ##  height_scale Eigentum
 
 Ruft die Höhenskala in Prozent der ursprünglichen Bildhöhe ab und legt sie fest.
-Wenn es sich bei der Form nicht um ein Bild handelt, gibt die Eigenschaft HeightScale nur 100 zurück;
+Wenn es sich bei der Form nicht um ein Bild handelt, gibt die HeightScale-Eigenschaft nur 100 zurück;
 
 ###  Beispiel
 
@@ -31,5 +31,5 @@ def height_scale(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [WebExtensionShape](/cells/python-net/de/aspose.cells.drawing/webextensionshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`WebExtensionShape`](/cells/python-net/de/aspose.cells.drawing/webextensionshape)

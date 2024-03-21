@@ -3,7 +3,7 @@ title: file_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 560
+weight: 570
 url: /sv/aspose.cells/workbook/file_name/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def file_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

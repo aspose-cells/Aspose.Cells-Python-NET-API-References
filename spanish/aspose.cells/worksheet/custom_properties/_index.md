@@ -3,14 +3,14 @@ title: custom_properties propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 440
+weight: 460
 url: /es/aspose.cells/worksheet/custom_properties/
 is_root: false
 ---
 ##  custom_properties propiedad
 
  Obtiene un objeto que representa
-la información del identificador asociada con una hoja de cálculo.
+la información del identificador asociada con una hoja de trabajo.
 
 ###  Observaciones
 
@@ -24,6 +24,6 @@ def custom_properties(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CustomPropertyCollection](/cells/python-net/es/aspose.cells.properties/custompropertycollection)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`CustomPropertyCollection`](/cells/python-net/es/aspose.cells.properties/custompropertycollection)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

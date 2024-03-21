@@ -1,6 +1,6 @@
 ---
 title: CalculationData类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 120
@@ -8,30 +8,31 @@ url: /zh/aspose.cells/calculationdata/
 is_root: false
 ---
 ## CalculationData类
-表示计算一个函数时需要的数据，如函数名、参数、...等。
+表示计算一个函数时所需要的数据，如函数名、参数等。
 
 
 
-CalculationData 类型公开了以下成员：
+CalculationData 类型公开以下成员：
 
 ### 特性
 |属性|描述|
 | :- | :- |
 | [calculated_value](/cells/python-net/zh/aspose.cells/calculationdata/calculated_value) |获取或设置此函数的计算值。|
-| [workbook](/cells/python-net/zh/aspose.cells/calculationdata/workbook) |获取函数所在的 Workbook 对象。|
-| [worksheet](/cells/python-net/zh/aspose.cells/calculationdata/worksheet) |获取函数所在的 Worksheet 对象。|
+| [workbook](/cells/python-net/zh/aspose.cells/calculationdata/workbook) |获取函数所在的Workbook对象。|
+| [worksheet](/cells/python-net/zh/aspose.cells/calculationdata/worksheet) |获取函数所在的Worksheet对象。|
 | [cell_row](/cells/python-net/zh/aspose.cells/calculationdata/cell_row) |获取函数所在单元格的行索引。|
 | [cell_column](/cells/python-net/zh/aspose.cells/calculationdata/cell_column) |获取函数所在单元格的列索引。|
-| [cell](/cells/python-net/zh/aspose.cells/calculationdata/cell) |获取函数所在的 Cell 对象。|
-| [function_name](/cells/python-net/zh/aspose.cells/calculationdata/function_name) |获取要计算的函数名。|
+| [cell](/cells/python-net/zh/aspose.cells/calculationdata/cell) |获取函数所在的Cell对象。|
+| [function_name](/cells/python-net/zh/aspose.cells/calculationdata/function_name) |获取要计算的函数名称。|
 | [param_count](/cells/python-net/zh/aspose.cells/calculationdata/param_count) |获取参数个数|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [get_param_value(index)](/cells/python-net/zh/aspose.cells/calculationdata/get_param_value/#int) |获取给定索引处参数的表示值对象。|
-| [get_param_text(index)](/cells/python-net/zh/aspose.cells/calculationdata/get_param_text/#int) |获取给定索引处参数的文字文本。|
+| [get_param_value](/cells/python-net/zh/aspose.cells/calculationdata/get_param_value/#int) |获取给定索引处参数的表示值对象。|
+| [get_param_value_in_array_mode](/cells/python-net/zh/aspose.cells/calculationdata/get_param_value_in_array_mode/#int-int-int) |获取给定索引处的参数值。<br/>如果参数是某种需要计算的表达式，<br/>然后将以数组方式计算。|
+| [get_param_text](/cells/python-net/zh/aspose.cells/calculationdata/get_param_text/#int) |获取给定索引处参数的文字文本。|
 
 
 
@@ -39,7 +40,7 @@ CalculationData 类型公开了以下成员：
 
 此类提供的所有对象仅用于“读取”目的。
 用户在公式计算过程中不应更改工作簿中的任何数据，
-否则可能导致意想不到的结果或异常。
+否则可能会导致意外结果或异常。
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

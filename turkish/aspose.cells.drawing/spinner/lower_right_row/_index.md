@@ -3,7 +3,7 @@ title: lower_right_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 800
+weight: 810
 url: /tr/aspose.cells.drawing/spinner/lower_right_row/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def lower_right_row(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Spinner](/cells/python-net/tr/aspose.cells.drawing/spinner)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Spinner`](/cells/python-net/tr/aspose.cells.drawing/spinner)

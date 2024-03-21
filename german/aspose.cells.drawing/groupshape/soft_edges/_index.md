@@ -3,13 +3,13 @@ title: soft_edges Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 900
+weight: 910
 url: /de/aspose.cells.drawing/groupshape/soft_edges/
 is_root: false
 ---
 ##  soft_edges Eigentum
 
-Ruft den auf die Kanten anzuwendenden Weichzeichnungsradius in Punkteinheiten ab und legt diesen fest.
+Ruft den auf die Kanten anzuwendenden Unschärferadius in Punkteinheiten ab und legt diesen fest.
 
 ###  Beispiel
 
@@ -29,5 +29,5 @@ def soft_edges(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GroupShape](/cells/python-net/de/aspose.cells.drawing/groupshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GroupShape`](/cells/python-net/de/aspose.cells.drawing/groupshape)

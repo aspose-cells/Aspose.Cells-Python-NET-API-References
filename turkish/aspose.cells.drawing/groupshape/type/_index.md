@@ -3,7 +3,7 @@ title: type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /tr/aspose.cells.drawing/groupshape/type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [AutoShapeType](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)
-* sınıf [GroupShape](/cells/python-net/tr/aspose.cells.drawing/groupshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`AutoShapeType`](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)
+* sınıf [`GroupShape`](/cells/python-net/tr/aspose.cells.drawing/groupshape)

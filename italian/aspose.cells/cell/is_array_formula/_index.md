@@ -3,7 +3,7 @@ title: is_array_formula proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 510
+weight: 540
 url: /it/aspose.cells/cell/is_array_formula/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_array_formula(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

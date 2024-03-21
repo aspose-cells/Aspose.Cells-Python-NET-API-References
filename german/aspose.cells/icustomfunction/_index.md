@@ -3,7 +3,7 @@ title: ICustomFunction Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 820
+weight: 870
 url: /de/aspose.cells/icustomfunction/
 is_root: false
 ---
@@ -15,9 +15,9 @@ Der Typ ICustomFunction macht die folgenden Member verfügbar:
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [calculate_custom_function(function_name, params_list, context_objects)](/cells/python-net/de/aspose.cells/icustomfunction/calculate_custom_function/#str-list-list) |  |
+| [calculate_custom_function](/cells/python-net/de/aspose.cells/icustomfunction/calculate_custom_function/#str-list-list) |  |
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

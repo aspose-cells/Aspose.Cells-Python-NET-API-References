@@ -3,7 +3,7 @@ title: mso_drawing_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 810
+weight: 820
 url: /es/aspose.cells.drawing/checkbox/mso_drawing_type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def mso_drawing_type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CheckBox](/cells/python-net/es/aspose.cells.drawing/checkbox)
-* clase [MsoDrawingType](/cells/python-net/es/aspose.cells.drawing/msodrawingtype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CheckBox`](/cells/python-net/es/aspose.cells.drawing/checkbox)
+* clase [`MsoDrawingType`](/cells/python-net/es/aspose.cells.drawing/msodrawingtype)

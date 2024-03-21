@@ -1,15 +1,15 @@
 ---
-title: is_in_group الملكية
+title: is_in_group عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 650
 url: /ar/aspose.cells.drawing/arcshape/is_in_group/
 is_root: false
 ---
-##  is_in_group الملكية
+##  is_in_group عقار
 
-يشير إلى ما إذا كان الشكل مجمّعًا أم لا.
+الإشارة إلى ما إذا كان الشكل مجمعاً أم لا.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_in_group(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ArcShape](/cells/python-net/ar/aspose.cells.drawing/arcshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ArcShape`](/cells/python-net/ar/aspose.cells.drawing/arcshape)

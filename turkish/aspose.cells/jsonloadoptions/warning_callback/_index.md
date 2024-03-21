@@ -3,7 +3,7 @@ title: warning_callback mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 290
 url: /tr/aspose.cells/jsonloadoptions/warning_callback/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def warning_callback(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [IWarningCallback](/cells/python-net/tr/aspose.cells/iwarningcallback)
-* sınıf [JsonLoadOptions](/cells/python-net/tr/aspose.cells/jsonloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`IWarningCallback`](/cells/python-net/tr/aspose.cells/iwarningcallback)
+* sınıf [`JsonLoadOptions`](/cells/python-net/tr/aspose.cells/jsonloadoptions)

@@ -1,15 +1,15 @@
 ---
 title: active_sheet_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ru/aspose.cells/worksheetcollection/active_sheet_name/
 is_root: false
 ---
 ##  active_sheet_name недвижимость
 
-Представляет имя активного рабочего листа при открытии электронной таблицы.
+Представляет имя активного листа при открытии электронной таблицы.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def active_sheet_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorksheetCollection](/cells/python-net/ru/aspose.cells/worksheetcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`WorksheetCollection`](/cells/python-net/ru/aspose.cells/worksheetcollection)

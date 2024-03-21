@@ -9,8 +9,9 @@ is_root: false
 ---
 ##  ignore_error fastighet
 
-Indikerar om du behöver dölja felet i beräkningsformler.
+Anger om fel som uppstår vid beräkning av formler ska ignoreras.
 Felet kan vara en funktion som inte stöds, externa länkar, etc.
+Standardvärdet är sant.
 ###  Definition:
 ```python
 @property
@@ -22,5 +23,5 @@ def ignore_error(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CalculationOptions](/cells/python-net/sv/aspose.cells/calculationoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CalculationOptions`](/cells/python-net/sv/aspose.cells/calculationoptions)

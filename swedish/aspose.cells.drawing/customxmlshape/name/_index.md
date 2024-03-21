@@ -3,7 +3,7 @@ title: name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 800
+weight: 810
 url: /sv/aspose.cells.drawing/customxmlshape/name/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CustomXmlShape](/cells/python-net/sv/aspose.cells.drawing/customxmlshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CustomXmlShape`](/cells/python-net/sv/aspose.cells.drawing/customxmlshape)

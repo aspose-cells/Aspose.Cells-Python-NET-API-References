@@ -1,13 +1,13 @@
 ---
-title: active_sheet_name الملكية
+title: active_sheet_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ar/aspose.cells/worksheetcollection/active_sheet_name/
 is_root: false
 ---
-##  active_sheet_name الملكية
+##  active_sheet_name عقار
 
 يمثل اسم ورقة العمل النشطة عند فتح جدول البيانات.
 ###  تعريف:
@@ -21,5 +21,5 @@ def active_sheet_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

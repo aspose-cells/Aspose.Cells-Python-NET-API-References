@@ -1,14 +1,14 @@
 ---
-title: PasteType dénombrement
+title: PasteType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2360
+weight: 2450
 url: /fr/aspose.cells/pastetype/
 is_root: false
 ---
-##  PasteType dénombrement
-Représente le type spécial de collage.
+##  PasteType énumération
+Représente le type spécial de pâte.
 
 
 
@@ -18,9 +18,9 @@ Le type PasteType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | ALL | Copie toutes les données de la plage.|
-| DEFAULT | Cela fonctionne comme le comportement "Tous" de MS Excel.|
+| DEFAULT | Cela fonctionne comme le comportement « Tous » de MS Excel.|
 | ALL_EXCEPT_BORDERS | Copie toutes les données de la plage sans la plage.|
-| DEFAULT_EXCEPT_BORDERS | Cela fonctionne comme le comportement "Tous sauf les bordures" de MS Excel.|
+| DEFAULT_EXCEPT_BORDERS | Cela fonctionne comme le comportement « Tous sauf les bordures » de MS Excel.|
 | COLUMN_WIDTHS | Copie uniquement les largeurs de la plage.|
 | ROW_HEIGHTS | Copie uniquement les hauteurs de la plage.|
 | COMMENTS |  |
@@ -35,4 +35,4 @@ Le type PasteType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

@@ -1,9 +1,9 @@
 ---
 title: FilterType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2060
+weight: 2130
 url: /zh/aspose.cells/filtertype/
 is_root: false
 ---
@@ -12,20 +12,20 @@ is_root: false
 
 
 
-FilterType 类型公开了以下成员：
+FilterType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| COLOR_FILTER |按单元格的填充颜色过滤。|
+| COLOR_FILTER |按单元格的填充颜色进行过滤。|
 | CUSTOM_FILTERS |自定义过滤器类型。|
-| DYNAMIC_FILTER |动态过滤器类型。|
-| MULTIPLE_FILTERS | When multiple values are chosen to filter by, or when a group of date values are chosen to filter by,<br/>该元素将这些标准组合在一起。|
-| ICON_FILTER |按条件格式的图标过滤。|
-| TOP10 |前 10 个过滤器。|
+| DYNAMIC_FILTER |动态滤波器类型。|
+| MULTIPLE_FILTERS |当选择多个值作为过滤依据时，或者当选择一组日期值作为过滤依据时，<br/>该元素将这些标准组合在一起。|
+| ICON_FILTER |按条件格式图标过滤。|
+| TOP10 |前 10 名过滤器。|
 | NONE |没有过滤器。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

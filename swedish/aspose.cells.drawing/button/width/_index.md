@@ -3,7 +3,7 @@ title: width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /sv/aspose.cells.drawing/button/width/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Button](/cells/python-net/sv/aspose.cells.drawing/button)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Button`](/cells/python-net/sv/aspose.cells.drawing/button)

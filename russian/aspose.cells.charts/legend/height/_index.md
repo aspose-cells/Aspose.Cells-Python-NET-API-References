@@ -1,9 +1,9 @@
 ---
 title: height недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ru/aspose.cells.charts/legend/height/
 is_root: false
 ---
@@ -14,7 +14,7 @@ is_root: false
 ###  Примечания
 
  Как преобразовать единицы 1/4000 в пиксели?
-Высота в пикселях = Y * Chart.ChartObject.Height / 4000;
+Высота в пикселях = Y * Chart.ChartObject.Height/4000;
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def height(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Legend](/cells/python-net/ru/aspose.cells.charts/legend)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Legend`](/cells/python-net/ru/aspose.cells.charts/legend)

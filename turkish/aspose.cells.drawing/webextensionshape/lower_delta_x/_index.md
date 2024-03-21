@@ -3,17 +3,17 @@ title: lower_delta_x mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 740
+weight: 750
 url: /tr/aspose.cells.drawing/webextensionshape/lower_delta_x/
 is_root: false
 ---
 ##  lower_delta_x mülk
 
-Şeklin yatay kaydırmasını sağ alt köşe sütunundan alır veya ayarlar.
+Şeklin yatay uzaklığını sağ alt köşe sütunundan alır veya ayarlar.
 
 ###  Notlar
 
-Değer aralığı 0 ila 1024'tür.
+Değer aralığı 0 ile 1024 arasındadır.
 
 ###  Örnek
 
@@ -34,5 +34,5 @@ def lower_delta_x(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [WebExtensionShape](/cells/python-net/tr/aspose.cells.drawing/webextensionshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`WebExtensionShape`](/cells/python-net/tr/aspose.cells.drawing/webextensionshape)

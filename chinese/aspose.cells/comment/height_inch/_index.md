@@ -1,15 +1,15 @@
 ---
-title: height_inch 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: height_inch属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 140
 url: /zh/aspose.cells/comment/height_inch/
 is_root: false
 ---
-## height_inch 属性
+## height_inch属性
 
-表示注释的高度，单位是英寸。
+表示注释的高度，单位为英寸。
 
 ### 例子
 
@@ -29,5 +29,5 @@ def height_inch(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)

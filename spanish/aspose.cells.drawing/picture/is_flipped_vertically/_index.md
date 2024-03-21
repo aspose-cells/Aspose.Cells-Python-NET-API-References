@@ -3,7 +3,7 @@ title: is_flipped_vertically propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 650
+weight: 660
 url: /es/aspose.cells.drawing/picture/is_flipped_vertically/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_flipped_vertically(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Picture](/cells/python-net/es/aspose.cells.drawing/picture)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Picture`](/cells/python-net/es/aspose.cells.drawing/picture)

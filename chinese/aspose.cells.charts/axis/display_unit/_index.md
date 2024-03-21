@@ -1,13 +1,13 @@
 ---
-title: display_unit 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: display_unit属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 140
+weight: 150
 url: /zh/aspose.cells.charts/axis/display_unit/
 is_root: false
 ---
-## display_unit 属性
+## display_unit属性
 
 表示指定轴的单位标签。
 ### 定义：
@@ -21,6 +21,6 @@ def display_unit(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
-* 类 [DisplayUnitType](/cells/python-net/zh/aspose.cells.charts/displayunittype)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)
+* 类 [`DisplayUnitType`](/cells/python-net/zh/aspose.cells.charts/displayunittype)

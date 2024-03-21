@@ -3,7 +3,7 @@ title: row_separator_of_formula_array proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 330
+weight: 340
 url: /it/aspose.cells/globalizationsettings/row_separator_of_formula_array/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def row_separator_of_formula_array(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [GlobalizationSettings](/cells/python-net/it/aspose.cells/globalizationsettings)
+* modulo [`aspose.cells`](../../)
+* classe [`GlobalizationSettings`](/cells/python-net/it/aspose.cells/globalizationsettings)

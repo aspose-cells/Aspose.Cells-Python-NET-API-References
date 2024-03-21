@@ -3,7 +3,7 @@ title: Scenario klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1330
+weight: 1370
 url: /sv/aspose.cells/scenario/
 is_root: false
 ---
@@ -27,4 +27,4 @@ Typen Scenario avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

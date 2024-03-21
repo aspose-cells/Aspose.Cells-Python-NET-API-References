@@ -3,7 +3,7 @@ title: prog_id fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /sv/aspose.cells.drawing/oleobject/prog_id/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def prog_id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

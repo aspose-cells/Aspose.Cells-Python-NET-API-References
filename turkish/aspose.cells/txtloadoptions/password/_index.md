@@ -3,7 +3,7 @@ title: password mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 290
+weight: 340
 url: /tr/aspose.cells/txtloadoptions/password/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TxtLoadOptions](/cells/python-net/tr/aspose.cells/txtloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`TxtLoadOptions`](/cells/python-net/tr/aspose.cells/txtloadoptions)

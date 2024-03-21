@@ -3,7 +3,7 @@ title: placement fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 820
+weight: 830
 url: /sv/aspose.cells.drawing/smartartshape/placement/
 is_root: false
 ---
@@ -32,6 +32,6 @@ def placement(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PlacementType](/cells/python-net/sv/aspose.cells.drawing/placementtype)
-* klass [SmartArtShape](/cells/python-net/sv/aspose.cells.drawing/smartartshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PlacementType`](/cells/python-net/sv/aspose.cells.drawing/placementtype)
+* klass [`SmartArtShape`](/cells/python-net/sv/aspose.cells.drawing/smartartshape)

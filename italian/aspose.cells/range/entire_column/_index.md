@@ -3,7 +3,7 @@ title: entire_column proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 280
+weight: 300
 url: /it/aspose.cells/range/entire_column/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def entire_column(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Range](/cells/python-net/it/aspose.cells/range)
+* modulo [`aspose.cells`](../../)
+* classe [`Range`](/cells/python-net/it/aspose.cells/range)

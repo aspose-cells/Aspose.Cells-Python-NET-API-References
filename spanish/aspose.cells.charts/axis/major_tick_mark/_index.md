@@ -3,7 +3,7 @@ title: major_tick_mark propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 280
+weight: 290
 url: /es/aspose.cells.charts/axis/major_tick_mark/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def major_tick_mark(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Axis](/cells/python-net/es/aspose.cells.charts/axis)
-* clase [TickMarkType](/cells/python-net/es/aspose.cells.charts/tickmarktype)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Axis`](/cells/python-net/es/aspose.cells.charts/axis)
+* clase [`TickMarkType`](/cells/python-net/es/aspose.cells.charts/tickmarktype)

@@ -1,19 +1,19 @@
 ---
-title: get_row_labels_name_of_pivot_table método
+title: método get_row_labels_name_of_pivot_table
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 180
 url: /es/aspose.cells/globalizationsettings/get_row_labels_name_of_pivot_table/
 is_root: false
 ---
-##  get_row_labels_name_of_pivot_table() {#}
-Obtiene el nombre de la etiqueta "Row Labels" en la tabla dinámica.
+##  get_row_labels_name_of_pivot_table {#}
+Obtiene el nombre de la etiqueta "Etiquetas de fila" en la tabla dinámica.
 
 
 ###  Devoluciones
 
-El nombre de las etiquetas de fila
+El nombre de las etiquetas de fila.
 
 
 ```python
@@ -25,11 +25,11 @@ def get_row_labels_name_of_pivot_table(self):
 ###  Observaciones
 
 NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice el método GlobalizationSettings.GetColumnLabelsOfPivotTable().
- Esta propiedad se eliminará 12 meses después desde diciembre de 2022.
+utilice el método PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Esta propiedad será eliminada 12 meses después desde diciembre de 2022.
 Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [GlobalizationSettings](/cells/python-net/es/aspose.cells/globalizationsettings)
+* módulo [`aspose.cells`](../../)
+* clase [`GlobalizationSettings`](/cells/python-net/es/aspose.cells/globalizationsettings)

@@ -3,7 +3,7 @@ title: export_object_listener proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 280
+weight: 300
 url: /it/aspose.cells/htmlsaveoptions/export_object_listener/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Ottiene o imposta ExportObjectListener per l'esportazione di oggetti.
 
  NOTA: questa proprietà è ora obsoleta. Invece,
 utilizzare la proprietà HtmlSaveOptions.IStreamProvider.
- Questa proprietà verrà rimossa 12 mesi dopo, da agosto 2015.
-Aspose si scusa per gli eventuali disagi causati.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da agosto 2015.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -28,6 +28,6 @@ def export_object_listener(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/it/aspose.cells/htmlsaveoptions)
-* classe [IExportObjectListener](/cells/python-net/it/aspose.cells/iexportobjectlistener)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/it/aspose.cells/htmlsaveoptions)
+* classe [`IExportObjectListener`](/cells/python-net/it/aspose.cells/iexportobjectlistener)

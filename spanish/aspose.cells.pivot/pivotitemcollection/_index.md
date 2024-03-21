@@ -3,12 +3,12 @@ title: PivotItemCollection clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 80
+weight: 150
 url: /es/aspose.cells.pivot/pivotitemcollection/
 is_root: false
 ---
 ##  PivotItemCollection clase
-Representa una colección de todos los objetos PivotItem en PivotField.
+Representa una colección de todos los objetos PivotItem en el campo PivotField.
 
 
 
@@ -17,7 +17,7 @@ El tipo PivotItemCollection expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [count](/cells/python-net/es/aspose.cells.pivot/pivotitemcollection/count) | Obtiene el recuento de elementos dinámicos.|
+| [count](/cells/python-net/es/aspose.cells.pivot/pivotitemcollection/count) | Obtiene el recuento de los elementos dinámicos.|
 
 
 
@@ -31,9 +31,9 @@ Obtiene el objeto PivotItem en el índice específico.
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [changeitems_order(source_index, dest_index)](/cells/python-net/es/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | Cambia directamente el orden de los dos elementos.|
+| [changeitems_order](/cells/python-net/es/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | Cambia directamente el orden de los dos elementos.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](..)
+* módulo [`aspose.cells.pivot`](..)

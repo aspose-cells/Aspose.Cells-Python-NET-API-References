@@ -3,7 +3,7 @@ title: top_to_corner fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /sv/aspose.cells.drawing/customxmlshape/top_to_corner/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CustomXmlShape](/cells/python-net/sv/aspose.cells.drawing/customxmlshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CustomXmlShape`](/cells/python-net/sv/aspose.cells.drawing/customxmlshape)

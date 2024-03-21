@@ -1,30 +1,30 @@
 ---
-title: IconSet الدرجة
+title: IconSet صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 900
+weight: 940
 url: /ar/aspose.cells/iconset/
 is_root: false
 ---
-##  IconSet الدرجة
- صِف قاعدة التنسيق الشرطي IconSet.
+##  IconSet صف
+ وصف قاعدة التنسيق الشرطي IconSet.
 تطبق قاعدة التنسيق الشرطي هذه الرموز على الخلايا
-وفقًا لقيمهم.
+وفقا لقيمهم.
 
 
 
-يكشف نوع IconSet الأعضاء التالية:
+يكشف النوع IconSet عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [cf_icons](/cells/python-net/ar/aspose.cells/iconset/cf_icons) | احصل على[ConditionalFormattingIcon](/cells/python-net/ar/aspose.cells/conditionalformattingicon) من المجموعة|
+| [cf_icons](/cells/python-net/ar/aspose.cells/iconset/cf_icons) | احصل على [`ConditionalFormattingIcon`](/cells/python-net/ar/aspose.cells/conditionalformattingicon) من المجموعة|
 | [cfvos](/cells/python-net/ar/aspose.cells/iconset/cfvos) | احصل على مثيل CFValueObjects.|
-| [type](/cells/python-net/ar/aspose.cells/iconset/type) | احصل على نوع مجموعة الرموز المراد عرضها أو اضبطها.<br/>سيؤدي تعيين النوع إلى التحقق تلقائيًا مما إذا كان عدد Cfvos الحالي هو<br/> تتفق مع النوع الجديد. إذا لم يتم التوافق ، فسيتم تنظيف Cfvos القديم و<br/> ستتم إضافة Cfvos الافتراضية.|
-| [is_custom](/cells/python-net/ar/aspose.cells/iconset/is_custom) | يشير إلى ما إذا كانت مجموعة الرموز مخصصة.<br/> القيمة الافتراضية هي كاذبة.|
-| [show_value](/cells/python-net/ar/aspose.cells/iconset/show_value) | احصل على أو عيّن العلامة التي تشير إلى ما إذا كنت تريد إظهار قيم الخلايا التي يتم تطبيق مجموعة الأيقونات عليها.<br/> القيمة الافتراضية صحيحة.|
-| [reverse](/cells/python-net/ar/aspose.cells/iconset/reverse) | احصل على أو اضبط العلم الذي يشير إلى ما إذا كان سيتم عكس الترتيب الافتراضي للرموز في مجموعة الرموز هذه.<br/> القيمة الافتراضية هي كاذبة.|
+| [type](/cells/python-net/ar/aspose.cells/iconset/type) | احصل على أو قم بتعيين نوع مجموعة الأيقونات المراد عرضها.<br/>سيؤدي ضبط النوع إلى التحقق تلقائيًا من وجود عدد Cfvos الحالي<br/> متوافق مع النوع الجديد . إذا لم يتم الاتفاق، سيتم تنظيف Cfvos القديم و<br/> ستتم إضافة Cfvos الافتراضية.|
+| [is_custom](/cells/python-net/ar/aspose.cells/iconset/is_custom) | يشير إلى ما إذا كانت مجموعة الأيقونات مخصصة أم لا.<br/> القيمة الافتراضية خاطئة.|
+| [show_value](/cells/python-net/ar/aspose.cells/iconset/show_value) | احصل على أو قم بتعيين العلامة التي تشير إلى ما إذا كان سيتم إظهار قيم الخلايا التي يتم تطبيق مجموعة الرموز هذه عليها.<br/> القيمة الافتراضية صحيحة.|
+| [reverse](/cells/python-net/ar/aspose.cells/iconset/reverse) | احصل على أو قم بتعيين العلامة التي تشير إلى ما إذا كان سيتم عكس الترتيب الافتراضي للأيقونات في مجموعة الرموز هذه.<br/> القيمة الافتراضية خاطئة.|
 
 
 
@@ -67,5 +67,5 @@ workbook.save("book1.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
-* فئة [ConditionalFormattingIcon](/cells/python-net/ar/aspose.cells/conditionalformattingicon)
+* الوحدة [`aspose.cells`](..)
+* فئة [`ConditionalFormattingIcon`](/cells/python-net/ar/aspose.cells/conditionalformattingicon)

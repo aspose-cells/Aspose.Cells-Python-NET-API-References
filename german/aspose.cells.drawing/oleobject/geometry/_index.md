@@ -3,7 +3,7 @@ title: geometry Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 460
+weight: 470
 url: /de/aspose.cells.drawing/oleobject/geometry/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Ruft die geometry ab
 
 ```python
 
-if len(shape.Geometry.ShapeAdjustValues) == 0:
+if shape.geometry != null  and len(shape.geometry.shape_adjust_values) == 0:
     print("No geometry path.")
 
 ```
@@ -27,6 +27,6 @@ def geometry(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Geometry](/cells/python-net/de/aspose.cells.drawing/geometry)
-* Klasse [OleObject](/cells/python-net/de/aspose.cells.drawing/oleobject)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Geometry`](/cells/python-net/de/aspose.cells.drawing/geometry)
+* Klasse [`OleObject`](/cells/python-net/de/aspose.cells.drawing/oleobject)

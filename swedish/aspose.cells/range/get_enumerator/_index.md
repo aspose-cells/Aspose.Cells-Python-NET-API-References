@@ -3,17 +3,17 @@ title: get_enumerator metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 100
 url: /sv/aspose.cells/range/get_enumerator/
 is_root: false
 ---
-##  get_enumerator() {#}
+##  get_enumerator {#}
 Hämtar enumeratorn för celler i detta intervall.
 
 
 ###  Returnerar
 
-Celluppräkningen
+Cellenumeratorn
 
 
 ```python
@@ -43,5 +43,5 @@ for cell in en:
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

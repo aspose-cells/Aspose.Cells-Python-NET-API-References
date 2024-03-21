@@ -3,7 +3,7 @@ title: slicers fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 750
+weight: 770
 url: /sv/aspose.cells/worksheet/slicers/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def slicers(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [SlicerCollection](/cells/python-net/sv/aspose.cells.slicers/slicercollection)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`SlicerCollection`](/cells/python-net/sv/aspose.cells.slicers/slicercollection)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

@@ -1,17 +1,17 @@
 ---
-title: export_area الملكية
+title: export_area عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 170
 url: /ar/aspose.cells/htmlsaveoptions/export_area/
 is_root: false
 ---
-##  export_area الملكية
+##  export_area عقار
 
-الحصول على أو تعيين CellArea المصدرة لورقة العمل النشطة الحالية.
-إذا قمت بتعيين هذه السمة ، فسيتم حذف منطقة الطباعة الخاصة بورقة العمل النشطة الحالية.
-سيتم تصدير المنطقة المحددة فقط عند حفظ الملف في html.
+الحصول على أو تعيين منطقة الخلية المصدرة لورقة العمل النشطة الحالية.
+إذا قمت بتعيين هذه السمة، فسيتم حذف منطقة الطباعة لورقة العمل النشطة الحالية.
+سيتم تصدير المنطقة المحددة فقط عند حفظ الملف إلى html.
 ###  تعريف:
 ```python
 @property
@@ -23,6 +23,6 @@ def export_area(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellArea](/cells/python-net/ar/aspose.cells/cellarea)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

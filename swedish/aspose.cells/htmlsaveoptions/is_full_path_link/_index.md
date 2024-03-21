@@ -3,7 +3,7 @@ title: is_full_path_link fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 470
+weight: 500
 url: /sv/aspose.cells/htmlsaveoptions/is_full_path_link/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def is_full_path_link(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

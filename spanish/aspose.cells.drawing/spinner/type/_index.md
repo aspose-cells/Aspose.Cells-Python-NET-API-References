@@ -3,7 +3,7 @@ title: type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /es/aspose.cells.drawing/spinner/type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [AutoShapeType](/cells/python-net/es/aspose.cells.drawing/autoshapetype)
-* clase [Spinner](/cells/python-net/es/aspose.cells.drawing/spinner)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`AutoShapeType`](/cells/python-net/es/aspose.cells.drawing/autoshapetype)
+* clase [`Spinner`](/cells/python-net/es/aspose.cells.drawing/spinner)

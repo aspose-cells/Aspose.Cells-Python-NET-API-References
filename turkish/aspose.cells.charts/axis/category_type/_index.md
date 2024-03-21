@@ -3,13 +3,13 @@ title: category_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 100
 url: /tr/aspose.cells.charts/axis/category_type/
 is_root: false
 ---
 ##  category_type mülk
 
-Kategori eksen tipini temsil eder.
+Kategori ekseni türünü temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def category_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Axis](/cells/python-net/tr/aspose.cells.charts/axis)
-* sınıf [CategoryType](/cells/python-net/tr/aspose.cells.charts/categorytype)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Axis`](/cells/python-net/tr/aspose.cells.charts/axis)
+* sınıf [`CategoryType`](/cells/python-net/tr/aspose.cells.charts/categorytype)

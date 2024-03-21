@@ -1,13 +1,13 @@
 ---
 title: hide_columns метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 570
+weight: 560
 url: /ru/aspose.cells/cells/hide_columns/
 is_root: false
 ---
-##  hide_columns(column, total_columns) {#int-int}
+##  hide_columns {#int-int}
 Скрыть несколько столбцов.
 
 
@@ -26,5 +26,5 @@ def hide_columns(self, column, total_columns):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

@@ -1,9 +1,9 @@
 ---
 title: DateTimeGroupingType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1940
+weight: 2010
 url: /ru/aspose.cells/datetimegroupingtype/
 is_root: false
 ---
@@ -12,19 +12,19 @@ is_root: false
 
 
 
-Тип DateTimeGroupingType предоставляет следующие члены:
+Тип DateTimeGroupingType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DAY | Группа по дням.|
-| HOUR | Группировка по часам.|
-| MINUTE | Группировать по минутам.|
-| MONTH | Группировка по месяцам.|
-| SECOND | Группировать по секундам.|
-| YEAR |Группа по годам.|
+| DAY | Группировка по дням.|
+| HOUR | Группировать по часам.|
+| MINUTE | Группировка по минутам.|
+| MONTH | Группировать по месяцам.|
+| SECOND | Группировка по секундам.|
+| YEAR | Группировать по годам.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

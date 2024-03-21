@@ -1,14 +1,14 @@
 ---
-title: SortOrder dénombrement
+title: SortOrder énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2490
+weight: 2580
 url: /fr/aspose.cells/sortorder/
 is_root: false
 ---
-##  SortOrder dénombrement
-Représente l'ordre de tri pour la plage de données.
+##  SortOrder énumération
+Représente l’ordre de tri de la plage de données.
 
 
 
@@ -23,4 +23,4 @@ Le type SortOrder expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

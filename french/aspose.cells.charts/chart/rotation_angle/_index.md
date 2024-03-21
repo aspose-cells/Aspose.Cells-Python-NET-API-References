@@ -3,13 +3,13 @@ title: rotation_angle propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 490
+weight: 520
 url: /fr/aspose.cells.charts/chart/rotation_angle/
 is_root: false
 ---
 ##  rotation_angle propriété
 
-Représente la rotation de la vue du graphique 3D (la rotation de la zone de traçage autour de l'axe z, en degrés).
+Représente la rotation de la vue graphique 3D (la rotation de la zone de tracé autour de l'axe z, en degrés).
 
 ###  Remarques
 
@@ -26,5 +26,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)

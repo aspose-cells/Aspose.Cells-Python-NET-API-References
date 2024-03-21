@@ -3,7 +3,7 @@ title: NameScopeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2250
+weight: 2340
 url: /sv/aspose.cells/namescopetype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen NameScopeType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

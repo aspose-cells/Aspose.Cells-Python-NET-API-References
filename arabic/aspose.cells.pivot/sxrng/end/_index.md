@@ -1,5 +1,5 @@
 ---
-title: end الملكية
+title: end عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 40
 url: /ar/aspose.cells.pivot/sxrng/end/
 is_root: false
 ---
-##  end الملكية
-
-يمثل عنصر end لنطاق المجموعة.
+##  end عقار
 ###  تعريف:
 ```python
 @property
@@ -18,5 +16,5 @@ def end(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [SxRng](/cells/python-net/ar/aspose.cells.pivot/sxrng)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`SxRng`](/cells/python-net/ar/aspose.cells.pivot/sxrng)

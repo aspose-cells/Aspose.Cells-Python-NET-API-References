@@ -3,14 +3,14 @@ title: vertical_resolution mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 370
+weight: 390
 url: /tr/aspose.cells.rendering/imageorprintoptions/vertical_resolution/
 is_root: false
 ---
 ##  vertical_resolution mülk
 
-Oluşturulan görüntülerin dikey çözünürlüğünü inç başına nokta cinsinden alır veya ayarlar.
-Emf biçimli görüntü dışında görüntü oluşturma yöntemini uygular.
+Oluşturulan görüntüler için dikey çözünürlüğü inç başına nokta cinsinden alır veya ayarlar.
+Emf formatındaki görüntü dışında görüntü oluşturma yöntemini uygular.
 
 ###  Notlar
 
@@ -26,5 +26,5 @@ def vertical_resolution(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [ImageOrPrintOptions](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`ImageOrPrintOptions`](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)

@@ -3,7 +3,7 @@ title: spt Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 960
+weight: 970
 url: /de/aspose.cells.drawing/arcshape/spt/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def spt(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ArcShape](/cells/python-net/de/aspose.cells.drawing/arcshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ArcShape`](/cells/python-net/de/aspose.cells.drawing/arcshape)

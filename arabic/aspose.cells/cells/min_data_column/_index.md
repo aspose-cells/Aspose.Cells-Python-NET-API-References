@@ -1,21 +1,21 @@
 ---
-title: min_data_column الملكية
+title: min_data_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1170
+weight: 1160
 url: /ar/aspose.cells/cells/min_data_column/
 is_root: false
 ---
-##  min_data_column الملكية
+##  min_data_column عقار
 
-الحد الأدنى لفهرس العمود للخلية التي تحتوي على بيانات.
+الحد الأدنى لفهرس عمود الخلية التي تحتوي على البيانات.
 
 ###  ملاحظات
 
-سيتم إرجاع -1 إذا لم يكن هناك خلية تحتوي على بيانات.
-تحتاج هذه الخاصية إلى التكرار والتحقق من جميع الخلايا في ورقة العمل ،
-لذلك فهو تقدم مستغرق وقتًا طويلاً ويجب عدم التذرع به مرارًا وتكرارًا.
+سيتم إرجاع -1 إذا لم تكن هناك خلية تحتوي على بيانات.
+تحتاج هذه الخاصية إلى التكرار والتحقق من جميع الخلايا في ورقة العمل،
+لذلك فهو تقدم يستغرق وقتًا طويلاً ولا ينبغي الاحتجاج به مرارًا وتكرارًا.
 ###  تعريف:
 ```python
 @property
@@ -24,5 +24,5 @@ def min_data_column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

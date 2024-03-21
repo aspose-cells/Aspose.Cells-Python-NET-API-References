@@ -1,22 +1,22 @@
 ---
-title: check_value الملكية
+title: check_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ar/aspose.cells.drawing/checkbox/check_value/
 is_root: false
 ---
-##  check_value الملكية
+##  check_value عقار
 
-الحصول على أو تعيين قيمة خانة الاختيار.
+الحصول على قيمة خانة الاختيار أو تعيينها.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
+ ملاحظة: هذا العضو قديم الآن. بدلاً من،
  الرجاء استخدام خاصية CheckBox.CheckValueType.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ يونيو 2010.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ يونيو 2010.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -28,6 +28,6 @@ def check_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CheckBox](/cells/python-net/ar/aspose.cells.drawing/checkbox)
-* فئة [CheckValueType](/cells/python-net/ar/aspose.cells.drawing/checkvaluetype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CheckBox`](/cells/python-net/ar/aspose.cells.drawing/checkbox)
+* فئة [`CheckValueType`](/cells/python-net/ar/aspose.cells.drawing/checkvaluetype)

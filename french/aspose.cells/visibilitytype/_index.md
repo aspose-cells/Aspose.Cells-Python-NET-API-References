@@ -1,13 +1,13 @@
 ---
-title: VisibilityType dénombrement
+title: VisibilityType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2660
+weight: 2750
 url: /fr/aspose.cells/visibilitytype/
 is_root: false
 ---
-##  VisibilityType dénombrement
+##  VisibilityType énumération
 Représente les états de visibilité de la feuille.
 
 
@@ -19,9 +19,9 @@ Le type VisibilityType expose les membres suivants :
 | :- | :- |
 | VISIBLE | Indique que la feuille est visible.|
 | HIDDEN | Indique que la feuille est masquée, mais peut être affichée par l'utilisateur via l'interface utilisateur.|
-| VERY_HIDDEN | Indique que la feuille est masquée et ne peut pas être affichée dans l'interface utilisateur (IU).<br/> Cet état n'est disponible que par programmation.|
+| VERY_HIDDEN | Indique que la feuille est masquée et ne peut pas être affichée dans l'interface utilisateur (UI).<br/> Cet état est uniquement disponible par programmation.|
 
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

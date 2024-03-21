@@ -3,7 +3,7 @@ title: major_unit fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 300
 url: /sv/aspose.cells.charts/axis/major_unit/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def major_unit(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Axis](/cells/python-net/sv/aspose.cells.charts/axis)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Axis`](/cells/python-net/sv/aspose.cells.charts/axis)

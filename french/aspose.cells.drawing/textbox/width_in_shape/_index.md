@@ -3,24 +3,24 @@ title: width_in_shape propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1170
+weight: 1190
 url: /fr/aspose.cells.drawing/textbox/width_in_shape/
 is_root: false
 ---
 ##  width_in_shape propriété
 
-Représente la largeur de la forme, en unité de 1/4000 de la forme parent.
+Représente la largeur de la forme, en unité de 1/4 000 de la forme parent.
 
 ###  Remarques
 
-S'applique uniquement lorsque cette forme se trouve dans le groupe ou le graphique.
+S'applique uniquement lorsque cette forme fait partie du groupe ou du graphique.
 
 ###  Exemple
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.width_in_shape == 2000:
+    shape.width_in_shape = 4000
 
 ```
 ###  Définition:
@@ -34,5 +34,5 @@ def width_in_shape(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TextBox](/cells/python-net/fr/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TextBox`](/cells/python-net/fr/aspose.cells.drawing/textbox)

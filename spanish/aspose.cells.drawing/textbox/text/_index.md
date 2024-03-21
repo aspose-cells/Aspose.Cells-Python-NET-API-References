@@ -3,7 +3,7 @@ title: text propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 910
+weight: 930
 url: /es/aspose.cells.drawing/textbox/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [TextBox](/cells/python-net/es/aspose.cells.drawing/textbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`TextBox`](/cells/python-net/es/aspose.cells.drawing/textbox)

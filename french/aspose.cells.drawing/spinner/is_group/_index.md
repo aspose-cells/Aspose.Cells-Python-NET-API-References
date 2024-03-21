@@ -3,7 +3,7 @@ title: is_group propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 580
+weight: 590
 url: /fr/aspose.cells.drawing/spinner/is_group/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def is_group(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Spinner](/cells/python-net/fr/aspose.cells.drawing/spinner)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Spinner`](/cells/python-net/fr/aspose.cells.drawing/spinner)

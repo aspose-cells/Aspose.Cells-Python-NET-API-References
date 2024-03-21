@@ -3,7 +3,7 @@ title: page_index proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 190
+weight: 200
 url: /it/aspose.cells/paginatedsaveoptions/page_index/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ottiene o imposta l'indice in base 0 della prima pagina da salvare.
 
 ###  Osservazioni
 
-Il valore predefinito è 0.
+L'impostazione predefinita è 0.
 
 ###  Esempio
 
@@ -45,5 +45,5 @@ def page_index(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PaginatedSaveOptions](/cells/python-net/it/aspose.cells/paginatedsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`PaginatedSaveOptions`](/cells/python-net/it/aspose.cells/paginatedsaveoptions)

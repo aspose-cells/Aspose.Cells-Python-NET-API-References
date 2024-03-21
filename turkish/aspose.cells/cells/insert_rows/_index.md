@@ -3,11 +3,11 @@ title: insert_rows yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 730
+weight: 720
 url: /tr/aspose.cells/cells/insert_rows/
 is_root: false
 ---
-##  insert_rows(row_index, total_rows) {#int-int}
+##  insert_rows {#int-int}
 Çalışma sayfasına birden çok satır ekler.
 
 
@@ -24,7 +24,7 @@ def insert_rows(self, row_index, total_rows):
 | total_rows | int | Eklenecek satır sayısı.|
 
 
-##  insert_rows(row_index, total_rows, update_reference) {#int-int-bool}
+##  insert_rows {#int-int-bool}
 Çalışma sayfasına birden çok satır ekler.
 
 
@@ -39,10 +39,10 @@ def insert_rows(self, row_index, total_rows, update_reference):
 | :- | :- | :- |
 | row_index | int | Satır dizini.|
 | total_rows | int | Eklenecek satır sayısı.|
-| update_reference | bool |Diğer çalışma sayfalarındaki başvuruların güncellenip güncellenmeyeceğini belirtir.|
+| update_reference | bool | Diğer çalışma sayfalarındaki referansların güncellenip güncellenmeyeceğini belirtir.|
 
 
-##  insert_rows(row_index, total_rows, options) {#int-int-InsertOptions}
+##  insert_rows {#int-int-aspose.cells.InsertOptions}
 Çalışma sayfasına birden çok satır ekler.
 
 
@@ -57,10 +57,10 @@ def insert_rows(self, row_index, total_rows, options):
 | :- | :- | :- |
 | row_index | int | Satır dizini.|
 | total_rows | int | Eklenecek satır sayısı.|
-| options | [InsertOptions](/cells/python-net/tr/aspose.cells/insertoptions) |Diğer çalışma sayfalarındaki başvuruların güncellenip güncellenmeyeceğini belirtir.|
+| options | [`InsertOptions`](/cells/python-net/tr/aspose.cells/insertoptions) | Diğer çalışma sayfalarındaki referansların güncellenip güncellenmeyeceğini belirtir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

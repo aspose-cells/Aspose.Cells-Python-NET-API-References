@@ -1,15 +1,15 @@
 ---
-title: top_to_corner الملكية
+title: top_to_corner عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1120
+weight: 1140
 url: /ar/aspose.cells.drawing/radiobutton/top_to_corner/
 is_root: false
 ---
-##  top_to_corner الملكية
+##  top_to_corner عقار
 
-الحصول على الإزاحة الرأسية للشكل وتعيينها من الحد العلوي لورقة العمل ، بوحدة البكسل.
+الحصول على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل وتعيينها، بوحدة البكسل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

@@ -3,12 +3,12 @@ title: get_dependents Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 380
+weight: 360
 url: /de/aspose.cells/cells/get_dependents/
 is_root: false
 ---
-##  get_dependents(is_all, row, column) {#bool-int-int}
-Holen Sie sich alle Zellen, die sich auf die bestimmte Zelle beziehen.
+##  get_dependents {#bool-int-int}
+Rufen Sie alle Zellen ab, die auf die spezifische Zelle verweisen.
 
 
 ###  Kehrt zurück
@@ -31,5 +31,5 @@ def get_dependents(self, is_all, row, column):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

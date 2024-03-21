@@ -3,7 +3,7 @@ title: upper_left_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /es/aspose.cells.drawing/groupbox/upper_left_row/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def upper_left_row(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupBox](/cells/python-net/es/aspose.cells.drawing/groupbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupBox`](/cells/python-net/es/aspose.cells.drawing/groupbox)

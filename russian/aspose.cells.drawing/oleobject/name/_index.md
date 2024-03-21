@@ -1,15 +1,15 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 940
+weight: 950
 url: /ru/aspose.cells.drawing/oleobject/name/
 is_root: false
 ---
 ##  name недвижимость
 
-Получает и задает name фигуры.
+Получает и устанавливает name фигуры.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

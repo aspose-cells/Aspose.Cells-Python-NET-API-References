@@ -3,7 +3,7 @@ title: rotation_angle proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 920
+weight: 930
 url: /it/aspose.cells.drawing/arcshape/rotation_angle/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Ottiene e imposta la rotazione della forma.
 ```python
 
 if shape.rotation_angle == 45:
-    shape.rotation_angle = 60
+    shape.rotation_angle = 60.0
 
 ```
 ###  Definizione:
@@ -30,5 +30,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/it/aspose.cells.drawing/arcshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/it/aspose.cells.drawing/arcshape)

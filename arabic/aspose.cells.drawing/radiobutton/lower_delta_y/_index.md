@@ -1,19 +1,19 @@
 ---
-title: lower_delta_y الملكية
+title: lower_delta_y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 770
+weight: 790
 url: /ar/aspose.cells.drawing/radiobutton/lower_delta_y/
 is_root: false
 ---
-##  lower_delta_y الملكية
+##  lower_delta_y عقار
 
-الحصول على أو تعيين الإزاحة الرأسية للشكل من صف الزاوية اليمنى السفلية.
+الحصول على الإزاحة الرأسية للشكل أو تعيينها من صف الزاوية اليمنى السفلية.
 
 ###  ملاحظات
 
-نطاق القيمة من 0 إلى 256.
+نطاق القيمة هو 0 إلى 256.
 
 ###  مثال
 
@@ -34,5 +34,5 @@ def lower_delta_y(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

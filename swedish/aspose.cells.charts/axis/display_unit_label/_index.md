@@ -3,7 +3,7 @@ title: display_unit_label fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 160
 url: /sv/aspose.cells.charts/axis/display_unit_label/
 is_root: false
 ---
@@ -19,6 +19,6 @@ def display_unit_label(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Axis](/cells/python-net/sv/aspose.cells.charts/axis)
-* klass [DisplayUnitLabel](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Axis`](/cells/python-net/sv/aspose.cells.charts/axis)
+* klass [`DisplayUnitLabel`](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)

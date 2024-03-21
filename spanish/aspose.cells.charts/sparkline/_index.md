@@ -3,12 +3,12 @@ title: Sparkline clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 260
+weight: 270
 url: /es/aspose.cells.charts/sparkline/
 is_root: false
 ---
 ##  Sparkline clase
-Un minigráfico representa un cuadro o gráfico diminuto en una celda de una hoja de cálculo que proporciona una representación visual de los datos.
+Un minigráfico representa un pequeño cuadro o gráfico en una celda de una hoja de trabajo que proporciona una representación visual de los datos.
 
 
 
@@ -25,8 +25,8 @@ El tipo Sparkline expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [to_image(file_name, options)](/cells/python-net/es/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Convierte un minigráfico en una imagen.|
-| [to_image(stream, options)](/cells/python-net/es/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Convierte un minigráfico en una imagen.|
+| [to_image](/cells/python-net/es/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Convierte un minigráfico en una imagen.|
+| [to_image](/cells/python-net/es/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Convierte un minigráfico en una imagen.|
 
 
 
@@ -59,4 +59,4 @@ line.to_image("output.png", ImageOrPrintOptions())
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

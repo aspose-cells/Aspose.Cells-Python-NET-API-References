@@ -3,7 +3,7 @@ title: mso_drawing_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 930
+weight: 940
 url: /sv/aspose.cells.drawing/oleobject/mso_drawing_type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def mso_drawing_type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoDrawingType](/cells/python-net/sv/aspose.cells.drawing/msodrawingtype)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoDrawingType`](/cells/python-net/sv/aspose.cells.drawing/msodrawingtype)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

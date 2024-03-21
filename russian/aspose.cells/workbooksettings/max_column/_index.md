@@ -1,9 +1,9 @@
 ---
 title: max_column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 370
+weight: 300
 url: /ru/aspose.cells/workbooksettings/max_column/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Возвращает 255, если формат файла Excel97-2003;
+Возвращает 255, если формат файла — Excel97-2003;
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def max_column(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

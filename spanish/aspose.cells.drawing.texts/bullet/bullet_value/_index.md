@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bullet_value propiedad
 
-Obtiene el valor de la viñeta
+Obtiene el valor de la bala.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def bullet_value(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [Bullet](/cells/python-net/es/aspose.cells.drawing.texts/bullet)
-* clase [BulletValue](/cells/python-net/es/aspose.cells.drawing.texts/bulletvalue)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`Bullet`](/cells/python-net/es/aspose.cells.drawing.texts/bullet)
+* clase [`BulletValue`](/cells/python-net/es/aspose.cells.drawing.texts/bulletvalue)

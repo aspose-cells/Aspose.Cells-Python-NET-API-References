@@ -3,7 +3,7 @@ title: is_hidden proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 570
+weight: 580
 url: /it/aspose.cells.drawing/button/is_hidden/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def is_hidden(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Button](/cells/python-net/it/aspose.cells.drawing/button)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Button`](/cells/python-net/it/aspose.cells.drawing/button)

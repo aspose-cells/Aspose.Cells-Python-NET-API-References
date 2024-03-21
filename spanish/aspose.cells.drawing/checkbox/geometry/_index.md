@@ -3,7 +3,7 @@ title: geometry propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 400
+weight: 410
 url: /es/aspose.cells.drawing/checkbox/geometry/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Obtiene el geometry
 
 ```python
 
-if len(shape.Geometry.ShapeAdjustValues) == 0:
+if shape.geometry != null  and len(shape.geometry.shape_adjust_values) == 0:
     print("No geometry path.")
 
 ```
@@ -27,6 +27,6 @@ def geometry(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CheckBox](/cells/python-net/es/aspose.cells.drawing/checkbox)
-* clase [Geometry](/cells/python-net/es/aspose.cells.drawing/geometry)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CheckBox`](/cells/python-net/es/aspose.cells.drawing/checkbox)
+* clase [`Geometry`](/cells/python-net/es/aspose.cells.drawing/geometry)

@@ -3,7 +3,7 @@ title: separator_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 340
+weight: 330
 url: /fr/aspose.cells.charts/datalabels/separator_type/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtient ou définit le type de séparateur utilisé pour les étiquettes de donn
 
 ###  Remarques
 
-Pour définir un séparateur personnalisé, définissez la propriété [DataLabels.separator_type](/cells/python-net/fr/aspose.cells.charts/datalabels#separator_type) sur [DataLabelsSeparatorType.CUSTOM](/cells/python-net/fr/aspose.cells.charts/datalabelsseparatortype#CUSTOM), puis spécifiez la valeur attendue pour [DataLabels.separator_value](/cells/python-net/fr/aspose.cells.charts/datalabels#separator_value).
+Pour définir un séparateur personnalisé, veuillez définir la propriété [`DataLabels.separator_type`](/cells/python-net/fr/aspose.cells.charts/datalabels#separator_type) sur [`DataLabelsSeparatorType.CUSTOM`](/cells/python-net/fr/aspose.cells.charts/datalabelsseparatortype#CUSTOM), puis spécifier la valeur attendue pour [`DataLabels.separator_value`](/cells/python-net/fr/aspose.cells.charts/datalabels#separator_value).
 ###  Définition:
 ```python
 @property
@@ -25,6 +25,6 @@ def separator_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/fr/aspose.cells.charts/datalabels)
-* classe [DataLabelsSeparatorType](/cells/python-net/fr/aspose.cells.charts/datalabelsseparatortype)
+* module [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/fr/aspose.cells.charts/datalabels)
+* classe [`DataLabelsSeparatorType`](/cells/python-net/fr/aspose.cells.charts/datalabelsseparatortype)

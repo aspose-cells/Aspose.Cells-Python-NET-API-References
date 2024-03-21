@@ -3,7 +3,7 @@ title: is_automatic_max_value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 190
+weight: 200
 url: /es/aspose.cells.charts/axis/is_automatic_max_value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_automatic_max_value(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Axis](/cells/python-net/es/aspose.cells.charts/axis)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Axis`](/cells/python-net/es/aspose.cells.charts/axis)

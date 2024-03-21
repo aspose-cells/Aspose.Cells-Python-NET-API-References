@@ -1,15 +1,15 @@
 ---
-title: is_filled الملكية
+title: is_filled عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 600
 url: /ar/aspose.cells.drawing/lineshape/is_filled/
 is_root: false
 ---
-##  is_filled الملكية
+##  is_filled عقار
 
-يشير إلى ما إذا كان تنسيق التعبئة مرئيًا أم لا.
+يشير إلى ما إذا كان تنسيق التعبئة مرئيًا.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def is_filled(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineShape](/cells/python-net/ar/aspose.cells.drawing/lineshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineShape`](/cells/python-net/ar/aspose.cells.drawing/lineshape)

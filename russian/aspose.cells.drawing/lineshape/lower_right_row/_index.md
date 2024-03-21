@@ -1,9 +1,9 @@
 ---
 title: lower_right_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 830
+weight: 840
 url: /ru/aspose.cells.drawing/lineshape/lower_right_row/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def lower_right_row(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineShape](/cells/python-net/ru/aspose.cells.drawing/lineshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineShape`](/cells/python-net/ru/aspose.cells.drawing/lineshape)

@@ -3,7 +3,7 @@ title: PivotTableCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 190
 url: /sv/aspose.cells.pivot/pivottablecollection/
 is_root: false
 ---
@@ -23,23 +23,23 @@ Typen PivotTableCollection avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add(source_data, dest_cell_name, table_name)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Lägger till en ny PivotTable-cache till en PivotCache-samling.|
-| [add(source_data, dest_cell_name, table_name, use_same_source)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Lägger till en ny PivotTable-cache till en PivotCache-samling.|
-| [add(source_data, row, column, table_name)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Lägger till en ny PivotTable-cache till en PivotCache-samling.|
-| [add(source_data, row, column, table_name, use_same_source)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Lägger till en ny PivotTable-cache till en PivotCache-samling.|
-| [add(pivot_table, dest_cell_name, table_name)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#PivotTable-str-str) | Lägger till ett nytt pivottabellobjekt till samlingen från en annan pivottabell.|
-| [add(pivot_table, row, column, table_name)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#PivotTable-int-int-str) | Lägger till ett nytt pivottabellobjekt till samlingen från en annan pivottabell.|
-| [add(source_data, is_auto_page, page_fields, dest_cell_name, table_name)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#list-bool-PivotPageFields-str-str) | Lägger till ett nytt pivottabellobjekt till samlingen med flera konsolideringsintervall som datakälla.|
-| [add(source_data, is_auto_page, page_fields, row, column, table_name)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#list-bool-PivotPageFields-int-int-str) | Lägger till ett nytt pivottabellobjekt till samlingen med flera konsolideringsintervall som datakälla.|
-| [copy_to(array)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/copy_to/#list) | Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) |Kopierar ett intervall av element från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
-| [index_of(item, index)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/index_of/#PivotTable-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
-| [index_of(item, index, count)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/index_of/#PivotTable-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
-| [last_index_of(item)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
-| [last_index_of(item, index)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
-| [last_index_of(item, index, count)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/last_index_of/#PivotTable-int-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
-| [remove_at(index, keep_data)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Tar bort pivottabellen vid det angivna indexet|
-| [binary_search(item)](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/binary_search/#PivotTable) | Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
+| [add](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Lägger till en ny PivotTable-cache till en PivotCache-samling.|
+| [add](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Lägger till en ny PivotTable-cache till en PivotCache-samling.|
+| [add](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Lägger till en ny PivotTable-cache till en PivotCache-samling.|
+| [add](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Lägger till en ny PivotTable-cache till en PivotCache-samling.|
+| [add](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-str-str) | Lägger till ett nytt pivottabellobjekt till samlingen från en annan pivottabell.|
+| [add](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Lägger till ett nytt pivottabellobjekt till samlingen från en annan pivottabell.|
+| [add](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-str-str) |Lägger till ett nytt pivottabellobjekt till samlingen med flera konsolideringsintervall som datakälla.|
+| [add](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-int-int-str) |Lägger till ett nytt pivottabellobjekt till samlingen med flera konsolideringsintervall som datakälla.|
+| [copy_to](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/copy_to/#list) | Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
+| [copy_to](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) | Kopierar ett intervall av element från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
+| [index_of](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
+| [index_of](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
+| [last_index_of](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
+| [last_index_of](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
+| [last_index_of](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
+| [remove_at](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Tar bort pivottabellen vid det angivna indexet|
+| [binary_search](/cells/python-net/sv/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.PivotTable) | Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
 
 
 
@@ -112,4 +112,4 @@ book.save("out.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](..)
+* modul [`aspose.cells.pivot`](..)

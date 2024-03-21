@@ -3,7 +3,7 @@ title: input_range fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 510
+weight: 520
 url: /sv/aspose.cells.drawing/button/input_range/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def input_range(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Button](/cells/python-net/sv/aspose.cells.drawing/button)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Button`](/cells/python-net/sv/aspose.cells.drawing/button)

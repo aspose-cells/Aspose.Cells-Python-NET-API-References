@@ -12,18 +12,19 @@ is_root: false
 ###  Classi
 | Classe| Descrizione|
 | :- | :- |
-| [OdsCellField](/cells/python-net/it/aspose.cells.ods/odscellfield) | Rappresenta il campo cellulare di ods.|
-| [OdsCellFieldCollection](/cells/python-net/it/aspose.cells.ods/odscellfieldcollection) | Rappresenta i campi di ODS.|
-| [OdsPageBackground](/cells/python-net/it/aspose.cells.ods/odspagebackground) | Rappresenta lo sfondo della pagina di ods.|
+| [`OdsCellField`](/cells/python-net/it/aspose.cells.ods/odscellfield) | Rappresenta il campo della cella di ods.|
+| [`OdsCellFieldCollection`](/cells/python-net/it/aspose.cells.ods/odscellfieldcollection) | Rappresenta i campi di ODS.|
+| [`OdsPageBackground`](/cells/python-net/it/aspose.cells.ods/odspagebackground) | Rappresenta lo sfondo della pagina di ods.|
 
 
 ###  Enumerazioni
 |Enumerazione| Descrizione|
 | :- | :- |
-| [OdsCellFieldType](/cells/python-net/it/aspose.cells.ods/odscellfieldtype) | Rappresenta il tipo di campo cella di ods.|
-| [OdsGeneratorType](/cells/python-net/it/aspose.cells.ods/odsgeneratortype) | Rappresenta il tipo di generatore ODS.|
-| [OdsPageBackgroundGraphicPositionType](/cells/python-net/it/aspose.cells.ods/odspagebackgroundgraphicpositiontype) | Rappresenta la posizione.|
-| [OdsPageBackgroundGraphicType](/cells/python-net/it/aspose.cells.ods/odspagebackgroundgraphictype) | Rappresenta il tipo di formattazione dello sfondo della pagina con immagine.|
-| [OdsPageBackgroundType](/cells/python-net/it/aspose.cells.ods/odspagebackgroundtype) | Rappresenta il tipo di sfondo della pagina di ods.|
+| [`OdsCellFieldType`](/cells/python-net/it/aspose.cells.ods/odscellfieldtype) | Rappresenta il tipo di campo cella di ods.|
+| [`OdsGeneratorType`](/cells/python-net/it/aspose.cells.ods/odsgeneratortype) | Rappresenta la tipologia del generatore ODS.|
+| [`OdsPageBackgroundGraphicPositionType`](/cells/python-net/it/aspose.cells.ods/odspagebackgroundgraphicpositiontype) | Rappresenta la posizione.|
+| [`OdsPageBackgroundGraphicType`](/cells/python-net/it/aspose.cells.ods/odspagebackgroundgraphictype) | Rappresenta il tipo di formattazione dello sfondo della pagina con l'immagine.|
+| [`OdsPageBackgroundType`](/cells/python-net/it/aspose.cells.ods/odspagebackgroundtype) | Rappresenta il tipo di sfondo della pagina di ods.|
+| [`OpenDocumentFormatVersionType`](/cells/python-net/it/aspose.cells.ods/opendocumentformatversiontype) | Apri il tipo di versione del formato documento.|
 
 

@@ -3,7 +3,7 @@ title: ValidationType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2640
+weight: 2730
 url: /tr/aspose.cells/validationtype/
 is_root: false
 ---
@@ -12,15 +12,15 @@ Veri doğrulama türünü temsil eder.
 
 
 
-ValidationType türü aşağıdaki üyeleri gösterir:
+ValidationType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | ANY_VALUE | Herhangi bir değer doğrulama türü.|
 | WHOLE_NUMBER | Tam sayı doğrulama türü.|
 | DECIMAL | Ondalık doğrulama türü.|
-| LIST | Liste doğrulama türü.|
+| LIST | Doğrulama türünü listeleyin.|
 | DATE | Tarih doğrulama türü.|
 | TIME | Zaman doğrulama türü.|
 | TEXT_LENGTH | Metin uzunluğu doğrulama türü.|
@@ -29,4 +29,4 @@ ValidationType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

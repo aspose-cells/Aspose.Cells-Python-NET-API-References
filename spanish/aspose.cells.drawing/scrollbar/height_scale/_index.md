@@ -3,7 +3,7 @@ title: height_scale propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 480
+weight: 490
 url: /es/aspose.cells.drawing/scrollbar/height_scale/
 is_root: false
 ---
@@ -31,5 +31,5 @@ def height_scale(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ScrollBar](/cells/python-net/es/aspose.cells.drawing/scrollbar)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ScrollBar`](/cells/python-net/es/aspose.cells.drawing/scrollbar)

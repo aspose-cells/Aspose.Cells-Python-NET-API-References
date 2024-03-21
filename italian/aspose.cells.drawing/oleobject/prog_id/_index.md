@@ -3,7 +3,7 @@ title: prog_id proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /it/aspose.cells.drawing/oleobject/prog_id/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def prog_id(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/it/aspose.cells.drawing/oleobject)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/it/aspose.cells.drawing/oleobject)

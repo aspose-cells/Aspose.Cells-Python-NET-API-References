@@ -3,7 +3,7 @@ title: pixel_format mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 250
 url: /tr/aspose.cells.rendering/imageorprintoptions/pixel_format/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Oluşturulan görüntüler için piksel biçimini alır veya ayarlar.
 
 ###  Notlar
 
-Varsayılan değer PixelFormat.Format32bppArgb şeklindedir.
+Varsayılan değer PixelFormat.Format32bppArgb'dir.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def pixel_format(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [ImageOrPrintOptions](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`ImageOrPrintOptions`](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)

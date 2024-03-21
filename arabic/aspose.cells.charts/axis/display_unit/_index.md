@@ -1,13 +1,13 @@
 ---
-title: display_unit الملكية
+title: display_unit عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells.charts/axis/display_unit/
 is_root: false
 ---
-##  display_unit الملكية
+##  display_unit عقار
 
 يمثل تسمية الوحدة للمحور المحدد.
 ###  تعريف:
@@ -21,6 +21,6 @@ def display_unit(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
-* فئة [DisplayUnitType](/cells/python-net/ar/aspose.cells.charts/displayunittype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)
+* فئة [`DisplayUnitType`](/cells/python-net/ar/aspose.cells.charts/displayunittype)

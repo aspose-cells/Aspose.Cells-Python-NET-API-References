@@ -3,7 +3,7 @@ title: ThreadedCommentAuthor klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1450
+weight: 1520
 url: /sv/aspose.cells/threadedcommentauthor/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen ThreadedCommentAuthor avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

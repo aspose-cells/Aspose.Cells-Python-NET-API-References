@@ -3,7 +3,7 @@ title: SortOnType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2480
+weight: 2570
 url: /sv/aspose.cells/sortontype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen SortOnType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

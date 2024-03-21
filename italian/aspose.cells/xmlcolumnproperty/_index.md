@@ -1,25 +1,25 @@
 ---
-title: classe XmlColumnProperty
+title: XmlColumnProperty classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1670
+weight: 1740
 url: /it/aspose.cells/xmlcolumnproperty/
 is_root: false
 ---
-##  classe XmlColumnProperty
-Rappresenta le informazioni sull'associazione dati Xml.
+##  XmlColumnProperty classe
+Rappresenta le informazioni di associazione dati Xml.
 
 
 
-Il tipo XmlColumnProperty espone i membri seguenti:
+Il tipo XmlColumnProperty espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [XmlColumnProperty()](/cells/python-net/it/aspose.cells/xmlcolumnproperty/__init__/#) | Costruisce una nuova istanza di XmlColumnProperty|
+| [__init__](/cells/python-net/it/aspose.cells/xmlcolumnproperty/__init__/#) | Costruisce una nuova istanza di XmlColumnProperty|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

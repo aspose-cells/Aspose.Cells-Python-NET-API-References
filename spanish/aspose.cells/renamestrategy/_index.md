@@ -3,7 +3,7 @@ title: RenameStrategy enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2430
+weight: 2520
 url: /es/aspose.cells/renamestrategy/
 is_root: false
 ---
@@ -18,17 +18,17 @@ El tipo RenameStrategy expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | EXCEPTION | Lanza una excepción.|
-| DIGIT | Nombrado con dígito. Los nombres duplicados se convertirán en ...1, ...2, etc.|
-| LETTER | Nombrado con letra.. Los nombres duplicados se convertirán en ...A, ...B, etc.|
+| DIGIT | Nombrado con dígito. Los nombres duplicados se convertirán en...1,...2, etc.|
+| LETTER | Nombrados con letra. Los nombres duplicados se convertirán en ...A, ...B, etc.|
 
 
 
 ###  Observaciones
 
-Al procesar datos con encabezados, algunos escenarios requieren que los encabezados no se dupliquen para todas las columnas.
+Al procesar datos con encabezados, algunos escenarios requieren que los encabezados no estén duplicados en todas las columnas.
 Por ejemplo, al exportar datos a una tabla de datos y se requiere que el encabezado se tome como el nombre de la columna de la tabla de datos,
-los valores duplicados del encabezado no son válidos.
+Los valores duplicados del encabezado no son válidos.
 Para este tipo de situaciones, el usuario puede determinar cómo manejarlas especificando esta estrategia.
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

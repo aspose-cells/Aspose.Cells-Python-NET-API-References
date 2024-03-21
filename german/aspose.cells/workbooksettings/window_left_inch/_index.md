@@ -3,14 +3,14 @@ title: window_left_inch Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 690
+weight: 570
 url: /de/aspose.cells/workbooksettings/window_left_inch/
 is_root: false
 ---
 ##  window_left_inch Eigentum
 
 Der Abstand vom linken Rand des Clientbereichs zum linken Rand des Fensters.
-In Zolleinheit.
+In der Einheit Zoll.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def window_left_inch(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorkbookSettings](/cells/python-net/de/aspose.cells/workbooksettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookSettings`](/cells/python-net/de/aspose.cells/workbooksettings)

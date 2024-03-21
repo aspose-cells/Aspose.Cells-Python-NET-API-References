@@ -7,8 +7,8 @@ weight: 10
 url: /tr/aspose.cells/multiplefiltercollection/__init__/
 is_root: false
 ---
-##  MultipleFilterCollection() {#}
-MultipleFilterCollection'in yeni bir örneğini oluşturur
+##  __içinde__ {#}
+Yeni bir örnek oluşturur.
 
 
 
@@ -22,5 +22,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [MultipleFilterCollection](/cells/python-net/tr/aspose.cells/multiplefiltercollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`MultipleFilterCollection`](/cells/python-net/tr/aspose.cells/multiplefiltercollection)

@@ -3,7 +3,7 @@ title: window_top_cm fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 710
+weight: 590
 url: /sv/aspose.cells/workbooksettings/window_top_cm/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def window_top_cm(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

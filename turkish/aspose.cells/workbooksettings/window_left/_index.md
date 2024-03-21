@@ -3,13 +3,13 @@ title: window_left mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 670
+weight: 550
 url: /tr/aspose.cells/workbooksettings/window_left/
 is_root: false
 ---
 ##  window_left mülk
 
-Nokta birimi cinsinden istemci alanının sol kenarından pencerenin sol kenarına olan mesafe.
+Nokta birimi cinsinden istemci alanının sol kenarından pencerenin sol kenarına kadar olan mesafe.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def window_left(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

@@ -3,7 +3,7 @@ title: height_pt Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 480
+weight: 490
 url: /de/aspose.cells.drawing/groupshape/height_pt/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Stellt die Höhe der Form in Punkteinheiten dar.
 ```python
 
 if shape.height_pt == 3:
-    shape.height_pt = 1
+    shape.height_pt = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def height_pt(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GroupShape](/cells/python-net/de/aspose.cells.drawing/groupshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GroupShape`](/cells/python-net/de/aspose.cells.drawing/groupshape)

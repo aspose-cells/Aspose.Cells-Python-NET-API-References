@@ -1,15 +1,15 @@
 ---
 title: linked_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 730
+weight: 740
 url: /ru/aspose.cells.drawing/rectangleshape/linked_cell/
 is_root: false
 ---
 ##  linked_cell недвижимость
 
-Получает или задает диапазон рабочего листа, связанный со значением элемента управления.
+Получает или задает диапазон листа, связанный со значением элемента управления.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [RectangleShape](/cells/python-net/ru/aspose.cells.drawing/rectangleshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`RectangleShape`](/cells/python-net/ru/aspose.cells.drawing/rectangleshape)

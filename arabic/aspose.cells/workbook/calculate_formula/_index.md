@@ -7,8 +7,8 @@ weight: 40
 url: /ar/aspose.cells/workbook/calculate_formula/
 is_root: false
 ---
-##  calculate_formula() {#}
-تحسب نتيجة الصيغ.
+##  calculate_formula {#}
+يحسب نتيجة الصيغ.
 
 
 
@@ -20,11 +20,11 @@ def calculate_formula(self):
 
 ###  ملاحظات
 
-لجميع الصيغ المدعومة ، يرجى الاطلاع على القائمة على https://docs.aspose.com/display/cellsnet/Supported+Formula+Functions
+للتعرف على كافة الصيغ المدعومة، يرجى الاطلاع على القائمة على https://docs.aspose.com/display/cellsnet/Supported+Formula+Functions
 
-##  calculate_formula(ignore_error) {#bool}
+##  calculate_formula {#bool}
 
-تحسب نتيجة الصيغ.
+يحسب نتيجة الصيغ.
 
 
 
@@ -36,10 +36,10 @@ def calculate_formula(self, ignore_error):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| ignore_error | bool | يشير إلى إخفاء الخطأ في حساب الصيغ. قد يكون الخطأ وظيفة غير مدعومة ، أو روابط خارجية ، إلخ.|
+| ignore_error | bool |يشير إلى ما إذا كان إخفاء الخطأ في حساب الصيغ. قد يكون الخطأ عبارة عن وظيفة غير مدعومة، أو روابط خارجية، وما إلى ذلك.|
 
 
-##  calculate_formula(options) {#CalculationOptions}
+##  calculate_formula {#aspose.cells.CalculationOptions}
 حساب الصيغ في هذا المصنف.
 
 
@@ -52,32 +52,10 @@ def calculate_formula(self, options):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| options | [CalculationOptions](/cells/python-net/ar/aspose.cells/calculationoptions) | خيارات الحساب|
+| options | [`CalculationOptions`](/cells/python-net/ar/aspose.cells/calculationoptions) | خيارات للحساب|
 
-
-##  calculate_formula(ignore_error, custom_function) {#bool-ICustomFunction}
-تحسب نتيجة الصيغ.
-
-
-
-```python
-def calculate_formula(self, ignore_error, custom_function):
-    ...
-```
-
-
-| معامل| يكتب| وصف|
-| :- | :- | :- |
-| ignore_error | bool | يشير إلى إخفاء الخطأ في حساب الصيغ. قد يكون الخطأ وظيفة غير مدعومة ، أو روابط خارجية ، إلخ.|
-| custom_function | [ICustomFunction](/cells/python-net/ar/aspose.cells/icustomfunction) | وظائف حساب الصيغة المخصصة لتوسيع محرك الحساب.|
-###  ملاحظات
-
-ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
-الرجاء استخدام طريقة CalculateFormula (CalculationOptions).
- ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ أغسطس 2020.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

@@ -1,19 +1,19 @@
 ---
 title: get метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 320
+weight: 300
 url: /ru/aspose.cells/cells/get/
 is_root: false
 ---
-##  get(cell_name) {#str}
-Добавить API for Python через .Net.так как это [string cellName] не поддерживается
+##  get {#str}
+Добавьте API for Python через .Net.поскольку это [строковое имя ячейки] не поддерживается.
 
 
-###  Возвращает
+###  Возврат
 
-Объект [Cell](/cells/python-net/ru/aspose.cells/cell)
+Объект [`Cell`](/cells/python-net/ru/aspose.cells/cell)
 
 
 ```python
@@ -24,16 +24,16 @@ def get(self, cell_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| cell_name | str | Cell имя, включая букву столбца и номер строки, например A5.|
+| cell_name | str | Имя Cell, включая букву столбца и номер строки, например A5.|
 
 
-##  get(row, column) {#int-int}
-Добавить API for Python через .Net.так как это [int row, int column] не поддерживается
+##  get {#int-int}
+Добавьте API for Python через .Net.since this[int row, int columns] не поддерживается.
 
 
-###  Возвращает
+###  Возврат
 
-Объект [Cell](/cells/python-net/ru/aspose.cells/cell).
+Объект [`Cell`](/cells/python-net/ru/aspose.cells/cell).
 
 
 ```python
@@ -50,6 +50,6 @@ def get(self, row, column):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

@@ -1,15 +1,15 @@
 ---
-title: ignore_not_printed 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: ignore_not_printed属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 180
 url: /zh/aspose.cells/txtloadoptions/ignore_not_printed/
 is_root: false
 ---
-## ignore_not_printed 属性
+## ignore_not_printed属性
 
-直接打印文件忽略不打印的数据
+直接打印文件则忽略未打印的数据
 
 ### 评论
 
@@ -25,5 +25,5 @@ def ignore_not_printed(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [TxtLoadOptions](/cells/python-net/zh/aspose.cells/txtloadoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`TxtLoadOptions`](/cells/python-net/zh/aspose.cells/txtloadoptions)

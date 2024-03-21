@@ -1,23 +1,23 @@
 ---
-title: classe FindOptions
+title: FindOptions classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 630
+weight: 660
 url: /it/aspose.cells/findoptions/
 is_root: false
 ---
-##  classe FindOptions
+##  FindOptions classe
 Rappresenta le opzioni di ricerca.
 
 
 
-Il tipo FindOptions espone i membri seguenti:
+Il tipo FindOptions espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [FindOptions()](/cells/python-net/it/aspose.cells/findoptions/__init__/#) | Costruisce una nuova istanza di FindOptions|
+| [__init__](/cells/python-net/it/aspose.cells/findoptions/__init__/#) |Costruisce una nuova istanza di FindOptions|
 
 
 ###  Proprietà
@@ -25,23 +25,23 @@ Il tipo FindOptions espone i membri seguenti:
 | :- | :- |
 | [is_case_sensitive](/cells/python-net/it/aspose.cells/findoptions/is_case_sensitive) | Indica se la stringa cercata fa distinzione tra maiuscole e minuscole.|
 | [case_sensitive](/cells/python-net/it/aspose.cells/findoptions/case_sensitive) | Indica se la stringa cercata fa distinzione tra maiuscole e minuscole.|
-| [look_at_type](/cells/python-net/it/aspose.cells/findoptions/look_at_type) | Guarda tipo.|
-| [is_range_set](/cells/python-net/it/aspose.cells/findoptions/is_range_set) | Indica se l'intervallo di ricerca è impostato.|
-| [search_next](/cells/python-net/it/aspose.cells/findoptions/search_next) | Ordine di ricerca. Vero: cerca dopo. Falso: ricerca precedente.|
-| [search_backward](/cells/python-net/it/aspose.cells/findoptions/search_backward) | Indica se cercare all'indietro le celle.|
+| [look_at_type](/cells/python-net/it/aspose.cells/findoptions/look_at_type) | Guarda il tipo.|
+| [is_range_set](/cells/python-net/it/aspose.cells/findoptions/is_range_set) | Indica se l'intervallo cercato è impostato.|
+| [search_next](/cells/python-net/it/aspose.cells/findoptions/search_next) | Ordine di ricerca. Vero: cerca dopo. Falso: cerca precedente.|
+| [search_backward](/cells/python-net/it/aspose.cells/findoptions/search_backward) | Se cercare all'indietro le celle.|
 | [seach_order_by_rows](/cells/python-net/it/aspose.cells/findoptions/seach_order_by_rows) | Indica se l'ordine di ricerca è per righe o colonne.|
 | [look_in_type](/cells/python-net/it/aspose.cells/findoptions/look_in_type) | Cerca nel tipo.|
-| [regex_key](/cells/python-net/it/aspose.cells/findoptions/regex_key) | Indica se la chiave cercata è regex.<br/>Se vero, la chiave cercata verrà considerata come regex e analizzata. Altrimenti la chiave verrà analizzata secondo le regole in ms excel.|
-| [value_type_sensitive](/cells/python-net/it/aspose.cells/findoptions/value_type_sensitive) | Indica se il tipo di valore della cella cercata deve essere uguale alla chiave cercata.|
+| [regex_key](/cells/python-net/it/aspose.cells/findoptions/regex_key) | Indica se la chiave cercata è regex.<br/> Se vero, la chiave cercata verrà presa come regex e analizzata. Altrimenti la chiave verrà analizzata secondo le regole di ms Excel.|
+| [value_type_sensitive](/cells/python-net/it/aspose.cells/findoptions/value_type_sensitive) | Indica se il tipo di valore della cella cercata deve essere lo stesso della chiave cercata.|
 | [style](/cells/python-net/it/aspose.cells/findoptions/style) | Il formato da cercare.|
-| [convert_numeric_data](/cells/python-net/it/aspose.cells/findoptions/convert_numeric_data) | Ottiene o imposta un valore che indica se convertire il valore di stringa cercato in dati numerici.|
+| [convert_numeric_data](/cells/python-net/it/aspose.cells/findoptions/convert_numeric_data) | Ottiene o imposta un valore che indica se convertire il valore della stringa cercata in dati numerici.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [get_range()](/cells/python-net/it/aspose.cells/findoptions/get_range/#) | Ottiene e imposta l'intervallo cercato.|
-| [set_range(ca)](/cells/python-net/it/aspose.cells/findoptions/set_range/#CellArea) | Imposta l'intervallo di ricerca.|
+| [get_range](/cells/python-net/it/aspose.cells/findoptions/get_range/#) | Ottiene e imposta l'intervallo cercato.|
+| [set_range](/cells/python-net/it/aspose.cells/findoptions/set_range/#aspose.cells.CellArea) | Imposta l'intervallo cercato.|
 
 
 
@@ -74,4 +74,4 @@ cell = cells.find(0, None, findOptions)
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

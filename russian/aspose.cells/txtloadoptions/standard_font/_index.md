@@ -1,20 +1,20 @@
 ---
 title: standard_font недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 340
+weight: 400
 url: /ru/aspose.cells/txtloadoptions/standard_font/
 is_root: false
 ---
 ##  standard_font недвижимость
 
-Устанавливает стандартное имя шрифта по умолчанию
+Устанавливает имя стандартного шрифта по умолчанию
 
 ###  Примечания
 
 ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо этого используйте DefaultStyleSettings.
- Это свойство будет удалено через 12 месяцев, начиная с марта 2022 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с марта 2022 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -27,5 +27,5 @@ def standard_font(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [TxtLoadOptions](/cells/python-net/ru/aspose.cells/txtloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`TxtLoadOptions`](/cells/python-net/ru/aspose.cells/txtloadoptions)

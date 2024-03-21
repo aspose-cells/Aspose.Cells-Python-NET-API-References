@@ -1,13 +1,13 @@
 ---
-title: cells_data_table_factory 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: cells_data_table_factory属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 450
+weight: 460
 url: /zh/aspose.cells/workbook/cells_data_table_factory/
 is_root: false
 ---
-## cells_data_table_factory 属性
+## cells_data_table_factory属性
 
 获取用于从自定义对象构建 ICellsDataTable 的工厂
 ### 定义：
@@ -18,6 +18,6 @@ def cells_data_table_factory(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CellsDataTableFactory](/cells/python-net/zh/aspose.cells/cellsdatatablefactory)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
+* 模块[`aspose.cells`](../../)
+* 类 [`CellsDataTableFactory`](/cells/python-net/zh/aspose.cells/cellsdatatablefactory)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)

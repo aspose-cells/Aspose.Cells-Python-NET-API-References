@@ -3,7 +3,7 @@ title: title fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /sv/aspose.cells.drawing/chartshape/title/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ChartShape](/cells/python-net/sv/aspose.cells.drawing/chartshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ChartShape`](/cells/python-net/sv/aspose.cells.drawing/chartshape)

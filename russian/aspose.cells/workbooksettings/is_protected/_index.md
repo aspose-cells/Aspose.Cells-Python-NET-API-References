@@ -1,9 +1,9 @@
 ---
 title: is_protected недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 320
+weight: 270
 url: /ru/aspose.cells/workbooksettings/is_protected/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_protected(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

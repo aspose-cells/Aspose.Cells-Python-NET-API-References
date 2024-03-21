@@ -3,7 +3,7 @@ title: TargetModeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2510
+weight: 2600
 url: /sv/aspose.cells/targetmodetype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen TargetModeType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -1,22 +1,22 @@
 ---
-title: preferred_parsers الملكية
+title: preferred_parsers عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 350
 url: /ar/aspose.cells/txtloadoptions/preferred_parsers/
 is_root: false
 ---
-##  preferred_parsers الملكية
+##  preferred_parsers عقار
 
-الحصول على وتعيين محللات القيمة المفضلة لتحميل ملف نصي.
+يحصل على ويحدد موزعي القيمة المفضلة لتحميل الملف النصي.
 
 ###  ملاحظات
 
-المحلل اللغوي [0] هو المحلل اللغوي الذي سيتم استخدامه للعمود الأول في ملف القالب النصي ،
-المحلل اللغوي [1] هو المحلل اللغوي الذي سيتم استخدامه للعمود الثاني ، ... إلخ.
-سيتم استخدام آخر (parsers [parsers.length-1]) لجميع الأعمدة الأخرى التي تبدأ من parsers.length-1.
-إذا كان عنصر واحد فارغًا ، فسيتم تحليل العمود المقابل بواسطة المحلل اللغوي الافتراضي Aspose.Cells.
+parsers[0] هو المحلل اللغوي الذي سيتم استخدامه للعمود الأول في ملف القالب النصي،
+المحلل اللغوي[1] هو المحلل الذي سيتم استخدامه للعمود الثاني، ...إلخ.
+سيتم استخدام الأخير (parsers[parsers.length-1]) لجميع الأعمدة الأخرى التي تبدأ من parsers.length-1.
+إذا كان أحد العناصر فارغًا، فسيتم تحليل العمود المقابل بواسطة المحلل اللغوي الافتراضي Aspose.Cells.
 ###  تعريف:
 ```python
 @property
@@ -28,5 +28,5 @@ def preferred_parsers(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TxtLoadOptions](/cells/python-net/ar/aspose.cells/txtloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TxtLoadOptions`](/cells/python-net/ar/aspose.cells/txtloadoptions)

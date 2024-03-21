@@ -3,7 +3,7 @@ title: end_arrowhead_width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 400
 url: /sv/aspose.cells.drawing/arcshape/end_arrowhead_width/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def end_arrowhead_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ArcShape](/cells/python-net/sv/aspose.cells.drawing/arcshape)
-* klass [MsoArrowheadWidth](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ArcShape`](/cells/python-net/sv/aspose.cells.drawing/arcshape)
+* klass [`MsoArrowheadWidth`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)

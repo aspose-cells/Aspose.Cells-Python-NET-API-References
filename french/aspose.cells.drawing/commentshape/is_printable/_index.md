@@ -3,7 +3,7 @@ title: is_printable propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 620
+weight: 630
 url: /fr/aspose.cells.drawing/commentshape/is_printable/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [CommentShape](/cells/python-net/fr/aspose.cells.drawing/commentshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`CommentShape`](/cells/python-net/fr/aspose.cells.drawing/commentshape)

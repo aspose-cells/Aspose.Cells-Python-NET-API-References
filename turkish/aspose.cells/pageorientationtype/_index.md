@@ -3,7 +3,7 @@ title: PageOrientationType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2310
+weight: 2400
 url: /tr/aspose.cells/pageorientationtype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Yazdırma yönü sabitlerini temsil eder.
 
 
 
-PageOrientationType türü aşağıdaki üyeleri gösterir:
+PageOrientationType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | LANDSCAPE | Yatay yönlendirme|
@@ -23,4 +23,4 @@ PageOrientationType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

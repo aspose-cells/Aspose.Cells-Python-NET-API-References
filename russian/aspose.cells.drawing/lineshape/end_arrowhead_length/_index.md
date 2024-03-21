@@ -1,9 +1,9 @@
 ---
 title: end_arrowhead_length недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 360
+weight: 380
 url: /ru/aspose.cells.drawing/lineshape/end_arrowhead_length/
 is_root: false
 ---
@@ -15,7 +15,7 @@ is_root: false
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
  используйте свойство Shape.Line.EndArrowheadLength.
- Это свойство будет удалено через 12 месяцев, начиная с августа 2016 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с августа 2016 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -28,6 +28,6 @@ def end_arrowhead_length(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineShape](/cells/python-net/ru/aspose.cells.drawing/lineshape)
-* класс [MsoArrowheadLength](/cells/python-net/ru/aspose.cells.drawing/msoarrowheadlength)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineShape`](/cells/python-net/ru/aspose.cells.drawing/lineshape)
+* класс [`MsoArrowheadLength`](/cells/python-net/ru/aspose.cells.drawing/msoarrowheadlength)

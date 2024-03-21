@@ -3,17 +3,17 @@ title: طريقة get_error_value_string
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells/globalizationsettings/get_error_value_string/
 is_root: false
 ---
-##  get_error_value_string(err) {#str}
-الحصول على قيمة سلسلة العرض لقيمة خطأ الخلية
+##  get_error_value_string {#str}
+يحصل على قيمة سلسلة العرض لقيمة الخطأ في الخلية
 
 
 ###  عائدات
 
-الافتراضي يعيد قيمة الخطأ نفسها
+افتراضيًا، تُرجع قيمة الخطأ نفسها
 
 
 ```python
@@ -24,10 +24,10 @@ def get_error_value_string(self, err):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| err | str | قيم خطأ مثل #VALUE! ، # NAME؟|
+| err | str | قيم الخطأ مثل #VALUE!،#NAME؟|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GlobalizationSettings](/cells/python-net/ar/aspose.cells/globalizationsettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GlobalizationSettings`](/cells/python-net/ar/aspose.cells/globalizationsettings)

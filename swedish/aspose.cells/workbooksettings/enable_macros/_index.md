@@ -3,7 +3,7 @@ title: enable_macros fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 170
 url: /sv/aspose.cells/workbooksettings/enable_macros/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def enable_macros(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

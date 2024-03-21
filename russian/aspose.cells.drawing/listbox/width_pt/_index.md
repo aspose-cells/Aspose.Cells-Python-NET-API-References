@@ -1,22 +1,22 @@
 ---
 title: width_pt недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1270
+weight: 1280
 url: /ru/aspose.cells.drawing/listbox/width_pt/
 is_root: false
 ---
 ##  width_pt недвижимость
 
-Представляет ширину фигуры в пунктах.
+Представляет ширину фигуры в точках.
 
 ###  Пример
 
 ```python
 
 if shape.width_pt == 3:
-    shape.width_pt = 1
+    shape.width_pt = 1.0
 
 ```
 ###  Определение:
@@ -30,5 +30,5 @@ def width_pt(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ListBox](/cells/python-net/ru/aspose.cells.drawing/listbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ListBox`](/cells/python-net/ru/aspose.cells.drawing/listbox)

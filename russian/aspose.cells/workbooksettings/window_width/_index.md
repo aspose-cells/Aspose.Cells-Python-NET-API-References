@@ -1,9 +1,9 @@
 ---
 title: window_width недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 730
+weight: 610
 url: /ru/aspose.cells/workbooksettings/window_width/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def window_width(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

@@ -3,7 +3,7 @@ title: background propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 70
+weight: 80
 url: /es/aspose.cells.charts/legend/background/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def background(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [BackgroundMode](/cells/python-net/es/aspose.cells.charts/backgroundmode)
-* clase [Legend](/cells/python-net/es/aspose.cells.charts/legend)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`BackgroundMode`](/cells/python-net/es/aspose.cells.charts/backgroundmode)
+* clase [`Legend`](/cells/python-net/es/aspose.cells.charts/legend)

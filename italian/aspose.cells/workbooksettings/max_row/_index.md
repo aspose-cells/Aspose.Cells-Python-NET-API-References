@@ -3,7 +3,7 @@ title: max_row proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 390
+weight: 310
 url: /it/aspose.cells/workbooksettings/max_row/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def max_row(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorkbookSettings](/cells/python-net/it/aspose.cells/workbooksettings)
+* modulo [`aspose.cells`](../../)
+* classe [`WorkbookSettings`](/cells/python-net/it/aspose.cells/workbooksettings)

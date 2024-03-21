@@ -3,14 +3,14 @@ title: quality Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 280
 url: /de/aspose.cells.rendering/imageorprintoptions/quality/
 is_root: false
 ---
 ##  quality Eigentum
 
-Ruft einen Wert ab oder legt diesen fest, der quality der generierten Bilder bestimmt
-nur anzuwenden, wenn Seiten im Format `Jpeg` gespeichert werden. Der Standardwert ist 100
+Ruft einen Wert ab, der die quality der generierten Bilder bestimmt, oder legt diesen fest
+Wird nur angewendet, wenn Seiten im Format `Jpeg` gespeichert werden. Der Standardwert ist 100
 
 ###  Bemerkungen
 
@@ -28,5 +28,5 @@ def quality(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [ImageOrPrintOptions](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`ImageOrPrintOptions`](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)

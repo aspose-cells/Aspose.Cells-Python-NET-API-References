@@ -1,13 +1,13 @@
 ---
-title: value2 الملكية
+title: value2 عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ar/aspose.cells/validation/value2/
 is_root: false
 ---
-##  value2 الملكية
+##  value2 عقار
 
 يمثل القيمة الثانية المرتبطة بالتحقق من صحة البيانات.
 ###  تعريف:
@@ -21,5 +21,5 @@ def value2(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Validation](/cells/python-net/ar/aspose.cells/validation)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Validation`](/cells/python-net/ar/aspose.cells/validation)

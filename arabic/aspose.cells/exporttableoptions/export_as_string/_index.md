@@ -1,15 +1,15 @@
 ---
-title: export_as_string الملكية
+title: export_as_string عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 70
 url: /ar/aspose.cells/exporttableoptions/export_as_string/
 is_root: false
 ---
-##  export_as_string الملكية
+##  export_as_string عقار
 
-يصدر قيمة سلسلة الخلايا إلى DataTable.
+تصدير قيمة سلسلة الخلايا إلى DataTable.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_as_string(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ExportTableOptions](/cells/python-net/ar/aspose.cells/exporttableoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ExportTableOptions`](/cells/python-net/ar/aspose.cells/exporttableoptions)

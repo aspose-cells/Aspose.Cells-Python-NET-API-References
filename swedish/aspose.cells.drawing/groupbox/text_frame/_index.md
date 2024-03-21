@@ -3,7 +3,7 @@ title: text_frame fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 960
+weight: 970
 url: /sv/aspose.cells.drawing/groupbox/text_frame/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def text_frame(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GroupBox](/cells/python-net/sv/aspose.cells.drawing/groupbox)
-* klass [MsoTextFrame](/cells/python-net/sv/aspose.cells.drawing/msotextframe)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GroupBox`](/cells/python-net/sv/aspose.cells.drawing/groupbox)
+* klass [`MsoTextFrame`](/cells/python-net/sv/aspose.cells.drawing/msotextframe)

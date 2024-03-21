@@ -3,7 +3,7 @@ title: page_setup mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 370
+weight: 400
 url: /tr/aspose.cells.charts/chart/page_setup/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def page_setup(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Chart](/cells/python-net/tr/aspose.cells.charts/chart)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Chart`](/cells/python-net/tr/aspose.cells.charts/chart)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

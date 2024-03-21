@@ -1,17 +1,17 @@
 ---
-title: html_cross_string_type الملكية
+title: html_cross_string_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 440
 url: /ar/aspose.cells/htmlsaveoptions/html_cross_string_type/
 is_root: false
 ---
-##  html_cross_string_type الملكية
+##  html_cross_string_type عقار
 
 يشير إلى ما إذا كان سيتم عرض سلسلة عبر الخلايا بنفس طريقة عرض MS Excel عند حفظ ملف Excel بتنسيق html.
-القيمة الافتراضية هي افتراضي ، لذلك ، بالنسبة للسلاسل عبر الخلايا ، هناك اختلاف بسيط بين ملفات html التي تم إنشاؤها بواسطة Aspose.Cells و MS Excel.
-لكن أداء إنشاء ملفات html كبيرة ، وضبط القيمة على Cross سيكون أسرع بعدة مرات من تعيينها على Default أو Fit2Cell.
+بشكل افتراضي، تكون القيمة افتراضية، لذلك، بالنسبة للسلاسل عبر الخلايا، هناك اختلاف بسيط بين ملفات html التي تم إنشاؤها بواسطة Aspose.Cells وMS Excel.
+لكن أداء إنشاء ملفات html كبيرة، فإن تعيين القيمة على Cross سيكون أسرع بعدة مرات من تعيينها على Default أو Fit2Cell.
 ###  تعريف:
 ```python
 @property
@@ -23,6 +23,6 @@ def html_cross_string_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlCrossType](/cells/python-net/ar/aspose.cells/htmlcrosstype)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlCrossType`](/cells/python-net/ar/aspose.cells/htmlcrosstype)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

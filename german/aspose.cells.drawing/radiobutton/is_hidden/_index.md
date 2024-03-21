@@ -3,7 +3,7 @@ title: is_hidden Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 590
+weight: 610
 url: /de/aspose.cells.drawing/radiobutton/is_hidden/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def is_hidden(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RadioButton](/cells/python-net/de/aspose.cells.drawing/radiobutton)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RadioButton`](/cells/python-net/de/aspose.cells.drawing/radiobutton)

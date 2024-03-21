@@ -9,11 +9,14 @@ is_root: false
 ---
 ##  extend_to_next_sheet propriété
 
-Étend ou non les données à la feuille suivante lorsque les lignes ou les colonnes de données dépassent la limite.
-Si cette propriété est vraie, les données supplémentaires seront étendues à la feuille suivante derrière la feuille actuelle (si la feuille actuelle est la dernière,
-nouvelle feuille sera ajoutée au classeur actuel).
+Indique si les données s'étendent à la feuille suivante lorsque les lignes ou les colonnes de données dépassent la limite.
+La valeur par défaut est fausse.
+
+###  Remarques
+
+Si cette propriété est vraie, les données supplémentaires seront placées dans la feuille suivante derrière la feuille actuelle.
+(si la feuille actuelle est la dernière, la nouvelle feuille sera ajoutée au classeur actuel).
 Si cette propriété est fausse, les données dépassant la limite seront ignorées.
-La valeur par défaut est false ;
 ###  Définition:
 ```python
 @property
@@ -25,5 +28,5 @@ def extend_to_next_sheet(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [TxtLoadOptions](/cells/python-net/fr/aspose.cells/txtloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`TxtLoadOptions`](/cells/python-net/fr/aspose.cells/txtloadoptions)

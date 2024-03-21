@@ -1,19 +1,19 @@
 ---
 title: built_in_document_properties недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ru/aspose.cells/worksheetcollection/built_in_document_properties/
 is_root: false
 ---
 ##  built_in_document_properties недвижимость
 
-Возвращает коллекцию [DocumentProperty](/cells/python-net/ru/aspose.cells.properties/documentproperty), которая представляет все встроенные свойства документа электронной таблицы.
+Возвращает коллекцию [`DocumentProperty`](/cells/python-net/ru/aspose.cells.properties/documentproperty), которая представляет все встроенные свойства документа электронной таблицы.
 
 ###  Примечания
 
-Нельзя добавить новое свойство в список встроенных свойств документа. Вы можете только получить встроенное свойство и изменить его значение.
+Новое свойство невозможно добавить в список встроенных свойств документа. Вы можете только получить встроенное свойство и изменить его значение.
 Ниже приведен список имен встроенных свойств:
 
 Заголовок
@@ -82,7 +82,7 @@ is_root: false
 Количество байтов
 
 
-Количество линий
+Количество строк
 
 
 Количество абзацев
@@ -91,7 +91,7 @@ is_root: false
 Количество слайдов
 
 
-Количество примечаний
+Количество нот
 
 
 Количество скрытых слайдов
@@ -106,7 +106,7 @@ def built_in_document_properties(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [BuiltInDocumentPropertyCollection](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)
-* класс [DocumentProperty](/cells/python-net/ru/aspose.cells.properties/documentproperty)
-* класс [WorksheetCollection](/cells/python-net/ru/aspose.cells/worksheetcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`BuiltInDocumentPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)
+* класс [`DocumentProperty`](/cells/python-net/ru/aspose.cells.properties/documentproperty)
+* класс [`WorksheetCollection`](/cells/python-net/ru/aspose.cells/worksheetcollection)

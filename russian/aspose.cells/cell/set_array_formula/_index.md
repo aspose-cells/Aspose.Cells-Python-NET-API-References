@@ -1,14 +1,14 @@
 ---
 title: set_array_formula метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 290
+weight: 310
 url: /ru/aspose.cells/cell/set_array_formula/
 is_root: false
 ---
-##  set_array_formula(array_formula, row_number, column_number) {#str-int-int}
-Задает формулу массива (устаревшая формула массива, введенная с помощью CTRL+SHIFT+ENTER в MS Excel) для диапазона ячеек.
+##  set_array_formula {#str-int-int}
+Устанавливает формулу массива (устаревшая формула массива, введенная с помощью CTRL+SHIFT+ENTER в MS Excel) в диапазон ячеек.
 
 
 
@@ -21,12 +21,12 @@ def set_array_formula(self, array_formula, row_number, column_number):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | array_formula | str | Формула массива.|
-| row_number | int |Количество строк для заполнения результата формулы массива.|
+| row_number | int | Количество строк для заполнения результата формулы массива.|
 | column_number | int | Количество столбцов для заполнения результата формулы массива.|
 
 
-##  set_array_formula(array_formula, row_number, column_number, options) {#str-int-int-FormulaParseOptions}
-Задает формулу массива для диапазона ячеек.
+##  set_array_formula {#str-int-int-aspose.cells.FormulaParseOptions}
+Устанавливает формулу массива в диапазон ячеек.
 
 
 
@@ -39,13 +39,13 @@ def set_array_formula(self, array_formula, row_number, column_number, options):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | array_formula | str | Формула массива.|
-| row_number | int |Количество строк для заполнения результата формулы массива.|
+| row_number | int | Количество строк для заполнения результата формулы массива.|
 | column_number | int | Количество столбцов для заполнения результата формулы массива.|
-| options | [FormulaParseOptions](/cells/python-net/ru/aspose.cells/formulaparseoptions) | Варианты разбора формулы.|
+| options | [`FormulaParseOptions`](/cells/python-net/ru/aspose.cells/formulaparseoptions) | Варианты разбора формулы.|
 
 
-##  set_array_formula(array_formula, row_number, column_number, is_r1c1, is_local) {#str-int-int-bool-bool}
-Задает формулу массива для диапазона ячеек.
+##  set_array_formula {#str-int-int-bool-bool}
+Устанавливает формулу массива в диапазон ячеек.
 
 
 
@@ -58,19 +58,19 @@ def set_array_formula(self, array_formula, row_number, column_number, is_r1c1, i
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | array_formula | str | Формула массива.|
-| row_number | int |Количество строк для заполнения результата формулы массива.|
+| row_number | int | Количество строк для заполнения результата формулы массива.|
 | column_number | int | Количество столбцов для заполнения результата формулы массива.|
 | is_r1c1 | bool | является ли формула формулой R1C1|
-| is_local | bool | отформатирована ли формула в локали|
+| is_local | bool | имеет ли формула языковой формат|
 ###  Примечания
 
 ПРИМЕЧАНИЕ. Этот класс устарел. Вместо,
-пожалуйста, используйте Cell.SetArrayFormula(string,int,int,FormulaParseOptions).
-Это свойство будет удалено через 12 месяцев, начиная с декабря 2019 года.
+используйте Cell.SetArrayFormula(string,int,int,FormulaParseOptions).
+Этот объект недвижимости будет удален через 12 месяцев, начиная с декабря 2019 года.
 Aspose приносит извинения за возможные неудобства.
 
-##  set_array_formula(array_formula, row_number, column_number, options, values) {#str-int-int-FormulaParseOptions-list}
-Задает формулу массива для диапазона ячеек.
+##  set_array_formula {#str-int-int-aspose.cells.FormulaParseOptions-list}
+Устанавливает формулу массива в диапазон ячеек.
 
 
 
@@ -83,13 +83,13 @@ def set_array_formula(self, array_formula, row_number, column_number, options, v
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | array_formula | str | Формула массива.|
-| row_number | int |Количество строк для заполнения результата формулы массива.|
+| row_number | int | Количество строк для заполнения результата формулы массива.|
 | column_number | int | Количество столбцов для заполнения результата формулы массива.|
-| options | [FormulaParseOptions](/cells/python-net/ru/aspose.cells/formulaparseoptions) | Варианты разбора формулы.|
-| values | list | значения для тех ячеек с заданной формулой массива|
+| options | [`FormulaParseOptions`](/cells/python-net/ru/aspose.cells/formulaparseoptions) | Варианты разбора формулы.|
+| values | list | значения для этих ячеек с заданной формулой массива|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

@@ -3,7 +3,7 @@ title: revision_logs propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 330
+weight: 340
 url: /es/aspose.cells/worksheetcollection/revision_logs/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def revision_logs(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [RevisionLogCollection](/cells/python-net/es/aspose.cells.revisions/revisionlogcollection)
-* clase [WorksheetCollection](/cells/python-net/es/aspose.cells/worksheetcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`RevisionLogCollection`](/cells/python-net/es/aspose.cells.revisions/revisionlogcollection)
+* clase [`WorksheetCollection`](/cells/python-net/es/aspose.cells/worksheetcollection)

@@ -3,7 +3,7 @@ title: text proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 910
+weight: 920
 url: /it/aspose.cells.drawing/dialogbox/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [DialogBox](/cells/python-net/it/aspose.cells.drawing/dialogbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`DialogBox`](/cells/python-net/it/aspose.cells.drawing/dialogbox)

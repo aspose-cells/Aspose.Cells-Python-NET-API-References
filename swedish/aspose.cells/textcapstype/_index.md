@@ -3,7 +3,7 @@ title: TextCapsType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2530
+weight: 2620
 url: /sv/aspose.cells/textcapstype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen TextCapsType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

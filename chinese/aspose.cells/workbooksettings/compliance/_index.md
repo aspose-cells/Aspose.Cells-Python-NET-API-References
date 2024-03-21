@@ -1,13 +1,13 @@
 ---
-title: compliance 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: compliance属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 150
+weight: 120
 url: /zh/aspose.cells/workbooksettings/compliance/
 is_root: false
 ---
-## compliance 属性
+## compliance属性
 
 指定输出文档的 OOXML 版本。默认值为 Ecma376_2006。
 
@@ -25,6 +25,6 @@ def compliance(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [OoxmlCompliance](/cells/python-net/zh/aspose.cells/ooxmlcompliance)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`OoxmlCompliance`](/cells/python-net/zh/aspose.cells/ooxmlcompliance)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)

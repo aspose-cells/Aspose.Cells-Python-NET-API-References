@@ -1,13 +1,13 @@
 ---
-title: error_title الملكية
+title: error_title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ar/aspose.cells/validation/error_title/
 is_root: false
 ---
-##  error_title الملكية
+##  error_title عقار
 
 يمثل عنوان مربع حوار خطأ التحقق من صحة البيانات.
 ###  تعريف:
@@ -21,5 +21,5 @@ def error_title(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Validation](/cells/python-net/ar/aspose.cells/validation)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Validation`](/cells/python-net/ar/aspose.cells/validation)

@@ -1,9 +1,9 @@
 ---
 title: show_cell_range недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 410
+weight: 400
 url: /ru/aspose.cells.charts/datalabels/show_cell_range/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_cell_range(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [DataLabels](/cells/python-net/ru/aspose.cells.charts/datalabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`DataLabels`](/cells/python-net/ru/aspose.cells.charts/datalabels)

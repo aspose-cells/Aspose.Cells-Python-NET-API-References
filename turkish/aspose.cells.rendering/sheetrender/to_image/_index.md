@@ -3,11 +3,11 @@ title: to_image yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 50
 url: /tr/aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
-##  to_image(page_index, file_name) {#int-str}
+##  to_image {#int-str}
 Belirli bir sayfayı bir dosyaya dönüştürün.
 
 
@@ -45,7 +45,7 @@ sr.to_image(0, "output.png")
 ```
 
 
-##  to_image(page_index, stream) {#int-io.RawIOBase}
+##  to_image {#int-io.RawIOBase}
 Belirli bir sayfayı bir akışa dönüştürün.
 
 
@@ -59,10 +59,10 @@ def to_image(self, page_index, stream):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | page_index | int | hangi sayfanın dönüştürüleceğini belirtin|
-| stream | io.RawIOBase | çıkış görüntüsünün akışı|
+| stream | io.RawIOBase | çıktı görüntüsünün akışı|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [SheetRender](/cells/python-net/tr/aspose.cells.rendering/sheetrender)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`SheetRender`](/cells/python-net/tr/aspose.cells.rendering/sheetrender)

@@ -1,9 +1,9 @@
 ---
 title: show_input недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ru/aspose.cells/validation/show_input/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_input(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Validation](/cells/python-net/ru/aspose.cells/validation)
+* модуль [`aspose.cells`](../../)
+* класс [`Validation`](/cells/python-net/ru/aspose.cells/validation)

@@ -3,13 +3,13 @@ title: colors proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 460
+weight: 470
 url: /it/aspose.cells/workbook/colors/
 is_root: false
 ---
 ##  colors proprietà
 
-Restituisce colors nella tavolozza per il foglio di calcolo.
+Restituisce colors nella tavolozza del foglio di calcolo.
 
 ###  Osservazioni
 
@@ -22,5 +22,5 @@ def colors(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

@@ -1,9 +1,9 @@
 ---
 title: is_automatic_size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ru/aspose.cells.charts/legend/is_automatic_size/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_automatic_size(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Legend](/cells/python-net/ru/aspose.cells.charts/legend)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Legend`](/cells/python-net/ru/aspose.cells.charts/legend)

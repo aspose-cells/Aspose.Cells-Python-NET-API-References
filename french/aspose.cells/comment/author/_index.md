@@ -3,7 +3,7 @@ title: author propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 60
+weight: 70
 url: /fr/aspose.cells/comment/author/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def author(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Comment](/cells/python-net/fr/aspose.cells/comment)
+* module [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/fr/aspose.cells/comment)

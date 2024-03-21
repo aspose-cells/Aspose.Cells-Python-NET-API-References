@@ -3,7 +3,7 @@ title: linked_cell proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 730
+weight: 740
 url: /it/aspose.cells.drawing/customxmlshape/linked_cell/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CustomXmlShape](/cells/python-net/it/aspose.cells.drawing/customxmlshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CustomXmlShape`](/cells/python-net/it/aspose.cells.drawing/customxmlshape)

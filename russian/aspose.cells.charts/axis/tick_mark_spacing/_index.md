@@ -1,9 +1,9 @@
 ---
 title: tick_mark_spacing недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 400
+weight: 410
 url: /ru/aspose.cells.charts/axis/tick_mark_spacing/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Число должно быть в диапазоне от 1 до 31999.
+Число должно быть от 1 до 31999.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def tick_mark_spacing(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)

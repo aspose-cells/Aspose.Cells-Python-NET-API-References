@@ -3,7 +3,7 @@ title: insert_blank_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 310
+weight: 350
 url: /es/aspose.cells.pivot/pivotfield/insert_blank_row/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def insert_blank_row(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotField](/cells/python-net/es/aspose.cells.pivot/pivotfield)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotField`](/cells/python-net/es/aspose.cells.pivot/pivotfield)

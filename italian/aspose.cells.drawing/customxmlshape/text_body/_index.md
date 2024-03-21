@@ -3,7 +3,7 @@ title: text_body proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 920
+weight: 930
 url: /it/aspose.cells.drawing/customxmlshape/text_body/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CustomXmlShape](/cells/python-net/it/aspose.cells.drawing/customxmlshape)
-* classe [FontSettingCollection](/cells/python-net/it/aspose.cells.drawing.texts/fontsettingcollection)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CustomXmlShape`](/cells/python-net/it/aspose.cells.drawing/customxmlshape)
+* classe [`FontSettingCollection`](/cells/python-net/it/aspose.cells.drawing.texts/fontsettingcollection)

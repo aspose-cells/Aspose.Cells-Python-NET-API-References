@@ -3,7 +3,7 @@ title: text_cross_type proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 270
+weight: 310
 url: /it/aspose.cells/pptxsaveoptions/text_cross_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def text_cross_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PptxSaveOptions](/cells/python-net/it/aspose.cells/pptxsaveoptions)
-* classe [TextCrossType](/cells/python-net/it/aspose.cells/textcrosstype)
+* modulo [`aspose.cells`](../../)
+* classe [`PptxSaveOptions`](/cells/python-net/it/aspose.cells/pptxsaveoptions)
+* classe [`TextCrossType`](/cells/python-net/it/aspose.cells/textcrosstype)

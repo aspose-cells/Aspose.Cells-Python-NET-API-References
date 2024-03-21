@@ -3,12 +3,12 @@ title: طريقة hide_row
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 580
 url: /ar/aspose.cells/cells/hide_row/
 is_root: false
 ---
-##  hide_row(row) {#int}
-يخفي صفًا.
+##  hide_row {#int}
+إخفاء صف.
 
 
 
@@ -20,10 +20,10 @@ def hide_row(self, row):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس الصف.|
+| row | int | مؤشر الصف.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

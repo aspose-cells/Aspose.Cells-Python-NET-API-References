@@ -3,7 +3,7 @@ title: License Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 980
+weight: 1020
 url: /de/aspose.cells/license/
 is_root: false
 ---
@@ -17,24 +17,24 @@ Der Typ License macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [License()](/cells/python-net/de/aspose.cells/license/__init__/#) | Initialisiert eine neue Instanz dieser Klasse.|
+| [__init__](/cells/python-net/de/aspose.cells/license/__init__/#) | Initialisiert eine neue Instanz dieser Klasse.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [set_license(license_name)](/cells/python-net/de/aspose.cells/license/set_license/#str) | Lizenziert die Komponente.|
-| [set_license(stream)](/cells/python-net/de/aspose.cells/license/set_license/#io.RawIOBase) | Lizenziert die Komponente.|
+| [set_license](/cells/python-net/de/aspose.cells/license/set_license/#str) | Lizenziert die Komponente.|
+| [set_license](/cells/python-net/de/aspose.cells/license/set_license/#io.RawIOBase) | Lizenziert die Komponente.|
 
 
 
 ###  Beispiel
 
-In diesem Beispiel wird versucht, eine Lizenzdatei namens MyLicense.lic zu finden
+In diesem Beispiel wird versucht, eine Lizenzdatei mit dem Namen MyLicense.lic zu finden
  in dem Ordner, der enthält
 
 
-die Komponente in dem Ordner, der die aufrufende Assembly enthält,
+die Komponente im Ordner, der die aufrufende Assembly enthält,
 im Ordner der Eintragsassembly und dann in den eingebetteten Ressourcen der aufrufenden Assembly.
 
 ```python
@@ -46,4 +46,4 @@ license.set_license("MyLicense.lic")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

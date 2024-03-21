@@ -3,7 +3,7 @@ title: left_crop Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 100
 url: /de/aspose.cells.drawing/msoformatpicture/left_crop/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def left_crop(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoFormatPicture](/cells/python-net/de/aspose.cells.drawing/msoformatpicture)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoFormatPicture`](/cells/python-net/de/aspose.cells.drawing/msoformatpicture)

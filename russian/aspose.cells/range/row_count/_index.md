@@ -1,9 +1,9 @@
 ---
 title: row_count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 370
+weight: 390
 url: /ru/aspose.cells/range/row_count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def row_count(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](../../)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

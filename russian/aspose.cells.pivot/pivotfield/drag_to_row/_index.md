@@ -1,15 +1,15 @@
 ---
 title: drag_to_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 290
+weight: 320
 url: /ru/aspose.cells.pivot/pivotfield/drag_to_row/
 is_root: false
 ---
 ##  drag_to_row недвижимость
 
-Указывает, можно ли перетащить указанное поле в позицию строки.
+Указывает, можно ли перетащить указанное поле на позицию строки.
 Значение по умолчанию верно.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def drag_to_row(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotField](/cells/python-net/ru/aspose.cells.pivot/pivotfield)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotField`](/cells/python-net/ru/aspose.cells.pivot/pivotfield)

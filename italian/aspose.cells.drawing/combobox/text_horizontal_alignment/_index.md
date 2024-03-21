@@ -3,7 +3,7 @@ title: text_horizontal_alignment proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /it/aspose.cells.drawing/combobox/text_horizontal_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ComboBox](/cells/python-net/it/aspose.cells.drawing/combobox)
-* classe [TextAlignmentType](/cells/python-net/it/aspose.cells/textalignmenttype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ComboBox`](/cells/python-net/it/aspose.cells.drawing/combobox)
+* classe [`TextAlignmentType`](/cells/python-net/it/aspose.cells/textalignmenttype)

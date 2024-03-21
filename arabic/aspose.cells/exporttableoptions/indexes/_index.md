@@ -1,15 +1,15 @@
 ---
-title: indexes الملكية
+title: indexes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 100
 url: /ar/aspose.cells/exporttableoptions/indexes/
 is_root: false
 ---
-##  indexes الملكية
+##  indexes عقار
 
-indexes من الأعمدة / الصفوف التي يجب تصديرها للخارج.
+indexes من الأعمدة/الصفوف التي يجب تصديرها للخارج.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def indexes(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ExportTableOptions](/cells/python-net/ar/aspose.cells/exporttableoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ExportTableOptions`](/cells/python-net/ar/aspose.cells/exporttableoptions)

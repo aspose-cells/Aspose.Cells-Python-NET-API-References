@@ -1,9 +1,9 @@
 ---
 title: display_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 120
+weight: 110
 url: /ru/aspose.cells.charts/series/display_name/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def display_name(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

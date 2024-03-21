@@ -3,13 +3,13 @@ title: alt_start_path propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 200
+weight: 210
 url: /es/aspose.cells/cellshelper/alt_start_path/
 is_root: false
 ---
 ##  alt_start_path propiedad
 
-Obtiene o establece la ruta de inicio alternativa, a la que se hace referencia en algunas referencias de fórmulas externas.
+Obtiene o establece la ruta de inicio alternativa, a la que hacen referencia algunas referencias de fórmulas externas.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def alt_start_path(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellsHelper](/cells/python-net/es/aspose.cells/cellshelper)
+* módulo [`aspose.cells`](../../)
+* clase [`CellsHelper`](/cells/python-net/es/aspose.cells/cellshelper)

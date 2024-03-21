@@ -1,31 +1,31 @@
 ---
-title: rotation_angle الملكية
+title: rotation_angle عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 450
 url: /ar/aspose.cells/style/rotation_angle/
 is_root: false
 ---
-##  rotation_angle الملكية
+##  rotation_angle عقار
 
-يمثل زاوية استدارة النص.
+يمثل زاوية دوران النص.
 
 ###  ملاحظات
 
 0: غير مستدير.
 
 
-255: من أعلى إلى أسفل.
+255: من الأعلى إلى الأسفل.
 
 
--90: نزولاً.
+-90: للأسفل.
 
 
-90: صعودا.
+90 : إلى الأعلى.
 
 
-يمكنك تعيين 255 أو قيمة تتراوح من -90 إلى 90.
+يمكنك ضبط 255 أو تتراوح القيمة من -90 إلى 90.
 ###  تعريف:
 ```python
 @property
@@ -37,5 +37,5 @@ def rotation_angle(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

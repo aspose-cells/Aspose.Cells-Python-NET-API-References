@@ -1,13 +1,13 @@
 ---
-title: actual_lower_right_row الملكية
+title: actual_lower_right_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 290
 url: /ar/aspose.cells.drawing/listbox/actual_lower_right_row/
 is_root: false
 ---
-##  actual_lower_right_row الملكية
+##  actual_lower_right_row عقار
 
 احصل على الصف السفلي الفعلي.
 
@@ -26,5 +26,5 @@ def actual_lower_right_row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)

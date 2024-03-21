@@ -3,7 +3,7 @@ title: AutoFitMergedCellsType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1760
+weight: 1830
 url: /sv/aspose.cells/autofitmergedcellstype/
 is_root: false
 ---
@@ -18,11 +18,11 @@ Typen AutoFitMergedCellsType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | NONE | Ignorera sammanslagna celler.|
-| FIRST_LINE | Expanderar endast höjden på den första raden.|
-| LAST_LINE |Ökar bara höjden på den sista raden.|
+| FIRST_LINE | Ökar bara höjden på den första raden.|
+| LAST_LINE | Ökar bara höjden på den sista raden.|
 | EACH_LINE | Ökar bara höjden på varje rad.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

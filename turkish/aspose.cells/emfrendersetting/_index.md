@@ -3,24 +3,24 @@ title: EmfRenderSetting numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1990
+weight: 2060
 url: /tr/aspose.cells/emfrendersetting/
 is_root: false
 ---
 ##  EmfRenderSetting numaralandırma
-Emf meta dosyasını işlemek için ayar.
+Emf meta dosyasını işlemeye yönelik ayar.
 
 
 
-EmfRenderSetting türü aşağıdaki üyeleri gösterir:
+EmfRenderSetting türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| EMF_ONLY | Yalnızca EMF kayıtları oluşturuluyor.|
-| EMF_PLUS_PREFER | EmfPlus kayıtları oluşturmayı tercih edin.|
+| EMF_ONLY | Yalnızca Emf kayıtları işleniyor.|
+| EMF_PLUS_PREFER | EmfPlus kayıtlarını oluşturmayı tercih edin.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

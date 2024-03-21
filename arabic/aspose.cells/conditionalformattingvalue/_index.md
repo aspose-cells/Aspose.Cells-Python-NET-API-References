@@ -1,27 +1,27 @@
 ---
-title: ConditionalFormattingValue الدرجة
+title: ConditionalFormattingValue صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 350
 url: /ar/aspose.cells/conditionalformattingvalue/
 is_root: false
 ---
-##  ConditionalFormattingValue الدرجة
-يصف قيم نقاط الاستيفاء في مقياس التدرج أو شريط البيانات أو مجموعة الرموز.
+##  ConditionalFormattingValue صف
+يصف قيم نقاط الاستيفاء في مقياس التدرج أو dataBar أو IconSet.
 
 
 
-يكشف نوع ConditionalFormattingValue الأعضاء التالية:
+يكشف النوع ConditionalFormattingValue عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [value](/cells/python-net/ar/aspose.cells/conditionalformattingvalue/value) |احصل على أو عيّن قيمة كائن قيمة التنسيق الشرطي هذا.<br/> يجب استخدامه مع النوع.|
-| [type](/cells/python-net/ar/aspose.cells/conditionalformattingvalue/type) | احصل على نوع كائن قيمة التنسيق الشرطي هذا أو عيّنه.<br/> تعيين النوع إلى FormatConditionValueType.Min أو FormatConditionValueType.Max<br/> سيعمل تلقائيًا على تعيين "القيمة" على قيمة خالية.|
-| [is_gte](/cells/python-net/ar/aspose.cells/conditionalformattingvalue/is_gte) | احصل على علامة أكبر من أو يساوي أو عيّنها.<br/> استخدم فقط لمجموعات الرموز ، ويحدد ما إذا كانت قيمة الحد هذه تستخدم أم لا<br/> أكبر من أو يساوي عامل التشغيل.<br/>تشير القيمة "خطأ" إلى استخدام "أكبر من" بدلاً من "أكبر من أو يساوي".<br/> القيمة الافتراضية صحيحة.|
+| [value](/cells/python-net/ar/aspose.cells/conditionalformattingvalue/value) |احصل على قيمة كائن قيمة التنسيق الشرطي هذا أو قم بتعيينها.<br/> وينبغي استخدامه جنبا إلى جنب مع النوع.|
+| [type](/cells/python-net/ar/aspose.cells/conditionalformattingvalue/type) | احصل على أو قم بتعيين نوع كائن قيمة التنسيق الشرطي هذا.<br/> ضبط النوع على FormatConditionValueType.Min أو FormatConditionValueType.Max<br/> سيتم ضبط "القيمة" تلقائيًا على قيمة خالية.|
+| [is_gte](/cells/python-net/ar/aspose.cells/conditionalformattingvalue/is_gte) | احصل على علامة أكبر من أو يساوي أو قم بتعيينها.<br/> يُستخدم فقط لمجموعات الأيقونات، ويحدد ما إذا كانت قيمة العتبة هذه سيتم استخدامها أم لا<br/> أكبر من أو يساوي المشغل.<br/>"خطأ" يشير إلى استخدام "أكبر من" بدلاً من "أكبر من أو يساوي".<br/> القيمة الافتراضية صحيحة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

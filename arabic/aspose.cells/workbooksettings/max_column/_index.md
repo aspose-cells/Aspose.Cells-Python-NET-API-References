@@ -1,19 +1,19 @@
 ---
-title: max_column الملكية
+title: max_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 300
 url: /ar/aspose.cells/workbooksettings/max_column/
 is_root: false
 ---
-##  max_column الملكية
+##  max_column عقار
 
-يحصل على فهرس العمود الأقصى ، على أساس الصفر.
+يحصل على الحد الأقصى لفهرس العمود، على أساس الصفر.
 
 ###  ملاحظات
 
-تُرجع 255 إذا كان تنسيق الملف هو Excel97-2003 ؛
+إرجاع 255 إذا كان تنسيق الملف هو Excel97-2003؛
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def max_column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

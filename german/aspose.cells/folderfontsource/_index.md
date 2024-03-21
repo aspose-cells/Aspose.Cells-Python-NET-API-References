@@ -3,17 +3,17 @@ title: FolderFontSource Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 640
+weight: 670
 url: /de/aspose.cells/folderfontsource/
 is_root: false
 ---
 ##  FolderFontSource Klasse
-Stellt den Ordner dar, der TrueType-Schriftartdateien enthält.
+Stellt den Ordner dar, der TrueType-Schriftartendateien enthält.
 
 
 
-**Nachlass:** [FolderFontSource](/cells/python-net/aspose.cells/folderfontsource) → 
-[FontSourceBase](/cells/python-net/de/aspose.cells/fontsourcebase)
+**Nachlass:** [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource) → 
+[`FontSourceBase`](/cells/python-net/de/aspose.cells/fontsourcebase)
 
 
 
@@ -22,7 +22,7 @@ Der Typ FolderFontSource macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [FolderFontSource(folder_path, scan_subfolders)](/cells/python-net/de/aspose.cells/folderfontsource/__init__/#str-bool) | Ctor.|
+| [__init__](/cells/python-net/de/aspose.cells/folderfontsource/__init__/#str-bool) | Ctor.|
 
 
 ###  Eigenschaften
@@ -35,6 +35,6 @@ Der Typ FolderFontSource macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
-* Klasse [FolderFontSource](/cells/python-net/de/aspose.cells/folderfontsource)
-* Klasse [FontSourceBase](/cells/python-net/de/aspose.cells/fontsourcebase)
+* Modul [`aspose.cells`](..)
+* Klasse [`FolderFontSource`](/cells/python-net/de/aspose.cells/folderfontsource)
+* Klasse [`FontSourceBase`](/cells/python-net/de/aspose.cells/fontsourcebase)

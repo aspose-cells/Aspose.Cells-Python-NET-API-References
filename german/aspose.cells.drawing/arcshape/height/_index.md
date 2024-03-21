@@ -3,13 +3,13 @@ title: height Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 480
+weight: 490
 url: /de/aspose.cells.drawing/arcshape/height/
 is_root: false
 ---
 ##  height Eigentum
 
-Repräsentiert die Form height in Pixeleinheiten.
+Stellt die height der Form in der Einheit Pixel dar.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def height(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ArcShape](/cells/python-net/de/aspose.cells.drawing/arcshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ArcShape`](/cells/python-net/de/aspose.cells.drawing/arcshape)

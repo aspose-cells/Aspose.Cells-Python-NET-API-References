@@ -3,7 +3,7 @@ title: x propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /es/aspose.cells.drawing/cellsdrawing/x/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def x(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CellsDrawing](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CellsDrawing`](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)

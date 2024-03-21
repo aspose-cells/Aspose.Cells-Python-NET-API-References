@@ -3,7 +3,7 @@ title: worksheet_scalable propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 660
+weight: 730
 url: /es/aspose.cells/htmlsaveoptions/worksheet_scalable/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def worksheet_scalable(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HtmlSaveOptions](/cells/python-net/es/aspose.cells/htmlsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`HtmlSaveOptions`](/cells/python-net/es/aspose.cells/htmlsaveoptions)

@@ -1,14 +1,14 @@
 ---
-title: is_same_setting méthode
+title: méthode is_same_setting
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 160
 url: /fr/aspose.cells.drawing/textbox/is_same_setting/
 is_root: false
 ---
-##  is_same_setting(obj) {#any}
-Renvoie si la forme est identique.
+##  is_same_setting {#any}
+Renvoie si la forme est la même.
 
 
 ###  Retour
@@ -38,5 +38,5 @@ if shape.is_same_setting(shape):
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TextBox](/cells/python-net/fr/aspose.cells.drawing/textbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TextBox`](/cells/python-net/fr/aspose.cells.drawing/textbox)

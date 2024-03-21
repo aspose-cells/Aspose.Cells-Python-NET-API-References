@@ -1,18 +1,18 @@
 ---
-title: classe DataBarBorder
+title: DataBarBorder classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 410
+weight: 430
 url: /it/aspose.cells/databarborder/
 is_root: false
 ---
-##  classe DataBarBorder
-Rappresenta il bordo delle barre dei dati specificato da una regola di formattazione condizionale.
+##  DataBarBorder classe
+Rappresenta il bordo delle barre dati specificate da una regola di formattazione condizionale.
 
 
 
-Il tipo DataBarBorder espone i membri seguenti:
+Il tipo DataBarBorder espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -23,4 +23,4 @@ Il tipo DataBarBorder espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

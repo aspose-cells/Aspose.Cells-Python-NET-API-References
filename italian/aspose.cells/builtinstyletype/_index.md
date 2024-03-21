@@ -1,18 +1,18 @@
 ---
-title: BuiltinStyleType enumerazione
+title: Enumerazione BuiltinStyleType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1800
+weight: 1870
 url: /it/aspose.cells/builtinstyletype/
 is_root: false
 ---
-##  BuiltinStyleType enumerazione
+##  Enumerazione BuiltinStyleType
 Rappresenta tutti i tipi di stile incorporati.
 
 
 
-Il tipo BuiltinStyleType espone i membri seguenti:
+Il tipo BuiltinStyleType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -72,4 +72,4 @@ Il tipo BuiltinStyleType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

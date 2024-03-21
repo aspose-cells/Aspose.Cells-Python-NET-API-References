@@ -1,55 +1,55 @@
 ---
 title: ErrorBar класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ru/aspose.cells.charts/errorbar/
 is_root: false
 ---
 ##  ErrorBar класс
-Представляет планку погрешностей ряда данных.
+Представляет панель ошибок ряда данных.
 
 
 
-**Наследование:** [ErrorBar](/cells/python-net/aspose.cells.charts/errorbar) → 
-[Line](/cells/python-net/ru/aspose.cells.drawing/line)
+**Наследование:** [`ErrorBar`](/cells/python-net/aspose.cells.charts/errorbar) → 
+[`Line`](/cells/python-net/ru/aspose.cells.drawing/line)
 
 
 
-Тип ErrorBar предоставляет следующие члены:
+Тип ErrorBar предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [compound_type](/cells/python-net/ru/aspose.cells.charts/errorbar/compound_type) | Задает тип составной линии|
+| [compound_type](/cells/python-net/ru/aspose.cells.charts/errorbar/compound_type) | Указывает тип составной линии|
 | [dash_type](/cells/python-net/ru/aspose.cells.charts/errorbar/dash_type) | Указывает тип пунктирной линии|
-| [cap_type](/cells/python-net/ru/aspose.cells.charts/errorbar/cap_type) | Определяет конечные заглавные буквы.|
-| [join_type](/cells/python-net/ru/aspose.cells.charts/errorbar/join_type) | Определяет соединительные заглавные буквы.|
-| [begin_type](/cells/python-net/ru/aspose.cells.charts/errorbar/begin_type) |Указывает стрелку для начала строки.|
-| [end_type](/cells/python-net/ru/aspose.cells.charts/errorbar/end_type) | Задает стрелку для конца строки.|
-| [begin_arrow_length](/cells/python-net/ru/aspose.cells.charts/errorbar/begin_arrow_length) | Определяет длину стрелки для начала строки.|
-| [end_arrow_length](/cells/python-net/ru/aspose.cells.charts/errorbar/end_arrow_length) | Задает длину стрелки для конца строки.|
-| [begin_arrow_width](/cells/python-net/ru/aspose.cells.charts/errorbar/begin_arrow_width) | Определяет ширину стрелки для начала строки.|
-| [end_arrow_width](/cells/python-net/ru/aspose.cells.charts/errorbar/end_arrow_width) | Определяет ширину стрелки для конца строки.|
-| [theme_color](/cells/python-net/ru/aspose.cells.charts/errorbar/theme_color) | Получает и задает цвет темы.|
+| [cap_type](/cells/python-net/ru/aspose.cells.charts/errorbar/cap_type) |Указывает конечные прописные буквы.|
+| [join_type](/cells/python-net/ru/aspose.cells.charts/errorbar/join_type) | Указывает соединительные заглушки.|
+| [begin_type](/cells/python-net/ru/aspose.cells.charts/errorbar/begin_type) | Указывает стрелку в начале строки.|
+| [end_type](/cells/python-net/ru/aspose.cells.charts/errorbar/end_type) | Указывает стрелку в конце строки.|
+| [begin_arrow_length](/cells/python-net/ru/aspose.cells.charts/errorbar/begin_arrow_length) | Указывает длину стрелки в начале строки.|
+| [end_arrow_length](/cells/python-net/ru/aspose.cells.charts/errorbar/end_arrow_length) | Указывает длину стрелки в конце строки.|
+| [begin_arrow_width](/cells/python-net/ru/aspose.cells.charts/errorbar/begin_arrow_width) | Определяет ширину стрелки в начале строки.|
+| [end_arrow_width](/cells/python-net/ru/aspose.cells.charts/errorbar/end_arrow_width) | Определяет ширину стрелки в конце строки.|
+| [theme_color](/cells/python-net/ru/aspose.cells.charts/errorbar/theme_color) | Получает и устанавливает цвет темы.|
 | [color](/cells/python-net/ru/aspose.cells.charts/errorbar/color) | Представляет цвет линии.|
-| [transparency](/cells/python-net/ru/aspose.cells.charts/errorbar/transparency) | Возвращает или задает степень прозрачности линии в виде значения от 0,0 (непрозрачная) до 1,0 (прозрачная).|
+| [transparency](/cells/python-net/ru/aspose.cells.charts/errorbar/transparency) | Возвращает или задает степень прозрачности линии в диапазоне от 0,0 (непрозрачная) до 1,0 (прозрачная).|
 | [style](/cells/python-net/ru/aspose.cells.charts/errorbar/style) | Представляет стиль линии.|
-| [weight](/cells/python-net/ru/aspose.cells.charts/errorbar/weight) | Получает или задает [WeightType](/cells/python-net/ru/aspose.cells.drawing/weighttype) строки.|
-| [weight_pt](/cells/python-net/ru/aspose.cells.charts/errorbar/weight_pt) | Получает или задает вес линии в пунктах.|
+| [weight](/cells/python-net/ru/aspose.cells.charts/errorbar/weight) | Получает или задает [`WeightType`](/cells/python-net/ru/aspose.cells.drawing/weighttype) строки.|
+| [weight_pt](/cells/python-net/ru/aspose.cells.charts/errorbar/weight_pt) | Получает или задает вес линии в точках.|
 | [weight_px](/cells/python-net/ru/aspose.cells.charts/errorbar/weight_px) | Получает или задает вес линии в пикселях.|
 | [formatting_type](/cells/python-net/ru/aspose.cells.charts/errorbar/formatting_type) | Получает или задает тип формата.|
 | [is_automatic_color](/cells/python-net/ru/aspose.cells.charts/errorbar/is_automatic_color) | Указывает, назначается ли цвет линии автоматически.|
 | [is_visible](/cells/python-net/ru/aspose.cells.charts/errorbar/is_visible) | Указывает, видна ли линия.|
-| [is_auto](/cells/python-net/ru/aspose.cells.charts/errorbar/is_auto) | Указывает, назначается ли этот стиль линии автоматически.|
+| [is_auto](/cells/python-net/ru/aspose.cells.charts/errorbar/is_auto) |Указывает, назначается ли этот стиль линии автоматически.|
 | [gradient_fill](/cells/python-net/ru/aspose.cells.charts/errorbar/gradient_fill) | Представляет градиентную заливку.|
-| [type](/cells/python-net/ru/aspose.cells.charts/errorbar/type) |Представляет тип суммы бара ошибок.|
-| [display_type](/cells/python-net/ru/aspose.cells.charts/errorbar/display_type) | Представляет тип отображения полосы ошибок.|
+| [type](/cells/python-net/ru/aspose.cells.charts/errorbar/type) | Представляет тип суммы панели ошибок.|
+| [display_type](/cells/python-net/ru/aspose.cells.charts/errorbar/display_type) | Представляет тип отображения панели ошибок.|
 | [amount](/cells/python-net/ru/aspose.cells.charts/errorbar/amount) | Представляет количество ошибок.<br/> Сумма должна быть больше или равна нулю.|
-| [show_marker_t_top](/cells/python-net/ru/aspose.cells.charts/errorbar/show_marker_t_top) | Указывает, форматируются ли полосы ошибок с Т-образной вершиной.|
-| [plus_value](/cells/python-net/ru/aspose.cells.charts/errorbar/plus_value) | Представляет положительную величину ошибки, когда тип полосы ошибок — Пользовательский.|
-| [minus_value](/cells/python-net/ru/aspose.cells.charts/errorbar/minus_value) | Представляет отрицательную величину ошибки, если тип полосы ошибок — Пользовательский.|
+| [show_marker_t_top](/cells/python-net/ru/aspose.cells.charts/errorbar/show_marker_t_top) | Указывает, имеют ли полосы ошибок форматирования Т-образную форму.|
+| [plus_value](/cells/python-net/ru/aspose.cells.charts/errorbar/plus_value) | Представляет положительную сумму ошибки, если тип панели ошибок — Пользовательский.|
+| [minus_value](/cells/python-net/ru/aspose.cells.charts/errorbar/minus_value) | Представляет отрицательную сумму ошибки, если тип панели ошибок — Пользовательский.|
 
 
 
@@ -77,16 +77,16 @@ chartIndex = workbook.worksheets[0].charts.add(ChartType.COLUMN, 11, 0, 27, 10)
 chart = workbook.worksheets[0].charts[chartIndex]
 chart.n_series.add("A1:B4", True)
 chart.n_series.category_data = "C1:C4"
-for i in range(len(chart.NSeries)):
+for i in range(len(chart.n_series)):
     aseries = chart.n_series[i]
     aseries.y_error_bar.display_type = ErrorBarDisplayType.MINUS
     aseries.y_error_bar.type = ErrorBarType.FIXED_VALUE
-    aseries.y_error_bar.amount = 5
+    aseries.y_error_bar.amount = 5.0
 
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
-* класс [ErrorBar](/cells/python-net/ru/aspose.cells.charts/errorbar)
-* класс [Line](/cells/python-net/ru/aspose.cells.drawing/line)
-* класс [WeightType](/cells/python-net/ru/aspose.cells.drawing/weighttype)
+* модуль [`aspose.cells.charts`](..)
+* класс [`ErrorBar`](/cells/python-net/ru/aspose.cells.charts/errorbar)
+* класс [`Line`](/cells/python-net/ru/aspose.cells.drawing/line)
+* класс [`WeightType`](/cells/python-net/ru/aspose.cells.drawing/weighttype)

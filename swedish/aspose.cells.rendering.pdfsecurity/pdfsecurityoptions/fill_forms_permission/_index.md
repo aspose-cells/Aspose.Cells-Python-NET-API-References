@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  fill_forms_permission fastighet
 
-Tillstånd att fylla i formulärfälten.
+ Anger om man ska tillåta att fylla i befintliga interaktiva formulärfält (inklusive signaturfält),
+även om [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) är klart.
 ###  Definition:
 ```python
 @property
@@ -21,5 +22,5 @@ def fill_forms_permission(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering.pdfsecurity](../../)
-* klass [PdfSecurityOptions](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modul [`aspose.cells.rendering.pdfsecurity`](../../)
+* klass [`PdfSecurityOptions`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

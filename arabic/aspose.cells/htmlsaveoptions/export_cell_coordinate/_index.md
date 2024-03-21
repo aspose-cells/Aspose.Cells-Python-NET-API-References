@@ -1,16 +1,16 @@
 ---
-title: export_cell_coordinate الملكية
+title: export_cell_coordinate عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 190
 url: /ar/aspose.cells/htmlsaveoptions/export_cell_coordinate/
 is_root: false
 ---
-##  export_cell_coordinate الملكية
+##  export_cell_coordinate عقار
 
-يشير إلى ما إذا كان تصدير تنسيق Excel للخلايا غير الفارغة عند حفظ الملف إلى html. القيمة الافتراضية هي كاذبة.
-إذا كنت تريد استيراد ملف html الناتج إلى Excel ، فيرجى الاحتفاظ بالقيمة الافتراضية.
+يشير إلى ما إذا كان سيتم تصدير إحداثيات Excel للخلايا غير الفارغة عند حفظ الملف إلى html. القيمة الافتراضية هي كاذبة.
+إذا كنت تريد استيراد ملف HTML الناتج إلى برنامج Excel، فيرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def export_cell_coordinate(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

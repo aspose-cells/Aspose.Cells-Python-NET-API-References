@@ -3,7 +3,7 @@ title: paths propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 810
+weight: 820
 url: /es/aspose.cells.drawing/webextensionshape/paths/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapePathCollection](/cells/python-net/es/aspose.cells.drawing/shapepathcollection)
-* clase [WebExtensionShape](/cells/python-net/es/aspose.cells.drawing/webextensionshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapePathCollection`](/cells/python-net/es/aspose.cells.drawing/shapepathcollection)
+* clase [`WebExtensionShape`](/cells/python-net/es/aspose.cells.drawing/webextensionshape)

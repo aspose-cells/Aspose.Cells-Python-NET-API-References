@@ -3,18 +3,18 @@ title: PrintOrderType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2390
+weight: 2480
 url: /tr/aspose.cells/printordertype/
 is_root: false
 ---
 ##  PrintOrderType numaralandırma
-Baskı sırası sabitlerini temsil eder.
+Yazdırma sırası sabitlerini temsil eder.
 
 
 
-PrintOrderType türü aşağıdaki üyeleri gösterir:
+PrintOrderType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | DOWN_THEN_OVER | Aşağı, sonra bitti|
@@ -23,4 +23,4 @@ PrintOrderType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

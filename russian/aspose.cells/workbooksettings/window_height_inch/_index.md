@@ -1,9 +1,9 @@
 ---
 title: window_height_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 660
+weight: 540
 url: /ru/aspose.cells/workbooksettings/window_height_inch/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def window_height_inch(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

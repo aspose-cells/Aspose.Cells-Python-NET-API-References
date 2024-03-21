@@ -3,7 +3,7 @@ title: is_lock_aspect_ratio fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 590
+weight: 600
 url: /sv/aspose.cells.drawing/dialogbox/is_lock_aspect_ratio/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def is_lock_aspect_ratio(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [DialogBox](/cells/python-net/sv/aspose.cells.drawing/dialogbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`DialogBox`](/cells/python-net/sv/aspose.cells.drawing/dialogbox)

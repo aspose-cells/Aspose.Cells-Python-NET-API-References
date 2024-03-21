@@ -3,13 +3,13 @@ title: x Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /de/aspose.cells.drawing/cellsdrawing/x/
 is_root: false
 ---
 ##  x Eigentum
 
-Ruft den horizontalen Versatz der Form vom linken Rand des Arbeitsblatts in Pixeln ab und legt ihn fest.
+Ruft den horizontalen Versatz der Form vom linken Rand des Arbeitsblatts in Pixeleinheiten ab und legt diesen fest.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def x(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CellsDrawing](/cells/python-net/de/aspose.cells.drawing/cellsdrawing)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CellsDrawing`](/cells/python-net/de/aspose.cells.drawing/cellsdrawing)

@@ -1,15 +1,15 @@
 ---
 title: axis_between_categories недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ru/aspose.cells.charts/axis/axis_between_categories/
 is_root: false
 ---
 ##  axis_between_categories недвижимость
 
-Представляет, пересекает ли ось значений ось категорий между категориями.
+Указывает, пересекает ли ось значений ось категорий между категориями.
 
 ###  Примечания
 
@@ -25,5 +25,5 @@ def axis_between_categories(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)

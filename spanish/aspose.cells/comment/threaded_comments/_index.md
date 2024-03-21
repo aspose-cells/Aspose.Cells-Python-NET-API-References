@@ -3,7 +3,7 @@ title: threaded_comments propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 230
 url: /es/aspose.cells/comment/threaded_comments/
 is_root: false
 ---
@@ -29,6 +29,6 @@ def threaded_comments(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Comment](/cells/python-net/es/aspose.cells/comment)
-* clase [ThreadedCommentCollection](/cells/python-net/es/aspose.cells/threadedcommentcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`Comment`](/cells/python-net/es/aspose.cells/comment)
+* clase [`ThreadedCommentCollection`](/cells/python-net/es/aspose.cells/threadedcommentcollection)

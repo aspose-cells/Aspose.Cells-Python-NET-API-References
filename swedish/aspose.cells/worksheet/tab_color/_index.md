@@ -3,7 +3,7 @@ title: tab_color fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 790
+weight: 810
 url: /sv/aspose.cells/worksheet/tab_color/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def tab_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

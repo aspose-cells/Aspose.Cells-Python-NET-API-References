@@ -1,46 +1,46 @@
 ---
-title: FormatConditionCollection الدرجة
+title: FormatConditionCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 700
+weight: 730
 url: /ar/aspose.cells/formatconditioncollection/
 is_root: false
 ---
-##  FormatConditionCollection الدرجة
+##  FormatConditionCollection صف
 يمثل التنسيق الشرطي.
 يمكن أن تحتوي FormatConditions على ما يصل إلى ثلاثة تنسيقات شرطية.
 
 
 
-يكشف نوع FormatConditionCollection الأعضاء التالية:
+يكشف النوع FormatConditionCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [count](/cells/python-net/ar/aspose.cells/formatconditioncollection/count) | يحصل على حساب الشروط.|
-| [range_count](/cells/python-net/ar/aspose.cells/formatconditioncollection/range_count) | الحصول على عدد النطاقات المنسقة شرطيًا.|
+| [count](/cells/python-net/ar/aspose.cells/formatconditioncollection/count) | يحصل على عدد من الشروط.|
+| [range_count](/cells/python-net/ar/aspose.cells/formatconditioncollection/range_count) | الحصول على عدد النطاقات المنسقة بشكل مشروط.|
 
 
 
-يحصل على شرط التنسيق بالفهرس.
+يحصل على حالة التنسيق حسب الفهرس.
 ###  مفهرس
 | اسم| وصف|
 | :- | :- |
-| [index] | فهرس شرط التنسيق للرجوع.|
+| [index] |فهرس شرط التنسيق المراد إرجاعه.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add_condition(type, operator_type, formula1, formula2)](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_condition/#FormatConditionType-OperatorType-str-str) | يضيف شرط تنسيق.|
-| [add_condition(type)](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_condition/#FormatConditionType) |أضف شرط تنسيق.|
-| [remove_area(index)](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_area/#int) | يزيل نطاق الخلايا المنسق الشرطي بالفهرس.|
-| [remove_area(start_row, start_column, total_rows, total_columns)](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | قم بإزالة التنسيق الشرطي في النطاق.|
-| [add(cell_area, type, operator_type, formula1, formula2)](/cells/python-net/ar/aspose.cells/formatconditioncollection/add/#CellArea-FormatConditionType-OperatorType-str-str) | يضيف شرط تنسيق ونطاق خلية مؤثر إلى FormatConditions<br/>يمكن أن تحتوي FormatConditions على ما يصل إلى ثلاثة تنسيقات شرطية.<br/> غير مسموح بالإشارات إلى الأوراق الأخرى في صيغ التنسيق الشرطي.|
-| [add_area(cell_area)](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_area/#CellArea) | يضيف نطاق خلايا منسق شرطيًا.|
-| [get_cell_area(index)](/cells/python-net/ar/aspose.cells/formatconditioncollection/get_cell_area/#int) | الحصول على نطاق الخلايا المنسق الشرطي حسب الفهرس.|
-| [remove_condition(index)](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_condition/#int) | يزيل شرط التنسيق بالفهرس.|
+| [add_condition](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | إضافة شرط التنسيق.|
+| [add_condition](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType) | إضافة شرط التنسيق.|
+| [remove_area](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_area/#int) | إزالة نطاق الخلايا المنسقة الشرطية حسب الفهرس.|
+| [remove_area](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | إزالة التنسيق الشرطي في النطاق.|
+| [add](/cells/python-net/ar/aspose.cells/formatconditioncollection/add/#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | يضيف شرط التنسيق ورن الخلية المؤثرة إلى FormatConditions<br/>يمكن أن تحتوي FormatConditions على ما يصل إلى ثلاثة تنسيقات شرطية.<br/> لا يُسمح بالمراجع إلى الأوراق الأخرى في صيغ التنسيق الشرطي.|
+| [add_area](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_area/#aspose.cells.CellArea) | إضافة نطاق خلايا منسقة شرطيًا.|
+| [get_cell_area](/cells/python-net/ar/aspose.cells/formatconditioncollection/get_cell_area/#int) | الحصول على نطاق الخلايا المنسقة الشرطية حسب الفهرس.|
+| [remove_condition](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_condition/#int) | يزيل شرط التنسيق حسب الفهرس.|
 
 
 
@@ -83,4 +83,4 @@ workbook.save("output.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

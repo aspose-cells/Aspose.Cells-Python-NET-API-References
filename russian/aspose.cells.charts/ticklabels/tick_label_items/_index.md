@@ -1,19 +1,19 @@
 ---
 title: tick_label_items недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ru/aspose.cells.charts/ticklabels/tick_label_items/
 is_root: false
 ---
 ##  tick_label_items недвижимость
 
-Получает информацию об элементах TickLabel.
+Получает информацию о каждом элементе метки деления оси.
 
 ###  Примечания
 
-Существует только после вызова метода [Chart.calculate()](/cells/python-net/ru/aspose.cells.charts/chart/calculate).
+Доступно только после вызова метода [`Chart.calculate`](/cells/python-net/ru/aspose.cells.charts/chart/calculate).
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def tick_label_items(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [TickLabels](/cells/python-net/ru/aspose.cells.charts/ticklabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`TickLabels`](/cells/python-net/ru/aspose.cells.charts/ticklabels)

@@ -3,11 +3,11 @@ title: remove_split yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 240
 url: /tr/aspose.cells/worksheet/remove_split/
 is_root: false
 ---
-##  remove_split() {#}
+##  remove_split {#}
 Bölünmüş pencereyi kaldırır.
 
 
@@ -22,5 +22,5 @@ def remove_split(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

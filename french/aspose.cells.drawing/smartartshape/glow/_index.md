@@ -3,13 +3,13 @@ title: glow propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 390
+weight: 400
 url: /fr/aspose.cells.drawing/smartartshape/glow/
 is_root: false
 ---
 ##  glow propriété
 
-Représente un objet [GlowEffect](/cells/python-net/fr/aspose.cells.drawing/gloweffect) qui spécifie l'effet glow pour l'élément ou la forme du graphique.
+Représente un objet [`GlowEffect`](/cells/python-net/fr/aspose.cells.drawing/gloweffect) qui spécifie l'effet glow pour l'élément ou la forme du graphique.
 
 ###  Exemple
 
@@ -26,6 +26,6 @@ def glow(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GlowEffect](/cells/python-net/fr/aspose.cells.drawing/gloweffect)
-* classe [SmartArtShape](/cells/python-net/fr/aspose.cells.drawing/smartartshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GlowEffect`](/cells/python-net/fr/aspose.cells.drawing/gloweffect)
+* classe [`SmartArtShape`](/cells/python-net/fr/aspose.cells.drawing/smartartshape)

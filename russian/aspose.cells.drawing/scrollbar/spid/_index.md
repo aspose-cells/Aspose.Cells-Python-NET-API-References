@@ -1,9 +1,9 @@
 ---
 title: spid недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 960
+weight: 970
 url: /ru/aspose.cells.drawing/scrollbar/spid/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ScrollBar](/cells/python-net/ru/aspose.cells.drawing/scrollbar)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ScrollBar`](/cells/python-net/ru/aspose.cells.drawing/scrollbar)

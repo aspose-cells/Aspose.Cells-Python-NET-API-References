@@ -3,7 +3,7 @@ title: tick_label_position fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 380
 url: /sv/aspose.cells.charts/axis/tick_label_position/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def tick_label_position(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Axis](/cells/python-net/sv/aspose.cells.charts/axis)
-* klass [TickLabelPositionType](/cells/python-net/sv/aspose.cells.charts/ticklabelpositiontype)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Axis`](/cells/python-net/sv/aspose.cells.charts/axis)
+* klass [`TickLabelPositionType`](/cells/python-net/sv/aspose.cells.charts/ticklabelpositiontype)

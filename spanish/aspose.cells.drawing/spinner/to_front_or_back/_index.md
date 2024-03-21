@@ -1,14 +1,14 @@
 ---
-title: to_front_or_back método
+title: método to_front_or_back
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 200
+weight: 220
 url: /es/aspose.cells.drawing/spinner/to_front_or_back/
 is_root: false
 ---
-##  to_front_or_back(orders) {#int}
-Trae la forma al frente o la envía hacia atrás.
+##  to_front_or_back {#int}
+Trae la forma al frente o envía la forma hacia atrás.
 
 
 
@@ -20,7 +20,7 @@ def to_front_or_back(self, orders):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| orders | int | Si es menor que cero, establece la forma hacia atrás.<br/>Si es mayor que cero, trae la forma al frente.|
+| orders | int | Si es menor que cero, establece la forma hacia atrás.<br/> Si es mayor que cero, trae la forma al frente.|
 
 ###  Ejemplo
 
@@ -33,5 +33,5 @@ shape.to_front_or_back(2)
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Spinner](/cells/python-net/es/aspose.cells.drawing/spinner)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Spinner`](/cells/python-net/es/aspose.cells.drawing/spinner)

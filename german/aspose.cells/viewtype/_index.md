@@ -3,7 +3,7 @@ title: ViewType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2650
+weight: 2740
 url: /de/aspose.cells/viewtype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Der Typ ViewType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

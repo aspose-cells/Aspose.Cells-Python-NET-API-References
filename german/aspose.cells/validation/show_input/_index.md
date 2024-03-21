@@ -3,13 +3,13 @@ title: show_input Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 270
 url: /de/aspose.cells/validation/show_input/
 is_root: false
 ---
 ##  show_input Eigentum
 
-Gibt an, ob die Datenüberprüfungs-Eingabemeldung angezeigt wird, wenn der Benutzer eine Zelle im Datenüberprüfungsbereich auswählt.
+Gibt an, ob die Eingabemeldung zur Datenvalidierung immer dann angezeigt wird, wenn der Benutzer eine Zelle im Datenvalidierungsbereich auswählt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_input(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Validation](/cells/python-net/de/aspose.cells/validation)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Validation`](/cells/python-net/de/aspose.cells/validation)

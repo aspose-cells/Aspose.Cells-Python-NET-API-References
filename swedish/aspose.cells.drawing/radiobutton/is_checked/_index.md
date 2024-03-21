@@ -3,7 +3,7 @@ title: is_checked fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 530
+weight: 550
 url: /sv/aspose.cells.drawing/radiobutton/is_checked/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_checked(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RadioButton](/cells/python-net/sv/aspose.cells.drawing/radiobutton)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RadioButton`](/cells/python-net/sv/aspose.cells.drawing/radiobutton)

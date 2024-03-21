@@ -1,16 +1,16 @@
 ---
-title: window_left_inch الملكية
+title: window_left_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 690
+weight: 570
 url: /ar/aspose.cells/workbooksettings/window_left_inch/
 is_root: false
 ---
-##  window_left_inch الملكية
+##  window_left_inch عقار
 
 المسافة من الحافة اليسرى لمنطقة العميل إلى الحافة اليسرى للنافذة.
-في وحدة البوصة.
+بوحدة البوصة.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def window_left_inch(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

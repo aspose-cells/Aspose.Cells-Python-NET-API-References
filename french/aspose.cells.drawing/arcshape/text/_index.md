@@ -3,7 +3,7 @@ title: text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 970
+weight: 980
 url: /fr/aspose.cells.drawing/arcshape/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/fr/aspose.cells.drawing/arcshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/fr/aspose.cells.drawing/arcshape)

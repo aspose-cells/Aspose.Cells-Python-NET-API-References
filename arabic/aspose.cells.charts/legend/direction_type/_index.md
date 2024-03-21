@@ -1,15 +1,15 @@
 ---
-title: direction_type الملكية
+title: direction_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells.charts/legend/direction_type/
 is_root: false
 ---
-##  direction_type الملكية
+##  direction_type عقار
 
-الحصول على اتجاه النص وتحديده.
+يحصل على ويحدد اتجاه النص.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def direction_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartTextDirectionType](/cells/python-net/ar/aspose.cells.charts/charttextdirectiontype)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartTextDirectionType`](/cells/python-net/ar/aspose.cells.charts/charttextdirectiontype)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)

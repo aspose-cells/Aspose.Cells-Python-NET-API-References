@@ -3,13 +3,13 @@ title: is_rich_text propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 640
+weight: 650
 url: /es/aspose.cells.drawing/checkbox/is_rich_text/
 is_root: false
 ---
 ##  is_rich_text propiedad
 
-Si el texto es o no texto enriquecido.
+Si el texto es texto enriquecido o no.
 
 ###  Ejemplo
 
@@ -27,5 +27,5 @@ def is_rich_text(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CheckBox](/cells/python-net/es/aspose.cells.drawing/checkbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CheckBox`](/cells/python-net/es/aspose.cells.drawing/checkbox)

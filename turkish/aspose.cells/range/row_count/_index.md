@@ -3,7 +3,7 @@ title: row_count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 370
+weight: 390
 url: /tr/aspose.cells/range/row_count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def row_count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
+* modül [`aspose.cells`](../../)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)

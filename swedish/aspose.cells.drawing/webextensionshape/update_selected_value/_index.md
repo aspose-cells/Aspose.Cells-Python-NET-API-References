@@ -3,11 +3,11 @@ title: update_selected_value metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 240
 url: /sv/aspose.cells.drawing/webextensionshape/update_selected_value/
 is_root: false
 ---
-##  update_selected_value() {#}
+##  update_selected_value {#}
 Uppdatera det valda värdet med värdet för den länkade cellen.
 
 
@@ -25,8 +25,6 @@ def update_selected_value(self):
 from aspose import pycore
 from aspose.cells.drawing import ListBox
 
-# Initialize a new workbook.
-# Workbook book = new Workbook();
 cell = None
 for i in range(10):
     cell = book.worksheets[0].cells.get(i, 0)
@@ -61,5 +59,5 @@ if listbx.is_selected(3):
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [WebExtensionShape](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`WebExtensionShape`](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)

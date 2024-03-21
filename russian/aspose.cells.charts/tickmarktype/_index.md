@@ -1,9 +1,9 @@
 ---
 title: TickMarkType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 650
+weight: 660
 url: /ru/aspose.cells.charts/tickmarktype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-Тип TickMarkType предоставляет следующие члены:
+Тип TickMarkType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| CROSS | Тип галочки — Крест.|
-| INSIDE | Тип галочки — внутри.|
-| NONE |Тип деления — None.|
-| OUTSIDE | Тип галочки — снаружи|
+| CROSS | Тип деления – Крест.|
+| INSIDE | Тип деления — Внутри.|
+| NONE | Тип деления — Нет.|
+| OUTSIDE | Тип деления: Снаружи.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

@@ -1,18 +1,18 @@
 ---
 title: HeaderFooterCommandType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2130
+weight: 2200
 url: /ru/aspose.cells/headerfootercommandtype/
 is_root: false
 ---
 ##  HeaderFooterCommandType перечисление
-Представляет тип команды верхнего и нижнего колонтитула.
+Представляет тип верхнего и нижнего колонтитула команды.
 
 
 
-Тип HeaderFooterCommandType предоставляет следующие члены:
+Тип HeaderFooterCommandType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -30,4 +30,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

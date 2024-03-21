@@ -1,9 +1,9 @@
 ---
 title: OperatorType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2290
+weight: 2380
 url: /ru/aspose.cells/operatortype/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-Тип OperatorType предоставляет следующие члены:
+Тип OperatorType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| BETWEEN | Представляет Между оператором условного формата и проверкой данных.|
+| BETWEEN | Представляет между оператором условного формата и проверкой данных.|
 | EQUAL | Представляет оператор Equal условного формата и проверки данных.|
 | GREATER_THAN | Представляет оператор GreaterThan условного формата и проверки данных.|
-| GREATER_OR_EQUAL |Представляет оператор GreaterOrEqual условного формата и проверки данных.|
+| GREATER_OR_EQUAL | Представляет оператор GreaterOrEqual условного формата и проверки данных.|
 | LESS_THAN | Представляет оператор LessThan условного формата и проверки данных.|
 | LESS_OR_EQUAL | Представляет оператор LessOrEqual условного формата и проверки данных.|
 | NONE | Не представляет никакого сравнения.|
@@ -30,4 +30,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

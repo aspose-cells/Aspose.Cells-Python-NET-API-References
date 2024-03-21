@@ -3,13 +3,13 @@ title: font Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 150
+weight: 160
 url: /de/aspose.cells.charts/legend/font/
 is_root: false
 ---
 ##  font Eigentum
 
-Ruft ein [ChartFrame.font](/cells/python-net/de/aspose.cells.charts/chartframe#font)-Objekt des angegebenen ChartFrame-Objekts ab.
+Ruft ein [`ChartFrame.font`](/cells/python-net/de/aspose.cells.charts/chartframe#font)-Objekt des angegebenen ChartFrame-Objekts ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
-* Klasse [Legend](/cells/python-net/de/aspose.cells.charts/legend)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)
+* Klasse [`Legend`](/cells/python-net/de/aspose.cells.charts/legend)

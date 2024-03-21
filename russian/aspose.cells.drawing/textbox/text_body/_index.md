@@ -1,9 +1,9 @@
 ---
 title: text_body недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 920
+weight: 940
 url: /ru/aspose.cells.drawing/textbox/text_body/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [FontSettingCollection](/cells/python-net/ru/aspose.cells.drawing.texts/fontsettingcollection)
-* класс [TextBox](/cells/python-net/ru/aspose.cells.drawing/textbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`FontSettingCollection`](/cells/python-net/ru/aspose.cells.drawing.texts/fontsettingcollection)
+* класс [`TextBox`](/cells/python-net/ru/aspose.cells.drawing/textbox)

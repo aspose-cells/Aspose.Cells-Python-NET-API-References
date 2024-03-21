@@ -1,16 +1,16 @@
 ---
 title: page_scale недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ru/aspose.cells.rendering/sheetrender/page_scale/
 is_root: false
 ---
 ##  page_scale недвижимость
 
-Получает рассчитанный масштаб страницы листа.
-Возвращает заданный масштаб, если установлено значение [PageSetup.zoom](/cells/python-net/ru/aspose.cells/pagesetup#zoom). В противном случае возвращает рассчитанный масштаб в соответствии с [PageSetup.fit_to_pages_wide](/cells/python-net/ru/aspose.cells/pagesetup#fit_to_pages_wide) и [PageSetup.fit_to_pages_tall](/cells/python-net/ru/aspose.cells/pagesetup#fit_to_pages_tall).
+Получает расчетный масштаб страницы листа.
+Возвращает установленный масштаб, если установлен [`PageSetup.zoom`](/cells/python-net/ru/aspose.cells/pagesetup#zoom). В противном случае возвращается рассчитанный масштаб в соответствии с [`PageSetup.fit_to_pages_wide`](/cells/python-net/ru/aspose.cells/pagesetup#fit_to_pages_wide) и [`PageSetup.fit_to_pages_tall`](/cells/python-net/ru/aspose.cells/pagesetup#fit_to_pages_tall).
 
 ###  Пример
 
@@ -32,5 +32,5 @@ def page_scale(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [SheetRender](/cells/python-net/ru/aspose.cells.rendering/sheetrender)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`SheetRender`](/cells/python-net/ru/aspose.cells.rendering/sheetrender)

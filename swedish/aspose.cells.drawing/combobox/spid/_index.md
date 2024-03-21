@@ -3,7 +3,7 @@ title: spid fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 940
+weight: 950
 url: /sv/aspose.cells.drawing/combobox/spid/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ComboBox](/cells/python-net/sv/aspose.cells.drawing/combobox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ComboBox`](/cells/python-net/sv/aspose.cells.drawing/combobox)

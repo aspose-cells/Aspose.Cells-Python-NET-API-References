@@ -1,26 +1,26 @@
 ---
-title: top_in_shape الملكية
+title: top_in_shape عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /ar/aspose.cells.drawing/commentshape/top_in_shape/
 is_root: false
 ---
-##  top_in_shape الملكية
+##  top_in_shape عقار
 
- يمثل الإزاحة الرأسية للشكل من الحد العلوي للشكل الأصل ،
-في وحدة 1/4000 من ارتفاع الشكل الأصل.
+ يمثل الإزاحة الرأسية للشكل من الحد العلوي للشكل الأصلي،
+بوحدة 1/4000 من ارتفاع الشكل الأصلي.
 
 ###  ملاحظات
 
-يتم تطبيقه فقط عندما يكون هذا الشكل في المجموعة أو المخطط.
+ينطبق فقط عندما يكون هذا الشكل في المجموعة أو المخطط.
 
 ###  مثال
 
 ```python
 
-if shape.top_in_shape == 8000:
+if shape.is_in_group and shape.top_in_shape == 8000:
     shape.top_in_shape = 4000
 
 ```
@@ -35,5 +35,5 @@ def top_in_shape(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CommentShape](/cells/python-net/ar/aspose.cells.drawing/commentshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CommentShape`](/cells/python-net/ar/aspose.cells.drawing/commentshape)

@@ -3,12 +3,12 @@ title: RowCollection Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1310
+weight: 1350
 url: /de/aspose.cells/rowcollection/
 is_root: false
 ---
 ##  RowCollection Klasse
-Sammelt die [Row](/cells/python-net/de/aspose.cells/row)-Objekte, die die einzelnen Zeilen in einem Arbeitsblatt darstellen.
+Sammelt die [`Row`](/cells/python-net/de/aspose.cells/row)-Objekte, die die einzelnen Zeilen in einem Arbeitsblatt darstellen.
 
 
 
@@ -17,12 +17,12 @@ Der Typ RowCollection macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [count](/cells/python-net/de/aspose.cells/rowcollection/count) | Ruft die Anzahl der Zeilen in dieser Auflistung ab.|
+| [count](/cells/python-net/de/aspose.cells/rowcollection/count) | Ruft die Anzahl der Zeilen in dieser Sammlung ab.|
 
 
 
-Ruft ein [Row](/cells/python-net/de/aspose.cells/row)-Objekt nach gegebenem Zeilenindex ab. Das Zeilenobjekt des angegebenen Zeilenindex wird instanziiert, wenn es vorher nicht existiert.
-###  Indexierer
+Ruft ein [`Row`](/cells/python-net/de/aspose.cells/row)-Objekt anhand des angegebenen Zeilenindex ab. Das Row-Objekt des angegebenen Zeilenindex wird instanziiert, wenn es vorher nicht existiert.
+###  Indexer
 | Name| Beschreibung|
 | :- | :- |
 | [index] |  |
@@ -31,9 +31,10 @@ Ruft ein [Row](/cells/python-net/de/aspose.cells/row)-Objekt nach gegebenem Zeil
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_row_by_index(index)](/cells/python-net/de/aspose.cells/rowcollection/get_row_by_index/#int) | Ruft das Zeilenobjekt nach der Position in der Liste ab.|
-| [clear()](/cells/python-net/de/aspose.cells/rowcollection/clear/#) | Löschen Sie alle Zeilen und Zellen.|
-| [remove_at(index)](/cells/python-net/de/aspose.cells/rowcollection/remove_at/#int) | Entfernt die Zeile am angegebenen Index|
+| [get_enumerator](/cells/python-net/de/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Ruft einen Enumerator ab, der Zeilen durch diese Sammlung iteriert|
+| [get_row_by_index](/cells/python-net/de/aspose.cells/rowcollection/get_row_by_index/#int) | Ruft das Zeilenobjekt anhand der Position in der Liste ab.|
+| [clear](/cells/python-net/de/aspose.cells/rowcollection/clear/#) | Löschen Sie alle Zeilen und Zellen.|
+| [remove_at](/cells/python-net/de/aspose.cells/rowcollection/remove_at/#int) | Entfernen Sie das Zeilenelement am angegebenen Index (Position) in dieser Sammlung.|
 
 
 
@@ -52,5 +53,5 @@ row = worksheet.cells.rows[0]
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
-* Klasse [Row](/cells/python-net/de/aspose.cells/row)
+* Modul [`aspose.cells`](..)
+* Klasse [`Row`](/cells/python-net/de/aspose.cells/row)

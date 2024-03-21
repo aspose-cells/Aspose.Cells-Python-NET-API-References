@@ -1,22 +1,22 @@
 ---
-title: cell_count الملكية
+title: cell_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 270
 url: /ar/aspose.cells/range/cell_count/
 is_root: false
 ---
-##  cell_count الملكية
+##  cell_count عقار
 
-الحصول على كل عدد الخلايا في النطاق.
+يحصل على كل عدد الخلايا في النطاق.
 
 ###  ملاحظات
 
- ملاحظة: هذه الخاصية عفا عليها الزمن الآن.
-بدلاً من ذلك ، يرجى استخدام RowCount و ColumnCount للحصول على إجمالي عدد الخلايا.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ فبراير 2021.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ملاحظة: هذه الخاصية أصبحت الآن قديمة.
+بدلاً من ذلك، الرجاء استخدام RowCount وColumnCount للحصول على إجمالي عدد الخلايا.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ فبراير 2021.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def cell_count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

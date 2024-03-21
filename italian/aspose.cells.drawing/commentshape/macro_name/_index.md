@@ -3,7 +3,7 @@ title: macro_name proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 790
+weight: 800
 url: /it/aspose.cells.drawing/commentshape/macro_name/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def macro_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CommentShape](/cells/python-net/it/aspose.cells.drawing/commentshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CommentShape`](/cells/python-net/it/aspose.cells.drawing/commentshape)

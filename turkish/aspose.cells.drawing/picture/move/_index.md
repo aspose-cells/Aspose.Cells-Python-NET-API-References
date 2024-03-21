@@ -3,12 +3,12 @@ title: move yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 170
 url: /tr/aspose.cells.drawing/picture/move/
 is_root: false
 ---
-##  move(upper_left_row, upper_left_column) {#int-int}
-Resmi belirtilen bir konuma taşır.
+##  move {#int-int}
+Resmi belirli bir konuma taşır.
 
 
 
@@ -20,7 +20,7 @@ def move(self, upper_left_row, upper_left_column):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| upper_left_row | int | Sol üst sıra dizini.|
+| upper_left_row | int | Sol üst satır dizini.|
 | upper_left_column | int | Sol üst sütun dizini.|
 
 ###  Örnek
@@ -45,5 +45,5 @@ workbook.save("result.xlsx")
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)

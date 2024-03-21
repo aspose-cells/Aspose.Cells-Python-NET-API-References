@@ -3,13 +3,13 @@ title: is_bi_level mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 80
 url: /tr/aspose.cells.drawing/msoformatpicture/is_bi_level/
 is_root: false
 ---
 ##  is_bi_level mülk
 
-Bu resmin iki renkli siyah beyaz olarak görüntülenip görüntülenmeyeceğini belirtir.
+Bu resmin iki renkli siyah beyaz görüntülenip görüntülenmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_bi_level(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoFormatPicture](/cells/python-net/tr/aspose.cells.drawing/msoformatpicture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoFormatPicture`](/cells/python-net/tr/aspose.cells.drawing/msoformatpicture)

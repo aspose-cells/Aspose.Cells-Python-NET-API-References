@@ -1,9 +1,9 @@
 ---
 title: is_smart_art недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 630
+weight: 640
 url: /ru/aspose.cells.drawing/rectangleshape/is_smart_art/
 is_root: false
 ---
@@ -32,5 +32,5 @@ def is_smart_art(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [RectangleShape](/cells/python-net/ru/aspose.cells.drawing/rectangleshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`RectangleShape`](/cells/python-net/ru/aspose.cells.drawing/rectangleshape)

@@ -3,7 +3,7 @@ title: show_category_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 390
 url: /sv/aspose.cells.charts/datalabels/show_category_name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_category_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DataLabels](/cells/python-net/sv/aspose.cells.charts/datalabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DataLabels`](/cells/python-net/sv/aspose.cells.charts/datalabels)

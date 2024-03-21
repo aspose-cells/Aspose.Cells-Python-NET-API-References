@@ -3,7 +3,7 @@ title: IconSetType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2190
+weight: 2270
 url: /sv/aspose.cells/iconsettype/
 is_root: false
 ---
@@ -47,4 +47,4 @@ Typen IconSetType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

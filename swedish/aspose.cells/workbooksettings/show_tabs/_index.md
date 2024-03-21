@@ -3,7 +3,7 @@ title: show_tabs fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 580
+weight: 460
 url: /sv/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
@@ -36,5 +36,5 @@ def show_tabs(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

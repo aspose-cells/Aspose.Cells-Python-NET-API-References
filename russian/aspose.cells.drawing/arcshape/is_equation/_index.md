@@ -1,9 +1,9 @@
 ---
 title: is_equation недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 580
+weight: 590
 url: /ru/aspose.cells.drawing/arcshape/is_equation/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ArcShape](/cells/python-net/ru/aspose.cells.drawing/arcshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ArcShape`](/cells/python-net/ru/aspose.cells.drawing/arcshape)

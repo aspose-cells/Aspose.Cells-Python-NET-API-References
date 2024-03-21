@@ -3,11 +3,11 @@ title: is_hidden_item metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 130
 url: /sv/aspose.cells.pivot/pivotfield/is_hidden_item/
 is_root: false
 ---
-##  is_hidden_item(index) {#int}
+##  is_hidden_item {#int}
 Indikerar om den specifika PivotItem är dold.
 
 
@@ -29,5 +29,5 @@ def is_hidden_item(self, index):
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotField](/cells/python-net/sv/aspose.cells.pivot/pivotfield)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield)

@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  delete_redundant_spaces Eigentum
 
- Gibt an, ob überflüssige Leerzeichen gelöscht werden, wenn der Text Zeilen mit umbricht<br>-Tag. Der Standardwert ist „false“.
+Gibt an, ob redundante Leerzeichen gelöscht werden, wenn der Text Zeilen mit dem Tag `<br>` umbricht.
+Der Standardwert ist false.
 ###  Definition:
 ```python
 @property
@@ -21,5 +22,5 @@ def delete_redundant_spaces(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlLoadOptions](/cells/python-net/de/aspose.cells/htmlloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlLoadOptions`](/cells/python-net/de/aspose.cells/htmlloadoptions)

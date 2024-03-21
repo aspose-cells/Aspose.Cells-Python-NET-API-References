@@ -3,7 +3,7 @@ title: error_check_options proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 470
+weight: 490
 url: /it/aspose.cells/worksheet/error_check_options/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def error_check_options(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ErrorCheckOptionCollection](/cells/python-net/it/aspose.cells/errorcheckoptioncollection)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`ErrorCheckOptionCollection`](/cells/python-net/it/aspose.cells/errorcheckoptioncollection)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

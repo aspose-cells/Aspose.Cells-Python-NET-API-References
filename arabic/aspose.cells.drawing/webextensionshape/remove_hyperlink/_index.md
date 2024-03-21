@@ -3,12 +3,12 @@ title: طريقة remove_hyperlink
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 180
 url: /ar/aspose.cells.drawing/webextensionshape/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink() {#}
-قم بإزالة الارتباط التشعبي للشكل.
+##  remove_hyperlink {#}
+إزالة الارتباط التشعبي للشكل.
 
 
 
@@ -30,5 +30,5 @@ shape.remove_hyperlink()
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [WebExtensionShape](/cells/python-net/ar/aspose.cells.drawing/webextensionshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`WebExtensionShape`](/cells/python-net/ar/aspose.cells.drawing/webextensionshape)

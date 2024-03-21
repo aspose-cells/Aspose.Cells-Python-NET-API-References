@@ -3,7 +3,7 @@ title: number_decimal_separator mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 340
 url: /tr/aspose.cells/workbooksettings/number_decimal_separator/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def number_decimal_separator(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

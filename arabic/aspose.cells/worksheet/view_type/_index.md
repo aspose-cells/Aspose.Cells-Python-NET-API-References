@@ -1,15 +1,15 @@
 ---
-title: view_type الملكية
+title: view_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 890
+weight: 910
 url: /ar/aspose.cells/worksheet/view_type/
 is_root: false
 ---
-##  view_type الملكية
+##  view_type عقار
 
-يحصل ويضبط نوع العرض.
+الحصول على نوع العرض وتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def view_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ViewType](/cells/python-net/ar/aspose.cells/viewtype)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ViewType`](/cells/python-net/ar/aspose.cells/viewtype)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

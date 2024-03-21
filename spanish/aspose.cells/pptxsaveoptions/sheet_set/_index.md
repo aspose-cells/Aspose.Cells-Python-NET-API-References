@@ -3,17 +3,17 @@ title: sheet_set propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 280
 url: /es/aspose.cells/pptxsaveoptions/sheet_set/
 is_root: false
 ---
 ##  sheet_set propiedad
 
-Obtiene o establece las hojas para representar. El valor predeterminado es todas las hojas visibles en el libro de trabajo: [SheetSet.visible](/cells/python-net/es/aspose.cells.rendering/sheetset#visible).
+Obtiene o establece las hojas que se van a representar. El valor predeterminado son todas las hojas visibles del libro: [`SheetSet.visible`](/cells/python-net/es/aspose.cells.rendering/sheetset#visible).
 
 ###  Ejemplo
 
-El siguiente código solo convierte la hoja activa en pdf.
+El siguiente código solo representa la hoja activa en pdf.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -38,6 +38,6 @@ def sheet_set(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PptxSaveOptions](/cells/python-net/es/aspose.cells/pptxsaveoptions)
-* clase [SheetSet](/cells/python-net/es/aspose.cells.rendering/sheetset)
+* módulo [`aspose.cells`](../../)
+* clase [`PptxSaveOptions`](/cells/python-net/es/aspose.cells/pptxsaveoptions)
+* clase [`SheetSet`](/cells/python-net/es/aspose.cells.rendering/sheetset)

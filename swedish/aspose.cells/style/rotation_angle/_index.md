@@ -3,7 +3,7 @@ title: rotation_angle fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 450
 url: /sv/aspose.cells/style/rotation_angle/
 is_root: false
 ---
@@ -37,5 +37,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

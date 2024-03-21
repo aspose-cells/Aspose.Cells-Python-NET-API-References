@@ -3,7 +3,7 @@ title: IconSet Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 900
+weight: 940
 url: /de/aspose.cells/iconset/
 is_root: false
 ---
@@ -19,12 +19,12 @@ Der Typ IconSet macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [cf_icons](/cells/python-net/de/aspose.cells/iconset/cf_icons) | Holen Sie sich die [ConditionalFormattingIcon](/cells/python-net/de/aspose.cells/conditionalformattingicon) aus der Kollektion|
+| [cf_icons](/cells/python-net/de/aspose.cells/iconset/cf_icons) | Holen Sie sich die [`ConditionalFormattingIcon`](/cells/python-net/de/aspose.cells/conditionalformattingicon) aus der Kollektion|
 | [cfvos](/cells/python-net/de/aspose.cells/iconset/cfvos) | Rufen Sie die CFValueObjects-Instanz ab.|
-| [type](/cells/python-net/de/aspose.cells/iconset/type) | Abrufen oder Festlegen des anzuzeigenden Symbolsatztyps.<br/>Durch das Festlegen des Typs wird automatisch überprüft, ob die aktuelle Cfvos-Zählung lautet<br/> dem neuen Typ entsprechen. Wenn nicht übereinstimmen, werden alte Cfvos gereinigt und<br/> Standard-Cfvos werden hinzugefügt.|
+| [type](/cells/python-net/de/aspose.cells/iconset/type) | Rufen Sie den anzuzeigenden Symbolsatztyp ab oder legen Sie ihn fest.<br/>Durch Festlegen des Typs wird automatisch überprüft, ob die aktuelle Cfvos-Anzahl vorhanden ist<br/> im Einklang mit dem neuen Typ. Bei Nichteinhaltung werden alte Cfvos bereinigt und<br/> Standard-Cfvos werden hinzugefügt.|
 | [is_custom](/cells/python-net/de/aspose.cells/iconset/is_custom) | Gibt an, ob der Symbolsatz benutzerdefiniert ist.<br/> Der Standardwert ist falsch.|
-| [show_value](/cells/python-net/de/aspose.cells/iconset/show_value) | Holen oder setzen Sie das Flag, das angibt, ob die Werte der Zellen angezeigt werden sollen, auf die dieser Symbolsatz angewendet wird.<br/> Der Standardwert ist wahr.|
-| [reverse](/cells/python-net/de/aspose.cells/iconset/reverse) | Holen oder setzen Sie das Flag, das angibt, ob die Standardreihenfolge der Symbole in diesem Symbolsatz umgekehrt werden soll.<br/> Der Standardwert ist falsch.|
+| [show_value](/cells/python-net/de/aspose.cells/iconset/show_value) | Rufen Sie das Flag ab, das angibt, ob die Werte der Zellen angezeigt werden sollen, auf die dieser Symbolsatz angewendet wird, oder legen Sie es fest.<br/> Der Standardwert ist wahr.|
+| [reverse](/cells/python-net/de/aspose.cells/iconset/reverse) | Rufen Sie das Flag ab, das angibt, ob die Standardreihenfolge der Symbole in diesem Symbolsatz umgekehrt werden soll, oder legen Sie es fest.<br/> Der Standardwert ist falsch.|
 
 
 
@@ -67,5 +67,5 @@ workbook.save("book1.xlsx")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
-* Klasse [ConditionalFormattingIcon](/cells/python-net/de/aspose.cells/conditionalformattingicon)
+* Modul [`aspose.cells`](..)
+* Klasse [`ConditionalFormattingIcon`](/cells/python-net/de/aspose.cells/conditionalformattingicon)

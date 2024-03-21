@@ -3,7 +3,7 @@ title: exclude_unused_styles fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 150
 url: /sv/aspose.cells/htmlsaveoptions/exclude_unused_styles/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def exclude_unused_styles(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

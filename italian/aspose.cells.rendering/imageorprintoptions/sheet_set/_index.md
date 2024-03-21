@@ -3,17 +3,17 @@ title: sheet_set proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 290
+weight: 300
 url: /it/aspose.cells.rendering/imageorprintoptions/sheet_set/
 is_root: false
 ---
 ##  sheet_set proprietà
 
-Ottiene o imposta i fogli di cui eseguire il rendering. L'impostazione predefinita è tutti i fogli visibili nella cartella di lavoro: [SheetSet.visible](/cells/python-net/it/aspose.cells.rendering/sheetset#visible).
+Ottiene o imposta i fogli di cui eseguire il rendering. Per impostazione predefinita sono tutti i fogli visibili nella cartella di lavoro: [`SheetSet.visible`](/cells/python-net/it/aspose.cells.rendering/sheetset#visible).
 
 ###  Osservazioni
 
-Il set viene ignorato quando viene utilizzato in [SheetRender](/cells/python-net/it/aspose.cells.rendering/sheetrender)
+L'insieme viene ignorato quando viene utilizzato in [`SheetRender`](/cells/python-net/it/aspose.cells.rendering/sheetrender)
 ###  Definizione:
 ```python
 @property
@@ -25,7 +25,7 @@ def sheet_set(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [ImageOrPrintOptions](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)
-* classe [SheetRender](/cells/python-net/it/aspose.cells.rendering/sheetrender)
-* classe [SheetSet](/cells/python-net/it/aspose.cells.rendering/sheetset)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`ImageOrPrintOptions`](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)
+* classe [`SheetRender`](/cells/python-net/it/aspose.cells.rendering/sheetrender)
+* classe [`SheetSet`](/cells/python-net/it/aspose.cells.rendering/sheetset)

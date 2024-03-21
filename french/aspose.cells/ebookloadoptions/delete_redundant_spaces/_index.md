@@ -1,0 +1,26 @@
+---
+title: delete_redundant_spaces propriété
+second_title: Aspose.Cells for Python via .NET API Références
+description:
+type: docs
+weight: 140
+url: /fr/aspose.cells/ebookloadoptions/delete_redundant_spaces/
+is_root: false
+---
+##  delete_redundant_spaces propriété
+
+Indique si vous supprimez les espaces redondants lorsque le texte retourne à la ligne à l’aide de la balise `<br>`.
+La valeur par défaut est fausse.
+###  Définition:
+```python
+@property
+def delete_redundant_spaces(self):
+    ...
+@delete_redundant_spaces.setter
+def delete_redundant_spaces(self, value):
+    ...
+```
+
+###  Voir également
+* module [`aspose.cells`](../../)
+* classe [`EbookLoadOptions`](/cells/python-net/fr/aspose.cells/ebookloadoptions)

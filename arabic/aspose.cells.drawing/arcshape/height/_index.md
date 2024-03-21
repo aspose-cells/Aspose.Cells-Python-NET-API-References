@@ -1,15 +1,15 @@
 ---
-title: height الملكية
+title: height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 490
 url: /ar/aspose.cells.drawing/arcshape/height/
 is_root: false
 ---
-##  height الملكية
+##  height عقار
 
-يمثل height للشكل بوحدة بكسل.
+يمثل height من الشكل بوحدة البكسل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ArcShape](/cells/python-net/ar/aspose.cells.drawing/arcshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ArcShape`](/cells/python-net/ar/aspose.cells.drawing/arcshape)

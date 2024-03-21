@@ -3,17 +3,17 @@ title: طريقة get_view_row_height
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 510
 url: /ar/aspose.cells/cells/get_view_row_height/
 is_root: false
 ---
-##  get_view_row_height(row) {#int}
-الحصول على ارتفاع صف معين.
+##  get_view_row_height {#int}
+الحصول على ارتفاع صف محدد.
 
 
 ###  عائدات
 
-ارتفاع الصف
+ارتفاع الصف.
 
 
 ```python
@@ -24,10 +24,10 @@ def get_view_row_height(self, row):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس الصف|
+| row | int | مؤشر الصف.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

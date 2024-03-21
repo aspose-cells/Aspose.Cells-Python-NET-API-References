@@ -3,7 +3,7 @@ title: CellsException clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 210
+weight: 220
 url: /es/aspose.cells/cellsexception/
 is_root: false
 ---
@@ -17,9 +17,9 @@ El tipo CellsException expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [code](/cells/python-net/es/aspose.cells/cellsexception/code) | Representa el código de excepción personalizado.|
+| [code](/cells/python-net/es/aspose.cells/cellsexception/code) | Representa un código de excepción personalizado.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

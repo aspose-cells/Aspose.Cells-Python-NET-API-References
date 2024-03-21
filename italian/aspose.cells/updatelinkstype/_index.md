@@ -1,18 +1,18 @@
 ---
-title: UpdateLinksType enumerazione
+title: Enumerazione UpdateLinksType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2620
+weight: 2710
 url: /it/aspose.cells/updatelinkstype/
 is_root: false
 ---
-##  UpdateLinksType enumerazione
+##  Enumerazione UpdateLinksType
 Rappresenta come aggiornare i collegamenti ad altre cartelle di lavoro quando la cartella di lavoro viene aperta.
 
 
 
-Il tipo UpdateLinksType espone i membri seguenti:
+Il tipo UpdateLinksType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -24,4 +24,4 @@ Il tipo UpdateLinksType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

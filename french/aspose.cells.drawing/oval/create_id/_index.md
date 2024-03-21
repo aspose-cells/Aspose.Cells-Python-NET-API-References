@@ -3,7 +3,7 @@ title: create_id propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 320
+weight: 340
 url: /fr/aspose.cells.drawing/oval/create_id/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def create_id(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Oval](/cells/python-net/fr/aspose.cells.drawing/oval)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Oval`](/cells/python-net/fr/aspose.cells.drawing/oval)

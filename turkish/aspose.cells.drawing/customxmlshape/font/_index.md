@@ -3,7 +3,7 @@ title: font mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 350
+weight: 370
 url: /tr/aspose.cells.drawing/customxmlshape/font/
 is_root: false
 ---
@@ -33,6 +33,6 @@ def font(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CustomXmlShape](/cells/python-net/tr/aspose.cells.drawing/customxmlshape)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CustomXmlShape`](/cells/python-net/tr/aspose.cells.drawing/customxmlshape)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)

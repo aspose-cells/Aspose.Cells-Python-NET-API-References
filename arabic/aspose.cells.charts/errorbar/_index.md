@@ -1,55 +1,55 @@
 ---
-title: ErrorBar الدرجة
+title: ErrorBar صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells.charts/errorbar/
 is_root: false
 ---
-##  ErrorBar الدرجة
-يمثل شريط خطأ في سلسلة البيانات.
+##  ErrorBar صف
+يمثل شريط الخطأ لسلسلة البيانات.
 
 
 
-**ميراث:** [ErrorBar](/cells/python-net/aspose.cells.charts/errorbar) → 
-[Line](/cells/python-net/ar/aspose.cells.drawing/line)
+**ميراث:** [`ErrorBar`](/cells/python-net/aspose.cells.charts/errorbar) → 
+[`Line`](/cells/python-net/ar/aspose.cells.drawing/line)
 
 
 
-يكشف نوع ErrorBar الأعضاء التالية:
+يكشف النوع ErrorBar عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
 | [compound_type](/cells/python-net/ar/aspose.cells.charts/errorbar/compound_type) | يحدد نوع الخط المركب|
-| [dash_type](/cells/python-net/ar/aspose.cells.charts/errorbar/dash_type) | يحدد نوع خط الشرطة|
-| [cap_type](/cells/python-net/ar/aspose.cells.charts/errorbar/cap_type) | يحدد قبعات النهاية.|
+| [dash_type](/cells/python-net/ar/aspose.cells.charts/errorbar/dash_type) | يحدد نوع الخط المتقطع|
+| [cap_type](/cells/python-net/ar/aspose.cells.charts/errorbar/cap_type) |يحدد قبعات النهاية.|
 | [join_type](/cells/python-net/ar/aspose.cells.charts/errorbar/join_type) | يحدد قبعات الانضمام.|
-| [begin_type](/cells/python-net/ar/aspose.cells.charts/errorbar/begin_type) |يحدد رأس سهم لبداية السطر.|
+| [begin_type](/cells/python-net/ar/aspose.cells.charts/errorbar/begin_type) | يحدد رأس سهم لبداية السطر.|
 | [end_type](/cells/python-net/ar/aspose.cells.charts/errorbar/end_type) | يحدد رأس سهم لنهاية السطر.|
 | [begin_arrow_length](/cells/python-net/ar/aspose.cells.charts/errorbar/begin_arrow_length) | يحدد طول رأس السهم لبداية السطر.|
 | [end_arrow_length](/cells/python-net/ar/aspose.cells.charts/errorbar/end_arrow_length) | يحدد طول رأس السهم لنهاية السطر.|
 | [begin_arrow_width](/cells/python-net/ar/aspose.cells.charts/errorbar/begin_arrow_width) | يحدد عرض رأس السهم لبداية السطر.|
 | [end_arrow_width](/cells/python-net/ar/aspose.cells.charts/errorbar/end_arrow_width) | يحدد عرض رأس السهم لنهاية السطر.|
-| [theme_color](/cells/python-net/ar/aspose.cells.charts/errorbar/theme_color) | الحصول على لون المظهر وتعيينه.|
+| [theme_color](/cells/python-net/ar/aspose.cells.charts/errorbar/theme_color) | الحصول على لون السمة وتعيينه.|
 | [color](/cells/python-net/ar/aspose.cells.charts/errorbar/color) | يمثل لون الخط.|
-| [transparency](/cells/python-net/ar/aspose.cells.charts/errorbar/transparency) | إرجاع أو تعيين درجة شفافية الخط كقيمة من 0.0 (معتم) إلى 1.0 (واضح).|
+| [transparency](/cells/python-net/ar/aspose.cells.charts/errorbar/transparency) | إرجاع أو تعيين درجة شفافية الخط كقيمة تتراوح من 0.0 (معتم) إلى 1.0 (واضح).|
 | [style](/cells/python-net/ar/aspose.cells.charts/errorbar/style) | يمثل نمط الخط.|
-| [weight](/cells/python-net/ar/aspose.cells.charts/errorbar/weight) | الحصول على او تحديد [WeightType](/cells/python-net/ar/aspose.cells.drawing/weighttype) للخط.|
-| [weight_pt](/cells/python-net/ar/aspose.cells.charts/errorbar/weight_pt) | الحصول على أو تحديد وزن الخط بوحدة النقاط.|
-| [weight_px](/cells/python-net/ar/aspose.cells.charts/errorbar/weight_px) | الحصول على أو تحديد وزن الخط بوحدة البكسل.|
-| [formatting_type](/cells/python-net/ar/aspose.cells.charts/errorbar/formatting_type) | يحصل أو يحدد نوع التنسيق.|
-| [is_automatic_color](/cells/python-net/ar/aspose.cells.charts/errorbar/is_automatic_color) | يشير إلى ما إذا كان لون الخط معينًا تلقائيًا أم لا.|
+| [weight](/cells/python-net/ar/aspose.cells.charts/errorbar/weight) | الحصول على أو تعيين [`WeightType`](/cells/python-net/ar/aspose.cells.drawing/weighttype) من السطر.|
+| [weight_pt](/cells/python-net/ar/aspose.cells.charts/errorbar/weight_pt) | الحصول على أو تعيين وزن الخط بوحدة النقاط.|
+| [weight_px](/cells/python-net/ar/aspose.cells.charts/errorbar/weight_px) | الحصول على أو تعيين وزن الخط بوحدة البكسل.|
+| [formatting_type](/cells/python-net/ar/aspose.cells.charts/errorbar/formatting_type) | الحصول على نوع التنسيق أو تحديده.|
+| [is_automatic_color](/cells/python-net/ar/aspose.cells.charts/errorbar/is_automatic_color) | يشير إلى ما إذا كان لون الخط قد تم تعيينه تلقائيًا.|
 | [is_visible](/cells/python-net/ar/aspose.cells.charts/errorbar/is_visible) | يمثل ما إذا كان الخط مرئيًا.|
-| [is_auto](/cells/python-net/ar/aspose.cells.charts/errorbar/is_auto) | يشير إلى ما إذا كان نمط الخط هذا قد تم تعيينه تلقائيًا أم لا.|
+| [is_auto](/cells/python-net/ar/aspose.cells.charts/errorbar/is_auto) |يشير إلى ما إذا كان نمط الخط هذا قد تم تعيينه تلقائيًا.|
 | [gradient_fill](/cells/python-net/ar/aspose.cells.charts/errorbar/gradient_fill) | يمثل تعبئة متدرجة.|
-| [type](/cells/python-net/ar/aspose.cells.charts/errorbar/type) |يمثل نوع مقدار شريط الخطأ.|
+| [type](/cells/python-net/ar/aspose.cells.charts/errorbar/type) | يمثل نوع مبلغ شريط الخطأ.|
 | [display_type](/cells/python-net/ar/aspose.cells.charts/errorbar/display_type) | يمثل نوع عرض شريط الخطأ.|
 | [amount](/cells/python-net/ar/aspose.cells.charts/errorbar/amount) | يمثل مقدار شريط الخطأ.<br/> يجب أن يكون المبلغ أكبر من أو يساوي الصفر.|
-| [show_marker_t_top](/cells/python-net/ar/aspose.cells.charts/errorbar/show_marker_t_top) | يشير إلى ما إذا كان تنسيق أشرطة الخطأ باستخدام T-top.|
-| [plus_value](/cells/python-net/ar/aspose.cells.charts/errorbar/plus_value) | يمثل مقدار الخطأ الإيجابي عندما يكون نوع شريط الخطأ مخصص.|
-| [minus_value](/cells/python-net/ar/aspose.cells.charts/errorbar/minus_value) | يمثل مقدار الخطأ السالب عندما يكون نوع شريط الخطأ مخصص.|
+| [show_marker_t_top](/cells/python-net/ar/aspose.cells.charts/errorbar/show_marker_t_top) | يشير إلى ما إذا كانت هناك أشرطة خطأ في التنسيق باستخدام T-top.|
+| [plus_value](/cells/python-net/ar/aspose.cells.charts/errorbar/plus_value) | يمثل مقدار خطأ موجبًا عندما يكون نوع شريط الخطأ مخصصًا.|
+| [minus_value](/cells/python-net/ar/aspose.cells.charts/errorbar/minus_value) | يمثل مقدار خطأ سالبًا عندما يكون نوع شريط الخطأ مخصصًا.|
 
 
 
@@ -77,16 +77,16 @@ chartIndex = workbook.worksheets[0].charts.add(ChartType.COLUMN, 11, 0, 27, 10)
 chart = workbook.worksheets[0].charts[chartIndex]
 chart.n_series.add("A1:B4", True)
 chart.n_series.category_data = "C1:C4"
-for i in range(len(chart.NSeries)):
+for i in range(len(chart.n_series)):
     aseries = chart.n_series[i]
     aseries.y_error_bar.display_type = ErrorBarDisplayType.MINUS
     aseries.y_error_bar.type = ErrorBarType.FIXED_VALUE
-    aseries.y_error_bar.amount = 5
+    aseries.y_error_bar.amount = 5.0
 
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
-* فئة [ErrorBar](/cells/python-net/ar/aspose.cells.charts/errorbar)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
-* فئة [WeightType](/cells/python-net/ar/aspose.cells.drawing/weighttype)
+* الوحدة [`aspose.cells.charts`](..)
+* فئة [`ErrorBar`](/cells/python-net/ar/aspose.cells.charts/errorbar)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)
+* فئة [`WeightType`](/cells/python-net/ar/aspose.cells.drawing/weighttype)

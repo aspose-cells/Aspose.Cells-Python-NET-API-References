@@ -3,7 +3,7 @@ title: selected_index fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 920
+weight: 930
 url: /sv/aspose.cells.drawing/listbox/selected_index/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def selected_index(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ListBox](/cells/python-net/sv/aspose.cells.drawing/listbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ListBox`](/cells/python-net/sv/aspose.cells.drawing/listbox)

@@ -1,13 +1,13 @@
 ---
-title: linked_cell 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: linked_cell属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 740
+weight: 750
 url: /zh/aspose.cells.drawing/combobox/linked_cell/
 is_root: false
 ---
-## linked_cell 属性
+## linked_cell属性
 
 获取或设置链接到控件值的工作表范围。
 
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ComboBox](/cells/python-net/zh/aspose.cells.drawing/combobox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ComboBox`](/cells/python-net/zh/aspose.cells.drawing/combobox)

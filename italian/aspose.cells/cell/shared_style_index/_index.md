@@ -3,7 +3,7 @@ title: shared_style_index proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 670
+weight: 700
 url: /it/aspose.cells/cell/shared_style_index/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def shared_style_index(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

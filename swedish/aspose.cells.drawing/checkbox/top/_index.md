@@ -3,7 +3,7 @@ title: top fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /sv/aspose.cells.drawing/checkbox/top/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def top(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CheckBox](/cells/python-net/sv/aspose.cells.drawing/checkbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CheckBox`](/cells/python-net/sv/aspose.cells.drawing/checkbox)

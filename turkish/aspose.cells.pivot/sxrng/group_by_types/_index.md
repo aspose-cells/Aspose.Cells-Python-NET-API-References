@@ -8,9 +8,6 @@ url: /tr/aspose.cells.pivot/sxrng/group_by_types/
 is_root: false
 ---
 ##  group_by_types mülk
-
-Grup aralığı için grup türünü temsil eder.
-değer aralığı Saniye Dakika Saat Gün Ay Çeyrek Yıl
 ###  Tanım:
 ```python
 @property
@@ -19,5 +16,5 @@ def group_by_types(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [SxRng](/cells/python-net/tr/aspose.cells.pivot/sxrng)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`SxRng`](/cells/python-net/tr/aspose.cells.pivot/sxrng)

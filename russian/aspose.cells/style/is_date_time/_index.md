@@ -1,9 +1,9 @@
 ---
 title: is_date_time недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 270
+weight: 290
 url: /ru/aspose.cells/style/is_date_time/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_date_time(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Style](/cells/python-net/ru/aspose.cells/style)
+* модуль [`aspose.cells`](../../)
+* класс [`Style`](/cells/python-net/ru/aspose.cells/style)

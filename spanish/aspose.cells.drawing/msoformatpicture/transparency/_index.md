@@ -3,13 +3,13 @@ title: transparency propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 120
+weight: 160
 url: /es/aspose.cells.drawing/msoformatpicture/transparency/
 is_root: false
 ---
 ##  transparency propiedad
 
-Devuelve o establece el grado de transparency del área como un valor de 0,0 (opaco) a 1,0 (transparente).
+Devuelve o establece el grado de transparency del área como un valor de 0,0 (opaco) a 1,0 (claro).
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoFormatPicture](/cells/python-net/es/aspose.cells.drawing/msoformatpicture)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoFormatPicture`](/cells/python-net/es/aspose.cells.drawing/msoformatpicture)

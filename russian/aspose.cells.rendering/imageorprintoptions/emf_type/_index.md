@@ -1,9 +1,9 @@
 ---
 title: emf_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ru/aspose.cells.rendering/imageorprintoptions/emf_type/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def emf_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)

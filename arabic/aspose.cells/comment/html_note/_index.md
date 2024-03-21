@@ -1,19 +1,19 @@
 ---
-title: html_note الملكية
+title: html_note عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells/comment/html_note/
 is_root: false
 ---
-##  html_note الملكية
+##  html_note عقار
 
-الحصول على وتعيين سلسلة html التي تحتوي على بيانات وبعض التنسيقات في هذا التعليق.
+الحصول على سلسلة html التي تحتوي على البيانات وبعض التنسيقات في هذا التعليق وتعيينها.
 
 ###  ملاحظات
 
-إذا كان هذا تعليقًا مترابطًا ، فلا يمكن تغيير الملاحظة ، وإلا فلن يتمكن MS Excel من معالجته كتعليق مترابط.
+إذا كان هذا تعليقًا مترابطة، فلا يمكن تغيير الملاحظة، وإلا فلن يتمكن MS Excel من معالجتها كتعليق مترابطة.
 
 ###  مثال
 
@@ -33,5 +33,5 @@ def html_note(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

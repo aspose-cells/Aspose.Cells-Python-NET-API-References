@@ -1,25 +1,25 @@
 ---
-title: IWarningCallback الدرجة
+title: IWarningCallback صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 880
+weight: 920
 url: /ar/aspose.cells/iwarningcallback/
 is_root: false
 ---
-##  IWarningCallback الدرجة
+##  IWarningCallback صف
 واجهة رد الاتصال للتحذير.
 
 
 
-يكشف نوع IWarningCallback الأعضاء التالية:
+يكشف النوع IWarningCallback عن الأعضاء التاليين:
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [warning(warning_info)](/cells/python-net/ar/aspose.cells/iwarningcallback/warning/#WarningInfo) | رد الاتصال لدينا يحتاج فقط إلى تنفيذ طريقة "التحذير".|
+| [warning](/cells/python-net/ar/aspose.cells/iwarningcallback/warning/#aspose.cells.WarningInfo) | يحتاج رد الاتصال لدينا فقط إلى تنفيذ طريقة "التحذير".|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

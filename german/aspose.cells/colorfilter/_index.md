@@ -3,12 +3,12 @@ title: ColorFilter Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 250
 url: /de/aspose.cells/colorfilter/
 is_root: false
 ---
 ##  ColorFilter Klasse
-Stellt den Farbfilter dar.
+Stellt das Filtern des Bereichs nach Farbe dar.
 
 
 
@@ -17,15 +17,15 @@ Der Typ ColorFilter macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [filter_by_fill_color](/cells/python-net/de/aspose.cells/colorfilter/filter_by_fill_color) | Flag, das angibt, ob nach der Füllfarbe der Zelle gefiltert wird.|
+| [filter_by_fill_color](/cells/python-net/de/aspose.cells/colorfilter/filter_by_fill_color) | Ob nach der Füllfarbe der Zelle gefiltert werden soll.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_color(sheets)](/cells/python-net/de/aspose.cells/colorfilter/get_color/#WorksheetCollection) |  |
+| [get_color](/cells/python-net/de/aspose.cells/colorfilter/get_color/#aspose.cells.WorksheetCollection) | Ruft die Farbe dieses Filters ab.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

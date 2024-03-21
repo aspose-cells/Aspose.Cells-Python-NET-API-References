@@ -1,19 +1,19 @@
 ---
-title: has_multi_level_labels الملكية
+title: has_multi_level_labels عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ar/aspose.cells.charts/axis/has_multi_level_labels/
 is_root: false
 ---
-##  has_multi_level_labels الملكية
+##  has_multi_level_labels عقار
 
-يشير إلى ما إذا كانت الملصقات ستظهر كمستويات متعددة.
+يشير إلى ما إذا كان سيتم عرض التسميات على أنها متعددة المستويات.
 
 ###  ملاحظات
 
-صالح فقط لمحور الفئة.
+صالحة فقط لمحور الفئة.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def has_multi_level_labels(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)

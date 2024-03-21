@@ -1,15 +1,15 @@
 ---
 title: is_formula_hidden недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 280
+weight: 320
 url: /ru/aspose.cells/style/is_formula_hidden/
 is_root: false
 ---
 ##  is_formula_hidden недвижимость
 
-Указывает, будет ли скрыта формула, если лист защищен.
+Указывает, будет ли формула скрыта, если лист защищен.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_formula_hidden(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Style](/cells/python-net/ru/aspose.cells/style)
+* модуль [`aspose.cells`](../../)
+* класс [`Style`](/cells/python-net/ru/aspose.cells/style)

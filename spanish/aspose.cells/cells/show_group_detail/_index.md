@@ -1,13 +1,13 @@
 ---
-title: show_group_detail método
+title: método show_group_detail
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 910
+weight: 900
 url: /es/aspose.cells/cells/show_group_detail/
 is_root: false
 ---
-##  show_group_detail(is_vertical, index) {#bool-int}
+##  show_group_detail {#bool-int}
 Expande las filas/columnas agrupadas.
 
 
@@ -20,11 +20,11 @@ def show_group_detail(self, is_vertical, index):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| is_vertical | bool | Cierto, expande las filas agrupadas.|
+| is_vertical | bool | Es cierto, expande las filas agrupadas.|
 | index | int | El índice de fila/columna|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

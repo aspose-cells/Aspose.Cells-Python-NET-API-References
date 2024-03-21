@@ -3,7 +3,7 @@ title: Top10Filter klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1490
+weight: 1560
 url: /sv/aspose.cells/top10filter/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen Top10Filter avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

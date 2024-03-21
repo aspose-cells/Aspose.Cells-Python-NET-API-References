@@ -3,13 +3,13 @@ title: is_visible Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 170
 url: /de/aspose.cells/comment/is_visible/
 is_root: false
 ---
 ##  is_visible Eigentum
 
-Stellt dar, ob der Kommentar sichtbar ist oder nicht.
+Gibt an, ob der Kommentar sichtbar ist oder nicht.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def is_visible(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Comment](/cells/python-net/de/aspose.cells/comment)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Comment`](/cells/python-net/de/aspose.cells/comment)

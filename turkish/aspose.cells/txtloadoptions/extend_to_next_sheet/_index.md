@@ -9,11 +9,14 @@ is_root: false
 ---
 ##  extend_to_next_sheet mülk
 
-Veri satırları veya sütunları sınırı aştığında verileri bir sonraki sayfaya genişletip genişletmeyeceği.
-Bu özellik doğruysa, ekstra veriler mevcut sayfanın arkasındaki bir sonraki sayfaya genişletilir (geçerli sayfa sonuncuysa,
-geçerli çalışma kitabına yeni sayfa eklenecektir).
-Bu özellik false ise, limiti aşan veri yoksayılır.
-Varsayılan yanlıştır;
+Veri satırları veya sütunları sınırı aştığında verilerin bir sonraki sayfaya genişletilip genişletilmeyeceği.
+Varsayılan yanlıştır.
+
+###  Notlar
+
+Bu özellik doğruysa, fazladan veriler mevcut sayfanın arkasındaki sonraki sayfaya konulacaktır.
+(geçerli sayfa son sayfa ise, yeni sayfa geçerli çalışma kitabına eklenecektir).
+Bu özellik false ise sınırı aşan veriler dikkate alınmaz.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +28,5 @@ def extend_to_next_sheet(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TxtLoadOptions](/cells/python-net/tr/aspose.cells/txtloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`TxtLoadOptions`](/cells/python-net/tr/aspose.cells/txtloadoptions)

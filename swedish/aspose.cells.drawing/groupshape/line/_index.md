@@ -3,7 +3,7 @@ title: line fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 730
+weight: 740
 url: /sv/aspose.cells.drawing/groupshape/line/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def line(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GroupShape](/cells/python-net/sv/aspose.cells.drawing/groupshape)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GroupShape`](/cells/python-net/sv/aspose.cells.drawing/groupshape)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)

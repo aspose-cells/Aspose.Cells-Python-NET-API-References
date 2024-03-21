@@ -3,7 +3,7 @@ title: base_unit_scale fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 80
 url: /sv/aspose.cells.charts/axis/base_unit_scale/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def base_unit_scale(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Axis](/cells/python-net/sv/aspose.cells.charts/axis)
-* klass [TimeUnit](/cells/python-net/sv/aspose.cells.charts/timeunit)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Axis`](/cells/python-net/sv/aspose.cells.charts/axis)
+* klass [`TimeUnit`](/cells/python-net/sv/aspose.cells.charts/timeunit)

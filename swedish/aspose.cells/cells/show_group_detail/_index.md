@@ -3,11 +3,11 @@ title: show_group_detail metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 910
+weight: 900
 url: /sv/aspose.cells/cells/show_group_detail/
 is_root: false
 ---
-##  show_group_detail(is_vertical, index) {#bool-int}
+##  show_group_detail {#bool-int}
 Expanderar de grupperade raderna/kolumnerna.
 
 
@@ -26,5 +26,5 @@ def show_group_detail(self, is_vertical, index):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

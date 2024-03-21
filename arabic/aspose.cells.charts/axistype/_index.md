@@ -1,18 +1,18 @@
 ---
-title: العد AxisType
+title: AxisType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 370
 url: /ar/aspose.cells.charts/axistype/
 is_root: false
 ---
-##  العد AxisType
+##  AxisType التعداد
 يمثل نوع المحور.
 
 
 
-يكشف نوع AxisType الأعضاء التالية:
+يكشف النوع AxisType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

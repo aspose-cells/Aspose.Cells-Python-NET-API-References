@@ -3,7 +3,7 @@ title: group propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 420
+weight: 430
 url: /fr/aspose.cells.drawing/checkbox/group/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def group(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [CheckBox](/cells/python-net/fr/aspose.cells.drawing/checkbox)
-* classe [GroupShape](/cells/python-net/fr/aspose.cells.drawing/groupshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`CheckBox`](/cells/python-net/fr/aspose.cells.drawing/checkbox)
+* classe [`GroupShape`](/cells/python-net/fr/aspose.cells.drawing/groupshape)

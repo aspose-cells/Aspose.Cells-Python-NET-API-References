@@ -9,8 +9,9 @@ is_root: false
 ---
 ##  ignore_error mülk
 
-Formülleri hesaplarken hatayı gizlemeniz gerekip gerekmediğini gösterir.
+Formüller hesaplanırken karşılaşılan hataların göz ardı edilip edilmeyeceğini belirtir.
 Hata, desteklenmeyen işlev, harici bağlantılar vb. olabilir.
+Varsayılan değer doğrudur.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +23,5 @@ def ignore_error(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CalculationOptions](/cells/python-net/tr/aspose.cells/calculationoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CalculationOptions`](/cells/python-net/tr/aspose.cells/calculationoptions)

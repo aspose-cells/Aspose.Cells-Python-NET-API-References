@@ -1,15 +1,15 @@
 ---
-title: data الملكية
+title: data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 390
 url: /ar/aspose.cells.drawing/picture/data/
 is_root: false
 ---
-##  data الملكية
+##  data عقار
 
-الحصول على data للصورة.
+يحصل على data من الصورة.
 
 ###  مثال
 
@@ -44,5 +44,5 @@ def data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

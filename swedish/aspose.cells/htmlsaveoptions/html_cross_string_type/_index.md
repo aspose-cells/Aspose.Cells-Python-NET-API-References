@@ -3,7 +3,7 @@ title: html_cross_string_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 440
 url: /sv/aspose.cells/htmlsaveoptions/html_cross_string_type/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def html_cross_string_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlCrossType](/cells/python-net/sv/aspose.cells/htmlcrosstype)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlCrossType`](/cells/python-net/sv/aspose.cells/htmlcrosstype)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

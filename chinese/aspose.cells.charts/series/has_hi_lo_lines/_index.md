@@ -1,15 +1,15 @@
 ---
-title: has_hi_lo_lines 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: has_hi_lo_lines属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 200
 url: /zh/aspose.cells.charts/series/has_hi_lo_lines/
 is_root: false
 ---
-## has_hi_lo_lines 属性
+## has_hi_lo_lines属性
 
-如果折线图有高低线，则为真。
+如果折线图具有高低线，则为 true。
 仅适用于折线图。
 ### 定义：
 ```python
@@ -22,5 +22,5 @@ def has_hi_lo_lines(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Series](/cells/python-net/zh/aspose.cells.charts/series)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Series`](/cells/python-net/zh/aspose.cells.charts/series)

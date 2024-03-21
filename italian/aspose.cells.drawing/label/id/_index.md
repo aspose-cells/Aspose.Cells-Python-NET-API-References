@@ -3,7 +3,7 @@ title: id proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 500
+weight: 510
 url: /it/aspose.cells.drawing/label/id/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def id(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Label](/cells/python-net/it/aspose.cells.drawing/label)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Label`](/cells/python-net/it/aspose.cells.drawing/label)

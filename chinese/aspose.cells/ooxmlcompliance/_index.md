@@ -1,18 +1,18 @@
 ---
 title: OoxmlCompliance枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2270
+weight: 2360
 url: /zh/aspose.cells/ooxmlcompliance/
 is_root: false
 ---
 ## OoxmlCompliance枚举
-允许指定以 Xlsx 格式保存时将使用的 OOXML 规范。
+允许指定以 Xlsx 格式保存时将使用哪个 OOXML 规范。
 
 
 
-OoxmlCompliance 类型公开了以下成员：
+OoxmlCompliance 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -23,4 +23,4 @@ OoxmlCompliance 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

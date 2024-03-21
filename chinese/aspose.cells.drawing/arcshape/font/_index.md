@@ -1,15 +1,15 @@
 ---
-title: font 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: font属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 430
 url: /zh/aspose.cells.drawing/arcshape/font/
 is_root: false
 ---
-## font 属性
+## font属性
 
-代表 font 的形状。
+代表形状的font。
 
 ### 例子
 
@@ -33,6 +33,6 @@ def font(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ArcShape](/cells/python-net/zh/aspose.cells.drawing/arcshape)
-* 类 [Font](/cells/python-net/zh/aspose.cells/font)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ArcShape`](/cells/python-net/zh/aspose.cells.drawing/arcshape)
+* 类 [`Font`](/cells/python-net/zh/aspose.cells/font)

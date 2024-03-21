@@ -1,15 +1,15 @@
 ---
 title: y недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /ru/aspose.cells.drawing/customxmlshape/y/
 is_root: false
 ---
 ##  y недвижимость
 
-Получает и задает вертикальное смещение фигуры от верхней границы рабочего листа в единицах пикселей.
+Получает и задает вертикальное смещение фигуры от верхней границы листа в пикселях.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CustomXmlShape](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CustomXmlShape`](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)

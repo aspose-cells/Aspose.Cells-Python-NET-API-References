@@ -1,6 +1,6 @@
 ---
 title: delete_redundant_spaces недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
 weight: 140
@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  delete_redundant_spaces недвижимость
 
- Указывает, следует ли удалять лишние пробелы, когда текст переносит строки с помощью<br>тег. Значение по умолчанию — false.
+Указывает, следует ли удалять лишние пробелы, когда текст переносит строки с помощью тега `<br>`.
+Значение по умолчанию неверно.
 ###  Определение:
 ```python
 @property
@@ -21,5 +22,5 @@ def delete_redundant_spaces(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlLoadOptions](/cells/python-net/ru/aspose.cells/htmlloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlLoadOptions`](/cells/python-net/ru/aspose.cells/htmlloadoptions)

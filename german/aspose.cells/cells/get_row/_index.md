@@ -3,17 +3,17 @@ title: get_row Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 450
+weight: 440
 url: /de/aspose.cells/cells/get_row/
 is_root: false
 ---
-##  get_row(row) {#int}
-Ruft das Element [Row](/cells/python-net/de/aspose.cells/row) am angegebenen Zellenzeilenindex ab.
+##  get_row {#int}
+Ruft das Element [`Row`](/cells/python-net/de/aspose.cells/row) am angegebenen Zellenzeilenindex ab.
 
 
 ###  Kehrt zurück
 
-Wenn das Zeilenobjekt vorhanden ist, geben Sie das Zeilenobjekt zurück, andernfalls geben Sie null zurück.
+Wenn das Zeilenobjekt vorhanden ist, wird das Zeilenobjekt zurückgegeben, andernfalls wird null zurückgegeben.
 
 
 ```python
@@ -25,10 +25,15 @@ def get_row(self, row):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | row | int | Zeilenindex|
+###  Bemerkungen
 
+HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+Bitte verwenden Sie die Methode Cells.CheckRow(int row).
+ Diese Methode wird 12 Monate später seit Februar 2024 entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
-* Klasse [Row](/cells/python-net/de/aspose.cells/row)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)
+* Klasse [`Row`](/cells/python-net/de/aspose.cells/row)

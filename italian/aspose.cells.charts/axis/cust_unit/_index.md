@@ -3,7 +3,7 @@ title: cust_unit proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 120
+weight: 130
 url: /it/aspose.cells.charts/axis/cust_unit/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Specifica un valore personalizzato per l'unità di visualizzazione.
 
  NOTA: questa proprietà è ora obsoleta. Invece,
 utilizzare la proprietà Axis.CustomUnit.
- Questa proprietà verrà rimossa 12 mesi dopo da gennaio 2023.
-Aspose si scusa per gli eventuali disagi causati.
+ Questa proprietà verrà rimossa 12 mesi dopo a partire da gennaio 2023.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -28,5 +28,5 @@ def cust_unit(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/it/aspose.cells.charts/axis)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/it/aspose.cells.charts/axis)

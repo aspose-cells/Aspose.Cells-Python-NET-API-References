@@ -3,7 +3,7 @@ title: emf_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 120
 url: /sv/aspose.cells.rendering/imageorprintoptions/emf_type/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def emf_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)

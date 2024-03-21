@@ -1,9 +1,9 @@
 ---
 title: dpi недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ru/aspose.cells/cellshelper/dpi/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def dpi(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsHelper](/cells/python-net/ru/aspose.cells/cellshelper)
+* модуль [`aspose.cells`](../../)
+* класс [`CellsHelper`](/cells/python-net/ru/aspose.cells/cellshelper)

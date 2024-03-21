@@ -3,7 +3,7 @@ title: DirectoryType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1960
+weight: 2030
 url: /tr/aspose.cells/directorytype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Dosya adının dizin türünü temsil eder.
 
 
 
-DirectoryType türü aşağıdaki üyeleri gösterir:
+DirectoryType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| VOLUME | Bir MS-DOS sürücü harfini temsil eder. Bunu sürücü harfi takip eder.<br/> Veya \\server\share\myfile.xls gibi UNC dosya adları|
-| SAME_VOLUME | Kaynak çalışma kitabının bağımlı çalışma kitabıyla aynı sürücüde olduğunu gösterir (sürücü harfi atlanır)|
-| DOWN_DIRECTORY | Kaynak çalışma kitabının geçerli dizinin bir alt dizininde olduğunu gösterir.|
-| UP_DIRECTORY | Kaynak çalışma kitabının geçerli dizinin üst dizininde olduğunu gösterir.|
+| VOLUME | MS-DOS sürücü harfini temsil eder. Bunu sürücü harfi takip eder.<br/>Veya \\sunucu\paylaşım\dosyam.xls gibi UNC dosya adları|
+| SAME_VOLUME | Kaynak çalışma kitabının bağımlı çalışma kitabıyla aynı sürücüde olduğunu belirtir (sürücü harfi atlanır)|
+| DOWN_DIRECTORY | Kaynak çalışma kitabının geçerli dizinin bir alt dizininde olduğunu belirtir.|
+| UP_DIRECTORY | Kaynak çalışma kitabının geçerli dizinin üst dizininde olduğunu belirtir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: unique_id propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 860
+weight: 880
 url: /fr/aspose.cells/worksheet/unique_id/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def unique_id(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

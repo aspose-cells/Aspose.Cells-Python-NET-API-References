@@ -3,7 +3,7 @@ title: spt Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 910
+weight: 920
 url: /de/aspose.cells.drawing/groupbox/spt/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def spt(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GroupBox](/cells/python-net/de/aspose.cells.drawing/groupbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GroupBox`](/cells/python-net/de/aspose.cells.drawing/groupbox)

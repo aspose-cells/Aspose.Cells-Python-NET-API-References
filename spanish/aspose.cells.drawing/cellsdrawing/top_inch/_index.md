@@ -3,7 +3,7 @@ title: top_inch propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /es/aspose.cells.drawing/cellsdrawing/top_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representa el desplazamiento vertical de la forma desde su fila superior, en uni
 ```python
 
 if shape.top_inch == 3:
-    shape.top_inch = 1
+    shape.top_inch = 1.0
 
 ```
 ###  Definición:
@@ -30,5 +30,5 @@ def top_inch(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CellsDrawing](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CellsDrawing`](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)

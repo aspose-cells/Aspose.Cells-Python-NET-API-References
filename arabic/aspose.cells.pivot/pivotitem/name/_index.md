@@ -1,15 +1,15 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.pivot/pivotitem/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-الحصول على name للعنصر المحوري.
+يحصل على name للعنصر المحوري.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotItem](/cells/python-net/ar/aspose.cells.pivot/pivotitem)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotItem`](/cells/python-net/ar/aspose.cells.pivot/pivotitem)

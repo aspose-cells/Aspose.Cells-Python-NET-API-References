@@ -1,13 +1,13 @@
 ---
-title: text_shape_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_shape_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1000
+weight: 1010
 url: /zh/aspose.cells.drawing/button/text_shape_type/
 is_root: false
 ---
-## text_shape_type 属性
+## text_shape_type属性
 
 获取和设置预设文本形状类型。
 
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [AutoShapeType](/cells/python-net/zh/aspose.cells.drawing/autoshapetype)
-* 类 [Button](/cells/python-net/zh/aspose.cells.drawing/button)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`AutoShapeType`](/cells/python-net/zh/aspose.cells.drawing/autoshapetype)
+* 类 [`Button`](/cells/python-net/zh/aspose.cells.drawing/button)

@@ -3,13 +3,13 @@ title: reflection propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 890
+weight: 900
 url: /fr/aspose.cells.drawing/lineshape/reflection/
 is_root: false
 ---
 ##  reflection propriété
 
-Représente un objet [ReflectionEffect](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect) qui spécifie l'effet reflection pour l'élément ou la forme du graphique.
+Représente un objet [`ReflectionEffect`](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect) qui spécifie l'effet reflection pour l'élément ou la forme du graphique.
 
 ###  Exemple
 
@@ -26,6 +26,6 @@ def reflection(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [LineShape](/cells/python-net/fr/aspose.cells.drawing/lineshape)
-* classe [ReflectionEffect](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect)
+* module [`aspose.cells.drawing`](../../)
+* classe [`LineShape`](/cells/python-net/fr/aspose.cells.drawing/lineshape)
+* classe [`ReflectionEffect`](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect)

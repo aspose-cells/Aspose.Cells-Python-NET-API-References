@@ -1,28 +1,28 @@
 ---
-title: العد CrossType
+title: CrossType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 460
+weight: 470
 url: /ar/aspose.cells.charts/crosstype/
 is_root: false
 ---
-##  العد CrossType
-يمثل نوع المحور المتقاطع.
+##  CrossType التعداد
+يمثل النوع المتقاطع للمحور.
 
 
 
-يكشف نوع CrossType الأعضاء التالية:
+يكشف النوع CrossType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| AUTOMATIC | يقوم Microsoft Excel بتعيين نقطة تقاطع المحور.|
-| MAXIMUM | يتقاطع المحور عند الحد الأقصى للقيمة.|
-| MINIMUM | يتقاطع المحور عند الحد الأدنى للقيمة.|
+| AUTOMATIC | Microsoft يقوم Excel بتعيين نقطة عبور المحور.|
+| MAXIMUM | يتقاطع المحور عند القيمة القصوى.|
+| MINIMUM | يتقاطع المحور عند القيمة الدنيا.|
 | CUSTOM | يتقاطع المحور عند القيمة المخصصة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

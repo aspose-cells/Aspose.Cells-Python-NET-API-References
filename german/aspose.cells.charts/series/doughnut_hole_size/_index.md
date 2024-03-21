@@ -3,14 +3,14 @@ title: doughnut_hole_size Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 130
+weight: 120
 url: /de/aspose.cells.charts/series/doughnut_hole_size/
 is_root: false
 ---
 ##  doughnut_hole_size Eigentum
 
  Gibt die Größe des Lochs in einer Ringdiagrammgruppe zurück oder legt sie fest.
-Die Lochgröße wird als Prozentsatz der Diagrammgröße zwischen 10 und 90 Prozent ausgedrückt.
+Die Lochgröße wird als Prozentsatz der Diagrammgröße ausgedrückt und liegt zwischen 10 und 90 Prozent.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def doughnut_hole_size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

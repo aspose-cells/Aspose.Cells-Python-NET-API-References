@@ -3,7 +3,7 @@ title: OoxmlCompliance uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2270
+weight: 2360
 url: /sv/aspose.cells/ooxmlcompliance/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Typen OoxmlCompliance avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

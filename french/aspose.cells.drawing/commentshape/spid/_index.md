@@ -3,7 +3,7 @@ title: spid propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 900
+weight: 910
 url: /fr/aspose.cells.drawing/commentshape/spid/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [CommentShape](/cells/python-net/fr/aspose.cells.drawing/commentshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`CommentShape`](/cells/python-net/fr/aspose.cells.drawing/commentshape)

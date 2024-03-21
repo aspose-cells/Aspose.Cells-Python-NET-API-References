@@ -1,9 +1,9 @@
 ---
 title: settings недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 640
+weight: 650
 url: /ru/aspose.cells/workbook/settings/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def settings(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

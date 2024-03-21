@@ -3,7 +3,7 @@ title: show_tabs propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 580
+weight: 460
 url: /es/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
@@ -17,7 +17,7 @@ El valor por defecto es verdadero.
 
 ###  Ejemplo
 
-El siguiente código oculta las pestañas de hoja y los botones de desplazamiento de pestañas para la hoja de cálculo.
+El siguiente código oculta las pestañas de la hoja y los botones de desplazamiento de pestañas de la hoja de cálculo.
 
 ```python
 
@@ -36,5 +36,5 @@ def show_tabs(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WorkbookSettings](/cells/python-net/es/aspose.cells/workbooksettings)
+* módulo [`aspose.cells`](../../)
+* clase [`WorkbookSettings`](/cells/python-net/es/aspose.cells/workbooksettings)

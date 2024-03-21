@@ -1,16 +1,16 @@
 ---
-title: vertical_resolution الملكية
+title: vertical_resolution عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 390
 url: /ar/aspose.cells.rendering/imageorprintoptions/vertical_resolution/
 is_root: false
 ---
-##  vertical_resolution الملكية
+##  vertical_resolution عقار
 
-الحصول على الدقة الرأسية للصور المُنشأة أو تعيينها ، بالنقاط في البوصة.
-يطبق طريقة إنشاء الصورة باستثناء صورة بتنسيق Emf.
+الحصول على أو تعيين الدقة الرأسية للصور التي تم إنشاؤها، بالنقاط في البوصة.
+يتم تطبيق طريقة إنشاء الصورة باستثناء الصورة بتنسيق Emf.
 
 ###  ملاحظات
 
@@ -26,5 +26,5 @@ def vertical_resolution(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

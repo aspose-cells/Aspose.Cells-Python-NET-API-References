@@ -1,27 +1,27 @@
 ---
 title: FontSchemeType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2070
+weight: 2140
 url: /zh/aspose.cells/fontschemetype/
 is_root: false
 ---
 ## FontSchemeType枚举
-表示字体的方案类型。
+代表字体的方案类型。
 
 
 
-FontSchemeType 类型公开了以下成员：
+FontSchemeType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
 | NONE |没有任何|
-| MAJOR |重大计划。|
+| MAJOR |主要方案。|
 | MINOR |小计划。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

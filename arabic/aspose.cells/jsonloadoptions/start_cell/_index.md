@@ -1,13 +1,13 @@
 ---
-title: start_cell الملكية
+title: start_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 280
 url: /ar/aspose.cells/jsonloadoptions/start_cell/
 is_root: false
 ---
-##  start_cell الملكية
+##  start_cell عقار
 
 الحصول على خلية البداية وتعيينها.
 ###  تعريف:
@@ -21,5 +21,5 @@ def start_cell(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [JsonLoadOptions](/cells/python-net/ar/aspose.cells/jsonloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`JsonLoadOptions`](/cells/python-net/ar/aspose.cells/jsonloadoptions)

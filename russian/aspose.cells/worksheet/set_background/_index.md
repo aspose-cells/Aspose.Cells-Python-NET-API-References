@@ -1,14 +1,14 @@
 ---
 title: set_background метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 250
+weight: 270
 url: /ru/aspose.cells/worksheet/set_background/
 is_root: false
 ---
-##  set_background(picture_data) {#bytes}
-Устанавливает фоновое изображение рабочего листа.
+##  set_background {#bytes}
+Устанавливает фоновое изображение листа.
 
 
 
@@ -25,10 +25,10 @@ def set_background(self, picture_data):
 
 ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
 используйте свойство Worksheet.BackgroundImage.
- Это свойство будет удалено через 12 месяцев, начиная с августа 2016 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с августа 2016 года.
 Aspose приносит извинения за возможные неудобства.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

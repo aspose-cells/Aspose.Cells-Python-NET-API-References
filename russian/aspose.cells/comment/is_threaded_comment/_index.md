@@ -1,9 +1,9 @@
 ---
 title: is_threaded_comment недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ru/aspose.cells/comment/is_threaded_comment/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def is_threaded_comment(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)

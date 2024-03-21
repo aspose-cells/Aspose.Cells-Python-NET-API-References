@@ -3,7 +3,7 @@ title: PivotFieldType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 290
 url: /sv/aspose.cells.pivot/pivotfieldtype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ Typen PivotFieldType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.pivot](..)
+* modul [`aspose.cells.pivot`](..)

@@ -1,13 +1,13 @@
 ---
-title: page_saving_callback 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: page_saving_callback属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 240
 url: /zh/aspose.cells.rendering/imageorprintoptions/page_saving_callback/
 is_root: false
 ---
-## page_saving_callback 属性
+## page_saving_callback属性
 
 控制/指示页面保存过程的进度。
 ### 定义：
@@ -21,6 +21,6 @@ def page_saving_callback(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](../../)
-* 类 [IPageSavingCallback](/cells/python-net/zh/aspose.cells.rendering/ipagesavingcallback)
-* 类 [ImageOrPrintOptions](/cells/python-net/zh/aspose.cells.rendering/imageorprintoptions)
+* 模块[`aspose.cells.rendering`](../../)
+* 类 [`IPageSavingCallback`](/cells/python-net/zh/aspose.cells.rendering/ipagesavingcallback)
+* 类 [`ImageOrPrintOptions`](/cells/python-net/zh/aspose.cells.rendering/imageorprintoptions)

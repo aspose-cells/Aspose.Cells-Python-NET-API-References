@@ -3,13 +3,13 @@ title: title proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 600
+weight: 630
 url: /it/aspose.cells.charts/chart/title/
 is_root: false
 ---
 ##  title proprietà
 
-Ottiene title del grafico.
+Ottiene lo title del grafico.
 ###  Definizione:
 ```python
 @property
@@ -18,6 +18,6 @@ def title(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
-* classe [Title](/cells/python-net/it/aspose.cells.charts/title)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)
+* classe [`Title`](/cells/python-net/it/aspose.cells.charts/title)

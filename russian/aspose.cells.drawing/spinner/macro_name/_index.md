@@ -1,9 +1,9 @@
 ---
 title: macro_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 810
+weight: 820
 url: /ru/aspose.cells.drawing/spinner/macro_name/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def macro_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Spinner](/cells/python-net/ru/aspose.cells.drawing/spinner)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Spinner`](/cells/python-net/ru/aspose.cells.drawing/spinner)

@@ -1,9 +1,9 @@
 ---
 title: left_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 700
+weight: 710
 url: /ru/aspose.cells.drawing/commentshape/left_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.left_inch == 3:
-    shape.left_inch = 1
+    shape.left_inch = 1.0
 
 ```
 ###  Определение:
@@ -30,5 +30,5 @@ def left_inch(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CommentShape](/cells/python-net/ru/aspose.cells.drawing/commentshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CommentShape`](/cells/python-net/ru/aspose.cells.drawing/commentshape)

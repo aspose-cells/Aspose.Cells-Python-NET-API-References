@@ -3,13 +3,13 @@ title: link_target_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 480
+weight: 540
 url: /de/aspose.cells/htmlsaveoptions/link_target_type/
 is_root: false
 ---
 ##  link_target_type Eigentum
 
- Angabe des Typs des Zielattributs in<a> link,Der Standardwert ist HtmlLinkTargetType.Parent.
+Gibt den Typ des Zielattributs im Link `<a>` an. Der Standardwert ist HtmlLinkTargetType.Parent.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def link_target_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlLinkTargetType](/cells/python-net/de/aspose.cells/htmllinktargettype)
-* Klasse [HtmlSaveOptions](/cells/python-net/de/aspose.cells/htmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlLinkTargetType`](/cells/python-net/de/aspose.cells/htmllinktargettype)
+* Klasse [`HtmlSaveOptions`](/cells/python-net/de/aspose.cells/htmlsaveoptions)

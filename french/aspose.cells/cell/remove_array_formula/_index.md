@@ -1,14 +1,14 @@
 ---
-title: remove_array_formula méthode
+title: méthode remove_array_formula
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 280
+weight: 290
 url: /fr/aspose.cells/cell/remove_array_formula/
 is_root: false
 ---
-##  remove_array_formula(leave_normal_formula) {#bool}
-Supprimer la formule matricielle.
+##  remove_array_formula {#bool}
+Supprimez la formule matricielle.
 
 
 
@@ -25,5 +25,5 @@ def remove_array_formula(self, leave_normal_formula):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)

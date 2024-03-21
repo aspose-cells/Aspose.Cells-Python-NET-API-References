@@ -1,15 +1,15 @@
 ---
-title: upper_left_column 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: upper_left_column属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /zh/aspose.cells.drawing/dialogbox/upper_left_column/
 is_root: false
 ---
-## upper_left_column 属性
+## upper_left_column属性
 
-表示左上角的列索引。
+表示左上角列索引。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [DialogBox](/cells/python-net/zh/aspose.cells.drawing/dialogbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`DialogBox`](/cells/python-net/zh/aspose.cells.drawing/dialogbox)

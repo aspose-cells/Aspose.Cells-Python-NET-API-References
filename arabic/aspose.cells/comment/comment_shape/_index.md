@@ -1,15 +1,15 @@
 ---
-title: comment_shape الملكية
+title: comment_shape عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells/comment/comment_shape/
 is_root: false
 ---
-##  comment_shape الملكية
+##  comment_shape عقار
 
-احصل على كائن الشكل الذي يمثل الشكل المرفق بالتعليق المحدد.
+احصل على كائن شكل يمثل الشكل المرفق بالتعليق المحدد.
 
 ###  مثال
 
@@ -28,6 +28,6 @@ def comment_shape(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
-* فئة [CommentShape](/cells/python-net/ar/aspose.cells.drawing/commentshape)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)
+* فئة [`CommentShape`](/cells/python-net/ar/aspose.cells.drawing/commentshape)

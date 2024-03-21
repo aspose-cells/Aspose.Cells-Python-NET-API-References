@@ -1,9 +1,9 @@
 ---
 title: PrintingPageType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2410
+weight: 2500
 url: /ru/aspose.cells/printingpagetype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип PrintingPageType предоставляет следующие члены:
+Тип PrintingPageType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DEFAULT | Распечатывает все страницы.|
-| IGNORE_BLANK | Не печатайте страницы, ячейки которых пусты.|
-| IGNORE_STYLE |Не печатайте страницы, ячейки которых содержат только стили.|
+| DEFAULT | Печатает все страницы.|
+| IGNORE_BLANK | Не распечатывайте страницы, ячейки которых пусты.|
+| IGNORE_STYLE | Не печатайте страницы, ячейки которых содержат только стили.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

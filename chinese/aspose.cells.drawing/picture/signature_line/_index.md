@@ -1,13 +1,13 @@
 ---
-title: signature_line 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: signature_line属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /zh/aspose.cells.drawing/picture/signature_line/
 is_root: false
 ---
-## signature_line 属性
+## signature_line属性
 
 获取和设置签名行
 
@@ -46,6 +46,6 @@ def signature_line(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Picture](/cells/python-net/zh/aspose.cells.drawing/picture)
-* 类 [SignatureLine](/cells/python-net/zh/aspose.cells.drawing/signatureline)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)
+* 类 [`SignatureLine`](/cells/python-net/zh/aspose.cells.drawing/signatureline)

@@ -1,15 +1,15 @@
 ---
-title: is_exp_image_to_temp_dir الملكية
+title: is_exp_image_to_temp_dir عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 480
 url: /ar/aspose.cells/htmlsaveoptions/is_exp_image_to_temp_dir/
 is_root: false
 ---
-##  is_exp_image_to_temp_dir الملكية
+##  is_exp_image_to_temp_dir عقار
 
-يشير إلى ما إذا كان يتم تصدير ملفات الصور إلى دليل مؤقت.
+يشير إلى ما إذا كان سيتم تصدير ملفات الصور إلى الدليل المؤقت.
 فقط للحفظ في دفق HTML.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def is_exp_image_to_temp_dir(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

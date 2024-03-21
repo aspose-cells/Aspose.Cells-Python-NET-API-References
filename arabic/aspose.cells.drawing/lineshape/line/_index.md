@@ -1,13 +1,13 @@
 ---
-title: line الملكية
+title: line عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 770
+weight: 780
 url: /ar/aspose.cells.drawing/lineshape/line/
 is_root: false
 ---
-##  line الملكية
+##  line عقار
 
 يحصل على نمط line
 
@@ -26,6 +26,6 @@ def line(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
-* فئة [LineShape](/cells/python-net/ar/aspose.cells.drawing/lineshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* فئة [`LineShape`](/cells/python-net/ar/aspose.cells.drawing/lineshape)

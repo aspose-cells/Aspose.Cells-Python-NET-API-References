@@ -3,7 +3,7 @@ title: page_count Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 180
+weight: 190
 url: /de/aspose.cells/paginatedsaveoptions/page_count/
 is_root: false
 ---
@@ -13,11 +13,11 @@ Ruft die Anzahl der zu speichernden Seiten ab oder legt diese fest.
 
 ###  Bemerkungen
 
-Standard ist System.Int32.MaxValue, was bedeutet, dass alle Seiten gerendert werden.
+Der Standardwert ist System.Int32.MaxValue, was bedeutet, dass alle Seiten gerendert werden.
 
 ###  Beispiel
 
-Das folgende Beispiel zeigt, wie ein Seitenbereich (3 und 4) in einer Microsoft-Excel-Datei in PDF gerendert wird.
+Das folgende Beispiel zeigt, wie ein Seitenbereich (3 und 4) in einer Excel-Datei Microsoft in PDF gerendert wird.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -45,5 +45,5 @@ def page_count(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PaginatedSaveOptions](/cells/python-net/de/aspose.cells/paginatedsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PaginatedSaveOptions`](/cells/python-net/de/aspose.cells/paginatedsaveoptions)

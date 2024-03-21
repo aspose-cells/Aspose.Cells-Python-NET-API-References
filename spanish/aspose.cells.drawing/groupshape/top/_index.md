@@ -3,7 +3,7 @@ title: top propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /es/aspose.cells.drawing/groupshape/top/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def top(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)

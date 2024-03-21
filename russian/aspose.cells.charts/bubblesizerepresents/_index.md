@@ -1,26 +1,26 @@
 ---
 title: BubbleSizeRepresents перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 390
+weight: 400
 url: /ru/aspose.cells.charts/bubblesizerepresents/
 is_root: false
 ---
 ##  BubbleSizeRepresents перечисление
-Представляет то, что представляет размер пузырька на пузырьковой диаграмме.
+Обозначает размер пузырька на пузырьковой диаграмме.
 
 
 
-Тип BubbleSizeRepresents предоставляет следующие члены:
+Тип BubbleSizeRepresents предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| SIZE_IS_AREA | Представляет значение [Series.bubble_sizes](/cells/python-net/ru/aspose.cells.charts/series#bubble_sizes) — площадь пузырька.|
-| SIZE_IS_WIDTH | Представляет значение [Series.bubble_sizes](/cells/python-net/ru/aspose.cells.charts/series#bubble_sizes) ширины пузырька.|
+| SIZE_IS_AREA | Представляет значение [`Series.bubble_sizes`](/cells/python-net/ru/aspose.cells.charts/series#bubble_sizes) — площадь пузырька.|
+| SIZE_IS_WIDTH | Представляет значение [`Series.bubble_sizes`](/cells/python-net/ru/aspose.cells.charts/series#bubble_sizes) — ширину пузырька.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

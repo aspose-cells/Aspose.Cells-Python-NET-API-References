@@ -3,7 +3,7 @@ title: CategoryType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 400
+weight: 410
 url: /de/aspose.cells.charts/categorytype/
 is_root: false
 ---
@@ -17,11 +17,11 @@ Der Typ CategoryType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| AUTOMATIC_SCALE | Automatische Skalierung|
-| CATEGORY_SCALE | KategorieSkala|
+| AUTOMATIC_SCALE | AutomaticScale|
+| CATEGORY_SCALE | CategoryScale|
 | TIME_SCALE | Zeitstrahl|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

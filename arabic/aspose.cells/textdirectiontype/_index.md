@@ -1,18 +1,18 @@
 ---
-title: العد TextDirectionType
+title: TextDirectionType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2550
+weight: 2640
 url: /ar/aspose.cells/textdirectiontype/
 is_root: false
 ---
-##  العد TextDirectionType
+##  TextDirectionType التعداد
 يمثل اتجاه تدفق النص لهذه الفقرة.
 
 
 
-يكشف نوع TextDirectionType الأعضاء التالية:
+يكشف النوع TextDirectionType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

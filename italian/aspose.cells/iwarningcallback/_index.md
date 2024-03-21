@@ -1,25 +1,25 @@
 ---
-title: classe IWarningCallback
+title: IWarningCallback classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 880
+weight: 920
 url: /it/aspose.cells/iwarningcallback/
 is_root: false
 ---
-##  classe IWarningCallback
+##  IWarningCallback classe
 Interfaccia di richiamata di avviso.
 
 
 
-Il tipo IWarningCallback espone i membri seguenti:
+Il tipo IWarningCallback espone i seguenti membri:
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [warning(warning_info)](/cells/python-net/it/aspose.cells/iwarningcallback/warning/#WarningInfo) | Il nostro callback deve solo implementare il metodo "Warning".|
+| [warning](/cells/python-net/it/aspose.cells/iwarningcallback/warning/#aspose.cells.WarningInfo) | La nostra callback deve solo implementare il metodo "Warning".|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

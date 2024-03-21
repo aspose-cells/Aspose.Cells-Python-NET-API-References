@@ -1,16 +1,16 @@
 ---
-title: parsing_pivot_cached_records 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: parsing_pivot_cached_records属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 280
+weight: 330
 url: /zh/aspose.cells/txtloadoptions/parsing_pivot_cached_records/
 is_root: false
 ---
-## parsing_pivot_cached_records 属性
+## parsing_pivot_cached_records属性
 
-指示加载文件时是否解析枢轴缓存记录。
-默认值为假。
+指示加载文件时解析数据透视表是否缓存记录。
+默认值为 false。
 
 ### 评论
 
@@ -26,5 +26,5 @@ def parsing_pivot_cached_records(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [TxtLoadOptions](/cells/python-net/zh/aspose.cells/txtloadoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`TxtLoadOptions`](/cells/python-net/zh/aspose.cells/txtloadoptions)

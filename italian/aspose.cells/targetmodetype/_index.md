@@ -1,18 +1,18 @@
 ---
-title: TargetModeType enumerazione
+title: Enumerazione TargetModeType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2510
+weight: 2600
 url: /it/aspose.cells/targetmodetype/
 is_root: false
 ---
-##  TargetModeType enumerazione
+##  Enumerazione TargetModeType
 Rappresenta il tipo di modalità di destinazione.
 
 
 
-Il tipo TargetModeType espone i membri seguenti:
+Il tipo TargetModeType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -20,9 +20,9 @@ Il tipo TargetModeType espone i membri seguenti:
 | EXTERNAL | Link esterno|
 | FILE_PATH | Percorsi locali e completi di file o cartelle.|
 | EMAIL | E-mail.|
-| CELL_REFERENCE | Collegamento su cella o intervallo denominato.|
+| CELL_REFERENCE | Collegamento sulla cella o sull'intervallo denominato.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

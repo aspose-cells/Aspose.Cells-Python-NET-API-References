@@ -1,15 +1,15 @@
 ---
-title: height_in_shape 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: height_in_shape属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 440
+weight: 450
 url: /zh/aspose.cells.drawing/dialogbox/height_in_shape/
 is_root: false
 ---
-## height_in_shape 属性
+## height_in_shape属性
 
-表示形状相对于父形状上边框的垂直偏移量，以父形状高度的 1/4000 为单位。
+表示形状相对于父形状上边框的垂直偏移量，单位为父形状高度的1/4000。
 
 ### 评论
 
@@ -19,8 +19,8 @@ is_root: false
 
 ```python
 
-if shape.upper_delta_y == 4000:
-    shape.upper_delta_y = 2000
+if shape.is_in_group and shape.height_in_shape == 4000:
+    shape.height_in_shape = 2000
 
 ```
 ### 定义：
@@ -34,5 +34,5 @@ def height_in_shape(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [DialogBox](/cells/python-net/zh/aspose.cells.drawing/dialogbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`DialogBox`](/cells/python-net/zh/aspose.cells.drawing/dialogbox)

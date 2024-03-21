@@ -3,13 +3,13 @@ title: top_to_corner Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /de/aspose.cells.drawing/combobox/top_to_corner/
 is_root: false
 ---
 ##  top_to_corner Eigentum
 
-Ruft den vertikalen Versatz der Form vom oberen Rand des Arbeitsblatts in Pixeleinheiten ab und legt diesen fest.
+Ruft den vertikalen Versatz der Form vom oberen Rand des Arbeitsblatts in Pixeleinheiten ab und legt ihn fest.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ComboBox](/cells/python-net/de/aspose.cells.drawing/combobox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ComboBox`](/cells/python-net/de/aspose.cells.drawing/combobox)

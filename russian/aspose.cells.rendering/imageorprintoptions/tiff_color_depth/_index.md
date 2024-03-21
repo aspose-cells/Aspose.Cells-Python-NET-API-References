@@ -1,9 +1,9 @@
 ---
 title: tiff_color_depth недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 340
+weight: 360
 url: /ru/aspose.cells.rendering/imageorprintoptions/tiff_color_depth/
 is_root: false
 ---
@@ -13,8 +13,8 @@ is_root: false
 
 ###  Примечания
 
-Действует только при сохранении на TIFF.
-Если для TiffCompression установлено значение CCITT3, CCITT4, это не сработает, битовая глубина сгенерированного изображения tiff всегда будет равна 1.
+Действует только при сохранении на номер TIFF.
+Если для TiffCompression установлено значение CCITT3, CCITT4, это не подействует, разрядность сгенерированного изображения Tiff всегда будет равна 1.
 ###  Определение:
 ```python
 @property
@@ -26,6 +26,6 @@ def tiff_color_depth(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ColorDepth](/cells/python-net/ru/aspose.cells.rendering/colordepth)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ColorDepth`](/cells/python-net/ru/aspose.cells.rendering/colordepth)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)

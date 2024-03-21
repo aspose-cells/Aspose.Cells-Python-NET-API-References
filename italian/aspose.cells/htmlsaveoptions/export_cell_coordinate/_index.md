@@ -3,14 +3,14 @@ title: export_cell_coordinate proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 170
+weight: 190
 url: /it/aspose.cells/htmlsaveoptions/export_cell_coordinate/
 is_root: false
 ---
 ##  export_cell_coordinate proprietà
 
-Indica se esportare coordinate Excel di celle non vuote durante il salvataggio del file in html. Il valore predefinito è falso.
-Se desideri importare l'output html in Excel, mantieni il valore predefinito.
+Indica se esportare le coordinate Excel delle celle non vuote durante il salvataggio del file in html. Il valore predefinito è falso.
+Se desideri importare l'HTML di output in Excel, mantieni il valore predefinito.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def export_cell_coordinate(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/it/aspose.cells/htmlsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/it/aspose.cells/htmlsaveoptions)

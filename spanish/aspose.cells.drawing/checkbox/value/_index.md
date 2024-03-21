@@ -3,7 +3,7 @@ title: value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /es/aspose.cells.drawing/checkbox/value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CheckBox](/cells/python-net/es/aspose.cells.drawing/checkbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CheckBox`](/cells/python-net/es/aspose.cells.drawing/checkbox)

@@ -3,11 +3,11 @@ title: set_input_range Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 190
 url: /de/aspose.cells.drawing/commentshape/set_input_range/
 is_root: false
 ---
-##  set_input_range(formula, is_r1c1, is_local) {#str-bool-bool}
+##  set_input_range {#str-bool-bool}
 Legt den Bereich fest, der zum Füllen des Steuerelements verwendet wird.
 
 
@@ -20,17 +20,15 @@ def set_input_range(self, formula, is_r1c1, is_local):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| formula | str | Der zum Füllen des Steuerelements verwendete Bereich.|
+| formula | str | Der Bereich, der zum Füllen des Steuerelements verwendet wird.|
 | is_r1c1 | bool | Ob die Formel als R1C1 formatiert werden muss.|
-| is_local | bool | Ob die Formel nach Gebietsschema formatiert werden muss.|
+| is_local | bool | Ob die Formel je nach Gebietsschema formatiert werden muss.|
 
 ###  Beispiel
 
 ```python
 
 # After executing the code below, a ListBox object is created in the generated file. When the selected option is clicked, the selected value is displayed in cell A12.
-# Initialize a new workbook.
-# Workbook book = new Workbook();
 for i in range(10):
     cell = book.worksheets[0].cells.get(i, 0)
     cell.value = i + 1
@@ -49,5 +47,5 @@ listBox.set_linked_cell("$A$12", False, True)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CommentShape](/cells/python-net/de/aspose.cells.drawing/commentshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CommentShape`](/cells/python-net/de/aspose.cells.drawing/commentshape)

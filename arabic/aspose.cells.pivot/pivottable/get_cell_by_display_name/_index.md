@@ -7,8 +7,8 @@ weight: 130
 url: /ar/aspose.cells.pivot/pivottable/get_cell_by_display_name/
 is_root: false
 ---
-##  get_cell_by_display_name(display_name) {#str}
-يحصل على العنصر Cell بواسطة DisplayName الخاص بـ PivotField
+##  get_cell_by_display_name {#str}
+يحصل على الكائن [`Cell`](/cells/python-net/ar/aspose.cells/cell) بواسطة اسم عرض PivotField.
 
 
 ###  عائدات
@@ -24,10 +24,11 @@ def get_cell_by_display_name(self, display_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| display_name | str | DisplayName الخاص بـ PivotField|
+| display_name | str | اسم العرض لـ PivotField|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

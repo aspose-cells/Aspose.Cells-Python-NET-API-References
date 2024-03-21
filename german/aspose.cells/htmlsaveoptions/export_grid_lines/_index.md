@@ -3,7 +3,7 @@ title: export_grid_lines Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 260
 url: /de/aspose.cells/htmlsaveoptions/export_grid_lines/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def export_grid_lines(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlSaveOptions](/cells/python-net/de/aspose.cells/htmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlSaveOptions`](/cells/python-net/de/aspose.cells/htmlsaveoptions)

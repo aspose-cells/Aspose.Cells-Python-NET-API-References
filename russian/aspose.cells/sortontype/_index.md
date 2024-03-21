@@ -1,18 +1,18 @@
 ---
 title: SortOnType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2480
+weight: 2570
 url: /ru/aspose.cells/sortontype/
 is_root: false
 ---
 ##  SortOnType перечисление
-Тип отсортированного значения.
+Тип сортированного значения.
 
 
 
-Тип SortOnType предоставляет следующие члены:
+Тип SortOnType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -25,4 +25,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

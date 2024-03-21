@@ -1,16 +1,16 @@
 ---
-title: horizontal_resolution الملكية
+title: horizontal_resolution عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ar/aspose.cells.rendering/imageorprintoptions/horizontal_resolution/
 is_root: false
 ---
-##  horizontal_resolution الملكية
+##  horizontal_resolution عقار
 
-الحصول على الدقة الأفقية أو ضبطها للصور المُنشأة ، بالنقاط في البوصة.
-يطبق طريقة إنشاء الصورة باستثناء الصور بتنسيق Emf.
+الحصول على أو تعيين الدقة الأفقية للصور التي تم إنشاؤها، بالنقاط في البوصة.
+يتم تطبيق طريقة إنشاء الصورة باستثناء الصور بتنسيق Emf.
 
 ###  ملاحظات
 
@@ -26,5 +26,5 @@ def horizontal_resolution(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

@@ -1,15 +1,15 @@
 ---
 title: alert_style недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells/validation/alert_style/
 is_root: false
 ---
 ##  alert_style недвижимость
 
-Представляет стиль оповещения о проверке.
+Представляет стиль оповещения проверки.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def alert_style(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Validation](/cells/python-net/ru/aspose.cells/validation)
-* класс [ValidationAlertType](/cells/python-net/ru/aspose.cells/validationalerttype)
+* модуль [`aspose.cells`](../../)
+* класс [`Validation`](/cells/python-net/ru/aspose.cells/validation)
+* класс [`ValidationAlertType`](/cells/python-net/ru/aspose.cells/validationalerttype)

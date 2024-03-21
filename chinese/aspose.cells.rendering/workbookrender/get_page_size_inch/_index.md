@@ -1,19 +1,19 @@
 ---
 title: get_page_size_inch方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 30
+weight: 40
 url: /zh/aspose.cells.rendering/workbookrender/get_page_size_inch/
 is_root: false
 ---
-##  get_page_size_inch(page_index) {#int}
-获取以英寸输出图像为单位的页面大小。
+##  get_page_size_inch {#int}
+获取输出图像的页面大小（以英寸为单位）。
 
 
-### 返回
+### 退货
 
-图片的页面大小，宽度为[0]，高度为[1]
+图像的页面大小，[0] 表示宽度，[1] 表示高度
 
 
 ```python
@@ -29,5 +29,5 @@ def get_page_size_inch(self, page_index):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](../../)
-* 类 [WorkbookRender](/cells/python-net/zh/aspose.cells.rendering/workbookrender)
+* 模块[`aspose.cells.rendering`](../../)
+* 类 [`WorkbookRender`](/cells/python-net/zh/aspose.cells.rendering/workbookrender)

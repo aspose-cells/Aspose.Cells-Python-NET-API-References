@@ -1,13 +1,13 @@
 ---
-title: is_visible 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_visible属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 260
 url: /zh/aspose.cells.charts/axis/is_visible/
 is_root: false
 ---
-## is_visible 属性
+## is_visible属性
 
 表示轴是否可见。
 ### 定义：
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)

@@ -1,15 +1,15 @@
 ---
-title: is_auto_show الملكية
+title: is_auto_show عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 380
 url: /ar/aspose.cells.pivot/pivotfield/is_auto_show/
 is_root: false
 ---
-##  is_auto_show الملكية
+##  is_auto_show عقار
 
-يشير إلى ما إذا كان حقل PivotTable المحدد معروضًا تلقائيًا ، وصالح فقط لـ Excel 2003.
+يشير إلى ما إذا كان سيتم عرض حقل PivotTable المحدد تلقائيًا أم لا، وهو صالح فقط لـ Excel 2003.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_show(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

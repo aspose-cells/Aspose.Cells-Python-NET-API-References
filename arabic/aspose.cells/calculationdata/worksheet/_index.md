@@ -1,13 +1,13 @@
 ---
-title: worksheet الملكية
+title: worksheet عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ar/aspose.cells/calculationdata/worksheet/
 is_root: false
 ---
-##  worksheet الملكية
+##  worksheet عقار
 
 الحصول على كائن ورقة العمل حيث توجد الوظيفة.
 ###  تعريف:
@@ -18,6 +18,6 @@ def worksheet(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CalculationData](/cells/python-net/ar/aspose.cells/calculationdata)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CalculationData`](/cells/python-net/ar/aspose.cells/calculationdata)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

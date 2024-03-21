@@ -3,7 +3,7 @@ title: line fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 820
+weight: 830
 url: /sv/aspose.cells.drawing/picture/line/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def line(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
-* klass [Picture](/cells/python-net/sv/aspose.cells.drawing/picture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* klass [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture)

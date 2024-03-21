@@ -1,22 +1,25 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 480
 url: /ar/aspose.cells.pivot/pivotfield/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-يمثل الحقل المحوري name.
+يمثل name من PivotField.
 ###  تعريف:
 ```python
 @property
 def name(self):
     ...
+@name.setter
+def name(self, value):
+    ...
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

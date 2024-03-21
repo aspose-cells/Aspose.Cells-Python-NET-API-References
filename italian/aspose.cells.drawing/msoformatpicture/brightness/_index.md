@@ -3,7 +3,7 @@ title: brightness proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 40
+weight: 50
 url: /it/aspose.cells.drawing/msoformatpicture/brightness/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def brightness(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [MsoFormatPicture](/cells/python-net/it/aspose.cells.drawing/msoformatpicture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`MsoFormatPicture`](/cells/python-net/it/aspose.cells.drawing/msoformatpicture)

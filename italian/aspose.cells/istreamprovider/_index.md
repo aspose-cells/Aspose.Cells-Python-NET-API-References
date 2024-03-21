@@ -1,26 +1,26 @@
 ---
-title: classe IStreamProvider
+title: IStreamProvider classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 870
+weight: 910
 url: /it/aspose.cells/istreamprovider/
 is_root: false
 ---
-##  classe IStreamProvider
+##  IStreamProvider classe
 Rappresenta il provider del flusso esportato.
 
 
 
-Il tipo IStreamProvider espone i membri seguenti:
+Il tipo IStreamProvider espone i seguenti membri:
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [init_stream(options)](/cells/python-net/it/aspose.cells/istreamprovider/init_stream/#StreamProviderOptions) | Ottiene il flusso.|
-| [close_stream(options)](/cells/python-net/it/aspose.cells/istreamprovider/close_stream/#StreamProviderOptions) | Chiude il flusso.|
+| [init_stream](/cells/python-net/it/aspose.cells/istreamprovider/init_stream/#aspose.cells.StreamProviderOptions) | Ottiene il flusso.|
+| [close_stream](/cells/python-net/it/aspose.cells/istreamprovider/close_stream/#aspose.cells.StreamProviderOptions) | Chiude il flusso.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

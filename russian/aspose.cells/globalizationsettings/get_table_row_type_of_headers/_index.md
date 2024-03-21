@@ -1,18 +1,18 @@
 ---
 title: get_table_row_type_of_headers метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ru/aspose.cells/globalizationsettings/get_table_row_type_of_headers/
 is_root: false
 ---
-##  get_table_row_type_of_headers() {#}
+##  get_table_row_type_of_headers {#}
 Получает имя типа строк таблицы, состоящее из заголовка таблицы.
-По умолчанию используется «Заголовки», поэтому в формуле «#Заголовки» представляет собой заголовок таблицы.
+По умолчанию используется «Заголовки», поэтому в формуле «#Заголовки» представляют собой заголовок таблицы.
 
 
-###  Возвращает
+###  Возврат
 
 имя типа строк таблицы
 
@@ -27,5 +27,5 @@ def get_table_row_type_of_headers(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GlobalizationSettings](/cells/python-net/ru/aspose.cells/globalizationsettings)
+* модуль [`aspose.cells`](../../)
+* класс [`GlobalizationSettings`](/cells/python-net/ru/aspose.cells/globalizationsettings)

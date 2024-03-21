@@ -3,7 +3,7 @@ title: left propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 660
+weight: 670
 url: /es/aspose.cells.drawing/button/left/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def left(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Button](/cells/python-net/es/aspose.cells.drawing/button)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Button`](/cells/python-net/es/aspose.cells.drawing/button)

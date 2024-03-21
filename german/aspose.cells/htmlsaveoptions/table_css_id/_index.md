@@ -3,14 +3,14 @@ title: table_css_id Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 610
+weight: 680
 url: /de/aspose.cells/htmlsaveoptions/table_css_id/
 is_root: false
 ---
 ##  table_css_id Eigentum
 
- Ruft das Präfix des Typs CSS-Namen ab und legt es fest, z. B. tr, col, td usw. Sie sind im Tabellenelement enthalten
-die das spezifische TableCssId-Attribut hat. Der Standardwert ist "".
+ Ruft das Präfix des Typ-CSS-Namens wie tr,col,td usw. ab und legt es fest. Sie sind im Tabellenelement enthalten
+welches über das spezifische TableCssId-Attribut verfügt. Der Standardwert ist „“.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def table_css_id(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlSaveOptions](/cells/python-net/de/aspose.cells/htmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlSaveOptions`](/cells/python-net/de/aspose.cells/htmlsaveoptions)

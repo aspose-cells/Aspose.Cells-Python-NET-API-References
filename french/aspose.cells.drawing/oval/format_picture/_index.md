@@ -3,7 +3,7 @@ title: format_picture propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 370
+weight: 380
 url: /fr/aspose.cells.drawing/oval/format_picture/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def format_picture(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [MsoFormatPicture](/cells/python-net/fr/aspose.cells.drawing/msoformatpicture)
-* classe [Oval](/cells/python-net/fr/aspose.cells.drawing/oval)
+* module [`aspose.cells.drawing`](../../)
+* classe [`MsoFormatPicture`](/cells/python-net/fr/aspose.cells.drawing/msoformatpicture)
+* classe [`Oval`](/cells/python-net/fr/aspose.cells.drawing/oval)

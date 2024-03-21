@@ -3,13 +3,13 @@ title: is_threaded_comment mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 160
 url: /tr/aspose.cells/comment/is_threaded_comment/
 is_root: false
 ---
 ##  is_threaded_comment mülk
 
-Bu yorumun zincirleme bir yorum olup olmadığını gösterir.
+Bu yorumun zincirlenmiş bir yorum olup olmadığını belirtir.
 
 ###  Örnek
 
@@ -27,5 +27,5 @@ def is_threaded_comment(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)

@@ -1,15 +1,15 @@
 ---
 title: three_d_format недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /ru/aspose.cells.drawing/groupshape/three_d_format/
 is_root: false
 ---
 ##  three_d_format недвижимость
 
-Получает и задает 3D-формат фигуры.
+Получает и устанавливает 3D-формат фигуры.
 
 ###  Пример
 
@@ -26,6 +26,6 @@ def three_d_format(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GroupShape](/cells/python-net/ru/aspose.cells.drawing/groupshape)
-* класс [ThreeDFormat](/cells/python-net/ru/aspose.cells.drawing/threedformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GroupShape`](/cells/python-net/ru/aspose.cells.drawing/groupshape)
+* класс [`ThreeDFormat`](/cells/python-net/ru/aspose.cells.drawing/threedformat)

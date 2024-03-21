@@ -3,12 +3,12 @@ title: FontSourceBase clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 680
+weight: 710
 url: /es/aspose.cells/fontsourcebase/
 is_root: false
 ---
 ##  FontSourceBase clase
-Esta es una clase base abstracta para las clases que permiten al usuario especificar varias fuentes de fuentes
+Esta es una clase base abstracta para las clases que permiten al usuario especificar varias fuentes de fuentes.
 
 
 
@@ -17,9 +17,9 @@ El tipo FontSourceBase expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [type](/cells/python-net/es/aspose.cells/fontsourcebase/type) | Devuelve el tipo de la fuente de fuente.|
+| [type](/cells/python-net/es/aspose.cells/fontsourcebase/type) | Devuelve el tipo de fuente de fuente.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

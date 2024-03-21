@@ -1,15 +1,15 @@
 ---
-title: left الملكية
+title: left عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 360
 url: /ar/aspose.cells/range/left/
 is_root: false
 ---
-##  left الملكية
+##  left عقار
 
-الحصول على المسافة ، بالنقاط ، من left حافة العمود A إلى left حافة النطاق.
+يحصل على المسافة، بالنقاط، من حافة العمود left إلى حافة النطاق left.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def left(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

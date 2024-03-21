@@ -1,15 +1,15 @@
 ---
-title: y 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: y属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1410
+weight: 1420
 url: /zh/aspose.cells.drawing/oleobject/y/
 is_root: false
 ---
-## y 属性
+## y属性
 
-获取和设置形状相对于工作表上边框的垂直偏移量，以像素为单位。
+获取和设置形状距工作表上边框的垂直偏移量（以像素为单位）。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [OleObject](/cells/python-net/zh/aspose.cells.drawing/oleobject)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`OleObject`](/cells/python-net/zh/aspose.cells.drawing/oleobject)

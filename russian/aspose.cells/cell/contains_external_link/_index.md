@@ -1,9 +1,9 @@
 ---
 title: contains_external_link недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 410
+weight: 430
 url: /ru/aspose.cells/cell/contains_external_link/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def contains_external_link(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

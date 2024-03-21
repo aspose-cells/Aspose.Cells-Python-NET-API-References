@@ -3,12 +3,12 @@ title: طريقة ungroup_rows
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 960
+weight: 950
 url: /ar/aspose.cells/cells/ungroup_rows/
 is_root: false
 ---
-##  ungroup_rows(first_index, last_index) {#int-int}
-يفك تجميع الصفوف.
+##  ungroup_rows {#int-int}
+فك تجميع الصفوف.
 
 
 
@@ -26,9 +26,9 @@ def ungroup_rows(self, first_index, last_index):
 
 يزيل فقط معلومات المجموعة الخارجية.
 
-##  ungroup_rows(first_index, last_index, is_all) {#int-int-bool}
+##  ungroup_rows {#int-int-bool}
 
-يفك تجميع الصفوف.
+فك تجميع الصفوف.
 
 
 
@@ -42,10 +42,10 @@ def ungroup_rows(self, first_index, last_index, is_all):
 | :- | :- | :- |
 | first_index | int | فهرس الصف الأول المراد فك تجميعه.|
 | last_index | int | فهرس الصف الأخير المراد فك تجميعه.|
-| is_all | bool | صواب ، يزيل كل المعلومات المجمعة ، وإلا أزل معلومات المجموعة الخارجية.|
+| is_all | bool |صحيح، يزيل كافة المعلومات المجمعة. وإلا، قم بإزالة معلومات المجموعة الخارجية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

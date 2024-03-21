@@ -1,9 +1,9 @@
 ---
 title: number_format недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ru/aspose.cells.charts/ticklabels/number_format/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Строка форматирования аналогична настройке строки пользовательского формата для ячейки. Например, "$0".
+Строка форматирования аналогична настройке строки пользовательского формата для ячейки. Например, «$0».
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def number_format(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [TickLabels](/cells/python-net/ru/aspose.cells.charts/ticklabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`TickLabels`](/cells/python-net/ru/aspose.cells.charts/ticklabels)

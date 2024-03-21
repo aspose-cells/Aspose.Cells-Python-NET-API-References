@@ -1,14 +1,14 @@
 ---
-title: metodo to_tiff
+title: Metodo to_tiff
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 60
+weight: 70
 url: /it/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff(stream) {#io.RawIOBase}
-Renderizza l'intero foglio di lavoro come immagine Tiff per lo streaming.
+##  to_tiff {#io.RawIOBase}
+Visualizza l'intero foglio di lavoro come immagine Tiff per lo streaming.
 
 
 
@@ -23,8 +23,8 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase | il flusso dell'immagine di output|
 
 
-##  to_tiff(filename) {#str}
-Renderizza l'intero foglio di lavoro come immagine Tiff in un file.
+##  to_tiff {#str}
+Visualizza l'intero foglio di lavoro come immagine Tiff in un file.
 
 
 
@@ -36,11 +36,11 @@ def to_tiff(self, filename):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| filename | str | il nome del file dell'immagine di output|
+| filename | str | il nome file dell'immagine di output|
 
 ###  Esempio
 
-Il codice seguente emette tutte le pagine del primo foglio nell'immagine Tiff.
+Il codice seguente restituisce tutte le pagine del primo foglio all'immagine Tiff.
 
 ```python
 from aspose.cells import SaveFormat, Workbook
@@ -61,5 +61,5 @@ sr.to_tiff("output.tiff")
 
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [SheetRender](/cells/python-net/it/aspose.cells.rendering/sheetrender)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`SheetRender`](/cells/python-net/it/aspose.cells.rendering/sheetrender)

@@ -1,42 +1,54 @@
 ---
-title: ExportTableOptions الدرجة
+title: ExportTableOptions صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 550
+weight: 580
 url: /ar/aspose.cells/exporttableoptions/
 is_root: false
 ---
-##  ExportTableOptions الدرجة
+##  ExportTableOptions صف
 يمثل جميع خيارات جدول التصدير.
 
 
 
-يكشف نوع ExportTableOptions الأعضاء التالية:
+يكشف النوع ExportTableOptions عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [ExportTableOptions()](/cells/python-net/ar/aspose.cells/exporttableoptions/__init__/#) | إنشاء مثيل جديد من ExportTableOptions|
+| [__init__](/cells/python-net/ar/aspose.cells/exporttableoptions/__init__/#) | إنشاء مثيل جديد لـ ExportTableOptions|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [export_column_name](/cells/python-net/ar/aspose.cells/exporttableoptions/export_column_name) |الإشارة إلى ما إذا كان سيتم تصدير البيانات الموجودة في الصف الأول إلى اسم عمود DataTable.<br/> القيمة الافتراضية هي كاذبة.|
-| [skip_error_value](/cells/python-net/ar/aspose.cells/exporttableoptions/skip_error_value) | يشير إلى ما إذا كان يتم تخطي قيمة غير صالحة للعمود.<br/> على سبيل المثال ، إذا كان نوع العمود عشريًا ، فإن القيمة أكبر من القيمة العشرية<br/>وهذه الخاصية صحيحة ولن نرفض الاستثناء مرة أخرى.<br/> القيمة الافتراضية هي كاذبة.|
-| [plot_visible_cells](/cells/python-net/ar/aspose.cells/exporttableoptions/plot_visible_cells) | يصدر فقط الخلايا المرئية.|
-| [plot_visible_rows](/cells/python-net/ar/aspose.cells/exporttableoptions/plot_visible_rows) | تصدر الصفوف المرئية فقط.|
-| [plot_visible_columns](/cells/python-net/ar/aspose.cells/exporttableoptions/plot_visible_columns) | تصدر الأعمدة المرئية فقط.|
-| [export_as_string](/cells/python-net/ar/aspose.cells/exporttableoptions/export_as_string) | يصدر قيمة سلسلة الخلايا إلى DataTable.|
-| [export_as_html_string](/cells/python-net/ar/aspose.cells/exporttableoptions/export_as_html_string) | يصدر قيمة سلسلة html للخلايا إلى DataTable.|
+| [export_column_name](/cells/python-net/ar/aspose.cells/exporttableoptions/export_column_name) | الإشارة إلى ما إذا كان سيتم تصدير البيانات الموجودة في الصف الأول إلى اسم عمود DataTable.<br/> القيمة الافتراضية هي كاذبة.|
+| [skip_error_value](/cells/python-net/ar/aspose.cells/exporttableoptions/skip_error_value) | يشير إلى ما إذا كان تخطي قيمة غير صالحة للعمود.<br/> على سبيل المثال، إذا كان نوع العمود عشريًا، فستكون القيمة أكبر من decimal.MaxValue<br/>وهذه الخاصية صحيحة، ولن نطرح استثناءً مرة أخرى.<br/> القيمة الافتراضية هي كاذبة.|
+| [plot_visible_cells](/cells/python-net/ar/aspose.cells/exporttableoptions/plot_visible_cells) | تصدير الخلايا المرئية فقط.|
+| [plot_visible_rows](/cells/python-net/ar/aspose.cells/exporttableoptions/plot_visible_rows) | تصدير الصفوف المرئية فقط.|
+| [plot_visible_columns](/cells/python-net/ar/aspose.cells/exporttableoptions/plot_visible_columns) | تصدير الأعمدة المرئية فقط.|
+| [export_as_string](/cells/python-net/ar/aspose.cells/exporttableoptions/export_as_string) | تصدير قيمة سلسلة الخلايا إلى DataTable.|
+| [export_as_html_string](/cells/python-net/ar/aspose.cells/exporttableoptions/export_as_html_string) | تصدير قيمة سلسلة html للخلايا إلى DataTable.|
 | [format_strategy](/cells/python-net/ar/aspose.cells/exporttableoptions/format_strategy) | الحصول على استراتيجية التنسيق وتعيينها عند تصدير القيمة كقيمة سلسلة.|
-| [check_mixed_value_type](/cells/python-net/ar/aspose.cells/exporttableoptions/check_mixed_value_type) | خطأ ، سيقوم Aspose.Cells بتعيين نوع DataColumn بواسطة نوع قيمة الصف الأول للأداء.<br/> صحيح ، سيتحقق Aspose.Cells مما إذا كان نوع القيمة في العمود مختلطًا قبل تعيين نوع DataColumn<br/> ونوع القيمة مختلط ، سيكون نوع DataColumn عبارة عن سلسلة.|
-| [is_vertical](/cells/python-net/ar/aspose.cells/exporttableoptions/is_vertical) | صواب إذا كان أحد الصفوف في ملف المصنف يمثل صفًا في DataTable. خطأ إذا كان أحد الأعمدة في ملف المصنف يمثل صفًا في DataTable.|
-| [indexes](/cells/python-net/ar/aspose.cells/exporttableoptions/indexes) | فهارس الأعمدة / الصفوف التي يجب تصديرها للخارج.|
-| [rename_strategy](/cells/python-net/ar/aspose.cells/exporttableoptions/rename_strategy) | استراتيجية لتكرار أسماء الأعمدة.|
+| [check_mixed_value_type](/cells/python-net/ar/aspose.cells/exporttableoptions/check_mixed_value_type) | خطأ، Aspose.Cells سيقوم بتعيين نوع DataColumn حسب نوع قيمة الصف الأول للأداء.<br/> صحيح، Aspose.Cells سيتحقق مما إذا كان نوع القيمة في العمود مختلطًا قبل تعيين نوع DataColumn<br/>ونوع القيمة مختلط، وسيكون نوع DataColumn عبارة عن سلسلة.|
+| [allow_db_null](/cells/python-net/ar/aspose.cells/exporttableoptions/allow_db_null) | تشير هذه القيمة إلى ما إذا كان DBNulls مسموحًا به في هذا الجدول.|
+| [is_vertical](/cells/python-net/ar/aspose.cells/exporttableoptions/is_vertical) | صحيح إذا كان الصف الموجود في ملف المصنف يمثل صفًا في DataTable. خطأ إذا كان العمود الموجود في ملف المصنف يمثل صفًا في DataTable.|
+| [indexes](/cells/python-net/ar/aspose.cells/exporttableoptions/indexes) | فهارس الأعمدة/الصفوف التي يجب تصديرها.|
+| [rename_strategy](/cells/python-net/ar/aspose.cells/exporttableoptions/rename_strategy) | استراتيجية لأسماء الأعمدة المكررة.|
 
 
+###  طُرق
+| طريقة| وصف|
+| :- | :- |
+| [preprocess_exported_value](/cells/python-net/ar/aspose.cells/exporttableoptions/preprocess_exported_value/#int-int-aspose.cells.CellValue) | المعالجة المسبقة لقيمة الخلية الحالية المراد تصديرها.|
+
+
+
+###  ملاحظات
+
+إذا كانت هناك بعض المتطلبات الخاصة حول التصدير، مثل تجاهل قيم الخطأ، فيمكن للمستخدم توسيع هذه الفئة
+للكتابة فوق واجهات برمجة التطبيقات المقابلة لتحقيق الهدف.
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

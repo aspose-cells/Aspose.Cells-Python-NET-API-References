@@ -3,7 +3,7 @@ title: pixel_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 250
 url: /sv/aspose.cells.rendering/imageorprintoptions/pixel_format/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def pixel_format(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)

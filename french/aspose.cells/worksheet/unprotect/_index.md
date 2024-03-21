@@ -1,14 +1,14 @@
 ---
-title: unprotect méthode
+title: méthode unprotect
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 300
+weight: 320
 url: /fr/aspose.cells/worksheet/unprotect/
 is_root: false
 ---
-##  unprotect() {#}
-Déprotége la feuille de calcul.
+##  unprotect {#}
+Déprotège la feuille de calcul.
 
 
 
@@ -20,11 +20,11 @@ def unprotect(self):
 
 ###  Remarques
 
-Cette méthode déprotége la feuille de calcul qui est protégée sans mot de passe.
+Cette méthode déprotège la feuille de calcul qui est protégée sans mot de passe.
 
-##  unprotect(password) {#str}
+##  unprotect {#str}
 
-Déprotége la feuille de calcul.
+Déprotège la feuille de calcul.
 
 
 
@@ -44,5 +44,5 @@ Si la feuille de calcul est protégée sans mot de passe, vous pouvez définir u
 
 ###  Voir également
 
-* module [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

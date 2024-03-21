@@ -3,18 +3,18 @@ title: formula mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 460
+weight: 490
 url: /tr/aspose.cells/cell/formula/
 is_root: false
 ---
 ##  formula mülk
 
-[Cell](/cells/python-net/tr/aspose.cells/cell)'in formula'ini alır veya ayarlar.
+[`Cell`](/cells/python-net/tr/aspose.cells/cell)'in formula'ini alır veya ayarlar.
 
 ###  Notlar
 
  formula dizesi her zaman eşittir işaretiyle (=) başlar.
-Ve lütfen "=SUM(A1, E1, H2)" gibi parametre ayırıcı olarak her zaman virgül(,) kullanın.
+Ve lütfen parametre sınırlayıcı olarak her zaman virgül(,) kullanın, örneğin "=TOPLA(A1, E1, H2)".
 
 ###  Örnek
 
@@ -37,5 +37,5 @@ def formula(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

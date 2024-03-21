@@ -3,13 +3,13 @@ title: original_width_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 960
+weight: 970
 url: /tr/aspose.cells.drawing/picture/original_width_cm/
 is_root: false
 ---
 ##  original_width_cm mülk
 
-Resmin orijinal genişliğini santimetre cinsinden alır.
+Resmin orijinal genişliğini santimetre birimi cinsinden alır.
 
 ###  Örnek
 
@@ -37,5 +37,5 @@ def original_width_cm(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)

@@ -3,7 +3,7 @@ title: ChartDataTable sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 70
 url: /tr/aspose.cells.charts/chartdatatable/
 is_root: false
 ---
@@ -12,19 +12,19 @@ Bir grafik veri tablosunu temsil eder.
 
 
 
-ChartDataTable türü aşağıdaki üyeleri gösterir:
+ChartDataTable türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [font](/cells/python-net/tr/aspose.cells.charts/chartdatatable/font) | Belirtilen grafik veri tablosunun yazı tipi ayarını temsil eden bir [ChartDataTable.font](/cells/python-net/tr/aspose.cells.charts/chartdatatable#font) nesnesi alır.|
-| [auto_scale_font](/cells/python-net/tr/aspose.cells.charts/chartdatatable/auto_scale_font) | Nesne boyutu değiştiğinde, nesnedeki metin yazı tipi boyutunu değiştirirse doğrudur.<br/> Varsayılan değer True'dur.|
+| [font](/cells/python-net/tr/aspose.cells.charts/chartdatatable/font) | Belirtilen grafik veri tablosunun yazı tipi ayarını temsil eden [`ChartDataTable.font`](/cells/python-net/tr/aspose.cells.charts/chartdatatable#font) nesnesini alır.|
+| [auto_scale_font](/cells/python-net/tr/aspose.cells.charts/chartdatatable/auto_scale_font) | Nesne boyutu değiştiğinde nesnedeki metnin yazı tipi boyutu da değişirse doğrudur.<br/>Varsayılan değer Doğru'dur.|
 | [background_mode](/cells/python-net/tr/aspose.cells.charts/chartdatatable/background_mode) | Arka planın görüntüleme modunu alır ve ayarlar|
 | [background](/cells/python-net/tr/aspose.cells.charts/chartdatatable/background) | Arka planın görüntüleme modunu alır ve ayarlar|
-| [has_border_horizontal](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_border_horizontal) |Grafik veri tablosunun yatay hücre kenarlıkları varsa doğrudur|
-| [has_border_vertical](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_border_vertical) | Grafik veri tablosunun dikey hücre kenarlıkları varsa doğrudur|
-| [has_border_outline](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_border_outline) | Grafik veri tablosunda ana hat kenarlıkları varsa doğrudur|
-| [show_legend_key](/cells/python-net/tr/aspose.cells.charts/chartdatatable/show_legend_key) | Veri etiketi gösterge anahtarı görünüyorsa doğrudur.|
+| [has_border_horizontal](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_border_horizontal) | Grafik veri tablosunun yatay hücre sınırları varsa doğrudur|
+| [has_border_vertical](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_border_vertical) | Grafik veri tablosunun dikey hücre sınırları varsa doğrudur|
+| [has_border_outline](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_border_outline) | Grafik veri tablosunun anahat sınırları varsa doğrudur|
+| [show_legend_key](/cells/python-net/tr/aspose.cells.charts/chartdatatable/show_legend_key) | Veri etiketi açıklama anahtarı görünür durumdaysa doğrudur.|
 | [border](/cells/python-net/tr/aspose.cells.charts/chartdatatable/border) | Nesnenin kenarlığını temsil eden bir Border nesnesi döndürür|
 
 
@@ -71,4 +71,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

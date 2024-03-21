@@ -12,13 +12,13 @@ is_root: false
 ###  Klasser
 | Klass| Beskrivning|
 | :- | :- |
-| [DataMashup](/cells/python-net/sv/aspose.cells.querytables/datamashup) | Representerar mashup-data.|
-| [PowerQueryFormula](/cells/python-net/sv/aspose.cells.querytables/powerqueryformula) | Representerar definitionen av kraftfrågeformel.|
-| [PowerQueryFormulaCollection](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulacollection) | Representerar alla power-frågeformler i mashup-data.|
-| [PowerQueryFormulaFunction](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulafunction) | Representerar funktionen för maktfrågan.|
-| [PowerQueryFormulaItem](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaitem) | Representerar objektet i power-frågeformeln.|
-| [PowerQueryFormulaItemCollection](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaitemcollection) | Representerar alla objekt i power-frågeformeln.|
-| [PowerQueryFormulaParameter](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter) | Representerar parametern för power-frågeformeln.|
-| [PowerQueryFormulaParameterCollection](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparametercollection) |Representerar|
+| [`DataMashup`](/cells/python-net/sv/aspose.cells.querytables/datamashup) | Representerar mashup-data.|
+| [`PowerQueryFormula`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformula) | Representerar definitionen av kraftfrågeformel.|
+| [`PowerQueryFormulaCollection`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulacollection) | Representerar alla power-frågeformler i mashup-data.|
+| [`PowerQueryFormulaFunction`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulafunction) | Representerar funktionen för maktfrågan.|
+| [`PowerQueryFormulaItem`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaitem) | Representerar objektet i power-frågeformeln.|
+| [`PowerQueryFormulaItemCollection`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaitemcollection) |Representerar alla objekt i power-frågeformeln.|
+| [`PowerQueryFormulaParameter`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter) | Representerar parametern för power-frågeformeln.|
+| [`PowerQueryFormulaParameterCollection`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparametercollection) | Representerar parametrarna för power-frågeformeln.|
 
 

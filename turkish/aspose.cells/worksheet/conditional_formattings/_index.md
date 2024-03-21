@@ -3,7 +3,7 @@ title: conditional_formattings mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 430
+weight: 450
 url: /tr/aspose.cells/worksheet/conditional_formattings/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def conditional_formattings(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingCollection](/cells/python-net/tr/aspose.cells/conditionalformattingcollection)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingCollection`](/cells/python-net/tr/aspose.cells/conditionalformattingcollection)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

@@ -1,22 +1,22 @@
 ---
-title: left_cm الملكية
+title: left_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 670
+weight: 680
 url: /ar/aspose.cells.drawing/oval/left_cm/
 is_root: false
 ---
-##  left_cm الملكية
+##  left_cm عقار
 
-يمثل الإزاحة الأفقية للشكل من العمود الأيسر ، بوحدة السنتيمترات.
+يمثل الإزاحة الأفقية للشكل من عموده الأيسر، بوحدة السنتيمتر.
 
 ###  مثال
 
 ```python
 
 if shape.left_cm == 3:
-    shape.left_cm = 1
+    shape.left_cm = 1.0
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def left_cm(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Oval](/cells/python-net/ar/aspose.cells.drawing/oval)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Oval`](/cells/python-net/ar/aspose.cells.drawing/oval)

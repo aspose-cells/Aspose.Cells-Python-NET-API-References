@@ -3,13 +3,13 @@ title: title proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1070
+weight: 1090
 url: /it/aspose.cells.drawing/radiobutton/title/
 is_root: false
 ---
 ##  title proprietà
 
-Specifica il title (didascalia) dell'oggetto forma corrente.
+Specifica title (didascalia) dell'oggetto forma corrente.
 
 ###  Esempio
 
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/it/aspose.cells.drawing/radiobutton)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/it/aspose.cells.drawing/radiobutton)

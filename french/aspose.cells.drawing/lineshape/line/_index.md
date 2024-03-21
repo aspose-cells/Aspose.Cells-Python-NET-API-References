@@ -3,7 +3,7 @@ title: line propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 770
+weight: 780
 url: /fr/aspose.cells.drawing/lineshape/line/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def line(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [LineFormat](/cells/python-net/fr/aspose.cells.drawing/lineformat)
-* classe [LineShape](/cells/python-net/fr/aspose.cells.drawing/lineshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`LineFormat`](/cells/python-net/fr/aspose.cells.drawing/lineformat)
+* classe [`LineShape`](/cells/python-net/fr/aspose.cells.drawing/lineshape)

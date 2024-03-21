@@ -1,22 +1,22 @@
 ---
-title: connection_points الملكية
+title: connection_points عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ar/aspose.cells.drawing/scrollbar/connection_points/
 is_root: false
 ---
-##  connection_points الملكية
+##  connection_points عقار
 
-احصل على نقاط الاتصال
+الحصول على نقاط الاتصال
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
-الرجاء استخدام طريقة GetConnectionPoints ().
+ ملاحظة: هذا العضو قديم الآن. بدلاً من،
+الرجاء استخدام طريقة GetConnectionPoints().
  ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ أبريل 2022.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def connection_points(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ScrollBar](/cells/python-net/ar/aspose.cells.drawing/scrollbar)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ScrollBar`](/cells/python-net/ar/aspose.cells.drawing/scrollbar)

@@ -3,7 +3,7 @@ title: type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /es/aspose.cells.drawing/combobox/type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [AutoShapeType](/cells/python-net/es/aspose.cells.drawing/autoshapetype)
-* clase [ComboBox](/cells/python-net/es/aspose.cells.drawing/combobox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`AutoShapeType`](/cells/python-net/es/aspose.cells.drawing/autoshapetype)
+* clase [`ComboBox`](/cells/python-net/es/aspose.cells.drawing/combobox)

@@ -3,17 +3,17 @@ title: lower_delta_x Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 740
+weight: 750
 url: /de/aspose.cells.drawing/oval/lower_delta_x/
 is_root: false
 ---
 ##  lower_delta_x Eigentum
 
-Ruft den horizontalen Versatz des Shapes von seiner unteren rechten Eckspalte ab oder legt diesen fest.
+Ruft den horizontalen Versatz der Form von ihrer unteren rechten Eckspalte ab oder legt diesen fest.
 
 ###  Bemerkungen
 
-Der Wertebereich ist 0 bis 1024.
+Der Wertebereich liegt zwischen 0 und 1024.
 
 ###  Beispiel
 
@@ -34,5 +34,5 @@ def lower_delta_x(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Oval](/cells/python-net/de/aspose.cells.drawing/oval)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Oval`](/cells/python-net/de/aspose.cells.drawing/oval)

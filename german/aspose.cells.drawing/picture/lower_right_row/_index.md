@@ -3,13 +3,13 @@ title: lower_right_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 880
+weight: 890
 url: /de/aspose.cells.drawing/picture/lower_right_row/
 is_root: false
 ---
 ##  lower_right_row Eigentum
 
-Repräsentiert den Zeilenindex der unteren rechten Ecke.
+Stellt den Zeilenindex in der unteren rechten Ecke dar.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def lower_right_row(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Picture](/cells/python-net/de/aspose.cells.drawing/picture)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Picture`](/cells/python-net/de/aspose.cells.drawing/picture)

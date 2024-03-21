@@ -3,7 +3,7 @@ title: is_horizontal propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 600
+weight: 610
 url: /es/aspose.cells.drawing/scrollbar/is_horizontal/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_horizontal(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ScrollBar](/cells/python-net/es/aspose.cells.drawing/scrollbar)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ScrollBar`](/cells/python-net/es/aspose.cells.drawing/scrollbar)

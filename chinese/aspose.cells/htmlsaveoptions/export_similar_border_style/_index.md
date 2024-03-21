@@ -1,17 +1,17 @@
 ---
-title: export_similar_border_style 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: export_similar_border_style属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 330
+weight: 350
 url: /zh/aspose.cells/htmlsaveoptions/export_similar_border_style/
 is_root: false
 ---
-## export_similar_border_style 属性
+## export_similar_border_style属性
 
-指示当浏览器不支持边框样式时是否导出相似的边框样式。
-如果要将 html 或 mht 文件导入到 excel，请保持默认值。
-默认值为假。
+当浏览器不支持边框样式时，是否导出类似的边框样式。
+如果要将html或mht文件导入excel，请保留默认值。
+默认值为 false。
 ### 定义：
 ```python
 @property
@@ -23,5 +23,5 @@ def export_similar_border_style(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlSaveOptions](/cells/python-net/zh/aspose.cells/htmlsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlSaveOptions`](/cells/python-net/zh/aspose.cells/htmlsaveoptions)

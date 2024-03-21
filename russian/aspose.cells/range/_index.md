@@ -1,9 +1,9 @@
 ---
 title: Range класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1250
+weight: 1290
 url: /ru/aspose.cells/range/
 is_root: false
 ---
@@ -12,18 +12,17 @@ is_root: false
 
 
 
-Тип Range предоставляет следующие члены:
+Тип Range предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [current_region](/cells/python-net/ru/aspose.cells/range/current_region) |Возвращает объект Range, представляющий текущий регион.<br/> Текущая область — это диапазон, ограниченный любой комбинацией пустых строк и пустых столбцов.|
+| [current_region](/cells/python-net/ru/aspose.cells/range/current_region) |Возвращает объект Range, представляющий текущий регион.<br/> Текущий регион представляет собой диапазон, ограниченный любой комбинацией пустых строк и пустых столбцов.|
 | [hyperlinks](/cells/python-net/ru/aspose.cells/range/hyperlinks) | Получает все гиперссылки в диапазоне.|
 | [row_count](/cells/python-net/ru/aspose.cells/range/row_count) | Получает количество строк в диапазоне.|
 | [column_count](/cells/python-net/ru/aspose.cells/range/column_count) | Получает количество столбцов в диапазоне.|
-| [cell_count](/cells/python-net/ru/aspose.cells/range/cell_count) | Получает количество всех ячеек в диапазоне.|
 | [name](/cells/python-net/ru/aspose.cells/range/name) | Получает или задает имя диапазона.|
-| [refers_to](/cells/python-net/ru/aspose.cells/range/refers_to) | Получает ссылки на диапазон.|
+| [refers_to](/cells/python-net/ru/aspose.cells/range/refers_to) | Получает ссылку на диапазон.|
 | [address](/cells/python-net/ru/aspose.cells/range/address) | Получает адрес диапазона.|
 | [left](/cells/python-net/ru/aspose.cells/range/left) | Получает расстояние в пунктах от левого края столбца A до левого края диапазона.|
 | [top](/cells/python-net/ru/aspose.cells/range/top) | Получает расстояние в пунктах от верхнего края строки 1 до верхнего края диапазона.|
@@ -32,46 +31,57 @@ is_root: false
 | [first_row](/cells/python-net/ru/aspose.cells/range/first_row) | Получает индекс первой строки диапазона.|
 | [first_column](/cells/python-net/ru/aspose.cells/range/first_column) | Получает индекс первого столбца диапазона.|
 | [value](/cells/python-net/ru/aspose.cells/range/value) | Получает и задает значение диапазона.|
-| [column_width](/cells/python-net/ru/aspose.cells/range/column_width) | Задает или получает ширину столбца этого диапазона|
-| [row_height](/cells/python-net/ru/aspose.cells/range/row_height) | Задает или получает высоту строк в этом диапазоне|
-| [entire_column](/cells/python-net/ru/aspose.cells/range/entire_column) |Получает объект Range, представляющий весь столбец (или столбцы), содержащий указанный диапазон.|
-| [entire_row](/cells/python-net/ru/aspose.cells/range/entire_row) | Получает объект Range, представляющий всю строку (или строки), содержащую указанный диапазон.|
-| [worksheet](/cells/python-net/ru/aspose.cells/range/worksheet) | Получает объект [Range.worksheet](/cells/python-net/ru/aspose.cells/range#worksheet), содержащий этот диапазон.|
+| [column_width](/cells/python-net/ru/aspose.cells/range/column_width) | Устанавливает или получает ширину столбца этого диапазона.|
+| [row_height](/cells/python-net/ru/aspose.cells/range/row_height) | Устанавливает или получает высоту строк в этом диапазоне|
+| [entire_column](/cells/python-net/ru/aspose.cells/range/entire_column) | Получает объект Range, представляющий весь столбец (или столбцы), содержащий указанный диапазон.|
+| [entire_row](/cells/python-net/ru/aspose.cells/range/entire_row) |Получает объект Range, представляющий всю строку (или строки), содержащую указанный диапазон.|
+| [worksheet](/cells/python-net/ru/aspose.cells/range/worksheet) | Получает объект [`Range.worksheet`](/cells/python-net/ru/aspose.cells/range#worksheet), содержащий этот диапазон.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [auto_fill(target)](/cells/python-net/ru/aspose.cells/range/auto_fill/#Range) | Автоматическое заполнение целевого диапазона.|
-| [auto_fill(target, auto_fill_type)](/cells/python-net/ru/aspose.cells/range/auto_fill/#Range-AutoFillType) | Автоматическое заполнение целевого диапазона.|
-| [set_style(style, explicit_flag)](/cells/python-net/ru/aspose.cells/range/set_style/#Style-bool) | Примените стиль ячейки.|
-| [set_style(style)](/cells/python-net/ru/aspose.cells/range/set_style/#Style) | Устанавливает стиль диапазона.|
-| [set_outline_borders(border_style, border_color)](/cells/python-net/ru/aspose.cells/range/set_outline_borders/#CellBorderType-CellsColor) | Устанавливает границы контура вокруг диапазона ячеек с одинаковым стилем и цветом границы.|
-| [set_outline_borders(border_style, border_color)](/cells/python-net/ru/aspose.cells/range/set_outline_borders/#CellBorderType-aspose.pydrawing.Color) | Устанавливает границы контура вокруг диапазона ячеек с одинаковым стилем и цветом границы.|
-| [set_outline_borders(border_styles, border_colors)](/cells/python-net/ru/aspose.cells/range/set_outline_borders/#list-aspose.pydrawing.Color[]) | Устанавливает границы линии вокруг диапазона ячеек.|
-| [set_outline_border(border_edge, border_style, border_color)](/cells/python-net/ru/aspose.cells/range/set_outline_border/#BorderType-CellBorderType-CellsColor) | Устанавливает границу контура вокруг диапазона ячеек.|
-| [set_outline_border(border_edge, border_style, border_color)](/cells/python-net/ru/aspose.cells/range/set_outline_border/#BorderType-CellBorderType-aspose.pydrawing.Color) | Устанавливает границу контура вокруг диапазона ячеек.|
-| [copy(range, options)](/cells/python-net/ru/aspose.cells/range/copy/#Range-PasteOptions) | Копирование диапазона со специальными параметрами вставки.|
-| [copy(range)](/cells/python-net/ru/aspose.cells/range/copy/#Range) | Копирует данные (включая формулы), форматирование, объекты рисования и т. д. из исходного диапазона.|
-| [get_enumerator()](/cells/python-net/ru/aspose.cells/range/get_enumerator/#) | Получает перечислитель для ячеек в этом диапазоне.|
-| [is_intersect(range)](/cells/python-net/ru/aspose.cells/range/is_intersect/#Range) | Указывает, является ли диапазон пересекающимся.|
-| [intersect(range)](/cells/python-net/ru/aspose.cells/range/intersect/#Range) | Возвращает объект [Range](/cells/python-net/ru/aspose.cells/range), представляющий прямоугольное пересечение двух диапазонов.|
-| [union(range)](/cells/python-net/ru/aspose.cells/range/union/#Range) | Возвращает объединение двух диапазонов.|
-| [merge()](/cells/python-net/ru/aspose.cells/range/merge/#) | Объединяет диапазон ячеек в одну ячейку.|
-| [un_merge()](/cells/python-net/ru/aspose.cells/range/un_merge/#) |Разъединяет объединенные ячейки этого диапазона.|
-| [put_value(string_value, is_converted, set_style)](/cells/python-net/ru/aspose.cells/range/put_value/#str-bool-bool) | Помещает значение в диапазон, при необходимости значение будет преобразовано в другой тип данных, а числовой формат ячейки будет сброшен.|
-| [apply_style(style, flag)](/cells/python-net/ru/aspose.cells/range/apply_style/#Style-StyleFlag) | Применяет форматы ко всему диапазону.|
-| [set_inside_borders(border_edge, line_style, border_color)](/cells/python-net/ru/aspose.cells/range/set_inside_borders/#BorderType-CellBorderType-CellsColor) | Установить внутренние границы диапазона.|
-| [move_to(dest_row, dest_column)](/cells/python-net/ru/aspose.cells/range/move_to/#int-int) | Переместите текущий диапазон в диапазон назначения.|
-| [copy_data(range)](/cells/python-net/ru/aspose.cells/range/copy_data/#Range) | Копирует данные ячейки (включая формулы) из исходного диапазона.|
-| [copy_value(range)](/cells/python-net/ru/aspose.cells/range/copy_value/#Range) | Копирует значение ячейки из исходного диапазона.|
-| [copy_style(range)](/cells/python-net/ru/aspose.cells/range/copy_style/#Range) | Копирует настройки стиля из исходного диапазона.|
-| [get_cell_or_null(row_offset, column_offset)](/cells/python-net/ru/aspose.cells/range/get_cell_or_null/#int-int) | Получает объект [Cell](/cells/python-net/ru/aspose.cells/cell) или null в этом диапазоне.|
-| [get_offset(row_offset, column_offset)](/cells/python-net/ru/aspose.cells/range/get_offset/#int-int) | Получает диапазон [Range](/cells/python-net/ru/aspose.cells/range) по смещению.|
+| [auto_fill](/cells/python-net/ru/aspose.cells/range/auto_fill/#aspose.cells.Range) | Автоматическое заполнение целевого диапазона.|
+| [auto_fill](/cells/python-net/ru/aspose.cells/range/auto_fill/#aspose.cells.Range-aspose.cells.AutoFillType) | Автоматическое заполнение целевого диапазона.|
+| [set_style](/cells/python-net/ru/aspose.cells/range/set_style/#aspose.cells.Style-bool) | Примените стиль ячейки.|
+| [set_style](/cells/python-net/ru/aspose.cells/range/set_style/#aspose.cells.Style) | Устанавливает стиль диапазона.|
+| [set_outline_borders](/cells/python-net/ru/aspose.cells/range/set_outline_borders/#aspose.cells.CellBorderType-aspose.cells.CellsColor) | Устанавливает контурные границы вокруг диапазона ячеек с одинаковым стилем и цветом границы.|
+| [set_outline_borders](/cells/python-net/ru/aspose.cells/range/set_outline_borders/#aspose.cells.CellBorderType-aspose.pydrawing.Color) | Устанавливает контурные границы вокруг диапазона ячеек с одинаковым стилем и цветом границы.|
+| [set_outline_borders](/cells/python-net/ru/aspose.cells/range/set_outline_borders/#list-aspose.pydrawing.Color[]) | Устанавливает границы линий вокруг диапазона ячеек.|
+| [set_outline_border](/cells/python-net/ru/aspose.cells/range/set_outline_border/#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor) | Устанавливает контурную границу вокруг диапазона ячеек.|
+| [set_outline_border](/cells/python-net/ru/aspose.cells/range/set_outline_border/#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color) | Устанавливает контурную границу вокруг диапазона ячеек.|
+| [copy](/cells/python-net/ru/aspose.cells/range/copy/#aspose.cells.Range-aspose.cells.PasteOptions) | Копирование диапазона со специальными параметрами вставки.|
+| [copy](/cells/python-net/ru/aspose.cells/range/copy/#aspose.cells.Range) | Копирует данные (включая формулы), форматирование, рисование объектов и т. д. из исходного диапазона.|
+| [add_hyperlink](/cells/python-net/ru/aspose.cells/range/add_hyperlink/#str-str-str) | Добавляет гиперссылку в указанную ячейку или диапазон ячеек.|
+| [get_enumerator](/cells/python-net/ru/aspose.cells/range/get_enumerator/#) | Получает перечислитель для ячеек в этом диапазоне.|
+| [is_intersect](/cells/python-net/ru/aspose.cells/range/is_intersect/#aspose.cells.Range) | Указывает, является ли диапазон пересечением.|
+| [intersect](/cells/python-net/ru/aspose.cells/range/intersect/#aspose.cells.Range) | Возвращает объект [`Range`](/cells/python-net/ru/aspose.cells/range), представляющий прямоугольное пересечение двух диапазонов.|
+| [union_rang](/cells/python-net/ru/aspose.cells/range/union_rang/#aspose.cells.Range) | Возвращает результат объединения двух диапазонов.|
+| [union](/cells/python-net/ru/aspose.cells/range/union/#aspose.cells.Range) | Возвращает объединение двух диапазонов.|
+| [is_blank](/cells/python-net/ru/aspose.cells/range/is_blank/#) | Указывает, содержит ли диапазон значения.|
+| [merge](/cells/python-net/ru/aspose.cells/range/merge/#) | Объединяет диапазон ячеек в одну ячейку.|
+| [un_merge](/cells/python-net/ru/aspose.cells/range/un_merge/#) |Разъединяет объединенные ячейки этого диапазона.|
+| [put_value](/cells/python-net/ru/aspose.cells/range/put_value/#str-bool-bool) | Помещает значение в диапазон. При необходимости значение будет преобразовано в другой тип данных, а числовой формат ячейки будет сброшен.|
+| [apply_style](/cells/python-net/ru/aspose.cells/range/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Применяет форматы для всего диапазона.|
+| [set_inside_borders](/cells/python-net/ru/aspose.cells/range/set_inside_borders/#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor) | Устанавливается внутри границ диапазона.|
+| [move_to](/cells/python-net/ru/aspose.cells/range/move_to/#int-int) | Переместить текущий диапазон в целевой диапазон.|
+| [copy_data](/cells/python-net/ru/aspose.cells/range/copy_data/#aspose.cells.Range) | Копирует данные ячеек (включая формулы) из исходного диапазона.|
+| [copy_value](/cells/python-net/ru/aspose.cells/range/copy_value/#aspose.cells.Range) | Копирует значение ячейки из исходного диапазона.|
+| [copy_style](/cells/python-net/ru/aspose.cells/range/copy_style/#aspose.cells.Range) | Копирует настройки стиля из исходного диапазона.|
+| [get_cell_or_null](/cells/python-net/ru/aspose.cells/range/get_cell_or_null/#int-int) | Получает объект [`Cell`](/cells/python-net/ru/aspose.cells/cell) или значение NULL в этом диапазоне.|
+| [get_offset](/cells/python-net/ru/aspose.cells/range/get_offset/#int-int) | Получает диапазон [`Range`](/cells/python-net/ru/aspose.cells/range) по смещению.|
 
 
+
+###  Примечания
+
+Класс Range обозначает область электронной таблицы Excel.
+Благодаря этому вы можете форматировать и устанавливать значение диапазона.
+И вы также можете просто скопировать диапазон Excel.
 
 ###  Пример
+
+В следующем примере показано, как создать диапазон и установить значение диапазона Excel.
 
 ```python
 from aspose.cells import Workbook
@@ -90,6 +100,6 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
+* модуль [`aspose.cells`](..)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)

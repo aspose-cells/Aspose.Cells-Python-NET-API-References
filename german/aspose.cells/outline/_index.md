@@ -3,7 +3,7 @@ title: Outline Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1130
+weight: 1170
 url: /de/aspose.cells/outline/
 is_root: false
 ---
@@ -18,9 +18,9 @@ Der Typ Outline macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [summary_row_below](/cells/python-net/de/aspose.cells/outline/summary_row_below) | Gibt an, ob die Zusammenfassungszeile unter den Detailzeilen in der Gliederung positioniert wird.|
-| [summary_column_right](/cells/python-net/de/aspose.cells/outline/summary_column_right) | Gibt an, ob die Zusammenfassungsspalte rechts neben den Detailspalten in der Gliederung positioniert wird.|
+| [summary_column_right](/cells/python-net/de/aspose.cells/outline/summary_column_right) |Gibt an, ob die Zusammenfassungsspalte rechts von den Detailspalten in der Gliederung positioniert wird.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  accessibility_extract_content fastighet
 
-Tillstånd att kopiera eller extrahera innehåll (till stöd för tillgänglighet för funktionshindrade användare eller för andra ändamål).
+Anger om text och grafik ska tillåtas extrahera (till stöd för tillgänglighet för användare med funktionshinder eller för andra ändamål).
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def accessibility_extract_content(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering.pdfsecurity](../../)
-* klass [PdfSecurityOptions](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modul [`aspose.cells.rendering.pdfsecurity`](../../)
+* klass [`PdfSecurityOptions`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

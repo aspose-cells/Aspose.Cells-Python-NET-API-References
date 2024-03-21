@@ -3,13 +3,13 @@ title: number propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 460
+weight: 500
 url: /fr/aspose.cells.pivot/pivotfield/number/
 is_root: false
 ---
 ##  number propriété
 
-Représente le format d'affichage intégré des nombres et des dates.
+Représente le format d’affichage intégré des nombres et des dates.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def number(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotField](/cells/python-net/fr/aspose.cells.pivot/pivotfield)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotField`](/cells/python-net/fr/aspose.cells.pivot/pivotfield)

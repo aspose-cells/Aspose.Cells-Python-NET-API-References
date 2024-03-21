@@ -1,14 +1,14 @@
 ---
-title: to_tiff método
+title: método to_tiff
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 60
+weight: 70
 url: /es/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff(stream) {#io.RawIOBase}
-Renderice toda la hoja de trabajo como imagen Tiff para transmitir.
+##  to_tiff {#io.RawIOBase}
+Renderice toda la hoja de trabajo como imagen Tiff para transmitirla.
 
 
 
@@ -23,7 +23,7 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase | el flujo de la imagen de salida|
 
 
-##  to_tiff(filename) {#str}
+##  to_tiff {#str}
 Renderice toda la hoja de trabajo como imagen Tiff en un archivo.
 
 
@@ -61,5 +61,5 @@ sr.to_tiff("output.tiff")
 
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [SheetRender](/cells/python-net/es/aspose.cells.rendering/sheetrender)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`SheetRender`](/cells/python-net/es/aspose.cells.rendering/sheetrender)

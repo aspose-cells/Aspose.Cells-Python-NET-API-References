@@ -3,7 +3,7 @@ title: upper_delta_x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1140
+weight: 1160
 url: /sv/aspose.cells.drawing/radiobutton/upper_delta_x/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def upper_delta_x(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RadioButton](/cells/python-net/sv/aspose.cells.drawing/radiobutton)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RadioButton`](/cells/python-net/sv/aspose.cells.drawing/radiobutton)

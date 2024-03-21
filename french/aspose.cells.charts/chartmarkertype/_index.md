@@ -1,14 +1,14 @@
 ---
-title: ChartMarkerType dénombrement
+title: ChartMarkerType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 420
+weight: 430
 url: /fr/aspose.cells.charts/chartmarkertype/
 is_root: false
 ---
-##  ChartMarkerType dénombrement
-Représente le style de marqueur dans un graphique en courbes, un graphique en nuage de points ou un graphique en radar.
+##  ChartMarkerType énumération
+Représente le style de marqueur dans un graphique linéaire, un graphique à nuages de points ou un graphique radar.
 
 
 
@@ -20,7 +20,7 @@ Le type ChartMarkerType expose les membres suivants :
 | AUTOMATIC | Marqueurs automatiques.|
 | CIRCLE | Marqueurs circulaires.|
 | DASH | Marqueurs à barres longues|
-| DIAMOND | Marqueurs en forme de losange.|
+| DIAMOND | Marqueurs en forme de diamant.|
 | DOT | Marqueurs à barres courtes.|
 | NONE | Pas de marqueurs.|
 | SQUARE_PLUS | Marqueurs carrés avec un signe plus.|
@@ -33,4 +33,4 @@ Le type ChartMarkerType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

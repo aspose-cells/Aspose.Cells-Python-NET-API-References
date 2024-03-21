@@ -1,14 +1,14 @@
 ---
-title: set_column_width_pixel método
+title: método set_column_width_pixel
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 860
+weight: 850
 url: /es/aspose.cells/cells/set_column_width_pixel/
 is_root: false
 ---
-##  set_column_width_pixel(column, pixels) {#int-int}
-Establece el ancho de columna en unidades de píxeles en la vista normal.
+##  set_column_width_pixel {#int-int}
+Establece el ancho de la columna en unidades de píxeles en la vista normal.
 
 
 
@@ -26,5 +26,5 @@ def set_column_width_pixel(self, column, pixels):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

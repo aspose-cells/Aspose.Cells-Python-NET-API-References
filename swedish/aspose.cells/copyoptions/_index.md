@@ -3,7 +3,7 @@ title: CopyOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 370
 url: /sv/aspose.cells/copyoptions/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Typen CopyOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [CopyOptions()](/cells/python-net/sv/aspose.cells/copyoptions/__init__/#) | CopyOptions-konstruktör.|
+| [__init__](/cells/python-net/sv/aspose.cells/copyoptions/__init__/#) | CopyOptions-konstruktör.|
 
 
 ###  Egenskaper
@@ -28,10 +28,10 @@ Typen CopyOptions avslöjar följande medlemmar:
 | [copy_names](/cells/python-net/sv/aspose.cells/copyoptions/copy_names) | Anger om namnen kopieras.|
 | [copy_invalid_formulas_as_values](/cells/python-net/sv/aspose.cells/copyoptions/copy_invalid_formulas_as_values) | Om formeln inte är giltig för måldestinationen, kopiera endast värden.|
 | [column_character_width](/cells/python-net/sv/aspose.cells/copyoptions/column_character_width) | Anger om kolumnbredden kopieras i teckenenhet.|
-| [refer_to_sheet_with_same_name](/cells/python-net/sv/aspose.cells/copyoptions/refer_to_sheet_with_same_name) | När du kopierar ett kalkylblad till en annan arbetsbok och kalkylbladet innehåller formlerna som hänvisar till andra kalkylblad i MS Excel,<br/>de kopierade formlerna bör referera till källarbetsboken.<br/>Men ibland har vi kopierat andra kalkylblad och vi hoppas att de kopierade formlerna refererar till andra kalkylblad med namnet i samma arbetsbok,<br/> vänligen ange denna egenskap som sann.|
+| [refer_to_sheet_with_same_name](/cells/python-net/sv/aspose.cells/copyoptions/refer_to_sheet_with_same_name) | I ms excel, när du kopierar formler som hänvisar till andra kalkylblad medan du kopierar ett kalkylblad till ett annat,<br/>de kopierade formlerna bör referera till källarbetsboken.<br/>Men i vissa situationer kan användaren behöva de kopierade formlerna hänvisa till kalkylblad med samma namn<br/>samma arbetsbok, till exempel när dessa kalkylblad har kopierats före denna kopieringsoperation,<br/> då bör denna egenskap bevaras som sann.|
 | [refer_to_destination_sheet](/cells/python-net/sv/aspose.cells/copyoptions/refer_to_destination_sheet) | När du kopierar intervallet i samma fil och diagrammet hänvisar till källarket,<br/>Falskt betyder att det kopierade diagrammets datakälla inte kommer att ändras.<br/> Sant betyder att det kopierade diagrammets datakälla refererar till målarket.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

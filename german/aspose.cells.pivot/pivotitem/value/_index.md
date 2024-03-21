@@ -3,7 +3,7 @@ title: value Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 110
+weight: 120
 url: /de/aspose.cells.pivot/pivotitem/value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def value(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotItem](/cells/python-net/de/aspose.cells.pivot/pivotitem)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotItem`](/cells/python-net/de/aspose.cells.pivot/pivotitem)

@@ -1,13 +1,13 @@
 ---
 title: set_column_width_pixel方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 860
+weight: 850
 url: /zh/aspose.cells/cells/set_column_width_pixel/
 is_root: false
 ---
-##  set_column_width_pixel(column, pixels) {#int-int}
+##  set_column_width_pixel {#int-int}
 在普通视图中以像素为单位设置列宽。
 
 
@@ -26,5 +26,5 @@ def set_column_width_pixel(self, column, pixels):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

@@ -3,7 +3,7 @@ title: printing_page_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 210
+weight: 220
 url: /fr/aspose.cells/paginatedsaveoptions/printing_page_type/
 is_root: false
 ---
@@ -13,12 +13,12 @@ Indique quelles pages ne seront pas imprimées.
 
 ###  Remarques
 
-Si le contenu de la feuille est clairsemé, certaines pages seront totalement vierges dans le fichier pdf de sortie.
+Si le contenu de la feuille est clairsemé, certaines pages seront totalement vierges dans le fichier PDF de sortie.
 Si vous ne voulez pas ces pages vierges, vous pouvez utiliser cette option pour les omettre.
 
 ###  Exemple
 
-Le code suivant omet les pages vierges ou les pages qui ne contiennent que du contenu de style comme l'arrière-plan de la cellule, les bordures.
+Le code suivant omet les pages vierges ou les pages qui contiennent uniquement du contenu de style comme l'arrière-plan des cellules et les bordures.
 
 ```python
 from aspose.cells import PdfSaveOptions, PrintingPageType, Workbook
@@ -44,6 +44,6 @@ def printing_page_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PaginatedSaveOptions](/cells/python-net/fr/aspose.cells/paginatedsaveoptions)
-* classe [PrintingPageType](/cells/python-net/fr/aspose.cells/printingpagetype)
+* module [`aspose.cells`](../../)
+* classe [`PaginatedSaveOptions`](/cells/python-net/fr/aspose.cells/paginatedsaveoptions)
+* classe [`PrintingPageType`](/cells/python-net/fr/aspose.cells/printingpagetype)

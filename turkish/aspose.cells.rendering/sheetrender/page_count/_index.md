@@ -3,7 +3,7 @@ title: page_count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 80
+weight: 90
 url: /tr/aspose.cells.rendering/sheetrender/page_count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def page_count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [SheetRender](/cells/python-net/tr/aspose.cells.rendering/sheetrender)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`SheetRender`](/cells/python-net/tr/aspose.cells.rendering/sheetrender)

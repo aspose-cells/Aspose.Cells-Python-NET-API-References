@@ -1,37 +1,37 @@
 ---
-title: classe IndividualFontConfigs
+title: IndividualFontConfigs classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 930
+weight: 970
 url: /it/aspose.cells/individualfontconfigs/
 is_root: false
 ---
-##  classe IndividualFontConfigs
-Configurazioni dei caratteri per ogni oggetto [Workbook](/cells/python-net/it/aspose.cells/workbook).
+##  IndividualFontConfigs classe
+Configurazioni dei caratteri per ciascun oggetto [`Workbook`](/cells/python-net/it/aspose.cells/workbook).
 
 
 
-Il tipo IndividualFontConfigs espone i membri seguenti:
+Il tipo IndividualFontConfigs espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [IndividualFontConfigs()](/cells/python-net/it/aspose.cells/individualfontconfigs/__init__/#) | rettore.|
+| [__init__](/cells/python-net/it/aspose.cells/individualfontconfigs/__init__/#) | Direttore.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [set_font_substitutes(original_font_name, substitute_font_names)](/cells/python-net/it/aspose.cells/individualfontconfigs/set_font_substitutes/#str-list) | Nomi sostitutivi dei caratteri per il nome del carattere originale specificato.|
-| [get_font_substitutes(original_font_name)](/cells/python-net/it/aspose.cells/individualfontconfigs/get_font_substitutes/#str) | Restituisce l'array contenente i nomi dei caratteri sostitutivi da utilizzare se il carattere originale non viene presentato.|
-| [set_font_folder(font_folder, recursive)](/cells/python-net/it/aspose.cells/individualfontconfigs/set_font_folder/#str-bool) | Imposta la cartella dei caratteri|
-| [set_font_folders(font_folders, recursive)](/cells/python-net/it/aspose.cells/individualfontconfigs/set_font_folders/#list-bool) | Imposta le cartelle dei font|
-| [set_font_sources(sources)](/cells/python-net/it/aspose.cells/individualfontconfigs/set_font_sources/#list) | Imposta le origini dei caratteri.|
-| [get_font_sources()](/cells/python-net/it/aspose.cells/individualfontconfigs/get_font_sources/#) | Ottiene una copia della matrice che contiene l'elenco delle origini|
+| [set_font_substitutes](/cells/python-net/it/aspose.cells/individualfontconfigs/set_font_substitutes/#str-list) | I nomi dei caratteri sostituiscono il nome del carattere originale specificato.|
+| [get_font_substitutes](/cells/python-net/it/aspose.cells/individualfontconfigs/get_font_substitutes/#str) | Restituisce un array contenente i nomi sostitutivi dei caratteri da utilizzare se il carattere originale non viene presentato.|
+| [set_font_folder](/cells/python-net/it/aspose.cells/individualfontconfigs/set_font_folder/#str-bool) | Imposta la cartella dei caratteri|
+| [set_font_folders](/cells/python-net/it/aspose.cells/individualfontconfigs/set_font_folders/#list-bool) | Imposta le cartelle dei caratteri|
+| [set_font_sources](/cells/python-net/it/aspose.cells/individualfontconfigs/set_font_sources/#list) | Imposta le origini dei caratteri.|
+| [get_font_sources](/cells/python-net/it/aspose.cells/individualfontconfigs/get_font_sources/#) | Ottiene una copia della matrice che contiene l'elenco delle origini|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](..)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

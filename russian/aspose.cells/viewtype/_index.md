@@ -1,18 +1,18 @@
 ---
 title: ViewType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2650
+weight: 2740
 url: /ru/aspose.cells/viewtype/
 is_root: false
 ---
 ##  ViewType перечисление
-Представляет тип представления рабочего листа.
+Представляет тип представления листа.
 
 
 
-Тип ViewType предоставляет следующие члены:
+Тип ViewType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: lower_right_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 790
+weight: 800
 url: /tr/aspose.cells.drawing/groupshape/lower_right_row/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def lower_right_row(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GroupShape](/cells/python-net/tr/aspose.cells.drawing/groupshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GroupShape`](/cells/python-net/tr/aspose.cells.drawing/groupshape)

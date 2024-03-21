@@ -3,7 +3,7 @@ title: page_setup propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 370
+weight: 400
 url: /es/aspose.cells.charts/chart/page_setup/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def page_setup(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Chart](/cells/python-net/es/aspose.cells.charts/chart)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Chart`](/cells/python-net/es/aspose.cells.charts/chart)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

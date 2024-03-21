@@ -3,7 +3,7 @@ title: id fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 560
+weight: 570
 url: /sv/aspose.cells.drawing/lineshape/id/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def id(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineShape](/cells/python-net/sv/aspose.cells.drawing/lineshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineShape`](/cells/python-net/sv/aspose.cells.drawing/lineshape)

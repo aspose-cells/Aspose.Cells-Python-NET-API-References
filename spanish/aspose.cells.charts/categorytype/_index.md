@@ -3,12 +3,12 @@ title: CategoryType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 400
+weight: 410
 url: /es/aspose.cells.charts/categorytype/
 is_root: false
 ---
 ##  CategoryType enumeración
-Representa el tipo de eje de categoría.
+Representa el tipo de eje de categorías.
 
 
 
@@ -24,4 +24,4 @@ El tipo CategoryType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

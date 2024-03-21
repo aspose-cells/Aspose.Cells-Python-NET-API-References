@@ -3,12 +3,12 @@ title: ChartPointCollection Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 100
+weight: 110
 url: /de/aspose.cells.charts/chartpointcollection/
 is_root: false
 ---
 ##  ChartPointCollection Klasse
-Stellt eine Sammlung dar, die alle Punkte in einer Reihe enthält.
+Stellt eine Sammlung dar, die alle Punkte einer Reihe enthält.
 
 
 
@@ -17,12 +17,12 @@ Der Typ ChartPointCollection macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [count](/cells/python-net/de/aspose.cells.charts/chartpointcollection/count) | Ruft die Anzahl der Diagrammpunkte ab.|
+| [count](/cells/python-net/de/aspose.cells.charts/chartpointcollection/count) | Ruft die Anzahl des Diagrammpunkts ab.|
 
 
 
-Ruft das Element [ChartPoint](/cells/python-net/de/aspose.cells.charts/chartpoint) am angegebenen Index in der Reihe ab.
-###  Indexierer
+Ruft das Element [`ChartPoint`](/cells/python-net/de/aspose.cells.charts/chartpoint) am angegebenen Index in der Reihe ab.
+###  Indexer
 | Name| Beschreibung|
 | :- | :- |
 | [index] | Der Index des Diagrammpunkts in der Serie.|
@@ -31,9 +31,9 @@ Ruft das Element [ChartPoint](/cells/python-net/de/aspose.cells.charts/chartpoin
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_enumerator()](/cells/python-net/de/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Gibt einen Enumerator für die gesamte [ChartPointCollection](/cells/python-net/de/aspose.cells.charts/chartpointcollection) zurück.|
-| [clear()](/cells/python-net/de/aspose.cells.charts/chartpointcollection/clear/#) | Entfernen Sie alle Einstellungen der Diagrammpunkte.|
-| [remove_at(index)](/cells/python-net/de/aspose.cells.charts/chartpointcollection/remove_at/#int) | Entfernt Punkt am Index der Serie..|
+| [get_enumerator](/cells/python-net/de/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Gibt einen Enumerator für die gesamte [`ChartPointCollection`](/cells/python-net/de/aspose.cells.charts/chartpointcollection) zurück.|
+| [clear](/cells/python-net/de/aspose.cells.charts/chartpointcollection/clear/#) | Entfernen Sie alle Einstellungen der Kartenpunkte.|
+| [remove_at](/cells/python-net/de/aspose.cells.charts/chartpointcollection/remove_at/#int) | Entfernt den Punkt am Index der Reihe.|
 
 
 
@@ -82,6 +82,6 @@ workbook.save("book1.xls")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
-* Klasse [ChartPoint](/cells/python-net/de/aspose.cells.charts/chartpoint)
-* Klasse [ChartPointCollection](/cells/python-net/de/aspose.cells.charts/chartpointcollection)
+* Modul [`aspose.cells.charts`](..)
+* Klasse [`ChartPoint`](/cells/python-net/de/aspose.cells.charts/chartpoint)
+* Klasse [`ChartPointCollection`](/cells/python-net/de/aspose.cells.charts/chartpointcollection)

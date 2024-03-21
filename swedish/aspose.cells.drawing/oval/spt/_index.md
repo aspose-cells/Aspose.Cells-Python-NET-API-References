@@ -3,7 +3,7 @@ title: spt fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 900
+weight: 910
 url: /sv/aspose.cells.drawing/oval/spt/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def spt(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Oval](/cells/python-net/sv/aspose.cells.drawing/oval)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Oval`](/cells/python-net/sv/aspose.cells.drawing/oval)

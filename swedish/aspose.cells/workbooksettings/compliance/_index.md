@@ -3,7 +3,7 @@ title: compliance fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 120
 url: /sv/aspose.cells/workbooksettings/compliance/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [OoxmlCompliance](/cells/python-net/sv/aspose.cells/ooxmlcompliance)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`OoxmlCompliance`](/cells/python-net/sv/aspose.cells/ooxmlcompliance)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

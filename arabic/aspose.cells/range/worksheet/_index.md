@@ -1,15 +1,15 @@
 ---
-title: worksheet الملكية
+title: worksheet عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 440
 url: /ar/aspose.cells/range/worksheet/
 is_root: false
 ---
-##  worksheet الملكية
+##  worksheet عقار
 
-الحصول على الكائن [Range.worksheet](/cells/python-net/ar/aspose.cells/range#worksheet) الذي يحتوي على هذا النطاق.
+يحصل على الكائن [`Range.worksheet`](/cells/python-net/ar/aspose.cells/range#worksheet) الذي يحتوي على هذا النطاق.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def worksheet(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

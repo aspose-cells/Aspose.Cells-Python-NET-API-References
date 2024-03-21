@@ -3,7 +3,7 @@ title: is_include_new_items_in_filter proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 380
+weight: 420
 url: /it/aspose.cells.pivot/pivotfield/is_include_new_items_in_filter/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def is_include_new_items_in_filter(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotField](/cells/python-net/it/aspose.cells.pivot/pivotfield)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotField`](/cells/python-net/it/aspose.cells.pivot/pivotfield)

@@ -3,13 +3,13 @@ title: spt propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 960
+weight: 970
 url: /es/aspose.cells.drawing/arcshape/spt/
 is_root: false
 ---
 ##  spt propiedad
 
-Especifica un número opcional que una aplicación puede usar para asociar la forma particular con un tipo de forma definido.
+Especifica un número opcional que una aplicación puede utilizar para asociar la forma particular con un tipo de forma definido.
 
 ###  Ejemplo
 
@@ -26,5 +26,5 @@ def spt(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ArcShape](/cells/python-net/es/aspose.cells.drawing/arcshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ArcShape`](/cells/python-net/es/aspose.cells.drawing/arcshape)

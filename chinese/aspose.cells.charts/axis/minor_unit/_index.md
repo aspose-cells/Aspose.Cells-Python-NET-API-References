@@ -1,19 +1,19 @@
 ---
-title: minor_unit 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: minor_unit属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 350
+weight: 360
 url: /zh/aspose.cells.charts/axis/minor_unit/
 is_root: false
 ---
-## minor_unit 属性
+## minor_unit属性
 
-表示轴的次要单位。
+表示轴的小单位。
 
 ### 评论
 
-次要单位必须大于零。
+小单位必须大于零。
 ### 定义：
 ```python
 @property
@@ -25,5 +25,5 @@ def minor_unit(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)

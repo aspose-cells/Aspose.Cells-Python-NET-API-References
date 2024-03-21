@@ -3,31 +3,31 @@ title: Top10 sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1480
+weight: 1550
 url: /tr/aspose.cells/top10/
 is_root: false
 ---
 ##  Top10 sınıfı
  Top10 koşullu biçimlendirme kuralını açıklayın.
 Bu koşullu biçimlendirme kuralı,
-değerler, belirtildiği gibi üst N veya alt N köşeli parantez içinde yer alır.
+değerler belirtildiği gibi üst N veya alt N parantezinde yer alır.
 
 
 
-Top10 türü aşağıdaki üyeleri gösterir:
+Top10 türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [Top10()](/cells/python-net/tr/aspose.cells/top10/__init__/#) |Top10'un yeni bir örneğini oluşturur|
+| [__init__](/cells/python-net/tr/aspose.cells/top10/__init__/#) | Top10'un yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [is_percent](/cells/python-net/tr/aspose.cells/top10/is_percent) | "Üst/alt n" kuralının "yüzde üst/alt n" kuralı olup olmadığını alın veya ayarlayın.<br/> Varsayılan değer yanlıştır.|
-| [is_bottom](/cells/python-net/tr/aspose.cells/top10/is_bottom) | Bir "üst/alt n" kuralının bir "alt n" kuralı olup olmadığını alın veya ayarlayın.<br/> Varsayılan değer yanlıştır.|
-| [rank](/cells/python-net/tr/aspose.cells/top10/rank) | "Üst/alt n" koşullu biçimlendirme kuralında "n" değerini alın veya ayarlayın.<br/>IsPercent true ise, değer 0 ile 100 arasında olmalıdır.<br/>Aksi takdirde 0 ile 1000 arasında olmalıdır.<br/> Varsayılan değer 10'dur.|
+| [is_percent](/cells/python-net/tr/aspose.cells/top10/is_percent) | Bir "üst/alt n" kuralının "üst/alt yüzde n" kuralı olup olmadığını alın veya ayarlayın.<br/> Varsayılan değer false'tur.|
+| [is_bottom](/cells/python-net/tr/aspose.cells/top10/is_bottom) | Bir "üst/alt n" kuralının "alt n" kuralı olup olmadığını alın veya ayarlayın.<br/> Varsayılan değer false'tur.|
+| [rank](/cells/python-net/tr/aspose.cells/top10/rank) | "Üst/alt n" koşullu biçimlendirme kuralında "n" değerini alın veya ayarlayın.<br/>IsPercent doğruysa değer 0 ile 100 arasında olmalıdır.<br/>Aksi takdirde 0 ile 1000 arasında olmalıdır.<br/> Varsayılan değer 10'dur.|
 
 
 
@@ -60,4 +60,4 @@ workbook.save("output.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

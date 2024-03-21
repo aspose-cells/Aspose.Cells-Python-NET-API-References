@@ -3,13 +3,13 @@ title: title proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /it/aspose.cells.drawing/oleobject/title/
 is_root: false
 ---
 ##  title proprietà
 
-Specifica il title (didascalia) dell'oggetto forma corrente.
+Specifica title (didascalia) dell'oggetto forma corrente.
 
 ###  Esempio
 
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/it/aspose.cells.drawing/oleobject)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/it/aspose.cells.drawing/oleobject)

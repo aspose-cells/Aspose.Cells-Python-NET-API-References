@@ -3,11 +3,11 @@ title: remove_all_drawing_objects yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 220
 url: /tr/aspose.cells/worksheet/remove_all_drawing_objects/
 is_root: false
 ---
-##  remove_all_drawing_objects() {#}
+##  remove_all_drawing_objects {#}
 Bu çalışma sayfasındaki tüm çizim nesnelerini kaldırır.
 
 
@@ -22,5 +22,5 @@ def remove_all_drawing_objects(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

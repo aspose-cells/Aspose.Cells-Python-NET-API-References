@@ -3,20 +3,20 @@ title: width_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1190
+weight: 1210
 url: /de/aspose.cells.drawing/radiobutton/width_cm/
 is_root: false
 ---
 ##  width_cm Eigentum
 
-Stellt die Breite der Form in Zentimetern dar.
+Stellt die Breite der Form in der Einheit Zentimeter dar.
 
 ###  Beispiel
 
 ```python
 
 if shape.width_cm == 3:
-    shape.width_cm = 1
+    shape.width_cm = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def width_cm(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RadioButton](/cells/python-net/de/aspose.cells.drawing/radiobutton)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RadioButton`](/cells/python-net/de/aspose.cells.drawing/radiobutton)

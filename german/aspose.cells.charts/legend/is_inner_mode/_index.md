@@ -3,7 +3,7 @@ title: is_inner_mode Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 230
 url: /de/aspose.cells.charts/legend/is_inner_mode/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def is_inner_mode(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Legend](/cells/python-net/de/aspose.cells.charts/legend)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Legend`](/cells/python-net/de/aspose.cells.charts/legend)

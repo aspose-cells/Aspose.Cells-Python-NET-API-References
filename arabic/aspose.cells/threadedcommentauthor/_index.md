@@ -1,27 +1,27 @@
 ---
-title: ThreadedCommentAuthor الدرجة
+title: ThreadedCommentAuthor صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1450
+weight: 1520
 url: /ar/aspose.cells/threadedcommentauthor/
 is_root: false
 ---
-##  ThreadedCommentAuthor الدرجة
-يمثل الشخص الذي يقوم بإنشاء التعليقات المترابطة ؛
+##  ThreadedCommentAuthor صف
+يمثل الشخص الذي يقوم بإنشاء التعليقات المترابطة؛
 
 
 
-يكشف نوع ThreadedCommentAuthor الأعضاء التالية:
+يكشف النوع ThreadedCommentAuthor عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [name](/cells/python-net/ar/aspose.cells/threadedcommentauthor/name) | الحصول على الاسم وتعيينه.|
-| [user_id](/cells/python-net/ar/aspose.cells/threadedcommentauthor/user_id) | يحصل على معرّف المستخدم ويعينه.|
+| [name](/cells/python-net/ar/aspose.cells/threadedcommentauthor/name) | يحصل ويحدد الاسم.|
+| [user_id](/cells/python-net/ar/aspose.cells/threadedcommentauthor/user_id) | الحصول على معرف المستخدم وتعيينه.|
 | [provider_id](/cells/python-net/ar/aspose.cells/threadedcommentauthor/provider_id) | يحصل على معرف المزود.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

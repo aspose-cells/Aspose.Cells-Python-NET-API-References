@@ -3,13 +3,13 @@ title: is_hidden mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 570
+weight: 590
 url: /tr/aspose.cells.drawing/textbox/is_hidden/
 is_root: false
 ---
 ##  is_hidden mülk
 
-Nesnenin görünür olup olmadığını gösterir.
+Nesnenin görünür olup olmadığını belirtir.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def is_hidden(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextBox](/cells/python-net/tr/aspose.cells.drawing/textbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextBox`](/cells/python-net/tr/aspose.cells.drawing/textbox)

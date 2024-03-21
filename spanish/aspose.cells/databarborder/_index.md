@@ -3,7 +3,7 @@ title: DataBarBorder clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 410
+weight: 430
 url: /es/aspose.cells/databarborder/
 is_root: false
 ---
@@ -17,10 +17,10 @@ El tipo DataBarBorder expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [color](/cells/python-net/es/aspose.cells/databarborder/color) | Obtiene o establece el color del borde de las barras de datos especificado por una regla de formato condicional.|
+| [color](/cells/python-net/es/aspose.cells/databarborder/color) | Obtiene o establece el color del borde de las barras de datos especificadas por una regla de formato condicional.|
 | [type](/cells/python-net/es/aspose.cells/databarborder/type) | Obtiene o establece el tipo de barras de datos del borde especificado por una regla de formato condicional.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

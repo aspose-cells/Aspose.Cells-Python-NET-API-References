@@ -3,7 +3,7 @@ title: WriteProtection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1640
+weight: 1710
 url: /sv/aspose.cells/writeprotection/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Typen WriteProtection avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [WriteProtection()](/cells/python-net/sv/aspose.cells/writeprotection/__init__/#) | Konstruerar en ny instans av WriteProtection|
+| [__init__](/cells/python-net/sv/aspose.cells/writeprotection/__init__/#) | Konstruerar en ny instans av WriteProtection|
 
 
 ###  Egenskaper
@@ -31,9 +31,9 @@ Typen WriteProtection avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [validate_password(password)](/cells/python-net/sv/aspose.cells/writeprotection/validate_password/#str) | Returnerar sant om det angivna lösenordet är detsamma som skrivskyddslösenordet som filen skyddades med.|
+| [validate_password](/cells/python-net/sv/aspose.cells/writeprotection/validate_password/#str) | Returnerar sant om det angivna lösenordet är detsamma som skrivskyddslösenordet som filen skyddades med.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

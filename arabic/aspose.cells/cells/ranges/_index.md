@@ -1,15 +1,15 @@
 ---
-title: ranges الملكية
+title: ranges عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1230
+weight: 1220
 url: /ar/aspose.cells/cells/ranges/
 is_root: false
 ---
-##  ranges الملكية
+##  ranges عقار
 
-الحصول على مجموعة [Range](/cells/python-net/ar/aspose.cells/range) من العناصر التي تم تكوينها في وقت التشغيل.
+الحصول على مجموعة من الكائنات [`Range`](/cells/python-net/ar/aspose.cells/range) التي تم إنشاؤها في وقت التشغيل.
 ###  تعريف:
 ```python
 @property
@@ -18,7 +18,7 @@ def ranges(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
-* فئة [RangeCollection](/cells/python-net/ar/aspose.cells/rangecollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)
+* فئة [`RangeCollection`](/cells/python-net/ar/aspose.cells/rangecollection)

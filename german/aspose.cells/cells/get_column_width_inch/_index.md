@@ -3,12 +3,12 @@ title: get_column_width_inch Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 340
 url: /de/aspose.cells/cells/get_column_width_inch/
 is_root: false
 ---
-##  get_column_width_inch(column) {#int}
-Ruft die Breite der angegebenen Spalte in der Normalansicht in Zoll ab.
+##  get_column_width_inch {#int}
+Ruft die Breite der angegebenen Spalte in der Normalansicht in der Einheit Zoll ab.
 
 
 ###  Kehrt zurück
@@ -29,5 +29,5 @@ def get_column_width_inch(self, column):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

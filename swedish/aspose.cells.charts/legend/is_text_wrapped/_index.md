@@ -3,7 +3,7 @@ title: is_text_wrapped fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 260
 url: /sv/aspose.cells.charts/legend/is_text_wrapped/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_text_wrapped(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Legend](/cells/python-net/sv/aspose.cells.charts/legend)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Legend`](/cells/python-net/sv/aspose.cells.charts/legend)

@@ -3,13 +3,14 @@ title: support_div_tag mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 390
 url: /tr/aspose.cells/htmlloadoptions/support_div_tag/
 is_root: false
 ---
 ##  support_div_tag mülk
 
-düzenini destekleyip desteklemediğini gösterir.<div> html dosyası içerdiğinde etiketleyin<div> etiketler. Varsayılan değer yanlıştır.
+Html dosyası içerdiğinde `<div>` etiketinin düzeninin desteklenip desteklenmediğini belirtir.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +22,5 @@ def support_div_tag(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlLoadOptions](/cells/python-net/tr/aspose.cells/htmlloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlLoadOptions`](/cells/python-net/tr/aspose.cells/htmlloadoptions)

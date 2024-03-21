@@ -3,7 +3,7 @@ title: merge_empty_td_forcely fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 500
+weight: 560
 url: /sv/aspose.cells/htmlsaveoptions/merge_empty_td_forcely/
 is_root: false
 ---
@@ -24,5 +24,5 @@ def merge_empty_td_forcely(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

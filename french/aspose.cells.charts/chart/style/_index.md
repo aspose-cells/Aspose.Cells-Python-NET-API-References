@@ -3,7 +3,7 @@ title: style propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 580
+weight: 610
 url: /fr/aspose.cells.charts/chart/style/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def style(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)

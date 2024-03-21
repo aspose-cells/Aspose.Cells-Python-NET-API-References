@@ -1,45 +1,45 @@
 ---
 title: SeriesCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ru/aspose.cells.charts/seriescollection/
 is_root: false
 ---
 ##  SeriesCollection класс
-Инкапсулирует коллекцию из [Series](/cells/python-net/ru/aspose.cells.charts/series) объектов.
+Инкапсулирует коллекцию из [`Series`](/cells/python-net/ru/aspose.cells.charts/series) объектов.
 
 
 
-Тип SeriesCollection предоставляет следующие члены:
+Тип SeriesCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [category_data](/cells/python-net/ru/aspose.cells.charts/seriescollection/category_data) | Получает или задает диапазон значений оси категории.<br/> Это может быть диапазон ячеек (например, «d1:e10»),<br/> или последовательность значений (например, "{2,6,8,10}").|
-| [second_category_data](/cells/python-net/ru/aspose.cells.charts/seriescollection/second_category_data) | Получает или задает диапазон значений оси второй категории.<br/> Это может быть диапазон ячеек (например, «d1:e10»),<br/> или последовательность значений (например, "{2,6,8,10}").<br/> Воздействует только тогда, когда некоторые ASeries строятся по второй оси.|
-| [is_color_varied](/cells/python-net/ru/aspose.cells.charts/seriescollection/is_color_varied) | Представляет, если цвет точек различен.|
-| [capacity](/cells/python-net/ru/aspose.cells.charts/seriescollection/capacity) | Получает или задает количество элементов, которые может содержать список массивов.|
+| [category_data](/cells/python-net/ru/aspose.cells.charts/seriescollection/category_data) | Получает или задает диапазон значений оси категории.<br/> Это может быть диапазон ячеек (например, «d1:e10»),<br/> или последовательность значений (например, «{2,6,8,10}»).|
+| [second_category_data](/cells/python-net/ru/aspose.cells.charts/seriescollection/second_category_data) | Получает или задает диапазон значений оси второй категории.<br/> Это может быть диапазон ячеек (например, «d1:e10»),<br/> или последовательность значений (например, «{2,6,8,10}»).<br/> Эффект возникает только тогда, когда некоторые ASeries строятся на второй оси.|
+| [is_color_varied](/cells/python-net/ru/aspose.cells.charts/seriescollection/is_color_varied) |Указывает, различается ли цвет точек.|
+| [capacity](/cells/python-net/ru/aspose.cells.charts/seriescollection/capacity) | Получает или задает количество элементов, которые может содержать список массива.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add(area, is_vertical)](/cells/python-net/ru/aspose.cells.charts/seriescollection/add/#str-bool) | Добавляет коллекцию [SeriesCollection](/cells/python-net/ru/aspose.cells.charts/seriescollection) на диаграмму.|
-| [add(area, is_vertical, check_labels)](/cells/python-net/ru/aspose.cells.charts/seriescollection/add/#str-bool-bool) | Добавляет коллекцию [SeriesCollection](/cells/python-net/ru/aspose.cells.charts/seriescollection) на диаграмму.|
-| [copy_to(array)](/cells/python-net/ru/aspose.cells.charts/seriescollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала целевого списка массивов.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ru/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) |Копирует диапазон элементов из списка массивов в совместимый список одномерных массивов, начиная с указанного индекса целевого списка массивов.|
-| [index_of(item, index)](/cells/python-net/ru/aspose.cells.charts/seriescollection/index_of/#Series-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который простирается от указанного индекса до последнего элемента.|
-| [index_of(item, index, count)](/cells/python-net/ru/aspose.cells.charts/seriescollection/index_of/#Series-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
-| [last_index_of(item)](/cells/python-net/ru/aspose.cells.charts/seriescollection/last_index_of/#Series) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массивов.|
-| [last_index_of(item, index)](/cells/python-net/ru/aspose.cells.charts/seriescollection/last_index_of/#Series-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который простирается от первого элемента до указанного индекса.|
-| [last_index_of(item, index, count)](/cells/python-net/ru/aspose.cells.charts/seriescollection/last_index_of/#Series-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который содержит указанное количество элементов и заканчивается указанным индексом.|
-| [get_series_by_order(order)](/cells/python-net/ru/aspose.cells.charts/seriescollection/get_series_by_order/#int) | Получает элемент [Series](/cells/python-net/ru/aspose.cells.charts/series) по порядку.|
-| [change_series_order(source_index, dest_index)](/cells/python-net/ru/aspose.cells.charts/seriescollection/change_series_order/#int-int) | Напрямую меняет порядок двух серий.|
-| [set_series_names(start_index, area, is_vertical)](/cells/python-net/ru/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Задает имя всех рядов на диаграмме.|
-| [add_r1c1(area, is_vertical)](/cells/python-net/ru/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | Добавляет коллекцию [SeriesCollection](/cells/python-net/ru/aspose.cells.charts/seriescollection) на диаграмму.|
-| [binary_search(item)](/cells/python-net/ru/aspose.cells.charts/seriescollection/binary_search/#Series) | Ищет элемент во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает отсчитываемый от нуля индекс элемента.|
+| [add](/cells/python-net/ru/aspose.cells.charts/seriescollection/add/#str-bool) | Добавляет коллекцию [`Series`](/cells/python-net/ru/aspose.cells.charts/series) в диаграмму.|
+| [add](/cells/python-net/ru/aspose.cells.charts/seriescollection/add/#str-bool-bool) | Добавляет коллекцию [`Series`](/cells/python-net/ru/aspose.cells.charts/series) в диаграмму.|
+| [copy_to](/cells/python-net/ru/aspose.cells.charts/seriescollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала списка целевых массивов.|
+| [copy_to](/cells/python-net/ru/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) | Копирует диапазон элементов из списка массива в совместимый список одномерных массивов, начиная с указанного индекса списка целевого массива.|
+| [index_of](/cells/python-net/ru/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массива, простирающемся от указанного индекса до последнего элемента.|
+| [index_of](/cells/python-net/ru/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
+| [last_index_of](/cells/python-net/ru/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series) | Ищет указанный объект и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массива.|
+| [last_index_of](/cells/python-net/ru/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, простирающемся от первого элемента до указанного индекса.|
+| [last_index_of](/cells/python-net/ru/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, который содержит указанное количество элементов и заканчивается указанным индексом.|
+| [get_series_by_order](/cells/python-net/ru/aspose.cells.charts/seriescollection/get_series_by_order/#int) | Получает элемент [`Series`](/cells/python-net/ru/aspose.cells.charts/series) по порядку.|
+| [change_series_order](/cells/python-net/ru/aspose.cells.charts/seriescollection/change_series_order/#int-int) | Непосредственно меняет порядок двух серий.|
+| [set_series_names](/cells/python-net/ru/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Устанавливает имя всех серий на диаграмме.|
+| [add_r1c1](/cells/python-net/ru/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | Добавляет коллекцию [`Series`](/cells/python-net/ru/aspose.cells.charts/series) в диаграмму.|
+| [binary_search](/cells/python-net/ru/aspose.cells.charts/seriescollection/binary_search/#aspose.cells.charts.Series) | Выполняет поиск элемента во всем списке отсортированного массива, используя компаратор по умолчанию, и возвращает индекс элемента, отсчитываемый от нуля.|
 
 
 
@@ -93,6 +93,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
-* класс [SeriesCollection](/cells/python-net/ru/aspose.cells.charts/seriescollection)
+* модуль [`aspose.cells.charts`](..)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

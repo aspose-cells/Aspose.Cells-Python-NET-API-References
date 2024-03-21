@@ -3,7 +3,7 @@ title: calculated_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 50
+weight: 60
 url: /tr/aspose.cells/calculationdata/calculated_value/
 is_root: false
 ---
@@ -14,10 +14,12 @@ Bu işlev için hesaplanan değeri alır veya ayarlar.
 ###  Notlar
 
 Kullanıcı, motorun desteklediği işlevler için bu özelliği kendi özel hesaplama motorunda ayarlamalıdır.
-ve daha sonra bu özellik alındığında set değeri döndürülecektir.
-Set değeri, Cell(Cell.Value) olarak ayarlanabilen bu nesnelerin herhangi bir değeri olabilir.
-Ve ayrıca bu tür değerler dizisi veya bir Aralık, Ad, Referans Alan olabilir.
-Ayarlamadan önce bu özelliğin alınması, işlevin varsayılan hesaplama motoru Aspose.Cells tarafından hesaplanmasını sağlar ve hesaplanan değer döndürülür.
+ve daha sonra bu özellik alındığında ayarlanan değer döndürülecektir.
+Ayar değeri olası [`Cell.value`](/cells/python-net/tr/aspose.cells/cell#value) türlerinde olabilir,
+veya bu tür değerlerin dizisi veya bir Aralık, Ad, YönlendirilenArea.
+Değeri ayarlamadan önce bu özelliğin alınması, fonksiyonun hesaplanmasını sağlayacaktır.
+Aspose.Cells varsayılan hesaplama motoruyla hesaplanan değer
+döndürülür (genellikle kullanıcı tanımlı işlevler için #AD? olmalıdır).
 ###  Tanım:
 ```python
 @property
@@ -29,5 +31,5 @@ def calculated_value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CalculationData](/cells/python-net/tr/aspose.cells/calculationdata)
+* modül [`aspose.cells`](../../)
+* sınıf [`CalculationData`](/cells/python-net/tr/aspose.cells/calculationdata)

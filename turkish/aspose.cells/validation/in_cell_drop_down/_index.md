@@ -3,13 +3,13 @@ title: in_cell_drop_down mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 220
 url: /tr/aspose.cells/validation/in_cell_drop_down/
 is_root: false
 ---
 ##  in_cell_drop_down mülk
 
-Veri doğrulamanın kabul edilebilir değerler içeren bir açılır liste gösterip göstermediğini belirtir.
+Veri doğrulamanın kabul edilebilir değerler içeren bir açılır liste görüntüleyip görüntülemediğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def in_cell_drop_down(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Validation](/cells/python-net/tr/aspose.cells/validation)
+* modül [`aspose.cells`](../../)
+* sınıf [`Validation`](/cells/python-net/tr/aspose.cells/validation)

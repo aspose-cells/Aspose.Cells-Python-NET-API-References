@@ -3,7 +3,7 @@ title: text_body mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 980
+weight: 990
 url: /tr/aspose.cells.drawing/spinner/text_body/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [FontSettingCollection](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)
-* sınıf [Spinner](/cells/python-net/tr/aspose.cells.drawing/spinner)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`FontSettingCollection`](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)
+* sınıf [`Spinner`](/cells/python-net/tr/aspose.cells.drawing/spinner)

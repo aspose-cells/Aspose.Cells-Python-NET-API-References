@@ -3,7 +3,7 @@ title: bool_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 400
 url: /sv/aspose.cells/cell/bool_value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def bool_value(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

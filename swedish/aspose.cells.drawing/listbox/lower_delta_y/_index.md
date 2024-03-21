@@ -3,7 +3,7 @@ title: lower_delta_y fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 780
+weight: 790
 url: /sv/aspose.cells.drawing/listbox/lower_delta_y/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def lower_delta_y(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ListBox](/cells/python-net/sv/aspose.cells.drawing/listbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ListBox`](/cells/python-net/sv/aspose.cells.drawing/listbox)

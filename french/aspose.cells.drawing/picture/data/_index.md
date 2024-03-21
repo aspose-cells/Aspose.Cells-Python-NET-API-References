@@ -3,13 +3,13 @@ title: data propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 370
+weight: 390
 url: /fr/aspose.cells.drawing/picture/data/
 is_root: false
 ---
 ##  data propriété
 
-Obtient le data de l'image.
+Obtient le data de l’image.
 
 ###  Exemple
 
@@ -44,5 +44,5 @@ def data(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/fr/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/fr/aspose.cells.drawing/picture)

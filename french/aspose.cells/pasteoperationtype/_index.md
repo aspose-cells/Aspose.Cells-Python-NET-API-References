@@ -1,14 +1,14 @@
 ---
-title: PasteOperationType dénombrement
+title: PasteOperationType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2350
+weight: 2440
 url: /fr/aspose.cells/pasteoperationtype/
 is_root: false
 ---
-##  PasteOperationType dénombrement
-Représente le type d'opération lors du collage de la plage.
+##  PasteOperationType énumération
+Représente le type d’opération lors du collage d’une plage.
 
 
 
@@ -26,4 +26,4 @@ Le type PasteOperationType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

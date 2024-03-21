@@ -1,9 +1,9 @@
 ---
 title: FileFormatType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2040
+weight: 2110
 url: /ru/aspose.cells/fileformattype/
 is_root: false
 ---
@@ -12,34 +12,33 @@ is_root: false
 
 
 
-Тип FileFormatType предоставляет следующие члены:
+Тип FileFormatType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| CSV |Текстовый файл со значениями, разделенными запятыми (CSV).<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.CSV](/cells/python-net/ru/aspose.cells/fileformattype#CSV).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
+| CSV |Текстовый файл со значениями, разделенными запятыми (CSV).|
 | XLSX | Файл Office Open XML SpreadsheetML (без макросов).|
 | XLSM | Файл Office Open XML SpreadsheetML с поддержкой макросов.|
 | XLTX | Шаблон Office Open XML SpreadsheetML (без макросов).|
 | XLTM | Шаблон Office Open XML SpreadsheetML с поддержкой макросов.|
-| XLAM | Файл Office Open XML SpreadsheetML addinMacro-Enabled.|
-| TSV | Текстовый файл значений, разделенных табуляцией (TSV).<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.TSV](/cells/python-net/ru/aspose.cells/fileformattype#TSV).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| TAB_DELIMITED | Текстовый файл значений, разделенных табуляцией (TSV), то же, что и [FileFormatType.TSV](/cells/python-net/ru/aspose.cells/fileformattype#TSV).|
+| XLAM | Файл Office Open XML SpreadsheetML с поддержкой макросов.|
+| TSV | Текстовый файл со значениями, разделенными табуляцией (TSV).|
+| TAB_DELIMITED | Текстовый файл со значениями, разделенными табуляцией (TSV), аналогичный [`FileFormatType.TSV`](/cells/python-net/ru/aspose.cells/fileformattype#TSV).|
 | HTML | Формат HTML.|
-| M_HTML | Формат MHTML (веб-архив).|
-| ODS | Откройте файл Лист документа (ODS).<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.ODS](/cells/python-net/ru/aspose.cells/fileformattype#ODS).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
+| M_HTML | Формат MHTML (Веб-архив).|
+| ODS | Откройте файл «Лист документа» (ODS).|
 | EXCEL_97_TO_2003 | Файл электронной таблицы Excel97-2003.|
 | SPREADSHEET_ML | XML-файл данных Excel 2003.|
-| EXCEL_2003XML | XML-файл данных Excel 2003.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.SPREADSHEET_ML](/cells/python-net/ru/aspose.cells/fileformattype#SPREADSHEET_ML).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| XLSB | Формат двоичных файлов Excel (.xlsb)|
+| XLSB | Формат двоичного файла Excel (.xlsb)|
 | UNKNOWN | Представляет нераспознанный формат, не может быть загружен.|
-| PDF | PDF (Adobe Portable Document).|
-| XPS |XPS (XML Paper Specification).<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.XPS](/cells/python-net/ru/aspose.cells/fileformattype#XPS).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| TIFF | Представляет файл TIFF.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.TIFF](/cells/python-net/ru/aspose.cells/fileformattype#TIFF).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| SVG | SVG файл.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.SVG](/cells/python-net/ru/aspose.cells/fileformattype#SVG).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
+| PDF | Формат PDF (Adobe Portable Document).|
+| XPS | Формат XPS (спецификация бумаги XML).|
+| TIFF | Представляет файл TIFF.|
+| SVG | Файл SVG.|
 | EXCEL95 | Представляет файл Excel95 xls.|
 | EXCEL4 | Представляет файл Excel4.0 xls.|
-| EXCEL3 | Представляет файл Excel3.0 xls.|
+| EXCEL3 |Представляет файл Excel3.0 xls.|
 | EXCEL2 | Представляет файл Excel2.1 xls.|
 | PPTX | Представляет файл pptx.|
 | DOCX | Представляет файл docx.|
@@ -47,45 +46,53 @@ is_root: false
 | DOC | Представляет файл документа.|
 | PPT | Представляет файл ppt.|
 | MAPI_MESSAGE | Представляет файл электронной почты.|
-| MS_EQUATION | Представляет объект MS Equation 3.0.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.MS_EQUATION](/cells/python-net/ru/aspose.cells/fileformattype#MS_EQUATION).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| OLE_10_NATIVE | Представляет встроенный собственный объект.|
-| VSD | Представляет двоичный формат MS Visio VSD.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.VSD](/cells/python-net/ru/aspose.cells/fileformattype#VSD).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| VSDX | Представляет формат файла MS Visio 2013 VSDX.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.VSDX](/cells/python-net/ru/aspose.cells/fileformattype#VSDX).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
+| MS_EQUATION | Представляет объект MS Equation 3.0.|
+| OLE_10_NATIVE | Представляет внедренный собственный объект.|
+| VSD | Представляет двоичный формат MS Visio VSD.|
+| VSDX | Представляет формат файла MS Visio 2013 VSDX.|
 | DOCM | Представляет файл docm.|
 | DOTX | Представляет файл dotx.|
-| DOTM | Представляет файл dotm.|
+| DOTM | Представляет dotm-файл.|
 | PPTM | Представляет файл pptm.|
 | POTX | Представляет файл Potx.|
 | POTM | Представляет файл Potm.|
 | PPSX | Представляет файл ppsx.|
 | PPSM | Представляет файл ppsm.|
-| OOXML | Представляет офисный открытый XML-файл (например, xlsx, docx, pptx и т. д.).|
-| ODT |Представляет файл ODT.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.ODT](/cells/python-net/ru/aspose.cells/fileformattype#ODT).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| ODP | Представляет файл ODP.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.ODP](/cells/python-net/ru/aspose.cells/fileformattype#ODP).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| ODF | Представляет файл ODF.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.ODF](/cells/python-net/ru/aspose.cells/fileformattype#ODF).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| ODG | Представляет файл ODG.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.ODG](/cells/python-net/ru/aspose.cells/fileformattype#ODG).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| XML | Представляет собой простой XML-файл.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.XML](/cells/python-net/ru/aspose.cells/fileformattype#XML).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| XLT | Шаблон электронной таблицы Excel97-2003.|
-| OTT | Представляет файл OTT.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.OTT](/cells/python-net/ru/aspose.cells/fileformattype#OTT).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| BMP | Представляет файл BMP.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.BMP](/cells/python-net/ru/aspose.cells/fileformattype#BMP).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| OTS | Представляет файл OTS.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.OTS](/cells/python-net/ru/aspose.cells/fileformattype#OTS).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
+| OOXML | Представляет открытый XML-файл Office (например, xlsx, docx, pptx и т. д.).|
+| ODT | Представляет файл ODT.|
+| ODP | Представляет файл ODP.|
+| ODF | Представляет файл ODF.|
+| ODG | Представляет файл ODG.|
+| XML | Представляет простой XML-файл.|
+| XLT | Шаблон таблицы Excel97-2003.|
+| OTT |Представляет файл OTT.|
+| BMP | Представляет файл BMP.|
+| OTS | Представляет файл ots.|
 | NUMBERS | Представляет формат файла Numbers 9.0 от Apple Inc.|
 | NUMBERS09 | Представляет формат файла Numbers 9.0 от Apple Inc.|
 | MARKDOWN | Представляет документ уценки.|
 | GRAPH_CHART | Представляет встроенную графическую диаграмму.|
-| FODS | Представляет формат файла OpenDocument Flat XML Spreadsheet (.fods).<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.FODS](/cells/python-net/ru/aspose.cells/fileformattype#FODS).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| SXC | Представляет формат файла электронной таблицы StarOffice Calc (.sxc).<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.SXC](/cells/python-net/ru/aspose.cells/fileformattype#SXC).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| OTP | Представляет файл OTP.<br/> ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,<br/>пожалуйста, используйте свойство [FileFormatType.OTP](/cells/python-net/ru/aspose.cells/fileformattype#OTP).<br/> Это свойство будет удалено через 6 месяцев с апреля 2021 года.<br/> Aspose приносит извинения за возможные неудобства.|
-| NUMBERS35 | Представляет формат файла Numbers 3.5 с 2014 года от Apple Inc.|
+| FODS | Представляет формат файла электронной таблицы OpenDocument Flat XML (.fods).|
+| SXC | Представляет формат файла электронной таблицы StarOffice Calc (.sxc).|
+| OTP | Представляет файл OTP.|
+| NUMBERS35 | Представляет формат файлов Numbers 3.5 с 2014 года от Apple Inc.|
 | EMF | Windows Расширенный метафайл.|
 | WMF | Windows Метафайл.|
-| JPG | JPEG ЖФИФ.|
+| JPG | JPEG JFIF.|
 | PNG | Портативная сетевая графика.|
 | GIF | гифка|
-| JSON | Джейсон|
+| JSON | Json|
 | SQL_SCRIPT | SQL|
+| X_HTML | Представляет файл XHtml.|
+| ONE_NOTE | Представляет файл One Note.|
+| MICROSOFT_CABINET | /// <br/>Ррепесентс Microsoft Кабинет-файл.<br/><br/>Формат файла не поддерживается<br/> Только для определения типа файла.|
+| RTF |  |
+| EPUB | EPUB |
+| AZW3 | AZW3 |
+| OXPS | Формат OXPS (открытая спецификация бумаги XML).|
+| G_ZIP | Представляет файл GZip.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

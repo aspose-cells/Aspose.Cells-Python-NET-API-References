@@ -1,19 +1,19 @@
 ---
-title: get_printing_page_breaks método
+title: método get_printing_page_breaks
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 150
+weight: 170
 url: /es/aspose.cells/worksheet/get_printing_page_breaks/
 is_root: false
 ---
-##  get_printing_page_breaks(options) {#aspose.cells.rendering.ImageOrPrintOptions}
+##  get_printing_page_breaks {#aspose.cells.rendering.ImageOrPrintOptions}
 Obtiene saltos de página automáticos.
 
 
 ###  Devoluciones
 
-La página automática rompe áreas.
+La página automática salta áreas.
 
 
 ```python
@@ -32,5 +32,5 @@ Cada área de celda representa un papel.
 
 ###  Ver también
 
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

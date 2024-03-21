@@ -3,7 +3,7 @@ title: auto_size proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 70
+weight: 80
 url: /it/aspose.cells/comment/auto_size/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Indica se la dimensione del commento viene regolata automaticamente in base al s
 
 ```python
 
-if !comment1.auto_size:
+if notcomment1.auto_size:
     # The size of the comment varies with the content
     comment1.auto_size = True
 
@@ -31,5 +31,5 @@ def auto_size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Comment](/cells/python-net/it/aspose.cells/comment)
+* modulo [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/it/aspose.cells/comment)

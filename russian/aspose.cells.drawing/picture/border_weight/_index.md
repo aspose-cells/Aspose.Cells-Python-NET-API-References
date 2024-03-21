@@ -1,15 +1,15 @@
 ---
 title: border_weight недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ru/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
 ##  border_weight недвижимость
 
-Получает или задает вес линии границы изображения в единицах pt.
+Получает или задает толщину линии границы изображения в единицах pt.
 
 ###  Пример
 
@@ -27,7 +27,7 @@ pic = worksheet.pictures[imgIndex]
 # Set the border color of the picture
 pic.border_line_color = Color.red
 # Set the border width of the picture
-pic.border_weight = 3
+pic.border_weight = 3.0
 # Save the excel file.
 workbook.save("result.xlsx")
 
@@ -43,5 +43,5 @@ def border_weight(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Picture](/cells/python-net/ru/aspose.cells.drawing/picture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture)

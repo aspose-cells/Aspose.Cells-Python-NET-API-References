@@ -3,7 +3,7 @@ title: LoadOptions classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1020
+weight: 1060
 url: /fr/aspose.cells/loadoptions/
 is_root: false
 ---
@@ -17,8 +17,8 @@ Le type LoadOptions expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [LoadOptions()](/cells/python-net/fr/aspose.cells/loadoptions/__init__/#) | Crée une option de chargement du fichier.|
-| [LoadOptions(load_format)](/cells/python-net/fr/aspose.cells/loadoptions/__init__/#LoadFormat) | Crée une option de chargement du fichier.|
+| [__init__](/cells/python-net/fr/aspose.cells/loadoptions/__init__/#) | Crée une option de chargement du fichier.|
+| [__init__](/cells/python-net/fr/aspose.cells/loadoptions/__init__/#aspose.cells.LoadFormat) | Crée une option de chargement du fichier.|
 
 
 ###  Propriétés
@@ -27,34 +27,36 @@ Le type LoadOptions expose les membres suivants :
 | [load_format](/cells/python-net/fr/aspose.cells/loadoptions/load_format) | Obtient le format de chargement.|
 | [password](/cells/python-net/fr/aspose.cells/loadoptions/password) | Obtient et définit le mot de passe du classeur.|
 | [parsing_formula_on_open](/cells/python-net/fr/aspose.cells/loadoptions/parsing_formula_on_open) | Indique si l'analyse de la formule lors de la lecture du fichier.|
-| [parsing_pivot_cached_records](/cells/python-net/fr/aspose.cells/loadoptions/parsing_pivot_cached_records) | Indique si l'analyse du pivot a mis en cache les enregistrements lors du chargement du fichier.<br/> La valeur par défaut est faux.|
-| [language_code](/cells/python-net/fr/aspose.cells/loadoptions/language_code) | Obtient ou définit la langue de l'interface utilisateur de la version de Workbook basée sur CountryCode qui a enregistré le fichier.|
-| [region](/cells/python-net/fr/aspose.cells/loadoptions/region) | Obtient ou définit les paramètres régionaux du système en fonction de CountryCode au moment du chargement du fichier.|
+| [parsing_pivot_cached_records](/cells/python-net/fr/aspose.cells/loadoptions/parsing_pivot_cached_records) | Indique si l’analyse des enregistrements mis en cache par pivot lors du chargement du fichier.<br/> La valeur par défaut est fausse.|
+| [language_code](/cells/python-net/fr/aspose.cells/loadoptions/language_code) | Obtient ou définit la langue de l'interface utilisateur de la version du Workbook en fonction du CountryCode qui a enregistré le fichier.|
+| [region](/cells/python-net/fr/aspose.cells/loadoptions/region) |Obtient ou définit les paramètres régionaux du système en fonction de CountryCode au moment du chargement du fichier.|
 | [default_style_settings](/cells/python-net/fr/aspose.cells/loadoptions/default_style_settings) | Obtient les paramètres de style par défaut pour initialiser les styles du classeur|
 | [standard_font](/cells/python-net/fr/aspose.cells/loadoptions/standard_font) | Définit le nom de police standard par défaut|
 | [standard_font_size](/cells/python-net/fr/aspose.cells/loadoptions/standard_font_size) | Définit la taille de police standard par défaut.|
 | [interrupt_monitor](/cells/python-net/fr/aspose.cells/loadoptions/interrupt_monitor) | Obtient et définit le moniteur d'interruption.|
-| [ignore_not_printed](/cells/python-net/fr/aspose.cells/loadoptions/ignore_not_printed) | Ignorer les données qui ne sont pas imprimées en cas d'impression directe du fichier|
-| [check_data_valid](/cells/python-net/fr/aspose.cells/loadoptions/check_data_valid) |Vérifiez si les données sont valides dans le fichier modèle.|
-| [check_excel_restriction](/cells/python-net/fr/aspose.cells/loadoptions/check_excel_restriction) | Si vérifier la restriction du fichier Excel lorsque l'utilisateur modifie les objets liés aux cellules.<br/>Par exemple, Excel n'autorise pas la saisie d'une valeur de chaîne supérieure à 32 Ko.<br/>Lorsque vous saisissez une valeur supérieure à 32 Ko, par exemple Cell.PutValue(string), si cette propriété est vraie, vous obtiendrez une exception.<br/>Si cette propriété est fausse, nous accepterons votre valeur de chaîne d'entrée comme valeur de la cellule afin que plus tard<br/>vous pouvez générer la valeur de chaîne complète pour d'autres formats de fichier tels que CSV.<br/>Cependant, si vous avez défini un type de valeur non valide pour le format de fichier Excel,<br/> vous ne devez pas enregistrer le classeur au format de fichier Excel ultérieurement. Sinon, il peut y avoir une erreur inattendue pour le fichier Excel généré.|
-| [keep_unparsed_data](/cells/python-net/fr/aspose.cells/loadoptions/keep_unparsed_data) | Indique si les données non analysées sont conservées en mémoire pour le classeur lorsqu'il est chargé à partir du fichier de modèle. La valeur par défaut est true.|
+| [ignore_not_printed](/cells/python-net/fr/aspose.cells/loadoptions/ignore_not_printed) | Ignorer les données qui ne sont pas imprimées si vous imprimez directement le fichier|
+| [check_data_valid](/cells/python-net/fr/aspose.cells/loadoptions/check_data_valid) | Vérifiez si les données sont valides dans le fichier modèle.|
+| [check_excel_restriction](/cells/python-net/fr/aspose.cells/loadoptions/check_excel_restriction) | Vérifier ou non la restriction du fichier Excel lorsque l'utilisateur modifie les objets liés aux cellules.<br/>Par exemple, Excel ne permet pas de saisir une valeur de chaîne supérieure à 32 Ko.<br/>Lorsque vous saisissez une valeur supérieure à 32 Ko, par exemple Cell.PutValue(string), si cette propriété est vraie, vous obtiendrez une exception.<br/>Si cette propriété est fausse, nous accepterons la valeur de votre chaîne d'entrée comme valeur de la cellule afin que plus tard<br/>vous pouvez afficher la valeur de chaîne complète pour d'autres formats de fichiers tels que CSV.<br/>Cependant, si vous avez défini un type de valeur non valide pour le format de fichier Excel,<br/> vous ne devez pas enregistrer le classeur au format de fichier Excel ultérieurement. Sinon, une erreur inattendue pourrait se produire pour le fichier Excel généré.|
+| [keep_unparsed_data](/cells/python-net/fr/aspose.cells/loadoptions/keep_unparsed_data) | Indique si les données non analysées sont conservées en mémoire pour le classeur lorsqu'il est chargé à partir du fichier modèle. La valeur par défaut est vraie.|
 | [load_filter](/cells/python-net/fr/aspose.cells/loadoptions/load_filter) | Le filtre pour indiquer comment charger les données.|
-| [light_cells_data_handler](/cells/python-net/fr/aspose.cells/loadoptions/light_cells_data_handler) | Le gestionnaire de données pour le traitement des données des cellules lors de la lecture du fichier de modèle.|
+| [light_cells_data_handler](/cells/python-net/fr/aspose.cells/loadoptions/light_cells_data_handler) | Le gestionnaire de données pour traiter les données des cellules lors de la lecture du fichier modèle.|
 | [memory_setting](/cells/python-net/fr/aspose.cells/loadoptions/memory_setting) | Obtient ou définit les options d'utilisation de la mémoire.|
-| [warning_callback](/cells/python-net/fr/aspose.cells/loadoptions/warning_callback) | Obtient ou définit un rappel d'avertissement.|
+| [warning_callback](/cells/python-net/fr/aspose.cells/loadoptions/warning_callback) | Obtient ou définit un rappel d’avertissement.|
 | [auto_fitter_options](/cells/python-net/fr/aspose.cells/loadoptions/auto_fitter_options) | Obtient et définit les options d'ajustement automatique|
-| [auto_filter](/cells/python-net/fr/aspose.cells/loadoptions/auto_filter) | Indique si le filtrage automatique des données lors du chargement des fichiers.|
-| [font_configs](/cells/python-net/fr/aspose.cells/loadoptions/font_configs) | Obtient et définit des configurations de police individuelles.<br/> Ne fonctionne que pour le [Workbook](/cells/python-net/fr/aspose.cells/workbook) qui utilise ce [LoadOptions](/cells/python-net/fr/aspose.cells/loadoptions) pour charger.|
+| [auto_filter](/cells/python-net/fr/aspose.cells/loadoptions/auto_filter) | Indique si le filtrage automatique des données lors du chargement des fichiers est effectué.|
+| [font_configs](/cells/python-net/fr/aspose.cells/loadoptions/font_configs) | Obtient et définit des configurations de police individuelles.<br/> Fonctionne uniquement pour le [`Workbook`](/cells/python-net/fr/aspose.cells/workbook) qui utilise ce [`LoadOptions`](/cells/python-net/fr/aspose.cells/loadoptions) pour charger.|
+| [ignore_useless_shapes](/cells/python-net/fr/aspose.cells/loadoptions/ignore_useless_shapes) | Indique si les formes inutiles sont ignorées.|
+| [preserve_padding_spaces_in_formula](/cells/python-net/fr/aspose.cells/loadoptions/preserve_padding_spaces_in_formula) | Indique si les espaces et les sauts de ligne qui sont remplis entre les jetons de formule sont conservés<br/>tout en obtenant et en définissant des formules.<br/> La valeur par défaut est fausse.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [set_paper_size(type)](/cells/python-net/fr/aspose.cells/loadoptions/set_paper_size/#PaperSizeType) | Définit le format de papier d'impression par défaut à partir des paramètres par défaut de l'imprimante.|
+| [set_paper_size](/cells/python-net/fr/aspose.cells/loadoptions/set_paper_size/#aspose.cells.PaperSizeType) | Définit le format de papier d'impression par défaut à partir des paramètres par défaut de l'imprimante.|
 
 
 
 ###  Voir également
-* module [aspose.cells](..)
-* classe [LoadOptions](/cells/python-net/fr/aspose.cells/loadoptions)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](..)
+* classe [`LoadOptions`](/cells/python-net/fr/aspose.cells/loadoptions)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

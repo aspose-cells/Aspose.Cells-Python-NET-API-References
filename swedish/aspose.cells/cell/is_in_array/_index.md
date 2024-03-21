@@ -3,7 +3,7 @@ title: is_in_array fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 560
+weight: 590
 url: /sv/aspose.cells/cell/is_in_array/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Anger om cellformeln är en matrisformel.
 
 ###  Anmärkningar
 
- OBS: Denna klass är nu föråldrad. Istället,
+OBS: Denna klass är nu föråldrad. Istället,
 använd Cell.IsArrayFormula för att kontrollera om cellformeln är en matrisformel.
 Den här egenskapen kommer att tas bort 12 månader senare sedan maj 2018.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
@@ -25,5 +25,5 @@ def is_in_array(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

@@ -1,15 +1,15 @@
 ---
-title: first_visible_column الملكية
+title: first_visible_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 500
 url: /ar/aspose.cells/worksheet/first_visible_column/
 is_root: false
 ---
-##  first_visible_column الملكية
+##  first_visible_column عقار
 
-يمثل أول مؤشر عمود مرئي.
+يمثل أول فهرس العمود المرئي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def first_visible_column(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

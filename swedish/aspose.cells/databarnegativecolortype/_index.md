@@ -3,7 +3,7 @@ title: DataBarNegativeColorType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1930
+weight: 2000
 url: /sv/aspose.cells/databarnegativecolortype/
 is_root: false
 ---
@@ -17,10 +17,10 @@ Typen DataBarNegativeColorType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| COLOR | Använd den färg som anges i dialogrutan Negativt värde och axelinställning<br/> eller genom att använda egenskaperna ColorType och BorderColorType för NegativeBarFormat-objektet.|
+| COLOR |Använd den färg som anges i dialogrutan Negativt värde och axelinställning<br/> eller genom att använda egenskaperna ColorType och BorderColorType för NegativeBarFormat-objektet.|
 | SAME_AS_POSITIVE | Använd samma färg som positiva datafält.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

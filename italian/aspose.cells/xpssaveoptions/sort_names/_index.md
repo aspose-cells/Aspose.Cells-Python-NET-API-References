@@ -3,7 +3,7 @@ title: sort_names proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 260
+weight: 270
 url: /it/aspose.cells/xpssaveoptions/sort_names/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sort_names(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [XpsSaveOptions](/cells/python-net/it/aspose.cells/xpssaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`XpsSaveOptions`](/cells/python-net/it/aspose.cells/xpssaveoptions)

@@ -22,16 +22,17 @@ Typen CalculationData avslöjar följande medlemmar:
 | [worksheet](/cells/python-net/sv/aspose.cells/calculationdata/worksheet) | Hämtar Worksheet-objektet där funktionen finns i.|
 | [cell_row](/cells/python-net/sv/aspose.cells/calculationdata/cell_row) | Hämtar radindex för cellen där funktionen finns i.|
 | [cell_column](/cells/python-net/sv/aspose.cells/calculationdata/cell_column) | Hämtar kolumnindex för cellen där funktionen finns i.|
-| [cell](/cells/python-net/sv/aspose.cells/calculationdata/cell) |Hämtar objektet Cell där funktionen finns.|
-| [function_name](/cells/python-net/sv/aspose.cells/calculationdata/function_name) | Hämtar funktionsnamnet som ska beräknas.|
+| [cell](/cells/python-net/sv/aspose.cells/calculationdata/cell) | Hämtar objektet Cell där funktionen finns.|
+| [function_name](/cells/python-net/sv/aspose.cells/calculationdata/function_name) |Hämtar funktionsnamnet som ska beräknas.|
 | [param_count](/cells/python-net/sv/aspose.cells/calculationdata/param_count) | Hämtar antalet parametrar|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_param_value(index)](/cells/python-net/sv/aspose.cells/calculationdata/get_param_value/#int) | Hämtar det representerade värdeobjektet för parametern vid ett givet index.|
-| [get_param_text(index)](/cells/python-net/sv/aspose.cells/calculationdata/get_param_text/#int) | Hämtar den bokstavliga texten för parametern vid ett givet index.|
+| [get_param_value](/cells/python-net/sv/aspose.cells/calculationdata/get_param_value/#int) | Hämtar det representerade värdeobjektet för parametern vid ett givet index.|
+| [get_param_value_in_array_mode](/cells/python-net/sv/aspose.cells/calculationdata/get_param_value_in_array_mode/#int-int-int) | Hämtar värdet/värdena för parametern vid givet index.<br/>Om parametern är något slags uttryck som behöver beräknas,<br/> sedan kommer det att beräknas i array-läge.|
+| [get_param_text](/cells/python-net/sv/aspose.cells/calculationdata/get_param_text/#int) | Hämtar den bokstavliga texten för parametern vid ett givet index.|
 
 
 
@@ -42,4 +43,4 @@ Användaren ska inte ändra några data i arbetsboken under formelberäkningspro
 Annars kan oväntade resultat eller undantag orsakas.
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

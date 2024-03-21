@@ -3,20 +3,20 @@ title: html_text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 480
+weight: 490
 url: /tr/aspose.cells.drawing/oval/html_text/
 is_root: false
 ---
 ##  html_text mülk
 
-Bu metin kutusundaki verileri ve bazı biçimleri içeren html dizesini alır ve ayarlar.
+Bu metin kutusundaki verileri ve bazı formatları içeren html dizesini alır ve ayarlar.
 
 ###  Örnek
 
 ```python
 
 html = shape.html_text
-if html == null  || html == "":
+if html == null  or html == "":
     shape.html_text = "<Font Style='FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #0000ff;TEXT-ALIGN: left;'>This is a <b>test</b>.</Font>"
 
 ```
@@ -31,5 +31,5 @@ def html_text(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Oval](/cells/python-net/tr/aspose.cells.drawing/oval)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Oval`](/cells/python-net/tr/aspose.cells.drawing/oval)

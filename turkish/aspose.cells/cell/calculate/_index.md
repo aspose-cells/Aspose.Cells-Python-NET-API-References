@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells/cell/calculate/
 is_root: false
 ---
-##  calculate(options) {#CalculationOptions}
+##  calculate {#aspose.cells.CalculationOptions}
 Hücrenin formülünü hesaplar.
 
 
@@ -20,32 +20,10 @@ def calculate(self, options):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| options | [CalculationOptions](/cells/python-net/tr/aspose.cells/calculationoptions) | Hesaplama seçenekleri|
+| options | [`CalculationOptions`](/cells/python-net/tr/aspose.cells/calculationoptions) | Hesaplama seçenekleri|
 
-
-##  calculate(ignore_error, custom_function) {#bool-ICustomFunction}
-Hücrenin formülünü hesaplar.
-
-
-
-```python
-def calculate(self, ignore_error, custom_function):
-    ...
-```
-
-
-| Parametre| Tip| Tanım|
-| :- | :- | :- |
-| ignore_error | bool | Formüllerin hesaplanmasındaki hatayı gizleyip gizlemediğini gösterir.<br/> Hata, desteklenmeyen işlev, harici bağlantılar vb. olabilir.|
-| custom_function | [ICustomFunction](/cells/python-net/tr/aspose.cells/icustomfunction) | Özel formül hesaplama, hesaplama motorunu genişletmek için çalışır.|
-###  Notlar
-
-NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen Calculate(CalculationOptions) yöntemini kullanın.
- Bu yöntem Ağustos 2020'den itibaren 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

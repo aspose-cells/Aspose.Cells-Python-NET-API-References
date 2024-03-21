@@ -3,7 +3,7 @@ title: int_value Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 500
+weight: 530
 url: /de/aspose.cells/cell/int_value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def int_value(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

@@ -1,15 +1,15 @@
 ---
-title: style الملكية
+title: style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1310
+weight: 1300
 url: /ar/aspose.cells/cells/style/
 is_root: false
 ---
-##  style الملكية
+##  style عقار
 
-الحصول على الافتراضي style وتعيينه.
+الحصول على الرقم الافتراضي style لورقة العمل وتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

@@ -1,9 +1,9 @@
 ---
 title: IWarningCallback класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 880
+weight: 920
 url: /ru/aspose.cells/iwarningcallback/
 is_root: false
 ---
@@ -12,14 +12,14 @@ is_root: false
 
 
 
-Тип IWarningCallback предоставляет следующие члены:
+Тип IWarningCallback предоставляет следующие элементы:
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [warning(warning_info)](/cells/python-net/ru/aspose.cells/iwarningcallback/warning/#WarningInfo) | Нашему обратному вызову нужно только реализовать метод «Предупреждение».|
+| [warning](/cells/python-net/ru/aspose.cells/iwarningcallback/warning/#aspose.cells.WarningInfo) | Нашему обратному вызову необходимо реализовать только метод «Предупреждение».|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

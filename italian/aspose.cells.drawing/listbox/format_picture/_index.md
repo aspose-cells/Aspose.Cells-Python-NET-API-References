@@ -3,7 +3,7 @@ title: format_picture proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 390
+weight: 400
 url: /it/aspose.cells.drawing/listbox/format_picture/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def format_picture(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ListBox](/cells/python-net/it/aspose.cells.drawing/listbox)
-* classe [MsoFormatPicture](/cells/python-net/it/aspose.cells.drawing/msoformatpicture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ListBox`](/cells/python-net/it/aspose.cells.drawing/listbox)
+* classe [`MsoFormatPicture`](/cells/python-net/it/aspose.cells.drawing/msoformatpicture)

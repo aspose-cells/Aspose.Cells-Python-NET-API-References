@@ -3,7 +3,7 @@ title: min proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 830
+weight: 840
 url: /it/aspose.cells.drawing/scrollbar/min/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def min(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ScrollBar](/cells/python-net/it/aspose.cells.drawing/scrollbar)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ScrollBar`](/cells/python-net/it/aspose.cells.drawing/scrollbar)

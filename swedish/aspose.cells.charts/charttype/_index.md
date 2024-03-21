@@ -3,7 +3,7 @@ title: ChartType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 460
 url: /sv/aspose.cells.charts/charttype/
 is_root: false
 ---
@@ -25,10 +25,10 @@ Typen ChartType avslöjar följande medlemmar:
 | AREA_3D100_PERCENT_STACKED | Representerar 3D 100 % staplade ytdiagram.|
 | BAR | Representerar stapeldiagram: Klustrat stapeldiagram.|
 | BAR_STACKED | Representerar staplade stapeldiagram.|
-| BAR_100_PERCENT_STACKED |Representerar 100 % staplat stapeldiagram.|
+| BAR_100_PERCENT_STACKED | Representerar 100 % staplat stapeldiagram.|
 | BAR_3D_CLUSTERED | Representerar 3D-klustrade stapeldiagram.|
 | BAR_3D_STACKED | Representerar 3D staplade stapeldiagram.|
-| BAR_3D100_PERCENT_STACKED | Representerar 3D 100 % staplade stapeldiagram.|
+| BAR_3D100_PERCENT_STACKED |Representerar 3D 100 % staplade stapeldiagram.|
 | BUBBLE | Representerar bubbeldiagram.|
 | BUBBLE_3D | Representerar 3D Bubble Chart.|
 | COLUMN | Representerar kolumndiagram: klustrade kolumndiagram.|
@@ -49,9 +49,9 @@ Typen ChartType avslöjar följande medlemmar:
 | CYLINDER_STACKED | Representerar diagram över staplade cylindrar.|
 | CYLINDER_100_PERCENT_STACKED | Representerar 100 % staplade cylinderdiagram.|
 | CYLINDRICAL_BAR | Representerar cylindriskt stapeldiagram.|
-| CYLINDRICAL_BAR_STACKED |Representerar staplade cylindriska stapeldiagram.|
+| CYLINDRICAL_BAR_STACKED | Representerar staplade cylindriska stapeldiagram.|
 | CYLINDRICAL_BAR_100_PERCENT_STACKED | Representerar 100 % staplade cylindriska stapeldiagram.|
-| CYLINDRICAL_COLUMN_3D | Representerar 3D Cylindrical Column Chart.|
+| CYLINDRICAL_COLUMN_3D |Representerar 3D Cylindrical Column Chart.|
 | DOUGHNUT | Representerar munkdiagram.|
 | DOUGHNUT_EXPLODED | Representerar Exploded Donut Chart.|
 | LINE | Representerar linjediagram.|
@@ -73,9 +73,9 @@ Typen ChartType avslöjar följande medlemmar:
 | PYRAMID_BAR | Representerar pyramidstapeldiagram.|
 | PYRAMID_BAR_STACKED | Representerar staplad pyramidstapeldiagram.|
 | PYRAMID_BAR_100_PERCENT_STACKED | Representerar 100 % staplad pyramidstapeldiagram.|
-| PYRAMID_COLUMN_3D |Representerar 3D Pyramid Column Chart.|
+| PYRAMID_COLUMN_3D | Representerar 3D Pyramid Column Chart.|
 | RADAR | Representerar radardiagram.|
-| RADAR_WITH_DATA_MARKERS | Representerar radardiagram med datamarkörer.|
+| RADAR_WITH_DATA_MARKERS |Representerar radardiagram med datamarkörer.|
 | RADAR_FILLED | Representerar fyllt radardiagram.|
 | SCATTER | Representerar spridningsdiagram.|
 | SCATTER_CONNECTED_BY_CURVES_WITH_DATA_MARKER | Representerar spridningsdiagram kopplade av kurvor, med datamarkörer.|
@@ -93,8 +93,8 @@ Typen ChartType avslöjar följande medlemmar:
 | BOX_WHISKER | Serien är upplagd som låda och morrhår.|
 | FUNNEL | Serien är upplagd som en tratt.|
 | PARETO_LINE | Serien är upplagd som pareto-linjer.|
-| SUNBURST |Serien är upplagd som en sunburst.|
-| TREEMAP | Serien är upplagd som en trädkarta.|
+| SUNBURST | Serien är upplagd som en sunburst.|
+| TREEMAP |Serien är upplagd som en trädkarta.|
 | WATERFALL | Serien är upplagd som ett vattenfall.|
 | HISTOGRAM | Serien är upplagd som ett histogram.|
 | MAP | Serien är upplagd som en regionkarta.|
@@ -103,4 +103,4 @@ Typen ChartType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

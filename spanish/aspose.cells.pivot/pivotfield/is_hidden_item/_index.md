@@ -1,13 +1,13 @@
 ---
-title: is_hidden_item método
+title: método is_hidden_item
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 110
+weight: 130
 url: /es/aspose.cells.pivot/pivotfield/is_hidden_item/
 is_root: false
 ---
-##  is_hidden_item(index) {#int}
+##  is_hidden_item {#int}
 Indica si el PivotItem específico está oculto.
 
 
@@ -24,10 +24,10 @@ def is_hidden_item(self, index):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| index | int | el índice de pivotItem en pivotField.|
+| index | int | el índice del elemento pivote en el campo pivote.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotField](/cells/python-net/es/aspose.cells.pivot/pivotfield)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotField`](/cells/python-net/es/aspose.cells.pivot/pivotfield)

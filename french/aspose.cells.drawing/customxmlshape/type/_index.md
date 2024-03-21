@@ -3,7 +3,7 @@ title: type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /fr/aspose.cells.drawing/customxmlshape/type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [AutoShapeType](/cells/python-net/fr/aspose.cells.drawing/autoshapetype)
-* classe [CustomXmlShape](/cells/python-net/fr/aspose.cells.drawing/customxmlshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`AutoShapeType`](/cells/python-net/fr/aspose.cells.drawing/autoshapetype)
+* classe [`CustomXmlShape`](/cells/python-net/fr/aspose.cells.drawing/customxmlshape)

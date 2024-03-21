@@ -3,7 +3,7 @@ title: width_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 260
 url: /sv/aspose.cells/comment/width_inch/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def width_inch(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Comment](/cells/python-net/sv/aspose.cells/comment)
+* modul [`aspose.cells`](../../)
+* klass [`Comment`](/cells/python-net/sv/aspose.cells/comment)

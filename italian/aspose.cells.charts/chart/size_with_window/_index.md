@@ -3,13 +3,13 @@ title: size_with_window proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 570
+weight: 600
 url: /it/aspose.cells.charts/chart/size_with_window/
 is_root: false
 ---
 ##  size_with_window proprietà
 
-True se Microsoft Excel ridimensiona il grafico in modo che corrisponda alle dimensioni della finestra del foglio grafico.
+Vero se Microsoft Excel ridimensiona il grafico in modo che corrisponda alla dimensione della finestra del foglio grafico.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def size_with_window(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)

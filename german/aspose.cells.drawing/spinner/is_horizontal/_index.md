@@ -3,7 +3,7 @@ title: is_horizontal Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 600
+weight: 610
 url: /de/aspose.cells.drawing/spinner/is_horizontal/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_horizontal(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Spinner](/cells/python-net/de/aspose.cells.drawing/spinner)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Spinner`](/cells/python-net/de/aspose.cells.drawing/spinner)

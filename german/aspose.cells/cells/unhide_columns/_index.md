@@ -3,12 +3,12 @@ title: unhide_columns Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 980
+weight: 970
 url: /de/aspose.cells/cells/unhide_columns/
 is_root: false
 ---
-##  unhide_columns(column, total_columns, width) {#int-int-float}
-Blenden Sie mehrere Spalten ein.
+##  unhide_columns {#int-int-float}
+Mehrere Spalten einblenden.
 
 
 
@@ -30,5 +30,5 @@ Wendet die Spaltenbreite nur auf die ausgeblendeten Spalten an.
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

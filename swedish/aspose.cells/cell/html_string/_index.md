@@ -3,7 +3,7 @@ title: html_string fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 490
+weight: 520
 url: /sv/aspose.cells/cell/html_string/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def html_string(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

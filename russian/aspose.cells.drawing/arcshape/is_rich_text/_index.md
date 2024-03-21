@@ -1,9 +1,9 @@
 ---
 title: is_rich_text недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 680
+weight: 690
 url: /ru/aspose.cells.drawing/arcshape/is_rich_text/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def is_rich_text(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ArcShape](/cells/python-net/ru/aspose.cells.drawing/arcshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ArcShape`](/cells/python-net/ru/aspose.cells.drawing/arcshape)

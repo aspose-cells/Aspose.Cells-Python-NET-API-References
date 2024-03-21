@@ -3,20 +3,20 @@ title: height_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 510
+weight: 520
 url: /tr/aspose.cells.drawing/lineshape/height_inch/
 is_root: false
 ---
 ##  height_inch mülk
 
-Şeklin inç cinsinden yüksekliğini temsil eder.
+Şeklin yüksekliğini inç cinsinden temsil eder.
 
 ###  Örnek
 
 ```python
 
 if shape.height_inch == 3:
-    shape.height_inch = 1
+    shape.height_inch = 1.0
 
 ```
 ###  Tanım:
@@ -30,5 +30,5 @@ def height_inch(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineShape](/cells/python-net/tr/aspose.cells.drawing/lineshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineShape`](/cells/python-net/tr/aspose.cells.drawing/lineshape)

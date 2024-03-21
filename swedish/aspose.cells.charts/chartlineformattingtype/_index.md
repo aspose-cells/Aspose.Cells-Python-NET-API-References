@@ -3,7 +3,7 @@ title: ChartLineFormattingType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 420
 url: /sv/aspose.cells.charts/chartlineformattingtype/
 is_root: false
 ---
@@ -19,10 +19,10 @@ Typen ChartLineFormattingType avslöjar följande medlemmar:
 | :- | :- |
 | AUTOMATIC | Representerar automatisk formateringstyp.|
 | SOLID | Representerar solid formateringstyp.|
-| NONE | Representerar ingen formateringstyp.|
+| NONE |Representerar ingen formateringstyp.|
 | GRADIENT | Lutning|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

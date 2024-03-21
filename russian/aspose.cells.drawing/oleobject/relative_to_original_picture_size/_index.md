@@ -1,9 +1,9 @@
 ---
 title: relative_to_original_picture_size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /ru/aspose.cells.drawing/oleobject/relative_to_original_picture_size/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def relative_to_original_picture_size(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

@@ -3,11 +3,11 @@ title: set_characters yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 320
 url: /tr/aspose.cells/cell/set_characters/
 is_root: false
 ---
-##  set_characters(characters) {#list}
+##  set_characters {#list}
 Hücrenin zengin metin biçimini ayarlar.
 
 
@@ -25,5 +25,5 @@ def set_characters(self, characters):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

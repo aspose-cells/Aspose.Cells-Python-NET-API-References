@@ -3,11 +3,11 @@ title: to_image metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 230
 url: /sv/aspose.cells.drawing/commentshape/to_image/
 is_root: false
 ---
-##  to_image(stream, image_type) {#io.RawIOBase-ImageType}
+##  to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
 Skapar formbilden och sparar den i en ström i det angivna formatet.
 
 
@@ -21,7 +21,7 @@ def to_image(self, stream, image_type):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | stream | io.RawIOBase | Utgångsströmmen.|
-| image_type | [ImageType](/cells/python-net/sv/aspose.cells.drawing/imagetype) | Typen där bilden ska sparas.|
+| image_type | [`ImageType`](/cells/python-net/sv/aspose.cells.drawing/imagetype) | Typen där bilden ska sparas.|
 ###  Anmärkningar
 
 Följande format stöds:
@@ -38,7 +38,7 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-##  to_image(image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Sparar formen till en fil.
 
 
@@ -65,7 +65,7 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 Sparar formen till en ström.
 
 
@@ -96,5 +96,5 @@ shape.to_image(imageStream, op)
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CommentShape](/cells/python-net/sv/aspose.cells.drawing/commentshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CommentShape`](/cells/python-net/sv/aspose.cells.drawing/commentshape)

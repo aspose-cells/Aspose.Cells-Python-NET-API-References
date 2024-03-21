@@ -3,7 +3,7 @@ title: width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /sv/aspose.cells.drawing/oval/width/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Oval](/cells/python-net/sv/aspose.cells.drawing/oval)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Oval`](/cells/python-net/sv/aspose.cells.drawing/oval)

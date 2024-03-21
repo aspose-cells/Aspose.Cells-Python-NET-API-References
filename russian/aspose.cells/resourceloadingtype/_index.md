@@ -1,18 +1,18 @@
 ---
 title: ResourceLoadingType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2440
+weight: 2530
 url: /ru/aspose.cells/resourceloadingtype/
 is_root: false
 ---
 ##  ResourceLoadingType перечисление
-Представляет, как загрузить связанный ресурс.
+Представляет способ загрузки связанного ресурса.
 
 
 
-Тип ResourceLoadingType предоставляет следующие члены:
+Тип ResourceLoadingType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

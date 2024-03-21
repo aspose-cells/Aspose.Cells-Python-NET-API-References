@@ -1,9 +1,9 @@
 ---
 title: Top10 класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1480
+weight: 1550
 url: /ru/aspose.cells/top10/
 is_root: false
 ---
@@ -14,20 +14,20 @@ is_root: false
 
 
 
-Тип Top10 предоставляет следующие члены:
+Тип Top10 предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [Top10()](/cells/python-net/ru/aspose.cells/top10/__init__/#) |Создает новый экземпляр Top10|
+| [__init__](/cells/python-net/ru/aspose.cells/top10/__init__/#) | Создает новый экземпляр Top10.|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [is_percent](/cells/python-net/ru/aspose.cells/top10/is_percent) | Получите или задайте, является ли правило "первые/нижние n" правилом "первые/нижние n процентов".<br/> Значение по умолчанию — ложь.|
-| [is_bottom](/cells/python-net/ru/aspose.cells/top10/is_bottom) | Получите или задайте, является ли правило "первые/нижние n" правилом "нижних n".<br/> Значение по умолчанию — ложь.|
-| [rank](/cells/python-net/ru/aspose.cells/top10/rank) | Получите или задайте значение «n» в правиле условного форматирования «верхнее/нижнее n».<br/>Если IsPercent имеет значение true, значение должно находиться в диапазоне от 0 до 100.<br/>В противном случае он должен быть между 0 и 1000.<br/> Значение по умолчанию — 10.|
+| [is_percent](/cells/python-net/ru/aspose.cells/top10/is_percent) | Получите или установите, является ли правило «верхнее/нижнее n» правилом «верхнее/нижнее n процентов».<br/> Значение по умолчанию — ложь.|
+| [is_bottom](/cells/python-net/ru/aspose.cells/top10/is_bottom) | Получите или установите, является ли правило «верхнее/нижнее n» правилом «нижнее n».<br/> Значение по умолчанию — ложь.|
+| [rank](/cells/python-net/ru/aspose.cells/top10/rank) | Получите или установите значение «n» в правиле условного форматирования «верхнее/нижнее n».<br/>Если IsPercent имеет значение true, значение должно находиться в диапазоне от 0 до 100.<br/>В противном случае оно должно находиться в диапазоне от 0 до 1000.<br/> Значение по умолчанию — 10.|
 
 
 
@@ -60,4 +60,4 @@ workbook.save("output.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

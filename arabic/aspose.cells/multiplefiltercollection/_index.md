@@ -1,37 +1,37 @@
 ---
-title: MultipleFilterCollection الدرجة
+title: MultipleFilterCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1060
+weight: 1100
 url: /ar/aspose.cells/multiplefiltercollection/
 is_root: false
 ---
-##  MultipleFilterCollection الدرجة
-يمثل مجموعة عوامل التصفية المتعددة.
+##  MultipleFilterCollection صف
+يمثل مجموعة المرشحات المتعددة.
 
 
 
-يكشف نوع MultipleFilterCollection الأعضاء التالية:
+يكشف النوع MultipleFilterCollection عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [MultipleFilterCollection()](/cells/python-net/ar/aspose.cells/multiplefiltercollection/__init__/#) | إنشاء مثيل جديد من MultiFilterCollection|
+| [__init__](/cells/python-net/ar/aspose.cells/multiplefiltercollection/__init__/#) | يبني مثيل واحد جديد.|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [match_blank](/cells/python-net/ar/aspose.cells/multiplefiltercollection/match_blank) | يشير إلى ما إذا كان سيتم التصفية حسب الفراغ.|
+| [match_blank](/cells/python-net/ar/aspose.cells/multiplefiltercollection/match_blank) |يشير إلى ما إذا كان سيتم التصفية حسب الفراغ.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add(filter)](/cells/python-net/ar/aspose.cells/multiplefiltercollection/add/#str) | يضيف مرشح السلسلة.|
+| [add](/cells/python-net/ar/aspose.cells/multiplefiltercollection/add/#str) | يضيف مرشح السلسلة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

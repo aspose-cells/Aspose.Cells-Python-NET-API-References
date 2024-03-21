@@ -3,7 +3,7 @@ title: value2 mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 290
+weight: 300
 url: /tr/aspose.cells/validation/value2/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def value2(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Validation](/cells/python-net/tr/aspose.cells/validation)
+* modül [`aspose.cells`](../../)
+* sınıf [`Validation`](/cells/python-net/tr/aspose.cells/validation)

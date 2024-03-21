@@ -3,7 +3,7 @@ title: text_shape_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1030
+weight: 1050
 url: /tr/aspose.cells.drawing/radiobutton/text_shape_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [AutoShapeType](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)
-* sınıf [RadioButton](/cells/python-net/tr/aspose.cells.drawing/radiobutton)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`AutoShapeType`](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)
+* sınıf [`RadioButton`](/cells/python-net/tr/aspose.cells.drawing/radiobutton)

@@ -3,11 +3,11 @@ title: طريقة set_locked_property
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 220
 url: /ar/aspose.cells.drawing/groupshape/set_locked_property/
 is_root: false
 ---
-##  set_locked_property(type, value) {#ShapeLockType-bool}
+##  set_locked_property {#aspose.cells.drawing.ShapeLockType-bool}
 قم بتعيين الخاصية المقفلة.
 
 
@@ -20,7 +20,7 @@ def set_locked_property(self, type, value):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| type | [ShapeLockType](/cells/python-net/ar/aspose.cells.drawing/shapelocktype) | النوع المقفل.|
+| type | [`ShapeLockType`](/cells/python-net/ar/aspose.cells.drawing/shapelocktype) | النوع المقفل.|
 | value | bool | قيمة العقار.|
 
 ###  مثال
@@ -35,5 +35,5 @@ shape.set_locked_property(ShapeLockType.ADJUST_HANDLES, True)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupShape](/cells/python-net/ar/aspose.cells.drawing/groupshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupShape`](/cells/python-net/ar/aspose.cells.drawing/groupshape)

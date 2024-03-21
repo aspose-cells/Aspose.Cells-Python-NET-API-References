@@ -1,9 +1,9 @@
 ---
 title: text_shape_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1020
+weight: 1030
 url: /ru/aspose.cells.drawing/groupshape/text_shape_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [AutoShapeType](/cells/python-net/ru/aspose.cells.drawing/autoshapetype)
-* класс [GroupShape](/cells/python-net/ru/aspose.cells.drawing/groupshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`AutoShapeType`](/cells/python-net/ru/aspose.cells.drawing/autoshapetype)
+* класс [`GroupShape`](/cells/python-net/ru/aspose.cells.drawing/groupshape)

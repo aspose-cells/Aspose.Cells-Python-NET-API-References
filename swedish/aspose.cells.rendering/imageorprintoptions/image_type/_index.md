@@ -3,7 +3,7 @@ title: image_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 150
 url: /sv/aspose.cells.rendering/imageorprintoptions/image_type/
 is_root: false
 ---
@@ -22,6 +22,6 @@ def image_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
-* klass [ImageType](/cells/python-net/sv/aspose.cells.drawing/imagetype)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* klass [`ImageType`](/cells/python-net/sv/aspose.cells.drawing/imagetype)

@@ -1,13 +1,13 @@
 ---
 title: insert_column метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 680
+weight: 670
 url: /ru/aspose.cells/cells/insert_column/
 is_root: false
 ---
-##  insert_column(column_index) {#int}
+##  insert_column {#int}
 Вставляет новый столбец в рабочий лист.
 
 
@@ -23,7 +23,7 @@ def insert_column(self, column_index):
 | column_index | int | Индекс столбца.|
 
 
-##  insert_column(column_index, update_reference) {#int-bool}
+##  insert_column {#int-bool}
 Вставляет новый столбец в рабочий лист.
 
 
@@ -37,10 +37,10 @@ def insert_column(self, column_index, update_reference):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | column_index | int | Индекс столбца.|
-| update_reference | bool |Указывает, будут ли обновлены ссылки на других рабочих листах.|
+| update_reference | bool | Указывает, будут ли обновляться ссылки на других листах.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

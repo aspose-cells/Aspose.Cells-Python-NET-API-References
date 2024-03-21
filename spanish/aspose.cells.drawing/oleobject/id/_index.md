@@ -3,7 +3,7 @@ title: id propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 580
+weight: 590
 url: /es/aspose.cells.drawing/oleobject/id/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def id(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [OleObject](/cells/python-net/es/aspose.cells.drawing/oleobject)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`OleObject`](/cells/python-net/es/aspose.cells.drawing/oleobject)

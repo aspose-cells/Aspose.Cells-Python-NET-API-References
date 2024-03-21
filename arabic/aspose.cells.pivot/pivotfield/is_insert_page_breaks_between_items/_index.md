@@ -1,16 +1,16 @@
 ---
-title: is_insert_page_breaks_between_items الملكية
+title: is_insert_page_breaks_between_items عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 430
 url: /ar/aspose.cells.pivot/pivotfield/is_insert_page_breaks_between_items/
 is_root: false
 ---
-##  is_insert_page_breaks_between_items الملكية
+##  is_insert_page_breaks_between_items عقار
 
 يشير إلى ما إذا كان الحقل يمكنه إدراج فواصل الصفحات بين العناصر
-إدراج فاصل صفحة بعد كل عنصر
+إدراج فاصل الصفحات بعد كل عنصر
 القيمة الافتراضية هي كاذبة.
 ###  تعريف:
 ```python
@@ -23,5 +23,5 @@ def is_insert_page_breaks_between_items(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

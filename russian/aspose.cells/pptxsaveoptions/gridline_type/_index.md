@@ -1,9 +1,9 @@
 ---
 title: gridline_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 120
+weight: 150
 url: /ru/aspose.cells/pptxsaveoptions/gridline_type/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def gridline_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GridlineType](/cells/python-net/ru/aspose.cells/gridlinetype)
-* класс [PptxSaveOptions](/cells/python-net/ru/aspose.cells/pptxsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`GridlineType`](/cells/python-net/ru/aspose.cells/gridlinetype)
+* класс [`PptxSaveOptions`](/cells/python-net/ru/aspose.cells/pptxsaveoptions)

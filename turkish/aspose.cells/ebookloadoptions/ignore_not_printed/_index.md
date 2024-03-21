@@ -1,0 +1,29 @@
+---
+title: ignore_not_printed mülk
+second_title: Aspose.Cells for Python via .NET API Referanslar
+description:
+type: docs
+weight: 180
+url: /tr/aspose.cells/ebookloadoptions/ignore_not_printed/
+is_root: false
+---
+##  ignore_not_printed mülk
+
+Dosya doğrudan yazdırılıyorsa yazdırılmayan verileri dikkate almayın
+
+###  Notlar
+
+Yalnızca xlsx dosyası için.
+###  Tanım:
+```python
+@property
+def ignore_not_printed(self):
+    ...
+@ignore_not_printed.setter
+def ignore_not_printed(self, value):
+    ...
+```
+
+###  Ayrıca bakınız
+* modül [`aspose.cells`](../../)
+* sınıf [`EbookLoadOptions`](/cells/python-net/tr/aspose.cells/ebookloadoptions)

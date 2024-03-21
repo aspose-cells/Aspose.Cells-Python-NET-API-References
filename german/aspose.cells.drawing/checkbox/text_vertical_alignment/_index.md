@@ -3,7 +3,7 @@ title: text_vertical_alignment Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /de/aspose.cells.drawing/checkbox/text_vertical_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CheckBox](/cells/python-net/de/aspose.cells.drawing/checkbox)
-* Klasse [TextAlignmentType](/cells/python-net/de/aspose.cells/textalignmenttype)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CheckBox`](/cells/python-net/de/aspose.cells.drawing/checkbox)
+* Klasse [`TextAlignmentType`](/cells/python-net/de/aspose.cells/textalignmenttype)

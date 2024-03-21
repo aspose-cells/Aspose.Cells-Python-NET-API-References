@@ -1,9 +1,9 @@
 ---
 title: text_effect недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /ru/aspose.cells.drawing/combobox/text_effect/
 is_root: false
 ---
@@ -16,7 +16,8 @@ is_root: false
 
 ```python
 
-textEffectFormat = shape.text_effect
+if shape.is_word_art:
+    textEffectFormat = shape.text_effect
 
 ```
 ###  Определение:
@@ -27,6 +28,6 @@ def text_effect(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ComboBox](/cells/python-net/ru/aspose.cells.drawing/combobox)
-* класс [TextEffectFormat](/cells/python-net/ru/aspose.cells.drawing/texteffectformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ComboBox`](/cells/python-net/ru/aspose.cells.drawing/combobox)
+* класс [`TextEffectFormat`](/cells/python-net/ru/aspose.cells.drawing/texteffectformat)

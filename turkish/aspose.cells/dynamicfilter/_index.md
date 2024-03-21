@@ -3,7 +3,7 @@ title: DynamicFilter sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 510
+weight: 530
 url: /tr/aspose.cells/dynamicfilter/
 is_root: false
 ---
@@ -12,7 +12,7 @@ Dinamik filtreyi temsil eder.
 
 
 
-DynamicFilter türü aşağıdaki üyeleri gösterir:
+DynamicFilter türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -24,4 +24,4 @@ DynamicFilter türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

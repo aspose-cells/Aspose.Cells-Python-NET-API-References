@@ -3,13 +3,13 @@ title: right Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 850
+weight: 860
 url: /de/aspose.cells.drawing/rectangleshape/right/
 is_root: false
 ---
 ##  right Eigentum
 
-Repräsentiert die Breite des horizontalen Versatzes der Form von ihrer unteren Eckspalte right in Pixeleinheiten.
+Stellt die Breite des horizontalen Versatzes der Form von ihrer unteren right Eckspalte in Pixeleinheiten dar.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def right(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RectangleShape](/cells/python-net/de/aspose.cells.drawing/rectangleshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RectangleShape`](/cells/python-net/de/aspose.cells.drawing/rectangleshape)

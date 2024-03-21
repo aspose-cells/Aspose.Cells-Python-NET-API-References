@@ -1,13 +1,13 @@
 ---
-title: remove_hyperlink método
+title: método remove_hyperlink
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 180
 url: /es/aspose.cells.drawing/lineshape/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink() {#}
+##  remove_hyperlink {#}
 Elimina el hipervínculo de la forma.
 
 
@@ -30,5 +30,5 @@ shape.remove_hyperlink()
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [LineShape](/cells/python-net/es/aspose.cells.drawing/lineshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`LineShape`](/cells/python-net/es/aspose.cells.drawing/lineshape)

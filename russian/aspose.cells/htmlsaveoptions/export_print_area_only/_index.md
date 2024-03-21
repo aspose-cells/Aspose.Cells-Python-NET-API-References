@@ -1,15 +1,15 @@
 ---
 title: export_print_area_only недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 310
+weight: 330
 url: /ru/aspose.cells/htmlsaveoptions/export_print_area_only/
 is_root: false
 ---
 ##  export_print_area_only недвижимость
 
-Указывает, экспортируется ли только область печати в html-файл. Значение по умолчанию неверно.
+Указывает, экспортируется ли только область печати в файл html. Значение по умолчанию неверно.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_print_area_only(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)

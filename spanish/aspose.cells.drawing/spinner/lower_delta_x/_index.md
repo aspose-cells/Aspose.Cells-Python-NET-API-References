@@ -3,17 +3,17 @@ title: lower_delta_x propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 770
+weight: 780
 url: /es/aspose.cells.drawing/spinner/lower_delta_x/
 is_root: false
 ---
 ##  lower_delta_x propiedad
 
-Obtiene o establece el desplazamiento horizontal de la forma desde la columna de la esquina inferior derecha.
+Obtiene o establece el desplazamiento horizontal de la forma desde su columna de la esquina inferior derecha.
 
 ###  Observaciones
 
-El rango de valor es de 0 a 1024.
+El rango de valores es de 0 a 1024.
 
 ###  Ejemplo
 
@@ -34,5 +34,5 @@ def lower_delta_x(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Spinner](/cells/python-net/es/aspose.cells.drawing/spinner)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Spinner`](/cells/python-net/es/aspose.cells.drawing/spinner)

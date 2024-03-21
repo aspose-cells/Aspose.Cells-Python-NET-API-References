@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_recover mülk
 
-Dosyanın otomatik kurtarma için işaretlenip işaretlenmediğini gösterir.
+Dosyanın otomatik kurtarma için işaretlenip işaretlenmediğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_recover(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

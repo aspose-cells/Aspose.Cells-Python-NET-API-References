@@ -3,7 +3,7 @@ title: is_over_lay mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 230
+weight: 240
 url: /tr/aspose.cells.charts/legend/is_over_lay/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_over_lay(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Legend](/cells/python-net/tr/aspose.cells.charts/legend)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Legend`](/cells/python-net/tr/aspose.cells.charts/legend)

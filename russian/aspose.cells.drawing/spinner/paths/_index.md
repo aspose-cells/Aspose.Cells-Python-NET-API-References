@@ -1,9 +1,9 @@
 ---
 title: paths недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 860
+weight: 870
 url: /ru/aspose.cells.drawing/spinner/paths/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShapePathCollection](/cells/python-net/ru/aspose.cells.drawing/shapepathcollection)
-* класс [Spinner](/cells/python-net/ru/aspose.cells.drawing/spinner)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShapePathCollection`](/cells/python-net/ru/aspose.cells.drawing/shapepathcollection)
+* класс [`Spinner`](/cells/python-net/ru/aspose.cells.drawing/spinner)

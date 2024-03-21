@@ -1,18 +1,18 @@
 ---
-title: العد BuiltinStyleType
+title: BuiltinStyleType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1800
+weight: 1870
 url: /ar/aspose.cells/builtinstyletype/
 is_root: false
 ---
-##  العد BuiltinStyleType
+##  BuiltinStyleType التعداد
 يمثل جميع أنواع الأنماط المضمنة.
 
 
 
-يكشف نوع BuiltinStyleType الأعضاء التالية:
+يكشف النوع BuiltinStyleType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -72,4 +72,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

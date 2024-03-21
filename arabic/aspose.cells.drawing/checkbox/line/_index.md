@@ -1,13 +1,13 @@
 ---
-title: line الملكية
+title: line عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 730
+weight: 740
 url: /ar/aspose.cells.drawing/checkbox/line/
 is_root: false
 ---
-##  line الملكية
+##  line عقار
 
 يحصل على نمط line
 
@@ -26,6 +26,6 @@ def line(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CheckBox](/cells/python-net/ar/aspose.cells.drawing/checkbox)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CheckBox`](/cells/python-net/ar/aspose.cells.drawing/checkbox)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)

@@ -3,7 +3,7 @@ title: top_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /sv/aspose.cells.drawing/combobox/top_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representerar den vertikala förskjutningen av formen från dess översta rad, i
 ```python
 
 if shape.top_inch == 3:
-    shape.top_inch = 1
+    shape.top_inch = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def top_inch(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ComboBox](/cells/python-net/sv/aspose.cells.drawing/combobox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ComboBox`](/cells/python-net/sv/aspose.cells.drawing/combobox)

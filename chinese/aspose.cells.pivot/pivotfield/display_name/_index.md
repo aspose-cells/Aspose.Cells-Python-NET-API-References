@@ -1,15 +1,15 @@
 ---
-title: display_name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: display_name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 270
 url: /zh/aspose.cells.pivot/pivotfield/display_name/
 is_root: false
 ---
-## display_name 属性
+## display_name属性
 
-表示 PivotField 显示名称。
+表示数据透视字段显示名称。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def display_name(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotField](/cells/python-net/zh/aspose.cells.pivot/pivotfield)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotField`](/cells/python-net/zh/aspose.cells.pivot/pivotfield)

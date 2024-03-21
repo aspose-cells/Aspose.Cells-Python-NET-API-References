@@ -3,11 +3,11 @@ title: move_to yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 140
+weight: 160
 url: /tr/aspose.cells/range/move_to/
 is_root: false
 ---
-##  move_to(dest_row, dest_column) {#int-int}
+##  move_to {#int-int}
 Geçerli aralığı hedef aralığa taşıyın.
 
 
@@ -20,11 +20,11 @@ def move_to(self, dest_row, dest_column):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| dest_row | int | Hedef aralığın başlangıç satırı.|
-| dest_column | int | Hedef aralığın başlangıç sütunu.|
+| dest_row | int | Hedef aralığının başlangıç satırı.|
+| dest_column | int | Hedef aralığının başlangıç sütunu.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
+* modül [`aspose.cells`](../../)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)

@@ -3,24 +3,24 @@ title: number propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 350
+weight: 410
 url: /es/aspose.cells/style/number/
 is_root: false
 ---
 ##  number propiedad
 
-Obtiene o establece el formato de visualización de números y fechas. Los patrones de formato son diferentes para las diferentes regiones.
+Obtiene o establece el formato de visualización de números y fechas. Los patrones de formato son diferentes para diferentes regiones.
 
 ###  Observaciones
 
 Por ejemplo, los patrones de formato representados por números para la región en_US:
-| Valor| Tipo| cadena de formato|
+| Valor| Tipo| Cadena de formato|
 | :- | :- | :- |
 | 0| General|
-| 1| Decimal|
-| 2| Decimal|
-| 3| Decimal|
-| 4| Decimal|
+| 1|Decimal|
+| 2|Decimal|
+| 3|Decimal|
+| 4|Decimal|
 | 5| Divisa|
 | 6| Divisa|
 | 7| Divisa|
@@ -63,5 +63,5 @@ def number(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)

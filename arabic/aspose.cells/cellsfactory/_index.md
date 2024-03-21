@@ -1,31 +1,31 @@
 ---
-title: CellsFactory الدرجة
+title: CellsFactory صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ar/aspose.cells/cellsfactory/
 is_root: false
 ---
-##  CellsFactory الدرجة
-الأداة المساعدة لإنشاء مثيل لفئات طراز Cells.
+##  CellsFactory صف
+أداة مساعدة لإنشاء مثيل للفئات من طراز Cells.
 
 
 
-يكشف نوع CellsFactory الأعضاء التالية:
+يكشف النوع CellsFactory عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [CellsFactory()](/cells/python-net/ar/aspose.cells/cellsfactory/__init__/#) | إنشاء مثيل جديد من CellsFactory|
+| [__init__](/cells/python-net/ar/aspose.cells/cellsfactory/__init__/#) | إنشاء مثيل جديد لـ CellsFactory|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [create_style()](/cells/python-net/ar/aspose.cells/cellsfactory/create_style/#) | يخلق اسلوب جديد.|
+| [create_style](/cells/python-net/ar/aspose.cells/cellsfactory/create_style/#) | يخلق نمطا جديدا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: CellsFactory sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 230
 url: /tr/aspose.cells/cellsfactory/
 is_root: false
 ---
@@ -12,20 +12,20 @@ Cells modelinin sınıflarını başlatmak için yardımcı program.
 
 
 
-CellsFactory türü aşağıdaki üyeleri gösterir:
+CellsFactory türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [CellsFactory()](/cells/python-net/tr/aspose.cells/cellsfactory/__init__/#) | CellsFactory'nin yeni bir örneğini oluşturur|
+| [__init__](/cells/python-net/tr/aspose.cells/cellsfactory/__init__/#) | CellsFactory'nin yeni bir örneğini oluşturur|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [create_style()](/cells/python-net/tr/aspose.cells/cellsfactory/create_style/#) | Yeni bir stil oluşturur.|
+| [create_style](/cells/python-net/tr/aspose.cells/cellsfactory/create_style/#) | Yeni bir stil yaratır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

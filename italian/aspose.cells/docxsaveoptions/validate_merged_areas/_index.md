@@ -3,7 +3,7 @@ title: validate_merged_areas proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 120
+weight: 300
 url: /it/aspose.cells/docxsaveoptions/validate_merged_areas/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def validate_merged_areas(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DocxSaveOptions](/cells/python-net/it/aspose.cells/docxsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`DocxSaveOptions`](/cells/python-net/it/aspose.cells/docxsaveoptions)

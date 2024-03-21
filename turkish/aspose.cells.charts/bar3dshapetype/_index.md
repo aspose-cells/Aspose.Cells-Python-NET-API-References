@@ -3,28 +3,28 @@ title: Bar3DShapeType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 380
+weight: 390
 url: /tr/aspose.cells.charts/bar3dshapetype/
 is_root: false
 ---
 ##  Bar3DShapeType numaralandırma
-3-B çubuk veya sütun grafiğiyle kullanılan şekli temsil eder.
+3 boyutlu çubuk veya sütun grafiğinde kullanılan şekli temsil eder.
 
 
 
-Bar3DShapeType türü aşağıdaki üyeleri gösterir:
+Bar3DShapeType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | BOX | Kutu|
-| PYRAMID_TO_POINT | PyramidToPoint|
-| PYRAMID_TO_MAX | PyramidToMax|
-| CYLINDER | silindir|
+| PYRAMID_TO_POINT | PiramitToPoint|
+| PYRAMID_TO_MAX | PiramitToMax|
+| CYLINDER | Silindir|
 | CONE_TO_POINT | ConeToPoint|
 | CONE_TO_MAX | ConeToMax|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

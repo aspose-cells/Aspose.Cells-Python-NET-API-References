@@ -3,7 +3,7 @@ title: parent_style proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 360
+weight: 420
 url: /it/aspose.cells/style/parent_style/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def parent_style(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Style](/cells/python-net/it/aspose.cells/style)
+* modulo [`aspose.cells`](../../)
+* classe [`Style`](/cells/python-net/it/aspose.cells/style)

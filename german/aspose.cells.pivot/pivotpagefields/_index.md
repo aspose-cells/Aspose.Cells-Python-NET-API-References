@@ -3,7 +3,7 @@ title: PivotPageFields Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 170
 url: /de/aspose.cells.pivot/pivotpagefields/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Der Typ PivotPageFields macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [PivotPageFields()](/cells/python-net/de/aspose.cells.pivot/pivotpagefields/__init__/#) | Stellt die Feldelemente der Pivot-Seite dar.|
+| [__init__](/cells/python-net/de/aspose.cells.pivot/pivotpagefields/__init__/#) | Stellt die Feldelemente der Pivot-Seite dar.|
 
 
 ###  Eigenschaften
@@ -31,10 +31,10 @@ Der Typ PivotPageFields macht die folgenden Member verfügbar:
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add_page_field(page_items)](/cells/python-net/de/aspose.cells.pivot/pivotpagefields/add_page_field/#list) | Fügt ein Seitenfeld hinzu.|
-| [add_identify(range_index, page_item_index)](/cells/python-net/de/aspose.cells.pivot/pivotpagefields/add_identify/#int-list) | Legt fest, welche Elementbezeichnung in jedem Seitenfeld verwendet werden soll, um den Datenbereich zu identifizieren.<br/> pageItemIndex.Length muss gleich PageFieldCount sein, also fügen Sie bitte zuerst das Seitenfeld hinzu.|
+| [add_page_field](/cells/python-net/de/aspose.cells.pivot/pivotpagefields/add_page_field/#list) | Fügt ein Seitenfeld hinzu.|
+| [add_identify](/cells/python-net/de/aspose.cells.pivot/pivotpagefields/add_identify/#int-list) | Legt fest, welche Elementbezeichnung in jedem Seitenfeld zur Identifizierung des Datenbereichs verwendet werden soll.<br/> Die pageItemIndex.Length muss gleich PageFieldCount sein, also fügen Sie bitte zuerst das Seitenfeld hinzu.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](..)
+* Modul [`aspose.cells.pivot`](..)

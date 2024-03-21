@@ -1,15 +1,15 @@
 ---
-title: transition_entry الملكية
+title: transition_entry عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 830
+weight: 850
 url: /ar/aspose.cells/worksheet/transition_entry/
 is_root: false
 ---
-##  transition_entry الملكية
+##  transition_entry عقار
 
-يشير إلى ما إذا كان الخيار Transition Formula Entry (توافق Lotus) ممكّنًا.
+يشير إلى ما إذا كان خيار إدخال صيغة النقل (توافق Lotus) ممكنًا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def transition_entry(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

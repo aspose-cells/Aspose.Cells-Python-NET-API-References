@@ -1,9 +1,9 @@
 ---
 title: lower_right_column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 820
+weight: 830
 url: /ru/aspose.cells.drawing/arcshape/lower_right_column/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def lower_right_column(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ArcShape](/cells/python-net/ru/aspose.cells.drawing/arcshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ArcShape`](/cells/python-net/ru/aspose.cells.drawing/arcshape)

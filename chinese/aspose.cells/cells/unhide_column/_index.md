@@ -1,13 +1,13 @@
 ---
 title: unhide_column方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 970
+weight: 960
 url: /zh/aspose.cells/cells/unhide_column/
 is_root: false
 ---
-##  unhide_column(column, width) {#int-float}
+##  unhide_column {#int-float}
 取消隐藏列
 
 
@@ -26,5 +26,5 @@ def unhide_column(self, column, width):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

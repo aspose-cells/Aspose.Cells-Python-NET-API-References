@@ -1,16 +1,16 @@
 ---
-title: page_scale 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: page_scale属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 90
+weight: 100
 url: /zh/aspose.cells.rendering/sheetrender/page_scale/
 is_root: false
 ---
-## page_scale 属性
+## page_scale属性
 
 获取工作表的计算页面比例。
-如果设置了 [PageSetup.zoom](/cells/python-net/zh/aspose.cells/pagesetup#zoom)，则返回设置的比例。否则返回根据[PageSetup.fit_to_pages_wide](/cells/python-net/zh/aspose.cells/pagesetup#fit_to_pages_wide)和[PageSetup.fit_to_pages_tall](/cells/python-net/zh/aspose.cells/pagesetup#fit_to_pages_tall)计算出的比例。
+如果设置了 [`PageSetup.zoom`](/cells/python-net/zh/aspose.cells/pagesetup#zoom)，则返回设置的比例。否则，返回根据[`PageSetup.fit_to_pages_wide`](/cells/python-net/zh/aspose.cells/pagesetup#fit_to_pages_wide)和[`PageSetup.fit_to_pages_tall`](/cells/python-net/zh/aspose.cells/pagesetup#fit_to_pages_tall)计算的比例。
 
 ### 例子
 
@@ -32,5 +32,5 @@ def page_scale(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](../../)
-* 类 [SheetRender](/cells/python-net/zh/aspose.cells.rendering/sheetrender)
+* 模块[`aspose.cells.rendering`](../../)
+* 类 [`SheetRender`](/cells/python-net/zh/aspose.cells.rendering/sheetrender)

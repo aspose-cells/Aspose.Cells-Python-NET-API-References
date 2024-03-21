@@ -3,7 +3,7 @@ title: PivotFieldCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 20
+weight: 80
 url: /sv/aspose.cells.pivot/pivotfieldcollection/
 is_root: false
 ---
@@ -33,11 +33,12 @@ Hämtar PivotField-objektet vid det specifika indexet.
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add_by_base_index(base_field_index)](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Lägger till ett PivotField-objekt till den specifika typen PivotFields.|
-| [add(pivot_field)](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection/add/#PivotField) | Lägger till ett PivotField-objekt till den specifika typen PivotFields.|
-| [clear()](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection/clear/#) | rensa alla fält i PivotFieldCollection|
+| [add_by_base_index](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Lägger till ett PivotField-objekt till den specifika typen PivotFields.|
+| [add](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.PivotField) | Lägger till ett PivotField-objekt till den specifika typen PivotFields.|
+| [clear](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection/clear/#) | rensa alla fält i PivotFieldCollection|
+| [move](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Flyttar pivotfältet från nuvarande position till destinationsposition|
 
 
 
 ###  Se även
-* modul [aspose.cells.pivot](..)
+* modul [`aspose.cells.pivot`](..)

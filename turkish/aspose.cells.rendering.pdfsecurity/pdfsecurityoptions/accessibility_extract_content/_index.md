@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  accessibility_extract_content mülk
 
-İçeriği kopyalama veya çıkarma izni (engelli kullanıcıların erişilebilirliğini desteklemek için veya başka amaçlar için).
+Metin ve grafiklerin çıkarılmasına izin verilip verilmeyeceğini belirtir (engelli kullanıcıların erişilebilirliğini desteklemek amacıyla veya başka amaçlarla).
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def accessibility_extract_content(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering.pdfsecurity](../../)
-* sınıf [PdfSecurityOptions](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modül [`aspose.cells.rendering.pdfsecurity`](../../)
+* sınıf [`PdfSecurityOptions`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

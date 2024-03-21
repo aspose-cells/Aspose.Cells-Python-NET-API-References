@@ -3,11 +3,11 @@ title: is_selected metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 160
 url: /sv/aspose.cells.drawing/listbox/is_selected/
 is_root: false
 ---
-##  is_selected(item_index) {#int}
+##  is_selected {#int}
 Indikerar om objektet är valt.
 
 
@@ -29,5 +29,5 @@ def is_selected(self, item_index):
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ListBox](/cells/python-net/sv/aspose.cells.drawing/listbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ListBox`](/cells/python-net/sv/aspose.cells.drawing/listbox)

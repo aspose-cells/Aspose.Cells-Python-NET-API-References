@@ -3,7 +3,7 @@ title: is_resize_shape_to_fit_text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 250
 url: /sv/aspose.cells.charts/legend/is_resize_shape_to_fit_text/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def is_resize_shape_to_fit_text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Legend](/cells/python-net/sv/aspose.cells.charts/legend)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Legend`](/cells/python-net/sv/aspose.cells.charts/legend)

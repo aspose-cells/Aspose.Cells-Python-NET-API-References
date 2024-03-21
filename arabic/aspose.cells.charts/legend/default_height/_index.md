@@ -1,13 +1,13 @@
 ---
-title: default_height الملكية
+title: default_height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.charts/legend/default_height/
 is_root: false
 ---
-##  default_height الملكية
+##  default_height عقار
 
 يمثل ارتفاع الموضع الافتراضي
 ###  تعريف:
@@ -18,5 +18,5 @@ def default_height(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Legend](/cells/python-net/ar/aspose.cells.charts/legend)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Legend`](/cells/python-net/ar/aspose.cells.charts/legend)

@@ -3,7 +3,7 @@ title: shared proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 560
+weight: 440
 url: /it/aspose.cells/workbooksettings/shared/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def shared(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorkbookSettings](/cells/python-net/it/aspose.cells/workbooksettings)
+* modulo [`aspose.cells`](../../)
+* classe [`WorkbookSettings`](/cells/python-net/it/aspose.cells/workbooksettings)

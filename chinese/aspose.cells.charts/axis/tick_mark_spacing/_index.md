@@ -1,15 +1,15 @@
 ---
-title: tick_mark_spacing 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: tick_mark_spacing属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 400
+weight: 410
 url: /zh/aspose.cells.charts/axis/tick_mark_spacing/
 is_root: false
 ---
-## tick_mark_spacing 属性
+## tick_mark_spacing属性
 
-返回或设置刻度线之间的类别数或系列数。仅适用于类别和系列轴。
+返回或设置刻度线之间的类别或系列数。仅适用于类别轴和系列轴。
 
 ### 评论
 
@@ -25,5 +25,5 @@ def tick_mark_spacing(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)

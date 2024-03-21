@@ -3,13 +3,13 @@ title: name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 820
+weight: 840
 url: /tr/aspose.cells.drawing/radiobutton/name/
 is_root: false
 ---
 ##  name mülk
 
-Şeklin name değerini alır ve ayarlar.
+Şeklin name'ini alır ve ayarlar.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RadioButton](/cells/python-net/tr/aspose.cells.drawing/radiobutton)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RadioButton`](/cells/python-net/tr/aspose.cells.drawing/radiobutton)

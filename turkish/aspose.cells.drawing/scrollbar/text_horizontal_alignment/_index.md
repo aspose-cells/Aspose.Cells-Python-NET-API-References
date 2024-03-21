@@ -3,7 +3,7 @@ title: text_horizontal_alignment mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1030
+weight: 1040
 url: /tr/aspose.cells.drawing/scrollbar/text_horizontal_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ScrollBar](/cells/python-net/tr/aspose.cells.drawing/scrollbar)
-* sınıf [TextAlignmentType](/cells/python-net/tr/aspose.cells/textalignmenttype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ScrollBar`](/cells/python-net/tr/aspose.cells.drawing/scrollbar)
+* sınıf [`TextAlignmentType`](/cells/python-net/tr/aspose.cells/textalignmenttype)

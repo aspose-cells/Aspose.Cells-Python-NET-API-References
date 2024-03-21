@@ -7,7 +7,7 @@ weight: 230
 url: /tr/aspose.cells/cells/delete_columns/
 is_root: false
 ---
-##  delete_columns(column_index, total_columns, update_reference) {#int-int-bool}
+##  delete_columns {#int-int-bool}
 Birkaç sütunu siler.
 
 
@@ -20,12 +20,12 @@ def delete_columns(self, column_index, total_columns, update_reference):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| column_index | int | Sütun dizini.|
-| total_columns | int | Silinecek sütun sayısı.|
-| update_reference | bool | Diğer çalışma sayfalarındaki güncelleme başvurularının olup olmadığını gösterir.|
+| column_index | int | Silinecek ilk sütunun dizini.|
+| total_columns | int | Silinecek sütunların sayısı.|
+| update_reference | bool | Diğer çalışma sayfalarındaki referansların güncelleştirilip güncelleştirilmediğini gösterir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

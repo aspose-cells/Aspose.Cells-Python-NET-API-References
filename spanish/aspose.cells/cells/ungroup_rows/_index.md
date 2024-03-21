@@ -1,13 +1,13 @@
 ---
-title: ungroup_rows método
+title: método ungroup_rows
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 960
+weight: 950
 url: /es/aspose.cells/cells/ungroup_rows/
 is_root: false
 ---
-##  ungroup_rows(first_index, last_index) {#int-int}
+##  ungroup_rows {#int-int}
 Desagrupa filas.
 
 
@@ -20,13 +20,13 @@ def ungroup_rows(self, first_index, last_index):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| first_index | int | El índice de la primera fila que se va a desagrupar.|
-| last_index | int | El índice de la última fila que se va a desagrupar.|
+| first_index | int | El índice de la primera fila que se desagrupará.|
+| last_index | int | El último índice de fila que se desagrupará.|
 ###  Observaciones
 
 Solo elimina la información del grupo externo.
 
-##  ungroup_rows(first_index, last_index, is_all) {#int-int-bool}
+##  ungroup_rows {#int-int-bool}
 
 Desagrupa filas.
 
@@ -40,12 +40,12 @@ def ungroup_rows(self, first_index, last_index, is_all):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| first_index | int | El índice de la primera fila que se va a desagrupar.|
-| last_index | int | El índice de la última fila que se va a desagrupar.|
-| is_all | bool | Cierto, elimina toda la información agrupada. De lo contrario, elimina la información del grupo externo.|
+| first_index | int | El índice de la primera fila que se desagrupará.|
+| last_index | int | El último índice de fila que se desagrupará.|
+| is_all | bool |Verdadero, elimina toda la información agrupada. De lo contrario, elimina la información del grupo externo.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

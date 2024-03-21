@@ -3,7 +3,7 @@ title: width_scale propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /es/aspose.cells.drawing/chartshape/width_scale/
 is_root: false
 ---
@@ -31,5 +31,5 @@ def width_scale(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ChartShape](/cells/python-net/es/aspose.cells.drawing/chartshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ChartShape`](/cells/python-net/es/aspose.cells.drawing/chartshape)

@@ -3,13 +3,13 @@ title: y propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 420
+weight: 430
 url: /fr/aspose.cells.charts/legend/y/
 is_root: false
 ---
 ##  y propriété
 
-Obtient ou définit la coordonnée y du coin supérieur gauche en unités de 1/4000 de la zone de graphique.
+Obtient ou définit la coordonnée y du coin supérieur gauche en unités de 1/4 000 de la zone du graphique.
 
 ###  Remarques
 
@@ -26,5 +26,5 @@ def y(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Legend](/cells/python-net/fr/aspose.cells.charts/legend)
+* module [`aspose.cells.charts`](../../)
+* classe [`Legend`](/cells/python-net/fr/aspose.cells.charts/legend)

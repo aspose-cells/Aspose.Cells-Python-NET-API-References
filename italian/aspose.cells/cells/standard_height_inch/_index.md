@@ -3,7 +3,7 @@ title: standard_height_inch proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1260
+weight: 1250
 url: /it/aspose.cells/cells/standard_height_inch/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def standard_height_inch(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

@@ -3,7 +3,7 @@ title: is_hidden fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 590
 url: /sv/aspose.cells.drawing/textbox/is_hidden/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def is_hidden(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextBox](/cells/python-net/sv/aspose.cells.drawing/textbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextBox`](/cells/python-net/sv/aspose.cells.drawing/textbox)

@@ -1,15 +1,15 @@
 ---
-title: right الملكية
+title: right عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 860
+weight: 870
 url: /ar/aspose.cells.drawing/chartshape/right/
 is_root: false
 ---
-##  right الملكية
+##  right عقار
 
-يمثل عرض الإزاحة الأفقية للشكل من عمود الزاوية السفلي right ، بوحدة البكسل.
+يمثل عرض الإزاحة الأفقية للشكل من عمود الزاوية السفلي right، بوحدة البكسل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def right(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ChartShape](/cells/python-net/ar/aspose.cells.drawing/chartshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ChartShape`](/cells/python-net/ar/aspose.cells.drawing/chartshape)

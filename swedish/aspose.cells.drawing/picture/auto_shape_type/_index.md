@@ -3,7 +3,7 @@ title: auto_shape_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 320
 url: /sv/aspose.cells.drawing/picture/auto_shape_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def auto_shape_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [AutoShapeType](/cells/python-net/sv/aspose.cells.drawing/autoshapetype)
-* klass [Picture](/cells/python-net/sv/aspose.cells.drawing/picture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`AutoShapeType`](/cells/python-net/sv/aspose.cells.drawing/autoshapetype)
+* klass [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture)

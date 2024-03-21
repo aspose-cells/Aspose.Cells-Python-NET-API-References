@@ -3,12 +3,12 @@ title: SeriesCollection classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 240
+weight: 250
 url: /fr/aspose.cells.charts/seriescollection/
 is_root: false
 ---
 ##  SeriesCollection classe
-Encapsule une collection de [Series](/cells/python-net/fr/aspose.cells.charts/series) objets.
+Encapsule une collection d’objets [`Series`](/cells/python-net/fr/aspose.cells.charts/series).
 
 
 
@@ -17,29 +17,29 @@ Le type SeriesCollection expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [category_data](/cells/python-net/fr/aspose.cells.charts/seriescollection/category_data) | Obtient ou définit la plage de valeurs d'axe de catégorie.<br/> Il peut s'agir d'une plage de cellules (par exemple, "d1:e10"),<br/> ou une séquence de valeurs (telle que,"{2,6,8,10}").|
-| [second_category_data](/cells/python-net/fr/aspose.cells.charts/seriescollection/second_category_data) | Obtient ou définit la plage des valeurs Axis de deuxième catégorie.<br/> Il peut s'agir d'une plage de cellules (par exemple, "d1:e10"),<br/> ou une séquence de valeurs (telle que,"{2,6,8,10}").<br/> Effets uniquement lorsque certaines ASeries tracent sur le deuxième axe.|
-| [is_color_varied](/cells/python-net/fr/aspose.cells.charts/seriescollection/is_color_varied) | Représente si la couleur des points est variée.|
-| [capacity](/cells/python-net/fr/aspose.cells.charts/seriescollection/capacity) | Obtient ou définit le nombre d'éléments que la liste de tableau peut contenir.|
+| [category_data](/cells/python-net/fr/aspose.cells.charts/seriescollection/category_data) | Obtient ou définit la plage des valeurs de l'axe de catégorie.<br/> Il peut s'agir d'une plage de cellules (telle que "d1:e10"),<br/> ou une séquence de valeurs (telle que "{2,6,8,10}").|
+| [second_category_data](/cells/python-net/fr/aspose.cells.charts/seriescollection/second_category_data) | Obtient ou définit la plage des valeurs Axis de deuxième catégorie.<br/> Il peut s'agir d'une plage de cellules (telle que "d1:e10"),<br/> ou une séquence de valeurs (telle que "{2,6,8,10}").<br/> Effet uniquement lorsque certaines séries AS sont tracées sur le deuxième axe.|
+| [is_color_varied](/cells/python-net/fr/aspose.cells.charts/seriescollection/is_color_varied) |Représente si la couleur des points varie.|
+| [capacity](/cells/python-net/fr/aspose.cells.charts/seriescollection/capacity) | Obtient ou définit le nombre d'éléments que la liste de tableaux peut contenir.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [add(area, is_vertical)](/cells/python-net/fr/aspose.cells.charts/seriescollection/add/#str-bool) | Ajoute la collection [SeriesCollection](/cells/python-net/fr/aspose.cells.charts/seriescollection) à un graphique.|
-| [add(area, is_vertical, check_labels)](/cells/python-net/fr/aspose.cells.charts/seriescollection/add/#str-bool-bool) | Ajoute la collection [SeriesCollection](/cells/python-net/fr/aspose.cells.charts/seriescollection) à un graphique.|
-| [copy_to(array)](/cells/python-net/fr/aspose.cells.charts/seriescollection/copy_to/#list) | Copie la totalité de la liste de tableaux dans une liste de tableaux unidimensionnelle compatible, en commençant au début de la liste de tableaux cible.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/fr/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) |Copie une plage d'éléments de la liste de tableaux vers une liste de tableaux unidimensionnelle compatible, en commençant à l'index spécifié de la liste de tableaux cible.|
-| [index_of(item, index)](/cells/python-net/fr/aspose.cells.charts/seriescollection/index_of/#Series-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui s'étend de l'index spécifié au dernier élément.|
-| [index_of(item, index, count)](/cells/python-net/fr/aspose.cells.charts/seriescollection/index_of/#Series-int-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui commence à l'index spécifié et contient le nombre d'éléments spécifié.|
-| [last_index_of(item)](/cells/python-net/fr/aspose.cells.charts/seriescollection/last_index_of/#Series) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la liste complète du tableau.|
-| [last_index_of(item, index)](/cells/python-net/fr/aspose.cells.charts/seriescollection/last_index_of/#Series-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui s'étend du premier élément à l'index spécifié.|
-| [last_index_of(item, index, count)](/cells/python-net/fr/aspose.cells.charts/seriescollection/last_index_of/#Series-int-int) |Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui contient le nombre d'éléments spécifié et se termine à l'index spécifié.|
-| [get_series_by_order(order)](/cells/python-net/fr/aspose.cells.charts/seriescollection/get_series_by_order/#int) | Obtient l'élément [Series](/cells/python-net/fr/aspose.cells.charts/series) par commande.|
-| [change_series_order(source_index, dest_index)](/cells/python-net/fr/aspose.cells.charts/seriescollection/change_series_order/#int-int) | Change directement les ordres des deux séries.|
-| [set_series_names(start_index, area, is_vertical)](/cells/python-net/fr/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Définit le nom de toutes les séries du graphique.|
-| [add_r1c1(area, is_vertical)](/cells/python-net/fr/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | Ajoute la collection [SeriesCollection](/cells/python-net/fr/aspose.cells.charts/seriescollection) à un graphique.|
-| [binary_search(item)](/cells/python-net/fr/aspose.cells.charts/seriescollection/binary_search/#Series) | Recherche un élément dans toute la liste de tableaux triés à l'aide du comparateur par défaut et renvoie l'index de base zéro de l'élément.|
+| [add](/cells/python-net/fr/aspose.cells.charts/seriescollection/add/#str-bool) | Ajoute la collection [`Series`](/cells/python-net/fr/aspose.cells.charts/series) à un graphique.|
+| [add](/cells/python-net/fr/aspose.cells.charts/seriescollection/add/#str-bool-bool) | Ajoute la collection [`Series`](/cells/python-net/fr/aspose.cells.charts/series) à un graphique.|
+| [copy_to](/cells/python-net/fr/aspose.cells.charts/seriescollection/copy_to/#list) | Copie la liste entière des tableaux dans une liste de tableaux unidimensionnelle compatible, en commençant au début de la liste des tableaux cible.|
+| [copy_to](/cells/python-net/fr/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) | Copie une plage d'éléments de la liste de tableaux vers une liste de tableaux unidimensionnels compatible, en commençant à l'index spécifié de la liste de tableaux cible.|
+| [index_of](/cells/python-net/fr/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste du tableau qui s'étend de l'index spécifié au dernier élément.|
+| [index_of](/cells/python-net/fr/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int-int) |Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui commence à l'index spécifié et contient le nombre d'éléments spécifié.|
+| [last_index_of](/cells/python-net/fr/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la liste entière du tableau.|
+| [last_index_of](/cells/python-net/fr/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste du tableau qui s'étend du premier élément à l'index spécifié.|
+| [last_index_of](/cells/python-net/fr/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui contient le nombre spécifié d'éléments et se termine à l'index spécifié.|
+| [get_series_by_order](/cells/python-net/fr/aspose.cells.charts/seriescollection/get_series_by_order/#int) | Obtient l'élément [`Series`](/cells/python-net/fr/aspose.cells.charts/series) par commande.|
+| [change_series_order](/cells/python-net/fr/aspose.cells.charts/seriescollection/change_series_order/#int-int) | Modifie directement les ordres des deux séries.|
+| [set_series_names](/cells/python-net/fr/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Définit le nom de toutes les séries du graphique.|
+| [add_r1c1](/cells/python-net/fr/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | Ajoute la collection [`Series`](/cells/python-net/fr/aspose.cells.charts/series) à un graphique.|
+| [binary_search](/cells/python-net/fr/aspose.cells.charts/seriescollection/binary_search/#aspose.cells.charts.Series) | Recherche un élément dans toute la liste de tableaux triés à l'aide du comparateur par défaut et renvoie l'index de base zéro de l'élément.|
 
 
 
@@ -93,6 +93,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](..)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
-* classe [SeriesCollection](/cells/python-net/fr/aspose.cells.charts/seriescollection)
+* module [`aspose.cells.charts`](..)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

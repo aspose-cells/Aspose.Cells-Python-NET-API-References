@@ -1,13 +1,13 @@
 ---
 title: move_to метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 170
+weight: 190
 url: /ru/aspose.cells/worksheet/move_to/
 is_root: false
 ---
-##  move_to(index) {#int}
+##  move_to {#int}
 Перемещает лист в другое место электронной таблицы.
 
 
@@ -20,10 +20,10 @@ def move_to(self, index):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| index | int | Указатель листа назначения.|
+| index | int | Индекс листа назначения.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

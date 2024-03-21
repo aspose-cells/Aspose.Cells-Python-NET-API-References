@@ -3,13 +3,13 @@ title: is_locked proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 630
+weight: 640
 url: /it/aspose.cells.drawing/spinner/is_locked/
 is_root: false
 ---
 ##  is_locked proprietà
 
-True se l'oggetto è bloccato, False se l'oggetto può essere modificato quando il foglio è protetto.
+Vero se l'oggetto è bloccato, Falso se l'oggetto può essere modificato quando il foglio è protetto.
 
 ###  Esempio
 
@@ -30,5 +30,5 @@ def is_locked(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Spinner](/cells/python-net/it/aspose.cells.drawing/spinner)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Spinner`](/cells/python-net/it/aspose.cells.drawing/spinner)

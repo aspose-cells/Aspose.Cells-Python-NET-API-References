@@ -3,7 +3,7 @@ title: contains_external_link mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 430
 url: /tr/aspose.cells/cell/contains_external_link/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def contains_external_link(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

@@ -3,7 +3,7 @@ title: text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 920
+weight: 930
 url: /fr/aspose.cells.drawing/commentshape/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [CommentShape](/cells/python-net/fr/aspose.cells.drawing/commentshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`CommentShape`](/cells/python-net/fr/aspose.cells.drawing/commentshape)

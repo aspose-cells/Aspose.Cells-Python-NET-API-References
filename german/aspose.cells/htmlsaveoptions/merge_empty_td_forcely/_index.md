@@ -3,15 +3,15 @@ title: merge_empty_td_forcely Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 500
+weight: 560
 url: /de/aspose.cells/htmlsaveoptions/merge_empty_td_forcely/
 is_root: false
 ---
 ##  merge_empty_td_forcely Eigentum
 
- Gibt an, ob leere TD-Elemente beim Exportieren der Datei in HTML zwangsweise zusammengeführt werden.
- Die Größe der HTML-Datei wird erheblich reduziert, nachdem der Wert auf true gesetzt wurde. Der Standardwert ist falsch.
- Wenn Sie die HTML-Datei in Excel importieren oder perfekte Gitterlinien exportieren möchten, wenn Sie die Datei in HTML speichern,
+ Gibt an, ob das Zusammenführen leerer TD-Elemente beim Exportieren der Datei in HTML erzwungen wird.
+ Die Größe der HTML-Datei wird erheblich reduziert, nachdem der Wert auf „true“ gesetzt wurde. Der Standardwert ist false.
+ Wenn Sie die HTML-Datei in Excel importieren oder perfekte Gitterlinien exportieren möchten, wenn Sie die Datei im HTML-Format speichern,
 Bitte behalten Sie den Standardwert bei.
 ###  Definition:
 ```python
@@ -24,5 +24,5 @@ def merge_empty_td_forcely(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlSaveOptions](/cells/python-net/de/aspose.cells/htmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlSaveOptions`](/cells/python-net/de/aspose.cells/htmlsaveoptions)

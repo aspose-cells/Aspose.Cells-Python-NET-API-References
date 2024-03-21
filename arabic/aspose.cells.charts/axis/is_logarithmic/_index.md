@@ -1,15 +1,15 @@
 ---
-title: is_logarithmic الملكية
+title: is_logarithmic عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells.charts/axis/is_logarithmic/
 is_root: false
 ---
-##  is_logarithmic الملكية
+##  is_logarithmic عقار
 
-يمثل إذا كان نوع مقياس محور القيمة لوغاريتميًا أم لا.
+يمثل ما إذا كان نوع مقياس محور القيمة لوغاريتميًا أم لا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_logarithmic(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)

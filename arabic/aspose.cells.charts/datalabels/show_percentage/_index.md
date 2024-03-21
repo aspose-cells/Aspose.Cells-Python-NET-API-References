@@ -1,15 +1,15 @@
 ---
-title: show_percentage الملكية
+title: show_percentage عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 430
+weight: 420
 url: /ar/aspose.cells.charts/datalabels/show_percentage/
 is_root: false
 ---
-##  show_percentage الملكية
+##  show_percentage عقار
 
-يمثل سلوك عرض قيمة النسبة المئوية لتسمية بيانات الرسم البياني المحدد. يعرض صحيح قيمة النسبة المئوية. خطأ للاختباء.
+يمثل سلوك عرض قيمة النسبة المئوية لتسمية البيانات الخاصة بالمخطط المحدد. يعرض True قيمة النسبة المئوية. كذبة للاختباء.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_percentage(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

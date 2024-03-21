@@ -3,13 +3,13 @@ title: row proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 660
+weight: 690
 url: /it/aspose.cells/cell/row/
 is_root: false
 ---
 ##  row proprietà
 
-Ottiene row numero (a base zero) della cella.
+Ottiene il numero row (in base zero) della cella.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

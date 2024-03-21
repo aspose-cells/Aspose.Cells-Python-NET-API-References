@@ -3,13 +3,13 @@ title: lower_right_column Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 900
+weight: 910
 url: /de/aspose.cells.drawing/oleobject/lower_right_column/
 is_root: false
 ---
 ##  lower_right_column Eigentum
 
-Repräsentiert den Spaltenindex der unteren rechten Ecke.
+Stellt den Spaltenindex in der unteren rechten Ecke dar.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def lower_right_column(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [OleObject](/cells/python-net/de/aspose.cells.drawing/oleobject)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`OleObject`](/cells/python-net/de/aspose.cells.drawing/oleobject)

@@ -1,69 +1,69 @@
 ---
-title: ChartPoint الدرجة
+title: ChartPoint صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells.charts/chartpoint/
 is_root: false
 ---
-##  ChartPoint الدرجة
-يمثل نقطة واحدة في سلسلة في مخطط.
+##  ChartPoint صف
+يمثل نقطة واحدة في سلسلة في المخطط.
 
 
 
-يكشف نوع ChartPoint الأعضاء التالية:
+يكشف النوع ChartPoint عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [explosion](/cells/python-net/ar/aspose.cells.charts/chartpoint/explosion) | يتم التعبير عن مسافة الشريحة المفتوحة من مركز المخطط الدائري كنسبة مئوية من قطر الدائرة.|
-| [shadow](/cells/python-net/ar/aspose.cells.charts/chartpoint/shadow) | صحيح إذا كان الرسم البياني له ظل.|
-| [border](/cells/python-net/ar/aspose.cells.charts/chartpoint/border) | يحصل على [Line](/cells/python-net/ar/aspose.cells.drawing/line).|
-| [area](/cells/python-net/ar/aspose.cells.charts/chartpoint/area) | يحصل على [ChartPoint.area](/cells/python-net/ar/aspose.cells.charts/chartpoint#area).|
-| [marker](/cells/python-net/ar/aspose.cells.charts/chartpoint/marker) | يحصل على [ChartPoint.marker](/cells/python-net/ar/aspose.cells.charts/chartpoint#marker).|
+| [explosion](/cells/python-net/ar/aspose.cells.charts/chartpoint/explosion) | يتم التعبير عن المسافة بين الشريحة الدائرية المفتوحة ومركز المخطط الدائري كنسبة مئوية من قطر الدائرة الدائرية.|
+| [shadow](/cells/python-net/ar/aspose.cells.charts/chartpoint/shadow) | صحيح إذا كان لنقطة التخطيط ظل.|
+| [border](/cells/python-net/ar/aspose.cells.charts/chartpoint/border) | يحصل على [`Line`](/cells/python-net/ar/aspose.cells.drawing/line).|
+| [area](/cells/python-net/ar/aspose.cells.charts/chartpoint/area) | يحصل على [`ChartPoint.area`](/cells/python-net/ar/aspose.cells.charts/chartpoint#area).|
+| [marker](/cells/python-net/ar/aspose.cells.charts/chartpoint/marker) | يحصل على [`ChartPoint.marker`](/cells/python-net/ar/aspose.cells.charts/chartpoint#marker).|
 | [data_labels](/cells/python-net/ar/aspose.cells.charts/chartpoint/data_labels) | تُرجع كائن DataLabels الذي يمثل تسمية البيانات المرتبطة بالنقطة.|
-| [y_value](/cells/python-net/ar/aspose.cells.charts/chartpoint/y_value) | الحصول على أو تحديد قيمة Y لنقطة المخطط.|
-| [y_value_type](/cells/python-net/ar/aspose.cells.charts/chartpoint/y_value_type) | الحصول على نوع القيمة Y لنقطة المخطط.|
-| [x_value](/cells/python-net/ar/aspose.cells.charts/chartpoint/x_value) |الحصول على أو تحديد قيمة X لنقطة المخطط.|
-| [x_value_type](/cells/python-net/ar/aspose.cells.charts/chartpoint/x_value_type) | الحصول على نوع القيمة X لنقطة المخطط.|
-| [shape_properties](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_properties) | الحصول على العنصر [ShapePropertyCollection](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection) الذي يحتفظ بخصائص الشكل المرئي لـ ChartPoint.|
-| [is_in_secondary_plot](/cells/python-net/ar/aspose.cells.charts/chartpoint/is_in_secondary_plot) | الحصول على قيمة أو تعيينها يشير إلى ما إذا كانت نقاط البيانات هذه موجودة في الدائرة أو الشريط الثاني<br/> على مخطط دائري أو شريط دائري|
-| [shape_x](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_x) | الحصول على إحداثي x للركن الأيسر العلوي بوحدات 1/4000 من عرض الرسم البياني بعد استدعاء طريقة Chart.Calculate ().|
-| [shape_y](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_y) | الحصول على إحداثي ص للركن الأيسر العلوي بوحدات 1/4000 من ارتفاع الرسم البياني بعد استدعاء طريقة Chart.Calculate ().|
-| [shape_width](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_width) | الحصول على العرض بوحدات 1/4000 من عرض المخطط بعد استدعاء طريقة Chart.Calculate ().|
-| [shape_height](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_height) | الحصول على الارتفاع بوحدات 1/4000 من ارتفاع المخطط بعد استدعاء طريقة Chart.Calculate ().|
-| [shape_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_x_px) | الحصول على إحداثيات x للركن الأيسر العلوي بوحدات البكسل بعد استدعاء طريقة Chart.Calculate ().|
-| [shape_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_y_px) | الحصول على إحداثيات y للركن الأيسر العلوي بوحدات البكسل بعد استدعاء طريقة Chart.Calculate ().|
-| [shape_width_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_width_px) |الحصول على العرض بوحدات البكسل بعد استدعاء طريقة Chart.Calculate ().|
-| [shape_height_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_height_px) | الحصول على الارتفاع بوحدات البكسل بعد استدعاء طريقة Chart.Calculate ().|
-| [border_width_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/border_width_px) | الحصول على عرض الحد بوحدات البكسل بعد استدعاء طريقة Chart.Calculate ().|
-| [radius_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/radius_px) | الحصول على نصف قطر الفقاعة أو الدائرية أو الدائرية المجوفة بوحدات البكسل بعد استدعاء طريقة Chart.Calculate ().|
-| [inner_radius_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/inner_radius_px) | الحصول على نصف القطر الداخلي للشريحة المجوفة بوحدات البكسل بعد استدعاء طريقة Chart.Calculate ().<br/> ينطبق على المخطط الدائري المجوف.|
-| [start_angle](/cells/python-net/ar/aspose.cells.charts/chartpoint/start_angle) | الحصول على زاوية البداية للقسم الدائري ، مقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني بعد استدعاء طريقة Chart.Calculate ().<br/> ينطبق على الرسم البياني الدائري.|
-| [end_angle](/cells/python-net/ar/aspose.cells.charts/chartpoint/end_angle) | الحصول على زاوية النهاية للقسم الدائري ، مقاسة بالدرجات في اتجاه عقارب الساعة من المحور x بعد استدعاء طريقة Chart.Calculate ().<br/> ينطبق على الرسم البياني الدائري.|
-| [arc_start_point_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/arc_start_point_x_px) | الحصول على إحداثيات x لنقطة البداية للقسم الدائري بعد استدعاء طريقة Chart.Calculate ().<br/> ينطبق على المخطط الدائري والدائرية المجوفة.|
-| [arc_start_point_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/arc_start_point_y_px) |الحصول على إحداثيات y لنقطة البداية للقسم الدائري بعد استدعاء طريقة Chart.Calculate ().<br/> ينطبق على المخطط الدائري والدائرية المجوفة.|
-| [arc_end_point_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/arc_end_point_x_px) | الحصول على إحداثيات x لنقطة النهاية للقسم الدائري بعد استدعاء طريقة Chart.Calculate ().<br/> ينطبق على المخطط الدائري والدائرية المجوفة.|
-| [arc_end_point_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/arc_end_point_y_px) | الحصول على احداثي y لنقطة النهاية للقسم الدائري بعد استدعاء طريقة Chart.Calculate ().<br/> ينطبق على المخطط الدائري والدائرية المجوفة.|
-| [inner_arc_start_point_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/inner_arc_start_point_x_px) | الحصول على إحداثيات x لنقطة البداية للقسم الدائري بعد استدعاء طريقة Chart.Calculate ().<br/> ينطبق على المخطط الدائري المجوف.|
-| [inner_arc_start_point_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/inner_arc_start_point_y_px) |الحصول على إحداثيات y لنقطة البداية للقسم الدائري بعد استدعاء طريقة Chart.Calculate ().<br/> ينطبق على المخطط الدائري المجوف.|
-| [inner_arc_end_point_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/inner_arc_end_point_x_px) | الحصول على إحداثيات x لنقطة النهاية للقسم الدائري بعد استدعاء طريقة Chart.Calculate ().<br/> ينطبق على المخطط الدائري المجوف.|
-| [inner_arc_end_point_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/inner_arc_end_point_y_px) | الحصول على احداثي y لنقطة النهاية للقسم الدائري بعد استدعاء طريقة Chart.Calculate ().<br/> ينطبق على المخطط الدائري المجوف.|
+| [y_value](/cells/python-net/ar/aspose.cells.charts/chartpoint/y_value) | الحصول على أو تعيين قيمة Y لنقطة المخطط.|
+| [y_value_type](/cells/python-net/ar/aspose.cells.charts/chartpoint/y_value_type) | يحصل على نوع القيمة Y لنقطة المخطط.|
+| [x_value](/cells/python-net/ar/aspose.cells.charts/chartpoint/x_value) | الحصول على أو تعيين قيمة X لنقطة المخطط.|
+| [x_value_type](/cells/python-net/ar/aspose.cells.charts/chartpoint/x_value_type) | يحصل على نوع القيمة X لنقطة المخطط.|
+| [shape_properties](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_properties) |الحصول على الكائن [`ShapePropertyCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection) الذي يحمل خصائص الشكل المرئي لـ ChartPoint.|
+| [is_in_secondary_plot](/cells/python-net/ar/aspose.cells.charts/chartpoint/is_in_secondary_plot) | يشير الحصول على قيمة أو تعيينها إلى ما إذا كانت نقاط البيانات هذه موجودة في المخطط الدائري أو الشريط الثاني<br/> على فطيرة دائرية أو شريط من الرسم البياني الدائري|
+| [shape_x](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_x) | يحصل على إحداثي x للزاوية اليسرى العليا بوحدات 1/4000 من عرض المخطط بعد استدعاء الأسلوب Chart.Calculate().|
+| [shape_y](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_y) | يحصل على إحداثي y للزاوية اليسرى العليا بوحدات 1/4000 من ارتفاع المخطط بعد استدعاء الأسلوب Chart.Calculate().|
+| [shape_width](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_width) | الحصول على العرض بوحدات 1/4000 من عرض المخطط بعد استدعاء الأسلوب Chart.Calculate().|
+| [shape_height](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_height) | الحصول على الارتفاع بوحدات 1/4000 من ارتفاع المخطط بعد استدعاء الأسلوب Chart.Calculate().|
+| [shape_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_x_px) | يحصل على إحداثي x للزاوية اليسرى العليا بوحدات البكسل بعد استدعاء الأسلوب Chart.Calculate().|
+| [shape_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_y_px) | يحصل على إحداثي y للزاوية اليسرى العليا بوحدات البكسل بعد استدعاء الأسلوب Chart.Calculate().|
+| [shape_width_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_width_px) | يحصل على العرض بوحدات البكسل بعد استدعاء الأسلوب Chart.Calculate().|
+| [shape_height_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/shape_height_px) |يحصل على الارتفاع بوحدات البكسل بعد استدعاء الأسلوب Chart.Calculate().|
+| [border_width_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/border_width_px) | يحصل على عرض الحدود بوحدات البكسل بعد استدعاء الأسلوب Chart.Calculate().|
+| [radius_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/radius_px) | يحصل على نصف قطر الفقاعة أو الفطيرة أو الدونات بوحدات البكسل بعد استدعاء أسلوب Chart.Calculate().|
+| [inner_radius_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/inner_radius_px) | يحصل على نصف القطر الداخلي لشريحة الدونات بوحدات البكسل بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على المخطط الدائري المجوف.|
+| [start_angle](/cells/python-net/ar/aspose.cells.charts/chartpoint/start_angle) | الحصول على زاوية البداية للقسم الدائري، مقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على الرسم البياني الدائري.|
+| [end_angle](/cells/python-net/ar/aspose.cells.charts/chartpoint/end_angle) | الحصول على زاوية النهاية للقسم الدائري، مقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على الرسم البياني الدائري.|
+| [arc_start_point_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/arc_start_point_x_px) | الحصول على إحداثي x لنقطة البداية للقسم الدائري بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على المخطط الدائري والدائري المجوف.|
+| [arc_start_point_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/arc_start_point_y_px) | الحصول على إحداثي y لنقطة البداية للقسم الدائري بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على المخطط الدائري والدائري المجوف.|
+| [arc_end_point_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/arc_end_point_x_px) |الحصول على إحداثي x لنقطة النهاية للقسم الدائري بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على المخطط الدائري والدائري المجوف.|
+| [arc_end_point_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/arc_end_point_y_px) | يحصل على إحداثي y لنقطة النهاية للقسم الدائري بعد استدعاء أسلوب Chart.Calculate().<br/> ينطبق على المخطط الدائري والدائري المجوف.|
+| [inner_arc_start_point_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/inner_arc_start_point_x_px) | الحصول على إحداثي x لنقطة البداية للقسم الدائري بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على المخطط الدائري المجوف.|
+| [inner_arc_start_point_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/inner_arc_start_point_y_px) | الحصول على إحداثي y لنقطة البداية للقسم الدائري بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على المخطط الدائري المجوف.|
+| [inner_arc_end_point_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/inner_arc_end_point_x_px) |الحصول على إحداثي x لنقطة النهاية للقسم الدائري بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على المخطط الدائري المجوف.|
+| [inner_arc_end_point_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/inner_arc_end_point_y_px) | يحصل على إحداثي y لنقطة النهاية للقسم الدائري بعد استدعاء أسلوب Chart.Calculate().<br/> ينطبق على المخطط الدائري المجوف.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_top_point_count()](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_top_point_count/#) | الحصول على عدد النقاط العليا بعد استدعاء طريقة Chart.Calculate ().|
-| [get_top_point_x_px(index)](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_top_point_x_px/#int) | الحصول على إحداثيات x للنقطة العلوية للشكل بعد استدعاء طريقة Chart.Calculate ().<br/> يطبق المخططات ثلاثية الأبعاد: Column3D و Bar3D و Cone و Cylinder و Pyramid و Area3D|
-| [get_top_point_y_px(index)](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | الحصول على إحداثيات y للنقطة العلوية للشكل بعد استدعاء طريقة Chart.Calculate ().<br/> يطبق المخططات ثلاثية الأبعاد: Column3D و Bar3D و Cone و Cylinder و Pyramid و Area3D|
-| [get_bottom_point_count()](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_bottom_point_count/#) | الحصول على عدد النقاط السفلية بعد استدعاء طريقة Chart.Calculate ().|
-| [get_bottom_point_x_px(index)](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | الحصول على إحداثيات x للنقطة السفلية للشكل بعد استدعاء طريقة Chart.Calculate ().<br/> يطبق المخططات ثلاثية الأبعاد: Column3D، Bar3D، Cone، Cylinder، Pyramid|
-| [get_bottom_point_y_px(index)](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | الحصول على إحداثيات y للنقطة السفلية للشكل بعد استدعاء طريقة Chart.Calculate ().<br/> يطبق المخططات ثلاثية الأبعاد: Column3D، Bar3D، Cone، Cylinder، Pyramid|
-| [get_on_category_axis_point_count()](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) |الحصول على عدد النقاط على محور الفئة بعد استدعاء طريقة Chart.Calculate (). ينطبق فقط على مخطط المنطقة.|
-| [get_on_category_axis_point_x_px(index)](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | الحصول على تنسيق x للنقطة على محور الفئة بعد استدعاء طريقة Chart.Calculate (). ينطبق فقط على مخطط المنطقة.|
-| [get_on_category_axis_point_y_px(index)](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | الحصول على إحداثيات ص للنقطة على محور الفئة بعد استدعاء طريقة Chart.Calculate (). ينطبق فقط على مخطط المنطقة.|
+| [get_top_point_count](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_top_point_count/#) | الحصول على عدد النقاط العليا بعد استدعاء أسلوب Chart.Calculate().|
+| [get_top_point_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_top_point_x_px/#int) | يحصل على إحداثي x للنقطة العليا للشكل بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على المخططات ثلاثية الأبعاد: Column3D، وBar3D، وCone، وCylinder، وPyramid، وArea3D|
+| [get_top_point_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | الحصول على إحداثي y للنقطة العليا في الشكل بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على المخططات ثلاثية الأبعاد: Column3D، وBar3D، وCone، وCylinder، وPyramid، وArea3D|
+| [get_bottom_point_count](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_bottom_point_count/#) | يحصل على عدد النقاط السفلية بعد استدعاء الأسلوب Chart.Calculate().|
+| [get_bottom_point_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | الحصول على إحداثي x للنقطة السفلية للشكل بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على المخططات ثلاثية الأبعاد: Column3D، Bar3D، Cone، Cylinder، Pyramid|
+| [get_bottom_point_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | الحصول على إحداثي y للنقطة السفلية للشكل بعد استدعاء الأسلوب Chart.Calculate().<br/> ينطبق على المخططات ثلاثية الأبعاد: Column3D، Bar3D، Cone، Cylinder، Pyramid|
+| [get_on_category_axis_point_count](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) |يحصل على عدد النقاط على محور الفئة بعد استدعاء الأسلوب Chart.Calculate(). ينطبق فقط على المخطط المساحي.|
+| [get_on_category_axis_point_x_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | يحصل على إحداثي x للنقطة على محور الفئة بعد استدعاء الأسلوب Chart.Calculate(). ينطبق فقط على الرسم البياني المساحي.|
+| [get_on_category_axis_point_y_px](/cells/python-net/ar/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | يحصل على إحداثي y للنقطة على محور الفئة بعد استدعاء أسلوب Chart.Calculate(). ينطبق فقط على الرسم البياني المساحي.|
 
 
 
@@ -111,6 +111,6 @@ workbook.save("book1.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
-* فئة [ShapePropertyCollection](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)
+* الوحدة [`aspose.cells.charts`](..)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)
+* فئة [`ShapePropertyCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)

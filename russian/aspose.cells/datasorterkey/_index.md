@@ -1,9 +1,9 @@
 ---
 title: DataSorterKey класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 430
+weight: 450
 url: /ru/aspose.cells/datasorterkey/
 is_root: false
 ---
@@ -12,13 +12,13 @@ is_root: false
 
 
 
-Тип DataSorterKey предоставляет следующие члены:
+Тип DataSorterKey предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [order](/cells/python-net/ru/aspose.cells/datasorterkey/order) | Указывает порядок сортировки.|
-| [index](/cells/python-net/ru/aspose.cells/datasorterkey/index) | Получает индекс отсортированного столбца (абсолютная позиция, столбец A равен 0, B равен 1, ...).|
+| [index](/cells/python-net/ru/aspose.cells/datasorterkey/index) | Получает индекс отсортированного столбца (абсолютное положение, столбец A — 0, B — 1,...).|
 | [type](/cells/python-net/ru/aspose.cells/datasorterkey/type) | Представляет тип сортировки.|
 | [icon_set_type](/cells/python-net/ru/aspose.cells/datasorterkey/icon_set_type) | Представляет тип набора значков.|
 | [icon_id](/cells/python-net/ru/aspose.cells/datasorterkey/icon_id) | Представляет идентификатор типа набора значков.|
@@ -27,4 +27,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

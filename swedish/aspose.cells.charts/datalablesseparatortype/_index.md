@@ -3,7 +3,7 @@ title: DataLablesSeparatorType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 480
+weight: 490
 url: /sv/aspose.cells.charts/datalablesseparatortype/
 is_root: false
 ---
@@ -21,7 +21,7 @@ Typen DataLablesSeparatorType avslöjar följande medlemmar:
 | SPACE | Representerar mellanslag(" ")|
 | COMMA | Representerar komma(",")|
 | SEMICOLON | Representerar semikolon(";")|
-| PERIOD |Representerar period(".")|
+| PERIOD | Representerar period(".")|
 | NEW_LINE | Representerar nyrad("\n")|
 | CUSTOM | Representerar anpassad separator|
 
@@ -35,4 +35,4 @@ använd DataLabelsSeparatorType enum.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

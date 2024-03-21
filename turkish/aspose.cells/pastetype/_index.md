@@ -3,18 +3,18 @@ title: PasteType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2360
+weight: 2450
 url: /tr/aspose.cells/pastetype/
 is_root: false
 ---
 ##  PasteType numaralandırma
-Özel yapıştırma türünü temsil eder.
+Yapıştırma özel türünü temsil eder.
 
 
 
-PasteType türü aşağıdaki üyeleri gösterir:
+PasteType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | ALL | Aralığın tüm verilerini kopyalar.|
@@ -22,7 +22,7 @@ PasteType türü aşağıdaki üyeleri gösterir:
 | ALL_EXCEPT_BORDERS | Aralığın tüm verilerini aralık olmadan kopyalar.|
 | DEFAULT_EXCEPT_BORDERS | MS Excel'in "Kenarlıklar hariç tümü" davranışı olarak çalışır.|
 | COLUMN_WIDTHS | Yalnızca aralığın genişliklerini kopyalar.|
-| ROW_HEIGHTS | Yalnızca aralığın yüksekliklerini kopyalar.|
+| ROW_HEIGHTS | Yalnızca aralığın yüksekliğini kopyalar.|
 | COMMENTS |  |
 | FORMATS |  |
 | FORMULAS |  |
@@ -35,4 +35,4 @@ PasteType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
 title: date1904 недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 190
+weight: 150
 url: /ru/aspose.cells/workbooksettings/date1904/
 is_root: false
 ---
 ##  date1904 недвижимость
 
-Получает или задает значение, указывающее, использует ли книга систему дат 1904 года.
+Получает или задает значение, указывающее, использует ли книга систему дат 1904.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def date1904(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

@@ -10,10 +10,13 @@ is_root: false
 ##  extend_to_next_sheet fastighet
 
 Om data utökas till nästa ark när raderna eller kolumnerna med data överskrider gränsen.
-Om den här egenskapen är sann kommer extra data att utökas till nästa ark bakom det nuvarande (om det aktuella arket är det sista,
-nytt ark kommer att läggas till aktuell arbetsbok).
+Standard är falskt.
+
+###  Anmärkningar
+
+Om den här egenskapen är sann kommer extra data att läggas in i nästa ark bakom det aktuella
+(om aktuellt ark är det sista, kommer ett nytt ark att läggas till aktuell arbetsbok).
 Om den här egenskapen är falsk kommer data som överskrider gränsen att ignoreras.
-Standard är falskt;
 ###  Definition:
 ```python
 @property
@@ -25,5 +28,5 @@ def extend_to_next_sheet(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [TxtLoadOptions](/cells/python-net/sv/aspose.cells/txtloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`TxtLoadOptions`](/cells/python-net/sv/aspose.cells/txtloadoptions)

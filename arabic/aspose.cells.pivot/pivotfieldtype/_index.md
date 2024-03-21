@@ -1,29 +1,29 @@
 ---
-title: العد PivotFieldType
+title: PivotFieldType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 290
 url: /ar/aspose.cells.pivot/pivotfieldtype/
 is_root: false
 ---
-##  العد PivotFieldType
+##  PivotFieldType التعداد
 يمثل نوع حقل PivotTable.
 
 
 
-يكشف نوع PivotFieldType الأعضاء التالية:
+يكشف النوع PivotFieldType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | UNDEFINED | يقدم نوع الحقل المحوري الأساسي.|
-| ROW | يقدم نوع الحقل المحوري للصف.|
-| COLUMN | يقدم نوع الحقل المحوري للعمود.|
-| PAGE | يقدم نوع الحقل المحوري للصفحة.|
-| DATA | يقدم نوع حقل البيانات المحوري.|
+| ROW | يعرض نوع الحقل المحوري للصف.|
+| COLUMN | يعرض نوع الحقل المحوري للعمود.|
+| PAGE | يعرض نوع الحقل المحوري للصفحة.|
+| DATA | يعرض نوع الحقل المحوري للبيانات.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](..)
+* الوحدة [`aspose.cells.pivot`](..)

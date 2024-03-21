@@ -7,11 +7,11 @@ weight: 10
 url: /de/aspose.cells.rendering.pdfsecurity/
 is_root: false
 ---
- Der**Aspose.Cells.Rendering.PdfSecurity** Namespace bietet Sicherheitsoptionen für Klassen zum Rendern von PDF.
+ Der**Aspose.Cells.Rendering.PdfSecurity** Der Namespace bietet Klassensicherheitsoptionen für das Rendern von PDFs.
 
 ###  Klassen
 | Klasse| Beschreibung|
 | :- | :- |
-| [PdfSecurityOptions](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions) | Einstellungen von PDF beim Konvertieren von Excel in PDF, PDF/A erlaubt keine Sicherheitseinstellung.|
+| [`PdfSecurityOptions`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions) | Optionen zur Verschlüsselung und Zugriffsberechtigungen für ein PDF-Dokument.<br/> PDF/A erlaubt keine Sicherheitseinstellung.|
 
 

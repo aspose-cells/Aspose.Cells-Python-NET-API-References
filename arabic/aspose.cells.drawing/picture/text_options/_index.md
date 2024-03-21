@@ -1,13 +1,13 @@
 ---
-title: text_options الملكية
+title: text_options عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /ar/aspose.cells.drawing/picture/text_options/
 is_root: false
 ---
-##  text_options الملكية
+##  text_options عقار
 
 يمثل خيارات النص للشكل.
 
@@ -32,6 +32,6 @@ def text_options(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
-* فئة [TextOptions](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)
+* فئة [`TextOptions`](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)

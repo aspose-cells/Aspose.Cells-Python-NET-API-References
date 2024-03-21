@@ -3,7 +3,7 @@ title: FilterOperatorType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2050
+weight: 2120
 url: /sv/aspose.cells/filteroperatortype/
 is_root: false
 ---
@@ -25,11 +25,11 @@ Typen FilterOperatorType avslöjar följande medlemmar:
 | GREATER_OR_EQUAL | Representerar GreaterOrEqual-operatören.|
 | NONE | Representerar ingen jämförelse.|
 | BEGINS_WITH | Börjar med texten.|
-| ENDS_WITH |Avslutar med texten.|
+| ENDS_WITH | Avslutar med texten.|
 | CONTAINS | Innehåller texten.|
 | NOT_CONTAINS | Innehåller inte texten.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

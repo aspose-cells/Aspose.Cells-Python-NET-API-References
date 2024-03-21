@@ -1,15 +1,15 @@
 ---
-title: drag_to_column الملكية
+title: drag_to_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 280
 url: /ar/aspose.cells.pivot/pivotfield/drag_to_column/
 is_root: false
 ---
-##  drag_to_column الملكية
+##  drag_to_column عقار
 
-يشير إلى إمكانية سحب الحقل المحدد إلى موضع العمود.
+يشير إلى ما إذا كان يمكن سحب الحقل المحدد إلى موضع العمود.
 القيمة الافتراضية هي الحقيقية.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def drag_to_column(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

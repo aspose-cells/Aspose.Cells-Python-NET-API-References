@@ -3,7 +3,7 @@ title: IconSet sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 900
+weight: 940
 url: /tr/aspose.cells/iconset/
 is_root: false
 ---
@@ -14,17 +14,17 @@ değerlerine göre.
 
 
 
-IconSet türü aşağıdaki üyeleri gösterir:
+IconSet türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [cf_icons](/cells/python-net/tr/aspose.cells/iconset/cf_icons) | Koleksiyondan [ConditionalFormattingIcon](/cells/python-net/tr/aspose.cells/conditionalformattingicon)'i edinin|
+| [cf_icons](/cells/python-net/tr/aspose.cells/iconset/cf_icons) | Koleksiyondan [`ConditionalFormattingIcon`](/cells/python-net/tr/aspose.cells/conditionalformattingicon)'i alın|
 | [cfvos](/cells/python-net/tr/aspose.cells/iconset/cfvos) | CFValueObjects örneğini alın.|
-| [type](/cells/python-net/tr/aspose.cells/iconset/type) | Görüntülenecek simge seti türünü alın veya ayarlayın.<br/>Türün ayarlanması, geçerli Cfvos sayısının olup olmadığını otomatik olarak kontrol edecektir.<br/> yeni tipe uygun. Uyulmadığı takdirde eski Cfvos temizlenecek ve<br/> varsayılan Cfvos eklenecektir.|
-| [is_custom](/cells/python-net/tr/aspose.cells/iconset/is_custom) | Simge setinin özel olup olmadığını gösterir.<br/> Varsayılan değer yanlıştır.|
-| [show_value](/cells/python-net/tr/aspose.cells/iconset/show_value) | Bu simge setinin uygulandığı hücrelerin değerlerinin gösterilip gösterilmeyeceğini gösteren bayrağı alın veya ayarlayın.<br/> Varsayılan değer doğrudur.|
-| [reverse](/cells/python-net/tr/aspose.cells/iconset/reverse) | Bu simge setindeki simgelerin varsayılan sırasının tersine çevrilip çevrilmeyeceğini gösteren bayrağı alın veya ayarlayın.<br/> Varsayılan değer yanlıştır.|
+| [type](/cells/python-net/tr/aspose.cells/iconset/type) | Görüntülenecek simge seti türünü alın veya ayarlayın.<br/>Türün ayarlanması, mevcut Cfvos sayısının şu şekilde olup olmadığını otomatik olarak kontrol edecektir:<br/> yeni tipe uygun. Uyum sağlanmadığı takdirde eski Cfvo'lar temizlenecek ve<br/> varsayılan Cfvo'lar eklenecektir.|
+| [is_custom](/cells/python-net/tr/aspose.cells/iconset/is_custom) | Simge kümesinin özel olup olmadığını gösterir.<br/> Varsayılan değer false'tur.|
+| [show_value](/cells/python-net/tr/aspose.cells/iconset/show_value) | Bu simge setinin uygulandığı hücrelerin değerlerinin gösterilip gösterilmeyeceğini belirten bayrağı alın veya ayarlayın.<br/> Varsayılan değer doğrudur.|
+| [reverse](/cells/python-net/tr/aspose.cells/iconset/reverse) | Bu simge setindeki simgelerin varsayılan sırasının tersine çevrilip çevrilmeyeceğini belirten bayrağı alın veya ayarlayın.<br/> Varsayılan değer false'tur.|
 
 
 
@@ -67,5 +67,5 @@ workbook.save("book1.xlsx")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
-* sınıf [ConditionalFormattingIcon](/cells/python-net/tr/aspose.cells/conditionalformattingicon)
+* modül [`aspose.cells`](..)
+* sınıf [`ConditionalFormattingIcon`](/cells/python-net/tr/aspose.cells/conditionalformattingicon)

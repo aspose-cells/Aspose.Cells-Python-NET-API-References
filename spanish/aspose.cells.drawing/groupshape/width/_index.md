@@ -3,7 +3,7 @@ title: width propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /es/aspose.cells.drawing/groupshape/width/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)

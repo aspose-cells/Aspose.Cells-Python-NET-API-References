@@ -3,7 +3,7 @@ title: text_shape_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /tr/aspose.cells.drawing/arcshape/text_shape_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ArcShape](/cells/python-net/tr/aspose.cells.drawing/arcshape)
-* sınıf [AutoShapeType](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ArcShape`](/cells/python-net/tr/aspose.cells.drawing/arcshape)
+* sınıf [`AutoShapeType`](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)

@@ -1,19 +1,19 @@
 ---
-title: enable_macros الملكية
+title: enable_macros عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 170
 url: /ar/aspose.cells/workbooksettings/enable_macros/
 is_root: false
 ---
-##  enable_macros الملكية
+##  enable_macros عقار
 
-تمكين وحدات الماكرو ؛
+تمكين وحدات الماكرو.
 
 ###  ملاحظات
 
-تعمل الآن فقط عند نسخ ورقة عمل إلى ورقة عمل أخرى في مصنف.
+الآن يعمل فقط عند نسخ ورقة عمل إلى ورقة عمل أخرى في مصنف.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def enable_macros(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

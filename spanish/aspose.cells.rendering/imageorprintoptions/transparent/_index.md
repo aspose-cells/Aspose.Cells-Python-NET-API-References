@@ -3,7 +3,7 @@ title: transparent propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 360
+weight: 380
 url: /es/aspose.cells.rendering/imageorprintoptions/transparent/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def transparent(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [ImageOrPrintOptions](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`ImageOrPrintOptions`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)

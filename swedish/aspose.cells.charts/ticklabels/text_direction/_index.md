@@ -3,7 +3,7 @@ title: text_direction fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 160
 url: /sv/aspose.cells.charts/ticklabels/text_direction/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def text_direction(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [TextDirectionType](/cells/python-net/sv/aspose.cells/textdirectiontype)
-* klass [TickLabels](/cells/python-net/sv/aspose.cells.charts/ticklabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`TextDirectionType`](/cells/python-net/sv/aspose.cells/textdirectiontype)
+* klass [`TickLabels`](/cells/python-net/sv/aspose.cells.charts/ticklabels)

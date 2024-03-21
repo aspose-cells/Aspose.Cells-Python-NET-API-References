@@ -3,7 +3,7 @@ title: is_equation propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 640
+weight: 650
 url: /fr/aspose.cells.drawing/oleobject/is_equation/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/fr/aspose.cells.drawing/oleobject)
+* module [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/fr/aspose.cells.drawing/oleobject)

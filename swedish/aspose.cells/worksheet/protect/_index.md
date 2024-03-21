@@ -3,11 +3,11 @@ title: protect metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 200
 url: /sv/aspose.cells/worksheet/protect/
 is_root: false
 ---
-##  protect(type) {#ProtectionType}
+##  protect {#aspose.cells.ProtectionType}
 Skyddar kalkylblad.
 
 
@@ -20,12 +20,12 @@ def protect(self, type):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [ProtectionType](/cells/python-net/sv/aspose.cells/protectiontype) | Skyddstyp.|
+| type | [`ProtectionType`](/cells/python-net/sv/aspose.cells/protectiontype) | Skyddstyp.|
 ###  Anmärkningar
 
 Denna metod skyddar kalkylblad utan lösenord. Det kan protect kalkylblad i alla versioner av Excel-fil.
 
-##  protect(type, password, old_password) {#ProtectionType-str-str}
+##  protect {#aspose.cells.ProtectionType-str-str}
 
 Skyddar kalkylblad.
 
@@ -39,7 +39,7 @@ def protect(self, type, password, old_password):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [ProtectionType](/cells/python-net/sv/aspose.cells/protectiontype) | Skyddstyp.|
+| type | [`ProtectionType`](/cells/python-net/sv/aspose.cells/protectiontype) | Skyddstyp.|
 | password | str | Lösenord.|
 | old_password | str | Om kalkylbladet redan är skyddat av ett lösenord, vänligen ange det gamla lösenordet.<br/> Annars kan du ställa in ett nollvärde eller tom sträng för denna parameter.|
 ###  Anmärkningar
@@ -65,5 +65,5 @@ excel.save("output.xls")
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

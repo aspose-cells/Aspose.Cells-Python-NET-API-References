@@ -1,15 +1,15 @@
 ---
-title: sort_external_names الملكية
+title: sort_external_names عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ar/aspose.cells/xpssaveoptions/sort_external_names/
 is_root: false
 ---
-##  sort_external_names الملكية
+##  sort_external_names عقار
 
-يشير إلى ما إذا كان يتم فرز الأسماء المعرفة الخارجية قبل حفظ الملف.
+يشير إلى ما إذا كان سيتم فرز الأسماء المحددة الخارجية قبل حفظ الملف.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def sort_external_names(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [XpsSaveOptions](/cells/python-net/ar/aspose.cells/xpssaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`XpsSaveOptions`](/cells/python-net/ar/aspose.cells/xpssaveoptions)

@@ -1,17 +1,17 @@
 ---
 title: get_row_labels_name_of_pivot_table метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ru/aspose.cells/globalizationsettings/get_row_labels_name_of_pivot_table/
 is_root: false
 ---
-##  get_row_labels_name_of_pivot_table() {#}
+##  get_row_labels_name_of_pivot_table {#}
 Получает имя метки «Метки строк» в сводной таблице.
 
 
-###  Возвращает
+###  Возврат
 
 Название меток строк
 
@@ -25,11 +25,11 @@ def get_row_labels_name_of_pivot_table(self):
 ###  Примечания
 
 ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
-используйте метод GlobalizationSettings.GetColumnLabelsOfPivotTable().
- Это свойство будет удалено через 12 месяцев, начиная с декабря 2022 года.
+используйте метод PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с декабря 2022 года.
 Aspose приносит извинения за возможные неудобства.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GlobalizationSettings](/cells/python-net/ru/aspose.cells/globalizationsettings)
+* модуль [`aspose.cells`](../../)
+* класс [`GlobalizationSettings`](/cells/python-net/ru/aspose.cells/globalizationsettings)

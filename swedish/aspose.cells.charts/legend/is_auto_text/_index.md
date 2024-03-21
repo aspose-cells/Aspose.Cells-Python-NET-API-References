@@ -3,7 +3,7 @@ title: is_auto_text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 180
 url: /sv/aspose.cells.charts/legend/is_auto_text/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_auto_text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Legend](/cells/python-net/sv/aspose.cells.charts/legend)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Legend`](/cells/python-net/sv/aspose.cells.charts/legend)

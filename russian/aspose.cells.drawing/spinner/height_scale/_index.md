@@ -1,15 +1,15 @@
 ---
 title: height_scale недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 480
+weight: 490
 url: /ru/aspose.cells.drawing/spinner/height_scale/
 is_root: false
 ---
 ##  height_scale недвижимость
 
-Получает и задает масштаб высоты в процентах от исходной высоты изображения.
+Получает и задает шкалу высоты в процентах от высоты исходного изображения.
 Если фигура не является изображением, свойство HeightScale возвращает только 100;
 
 ###  Пример
@@ -31,5 +31,5 @@ def height_scale(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Spinner](/cells/python-net/ru/aspose.cells.drawing/spinner)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Spinner`](/cells/python-net/ru/aspose.cells.drawing/spinner)

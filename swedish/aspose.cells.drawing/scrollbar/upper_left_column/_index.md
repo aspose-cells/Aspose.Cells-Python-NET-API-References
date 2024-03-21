@@ -3,7 +3,7 @@ title: upper_left_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /sv/aspose.cells.drawing/scrollbar/upper_left_column/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ScrollBar](/cells/python-net/sv/aspose.cells.drawing/scrollbar)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ScrollBar`](/cells/python-net/sv/aspose.cells.drawing/scrollbar)

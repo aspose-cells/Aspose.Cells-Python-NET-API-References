@@ -3,7 +3,7 @@ title: height_in_shape fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 460
 url: /sv/aspose.cells.drawing/textbox/height_in_shape/
 is_root: false
 ---
@@ -19,8 +19,8 @@ Gäller endast när denna form i gruppen eller diagrammet.
 
 ```python
 
-if shape.upper_delta_y == 4000:
-    shape.upper_delta_y = 2000
+if shape.is_in_group and shape.height_in_shape == 4000:
+    shape.height_in_shape = 2000
 
 ```
 ###  Definition:
@@ -34,5 +34,5 @@ def height_in_shape(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextBox](/cells/python-net/sv/aspose.cells.drawing/textbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextBox`](/cells/python-net/sv/aspose.cells.drawing/textbox)

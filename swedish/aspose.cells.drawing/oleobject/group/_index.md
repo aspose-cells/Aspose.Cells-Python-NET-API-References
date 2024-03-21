@@ -3,7 +3,7 @@ title: group fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 480
+weight: 490
 url: /sv/aspose.cells.drawing/oleobject/group/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def group(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GroupShape](/cells/python-net/sv/aspose.cells.drawing/groupshape)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GroupShape`](/cells/python-net/sv/aspose.cells.drawing/groupshape)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

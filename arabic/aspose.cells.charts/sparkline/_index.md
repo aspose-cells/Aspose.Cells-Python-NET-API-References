@@ -1,23 +1,23 @@
 ---
-title: Sparkline الدرجة
+title: Sparkline صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ar/aspose.cells.charts/sparkline/
 is_root: false
 ---
-##  Sparkline الدرجة
-يمثل خط المؤشر مخططًا أو رسمًا صغيرًا في خلية ورقة عمل توفر تمثيلًا مرئيًا للبيانات.
+##  Sparkline صف
+يمثل خط المؤشر مخططًا أو رسمًا صغيرًا في خلية ورقة العمل التي توفر تمثيلاً مرئيًا للبيانات.
 
 
 
-يكشف نوع Sparkline الأعضاء التالية:
+يكشف النوع Sparkline عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [data_range](/cells/python-net/ar/aspose.cells.charts/sparkline/data_range) | يمثل نطاق البيانات لخط المؤشر.|
+| [data_range](/cells/python-net/ar/aspose.cells.charts/sparkline/data_range) | يمثل نطاق بيانات خط المؤشر.|
 | [row](/cells/python-net/ar/aspose.cells.charts/sparkline/row) | الحصول على فهرس صف خط المؤشر.|
 | [column](/cells/python-net/ar/aspose.cells.charts/sparkline/column) | الحصول على فهرس عمود خط المؤشر.|
 
@@ -25,8 +25,8 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [to_image(file_name, options)](/cells/python-net/ar/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | يحول خط مؤشر إلى صورة.|
-| [to_image(stream, options)](/cells/python-net/ar/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | يحول خط مؤشر إلى صورة.|
+| [to_image](/cells/python-net/ar/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | تحويل خط المؤشر إلى صورة.|
+| [to_image](/cells/python-net/ar/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | تحويل خط المؤشر إلى صورة.|
 
 
 
@@ -59,4 +59,4 @@ line.to_image("output.png", ImageOrPrintOptions())
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

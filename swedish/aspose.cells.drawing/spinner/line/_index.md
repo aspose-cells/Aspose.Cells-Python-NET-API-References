@@ -3,7 +3,7 @@ title: line fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 740
+weight: 750
 url: /sv/aspose.cells.drawing/spinner/line/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def line(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
-* klass [Spinner](/cells/python-net/sv/aspose.cells.drawing/spinner)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* klass [`Spinner`](/cells/python-net/sv/aspose.cells.drawing/spinner)

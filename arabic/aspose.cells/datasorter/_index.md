@@ -1,46 +1,46 @@
 ---
-title: DataSorter الدرجة
+title: DataSorter صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 440
 url: /ar/aspose.cells/datasorter/
 is_root: false
 ---
-##  DataSorter الدرجة
-وصف موجز لـ DataSorter.
+##  DataSorter صف
+وصف موجز لDataSorter.
 
 
 
-يكشف نوع DataSorter الأعضاء التالية:
+يكشف النوع DataSorter عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [keys](/cells/python-net/ar/aspose.cells/datasorter/keys) | يحصل على القائمة الرئيسية لفرز البيانات.|
+| [keys](/cells/python-net/ar/aspose.cells/datasorter/keys) | يحصل على القائمة الرئيسية لفارز البيانات.|
 | [has_headers](/cells/python-net/ar/aspose.cells/datasorter/has_headers) | يمثل ما إذا كان النطاق يحتوي على رؤوس.|
-| [key1](/cells/python-net/ar/aspose.cells/datasorter/key1) | يمثل فهرس العمود الذي تم فرزه أولاً (الموضع المطلق ، العمود A هو 0 ، B هو 1 ، ...).|
+| [key1](/cells/python-net/ar/aspose.cells/datasorter/key1) | يمثل فهرس العمود الذي تم فرزه أولاً (الموضع المطلق، العمود A هو 0، B هو 1، ...).|
 | [order1](/cells/python-net/ar/aspose.cells/datasorter/order1) | يمثل ترتيب الفرز للمفتاح الأول.|
-| [key2](/cells/python-net/ar/aspose.cells/datasorter/key2) | يمثل فهرس العمود الثاني المصنف (الموضع المطلق ، العمود A هو 0 ، B هو 1 ، ...).|
+| [key2](/cells/python-net/ar/aspose.cells/datasorter/key2) | يمثل فهرس العمود المفرز الثاني (الموضع المطلق، العمود A هو 0، B هو 1، ...).|
 | [order2](/cells/python-net/ar/aspose.cells/datasorter/order2) | يمثل ترتيب الفرز للمفتاح الثاني.|
-| [key3](/cells/python-net/ar/aspose.cells/datasorter/key3) | يمثل فهرس العمود الثالث المصنف (الموضع المطلق ، العمود A هو 0 ، B هو 1 ، ...).|
+| [key3](/cells/python-net/ar/aspose.cells/datasorter/key3) | يمثل فهرس العمود المفرز الثالث (الموضع المطلق، العمود A هو 0، B هو 1، ...).|
 | [order3](/cells/python-net/ar/aspose.cells/datasorter/order3) | يمثل ترتيب الفرز للمفتاح الثالث.|
-| [sort_left_to_right](/cells/python-net/ar/aspose.cells/datasorter/sort_left_to_right) | صحيح يعني أن اتجاه الفرز يكون من اليسار إلى اليمين.<br/>خطأ يعني أن اتجاه الفرز من أعلى إلى أسفل.<br/> القيمة الافتراضية هي كاذبة.|
-| [case_sensitive](/cells/python-net/ar/aspose.cells/datasorter/case_sensitive) | الحصول على وتحديد ما إذا كانت حساسة لحالة الأحرف عند مقارنة السلسلة.|
-| [sort_as_number](/cells/python-net/ar/aspose.cells/datasorter/sort_as_number) | يشير إلى ما إذا كان يتم فرز أي شيء يشبه الرقم.|
+| [sort_left_to_right](/cells/python-net/ar/aspose.cells/datasorter/sort_left_to_right) | صحيح يعني أن اتجاه الفرز يكون من اليسار إلى اليمين.<br/>"خطأ" يعني أن اتجاه الفرز يكون من أعلى إلى أسفل.<br/> القيمة الافتراضية هي كاذبة.|
+| [case_sensitive](/cells/python-net/ar/aspose.cells/datasorter/case_sensitive) | يحصل على ما إذا كان حساسًا لحالة الأحرف ويحدده عند مقارنة السلسلة.|
+| [sort_as_number](/cells/python-net/ar/aspose.cells/datasorter/sort_as_number) |يشير إلى ما إذا كان سيتم فرز أي شيء يشبه الرقم.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add_key(key, order)](/cells/python-net/ar/aspose.cells/datasorter/add_key/#int-SortOrder) | يضيف فهرس العمود المرتب وترتيب الفرز.|
-| [add_key(key, order, custom_list)](/cells/python-net/ar/aspose.cells/datasorter/add_key/#int-SortOrder-str) | يضيف فهرس العمود المرتب وترتيب الفرز مع قائمة الفرز المخصصة.|
-| [add_key(key, type, order, custom_list)](/cells/python-net/ar/aspose.cells/datasorter/add_key/#int-SortOnType-SortOrder-any) | يضيف فهرس العمود المرتب وترتيب الفرز مع قائمة الفرز المخصصة.|
-| [add_key(key, order, custom_list)](/cells/python-net/ar/aspose.cells/datasorter/add_key/#int-SortOrder-list) | يضيف فهرس العمود المرتب وترتيب الفرز مع قائمة الفرز المخصصة.|
-| [sort(cells, start_row, start_column, end_row, end_column)](/cells/python-net/ar/aspose.cells/datasorter/sort/#Cells-int-int-int-int) | يفرز بيانات المنطقة.|
-| [sort(cells, area)](/cells/python-net/ar/aspose.cells/datasorter/sort/#Cells-CellArea) | فرز بيانات المنطقة.|
-| [sort()](/cells/python-net/ar/aspose.cells/datasorter/sort/#) | فرز البيانات في النطاق.|
-| [clear()](/cells/python-net/ar/aspose.cells/datasorter/clear/#) | امسح كل الإعدادات.|
+| [add_key](/cells/python-net/ar/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder) | يضيف فهرس الأعمدة التي تم فرزها وترتيب الفرز.|
+| [add_key](/cells/python-net/ar/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-str) | يضيف فهرس الأعمدة المفرزة وترتيب الفرز باستخدام قائمة الفرز المخصصة.|
+| [add_key](/cells/python-net/ar/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOnType-aspose.cells.SortOrder-any) | يضيف فهرس الأعمدة المفرزة وترتيب الفرز باستخدام قائمة الفرز المخصصة.|
+| [add_key](/cells/python-net/ar/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-list) | يضيف فهرس الأعمدة المفرزة وترتيب الفرز باستخدام قائمة الفرز المخصصة.|
+| [sort](/cells/python-net/ar/aspose.cells/datasorter/sort/#aspose.cells.Cells-int-int-int-int) | فرز بيانات المنطقة.|
+| [sort](/cells/python-net/ar/aspose.cells/datasorter/sort/#aspose.cells.Cells-aspose.cells.CellArea) | فرز بيانات المنطقة.|
+| [sort](/cells/python-net/ar/aspose.cells/datasorter/sort/#) | فرز البيانات في النطاق.|
+| [clear](/cells/python-net/ar/aspose.cells/datasorter/clear/#) | مسح كافة الإعدادات.|
 
 
 
@@ -79,4 +79,4 @@ workbook.save("outBook.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

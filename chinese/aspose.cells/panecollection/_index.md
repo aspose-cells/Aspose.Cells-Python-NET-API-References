@@ -1,9 +1,9 @@
 ---
 title: PaneCollection类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1160
+weight: 1200
 url: /zh/aspose.cells/panecollection/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-PaneCollection 类型公开了以下成员：
+PaneCollection 类型公开以下成员：
 
 ### 特性
 |属性|描述|
 | :- | :- |
-| [first_visible_row_of_bottom_pane](/cells/python-net/zh/aspose.cells/panecollection/first_visible_row_of_bottom_pane) |获取和设置底部窗格的第一个可见行。|
-| [first_visible_column_of_right_pane](/cells/python-net/zh/aspose.cells/panecollection/first_visible_column_of_right_pane) |获取和设置右窗格的第一个可见列。|
+| [first_visible_row_of_bottom_pane](/cells/python-net/zh/aspose.cells/panecollection/first_visible_row_of_bottom_pane) |获取并设置底部窗格的第一个可见行。|
+| [first_visible_column_of_right_pane](/cells/python-net/zh/aspose.cells/panecollection/first_visible_column_of_right_pane) |获取并设置右窗格的第一个可见列。|
 | [acitve_pane_type](/cells/python-net/zh/aspose.cells/panecollection/acitve_pane_type) |获取和设置活动窗格。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

@@ -3,13 +3,13 @@ title: rename_strategy proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 130
+weight: 150
 url: /it/aspose.cells/exporttableoptions/rename_strategy/
 is_root: false
 ---
 ##  rename_strategy proprietà
 
-Strategia per i nomi duplicati delle colonne.
+Strategia per nomi duplicati di colonne.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def rename_strategy(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ExportTableOptions](/cells/python-net/it/aspose.cells/exporttableoptions)
-* classe [RenameStrategy](/cells/python-net/it/aspose.cells/renamestrategy)
+* modulo [`aspose.cells`](../../)
+* classe [`ExportTableOptions`](/cells/python-net/it/aspose.cells/exporttableoptions)
+* classe [`RenameStrategy`](/cells/python-net/it/aspose.cells/renamestrategy)

@@ -3,7 +3,7 @@ title: object_data fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 950
+weight: 960
 url: /sv/aspose.cells.drawing/oleobject/object_data/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def object_data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

@@ -1,18 +1,18 @@
 ---
 title: get_table_row_type_of_data метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ru/aspose.cells/globalizationsettings/get_table_row_type_of_data/
 is_root: false
 ---
-##  get_table_row_type_of_data() {#}
-Получает имя типа строк таблицы, состоящей из области данных ссылочной таблицы.
+##  get_table_row_type_of_data {#}
+Получает имя типа строк таблицы, состоящее из области данных указанной таблицы.
 По умолчанию используется «Данные», поэтому в формуле «#Данные» представляет область данных таблицы.
 
 
-###  Возвращает
+###  Возврат
 
 имя типа строк таблицы
 
@@ -27,5 +27,5 @@ def get_table_row_type_of_data(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GlobalizationSettings](/cells/python-net/ru/aspose.cells/globalizationsettings)
+* модуль [`aspose.cells`](../../)
+* класс [`GlobalizationSettings`](/cells/python-net/ru/aspose.cells/globalizationsettings)

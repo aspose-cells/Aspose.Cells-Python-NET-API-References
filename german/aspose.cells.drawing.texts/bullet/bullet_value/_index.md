@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bullet_value Eigentum
 
-Ruft den Aufzählungswert ab
+Ruft den Wert von Bullet ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def bullet_value(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [Bullet](/cells/python-net/de/aspose.cells.drawing.texts/bullet)
-* Klasse [BulletValue](/cells/python-net/de/aspose.cells.drawing.texts/bulletvalue)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`Bullet`](/cells/python-net/de/aspose.cells.drawing.texts/bullet)
+* Klasse [`BulletValue`](/cells/python-net/de/aspose.cells.drawing.texts/bulletvalue)

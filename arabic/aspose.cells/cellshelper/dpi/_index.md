@@ -1,13 +1,13 @@
 ---
-title: dpi الملكية
+title: dpi عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ar/aspose.cells/cellshelper/dpi/
 is_root: false
 ---
-##  dpi الملكية
+##  dpi عقار
 
 يحصل على DPI للجهاز.
 
@@ -25,5 +25,5 @@ def dpi(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellsHelper](/cells/python-net/ar/aspose.cells/cellshelper)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellsHelper`](/cells/python-net/ar/aspose.cells/cellshelper)

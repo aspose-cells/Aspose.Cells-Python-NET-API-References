@@ -7,7 +7,7 @@ weight: 220
 url: /de/aspose.cells/cells/delete_column/
 is_root: false
 ---
-##  delete_column(column_index) {#int}
+##  delete_column {#int}
 Löscht eine Spalte.
 
 
@@ -20,10 +20,10 @@ def delete_column(self, column_index):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| column_index | int | Spaltenindex.|
+| column_index | int | Index der zu löschenden Spalte.|
 
 
-##  delete_column(column_index, update_reference) {#int-bool}
+##  delete_column {#int-bool}
 Löscht eine Spalte.
 
 
@@ -36,11 +36,11 @@ def delete_column(self, column_index, update_reference):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| column_index | int | Spaltenindex.|
+| column_index | int | Index der zu löschenden Spalte.|
 | update_reference | bool | Gibt an, ob Verweise in anderen Arbeitsblättern aktualisiert werden.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

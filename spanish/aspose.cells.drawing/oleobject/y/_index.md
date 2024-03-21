@@ -3,7 +3,7 @@ title: y propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1410
+weight: 1420
 url: /es/aspose.cells.drawing/oleobject/y/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [OleObject](/cells/python-net/es/aspose.cells.drawing/oleobject)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`OleObject`](/cells/python-net/es/aspose.cells.drawing/oleobject)

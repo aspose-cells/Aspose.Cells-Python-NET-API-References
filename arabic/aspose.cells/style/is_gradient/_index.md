@@ -1,13 +1,13 @@
 ---
-title: is_gradient الملكية
+title: is_gradient عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 330
 url: /ar/aspose.cells/style/is_gradient/
 is_root: false
 ---
-##  is_gradient الملكية
+##  is_gradient عقار
 
 يشير إلى ما إذا كان تظليل الخلية عبارة عن نمط متدرج.
 ###  تعريف:
@@ -21,5 +21,5 @@ def is_gradient(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

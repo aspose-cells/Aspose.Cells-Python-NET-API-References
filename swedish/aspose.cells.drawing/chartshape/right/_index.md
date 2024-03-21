@@ -3,7 +3,7 @@ title: right fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 860
+weight: 870
 url: /sv/aspose.cells.drawing/chartshape/right/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def right(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ChartShape](/cells/python-net/sv/aspose.cells.drawing/chartshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ChartShape`](/cells/python-net/sv/aspose.cells.drawing/chartshape)

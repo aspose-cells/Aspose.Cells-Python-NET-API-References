@@ -1,15 +1,15 @@
 ---
-title: check_compatibility الملكية
+title: check_compatibility عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 90
 url: /ar/aspose.cells/workbooksettings/check_compatibility/
 is_root: false
 ---
-##  check_compatibility الملكية
+##  check_compatibility عقار
 
-يشير إلى ما إذا كان التحقق من التوافق مع الإصدارات السابقة عند حفظ المصنف.
+يشير إلى ما إذا كان يجب التحقق من التوافق مع الإصدارات السابقة عند حفظ المصنف.
 
 ###  ملاحظات
 
@@ -26,5 +26,5 @@ def check_compatibility(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

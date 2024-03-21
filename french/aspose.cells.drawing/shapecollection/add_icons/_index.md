@@ -1,14 +1,14 @@
 ---
-title: add_icons méthode
+title: méthode add_icons
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 120
+weight: 130
 url: /fr/aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
-##  add_icons(upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
-Ajoute une image svg.
+##  add_icons {#int-int-int-int-int-int-bytes-bytes}
+Ajoute une image SVG.
 
 
 ###  Retour
@@ -24,31 +24,33 @@ def add_icons(self, upper_left_row, top, upper_left_column, left, height, width,
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| upper_left_row | int | Index de ligne en haut à gauche.|
+| upper_left_row | int | Index de la ligne supérieure gauche.|
 | top | int | Représente le décalage vertical de la forme par rapport à sa ligne de gauche, en unité de pixel.|
-| upper_left_column | int | Index de la colonne en haut à gauche.|
-| left | int | Décalage horizontal de la forme par rapport à sa colonne de gauche, en pixels.|
+| upper_left_column | int | Index de la colonne supérieure gauche.|
+| left | int | Le décalage horizontal de la forme par rapport à sa colonne de gauche, en unité de pixel.|
 | height | int | La hauteur de la forme, en unité de pixel.|
 | width | int | La largeur de la forme, en unité de pixel.|
 | image_byte_data | bytes | Les données d'octet d'image.|
-| compatible_image_data | bytes |Conversion des données d'image à partir de svg afin d'être compatible avec Excel 2016 ou versions antérieures.|
+| compatible_image_data | bytes | Données d'image converties à partir de SVG afin d'être compatibles avec Excel 2016 ou les versions inférieures.|
 
 ###  Exemple
 
 ```python
 from aspose import pycore
+import bytearray
+import int
 
 # add icon
 with open("icon.svg", "rb") as fs:
     len = pycore.cast(int, utils.filesize(fs))
     imageData = bytearray(len)
     fs.readinto(imageData)
-    picture = shapes.add_svg(4, 0, 5, 0, -1, -1, imageData, None)
+    picture = shapes.add_icons(4, 0, 5, 0, -1, -1, imageData, None)
 
 ```
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapeCollection](/cells/python-net/fr/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShapeCollection`](/cells/python-net/fr/aspose.cells.drawing/shapecollection)

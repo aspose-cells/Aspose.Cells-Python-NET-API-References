@@ -3,42 +3,42 @@ title: FontUnderlineType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2090
+weight: 2160
 url: /tr/aspose.cells/fontunderlinetype/
 is_root: false
 ---
 ##  FontUnderlineType numaralandırma
-Altı çizili yazı tiplerini numaralandırır.
+Yazı tipi alt çizgi türlerini numaralandırır.
 
 
 
-FontUnderlineType türü aşağıdaki üyeleri gösterir:
+FontUnderlineType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NONE | Alt çizgi olmadığını temsil eder.|
 | SINGLE | Tek alt çizgiyi temsil eder.|
 | DOUBLE | Çift alt çizgiyi temsil eder.|
-| ACCOUNTING | Tek muhasebe alt çizgisini temsil eder.|
-| DOUBLE_ACCOUNTING | Çift hesap alt çizgisini temsil eder.|
-| DASH | Kesikli Alt Çizgiyi Temsil Eder|
-| DASH_DOT_DOT_HEAVY | Kalın Tire-Nokta-Nokta Alt Çizgiyi Temsil Eder|
-| DASH_DOT_HEAVY | Kalın Çizgi-Nokta Alt Çizgiyi Temsil Eder|
-| DASHED_HEAVY | Kalın Kesik Alt Çizgiyi Temsil Eder|
-| DASH_LONG | Uzun Kesikli Alt Çizgiyi Temsil Eder|
-| DASH_LONG_HEAVY | Kalın Uzun Kesik Alt Çizgiyi Temsil Eder|
-| DOT_DASH | Dash-Nokta Alt Çizgiyi Temsil Eder|
-| DOT_DOT_DASH | Tire-Nokta-Nokta Alt Çizgisini Temsil Eder|
-| DOTTED |Noktalı Alt Çizgiyi Temsil Eder|
-| DOTTED_HEAVY | Kalın Noktalı Alt Çizgiyi Temsil Eder|
-| HEAVY | Kalın Alt Çizgiyi Temsil Eder|
-| WAVE | Wave Underline'ı Temsil Eder|
-| WAVY_DOUBLE | Çift Dalga Alt Çizgiyi Temsil Eder|
-| WAVY_HEAVY | Ağır Dalga Altı Çizgisini Temsil Eder|
-| WORDS | Yalnızca Altı Çizili Boşluk Olmayan Karakterleri Temsil Eder|
+| ACCOUNTING | Tek muhasebenin alt çizgisini temsil eder.|
+| DOUBLE_ACCOUNTING | Çift muhasebe alt çizgisini temsil eder.|
+| DASH | Kesikli Alt Çizgiyi temsil eder|
+| DASH_DOT_DOT_HEAVY | Kalın Çizgi-Nokta-Nokta Alt Çizgisini temsil eder|
+| DASH_DOT_HEAVY | Kalın Çizgi-Nokta Alt Çizgisini temsil eder|
+| DASHED_HEAVY | Kalın Kesikli Alt Çizgiyi temsil eder|
+| DASH_LONG | Uzun Kesikli Alt Çizgiyi temsil eder|
+| DASH_LONG_HEAVY | Kalın Uzun Kesikli Alt Çizgiyi temsil eder|
+| DOT_DASH | Çizgi-Nokta Altı Çizgisini temsil eder|
+| DOT_DOT_DASH |Çizgi-Nokta-Nokta Alt Çizgisini temsil eder|
+| DOTTED | Noktalı Alt Çizgiyi temsil eder|
+| DOTTED_HEAVY | Kalın Noktalı Alt Çizgiyi temsil eder|
+| HEAVY | Kalın Alt Çizgiyi temsil eder|
+| WAVE | Dalga Alt Çizgisini temsil eder|
+| WAVY_DOUBLE | Çift Dalgalı Alt Çizgiyi temsil eder|
+| WAVY_HEAVY | Ağır Dalga Alt Çizgisini temsil eder|
+| WORDS | Yalnızca Altı Çizili Boşluk Dışı Karakterleri Temsil eder|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

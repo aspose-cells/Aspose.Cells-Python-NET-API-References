@@ -1,9 +1,9 @@
 ---
 title: CellsFactory类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 230
 url: /zh/aspose.cells/cellsfactory/
 is_root: false
 ---
@@ -12,20 +12,20 @@ is_root: false
 
 
 
-CellsFactory 类型公开了以下成员：
+CellsFactory 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [CellsFactory()](/cells/python-net/zh/aspose.cells/cellsfactory/__init__/#) |构造 CellsFactory 的新实例|
+| [__init__](/cells/python-net/zh/aspose.cells/cellsfactory/__init__/#) |构造 CellsFactory 的新实例|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [create_style()](/cells/python-net/zh/aspose.cells/cellsfactory/create_style/#) |创建一个新的样式。|
+| [create_style](/cells/python-net/zh/aspose.cells/cellsfactory/create_style/#) |创造了新的风格。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

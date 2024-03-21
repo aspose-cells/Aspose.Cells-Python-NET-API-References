@@ -1,5 +1,5 @@
 ---
-title: CustomFilterCollection المنشئ
+title: CustomFilterCollection منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 10
 url: /ar/aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
-##  CustomFilterCollection() {#}
-بناء نسخة جديدة من CustomFilterCollection
+##  __فيه__ {#}
+يبني مثيل جديد.
 
 
 
@@ -22,5 +22,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CustomFilterCollection](/cells/python-net/ar/aspose.cells/customfiltercollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CustomFilterCollection`](/cells/python-net/ar/aspose.cells/customfiltercollection)

@@ -3,7 +3,7 @@ title: text_body Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 950
+weight: 960
 url: /de/aspose.cells.drawing/checkbox/text_body/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CheckBox](/cells/python-net/de/aspose.cells.drawing/checkbox)
-* Klasse [FontSettingCollection](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CheckBox`](/cells/python-net/de/aspose.cells.drawing/checkbox)
+* Klasse [`FontSettingCollection`](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)

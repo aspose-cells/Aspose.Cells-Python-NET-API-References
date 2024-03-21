@@ -1,9 +1,9 @@
 ---
 title: min_data_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1180
+weight: 1170
 url: /ru/aspose.cells/cells/min_data_row/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def min_data_row(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

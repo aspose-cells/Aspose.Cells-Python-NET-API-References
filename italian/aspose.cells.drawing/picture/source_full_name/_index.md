@@ -3,7 +3,7 @@ title: source_full_name proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /it/aspose.cells.drawing/picture/source_full_name/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Ottiene o imposta il percorso e il nome del file di origine per l'immagine colle
 
 Il valore predefinito è una stringa vuota.
 Se SourceFullName non è una stringa vuota, l'immagine è collegata.
-Se SourceFullName non è una stringa vuota, ma Data è null, l'immagine è collegata e non archiviata nel file.
+Se SourceFullName non è una stringa vuota, ma Data è null, l'immagine viene collegata e non archiviata nel file.
 ###  Definizione:
 ```python
 @property
@@ -27,5 +27,5 @@ def source_full_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

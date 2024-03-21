@@ -3,7 +3,7 @@ title: standard_font_size proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 250
+weight: 270
 url: /it/aspose.cells/odsloadoptions/standard_font_size/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Imposta la dimensione del carattere standard predefinita.
 ###  Osservazioni
 
 NOTA: questo membro è ora obsoleto. Utilizzare invece DefaultStyleSettings.
- Questa proprietà verrà rimossa 12 mesi dopo da marzo 2022.
-Aspose si scusa per gli eventuali disagi causati.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da marzo 2022.
+Aspose si scusa per eventuali disagi riscontrati.
 ###  Definizione:
 ```python
 @property
@@ -27,5 +27,5 @@ def standard_font_size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [OdsLoadOptions](/cells/python-net/it/aspose.cells/odsloadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`OdsLoadOptions`](/cells/python-net/it/aspose.cells/odsloadoptions)

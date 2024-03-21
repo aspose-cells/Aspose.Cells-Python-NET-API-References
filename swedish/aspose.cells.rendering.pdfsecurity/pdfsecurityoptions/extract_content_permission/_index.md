@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  extract_content_permission fastighet
 
-Tillstånd att kopiera eller extrahera innehåll.
+ Anger om man vill tillåta kopiering eller på annat sätt extrahera text och grafik från dokumentet
+av annan verksamhet än den som kontrolleras av [`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content).
 ###  Definition:
 ```python
 @property
@@ -21,5 +22,5 @@ def extract_content_permission(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering.pdfsecurity](../../)
-* klass [PdfSecurityOptions](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modul [`aspose.cells.rendering.pdfsecurity`](../../)
+* klass [`PdfSecurityOptions`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

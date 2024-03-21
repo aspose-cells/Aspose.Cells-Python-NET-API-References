@@ -3,7 +3,7 @@ title: worksheet proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 120
+weight: 130
 url: /it/aspose.cells/calculationdata/worksheet/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def worksheet(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CalculationData](/cells/python-net/it/aspose.cells/calculationdata)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`CalculationData`](/cells/python-net/it/aspose.cells/calculationdata)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

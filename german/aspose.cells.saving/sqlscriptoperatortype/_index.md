@@ -3,12 +3,12 @@ title: SqlScriptOperatorType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 30
+weight: 40
 url: /de/aspose.cells.saving/sqlscriptoperatortype/
 is_root: false
 ---
 ##  SqlScriptOperatorType Aufzählung
-Repräsentiert die Art der Betriebsdaten.
+Stellt die Art der Betriebsdaten dar.
 
 
 
@@ -24,4 +24,4 @@ Der Typ SqlScriptOperatorType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.saving](..)
+* Modul [`aspose.cells.saving`](..)

@@ -3,7 +3,7 @@ title: upper_left_row proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /it/aspose.cells.drawing/smartartshape/upper_left_row/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Rappresenta l'indice della riga nell'angolo superiore sinistro.
 
 ###  Osservazioni
 
-Se la forma è nella forma o nel gruppo , UpperLeftRow verrà ignorato.
+Se la forma è nella forma o nel gruppo, UpperLeftRow verrà ignorato.
 
 ###  Esempio
 
@@ -34,5 +34,5 @@ def upper_left_row(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [SmartArtShape](/cells/python-net/it/aspose.cells.drawing/smartartshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`SmartArtShape`](/cells/python-net/it/aspose.cells.drawing/smartartshape)

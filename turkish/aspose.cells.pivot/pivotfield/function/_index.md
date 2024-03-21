@@ -3,7 +3,7 @@ title: function mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 330
 url: /tr/aspose.cells.pivot/pivotfield/function/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def function(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [ConsolidationFunction](/cells/python-net/tr/aspose.cells/consolidationfunction)
-* sınıf [PivotField](/cells/python-net/tr/aspose.cells.pivot/pivotfield)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`ConsolidationFunction`](/cells/python-net/tr/aspose.cells/consolidationfunction)
+* sınıf [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield)

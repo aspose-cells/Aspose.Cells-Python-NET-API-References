@@ -1,14 +1,14 @@
 ---
-title: metodo merge
+title: Metodo merge
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 130
+weight: 150
 url: /it/aspose.cells/range/merge/
 is_root: false
 ---
-##  merge() {#}
-Combina un intervallo di celle in una singola cella.
+##  merge {#}
+Combina un intervallo di celle in un'unica cella.
 
 
 
@@ -25,5 +25,5 @@ Fai riferimento alla cella unita tramite l'indirizzo della cella in alto a sinis
 
 ###  Guarda anche
 
-* modulo [aspose.cells](../../)
-* classe [Range](/cells/python-net/it/aspose.cells/range)
+* modulo [`aspose.cells`](../../)
+* classe [`Range`](/cells/python-net/it/aspose.cells/range)

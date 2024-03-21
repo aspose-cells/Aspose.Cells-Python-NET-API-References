@@ -3,7 +3,7 @@ title: text_options fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1030
+weight: 1040
 url: /sv/aspose.cells.drawing/combobox/text_options/
 is_root: false
 ---
@@ -32,6 +32,6 @@ def text_options(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ComboBox](/cells/python-net/sv/aspose.cells.drawing/combobox)
-* klass [TextOptions](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ComboBox`](/cells/python-net/sv/aspose.cells.drawing/combobox)
+* klass [`TextOptions`](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)

@@ -1,19 +1,19 @@
 ---
-title: metodo get_standard_built_in_name
+title: Metodo get_standard_built_in_name
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 180
+weight: 190
 url: /it/aspose.cells/globalizationsettings/get_standard_built_in_name/
 is_root: false
 ---
-##  get_standard_built_in_name(local_name) {#str}
-Ottiene il testo standard del nome predefinito in base al testo dipendente dalle impostazioni locali specificato.
+##  get_standard_built_in_name {#str}
+Ottiene il testo standard del Nome incorporato in base al testo dipendente dalla locale specificata.
 
 
 ###  ritorna
 
-Testo standard (en-US locale).
+Testo standard (locale en-US).
 
 
 ```python
@@ -24,10 +24,10 @@ def get_standard_built_in_name(self, local_name):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| local_name | str | Testo dipendente dalla locale del nome incorporato. Le impostazioni locali sono state specificate dalla cartella di lavoro per cui vengono utilizzate queste impostazioni.|
+| local_name | str | Testo dipendente dalla lingua del nome integrato. Le impostazioni locali sono state specificate dalla cartella di lavoro per la quale vengono utilizzate queste impostazioni.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [GlobalizationSettings](/cells/python-net/it/aspose.cells/globalizationsettings)
+* modulo [`aspose.cells`](../../)
+* classe [`GlobalizationSettings`](/cells/python-net/it/aspose.cells/globalizationsettings)

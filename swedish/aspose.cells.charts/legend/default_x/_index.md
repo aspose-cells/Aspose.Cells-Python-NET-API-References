@@ -3,7 +3,7 @@ title: default_x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 130
 url: /sv/aspose.cells.charts/legend/default_x/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def default_x(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Legend](/cells/python-net/sv/aspose.cells.charts/legend)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Legend`](/cells/python-net/sv/aspose.cells.charts/legend)

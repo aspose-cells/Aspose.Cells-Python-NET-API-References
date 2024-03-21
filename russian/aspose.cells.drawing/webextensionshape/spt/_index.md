@@ -1,15 +1,15 @@
 ---
 title: spt недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 900
+weight: 910
 url: /ru/aspose.cells.drawing/webextensionshape/spt/
 is_root: false
 ---
 ##  spt недвижимость
 
-Указывает необязательный номер, который приложение может использовать для связывания конкретной фигуры с определенным типом фигуры.
+Указывает необязательный номер, который приложение может использовать для связи конкретной фигуры с определенным типом фигуры.
 
 ###  Пример
 
@@ -26,5 +26,5 @@ def spt(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [WebExtensionShape](/cells/python-net/ru/aspose.cells.drawing/webextensionshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`WebExtensionShape`](/cells/python-net/ru/aspose.cells.drawing/webextensionshape)

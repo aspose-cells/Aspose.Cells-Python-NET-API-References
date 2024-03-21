@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  owner_password Eigentum
 
-Ruft das Besitzerkennwort des Dokuments ab oder legt es fest
+Ruft das Besitzerkennwort für das verschlüsselte Dokument PDF ab oder legt es fest.
+
+###  Bemerkungen
+
+Mit dem Besitzerkennwort kann der Benutzer ein verschlüsseltes PDF-Dokument ohne Angabe von Zugriffsbeschränkungen öffnen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +25,5 @@ def owner_password(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering.pdfsecurity](../../)
-* Klasse [PdfSecurityOptions](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* Modul [`aspose.cells.rendering.pdfsecurity`](../../)
+* Klasse [`PdfSecurityOptions`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

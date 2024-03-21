@@ -3,7 +3,7 @@ title: begin_arrowhead_width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 330
 url: /sv/aspose.cells.drawing/lineshape/begin_arrowhead_width/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def begin_arrowhead_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineShape](/cells/python-net/sv/aspose.cells.drawing/lineshape)
-* klass [MsoArrowheadWidth](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineShape`](/cells/python-net/sv/aspose.cells.drawing/lineshape)
+* klass [`MsoArrowheadWidth`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)

@@ -3,12 +3,12 @@ title: set_linked_cell yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 200
 url: /tr/aspose.cells.drawing/groupbox/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell(formula, is_r1c1, is_local) {#str-bool-bool}
-Kontrolün değerine bağlı aralığı ayarlar.
+##  set_linked_cell {#str-bool-bool}
+Denetimin değerine bağlı aralığı ayarlar.
 
 
 
@@ -20,9 +20,9 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| formula | str | Kontrolün değerine bağlı aralık.|
+| formula | str | Denetimin değerine bağlı aralık.|
 | is_r1c1 | bool | Formülün R1C1 olarak biçimlendirilmesi gerekip gerekmediği.|
-| is_local | bool | Formülün yerel ayarlara göre biçimlendirilmesi gerekip gerekmediği.|
+| is_local | bool | Formülün yerel ayara göre biçimlendirilmesi gerekip gerekmediği.|
 
 ###  Örnek
 
@@ -41,5 +41,5 @@ scrollBar.set_linked_cell("$A$12", False, True)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GroupBox](/cells/python-net/tr/aspose.cells.drawing/groupbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GroupBox`](/cells/python-net/tr/aspose.cells.drawing/groupbox)

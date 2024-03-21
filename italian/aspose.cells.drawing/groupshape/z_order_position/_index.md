@@ -3,7 +3,7 @@ title: z_order_position proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1260
+weight: 1270
 url: /it/aspose.cells.drawing/groupshape/z_order_position/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def z_order_position(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GroupShape](/cells/python-net/it/aspose.cells.drawing/groupshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/it/aspose.cells.drawing/groupshape)

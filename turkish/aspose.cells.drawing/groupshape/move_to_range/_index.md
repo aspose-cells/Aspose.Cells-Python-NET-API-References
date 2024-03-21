@@ -3,12 +3,12 @@ title: move_to_range yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 170
 url: /tr/aspose.cells.drawing/groupshape/move_to_range/
 is_root: false
 ---
-##  move_to_range(upper_left_row, upper_left_column, lower_right_row, lower_right_column) {#int-int-int-int}
-Şekli belirtilen bir aralığa taşır.
+##  move_to_range {#int-int-int-int}
+Şekli belirtilen aralığa taşır.
 
 
 
@@ -20,9 +20,9 @@ def move_to_range(self, upper_left_row, upper_left_column, lower_right_row, lowe
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| upper_left_row | int | Sol üst sıra dizini.|
+| upper_left_row | int | Sol üst satır dizini.|
 | upper_left_column | int | Sol üst sütun dizini.|
-| lower_right_row | int | Sağ alt sıra dizini|
+| lower_right_row | int | Sağ alt satır dizini|
 | lower_right_column | int | Sağ alt sütun dizini|
 
 ###  Örnek
@@ -36,5 +36,5 @@ shape.move_to_range(12, 3, 13, 5)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GroupShape](/cells/python-net/tr/aspose.cells.drawing/groupshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GroupShape`](/cells/python-net/tr/aspose.cells.drawing/groupshape)

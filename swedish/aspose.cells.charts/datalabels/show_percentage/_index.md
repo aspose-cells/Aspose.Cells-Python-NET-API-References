@@ -3,7 +3,7 @@ title: show_percentage fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 430
+weight: 420
 url: /sv/aspose.cells.charts/datalabels/show_percentage/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_percentage(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DataLabels](/cells/python-net/sv/aspose.cells.charts/datalabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DataLabels`](/cells/python-net/sv/aspose.cells.charts/datalabels)

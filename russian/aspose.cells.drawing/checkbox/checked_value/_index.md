@@ -1,9 +1,9 @@
 ---
 title: checked_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 310
+weight: 330
 url: /ru/aspose.cells.drawing/checkbox/checked_value/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def checked_value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CheckBox](/cells/python-net/ru/aspose.cells.drawing/checkbox)
-* класс [CheckValueType](/cells/python-net/ru/aspose.cells.drawing/checkvaluetype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CheckBox`](/cells/python-net/ru/aspose.cells.drawing/checkbox)
+* класс [`CheckValueType`](/cells/python-net/ru/aspose.cells.drawing/checkvaluetype)

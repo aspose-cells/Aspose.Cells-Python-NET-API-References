@@ -3,7 +3,7 @@ title: ignore_error propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 140
 url: /es/aspose.cells/paginatedsaveoptions/ignore_error/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def ignore_error(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PaginatedSaveOptions](/cells/python-net/es/aspose.cells/paginatedsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PaginatedSaveOptions`](/cells/python-net/es/aspose.cells/paginatedsaveoptions)

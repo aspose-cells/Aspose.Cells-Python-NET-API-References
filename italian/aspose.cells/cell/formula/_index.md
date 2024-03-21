@@ -3,18 +3,18 @@ title: formula proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 460
+weight: 490
 url: /it/aspose.cells/cell/formula/
 is_root: false
 ---
 ##  formula proprietà
 
-Ottiene o imposta formula di [Cell](/cells/python-net/it/aspose.cells/cell).
+Ottiene o imposta formula tra [`Cell`](/cells/python-net/it/aspose.cells/cell).
 
 ###  Osservazioni
 
  Una stringa formula inizia sempre con un segno uguale (=).
-E per favore usa sempre la virgola (,) come delimitatore di parametri, come "=SUM(A1, E1, H2)".
+E per favore usa sempre la virgola(,) come delimitatore dei parametri, come "=SUM(A1, E1, H2)".
 
 ###  Esempio
 
@@ -37,5 +37,5 @@ def formula(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

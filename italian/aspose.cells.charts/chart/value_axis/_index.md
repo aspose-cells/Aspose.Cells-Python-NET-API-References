@@ -3,7 +3,7 @@ title: value_axis proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 620
+weight: 650
 url: /it/aspose.cells.charts/chart/value_axis/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def value_axis(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/it/aspose.cells.charts/axis)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/it/aspose.cells.charts/axis)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)

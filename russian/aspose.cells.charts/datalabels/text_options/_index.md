@@ -1,9 +1,9 @@
 ---
 title: text_options недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 500
+weight: 490
 url: /ru/aspose.cells.charts/datalabels/text_options/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def text_options(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [DataLabels](/cells/python-net/ru/aspose.cells.charts/datalabels)
-* класс [TextOptions](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`DataLabels`](/cells/python-net/ru/aspose.cells.charts/datalabels)
+* класс [`TextOptions`](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)

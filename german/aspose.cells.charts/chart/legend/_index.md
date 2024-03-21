@@ -3,7 +3,7 @@ title: legend Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 330
+weight: 360
 url: /de/aspose.cells.charts/chart/legend/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def legend(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Chart](/cells/python-net/de/aspose.cells.charts/chart)
-* Klasse [Legend](/cells/python-net/de/aspose.cells.charts/legend)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Chart`](/cells/python-net/de/aspose.cells.charts/chart)
+* Klasse [`Legend`](/cells/python-net/de/aspose.cells.charts/legend)

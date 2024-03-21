@@ -3,7 +3,7 @@ title: export_workbook_properties fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 370
 url: /sv/aspose.cells/htmlsaveoptions/export_workbook_properties/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def export_workbook_properties(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

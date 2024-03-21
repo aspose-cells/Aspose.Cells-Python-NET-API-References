@@ -3,7 +3,7 @@ title: data fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 390
 url: /sv/aspose.cells.drawing/picture/data/
 is_root: false
 ---
@@ -44,5 +44,5 @@ def data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Picture](/cells/python-net/sv/aspose.cells.drawing/picture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture)

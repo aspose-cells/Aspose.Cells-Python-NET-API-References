@@ -3,7 +3,7 @@ title: number_format_linked fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 120
 url: /sv/aspose.cells.charts/ticklabels/number_format_linked/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def number_format_linked(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [TickLabels](/cells/python-net/sv/aspose.cells.charts/ticklabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`TickLabels`](/cells/python-net/sv/aspose.cells.charts/ticklabels)

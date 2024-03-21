@@ -1,17 +1,17 @@
 ---
 title: row_index_to_name метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ru/aspose.cells/cellshelper/row_index_to_name/
 is_root: false
 ---
-##  row_index_to_name(row) {#int}
+##  row_index_to_name {#int}
 Получает имя строки в соответствии с индексом строки.
 
 
-###  Возвращает
+###  Возврат
 
 Имя строки.
 
@@ -29,5 +29,5 @@ def row_index_to_name(self, row):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsHelper](/cells/python-net/ru/aspose.cells/cellshelper)
+* модуль [`aspose.cells`](../../)
+* класс [`CellsHelper`](/cells/python-net/ru/aspose.cells/cellshelper)

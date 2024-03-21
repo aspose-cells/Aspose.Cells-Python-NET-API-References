@@ -3,15 +3,15 @@ title: check_mixed_value_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 30
+weight: 50
 url: /tr/aspose.cells/exporttableoptions/check_mixed_value_type/
 is_root: false
 ---
 ##  check_mixed_value_type mülk
 
-Yanlış, Aspose.Cells, DataColumn'un türünü performans için ilk satırın değer türüne göre ayarlar.
- Doğru, Aspose.Cells, DataColumn'un türünü ayarlamadan önce sütundaki değer türünün karıştırılıp karıştırılmadığını kontrol edecek
-Ve değer tipi karışıktır, DataColumn'un tipi string olacaktır.
+Yanlış, Aspose.Cells, performans için DataColumn'un türünü ilk satırın değer türüne göre ayarlayacaktır.
+ Doğru, Aspose.Cells, DataColumn'un türünü ayarlamadan önce sütundaki değer türünün karıştırılıp karıştırılmadığını kontrol edecektir.
+Ve değer türü karışıktır, DataColumn'un türü string olacaktır.
 ###  Tanım:
 ```python
 @property
@@ -23,5 +23,5 @@ def check_mixed_value_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExportTableOptions](/cells/python-net/tr/aspose.cells/exporttableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ExportTableOptions`](/cells/python-net/tr/aspose.cells/exporttableoptions)

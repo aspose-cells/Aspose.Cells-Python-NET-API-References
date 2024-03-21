@@ -3,7 +3,7 @@ title: export_as_html_string fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 40
+weight: 60
 url: /sv/aspose.cells/exporttableoptions/export_as_html_string/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def export_as_html_string(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExportTableOptions](/cells/python-net/sv/aspose.cells/exporttableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ExportTableOptions`](/cells/python-net/sv/aspose.cells/exporttableoptions)

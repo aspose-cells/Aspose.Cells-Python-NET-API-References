@@ -1,15 +1,15 @@
 ---
-title: height 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: height属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 430
+weight: 440
 url: /zh/aspose.cells.drawing/scrollbar/height/
 is_root: false
 ---
-## height 属性
+## height属性
 
-代表形状的height，单位为像素。
+代表形状的height，以像素为单位。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def height(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ScrollBar](/cells/python-net/zh/aspose.cells.drawing/scrollbar)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ScrollBar`](/cells/python-net/zh/aspose.cells.drawing/scrollbar)

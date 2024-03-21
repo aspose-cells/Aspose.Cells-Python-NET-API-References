@@ -3,12 +3,12 @@ title: طريقة get_grand_total_name
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells/globalizationsettings/get_grand_total_name/
 is_root: false
 ---
-##  get_grand_total_name(function_type) {#ConsolidationFunction}
-يحصل على الاسم الإجمالي الكلي للوظيفة.
+##  get_grand_total_name {#aspose.cells.ConsolidationFunction}
+الحصول على الاسم الإجمالي الكلي للوظيفة.
 
 
 ###  عائدات
@@ -24,10 +24,10 @@ def get_grand_total_name(self, function_type):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| function_type | [ConsolidationFunction](/cells/python-net/ar/aspose.cells/consolidationfunction) | نوع الوظيفة.|
+| function_type | [`ConsolidationFunction`](/cells/python-net/ar/aspose.cells/consolidationfunction) | نوع الوظيفة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GlobalizationSettings](/cells/python-net/ar/aspose.cells/globalizationsettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GlobalizationSettings`](/cells/python-net/ar/aspose.cells/globalizationsettings)

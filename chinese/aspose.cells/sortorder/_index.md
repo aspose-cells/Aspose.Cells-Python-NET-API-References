@@ -1,9 +1,9 @@
 ---
 title: SortOrder枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2490
+weight: 2580
 url: /zh/aspose.cells/sortorder/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-SortOrder 类型公开了以下成员：
+SortOrder 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -23,4 +23,4 @@ SortOrder 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

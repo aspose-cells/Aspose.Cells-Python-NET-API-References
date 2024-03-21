@@ -1,15 +1,15 @@
 ---
-title: is_printable الملكية
+title: is_printable عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 670
+weight: 680
 url: /ar/aspose.cells.drawing/arcshape/is_printable/
 is_root: false
 ---
-##  is_printable الملكية
+##  is_printable عقار
 
-صحيح إذا كان الكائن قابل للطباعة
+صحيح إذا كان الكائن قابلاً للطباعة
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ArcShape](/cells/python-net/ar/aspose.cells.drawing/arcshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ArcShape`](/cells/python-net/ar/aspose.cells.drawing/arcshape)

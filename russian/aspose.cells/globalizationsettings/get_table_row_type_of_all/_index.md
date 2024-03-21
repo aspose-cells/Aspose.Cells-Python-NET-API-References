@@ -1,18 +1,18 @@
 ---
 title: get_table_row_type_of_all метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ru/aspose.cells/globalizationsettings/get_table_row_type_of_all/
 is_root: false
 ---
-##  get_table_row_type_of_all() {#}
-Получает имя типа строк таблицы, состоящее из всех строк в таблице, на которую ссылаются.
-По умолчанию используется значение «Все», поэтому в формуле «#Все» представляют все строки в ссылочной таблице.
+##  get_table_row_type_of_all {#}
+Получает имя типа строк таблицы, состоящее из всех строк в указанной таблице.
+По умолчанию установлено значение «Все», поэтому в формуле «#Все» представляет все строки в указанной таблице.
 
 
-###  Возвращает
+###  Возврат
 
 имя типа строк таблицы
 
@@ -27,5 +27,5 @@ def get_table_row_type_of_all(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GlobalizationSettings](/cells/python-net/ru/aspose.cells/globalizationsettings)
+* модуль [`aspose.cells`](../../)
+* класс [`GlobalizationSettings`](/cells/python-net/ru/aspose.cells/globalizationsettings)

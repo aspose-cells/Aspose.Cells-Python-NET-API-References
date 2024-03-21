@@ -3,7 +3,7 @@ title: AxisType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 360
+weight: 370
 url: /es/aspose.cells.charts/axistype/
 is_root: false
 ---
@@ -17,11 +17,11 @@ El tipo AxisType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| CATEGORY | Eje de categoría|
+| CATEGORY | Eje de categorías|
 | VALUE | Eje de valor|
 | SERIES | Eje serie|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

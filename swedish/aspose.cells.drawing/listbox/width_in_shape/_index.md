@@ -3,7 +3,7 @@ title: width_in_shape fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1250
+weight: 1260
 url: /sv/aspose.cells.drawing/listbox/width_in_shape/
 is_root: false
 ---
@@ -19,8 +19,8 @@ Gäller endast när denna form i gruppen eller diagrammet.
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.width_in_shape == 2000:
+    shape.width_in_shape = 4000
 
 ```
 ###  Definition:
@@ -34,5 +34,5 @@ def width_in_shape(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ListBox](/cells/python-net/sv/aspose.cells.drawing/listbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ListBox`](/cells/python-net/sv/aspose.cells.drawing/listbox)

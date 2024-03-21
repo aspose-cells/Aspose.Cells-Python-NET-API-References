@@ -3,7 +3,7 @@ title: TickMarkType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 650
+weight: 660
 url: /de/aspose.cells.charts/tickmarktype/
 is_root: false
 ---
@@ -17,12 +17,12 @@ Der Typ TickMarkType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| CROSS | Der Typ des Häkchens ist Kreuz.|
-| INSIDE | Der Typ des Häkchens ist Innen.|
-| NONE |Typ des Häkchens ist „Keine“.|
-| OUTSIDE | Der Teilstrichtyp ist Außerhalb|
+| CROSS | Der Markierungstyp ist Kreuz.|
+| INSIDE | Der Häkchentyp ist „Innen“.|
+| NONE | Der Markierungstyp ist „Keine“.|
+| OUTSIDE | Der Markierungstyp ist „Außen“.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

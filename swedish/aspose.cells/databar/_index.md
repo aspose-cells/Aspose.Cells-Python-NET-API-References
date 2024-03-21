@@ -3,7 +3,7 @@ title: DataBar klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 420
 url: /sv/aspose.cells/databar/
 is_root: false
 ---
@@ -36,7 +36,7 @@ Typen DataBar avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [to_image(cell, img_opts)](/cells/python-net/sv/aspose.cells/databar/to_image/#Cell-aspose.cells.rendering.ImageOrPrintOptions) | Rendera datafältet i cell till bildbyte-array.|
+| [to_image](/cells/python-net/sv/aspose.cells/databar/to_image/#aspose.cells.Cell-aspose.cells.rendering.ImageOrPrintOptions) | Rendera datafält i cell till bildbyte-array.|
 
 
 
@@ -92,4 +92,4 @@ workbook.save("book1.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

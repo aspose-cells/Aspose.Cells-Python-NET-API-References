@@ -3,13 +3,13 @@ title: count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1030
+weight: 1020
 url: /tr/aspose.cells/cells/count/
 is_root: false
 ---
 ##  count mülk
 
-Başlatılan Cell nesnenin toplam count'ini alır.
+Örneklenen Cell nesnenin toplam count'ini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

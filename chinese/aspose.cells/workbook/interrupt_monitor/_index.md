@@ -1,13 +1,13 @@
 ---
-title: interrupt_monitor 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: interrupt_monitor属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 590
+weight: 600
 url: /zh/aspose.cells/workbook/interrupt_monitor/
 is_root: false
 ---
-## interrupt_monitor 属性
+## interrupt_monitor属性
 
 获取和设置中断监视器。
 ### 定义：
@@ -21,6 +21,6 @@ def interrupt_monitor(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [AbstractInterruptMonitor](/cells/python-net/zh/aspose.cells/abstractinterruptmonitor)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
+* 模块[`aspose.cells`](../../)
+* 类 [`AbstractInterruptMonitor`](/cells/python-net/zh/aspose.cells/abstractinterruptmonitor)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)

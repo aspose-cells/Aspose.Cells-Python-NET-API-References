@@ -1,29 +1,29 @@
 ---
-title: AutoFillType enumerazione
+title: Enumerazione AutoFillType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1750
+weight: 1820
 url: /it/aspose.cells/autofilltype/
 is_root: false
 ---
-##  AutoFillType enumerazione
+##  Enumerazione AutoFillType
 Rappresenta il tipo di riempimento automatico.
 
 
 
-Il tipo AutoFillType espone i membri seguenti:
+Il tipo AutoFillType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | COPY | Copia il valore e il formato dell'area di origine nell'area di destinazione|
 | DEFAULT | Riempie automaticamente l'area di destinazione con il valore e il formato.|
-| FORMATS | Copia solo il formato dell'area di origine nell'area di destinazione,|
-| SERIES |Estendere il valore nell'area di origine all'area di destinazione sotto forma di una serie e copiare il formato nell'area di destinazione.|
+| FORMATS |Copia solo il formato dell'area di origine nell'area di destinazione,|
+| SERIES | Estendere il valore dall'area di origine all'area di destinazione sotto forma di serie e copiare il formato nell'area di destinazione.|
 | VALUES | Copia solo il valore dell'area di origine nell'area di destinazione,|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

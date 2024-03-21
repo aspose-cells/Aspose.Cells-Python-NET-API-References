@@ -3,7 +3,7 @@ title: clear_data proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 80
+weight: 90
 url: /it/aspose.cells/htmlsaveoptions/clear_data/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def clear_data(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/it/aspose.cells/htmlsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/it/aspose.cells/htmlsaveoptions)

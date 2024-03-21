@@ -1,16 +1,16 @@
 ---
-title: class_identifier الملكية
+title: class_identifier عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 360
 url: /ar/aspose.cells.drawing/oleobject/class_identifier/
 is_root: false
 ---
-##  class_identifier الملكية
+##  class_identifier عقار
 
  الحصول على معرف فئة الكائن المضمن وتعيينه.
-هذا يعني التطبيق الذي يفتح الملف المضمن.
+وهذا يعني التطبيق الذي يفتح الملف المضمن.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def class_identifier(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

@@ -3,13 +3,13 @@ title: background_mode Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 80
+weight: 90
 url: /de/aspose.cells.charts/legend/background_mode/
 is_root: false
 ---
 ##  background_mode Eigentum
 
-Ruft den Anzeigemodus des Hintergrunds ab und legt ihn fest
+Ruft den Anzeigemodus des Hintergrunds ab und legt diesen fest
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_mode(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [BackgroundMode](/cells/python-net/de/aspose.cells.charts/backgroundmode)
-* Klasse [Legend](/cells/python-net/de/aspose.cells.charts/legend)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`BackgroundMode`](/cells/python-net/de/aspose.cells.charts/backgroundmode)
+* Klasse [`Legend`](/cells/python-net/de/aspose.cells.charts/legend)

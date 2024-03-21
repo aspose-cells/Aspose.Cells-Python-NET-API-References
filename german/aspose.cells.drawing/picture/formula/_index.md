@@ -3,13 +3,13 @@ title: formula Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 440
+weight: 450
 url: /de/aspose.cells.drawing/picture/formula/
 is_root: false
 ---
 ##  formula Eigentum
 
-Ruft die Daten der formula ab und setzt sie.
+Ruft die Daten von formula ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def formula(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Picture](/cells/python-net/de/aspose.cells.drawing/picture)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Picture`](/cells/python-net/de/aspose.cells.drawing/picture)

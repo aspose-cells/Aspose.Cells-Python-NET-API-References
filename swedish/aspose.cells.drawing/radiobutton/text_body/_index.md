@@ -3,7 +3,7 @@ title: text_body fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 950
+weight: 970
 url: /sv/aspose.cells.drawing/radiobutton/text_body/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FontSettingCollection](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
-* klass [RadioButton](/cells/python-net/sv/aspose.cells.drawing/radiobutton)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FontSettingCollection`](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
+* klass [`RadioButton`](/cells/python-net/sv/aspose.cells.drawing/radiobutton)

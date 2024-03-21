@@ -1,15 +1,15 @@
 ---
-title: left_to_corner الملكية
+title: left_to_corner عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 700
+weight: 710
 url: /ar/aspose.cells.drawing/label/left_to_corner/
 is_root: false
 ---
-##  left_to_corner الملكية
+##  left_to_corner عقار
 
-الحصول على الإزاحة الأفقية للشكل من الحد الأيسر لورقة العمل وتعيينها.
+الحصول على الإزاحة الأفقية للشكل وتعيينها من الحد الأيسر لورقة العمل.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def left_to_corner(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Label](/cells/python-net/ar/aspose.cells.drawing/label)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Label`](/cells/python-net/ar/aspose.cells.drawing/label)

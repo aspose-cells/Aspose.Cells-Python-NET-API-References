@@ -1,18 +1,18 @@
 ---
-title: DataLablesSeparatorType enumerazione
+title: Enumerazione DataLablesSeparatorType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 480
+weight: 490
 url: /it/aspose.cells.charts/datalablesseparatortype/
 is_root: false
 ---
-##  DataLablesSeparatorType enumerazione
-Rappresenta il tipo separatore di DataLabels.
+##  Enumerazione DataLablesSeparatorType
+Rappresenta il tipo di separatore di DataLabels.
 
 
 
-Il tipo DataLablesSeparatorType espone i membri seguenti:
+Il tipo DataLablesSeparatorType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -21,8 +21,8 @@ Il tipo DataLablesSeparatorType espone i membri seguenti:
 | SPACE | Rappresenta lo spazio(" ")|
 | COMMA | Rappresenta la virgola(",")|
 | SEMICOLON | Rappresenta il punto e virgola(";")|
-| PERIOD |Rappresenta il punto(".")|
-| NEW_LINE | Rappresenta la nuova riga ("\n")|
+| PERIOD | Rappresenta il punto(".")|
+| NEW_LINE | Rappresenta nuova riga("\n")|
 | CUSTOM | Rappresenta il separatore personalizzato|
 
 
@@ -30,9 +30,9 @@ Il tipo DataLablesSeparatorType espone i membri seguenti:
 ###  Osservazioni
 
  NOTA: questo membro è ora obsoleto. Invece,
-utilizzare l'enumerazione DataLabelsSeparatorType.
- Questa proprietà verrà rimossa 12 mesi dopo da settembre 2020.
-Aspose si scusa per gli eventuali disagi causati.
+si prega di utilizzare l'enumerazione DataLabelsSeparatorType.
+ Questa proprietà verrà rimossa 12 mesi dopo a partire da settembre 2020.
+Aspose si scusa per eventuali disagi riscontrati.
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
+* modulo [`aspose.cells.charts`](..)

@@ -1,13 +1,13 @@
 ---
-title: text_body الملكية
+title: text_body عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 940
+weight: 950
 url: /ar/aspose.cells.drawing/groupshape/text_body/
 is_root: false
 ---
-##  text_body الملكية
+##  text_body عقار
 
 الحصول على إعداد نص الشكل وتعيينه.
 
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [FontSettingCollection](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection)
-* فئة [GroupShape](/cells/python-net/ar/aspose.cells.drawing/groupshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`FontSettingCollection`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection)
+* فئة [`GroupShape`](/cells/python-net/ar/aspose.cells.drawing/groupshape)

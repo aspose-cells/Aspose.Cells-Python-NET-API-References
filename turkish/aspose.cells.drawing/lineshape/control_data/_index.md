@@ -3,7 +3,7 @@ title: control_data mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 360
 url: /tr/aspose.cells.drawing/lineshape/control_data/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def control_data(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineShape](/cells/python-net/tr/aspose.cells.drawing/lineshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineShape`](/cells/python-net/tr/aspose.cells.drawing/lineshape)

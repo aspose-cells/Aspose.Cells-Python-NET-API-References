@@ -3,13 +3,13 @@ title: is_filled mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 530
+weight: 550
 url: /tr/aspose.cells.drawing/textbox/is_filled/
 is_root: false
 ---
 ##  is_filled mülk
 
-Dolgu formatının görünür olup olmadığını gösterir.
+Doldurma biçiminin görünür olup olmadığını belirtir.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def is_filled(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextBox](/cells/python-net/tr/aspose.cells.drawing/textbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextBox`](/cells/python-net/tr/aspose.cells.drawing/textbox)

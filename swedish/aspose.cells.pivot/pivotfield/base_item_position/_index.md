@@ -3,7 +3,7 @@ title: base_item_position fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 240
 url: /sv/aspose.cells.pivot/pivotfield/base_item_position/
 is_root: false
 ---
@@ -24,6 +24,6 @@ def base_item_position(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotField](/cells/python-net/sv/aspose.cells.pivot/pivotfield)
-* klass [PivotItemPosition](/cells/python-net/sv/aspose.cells.pivot/pivotitemposition)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield)
+* klass [`PivotItemPosition`](/cells/python-net/sv/aspose.cells.pivot/pivotitemposition)

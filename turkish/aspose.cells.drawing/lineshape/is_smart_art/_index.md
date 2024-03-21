@@ -3,13 +3,13 @@ title: is_smart_art mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 690
+weight: 700
 url: /tr/aspose.cells.drawing/lineshape/is_smart_art/
 is_root: false
 ---
 ##  is_smart_art mülk
 
-Şeklin akıllı sanat olup olmadığını gösterir.
+Şeklin akıllı sanat olup olmadığını belirtir.
 
 ###  Notlar
 
@@ -32,5 +32,5 @@ def is_smart_art(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineShape](/cells/python-net/tr/aspose.cells.drawing/lineshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineShape`](/cells/python-net/tr/aspose.cells.drawing/lineshape)

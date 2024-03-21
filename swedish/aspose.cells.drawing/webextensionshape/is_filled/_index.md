@@ -3,7 +3,7 @@ title: is_filled fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 530
+weight: 540
 url: /sv/aspose.cells.drawing/webextensionshape/is_filled/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_filled(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [WebExtensionShape](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`WebExtensionShape`](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)

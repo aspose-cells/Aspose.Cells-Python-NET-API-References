@@ -1,5 +1,5 @@
 ---
-title: ignore_error الملكية
+title: ignore_error عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,11 @@ weight: 70
 url: /ar/aspose.cells/calculationoptions/ignore_error/
 is_root: false
 ---
-##  ignore_error الملكية
+##  ignore_error عقار
 
-يشير إلى ما إذا كنت بحاجة إلى إخفاء الخطأ في حساب الصيغ.
-قد يكون الخطأ وظيفة غير مدعومة ، أو روابط خارجية ، إلخ.
+الإشارة إلى ما إذا كان يجب تجاهل الأخطاء التي تمت مواجهتها أثناء حساب الصيغ.
+قد يكون الخطأ عبارة عن وظيفة غير مدعومة، أو روابط خارجية، وما إلى ذلك.
+القيمة الافتراضية هي الحقيقية.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +23,5 @@ def ignore_error(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CalculationOptions](/cells/python-net/ar/aspose.cells/calculationoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CalculationOptions`](/cells/python-net/ar/aspose.cells/calculationoptions)

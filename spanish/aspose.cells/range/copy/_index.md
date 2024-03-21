@@ -1,14 +1,14 @@
 ---
-title: copy método
+title: método copy
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 40
+weight: 50
 url: /es/aspose.cells/range/copy/
 is_root: false
 ---
-##  copy(range) {#Range}
-Copia datos (incluidas fórmulas), formato, objetos de dibujo, etc. de un rango de origen.
+##  copy {#aspose.cells.Range}
+Copia datos (incluidas fórmulas), formateo, objetos de dibujo, etc. desde un rango de origen.
 
 
 
@@ -20,7 +20,7 @@ def copy(self, range):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/es/aspose.cells/range) | Objeto de origen [Range](/cells/python-net/es/aspose.cells/range).|
+| range | [`Range`](/cells/python-net/es/aspose.cells/range) |Fuente [`Range`](/cells/python-net/es/aspose.cells/range) objeto.|
 
 ###  Ejemplo
 
@@ -41,7 +41,7 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  copy(range, options) {#Range-PasteOptions}
+##  copy {#aspose.cells.Range-aspose.cells.PasteOptions}
 Copiando el rango con opciones especiales de pegado.
 
 
@@ -54,11 +54,11 @@ def copy(self, range, options):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/es/aspose.cells/range) | El rango de la fuente.|
-| options | [PasteOptions](/cells/python-net/es/aspose.cells/pasteoptions) | Las opciones especiales de pegado.|
+| range | [`Range`](/cells/python-net/es/aspose.cells/range) | El rango de origen.|
+| options | [`PasteOptions`](/cells/python-net/es/aspose.cells/pasteoptions) | Las opciones especiales de pegado.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Range](/cells/python-net/es/aspose.cells/range)
+* módulo [`aspose.cells`](../../)
+* clase [`Range`](/cells/python-net/es/aspose.cells/range)

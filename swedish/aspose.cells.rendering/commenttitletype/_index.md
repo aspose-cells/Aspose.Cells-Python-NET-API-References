@@ -3,7 +3,7 @@ title: CommentTitleType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 170
 url: /sv/aspose.cells.rendering/commenttitletype/
 is_root: false
 ---
@@ -19,8 +19,10 @@ Typen CommentTitleType avslöjar följande medlemmar:
 | :- | :- |
 | CELL | Representerar kommentarens titelcell.|
 | COMMENT | Representerar kommentarens titelkommentar.|
+| NOTE | Representerar kommentarens rubriknot.|
+| REPLY | Representerar kommentarens rubriksvar.|
 
 
 
 ###  Se även
-* modul [aspose.cells.rendering](..)
+* modul [`aspose.cells.rendering`](..)

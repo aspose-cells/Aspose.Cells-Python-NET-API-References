@@ -3,7 +3,7 @@ title: text_shape_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1020
+weight: 1030
 url: /es/aspose.cells.drawing/groupshape/text_shape_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [AutoShapeType](/cells/python-net/es/aspose.cells.drawing/autoshapetype)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`AutoShapeType`](/cells/python-net/es/aspose.cells.drawing/autoshapetype)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)

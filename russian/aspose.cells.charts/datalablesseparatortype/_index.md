@@ -1,9 +1,9 @@
 ---
 title: DataLablesSeparatorType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 480
+weight: 490
 url: /ru/aspose.cells.charts/datalablesseparatortype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-Тип DataLablesSeparatorType предоставляет следующие члены:
+Тип DataLablesSeparatorType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| AUTO | Представляет автоматический разделитель|
-| SPACE | Представляет пробел ("")|
-| COMMA | Представляет запятую ("",")|
+| AUTO | Представляет собой автоматический сепаратор|
+| SPACE | Представляет пространство(" ")|
+| COMMA | Представляет запятую(",")|
 | SEMICOLON | Представляет точку с запятой (";")|
-| PERIOD |Представляет период ("".")|
-| NEW_LINE | Представляет новую строку ("\n")|
+| PERIOD | Представляет точку(".")|
+| NEW_LINE | Представляет новую строку("\n")|
 | CUSTOM | Представляет пользовательский разделитель|
 
 
@@ -31,8 +31,8 @@ is_root: false
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
 используйте перечисление DataLabelsSeparatorType.
- Это свойство будет удалено через 12 месяцев, начиная с сентября 2020 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с сентября 2020 года.
 Aspose приносит извинения за возможные неудобства.
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

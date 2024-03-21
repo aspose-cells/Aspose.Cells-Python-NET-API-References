@@ -3,13 +3,13 @@ title: export_hidden_worksheet Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 280
 url: /de/aspose.cells/htmlsaveoptions/export_hidden_worksheet/
 is_root: false
 ---
 ##  export_hidden_worksheet Eigentum
 
-Gibt an, ob der Inhalt des ausgeblendeten Arbeitsblatts exportiert wird. Der Standardwert ist wahr.
+Gibt an, ob der ausgeblendete Arbeitsblattinhalt exportiert wird. Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_hidden_worksheet(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlSaveOptions](/cells/python-net/de/aspose.cells/htmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlSaveOptions`](/cells/python-net/de/aspose.cells/htmlsaveoptions)

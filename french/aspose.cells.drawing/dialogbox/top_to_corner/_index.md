@@ -3,13 +3,13 @@ title: top_to_corner propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /fr/aspose.cells.drawing/dialogbox/top_to_corner/
 is_root: false
 ---
 ##  top_to_corner propriété
 
-Obtient et définit le décalage vertical de la forme par rapport à la bordure supérieure de la feuille de calcul, en pixels.
+Obtient et définit le décalage vertical de la forme par rapport à la bordure supérieure de la feuille de calcul, en unités de pixels.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [DialogBox](/cells/python-net/fr/aspose.cells.drawing/dialogbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`DialogBox`](/cells/python-net/fr/aspose.cells.drawing/dialogbox)

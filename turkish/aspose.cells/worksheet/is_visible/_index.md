@@ -3,7 +3,7 @@ title: is_visible mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 610
+weight: 630
 url: /tr/aspose.cells/worksheet/is_visible/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

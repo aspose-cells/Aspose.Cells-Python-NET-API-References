@@ -3,13 +3,13 @@ title: spid mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 890
+weight: 900
 url: /tr/aspose.cells.drawing/dialogbox/spid/
 is_root: false
 ---
 ##  spid mülk
 
-Bir uygulamanın belirli şekli Tanımlamak için kullanabileceği isteğe bağlı bir dize belirtir.
+Bir uygulamanın belirli bir şekli tanımlamak için kullanabileceği isteğe bağlı bir dize belirtir.
 
 ###  Örnek
 
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [DialogBox](/cells/python-net/tr/aspose.cells.drawing/dialogbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`DialogBox`](/cells/python-net/tr/aspose.cells.drawing/dialogbox)

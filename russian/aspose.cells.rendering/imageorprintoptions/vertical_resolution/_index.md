@@ -1,16 +1,16 @@
 ---
 title: vertical_resolution недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 370
+weight: 390
 url: /ru/aspose.cells.rendering/imageorprintoptions/vertical_resolution/
 is_root: false
 ---
 ##  vertical_resolution недвижимость
 
-Получает или задает вертикальное разрешение для сгенерированных изображений в точках на дюйм.
-Применяет метод генерации изображения, за исключением изображения в формате Emf.
+Получает или задает вертикальное разрешение созданных изображений (в точках на дюйм).
+Применяется метод создания изображения, кроме изображения в формате Emf.
 
 ###  Примечания
 
@@ -26,5 +26,5 @@ def vertical_resolution(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)

@@ -3,7 +3,7 @@ title: auto_filter proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 350
+weight: 370
 url: /it/aspose.cells/worksheet/auto_filter/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def auto_filter(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [AutoFilter](/cells/python-net/it/aspose.cells/autofilter)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`AutoFilter`](/cells/python-net/it/aspose.cells/autofilter)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

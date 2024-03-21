@@ -3,12 +3,12 @@ title: Sparkline classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 260
+weight: 270
 url: /fr/aspose.cells.charts/sparkline/
 is_root: false
 ---
 ##  Sparkline classe
-Un graphique sparkline représente un petit graphique ou graphique dans une cellule de feuille de calcul qui fournit une représentation visuelle des données.
+Une sparkline représente un petit tableau ou graphique dans une cellule de feuille de calcul qui fournit une représentation visuelle des données.
 
 
 
@@ -17,16 +17,16 @@ Le type Sparkline expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [data_range](/cells/python-net/fr/aspose.cells.charts/sparkline/data_range) | Représente la plage de données du graphique sparkline.|
-| [row](/cells/python-net/fr/aspose.cells.charts/sparkline/row) | Obtient l'index de ligne du graphique sparkline.|
-| [column](/cells/python-net/fr/aspose.cells.charts/sparkline/column) | Obtient l'index de colonne du graphique sparkline.|
+| [data_range](/cells/python-net/fr/aspose.cells.charts/sparkline/data_range) | Représente la plage de données du sparkline.|
+| [row](/cells/python-net/fr/aspose.cells.charts/sparkline/row) | Obtient l'index de ligne du sparkline.|
+| [column](/cells/python-net/fr/aspose.cells.charts/sparkline/column) | Obtient l'index de colonne du sparkline.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [to_image(file_name, options)](/cells/python-net/fr/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Convertit un sparkline en image.|
-| [to_image(stream, options)](/cells/python-net/fr/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Convertit un sparkline en image.|
+| [to_image](/cells/python-net/fr/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Convertit une sparkline en image.|
+| [to_image](/cells/python-net/fr/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Convertit une sparkline en image.|
 
 
 
@@ -59,4 +59,4 @@ line.to_image("output.png", ImageOrPrintOptions())
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

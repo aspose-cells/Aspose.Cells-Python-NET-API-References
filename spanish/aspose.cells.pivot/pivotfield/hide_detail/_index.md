@@ -1,14 +1,14 @@
 ---
-title: hide_detail método
+title: método hide_detail
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 70
+weight: 90
 url: /es/aspose.cells.pivot/pivotfield/hide_detail/
 is_root: false
 ---
-##  hide_detail(is_hidden_detail) {#bool}
-Establece si los PivotItems en un campo dinámico son detalles ocultos. Es decir, contraer/expandir este campo.
+##  hide_detail {#bool}
+Establece si los elementos dinámicos en un campo dinámico son detalles ocultos. Es decir, contraer/expandir este campo.
 
 
 
@@ -25,5 +25,5 @@ def hide_detail(self, is_hidden_detail):
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotField](/cells/python-net/es/aspose.cells.pivot/pivotfield)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotField`](/cells/python-net/es/aspose.cells.pivot/pivotfield)

@@ -3,13 +3,13 @@ title: has_macro propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 570
+weight: 580
 url: /fr/aspose.cells/workbook/has_macro/
 is_root: false
 ---
 ##  has_macro propriété
 
-Indique si cette feuille de calcul contient macro/VBA.
+Indique si cette feuille de calcul contient une macro/VBA.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def has_macro(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

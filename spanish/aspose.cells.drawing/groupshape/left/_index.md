@@ -3,7 +3,7 @@ title: left propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 680
+weight: 690
 url: /es/aspose.cells.drawing/groupshape/left/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def left(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupShape](/cells/python-net/es/aspose.cells.drawing/groupshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupShape`](/cells/python-net/es/aspose.cells.drawing/groupshape)

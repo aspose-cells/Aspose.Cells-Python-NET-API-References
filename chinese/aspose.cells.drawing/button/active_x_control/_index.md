@@ -1,13 +1,13 @@
 ---
-title: active_x_control 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: active_x_control属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 260
 url: /zh/aspose.cells.drawing/button/active_x_control/
 is_root: false
 ---
-## active_x_control 属性
+## active_x_control属性
 
 获取 ActiveX 控件。
 
@@ -17,9 +17,10 @@ is_root: false
 from aspose import pycore
 from aspose.cells.drawing.activexcontrols import CheckBoxActiveXControl
 
-checkBox1 = pycore.cast(CheckBoxActiveXControl, shape.active_x_control)
-# The font name of CheckBox
-fontName = checkBox1.font.name
+if shape.active_x_control != None:
+    checkBox1 = pycore.cast(CheckBoxActiveXControl, shape.active_x_control)
+    # The font name of CheckBox
+    fontName = checkBox1.font.name
 
 ```
 ### 定义：
@@ -30,6 +31,6 @@ def active_x_control(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/activexcontrol)
-* 类 [Button](/cells/python-net/zh/aspose.cells.drawing/button)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/activexcontrol)
+* 类 [`Button`](/cells/python-net/zh/aspose.cells.drawing/button)

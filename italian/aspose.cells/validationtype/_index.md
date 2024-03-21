@@ -1,18 +1,18 @@
 ---
-title: ValidationType enumerazione
+title: Enumerazione ValidationType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2640
+weight: 2730
 url: /it/aspose.cells/validationtype/
 is_root: false
 ---
-##  ValidationType enumerazione
+##  Enumerazione ValidationType
 Rappresenta il tipo di convalida dei dati.
 
 
 
-Il tipo ValidationType espone i membri seguenti:
+Il tipo ValidationType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -22,11 +22,11 @@ Il tipo ValidationType espone i membri seguenti:
 | DECIMAL | Tipo di convalida decimale.|
 | LIST | Tipo di convalida dell'elenco.|
 | DATE | Tipo di convalida della data.|
-| TIME | Tipo di convalida dell'ora.|
+| TIME | Tipo di convalida temporale.|
 | TEXT_LENGTH | Tipo di convalida della lunghezza del testo.|
 | CUSTOM | Tipo di convalida personalizzato.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

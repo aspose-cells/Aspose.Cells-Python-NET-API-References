@@ -3,12 +3,12 @@ title: hide_rows Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 600
+weight: 590
 url: /de/aspose.cells/cells/hide_rows/
 is_root: false
 ---
-##  hide_rows(row, total_rows) {#int-int}
-Blendet mehrere Zeilen aus.
+##  hide_rows {#int-int}
+Versteckt mehrere Zeilen.
 
 
 
@@ -26,5 +26,5 @@ def hide_rows(self, row, total_rows):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

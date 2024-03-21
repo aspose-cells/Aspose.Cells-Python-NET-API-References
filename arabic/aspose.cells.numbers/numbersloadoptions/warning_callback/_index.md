@@ -1,15 +1,15 @@
 ---
-title: warning_callback الملكية
+title: warning_callback عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 270
 url: /ar/aspose.cells.numbers/numbersloadoptions/warning_callback/
 is_root: false
 ---
-##  warning_callback الملكية
+##  warning_callback عقار
 
-يحصل أو يحدد رد الاتصال التحذيري.
+الحصول على رد اتصال تحذيري أو تعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def warning_callback(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.numbers](../../)
-* فئة [IWarningCallback](/cells/python-net/ar/aspose.cells/iwarningcallback)
-* فئة [NumbersLoadOptions](/cells/python-net/ar/aspose.cells.numbers/numbersloadoptions)
+* الوحدة [`aspose.cells.numbers`](../../)
+* فئة [`IWarningCallback`](/cells/python-net/ar/aspose.cells/iwarningcallback)
+* فئة [`NumbersLoadOptions`](/cells/python-net/ar/aspose.cells.numbers/numbersloadoptions)

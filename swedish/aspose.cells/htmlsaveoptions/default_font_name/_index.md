@@ -3,7 +3,7 @@ title: default_font_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 120
 url: /sv/aspose.cells/htmlsaveoptions/default_font_name/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def default_font_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

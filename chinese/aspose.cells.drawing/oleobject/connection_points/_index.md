@@ -1,13 +1,13 @@
 ---
-title: connection_points 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: connection_points属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 350
+weight: 370
 url: /zh/aspose.cells.drawing/oleobject/connection_points/
 is_root: false
 ---
-## connection_points 属性
+## connection_points属性
 
 获取连接点
 
@@ -15,8 +15,8 @@ is_root: false
 
 注意：该成员现已过时。反而，
 请使用 GetConnectionPoints() 方法。
-自 2022 年 4 月起，此方法将在 12 个月后被删除。
-Aspose 对您可能遇到的任何不便深表歉意。
+该方法将于2022年4月起12个月后删除。
+Aspose 对于给您带来的任何不便，我们深表歉意。
 ### 定义：
 ```python
 @property
@@ -25,5 +25,5 @@ def connection_points(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [OleObject](/cells/python-net/zh/aspose.cells.drawing/oleobject)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`OleObject`](/cells/python-net/zh/aspose.cells.drawing/oleobject)

@@ -1,9 +1,9 @@
 ---
 title: DynamicFilter класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 510
+weight: 530
 url: /ru/aspose.cells/dynamicfilter/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип DynamicFilter предоставляет следующие члены:
+Тип DynamicFilter предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

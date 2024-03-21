@@ -3,11 +3,11 @@ title: set_locked_property metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 230
 url: /sv/aspose.cells.drawing/picture/set_locked_property/
 is_root: false
 ---
-##  set_locked_property(type, value) {#ShapeLockType-bool}
+##  set_locked_property {#aspose.cells.drawing.ShapeLockType-bool}
 Ställ in den låsta egenskapen.
 
 
@@ -20,7 +20,7 @@ def set_locked_property(self, type, value):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [ShapeLockType](/cells/python-net/sv/aspose.cells.drawing/shapelocktype) | Den låsta typen.|
+| type | [`ShapeLockType`](/cells/python-net/sv/aspose.cells.drawing/shapelocktype) | Den låsta typen.|
 | value | bool | Fastighetens värde.|
 
 ###  Exempel
@@ -35,5 +35,5 @@ shape.set_locked_property(ShapeLockType.ADJUST_HANDLES, True)
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Picture](/cells/python-net/sv/aspose.cells.drawing/picture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture)

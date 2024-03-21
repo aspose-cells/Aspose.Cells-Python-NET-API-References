@@ -3,13 +3,13 @@ title: text_horizontal_overflow mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 970
+weight: 990
 url: /tr/aspose.cells.drawing/textbox/text_horizontal_overflow/
 is_root: false
 ---
 ##  text_horizontal_overflow mülk
 
-Metin içeren şeklin metin yatay taşma türünü alır ve ayarlar.
+Metni içeren şeklin metin yatay taşma türünü alır ve ayarlar.
 
 ###  Örnek
 
@@ -31,6 +31,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextBox](/cells/python-net/tr/aspose.cells.drawing/textbox)
-* sınıf [TextOverflowType](/cells/python-net/tr/aspose.cells.drawing/textoverflowtype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextBox`](/cells/python-net/tr/aspose.cells.drawing/textbox)
+* sınıf [`TextOverflowType`](/cells/python-net/tr/aspose.cells.drawing/textoverflowtype)

@@ -3,7 +3,7 @@ title: drop_down_lines propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 330
+weight: 350
 url: /fr/aspose.cells.drawing/combobox/drop_down_lines/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def drop_down_lines(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ComboBox](/cells/python-net/fr/aspose.cells.drawing/combobox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ComboBox`](/cells/python-net/fr/aspose.cells.drawing/combobox)

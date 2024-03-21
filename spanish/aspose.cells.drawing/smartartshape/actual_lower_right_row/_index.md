@@ -3,7 +3,7 @@ title: actual_lower_right_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 250
+weight: 270
 url: /es/aspose.cells.drawing/smartartshape/actual_lower_right_row/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def actual_lower_right_row(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [SmartArtShape](/cells/python-net/es/aspose.cells.drawing/smartartshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`SmartArtShape`](/cells/python-net/es/aspose.cells.drawing/smartartshape)

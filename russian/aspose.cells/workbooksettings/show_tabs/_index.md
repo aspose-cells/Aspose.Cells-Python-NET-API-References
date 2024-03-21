@@ -1,15 +1,15 @@
 ---
 title: show_tabs недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 580
+weight: 460
 url: /ru/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
 ##  show_tabs недвижимость
 
-Получите или задайте значение, указывающее, отображаются ли вкладки рабочей книги.
+Получает или задает значение, отображаются ли вкладки книги.
 
 ###  Примечания
 
@@ -17,7 +17,7 @@ is_root: false
 
 ###  Пример
 
-Следующий код скрывает вкладки листа и кнопки прокрутки вкладок для электронной таблицы.
+Следующий код скрывает вкладки листов и кнопки прокрутки вкладок для электронной таблицы.
 
 ```python
 
@@ -36,5 +36,5 @@ def show_tabs(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

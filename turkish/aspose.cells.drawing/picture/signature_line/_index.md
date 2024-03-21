@@ -3,7 +3,7 @@ title: signature_line mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /tr/aspose.cells.drawing/picture/signature_line/
 is_root: false
 ---
@@ -46,6 +46,6 @@ def signature_line(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
-* sınıf [SignatureLine](/cells/python-net/tr/aspose.cells.drawing/signatureline)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)
+* sınıf [`SignatureLine`](/cells/python-net/tr/aspose.cells.drawing/signatureline)

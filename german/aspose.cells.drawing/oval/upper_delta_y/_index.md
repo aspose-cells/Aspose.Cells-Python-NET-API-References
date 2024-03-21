@@ -3,17 +3,17 @@ title: upper_delta_y Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /de/aspose.cells.drawing/oval/upper_delta_y/
 is_root: false
 ---
 ##  upper_delta_y Eigentum
 
-Ruft den vertikalen Versatz des Shapes von seiner oberen linken Eckzeile ab oder legt diesen fest.
+Ruft den vertikalen Versatz der Form von ihrer oberen linken Eckreihe ab oder legt diesen fest.
 
 ###  Bemerkungen
 
-Der Wertebereich ist 0 bis 256.
+Der Wertebereich liegt zwischen 0 und 256.
 
 ###  Beispiel
 
@@ -34,5 +34,5 @@ def upper_delta_y(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Oval](/cells/python-net/de/aspose.cells.drawing/oval)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Oval`](/cells/python-net/de/aspose.cells.drawing/oval)

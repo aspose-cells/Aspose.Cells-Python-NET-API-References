@@ -3,7 +3,7 @@ title: significant_digits fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 260
 url: /sv/aspose.cells/cellshelper/significant_digits/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def significant_digits(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsHelper](/cells/python-net/sv/aspose.cells/cellshelper)
+* modul [`aspose.cells`](../../)
+* klass [`CellsHelper`](/cells/python-net/sv/aspose.cells/cellshelper)

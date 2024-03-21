@@ -3,7 +3,7 @@ title: ColorType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1860
+weight: 1930
 url: /sv/aspose.cells/colortype/
 is_root: false
 ---
@@ -26,4 +26,4 @@ Typen ColorType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
-title: control_data الملكية
+title: control_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 340
 url: /ar/aspose.cells.drawing/radiobutton/control_data/
 is_root: false
 ---
-##  control_data الملكية
+##  control_data عقار
 
-يحصل على بيانات التحكم.
+يحصل على بيانات السيطرة.
 
 ###  مثال
 
@@ -27,5 +27,5 @@ def control_data(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [RadioButton](/cells/python-net/ar/aspose.cells.drawing/radiobutton)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`RadioButton`](/cells/python-net/ar/aspose.cells.drawing/radiobutton)

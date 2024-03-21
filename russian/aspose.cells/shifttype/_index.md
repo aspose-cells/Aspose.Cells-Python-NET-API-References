@@ -1,9 +1,9 @@
 ---
 title: ShiftType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2470
+weight: 2560
 url: /ru/aspose.cells/shifttype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип ShiftType предоставляет следующие члены:
+Тип ShiftType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -20,10 +20,10 @@ is_root: false
 | DOWN | Сдвинуть ячейки вниз.|
 | LEFT | Сдвинуть ячейки влево.|
 | NONE | Не сдвигайте ячейки.|
-| RIGHT | Сдвинуть ячейки вправо.|
+| RIGHT | Сдвиньте ячейки вправо.|
 | UP | Сдвинуть ячейки вверх.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

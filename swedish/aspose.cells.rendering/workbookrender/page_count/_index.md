@@ -3,7 +3,7 @@ title: page_count fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 80
 url: /sv/aspose.cells.rendering/workbookrender/page_count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def page_count(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [WorkbookRender](/cells/python-net/sv/aspose.cells.rendering/workbookrender)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`WorkbookRender`](/cells/python-net/sv/aspose.cells.rendering/workbookrender)

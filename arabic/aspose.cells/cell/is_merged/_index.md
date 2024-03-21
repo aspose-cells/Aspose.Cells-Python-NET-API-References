@@ -1,15 +1,15 @@
 ---
-title: is_merged الملكية
+title: is_merged عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 610
 url: /ar/aspose.cells/cell/is_merged/
 is_root: false
 ---
-##  is_merged الملكية
+##  is_merged عقار
 
-للتحقق مما إذا كانت الخلية جزءًا من نطاق مدمج أم لا.
+التحقق مما إذا كانت الخلية جزءًا من نطاق مدمج أم لا.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_merged(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

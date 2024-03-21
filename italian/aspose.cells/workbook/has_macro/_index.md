@@ -3,7 +3,7 @@ title: has_macro proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 570
+weight: 580
 url: /it/aspose.cells/workbook/has_macro/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def has_macro(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

@@ -3,7 +3,7 @@ title: relative_to_original_picture_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 900
+weight: 910
 url: /sv/aspose.cells.drawing/scrollbar/relative_to_original_picture_size/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def relative_to_original_picture_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ScrollBar](/cells/python-net/sv/aspose.cells.drawing/scrollbar)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ScrollBar`](/cells/python-net/sv/aspose.cells.drawing/scrollbar)

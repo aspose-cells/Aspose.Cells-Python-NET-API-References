@@ -1,13 +1,13 @@
 ---
-title: show_cell_range 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: show_cell_range属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 400
 url: /zh/aspose.cells.charts/datalabels/show_cell_range/
 is_root: false
 ---
-## show_cell_range 属性
+## show_cell_range属性
 
 指示是否将单元格范围显示为数据标签。
 ### 定义：
@@ -21,5 +21,5 @@ def show_cell_range(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [DataLabels](/cells/python-net/zh/aspose.cells.charts/datalabels)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`DataLabels`](/cells/python-net/zh/aspose.cells.charts/datalabels)

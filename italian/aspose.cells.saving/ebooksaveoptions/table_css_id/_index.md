@@ -1,0 +1,26 @@
+---
+title: table_css_id proprietà
+second_title: Aspose.Cells for Python via .NET API Referenze
+description:
+type: docs
+weight: 680
+url: /it/aspose.cells.saving/ebooksaveoptions/table_css_id/
+is_root: false
+---
+##  table_css_id proprietà
+
+ Ottiene e imposta il prefisso del tipo nome css come tr,col,td e così via, sono contenuti nell'elemento table
+che ha l'attributo specifico TableCssId. Il valore predefinito è "".
+###  Definizione:
+```python
+@property
+def table_css_id(self):
+    ...
+@table_css_id.setter
+def table_css_id(self, value):
+    ...
+```
+
+###  Guarda anche
+* modulo [`aspose.cells.saving`](../../)
+* classe [`EbookSaveOptions`](/cells/python-net/it/aspose.cells.saving/ebooksaveoptions)

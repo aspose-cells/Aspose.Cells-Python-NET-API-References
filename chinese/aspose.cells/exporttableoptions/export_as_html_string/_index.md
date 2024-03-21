@@ -1,13 +1,13 @@
 ---
-title: export_as_html_string 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: export_as_html_string属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 40
+weight: 60
 url: /zh/aspose.cells/exporttableoptions/export_as_html_string/
 is_root: false
 ---
-## export_as_html_string 属性
+## export_as_html_string属性
 
 将单元格的 html 字符串值导出到 DataTable。
 ### 定义：
@@ -21,5 +21,5 @@ def export_as_html_string(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ExportTableOptions](/cells/python-net/zh/aspose.cells/exporttableoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`ExportTableOptions`](/cells/python-net/zh/aspose.cells/exporttableoptions)

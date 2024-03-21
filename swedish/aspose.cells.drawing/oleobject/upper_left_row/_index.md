@@ -3,7 +3,7 @@ title: upper_left_row fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1320
+weight: 1330
 url: /sv/aspose.cells.drawing/oleobject/upper_left_row/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def upper_left_row(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

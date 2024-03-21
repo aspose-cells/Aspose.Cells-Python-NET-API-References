@@ -3,7 +3,7 @@ title: soft_edges propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 880
+weight: 890
 url: /fr/aspose.cells.drawing/button/soft_edges/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def soft_edges(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Button](/cells/python-net/fr/aspose.cells.drawing/button)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Button`](/cells/python-net/fr/aspose.cells.drawing/button)

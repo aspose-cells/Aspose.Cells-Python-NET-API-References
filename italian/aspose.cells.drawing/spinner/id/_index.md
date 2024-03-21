@@ -3,7 +3,7 @@ title: id proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 510
+weight: 520
 url: /it/aspose.cells.drawing/spinner/id/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def id(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Spinner](/cells/python-net/it/aspose.cells.drawing/spinner)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Spinner`](/cells/python-net/it/aspose.cells.drawing/spinner)

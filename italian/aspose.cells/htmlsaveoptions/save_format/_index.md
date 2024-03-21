@@ -3,7 +3,7 @@ title: save_format proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 560
+weight: 630
 url: /it/aspose.cells/htmlsaveoptions/save_format/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def save_format(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/it/aspose.cells/htmlsaveoptions)
-* classe [SaveFormat](/cells/python-net/it/aspose.cells/saveformat)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/it/aspose.cells/htmlsaveoptions)
+* classe [`SaveFormat`](/cells/python-net/it/aspose.cells/saveformat)

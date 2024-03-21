@@ -3,7 +3,7 @@ title: warning_callback proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 300
+weight: 340
 url: /it/aspose.cells/pptxsaveoptions/warning_callback/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def warning_callback(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [IWarningCallback](/cells/python-net/it/aspose.cells/iwarningcallback)
-* classe [PptxSaveOptions](/cells/python-net/it/aspose.cells/pptxsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`IWarningCallback`](/cells/python-net/it/aspose.cells/iwarningcallback)
+* classe [`PptxSaveOptions`](/cells/python-net/it/aspose.cells/pptxsaveoptions)

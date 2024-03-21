@@ -3,7 +3,7 @@ title: linked_cell mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 730
+weight: 740
 url: /tr/aspose.cells.drawing/groupbox/linked_cell/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def linked_cell(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GroupBox](/cells/python-net/tr/aspose.cells.drawing/groupbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GroupBox`](/cells/python-net/tr/aspose.cells.drawing/groupbox)

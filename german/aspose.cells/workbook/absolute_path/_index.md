@@ -3,7 +3,7 @@ title: absolute_path Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 430
+weight: 440
 url: /de/aspose.cells/workbook/absolute_path/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def absolute_path(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Workbook](/cells/python-net/de/aspose.cells/workbook)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Workbook`](/cells/python-net/de/aspose.cells/workbook)

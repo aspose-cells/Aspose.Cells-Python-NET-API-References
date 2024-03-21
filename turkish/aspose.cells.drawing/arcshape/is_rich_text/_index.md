@@ -3,7 +3,7 @@ title: is_rich_text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 680
+weight: 690
 url: /tr/aspose.cells.drawing/arcshape/is_rich_text/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def is_rich_text(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ArcShape](/cells/python-net/tr/aspose.cells.drawing/arcshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ArcShape`](/cells/python-net/tr/aspose.cells.drawing/arcshape)

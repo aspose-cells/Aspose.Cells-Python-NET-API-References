@@ -1,9 +1,9 @@
 ---
 title: TickMarkType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 650
+weight: 660
 url: /zh/aspose.cells.charts/tickmarktype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-TickMarkType 类型公开了以下成员：
+TickMarkType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
 | CROSS |刻度线类型为十字。|
-| INSIDE |刻度线类型为内部。|
-| NONE |刻度线类型为无。|
+| INSIDE |刻度线类型为“内部”。|
+| NONE |刻度线类型为“无”。|
 | OUTSIDE |刻度线类型为外部|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

@@ -1,19 +1,19 @@
 ---
-title: active_sheet_index الملكية
+title: active_sheet_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells/worksheetcollection/active_sheet_index/
 is_root: false
 ---
-##  active_sheet_index الملكية
+##  active_sheet_index عقار
 
 يمثل فهرس ورقة العمل النشطة عند فتح جدول البيانات.
 
 ###  ملاحظات
 
-فهرس الورقة على أساس الصفر.
+مؤشر الورقة يعتمد على الصفر.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def active_sheet_index(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

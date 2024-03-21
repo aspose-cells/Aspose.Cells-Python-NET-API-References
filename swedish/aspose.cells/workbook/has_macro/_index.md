@@ -3,7 +3,7 @@ title: has_macro fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 580
 url: /sv/aspose.cells/workbook/has_macro/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def has_macro(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

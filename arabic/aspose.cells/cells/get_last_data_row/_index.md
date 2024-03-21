@@ -3,17 +3,17 @@ title: طريقة get_last_data_row
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 400
 url: /ar/aspose.cells/cells/get_last_data_row/
 is_root: false
 ---
-##  get_last_data_row(column) {#int}
-الحصول على فهرس صف الخلية الأخير الذي يحتوي على بيانات في العمود المحدد.
+##  get_last_data_row {#int}
+الحصول على فهرس الصف الأخير من الخلية الذي يحتوي على بيانات في العمود المحدد.
 
 
 ###  عائدات
 
-فهرس الصف الأخير.
+مؤشر الصف الأخير.
 
 
 ```python
@@ -24,10 +24,10 @@ def get_last_data_row(self, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| column | int | فهرس العمود.|
+| column | int | مؤشر العمود.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

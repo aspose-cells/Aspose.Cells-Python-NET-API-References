@@ -3,7 +3,7 @@ title: text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 910
+weight: 920
 url: /de/aspose.cells.drawing/rectangleshape/text/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RectangleShape](/cells/python-net/de/aspose.cells.drawing/rectangleshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RectangleShape`](/cells/python-net/de/aspose.cells.drawing/rectangleshape)

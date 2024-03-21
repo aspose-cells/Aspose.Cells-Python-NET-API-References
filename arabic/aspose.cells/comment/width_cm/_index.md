@@ -1,15 +1,15 @@
 ---
-title: width_cm الملكية
+title: width_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ar/aspose.cells/comment/width_cm/
 is_root: false
 ---
-##  width_cm الملكية
+##  width_cm عقار
 
-يمثل عرض التعليق بوحدة سنتيمترات.
+يمثل عرض التعليق بوحدة السنتيمتر.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def width_cm(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

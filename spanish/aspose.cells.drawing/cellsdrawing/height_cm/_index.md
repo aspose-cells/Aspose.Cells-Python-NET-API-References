@@ -3,7 +3,7 @@ title: height_cm propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 430
+weight: 440
 url: /es/aspose.cells.drawing/cellsdrawing/height_cm/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representa la altura de la forma, en unidades de centímetros.
 ```python
 
 if shape.height_cm == 3:
-    shape.height_cm = 1
+    shape.height_cm = 1.0
 
 ```
 ###  Definición:
@@ -30,5 +30,5 @@ def height_cm(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CellsDrawing](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CellsDrawing`](/cells/python-net/es/aspose.cells.drawing/cellsdrawing)

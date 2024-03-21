@@ -1,9 +1,9 @@
 ---
 title: paths недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 810
+weight: 820
 url: /ru/aspose.cells.drawing/groupbox/paths/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GroupBox](/cells/python-net/ru/aspose.cells.drawing/groupbox)
-* класс [ShapePathCollection](/cells/python-net/ru/aspose.cells.drawing/shapepathcollection)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GroupBox`](/cells/python-net/ru/aspose.cells.drawing/groupbox)
+* класс [`ShapePathCollection`](/cells/python-net/ru/aspose.cells.drawing/shapepathcollection)

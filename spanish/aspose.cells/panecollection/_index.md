@@ -3,12 +3,12 @@ title: PaneCollection clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1160
+weight: 1200
 url: /es/aspose.cells/panecollection/
 is_root: false
 ---
 ##  PaneCollection clase
-Representa todos los objetos Panel que se muestran en la ventana especificada.
+Representa todos los objetos del Panel que se muestran en la ventana especificada.
 
 
 
@@ -24,4 +24,4 @@ El tipo PaneCollection expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: check_mixed_value_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 30
+weight: 50
 url: /sv/aspose.cells/exporttableoptions/check_mixed_value_type/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def check_mixed_value_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExportTableOptions](/cells/python-net/sv/aspose.cells/exporttableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ExportTableOptions`](/cells/python-net/sv/aspose.cells/exporttableoptions)

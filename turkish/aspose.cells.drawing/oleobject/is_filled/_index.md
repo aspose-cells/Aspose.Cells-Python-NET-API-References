@@ -3,13 +3,13 @@ title: is_filled mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 650
+weight: 660
 url: /tr/aspose.cells.drawing/oleobject/is_filled/
 is_root: false
 ---
 ##  is_filled mülk
 
-Dolgu formatının görünür olup olmadığını gösterir.
+Doldurma biçiminin görünür olup olmadığını belirtir.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def is_filled(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [OleObject](/cells/python-net/tr/aspose.cells.drawing/oleobject)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`OleObject`](/cells/python-net/tr/aspose.cells.drawing/oleobject)

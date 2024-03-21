@@ -3,11 +3,11 @@ title: is_column_hidden metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 750
+weight: 740
 url: /sv/aspose.cells/cells/is_column_hidden/
 is_root: false
 ---
-##  is_column_hidden(column_index) {#int}
+##  is_column_hidden {#int}
 Kontrollerar om en kolumn vid ett givet index är dold.
 
 
@@ -29,5 +29,5 @@ def is_column_hidden(self, column_index):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

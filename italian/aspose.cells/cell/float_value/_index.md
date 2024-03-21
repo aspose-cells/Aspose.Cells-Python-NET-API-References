@@ -3,7 +3,7 @@ title: float_value proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 450
+weight: 480
 url: /it/aspose.cells/cell/float_value/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def float_value(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

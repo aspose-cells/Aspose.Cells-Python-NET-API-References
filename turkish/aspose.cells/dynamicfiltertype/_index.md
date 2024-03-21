@@ -3,7 +3,7 @@ title: DynamicFilterType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1980
+weight: 2050
 url: /tr/aspose.cells/dynamicfiltertype/
 is_root: false
 ---
@@ -12,29 +12,29 @@ Dinamik filtre türü.
 
 
 
-DynamicFilterType türü aşağıdaki üyeleri gösterir:
+DynamicFilterType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| ABOVE_AVERAGE | Ortalamanın üzerinde olan değerleri gösterir.|
+| ABOVE_AVERAGE | Ortalamanın üzerindeki değerleri gösterir.|
 | BELOW_AVERAGE | Ortalamanın altındaki değerleri gösterir.|
 | LAST_MONTH | Geçen ayın tarihlerini gösterir.|
 | LAST_QUARTER | Son çeyreğin tarihlerini gösterir.|
 | LAST_WEEK | Geçen haftanın tarihlerini gösterir.|
 | LAST_YEAR | Geçen yılın tarihlerini gösterir.|
-| JANUARY | Yıldan bağımsız olarak Ocak ayına ait tarihleri gösterir.|
-| OCTOBER | Yıldan bağımsız olarak Ekim ayına ait tarihleri gösterir.|
-| NOVEMBER | Yıldan bağımsız olarak Kasım ayına ait tarihleri gösterir.|
-| DECEMBER |Yıldan bağımsız olarak Aralık ayına ait tarihleri gösterir.|
-| FEBRUARY | Yıldan bağımsız olarak Şubat ayına ait tarihleri gösterir.|
-| MARCH | Yıldan bağımsız olarak Mart ayına ait tarihleri gösterir.|
-| APRIL | Yıldan bağımsız olarak Nisan ayına ait tarihleri gösterir.|
-| MAY | Yıldan bağımsız olarak Mayıs ayına ait tarihleri gösterir.|
-| JUNE | Yıldan bağımsız olarak Haziran ayına ait tarihleri gösterir.|
-| JULY | Yıldan bağımsız olarak Temmuz ayına ait tarihleri gösterir.|
-| AUGUST | Yıldan bağımsız olarak Ağustos ayına ait tarihleri gösterir.|
-| SEPTEMBER | Yıldan bağımsız olarak Eylül ayına ait tarihleri gösterir.|
+| JANUARY | Yıldan bağımsız olarak Ocak ayındaki tarihleri gösterir.|
+| OCTOBER | Yıldan bağımsız olarak Ekim ayındaki tarihleri gösterir.|
+| NOVEMBER | Yıldan bağımsız olarak Kasım ayındaki tarihleri gösterir.|
+| DECEMBER |Yıldan bağımsız olarak Aralık ayındaki tarihleri gösterir.|
+| FEBRUARY | Yıldan bağımsız olarak Şubat ayındaki tarihleri gösterir.|
+| MARCH | Yıldan bağımsız olarak Mart ayındaki tarihleri gösterir.|
+| APRIL | Yıldan bağımsız olarak Nisan ayındaki tarihleri gösterir.|
+| MAY | Yıldan bağımsız olarak Mayıs ayındaki tarihleri gösterir.|
+| JUNE | Yıldan bağımsız olarak Haziran ayındaki tarihleri gösterir.|
+| JULY | Yıldan bağımsız olarak Temmuz ayındaki tarihleri gösterir.|
+| AUGUST | Yıldan bağımsız olarak Ağustos ayındaki tarihleri gösterir.|
+| SEPTEMBER | Yıldan bağımsız olarak Eylül ayındaki tarihleri gösterir.|
 | NEXT_MONTH | Gelecek ayın tarihlerini gösterir.|
 | NEXT_QUARTER | Sonraki çeyreğin tarihlerini gösterir.|
 | NEXT_WEEK | Gelecek haftanın tarihlerini gösterir.|
@@ -50,10 +50,10 @@ DynamicFilterType türü aşağıdaki üyeleri gösterir:
 | THIS_YEAR | Bu yılın tarihlerini gösterir.|
 | TODAY | Bugünün tarihlerini gösterir.|
 | TOMORROW | Yarının tarihlerini gösterir.|
-| YEAR_TO_DATE | Yılın başlangıcı ile bugün arasındaki tarihleri gösterir.|
+| YEAR_TO_DATE | Yılın başlangıcı ile bugün arasındaki tarihleri (dahil) gösterir.|
 | YESTERDAY | Dünün tarihlerini gösterir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

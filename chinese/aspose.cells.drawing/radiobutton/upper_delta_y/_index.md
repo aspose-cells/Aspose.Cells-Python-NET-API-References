@@ -1,19 +1,19 @@
 ---
-title: upper_delta_y 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: upper_delta_y属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1150
+weight: 1170
 url: /zh/aspose.cells.drawing/radiobutton/upper_delta_y/
 is_root: false
 ---
-## upper_delta_y 属性
+## upper_delta_y属性
 
-获取或设置形状与其左上角行的垂直偏移量。
+获取或设置形状相对于其左上角行的垂直偏移量。
 
 ### 评论
 
-取值范围为 0 到 256。
+值的范围是0到256。
 
 ### 例子
 
@@ -34,5 +34,5 @@ def upper_delta_y(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [RadioButton](/cells/python-net/zh/aspose.cells.drawing/radiobutton)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`RadioButton`](/cells/python-net/zh/aspose.cells.drawing/radiobutton)

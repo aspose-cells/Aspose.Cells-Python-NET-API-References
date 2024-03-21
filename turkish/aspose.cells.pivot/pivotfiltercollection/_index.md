@@ -3,7 +3,7 @@ title: PivotFilterCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 110
 url: /tr/aspose.cells.pivot/pivotfiltercollection/
 is_root: false
 ---
@@ -12,7 +12,7 @@ Tüm PivotFilter nesnelerinin bir koleksiyonunu temsil eder
 
 
 
-PivotFilterCollection türü aşağıdaki üyeleri gösterir:
+PivotFilterCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -23,18 +23,18 @@ PivotFilterCollection türü aşağıdaki üyeleri gösterir:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/copy_to/#int-list-int-int) |Dizi listesindeki bir dizi öğeyi, hedef dizi listesinin belirtilen dizininden başlayarak uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of(item, index)](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/index_of/#PivotFilter-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of(item, index, count)](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/index_of/#PivotFilter-int-int) | Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item)](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/last_index_of/#PivotFilter) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index)](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/last_index_of/#PivotFilter-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index, count)](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/last_index_of/#PivotFilter-int-int) |Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [add(field_index, type)](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/add/#int-PivotFilterType) | Belirli türe bir PivotFilter Nesnesi ekler|
-| [clear_filter(field_index)](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/clear_filter/#int) | PivotFilter'ı belirli PivotField'dan temizleyin|
-| [binary_search(item)](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/binary_search/#PivotFilter) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [copy_to](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak dizi listesinin tamamını uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [copy_to](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen dizininden başlayarak, dizi listesinden bir dizi öğeyi uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [index_of](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/index_of/#aspose.cells.pivot.PivotFilter-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [index_of](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/index_of/#aspose.cells.pivot.PivotFilter-int-int) |Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğeyi içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/last_index_of/#aspose.cells.pivot.PivotFilter) | Belirtilen nesneyi arar ve dizi listesinin tamamındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/last_index_of/#aspose.cells.pivot.PivotFilter-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/last_index_of/#aspose.cells.pivot.PivotFilter-int-int) | Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [add](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/add/#int-aspose.cells.pivot.PivotFilterType) | Belirli türe bir PivotFilter Nesnesi ekler|
+| [clear_filter](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/clear_filter/#int) | Belirli PivotField'dan PivotFilter'ı temizleyin|
+| [binary_search](/cells/python-net/tr/aspose.cells.pivot/pivotfiltercollection/binary_search/#aspose.cells.pivot.PivotFilter) | Varsayılan karşılaştırıcıyı kullanarak bir öğe için sıralanmış dizi listesinin tamamını arar ve öğenin sıfır tabanlı dizinini döndürür.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](..)
+* modül [`aspose.cells.pivot`](..)

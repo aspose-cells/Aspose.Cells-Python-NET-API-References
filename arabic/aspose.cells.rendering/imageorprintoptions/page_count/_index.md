@@ -1,19 +1,19 @@
 ---
-title: page_count الملكية
+title: page_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells.rendering/imageorprintoptions/page_count/
 is_root: false
 ---
-##  page_count الملكية
+##  page_count عقار
 
-الحصول على أو تحديد عدد الصفحات المراد حفظها.
+الحصول على أو تعيين عدد الصفحات المراد حفظها.
 
 ###  ملاحظات
 
-الافتراضي هو System.Int32.MaxValue مما يعني أنه سيتم عرض جميع الصفحات.
+الافتراضي هو System.Int32.MaxValue مما يعني أنه سيتم عرض كافة الصفحات.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def page_count(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

@@ -3,7 +3,7 @@ title: text_frame Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 960
+weight: 970
 url: /de/aspose.cells.drawing/chartshape/text_frame/
 is_root: false
 ---
@@ -14,8 +14,8 @@ Gibt ein TextFrame-Objekt zurück, das die Ausrichtungs- und Verankerungseigensc
 ###  Bemerkungen
 
  HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
- Bitte verwenden Sie die Shape.TextBody.TextAlignment-Eigenschaft.
- Diese Property wird 12 Monate später seit Mai 2016 entfernt.
+ Bitte verwenden Sie die Eigenschaft Shape.TextBody.TextAlignment.
+ Diese Eigenschaft wird seit Mai 2016 12 Monate später entfernt.
 Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
 ###  Definition:
 ```python
@@ -25,6 +25,6 @@ def text_frame(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ChartShape](/cells/python-net/de/aspose.cells.drawing/chartshape)
-* Klasse [MsoTextFrame](/cells/python-net/de/aspose.cells.drawing/msotextframe)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ChartShape`](/cells/python-net/de/aspose.cells.drawing/chartshape)
+* Klasse [`MsoTextFrame`](/cells/python-net/de/aspose.cells.drawing/msotextframe)

@@ -1,9 +1,9 @@
 ---
 title: TextOrientationType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2560
+weight: 2650
 url: /ru/aspose.cells/textorientationtype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип TextOrientationType предоставляет следующие члены:
+Тип TextOrientationType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -20,9 +20,9 @@ is_root: false
 | CLOCK_WISE | Поворачивает текст на 90 градусов по часовой стрелке.|
 | COUNTER_CLOCK_WISE | Поворачивает текст на 90 градусов против часовой стрелки.|
 | NO_ROTATION | Представляет значение по умолчанию.|
-| TOP_TO_BOTTOM | Отображает текст сверху вниз по ячейке. Сложенный текст.|
+| TOP_TO_BOTTOM | Отображает текст сверху вниз в ячейке. Сложенный текст.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

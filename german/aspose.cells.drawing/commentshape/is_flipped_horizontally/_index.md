@@ -3,7 +3,7 @@ title: is_flipped_horizontally Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 550
+weight: 560
 url: /de/aspose.cells.drawing/commentshape/is_flipped_horizontally/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_flipped_horizontally(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CommentShape](/cells/python-net/de/aspose.cells.drawing/commentshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CommentShape`](/cells/python-net/de/aspose.cells.drawing/commentshape)

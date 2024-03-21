@@ -3,7 +3,7 @@ title: BackgroundMode uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 380
 url: /sv/aspose.cells.charts/backgroundmode/
 is_root: false
 ---
@@ -17,11 +17,11 @@ Typen BackgroundMode avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| AUTOMATIC | Automatisk|
-| OPAQUE |Ogenomskinlig|
+| AUTOMATIC |Automatisk|
+| OPAQUE | Ogenomskinlig|
 | TRANSPARENT | Transparent|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

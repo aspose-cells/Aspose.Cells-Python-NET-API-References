@@ -3,17 +3,17 @@ title: get_error_value_string yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 100
 url: /tr/aspose.cells/globalizationsettings/get_error_value_string/
 is_root: false
 ---
-##  get_error_value_string(err) {#str}
-Hücrenin hata değeri için görünen dize değerini alır
+##  get_error_value_string {#str}
+Hücrenin hata değeri için görüntü dizesi değerini alır
 
 
 ###  İadeler
 
-Varsayılan, hata değerinin kendisini döndürür
+Varsayılan olarak hata değerinin kendisini döndürür
 
 
 ```python
@@ -24,10 +24,10 @@ def get_error_value_string(self, err):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| err | str | #DEĞER!,#NAME gibi hata değerleri?|
+| err | str | #DEĞER!,#AD gibi hata değerleri?|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [GlobalizationSettings](/cells/python-net/tr/aspose.cells/globalizationsettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`GlobalizationSettings`](/cells/python-net/tr/aspose.cells/globalizationsettings)

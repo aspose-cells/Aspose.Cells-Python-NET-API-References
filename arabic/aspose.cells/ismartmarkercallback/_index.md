@@ -1,25 +1,25 @@
 ---
-title: ISmartMarkerCallBack الدرجة
+title: ISmartMarkerCallBack صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 860
+weight: 900
 url: /ar/aspose.cells/ismartmarkercallback/
 is_root: false
 ---
-##  ISmartMarkerCallBack الدرجة
-يمثل واجهة رد معالجة سمارت ماركر.
+##  ISmartMarkerCallBack صف
+يمثل واجهة رد الاتصال لمعالجة العلامة الذكية.
 
 
 
-يكشف نوع ISmartMarkerCallBack الأعضاء التالية:
+يكشف النوع ISmartMarkerCallBack عن الأعضاء التاليين:
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [process(sheet_index, row_index, col_index, table_name, column_name)](/cells/python-net/ar/aspose.cells/ismartmarkercallback/process/#int-int-int-str-str) | رد الاتصال لمعالجة علامة ذكية.|
+| [process](/cells/python-net/ar/aspose.cells/ismartmarkercallback/process/#int-int-int-str-str) |رد الاتصال لمعالجة العلامة الذكية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

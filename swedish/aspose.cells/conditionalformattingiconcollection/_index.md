@@ -3,12 +3,12 @@ title: ConditionalFormattingIconCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 330
 url: /sv/aspose.cells/conditionalformattingiconcollection/
 is_root: false
 ---
 ##  ConditionalFormattingIconCollection klass
-Representerar en samling av [ConditionalFormattingIcon](/cells/python-net/sv/aspose.cells/conditionalformattingicon) objekt.
+Representerar en samling av [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon) objekt.
 
 
 
@@ -23,16 +23,16 @@ Typen ConditionalFormattingIconCollection avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add(type, index)](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/add/#IconSetType-int) | Lägger till [ConditionalFormattingIcon](/cells/python-net/sv/aspose.cells/conditionalformattingicon) objekt.|
-| [add(cficon)](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/add/#ConditionalFormattingIcon) | Lägger till [ConditionalFormattingIcon](/cells/python-net/sv/aspose.cells/conditionalformattingicon) objekt.|
-| [copy_to(array)](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/copy_to/#list) | Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/copy_to/#int-list-int-int) |Kopierar ett intervall av element från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
-| [index_of(item, index)](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/index_of/#ConditionalFormattingIcon-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
-| [index_of(item, index, count)](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/index_of/#ConditionalFormattingIcon-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
-| [last_index_of(item)](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/last_index_of/#ConditionalFormattingIcon) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
-| [last_index_of(item, index)](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/last_index_of/#ConditionalFormattingIcon-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
-| [last_index_of(item, index, count)](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/last_index_of/#ConditionalFormattingIcon-int-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
-| [binary_search(item)](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/binary_search/#ConditionalFormattingIcon) | Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
+| [add](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/add/#aspose.cells.IconSetType-int) | Lägger till [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon) objekt.|
+| [add](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/add/#aspose.cells.ConditionalFormattingIcon) | Lägger till [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon) objekt.|
+| [copy_to](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/copy_to/#list) | Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
+| [copy_to](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/copy_to/#int-list-int-int) | Kopierar ett intervall av element från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
+| [index_of](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/index_of/#aspose.cells.ConditionalFormattingIcon-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
+| [index_of](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/index_of/#aspose.cells.ConditionalFormattingIcon-int-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
+| [last_index_of](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.ConditionalFormattingIcon) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
+| [last_index_of](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.ConditionalFormattingIcon-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
+| [last_index_of](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.ConditionalFormattingIcon-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
+| [binary_search](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection/binary_search/#aspose.cells.ConditionalFormattingIcon) | Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
 
 
 
@@ -84,5 +84,5 @@ workbook.save("output.xls")
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
-* klass [ConditionalFormattingIcon](/cells/python-net/sv/aspose.cells/conditionalformattingicon)
+* modul [`aspose.cells`](..)
+* klass [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon)

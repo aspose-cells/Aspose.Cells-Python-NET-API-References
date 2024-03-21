@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type proprietà
 
-Ottiene e imposta il punto elenco type.
+Ottiene e imposta lo type del bullet.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [Bullet](/cells/python-net/it/aspose.cells.drawing.texts/bullet)
-* classe [BulletType](/cells/python-net/it/aspose.cells.drawing.texts/bullettype)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`Bullet`](/cells/python-net/it/aspose.cells.drawing.texts/bullet)
+* classe [`BulletType`](/cells/python-net/it/aspose.cells.drawing.texts/bullettype)

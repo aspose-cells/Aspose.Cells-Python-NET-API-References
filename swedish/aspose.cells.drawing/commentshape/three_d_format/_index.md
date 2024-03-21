@@ -3,7 +3,7 @@ title: three_d_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /sv/aspose.cells.drawing/commentshape/three_d_format/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def three_d_format(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CommentShape](/cells/python-net/sv/aspose.cells.drawing/commentshape)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CommentShape`](/cells/python-net/sv/aspose.cells.drawing/commentshape)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

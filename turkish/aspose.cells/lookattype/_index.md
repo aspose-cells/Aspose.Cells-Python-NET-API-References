@@ -3,26 +3,26 @@ title: LookAtType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2220
+weight: 2300
 url: /tr/aspose.cells/lookattype/
 is_root: false
 ---
 ##  LookAtType numaralandırma
-Tipe bakmayı temsil eder.
+Tipe bakışı temsil eder.
 
 
 
-LookAtType türü aşağıdaki üyeleri gösterir:
+LookAtType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | CONTAINS | Cell değer Bulunan nesneyi içerir.|
-| START_WITH | Cell değer Bulunan nesne ile başlar.|
-| END_WITH | Cell değeri find nesnesi ile biter.|
-| ENTIRE_CONTENT | Cell değeri, bulunan nesne ile aynıdır.|
+| START_WITH | Cell değer Find nesnesiyle başlar.|
+| END_WITH | Cell değeri find nesnesiyle biter.|
+| ENTIRE_CONTENT | Cell değeri bulma nesnesiyle aynıdır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

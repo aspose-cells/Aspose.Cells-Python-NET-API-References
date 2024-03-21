@@ -3,20 +3,20 @@ title: width_inch propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /fr/aspose.cells.drawing/groupshape/width_inch/
 is_root: false
 ---
 ##  width_inch propriété
 
-Représente la largeur de la forme, en pouces.
+Représente la largeur de la forme, en unité de pouce.
 
 ###  Exemple
 
 ```python
 
 if shape.width_inch == 3:
-    shape.width_inch = 1
+    shape.width_inch = 1.0
 
 ```
 ###  Définition:
@@ -30,5 +30,5 @@ def width_inch(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GroupShape](/cells/python-net/fr/aspose.cells.drawing/groupshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/fr/aspose.cells.drawing/groupshape)

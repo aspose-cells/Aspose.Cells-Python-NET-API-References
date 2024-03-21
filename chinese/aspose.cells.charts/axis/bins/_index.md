@@ -1,15 +1,15 @@
 ---
-title: bins 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: bins属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 90
 url: /zh/aspose.cells.charts/axis/bins/
 is_root: false
 ---
-## bins 属性
+## bins属性
 
-在图表（直方图/帕累托）轴上表示 bins
+代表图表（直方图/帕累托）轴上的 bins
 ### 定义：
 ```python
 @property
@@ -18,6 +18,6 @@ def bins(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
-* 类 [AxisBins](/cells/python-net/zh/aspose.cells.charts/axisbins)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)
+* 类 [`AxisBins`](/cells/python-net/zh/aspose.cells.charts/axisbins)

@@ -3,13 +3,13 @@ title: drag_to_data mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 290
 url: /tr/aspose.cells.pivot/pivotfield/drag_to_data/
 is_root: false
 ---
 ##  drag_to_data mülk
 
-Belirtilen alanın veri konumuna sürüklenip sürüklenemeyeceğini gösterir.
+Belirtilen alanın veri konumuna sürüklenip sürüklenemeyeceğini belirtir.
 Varsayılan değer doğrudur.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def drag_to_data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotField](/cells/python-net/tr/aspose.cells.pivot/pivotfield)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield)

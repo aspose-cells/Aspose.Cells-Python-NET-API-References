@@ -1,15 +1,15 @@
 ---
-title: shadow الملكية
+title: shadow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 920
+weight: 930
 url: /ar/aspose.cells.drawing/spinner/shadow/
 is_root: false
 ---
-##  shadow الملكية
+##  shadow عقار
 
-يشير إلى ما إذا كان للشكل تظليل ثلاثي الأبعاد.
+الإشارة إلى ما إذا كان الشكل يحتوي على تظليل ثلاثي الأبعاد.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Spinner](/cells/python-net/ar/aspose.cells.drawing/spinner)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Spinner`](/cells/python-net/ar/aspose.cells.drawing/spinner)

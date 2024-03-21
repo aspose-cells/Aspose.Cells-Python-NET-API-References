@@ -3,7 +3,7 @@ title: window_left_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 690
+weight: 570
 url: /sv/aspose.cells/workbooksettings/window_left_inch/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def window_left_inch(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

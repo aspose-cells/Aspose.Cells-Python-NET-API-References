@@ -3,17 +3,17 @@ title: get_view_row_height yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 520
+weight: 510
 url: /tr/aspose.cells/cells/get_view_row_height/
 is_root: false
 ---
-##  get_view_row_height(row) {#int}
+##  get_view_row_height {#int}
 Belirtilen satırın yüksekliğini alır.
 
 
 ###  İadeler
 
-sıra yüksekliği
+Satır yüksekliği.
 
 
 ```python
@@ -24,10 +24,10 @@ def get_view_row_height(self, row):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| row | int | Satır dizini|
+| row | int | Satır dizini.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

@@ -1,15 +1,15 @@
 ---
-title: shapes الملكية
+title: shapes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 730
+weight: 750
 url: /ar/aspose.cells/worksheet/shapes/
 is_root: false
 ---
-##  shapes الملكية
+##  shapes عقار
 
-إرجاع كافة الرسومات shapes في ورقة العمل هذه.
+تقوم بإرجاع كافة الرسومات shapes في ورقة العمل هذه.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def shapes(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ShapeCollection](/cells/python-net/ar/aspose.cells.drawing/shapecollection)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ShapeCollection`](/cells/python-net/ar/aspose.cells.drawing/shapecollection)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

@@ -3,7 +3,7 @@ title: is_printable propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 640
+weight: 650
 url: /fr/aspose.cells.drawing/scrollbar/is_printable/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ScrollBar](/cells/python-net/fr/aspose.cells.drawing/scrollbar)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ScrollBar`](/cells/python-net/fr/aspose.cells.drawing/scrollbar)

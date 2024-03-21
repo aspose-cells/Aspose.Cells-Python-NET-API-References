@@ -1,22 +1,22 @@
 ---
-title: height_cm 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: height_cm属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 440
+weight: 450
 url: /zh/aspose.cells.drawing/commentshape/height_cm/
 is_root: false
 ---
-## height_cm 属性
+## height_cm属性
 
-表示形状的高度，以厘米为单位。
+表示形状的高度，单位为厘米。
 
 ### 例子
 
 ```python
 
 if shape.height_cm == 3:
-    shape.height_cm = 1
+    shape.height_cm = 1.0
 
 ```
 ### 定义：
@@ -30,5 +30,5 @@ def height_cm(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CommentShape](/cells/python-net/zh/aspose.cells.drawing/commentshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CommentShape`](/cells/python-net/zh/aspose.cells.drawing/commentshape)

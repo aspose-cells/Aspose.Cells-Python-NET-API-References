@@ -3,11 +3,11 @@ title: set_style Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 190
+weight: 210
 url: /de/aspose.cells/range/set_style/
 is_root: false
 ---
-##  set_style(style) {#Style}
+##  set_style {#aspose.cells.Style}
 Legt den Stil des Bereichs fest.
 
 
@@ -20,10 +20,10 @@ def set_style(self, style):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/de/aspose.cells/style) | Das Style-Objekt.|
+| style | [`Style`](/cells/python-net/de/aspose.cells/style) | Das Style-Objekt.|
 
 
-##  set_style(style, explicit_flag) {#Style-bool}
+##  set_style {#aspose.cells.Style-bool}
 Wenden Sie den Zellenstil an.
 
 
@@ -36,11 +36,11 @@ def set_style(self, style, explicit_flag):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/de/aspose.cells/style) | Der Zellenstil.|
-| explicit_flag | bool | True, überschreibt nur die explizit gesetzte Formatierung.|
+| style | [`Style`](/cells/python-net/de/aspose.cells/style) | Der Zellenstil.|
+| explicit_flag | bool | Stimmt, es werden nur explizit festgelegte Formatierungen überschrieben.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Range](/cells/python-net/de/aspose.cells/range)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Range`](/cells/python-net/de/aspose.cells/range)

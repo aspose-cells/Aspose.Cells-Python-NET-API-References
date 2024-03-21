@@ -3,7 +3,7 @@ title: is_printable propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 610
+weight: 620
 url: /es/aspose.cells.drawing/label/is_printable/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_printable(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Label](/cells/python-net/es/aspose.cells.drawing/label)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Label`](/cells/python-net/es/aspose.cells.drawing/label)

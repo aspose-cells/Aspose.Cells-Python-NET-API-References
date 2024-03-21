@@ -3,7 +3,7 @@ title: export_area fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 170
 url: /sv/aspose.cells/htmlsaveoptions/export_area/
 is_root: false
 ---
@@ -23,6 +23,6 @@ def export_area(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellArea](/cells/python-net/sv/aspose.cells/cellarea)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

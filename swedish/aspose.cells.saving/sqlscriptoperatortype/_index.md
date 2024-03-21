@@ -3,7 +3,7 @@ title: SqlScriptOperatorType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 30
+weight: 40
 url: /sv/aspose.cells.saving/sqlscriptoperatortype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen SqlScriptOperatorType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.saving](..)
+* modul [`aspose.cells.saving`](..)

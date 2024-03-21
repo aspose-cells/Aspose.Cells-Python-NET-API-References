@@ -3,13 +3,13 @@ title: top_to_corner mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /tr/aspose.cells.drawing/listbox/top_to_corner/
 is_root: false
 ---
 ##  top_to_corner mülk
 
-Çalışma sayfasının üst sınırından dikey şeklin uzaklığını piksel birimi cinsinden alır ve ayarlar.
+Çalışma sayfasının üst kenarlığından şeklin dikey uzaklığını piksel biriminde alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ListBox](/cells/python-net/tr/aspose.cells.drawing/listbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ListBox`](/cells/python-net/tr/aspose.cells.drawing/listbox)

@@ -1,17 +1,17 @@
 ---
 title: row_index_to_name方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 180
 url: /zh/aspose.cells/cellshelper/row_index_to_name/
 is_root: false
 ---
-##  row_index_to_name(row) {#int}
-根据行索引获取行名。
+##  row_index_to_name {#int}
+根据行索引获取行名称。
 
 
-### 返回
+### 退货
 
 行的名称。
 
@@ -29,5 +29,5 @@ def row_index_to_name(self, row):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CellsHelper](/cells/python-net/zh/aspose.cells/cellshelper)
+* 模块[`aspose.cells`](../../)
+* 类 [`CellsHelper`](/cells/python-net/zh/aspose.cells/cellshelper)

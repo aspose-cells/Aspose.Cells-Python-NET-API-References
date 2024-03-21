@@ -3,13 +3,13 @@ title: relative_to_original_picture_size Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 860
+weight: 880
 url: /de/aspose.cells.drawing/radiobutton/relative_to_original_picture_size/
 is_root: false
 ---
 ##  relative_to_original_picture_size Eigentum
 
-Gibt an, ob die Form relativ zur ursprünglichen Bildgröße ist.
+Gibt an, ob die Form relativ zur Originalbildgröße ist.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def relative_to_original_picture_size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RadioButton](/cells/python-net/de/aspose.cells.drawing/radiobutton)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RadioButton`](/cells/python-net/de/aspose.cells.drawing/radiobutton)

@@ -3,7 +3,7 @@ title: web_extension Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /de/aspose.cells.drawing/webextensionshape/web_extension/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def web_extension(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [WebExtension](/cells/python-net/de/aspose.cells.webextensions/webextension)
-* Klasse [WebExtensionShape](/cells/python-net/de/aspose.cells.drawing/webextensionshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`WebExtension`](/cells/python-net/de/aspose.cells.webextensions/webextension)
+* Klasse [`WebExtensionShape`](/cells/python-net/de/aspose.cells.drawing/webextensionshape)

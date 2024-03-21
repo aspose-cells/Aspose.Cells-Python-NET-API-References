@@ -1,14 +1,14 @@
 ---
-title: remove_active_x_control método
+title: método remove_active_x_control
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 190
 url: /es/aspose.cells.drawing/picture/remove_active_x_control/
 is_root: false
 ---
-##  remove_active_x_control() {#}
-Eliminar el control ActiveX.
+##  remove_active_x_control {#}
+Eliminar el control activeX.
 
 
 
@@ -23,12 +23,13 @@ def remove_active_x_control(self):
 
 ```python
 
-shape.remove_active_x_control()
+if shape.active_x_control != None:
+    shape.remove_active_x_control()
 
 ```
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Picture](/cells/python-net/es/aspose.cells.drawing/picture)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Picture`](/cells/python-net/es/aspose.cells.drawing/picture)

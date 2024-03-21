@@ -3,12 +3,12 @@ title: DataBarFillType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1920
+weight: 1990
 url: /es/aspose.cells/databarfilltype/
 is_root: false
 ---
 ##  DataBarFillType enumeración
-Especifica cómo se llena de color una barra de datos.
+Especifica cómo se rellena de color una barra de datos.
 
 
 
@@ -18,9 +18,9 @@ El tipo DataBarFillType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | SOLID | La barra de datos está llena de color sólido.|
-| GRADIENT | La barra de datos se rellena con un degradado de color.|
+| GRADIENT | La barra de datos está rellena con un degradado de color.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

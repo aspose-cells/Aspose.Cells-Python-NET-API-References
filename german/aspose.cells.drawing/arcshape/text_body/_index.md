@@ -3,7 +3,7 @@ title: text_body Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 980
+weight: 990
 url: /de/aspose.cells.drawing/arcshape/text_body/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ArcShape](/cells/python-net/de/aspose.cells.drawing/arcshape)
-* Klasse [FontSettingCollection](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ArcShape`](/cells/python-net/de/aspose.cells.drawing/arcshape)
+* Klasse [`FontSettingCollection`](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)

@@ -1,15 +1,15 @@
 ---
-title: current_page_item الملكية
+title: current_page_item عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 250
 url: /ar/aspose.cells.pivot/pivotfield/current_page_item/
 is_root: false
 ---
-##  current_page_item الملكية
+##  current_page_item عقار
 
-يمثل عنصر الصفحة الحالي المعروض لحقل الصفحة (صالح فقط لحقول الصفحة).
+يمثل عنصر الصفحة الحالي الذي يظهر لحقل الصفحة (صالح لحقول الصفحة فقط).
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def current_page_item(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

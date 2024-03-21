@@ -1,15 +1,15 @@
 ---
-title: type الملكية
+title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /ar/aspose.cells.drawing/label/type/
 is_root: false
 ---
-##  type الملكية
+##  type عقار
 
-الحصول على الشكل التلقائي type.
+يحصل على الشكل التلقائي type.
 
 ###  مثال
 
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [AutoShapeType](/cells/python-net/ar/aspose.cells.drawing/autoshapetype)
-* فئة [Label](/cells/python-net/ar/aspose.cells.drawing/label)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`AutoShapeType`](/cells/python-net/ar/aspose.cells.drawing/autoshapetype)
+* فئة [`Label`](/cells/python-net/ar/aspose.cells.drawing/label)

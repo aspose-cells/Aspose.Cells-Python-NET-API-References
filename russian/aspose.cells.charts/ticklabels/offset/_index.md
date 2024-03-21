@@ -1,9 +1,9 @@
 ---
 title: offset недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ru/aspose.cells.charts/ticklabels/offset/
 is_root: false
 ---
@@ -14,7 +14,7 @@ is_root: false
 ###  Примечания
 
 Расстояние по умолчанию составляет 100 процентов, что представляет собой расстояние по умолчанию между метками оси и линией оси.
-Значение может быть целым процентом от 0 до 1000 относительно размера шрифта метки оси.
+Значение может быть целым числом в процентах от 0 до 1000 относительно размера шрифта метки оси.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def offset(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [TickLabels](/cells/python-net/ru/aspose.cells.charts/ticklabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`TickLabels`](/cells/python-net/ru/aspose.cells.charts/ticklabels)

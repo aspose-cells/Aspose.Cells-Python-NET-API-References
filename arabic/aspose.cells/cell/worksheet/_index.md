@@ -1,13 +1,13 @@
 ---
-title: worksheet الملكية
+title: worksheet عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 720
+weight: 750
 url: /ar/aspose.cells/cell/worksheet/
 is_root: false
 ---
-##  worksheet الملكية
+##  worksheet عقار
 
 يحصل على الوالد worksheet.
 ###  تعريف:
@@ -18,6 +18,6 @@ def worksheet(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

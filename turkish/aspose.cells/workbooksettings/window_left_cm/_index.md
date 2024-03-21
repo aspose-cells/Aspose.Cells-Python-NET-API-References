@@ -3,7 +3,7 @@ title: window_left_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 680
+weight: 560
 url: /tr/aspose.cells/workbooksettings/window_left_cm/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def window_left_cm(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

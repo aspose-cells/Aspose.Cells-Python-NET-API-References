@@ -3,7 +3,7 @@ title: PrintErrorsType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2380
+weight: 2470
 url: /tr/aspose.cells/printerrorstype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Yazdırma hataları sabitlerini temsil eder.
 
 
 
-PrintErrorsType türü aşağıdaki üyeleri gösterir:
+PrintErrorsType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| PRINT_ERRORS_BLANK | Hataları yazdırmamayı temsil eder.|
-| PRINT_ERRORS_DASH | Yazdırma hatalarını "--" olarak temsil eder.|
-| PRINT_ERRORS_DISPLAYED | Görüntülenen yazdırma hatalarını temsil eder.|
-| PRINT_ERRORS_NA | Yazdırma hatalarını "#N/A" olarak temsil eder.|
+| PRINT_ERRORS_BLANK | Hataların yazdırılmamasını temsil eder.|
+| PRINT_ERRORS_DASH | Hataların "--" olarak yazdırılmasını temsil eder.|
+| PRINT_ERRORS_DISPLAYED | Hataların görüntülendiği şekilde yazdırılmasını temsil eder.|
+| PRINT_ERRORS_NA | Hataların "#N/A" olarak yazdırılmasını temsil eder.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

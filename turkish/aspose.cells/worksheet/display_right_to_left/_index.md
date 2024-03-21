@@ -3,7 +3,7 @@ title: display_right_to_left mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 450
+weight: 470
 url: /tr/aspose.cells/worksheet/display_right_to_left/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def display_right_to_left(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

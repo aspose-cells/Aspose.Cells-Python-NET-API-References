@@ -3,7 +3,7 @@ title: macro_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 840
+weight: 850
 url: /fr/aspose.cells.drawing/lineshape/macro_name/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def macro_name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [LineShape](/cells/python-net/fr/aspose.cells.drawing/lineshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`LineShape`](/cells/python-net/fr/aspose.cells.drawing/lineshape)

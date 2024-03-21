@@ -1,9 +1,9 @@
 ---
 title: is_in_group недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 590
+weight: 600
 url: /ru/aspose.cells.drawing/commentshape/is_in_group/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_in_group(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CommentShape](/cells/python-net/ru/aspose.cells.drawing/commentshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CommentShape`](/cells/python-net/ru/aspose.cells.drawing/commentshape)

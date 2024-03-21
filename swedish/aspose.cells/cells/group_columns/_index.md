@@ -3,11 +3,11 @@ title: group_columns metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 540
+weight: 530
 url: /sv/aspose.cells/cells/group_columns/
 is_root: false
 ---
-##  group_columns(first_index, last_index) {#int-int}
+##  group_columns {#int-int}
 Gruppera kolumner.
 
 
@@ -24,7 +24,7 @@ def group_columns(self, first_index, last_index):
 | last_index | int | Det sista kolumnindexet som ska grupperas.|
 
 
-##  group_columns(first_index, last_index, is_hidden) {#int-int-bool}
+##  group_columns {#int-int-bool}
 Gruppera kolumner.
 
 
@@ -44,5 +44,5 @@ def group_columns(self, first_index, last_index, is_hidden):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

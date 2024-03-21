@@ -3,13 +3,13 @@ title: minor_unit_scale Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 370
 url: /de/aspose.cells.charts/axis/minor_unit_scale/
 is_root: false
 ---
 ##  minor_unit_scale Eigentum
 
-Stellt die Haupteinheitsskala für die Kategorieachse dar.
+Stellt die Haupteinheitenskala für die Kategorieachse dar.
 
 ###  Beispiel
 
@@ -18,7 +18,7 @@ from aspose.cells.charts import CategoryType, TimeUnit
 
 chart.category_axis.category_type = CategoryType.TIME_SCALE
 chart.category_axis.minor_unit_scale = TimeUnit.MONTHS
-chart.category_axis.minor_unit = 2
+chart.category_axis.minor_unit = 2.0
 
 ```
 ###  Definition:
@@ -32,6 +32,6 @@ def minor_unit_scale(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Axis](/cells/python-net/de/aspose.cells.charts/axis)
-* Klasse [TimeUnit](/cells/python-net/de/aspose.cells.charts/timeunit)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Axis`](/cells/python-net/de/aspose.cells.charts/axis)
+* Klasse [`TimeUnit`](/cells/python-net/de/aspose.cells.charts/timeunit)

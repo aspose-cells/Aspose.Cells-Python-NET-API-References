@@ -3,12 +3,12 @@ title: طريقة set_array_formula
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 310
 url: /ar/aspose.cells/cell/set_array_formula/
 is_root: false
 ---
-##  set_array_formula(array_formula, row_number, column_number) {#str-int-int}
-يعيّن صيغة صفيف (صيغة صفيف قديمة تم إدخالها عبر CTRL + SHIFT + ENTER في ms excel) إلى نطاق من الخلايا.
+##  set_array_formula {#str-int-int}
+يعين صيغة صفيف (تم إدخال صيغة الصفيف القديمة عبر CTRL + SHIFT + ENTER في مللي إكسل) إلى نطاق من الخلايا.
 
 
 
@@ -21,12 +21,12 @@ def set_array_formula(self, array_formula, row_number, column_number):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | array_formula | str | صيغة المصفوفة.|
-| row_number | int |عدد الصفوف المراد نشرها نتيجة صيغة الصفيف.|
-| column_number | int | عدد الأعمدة المراد نشرها نتيجة صيغة الصفيف.|
+| row_number | int | عدد الصفوف المراد ملؤها نتيجة صيغة الصفيف.|
+| column_number | int | عدد الأعمدة لملء نتيجة صيغة الصفيف.|
 
 
-##  set_array_formula(array_formula, row_number, column_number, options) {#str-int-int-FormulaParseOptions}
-يعيّن صيغة صفيف إلى نطاق من الخلايا.
+##  set_array_formula {#str-int-int-aspose.cells.FormulaParseOptions}
+تعيين صيغة صفيف لنطاق من الخلايا.
 
 
 
@@ -39,13 +39,13 @@ def set_array_formula(self, array_formula, row_number, column_number, options):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | array_formula | str | صيغة المصفوفة.|
-| row_number | int |عدد الصفوف المراد نشرها نتيجة صيغة الصفيف.|
-| column_number | int | عدد الأعمدة المراد نشرها نتيجة صيغة الصفيف.|
-| options | [FormulaParseOptions](/cells/python-net/ar/aspose.cells/formulaparseoptions) | خيارات لتحليل الصيغة.|
+| row_number | int | عدد الصفوف المراد ملؤها نتيجة صيغة الصفيف.|
+| column_number | int | عدد الأعمدة لملء نتيجة صيغة الصفيف.|
+| options | [`FormulaParseOptions`](/cells/python-net/ar/aspose.cells/formulaparseoptions) | خيارات لتحليل الصيغة.|
 
 
-##  set_array_formula(array_formula, row_number, column_number, is_r1c1, is_local) {#str-int-int-bool-bool}
-يعيّن صيغة صفيف إلى نطاق من الخلايا.
+##  set_array_formula {#str-int-int-bool-bool}
+تعيين صيغة صفيف لنطاق من الخلايا.
 
 
 
@@ -58,19 +58,19 @@ def set_array_formula(self, array_formula, row_number, column_number, is_r1c1, i
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | array_formula | str | صيغة المصفوفة.|
-| row_number | int |عدد الصفوف المراد نشرها نتيجة صيغة الصفيف.|
-| column_number | int | عدد الأعمدة المراد نشرها نتيجة صيغة الصفيف.|
+| row_number | int | عدد الصفوف المراد ملؤها نتيجة صيغة الصفيف.|
+| column_number | int | عدد الأعمدة لملء نتيجة صيغة الصفيف.|
 | is_r1c1 | bool | ما إذا كانت الصيغة هي صيغة R1C1|
-| is_local | bool | ما إذا كانت الصيغة منسقة محليًا|
+| is_local | bool | ما إذا كانت الصيغة منسقة بالإعدادات المحلية|
 ###  ملاحظات
 
-ملاحظة: هذه الفئة عفا عليها الزمن الآن. بدلاً من،
-الرجاء استخدام Cell.SetArrayFormula (سلسلة ، int ، int ، FormulaParseOptions).
-ستتم إزالة هذا العقار بعد 12 شهرًا منذ ديسمبر 2019.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملاحظة: هذه الفئة أصبحت الآن قديمة. بدلاً من،
+الرجاء استخدام Cell.SetArrayFormula(string,int,int,FormulaParseOptions).
+ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ ديسمبر 2019.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 
-##  set_array_formula(array_formula, row_number, column_number, options, values) {#str-int-int-FormulaParseOptions-list}
-يعيّن صيغة صفيف إلى نطاق من الخلايا.
+##  set_array_formula {#str-int-int-aspose.cells.FormulaParseOptions-list}
+تعيين صيغة صفيف لنطاق من الخلايا.
 
 
 
@@ -83,13 +83,13 @@ def set_array_formula(self, array_formula, row_number, column_number, options, v
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | array_formula | str | صيغة المصفوفة.|
-| row_number | int |عدد الصفوف المراد نشرها نتيجة صيغة الصفيف.|
-| column_number | int | عدد الأعمدة المراد نشرها نتيجة صيغة الصفيف.|
-| options | [FormulaParseOptions](/cells/python-net/ar/aspose.cells/formulaparseoptions) | خيارات لتحليل الصيغة.|
-| values | list | قيم تلك الخلايا مع صيغة صفيف معينة|
+| row_number | int | عدد الصفوف المراد ملؤها نتيجة صيغة الصفيف.|
+| column_number | int | عدد الأعمدة لملء نتيجة صيغة الصفيف.|
+| options | [`FormulaParseOptions`](/cells/python-net/ar/aspose.cells/formulaparseoptions) | خيارات لتحليل الصيغة.|
+| values | list | قيم تلك الخلايا ذات صيغة الصفيف المحددة|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

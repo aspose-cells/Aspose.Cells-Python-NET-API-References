@@ -1,9 +1,9 @@
 ---
 title: width_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /ru/aspose.cells.drawing/dialogbox/width_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.width_inch == 3:
-    shape.width_inch = 1
+    shape.width_inch = 1.0
 
 ```
 ###  Определение:
@@ -30,5 +30,5 @@ def width_inch(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [DialogBox](/cells/python-net/ru/aspose.cells.drawing/dialogbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`DialogBox`](/cells/python-net/ru/aspose.cells.drawing/dialogbox)

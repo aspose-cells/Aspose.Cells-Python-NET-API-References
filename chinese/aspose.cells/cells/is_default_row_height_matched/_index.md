@@ -1,15 +1,15 @@
 ---
-title: is_default_row_height_matched 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_default_row_height_matched属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1060
+weight: 1050
 url: /zh/aspose.cells/cells/is_default_row_height_matched/
 is_root: false
 ---
-## is_default_row_height_matched 属性
+## is_default_row_height_matched属性
 
-指示行高和默认字体高度匹配
+表示行高和默认字体高度匹配
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def is_default_row_height_matched(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

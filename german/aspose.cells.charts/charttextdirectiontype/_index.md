@@ -3,7 +3,7 @@ title: ChartTextDirectionType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 440
+weight: 450
 url: /de/aspose.cells.charts/charttextdirectiontype/
 is_root: false
 ---
@@ -17,13 +17,13 @@ Der Typ ChartTextDirectionType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| HORIZONTAL | Typ mit horizontaler Richtung.|
+| HORIZONTAL | Horizontaler Richtungstyp.|
 | VERTICAL | Vertikaler Richtungstyp.|
-| ROTATE90 | 90 Winkel drehen.|
-| ROTATE270 | 270-Winkel drehen.|
+| ROTATE90 | Um 90° drehen.|
+| ROTATE270 | Um 270° drehen.|
 | STACKED | Gestapelter Text.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

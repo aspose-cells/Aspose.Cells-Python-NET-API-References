@@ -1,15 +1,15 @@
 ---
-title: bottom 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: bottom属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 310
 url: /zh/aspose.cells.drawing/commentshape/bottom/
 is_root: false
 ---
-## bottom 属性
+## bottom属性
 
-表示形状从其下角 bottom 角行开始的垂直偏移的宽度，以像素为单位。
+表示形状相对于其下部 bottom 角行的垂直偏移的宽度（以像素为单位）。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def bottom(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CommentShape](/cells/python-net/zh/aspose.cells.drawing/commentshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CommentShape`](/cells/python-net/zh/aspose.cells.drawing/commentshape)

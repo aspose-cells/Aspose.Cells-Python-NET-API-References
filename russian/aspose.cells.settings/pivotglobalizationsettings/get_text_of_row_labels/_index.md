@@ -1,17 +1,17 @@
 ---
 title: get_text_of_row_labels метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 90
+weight: 180
 url: /ru/aspose.cells.settings/pivotglobalizationsettings/get_text_of_row_labels/
 is_root: false
 ---
-##  get_text_of_row_labels() {#}
+##  get_text_of_row_labels {#}
 Получает текст метки «Метки строк» в сводной таблице.
 
 
-###  Возвращает
+###  Возврат
 
 Текст меток строк
 
@@ -26,5 +26,5 @@ def get_text_of_row_labels(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.settings](../../)
-* класс [PivotGlobalizationSettings](/cells/python-net/ru/aspose.cells.settings/pivotglobalizationsettings)
+* модуль [`aspose.cells.settings`](../../)
+* класс [`PivotGlobalizationSettings`](/cells/python-net/ru/aspose.cells.settings/pivotglobalizationsettings)

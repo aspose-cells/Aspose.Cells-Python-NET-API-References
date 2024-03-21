@@ -3,7 +3,7 @@ title: lower_right_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 760
+weight: 770
 url: /sv/aspose.cells.drawing/dialogbox/lower_right_column/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def lower_right_column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [DialogBox](/cells/python-net/sv/aspose.cells.drawing/dialogbox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`DialogBox`](/cells/python-net/sv/aspose.cells.drawing/dialogbox)

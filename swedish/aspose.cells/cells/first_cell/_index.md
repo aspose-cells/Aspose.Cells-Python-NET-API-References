@@ -3,7 +3,7 @@ title: first_cell fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1050
+weight: 1040
 url: /sv/aspose.cells/cells/first_cell/
 is_root: false
 ---
@@ -22,6 +22,6 @@ def first_cell(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

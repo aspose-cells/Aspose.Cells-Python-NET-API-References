@@ -3,7 +3,7 @@ title: DropBars sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 140
+weight: 150
 url: /tr/aspose.cells.charts/dropbars/
 is_root: false
 ---
@@ -12,16 +12,16 @@ Bir grafikteki yukarı/aşağı çubukları temsil eder.
 
 
 
-DropBars türü aşağıdaki üyeleri gösterir:
+DropBars türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [border](/cells/python-net/tr/aspose.cells.charts/dropbars/border) | [Line](/cells/python-net/tr/aspose.cells.drawing/line) sınırını alır.|
-| [area](/cells/python-net/tr/aspose.cells.charts/dropbars/area) | [DropBars.area](/cells/python-net/tr/aspose.cells.charts/dropbars#area)'i alır.|
+| [border](/cells/python-net/tr/aspose.cells.charts/dropbars/border) | [`Line`](/cells/python-net/tr/aspose.cells.drawing/line) sınırını alır.|
+| [area](/cells/python-net/tr/aspose.cells.charts/dropbars/area) | [`DropBars.area`](/cells/python-net/tr/aspose.cells.charts/dropbars#area)'i alır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
-* sınıf [Line](/cells/python-net/tr/aspose.cells.drawing/line)
+* modül [`aspose.cells.charts`](..)
+* sınıf [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)

@@ -3,7 +3,7 @@ title: height_pt mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 520
+weight: 530
 url: /tr/aspose.cells.drawing/arcshape/height_pt/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Nokta birimi cinsinden şeklin yüksekliğini temsil eder.
 ```python
 
 if shape.height_pt == 3:
-    shape.height_pt = 1
+    shape.height_pt = 1.0
 
 ```
 ###  Tanım:
@@ -30,5 +30,5 @@ def height_pt(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ArcShape](/cells/python-net/tr/aspose.cells.drawing/arcshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ArcShape`](/cells/python-net/tr/aspose.cells.drawing/arcshape)

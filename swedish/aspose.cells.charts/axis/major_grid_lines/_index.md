@@ -3,7 +3,7 @@ title: major_grid_lines fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 280
 url: /sv/aspose.cells.charts/axis/major_grid_lines/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def major_grid_lines(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Axis](/cells/python-net/sv/aspose.cells.charts/axis)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Axis`](/cells/python-net/sv/aspose.cells.charts/axis)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)

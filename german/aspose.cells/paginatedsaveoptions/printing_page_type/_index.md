@@ -3,7 +3,7 @@ title: printing_page_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 210
+weight: 220
 url: /de/aspose.cells/paginatedsaveoptions/printing_page_type/
 is_root: false
 ---
@@ -13,12 +13,12 @@ Gibt an, welche Seiten nicht gedruckt werden.
 
 ###  Bemerkungen
 
-Wenn der Inhalt des Blatts spärlich ist, werden einige Seiten in der PDF-Ausgabedatei vollständig leer sein.
+Wenn der Inhalt des Blatts spärlich ist, sind einige Seiten in der ausgegebenen PDF-Datei völlig leer.
 Wenn Sie diese leeren Seiten nicht möchten, können Sie sie mit dieser Option weglassen.
 
 ###  Beispiel
 
-Der folgende Code lässt leere Seiten oder Seiten aus, die nur einige Stilinhalte wie Zellenhintergrund oder Rahmen enthalten.
+Der folgende Code lässt leere Seiten oder Seiten weg, die nur einige Stilinhalte wie Zellhintergrund und Rahmen enthalten.
 
 ```python
 from aspose.cells import PdfSaveOptions, PrintingPageType, Workbook
@@ -44,6 +44,6 @@ def printing_page_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PaginatedSaveOptions](/cells/python-net/de/aspose.cells/paginatedsaveoptions)
-* Klasse [PrintingPageType](/cells/python-net/de/aspose.cells/printingpagetype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PaginatedSaveOptions`](/cells/python-net/de/aspose.cells/paginatedsaveoptions)
+* Klasse [`PrintingPageType`](/cells/python-net/de/aspose.cells/printingpagetype)

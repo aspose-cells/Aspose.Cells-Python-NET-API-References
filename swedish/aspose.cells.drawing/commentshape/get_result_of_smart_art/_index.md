@@ -3,11 +3,11 @@ title: get_result_of_smart_art metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 130
 url: /sv/aspose.cells.drawing/commentshape/get_result_of_smart_art/
 is_root: false
 ---
-##  get_result_of_smart_art() {#}
+##  get_result_of_smart_art {#}
 Konvertera smart konst till grupperade former.
 
 
@@ -23,12 +23,13 @@ def get_result_of_smart_art(self):
 
 ```python
 
-groupShape = shape.get_result_of_smart_art()
+if shape.is_smart_art:
+    groupShape = shape.get_result_of_smart_art()
 
 ```
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CommentShape](/cells/python-net/sv/aspose.cells.drawing/commentshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CommentShape`](/cells/python-net/sv/aspose.cells.drawing/commentshape)

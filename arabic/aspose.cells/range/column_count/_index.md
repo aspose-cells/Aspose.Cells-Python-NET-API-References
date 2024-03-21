@@ -1,13 +1,13 @@
 ---
-title: column_count الملكية
+title: column_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 270
 url: /ar/aspose.cells/range/column_count/
 is_root: false
 ---
-##  column_count الملكية
+##  column_count عقار
 
 الحصول على عدد الأعمدة في النطاق.
 ###  تعريف:
@@ -18,5 +18,5 @@ def column_count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

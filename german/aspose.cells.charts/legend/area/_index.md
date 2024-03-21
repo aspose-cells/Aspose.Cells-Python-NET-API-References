@@ -3,13 +3,13 @@ title: area Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 60
 url: /de/aspose.cells.charts/legend/area/
 is_root: false
 ---
 ##  area Eigentum
 
-Ruft die [ChartFrame.area](/cells/python-net/de/aspose.cells.charts/chartframe#area) ab.
+Ruft die [`ChartFrame.area`](/cells/python-net/de/aspose.cells.charts/chartframe#area) ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Area](/cells/python-net/de/aspose.cells.drawing/area)
-* Klasse [Legend](/cells/python-net/de/aspose.cells.charts/legend)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Area`](/cells/python-net/de/aspose.cells.drawing/area)
+* Klasse [`Legend`](/cells/python-net/de/aspose.cells.charts/legend)

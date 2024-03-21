@@ -1,17 +1,17 @@
 ---
 title: is_same_setting方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 150
 url: /zh/aspose.cells.drawing/rectangleshape/is_same_setting/
 is_root: false
 ---
-##  is_same_setting(obj) {#any}
+##  is_same_setting {#any}
 返回形状是否相同。
 
 
-### 返回
+### 退货
 
 
 
@@ -38,5 +38,5 @@ if shape.is_same_setting(shape):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [RectangleShape](/cells/python-net/zh/aspose.cells.drawing/rectangleshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`RectangleShape`](/cells/python-net/zh/aspose.cells.drawing/rectangleshape)

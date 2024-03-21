@@ -1,13 +1,13 @@
 ---
-title: TickMarkType dénombrement
+title: TickMarkType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 650
+weight: 660
 url: /fr/aspose.cells.charts/tickmarktype/
 is_root: false
 ---
-##  TickMarkType dénombrement
+##  TickMarkType énumération
 Représente le type de graduation pour l'axe spécifié.
 
 
@@ -18,11 +18,11 @@ Le type TickMarkType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | CROSS | Le type de coche est Croix.|
-| INSIDE | Le type de coche est Intérieur.|
-| NONE |Le type de coche est Aucun.|
-| OUTSIDE | Le type de coche est Extérieur|
+| INSIDE | Le type de coche est À l’intérieur.|
+| NONE | Le type de coche est Aucun.|
+| OUTSIDE | Le type de coche est À l'extérieur|
 
 
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

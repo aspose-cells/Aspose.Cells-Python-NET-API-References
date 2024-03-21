@@ -1,15 +1,15 @@
 ---
 title: minor_unit_scale недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 360
+weight: 370
 url: /ru/aspose.cells.charts/axis/minor_unit_scale/
 is_root: false
 ---
 ##  minor_unit_scale недвижимость
 
-Представляет шкалу основных единиц для оси категорий.
+Представляет шкалу основных единиц оси категорий.
 
 ###  Пример
 
@@ -18,7 +18,7 @@ from aspose.cells.charts import CategoryType, TimeUnit
 
 chart.category_axis.category_type = CategoryType.TIME_SCALE
 chart.category_axis.minor_unit_scale = TimeUnit.MONTHS
-chart.category_axis.minor_unit = 2
+chart.category_axis.minor_unit = 2.0
 
 ```
 ###  Определение:
@@ -32,6 +32,6 @@ def minor_unit_scale(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
-* класс [TimeUnit](/cells/python-net/ru/aspose.cells.charts/timeunit)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)
+* класс [`TimeUnit`](/cells/python-net/ru/aspose.cells.charts/timeunit)

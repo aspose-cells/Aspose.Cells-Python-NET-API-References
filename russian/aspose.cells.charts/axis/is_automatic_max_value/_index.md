@@ -1,15 +1,15 @@
 ---
 title: is_automatic_max_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ru/aspose.cells.charts/axis/is_automatic_max_value/
 is_root: false
 ---
 ##  is_automatic_max_value недвижимость
 
-Указывает, присваивается ли максимальное значение автоматически.
+Указывает, назначается ли максимальное значение автоматически.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_automatic_max_value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)

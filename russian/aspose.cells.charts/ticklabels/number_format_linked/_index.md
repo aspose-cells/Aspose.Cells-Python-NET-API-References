@@ -1,16 +1,16 @@
 ---
 title: number_format_linked недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ru/aspose.cells.charts/ticklabels/number_format_linked/
 is_root: false
 ---
 ##  number_format_linked недвижимость
 
  Истинно, если числовой формат связан с ячейками
-(чтобы формат числа менялся в метках при изменении в ячейках).
+(чтобы формат числа менялся в метках при его изменении в ячейках).
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def number_format_linked(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [TickLabels](/cells/python-net/ru/aspose.cells.charts/ticklabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`TickLabels`](/cells/python-net/ru/aspose.cells.charts/ticklabels)

@@ -1,15 +1,15 @@
 ---
 title: x недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1300
+weight: 1310
 url: /ru/aspose.cells.drawing/listbox/x/
 is_root: false
 ---
 ##  x недвижимость
 
-Получает и задает горизонтальное смещение фигуры от левой границы рабочего листа в единицах пикселей.
+Получает и задает горизонтальное смещение фигуры от левой границы листа в пикселях.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def x(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ListBox](/cells/python-net/ru/aspose.cells.drawing/listbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ListBox`](/cells/python-net/ru/aspose.cells.drawing/listbox)

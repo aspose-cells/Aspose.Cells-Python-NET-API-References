@@ -3,7 +3,7 @@ title: x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 420
 url: /sv/aspose.cells.charts/legend/x/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def x(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Legend](/cells/python-net/sv/aspose.cells.charts/legend)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Legend`](/cells/python-net/sv/aspose.cells.charts/legend)

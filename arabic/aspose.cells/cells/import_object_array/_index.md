@@ -3,12 +3,12 @@ title: طريقة import_object_array
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 670
+weight: 660
 url: /ar/aspose.cells/cells/import_object_array/
 is_root: false
 ---
-##  import_object_array(obj_array, first_row, first_column, is_vertical) {#list-int-int-bool}
-يستورد مصفوفة من البيانات في ورقة عمل.
+##  import_object_array {#list-int-int-bool}
+استيراد مجموعة من البيانات إلى ورقة عمل.
 
 
 
@@ -20,14 +20,14 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| obj_array | list | مجموعة البيانات.|
-| first_row | int | رقم صف الخلية الأولى المطلوب الاستيراد فيها.|
-| first_column | int | رقم العمود الخاص بالخلية الأولى التي سيتم الاستيراد فيها.|
-| is_vertical | bool | يُحدد لاستيراد البيانات عموديًا أو أفقيًا.|
+| obj_array | list | مصفوفة البيانات.|
+| first_row | int | رقم الصف للخلية الأولى المراد الاستيراد فيها.|
+| first_column | int | رقم عمود الخلية الأولى المراد الاستيراد فيها.|
+| is_vertical | bool | يحدد لاستيراد البيانات عموديا أو أفقيا.|
 
 
-##  import_object_array(obj_array, first_row, first_column, is_vertical, skip) {#list-int-int-bool-int}
-يستورد مصفوفة من البيانات في ورقة عمل.
+##  import_object_array {#list-int-int-bool-int}
+استيراد مجموعة من البيانات إلى ورقة عمل.
 
 
 
@@ -39,14 +39,14 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical, s
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| obj_array | list | مجموعة البيانات.|
-| first_row | int | رقم صف الخلية الأولى المطلوب الاستيراد فيها.|
-| first_column | int | رقم العمود الخاص بالخلية الأولى التي سيتم الاستيراد فيها.|
-| is_vertical | bool | يُحدد لاستيراد البيانات عموديًا أو أفقيًا.|
+| obj_array | list | مصفوفة البيانات.|
+| first_row | int | رقم الصف للخلية الأولى المراد الاستيراد فيها.|
+| first_column | int | رقم عمود الخلية الأولى المراد الاستيراد فيها.|
+| is_vertical | bool | يحدد لاستيراد البيانات عموديا أو أفقيا.|
 | skip | int | تم تخطي عدد الصفوف أو الأعمدة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

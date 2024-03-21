@@ -1,9 +1,9 @@
 ---
 title: FontSourceBase класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 680
+weight: 710
 url: /ru/aspose.cells/fontsourcebase/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип FontSourceBase предоставляет следующие члены:
+Тип FontSourceBase предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -22,4 +22,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

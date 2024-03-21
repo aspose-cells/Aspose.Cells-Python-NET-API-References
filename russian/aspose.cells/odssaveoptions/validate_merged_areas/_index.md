@@ -1,9 +1,9 @@
 ---
 title: validate_merged_areas недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells/odssaveoptions/validate_merged_areas/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def validate_merged_areas(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [OdsSaveOptions](/cells/python-net/ru/aspose.cells/odssaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`OdsSaveOptions`](/cells/python-net/ru/aspose.cells/odssaveoptions)

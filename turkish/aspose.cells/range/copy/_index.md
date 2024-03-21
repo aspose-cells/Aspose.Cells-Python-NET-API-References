@@ -3,12 +3,12 @@ title: copy yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 50
 url: /tr/aspose.cells/range/copy/
 is_root: false
 ---
-##  copy(range) {#Range}
-Bir kaynak aralıktan verileri (formüller dahil), biçimlendirmeyi, çizim nesnelerini vb. kopyalar.
+##  copy {#aspose.cells.Range}
+Kaynak aralığından verileri (formüller dahil), biçimlendirmeyi, çizim nesnelerini vb. kopyalar.
 
 
 
@@ -20,7 +20,7 @@ def copy(self, range):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/tr/aspose.cells/range) | Kaynak [Range](/cells/python-net/tr/aspose.cells/range) nesnesi.|
+| range | [`Range`](/cells/python-net/tr/aspose.cells/range) |Kaynak [`Range`](/cells/python-net/tr/aspose.cells/range) nesnesi.|
 
 ###  Örnek
 
@@ -41,8 +41,8 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  copy(range, options) {#Range-PasteOptions}
-Özel seçenekleri yapıştırarak aralığı kopyalama.
+##  copy {#aspose.cells.Range-aspose.cells.PasteOptions}
+Aralığın özel yapıştırma seçenekleriyle kopyalanması.
 
 
 
@@ -54,11 +54,11 @@ def copy(self, range, options):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/tr/aspose.cells/range) | Kaynak aralığı.|
-| options | [PasteOptions](/cells/python-net/tr/aspose.cells/pasteoptions) | Yapıştır özel seçenekler.|
+| range | [`Range`](/cells/python-net/tr/aspose.cells/range) | Kaynak aralığı.|
+| options | [`PasteOptions`](/cells/python-net/tr/aspose.cells/pasteoptions) | Yapıştırma özel seçenekleri.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
+* modül [`aspose.cells`](../../)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)

@@ -3,7 +3,7 @@ title: standard_height mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1250
+weight: 1240
 url: /tr/aspose.cells/cells/standard_height/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def standard_height(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

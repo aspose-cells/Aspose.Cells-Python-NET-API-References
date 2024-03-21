@@ -3,7 +3,7 @@ title: hyperlink mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 510
+weight: 520
 url: /tr/aspose.cells.drawing/listbox/hyperlink/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Hyperlink](/cells/python-net/tr/aspose.cells/hyperlink)
-* sınıf [ListBox](/cells/python-net/tr/aspose.cells.drawing/listbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Hyperlink`](/cells/python-net/tr/aspose.cells/hyperlink)
+* sınıf [`ListBox`](/cells/python-net/tr/aspose.cells.drawing/listbox)

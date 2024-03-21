@@ -3,7 +3,7 @@ title: spid propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 890
+weight: 900
 url: /fr/aspose.cells.drawing/label/spid/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Label](/cells/python-net/fr/aspose.cells.drawing/label)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Label`](/cells/python-net/fr/aspose.cells.drawing/label)

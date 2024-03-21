@@ -1,18 +1,18 @@
 ---
-title: العد DefaultEditLanguage
+title: DefaultEditLanguage التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1950
+weight: 2020
 url: /ar/aspose.cells/defaulteditlanguage/
 is_root: false
 ---
-##  العد DefaultEditLanguage
+##  DefaultEditLanguage التعداد
 يمثل لغة التحرير الافتراضية.
 
 
 
-يكشف نوع DefaultEditLanguage الأعضاء التالية:
+يكشف النوع DefaultEditLanguage عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

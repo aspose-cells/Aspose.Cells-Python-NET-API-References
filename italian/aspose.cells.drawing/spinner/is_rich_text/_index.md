@@ -3,7 +3,7 @@ title: is_rich_text proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 650
+weight: 660
 url: /it/aspose.cells.drawing/spinner/is_rich_text/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def is_rich_text(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Spinner](/cells/python-net/it/aspose.cells.drawing/spinner)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Spinner`](/cells/python-net/it/aspose.cells.drawing/spinner)

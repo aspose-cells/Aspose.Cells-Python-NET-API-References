@@ -3,7 +3,7 @@ title: is_default_row_hidden proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1070
+weight: 1060
 url: /it/aspose.cells/cells/is_default_row_hidden/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_default_row_hidden(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

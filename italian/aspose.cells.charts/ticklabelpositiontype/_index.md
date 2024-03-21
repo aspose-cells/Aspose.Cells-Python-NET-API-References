@@ -1,18 +1,18 @@
 ---
-title: TickLabelPositionType enumerazione
+title: Enumerazione TickLabelPositionType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 640
+weight: 650
 url: /it/aspose.cells.charts/ticklabelpositiontype/
 is_root: false
 ---
-##  TickLabelPositionType enumerazione
+##  Enumerazione TickLabelPositionType
 Rappresenta il tipo di posizione delle etichette dei segni di graduazione sull'asse specificato.
 
 
 
-Il tipo TickLabelPositionType espone i membri seguenti:
+Il tipo TickLabelPositionType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -25,4 +25,4 @@ Il tipo TickLabelPositionType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
+* modulo [`aspose.cells.charts`](..)

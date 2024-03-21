@@ -3,11 +3,11 @@ title: row_index_to_name metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 180
 url: /sv/aspose.cells/cellshelper/row_index_to_name/
 is_root: false
 ---
-##  row_index_to_name(row) {#int}
+##  row_index_to_name {#int}
 Hämtar radnamn enligt radindex.
 
 
@@ -29,5 +29,5 @@ def row_index_to_name(self, row):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsHelper](/cells/python-net/sv/aspose.cells/cellshelper)
+* modul [`aspose.cells`](../../)
+* klass [`CellsHelper`](/cells/python-net/sv/aspose.cells/cellshelper)

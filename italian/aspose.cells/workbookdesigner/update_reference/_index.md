@@ -3,7 +3,7 @@ title: update_reference proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 120
+weight: 130
 url: /it/aspose.cells/workbookdesigner/update_reference/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorkbookDesigner](/cells/python-net/it/aspose.cells/workbookdesigner)
+* modulo [`aspose.cells`](../../)
+* classe [`WorkbookDesigner`](/cells/python-net/it/aspose.cells/workbookdesigner)

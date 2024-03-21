@@ -1,19 +1,19 @@
 ---
-title: min_value الملكية
+title: min_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ar/aspose.cells.charts/axis/min_value/
 is_root: false
 ---
-##  min_value الملكية
+##  min_value عقار
 
 يمثل الحد الأدنى للقيمة على محور القيمة.
 
 ###  ملاحظات
 
-يمكن أن يكون نوع minValue فقط مزدوجًا أو DateTime
+يمكن أن يكون نوع minValue مزدوجًا أو DateTime فقط
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def min_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)

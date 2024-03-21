@@ -1,15 +1,16 @@
 ---
-title: parse_html_tag_in_cell الملكية
+title: parse_html_tag_in_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 590
 url: /ar/aspose.cells/htmlsaveoptions/parse_html_tag_in_cell/
 is_root: false
 ---
-##  parse_html_tag_in_cell الملكية
+##  parse_html_tag_in_cell عقار
 
-تحليل علامة html في الخلية ، مثل ، كقيمة خلية ، أو علامة html ، الافتراضي هو true
+يشير إلى ما إذا كان يجب تحليل علامة html (مثل `<div></div>`) في الخلية كقيمة خلية أو الاحتفاظ بها كما هي.
+القيمة الافتراضية هي الحقيقية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +22,5 @@ def parse_html_tag_in_cell(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

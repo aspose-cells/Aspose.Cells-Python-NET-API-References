@@ -3,7 +3,7 @@ title: match_entire_cell_contents propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 40
+weight: 50
 url: /fr/aspose.cells/replaceoptions/match_entire_cell_contents/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def match_entire_cell_contents(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ReplaceOptions](/cells/python-net/fr/aspose.cells/replaceoptions)
+* module [`aspose.cells`](../../)
+* classe [`ReplaceOptions`](/cells/python-net/fr/aspose.cells/replaceoptions)

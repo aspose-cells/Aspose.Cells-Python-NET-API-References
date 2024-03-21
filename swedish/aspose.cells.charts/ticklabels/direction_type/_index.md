@@ -3,7 +3,7 @@ title: direction_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 50
+weight: 60
 url: /sv/aspose.cells.charts/ticklabels/direction_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def direction_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartTextDirectionType](/cells/python-net/sv/aspose.cells.charts/charttextdirectiontype)
-* klass [TickLabels](/cells/python-net/sv/aspose.cells.charts/ticklabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartTextDirectionType`](/cells/python-net/sv/aspose.cells.charts/charttextdirectiontype)
+* klass [`TickLabels`](/cells/python-net/sv/aspose.cells.charts/ticklabels)

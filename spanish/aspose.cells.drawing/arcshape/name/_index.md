@@ -3,7 +3,7 @@ title: name propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 860
+weight: 870
 url: /es/aspose.cells.drawing/arcshape/name/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ArcShape](/cells/python-net/es/aspose.cells.drawing/arcshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ArcShape`](/cells/python-net/es/aspose.cells.drawing/arcshape)

@@ -1,29 +1,29 @@
 ---
-title: ConditionalFormattingResult الدرجة
+title: ConditionalFormattingResult صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 340
 url: /ar/aspose.cells/conditionalformattingresult/
 is_root: false
 ---
-##  ConditionalFormattingResult الدرجة
-يمثل نتيجة التنسيق الشرطي الذي ينطبق على خلية.
+##  ConditionalFormattingResult صف
+يمثل نتيجة التنسيق الشرطي الذي ينطبق على الخلية.
 
 
 
-يكشف نوع ConditionalFormattingResult الأعضاء التالية:
+يكشف النوع ConditionalFormattingResult عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [conditional_style](/cells/python-net/ar/aspose.cells/conditionalformattingresult/conditional_style) | يحصل على نمط النتيجة الشرطي.|
-| [conditional_formatting_icon](/cells/python-net/ar/aspose.cells/conditionalformattingresult/conditional_formatting_icon) | يحصل على صورة مجموعة الأيقونات.|
-| [conditional_formatting_data_bar](/cells/python-net/ar/aspose.cells/conditionalformattingresult/conditional_formatting_data_bar) |يحصل على كائن DataBar.|
+| [conditional_style](/cells/python-net/ar/aspose.cells/conditionalformattingresult/conditional_style) | يحصل على نمط النتيجة الشرطية.|
+| [conditional_formatting_icon](/cells/python-net/ar/aspose.cells/conditionalformattingresult/conditional_formatting_icon) | يحصل على صورة مجموعة الرموز.|
+| [conditional_formatting_data_bar](/cells/python-net/ar/aspose.cells/conditionalformattingresult/conditional_formatting_data_bar) | يحصل على كائن DataBar.|
 | [conditional_formatting_color_scale](/cells/python-net/ar/aspose.cells/conditionalformattingresult/conditional_formatting_color_scale) | يحصل على كائن ColorScale.|
-| [color_scale_result](/cells/python-net/ar/aspose.cells/conditionalformattingresult/color_scale_result) | الحصول على لون عرض مقياس اللون.|
+| [color_scale_result](/cells/python-net/ar/aspose.cells/conditionalformattingresult/color_scale_result) | يحصل على لون العرض لمقياس الألوان.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

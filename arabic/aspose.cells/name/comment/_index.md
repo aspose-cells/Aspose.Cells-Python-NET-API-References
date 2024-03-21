@@ -1,5 +1,5 @@
 ---
-title: comment الملكية
+title: comment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 80
 url: /ar/aspose.cells/name/comment/
 is_root: false
 ---
-##  comment الملكية
+##  comment عقار
 
-الحصول على comment للاسم وتعيينه.
-ينطبق فقط على Excel 2007.
+الحصول على الرقم comment من الاسم وتعيينه.
+ينطبق فقط على Excel 2007 أو الإصدارات الأحدث.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def comment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Name](/cells/python-net/ar/aspose.cells/name)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Name`](/cells/python-net/ar/aspose.cells/name)

@@ -3,7 +3,7 @@ title: active_x_control propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 240
+weight: 260
 url: /fr/aspose.cells.drawing/lineshape/active_x_control/
 is_root: false
 ---
@@ -17,9 +17,10 @@ Obtient le contrôle ActiveX.
 from aspose import pycore
 from aspose.cells.drawing.activexcontrols import CheckBoxActiveXControl
 
-checkBox1 = pycore.cast(CheckBoxActiveXControl, shape.active_x_control)
-# The font name of CheckBox
-fontName = checkBox1.font.name
+if shape.active_x_control != None:
+    checkBox1 = pycore.cast(CheckBoxActiveXControl, shape.active_x_control)
+    # The font name of CheckBox
+    fontName = checkBox1.font.name
 
 ```
 ###  Définition:
@@ -30,6 +31,6 @@ def active_x_control(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/activexcontrol)
-* classe [LineShape](/cells/python-net/fr/aspose.cells.drawing/lineshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/activexcontrol)
+* classe [`LineShape`](/cells/python-net/fr/aspose.cells.drawing/lineshape)

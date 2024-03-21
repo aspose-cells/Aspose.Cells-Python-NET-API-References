@@ -1,0 +1,26 @@
+---
+title: export_comments_type mülk
+second_title: Aspose.Cells for Python via .NET API Referanslar
+description:
+type: docs
+weight: 200
+url: /tr/aspose.cells.saving/ebooksaveoptions/export_comments_type/
+is_root: false
+---
+##  export_comments_type mülk
+
+Yorumları html dosyalarına aktarma türünü temsil eder.
+###  Tanım:
+```python
+@property
+def export_comments_type(self):
+    ...
+@export_comments_type.setter
+def export_comments_type(self, value):
+    ...
+```
+
+###  Ayrıca bakınız
+* modül [`aspose.cells.saving`](../../)
+* sınıf [`EbookSaveOptions`](/cells/python-net/tr/aspose.cells.saving/ebooksaveoptions)
+* sınıf [`PrintCommentsType`](/cells/python-net/tr/aspose.cells/printcommentstype)

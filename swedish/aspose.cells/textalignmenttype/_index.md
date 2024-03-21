@@ -3,7 +3,7 @@ title: TextAlignmentType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2520
+weight: 2610
 url: /sv/aspose.cells/textalignmenttype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Typen TextAlignmentType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| GENERAL | Representerar allmän textjustering.|
+| GENERAL |Representerar allmän textjustering.|
 | BOTTOM | Representerar nedre textjustering.|
 | CENTER | Representerar centrerad textjustering.|
 | CENTER_ACROSS | Representerar mitten över textjusteringen.|
@@ -26,11 +26,11 @@ Typen TextAlignmentType avslöjar följande medlemmar:
 | JUSTIFY | Representerar justera textjustering.|
 | LEFT | Representerar vänster textjustering.|
 | RIGHT | Representerar höger textjustering.|
-| TOP | Representerar översta textjustering.|
-| JUSTIFIED_LOW |Justerar texten med en justerad kashida-längd för arabisk text.|
+| TOP | Representerar topptextjustering.|
+| JUSTIFIED_LOW | Justerar texten med en justerad kashida-längd för arabisk text.|
 | THAI_DISTRIBUTED | Distribuerar thailändsk text speciellt, eftersom varje tecken behandlas som ett ord.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

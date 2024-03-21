@@ -3,13 +3,13 @@ title: bubble_sizes propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 80
 url: /fr/aspose.cells.charts/series/bubble_sizes/
 is_root: false
 ---
 ##  bubble_sizes propriété
 
-Obtient ou définit les valeurs de tailles de bulles de la série de graphiques.
+Obtient ou définit les valeurs de taille des bulles de la série de graphiques.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def bubble_sizes(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

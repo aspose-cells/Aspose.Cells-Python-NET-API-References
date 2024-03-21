@@ -3,7 +3,7 @@ title: number proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 90
+weight: 100
 url: /it/aspose.cells.charts/ticklabels/number/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def number(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [TickLabels](/cells/python-net/it/aspose.cells.charts/ticklabels)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`TickLabels`](/cells/python-net/it/aspose.cells.charts/ticklabels)

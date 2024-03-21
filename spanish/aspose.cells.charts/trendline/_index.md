@@ -3,7 +3,7 @@ title: Trendline clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 330
+weight: 340
 url: /es/aspose.cells.charts/trendline/
 is_root: false
 ---
@@ -12,8 +12,8 @@ Representa una línea de tendencia en un gráfico.
 
 
 
-**Herencia:** [Trendline](/cells/python-net/aspose.cells.charts/trendline) → 
-[Line](/cells/python-net/es/aspose.cells.drawing/line)
+**Herencia:** [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) → 
+[`Line`](/cells/python-net/es/aspose.cells.drawing/line)
 
 
 
@@ -22,40 +22,40 @@ El tipo Trendline expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [compound_type](/cells/python-net/es/aspose.cells.charts/trendline/compound_type) | Especifica el tipo de línea compuesta|
+| [compound_type](/cells/python-net/es/aspose.cells.charts/trendline/compound_type) | Especifica el tipo de línea compuesta.|
 | [dash_type](/cells/python-net/es/aspose.cells.charts/trendline/dash_type) | Especifica el tipo de línea discontinua|
-| [cap_type](/cells/python-net/es/aspose.cells.charts/trendline/cap_type) | Especifica las mayúsculas finales.|
+| [cap_type](/cells/python-net/es/aspose.cells.charts/trendline/cap_type) |Especifica las mayúsculas finales.|
 | [join_type](/cells/python-net/es/aspose.cells.charts/trendline/join_type) | Especifica las tapas de unión.|
-| [begin_type](/cells/python-net/es/aspose.cells.charts/trendline/begin_type) |Especifica una punta de flecha para el comienzo de una línea.|
+| [begin_type](/cells/python-net/es/aspose.cells.charts/trendline/begin_type) | Especifica una punta de flecha para el comienzo de una línea.|
 | [end_type](/cells/python-net/es/aspose.cells.charts/trendline/end_type) | Especifica una punta de flecha para el final de una línea.|
 | [begin_arrow_length](/cells/python-net/es/aspose.cells.charts/trendline/begin_arrow_length) | Especifica la longitud de la punta de flecha para el comienzo de una línea.|
-| [end_arrow_length](/cells/python-net/es/aspose.cells.charts/trendline/end_arrow_length) | Especifica la longitud de la punta de flecha para el final de una línea.|
+| [end_arrow_length](/cells/python-net/es/aspose.cells.charts/trendline/end_arrow_length) | Especifica la longitud de la punta de flecha al final de una línea.|
 | [begin_arrow_width](/cells/python-net/es/aspose.cells.charts/trendline/begin_arrow_width) | Especifica el ancho de la punta de flecha para el comienzo de una línea.|
-| [end_arrow_width](/cells/python-net/es/aspose.cells.charts/trendline/end_arrow_width) | Especifica el ancho de la punta de flecha para el final de una línea.|
+| [end_arrow_width](/cells/python-net/es/aspose.cells.charts/trendline/end_arrow_width) | Especifica el ancho de la punta de flecha al final de una línea.|
 | [theme_color](/cells/python-net/es/aspose.cells.charts/trendline/theme_color) | Obtiene y establece el color del tema.|
-| [color](/cells/python-net/es/aspose.cells.charts/trendline/color) | Representa el Color de la línea.|
-| [transparency](/cells/python-net/es/aspose.cells.charts/trendline/transparency) | Devuelve o establece el grado de transparencia de la línea como un valor de 0,0 (opaco) a 1,0 (transparente).|
+| [color](/cells/python-net/es/aspose.cells.charts/trendline/color) | Representa el color de la línea.|
+| [transparency](/cells/python-net/es/aspose.cells.charts/trendline/transparency) | Devuelve o establece el grado de transparencia de la línea como un valor de 0,0 (opaco) a 1,0 (claro).|
 | [style](/cells/python-net/es/aspose.cells.charts/trendline/style) | Representa el estilo de la línea.|
-| [weight](/cells/python-net/es/aspose.cells.charts/trendline/weight) | Obtiene o establece el [WeightType](/cells/python-net/es/aspose.cells.drawing/weighttype) de la línea.|
-| [weight_pt](/cells/python-net/es/aspose.cells.charts/trendline/weight_pt) | Obtiene o establece el grosor de la línea en unidades de puntos.|
+| [weight](/cells/python-net/es/aspose.cells.charts/trendline/weight) | Obtiene o establece el [`WeightType`](/cells/python-net/es/aspose.cells.drawing/weighttype) de la línea.|
+| [weight_pt](/cells/python-net/es/aspose.cells.charts/trendline/weight_pt) | Obtiene o establece el peso de la línea en unidades de puntos.|
 | [weight_px](/cells/python-net/es/aspose.cells.charts/trendline/weight_px) | Obtiene o establece el peso de la línea en unidades de píxeles.|
 | [formatting_type](/cells/python-net/es/aspose.cells.charts/trendline/formatting_type) | Obtiene o establece el tipo de formato.|
 | [is_automatic_color](/cells/python-net/es/aspose.cells.charts/trendline/is_automatic_color) | Indica si el color de la línea se asigna automáticamente.|
 | [is_visible](/cells/python-net/es/aspose.cells.charts/trendline/is_visible) | Representa si la línea es visible.|
-| [is_auto](/cells/python-net/es/aspose.cells.charts/trendline/is_auto) | Indica si este estilo de línea se asigna automáticamente.|
+| [is_auto](/cells/python-net/es/aspose.cells.charts/trendline/is_auto) |Indica si este estilo de línea se asigna automáticamente.|
 | [gradient_fill](/cells/python-net/es/aspose.cells.charts/trendline/gradient_fill) | Representa relleno degradado.|
 | [is_name_auto](/cells/python-net/es/aspose.cells.charts/trendline/is_name_auto) | Devuelve si Microsoft Excel determina automáticamente el nombre de la línea de tendencia.|
 | [type](/cells/python-net/es/aspose.cells.charts/trendline/type) | Devuelve el tipo de línea de tendencia.|
 | [name](/cells/python-net/es/aspose.cells.charts/trendline/name) | Devuelve el nombre de la línea de tendencia.|
-| [order](/cells/python-net/es/aspose.cells.charts/trendline/order) | Devuelve o establece el orden de la línea de tendencia (un número entero mayor que 1) cuando el tipo de línea de tendencia es Polinomial.<br/> El orden debe ser entre 2 y 6.|
-| [period](/cells/python-net/es/aspose.cells.charts/trendline/period) | Devuelve o establece el período de la línea de tendencia del promedio móvil.|
-| [forward](/cells/python-net/es/aspose.cells.charts/trendline/forward) | Devuelve o establece el número de períodos (o unidades en un gráfico de dispersión) que la línea de tendencia se extiende hacia delante.<br/> El número de periodos debe ser mayor o igual a cero.|
-| [backward](/cells/python-net/es/aspose.cells.charts/trendline/backward) | Devuelve o establece el número de períodos (o unidades en un gráfico de dispersión) que la línea de tendencia se extiende hacia atrás.<br/>El número de periodos debe ser mayor o igual a cero.<br/> Si el tipo de gráfico es columna, el número de períodos debe estar entre 0 y 0,5|
-| [display_equation](/cells/python-net/es/aspose.cells.charts/trendline/display_equation) |Representa si la ecuación de la línea de tendencia se muestra en el gráfico (en la misma etiqueta de datos que el valor R-cuadrado). Establecer esta propiedad en True activa automáticamente las etiquetas de datos.|
+| [order](/cells/python-net/es/aspose.cells.charts/trendline/order) | Devuelve o establece el orden de la línea de tendencia (un número entero mayor que 1) cuando el tipo de línea de tendencia es Polinomio.<br/>El pedido debe ser entre 2 y 6.|
+| [period](/cells/python-net/es/aspose.cells.charts/trendline/period) | Devuelve o establece el período de la línea de tendencia de la media móvil.|
+| [forward](/cells/python-net/es/aspose.cells.charts/trendline/forward) | Devuelve o establece el número de períodos (o unidades en un gráfico de dispersión) que la línea de tendencia se extiende hacia adelante.<br/> El número de períodos debe ser mayor o igual a cero.|
+| [backward](/cells/python-net/es/aspose.cells.charts/trendline/backward) | Devuelve o establece el número de períodos (o unidades en un gráfico de dispersión) que la línea de tendencia se extiende hacia atrás.<br/>El número de períodos debe ser mayor o igual a cero.<br/> Si el tipo de gráfico es de columna, el número de períodos debe estar entre 0 y 0,5|
+| [display_equation](/cells/python-net/es/aspose.cells.charts/trendline/display_equation) | Representa si la ecuación de la línea de tendencia se muestra en el gráfico (en la misma etiqueta de datos que el valor R cuadrado). Establecer esta propiedad en True activa automáticamente las etiquetas de datos.|
 | [display_r_squared](/cells/python-net/es/aspose.cells.charts/trendline/display_r_squared) | Representa si el valor R cuadrado de la línea de tendencia se muestra en el gráfico (en la misma etiqueta de datos que la ecuación). Establecer esta propiedad en True activa automáticamente las etiquetas de datos.|
 | [intercept](/cells/python-net/es/aspose.cells.charts/trendline/intercept) | Devuelve o establece el punto donde la línea de tendencia cruza el eje de valores.|
-| [data_labels](/cells/python-net/es/aspose.cells.charts/trendline/data_labels) | Representa el objeto DataLabels para la serie especificada.|
-| [legend_entry](/cells/python-net/es/aspose.cells.charts/trendline/legend_entry) | Obtiene la entrada de la leyenda de acuerdo con esta línea de tendencia|
+| [data_labels](/cells/python-net/es/aspose.cells.charts/trendline/data_labels) |Representa el objeto DataLabels para la serie especificada.|
+| [legend_entry](/cells/python-net/es/aspose.cells.charts/trendline/legend_entry) | Obtiene la entrada de la leyenda según esta línea de tendencia.|
 
 
 
@@ -118,7 +118,7 @@ workbook.save("book1.xls")
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
-* clase [Trendline](/cells/python-net/es/aspose.cells.charts/trendline)
-* clase [WeightType](/cells/python-net/es/aspose.cells.drawing/weighttype)
+* módulo [`aspose.cells.charts`](..)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)
+* clase [`Trendline`](/cells/python-net/es/aspose.cells.charts/trendline)
+* clase [`WeightType`](/cells/python-net/es/aspose.cells.drawing/weighttype)

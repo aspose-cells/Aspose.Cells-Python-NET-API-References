@@ -3,7 +3,7 @@ title: is_ascend_show propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 360
 url: /es/aspose.cells.pivot/pivotfield/is_ascend_show/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_ascend_show(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotField](/cells/python-net/es/aspose.cells.pivot/pivotfield)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotField`](/cells/python-net/es/aspose.cells.pivot/pivotfield)

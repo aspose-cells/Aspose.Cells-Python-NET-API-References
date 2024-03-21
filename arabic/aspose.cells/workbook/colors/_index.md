@@ -1,19 +1,19 @@
 ---
-title: colors الملكية
+title: colors عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 460
+weight: 470
 url: /ar/aspose.cells/workbook/colors/
 is_root: false
 ---
-##  colors الملكية
+##  colors عقار
 
-تقوم بإرجاع colors في لوحة جدول البيانات.
+إرجاع colors في لوحة جدول البيانات.
 
 ###  ملاحظات
 
-تحتوي اللوحة على 56 إدخالًا ، يتم تمثيل كل منها بقيمة RGB.
+تحتوي اللوحة على 56 إدخالًا، يتم تمثيل كل منها بقيمة RGB.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def colors(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

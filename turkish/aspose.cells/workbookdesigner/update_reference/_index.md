@@ -3,13 +3,13 @@ title: update_reference mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 130
 url: /tr/aspose.cells/workbookdesigner/update_reference/
 is_root: false
 ---
 ##  update_reference mülk
 
-Diğer çalışma sayfalarındaki başvuruların güncellenip güncellenmeyeceğini belirtir.
+Diğer çalışma sayfalarındaki referansların güncellenip güncellenmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookDesigner](/cells/python-net/tr/aspose.cells/workbookdesigner)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookDesigner`](/cells/python-net/tr/aspose.cells/workbookdesigner)

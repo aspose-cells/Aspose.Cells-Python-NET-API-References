@@ -7,14 +7,14 @@ weight: 40
 url: /ar/aspose.cells/comment/get_characters/
 is_root: false
 ---
-##  get_characters() {#}
- ترجع جميع كائنات الأحرف
-يمثل مجموعة من الأحرف داخل نص التعليق.
+##  get_characters {#}
+ إرجاع كافة كائنات الأحرف
+يمثل نطاقًا من الأحرف داخل نص التعليق.
 
 
 ###  عائدات
 
-كل كائنات الشخصيات
+جميع كائنات الشخصيات
 
 
 ```python
@@ -23,7 +23,12 @@ def get_characters(self):
 ```
 
 
+###  ملاحظات
 
+ملاحظة: هذه الطريقة أصبحت الآن قديمة. بدلاً من،
+الرجاء استخدام طريقة Comment.GetRichFormattings().
+ ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ نوفمبر 2023.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  مثال
 
 ```python
@@ -35,5 +40,5 @@ list = comment1.get_characters()
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

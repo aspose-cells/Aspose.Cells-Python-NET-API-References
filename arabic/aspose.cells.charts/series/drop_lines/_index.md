@@ -1,15 +1,15 @@
 ---
-title: drop_lines الملكية
+title: drop_lines عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 140
 url: /ar/aspose.cells.charts/series/drop_lines/
 is_root: false
 ---
-##  drop_lines الملكية
+##  drop_lines عقار
 
-إرجاع عنصر [Line](/cells/python-net/ar/aspose.cells.drawing/line) يمثل خطوط الإسقاط لسلسلة على مخطط خطي أو مخطط مساحي.
+تقوم بإرجاع كائن [`Line`](/cells/python-net/ar/aspose.cells.drawing/line) الذي يمثل الخطوط المسقطة لسلسلة على المخطط الخطي أو المخطط المساحي.
 ينطبق فقط على المخطط الخطي أو المخططات المساحية.
 ###  تعريف:
 ```python
@@ -19,6 +19,6 @@ def drop_lines(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

@@ -1,16 +1,16 @@
 ---
-title: height_scale الملكية
+title: height_scale عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 470
+weight: 480
 url: /ar/aspose.cells.drawing/groupbox/height_scale/
 is_root: false
 ---
-##  height_scale الملكية
+##  height_scale عقار
 
-الحصول على مقياس الارتفاع وتعيينه ، بوحدة نسبة مئوية من ارتفاع الصورة الأصلي.
-إذا لم يكن الشكل صورة ، تقوم الخاصية HeightScale بإرجاع 100 فقط ؛
+الحصول على مقياس الارتفاع وتعيينه بوحدة النسبة المئوية لارتفاع الصورة الأصلية.
+إذا لم يكن الشكل صورة، فإن خاصية HeightScale تُرجع 100 فقط؛
 
 ###  مثال
 
@@ -31,5 +31,5 @@ def height_scale(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupBox](/cells/python-net/ar/aspose.cells.drawing/groupbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupBox`](/cells/python-net/ar/aspose.cells.drawing/groupbox)

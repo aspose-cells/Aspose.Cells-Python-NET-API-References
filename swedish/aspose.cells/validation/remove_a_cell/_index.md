@@ -3,11 +3,11 @@ title: remove_a_cell metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 90
 url: /sv/aspose.cells/validation/remove_a_cell/
 is_root: false
 ---
-##  remove_a_cell(row, column) {#int-int}
+##  remove_a_cell {#int-int}
 Ta bort valideringsinställningarna i cellen.
 
 
@@ -26,5 +26,5 @@ def remove_a_cell(self, row, column):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Validation](/cells/python-net/sv/aspose.cells/validation)
+* modul [`aspose.cells`](../../)
+* klass [`Validation`](/cells/python-net/sv/aspose.cells/validation)

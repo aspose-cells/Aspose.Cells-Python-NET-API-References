@@ -1,5 +1,5 @@
 ---
-title: add_r1c1 método
+title: método add_r1c1
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 30
 url: /es/aspose.cells.charts/seriescollection/add_r1c1/
 is_root: false
 ---
-##  add_r1c1(area, is_vertical) {#str-bool}
-Agrega la colección [SeriesCollection](/cells/python-net/es/aspose.cells.charts/seriescollection) a un gráfico.
+##  add_r1c1 {#str-bool}
+Agrega la colección [`Series`](/cells/python-net/es/aspose.cells.charts/series) a un gráfico.
 
 
 ###  Devoluciones
@@ -24,8 +24,8 @@ def add_r1c1(self, area, is_vertical):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| area | str | Especifica valores a partir de los cuales trazar la serie de datos|
-| is_vertical | bool | Especifica si trazar la serie a partir de un rango de valores de celda por fila o por columna.|
+| area | str | Especifica valores a partir de los cuales trazar la serie de datos.|
+| is_vertical | bool |Especifica si se trazará la serie a partir de un rango de valores de celda por fila o por columna.|
 ###  Observaciones
 
 
@@ -33,5 +33,6 @@ def add_r1c1(self, area, is_vertical):
 
 ###  Ver también
 
-* módulo [aspose.cells.charts](../../)
-* clase [SeriesCollection](/cells/python-net/es/aspose.cells.charts/seriescollection)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)
+* clase [`SeriesCollection`](/cells/python-net/es/aspose.cells.charts/seriescollection)

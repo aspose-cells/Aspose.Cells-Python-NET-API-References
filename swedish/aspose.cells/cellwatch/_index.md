@@ -3,7 +3,7 @@ title: CellWatch klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 170
 url: /sv/aspose.cells/cellwatch/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Typen CellWatch avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [CellWatch()](/cells/python-net/sv/aspose.cells/cellwatch/__init__/#) | Konstruerar en ny instans av CellWatch|
+| [__init__](/cells/python-net/sv/aspose.cells/cellwatch/__init__/#) |Konstruerar en ny instans av CellWatch|
 
 
 ###  Egenskaper
@@ -30,4 +30,4 @@ Typen CellWatch avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

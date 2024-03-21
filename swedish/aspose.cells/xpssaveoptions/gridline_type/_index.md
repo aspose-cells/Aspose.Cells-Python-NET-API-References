@@ -3,7 +3,7 @@ title: gridline_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 130
 url: /sv/aspose.cells/xpssaveoptions/gridline_type/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def gridline_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GridlineType](/cells/python-net/sv/aspose.cells/gridlinetype)
-* klass [XpsSaveOptions](/cells/python-net/sv/aspose.cells/xpssaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`GridlineType`](/cells/python-net/sv/aspose.cells/gridlinetype)
+* klass [`XpsSaveOptions`](/cells/python-net/sv/aspose.cells/xpssaveoptions)

@@ -3,7 +3,7 @@ title: geometry mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 450
 url: /tr/aspose.cells.drawing/lineshape/geometry/
 is_root: false
 ---
@@ -15,7 +15,7 @@ geometry'i alır
 
 ```python
 
-if len(shape.Geometry.ShapeAdjustValues) == 0:
+if shape.geometry != null  and len(shape.geometry.shape_adjust_values) == 0:
     print("No geometry path.")
 
 ```
@@ -27,6 +27,6 @@ def geometry(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Geometry](/cells/python-net/tr/aspose.cells.drawing/geometry)
-* sınıf [LineShape](/cells/python-net/tr/aspose.cells.drawing/lineshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Geometry`](/cells/python-net/tr/aspose.cells.drawing/geometry)
+* sınıf [`LineShape`](/cells/python-net/tr/aspose.cells.drawing/lineshape)

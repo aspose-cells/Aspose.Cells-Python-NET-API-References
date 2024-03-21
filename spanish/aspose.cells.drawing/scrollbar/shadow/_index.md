@@ -3,7 +3,7 @@ title: shadow propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 930
+weight: 940
 url: /es/aspose.cells.drawing/scrollbar/shadow/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ScrollBar](/cells/python-net/es/aspose.cells.drawing/scrollbar)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ScrollBar`](/cells/python-net/es/aspose.cells.drawing/scrollbar)

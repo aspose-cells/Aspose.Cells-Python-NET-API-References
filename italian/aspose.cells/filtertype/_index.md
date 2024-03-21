@@ -1,18 +1,18 @@
 ---
-title: FilterType enumerazione
+title: Enumerazione FilterType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2060
+weight: 2130
 url: /it/aspose.cells/filtertype/
 is_root: false
 ---
-##  FilterType enumerazione
+##  Enumerazione FilterType
 Il tipo di filtro.
 
 
 
-Il tipo FilterType espone i membri seguenti:
+Il tipo FilterType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -22,10 +22,10 @@ Il tipo FilterType espone i membri seguenti:
 | DYNAMIC_FILTER | Tipo di filtro dinamico.|
 | MULTIPLE_FILTERS | Quando si scelgono più valori in base a cui filtrare o quando si sceglie un gruppo di valori di data in base a cui filtrare,<br/> questo elemento raggruppa questi criteri insieme.|
 | ICON_FILTER | Filtra per icona di formattazione condizionale.|
-| TOP10 | Filtro dei primi 10.|
+| TOP10 | I primi 10 filtri.|
 | NONE | Senza Filtro.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

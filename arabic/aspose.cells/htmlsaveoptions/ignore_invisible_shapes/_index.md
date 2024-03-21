@@ -1,15 +1,15 @@
 ---
-title: ignore_invisible_shapes الملكية
+title: ignore_invisible_shapes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 450
 url: /ar/aspose.cells/htmlsaveoptions/ignore_invisible_shapes/
 is_root: false
 ---
-##  ignore_invisible_shapes الملكية
+##  ignore_invisible_shapes عقار
 
-وضّح ما إذا كان يتم تصدير تلك الأشكال غير المرئية
+حدد ما إذا كان سيتم تصدير تلك الأشكال غير المرئية
 
 ###  ملاحظات
 
@@ -25,5 +25,5 @@ def ignore_invisible_shapes(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

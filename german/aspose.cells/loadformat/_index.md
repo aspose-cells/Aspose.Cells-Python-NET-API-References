@@ -3,7 +3,7 @@ title: LoadFormat Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2210
+weight: 2290
 url: /de/aspose.cells/loadformat/
 is_root: false
 ---
@@ -18,26 +18,28 @@ Der Typ LoadFormat macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | AUTO | Stellt die automatische Erkennung des Formats dar.|
-| CSV |Kommagetrennte Werte (CSV) Textdatei.<br/> HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,<br/>Bitte verwenden Sie die Eigenschaft [LoadFormat.CSV](/cells/python-net/de/aspose.cells/loadformat#CSV).<br/> Diese Property wird 6 Monate später seit April 2021 entfernt.<br/> Aspose entschuldigt sich für etwaige Unannehmlichkeiten.|
-| XLSX | Stellt Office Open XML SpreadsheetML-Arbeitsmappen oder -Vorlagen mit oder ohne Makros dar.|
-| TSV | Tabulatorgetrennte Werte (TSV) Textdatei.<br/> HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,<br/>Bitte verwenden Sie die Eigenschaft [LoadFormat.TSV](/cells/python-net/de/aspose.cells/loadformat#TSV).<br/> Diese Property wird 6 Monate später seit April 2021 entfernt.<br/> Aspose entschuldigt sich für etwaige Unannehmlichkeiten.|
-| TAB_DELIMITED | Stellt eine tabulatorgetrennte Textdatei dar, wie [LoadFormat.TSV](/cells/python-net/de/aspose.cells/loadformat#TSV).|
+| CSV | Textdatei mit durch Kommas getrennten Werten (CSV).<br/> HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,<br/>Bitte nutzen Sie die Telefonnummer [`LoadFormat.CSV`](/cells/python-net/de/aspose.cells/loadformat#CSV).<br/> Diese Immobilie wird 6 Monate später seit April 2021 entfernt.<br/> Aspose entschuldigt sich für etwaige Unannehmlichkeiten.|
+| XLSX | Stellt eine Office Open XML-Tabellenkalkulationsarbeitsmappe oder -Vorlage mit oder ohne Makros dar.|
+| TSV | Textdatei mit tabulatorgetrennten Werten (TSV).<br/> HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,<br/>Bitte nutzen Sie die Telefonnummer [`LoadFormat.TSV`](/cells/python-net/de/aspose.cells/loadformat#TSV).<br/> Diese Immobilie wird 6 Monate später seit April 2021 entfernt.<br/> Aspose entschuldigt sich für etwaige Unannehmlichkeiten.|
+| TAB_DELIMITED | Stellt eine tabulatorgetrennte Textdatei dar, dasselbe gilt für [`LoadFormat.TSV`](/cells/python-net/de/aspose.cells/loadformat#TSV).|
 | HTML | Stellt eine HTML-Datei dar.|
 | M_HTML | Stellt eine mhtml-Datei dar.|
-| ODS | Öffnen Sie die Dokumentblattdatei (ODS).<br/> HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,<br/>Bitte verwenden Sie die Eigenschaft [LoadFormat.ODS](/cells/python-net/de/aspose.cells/loadformat#ODS).<br/> Diese Property wird 6 Monate später seit April 2021 entfernt.<br/> Aspose entschuldigt sich für etwaige Unannehmlichkeiten.|
-| EXCEL_97_TO_2003 | Stellt eine Excel97-2003-xls-Datei dar.|
+| ODS | Öffnen Sie die Datei „Dokumentblatt“ (ODS).<br/> HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,<br/>Bitte nutzen Sie die Telefonnummer [`LoadFormat.ODS`](/cells/python-net/de/aspose.cells/loadformat#ODS).<br/> Diese Immobilie wird 6 Monate später seit April 2021 entfernt.<br/> Aspose entschuldigt sich für etwaige Unannehmlichkeiten.|
+| EXCEL_97_TO_2003 | Stellt eine Excel97-2003-XLS-Datei dar.|
 | SPREADSHEET_ML | Stellt eine Excel 2003-XML-Datei dar.|
-| XLSB | Stellt eine xlsb-Datei dar.|
+| XLSB | Stellt eine XLSB-Datei dar.|
 | OTS | Öffnen Sie die OTS-Datei (Document Template Sheet).|
-| NUMBERS | Stellt eine Numbers-Datei dar.|
-| FODS | Stellt das Dateiformat OpenDocument Flat XML Spreadsheet (.fods) dar.<br/> HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,<br/>Bitte verwenden Sie die Eigenschaft [LoadFormat.FODS](/cells/python-net/de/aspose.cells/loadformat#FODS).<br/> Diese Property wird 6 Monate später seit April 2021 entfernt.<br/> Aspose entschuldigt sich für etwaige Unannehmlichkeiten.|
-| SXC | Stellt das Dateiformat StarOffice Calc Spreadsheet (.sxc) dar.<br/> HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,<br/>Bitte verwenden Sie die Eigenschaft [LoadFormat.SXC](/cells/python-net/de/aspose.cells/loadformat#SXC).<br/> Diese Property wird 6 Monate später seit April 2021 entfernt.<br/> Aspose entschuldigt sich für etwaige Unannehmlichkeiten.|
+| NUMBERS | Stellt eine Zahlendatei dar.|
+| FODS | Stellt das Dateiformat OpenDocument Flat XML Spreadsheet (.fods) dar.<br/> HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,<br/>Bitte nutzen Sie die Telefonnummer [`LoadFormat.FODS`](/cells/python-net/de/aspose.cells/loadformat#FODS).<br/> Diese Immobilie wird 6 Monate später seit April 2021 entfernt.<br/> Aspose entschuldigt sich für etwaige Unannehmlichkeiten.|
+| SXC | Stellt das Dateiformat StarOffice Calc Spreadsheet (.sxc) dar.<br/> HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,<br/>Bitte nutzen Sie die Telefonnummer [`LoadFormat.SXC`](/cells/python-net/de/aspose.cells/loadformat#SXC).<br/> Diese Immobilie wird 6 Monate später seit April 2021 entfernt.<br/> Aspose entschuldigt sich für etwaige Unannehmlichkeiten.|
 | XML | Stellt eine einfache XML-Datei dar.|
-| UNKNOWN | Repräsentiert ein unbekanntes Format, kann nicht geladen werden.|
+| EPUB | Stellt eine EPUB-Datei dar.|
+| AZW3 |Stellt eine AZW3-Datei dar.|
+| UNKNOWN | Stellt ein unbekanntes Format dar und kann nicht geladen werden.|
 | IMAGE | Bild|
 | JSON | Json|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

@@ -3,11 +3,11 @@ title: get_grouped_row_outline_level yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 390
 url: /tr/aspose.cells/cells/get_grouped_row_outline_level/
 is_root: false
 ---
-##  get_grouped_row_outline_level(row_index) {#int}
+##  get_grouped_row_outline_level {#int}
 Satırın anahat düzeyini (sıfır tabanlı) alır.
 
 
@@ -27,10 +27,10 @@ def get_grouped_row_outline_level(self, row_index):
 | row_index | int | Satır dizini.|
 ###  Notlar
 
-Satır gruplandırılmamışsa sıfır döndürür.
+Satır gruplanmamışsa sıfır değerini döndürür.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

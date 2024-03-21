@@ -3,13 +3,13 @@ title: text_orientation_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /de/aspose.cells.drawing/shape/text_orientation_type/
 is_root: false
 ---
 ##  text_orientation_type Eigentum
 
-Ruft den Textausrichtungstyp der Form ab und legt diesen fest.
+Ruft den Textausrichtungstyp der Form ab und legt ihn fest.
 
 ###  Beispiel
 
@@ -31,6 +31,6 @@ def text_orientation_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Shape](/cells/python-net/de/aspose.cells.drawing/shape)
-* Klasse [TextOrientationType](/cells/python-net/de/aspose.cells/textorientationtype)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Shape`](/cells/python-net/de/aspose.cells.drawing/shape)
+* Klasse [`TextOrientationType`](/cells/python-net/de/aspose.cells/textorientationtype)

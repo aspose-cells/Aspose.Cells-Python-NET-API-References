@@ -3,13 +3,13 @@ title: light_cells_data_handler Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 250
 url: /de/aspose.cells/txtloadoptions/light_cells_data_handler/
 is_root: false
 ---
 ##  light_cells_data_handler Eigentum
 
-Der Datenhandler zum Verarbeiten von Zellendaten beim Lesen der Vorlagendatei.
+Der Datenhandler zum Verarbeiten von Zelldaten beim Lesen der Vorlagendatei.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def light_cells_data_handler(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [LightCellsDataHandler](/cells/python-net/de/aspose.cells/lightcellsdatahandler)
-* Klasse [TxtLoadOptions](/cells/python-net/de/aspose.cells/txtloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`LightCellsDataHandler`](/cells/python-net/de/aspose.cells/lightcellsdatahandler)
+* Klasse [`TxtLoadOptions`](/cells/python-net/de/aspose.cells/txtloadoptions)

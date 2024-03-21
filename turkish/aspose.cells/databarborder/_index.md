@@ -3,7 +3,7 @@ title: DataBarBorder sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 430
 url: /tr/aspose.cells/databarborder/
 is_root: false
 ---
@@ -12,15 +12,15 @@ Koşullu biçimlendirme kuralı tarafından belirtilen veri çubuklarının kena
 
 
 
-DataBarBorder türü aşağıdaki üyeleri gösterir:
+DataBarBorder türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [color](/cells/python-net/tr/aspose.cells/databarborder/color) | Koşullu biçimlendirme kuralı tarafından belirtilen veri çubuklarının kenarlığının rengini alır veya ayarlar.|
-| [type](/cells/python-net/tr/aspose.cells/databarborder/type) | Koşullu biçimlendirme kuralı tarafından belirtilen veri çubuklarının sınır türünü alır veya ayarlar.|
+| [type](/cells/python-net/tr/aspose.cells/databarborder/type) | Koşullu biçimlendirme kuralı tarafından belirtilen kenarlığın veri çubukları türünü alır veya ayarlar.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

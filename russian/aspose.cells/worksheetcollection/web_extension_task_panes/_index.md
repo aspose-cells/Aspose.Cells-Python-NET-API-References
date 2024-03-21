@@ -1,9 +1,9 @@
 ---
 title: web_extension_task_panes недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 360
+weight: 370
 url: /ru/aspose.cells/worksheetcollection/web_extension_task_panes/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def web_extension_task_panes(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WebExtensionTaskPaneCollection](/cells/python-net/ru/aspose.cells.webextensions/webextensiontaskpanecollection)
-* класс [WorksheetCollection](/cells/python-net/ru/aspose.cells/worksheetcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`WebExtensionTaskPaneCollection`](/cells/python-net/ru/aspose.cells.webextensions/webextensiontaskpanecollection)
+* класс [`WorksheetCollection`](/cells/python-net/ru/aspose.cells/worksheetcollection)

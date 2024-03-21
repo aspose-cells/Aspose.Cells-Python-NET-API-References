@@ -1,17 +1,17 @@
 ---
 title: get_row_original_height_point метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 500
+weight: 490
 url: /ru/aspose.cells/cells/get_row_original_height_point/
 is_root: false
 ---
-##  get_row_original_height_point(row) {#int}
-Получает высоту исходной строки в пунктах, если строка скрыта
+##  get_row_original_height_point {#int}
+Получает высоту исходной строки в единицах измерения, если строка скрыта.
 
 
-###  Возвращает
+###  Возврат
 
 
 
@@ -29,5 +29,5 @@ def get_row_original_height_point(self, row):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

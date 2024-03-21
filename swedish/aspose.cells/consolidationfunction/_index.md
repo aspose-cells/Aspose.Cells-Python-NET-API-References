@@ -3,7 +3,7 @@ title: ConsolidationFunction uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1870
+weight: 1940
 url: /sv/aspose.cells/consolidationfunction/
 is_root: false
 ---
@@ -24,7 +24,7 @@ Typen ConsolidationFunction avslöjar följande medlemmar:
 | MIN | Representerar Min funktion.|
 | PRODUCT | Representerar produktfunktion.|
 | COUNT_NUMS | Representerar funktionen Räkna siffror.|
-| STD_DEV | Representerar StdDev-funktionen.|
+| STD_DEV |Representerar StdDev-funktionen.|
 | STD_DEVP | Representerar StdDevp-funktionen.|
 | VAR | Representerar Var-funktionen.|
 | VARP | Representerar Varp-funktion.|
@@ -33,4 +33,4 @@ Typen ConsolidationFunction avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

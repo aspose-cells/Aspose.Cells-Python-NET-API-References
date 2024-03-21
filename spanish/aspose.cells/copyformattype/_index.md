@@ -3,7 +3,7 @@ title: CopyFormatType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1880
+weight: 1950
 url: /es/aspose.cells/copyformattype/
 is_root: false
 ---
@@ -17,11 +17,11 @@ El tipo CopyFormatType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| SAME_AS_ABOVE |Formatos iguales a la fila anterior.|
-| SAME_AS_BELOW | Formatos iguales a la siguiente fila.|
+| SAME_AS_ABOVE | Formatos iguales que la fila anterior.|
+| SAME_AS_BELOW | El formato es el mismo que el de la fila siguiente.|
 | CLEAR | Borra el formato.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

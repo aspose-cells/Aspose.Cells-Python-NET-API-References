@@ -1,16 +1,16 @@
 ---
-title: show_legend_key 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: show_legend_key属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 420
+weight: 410
 url: /zh/aspose.cells.charts/datalabels/show_legend_key/
 is_root: false
 ---
-## show_legend_key 属性
+## show_legend_key属性
 
 表示指定图表的数据标签图例键显示行为。
-如果数据标签图例键可见，则为真。
+如果数据标签图例键可见，则为 true。
 ### 定义：
 ```python
 @property
@@ -22,5 +22,5 @@ def show_legend_key(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [DataLabels](/cells/python-net/zh/aspose.cells.charts/datalabels)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`DataLabels`](/cells/python-net/zh/aspose.cells.charts/datalabels)

@@ -3,7 +3,7 @@ title: text_options propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /fr/aspose.cells.drawing/arcshape/text_options/
 is_root: false
 ---
@@ -32,6 +32,6 @@ def text_options(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/fr/aspose.cells.drawing/arcshape)
-* classe [TextOptions](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/fr/aspose.cells.drawing/arcshape)
+* classe [`TextOptions`](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)

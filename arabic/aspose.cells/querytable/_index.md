@@ -1,26 +1,26 @@
 ---
-title: QueryTable الدرجة
+title: QueryTable صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1230
+weight: 1270
 url: /ar/aspose.cells/querytable/
 is_root: false
 ---
-##  QueryTable الدرجة
-يمثل QueryTable معلومات.
+##  QueryTable صف
+يمثل QueryTable المعلومات.
 
 
 
-يكشف نوع QueryTable الأعضاء التالية:
+يكشف النوع QueryTable عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [connection_id](/cells/python-net/ar/aspose.cells/querytable/connection_id) |يحصل على معرف الاتصال لجدول الاستعلام.|
-| [external_connection](/cells/python-net/ar/aspose.cells/querytable/external_connection) | يحصل على اتصال خارجي.|
-| [name](/cells/python-net/ar/aspose.cells/querytable/name) | يحصل على اسم الاستعلام.|
-| [result_range](/cells/python-net/ar/aspose.cells/querytable/result_range) | يحصل على مدى النتيجة.|
+| [connection_id](/cells/python-net/ar/aspose.cells/querytable/connection_id) | يحصل على معرف الاتصال لجدول الاستعلام.|
+| [external_connection](/cells/python-net/ar/aspose.cells/querytable/external_connection) | يحصل على الاتصال الخارجي ذي الصلة.|
+| [name](/cells/python-net/ar/aspose.cells/querytable/name) | يحصل على اسم جدول الاستعلام.|
+| [result_range](/cells/python-net/ar/aspose.cells/querytable/result_range) | يحصل على نطاق النتيجة.|
 | [preserve_formatting](/cells/python-net/ar/aspose.cells/querytable/preserve_formatting) | إرجاع أو تعيين PreserveFormatting للكائن.|
 | [adjust_column_width](/cells/python-net/ar/aspose.cells/querytable/adjust_column_width) | إرجاع أو تعيين AdjustColumnWidth للكائن.|
 
@@ -35,12 +35,8 @@ from aspose.cells import Workbook
 workbook = Workbook()
 # Obtaining the reference of the first worksheet
 worksheet = workbook.worksheets[0]
-# Getting the first query table in the worksheet
-qt = worksheet.query_tables[0]
-# Getting display address of the query table.
-address = qt.result_range.address
 
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

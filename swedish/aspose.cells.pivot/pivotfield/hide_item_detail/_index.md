@@ -3,11 +3,11 @@ title: hide_item_detail metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 110
 url: /sv/aspose.cells.pivot/pivotfield/hide_item_detail/
 is_root: false
 ---
-##  hide_item_detail(index, is_hidden_detail) {#int-bool}
+##  hide_item_detail {#int-bool}
 Anger om den specifika PivotItem i ett pivotfält är dold detalj.
 
 
@@ -26,5 +26,5 @@ def hide_item_detail(self, index, is_hidden_detail):
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotField](/cells/python-net/sv/aspose.cells.pivot/pivotfield)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield)

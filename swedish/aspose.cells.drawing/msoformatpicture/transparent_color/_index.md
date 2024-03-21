@@ -3,7 +3,7 @@ title: transparent_color fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 170
 url: /sv/aspose.cells.drawing/msoformatpicture/transparent_color/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def transparent_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
-* klass [MsoFormatPicture](/cells/python-net/sv/aspose.cells.drawing/msoformatpicture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)
+* klass [`MsoFormatPicture`](/cells/python-net/sv/aspose.cells.drawing/msoformatpicture)

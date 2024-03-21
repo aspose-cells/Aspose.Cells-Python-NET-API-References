@@ -3,7 +3,7 @@ title: ChartPoint Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 100
 url: /de/aspose.cells.charts/chartpoint/
 is_root: false
 ---
@@ -18,52 +18,52 @@ Der Typ ChartPoint macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [explosion](/cells/python-net/de/aspose.cells.charts/chartpoint/explosion) | Der Abstand eines offenen Tortenstücks von der Mitte des Tortendiagramms wird als Prozentsatz des Tortendurchmessers ausgedrückt.|
-| [shadow](/cells/python-net/de/aspose.cells.charts/chartpoint/shadow) | True, wenn der Diagrammpunkt einen Schatten hat.|
-| [border](/cells/python-net/de/aspose.cells.charts/chartpoint/border) | Ruft die [Line](/cells/python-net/de/aspose.cells.drawing/line) ab.|
-| [area](/cells/python-net/de/aspose.cells.charts/chartpoint/area) | Ruft die [ChartPoint.area](/cells/python-net/de/aspose.cells.charts/chartpoint#area) ab.|
-| [marker](/cells/python-net/de/aspose.cells.charts/chartpoint/marker) | Ruft die [ChartPoint.marker](/cells/python-net/de/aspose.cells.charts/chartpoint#marker) ab.|
-| [data_labels](/cells/python-net/de/aspose.cells.charts/chartpoint/data_labels) | Gibt ein DataLabels-Objekt zurück, das die dem Punkt zugeordnete Datenbeschriftung darstellt.|
+| [shadow](/cells/python-net/de/aspose.cells.charts/chartpoint/shadow) | True, wenn der Kartenpunkt einen Schatten hat.|
+| [border](/cells/python-net/de/aspose.cells.charts/chartpoint/border) | Ruft die [`Line`](/cells/python-net/de/aspose.cells.drawing/line) ab.|
+| [area](/cells/python-net/de/aspose.cells.charts/chartpoint/area) | Ruft die [`ChartPoint.area`](/cells/python-net/de/aspose.cells.charts/chartpoint#area) ab.|
+| [marker](/cells/python-net/de/aspose.cells.charts/chartpoint/marker) | Ruft die [`ChartPoint.marker`](/cells/python-net/de/aspose.cells.charts/chartpoint#marker) ab.|
+| [data_labels](/cells/python-net/de/aspose.cells.charts/chartpoint/data_labels) | Gibt ein DataLabels-Objekt zurück, das die mit dem Punkt verknüpfte Datenbeschriftung darstellt.|
 | [y_value](/cells/python-net/de/aspose.cells.charts/chartpoint/y_value) | Ruft den Y-Wert des Diagrammpunkts ab oder legt diesen fest.|
 | [y_value_type](/cells/python-net/de/aspose.cells.charts/chartpoint/y_value_type) | Ruft den Y-Werttyp des Diagrammpunkts ab.|
-| [x_value](/cells/python-net/de/aspose.cells.charts/chartpoint/x_value) |Ruft den X-Wert des Diagrammpunkts ab oder legt diesen fest.|
+| [x_value](/cells/python-net/de/aspose.cells.charts/chartpoint/x_value) | Ruft den X-Wert des Diagrammpunkts ab oder legt diesen fest.|
 | [x_value_type](/cells/python-net/de/aspose.cells.charts/chartpoint/x_value_type) | Ruft den X-Werttyp des Diagrammpunkts ab.|
-| [shape_properties](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_properties) | Ruft das [ShapePropertyCollection](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)-Objekt ab, das die visuellen Formeigenschaften des ChartPoint enthält.|
-| [is_in_secondary_plot](/cells/python-net/de/aspose.cells.charts/chartpoint/is_in_secondary_plot) | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob sich dieser Datenpunkt im zweiten Kreis oder Balken befindet<br/> auf einem Tortendiagramm oder einem Tortendiagramm|
+| [shape_properties](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_properties) |Ruft das [`ShapePropertyCollection`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)-Objekt ab, das die visuellen Formeigenschaften des ChartPoint enthält.|
+| [is_in_secondary_plot](/cells/python-net/de/aspose.cells.charts/chartpoint/is_in_secondary_plot) | Ruft einen Wert ab oder legt ihn fest, der angibt, ob sich dieser Datenpunkt im zweiten Kreis oder Balken befindet<br/> auf einem Kreis- oder Balkendiagramm|
 | [shape_x](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_x) | Ruft die x-Koordinate der oberen linken Ecke in Einheiten von 1/4000 der Breite des Diagramms ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
-| [shape_y](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_y) | Ruft die y-Koordinate der oberen linken Ecke in Einheiten von 1/4000 der Diagrammhöhe ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
-| [shape_width](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_width) | Ruft die Breite in Einheiten von 1/4000 der Breite des Diagramms ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
+| [shape_y](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_y) | Ruft die Y-Koordinate der oberen linken Ecke in Einheiten von 1/4000 der Diagrammhöhe ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
+| [shape_width](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_width) | Ruft die Breite in Einheiten von 1/4000 der Diagrammbreite ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
 | [shape_height](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_height) | Ruft die Höhe in Einheiten von 1/4000 der Diagrammhöhe ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
-| [shape_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_x_px) | Ruft die x-Koordinate der oberen linken Ecke in Pixeleinheiten ab, nachdem die Chart.Calculate()-Methode aufgerufen wurde.|
-| [shape_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_y_px) | Ruft die y-Koordinate der oberen linken Ecke in Pixeleinheiten ab, nachdem die Chart.Calculate()-Methode aufgerufen wurde.|
-| [shape_width_px](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_width_px) |Ruft die Breite in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
-| [shape_height_px](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_height_px) | Ruft die Höhe in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
+| [shape_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_x_px) | Ruft die x-Koordinate der oberen linken Ecke in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
+| [shape_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_y_px) | Ruft die Y-Koordinate der oberen linken Ecke in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
+| [shape_width_px](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_width_px) | Ruft die Breite in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
+| [shape_height_px](/cells/python-net/de/aspose.cells.charts/chartpoint/shape_height_px) |Ruft die Höhe in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
 | [border_width_px](/cells/python-net/de/aspose.cells.charts/chartpoint/border_width_px) | Ruft die Breite des Rahmens in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
 | [radius_px](/cells/python-net/de/aspose.cells.charts/chartpoint/radius_px) | Ruft den Radius einer Blase, eines Kuchens oder eines Donuts in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.|
-| [inner_radius_px](/cells/python-net/de/aspose.cells.charts/chartpoint/inner_radius_px) | Ruft den Innenradius des Ringscheibenstücks in Pixeleinheiten ab, nachdem die Chart.Calculate()-Methode aufgerufen wurde.<br/> Gilt für Ringdiagramm.|
-| [start_angle](/cells/python-net/de/aspose.cells.charts/chartpoint/start_angle) | Ruft den Startwinkel für den Tortenabschnitt ab, gemessen in Grad im Uhrzeigersinn von der x-Achse nach dem Aufruf der Chart.Calculate()-Methode.<br/> Gilt für Kreisdiagramm.|
-| [end_angle](/cells/python-net/de/aspose.cells.charts/chartpoint/end_angle) | Ruft den Endwinkel für den Tortenabschnitt ab, gemessen in Grad im Uhrzeigersinn von der x-Achse nach dem Aufruf der Chart.Calculate()-Methode.<br/> Gilt für Kreisdiagramm.|
-| [arc_start_point_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/arc_start_point_x_px) | Ruft die x-Koordinate des Startpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Kreis- und Ringdiagramme.|
-| [arc_start_point_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/arc_start_point_y_px) |Ruft die y-Koordinate des Startpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Kreis- und Ringdiagramme.|
-| [arc_end_point_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/arc_end_point_x_px) | Ruft die x-Koordinate des Endpunkts für den Tortenabschnitt ab, nachdem die Chart.Calculate()-Methode aufgerufen wurde.<br/> Gilt für Kreis- und Ringdiagramme.|
-| [arc_end_point_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/arc_end_point_y_px) | Ruft die y-Koordinate des Endpunkts für den Kreisabschnitt ab, nachdem die Chart.Calculate()-Methode aufgerufen wurde.<br/> Gilt für Kreis- und Ringdiagramme.|
-| [inner_arc_start_point_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/inner_arc_start_point_x_px) | Ruft die x-Koordinate des Startpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Ringdiagramm.|
-| [inner_arc_start_point_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/inner_arc_start_point_y_px) |Ruft die y-Koordinate des Startpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Ringdiagramm.|
-| [inner_arc_end_point_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/inner_arc_end_point_x_px) | Ruft die x-Koordinate des Endpunkts für den Tortenabschnitt ab, nachdem die Chart.Calculate()-Methode aufgerufen wurde.<br/> Gilt für Ringdiagramm.|
-| [inner_arc_end_point_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/inner_arc_end_point_y_px) | Ruft die y-Koordinate des Endpunkts für den Kreisabschnitt ab, nachdem die Chart.Calculate()-Methode aufgerufen wurde.<br/> Gilt für Ringdiagramm.|
+| [inner_radius_px](/cells/python-net/de/aspose.cells.charts/chartpoint/inner_radius_px) | Ruft den Innenradius des Donut-Slices in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Donut-Diagramm.|
+| [start_angle](/cells/python-net/de/aspose.cells.charts/chartpoint/start_angle) | Ruft den Startwinkel für den Kreisabschnitt ab, gemessen in Grad im Uhrzeigersinn von der x-Achse nach dem Aufruf der Chart.Calculate()-Methode.<br/> Gilt für Kreisdiagramm.|
+| [end_angle](/cells/python-net/de/aspose.cells.charts/chartpoint/end_angle) | Ruft den Endwinkel für den Kreisabschnitt ab, gemessen in Grad im Uhrzeigersinn von der x-Achse nach dem Aufruf der Chart.Calculate()-Methode.<br/> Gilt für Kreisdiagramm.|
+| [arc_start_point_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/arc_start_point_x_px) | Ruft die x-Koordinate des Startpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Kreis- und Donut-Diagramme.|
+| [arc_start_point_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/arc_start_point_y_px) | Ruft die Y-Koordinate des Startpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Kreis- und Donut-Diagramme.|
+| [arc_end_point_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/arc_end_point_x_px) |Ruft die x-Koordinate des Endpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Kreis- und Donut-Diagramme.|
+| [arc_end_point_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/arc_end_point_y_px) | Ruft die Y-Koordinate des Endpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Kreis- und Donut-Diagramme.|
+| [inner_arc_start_point_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/inner_arc_start_point_x_px) | Ruft die x-Koordinate des Startpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Donut-Diagramm.|
+| [inner_arc_start_point_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/inner_arc_start_point_y_px) | Ruft die Y-Koordinate des Startpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Donut-Diagramm.|
+| [inner_arc_end_point_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/inner_arc_end_point_x_px) |Ruft die x-Koordinate des Endpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Donut-Diagramm.|
+| [inner_arc_end_point_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/inner_arc_end_point_y_px) | Ruft die Y-Koordinate des Endpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Gilt für Donut-Diagramm.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_top_point_count()](/cells/python-net/de/aspose.cells.charts/chartpoint/get_top_point_count/#) | Ruft die Anzahl der höchsten Punkte nach Aufrufen der Methode Chart.Calculate() ab.|
-| [get_top_point_x_px(index)](/cells/python-net/de/aspose.cells.charts/chartpoint/get_top_point_x_px/#int) | Ruft die x-Koordinate des oberen Punkts der Form ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Wendet 3D-Diagramme an: Column3D, Bar3D, Cone, Cylinder, Pyramid und Area3D|
-| [get_top_point_y_px(index)](/cells/python-net/de/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | Ruft die y-Koordinate des oberen Punkts der Form ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Wendet 3D-Diagramme an: Column3D, Bar3D, Cone, Cylinder, Pyramid und Area3D|
-| [get_bottom_point_count()](/cells/python-net/de/aspose.cells.charts/chartpoint/get_bottom_point_count/#) | Ruft die Anzahl der unteren Punkte nach Aufrufen der Methode Chart.Calculate() ab.|
-| [get_bottom_point_x_px(index)](/cells/python-net/de/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | Ruft die x-Koordinate des unteren Punkts der Form ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Wendet 3D-Diagramme an: Column3D, Bar3D, Cone, Cylinder, Pyramid|
-| [get_bottom_point_y_px(index)](/cells/python-net/de/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | Ruft die y-Koordinate des unteren Punkts der Form ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Wendet 3D-Diagramme an: Column3D, Bar3D, Cone, Cylinder, Pyramid|
-| [get_on_category_axis_point_count()](/cells/python-net/de/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) |Ruft die Anzahl der Punkte auf der Kategorieachse ab, nachdem die Methode Chart.Calculate() aufgerufen wurde. Gilt nur für Flächendiagramme.|
-| [get_on_category_axis_point_x_px(index)](/cells/python-net/de/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | Ruft die x-Koordinate des Punktes auf der Kategorieachse ab, nachdem die Methode Chart.Calculate() aufgerufen wurde. Gilt nur für das Flächendiagramm.|
-| [get_on_category_axis_point_y_px(index)](/cells/python-net/de/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | Ruft die y-Koordinate des Punkts auf der Kategorieachse ab, nachdem die Methode Chart.Calculate() aufgerufen wurde. Gilt nur für das Flächendiagramm.|
+| [get_top_point_count](/cells/python-net/de/aspose.cells.charts/chartpoint/get_top_point_count/#) | Ruft die Anzahl der Top-Punkte nach dem Aufruf der Chart.Calculate()-Methode ab.|
+| [get_top_point_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/get_top_point_x_px/#int) | Ruft die X-Koordinate des oberen Punkts der Form ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Wendet 3D-Diagramme an: Säulen3D, Balken3D, Kegel, Zylinder, Pyramide und Flächen3D|
+| [get_top_point_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | Ruft die Y-Koordinate des oberen Punkts der Form ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Wendet 3D-Diagramme an: Säulen3D, Balken3D, Kegel, Zylinder, Pyramide und Flächen3D|
+| [get_bottom_point_count](/cells/python-net/de/aspose.cells.charts/chartpoint/get_bottom_point_count/#) | Ruft die Anzahl der unteren Punkte nach dem Aufruf der Chart.Calculate()-Methode ab.|
+| [get_bottom_point_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | Ruft die X-Koordinate des unteren Punkts der Form ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Wendet 3D-Diagramme an: Column3D, Bar3D, Kegel, Zylinder, Pyramide|
+| [get_bottom_point_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | Ruft die Y-Koordinate des unteren Punkts der Form ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.<br/> Wendet 3D-Diagramme an: Column3D, Bar3D, Kegel, Zylinder, Pyramide|
+| [get_on_category_axis_point_count](/cells/python-net/de/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) |Ruft die Anzahl der Punkte auf der Kategorieachse ab, nachdem die Methode Chart.Calculate() aufgerufen wurde. Gilt nur für Flächendiagramme.|
+| [get_on_category_axis_point_x_px](/cells/python-net/de/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | Ruft die X-Koordinate des Punkts auf der Kategorieachse ab, nachdem die Methode Chart.Calculate() aufgerufen wurde. Gilt nur für Flächendiagramme.|
+| [get_on_category_axis_point_y_px](/cells/python-net/de/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | Ruft die Y-Koordinate des Punkts auf der Kategorieachse ab, nachdem die Methode Chart.Calculate() aufgerufen wurde. Gilt nur für Flächendiagramme.|
 
 
 
@@ -111,6 +111,6 @@ workbook.save("book1.xls")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
-* Klasse [Line](/cells/python-net/de/aspose.cells.drawing/line)
-* Klasse [ShapePropertyCollection](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)
+* Modul [`aspose.cells.charts`](..)
+* Klasse [`Line`](/cells/python-net/de/aspose.cells.drawing/line)
+* Klasse [`ShapePropertyCollection`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)

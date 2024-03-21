@@ -1,13 +1,13 @@
 ---
-title: set_formula2 méthode
+title: méthode set_formula2
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 120
+weight: 130
 url: /fr/aspose.cells/validation/set_formula2/
 is_root: false
 ---
-##  set_formula2(formula, is_r1c1, is_local) {#str-bool-bool}
+##  set_formula2 {#str-bool-bool}
 Définit la valeur ou l'expression associée à cette validation.
 
 
@@ -20,12 +20,12 @@ def set_formula2(self, formula, is_r1c1, is_local):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| formula | str |La valeur ou l'expression associée à cette condition de format.|
+| formula | str | La valeur ou l'expression associée à cette condition de format.|
 | is_r1c1 | bool | Si la formule est la formule R1C1.|
-| is_local | bool | Indique si la formule est formatée en paramètres régionaux.|
+| is_local | bool | Indique si la formule est au format local.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Validation](/cells/python-net/fr/aspose.cells/validation)
+* module [`aspose.cells`](../../)
+* classe [`Validation`](/cells/python-net/fr/aspose.cells/validation)

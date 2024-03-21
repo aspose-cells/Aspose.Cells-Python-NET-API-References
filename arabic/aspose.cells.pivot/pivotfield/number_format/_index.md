@@ -1,13 +1,13 @@
 ---
-title: number_format الملكية
+title: number_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 470
+weight: 510
 url: /ar/aspose.cells.pivot/pivotfield/number_format/
 is_root: false
 ---
-##  number_format الملكية
+##  number_format عقار
 
 يمثل تنسيق العرض المخصص للأرقام والتواريخ.
 ###  تعريف:
@@ -21,5 +21,5 @@ def number_format(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

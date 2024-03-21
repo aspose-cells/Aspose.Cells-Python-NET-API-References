@@ -1,14 +1,14 @@
 ---
-title: PageOrientationType dénombrement
+title: PageOrientationType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2310
+weight: 2400
 url: /fr/aspose.cells/pageorientationtype/
 is_root: false
 ---
-##  PageOrientationType dénombrement
-Représente les constantes d'orientation de l'impression.
+##  PageOrientationType énumération
+Représente les constantes d’orientation d’impression.
 
 
 
@@ -23,4 +23,4 @@ Le type PageOrientationType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

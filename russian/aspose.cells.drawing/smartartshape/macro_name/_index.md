@@ -1,9 +1,9 @@
 ---
 title: macro_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 780
+weight: 790
 url: /ru/aspose.cells.drawing/smartartshape/macro_name/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def macro_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [SmartArtShape](/cells/python-net/ru/aspose.cells.drawing/smartartshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`SmartArtShape`](/cells/python-net/ru/aspose.cells.drawing/smartartshape)

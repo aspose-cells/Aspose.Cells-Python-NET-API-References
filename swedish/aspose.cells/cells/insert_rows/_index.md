@@ -3,11 +3,11 @@ title: insert_rows metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 730
+weight: 720
 url: /sv/aspose.cells/cells/insert_rows/
 is_root: false
 ---
-##  insert_rows(row_index, total_rows) {#int-int}
+##  insert_rows {#int-int}
 Infogar flera rader i kalkylbladet.
 
 
@@ -24,7 +24,7 @@ def insert_rows(self, row_index, total_rows):
 | total_rows | int | Antal rader som ska infogas.|
 
 
-##  insert_rows(row_index, total_rows, update_reference) {#int-int-bool}
+##  insert_rows {#int-int-bool}
 Infogar flera rader i kalkylbladet.
 
 
@@ -39,10 +39,10 @@ def insert_rows(self, row_index, total_rows, update_reference):
 | :- | :- | :- |
 | row_index | int | Radindex.|
 | total_rows | int | Antal rader som ska infogas.|
-| update_reference | bool |Anger om referenser i andra arbetsblad kommer att uppdateras.|
+| update_reference | bool | Anger om referenser i andra arbetsblad kommer att uppdateras.|
 
 
-##  insert_rows(row_index, total_rows, options) {#int-int-InsertOptions}
+##  insert_rows {#int-int-aspose.cells.InsertOptions}
 Infogar flera rader i kalkylbladet.
 
 
@@ -57,10 +57,10 @@ def insert_rows(self, row_index, total_rows, options):
 | :- | :- | :- |
 | row_index | int | Radindex.|
 | total_rows | int | Antal rader som ska infogas.|
-| options | [InsertOptions](/cells/python-net/sv/aspose.cells/insertoptions) |Anger om referenser i andra arbetsblad kommer att uppdateras.|
+| options | [`InsertOptions`](/cells/python-net/sv/aspose.cells/insertoptions) | Anger om referenser i andra arbetsblad kommer att uppdateras.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

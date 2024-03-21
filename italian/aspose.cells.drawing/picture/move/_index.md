@@ -1,13 +1,13 @@
 ---
-title: metodo move
+title: Metodo move
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 150
+weight: 170
 url: /it/aspose.cells.drawing/picture/move/
 is_root: false
 ---
-##  move(upper_left_row, upper_left_column) {#int-int}
+##  move {#int-int}
 Sposta l'immagine in una posizione specificata.
 
 
@@ -21,7 +21,7 @@ def move(self, upper_left_row, upper_left_column):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | upper_left_row | int | Indice della riga in alto a sinistra.|
-| upper_left_column | int | Indice colonna in alto a sinistra.|
+| upper_left_column | int | Indice della colonna in alto a sinistra.|
 
 ###  Esempio
 
@@ -45,5 +45,5 @@ workbook.save("result.xlsx")
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

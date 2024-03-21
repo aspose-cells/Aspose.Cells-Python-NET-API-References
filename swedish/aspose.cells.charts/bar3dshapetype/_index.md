@@ -3,7 +3,7 @@ title: Bar3DShapeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 390
 url: /sv/aspose.cells.charts/bar3dshapetype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ Typen Bar3DShapeType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

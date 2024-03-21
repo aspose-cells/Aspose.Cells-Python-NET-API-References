@@ -1,13 +1,13 @@
 ---
-title: plot_empty_cells_type الملكية
+title: plot_empty_cells_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 470
 url: /ar/aspose.cells.charts/chart/plot_empty_cells_type/
 is_root: false
 ---
-##  plot_empty_cells_type الملكية
+##  plot_empty_cells_type عقار
 
 الحصول على كيفية رسم الخلايا الفارغة وتعيينها.
 ###  تعريف:
@@ -21,6 +21,6 @@ def plot_empty_cells_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
-* فئة [PlotEmptyCellsType](/cells/python-net/ar/aspose.cells.charts/plotemptycellstype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)
+* فئة [`PlotEmptyCellsType`](/cells/python-net/ar/aspose.cells.charts/plotemptycellstype)

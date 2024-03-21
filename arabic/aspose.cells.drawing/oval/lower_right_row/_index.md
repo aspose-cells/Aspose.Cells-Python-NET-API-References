@@ -1,15 +1,15 @@
 ---
-title: lower_right_row الملكية
+title: lower_right_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 770
+weight: 780
 url: /ar/aspose.cells.drawing/oval/lower_right_row/
 is_root: false
 ---
-##  lower_right_row الملكية
+##  lower_right_row عقار
 
-يمثل فهرس صف الزاوية اليمنى السفلي.
+يمثل مؤشر الصف السفلي الأيمن.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def lower_right_row(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Oval](/cells/python-net/ar/aspose.cells.drawing/oval)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Oval`](/cells/python-net/ar/aspose.cells.drawing/oval)

@@ -3,7 +3,7 @@ title: y propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1280
+weight: 1290
 url: /es/aspose.cells.drawing/combobox/y/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ComboBox](/cells/python-net/es/aspose.cells.drawing/combobox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ComboBox`](/cells/python-net/es/aspose.cells.drawing/combobox)

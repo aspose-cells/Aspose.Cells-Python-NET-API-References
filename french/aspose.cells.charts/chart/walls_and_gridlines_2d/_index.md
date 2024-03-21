@@ -3,7 +3,7 @@ title: walls_and_gridlines_2d propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 640
+weight: 670
 url: /fr/aspose.cells.charts/chart/walls_and_gridlines_2d/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def walls_and_gridlines_2d(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)

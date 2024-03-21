@@ -3,7 +3,7 @@ title: PrintOrderType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2390
+weight: 2480
 url: /sv/aspose.cells/printordertype/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Typen PrintOrderType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

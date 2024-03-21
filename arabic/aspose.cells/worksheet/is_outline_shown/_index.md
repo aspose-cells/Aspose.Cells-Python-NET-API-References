@@ -1,15 +1,15 @@
 ---
-title: is_outline_shown الملكية
+title: is_outline_shown عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 550
+weight: 570
 url: /ar/aspose.cells/worksheet/is_outline_shown/
 is_root: false
 ---
-##  is_outline_shown الملكية
+##  is_outline_shown عقار
 
-يشير إلى ما إذا كان سيتم إظهار مخطط تفصيلي.
+يشير إلى ما إذا كان سيتم إظهار المخطط التفصيلي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_outline_shown(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

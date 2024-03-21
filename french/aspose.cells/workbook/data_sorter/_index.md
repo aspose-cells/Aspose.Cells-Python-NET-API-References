@@ -3,7 +3,7 @@ title: data_sorter propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 530
+weight: 540
 url: /fr/aspose.cells/workbook/data_sorter/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def data_sorter(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataSorter](/cells/python-net/fr/aspose.cells/datasorter)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`DataSorter`](/cells/python-net/fr/aspose.cells/datasorter)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

@@ -1,9 +1,9 @@
 ---
 title: exclude_unused_styles недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 130
+weight: 150
 url: /ru/aspose.cells/htmlsaveoptions/exclude_unused_styles/
 is_root: false
 ---
@@ -11,9 +11,9 @@ is_root: false
 
 Указывает, исключает ли неиспользуемые стили.
 Для сгенерированных html-файлов исключение неиспользуемых стилей может уменьшить размер файла.
-без ущерба для визуальных эффектов. Таким образом, значение этого свойства по умолчанию равно true.
-Если пользователю необходимо сохранить все стили в рабочей книге для сгенерированного html (например, сценарий, в котором пользователь
-необходимо восстановить книгу из сгенерированного html позже), установите для этого свойства значение false.
+не влияя на визуальные эффекты. Таким образом, значение этого свойства по умолчанию — true.
+Если пользователю необходимо сохранить все стили в книге для сгенерированного HTML (например, сценарий, который пользователь
+необходимо позже восстановить книгу из сгенерированного HTML), установите для этого свойства значение false.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def exclude_unused_styles(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)

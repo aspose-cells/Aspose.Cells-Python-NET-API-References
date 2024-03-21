@@ -3,7 +3,7 @@ title: text_body mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 930
+weight: 940
 url: /tr/aspose.cells.drawing/chartshape/text_body/
 is_root: false
 ---
@@ -27,6 +27,6 @@ def text_body(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ChartShape](/cells/python-net/tr/aspose.cells.drawing/chartshape)
-* sınıf [FontSettingCollection](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ChartShape`](/cells/python-net/tr/aspose.cells.drawing/chartshape)
+* sınıf [`FontSettingCollection`](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)

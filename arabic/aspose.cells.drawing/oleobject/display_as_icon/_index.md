@@ -1,15 +1,15 @@
 ---
-title: display_as_icon الملكية
+title: display_as_icon عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 400
 url: /ar/aspose.cells.drawing/oleobject/display_as_icon/
 is_root: false
 ---
-##  display_as_icon الملكية
+##  display_as_icon عقار
 
- صواب إذا تم عرض الكائن المحدد كرمز
+ صحيح إذا تم عرض الكائن المحدد كرمز
 ولن يتم تغيير الصورة تلقائيًا.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def display_as_icon(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

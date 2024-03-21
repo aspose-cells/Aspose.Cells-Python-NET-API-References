@@ -1,18 +1,18 @@
 ---
 title: Scenario класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1330
+weight: 1370
 url: /ru/aspose.cells/scenario/
 is_root: false
 ---
 ##  Scenario класс
-Представляет индивидуальный сценарий.
+Представляет собой индивидуальный сценарий.
 
 
 
-Тип Scenario предоставляет следующие члены:
+Тип Scenario предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -27,4 +27,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

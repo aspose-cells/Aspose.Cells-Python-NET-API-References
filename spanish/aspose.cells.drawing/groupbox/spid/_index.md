@@ -3,13 +3,13 @@ title: spid propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 900
+weight: 910
 url: /es/aspose.cells.drawing/groupbox/spid/
 is_root: false
 ---
 ##  spid propiedad
 
-Especifica una cadena opcional que una aplicación puede usar para identificar la forma particular.
+Especifica una cadena opcional que una aplicación puede utilizar para identificar la forma particular.
 
 ###  Ejemplo
 
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GroupBox](/cells/python-net/es/aspose.cells.drawing/groupbox)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GroupBox`](/cells/python-net/es/aspose.cells.drawing/groupbox)

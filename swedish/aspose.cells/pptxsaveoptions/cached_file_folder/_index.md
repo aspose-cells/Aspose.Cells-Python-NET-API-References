@@ -3,7 +3,7 @@ title: cached_file_folder fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 40
+weight: 50
 url: /sv/aspose.cells/pptxsaveoptions/cached_file_folder/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def cached_file_folder(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PptxSaveOptions](/cells/python-net/sv/aspose.cells/pptxsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PptxSaveOptions`](/cells/python-net/sv/aspose.cells/pptxsaveoptions)

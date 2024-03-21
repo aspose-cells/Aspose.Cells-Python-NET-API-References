@@ -3,7 +3,7 @@ title: left_to_corner propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 700
+weight: 710
 url: /fr/aspose.cells.drawing/smartartshape/left_to_corner/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def left_to_corner(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [SmartArtShape](/cells/python-net/fr/aspose.cells.drawing/smartartshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`SmartArtShape`](/cells/python-net/fr/aspose.cells.drawing/smartartshape)

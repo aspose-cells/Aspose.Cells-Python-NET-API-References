@@ -3,7 +3,7 @@ title: auto_show_count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 180
 url: /tr/aspose.cells.pivot/pivotfield/auto_show_count/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def auto_show_count(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotField](/cells/python-net/tr/aspose.cells.pivot/pivotfield)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield)

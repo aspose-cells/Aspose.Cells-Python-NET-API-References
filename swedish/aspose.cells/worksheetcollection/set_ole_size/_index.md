@@ -3,11 +3,11 @@ title: set_ole_size metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 200
 url: /sv/aspose.cells/worksheetcollection/set_ole_size/
 is_root: false
 ---
-##  set_ole_size(start_row, end_row, start_column, end_column) {#int-int-int-int}
+##  set_ole_size {#int-int-int-int}
 Ställer in visad storlek när arbetsboksfil används som ett Ole-objekt.
 
 
@@ -31,5 +31,5 @@ Denna metod används vanligtvis för att justera visningsstorleken i ppt-fil ell
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [WorksheetCollection](/cells/python-net/sv/aspose.cells/worksheetcollection)
+* modul [`aspose.cells`](../../)
+* klass [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection)

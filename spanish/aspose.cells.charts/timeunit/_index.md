@@ -3,12 +3,12 @@ title: TimeUnit enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 660
+weight: 670
 url: /es/aspose.cells.charts/timeunit/
 is_root: false
 ---
 ##  TimeUnit enumeración
-Representa la unidad base para el eje de categoría.
+Representa la unidad base para el eje de categorías.
 
 
 
@@ -24,4 +24,4 @@ El tipo TimeUnit expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

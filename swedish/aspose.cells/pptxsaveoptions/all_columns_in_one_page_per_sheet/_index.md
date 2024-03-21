@@ -3,7 +3,7 @@ title: all_columns_in_one_page_per_sheet fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 30
+weight: 40
 url: /sv/aspose.cells/pptxsaveoptions/all_columns_in_one_page_per_sheet/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def all_columns_in_one_page_per_sheet(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PptxSaveOptions](/cells/python-net/sv/aspose.cells/pptxsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PptxSaveOptions`](/cells/python-net/sv/aspose.cells/pptxsaveoptions)

@@ -1,13 +1,13 @@
 ---
-title: page_count 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: page_count属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 190
 url: /zh/aspose.cells/xpssaveoptions/page_count/
 is_root: false
 ---
-## page_count 属性
+## page_count属性
 
 获取或设置要保存的页数。
 
@@ -17,7 +17,7 @@ is_root: false
 
 ### 例子
 
-以下示例显示如何将 Microsoft Excel 文件中的一系列页面（3 和 4）呈现为 PDF。
+以下示例演示如何将 Microsoft Excel 文件中的一系列页面（3 和 4）渲染为 PDF。
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -45,5 +45,5 @@ def page_count(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [XpsSaveOptions](/cells/python-net/zh/aspose.cells/xpssaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`XpsSaveOptions`](/cells/python-net/zh/aspose.cells/xpssaveoptions)

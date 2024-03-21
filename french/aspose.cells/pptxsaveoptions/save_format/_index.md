@@ -3,7 +3,7 @@ title: save_format propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 230
+weight: 270
 url: /fr/aspose.cells/pptxsaveoptions/save_format/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def save_format(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PptxSaveOptions](/cells/python-net/fr/aspose.cells/pptxsaveoptions)
-* classe [SaveFormat](/cells/python-net/fr/aspose.cells/saveformat)
+* module [`aspose.cells`](../../)
+* classe [`PptxSaveOptions`](/cells/python-net/fr/aspose.cells/pptxsaveoptions)
+* classe [`SaveFormat`](/cells/python-net/fr/aspose.cells/saveformat)

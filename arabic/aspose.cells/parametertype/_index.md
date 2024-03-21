@@ -1,18 +1,18 @@
 ---
-title: العد ParameterType
+title: ParameterType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2340
+weight: 2430
 url: /ar/aspose.cells/parametertype/
 is_root: false
 ---
-##  العد ParameterType
-يمثل نوع جميع المعلمات أو نوع القيمة المرجعة للدالة.
+##  ParameterType التعداد
+يمثل نوع جميع المعلمات أو نوع قيمة الإرجاع للوظيفة.
 
 
 
-يكشف نوع ParameterType الأعضاء التالية:
+يكشف النوع ParameterType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

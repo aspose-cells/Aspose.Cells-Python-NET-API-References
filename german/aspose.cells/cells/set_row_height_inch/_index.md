@@ -3,12 +3,12 @@ title: set_row_height_inch Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 880
+weight: 870
 url: /de/aspose.cells/cells/set_row_height_inch/
 is_root: false
 ---
-##  set_row_height_inch(row, inches) {#int-float}
-Legt die Zeilenhöhe in Zoll fest.
+##  set_row_height_inch {#int-float}
+Legt die Zeilenhöhe in der Einheit Zoll fest.
 
 
 
@@ -26,5 +26,5 @@ def set_row_height_inch(self, row, inches):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

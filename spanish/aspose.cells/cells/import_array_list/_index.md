@@ -1,14 +1,14 @@
 ---
-title: import_array_list método
+title: método import_array_list
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 620
+weight: 610
 url: /es/aspose.cells/cells/import_array_list/
 is_root: false
 ---
-##  import_array_list(array_list, first_row, first_column, is_vertical) {#list-int-int-bool}
-Importa una lista de matriz de datos en una hoja de cálculo.
+##  import_array_list {#list-int-int-bool}
+Importa una lista de matrices de datos a una hoja de trabajo.
 
 
 
@@ -28,5 +28,5 @@ def import_array_list(self, array_list, first_row, first_column, is_vertical):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cells](/cells/python-net/es/aspose.cells/cells)
+* módulo [`aspose.cells`](../../)
+* clase [`Cells`](/cells/python-net/es/aspose.cells/cells)

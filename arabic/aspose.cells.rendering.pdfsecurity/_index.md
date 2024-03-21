@@ -12,6 +12,6 @@ is_root: false
 ###  الطبقات
 | فصل| وصف|
 | :- | :- |
-| [PdfSecurityOptions](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions) | إعدادات pdf عند تحويل excel إلى pdf ، لا يسمح PDF / A بإعداد الأمان.|
+| [`PdfSecurityOptions`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions) | خيارات التشفير وأذونات الوصول لمستند PDF.<br/> PDF/A لا يسمح بإعدادات الأمان.|
 
 

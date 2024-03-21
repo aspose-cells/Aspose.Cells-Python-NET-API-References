@@ -1,9 +1,9 @@
 ---
 title: indexes недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 80
+weight: 100
 url: /ru/aspose.cells/exporttableoptions/indexes/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def indexes(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ExportTableOptions](/cells/python-net/ru/aspose.cells/exporttableoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ExportTableOptions`](/cells/python-net/ru/aspose.cells/exporttableoptions)

@@ -3,7 +3,7 @@ title: text_options Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 980
+weight: 990
 url: /de/aspose.cells.drawing/webextensionshape/text_options/
 is_root: false
 ---
@@ -32,6 +32,6 @@ def text_options(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextOptions](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)
-* Klasse [WebExtensionShape](/cells/python-net/de/aspose.cells.drawing/webextensionshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextOptions`](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)
+* Klasse [`WebExtensionShape`](/cells/python-net/de/aspose.cells.drawing/webextensionshape)

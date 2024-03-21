@@ -3,13 +3,13 @@ title: hyperlink proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 570
+weight: 580
 url: /it/aspose.cells.drawing/oleobject/hyperlink/
 is_root: false
 ---
 ##  hyperlink proprietà
 
-Ottiene hyperlink della forma.
+Ottiene lo hyperlink della forma.
 
 ###  Esempio
 
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Hyperlink](/cells/python-net/it/aspose.cells/hyperlink)
-* classe [OleObject](/cells/python-net/it/aspose.cells.drawing/oleobject)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Hyperlink`](/cells/python-net/it/aspose.cells/hyperlink)
+* classe [`OleObject`](/cells/python-net/it/aspose.cells.drawing/oleobject)

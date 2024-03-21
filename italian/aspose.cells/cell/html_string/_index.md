@@ -3,13 +3,13 @@ title: html_string proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 490
+weight: 520
 url: /it/aspose.cells/cell/html_string/
 is_root: false
 ---
 ##  html_string proprietà
 
-Ottiene e imposta la stringa html che contiene i dati e alcuni formati in questa cella.
+Ottiene e imposta la stringa html che contiene dati e alcuni formati in questa cella.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def html_string(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

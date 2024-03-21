@@ -3,11 +3,11 @@ title: set_characters Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 320
 url: /de/aspose.cells/cell/set_characters/
 is_root: false
 ---
-##  set_characters(characters) {#list}
+##  set_characters {#list}
 Legt das Rich-Text-Format der Zelle fest.
 
 
@@ -20,10 +20,10 @@ def set_characters(self, characters):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| characters | list | Alle Zeichenobjekte.|
+| characters | list | Alle Characters-Objekte.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

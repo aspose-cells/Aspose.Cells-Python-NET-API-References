@@ -1,15 +1,15 @@
 ---
-title: has_hi_lo_lines الملكية
+title: has_hi_lo_lines عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 200
 url: /ar/aspose.cells.charts/series/has_hi_lo_lines/
 is_root: false
 ---
-##  has_hi_lo_lines الملكية
+##  has_hi_lo_lines عقار
 
- صحيح إذا كان الرسم البياني الخطي يحتوي على خطوط عالية-منخفضة.
+ صحيح إذا كان المخطط الخطي يحتوي على خطوط مرتفعة ومنخفضة.
 ينطبق فقط على المخططات الخطية.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def has_hi_lo_lines(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

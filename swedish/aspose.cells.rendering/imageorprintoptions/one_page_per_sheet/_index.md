@@ -3,7 +3,7 @@ title: one_page_per_sheet fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 190
 url: /sv/aspose.cells.rendering/imageorprintoptions/one_page_per_sheet/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def one_page_per_sheet(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)

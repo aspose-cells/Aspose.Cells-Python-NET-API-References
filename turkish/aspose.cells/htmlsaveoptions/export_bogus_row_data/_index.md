@@ -3,13 +3,13 @@ title: export_bogus_row_data mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 180
 url: /tr/aspose.cells/htmlsaveoptions/export_bogus_row_data/
 is_root: false
 ---
 ##  export_bogus_row_data mülk
 
-Sahte alt satır verilerinin dışa aktarılıp aktarılmadığını belirtir. Varsayılan değer true'dur. Eğer html veya mht dosyasını içe aktarmak istiyorsanız
+Sahte alt satır verilerinin dışa aktarılıp aktarılmadığını belirtir. Varsayılan değer true'dur. Html veya mht dosyasını içe aktarmak istiyorsanız
 excel için lütfen varsayılan değeri koruyun.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def export_bogus_row_data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlSaveOptions](/cells/python-net/tr/aspose.cells/htmlsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlSaveOptions`](/cells/python-net/tr/aspose.cells/htmlsaveoptions)

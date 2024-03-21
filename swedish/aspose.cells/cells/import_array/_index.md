@@ -3,11 +3,11 @@ title: import_array metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 610
+weight: 600
 url: /sv/aspose.cells/cells/import_array/
 is_root: false
 ---
-##  import_array(string_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+##  import_array {#list-int-int-bool}
 Importerar en array av sträng till ett kalkylblad.
 
 
@@ -26,7 +26,7 @@ def import_array(self, string_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Anger att importera data vertikalt eller horisontellt.|
 
 
-##  import_array(int_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+##  import_array {#list-int-int-bool}
 Importerar en matris med heltal till ett kalkylblad.
 
 
@@ -45,7 +45,7 @@ def import_array(self, int_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Anger att importera data vertikalt eller horisontellt.|
 
 
-##  import_array(double_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+##  import_array {#list-int-int-bool}
 Importerar en array av dubbel till ett kalkylblad.
 
 
@@ -66,5 +66,5 @@ def import_array(self, double_array, first_row, first_column, is_vertical):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

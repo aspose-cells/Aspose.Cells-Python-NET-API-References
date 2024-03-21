@@ -1,13 +1,13 @@
 ---
-title: show_input الملكية
+title: show_input عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ar/aspose.cells/validation/show_input/
 is_root: false
 ---
-##  show_input الملكية
+##  show_input عقار
 
 يشير إلى ما إذا كان سيتم عرض رسالة إدخال التحقق من صحة البيانات عندما يحدد المستخدم خلية في نطاق التحقق من صحة البيانات.
 ###  تعريف:
@@ -21,5 +21,5 @@ def show_input(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Validation](/cells/python-net/ar/aspose.cells/validation)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Validation`](/cells/python-net/ar/aspose.cells/validation)

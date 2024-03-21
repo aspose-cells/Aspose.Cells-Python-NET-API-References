@@ -1,28 +1,28 @@
 ---
-title: العد TickLabelPositionType
+title: TickLabelPositionType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 650
 url: /ar/aspose.cells.charts/ticklabelpositiontype/
 is_root: false
 ---
-##  العد TickLabelPositionType
+##  TickLabelPositionType التعداد
 يمثل نوع موضع تسميات علامات التجزئة على المحور المحدد.
 
 
 
-يكشف نوع TickLabelPositionType الأعضاء التالية:
+يكشف النوع TickLabelPositionType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| HIGH | نوع الوظيفة مرتفع.|
-| LOW | نوع المركز منخفض.|
+| HIGH | نوع المنصب مرتفع.|
+| LOW | نوع الموضع منخفض.|
 | NEXT_TO_AXIS | نوع الموضع بجوار المحور.|
-| NONE | نوع المركز لا يوجد.|
+| NONE | نوع المنصب لا شيء.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

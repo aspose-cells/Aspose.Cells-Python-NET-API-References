@@ -3,14 +3,14 @@ title: preserve_string proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1220
+weight: 1210
 url: /it/aspose.cells/cells/preserve_string/
 is_root: false
 ---
 ##  preserve_string proprietà
 
- Ottiene o imposta un valore che indica se tutti i valori del foglio di lavoro vengono mantenuti come stringhe.
-L'impostazione predefinita è false.
+ Ottiene o imposta un valore che indica se tutti i valori del foglio di lavoro vengono conservati come stringhe.
+L'impostazione predefinita è falsa.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def preserve_string(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

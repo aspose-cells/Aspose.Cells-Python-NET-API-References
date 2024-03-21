@@ -1,18 +1,18 @@
 ---
 title: PrintSizeType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2400
+weight: 2490
 url: /zh/aspose.cells/printsizetype/
 is_root: false
 ---
 ## PrintSizeType枚举
-表示打印的图表大小。
+代表打印图表的尺寸。
 
 
 
-PrintSizeType 类型公开了以下成员：
+PrintSizeType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
@@ -24,4 +24,4 @@ PrintSizeType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: is_filled Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 530
+weight: 550
 url: /de/aspose.cells.drawing/textbox/is_filled/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_filled(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextBox](/cells/python-net/de/aspose.cells.drawing/textbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextBox`](/cells/python-net/de/aspose.cells.drawing/textbox)

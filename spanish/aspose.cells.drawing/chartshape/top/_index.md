@@ -3,7 +3,7 @@ title: top propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /es/aspose.cells.drawing/chartshape/top/
 is_root: false
 ---
@@ -34,5 +34,5 @@ def top(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ChartShape](/cells/python-net/es/aspose.cells.drawing/chartshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ChartShape`](/cells/python-net/es/aspose.cells.drawing/chartshape)

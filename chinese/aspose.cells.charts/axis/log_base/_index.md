@@ -1,15 +1,15 @@
 ---
-title: log_base 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: log_base属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 260
+weight: 270
 url: /zh/aspose.cells.charts/axis/log_base/
 is_root: false
 ---
-## log_base 属性
+## log_base属性
 
-表示对数底数。默认值为 10。仅适用于 Excel2007。
+代表对数底数。默认值为10。仅适用于Excel2007。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def log_base(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Axis](/cells/python-net/zh/aspose.cells.charts/axis)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Axis`](/cells/python-net/zh/aspose.cells.charts/axis)

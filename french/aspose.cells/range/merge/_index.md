@@ -1,13 +1,13 @@
 ---
-title: merge méthode
+title: méthode merge
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 150
 url: /fr/aspose.cells/range/merge/
 is_root: false
 ---
-##  merge() {#}
+##  merge {#}
 Combine une plage de cellules en une seule cellule.
 
 
@@ -20,10 +20,10 @@ def merge(self):
 
 ###  Remarques
 
-Référencez la cellule fusionnée via l'adresse de la cellule supérieure gauche de la plage.
+Référencez la cellule fusionnée via l’adresse de la cellule supérieure gauche de la plage.
 
 
 ###  Voir également
 
-* module [aspose.cells](../../)
-* classe [Range](/cells/python-net/fr/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* classe [`Range`](/cells/python-net/fr/aspose.cells/range)

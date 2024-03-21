@@ -3,7 +3,7 @@ title: comment_shape Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 100
 url: /de/aspose.cells/comment/comment_shape/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def comment_shape(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Comment](/cells/python-net/de/aspose.cells/comment)
-* Klasse [CommentShape](/cells/python-net/de/aspose.cells.drawing/commentshape)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Comment`](/cells/python-net/de/aspose.cells/comment)
+* Klasse [`CommentShape`](/cells/python-net/de/aspose.cells.drawing/commentshape)

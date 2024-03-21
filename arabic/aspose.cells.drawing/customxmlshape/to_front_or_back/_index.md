@@ -3,11 +3,11 @@ title: طريقة to_front_or_back
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 220
 url: /ar/aspose.cells.drawing/customxmlshape/to_front_or_back/
 is_root: false
 ---
-##  to_front_or_back(orders) {#int}
+##  to_front_or_back {#int}
 يجلب الشكل إلى الأمام أو يرسل الشكل إلى الخلف.
 
 
@@ -20,7 +20,7 @@ def to_front_or_back(self, orders):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| orders | int | إذا كانت أقل من الصفر ، فاضبط الشكل للخلف.<br/>إذا كانت أكبر من الصفر ، اجعل الشكل في المقدمة.|
+| orders | int | إذا كان أقل من الصفر، يضبط الشكل إلى الخلف.<br/> إذا كان أكبر من الصفر، يتم إحضار الشكل إلى الأمام.|
 
 ###  مثال
 
@@ -33,5 +33,5 @@ shape.to_front_or_back(2)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CustomXmlShape](/cells/python-net/ar/aspose.cells.drawing/customxmlshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CustomXmlShape`](/cells/python-net/ar/aspose.cells.drawing/customxmlshape)

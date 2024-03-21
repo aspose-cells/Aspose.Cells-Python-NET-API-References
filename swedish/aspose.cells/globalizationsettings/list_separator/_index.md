@@ -3,7 +3,7 @@ title: list_separator fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 320
 url: /sv/aspose.cells/globalizationsettings/list_separator/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def list_separator(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GlobalizationSettings](/cells/python-net/sv/aspose.cells/globalizationsettings)
+* modul [`aspose.cells`](../../)
+* klass [`GlobalizationSettings`](/cells/python-net/sv/aspose.cells/globalizationsettings)

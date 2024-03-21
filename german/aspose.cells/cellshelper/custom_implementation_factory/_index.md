@@ -3,7 +3,7 @@ title: custom_implementation_factory Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 210
+weight: 220
 url: /de/aspose.cells/cellshelper/custom_implementation_factory/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def custom_implementation_factory(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellsHelper](/cells/python-net/de/aspose.cells/cellshelper)
-* Klasse [CustomImplementationFactory](/cells/python-net/de/aspose.cells/customimplementationfactory)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellsHelper`](/cells/python-net/de/aspose.cells/cellshelper)
+* Klasse [`CustomImplementationFactory`](/cells/python-net/de/aspose.cells/customimplementationfactory)

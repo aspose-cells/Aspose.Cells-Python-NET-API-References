@@ -1,15 +1,15 @@
 ---
-title: height 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: height属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 120
 url: /zh/aspose.cells/comment/height/
 is_root: false
 ---
-## height 属性
+## height属性
 
-表示评论的高度，单位为像素。
+表示评论的高度，以像素为单位。
 
 ### 例子
 
@@ -29,5 +29,5 @@ def height(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)

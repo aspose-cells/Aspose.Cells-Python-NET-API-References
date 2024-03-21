@@ -1,15 +1,15 @@
 ---
-title: code_name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: code_name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 430
 url: /zh/aspose.cells/worksheet/code_name/
 is_root: false
 ---
-## code_name 属性
+## code_name属性
 
-获取工作表代号。
+获取工作表代码名称。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def code_name(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Worksheet](/cells/python-net/zh/aspose.cells/worksheet)
+* 模块[`aspose.cells`](../../)
+* 类 [`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet)

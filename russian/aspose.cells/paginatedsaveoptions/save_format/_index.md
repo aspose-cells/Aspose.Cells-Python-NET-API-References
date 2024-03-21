@@ -1,9 +1,9 @@
 ---
 title: save_format недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ru/aspose.cells/paginatedsaveoptions/save_format/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def save_format(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PaginatedSaveOptions](/cells/python-net/ru/aspose.cells/paginatedsaveoptions)
-* класс [SaveFormat](/cells/python-net/ru/aspose.cells/saveformat)
+* модуль [`aspose.cells`](../../)
+* класс [`PaginatedSaveOptions`](/cells/python-net/ru/aspose.cells/paginatedsaveoptions)
+* класс [`SaveFormat`](/cells/python-net/ru/aspose.cells/saveformat)

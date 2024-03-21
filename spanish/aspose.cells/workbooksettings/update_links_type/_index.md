@@ -3,7 +3,7 @@ title: update_links_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 620
+weight: 500
 url: /es/aspose.cells/workbooksettings/update_links_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def update_links_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [UpdateLinksType](/cells/python-net/es/aspose.cells/updatelinkstype)
-* clase [WorkbookSettings](/cells/python-net/es/aspose.cells/workbooksettings)
+* módulo [`aspose.cells`](../../)
+* clase [`UpdateLinksType`](/cells/python-net/es/aspose.cells/updatelinkstype)
+* clase [`WorkbookSettings`](/cells/python-net/es/aspose.cells/workbooksettings)

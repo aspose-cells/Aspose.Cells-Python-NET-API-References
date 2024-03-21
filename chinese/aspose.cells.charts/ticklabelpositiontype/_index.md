@@ -1,9 +1,9 @@
 ---
 title: TickLabelPositionType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 640
+weight: 650
 url: /zh/aspose.cells.charts/ticklabelpositiontype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-TickLabelPositionType 类型公开了以下成员：
+TickLabelPositionType 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
-| HIGH |职位类型高。|
+| HIGH |职位类型为高位。|
 | LOW |职位类型低。|
-| NEXT_TO_AXIS |位置类型在轴旁边。|
+| NEXT_TO_AXIS |位置类型位于轴旁边。|
 | NONE |职位类型为无。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

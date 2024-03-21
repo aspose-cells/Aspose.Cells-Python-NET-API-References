@@ -3,7 +3,7 @@ title: type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 280
 url: /sv/aspose.cells/validation/type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Validation](/cells/python-net/sv/aspose.cells/validation)
-* klass [ValidationType](/cells/python-net/sv/aspose.cells/validationtype)
+* modul [`aspose.cells`](../../)
+* klass [`Validation`](/cells/python-net/sv/aspose.cells/validation)
+* klass [`ValidationType`](/cells/python-net/sv/aspose.cells/validationtype)

@@ -1,15 +1,15 @@
 ---
-title: has_drop_lines 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: has_drop_lines属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 200
+weight: 190
 url: /zh/aspose.cells.charts/series/has_drop_lines/
 is_root: false
 ---
-## has_drop_lines 属性
+## has_drop_lines属性
 
-如果图表有下降线，则为真。
+如果图表有垂线，则为 true。
 仅适用于折线图或面积图。
 ### 定义：
 ```python
@@ -22,5 +22,5 @@ def has_drop_lines(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Series](/cells/python-net/zh/aspose.cells.charts/series)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Series`](/cells/python-net/zh/aspose.cells.charts/series)

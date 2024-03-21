@@ -3,7 +3,7 @@ title: has_line fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 420
 url: /sv/aspose.cells.drawing/smartartshape/has_line/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def has_line(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [SmartArtShape](/cells/python-net/sv/aspose.cells.drawing/smartartshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`SmartArtShape`](/cells/python-net/sv/aspose.cells.drawing/smartartshape)

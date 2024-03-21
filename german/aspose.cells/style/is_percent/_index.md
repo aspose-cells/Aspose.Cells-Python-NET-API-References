@@ -3,7 +3,7 @@ title: is_percent Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 370
 url: /de/aspose.cells/style/is_percent/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_percent(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

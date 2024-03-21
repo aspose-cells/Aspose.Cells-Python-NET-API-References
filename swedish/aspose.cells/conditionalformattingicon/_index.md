@@ -3,7 +3,7 @@ title: ConditionalFormattingIcon klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 320
 url: /sv/aspose.cells/conditionalformattingicon/
 is_root: false
 ---
@@ -25,10 +25,10 @@ Typen ConditionalFormattingIcon avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_icon_image_data(type, index)](/cells/python-net/sv/aspose.cells/conditionalformattingicon/get_icon_image_data/#IconSetType-int) | Hämta ikonuppsättningsdata|
-| [get_image_data(cell)](/cells/python-net/sv/aspose.cells/conditionalformattingicon/get_image_data/#Cell) | Hämtar bilddata med inställningen av cell.|
+| [get_icon_image_data](/cells/python-net/sv/aspose.cells/conditionalformattingicon/get_icon_image_data/#aspose.cells.IconSetType-int) | Hämta ikonuppsättningsdata|
+| [get_image_data](/cells/python-net/sv/aspose.cells/conditionalformattingicon/get_image_data/#aspose.cells.Cell) | Hämtar bilddata med inställningen av cell.|
 
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

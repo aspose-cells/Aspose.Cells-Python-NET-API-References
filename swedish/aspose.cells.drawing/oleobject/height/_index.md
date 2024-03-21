@@ -3,7 +3,7 @@ title: height fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 500
+weight: 510
 url: /sv/aspose.cells.drawing/oleobject/height/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def height(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

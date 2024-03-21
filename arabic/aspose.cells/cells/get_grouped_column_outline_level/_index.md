@@ -3,12 +3,12 @@ title: طريقة get_grouped_column_outline_level
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 380
 url: /ar/aspose.cells/cells/get_grouped_column_outline_level/
 is_root: false
 ---
-##  get_grouped_column_outline_level(column_index) {#int}
-يحصل على مستوى المخطط التفصيلي (على أساس الصفر) للعمود.
+##  get_grouped_column_outline_level {#int}
+الحصول على مستوى المخطط التفصيلي (المستند إلى الصفر) للعمود.
 
 
 ###  عائدات
@@ -27,10 +27,10 @@ def get_grouped_column_outline_level(self, column_index):
 | column_index | int | فهرس العمود|
 ###  ملاحظات
 
-إذا لم يتم تجميع العمود ، يتم إرجاع صفر.
+إذا لم يتم تجميع العمود، فسيتم إرجاع صفر.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

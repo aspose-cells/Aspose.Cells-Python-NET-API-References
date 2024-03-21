@@ -1,5 +1,5 @@
 ---
-title: filter_by_fill_color الملكية
+title: filter_by_fill_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,13 @@ weight: 40
 url: /ar/aspose.cells/colorfilter/filter_by_fill_color/
 is_root: false
 ---
-##  filter_by_fill_color الملكية
+##  filter_by_fill_color عقار
 
-علامة تشير إلى ما إذا كان التصفية حسب لون تعبئة الخلية.
+ما إذا كان سيتم التصفية حسب لون تعبئة الخلية.
+
+###  ملاحظات
+
+صحيح: لون تعبئة الخلية؛ خطأ: لون خط الخلية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +25,5 @@ def filter_by_fill_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ColorFilter](/cells/python-net/ar/aspose.cells/colorfilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ColorFilter`](/cells/python-net/ar/aspose.cells/colorfilter)

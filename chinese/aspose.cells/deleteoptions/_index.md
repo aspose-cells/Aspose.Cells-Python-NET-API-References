@@ -1,23 +1,23 @@
 ---
 title: DeleteOptions类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 470
+weight: 490
 url: /zh/aspose.cells/deleteoptions/
 is_root: false
 ---
 ## DeleteOptions类
-表示删除行/列的设置。
+代表删除行/列的设置。
 
 
 
-DeleteOptions 类型公开了以下成员：
+DeleteOptions 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [DeleteOptions()](/cells/python-net/zh/aspose.cells/deleteoptions/__init__/#) |构造 DeleteOptions 的新实例|
+| [__init__](/cells/python-net/zh/aspose.cells/deleteoptions/__init__/#) |构造一个新的DeleteOptions实例|
 
 
 ### 特性
@@ -28,4 +28,4 @@ DeleteOptions 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: direction_type proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 140
+weight: 150
 url: /it/aspose.cells.charts/legend/direction_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def direction_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ChartTextDirectionType](/cells/python-net/it/aspose.cells.charts/charttextdirectiontype)
-* classe [Legend](/cells/python-net/it/aspose.cells.charts/legend)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ChartTextDirectionType`](/cells/python-net/it/aspose.cells.charts/charttextdirectiontype)
+* classe [`Legend`](/cells/python-net/it/aspose.cells.charts/legend)

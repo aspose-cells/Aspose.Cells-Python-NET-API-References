@@ -3,7 +3,7 @@ title: width mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 520
+weight: 510
 url: /tr/aspose.cells.charts/datalabels/width/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Grafik alanının 1/4000'lik birimlerinde çerçevenin width'ini alır veya ayar
 
 ###  Notlar
 
- 1/4000 birimleri piksele nasıl çevrilir?
+ 1/4000 birimleri piksele nasıl dönüştürülür?
 Piksel Olarak Genişlik = Genişlik * Chart.ChartObject.Height / 4000;
 ###  Tanım:
 ```python
@@ -26,5 +26,5 @@ def width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [DataLabels](/cells/python-net/tr/aspose.cells.charts/datalabels)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`DataLabels`](/cells/python-net/tr/aspose.cells.charts/datalabels)

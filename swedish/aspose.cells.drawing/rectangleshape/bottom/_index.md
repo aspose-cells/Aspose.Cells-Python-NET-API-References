@@ -3,7 +3,7 @@ title: bottom fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 310
 url: /sv/aspose.cells.drawing/rectangleshape/bottom/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def bottom(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RectangleShape](/cells/python-net/sv/aspose.cells.drawing/rectangleshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RectangleShape`](/cells/python-net/sv/aspose.cells.drawing/rectangleshape)

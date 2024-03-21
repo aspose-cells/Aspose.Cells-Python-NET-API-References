@@ -3,7 +3,7 @@ title: display_as_icon mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 380
+weight: 400
 url: /tr/aspose.cells.drawing/picture/display_as_icon/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def display_as_icon(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)

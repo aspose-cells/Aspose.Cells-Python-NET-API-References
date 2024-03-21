@@ -1,15 +1,15 @@
 ---
-title: text_vertical_overflow الملكية
+title: text_vertical_overflow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /ar/aspose.cells.drawing/checkbox/text_vertical_overflow/
 is_root: false
 ---
-##  text_vertical_overflow الملكية
+##  text_vertical_overflow عقار
 
-الحصول على وتعيين نوع تجاوز النص العمودي للشكل الذي يحتوي على نص.
+الحصول على نوع التجاوز الرأسي للنص وتعيينه للشكل الذي يحتوي على نص.
 
 ###  مثال
 
@@ -31,6 +31,6 @@ def text_vertical_overflow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CheckBox](/cells/python-net/ar/aspose.cells.drawing/checkbox)
-* فئة [TextOverflowType](/cells/python-net/ar/aspose.cells.drawing/textoverflowtype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CheckBox`](/cells/python-net/ar/aspose.cells.drawing/checkbox)
+* فئة [`TextOverflowType`](/cells/python-net/ar/aspose.cells.drawing/textoverflowtype)

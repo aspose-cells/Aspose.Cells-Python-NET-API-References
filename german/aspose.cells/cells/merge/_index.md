@@ -3,12 +3,12 @@ title: merge Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 790
+weight: 780
 url: /de/aspose.cells/cells/merge/
 is_root: false
 ---
-##  merge(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
-Führt einen angegebenen Zellbereich zu einer einzigen Zelle zusammen.
+##  merge {#int-int-int-int}
+Führt einen angegebenen Zellbereich zu einer einzelnen Zelle zusammen.
 
 
 
@@ -22,15 +22,15 @@ def merge(self, first_row, first_column, total_rows, total_columns):
 | :- | :- | :- |
 | first_row | int | Erste Zeile dieses Bereichs (nullbasiert)|
 | first_column | int | Erste Spalte dieses Bereichs (nullbasiert)|
-| total_rows | int | Anzahl der Zeilen (eins basiert)|
-| total_columns | int | Anzahl der Spalten (eins basiert)|
+| total_rows | int | Anzahl der Zeilen (einsbasiert)|
+| total_columns | int | Anzahl der Spalten (auf einer basierend)|
 ###  Bemerkungen
 
-Verweisen Sie auf die verbundene Zelle über die Adresse der linken oberen Zelle im Bereich.
+Referenzieren Sie die zusammengeführte Zelle über die Adresse der Zelle oben links im Bereich.
 
-##  merge(first_row, first_column, total_rows, total_columns, merge_conflict) {#int-int-int-int-bool}
+##  merge {#int-int-int-int-bool}
 
-Führt einen angegebenen Zellbereich zu einer einzigen Zelle zusammen.
+Führt einen angegebenen Zellbereich zu einer einzelnen Zelle zusammen.
 
 
 
@@ -44,17 +44,17 @@ def merge(self, first_row, first_column, total_rows, total_columns, merge_confli
 | :- | :- | :- |
 | first_row | int | Erste Zeile dieses Bereichs (nullbasiert)|
 | first_column | int | Erste Spalte dieses Bereichs (nullbasiert)|
-| total_rows | int | Anzahl der Zeilen (eins basiert)|
-| total_columns | int | Anzahl der Spalten (eins basiert)|
-| merge_conflict | bool | Konflikt zusammengeführte Bereiche zusammenführen.|
+| total_rows | int | Anzahl der Zeilen (einsbasiert)|
+| total_columns | int | Anzahl der Spalten (auf einer basierend)|
+| merge_conflict | bool | Konflikt zwischen zusammengeführten Bereichen zusammenführen.|
 ###  Bemerkungen
 
-Verweisen Sie auf die verbundene Zelle über die Adresse der linken oberen Zelle im Bereich.
-Wenn mergeConflict wahr ist und der verbundene Bereich mit anderen verbundenen Zellen in Konflikt steht,
-andere verbundene Zellen werden automatisch entfernt.
+Referenzieren Sie die zusammengeführte Zelle über die Adresse der Zelle oben links im Bereich.
+Wenn mergeConflict wahr ist und der zusammengeführte Bereich mit anderen zusammengeführten Zellen in Konflikt steht,
+Andere verbundene Zellen werden automatisch entfernt.
 
-##  merge(first_row, first_column, total_rows, total_columns, check_conflict, merge_conflict) {#int-int-int-int-bool-bool}
-Führt einen angegebenen Zellbereich zu einer einzigen Zelle zusammen.
+##  merge {#int-int-int-int-bool-bool}
+Führt einen angegebenen Zellbereich zu einer einzelnen Zelle zusammen.
 
 
 
@@ -68,17 +68,17 @@ def merge(self, first_row, first_column, total_rows, total_columns, check_confli
 | :- | :- | :- |
 | first_row | int | Erste Zeile dieses Bereichs (nullbasiert)|
 | first_column | int | Erste Spalte dieses Bereichs (nullbasiert)|
-| total_rows | int | Anzahl der Zeilen (eins basiert)|
-| total_columns | int | Anzahl der Spalten (eins basiert)|
-| check_conflict | bool | Gibt an, ob sich die verbundenen Zellen mit anderen verbundenen Zellen überschneiden|
-| merge_conflict | bool | Konflikt zusammengeführte Bereiche zusammenführen.|
+| total_rows | int | Anzahl der Zeilen (einsbasiert)|
+| total_columns | int | Anzahl der Spalten (auf einer basierend)|
+| check_conflict | bool | Gibt an, ob überprüft wird, ob die zusammengeführten Zellen andere zusammengeführte Zellen überschneiden|
+| merge_conflict | bool | Konflikt zwischen zusammengeführten Bereichen zusammenführen.|
 ###  Bemerkungen
 
-Verweisen Sie auf die verbundene Zelle über die Adresse der linken oberen Zelle im Bereich.
-Wenn mergeConflict wahr ist und der verbundene Bereich mit anderen verbundenen Zellen in Konflikt steht,
-andere verbundene Zellen werden automatisch entfernt.
+Referenzieren Sie die zusammengeführte Zelle über die Adresse der Zelle oben links im Bereich.
+Wenn mergeConflict wahr ist und der zusammengeführte Bereich mit anderen zusammengeführten Zellen in Konflikt steht,
+Andere verbundene Zellen werden automatisch entfernt.
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

@@ -1,13 +1,13 @@
 ---
-title: update_selected_value método
+title: método update_selected_value
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 240
 url: /es/aspose.cells.drawing/rectangleshape/update_selected_value/
 is_root: false
 ---
-##  update_selected_value() {#}
+##  update_selected_value {#}
 Actualice el valor seleccionado por el valor de la celda vinculada.
 
 
@@ -25,8 +25,6 @@ def update_selected_value(self):
 from aspose import pycore
 from aspose.cells.drawing import ListBox
 
-# Initialize a new workbook.
-# Workbook book = new Workbook();
 cell = None
 for i in range(10):
     cell = book.worksheets[0].cells.get(i, 0)
@@ -61,5 +59,5 @@ if listbx.is_selected(3):
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [RectangleShape](/cells/python-net/es/aspose.cells.drawing/rectangleshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`RectangleShape`](/cells/python-net/es/aspose.cells.drawing/rectangleshape)

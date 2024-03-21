@@ -1,13 +1,13 @@
 ---
-title: line الملكية
+title: line عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 370
 url: /ar/aspose.cells.charts/chart/line/
 is_root: false
 ---
-##  line الملكية
+##  line عقار
 
 يحصل على line.
 ###  تعريف:
@@ -18,6 +18,6 @@ def line(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)

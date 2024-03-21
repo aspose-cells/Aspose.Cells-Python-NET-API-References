@@ -3,13 +3,13 @@ title: spt mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /tr/aspose.cells.drawing/picture/spt/
 is_root: false
 ---
 ##  spt mülk
 
-Belirli bir şekli tanımlı bir şekil tipiyle ilişkilendirmek için bir uygulamanın kullanabileceği isteğe bağlı bir sayı belirtir.
+Bir uygulamanın belirli bir şekli tanımlanmış bir şekil türüyle ilişkilendirmek için kullanabileceği isteğe bağlı bir sayıyı belirtir.
 
 ###  Örnek
 
@@ -26,5 +26,5 @@ def spt(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)

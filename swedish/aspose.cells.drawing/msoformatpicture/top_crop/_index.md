@@ -3,7 +3,7 @@ title: top_crop fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 140
 url: /sv/aspose.cells.drawing/msoformatpicture/top_crop/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def top_crop(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoFormatPicture](/cells/python-net/sv/aspose.cells.drawing/msoformatpicture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoFormatPicture`](/cells/python-net/sv/aspose.cells.drawing/msoformatpicture)

@@ -1,13 +1,13 @@
 ---
-title: hyperlinks 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: hyperlinks属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 330
+weight: 350
 url: /zh/aspose.cells/range/hyperlinks/
 is_root: false
 ---
-## hyperlinks 属性
+## hyperlinks属性
 
 获取范围内的所有超链接。
 ### 定义：
@@ -18,5 +18,5 @@ def hyperlinks(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Range](/cells/python-net/zh/aspose.cells/range)
+* 模块[`aspose.cells`](../../)
+* 类 [`Range`](/cells/python-net/zh/aspose.cells/range)

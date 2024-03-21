@@ -1,9 +1,9 @@
 ---
 title: text_orientation_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /ru/aspose.cells.drawing/lineshape/text_orientation_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_orientation_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineShape](/cells/python-net/ru/aspose.cells.drawing/lineshape)
-* класс [TextOrientationType](/cells/python-net/ru/aspose.cells/textorientationtype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineShape`](/cells/python-net/ru/aspose.cells.drawing/lineshape)
+* класс [`TextOrientationType`](/cells/python-net/ru/aspose.cells/textorientationtype)

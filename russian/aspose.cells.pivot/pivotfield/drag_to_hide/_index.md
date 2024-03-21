@@ -1,15 +1,15 @@
 ---
 title: drag_to_hide недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 270
+weight: 300
 url: /ru/aspose.cells.pivot/pivotfield/drag_to_hide/
 is_root: false
 ---
 ##  drag_to_hide недвижимость
 
-Указывает, можно ли перетащить указанное поле в скрытое положение.
+Указывает, можно ли перетащить указанное поле в положение скрытия.
 Значение по умолчанию верно.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def drag_to_hide(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotField](/cells/python-net/ru/aspose.cells.pivot/pivotfield)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotField`](/cells/python-net/ru/aspose.cells.pivot/pivotfield)

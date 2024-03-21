@@ -3,7 +3,7 @@ title: text_horizontal_alignment fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 970
+weight: 980
 url: /sv/aspose.cells.drawing/groupbox/text_horizontal_alignment/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GroupBox](/cells/python-net/sv/aspose.cells.drawing/groupbox)
-* klass [TextAlignmentType](/cells/python-net/sv/aspose.cells/textalignmenttype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GroupBox`](/cells/python-net/sv/aspose.cells.drawing/groupbox)
+* klass [`TextAlignmentType`](/cells/python-net/sv/aspose.cells/textalignmenttype)

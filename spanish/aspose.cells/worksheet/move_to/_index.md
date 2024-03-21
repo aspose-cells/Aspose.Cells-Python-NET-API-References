@@ -1,13 +1,13 @@
 ---
-title: move_to método
+title: método move_to
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 190
 url: /es/aspose.cells/worksheet/move_to/
 is_root: false
 ---
-##  move_to(index) {#int}
+##  move_to {#int}
 Mueve la hoja a otra ubicación en la hoja de cálculo.
 
 
@@ -20,10 +20,10 @@ def move_to(self, index):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| index | int | Índice de hojas de destino.|
+| index | int | Índice de la hoja de destino.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

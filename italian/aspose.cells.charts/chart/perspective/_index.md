@@ -3,7 +3,7 @@ title: perspective proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 380
+weight: 410
 url: /it/aspose.cells.charts/chart/perspective/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def perspective(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)

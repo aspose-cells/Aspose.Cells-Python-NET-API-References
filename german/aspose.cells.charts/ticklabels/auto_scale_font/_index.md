@@ -3,7 +3,7 @@ title: auto_scale_font Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 30
+weight: 40
 url: /de/aspose.cells.charts/ticklabels/auto_scale_font/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def auto_scale_font(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [TickLabels](/cells/python-net/de/aspose.cells.charts/ticklabels)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`TickLabels`](/cells/python-net/de/aspose.cells.charts/ticklabels)

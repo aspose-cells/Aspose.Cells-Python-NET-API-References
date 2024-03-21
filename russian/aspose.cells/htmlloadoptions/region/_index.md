@@ -1,9 +1,9 @@
 ---
 title: region недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 320
+weight: 350
 url: /ru/aspose.cells/htmlloadoptions/region/
 is_root: false
 ---
@@ -13,8 +13,8 @@ is_root: false
 
 ###  Примечания
 
- Если вы не хотите использовать region, сохраненный в файле,
-сбросьте его после прочтения файла.
+ Если вы не хотите использовать сохраненный в файле номер region,
+пожалуйста, сбросьте его после прочтения файла.
 ###  Определение:
 ```python
 @property
@@ -26,6 +26,6 @@ def region(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CountryCode](/cells/python-net/ru/aspose.cells/countrycode)
-* класс [HtmlLoadOptions](/cells/python-net/ru/aspose.cells/htmlloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`CountryCode`](/cells/python-net/ru/aspose.cells/countrycode)
+* класс [`HtmlLoadOptions`](/cells/python-net/ru/aspose.cells/htmlloadoptions)

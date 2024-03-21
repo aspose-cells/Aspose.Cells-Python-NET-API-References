@@ -1,9 +1,9 @@
 ---
 title: Top10Filter класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1490
+weight: 1560
 url: /ru/aspose.cells/top10filter/
 is_root: false
 ---
@@ -12,12 +12,12 @@ is_root: false
 
 
 
-Тип Top10Filter предоставляет следующие члены:
+Тип Top10Filter предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [is_top](/cells/python-net/ru/aspose.cells/top10filter/is_top) | Указывает, является ли это верхним фильтром.|
+| [is_top](/cells/python-net/ru/aspose.cells/top10filter/is_top) | Указывает, является ли это фильтром верхнего уровня.|
 | [is_percent](/cells/python-net/ru/aspose.cells/top10filter/is_percent) | Указывает, являются ли элементы процентными.|
 | [items](/cells/python-net/ru/aspose.cells/top10filter/items) | Получает и задает элементы фильтра.|
 | [criteria](/cells/python-net/ru/aspose.cells/top10filter/criteria) |  |
@@ -25,4 +25,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

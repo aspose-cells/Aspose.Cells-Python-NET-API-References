@@ -1,27 +1,27 @@
 ---
-title: TextStrikeType enumerazione
+title: Enumerazione TextStrikeType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2570
+weight: 2660
 url: /it/aspose.cells/textstriketype/
 is_root: false
 ---
-##  TextStrikeType enumerazione
-Questo tipo specifica il tipo di sciopero.
+##  Enumerazione TextStrikeType
+Questo tipo specifica il tipo di avvertimento.
 
 
 
-Il tipo TextStrikeType espone i membri seguenti:
+Il tipo TextStrikeType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| SINGLE |Un singolo barrato applicato sul testo.|
-| DOUBLE | Una doppia barratura applicata sul testo.|
-| NONE | Nessun avvertimento viene applicato al testo.|
+| SINGLE | Una barra barrata unica applicata al testo.|
+| DOUBLE | Doppia barratura applicata al testo.|
+| NONE | Al testo non viene applicato alcun avvertimento.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

@@ -1,18 +1,18 @@
 ---
-title: PageOrientationType enumerazione
+title: Enumerazione PageOrientationType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 2310
+weight: 2400
 url: /it/aspose.cells/pageorientationtype/
 is_root: false
 ---
-##  PageOrientationType enumerazione
+##  Enumerazione PageOrientationType
 Rappresenta le costanti di orientamento della stampa.
 
 
 
-Il tipo PageOrientationType espone i membri seguenti:
+Il tipo PageOrientationType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -23,4 +23,4 @@ Il tipo PageOrientationType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

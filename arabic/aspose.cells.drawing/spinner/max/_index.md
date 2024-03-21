@@ -1,15 +1,15 @@
 ---
-title: max الملكية
+title: max عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 820
+weight: 830
 url: /ar/aspose.cells.drawing/spinner/max/
 is_root: false
 ---
-##  max الملكية
+##  max عقار
 
-الحصول على أو تحديد القيمة القصوى لشريط التمرير أو نطاق الزيادة والنقصان.
+الحصول على أو تعيين الحد الأقصى لقيمة شريط التمرير أو نطاق القرص الدوار.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def max(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Spinner](/cells/python-net/ar/aspose.cells.drawing/spinner)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Spinner`](/cells/python-net/ar/aspose.cells.drawing/spinner)

@@ -3,7 +3,7 @@ title: locale_dependent fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 40
+weight: 50
 url: /sv/aspose.cells/formulaparseoptions/locale_dependent/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def locale_dependent(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormulaParseOptions](/cells/python-net/sv/aspose.cells/formulaparseoptions)
+* modul [`aspose.cells`](../../)
+* klass [`FormulaParseOptions`](/cells/python-net/sv/aspose.cells/formulaparseoptions)

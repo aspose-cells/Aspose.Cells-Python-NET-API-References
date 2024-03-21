@@ -3,7 +3,7 @@ title: PaneCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1160
+weight: 1200
 url: /sv/aspose.cells/panecollection/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen PaneCollection avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

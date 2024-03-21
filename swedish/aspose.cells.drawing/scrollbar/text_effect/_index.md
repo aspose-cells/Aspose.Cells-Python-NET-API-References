@@ -3,7 +3,7 @@ title: text_effect fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /sv/aspose.cells.drawing/scrollbar/text_effect/
 is_root: false
 ---
@@ -16,7 +16,8 @@ Gäller Shape-objekt som representerar WordArt.
 
 ```python
 
-textEffectFormat = shape.text_effect
+if shape.is_word_art:
+    textEffectFormat = shape.text_effect
 
 ```
 ###  Definition:
@@ -27,6 +28,6 @@ def text_effect(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ScrollBar](/cells/python-net/sv/aspose.cells.drawing/scrollbar)
-* klass [TextEffectFormat](/cells/python-net/sv/aspose.cells.drawing/texteffectformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ScrollBar`](/cells/python-net/sv/aspose.cells.drawing/scrollbar)
+* klass [`TextEffectFormat`](/cells/python-net/sv/aspose.cells.drawing/texteffectformat)

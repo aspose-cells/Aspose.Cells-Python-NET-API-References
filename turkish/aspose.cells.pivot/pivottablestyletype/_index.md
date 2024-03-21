@@ -3,7 +3,7 @@ title: PivotTableStyleType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 230
+weight: 360
 url: /tr/aspose.cells.pivot/pivottablestyletype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Pivot tablo stili türünü temsil eder.
 
 
 
-PivotTableStyleType türü aşağıdaki üyeleri gösterir:
+PivotTableStyleType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NONE |  |
@@ -107,4 +107,4 @@ PivotTableStyleType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](..)
+* modül [`aspose.cells.pivot`](..)

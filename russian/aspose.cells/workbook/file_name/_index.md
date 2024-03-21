@@ -1,9 +1,9 @@
 ---
 title: file_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 560
+weight: 570
 url: /ru/aspose.cells/workbook/file_name/
 is_root: false
 ---
@@ -13,8 +13,8 @@ is_root: false
 
 ###  Примечания
 
-Если файл открывается потоком и есть ссылки на внешние формулы,
-Пожалуйста, установите имя файла.
+Если файл открыт потоком и есть внешние ссылки на формулы,
+пожалуйста, установите имя файла.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def file_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

@@ -1,17 +1,17 @@
 ---
 title: bubble_scale недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 80
+weight: 70
 url: /ru/aspose.cells.charts/series/bubble_scale/
 is_root: false
 ---
 ##  bubble_scale недвижимость
 
- Получает или задает масштабный коэффициент для пузырьков в указанной группе диаграммы.
- Это может быть целочисленное значение от 0 (ноль) до 300,
-соответствует проценту от размера по умолчанию.
+ Получает или задает коэффициент масштабирования для пузырьков в указанной группе диаграмм.
+ Это может быть целое число от 0 (нуля) до 300.
+соответствующий проценту от размера по умолчанию.
 Применяется только к пузырьковым диаграммам.
 ###  Определение:
 ```python
@@ -24,5 +24,5 @@ def bubble_scale(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

@@ -3,7 +3,7 @@ title: Protection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1220
+weight: 1260
 url: /sv/aspose.cells/protection/
 is_root: false
 ---
@@ -25,12 +25,12 @@ Typen Protection avslöjar följande medlemmar:
 | [is_filtering_allowed](/cells/python-net/sv/aspose.cells/protection/is_filtering_allowed) | Representerar om användaren får använda ett autofilter som skapades innan arket skyddades.|
 | [allow_formatting_cell](/cells/python-net/sv/aspose.cells/protection/allow_formatting_cell) | Representerar om formatering av celler är tillåten på ett skyddat kalkylblad.|
 | [is_formatting_cells_allowed](/cells/python-net/sv/aspose.cells/protection/is_formatting_cells_allowed) | Representerar om formatering av celler är tillåten på ett skyddat kalkylblad.|
-| [allow_formatting_column](/cells/python-net/sv/aspose.cells/protection/allow_formatting_column) |Representerar om formatering av kolumner är tillåten på ett skyddat kalkylblad|
-| [is_formatting_columns_allowed](/cells/python-net/sv/aspose.cells/protection/is_formatting_columns_allowed) |Representerar om formatering av kolumner är tillåten på ett skyddat kalkylblad|
+| [allow_formatting_column](/cells/python-net/sv/aspose.cells/protection/allow_formatting_column) | Representerar om formatering av kolumner är tillåten på ett skyddat kalkylblad|
+| [is_formatting_columns_allowed](/cells/python-net/sv/aspose.cells/protection/is_formatting_columns_allowed) | Representerar om formatering av kolumner är tillåten på ett skyddat kalkylblad|
 | [allow_formatting_row](/cells/python-net/sv/aspose.cells/protection/allow_formatting_row) | Representerar om formatering av rader är tillåten på ett skyddat kalkylblad|
 | [is_formatting_rows_allowed](/cells/python-net/sv/aspose.cells/protection/is_formatting_rows_allowed) | Representerar om formatering av rader är tillåten på ett skyddat kalkylblad|
-| [allow_inserting_column](/cells/python-net/sv/aspose.cells/protection/allow_inserting_column) | Representerar om infogning av kolumner är tillåten på ett skyddat kalkylblad|
-| [is_inserting_columns_allowed](/cells/python-net/sv/aspose.cells/protection/is_inserting_columns_allowed) | Representerar om infogning av kolumner är tillåten på ett skyddat kalkylblad|
+| [allow_inserting_column](/cells/python-net/sv/aspose.cells/protection/allow_inserting_column) |Representerar om infogning av kolumner är tillåten på ett skyddat kalkylblad|
+| [is_inserting_columns_allowed](/cells/python-net/sv/aspose.cells/protection/is_inserting_columns_allowed) |Representerar om infogning av kolumner är tillåten på ett skyddat kalkylblad|
 | [allow_inserting_hyperlink](/cells/python-net/sv/aspose.cells/protection/allow_inserting_hyperlink) | Representerar om infogning av hyperlänkar är tillåten på ett skyddat kalkylblad|
 | [is_inserting_hyperlinks_allowed](/cells/python-net/sv/aspose.cells/protection/is_inserting_hyperlinks_allowed) | Representerar om infogning av hyperlänkar är tillåten på ett skyddat kalkylblad|
 | [allow_inserting_row](/cells/python-net/sv/aspose.cells/protection/allow_inserting_row) | Representerar om infogning av rader är tillåten på ett skyddat kalkylblad|
@@ -49,16 +49,16 @@ Typen Protection avslöjar följande medlemmar:
 | [is_protected_with_password](/cells/python-net/sv/aspose.cells/protection/is_protected_with_password) |Indikerar om kalkylbladen är skyddade med lösenord.|
 | [allow_selecting_locked_cell](/cells/python-net/sv/aspose.cells/protection/allow_selecting_locked_cell) | Representerar om användaren får välja låsta celler på ett skyddat kalkylblad.|
 | [is_selecting_locked_cells_allowed](/cells/python-net/sv/aspose.cells/protection/is_selecting_locked_cells_allowed) | Representerar om användaren får välja låsta celler på ett skyddat kalkylblad.|
-| [allow_selecting_unlocked_cell](/cells/python-net/sv/aspose.cells/protection/allow_selecting_unlocked_cell) |Representerar om användaren får välja olåsta celler på ett skyddat kalkylblad.|
-| [is_selecting_unlocked_cells_allowed](/cells/python-net/sv/aspose.cells/protection/is_selecting_unlocked_cells_allowed) |Representerar om användaren får välja olåsta celler på ett skyddat kalkylblad.|
+| [allow_selecting_unlocked_cell](/cells/python-net/sv/aspose.cells/protection/allow_selecting_unlocked_cell) | Representerar om användaren får välja olåsta celler på ett skyddat kalkylblad.|
+| [is_selecting_unlocked_cells_allowed](/cells/python-net/sv/aspose.cells/protection/is_selecting_unlocked_cells_allowed) | Representerar om användaren får välja olåsta celler på ett skyddat kalkylblad.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [copy(source)](/cells/python-net/sv/aspose.cells/protection/copy/#Protection) | Information om kopieringsskydd.|
-| [get_password_hash()](/cells/python-net/sv/aspose.cells/protection/get_password_hash/#) | Hämtar hash för nuvarande lösenord.|
-| [verify_password(password)](/cells/python-net/sv/aspose.cells/protection/verify_password/#str) | Verifierar lösenord.|
+| [copy](/cells/python-net/sv/aspose.cells/protection/copy/#aspose.cells.Protection) | Information om kopieringsskydd.|
+| [get_password_hash](/cells/python-net/sv/aspose.cells/protection/get_password_hash/#) | Hämtar hash för nuvarande lösenord.|
+| [verify_password](/cells/python-net/sv/aspose.cells/protection/verify_password/#str) |Verifierar lösenord.|
 
 
 
@@ -78,4 +78,4 @@ worksheet.protection.allow_selecting_unlocked_cell = True
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

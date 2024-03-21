@@ -3,7 +3,7 @@ title: format_picture propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 380
+weight: 390
 url: /fr/aspose.cells.drawing/scrollbar/format_picture/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def format_picture(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [MsoFormatPicture](/cells/python-net/fr/aspose.cells.drawing/msoformatpicture)
-* classe [ScrollBar](/cells/python-net/fr/aspose.cells.drawing/scrollbar)
+* module [`aspose.cells.drawing`](../../)
+* classe [`MsoFormatPicture`](/cells/python-net/fr/aspose.cells.drawing/msoformatpicture)
+* classe [`ScrollBar`](/cells/python-net/fr/aspose.cells.drawing/scrollbar)

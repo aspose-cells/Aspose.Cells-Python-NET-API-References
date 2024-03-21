@@ -3,13 +3,13 @@ title: worksheet propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1390
+weight: 1400
 url: /fr/aspose.cells.drawing/oleobject/worksheet/
 is_root: false
 ---
 ##  worksheet propriété
 
-Obtient l'objet [Shape.worksheet](/cells/python-net/fr/aspose.cells.drawing/shape#worksheet) qui contient cette forme.
+Obtient l'objet [`Shape.worksheet`](/cells/python-net/fr/aspose.cells.drawing/shape#worksheet) qui contient cette forme.
 
 ###  Exemple
 
@@ -26,6 +26,6 @@ def worksheet(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [OleObject](/cells/python-net/fr/aspose.cells.drawing/oleobject)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells.drawing`](../../)
+* classe [`OleObject`](/cells/python-net/fr/aspose.cells.drawing/oleobject)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

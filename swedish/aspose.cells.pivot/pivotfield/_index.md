@@ -3,7 +3,7 @@ title: PivotField klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 10
+weight: 70
 url: /sv/aspose.cells.pivot/pivotfield/
 is_root: false
 ---
@@ -19,33 +19,34 @@ Typen PivotField avslöjar följande medlemmar:
 | :- | :- |
 | [pivot_items](/cells/python-net/sv/aspose.cells.pivot/pivotfield/pivot_items) | Hämtar pivotposterna i pivotfältet|
 | [range](/cells/python-net/sv/aspose.cells.pivot/pivotfield/range) | Hämtar gruppintervallet för pivotfältet|
+| [group_settings](/cells/python-net/sv/aspose.cells.pivot/pivotfield/group_settings) | Hämtar gruppinställningarna för pivotfältet.|
 | [is_calculated_field](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_calculated_field) | Anger om det angivna pivottabellfältet är beräknat fält.|
 | [base_index](/cells/python-net/sv/aspose.cells.pivot/pivotfield/base_index) | Representerar PivotField-indexet i bas PivotFields.|
-| [position](/cells/python-net/sv/aspose.cells.pivot/pivotfield/position) | Representerar PivotField-indexet i PivotFields.|
-| [name](/cells/python-net/sv/aspose.cells.pivot/pivotfield/name) | Representerar PivotField-namnet.|
+| [position](/cells/python-net/sv/aspose.cells.pivot/pivotfield/position) | Representerar index för [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield) i regionen.|
+| [name](/cells/python-net/sv/aspose.cells.pivot/pivotfield/name) |Representerar namnet på PivotField.|
 | [display_name](/cells/python-net/sv/aspose.cells.pivot/pivotfield/display_name) | Representerar pivotfältets visningsnamn.|
 | [is_auto_subtotals](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_auto_subtotals) | Anger om det angivna fältet visar automatiska delsummor. Standard är sant.|
 | [drag_to_column](/cells/python-net/sv/aspose.cells.pivot/pivotfield/drag_to_column) | Anger om det angivna fältet kan dras till kolumnpositionen.<br/> Standardvärdet är sant.|
 | [drag_to_hide](/cells/python-net/sv/aspose.cells.pivot/pivotfield/drag_to_hide) | Indikerar om det angivna fältet kan dras till gömpositionen.<br/> Standardvärdet är sant.|
 | [drag_to_row](/cells/python-net/sv/aspose.cells.pivot/pivotfield/drag_to_row) | Anger om det angivna fältet kan dras till radpositionen.<br/> Standardvärdet är sant.|
 | [drag_to_page](/cells/python-net/sv/aspose.cells.pivot/pivotfield/drag_to_page) | Anger om det angivna fältet kan dras till sidpositionen.<br/> Standardvärdet är sant.|
-| [drag_to_data](/cells/python-net/sv/aspose.cells.pivot/pivotfield/drag_to_data) |Anger om det angivna fältet kan dras till datapositionen.<br/> Standardvärdet är sant.|
+| [drag_to_data](/cells/python-net/sv/aspose.cells.pivot/pivotfield/drag_to_data) | Anger om det angivna fältet kan dras till datapositionen.<br/> Standardvärdet är sant.|
 | [is_multiple_item_selection_allowed](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_multiple_item_selection_allowed) | anger om fältet kan ha flera objekt<br/>valt i sidfältet<br/> Standardvärdet är falskt.|
 | [is_repeat_item_labels](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_repeat_item_labels) | anger om fältet kan upprepa objektetiketter<br/> Standardvärdet är falskt.|
 | [is_include_new_items_in_filter](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_include_new_items_in_filter) | anger om fältet kan inkludera nya objekt i manuellt filter<br/> Standardvärdet är falskt.|
 | [is_insert_page_breaks_between_items](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_insert_page_breaks_between_items) | anger om fältet kan infoga sidbrytningar mellan objekt<br/>infoga sidbrytning efter varje objekt<br/> Standardvärdet är falskt.|
-| [show_all_items](/cells/python-net/sv/aspose.cells.pivot/pivotfield/show_all_items) | Anger om alla objekt i pivottabellsrapporten visas,<br/>även om de inte innehåller sammanfattande data.<br/>visa objekt utan data<br/> Standardvärdet är falskt.|
-| [non_auto_sort_default](/cells/python-net/sv/aspose.cells.pivot/pivotfield/non_auto_sort_default) | Anger om en sorteringsoperation som kommer att tillämpas på detta pivotfält är en autosorteringsoperation eller en enkel datasortering.|
+| [show_all_items](/cells/python-net/sv/aspose.cells.pivot/pivotfield/show_all_items) | Anger om alla objekt visas i pivottabellsrapporten,<br/>även om de inte innehåller sammanfattande data.<br/>visa objekt utan data<br/> Standardvärdet är falskt.|
+| [non_auto_sort_default](/cells/python-net/sv/aspose.cells.pivot/pivotfield/non_auto_sort_default) |Anger om en sorteringsoperation som kommer att tillämpas på detta pivotfält är en autosorteringsoperation eller en enkel datasortering.|
 | [is_auto_sort](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_auto_sort) | Anger om det angivna pivottabellfältet sorteras automatiskt.|
 | [is_ascend_sort](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_ascend_sort) | Indikerar om det angivna pivottabellfältet är autosorterat stigande.|
 | [auto_sort_field](/cells/python-net/sv/aspose.cells.pivot/pivotfield/auto_sort_field) | Representerar automatiskt sorteringsfältindex.<br/> -1 betyder själva PivotField, andra betyder positionen för datafälten.|
 | [is_auto_show](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_auto_show) | Anger om det angivna pivottabellfältet visas automatiskt, endast giltigt för excel 2003.|
 | [is_ascend_show](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_ascend_show) | Indikerar om det angivna pivottabellfältet automatiskt visas stigande.|
-| [auto_show_count](/cells/python-net/sv/aspose.cells.pivot/pivotfield/auto_show_count) |Representera antalet topp- eller bottenobjekt<br/> som automatiskt visas i det angivna pivottabellfältet.|
+| [auto_show_count](/cells/python-net/sv/aspose.cells.pivot/pivotfield/auto_show_count) | Representera antalet topp- eller bottenobjekt<br/> som automatiskt visas i det angivna pivottabellfältet.|
 | [auto_show_field](/cells/python-net/sv/aspose.cells.pivot/pivotfield/auto_show_field) | Representerar auto show fältindex. -1 betyder själva PivotField.<br/> Det bör vara indexet för datafälten.|
 | [function](/cells/python-net/sv/aspose.cells.pivot/pivotfield/function) | Representerar funktionen som används för att sammanfatta pivottabelldatafältet.|
 | [data_display_format](/cells/python-net/sv/aspose.cells.pivot/pivotfield/data_display_format) | Representerar hur man visar värdena som finns i ett datafält.|
-| [base_field_index](/cells/python-net/sv/aspose.cells.pivot/pivotfield/base_field_index) | Representerar basfältet för en anpassad beräkning.|
+| [base_field_index](/cells/python-net/sv/aspose.cells.pivot/pivotfield/base_field_index) |Representerar basfältet för en anpassad beräkning.|
 | [base_item_position](/cells/python-net/sv/aspose.cells.pivot/pivotfield/base_item_position) | Representerar artikeln i basfältet för en anpassad beräkning.<br/> Gäller endast för datafält.<br/>Eftersom PivotItemPosition.Custom endast är för läsning, om du behöver ställa in PivotItemPosition.Custom,<br/> vänligen ställ in PivotField.BaseItemIndex-attributet.|
 | [base_item_index](/cells/python-net/sv/aspose.cells.pivot/pivotfield/base_item_index) | Representerar artikeln i basfältet för en anpassad beräkning.<br/> Gäller endast för datafält.|
 | [current_page_item](/cells/python-net/sv/aspose.cells.pivot/pivotfield/current_page_item) | Representerar det aktuella sidobjektet som visas för sidfältet (gäller endast för sidfält).|
@@ -53,7 +54,7 @@ Typen PivotField avslöjar följande medlemmar:
 | [insert_blank_row](/cells/python-net/sv/aspose.cells.pivot/pivotfield/insert_blank_row) | Anger om tom rad infogas efter varje objekt.|
 | [show_subtotal_at_top](/cells/python-net/sv/aspose.cells.pivot/pivotfield/show_subtotal_at_top) | när ShowInOutlineForm är sant, visa sedan delsummor överst i listan över objekt istället för längst ned|
 | [show_in_outline_form](/cells/python-net/sv/aspose.cells.pivot/pivotfield/show_in_outline_form) | Anger om layouten av detta fält i konturform i pivottabellvyn|
-| [number_format](/cells/python-net/sv/aspose.cells.pivot/pivotfield/number_format) |Representerar det anpassade visningsformatet för siffror och datum.|
+| [number_format](/cells/python-net/sv/aspose.cells.pivot/pivotfield/number_format) | Representerar det anpassade visningsformatet för siffror och datum.|
 | [items](/cells/python-net/sv/aspose.cells.pivot/pivotfield/items) | Få alla basartiklar;|
 | [original_items](/cells/python-net/sv/aspose.cells.pivot/pivotfield/original_items) | Skaffa de ursprungliga basartiklarna;|
 | [item_count](/cells/python-net/sv/aspose.cells.pivot/pivotfield/item_count) | Hämtar basartikelantalet för detta pivotfält.|
@@ -63,19 +64,25 @@ Typen PivotField avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [hide_item(index, is_hidden)](/cells/python-net/sv/aspose.cells.pivot/pivotfield/hide_item/#int-bool) | Anger om den specifika PivotItem i ett datafält är dold.|
-| [hide_item(item_value, is_hidden)](/cells/python-net/sv/aspose.cells.pivot/pivotfield/hide_item/#str-bool) | Anger om den specifika PivotItem i ett datafält är dold.|
-| [get_pivot_filter_by_type(type)](/cells/python-net/sv/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/#PivotFilterType) | Hämtar pivotfiltret för pivotfältet efter typ|
-| [get_pivot_filters()](/cells/python-net/sv/aspose.cells.pivot/pivotfield/get_pivot_filters/#) | Hämtar pivotfiltren för pivotfältet|
-| [init_pivot_items()](/cells/python-net/sv/aspose.cells.pivot/pivotfield/init_pivot_items/#) | Initiera pivotposterna i pivotfältet|
-| [get_calculated_field_formula()](/cells/python-net/sv/aspose.cells.pivot/pivotfield/get_calculated_field_formula/#) | Hämta formelsträngen för det angivna beräknade fältet.|
-| [set_subtotals(subtotal_type, shown)](/cells/python-net/sv/aspose.cells.pivot/pivotfield/set_subtotals/#PivotFieldSubtotalType-bool) | Anger om det angivna fältet visar dessa delsummor.|
-| [get_subtotals(subtotal_type)](/cells/python-net/sv/aspose.cells.pivot/pivotfield/get_subtotals/#PivotFieldSubtotalType) | Får om det angivna fältet visar dessa delsummor.|
-| [is_hidden_item(index)](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_hidden_item/#int) | Indikerar om den specifika PivotItem är dold.|
-| [is_hidden_item_detail(index)](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_hidden_item_detail/#int) | Indikerar om den specifika PivotItem är dold detalj.|
-| [hide_item_detail(index, is_hidden_detail)](/cells/python-net/sv/aspose.cells.pivot/pivotfield/hide_item_detail/#int-bool) | Anger om den specifika PivotItem i ett pivotfält är dold detalj.|
-| [hide_detail(is_hidden_detail)](/cells/python-net/sv/aspose.cells.pivot/pivotfield/hide_detail/#bool) | Anger om pivotobjekten i ett pivotfält är dolda detaljer. Det är att komprimera/expandera detta fält.|
-| [add_calculated_item(name, formula)](/cells/python-net/sv/aspose.cells.pivot/pivotfield/add_calculated_item/#str-str) |Lägg till ett beräknat objekt i pivotfältet.|
+| [group_by](/cells/python-net/sv/aspose.cells.pivot/pivotfield/group_by/#float-bool) | Gruppera automatiskt fältet med internt|
+| [group_by](/cells/python-net/sv/aspose.cells.pivot/pivotfield/group_by/#DateTime-DateTime-list-float-bool) | Gruppera filen efter datumgrupptyper.|
+| [group_by](/cells/python-net/sv/aspose.cells.pivot/pivotfield/group_by/#float-float-float-bool) |Gruppera filen efter nummer.|
+| [group_by](/cells/python-net/sv/aspose.cells.pivot/pivotfield/group_by/#list-bool) | Anpassa gruppera fältet.|
+| [hide_item](/cells/python-net/sv/aspose.cells.pivot/pivotfield/hide_item/#int-bool) | Anger om den specifika PivotItem i ett datafält är dold.|
+| [hide_item](/cells/python-net/sv/aspose.cells.pivot/pivotfield/hide_item/#str-bool) | Anger om den specifika PivotItem i ett datafält är dold.|
+| [get_pivot_filter_by_type](/cells/python-net/sv/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/#aspose.cells.pivot.PivotFilterType) | Hämtar pivotfiltret för pivotfältet efter typ|
+| [get_pivot_filters](/cells/python-net/sv/aspose.cells.pivot/pivotfield/get_pivot_filters/#) | Hämtar pivotfiltren för pivotfältet|
+| [get_filters](/cells/python-net/sv/aspose.cells.pivot/pivotfield/get_filters/#) | Får alla pivotfilter för detta pivotfält.|
+| [init_pivot_items](/cells/python-net/sv/aspose.cells.pivot/pivotfield/init_pivot_items/#) | Initiera pivotposterna i pivotfältet|
+| [ungroup](/cells/python-net/sv/aspose.cells.pivot/pivotfield/ungroup/#) | Dela upp pivotfältet.|
+| [get_calculated_field_formula](/cells/python-net/sv/aspose.cells.pivot/pivotfield/get_calculated_field_formula/#) | Hämta formelsträngen för det angivna beräknade fältet.|
+| [set_subtotals](/cells/python-net/sv/aspose.cells.pivot/pivotfield/set_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType-bool) | Anger om det angivna fältet visar dessa delsummor.|
+| [get_subtotals](/cells/python-net/sv/aspose.cells.pivot/pivotfield/get_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType) | Anger om angiven delsumma visas.|
+| [is_hidden_item](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_hidden_item/#int) | Indikerar om den specifika PivotItem är dold.|
+| [is_hidden_item_detail](/cells/python-net/sv/aspose.cells.pivot/pivotfield/is_hidden_item_detail/#int) | Indikerar om den specifika PivotItem är dold detalj.|
+| [hide_item_detail](/cells/python-net/sv/aspose.cells.pivot/pivotfield/hide_item_detail/#int-bool) | Anger om den specifika PivotItem i ett pivotfält är dold detalj.|
+| [hide_detail](/cells/python-net/sv/aspose.cells.pivot/pivotfield/hide_detail/#bool) | Anger om pivotobjekten i ett pivotfält är dolda detaljer. Det är att komprimera/expandera detta fält.|
+| [add_calculated_item](/cells/python-net/sv/aspose.cells.pivot/pivotfield/add_calculated_item/#str-str) | Lägg till ett beräknat objekt i pivotfältet.|
 
 
 
@@ -133,4 +140,5 @@ book.save("out.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](..)
+* modul [`aspose.cells.pivot`](..)
+* klass [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield)

@@ -1,40 +1,40 @@
 ---
-title: PivotPageFields الدرجة
+title: PivotPageFields صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 170
 url: /ar/aspose.cells.pivot/pivotpagefields/
 is_root: false
 ---
-##  PivotPageFields الدرجة
+##  PivotPageFields صف
  يمثل عناصر حقل الصفحة المحورية
-إذا كان مصدر بيانات الجدول المحوري هو نطاقات التوحيد.
-يمكن أن تحتوي على ما يصل إلى 4 حقول فقط.
+إذا كان مصدر بيانات الجدول المحوري هو نطاقات الدمج.
+يمكن أن يحتوي فقط على ما يصل إلى 4 حقول.
 
 
 
-يكشف نوع PivotPageFields الأعضاء التالية:
+يكشف النوع PivotPageFields عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [PivotPageFields()](/cells/python-net/ar/aspose.cells.pivot/pivotpagefields/__init__/#) | يمثل عناصر حقل الصفحة المحورية.|
+| [__init__](/cells/python-net/ar/aspose.cells.pivot/pivotpagefields/__init__/#) | يمثل عناصر حقل الصفحة المحورية.|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [page_field_count](/cells/python-net/ar/aspose.cells.pivot/pivotpagefields/page_field_count) | يحصل على عدد حقول الصفحة.|
+| [page_field_count](/cells/python-net/ar/aspose.cells.pivot/pivotpagefields/page_field_count) | الحصول على عدد حقول الصفحة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add_page_field(page_items)](/cells/python-net/ar/aspose.cells.pivot/pivotpagefields/add_page_field/#list) | يضيف حقل صفحة.|
-| [add_identify(range_index, page_item_index)](/cells/python-net/ar/aspose.cells.pivot/pivotpagefields/add_identify/#int-list) | يعيّن تسمية العنصر في كل حقل صفحة لاستخدامه في تحديد نطاق البيانات.<br/> يجب أن تكون قيمة pageItemIndex.Length مساوية لـ PageFieldCount ، لذا يُرجى إضافة حقل الصفحة أولاً.|
+| [add_page_field](/cells/python-net/ar/aspose.cells.pivot/pivotpagefields/add_page_field/#list) | يضيف حقل الصفحة.|
+| [add_identify](/cells/python-net/ar/aspose.cells.pivot/pivotpagefields/add_identify/#int-list) | لتعيين تسمية العنصر في كل حقل صفحة لاستخدامها لتحديد نطاق البيانات.<br/> يجب أن يكون pageItemIndex.Length مساويًا لـ PageFieldCount، لذا يرجى إضافة حقل الصفحة أولاً.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](..)
+* الوحدة [`aspose.cells.pivot`](..)

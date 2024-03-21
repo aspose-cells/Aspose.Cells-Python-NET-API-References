@@ -3,7 +3,7 @@ title: rotation_angle mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 390
+weight: 450
 url: /tr/aspose.cells/style/rotation_angle/
 is_root: false
 ---
@@ -19,13 +19,13 @@ Metin döndürme açısını temsil eder.
 255: Yukarıdan Aşağıya.
 
 
--90: Aşağı.
+-90: Aşağı doğru.
 
 
 90: Yukarı.
 
 
-255 veya -90 ile 90 arasında bir değer ayarlayabilirsiniz.
+255'i veya -90 ile 90 arasında bir değer ayarlayabilirsiniz.
 ###  Tanım:
 ```python
 @property
@@ -37,5 +37,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

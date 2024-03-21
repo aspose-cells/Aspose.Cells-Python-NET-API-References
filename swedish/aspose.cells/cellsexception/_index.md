@@ -3,7 +3,7 @@ title: CellsException klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 220
 url: /sv/aspose.cells/cellsexception/
 is_root: false
 ---
@@ -22,4 +22,4 @@ Typen CellsException avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

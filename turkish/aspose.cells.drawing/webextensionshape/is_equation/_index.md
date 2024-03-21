@@ -3,13 +3,13 @@ title: is_equation mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 520
+weight: 530
 url: /tr/aspose.cells.drawing/webextensionshape/is_equation/
 is_root: false
 ---
 ##  is_equation mülk
 
-Şeklin yalnızca bir denklem içerip içermediğini gösterir.
+Şeklin yalnızca bir denklem içerip içermediğini belirtir.
 
 ###  Örnek
 
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [WebExtensionShape](/cells/python-net/tr/aspose.cells.drawing/webextensionshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`WebExtensionShape`](/cells/python-net/tr/aspose.cells.drawing/webextensionshape)

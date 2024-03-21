@@ -3,26 +3,26 @@ title: AutoFitMergedCellsType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1760
+weight: 1830
 url: /tr/aspose.cells/autofitmergedcellstype/
 is_root: false
 ---
 ##  AutoFitMergedCellsType numaralandırma
-Otomatik sığdırılan birleştirilmiş hücrelerin türünü temsil eder.
+Birleştirilmiş hücrelerin otomatik sığdırma türünü temsil eder.
 
 
 
-AutoFitMergedCellsType türü aşağıdaki üyeleri gösterir:
+AutoFitMergedCellsType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NONE | Birleştirilmiş hücreleri yok sayın.|
+| NONE | Birleştirilmiş hücreleri yoksay.|
 | FIRST_LINE | Yalnızca ilk satırın yüksekliğini genişletir.|
-| LAST_LINE |Yalnızca son satırın yüksekliğini genişletir.|
+| LAST_LINE | Yalnızca son satırın yüksekliğini genişletir.|
 | EACH_LINE | Yalnızca her satırın yüksekliğini genişletir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

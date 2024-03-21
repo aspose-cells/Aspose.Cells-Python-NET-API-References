@@ -3,7 +3,7 @@ title: column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 410
 url: /sv/aspose.cells/cell/column/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

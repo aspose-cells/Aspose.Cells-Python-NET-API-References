@@ -3,7 +3,7 @@ title: right fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 870
+weight: 880
 url: /sv/aspose.cells.drawing/groupshape/right/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def right(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GroupShape](/cells/python-net/sv/aspose.cells.drawing/groupshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GroupShape`](/cells/python-net/sv/aspose.cells.drawing/groupshape)

@@ -3,7 +3,7 @@ title: is_equation proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 520
+weight: 530
 url: /it/aspose.cells.drawing/label/is_equation/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Label](/cells/python-net/it/aspose.cells.drawing/label)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Label`](/cells/python-net/it/aspose.cells.drawing/label)

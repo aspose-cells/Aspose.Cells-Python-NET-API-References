@@ -1,13 +1,13 @@
 ---
 title: set_input_range方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 190
 url: /zh/aspose.cells.drawing/groupbox/set_input_range/
 is_root: false
 ---
-##  set_input_range(formula, is_r1c1, is_local) {#str-bool-bool}
+##  set_input_range {#str-bool-bool}
 设置用于填充控件的范围。
 
 
@@ -22,15 +22,13 @@ def set_input_range(self, formula, is_r1c1, is_local):
 | :- | :- | :- |
 | formula | str |用于填充控件的范围。|
 | is_r1c1 | bool |公式是否需要格式化为R1C1。|
-| is_local | bool |公式是否需要按语言环境格式化。|
+| is_local | bool |公式是否需要按区域设置格式化。|
 
 ### 例子
 
 ```python
 
 # After executing the code below, a ListBox object is created in the generated file. When the selected option is clicked, the selected value is displayed in cell A12.
-# Initialize a new workbook.
-# Workbook book = new Workbook();
 for i in range(10):
     cell = book.worksheets[0].cells.get(i, 0)
     cell.value = i + 1
@@ -49,5 +47,5 @@ listBox.set_linked_cell("$A$12", False, True)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GroupBox](/cells/python-net/zh/aspose.cells.drawing/groupbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GroupBox`](/cells/python-net/zh/aspose.cells.drawing/groupbox)

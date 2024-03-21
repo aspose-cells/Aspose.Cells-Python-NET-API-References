@@ -1,15 +1,15 @@
 ---
-title: is_page_break_preview 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_page_break_preview属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 560
+weight: 580
 url: /zh/aspose.cells/worksheet/is_page_break_preview/
 is_root: false
 ---
-## is_page_break_preview 属性
+## is_page_break_preview属性
 
-指示指定的工作表是否显示在普通视图或分页预览中。
+指示指定的工作表是在普通视图还是分页预览中显示。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def is_page_break_preview(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Worksheet](/cells/python-net/zh/aspose.cells/worksheet)
+* 模块[`aspose.cells`](../../)
+* 类 [`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet)

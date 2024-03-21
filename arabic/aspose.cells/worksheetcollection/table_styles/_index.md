@@ -1,15 +1,15 @@
 ---
-title: table_styles الملكية
+title: table_styles عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 350
 url: /ar/aspose.cells/worksheetcollection/table_styles/
 is_root: false
 ---
-##  table_styles الملكية
+##  table_styles عقار
 
-يحصل على كائن [WorksheetCollection.table_styles](/cells/python-net/ar/aspose.cells/worksheetcollection#table_styles).
+يحصل على كائن [`WorksheetCollection.table_styles`](/cells/python-net/ar/aspose.cells/worksheetcollection#table_styles).
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def table_styles(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TableStyleCollection](/cells/python-net/ar/aspose.cells.tables/tablestylecollection)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TableStyleCollection`](/cells/python-net/ar/aspose.cells.tables/tablestylecollection)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

@@ -3,7 +3,7 @@ title: FilterType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2060
+weight: 2130
 url: /es/aspose.cells/filtertype/
 is_root: false
 ---
@@ -20,7 +20,7 @@ El tipo FilterType expone los siguientes miembros:
 | COLOR_FILTER | Filtrar por color de relleno de la celda.|
 | CUSTOM_FILTERS | Tipo de filtro personalizado.|
 | DYNAMIC_FILTER | Tipo de filtro dinámico.|
-| MULTIPLE_FILTERS | Cuando se eligen varios valores para filtrar, o cuando se elige un grupo de valores de fecha para filtrar,<br/> este elemento agrupa esos criterios juntos.|
+| MULTIPLE_FILTERS | Cuando se eligen varios valores para filtrar, o cuando se elige un grupo de valores de fecha para filtrar,<br/> este elemento agrupa esos criterios.|
 | ICON_FILTER | Filtrar por icono de formato condicional.|
 | TOP10 | Filtro de los 10 mejores.|
 | NONE | Sin filtro.|
@@ -28,4 +28,4 @@ El tipo FilterType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

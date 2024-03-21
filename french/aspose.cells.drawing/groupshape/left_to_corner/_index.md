@@ -3,7 +3,7 @@ title: left_to_corner propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 720
+weight: 730
 url: /fr/aspose.cells.drawing/groupshape/left_to_corner/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def left_to_corner(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GroupShape](/cells/python-net/fr/aspose.cells.drawing/groupshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/fr/aspose.cells.drawing/groupshape)

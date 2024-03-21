@@ -1,13 +1,13 @@
 ---
-title: select_range méthode
+title: méthode select_range
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 240
+weight: 260
 url: /fr/aspose.cells/worksheet/select_range/
 is_root: false
 ---
-##  select_range(start_row, start_column, total_rows, total_columns, remove_others) {#int-int-int-int-bool}
+##  select_range {#int-int-int-int-bool}
 Sélectionne une plage.
 
 
@@ -29,5 +29,5 @@ def select_range(self, start_row, start_column, total_rows, total_columns, remov
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

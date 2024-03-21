@@ -1,9 +1,9 @@
 ---
 title: id недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 500
+weight: 520
 url: /ru/aspose.cells.drawing/textbox/id/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def id(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [TextBox](/cells/python-net/ru/aspose.cells.drawing/textbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`TextBox`](/cells/python-net/ru/aspose.cells.drawing/textbox)

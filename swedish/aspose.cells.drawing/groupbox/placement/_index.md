@@ -3,7 +3,7 @@ title: placement fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 820
+weight: 830
 url: /sv/aspose.cells.drawing/groupbox/placement/
 is_root: false
 ---
@@ -32,6 +32,6 @@ def placement(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GroupBox](/cells/python-net/sv/aspose.cells.drawing/groupbox)
-* klass [PlacementType](/cells/python-net/sv/aspose.cells.drawing/placementtype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GroupBox`](/cells/python-net/sv/aspose.cells.drawing/groupbox)
+* klass [`PlacementType`](/cells/python-net/sv/aspose.cells.drawing/placementtype)

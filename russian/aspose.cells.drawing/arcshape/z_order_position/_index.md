@@ -1,15 +1,15 @@
 ---
 title: z_order_position недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1300
+weight: 1310
 url: /ru/aspose.cells.drawing/arcshape/z_order_position/
 is_root: false
 ---
 ##  z_order_position недвижимость
 
-Возвращает позицию фигуры в z-порядке.
+Возвращает положение фигуры в z-порядке.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def z_order_position(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ArcShape](/cells/python-net/ru/aspose.cells.drawing/arcshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ArcShape`](/cells/python-net/ru/aspose.cells.drawing/arcshape)

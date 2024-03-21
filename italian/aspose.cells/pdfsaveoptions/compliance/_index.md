@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  compliance proprietà
 
-La cartella di lavoro converte in pdf secondo PdfCompliance in questa proprietà.
+Ottiene o imposta il livello PDF standard compliance per i documenti di output.
+
+###  Osservazioni
+
+L'impostazione predefinita è PDF17.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +25,6 @@ def compliance(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PdfCompliance](/cells/python-net/it/aspose.cells.rendering/pdfcompliance)
-* classe [PdfSaveOptions](/cells/python-net/it/aspose.cells/pdfsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`PdfCompliance`](/cells/python-net/it/aspose.cells.rendering/pdfcompliance)
+* classe [`PdfSaveOptions`](/cells/python-net/it/aspose.cells/pdfsaveoptions)

@@ -3,7 +3,7 @@ title: create_id fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 340
 url: /sv/aspose.cells.drawing/smartartshape/create_id/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def create_id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [SmartArtShape](/cells/python-net/sv/aspose.cells.drawing/smartartshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`SmartArtShape`](/cells/python-net/sv/aspose.cells.drawing/smartartshape)

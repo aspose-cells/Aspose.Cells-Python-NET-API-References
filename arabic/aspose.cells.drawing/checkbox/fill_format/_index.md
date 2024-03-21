@@ -1,22 +1,22 @@
 ---
-title: fill_format الملكية
+title: fill_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 380
 url: /ar/aspose.cells.drawing/checkbox/fill_format/
 is_root: false
 ---
-##  fill_format الملكية
+##  fill_format عقار
 
-إرجاع كائن MsoFillFormat يحتوي على خصائص تنسيق التعبئة للشكل المحدد.
+إرجاع كائن MsoFillFormat الذي يحتوي على خصائص تنسيق التعبئة للشكل المحدد.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
- الرجاء استخدام خاصية Shape.Fill.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ يوليو 2016.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ملاحظة: هذا العضو قديم الآن. بدلاً من،
+ من فضلك استخدم خاصية Shape.Fill.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ يوليو 2016.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -25,6 +25,6 @@ def fill_format(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CheckBox](/cells/python-net/ar/aspose.cells.drawing/checkbox)
-* فئة [MsoFillFormat](/cells/python-net/ar/aspose.cells.drawing/msofillformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CheckBox`](/cells/python-net/ar/aspose.cells.drawing/checkbox)
+* فئة [`MsoFillFormat`](/cells/python-net/ar/aspose.cells.drawing/msofillformat)

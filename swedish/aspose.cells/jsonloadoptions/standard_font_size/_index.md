@@ -3,7 +3,7 @@ title: standard_font_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 270
 url: /sv/aspose.cells/jsonloadoptions/standard_font_size/
 is_root: false
 ---
@@ -27,5 +27,5 @@ def standard_font_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [JsonLoadOptions](/cells/python-net/sv/aspose.cells/jsonloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`JsonLoadOptions`](/cells/python-net/sv/aspose.cells/jsonloadoptions)

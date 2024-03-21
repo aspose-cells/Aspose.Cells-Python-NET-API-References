@@ -8,8 +8,6 @@ url: /it/aspose.cells.pivot/sxrng/end/
 is_root: false
 ---
 ##  end proprietà
-
-Rappresenta l'oggetto end per l'intervallo di gruppi.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +16,5 @@ def end(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [SxRng](/cells/python-net/it/aspose.cells.pivot/sxrng)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`SxRng`](/cells/python-net/it/aspose.cells.pivot/sxrng)

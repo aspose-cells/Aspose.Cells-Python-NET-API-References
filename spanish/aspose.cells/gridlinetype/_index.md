@@ -3,7 +3,7 @@ title: GridlineType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2120
+weight: 2190
 url: /es/aspose.cells/gridlinetype/
 is_root: false
 ---
@@ -23,4 +23,4 @@ El tipo GridlineType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

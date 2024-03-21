@@ -1,15 +1,15 @@
 ---
-title: is_visible الملكية
+title: is_visible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 630
 url: /ar/aspose.cells/worksheet/is_visible/
 is_root: false
 ---
-##  is_visible الملكية
+##  is_visible عقار
 
-يمثل إذا كانت ورقة العمل مرئية.
+يمثل ما إذا كانت ورقة العمل مرئية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

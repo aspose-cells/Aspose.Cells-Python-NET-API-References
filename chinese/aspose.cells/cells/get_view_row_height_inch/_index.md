@@ -1,17 +1,17 @@
 ---
 title: get_view_row_height_inch方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 530
+weight: 520
 url: /zh/aspose.cells/cells/get_view_row_height_inch/
 is_root: false
 ---
-##  get_view_row_height_inch(row) {#int}
-以英寸为单位获取指定行的高度。
+##  get_view_row_height_inch {#int}
+获取指定行的高度（以英寸为单位）。
 
 
-### 返回
+### 退货
 
 行高
 
@@ -29,5 +29,5 @@ def get_view_row_height_inch(self, row):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

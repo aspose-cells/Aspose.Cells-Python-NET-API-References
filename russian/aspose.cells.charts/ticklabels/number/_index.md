@@ -1,9 +1,9 @@
 ---
 title: number недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ru/aspose.cells.charts/ticklabels/number/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def number(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [TickLabels](/cells/python-net/ru/aspose.cells.charts/ticklabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`TickLabels`](/cells/python-net/ru/aspose.cells.charts/ticklabels)

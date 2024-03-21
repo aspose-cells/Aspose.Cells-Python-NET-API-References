@@ -3,7 +3,7 @@ title: BubbleSizeRepresents enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 390
+weight: 400
 url: /es/aspose.cells.charts/bubblesizerepresents/
 is_root: false
 ---
@@ -17,10 +17,10 @@ El tipo BubbleSizeRepresents expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| SIZE_IS_AREA | Representa el valor de [Series.bubble_sizes](/cells/python-net/es/aspose.cells.charts/series#bubble_sizes) es el área de la burbuja.|
-| SIZE_IS_WIDTH | Representa el valor de [Series.bubble_sizes](/cells/python-net/es/aspose.cells.charts/series#bubble_sizes) es el ancho de la burbuja.|
+| SIZE_IS_AREA | Representa el valor de [`Series.bubble_sizes`](/cells/python-net/es/aspose.cells.charts/series#bubble_sizes) es el área de la burbuja.|
+| SIZE_IS_WIDTH | Representa el valor de [`Series.bubble_sizes`](/cells/python-net/es/aspose.cells.charts/series#bubble_sizes) que es el ancho de la burbuja.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

@@ -3,12 +3,12 @@ title: remove_at yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 190
 url: /tr/aspose.cells/worksheetcollection/remove_at/
 is_root: false
 ---
-##  remove_at(name) {#str}
-Belirli bir addaki öğeyi kaldırır.
+##  remove_at {#str}
+Belirtilen addaki öğeyi kaldırır.
 
 
 
@@ -25,5 +25,5 @@ def remove_at(self, name):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorksheetCollection](/cells/python-net/tr/aspose.cells/worksheetcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorksheetCollection`](/cells/python-net/tr/aspose.cells/worksheetcollection)

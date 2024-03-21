@@ -1,15 +1,15 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /ru/aspose.cells.drawing/arcshape/type/
 is_root: false
 ---
 ##  type недвижимость
 
-Получает автоматическую форму type.
+Получает автофигуру type.
 
 ###  Пример
 
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ArcShape](/cells/python-net/ru/aspose.cells.drawing/arcshape)
-* класс [AutoShapeType](/cells/python-net/ru/aspose.cells.drawing/autoshapetype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ArcShape`](/cells/python-net/ru/aspose.cells.drawing/arcshape)
+* класс [`AutoShapeType`](/cells/python-net/ru/aspose.cells.drawing/autoshapetype)

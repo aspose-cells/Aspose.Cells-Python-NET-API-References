@@ -1,21 +1,21 @@
 ---
-title: standard_font_size الملكية
+title: standard_font_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 260
 url: /ar/aspose.cells.numbers/numbersloadoptions/standard_font_size/
 is_root: false
 ---
-##  standard_font_size الملكية
+##  standard_font_size عقار
 
 يضبط حجم الخط القياسي الافتراضي.
 
 ###  ملاحظات
 
-ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من ذلك ، الرجاء استخدام DefaultStyleSettings.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ مارس 2022.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملاحظة: هذا العضو قديم الآن. بدلاً من ذلك، الرجاء استخدام DefaultStyleSettings.
+ ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ مارس 2022.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -27,5 +27,5 @@ def standard_font_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.numbers](../../)
-* فئة [NumbersLoadOptions](/cells/python-net/ar/aspose.cells.numbers/numbersloadoptions)
+* الوحدة [`aspose.cells.numbers`](../../)
+* فئة [`NumbersLoadOptions`](/cells/python-net/ar/aspose.cells.numbers/numbersloadoptions)

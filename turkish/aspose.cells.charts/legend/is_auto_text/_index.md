@@ -3,13 +3,13 @@ title: is_auto_text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 180
 url: /tr/aspose.cells.charts/legend/is_auto_text/
 is_root: false
 ---
 ##  is_auto_text mülk
 
-Metnin otomatik olarak oluşturulduğunu gösterir.
+Metnin otomatik olarak oluşturulduğunu belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_text(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Legend](/cells/python-net/tr/aspose.cells.charts/legend)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Legend`](/cells/python-net/tr/aspose.cells.charts/legend)

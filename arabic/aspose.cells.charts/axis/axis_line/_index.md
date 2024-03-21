@@ -1,15 +1,15 @@
 ---
-title: axis_line الملكية
+title: axis_line عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells.charts/axis/axis_line/
 is_root: false
 ---
-##  axis_line الملكية
+##  axis_line عقار
 
-الحصول على مظهر المحور.
+يحصل على مظهر المحور.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def axis_line(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)

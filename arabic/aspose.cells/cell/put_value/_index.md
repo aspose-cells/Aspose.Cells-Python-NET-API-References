@@ -3,11 +3,11 @@ title: طريقة put_value
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ar/aspose.cells/cell/put_value/
 is_root: false
 ---
-##  put_value(bool_value) {#bool}
+##  put_value {#bool}
 يضع قيمة منطقية في الخلية.
 
 
@@ -23,8 +23,8 @@ def put_value(self, bool_value):
 | bool_value | bool |  |
 
 
-##  put_value(int_value) {#int}
-يضع قيمة عدد صحيح في الخلية.
+##  put_value {#int}
+يضع قيمة عددية في الخلية.
 
 
 
@@ -39,7 +39,7 @@ def put_value(self, int_value):
 | int_value | int | قيمة المدخلات|
 
 
-##  put_value(double_value) {#float}
+##  put_value {#float}
 يضع قيمة مزدوجة في الخلية.
 
 
@@ -55,7 +55,7 @@ def put_value(self, double_value):
 | double_value | float | قيمة المدخلات|
 
 
-##  put_value(string_value) {#str}
+##  put_value {#str}
 يضع قيمة سلسلة في الخلية.
 
 
@@ -71,7 +71,7 @@ def put_value(self, string_value):
 | string_value | str | قيمة المدخلات|
 
 
-##  put_value(date_time) {#DateTime}
+##  put_value {#DateTime}
 يضع قيمة DateTime في الخلية.
 
 
@@ -85,9 +85,34 @@ def put_value(self, date_time):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | date_time | DateTime | قيمة المدخلات|
+###  ملاحظات
+
+لا يعني تعيين قيمة DateTime لجرعة الخلية أنه سيتم تنسيق الخلية كتاريخ ووقت تلقائيًا.
+تم الحفاظ على قيمة DateTime كقيمة رقمية في نموذج البيانات لكل من MS Excel وAspose.Cells.
+ما إذا كان سيتم اعتبار القيمة الرقمية كقيمة رقمية نفسها أو كتاريخ ووقت
+يعتمد على تنسيق الأرقام المطبق على هذه الخلية. إذا لم يتم تنسيق هذه الخلية كتاريخ ووقت،
+سيتم عرضه كقيمة رقمية على الرغم من أن ما تقوم بإدخاله هو DateTime.
+###  مثال
+
+يوضح هذا المثال كيفية تعيين قيمة DateTime لخلية وجعلها معروضة كتاريخ ووقت.
+
+```python
+from aspose.cells import Workbook
+from datetime import datetime
+
+excel = Workbook()
+cells = excel.worksheets[0].cells
+# Put date time into a cell
+cell = cells.get(0, 0)
+cell.put_value(datetime(2023, 5, 15))
+style = cell.get_style(False)
+style.number = 14
+cell.set_style(style)
+
+```
 
 
-##  put_value(object_value) {#any}
+##  put_value {#any}
 يضع قيمة كائن في الخلية.
 
 
@@ -103,7 +128,7 @@ def put_value(self, object_value):
 | object_value | any | قيمة المدخلات|
 
 
-##  put_value(string_value, is_converted) {#str-bool}
+##  put_value {#str-bool}
 يضع قيمة سلسلة في الخلية ويحول القيمة إلى نوع بيانات آخر إذا كان ذلك مناسبًا.
 
 
@@ -117,11 +142,11 @@ def put_value(self, string_value, is_converted):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | string_value | str | قيمة المدخلات|
-| is_converted | bool | صواب: تم التحويل إلى نوع بيانات آخر إذا كان ذلك مناسبًا.|
+| is_converted | bool | صحيح: تم تحويله إلى نوع بيانات آخر إذا كان ذلك مناسبًا.|
 
 
-##  put_value(string_value, is_converted, set_style) {#str-bool-bool}
-يضع قيمة في الخلية ، إذا كان ذلك مناسبًا ، فسيتم تحويل القيمة إلى نوع بيانات آخر وستتم إعادة تعيين تنسيق رقم الخلية.
+##  put_value {#str-bool-bool}
+يضع قيمة في الخلية، وإذا كان ذلك مناسبًا، فسيتم تحويل القيمة إلى نوع بيانات آخر وسيتم إعادة تعيين تنسيق أرقام الخلية.
 
 
 
@@ -134,11 +159,11 @@ def put_value(self, string_value, is_converted, set_style):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | string_value | str | قيمة المدخلات|
-| is_converted | bool | صواب: تم التحويل إلى نوع بيانات آخر إذا كان ذلك مناسبًا.|
-| set_style | bool | صواب: عيّن تنسيق الأرقام على نمط الخلية عند التحويل إلى نوع بيانات آخر|
+| is_converted | bool | صحيح: تم تحويله إلى نوع بيانات آخر إذا كان ذلك مناسبًا.|
+| set_style | bool | صحيح: قم بتعيين تنسيق الأرقام على نمط الخلية عند التحويل إلى نوع بيانات آخر|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

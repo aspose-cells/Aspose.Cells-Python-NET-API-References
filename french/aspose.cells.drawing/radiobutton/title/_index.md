@@ -3,13 +3,13 @@ title: title propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1070
+weight: 1090
 url: /fr/aspose.cells.drawing/radiobutton/title/
 is_root: false
 ---
 ##  title propriété
 
-Spécifie le title (légende) de l'objet forme actuel.
+Spécifie le title (légende) de l'objet de forme actuel.
 
 ###  Exemple
 
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)

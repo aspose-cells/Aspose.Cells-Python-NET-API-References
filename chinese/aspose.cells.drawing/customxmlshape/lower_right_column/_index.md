@@ -1,15 +1,15 @@
 ---
-title: lower_right_column 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: lower_right_column属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 760
+weight: 770
 url: /zh/aspose.cells.drawing/customxmlshape/lower_right_column/
 is_root: false
 ---
-## lower_right_column 属性
+## lower_right_column属性
 
-代表右下角的列索引。
+代表右下角列索引。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def lower_right_column(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CustomXmlShape](/cells/python-net/zh/aspose.cells.drawing/customxmlshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CustomXmlShape`](/cells/python-net/zh/aspose.cells.drawing/customxmlshape)

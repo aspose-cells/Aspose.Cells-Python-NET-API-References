@@ -3,18 +3,18 @@ title: built_in_document_properties Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 250
+weight: 260
 url: /de/aspose.cells/worksheetcollection/built_in_document_properties/
 is_root: false
 ---
 ##  built_in_document_properties Eigentum
 
-Gibt eine [DocumentProperty](/cells/python-net/de/aspose.cells.properties/documentproperty)-Sammlung zurück, die alle integrierten Dokumenteigenschaften der Tabelle darstellt.
+Gibt eine [`DocumentProperty`](/cells/python-net/de/aspose.cells.properties/documentproperty)-Sammlung zurück, die alle integrierten Dokumenteigenschaften der Tabelle darstellt.
 
 ###  Bemerkungen
 
-Der Liste der integrierten Dokumenteigenschaften kann keine neue Eigenschaft hinzugefügt werden. Sie können nur eine eingebaute Eigenschaft abrufen und ihren Wert ändern.
-Das Folgende ist die Namensliste der integrierten Eigenschaften:
+Der integrierten Dokumenteigenschaftenliste kann keine neue Eigenschaft hinzugefügt werden. Sie können nur eine integrierte Eigenschaft abrufen und ihren Wert ändern.
+Das Folgende ist die Liste der integrierten Eigenschaftennamen:
 
 Titel
 
@@ -106,7 +106,7 @@ def built_in_document_properties(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [BuiltInDocumentPropertyCollection](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)
-* Klasse [DocumentProperty](/cells/python-net/de/aspose.cells.properties/documentproperty)
-* Klasse [WorksheetCollection](/cells/python-net/de/aspose.cells/worksheetcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`BuiltInDocumentPropertyCollection`](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)
+* Klasse [`DocumentProperty`](/cells/python-net/de/aspose.cells.properties/documentproperty)
+* Klasse [`WorksheetCollection`](/cells/python-net/de/aspose.cells/worksheetcollection)

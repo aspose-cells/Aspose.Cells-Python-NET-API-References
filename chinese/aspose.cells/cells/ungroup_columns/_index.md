@@ -1,14 +1,14 @@
 ---
 title: ungroup_columns方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 950
+weight: 940
 url: /zh/aspose.cells/cells/ungroup_columns/
 is_root: false
 ---
-##  ungroup_columns(first_index, last_index) {#int-int}
-取消分组列。
+##  ungroup_columns {#int-int}
+取消列分组。
 
 
 
@@ -26,5 +26,5 @@ def ungroup_columns(self, first_index, last_index):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

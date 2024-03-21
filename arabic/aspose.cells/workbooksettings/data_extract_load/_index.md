@@ -1,15 +1,15 @@
 ---
-title: data_extract_load الملكية
+title: data_extract_load عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 140
 url: /ar/aspose.cells/workbooksettings/data_extract_load/
 is_root: false
 ---
-##  data_extract_load الملكية
+##  data_extract_load عقار
 
-يشير إلى ما إذا كان التطبيق قد فتح المصنف آخر مرة لاستعادة البيانات.
+يشير إلى ما إذا كان التطبيق قد قام بفتح المصنف لاستعادة البيانات آخر مرة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def data_extract_load(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

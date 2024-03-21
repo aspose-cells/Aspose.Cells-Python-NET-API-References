@@ -3,7 +3,7 @@ title: title propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /es/aspose.cells.drawing/smartartshape/title/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [SmartArtShape](/cells/python-net/es/aspose.cells.drawing/smartartshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`SmartArtShape`](/cells/python-net/es/aspose.cells.drawing/smartartshape)

@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  fill_forms_permission mülk
 
-Form alanlarını doldurma izni.
+ Mevcut etkileşimli form alanlarının (imza alanları dahil) doldurulmasına izin verilip verilmeyeceğini belirtir.
+[`PdfSecurityOptions.modify_document_permission`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) açık olsa bile.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +22,5 @@ def fill_forms_permission(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering.pdfsecurity](../../)
-* sınıf [PdfSecurityOptions](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modül [`aspose.cells.rendering.pdfsecurity`](../../)
+* sınıf [`PdfSecurityOptions`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

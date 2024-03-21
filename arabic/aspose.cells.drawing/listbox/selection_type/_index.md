@@ -1,15 +1,15 @@
 ---
-title: selection_type الملكية
+title: selection_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 930
+weight: 940
 url: /ar/aspose.cells.drawing/listbox/selection_type/
 is_root: false
 ---
-##  selection_type الملكية
+##  selection_type عقار
 
-الحصول على أو تحديد وضع التحديد لمربع القائمة المحدد.
+الحصول على أو تعيين وضع التحديد لمربع القائمة المحدد.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def selection_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
-* فئة [SelectionType](/cells/python-net/ar/aspose.cells.drawing/selectiontype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* فئة [`SelectionType`](/cells/python-net/ar/aspose.cells.drawing/selectiontype)

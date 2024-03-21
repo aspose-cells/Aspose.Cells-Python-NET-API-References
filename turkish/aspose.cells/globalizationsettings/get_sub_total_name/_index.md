@@ -3,17 +3,17 @@ title: get_sub_total_name yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 220
 url: /tr/aspose.cells/globalizationsettings/get_sub_total_name/
 is_root: false
 ---
-##  get_sub_total_name(sub_total_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
-PivotTable'da [PivotFieldSubtotalType](/cells/python-net/tr/aspose.cells.pivot/pivotfieldsubtotaltype) türünün adını alır.
+##  get_sub_total_name {#aspose.cells.pivot.PivotFieldSubtotalType}
+PivotTable'daki [`PivotFieldSubtotalType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldsubtotaltype) türünün adını alır.
 
 
 ###  İadeler
 
-[PivotFieldSubtotalType](/cells/python-net/tr/aspose.cells.pivot/pivotfieldsubtotaltype) türünün adı
+[`PivotFieldSubtotalType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldsubtotaltype) tipinin adı
 
 
 ```python
@@ -24,16 +24,16 @@ def get_sub_total_name(self, sub_total_type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| sub_total_type | aspose.cells.pivot.PivotFieldSubtotalType | [PivotFieldSubtotalType](/cells/python-net/tr/aspose.cells.pivot/pivotfieldsubtotaltype) tipi|
+| sub_total_type | aspose.cells.pivot.PivotFieldSubtotalType | [`PivotFieldSubtotalType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldsubtotaltype) türü|
 ###  Notlar
 
 NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen GlobalizationSettings.GetColumnLabelsOfPivotTable() yöntemini kullanın.
- Bu mülk, Aralık 2022'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+lütfen PivotGlobalizationSettings.GetColumnLabelsOfPivotTable() yöntemini kullanın.
+ Bu mülk, Aralık 2022'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [GlobalizationSettings](/cells/python-net/tr/aspose.cells/globalizationsettings)
-* sınıf [PivotFieldSubtotalType](/cells/python-net/tr/aspose.cells.pivot/pivotfieldsubtotaltype)
+* modül [`aspose.cells`](../../)
+* sınıf [`GlobalizationSettings`](/cells/python-net/tr/aspose.cells/globalizationsettings)
+* sınıf [`PivotFieldSubtotalType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldsubtotaltype)

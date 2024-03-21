@@ -3,13 +3,13 @@ title: font proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 100
+weight: 110
 url: /it/aspose.cells/comment/font/
 is_root: false
 ---
 ##  font proprietà
 
-Ottiene lo font di commento.
+Ottiene lo font del commento.
 
 ###  Esempio
 
@@ -27,6 +27,6 @@ def font(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Comment](/cells/python-net/it/aspose.cells/comment)
-* classe [Font](/cells/python-net/it/aspose.cells/font)
+* modulo [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/it/aspose.cells/comment)
+* classe [`Font`](/cells/python-net/it/aspose.cells/font)

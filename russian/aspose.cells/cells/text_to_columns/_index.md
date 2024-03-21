@@ -1,13 +1,13 @@
 ---
 title: text_to_columns метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 930
+weight: 920
 url: /ru/aspose.cells/cells/text_to_columns/
 is_root: false
 ---
-##  text_to_columns(row, column, total_rows, options) {#int-int-int-TxtLoadOptions}
+##  text_to_columns {#int-int-int-aspose.cells.TxtLoadOptions}
 Разбивает текст в столбце на столбцы.
 
 
@@ -22,11 +22,11 @@ def text_to_columns(self, row, column, total_rows, options):
 | :- | :- | :- |
 | row | int | Индекс строки.|
 | column | int | Индекс столбца.|
-| total_rows | int | Количество рядов.|
-| options | [TxtLoadOptions](/cells/python-net/ru/aspose.cells/txtloadoptions) | Варианты разделения.|
+| total_rows | int | Количество строк.|
+| options | [`TxtLoadOptions`](/cells/python-net/ru/aspose.cells/txtloadoptions) | Варианты разделения.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

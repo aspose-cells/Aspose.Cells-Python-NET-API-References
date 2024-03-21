@@ -1,15 +1,15 @@
 ---
-title: sub_title الملكية
+title: sub_title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 620
 url: /ar/aspose.cells.charts/chart/sub_title/
 is_root: false
 ---
-##  sub_title الملكية
+##  sub_title عقار
 
-الحصول على العنوان الفرعي للرسم البياني.
+يحصل على العنوان الفرعي للمخطط.
 فقط لملف تنسيق ODS.
 ###  تعريف:
 ```python
@@ -19,6 +19,6 @@ def sub_title(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
-* فئة [Title](/cells/python-net/ar/aspose.cells.charts/title)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)
+* فئة [`Title`](/cells/python-net/ar/aspose.cells.charts/title)

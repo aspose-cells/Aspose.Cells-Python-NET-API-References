@@ -3,13 +3,13 @@ title: ignore_not_printed mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 180
 url: /tr/aspose.cells/txtloadoptions/ignore_not_printed/
 is_root: false
 ---
 ##  ignore_not_printed mülk
 
-Dosya doğrudan yazdırılıyorsa yazdırılmayan verileri yok sayın
+Dosya doğrudan yazdırılıyorsa yazdırılmayan verileri dikkate almayın
 
 ###  Notlar
 
@@ -25,5 +25,5 @@ def ignore_not_printed(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TxtLoadOptions](/cells/python-net/tr/aspose.cells/txtloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`TxtLoadOptions`](/cells/python-net/tr/aspose.cells/txtloadoptions)

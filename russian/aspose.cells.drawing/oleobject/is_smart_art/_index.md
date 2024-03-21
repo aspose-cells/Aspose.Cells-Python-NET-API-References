@@ -1,9 +1,9 @@
 ---
 title: is_smart_art недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 760
+weight: 770
 url: /ru/aspose.cells.drawing/oleobject/is_smart_art/
 is_root: false
 ---
@@ -32,5 +32,5 @@ def is_smart_art(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

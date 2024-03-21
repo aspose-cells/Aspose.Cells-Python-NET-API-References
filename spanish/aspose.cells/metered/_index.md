@@ -3,7 +3,7 @@ title: Metered clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1050
+weight: 1090
 url: /es/aspose.cells/metered/
 is_root: false
 ---
@@ -17,21 +17,23 @@ El tipo Metered expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [Metered()](/cells/python-net/es/aspose.cells/metered/__init__/#) | Inicializa una nueva instancia de esta clase.|
+| [__init__](/cells/python-net/es/aspose.cells/metered/__init__/#) | Inicializa una nueva instancia de esta clase.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [set_metered_key(public_key, private_key)](/cells/python-net/es/aspose.cells/metered/set_metered_key/#str-str) | Establece la clave pública y privada medida.<br/>Si compra una licencia medida, cuando inicie la solicitud, debe llamar a este API, normalmente, esto es suficiente. Sin embargo, si siempre falla en cargar los datos de consumo y excede las 24 horas, la licencia se establecerá en estado de evaluación, para evitar tal caso, debe verificar periódicamente el estado de la licencia, si es el estado de evaluación, llame nuevamente a este API.|
-| [get_consumption_quantity()](/cells/python-net/es/aspose.cells/metered/get_consumption_quantity/#) | Obtiene el tamaño del archivo de consumo|
-| [get_consumption_credit()](/cells/python-net/es/aspose.cells/metered/get_consumption_credit/#) | Obtiene crédito de consumo|
+| [set_metered_key](/cells/python-net/es/aspose.cells/metered/set_metered_key/#str-str) | Establece claves públicas y privadas medidas.<br/> Si compra una licencia medida, cuando inicie la solicitud, se debe llamar a este API; normalmente, esto es suficiente.<br/> Sin embargo, si siempre no se cargan los datos de consumo y excede las 24 horas, la licencia pasará al estado de evaluación.<br/> Para evitar tal caso, debe verificar periódicamente el estado de la licencia; si es un estado de evaluación, llame nuevamente al API.|
+| [get_consumption_quantity](/cells/python-net/es/aspose.cells/metered/get_consumption_quantity/#) | Obtiene el tamaño del archivo de consumo|
+| [get_consumption_credit](/cells/python-net/es/aspose.cells/metered/get_consumption_credit/#) | Obtiene crédito de consumo|
+| [get_product_name](/cells/python-net/es/aspose.cells/metered/get_product_name/#) | Obtiene el nombre del producto|
+| [is_metered_licensed](/cells/python-net/es/aspose.cells/metered/is_metered_licensed/#) | Compruebe si el medidor tiene licencia|
 
 
 
 ###  Ejemplo
 
-En este ejemplo, se intentará establecer una clave pública y privada medidas
+En este ejemplo, se intentará establecer claves públicas y privadas medidas.
 
 
 ```python
@@ -43,4 +45,4 @@ matered.set_metered_key("PublicKey", "PrivateKey")
 ```
 
 ###  Ver también
-* módulo [aspose.cells](..)
+* módulo [`aspose.cells`](..)

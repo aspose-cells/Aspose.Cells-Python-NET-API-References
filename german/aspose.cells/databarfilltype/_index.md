@@ -3,12 +3,12 @@ title: DataBarFillType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1920
+weight: 1990
 url: /de/aspose.cells/databarfilltype/
 is_root: false
 ---
 ##  DataBarFillType Aufzählung
-Gibt an, wie ein Datenbalken mit Farbe gefüllt wird.
+Gibt an, wie eine Datenleiste mit Farbe gefüllt wird.
 
 
 
@@ -18,9 +18,9 @@ Der Typ DataBarFillType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | SOLID | Die Datenleiste ist einfarbig gefüllt.|
-| GRADIENT | Der Datenbalken wird mit einem Farbverlauf gefüllt.|
+| GRADIENT | Die Datenleiste ist mit einem Farbverlauf gefüllt.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

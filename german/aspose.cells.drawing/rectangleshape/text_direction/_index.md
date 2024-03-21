@@ -3,13 +3,13 @@ title: text_direction Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 930
+weight: 940
 url: /de/aspose.cells.drawing/rectangleshape/text_direction/
 is_root: false
 ---
 ##  text_direction Eigentum
 
-Ruft die Richtung des Textflusses für dieses Objekt ab/legt sie fest.
+Ruft die Richtung des Textflusses für dieses Objekt ab bzw. legt sie fest.
 
 ###  Beispiel
 
@@ -31,6 +31,6 @@ def text_direction(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RectangleShape](/cells/python-net/de/aspose.cells.drawing/rectangleshape)
-* Klasse [TextDirectionType](/cells/python-net/de/aspose.cells/textdirectiontype)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RectangleShape`](/cells/python-net/de/aspose.cells.drawing/rectangleshape)
+* Klasse [`TextDirectionType`](/cells/python-net/de/aspose.cells/textdirectiontype)

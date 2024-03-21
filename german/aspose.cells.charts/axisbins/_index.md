@@ -8,36 +8,30 @@ url: /de/aspose.cells.charts/axisbins/
 is_root: false
 ---
 ##  AxisBins Klasse
-Stellt Achsen-Bins dar
+Stellt Achsenabschnitte dar
 
 
 
 Der Typ AxisBins macht die folgenden Member verfügbar:
 
-###  Konstrukteure
-| Konstrukteur| Beschreibung|
-| :- | :- |
-| [AxisBins()](/cells/python-net/de/aspose.cells.charts/axisbins/__init__/#) | Erstellt eine neue Instanz von AxisBins|
-
-
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [is_by_category](/cells/python-net/de/aspose.cells.charts/axisbins/is_by_category) | Gibt an, ob Daten nach Kategorie gruppiert werden|
-| [is_automatic](/cells/python-net/de/aspose.cells.charts/axisbins/is_automatic) | Gibt an, ob die Achsenbins automatisch sind.|
-| [width](/cells/python-net/de/aspose.cells.charts/axisbins/width) | Ruft die Breite des Achsenbins ab oder legt diese fest|
-| [count](/cells/python-net/de/aspose.cells.charts/axisbins/count) | Ruft die Anzahl der Achsenbins ab oder legt sie fest|
-| [overflow](/cells/python-net/de/aspose.cells.charts/axisbins/overflow) | Ruft den Überlauf von Achsenbins ab oder legt ihn fest|
-| [underflow](/cells/python-net/de/aspose.cells.charts/axisbins/underflow) | Ruft den Unterlauf von Achsenbins ab oder legt diesen fest|
+| [is_by_category](/cells/python-net/de/aspose.cells.charts/axisbins/is_by_category) | Gibt an, ob Daten nach Kategorie gruppiert werden sollen|
+| [is_automatic](/cells/python-net/de/aspose.cells.charts/axisbins/is_automatic) | Gibt an, ob die Achsenabschnitte automatisch sind.|
+| [width](/cells/python-net/de/aspose.cells.charts/axisbins/width) | Ruft die Breite des Achsenabschnitts ab oder legt diese fest|
+| [count](/cells/python-net/de/aspose.cells.charts/axisbins/count) | Ruft die Anzahl der Achsenabschnitte ab oder legt diese fest|
+| [overflow](/cells/python-net/de/aspose.cells.charts/axisbins/overflow) | Ruft den Überlauf von Achsenbehältern ab oder legt diesen fest|
+| [underflow](/cells/python-net/de/aspose.cells.charts/axisbins/underflow) | Ruft den Unterlauf von Achsenbehältern ab oder legt diesen fest|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [reset_overflow()](/cells/python-net/de/aspose.cells.charts/axisbins/reset_overflow/#) | Setzen Sie den Überlauf zurück|
-| [reset_underflow()](/cells/python-net/de/aspose.cells.charts/axisbins/reset_underflow/#) | Setzen Sie den Unterlauf zurück|
+| [reset_overflow](/cells/python-net/de/aspose.cells.charts/axisbins/reset_overflow/#) | Setzen Sie den Überlauf zurück|
+| [reset_underflow](/cells/python-net/de/aspose.cells.charts/axisbins/reset_underflow/#) | Setzen Sie den Unterlauf zurück|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

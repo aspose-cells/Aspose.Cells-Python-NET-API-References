@@ -1,13 +1,13 @@
 ---
-title: relative_to_original_picture_size الملكية
+title: relative_to_original_picture_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 840
+weight: 860
 url: /ar/aspose.cells.drawing/textbox/relative_to_original_picture_size/
 is_root: false
 ---
-##  relative_to_original_picture_size الملكية
+##  relative_to_original_picture_size عقار
 
 يشير إلى ما إذا كان الشكل متناسبًا مع حجم الصورة الأصلي.
 
@@ -30,5 +30,5 @@ def relative_to_original_picture_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [TextBox](/cells/python-net/ar/aspose.cells.drawing/textbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`TextBox`](/cells/python-net/ar/aspose.cells.drawing/textbox)

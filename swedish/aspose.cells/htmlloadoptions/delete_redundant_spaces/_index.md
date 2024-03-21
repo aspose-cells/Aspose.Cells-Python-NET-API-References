@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  delete_redundant_spaces fastighet
 
- Indikerar om redundanta blanksteg ska raderas när texten radbryts med hjälp av<br>tag. Standardvärdet är false.
+Anger om redundanta blanksteg ska raderas när texten radbryts med `<br>`-taggen.
+Standardvärdet är falskt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +22,5 @@ def delete_redundant_spaces(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlLoadOptions](/cells/python-net/sv/aspose.cells/htmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlLoadOptions`](/cells/python-net/sv/aspose.cells/htmlloadoptions)

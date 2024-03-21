@@ -1,13 +1,13 @@
 ---
-title: PrintSizeType dénombrement
+title: PrintSizeType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2400
+weight: 2490
 url: /fr/aspose.cells/printsizetype/
 is_root: false
 ---
-##  PrintSizeType dénombrement
+##  PrintSizeType énumération
 Représente la taille du graphique imprimé.
 
 
@@ -18,10 +18,10 @@ Le type PrintSizeType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | FULL | Utilisez la pleine page.|
-| FIT | Mettre à l'échelle pour s'adapter à la page.|
+| FIT | Ajuster à la page.|
 | CUSTOM | Coutume.|
 
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

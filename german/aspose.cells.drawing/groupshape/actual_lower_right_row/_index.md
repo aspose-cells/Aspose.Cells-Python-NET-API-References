@@ -3,13 +3,13 @@ title: actual_lower_right_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 290
 url: /de/aspose.cells.drawing/groupshape/actual_lower_right_row/
 is_root: false
 ---
 ##  actual_lower_right_row Eigentum
 
-Holen Sie sich die tatsächliche untere Zeile.
+Holen Sie sich die tatsächliche untere Reihe.
 
 ###  Beispiel
 
@@ -26,5 +26,5 @@ def actual_lower_right_row(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GroupShape](/cells/python-net/de/aspose.cells.drawing/groupshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GroupShape`](/cells/python-net/de/aspose.cells.drawing/groupshape)

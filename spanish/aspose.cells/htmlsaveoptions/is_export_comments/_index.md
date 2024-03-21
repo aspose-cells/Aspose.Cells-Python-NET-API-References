@@ -3,7 +3,7 @@ title: is_export_comments propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 460
+weight: 490
 url: /es/aspose.cells/htmlsaveoptions/is_export_comments/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_export_comments(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HtmlSaveOptions](/cells/python-net/es/aspose.cells/htmlsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`HtmlSaveOptions`](/cells/python-net/es/aspose.cells/htmlsaveoptions)

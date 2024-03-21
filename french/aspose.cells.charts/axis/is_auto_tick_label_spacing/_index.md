@@ -3,13 +3,13 @@ title: is_auto_tick_label_spacing propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 180
 url: /fr/aspose.cells.charts/axis/is_auto_tick_label_spacing/
 is_root: false
 ---
 ##  is_auto_tick_label_spacing propriété
 
-Indique si l'espacement du libellé de la coche est automatique
+Indique si l'espacement des étiquettes de graduation est automatique
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_tick_label_spacing(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Axis](/cells/python-net/fr/aspose.cells.charts/axis)
+* module [`aspose.cells.charts`](../../)
+* classe [`Axis`](/cells/python-net/fr/aspose.cells.charts/axis)

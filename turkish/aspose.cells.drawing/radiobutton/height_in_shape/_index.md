@@ -3,24 +3,24 @@ title: height_in_shape mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 450
+weight: 470
 url: /tr/aspose.cells.drawing/radiobutton/height_in_shape/
 is_root: false
 ---
 ##  height_in_shape mülk
 
-Ana şeklin yüksekliğinin 1/4000'i biriminde, şeklin ana şeklin üst sınırından dikey sapmasını temsil eder.
+Üst şeklin yüksekliğinin 1/4000'i biriminde, şeklin üst kenarlığından dikey uzaklığını temsil eder.
 
 ###  Notlar
 
-Yalnızca bu şekil grup veya grafikte olduğunda geçerlidir.
+Yalnızca bu şekil grupta veya grafikte olduğunda geçerlidir.
 
 ###  Örnek
 
 ```python
 
-if shape.upper_delta_y == 4000:
-    shape.upper_delta_y = 2000
+if shape.is_in_group and shape.height_in_shape == 4000:
+    shape.height_in_shape = 2000
 
 ```
 ###  Tanım:
@@ -34,5 +34,5 @@ def height_in_shape(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RadioButton](/cells/python-net/tr/aspose.cells.drawing/radiobutton)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RadioButton`](/cells/python-net/tr/aspose.cells.drawing/radiobutton)

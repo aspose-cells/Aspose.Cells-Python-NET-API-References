@@ -1,13 +1,13 @@
 ---
-title: set_input_range méthode
+title: méthode set_input_range
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 190
 url: /fr/aspose.cells.drawing/smartartshape/set_input_range/
 is_root: false
 ---
-##  set_input_range(formula, is_r1c1, is_local) {#str-bool-bool}
+##  set_input_range {#str-bool-bool}
 Définit la plage utilisée pour remplir le contrôle.
 
 
@@ -20,17 +20,15 @@ def set_input_range(self, formula, is_r1c1, is_local):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| formula | str | La plage utilisée pour remplir le contrôle.|
-| is_r1c1 | bool | Indique si la formule doit être formatée en tant que R1C1.|
-| is_local | bool | Indique si la formule doit être formatée par les paramètres régionaux.|
+| formula | str | Plage utilisée pour remplir le contrôle.|
+| is_r1c1 | bool | Si la formule doit être formatée en R1C1.|
+| is_local | bool | Si la formule doit être formatée par paramètres régionaux.|
 
 ###  Exemple
 
 ```python
 
 # After executing the code below, a ListBox object is created in the generated file. When the selected option is clicked, the selected value is displayed in cell A12.
-# Initialize a new workbook.
-# Workbook book = new Workbook();
 for i in range(10):
     cell = book.worksheets[0].cells.get(i, 0)
     cell.value = i + 1
@@ -49,5 +47,5 @@ listBox.set_linked_cell("$A$12", False, True)
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [SmartArtShape](/cells/python-net/fr/aspose.cells.drawing/smartartshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`SmartArtShape`](/cells/python-net/fr/aspose.cells.drawing/smartartshape)

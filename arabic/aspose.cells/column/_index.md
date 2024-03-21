@@ -1,37 +1,37 @@
 ---
-title: Column الدرجة
+title: Column صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ar/aspose.cells/column/
 is_root: false
 ---
-##  Column الدرجة
-يمثل عمودًا واحدًا في ورقة عمل.
+##  Column صف
+يمثل عمودًا واحدًا في ورقة العمل.
 
 
 
-يكشف نوع Column الأعضاء التالية:
+يكشف النوع Column عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
 | [index](/cells/python-net/ar/aspose.cells/column/index) | يحصل على فهرس هذا العمود.|
-| [width](/cells/python-net/ar/aspose.cells/column/width) | الحصول على عرض العمود وتعيينه بوحدة من الأحرف.|
-| [group_level](/cells/python-net/ar/aspose.cells/column/group_level) |يحصل على مستوى المجموعة للعمود.|
+| [width](/cells/python-net/ar/aspose.cells/column/width) | الحصول على عرض العمود وتعيينه بوحدة الأحرف.|
+| [group_level](/cells/python-net/ar/aspose.cells/column/group_level) | الحصول على مستوى المجموعة للعمود.|
 | [is_hidden](/cells/python-net/ar/aspose.cells/column/is_hidden) | يشير إلى ما إذا كان العمود مخفيًا.|
 | [has_custom_style](/cells/python-net/ar/aspose.cells/column/has_custom_style) | يشير إلى ما إذا كان هذا العمود يحتوي على إعدادات نمط مخصصة (تختلف عن الإعداد الافتراضي الموروث من المصنف).|
 | [style](/cells/python-net/ar/aspose.cells/column/style) | يحصل على نمط هذا العمود.|
-| [is_collapsed](/cells/python-net/ar/aspose.cells/column/is_collapsed) | ما إذا كان العمود مطويًا أم لا|
+| [is_collapsed](/cells/python-net/ar/aspose.cells/column/is_collapsed) | ما إذا كان العمود مطويًا|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [apply_style(style, flag)](/cells/python-net/ar/aspose.cells/column/apply_style/#Style-StyleFlag) | يطبق تنسيقات لعمود كامل.|
-| [get_style()](/cells/python-net/ar/aspose.cells/column/get_style/#) | يحصل على نمط هذا العمود.|
-| [set_style(style)](/cells/python-net/ar/aspose.cells/column/set_style/#Style) | يحدد نمط هذا العمود.|
+| [apply_style](/cells/python-net/ar/aspose.cells/column/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) |يطبق التنسيقات على عمود كامل.|
+| [get_style](/cells/python-net/ar/aspose.cells/column/get_style/#) | يحصل على نمط هذا العمود.|
+| [set_style](/cells/python-net/ar/aspose.cells/column/set_style/#aspose.cells.Style) | يحدد نمط هذا العمود.|
 
 
 
@@ -66,4 +66,4 @@ workbook.save("book1.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
-title: is_error_value الملكية
+title: is_error_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 540
+weight: 570
 url: /ar/aspose.cells/cell/is_error_value/
 is_root: false
 ---
-##  is_error_value الملكية
+##  is_error_value عقار
 
-للتحقق مما إذا كانت قيمة هذه الخلية خطأ.
+يتحقق مما إذا كانت قيمة هذه الخلية خطأ.
 
 ###  ملاحظات
 
@@ -22,5 +22,5 @@ def is_error_value(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

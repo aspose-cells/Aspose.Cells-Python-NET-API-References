@@ -3,7 +3,7 @@ title: printing_page_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 220
 url: /sv/aspose.cells/xpssaveoptions/printing_page_type/
 is_root: false
 ---
@@ -44,6 +44,6 @@ def printing_page_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PrintingPageType](/cells/python-net/sv/aspose.cells/printingpagetype)
-* klass [XpsSaveOptions](/cells/python-net/sv/aspose.cells/xpssaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PrintingPageType`](/cells/python-net/sv/aspose.cells/printingpagetype)
+* klass [`XpsSaveOptions`](/cells/python-net/sv/aspose.cells/xpssaveoptions)

@@ -3,11 +3,11 @@ title: set_native_source_full_name metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 230
 url: /sv/aspose.cells.drawing/oleobject/set_native_source_full_name/
 is_root: false
 ---
-##  set_native_source_full_name(source_full_name) {#str}
+##  set_native_source_full_name {#str}
 Ställer in den ursprungliga källans fullständiga filnamn med sökväg.
 
 
@@ -25,5 +25,5 @@ def set_native_source_full_name(self, source_full_name):
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [OleObject](/cells/python-net/sv/aspose.cells.drawing/oleobject)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`OleObject`](/cells/python-net/sv/aspose.cells.drawing/oleobject)

@@ -3,7 +3,7 @@ title: type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /de/aspose.cells.drawing/checkbox/type/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [AutoShapeType](/cells/python-net/de/aspose.cells.drawing/autoshapetype)
-* Klasse [CheckBox](/cells/python-net/de/aspose.cells.drawing/checkbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`AutoShapeType`](/cells/python-net/de/aspose.cells.drawing/autoshapetype)
+* Klasse [`CheckBox`](/cells/python-net/de/aspose.cells.drawing/checkbox)

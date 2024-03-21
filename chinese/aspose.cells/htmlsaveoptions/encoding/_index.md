@@ -1,13 +1,13 @@
 ---
-title: encoding 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: encoding属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 120
+weight: 140
 url: /zh/aspose.cells/htmlsaveoptions/encoding/
 is_root: false
 ---
-## encoding 属性
+## encoding属性
 
 如果未设置，则使用 Encoding.UTF8 作为默认编码类型。
 ### 定义：
@@ -21,5 +21,5 @@ def encoding(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlSaveOptions](/cells/python-net/zh/aspose.cells/htmlsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlSaveOptions`](/cells/python-net/zh/aspose.cells/htmlsaveoptions)

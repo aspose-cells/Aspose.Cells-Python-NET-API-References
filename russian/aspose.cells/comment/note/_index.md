@@ -1,9 +1,9 @@
 ---
 title: note недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ru/aspose.cells/comment/note/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Если это связанный комментарий, note нельзя изменить, иначе MS Excel не сможет обработать его как связанный комментарий.
+Если это цепочный комментарий, то note нельзя изменить, иначе MS Excel не сможет обработать его как цепочный комментарий.
 
 ###  Пример
 
@@ -33,5 +33,5 @@ def note(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)

@@ -3,7 +3,7 @@ title: is_flipped_vertically mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 670
+weight: 680
 url: /tr/aspose.cells.drawing/oleobject/is_flipped_vertically/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def is_flipped_vertically(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [OleObject](/cells/python-net/tr/aspose.cells.drawing/oleobject)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`OleObject`](/cells/python-net/tr/aspose.cells.drawing/oleobject)

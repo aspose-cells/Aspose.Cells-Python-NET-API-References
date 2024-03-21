@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  filter_by_fill_color propriété
 
-Drapeau indiquant si filtrer par la couleur de remplissage de la cellule.
+Filtrer par la couleur de remplissage de la cellule.
+
+###  Remarques
+
+True : couleur de remplissage de la cellule ; False : la couleur de la police de la cellule.
 ###  Définition:
 ```python
 @property
@@ -21,5 +25,5 @@ def filter_by_fill_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ColorFilter](/cells/python-net/fr/aspose.cells/colorfilter)
+* module [`aspose.cells`](../../)
+* classe [`ColorFilter`](/cells/python-net/fr/aspose.cells/colorfilter)

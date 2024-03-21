@@ -3,12 +3,12 @@ title: TickLabelPositionType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 640
+weight: 650
 url: /es/aspose.cells.charts/ticklabelpositiontype/
 is_root: false
 ---
 ##  TickLabelPositionType enumeración
-Representa el tipo de posición de las etiquetas de marca de verificación en el eje especificado.
+Representa el tipo de posición de las etiquetas de marca en el eje especificado.
 
 
 
@@ -25,4 +25,4 @@ El tipo TickLabelPositionType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

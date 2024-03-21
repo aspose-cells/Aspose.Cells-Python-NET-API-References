@@ -1,16 +1,16 @@
 ---
-title: display_right_to_left الملكية
+title: display_right_to_left عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 470
 url: /ar/aspose.cells/worksheet/display_right_to_left/
 is_root: false
 ---
-##  display_right_to_left الملكية
+##  display_right_to_left عقار
 
-يشير إلى ما إذا كانت ورقة العمل المحددة معروضة من اليمين إلى اليسار بدلاً من عرضها من اليسار إلى اليمين.
-الافتراضي هو خطأ.
+يشير إلى ما إذا كانت ورقة العمل المحددة معروضة من اليمين إلى اليسار بدلاً من اليسار إلى اليمين.
+الافتراضي خطأ.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def display_right_to_left(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

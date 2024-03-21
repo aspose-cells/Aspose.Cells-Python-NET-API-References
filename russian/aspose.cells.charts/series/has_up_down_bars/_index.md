@@ -1,15 +1,15 @@
 ---
 title: has_up_down_bars недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 250
+weight: 240
 url: /ru/aspose.cells.charts/series/has_up_down_bars/
 is_root: false
 ---
 ##  has_up_down_bars недвижимость
 
-Значение true, если на линейной диаграмме есть столбцы вверх и вниз.
+Истинно, если на линейном графике есть полосы вверх и вниз.
 Применяется только к линейным графикам.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def has_up_down_bars(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

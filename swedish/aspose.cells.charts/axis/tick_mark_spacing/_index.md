@@ -3,7 +3,7 @@ title: tick_mark_spacing fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 410
 url: /sv/aspose.cells.charts/axis/tick_mark_spacing/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def tick_mark_spacing(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Axis](/cells/python-net/sv/aspose.cells.charts/axis)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Axis`](/cells/python-net/sv/aspose.cells.charts/axis)

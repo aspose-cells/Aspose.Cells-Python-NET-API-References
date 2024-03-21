@@ -1,26 +1,26 @@
 ---
-title: DataBarNegativeColorType enumerazione
+title: Enumerazione DataBarNegativeColorType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1930
+weight: 2000
 url: /it/aspose.cells/databarnegativecolortype/
 is_root: false
 ---
-##  DataBarNegativeColorType enumerazione
-Specifica se utilizzare lo stesso bordo e lo stesso colore di riempimento delle barre dei dati positivi.
+##  Enumerazione DataBarNegativeColorType
+Specifica se utilizzare lo stesso bordo e colore di riempimento delle barre dati positive.
 
 
 
-Il tipo DataBarNegativeColorType espone i membri seguenti:
+Il tipo DataBarNegativeColorType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| COLOR | Utilizzare il colore specificato nella finestra di dialogo Valore negativo e impostazione dell'asse<br/> oppure utilizzando le proprietà ColorType e BorderColorType dell'oggetto NegativeBarFormat.|
-| SAME_AS_POSITIVE | Usa lo stesso colore delle barre dei dati positivi.|
+| COLOR |Utilizzare il colore specificato nella finestra di dialogo Impostazione valore negativo e asse<br/> oppure utilizzando le proprietà ColorType e BorderColorType dell'oggetto NegativeBarFormat.|
+| SAME_AS_POSITIVE | Utilizza lo stesso colore delle barre dati positive.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

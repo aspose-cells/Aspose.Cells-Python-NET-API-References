@@ -1,13 +1,13 @@
 ---
-title: password الملكية
+title: password عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 460
+weight: 370
 url: /ar/aspose.cells/workbooksettings/password/
 is_root: false
 ---
-##  password الملكية
+##  password عقار
 
 يمثل تشفير ملف المصنف password.
 ###  تعريف:
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

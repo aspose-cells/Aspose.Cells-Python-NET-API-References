@@ -3,7 +3,7 @@ title: text_options propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 380
+weight: 390
 url: /es/aspose.cells.charts/legend/text_options/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def text_options(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Legend](/cells/python-net/es/aspose.cells.charts/legend)
-* clase [TextOptions](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Legend`](/cells/python-net/es/aspose.cells.charts/legend)
+* clase [`TextOptions`](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)

@@ -3,7 +3,7 @@ title: tab_id proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 800
+weight: 820
 url: /it/aspose.cells/worksheet/tab_id/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def tab_id(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

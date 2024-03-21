@@ -1,24 +1,24 @@
 ---
-title: classe HorizontalPageBreak
+title: HorizontalPageBreak classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 750
+weight: 780
 url: /it/aspose.cells/horizontalpagebreak/
 is_root: false
 ---
-##  classe HorizontalPageBreak
+##  HorizontalPageBreak classe
 Incapsula l'oggetto che rappresenta un'interruzione di pagina orizzontale.
 
 
 
-Il tipo HorizontalPageBreak espone i membri seguenti:
+Il tipo HorizontalPageBreak espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [start_column](/cells/python-net/it/aspose.cells/horizontalpagebreak/start_column) | Ottiene l'indice di colonna iniziale di questa interruzione di pagina orizzontale.|
-| [end_column](/cells/python-net/it/aspose.cells/horizontalpagebreak/end_column) | Ottiene l'indice di colonna finale di questa interruzione di pagina orizzontale.|
+| [start_column](/cells/python-net/it/aspose.cells/horizontalpagebreak/start_column) | Ottiene l'indice della colonna iniziale di questa interruzione di pagina orizzontale.|
+| [end_column](/cells/python-net/it/aspose.cells/horizontalpagebreak/end_column) | Ottiene l'indice della colonna finale di questa interruzione di pagina orizzontale.|
 | [row](/cells/python-net/it/aspose.cells/horizontalpagebreak/row) | Ottiene l'indice di riga in base zero.|
 
 
@@ -40,4 +40,4 @@ hPageBreak = worksheet.horizontal_page_breaks[Index]
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

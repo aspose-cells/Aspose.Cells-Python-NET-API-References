@@ -3,12 +3,12 @@ title: طريقة set_formula
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ar/aspose.cells/cell/set_formula/
 is_root: false
 ---
-##  set_formula(formula, value) {#str-any}
-عيّن الصيغة وقيمة الصيغة.
+##  set_formula {#str-any}
+قم بتعيين الصيغة وقيمة (النتيجة المحسوبة) للصيغة.
 
 
 
@@ -21,11 +21,11 @@ def set_formula(self, formula, value):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | formula | str | الصيغة.|
-| value | any | قيمة الصيغة.|
+| value | any |القيمة (النتيجة المحسوبة) للصيغة.|
 
 
-##  set_formula(formula, options, value) {#str-FormulaParseOptions-any}
-عيّن الصيغة وقيمة الصيغة.
+##  set_formula {#str-aspose.cells.FormulaParseOptions-any}
+قم بتعيين الصيغة وقيمة (النتيجة المحسوبة) للصيغة.
 
 
 
@@ -38,12 +38,12 @@ def set_formula(self, formula, options, value):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | formula | str | الصيغة.|
-| options | [FormulaParseOptions](/cells/python-net/ar/aspose.cells/formulaparseoptions) | خيارات لتحليل الصيغة.|
-| value | any | قيمة الصيغة.|
+| options | [`FormulaParseOptions`](/cells/python-net/ar/aspose.cells/formulaparseoptions) | خيارات لتحليل الصيغة.|
+| value | any |القيمة (النتيجة المحسوبة) للصيغة.|
 
 
-##  set_formula(formula, is_r1c1, is_local, value) {#str-bool-bool-any}
-عيّن الصيغة وقيمة الصيغة.
+##  set_formula {#str-bool-bool-any}
+قم بتعيين الصيغة وقيمة الصيغة.
 
 
 
@@ -57,16 +57,16 @@ def set_formula(self, formula, is_r1c1, is_local, value):
 | :- | :- | :- |
 | formula | str | الصيغة.|
 | is_r1c1 | bool | ما إذا كانت الصيغة هي صيغة R1C1.|
-| is_local | bool | ما إذا كانت الصيغة منسقة محليًا أم لا.|
+| is_local | bool | ما إذا كانت الصيغة منسقة بالإعدادات المحلية.|
 | value | any | قيمة الصيغة.|
 ###  ملاحظات
 
-ملاحظة: هذه الفئة عفا عليها الزمن الآن. بدلاً من،
-الرجاء استخدام Cell.SetFormula (سلسلة ، FormulaParseOptions ، كائن).
-ستتم إزالة هذا العقار بعد 12 شهرًا منذ ديسمبر 2019.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملاحظة: هذه الفئة أصبحت الآن قديمة. بدلاً من،
+الرجاء استخدام Cell.SetFormula(string,FormulaParseOptions,object).
+ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ ديسمبر 2019.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

@@ -1,43 +1,44 @@
 ---
-title: classe FontConfigs
+title: FontConfigs classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 660
+weight: 690
 url: /it/aspose.cells/fontconfigs/
 is_root: false
 ---
-##  classe FontConfigs
-Specifica le impostazioni dei caratteri
+##  FontConfigs classe
+Specifica le impostazioni del carattere
 
 
 
-Il tipo FontConfigs espone i membri seguenti:
+Il tipo FontConfigs espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [FontConfigs()](/cells/python-net/it/aspose.cells/fontconfigs/__init__/#) | Costruisce una nuova istanza di FontConfigs|
+| [__init__](/cells/python-net/it/aspose.cells/fontconfigs/__init__/#) | Costruisce una nuova istanza di FontConfigs|
 
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
 | [default_font_name](/cells/python-net/it/aspose.cells/fontconfigs/default_font_name) | Ottiene o imposta il nome del carattere predefinito.|
-| [prefer_system_font_substitutes](/cells/python-net/it/aspose.cells/fontconfigs/prefer_system_font_substitutes) |Indicare se utilizzare prima i font sostitutivi di sistema o meno quando un font non è presentato e il sostituto di questo font non è impostato.<br/>es. Su Ubuntu, il carattere "Arial" è generalmente sostituito da "Liberation Sans".<br/> Il valore predefinito è false.|
+| [prefer_system_font_substitutes](/cells/python-net/it/aspose.cells/fontconfigs/prefer_system_font_substitutes) | Indicare se utilizzare prima o meno i sostituti dei caratteri di sistema quando un carattere non viene presentato e il sostituto di questo carattere non è impostato.<br/>Ad esempio, su Ubuntu, il carattere "Arial" è generalmente sostituito da "Liberation Sans".<br/> Il valore predefinito è falso.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [set_font_substitutes(original_font_name, substitute_font_names)](/cells/python-net/it/aspose.cells/fontconfigs/set_font_substitutes/#str-list) | Nomi sostitutivi dei caratteri per il nome del carattere originale specificato.|
-| [get_font_substitutes(original_font_name)](/cells/python-net/it/aspose.cells/fontconfigs/get_font_substitutes/#str) | Restituisce l'array contenente i nomi dei caratteri sostitutivi da utilizzare se il carattere originale non viene presentato.|
-| [set_font_folder(font_folder, recursive)](/cells/python-net/it/aspose.cells/fontconfigs/set_font_folder/#str-bool) | Imposta la cartella dei caratteri|
-| [set_font_folders(font_folders, recursive)](/cells/python-net/it/aspose.cells/fontconfigs/set_font_folders/#list-bool) | Imposta le cartelle dei font|
-| [set_font_sources(sources)](/cells/python-net/it/aspose.cells/fontconfigs/set_font_sources/#list) | Imposta le origini dei caratteri.|
-| [get_font_sources()](/cells/python-net/it/aspose.cells/fontconfigs/get_font_sources/#) | Ottiene una copia della matrice che contiene l'elenco delle origini|
+| [is_font_available](/cells/python-net/it/aspose.cells/fontconfigs/is_font_available/#str) | Indica se il carattere è disponibile.|
+| [set_font_substitutes](/cells/python-net/it/aspose.cells/fontconfigs/set_font_substitutes/#str-list) | I nomi dei caratteri sostituiscono il nome del carattere originale specificato.|
+| [get_font_substitutes](/cells/python-net/it/aspose.cells/fontconfigs/get_font_substitutes/#str) | Restituisce un array contenente i nomi sostitutivi dei caratteri da utilizzare se il carattere originale non viene presentato.|
+| [set_font_folder](/cells/python-net/it/aspose.cells/fontconfigs/set_font_folder/#str-bool) | Imposta la cartella dei caratteri|
+| [set_font_folders](/cells/python-net/it/aspose.cells/fontconfigs/set_font_folders/#list-bool) | Imposta le cartelle dei caratteri|
+| [set_font_sources](/cells/python-net/it/aspose.cells/fontconfigs/set_font_sources/#list) | Imposta le origini dei caratteri.|
+| [get_font_sources](/cells/python-net/it/aspose.cells/fontconfigs/get_font_sources/#) | Ottiene una copia della matrice che contiene l'elenco delle origini|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

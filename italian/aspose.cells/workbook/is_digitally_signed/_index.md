@@ -3,7 +3,7 @@ title: is_digitally_signed proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 600
+weight: 610
 url: /it/aspose.cells/workbook/is_digitally_signed/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_digitally_signed(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

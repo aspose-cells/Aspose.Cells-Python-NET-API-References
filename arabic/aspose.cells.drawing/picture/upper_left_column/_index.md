@@ -1,13 +1,13 @@
 ---
-title: upper_left_column الملكية
+title: upper_left_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1320
+weight: 1330
 url: /ar/aspose.cells.drawing/picture/upper_left_column/
 is_root: false
 ---
-##  upper_left_column الملكية
+##  upper_left_column عقار
 
 يمثل فهرس عمود الزاوية اليسرى العليا.
 
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

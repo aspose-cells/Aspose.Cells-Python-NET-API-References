@@ -1,23 +1,23 @@
 ---
 title: FindOptions类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 630
+weight: 660
 url: /zh/aspose.cells/findoptions/
 is_root: false
 ---
 ## FindOptions类
-表示查找选项。
+代表查找选项。
 
 
 
-FindOptions 类型公开了以下成员：
+FindOptions 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [FindOptions()](/cells/python-net/zh/aspose.cells/findoptions/__init__/#) |构造 FindOptions 的新实例|
+| [__init__](/cells/python-net/zh/aspose.cells/findoptions/__init__/#) |构造 FindOptions 的新实例|
 
 
 ### 特性
@@ -26,22 +26,22 @@ FindOptions 类型公开了以下成员：
 | [is_case_sensitive](/cells/python-net/zh/aspose.cells/findoptions/is_case_sensitive) |指示搜索的字符串是否区分大小写。|
 | [case_sensitive](/cells/python-net/zh/aspose.cells/findoptions/case_sensitive) |指示搜索的字符串是否区分大小写。|
 | [look_at_type](/cells/python-net/zh/aspose.cells/findoptions/look_at_type) |看类型。|
-| [is_range_set](/cells/python-net/zh/aspose.cells/findoptions/is_range_set) |表示是否设置了搜索范围。|
-| [search_next](/cells/python-net/zh/aspose.cells/findoptions/search_next) |搜索顺序。 True：下一步搜索。 False：搜索上一个。|
+| [is_range_set](/cells/python-net/zh/aspose.cells/findoptions/is_range_set) |是否设置搜索范围。|
+| [search_next](/cells/python-net/zh/aspose.cells/findoptions/search_next) |搜索顺序。正确：搜索下一个。 False：搜索上一个。|
 | [search_backward](/cells/python-net/zh/aspose.cells/findoptions/search_backward) |是否向后搜索单元格。|
-| [seach_order_by_rows](/cells/python-net/zh/aspose.cells/findoptions/seach_order_by_rows) |指示搜索顺序是按行还是按列。|
+| [seach_order_by_rows](/cells/python-net/zh/aspose.cells/findoptions/seach_order_by_rows) |指示是否按行或列搜索顺序。|
 | [look_in_type](/cells/python-net/zh/aspose.cells/findoptions/look_in_type) |看类型。|
-| [regex_key](/cells/python-net/zh/aspose.cells/findoptions/regex_key) |指示搜索的键是否为正则表达式。<br/>如果为真，则搜索到的键将被视为正则表达式并进行解析。否则密钥将根据 ms excel 中的规则进行解析。|
+| [regex_key](/cells/python-net/zh/aspose.cells/findoptions/regex_key) |指示搜索的键是否为正则表达式。<br/>如果为 true，则搜索到的键将被视为正则表达式并进行解析。否则将根据 ms excel 中的规则解析键。|
 | [value_type_sensitive](/cells/python-net/zh/aspose.cells/findoptions/value_type_sensitive) |指示搜索的单元格值类型是否应与搜索的键相同。|
 | [style](/cells/python-net/zh/aspose.cells/findoptions/style) |要搜索的格式。|
-| [convert_numeric_data](/cells/python-net/zh/aspose.cells/findoptions/convert_numeric_data) |获取或设置一个值，该值指示是否将搜索到的字符串值转换为数字数据。|
+| [convert_numeric_data](/cells/python-net/zh/aspose.cells/findoptions/convert_numeric_data) |获取或设置一个值，该值指示是否将搜索到的字符串值转换为数值数据。|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [get_range()](/cells/python-net/zh/aspose.cells/findoptions/get_range/#) |获取和设置搜索范围。|
-| [set_range(ca)](/cells/python-net/zh/aspose.cells/findoptions/set_range/#CellArea) |设置搜索范围。|
+| [get_range](/cells/python-net/zh/aspose.cells/findoptions/get_range/#) |获取和设置搜索范围。|
+| [set_range](/cells/python-net/zh/aspose.cells/findoptions/set_range/#aspose.cells.CellArea) |设置搜索范围。|
 
 
 
@@ -74,4 +74,4 @@ cell = cells.find(0, None, findOptions)
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](..)
+* 模块[`aspose.cells`](..)

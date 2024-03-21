@@ -1,17 +1,17 @@
 ---
 title: is_same_setting метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 130
+weight: 150
 url: /ru/aspose.cells.drawing/spinner/is_same_setting/
 is_root: false
 ---
-##  is_same_setting(obj) {#any}
-Возвращает, совпадает ли форма.
+##  is_same_setting {#any}
+Возвращает, одинакова ли форма.
 
 
-###  Возвращает
+###  Возврат
 
 
 
@@ -38,5 +38,5 @@ if shape.is_same_setting(shape):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Spinner](/cells/python-net/ru/aspose.cells.drawing/spinner)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Spinner`](/cells/python-net/ru/aspose.cells.drawing/spinner)

@@ -3,11 +3,11 @@ title: set_style yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 360
 url: /tr/aspose.cells/cell/set_style/
 is_root: false
 ---
-##  set_style(style) {#Style}
+##  set_style {#aspose.cells.Style}
 Hücre stilini ayarlar.
 
 
@@ -20,14 +20,14 @@ def set_style(self, style):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/tr/aspose.cells/style) | Hücre stili.|
+| style | [`Style`](/cells/python-net/tr/aspose.cells/style) | Hücre stili.|
 ###  Notlar
 
-Kenarlık ayarları değiştirilirse, ayar hücrelerinin kenarlığı da güncellenir.
+Kenarlık ayarları değiştirilirse ayar hücrelerinin kenarlığı da güncellenecektir.
 
-##  set_style(style, explicit_flag) {#Style-bool}
+##  set_style {#aspose.cells.Style-bool}
 
-Hücre stilini uygulayın.
+Değiştirilen stil özelliğini hücreye uygulayın.
 
 
 
@@ -39,12 +39,12 @@ def set_style(self, style, explicit_flag):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/tr/aspose.cells/style) | Hücre stili.|
-| explicit_flag | bool | Doğru, yalnızca açıkça ayarlanan biçimlendirmenin üzerine yazma.|
+| style | [`Style`](/cells/python-net/tr/aspose.cells/style) | Hücre stili.|
+| explicit_flag | bool | Doğru, yalnızca açıkça ayarlanmış olan biçimlendirmenin üzerine yazılıyor.|
 
 
-##  set_style(style, flag) {#Style-StyleFlag}
-Hücre stilini uygulayın.
+##  set_style {#aspose.cells.Style-aspose.cells.StyleFlag}
+Bayraklara göre hücre stilini uygulayın.
 
 
 
@@ -56,11 +56,11 @@ def set_style(self, style, flag):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/tr/aspose.cells/style) | Hücre stili.|
-| flag | [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag) | Stil bayrağı.|
+| style | [`Style`](/cells/python-net/tr/aspose.cells/style) | Hücre stili.|
+| flag | [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag) | Stil bayrağı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

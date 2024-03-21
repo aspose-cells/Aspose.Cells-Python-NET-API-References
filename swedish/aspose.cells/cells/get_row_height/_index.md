@@ -3,12 +3,12 @@ title: get_row_height metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 470
+weight: 460
 url: /sv/aspose.cells/cells/get_row_height/
 is_root: false
 ---
-##  get_row_height(row) {#int}
-Hämtar höjden på en angiven rad.
+##  get_row_height {#int}
+Får höjden på en angiven rad, i poängenhet.
 
 
 ###  Returnerar
@@ -29,5 +29,5 @@ def get_row_height(self, row):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

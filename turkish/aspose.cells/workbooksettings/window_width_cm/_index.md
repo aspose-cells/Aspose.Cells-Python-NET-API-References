@@ -3,13 +3,13 @@ title: window_width_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 740
+weight: 620
 url: /tr/aspose.cells/workbooksettings/window_width_cm/
 is_root: false
 ---
 ##  window_width_cm mülk
 
-Pencerenin santimetre birimi cinsinden genişliği.
+Santimetre biriminde pencerenin genişliği.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def window_width_cm(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

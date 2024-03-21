@@ -3,7 +3,7 @@ title: shadow proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 870
+weight: 880
 url: /it/aspose.cells.drawing/groupbox/shadow/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GroupBox](/cells/python-net/it/aspose.cells.drawing/groupbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GroupBox`](/cells/python-net/it/aspose.cells.drawing/groupbox)

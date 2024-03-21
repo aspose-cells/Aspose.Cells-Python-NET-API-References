@@ -1,17 +1,17 @@
 ---
 title: is_same_setting方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 140
+weight: 160
 url: /zh/aspose.cells.drawing/picture/is_same_setting/
 is_root: false
 ---
-##  is_same_setting(obj) {#any}
+##  is_same_setting {#any}
 返回形状是否相同。
 
 
-### 返回
+### 退货
 
 
 
@@ -44,7 +44,7 @@ imgIndex2 = worksheet.pictures.add(1, 9, "2.jpeg")
 pic2 = worksheet.pictures[imgIndex2]
 if pic1.is_same_setting(pic1):
     pass
-if !pic1.is_same_setting(pic2):
+if notpic1.is_same_setting(pic2):
     pass
 
 ```
@@ -52,5 +52,5 @@ if !pic1.is_same_setting(pic2):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Picture](/cells/python-net/zh/aspose.cells.drawing/picture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)

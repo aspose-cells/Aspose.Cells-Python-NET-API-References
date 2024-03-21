@@ -1,13 +1,13 @@
 ---
-title: original_height 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: original_height属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 920
+weight: 930
 url: /zh/aspose.cells.drawing/picture/original_height/
 is_root: false
 ---
-## original_height 属性
+## original_height属性
 
 获取图片的原始高度。
 
@@ -37,5 +37,5 @@ def original_height(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Picture](/cells/python-net/zh/aspose.cells.drawing/picture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)

@@ -3,14 +3,14 @@ title: window_left_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 690
+weight: 570
 url: /tr/aspose.cells/workbooksettings/window_left_inch/
 is_root: false
 ---
 ##  window_left_inch mülk
 
 İstemci alanının sol kenarından pencerenin sol kenarına olan mesafe.
-inç biriminde.
+İnç biriminde.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def window_left_inch(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

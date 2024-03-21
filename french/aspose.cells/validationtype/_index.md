@@ -1,13 +1,13 @@
 ---
-title: ValidationType dénombrement
+title: ValidationType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2640
+weight: 2730
 url: /fr/aspose.cells/validationtype/
 is_root: false
 ---
-##  ValidationType dénombrement
+##  ValidationType énumération
 Représente le type de validation des données.
 
 
@@ -18,15 +18,15 @@ Le type ValidationType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | ANY_VALUE | Tout type de validation de valeur.|
-| WHOLE_NUMBER | Type de validation de nombre entier.|
+| WHOLE_NUMBER | Type de validation par nombre entier.|
 | DECIMAL | Type de validation décimal.|
 | LIST | Type de validation de liste.|
-| DATE | Type de validation de date.|
-| TIME | Type de validation de l'heure.|
+| DATE | Type de validation des dates.|
+| TIME | Type de validation temporelle.|
 | TEXT_LENGTH | Type de validation de la longueur du texte.|
 | CUSTOM | Type de validation personnalisé.|
 
 
 
 ###  Voir également
-* module [aspose.cells](..)
+* module [`aspose.cells`](..)

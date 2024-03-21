@@ -1,9 +1,9 @@
 ---
 title: ChartTextDirectionType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 440
+weight: 450
 url: /ru/aspose.cells.charts/charttextdirectiontype/
 is_root: false
 ---
@@ -12,18 +12,18 @@ is_root: false
 
 
 
-Тип ChartTextDirectionType предоставляет следующие члены:
+Тип ChartTextDirectionType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | HORIZONTAL | Тип горизонтального направления.|
 | VERTICAL | Тип вертикального направления.|
-| ROTATE90 | Повернуть на 90 градусов.|
-| ROTATE270 | Повернуть на 270 градусов.|
+| ROTATE90 | Поворот на угол 90.|
+| ROTATE270 | Поворот на угол 270.|
 | STACKED | Сложенный текст.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

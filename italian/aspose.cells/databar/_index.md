@@ -1,42 +1,42 @@
 ---
-title: classe DataBar
+title: DataBar classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 400
+weight: 420
 url: /it/aspose.cells/databar/
 is_root: false
 ---
-##  classe DataBar
+##  DataBar classe
  Descrivi la regola di formattazione condizionale DataBar.
 Questa regola di formattazione condizionale visualizza un file graduato
 barra dei dati nell'intervallo di celle.
 
 
 
-Il tipo DataBar espone i membri seguenti:
+Il tipo DataBar espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
 | [axis_color](/cells/python-net/it/aspose.cells/databar/axis_color) | Ottiene il colore dell'asse per le celle con formattazione condizionale come barre dei dati.|
 | [axis_position](/cells/python-net/it/aspose.cells/databar/axis_position) | Ottiene o imposta la posizione dell'asse delle barre dei dati specificata da una regola di formattazione condizionale.|
-| [bar_fill_type](/cells/python-net/it/aspose.cells/databar/bar_fill_type) | Ottiene o imposta il modo in cui una barra dei dati viene riempita di colore.|
-| [direction](/cells/python-net/it/aspose.cells/databar/direction) |Ottiene o imposta la direzione in cui viene visualizzata la barra dati.|
+| [bar_fill_type](/cells/python-net/it/aspose.cells/databar/bar_fill_type) | Ottiene o imposta il modo in cui una barra dati viene riempita di colore.|
+| [direction](/cells/python-net/it/aspose.cells/databar/direction) |Ottiene o imposta la direzione in cui viene visualizzata la barra dei dati.|
 | [bar_border](/cells/python-net/it/aspose.cells/databar/bar_border) | Ottiene un oggetto che specifica il bordo di una barra dei dati.|
-| [negative_bar_format](/cells/python-net/it/aspose.cells/databar/negative_bar_format) | Ottiene l'oggetto NegativeBarFormat associato a una regola di formattazione condizionale della barra dei dati.|
-| [min_cfvo](/cells/python-net/it/aspose.cells/databar/min_cfvo) | Ottenere o impostare l'oggetto valore minimo di questo DataBar.<br/> Impossibile impostare null o CFValueObject con tipo FormatConditionValueType.Max su di esso.|
-| [max_cfvo](/cells/python-net/it/aspose.cells/databar/max_cfvo) | Ottenere o impostare l'oggetto valore massimo di questo DataBar.<br/> Impossibile impostare null o CFValueObject con tipo FormatConditionValueType.Min.|
-| [color](/cells/python-net/it/aspose.cells/databar/color) | Ottieni o imposta questo DataBar's Color.|
-| [min_length](/cells/python-net/it/aspose.cells/databar/min_length) | Rappresenta la lunghezza minima della barra dei dati.|
-| [max_length](/cells/python-net/it/aspose.cells/databar/max_length) | Rappresenta la lunghezza massima della barra dei dati.|
-| [show_value](/cells/python-net/it/aspose.cells/databar/show_value) | Ottenere o impostare il flag che indica se mostrare i valori delle celle su cui è applicata questa barra dei dati.<br/> Il valore predefinito è vero.|
+| [negative_bar_format](/cells/python-net/it/aspose.cells/databar/negative_bar_format) | Ottiene l'oggetto NegativeBarFormat associato a una regola di formattazione condizionale della barra dati.|
+| [min_cfvo](/cells/python-net/it/aspose.cells/databar/min_cfvo) | Ottieni o imposta l'oggetto valore minimo di questo DataBar.<br/> Impossibile impostare null o CFValueObject con il tipo FormatConditionValueType.Max.|
+| [max_cfvo](/cells/python-net/it/aspose.cells/databar/max_cfvo) | Ottieni o imposta l'oggetto valore massimo di questo DataBar.<br/> Impossibile impostare null o CFValueObject con il tipo FormatConditionValueType.Min.|
+| [color](/cells/python-net/it/aspose.cells/databar/color) | Ottieni o imposta il colore di questa DataBar.|
+| [min_length](/cells/python-net/it/aspose.cells/databar/min_length) | Rappresenta la lunghezza minima della barra dati.|
+| [max_length](/cells/python-net/it/aspose.cells/databar/max_length) | Rappresenta la lunghezza massima della barra dati.|
+| [show_value](/cells/python-net/it/aspose.cells/databar/show_value) | Ottieni o imposta il flag che indica se mostrare i valori delle celle su cui è applicata questa barra dati.<br/> Il valore predefinito è vero.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [to_image(cell, img_opts)](/cells/python-net/it/aspose.cells/databar/to_image/#Cell-aspose.cells.rendering.ImageOrPrintOptions) | Visualizza la barra dei dati nella cella nell'array di byte dell'immagine.|
+| [to_image](/cells/python-net/it/aspose.cells/databar/to_image/#aspose.cells.Cell-aspose.cells.rendering.ImageOrPrintOptions) | Renderizza la barra dei dati nella cella nell'array di byte dell'immagine.|
 
 
 
@@ -92,4 +92,4 @@ workbook.save("book1.xlsx")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

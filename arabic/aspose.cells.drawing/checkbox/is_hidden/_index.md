@@ -1,15 +1,15 @@
 ---
-title: is_hidden الملكية
+title: is_hidden عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 600
 url: /ar/aspose.cells.drawing/checkbox/is_hidden/
 is_root: false
 ---
-##  is_hidden الملكية
+##  is_hidden عقار
 
-يشير إلى ما إذا كان الكائن مرئيًا أم لا.
+يشير إلى ما إذا كان الكائن مرئيًا.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def is_hidden(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CheckBox](/cells/python-net/ar/aspose.cells.drawing/checkbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CheckBox`](/cells/python-net/ar/aspose.cells.drawing/checkbox)

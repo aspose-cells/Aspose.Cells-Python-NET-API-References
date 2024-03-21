@@ -3,7 +3,7 @@ title: auto_load propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 300
+weight: 320
 url: /es/aspose.cells.drawing/oleobject/auto_load/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def auto_load(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [OleObject](/cells/python-net/es/aspose.cells.drawing/oleobject)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`OleObject`](/cells/python-net/es/aspose.cells.drawing/oleobject)

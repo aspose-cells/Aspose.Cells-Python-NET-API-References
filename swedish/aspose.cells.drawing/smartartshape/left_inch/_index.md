@@ -3,7 +3,7 @@ title: left_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 690
+weight: 700
 url: /sv/aspose.cells.drawing/smartartshape/left_inch/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Representerar den horisontella förskjutningen av formen från dess vänstra kol
 ```python
 
 if shape.left_inch == 3:
-    shape.left_inch = 1
+    shape.left_inch = 1.0
 
 ```
 ###  Definition:
@@ -30,5 +30,5 @@ def left_inch(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [SmartArtShape](/cells/python-net/sv/aspose.cells.drawing/smartartshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`SmartArtShape`](/cells/python-net/sv/aspose.cells.drawing/smartartshape)

@@ -1,9 +1,9 @@
 ---
 title: value_axis недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 620
+weight: 650
 url: /ru/aspose.cells.charts/chart/value_axis/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def value_axis(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Axis](/cells/python-net/ru/aspose.cells.charts/axis)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Axis`](/cells/python-net/ru/aspose.cells.charts/axis)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)

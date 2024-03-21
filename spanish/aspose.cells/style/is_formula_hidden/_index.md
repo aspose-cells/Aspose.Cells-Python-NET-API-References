@@ -3,13 +3,13 @@ title: is_formula_hidden propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 280
+weight: 320
 url: /es/aspose.cells/style/is_formula_hidden/
 is_root: false
 ---
 ##  is_formula_hidden propiedad
 
-Representa si la fórmula se ocultará cuando la hoja de cálculo esté protegida.
+Representa si la fórmula estará oculta cuando la hoja de cálculo esté protegida.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_formula_hidden(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)

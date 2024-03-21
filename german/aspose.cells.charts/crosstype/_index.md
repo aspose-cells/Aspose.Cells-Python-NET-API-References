@@ -3,12 +3,12 @@ title: CrossType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 460
+weight: 470
 url: /de/aspose.cells.charts/crosstype/
 is_root: false
 ---
 ##  CrossType Aufzählung
-Repräsentiert den Achsenkreuztyp.
+Stellt den Achsenkreuztyp dar.
 
 
 
@@ -18,11 +18,11 @@ Der Typ CrossType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | AUTOMATIC | Microsoft Excel legt den Achsenkreuzungspunkt fest.|
-| MAXIMUM | Die Achse kreuzt beim Maximalwert.|
-| MINIMUM | Die Achse kreuzt beim Minimalwert.|
-| CUSTOM | Die Achse schneidet sich am benutzerdefinierten Wert.|
+| MAXIMUM | Die Achse kreuzt sich beim Maximalwert.|
+| MINIMUM | Die Achse kreuzt sich beim Minimalwert.|
+| CUSTOM | Die Achse kreuzt sich am benutzerdefinierten Wert.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

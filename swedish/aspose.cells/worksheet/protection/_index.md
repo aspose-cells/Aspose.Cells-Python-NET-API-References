@@ -3,7 +3,7 @@ title: protection fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 700
+weight: 720
 url: /sv/aspose.cells/worksheet/protection/
 is_root: false
 ---
@@ -22,6 +22,6 @@ def protection(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Protection](/cells/python-net/sv/aspose.cells/protection)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Protection`](/cells/python-net/sv/aspose.cells/protection)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

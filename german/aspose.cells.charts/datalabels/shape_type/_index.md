@@ -3,7 +3,7 @@ title: shape_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 380
+weight: 370
 url: /de/aspose.cells.charts/datalabels/shape_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def shape_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [DataLabelShapeType](/cells/python-net/de/aspose.cells.drawing/datalabelshapetype)
-* Klasse [DataLabels](/cells/python-net/de/aspose.cells.charts/datalabels)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`DataLabelShapeType`](/cells/python-net/de/aspose.cells.drawing/datalabelshapetype)
+* Klasse [`DataLabels`](/cells/python-net/de/aspose.cells.charts/datalabels)

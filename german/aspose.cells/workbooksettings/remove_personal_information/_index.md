@@ -3,7 +3,7 @@ title: remove_personal_information Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 530
+weight: 410
 url: /de/aspose.cells/workbooksettings/remove_personal_information/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def remove_personal_information(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorkbookSettings](/cells/python-net/de/aspose.cells/workbooksettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookSettings`](/cells/python-net/de/aspose.cells/workbooksettings)

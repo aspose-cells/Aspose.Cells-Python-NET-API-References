@@ -3,13 +3,13 @@ title: y propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /fr/aspose.cells.drawing/label/y/
 is_root: false
 ---
 ##  y propriété
 
-Obtient et définit le décalage vertical de la forme par rapport à la bordure supérieure de la feuille de calcul, en pixels.
+Obtient et définit le décalage vertical de la forme par rapport à la bordure supérieure de la feuille de calcul, en unités de pixels.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Label](/cells/python-net/fr/aspose.cells.drawing/label)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Label`](/cells/python-net/fr/aspose.cells.drawing/label)

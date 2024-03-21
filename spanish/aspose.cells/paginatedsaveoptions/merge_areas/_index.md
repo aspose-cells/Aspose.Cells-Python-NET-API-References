@@ -3,7 +3,7 @@ title: merge_areas propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 150
+weight: 160
 url: /es/aspose.cells/paginatedsaveoptions/merge_areas/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def merge_areas(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PaginatedSaveOptions](/cells/python-net/es/aspose.cells/paginatedsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PaginatedSaveOptions`](/cells/python-net/es/aspose.cells/paginatedsaveoptions)

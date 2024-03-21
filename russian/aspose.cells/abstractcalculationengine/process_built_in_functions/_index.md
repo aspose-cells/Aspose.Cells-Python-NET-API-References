@@ -1,17 +1,22 @@
 ---
 title: process_built_in_functions недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ru/aspose.cells/abstractcalculationengine/process_built_in_functions/
 is_root: false
 ---
 ##  process_built_in_functions недвижимость
 
-Должны ли встроенные функции, поддерживаемые встроенным механизмом, проверяться и обрабатываться этой реализацией.
-Значение по умолчанию — ложь.
-Если пользователю необходимо изменить логику расчета некоторых встроенных функций, это свойство должно быть установлено как true.
+Поддерживаются ли встроенные функции встроенным движком
+должны быть проверены и обработаны этой реализацией.
+По умолчанию — ложь.
+
+###  Примечания
+
+Если пользователю необходимо изменить логику вычислений некоторых встроенных функций, это свойство должно быть установлено как true.
+В противном случае, пожалуйста, оставьте это свойство как ложное из соображений производительности.
 ###  Определение:
 ```python
 @property
@@ -20,5 +25,5 @@ def process_built_in_functions(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AbstractCalculationEngine](/cells/python-net/ru/aspose.cells/abstractcalculationengine)
+* модуль [`aspose.cells`](../../)
+* класс [`AbstractCalculationEngine`](/cells/python-net/ru/aspose.cells/abstractcalculationengine)

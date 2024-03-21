@@ -3,7 +3,7 @@ title: selected_cell fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 880
+weight: 890
 url: /sv/aspose.cells.drawing/combobox/selected_cell/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def selected_cell(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
-* klass [ComboBox](/cells/python-net/sv/aspose.cells.drawing/combobox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)
+* klass [`ComboBox`](/cells/python-net/sv/aspose.cells.drawing/combobox)

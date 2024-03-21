@@ -1,15 +1,15 @@
 ---
-title: hyperlink الملكية
+title: hyperlink عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 490
+weight: 510
 url: /ar/aspose.cells.drawing/textbox/hyperlink/
 is_root: false
 ---
-##  hyperlink الملكية
+##  hyperlink عقار
 
-الحصول على hyperlink للشكل.
+يحصل على hyperlink من الشكل.
 
 ###  مثال
 
@@ -26,6 +26,6 @@ def hyperlink(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Hyperlink](/cells/python-net/ar/aspose.cells/hyperlink)
-* فئة [TextBox](/cells/python-net/ar/aspose.cells.drawing/textbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink)
+* فئة [`TextBox`](/cells/python-net/ar/aspose.cells.drawing/textbox)

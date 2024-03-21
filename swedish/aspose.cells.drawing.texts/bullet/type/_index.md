@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämtar och ställer kulan type.
+Hämtar och ställer in type av kulan.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [Bullet](/cells/python-net/sv/aspose.cells.drawing.texts/bullet)
-* klass [BulletType](/cells/python-net/sv/aspose.cells.drawing.texts/bullettype)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`Bullet`](/cells/python-net/sv/aspose.cells.drawing.texts/bullet)
+* klass [`BulletType`](/cells/python-net/sv/aspose.cells.drawing.texts/bullettype)

@@ -3,12 +3,12 @@ title: طريقة init_pivot_items
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 120
 url: /ar/aspose.cells.pivot/pivotfield/init_pivot_items/
 is_root: false
 ---
-##  init_pivot_items() {#}
-ابدأ العناصر المحورية للحقل المحوري
+##  init_pivot_items {#}
+قم ببدء العناصر المحورية للحقل المحوري
 
 
 
@@ -22,5 +22,5 @@ def init_pivot_items(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

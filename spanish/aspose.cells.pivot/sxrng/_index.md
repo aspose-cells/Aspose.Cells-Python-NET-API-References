@@ -3,13 +3,11 @@ title: SxRng clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 120
+weight: 220
 url: /es/aspose.cells.pivot/sxrng/
 is_root: false
 ---
 ##  SxRng clase
-Representa el rango de grupo en un campo dinámico.
-
 
 
 El tipo SxRng expone los siguientes miembros:
@@ -17,14 +15,14 @@ El tipo SxRng expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [is_auto_start](/cells/python-net/es/aspose.cells.pivot/sxrng/is_auto_start) | Especifica un valor booleano que indica si la aplicación utilizará los datos de origen para establecer el valor del rango inicial.|
-| [is_auto_end](/cells/python-net/es/aspose.cells.pivot/sxrng/is_auto_end) | Especifica un valor booleano que indica si la aplicación utilizará los datos de origen para establecer el valor del rango final.|
-| [start](/cells/python-net/es/aspose.cells.pivot/sxrng/start) | Representa el objeto de inicio para el rango de grupo.|
-| [end](/cells/python-net/es/aspose.cells.pivot/sxrng/end) | Representa el objeto final del rango de grupo.|
-| [by](/cells/python-net/es/aspose.cells.pivot/sxrng/by) | Representa el objeto de intervalo para el rango de grupo.|
-| [group_by_types](/cells/python-net/es/aspose.cells.pivot/sxrng/group_by_types) | Representa el tipo de grupo para el rango de grupo.<br/> rangeofvalue Segundos Minutos Horas Días Meses Trimestres Años|
+| [is_auto_start](/cells/python-net/es/aspose.cells.pivot/sxrng/is_auto_start) |  |
+| [is_auto_end](/cells/python-net/es/aspose.cells.pivot/sxrng/is_auto_end) |  |
+| [start](/cells/python-net/es/aspose.cells.pivot/sxrng/start) |  |
+| [end](/cells/python-net/es/aspose.cells.pivot/sxrng/end) |  |
+| [by](/cells/python-net/es/aspose.cells.pivot/sxrng/by) |  |
+| [group_by_types](/cells/python-net/es/aspose.cells.pivot/sxrng/group_by_types) |  |
 
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](..)
+* módulo [`aspose.cells.pivot`](..)

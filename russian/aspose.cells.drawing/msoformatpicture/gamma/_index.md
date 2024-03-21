@@ -1,9 +1,9 @@
 ---
 title: gamma недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ru/aspose.cells.drawing/msoformatpicture/gamma/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def gamma(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoFormatPicture](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoFormatPicture`](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)

@@ -1,26 +1,26 @@
 ---
-title: العد DataBarBorderType
+title: DataBarBorderType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1910
+weight: 1980
 url: /ar/aspose.cells/databarbordertype/
 is_root: false
 ---
-##  العد DataBarBorderType
-يحدد نوع الحد لشريط البيانات.
+##  DataBarBorderType التعداد
+يحدد نوع الحدود لشريط البيانات.
 
 
 
-يكشف نوع DataBarBorderType الأعضاء التالية:
+يكشف النوع DataBarBorderType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | NONE | شريط البيانات ليس له حدود.|
-| SOLID | يحتوي شريط البيانات على حد متصل.|
+| SOLID | يحتوي شريط البيانات على حدود صلبة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

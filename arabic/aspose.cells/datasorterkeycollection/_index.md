@@ -1,44 +1,44 @@
 ---
-title: DataSorterKeyCollection الدرجة
+title: DataSorterKeyCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 460
 url: /ar/aspose.cells/datasorterkeycollection/
 is_root: false
 ---
-##  DataSorterKeyCollection الدرجة
+##  DataSorterKeyCollection صف
 يمثل القائمة الرئيسية لفرز البيانات.
 
 
 
-يكشف نوع DataSorterKeyCollection الأعضاء التالية:
+يكشف النوع DataSorterKeyCollection عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [DataSorterKeyCollection()](/cells/python-net/ar/aspose.cells/datasorterkeycollection/__init__/#) | إنشاء مثيل جديد من DataSorterKeyCollection|
+| [__init__](/cells/python-net/ar/aspose.cells/datasorterkeycollection/__init__/#) | إنشاء مثيل جديد لـ DataSorterKeyCollection|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [capacity](/cells/python-net/ar/aspose.cells/datasorterkeycollection/capacity) | الحصول على أو تحديد عدد العناصر التي يمكن أن تحتويها قائمة الصفيف.|
+| [capacity](/cells/python-net/ar/aspose.cells/datasorterkeycollection/capacity) | الحصول على أو تعيين عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/ar/aspose.cells/datasorterkeycollection/copy_to/#list) | ينسخ قائمة المصفوفات بأكملها إلى قائمة مصفوفة متوافقة أحادية البعد ، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ar/aspose.cells/datasorterkeycollection/copy_to/#int-list-int-int) |ينسخ نطاقًا من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة ، بدءًا من الفهرس المحدد لقائمة الصفيف الهدف.|
-| [index_of(item, index)](/cells/python-net/ar/aspose.cells/datasorterkeycollection/index_of/#DataSorterKey-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of(item, index, count)](/cells/python-net/ar/aspose.cells/datasorterkeycollection/index_of/#DataSorterKey-int-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ بالفهرس المحدد ويحتوي على عدد محدد من العناصر.|
-| [last_index_of(item)](/cells/python-net/ar/aspose.cells/datasorterkeycollection/last_index_of/#DataSorterKey) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of(item, index)](/cells/python-net/ar/aspose.cells/datasorterkeycollection/last_index_of/#DataSorterKey-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of(item, index, count)](/cells/python-net/ar/aspose.cells/datasorterkeycollection/last_index_of/#DataSorterKey-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
-| [binary_search(item)](/cells/python-net/ar/aspose.cells/datasorterkeycollection/binary_search/#DataSorterKey) | يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.|
+| [copy_to](/cells/python-net/ar/aspose.cells/datasorterkeycollection/copy_to/#list) | نسخ قائمة الصفيف بأكملها إلى قائمة صفيف أحادية البعد متوافقة، بدءًا من بداية قائمة الصفيف الهدف.|
+| [copy_to](/cells/python-net/ar/aspose.cells/datasorterkeycollection/copy_to/#int-list-int-int) | نسخ نطاق من العناصر من قائمة المصفوفات إلى قائمة مصفوفات متوافقة أحادية البعد، بدءًا من الفهرس المحدد لقائمة المصفوفات المستهدفة.|
+| [index_of](/cells/python-net/ar/aspose.cells/datasorterkeycollection/index_of/#aspose.cells.DataSorterKey-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [index_of](/cells/python-net/ar/aspose.cells/datasorterkeycollection/index_of/#aspose.cells.DataSorterKey-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ عند الفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [last_index_of](/cells/python-net/ar/aspose.cells/datasorterkeycollection/last_index_of/#aspose.cells.DataSorterKey) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
+| [last_index_of](/cells/python-net/ar/aspose.cells/datasorterkeycollection/last_index_of/#aspose.cells.DataSorterKey-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [last_index_of](/cells/python-net/ar/aspose.cells/datasorterkeycollection/last_index_of/#aspose.cells.DataSorterKey-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على العدد المحدد من العناصر وينتهي عند الفهرس المحدد.|
+| [binary_search](/cells/python-net/ar/aspose.cells/datasorterkeycollection/binary_search/#aspose.cells.DataSorterKey) | يبحث في قائمة المصفوفات التي تم فرزها بالكامل عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس الصفري للعنصر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

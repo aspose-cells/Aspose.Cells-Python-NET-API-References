@@ -3,7 +3,7 @@ title: first_row proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 310
+weight: 330
 url: /it/aspose.cells/range/first_row/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def first_row(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Range](/cells/python-net/it/aspose.cells/range)
+* modulo [`aspose.cells`](../../)
+* classe [`Range`](/cells/python-net/it/aspose.cells/range)

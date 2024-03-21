@@ -1,13 +1,13 @@
 ---
-title: AxisType dénombrement
+title: AxisType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 370
 url: /fr/aspose.cells.charts/axistype/
 is_root: false
 ---
-##  AxisType dénombrement
+##  AxisType énumération
 Représente le type d'axe.
 
 
@@ -24,4 +24,4 @@ Le type AxisType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

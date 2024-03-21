@@ -1,14 +1,14 @@
 ---
-title: metodo get_row_height
+title: Metodo get_row_height
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 470
+weight: 460
 url: /it/aspose.cells/cells/get_row_height/
 is_root: false
 ---
-##  get_row_height(row) {#int}
-Ottiene l'altezza di una riga specificata.
+##  get_row_height {#int}
+Ottiene l'altezza di una riga specificata, in unità di punti.
 
 
 ###  ritorna
@@ -24,10 +24,10 @@ def get_row_height(self, row):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row | int | Indice di riga|
+| row | int | Indice delle righe|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

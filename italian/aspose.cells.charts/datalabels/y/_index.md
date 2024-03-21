@@ -3,7 +3,7 @@ title: y proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 540
+weight: 530
 url: /it/aspose.cells.charts/datalabels/y/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def y(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/it/aspose.cells.charts/datalabels)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/it/aspose.cells.charts/datalabels)

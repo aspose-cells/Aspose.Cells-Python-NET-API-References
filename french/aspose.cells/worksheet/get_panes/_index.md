@@ -1,13 +1,13 @@
 ---
-title: get_panes méthode
+title: méthode get_panes
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 160
 url: /fr/aspose.cells/worksheet/get_panes/
 is_root: false
 ---
-##  get_panes() {#}
+##  get_panes {#}
 Obtient les volets de la fenêtre.
 
 
@@ -20,10 +20,10 @@ def get_panes(self):
 
 ###  Remarques
 
-Si la fenêtre n'est pas fractionnée ou gelée.
+Si la fenêtre n'est pas divisée ou gelée.
 
 
 ###  Voir également
 
-* module [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

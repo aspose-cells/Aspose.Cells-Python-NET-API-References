@@ -1,9 +1,9 @@
 ---
 title: width_cm недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /ru/aspose.cells.drawing/button/width_cm/
 is_root: false
 ---
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.width_cm == 3:
-    shape.width_cm = 1
+    shape.width_cm = 1.0
 
 ```
 ###  Определение:
@@ -30,5 +30,5 @@ def width_cm(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Button](/cells/python-net/ru/aspose.cells.drawing/button)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Button`](/cells/python-net/ru/aspose.cells.drawing/button)

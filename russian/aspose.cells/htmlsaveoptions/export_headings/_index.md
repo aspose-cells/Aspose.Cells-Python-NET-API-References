@@ -1,9 +1,9 @@
 ---
 title: export_headings недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 250
+weight: 270
 url: /ru/aspose.cells/htmlsaveoptions/export_headings/
 is_root: false
 ---
@@ -15,7 +15,7 @@ is_root: false
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
 используйте свойство HtmlSaveOptions.ExportRowColumnHeadings.
- Это свойство будет удалено через 12 месяцев, начиная с июня 2022 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с июня 2022 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -28,5 +28,5 @@ def export_headings(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)

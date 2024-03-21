@@ -3,13 +3,13 @@ title: x mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1260
+weight: 1270
 url: /tr/aspose.cells.drawing/checkbox/x/
 is_root: false
 ---
 ##  x mülk
 
-Şeklin yatay ofsetini çalışma sayfasının sol kenarından piksel birimi cinsinden alır ve ayarlar.
+Çalışma sayfasının sol kenarlığından şeklin yatay uzaklığını piksel biriminde alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def x(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CheckBox](/cells/python-net/tr/aspose.cells.drawing/checkbox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CheckBox`](/cells/python-net/tr/aspose.cells.drawing/checkbox)

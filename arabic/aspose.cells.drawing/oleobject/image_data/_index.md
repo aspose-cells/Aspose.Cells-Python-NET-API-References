@@ -1,15 +1,15 @@
 ---
-title: image_data الملكية
+title: image_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 600
 url: /ar/aspose.cells.drawing/oleobject/image_data/
 is_root: false
 ---
-##  image_data الملكية
+##  image_data عقار
 
-يمثل صورة كائن أول كمصفوفة بايت.
+يمثل صورة كائن أولي كمصفوفة بايت.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

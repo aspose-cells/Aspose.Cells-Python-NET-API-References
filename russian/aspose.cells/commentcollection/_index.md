@@ -1,44 +1,44 @@
 ---
 title: CommentCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ru/aspose.cells/commentcollection/
 is_root: false
 ---
 ##  CommentCollection класс
-Инкапсулирует коллекцию из [Comment](/cells/python-net/ru/aspose.cells/comment) объектов.
+Инкапсулирует коллекцию из [`Comment`](/cells/python-net/ru/aspose.cells/comment) объектов.
 
 
 
-Тип CommentCollection предоставляет следующие члены:
+Тип CommentCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [capacity](/cells/python-net/ru/aspose.cells/commentcollection/capacity) | Получает или задает количество элементов, которые может содержать список массивов.|
+| [capacity](/cells/python-net/ru/aspose.cells/commentcollection/capacity) | Получает или задает количество элементов, которые может содержать список массива.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add_threaded_comment(row, column, text, author)](/cells/python-net/ru/aspose.cells/commentcollection/add_threaded_comment/#int-int-str-ThreadedCommentAuthor) | Добавляет цепочку комментариев.|
-| [add_threaded_comment(cell_name, text, author)](/cells/python-net/ru/aspose.cells/commentcollection/add_threaded_comment/#str-str-ThreadedCommentAuthor) | Добавляет цепочку комментариев.|
-| [get_threaded_comments(row, column)](/cells/python-net/ru/aspose.cells/commentcollection/get_threaded_comments/#int-int) | Получает цепочку комментариев по индексу строки и столбца.|
-| [get_threaded_comments(cell_name)](/cells/python-net/ru/aspose.cells/commentcollection/get_threaded_comments/#str) | Получает цепочку комментариев по имени ячейки.|
-| [add(row, column)](/cells/python-net/ru/aspose.cells/commentcollection/add/#int-int) | Добавляет комментарий к коллекции.|
-| [add(cell_name)](/cells/python-net/ru/aspose.cells/commentcollection/add/#str) | Добавляет комментарий к коллекции.|
-| [remove_at(cell_name)](/cells/python-net/ru/aspose.cells/commentcollection/remove_at/#str) | Удаляет комментарий конкретной ячейки.|
-| [remove_at(row, column)](/cells/python-net/ru/aspose.cells/commentcollection/remove_at/#int-int) | Удаляет комментарий конкретной ячейки.|
-| [copy_to(array)](/cells/python-net/ru/aspose.cells/commentcollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала целевого списка массивов.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ru/aspose.cells/commentcollection/copy_to/#int-list-int-int) |Копирует диапазон элементов из списка массивов в совместимый список одномерных массивов, начиная с указанного индекса целевого списка массивов.|
-| [index_of(item, index)](/cells/python-net/ru/aspose.cells/commentcollection/index_of/#Comment-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который простирается от указанного индекса до последнего элемента.|
-| [index_of(item, index, count)](/cells/python-net/ru/aspose.cells/commentcollection/index_of/#Comment-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
-| [last_index_of(item)](/cells/python-net/ru/aspose.cells/commentcollection/last_index_of/#Comment) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массивов.|
-| [last_index_of(item, index)](/cells/python-net/ru/aspose.cells/commentcollection/last_index_of/#Comment-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который простирается от первого элемента до указанного индекса.|
-| [last_index_of(item, index, count)](/cells/python-net/ru/aspose.cells/commentcollection/last_index_of/#Comment-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который содержит указанное количество элементов и заканчивается указанным индексом.|
-| [binary_search(item)](/cells/python-net/ru/aspose.cells/commentcollection/binary_search/#Comment) | Ищет элемент во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает отсчитываемый от нуля индекс элемента.|
+| [add_threaded_comment](/cells/python-net/ru/aspose.cells/commentcollection/add_threaded_comment/#int-int-str-aspose.cells.ThreadedCommentAuthor) | Добавляет цепочный комментарий.|
+| [add_threaded_comment](/cells/python-net/ru/aspose.cells/commentcollection/add_threaded_comment/#str-str-aspose.cells.ThreadedCommentAuthor) | Добавляет цепочный комментарий.|
+| [get_threaded_comments](/cells/python-net/ru/aspose.cells/commentcollection/get_threaded_comments/#int-int) | Получает цепочки комментариев по индексу строки и столбца.|
+| [get_threaded_comments](/cells/python-net/ru/aspose.cells/commentcollection/get_threaded_comments/#str) |Получает цепочки комментариев по имени ячейки.|
+| [add](/cells/python-net/ru/aspose.cells/commentcollection/add/#int-int) | Добавляет комментарий в коллекцию.|
+| [add](/cells/python-net/ru/aspose.cells/commentcollection/add/#str) | Добавляет комментарий в коллекцию.|
+| [remove_at](/cells/python-net/ru/aspose.cells/commentcollection/remove_at/#str) | Удаляет комментарий конкретной ячейки.|
+| [remove_at](/cells/python-net/ru/aspose.cells/commentcollection/remove_at/#int-int) | Удаляет комментарий конкретной ячейки.|
+| [copy_to](/cells/python-net/ru/aspose.cells/commentcollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала списка целевых массивов.|
+| [copy_to](/cells/python-net/ru/aspose.cells/commentcollection/copy_to/#int-list-int-int) | Копирует диапазон элементов из списка массива в совместимый список одномерных массивов, начиная с указанного индекса списка целевого массива.|
+| [index_of](/cells/python-net/ru/aspose.cells/commentcollection/index_of/#aspose.cells.Comment-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массива, простирающемся от указанного индекса до последнего элемента.|
+| [index_of](/cells/python-net/ru/aspose.cells/commentcollection/index_of/#aspose.cells.Comment-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
+| [last_index_of](/cells/python-net/ru/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment) | Ищет указанный объект и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массива.|
+| [last_index_of](/cells/python-net/ru/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, простирающемся от первого элемента до указанного индекса.|
+| [last_index_of](/cells/python-net/ru/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массива, который содержит указанное количество элементов и заканчивается указанным индексом.|
+| [binary_search](/cells/python-net/ru/aspose.cells/commentcollection/binary_search/#aspose.cells.Comment) | Выполняет поиск элемента во всем списке отсортированного массива, используя компаратор по умолчанию, и возвращает индекс элемента, отсчитываемый от нуля.|
 
 
 
@@ -53,5 +53,5 @@ comments = workbook.worksheets[0].comments
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
+* модуль [`aspose.cells`](..)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)

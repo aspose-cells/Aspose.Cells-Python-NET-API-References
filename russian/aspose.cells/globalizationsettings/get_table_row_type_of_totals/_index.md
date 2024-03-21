@@ -1,18 +1,18 @@
 ---
 title: get_table_row_type_of_totals метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ru/aspose.cells/globalizationsettings/get_table_row_type_of_totals/
 is_root: false
 ---
-##  get_table_row_type_of_totals() {#}
-Получает имя типа строк таблицы, состоящее из общей строки таблицы, на которую ссылаются.
-По умолчанию используется значение «Итоги», поэтому в формуле «#Итоги» представляет итоговую строку ссылочной таблицы.
+##  get_table_row_type_of_totals {#}
+Получает имя типа строк таблицы, состоящее из общей строки указанной таблицы.
+По умолчанию используется «Итоги», поэтому в формуле «#Итоги» представляет собой итоговую строку таблицы, на которую есть ссылка.
 
 
-###  Возвращает
+###  Возврат
 
 имя типа строк таблицы
 
@@ -27,5 +27,5 @@ def get_table_row_type_of_totals(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GlobalizationSettings](/cells/python-net/ru/aspose.cells/globalizationsettings)
+* модуль [`aspose.cells`](../../)
+* класс [`GlobalizationSettings`](/cells/python-net/ru/aspose.cells/globalizationsettings)

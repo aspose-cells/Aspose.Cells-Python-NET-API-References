@@ -3,13 +3,13 @@ title: area propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 30
+weight: 40
 url: /fr/aspose.cells.charts/axis/area/
 is_root: false
 ---
 ##  area propriété
 
-Obtient le [Axis.area](/cells/python-net/fr/aspose.cells.charts/axis#area).
+Obtient le [`Axis.area`](/cells/python-net/fr/aspose.cells.charts/axis#area).
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Area](/cells/python-net/fr/aspose.cells.drawing/area)
-* classe [Axis](/cells/python-net/fr/aspose.cells.charts/axis)
+* module [`aspose.cells.charts`](../../)
+* classe [`Area`](/cells/python-net/fr/aspose.cells.drawing/area)
+* classe [`Axis`](/cells/python-net/fr/aspose.cells.charts/axis)

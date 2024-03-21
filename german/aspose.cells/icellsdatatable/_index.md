@@ -3,12 +3,12 @@ title: ICellsDataTable Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 810
+weight: 860
 url: /de/aspose.cells/icellsdatatable/
 is_root: false
 ---
 ##  ICellsDataTable Klasse
-Stellt die Datentabelle dar.
+Stellt eine Datentabelle dar.
 
 
 
@@ -22,8 +22,8 @@ Der Typ ICellsDataTable macht die folgenden Member verfügbar:
 
 
 
-Ruft die Daten ab, die in der durch index angegebenen Spalte gespeichert sind.
-###  Indexierer
+Ruft die in der durch den Index angegebenen Spalte gespeicherten Daten ab.
+###  Indexer
 | Name| Beschreibung|
 | :- | :- |
 | [index] | Der nullbasierte Index der Spalte.|
@@ -32,8 +32,8 @@ Ruft die Daten ab, die in der durch index angegebenen Spalte gespeichert sind.
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [before_first()](/cells/python-net/de/aspose.cells/icellsdatatable/before_first/#) | Bewegen Sie den Cursor an die Vorderseite dieses Objekts, direkt vor die erste Zeile.|
-| [next()](/cells/python-net/de/aspose.cells/icellsdatatable/next/#) | Bewegt den Cursor von seiner aktuellen Position eine Zeile nach unten.|
+| [before_first](/cells/python-net/de/aspose.cells/icellsdatatable/before_first/#) | Bewegen Sie den Cursor an die Vorderseite dieses Objekts, direkt vor die erste Zeile.|
+| [next](/cells/python-net/de/aspose.cells/icellsdatatable/next/#) | Bewegt den Cursor von seiner aktuellen Position eine Zeile nach unten.|
 
 
 
@@ -42,4 +42,4 @@ Ruft die Daten ab, die in der durch index angegebenen Spalte gespeichert sind.
 
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

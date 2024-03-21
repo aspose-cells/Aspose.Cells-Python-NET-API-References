@@ -1,15 +1,15 @@
 ---
-title: width_in_shape 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: width_in_shape属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /zh/aspose.cells.drawing/groupbox/width_in_shape/
 is_root: false
 ---
-## width_in_shape 属性
+## width_in_shape属性
 
-表示形状的宽度，以父形状的 1/4000 为单位。
+表示形状的宽度，单位为父形状的 1/4000。
 
 ### 评论
 
@@ -19,8 +19,8 @@ is_root: false
 
 ```python
 
-if shape.upper_delta_y == 2000:
-    shape.upper_delta_y = 4000
+if shape.is_in_group and shape.width_in_shape == 2000:
+    shape.width_in_shape = 4000
 
 ```
 ### 定义：
@@ -34,5 +34,5 @@ def width_in_shape(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GroupBox](/cells/python-net/zh/aspose.cells.drawing/groupbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GroupBox`](/cells/python-net/zh/aspose.cells.drawing/groupbox)

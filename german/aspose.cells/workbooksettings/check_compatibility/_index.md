@@ -3,7 +3,7 @@ title: check_compatibility Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 120
+weight: 90
 url: /de/aspose.cells/workbooksettings/check_compatibility/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Gibt an, ob beim Speichern der Arbeitsmappe die Kompatibilität mit früheren Ve
 ###  Bemerkungen
 
 Der Standardwert ist wahr.
-Nur für Excel97-2003 xls- oder xlt-Dateien.
+Nur für Excel97-2003 XLS- oder XLT-Dateien.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def check_compatibility(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorkbookSettings](/cells/python-net/de/aspose.cells/workbooksettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookSettings`](/cells/python-net/de/aspose.cells/workbooksettings)

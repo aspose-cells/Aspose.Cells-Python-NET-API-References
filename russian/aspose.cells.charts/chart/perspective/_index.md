@@ -1,9 +1,9 @@
 ---
 title: perspective недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 380
+weight: 410
 url: /ru/aspose.cells.charts/chart/perspective/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def perspective(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)

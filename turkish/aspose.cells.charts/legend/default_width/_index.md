@@ -3,7 +3,7 @@ title: default_width mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 120
 url: /tr/aspose.cells.charts/legend/default_width/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def default_width(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Legend](/cells/python-net/tr/aspose.cells.charts/legend)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Legend`](/cells/python-net/tr/aspose.cells.charts/legend)

@@ -3,17 +3,17 @@ title: create_directory mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 80
+weight: 90
 url: /tr/aspose.cells/pptxsaveoptions/create_directory/
 is_root: false
 ---
 ##  create_directory mülk
 
-true ise ve dizin yoksa, dosya kaydedilmeden önce dizin otomatik olarak oluşturulur.
+Doğruysa ve dizin mevcut değilse, dosya kaydedilmeden önce dizin otomatik olarak oluşturulacaktır.
 
 ###  Notlar
 
-Varsayılan değer yanlıştır.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def create_directory(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PptxSaveOptions](/cells/python-net/tr/aspose.cells/pptxsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PptxSaveOptions`](/cells/python-net/tr/aspose.cells/pptxsaveoptions)

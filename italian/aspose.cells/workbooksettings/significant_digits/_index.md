@@ -3,18 +3,18 @@ title: significant_digits proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 590
+weight: 470
 url: /it/aspose.cells/workbooksettings/significant_digits/
 is_root: false
 ---
 ##  significant_digits proprietà
 
 Ottiene e imposta il numero di cifre significative.
-Il valore predefinito è [CellsHelper.significant_digits](/cells/python-net/it/aspose.cells/cellshelper#significant_digits).
+Il valore predefinito è [`CellsHelper.significant_digits`](/cells/python-net/it/aspose.cells/cellshelper#significant_digits).
 
 ###  Osservazioni
 
-Potrebbe avere solo 15 o 17 anni adesso.
+Potrebbero avere solo 15 o 17 anni adesso.
 ###  Definizione:
 ```python
 @property
@@ -26,5 +26,5 @@ def significant_digits(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorkbookSettings](/cells/python-net/it/aspose.cells/workbooksettings)
+* modulo [`aspose.cells`](../../)
+* classe [`WorkbookSettings`](/cells/python-net/it/aspose.cells/workbooksettings)

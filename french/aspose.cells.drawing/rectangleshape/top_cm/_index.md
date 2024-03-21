@@ -3,20 +3,20 @@ title: top_cm propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /fr/aspose.cells.drawing/rectangleshape/top_cm/
 is_root: false
 ---
 ##  top_cm propriété
 
-Représente le décalage vertical de la forme par rapport à sa rangée supérieure, en centimètres.
+Représente le décalage vertical de la forme par rapport à sa rangée supérieure, en unités de centimètres.
 
 ###  Exemple
 
 ```python
 
 if shape.top_cm == 3:
-    shape.top_cm = 1
+    shape.top_cm = 1.0
 
 ```
 ###  Définition:
@@ -30,5 +30,5 @@ def top_cm(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RectangleShape](/cells/python-net/fr/aspose.cells.drawing/rectangleshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RectangleShape`](/cells/python-net/fr/aspose.cells.drawing/rectangleshape)

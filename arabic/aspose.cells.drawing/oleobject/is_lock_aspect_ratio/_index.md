@@ -1,13 +1,13 @@
 ---
-title: is_lock_aspect_ratio الملكية
+title: is_lock_aspect_ratio عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 720
+weight: 730
 url: /ar/aspose.cells.drawing/oleobject/is_lock_aspect_ratio/
 is_root: false
 ---
-##  is_lock_aspect_ratio الملكية
+##  is_lock_aspect_ratio عقار
 
 صحيح يعني أنه لا يسمح بإجراء تغييرات في نسبة العرض إلى الارتفاع.
 
@@ -29,5 +29,5 @@ def is_lock_aspect_ratio(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

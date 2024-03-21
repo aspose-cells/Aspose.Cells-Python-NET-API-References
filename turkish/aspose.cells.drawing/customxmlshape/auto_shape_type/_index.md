@@ -3,7 +3,7 @@ title: auto_shape_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 280
+weight: 300
 url: /tr/aspose.cells.drawing/customxmlshape/auto_shape_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def auto_shape_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [AutoShapeType](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)
-* sınıf [CustomXmlShape](/cells/python-net/tr/aspose.cells.drawing/customxmlshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`AutoShapeType`](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)
+* sınıf [`CustomXmlShape`](/cells/python-net/tr/aspose.cells.drawing/customxmlshape)

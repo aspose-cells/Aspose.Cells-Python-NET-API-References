@@ -3,7 +3,7 @@ title: ProtectionType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2420
+weight: 2510
 url: /sv/aspose.cells/protectiontype/
 is_root: false
 ---
@@ -28,4 +28,4 @@ Typen ProtectionType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

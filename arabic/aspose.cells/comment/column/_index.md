@@ -1,15 +1,15 @@
 ---
-title: column الملكية
+title: column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells/comment/column/
 is_root: false
 ---
-##  column الملكية
+##  column عقار
 
-الحصول على فهرس column للتعليق.
+يحصل على فهرس التعليق column.
 
 ###  مثال
 
@@ -26,5 +26,5 @@ def column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

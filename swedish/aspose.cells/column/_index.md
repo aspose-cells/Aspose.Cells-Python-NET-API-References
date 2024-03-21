@@ -3,7 +3,7 @@ title: Column klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 270
 url: /sv/aspose.cells/column/
 is_root: false
 ---
@@ -19,19 +19,19 @@ Typen Column avslöjar följande medlemmar:
 | :- | :- |
 | [index](/cells/python-net/sv/aspose.cells/column/index) | Hämtar indexet för denna kolumn.|
 | [width](/cells/python-net/sv/aspose.cells/column/width) | Hämtar och ställer in kolumnbredden i teckenenhet.|
-| [group_level](/cells/python-net/sv/aspose.cells/column/group_level) |Hämtar gruppnivån för kolumnen.|
+| [group_level](/cells/python-net/sv/aspose.cells/column/group_level) | Hämtar gruppnivån för kolumnen.|
 | [is_hidden](/cells/python-net/sv/aspose.cells/column/is_hidden) | Indikerar om kolumnen är dold.|
 | [has_custom_style](/cells/python-net/sv/aspose.cells/column/has_custom_style) | Indikerar om den här kolumnen har anpassade stilinställningar (som skiljer sig från standarden som ärvts från arbetsboken).|
-| [style](/cells/python-net/sv/aspose.cells/column/style) | Får stilen på den här kolumnen.|
+| [style](/cells/python-net/sv/aspose.cells/column/style) | Får stilen i denna kolumn.|
 | [is_collapsed](/cells/python-net/sv/aspose.cells/column/is_collapsed) | om kolumnen är kollapsad|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [apply_style(style, flag)](/cells/python-net/sv/aspose.cells/column/apply_style/#Style-StyleFlag) | Tillämpar format för en hel kolumn.|
-| [get_style()](/cells/python-net/sv/aspose.cells/column/get_style/#) | Får stilen på den här kolumnen.|
-| [set_style(style)](/cells/python-net/sv/aspose.cells/column/set_style/#Style) | Ställer in stilen för denna kolumn.|
+| [apply_style](/cells/python-net/sv/aspose.cells/column/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) |Tillämpar format för en hel kolumn.|
+| [get_style](/cells/python-net/sv/aspose.cells/column/get_style/#) | Får stilen i denna kolumn.|
+| [set_style](/cells/python-net/sv/aspose.cells/column/set_style/#aspose.cells.Style) | Ställer in stilen för denna kolumn.|
 
 
 
@@ -66,4 +66,4 @@ workbook.save("book1.xls")
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

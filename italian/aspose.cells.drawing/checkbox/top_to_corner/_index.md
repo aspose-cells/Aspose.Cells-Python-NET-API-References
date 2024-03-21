@@ -3,7 +3,7 @@ title: top_to_corner proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /it/aspose.cells.drawing/checkbox/top_to_corner/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def top_to_corner(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CheckBox](/cells/python-net/it/aspose.cells.drawing/checkbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CheckBox`](/cells/python-net/it/aspose.cells.drawing/checkbox)

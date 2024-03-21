@@ -3,13 +3,13 @@ title: max Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 820
+weight: 830
 url: /de/aspose.cells.drawing/scrollbar/max/
 is_root: false
 ---
 ##  max Eigentum
 
-Ruft den maximalen Wert einer Bildlaufleiste oder eines Drehfeldbereichs ab oder legt diesen fest.
+Ruft den Maximalwert einer Bildlaufleiste oder eines Spinnerbereichs ab oder legt diesen fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ScrollBar](/cells/python-net/de/aspose.cells.drawing/scrollbar)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ScrollBar`](/cells/python-net/de/aspose.cells.drawing/scrollbar)

@@ -3,13 +3,13 @@ title: shadow mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 330
 url: /tr/aspose.cells.charts/legend/shadow/
 is_root: false
 ---
 ##  shadow mülk
 
-Çerçevede shadow varsa doğrudur.
+Çerçevenin shadow numarası varsa doğrudur.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Legend](/cells/python-net/tr/aspose.cells.charts/legend)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Legend`](/cells/python-net/tr/aspose.cells.charts/legend)

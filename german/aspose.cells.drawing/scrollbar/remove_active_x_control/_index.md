@@ -3,11 +3,11 @@ title: remove_active_x_control Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 150
+weight: 170
 url: /de/aspose.cells.drawing/scrollbar/remove_active_x_control/
 is_root: false
 ---
-##  remove_active_x_control() {#}
+##  remove_active_x_control {#}
 Entfernen Sie das ActiveX-Steuerelement.
 
 
@@ -23,12 +23,13 @@ def remove_active_x_control(self):
 
 ```python
 
-shape.remove_active_x_control()
+if shape.active_x_control != None:
+    shape.remove_active_x_control()
 
 ```
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ScrollBar](/cells/python-net/de/aspose.cells.drawing/scrollbar)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ScrollBar`](/cells/python-net/de/aspose.cells.drawing/scrollbar)

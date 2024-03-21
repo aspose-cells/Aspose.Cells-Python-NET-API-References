@@ -3,7 +3,7 @@ title: y proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /it/aspose.cells.drawing/groupbox/y/
 is_root: false
 ---
@@ -30,5 +30,5 @@ def y(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GroupBox](/cells/python-net/it/aspose.cells.drawing/groupbox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GroupBox`](/cells/python-net/it/aspose.cells.drawing/groupbox)

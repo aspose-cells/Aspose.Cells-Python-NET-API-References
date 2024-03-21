@@ -1,9 +1,9 @@
 ---
 title: enable_macros недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 210
+weight: 170
 url: /ru/aspose.cells/workbooksettings/enable_macros/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def enable_macros(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

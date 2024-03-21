@@ -1,15 +1,15 @@
 ---
-title: names الملكية
+title: names عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 320
 url: /ar/aspose.cells/worksheetcollection/names/
 is_root: false
 ---
-##  names الملكية
+##  names عقار
 
-الحصول على مجموعة كل كائنات الاسم في جدول البيانات.
+الحصول على مجموعة كافة كائنات الاسم في جدول البيانات.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def names(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [NameCollection](/cells/python-net/ar/aspose.cells/namecollection)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`NameCollection`](/cells/python-net/ar/aspose.cells/namecollection)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

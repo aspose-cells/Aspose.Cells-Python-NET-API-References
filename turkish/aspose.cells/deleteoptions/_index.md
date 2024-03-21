@@ -3,7 +3,7 @@ title: DeleteOptions sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 470
+weight: 490
 url: /tr/aspose.cells/deleteoptions/
 is_root: false
 ---
@@ -12,20 +12,20 @@ Satırları/sütunları silme ayarını temsil eder.
 
 
 
-DeleteOptions türü aşağıdaki üyeleri gösterir:
+DeleteOptions türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [DeleteOptions()](/cells/python-net/tr/aspose.cells/deleteoptions/__init__/#) | Yeni bir DeleteOptions örneği oluşturur|
+| [__init__](/cells/python-net/tr/aspose.cells/deleteoptions/__init__/#) | Siloptions'ın yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [update_reference](/cells/python-net/tr/aspose.cells/deleteoptions/update_reference) | Diğer çalışma sayfalarındaki güncelleme başvurularının olup olmadığını gösterir.|
+| [update_reference](/cells/python-net/tr/aspose.cells/deleteoptions/update_reference) |Diğer çalışma sayfalarındaki referansların güncellenip güncellenmediğini gösterir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

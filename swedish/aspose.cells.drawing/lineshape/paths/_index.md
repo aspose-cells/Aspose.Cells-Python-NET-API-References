@@ -3,7 +3,7 @@ title: paths fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 870
+weight: 880
 url: /sv/aspose.cells.drawing/lineshape/paths/
 is_root: false
 ---
@@ -28,6 +28,6 @@ def paths(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineShape](/cells/python-net/sv/aspose.cells.drawing/lineshape)
-* klass [ShapePathCollection](/cells/python-net/sv/aspose.cells.drawing/shapepathcollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineShape`](/cells/python-net/sv/aspose.cells.drawing/lineshape)
+* klass [`ShapePathCollection`](/cells/python-net/sv/aspose.cells.drawing/shapepathcollection)

@@ -3,14 +3,14 @@ title: height_scale propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 470
+weight: 480
 url: /fr/aspose.cells.drawing/groupbox/height_scale/
 is_root: false
 ---
 ##  height_scale propriété
 
-Obtient et définit l'échelle de hauteur, en pourcentage de la hauteur de l'image d'origine.
-Si la forme n'est pas picture , la propriété HeightScale ne renvoie que 100 ;
+Obtient et définit l'échelle de hauteur, en unité de pourcentage de la hauteur de l'image d'origine.
+Si la forme n'est pas une image, la propriété HeightScale renvoie uniquement 100 ;
 
 ###  Exemple
 
@@ -31,5 +31,5 @@ def height_scale(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GroupBox](/cells/python-net/fr/aspose.cells.drawing/groupbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GroupBox`](/cells/python-net/fr/aspose.cells.drawing/groupbox)

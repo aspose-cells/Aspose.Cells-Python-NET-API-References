@@ -1,0 +1,25 @@
+---
+title: is_export_comments недвижимость
+second_title: Aspose.Cells for Python via .NET API Рекомендации
+description:
+type: docs
+weight: 490
+url: /ru/aspose.cells.saving/ebooksaveoptions/is_export_comments/
+is_root: false
+---
+##  is_export_comments недвижимость
+
+Указывает, что при экспорте комментариев при сохранении файла в формате html значение по умолчанию — false.
+###  Определение:
+```python
+@property
+def is_export_comments(self):
+    ...
+@is_export_comments.setter
+def is_export_comments(self, value):
+    ...
+```
+
+###  Смотрите также
+* модуль [`aspose.cells.saving`](../../)
+* класс [`EbookSaveOptions`](/cells/python-net/ru/aspose.cells.saving/ebooksaveoptions)

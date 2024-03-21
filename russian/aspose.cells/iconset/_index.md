@@ -1,29 +1,29 @@
 ---
 title: IconSet класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 900
+weight: 940
 url: /ru/aspose.cells/iconset/
 is_root: false
 ---
 ##  IconSet класс
  Опишите правило условного форматирования IconSet.
 Это правило условного форматирования применяет значки к ячейкам.
-в соответствии с их значениями.
+согласно их ценностям.
 
 
 
-Тип IconSet предоставляет следующие члены:
+Тип IconSet предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [cf_icons](/cells/python-net/ru/aspose.cells/iconset/cf_icons) | Получите [ConditionalFormattingIcon](/cells/python-net/ru/aspose.cells/conditionalformattingicon) из коллекции|
+| [cf_icons](/cells/python-net/ru/aspose.cells/iconset/cf_icons) | Получите [`ConditionalFormattingIcon`](/cells/python-net/ru/aspose.cells/conditionalformattingicon) из коллекции.|
 | [cfvos](/cells/python-net/ru/aspose.cells/iconset/cfvos) | Получите экземпляр CFValueObjects.|
-| [type](/cells/python-net/ru/aspose.cells/iconset/type) | Получить или установить тип набора значков для отображения.<br/>Установка типа автоматически проверит, соответствует ли текущий счетчик Cfvos.<br/> соответствии с новым типом. В противном случае старые Cfvos будут очищены и<br/> будут добавлены Cfvo по умолчанию.|
+| [type](/cells/python-net/ru/aspose.cells/iconset/type) | Получите или установите тип набора значков для отображения.<br/>Установка типа автоматически проверит, соответствует ли текущий счетчик Cfvos.<br/> соответствовать новому типу. В противном случае старый Cfvos будет очищен и<br/> Cfvo по умолчанию будет добавлен.|
 | [is_custom](/cells/python-net/ru/aspose.cells/iconset/is_custom) | Указывает, является ли набор значков пользовательским.<br/> Значение по умолчанию — ложь.|
-| [show_value](/cells/python-net/ru/aspose.cells/iconset/show_value) | Получите или установите флаг, указывающий, следует ли отображать значения ячеек, к которым применяется этот набор значков.<br/> Значение по умолчанию — истина.|
+| [show_value](/cells/python-net/ru/aspose.cells/iconset/show_value) | Получите или установите флаг, указывающий, следует ли отображать значения ячеек, к которым применяется этот набор значков.<br/> Значение по умолчанию — правда.|
 | [reverse](/cells/python-net/ru/aspose.cells/iconset/reverse) | Получите или установите флаг, указывающий, следует ли изменить порядок значков по умолчанию в этом наборе значков.<br/> Значение по умолчанию — ложь.|
 
 
@@ -67,5 +67,5 @@ workbook.save("book1.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
-* класс [ConditionalFormattingIcon](/cells/python-net/ru/aspose.cells/conditionalformattingicon)
+* модуль [`aspose.cells`](..)
+* класс [`ConditionalFormattingIcon`](/cells/python-net/ru/aspose.cells/conditionalformattingicon)

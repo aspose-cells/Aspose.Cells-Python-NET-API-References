@@ -1,9 +1,9 @@
 ---
 title: PageOrientationType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 2310
+weight: 2400
 url: /ru/aspose.cells/pageorientationtype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип PageOrientationType предоставляет следующие члены:
+Тип PageOrientationType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

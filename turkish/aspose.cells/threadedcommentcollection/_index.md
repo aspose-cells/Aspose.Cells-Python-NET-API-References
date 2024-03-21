@@ -3,16 +3,16 @@ title: ThreadedCommentCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1470
+weight: 1540
 url: /tr/aspose.cells/threadedcommentcollection/
 is_root: false
 ---
 ##  ThreadedCommentCollection sınıfı
-Zincirleme açıklamaların listesini temsil eder.
+İş parçacığı haline getirilmiş yorumların listesini temsil eder.
 
 
 
-ThreadedCommentCollection türü aşağıdaki üyeleri gösterir:
+ThreadedCommentCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -23,17 +23,17 @@ ThreadedCommentCollection türü aşağıdaki üyeleri gösterir:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/tr/aspose.cells/threadedcommentcollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/tr/aspose.cells/threadedcommentcollection/copy_to/#int-list-int-int) |Dizi listesindeki bir dizi öğeyi, hedef dizi listesinin belirtilen dizininden başlayarak uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of(item, index)](/cells/python-net/tr/aspose.cells/threadedcommentcollection/index_of/#ThreadedComment-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of(item, index, count)](/cells/python-net/tr/aspose.cells/threadedcommentcollection/index_of/#ThreadedComment-int-int) | Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item)](/cells/python-net/tr/aspose.cells/threadedcommentcollection/last_index_of/#ThreadedComment) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index)](/cells/python-net/tr/aspose.cells/threadedcommentcollection/last_index_of/#ThreadedComment-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index, count)](/cells/python-net/tr/aspose.cells/threadedcommentcollection/last_index_of/#ThreadedComment-int-int) |Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [add(text, author)](/cells/python-net/tr/aspose.cells/threadedcommentcollection/add/#str-ThreadedCommentAuthor) | Zincirleme bir yorum ekler;|
-| [binary_search(item)](/cells/python-net/tr/aspose.cells/threadedcommentcollection/binary_search/#ThreadedComment) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [copy_to](/cells/python-net/tr/aspose.cells/threadedcommentcollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak dizi listesinin tamamını uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [copy_to](/cells/python-net/tr/aspose.cells/threadedcommentcollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen dizininden başlayarak, dizi listesinden bir dizi öğeyi uyumlu bir tek boyutlu dizi listesine kopyalar.|
+| [index_of](/cells/python-net/tr/aspose.cells/threadedcommentcollection/index_of/#aspose.cells.ThreadedComment-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [index_of](/cells/python-net/tr/aspose.cells/threadedcommentcollection/index_of/#aspose.cells.ThreadedComment-int-int) |Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğeyi içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells/threadedcommentcollection/last_index_of/#aspose.cells.ThreadedComment) | Belirtilen nesneyi arar ve dizi listesinin tamamındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells/threadedcommentcollection/last_index_of/#aspose.cells.ThreadedComment-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [last_index_of](/cells/python-net/tr/aspose.cells/threadedcommentcollection/last_index_of/#aspose.cells.ThreadedComment-int-int) | Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [add](/cells/python-net/tr/aspose.cells/threadedcommentcollection/add/#str-aspose.cells.ThreadedCommentAuthor) | Mesaj dizili bir yorum ekler;|
+| [binary_search](/cells/python-net/tr/aspose.cells/threadedcommentcollection/binary_search/#aspose.cells.ThreadedComment) | Varsayılan karşılaştırıcıyı kullanarak bir öğe için sıralanmış dizi listesinin tamamını arar ve öğenin sıfır tabanlı dizinini döndürür.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

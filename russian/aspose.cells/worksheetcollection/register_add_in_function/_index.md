@@ -1,19 +1,19 @@
 ---
 title: register_add_in_function метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ru/aspose.cells/worksheetcollection/register_add_in_function/
 is_root: false
 ---
-##  register_add_in_function(id, function_name) {#int-str}
+##  register_add_in_function {#int-str}
 Добавляет функцию надстройки в книгу
 
 
-###  Возвращает
+###  Возврат
 
-URL-адрес файла надстройки, который содержит функции надстройки
+URL-адрес файла надстройки, который содержит функции надстройки.
 
 
 ```python
@@ -24,17 +24,17 @@ def register_add_in_function(self, id, function_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| id | int | ID данных, которые содержат дополнительные функции,<br/> можно получить по первому звонку [WorksheetCollection.register_add_in_function(add_in_file, function_name, lib)](/cells/python-net/ru/aspose.cells/worksheetcollection/register_add_in_function) для того же файла надстройки.|
+| id | int | Идентификатор данных, содержащих дополнительные функции,<br/> можно получить первым вызовом [`WorksheetCollection.register_add_in_function`](/cells/python-net/ru/aspose.cells/worksheetcollection/register_add_in_function) для того же файла надстройки.|
 | function_name | str | имя функции надстройки|
 
 
-##  register_add_in_function(add_in_file, function_name, lib) {#str-str-bool}
+##  register_add_in_function {#str-str-bool}
 Добавляет функцию надстройки в книгу
 
 
-###  Возвращает
+###  Возврат
 
-ID данных, которые содержат заданную функцию надстройки
+Идентификатор данных, содержащих данную дополнительную функцию
 
 
 ```python
@@ -45,12 +45,12 @@ def register_add_in_function(self, add_in_file, function_name, lib):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| add_in_file | str | файл содержит функции надстройки|
+| add_in_file | str | файл содержит дополнительные функции|
 | function_name | str | имя функции надстройки|
-| lib | bool | находится ли данный файл надстройки в каталоге или подкаталоге библиотеки надстроек Workbook.<br/>Этот флаг вступает в силу и имеет значение, когда данный addInFile имеет относительный путь:<br/> Значение true означает, что путь относится к библиотеке надстроек, а значение false означает, что путь относится к этой книге.|
+| lib | bool | находится ли данный файл надстройки в каталоге или подкаталоге библиотеки надстроек рабочей книги.<br/>Этот флаг вступает в силу и имеет значение, если заданный addInFile имеет относительный путь:<br/> true означает, что путь указан относительно библиотеки надстроек, а false означает, что путь указан относительно этой книги.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorksheetCollection](/cells/python-net/ru/aspose.cells/worksheetcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`WorksheetCollection`](/cells/python-net/ru/aspose.cells/worksheetcollection)

@@ -3,7 +3,7 @@ title: is_dynamic_data_exchange propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 610
+weight: 620
 url: /fr/aspose.cells.drawing/picture/is_dynamic_data_exchange/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_dynamic_data_exchange(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/fr/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/fr/aspose.cells.drawing/picture)

@@ -1,15 +1,15 @@
 ---
-title: is_ascend_show الملكية
+title: is_ascend_show عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 360
 url: /ar/aspose.cells.pivot/pivotfield/is_ascend_show/
 is_root: false
 ---
-##  is_ascend_show الملكية
+##  is_ascend_show عقار
 
-الإشارة إلى ما إذا كان حقل PivotTable المحدد تصاعديًا أم لا.
+الإشارة إلى ما إذا كان سيتم عرض حقل PivotTable المحدد بشكل تصاعدي تلقائياً.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_ascend_show(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield)

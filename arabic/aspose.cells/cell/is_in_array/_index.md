@@ -1,22 +1,22 @@
 ---
-title: is_in_array الملكية
+title: is_in_array عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 590
 url: /ar/aspose.cells/cell/is_in_array/
 is_root: false
 ---
-##  is_in_array الملكية
+##  is_in_array عقار
 
-الإشارة إلى ما إذا كانت صيغة الخلية هي صيغة صفيف.
+الإشارة إلى ما إذا كانت صيغة الخلية عبارة عن صيغة صفيف.
 
 ###  ملاحظات
 
- ملاحظة: هذه الفئة عفا عليها الزمن الآن. بدلاً من،
-الرجاء استخدام Cell.IsArrayFormula للتحقق مما إذا كانت صيغة الخلية عبارة عن صيغة صفيف.
-ستتم إزالة هذا العقار بعد 12 شهرًا منذ مايو 2018.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملاحظة: هذه الفئة أصبحت الآن قديمة. بدلاً من،
+الرجاء استخدام Cell.IsArrayFormula للتحقق مما إذا كانت صيغة الخلية هي صيغة صفيف.
+ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ مايو 2018.
+Aspose نعتذر عن أي إزعاج قد تعرضت له.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def is_in_array(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

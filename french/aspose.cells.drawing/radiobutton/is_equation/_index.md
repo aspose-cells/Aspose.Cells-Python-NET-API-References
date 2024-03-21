@@ -3,7 +3,7 @@ title: is_equation propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 540
+weight: 560
 url: /fr/aspose.cells.drawing/radiobutton/is_equation/
 is_root: false
 ---
@@ -28,5 +28,5 @@ def is_equation(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [RadioButton](/cells/python-net/fr/aspose.cells.drawing/radiobutton)
+* module [`aspose.cells.drawing`](../../)
+* classe [`RadioButton`](/cells/python-net/fr/aspose.cells.drawing/radiobutton)

@@ -3,13 +3,13 @@ title: width mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /tr/aspose.cells.drawing/rectangleshape/width/
 is_root: false
 ---
 ##  width mülk
 
-width şeklini piksel cinsinden temsil eder.
+Piksel birimi cinsinden şeklin width'ini temsil eder.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RectangleShape](/cells/python-net/tr/aspose.cells.drawing/rectangleshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RectangleShape`](/cells/python-net/tr/aspose.cells.drawing/rectangleshape)

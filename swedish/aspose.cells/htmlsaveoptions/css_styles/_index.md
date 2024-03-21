@@ -1,0 +1,28 @@
+---
+title: css_styles fastighet
+second_title: Aspose.Cells for Python via .NET API Referenser
+description:
+type: docs
+weight: 110
+url: /sv/aspose.cells/htmlsaveoptions/css_styles/
+is_root: false
+---
+##  css_styles fastighet
+
+Hämtar eller ställer in ytterligare css-stilar för formateraren.
+Fungerar bara när [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/sv/aspose.cells/htmlsaveoptions#save_as_single_file) är sant.
+
+CssStyles="body { padding: 5px }";
+###  Definition:
+```python
+@property
+def css_styles(self):
+    ...
+@css_styles.setter
+def css_styles(self, value):
+    ...
+```
+
+###  Se även
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)

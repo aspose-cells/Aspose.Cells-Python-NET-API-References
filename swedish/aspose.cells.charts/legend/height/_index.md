@@ -3,7 +3,7 @@ title: height fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 170
 url: /sv/aspose.cells.charts/legend/height/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def height(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Legend](/cells/python-net/sv/aspose.cells.charts/legend)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Legend`](/cells/python-net/sv/aspose.cells.charts/legend)

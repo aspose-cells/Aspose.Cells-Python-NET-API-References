@@ -1,15 +1,15 @@
 ---
-title: spid الملكية
+title: spid عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /ar/aspose.cells.drawing/oleobject/spid/
 is_root: false
 ---
-##  spid الملكية
+##  spid عقار
 
-تحدد سلسلة اختيارية يمكن لتطبيق ما استخدامها لتعريف الشكل المعين.
+يحدد سلسلة اختيارية يمكن للتطبيق استخدامها لتحديد شكل معين.
 
 ###  مثال
 
@@ -26,5 +26,5 @@ def spid(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

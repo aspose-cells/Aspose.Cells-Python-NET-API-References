@@ -1,28 +1,28 @@
 ---
-title: العد LookAtType
+title: LookAtType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2220
+weight: 2300
 url: /ar/aspose.cells/lookattype/
 is_root: false
 ---
-##  العد LookAtType
+##  LookAtType التعداد
 يمثل نظرة على النوع.
 
 
 
-يكشف نوع LookAtType الأعضاء التالية:
+يكشف النوع LookAtType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| CONTAINS | Cell قيمة تحتوي على عنصر البحث.|
-| START_WITH | قيمة Cell تبدأ بعنصر البحث.|
-| END_WITH | تنتهي قيمة Cell بعنصر البحث.|
-| ENTIRE_CONTENT | قيمة Cell مماثلة لعنصر البحث.|
+| CONTAINS | قيمة Cell تحتوي على كائن البحث.|
+| START_WITH | قيمة Cell تبدأ بكائن البحث.|
+| END_WITH | تنتهي قيمة Cell بكائن البحث.|
+| ENTIRE_CONTENT | قيمة Cell هي نفس قيمة كائن البحث.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

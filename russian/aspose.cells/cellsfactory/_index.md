@@ -1,9 +1,9 @@
 ---
 title: CellsFactory класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ru/aspose.cells/cellsfactory/
 is_root: false
 ---
@@ -12,20 +12,20 @@ is_root: false
 
 
 
-Тип CellsFactory предоставляет следующие члены:
+Тип CellsFactory предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [CellsFactory()](/cells/python-net/ru/aspose.cells/cellsfactory/__init__/#) | Создает новый экземпляр CellsFactory|
+| [__init__](/cells/python-net/ru/aspose.cells/cellsfactory/__init__/#) | Создает новый экземпляр CellsFactory.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [create_style()](/cells/python-net/ru/aspose.cells/cellsfactory/create_style/#) | Создает новый стиль.|
+| [create_style](/cells/python-net/ru/aspose.cells/cellsfactory/create_style/#) | Создает новый стиль.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

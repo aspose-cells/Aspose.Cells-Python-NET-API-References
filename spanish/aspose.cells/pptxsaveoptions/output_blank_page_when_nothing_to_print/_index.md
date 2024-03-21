@@ -3,13 +3,13 @@ title: output_blank_page_when_nothing_to_print propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 210
 url: /es/aspose.cells/pptxsaveoptions/output_blank_page_when_nothing_to_print/
 is_root: false
 ---
 ##  output_blank_page_when_nothing_to_print propiedad
 
-Indica si imprimir una página en blanco cuando no hay nada que imprimir.
+Indica si se debe generar una página en blanco cuando no hay nada que imprimir.
 
 ###  Observaciones
 
@@ -25,5 +25,5 @@ def output_blank_page_when_nothing_to_print(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PptxSaveOptions](/cells/python-net/es/aspose.cells/pptxsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PptxSaveOptions`](/cells/python-net/es/aspose.cells/pptxsaveoptions)

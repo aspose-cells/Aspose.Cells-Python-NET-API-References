@@ -3,13 +3,13 @@ title: check_compatibility mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 90
 url: /tr/aspose.cells/workbooksettings/check_compatibility/
 is_root: false
 ---
 ##  check_compatibility mülk
 
-Çalışma kitabını kaydederken önceki sürümlerle uyumluluğun kontrol edilip edilmediğini gösterir.
+Çalışma kitabını kaydederken önceki sürümlerle uyumluluğun kontrol edilip edilmeyeceğini belirtir.
 
 ###  Notlar
 
@@ -26,5 +26,5 @@ def check_compatibility(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

@@ -3,13 +3,13 @@ title: original_width_inch proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 970
+weight: 980
 url: /it/aspose.cells.drawing/picture/original_width_inch/
 is_root: false
 ---
 ##  original_width_inch proprietà
 
-Ottiene la larghezza originale dell'immagine, in pollici.
+Ottiene la larghezza originale dell'immagine, in unità di pollici.
 
 ###  Esempio
 
@@ -37,5 +37,5 @@ def original_width_inch(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

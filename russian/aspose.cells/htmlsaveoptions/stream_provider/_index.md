@@ -1,9 +1,9 @@
 ---
 title: stream_provider недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 600
+weight: 670
 url: /ru/aspose.cells/htmlsaveoptions/stream_provider/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def stream_provider(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
-* класс [IStreamProvider](/cells/python-net/ru/aspose.cells/istreamprovider)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* класс [`IStreamProvider`](/cells/python-net/ru/aspose.cells/istreamprovider)

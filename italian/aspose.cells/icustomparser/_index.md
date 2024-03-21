@@ -1,26 +1,26 @@
 ---
-title: classe ICustomParser
+title: ICustomParser classe
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 830
+weight: 870
 url: /it/aspose.cells/icustomparser/
 is_root: false
 ---
-##  classe ICustomParser
-Consente agli utenti di aggiungere il proprio analizzatore di valori personalizzato per l'analisi dei valori stringa ad un altro oggetto valore di cella appropriato.
+##  ICustomParser classe
+Consente agli utenti di aggiungere il proprio parser di valori personalizzato per analizzare i valori di stringa su un altro oggetto valore di cella appropriato.
 
 
 
-Il tipo ICustomParser espone i membri seguenti:
+Il tipo ICustomParser espone i seguenti membri:
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [parse_object(value)](/cells/python-net/it/aspose.cells/icustomparser/parse_object/#str) | Analizza la stringa data in base al valore corretto dell'oggetto.|
-| [get_format()](/cells/python-net/it/aspose.cells/icustomparser/get_format/#) |Ottiene il modello di formattazione corrispondente al valore analizzato dall'ultima chiamata di [ICustomParser.parse_object(value)](/cells/python-net/it/aspose.cells/icustomparser/parse_object).|
+| [parse_object](/cells/python-net/it/aspose.cells/icustomparser/parse_object/#str) | Analizza la stringa data in un oggetto dal valore corretto.|
+| [get_format](/cells/python-net/it/aspose.cells/icustomparser/get_format/#) | Ottiene il modello di formattazione corrispondente al valore analizzato dall'ultima invocazione di [`ICustomParser.parse_object`](/cells/python-net/it/aspose.cells/icustomparser/parse_object).|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

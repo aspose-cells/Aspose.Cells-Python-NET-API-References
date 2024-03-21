@@ -3,13 +3,13 @@ title: upper_left_column Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /de/aspose.cells.drawing/webextensionshape/upper_left_column/
 is_root: false
 ---
 ##  upper_left_column Eigentum
 
-Repräsentiert den Spaltenindex der oberen linken Ecke.
+Stellt den Spaltenindex in der oberen linken Ecke dar.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def upper_left_column(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [WebExtensionShape](/cells/python-net/de/aspose.cells.drawing/webextensionshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`WebExtensionShape`](/cells/python-net/de/aspose.cells.drawing/webextensionshape)

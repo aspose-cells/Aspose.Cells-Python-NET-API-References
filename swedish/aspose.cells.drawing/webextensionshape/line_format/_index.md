@@ -3,7 +3,7 @@ title: line_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 720
+weight: 730
 url: /sv/aspose.cells.drawing/webextensionshape/line_format/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def line_format(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoLineFormat](/cells/python-net/sv/aspose.cells.drawing/msolineformat)
-* klass [WebExtensionShape](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoLineFormat`](/cells/python-net/sv/aspose.cells.drawing/msolineformat)
+* klass [`WebExtensionShape`](/cells/python-net/sv/aspose.cells.drawing/webextensionshape)

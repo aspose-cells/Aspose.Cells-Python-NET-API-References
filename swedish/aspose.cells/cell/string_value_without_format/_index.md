@@ -3,7 +3,7 @@ title: string_value_without_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 690
+weight: 720
 url: /sv/aspose.cells/cell/string_value_without_format/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def string_value_without_format(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

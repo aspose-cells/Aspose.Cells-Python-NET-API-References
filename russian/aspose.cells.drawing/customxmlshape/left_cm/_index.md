@@ -1,9 +1,9 @@
 ---
 title: left_cm недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 670
+weight: 680
 url: /ru/aspose.cells.drawing/customxmlshape/left_cm/
 is_root: false
 ---
@@ -16,7 +16,7 @@ is_root: false
 ```python
 
 if shape.left_cm == 3:
-    shape.left_cm = 1
+    shape.left_cm = 1.0
 
 ```
 ###  Определение:
@@ -30,5 +30,5 @@ def left_cm(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CustomXmlShape](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CustomXmlShape`](/cells/python-net/ru/aspose.cells.drawing/customxmlshape)

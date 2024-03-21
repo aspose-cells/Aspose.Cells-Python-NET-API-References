@@ -3,7 +3,7 @@ title: update_reference fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 130
 url: /sv/aspose.cells/workbookdesigner/update_reference/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookDesigner](/cells/python-net/sv/aspose.cells/workbookdesigner)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookDesigner`](/cells/python-net/sv/aspose.cells/workbookdesigner)

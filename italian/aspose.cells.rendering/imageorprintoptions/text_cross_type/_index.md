@@ -3,7 +3,7 @@ title: text_cross_type proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 320
+weight: 330
 url: /it/aspose.cells.rendering/imageorprintoptions/text_cross_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def text_cross_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [ImageOrPrintOptions](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)
-* classe [TextCrossType](/cells/python-net/it/aspose.cells/textcrosstype)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`ImageOrPrintOptions`](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)
+* classe [`TextCrossType`](/cells/python-net/it/aspose.cells/textcrosstype)

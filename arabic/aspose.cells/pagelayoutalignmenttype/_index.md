@@ -1,29 +1,29 @@
 ---
-title: العد PageLayoutAlignmentType
+title: PageLayoutAlignmentType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2300
+weight: 2390
 url: /ar/aspose.cells/pagelayoutalignmenttype/
 is_root: false
 ---
-##  العد PageLayoutAlignmentType
+##  PageLayoutAlignmentType التعداد
 تعداد أنواع محاذاة تخطيط الصفحة.
 
 
 
-يكشف نوع PageLayoutAlignmentType الأعضاء التالية:
+يكشف النوع PageLayoutAlignmentType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | BOTTOM | يمثل محاذاة تخطيط الصفحة السفلية.|
 | CENTER | يمثل محاذاة تخطيط الصفحة المركزية.|
-| LEFT |يمثل محاذاة تخطيط الصفحة اليسرى.|
+| LEFT | يمثل محاذاة تخطيط الصفحة اليسرى.|
 | RIGHT | يمثل محاذاة تخطيط الصفحة الصحيحة.|
-| TOP | يمثل محاذاة تخطيط الصفحة العلوية.|
+| TOP | يمثل محاذاة تخطيط الصفحة العليا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

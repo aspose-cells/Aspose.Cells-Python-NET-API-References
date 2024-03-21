@@ -1,13 +1,13 @@
 ---
-title: text 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /zh/aspose.cells.drawing/listbox/text/
 is_root: false
 ---
-## text 属性
+## text属性
 
 表示此 TextBox 对象中的字符串。
 
@@ -30,5 +30,5 @@ def text(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ListBox](/cells/python-net/zh/aspose.cells.drawing/listbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ListBox`](/cells/python-net/zh/aspose.cells.drawing/listbox)

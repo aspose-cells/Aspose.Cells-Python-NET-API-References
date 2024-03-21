@@ -3,7 +3,7 @@ title: line_format Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 720
+weight: 730
 url: /de/aspose.cells.drawing/dialogbox/line_format/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Gibt ein MsoLineFormat-Objekt zurück, das Linienformatierungseigenschaften für
 
  HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
  Bitte verwenden Sie die Shape.Line-Eigenschaft.
- Diese Property wird 12 Monate später seit Juli 2016 entfernt.
+ Diese Eigenschaft wird seit Juli 2016 12 Monate später entfernt.
 Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
 ###  Definition:
 ```python
@@ -25,6 +25,6 @@ def line_format(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [DialogBox](/cells/python-net/de/aspose.cells.drawing/dialogbox)
-* Klasse [MsoLineFormat](/cells/python-net/de/aspose.cells.drawing/msolineformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`DialogBox`](/cells/python-net/de/aspose.cells.drawing/dialogbox)
+* Klasse [`MsoLineFormat`](/cells/python-net/de/aspose.cells.drawing/msolineformat)

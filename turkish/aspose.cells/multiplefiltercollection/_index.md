@@ -3,7 +3,7 @@ title: MultipleFilterCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1060
+weight: 1100
 url: /tr/aspose.cells/multiplefiltercollection/
 is_root: false
 ---
@@ -12,26 +12,26 @@ is_root: false
 
 
 
-MultipleFilterCollection türü aşağıdaki üyeleri gösterir:
+MultipleFilterCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [MultipleFilterCollection()](/cells/python-net/tr/aspose.cells/multiplefiltercollection/__init__/#) | MultipleFilterCollection'ın yeni bir örneğini oluşturur|
+| [__init__](/cells/python-net/tr/aspose.cells/multiplefiltercollection/__init__/#) | Yeni bir örnek oluşturur.|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [match_blank](/cells/python-net/tr/aspose.cells/multiplefiltercollection/match_blank) | Boşluğa göre filtrelenip filtrelenmeyeceğini gösterir.|
+| [match_blank](/cells/python-net/tr/aspose.cells/multiplefiltercollection/match_blank) |Boşluğa göre filtreleme yapılıp yapılmayacağını belirtir.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add(filter)](/cells/python-net/tr/aspose.cells/multiplefiltercollection/add/#str) | Dize filtresi ekler.|
+| [add](/cells/python-net/tr/aspose.cells/multiplefiltercollection/add/#str) | Dize filtresi ekler.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](..)
+* modül [`aspose.cells`](..)

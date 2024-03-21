@@ -1,69 +1,69 @@
 ---
 title: DisplayUnitLabel класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells.charts/displayunitlabel/
 is_root: false
 ---
 ##  DisplayUnitLabel класс
-Представляет метку единицы отображения.
+Представляет метку устройства отображения.
 
 
 
-**Наследование:** [DisplayUnitLabel](/cells/python-net/aspose.cells.charts/displayunitlabel) → 
-[ChartTextFrame](/cells/python-net/aspose.cells.charts/charttextframe) → 
-[ChartFrame](/cells/python-net/ru/aspose.cells.charts/chartframe)
+**Наследование:** [`DisplayUnitLabel`](/cells/python-net/aspose.cells.charts/displayunitlabel) → 
+[`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe) → 
+[`ChartFrame`](/cells/python-net/ru/aspose.cells.charts/chartframe)
 
 
 
-Тип DisplayUnitLabel предоставляет следующие члены:
+Тип DisplayUnitLabel предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [is_inner_mode](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/is_inner_mode) | Указывает, включает ли размер области графика деления и метки осей.<br/> False указывает, что размер должен определять размер области графика, делений и меток осей.|
-| [border](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/border) | Получает [Line](/cells/python-net/ru/aspose.cells.drawing/line).|
-| [area](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/area) | Получает [ChartFrame.area](/cells/python-net/ru/aspose.cells.charts/chartframe#area).|
-| [text_font](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/text_font) | Получает объект [ChartFrame.font](/cells/python-net/ru/aspose.cells.charts/chartframe#font) указанного объекта ChartFrame.|
+| [is_inner_mode](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/is_inner_mode) | Указывает, включает ли размер области графика деления и метки осей.<br/> Значение False указывает, что размер должен определять размер области графика, делений и меток осей.|
+| [border](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/border) | Получает [`Line`](/cells/python-net/ru/aspose.cells.drawing/line).|
+| [area](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/area) | Получает [`ChartFrame.area`](/cells/python-net/ru/aspose.cells.charts/chartframe#area).|
+| [text_font](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/text_font) | Получает объект [`ChartFrame.font`](/cells/python-net/ru/aspose.cells.charts/chartframe#font) указанного объекта ChartFrame.|
 | [text_options](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/text_options) | Получает и задает параметры текста.|
-| [font](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/font) | Получает объект [DisplayUnitLabel.font](/cells/python-net/ru/aspose.cells.charts/displayunitlabel#font) указанного объекта ChartFrame.|
-| [auto_scale_font](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/auto_scale_font) | Истинно, если текст в объекте изменяет размер шрифта при изменении размера объекта. Значение по умолчанию верно.|
-| [background_mode](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/background_mode) | Получает и задает режим отображения фона|
-| [background](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/background) | Получает и задает режим отображения фона|
+| [font](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/font) | Получает объект [`DisplayUnitLabel.font`](/cells/python-net/ru/aspose.cells.charts/displayunitlabel#font) указанного объекта ChartFrame.|
+| [auto_scale_font](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/auto_scale_font) | Истинно, если текст в объекте меняет размер шрифта при изменении размера объекта. Значение по умолчанию верно.|
+| [background_mode](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/background_mode) | Получает и устанавливает режим отображения фона.|
+| [background](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/background) | Получает и устанавливает режим отображения фона.|
 | [is_automatic_size](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/is_automatic_size) | Указывает, имеет ли рамка диаграммы автоматический размер.|
-| [x](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/x) | Получает или задает координату x левого верхнего угла в единицах 1/4000 области диаграммы.|
-| [y](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/y) |Получает или задает координату Y верхнего левого угла в единицах 1/4000 области диаграммы.|
+| [x](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/x) |Получает или задает координату X верхнего левого угла в единицах 1/4000 области диаграммы.|
+| [y](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/y) | Получает или задает координату y верхнего левого угла в единицах 1/4000 области диаграммы.|
 | [height](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/height) | Получает или задает высоту рамки в единицах 1/4000 области диаграммы.|
 | [width](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/width) | Получает или задает ширину рамки в единицах 1/4000 области диаграммы.|
-| [shadow](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/shadow) | Истинно, если у кадра есть тень.|
-| [shape_properties](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/shape_properties) | Получает объект [ChartFrame.shape_properties](/cells/python-net/ru/aspose.cells.charts/chartframe#shape_properties).|
-| [is_default_pos_be_set](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/is_default_pos_be_set) | Указывает, задана ли позиция по умолчанию (DefaultX, DefaultY, DefaultWidth и DefaultHeight).|
+| [shadow](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/shadow) | Истинно, если в кадре есть тень.|
+| [shape_properties](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/shape_properties) | Получает объект [`ChartFrame.shape_properties`](/cells/python-net/ru/aspose.cells.charts/chartframe#shape_properties).|
+| [is_default_pos_be_set](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/is_default_pos_be_set) | Указывает, установлена ли позиция по умолчанию (DefaultX, DefaultY, DefaultWidth и DefaultHeight).|
 | [default_x](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/default_x) | Представляет x позиции по умолчанию|
-| [default_y](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/default_y) | Представляет y положения по умолчанию|
-| [default_width](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/default_width) | Представляет ширину положения по умолчанию|
+| [default_y](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/default_y) | Представляет y позиции по умолчанию|
+| [default_width](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/default_width) | Представляет ширину позиции по умолчанию|
 | [default_height](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/default_height) | Представляет высоту позиции по умолчанию|
 | [is_auto_text](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/is_auto_text) | Указывает, что текст генерируется автоматически.|
 | [is_deleted](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/is_deleted) | Указывает, удалены ли эти метки данных.|
-| [text_horizontal_alignment](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/text_horizontal_alignment) | Получает и задает выравнивание текста по горизонтали.|
-| [text_vertical_alignment](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/text_vertical_alignment) |Получает или задает выравнивание текста по вертикали.|
+| [text_horizontal_alignment](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/text_horizontal_alignment) | Получает и задает горизонтальное выравнивание текста.|
+| [text_vertical_alignment](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/text_vertical_alignment) | Получает или задает вертикальное выравнивание текста.|
 | [rotation_angle](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/rotation_angle) | Представляет угол поворота текста.|
 | [is_automatic_rotation](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/is_automatic_rotation) | Указывает, поворачивается ли текст диаграммы автоматически.|
-| [text](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/text) | Получает или задает текст метки единицы отображения.|
-| [linked_source](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/linked_source) | Получает и задает ссылку на рабочий лист.|
+| [text](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/text) | Получает или задает текст метки устройства отображения.|
+| [linked_source](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/linked_source) | Получает и задает ссылку на лист.|
 | [text_direction](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/text_direction) | Представляет порядок чтения текста.|
 | [reading_order](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/reading_order) | Представляет порядок чтения текста.|
 | [direction_type](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/direction_type) | Получает и задает направление текста.|
 | [is_text_wrapped](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/is_text_wrapped) | Получает или задает значение, указывающее, переносится ли текст.|
-| [is_resize_shape_to_fit_text](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/is_resize_shape_to_fit_text) | Получает или задает значение, указывающее, должна ли фигура автоматически подбираться, чтобы полностью содержать описанный в ней текст. Автоподгонка есть<br/> когда текст внутри фигуры масштабируется, чтобы содержать весь текст внутри.|
+| [is_resize_shape_to_fit_text](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/is_resize_shape_to_fit_text) | Получает или задает значение, указывающее, должна ли фигура автоматически подгоняться, чтобы полностью содержать описанный в ней текст. Автоподбор<br/> когда текст внутри фигуры масштабируется, чтобы вместить весь текст внутри.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [set_position_auto()](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/set_position_auto/#) | Установите положение кадра на автоматический|
-| [characters(start_index, length)](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/characters/#int-int) | Возвращает объект Characters, представляющий диапазон символов в тексте.|
+| [set_position_auto](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/set_position_auto/#) | Установить положение рамки на автоматическое|
+| [characters](/cells/python-net/ru/aspose.cells.charts/displayunitlabel/characters/#int-int) | Возвращает объект символов, представляющий диапазон символов в тексте.|
 
 
 
@@ -122,8 +122,8 @@ workbook.save("book1.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
-* класс [ChartFrame](/cells/python-net/ru/aspose.cells.charts/chartframe)
-* класс [ChartTextFrame](/cells/python-net/ru/aspose.cells.charts/charttextframe)
-* класс [DisplayUnitLabel](/cells/python-net/ru/aspose.cells.charts/displayunitlabel)
-* класс [Line](/cells/python-net/ru/aspose.cells.drawing/line)
+* модуль [`aspose.cells.charts`](..)
+* класс [`ChartFrame`](/cells/python-net/ru/aspose.cells.charts/chartframe)
+* класс [`ChartTextFrame`](/cells/python-net/ru/aspose.cells.charts/charttextframe)
+* класс [`DisplayUnitLabel`](/cells/python-net/ru/aspose.cells.charts/displayunitlabel)
+* класс [`Line`](/cells/python-net/ru/aspose.cells.drawing/line)

@@ -1,13 +1,13 @@
 ---
-title: category_type الملكية
+title: category_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells.charts/axis/category_type/
 is_root: false
 ---
-##  category_type الملكية
+##  category_type عقار
 
 يمثل نوع محور الفئة.
 ###  تعريف:
@@ -21,6 +21,6 @@ def category_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
-* فئة [CategoryType](/cells/python-net/ar/aspose.cells.charts/categorytype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)
+* فئة [`CategoryType`](/cells/python-net/ar/aspose.cells.charts/categorytype)

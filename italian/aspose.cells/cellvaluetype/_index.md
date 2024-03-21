@@ -1,31 +1,31 @@
 ---
-title: CellValueType enumerazione
+title: Enumerazione CellValueType
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 1850
+weight: 1920
 url: /it/aspose.cells/cellvaluetype/
 is_root: false
 ---
-##  CellValueType enumerazione
+##  Enumerazione CellValueType
 Specifica un tipo di valore di cella.
 
 
 
-Il tipo CellValueType espone i membri seguenti:
+Il tipo CellValueType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| IS_BOOL | Cell il valore è booleano.|
-| IS_DATE_TIME | Cell il valore è datetime.|
-| IS_ERROR | Cell contiene un valore di errore|
-| IS_NULL | Cella vuota.|
-| IS_NUMERIC | Cell il valore è numerico.|
-| IS_STRING | Cell il valore è una stringa.|
 | IS_UNKNOWN | Il tipo di valore Cell è sconosciuto.|
+| IS_NULL | Cella vuota. Il valore corrispondente dovrebbe essere nullo.|
+| IS_NUMERIC | Il valore Cell è numerico. Il valore corrispondente deve essere int o double.|
+| IS_DATE_TIME | Il valore Cell è data/ora. Il valore corrispondente deve essere DateTime.|
+| IS_STRING | Il valore Cell è una stringa. Il valore corrispondente deve essere una stringa.|
+| IS_BOOL | Il valore Cell è booleano. Il valore corrispondente deve essere bool.|
+| IS_ERROR | Cell contiene un valore di errore. Il valore corrispondente deve essere una stringa di errore.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

@@ -1,15 +1,15 @@
 ---
-title: merge_areas الملكية
+title: merge_areas عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 160
 url: /ar/aspose.cells/docxsaveoptions/merge_areas/
 is_root: false
 ---
-##  merge_areas الملكية
+##  merge_areas عقار
 
-يشير إلى ما إذا كان يتم دمج مناطق التنسيق الشرطي والتحقق من الصحة قبل حفظ الملف.
+يشير إلى ما إذا كان سيتم دمج مناطق التنسيق الشرطي والتحقق من الصحة قبل حفظ الملف.
 
 ###  ملاحظات
 
@@ -25,5 +25,5 @@ def merge_areas(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DocxSaveOptions](/cells/python-net/ar/aspose.cells/docxsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DocxSaveOptions`](/cells/python-net/ar/aspose.cells/docxsaveoptions)

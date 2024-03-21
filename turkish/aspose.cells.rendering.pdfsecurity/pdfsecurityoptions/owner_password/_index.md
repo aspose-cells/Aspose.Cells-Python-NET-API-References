@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  owner_password mülk
 
-Belgenin sahip parolasını alır veya ayarlar
+Şifrelenmiş PDF belgesinin sahip parolasını alır veya ayarlar.
+
+###  Notlar
+
+Sahip parolası, kullanıcının herhangi bir erişim kısıtlaması belirtilmeden şifrelenmiş bir PDF belgesini açmasına olanak tanır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +25,5 @@ def owner_password(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering.pdfsecurity](../../)
-* sınıf [PdfSecurityOptions](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modül [`aspose.cells.rendering.pdfsecurity`](../../)
+* sınıf [`PdfSecurityOptions`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

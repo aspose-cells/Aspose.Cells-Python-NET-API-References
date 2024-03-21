@@ -1,15 +1,15 @@
 ---
-title: glow الملكية
+title: glow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 460
 url: /ar/aspose.cells.drawing/arcshape/glow/
 is_root: false
 ---
-##  glow الملكية
+##  glow عقار
 
-يمثل عنصر [GlowEffect](/cells/python-net/ar/aspose.cells.drawing/gloweffect) يحدد تأثير glow لعنصر المخطط أو شكله.
+يمثل كائن [`GlowEffect`](/cells/python-net/ar/aspose.cells.drawing/gloweffect) الذي يحدد تأثير glow لعنصر المخطط أو الشكل.
 
 ###  مثال
 
@@ -26,6 +26,6 @@ def glow(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ArcShape](/cells/python-net/ar/aspose.cells.drawing/arcshape)
-* فئة [GlowEffect](/cells/python-net/ar/aspose.cells.drawing/gloweffect)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ArcShape`](/cells/python-net/ar/aspose.cells.drawing/arcshape)
+* فئة [`GlowEffect`](/cells/python-net/ar/aspose.cells.drawing/gloweffect)

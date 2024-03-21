@@ -1,13 +1,13 @@
 ---
 title: set_linked_cell方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 200
 url: /zh/aspose.cells.drawing/oval/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell(formula, is_r1c1, is_local) {#str-bool-bool}
+##  set_linked_cell {#str-bool-bool}
 设置链接到控件值的范围。
 
 
@@ -20,9 +20,9 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| formula | str |链接到控件值的范围。|
+| formula | str |与控件值关联的范围。|
 | is_r1c1 | bool |公式是否需要格式化为R1C1。|
-| is_local | bool |公式是否需要按语言环境格式化。|
+| is_local | bool |公式是否需要按区域设置格式化。|
 
 ### 例子
 
@@ -41,5 +41,5 @@ scrollBar.set_linked_cell("$A$12", False, True)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Oval](/cells/python-net/zh/aspose.cells.drawing/oval)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Oval`](/cells/python-net/zh/aspose.cells.drawing/oval)

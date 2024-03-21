@@ -1,9 +1,9 @@
 ---
 title: source_full_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Рекомендации
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /ru/aspose.cells.drawing/oleobject/source_full_name/
 is_root: false
 ---
@@ -15,7 +15,7 @@ is_root: false
 
  ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
 используйте свойство OleObject.ObjectSourceFullName.
- Этот ресурс будет удален через 12 месяцев, начиная с ноября 2013 года.
+ Этот объект недвижимости будет удален через 12 месяцев, начиная с ноября 2013 года.
 Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
@@ -28,5 +28,5 @@ def source_full_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [OleObject](/cells/python-net/ru/aspose.cells.drawing/oleobject)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject)

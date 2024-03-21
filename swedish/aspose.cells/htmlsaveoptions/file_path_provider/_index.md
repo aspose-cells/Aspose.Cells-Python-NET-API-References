@@ -3,7 +3,7 @@ title: file_path_provider fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 400
 url: /sv/aspose.cells/htmlsaveoptions/file_path_provider/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def file_path_provider(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlSaveOptions](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
-* klass [IFilePathProvider](/cells/python-net/sv/aspose.cells/ifilepathprovider)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlSaveOptions`](/cells/python-net/sv/aspose.cells/htmlsaveoptions)
+* klass [`IFilePathProvider`](/cells/python-net/sv/aspose.cells/ifilepathprovider)

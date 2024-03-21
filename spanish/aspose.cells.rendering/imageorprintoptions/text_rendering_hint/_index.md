@@ -3,7 +3,7 @@ title: text_rendering_hint propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 330
+weight: 340
 url: /es/aspose.cells.rendering/imageorprintoptions/text_rendering_hint/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def text_rendering_hint(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [ImageOrPrintOptions](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`ImageOrPrintOptions`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)

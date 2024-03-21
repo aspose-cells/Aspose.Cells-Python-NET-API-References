@@ -1,19 +1,19 @@
 ---
-title: note 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: note属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 180
 url: /zh/aspose.cells/comment/note/
 is_root: false
 ---
-## note 属性
+## note属性
 
-表示评论的内容。
+代表评论的内容。
 
 ### 评论
 
-如果这是一个线程注释，则不能更改 note，否则 MS Excel 无法将其作为线程注释处理。
+如果这是线程注释，则无法更改 note，否则 MS Excel 无法将其作为线程注释处理。
 
 ### 例子
 
@@ -33,5 +33,5 @@ def note(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)

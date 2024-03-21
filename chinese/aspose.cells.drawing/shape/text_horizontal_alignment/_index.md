@@ -1,13 +1,13 @@
 ---
-title: text_horizontal_alignment 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_horizontal_alignment属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 960
+weight: 970
 url: /zh/aspose.cells.drawing/shape/text_horizontal_alignment/
 is_root: false
 ---
-## text_horizontal_alignment 属性
+## text_horizontal_alignment属性
 
 获取和设置形状的文本水平对齐类型。
 
@@ -31,6 +31,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Shape](/cells/python-net/zh/aspose.cells.drawing/shape)
-* 类 [TextAlignmentType](/cells/python-net/zh/aspose.cells/textalignmenttype)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Shape`](/cells/python-net/zh/aspose.cells.drawing/shape)
+* 类 [`TextAlignmentType`](/cells/python-net/zh/aspose.cells/textalignmenttype)

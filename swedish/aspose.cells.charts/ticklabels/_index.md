@@ -3,7 +3,7 @@ title: TickLabels klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 320
 url: /sv/aspose.cells.charts/ticklabels/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Typen TickLabels avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [font](/cells/python-net/sv/aspose.cells.charts/ticklabels/font) | Returnerar ett [TickLabels.font](/cells/python-net/sv/aspose.cells.charts/ticklabels#font)-objekt som representerar teckensnittet för det angivna TickLabels-objektet.|
+| [font](/cells/python-net/sv/aspose.cells.charts/ticklabels/font) | Returnerar ett [`TickLabels.font`](/cells/python-net/sv/aspose.cells.charts/ticklabels#font)-objekt som representerar teckensnittet för det angivna TickLabels-objektet.|
 | [auto_scale_font](/cells/python-net/sv/aspose.cells.charts/ticklabels/auto_scale_font) | Sant om texten i objektet ändrar teckenstorlek när objektstorleken ändras. Standardvärdet är True.|
 | [background_mode](/cells/python-net/sv/aspose.cells.charts/ticklabels/background_mode) | Hämtar och ställer in visningsläget för bakgrunden|
 | [rotation_angle](/cells/python-net/sv/aspose.cells.charts/ticklabels/rotation_angle) | Representerar textrotationsvinkel medurs.|
@@ -30,9 +30,10 @@ Typen TickLabels avslöjar följande medlemmar:
 | [text_direction](/cells/python-net/sv/aspose.cells.charts/ticklabels/text_direction) | Representerar textläsordning.|
 | [reading_order](/cells/python-net/sv/aspose.cells.charts/ticklabels/reading_order) | Representerar textläsordning.|
 | [direction_type](/cells/python-net/sv/aspose.cells.charts/ticklabels/direction_type) | Hämtar och anger textens riktning.|
-| [tick_label_items](/cells/python-net/sv/aspose.cells.charts/ticklabels/tick_label_items) | Får varornas information från TickLabel.|
+| [tick_label_items](/cells/python-net/sv/aspose.cells.charts/ticklabels/tick_label_items) |Hämtar information om axel för varje ticketikettobjekt.|
+| [alignment_type](/cells/python-net/sv/aspose.cells.charts/ticklabels/alignment_type) | Hämtar och ställer in textjusteringen för bocketiketterna på axeln.|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

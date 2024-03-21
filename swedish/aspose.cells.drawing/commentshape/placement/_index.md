@@ -3,7 +3,7 @@ title: placement fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 830
+weight: 840
 url: /sv/aspose.cells.drawing/commentshape/placement/
 is_root: false
 ---
@@ -32,6 +32,6 @@ def placement(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CommentShape](/cells/python-net/sv/aspose.cells.drawing/commentshape)
-* klass [PlacementType](/cells/python-net/sv/aspose.cells.drawing/placementtype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CommentShape`](/cells/python-net/sv/aspose.cells.drawing/commentshape)
+* klass [`PlacementType`](/cells/python-net/sv/aspose.cells.drawing/placementtype)

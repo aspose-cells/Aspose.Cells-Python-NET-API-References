@@ -3,14 +3,14 @@ title: default_font proprietà
 second_title: Aspose.Cells for Python via .NET API Referenze
 description:
 type: docs
-weight: 100
+weight: 110
 url: /it/aspose.cells/pptxsaveoptions/default_font/
 is_root: false
 ---
 ##  default_font proprietà
 
-Quando i caratteri in Excel sono Unicode e non devono essere impostati con il carattere corretto nello stile della cella,
-Possono apparire come blocco in pdf, immagine.
+Quando i caratteri in Excel sono Unicode e non sono impostati con il carattere corretto nello stile cella,
+Possono apparire come blocchi in pdf,immagine.
 Imposta il DefaultFont come MingLiu o MS Gothic per mostrare questi caratteri.
 Se questa proprietà non è impostata, Aspose.Cells utilizzerà il carattere predefinito del sistema per mostrare questi caratteri Unicode.
 ###  Definizione:
@@ -24,5 +24,5 @@ def default_font(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PptxSaveOptions](/cells/python-net/it/aspose.cells/pptxsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`PptxSaveOptions`](/cells/python-net/it/aspose.cells/pptxsaveoptions)

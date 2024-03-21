@@ -1,15 +1,15 @@
 ---
-title: param_count الملكية
+title: param_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells/calculationdata/param_count/
 is_root: false
 ---
-##  param_count الملكية
+##  param_count عقار
 
-يحصل على عدد المعلمات
+الحصول على عدد المعلمات
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def param_count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CalculationData](/cells/python-net/ar/aspose.cells/calculationdata)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CalculationData`](/cells/python-net/ar/aspose.cells/calculationdata)

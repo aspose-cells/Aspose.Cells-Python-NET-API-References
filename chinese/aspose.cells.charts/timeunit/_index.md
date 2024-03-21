@@ -1,9 +1,9 @@
 ---
 title: TimeUnit枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 660
+weight: 670
 url: /zh/aspose.cells.charts/timeunit/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-TimeUnit 类型公开了以下成员：
+TimeUnit 类型公开以下成员：
 
 ### 领域
 |场地|描述|
 | :- | :- |
 | DAYS |天|
-| MONTHS |月|
+| MONTHS |几个月|
 | YEARS |年|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

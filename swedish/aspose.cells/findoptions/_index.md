@@ -3,7 +3,7 @@ title: FindOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 630
+weight: 660
 url: /sv/aspose.cells/findoptions/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Typen FindOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [FindOptions()](/cells/python-net/sv/aspose.cells/findoptions/__init__/#) | Konstruerar en ny instans av FindOptions|
+| [__init__](/cells/python-net/sv/aspose.cells/findoptions/__init__/#) |Konstruerar en ny instans av FindOptions|
 
 
 ###  Egenskaper
@@ -31,7 +31,7 @@ Typen FindOptions avslöjar följande medlemmar:
 | [search_backward](/cells/python-net/sv/aspose.cells/findoptions/search_backward) | Om du söker bakåt efter celler.|
 | [seach_order_by_rows](/cells/python-net/sv/aspose.cells/findoptions/seach_order_by_rows) | Anger om sökordning efter rader eller kolumner.|
 | [look_in_type](/cells/python-net/sv/aspose.cells/findoptions/look_in_type) | Titta i typ.|
-| [regex_key](/cells/python-net/sv/aspose.cells/findoptions/regex_key) | Indikerar om den sökta nyckeln är regex.<br/>Om sant kommer den sökta nyckeln att tas som regex och tolkas. Annars kommer nyckeln att tolkas enligt reglerna i ms excel.|
+| [regex_key](/cells/python-net/sv/aspose.cells/findoptions/regex_key) | Indikerar om den sökta nyckeln är regex.<br/> Om sant kommer den sökta nyckeln att tas som regex och tolkas. Annars kommer nyckeln att tolkas enligt reglerna i ms excel.|
 | [value_type_sensitive](/cells/python-net/sv/aspose.cells/findoptions/value_type_sensitive) | Anger om den sökta cellvärdetypen ska vara samma som den sökta nyckeln.|
 | [style](/cells/python-net/sv/aspose.cells/findoptions/style) | Formatet att söka efter.|
 | [convert_numeric_data](/cells/python-net/sv/aspose.cells/findoptions/convert_numeric_data) | Hämtar eller ställer in ett värde som anger om det sökta strängvärdet konverteras till numerisk data.|
@@ -40,8 +40,8 @@ Typen FindOptions avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_range()](/cells/python-net/sv/aspose.cells/findoptions/get_range/#) | Hämtar och ställer in det sökta intervallet.|
-| [set_range(ca)](/cells/python-net/sv/aspose.cells/findoptions/set_range/#CellArea) | Ställer in det sökta området.|
+| [get_range](/cells/python-net/sv/aspose.cells/findoptions/get_range/#) | Hämtar och ställer in det sökta intervallet.|
+| [set_range](/cells/python-net/sv/aspose.cells/findoptions/set_range/#aspose.cells.CellArea) | Ställer in det sökta området.|
 
 
 
@@ -74,4 +74,4 @@ cell = cells.find(0, None, findOptions)
 ```
 
 ###  Se även
-* modul [aspose.cells](..)
+* modul [`aspose.cells`](..)

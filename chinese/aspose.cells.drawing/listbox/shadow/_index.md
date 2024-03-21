@@ -1,15 +1,15 @@
 ---
-title: shadow 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: shadow属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 940
+weight: 950
 url: /zh/aspose.cells.drawing/listbox/shadow/
 is_root: false
 ---
-## shadow 属性
+## shadow属性
 
-指示组合框是否具有 3-D 阴影。
+指示组合框是否具有 3-D 着色。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ListBox](/cells/python-net/zh/aspose.cells.drawing/listbox)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ListBox`](/cells/python-net/zh/aspose.cells.drawing/listbox)

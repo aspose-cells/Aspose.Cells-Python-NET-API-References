@@ -1,22 +1,22 @@
 ---
-title: top_inch الملكية
+title: top_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /ar/aspose.cells.drawing/combobox/top_inch/
 is_root: false
 ---
-##  top_inch الملكية
+##  top_inch عقار
 
-يمثل الإزاحة الرأسية للشكل من صفه العلوي بوحدة البوصة.
+يمثل الإزاحة الرأسية للشكل من صفه العلوي، بوحدة البوصة.
 
 ###  مثال
 
 ```python
 
 if shape.top_inch == 3:
-    shape.top_inch = 1
+    shape.top_inch = 1.0
 
 ```
 ###  تعريف:
@@ -30,5 +30,5 @@ def top_inch(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ComboBox](/cells/python-net/ar/aspose.cells.drawing/combobox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ComboBox`](/cells/python-net/ar/aspose.cells.drawing/combobox)

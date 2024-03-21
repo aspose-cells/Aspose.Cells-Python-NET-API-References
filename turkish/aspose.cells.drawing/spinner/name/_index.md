@@ -3,13 +3,13 @@ title: name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 850
+weight: 860
 url: /tr/aspose.cells.drawing/spinner/name/
 is_root: false
 ---
 ##  name mülk
 
-Şeklin name değerini alır ve ayarlar.
+Şeklin name'ini alır ve ayarlar.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Spinner](/cells/python-net/tr/aspose.cells.drawing/spinner)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Spinner`](/cells/python-net/tr/aspose.cells.drawing/spinner)

@@ -1,13 +1,13 @@
 ---
-title: formula الملكية
+title: formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 450
 url: /ar/aspose.cells.drawing/picture/formula/
 is_root: false
 ---
-##  formula الملكية
+##  formula عقار
 
 الحصول على بيانات formula وتعيينها.
 ###  تعريف:
@@ -21,5 +21,5 @@ def formula(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

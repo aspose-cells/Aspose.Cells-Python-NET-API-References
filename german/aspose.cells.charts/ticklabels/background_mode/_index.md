@@ -3,13 +3,13 @@ title: background_mode Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 40
+weight: 50
 url: /de/aspose.cells.charts/ticklabels/background_mode/
 is_root: false
 ---
 ##  background_mode Eigentum
 
-Ruft den Anzeigemodus des Hintergrunds ab und legt ihn fest
+Ruft den Anzeigemodus des Hintergrunds ab und legt diesen fest
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_mode(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [BackgroundMode](/cells/python-net/de/aspose.cells.charts/backgroundmode)
-* Klasse [TickLabels](/cells/python-net/de/aspose.cells.charts/ticklabels)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`BackgroundMode`](/cells/python-net/de/aspose.cells.charts/backgroundmode)
+* Klasse [`TickLabels`](/cells/python-net/de/aspose.cells.charts/ticklabels)

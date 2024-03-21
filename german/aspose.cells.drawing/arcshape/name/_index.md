@@ -3,13 +3,13 @@ title: name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 860
+weight: 870
 url: /de/aspose.cells.drawing/arcshape/name/
 is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name der Form ab und legt sie fest.
+Ruft die name der Form ab und legt diese fest.
 
 ###  Beispiel
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ArcShape](/cells/python-net/de/aspose.cells.drawing/arcshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ArcShape`](/cells/python-net/de/aspose.cells.drawing/arcshape)

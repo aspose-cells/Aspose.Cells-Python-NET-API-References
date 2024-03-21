@@ -3,17 +3,17 @@ title: is_justify_distributed Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 340
 url: /de/aspose.cells/style/is_justify_distributed/
 is_root: false
 ---
 ##  is_justify_distributed Eigentum
 
-Gibt an, ob die Zellen in der letzten Textzeile im Blocksatz oder verteilt ausgerichtet werden sollen.
+Gibt an, ob die Zellen im Blocksatz oder in der verteilten Ausrichtung in der letzten Textzeile verwendet werden sollen.
 
 ###  Bemerkungen
 
-Dies ist typisch für ostasiatische Ausrichtungen, aber nicht typisch für andere Kontexte.
+Dies ist typisch für ostasiatische Ausrichtungen, in anderen Zusammenhängen jedoch nicht typisch.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def is_justify_distributed(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

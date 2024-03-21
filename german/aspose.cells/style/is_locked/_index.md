@@ -3,7 +3,7 @@ title: is_locked Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 310
+weight: 350
 url: /de/aspose.cells/style/is_locked/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def is_locked(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)
