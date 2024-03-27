@@ -1,0 +1,32 @@
+﻿---
+title: aspose.cellsgridjs
+second_title: Aspose.Cells.GridJs for Python via .NET API References
+description: 
+type: docs
+weight: 10
+url: /aspose.cellsgridjs/
+is_root: false
+---
+
+The **Aspose.Cells.GridJs**  namespace contains all classes of GridJs which  provide basic operations for managing  spreadsheets without utilizing Microsoft Excel .
+
+### Classes
+| Class | Description |
+| :- | :- |
+| [`Config`](/gridjs/python-net/aspose.cellsgridjs/config) | Represents all the settings for GridJs |
+| [`GridAbstractCalculationEngine`](/gridjs/python-net/aspose.cellsgridjs/gridabstractcalculationengine) | Represents user's custom calculation engine to extend the default calculation engine of Aspose.Cells. |
+| [`GridCacheForStream`](/gridjs/python-net/aspose.cellsgridjs/gridcacheforstream) | This class contains the cache operations for GridJs. User shall implement his own business logic for storage based on it.. |
+| [`GridCalculationData`](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata) | Represents the required data when calculating one function, such as function name, parameters, ...etc. |
+| [`GridCellException`](/gridjs/python-net/aspose.cellsgridjs/gridcellexception) | The exception that is thrown when GridJs specified error occurs. |
+| [`GridJsWorkbook`](/gridjs/python-net/aspose.cellsgridjs/gridjsworkbook) | Represents the main entry class for GridJs |
+| [`GridReferredArea`](/gridjs/python-net/aspose.cellsgridjs/gridreferredarea) | Represents a referred area by the formula. |
+| [`GridWorkbookSettings`](/gridjs/python-net/aspose.cellsgridjs/gridworkbooksettings) | Represents the settings of the workbook. |
+
+
+### Enumerations
+| Enumeration | Description |
+| :- | :- |
+| [`GridExceptionType`](/gridjs/python-net/aspose.cellsgridjs/gridexceptiontype) | Represents custom exception code for GridJs. |
+| [`GridLoadFormat`](/gridjs/python-net/aspose.cellsgridjs/gridloadformat) | Represents the load file format. |
+
+
