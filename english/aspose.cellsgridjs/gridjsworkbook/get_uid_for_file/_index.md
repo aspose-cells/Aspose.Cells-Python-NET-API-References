@@ -33,4 +33,4 @@ def get_uid_for_file(self, file_name):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridJsWorkbook`](/gridjs/python-net/aspose.cellsgridjs/gridjsworkbook)
+* class [`GridJsWorkbook`](/cells/python-net/aspose.cellsgridjs/gridjsworkbook)

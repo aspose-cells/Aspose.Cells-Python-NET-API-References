@@ -31,4 +31,4 @@ def calculated_value(self, value):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridCalculationData`](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata)
+* class [`GridCalculationData`](/cells/python-net/aspose.cellsgridjs/gridcalculationdata)

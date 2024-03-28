@@ -19,22 +19,22 @@ The GridCalculationData type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [calculated_value](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata/calculated_value) | Gets/sets the calculated value for this function. |
-| [row](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata/row) | Gets the Cell Row index where the function is in. |
-| [column](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata/column) | Gets the Cell Column index where the function is in. |
-| [string_value](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata/string_value) | Gets the Cell DisplayStringValue where the function is in. |
-| [value](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata/value) | Gets the Cell value where the function is in. |
-| [formula](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata/formula) | Gets the Cell formula where the function is in. |
-| [sheet_name](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata/sheet_name) | Gets the worksheet name where the function is in. |
-| [function_name](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata/function_name) | Gets the function name to be calculated. |
-| [param_count](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata/param_count) | Gets the count of parameters . |
+| [calculated_value](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/calculated_value) | Gets/sets the calculated value for this function. |
+| [row](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/row) | Gets the Cell Row index where the function is in. |
+| [column](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/column) | Gets the Cell Column index where the function is in. |
+| [string_value](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/string_value) | Gets the Cell DisplayStringValue where the function is in. |
+| [value](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/value) | Gets the Cell value where the function is in. |
+| [formula](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/formula) | Gets the Cell formula where the function is in. |
+| [sheet_name](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/sheet_name) | Gets the worksheet name where the function is in. |
+| [function_name](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/function_name) | Gets the function name to be calculated. |
+| [param_count](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/param_count) | Gets the count of parameters . |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_param_value](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) | Gets the represented value object of the parameter at given index. |
-| [get_param_text](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata/get_param_text/#int) | Gets the literal text of the parameter at given index. |
+| [get_param_value](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) | Gets the represented value object of the parameter at given index. |
+| [get_param_text](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/get_param_text/#int) | Gets the literal text of the parameter at given index. |
 
 
 

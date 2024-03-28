@@ -21,4 +21,4 @@ def value(self):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridCalculationData`](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata)
+* class [`GridCalculationData`](/cells/python-net/aspose.cellsgridjs/gridcalculationdata)

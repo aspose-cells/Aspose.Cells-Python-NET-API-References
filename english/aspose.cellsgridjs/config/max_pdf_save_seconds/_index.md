@@ -25,4 +25,4 @@ def max_pdf_save_seconds(self, value):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`Config`](/gridjs/python-net/aspose.cellsgridjs/config)
+* class [`Config`](/cells/python-net/aspose.cellsgridjs/config)

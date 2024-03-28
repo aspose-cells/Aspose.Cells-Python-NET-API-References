@@ -26,4 +26,4 @@ def auto_optimize_for_large_cells(self, value):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`Config`](/gridjs/python-net/aspose.cellsgridjs/config)
+* class [`Config`](/cells/python-net/aspose.cellsgridjs/config)

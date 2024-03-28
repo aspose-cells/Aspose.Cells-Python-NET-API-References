@@ -28,4 +28,4 @@ def set_image_url_base(self, base_image_url):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridJsWorkbook`](/gridjs/python-net/aspose.cellsgridjs/gridjsworkbook)
+* class [`GridJsWorkbook`](/cells/python-net/aspose.cellsgridjs/gridjsworkbook)

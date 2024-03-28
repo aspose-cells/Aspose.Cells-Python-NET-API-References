@@ -22,7 +22,7 @@ def calculate(self, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data | [`GridCalculationData`](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata) | The required data to calculate function such as function name, parameters, ...etc. |
+| data | [`GridCalculationData`](/cells/python-net/aspose.cellsgridjs/gridcalculationdata) | The required data to calculate function such as function name, parameters, ...etc. |
 ### Remarks
 
 User should set the calculated value for given data for all functions(including excel native functions)
@@ -31,4 +31,4 @@ that he wants to calculate by himself in this implementation.
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridAbstractCalculationEngine`](/gridjs/python-net/aspose.cellsgridjs/gridabstractcalculationengine)
+* class [`GridAbstractCalculationEngine`](/cells/python-net/aspose.cellsgridjs/gridabstractcalculationengine)

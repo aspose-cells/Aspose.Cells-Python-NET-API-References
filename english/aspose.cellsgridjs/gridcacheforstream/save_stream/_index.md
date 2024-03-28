@@ -29,4 +29,4 @@ def save_stream(self, s, uid):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridCacheForStream`](/gridjs/python-net/aspose.cellsgridjs/gridcacheforstream)
+* class [`GridCacheForStream`](/cells/python-net/aspose.cellsgridjs/gridcacheforstream)

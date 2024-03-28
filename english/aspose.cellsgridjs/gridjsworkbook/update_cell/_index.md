@@ -34,4 +34,4 @@ def update_cell(self, p, uid):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridJsWorkbook`](/gridjs/python-net/aspose.cellsgridjs/gridjsworkbook)
+* class [`GridJsWorkbook`](/cells/python-net/aspose.cellsgridjs/gridjsworkbook)

@@ -21,4 +21,4 @@ def is_external_link(self):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridReferredArea`](/gridjs/python-net/aspose.cellsgridjs/gridreferredarea)
+* class [`GridReferredArea`](/cells/python-net/aspose.cellsgridjs/gridreferredarea)

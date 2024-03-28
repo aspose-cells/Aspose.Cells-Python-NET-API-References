@@ -58,7 +58,7 @@ def import_excel_file(self, filestream, format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | filestream | io.RawIOBase | The stream of the excel file . |
-| format | [`GridLoadFormat`](/gridjs/python-net/aspose.cellsgridjs/gridloadformat) | The LoadFormat of the excel file. |
+| format | [`GridLoadFormat`](/cells/python-net/aspose.cellsgridjs/gridloadformat) | The LoadFormat of the excel file. |
 
 
 ## import_excel_file {#str-str-str}
@@ -96,7 +96,7 @@ def import_excel_file(self, uid, filestream, format):
 | :- | :- | :- |
 | uid | str | The unique id for the file cache, if set to null,it will be generated automatically. |
 | filestream | io.RawIOBase | The stream of the excel file . |
-| format | [`GridLoadFormat`](/gridjs/python-net/aspose.cellsgridjs/gridloadformat) | The LoadFormat of the excel file. |
+| format | [`GridLoadFormat`](/cells/python-net/aspose.cellsgridjs/gridloadformat) | The LoadFormat of the excel file. |
 
 
 ## import_excel_file {#io.RawIOBase-aspose.cellsgridjs.GridLoadFormat-str}
@@ -114,7 +114,7 @@ def import_excel_file(self, filestream, format, password):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | filestream | io.RawIOBase | The stream of the excel file . |
-| format | [`GridLoadFormat`](/gridjs/python-net/aspose.cellsgridjs/gridloadformat) | The LoadFormat of the excel file. |
+| format | [`GridLoadFormat`](/cells/python-net/aspose.cellsgridjs/gridloadformat) | The LoadFormat of the excel file. |
 | password | str | The open password  of the excel file.The value can be null If no passowrd is set. |
 
 
@@ -134,11 +134,11 @@ def import_excel_file(self, uid, filestream, format, password):
 | :- | :- | :- |
 | uid | str | The unique id for the file cache, if set to null,it will be generated automatically. |
 | filestream | io.RawIOBase | The stream of the excel file . |
-| format | [`GridLoadFormat`](/gridjs/python-net/aspose.cellsgridjs/gridloadformat) | The LoadFormat of the excel file. |
+| format | [`GridLoadFormat`](/cells/python-net/aspose.cellsgridjs/gridloadformat) | The LoadFormat of the excel file. |
 | password | str | The open password  of the excel file.The value can be null If no passowrd is set |
 
 
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridJsWorkbook`](/gridjs/python-net/aspose.cellsgridjs/gridjsworkbook)
+* class [`GridJsWorkbook`](/cells/python-net/aspose.cellsgridjs/gridjsworkbook)

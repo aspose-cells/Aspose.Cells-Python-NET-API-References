@@ -34,4 +34,4 @@ def copy_image_or_shape(self, uid, p):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridJsWorkbook`](/gridjs/python-net/aspose.cellsgridjs/gridjsworkbook)
+* class [`GridJsWorkbook`](/cells/python-net/aspose.cellsgridjs/gridjsworkbook)

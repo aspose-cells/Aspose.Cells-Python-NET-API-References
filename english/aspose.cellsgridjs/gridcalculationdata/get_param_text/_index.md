@@ -33,4 +33,4 @@ def get_param_text(self, index):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridCalculationData`](/gridjs/python-net/aspose.cellsgridjs/gridcalculationdata)
+* class [`GridCalculationData`](/cells/python-net/aspose.cellsgridjs/gridcalculationdata)

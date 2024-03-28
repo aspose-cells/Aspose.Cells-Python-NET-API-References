@@ -15,5 +15,5 @@ Custom  implemention for calculation engine ,If you want to do custom calculatio
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridAbstractCalculationEngine`](/gridjs/python-net/aspose.cellsgridjs/gridabstractcalculationengine)
-* class [`GridJsWorkbook`](/gridjs/python-net/aspose.cellsgridjs/gridjsworkbook)
+* class [`GridAbstractCalculationEngine`](/cells/python-net/aspose.cellsgridjs/gridabstractcalculationengine)
+* class [`GridJsWorkbook`](/cells/python-net/aspose.cellsgridjs/gridjsworkbook)

@@ -36,4 +36,4 @@ def get_value(self, row_offset, col_offset):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridReferredArea`](/gridjs/python-net/aspose.cellsgridjs/gridreferredarea)
+* class [`GridReferredArea`](/cells/python-net/aspose.cellsgridjs/gridreferredarea)

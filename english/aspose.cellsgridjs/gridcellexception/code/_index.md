@@ -21,5 +21,5 @@ def code(self):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridCellException`](/gridjs/python-net/aspose.cellsgridjs/gridcellexception)
-* class [`GridExceptionType`](/gridjs/python-net/aspose.cellsgridjs/gridexceptiontype)
+* class [`GridCellException`](/cells/python-net/aspose.cellsgridjs/gridcellexception)
+* class [`GridExceptionType`](/cells/python-net/aspose.cellsgridjs/gridexceptiontype)

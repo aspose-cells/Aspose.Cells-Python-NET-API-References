@@ -21,4 +21,4 @@ def stack_trace(self):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridCellException`](/gridjs/python-net/aspose.cellsgridjs/gridcellexception)
+* class [`GridCellException`](/cells/python-net/aspose.cellsgridjs/gridcellexception)

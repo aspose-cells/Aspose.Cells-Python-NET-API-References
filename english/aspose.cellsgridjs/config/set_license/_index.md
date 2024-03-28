@@ -47,4 +47,4 @@ Use this method to load a license from a stream.
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`Config`](/gridjs/python-net/aspose.cellsgridjs/config)
+* class [`Config`](/cells/python-net/aspose.cellsgridjs/config)

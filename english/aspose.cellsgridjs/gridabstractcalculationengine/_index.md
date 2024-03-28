@@ -19,7 +19,7 @@ The GridAbstractCalculationEngine type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [calculate](/gridjs/python-net/aspose.cellsgridjs/gridabstractcalculationengine/calculate/#aspose.cellsgridjs.GridCalculationData) | Calculates one function with given data. |
+| [calculate](/cells/python-net/aspose.cellsgridjs/gridabstractcalculationengine/calculate/#aspose.cellsgridjs.GridCalculationData) | Calculates one function with given data. |
 
 
 

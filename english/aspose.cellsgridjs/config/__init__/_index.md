@@ -25,4 +25,4 @@ def __init__(self):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`Config`](/gridjs/python-net/aspose.cellsgridjs/config)
+* class [`Config`](/cells/python-net/aspose.cellsgridjs/config)

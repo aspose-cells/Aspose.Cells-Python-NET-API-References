@@ -25,4 +25,4 @@ def max_shape_or_image_width_or_height(self, value):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`Config`](/gridjs/python-net/aspose.cellsgridjs/config)
+* class [`Config`](/cells/python-net/aspose.cellsgridjs/config)

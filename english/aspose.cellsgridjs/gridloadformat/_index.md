@@ -23,7 +23,7 @@ The GridLoadFormat type exposes the following members:
 | CSV | Represents Comma-Separated Values(CSV) text file. |
 | XLSX | Represents Office Open XML spreadsheetML workbook or template, with or without macros. |
 | TSV | Represents   TSV(tab-separated values file) file. |
-| TAB_DELIMITED | Represents  tab delimited text file, same with [`GridLoadFormat.TSV`](/gridjs/python-net/aspose.cellsgridjs/gridloadformat#TSV). |
+| TAB_DELIMITED | Represents  tab delimited text file, same with [`GridLoadFormat.TSV`](/cells/python-net/aspose.cellsgridjs/gridloadformat#TSV). |
 | HTML | Represents   html file. |
 | M_HTML | Represents   mhtml file. |
 | ODS | Represents  Open Document Sheet(ODS) file. |

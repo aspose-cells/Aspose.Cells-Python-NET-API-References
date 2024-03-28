@@ -24,4 +24,4 @@ def enable_macros(self, value):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridWorkbookSettings`](/gridjs/python-net/aspose.cellsgridjs/gridworkbooksettings)
+* class [`GridWorkbookSettings`](/cells/python-net/aspose.cellsgridjs/gridworkbooksettings)

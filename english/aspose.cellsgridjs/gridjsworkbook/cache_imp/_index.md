@@ -15,5 +15,5 @@ Custom  implemention for cache storage,If you want to store cache in stream way 
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridCacheForStream`](/gridjs/python-net/aspose.cellsgridjs/gridcacheforstream)
-* class [`GridJsWorkbook`](/gridjs/python-net/aspose.cellsgridjs/gridjsworkbook)
+* class [`GridCacheForStream`](/cells/python-net/aspose.cellsgridjs/gridcacheforstream)
+* class [`GridJsWorkbook`](/cells/python-net/aspose.cellsgridjs/gridjsworkbook)

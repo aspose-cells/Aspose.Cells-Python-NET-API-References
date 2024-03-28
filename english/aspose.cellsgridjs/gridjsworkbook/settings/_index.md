@@ -24,5 +24,5 @@ def settings(self, value):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridJsWorkbook`](/gridjs/python-net/aspose.cellsgridjs/gridjsworkbook)
-* class [`GridWorkbookSettings`](/gridjs/python-net/aspose.cellsgridjs/gridworkbooksettings)
+* class [`GridJsWorkbook`](/cells/python-net/aspose.cellsgridjs/gridjsworkbook)
+* class [`GridWorkbookSettings`](/cells/python-net/aspose.cellsgridjs/gridworkbooksettings)
