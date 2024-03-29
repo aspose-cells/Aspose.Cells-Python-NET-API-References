@@ -39,5 +39,5 @@ is_root: true
 | [`aspose.cells.utility`](/cells/python-net/aspose.cells.utility) | The **Aspose.Cells.Utility**  namespace contains utility classes processing JSON formats for Excel Spreadsheet files. |
 | [`aspose.cells.vba`](/cells/python-net/aspose.cells.vba) | The **Aspose.Cells.Vba**  namespace contains classes to access Visual Basic Analysis projects and modules in Excel Spreadsheet files. |
 | [`aspose.cells.webextensions`](/cells/python-net/aspose.cells.webextensions) | The **Aspose.Cells.WebExtensions**  namespace contains classes to access Office Add-in in Excel Files. |
-
+| [`aspose.cellsgridjs`](/cells/python-net/aspose.cellsgridjs) | The **Aspose.Cells.GridJs** namespace contains all classes of GridJs which provide basic operations for managing spreadsheets without utilizing Microsoft Excel . |
 
