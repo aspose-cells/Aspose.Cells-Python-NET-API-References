@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  save_stream {#io.RawIOBase-str}
 
-实现该方法来保存缓存，将流以key uid保存到缓存中。
+实现该方法保存缓存，将流以key uid保存到缓存中。
 
 
 

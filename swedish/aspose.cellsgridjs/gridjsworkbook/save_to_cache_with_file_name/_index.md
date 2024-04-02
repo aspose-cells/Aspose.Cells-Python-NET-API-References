@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  save_to_cache_with_file_name {#str-str-str}
 
-Sparar minnesdata till cachefilen med det angivna filnamnet och ställer även in det öppna lösenordet, sparaformatet baseras på filtillägget för filnamnet.
+Sparar minnesdata till cachefilen med det angivna filnamnet och ställer också in det öppna lösenordet, sparaformatet baseras på filtillägget för filnamnet.
 
 
 

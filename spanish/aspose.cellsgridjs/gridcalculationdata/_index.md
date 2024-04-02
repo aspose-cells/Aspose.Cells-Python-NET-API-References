@@ -33,7 +33,7 @@ El tipo GridCalculationData expone los siguientes miembros:
 | Método| Descripción|
 | :- | :- |
 | [get_param_value](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) | Obtiene el objeto de valor representado del parámetro en el índice dado.|
-| [get_param_text](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/get_param_text/#int) | Obtiene el texto literal del parámetro en el índice dado.|
+| [get_param_text](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/get_param_text/#int) | Obtiene el texto literal del parámetro en el índice determinado.|
 
 
 
