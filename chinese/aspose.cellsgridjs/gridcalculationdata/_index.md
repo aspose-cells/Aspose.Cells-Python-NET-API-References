@@ -15,7 +15,7 @@ is_root: false
 
 GridCalculationData 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [calculated_value](/cells/python-net/zh/aspose.cellsgridjs/gridcalculationdata/calculated_value) |获取/设置此函数的计算值。|
@@ -37,7 +37,7 @@ GridCalculationData 类型公开以下成员：
 
 
 
-### 评论
+### 注意事项
 
 
 此类提供的所有对象仅用于“读取”目的。

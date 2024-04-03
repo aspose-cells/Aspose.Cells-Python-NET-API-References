@@ -21,7 +21,7 @@ GridJsWorkbook 类型公开以下成员：
 | [__init__](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/__init__/#) |构造 GridJsWorkbook 的新实例|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [settings](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/settings) |代表工作簿设置。|

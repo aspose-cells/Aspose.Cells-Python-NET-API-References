@@ -21,7 +21,7 @@ Config 类型公开以下成员：
 | [__init__](/cells/python-net/zh/aspose.cellsgridjs/config/__init__/#) |构造一个新的 Config 实例|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [save_html_as_zip](/cells/python-net/zh/aspose.cellsgridjs/config/save_html_as_zip) |设置/获取是否将 html 文件保存为 zip 存档，默认为 false。|

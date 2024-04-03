@@ -14,8 +14,8 @@ is_root: false
 
 GridExceptionType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | CHART |图表设置无效。|
 | DATA_TYPE |数据类型设置无效。|

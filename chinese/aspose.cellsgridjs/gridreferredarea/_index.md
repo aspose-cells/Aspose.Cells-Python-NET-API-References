@@ -15,7 +15,7 @@ is_root: false
 
 GridReferredArea 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [is_external_link](/cells/python-net/zh/aspose.cellsgridjs/gridreferredarea/is_external_link) |指示这是否是外部链接。|

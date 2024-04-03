@@ -21,7 +21,7 @@ GridWorkbookSettings 类型公开以下成员：
 | [__init__](/cells/python-net/zh/aspose.cellsgridjs/gridworkbooksettings/__init__/#) |构造 GridWorkbookSettings 的新实例|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [max_iteration](/cells/python-net/zh/aspose.cellsgridjs/gridworkbooksettings/max_iteration) |返回或设置解决循环引用的最大迭代次数，默认值为 100。|

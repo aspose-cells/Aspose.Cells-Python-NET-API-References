@@ -15,7 +15,7 @@ is_root: false
 
 GridCellException 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [code](/cells/python-net/zh/aspose.cellsgridjs/gridcellexception/code) |代表异常代码。|

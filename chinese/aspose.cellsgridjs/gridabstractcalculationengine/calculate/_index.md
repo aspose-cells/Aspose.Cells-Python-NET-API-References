@@ -22,7 +22,7 @@ def calculate(self, data):
 |范围|类型|描述|
 | :- | :- | :- |
 | data | [`GridCalculationData`](/cells/python-net/zh/aspose.cellsgridjs/gridcalculationdata) |计算函数所需的数据，例如函数名称、参数等。|
-### 评论
+### 注意事项
 
 用户应为所有函数（包括 Excel 原生函数）设置给定数据的计算值
 他想自己在这个实施中calculate。

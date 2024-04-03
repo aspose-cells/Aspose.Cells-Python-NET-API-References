@@ -39,7 +39,7 @@ def set_license(self, stream):
 |范围|类型|描述|
 | :- | :- | :- |
 | stream | io.RawIOBase |包含许可证的流。|
-### 评论
+### 注意事项
 
 使用此方法从流加载许可证。
 

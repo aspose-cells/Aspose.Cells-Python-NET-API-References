@@ -22,7 +22,7 @@ GridAbstractCalculationEngine 类型公开以下成员：
 
 
 
-### 评论
+### 注意事项
 
 
 在此实现中，用户不应直接修改工作簿的任何部分（自定义函数的计算结果除外，可以通过 GridCalculationData.CalculatedValue 属性设置）。
