@@ -39,7 +39,7 @@ Typen GridExceptionType avslöjar följande medlemmar:
 | PERMISSION | Tillstånd krävs för att öppna den här filen.|
 | UNSUPPORTED_FEATURE | Funktionen stöds inte.|
 | UNSUPPORTED_STREAM | Ström som inte stöds ska öppnas.|
-| UNDISCLOSED_INFORMATION |Filer innehåller en del hemlig information.|
+| UNDISCLOSED_INFORMATION | Filer innehåller en del hemlig information.|
 
 
 

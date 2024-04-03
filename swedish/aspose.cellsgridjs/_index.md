@@ -14,10 +14,10 @@ is_root: false
 | :- | :- |
 | [`Config`](/cells/python-net/sv/aspose.cellsgridjs/config) | Representerar alla inställningar för GridJs|
 | [`GridAbstractCalculationEngine`](/cells/python-net/sv/aspose.cellsgridjs/gridabstractcalculationengine) | Representerar användarens anpassade beräkningsmotor för att utöka standardberäkningsmotorn Aspose.Cells.|
-| [`GridCacheForStream`](/cells/python-net/sv/aspose.cellsgridjs/gridcacheforstream) |Den här klassen innehåller cache-operationerna för GridJs. Användaren ska implementera sin egen affärslogik för lagring baserad på den..|
+| [`GridCacheForStream`](/cells/python-net/sv/aspose.cellsgridjs/gridcacheforstream) | Den här klassen innehåller cache-operationerna för GridJs. Användaren ska implementera sin egen affärslogik för lagring baserad på den..|
 | [`GridCalculationData`](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata) | Representerar de data som krävs vid beräkning av en funktion, såsom funktionsnamn, parametrar, ... etc.|
 | [`GridCellException`](/cells/python-net/sv/aspose.cellsgridjs/gridcellexception) | Undantaget som kastas när GridJs specificerade fel inträffar.|
-| [`GridJsWorkbook`](/cells/python-net/sv/aspose.cellsgridjs/gridjsworkbook) | Representerar huvudinträdesklassen för GridJs|
+| [`GridJsWorkbook`](/cells/python-net/sv/aspose.cellsgridjs/gridjsworkbook) |Representerar huvudinträdesklassen för GridJs|
 | [`GridReferredArea`](/cells/python-net/sv/aspose.cellsgridjs/gridreferredarea) | Representerar ett refererat område med formeln.|
 | [`GridWorkbookSettings`](/cells/python-net/sv/aspose.cellsgridjs/gridworkbooksettings) | Representerar arbetsbokens inställningar.|
 

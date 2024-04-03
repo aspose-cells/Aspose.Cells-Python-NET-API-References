@@ -29,7 +29,7 @@ def insert_image(self, uid, p, s, image_url):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | uid | str | Det unika ID:t för filcachen|
-| p | str | Formatsträngen JSON för operationen som anger cellplatsen, kalkylbladets namn, övre vänstra raden, övre vänstra kolumnen för bilden, etc {name:'sheet1',ri:1,ci:1} |
+| p | str |Formatsträngen JSON för operationen som anger cellplatsen, kalkylbladets namn, övre vänstra raden, övre vänstra kolumnen för bilden, etc {name:'sheet1',ri:1,ci:1} |
 | s | io.RawIOBase | Filströmmen för bildfilen|
 | image_url | str | Bildfilens URL|
 

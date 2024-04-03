@@ -39,7 +39,7 @@ Le type GridExceptionType expose les membres suivants :
 | PERMISSION | Une autorisation est requise pour ouvrir ce fichier.|
 | UNSUPPORTED_FEATURE | Fonctionnalité non prise en charge.|
 | UNSUPPORTED_STREAM | Flux non pris en charge à ouvrir.|
-| UNDISCLOSED_INFORMATION |Les fichiers contiennent des informations non divulguées.|
+| UNDISCLOSED_INFORMATION | Les fichiers contiennent des informations non divulguées.|
 
 
 

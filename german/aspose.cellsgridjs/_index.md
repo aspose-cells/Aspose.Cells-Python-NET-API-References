@@ -14,10 +14,10 @@ is_root: false
 | :- | :- |
 | [`Config`](/cells/python-net/de/aspose.cellsgridjs/config) | Stellt alle Einstellungen für GridJs dar|
 | [`GridAbstractCalculationEngine`](/cells/python-net/de/aspose.cellsgridjs/gridabstractcalculationengine) | Stellt die benutzerdefinierte Berechnungs-Engine des Benutzers dar, um die Standard-Berechnungs-Engine von Aspose.Cells zu erweitern.|
-| [`GridCacheForStream`](/cells/python-net/de/aspose.cellsgridjs/gridcacheforstream) |Diese Klasse enthält die Cache-Operationen für GridJs. Der Benutzer muss seine eigene Geschäftslogik für die darauf basierende Speicherung implementieren.|
+| [`GridCacheForStream`](/cells/python-net/de/aspose.cellsgridjs/gridcacheforstream) | Diese Klasse enthält die Cache-Operationen für GridJs. Der Benutzer muss seine eigene Geschäftslogik für die darauf basierende Speicherung implementieren.|
 | [`GridCalculationData`](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata) | Stellt die erforderlichen Daten bei der Berechnung einer Funktion dar, z. B. Funktionsname, Parameter usw.|
 | [`GridCellException`](/cells/python-net/de/aspose.cellsgridjs/gridcellexception) | Die Ausnahme, die ausgelöst wird, wenn der von GridJs angegebene Fehler auftritt.|
-| [`GridJsWorkbook`](/cells/python-net/de/aspose.cellsgridjs/gridjsworkbook) | Stellt die Haupteintragsklasse für GridJs dar|
+| [`GridJsWorkbook`](/cells/python-net/de/aspose.cellsgridjs/gridjsworkbook) |Stellt die Haupteintragsklasse für GridJs dar|
 | [`GridReferredArea`](/cells/python-net/de/aspose.cellsgridjs/gridreferredarea) | Stellt einen Bereich dar, auf den sich die Formel bezieht.|
 | [`GridWorkbookSettings`](/cells/python-net/de/aspose.cellsgridjs/gridworkbooksettings) | Stellt die Einstellungen der Arbeitsmappe dar.|
 

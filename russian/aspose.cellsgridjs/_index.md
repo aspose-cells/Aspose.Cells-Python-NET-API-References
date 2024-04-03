@@ -14,10 +14,10 @@ is_root: false
 | :- | :- |
 | [`Config`](/cells/python-net/ru/aspose.cellsgridjs/config) | Представляет все настройки GridJs.|
 | [`GridAbstractCalculationEngine`](/cells/python-net/ru/aspose.cellsgridjs/gridabstractcalculationengine) | Представляет пользовательский механизм вычислений, расширяющий механизм вычислений по умолчанию Aspose.Cells.|
-| [`GridCacheForStream`](/cells/python-net/ru/aspose.cellsgridjs/gridcacheforstream) |Этот класс содержит операции кэширования для GridJ. Пользователь должен реализовать собственную бизнес-логику для хранения на ее основе.|
+| [`GridCacheForStream`](/cells/python-net/ru/aspose.cellsgridjs/gridcacheforstream) | Этот класс содержит операции кэширования для GridJ. Пользователь должен реализовать собственную бизнес-логику для хранения на ее основе.|
 | [`GridCalculationData`](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata) | Представляет необходимые данные при вычислении одной функции, такие как имя функции, параметры и т. д.|
 | [`GridCellException`](/cells/python-net/ru/aspose.cellsgridjs/gridcellexception) | Исключение, которое выдается при возникновении указанной GridJ ошибки.|
-| [`GridJsWorkbook`](/cells/python-net/ru/aspose.cellsgridjs/gridjsworkbook) | Представляет основной входной класс GridJs.|
+| [`GridJsWorkbook`](/cells/python-net/ru/aspose.cellsgridjs/gridjsworkbook) |Представляет основной входной класс GridJs.|
 | [`GridReferredArea`](/cells/python-net/ru/aspose.cellsgridjs/gridreferredarea) | Представляет указанную область по формуле.|
 | [`GridWorkbookSettings`](/cells/python-net/ru/aspose.cellsgridjs/gridworkbooksettings) | Представляет параметры книги.|
 

@@ -24,7 +24,7 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [interrupt](/cells/python-net/ar/aspose.cellsgridjs/gridinterruptmonitor/interrupt/#) | مقاطعة المشغل الحالي.|
+| [interrupt](/cells/python-net/ar/aspose.cellsgridjs/gridinterruptmonitor/interrupt/#) |مقاطعة المشغل الحالي.|
 
 
 

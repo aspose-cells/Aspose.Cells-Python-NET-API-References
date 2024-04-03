@@ -29,7 +29,7 @@ def insert_image(self, uid, p, s, image_url):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | uid | str | Die eindeutige ID für den Dateicache|
-| p | str | Die Formatzeichenfolge JSON für den Vorgang, die die Zellenposition, den Arbeitsblattnamen, die obere linke Zeile, die obere linke Spalte für das Bild usw. angibt {name:'sheet1',ri:1,ci:1} |
+| p | str |Die Formatzeichenfolge JSON für den Vorgang, die die Zellenposition, den Arbeitsblattnamen, die obere linke Zeile, die obere linke Spalte für das Bild usw. angibt {name:'sheet1',ri:1,ci:1} |
 | s | io.RawIOBase | Der Dateistream der Bilddatei|
 | image_url | str | Die URL der Bilddatei|
 

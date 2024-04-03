@@ -29,7 +29,7 @@ def insert_image(self, uid, p, s, image_url):
 |范围|类型|描述|
 | :- | :- | :- |
 | uid | str |文件缓存的唯一 ID|
-| p | str | JSON 操作的格式字符串，指定单元格位置、工作表名称、图像的左上行、左上列等 {name:'sheet1',ri:1,ci:1} |
+| p | str |JSON 操作的格式字符串，指定单元格位置、工作表名称、图像的左上行、左上列等 {name:'sheet1',ri:1,ci:1} |
 | s | io.RawIOBase |图像文件的文件流|
 | image_url | str |图像文件的 URL|
 

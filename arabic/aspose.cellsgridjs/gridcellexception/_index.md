@@ -20,7 +20,7 @@ is_root: false
 | :- | :- |
 | [code](/cells/python-net/ar/aspose.cellsgridjs/gridcellexception/code) | يمثل رمز الاستثناء.|
 | [source](/cells/python-net/ar/aspose.cellsgridjs/gridcellexception/source) | يحصل على اسم التطبيق أو الكائن الذي يسبب الخطأ.|
-| [stack_trace](/cells/python-net/ar/aspose.cellsgridjs/gridcellexception/stack_trace) |الحصول على تمثيل سلسلة للإطارات المباشرة في مكدس الاستدعاءات.|
+| [stack_trace](/cells/python-net/ar/aspose.cellsgridjs/gridcellexception/stack_trace) | الحصول على تمثيل سلسلة للإطارات المباشرة في مكدس الاستدعاءات.|
 
 
 ###  طُرق

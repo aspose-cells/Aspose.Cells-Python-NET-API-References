@@ -27,12 +27,12 @@ Typen GridLoadFormat avslöjar följande medlemmar:
 | M_HTML | Representerar mhtml-fil.|
 | ODS | Representerar Open Document Sheet (ODS) fil.|
 | EXCEL_97_TO_2003 | Representerar Excel97-2003 xls-fil.|
-| SPREADSHEET_ML |Representerar Excel 2003 xml-fil.|
+| SPREADSHEET_ML | Representerar Excel 2003 xml-fil.|
 | XLSB | Representerar xlsb-fil.|
 | NUMBERS | Representerar nummerfil.|
 | FODS | Representerar filformatet OpenDocument Flat XML Spreadsheet (.fods).|
 | SXC | Representerar filformatet StarOffice Calc Spreadsheet (.sxc).|
-| UNKNOWN | Representerar okänt format, kan inte laddas.|
+| UNKNOWN |Representerar okänt format, kan inte laddas.|
 
 
 

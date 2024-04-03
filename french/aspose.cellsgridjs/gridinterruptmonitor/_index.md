@@ -24,7 +24,7 @@ Le type GridInterruptMonitor expose les membres suivants :
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [interrupt](/cells/python-net/fr/aspose.cellsgridjs/gridinterruptmonitor/interrupt/#) | Interrompre l'opérateur actuel.|
+| [interrupt](/cells/python-net/fr/aspose.cellsgridjs/gridinterruptmonitor/interrupt/#) |Interrompre l'opérateur actuel.|
 
 
 

@@ -29,7 +29,7 @@ def insert_image(self, uid, p, s, image_url):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | uid | str | L'identifiant unique du cache de fichiers|
-| p | str | La chaîne de format JSON pour l'opération qui spécifie l'emplacement de la cellule, le nom de la feuille de calcul, la ligne supérieure gauche, la colonne supérieure gauche de l'image, etc. {name:'sheet1',ri:1,ci:1} |
+| p | str |La chaîne de format JSON pour l'opération qui spécifie l'emplacement de la cellule, le nom de la feuille de calcul, la ligne supérieure gauche, la colonne supérieure gauche de l'image, etc. {name:'sheet1',ri:1,ci:1} |
 | s | io.RawIOBase | Le flux de fichiers du fichier image|
 | image_url | str | L'URL du fichier image|
 

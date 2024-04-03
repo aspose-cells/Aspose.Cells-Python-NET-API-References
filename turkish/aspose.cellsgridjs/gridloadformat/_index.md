@@ -27,12 +27,12 @@ GridLoadFormat türü aşağıdaki üyeleri ortaya çıkarır:
 | M_HTML | Mhtml dosyasını temsil eder.|
 | ODS | Açık Belge Sayfası(ODS) dosyasını temsil eder.|
 | EXCEL_97_TO_2003 | Excel97-2003 xls dosyasını temsil eder.|
-| SPREADSHEET_ML |Excel 2003 xml dosyasını temsil eder.|
+| SPREADSHEET_ML | Excel 2003 xml dosyasını temsil eder.|
 | XLSB | Xlsb dosyasını temsil eder.|
 | NUMBERS | Sayılar dosyasını temsil eder.|
 | FODS | OpenDocument Düz XML Elektronik Tablosu (.fods) dosya biçimini temsil eder.|
 | SXC | StarOffice Calc Elektronik Tablosu (.sxc) dosya formatını temsil eder.|
-| UNKNOWN | Tanınmayan biçimi temsil eder, yüklenemez.|
+| UNKNOWN |Tanınmayan biçimi temsil eder, yüklenemez.|
 
 
 

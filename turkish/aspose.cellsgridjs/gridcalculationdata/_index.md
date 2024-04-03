@@ -23,7 +23,7 @@ GridCalculationData türü aşağıdaki üyeleri ortaya çıkarır:
 | [column](/cells/python-net/tr/aspose.cellsgridjs/gridcalculationdata/column) | İşlevin bulunduğu Cell Sütun dizinini alır.|
 | [string_value](/cells/python-net/tr/aspose.cellsgridjs/gridcalculationdata/string_value) | İşlevin bulunduğu Cell DisplayStringValue değerini alır.|
 | [value](/cells/python-net/tr/aspose.cellsgridjs/gridcalculationdata/value) | Fonksiyonun bulunduğu Cell değerini alır.|
-| [formula](/cells/python-net/tr/aspose.cellsgridjs/gridcalculationdata/formula) |Fonksiyonun bulunduğu Cell formülünü alır.|
+| [formula](/cells/python-net/tr/aspose.cellsgridjs/gridcalculationdata/formula) | Fonksiyonun bulunduğu Cell formülünü alır.|
 | [sheet_name](/cells/python-net/tr/aspose.cellsgridjs/gridcalculationdata/sheet_name) | İşlevin bulunduğu çalışma sayfasının adını alır.|
 | [function_name](/cells/python-net/tr/aspose.cellsgridjs/gridcalculationdata/function_name) | Hesaplanacak fonksiyon adını alır.|
 | [param_count](/cells/python-net/tr/aspose.cellsgridjs/gridcalculationdata/param_count) | Parametrelerin sayısını alır.|
@@ -32,7 +32,7 @@ GridCalculationData türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [get_param_value](/cells/python-net/tr/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) | Verilen dizindeki parametrenin temsil edilen değer nesnesini alır.|
+| [get_param_value](/cells/python-net/tr/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) |Verilen dizindeki parametrenin temsil edilen değer nesnesini alır.|
 | [get_param_text](/cells/python-net/tr/aspose.cellsgridjs/gridcalculationdata/get_param_text/#int) | Verilen dizindeki parametrenin gerçek metnini alır.|
 
 

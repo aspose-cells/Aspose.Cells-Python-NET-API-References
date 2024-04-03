@@ -26,7 +26,7 @@ def get_uid_for_file(self, file_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| file_name | str |اسم الملف.|
+| file_name | str | اسم الملف.|
 
 
 

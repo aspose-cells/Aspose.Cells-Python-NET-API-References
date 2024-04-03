@@ -24,7 +24,7 @@ GridInterruptMonitor türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [interrupt](/cells/python-net/tr/aspose.cellsgridjs/gridinterruptmonitor/interrupt/#) | Geçerli operatörün sözünü kesin.|
+| [interrupt](/cells/python-net/tr/aspose.cellsgridjs/gridinterruptmonitor/interrupt/#) |Geçerli operatörün sözünü kesin.|
 
 
 

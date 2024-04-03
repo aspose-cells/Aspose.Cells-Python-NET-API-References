@@ -27,12 +27,12 @@ is_root: false
 | M_HTML | يمثل ملف MHTML.|
 | ODS | يمثل ملف ورقة المستندات المفتوحة (ODS).|
 | EXCEL_97_TO_2003 | يمثل ملف Excel97-2003 XLS.|
-| SPREADSHEET_ML |يمثل ملف Excel 2003 xml.|
+| SPREADSHEET_ML | يمثل ملف Excel 2003 xml.|
 | XLSB | يمثل ملف XLSB.|
 | NUMBERS | يمثل ملف الأرقام.|
 | FODS | يمثل تنسيق ملف OpenDocument Flat XML Spreadsheet (.fods).|
 | SXC | يمثل تنسيق ملف StarOffice Calc Spreadsheet (.sxc).|
-| UNKNOWN | يمثل تنسيقًا غير معروف، ولا يمكن تحميله.|
+| UNKNOWN |يمثل تنسيقًا غير معروف، ولا يمكن تحميله.|
 
 
 

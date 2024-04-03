@@ -29,7 +29,7 @@ def insert_image(self, uid, p, s, image_url):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | uid | str | Dosya önbelleğinin benzersiz kimliği|
-| p | str | Hücre konumunu, çalışma sayfası adını, görüntü için sol üst satırı, sol üst sütunu vb. belirten işlem için JSON biçim dizesi {name:'sheet1',ri:1,ci:1} |
+| p | str |Hücre konumunu, çalışma sayfası adını, görüntü için sol üst satırı, sol üst sütunu vb. belirten işlem için JSON biçim dizesi {name:'sheet1',ri:1,ci:1} |
 | s | io.RawIOBase | Görüntü dosyasının dosya akışı|
 | image_url | str | Resim dosyasının URL'si|
 

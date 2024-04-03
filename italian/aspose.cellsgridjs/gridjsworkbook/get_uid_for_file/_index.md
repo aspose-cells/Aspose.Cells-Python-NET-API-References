@@ -26,7 +26,7 @@ def get_uid_for_file(self, file_name):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| file_name | str |Il nome del file.|
+| file_name | str | Il nome del file.|
 
 
 

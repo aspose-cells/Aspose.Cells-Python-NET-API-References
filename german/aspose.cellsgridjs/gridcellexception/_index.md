@@ -20,7 +20,7 @@ Der Typ GridCellException macht die folgenden Member verfügbar:
 | :- | :- |
 | [code](/cells/python-net/de/aspose.cellsgridjs/gridcellexception/code) | Stellt den Ausnahmecode dar.|
 | [source](/cells/python-net/de/aspose.cellsgridjs/gridcellexception/source) | Ruft den Namen der Anwendung oder des Objekts ab, das den Fehler verursacht.|
-| [stack_trace](/cells/python-net/de/aspose.cellsgridjs/gridcellexception/stack_trace) |Ruft eine Zeichenfolgendarstellung der unmittelbaren Frames im Aufrufstapel ab.|
+| [stack_trace](/cells/python-net/de/aspose.cellsgridjs/gridcellexception/stack_trace) | Ruft eine Zeichenfolgendarstellung der unmittelbaren Frames im Aufrufstapel ab.|
 
 
 ###  Methoden

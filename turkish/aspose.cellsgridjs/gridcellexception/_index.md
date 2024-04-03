@@ -20,7 +20,7 @@ GridCellException türü aşağıdaki üyeleri ortaya çıkarır:
 | :- | :- |
 | [code](/cells/python-net/tr/aspose.cellsgridjs/gridcellexception/code) | Özel durum kodunu temsil eder.|
 | [source](/cells/python-net/tr/aspose.cellsgridjs/gridcellexception/source) | Hataya neden olan uygulamanın veya nesnenin adını alır.|
-| [stack_trace](/cells/python-net/tr/aspose.cellsgridjs/gridcellexception/stack_trace) |Çağrı yığınındaki anlık çerçevelerin dize temsilini alır.|
+| [stack_trace](/cells/python-net/tr/aspose.cellsgridjs/gridcellexception/stack_trace) | Çağrı yığınındaki anlık çerçevelerin dize temsilini alır.|
 
 
 ###  Yöntemler

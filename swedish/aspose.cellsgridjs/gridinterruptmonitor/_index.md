@@ -24,7 +24,7 @@ Typen GridInterruptMonitor avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [interrupt](/cells/python-net/sv/aspose.cellsgridjs/gridinterruptmonitor/interrupt/#) | Avbryt den aktuella operatören.|
+| [interrupt](/cells/python-net/sv/aspose.cellsgridjs/gridinterruptmonitor/interrupt/#) |Avbryt den aktuella operatören.|
 
 
 

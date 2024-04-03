@@ -23,7 +23,7 @@ Typen GridCalculationData avslöjar följande medlemmar:
 | [column](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata/column) | Hämtar Cell Kolumnindex där funktionen finns i.|
 | [string_value](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata/string_value) | Får Cell DisplayStringValue där funktionen finns.|
 | [value](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata/value) | Hämtar värdet Cell där funktionen finns.|
-| [formula](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata/formula) |Hämtar formeln Cell där funktionen finns i.|
+| [formula](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata/formula) | Hämtar formeln Cell där funktionen finns i.|
 | [sheet_name](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata/sheet_name) | Hämtar kalkylbladets namn där funktionen finns i.|
 | [function_name](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata/function_name) | Hämtar funktionsnamnet som ska beräknas.|
 | [param_count](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata/param_count) | Hämtar antalet parametrar.|
@@ -32,7 +32,7 @@ Typen GridCalculationData avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_param_value](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) | Hämtar det representerade värdeobjektet för parametern vid ett givet index.|
+| [get_param_value](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) |Hämtar det representerade värdeobjektet för parametern vid ett givet index.|
 | [get_param_text](/cells/python-net/sv/aspose.cellsgridjs/gridcalculationdata/get_param_text/#int) | Hämtar den bokstavliga texten för parametern vid ett givet index.|
 
 

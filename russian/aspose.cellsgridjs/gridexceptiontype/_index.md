@@ -39,7 +39,7 @@ is_root: false
 | PERMISSION | Для открытия этого файла требуется разрешение.|
 | UNSUPPORTED_FEATURE | Неподдерживаемая функция.|
 | UNSUPPORTED_STREAM | Неподдерживаемый поток, который нужно открыть.|
-| UNDISCLOSED_INFORMATION |Файлы содержат некоторую нераскрытую информацию.|
+| UNDISCLOSED_INFORMATION | Файлы содержат некоторую нераскрытую информацию.|
 
 
 

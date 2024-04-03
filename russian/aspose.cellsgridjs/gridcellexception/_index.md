@@ -20,7 +20,7 @@ is_root: false
 | :- | :- |
 | [code](/cells/python-net/ru/aspose.cellsgridjs/gridcellexception/code) | Представляет код исключения.|
 | [source](/cells/python-net/ru/aspose.cellsgridjs/gridcellexception/source) | Получает имя приложения или объекта, вызывающего ошибку.|
-| [stack_trace](/cells/python-net/ru/aspose.cellsgridjs/gridcellexception/stack_trace) |Получает строковое представление ближайших кадров в стеке вызовов.|
+| [stack_trace](/cells/python-net/ru/aspose.cellsgridjs/gridcellexception/stack_trace) | Получает строковое представление ближайших кадров в стеке вызовов.|
 
 
 ###  Методы

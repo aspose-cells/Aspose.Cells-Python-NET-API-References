@@ -29,7 +29,7 @@ def insert_image(self, uid, p, s, image_url):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | uid | str | La identificación única para el caché de archivos.|
-| p | str | La cadena de formato JSON para la operación que especifica la ubicación de la celda, el nombre de la hoja de trabajo, la fila superior izquierda, la columna superior izquierda de la imagen, etc. {nombre:'hoja1',ri:1,ci:1} |
+| p | str |La cadena de formato JSON para la operación que especifica la ubicación de la celda, el nombre de la hoja de trabajo, la fila superior izquierda, la columna superior izquierda de la imagen, etc. {nombre:'hoja1',ri:1,ci:1} |
 | s | io.RawIOBase | La secuencia de archivos del archivo de imagen.|
 | image_url | str | La URL del archivo de imagen.|
 

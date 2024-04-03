@@ -39,7 +39,7 @@ GridExceptionType türü aşağıdaki üyeleri ortaya çıkarır:
 | PERMISSION | Bu dosyayı açmak için izin gerekiyor.|
 | UNSUPPORTED_FEATURE | Desteklenmeyen özellik.|
 | UNSUPPORTED_STREAM | Desteklenmeyen akış açılacak.|
-| UNDISCLOSED_INFORMATION |Dosyalar bazı açıklanmayan bilgiler içeriyor.|
+| UNDISCLOSED_INFORMATION | Dosyalar bazı açıklanmayan bilgiler içeriyor.|
 
 
 

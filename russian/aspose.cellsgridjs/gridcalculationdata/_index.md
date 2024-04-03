@@ -23,7 +23,7 @@ is_root: false
 | [column](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata/column) | Получает индекс столбца Cell, в котором находится функция.|
 | [string_value](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata/string_value) | Получает Cell DisplayStringValue, в котором находится функция.|
 | [value](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata/value) | Получает значение Cell, в котором находится функция.|
-| [formula](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata/formula) |Получает формулу Cell, в которой находится функция.|
+| [formula](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata/formula) | Получает формулу Cell, в которой находится функция.|
 | [sheet_name](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata/sheet_name) | Получает имя листа, на котором находится функция.|
 | [function_name](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata/function_name) | Получает имя функции для вычисления.|
 | [param_count](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata/param_count) | Получает количество параметров.|
@@ -32,7 +32,7 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_param_value](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) | Получает представленный объект значения параметра по заданному индексу.|
+| [get_param_value](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) |Получает представленный объект значения параметра по заданному индексу.|
 | [get_param_text](/cells/python-net/ru/aspose.cellsgridjs/gridcalculationdata/get_param_text/#int) | Получает буквальный текст параметра по заданному индексу.|
 
 

@@ -24,7 +24,7 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [interrupt](/cells/python-net/ru/aspose.cellsgridjs/gridinterruptmonitor/interrupt/#) | Прервите текущий оператор.|
+| [interrupt](/cells/python-net/ru/aspose.cellsgridjs/gridinterruptmonitor/interrupt/#) |Прервите текущий оператор.|
 
 
 

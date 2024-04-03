@@ -9,7 +9,7 @@ is_root: false
 ---
 这**Aspose.Cells.GridJs**命名空间包含 GridJ 的所有类，这些类提供了管理电子表格的基本操作，而无需使用 Microsoft Excel 。
 
-### 课程
+### 类
 |类|描述|
 | :- | :- |
 | [`Config`](/cells/python-net/zh/aspose.cellsgridjs/config) |代表GridJs的所有设置|

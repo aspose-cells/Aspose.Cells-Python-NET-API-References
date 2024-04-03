@@ -39,7 +39,7 @@ is_root: false
 | PERMISSION | مطلوب إذن لفتح هذا الملف.|
 | UNSUPPORTED_FEATURE | ميزة غير مدعومة.|
 | UNSUPPORTED_STREAM | سيتم فتح الدفق غير المدعوم.|
-| UNDISCLOSED_INFORMATION |تحتوي الملفات على بعض المعلومات غير المفصح عنها.|
+| UNDISCLOSED_INFORMATION | تحتوي الملفات على بعض المعلومات غير المفصح عنها.|
 
 
 

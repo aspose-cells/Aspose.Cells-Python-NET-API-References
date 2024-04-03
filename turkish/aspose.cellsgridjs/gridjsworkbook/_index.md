@@ -18,7 +18,7 @@ GridJsWorkbook türü aşağıdaki üyeleri ortaya çıkarır:
 ###  İnşaatçılar
 | Oluşturucu| Tanım|
 | :- | :- |
-| [__init__](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/__init__/#) |GridJsWorkbook'un yeni bir örneğini oluşturur|
+| [__init__](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/__init__/#) | GridJsWorkbook'un yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
@@ -26,7 +26,7 @@ GridJsWorkbook türü aşağıdaki üyeleri ortaya çıkarır:
 | :- | :- |
 | [settings](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/settings) | Çalışma kitabı ayarlarını temsil eder.|
 | [cache_imp](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/cache_imp) | Önbellek depolama için özel uygulama, Önbelleği akış şeklinde depolamak istiyorsanız, bunu ayarlamanız ve uygulamanız gerekir.|
-| [calculate_engine](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/calculate_engine) | Hesaplama motoruna özel uygulama, Özel hesaplama yapmak istiyorsanız onu ayarlamanız ve uygulamanız gerekir.|
+| [calculate_engine](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/calculate_engine) |Hesaplama motoruna özel uygulama, Özel hesaplama yapmak istiyorsanız onu ayarlamanız ve uygulamanız gerekir.|
 
 
 ###  Yöntemler
@@ -42,10 +42,10 @@ GridJsWorkbook türü aşağıdaki üyeleri ortaya çıkarır:
 | [export_to_json](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/export_to_json/#str) | Belirtilen dosya adına sahip bellek verilerinden JSON biçim dizesini alır.|
 | [export_to_json](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/export_to_json/#) | Varsayılan boş elektronik tablo dosyasının JSON biçim dizesini alır.|
 | [save_to_excel_file](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/save_to_excel_file/#io.RawIOBase) | Bellek verilerini, kaynak dosya formatına göre sream'e kaydeder.|
-| [save_to_excel_file](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/save_to_excel_file/#str) |Bellek verilerini dosya yoluna kaydeder, eğer dosyanın uzantısı varsa, kaydetme formatı dosya uzantısına göre belirlenir.|
+| [save_to_excel_file](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/save_to_excel_file/#str) | Bellek verilerini dosya yoluna kaydeder, eğer dosyanın uzantısı varsa, kaydetme formatı dosya uzantısına göre belirlenir.|
 | [save_to_pdf](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/save_to_pdf/#str) | Bellek verilerini dosya yoluna kaydeder, kaydetme formatı pdf'tir.|
 | [save_to_pdf](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/save_to_pdf/#io.RawIOBase) | Bellek verilerini sream'e kaydeder, kaydetme formatı pdf'tir.|
-| [save_to_xlsx](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/save_to_xlsx/#str) | Bellek verilerini dosya yoluna kaydeder, kaydetme formatı xlsx'tir.|
+| [save_to_xlsx](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/save_to_xlsx/#str) |Bellek verilerini dosya yoluna kaydeder, kaydetme formatı xlsx'tir.|
 | [save_to_xlsx](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/save_to_xlsx/#io.RawIOBase) | Bellek verilerini sream'e kaydeder, kaydetme formatı xlsx'tir.|
 | [save_to_html](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/save_to_html/#str) | Bellek verilerini dosya yoluna kaydeder, kaydetme formatı html'dir.|
 | [save_to_html](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/save_to_html/#io.RawIOBase) | Bellek verilerini sream'e kaydeder, kaydetme formatı html'dir|
@@ -55,14 +55,12 @@ GridJsWorkbook türü aşağıdaki üyeleri ortaya çıkarır:
 | [merge_excel_file_from_json](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/merge_excel_file_from_json/#str-str) | Bellek verilerine toplu güncelleme uygular.|
 | [save_to_cache_with_file_name](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/save_to_cache_with_file_name/#str-str-str) | Bellek verilerini belirtilen dosya adıyla önbellek dosyasına kaydeder ve ayrıca açma parolasını ayarlar; kaydetme formatı, dosya adının dosya uzantısına bağlıdır.|
 | [get_image_stream](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/get_image_stream/#str-str) | Bellek verilerinden görüntü akışını alın.|
-| [get_ole](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/get_ole/#str-str-int-any) |Katıştırılmış ole nesnesinin bayt dizisi verilerini alır.|
+| [get_ole](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/get_ole/#str-str-int-any) | Katıştırılmış ole nesnesinin bayt dizisi verilerini alır.|
 | [update_cell](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/update_cell/#str-str) | Güncelleme işlemini uygular.|
-| [insert_image](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/insert_image/#str-str-io.RawIOBase-str) |
-<br/>veya /hücreler/
-<br/>sh/cells/n ekler, p.type AutoShapeType'tan biridir |
-| [copy_image_or_shape](//cells/ython-net/aspose.cellsgridjs/gridjsworkbook/copy_image_or_shape/#str-str) | Görüntüyü veya şekli kopyalar.|
-| [error_json](/gr/cells/hon-net/aspose.cellsgridjs/gridjsworkbook/error_json/#str) | Hata mesajı dizesini JSON biçiminde alır.|
-|  [get_grid_load_format/cells/s/python-net/aspose.cellsgridjs/gridjsworkbook/get_grid_load_format/#str)| Yük formatını dosya uzantısına göre alır|
+| [insert_image](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/insert_image/#str-str-io.RawIOBase-str) | Çalışma sayfasına dosya akışından veya URL'den resim ekler (dosya akışı veya URL sağlanacaktır)<br/>veya /hücreler/<br/>Sh/cells/n'yi ekler, p.type AutoShapeType'tan biridir|
+| [copy_image_or_shape](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/copy_image_or_shape/#str-str) | Görüntüyü veya şekli kopyalar.|
+| [error_json](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/error_json/#str) | Hata mesajı dizesini JSON biçiminde alır.|
+| [get_grid_load_format](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/get_grid_load_format/#str) | Yük formatını dosya uzantısına göre alır|
 | [get_image_url](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/get_image_url/#str-str-str) | Resim URL'sini alır.|
 | [set_image_url_base](/cells/python-net/tr/aspose.cellsgridjs/gridjsworkbook/set_image_url_base/#str) |  |
 

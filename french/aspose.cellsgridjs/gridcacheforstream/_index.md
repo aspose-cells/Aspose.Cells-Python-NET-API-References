@@ -19,7 +19,7 @@ Le type GridCacheForStream expose les membres suivants :
 | Méthode| Description|
 | :- | :- |
 | [save_stream](/cells/python-net/fr/aspose.cellsgridjs/gridcacheforstream/save_stream/#io.RawIOBase-str) | Implémente cette méthode pour sauvegarder le cache, enregistre le flux dans le cache avec l'uid de clé.|
-| [load_stream](/cells/python-net/fr/aspose.cellsgridjs/gridcacheforstream/load_stream/#str) | Implémente cette méthode pour charger le cache avec la clé uid, renvoyer le flux du cache.|
+| [load_stream](/cells/python-net/fr/aspose.cellsgridjs/gridcacheforstream/load_stream/#str) |Implémente cette méthode pour charger le cache avec la clé uid, renvoyer le flux du cache.|
 | [is_existed](/cells/python-net/fr/aspose.cellsgridjs/gridcacheforstream/is_existed/#str) | Vérifie si le cache avec l'uid existe|
 | [get_file_url](/cells/python-net/fr/aspose.cellsgridjs/gridcacheforstream/get_file_url/#str) | Implémente cette méthode pour obtenir l'URL du fichier du cache.|
 

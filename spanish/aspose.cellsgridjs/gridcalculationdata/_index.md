@@ -23,7 +23,7 @@ El tipo GridCalculationData expone los siguientes miembros:
 | [column](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/column) | Obtiene el índice de columna Cell donde se encuentra la función.|
 | [string_value](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/string_value) | Obtiene el Cell DisplayStringValue donde se encuentra la función.|
 | [value](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/value) | Obtiene el valor Cell donde se encuentra la función.|
-| [formula](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/formula) |Obtiene la fórmula Cell donde se encuentra la función.|
+| [formula](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/formula) | Obtiene la fórmula Cell donde se encuentra la función.|
 | [sheet_name](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/sheet_name) | Obtiene el nombre de la hoja de cálculo donde se encuentra la función.|
 | [function_name](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/function_name) | Obtiene el nombre de la función que se va a calcular.|
 | [param_count](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/param_count) | Obtiene el recuento de parámetros.|
@@ -32,7 +32,7 @@ El tipo GridCalculationData expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [get_param_value](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) | Obtiene el objeto de valor representado del parámetro en el índice dado.|
+| [get_param_value](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) |Obtiene el objeto de valor representado del parámetro en el índice dado.|
 | [get_param_text](/cells/python-net/es/aspose.cellsgridjs/gridcalculationdata/get_param_text/#int) | Obtiene el texto literal del parámetro en el índice determinado.|
 
 

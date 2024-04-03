@@ -23,7 +23,7 @@ Der Typ GridCalculationData macht die folgenden Member verfügbar:
 | [column](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata/column) | Ruft den Spaltenindex Cell ab, in dem sich die Funktion befindet.|
 | [string_value](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata/string_value) | Ruft den Cell DisplayStringValue ab, in dem sich die Funktion befindet.|
 | [value](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata/value) | Ruft den Wert Cell ab, in dem sich die Funktion befindet.|
-| [formula](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata/formula) |Ruft die Formel Cell ab, in der sich die Funktion befindet.|
+| [formula](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata/formula) | Ruft die Formel Cell ab, in der sich die Funktion befindet.|
 | [sheet_name](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata/sheet_name) | Ruft den Namen des Arbeitsblatts ab, in dem sich die Funktion befindet.|
 | [function_name](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata/function_name) | Ruft den zu berechnenden Funktionsnamen ab.|
 | [param_count](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata/param_count) | Ruft die Anzahl der Parameter ab.|
@@ -32,7 +32,7 @@ Der Typ GridCalculationData macht die folgenden Member verfügbar:
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_param_value](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) | Ruft das dargestellte Wertobjekt des Parameters am angegebenen Index ab.|
+| [get_param_value](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) |Ruft das dargestellte Wertobjekt des Parameters am angegebenen Index ab.|
 | [get_param_text](/cells/python-net/de/aspose.cellsgridjs/gridcalculationdata/get_param_text/#int) | Ruft den Literaltext des Parameters am angegebenen Index ab.|
 
 

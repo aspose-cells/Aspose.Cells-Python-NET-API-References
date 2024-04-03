@@ -57,12 +57,10 @@ GridJsWorkbook 类型公开以下成员：
 | [get_image_stream](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/get_image_stream/#str-str) |从内存数据中获取图像流。|
 | [get_ole](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/get_ole/#str-str-int-any) |获取嵌入的 ole 对象的字节数组数据。|
 | [update_cell](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/update_cell/#str-str) |应用更新操作。|
-| [insert_image](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/insert_image/#str-str-io.RawIOBase-str) |
-<br/>或/细胞/
-<br/>插入 sh/cells/n p.type 是 AutoShapeType | 之一
-| [copy_image_or_shape](//cells/ython-net/aspose.cellsgridjs/gridjsworkbook/copy_image_or_shape/#str-str) |复制图像或形状。|
-| [error_json](/gr/cells/hon-net/aspose.cellsgridjs/gridjsworkbook/error_json/#str) |获取 JSON 格式的错误消息字符串。|
-|  [get_grid_load_format/cells/s/python-net/aspose.cellsgridjs/gridjsworkbook/get_grid_load_format/#str)|通过文件扩展名获取加载格式|
+| [insert_image](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/insert_image/#str-str-io.RawIOBase-str) |从文件流或 URL 插入工作表中的图像（应提供文件流或 URL）<br/>或/细胞/<br/>插入 sh/cells/n p.type 是 AutoShapeType 之一|
+| [copy_image_or_shape](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/copy_image_or_shape/#str-str) |复制图像或形状。|
+| [error_json](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/error_json/#str) |获取 JSON 格式的错误消息字符串。|
+| [get_grid_load_format](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/get_grid_load_format/#str) |通过文件扩展名获取加载格式|
 | [get_image_url](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/get_image_url/#str-str-str) |获取图像 URL。|
 | [set_image_url_base](/cells/python-net/zh/aspose.cellsgridjs/gridjsworkbook/set_image_url_base/#str) |  |
 
