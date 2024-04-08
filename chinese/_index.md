@@ -38,5 +38,5 @@ is_root: true
 | [`aspose.cells.utility`](/cells/python-net/zh/aspose.cells.utility) |这**Aspose.Cells.Utility**命名空间包含处理 Excel 电子表格文件的 JSON 格式的实用程序类。|
 | [`aspose.cells.vba`](/cells/python-net/zh/aspose.cells.vba) |这**Aspose.Cells.Vba**命名空间包含用于访问 Excel 电子表格文件中的 Visual Basic Analysis 项目和模块的类。|
 | [`aspose.cells.webextensions`](/cells/python-net/zh/aspose.cells.webextensions) |这**Aspose.Cells.WebExtensions**命名空间包含用于访问 Excel 文件中的 Office 加载项的类。|
-
+| [`aspose.cellsgridjs`](/cells/python-net/zh/aspose.cellsgridjs) |这**Aspose.Cells.GridJs**命名空间包含 GridJ 的所有类，这些类提供了管理电子表格的基本操作，而无需使用 Microsoft Excel 。|
 

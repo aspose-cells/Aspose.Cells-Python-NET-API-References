@@ -58,12 +58,10 @@ The GridJsWorkbook type exposes the following members:
 | [get_image_stream](/cells/python-net/aspose.cellsgridjs/gridjsworkbook/get_image_stream/#str-str) | Get Stream of image from memory data. |
 | [get_ole](/cells/python-net/aspose.cellsgridjs/gridjsworkbook/get_ole/#str-str-int-any) | Gets the byte array data of the  embedded ole object . |
 | [update_cell](/cells/python-net/aspose.cellsgridjs/gridjsworkbook/update_cell/#str-str) | Applies the update operation. |
-| [insert_image](/cells/python-net/aspose.cellsgridjs/gridjsworkbook/insert_image/#str-str-io.RawIOBase-str) | Inserts image in the worksheet from file stream or the URL,(either the file stream or the URL shall be provided)
-<br/>or /cells/
-<br/>Inserts sh/cells/n the p.type is one of AutoShapeType |
-| [copy_image_or_shape](//cells/ython-net/aspose.cellsgridjs/gridjsworkbook/copy_image_or_shape/#str-str) | Copys image or shape. |
-| [error_json](/gr/cells/hon-net/aspose.cellsgridjs/gridjsworkbook/error_json/#str) | Gets the error message string in JSON format. |
-| [get_grid_load_format/cells/s/python-net/aspose.cellsgridjs/gridjsworkbook/get_grid_load_format/#str) | Gets the load format by file extension |
+| [insert_image](/cells/python-net/aspose.cellsgridjs/gridjsworkbook/insert_image/#str-str-io.RawIOBase-str) | Inserts image in the worksheet from file stream or the URL,(either the file stream or the URL shall be provided)<br/>or /cells/<br/>Inserts sh/cells/n the p.type is one of AutoShapeType |
+| [copy_image_or_shape](/cells/python-net/aspose.cellsgridjs/gridjsworkbook/copy_image_or_shape/#str-str) | Copys image or shape. |
+| [error_json](/cells/python-net/aspose.cellsgridjs/gridjsworkbook/error_json/#str) | Gets the error message string in JSON format. |
+| [get_grid_load_format](/cells/python-net/aspose.cellsgridjs/gridjsworkbook/get_grid_load_format/#str) | Gets the load format by file extension |
 | [get_image_url](/cells/python-net/aspose.cellsgridjs/gridjsworkbook/get_image_url/#str-str-str) | Gets the image URL. |
 | [set_image_url_base](/cells/python-net/aspose.cellsgridjs/gridjsworkbook/set_image_url_base/#str) |  |
 
