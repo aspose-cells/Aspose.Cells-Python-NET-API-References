@@ -34,6 +34,7 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotTableCollection`](/cells/python-net/aspose.cells.pivot/pivottablecollection) | Represents the collection of all the PivotTable objects on the specified worksheet. |
 | [`PivotTableFormat`](/cells/python-net/aspose.cells.pivot/pivottableformat) | Represents the format defined in the PivotTable. |
 | [`PivotTableFormatCollection`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection) | Represents the collection of formats applied to PivotTable. |
+| [`PivotTableRefreshOption`](/cells/python-net/aspose.cells.pivot/pivottablerefreshoption) | Represents the options of refreshing data source of the pivot table. |
 | [`SxRng`](/cells/python-net/aspose.cells.pivot/sxrng) |  |
 
 
@@ -54,5 +55,6 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotTableAutoFormatType`](/cells/python-net/aspose.cells.pivot/pivottableautoformattype) | Represents PivotTable auto format type. |
 | [`PivotTableSelectionType`](/cells/python-net/aspose.cells.pivot/pivottableselectiontype) | Specifies what can be selected in a PivotTable during a structured selection.<br/>These constants can be combined to select multiple types. |
 | [`PivotTableStyleType`](/cells/python-net/aspose.cells.pivot/pivottablestyletype) | Represents the pivot table style type. |
+| [`ReserveMissingPivotItemType`](/cells/python-net/aspose.cells.pivot/reservemissingpivotitemtype) | Represents how to keep the missing pivot items. |
 
 

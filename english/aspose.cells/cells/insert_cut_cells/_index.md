@@ -3,7 +3,7 @@ title: insert_cut_cells method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 700
 url: /aspose.cells/cells/insert_cut_cells/
 is_root: false
 ---

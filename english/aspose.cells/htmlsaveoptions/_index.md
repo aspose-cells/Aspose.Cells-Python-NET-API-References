@@ -3,7 +3,7 @@ title: HtmlSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 810
+weight: 820
 url: /aspose.cells/htmlsaveoptions/
 is_root: false
 ---
@@ -80,7 +80,7 @@ The HtmlSaveOptions type exposes the following members:
 | [export_worksheet_css_separately](/cells/python-net/aspose.cells/htmlsaveoptions/export_worksheet_css_separately) | Indicating whether export the worksheet css separately.The default value is false. |
 | [export_similar_border_style](/cells/python-net/aspose.cells/htmlsaveoptions/export_similar_border_style) | Indicating whether exporting the similar border style when the border style is not supported by browsers.<br/>If you want to import the html or mht file to excel, please keep the default value.<br/>The default value is false. |
 | [merge_empty_td_forcely](/cells/python-net/aspose.cells/htmlsaveoptions/merge_empty_td_forcely) | Indicates whether merging empty TD element forcedly when exporting file to html. <br/>The size of html file will be reduced significantly after setting value to true. The default value is false. <br/>If you want to import the html file to excel or export perfect grid lines when saving file to html, <br/>please keep the default value. |
-| [merge_empty_td_type](/cells/python-net/aspose.cells/htmlsaveoptions/merge_empty_td_type) | Indicates if empty TD element will be merged in the same way as MS Excel when saving an Excel file in html format.<br/>The default value is MergeEmptyTdType.Default. |
+| [merge_empty_td_type](/cells/python-net/aspose.cells/htmlsaveoptions/merge_empty_td_type) | The option to merge contiguous empty cells(empty td elements)<br/>The default value is MergeEmptyTdType.Default. |
 | [export_cell_coordinate](/cells/python-net/aspose.cells/htmlsaveoptions/export_cell_coordinate) | Indicates whether exporting excel coordinate of nonblank cells when saving file to html. The default value is false.<br/>If you want to import the output html to excel, please keep the default value. |
 | [export_extra_headings](/cells/python-net/aspose.cells/htmlsaveoptions/export_extra_headings) | Indicates whether exporting extra headings when the length of text is longer than max display column.<br/>The default value is false. If you want to import the html file to excel, please keep the default value. |
 | [export_headings](/cells/python-net/aspose.cells/htmlsaveoptions/export_headings) | Indicates whether exports sheet's row and column headings when saving to HTML files. |
@@ -102,6 +102,7 @@ The HtmlSaveOptions type exposes the following members:
 | [is_js_browser_compatible](/cells/python-net/aspose.cells/htmlsaveoptions/is_js_browser_compatible) | Indicates whether JavaScript is compatible with browsers that do not support JavaScript. <br/>The default value is true. |
 | [is_mobile_compatible](/cells/python-net/aspose.cells/htmlsaveoptions/is_mobile_compatible) | Indicates whether the output HTML is compatible with mobile devices. <br/>The default value is false. |
 | [css_styles](/cells/python-net/aspose.cells/htmlsaveoptions/css_styles) | Gets or sets the additional css styles for the formatter.<br/>Only works when [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/aspose.cells/htmlsaveoptions#save_as_single_file) is True.<br/><br/>CssStyles="body { padding: 5px }"; |
+| [hide_overflow_wrapped_text](/cells/python-net/aspose.cells/htmlsaveoptions/hide_overflow_wrapped_text) | Indicates whether to hide overflow text when the cell format is set to wrap text.<br/>The default value is false |
 
 
 

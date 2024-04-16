@@ -150,6 +150,7 @@ The Cells type exposes the following members:
 | [set_row_height_inch](/cells/python-net/aspose.cells/cells/set_row_height_inch/#int-float) | Sets row height in unit of inches. |
 | [set_row_height](/cells/python-net/aspose.cells/cells/set_row_height/#int-float) | Sets the height of the specified row. |
 | [get_row_original_height_point](/cells/python-net/aspose.cells/cells/get_row_original_height_point/#int) | Gets original row's height in unit of point if the row is hidden |
+| [get_column_original_width_point](/cells/python-net/aspose.cells/cells/get_column_original_width_point/#int) | Gets original column's height in unit of point if the column is hidden |
 | [hide_column](/cells/python-net/aspose.cells/cells/hide_column/#int) | Hides a column. |
 | [unhide_column](/cells/python-net/aspose.cells/cells/unhide_column/#int-float) | Unhides a column |
 | [hide_columns](/cells/python-net/aspose.cells/cells/hide_columns/#int-int) | Hide multiple columns. |

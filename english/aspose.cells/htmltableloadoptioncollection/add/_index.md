@@ -52,6 +52,28 @@ def add(self, table_index):
 | table_index | int | Table index |
 
 
+## add {#str}
+
+Add a HtmlTableLoadOption to the list.
+
+
+### Returns 
+
+
+
+
+
+```python
+def add(self, table_id):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| table_id | str | Table ID |
+
+
 ## add {#int-int}
 
 Add a HtmlTableLoadOption to the list.
@@ -67,7 +89,30 @@ def add(self, table_index, target_sheet_index):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | table_index | int | Table index |
-| target_sheet_index | int | Worksheet index |
+| target_sheet_index | int | The target index of worksheet in Excel |
+
+
+## add {#str-int}
+
+Add a HtmlTableLoadOption to the list.
+
+
+### Returns 
+
+
+
+
+
+```python
+def add(self, table_id, target_sheet_index):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| table_id | str | Table ID |
+| target_sheet_index | int | The target index of worksheet in Excel |
 
 
 ## add {#int-int-int}
@@ -85,7 +130,31 @@ def add(self, table_index, target_sheet_index, original_sheet_index):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | table_index | int | Table index |
-| target_sheet_index | int | The target index of worksheet where table to export to |
+| target_sheet_index | int | The target index of worksheet in Excel |
+| original_sheet_index | int | The original index of worksheet in the html |
+
+
+## add {#str-int-int}
+
+Add a HtmlTableLoadOption to the list.
+
+
+### Returns 
+
+
+
+
+
+```python
+def add(self, table_id, target_sheet_index, original_sheet_index):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| table_id | str | Table ID |
+| target_sheet_index | int | The target index of worksheet in Excel |
 | original_sheet_index | int | The original index of worksheet in the html |
 
 

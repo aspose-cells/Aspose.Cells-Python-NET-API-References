@@ -3,7 +3,7 @@ title: ColorType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1930
+weight: 1960
 url: /aspose.cells/colortype/
 is_root: false
 ---

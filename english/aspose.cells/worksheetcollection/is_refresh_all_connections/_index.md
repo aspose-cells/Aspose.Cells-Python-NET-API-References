@@ -3,7 +3,7 @@ title: is_refresh_all_connections property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 330
 url: /aspose.cells/worksheetcollection/is_refresh_all_connections/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: ProtectedRangeCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1250
+weight: 1260
 url: /aspose.cells/protectedrangecollection/
 is_root: false
 ---

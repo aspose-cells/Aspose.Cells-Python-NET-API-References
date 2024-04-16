@@ -3,7 +3,7 @@ title: TxtSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1590
+weight: 1620
 url: /aspose.cells/txtsaveoptions/
 is_root: false
 ---
