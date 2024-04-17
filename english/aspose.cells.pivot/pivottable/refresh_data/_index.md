@@ -25,6 +25,23 @@ def refresh_data(self):
 We will gather data from data source to a pivot cache ,then calculate the data in the cache to the cells.
 This method is only used to gather all data to a pivot cache.
 
+## refresh_data {#aspose.cells.pivot.PivotTableRefreshOption}
+
+Refreshes pivottable's data and setting from it's data source with options.
+
+
+
+```python
+def refresh_data(self, option):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| option | [`PivotTableRefreshOption`](/cells/python-net/aspose.cells.pivot/pivottablerefreshoption) | The options for refreshing data source of pivot table. |
+
+
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)

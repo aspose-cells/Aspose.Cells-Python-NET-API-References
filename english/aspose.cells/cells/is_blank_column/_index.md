@@ -3,7 +3,7 @@ title: is_blank_column method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 740
 url: /aspose.cells/cells/is_blank_column/
 is_root: false
 ---

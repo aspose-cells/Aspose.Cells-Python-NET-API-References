@@ -3,7 +3,7 @@ title: SvgSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1490
+weight: 1500
 url: /aspose.cells/svgsaveoptions/
 is_root: false
 ---

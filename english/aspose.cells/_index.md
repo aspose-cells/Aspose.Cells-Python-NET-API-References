@@ -63,6 +63,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`DataSorterKeyCollection`](/cells/python-net/aspose.cells/datasorterkeycollection) | Represents the key list of data sorter. |
 | [`DateTimeGroupItem`](/cells/python-net/aspose.cells/datetimegroupitem) | Represents the datetime's group setting. |
 | [`DefaultStyleSettings`](/cells/python-net/aspose.cells/defaultstylesettings) | Settings for the default values of workbook's style properties. |
+| [`DeleteBlankOptions`](/cells/python-net/aspose.cells/deleteblankoptions) | Represents the setting of deleting blank cells/rows/columns. |
 | [`DeleteOptions`](/cells/python-net/aspose.cells/deleteoptions) | Represents the setting of deleting rows/columns. |
 | [`DifSaveOptions`](/cells/python-net/aspose.cells/difsaveoptions) | Represents the options of saving dif file. |
 | [`DocxSaveOptions`](/cells/python-net/aspose.cells/docxsaveoptions) | Represents options of saving .docx file. |
@@ -164,7 +165,9 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`StyleFlag`](/cells/python-net/aspose.cells/styleflag) | Represents flags which indicates applied formatting properties. |
 | [`SubtotalSetting`](/cells/python-net/aspose.cells/subtotalsetting) | Represents the setting of the subtotal . |
 | [`SvgSaveOptions`](/cells/python-net/aspose.cells/svgsaveoptions) |  |
+| [`SystemTimeInterruptMonitor`](/cells/python-net/aspose.cells/systemtimeinterruptmonitor) | Simple implementation of [`AbstractInterruptMonitor`](/cells/python-net/aspose.cells/abstractinterruptmonitor) by checking and comparing current system time with user specified limit. |
 | [`ThemeColor`](/cells/python-net/aspose.cells/themecolor) | Represents a theme color. |
+| [`ThreadInterruptMonitor`](/cells/python-net/aspose.cells/threadinterruptmonitor) | Simple implementation of [`AbstractInterruptMonitor`](/cells/python-net/aspose.cells/abstractinterruptmonitor) by starting another thread to require the interruption after sleeping user specified limit. |
 | [`ThreadedComment`](/cells/python-net/aspose.cells/threadedcomment) | Represents the threaded comment. |
 | [`ThreadedCommentAuthor`](/cells/python-net/aspose.cells/threadedcommentauthor) | Represents the person who creates the threaded comments; |
 | [`ThreadedCommentAuthorCollection`](/cells/python-net/aspose.cells/threadedcommentauthorcollection) | Represents all persons who . |

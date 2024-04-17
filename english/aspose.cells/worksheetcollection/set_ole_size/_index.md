@@ -3,7 +3,7 @@ title: set_ole_size method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 220
 url: /aspose.cells/worksheetcollection/set_ole_size/
 is_root: false
 ---

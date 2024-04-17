@@ -3,7 +3,7 @@ title: FileFormatType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2110
+weight: 2140
 url: /aspose.cells/fileformattype/
 is_root: false
 ---
@@ -83,6 +83,7 @@ The FileFormatType type exposes the following members:
 | JPG | JPEG JFIF. |
 | PNG | Portable Network Graphics. |
 | GIF | Gif |
+| WEB_P | Webp |
 | JSON | Json |
 | SQL_SCRIPT | Sql |
 | X_HTML | Rrepesents XHtml file. |

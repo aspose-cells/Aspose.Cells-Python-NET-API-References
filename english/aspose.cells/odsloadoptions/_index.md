@@ -3,7 +3,7 @@ title: OdsLoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1140
+weight: 1150
 url: /aspose.cells/odsloadoptions/
 is_root: false
 ---

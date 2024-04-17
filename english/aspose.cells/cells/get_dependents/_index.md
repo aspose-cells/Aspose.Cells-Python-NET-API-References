@@ -3,7 +3,7 @@ title: get_dependents method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /aspose.cells/cells/get_dependents/
 is_root: false
 ---

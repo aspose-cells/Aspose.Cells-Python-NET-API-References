@@ -3,7 +3,7 @@ title: PdfSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1220
+weight: 1230
 url: /aspose.cells/pdfsaveoptions/
 is_root: false
 ---
@@ -75,6 +75,7 @@ The PdfSaveOptions type exposes the following members:
 | [display_doc_title](/cells/python-net/aspose.cells/pdfsaveoptions/display_doc_title) | Indicates whether the window's title bar should display the document title. |
 | [font_encoding](/cells/python-net/aspose.cells/pdfsaveoptions/font_encoding) | Gets or sets embedded font encoding in pdf. |
 | [watermark](/cells/python-net/aspose.cells/pdfsaveoptions/watermark) | Gets or sets watermark to output. |
+| [embed_attachments](/cells/python-net/aspose.cells/pdfsaveoptions/embed_attachments) | Indicates whether to embed attachment for Ole objects in Excel. |
 
 
 ### Methods

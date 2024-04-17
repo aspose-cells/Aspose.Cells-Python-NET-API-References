@@ -3,7 +3,7 @@ title: Worksheet class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1690
+weight: 1720
 url: /aspose.cells/worksheet/
 is_root: false
 ---
@@ -47,7 +47,6 @@ The Worksheet type exposes the following members:
 | [transition_entry](/cells/python-net/aspose.cells/worksheet/transition_entry) | Indicates whether the Transition Formula Entry (Lotus compatibility) option is enabled. |
 | [visibility_type](/cells/python-net/aspose.cells/worksheet/visibility_type) | Indicates the visible state for this sheet. |
 | [is_visible](/cells/python-net/aspose.cells/worksheet/is_visible) | Represents if the worksheet is visible. |
-| [sparkline_group_collection](/cells/python-net/aspose.cells/worksheet/sparkline_group_collection) | Gets the sparkline group collection in the worksheet. |
 | [sparkline_groups](/cells/python-net/aspose.cells/worksheet/sparkline_groups) | Gets the sparkline groups in the worksheet. |
 | [charts](/cells/python-net/aspose.cells/worksheet/charts) | Gets a [`Chart`](/cells/python-net/aspose.cells.charts/chart) collection |
 | [comments](/cells/python-net/aspose.cells/worksheet/comments) | Gets the [`Comment`](/cells/python-net/aspose.cells/comment) collection. |
@@ -116,6 +115,8 @@ The Worksheet type exposes the following members:
 | [calculate_array_formula](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#str-aspose.cells.CalculationOptions) | Calculates a formula as array formula. |
 | [calculate_array_formula](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#str-aspose.cells.CalculationOptions-int-int) | Calculates a formula as array formula. |
 | [calculate_array_formula](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-int-int-aspose.cells.CalculationData) | Calculates a formula as array formula. |
+| [refresh_pivot_tables](/cells/python-net/aspose.cells/worksheet/refresh_pivot_tables/#) | Refreshes all the PivotTables in this Worksheet. |
+| [refresh_pivot_tables](/cells/python-net/aspose.cells/worksheet/refresh_pivot_tables/#aspose.cells.pivot.PivotTableRefreshOption) | Refreshes all the PivotTables in this Worksheet. |
 | [get_panes](/cells/python-net/aspose.cells/worksheet/get_panes/#) | Gets the window panes. |
 | [get_freezed_panes](/cells/python-net/aspose.cells/worksheet/get_freezed_panes/#any-any-any-any) | Gets the freeze panes. |
 | [split](/cells/python-net/aspose.cells/worksheet/split/#) | Splits window. |
@@ -126,18 +127,17 @@ The Worksheet type exposes the following members:
 | [remove_auto_filter](/cells/python-net/aspose.cells/worksheet/remove_auto_filter/#) | Removes the auto filter of the worksheet. |
 | [set_visible](/cells/python-net/aspose.cells/worksheet/set_visible/#bool-bool) | Sets the visible options. |
 | [select_range](/cells/python-net/aspose.cells/worksheet/select_range/#int-int-int-int-bool) | Selects a range. |
+| [remove](/cells/python-net/aspose.cells/worksheet/remove/#) | Remove current sheet (CELLSPYTHONNET-192,User requests to add this API) |
 | [remove_all_drawing_objects](/cells/python-net/aspose.cells/worksheet/remove_all_drawing_objects/#) | Removes all drawing objects in this worksheet. |
 | [clear_comments](/cells/python-net/aspose.cells/worksheet/clear_comments/#) | Clears all comments in designer spreadsheet. |
 | [move_to](/cells/python-net/aspose.cells/worksheet/move_to/#int) | Moves the sheet to another location in the spreadsheet. |
 | [replace](/cells/python-net/aspose.cells/worksheet/replace/#str-str) | Replaces all cells' text with a new string. |
 | [get_selected_ranges](/cells/python-net/aspose.cells/worksheet/get_selected_ranges/#) | Gets selected ranges of cells in the designer spreadsheet. |
-| [set_background](/cells/python-net/aspose.cells/worksheet/set_background/#bytes) | Sets worksheet background image. |
 | [get_printing_page_breaks](/cells/python-net/aspose.cells/worksheet/get_printing_page_breaks/#aspose.cells.rendering.ImageOrPrintOptions) | Gets automatic page breaks. |
 | [start_access_cache](/cells/python-net/aspose.cells/worksheet/start_access_cache/#aspose.cells.AccessCacheOptions) | Starts the session that uses caches to access the data in this worksheet. |
 | [close_access_cache](/cells/python-net/aspose.cells/worksheet/close_access_cache/#aspose.cells.AccessCacheOptions) | Closes the session that uses caches to access the data in this worksheet. |
 | [convert_formula_reference_style](/cells/python-net/aspose.cells/worksheet/convert_formula_reference_style/#str-bool-int-int) | Converts the formula reference style. |
 | [xml_map_query](/cells/python-net/aspose.cells/worksheet/xml_map_query/#str-aspose.cells.XmlMap) | Query cell areas that mapped/linked to the specific path of xml map. |
-| [refresh_pivot_tables](/cells/python-net/aspose.cells/worksheet/refresh_pivot_tables/#) | Refreshes all the PivotTables in this Worksheet. |
 
 
 

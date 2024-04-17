@@ -3,7 +3,7 @@ title: import_csv method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 620
+weight: 630
 url: /aspose.cells/cells/import_csv/
 is_root: false
 ---

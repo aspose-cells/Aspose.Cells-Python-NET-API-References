@@ -3,7 +3,7 @@ title: DataBarFillType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1990
+weight: 2020
 url: /aspose.cells/databarfilltype/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: FormulaSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 750
+weight: 760
 url: /aspose.cells/formulasettings/
 is_root: false
 ---

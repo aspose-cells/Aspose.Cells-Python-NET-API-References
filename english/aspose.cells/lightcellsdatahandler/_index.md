@@ -3,7 +3,7 @@ title: LightCellsDataHandler class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1030
+weight: 1040
 url: /aspose.cells/lightcellsdatahandler/
 is_root: false
 ---

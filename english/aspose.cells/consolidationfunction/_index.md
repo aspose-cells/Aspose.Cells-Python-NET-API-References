@@ -3,7 +3,7 @@ title: ConsolidationFunction enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1940
+weight: 1970
 url: /aspose.cells/consolidationfunction/
 is_root: false
 ---

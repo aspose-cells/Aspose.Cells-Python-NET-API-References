@@ -3,7 +3,7 @@ title: active_sheet_index property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 260
 url: /aspose.cells/worksheetcollection/active_sheet_index/
 is_root: false
 ---

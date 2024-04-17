@@ -3,7 +3,7 @@ title: PptxSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1230
+weight: 1240
 url: /aspose.cells/pptxsaveoptions/
 is_root: false
 ---
