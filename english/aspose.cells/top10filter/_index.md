@@ -3,7 +3,7 @@ title: Top10Filter class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1590
+weight: 1600
 url: /aspose.cells/top10filter/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: Range class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1300
+weight: 1310
 url: /aspose.cells/range/
 is_root: false
 ---
@@ -59,6 +59,7 @@ The Range type exposes the following members:
 | [is_intersect](/cells/python-net/aspose.cells/range/is_intersect/#aspose.cells.Range) | Indicates whether the range is intersect. |
 | [intersect](/cells/python-net/aspose.cells/range/intersect/#aspose.cells.Range) | Returns a [`Range`](/cells/python-net/aspose.cells/range) object that represents the rectangular intersection of two ranges. |
 | [union_rang](/cells/python-net/aspose.cells/range/union_rang/#aspose.cells.Range) | Returns the union result of two ranges. |
+| [union_ranges](/cells/python-net/aspose.cells/range/union_ranges/#list) | Returns the union result of two ranges. |
 | [union](/cells/python-net/aspose.cells/range/union/#aspose.cells.Range) | Returns the union of two ranges. |
 | [is_blank](/cells/python-net/aspose.cells/range/is_blank/#) | Indicates whether the range contains values. |
 | [merge](/cells/python-net/aspose.cells/range/merge/#) | Combines a range of cells into a single cell. |
@@ -70,6 +71,7 @@ The Range type exposes the following members:
 | [copy_data](/cells/python-net/aspose.cells/range/copy_data/#aspose.cells.Range) | Copies cell data (including formulas) from a source range. |
 | [copy_value](/cells/python-net/aspose.cells/range/copy_value/#aspose.cells.Range) | Copies cell value from a source range. |
 | [copy_style](/cells/python-net/aspose.cells/range/copy_style/#aspose.cells.Range) | Copies style settings from a source range. |
+| [transpose](/cells/python-net/aspose.cells/range/transpose/#) | Transpose (rotate) data from rows to columns or vice versa. |
 | [get_cell_or_null](/cells/python-net/aspose.cells/range/get_cell_or_null/#int-int) | Gets [`Cell`](/cells/python-net/aspose.cells/cell) object or null in this range. |
 | [get_offset](/cells/python-net/aspose.cells/range/get_offset/#int-int) | Gets [`Range`](/cells/python-net/aspose.cells/range) range by offset. |
 

@@ -3,7 +3,7 @@ title: Border class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /aspose.cells/border/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: hide_rows method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 590
 url: /aspose.cells/cells/hide_rows/
 is_root: false
 ---

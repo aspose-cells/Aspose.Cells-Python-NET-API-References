@@ -57,6 +57,44 @@ The SparklineGroup type exposes the following members:
 
 
 
+### Example 
+
+
+```python
+from aspose.cells import CellArea, SaveFormat, Workbook
+from aspose.cells.charts import SparklineType
+from aspose.pydrawing import Color
+
+book = Workbook()
+sheet = book.worksheets[0]
+sheet.cells.get("A1").put_value(5)
+sheet.cells.get("B1").put_value(2)
+sheet.cells.get("C1").put_value(1)
+sheet.cells.get("D1").put_value(3)
+#  Define the CellArea
+ca = CellArea()
+ca.start_column = 4
+ca.end_column = 4
+ca.start_row = 0
+ca.end_row = 0
+idx = sheet.sparkline_groups.add(SparklineType.LINE, "A1:D1", False, ca)
+group = sheet.sparkline_groups[idx]
+group.sparklines.add(sheet.name + "!A1:D1", 0, 4)
+#  Create CellsColor
+clr = book.create_cells_color()
+clr.color = Color.orange
+group.series_color = clr
+#  set the high points are colored green and the low points are colored red
+group.show_high_point = True
+group.show_low_point = True
+group.high_point_color.color = Color.green
+group.low_point_color.color = Color.red
+#  set line weight
+group.line_weight = 1.0
+book.save("output.xlsx", SaveFormat.XLSX)
+
+```
+
 ### See Also
 * module [`aspose.cells.charts`](..)
 * class [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline)

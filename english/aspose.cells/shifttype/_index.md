@@ -3,7 +3,7 @@ title: ShiftType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2590
+weight: 2610
 url: /aspose.cells/shifttype/
 is_root: false
 ---

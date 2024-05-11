@@ -3,7 +3,7 @@ title: BorderType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1890
+weight: 1900
 url: /aspose.cells/bordertype/
 is_root: false
 ---

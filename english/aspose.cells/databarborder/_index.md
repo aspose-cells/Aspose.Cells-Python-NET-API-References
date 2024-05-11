@@ -3,7 +3,7 @@ title: DataBarBorder class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /aspose.cells/databarborder/
 is_root: false
 ---

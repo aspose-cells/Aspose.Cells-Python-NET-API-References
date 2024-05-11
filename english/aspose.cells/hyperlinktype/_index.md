@@ -3,7 +3,7 @@ title: HyperlinkType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2290
+weight: 2310
 url: /aspose.cells/hyperlinktype/
 is_root: false
 ---

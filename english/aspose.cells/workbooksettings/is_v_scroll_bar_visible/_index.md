@@ -3,7 +3,7 @@ title: is_v_scroll_bar_visible property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells/workbooksettings/is_v_scroll_bar_visible/
 is_root: false
 ---

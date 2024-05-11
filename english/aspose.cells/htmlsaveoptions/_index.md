@@ -3,7 +3,7 @@ title: HtmlSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 820
+weight: 830
 url: /aspose.cells/htmlsaveoptions/
 is_root: false
 ---
@@ -47,6 +47,7 @@ The HtmlSaveOptions type exposes the following members:
 | [attached_files_directory](/cells/python-net/aspose.cells/htmlsaveoptions/attached_files_directory) | The directory that the attached files will be saved to.<br/>Only for saving to html stream. |
 | [attached_files_url_prefix](/cells/python-net/aspose.cells/htmlsaveoptions/attached_files_url_prefix) | Specify the Url prefix of attached files such as image in the html file.<br/>Only for saving to html stream. |
 | [default_font_name](/cells/python-net/aspose.cells/htmlsaveoptions/default_font_name) | Specify the default font name for exporting html, the default font will be used  when the font of style is not existing,<br/>If this property is null, Aspose.Cells will use universal font which have the same family with the original font,<br/>the default value is null. |
+| [add_generic_font](/cells/python-net/aspose.cells/htmlsaveoptions/add_generic_font) | Indicates whether to add a generic font to CSS font-family.<br/>The default value is true |
 | [worksheet_scalable](/cells/python-net/aspose.cells/htmlsaveoptions/worksheet_scalable) | Indicates if zooming in or out the html via worksheet zoom level when saving file to html, the default value is false. |
 | [is_export_comments](/cells/python-net/aspose.cells/htmlsaveoptions/is_export_comments) | Indicates if exporting comments when saving file to html, the default value is false. |
 | [export_comments_type](/cells/python-net/aspose.cells/htmlsaveoptions/export_comments_type) | Represents type of exporting comments to html files. |
@@ -103,6 +104,7 @@ The HtmlSaveOptions type exposes the following members:
 | [is_mobile_compatible](/cells/python-net/aspose.cells/htmlsaveoptions/is_mobile_compatible) | Indicates whether the output HTML is compatible with mobile devices. <br/>The default value is false. |
 | [css_styles](/cells/python-net/aspose.cells/htmlsaveoptions/css_styles) | Gets or sets the additional css styles for the formatter.<br/>Only works when [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/aspose.cells/htmlsaveoptions#save_as_single_file) is True.<br/><br/>CssStyles="body { padding: 5px }"; |
 | [hide_overflow_wrapped_text](/cells/python-net/aspose.cells/htmlsaveoptions/hide_overflow_wrapped_text) | Indicates whether to hide overflow text when the cell format is set to wrap text.<br/>The default value is false |
+| [is_border_collapsed](/cells/python-net/aspose.cells/htmlsaveoptions/is_border_collapsed) | Indicates whether the table borders are collapsed.<br/>The default value is true. |
 
 
 

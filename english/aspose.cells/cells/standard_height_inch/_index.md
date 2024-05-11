@@ -3,7 +3,7 @@ title: standard_height_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1260
+weight: 1250
 url: /aspose.cells/cells/standard_height_inch/
 is_root: false
 ---

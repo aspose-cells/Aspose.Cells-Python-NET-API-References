@@ -3,7 +3,7 @@ title: Workbook class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1690
+weight: 1700
 url: /aspose.cells/workbook/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: encoding property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells/htmlsaveoptions/encoding/
 is_root: false
 ---

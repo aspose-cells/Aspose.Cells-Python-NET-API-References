@@ -3,7 +3,7 @@ title: Worksheet class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1720
+weight: 1730
 url: /aspose.cells/worksheet/
 is_root: false
 ---
@@ -123,6 +123,7 @@ The Worksheet type exposes the following members:
 | [un_freeze_panes](/cells/python-net/aspose.cells/worksheet/un_freeze_panes/#) | Unfreezes panes in the worksheet. |
 | [remove_split](/cells/python-net/aspose.cells/worksheet/remove_split/#) | Removes split window. |
 | [add_page_breaks](/cells/python-net/aspose.cells/worksheet/add_page_breaks/#str) | Adds page break. |
+| [get_advanced_filter](/cells/python-net/aspose.cells/worksheet/get_advanced_filter/#) | Gets the settings of advanced filter. |
 | [advanced_filter](/cells/python-net/aspose.cells/worksheet/advanced_filter/#bool-str-str-str-bool) | Filters data using complex criteria. |
 | [remove_auto_filter](/cells/python-net/aspose.cells/worksheet/remove_auto_filter/#) | Removes the auto filter of the worksheet. |
 | [set_visible](/cells/python-net/aspose.cells/worksheet/set_visible/#bool-bool) | Sets the visible options. |

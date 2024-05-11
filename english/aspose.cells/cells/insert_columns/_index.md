@@ -3,7 +3,7 @@ title: insert_columns method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 680
 url: /aspose.cells/cells/insert_columns/
 is_root: false
 ---
