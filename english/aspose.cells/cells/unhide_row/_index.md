@@ -3,7 +3,7 @@ title: unhide_row method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 990
+weight: 980
 url: /aspose.cells/cells/unhide_row/
 is_root: false
 ---

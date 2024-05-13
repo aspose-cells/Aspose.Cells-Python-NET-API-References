@@ -3,7 +3,7 @@ title: PrintingPageType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2530
+weight: 2550
 url: /aspose.cells/printingpagetype/
 is_root: false
 ---

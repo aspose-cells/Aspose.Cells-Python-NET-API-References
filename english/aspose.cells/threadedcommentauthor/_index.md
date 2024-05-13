@@ -3,7 +3,7 @@ title: ThreadedCommentAuthor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1550
+weight: 1560
 url: /aspose.cells/threadedcommentauthor/
 is_root: false
 ---

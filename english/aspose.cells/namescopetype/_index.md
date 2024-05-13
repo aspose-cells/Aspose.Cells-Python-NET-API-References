@@ -3,7 +3,7 @@ title: NameScopeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2370
+weight: 2390
 url: /aspose.cells/namescopetype/
 is_root: false
 ---

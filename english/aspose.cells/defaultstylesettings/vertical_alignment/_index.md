@@ -3,7 +3,7 @@ title: vertical_alignment property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells/defaultstylesettings/vertical_alignment/
 is_root: false
 ---

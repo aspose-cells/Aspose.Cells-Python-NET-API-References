@@ -3,7 +3,7 @@ title: Cells class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells/cells/
 is_root: false
 ---
@@ -72,6 +72,10 @@ The Cells type exposes the following members:
 | [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int) | Merges a specified range of cells into a single cell. |
 | [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int-bool) | Merges a specified range of cells into a single cell. |
 | [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int-bool-bool) | Merges a specified range of cells into a single cell. |
+| [get_row_height](/cells/python-net/aspose.cells/cells/get_row_height/#int-bool-aspose.cells.CellsUnitType) | Gets original row's height. |
+| [get_row_height](/cells/python-net/aspose.cells/cells/get_row_height/#int) | Gets the height of a specified row, in unit of points. |
+| [get_column_width](/cells/python-net/aspose.cells/cells/get_column_width/#int-bool-aspose.cells.CellsUnitType) | Gets the column width. |
+| [get_column_width](/cells/python-net/aspose.cells/cells/get_column_width/#int) | Gets the width(in unit of characters) of the specified column in normal view |
 | [get_column_width_pixel](/cells/python-net/aspose.cells/cells/get_column_width_pixel/#int) | Gets the width of the specified column in normal view, in units of pixel. |
 | [get_column_width_pixel](/cells/python-net/aspose.cells/cells/get_column_width_pixel/#int-bool) | Gets the width of the specified column in normal view, in units of pixel. |
 | [copy_columns](/cells/python-net/aspose.cells/cells/copy_columns/#aspose.cells.Cells-int-int-int-aspose.cells.PasteOptions) | Copies data and formats of a whole column. |
@@ -155,16 +159,13 @@ The Cells type exposes the following members:
 | [unhide_column](/cells/python-net/aspose.cells/cells/unhide_column/#int-float) | Unhides a column |
 | [hide_columns](/cells/python-net/aspose.cells/cells/hide_columns/#int-int) | Hide multiple columns. |
 | [unhide_columns](/cells/python-net/aspose.cells/cells/unhide_columns/#int-int-float) | Unhide multiple columns. |
-| [get_row_height](/cells/python-net/aspose.cells/cells/get_row_height/#int) | Gets the height of a specified row, in unit of points. |
 | [get_view_row_height](/cells/python-net/aspose.cells/cells/get_view_row_height/#int) | Gets the height of a specified row. |
-| [get_row_height_pixel](/cells/python-net/aspose.cells/cells/get_row_height_pixel/#int) | Gets the height of a specified row in unit of pixel. |
 | [get_row_height_inch](/cells/python-net/aspose.cells/cells/get_row_height_inch/#int) | Gets the height of a specified row in unit of inches. |
-| [get_view_row_height_inch](/cells/python-net/aspose.cells/cells/get_view_row_height_inch/#int) | Gets the height of a specified row in unit of inches. |
+| [get_row_height_pixel](/cells/python-net/aspose.cells/cells/get_row_height_pixel/#int) | Gets the height of a specified row in unit of pixel. |
 | [set_column_width_pixel](/cells/python-net/aspose.cells/cells/set_column_width_pixel/#int-int) | Sets column width in unit of pixels in normal view. |
 | [set_column_width_inch](/cells/python-net/aspose.cells/cells/set_column_width_inch/#int-float) | Sets column width in unit of inches  in normal view. |
 | [set_column_width](/cells/python-net/aspose.cells/cells/set_column_width/#int-float) | Sets the width of the specified column in normal view. |
 | [get_column_width_inch](/cells/python-net/aspose.cells/cells/get_column_width_inch/#int) | Gets the width of the specified column in normal view, in units of inches. |
-| [get_column_width](/cells/python-net/aspose.cells/cells/get_column_width/#int) | Gets the width(in unit of characters) of the specified column in normal view |
 | [get_view_column_width_pixel](/cells/python-net/aspose.cells/cells/get_view_column_width_pixel/#int) | Get the width in different view type. |
 | [set_view_column_width_pixel](/cells/python-net/aspose.cells/cells/set_view_column_width_pixel/#int-int) | Sets the width of the column in different view. |
 | [get_last_data_row](/cells/python-net/aspose.cells/cells/get_last_data_row/#int) | Gets the last row index of cell which contains data in the specified column. |

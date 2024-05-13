@@ -28,7 +28,12 @@ def get_row_original_height_point(self, row):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | row | int | The row index. |
+### Remarks
 
+NOTE: This member is now obsolete. Instead, 
+please use Cells.GetRowHeight(int,bool,CellsUnitType) method.
+This method will be removed 12 months later since April 2024.
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

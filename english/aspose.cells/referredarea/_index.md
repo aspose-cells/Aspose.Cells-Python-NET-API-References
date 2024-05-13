@@ -3,7 +3,7 @@ title: ReferredArea class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1320
+weight: 1330
 url: /aspose.cells/referredarea/
 is_root: false
 ---
@@ -22,6 +22,8 @@ The ReferredArea type exposes the following members:
 | [is_external_link](/cells/python-net/aspose.cells/referredarea/is_external_link) | Indicates whether this is an external link. |
 | [external_file_name](/cells/python-net/aspose.cells/referredarea/external_file_name) | Get the external file name if this is an external reference. |
 | [sheet_name](/cells/python-net/aspose.cells/referredarea/sheet_name) | Indicates which sheet this reference is in. |
+| [is_entire_row](/cells/python-net/aspose.cells/referredarea/is_entire_row) | Indicates whether this area contains all columns(entire row). |
+| [is_entire_column](/cells/python-net/aspose.cells/referredarea/is_entire_column) | Indicates whether this area contains all rows(entire column). |
 | [is_area](/cells/python-net/aspose.cells/referredarea/is_area) | Indicates whether this is an area. |
 | [end_column](/cells/python-net/aspose.cells/referredarea/end_column) | The end column of the area. |
 | [start_column](/cells/python-net/aspose.cells/referredarea/start_column) | The start column of the area. |

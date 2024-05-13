@@ -3,7 +3,7 @@ title: PasteOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1220
+weight: 1230
 url: /aspose.cells/pasteoptions/
 is_root: false
 ---

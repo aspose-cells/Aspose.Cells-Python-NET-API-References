@@ -3,7 +3,7 @@ title: WorksheetCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1730
+weight: 1740
 url: /aspose.cells/worksheetcollection/
 is_root: false
 ---

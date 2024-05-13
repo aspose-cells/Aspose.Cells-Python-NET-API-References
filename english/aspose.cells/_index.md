@@ -21,6 +21,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`AbstractGlobalizationSettings`](/cells/python-net/aspose.cells/abstractglobalizationsettings) | Represents the globalization settings. |
 | [`AbstractInterruptMonitor`](/cells/python-net/aspose.cells/abstractinterruptmonitor) | Monitor for interruption requests in all time-consuming operations. |
 | [`AbstractTextLoadOptions`](/cells/python-net/aspose.cells/abstracttextloadoptions) | Common options for loading text values |
+| [`AdvancedFilter`](/cells/python-net/aspose.cells/advancedfilter) | Represents the settings of advanced filter. |
 | [`AutoFilter`](/cells/python-net/aspose.cells/autofilter) | Represents autofiltering for the specified worksheet. |
 | [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions) | Represents all auto fitter options. |
 | [`Border`](/cells/python-net/aspose.cells/border) | Encapsulates the object that represents the cell border. |
@@ -215,6 +216,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | Enumerates a cell's border type. |
 | [`CellValueFormatStrategy`](/cells/python-net/aspose.cells/cellvalueformatstrategy) | Specifies how to apply style for the value of the cell. |
 | [`CellValueType`](/cells/python-net/aspose.cells/cellvaluetype) | Specifies a cell value type. |
+| [`CellsUnitType`](/cells/python-net/aspose.cells/cellsunittype) | Specifies the unit of measurement. |
 | [`ColorType`](/cells/python-net/aspose.cells/colortype) | Represents all color type |
 | [`ConsolidationFunction`](/cells/python-net/aspose.cells/consolidationfunction) | Represents consolidation function. |
 | [`CopyFormatType`](/cells/python-net/aspose.cells/copyformattype) | Represents type of copying format when inserting rows. |

@@ -51,7 +51,12 @@ def get_column_width_pixel(self, column, original):
 | :- | :- | :- |
 | column | int | Column index |
 | original | bool | Indicates whether returning original width even when the column is hidden |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use Cells.GetColumnWidth(int ,bool , CellsUnitType ) method.
+This method will be removed 12 months later since April 2024.
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

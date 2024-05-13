@@ -3,7 +3,7 @@ title: WriteProtection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1740
+weight: 1750
 url: /aspose.cells/writeprotection/
 is_root: false
 ---
@@ -28,6 +28,7 @@ The WriteProtection type exposes the following members:
 | [author](/cells/python-net/aspose.cells/writeprotection/author) | Gets and sets the author. |
 | [recommend_read_only](/cells/python-net/aspose.cells/writeprotection/recommend_read_only) | Indicates if the Read Only Recommended option is selected. |
 | [is_write_protected](/cells/python-net/aspose.cells/writeprotection/is_write_protected) | Indicates whether this workbook is write protected. |
+| [password](/cells/python-net/aspose.cells/writeprotection/password) | Sets the protected password to modify the file. |
 
 
 ### Methods

@@ -3,7 +3,7 @@ title: ColumnCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells/columncollection/
 is_root: false
 ---

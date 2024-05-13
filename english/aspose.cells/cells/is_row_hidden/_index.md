@@ -3,7 +3,7 @@ title: is_row_hidden method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 770
+weight: 760
 url: /aspose.cells/cells/is_row_hidden/
 is_root: false
 ---

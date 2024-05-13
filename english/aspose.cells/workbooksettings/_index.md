@@ -3,7 +3,7 @@ title: WorkbookSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1710
+weight: 1720
 url: /aspose.cells/workbooksettings/
 is_root: false
 ---
@@ -51,6 +51,7 @@ The WorkbookSettings type exposes the following members:
 | [update_links_type](/cells/python-net/aspose.cells/workbooksettings/update_links_type) | Gets and sets how updates external links when the workbook is opened. |
 | [max_row](/cells/python-net/aspose.cells/workbooksettings/max_row) | Gets the max row index, zero-based. |
 | [max_column](/cells/python-net/aspose.cells/workbooksettings/max_column) | Gets the max column index, zero-based. |
+| [default_style_settings](/cells/python-net/aspose.cells/workbooksettings/default_style_settings) | Gets the settings for default values of style-related properties for this workbook. |
 | [window_left](/cells/python-net/aspose.cells/workbooksettings/window_left) | The distance from the left edge of the client area to the left edge of the window, in unit of point. |
 | [window_left_inch](/cells/python-net/aspose.cells/workbooksettings/window_left_inch) | The distance from the left edge of the client area to the left edge of the window.<br/>In unit of inch. |
 | [window_left_cm](/cells/python-net/aspose.cells/workbooksettings/window_left_cm) | The distance from the left edge of the client area to the left edge of the window.<br/>In unit of centimeter. |

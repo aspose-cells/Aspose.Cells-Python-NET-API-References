@@ -3,7 +3,7 @@ title: union method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /aspose.cells/range/union/
 is_root: false
 ---
@@ -31,7 +31,7 @@ def union(self, range):
 ### Remarks
 
 NOTE: This method is now obsolete. Instead, 
-please use Range.UnionRang() method.
+please use Range.UnionRanges() method.
 This method will be removed 12 months later since November 2023. 
 Aspose apologizes for any inconvenience you may have experienced.
 

@@ -3,7 +3,7 @@ title: ThreadInterruptMonitor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1530
+weight: 1540
 url: /aspose.cells/threadinterruptmonitor/
 is_root: false
 ---
@@ -66,6 +66,7 @@ wb = Workbook("Large.xlsx", lopts)
 monitor.finish_monitor()
 monitor.start_monitor(1500)
 wb.save("result.xlsx")
+monitor.finish_monitor()
 
 ```
 
