@@ -3,7 +3,7 @@ title: union method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 280
 url: /aspose.cells/range/union/
 is_root: false
 ---

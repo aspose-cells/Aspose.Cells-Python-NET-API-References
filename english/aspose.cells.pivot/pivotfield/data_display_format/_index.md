@@ -3,7 +3,7 @@ title: data_display_format property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 270
 url: /aspose.cells.pivot/pivotfield/data_display_format/
 is_root: false
 ---
@@ -11,7 +11,15 @@ is_root: false
 ## data_display_format property
 
 
-Represents how to display the values contained in a data field.
+Represents how to display the values in a data field of the pivot report.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use PivotField.PivotShowValuesSetting.CalculationType property instead.
+This method will be removed 12 months later since June 2024.
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

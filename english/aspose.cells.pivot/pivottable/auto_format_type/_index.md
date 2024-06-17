@@ -3,7 +3,7 @@ title: auto_format_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /aspose.cells.pivot/pivottable/auto_format_type/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## auto_format_type property
 
 
-Gets the PivotTable auto format type.
+Gets and sets the auto format type of PivotTable.
 ### Definition:
 ```python
 @property

@@ -24,7 +24,7 @@ The ChartPoint type exposes the following members:
 | [border](/cells/python-net/aspose.cells.charts/chartpoint/border) | Gets the [`Line`](/cells/python-net/aspose.cells.drawing/line). |
 | [area](/cells/python-net/aspose.cells.charts/chartpoint/area) | Gets the [`ChartPoint.area`](/cells/python-net/aspose.cells.charts/chartpoint#area). |
 | [marker](/cells/python-net/aspose.cells.charts/chartpoint/marker) | Gets the [`ChartPoint.marker`](/cells/python-net/aspose.cells.charts/chartpoint#marker). |
-| [data_labels](/cells/python-net/aspose.cells.charts/chartpoint/data_labels) | Returns a DataLabels object that represents the data label associated with the point. |
+| [data_labels](/cells/python-net/aspose.cells.charts/chartpoint/data_labels) | Returns a [`ChartPoint.data_labels`](/cells/python-net/aspose.cells.charts/chartpoint#data_labels) object that represents the data label associated with this chart point. |
 | [y_value](/cells/python-net/aspose.cells.charts/chartpoint/y_value) | Gets or sets the Y value of the chart point. |
 | [y_value_type](/cells/python-net/aspose.cells.charts/chartpoint/y_value_type) | Gets Y value type of the chart point. |
 | [x_value](/cells/python-net/aspose.cells.charts/chartpoint/x_value) | Gets or sets the X value of the chart point. |

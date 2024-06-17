@@ -3,7 +3,7 @@ title: table_range1 property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1030
+weight: 1040
 url: /aspose.cells.pivot/pivottable/table_range1/
 is_root: false
 ---

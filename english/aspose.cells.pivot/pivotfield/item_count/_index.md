@@ -3,7 +3,7 @@ title: item_count property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /aspose.cells.pivot/pivotfield/item_count/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## item_count property
 
 
-Gets the base item count of this pivot field.
+Gets the count of the base items in this pivot field.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: move method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells.pivot/pivottable/move/
 is_root: false
 ---

@@ -40,6 +40,7 @@ The CommentCollection type exposes the following members:
 | [last_index_of](/cells/python-net/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [last_index_of](/cells/python-net/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [last_index_of](/cells/python-net/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [get](/cells/python-net/aspose.cells/commentcollection/get/#int-int) | Add API for Python Via .Net.since this[int, int] is unsupported |
 | [binary_search](/cells/python-net/aspose.cells/commentcollection/binary_search/#aspose.cells.Comment) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

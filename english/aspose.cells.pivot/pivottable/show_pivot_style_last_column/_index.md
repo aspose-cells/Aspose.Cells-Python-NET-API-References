@@ -3,7 +3,7 @@ title: show_pivot_style_last_column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 970
+weight: 980
 url: /aspose.cells.pivot/pivottable/show_pivot_style_last_column/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## show_pivot_style_last_column property
 
 
-Indicates whether column stripe formatting is applied.
+Indicates whether the column formatting is applied.
 ### Definition:
 ```python
 @property

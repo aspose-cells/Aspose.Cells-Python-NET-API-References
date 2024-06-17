@@ -11,7 +11,8 @@ is_root: false
 ## is_printable property
 
 
-True if the object is printable
+Indicates whether the object is printable.
+If False, this shape will not be printed when printing.
 
 ### Example 
 

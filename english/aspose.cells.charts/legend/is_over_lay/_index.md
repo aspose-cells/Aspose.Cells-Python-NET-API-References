@@ -11,7 +11,7 @@ is_root: false
 ## is_over_lay property
 
 
-Gets or sets whether other chart elements shall be allowed to overlap this chart element.
+Gets or sets whether showing the legend without overlapping the chart.
 ### Definition:
 ```python
 @property

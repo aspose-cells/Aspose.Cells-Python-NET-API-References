@@ -10,7 +10,7 @@ is_root: false
 
 ## __init__ {#}
 
-Constructs a new instance of JsonLayoutOptions
+Constructor of loading JSON layout options.
 
 
 

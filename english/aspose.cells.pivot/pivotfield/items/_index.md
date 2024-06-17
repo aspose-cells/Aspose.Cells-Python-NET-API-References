@@ -3,7 +3,7 @@ title: items property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 480
 url: /aspose.cells.pivot/pivotfield/items/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## items property
 
 
-Get all base items;
+Get all labels of pivot items in this field.
 ### Definition:
 ```python
 @property

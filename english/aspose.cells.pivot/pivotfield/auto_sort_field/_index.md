@@ -3,7 +3,7 @@ title: auto_sort_field property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells.pivot/pivotfield/auto_sort_field/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## auto_sort_field property
 
 
-Represents auto sort field index. 
+Represents the index of field which is auto sorted. 
 -1 means PivotField itself,others means the position of the data fields.
 ### Definition:
 ```python

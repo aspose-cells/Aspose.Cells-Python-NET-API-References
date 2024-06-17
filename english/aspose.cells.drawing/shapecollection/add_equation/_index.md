@@ -20,19 +20,19 @@ Add an equation object to the worksheet.
 
 
 ```python
-def add_equation(self, upper_left_row, top, upper_left_column, left, height, width):
+def add_equation(self, top_row, top, left_column, left, height, width):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int |  |
-| top | int |  |
-| upper_left_column | int |  |
-| left | int |  |
-| height | int |  |
-| width | int |  |
+| top_row | int | The top row index. |
+| top | int | The vertical  offset its top row, in unit of pixel. |
+| left_column | int | The left column index. |
+| left | int | The horizontal offset from its left column, in unit of pixel. |
+| height | int | The height of equation, in unit of pixel. |
+| width | int | The width of equation, in unit of pixel. |
 
 
 

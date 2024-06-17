@@ -51,6 +51,7 @@ The JsonSaveOptions type exposes the following members:
 | [export_nested_structure](/cells/python-net/aspose.cells/jsonsaveoptions/export_nested_structure) | Exported as parent-child hierarchy Json structure. |
 | [export_empty_cells](/cells/python-net/aspose.cells/jsonsaveoptions/export_empty_cells) | Indicates whether exporting empty cells as null. |
 | [always_export_as_json_object](/cells/python-net/aspose.cells/jsonsaveoptions/always_export_as_json_object) | Indicates whether always exporting excel to json as object, even there is only a worksheet in the file. |
+| [to_excel_struct](/cells/python-net/aspose.cells/jsonsaveoptions/to_excel_struct) | Indicates whether converting to json struct of the Excel file. |
 
 
 

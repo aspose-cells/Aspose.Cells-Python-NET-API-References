@@ -27,7 +27,7 @@ The Slicer type exposes the following members:
 | [locked_aspect_ratio](/cells/python-net/aspose.cells.slicers/slicer/locked_aspect_ratio) | Indicates whether locking aspect ratio. |
 | [locked_position](/cells/python-net/aspose.cells.slicers/slicer/locked_position) | Indicates whether the specified slicer can be moved or resized by using the user interface. |
 | [slicer_cache](/cells/python-net/aspose.cells.slicers/slicer/slicer_cache) | Returns the SlicerCache object associated with the slicer. Read-only. |
-| [parent](/cells/python-net/aspose.cells.slicers/slicer/parent) | Returns the Worksheet object that represents the sheet that contains the slicer. Read-only. |
+| [parent](/cells/python-net/aspose.cells.slicers/slicer/parent) | Returns the [`Worksheet`](/cells/python-net/aspose.cells/worksheet) object which contains this slicer. Read-only. |
 | [style_type](/cells/python-net/aspose.cells.slicers/slicer/style_type) | Specify the type of Built-in slicer style<br/>the default type is SlicerStyleLight1 |
 | [name](/cells/python-net/aspose.cells.slicers/slicer/name) | Returns or sets the name of the specified slicer |
 | [caption](/cells/python-net/aspose.cells.slicers/slicer/caption) | Returns or sets the caption of the specified slicer. |
@@ -115,3 +115,4 @@ book.save("out.xlsx")
 
 ### See Also
 * module [`aspose.cells.slicers`](..)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

@@ -10,7 +10,7 @@ is_root: false
 
 ## remove_hyperlink {#}
 
-Remove the hyperlink of the shape.
+Removes the hyperlink of the shape.
 
 
 

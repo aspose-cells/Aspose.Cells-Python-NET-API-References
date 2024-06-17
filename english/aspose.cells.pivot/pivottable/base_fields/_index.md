@@ -3,7 +3,7 @@ title: base_fields property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /aspose.cells.pivot/pivottable/base_fields/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## base_fields property
 
 
-Returns a PivotFields object that includes all fields in the PivotTable report
+Returns all base pivot fields in the PivotTable.
 ### Definition:
 ```python
 @property

@@ -11,7 +11,7 @@ is_root: false
 ## is_smart_art property
 
 
-Indicates whether the shape is smart art.
+Indicates whether the shape is a smart art.
 
 ### Remarks 
 
@@ -23,7 +23,7 @@ Only for ooxml file.
 
 ```python
 
-# if true,the shape is smart art.
+# if true,the shape is a smart art.
 if shape.is_smart_art:
     pass
 

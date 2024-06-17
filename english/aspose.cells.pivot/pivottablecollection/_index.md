@@ -3,7 +3,7 @@ title: PivotTableCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.pivot/pivottablecollection/
 is_root: false
 ---
@@ -40,6 +40,9 @@ The PivotTableCollection type exposes the following members:
 | [last_index_of](/cells/python-net/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [last_index_of](/cells/python-net/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [last_index_of](/cells/python-net/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [remove_pivot_table](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_pivot_table/#aspose.cells.pivot.PivotTable) | Deletes the specified PivotTable and delete the PivotTable data |
+| [remove_pivot_table_data](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_pivot_table_data/#aspose.cells.pivot.PivotTable-bool) | Deletes the specified PivotTable |
+| [remove_by_index](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_by_index/#int) | Deletes the PivotTable at the specified index and delete the PivotTable data |
 | [remove_at](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Deletes the PivotTable at the specified index |
 | [binary_search](/cells/python-net/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.PivotTable) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 

@@ -26,5 +26,24 @@ The Border type exposes the following members:
 
 
 
+### Example 
+
+
+```python
+from aspose.cells import BorderType, CellBorderType, Workbook
+from aspose.pydrawing import Color
+
+workbook = Workbook()
+sheets = workbook.worksheets
+cell = sheets[0].cells.get("A1")
+style = cell.get_style()
+# Set top border style and color
+border = style.borders.get(BorderType.TOP_BORDER)
+border.line_style = CellBorderType.MEDIUM
+border.color = Color.red
+cell.set_style(style)
+
+```
+
 ### See Also
 * module [`aspose.cells`](..)

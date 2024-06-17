@@ -10,7 +10,7 @@ is_root: false
 
 ## is_hidden_item {#int}
 
-Indicates whether the specific PivotItem is hidden.
+Gets whether the specific PivotItem is hidden.
 
 
 ### Returns 
@@ -27,7 +27,7 @@ def is_hidden_item(self, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| index | int | the index of the pivotItem in the pivotField. |
+| index | int | The index of the pivotItem in the pivotField. |
 
 
 

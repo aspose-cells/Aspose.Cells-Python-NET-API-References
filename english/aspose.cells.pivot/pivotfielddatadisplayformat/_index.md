@@ -3,7 +3,7 @@ title: PivotFieldDataDisplayFormat enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /aspose.cells.pivot/pivotfielddatadisplayformat/
 is_root: false
 ---

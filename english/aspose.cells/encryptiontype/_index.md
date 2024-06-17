@@ -21,10 +21,10 @@ The EncryptionType type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| XOR |  |
+| XOR | XOR encryption algorithm. |
 | COMPATIBLE | Office 97/2000 compatible. |
-| ENHANCED_CRYPTOGRAPHIC_PROVIDER_V1 |  |
-| STRONG_CRYPTOGRAPHIC_PROVIDER |  |
+| ENHANCED_CRYPTOGRAPHIC_PROVIDER_V1 | Enhanced encryption. |
+| STRONG_CRYPTOGRAPHIC_PROVIDER | Strong encryption algorithm. |
 
 
 

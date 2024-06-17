@@ -88,8 +88,8 @@ The FileFormatType type exposes the following members:
 | SQL_SCRIPT | Sql |
 | X_HTML | Rrepesents XHtml file. |
 | ONE_NOTE | Rrepesents One Note file. |
-| MICROSOFT_CABINET | /// <br/>Rrepesents Microsoft Cabinet file.<br/><br/>The file format is not supported<br/>Only for detecting file type. |
-| RTF |  |
+| MICROSOFT_CABINET | Rrepesents Microsoft Cabinet file. |
+| RTF | Rtf |
 | EPUB | EPUB |
 | AZW3 | AZW3 |
 | OXPS | OXPS (Open XML Paper Specification) format. |

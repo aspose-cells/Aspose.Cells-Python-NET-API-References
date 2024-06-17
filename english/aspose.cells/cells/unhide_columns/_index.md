@@ -3,7 +3,7 @@ title: unhide_columns method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 970
+weight: 980
 url: /aspose.cells/cells/unhide_columns/
 is_root: false
 ---

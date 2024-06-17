@@ -30,6 +30,7 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotItemCollection`](/cells/python-net/aspose.cells.pivot/pivotitemcollection) | Represents a collection of all the PivotItem objects in the PivotField's |
 | [`PivotNumbericRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotnumbericrangegroupsettings) | Represents the numberic range group of the pivot field. |
 | [`PivotPageFields`](/cells/python-net/aspose.cells.pivot/pivotpagefields) | Represents the pivot page field items <br/>if the pivot table data source is consolidation ranges.<br/>It only can contain up to 4 fields. |
+| [`PivotShowValuesSetting`](/cells/python-net/aspose.cells.pivot/pivotshowvaluessetting) | Represents the settings about showing values as when the ShowDataAs calculation is in use. |
 | [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable) | Summary description for PivotTable. |
 | [`PivotTableCollection`](/cells/python-net/aspose.cells.pivot/pivottablecollection) | Represents the collection of all the PivotTable objects on the specified worksheet. |
 | [`PivotTableFormat`](/cells/python-net/aspose.cells.pivot/pivottableformat) | Represents the format defined in the PivotTable. |
@@ -51,6 +52,7 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotFilterType`](/cells/python-net/aspose.cells.pivot/pivotfiltertype) | Represents PivotTable Filter type. |
 | [`PivotGroupByType`](/cells/python-net/aspose.cells.pivot/pivotgroupbytype) | Represents group by type. |
 | [`PivotItemPosition`](/cells/python-net/aspose.cells.pivot/pivotitemposition) | Represents PivotTable base item Next/Previous/All position in the base field . |
+| [`PivotItemPositionType`](/cells/python-net/aspose.cells.pivot/pivotitempositiontype) | Represents the position type of the pivot base item in the base field when the ShowDataAs calculation is in use. |
 | [`PivotMissingItemLimitType`](/cells/python-net/aspose.cells.pivot/pivotmissingitemlimittype) | Represents number of items to retain per field. |
 | [`PivotTableAutoFormatType`](/cells/python-net/aspose.cells.pivot/pivottableautoformattype) | Represents PivotTable auto format type. |
 | [`PivotTableSelectionType`](/cells/python-net/aspose.cells.pivot/pivottableselectiontype) | Specifies what can be selected in a PivotTable during a structured selection.<br/>These constants can be combined to select multiple types. |

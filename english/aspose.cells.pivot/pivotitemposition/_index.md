@@ -3,7 +3,7 @@ title: PivotItemPosition enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells.pivot/pivotitemposition/
 is_root: false
 ---
@@ -21,7 +21,7 @@ The PivotItemPosition type exposes the following members:
 | :- | :- |
 | PREVIOUS | Represents the previous pivot item in the PivotField. |
 | NEXT | Represents the next pivot item in the PivotField. |
-| CUSTOM | Represents a pivot item index, as specified by Pivot Items, that specifies a pivot item in the PivotField.<br/>only read |
+| CUSTOM | Shows values as the different format based the index of pivot item in the PivotField. |
 
 
 

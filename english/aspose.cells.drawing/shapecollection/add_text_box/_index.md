@@ -28,7 +28,7 @@ def add_text_box(self, upper_left_row, top, upper_left_column, left, height, wid
 | Parameter | Type | Description |
 | :- | :- | :- |
 | upper_left_row | int | Upper left row index. |
-| top | int | Represents the vertical  offset of textbox from its left row, in unit of pixel. |
+| top | int | Represents the vertical  offset of textbox from its top row, in unit of pixel. |
 | upper_left_column | int | Upper left column index. |
 | left | int | Represents the horizontal offset of textbox from its left column, in unit of pixel. |
 | height | int | Represents the height of textbox, in unit of pixel. |

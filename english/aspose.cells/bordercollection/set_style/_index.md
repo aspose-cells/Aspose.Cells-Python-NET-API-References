@@ -3,7 +3,7 @@ title: set_style method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells/bordercollection/set_style/
 is_root: false
 ---

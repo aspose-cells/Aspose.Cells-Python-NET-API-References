@@ -3,7 +3,7 @@ title: show_drill property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 910
+weight: 920
 url: /aspose.cells.pivot/pivottable/show_drill/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## show_drill property
 
 
-Gets whether expand/collapse buttons is shown.
+Gets and sets whether showing expand/collapse buttons.
 ### Definition:
 ```python
 @property

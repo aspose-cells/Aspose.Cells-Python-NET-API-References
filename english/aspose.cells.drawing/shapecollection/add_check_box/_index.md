@@ -28,7 +28,7 @@ def add_check_box(self, upper_left_row, top, upper_left_column, left, height, wi
 | Parameter | Type | Description |
 | :- | :- | :- |
 | upper_left_row | int | Upper left row index. |
-| top | int | Represents the vertical  offset of checkbox from its left row, in unit of pixel. |
+| top | int | Represents the vertical  offset of checkbox from its top row, in unit of pixel. |
 | upper_left_column | int | Upper left column index. |
 | left | int | Represents the horizontal offset of textbox from its left column, in unit of pixel. |
 | height | int | Height of textbox, in unit of pixel. |

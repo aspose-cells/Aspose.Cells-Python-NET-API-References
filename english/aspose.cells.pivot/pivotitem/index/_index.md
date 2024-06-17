@@ -11,7 +11,7 @@ is_root: false
 ## index property
 
 
-Gets the index of the pivot item in the pivot field
+Gets the index of the pivot item in cache field.
 ### Definition:
 ```python
 @property

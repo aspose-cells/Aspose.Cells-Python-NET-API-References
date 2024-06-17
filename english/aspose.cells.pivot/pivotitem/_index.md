@@ -23,10 +23,11 @@ The PivotItem type exposes the following members:
 | [position](/cells/python-net/aspose.cells.pivot/pivotitem/position) | Specifying the position index in all the PivotItems,not the PivotItems under the same parent node. |
 | [position_in_same_parent_node](/cells/python-net/aspose.cells.pivot/pivotitem/position_in_same_parent_node) | Specifying the position index in the PivotItems under the same parent node. |
 | [is_hide_detail](/cells/python-net/aspose.cells.pivot/pivotitem/is_hide_detail) | Gets and Sets whether the pivot item hides detail. |
-| [is_missing](/cells/python-net/aspose.cells.pivot/pivotitem/is_missing) | Indicates whether the item has a missing value. |
+| [is_formula](/cells/python-net/aspose.cells.pivot/pivotitem/is_formula) | Indicates whether this pivot item is a calculated formula item. |
+| [is_missing](/cells/python-net/aspose.cells.pivot/pivotitem/is_missing) | Indicates whether the item is removed from the data source. |
 | [value](/cells/python-net/aspose.cells.pivot/pivotitem/value) | Gets the value of the pivot item |
 | [name](/cells/python-net/aspose.cells.pivot/pivotitem/name) | Gets the name of the pivot item. |
-| [index](/cells/python-net/aspose.cells.pivot/pivotitem/index) | Gets the index of the pivot item in the pivot field |
+| [index](/cells/python-net/aspose.cells.pivot/pivotitem/index) | Gets the index of the pivot item in cache field. |
 
 
 ### Methods

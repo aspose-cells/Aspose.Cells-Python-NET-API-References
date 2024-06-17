@@ -11,15 +11,20 @@ is_root: false
 ## is_locked property
 
 
-True if the object is locked, False if the object can be modified when the sheet is protected.
+True means the object can not be modified when the sheet is protected. 
+Note that this value is meaningful only if the worksheet or objects in the worksheet are protected.
 
 ### Example 
 
 
 ```python
 
-if shape.is_locked:
+# Sets the specified shape to unlocked state
+if shape.worksheet.is_protected and shape.is_locked:
     shape.is_locked = False
+# Sets the specified shape to a locked state
+if shape.worksheet.is_protected and notshape.is_locked:
+    shape.is_locked = True
 
 ```
 ### Definition:

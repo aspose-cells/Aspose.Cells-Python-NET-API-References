@@ -72,8 +72,12 @@ The Range type exposes the following members:
 | [copy_value](/cells/python-net/aspose.cells/range/copy_value/#aspose.cells.Range) | Copies cell value from a source range. |
 | [copy_style](/cells/python-net/aspose.cells/range/copy_style/#aspose.cells.Range) | Copies style settings from a source range. |
 | [transpose](/cells/python-net/aspose.cells/range/transpose/#) | Transpose (rotate) data from rows to columns or vice versa. |
+| [get](/cells/python-net/aspose.cells/range/get/#int-int) | Add API for Python Via .Net.since this[int, int] is unsupported |
 | [get_cell_or_null](/cells/python-net/aspose.cells/range/get_cell_or_null/#int-int) | Gets [`Cell`](/cells/python-net/aspose.cells/cell) object or null in this range. |
 | [get_offset](/cells/python-net/aspose.cells/range/get_offset/#int-int) | Gets [`Range`](/cells/python-net/aspose.cells/range) range by offset. |
+| [to_image](/cells/python-net/aspose.cells/range/to_image/#aspose.cells.rendering.ImageOrPrintOptions) | Converts the range to image. |
+| [to_json](/cells/python-net/aspose.cells/range/to_json/#aspose.cells.JsonSaveOptions) | Convert the range to JSON value. |
+| [to_html](/cells/python-net/aspose.cells/range/to_html/#aspose.cells.HtmlSaveOptions) | Convert the range to html . |
 
 
 

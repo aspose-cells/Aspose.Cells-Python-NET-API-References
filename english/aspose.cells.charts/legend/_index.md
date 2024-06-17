@@ -62,7 +62,7 @@ The Legend type exposes the following members:
 | [position](/cells/python-net/aspose.cells.charts/legend/position) | Gets or sets the legend position type. |
 | [legend_entries](/cells/python-net/aspose.cells.charts/legend/legend_entries) | Gets a collection of all the LegendEntry objects in the specified chart legend.<br/>Setting the legend entries of the surface chart is not supported.<br/>So it will return null if the chart type is surface chart type. |
 | [legend_entries_labels](/cells/python-net/aspose.cells.charts/legend/legend_entries_labels) | Gets the labels of the legend entries after call Chart.Calculate() method. |
-| [is_over_lay](/cells/python-net/aspose.cells.charts/legend/is_over_lay) | Gets or sets whether other chart elements shall be allowed to overlap this chart element. |
+| [is_over_lay](/cells/python-net/aspose.cells.charts/legend/is_over_lay) | Gets or sets whether showing the legend without overlapping the chart. |
 
 
 ### Methods

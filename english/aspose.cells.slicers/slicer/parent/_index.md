@@ -11,7 +11,7 @@ is_root: false
 ## parent property
 
 
-Returns the Worksheet object that represents the sheet that contains the slicer. Read-only.
+Returns the [`Worksheet`](/cells/python-net/aspose.cells/worksheet) object which contains this slicer. Read-only.
 
 ### Example 
 

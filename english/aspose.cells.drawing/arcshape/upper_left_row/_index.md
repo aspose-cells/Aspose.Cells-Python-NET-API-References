@@ -11,7 +11,7 @@ is_root: false
 ## upper_left_row property
 
 
-Represents upper left corner row index.
+Represents the top row index.
 
 ### Remarks 
 

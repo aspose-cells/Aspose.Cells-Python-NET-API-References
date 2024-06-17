@@ -3,7 +3,7 @@ title: refresh_date property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 840
 url: /aspose.cells.pivot/pivottable/refresh_date/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## refresh_date property
 
 
-Gets the date when the PivotTable was last refreshed.
+Gets the last date time when the PivotTable was refreshed.
 ### Definition:
 ```python
 @property

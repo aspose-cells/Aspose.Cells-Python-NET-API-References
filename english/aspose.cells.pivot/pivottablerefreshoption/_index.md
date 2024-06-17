@@ -3,7 +3,7 @@ title: PivotTableRefreshOption class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells.pivot/pivottablerefreshoption/
 is_root: false
 ---

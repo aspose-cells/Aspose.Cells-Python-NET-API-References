@@ -3,14 +3,14 @@ title: update_selected_value method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 480
 url: /aspose.cells.drawing/shapecollection/update_selected_value/
 is_root: false
 ---
 
 ## update_selected_value {#}
 
-Update the selected value by the value of the linked cell of the shapes.
+Update the selected value by the value of the linked cell or range of the shape.
 
 
 
