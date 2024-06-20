@@ -11,7 +11,7 @@ is_root: false
 ## offset property
 
 
-Gets and sets the distance of labels from the axis.
+Gets and sets the distance between the axis labels and the axis line.
 
 ### Remarks 
 

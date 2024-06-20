@@ -11,7 +11,7 @@ is_root: false
 ## text property
 
 
-Represents the string in this TextBox object.
+Gets and sets the text of this shape.
 
 ### Example 
 

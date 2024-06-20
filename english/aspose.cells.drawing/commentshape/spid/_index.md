@@ -11,7 +11,7 @@ is_root: false
 ## spid property
 
 
-Specifies an optional string that an application can use to Identify the particular shape.
+Specifies an optional string identifier that an application can use to identify the particular shape.
 
 ### Example 
 

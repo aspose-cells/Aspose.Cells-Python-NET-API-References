@@ -3,7 +3,7 @@ title: base_field_index property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /aspose.cells.pivot/pivotfield/base_field_index/
 is_root: false
 ---
@@ -11,7 +11,15 @@ is_root: false
 ## base_field_index property
 
 
-Represents the base field for a custom calculation.
+Represents the base field for a custom calculation when the ShowDataAs calculation is in use.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use PivotField.PivotShowValuesSetting.BaseFieldIndex property instead.
+This method will be removed 12 months later since June 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

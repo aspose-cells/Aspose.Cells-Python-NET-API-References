@@ -3,7 +3,7 @@ title: refreshed_by_who property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 840
+weight: 850
 url: /aspose.cells.pivot/pivottable/refreshed_by_who/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## refreshed_by_who property
 
 
-Gets the name of the user who last refreshed the PivotTable
+Gets the name of the last user who refreshed this PivotTable
 ### Definition:
 ```python
 @property

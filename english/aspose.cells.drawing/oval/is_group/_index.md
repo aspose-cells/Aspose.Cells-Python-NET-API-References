@@ -11,7 +11,7 @@ is_root: false
 ## is_group property
 
 
-Indicates whether the shape is a group.
+Indicates whether this shape is a group shape.
 
 ### Example 
 

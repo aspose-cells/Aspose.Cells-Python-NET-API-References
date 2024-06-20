@@ -37,6 +37,8 @@ The VbaModuleCollection type exposes the following members:
 | [add_designer_storage](/cells/python-net/aspose.cells.vba/vbamodulecollection/add_designer_storage/#str-bytes) |  |
 | [get_designer_storage](/cells/python-net/aspose.cells.vba/vbamodulecollection/get_designer_storage/#str) | Represents the data of Designer. |
 | [add_user_form](/cells/python-net/aspose.cells.vba/vbamodulecollection/add_user_form/#str-str-bytes) | Inser user form into VBA Project. |
+| [remove_by_worksheet](/cells/python-net/aspose.cells.vba/vbamodulecollection/remove_by_worksheet/#aspose.cells.Worksheet) | Removes module for a worksheet. |
+| [remove_by_name](/cells/python-net/aspose.cells.vba/vbamodulecollection/remove_by_name/#str) | Remove the module by the name |
 | [binary_search](/cells/python-net/aspose.cells.vba/vbamodulecollection/binary_search/#aspose.cells.vba.VbaModule) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

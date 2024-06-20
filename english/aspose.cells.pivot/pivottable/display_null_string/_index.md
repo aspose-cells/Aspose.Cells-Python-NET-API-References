@@ -3,7 +3,7 @@ title: display_null_string property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 480
 url: /aspose.cells.pivot/pivottable/display_null_string/
 is_root: false
 ---
@@ -11,8 +11,7 @@ is_root: false
 ## display_null_string property
 
 
-Indicates whether the PivotTable report displays a custom string
-in cells that contain null values.
+Indicates whether the PivotTable report displays a custom string if the value is null.
 ### Definition:
 ```python
 @property

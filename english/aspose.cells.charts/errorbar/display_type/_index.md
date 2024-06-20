@@ -11,7 +11,7 @@ is_root: false
 ## display_type property
 
 
-Represents error bar display type.
+Represents the display type of error bar.
 ### Definition:
 ```python
 @property

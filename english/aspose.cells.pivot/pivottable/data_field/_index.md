@@ -3,7 +3,7 @@ title: data_field property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /aspose.cells.pivot/pivottable/data_field/
 is_root: false
 ---
@@ -11,9 +11,10 @@ is_root: false
 ## data_field property
 
 
-Gets a PivotField object that represents all the data fields in a PivotTable.
-Read-only.It would be init only when there are two or more data fields in the DataPiovtFiels.
-It only use to add DataPivotField to the PivotTable row/column area . Default is in row area.
+Gets a [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) object that represents all the data fields in a PivotTable.
+Read-only.
+It would only be created when there are two or more data fields in the Data region.
+Defaultly it is in row region. You can drag it to the row/column region with PivotTable.AddFieldToArea() method .
 ### Definition:
 ```python
 @property

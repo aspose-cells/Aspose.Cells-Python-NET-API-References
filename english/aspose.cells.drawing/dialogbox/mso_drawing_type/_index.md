@@ -11,7 +11,7 @@ is_root: false
 ## mso_drawing_type property
 
 
-Gets mso drawing type.
+Gets drawing type.
 
 ### Example 
 

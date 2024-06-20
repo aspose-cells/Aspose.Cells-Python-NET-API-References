@@ -18,8 +18,10 @@ Gets and sets the rotation of the shape.
 
 ```python
 
-if shape.rotation_angle == 45:
-    shape.rotation_angle = 60.0
+# Gets rotation angle of the shape.
+angle = shape.rotation_angle
+# Gets rotation angle of the shape.
+shape.rotation_angle = 60.0
 
 ```
 ### Definition:

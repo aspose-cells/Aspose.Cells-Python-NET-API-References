@@ -76,7 +76,8 @@ The ShapeCollection type exposes the following members:
 | [delete_shape](/cells/python-net/aspose.cells.drawing/shapecollection/delete_shape/#aspose.cells.drawing.Shape) | Delete a shape. If the shape is in the group or is a comment shape, it will not be deleted. |
 | [group](/cells/python-net/aspose.cells.drawing/shapecollection/group/#list) | Group the shapes. |
 | [ungroup](/cells/python-net/aspose.cells.drawing/shapecollection/ungroup/#aspose.cells.drawing.GroupShape) | Ungroups the shape items. |
-| [update_selected_value](/cells/python-net/aspose.cells.drawing/shapecollection/update_selected_value/#) | Update the selected value by the value of the linked cell of the shapes. |
+| [remove_a_shape](/cells/python-net/aspose.cells.drawing/shapecollection/remove_a_shape/#aspose.cells.drawing.Shape) | Add API for Python Via .Net.since this API is unsupported |
+| [update_selected_value](/cells/python-net/aspose.cells.drawing/shapecollection/update_selected_value/#) | Update the selected value by the value of the linked cell or range of the shape. |
 | [binary_search](/cells/python-net/aspose.cells.drawing/shapecollection/binary_search/#aspose.cells.drawing.Shape) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

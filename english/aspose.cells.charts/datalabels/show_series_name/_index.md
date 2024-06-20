@@ -11,7 +11,7 @@ is_root: false
 ## show_series_name property
 
 
-Returns or sets a Boolean to indicate the series name display behavior for the data labels on a chart.
+Indicates whether the series name displays for the data labels on a chart.
 True to show the series name. False to hide.
 ### Definition:
 ```python

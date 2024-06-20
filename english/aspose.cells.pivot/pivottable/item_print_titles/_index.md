@@ -3,7 +3,7 @@ title: item_print_titles property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 640
+weight: 650
 url: /aspose.cells.pivot/pivottable/item_print_titles/
 is_root: false
 ---
@@ -11,8 +11,7 @@ is_root: false
 ## item_print_titles property
 
 
-A bit that specifies whether pivot item captions on the row axis
-are repeated on each printed page for pivot fields in tabular form.
+Indicates whether PivotItem names should be repeated at the top of each printed page.
 ### Definition:
 ```python
 @property

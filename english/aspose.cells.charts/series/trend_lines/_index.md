@@ -11,7 +11,7 @@ is_root: false
 ## trend_lines property
 
 
-Returns an object that represents a collection of all the trendlines for the series.
+Returns all the trendlines of this series.
 ### Definition:
 ```python
 @property

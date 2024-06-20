@@ -3,7 +3,7 @@ title: show_values_row property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1010
+weight: 1020
 url: /aspose.cells.pivot/pivottable/show_values_row/
 is_root: false
 ---

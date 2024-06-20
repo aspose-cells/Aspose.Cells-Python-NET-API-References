@@ -11,7 +11,7 @@ is_root: false
 ## data_labels property
 
 
-Returns a DataLabels object that represents the data label associated with the point.
+Returns a [`ChartPoint.data_labels`](/cells/python-net/aspose.cells.charts/chartpoint#data_labels) object that represents the data label associated with this chart point.
 ### Definition:
 ```python
 @property

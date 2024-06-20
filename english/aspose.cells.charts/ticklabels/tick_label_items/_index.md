@@ -11,7 +11,7 @@ is_root: false
 ## tick_label_items property
 
 
-Gets each tick label item's information of axis.
+Gets the display tick labels of the axis.
 
 ### Remarks 
 

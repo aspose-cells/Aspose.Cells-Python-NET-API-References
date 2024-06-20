@@ -10,7 +10,7 @@ is_root: false
 
 ## add_calculated_item {#str-str}
 
-Add a calculated item to the pivot field.
+Add a calculated formula item to the pivot field.
 
 
 
@@ -23,7 +23,7 @@ def add_calculated_item(self, name, formula):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | name | str | The item's name. |
-| formula | str | The item's formula |
+| formula | str | The formula of pivot item. |
 ### Remarks
 
 Only supports to add calculated item to Row/Column field.

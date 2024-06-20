@@ -11,7 +11,7 @@ is_root: false
 ## values property
 
 
-Represents the data of the chart series.
+Represents the Y values of this chart series.
 ### Definition:
 ```python
 @property

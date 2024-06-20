@@ -22,7 +22,7 @@ def hide_detail(self, is_hidden_detail):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| is_hidden_detail | bool | whether the PivotItems is hidden |
+| is_hidden_detail | bool | Whether hide the detail of the pivot field. |
 
 
 

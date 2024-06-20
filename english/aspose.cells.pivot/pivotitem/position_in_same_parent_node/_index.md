@@ -3,7 +3,7 @@ title: position_in_same_parent_node property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells.pivot/pivotitem/position_in_same_parent_node/
 is_root: false
 ---

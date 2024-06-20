@@ -16,11 +16,11 @@ Adds and copy a shape to the worksheet.
 ### Returns 
 
 
-The new shape object index.
+The new [`Shape`](/cells/python-net/aspose.cells.drawing/shape) object.
 
 
 ```python
-def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
+def add_copy(self, source_shape, top_row, top, left_column, left):
     ...
 ```
 
@@ -28,10 +28,10 @@ def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | source_shape | [`Shape`](/cells/python-net/aspose.cells.drawing/shape) | Source shape. |
-| upper_left_row | int | Upper left row index. |
-| top | int | Represents the vertical  offset of checkbox from its left row, in unit of pixel. |
-| upper_left_column | int | Upper left column index. |
-| left | int | Represents the horizontal offset of textbox from its left column, in unit of pixel. |
+| top_row | int | The top row index. |
+| top | int | Represents the vertical  offset from its top row, in unit of pixel. |
+| left_column | int | The left column index. |
+| left | int | Represents the horizontal offset from its left column, in unit of pixel. |
 
 ### Example 
 
@@ -40,7 +40,7 @@ def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
 
 # add a shape
 rectangle = shapes.add_rectangle(2, 0, 2, 0, 130, 130)
-# copy
+# Adds and copies a shape.
 shapes.add_copy(rectangle, 7, 0, 7, 0)
 
 ```
@@ -49,4 +49,5 @@ shapes.add_copy(rectangle, 7, 0, 7, 0)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

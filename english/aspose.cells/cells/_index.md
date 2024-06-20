@@ -72,7 +72,7 @@ The Cells type exposes the following members:
 | [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int) | Merges a specified range of cells into a single cell. |
 | [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int-bool) | Merges a specified range of cells into a single cell. |
 | [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int-bool-bool) | Merges a specified range of cells into a single cell. |
-| [get_row_height](/cells/python-net/aspose.cells/cells/get_row_height/#int-bool-aspose.cells.CellsUnitType) | Gets original row's height. |
+| [get_row_height](/cells/python-net/aspose.cells/cells/get_row_height/#int-bool-aspose.cells.CellsUnitType) | Gets row's height. |
 | [get_row_height](/cells/python-net/aspose.cells/cells/get_row_height/#int) | Gets the height of a specified row, in unit of points. |
 | [get_column_width](/cells/python-net/aspose.cells/cells/get_column_width/#int-bool-aspose.cells.CellsUnitType) | Gets the column width. |
 | [get_column_width](/cells/python-net/aspose.cells/cells/get_column_width/#int) | Gets the width(in unit of characters) of the specified column in normal view |
@@ -161,6 +161,7 @@ The Cells type exposes the following members:
 | [unhide_columns](/cells/python-net/aspose.cells/cells/unhide_columns/#int-int-float) | Unhide multiple columns. |
 | [get_view_row_height](/cells/python-net/aspose.cells/cells/get_view_row_height/#int) | Gets the height of a specified row. |
 | [get_row_height_inch](/cells/python-net/aspose.cells/cells/get_row_height_inch/#int) | Gets the height of a specified row in unit of inches. |
+| [get_view_row_height_inch](/cells/python-net/aspose.cells/cells/get_view_row_height_inch/#int) | Gets the height of a specified row in unit of inches. |
 | [get_row_height_pixel](/cells/python-net/aspose.cells/cells/get_row_height_pixel/#int) | Gets the height of a specified row in unit of pixel. |
 | [set_column_width_pixel](/cells/python-net/aspose.cells/cells/set_column_width_pixel/#int-int) | Sets column width in unit of pixels in normal view. |
 | [set_column_width_inch](/cells/python-net/aspose.cells/cells/set_column_width_inch/#int-float) | Sets column width in unit of inches  in normal view. |

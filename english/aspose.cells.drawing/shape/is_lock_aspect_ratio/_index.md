@@ -11,7 +11,12 @@ is_root: false
 ## is_lock_aspect_ratio property
 
 
-True means that don't allow changes in aspect ratio.
+True means that aspect ratio of the shape is locked.
+
+### Remarks 
+
+
+Only for pictures and Ole Objects.
 
 ### Example 
 

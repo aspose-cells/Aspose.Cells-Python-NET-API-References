@@ -3,7 +3,7 @@ title: get_threaded_comments method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells/commentcollection/get_threaded_comments/
 is_root: false
 ---

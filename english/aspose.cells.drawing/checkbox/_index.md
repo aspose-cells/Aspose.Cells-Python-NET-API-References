@@ -26,7 +26,7 @@ The CheckBox type exposes the following members:
 | :- | :- |
 | [macro_name](/cells/python-net/aspose.cells.drawing/checkbox/macro_name) | Gets and sets the name of macro. |
 | [is_equation](/cells/python-net/aspose.cells.drawing/checkbox/is_equation) | Indicates whether the shape only contains an equation. |
-| [is_smart_art](/cells/python-net/aspose.cells.drawing/checkbox/is_smart_art) | Indicates whether the shape is smart art. |
+| [is_smart_art](/cells/python-net/aspose.cells.drawing/checkbox/is_smart_art) | Indicates whether the shape is a smart art. |
 | [z_order_position](/cells/python-net/aspose.cells.drawing/checkbox/z_order_position) | Returns the position of a shape in the z-order. |
 | [name](/cells/python-net/aspose.cells.drawing/checkbox/name) | Gets and sets the name of the shape. |
 | [alternative_text](/cells/python-net/aspose.cells.drawing/checkbox/alternative_text) | Returns or sets the descriptive (alternative) text string of the [`Shape`](/cells/python-net/aspose.cells.drawing/shape) object. |
@@ -43,24 +43,24 @@ The CheckBox type exposes the following members:
 | [text_frame](/cells/python-net/aspose.cells.drawing/checkbox/text_frame) | Returns a TextFrame object that contains the alignment and anchoring properties for the specified shape. |
 | [format_picture](/cells/python-net/aspose.cells.drawing/checkbox/format_picture) | Gets and sets the options of the picture format. |
 | [is_hidden](/cells/python-net/aspose.cells.drawing/checkbox/is_hidden) | Indicates whether the object is visible. |
-| [is_lock_aspect_ratio](/cells/python-net/aspose.cells.drawing/checkbox/is_lock_aspect_ratio) | True means that don't allow changes in aspect ratio. |
+| [is_lock_aspect_ratio](/cells/python-net/aspose.cells.drawing/checkbox/is_lock_aspect_ratio) | True means that aspect ratio of the shape is locked. |
 | [rotation_angle](/cells/python-net/aspose.cells.drawing/checkbox/rotation_angle) | Gets and sets the rotation of the shape. |
 | [hyperlink](/cells/python-net/aspose.cells.drawing/checkbox/hyperlink) | Gets the hyperlink of the shape. |
 | [id](/cells/python-net/aspose.cells.drawing/checkbox/id) | Gets the identifier of this shape. |
-| [spid](/cells/python-net/aspose.cells.drawing/checkbox/spid) | Specifies an optional string that an application can use to Identify the particular shape. |
+| [spid](/cells/python-net/aspose.cells.drawing/checkbox/spid) | Specifies an optional string identifier that an application can use to identify the particular shape. |
 | [spt](/cells/python-net/aspose.cells.drawing/checkbox/spt) | Specifies an optional number that an application can use to associate the particular shape with a defined shape type. |
 | [worksheet](/cells/python-net/aspose.cells.drawing/checkbox/worksheet) | Gets the [`Shape.worksheet`](/cells/python-net/aspose.cells.drawing/shape#worksheet) object which contains this shape. |
-| [is_group](/cells/python-net/aspose.cells.drawing/checkbox/is_group) | Indicates whether the shape is a group. |
+| [is_group](/cells/python-net/aspose.cells.drawing/checkbox/is_group) | Indicates whether this shape is a group shape. |
 | [is_in_group](/cells/python-net/aspose.cells.drawing/checkbox/is_in_group) | Indicates whether the shape is grouped. |
 | [is_word_art](/cells/python-net/aspose.cells.drawing/checkbox/is_word_art) | Indicates whether this shape is a word art. |
 | [text_effect](/cells/python-net/aspose.cells.drawing/checkbox/text_effect) | Returns a TextEffectFormat object that contains text-effect formatting properties for the specified shape. <br/>Applies to Shape objects that represent WordArt. |
-| [is_locked](/cells/python-net/aspose.cells.drawing/checkbox/is_locked) | True if the object is locked, False if the object can be modified when the sheet is protected. |
-| [is_printable](/cells/python-net/aspose.cells.drawing/checkbox/is_printable) | True if the object is printable |
-| [mso_drawing_type](/cells/python-net/aspose.cells.drawing/checkbox/mso_drawing_type) | Gets mso drawing type. |
+| [is_locked](/cells/python-net/aspose.cells.drawing/checkbox/is_locked) | True means the object can not be modified when the sheet is protected. <br/>Note that this value is meaningful only if the worksheet or objects in the worksheet are protected. |
+| [is_printable](/cells/python-net/aspose.cells.drawing/checkbox/is_printable) | Indicates whether the object is printable.<br/>If False, this shape will not be printed when printing. |
+| [mso_drawing_type](/cells/python-net/aspose.cells.drawing/checkbox/mso_drawing_type) | Gets drawing type. |
 | [auto_shape_type](/cells/python-net/aspose.cells.drawing/checkbox/auto_shape_type) | Gets and sets the auto shape type. |
-| [anchor_type](/cells/python-net/aspose.cells.drawing/checkbox/anchor_type) | Gets and set the shape anchor placeholder. |
+| [anchor_type](/cells/python-net/aspose.cells.drawing/checkbox/anchor_type) | Gets and set the type of the shape anchor placeholder. |
 | [placement](/cells/python-net/aspose.cells.drawing/checkbox/placement) | Represents the way the drawing object is attached to the cells below it.<br/>The property controls the placement of an object on a worksheet. |
-| [upper_left_row](/cells/python-net/aspose.cells.drawing/checkbox/upper_left_row) | Represents upper left corner row index. |
+| [upper_left_row](/cells/python-net/aspose.cells.drawing/checkbox/upper_left_row) | Represents the top row index. |
 | [upper_delta_y](/cells/python-net/aspose.cells.drawing/checkbox/upper_delta_y) | Gets or sets the shape's vertical offset from its upper left corner row. |
 | [upper_left_column](/cells/python-net/aspose.cells.drawing/checkbox/upper_left_column) | Represents upper left corner column index. |
 | [upper_delta_x](/cells/python-net/aspose.cells.drawing/checkbox/upper_delta_x) | Gets or sets the shape's horizontal offset from its upper left corner column. |
@@ -109,7 +109,7 @@ The CheckBox type exposes the following members:
 | [text_body](/cells/python-net/aspose.cells.drawing/checkbox/text_body) | Gets and sets the setting of the shape's text. |
 | [font](/cells/python-net/aspose.cells.drawing/checkbox/font) | Represents the font of shape. |
 | [text_options](/cells/python-net/aspose.cells.drawing/checkbox/text_options) | Represents the text options of the shape. |
-| [text](/cells/python-net/aspose.cells.drawing/checkbox/text) | Represents the string in this TextBox object. |
+| [text](/cells/python-net/aspose.cells.drawing/checkbox/text) | Gets and sets the text of this shape. |
 | [is_rich_text](/cells/python-net/aspose.cells.drawing/checkbox/is_rich_text) | Whether or not the text is rich text. |
 | [html_text](/cells/python-net/aspose.cells.drawing/checkbox/html_text) | Gets and sets the html string which contains data and some formats in this textbox. |
 | [text_vertical_overflow](/cells/python-net/aspose.cells.drawing/checkbox/text_vertical_overflow) | Gets and sets the text vertical overflow type of the shape which contains text. |
@@ -143,7 +143,7 @@ The CheckBox type exposes the following members:
 | [get_locked_property](/cells/python-net/aspose.cells.drawing/checkbox/get_locked_property/#aspose.cells.drawing.ShapeLockType) | Gets the value of locked property. |
 | [set_locked_property](/cells/python-net/aspose.cells.drawing/checkbox/set_locked_property/#aspose.cells.drawing.ShapeLockType-bool) | Set the locked property. |
 | [add_hyperlink](/cells/python-net/aspose.cells.drawing/checkbox/add_hyperlink/#str) | Adds a hyperlink to the shape. |
-| [remove_hyperlink](/cells/python-net/aspose.cells.drawing/checkbox/remove_hyperlink/#) | Remove the hyperlink of the shape. |
+| [remove_hyperlink](/cells/python-net/aspose.cells.drawing/checkbox/remove_hyperlink/#) | Removes the hyperlink of the shape. |
 | [move_to_range](/cells/python-net/aspose.cells.drawing/checkbox/move_to_range/#int-int-int-int) | Moves the shape to a specified range. |
 | [align_top_right_corner](/cells/python-net/aspose.cells.drawing/checkbox/align_top_right_corner/#int-int) | Moves the picture to the top-right corner. |
 | [get_connection_points](/cells/python-net/aspose.cells.drawing/checkbox/get_connection_points/#) | Get the connection points |

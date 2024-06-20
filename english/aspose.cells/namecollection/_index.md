@@ -36,6 +36,8 @@ The NameCollection type exposes the following members:
 | [last_index_of](/cells/python-net/aspose.cells/namecollection/last_index_of/#aspose.cells.Name-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [add](/cells/python-net/aspose.cells/namecollection/add/#str) | Defines a new name. |
 | [filter](/cells/python-net/aspose.cells/namecollection/filter/#aspose.cells.NameScopeType-int) | Gets all defined name by scope. |
+| [remove_a_name](/cells/python-net/aspose.cells/namecollection/remove_a_name/#str) | Remove the name. |
+| [remove_names_by_array](/cells/python-net/aspose.cells/namecollection/remove_names_by_array/#list) | Remove an array of name |
 | [remove_duplicate_names](/cells/python-net/aspose.cells/namecollection/remove_duplicate_names/#) | Remove the duplicate defined names |
 | [binary_search](/cells/python-net/aspose.cells/namecollection/binary_search/#aspose.cells.Name) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 

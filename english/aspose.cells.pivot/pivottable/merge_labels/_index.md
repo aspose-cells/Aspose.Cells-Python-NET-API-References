@@ -3,7 +3,7 @@ title: merge_labels property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 670
 url: /aspose.cells.pivot/pivottable/merge_labels/
 is_root: false
 ---
@@ -11,8 +11,7 @@ is_root: false
 ## merge_labels property
 
 
-Indicates whether the specified PivotTable report's outer-row item, column item, subtotal,
-and grand total labels use merged cells.
+True if the specified PivotTable report's outer-row item, column item, subtotal, and grand total labels use merged cells.
 ### Definition:
 ```python
 @property

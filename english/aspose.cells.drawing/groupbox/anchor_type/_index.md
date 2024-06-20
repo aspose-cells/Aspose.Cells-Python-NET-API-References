@@ -11,7 +11,7 @@ is_root: false
 ## anchor_type property
 
 
-Gets and set the shape anchor placeholder.
+Gets and set the type of the shape anchor placeholder.
 
 ### Example 
 

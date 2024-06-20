@@ -3,7 +3,7 @@ title: is_selected property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 640
 url: /aspose.cells.pivot/pivottable/is_selected/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## is_selected property
 
 
-Indicates whether the PivotTable is selected.
+Indicates whether this PivotTable is selected.
 ### Definition:
 ```python
 @property

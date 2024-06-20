@@ -28,11 +28,11 @@ The Series type exposes the following members:
 | [display_name](/cells/python-net/aspose.cells.charts/series/display_name) | Gets the series's name that displays on the chart graph. |
 | [count_of_data_values](/cells/python-net/aspose.cells.charts/series/count_of_data_values) | Gets the number of the data values. |
 | [is_vertical_values](/cells/python-net/aspose.cells.charts/series/is_vertical_values) | Indicates whether the data source is vertical. |
-| [values](/cells/python-net/aspose.cells.charts/series/values) | Represents the data of the chart series. |
-| [values_format_code](/cells/python-net/aspose.cells.charts/series/values_format_code) | Represents format code of Values‘s NumberList. |
+| [values](/cells/python-net/aspose.cells.charts/series/values) | Represents the Y values of this chart series. |
+| [values_format_code](/cells/python-net/aspose.cells.charts/series/values_format_code) | Represents format code of Values's NumberList. |
 | [x_values](/cells/python-net/aspose.cells.charts/series/x_values) | Represents the x values of the chart series. |
 | [bubble_sizes](/cells/python-net/aspose.cells.charts/series/bubble_sizes) | Gets or sets the bubble sizes values of the chart series. |
-| [trend_lines](/cells/python-net/aspose.cells.charts/series/trend_lines) | Returns an object that represents a collection of all the trendlines for the series. |
+| [trend_lines](/cells/python-net/aspose.cells.charts/series/trend_lines) | Returns all the trendlines of this series. |
 | [smooth](/cells/python-net/aspose.cells.charts/series/smooth) | Represents curve smoothing. <br/>True if curve smoothing is turned on for the line chart or scatter chart.<br/>Applies only to line and scatter connected by lines charts. |
 | [shadow](/cells/python-net/aspose.cells.charts/series/shadow) | True if the series has a shadow. |
 | [has_3d_effect](/cells/python-net/aspose.cells.charts/series/has_3d_effect) | True if the series has a three-dimensional appearance. <br/>Applies only to bubble charts. |

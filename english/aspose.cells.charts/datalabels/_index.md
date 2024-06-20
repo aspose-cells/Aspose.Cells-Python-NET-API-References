@@ -64,7 +64,7 @@ The DataLabels type exposes the following members:
 | [show_percentage](/cells/python-net/aspose.cells.charts/datalabels/show_percentage) | Represents a specified chart's data label percentage value display behavior. True displays the percentage value. False to hide. |
 | [show_bubble_size](/cells/python-net/aspose.cells.charts/datalabels/show_bubble_size) | Represents a specified chart's data label percentage value display behavior. True displays the percentage value. False to hide. |
 | [show_category_name](/cells/python-net/aspose.cells.charts/datalabels/show_category_name) | Represents a specified chart's data label category name display behavior.True to display the category name for the data labels on a chart. False to hide. |
-| [show_series_name](/cells/python-net/aspose.cells.charts/datalabels/show_series_name) | Returns or sets a Boolean to indicate the series name display behavior for the data labels on a chart.<br/>True to show the series name. False to hide. |
+| [show_series_name](/cells/python-net/aspose.cells.charts/datalabels/show_series_name) | Indicates whether the series name displays for the data labels on a chart.<br/>True to show the series name. False to hide. |
 | [show_legend_key](/cells/python-net/aspose.cells.charts/datalabels/show_legend_key) | Represents a specified chart's data label legend key display behavior.<br/>True if the data label legend key is visible. |
 | [number_format](/cells/python-net/aspose.cells.charts/datalabels/number_format) | Represents the format string for the DataLabels object. |
 | [number](/cells/python-net/aspose.cells.charts/datalabels/number) | Gets and sets the built-in number format. |

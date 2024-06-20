@@ -12,7 +12,11 @@ is_root: false
 
 
 Represents amount of error bar.
- The amount must be greater than or equal to zero.
+
+### Remarks 
+
+
+The amount must be greater than or equal to zero.
 ### Definition:
 ```python
 @property
