@@ -3,7 +3,7 @@ title: background_mode property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 40
 url: /aspose.cells.charts/chartdatatable/background_mode/
 is_root: false
 ---

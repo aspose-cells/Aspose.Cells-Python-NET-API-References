@@ -3,7 +3,7 @@ title: is_hidden property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 580
+weight: 590
 url: /aspose.cells.drawing/customxmlshape/is_hidden/
 is_root: false
 ---

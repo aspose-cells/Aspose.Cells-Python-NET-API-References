@@ -3,7 +3,7 @@ title: height_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 460
 url: /aspose.cells.drawing/chartshape/height_inch/
 is_root: false
 ---

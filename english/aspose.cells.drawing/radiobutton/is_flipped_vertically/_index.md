@@ -3,7 +3,7 @@ title: is_flipped_vertically property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 590
+weight: 600
 url: /aspose.cells.drawing/radiobutton/is_flipped_vertically/
 is_root: false
 ---

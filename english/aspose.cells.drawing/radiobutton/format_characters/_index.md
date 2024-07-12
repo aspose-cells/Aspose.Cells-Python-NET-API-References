@@ -8,30 +8,6 @@ url: /aspose.cells.drawing/radiobutton/format_characters/
 is_root: false
 ---
 
-## format_characters {#int-int-aspose.cells.Font}
-
-Formats some characters with the font setting.
-
-
-
-```python
-def format_characters(self, start_index, length, font):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| start_index | int | The start index. |
-| length | int | The length. |
-| font | [`Font`](/cells/python-net/aspose.cells/font) | The font setting. |
-### Remarks
-
-NOTE: This member is now obsolete. Instead, 
-please use Shape.FormatCharacters(int startIndex, int length, Font font, StyleFlag flag) method.
-This property will be removed 12 months later since March 2016. 
-Aspose apologizes for any inconvenience you may have experienced.
-
 ## format_characters {#int-int-aspose.cells.Font-aspose.cells.StyleFlag}
 
 Formats some characters with the font setting.

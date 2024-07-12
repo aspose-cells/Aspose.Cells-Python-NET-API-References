@@ -3,7 +3,7 @@ title: JsonLayoutOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /aspose.cells.utility/jsonlayoutoptions/
 is_root: false
 ---
@@ -34,6 +34,7 @@ The JsonLayoutOptions type exposes the following members:
 | [number_format](/cells/python-net/aspose.cells.utility/jsonlayoutoptions/number_format) | Gets and sets the format of numeric value. |
 | [date_format](/cells/python-net/aspose.cells.utility/jsonlayoutoptions/date_format) | Gets and sets the format of date value. |
 | [title_style](/cells/python-net/aspose.cells.utility/jsonlayoutoptions/title_style) | Gets and sets the style of the title. |
+| [kept_schema](/cells/python-net/aspose.cells.utility/jsonlayoutoptions/kept_schema) | Indicates whether keeping schema of this json. |
 
 
 

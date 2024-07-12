@@ -10,7 +10,7 @@ is_root: false
 
 ## refresh_pivot_data {#}
 
-Refreshes pivot chart's data  from it's pivot data source.
+Refreshes chart's data from pivot table.
 
 
 
@@ -22,7 +22,7 @@ def refresh_pivot_data(self):
 
 ### Remarks
 
-We will gather data from pivot data source to the pivot chart cache.
+We will gather data from pivot data source to the pivot table report.
 This method is only used to gather all data to a pivot chart.
 
 

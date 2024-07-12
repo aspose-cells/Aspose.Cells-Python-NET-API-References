@@ -3,7 +3,7 @@ title: y_value property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /aspose.cells.charts/chartpoint/y_value/
 is_root: false
 ---

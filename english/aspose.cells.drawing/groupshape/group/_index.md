@@ -3,7 +3,7 @@ title: group property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 420
 url: /aspose.cells.drawing/groupshape/group/
 is_root: false
 ---

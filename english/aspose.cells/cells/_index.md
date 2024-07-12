@@ -195,6 +195,7 @@ The Cells type exposes the following members:
 | [convert_string_to_numeric_value](/cells/python-net/aspose.cells/cells/convert_string_to_numeric_value/#) | Converts all string data in the worksheet to numeric value if possible. |
 | [get_dependents](/cells/python-net/aspose.cells/cells/get_dependents/#bool-int-int) | Get all cells which refer to the specific cell. |
 | [get_dependents_in_calculation](/cells/python-net/aspose.cells/cells/get_dependents_in_calculation/#int-int-bool) | Gets all cells whose calculated result depends on specific cell. |
+| [get_cells_with_place_in_cell_picture](/cells/python-net/aspose.cells/cells/get_cells_with_place_in_cell_picture/#) | Gets all cells that contain embedded picture. |
 | [get_cell_style](/cells/python-net/aspose.cells/cells/get_cell_style/#int-int) | Get the style of given cell. |
 
 

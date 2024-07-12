@@ -11,14 +11,14 @@ is_root: false
 ## source_name property
 
 
-Returns the name of cache field
+Returns the name of this slicer cache.
 
 ### Example 
 
 
 ```python
 
-# get the name of cache field.
+# get the name of this slicer cache.
 print(slicerCache.source_name)
 
 ```

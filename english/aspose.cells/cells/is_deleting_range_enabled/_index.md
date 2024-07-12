@@ -3,7 +3,7 @@ title: is_deleting_range_enabled method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 770
 url: /aspose.cells/cells/is_deleting_range_enabled/
 is_root: false
 ---

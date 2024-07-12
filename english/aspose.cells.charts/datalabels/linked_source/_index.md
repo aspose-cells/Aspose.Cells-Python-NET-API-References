@@ -3,7 +3,7 @@ title: linked_source property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 270
 url: /aspose.cells.charts/datalabels/linked_source/
 is_root: false
 ---

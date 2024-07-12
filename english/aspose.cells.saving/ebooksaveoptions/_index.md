@@ -26,6 +26,7 @@ The EbookSaveOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/cells/python-net/aspose.cells.saving/ebooksaveoptions/__init__/#) | Creates options for saving ebook file. |
+| [__init__](/cells/python-net/aspose.cells.saving/ebooksaveoptions/__init__/#aspose.cells.SaveFormat) | Creates options for saving htm file. |
 
 
 ### Properties

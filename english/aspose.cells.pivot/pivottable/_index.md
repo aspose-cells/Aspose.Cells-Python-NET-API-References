@@ -112,6 +112,8 @@ The PivotTable type exposes the following members:
 | [move](/cells/python-net/aspose.cells.pivot/pivottable/move/#str) | Moves the PivotTable to a different location in the worksheet. |
 | [refresh_data](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data/#) | Refreshes pivottable's data and setting from it's data source. |
 | [refresh_data](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data/#aspose.cells.pivot.PivotTableRefreshOption) | Refreshes pivottable's data and setting from it's data source with options. |
+| [calculate_data](/cells/python-net/aspose.cells.pivot/pivottable/calculate_data/#) | Calculates pivottable's data to cells. |
+| [calculate_data](/cells/python-net/aspose.cells.pivot/pivottable/calculate_data/#aspose.cells.pivot.PivotTableCalculateOption) | Calculating pivot tables with options |
 | [format](/cells/python-net/aspose.cells.pivot/pivottable/format/#aspose.cells.pivot.PivotArea-aspose.cells.Style) | Formats selected area of the PivotTable. |
 | [format](/cells/python-net/aspose.cells.pivot/pivottable/format/#int-int-aspose.cells.Style) | Format the cell in the pivottable area |
 | [set_auto_group_field](/cells/python-net/aspose.cells.pivot/pivottable/set_auto_group_field/#int) | Sets auto field group by the PivotTable. |
@@ -130,7 +132,6 @@ The PivotTable type exposes the following members:
 | [fields](/cells/python-net/aspose.cells.pivot/pivottable/fields/#aspose.cells.pivot.PivotFieldType) | Gets the specific fields by the field type. |
 | [change_data_source](/cells/python-net/aspose.cells.pivot/pivottable/change_data_source/#list) | Set pivottable's source data.<br/>Sheet1!$A$1:$C$3 |
 | [get_source](/cells/python-net/aspose.cells.pivot/pivottable/get_source/#) | Get pivottable's source data. |
-| [calculate_data](/cells/python-net/aspose.cells.pivot/pivottable/calculate_data/#) | Calculates pivottable's data to cells. |
 | [clear_data](/cells/python-net/aspose.cells.pivot/pivottable/clear_data/#) | Clear PivotTable's data and formatting |
 | [calculate_range](/cells/python-net/aspose.cells.pivot/pivottable/calculate_range/#) | Calculates pivottable's range. |
 | [format_all](/cells/python-net/aspose.cells.pivot/pivottable/format_all/#aspose.cells.Style) | Format all the cell in the pivottable area |

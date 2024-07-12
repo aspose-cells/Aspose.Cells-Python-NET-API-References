@@ -32,6 +32,7 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotPageFields`](/cells/python-net/aspose.cells.pivot/pivotpagefields) | Represents the pivot page field items <br/>if the pivot table data source is consolidation ranges.<br/>It only can contain up to 4 fields. |
 | [`PivotShowValuesSetting`](/cells/python-net/aspose.cells.pivot/pivotshowvaluessetting) | Represents the settings about showing values as when the ShowDataAs calculation is in use. |
 | [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable) | Summary description for PivotTable. |
+| [`PivotTableCalculateOption`](/cells/python-net/aspose.cells.pivot/pivottablecalculateoption) | Rerepsents the options of calcuating the pivot table. |
 | [`PivotTableCollection`](/cells/python-net/aspose.cells.pivot/pivottablecollection) | Represents the collection of all the PivotTable objects on the specified worksheet. |
 | [`PivotTableFormat`](/cells/python-net/aspose.cells.pivot/pivottableformat) | Represents the format defined in the PivotTable. |
 | [`PivotTableFormatCollection`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection) | Represents the collection of formats applied to PivotTable. |
@@ -51,7 +52,7 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | Represents PivotTable field type. |
 | [`PivotFilterType`](/cells/python-net/aspose.cells.pivot/pivotfiltertype) | Represents PivotTable Filter type. |
 | [`PivotGroupByType`](/cells/python-net/aspose.cells.pivot/pivotgroupbytype) | Represents group by type. |
-| [`PivotItemPosition`](/cells/python-net/aspose.cells.pivot/pivotitemposition) | Represents PivotTable base item Next/Previous/All position in the base field . |
+| [`PivotItemPosition`](/cells/python-net/aspose.cells.pivot/pivotitemposition) |  |
 | [`PivotItemPositionType`](/cells/python-net/aspose.cells.pivot/pivotitempositiontype) | Represents the position type of the pivot base item in the base field when the ShowDataAs calculation is in use. |
 | [`PivotMissingItemLimitType`](/cells/python-net/aspose.cells.pivot/pivotmissingitemlimittype) | Represents number of items to retain per field. |
 | [`PivotTableAutoFormatType`](/cells/python-net/aspose.cells.pivot/pivottableautoformattype) | Represents PivotTable auto format type. |

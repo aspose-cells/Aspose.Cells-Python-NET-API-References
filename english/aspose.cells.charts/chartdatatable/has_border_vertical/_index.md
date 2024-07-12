@@ -3,7 +3,7 @@ title: has_border_vertical property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 90
 url: /aspose.cells.charts/chartdatatable/has_border_vertical/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 True if the chart data table has vertical cell borders
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use ChartDataTable.HasVerticalBorder property.
+This property will be removed 12 months later since June 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

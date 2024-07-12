@@ -3,7 +3,7 @@ title: height_pt property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 460
 url: /aspose.cells.drawing/button/height_pt/
 is_root: false
 ---

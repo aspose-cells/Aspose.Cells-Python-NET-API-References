@@ -3,7 +3,7 @@ title: text property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1000
+weight: 1010
 url: /aspose.cells.drawing/listbox/text/
 is_root: false
 ---

@@ -40,10 +40,10 @@ The ListBox type exposes the following members:
 | [glow](/cells/python-net/aspose.cells.drawing/listbox/glow) | Represents a [`GlowEffect`](/cells/python-net/aspose.cells.drawing/gloweffect) object that specifies glow effect for the chart element or shape. |
 | [soft_edges](/cells/python-net/aspose.cells.drawing/listbox/soft_edges) | Gets and sets the radius of blur to apply to the edges, in unit of points. |
 | [three_d_format](/cells/python-net/aspose.cells.drawing/listbox/three_d_format) | Gets and sets 3d format of the shape. |
-| [text_frame](/cells/python-net/aspose.cells.drawing/listbox/text_frame) | Returns a TextFrame object that contains the alignment and anchoring properties for the specified shape. |
 | [format_picture](/cells/python-net/aspose.cells.drawing/listbox/format_picture) | Gets and sets the options of the picture format. |
 | [is_hidden](/cells/python-net/aspose.cells.drawing/listbox/is_hidden) | Indicates whether the object is visible. |
 | [is_lock_aspect_ratio](/cells/python-net/aspose.cells.drawing/listbox/is_lock_aspect_ratio) | True means that aspect ratio of the shape is locked. |
+| [is_aspect_ratio_locked](/cells/python-net/aspose.cells.drawing/listbox/is_aspect_ratio_locked) | True means that aspect ratio of the shape is locked. |
 | [rotation_angle](/cells/python-net/aspose.cells.drawing/listbox/rotation_angle) | Gets and sets the rotation of the shape. |
 | [hyperlink](/cells/python-net/aspose.cells.drawing/listbox/hyperlink) | Gets the hyperlink of the shape. |
 | [id](/cells/python-net/aspose.cells.drawing/listbox/id) | Gets the identifier of this shape. |
@@ -101,7 +101,6 @@ The ListBox type exposes the following members:
 | [is_flipped_horizontally](/cells/python-net/aspose.cells.drawing/listbox/is_flipped_horizontally) | Gets and sets whether shape is horizontally flipped . |
 | [is_flipped_vertically](/cells/python-net/aspose.cells.drawing/listbox/is_flipped_vertically) | Gets and sets whether shape is vertically flipped . |
 | [actual_lower_right_row](/cells/python-net/aspose.cells.drawing/listbox/actual_lower_right_row) | Get the actual bottom row. |
-| [connection_points](/cells/python-net/aspose.cells.drawing/listbox/connection_points) | Get the connection points |
 | [relative_to_original_picture_size](/cells/python-net/aspose.cells.drawing/listbox/relative_to_original_picture_size) | Indicates whether shape is relative to original picture size. |
 | [linked_cell](/cells/python-net/aspose.cells.drawing/listbox/linked_cell) | Gets or sets the worksheet range linked to the control's value. |
 | [input_range](/cells/python-net/aspose.cells.drawing/listbox/input_range) | Gets or sets the worksheet range used to fill the specified combo box. |
@@ -124,6 +123,7 @@ The ListBox type exposes the following members:
 | [paths](/cells/python-net/aspose.cells.drawing/listbox/paths) | Gets the paths of a custom geometric shape. |
 | [geometry](/cells/python-net/aspose.cells.drawing/listbox/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/listbox/create_id) | Gets and sets create id for this shape. |
+| [is_decorative](/cells/python-net/aspose.cells.drawing/listbox/is_decorative) | Indicates whether the object is decorative. |
 | [item_count](/cells/python-net/aspose.cells.drawing/listbox/item_count) | Gets the number of items in the list box. |
 | [selected_index](/cells/python-net/aspose.cells.drawing/listbox/selected_index) | Gets or sets the index number of the currently selected item in a list box or combo box.<br/>Zero-based. |
 | [selected_cells](/cells/python-net/aspose.cells.drawing/listbox/selected_cells) | Gets the selected cells.<br/>Returns null if the input range is not set or no item is selected |
@@ -138,8 +138,6 @@ The ListBox type exposes the following members:
 | [to_image](/cells/python-net/aspose.cells.drawing/listbox/to_image/#io.RawIOBase-aspose.cells.drawing.ImageType) | Creates the shape image and saves it to a stream in the specified format. |
 | [to_image](/cells/python-net/aspose.cells.drawing/listbox/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Saves the shape to a file. |
 | [to_image](/cells/python-net/aspose.cells.drawing/listbox/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Saves the shape to a stream. |
-| [format_characters](/cells/python-net/aspose.cells.drawing/listbox/format_characters/#int-int-aspose.cells.Font-aspose.cells.StyleFlag) | Formats some characters with the font setting. |
-| [format_characters](/cells/python-net/aspose.cells.drawing/listbox/format_characters/#int-int-aspose.cells.Font) | Formats some characters with the font setting. |
 | [get_result_of_smart_art](/cells/python-net/aspose.cells.drawing/listbox/get_result_of_smart_art/#) | Converting smart art to grouped shapes. |
 | [to_front_or_back](/cells/python-net/aspose.cells.drawing/listbox/to_front_or_back/#int) | Brings the shape to the front or sends the shape to back. |
 | [get_locked_property](/cells/python-net/aspose.cells.drawing/listbox/get_locked_property/#aspose.cells.drawing.ShapeLockType) | Gets the value of locked property. |
@@ -155,6 +153,7 @@ The ListBox type exposes the following members:
 | [set_input_range](/cells/python-net/aspose.cells.drawing/listbox/set_input_range/#str-bool-bool) | Sets the range used to fill the control. |
 | [update_selected_value](/cells/python-net/aspose.cells.drawing/listbox/update_selected_value/#) | Update the selected value by the value of the linked cell. |
 | [calculate_text_size](/cells/python-net/aspose.cells.drawing/listbox/calculate_text_size/#) | Recalculate the text area |
+| [format_characters](/cells/python-net/aspose.cells.drawing/listbox/format_characters/#int-int-aspose.cells.Font-aspose.cells.StyleFlag) | Formats some characters with the font setting. |
 | [characters](/cells/python-net/aspose.cells.drawing/listbox/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
 | [get_characters](/cells/python-net/aspose.cells.drawing/listbox/get_characters/#) | Returns all Characters objects <br/>that represents a range of characters within the text . |
 | [get_rich_formattings](/cells/python-net/aspose.cells.drawing/listbox/get_rich_formattings/#) | Returns all Characters objects <br/>that represents a range of characters within the text . |

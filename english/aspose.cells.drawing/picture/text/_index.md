@@ -3,7 +3,7 @@ title: text property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1110
+weight: 1130
 url: /aspose.cells.drawing/picture/text/
 is_root: false
 ---

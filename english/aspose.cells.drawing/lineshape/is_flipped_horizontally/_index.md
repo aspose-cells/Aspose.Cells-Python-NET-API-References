@@ -3,7 +3,7 @@ title: is_flipped_horizontally property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 620
 url: /aspose.cells.drawing/lineshape/is_flipped_horizontally/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: lower_delta_y property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 770
 url: /aspose.cells.drawing/shape/lower_delta_y/
 is_root: false
 ---

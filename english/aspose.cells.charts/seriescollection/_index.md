@@ -39,6 +39,7 @@ The SeriesCollection type exposes the following members:
 | [last_index_of](/cells/python-net/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [get_series_by_order](/cells/python-net/aspose.cells.charts/seriescollection/get_series_by_order/#int) | Gets the [`Series`](/cells/python-net/aspose.cells.charts/series) element by order. |
 | [change_series_order](/cells/python-net/aspose.cells.charts/seriescollection/change_series_order/#int-int) | Directly changes the orders of the two series. |
+| [swap_series](/cells/python-net/aspose.cells.charts/seriescollection/swap_series/#int-int) | Directly changes the orders of the two series. |
 | [set_series_names](/cells/python-net/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | Sets the name of all the serieses in the chart. |
 | [add_r1c1](/cells/python-net/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart. |
 | [binary_search](/cells/python-net/aspose.cells.charts/seriescollection/binary_search/#aspose.cells.charts.Series) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |

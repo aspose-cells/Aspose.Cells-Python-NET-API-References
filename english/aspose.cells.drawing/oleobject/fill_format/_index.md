@@ -3,7 +3,7 @@ title: fill_format property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 420
 url: /aspose.cells.drawing/oleobject/fill_format/
 is_root: false
 ---
