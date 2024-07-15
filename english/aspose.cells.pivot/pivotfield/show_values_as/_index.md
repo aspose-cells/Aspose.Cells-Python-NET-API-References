@@ -10,7 +10,7 @@ is_root: false
 
 ## show_values_as {#aspose.cells.pivot.PivotFieldDataDisplayFormat-int-aspose.cells.pivot.PivotItemPositionType-int}
 
-Show value of data field as different display format when the ShowDataAs calculation is in use.
+Shows values of data field as different display format when the ShowDataAs calculation is in use.
 
 
 

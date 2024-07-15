@@ -3,7 +3,7 @@ title: is_in_secondary_plot property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /aspose.cells.charts/chartpoint/is_in_secondary_plot/
 is_root: false
 ---

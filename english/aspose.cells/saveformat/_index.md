@@ -58,6 +58,7 @@ The SaveFormat type exposes the following members:
 | SQL_SCRIPT | Sql |
 | X_HTML | Rrepesents XHtml file. |
 | EPUB | Represents Epub file. |
+| AZW3 | Represents Azw3 file. |
 
 
 

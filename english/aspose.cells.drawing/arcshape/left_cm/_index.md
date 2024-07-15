@@ -3,7 +3,7 @@ title: left_cm property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 740
+weight: 750
 url: /aspose.cells.drawing/arcshape/left_cm/
 is_root: false
 ---

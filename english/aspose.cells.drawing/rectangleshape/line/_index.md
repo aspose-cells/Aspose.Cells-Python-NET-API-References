@@ -3,7 +3,7 @@ title: line property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 730
 url: /aspose.cells.drawing/rectangleshape/line/
 is_root: false
 ---

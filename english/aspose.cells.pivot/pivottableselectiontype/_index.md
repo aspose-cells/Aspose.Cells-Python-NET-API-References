@@ -3,7 +3,7 @@ title: PivotTableSelectionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /aspose.cells.pivot/pivottableselectiontype/
 is_root: false
 ---

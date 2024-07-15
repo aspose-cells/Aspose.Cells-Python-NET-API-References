@@ -3,7 +3,7 @@ title: lower_right_column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 790
 url: /aspose.cells.drawing/commentshape/lower_right_column/
 is_root: false
 ---

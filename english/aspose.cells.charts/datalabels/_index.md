@@ -81,6 +81,7 @@ The DataLabels type exposes the following members:
 | :- | :- |
 | [set_position_auto](/cells/python-net/aspose.cells.charts/datalabels/set_position_auto/#) | Set position of the frame to automatic |
 | [characters](/cells/python-net/aspose.cells.charts/datalabels/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
+| [apply_font](/cells/python-net/aspose.cells.charts/datalabels/apply_font/#) | Apply the font of the datalabels to all child nodes. |
 
 
 

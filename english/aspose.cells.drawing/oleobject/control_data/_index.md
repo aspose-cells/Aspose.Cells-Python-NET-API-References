@@ -3,7 +3,7 @@ title: control_data property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 370
 url: /aspose.cells.drawing/oleobject/control_data/
 is_root: false
 ---

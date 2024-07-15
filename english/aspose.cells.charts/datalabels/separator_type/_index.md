@@ -3,7 +3,7 @@ title: separator_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells.charts/datalabels/separator_type/
 is_root: false
 ---

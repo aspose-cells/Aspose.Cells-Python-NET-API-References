@@ -3,7 +3,7 @@ title: font property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 390
+weight: 380
 url: /aspose.cells.drawing/groupshape/font/
 is_root: false
 ---

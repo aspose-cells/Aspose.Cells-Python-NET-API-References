@@ -3,7 +3,7 @@ title: geometry property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 440
 url: /aspose.cells.drawing/lineshape/geometry/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: geometry property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 390
 url: /aspose.cells.drawing/combobox/geometry/
 is_root: false
 ---

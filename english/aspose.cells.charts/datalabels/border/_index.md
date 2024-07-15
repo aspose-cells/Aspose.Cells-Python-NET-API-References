@@ -3,7 +3,7 @@ title: border property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /aspose.cells.charts/datalabels/border/
 is_root: false
 ---

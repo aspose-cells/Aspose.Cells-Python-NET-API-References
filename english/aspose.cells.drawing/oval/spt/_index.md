@@ -3,7 +3,7 @@ title: spt property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 910
+weight: 920
 url: /aspose.cells.drawing/oval/spt/
 is_root: false
 ---

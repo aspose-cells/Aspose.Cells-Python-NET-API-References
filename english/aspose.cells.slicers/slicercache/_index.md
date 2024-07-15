@@ -10,7 +10,7 @@ is_root: false
 
 ## SlicerCache class
 
-summary description of slicer cache
+Represent summary description of slicer cache
 
 
 
@@ -23,7 +23,7 @@ The SlicerCache type exposes the following members:
 | [list](/cells/python-net/aspose.cells.slicers/slicercache/list) | Returns whether the slicer associated with the specified slicer cache is based on an Non-OLAP data source. Read-only |
 | [slicer_cache_items](/cells/python-net/aspose.cells.slicers/slicercache/slicer_cache_items) | Returns a SlicerCacheItem collection that contains the collection of all items in the slicer cache. Read-only |
 | [name](/cells/python-net/aspose.cells.slicers/slicercache/name) | Returns the name of the slicer cache. |
-| [source_name](/cells/python-net/aspose.cells.slicers/slicercache/source_name) | Returns the name of cache field |
+| [source_name](/cells/python-net/aspose.cells.slicers/slicercache/source_name) | Returns the name of this slicer cache. |
 
 
 

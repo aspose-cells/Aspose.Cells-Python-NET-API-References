@@ -56,6 +56,7 @@ The JsonLoadOptions type exposes the following members:
 | [start_cell](/cells/python-net/aspose.cells/jsonloadoptions/start_cell) | Gets and sets the start cell. |
 | [layout_options](/cells/python-net/aspose.cells/jsonloadoptions/layout_options) | The options of import json. |
 | [multiple_worksheets](/cells/python-net/aspose.cells/jsonloadoptions/multiple_worksheets) | Indicates whether importing each attribute of JsonObject object as one worksheet when all child nodes are array nodes. |
+| [kept_schema](/cells/python-net/aspose.cells/jsonloadoptions/kept_schema) | Indicates whether keeping schema of this json. |
 
 
 ### Methods

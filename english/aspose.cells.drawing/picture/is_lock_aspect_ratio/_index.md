@@ -3,7 +3,7 @@ title: is_lock_aspect_ratio property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 730
 url: /aspose.cells.drawing/picture/is_lock_aspect_ratio/
 is_root: false
 ---
@@ -17,6 +17,9 @@ True means that aspect ratio of the shape is locked.
 
 
 Only for pictures and Ole Objects.
+NOTE: This member is now obsolete. Instead, please use Shape.IsAspectRatioLocked property. 
+This property will be removed 12 months later since July 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ### Example 
 

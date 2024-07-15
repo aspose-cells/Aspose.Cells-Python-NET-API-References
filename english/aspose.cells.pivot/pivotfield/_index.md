@@ -81,7 +81,7 @@ The PivotField type exposes the following members:
 | [get_calculated_field_formula](/cells/python-net/aspose.cells.pivot/pivotfield/get_calculated_field_formula/#) | Get the formula string of the specified calculated field . |
 | [set_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/set_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType-bool) | Sets whether the specified field shows that subtotals. |
 | [get_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/get_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType) | Indicates whether showing specified subtotal. |
-| [show_values_as](/cells/python-net/aspose.cells.pivot/pivotfield/show_values_as/#aspose.cells.pivot.PivotFieldDataDisplayFormat-int-aspose.cells.pivot.PivotItemPositionType-int) | Show value of data field as different display format when the ShowDataAs calculation is in use. |
+| [show_values_as](/cells/python-net/aspose.cells.pivot/pivotfield/show_values_as/#aspose.cells.pivot.PivotFieldDataDisplayFormat-int-aspose.cells.pivot.PivotItemPositionType-int) | Shows values of data field as different display format when the ShowDataAs calculation is in use. |
 | [is_hidden_item](/cells/python-net/aspose.cells.pivot/pivotfield/is_hidden_item/#int) | Gets whether the specific PivotItem is hidden. |
 | [is_hidden_item_detail](/cells/python-net/aspose.cells.pivot/pivotfield/is_hidden_item_detail/#int) | Gets whether hidding the detail of  the specific PivotItem.. |
 | [hide_item_detail](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item_detail/#int-bool) | Sets whether the specific PivotItem in a pivot field is hidden detail. |

@@ -3,7 +3,7 @@ title: max property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 840
 url: /aspose.cells.drawing/spinner/max/
 is_root: false
 ---

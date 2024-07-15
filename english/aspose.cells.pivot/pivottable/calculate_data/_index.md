@@ -26,6 +26,23 @@ Cell.Value in the pivot range could not return the correct result if the method 
 This method calculates data with an inner pivot cache,not original data source.
 So if the data source is changed, please call RefreshData() method first.
 
+## calculate_data {#aspose.cells.pivot.PivotTableCalculateOption}
+
+Calculating pivot tables with options
+
+
+
+```python
+def calculate_data(self, option):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| option | [`PivotTableCalculateOption`](/cells/python-net/aspose.cells.pivot/pivottablecalculateoption) |  |
+
+
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)

@@ -3,7 +3,7 @@ title: is_smart_art property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 770
+weight: 780
 url: /aspose.cells.drawing/oleobject/is_smart_art/
 is_root: false
 ---

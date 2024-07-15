@@ -28,6 +28,7 @@ The AbstractCalculationEngine type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [calculate](/cells/python-net/aspose.cells/abstractcalculationengine/calculate/#aspose.cells.CalculationData) | Calculates one function with given data. |
+| [force_recalculate](/cells/python-net/aspose.cells/abstractcalculationengine/force_recalculate/#str) | Whether force given function to be recalculated always when calculating shared formulas. |
 
 
 

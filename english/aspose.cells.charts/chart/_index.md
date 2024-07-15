@@ -92,7 +92,7 @@ The Chart type exposes the following members:
 | [is_refered_by_chart](/cells/python-net/aspose.cells.charts/chart/is_refered_by_chart/#int-int) | Returns whether the cell refered by the chart. |
 | [is_cell_refered_by_chart](/cells/python-net/aspose.cells.charts/chart/is_cell_refered_by_chart/#int-int-int) | Returns whether the cell refered by the chart. |
 | [is_chart_data_changed](/cells/python-net/aspose.cells.charts/chart/is_chart_data_changed/#) | Detects if a chart's data source has changed. |
-| [refresh_pivot_data](/cells/python-net/aspose.cells.charts/chart/refresh_pivot_data/#) | Refreshes pivot chart's data  from it's pivot data source. |
+| [refresh_pivot_data](/cells/python-net/aspose.cells.charts/chart/refresh_pivot_data/#) | Refreshes chart's data from pivot table. |
 | [change_template](/cells/python-net/aspose.cells.charts/chart/change_template/#bytes) | Change chart type with preset template. |
 | [move](/cells/python-net/aspose.cells.charts/chart/move/#int-int-int-int) | Moves the chart to a specified location. |
 | [get_actual_size](/cells/python-net/aspose.cells.charts/chart/get_actual_size/#) | Gets actual size of chart in unit of pixels. |

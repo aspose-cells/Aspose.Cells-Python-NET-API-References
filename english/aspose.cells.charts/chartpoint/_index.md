@@ -41,6 +41,7 @@ The ChartPoint type exposes the following members:
 | [shape_height_px](/cells/python-net/aspose.cells.charts/chartpoint/shape_height_px) | Gets the height in units of pixels after calls Chart.Calculate() method. |
 | [border_width_px](/cells/python-net/aspose.cells.charts/chartpoint/border_width_px) | Gets the width of border in units of pixels after calls Chart.Calculate() method. |
 | [radius_px](/cells/python-net/aspose.cells.charts/chartpoint/radius_px) | Gets the radius of bubble, pie or doughnut in units of pixels after calls Chart.Calculate() method. |
+| [doughnut_inner_radius](/cells/python-net/aspose.cells.charts/chartpoint/doughnut_inner_radius) | Gets the inner radius of doughnut slice in units of pixels after calls Chart.Calculate() method.<br/>Applies to Doughnut chart. |
 | [inner_radius_px](/cells/python-net/aspose.cells.charts/chartpoint/inner_radius_px) | Gets the inner radius of doughnut slice in units of pixels after calls Chart.Calculate() method.<br/>Applies to Doughnut chart. |
 | [start_angle](/cells/python-net/aspose.cells.charts/chartpoint/start_angle) | Gets the starting angle for the pie section, measured in degrees clockwise from the x-axis after calls Chart.Calculate() method.<br/>Applies to Pie chart. |
 | [end_angle](/cells/python-net/aspose.cells.charts/chartpoint/end_angle) | Gets the ending angle for the pie section, measured in degrees clockwise from the x-axis after calls Chart.Calculate() method.<br/>Applies to Pie chart. |
