@@ -42,6 +42,7 @@ The XlsbSaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells/xlsbsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells/xlsbsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells/xlsbsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
+| [encrypt_document_properties](/cells/python-net/aspose.cells/xlsbsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [compression_type](/cells/python-net/aspose.cells/xlsbsaveoptions/compression_type) | Gets and sets the compression type for ooxml file. |
 | [export_all_column_indexes](/cells/python-net/aspose.cells/xlsbsaveoptions/export_all_column_indexes) | Indicates whether exporting all column indexes for cells. |
 | [light_cells_data_provider](/cells/python-net/aspose.cells/xlsbsaveoptions/light_cells_data_provider) | The data provider for saving workbook in light mode. |

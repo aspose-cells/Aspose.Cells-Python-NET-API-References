@@ -3,7 +3,7 @@ title: alt_text_title property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /aspose.cells.pivot/pivottable/alt_text_title/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## alt_text_title property
 
 
-Gets the title of the altertext
+Gets and sets the title of the alter text.
 ### Definition:
 ```python
 @property

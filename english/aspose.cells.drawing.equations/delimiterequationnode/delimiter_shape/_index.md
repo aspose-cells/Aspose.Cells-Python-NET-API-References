@@ -3,7 +3,7 @@ title: delimiter_shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 160
 url: /aspose.cells.drawing.equations/delimiterequationnode/delimiter_shape/
 is_root: false
 ---

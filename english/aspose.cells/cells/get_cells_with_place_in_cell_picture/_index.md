@@ -28,7 +28,6 @@ def get_cells_with_place_in_cell_picture(self):
 ### Remarks
 
 If there is no picture which is set as "Place in Cell" in this worksheet, null will be returned.
-/>
 
 
 ### See Also

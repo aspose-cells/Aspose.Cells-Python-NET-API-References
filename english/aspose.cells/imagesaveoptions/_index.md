@@ -43,6 +43,7 @@ The ImageSaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells/imagesaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells/imagesaveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells/imagesaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
+| [encrypt_document_properties](/cells/python-net/aspose.cells/imagesaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [image_or_print_options](/cells/python-net/aspose.cells/imagesaveoptions/image_or_print_options) | Additional image creation options. |
 | [stream_provider](/cells/python-net/aspose.cells/imagesaveoptions/stream_provider) | Gets or sets the IStreamProvider for exporting objects. |
 

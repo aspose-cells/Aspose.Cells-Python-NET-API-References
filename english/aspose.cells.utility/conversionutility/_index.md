@@ -10,7 +10,7 @@ is_root: false
 
 ## ConversionUtility class
 
-Represents converting files other formats.
+Represents utility to convert files to other formats.
 
 
 

@@ -3,7 +3,7 @@ title: limit_as_xls property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells/spreadsheetml2003saveoptions/limit_as_xls/
 is_root: false
 ---

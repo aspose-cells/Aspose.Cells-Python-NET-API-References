@@ -3,7 +3,7 @@ title: is_excel_2003_compatible property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 620
 url: /aspose.cells.pivot/pivottable/is_excel_2003_compatible/
 is_root: false
 ---

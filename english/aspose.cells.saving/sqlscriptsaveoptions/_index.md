@@ -3,7 +3,7 @@ title: SqlScriptSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells.saving/sqlscriptsaveoptions/
 is_root: false
 ---
@@ -41,6 +41,7 @@ The SqlScriptSaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
+| [encrypt_document_properties](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [check_if_table_exists](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions/check_if_table_exists) | Check if the table name exists before creating |
 | [column_type_map](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions/column_type_map) | Gets and sets the map of column type for different database. |
 | [check_all_data_for_column_type](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions/check_all_data_for_column_type) | Check all data to find columns' data type. |

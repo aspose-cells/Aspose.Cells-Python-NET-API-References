@@ -41,6 +41,7 @@ The XmlSaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells/xmlsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells/xmlsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells/xmlsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
+| [encrypt_document_properties](/cells/python-net/aspose.cells/xmlsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [sheet_indexes](/cells/python-net/aspose.cells/xmlsaveoptions/sheet_indexes) | Represents the indexes of exported sheets. |
 | [export_area](/cells/python-net/aspose.cells/xmlsaveoptions/export_area) | Gets or sets the exporting range. |
 | [has_header_row](/cells/python-net/aspose.cells/xmlsaveoptions/has_header_row) | Indicates whether the range contains header row. |

@@ -25,14 +25,15 @@ The EquationNodeType type exposes the following members:
 | :- | :- |
 | UN_KNOW | UnKnow |
 | TEXT | specifies a node that stores math text |
-| BASE | Specifies a component of type 'Base' |
-| DENOMINATOR | Specifies a component of type 'Denominator' |
-| NUMERATOR | Specifies a component of type 'Numerator' |
-| FUNCTION_NAME | Specifies a component of type 'FunctionName' |
-| SUBSCRIPT | Specifies a component of type 'Subscript' |
-| SUPERSCRIPT | Specifies a component of type 'Superscript' |
-| DEGREE | Specifies a component of type 'Degree' |
-| MATRIX_ROW | Specifies a component of type 'MatrixRow'.A single row of the matrix |
+| BASE | Specifies a Base component |
+| DENOMINATOR | Specifies a Denominator component |
+| NUMERATOR | Specifies a Numerator component |
+| FUNCTION_NAME | Specifies a FunctionName component |
+| SUBSCRIPT | Specifies a Subscript component |
+| SUPERSCRIPT | Specifies a Superscript component |
+| DEGREE | Specifies a Degree component |
+| MATRIX_ROW | Specifies a MatrixRow component.A single row of the matrix |
+| LIMIT | If the parent object is limLow,the object of this type specifies the lower limit of the limLow function; if the parent objectis limUpp, the object of this type specifies the Upper-Limit function, consisting of text on the baseline and reduced-size text just above the baseline. |
 | EQUATION_PARAGRAPH | Specifies a mathematical paragraph(oMathPara). |
 | MATHEMATICAL_EQUATION | Specifies an equation or mathematical expression(OMath). |
 | FRACTION_EQUATION | Specifies fractional equation |
@@ -50,6 +51,8 @@ The EquationNodeType type exposes the following members:
 | BOX_EQUATION | Specifies box equation |
 | GROUP_CHARACTER_EQUATION | Specifies Group-Character equation |
 | MATRIX_EQUATION | Specifies the Matrix equation, |
+| LOWER_LIMIT | Specifies the Lower-Limit function |
+| UPPER_LIMIT | Specifies the Upper-Limit function |
 
 
 

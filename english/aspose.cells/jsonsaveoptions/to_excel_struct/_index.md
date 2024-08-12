@@ -3,7 +3,7 @@ title: to_excel_struct property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 230
 url: /aspose.cells/jsonsaveoptions/to_excel_struct/
 is_root: false
 ---

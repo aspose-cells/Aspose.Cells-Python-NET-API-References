@@ -35,7 +35,7 @@ The DelimiterEquationNode type exposes the following members:
 | [equation_type](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/equation_type) | Get the equation type of the current node |
 | [begin_char](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/begin_char) | Delimiter beginning character. |
 | [end_char](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/end_char) | Delimiter ending character. |
-| [nary_grow](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/nary_grow) | This property specifies the growth property of the delimiter at the document level. <br/>When off, the delimiter will not grow to match the size of its component height. <br/>When enabled, the delimiter grows vertically to match its component height. |
+| [nary_grow](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/nary_grow) |  |
 | [separator_char](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/separator_char) | Delimiter separator character. |
 | [delimiter_shape](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/delimiter_shape) | Specifies the shape of delimiters in the delimiter object. |
 
@@ -48,6 +48,8 @@ The DelimiterEquationNode type exposes the following members:
 | [remove_child](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/remove_child/#aspose.cells.drawing.equations.EquationNode) | Removes the specified node from the current node's children. |
 | [remove_child](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/remove_child/#int) | Removes the node at the specified index from the current node's children. |
 | [set_word_art_style](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Sets the preset WordArt style. |
+| [to_la_te_x](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/to_la_te_x/#) | Conver this equtation to LaTeX expression. |
+| [to_math_ml](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/to_math_ml/#) | Conver this equtation to MathML expression. |
 | [insert_child](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/insert_child/#int-aspose.cells.drawing.equations.EquationNodeType) | Inserts a node of the specified type at the specified index position in the current node's child node list. |
 | [insert_after](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/insert_after/#aspose.cells.drawing.equations.EquationNodeType) | Inserts the specified node after the current node. |
 | [insert_before](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/insert_before/#aspose.cells.drawing.equations.EquationNodeType) | Inserts the specified node before the current node. |

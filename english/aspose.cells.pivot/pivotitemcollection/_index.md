@@ -3,14 +3,14 @@ title: PivotItemCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells.pivot/pivotitemcollection/
 is_root: false
 ---
 
 ## PivotItemCollection class
 
-Represents a collection of all the PivotItem objects in the PivotField's
+Represents all the [`PivotItem`](/cells/python-net/aspose.cells.pivot/pivotitem) objects in the PivotField.
 
 
 
@@ -34,8 +34,10 @@ Gets the PivotItem Object at the specific index.
 | Method | Description |
 | :- | :- |
 | [changeitems_order](/cells/python-net/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | Directly changes the orders of the two items. |
+| [swap_item](/cells/python-net/aspose.cells.pivot/pivotitemcollection/swap_item/#int-int) | Directly swap two items. |
 
 
 
 ### See Also
 * module [`aspose.cells.pivot`](..)
+* class [`PivotItem`](/cells/python-net/aspose.cells.pivot/pivotitem)
