@@ -41,6 +41,7 @@ The PivotField type exposes the following members:
 | [non_auto_sort_default](/cells/python-net/aspose.cells.pivot/pivotfield/non_auto_sort_default) | Indicates whether a sort operation that will be applied to this pivot field is an autosort operation or a simple data sort. |
 | [is_auto_sort](/cells/python-net/aspose.cells.pivot/pivotfield/is_auto_sort) | Indicates whether the specified PivotTable field is automatically sorted. |
 | [is_ascend_sort](/cells/python-net/aspose.cells.pivot/pivotfield/is_ascend_sort) | Indicates whether the specified PivotTable field is autosorted ascending. |
+| [sort_setting](/cells/python-net/aspose.cells.pivot/pivotfield/sort_setting) | Gets all settings of auto sorting |
 | [auto_sort_field](/cells/python-net/aspose.cells.pivot/pivotfield/auto_sort_field) | Represents the index of field which is auto sorted. <br/>-1 means PivotField itself,others means the position of the data fields. |
 | [is_auto_show](/cells/python-net/aspose.cells.pivot/pivotfield/is_auto_show) | Indicates whether the specified PivotTable field is automatically shown,only valid for excel 2003. |
 | [is_ascend_show](/cells/python-net/aspose.cells.pivot/pivotfield/is_ascend_show) | Indicates whether the specified PivotTable field is autoshown ascending. |
@@ -71,6 +72,8 @@ The PivotField type exposes the following members:
 | [group_by](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#DateTime-DateTime-list-float-bool) | Group the file by the date group types. |
 | [group_by](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-float-float-bool) | Group the file by number. |
 | [group_by](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#list-bool) | Custom group the field. |
+| [sort_by](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.SortOrder-int) | Sorts this pivot field. |
+| [sort_by](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.SortOrder-int-aspose.cells.pivot.PivotLineType-str) | Sorts this pivot field. |
 | [hide_item](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#int-bool) | Sets whether the specific PivotItem in a data field is hidden. |
 | [hide_item](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#str-bool) | Sets whether the specific PivotItem in a data field is hidden. |
 | [get_pivot_filter_by_type](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/#aspose.cells.pivot.PivotFilterType) | Gets the pivot filter of the pivot field by type |

@@ -3,7 +3,7 @@ title: bar_position property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 150
 url: /aspose.cells.drawing.equations/barequationnode/bar_position/
 is_root: false
 ---

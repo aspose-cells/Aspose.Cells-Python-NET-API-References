@@ -258,6 +258,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`LookInType`](/cells/python-net/aspose.cells/lookintype) | Represents look in type. |
 | [`MemorySetting`](/cells/python-net/aspose.cells/memorysetting) | Memory usage options. |
 | [`MergeEmptyTdType`](/cells/python-net/aspose.cells/mergeemptytdtype) | Represents the merge type for empty TD element when exporting file to html. |
+| [`MergedCellsShrinkType`](/cells/python-net/aspose.cells/mergedcellsshrinktype) | Represents the strategy to shrink merged cells for operations such as deleting blank rows/column. |
 | [`NameScopeType`](/cells/python-net/aspose.cells/namescopetype) | Represents the scope type of defined names. |
 | [`NumberCategoryType`](/cells/python-net/aspose.cells/numbercategorytype) | Represents category type of cell's number formatting. |
 | [`OoxmlCompliance`](/cells/python-net/aspose.cells/ooxmlcompliance) | Allows to specify which OOXML specification will be used when saving in the Xlsx format. |

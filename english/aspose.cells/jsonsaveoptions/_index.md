@@ -41,9 +41,11 @@ The JsonSaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells/jsonsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells/jsonsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells/jsonsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
+| [encrypt_document_properties](/cells/python-net/aspose.cells/jsonsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [export_hyperlink_type](/cells/python-net/aspose.cells/jsonsaveoptions/export_hyperlink_type) | Represents the type of exporting hyperlink to json. |
 | [skip_empty_rows](/cells/python-net/aspose.cells/jsonsaveoptions/skip_empty_rows) | Indicates whether skipping emtpy rows. |
 | [sheet_indexes](/cells/python-net/aspose.cells/jsonsaveoptions/sheet_indexes) | Represents the indexes of exported sheets. |
+| [schemas](/cells/python-net/aspose.cells/jsonsaveoptions/schemas) | The original json schema of each worksheet. |
 | [export_area](/cells/python-net/aspose.cells/jsonsaveoptions/export_area) | Gets or sets the exporting range. |
 | [has_header_row](/cells/python-net/aspose.cells/jsonsaveoptions/has_header_row) | Indicates whether the range contains header row. |
 | [export_as_string](/cells/python-net/aspose.cells/jsonsaveoptions/export_as_string) | Exports the string value of the cells to json. |

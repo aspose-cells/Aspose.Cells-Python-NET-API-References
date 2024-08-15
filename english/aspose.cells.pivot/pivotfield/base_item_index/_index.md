@@ -3,7 +3,7 @@ title: base_item_index property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells.pivot/pivotfield/base_item_index/
 is_root: false
 ---
@@ -18,7 +18,7 @@ Valid only for data fields.
 
 
 NOTE: This property is now obsolete. Instead, 
-please use PivotField.PivotShowValuesSetting.BaseItemIndex property instead.
+please use PivotField.ShowValuesSetting.BaseItemIndex property instead.
 This method will be removed 12 months later since June 2024. 
 Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:

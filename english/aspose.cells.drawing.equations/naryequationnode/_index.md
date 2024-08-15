@@ -48,6 +48,8 @@ The NaryEquationNode type exposes the following members:
 | [remove_child](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/remove_child/#aspose.cells.drawing.equations.EquationNode) | Removes the specified node from the current node's children. |
 | [remove_child](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/remove_child/#int) | Removes the node at the specified index from the current node's children. |
 | [set_word_art_style](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Sets the preset WordArt style. |
+| [to_la_te_x](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/to_la_te_x/#) | Conver this equtation to LaTeX expression. |
+| [to_math_ml](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/to_math_ml/#) | Conver this equtation to MathML expression. |
 | [insert_child](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/insert_child/#int-aspose.cells.drawing.equations.EquationNodeType) | Inserts a node of the specified type at the specified index position in the current node's child node list. |
 | [insert_after](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/insert_after/#aspose.cells.drawing.equations.EquationNodeType) | Inserts the specified node after the current node. |
 | [insert_before](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/insert_before/#aspose.cells.drawing.equations.EquationNodeType) | Inserts the specified node before the current node. |

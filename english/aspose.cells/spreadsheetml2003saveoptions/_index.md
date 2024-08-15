@@ -42,6 +42,7 @@ The SpreadsheetML2003SaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
+| [encrypt_document_properties](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [is_indented_formatting](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions/is_indented_formatting) | Causes child elements to be indented. |
 | [limit_as_xls](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions/limit_as_xls) | Limit as xls, the max row index is 65535 and the max column index is 255. |
 | [export_column_index_of_cell](/cells/python-net/aspose.cells/spreadsheetml2003saveoptions/export_column_index_of_cell) | The default value is false, it means that column index  will be ignored if the cell is contiguous to the previous cell. |

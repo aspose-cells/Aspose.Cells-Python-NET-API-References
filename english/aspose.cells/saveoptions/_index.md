@@ -30,6 +30,7 @@ The SaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells/saveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells/saveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells/saveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
+| [encrypt_document_properties](/cells/python-net/aspose.cells/saveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 
 
 

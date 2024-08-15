@@ -3,7 +3,7 @@ title: alt_text_description property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 320
 url: /aspose.cells.pivot/pivottable/alt_text_description/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## alt_text_description property
 
 
-Gets the description of the alt text
+Gets the description of the alt text.
 ### Definition:
 ```python
 @property

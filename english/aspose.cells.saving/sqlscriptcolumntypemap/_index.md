@@ -3,7 +3,7 @@ title: SqlScriptColumnTypeMap class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /aspose.cells.saving/sqlscriptcolumntypemap/
 is_root: false
 ---

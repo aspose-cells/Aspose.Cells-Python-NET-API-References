@@ -3,7 +3,7 @@ title: font property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 180
 url: /aspose.cells.drawing.equations/accentequationnode/font/
 is_root: false
 ---

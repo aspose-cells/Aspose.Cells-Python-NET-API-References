@@ -42,6 +42,7 @@ The OdsSaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells/odssaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells/odssaveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells/odssaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
+| [encrypt_document_properties](/cells/python-net/aspose.cells/odssaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [generator_type](/cells/python-net/aspose.cells/odssaveoptions/generator_type) | Gets and sets the generator of the ods file. |
 | [is_strict_schema11](/cells/python-net/aspose.cells/odssaveoptions/is_strict_schema11) | Indicates whether the ods file should be saved as ODF format version 1.1. Default is false. |
 | [odf_strict_version](/cells/python-net/aspose.cells/odssaveoptions/odf_strict_version) | Gets and sets the ODF version. |

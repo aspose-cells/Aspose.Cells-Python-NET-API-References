@@ -3,7 +3,7 @@ title: page_field_order property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 720
 url: /aspose.cells.pivot/pivottable/page_field_order/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## page_field_order property
 
 
-Gets the order in which page fields are added to the PivotTable report's layout.
+Gets and sets the order in which page fields are added to the PivotTable report's layout.
 ### Definition:
 ```python
 @property

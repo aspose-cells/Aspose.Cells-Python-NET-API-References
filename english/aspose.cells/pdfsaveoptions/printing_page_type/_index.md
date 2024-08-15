@@ -3,7 +3,7 @@ title: printing_page_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /aspose.cells/pdfsaveoptions/printing_page_type/
 is_root: false
 ---

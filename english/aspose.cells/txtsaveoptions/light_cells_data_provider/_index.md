@@ -3,7 +3,7 @@ title: light_cells_data_provider property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells/txtsaveoptions/light_cells_data_provider/
 is_root: false
 ---

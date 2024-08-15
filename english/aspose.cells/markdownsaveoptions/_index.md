@@ -41,6 +41,7 @@ The MarkdownSaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells/markdownsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells/markdownsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells/markdownsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
+| [encrypt_document_properties](/cells/python-net/aspose.cells/markdownsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [encoding](/cells/python-net/aspose.cells/markdownsaveoptions/encoding) | Gets and sets the default encoding. |
 | [format_strategy](/cells/python-net/aspose.cells/markdownsaveoptions/format_strategy) | Gets and sets the format strategy when exporting the cell value as string. |
 | [light_cells_data_provider](/cells/python-net/aspose.cells/markdownsaveoptions/light_cells_data_provider) | The Data provider to provide cells data for saving workbook in light mode. |

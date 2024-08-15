@@ -3,7 +3,7 @@ title: PivotTable class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.pivot/pivottable/
 is_root: false
 ---
@@ -68,8 +68,8 @@ The PivotTable type exposes the following members:
 | [show_empty_row](/cells/python-net/aspose.cells.pivot/pivottable/show_empty_row) | Specifies a boolean value that indicates whether to include empty rows in the table. |
 | [field_list_sort_ascending](/cells/python-net/aspose.cells.pivot/pivottable/field_list_sort_ascending) | Indicates whether fields in the PivotTable are sorted in non-default order in the field list. |
 | [print_drill](/cells/python-net/aspose.cells.pivot/pivottable/print_drill) | Specifies a boolean value that indicates whether drill indicators should be printed.<br/>print expand/collapse buttons when displayed on pivottable. |
-| [alt_text_title](/cells/python-net/aspose.cells.pivot/pivottable/alt_text_title) | Gets the title of the altertext |
-| [alt_text_description](/cells/python-net/aspose.cells.pivot/pivottable/alt_text_description) | Gets the description of the alt text |
+| [alt_text_title](/cells/python-net/aspose.cells.pivot/pivottable/alt_text_title) | Gets and sets the title of the alter text. |
+| [alt_text_description](/cells/python-net/aspose.cells.pivot/pivottable/alt_text_description) | Gets the description of the alt text. |
 | [name](/cells/python-net/aspose.cells.pivot/pivottable/name) | Gets the name of the PivotTable |
 | [column_header_caption](/cells/python-net/aspose.cells.pivot/pivottable/column_header_caption) | Gets the Column Header Caption of the PivotTable. |
 | [indent](/cells/python-net/aspose.cells.pivot/pivottable/indent) | Specifies the indentation increment for compact axis and can be used to set the Report Layout to Compact Form. |
@@ -77,12 +77,13 @@ The PivotTable type exposes the following members:
 | [show_row_header_caption](/cells/python-net/aspose.cells.pivot/pivottable/show_row_header_caption) | Indicates whether row header caption is shown in the PivotTable report<br/>Indicates whether Display field captions and filter drop downs |
 | [custom_list_sort](/cells/python-net/aspose.cells.pivot/pivottable/custom_list_sort) | Indicates whether consider built-in custom list when sort data |
 | [pivot_format_conditions](/cells/python-net/aspose.cells.pivot/pivottable/pivot_format_conditions) | Gets the Format Conditions of the pivot table. |
-| [page_field_order](/cells/python-net/aspose.cells.pivot/pivottable/page_field_order) | Gets the order in which page fields are added to the PivotTable report's layout. |
+| [page_field_order](/cells/python-net/aspose.cells.pivot/pivottable/page_field_order) | Gets and sets the order in which page fields are added to the PivotTable report's layout. |
 | [page_field_wrap_count](/cells/python-net/aspose.cells.pivot/pivottable/page_field_wrap_count) | Gets the number of page fields in each column or row in the PivotTable report. |
 | [tag](/cells/python-net/aspose.cells.pivot/pivottable/tag) | Gets a string saved with the PivotTable report. |
 | [save_data](/cells/python-net/aspose.cells.pivot/pivottable/save_data) | Indicates whether data for the PivotTable report is saved with the workbook. |
 | [refresh_data_on_opening_file](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data_on_opening_file) | Indicates whether Refresh Data when Opening File. |
 | [refresh_data_flag](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data_flag) | Indicates whether Refreshing Data or not. |
+| [source_type](/cells/python-net/aspose.cells.pivot/pivottable/source_type) | Gets the data source type of the pivot table. |
 | [external_connection_data_source](/cells/python-net/aspose.cells.pivot/pivottable/external_connection_data_source) | Gets the external connection data source. |
 | [data_source](/cells/python-net/aspose.cells.pivot/pivottable/data_source) | Gets and sets the data source of the pivot table. |
 | [pivot_formats](/cells/python-net/aspose.cells.pivot/pivottable/pivot_formats) | Gets the collection of formats applied to PivotTable. |
@@ -136,6 +137,7 @@ The PivotTable type exposes the following members:
 | [calculate_range](/cells/python-net/aspose.cells.pivot/pivottable/calculate_range/#) | Calculates pivottable's range. |
 | [format_all](/cells/python-net/aspose.cells.pivot/pivottable/format_all/#aspose.cells.Style) | Format all the cell in the pivottable area |
 | [format_row](/cells/python-net/aspose.cells.pivot/pivottable/format_row/#int-aspose.cells.Style) | Format the row data in the pivottable area |
+| [show_datail](/cells/python-net/aspose.cells.pivot/pivottable/show_datail/#int-int-bool-int-int) | Show the detail of one item in the data region to a new Table. |
 | [get_horizontal_breaks](/cells/python-net/aspose.cells.pivot/pivottable/get_horizontal_breaks/#) | get pivot table row index list of horizontal pagebreaks |
 | [show_in_compact_form](/cells/python-net/aspose.cells.pivot/pivottable/show_in_compact_form/#) | Layouts the PivotTable in compact form. |
 | [show_in_outline_form](/cells/python-net/aspose.cells.pivot/pivottable/show_in_outline_form/#) | Layouts the PivotTable in outline form. |

@@ -3,7 +3,7 @@ title: group_chr property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 180
 url: /aspose.cells.drawing.equations/groupcharacterequationnode/group_chr/
 is_root: false
 ---

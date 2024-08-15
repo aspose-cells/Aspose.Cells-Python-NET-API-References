@@ -42,6 +42,7 @@ The TxtSaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells/txtsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells/txtsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells/txtsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
+| [encrypt_document_properties](/cells/python-net/aspose.cells/txtsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [separator](/cells/python-net/aspose.cells/txtsaveoptions/separator) | Gets and sets char Delimiter of text file. |
 | [separator_string](/cells/python-net/aspose.cells/txtsaveoptions/separator_string) | Gets and sets a string value as separator. |
 | [encoding](/cells/python-net/aspose.cells/txtsaveoptions/encoding) | Gets and sets the default encoding. |

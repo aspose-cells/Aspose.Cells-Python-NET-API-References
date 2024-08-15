@@ -3,7 +3,7 @@ title: is_hide_subscript property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 170
 url: /aspose.cells.drawing.equations/naryequationnode/is_hide_subscript/
 is_root: false
 ---

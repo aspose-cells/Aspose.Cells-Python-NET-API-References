@@ -43,6 +43,7 @@ The EbookSaveOptions type exposes the following members:
 | [refresh_chart_cache](/cells/python-net/aspose.cells.saving/ebooksaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells.saving/ebooksaveoptions/warning_callback) | Gets or sets warning callback. |
 | [update_smart_art](/cells/python-net/aspose.cells.saving/ebooksaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
+| [encrypt_document_properties](/cells/python-net/aspose.cells.saving/ebooksaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [ignore_invisible_shapes](/cells/python-net/aspose.cells.saving/ebooksaveoptions/ignore_invisible_shapes) | Indicate whether exporting those not visible shapes |
 | [page_title](/cells/python-net/aspose.cells.saving/ebooksaveoptions/page_title) | The title of the html page.<br/>Only for saving to html stream. |
 | [attached_files_directory](/cells/python-net/aspose.cells.saving/ebooksaveoptions/attached_files_directory) | The directory that the attached files will be saved to.<br/>Only for saving to html stream. |
@@ -106,6 +107,7 @@ The EbookSaveOptions type exposes the following members:
 | [css_styles](/cells/python-net/aspose.cells.saving/ebooksaveoptions/css_styles) | Gets or sets the additional css styles for the formatter.<br/>Only works when [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/aspose.cells/htmlsaveoptions#save_as_single_file) is True.<br/><br/>CssStyles="body { padding: 5px }"; |
 | [hide_overflow_wrapped_text](/cells/python-net/aspose.cells.saving/ebooksaveoptions/hide_overflow_wrapped_text) | Indicates whether to hide overflow text when the cell format is set to wrap text.<br/>The default value is false |
 | [is_border_collapsed](/cells/python-net/aspose.cells.saving/ebooksaveoptions/is_border_collapsed) | Indicates whether the table borders are collapsed.<br/>The default value is true. |
+| [encode_entity_as_code](/cells/python-net/aspose.cells.saving/ebooksaveoptions/encode_entity_as_code) | Indicates whether the html character entities are replaced with decimal code.<br/>(e.g. "&nbsp;" is replaced with "&#160;").<br/>The default value is false. |
 
 
 

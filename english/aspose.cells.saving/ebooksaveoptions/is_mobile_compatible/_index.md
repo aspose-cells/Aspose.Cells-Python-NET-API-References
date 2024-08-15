@@ -3,7 +3,7 @@ title: is_mobile_compatible property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 580
 url: /aspose.cells.saving/ebooksaveoptions/is_mobile_compatible/
 is_root: false
 ---

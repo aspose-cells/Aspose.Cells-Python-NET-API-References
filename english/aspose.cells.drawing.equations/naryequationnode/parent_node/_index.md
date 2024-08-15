@@ -3,7 +3,7 @@ title: parent_node property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 240
 url: /aspose.cells.drawing.equations/naryequationnode/parent_node/
 is_root: false
 ---

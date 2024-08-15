@@ -3,7 +3,7 @@ title: PrintErrorsType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2520
+weight: 2530
 url: /aspose.cells/printerrorstype/
 is_root: false
 ---

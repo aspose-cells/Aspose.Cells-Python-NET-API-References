@@ -3,7 +3,7 @@ title: nary_operator property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 220
 url: /aspose.cells.drawing.equations/naryequationnode/nary_operator/
 is_root: false
 ---
