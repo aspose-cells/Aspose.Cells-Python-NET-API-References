@@ -26,7 +26,7 @@ The PivotItem type exposes the following members:
 | [is_formula](/cells/python-net/aspose.cells.pivot/pivotitem/is_formula) | Indicates whether this pivot item is a calculated formula item. |
 | [is_missing](/cells/python-net/aspose.cells.pivot/pivotitem/is_missing) | Indicates whether the item is removed from the data source. |
 | [value](/cells/python-net/aspose.cells.pivot/pivotitem/value) | Gets the value of the pivot item |
-| [name](/cells/python-net/aspose.cells.pivot/pivotitem/name) | Gets the name of the pivot item. |
+| [name](/cells/python-net/aspose.cells.pivot/pivotitem/name) |  |
 | [index](/cells/python-net/aspose.cells.pivot/pivotitem/index) | Gets the index of the pivot item in cache field. |
 
 
@@ -34,6 +34,7 @@ The PivotItem type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [move](/cells/python-net/aspose.cells.pivot/pivotitem/move/#int-bool) | Moves the item up or down |
+| [get_formula](/cells/python-net/aspose.cells.pivot/pivotitem/get_formula/#) | Gets the formula of this calculated item.<br/>Only works when this item is calculated item. |
 | [get_string_value](/cells/python-net/aspose.cells.pivot/pivotitem/get_string_value/#) | Gets the string value of the pivot item<br/>If the value is null, it will return "" |
 | [get_double_value](/cells/python-net/aspose.cells.pivot/pivotitem/get_double_value/#) | Gets the double value of the pivot item<br/>If the value is null or not number ,it will return 0 |
 | [get_date_time_value](/cells/python-net/aspose.cells.pivot/pivotitem/get_date_time_value/#) | Gets the date time value of the pivot item<br/>If the value is null ,it will return DateTime.MinValue |

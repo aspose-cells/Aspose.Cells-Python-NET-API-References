@@ -3,7 +3,7 @@ title: only_use_connection_file property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 310
 url: /aspose.cells.externalconnections/webqueryconnection/only_use_connection_file/
 is_root: false
 ---

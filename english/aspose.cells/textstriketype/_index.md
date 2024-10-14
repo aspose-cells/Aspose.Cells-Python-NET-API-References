@@ -3,7 +3,7 @@ title: TextStrikeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2720
+weight: 2730
 url: /aspose.cells/textstriketype/
 is_root: false
 ---
@@ -20,7 +20,7 @@ The TextStrikeType type exposes the following members:
 | Field | Description |
 | :- | :- |
 | SINGLE | A single strikethrough applied on the text. |
-| DOUBLE | A double strikethrough applied on the text. |
+| DOUBLE | A double strikethrough applied on the text.<br/>Only works for the text of the shapes or charts. |
 | NONE | No strike is applied to the text. |
 
 

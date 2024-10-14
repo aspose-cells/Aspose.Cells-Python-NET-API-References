@@ -54,6 +54,7 @@ The Cell type exposes the following members:
 | [is_merged](/cells/python-net/aspose.cells/cell/is_merged) | Checks if a cell is part of a merged range or not. |
 | [comment](/cells/python-net/aspose.cells/cell/comment) | Gets the comment of this cell. |
 | [html_string](/cells/python-net/aspose.cells/cell/html_string) | Gets and sets the html string which contains data and some formats in this cell. |
+| [is_check_box_style](/cells/python-net/aspose.cells/cell/is_check_box_style) | Indicates whether setting this cell as a check box. |
 | [embedded_image](/cells/python-net/aspose.cells/cell/embedded_image) | Gets and sets the embeddedn image in the cell. |
 
 
@@ -76,6 +77,7 @@ The Cell type exposes the following members:
 | [set_style](/cells/python-net/aspose.cells/cell/set_style/#aspose.cells.Style-bool) | Apply the changed property of style to the cell. |
 | [set_style](/cells/python-net/aspose.cells/cell/set_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Apply the cell style based on flags. |
 | [set_formula](/cells/python-net/aspose.cells/cell/set_formula/#str-any) | Set the formula and the value(calculated result) of the formula. |
+| [set_formula](/cells/python-net/aspose.cells/cell/set_formula/#str-aspose.cells.FormulaParseOptions) | Set the formula and the value(calculated result) of the formula. |
 | [set_formula](/cells/python-net/aspose.cells/cell/set_formula/#str-bool-bool-any) | Set the formula and the value of the formula. |
 | [set_formula](/cells/python-net/aspose.cells/cell/set_formula/#str-aspose.cells.FormulaParseOptions-any) | Set the formula and the value(calculated result) of the formula. |
 | [set_array_formula](/cells/python-net/aspose.cells/cell/set_array_formula/#str-int-int-bool-bool) | Sets an array formula to a range of cells. |

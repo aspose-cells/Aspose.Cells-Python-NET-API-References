@@ -3,7 +3,7 @@ title: OLEDBCommandType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.externalconnections/oledbcommandtype/
 is_root: false
 ---
@@ -25,6 +25,7 @@ The OLEDBCommandType type exposes the following members:
 | TABLE_NAME | Specifies a table name |
 | DEFAULT_INFORMATION | Specifies that default information has been given, and it is up to the provider how to interpret. |
 | WEB_BASED_LIST | Specifies a query which is against a web based List Data Provider. |
+| TABLE_COLLECTION | Specifies the table list. |
 
 
 

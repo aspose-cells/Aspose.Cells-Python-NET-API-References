@@ -28,6 +28,7 @@ The **Aspose.Cells.ExternalConnections**  namespace provides classes for externa
 | [`ConnectionDataSourceType`](/cells/python-net/aspose.cells.externalconnections/connectiondatasourcetype) | Specifies external database source type |
 | [`ConnectionParameterType`](/cells/python-net/aspose.cells.externalconnections/connectionparametertype) | Specifies the parameter type of external connection |
 | [`CredentialsMethodType`](/cells/python-net/aspose.cells.externalconnections/credentialsmethodtype) | Specifies Credentials method used for server access. |
+| [`ExternalConnectionClassType`](/cells/python-net/aspose.cells.externalconnections/externalconnectionclasstype) | Represents the type of connection |
 | [`HtmlFormatHandlingType`](/cells/python-net/aspose.cells.externalconnections/htmlformathandlingtype) | Specifies how to handle formatting from the HTML source |
 | [`OLEDBCommandType`](/cells/python-net/aspose.cells.externalconnections/oledbcommandtype) | Specifies the OLE DB command type. |
 | [`ReConnectionMethodType`](/cells/python-net/aspose.cells.externalconnections/reconnectionmethodtype) | Specifies what the spreadsheet application should do when a connection fails. |

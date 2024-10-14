@@ -24,7 +24,7 @@ def delete_blank_rows(self):
 
 ## delete_blank_rows {#aspose.cells.DeleteOptions}
 
-Delete all blank rows which do not contain any data or other object.
+Delete all blank rows which do not contain any data or some special objects such as visible comment, pivot table.
 
 
 

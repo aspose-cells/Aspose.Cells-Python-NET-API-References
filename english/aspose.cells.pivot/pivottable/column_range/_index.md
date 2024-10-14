@@ -3,7 +3,7 @@ title: column_range property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 420
 url: /aspose.cells.pivot/pivottable/column_range/
 is_root: false
 ---

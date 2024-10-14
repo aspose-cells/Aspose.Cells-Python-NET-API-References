@@ -3,7 +3,7 @@ title: save_data property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 390
 url: /aspose.cells.externalconnections/webqueryconnection/save_data/
 is_root: false
 ---

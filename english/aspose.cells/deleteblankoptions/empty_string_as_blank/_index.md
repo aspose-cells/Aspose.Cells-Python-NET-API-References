@@ -3,7 +3,7 @@ title: empty_string_as_blank property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells/deleteblankoptions/empty_string_as_blank/
 is_root: false
 ---
@@ -11,7 +11,8 @@ is_root: false
 ## empty_string_as_blank property
 
 
-Whether one cell will be taken as blank when its value is empty string. Default value is true.
+Whether one cell will be taken as blank when its value is empty string.
+Default value is true.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: refresh_on_load property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 260
 url: /aspose.cells.externalconnections/dbconnection/refresh_on_load/
 is_root: false
 ---

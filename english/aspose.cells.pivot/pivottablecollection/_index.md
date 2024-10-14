@@ -25,12 +25,14 @@ The PivotTableCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Adds a new PivotTable cache to a PivotCaches collection. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Adds a new PivotTable cache to a PivotCaches collection. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Adds a new PivotTable cache to a PivotCaches collection. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Adds a new PivotTable cache to a PivotCaches collection. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-str-str) | Adds a new PivotTable Object to the collection from another PivotTable. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Adds a new PivotTable Object to the collection from another PivotTable. |
+| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Adds a new PivotTable. |
+| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Adds a new PivotTable. |
+| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Adds a new PivotTable. |
+| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Adds a new PivotTable. |
+| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool-bool) | Adds a new PivotTable. |
+| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool-bool) | Adds a new PivotTable. |
+| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-str-str) | Adds a new PivotTable based on another PivotTable. |
+| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Adds a new PivotTable based on another PivotTable. |
 | [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-str-str) | Adds a new PivotTable Object to the collection with multiple consolidation ranges as data source. |
 | [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-int-int-str) | Adds a new PivotTable Object to the collection with multiple consolidation ranges as data source. |
 | [copy_to](/cells/python-net/aspose.cells.pivot/pivottablecollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |

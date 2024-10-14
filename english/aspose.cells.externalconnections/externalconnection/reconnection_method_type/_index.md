@@ -3,7 +3,7 @@ title: reconnection_method_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 230
 url: /aspose.cells.externalconnections/externalconnection/reconnection_method_type/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: is_xl2000 property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 240
 url: /aspose.cells.externalconnections/webqueryconnection/is_xl2000/
 is_root: false
 ---

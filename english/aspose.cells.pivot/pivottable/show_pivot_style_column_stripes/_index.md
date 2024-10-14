@@ -3,7 +3,7 @@ title: show_pivot_style_column_stripes property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 980
+weight: 1010
 url: /aspose.cells.pivot/pivottable/show_pivot_style_column_stripes/
 is_root: false
 ---

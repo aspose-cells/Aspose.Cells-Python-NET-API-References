@@ -3,7 +3,7 @@ title: empty_formula_value_as_blank property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells/deleteblankoptions/empty_formula_value_as_blank/
 is_root: false
 ---
@@ -11,7 +11,8 @@ is_root: false
 ## empty_formula_value_as_blank property
 
 
-Whether one cell will be taken as blank when it is formula and the calculated result is null or empty string. Default value is false.
+Whether one cell will be taken as blank when it is formula and the calculated result is null or empty string.
+Default value is false.
 
 ### Remarks 
 

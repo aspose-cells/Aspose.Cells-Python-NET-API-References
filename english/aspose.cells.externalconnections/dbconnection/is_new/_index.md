@@ -3,7 +3,7 @@ title: is_new property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 160
 url: /aspose.cells.externalconnections/dbconnection/is_new/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: is_xml property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 260
 url: /aspose.cells.externalconnections/webqueryconnection/is_xml/
 is_root: false
 ---

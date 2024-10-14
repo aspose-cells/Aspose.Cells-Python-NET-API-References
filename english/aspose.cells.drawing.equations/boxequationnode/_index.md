@@ -3,7 +3,7 @@ title: BoxEquationNode class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells.drawing.equations/boxequationnode/
 is_root: false
 ---
@@ -42,8 +42,8 @@ The BoxEquationNode type exposes the following members:
 | [remove_child](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/remove_child/#aspose.cells.drawing.equations.EquationNode) | Removes the specified node from the current node's children. |
 | [remove_child](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/remove_child/#int) | Removes the node at the specified index from the current node's children. |
 | [set_word_art_style](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Sets the preset WordArt style. |
-| [to_la_te_x](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/to_la_te_x/#) | Conver this equtation to LaTeX expression. |
-| [to_math_ml](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/to_math_ml/#) | Conver this equtation to MathML expression. |
+| [to_la_te_x](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/to_la_te_x/#) | Convert this equtation to LaTeX expression. |
+| [to_math_ml](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/to_math_ml/#) | Convert this equtation to MathML expression. |
 | [insert_child](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/insert_child/#int-aspose.cells.drawing.equations.EquationNodeType) | Inserts a node of the specified type at the specified index position in the current node's child node list. |
 | [insert_after](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/insert_after/#aspose.cells.drawing.equations.EquationNodeType) | Inserts the specified node after the current node. |
 | [insert_before](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/insert_before/#aspose.cells.drawing.equations.EquationNodeType) | Inserts the specified node before the current node. |

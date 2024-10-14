@@ -3,7 +3,7 @@ title: sso_id property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 440
 url: /aspose.cells.externalconnections/webqueryconnection/sso_id/
 is_root: false
 ---

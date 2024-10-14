@@ -3,7 +3,7 @@ title: EquationFractionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 240
 url: /aspose.cells.drawing.equations/equationfractiontype/
 is_root: false
 ---

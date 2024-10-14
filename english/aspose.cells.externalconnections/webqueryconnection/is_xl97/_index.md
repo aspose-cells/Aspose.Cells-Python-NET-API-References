@@ -3,7 +3,7 @@ title: is_xl97 property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 250
 url: /aspose.cells.externalconnections/webqueryconnection/is_xl97/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: save_password property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 270
 url: /aspose.cells.externalconnections/externalconnection/save_password/
 is_root: false
 ---

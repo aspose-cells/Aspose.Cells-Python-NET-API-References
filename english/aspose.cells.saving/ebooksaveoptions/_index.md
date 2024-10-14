@@ -108,6 +108,8 @@ The EbookSaveOptions type exposes the following members:
 | [hide_overflow_wrapped_text](/cells/python-net/aspose.cells.saving/ebooksaveoptions/hide_overflow_wrapped_text) | Indicates whether to hide overflow text when the cell format is set to wrap text.<br/>The default value is false |
 | [is_border_collapsed](/cells/python-net/aspose.cells.saving/ebooksaveoptions/is_border_collapsed) | Indicates whether the table borders are collapsed.<br/>The default value is true. |
 | [encode_entity_as_code](/cells/python-net/aspose.cells.saving/ebooksaveoptions/encode_entity_as_code) | Indicates whether the html character entities are replaced with decimal code.<br/>(e.g. "&nbsp;" is replaced with "&#160;").<br/>The default value is false. |
+| [office_math_output_mode](/cells/python-net/aspose.cells.saving/ebooksaveoptions/office_math_output_mode) | Indicates how export OfficeMath objects to HTML, Default value is Image. |
+| [cell_name_attribute](/cells/python-net/aspose.cells.saving/ebooksaveoptions/cell_name_attribute) | Specifies the attribute that indicates the CellName to be written.<br/>(e.g. If the value is "id", then for cell "A1", the output will be:<td id='A1'>).<br/>The default value is null. |
 
 
 

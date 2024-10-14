@@ -3,7 +3,7 @@ title: group_by method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.pivot/pivotfield/group_by/
 is_root: false
 ---

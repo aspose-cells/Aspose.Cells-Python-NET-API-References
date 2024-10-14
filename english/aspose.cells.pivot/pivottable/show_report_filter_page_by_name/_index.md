@@ -3,7 +3,7 @@ title: show_report_filter_page_by_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 320
 url: /aspose.cells.pivot/pivottable/show_report_filter_page_by_name/
 is_root: false
 ---

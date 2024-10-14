@@ -10,7 +10,7 @@ is_root: false
 
 ## get_calculated_field_formula {#}
 
-Get the formula string of the specified calculated field .
+
 
 
 

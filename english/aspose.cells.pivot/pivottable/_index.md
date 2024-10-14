@@ -63,7 +63,7 @@ The PivotTable type exposes the following members:
 | [enable_data_value_editing](/cells/python-net/aspose.cells.pivot/pivottable/enable_data_value_editing) | Specifies a boolean value that indicates whether the user is allowed to edit the cells in the data area of the pivottable.<br/>Enable cell editing in the values area |
 | [show_data_tips](/cells/python-net/aspose.cells.pivot/pivottable/show_data_tips) | Specifies a boolean value that indicates whether tooltips should be displayed for PivotTable data cells. |
 | [show_member_property_tips](/cells/python-net/aspose.cells.pivot/pivottable/show_member_property_tips) | Specifies a boolean value that indicates whether member property information should be omitted from PivotTable tooltips. |
-| [show_values_row](/cells/python-net/aspose.cells.pivot/pivottable/show_values_row) | Specifies a boolean value that indicates whether show values row.<br/>show the values row |
+| [show_values_row](/cells/python-net/aspose.cells.pivot/pivottable/show_values_row) | Indicates whether showing values row. |
 | [show_empty_col](/cells/python-net/aspose.cells.pivot/pivottable/show_empty_col) | Specifies a boolean value that indicates whether to include empty columns in the table |
 | [show_empty_row](/cells/python-net/aspose.cells.pivot/pivottable/show_empty_row) | Specifies a boolean value that indicates whether to include empty rows in the table. |
 | [field_list_sort_ascending](/cells/python-net/aspose.cells.pivot/pivottable/field_list_sort_ascending) | Indicates whether fields in the PivotTable are sorted in non-default order in the field list. |
@@ -88,6 +88,7 @@ The PivotTable type exposes the following members:
 | [data_source](/cells/python-net/aspose.cells.pivot/pivottable/data_source) | Gets and sets the data source of the pivot table. |
 | [pivot_formats](/cells/python-net/aspose.cells.pivot/pivottable/pivot_formats) | Gets the collection of formats applied to PivotTable. |
 | [item_print_titles](/cells/python-net/aspose.cells.pivot/pivottable/item_print_titles) | Indicates whether PivotItem names should be repeated at the top of each printed page. |
+| [repeat_items_on_each_printed_page](/cells/python-net/aspose.cells.pivot/pivottable/repeat_items_on_each_printed_page) | Indicates whether pivot item captions on the row area are repeated on each printed page for pivot fields in tabular form. |
 | [print_titles](/cells/python-net/aspose.cells.pivot/pivottable/print_titles) | Indicates whether the print titles for the worksheet are set based<br/>on the PivotTable report. The default value is false. |
 | [display_immediate_items](/cells/python-net/aspose.cells.pivot/pivottable/display_immediate_items) | Indicates whether items in the row and column areas are visible<br/>when the data area of the PivotTable is empty. The default value is true. |
 | [is_selected](/cells/python-net/aspose.cells.pivot/pivottable/is_selected) | Indicates whether this PivotTable is selected. |
@@ -131,13 +132,15 @@ The PivotTable type exposes the following members:
 | [show_report_filter_page_by_index](/cells/python-net/aspose.cells.pivot/pivottable/show_report_filter_page_by_index/#int) | Show all the report filter pages according to the position index in the PageFields |
 | [get_fields](/cells/python-net/aspose.cells.pivot/pivottable/get_fields/#aspose.cells.pivot.PivotFieldType) | Gets the specific pivot field list by the region. |
 | [fields](/cells/python-net/aspose.cells.pivot/pivottable/fields/#aspose.cells.pivot.PivotFieldType) | Gets the specific fields by the field type. |
+| [get_source_data_connections](/cells/python-net/aspose.cells.pivot/pivottable/get_source_data_connections/#) | Gets the external connection data sources. |
+| [get_names_of_source_data_connections](/cells/python-net/aspose.cells.pivot/pivottable/get_names_of_source_data_connections/#) | Gets the name of external source data connections. |
 | [change_data_source](/cells/python-net/aspose.cells.pivot/pivottable/change_data_source/#list) | Set pivottable's source data.<br/>Sheet1!$A$1:$C$3 |
 | [get_source](/cells/python-net/aspose.cells.pivot/pivottable/get_source/#) | Get pivottable's source data. |
 | [clear_data](/cells/python-net/aspose.cells.pivot/pivottable/clear_data/#) | Clear PivotTable's data and formatting |
 | [calculate_range](/cells/python-net/aspose.cells.pivot/pivottable/calculate_range/#) | Calculates pivottable's range. |
 | [format_all](/cells/python-net/aspose.cells.pivot/pivottable/format_all/#aspose.cells.Style) | Format all the cell in the pivottable area |
 | [format_row](/cells/python-net/aspose.cells.pivot/pivottable/format_row/#int-aspose.cells.Style) | Format the row data in the pivottable area |
-| [show_datail](/cells/python-net/aspose.cells.pivot/pivottable/show_datail/#int-int-bool-int-int) | Show the detail of one item in the data region to a new Table. |
+| [show_detail](/cells/python-net/aspose.cells.pivot/pivottable/show_detail/#int-int-bool-int-int) | Show the detail of one item in the data region to a new Table. |
 | [get_horizontal_breaks](/cells/python-net/aspose.cells.pivot/pivottable/get_horizontal_breaks/#) | get pivot table row index list of horizontal pagebreaks |
 | [show_in_compact_form](/cells/python-net/aspose.cells.pivot/pivottable/show_in_compact_form/#) | Layouts the PivotTable in compact form. |
 | [show_in_outline_form](/cells/python-net/aspose.cells.pivot/pivottable/show_in_outline_form/#) | Layouts the PivotTable in outline form. |

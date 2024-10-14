@@ -3,7 +3,7 @@ title: connection_info property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 100
 url: /aspose.cells.externalconnections/dbconnection/connection_info/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 The connection information string is used to make contact with an OLE DB or ODBC data source.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use ExternalConnection.ConnectionString property.
+This method will be removed 12 months later since October 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

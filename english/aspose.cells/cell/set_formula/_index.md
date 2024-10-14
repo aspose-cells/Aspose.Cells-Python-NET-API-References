@@ -26,6 +26,24 @@ def set_formula(self, formula, value):
 | value | any | The value(calculated result) of the formula. |
 
 
+## set_formula {#str-aspose.cells.FormulaParseOptions}
+
+Set the formula and the value(calculated result) of the formula.
+
+
+
+```python
+def set_formula(self, formula, options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| formula | str | The formula. |
+| options | [`FormulaParseOptions`](/cells/python-net/aspose.cells/formulaparseoptions) | Options for parsing the formula. |
+
+
 ## set_formula {#str-aspose.cells.FormulaParseOptions-any}
 
 Set the formula and the value(calculated result) of the formula.

@@ -3,7 +3,7 @@ title: connection_description property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells.externalconnections/dbconnection/connection_description/
 is_root: false
 ---

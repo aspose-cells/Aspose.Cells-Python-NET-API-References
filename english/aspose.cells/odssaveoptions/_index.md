@@ -46,6 +46,7 @@ The OdsSaveOptions type exposes the following members:
 | [generator_type](/cells/python-net/aspose.cells/odssaveoptions/generator_type) | Gets and sets the generator of the ods file. |
 | [is_strict_schema11](/cells/python-net/aspose.cells/odssaveoptions/is_strict_schema11) | Indicates whether the ods file should be saved as ODF format version 1.1. Default is false. |
 | [odf_strict_version](/cells/python-net/aspose.cells/odssaveoptions/odf_strict_version) | Gets and sets the ODF version. |
+| [ignore_pivot_tables](/cells/python-net/aspose.cells/odssaveoptions/ignore_pivot_tables) | Indicates whether saving pivot tables. |
 
 
 
