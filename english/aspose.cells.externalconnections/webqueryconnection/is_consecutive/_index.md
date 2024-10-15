@@ -3,7 +3,7 @@ title: is_consecutive property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 170
 url: /aspose.cells.externalconnections/webqueryconnection/is_consecutive/
 is_root: false
 ---

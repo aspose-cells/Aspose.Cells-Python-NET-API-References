@@ -48,7 +48,14 @@ def set_desired_size(self, desired_width, desired_height, keep_aspect_ratio):
 | desired_width | int | desired width in pixels |
 | desired_height | int | desired height in pixels |
 | keep_aspect_ratio | bool | whether to keep aspect ratio of origin image |
+### Remarks
 
+The width and height of the output image in pixels will be only based on 
+the set desired width and height.
+
+
+The [`ImageOrPrintOptions.horizontal_resolution`](/cells/python-net/aspose.cells.rendering/imageorprintoptions#horizontal_resolution) and [`ImageOrPrintOptions.vertical_resolution`](/cells/python-net/aspose.cells.rendering/imageorprintoptions#vertical_resolution) 
+will not effect the width and height of the output image in this case.
 
 
 ### See Also

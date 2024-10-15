@@ -28,7 +28,7 @@ def add_link_to_content(self, name, source):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | name | str | The name of the property. |
-| source | str | The source of the property |
+| source | str | The source of the property. It should be the name of named range. |
 
 
 

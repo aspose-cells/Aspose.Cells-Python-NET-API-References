@@ -78,6 +78,7 @@ The FileFormatType type exposes the following members:
 | SXC | Represents StarOffice Calc Spreadsheet (.sxc) file format. |
 | OTP | Represents a OTP file. |
 | NUMBERS35 | Represents Numbers 3.5 file format since 2014 by Apple Inc |
+| OLE | Represents the embedded ole object. |
 | EMF | Windows Enhanced Metafile. |
 | WMF | Windows Metafile. |
 | JPG | JPEG JFIF. |
@@ -92,6 +93,7 @@ The FileFormatType type exposes the following members:
 | RTF | Rtf |
 | EPUB | EPUB |
 | AZW3 | AZW3 |
+| CHM | CHM |
 | OXPS | OXPS (Open XML Paper Specification) format. |
 | G_ZIP | Rrepesents GZip file. |
 

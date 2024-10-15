@@ -3,7 +3,7 @@ title: is_html_tables property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 190
 url: /aspose.cells.externalconnections/webqueryconnection/is_html_tables/
 is_root: false
 ---

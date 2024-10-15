@@ -3,7 +3,7 @@ title: item_print_titles property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 680
 url: /aspose.cells.pivot/pivottable/item_print_titles/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Indicates whether PivotItem names should be repeated at the top of each printed page.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use PivotTable.RepeatItemsOnEachPrintedPage property.
+This method will be removed 12 months later since October 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

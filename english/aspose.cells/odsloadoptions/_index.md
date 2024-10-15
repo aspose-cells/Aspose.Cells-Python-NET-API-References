@@ -56,6 +56,7 @@ The OdsLoadOptions type exposes the following members:
 | [preserve_padding_spaces_in_formula](/cells/python-net/aspose.cells/odsloadoptions/preserve_padding_spaces_in_formula) | Indicates whether preserve those spaces and line breaks that are padded between formula tokens<br/>while getting and setting formulas.<br/>Default value is false. |
 | [apply_excel_default_style_to_hyperlink](/cells/python-net/aspose.cells/odsloadoptions/apply_excel_default_style_to_hyperlink) | Indicates whether applying the default style of the Excel to hyperlink. |
 | [refresh_pivot_tables](/cells/python-net/aspose.cells/odsloadoptions/refresh_pivot_tables) | Indicates whether refresh pivot tables when loading file. |
+| [is_classic_pivot_table](/cells/python-net/aspose.cells/odsloadoptions/is_classic_pivot_table) | Indicates whether the pivot table is classic. |
 
 
 ### Methods

@@ -3,7 +3,7 @@ title: credentials_method_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 130
 url: /aspose.cells.externalconnections/dbconnection/credentials_method_type/
 is_root: false
 ---

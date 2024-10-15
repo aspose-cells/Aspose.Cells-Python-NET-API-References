@@ -3,7 +3,7 @@ title: auto_format_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 360
 url: /aspose.cells.pivot/pivottable/auto_format_type/
 is_root: false
 ---

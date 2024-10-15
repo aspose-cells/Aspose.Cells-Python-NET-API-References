@@ -3,7 +3,7 @@ title: set_auto_group_field method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 230
 url: /aspose.cells.pivot/pivottable/set_auto_group_field/
 is_root: false
 ---
@@ -22,10 +22,9 @@ def set_auto_group_field(self, base_field_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| base_field_index | int |  |
+| base_field_index | int | The row or column field index in the base fields |
 ### Remarks
 
-The row or column field index in the base fields
 NOTE: This method is now obsolete. Instead, 
 please use PivotField.GroupBy() method.
 This method will be removed 12 months later since October 2023. 

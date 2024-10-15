@@ -3,7 +3,7 @@ title: is_xml_source_data property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 270
 url: /aspose.cells.externalconnections/webqueryconnection/is_xml_source_data/
 is_root: false
 ---

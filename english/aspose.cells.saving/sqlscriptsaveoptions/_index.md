@@ -3,7 +3,7 @@ title: SqlScriptSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 30
 url: /aspose.cells.saving/sqlscriptsaveoptions/
 is_root: false
 ---

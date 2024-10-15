@@ -3,7 +3,7 @@ title: show_values_row property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1030
+weight: 1060
 url: /aspose.cells.pivot/pivottable/show_values_row/
 is_root: false
 ---
@@ -11,8 +11,7 @@ is_root: false
 ## show_values_row property
 
 
-Specifies a boolean value that indicates whether show values row.
-show the values row
+Indicates whether showing values row.
 ### Definition:
 ```python
 @property

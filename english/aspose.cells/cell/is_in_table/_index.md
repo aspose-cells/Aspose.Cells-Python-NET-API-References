@@ -3,7 +3,7 @@ title: is_in_table property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 610
 url: /aspose.cells/cell/is_in_table/
 is_root: false
 ---

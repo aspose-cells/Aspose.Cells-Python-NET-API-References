@@ -3,7 +3,7 @@ title: only_use_connection_file property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 200
 url: /aspose.cells.externalconnections/dbconnection/only_use_connection_file/
 is_root: false
 ---

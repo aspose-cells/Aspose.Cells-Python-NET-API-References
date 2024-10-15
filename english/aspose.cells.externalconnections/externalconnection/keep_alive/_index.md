@@ -3,7 +3,7 @@ title: keep_alive property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 160
 url: /aspose.cells.externalconnections/externalconnection/keep_alive/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: is_parse_pre property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 210
 url: /aspose.cells.externalconnections/webqueryconnection/is_parse_pre/
 is_root: false
 ---

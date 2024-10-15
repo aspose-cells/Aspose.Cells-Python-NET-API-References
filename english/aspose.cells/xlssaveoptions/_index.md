@@ -46,6 +46,7 @@ The XlsSaveOptions type exposes the following members:
 | [light_cells_data_provider](/cells/python-net/aspose.cells/xlssaveoptions/light_cells_data_provider) | The data provider for saving workbook in light mode. |
 | [is_template](/cells/python-net/aspose.cells/xlssaveoptions/is_template) | Indicates whether saving a template file. |
 | [match_color](/cells/python-net/aspose.cells/xlssaveoptions/match_color) | Indicates whether matching font color because there are 56 colors in the standard color palette. |
+| [wps_compatibility](/cells/python-net/aspose.cells/xlssaveoptions/wps_compatibility) | Indicates whether to make the xls more compatible with WPS. |
 
 
 

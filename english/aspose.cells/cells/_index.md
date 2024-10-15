@@ -99,7 +99,7 @@ The Cells type exposes the following members:
 | [delete_blank_columns](/cells/python-net/aspose.cells/cells/delete_blank_columns/#) | Delete all blank columns which do not contain any data. |
 | [delete_blank_columns](/cells/python-net/aspose.cells/cells/delete_blank_columns/#aspose.cells.DeleteOptions) | Delete all blank columns which do not contain any data. |
 | [delete_blank_rows](/cells/python-net/aspose.cells/cells/delete_blank_rows/#) | Delete all blank rows which do not contain any data or other object. |
-| [delete_blank_rows](/cells/python-net/aspose.cells/cells/delete_blank_rows/#aspose.cells.DeleteOptions) | Delete all blank rows which do not contain any data or other object. |
+| [delete_blank_rows](/cells/python-net/aspose.cells/cells/delete_blank_rows/#aspose.cells.DeleteOptions) | Delete all blank rows which do not contain any data or some special objects such as visible comment, pivot table. |
 | [insert_columns](/cells/python-net/aspose.cells/cells/insert_columns/#int-int) | Inserts some columns into the worksheet. |
 | [insert_columns](/cells/python-net/aspose.cells/cells/insert_columns/#int-int-bool) | Inserts some columns into the worksheet. |
 | [insert_column](/cells/python-net/aspose.cells/cells/insert_column/#int-bool) | Inserts a new column into the worksheet. |

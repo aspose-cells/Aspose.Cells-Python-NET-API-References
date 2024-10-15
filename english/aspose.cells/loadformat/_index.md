@@ -3,7 +3,7 @@ title: LoadFormat enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2340
+weight: 2350
 url: /aspose.cells/loadformat/
 is_root: false
 ---
@@ -37,6 +37,7 @@ The LoadFormat type exposes the following members:
 | XML | Represents a simple xml file. |
 | EPUB | Reprents an EPUB file. |
 | AZW3 | Represents an AZW3 file. |
+| CHM | Represents a CHM file. |
 | UNKNOWN | Represents unrecognized format, cannot be loaded. |
 | IMAGE | Image |
 | JSON | Json |

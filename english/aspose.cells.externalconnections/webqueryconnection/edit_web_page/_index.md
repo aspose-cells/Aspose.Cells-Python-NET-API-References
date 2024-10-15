@@ -3,7 +3,7 @@ title: edit_web_page property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 140
 url: /aspose.cells.externalconnections/webqueryconnection/edit_web_page/
 is_root: false
 ---

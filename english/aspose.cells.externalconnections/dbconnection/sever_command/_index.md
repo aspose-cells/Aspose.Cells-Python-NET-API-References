@@ -3,7 +3,7 @@ title: sever_command property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 300
 url: /aspose.cells.externalconnections/dbconnection/sever_command/
 is_root: false
 ---
@@ -16,6 +16,14 @@ page fields are in use.
 For ODBC connections, serverCommand is usually a broader query than command (no 
 WHERE clause is present in the former). Based on these 2 commands(Command and ServerCommand),
 parameter UI can be populated and parameterized queries can be constructed
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use ExternalConnection.SecondCommand property.
+This method will be removed 12 months later since October 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

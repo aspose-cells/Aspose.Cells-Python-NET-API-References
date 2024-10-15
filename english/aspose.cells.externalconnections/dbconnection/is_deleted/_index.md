@@ -3,7 +3,7 @@ title: is_deleted property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 150
 url: /aspose.cells.externalconnections/dbconnection/is_deleted/
 is_root: false
 ---

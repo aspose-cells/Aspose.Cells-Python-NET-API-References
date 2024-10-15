@@ -3,7 +3,7 @@ title: subtotal_hidden_page_items property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1050
+weight: 1080
 url: /aspose.cells.pivot/pivottable/subtotal_hidden_page_items/
 is_root: false
 ---

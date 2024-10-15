@@ -10,7 +10,7 @@ is_root: false
 
 ## to_math_ml {#}
 
-Conver this equtation to MathML expression.
+Convert this equtation to MathML expression.
 
 
 ### Returns 

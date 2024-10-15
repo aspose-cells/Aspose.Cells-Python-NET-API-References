@@ -3,7 +3,7 @@ title: set_manual_group_field method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 240
 url: /aspose.cells.pivot/pivottable/set_manual_group_field/
 is_root: false
 ---

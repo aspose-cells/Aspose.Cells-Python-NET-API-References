@@ -3,7 +3,7 @@ title: EquationVerticalJustificationType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 290
 url: /aspose.cells.drawing.equations/equationverticaljustificationtype/
 is_root: false
 ---

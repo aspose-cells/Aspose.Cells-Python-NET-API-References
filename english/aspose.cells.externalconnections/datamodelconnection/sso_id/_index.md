@@ -3,7 +3,7 @@ title: sso_id property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 310
 url: /aspose.cells.externalconnections/datamodelconnection/sso_id/
 is_root: false
 ---

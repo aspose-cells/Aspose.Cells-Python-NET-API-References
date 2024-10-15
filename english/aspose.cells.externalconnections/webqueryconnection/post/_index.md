@@ -3,7 +3,7 @@ title: post property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 330
 url: /aspose.cells.externalconnections/webqueryconnection/post/
 is_root: false
 ---

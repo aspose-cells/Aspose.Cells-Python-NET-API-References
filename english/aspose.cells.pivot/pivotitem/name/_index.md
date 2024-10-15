@@ -3,19 +3,20 @@ title: name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.pivot/pivotitem/name/
 is_root: false
 ---
 
 ## name property
 
-
-Gets the name of the pivot item.
 ### Definition:
 ```python
 @property
 def name(self):
+    ...
+@name.setter
+def name(self, value):
     ...
 ```
 
