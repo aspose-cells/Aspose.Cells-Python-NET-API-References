@@ -3,7 +3,7 @@ title: add_svg method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 330
 url: /aspose.cells.drawing/shapecollection/add_svg/
 is_root: false
 ---

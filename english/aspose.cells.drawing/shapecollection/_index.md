@@ -78,6 +78,8 @@ The ShapeCollection type exposes the following members:
 | [ungroup](/cells/python-net/aspose.cells.drawing/shapecollection/ungroup/#aspose.cells.drawing.GroupShape) | Ungroups the shape items. |
 | [remove_a_shape](/cells/python-net/aspose.cells.drawing/shapecollection/remove_a_shape/#aspose.cells.drawing.Shape) | Add API for Python Via .Net.since this API is unsupported |
 | [update_selected_value](/cells/python-net/aspose.cells.drawing/shapecollection/update_selected_value/#) | Update the selected value by the value of the linked cell or range of the shape. |
+| [add_freeform](/cells/python-net/aspose.cells.drawing/shapecollection/add_freeform/#int-int-int-int-int-int-list) | Adds a freeform shape to the worksheet. |
+| [add_signature_line](/cells/python-net/aspose.cells.drawing/shapecollection/add_signature_line/#int-int-aspose.cells.drawing.SignatureLine) | Adds a Signature Line to the worksheet. |
 | [binary_search](/cells/python-net/aspose.cells.drawing/shapecollection/binary_search/#aspose.cells.drawing.Shape) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

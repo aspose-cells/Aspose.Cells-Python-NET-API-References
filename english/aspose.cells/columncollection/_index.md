@@ -3,7 +3,7 @@ title: ColumnCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /aspose.cells/columncollection/
 is_root: false
 ---
@@ -38,6 +38,7 @@ The ColumnCollection type exposes the following members:
 | [last_index_of](/cells/python-net/aspose.cells/columncollection/last_index_of/#aspose.cells.Column-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [get_by_index](/cells/python-net/aspose.cells/columncollection/get_by_index/#int) | Gets the column object by the index. |
 | [get_column_by_index](/cells/python-net/aspose.cells/columncollection/get_column_by_index/#int) | Gets the [`Column`](/cells/python-net/aspose.cells/column) object by the position in the list. |
+| [get](/cells/python-net/aspose.cells/columncollection/get/#int) | Add API for Python Via .Net. |
 | [binary_search](/cells/python-net/aspose.cells/columncollection/binary_search/#aspose.cells.Column) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

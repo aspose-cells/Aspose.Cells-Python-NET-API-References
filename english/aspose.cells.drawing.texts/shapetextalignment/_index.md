@@ -19,7 +19,7 @@ The ShapeTextAlignment type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [is_text_wrapped](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/is_text_wrapped) | Gets and sets the text wrapped type of the shape which contains text. |
+| [is_text_wrapped](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/is_text_wrapped) | Gets or sets the text wrapped type of the shape which contains text. |
 | [rotate_text_with_shape](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/rotate_text_with_shape) | Indicates whether rotating text with shape. |
 | [text_vertical_overflow](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/text_vertical_overflow) | Gets and sets the text vertical overflow type of the text box. |
 | [text_horizontal_overflow](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment/text_horizontal_overflow) | Gets and sets the text horizontal overflow type of the text box. |

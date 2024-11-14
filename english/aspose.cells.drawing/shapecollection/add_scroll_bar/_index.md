@@ -3,7 +3,7 @@ title: add_scroll_bar method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 270
 url: /aspose.cells.drawing/shapecollection/add_scroll_bar/
 is_root: false
 ---

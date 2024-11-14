@@ -21,6 +21,7 @@ The **Aspose.Cells.Drawing.Texts**  namespace provides classes that draw and for
 | [`NoneBulletValue`](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue) | Represents no bullet. |
 | [`PictureBulletValue`](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue) | Represents the value of the image bullet. |
 | [`ShapeTextAlignment`](/cells/python-net/aspose.cells.drawing.texts/shapetextalignment) | Represents the setting of shape's text alignment; |
+| [`TextBoxOptions`](/cells/python-net/aspose.cells.drawing.texts/textboxoptions) | Represents the text options of the shape |
 | [`TextOptions`](/cells/python-net/aspose.cells.drawing.texts/textoptions) | Represents the text options. |
 | [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textparagraph) | Represents the text paragraph setting. |
 | [`TextParagraphCollection`](/cells/python-net/aspose.cells.drawing.texts/textparagraphcollection) | Represents all text paragraph. |
@@ -33,6 +34,7 @@ The **Aspose.Cells.Drawing.Texts**  namespace provides classes that draw and for
 | :- | :- |
 | [`BulletType`](/cells/python-net/aspose.cells.drawing.texts/bullettype) | Represents the type of the bullet. |
 | [`LineSpaceSizeType`](/cells/python-net/aspose.cells.drawing.texts/linespacesizetype) | Represents the unit type of line space size. |
+| [`ShapeTextVerticalAlignmentType`](/cells/python-net/aspose.cells.drawing.texts/shapetextverticalalignmenttype) | It corresponds to "Format Shape - Text Options - Text Box - Vertical Alignment" in Excel. |
 | [`TextAutonumberScheme`](/cells/python-net/aspose.cells.drawing.texts/textautonumberscheme) | Represents all automatic number scheme. |
 | [`TextFontAlignType`](/cells/python-net/aspose.cells.drawing.texts/textfontaligntype) | Represents the different types of font alignment. |
 | [`TextNodeType`](/cells/python-net/aspose.cells.drawing.texts/textnodetype) | Represents the node type. |

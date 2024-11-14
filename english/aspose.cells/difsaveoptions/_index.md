@@ -3,7 +3,7 @@ title: DifSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 520
+weight: 530
 url: /aspose.cells/difsaveoptions/
 is_root: false
 ---

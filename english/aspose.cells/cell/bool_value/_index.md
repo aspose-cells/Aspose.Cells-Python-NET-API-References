@@ -3,7 +3,7 @@ title: bool_value property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /aspose.cells/cell/bool_value/
 is_root: false
 ---

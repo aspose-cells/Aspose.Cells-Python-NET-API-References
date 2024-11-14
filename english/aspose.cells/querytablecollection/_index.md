@@ -3,7 +3,7 @@ title: QueryTableCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1300
+weight: 1320
 url: /aspose.cells/querytablecollection/
 is_root: false
 ---

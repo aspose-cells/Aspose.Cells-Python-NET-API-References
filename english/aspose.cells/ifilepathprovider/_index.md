@@ -3,7 +3,7 @@ title: IFilePathProvider class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 910
+weight: 920
 url: /aspose.cells/ifilepathprovider/
 is_root: false
 ---

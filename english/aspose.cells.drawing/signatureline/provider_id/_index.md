@@ -11,7 +11,7 @@ is_root: false
 ## provider_id property
 
 
-Gets and sets the id of signature provider.
+Gets or sets the id of signature provider.
 
 ### Remarks 
 
@@ -27,7 +27,7 @@ from uuid import uuid4
 
 #  Create signature line object
 s2 = SignatureLine()
-s2.provider_id = uuid4()
+s2.provider_id = uuid4("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx")
 
 ```
 ### Definition:

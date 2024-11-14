@@ -3,7 +3,7 @@ title: add_oval method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /aspose.cells.drawing/shapecollection/add_oval/
 is_root: false
 ---

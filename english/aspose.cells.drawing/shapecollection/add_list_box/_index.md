@@ -3,7 +3,7 @@ title: add_list_box method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /aspose.cells.drawing/shapecollection/add_list_box/
 is_root: false
 ---

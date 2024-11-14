@@ -10,8 +10,13 @@ is_root: false
 
 ## text_to_columns {#int-int-int-aspose.cells.TxtLoadOptions}
 
-Splits the text in the column to columns.
+Splits content in specified column into multiple columns..
 
+
+### Returns 
+
+
+Total column count of the split values.
 
 
 ```python

@@ -3,7 +3,7 @@ title: add_label method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells.drawing/shapecollection/add_label/
 is_root: false
 ---

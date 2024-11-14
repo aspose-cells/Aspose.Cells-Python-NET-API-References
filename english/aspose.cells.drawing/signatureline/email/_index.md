@@ -11,7 +11,7 @@ is_root: false
 ## email property
 
 
-Gets and sets the email of singer.
+Gets or sets the email of singer.
 
 ### Example 
 

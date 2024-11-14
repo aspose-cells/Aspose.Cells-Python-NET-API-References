@@ -3,7 +3,7 @@ title: add_key method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /aspose.cells/datasorter/add_key/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: delete_shape method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 440
 url: /aspose.cells.drawing/shapecollection/delete_shape/
 is_root: false
 ---

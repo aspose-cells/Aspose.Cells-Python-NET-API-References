@@ -3,7 +3,7 @@ title: add_word_art method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 380
 url: /aspose.cells.drawing/shapecollection/add_word_art/
 is_root: false
 ---

@@ -13,6 +13,9 @@ is_root: false
 
 Indicates how to process merged cells when deleting blank rows/columns.
 
+### Remarks 
+
+
 For [`MergedCellsShrinkType.KEEP_HEADER_ONLY`](/cells/python-net/aspose.cells/mergedcellsshrinktype#KEEP_HEADER_ONLY), all cells in it will be taken as blank except the non-blank top-left cell. It is the default value of this property.
 
 For [`MergedCellsShrinkType.NONE`](/cells/python-net/aspose.cells/mergedcellsshrinktype#NONE), all cells in it will be taken as non-blank.

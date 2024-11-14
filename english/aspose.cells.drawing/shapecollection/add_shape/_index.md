@@ -3,7 +3,7 @@ title: add_shape method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /aspose.cells.drawing/shapecollection/add_shape/
 is_root: false
 ---

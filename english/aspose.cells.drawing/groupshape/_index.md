@@ -118,6 +118,7 @@ The GroupShape type exposes the following members:
 | [text_horizontal_alignment](/cells/python-net/aspose.cells.drawing/groupshape/text_horizontal_alignment) | Gets and sets the text horizontal alignment type of the shape. |
 | [text_vertical_alignment](/cells/python-net/aspose.cells.drawing/groupshape/text_vertical_alignment) | Gets and sets the text vertical alignment type of the shape. |
 | [text_direction](/cells/python-net/aspose.cells.drawing/groupshape/text_direction) | Gets/Sets the direction of the text flow for this object. |
+| [text_box_options](/cells/python-net/aspose.cells.drawing/groupshape/text_box_options) | Gets the text information in the shape |
 | [control_data](/cells/python-net/aspose.cells.drawing/groupshape/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/groupshape/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/groupshape/paths) | Gets the paths of a custom geometric shape. |
@@ -172,7 +173,7 @@ Gets the child shape by index.
 
 ```python
 from aspose.cells import Workbook
-from aspose.cells.drawing import MsoLineDashStyle, MsoLineStyle, PlacementType
+from aspose.cells.drawing import FillType, MsoLineDashStyle, MsoLineStyle, PlacementType
 from aspose.pydrawing import Color
 
 # Instantiate a new Workbook.
@@ -192,20 +193,20 @@ radio1.text = "20-29"
 radio1.linked_cell = "A1"
 # Make the radio button 3-D.
 radio1.shadow = True
-# Set the foreground color of the radio button.
-radio1.fill_format.fore_color = Color.light_green
-# Set the line style of the radio button.
-radio1.line_format.style = MsoLineStyle.THICK_THIN
-# Set the weight of the radio button.
-radio1.line_format.weight = 4.0
-# Set the line color of the radio button.
-radio1.line_format.fore_color = Color.blue
-# Set the dash style of the radio button.
-radio1.line_format.dash_style = MsoLineDashStyle.SOLID
 # Make the line format visible.
-radio1.line_format.is_visible = True
+radio1.line.fill_type = FillType.SOLID
 # Make the fill format visible.
-radio1.fill_format.is_visible = True
+radio1.fill.fill_type = FillType.SOLID
+# Set the foreground color of the radio button.
+radio1.fill.solid_fill.color = Color.light_green
+# Set the line style of the radio button.
+radio1.line.compound_type = MsoLineStyle.THICK_THIN
+# Set the weight of the radio button.
+radio1.line.weight = 4.0
+# Set the line color of the radio button.
+radio1.line.solid_fill.color = Color.blue
+# Set the dash style of the radio button.
+radio1.line.dash_style = MsoLineDashStyle.SOLID
 # Add another radio button.
 radio2 = excelbook.worksheets[0].shapes.add_radio_button(6, 0, 2, 0, 30, 110)
 # Set its text string.
@@ -214,20 +215,20 @@ radio2.text = "30-39"
 radio2.linked_cell = "A1"
 # Make the radio button 3-D.
 radio2.shadow = True
-# Set the foreground color of the radio button.
-radio2.fill_format.fore_color = Color.light_green
-# Set the line style of the radio button.
-radio2.line_format.style = MsoLineStyle.THICK_THIN
-# Set the weight of the radio button.
-radio2.line_format.weight = 4.0
-# Set the line color of the radio button.
-radio2.line_format.fore_color = Color.blue
-# Set the dash style of the radio button.
-radio2.line_format.dash_style = MsoLineDashStyle.SOLID
 # Make the line format visible.
-radio2.line_format.is_visible = True
+radio2.line.fill_type = FillType.SOLID
 # Make the fill format visible.
-radio2.fill_format.is_visible = True
+radio2.fill.fill_type = FillType.SOLID
+# Set the foreground color of the radio button.
+radio2.fill.solid_fill.color = Color.light_green
+# Set the line style of the radio button.
+radio2.line.compound_type = MsoLineStyle.THICK_THIN
+# Set the weight of the radio button.
+radio2.line.weight = 4.0
+# Set the line color of the radio button.
+radio2.line.solid_fill.color = Color.blue
+# Set the dash style of the radio button.
+radio2.line.dash_style = MsoLineDashStyle.SOLID
 # Add another radio button.
 radio3 = excelbook.worksheets[0].shapes.add_radio_button(9, 0, 2, 0, 30, 110)
 # Set its text string.
@@ -236,20 +237,20 @@ radio3.text = "40-49"
 radio3.linked_cell = "A1"
 # Make the radio button 3-D.
 radio3.shadow = True
-# Set the foreground color of the radio button.
-radio3.fill_format.fore_color = Color.light_green
-# Set the line style of the radio button.
-radio3.line_format.style = MsoLineStyle.THICK_THIN
-# Set the weight of the radio button.
-radio3.line_format.weight = 4.0
-# Set the line color of the radio button.
-radio3.line_format.fore_color = Color.blue
-# Set the dash style of the radio button.
-radio3.line_format.dash_style = MsoLineDashStyle.SOLID
 # Make the line format visible.
-radio3.line_format.is_visible = True
+radio3.line.fill_type = FillType.SOLID
 # Make the fill format visible.
-radio3.fill_format.is_visible = True
+radio3.fill.fill_type = FillType.SOLID
+# Set the foreground color of the radio button.
+radio3.fill.solid_fill.color = Color.light_green
+# Set the line style of the radio button.
+radio3.line.compound_type = MsoLineStyle.THICK_THIN
+# Set the weight of the radio button.
+radio3.line.weight = 4.0
+# Set the line color of the radio button.
+radio3.line.solid_fill.color = Color.blue
+# Set the dash style of the radio button.
+radio3.line.dash_style = MsoLineDashStyle.SOLID
 # Get the shapes.
 shapeobjects = [box, radio1, radio2, radio3]
 # Group the shapes.

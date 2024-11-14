@@ -3,7 +3,7 @@ title: parameter_definition property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells.querytables/powerqueryformulaparameter/parameter_definition/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Gets the definition of the parameter.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use PowerQueryFormulaParameter.FormulaDefinition property.
+This property will be removed 12 months later since November 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

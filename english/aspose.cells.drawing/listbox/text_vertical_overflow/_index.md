@@ -3,7 +3,7 @@ title: text_vertical_overflow property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1110
+weight: 1120
 url: /aspose.cells.drawing/listbox/text_vertical_overflow/
 is_root: false
 ---

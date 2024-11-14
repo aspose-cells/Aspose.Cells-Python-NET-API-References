@@ -31,6 +31,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions) | Represents options for calculation. |
 | [`Cell`](/cells/python-net/aspose.cells/cell) | Encapsulates the object that represents a single Workbook cell. |
 | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | Represent an area of cells. |
+| [`CellRichValue`](/cells/python-net/aspose.cells/cellrichvalue) | Represents rich value of the cell. |
 | [`CellValue`](/cells/python-net/aspose.cells/cellvalue) | Represents the cell value and corresponding type. |
 | [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) | Represents Cell Watch Item in the 'watch window'. |
 | [`CellWatchCollection`](/cells/python-net/aspose.cells/cellwatchcollection) | Represents the collection of cells on this worksheet being watched in the 'watch window'. |
@@ -138,6 +139,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions) | Represents the options for pagination. |
 | [`PaneCollection`](/cells/python-net/aspose.cells/panecollection) | Represents all Pane objects shown in the specified window. |
 | [`PasteOptions`](/cells/python-net/aspose.cells/pasteoptions) | Represents the paste special options. |
+| [`PclSaveOptions`](/cells/python-net/aspose.cells/pclsaveoptions) | Represents the options for saving Pcl file. |
 | [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions) | Represents the options for saving pdf file. |
 | [`PptxSaveOptions`](/cells/python-net/aspose.cells/pptxsaveoptions) | Represents the pptx save options. |
 | [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange) | A specified range to be allowed to edit when the sheet protection is ON. |
@@ -232,6 +234,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`DynamicFilterType`](/cells/python-net/aspose.cells/dynamicfiltertype) | Dynamic filter type. |
 | [`EmfRenderSetting`](/cells/python-net/aspose.cells/emfrendersetting) | Setting for rendering Emf metafile. |
 | [`EncryptionType`](/cells/python-net/aspose.cells/encryptiontype) | Encryption Type. <br/>Only used by excel2003.<br/>We will encrypt 2007/2010 workbook using SHA AES the same as Excel does, and this EncryptionType will be ignored. |
+| [`ErrorCellValueType`](/cells/python-net/aspose.cells/errorcellvaluetype) | Represents a cell value which contains an error. |
 | [`ErrorCheckType`](/cells/python-net/aspose.cells/errorchecktype) | Represents all error check type. |
 | [`ExceptionType`](/cells/python-net/aspose.cells/exceptiontype) | Represents custom exception type code. |
 | [`ExternalLinkType`](/cells/python-net/aspose.cells/externallinktype) | Represents the type of external link. |

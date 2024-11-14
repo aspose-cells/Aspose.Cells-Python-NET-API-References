@@ -12,6 +12,11 @@ is_root: false
 
 
 Indicates whether to match entire cells contents
+
+### Remarks 
+
+
+The default value is true.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: SettablePivotGlobalizationSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1450
+weight: 1470
 url: /aspose.cells/settablepivotglobalizationsettings/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: binary_search method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 390
 url: /aspose.cells.drawing/shapecollection/binary_search/
 is_root: false
 ---

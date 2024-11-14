@@ -3,7 +3,7 @@ title: width_in_shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1180
+weight: 1190
 url: /aspose.cells.drawing/smartartshape/width_in_shape/
 is_root: false
 ---

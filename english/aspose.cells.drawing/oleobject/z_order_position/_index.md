@@ -3,7 +3,7 @@ title: z_order_position property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1430
+weight: 1440
 url: /aspose.cells.drawing/oleobject/z_order_position/
 is_root: false
 ---

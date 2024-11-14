@@ -133,6 +133,7 @@ The **Aspose.Cells.Drawing**  namespace provides classes that allow to create an
 | [`ShapeAnchorType`](/cells/python-net/aspose.cells.drawing/shapeanchortype) | Represents the anchor type. |
 | [`ShapeLockType`](/cells/python-net/aspose.cells.drawing/shapelocktype) | Represents type of the property to be locked. |
 | [`ShapePathType`](/cells/python-net/aspose.cells.drawing/shapepathtype) | Represents path segment type. |
+| [`SignatureType`](/cells/python-net/aspose.cells.drawing/signaturetype) | Specifies the signature type. |
 | [`TextOverflowType`](/cells/python-net/aspose.cells.drawing/textoverflowtype) | Represents the way the text vertical or horizontal overflow. |
 | [`TextureType`](/cells/python-net/aspose.cells.drawing/texturetype) | Represents the preset texture type. |
 | [`WeightType`](/cells/python-net/aspose.cells.drawing/weighttype) | Enumerates the weight types for a picture border or a chart line. |

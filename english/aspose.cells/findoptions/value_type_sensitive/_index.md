@@ -3,7 +3,7 @@ title: value_type_sensitive property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /aspose.cells/findoptions/value_type_sensitive/
 is_root: false
 ---

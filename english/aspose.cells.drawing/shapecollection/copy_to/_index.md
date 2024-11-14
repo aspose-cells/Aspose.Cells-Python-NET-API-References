@@ -3,7 +3,7 @@ title: copy_to method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 420
 url: /aspose.cells.drawing/shapecollection/copy_to/
 is_root: false
 ---

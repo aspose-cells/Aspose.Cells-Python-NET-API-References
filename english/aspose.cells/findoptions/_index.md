@@ -3,7 +3,7 @@ title: FindOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 680
+weight: 690
 url: /aspose.cells/findoptions/
 is_root: false
 ---
@@ -32,6 +32,7 @@ The FindOptions type exposes the following members:
 | [search_next](/cells/python-net/aspose.cells/findoptions/search_next) | Search order. True: search next. False: search previous. |
 | [search_backward](/cells/python-net/aspose.cells/findoptions/search_backward) | Whether search backward for cells. |
 | [seach_order_by_rows](/cells/python-net/aspose.cells/findoptions/seach_order_by_rows) | Indicates whether search order by rows or columns. |
+| [search_order_by_rows](/cells/python-net/aspose.cells/findoptions/search_order_by_rows) | Indicates whether search order by rows or columns. |
 | [look_in_type](/cells/python-net/aspose.cells/findoptions/look_in_type) | Look in type. |
 | [regex_key](/cells/python-net/aspose.cells/findoptions/regex_key) | Indicates whether the searched key is regex.<br/>If true the searched key will be taken as regex and parsed. Otherwise the key will be parsed according to the rules in ms excel. |
 | [value_type_sensitive](/cells/python-net/aspose.cells/findoptions/value_type_sensitive) | Indicates whether searched cell value type should be same with the searched key. |

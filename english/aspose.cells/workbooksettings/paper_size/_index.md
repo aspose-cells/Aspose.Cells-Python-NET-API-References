@@ -3,7 +3,7 @@ title: paper_size property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 390
 url: /aspose.cells/workbooksettings/paper_size/
 is_root: false
 ---

@@ -10,8 +10,6 @@ is_root: false
 
 ## PowerQueryFormulaParameterCollection class
 
-Represents the parameters of power query formula.
-
 
 
 The PowerQueryFormulaParameterCollection type exposes the following members:

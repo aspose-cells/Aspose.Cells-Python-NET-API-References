@@ -3,7 +3,7 @@ title: add_text_effect method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 360
 url: /aspose.cells.drawing/shapecollection/add_text_effect/
 is_root: false
 ---
