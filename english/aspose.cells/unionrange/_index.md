@@ -3,7 +3,7 @@ title: UnionRange class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1640
+weight: 1660
 url: /aspose.cells/unionrange/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: HtmlHiddenRowDisplayType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2290
+weight: 2320
 url: /aspose.cells/htmlhiddenrowdisplaytype/
 is_root: false
 ---

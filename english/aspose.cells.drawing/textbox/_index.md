@@ -118,6 +118,7 @@ The TextBox type exposes the following members:
 | [text_horizontal_alignment](/cells/python-net/aspose.cells.drawing/textbox/text_horizontal_alignment) | Gets and sets the text horizontal alignment type of the shape. |
 | [text_vertical_alignment](/cells/python-net/aspose.cells.drawing/textbox/text_vertical_alignment) | Gets and sets the text vertical alignment type of the shape. |
 | [text_direction](/cells/python-net/aspose.cells.drawing/textbox/text_direction) | Gets/Sets the direction of the text flow for this object. |
+| [text_box_options](/cells/python-net/aspose.cells.drawing/textbox/text_box_options) | Gets the text information in the shape |
 | [control_data](/cells/python-net/aspose.cells.drawing/textbox/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/textbox/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/textbox/paths) | Gets the paths of a custom geometric shape. |

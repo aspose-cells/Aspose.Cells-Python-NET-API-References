@@ -3,7 +3,7 @@ title: contains_external_link property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /aspose.cells/cell/contains_external_link/
 is_root: false
 ---

@@ -11,7 +11,15 @@ is_root: false
 ## power_query_formula_parameters property
 
 
-Gets all parameters of power query formulas.
+Gets power query formula parameters.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use DataMashup.PowerQueryFormulas property.
+This property will be removed 12 months later since November 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

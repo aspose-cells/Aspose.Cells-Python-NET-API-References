@@ -3,7 +3,7 @@ title: DataSorter class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 460
 url: /aspose.cells/datasorter/
 is_root: false
 ---
@@ -43,6 +43,7 @@ The DataSorter type exposes the following members:
 | [sort](/cells/python-net/aspose.cells/datasorter/sort/#aspose.cells.Cells-aspose.cells.CellArea) | Sort the data of the area. |
 | [sort](/cells/python-net/aspose.cells/datasorter/sort/#) | Sort the data in the range. |
 | [clear](/cells/python-net/aspose.cells/datasorter/clear/#) | Clear all settings. |
+| [add_color_key](/cells/python-net/aspose.cells/datasorter/add_color_key/#int-aspose.cells.SortOnType-aspose.cells.SortOrder-aspose.pydrawing.Color) | Adds color sort key. |
 
 
 

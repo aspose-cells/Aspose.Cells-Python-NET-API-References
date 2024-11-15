@@ -3,7 +3,7 @@ title: OoxmlCompliance enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2430
+weight: 2460
 url: /aspose.cells/ooxmlcompliance/
 is_root: false
 ---

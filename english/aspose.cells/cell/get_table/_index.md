@@ -3,7 +3,7 @@ title: get_table method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells/cell/get_table/
 is_root: false
 ---

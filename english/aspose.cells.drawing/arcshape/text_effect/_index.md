@@ -3,7 +3,7 @@ title: text_effect property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1020
+weight: 1030
 url: /aspose.cells.drawing/arcshape/text_effect/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: three_d_format property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1100
+weight: 1110
 url: /aspose.cells.drawing/spinner/three_d_format/
 is_root: false
 ---

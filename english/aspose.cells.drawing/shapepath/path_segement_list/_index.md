@@ -3,7 +3,7 @@ title: path_segement_list property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 80
 url: /aspose.cells.drawing/shapepath/path_segement_list/
 is_root: false
 ---

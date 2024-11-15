@@ -20,7 +20,7 @@ The DataMashup type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [power_query_formulas](/cells/python-net/aspose.cells.querytables/datamashup/power_query_formulas) | Gets all power query formulas. |
-| [power_query_formula_parameters](/cells/python-net/aspose.cells.querytables/datamashup/power_query_formula_parameters) | Gets all parameters of power query formulas. |
+| [power_query_formula_parameters](/cells/python-net/aspose.cells.querytables/datamashup/power_query_formula_parameters) | Gets power query formula parameters. |
 
 
 

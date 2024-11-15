@@ -11,7 +11,7 @@ is_root: false
 ## is_text_wrapped property
 
 
-Gets and sets the text wrapped type of the shape which contains text.
+Gets or sets the text wrapped type of the shape which contains text.
 
 ### Example 
 

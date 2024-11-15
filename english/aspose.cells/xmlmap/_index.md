@@ -3,7 +3,7 @@ title: XmlMap class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1810
+weight: 1830
 url: /aspose.cells/xmlmap/
 is_root: false
 ---

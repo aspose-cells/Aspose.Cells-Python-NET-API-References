@@ -3,7 +3,7 @@ title: add_group_box method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.drawing/shapecollection/add_group_box/
 is_root: false
 ---

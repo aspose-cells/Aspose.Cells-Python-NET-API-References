@@ -3,7 +3,7 @@ title: clear method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells/datasorter/clear/
 is_root: false
 ---

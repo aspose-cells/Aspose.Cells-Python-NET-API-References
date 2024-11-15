@@ -20,6 +20,12 @@ The **Aspose.Cells.QueryTables**  namespace provides classes to access and updat
 | [`PowerQueryFormulaItem`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitem) | Represents the item of the power query formula. |
 | [`PowerQueryFormulaItemCollection`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitemcollection) | Represents all item of the power query formula. |
 | [`PowerQueryFormulaParameter`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparameter) | Represents the parameter of power query formula. |
-| [`PowerQueryFormulaParameterCollection`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection) | Represents the parameters of power query formula. |
+| [`PowerQueryFormulaParameterCollection`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection) |  |
+
+
+### Enumerations
+| Enumeration | Description |
+| :- | :- |
+| [`PowerQueryFormulaType`](/cells/python-net/aspose.cells.querytables/powerqueryformulatype) | Represents the type of power query formula. |
 
 

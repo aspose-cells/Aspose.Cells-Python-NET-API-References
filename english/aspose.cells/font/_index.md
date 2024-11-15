@@ -3,7 +3,7 @@ title: Font class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 700
+weight: 710
 url: /aspose.cells/font/
 is_root: false
 ---

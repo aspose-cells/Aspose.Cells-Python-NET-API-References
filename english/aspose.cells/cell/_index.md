@@ -125,6 +125,7 @@ The Cell type exposes the following members:
 | [get_validation](/cells/python-net/aspose.cells/cell/get_validation/#) | Gets the validation applied to this cell. |
 | [get_validation_value](/cells/python-net/aspose.cells/cell/get_validation_value/#) | Gets the value of validation which applied to this cell. |
 | [get_table](/cells/python-net/aspose.cells/cell/get_table/#) | Gets the table which contains this cell. |
+| [get_rich_value](/cells/python-net/aspose.cells/cell/get_rich_value/#) | Gets rich value of the cell. |
 
 
 

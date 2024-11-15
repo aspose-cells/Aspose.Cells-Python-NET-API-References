@@ -3,7 +3,7 @@ title: Workbook class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1700
+weight: 1720
 url: /aspose.cells/workbook/
 is_root: false
 ---
@@ -55,6 +55,7 @@ The Workbook type exposes the following members:
 | [ribbon_xml](/cells/python-net/aspose.cells/workbook/ribbon_xml) | Gets and sets the XML file that defines the Ribbon UI. |
 | [absolute_path](/cells/python-net/aspose.cells/workbook/absolute_path) | Gets and sets the absolute path of the file. |
 | [data_connections](/cells/python-net/aspose.cells/workbook/data_connections) | Gets the [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection) collection. |
+| [data_model](/cells/python-net/aspose.cells/workbook/data_model) | Gets data model in the workbook. |
 
 
 ### Methods

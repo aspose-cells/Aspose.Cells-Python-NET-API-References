@@ -3,7 +3,7 @@ title: add_linked_picture method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells.drawing/shapecollection/add_linked_picture/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: WorkbookSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1720
+weight: 1740
 url: /aspose.cells/workbooksettings/
 is_root: false
 ---
@@ -80,6 +80,9 @@ The WorkbookSettings type exposes the following members:
 | [compliance](/cells/python-net/aspose.cells/workbooksettings/compliance) | Specifies the OOXML version for the output document. The default value is Ecma376_2006. |
 | [quote_prefix_to_style](/cells/python-net/aspose.cells/workbooksettings/quote_prefix_to_style) | Indicates whether setting [`Style.quote_prefix`](/cells/python-net/aspose.cells/style#quote_prefix) property when entering the string value(which starts  with single quote mark ) to the cell |
 | [formula_settings](/cells/python-net/aspose.cells/workbooksettings/formula_settings) | Gets the settings for formula-related features. |
+| [properties_follow_chart_point](/cells/python-net/aspose.cells/workbooksettings/properties_follow_chart_point) | Indicates whether datapoint properties and datalabels in all charts in this workbook follow their reference. |
+| [discard_image_edit_data](/cells/python-net/aspose.cells/workbooksettings/discard_image_edit_data) | Indicates whether discarding editting image data. |
+| [default_image_resolution](/cells/python-net/aspose.cells/workbooksettings/default_image_resolution) | Gets and sets default resolution of image. |
 
 
 ### Methods

@@ -3,7 +3,7 @@ title: repair_load property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 460
 url: /aspose.cells/workbooksettings/repair_load/
 is_root: false
 ---

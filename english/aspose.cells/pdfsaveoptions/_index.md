@@ -3,7 +3,7 @@ title: PdfSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1240
+weight: 1260
 url: /aspose.cells/pdfsaveoptions/
 is_root: false
 ---

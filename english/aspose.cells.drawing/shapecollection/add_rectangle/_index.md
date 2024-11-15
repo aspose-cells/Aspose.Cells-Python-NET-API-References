@@ -3,7 +3,7 @@ title: add_rectangle method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /aspose.cells.drawing/shapecollection/add_rectangle/
 is_root: false
 ---

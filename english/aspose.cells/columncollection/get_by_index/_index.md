@@ -3,7 +3,7 @@ title: get_by_index method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells/columncollection/get_by_index/
 is_root: false
 ---

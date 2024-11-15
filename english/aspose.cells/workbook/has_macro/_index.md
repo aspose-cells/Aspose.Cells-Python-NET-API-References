@@ -3,7 +3,7 @@ title: has_macro property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 580
+weight: 590
 url: /aspose.cells/workbook/has_macro/
 is_root: false
 ---

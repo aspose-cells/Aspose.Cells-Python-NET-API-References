@@ -3,7 +3,7 @@ title: sort_left_to_right property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /aspose.cells/datasorter/sort_left_to_right/
 is_root: false
 ---

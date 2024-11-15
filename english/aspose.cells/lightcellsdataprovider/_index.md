@@ -3,7 +3,7 @@ title: LightCellsDataProvider class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1060
+weight: 1070
 url: /aspose.cells/lightcellsdataprovider/
 is_root: false
 ---

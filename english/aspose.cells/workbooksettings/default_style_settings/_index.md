@@ -3,7 +3,7 @@ title: default_style_settings property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /aspose.cells/workbooksettings/default_style_settings/
 is_root: false
 ---

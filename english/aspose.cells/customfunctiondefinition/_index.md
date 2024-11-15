@@ -3,7 +3,7 @@ title: CustomFunctionDefinition class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /aspose.cells/customfunctiondefinition/
 is_root: false
 ---

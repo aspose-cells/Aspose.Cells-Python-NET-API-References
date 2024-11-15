@@ -3,7 +3,7 @@ title: add_ole_object method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.drawing/shapecollection/add_ole_object/
 is_root: false
 ---

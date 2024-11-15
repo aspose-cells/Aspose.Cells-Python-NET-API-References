@@ -3,7 +3,7 @@ title: add_shape_in_chart method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells.drawing/shapecollection/add_shape_in_chart/
 is_root: false
 ---

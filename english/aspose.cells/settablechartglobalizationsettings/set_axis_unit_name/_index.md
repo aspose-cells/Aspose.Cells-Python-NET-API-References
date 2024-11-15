@@ -22,7 +22,7 @@ def set_axis_unit_name(self, type, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | aspose.cells.charts.DisplayUnitType |  |
+| type | aspose.cells.charts.DisplayUnitType | The unit type for displaying axis labels. |
 | name | str | local dependent name |
 
 

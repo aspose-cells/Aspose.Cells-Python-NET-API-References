@@ -3,7 +3,7 @@ title: Cells class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells/cells/
 is_root: false
 ---
@@ -143,7 +143,7 @@ The Cells type exposes the following members:
 | [import_data](/cells/python-net/aspose.cells/cells/import_data/#aspose.cells.ICellsDataTable-int-int-aspose.cells.ImportTableOptions) | Import data from custom data table. |
 | [import_array_list](/cells/python-net/aspose.cells/cells/import_array_list/#list-int-int-bool) | Imports an arraylist of data into a worksheet. |
 | [import_formula_array](/cells/python-net/aspose.cells/cells/import_formula_array/#list-int-int-bool) | Imports an array of formula into a worksheet. |
-| [text_to_columns](/cells/python-net/aspose.cells/cells/text_to_columns/#int-int-int-aspose.cells.TxtLoadOptions) | Splits the text in the column to columns. |
+| [text_to_columns](/cells/python-net/aspose.cells/cells/text_to_columns/#int-int-int-aspose.cells.TxtLoadOptions) | Splits content in specified column into multiple columns.. |
 | [un_merge](/cells/python-net/aspose.cells/cells/un_merge/#int-int-int-int) | Unmerges a specified range of merged cells. |
 | [clear_merged_cells](/cells/python-net/aspose.cells/cells/clear_merged_cells/#) | Clears all merged ranges. |
 | [hide_row](/cells/python-net/aspose.cells/cells/hide_row/#int) | Hides a row. |

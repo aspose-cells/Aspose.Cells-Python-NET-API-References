@@ -3,7 +3,7 @@ title: SettableChartGlobalizationSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1430
+weight: 1450
 url: /aspose.cells/settablechartglobalizationsettings/
 is_root: false
 ---
