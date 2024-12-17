@@ -3,7 +3,7 @@ title: FontSchemeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2220
+weight: 2240
 url: /aspose.cells/fontschemetype/
 is_root: false
 ---

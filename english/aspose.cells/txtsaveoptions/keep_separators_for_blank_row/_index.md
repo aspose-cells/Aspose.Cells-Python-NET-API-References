@@ -3,7 +3,7 @@ title: keep_separators_for_blank_row property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells/txtsaveoptions/keep_separators_for_blank_row/
 is_root: false
 ---

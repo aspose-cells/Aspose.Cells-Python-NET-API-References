@@ -3,7 +3,7 @@ title: trim_leading_blank_row_and_column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /aspose.cells/txtsaveoptions/trim_leading_blank_row_and_column/
 is_root: false
 ---

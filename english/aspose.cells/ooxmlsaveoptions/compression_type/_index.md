@@ -3,7 +3,7 @@ title: compression_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cells/ooxmlsaveoptions/compression_type/
 is_root: false
 ---

@@ -10,7 +10,7 @@ is_root: false
 
 ## delete_rows {#int-int}
 
-Deletes several rows.
+Deletes multiple rows.
 
 
 
@@ -52,6 +52,30 @@ def delete_rows(self, row_index, total_rows, update_reference):
 | row_index | int | Index of the first row to be deleted. |
 | total_rows | int | Count of rows to be deleted. |
 | update_reference | bool | Indicates whether update references in other worksheets. |
+
+
+## delete_rows {#int-int-aspose.cells.DeleteOptions}
+
+Deletes multiple rows in the worksheet.
+
+
+### Returns 
+
+
+
+
+
+```python
+def delete_rows(self, row_index, total_rows, options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| row_index | int | Index of the first row to be deleted. |
+| total_rows | int | Count of rows to be deleted. |
+| options | [`DeleteOptions`](/cells/python-net/aspose.cells/deleteoptions) | Options for the deleting operation |
 
 
 

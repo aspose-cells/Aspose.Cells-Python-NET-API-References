@@ -3,7 +3,7 @@ title: image_scalable property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 520
+weight: 540
 url: /aspose.cells.saving/ebooksaveoptions/image_scalable/
 is_root: false
 ---

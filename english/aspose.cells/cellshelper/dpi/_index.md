@@ -17,15 +17,6 @@ Gets the DPI of the machine.
 
 
 
-### Definition:
-```python
-@property
-def dpi(self):
-    ...
-@dpi.setter
-def dpi(self, value):
-    ...
-```
 
 ### See Also
 * module [`aspose.cells`](../../)

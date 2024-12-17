@@ -45,6 +45,25 @@ def insert_columns(self, column_index, total_columns, update_reference):
 | update_reference | bool | Indicates if references in other worksheets will be updated. |
 
 
+## insert_columns {#int-int-aspose.cells.InsertOptions}
+
+Inserts some columns into the worksheet.
+
+
+
+```python
+def insert_columns(self, column_index, total_columns, options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| column_index | int | Column index. |
+| total_columns | int | The number of columns. |
+| options | [`InsertOptions`](/cells/python-net/aspose.cells/insertoptions) | The options for inserting operation. |
+
+
 
 ### See Also
 * module [`aspose.cells`](../../)

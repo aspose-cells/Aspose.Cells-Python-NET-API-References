@@ -3,7 +3,7 @@ title: MergedCellsShrinkType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2430
+weight: 2450
 url: /aspose.cells/mergedcellsshrinktype/
 is_root: false
 ---

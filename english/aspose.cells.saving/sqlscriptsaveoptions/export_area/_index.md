@@ -3,7 +3,7 @@ title: export_area property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.saving/sqlscriptsaveoptions/export_area/
 is_root: false
 ---

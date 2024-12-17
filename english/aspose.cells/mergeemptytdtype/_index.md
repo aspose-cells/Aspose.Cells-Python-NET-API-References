@@ -3,7 +3,7 @@ title: MergeEmptyTdType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2420
+weight: 2440
 url: /aspose.cells/mergeemptytdtype/
 is_root: false
 ---

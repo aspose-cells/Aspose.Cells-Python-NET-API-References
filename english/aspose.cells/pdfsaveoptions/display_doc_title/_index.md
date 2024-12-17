@@ -3,7 +3,7 @@ title: display_doc_title property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells/pdfsaveoptions/display_doc_title/
 is_root: false
 ---

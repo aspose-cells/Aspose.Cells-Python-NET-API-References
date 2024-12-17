@@ -3,7 +3,7 @@ title: DataSorter class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /aspose.cells/datasorter/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: ThreadInterruptMonitor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1560
+weight: 1570
 url: /aspose.cells/threadinterruptmonitor/
 is_root: false
 ---

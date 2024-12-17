@@ -61,7 +61,7 @@ def insert_rows(self, row_index, total_rows, options):
 | :- | :- | :- |
 | row_index | int | Row index. |
 | total_rows | int | Number of rows to be inserted. |
-| options | [`InsertOptions`](/cells/python-net/aspose.cells/insertoptions) | Indicates if references in other worksheets will be updated. |
+| options | [`InsertOptions`](/cells/python-net/aspose.cells/insertoptions) | Options for inserting operation. |
 
 
 

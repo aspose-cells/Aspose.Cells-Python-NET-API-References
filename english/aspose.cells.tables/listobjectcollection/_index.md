@@ -25,6 +25,8 @@ The ListObjectCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
+| [get](/cells/python-net/aspose.cells.tables/listobjectcollection/get/#int) | Add API for Python Via .Net.since this[int] is unsupported |
+| [get](/cells/python-net/aspose.cells.tables/listobjectcollection/get/#str) | Add API for Python Via .Net.since this[string] is unsupported |
 | [add](/cells/python-net/aspose.cells.tables/listobjectcollection/add/#int-int-int-int-bool) | Adds a ListObject to the worksheet. |
 | [add](/cells/python-net/aspose.cells.tables/listobjectcollection/add/#str-str-bool) | Adds a ListObject to the worksheet. |
 | [copy_to](/cells/python-net/aspose.cells.tables/listobjectcollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |

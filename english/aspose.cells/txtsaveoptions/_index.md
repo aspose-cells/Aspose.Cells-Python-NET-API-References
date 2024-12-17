@@ -3,7 +3,7 @@ title: TxtSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1650
+weight: 1660
 url: /aspose.cells/txtsaveoptions/
 is_root: false
 ---
@@ -41,6 +41,7 @@ The TxtSaveOptions type exposes the following members:
 | [sort_external_names](/cells/python-net/aspose.cells/txtsaveoptions/sort_external_names) | Indicates whether sorting external defined names before saving file. |
 | [refresh_chart_cache](/cells/python-net/aspose.cells/txtsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells/txtsaveoptions/warning_callback) | Gets or sets warning callback. |
+| [check_excel_restriction](/cells/python-net/aspose.cells/txtsaveoptions/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K, it will be truncated. |
 | [update_smart_art](/cells/python-net/aspose.cells/txtsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
 | [encrypt_document_properties](/cells/python-net/aspose.cells/txtsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [separator](/cells/python-net/aspose.cells/txtsaveoptions/separator) | Gets and sets char Delimiter of text file. |

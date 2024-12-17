@@ -3,7 +3,7 @@ title: html_cross_string_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 490
+weight: 510
 url: /aspose.cells.saving/ebooksaveoptions/html_cross_string_type/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: CommentCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /aspose.cells/commentcollection/
 is_root: false
 ---
@@ -31,6 +31,9 @@ The CommentCollection type exposes the following members:
 | [get_threaded_comments](/cells/python-net/aspose.cells/commentcollection/get_threaded_comments/#str) | Gets the threaded comments by cell name. |
 | [add](/cells/python-net/aspose.cells/commentcollection/add/#int-int) | Adds a comment to the collection. |
 | [add](/cells/python-net/aspose.cells/commentcollection/add/#str) | Adds a comment to the collection. |
+| [get](/cells/python-net/aspose.cells/commentcollection/get/#int-int) | Add API for Python Via .Net.since this[int, int] is unsupported |
+| [get](/cells/python-net/aspose.cells/commentcollection/get/#int) | Gets the [`Comment`](/cells/python-net/aspose.cells/comment) element at the specified index. |
+| [get](/cells/python-net/aspose.cells/commentcollection/get/#str) | Gets the [`Comment`](/cells/python-net/aspose.cells/comment) element at the specified cell. |
 | [remove_at](/cells/python-net/aspose.cells/commentcollection/remove_at/#str) | Removes the comment of the specific cell. |
 | [remove_at](/cells/python-net/aspose.cells/commentcollection/remove_at/#int-int) | Removes the comment of the specific cell. |
 | [copy_to](/cells/python-net/aspose.cells/commentcollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
@@ -40,7 +43,6 @@ The CommentCollection type exposes the following members:
 | [last_index_of](/cells/python-net/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [last_index_of](/cells/python-net/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [last_index_of](/cells/python-net/aspose.cells/commentcollection/last_index_of/#aspose.cells.Comment-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [get](/cells/python-net/aspose.cells/commentcollection/get/#int-int) | Add API for Python Via .Net.since this[int, int] is unsupported |
 | [binary_search](/cells/python-net/aspose.cells/commentcollection/binary_search/#aspose.cells.Comment) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

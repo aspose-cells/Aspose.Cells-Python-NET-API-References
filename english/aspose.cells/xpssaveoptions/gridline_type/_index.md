@@ -3,7 +3,7 @@ title: gridline_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells/xpssaveoptions/gridline_type/
 is_root: false
 ---

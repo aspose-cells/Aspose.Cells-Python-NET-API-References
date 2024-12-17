@@ -29,7 +29,12 @@ def add(self, field_index, type):
 | :- | :- | :- |
 | field_index | int | the PivotField index |
 | type | [`PivotFilterType`](/cells/python-net/aspose.cells.pivot/pivotfiltertype) | the PivotFilter type |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotFilterCollection.AddValueFilter(),AddTop10Filter(),AddLabelFilter() and AddDateFilter() methods.
+This method will be removed 12 months later since November 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

@@ -3,7 +3,7 @@ title: TextStrikeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2760
+weight: 2780
 url: /aspose.cells/textstriketype/
 is_root: false
 ---

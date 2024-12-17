@@ -3,7 +3,7 @@ title: IconSetType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2360
+weight: 2380
 url: /aspose.cells/iconsettype/
 is_root: false
 ---

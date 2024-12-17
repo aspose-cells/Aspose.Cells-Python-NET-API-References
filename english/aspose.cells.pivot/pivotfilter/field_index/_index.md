@@ -3,7 +3,7 @@ title: field_index property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 90
 url: /aspose.cells.pivot/pivotfilter/field_index/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## field_index property
 
 
-Gets the field index of the pivot filter.
+Gets the index of source field which this pivot filter is applied to.
 ### Definition:
 ```python
 @property

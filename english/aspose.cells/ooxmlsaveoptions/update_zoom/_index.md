@@ -3,7 +3,7 @@ title: update_zoom property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /aspose.cells/ooxmlsaveoptions/update_zoom/
 is_root: false
 ---

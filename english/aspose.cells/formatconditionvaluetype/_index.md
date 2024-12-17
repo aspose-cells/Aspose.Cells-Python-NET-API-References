@@ -3,7 +3,7 @@ title: FormatConditionValueType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2260
+weight: 2280
 url: /aspose.cells/formatconditionvaluetype/
 is_root: false
 ---

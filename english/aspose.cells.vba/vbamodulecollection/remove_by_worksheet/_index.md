@@ -3,7 +3,7 @@ title: remove_by_worksheet method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /aspose.cells.vba/vbamodulecollection/remove_by_worksheet/
 is_root: false
 ---
