@@ -3,7 +3,7 @@ title: export_extra_headings property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 290
 url: /aspose.cells/htmlsaveoptions/export_extra_headings/
 is_root: false
 ---

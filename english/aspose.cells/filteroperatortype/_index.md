@@ -3,7 +3,7 @@ title: FilterOperatorType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2200
+weight: 2220
 url: /aspose.cells/filteroperatortype/
 is_root: false
 ---
@@ -30,6 +30,8 @@ The FilterOperatorType type exposes the following members:
 | ENDS_WITH | Ends with the text. |
 | CONTAINS | Contains the text. |
 | NOT_CONTAINS | Not contains the text. |
+| NOT_BEGINS_WITH | Not begins with the text. |
+| NOT_ENDS_WITH | Not ends with the text. |
 
 
 

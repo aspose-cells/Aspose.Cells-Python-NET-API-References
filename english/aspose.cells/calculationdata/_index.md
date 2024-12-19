@@ -3,7 +3,7 @@ title: CalculationData class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells/calculationdata/
 is_root: false
 ---

@@ -23,8 +23,10 @@ The PivotField type exposes the following members:
 | [range](/cells/python-net/aspose.cells.pivot/pivotfield/range) | Gets the group range of the pivot field |
 | [group_settings](/cells/python-net/aspose.cells.pivot/pivotfield/group_settings) | Gets the group settings of the pivot field. |
 | [is_calculated_field](/cells/python-net/aspose.cells.pivot/pivotfield/is_calculated_field) | Indicates whether the specified PivotTable field is calculated field. |
+| [is_value_fields](/cells/python-net/aspose.cells.pivot/pivotfield/is_value_fields) | Indicates whether this field represents values fields. |
 | [base_index](/cells/python-net/aspose.cells.pivot/pivotfield/base_index) | Represents the PivotField index in the base PivotFields. |
 | [position](/cells/python-net/aspose.cells.pivot/pivotfield/position) | Represents the index of [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) in the region. |
+| [region_type](/cells/python-net/aspose.cells.pivot/pivotfield/region_type) | Specifies the region of the PivotTable that this field is displayed. |
 | [name](/cells/python-net/aspose.cells.pivot/pivotfield/name) | Represents the name of PivotField. |
 | [display_name](/cells/python-net/aspose.cells.pivot/pivotfield/display_name) | Represents the PivotField display name. |
 | [is_auto_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/is_auto_subtotals) | Indicates whether the specified field shows automatic subtotals. Default is true. |
@@ -76,11 +78,16 @@ The PivotField type exposes the following members:
 | [sort_by](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.SortOrder-int-aspose.cells.pivot.PivotLineType-str) | Sorts this pivot field. |
 | [hide_item](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#int-bool) | Sets whether the specific PivotItem in a data field is hidden. |
 | [hide_item](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#str-bool) | Sets whether the specific PivotItem in a data field is hidden. |
+| [init_pivot_items](/cells/python-net/aspose.cells.pivot/pivotfield/init_pivot_items/#) | Init the pivot items of the pivot field |
+| [ungroup](/cells/python-net/aspose.cells.pivot/pivotfield/ungroup/#) | Ungroup the pivot field. |
 | [get_pivot_filter_by_type](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/#aspose.cells.pivot.PivotFilterType) | Gets the pivot filter of the pivot field by type |
 | [get_pivot_filters](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filters/#) | Gets the pivot filters of the pivot field |
 | [get_filters](/cells/python-net/aspose.cells.pivot/pivotfield/get_filters/#) | Gets all pivot filters of this pivot field. |
-| [init_pivot_items](/cells/python-net/aspose.cells.pivot/pivotfield/init_pivot_items/#) | Init the pivot items of the pivot field |
-| [ungroup](/cells/python-net/aspose.cells.pivot/pivotfield/ungroup/#) | Ungroup the pivot field. |
+| [clear_filter](/cells/python-net/aspose.cells.pivot/pivotfield/clear_filter/#) | Clears filter setting on this pivot field. |
+| [filter_top10](/cells/python-net/aspose.cells.pivot/pivotfield/filter_top10/#int-aspose.cells.pivot.PivotFilterType-bool-int) | Filters by values of data pivot field. |
+| [filter_by_value](/cells/python-net/aspose.cells.pivot/pivotfield/filter_by_value/#int-aspose.cells.pivot.PivotFilterType-float-float) | Filters by values of data pivot field. |
+| [filter_by_label](/cells/python-net/aspose.cells.pivot/pivotfield/filter_by_label/#aspose.cells.pivot.PivotFilterType-str-str) | Filters by captions of row or column pivot field. |
+| [filter_by_date](/cells/python-net/aspose.cells.pivot/pivotfield/filter_by_date/#aspose.cells.pivot.PivotFilterType-DateTime-DateTime) | Filters by date setting of row or column pivot field. |
 | [get_calculated_field_formula](/cells/python-net/aspose.cells.pivot/pivotfield/get_calculated_field_formula/#) | Get the formula string of the specified calculated field . |
 | [get_formula](/cells/python-net/aspose.cells.pivot/pivotfield/get_formula/#) | Gets formula of the calculated field . |
 | [set_subtotals](/cells/python-net/aspose.cells.pivot/pivotfield/set_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType-bool) | Sets whether the specified field shows that subtotals. |

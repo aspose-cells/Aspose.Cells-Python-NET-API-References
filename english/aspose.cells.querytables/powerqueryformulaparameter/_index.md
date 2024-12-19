@@ -25,6 +25,7 @@ The PowerQueryFormulaParameter type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [type](/cells/python-net/aspose.cells.querytables/powerqueryformulaparameter/type) | Gets the type of power query formula. |
+| [group_name](/cells/python-net/aspose.cells.querytables/powerqueryformulaparameter/group_name) | Gets the name of group which contains this power query formula. |
 | [formula_definition](/cells/python-net/aspose.cells.querytables/powerqueryformulaparameter/formula_definition) | Gets the definition of the parameter. |
 | [name](/cells/python-net/aspose.cells.querytables/powerqueryformulaparameter/name) | Gets and sets the name of the power query formula. |
 | [power_query_formula_items](/cells/python-net/aspose.cells.querytables/powerqueryformulaparameter/power_query_formula_items) | Gets all items of power query formula. |

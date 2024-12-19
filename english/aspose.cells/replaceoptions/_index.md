@@ -3,7 +3,7 @@ title: ReplaceOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1370
+weight: 1380
 url: /aspose.cells/replaceoptions/
 is_root: false
 ---
@@ -29,6 +29,7 @@ The ReplaceOptions type exposes the following members:
 | [match_entire_cell_contents](/cells/python-net/aspose.cells/replaceoptions/match_entire_cell_contents) | Indicates whether to match entire cells contents |
 | [regex_key](/cells/python-net/aspose.cells/replaceoptions/regex_key) | Indicates whether the searched key is regex. If true then the searched key will be taken as regex. |
 | [font_settings](/cells/python-net/aspose.cells/replaceoptions/font_settings) | The rich formatted settings for the replaced text. |
+| [style_flags](/cells/python-net/aspose.cells/replaceoptions/style_flags) | Gets and sets flags of applying font settings. |
 
 
 

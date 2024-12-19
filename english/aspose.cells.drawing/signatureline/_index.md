@@ -50,9 +50,9 @@ workbook = Workbook()
 worksheet = workbook.worksheets[0]
 #  Create signature line object
 s = SignatureLine()
-s.signer = "Simon Zhao"
-s.title = "Development Lead"
-s.email = "Simon.Zhao@aspose.com"
+s.signer = "Simon"
+s.title = "Development"
+s.email = "simon@aspose.com"
 s.instructions = "Sign to confirm the excel content."
 #  Adds a Signature Line to the worksheet.
 signatureLine = worksheet.shapes.add_signature_line(0, 0, s)

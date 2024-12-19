@@ -27,6 +27,25 @@ def delete_columns(self, column_index, total_columns, update_reference):
 | update_reference | bool | Indicates whether update references in other worksheets. |
 
 
+## delete_columns {#int-int-aspose.cells.DeleteOptions}
+
+Deletes several columns.
+
+
+
+```python
+def delete_columns(self, column_index, total_columns, options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| column_index | int | Index of the first column to be deleted. |
+| total_columns | int | Count of columns to be deleted. |
+| options | [`DeleteOptions`](/cells/python-net/aspose.cells/deleteoptions) | Options for the deleting operation |
+
+
 
 ### See Also
 * module [`aspose.cells`](../../)

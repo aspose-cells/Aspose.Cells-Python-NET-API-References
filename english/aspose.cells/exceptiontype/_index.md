@@ -3,7 +3,7 @@ title: ExceptionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2170
+weight: 2180
 url: /aspose.cells/exceptiontype/
 is_root: false
 ---
@@ -43,6 +43,10 @@ The ExceptionType type exposes the following members:
 | UNSUPPORTED_STREAM | Unsupported stream to be opened. |
 | UNDISCLOSED_INFORMATION | Files contains some undisclosed information. |
 | FILE_CORRUPTED | File content is corrupted. |
+| DEFINED_NAME | Invalid defined name |
+| FONT | Invalid font |
+| AUTO_FILTER | Invalid auto filter setting. |
+| FONT_SUBSTITUTION | Font substitution warning type<br/>when a font has not been found, this warning type can be get. |
 
 
 

@@ -18,6 +18,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`AboveAverage`](/cells/python-net/aspose.cells/aboveaverage) | Describe the AboveAverage conditional formatting rule. <br/>This conditional formatting rule highlights cells that<br/>are above or below the average for all values in the range. |
 | [`AbstractCalculationEngine`](/cells/python-net/aspose.cells/abstractcalculationengine) | Represents user's custom calculation engine to extend the default calculation engine of Aspose.Cells. |
 | [`AbstractCalculationMonitor`](/cells/python-net/aspose.cells/abstractcalculationmonitor) | Monitor for user to track the progress of formula calculation. |
+| [`AbstractFormulaChangeMonitor`](/cells/python-net/aspose.cells/abstractformulachangemonitor) | Monitor for user to track the change of formulas during certain operations. |
 | [`AbstractGlobalizationSettings`](/cells/python-net/aspose.cells/abstractglobalizationsettings) | Represents the globalization settings. |
 | [`AbstractInterruptMonitor`](/cells/python-net/aspose.cells/abstractinterruptmonitor) | Monitor for interruption requests in all time-consuming operations. |
 | [`AbstractTextLoadOptions`](/cells/python-net/aspose.cells/abstracttextloadoptions) | Common options for loading text values |
@@ -239,6 +240,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`ExceptionType`](/cells/python-net/aspose.cells/exceptiontype) | Represents custom exception type code. |
 | [`ExternalLinkType`](/cells/python-net/aspose.cells/externallinktype) | Represents the type of external link. |
 | [`FileFormatType`](/cells/python-net/aspose.cells/fileformattype) | Represents the file format types. |
+| [`FilterCategory`](/cells/python-net/aspose.cells/filtercategory) | Represents the category of the filter. |
 | [`FilterOperatorType`](/cells/python-net/aspose.cells/filteroperatortype) | Custom Filter operator type. |
 | [`FilterType`](/cells/python-net/aspose.cells/filtertype) | The filter type. |
 | [`FontSchemeType`](/cells/python-net/aspose.cells/fontschemetype) | Represents the scheme type of the font. |
@@ -305,6 +307,6 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`ValidationType`](/cells/python-net/aspose.cells/validationtype) | Represents data validation type. |
 | [`ViewType`](/cells/python-net/aspose.cells/viewtype) | Represents the view type of the worksheet. |
 | [`VisibilityType`](/cells/python-net/aspose.cells/visibilitytype) | Represents the states for sheet visibility. |
-| [`WarningType`](/cells/python-net/aspose.cells/warningtype) | WaringType |
+| [`WarningType`](/cells/python-net/aspose.cells/warningtype) |  |
 
 

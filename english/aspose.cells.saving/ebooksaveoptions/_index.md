@@ -42,6 +42,7 @@ The EbookSaveOptions type exposes the following members:
 | [sort_external_names](/cells/python-net/aspose.cells.saving/ebooksaveoptions/sort_external_names) | Indicates whether sorting external defined names before saving file. |
 | [refresh_chart_cache](/cells/python-net/aspose.cells.saving/ebooksaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
 | [warning_callback](/cells/python-net/aspose.cells.saving/ebooksaveoptions/warning_callback) | Gets or sets warning callback. |
+| [check_excel_restriction](/cells/python-net/aspose.cells.saving/ebooksaveoptions/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K, it will be truncated. |
 | [update_smart_art](/cells/python-net/aspose.cells.saving/ebooksaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
 | [encrypt_document_properties](/cells/python-net/aspose.cells.saving/ebooksaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [ignore_invisible_shapes](/cells/python-net/aspose.cells.saving/ebooksaveoptions/ignore_invisible_shapes) | Indicate whether exporting those not visible shapes |
@@ -110,6 +111,7 @@ The EbookSaveOptions type exposes the following members:
 | [encode_entity_as_code](/cells/python-net/aspose.cells.saving/ebooksaveoptions/encode_entity_as_code) | Indicates whether the html character entities are replaced with decimal code.<br/>(e.g. "&nbsp;" is replaced with "&#160;").<br/>The default value is false. |
 | [office_math_output_mode](/cells/python-net/aspose.cells.saving/ebooksaveoptions/office_math_output_mode) | Indicates how export OfficeMath objects to HTML, Default value is Image. |
 | [cell_name_attribute](/cells/python-net/aspose.cells.saving/ebooksaveoptions/cell_name_attribute) | Specifies the attribute that indicates the CellName to be written.<br/>(e.g. If the value is "id", then for cell "A1", the output will be:<td id='A1'>).<br/>The default value is null. |
+| [disable_css](/cells/python-net/aspose.cells.saving/ebooksaveoptions/disable_css) | Indicates whether only inline styles are applied, without relying on CSS.<br/>The default value is false. |
 
 
 

@@ -3,7 +3,7 @@ title: column_type_map property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.saving/sqlscriptsaveoptions/column_type_map/
 is_root: false
 ---

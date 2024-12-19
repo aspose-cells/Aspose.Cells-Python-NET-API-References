@@ -3,7 +3,7 @@ title: Comment class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 320
 url: /aspose.cells/comment/
 is_root: false
 ---
@@ -50,6 +50,29 @@ The Comment type exposes the following members:
 | [get_rich_formattings](/cells/python-net/aspose.cells/comment/get_rich_formattings/#) | Returns all Characters objects <br/>that represents a range of characters within the comment text. |
 
 
+
+### Example 
+
+
+```python
+from aspose.cells import Workbook
+
+workbook = Workbook()
+comments = workbook.worksheets[0].comments
+# Add comment to cell A1
+commentIndex1 = comments.add(0, 0)
+comment1 = comments[commentIndex1]
+comment1.note = "First note."
+comment1.font.name = "Times New Roman"
+# Add comment to cell B2
+comments.add("B2")
+comment2 = comments.get("B2")
+comment2.note = "Second note."
+# do your business
+# Save the excel file.
+workbook.save("exmaple.xlsx")
+
+```
 
 ### See Also
 * module [`aspose.cells`](..)

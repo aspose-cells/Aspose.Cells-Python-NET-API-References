@@ -3,7 +3,7 @@ title: DynamicFilterType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2120
+weight: 2130
 url: /aspose.cells/dynamicfiltertype/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: UpdateLinksType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2810
+weight: 2830
 url: /aspose.cells/updatelinkstype/
 is_root: false
 ---

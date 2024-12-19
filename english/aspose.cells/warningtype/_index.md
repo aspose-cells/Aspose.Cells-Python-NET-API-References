@@ -3,14 +3,12 @@ title: WarningType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2860
+weight: 2880
 url: /aspose.cells/warningtype/
 is_root: false
 ---
 
 ## WarningType enumeration
-
-WaringType
 
 
 
@@ -19,17 +17,17 @@ The WarningType type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| FONT_SUBSTITUTION | Font substitution warning type<br/>when a font has not been found, this warning type can be get. |
-| DUPLICATE_DEFINED_NAME | Duplicate defined name is found in the file. |
-| UNSUPPORTED_FILE_FORMAT | Unsupported file format. |
-| INVALID_TEXT_OF_DEFINED_NAME | Invalid text of the defined name. |
-| INVALID_FONT_NAME | Invalid the font name. |
-| INVALID_AUTO_FILTER_RANGE | Invalid autofilter range. |
-| IO | The file is corrupted. |
-| LIMITATION | Out of MS Excel limitation error. |
-| INVALID_DATA | Invalid data. |
-| FORMULA | Invalid formula. |
-| INVALID_OPERATOR | Invalid operator. |
+| FONT_SUBSTITUTION |  |
+| DUPLICATE_DEFINED_NAME |  |
+| UNSUPPORTED_FILE_FORMAT |  |
+| INVALID_TEXT_OF_DEFINED_NAME |  |
+| INVALID_FONT_NAME |  |
+| INVALID_AUTO_FILTER_RANGE |  |
+| IO |  |
+| LIMITATION |  |
+| INVALID_DATA |  |
+| FORMULA |  |
+| INVALID_OPERATOR |  |
 
 
 

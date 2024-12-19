@@ -3,7 +3,7 @@ title: update_smart_art property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells/pptxsaveoptions/update_smart_art/
 is_root: false
 ---

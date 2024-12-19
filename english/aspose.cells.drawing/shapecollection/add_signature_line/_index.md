@@ -31,6 +31,25 @@ def add_signature_line(self, upper_left_row, upper_left_column, signature_line):
 | upper_left_column | int | Upper left column index. |
 | signature_line | [`SignatureLine`](/cells/python-net/aspose.cells.drawing/signatureline) | Represents a signature line object. |
 
+### Example 
+
+
+```python
+from aspose.cells.drawing import SignatureLine
+
+wSignatureLine = SignatureLine()
+wSignatureLine.allow_comments = True
+wSignatureLine.email = "example@example.com"
+wSignatureLine.instructions = "Sign to confirm the excel content."
+wSignatureLine.is_line = True
+wSignatureLine.show_signed_date = True
+wSignatureLine.signer = "User"
+wSignatureLine.title = "tester"
+# wSignatureLine.SignatureLineType = SignatureType.Stamp;
+signatureLine1 = shapes.add_signature_line(0, 0, wSignatureLine)
+
+```
+
 
 
 ### See Also

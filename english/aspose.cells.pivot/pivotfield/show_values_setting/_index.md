@@ -3,7 +3,7 @@ title: show_values_setting property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 700
 url: /aspose.cells.pivot/pivotfield/show_values_setting/
 is_root: false
 ---

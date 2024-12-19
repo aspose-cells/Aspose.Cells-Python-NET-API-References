@@ -3,7 +3,7 @@ title: draw_object_event_handler property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /aspose.cells/xpssaveoptions/draw_object_event_handler/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: clear_filter method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 80
 url: /aspose.cells.pivot/pivotfiltercollection/clear_filter/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: ungroup method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 240
 url: /aspose.cells.pivot/pivotfield/ungroup/
 is_root: false
 ---

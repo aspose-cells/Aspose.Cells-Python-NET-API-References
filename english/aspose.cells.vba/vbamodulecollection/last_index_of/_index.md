@@ -3,7 +3,7 @@ title: last_index_of method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /aspose.cells.vba/vbamodulecollection/last_index_of/
 is_root: false
 ---

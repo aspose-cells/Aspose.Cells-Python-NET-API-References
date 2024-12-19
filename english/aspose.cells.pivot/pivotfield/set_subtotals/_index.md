@@ -3,7 +3,7 @@ title: set_subtotals method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 210
 url: /aspose.cells.pivot/pivotfield/set_subtotals/
 is_root: false
 ---

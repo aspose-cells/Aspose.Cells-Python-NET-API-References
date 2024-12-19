@@ -3,7 +3,7 @@ title: get_formula method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 100
 url: /aspose.cells.pivot/pivotfield/get_formula/
 is_root: false
 ---

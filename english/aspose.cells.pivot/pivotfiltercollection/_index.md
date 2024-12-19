@@ -33,6 +33,10 @@ The PivotFilterCollection type exposes the following members:
 | [last_index_of](/cells/python-net/aspose.cells.pivot/pivotfiltercollection/last_index_of/#aspose.cells.pivot.PivotFilter-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [last_index_of](/cells/python-net/aspose.cells.pivot/pivotfiltercollection/last_index_of/#aspose.cells.pivot.PivotFilter-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [add](/cells/python-net/aspose.cells.pivot/pivotfiltercollection/add/#int-aspose.cells.pivot.PivotFilterType) | Adds a PivotFilter Object to the specific type |
+| [add_top_10_filter](/cells/python-net/aspose.cells.pivot/pivotfiltercollection/add_top_10_filter/#int-int-aspose.cells.pivot.PivotFilterType-bool-int) | Filters by values of data pivot field. |
+| [add_value_filter](/cells/python-net/aspose.cells.pivot/pivotfiltercollection/add_value_filter/#int-int-aspose.cells.pivot.PivotFilterType-float-float) | Filters by values of data pivot field. |
+| [add_label_filter](/cells/python-net/aspose.cells.pivot/pivotfiltercollection/add_label_filter/#int-aspose.cells.pivot.PivotFilterType-str-str) | Filters by captions of row or column pivot field. |
+| [add_date_filter](/cells/python-net/aspose.cells.pivot/pivotfiltercollection/add_date_filter/#int-aspose.cells.pivot.PivotFilterType-DateTime-DateTime) | Filters by date setting of row or column pivot field. |
 | [clear_filter](/cells/python-net/aspose.cells.pivot/pivotfiltercollection/clear_filter/#int) | Clear PivotFilter from the specific PivotField |
 | [binary_search](/cells/python-net/aspose.cells.pivot/pivotfiltercollection/binary_search/#aspose.cells.pivot.PivotFilter) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 

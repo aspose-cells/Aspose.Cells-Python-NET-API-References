@@ -3,7 +3,7 @@ title: sort_by method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 230
 url: /aspose.cells.pivot/pivotfield/sort_by/
 is_root: false
 ---
