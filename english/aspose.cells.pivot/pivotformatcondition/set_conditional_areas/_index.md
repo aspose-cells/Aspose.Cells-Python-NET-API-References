@@ -10,7 +10,7 @@ is_root: false
 
 ## set_conditional_areas {#}
 
-Sets conditional areas of PivotFormatCondition object.
+
 
 
 

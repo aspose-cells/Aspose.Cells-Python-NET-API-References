@@ -22,8 +22,26 @@ def format(self, pivot_area, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_area | [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) |  |
-| style | [`Style`](/cells/python-net/aspose.cells/style) |  |
+| pivot_area | [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) | The selected pivot view area. |
+| style | [`Style`](/cells/python-net/aspose.cells/style) | The formatted setting. |
+
+
+## format {#aspose.cells.CellArea-aspose.cells.Style}
+
+Formats selected area of the PivotTable.
+
+
+
+```python
+def format(self, ca, style):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The range of the cells. |
+| style | [`Style`](/cells/python-net/aspose.cells/style) | The style |
 
 
 ## format {#int-int-aspose.cells.Style}

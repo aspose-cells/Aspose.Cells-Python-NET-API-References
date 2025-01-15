@@ -3,7 +3,7 @@ title: is_protected_with_password property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 220
 url: /aspose.cells/protection/is_protected_with_password/
 is_root: false
 ---

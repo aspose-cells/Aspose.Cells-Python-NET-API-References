@@ -3,7 +3,7 @@ title: show_empty_row property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 980
+weight: 1040
 url: /aspose.cells.pivot/pivottable/show_empty_row/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## show_empty_row property
 
 
-Specifies a boolean value that indicates whether to include empty rows in the table.
+Indicates whether to include empty rows in the table.
 ### Definition:
 ```python
 @property

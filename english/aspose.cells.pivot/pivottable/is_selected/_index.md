@@ -3,7 +3,7 @@ title: is_selected property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 720
 url: /aspose.cells.pivot/pivottable/is_selected/
 is_root: false
 ---

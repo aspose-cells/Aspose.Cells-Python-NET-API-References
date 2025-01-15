@@ -3,7 +3,7 @@ title: external_connection_data_source property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 580
+weight: 630
 url: /aspose.cells.pivot/pivottable/external_connection_data_source/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Gets the external connection data source.
 
 
 NOTE: This property is now obsolete. Instead, 
-please use pivotTable.GetSourceDataConnections() method.
+please use PivotTable.GetSourceDataConnections() method.
 This method will be removed 12 months later since October 2024. 
 Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:

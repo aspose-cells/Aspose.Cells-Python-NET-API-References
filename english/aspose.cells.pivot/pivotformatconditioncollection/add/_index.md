@@ -10,13 +10,8 @@ is_root: false
 
 ## add {#}
 
-Adds a pivot FormatCondition to the collection.
 
 
-### Returns 
-
-
-pivot FormatCondition object index.
 
 
 ```python
@@ -25,9 +20,7 @@ def add(self):
 ```
 
 
-### Remarks
 
-not supported
 
 
 ### See Also

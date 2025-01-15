@@ -3,7 +3,7 @@ title: PivotFieldGroupType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 340
 url: /aspose.cells.pivot/pivotfieldgrouptype/
 is_root: false
 ---

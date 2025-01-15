@@ -3,7 +3,7 @@ title: only_label property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 120
 url: /aspose.cells.pivot/pivotarea/only_label/
 is_root: false
 ---

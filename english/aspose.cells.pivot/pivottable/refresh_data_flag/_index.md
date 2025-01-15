@@ -3,7 +3,7 @@ title: refresh_data_flag property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 850
+weight: 900
 url: /aspose.cells.pivot/pivottable/refresh_data_flag/
 is_root: false
 ---
@@ -12,6 +12,13 @@ is_root: false
 
 
 Indicates whether Refreshing Data or not.
+
+### Remarks 
+
+
+NOTE: This method is now obsolete. Instead,        
+This method will be removed 12 months later since December 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

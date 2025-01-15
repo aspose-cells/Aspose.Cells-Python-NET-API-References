@@ -3,7 +3,7 @@ title: PivotFilterType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 370
 url: /aspose.cells.pivot/pivotfiltertype/
 is_root: false
 ---

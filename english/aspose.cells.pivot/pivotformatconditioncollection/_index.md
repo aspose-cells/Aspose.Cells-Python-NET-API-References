@@ -3,14 +3,12 @@ title: PivotFormatConditionCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 170
 url: /aspose.cells.pivot/pivotformatconditioncollection/
 is_root: false
 ---
 
 ## PivotFormatConditionCollection class
-
-Represents PivotTable Format Conditions.
 
 
 
@@ -32,7 +30,7 @@ The PivotFormatConditionCollection type exposes the following members:
 | [last_index_of](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection/last_index_of/#aspose.cells.pivot.PivotFormatCondition) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [last_index_of](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection/last_index_of/#aspose.cells.pivot.PivotFormatCondition-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [last_index_of](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection/last_index_of/#aspose.cells.pivot.PivotFormatCondition-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [add](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection/add/#) | Adds a pivot FormatCondition to the collection. |
+| [add](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection/add/#) |  |
 | [binary_search](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection/binary_search/#aspose.cells.pivot.PivotFormatCondition) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

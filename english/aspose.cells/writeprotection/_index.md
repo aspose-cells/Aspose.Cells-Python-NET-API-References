@@ -16,12 +16,6 @@ Specifies write protection settings for a workbook.
 
 The WriteProtection type exposes the following members:
 
-### Constructors
-| Constructor | Description |
-| :- | :- |
-| [__init__](/cells/python-net/aspose.cells/writeprotection/__init__/#) | Constructs a new instance of WriteProtection |
-
-
 ### Properties
 | Property | Description |
 | :- | :- |

@@ -3,7 +3,7 @@ title: PivotFilterCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 150
 url: /aspose.cells.pivot/pivotfiltercollection/
 is_root: false
 ---

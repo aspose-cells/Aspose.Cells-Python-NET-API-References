@@ -3,7 +3,7 @@ title: move method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells.pivot/pivottable/move/
 is_root: false
 ---
@@ -23,7 +23,12 @@ def move(self, dest_cell_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | dest_cell_name | str | the dest cell name. |
+### Remarks
 
+NOTE: This property is now obsolete. Instead, 
+please use PivotTable.MoveTo() method.
+This method will be removed 12 months later since December 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## move {#int-int}
 
@@ -41,7 +46,12 @@ def move(self, row, column):
 | :- | :- | :- |
 | row | int | row index. |
 | column | int | column index. |
+### Remarks
 
+NOTE: This property is now obsolete. Instead, 
+please use PivotTable.MoveTo() method.
+This method will be removed 12 months later since December 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

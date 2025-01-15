@@ -10,7 +10,7 @@ is_root: false
 
 ## get_horizontal_breaks {#}
 
-get pivot table row index list of horizontal pagebreaks
+Gets pivot table row index list of horizontal page breaks
 
 
 ### Returns 
@@ -25,7 +25,12 @@ def get_horizontal_breaks(self):
 ```
 
 
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotTable.GetHorizontalPageBreaks() method.
+This method will be removed 12 months later since December 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

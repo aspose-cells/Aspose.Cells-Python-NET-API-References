@@ -168,6 +168,53 @@ def get_instance(self, vals, vertial):
 | vertial | bool | whether build table by the objects vertiacally(true) or horizontally(false) |
 
 
+## get_instance {#list-bool}
+
+Creates ICellsDataTable from given collection.
+
+
+### Returns 
+
+
+Instance of ICellsDataTable
+
+
+```python
+def get_instance(self, collection, has_header):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| collection | list | the collection to build table |
+| has_header | bool | Indicates whether the first row is header |
+
+
+## get_instance {#list-bool-list}
+
+Creates ICellsDataTable from given sequence of objects.
+
+
+### Returns 
+
+
+Instance of ICellsDataTable
+
+
+```python
+def get_instance(self, vals, has_header, column_names):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| vals | list | objects to build table |
+| has_header | bool | Indicates whether the first row is header row. |
+| column_names | list | Column names of the table.<br/>Its length can only be either 1(build table by the objects vertically)<br/>or length of the objects(build table by the objects horizontally) |
+
+
 
 ### See Also
 * module [`aspose.cells`](../../)

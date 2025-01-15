@@ -3,7 +3,7 @@ title: grand_total_name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 650
 url: /aspose.cells.pivot/pivottable/grand_total_name/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## grand_total_name property
 
 
-Returns the text string label that is displayed in the grand total column or row heading.
+Returns the label that is displayed in the grand total column or row heading.
 The default value is the string "Grand Total".
 ### Definition:
 ```python

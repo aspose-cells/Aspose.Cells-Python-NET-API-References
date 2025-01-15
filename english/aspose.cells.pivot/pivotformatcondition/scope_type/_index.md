@@ -10,8 +10,6 @@ is_root: false
 
 ## scope_type property
 
-
-Get and set scope type for the pivot table condition format .
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: pivot_format_conditions property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 830
 url: /aspose.cells.pivot/pivottable/pivot_format_conditions/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Gets the Format Conditions of the pivot table.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use PivotTable.ConditionalFormats property.
+This method will be removed 12 months later since December 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

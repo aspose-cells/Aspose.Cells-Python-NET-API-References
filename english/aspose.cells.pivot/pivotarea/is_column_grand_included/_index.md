@@ -3,7 +3,7 @@ title: is_column_grand_included property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 80
 url: /aspose.cells.pivot/pivotarea/is_column_grand_included/
 is_root: false
 ---

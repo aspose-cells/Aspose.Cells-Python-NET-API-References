@@ -15,8 +15,11 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | :- | :- |
 | [`CustomPiovtFieldGroupItem`](/cells/python-net/aspose.cells.pivot/custompiovtfieldgroupitem) | Represents an item of custom grouped field. |
 | [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) | Presents the selected area of the PivotTable. |
+| [`PivotAreaCollection`](/cells/python-net/aspose.cells.pivot/pivotareacollection) | Represents a list of pivot area. |
 | [`PivotAreaFilter`](/cells/python-net/aspose.cells.pivot/pivotareafilter) | Represents the filter of [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) for [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable). |
 | [`PivotAreaFilterCollection`](/cells/python-net/aspose.cells.pivot/pivotareafiltercollection) | Represents the list of filters for [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) |
+| [`PivotConditionalFormat`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat) | Represents a PivotTable Format Condition in PivotFormatCondition Collection. |
+| [`PivotConditionalFormatCollection`](/cells/python-net/aspose.cells.pivot/pivotconditionalformatcollection) | Represents all conditional formats of pivot table. |
 | [`PivotDateTimeRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotdatetimerangegroupsettings) | Represents the field grouped by date time range. |
 | [`PivotDiscreteGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotdiscretegroupsettings) | Rrepsents the discrete group of pivot field |
 | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | Represents a field in a PivotTable report. |
@@ -25,8 +28,8 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotFieldSortSetting`](/cells/python-net/aspose.cells.pivot/pivotfieldsortsetting) | Represents the setting of sorting pivot fields. |
 | [`PivotFilter`](/cells/python-net/aspose.cells.pivot/pivotfilter) | Represents a PivotFilter in PivotFilter Collection. |
 | [`PivotFilterCollection`](/cells/python-net/aspose.cells.pivot/pivotfiltercollection) | Represents a collection of all the PivotFilter objects |
-| [`PivotFormatCondition`](/cells/python-net/aspose.cells.pivot/pivotformatcondition) | Represents a PivotTable Format Condition in PivotFormatCondition Collection. |
-| [`PivotFormatConditionCollection`](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection) | Represents PivotTable Format Conditions. |
+| [`PivotFormatCondition`](/cells/python-net/aspose.cells.pivot/pivotformatcondition) |  |
+| [`PivotFormatConditionCollection`](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection) |  |
 | [`PivotItem`](/cells/python-net/aspose.cells.pivot/pivotitem) | Represents a item in a PivotField report. |
 | [`PivotItemCollection`](/cells/python-net/aspose.cells.pivot/pivotitemcollection) | Represents all the [`PivotItem`](/cells/python-net/aspose.cells.pivot/pivotitem) objects in the PivotField. |
 | [`PivotNumbericRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotnumbericrangegroupsettings) | Represents the numberic range group of the pivot field. |

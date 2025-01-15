@@ -3,7 +3,7 @@ title: column_grand property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 440
 url: /aspose.cells.pivot/pivottable/column_grand/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Indicates whether the PivotTable report shows grand totals for columns.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use PivotTable.ShowColumnGrandTotals method.
+This method will be removed 12 months later since December 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property
