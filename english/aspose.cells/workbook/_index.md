@@ -66,6 +66,8 @@ The Workbook type exposes the following members:
 | [save](/cells/python-net/aspose.cells/workbook/save/#str-aspose.cells.SaveOptions) | Saves the workbook to the disk. |
 | [save](/cells/python-net/aspose.cells/workbook/save/#io.RawIOBase-aspose.cells.SaveFormat) | Saves the workbook to the stream. |
 | [save](/cells/python-net/aspose.cells/workbook/save/#io.RawIOBase-aspose.cells.SaveOptions) | Saves the workbook to the stream. |
+| [create_style](/cells/python-net/aspose.cells/workbook/create_style/#) | Creates a new style. |
+| [create_style](/cells/python-net/aspose.cells/workbook/create_style/#bool) | Creates a new style. |
 | [replace](/cells/python-net/aspose.cells/workbook/replace/#str-str) | Replaces a cell's value with a new string. |
 | [replace](/cells/python-net/aspose.cells/workbook/replace/#str-int) | Replaces a cell's value with a new integer. |
 | [replace](/cells/python-net/aspose.cells/workbook/replace/#str-float) | Replaces a cell's value with a new double. |
@@ -90,7 +92,6 @@ The Workbook type exposes the following members:
 | [start_access_cache](/cells/python-net/aspose.cells/workbook/start_access_cache/#aspose.cells.AccessCacheOptions) | Starts the session that uses caches to access data. |
 | [close_access_cache](/cells/python-net/aspose.cells/workbook/close_access_cache/#aspose.cells.AccessCacheOptions) | Closes the session that uses caches to access data. |
 | [remove_unused_styles](/cells/python-net/aspose.cells/workbook/remove_unused_styles/#) | Remove all unused styles. |
-| [create_style](/cells/python-net/aspose.cells/workbook/create_style/#) | Creates a new style. |
 | [create_builtin_style](/cells/python-net/aspose.cells/workbook/create_builtin_style/#aspose.cells.BuiltinStyleType) | Creates built-in style by given type. |
 | [create_cells_color](/cells/python-net/aspose.cells/workbook/create_cells_color/#) | Creates a [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) object. |
 | [combine](/cells/python-net/aspose.cells/workbook/combine/#aspose.cells.Workbook) | Combines another Workbook object. |

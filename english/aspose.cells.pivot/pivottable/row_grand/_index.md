@@ -3,7 +3,7 @@ title: row_grand property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 910
+weight: 960
 url: /aspose.cells.pivot/pivottable/row_grand/
 is_root: false
 ---
@@ -11,7 +11,15 @@ is_root: false
 ## row_grand property
 
 
-Indicates whether the PivotTable report shows grand totals for rows.
+Indicates whether to show grand totals for rows of this pivot table.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use PivotTable.ShowRowGrandTotals method.
+This method will be removed 12 months later since December 2024. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

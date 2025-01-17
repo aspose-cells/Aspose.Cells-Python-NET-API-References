@@ -3,7 +3,7 @@ title: only_data property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 110
 url: /aspose.cells.pivot/pivotarea/only_data/
 is_root: false
 ---

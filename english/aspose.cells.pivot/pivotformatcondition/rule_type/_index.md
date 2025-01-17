@@ -10,8 +10,6 @@ is_root: false
 
 ## rule_type property
 
-
-Get and set rule type for the pivot table condition format .
 ### Definition:
 ```python
 @property

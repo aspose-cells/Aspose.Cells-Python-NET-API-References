@@ -3,7 +3,7 @@ title: page_fields property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 810
 url: /aspose.cells.pivot/pivottable/page_fields/
 is_root: false
 ---

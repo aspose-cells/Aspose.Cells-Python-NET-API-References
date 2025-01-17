@@ -3,7 +3,7 @@ title: PivotField class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 100
 url: /aspose.cells.pivot/pivotfield/
 is_root: false
 ---

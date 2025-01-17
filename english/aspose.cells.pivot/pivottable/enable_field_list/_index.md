@@ -3,7 +3,7 @@ title: enable_field_list property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 600
 url: /aspose.cells.pivot/pivottable/enable_field_list/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## enable_field_list property
 
 
-Gets whether enable the field list for the PivotTable.
+Indicates whether the field list for the PivotTable is available on the view of Excel.
 ### Definition:
 ```python
 @property

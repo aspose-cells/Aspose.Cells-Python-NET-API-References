@@ -10,7 +10,7 @@ is_root: false
 
 ## add_data_area_condition {#str}
 
-Adds PivotTable conditional format limit in the data fields.
+
 
 
 
@@ -22,12 +22,12 @@ def add_data_area_condition(self, field_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field_name | str | The name of PivotField. |
+| field_name | str |  |
 
 
 ## add_data_area_condition {#aspose.cells.pivot.PivotField}
 
-Adds PivotTable conditional format limit in the data fields.
+
 
 
 
@@ -39,7 +39,7 @@ def add_data_area_condition(self, data_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | The PivotField in the data fields. |
+| data_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) |  |
 
 
 

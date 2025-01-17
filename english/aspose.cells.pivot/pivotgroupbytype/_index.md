@@ -3,7 +3,7 @@ title: PivotGroupByType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 380
 url: /aspose.cells.pivot/pivotgroupbytype/
 is_root: false
 ---

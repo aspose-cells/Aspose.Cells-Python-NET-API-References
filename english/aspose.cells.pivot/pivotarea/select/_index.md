@@ -3,7 +3,7 @@ title: select method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /aspose.cells.pivot/pivotarea/select/
 is_root: false
 ---

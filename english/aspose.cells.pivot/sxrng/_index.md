@@ -3,7 +3,7 @@ title: SxRng class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 290
 url: /aspose.cells.pivot/sxrng/
 is_root: false
 ---

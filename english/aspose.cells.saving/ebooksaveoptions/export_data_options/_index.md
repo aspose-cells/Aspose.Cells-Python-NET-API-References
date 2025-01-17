@@ -3,7 +3,7 @@ title: export_data_options property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /aspose.cells.saving/ebooksaveoptions/export_data_options/
 is_root: false
 ---

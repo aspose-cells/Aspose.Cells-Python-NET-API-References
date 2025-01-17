@@ -10,8 +10,6 @@ is_root: false
 
 ## format_conditions property
 
-
-Get formatconditions for the pivot table condition format .
 ### Definition:
 ```python
 @property

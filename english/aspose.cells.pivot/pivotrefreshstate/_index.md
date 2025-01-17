@@ -3,7 +3,7 @@ title: PivotRefreshState enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 430
 url: /aspose.cells.pivot/pivotrefreshstate/
 is_root: false
 ---

@@ -112,6 +112,7 @@ The EbookSaveOptions type exposes the following members:
 | [office_math_output_mode](/cells/python-net/aspose.cells.saving/ebooksaveoptions/office_math_output_mode) | Indicates how export OfficeMath objects to HTML, Default value is Image. |
 | [cell_name_attribute](/cells/python-net/aspose.cells.saving/ebooksaveoptions/cell_name_attribute) | Specifies the attribute that indicates the CellName to be written.<br/>(e.g. If the value is "id", then for cell "A1", the output will be:<td id='A1'>).<br/>The default value is null. |
 | [disable_css](/cells/python-net/aspose.cells.saving/ebooksaveoptions/disable_css) | Indicates whether only inline styles are applied, without relying on CSS.<br/>The default value is false. |
+| [enable_css_custom_properties](/cells/python-net/aspose.cells.saving/ebooksaveoptions/enable_css_custom_properties) | Optimize the output of html by using CSS custom properties. For example, for the scenario that there are multiple occurences for one base64 image, with custom property the image data only needs to be saved once so the performance of the resultant html can be improved.<br/>The default value is false. |
 
 
 

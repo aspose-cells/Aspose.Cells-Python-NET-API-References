@@ -3,7 +3,7 @@ title: PivotConditionFormatRuleType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 310
 url: /aspose.cells.pivot/pivotconditionformatruletype/
 is_root: false
 ---
