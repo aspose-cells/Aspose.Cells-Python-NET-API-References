@@ -3,7 +3,7 @@ title: is_automatic_major_unit property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.charts/axis/is_automatic_major_unit/
 is_root: false
 ---

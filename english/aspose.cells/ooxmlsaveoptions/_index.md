@@ -50,6 +50,7 @@ The OoxmlSaveOptions type exposes the following members:
 | [enable_zip64](/cells/python-net/aspose.cells/ooxmlsaveoptions/enable_zip64) | Always use ZIP64 extensions when writing zip archives, even when unnecessary. |
 | [embed_ooxml_as_ole_object](/cells/python-net/aspose.cells/ooxmlsaveoptions/embed_ooxml_as_ole_object) | Indicates whether embedding Ooxml files of OleObject as ole object. |
 | [compression_type](/cells/python-net/aspose.cells/ooxmlsaveoptions/compression_type) | Gets and sets the compression type for ooxml file. |
+| [wps_compatibility](/cells/python-net/aspose.cells/ooxmlsaveoptions/wps_compatibility) | Indicates whether to make the xls more compatible with WPS. |
 
 
 

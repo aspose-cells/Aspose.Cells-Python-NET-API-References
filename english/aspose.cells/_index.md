@@ -256,6 +256,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`HtmlHiddenRowDisplayType`](/cells/python-net/aspose.cells/htmlhiddenrowdisplaytype) | Represents two types of showing the hidden rows in html. |
 | [`HtmlLinkTargetType`](/cells/python-net/aspose.cells/htmllinktargettype) | Represents the type of target attribute in HTML []() tag. |
 | [`HtmlOfficeMathOutputType`](/cells/python-net/aspose.cells/htmlofficemathoutputtype) | Represents how export OfficeMath to HTML. |
+| [`HtmlVersion`](/cells/python-net/aspose.cells/htmlversion) | Indicates the version of HTML is used when saving to Html formats. |
 | [`HyperlinkType`](/cells/python-net/aspose.cells/hyperlinktype) | Represents the type of hyperlink. |
 | [`IconSetType`](/cells/python-net/aspose.cells/iconsettype) | Icon set type for conditional formatting. <br/>The threshold values for triggering the different icons within a set are<br/>configurable, and the icon order is reversible. |
 | [`LoadDataFilterOptions`](/cells/python-net/aspose.cells/loaddatafilteroptions) | Represents the options to filter data when loading workbook from template. |

@@ -17,6 +17,9 @@ Gets the alt text associated with the image.
 @property
 def alt_text(self):
     ...
+@alt_text.setter
+def alt_text(self, value):
+    ...
 ```
 
 ### See Also

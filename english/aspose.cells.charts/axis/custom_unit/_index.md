@@ -3,7 +3,7 @@ title: custom_unit property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells.charts/axis/custom_unit/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Specifies a custom value for the display unit.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use Axis.CoustomDisplayUnit property.
+This property will be removed 12 months later since February 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

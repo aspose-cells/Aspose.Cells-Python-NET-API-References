@@ -3,7 +3,7 @@ title: LoadFormat enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2400
+weight: 2410
 url: /aspose.cells/loadformat/
 is_root: false
 ---
@@ -41,6 +41,8 @@ The LoadFormat type exposes the following members:
 | UNKNOWN | Represents unrecognized format, cannot be loaded. |
 | IMAGE | Image |
 | JSON | Json |
+| DIF | Data Interchange Format. |
+| DBF | Xbase Data file |
 
 
 

@@ -118,6 +118,8 @@ The PivotTable type exposes the following members:
 | [move](/cells/python-net/aspose.cells.pivot/pivottable/move/#str) | Moves the PivotTable to a different location in the worksheet. |
 | [move_to](/cells/python-net/aspose.cells.pivot/pivottable/move_to/#int-int) | Moves the PivotTable to a different location in the worksheet. |
 | [move_to](/cells/python-net/aspose.cells.pivot/pivottable/move_to/#str) | Moves the PivotTable to a different location in the worksheet. |
+| [get_source](/cells/python-net/aspose.cells.pivot/pivottable/get_source/#) | Get pivottable's source data. |
+| [get_source](/cells/python-net/aspose.cells.pivot/pivottable/get_source/#bool) | Get pivottable's source data. |
 | [refresh_data](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data/#) | Refreshes pivottable's data and setting from it's data source. |
 | [refresh_data](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data/#aspose.cells.pivot.PivotTableRefreshOption) | Refreshes pivottable's data and setting from it's data source with options. |
 | [calculate_data](/cells/python-net/aspose.cells.pivot/pivottable/calculate_data/#) | Calculates pivottable's data to cells. |
@@ -142,7 +144,6 @@ The PivotTable type exposes the following members:
 | [get_source_data_connections](/cells/python-net/aspose.cells.pivot/pivottable/get_source_data_connections/#) | Gets the external connection data sources. |
 | [get_names_of_source_data_connections](/cells/python-net/aspose.cells.pivot/pivottable/get_names_of_source_data_connections/#) | Gets the name of external source data connections. |
 | [change_data_source](/cells/python-net/aspose.cells.pivot/pivottable/change_data_source/#list) | Set pivottable's source data. |
-| [get_source](/cells/python-net/aspose.cells.pivot/pivottable/get_source/#) | Get pivottable's source data. |
 | [clear_data](/cells/python-net/aspose.cells.pivot/pivottable/clear_data/#) | Clear PivotTable's data and formatting |
 | [calculate_range](/cells/python-net/aspose.cells.pivot/pivottable/calculate_range/#) | Calculates pivottable's range. |
 | [format_all](/cells/python-net/aspose.cells.pivot/pivottable/format_all/#aspose.cells.Style) | Format all the cell in the pivottable area |

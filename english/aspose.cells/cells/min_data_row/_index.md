@@ -12,6 +12,11 @@ is_root: false
 
 
 Minimum row index of cell which contains data.
+
+### Remarks 
+
+
+Return -1 if there is no cell which contains data.
 ### Definition:
 ```python
 @property

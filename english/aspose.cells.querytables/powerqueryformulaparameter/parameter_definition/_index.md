@@ -3,7 +3,7 @@ title: parameter_definition property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells.querytables/powerqueryformulaparameter/parameter_definition/
 is_root: false
 ---

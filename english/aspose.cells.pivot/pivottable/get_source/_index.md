@@ -22,6 +22,28 @@ def get_source(self):
 
 
 
+## get_source {#bool}
+
+Get pivottable's source data.
+
+
+### Returns 
+
+
+
+
+
+```python
+def get_source(self, is_original):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| is_original | bool | Indicates whether to return original or display data source |
+
+
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)

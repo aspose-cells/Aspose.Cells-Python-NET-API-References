@@ -3,7 +3,7 @@ title: get_cell_areas method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells.pivot/pivotconditionalformat/get_cell_areas/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: PasteType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2570
+weight: 2580
 url: /aspose.cells/pastetype/
 is_root: false
 ---
