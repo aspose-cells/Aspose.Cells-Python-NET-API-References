@@ -3,7 +3,7 @@ title: SaveFormat enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2660
+weight: 2670
 url: /aspose.cells/saveformat/
 is_root: false
 ---
@@ -56,10 +56,11 @@ The SaveFormat type exposes the following members:
 | GIF | Gif |
 | JSON | Json |
 | SQL_SCRIPT | Sql |
-| X_HTML | Rrepesents XHtml file. |
+| X_HTML | Rrepesents XHtml file.<br/>please use [`HtmlSaveOptions.html_version`](/cells/python-net/aspose.cells/htmlsaveoptions#html_version) property.<br/>This property will be removed 6 months later since March 2025. <br/>Aspose apologizes for any inconvenience you may have experienced. |
 | EPUB | Represents Epub file. |
 | AZW3 | Represents Azw3 file. |
 | PCL | PCL (Printer Command Language) |
+| DBF | Xbase Data file |
 
 
 

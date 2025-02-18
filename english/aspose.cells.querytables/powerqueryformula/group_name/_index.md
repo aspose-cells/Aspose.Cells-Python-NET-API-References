@@ -3,7 +3,7 @@ title: group_name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells.querytables/powerqueryformula/group_name/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: pivot_areas property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells.pivot/pivotconditionalformat/pivot_areas/
 is_root: false
 ---

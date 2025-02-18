@@ -3,7 +3,7 @@ title: EbookSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 10
+weight: 20
 url: /aspose.cells.saving/ebooksaveoptions/
 is_root: false
 ---
@@ -113,6 +113,7 @@ The EbookSaveOptions type exposes the following members:
 | [cell_name_attribute](/cells/python-net/aspose.cells.saving/ebooksaveoptions/cell_name_attribute) | Specifies the attribute that indicates the CellName to be written.<br/>(e.g. If the value is "id", then for cell "A1", the output will be:<td id='A1'>).<br/>The default value is null. |
 | [disable_css](/cells/python-net/aspose.cells.saving/ebooksaveoptions/disable_css) | Indicates whether only inline styles are applied, without relying on CSS.<br/>The default value is false. |
 | [enable_css_custom_properties](/cells/python-net/aspose.cells.saving/ebooksaveoptions/enable_css_custom_properties) | Optimize the output of html by using CSS custom properties. For example, for the scenario that there are multiple occurences for one base64 image, with custom property the image data only needs to be saved once so the performance of the resultant html can be improved.<br/>The default value is false. |
+| [html_version](/cells/python-net/aspose.cells.saving/ebooksaveoptions/html_version) | Specifies version of HTML standard that should be used when saving the HTML format.<br/>Default value is HtmlVersion.Default. |
 
 
 

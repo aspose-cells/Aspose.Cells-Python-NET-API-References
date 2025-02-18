@@ -42,6 +42,7 @@ The ImageOrPrintOptions type exposes the following members:
 | [chart_image_type](/cells/python-net/aspose.cells.rendering/imageorprintoptions/chart_image_type) | Indicate the chart imagetype when converting.<br/>default value: PNG. |
 | [embeded_image_name_in_svg](/cells/python-net/aspose.cells.rendering/imageorprintoptions/embeded_image_name_in_svg) | Indicate the filename of embedded image in svg. <br/>This should be full path with directory like "c:\\xpsEmbedded" |
 | [svg_fit_to_view_port](/cells/python-net/aspose.cells.rendering/imageorprintoptions/svg_fit_to_view_port) | if this property is true, the generated svg will fit to view port. |
+| [svg_css_prefix](/cells/python-net/aspose.cells.rendering/imageorprintoptions/svg_css_prefix) | Gets and sets the prefix of the css name in svg,the default value is empty string. |
 | [only_area](/cells/python-net/aspose.cells.rendering/imageorprintoptions/only_area) | If this property is true , one Area will be output, and no scale will take effect. |
 | [text_rendering_hint](/cells/python-net/aspose.cells.rendering/imageorprintoptions/text_rendering_hint) | Specifies the quality of text rendering.<br/>The default value is TextRenderingHint.SystemDefault |
 | [smoothing_mode](/cells/python-net/aspose.cells.rendering/imageorprintoptions/smoothing_mode) | Specifies whether smoothing (antialiasing) is applied to lines and curves and the edges of filled areas.<br/>The default value is SmoothingMode.None |

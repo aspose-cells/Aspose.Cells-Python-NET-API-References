@@ -17,7 +17,7 @@ where style is defined for the whole column but no cell has been instantiated in
 ### Remarks 
 
 
-Return -1 if there is no cell.
+Return -1 if there is no cell has been instantiated.
 ### Definition:
 ```python
 @property

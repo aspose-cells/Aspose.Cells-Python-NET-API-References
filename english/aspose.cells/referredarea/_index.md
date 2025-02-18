@@ -22,6 +22,7 @@ The ReferredArea type exposes the following members:
 | [is_external_link](/cells/python-net/aspose.cells/referredarea/is_external_link) | Indicates whether this is an external link. |
 | [external_file_name](/cells/python-net/aspose.cells/referredarea/external_file_name) | Get the external file name if this is an external reference. |
 | [sheet_name](/cells/python-net/aspose.cells/referredarea/sheet_name) | Indicates which sheet this reference is in. |
+| [sheet_names](/cells/python-net/aspose.cells/referredarea/sheet_names) | Names of all the worksheets this instance references to. |
 | [is_entire_row](/cells/python-net/aspose.cells/referredarea/is_entire_row) | Indicates whether this area contains all columns(entire row). |
 | [is_entire_column](/cells/python-net/aspose.cells/referredarea/is_entire_column) | Indicates whether this area contains all rows(entire column). |
 | [is_area](/cells/python-net/aspose.cells/referredarea/is_area) | Indicates whether this is an area. |
