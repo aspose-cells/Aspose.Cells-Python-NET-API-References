@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapepropertycollection/has_glow_effect/
 is_root: false
 ---
 
-## has_glow_effect {#}
+## has_glow_effect(self) {#}
 
 Indicates if the shape has glow effect data.
 
@@ -20,6 +20,7 @@ Indicates if the shape has glow effect data.
 
 
 ```python
+
 def has_glow_effect(self):
     ...
 ```

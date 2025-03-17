@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/set_first_page_header/
 is_root: false
 ---
 
-## set_first_page_header {#int-str}
+## set_first_page_header(self, section, header_script) {#int-str}
 
 Sets a script formatting the first page header of an Excel file.
 Only effect in Excel 2007 when IsHFDiffFirst is true.
@@ -16,6 +16,7 @@ Only effect in Excel 2007 when IsHFDiffFirst is true.
 
 
 ```python
+
 def set_first_page_header(self, section, header_script):
     ...
 ```

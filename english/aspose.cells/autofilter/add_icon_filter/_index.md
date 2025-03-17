@@ -8,13 +8,14 @@ url: /aspose.cells/autofilter/add_icon_filter/
 is_root: false
 ---
 
-## add_icon_filter {#int-aspose.cells.IconSetType-int}
+## add_icon_filter(self, field_index, icon_set_type, icon_id) {#int-aspose.cells.IconSetType-int}
 
 Adds an icon filter.
 
 
 
 ```python
+
 def add_icon_filter(self, field_index, icon_set_type, icon_id):
     ...
 ```

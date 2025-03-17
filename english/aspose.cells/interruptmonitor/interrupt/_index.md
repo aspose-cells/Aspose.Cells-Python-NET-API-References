@@ -8,13 +8,14 @@ url: /aspose.cells/interruptmonitor/interrupt/
 is_root: false
 ---
 
-## interrupt {#}
+## interrupt(self) {#}
 
 Interrupt the current operator.
 
 
 
 ```python
+
 def interrupt(self):
     ...
 ```

@@ -3,7 +3,7 @@ title: GroupShape indexer
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /aspose.cells.drawing/groupshape/__getitem__/
 is_root: false
 ---

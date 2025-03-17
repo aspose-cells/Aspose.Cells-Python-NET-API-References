@@ -8,13 +8,14 @@ url: /aspose.cells/worksheetcollection/refresh_all/
 is_root: false
 ---
 
-## refresh_all {#}
+## refresh_all(self) {#}
 
 Refresh all pivot tables and charts with pivot source.
 
 
 
 ```python
+
 def refresh_all(self):
     ...
 ```

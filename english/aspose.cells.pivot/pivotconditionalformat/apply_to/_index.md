@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotconditionalformat/apply_to/
 is_root: false
 ---
 
-## apply_to {#int-int-aspose.cells.pivot.PivotConditionFormatScopeType}
+## apply_to(self, row, column, scope) {#int-int-aspose.cells.pivot.PivotConditionFormatScopeType}
 
 Applies the conditional format to range.
 Only for the data region.
@@ -16,6 +16,7 @@ Only for the data region.
 
 
 ```python
+
 def apply_to(self, row, column, scope):
     ...
 ```

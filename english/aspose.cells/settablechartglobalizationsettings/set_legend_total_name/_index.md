@@ -8,13 +8,14 @@ url: /aspose.cells/settablechartglobalizationsettings/set_legend_total_name/
 is_root: false
 ---
 
-## set_legend_total_name {#str}
+## set_legend_total_name(self, name) {#str}
 
 Sets the name of Total for Legend.
 
 
 
 ```python
+
 def set_legend_total_name(self, name):
     ...
 ```

@@ -19,8 +19,8 @@ The IPageSavingCallback type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [page_start_saving](/cells/python-net/aspose.cells.rendering/ipagesavingcallback/page_start_saving/#aspose.cells.rendering.PageStartSavingArgs) | Control/Indicate a page starts to be output. |
-| [page_end_saving](/cells/python-net/aspose.cells.rendering/ipagesavingcallback/page_end_saving/#aspose.cells.rendering.PageEndSavingArgs) | Control/Indicate a page ends to be output. |
+| [`page_start_saving(self, args)`](/cells/python-net/aspose.cells.rendering/ipagesavingcallback/page_start_saving/#aspose.cells.rendering.pagestartsavingargs) | Control/Indicate a page starts to be output. |
+| [`page_end_saving(self, args)`](/cells/python-net/aspose.cells.rendering/ipagesavingcallback/page_end_saving/#aspose.cells.rendering.pageendsavingargs) | Control/Indicate a page ends to be output. |
 
 
 

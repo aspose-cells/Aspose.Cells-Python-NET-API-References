@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/clear_comments/
 is_root: false
 ---
 
-## clear_comments {#}
+## clear_comments(self) {#}
 
 Clears all comments in designer spreadsheet.
 
 
 
 ```python
+
 def clear_comments(self):
     ...
 ```

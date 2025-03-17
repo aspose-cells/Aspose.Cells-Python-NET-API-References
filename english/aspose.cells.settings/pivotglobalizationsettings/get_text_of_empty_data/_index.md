@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_empty_data/
 is_root: false
 ---
 
-## get_text_of_empty_data {#}
+## get_text_of_empty_data(self) {#}
 
 Gets the text of "(blank)" label in the PivotTable.
 
@@ -20,6 +20,7 @@ The text of empty data
 
 
 ```python
+
 def get_text_of_empty_data(self):
     ...
 ```

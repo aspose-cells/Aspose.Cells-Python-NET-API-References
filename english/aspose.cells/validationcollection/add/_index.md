@@ -8,7 +8,7 @@ url: /aspose.cells/validationcollection/add/
 is_root: false
 ---
 
-## add {#}
+## add(self) {#}
 
 Adds a data validation to the collection.
 
@@ -20,6 +20,7 @@ Adds a data validation to the collection.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -32,7 +33,7 @@ please use ValidationCollection.Add(CellArea) method.
 This property will be removed 12 months later since JANUARY 2015. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## add {#aspose.cells.CellArea}
+## add(self, ca) {#aspose.cells.CellArea}
 
 Adds a data validation to the collection.
 
@@ -44,6 +45,7 @@ Adds a data validation to the collection.
 
 
 ```python
+
 def add(self, ca):
     ...
 ```

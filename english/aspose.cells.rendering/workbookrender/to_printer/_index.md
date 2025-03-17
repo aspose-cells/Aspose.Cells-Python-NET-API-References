@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/workbookrender/to_printer/
 is_root: false
 ---
 
-## to_printer {#str}
+## to_printer(self, printer_name) {#str}
 
 Render workbook to Printer
 
 
 
 ```python
+
 def to_printer(self, printer_name):
     ...
 ```
@@ -25,13 +26,14 @@ def to_printer(self, printer_name):
 | printer_name | str | the name of the printer , for example: "Microsoft Office Document Image Writer" |
 
 
-## to_printer {#aspose.pydrawing.printing.PrinterSettings}
+## to_printer(self, printer_settings) {#aspose.pydrawing.printing.PrinterSettings}
 
 Render workbook to Printer
 
 
 
 ```python
+
 def to_printer(self, printer_settings):
     ...
 ```
@@ -42,13 +44,14 @@ def to_printer(self, printer_settings):
 | printer_settings | aspose.pydrawing.printing.PrinterSettings | the settings of printer, e.g. PrinterName, Duplex |
 
 
-## to_printer {#str-str}
+## to_printer(self, printer_name, job_name) {#str-str}
 
 Render workbook to Printer
 
 
 
 ```python
+
 def to_printer(self, printer_name, job_name):
     ...
 ```
@@ -60,13 +63,14 @@ def to_printer(self, printer_name, job_name):
 | job_name | str | set the print job name |
 
 
-## to_printer {#aspose.pydrawing.printing.PrinterSettings-str}
+## to_printer(self, printer_settings, job_name) {#aspose.pydrawing.printing.PrinterSettings-str}
 
 Render workbook to Printer
 
 
 
 ```python
+
 def to_printer(self, printer_settings, job_name):
     ...
 ```
@@ -78,13 +82,14 @@ def to_printer(self, printer_settings, job_name):
 | job_name | str | set the print job name |
 
 
-## to_printer {#str-int-int}
+## to_printer(self, printer_name, print_page_index, print_page_count) {#str-int-int}
 
 Render workbook to Printer
 
 
 
 ```python
+
 def to_printer(self, printer_name, print_page_index, print_page_count):
     ...
 ```

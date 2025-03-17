@@ -8,7 +8,7 @@ url: /aspose.cells.charts/seriescollection/add_r1c1/
 is_root: false
 ---
 
-## add_r1c1 {#str-bool}
+## add_r1c1(self, area, is_vertical) {#str-bool}
 
 Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart.
 
@@ -20,6 +20,7 @@ Return the first index of the added ASeries in the NSeries.
 
 
 ```python
+
 def add_r1c1(self, area, is_vertical):
     ...
 ```

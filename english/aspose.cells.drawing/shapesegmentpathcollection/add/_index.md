@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapesegmentpathcollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.drawing.ShapePathType}
+## add(self, type) {#aspose.cells.drawing.ShapePathType}
 
 Add a segment path in creation path.
 
@@ -20,6 +20,7 @@ Returns the position of [`ShapeSegmentPath`](/cells/python-net/aspose.cells.draw
 
 
 ```python
+
 def add(self, type):
     ...
 ```

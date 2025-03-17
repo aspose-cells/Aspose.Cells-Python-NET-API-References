@@ -8,7 +8,7 @@ url: /aspose.cells/rowcollection/get_row_by_index/
 is_root: false
 ---
 
-## get_row_by_index {#int}
+## get_row_by_index(self, index) {#int}
 
 Gets the row object by the position in the list.
 
@@ -20,6 +20,7 @@ The Row object at given position.
 
 
 ```python
+
 def get_row_by_index(self, index):
     ...
 ```

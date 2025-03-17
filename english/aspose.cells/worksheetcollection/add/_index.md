@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/add/
 is_root: false
 ---
 
-## add {#}
+## add(self) {#}
 
 Adds a worksheet to the collection.
 
@@ -20,6 +20,7 @@ Adds a worksheet to the collection.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -27,7 +28,7 @@ def add(self):
 
 
 
-## add {#aspose.cells.SheetType}
+## add(self, type) {#aspose.cells.SheetType}
 
 Adds a worksheet to the collection.
 
@@ -39,6 +40,7 @@ Adds a worksheet to the collection.
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -71,7 +73,7 @@ chart.n_series.add("Sheet1!C2:C6", True)
 ```
 
 
-## add {#str}
+## add(self, sheet_name) {#str}
 
 Adds a worksheet to the collection.
 
@@ -83,6 +85,7 @@ Adds a worksheet to the collection.
 
 
 ```python
+
 def add(self, sheet_name):
     ...
 ```

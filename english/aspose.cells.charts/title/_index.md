@@ -42,10 +42,22 @@ The Title type exposes the following members:
 | [shadow](/cells/python-net/aspose.cells.charts/title/shadow) | True if the frame has a shadow. |
 | [shape_properties](/cells/python-net/aspose.cells.charts/title/shape_properties) | Gets the [`ChartFrame.shape_properties`](/cells/python-net/aspose.cells.charts/chartframe#shape_properties) object. |
 | [is_default_pos_be_set](/cells/python-net/aspose.cells.charts/title/is_default_pos_be_set) | Indicates whether default position(DefaultX, DefaultY, DefaultWidth and DefaultHeight) are set. |
-| [default_x](/cells/python-net/aspose.cells.charts/title/default_x) | Represents x of default position |
-| [default_y](/cells/python-net/aspose.cells.charts/title/default_y) | Represents y of default position |
-| [default_width](/cells/python-net/aspose.cells.charts/title/default_width) | Represents width of default position |
-| [default_height](/cells/python-net/aspose.cells.charts/title/default_height) | Represents height of default position |
+| [default_x](/cells/python-net/aspose.cells.charts/title/default_x) | Represents x of default position in units of 1/4000 of the chart area. |
+| [default_y](/cells/python-net/aspose.cells.charts/title/default_y) | Represents y of default position in units of 1/4000 of the chart area. |
+| [default_width](/cells/python-net/aspose.cells.charts/title/default_width) | Represents width of default position in units of 1/4000 of the chart area. |
+| [default_height](/cells/python-net/aspose.cells.charts/title/default_height) | Represents height of default position in units of 1/4000 of the chart area. |
+| [default_x_ratio_to_chart](/cells/python-net/aspose.cells.charts/title/default_x_ratio_to_chart) | Represents x of default position in units of Fraction of the chart area. |
+| [default_y_ratio_to_chart](/cells/python-net/aspose.cells.charts/title/default_y_ratio_to_chart) | Represents y of default position in units of Fraction of the chart area. |
+| [default_width_ratio_to_chart](/cells/python-net/aspose.cells.charts/title/default_width_ratio_to_chart) | Represents width of default position in units of Fraction of the chart area. |
+| [default_height_ratio_to_chart](/cells/python-net/aspose.cells.charts/title/default_height_ratio_to_chart) | Represents height of default position in units of Fraction of the chart area. |
+| [x_ratio_to_chart](/cells/python-net/aspose.cells.charts/title/x_ratio_to_chart) | Gets or sets the x coordinate of the upper left corner in units of Fraction of the chart area.<br/>X In Pixels = XRatioToChart * Chart.ChartObject.Width; |
+| [y_ratio_to_chart](/cells/python-net/aspose.cells.charts/title/y_ratio_to_chart) | Gets or sets the y coordinate of the upper left corner in units of Fraction of the chart area.		<br/>Y In Pixels = YRatioToChart * Chart.ChartObject.Width; |
+| [width_ratio_to_chart](/cells/python-net/aspose.cells.charts/title/width_ratio_to_chart) | Gets or sets the width of frame in units of ratio of the chart area. |
+| [height_ratio_to_chart](/cells/python-net/aspose.cells.charts/title/height_ratio_to_chart) | Gets or sets the height of frame in units of ratio of the chart area. |
+| [x_pixel](/cells/python-net/aspose.cells.charts/title/x_pixel) | Gets or sets the x coordinate of the upper left corner in units of Pixel. |
+| [y_pixel](/cells/python-net/aspose.cells.charts/title/y_pixel) | Gets or sets the y coordinate of the upper left corner in units of Pixel. |
+| [width_pixel](/cells/python-net/aspose.cells.charts/title/width_pixel) | Gets or sets the width of frame in units of Pixel. |
+| [height_pixel](/cells/python-net/aspose.cells.charts/title/height_pixel) | Gets or sets the height of frame in units of Pixel. |
 | [is_auto_text](/cells/python-net/aspose.cells.charts/title/is_auto_text) | Indicates the text is auto generated. |
 | [is_deleted](/cells/python-net/aspose.cells.charts/title/is_deleted) | Indicates whether this data labels is deleted. |
 | [text_horizontal_alignment](/cells/python-net/aspose.cells.charts/title/text_horizontal_alignment) | Gets and sets the text horizontal alignment. |
@@ -66,9 +78,9 @@ The Title type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [characters](/cells/python-net/aspose.cells.charts/title/characters/#) | Gets rich text formatting of this Title. |
-| [characters](/cells/python-net/aspose.cells.charts/title/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
-| [set_position_auto](/cells/python-net/aspose.cells.charts/title/set_position_auto/#) | Set position of the frame to automatic |
+| [`characters(self)`](/cells/python-net/aspose.cells.charts/title/characters/#) | Gets rich text formatting of this Title. |
+| [`characters(self, start_index, length)`](/cells/python-net/aspose.cells.charts/title/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
+| [`set_position_auto(self)`](/cells/python-net/aspose.cells.charts/title/set_position_auto/#) | Set position of the frame to automatic |
 
 
 

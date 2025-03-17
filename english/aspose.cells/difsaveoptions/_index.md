@@ -24,7 +24,7 @@ The DifSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/difsaveoptions/__init__/#) | Creates the options for saving DIF file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/difsaveoptions/__init__/#) | Creates the options for saving DIF file. |
 
 
 ### Properties

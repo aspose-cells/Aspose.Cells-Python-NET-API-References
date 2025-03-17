@@ -3,18 +3,19 @@ title: update_linked_property_value method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.properties/customdocumentpropertycollection/update_linked_property_value/
 is_root: false
 ---
 
-## update_linked_property_value {#}
+## update_linked_property_value(self) {#}
 
 Update custom document property value which links to content.
 
 
 
 ```python
+
 def update_linked_property_value(self):
     ...
 ```

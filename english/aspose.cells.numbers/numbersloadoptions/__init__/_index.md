@@ -8,13 +8,14 @@ url: /aspose.cells.numbers/numbersloadoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructor.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

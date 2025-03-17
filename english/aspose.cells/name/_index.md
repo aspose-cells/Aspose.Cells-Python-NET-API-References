@@ -3,7 +3,7 @@ title: Name class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1150
+weight: 1160
 url: /aspose.cells/name/
 is_root: false
 ---
@@ -32,15 +32,15 @@ The Name type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_refers_to](/cells/python-net/aspose.cells/name/get_refers_to/#bool-bool) | Get the reference of this Name. |
-| [get_refers_to](/cells/python-net/aspose.cells/name/get_refers_to/#bool-bool-int-int) | Get the reference of this Name based on specified cell. |
-| [get_ranges](/cells/python-net/aspose.cells/name/get_ranges/#) | Gets all ranges referred by this name. |
-| [get_ranges](/cells/python-net/aspose.cells/name/get_ranges/#bool) | Gets all ranges referred by this name. |
-| [get_range](/cells/python-net/aspose.cells/name/get_range/#) | Gets the range if this name refers to a range. |
-| [get_range](/cells/python-net/aspose.cells/name/get_range/#bool) | Gets the range if this name refers to a range |
-| [get_range](/cells/python-net/aspose.cells/name/get_range/#int-int-int) | Gets the range if this name refers to a range.<br/>If the reference of this name is not absolute, the range may be different for different cell. |
-| [set_refers_to](/cells/python-net/aspose.cells/name/set_refers_to/#str-bool-bool) | Set the reference of this Name. |
-| [get_referred_areas](/cells/python-net/aspose.cells/name/get_referred_areas/#bool) | Gets all references referred by this name. |
+| [`get_refers_to(self, is_r1c1, is_local)`](/cells/python-net/aspose.cells/name/get_refers_to/#bool-bool) | Get the reference of this Name. |
+| [`get_refers_to(self, is_r1c1, is_local, row, column)`](/cells/python-net/aspose.cells/name/get_refers_to/#bool-bool-int-int) | Get the reference of this Name based on specified cell. |
+| [`get_ranges(self)`](/cells/python-net/aspose.cells/name/get_ranges/#) | Gets all ranges referred by this name. |
+| [`get_ranges(self, recalculate)`](/cells/python-net/aspose.cells/name/get_ranges/#bool) | Gets all ranges referred by this name. |
+| [`get_range(self)`](/cells/python-net/aspose.cells/name/get_range/#) | Gets the range if this name refers to a range. |
+| [`get_range(self, recalculate)`](/cells/python-net/aspose.cells/name/get_range/#bool) | Gets the range if this name refers to a range |
+| [`get_range(self, sheet_index, row, column)`](/cells/python-net/aspose.cells/name/get_range/#int-int-int) | Gets the range if this name refers to a range.<br/>If the reference of this name is not absolute, the range may be different for different cell. |
+| [`set_refers_to(self, refers_to, is_r1c1, is_local)`](/cells/python-net/aspose.cells/name/set_refers_to/#str-bool-bool) | Set the reference of this Name. |
+| [`get_referred_areas(self, recalculate)`](/cells/python-net/aspose.cells/name/get_referred_areas/#bool) | Gets all references referred by this name. |
 
 
 

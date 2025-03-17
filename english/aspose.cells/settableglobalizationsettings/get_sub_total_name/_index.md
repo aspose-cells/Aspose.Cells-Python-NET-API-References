@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/get_sub_total_name/
 is_root: false
 ---
 
-## get_sub_total_name {#aspose.cells.pivot.PivotFieldSubtotalType}
+## get_sub_total_name(self, sub_total_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
 
 Gets the name of [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) type in the PivotTable.
 
@@ -20,6 +20,7 @@ The name of [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivo
 
 
 ```python
+
 def get_sub_total_name(self, sub_total_type):
     ...
 ```

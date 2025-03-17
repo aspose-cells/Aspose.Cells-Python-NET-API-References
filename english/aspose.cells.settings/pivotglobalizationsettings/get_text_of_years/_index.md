@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_years/
 is_root: false
 ---
 
-## get_text_of_years {#}
+## get_text_of_years(self) {#}
 
 Gets the local text of "Years".
 
@@ -20,6 +20,7 @@ Gets the local text of "Years".
 
 
 ```python
+
 def get_text_of_years(self):
     ...
 ```

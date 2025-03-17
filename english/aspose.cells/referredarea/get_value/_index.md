@@ -8,7 +8,7 @@ url: /aspose.cells/referredarea/get_value/
 is_root: false
 ---
 
-## get_value {#int-int}
+## get_value(self, row_offset, col_offset) {#int-int}
 
 Gets cell value with given offset from the top-left of this area.
 
@@ -22,6 +22,7 @@ Otherwise return the cell value at given position.
 
 
 ```python
+
 def get_value(self, row_offset, col_offset):
     ...
 ```
@@ -33,7 +34,7 @@ def get_value(self, row_offset, col_offset):
 | col_offset | int | column offset from the start row of this area |
 
 
-## get_value {#int-int-bool}
+## get_value(self, row_offset, col_offset, calculate_formulas) {#int-int-bool}
 
 Gets cell value with given offset from the top-left of this area.
 
@@ -47,6 +48,7 @@ Otherwise return the cell value at given position.
 
 
 ```python
+
 def get_value(self, row_offset, col_offset, calculate_formulas):
     ...
 ```

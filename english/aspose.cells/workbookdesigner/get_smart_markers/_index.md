@@ -8,7 +8,7 @@ url: /aspose.cells/workbookdesigner/get_smart_markers/
 is_root: false
 ---
 
-## get_smart_markers {#}
+## get_smart_markers(self) {#}
 
 Returns a collection of smart markers in a spreadsheet.
 
@@ -20,6 +20,7 @@ A collection of smart markers
 
 
 ```python
+
 def get_smart_markers(self):
     ...
 ```

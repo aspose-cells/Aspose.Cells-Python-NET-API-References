@@ -3,12 +3,12 @@ title: get_column_original_width_point method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /aspose.cells/cells/get_column_original_width_point/
 is_root: false
 ---
 
-## get_column_original_width_point {#int}
+## get_column_original_width_point(self, column) {#int}
 
 Gets original column's height in unit of point if the column is hidden
 
@@ -20,6 +20,7 @@ Gets original column's height in unit of point if the column is hidden
 
 
 ```python
+
 def get_column_original_width_point(self, column):
     ...
 ```

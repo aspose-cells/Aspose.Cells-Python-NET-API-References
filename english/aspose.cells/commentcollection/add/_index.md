@@ -8,7 +8,7 @@ url: /aspose.cells/commentcollection/add/
 is_root: false
 ---
 
-## add {#str}
+## add(self, cell_name) {#str}
 
 Adds a comment to the collection.
 
@@ -20,6 +20,7 @@ Adds a comment to the collection.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -42,7 +43,7 @@ comment2.font.name = "Times New Roman"
 ```
 
 
-## add {#int-int}
+## add(self, row, column) {#int-int}
 
 Adds a comment to the collection.
 
@@ -54,6 +55,7 @@ Adds a comment to the collection.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```

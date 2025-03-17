@@ -8,7 +8,7 @@ url: /aspose.cells/cellsdatatablefactory/get_instance/
 is_root: false
 ---
 
-## get_instance {#list}
+## get_instance(self, collection) {#list}
 
 Creates ICellsDataTable from given collection.
 
@@ -20,6 +20,7 @@ Instance of ICellsDataTable
 
 
 ```python
+
 def get_instance(self, collection):
     ...
 ```
@@ -30,7 +31,7 @@ def get_instance(self, collection):
 | collection | list | the collection to build table |
 
 
-## get_instance {#list-list}
+## get_instance(self, vals, column_names) {#list-list}
 
 Creates ICellsDataTable from given sequence of int values.
 
@@ -42,6 +43,7 @@ Instance of ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, column_names):
     ...
 ```
@@ -53,7 +55,7 @@ def get_instance(self, vals, column_names):
 | column_names | list | Column names of the table.<br/>Its length can only be either 1(build table by the int values vertically)<br/>or length of the int values(build table by the int values horizontally) |
 
 
-## get_instance {#list-bool}
+## get_instance(self, vals, vertial) {#list-bool}
 
 Creates ICellsDataTable from given sequence of int values.
 
@@ -65,6 +67,7 @@ Instance of ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, vertial):
     ...
 ```
@@ -76,7 +79,7 @@ def get_instance(self, vals, vertial):
 | vertial | bool | whether build table by the int values vertiacally(true) or horizontally(false) |
 
 
-## get_instance {#list-list}
+## get_instance(self, vals, column_names) {#list-list}
 
 Creates ICellsDataTable from given sequence of double values.
 
@@ -88,6 +91,7 @@ Instance of ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, column_names):
     ...
 ```
@@ -99,7 +103,7 @@ def get_instance(self, vals, column_names):
 | column_names | list | Column names of the table.<br/>Its length can only be either 1(build table by the double values vertically)<br/>or length of the double values(build table by the double values horizontally) |
 
 
-## get_instance {#list-bool}
+## get_instance(self, vals, vertial) {#list-bool}
 
 Creates ICellsDataTable from given sequence of double values.
 
@@ -111,6 +115,7 @@ Instance of ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, vertial):
     ...
 ```
@@ -122,7 +127,7 @@ def get_instance(self, vals, vertial):
 | vertial | bool | whether build table by the double values vertiacally(true) or horizontally(false) |
 
 
-## get_instance {#list-list}
+## get_instance(self, vals, column_names) {#list-list}
 
 Creates ICellsDataTable from given sequence of objects.
 
@@ -134,6 +139,7 @@ Instance of ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, column_names):
     ...
 ```
@@ -145,7 +151,7 @@ def get_instance(self, vals, column_names):
 | column_names | list | Column names of the table.<br/>Its length can only be either 1(build table by the objects vertically)<br/>or length of the objects(build table by the objects horizontally) |
 
 
-## get_instance {#list-bool}
+## get_instance(self, vals, vertial) {#list-bool}
 
 Creates ICellsDataTable from given sequence of objects.
 
@@ -157,6 +163,7 @@ Instance of ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, vertial):
     ...
 ```
@@ -168,7 +175,7 @@ def get_instance(self, vals, vertial):
 | vertial | bool | whether build table by the objects vertiacally(true) or horizontally(false) |
 
 
-## get_instance {#list-bool}
+## get_instance(self, collection, has_header) {#list-bool}
 
 Creates ICellsDataTable from given collection.
 
@@ -180,6 +187,7 @@ Instance of ICellsDataTable
 
 
 ```python
+
 def get_instance(self, collection, has_header):
     ...
 ```
@@ -191,7 +199,7 @@ def get_instance(self, collection, has_header):
 | has_header | bool | Indicates whether the first row is header |
 
 
-## get_instance {#list-bool-list}
+## get_instance(self, vals, has_header, column_names) {#list-bool-list}
 
 Creates ICellsDataTable from given sequence of objects.
 
@@ -203,6 +211,7 @@ Instance of ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, has_header, column_names):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/move/
 is_root: false
 ---
 
-## move {#str}
+## move(self, dest_cell_name) {#str}
 
 Moves the PivotTable to a different location in the worksheet.
 
 
 
 ```python
+
 def move(self, dest_cell_name):
     ...
 ```
@@ -30,13 +31,14 @@ please use PivotTable.MoveTo() method.
 This method will be removed 12 months later since December 2024. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## move {#int-int}
+## move(self, row, column) {#int-int}
 
 Moves the PivotTable to a different location in the worksheet.
 
 
 
 ```python
+
 def move(self, row, column):
     ...
 ```

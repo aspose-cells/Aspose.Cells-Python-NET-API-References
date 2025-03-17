@@ -8,13 +8,14 @@ url: /aspose.cells/pagesetup/set_first_page_footer/
 is_root: false
 ---
 
-## set_first_page_footer {#int-str}
+## set_first_page_footer(self, section, footer_script) {#int-str}
 
 Sets a script formatting the first page footer of an Excel file.
 
 
 
 ```python
+
 def set_first_page_footer(self, section, footer_script):
     ...
 ```

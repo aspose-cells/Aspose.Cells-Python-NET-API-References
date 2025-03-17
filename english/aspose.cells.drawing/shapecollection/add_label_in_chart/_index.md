@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_label_in_chart/
 is_root: false
 ---
 
-## add_label_in_chart {#int-int-int-int}
+## add_label_in_chart(self, top, left, height, width) {#int-int-int-int}
 
 Adds a label to the chart.
 
@@ -20,6 +20,7 @@ A new Label object.
 
 
 ```python
+
 def add_label_in_chart(self, top, left, height, width):
     ...
 ```

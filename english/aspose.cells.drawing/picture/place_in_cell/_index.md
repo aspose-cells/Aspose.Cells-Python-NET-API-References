@@ -3,18 +3,19 @@ title: place_in_cell method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.drawing/picture/place_in_cell/
 is_root: false
 ---
 
-## place_in_cell {#}
+## place_in_cell(self) {#}
 
 Place this picture in the cell
 
 
 
 ```python
+
 def place_in_cell(self):
     ...
 ```

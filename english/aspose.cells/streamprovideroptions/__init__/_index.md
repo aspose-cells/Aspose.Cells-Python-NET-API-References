@@ -8,13 +8,14 @@ url: /aspose.cells/streamprovideroptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`StreamProviderOptions`](/cells/python-net/aspose.cells/streamprovideroptions) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.cells.ResourceLoadingType-str}
+## \_\_init\_\_(self, loading_type, default_path) {#aspose.cells.ResourceLoadingType-str}
 
 Initializes a new instance of the [`StreamProviderOptions`](/cells/python-net/aspose.cells/streamprovideroptions) class.
 
 
 
 ```python
+
 def __init__(self, loading_type, default_path):
     ...
 ```

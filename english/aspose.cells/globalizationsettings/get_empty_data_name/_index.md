@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_empty_data_name/
 is_root: false
 ---
 
-## get_empty_data_name {#}
+## get_empty_data_name(self) {#}
 
 Gets the name of "(blank)" label in the PivotTable.
 
@@ -20,6 +20,7 @@ The name of empty data
 
 
 ```python
+
 def get_empty_data_name(self):
     ...
 ```

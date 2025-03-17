@@ -3,7 +3,7 @@ title: text_font property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 260
 url: /aspose.cells.charts/chartarea/text_font/
 is_root: false
 ---

@@ -8,13 +8,14 @@ url: /aspose.cells/bordercollection/set_color/
 is_root: false
 ---
 
-## set_color {#aspose.pydrawing.Color}
+## set_color(self, color) {#aspose.pydrawing.Color}
 
 Sets the Color of all borders in the collection.
 
 
 
 ```python
+
 def set_color(self, color):
     ...
 ```

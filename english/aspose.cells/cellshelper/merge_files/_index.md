@@ -8,14 +8,16 @@ url: /aspose.cells/cellshelper/merge_files/
 is_root: false
 ---
 
-## merge_files {#list-str-str}
+## merge_files(, files, cached_file, dest_file) {#list-str-str}
 
 Merges some large xls files to a xls file.
 
 
 
 ```python
-def merge_files(self, files, cached_file, dest_file):
+
+@staticmethod
+def merge_files(files, cached_file, dest_file):
     ...
 ```
 

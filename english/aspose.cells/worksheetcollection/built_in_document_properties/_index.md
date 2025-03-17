@@ -101,6 +101,18 @@ Number of Hidden Slides
 
 
 Number of Multimedia Clips
+
+### Example 
+
+
+```python
+from aspose.cells import Workbook
+
+workbook = Workbook()
+doc = workbook.worksheets.built_in_document_properties.get("Author")
+doc.value = "John Smith"
+
+```
 ### Definition:
 ```python
 @property

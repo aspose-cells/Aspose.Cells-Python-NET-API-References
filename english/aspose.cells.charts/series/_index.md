@@ -76,7 +76,7 @@ The Series type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [move](/cells/python-net/aspose.cells.charts/series/move/#int) | Moves the series up or down. |
+| [`move(self, count)`](/cells/python-net/aspose.cells.charts/series/move/#int) | Moves the series up or down. |
 
 
 

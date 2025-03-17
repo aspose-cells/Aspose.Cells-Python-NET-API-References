@@ -8,13 +8,14 @@ url: /aspose.cells.properties/custompropertycollection/add/
 is_root: false
 ---
 
-## add {#str-str}
+## add(self, name, value) {#str-str}
 
 Adds custom property information.
 
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```

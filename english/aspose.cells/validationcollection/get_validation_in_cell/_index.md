@@ -8,7 +8,7 @@ url: /aspose.cells/validationcollection/get_validation_in_cell/
 is_root: false
 ---
 
-## get_validation_in_cell {#int-int}
+## get_validation_in_cell(self, row, column) {#int-int}
 
 Gets the validation applied to given cell.
 
@@ -20,6 +20,7 @@ Returns a [`Validation`](/cells/python-net/aspose.cells/validation) object or nu
 
 
 ```python
+
 def get_validation_in_cell(self, row, column):
     ...
 ```

@@ -3,12 +3,12 @@ title: create_style method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells/workbook/create_style/
 is_root: false
 ---
 
-## create_style {#}
+## create_style(self) {#}
 
 Creates a new style.
 
@@ -20,6 +20,7 @@ Returns a style object.
 
 
 ```python
+
 def create_style(self):
     ...
 ```
@@ -27,7 +28,7 @@ def create_style(self):
 
 
 
-## create_style {#bool}
+## create_style(self, clone_default_style) {#bool}
 
 Creates a new style.
 
@@ -39,6 +40,7 @@ Returns a style object.
 
 
 ```python
+
 def create_style(self, clone_default_style):
     ...
 ```

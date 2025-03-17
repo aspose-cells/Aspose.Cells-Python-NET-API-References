@@ -8,13 +8,14 @@ url: /aspose.cells.charts/sparklinegroupcollection/clear_sparklines/
 is_root: false
 ---
 
-## clear_sparklines {#aspose.cells.CellArea}
+## clear_sparklines(self, cell_area) {#aspose.cells.CellArea}
 
 Clears the sparklines that is inside an area of cells.
 
 
 
 ```python
+
 def clear_sparklines(self, cell_area):
     ...
 ```

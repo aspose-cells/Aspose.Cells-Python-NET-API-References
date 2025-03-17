@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_label/
 is_root: false
 ---
 
-## add_label {#int-int-int-int-int-int}
+## add_label(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a Label to the worksheet.
 
@@ -20,6 +20,7 @@ A Label object.
 
 
 ```python
+
 def add_label(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

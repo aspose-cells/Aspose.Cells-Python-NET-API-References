@@ -8,13 +8,14 @@ url: /aspose.cells/validationcollection/remove_area/
 is_root: false
 ---
 
-## remove_area {#aspose.cells.CellArea}
+## remove_area(self, ca) {#aspose.cells.CellArea}
 
 Removes all validation setting on the range..
 
 
 
 ```python
+
 def remove_area(self, ca):
     ...
 ```

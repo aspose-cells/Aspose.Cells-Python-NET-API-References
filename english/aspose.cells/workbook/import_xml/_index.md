@@ -3,18 +3,19 @@ title: import_xml method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells/workbook/import_xml/
 is_root: false
 ---
 
-## import_xml {#str-str-int-int}
+## import_xml(self, url, sheet_name, row, col) {#str-str-int-int}
 
 Imports/Updates an XML data file into the workbook.
 
 
 
 ```python
+
 def import_xml(self, url, sheet_name, row, col):
     ...
 ```
@@ -42,13 +43,14 @@ wb.save("output.xlsx")
 ```
 
 
-## import_xml {#io.RawIOBase-str-int-int}
+## import_xml(self, stream, sheet_name, row, col) {#io.RawIOBase-str-int-int}
 
 Imports/Updates an XML data file into the workbook.
 
 
 
 ```python
+
 def import_xml(self, stream, sheet_name, row, col):
     ...
 ```

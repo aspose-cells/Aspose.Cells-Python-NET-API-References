@@ -8,13 +8,14 @@ url: /aspose.cells.vba/vbamodulecollection/remove_by_name/
 is_root: false
 ---
 
-## remove_by_name {#str}
+## remove_by_name(self, name) {#str}
 
 Remove the module by the name
 
 
 
 ```python
+
 def remove_by_name(self, name):
     ...
 ```

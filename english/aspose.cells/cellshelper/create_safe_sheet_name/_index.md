@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/create_safe_sheet_name/
 is_root: false
 ---
 
-## create_safe_sheet_name {#str}
+## create_safe_sheet_name(, name_proposal) {#str}
 
 Checks given sheet name and create a valid one when needed.
 If given sheet name conforms to the rules of excel sheet name, then return it.
@@ -23,7 +23,9 @@ and invalid characters will be replaced with ' ', then return the rebuilt string
 
 
 ```python
-def create_safe_sheet_name(self, name_proposal):
+
+@staticmethod
+def create_safe_sheet_name(name_proposal):
     ...
 ```
 
@@ -33,7 +35,7 @@ def create_safe_sheet_name(self, name_proposal):
 | name_proposal | str | sheet name to be used |
 
 
-## create_safe_sheet_name {#str-char}
+## create_safe_sheet_name(, name_proposal, replace_char) {#str-char}
 
 Checks given sheet name and create a valid one when needed.
 If given sheet name conforms to the rules of excel sheet name, then return it.
@@ -48,7 +50,9 @@ and invalid characters will be replaced with given character, then return the re
 
 
 ```python
-def create_safe_sheet_name(self, name_proposal, replace_char):
+
+@staticmethod
+def create_safe_sheet_name(name_proposal, replace_char):
     ...
 ```
 

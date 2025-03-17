@@ -42,10 +42,22 @@ The Legend type exposes the following members:
 | [shadow](/cells/python-net/aspose.cells.charts/legend/shadow) | True if the frame has a shadow. |
 | [shape_properties](/cells/python-net/aspose.cells.charts/legend/shape_properties) | Gets the [`ChartFrame.shape_properties`](/cells/python-net/aspose.cells.charts/chartframe#shape_properties) object. |
 | [is_default_pos_be_set](/cells/python-net/aspose.cells.charts/legend/is_default_pos_be_set) | Indicates whether default position(DefaultX, DefaultY, DefaultWidth and DefaultHeight) are set. |
-| [default_x](/cells/python-net/aspose.cells.charts/legend/default_x) | Represents x of default position |
-| [default_y](/cells/python-net/aspose.cells.charts/legend/default_y) | Represents y of default position |
-| [default_width](/cells/python-net/aspose.cells.charts/legend/default_width) | Represents width of default position |
-| [default_height](/cells/python-net/aspose.cells.charts/legend/default_height) | Represents height of default position |
+| [default_x](/cells/python-net/aspose.cells.charts/legend/default_x) | Represents x of default position in units of 1/4000 of the chart area. |
+| [default_y](/cells/python-net/aspose.cells.charts/legend/default_y) | Represents y of default position in units of 1/4000 of the chart area. |
+| [default_width](/cells/python-net/aspose.cells.charts/legend/default_width) | Represents width of default position in units of 1/4000 of the chart area. |
+| [default_height](/cells/python-net/aspose.cells.charts/legend/default_height) | Represents height of default position in units of 1/4000 of the chart area. |
+| [default_x_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/default_x_ratio_to_chart) | Represents x of default position in units of Fraction of the chart area. |
+| [default_y_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/default_y_ratio_to_chart) | Represents y of default position in units of Fraction of the chart area. |
+| [default_width_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/default_width_ratio_to_chart) | Represents width of default position in units of Fraction of the chart area. |
+| [default_height_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/default_height_ratio_to_chart) | Represents height of default position in units of Fraction of the chart area. |
+| [x_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/x_ratio_to_chart) | Gets or sets the x coordinate of the upper left corner in units of ratio of the chart area. |
+| [y_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/y_ratio_to_chart) | Gets or sets the y coordinate of the upper left corner in units of ratio of the chart area. |
+| [width_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/width_ratio_to_chart) | Gets or sets the width of frame in units of ratio of the chart area. |
+| [height_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/height_ratio_to_chart) | Gets or sets the height of frame in units of ratio of the chart area. |
+| [x_pixel](/cells/python-net/aspose.cells.charts/legend/x_pixel) | Gets or sets the x coordinate of the upper left corner in units of Pixel. |
+| [y_pixel](/cells/python-net/aspose.cells.charts/legend/y_pixel) | Gets or sets the y coordinate of the upper left corner in units of Pixel. |
+| [width_pixel](/cells/python-net/aspose.cells.charts/legend/width_pixel) | Gets or sets the width of frame in units of Pixel. |
+| [height_pixel](/cells/python-net/aspose.cells.charts/legend/height_pixel) | Gets or sets the height of frame in units of Pixel. |
 | [is_auto_text](/cells/python-net/aspose.cells.charts/legend/is_auto_text) | Indicates the text is auto generated. |
 | [is_deleted](/cells/python-net/aspose.cells.charts/legend/is_deleted) | Indicates whether this data labels is deleted. |
 | [text_horizontal_alignment](/cells/python-net/aspose.cells.charts/legend/text_horizontal_alignment) | Gets and sets the text horizontal alignment. |
@@ -68,9 +80,9 @@ The Legend type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_position_auto](/cells/python-net/aspose.cells.charts/legend/set_position_auto/#) | Set position of the frame to automatic |
-| [characters](/cells/python-net/aspose.cells.charts/legend/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
-| [get_legend_labels](/cells/python-net/aspose.cells.charts/legend/get_legend_labels/#) | Gets the labels of the legend entries after call Chart.Calculate() method. |
+| [`set_position_auto(self)`](/cells/python-net/aspose.cells.charts/legend/set_position_auto/#) | Set position of the frame to automatic |
+| [`characters(self, start_index, length)`](/cells/python-net/aspose.cells.charts/legend/characters/#int-int) | Returns a Characters object that represents a range of characters within the text. |
+| [`get_legend_labels(self)`](/cells/python-net/aspose.cells.charts/legend/get_legend_labels/#) | Gets the labels of the legend entries after call Chart.Calculate() method. |
 
 
 

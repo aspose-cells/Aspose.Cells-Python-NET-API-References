@@ -8,13 +8,14 @@ url: /aspose.cells/cell/remove_array_formula/
 is_root: false
 ---
 
-## remove_array_formula {#bool}
+## remove_array_formula(self, leave_normal_formula) {#bool}
 
 Remove array formula.
 
 
 
 ```python
+
 def remove_array_formula(self, leave_normal_formula):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/comment/format_characters/
 is_root: false
 ---
 
-## format_characters {#int-int-aspose.cells.Font-aspose.cells.StyleFlag}
+## format_characters(self, start_index, length, font, flag) {#int-int-aspose.cells.Font-aspose.cells.StyleFlag}
 
 Format some characters with the font setting.
 
 
 
 ```python
+
 def format_characters(self, start_index, length, font, flag):
     ...
 ```

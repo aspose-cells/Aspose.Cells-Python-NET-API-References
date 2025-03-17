@@ -30,7 +30,7 @@ The MsoFillFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_one_color_gradient](/cells/python-net/aspose.cells.drawing/msofillformat/set_one_color_gradient/#aspose.pydrawing.Color-float-aspose.cells.drawing.GradientStyleType-int) | Sets the specified fill to a one-color gradient. |
+| [`set_one_color_gradient(self, color, degree, style, variant)`](/cells/python-net/aspose.cells.drawing/msofillformat/set_one_color_gradient/#aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | Sets the specified fill to a one-color gradient. |
 
 
 

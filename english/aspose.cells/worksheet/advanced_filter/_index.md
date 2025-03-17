@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/advanced_filter/
 is_root: false
 ---
 
-## advanced_filter {#bool-str-str-str-bool}
+## advanced_filter(self, is_filter, list_range, criteria_range, copy_to, unique_record_only) {#bool-str-str-str-bool}
 
 Filters data using complex criteria.
 
 
 
 ```python
+
 def advanced_filter(self, is_filter, list_range, criteria_range, copy_to, unique_record_only):
     ...
 ```

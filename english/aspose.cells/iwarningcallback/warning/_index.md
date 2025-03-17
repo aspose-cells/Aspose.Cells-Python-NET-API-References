@@ -8,13 +8,14 @@ url: /aspose.cells/iwarningcallback/warning/
 is_root: false
 ---
 
-## warning {#aspose.cells.WarningInfo}
+## warning(self, warning_info) {#aspose.cells.WarningInfo}
 
 Our callback only needs to implement the "Warning" method.
 
 
 
 ```python
+
 def warning(self, warning_info):
     ...
 ```

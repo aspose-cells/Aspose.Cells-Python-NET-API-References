@@ -8,7 +8,7 @@ url: /aspose.cells/style/is_modified/
 is_root: false
 ---
 
-## is_modified {#aspose.cells.StyleModifyFlag}
+## is_modified(self, modify_flag) {#aspose.cells.StyleModifyFlag}
 
 Checks whether the specified properties of the style have been modified.
 Used for style of ConditionalFormattings to check whether the specified properties of this style should be used when applying the ConditionalFormattings on a cell.
@@ -21,6 +21,7 @@ true if the specified properties have been modified
 
 
 ```python
+
 def is_modified(self, modify_flag):
     ...
 ```

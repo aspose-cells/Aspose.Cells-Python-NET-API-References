@@ -8,7 +8,7 @@ url: /aspose.cells/xmlmapcollection/add/
 is_root: false
 ---
 
-## add {#str}
+## add(self, url) {#str}
 
 Add a [`XmlMap`](/cells/python-net/aspose.cells/xmlmap) by the url/path of a xml/xsd file.
 
@@ -20,6 +20,7 @@ Add a [`XmlMap`](/cells/python-net/aspose.cells/xmlmap) by the url/path of a xml
 
 
 ```python
+
 def add(self, url):
     ...
 ```

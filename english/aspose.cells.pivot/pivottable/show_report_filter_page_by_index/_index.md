@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/show_report_filter_page_by_index/
 is_root: false
 ---
 
-## show_report_filter_page_by_index {#int}
+## show_report_filter_page_by_index(self, pos_index) {#int}
 
 Show all the report filter pages according to the position index in the PageFields
 
 
 
 ```python
+
 def show_report_filter_page_by_index(self, pos_index):
     ...
 ```

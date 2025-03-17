@@ -8,13 +8,14 @@ url: /aspose.cells/externallinkcollection/remove_at/
 is_root: false
 ---
 
-## remove_at {#int}
+## remove_at(self, index) {#int}
 
 Removes the specified external link from the workbook.
 
 
 
 ```python
+
 def remove_at(self, index):
     ...
 ```
@@ -28,13 +29,14 @@ def remove_at(self, index):
 When removing the external link, all formulas that reference to it will be removed too because
 the references become invalid.
 
-## remove_at {#int-bool}
+## remove_at(self, index, update_references_as_local) {#int-bool}
 
 Removes the specified external link from the workbook.
 
 
 
 ```python
+
 def remove_at(self, index, update_references_as_local):
     ...
 ```

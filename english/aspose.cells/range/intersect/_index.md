@@ -8,7 +8,7 @@ url: /aspose.cells/range/intersect/
 is_root: false
 ---
 
-## intersect {#aspose.cells.Range}
+## intersect(self, range) {#aspose.cells.Range}
 
 Returns a [`Range`](/cells/python-net/aspose.cells/range) object that represents the rectangular intersection of two ranges.
 
@@ -20,6 +20,7 @@ Returns a [`Range`](/cells/python-net/aspose.cells/range) object
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```

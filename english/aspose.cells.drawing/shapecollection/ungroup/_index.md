@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapecollection/ungroup/
 is_root: false
 ---
 
-## ungroup {#aspose.cells.drawing.GroupShape}
+## ungroup(self, group) {#aspose.cells.drawing.GroupShape}
 
 Ungroups the shape items.
 
 
 
 ```python
+
 def ungroup(self, group):
     ...
 ```

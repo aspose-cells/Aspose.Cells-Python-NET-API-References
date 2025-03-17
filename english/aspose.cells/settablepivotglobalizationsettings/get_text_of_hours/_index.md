@@ -8,7 +8,7 @@ url: /aspose.cells/settablepivotglobalizationsettings/get_text_of_hours/
 is_root: false
 ---
 
-## get_text_of_hours {#}
+## get_text_of_hours(self) {#}
 
 Gets the local text of "Hours".
 
@@ -20,6 +20,7 @@ Gets the local text of "Hours".
 
 
 ```python
+
 def get_text_of_hours(self):
     ...
 ```

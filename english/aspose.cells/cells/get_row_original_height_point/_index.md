@@ -3,12 +3,12 @@ title: get_row_original_height_point method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 520
 url: /aspose.cells/cells/get_row_original_height_point/
 is_root: false
 ---
 
-## get_row_original_height_point {#int}
+## get_row_original_height_point(self, row) {#int}
 
 Gets original row's height in unit of point if the row is hidden
 
@@ -20,6 +20,7 @@ Gets original row's height in unit of point if the row is hidden
 
 
 ```python
+
 def get_row_original_height_point(self, row):
     ...
 ```

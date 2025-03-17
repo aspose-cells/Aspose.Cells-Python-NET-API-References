@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/get_column_labels_of_pivot_tabl
 is_root: false
 ---
 
-## get_column_labels_of_pivot_table {#}
+## get_column_labels_of_pivot_table(self) {#}
 
 Gets the name of "Column Labels" label in the PivotTable.
 
@@ -20,6 +20,7 @@ The name of column labels
 
 
 ```python
+
 def get_column_labels_of_pivot_table(self):
     ...
 ```

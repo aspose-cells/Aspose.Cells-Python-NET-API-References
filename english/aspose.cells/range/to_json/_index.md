@@ -8,7 +8,7 @@ url: /aspose.cells/range/to_json/
 is_root: false
 ---
 
-## to_json {#aspose.cells.JsonSaveOptions}
+## to_json(self, options) {#aspose.cells.JsonSaveOptions}
 
 Convert the range to JSON value.
 
@@ -20,6 +20,7 @@ Convert the range to JSON value.
 
 
 ```python
+
 def to_json(self, options):
     ...
 ```

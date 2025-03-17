@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/get_date_time_from_double/
 is_root: false
 ---
 
-## get_date_time_from_double {#float-bool}
+## get_date_time_from_double(, double_value, date1904) {#float-bool}
 
 Convert the double value to the date time value.
 
@@ -20,7 +20,9 @@ Convert the double value to the date time value.
 
 
 ```python
-def get_date_time_from_double(self, double_value, date1904):
+
+@staticmethod
+def get_date_time_from_double(double_value, date1904):
     ...
 ```
 

@@ -8,7 +8,7 @@ url: /aspose.cells/validation/get_list_value/
 is_root: false
 ---
 
-## get_list_value {#int-int}
+## get_list_value(self, row, column) {#int-int}
 
 Get the value for list of the validation for the specified cell.
 
@@ -22,6 +22,7 @@ Otherwise the returned value may be null, object[], or simple object.
 
 
 ```python
+
 def get_list_value(self, row, column):
     ...
 ```

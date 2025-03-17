@@ -8,13 +8,14 @@ url: /aspose.cells.charts/chartpoint/get_bottom_point_count/
 is_root: false
 ---
 
-## get_bottom_point_count {#}
+## get_bottom_point_count(self) {#}
 
 Gets the number of bottom points  after calls Chart.Calculate() method.
 
 
 
 ```python
+
 def get_bottom_point_count(self):
     ...
 ```

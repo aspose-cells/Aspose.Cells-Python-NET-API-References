@@ -8,13 +8,14 @@ url: /aspose.cells.vba/vbaproject/protect/
 is_root: false
 ---
 
-## protect {#bool-str}
+## protect(self, islocked_for_viewing, password) {#bool-str}
 
 Protects or unprotects this VBA project.
 
 
 
 ```python
+
 def protect(self, islocked_for_viewing, password):
     ...
 ```

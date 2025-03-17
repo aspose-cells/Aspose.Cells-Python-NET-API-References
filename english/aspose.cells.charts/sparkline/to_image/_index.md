@@ -8,13 +8,14 @@ url: /aspose.cells.charts/sparkline/to_image/
 is_root: false
 ---
 
-## to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image(self, file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 
 Converts a sparkline to an image.
 
 
 
 ```python
+
 def to_image(self, file_name, options):
     ...
 ```
@@ -26,13 +27,14 @@ def to_image(self, file_name, options):
 | options | aspose.cells.rendering.ImageOrPrintOptions | The image options |
 
 
-## to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 
 Converts a sparkline to an image.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```

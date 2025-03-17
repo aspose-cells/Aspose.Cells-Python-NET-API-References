@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/sort_by/
 is_root: false
 ---
 
-## sort_by {#aspose.cells.SortOrder-int}
+## sort_by(self, sort_type, field_sorted_by) {#aspose.cells.SortOrder-int}
 
 Sorts this pivot field.
 
 
 
 ```python
+
 def sort_by(self, sort_type, field_sorted_by):
     ...
 ```
@@ -26,13 +27,14 @@ def sort_by(self, sort_type, field_sorted_by):
 | field_sorted_by | int | The index of pivot field sorted by.<br/>-1 means sorting by data labels of this field, others mean the index of data field sorted by. |
 
 
-## sort_by {#aspose.cells.SortOrder-int-aspose.cells.pivot.PivotLineType-str}
+## sort_by(self, sort_type, field_sorted_by, data_type, cell_name) {#aspose.cells.SortOrder-int-aspose.cells.pivot.PivotLineType-str}
 
 Sorts this pivot field.
 
 
 
 ```python
+
 def sort_by(self, sort_type, field_sorted_by, data_type, cell_name):
     ...
 ```

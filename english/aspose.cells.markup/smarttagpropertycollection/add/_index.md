@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagpropertycollection/add/
 is_root: false
 ---
 
-## add {#str-str}
+## add(self, name, value) {#str-str}
 
 Adds a property of cell's smart tag.
 
@@ -20,6 +20,7 @@ return [`SmartTagProperty`](/cells/python-net/aspose.cells.markup/smarttagproper
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```

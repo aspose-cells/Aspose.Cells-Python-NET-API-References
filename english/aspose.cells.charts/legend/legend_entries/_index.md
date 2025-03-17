@@ -3,7 +3,7 @@ title: legend_entries property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 330
 url: /aspose.cells.charts/legend/legend_entries/
 is_root: false
 ---

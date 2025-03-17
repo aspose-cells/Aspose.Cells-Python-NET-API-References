@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdatahandler/process_cell/
 is_root: false
 ---
 
-## process_cell {#aspose.cells.Cell}
+## process_cell(self, cell) {#aspose.cells.Cell}
 
 Starts to process one cell.
 
@@ -25,6 +25,7 @@ in LightCells mode will become same with reading it in normal way.
 
 
 ```python
+
 def process_cell(self, cell):
     ...
 ```

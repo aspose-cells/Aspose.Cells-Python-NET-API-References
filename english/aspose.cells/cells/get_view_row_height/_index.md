@@ -3,12 +3,12 @@ title: get_view_row_height method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 530
+weight: 540
 url: /aspose.cells/cells/get_view_row_height/
 is_root: false
 ---
 
-## get_view_row_height {#int}
+## get_view_row_height(self, row) {#int}
 
 Gets the height of a specified row.
 
@@ -20,6 +20,7 @@ Height of row.
 
 
 ```python
+
 def get_view_row_height(self, row):
     ...
 ```

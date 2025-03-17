@@ -3,7 +3,7 @@ title: StyleFlag class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1520
+weight: 1530
 url: /aspose.cells/styleflag/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The StyleFlag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/styleflag/__init__/#) | Constructs an object with all flags as false. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/styleflag/__init__/#) | Constructs an object with all flags as false. |
 
 
 ### Properties

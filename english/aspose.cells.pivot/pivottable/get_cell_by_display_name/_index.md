@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/get_cell_by_display_name/
 is_root: false
 ---
 
-## get_cell_by_display_name {#str}
+## get_cell_by_display_name(self, display_name) {#str}
 
 Gets the [`Cell`](/cells/python-net/aspose.cells/cell) object by the display name of PivotField.
 
@@ -20,6 +20,7 @@ the Cell object
 
 
 ```python
+
 def get_cell_by_display_name(self, display_name):
     ...
 ```

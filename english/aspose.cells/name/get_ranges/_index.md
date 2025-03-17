@@ -8,7 +8,7 @@ url: /aspose.cells/name/get_ranges/
 is_root: false
 ---
 
-## get_ranges {#}
+## get_ranges(self) {#}
 
 Gets all ranges referred by this name.
 
@@ -20,6 +20,7 @@ All ranges.
 
 
 ```python
+
 def get_ranges(self):
     ...
 ```
@@ -27,7 +28,7 @@ def get_ranges(self):
 
 
 
-## get_ranges {#bool}
+## get_ranges(self, recalculate) {#bool}
 
 Gets all ranges referred by this name.
 
@@ -39,6 +40,7 @@ All ranges.
 
 
 ```python
+
 def get_ranges(self, recalculate):
     ...
 ```

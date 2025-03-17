@@ -8,7 +8,7 @@ url: /aspose.cells/cell/set_dynamic_array_formula/
 is_root: false
 ---
 
-## set_dynamic_array_formula {#str-aspose.cells.FormulaParseOptions-bool}
+## set_dynamic_array_formula(self, array_formula, options, calculate_value) {#str-aspose.cells.FormulaParseOptions-bool}
 
 Sets dynamic array formula and make the formula spill into neighboring cells if possible.
 
@@ -20,6 +20,7 @@ the range that the formula should spill into.
 
 
 ```python
+
 def set_dynamic_array_formula(self, array_formula, options, calculate_value):
     ...
 ```
@@ -36,7 +37,7 @@ the returned range may be not same with the actual one that this dynamic array f
 If there are non-empty cells in the range, the formula will be set for current cell only and marked as "#SPILL!".
 But for such kind of situation we still return the whole range that this formula should spill into.
 
-## set_dynamic_array_formula {#str-aspose.cells.FormulaParseOptions-list-bool-bool}
+## set_dynamic_array_formula(self, array_formula, options, values, calculate_range, calculate_value) {#str-aspose.cells.FormulaParseOptions-list-bool-bool}
 
 Sets dynamic array formula and make the formula spill into neighboring cells if possible.
 
@@ -48,6 +49,7 @@ the range that the formula should spill into.
 
 
 ```python
+
 def set_dynamic_array_formula(self, array_formula, options, values, calculate_range, calculate_value):
     ...
 ```
@@ -66,7 +68,7 @@ the returned range may be not same with the actual one that this dynamic array f
 If there are non-empty cells in the range, the formula will be set for current cell only and marked as "#SPILL!".
 But for such kind of situation we still return the whole range that this formula should spill into.
 
-## set_dynamic_array_formula {#str-aspose.cells.FormulaParseOptions-list-bool-bool-aspose.cells.CalculationOptions}
+## set_dynamic_array_formula(self, array_formula, options, values, calculate_range, calculate_value, copts) {#str-aspose.cells.FormulaParseOptions-list-bool-bool-aspose.cells.CalculationOptions}
 
 Sets dynamic array formula and make the formula spill into neighboring cells if possible.
 
@@ -78,6 +80,7 @@ the range that the formula should spill into.
 
 
 ```python
+
 def set_dynamic_array_formula(self, array_formula, options, values, calculate_range, calculate_value, copts):
     ...
 ```

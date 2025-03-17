@@ -8,13 +8,14 @@ url: /aspose.cells/settableglobalizationsettings/set_table_row_type_of_data/
 is_root: false
 ---
 
-## set_table_row_type_of_data {#str}
+## set_table_row_type_of_data(self, name) {#str}
 
 Sets the type name of table rows that consists of data region of referenced table.
 
 
 
 ```python
+
 def set_table_row_type_of_data(self, name):
     ...
 ```

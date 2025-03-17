@@ -8,13 +8,14 @@ url: /aspose.cells.vba/vbamodulecollection/add_designer_storage/
 is_root: false
 ---
 
-## add_designer_storage {#str-bytes}
+## add_designer_storage(self, name, data) {#str-bytes}
 
 
 
 
 
 ```python
+
 def add_designer_storage(self, name, data):
     ...
 ```

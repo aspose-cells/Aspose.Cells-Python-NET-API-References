@@ -8,7 +8,7 @@ url: /aspose.cells.charts/sparklinegroup/reset_ranges/
 is_root: false
 ---
 
-## reset_ranges {#str-bool-aspose.cells.CellArea}
+## reset_ranges(self, data_range, is_vertical, location_range) {#str-bool-aspose.cells.CellArea}
 
 Resets the data range and location range of the sparkline group. 
 This method will clear original sparkline items in the group and creates new sparkline items for the new ranges.
@@ -16,6 +16,7 @@ This method will clear original sparkline items in the group and creates new spa
 
 
 ```python
+
 def reset_ranges(self, data_range, is_vertical, location_range):
     ...
 ```

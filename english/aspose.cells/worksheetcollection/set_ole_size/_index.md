@@ -8,13 +8,14 @@ url: /aspose.cells/worksheetcollection/set_ole_size/
 is_root: false
 ---
 
-## set_ole_size {#int-int-int-int}
+## set_ole_size(self, start_row, end_row, start_column, end_column) {#int-int-int-int}
 
 Sets displayed size when Workbook file is used as an Ole object.
 
 
 
 ```python
+
 def set_ole_size(self, start_row, end_row, start_column, end_column):
     ...
 ```

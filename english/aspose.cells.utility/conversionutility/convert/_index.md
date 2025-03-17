@@ -8,14 +8,16 @@ url: /aspose.cells.utility/conversionutility/convert/
 is_root: false
 ---
 
-## convert {#str-str}
+## convert(, source, save_as) {#str-str}
 
 Converts Excel files to other formats.
 
 
 
 ```python
-def convert(self, source, save_as):
+
+@staticmethod
+def convert(source, save_as):
     ...
 ```
 
@@ -26,14 +28,16 @@ def convert(self, source, save_as):
 | save_as | str | The file name of expected file. |
 
 
-## convert {#str-aspose.cells.LoadOptions-str-aspose.cells.SaveOptions}
+## convert(, source, load_options, save_as, save_options) {#str-aspose.cells.LoadOptions-str-aspose.cells.SaveOptions}
 
 Converts Excel files to other formats.
 
 
 
 ```python
-def convert(self, source, load_options, save_as, save_options):
+
+@staticmethod
+def convert(source, load_options, save_as, save_options):
     ...
 ```
 

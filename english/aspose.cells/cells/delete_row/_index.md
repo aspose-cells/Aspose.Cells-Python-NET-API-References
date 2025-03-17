@@ -8,13 +8,14 @@ url: /aspose.cells/cells/delete_row/
 is_root: false
 ---
 
-## delete_row {#int}
+## delete_row(self, row_index) {#int}
 
 Deletes a row.
 
 
 
 ```python
+
 def delete_row(self, row_index):
     ...
 ```
@@ -25,13 +26,14 @@ def delete_row(self, row_index):
 | row_index | int | Index of the row to be deleted. |
 
 
-## delete_row {#int-bool}
+## delete_row(self, row_index, update_reference) {#int-bool}
 
 Deletes a row.
 
 
 
 ```python
+
 def delete_row(self, row_index, update_reference):
     ...
 ```

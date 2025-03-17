@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartcollection/add_floating_chart/
 is_root: false
 ---
 
-## add_floating_chart {#aspose.cells.charts.ChartType-int-int-int-int}
+## add_floating_chart(self, type, left, top, width, height) {#aspose.cells.charts.ChartType-int-int-int-int}
 
 Adds a chart to the collection.
 
@@ -20,6 +20,7 @@ Adds a chart to the collection.
 
 
 ```python
+
 def add_floating_chart(self, type, left, top, width, height):
     ...
 ```

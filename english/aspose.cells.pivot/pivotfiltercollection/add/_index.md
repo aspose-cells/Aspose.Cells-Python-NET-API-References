@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfiltercollection/add/
 is_root: false
 ---
 
-## add {#int-aspose.cells.pivot.PivotFilterType}
+## add(self, field_index, type) {#int-aspose.cells.pivot.PivotFilterType}
 
 Adds a PivotFilter Object to the specific type
 
@@ -20,6 +20,7 @@ the index of  the PivotFilter Object in this PivotFilterCollection.
 
 
 ```python
+
 def add(self, field_index, type):
     ...
 ```

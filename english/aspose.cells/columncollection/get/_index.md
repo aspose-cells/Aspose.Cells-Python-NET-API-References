@@ -8,13 +8,14 @@ url: /aspose.cells/columncollection/get/
 is_root: false
 ---
 
-## get {#int}
+## get(self, column_index) {#int}
 
 Add API for Python Via .Net.
 
 
 
 ```python
+
 def get(self, column_index):
     ...
 ```

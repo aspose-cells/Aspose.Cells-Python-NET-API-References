@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotareafilter/is_subtotal_set/
 is_root: false
 ---
 
-## is_subtotal_set {#aspose.cells.pivot.PivotFieldSubtotalType}
+## is_subtotal_set(self, subtotal_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
 
 Gets which subtotal is set for this filter.
 
@@ -20,6 +20,7 @@ Gets which subtotal is set for this filter.
 
 
 ```python
+
 def is_subtotal_set(self, subtotal_type):
     ...
 ```

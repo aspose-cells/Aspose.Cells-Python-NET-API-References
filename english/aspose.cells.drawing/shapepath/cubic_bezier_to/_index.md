@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapepath/cubic_bezier_to/
 is_root: false
 ---
 
-## cubic_bezier_to {#float-float-float-float-float-float}
+## cubic_bezier_to(self, ctr_x1, ctr_y1, ctr_x2, ctr_y2, end_x, end_y) {#float-float-float-float-float-float}
 
 Appends a cubic Bézier curve to the current figure. The starting point is the end point of the current figure.
 
 
 
 ```python
+
 def cubic_bezier_to(self, ctr_x1, ctr_y1, ctr_x2, ctr_y2, end_x, end_y):
     ...
 ```

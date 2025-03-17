@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/set_manual_group_field/
 is_root: false
 ---
 
-## set_manual_group_field {#int-float-float-list-float}
+## set_manual_group_field(self, base_field_index, start_val, end_val, group_by_list, interval_num) {#int-float-float-list-float}
 
 Sets manual field group by the PivotTable.
 
 
 
 ```python
+
 def set_manual_group_field(self, base_field_index, start_val, end_val, group_by_list, interval_num):
     ...
 ```
@@ -34,13 +35,14 @@ please use PivotField.GroupBy() method.
 This method will be removed 12 months later since October 2023. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## set_manual_group_field {#aspose.cells.pivot.PivotField-float-float-list-float}
+## set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list, interval_num) {#aspose.cells.pivot.PivotField-float-float-list-float}
 
 Sets manual field group by the PivotTable.
 
 
 
 ```python
+
 def set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list, interval_num):
     ...
 ```
@@ -60,13 +62,14 @@ please use PivotField.GroupBy() method.
 This method will be removed 12 months later since October 2023. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## set_manual_group_field {#int-DateTime-DateTime-list-int}
+## set_manual_group_field(self, base_field_index, start_val, end_val, group_by_list, interval_num) {#int-DateTime-DateTime-list-int}
 
 Sets manual field group by the PivotTable.
 
 
 
 ```python
+
 def set_manual_group_field(self, base_field_index, start_val, end_val, group_by_list, interval_num):
     ...
 ```
@@ -86,13 +89,14 @@ please use PivotField.GroupBy() method.
 This method will be removed 12 months later since October 2023. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## set_manual_group_field {#aspose.cells.pivot.PivotField-DateTime-DateTime-list-int}
+## set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list, interval_num) {#aspose.cells.pivot.PivotField-DateTime-DateTime-list-int}
 
 Sets manual field group by the PivotTable.
 
 
 
 ```python
+
 def set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list, interval_num):
     ...
 ```

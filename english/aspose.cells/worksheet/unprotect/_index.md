@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/unprotect/
 is_root: false
 ---
 
-## unprotect {#}
+## unprotect(self) {#}
 
 Unprotects worksheet.
 
 
 
 ```python
+
 def unprotect(self):
     ...
 ```
@@ -24,13 +25,14 @@ def unprotect(self):
 
 This method unprotects worksheet which is protected without password.
 
-## unprotect {#str}
+## unprotect(self, password) {#str}
 
 Unprotects worksheet.
 
 
 
 ```python
+
 def unprotect(self, password):
     ...
 ```

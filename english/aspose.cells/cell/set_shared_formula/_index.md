@@ -8,13 +8,14 @@ url: /aspose.cells/cell/set_shared_formula/
 is_root: false
 ---
 
-## set_shared_formula {#str-int-int}
+## set_shared_formula(self, shared_formula, row_number, column_number) {#str-int-int}
 
 Sets shared formulas to a range of cells.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number):
     ...
 ```
@@ -29,13 +30,14 @@ def set_shared_formula(self, shared_formula, row_number, column_number):
 
 
 
-## set_shared_formula {#str-int-int-aspose.cells.FormulaParseOptions}
+## set_shared_formula(self, shared_formula, row_number, column_number, options) {#str-int-int-aspose.cells.FormulaParseOptions}
 
 Sets shared formulas to a range of cells.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number, options):
     ...
 ```
@@ -49,13 +51,14 @@ def set_shared_formula(self, shared_formula, row_number, column_number, options)
 | options | [`FormulaParseOptions`](/cells/python-net/aspose.cells/formulaparseoptions) | Options for parsing the formula. |
 
 
-## set_shared_formula {#str-int-int-bool-bool}
+## set_shared_formula(self, shared_formula, row_number, column_number, is_r1c1, is_local) {#str-int-int-bool-bool}
 
 Sets a formula to a range of cells.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number, is_r1c1, is_local):
     ...
 ```
@@ -75,13 +78,14 @@ please use Cell.SetSharedFormula(string,int,int,FormulaParseOptions).
 This property will be removed 12 months later since December 2019.
 Aspose apologizes for any inconvenience you may have experienced.
 
-## set_shared_formula {#str-int-int-aspose.cells.FormulaParseOptions-list}
+## set_shared_formula(self, shared_formula, row_number, column_number, options, values) {#str-int-int-aspose.cells.FormulaParseOptions-list}
 
 Sets shared formulas to a range of cells.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number, options, values):
     ...
 ```

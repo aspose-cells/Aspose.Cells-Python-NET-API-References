@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotpagefields/add_page_field/
 is_root: false
 ---
 
-## add_page_field {#list}
+## add_page_field(self, page_items) {#list}
 
 Adds a page field.
 
 
 
 ```python
+
 def add_page_field(self, page_items):
     ...
 ```

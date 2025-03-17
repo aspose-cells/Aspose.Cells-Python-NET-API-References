@@ -8,13 +8,14 @@ url: /aspose.cells/range/set_outline_border/
 is_root: false
 ---
 
-## set_outline_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
+## set_outline_border(self, border_edge, border_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
 
 Sets outline border around a range of cells.
 
 
 
 ```python
+
 def set_outline_border(self, border_edge, border_style, border_color):
     ...
 ```
@@ -27,13 +28,14 @@ def set_outline_border(self, border_edge, border_style, border_color):
 | border_color | [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) | Border color. |
 
 
-## set_outline_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
+## set_outline_border(self, border_edge, border_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
 
 Sets outline border around a range of cells.
 
 
 
 ```python
+
 def set_outline_border(self, border_edge, border_style, border_color):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/loadfilter/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs one LoadFilter with default filter options LoadDataFilterOptions.All.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.cells.LoadDataFilterOptions}
+## \_\_init\_\_(self, opts) {#aspose.cells.LoadDataFilterOptions}
 
 Constructs one LoadFilter with given filter options.
 
 
 
 ```python
+
 def __init__(self, opts):
     ...
 ```

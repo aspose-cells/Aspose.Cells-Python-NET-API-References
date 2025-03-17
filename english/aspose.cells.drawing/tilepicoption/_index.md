@@ -19,7 +19,7 @@ The TilePicOption type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.drawing/tilepicoption/__init__/#) | Constructs a new instance of TilePicOption |
+| [`__init__(self)`](/cells/python-net/aspose.cells.drawing/tilepicoption/__init__/#) | Constructs a new instance of TilePicOption |
 
 
 ### Properties

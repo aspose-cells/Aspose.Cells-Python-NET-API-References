@@ -19,7 +19,7 @@ The PivotAreaFilter type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.pivot/pivotareafilter/__init__/#) | Constructs a new instance of PivotAreaFilter |
+| [`__init__(self)`](/cells/python-net/aspose.cells.pivot/pivotareafilter/__init__/#) | Constructs a new instance of PivotAreaFilter |
 
 
 ### Properties
@@ -31,8 +31,8 @@ The PivotAreaFilter type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [is_subtotal_set](/cells/python-net/aspose.cells.pivot/pivotareafilter/is_subtotal_set/#aspose.cells.pivot.PivotFieldSubtotalType) | Gets which subtotal is set for this filter. |
-| [set_subtotals](/cells/python-net/aspose.cells.pivot/pivotareafilter/set_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType-bool) | Subtotal for the filter. |
+| [`is_subtotal_set(self, subtotal_type)`](/cells/python-net/aspose.cells.pivot/pivotareafilter/is_subtotal_set/#aspose.cells.pivot.pivotfieldsubtotaltype) | Gets which subtotal is set for this filter. |
+| [`set_subtotals(self, subtotal_type, shown)`](/cells/python-net/aspose.cells.pivot/pivotareafilter/set_subtotals/#aspose.cells.pivot.pivotfieldsubtotaltype-bool) | Subtotal for the filter. |
 
 
 

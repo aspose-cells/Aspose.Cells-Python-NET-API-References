@@ -32,7 +32,7 @@ The Comment type exposes the following members:
 | [text_orientation_type](/cells/python-net/aspose.cells/comment/text_orientation_type) | Gets and sets the text orientation type of the comment. |
 | [text_horizontal_alignment](/cells/python-net/aspose.cells/comment/text_horizontal_alignment) | Gets and sets the text horizontal alignment type of the comment. |
 | [text_vertical_alignment](/cells/python-net/aspose.cells/comment/text_vertical_alignment) | Gets and sets the text vertical alignment type of the comment. |
-| [auto_size](/cells/python-net/aspose.cells/comment/auto_size) | Indicates if size of comment is adjusted automatically according to its content. |
+| [auto_size](/cells/python-net/aspose.cells/comment/auto_size) | Indicates if size of comment is adjusted automatically according to its content.<br/>Note: In some special cases (such as Mac environment), this setting may not take effect. If this setting does not take effect, please replace it with FitToTextSize(). |
 | [height_cm](/cells/python-net/aspose.cells/comment/height_cm) | Represents the height of the comment, in unit of centimeters. |
 | [width_cm](/cells/python-net/aspose.cells/comment/width_cm) | Represents the width of the comment, in unit of centimeters. |
 | [width](/cells/python-net/aspose.cells/comment/width) | Represents the width of the comment, in unit of pixels. |
@@ -44,10 +44,10 @@ The Comment type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [format_characters](/cells/python-net/aspose.cells/comment/format_characters/#int-int-aspose.cells.Font-aspose.cells.StyleFlag) | Format some characters with the font setting. |
-| [characters](/cells/python-net/aspose.cells/comment/characters/#int-int) | Returns a Characters object that represents a range of characters within the comment text. |
-| [get_characters](/cells/python-net/aspose.cells/comment/get_characters/#) | Returns all Characters objects <br/>that represents a range of characters within the comment text. |
-| [get_rich_formattings](/cells/python-net/aspose.cells/comment/get_rich_formattings/#) | Returns all Characters objects <br/>that represents a range of characters within the comment text. |
+| [`format_characters(self, start_index, length, font, flag)`](/cells/python-net/aspose.cells/comment/format_characters/#int-int-aspose.cells.font-aspose.cells.styleflag) | Format some characters with the font setting. |
+| [`characters(self, start_index, length)`](/cells/python-net/aspose.cells/comment/characters/#int-int) | Returns a Characters object that represents a range of characters within the comment text. |
+| [`get_characters(self)`](/cells/python-net/aspose.cells/comment/get_characters/#) | Returns all Characters objects <br/>that represents a range of characters within the comment text. |
+| [`get_rich_formattings(self)`](/cells/python-net/aspose.cells/comment/get_rich_formattings/#) | Returns all Characters objects <br/>that represents a range of characters within the comment text. |
 
 
 

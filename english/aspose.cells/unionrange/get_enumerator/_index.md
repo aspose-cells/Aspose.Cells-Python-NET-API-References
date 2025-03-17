@@ -8,7 +8,7 @@ url: /aspose.cells/unionrange/get_enumerator/
 is_root: false
 ---
 
-## get_enumerator {#}
+## get_enumerator(self) {#}
 
 Gets the enumerator for cells in this Range.
 
@@ -20,6 +20,7 @@ The cells enumerator
 
 
 ```python
+
 def get_enumerator(self):
     ...
 ```

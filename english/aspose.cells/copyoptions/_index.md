@@ -19,7 +19,7 @@ The CopyOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/copyoptions/__init__/#) | CopyOptions constructor. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/copyoptions/__init__/#) | CopyOptions constructor. |
 
 
 ### Properties

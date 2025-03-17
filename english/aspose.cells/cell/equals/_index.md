@@ -8,7 +8,7 @@ url: /aspose.cells/cell/equals/
 is_root: false
 ---
 
-## equals {#aspose.cells.Cell}
+## equals(self, cell) {#aspose.cells.Cell}
 
 Checks whether this object refers to the same cell with another cell object.
 
@@ -20,6 +20,7 @@ true if two cell objects refers to the same cell.
 
 
 ```python
+
 def equals(self, cell):
     ...
 ```

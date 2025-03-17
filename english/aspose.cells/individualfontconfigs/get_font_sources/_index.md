@@ -8,7 +8,7 @@ url: /aspose.cells/individualfontconfigs/get_font_sources/
 is_root: false
 ---
 
-## get_font_sources {#}
+## get_font_sources(self) {#}
 
 Gets a copy of the array that contains the list of sources
 
@@ -20,6 +20,7 @@ Gets a copy of the array that contains the list of sources
 
 
 ```python
+
 def get_font_sources(self):
     ...
 ```

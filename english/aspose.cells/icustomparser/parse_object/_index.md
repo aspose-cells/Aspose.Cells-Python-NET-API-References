@@ -8,7 +8,7 @@ url: /aspose.cells/icustomparser/parse_object/
 is_root: false
 ---
 
-## parse_object {#str}
+## parse_object(self, value) {#str}
 
 Parses given string to proper value object.
 
@@ -20,6 +20,7 @@ Parsed value object from given string. If given string cannot be parsed to prope
 
 
 ```python
+
 def parse_object(self, value):
     ...
 ```

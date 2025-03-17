@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotformatconditioncollection/add/
 is_root: false
 ---
 
-## add {#}
+## add(self) {#}
 
 
 
 
 
 ```python
+
 def add(self):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/threadinterruptmonitor/__init__/
 is_root: false
 ---
 
-## __init__ {#bool}
+## \_\_init\_\_(self, terminate_without_exception) {#bool}
 
 Constructs one interruption monitor.
 
 
 
 ```python
+
 def __init__(self, terminate_without_exception):
     ...
 ```

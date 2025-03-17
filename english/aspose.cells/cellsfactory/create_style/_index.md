@@ -8,7 +8,7 @@ url: /aspose.cells/cellsfactory/create_style/
 is_root: false
 ---
 
-## create_style {#}
+## create_style(self) {#}
 
 Creates a new style.
 
@@ -20,6 +20,7 @@ Returns a style object.
 
 
 ```python
+
 def create_style(self):
     ...
 ```

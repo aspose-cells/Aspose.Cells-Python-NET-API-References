@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_months/
 is_root: false
 ---
 
-## get_text_of_months {#}
+## get_text_of_months(self) {#}
 
 Gets the local text of "Months".
 
@@ -20,6 +20,7 @@ Gets the local text of "Months".
 
 
 ```python
+
 def get_text_of_months(self):
     ...
 ```

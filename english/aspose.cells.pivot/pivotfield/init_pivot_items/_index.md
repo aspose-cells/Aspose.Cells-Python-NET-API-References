@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/init_pivot_items/
 is_root: false
 ---
 
-## init_pivot_items {#}
+## init_pivot_items(self) {#}
 
 Init the pivot items of the pivot field
 
 
 
 ```python
+
 def init_pivot_items(self):
     ...
 ```

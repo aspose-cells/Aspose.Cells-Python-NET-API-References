@@ -19,8 +19,8 @@ The WorkbookMetadata type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.metadata/workbookmetadata/__init__/#str-aspose.cells.metadata.MetadataOptions) | Create the meta data object. |
-| [__init__](/cells/python-net/aspose.cells.metadata/workbookmetadata/__init__/#io.RawIOBase-aspose.cells.metadata.MetadataOptions) | Create the meta data object. |
+| [`__init__(self, file_name, options)`](/cells/python-net/aspose.cells.metadata/workbookmetadata/__init__/#str-aspose.cells.metadata.metadataoptions) | Create the meta data object. |
+| [`__init__(self, stream, options)`](/cells/python-net/aspose.cells.metadata/workbookmetadata/__init__/#io.rawiobase-aspose.cells.metadata.metadataoptions) | Create the meta data object. |
 
 
 ### Properties
@@ -34,8 +34,8 @@ The WorkbookMetadata type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [save](/cells/python-net/aspose.cells.metadata/workbookmetadata/save/#str) | Save the modified metadata to the file. |
-| [save](/cells/python-net/aspose.cells.metadata/workbookmetadata/save/#io.RawIOBase) | Save the modified metadata to the stream. |
+| [`save(self, file_name)`](/cells/python-net/aspose.cells.metadata/workbookmetadata/save/#str) | Save the modified metadata to the file. |
+| [`save(self, stream)`](/cells/python-net/aspose.cells.metadata/workbookmetadata/save/#io.rawiobase) | Save the modified metadata to the stream. |
 
 
 

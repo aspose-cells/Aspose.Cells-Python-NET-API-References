@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/format_row/
 is_root: false
 ---
 
-## format_row {#int-aspose.cells.Style}
+## format_row(self, row, style) {#int-aspose.cells.Style}
 
 Format the row data in the pivottable area
 
 
 
 ```python
+
 def format_row(self, row, style):
     ...
 ```

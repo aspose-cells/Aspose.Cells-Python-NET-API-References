@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotconditionalformat/add_cell_area/
 is_root: false
 ---
 
-## add_cell_area {#aspose.cells.CellArea}
+## add_cell_area(self, ca) {#aspose.cells.CellArea}
 
 Adds an area based on pivot table view.
 
 
 
 ```python
+
 def add_cell_area(self, ca):
     ...
 ```

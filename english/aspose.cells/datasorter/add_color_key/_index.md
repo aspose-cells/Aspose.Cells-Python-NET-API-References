@@ -8,13 +8,14 @@ url: /aspose.cells/datasorter/add_color_key/
 is_root: false
 ---
 
-## add_color_key {#int-aspose.cells.SortOnType-aspose.cells.SortOrder-aspose.pydrawing.Color}
+## add_color_key(self, key, type, order, color) {#int-aspose.cells.SortOnType-aspose.cells.SortOrder-aspose.pydrawing.Color}
 
 Adds color sort key.
 
 
 
 ```python
+
 def add_color_key(self, key, type, order, color):
     ...
 ```

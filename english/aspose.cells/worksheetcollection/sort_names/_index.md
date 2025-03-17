@@ -8,13 +8,14 @@ url: /aspose.cells/worksheetcollection/sort_names/
 is_root: false
 ---
 
-## sort_names {#}
+## sort_names(self) {#}
 
 Sorts the defined names.
 
 
 
 ```python
+
 def sort_names(self):
     ...
 ```

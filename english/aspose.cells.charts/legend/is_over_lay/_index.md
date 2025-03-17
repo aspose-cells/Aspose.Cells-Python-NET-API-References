@@ -3,7 +3,7 @@ title: is_over_lay property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 300
 url: /aspose.cells.charts/legend/is_over_lay/
 is_root: false
 ---

@@ -8,13 +8,14 @@ url: /aspose.cells/cells/clear/
 is_root: false
 ---
 
-## clear {#}
+## clear(self) {#}
 
 Clears all data of the worksheet.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

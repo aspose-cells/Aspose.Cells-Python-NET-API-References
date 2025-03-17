@@ -8,13 +8,14 @@ url: /aspose.cells/range/copy/
 is_root: false
 ---
 
-## copy {#aspose.cells.Range}
+## copy(self, range) {#aspose.cells.Range}
 
 Copies data (including formulas), formatting, drawing objects etc. from a source range.
 
 
 
 ```python
+
 def copy(self, range):
     ...
 ```
@@ -44,13 +45,14 @@ workbook.save("book1.xlsm")
 ```
 
 
-## copy {#aspose.cells.Range-aspose.cells.PasteOptions}
+## copy(self, range, options) {#aspose.cells.Range-aspose.cells.PasteOptions}
 
 Copying the range with paste special options.
 
 
 
 ```python
+
 def copy(self, range, options):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapepath/arc_to/
 is_root: false
 ---
 
-## arc_to {#float-float-float-float}
+## arc_to(self, w_r, h_r, st_ang, sw_ang) {#float-float-float-float}
 
 Appends an elliptical arc to the current figure. The starting point is the end point of the current figure.
 
 
 
 ```python
+
 def arc_to(self, w_r, h_r, st_ang, sw_ang):
     ...
 ```

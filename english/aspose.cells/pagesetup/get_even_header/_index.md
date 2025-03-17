@@ -8,13 +8,14 @@ url: /aspose.cells/pagesetup/get_even_header/
 is_root: false
 ---
 
-## get_even_header {#int}
+## get_even_header(self, section) {#int}
 
 Gets a script formatting the even header of an Excel file.
 
 
 
 ```python
+
 def get_even_header(self, section):
     ...
 ```

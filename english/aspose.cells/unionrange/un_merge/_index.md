@@ -8,13 +8,14 @@ url: /aspose.cells/unionrange/un_merge/
 is_root: false
 ---
 
-## un_merge {#}
+## un_merge(self) {#}
 
 Unmerges merged cells of this range.
 
 
 
 ```python
+
 def un_merge(self):
     ...
 ```

@@ -3,7 +3,7 @@ title: PptxSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1280
+weight: 1290
 url: /aspose.cells/pptxsaveoptions/
 is_root: false
 ---
@@ -25,8 +25,8 @@ The PptxSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/pptxsaveoptions/__init__/#) | Represents the pptx save options. |
-| [__init__](/cells/python-net/aspose.cells/pptxsaveoptions/__init__/#bool) | Represents options of saving .pptx file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/pptxsaveoptions/__init__/#) | Represents the pptx save options. |
+| [`__init__(self, save_as_image)`](/cells/python-net/aspose.cells/pptxsaveoptions/__init__/#bool) | Represents options of saving .pptx file. |
 
 
 ### Properties

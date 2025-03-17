@@ -8,13 +8,14 @@ url: /aspose.cells/style/set_custom/
 is_root: false
 ---
 
-## set_custom {#str-bool}
+## set_custom(self, custom, builtin_preference) {#str-bool}
 
 Sets the Custom number format string of a cell.
 
 
 
 ```python
+
 def set_custom(self, custom, builtin_preference):
     ...
 ```

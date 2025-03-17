@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/get_table_row_type_of_data/
 is_root: false
 ---
 
-## get_table_row_type_of_data {#}
+## get_table_row_type_of_data(self) {#}
 
 Gets the type name of table rows that consists of data region of referenced table.
 Default is "Data", so in formula "#Data" represents the data region of the table.
@@ -21,6 +21,7 @@ the type name of table rows
 
 
 ```python
+
 def get_table_row_type_of_data(self):
     ...
 ```

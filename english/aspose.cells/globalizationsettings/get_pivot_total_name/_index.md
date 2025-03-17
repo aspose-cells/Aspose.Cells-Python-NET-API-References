@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_pivot_total_name/
 is_root: false
 ---
 
-## get_pivot_total_name {#}
+## get_pivot_total_name(self) {#}
 
 Gets the name of "Total" label in the PivotTable.
 You need to override this method when the PivotTable contains two or more PivotFields in the data area.
@@ -21,6 +21,7 @@ The name of "Total" label
 
 
 ```python
+
 def get_pivot_total_name(self):
     ...
 ```

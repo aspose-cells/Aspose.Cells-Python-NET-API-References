@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_signature_line/
 is_root: false
 ---
 
-## add_signature_line {#int-int-aspose.cells.drawing.SignatureLine}
+## add_signature_line(self, upper_left_row, upper_left_column, signature_line) {#int-int-aspose.cells.drawing.SignatureLine}
 
 Adds a Signature Line to the worksheet.
 
@@ -20,6 +20,7 @@ Adds a Signature Line to the worksheet.
 
 
 ```python
+
 def add_signature_line(self, upper_left_row, upper_left_column, signature_line):
     ...
 ```

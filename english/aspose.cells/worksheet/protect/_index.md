@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/protect/
 is_root: false
 ---
 
-## protect {#aspose.cells.ProtectionType}
+## protect(self, type) {#aspose.cells.ProtectionType}
 
 Protects worksheet.
 
 
 
 ```python
+
 def protect(self, type):
     ...
 ```
@@ -27,13 +28,14 @@ def protect(self, type):
 
 This method protects worksheet without password. It can protect worksheet in all versions of Excel file.
 
-## protect {#aspose.cells.ProtectionType-str-str}
+## protect(self, type, password, old_password) {#aspose.cells.ProtectionType-str-str}
 
 Protects worksheet.
 
 
 
 ```python
+
 def protect(self, type, password, old_password):
     ...
 ```

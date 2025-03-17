@@ -8,7 +8,7 @@ url: /aspose.cells/threadedcommentcollection/add/
 is_root: false
 ---
 
-## add {#str-aspose.cells.ThreadedCommentAuthor}
+## add(self, text, author) {#str-aspose.cells.ThreadedCommentAuthor}
 
 Adds a threaded comment;
 
@@ -20,6 +20,7 @@ Adds a threaded comment;
 
 
 ```python
+
 def add(self, text, author):
     ...
 ```

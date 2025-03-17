@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotpagefields/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Represents the pivot page field items.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

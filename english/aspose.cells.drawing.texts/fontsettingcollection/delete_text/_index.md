@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.texts/fontsettingcollection/delete_text/
 is_root: false
 ---
 
-## delete_text {#int-int}
+## delete_text(self, index, count) {#int-int}
 
 Delete some characters.
 
 
 
 ```python
+
 def delete_text(self, index, count):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.charts/chartpointcollection/remove_at/
 is_root: false
 ---
 
-## remove_at {#int}
+## remove_at(self, index) {#int}
 
 Removes point at the index of the series..
 
 
 
 ```python
+
 def remove_at(self, index):
     ...
 ```

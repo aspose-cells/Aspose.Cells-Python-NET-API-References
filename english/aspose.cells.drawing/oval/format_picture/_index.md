@@ -3,7 +3,7 @@ title: format_picture property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells.drawing/oval/format_picture/
 is_root: false
 ---

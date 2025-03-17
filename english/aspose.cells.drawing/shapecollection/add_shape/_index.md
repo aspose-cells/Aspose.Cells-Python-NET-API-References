@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_shape/
 is_root: false
 ---
 
-## add_shape {#aspose.cells.drawing.MsoDrawingType-int-int-int-int-int-int}
+## add_shape(self, type, upper_left_row, top, upper_left_column, left, height, width) {#aspose.cells.drawing.MsoDrawingType-int-int-int-int-int-int}
 
 Adds a Shape to the worksheet.
 
@@ -20,6 +20,7 @@ A Shape object.
 
 
 ```python
+
 def add_shape(self, type, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

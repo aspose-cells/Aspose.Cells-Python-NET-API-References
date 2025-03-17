@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbaproject/validate_password/
 is_root: false
 ---
 
-## validate_password {#str}
+## validate_password(self, password) {#str}
 
 Validates protection password.
 
@@ -20,6 +20,7 @@ Whether password is the protection password of this VBA project
 
 
 ```python
+
 def validate_password(self, password):
     ...
 ```

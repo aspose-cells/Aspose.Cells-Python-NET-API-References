@@ -8,13 +8,14 @@ url: /aspose.cells/txtloadoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Creates the options for loading text file.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -24,13 +25,14 @@ def __init__(self):
 
 The default load file type is CSV .
 
-## __init__ {#aspose.cells.LoadFormat}
+## \_\_init\_\_(self, load_format) {#aspose.cells.LoadFormat}
 
 Creates the options for loading text file.
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```

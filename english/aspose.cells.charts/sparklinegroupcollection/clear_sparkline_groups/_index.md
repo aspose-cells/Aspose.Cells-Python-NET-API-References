@@ -8,13 +8,14 @@ url: /aspose.cells.charts/sparklinegroupcollection/clear_sparkline_groups/
 is_root: false
 ---
 
-## clear_sparkline_groups {#aspose.cells.CellArea}
+## clear_sparkline_groups(self, cell_area) {#aspose.cells.CellArea}
 
 Clears the sparkline groups that overlaps an area of cells.
 
 
 
 ```python
+
 def clear_sparkline_groups(self, cell_area):
     ...
 ```

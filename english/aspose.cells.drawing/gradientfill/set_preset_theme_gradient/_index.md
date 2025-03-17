@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/gradientfill/set_preset_theme_gradient/
 is_root: false
 ---
 
-## set_preset_theme_gradient {#aspose.cells.drawing.PresetThemeGradientType-aspose.cells.ThemeColorType}
+## set_preset_theme_gradient(self, gradient_type, theme_color_type) {#aspose.cells.drawing.PresetThemeGradientType-aspose.cells.ThemeColorType}
 
 Sets preset theme gradient fill.
 
 
 
 ```python
+
 def set_preset_theme_gradient(self, gradient_type, theme_color_type):
     ...
 ```

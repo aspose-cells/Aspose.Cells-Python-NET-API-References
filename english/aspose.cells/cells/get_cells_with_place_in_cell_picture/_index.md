@@ -3,12 +3,12 @@ title: get_cells_with_place_in_cell_picture method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells/cells/get_cells_with_place_in_cell_picture/
 is_root: false
 ---
 
-## get_cells_with_place_in_cell_picture {#}
+## get_cells_with_place_in_cell_picture(self) {#}
 
 Gets all cells that contain embedded picture.
 
@@ -20,6 +20,7 @@ Enumerator to enumerate all Cell objects that contain embedded picture
 
 
 ```python
+
 def get_cells_with_place_in_cell_picture(self):
     ...
 ```

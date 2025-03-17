@@ -19,7 +19,7 @@ The ExportTableOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/exporttableoptions/__init__/#) | Constructs a new instance of ExportTableOptions |
+| [`__init__(self)`](/cells/python-net/aspose.cells/exporttableoptions/__init__/#) | Constructs a new instance of ExportTableOptions |
 
 
 ### Properties
@@ -43,7 +43,7 @@ The ExportTableOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [preprocess_exported_value](/cells/python-net/aspose.cells/exporttableoptions/preprocess_exported_value/#int-int-aspose.cells.CellValue) | Preprocess the value of current cell to be exported. |
+| [`preprocess_exported_value(self, cell_row, cell_column, value)`](/cells/python-net/aspose.cells/exporttableoptions/preprocess_exported_value/#int-int-aspose.cells.cellvalue) | Preprocess the value of current cell to be exported. |
 
 
 

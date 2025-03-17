@@ -3,7 +3,7 @@ title: FormulaParseOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 790
 url: /aspose.cells/formulaparseoptions/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The FormulaParseOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/formulaparseoptions/__init__/#) | Constructs a new instance of FormulaParseOptions |
+| [`__init__(self)`](/cells/python-net/aspose.cells/formulaparseoptions/__init__/#) | Constructs a new instance of FormulaParseOptions |
 
 
 ### Properties

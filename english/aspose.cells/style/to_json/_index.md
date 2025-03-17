@@ -8,7 +8,7 @@ url: /aspose.cells/style/to_json/
 is_root: false
 ---
 
-## to_json {#}
+## to_json(self) {#}
 
 Convert [`Style`](/cells/python-net/aspose.cells/style) to JSON struct data.
 
@@ -20,6 +20,7 @@ Convert [`Style`](/cells/python-net/aspose.cells/style) to JSON struct data.
 
 
 ```python
+
 def to_json(self):
     ...
 ```

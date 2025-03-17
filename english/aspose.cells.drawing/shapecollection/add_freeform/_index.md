@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_freeform/
 is_root: false
 ---
 
-## add_freeform {#int-int-int-int-int-int-list}
+## add_freeform(self, upper_left_row, top, upper_left_column, left, height, width, paths) {#int-int-int-int-int-int-list}
 
 Adds a freeform shape to the worksheet.
 
@@ -20,6 +20,7 @@ A freeform shape.
 
 
 ```python
+
 def add_freeform(self, upper_left_row, top, upper_left_column, left, height, width, paths):
     ...
 ```

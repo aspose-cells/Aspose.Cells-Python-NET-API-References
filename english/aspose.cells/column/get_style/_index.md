@@ -8,13 +8,14 @@ url: /aspose.cells/column/get_style/
 is_root: false
 ---
 
-## get_style {#}
+## get_style(self) {#}
 
 Gets the style of this column.
 
 
 
 ```python
+
 def get_style(self):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chart/is_chart_data_changed/
 is_root: false
 ---
 
-## is_chart_data_changed {#}
+## is_chart_data_changed(self) {#}
 
 Detects if a chart's data source has changed.
 
@@ -20,6 +20,7 @@ Returns true if the chart has changed otherwise returns false
 
 
 ```python
+
 def is_chart_data_changed(self):
     ...
 ```

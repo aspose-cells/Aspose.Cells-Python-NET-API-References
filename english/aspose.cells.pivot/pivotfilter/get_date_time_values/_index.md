@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfilter/get_date_time_values/
 is_root: false
 ---
 
-## get_date_time_values {#}
+## get_date_time_values(self) {#}
 
 Gets values of the number filter.
 
@@ -20,6 +20,7 @@ Gets values of the number filter.
 
 
 ```python
+
 def get_date_time_values(self):
     ...
 ```

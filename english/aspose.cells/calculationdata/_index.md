@@ -32,9 +32,9 @@ The CalculationData type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_param_value](/cells/python-net/aspose.cells/calculationdata/get_param_value/#int) | Gets the represented value object of the parameter at given index. |
-| [get_param_value_in_array_mode](/cells/python-net/aspose.cells/calculationdata/get_param_value_in_array_mode/#int-int-int) | Gets the value(s) of the parameter at given index.<br/>If the parameter is some kind of expression that needs to be calculated,<br/>then it will be calculated in array mode. |
-| [get_param_text](/cells/python-net/aspose.cells/calculationdata/get_param_text/#int) | Gets the literal text of the parameter at given index. |
+| [`get_param_value(self, index)`](/cells/python-net/aspose.cells/calculationdata/get_param_value/#int) | Gets the represented value object of the parameter at given index. |
+| [`get_param_value_in_array_mode(self, index, max_row_count, max_column_count)`](/cells/python-net/aspose.cells/calculationdata/get_param_value_in_array_mode/#int-int-int) | Gets the value(s) of the parameter at given index.<br/>If the parameter is some kind of expression that needs to be calculated,<br/>then it will be calculated in array mode. |
+| [`get_param_text(self, index)`](/cells/python-net/aspose.cells/calculationdata/get_param_text/#int) | Gets the literal text of the parameter at given index. |
 
 
 

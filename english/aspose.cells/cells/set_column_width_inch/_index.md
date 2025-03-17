@@ -3,18 +3,19 @@ title: set_column_width_inch method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 850
 url: /aspose.cells/cells/set_column_width_inch/
 is_root: false
 ---
 
-## set_column_width_inch {#int-float}
+## set_column_width_inch(self, column, inches) {#int-float}
 
 Sets column width in unit of inches  in normal view.
 
 
 
 ```python
+
 def set_column_width_inch(self, column, inches):
     ...
 ```

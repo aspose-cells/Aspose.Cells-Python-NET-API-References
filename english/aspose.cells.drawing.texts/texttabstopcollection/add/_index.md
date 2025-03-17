@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.texts/texttabstopcollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.drawing.texts.TextTabAlignmentType-float}
+## add(self, tab_alignment, tab_position) {#aspose.cells.drawing.texts.TextTabAlignmentType-float}
 
 Adds a tab stop.
 
@@ -20,6 +20,7 @@ Adds a tab stop.
 
 
 ```python
+
 def add(self, tab_alignment, tab_position):
     ...
 ```

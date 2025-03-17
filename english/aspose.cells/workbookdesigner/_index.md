@@ -3,7 +3,7 @@ title: WorkbookDesigner class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1740
+weight: 1750
 url: /aspose.cells/workbookdesigner/
 is_root: false
 ---
@@ -19,8 +19,8 @@ The WorkbookDesigner type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/workbookdesigner/__init__/#) | Initializes a new instance of the [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner) class. |
-| [__init__](/cells/python-net/aspose.cells/workbookdesigner/__init__/#aspose.cells.Workbook) | Initializes a new instance of the [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner) class. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/workbookdesigner/__init__/#) | Initializes a new instance of the [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner) class. |
+| [`__init__(self, workbook)`](/cells/python-net/aspose.cells/workbookdesigner/__init__/#aspose.cells.workbook) | Initializes a new instance of the [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner) class. |
 
 
 ### Properties
@@ -38,14 +38,15 @@ The WorkbookDesigner type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_data_source](/cells/python-net/aspose.cells/workbookdesigner/set_data_source/#str-aspose.cells.ICellsDataTable) | Sets data source of a [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable) object. |
-| [set_data_source](/cells/python-net/aspose.cells/workbookdesigner/set_data_source/#str-any) | Sets data binding to a variable. |
-| [process](/cells/python-net/aspose.cells/workbookdesigner/process/#) | Processes the smart markers and populates the data source values. |
-| [process](/cells/python-net/aspose.cells/workbookdesigner/process/#bool) | Processes the smart markers and populates the data source values. |
-| [process](/cells/python-net/aspose.cells/workbookdesigner/process/#int-bool) | Processes the smart markers and populates the data source values. |
-| [clear_data_source](/cells/python-net/aspose.cells/workbookdesigner/clear_data_source/#) | Clears all data sources. |
-| [set_json_data_source](/cells/python-net/aspose.cells/workbookdesigner/set_json_data_source/#str-str) |  |
-| [get_smart_markers](/cells/python-net/aspose.cells/workbookdesigner/get_smart_markers/#) | Returns a collection of smart markers in a spreadsheet. |
+| [`set_data_source(self, data_source, cells_data_table)`](/cells/python-net/aspose.cells/workbookdesigner/set_data_source/#str-aspose.cells.icellsdatatable) | Sets data source of a [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable) object. |
+| [`set_data_source(self, variable, data)`](/cells/python-net/aspose.cells/workbookdesigner/set_data_source/#str-any) | Sets data binding to a variable. |
+| [`process(self, range, is_preserved)`](/cells/python-net/aspose.cells/workbookdesigner/process/#aspose.cells.range-bool) | Processes the smart markers and populates the data source values. |
+| [`process(self)`](/cells/python-net/aspose.cells/workbookdesigner/process/#) | Processes the smart markers and populates the data source values. |
+| [`process(self, is_preserved)`](/cells/python-net/aspose.cells/workbookdesigner/process/#bool) | Processes the smart markers and populates the data source values. |
+| [`process(self, sheet_index, is_preserved)`](/cells/python-net/aspose.cells/workbookdesigner/process/#int-bool) | Processes the smart markers and populates the data source values. |
+| [`clear_data_source(self)`](/cells/python-net/aspose.cells/workbookdesigner/clear_data_source/#) | Clears all data sources. |
+| [`set_json_data_source(self, variable, data)`](/cells/python-net/aspose.cells/workbookdesigner/set_json_data_source/#str-str) |  |
+| [`get_smart_markers(self)`](/cells/python-net/aspose.cells/workbookdesigner/get_smart_markers/#) | Returns a collection of smart markers in a spreadsheet. |
 
 
 

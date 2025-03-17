@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chart/get_chart_data_range/
 is_root: false
 ---
 
-## get_chart_data_range {#}
+## get_chart_data_range(self) {#}
 
 Gets the data source range of the chart.
 
@@ -20,6 +20,7 @@ The data source.
 
 
 ```python
+
 def get_chart_data_range(self):
     ...
 ```

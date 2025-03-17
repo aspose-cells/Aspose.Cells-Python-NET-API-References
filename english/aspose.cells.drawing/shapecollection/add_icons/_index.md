@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
 
-## add_icons {#int-int-int-int-int-int-bytes-bytes}
+## add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
 
 Adds svg image.
 
@@ -20,6 +20,7 @@ Adds svg image.
 
 
 ```python
+
 def add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data):
     ...
 ```

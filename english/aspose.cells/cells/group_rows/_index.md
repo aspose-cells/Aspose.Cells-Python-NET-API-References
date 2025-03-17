@@ -3,18 +3,19 @@ title: group_rows method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 570
 url: /aspose.cells/cells/group_rows/
 is_root: false
 ---
 
-## group_rows {#int-int}
+## group_rows(self, first_index, last_index) {#int-int}
 
 Groups rows.
 
 
 
 ```python
+
 def group_rows(self, first_index, last_index):
     ...
 ```
@@ -26,13 +27,14 @@ def group_rows(self, first_index, last_index):
 | last_index | int | The last row index to be grouped. |
 
 
-## group_rows {#int-int-bool}
+## group_rows(self, first_index, last_index, is_hidden) {#int-int-bool}
 
 Groups rows.
 
 
 
 ```python
+
 def group_rows(self, first_index, last_index, is_hidden):
     ...
 ```

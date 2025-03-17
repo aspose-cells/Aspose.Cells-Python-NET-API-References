@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the startup path, which is referred to by some external formula references.
+### Definition:
+```python
+@property
+def startup_path(self):
+    ...
+@staticmethod
+def set_startup_path(value):
+    ...
+```
 
 ### See Also
 * module [`aspose.cells`](../../)

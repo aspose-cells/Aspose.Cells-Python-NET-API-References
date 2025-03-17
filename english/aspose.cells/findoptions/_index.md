@@ -19,7 +19,7 @@ The FindOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/findoptions/__init__/#) | Constructs a new instance of FindOptions |
+| [`__init__(self)`](/cells/python-net/aspose.cells/findoptions/__init__/#) | Constructs a new instance of FindOptions |
 
 
 ### Properties
@@ -34,7 +34,7 @@ The FindOptions type exposes the following members:
 | [seach_order_by_rows](/cells/python-net/aspose.cells/findoptions/seach_order_by_rows) | Indicates whether search order by rows or columns. |
 | [search_order_by_rows](/cells/python-net/aspose.cells/findoptions/search_order_by_rows) | Indicates whether search order by rows or columns. |
 | [look_in_type](/cells/python-net/aspose.cells/findoptions/look_in_type) | Look in type. |
-| [regex_key](/cells/python-net/aspose.cells/findoptions/regex_key) | Indicates whether the searched key is regex.<br/>If true the searched key will be taken as regex and parsed. Otherwise the key will be parsed according to the rules in ms excel. |
+| [regex_key](/cells/python-net/aspose.cells/findoptions/regex_key) | Indicates whether the searched key is regex.<br/>If true the searched key will be taken as regex and parsed.<br/>Otherwise the key will be parsed according to the rules in ms excel. |
 | [value_type_sensitive](/cells/python-net/aspose.cells/findoptions/value_type_sensitive) | Indicates whether searched cell value type should be same with the searched key. |
 | [style](/cells/python-net/aspose.cells/findoptions/style) | The format to search for. |
 | [convert_numeric_data](/cells/python-net/aspose.cells/findoptions/convert_numeric_data) | Gets or sets a value that indicates whether converting the searched string value to numeric data. |
@@ -43,8 +43,8 @@ The FindOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_range](/cells/python-net/aspose.cells/findoptions/get_range/#) | Gets and sets the searched range. |
-| [set_range](/cells/python-net/aspose.cells/findoptions/set_range/#aspose.cells.CellArea) | Sets the searched range. |
+| [`get_range(self)`](/cells/python-net/aspose.cells/findoptions/get_range/#) | Gets and sets the searched range. |
+| [`set_range(self, ca)`](/cells/python-net/aspose.cells/findoptions/set_range/#aspose.cells.cellarea) | Sets the searched range. |
 
 
 

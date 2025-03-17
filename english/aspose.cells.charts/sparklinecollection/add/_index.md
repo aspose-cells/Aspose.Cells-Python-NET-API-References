@@ -8,13 +8,14 @@ url: /aspose.cells.charts/sparklinecollection/add/
 is_root: false
 ---
 
-## add {#str-int-int}
+## add(self, data_range, row, column) {#str-int-int}
 
 Add a sparkline.
 
 
 
 ```python
+
 def add(self, data_range, row, column):
     ...
 ```

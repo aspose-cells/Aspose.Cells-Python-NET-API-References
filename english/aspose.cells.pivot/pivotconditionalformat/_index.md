@@ -28,11 +28,11 @@ The PivotConditionalFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_field_area](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_field_area/#aspose.cells.pivot.PivotFieldType-str) | Adds an area of pivot field. |
-| [add_field_area](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_field_area/#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField) | Adds an area of pivot field. |
-| [get_cell_areas](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/get_cell_areas/#) | Gets all cell areas where this conditional format applies to. |
-| [add_cell_area](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_cell_area/#aspose.cells.CellArea) | Adds an area based on pivot table view. |
-| [apply_to](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/apply_to/#int-int-aspose.cells.pivot.PivotConditionFormatScopeType) | Applies the conditional format to range.<br/>Only for the data region. |
+| [`add_field_area(self, axis_type, field_name)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_field_area/#aspose.cells.pivot.pivotfieldtype-str) | Adds an area of pivot field. |
+| [`add_field_area(self, axis_type, field)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_field_area/#aspose.cells.pivot.pivotfieldtype-aspose.cells.pivot.pivotfield) | Adds an area of pivot field. |
+| [`get_cell_areas(self)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/get_cell_areas/#) | Gets all cell areas where this conditional format applies to. |
+| [`add_cell_area(self, ca)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_cell_area/#aspose.cells.cellarea) | Adds an area based on pivot table view. |
+| [`apply_to(self, row, column, scope)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/apply_to/#int-int-aspose.cells.pivot.pivotconditionformatscopetype) | Applies the conditional format to range.<br/>Only for the data region. |
 
 
 

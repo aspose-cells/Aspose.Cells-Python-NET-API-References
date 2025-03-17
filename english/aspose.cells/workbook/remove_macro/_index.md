@@ -3,18 +3,19 @@ title: remove_macro method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells/workbook/remove_macro/
 is_root: false
 ---
 
-## remove_macro {#}
+## remove_macro(self) {#}
 
 Removes VBA/macro from this spreadsheet.
 
 
 
 ```python
+
 def remove_macro(self):
     ...
 ```

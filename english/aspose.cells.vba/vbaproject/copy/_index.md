@@ -8,13 +8,14 @@ url: /aspose.cells.vba/vbaproject/copy/
 is_root: false
 ---
 
-## copy {#aspose.cells.vba.VbaProject}
+## copy(self, source) {#aspose.cells.vba.VbaProject}
 
 Copy VBA project from other file.
 
 
 
 ```python
+
 def copy(self, source):
     ...
 ```

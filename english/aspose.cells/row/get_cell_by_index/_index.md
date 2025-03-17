@@ -8,7 +8,7 @@ url: /aspose.cells/row/get_cell_by_index/
 is_root: false
 ---
 
-## get_cell_by_index {#int}
+## get_cell_by_index(self, index) {#int}
 
 Get the cell by specific index in the cells collection of this row.
 
@@ -20,6 +20,7 @@ The Cell object at given position.
 
 
 ```python
+
 def get_cell_by_index(self, index):
     ...
 ```

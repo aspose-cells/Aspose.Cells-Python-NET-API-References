@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapecollection/remove_a_shape/
 is_root: false
 ---
 
-## remove_a_shape {#aspose.cells.drawing.Shape}
+## remove_a_shape(self, shape) {#aspose.cells.drawing.Shape}
 
 Add API for Python Via .Net.since this API is unsupported
 
 
 
 ```python
+
 def remove_a_shape(self, shape):
     ...
 ```

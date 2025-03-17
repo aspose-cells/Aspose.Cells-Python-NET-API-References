@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/add_copy/
 is_root: false
 ---
 
-## add_copy {#str}
+## add_copy(self, sheet_name) {#str}
 
 Adds a worksheet to the collection and copies data from an existed worksheet.
 
@@ -20,6 +20,7 @@ Adds a worksheet to the collection and copies data from an existed worksheet.
 
 
 ```python
+
 def add_copy(self, sheet_name):
     ...
 ```
@@ -36,7 +37,7 @@ def add_copy(self, sheet_name):
 
 
 
-## add_copy {#int}
+## add_copy(self, sheet_index) {#int}
 
 Adds a worksheet to the collection and copies data from an existed worksheet.
 
@@ -48,6 +49,7 @@ Adds a worksheet to the collection and copies data from an existed worksheet.
 
 
 ```python
+
 def add_copy(self, sheet_index):
     ...
 ```
@@ -58,13 +60,14 @@ def add_copy(self, sheet_index):
 | sheet_index | int | Index of source worksheet. |
 
 
-## add_copy {#list-list}
+## add_copy(self, source, dest_sheet_names) {#list-list}
 
 Copy a group of worksheets.
 
 
 
 ```python
+
 def add_copy(self, source, dest_sheet_names):
     ...
 ```

@@ -3,7 +3,7 @@ title: control_data property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells.drawing/radiobutton/control_data/
 is_root: false
 ---

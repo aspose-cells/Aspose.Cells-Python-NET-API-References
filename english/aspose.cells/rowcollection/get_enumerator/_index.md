@@ -8,7 +8,7 @@ url: /aspose.cells/rowcollection/get_enumerator/
 is_root: false
 ---
 
-## get_enumerator {#bool-bool}
+## get_enumerator(self, reversed, sync) {#bool-bool}
 
 Gets an enumerator that iterates rows through this collection
 
@@ -20,6 +20,7 @@ The row enumerator
 
 
 ```python
+
 def get_enumerator(self, reversed, sync):
     ...
 ```

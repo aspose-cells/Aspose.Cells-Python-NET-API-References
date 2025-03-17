@@ -8,13 +8,14 @@ url: /aspose.cells.metadata/workbookmetadata/save/
 is_root: false
 ---
 
-## save {#str}
+## save(self, file_name) {#str}
 
 Save the modified metadata to the file.
 
 
 
 ```python
+
 def save(self, file_name):
     ...
 ```
@@ -25,13 +26,14 @@ def save(self, file_name):
 | file_name | str | The file name. |
 
 
-## save {#io.RawIOBase}
+## save(self, stream) {#io.RawIOBase}
 
 Save the modified metadata to the stream.
 
 
 
 ```python
+
 def save(self, stream):
     ...
 ```

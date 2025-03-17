@@ -3,7 +3,7 @@ title: shadow property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 240
 url: /aspose.cells.charts/chartframe/shadow/
 is_root: false
 ---

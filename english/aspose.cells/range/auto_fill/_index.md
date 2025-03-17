@@ -8,13 +8,14 @@ url: /aspose.cells/range/auto_fill/
 is_root: false
 ---
 
-## auto_fill {#aspose.cells.Range}
+## auto_fill(self, target) {#aspose.cells.Range}
 
 Automaticall fill the target range.
 
 
 
 ```python
+
 def auto_fill(self, target):
     ...
 ```
@@ -46,13 +47,14 @@ workbook.save("book1.xlsm")
 ```
 
 
-## auto_fill {#aspose.cells.Range-aspose.cells.AutoFillType}
+## auto_fill(self, target, auto_fill_type) {#aspose.cells.Range-aspose.cells.AutoFillType}
 
 Automaticall fill the target range.
 
 
 
 ```python
+
 def auto_fill(self, target, auto_fill_type):
     ...
 ```

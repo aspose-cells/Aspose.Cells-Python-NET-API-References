@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensionreferencecollection/add/
 is_root: false
 ---
 
-## add {#}
+## add(self) {#}
 
 Adds an empty reference of web extension.
 
@@ -20,6 +20,7 @@ Adds an empty reference of web extension.
 
 
 ```python
+
 def add(self):
     ...
 ```

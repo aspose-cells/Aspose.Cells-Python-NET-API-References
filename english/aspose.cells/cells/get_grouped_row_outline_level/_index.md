@@ -3,12 +3,12 @@ title: get_grouped_row_outline_level method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /aspose.cells/cells/get_grouped_row_outline_level/
 is_root: false
 ---
 
-## get_grouped_row_outline_level {#int}
+## get_grouped_row_outline_level(self, row_index) {#int}
 
 Gets the outline level (zero-based) of the row.
 
@@ -20,6 +20,7 @@ The outline level (zero-based) of the row.
 
 
 ```python
+
 def get_grouped_row_outline_level(self, row_index):
     ...
 ```

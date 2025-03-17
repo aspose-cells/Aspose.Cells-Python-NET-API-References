@@ -3,7 +3,7 @@ title: full_object_bin property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 460
 url: /aspose.cells.drawing/oleobject/full_object_bin/
 is_root: false
 ---

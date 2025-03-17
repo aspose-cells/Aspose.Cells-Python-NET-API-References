@@ -8,13 +8,14 @@ url: /aspose.cells/twocolorgradient/__init__/
 is_root: false
 ---
 
-## __init__ {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
+## \_\_init\_\_(self, color1, color2, gradient_style_type, variant) {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
 
 
 
 
 
 ```python
+
 def __init__(self, color1, color2, gradient_style_type, variant):
     ...
 ```

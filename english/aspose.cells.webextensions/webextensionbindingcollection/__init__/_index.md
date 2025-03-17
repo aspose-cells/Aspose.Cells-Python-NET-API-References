@@ -8,13 +8,14 @@ url: /aspose.cells.webextensions/webextensionbindingcollection/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of WebExtensionBindingCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_characters/
 is_root: false
 ---
 
-## get_characters {#}
+## get_characters(self) {#}
 
 Returns all Characters objects 
 that represents a range of characters within the cell text.
@@ -21,6 +21,7 @@ All Characters objects
 
 
 ```python
+
 def get_characters(self):
     ...
 ```
@@ -28,7 +29,7 @@ def get_characters(self):
 
 
 
-## get_characters {#bool}
+## get_characters(self, flag) {#bool}
 
 Returns all Characters objects 
 that represents a range of characters within the cell text.
@@ -41,6 +42,7 @@ All Characters objects
 
 
 ```python
+
 def get_characters(self, flag):
     ...
 ```

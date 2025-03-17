@@ -3,12 +3,12 @@ title: get_theme_color method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells/workbook/get_theme_color/
 is_root: false
 ---
 
-## get_theme_color {#aspose.cells.ThemeColorType}
+## get_theme_color(self, type) {#aspose.cells.ThemeColorType}
 
 Gets theme color.
 
@@ -20,6 +20,7 @@ The theme color.
 
 
 ```python
+
 def get_theme_color(self, type):
     ...
 ```

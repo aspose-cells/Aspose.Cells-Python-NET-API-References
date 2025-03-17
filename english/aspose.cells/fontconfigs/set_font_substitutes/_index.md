@@ -3,19 +3,21 @@ title: set_font_substitutes method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells/fontconfigs/set_font_substitutes/
 is_root: false
 ---
 
-## set_font_substitutes {#str-list}
+## set_font_substitutes(, original_font_name, substitute_font_names) {#str-list}
 
 Font substitute names for given original font name.
 
 
 
 ```python
-def set_font_substitutes(self, original_font_name, substitute_font_names):
+
+@staticmethod
+def set_font_substitutes(original_font_name, substitute_font_names):
     ...
 ```
 

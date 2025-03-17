@@ -24,7 +24,7 @@ The AutoNumberedBulletValue type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | Constructs a new instance of AutoNumberedBulletValue |
+| [`__init__(self)`](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | Constructs a new instance of AutoNumberedBulletValue |
 
 
 ### Properties

@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listobject/filter/
 is_root: false
 ---
 
-## filter {#}
+## filter(self) {#}
 
 Filter the table.
 
 
 
 ```python
+
 def filter(self):
     ...
 ```

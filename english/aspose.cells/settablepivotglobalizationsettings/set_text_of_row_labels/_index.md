@@ -8,13 +8,14 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_row_labels/
 is_root: false
 ---
 
-## set_text_of_row_labels {#str}
+## set_text_of_row_labels(self, text) {#str}
 
 Sets the text of "Row Labels" label in the PivotTable.
 
 
 
 ```python
+
 def set_text_of_row_labels(self, text):
     ...
 ```

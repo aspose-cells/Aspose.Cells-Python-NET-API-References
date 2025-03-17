@@ -8,13 +8,14 @@ url: /aspose.cells.metadata/workbookmetadata/__init__/
 is_root: false
 ---
 
-## __init__ {#str-aspose.cells.metadata.MetadataOptions}
+## \_\_init\_\_(self, file_name, options) {#str-aspose.cells.metadata.MetadataOptions}
 
 Create the meta data object.
 
 
 
 ```python
+
 def __init__(self, file_name, options):
     ...
 ```
@@ -26,13 +27,14 @@ def __init__(self, file_name, options):
 | options | [`MetadataOptions`](/cells/python-net/aspose.cells.metadata/metadataoptions) |  |
 
 
-## __init__ {#io.RawIOBase-aspose.cells.metadata.MetadataOptions}
+## \_\_init\_\_(self, stream, options) {#io.RawIOBase-aspose.cells.metadata.MetadataOptions}
 
 Create the meta data object.
 
 
 
 ```python
+
 def __init__(self, stream, options):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/is_template_format/
 is_root: false
 ---
 
-## is_template_format {#str}
+## is_template_format(, extension) {#str}
 
 Returns true if the extension is .xlt, .xltX, .xltm,.ots.
 
@@ -20,7 +20,9 @@ Returns true if the extension is .xlt, .xltX, .xltm,.ots.
 
 
 ```python
-def is_template_format(self, extension):
+
+@staticmethod
+def is_template_format(extension):
     ...
 ```
 

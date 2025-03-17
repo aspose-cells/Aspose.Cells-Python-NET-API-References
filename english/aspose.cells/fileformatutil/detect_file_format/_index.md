@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/detect_file_format/
 is_root: false
 ---
 
-## detect_file_format {#io.RawIOBase}
+## detect_file_format(, stream) {#io.RawIOBase}
 
 Detects and returns the information about a format of an excel stored in a stream.
 
@@ -20,7 +20,9 @@ A [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo) object that 
 
 
 ```python
-def detect_file_format(self, stream):
+
+@staticmethod
+def detect_file_format(stream):
     ...
 ```
 
@@ -30,7 +32,7 @@ def detect_file_format(self, stream):
 | stream | io.RawIOBase |  |
 
 
-## detect_file_format {#str}
+## detect_file_format(, file_path) {#str}
 
 Detects and returns the information about a format of an excel stored in a file.
 
@@ -42,7 +44,9 @@ A [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo) object that 
 
 
 ```python
-def detect_file_format(self, file_path):
+
+@staticmethod
+def detect_file_format(file_path):
     ...
 ```
 
@@ -52,7 +56,7 @@ def detect_file_format(self, file_path):
 | file_path | str | The file path. |
 
 
-## detect_file_format {#io.RawIOBase-str}
+## detect_file_format(, stream, password) {#io.RawIOBase-str}
 
 Detects and returns the information about a format of an excel stored in a stream.
 
@@ -64,7 +68,9 @@ A [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo) object that 
 
 
 ```python
-def detect_file_format(self, stream, password):
+
+@staticmethod
+def detect_file_format(stream, password):
     ...
 ```
 
@@ -75,7 +81,7 @@ def detect_file_format(self, stream, password):
 | password | str | The password for encrypted ooxml files. |
 
 
-## detect_file_format {#str-str}
+## detect_file_format(, file_path, password) {#str-str}
 
 Detects and returns the information about a format of an excel stored in a file.
 
@@ -87,7 +93,9 @@ A [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo) object that 
 
 
 ```python
-def detect_file_format(self, file_path, password):
+
+@staticmethod
+def detect_file_format(file_path, password):
     ...
 ```
 

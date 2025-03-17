@@ -3,7 +3,7 @@ title: number_format property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 350
 url: /aspose.cells.charts/datalabels/number_format/
 is_root: false
 ---

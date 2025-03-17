@@ -8,7 +8,7 @@ url: /aspose.cells/errorcheckoption/is_error_check/
 is_root: false
 ---
 
-## is_error_check {#aspose.cells.ErrorCheckType}
+## is_error_check(self, error_check_type) {#aspose.cells.ErrorCheckType}
 
 Checks whether given error type will be checked.
 
@@ -20,6 +20,7 @@ return true if given error type will be checked(green triangle will be shown for
 
 
 ```python
+
 def is_error_check(self, error_check_type):
     ...
 ```

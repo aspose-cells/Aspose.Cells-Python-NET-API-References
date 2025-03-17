@@ -8,13 +8,14 @@ url: /aspose.cells.revisions/highlightchangesoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#bool-bool}
+## \_\_init\_\_(self, highlight_on_screen, list_on_new_sheet) {#bool-bool}
 
 Represents options of highlighting revsions or changes of shared Excel files.
 
 
 
 ```python
+
 def __init__(self, highlight_on_screen, list_on_new_sheet):
     ...
 ```

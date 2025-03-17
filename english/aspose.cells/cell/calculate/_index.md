@@ -8,13 +8,14 @@ url: /aspose.cells/cell/calculate/
 is_root: false
 ---
 
-## calculate {#aspose.cells.CalculationOptions}
+## calculate(self, options) {#aspose.cells.CalculationOptions}
 
 Calculates the formula of the cell.
 
 
 
 ```python
+
 def calculate(self, options):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotconditionalformat/add_field_area/
 is_root: false
 ---
 
-## add_field_area {#aspose.cells.pivot.PivotFieldType-str}
+## add_field_area(self, axis_type, field_name) {#aspose.cells.pivot.PivotFieldType-str}
 
 Adds an area of pivot field.
 
 
 
 ```python
+
 def add_field_area(self, axis_type, field_name):
     ...
 ```
@@ -26,13 +27,14 @@ def add_field_area(self, axis_type, field_name):
 | field_name | str | The name of pivot field. |
 
 
-## add_field_area {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
+## add_field_area(self, axis_type, field) {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
 
 Adds an area of pivot field.
 
 
 
 ```python
+
 def add_field_area(self, axis_type, field):
     ...
 ```

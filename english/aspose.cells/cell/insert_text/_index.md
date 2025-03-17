@@ -8,7 +8,7 @@ url: /aspose.cells/cell/insert_text/
 is_root: false
 ---
 
-## insert_text {#int-str}
+## insert_text(self, index, text) {#int-str}
 
 Insert some characters to the cell.
 If the cell is rich formatted, this method could keep the original formatting.
@@ -16,6 +16,7 @@ If the cell is rich formatted, this method could keep the original formatting.
 
 
 ```python
+
 def insert_text(self, index, text):
     ...
 ```

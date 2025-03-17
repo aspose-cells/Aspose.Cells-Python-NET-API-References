@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottableformat/set_style/
 is_root: false
 ---
 
-## set_style {#aspose.cells.Style}
+## set_style(self, style) {#aspose.cells.Style}
 
 Sets the style of the pivot area.
 
 
 
 ```python
+
 def set_style(self, style):
     ...
 ```

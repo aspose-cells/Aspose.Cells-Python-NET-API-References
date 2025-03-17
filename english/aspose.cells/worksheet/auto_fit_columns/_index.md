@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/auto_fit_columns/
 is_root: false
 ---
 
-## auto_fit_columns {#}
+## auto_fit_columns(self) {#}
 
 Autofits all columns in this worksheet.
 
 
 
 ```python
+
 def auto_fit_columns(self):
     ...
 ```
@@ -22,13 +23,14 @@ def auto_fit_columns(self):
 
 
 
-## auto_fit_columns {#aspose.cells.AutoFitterOptions}
+## auto_fit_columns(self, options) {#aspose.cells.AutoFitterOptions}
 
 Autofits all columns in this worksheet.
 
 
 
 ```python
+
 def auto_fit_columns(self, options):
     ...
 ```
@@ -39,13 +41,14 @@ def auto_fit_columns(self, options):
 | options | [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions) | The auto fitting options |
 
 
-## auto_fit_columns {#int-int}
+## auto_fit_columns(self, first_column, last_column) {#int-int}
 
 Autofits the columns width.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_column, last_column):
     ...
 ```
@@ -59,13 +62,14 @@ def auto_fit_columns(self, first_column, last_column):
 
 AutoFitColumn is an imprecise function.
 
-## auto_fit_columns {#int-int-aspose.cells.AutoFitterOptions}
+## auto_fit_columns(self, first_column, last_column, options) {#int-int-aspose.cells.AutoFitterOptions}
 
 Autofits the columns width.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_column, last_column, options):
     ...
 ```
@@ -80,13 +84,14 @@ def auto_fit_columns(self, first_column, last_column, options):
 
 AutoFitColumn is an imprecise function.
 
-## auto_fit_columns {#int-int-int-int}
+## auto_fit_columns(self, first_row, first_column, last_row, last_column) {#int-int-int-int}
 
 Autofits the columns width.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_row, first_column, last_row, last_column):
     ...
 ```
@@ -102,13 +107,14 @@ def auto_fit_columns(self, first_row, first_column, last_row, last_column):
 
 AutoFitColumn is an imprecise function.
 
-## auto_fit_columns {#int-int-int-int-aspose.cells.AutoFitterOptions}
+## auto_fit_columns(self, first_row, first_column, last_row, last_column, options) {#int-int-int-int-aspose.cells.AutoFitterOptions}
 
 Autofits the columns width.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_row, first_column, last_row, last_column, options):
     ...
 ```

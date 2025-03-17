@@ -8,13 +8,14 @@ url: /aspose.cells/autofilter/remove_filter/
 is_root: false
 ---
 
-## remove_filter {#int}
+## remove_filter(self, field_index) {#int}
 
 Remove the specific filter.
 
 
 
 ```python
+
 def remove_filter(self, field_index):
     ...
 ```
@@ -25,13 +26,14 @@ def remove_filter(self, field_index):
 | field_index | int | The specific filter index |
 
 
-## remove_filter {#int-str}
+## remove_filter(self, field_index, criteria) {#int-str}
 
 Removes a filter for a filter column.
 
 
 
 ```python
+
 def remove_filter(self, field_index, criteria):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.charts/seriescollection/set_series_names/
 is_root: false
 ---
 
-## set_series_names {#int-str-bool}
+## set_series_names(self, start_index, area, is_vertical) {#int-str-bool}
 
 Sets the name of all the serieses in the chart.
 
 
 
 ```python
+
 def set_series_names(self, start_index, area, is_vertical):
     ...
 ```

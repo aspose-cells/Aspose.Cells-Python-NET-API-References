@@ -8,13 +8,14 @@ url: /aspose.cells/cell/copy/
 is_root: false
 ---
 
-## copy {#aspose.cells.Cell}
+## copy(self, cell) {#aspose.cells.Cell}
 
 Copies data from a source cell.
 
 
 
 ```python
+
 def copy(self, cell):
     ...
 ```

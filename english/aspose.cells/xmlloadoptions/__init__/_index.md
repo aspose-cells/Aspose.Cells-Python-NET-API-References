@@ -8,13 +8,14 @@ url: /aspose.cells/xmlloadoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Represents the options of loading xml file.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.cells.LoadFormat}
+## \_\_init\_\_(self, type) {#aspose.cells.LoadFormat}
 
 Represents the options of loading xml file.
 
 
 
 ```python
+
 def __init__(self, type):
     ...
 ```

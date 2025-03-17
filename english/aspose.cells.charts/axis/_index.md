@@ -64,7 +64,7 @@ The Axis type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_axis_texts](/cells/python-net/aspose.cells.charts/axis/get_axis_texts/#) | Gets the labels of the axis after call Chart.Calculate() method. |
+| [`get_axis_texts(self)`](/cells/python-net/aspose.cells.charts/axis/get_axis_texts/#) | Gets the labels of the axis after call Chart.Calculate() method. |
 
 
 

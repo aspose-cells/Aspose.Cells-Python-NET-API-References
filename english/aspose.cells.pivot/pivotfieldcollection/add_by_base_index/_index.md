@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfieldcollection/add_by_base_index/
 is_root: false
 ---
 
-## add_by_base_index {#int}
+## add_by_base_index(self, base_field_index) {#int}
 
 Adds a PivotField Object to the specific type PivotFields.
 
@@ -20,6 +20,7 @@ the index of  the PivotField Object in this PivotFields.
 
 
 ```python
+
 def add_by_base_index(self, base_field_index):
     ...
 ```

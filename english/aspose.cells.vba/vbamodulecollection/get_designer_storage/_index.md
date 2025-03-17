@@ -8,13 +8,14 @@ url: /aspose.cells.vba/vbamodulecollection/get_designer_storage/
 is_root: false
 ---
 
-## get_designer_storage {#str}
+## get_designer_storage(self, name) {#str}
 
 Represents the data of Designer.
 
 
 
 ```python
+
 def get_designer_storage(self, name):
     ...
 ```

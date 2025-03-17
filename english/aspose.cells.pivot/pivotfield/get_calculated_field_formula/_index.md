@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/get_calculated_field_formula/
 is_root: false
 ---
 
-## get_calculated_field_formula {#}
+## get_calculated_field_formula(self) {#}
 
 Get the formula string of the specified calculated field .
 
 
 
 ```python
+
 def get_calculated_field_formula(self):
     ...
 ```

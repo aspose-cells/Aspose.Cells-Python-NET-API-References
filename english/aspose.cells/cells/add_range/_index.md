@@ -8,13 +8,14 @@ url: /aspose.cells/cells/add_range/
 is_root: false
 ---
 
-## add_range {#aspose.cells.Range}
+## add_range(self, range_object) {#aspose.cells.Range}
 
 Adds a range object reference to cells
 
 
 
 ```python
+
 def add_range(self, range_object):
     ...
 ```

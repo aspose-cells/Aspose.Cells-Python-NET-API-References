@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/get_grand_total_name/
 is_root: false
 ---
 
-## get_grand_total_name {#aspose.cells.ConsolidationFunction}
+## get_grand_total_name(self, function_type) {#aspose.cells.ConsolidationFunction}
 
 Gets the grand total name of the function.
 
@@ -20,6 +20,7 @@ The grand total name of the function.
 
 
 ```python
+
 def get_grand_total_name(self, function_type):
     ...
 ```

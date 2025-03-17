@@ -8,13 +8,14 @@ url: /aspose.cells/style/set_pattern_color/
 is_root: false
 ---
 
-## set_pattern_color {#aspose.cells.BackgroundType-aspose.pydrawing.Color-aspose.pydrawing.Color}
+## set_pattern_color(self, pattern, color1, color2) {#aspose.cells.BackgroundType-aspose.pydrawing.Color-aspose.pydrawing.Color}
 
 Sets the background color.
 
 
 
 ```python
+
 def set_pattern_color(self, pattern, color1, color2):
     ...
 ```

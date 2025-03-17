@@ -8,13 +8,14 @@ url: /aspose.cells/pagesetup/clear_header_footer/
 is_root: false
 ---
 
-## clear_header_footer {#}
+## clear_header_footer(self) {#}
 
 Clears header and footer setting.
 
 
 
 ```python
+
 def clear_header_footer(self):
     ...
 ```

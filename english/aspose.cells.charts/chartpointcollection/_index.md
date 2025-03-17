@@ -33,9 +33,9 @@ Gets the [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint) elemen
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_enumerator](/cells/python-net/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Returns an enumerator for the entire [`ChartPointCollection`](/cells/python-net/aspose.cells.charts/chartpointcollection). |
-| [clear](/cells/python-net/aspose.cells.charts/chartpointcollection/clear/#) | Remove all setting of the chart points. |
-| [remove_at](/cells/python-net/aspose.cells.charts/chartpointcollection/remove_at/#int) | Removes point at the index of the series.. |
+| [`get_enumerator(self)`](/cells/python-net/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Returns an enumerator for the entire [`ChartPointCollection`](/cells/python-net/aspose.cells.charts/chartpointcollection). |
+| [`clear(self)`](/cells/python-net/aspose.cells.charts/chartpointcollection/clear/#) | Remove all setting of the chart points. |
+| [`remove_at(self, index)`](/cells/python-net/aspose.cells.charts/chartpointcollection/remove_at/#int) | Removes point at the index of the series.. |
 
 
 

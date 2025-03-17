@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotconditionalformatcollection/add/
 is_root: false
 ---
 
-## add {#}
+## add(self) {#}
 
 Adds a pivot FormatCondition to the collection.
 
@@ -20,6 +20,7 @@ pivot FormatCondition object index.
 
 
 ```python
+
 def add(self):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_merged_range/
 is_root: false
 ---
 
-## get_merged_range {#}
+## get_merged_range(self) {#}
 
 Returns a [`Range`](/cells/python-net/aspose.cells/range) object which represents a merged range.
 
@@ -20,6 +20,7 @@ Returns a [`Range`](/cells/python-net/aspose.cells/range) object which represent
 
 
 ```python
+
 def get_merged_range(self):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/calculationdata/get_param_value_in_array_mode/
 is_root: false
 ---
 
-## get_param_value_in_array_mode {#int-int-int}
+## get_param_value_in_array_mode(self, index, max_row_count, max_column_count) {#int-int-int}
 
 Gets the value(s) of the parameter at given index.
 If the parameter is some kind of expression that needs to be calculated,
@@ -22,6 +22,7 @@ An array which contains all items represented by the specified parameter.
 
 
 ```python
+
 def get_param_value_in_array_mode(self, index, max_row_count, max_column_count):
     ...
 ```

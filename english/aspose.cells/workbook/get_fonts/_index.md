@@ -3,18 +3,19 @@ title: get_fonts method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /aspose.cells/workbook/get_fonts/
 is_root: false
 ---
 
-## get_fonts {#}
+## get_fonts(self) {#}
 
 Gets all fonts in the style pool.
 
 
 
 ```python
+
 def get_fonts(self):
     ...
 ```

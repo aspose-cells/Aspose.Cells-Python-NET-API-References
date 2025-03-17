@@ -3,18 +3,19 @@ title: set_linked_cell method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells.drawing/cellsdrawing/set_linked_cell/
 is_root: false
 ---
 
-## set_linked_cell {#str-bool-bool}
+## set_linked_cell(self, formula, is_r1c1, is_local) {#str-bool-bool}
 
 Sets the range linked to the control's value.
 
 
 
 ```python
+
 def set_linked_cell(self, formula, is_r1c1, is_local):
     ...
 ```

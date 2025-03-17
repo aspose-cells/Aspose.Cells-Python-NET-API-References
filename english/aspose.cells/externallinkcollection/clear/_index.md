@@ -8,13 +8,14 @@ url: /aspose.cells/externallinkcollection/clear/
 is_root: false
 ---
 
-## clear {#}
+## clear(self) {#}
 
 Removes all external links.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```
@@ -25,13 +26,14 @@ def clear(self):
 When removing external links, all formulas that reference to them will be removed too because
 the references become invalid.
 
-## clear {#bool}
+## clear(self, update_references_as_local) {#bool}
 
 Removes all external links.
 
 
 
 ```python
+
 def clear(self, update_references_as_local):
     ...
 ```

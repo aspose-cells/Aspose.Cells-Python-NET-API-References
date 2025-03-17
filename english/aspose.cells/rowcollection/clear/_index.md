@@ -8,13 +8,14 @@ url: /aspose.cells/rowcollection/clear/
 is_root: false
 ---
 
-## clear {#}
+## clear(self) {#}
 
 Clear all rows and cells.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

@@ -3,7 +3,7 @@ title: DataBarNegativeColorType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2080
+weight: 2090
 url: /aspose.cells/databarnegativecolortype/
 is_root: false
 ---

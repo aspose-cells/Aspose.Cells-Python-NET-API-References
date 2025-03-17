@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_seconds/
 is_root: false
 ---
 
-## get_text_of_seconds {#}
+## get_text_of_seconds(self) {#}
 
 Gets the local text of "Seconds"
 
@@ -20,6 +20,7 @@ Gets the local text of "Seconds"
 
 
 ```python
+
 def get_text_of_seconds(self):
     ...
 ```

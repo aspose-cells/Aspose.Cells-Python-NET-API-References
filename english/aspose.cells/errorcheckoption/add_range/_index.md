@@ -8,7 +8,7 @@ url: /aspose.cells/errorcheckoption/add_range/
 is_root: false
 ---
 
-## add_range {#aspose.cells.CellArea}
+## add_range(self, ca) {#aspose.cells.CellArea}
 
 Adds one influenced range by this setting.
 
@@ -20,6 +20,7 @@ the index of the added range in the range list of this setting.
 
 
 ```python
+
 def add_range(self, ca):
     ...
 ```

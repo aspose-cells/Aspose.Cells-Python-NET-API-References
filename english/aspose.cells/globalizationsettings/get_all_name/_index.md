@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_all_name/
 is_root: false
 ---
 
-## get_all_name {#}
+## get_all_name(self) {#}
 
 Gets the name of "(All)" label in the PivotTable.
 
@@ -20,6 +20,7 @@ The name of "(All)" label
 
 
 ```python
+
 def get_all_name(self):
     ...
 ```

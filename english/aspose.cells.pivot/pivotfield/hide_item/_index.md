@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/hide_item/
 is_root: false
 ---
 
-## hide_item {#int-bool}
+## hide_item(self, index, is_hidden) {#int-bool}
 
 Sets whether the specific PivotItem in a data field is hidden.
 
 
 
 ```python
+
 def hide_item(self, index, is_hidden):
     ...
 ```
@@ -26,13 +27,14 @@ def hide_item(self, index, is_hidden):
 | is_hidden | bool | whether the specific PivotItem is hidden |
 
 
-## hide_item {#str-bool}
+## hide_item(self, item_value, is_hidden) {#str-bool}
 
 Sets whether the specific PivotItem in a data field is hidden.
 
 
 
 ```python
+
 def hide_item(self, item_value, is_hidden):
     ...
 ```

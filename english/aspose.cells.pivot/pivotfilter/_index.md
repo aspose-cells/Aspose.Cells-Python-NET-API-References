@@ -37,10 +37,10 @@ The PivotFilter type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_top_10_value](/cells/python-net/aspose.cells.pivot/pivotfilter/get_top_10_value/#) | Gets top 10 setting of the filter. |
-| [get_labels](/cells/python-net/aspose.cells.pivot/pivotfilter/get_labels/#) | Gets labels of the caption filter. |
-| [get_number_values](/cells/python-net/aspose.cells.pivot/pivotfilter/get_number_values/#) | Gets values of the number filter. |
-| [get_date_time_values](/cells/python-net/aspose.cells.pivot/pivotfilter/get_date_time_values/#) | Gets values of the number filter. |
+| [`get_top_10_value(self)`](/cells/python-net/aspose.cells.pivot/pivotfilter/get_top_10_value/#) | Gets top 10 setting of the filter. |
+| [`get_labels(self)`](/cells/python-net/aspose.cells.pivot/pivotfilter/get_labels/#) | Gets labels of the caption filter. |
+| [`get_number_values(self)`](/cells/python-net/aspose.cells.pivot/pivotfilter/get_number_values/#) | Gets values of the number filter. |
+| [`get_date_time_values(self)`](/cells/python-net/aspose.cells.pivot/pivotfilter/get_date_time_values/#) | Gets values of the number filter. |
 
 
 

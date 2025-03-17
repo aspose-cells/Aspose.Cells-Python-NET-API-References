@@ -3,7 +3,7 @@ title: Top10 class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1620
+weight: 1630
 url: /aspose.cells/top10/
 is_root: false
 ---
@@ -21,7 +21,7 @@ The Top10 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/top10/__init__/#) | Constructs a new instance of Top10 |
+| [`__init__(self)`](/cells/python-net/aspose.cells/top10/__init__/#) | Constructs a new instance of Top10 |
 
 
 ### Properties

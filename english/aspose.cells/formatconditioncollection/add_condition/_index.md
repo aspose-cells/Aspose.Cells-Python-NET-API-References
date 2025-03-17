@@ -8,7 +8,7 @@ url: /aspose.cells/formatconditioncollection/add_condition/
 is_root: false
 ---
 
-## add_condition {#aspose.cells.FormatConditionType}
+## add_condition(self, type) {#aspose.cells.FormatConditionType}
 
 Add a format condition.
 
@@ -20,6 +20,7 @@ Formatting condition object index;
 
 
 ```python
+
 def add_condition(self, type):
     ...
 ```
@@ -30,7 +31,7 @@ def add_condition(self, type):
 | type | [`FormatConditionType`](/cells/python-net/aspose.cells/formatconditiontype) | Format condition type. |
 
 
-## add_condition {#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str}
+## add_condition(self, type, operator_type, formula1, formula2) {#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str}
 
 Adds a formatting condition.
 
@@ -42,6 +43,7 @@ Formatting condition object index;
 
 
 ```python
+
 def add_condition(self, type, operator_type, formula1, formula2):
     ...
 ```

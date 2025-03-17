@@ -8,13 +8,14 @@ url: /aspose.cells/xmlsaveoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Creates options for saving xml file.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

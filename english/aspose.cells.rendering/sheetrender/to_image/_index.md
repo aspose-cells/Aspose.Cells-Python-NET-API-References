@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
 
-## to_image {#int-str}
+## to_image(self, page_index, file_name) {#int-str}
 
 Render certain page to a file.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -48,13 +49,14 @@ sr.to_image(0, "output.png")
 ```
 
 
-## to_image {#int-io.RawIOBase}
+## to_image(self, page_index, stream) {#int-io.RawIOBase}
 
 Render certain page to a stream.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.texts/fontsettingcollection/append_text/
 is_root: false
 ---
 
-## append_text {#str}
+## append_text(self, text) {#str}
 
 Appends the text.
 
 
 
 ```python
+
 def append_text(self, text):
     ...
 ```

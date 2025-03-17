@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/ipagesavingcallback/page_start_saving/
 is_root: false
 ---
 
-## page_start_saving {#aspose.cells.rendering.PageStartSavingArgs}
+## page_start_saving(self, args) {#aspose.cells.rendering.PageStartSavingArgs}
 
 Control/Indicate a page starts to be output.
 
 
 
 ```python
+
 def page_start_saving(self, args):
     ...
 ```

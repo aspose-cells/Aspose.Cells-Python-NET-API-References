@@ -8,13 +8,14 @@ url: /aspose.cells/cells/delete_columns/
 is_root: false
 ---
 
-## delete_columns {#int-int-bool}
+## delete_columns(self, column_index, total_columns, update_reference) {#int-int-bool}
 
 Deletes several columns.
 
 
 
 ```python
+
 def delete_columns(self, column_index, total_columns, update_reference):
     ...
 ```
@@ -27,13 +28,14 @@ def delete_columns(self, column_index, total_columns, update_reference):
 | update_reference | bool | Indicates whether update references in other worksheets. |
 
 
-## delete_columns {#int-int-aspose.cells.DeleteOptions}
+## delete_columns(self, column_index, total_columns, options) {#int-int-aspose.cells.DeleteOptions}
 
 Deletes several columns.
 
 
 
 ```python
+
 def delete_columns(self, column_index, total_columns, options):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_spinner/
 is_root: false
 ---
 
-## add_spinner {#int-int-int-int-int-int}
+## add_spinner(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a Spinner to the worksheet.
 
@@ -20,6 +20,7 @@ A Spinner object.
 
 
 ```python
+
 def add_spinner(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

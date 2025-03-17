@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_radio_button/
 is_root: false
 ---
 
-## add_radio_button {#int-int-int-int-int-int}
+## add_radio_button(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a RadioButton to the worksheet.
 
@@ -20,6 +20,7 @@ A RadioButton object.
 
 
 ```python
+
 def add_radio_button(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

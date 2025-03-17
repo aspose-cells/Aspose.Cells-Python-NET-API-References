@@ -8,7 +8,7 @@ url: /aspose.cells/threadedcommentauthorcollection/add/
 is_root: false
 ---
 
-## add {#str-str-str}
+## add(self, name, user_id, provider_id) {#str-str-str}
 
 Adds one thread comment person.
 
@@ -20,6 +20,7 @@ Adds one thread comment person.
 
 
 ```python
+
 def add(self, name, user_id, provider_id):
     ...
 ```

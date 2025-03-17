@@ -24,7 +24,7 @@ The SqlScriptSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions/__init__/#) | Creates options for saving sql file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells.saving/sqlscriptsaveoptions/__init__/#) | Creates options for saving sql file. |
 
 
 ### Properties

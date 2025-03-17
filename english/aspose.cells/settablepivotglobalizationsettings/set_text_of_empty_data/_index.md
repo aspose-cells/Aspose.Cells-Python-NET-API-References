@@ -8,13 +8,14 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_empty_data/
 is_root: false
 ---
 
-## set_text_of_empty_data {#str}
+## set_text_of_empty_data(self, text) {#str}
 
 Sets the text of "(blank)" label in the PivotTable.
 
 
 
 ```python
+
 def set_text_of_empty_data(self, text):
     ...
 ```

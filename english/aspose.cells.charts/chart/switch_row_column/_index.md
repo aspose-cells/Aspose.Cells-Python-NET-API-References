@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chart/switch_row_column/
 is_root: false
 ---
 
-## switch_row_column {#}
+## switch_row_column(self) {#}
 
 Switches row/column.
 
@@ -20,6 +20,7 @@ False means switching row/column fails.
 
 
 ```python
+
 def switch_row_column(self):
     ...
 ```

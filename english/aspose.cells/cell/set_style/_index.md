@@ -8,13 +8,14 @@ url: /aspose.cells/cell/set_style/
 is_root: false
 ---
 
-## set_style {#aspose.cells.Style}
+## set_style(self, style) {#aspose.cells.Style}
 
 Sets the cell style.
 
 
 
 ```python
+
 def set_style(self, style):
     ...
 ```
@@ -27,13 +28,14 @@ def set_style(self, style):
 
 If the border settings are changed, the border of adjust cells will be updated too.
 
-## set_style {#aspose.cells.Style-bool}
+## set_style(self, style, explicit_flag) {#aspose.cells.Style-bool}
 
 Apply the changed property of style to the cell.
 
 
 
 ```python
+
 def set_style(self, style, explicit_flag):
     ...
 ```
@@ -45,13 +47,14 @@ def set_style(self, style, explicit_flag):
 | explicit_flag | bool | True, only overwriting formatting which is explicitly set. |
 
 
-## set_style {#aspose.cells.Style-aspose.cells.StyleFlag}
+## set_style(self, style, flag) {#aspose.cells.Style-aspose.cells.StyleFlag}
 
 Apply the cell style based on flags.
 
 
 
 ```python
+
 def set_style(self, style, flag):
     ...
 ```

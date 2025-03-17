@@ -3,7 +3,7 @@ title: PageSetup class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1220
+weight: 1230
 url: /aspose.cells/pagesetup/
 is_root: false
 ---
@@ -68,28 +68,28 @@ The PageSetup type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_picture](/cells/python-net/aspose.cells/pagesetup/get_picture/#bool-int) | Gets the [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object of the header / footer. |
-| [get_picture](/cells/python-net/aspose.cells/pagesetup/get_picture/#bool-bool-bool-int) | Gets the [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object of the header / footer. |
-| [copy](/cells/python-net/aspose.cells/pagesetup/copy/#aspose.cells.PageSetup-aspose.cells.CopyOptions) | Copies the setting of the page setup. |
-| [set_fit_to_pages](/cells/python-net/aspose.cells/pagesetup/set_fit_to_pages/#int-int) | Sets the number of pages the worksheet will be scaled to when it's printed. |
-| [custom_paper_size](/cells/python-net/aspose.cells/pagesetup/custom_paper_size/#float-float) | Sets the custom paper size, in unit of inches. |
-| [clear_header_footer](/cells/python-net/aspose.cells/pagesetup/clear_header_footer/#) | Clears header and footer setting. |
-| [get_header](/cells/python-net/aspose.cells/pagesetup/get_header/#int) | Gets a script formatting the header of an Excel file. |
-| [get_commands](/cells/python-net/aspose.cells/pagesetup/get_commands/#str) | Gets all commands of header or footer. |
-| [get_footer](/cells/python-net/aspose.cells/pagesetup/get_footer/#int) | Gets a script formatting the footer of an Excel file. |
-| [set_header](/cells/python-net/aspose.cells/pagesetup/set_header/#int-str) | Sets a script formatting the header of an Excel file. |
-| [set_footer](/cells/python-net/aspose.cells/pagesetup/set_footer/#int-str) | Sets a script formatting the footer of an Excel file. |
-| [set_even_header](/cells/python-net/aspose.cells/pagesetup/set_even_header/#int-str) | Sets a script formatting the even page header of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffOddEven is true. |
-| [get_even_header](/cells/python-net/aspose.cells/pagesetup/get_even_header/#int) | Gets a script formatting the even header of an Excel file. |
-| [set_even_footer](/cells/python-net/aspose.cells/pagesetup/set_even_footer/#int-str) | Sets a script formatting the even page footer of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffOddEven is true. |
-| [get_even_footer](/cells/python-net/aspose.cells/pagesetup/get_even_footer/#int) | Gets a script formatting the even footer of an Excel file. |
-| [set_first_page_header](/cells/python-net/aspose.cells/pagesetup/set_first_page_header/#int-str) | Sets a script formatting the first page header of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffFirst is true. |
-| [get_first_page_header](/cells/python-net/aspose.cells/pagesetup/get_first_page_header/#int) | Gets a script formatting the first page header of an Excel file. |
-| [set_first_page_footer](/cells/python-net/aspose.cells/pagesetup/set_first_page_footer/#int-str) | Sets a script formatting the first page footer of an Excel file. |
-| [get_first_page_footer](/cells/python-net/aspose.cells/pagesetup/get_first_page_footer/#int) | Gets a script formatting the first page footer of an Excel file. |
-| [set_header_picture](/cells/python-net/aspose.cells/pagesetup/set_header_picture/#int-bytes) | Sets an image in the header of a worksheet. |
-| [set_footer_picture](/cells/python-net/aspose.cells/pagesetup/set_footer_picture/#int-bytes) | Sets an image in the footer of a worksheet. |
-| [set_picture](/cells/python-net/aspose.cells/pagesetup/set_picture/#bool-bool-bool-int-bytes) | Sets an image in the header/footer of a worksheet. |
+| [`get_picture(self, is_header, section)`](/cells/python-net/aspose.cells/pagesetup/get_picture/#bool-int) | Gets the [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object of the header / footer. |
+| [`get_picture(self, is_first, is_even, is_header, section)`](/cells/python-net/aspose.cells/pagesetup/get_picture/#bool-bool-bool-int) | Gets the [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object of the header / footer. |
+| [`copy(self, source, copy_options)`](/cells/python-net/aspose.cells/pagesetup/copy/#aspose.cells.pagesetup-aspose.cells.copyoptions) | Copies the setting of the page setup. |
+| [`set_fit_to_pages(self, wide, tall)`](/cells/python-net/aspose.cells/pagesetup/set_fit_to_pages/#int-int) | Sets the number of pages the worksheet will be scaled to when it's printed. |
+| [`custom_paper_size(self, width, height)`](/cells/python-net/aspose.cells/pagesetup/custom_paper_size/#float-float) | Sets the custom paper size, in unit of inches. |
+| [`clear_header_footer(self)`](/cells/python-net/aspose.cells/pagesetup/clear_header_footer/#) | Clears header and footer setting. |
+| [`get_header(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_header/#int) | Gets a script formatting the header of an Excel file. |
+| [`get_commands(self, header_footer_script)`](/cells/python-net/aspose.cells/pagesetup/get_commands/#str) | Gets all commands of header or footer. |
+| [`get_footer(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_footer/#int) | Gets a script formatting the footer of an Excel file. |
+| [`set_header(self, section, header_script)`](/cells/python-net/aspose.cells/pagesetup/set_header/#int-str) | Sets a script formatting the header of an Excel file. |
+| [`set_footer(self, section, footer_script)`](/cells/python-net/aspose.cells/pagesetup/set_footer/#int-str) | Sets a script formatting the footer of an Excel file. |
+| [`set_even_header(self, section, header_script)`](/cells/python-net/aspose.cells/pagesetup/set_even_header/#int-str) | Sets a script formatting the even page header of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffOddEven is true. |
+| [`get_even_header(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_even_header/#int) | Gets a script formatting the even header of an Excel file. |
+| [`set_even_footer(self, section, footer_script)`](/cells/python-net/aspose.cells/pagesetup/set_even_footer/#int-str) | Sets a script formatting the even page footer of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffOddEven is true. |
+| [`get_even_footer(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_even_footer/#int) | Gets a script formatting the even footer of an Excel file. |
+| [`set_first_page_header(self, section, header_script)`](/cells/python-net/aspose.cells/pagesetup/set_first_page_header/#int-str) | Sets a script formatting the first page header of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffFirst is true. |
+| [`get_first_page_header(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_first_page_header/#int) | Gets a script formatting the first page header of an Excel file. |
+| [`set_first_page_footer(self, section, footer_script)`](/cells/python-net/aspose.cells/pagesetup/set_first_page_footer/#int-str) | Sets a script formatting the first page footer of an Excel file. |
+| [`get_first_page_footer(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_first_page_footer/#int) | Gets a script formatting the first page footer of an Excel file. |
+| [`set_header_picture(self, section, header_picture)`](/cells/python-net/aspose.cells/pagesetup/set_header_picture/#int-bytes) | Sets an image in the header of a worksheet. |
+| [`set_footer_picture(self, section, footer_picture)`](/cells/python-net/aspose.cells/pagesetup/set_footer_picture/#int-bytes) | Sets an image in the footer of a worksheet. |
+| [`set_picture(self, is_first, is_even, is_header, section, image_data)`](/cells/python-net/aspose.cells/pagesetup/set_picture/#bool-bool-bool-int-bytes) | Sets an image in the header/footer of a worksheet. |
 
 
 

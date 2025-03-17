@@ -8,13 +8,14 @@ url: /aspose.cells/conditionalformattingiconcollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.ConditionalFormattingIcon}
+## add(self, cficon) {#aspose.cells.ConditionalFormattingIcon}
 
 Adds [`ConditionalFormattingIcon`](/cells/python-net/aspose.cells/conditionalformattingicon) object.
 
 
 
 ```python
+
 def add(self, cficon):
     ...
 ```
@@ -25,7 +26,7 @@ def add(self, cficon):
 | cficon | [`ConditionalFormattingIcon`](/cells/python-net/aspose.cells/conditionalformattingicon) | Returns the index of new object in the list. |
 
 
-## add {#aspose.cells.IconSetType-int}
+## add(self, type, index) {#aspose.cells.IconSetType-int}
 
 Adds [`ConditionalFormattingIcon`](/cells/python-net/aspose.cells/conditionalformattingicon) object.
 
@@ -37,6 +38,7 @@ Returns the index of new object in the list.
 
 
 ```python
+
 def add(self, type, index):
     ...
 ```

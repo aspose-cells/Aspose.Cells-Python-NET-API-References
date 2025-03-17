@@ -3,12 +3,12 @@ title: get_style_in_pool method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells/workbook/get_style_in_pool/
 is_root: false
 ---
 
-## get_style_in_pool {#int}
+## get_style_in_pool(self, index) {#int}
 
 Gets the style in the style pool.
 All styles in the workbook will be gathered into a pool.
@@ -22,6 +22,7 @@ The style in the pool corresponds to given index, may be null.
 
 
 ```python
+
 def get_style_in_pool(self, index):
     ...
 ```

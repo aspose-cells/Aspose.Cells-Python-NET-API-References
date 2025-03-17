@@ -8,13 +8,14 @@ url: /aspose.cells/datetimegroupitem/__init__/
 is_root: false
 ---
 
-## __init__ {#aspose.cells.DateTimeGroupingType-int-int-int-int-int-int}
+## \_\_init\_\_(self, type, year, month, day, hour, minute, second) {#aspose.cells.DateTimeGroupingType-int-int-int-int-int-int}
 
 
 
 
 
 ```python
+
 def __init__(self, type, year, month, day, hour, minute, second):
     ...
 ```

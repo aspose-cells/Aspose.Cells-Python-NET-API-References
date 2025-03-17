@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/set_visible/
 is_root: false
 ---
 
-## set_visible {#bool-bool}
+## set_visible(self, is_visible, ignore_error) {#bool-bool}
 
 Sets the visible options.
 
 
 
 ```python
+
 def set_visible(self, is_visible, ignore_error):
     ...
 ```

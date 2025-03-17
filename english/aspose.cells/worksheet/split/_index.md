@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/split/
 is_root: false
 ---
 
-## split {#}
+## split(self) {#}
 
 Splits window.
 
 
 
 ```python
+
 def split(self):
     ...
 ```

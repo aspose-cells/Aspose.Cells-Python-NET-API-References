@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/calculate_range/
 is_root: false
 ---
 
-## calculate_range {#}
+## calculate_range(self) {#}
 
 Calculates pivottable's range.
 
 
 
 ```python
+
 def calculate_range(self):
     ...
 ```

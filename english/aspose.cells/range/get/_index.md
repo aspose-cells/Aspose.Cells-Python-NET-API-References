@@ -8,7 +8,7 @@ url: /aspose.cells/range/get/
 is_root: false
 ---
 
-## get {#int-int}
+## get(self, row_offset, column_offset) {#int-int}
 
 Add API for Python Via .Net.since this[int, int] is unsupported
 
@@ -20,6 +20,7 @@ Add API for Python Via .Net.since this[int, int] is unsupported
 
 
 ```python
+
 def get(self, row_offset, column_offset):
     ...
 ```

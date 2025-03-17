@@ -8,13 +8,14 @@ url: /aspose.cells.properties/documentproperty/to_int/
 is_root: false
 ---
 
-## to_int {#}
+## to_int(self) {#}
 
 Returns the property value as integer.
 
 
 
 ```python
+
 def to_int(self):
     ...
 ```

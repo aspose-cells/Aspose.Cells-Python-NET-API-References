@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_auto_shape_in_chart/
 is_root: false
 ---
 
-## add_auto_shape_in_chart {#aspose.cells.drawing.AutoShapeType-int-int-int-int}
+## add_auto_shape_in_chart(self, type, top, left, height, width) {#aspose.cells.drawing.AutoShapeType-int-int-int-int}
 
 Adds a AutoShape to the chart.
 
@@ -20,6 +20,7 @@ Returns a shape object.
 
 
 ```python
+
 def add_auto_shape_in_chart(self, type, top, left, height, width):
     ...
 ```

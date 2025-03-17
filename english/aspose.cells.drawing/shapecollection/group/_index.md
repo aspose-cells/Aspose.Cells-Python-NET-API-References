@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/group/
 is_root: false
 ---
 
-## group {#list}
+## group(self, group_items) {#list}
 
 Group the shapes.
 
@@ -20,6 +20,7 @@ Return the group shape.
 
 
 ```python
+
 def group(self, group_items):
     ...
 ```

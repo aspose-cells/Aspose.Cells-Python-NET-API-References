@@ -3,7 +3,7 @@ title: data_sorter property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 560
 url: /aspose.cells/workbook/data_sorter/
 is_root: false
 ---

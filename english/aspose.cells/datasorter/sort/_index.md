@@ -8,7 +8,7 @@ url: /aspose.cells/datasorter/sort/
 is_root: false
 ---
 
-## sort {#}
+## sort(self) {#}
 
 Sort the data in the range.
 
@@ -21,6 +21,7 @@ If no rows/columns needs to be moved by this sorting operation, null will be ret
 
 
 ```python
+
 def sort(self):
     ...
 ```
@@ -28,7 +29,7 @@ def sort(self):
 
 
 
-## sort {#aspose.cells.Cells-aspose.cells.CellArea}
+## sort(self, cells, area) {#aspose.cells.Cells-aspose.cells.CellArea}
 
 Sort the data of the area.
 
@@ -41,6 +42,7 @@ If no rows/columns needs to be moved by this sorting operation, null will be ret
 
 
 ```python
+
 def sort(self, cells, area):
     ...
 ```
@@ -52,7 +54,7 @@ def sort(self, cells, area):
 | area | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The area needed to sort |
 
 
-## sort {#aspose.cells.Cells-int-int-int-int}
+## sort(self, cells, start_row, start_column, end_row, end_column) {#aspose.cells.Cells-int-int-int-int}
 
 Sorts the data of the area.
 
@@ -65,6 +67,7 @@ If no rows/columns needs to be moved by this sorting operation, null will be ret
 
 
 ```python
+
 def sort(self, cells, start_row, start_column, end_row, end_column):
     ...
 ```

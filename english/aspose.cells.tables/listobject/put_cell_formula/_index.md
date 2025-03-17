@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listobject/put_cell_formula/
 is_root: false
 ---
 
-## put_cell_formula {#int-int-str}
+## put_cell_formula(self, row_offset, column_offset, formula) {#int-int-str}
 
 Put the formula to the cell in the table.
 
 
 
 ```python
+
 def put_cell_formula(self, row_offset, column_offset, formula):
     ...
 ```
@@ -27,13 +28,14 @@ def put_cell_formula(self, row_offset, column_offset, formula):
 | formula | str | The formula of the cell. |
 
 
-## put_cell_formula {#int-int-str-bool}
+## put_cell_formula(self, row_offset, column_offset, formula, is_totals_row_formula) {#int-int-str-bool}
 
 Put the formula to the cell in the table.
 
 
 
 ```python
+
 def put_cell_formula(self, row_offset, column_offset, formula, is_totals_row_formula):
     ...
 ```

@@ -3,7 +3,7 @@ title: direction_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 180
 url: /aspose.cells.charts/title/direction_type/
 is_root: false
 ---

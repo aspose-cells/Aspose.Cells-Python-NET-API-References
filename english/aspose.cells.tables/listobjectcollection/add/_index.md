@@ -8,7 +8,7 @@ url: /aspose.cells.tables/listobjectcollection/add/
 is_root: false
 ---
 
-## add {#str-str-bool}
+## add(self, start_cell, end_cell, has_headers) {#str-str-bool}
 
 Adds a ListObject to the worksheet.
 
@@ -20,6 +20,7 @@ The index of the new ListObject
 
 
 ```python
+
 def add(self, start_cell, end_cell, has_headers):
     ...
 ```
@@ -32,7 +33,7 @@ def add(self, start_cell, end_cell, has_headers):
 | has_headers | bool | Whether the range has headers. |
 
 
-## add {#int-int-int-int-bool}
+## add(self, start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
 
 Adds a ListObject to the worksheet.
 
@@ -44,6 +45,7 @@ The index of the new ListObject
 
 
 ```python
+
 def add(self, start_row, start_column, end_row, end_column, has_headers):
     ...
 ```

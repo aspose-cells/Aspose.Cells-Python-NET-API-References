@@ -8,7 +8,7 @@ url: /aspose.cells/cells/check_cell/
 is_root: false
 ---
 
-## check_cell {#int-int}
+## check_cell(self, row, column) {#int-int}
 
 Gets the [`Cell`](/cells/python-net/aspose.cells/cell) element or null at the specified cell row index and column index.
 
@@ -21,6 +21,7 @@ Return null if the cell does not exist.
 
 
 ```python
+
 def check_cell(self, row, column):
     ...
 ```

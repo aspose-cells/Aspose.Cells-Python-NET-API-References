@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfieldcollection/move/
 is_root: false
 ---
 
-## move {#int-int}
+## move(self, curr_pos, dest_pos) {#int-int}
 
 Moves the PivotField from current position to destination position
 
 
 
 ```python
+
 def move(self, curr_pos, dest_pos):
     ...
 ```

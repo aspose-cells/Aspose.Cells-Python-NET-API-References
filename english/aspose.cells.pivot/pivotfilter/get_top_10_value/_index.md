@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfilter/get_top_10_value/
 is_root: false
 ---
 
-## get_top_10_value {#}
+## get_top_10_value(self) {#}
 
 Gets top 10 setting of the filter.
 
 
 
 ```python
+
 def get_top_10_value(self):
     ...
 ```

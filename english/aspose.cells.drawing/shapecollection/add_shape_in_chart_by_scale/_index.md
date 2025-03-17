@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapecollection/add_shape_in_chart_by_scale/
 is_root: false
 ---
 
-## add_shape_in_chart_by_scale {#aspose.cells.drawing.MsoDrawingType-aspose.cells.drawing.PlacementType-float-float-float-float}
+## add_shape_in_chart_by_scale(self, type, placement, left, top, right, bottom) {#aspose.cells.drawing.MsoDrawingType-aspose.cells.drawing.PlacementType-float-float-float-float}
 
 Add a shape to chart. All unit is percent scale of chart area.
 
 
 
 ```python
+
 def add_shape_in_chart_by_scale(self, type, placement, left, top, right, bottom):
     ...
 ```
@@ -30,13 +31,14 @@ def add_shape_in_chart_by_scale(self, type, placement, left, top, right, bottom)
 | bottom | float | Unit is percent scale of chart area height. |
 
 
-## add_shape_in_chart_by_scale {#aspose.cells.drawing.MsoDrawingType-aspose.cells.drawing.PlacementType-float-float-float-float-bytes}
+## add_shape_in_chart_by_scale(self, type, placement, left, top, right, bottom, image_data) {#aspose.cells.drawing.MsoDrawingType-aspose.cells.drawing.PlacementType-float-float-float-float-bytes}
 
 Add a shape to chart .All unit is 1/4000 of chart area.
 
 
 
 ```python
+
 def add_shape_in_chart_by_scale(self, type, placement, left, top, right, bottom, image_data):
     ...
 ```

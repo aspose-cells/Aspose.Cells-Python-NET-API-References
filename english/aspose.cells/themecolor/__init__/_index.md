@@ -8,13 +8,14 @@ url: /aspose.cells/themecolor/__init__/
 is_root: false
 ---
 
-## __init__ {#aspose.cells.ThemeColorType-float}
+## \_\_init\_\_(self, type, tint) {#aspose.cells.ThemeColorType-float}
 
 
 
 
 
 ```python
+
 def __init__(self, type, tint):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/copy/
 is_root: false
 ---
 
-## copy {#aspose.cells.Worksheet}
+## copy(self, source_sheet) {#aspose.cells.Worksheet}
 
 Copies contents and formats from another worksheet.
 
 
 
 ```python
+
 def copy(self, source_sheet):
     ...
 ```
@@ -25,13 +26,14 @@ def copy(self, source_sheet):
 | source_sheet | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | Source worksheet. |
 
 
-## copy {#aspose.cells.Worksheet-aspose.cells.CopyOptions}
+## copy(self, source_sheet, copy_options) {#aspose.cells.Worksheet-aspose.cells.CopyOptions}
 
 Copies contents and formats from another worksheet.
 
 
 
 ```python
+
 def copy(self, source_sheet, copy_options):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.vba/vbaproject/sign/
 is_root: false
 ---
 
-## sign {#aspose.cells.digitalsignatures.DigitalSignature}
+## sign(self, digital_signature) {#aspose.cells.digitalsignatures.DigitalSignature}
 
 Sign this VBA project by a DigitalSignature
 
 
 
 ```python
+
 def sign(self, digital_signature):
     ...
 ```

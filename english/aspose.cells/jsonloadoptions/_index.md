@@ -3,7 +3,7 @@ title: JsonLoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1040
+weight: 1050
 url: /aspose.cells/jsonloadoptions/
 is_root: false
 ---
@@ -24,7 +24,7 @@ The JsonLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/jsonloadoptions/__init__/#) | Creates an options of loading the file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/jsonloadoptions/__init__/#) | Creates an options of loading the file. |
 
 
 ### Properties
@@ -62,7 +62,7 @@ The JsonLoadOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_paper_size](/cells/python-net/aspose.cells/jsonloadoptions/set_paper_size/#aspose.cells.PaperSizeType) | Sets the default print paper size from default printer's setting. |
+| [`set_paper_size(self, type)`](/cells/python-net/aspose.cells/jsonloadoptions/set_paper_size/#aspose.cells.papersizetype) | Sets the default print paper size from default printer's setting. |
 
 
 

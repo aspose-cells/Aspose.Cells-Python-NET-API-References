@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/fillformat/set_two_color_gradient/
 is_root: false
 ---
 
-## set_two_color_gradient {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
+## set_two_color_gradient(self, color1, color2, style, variant) {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
 
 Sets the specified fill to a two-color gradient.
 Only applies for Excel 2007.
@@ -16,6 +16,7 @@ Only applies for Excel 2007.
 
 
 ```python
+
 def set_two_color_gradient(self, color1, color2, style, variant):
     ...
 ```
@@ -29,7 +30,7 @@ def set_two_color_gradient(self, color1, color2, style, variant):
 | variant | int | The gradient variant. Can be a value from 1 through 4, corresponding to one of the four variants on the Gradient tab in the Fill Effects dialog box. If style is GradientStyle.FromCenter, the Variant argument can only be 1 or 2. |
 
 
-## set_two_color_gradient {#aspose.pydrawing.Color-float-aspose.pydrawing.Color-float-aspose.cells.drawing.GradientStyleType-int}
+## set_two_color_gradient(self, color1, transparency1, color2, transparency2, style, variant) {#aspose.pydrawing.Color-float-aspose.pydrawing.Color-float-aspose.cells.drawing.GradientStyleType-int}
 
 Sets the specified fill to a two-color gradient.
 Only applies for Excel 2007.
@@ -37,6 +38,7 @@ Only applies for Excel 2007.
 
 
 ```python
+
 def set_two_color_gradient(self, color1, transparency1, color2, transparency2, style, variant):
     ...
 ```

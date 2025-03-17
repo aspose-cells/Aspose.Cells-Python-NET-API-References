@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/gradientfill/set_one_color_gradient/
 is_root: false
 ---
 
-## set_one_color_gradient {#aspose.pydrawing.Color-float-aspose.cells.drawing.GradientStyleType-int}
+## set_one_color_gradient(self, color, degree, style, variant) {#aspose.pydrawing.Color-float-aspose.cells.drawing.GradientStyleType-int}
 
 Sets the specified fill to a one-color gradient.
 Only applies for Excel 2007.
@@ -16,6 +16,7 @@ Only applies for Excel 2007.
 
 
 ```python
+
 def set_one_color_gradient(self, color, degree, style, variant):
     ...
 ```

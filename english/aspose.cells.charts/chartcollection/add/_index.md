@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartcollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.charts.ChartType-int-int-int-int}
+## add(self, type, upper_left_row, upper_left_column, lower_right_row, lower_right_column) {#aspose.cells.charts.ChartType-int-int-int-int}
 
 Adds a chart to the collection.
 
@@ -20,6 +20,7 @@ Adds a chart to the collection.
 
 
 ```python
+
 def add(self, type, upper_left_row, upper_left_column, lower_right_row, lower_right_column):
     ...
 ```
@@ -34,7 +35,7 @@ def add(self, type, upper_left_row, upper_left_column, lower_right_row, lower_ri
 | lower_right_column | int | Lower right column index |
 
 
-## add {#aspose.cells.charts.ChartType-str-int-int-int-int}
+## add(self, type, data_range, top_row, left_column, right_row, bottom_column) {#aspose.cells.charts.ChartType-str-int-int-int-int}
 
 Adds a chart to the collection.
 
@@ -46,6 +47,7 @@ Adds a chart to the collection.
 
 
 ```python
+
 def add(self, type, data_range, top_row, left_column, right_row, bottom_column):
     ...
 ```
@@ -66,7 +68,7 @@ please use [`ChartCollection.add`](/cells/python-net/aspose.cells.charts/chartco
 This property will be removed 12 months later since May 2022. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## add {#bytes-str-bool-int-int-int-int}
+## add(self, data, data_range, is_vertical, top_row, left_column, right_row, bottom_column) {#bytes-str-bool-int-int-int-int}
 
 Adds a chart with preset template.
 
@@ -78,6 +80,7 @@ Adds a chart with preset template.
 
 
 ```python
+
 def add(self, data, data_range, is_vertical, top_row, left_column, right_row, bottom_column):
     ...
 ```
@@ -94,7 +97,7 @@ def add(self, data, data_range, is_vertical, top_row, left_column, right_row, bo
 | bottom_column | int | Lower right column index |
 
 
-## add {#aspose.cells.charts.ChartType-str-bool-int-int-int-int}
+## add(self, type, data_range, is_vertical, top_row, left_column, right_row, bottom_column) {#aspose.cells.charts.ChartType-str-bool-int-int-int-int}
 
 Adds a chart to the collection.
 
@@ -106,6 +109,7 @@ Adds a chart to the collection.
 
 
 ```python
+
 def add(self, type, data_range, is_vertical, top_row, left_column, right_row, bottom_column):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/range/copy_style/
 is_root: false
 ---
 
-## copy_style {#aspose.cells.Range}
+## copy_style(self, range) {#aspose.cells.Range}
 
 Copies style settings from a source range.
 
 
 
 ```python
+
 def copy_style(self, range):
     ...
 ```

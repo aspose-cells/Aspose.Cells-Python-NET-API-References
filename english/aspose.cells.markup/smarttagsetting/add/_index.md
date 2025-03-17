@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagsetting/add/
 is_root: false
 ---
 
-## add {#str}
+## add(self, cell_name) {#str}
 
 Add a cell smart tags.
 
@@ -20,6 +20,7 @@ Add a cell smart tags.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -30,7 +31,7 @@ def add(self, cell_name):
 | cell_name | str | The name of the cell. |
 
 
-## add {#int-int}
+## add(self, row, column) {#int-int}
 
 Adds a [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection) object to a cell.
 
@@ -42,6 +43,7 @@ Returns index of a [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```

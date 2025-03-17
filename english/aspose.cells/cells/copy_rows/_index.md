@@ -8,13 +8,14 @@ url: /aspose.cells/cells/copy_rows/
 is_root: false
 ---
 
-## copy_rows {#aspose.cells.Cells-int-int-int}
+## copy_rows(self, source_cells, source_row_index, destination_row_index, row_number) {#aspose.cells.Cells-int-int-int}
 
 Copies data and formats of some whole rows.
 
 
 
 ```python
+
 def copy_rows(self, source_cells, source_row_index, destination_row_index, row_number):
     ...
 ```
@@ -28,13 +29,14 @@ def copy_rows(self, source_cells, source_row_index, destination_row_index, row_n
 | row_number | int | The copied row number. |
 
 
-## copy_rows {#aspose.cells.Cells-int-int-int-aspose.cells.CopyOptions}
+## copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options) {#aspose.cells.Cells-int-int-int-aspose.cells.CopyOptions}
 
 Copies data and formats of some whole rows.
 
 
 
 ```python
+
 def copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options):
     ...
 ```
@@ -49,13 +51,14 @@ def copy_rows(self, source_cells0, source_row_index, destination_row_index, row_
 | copy_options | [`CopyOptions`](/cells/python-net/aspose.cells/copyoptions) | The copy options. |
 
 
-## copy_rows {#aspose.cells.Cells-int-int-int-aspose.cells.CopyOptions-aspose.cells.PasteOptions}
+## copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options, paste_options) {#aspose.cells.Cells-int-int-int-aspose.cells.CopyOptions-aspose.cells.PasteOptions}
 
 Copies data and formats of some whole rows.
 
 
 
 ```python
+
 def copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options, paste_options):
     ...
 ```

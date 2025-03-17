@@ -8,13 +8,14 @@ url: /aspose.cells/cells/apply_column_style/
 is_root: false
 ---
 
-## apply_column_style {#int-aspose.cells.Style-aspose.cells.StyleFlag}
+## apply_column_style(self, column, style, flag) {#int-aspose.cells.Style-aspose.cells.StyleFlag}
 
 Applies formats for a whole column.
 
 
 
 ```python
+
 def apply_column_style(self, column, style, flag):
     ...
 ```

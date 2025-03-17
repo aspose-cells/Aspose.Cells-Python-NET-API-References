@@ -3,12 +3,12 @@ title: get_linked_cell method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /aspose.cells.drawing/chartshape/get_linked_cell/
 is_root: false
 ---
 
-## get_linked_cell {#bool-bool}
+## get_linked_cell(self, is_r1c1, is_local) {#bool-bool}
 
 Gets the range linked to the control's value.
 
@@ -20,6 +20,7 @@ The range linked to the control's value.
 
 
 ```python
+
 def get_linked_cell(self, is_r1c1, is_local):
     ...
 ```

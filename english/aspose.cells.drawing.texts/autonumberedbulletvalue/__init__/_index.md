@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of AutoNumberedBulletValue
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

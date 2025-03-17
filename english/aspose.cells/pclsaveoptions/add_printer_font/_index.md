@@ -8,13 +8,14 @@ url: /aspose.cells/pclsaveoptions/add_printer_font/
 is_root: false
 ---
 
-## add_printer_font {#str-str}
+## add_printer_font(self, font_full_name, font_pcl_name) {#str-str}
 
 Adds information about font that is already added to the printer by manufacturer.
 
 
 
 ```python
+
 def add_printer_font(self, font_full_name, font_pcl_name):
     ...
 ```

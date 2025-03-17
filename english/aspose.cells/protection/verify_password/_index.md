@@ -8,7 +8,7 @@ url: /aspose.cells/protection/verify_password/
 is_root: false
 ---
 
-## verify_password {#str}
+## verify_password(self, password) {#str}
 
 Verifies password.
 
@@ -20,6 +20,7 @@ Verifies password.
 
 
 ```python
+
 def verify_password(self, password):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_table/
 is_root: false
 ---
 
-## get_table {#}
+## get_table(self) {#}
 
 Gets the table which contains this cell.
 
@@ -20,6 +20,7 @@ Gets the table which contains this cell.
 
 
 ```python
+
 def get_table(self):
     ...
 ```

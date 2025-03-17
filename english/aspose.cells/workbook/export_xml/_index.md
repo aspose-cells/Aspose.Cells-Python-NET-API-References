@@ -3,18 +3,19 @@ title: export_xml method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells/workbook/export_xml/
 is_root: false
 ---
 
-## export_xml {#str-str}
+## export_xml(self, map_name, path) {#str-str}
 
 Export XML data linked by the specified XML map.
 
 
 
 ```python
+
 def export_xml(self, map_name, path):
     ...
 ```
@@ -41,13 +42,14 @@ wb.export_xml(xmlMap.name, "output.xml")
 ```
 
 
-## export_xml {#str-io.RawIOBase}
+## export_xml(self, map_name, stream) {#str-io.RawIOBase}
 
 Export XML data.
 
 
 
 ```python
+
 def export_xml(self, map_name, stream):
     ...
 ```

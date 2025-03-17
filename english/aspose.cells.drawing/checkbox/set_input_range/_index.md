@@ -3,18 +3,19 @@ title: set_input_range method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.drawing/checkbox/set_input_range/
 is_root: false
 ---
 
-## set_input_range {#str-bool-bool}
+## set_input_range(self, formula, is_r1c1, is_local) {#str-bool-bool}
 
 Sets the range used to fill the control.
 
 
 
 ```python
+
 def set_input_range(self, formula, is_r1c1, is_local):
     ...
 ```

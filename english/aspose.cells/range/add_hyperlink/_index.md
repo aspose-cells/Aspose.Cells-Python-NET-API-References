@@ -8,7 +8,7 @@ url: /aspose.cells/range/add_hyperlink/
 is_root: false
 ---
 
-## add_hyperlink {#str-str-str}
+## add_hyperlink(self, address, text_to_display, screen_tip) {#str-str-str}
 
 Adds a hyperlink to a specified cell or a range of cells.
 
@@ -20,6 +20,7 @@ Adds a hyperlink to a specified cell or a range of cells.
 
 
 ```python
+
 def add_hyperlink(self, address, text_to_display, screen_tip):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.tables/listcolumn/get_custom_calculated_formula/
 is_root: false
 ---
 
-## get_custom_calculated_formula {#bool-bool}
+## get_custom_calculated_formula(self, is_r1c1, is_local) {#bool-bool}
 
 Gets the formula of this list column.
 
@@ -20,6 +20,7 @@ The formula of this list column.
 
 
 ```python
+
 def get_custom_calculated_formula(self, is_r1c1, is_local):
     ...
 ```

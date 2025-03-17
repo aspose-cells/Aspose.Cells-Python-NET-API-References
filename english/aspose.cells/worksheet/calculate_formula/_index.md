@@ -8,7 +8,7 @@ url: /aspose.cells/worksheet/calculate_formula/
 is_root: false
 ---
 
-## calculate_formula {#str}
+## calculate_formula(self, formula) {#str}
 
 Calculates a formula.
 
@@ -20,6 +20,7 @@ Calculated formula result.
 
 
 ```python
+
 def calculate_formula(self, formula):
     ...
 ```
@@ -30,7 +31,7 @@ def calculate_formula(self, formula):
 | formula | str | Formula to be calculated. |
 
 
-## calculate_formula {#str-aspose.cells.CalculationOptions}
+## calculate_formula(self, formula, opts) {#str-aspose.cells.CalculationOptions}
 
 Calculates a formula expression directly.
 
@@ -43,6 +44,7 @@ The returned object may be of possible types of [`Cell.value`](/cells/python-net
 
 
 ```python
+
 def calculate_formula(self, formula, opts):
     ...
 ```
@@ -59,13 +61,14 @@ And the formula will be taken as normal formula.
 If you need the formula be calculated as an array formula and to get an array for the calculated result,
 please use [`Worksheet.calculate_array_formula`](/cells/python-net/aspose.cells/worksheet/calculate_array_formula) instead.
 
-## calculate_formula {#aspose.cells.CalculationOptions-bool}
+## calculate_formula(self, options, recursive) {#aspose.cells.CalculationOptions-bool}
 
 Calculates all formulas in this worksheet.
 
 
 
 ```python
+
 def calculate_formula(self, options, recursive):
     ...
 ```
@@ -77,7 +80,7 @@ def calculate_formula(self, options, recursive):
 | recursive | bool | True means if the worksheet' cells depend on the cells of other worksheets,<br/>the dependent cells in other worksheets will be calculated too.<br/>False means all the formulas in the worksheet have been calculated and the values are right. |
 
 
-## calculate_formula {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
+## calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data) {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
 
 Calculates a formula expression directly.
 
@@ -90,6 +93,7 @@ The returned object may be of possible types of [`Cell.value`](/cells/python-net
 
 
 ```python
+
 def calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data):
     ...
 ```

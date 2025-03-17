@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/auto_fit_column/
 is_root: false
 ---
 
-## auto_fit_column {#int}
+## auto_fit_column(self, column_index) {#int}
 
 Autofits the column width.
 
 
 
 ```python
+
 def auto_fit_column(self, column_index):
     ...
 ```
@@ -27,13 +28,14 @@ def auto_fit_column(self, column_index):
 
 AutoFitColumn is an imprecise function.
 
-## auto_fit_column {#int-int-int}
+## auto_fit_column(self, column_index, first_row, last_row) {#int-int-int}
 
 Autofits the column width.
 
 
 
 ```python
+
 def auto_fit_column(self, column_index, first_row, last_row):
     ...
 ```

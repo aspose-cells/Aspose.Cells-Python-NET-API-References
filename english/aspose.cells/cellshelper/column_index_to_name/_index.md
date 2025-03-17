@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/column_index_to_name/
 is_root: false
 ---
 
-## column_index_to_name {#int}
+## column_index_to_name(, column) {#int}
 
 Gets column name according to column index.
 
@@ -20,7 +20,9 @@ Name of column.
 
 
 ```python
-def column_index_to_name(self, column):
+
+@staticmethod
+def column_index_to_name(column):
     ...
 ```
 

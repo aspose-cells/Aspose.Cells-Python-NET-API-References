@@ -8,13 +8,14 @@ url: /aspose.cells/row/apply_style/
 is_root: false
 ---
 
-## apply_style {#aspose.cells.Style-aspose.cells.StyleFlag}
+## apply_style(self, style, flag) {#aspose.cells.Style-aspose.cells.StyleFlag}
 
 Applies formats for a whole row.
 
 
 
 ```python
+
 def apply_style(self, style, flag):
     ...
 ```

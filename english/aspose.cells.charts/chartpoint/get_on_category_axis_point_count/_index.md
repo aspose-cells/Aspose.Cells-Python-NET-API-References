@@ -8,13 +8,14 @@ url: /aspose.cells.charts/chartpoint/get_on_category_axis_point_count/
 is_root: false
 ---
 
-## get_on_category_axis_point_count {#}
+## get_on_category_axis_point_count(self) {#}
 
 Gets the number of the points on category axis after calls Chart.Calculate() method. Only applies to area chart.
 
 
 
 ```python
+
 def get_on_category_axis_point_count(self):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/formatcondition/set_formulas/
 is_root: false
 ---
 
-## set_formulas {#str-str-bool-bool}
+## set_formulas(self, formula1, formula2, is_r1c1, is_local) {#str-str-bool-bool}
 
 Sets the value or expression associated with this format condition.
 
 
 
 ```python
+
 def set_formulas(self, formula1, formula2, is_r1c1, is_local):
     ...
 ```

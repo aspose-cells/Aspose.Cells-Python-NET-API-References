@@ -8,7 +8,7 @@ url: /aspose.cells/protectedrange/get_areas/
 is_root: false
 ---
 
-## get_areas {#}
+## get_areas(self) {#}
 
 Gets all referred areas.
 
@@ -20,6 +20,7 @@ Returns all referred areas.
 
 
 ```python
+
 def get_areas(self):
     ...
 ```

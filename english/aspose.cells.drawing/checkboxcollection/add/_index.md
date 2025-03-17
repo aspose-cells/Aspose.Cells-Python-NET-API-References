@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/checkboxcollection/add/
 is_root: false
 ---
 
-## add {#int-int-int-int}
+## add(self, upper_left_row, upper_left_column, height, width) {#int-int-int-int}
 
 Adds a checkBox to the collection.
 
@@ -20,6 +20,7 @@ Adds a checkBox to the collection.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, height, width):
     ...
 ```

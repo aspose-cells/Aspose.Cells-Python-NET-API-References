@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.equations/mathematicalequationnode/remove_all_childre
 is_root: false
 ---
 
-## remove_all_children {#}
+## remove_all_children(self) {#}
 
 Removes all the child nodes of the current node.
 
 
 
 ```python
+
 def remove_all_children(self):
     ...
 ```

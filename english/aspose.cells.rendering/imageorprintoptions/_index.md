@@ -19,7 +19,7 @@ The ImageOrPrintOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.rendering/imageorprintoptions/__init__/#) | Constructs a new instance of ImageOrPrintOptions |
+| [`__init__(self)`](/cells/python-net/aspose.cells.rendering/imageorprintoptions/__init__/#) | Constructs a new instance of ImageOrPrintOptions |
 
 
 ### Properties
@@ -68,8 +68,8 @@ The ImageOrPrintOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_desired_size](/cells/python-net/aspose.cells.rendering/imageorprintoptions/set_desired_size/#int-int) | Sets desired width and height of image. |
-| [set_desired_size](/cells/python-net/aspose.cells.rendering/imageorprintoptions/set_desired_size/#int-int-bool) | Sets desired width and height of image. |
+| [`set_desired_size(self, desired_width, desired_height)`](/cells/python-net/aspose.cells.rendering/imageorprintoptions/set_desired_size/#int-int) | Sets desired width and height of image. |
+| [`set_desired_size(self, desired_width, desired_height, keep_aspect_ratio)`](/cells/python-net/aspose.cells.rendering/imageorprintoptions/set_desired_size/#int-int-bool) | Sets desired width and height of image. |
 
 
 

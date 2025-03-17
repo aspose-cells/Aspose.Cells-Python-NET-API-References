@@ -3,7 +3,7 @@ title: page_change property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 870
 url: /aspose.cells.drawing/listbox/page_change/
 is_root: false
 ---

@@ -8,13 +8,14 @@ url: /aspose.cells/markdownsaveoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Creates options for saving markdown document
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

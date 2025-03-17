@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/get_commands/
 is_root: false
 ---
 
-## get_commands {#str}
+## get_commands(self, header_footer_script) {#str}
 
 Gets all commands of header or footer.
 
@@ -20,6 +20,7 @@ Returns all commands of header or footer.
 
 
 ```python
+
 def get_commands(self, header_footer_script):
     ...
 ```

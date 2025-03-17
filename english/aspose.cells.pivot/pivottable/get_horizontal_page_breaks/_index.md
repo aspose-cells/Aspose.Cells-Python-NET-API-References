@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/get_horizontal_page_breaks/
 is_root: false
 ---
 
-## get_horizontal_page_breaks {#}
+## get_horizontal_page_breaks(self) {#}
 
 Gets horizontal page breaks of this pivot table.
 
@@ -20,6 +20,7 @@ Gets horizontal page breaks of this pivot table.
 
 
 ```python
+
 def get_horizontal_page_breaks(self):
     ...
 ```

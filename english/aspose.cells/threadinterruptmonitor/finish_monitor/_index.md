@@ -8,13 +8,14 @@ url: /aspose.cells/threadinterruptmonitor/finish_monitor/
 is_root: false
 ---
 
-## finish_monitor {#}
+## finish_monitor(self) {#}
 
 Finishes the monitor for one procedure.
 
 
 
 ```python
+
 def finish_monitor(self):
     ...
 ```

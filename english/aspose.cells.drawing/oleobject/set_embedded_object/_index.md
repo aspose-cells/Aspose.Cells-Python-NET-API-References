@@ -3,18 +3,19 @@ title: set_embedded_object method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.drawing/oleobject/set_embedded_object/
 is_root: false
 ---
 
-## set_embedded_object {#bool-bytes-str-bool-str}
+## set_embedded_object(self, link_to_file, object_data, source_file_name, display_as_icon, label) {#bool-bytes-str-bool-str}
 
 Sets embedded object data.
 
 
 
 ```python
+
 def set_embedded_object(self, link_to_file, object_data, source_file_name, display_as_icon, label):
     ...
 ```
@@ -29,13 +30,14 @@ def set_embedded_object(self, link_to_file, object_data, source_file_name, displ
 | label | str | The icon label. Only works when displayAsIcon as true. |
 
 
-## set_embedded_object {#bool-bytes-str-bool-str-bool}
+## set_embedded_object(self, link_to_file, object_data, source_file_name, display_as_icon, label, update_icon) {#bool-bytes-str-bool-str-bool}
 
 Sets embedded object data.
 
 
 
 ```python
+
 def set_embedded_object(self, link_to_file, object_data, source_file_name, display_as_icon, label, update_icon):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.charts/axis/get_axis_texts/
 is_root: false
 ---
 
-## get_axis_texts {#}
+## get_axis_texts(self) {#}
 
 Gets the labels of the axis after call Chart.Calculate() method.
 
 
 
 ```python
+
 def get_axis_texts(self):
     ...
 ```

@@ -3,12 +3,12 @@ title: is_blank_column method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 750
+weight: 740
 url: /aspose.cells/cells/is_blank_column/
 is_root: false
 ---
 
-## is_blank_column {#int}
+## is_blank_column(self, column_index) {#int}
 
 Checks whether given column is blank(does not contain any data).
 
@@ -20,6 +20,7 @@ true if given column does not contain any data
 
 
 ```python
+
 def is_blank_column(self, column_index):
     ...
 ```

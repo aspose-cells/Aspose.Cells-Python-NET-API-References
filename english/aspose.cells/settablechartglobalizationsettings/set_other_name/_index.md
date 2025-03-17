@@ -8,13 +8,14 @@ url: /aspose.cells/settablechartglobalizationsettings/set_other_name/
 is_root: false
 ---
 
-## set_other_name {#str}
+## set_other_name(self, name) {#str}
 
 Sets the name of "Other" labels for Chart.
 
 
 
 ```python
+
 def set_other_name(self, name):
     ...
 ```

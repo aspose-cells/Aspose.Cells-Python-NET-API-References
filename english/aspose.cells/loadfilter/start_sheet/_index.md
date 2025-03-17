@@ -8,7 +8,7 @@ url: /aspose.cells/loadfilter/start_sheet/
 is_root: false
 ---
 
-## start_sheet {#aspose.cells.Worksheet}
+## start_sheet(self, sheet) {#aspose.cells.Worksheet}
 
 Prepares filter options before loading given worksheet.
 User's implementation of LoadFilter can change the LoadDataFilterOptions here
@@ -17,6 +17,7 @@ to denote how to load data for this worksheet.
 
 
 ```python
+
 def start_sheet(self, sheet):
     ...
 ```

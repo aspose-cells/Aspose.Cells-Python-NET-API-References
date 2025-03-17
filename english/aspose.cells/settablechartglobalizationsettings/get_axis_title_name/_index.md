@@ -8,7 +8,7 @@ url: /aspose.cells/settablechartglobalizationsettings/get_axis_title_name/
 is_root: false
 ---
 
-## get_axis_title_name {#}
+## get_axis_title_name(self) {#}
 
 Gets the name of Title for Axis.
 
@@ -20,6 +20,7 @@ Gets the name of Title for Axis.
 
 
 ```python
+
 def get_axis_title_name(self):
     ...
 ```

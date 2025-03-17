@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/show_report_filter_page_by_name/
 is_root: false
 ---
 
-## show_report_filter_page_by_name {#str}
+## show_report_filter_page_by_name(self, field_name) {#str}
 
 Show all the report filter pages according to PivotField's name, the PivotField must be located in the PageFields.
 
 
 
 ```python
+
 def show_report_filter_page_by_name(self, field_name):
     ...
 ```

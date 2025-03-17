@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbamodulecollection/get/
 is_root: false
 ---
 
-## get {#int}
+## get(self, index) {#int}
 
 Gets [`VbaModule`](/cells/python-net/aspose.cells.vba/vbamodule) in the list by the index.
 
@@ -20,6 +20,7 @@ Gets [`VbaModule`](/cells/python-net/aspose.cells.vba/vbamodule) in the list by 
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -30,7 +31,7 @@ def get(self, index):
 | index | int | The index. |
 
 
-## get {#str}
+## get(self, name) {#str}
 
 Gets [`VbaModule`](/cells/python-net/aspose.cells.vba/vbamodule) in the list by the name.
 
@@ -42,6 +43,7 @@ Gets [`VbaModule`](/cells/python-net/aspose.cells.vba/vbamodule) in the list by 
 
 
 ```python
+
 def get(self, name):
     ...
 ```

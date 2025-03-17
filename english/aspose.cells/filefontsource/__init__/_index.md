@@ -8,13 +8,14 @@ url: /aspose.cells/filefontsource/__init__/
 is_root: false
 ---
 
-## __init__ {#str}
+## \_\_init\_\_(self, file_path) {#str}
 
 Ctor.
 
 
 
 ```python
+
 def __init__(self, file_path):
     ...
 ```

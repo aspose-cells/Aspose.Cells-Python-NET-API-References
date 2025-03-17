@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/format3d/has_top_bevel_data/
 is_root: false
 ---
 
-## has_top_bevel_data {#}
+## has_top_bevel_data(self) {#}
 
 Indicates if the shape has top bevel data.
 
@@ -20,6 +20,7 @@ Indicates if the shape has top bevel data.
 
 
 ```python
+
 def has_top_bevel_data(self):
     ...
 ```

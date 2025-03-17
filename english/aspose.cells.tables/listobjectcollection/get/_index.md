@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listobjectcollection/get/
 is_root: false
 ---
 
-## get {#int}
+## get(self, index) {#int}
 
 Add API for Python Via .Net.since this[int] is unsupported
 
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -25,7 +26,7 @@ def get(self, index):
 | index | int |  |
 
 
-## get {#str}
+## get(self, table_name) {#str}
 
 Add API for Python Via .Net.since this[string] is unsupported
 
@@ -37,6 +38,7 @@ Add API for Python Via .Net.since this[string] is unsupported
 
 
 ```python
+
 def get(self, table_name):
     ...
 ```

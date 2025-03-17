@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.equations/borderboxequationnode/remove/
 is_root: false
 ---
 
-## remove {#}
+## remove(self) {#}
 
 Removes itself from the parent.
 
 
 
 ```python
+
 def remove(self):
     ...
 ```

@@ -3,12 +3,12 @@ title: is_column_hidden method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 750
 url: /aspose.cells/cells/is_column_hidden/
 is_root: false
 ---
 
-## is_column_hidden {#int}
+## is_column_hidden(self, column_index) {#int}
 
 Checks whether a column at given index is hidden.
 
@@ -20,6 +20,7 @@ true if the column is hidden.
 
 
 ```python
+
 def is_column_hidden(self, column_index):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/scenariocollection/add/
 is_root: false
 ---
 
-## add {#str}
+## add(self, name) {#str}
 
 Adds a scenario.
 
@@ -20,6 +20,7 @@ The index in the list of scenarios.
 
 
 ```python
+
 def add(self, name):
     ...
 ```

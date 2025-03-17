@@ -19,7 +19,7 @@ The SeriesLayoutProperties type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.charts/serieslayoutproperties/__init__/#) | Constructs a new instance of SeriesLayoutProperties |
+| [`__init__(self)`](/cells/python-net/aspose.cells.charts/serieslayoutproperties/__init__/#) | Constructs a new instance of SeriesLayoutProperties |
 
 
 ### Properties

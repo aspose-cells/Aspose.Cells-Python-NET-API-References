@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_protected_nam
 is_root: false
 ---
 
-## get_text_of_protected_name {#str}
+## get_text_of_protected_name(self, protected_name) {#str}
 
 Gets the text for specified protected name.
 
@@ -20,6 +20,7 @@ The local prorected names of PivotTable.
 
 
 ```python
+
 def get_text_of_protected_name(self, protected_name):
     ...
 ```

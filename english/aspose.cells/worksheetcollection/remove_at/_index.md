@@ -8,13 +8,14 @@ url: /aspose.cells/worksheetcollection/remove_at/
 is_root: false
 ---
 
-## remove_at {#str}
+## remove_at(self, name) {#str}
 
 Removes the element at a specified name.
 
 
 
 ```python
+
 def remove_at(self, name):
     ...
 ```

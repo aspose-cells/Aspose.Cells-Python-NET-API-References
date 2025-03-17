@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/get_picture/
 is_root: false
 ---
 
-## get_picture {#bool-int}
+## get_picture(self, is_header, section) {#bool-int}
 
 Gets the [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object of the header / footer.
 
@@ -21,6 +21,7 @@ Returns null if there is no picture.
 
 
 ```python
+
 def get_picture(self, is_header, section):
     ...
 ```
@@ -32,7 +33,7 @@ def get_picture(self, is_header, section):
 | section | int | 0: Left Section, 1: Center Section, 2: Right Section. |
 
 
-## get_picture {#bool-bool-bool-int}
+## get_picture(self, is_first, is_even, is_header, section) {#bool-bool-bool-int}
 
 Gets the [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object of the header / footer.
 
@@ -44,6 +45,7 @@ Returns [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object.
 
 
 ```python
+
 def get_picture(self, is_first, is_even, is_header, section):
     ...
 ```

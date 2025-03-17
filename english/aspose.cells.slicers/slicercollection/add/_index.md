@@ -8,7 +8,7 @@ url: /aspose.cells.slicers/slicercollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.pivot.PivotTable-str-str}
+## add(self, pivot, dest_cell_name, base_field_name) {#aspose.cells.pivot.PivotTable-str-str}
 
 Add a new Slicer using PivotTable as data source
 
@@ -20,6 +20,7 @@ The new add Slicer index
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field_name):
     ...
 ```
@@ -41,7 +42,7 @@ slicers.add(pivot, "E3", "fruit")
 ```
 
 
-## add {#aspose.cells.pivot.PivotTable-str-int}
+## add(self, pivot, dest_cell_name, base_field_index) {#aspose.cells.pivot.PivotTable-str-int}
 
 Add a new Slicer using PivotTable as data source
 
@@ -53,6 +54,7 @@ The new add Slicer index
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field_index):
     ...
 ```
@@ -74,7 +76,7 @@ slicers.add(pivot, "E20", 0)
 ```
 
 
-## add {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
+## add(self, pivot, dest_cell_name, base_field) {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
 
 Add a new Slicer using PivotTable as data source
 
@@ -86,6 +88,7 @@ The new add Slicer index
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field):
     ...
 ```
@@ -107,7 +110,7 @@ slicers.add(pivot, "I3", pivot.base_fields[0])
 ```
 
 
-## add {#aspose.cells.tables.ListObject-int-str}
+## add(self, table, index, dest_cell_name) {#aspose.cells.tables.ListObject-int-str}
 
 Add a new Slicer using ListObjet as data source
 
@@ -119,6 +122,7 @@ The new add Slicer index
 
 
 ```python
+
 def add(self, table, index, dest_cell_name):
     ...
 ```
@@ -140,7 +144,7 @@ slicers.add(table, 1, "E38")
 ```
 
 
-## add {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str}
+## add(self, table, list_column, dest_cell_name) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str}
 
 Add a new Slicer using ListObjet as data source
 
@@ -152,6 +156,7 @@ The new add Slicer index
 
 
 ```python
+
 def add(self, table, list_column, dest_cell_name):
     ...
 ```
@@ -173,7 +178,7 @@ slicers.add(table, table.list_columns[1], "I38")
 ```
 
 
-## add {#aspose.cells.pivot.PivotTable-int-int-str}
+## add(self, pivot, row, column, base_field_name) {#aspose.cells.pivot.PivotTable-int-int-str}
 
 Add a new Slicer using PivotTable as data source
 
@@ -185,6 +190,7 @@ The new add Slicer index
 
 
 ```python
+
 def add(self, pivot, row, column, base_field_name):
     ...
 ```
@@ -207,7 +213,7 @@ slicers.add(pivot, 20, 12, "fruit")
 ```
 
 
-## add {#aspose.cells.pivot.PivotTable-int-int-int}
+## add(self, pivot, row, column, base_field_index) {#aspose.cells.pivot.PivotTable-int-int-int}
 
 Add a new Slicer using PivotTable as data source
 
@@ -219,6 +225,7 @@ The new add Slicer index
 
 
 ```python
+
 def add(self, pivot, row, column, base_field_index):
     ...
 ```
@@ -241,7 +248,7 @@ slicers.add(pivot, 20, 8, 0)
 ```
 
 
-## add {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
+## add(self, pivot, row, column, base_field) {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
 
 Add a new Slicer using PivotTable as data source
 
@@ -253,6 +260,7 @@ The new add Slicer index
 
 
 ```python
+
 def add(self, pivot, row, column, base_field):
     ...
 ```
@@ -275,7 +283,7 @@ slicers.add(pivot, 3, 12, pivot.base_fields[0])
 ```
 
 
-## add {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int}
+## add(self, table, list_column, row, column) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int}
 
 Add a new Slicer using ListObjet as data source
 
@@ -287,6 +295,7 @@ The new add Slicer index
 
 
 ```python
+
 def add(self, table, list_column, row, column):
     ...
 ```

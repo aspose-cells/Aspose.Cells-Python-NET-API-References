@@ -3,12 +3,12 @@ title: get_matching_color method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells/workbook/get_matching_color/
 is_root: false
 ---
 
-## get_matching_color {#aspose.pydrawing.Color}
+## get_matching_color(self, raw_color) {#aspose.pydrawing.Color}
 
 Find best matching Color in current palette.
 
@@ -20,6 +20,7 @@ Best matching color.
 
 
 ```python
+
 def get_matching_color(self, raw_color):
     ...
 ```

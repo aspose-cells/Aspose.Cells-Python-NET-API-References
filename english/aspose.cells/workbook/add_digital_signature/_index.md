@@ -8,13 +8,14 @@ url: /aspose.cells/workbook/add_digital_signature/
 is_root: false
 ---
 
-## add_digital_signature {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
+## add_digital_signature(self, digital_signature_collection) {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
 
 Adds digital signature to an OOXML spreadsheet file (Excel2007 and later).
 
 
 
 ```python
+
 def add_digital_signature(self, digital_signature_collection):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/icustomparser/get_format/
 is_root: false
 ---
 
-## get_format {#}
+## get_format(self) {#}
 
 Gets the formatting pattern corresponding to the parsed value by last invocation of [`ICustomParser.parse_object`](/cells/python-net/aspose.cells/icustomparser/parse_object).
 
 
 
 ```python
+
 def get_format(self):
     ...
 ```

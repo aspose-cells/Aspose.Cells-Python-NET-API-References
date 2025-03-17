@@ -8,7 +8,7 @@ url: /aspose.cells.charts/sparklinegroupcollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.charts.SparklineType}
+## add(self, type) {#aspose.cells.charts.SparklineType}
 
 Adds an [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) with a [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) to the collection.
 
@@ -20,6 +20,7 @@ Adds an [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup)
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -30,7 +31,7 @@ def add(self, type):
 | type | [`SparklineType`](/cells/python-net/aspose.cells.charts/sparklinetype) | Specifies the type of the Sparkline group. |
 
 
-## add {#aspose.cells.charts.SparklineType-str-bool-aspose.cells.CellArea}
+## add(self, type, data_range, is_vertical, location_range) {#aspose.cells.charts.SparklineType-str-bool-aspose.cells.CellArea}
 
 Adds an [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) with [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) to the collection.
 
@@ -42,6 +43,7 @@ Adds an [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup)
 
 
 ```python
+
 def add(self, type, data_range, is_vertical, location_range):
     ...
 ```

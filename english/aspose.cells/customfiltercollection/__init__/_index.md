@@ -8,13 +8,14 @@ url: /aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs new instance.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

@@ -27,8 +27,8 @@ The Sparkline type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [to_image](/cells/python-net/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Converts a sparkline to an image. |
-| [to_image](/cells/python-net/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Converts a sparkline to an image. |
+| [`to_image(self, file_name, options)`](/cells/python-net/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.imageorprintoptions) | Converts a sparkline to an image. |
+| [`to_image(self, stream, options)`](/cells/python-net/aspose.cells.charts/sparkline/to_image/#io.rawiobase-aspose.cells.rendering.imageorprintoptions) | Converts a sparkline to an image. |
 
 
 

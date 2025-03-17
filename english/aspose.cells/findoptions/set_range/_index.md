@@ -8,13 +8,14 @@ url: /aspose.cells/findoptions/set_range/
 is_root: false
 ---
 
-## set_range {#aspose.cells.CellArea}
+## set_range(self, ca) {#aspose.cells.CellArea}
 
 Sets the searched range.
 
 
 
 ```python
+
 def set_range(self, ca):
     ...
 ```

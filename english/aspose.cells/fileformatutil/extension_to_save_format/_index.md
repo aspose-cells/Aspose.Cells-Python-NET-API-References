@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/extension_to_save_format/
 is_root: false
 ---
 
-## extension_to_save_format {#str}
+## extension_to_save_format(, extension) {#str}
 
 Converts a file name extension into a SaveFormat value.
 
@@ -20,7 +20,9 @@ Converts a file name extension into a SaveFormat value.
 
 
 ```python
-def extension_to_save_format(self, extension):
+
+@staticmethod
+def extension_to_save_format(extension):
     ...
 ```
 

@@ -8,13 +8,14 @@ url: /aspose.cells/range/copy_data/
 is_root: false
 ---
 
-## copy_data {#aspose.cells.Range}
+## copy_data(self, range) {#aspose.cells.Range}
 
 Copies cell data (including formulas) from a source range.
 
 
 
 ```python
+
 def copy_data(self, range):
     ...
 ```

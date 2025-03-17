@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/hide_item_detail/
 is_root: false
 ---
 
-## hide_item_detail {#int-bool}
+## hide_item_detail(self, index, is_hidden_detail) {#int-bool}
 
 Sets whether the specific PivotItem in a pivot field is hidden detail.
 
 
 
 ```python
+
 def hide_item_detail(self, index, is_hidden_detail):
     ...
 ```

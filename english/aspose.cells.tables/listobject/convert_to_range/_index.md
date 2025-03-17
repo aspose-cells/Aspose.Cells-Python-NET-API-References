@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listobject/convert_to_range/
 is_root: false
 ---
 
-## convert_to_range {#}
+## convert_to_range(self) {#}
 
 Convert the table to range.
 
 
 
 ```python
+
 def convert_to_range(self):
     ...
 ```
@@ -22,13 +23,14 @@ def convert_to_range(self):
 
 
 
-## convert_to_range {#aspose.cells.tables.TableToRangeOptions}
+## convert_to_range(self, options) {#aspose.cells.tables.TableToRangeOptions}
 
 Convert the table to range.
 
 
 
 ```python
+
 def convert_to_range(self, options):
     ...
 ```

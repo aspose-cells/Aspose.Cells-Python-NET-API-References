@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listcolumn/set_data_style/
 is_root: false
 ---
 
-## set_data_style {#aspose.cells.Style}
+## set_data_style(self, style) {#aspose.cells.Style}
 
 Sets the style of the data in this column of the table.
 
 
 
 ```python
+
 def set_data_style(self, style):
     ...
 ```

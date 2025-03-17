@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/format/
 is_root: false
 ---
 
-## format {#aspose.cells.pivot.PivotArea-aspose.cells.Style}
+## format(self, pivot_area, style) {#aspose.cells.pivot.PivotArea-aspose.cells.Style}
 
 Formats selected area of the PivotTable.
 
 
 
 ```python
+
 def format(self, pivot_area, style):
     ...
 ```
@@ -26,13 +27,14 @@ def format(self, pivot_area, style):
 | style | [`Style`](/cells/python-net/aspose.cells/style) | The formatted setting. |
 
 
-## format {#aspose.cells.CellArea-aspose.cells.Style}
+## format(self, ca, style) {#aspose.cells.CellArea-aspose.cells.Style}
 
 Formats selected area of the PivotTable.
 
 
 
 ```python
+
 def format(self, ca, style):
     ...
 ```
@@ -44,13 +46,14 @@ def format(self, ca, style):
 | style | [`Style`](/cells/python-net/aspose.cells/style) | The style |
 
 
-## format {#int-int-aspose.cells.Style}
+## format(self, row, column, style) {#int-int-aspose.cells.Style}
 
 Format the cell in the pivottable area
 
 
 
 ```python
+
 def format(self, row, column, style):
     ...
 ```

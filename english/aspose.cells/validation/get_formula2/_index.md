@@ -8,7 +8,7 @@ url: /aspose.cells/validation/get_formula2/
 is_root: false
 ---
 
-## get_formula2 {#bool-bool}
+## get_formula2(self, is_r1c1, is_local) {#bool-bool}
 
 Gets the value or expression associated with this validation.
 
@@ -20,6 +20,7 @@ The value or expression associated with this validation.
 
 
 ```python
+
 def get_formula2(self, is_r1c1, is_local):
     ...
 ```
@@ -31,7 +32,7 @@ def get_formula2(self, is_r1c1, is_local):
 | is_local | bool | Whether the formula needs to be formatted by locale. |
 
 
-## get_formula2 {#bool-bool-int-int}
+## get_formula2(self, is_r1c1, is_local, row, column) {#bool-bool-int-int}
 
 Gets the value or expression associated with this validation for specific cell.
 
@@ -43,6 +44,7 @@ The value or expression associated with this validation.
 
 
 ```python
+
 def get_formula2(self, is_r1c1, is_local, row, column):
     ...
 ```

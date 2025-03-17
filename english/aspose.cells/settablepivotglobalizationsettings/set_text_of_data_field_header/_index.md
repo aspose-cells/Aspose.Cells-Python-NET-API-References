@@ -8,13 +8,14 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_data_field_hea
 is_root: false
 ---
 
-## set_text_of_data_field_header {#str}
+## set_text_of_data_field_header(self, text) {#str}
 
 Sets the the text of the value area field header in the PivotTable.
 
 
 
 ```python
+
 def set_text_of_data_field_header(self, text):
     ...
 ```

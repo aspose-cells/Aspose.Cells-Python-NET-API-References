@@ -8,14 +8,16 @@ url: /aspose.cells/cellshelper/add_add_in_function/
 is_root: false
 ---
 
-## add_add_in_function {#str-int-int-list-aspose.cells.ParameterType}
+## add_add_in_function(, function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type) {#str-int-int-list-aspose.cells.ParameterType}
 
 Add addin function.
 
 
 
 ```python
-def add_add_in_function(self, function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type):
+
+@staticmethod
+def add_add_in_function(function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type):
     ...
 ```
 

@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/add_field_to_area/
 is_root: false
 ---
 
-## add_field_to_area {#aspose.cells.pivot.PivotFieldType-str}
+## add_field_to_area(self, field_type, field_name) {#aspose.cells.pivot.PivotFieldType-str}
 
 Adds the field to the specific area.
 
@@ -20,6 +20,7 @@ The field position in the specific fields.If there is no field named as it, retu
 
 
 ```python
+
 def add_field_to_area(self, field_type, field_name):
     ...
 ```
@@ -31,7 +32,7 @@ def add_field_to_area(self, field_type, field_name):
 | field_name | str | The name in the base fields. |
 
 
-## add_field_to_area {#aspose.cells.pivot.PivotFieldType-int}
+## add_field_to_area(self, field_type, base_field_index) {#aspose.cells.pivot.PivotFieldType-int}
 
 Adds the field to the specific area.
 
@@ -43,6 +44,7 @@ The field position in the specific fields.
 
 
 ```python
+
 def add_field_to_area(self, field_type, base_field_index):
     ...
 ```
@@ -54,7 +56,7 @@ def add_field_to_area(self, field_type, base_field_index):
 | base_field_index | int | The field index in the base fields. |
 
 
-## add_field_to_area {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
+## add_field_to_area(self, field_type, pivot_field) {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
 
 Adds the field to the specific area.
 
@@ -66,6 +68,7 @@ the field position in the specific fields.
 
 
 ```python
+
 def add_field_to_area(self, field_type, pivot_field):
     ...
 ```

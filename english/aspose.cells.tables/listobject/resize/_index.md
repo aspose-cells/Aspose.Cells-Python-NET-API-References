@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listobject/resize/
 is_root: false
 ---
 
-## resize {#int-int-int-int-bool}
+## resize(self, start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
 
 Resize the range of the list object.
 
 
 
 ```python
+
 def resize(self, start_row, start_column, end_row, end_column, has_headers):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/texteffectformat/set_text_effect/
 is_root: false
 ---
 
-## set_text_effect {#aspose.cells.drawing.MsoPresetTextEffect}
+## set_text_effect(self, effect) {#aspose.cells.drawing.MsoPresetTextEffect}
 
 Sets the preset text effect.
 
 
 
 ```python
+
 def set_text_effect(self, effect):
     ...
 ```

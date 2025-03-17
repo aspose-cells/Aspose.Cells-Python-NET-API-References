@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdatahandler/start_sheet/
 is_root: false
 ---
 
-## start_sheet {#aspose.cells.Worksheet}
+## start_sheet(self, sheet) {#aspose.cells.Worksheet}
 
 Starts to process a worksheet.
 
@@ -20,6 +20,7 @@ whether this sheet's cells data needs to be processed. false to ignore this shee
 
 
 ```python
+
 def start_sheet(self, sheet):
     ...
 ```

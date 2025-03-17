@@ -18,6 +18,15 @@ The default value is 17.
 
 
 Only could be 15 or 17 now.
+### Definition:
+```python
+@property
+def significant_digits(self):
+    ...
+@staticmethod
+def set_significant_digits(value):
+    ...
+```
 
 ### See Also
 * module [`aspose.cells`](../../)

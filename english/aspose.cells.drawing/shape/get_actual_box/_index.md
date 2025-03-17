@@ -3,12 +3,12 @@ title: get_actual_box method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells.drawing/shape/get_actual_box/
 is_root: false
 ---
 
-## get_actual_box {#}
+## get_actual_box(self) {#}
 
 Get the actual position and size of the shape (after applying rotation, flip, etc.)
 
@@ -20,6 +20,7 @@ Return the position and size in the order of x, y, w, h
 
 
 ```python
+
 def get_actual_box(self):
     ...
 ```

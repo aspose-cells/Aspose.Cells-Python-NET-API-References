@@ -3,12 +3,12 @@ title: get_max_grouped_column_outline_level method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /aspose.cells/cells/get_max_grouped_column_outline_level/
 is_root: false
 ---
 
-## get_max_grouped_column_outline_level {#}
+## get_max_grouped_column_outline_level(self) {#}
 
 Gets the max grouped column outline level (zero-based).
 
@@ -20,6 +20,7 @@ The max grouped column outline level (zero-based)
 
 
 ```python
+
 def get_max_grouped_column_outline_level(self):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartglobalizationsettings/get_axis_unit_name/
 is_root: false
 ---
 
-## get_axis_unit_name {#aspose.cells.charts.DisplayUnitType}
+## get_axis_unit_name(self, type) {#aspose.cells.charts.DisplayUnitType}
 
 Gets the Name of Axis Unit.
 
@@ -20,6 +20,7 @@ Gets the Name of Axis Unit.
 
 
 ```python
+
 def get_axis_unit_name(self, type):
     ...
 ```

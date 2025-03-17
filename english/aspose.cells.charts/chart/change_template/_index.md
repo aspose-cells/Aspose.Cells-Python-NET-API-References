@@ -8,13 +8,14 @@ url: /aspose.cells.charts/chart/change_template/
 is_root: false
 ---
 
-## change_template {#bytes}
+## change_template(self, data) {#bytes}
 
 Change chart type with preset template.
 
 
 
 ```python
+
 def change_template(self, data):
     ...
 ```

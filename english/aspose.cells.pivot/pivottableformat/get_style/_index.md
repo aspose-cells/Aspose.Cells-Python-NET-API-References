@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottableformat/get_style/
 is_root: false
 ---
 
-## get_style {#}
+## get_style(self) {#}
 
 Gets the formatted style.
 
@@ -20,6 +20,7 @@ Gets the formatted style.
 
 
 ```python
+
 def get_style(self):
     ...
 ```

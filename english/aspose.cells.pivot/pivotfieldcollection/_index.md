@@ -35,10 +35,10 @@ Gets the PivotField Object at the specific index.
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_by_base_index](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Adds a PivotField Object to the specific type PivotFields. |
-| [add](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.PivotField) | Adds a PivotField Object to the specific type PivotFields. |
-| [clear](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/clear/#) | clear all fields of PivotFieldCollection |
-| [move](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Moves the PivotField from current position to destination position |
+| [`add_by_base_index(self, base_field_index)`](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Adds a PivotField Object to the specific type PivotFields. |
+| [`add(self, pivot_field)`](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.pivotfield) | Adds a PivotField Object to the specific type PivotFields. |
+| [`clear(self)`](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/clear/#) | clear all fields of PivotFieldCollection |
+| [`move(self, curr_pos, dest_pos)`](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Moves the PivotField from current position to destination position |
 
 
 

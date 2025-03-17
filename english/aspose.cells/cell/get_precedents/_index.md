@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_precedents/
 is_root: false
 ---
 
-## get_precedents {#}
+## get_precedents(self) {#}
 
 Gets all references appearing in this cell's formula.
 
@@ -20,6 +20,7 @@ Collection of all references appearing in this cell's formula.
 
 
 ```python
+
 def get_precedents(self):
     ...
 ```

@@ -3,18 +3,19 @@ title: protect method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /aspose.cells/workbook/protect/
 is_root: false
 ---
 
-## protect {#aspose.cells.ProtectionType-str}
+## protect(self, protection_type, password) {#aspose.cells.ProtectionType-str}
 
 Protects a workbook.
 
 
 
 ```python
+
 def protect(self, protection_type, password):
     ...
 ```

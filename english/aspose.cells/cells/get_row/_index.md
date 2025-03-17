@@ -3,12 +3,12 @@ title: get_row method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /aspose.cells/cells/get_row/
 is_root: false
 ---
 
-## get_row {#int}
+## get_row(self, row) {#int}
 
 Gets the [`Row`](/cells/python-net/aspose.cells/row) element at the specified cell row index.
 
@@ -20,6 +20,7 @@ If the row object does exist return Row object, otherwise return null.
 
 
 ```python
+
 def get_row(self, row):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/cells/copy_row/
 is_root: false
 ---
 
-## copy_row {#aspose.cells.Cells-int-int}
+## copy_row(self, source_cells, source_row_index, destination_row_index) {#aspose.cells.Cells-int-int}
 
 Copies data and formats of a whole row.
 
 
 
 ```python
+
 def copy_row(self, source_cells, source_row_index, destination_row_index):
     ...
 ```

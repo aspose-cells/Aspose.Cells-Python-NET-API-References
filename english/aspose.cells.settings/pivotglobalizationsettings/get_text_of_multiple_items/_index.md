@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_multiple_item
 is_root: false
 ---
 
-## get_text_of_multiple_items {#}
+## get_text_of_multiple_items(self) {#}
 
 Gets the text of "(Multiple Items)" label in the PivotTable.
 
@@ -20,6 +20,7 @@ The text of "(Multiple Items)" label
 
 
 ```python
+
 def get_text_of_multiple_items(self):
     ...
 ```

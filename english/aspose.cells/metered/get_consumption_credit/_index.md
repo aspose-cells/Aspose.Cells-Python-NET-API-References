@@ -8,7 +8,7 @@ url: /aspose.cells/metered/get_consumption_credit/
 is_root: false
 ---
 
-## get_consumption_credit {#}
+## get_consumption_credit() {#}
 
 Gets consumption credit
 
@@ -20,7 +20,9 @@ consumption quantity
 
 
 ```python
-def get_consumption_credit(self):
+
+@staticmethod
+def get_consumption_credit():
     ...
 ```
 

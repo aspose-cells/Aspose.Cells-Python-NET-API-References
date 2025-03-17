@@ -8,13 +8,14 @@ url: /aspose.cells/validation/add_area/
 is_root: false
 ---
 
-## add_area {#aspose.cells.CellArea}
+## add_area(self, cell_area) {#aspose.cells.CellArea}
 
 Applies the validation to the area.
 
 
 
 ```python
+
 def add_area(self, cell_area):
     ...
 ```
@@ -28,13 +29,14 @@ def add_area(self, cell_area):
 It is equivalent to use [`Validation.add_area`](/cells/python-net/aspose.cells/validation/add_area)
 with checking intersection and edge.
 
-## add_area {#aspose.cells.CellArea-bool-bool}
+## add_area(self, cell_area, check_intersection, check_edge) {#aspose.cells.CellArea-bool-bool}
 
 Applies the validation to the area.
 
 
 
 ```python
+
 def add_area(self, cell_area, check_intersection, check_edge):
     ...
 ```

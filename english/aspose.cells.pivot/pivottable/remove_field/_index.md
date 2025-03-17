@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/remove_field/
 is_root: false
 ---
 
-## remove_field {#aspose.cells.pivot.PivotFieldType-str}
+## remove_field(self, field_type, field_name) {#aspose.cells.pivot.PivotFieldType-str}
 
 Removes a field from specific field area
 
 
 
 ```python
+
 def remove_field(self, field_type, field_name):
     ...
 ```
@@ -26,13 +27,14 @@ def remove_field(self, field_type, field_name):
 | field_name | str | The name in the base fields. |
 
 
-## remove_field {#aspose.cells.pivot.PivotFieldType-int}
+## remove_field(self, field_type, base_field_index) {#aspose.cells.pivot.PivotFieldType-int}
 
 Removes a field from specific field area
 
 
 
 ```python
+
 def remove_field(self, field_type, base_field_index):
     ...
 ```
@@ -44,13 +46,14 @@ def remove_field(self, field_type, base_field_index):
 | base_field_index | int | The field index in the base fields. |
 
 
-## remove_field {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
+## remove_field(self, field_type, pivot_field) {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
 
 Remove field from specific field area
 
 
 
 ```python
+
 def remove_field(self, field_type, pivot_field):
     ...
 ```

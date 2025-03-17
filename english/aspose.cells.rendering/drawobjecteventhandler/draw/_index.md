@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/drawobjecteventhandler/draw/
 is_root: false
 ---
 
-## draw {#aspose.cells.rendering.DrawObject-float-float-float-float}
+## draw(self, draw_object, x, y, width, height) {#aspose.cells.rendering.DrawObject-float-float-float-float}
 
 Implements this interface to get DrawObject and Bound when rendering.
 
 
 
 ```python
+
 def draw(self, draw_object, x, y, width, height):
     ...
 ```

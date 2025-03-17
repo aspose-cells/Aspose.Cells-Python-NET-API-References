@@ -8,7 +8,7 @@ url: /aspose.cells/range/union/
 is_root: false
 ---
 
-## union {#aspose.cells.Range}
+## union(self, range) {#aspose.cells.Range}
 
 Returns the union of two ranges.
 
@@ -20,6 +20,7 @@ The union of two ranges.
 
 
 ```python
+
 def union(self, range):
     ...
 ```

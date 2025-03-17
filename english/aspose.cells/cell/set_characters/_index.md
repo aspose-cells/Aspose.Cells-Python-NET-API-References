@@ -8,13 +8,14 @@ url: /aspose.cells/cell/set_characters/
 is_root: false
 ---
 
-## set_characters {#list}
+## set_characters(self, characters) {#list}
 
 Sets rich text format of the cell.
 
 
 
 ```python
+
 def set_characters(self, characters):
     ...
 ```

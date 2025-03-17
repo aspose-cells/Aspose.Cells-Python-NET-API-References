@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/get_table_row_type_of_all/
 is_root: false
 ---
 
-## get_table_row_type_of_all {#}
+## get_table_row_type_of_all(self) {#}
 
 Gets the type name of table rows that consists of all rows in referenced table.
 
@@ -20,6 +20,7 @@ the type name of table rows
 
 
 ```python
+
 def get_table_row_type_of_all(self):
     ...
 ```

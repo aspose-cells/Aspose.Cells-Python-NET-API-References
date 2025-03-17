@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_multiple_items_name/
 is_root: false
 ---
 
-## get_multiple_items_name {#}
+## get_multiple_items_name(self) {#}
 
 Gets the name of "(Multiple Items)" label in the PivotTable.
 
@@ -20,6 +20,7 @@ The name of "(Multiple Items)" label
 
 
 ```python
+
 def get_multiple_items_name(self):
     ...
 ```

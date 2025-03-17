@@ -8,13 +8,14 @@ url: /aspose.cells/settablechartglobalizationsettings/set_axis_unit_name/
 is_root: false
 ---
 
-## set_axis_unit_name {#aspose.cells.charts.DisplayUnitType-str}
+## set_axis_unit_name(self, type, name) {#aspose.cells.charts.DisplayUnitType-str}
 
 Sets the Name of Axis Unit.
 
 
 
 ```python
+
 def set_axis_unit_name(self, type, name):
     ...
 ```

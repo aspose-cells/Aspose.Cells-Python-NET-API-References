@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/get_version/
 is_root: false
 ---
 
-## get_version {#}
+## get_version() {#}
 
 Get the release version.
 
@@ -20,7 +20,9 @@ The release version.
 
 
 ```python
-def get_version(self):
+
+@staticmethod
+def get_version():
     ...
 ```
 

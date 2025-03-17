@@ -88,6 +88,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource) | Represents the folder that contains TrueType font files. |
 | [`Font`](/cells/python-net/aspose.cells/font) | Encapsulates the font object used in a spreadsheet. |
 | [`FontConfigs`](/cells/python-net/aspose.cells/fontconfigs) | Specifies font settings |
+| [`FontFileDataInfo`](/cells/python-net/aspose.cells/fontfiledatainfo) | Represents data infomation of font file data. |
 | [`FontSetting`](/cells/python-net/aspose.cells/fontsetting) | Represents a range of characters within the cell text. |
 | [`FontSourceBase`](/cells/python-net/aspose.cells/fontsourcebase) | This is an abstract base class for the classes that allow the user to specify various font sources |
 | [`FormatCondition`](/cells/python-net/aspose.cells/formatcondition) | Represents conditional formatting condition. |
@@ -243,6 +244,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`FilterCategory`](/cells/python-net/aspose.cells/filtercategory) | Represents the category of the filter. |
 | [`FilterOperatorType`](/cells/python-net/aspose.cells/filteroperatortype) | Custom Filter operator type. |
 | [`FilterType`](/cells/python-net/aspose.cells/filtertype) | The filter type. |
+| [`FontFileFormatType`](/cells/python-net/aspose.cells/fontfileformattype) | Represents font format type. |
 | [`FontSchemeType`](/cells/python-net/aspose.cells/fontschemetype) | Represents the scheme type of the font. |
 | [`FontSourceType`](/cells/python-net/aspose.cells/fontsourcetype) | Specifies the type of a font source. |
 | [`FontUnderlineType`](/cells/python-net/aspose.cells/fontunderlinetype) | Enumerates the font underline types. |

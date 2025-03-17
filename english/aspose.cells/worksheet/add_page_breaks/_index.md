@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/add_page_breaks/
 is_root: false
 ---
 
-## add_page_breaks {#str}
+## add_page_breaks(self, cell_name) {#str}
 
 Adds page break.
 
 
 
 ```python
+
 def add_page_breaks(self, cell_name):
     ...
 ```

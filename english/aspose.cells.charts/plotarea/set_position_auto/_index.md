@@ -8,13 +8,14 @@ url: /aspose.cells.charts/plotarea/set_position_auto/
 is_root: false
 ---
 
-## set_position_auto {#}
+## set_position_auto(self) {#}
 
 Set position of the plot area to automatic
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```

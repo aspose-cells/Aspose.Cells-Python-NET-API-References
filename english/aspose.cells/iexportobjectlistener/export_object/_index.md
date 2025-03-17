@@ -8,7 +8,7 @@ url: /aspose.cells/iexportobjectlistener/export_object/
 is_root: false
 ---
 
-## export_object {#aspose.cells.ExportObjectEvent}
+## export_object(self, e) {#aspose.cells.ExportObjectEvent}
 
 Export one object.
 
@@ -23,6 +23,7 @@ the result is URL string to access the saved Image from the html file which cont
 
 
 ```python
+
 def export_object(self, e):
     ...
 ```

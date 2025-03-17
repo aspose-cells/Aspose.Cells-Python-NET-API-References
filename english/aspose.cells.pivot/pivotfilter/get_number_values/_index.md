@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfilter/get_number_values/
 is_root: false
 ---
 
-## get_number_values {#}
+## get_number_values(self) {#}
 
 Gets values of the number filter.
 
@@ -20,6 +20,7 @@ Gets values of the number filter.
 
 
 ```python
+
 def get_number_values(self):
     ...
 ```

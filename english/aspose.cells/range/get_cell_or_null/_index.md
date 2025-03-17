@@ -8,7 +8,7 @@ url: /aspose.cells/range/get_cell_or_null/
 is_root: false
 ---
 
-## get_cell_or_null {#int-int}
+## get_cell_or_null(self, row_offset, column_offset) {#int-int}
 
 Gets [`Cell`](/cells/python-net/aspose.cells/cell) object or null in this range.
 
@@ -20,6 +20,7 @@ Gets [`Cell`](/cells/python-net/aspose.cells/cell) object or null in this range.
 
 
 ```python
+
 def get_cell_or_null(self, row_offset, column_offset):
     ...
 ```

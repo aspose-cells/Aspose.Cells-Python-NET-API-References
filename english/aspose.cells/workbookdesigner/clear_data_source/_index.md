@@ -8,13 +8,14 @@ url: /aspose.cells/workbookdesigner/clear_data_source/
 is_root: false
 ---
 
-## clear_data_source {#}
+## clear_data_source(self) {#}
 
 Clears all data sources.
 
 
 
 ```python
+
 def clear_data_source(self):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/databar/to_image/
 is_root: false
 ---
 
-## to_image {#aspose.cells.Cell-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image(self, cell, img_opts) {#aspose.cells.Cell-aspose.cells.rendering.ImageOrPrintOptions}
 
 Render data bar in cell to image byte array.
 
@@ -20,6 +20,7 @@ Render data bar in cell to image byte array.
 
 
 ```python
+
 def to_image(self, cell, img_opts):
     ...
 ```

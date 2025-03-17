@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/filter_by_date/
 is_root: false
 ---
 
-## filter_by_date {#aspose.cells.pivot.PivotFilterType-DateTime-DateTime}
+## filter_by_date(self, type, date_time1, date_time2) {#aspose.cells.pivot.PivotFilterType-DateTime-DateTime}
 
 Filters by date setting of row or column pivot field.
 
 
 
 ```python
+
 def filter_by_date(self, type, date_time1, date_time2):
     ...
 ```

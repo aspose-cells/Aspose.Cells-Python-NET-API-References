@@ -8,7 +8,7 @@ url: /aspose.cells/style/update/
 is_root: false
 ---
 
-## update {#}
+## update(self) {#}
 
 Apply the named style to the styles of the cells which use this named style.
 It works like clicking the "ok" button after you finished modifying the style.
@@ -17,6 +17,7 @@ Only applies for named style.
 
 
 ```python
+
 def update(self):
     ...
 ```

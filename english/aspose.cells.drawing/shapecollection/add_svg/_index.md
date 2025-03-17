@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_svg/
 is_root: false
 ---
 
-## add_svg {#int-int-int-int-int-int-bytes-bytes}
+## add_svg(self, upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
 
 Adds svg image.
 
@@ -20,6 +20,7 @@ Adds svg image.
 
 
 ```python
+
 def add_svg(self, upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data):
     ...
 ```

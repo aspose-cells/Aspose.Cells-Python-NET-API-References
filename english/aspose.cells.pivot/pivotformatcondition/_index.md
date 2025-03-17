@@ -25,13 +25,13 @@ The PivotFormatCondition type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_data_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) |  |
-| [add_data_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#aspose.cells.pivot.PivotField) |  |
-| [add_row_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) |  |
-| [add_row_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#aspose.cells.pivot.PivotField) |  |
-| [add_column_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) |  |
-| [add_column_area_condition](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#aspose.cells.pivot.PivotField) |  |
-| [set_conditional_areas](/cells/python-net/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) |  |
+| [`add_data_area_condition(self, field_name)`](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#str) |  |
+| [`add_data_area_condition(self, data_field)`](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/#aspose.cells.pivot.pivotfield) |  |
+| [`add_row_area_condition(self, field_name)`](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#str) |  |
+| [`add_row_area_condition(self, row_field)`](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/#aspose.cells.pivot.pivotfield) |  |
+| [`add_column_area_condition(self, field_name)`](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#str) |  |
+| [`add_column_area_condition(self, column_field)`](/cells/python-net/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/#aspose.cells.pivot.pivotfield) |  |
+| [`set_conditional_areas(self)`](/cells/python-net/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/#) |  |
 
 
 

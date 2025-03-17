@@ -3,7 +3,7 @@ title: width property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 470
 url: /aspose.cells.charts/legend/width/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Gets or sets the width of frame in units of 1/4000 of the chart area.
 
 
 How to convert units of 1/4000 to pixels? 
-Width In Pixels = Width * Chart.ChartObject.Height / 4000;
+Width In Pixels = Width * Chart.ChartObject.Height / 4000d;
 ### Definition:
 ```python
 @property

@@ -8,13 +8,14 @@ url: /aspose.cells.metadata/metadataoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#aspose.cells.metadata.MetadataType}
+## \_\_init\_\_(self, metadata_type) {#aspose.cells.metadata.MetadataType}
 
 Creates an options of loading the metadata.
 
 
 
 ```python
+
 def __init__(self, metadata_type):
     ...
 ```

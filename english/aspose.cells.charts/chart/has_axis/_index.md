@@ -8,13 +8,14 @@ url: /aspose.cells.charts/chart/has_axis/
 is_root: false
 ---
 
-## has_axis {#aspose.cells.charts.AxisType-bool}
+## has_axis(self, aixs_type, is_primary) {#aspose.cells.charts.AxisType-bool}
 
 Returns which axes exist on the chart.
 
 
 
 ```python
+
 def has_axis(self, aixs_type, is_primary):
     ...
 ```

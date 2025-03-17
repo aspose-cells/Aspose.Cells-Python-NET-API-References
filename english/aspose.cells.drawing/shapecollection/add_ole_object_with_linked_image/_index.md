@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_ole_object_with_linked_image/
 is_root: false
 ---
 
-## add_ole_object_with_linked_image {#int-int-int-int-str}
+## add_ole_object_with_linked_image(self, upper_left_row, upper_left_column, height, width, source_full_name) {#int-int-int-int-str}
 
 Add a linked picture.
 
@@ -20,6 +20,7 @@ Add a linked picture.
 
 
 ```python
+
 def add_ole_object_with_linked_image(self, upper_left_row, upper_left_column, height, width, source_full_name):
     ...
 ```

@@ -3,12 +3,12 @@ title: get_locked_property method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells.drawing/picture/get_locked_property/
 is_root: false
 ---
 
-## get_locked_property {#aspose.cells.drawing.ShapeLockType}
+## get_locked_property(self, type) {#aspose.cells.drawing.ShapeLockType}
 
 Gets the value of locked property.
 
@@ -20,6 +20,7 @@ Returns  the value of locked property.
 
 
 ```python
+
 def get_locked_property(self, type):
     ...
 ```

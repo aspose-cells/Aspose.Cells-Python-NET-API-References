@@ -8,7 +8,7 @@ url: /aspose.cells.tables/tablestyleelementcollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.tables.TableStyleElementType}
+## add(self, type) {#aspose.cells.tables.TableStyleElementType}
 
 Adds an element.
 
@@ -20,6 +20,7 @@ Returns the index of the element in the list.
 
 
 ```python
+
 def add(self, type):
     ...
 ```

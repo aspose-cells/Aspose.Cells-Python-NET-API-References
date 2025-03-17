@@ -3,12 +3,12 @@ title: has_exernal_links method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /aspose.cells/workbook/has_exernal_links/
 is_root: false
 ---
 
-## has_exernal_links {#}
+## has_exernal_links(self) {#}
 
 Indicates whether this workbook contains external links to other data sources.
 
@@ -20,6 +20,7 @@ Whether this workbook contains external links to other data sources.
 
 
 ```python
+
 def has_exernal_links(self):
     ...
 ```

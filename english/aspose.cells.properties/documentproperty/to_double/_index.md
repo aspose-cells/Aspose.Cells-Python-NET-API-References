@@ -8,13 +8,14 @@ url: /aspose.cells.properties/documentproperty/to_double/
 is_root: false
 ---
 
-## to_double {#}
+## to_double(self) {#}
 
 Returns the property value as double.
 
 
 
 ```python
+
 def to_double(self):
     ...
 ```

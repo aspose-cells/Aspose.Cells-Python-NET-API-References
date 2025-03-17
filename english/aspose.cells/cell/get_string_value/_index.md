@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_string_value/
 is_root: false
 ---
 
-## get_string_value {#aspose.cells.CellValueFormatStrategy}
+## get_string_value(self, format_strategy) {#aspose.cells.CellValueFormatStrategy}
 
 Gets the string value by specific formatted strategy.
 
@@ -20,6 +20,7 @@ Gets the string value by specific formatted strategy.
 
 
 ```python
+
 def get_string_value(self, format_strategy):
     ...
 ```

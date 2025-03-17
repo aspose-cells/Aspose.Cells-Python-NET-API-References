@@ -3,7 +3,7 @@ title: XpsSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1870
+weight: 1880
 url: /aspose.cells/xpssaveoptions/
 is_root: false
 ---
@@ -25,8 +25,8 @@ The XpsSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/xpssaveoptions/__init__/#) | Creates options for saving xps file. |
-| [__init__](/cells/python-net/aspose.cells/xpssaveoptions/__init__/#aspose.cells.SaveFormat) | Creates options for saving xps file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/xpssaveoptions/__init__/#) | Creates options for saving xps file. |
+| [`__init__(self, save_format)`](/cells/python-net/aspose.cells/xpssaveoptions/__init__/#aspose.cells.saveformat) | Creates options for saving xps file. |
 
 
 ### Properties

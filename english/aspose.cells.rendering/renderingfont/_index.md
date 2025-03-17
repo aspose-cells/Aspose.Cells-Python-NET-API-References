@@ -19,7 +19,7 @@ The RenderingFont type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.rendering/renderingfont/__init__/#str-float) | Initializes a new instance of the [`RenderingFont`](/cells/python-net/aspose.cells.rendering/renderingfont) |
+| [`__init__(self, font_name, font_size)`](/cells/python-net/aspose.cells.rendering/renderingfont/__init__/#str-float) | Initializes a new instance of the [`RenderingFont`](/cells/python-net/aspose.cells.rendering/renderingfont) |
 
 
 ### Properties

@@ -3,18 +3,19 @@ title: to_front_or_back method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells.drawing/oval/to_front_or_back/
 is_root: false
 ---
 
-## to_front_or_back {#int}
+## to_front_or_back(self, orders) {#int}
 
 Brings the shape to the front or sends the shape to back.
 
 
 
 ```python
+
 def to_front_or_back(self, orders):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/refresh_data/
 is_root: false
 ---
 
-## refresh_data {#}
+## refresh_data(self) {#}
 
 Refreshes pivottable's data and setting from it's data source.
 
 
 
 ```python
+
 def refresh_data(self):
     ...
 ```
@@ -25,13 +26,14 @@ def refresh_data(self):
 We will gather data from data source to a pivot cache ,then calculate the data in the cache to the cells.
 This method is only used to gather all data to a pivot cache.
 
-## refresh_data {#aspose.cells.pivot.PivotTableRefreshOption}
+## refresh_data(self, option) {#aspose.cells.pivot.PivotTableRefreshOption}
 
 Refreshes pivottable's data and setting from it's data source with options.
 
 
 
 ```python
+
 def refresh_data(self, option):
     ...
 ```

@@ -3,18 +3,19 @@ title: import_csv method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 640
+weight: 650
 url: /aspose.cells/cells/import_csv/
 is_root: false
 ---
 
-## import_csv {#str-aspose.cells.TxtLoadOptions-int-int}
+## import_csv(self, file_name, options, first_row, first_column) {#str-aspose.cells.TxtLoadOptions-int-int}
 
 Import a CSV file to the cells.
 
 
 
 ```python
+
 def import_csv(self, file_name, options, first_row, first_column):
     ...
 ```
@@ -28,13 +29,14 @@ def import_csv(self, file_name, options, first_row, first_column):
 | first_column | int | The column number of the first cell to import in. |
 
 
-## import_csv {#io.RawIOBase-aspose.cells.TxtLoadOptions-int-int}
+## import_csv(self, stream, options, first_row, first_column) {#io.RawIOBase-aspose.cells.TxtLoadOptions-int-int}
 
 Import a CSV file to the cells.
 
 
 
 ```python
+
 def import_csv(self, stream, options, first_row, first_column):
     ...
 ```
@@ -48,13 +50,14 @@ def import_csv(self, stream, options, first_row, first_column):
 | first_column | int | The column number of the first cell to import in. |
 
 
-## import_csv {#str-str-bool-int-int}
+## import_csv(self, file_name, splitter, convert_numeric_data, first_row, first_column) {#str-str-bool-int-int}
 
 Import a CSV file to the cells.
 
 
 
 ```python
+
 def import_csv(self, file_name, splitter, convert_numeric_data, first_row, first_column):
     ...
 ```
@@ -69,13 +72,14 @@ def import_csv(self, file_name, splitter, convert_numeric_data, first_row, first
 | first_column | int | The column number of the first cell to import in. |
 
 
-## import_csv {#io.RawIOBase-str-bool-int-int}
+## import_csv(self, stream, splitter, convert_numeric_data, first_row, first_column) {#io.RawIOBase-str-bool-int-int}
 
 Import a CSV file to the cells.
 
 
 
 ```python
+
 def import_csv(self, stream, splitter, convert_numeric_data, first_row, first_column):
     ...
 ```

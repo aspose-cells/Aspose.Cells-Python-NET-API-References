@@ -8,7 +8,7 @@ url: /aspose.cells.properties/contenttypepropertycollection/last_index_of/
 is_root: false
 ---
 
-## last_index_of {#aspose.cells.properties.ContentTypeProperty}
+## last_index_of(self, item) {#aspose.cells.properties.ContentTypeProperty}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list.
 
@@ -20,6 +20,7 @@ The zero-based index of the last occurrence of value within the entire the array
 
 
 ```python
+
 def last_index_of(self, item):
     ...
 ```
@@ -30,7 +31,7 @@ def last_index_of(self, item):
 | item | [`ContentTypeProperty`](/cells/python-net/aspose.cells.properties/contenttypeproperty) | The object to locate in the array list. The value can be null. |
 
 
-## last_index_of {#aspose.cells.properties.ContentTypeProperty-int}
+## last_index_of(self, item, index) {#aspose.cells.properties.ContentTypeProperty-int}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index.
 
@@ -42,6 +43,7 @@ The zero-based index of the last occurrence of value within the range of element
 
 
 ```python
+
 def last_index_of(self, item, index):
     ...
 ```
@@ -53,7 +55,7 @@ def last_index_of(self, item, index):
 | index | int | The zero-based starting index of the backward search. |
 
 
-## last_index_of {#aspose.cells.properties.ContentTypeProperty-int-int}
+## last_index_of(self, item, index, count) {#aspose.cells.properties.ContentTypeProperty-int-int}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index.
 
@@ -65,6 +67,7 @@ The zero-based index of the last occurrence of value within the range of element
 
 
 ```python
+
 def last_index_of(self, item, index, count):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_local_function_name/
 is_root: false
 ---
 
-## get_local_function_name {#str}
+## get_local_function_name(self, standard_name) {#str}
 
 Gets the locale dependent function name according to given standard function name.
 
@@ -20,6 +20,7 @@ Locale dependent function name. The locale was specified by the Workbook for whi
 
 
 ```python
+
 def get_local_function_name(self, standard_name):
     ...
 ```

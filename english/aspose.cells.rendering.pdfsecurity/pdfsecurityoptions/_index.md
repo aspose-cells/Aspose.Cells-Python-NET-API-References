@@ -20,7 +20,7 @@ The PdfSecurityOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions/__init__/#) | The constructor of PdfSecurityOptions |
+| [`__init__(self)`](/cells/python-net/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions/__init__/#) | The constructor of PdfSecurityOptions |
 
 
 ### Properties

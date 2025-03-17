@@ -24,7 +24,7 @@ The DbfLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.loading/dbfloadoptions/__init__/#) | The options. |
+| [`__init__(self)`](/cells/python-net/aspose.cells.loading/dbfloadoptions/__init__/#) | The options. |
 
 
 ### Properties
@@ -58,7 +58,7 @@ The DbfLoadOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_paper_size](/cells/python-net/aspose.cells.loading/dbfloadoptions/set_paper_size/#aspose.cells.PaperSizeType) | Sets the default print paper size from default printer's setting. |
+| [`set_paper_size(self, type)`](/cells/python-net/aspose.cells.loading/dbfloadoptions/set_paper_size/#aspose.cells.papersizetype) | Sets the default print paper size from default printer's setting. |
 
 
 

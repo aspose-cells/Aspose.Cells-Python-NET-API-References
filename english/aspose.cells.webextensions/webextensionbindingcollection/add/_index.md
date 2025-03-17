@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensionbindingcollection/add/
 is_root: false
 ---
 
-## add {#}
+## add(self) {#}
 
 Adds an a binding relationship between an Office Add-in and the data in the document.
 
@@ -20,6 +20,7 @@ Adds an a binding relationship between an Office Add-in and the data in the docu
 
 
 ```python
+
 def add(self):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/name/get_referred_areas/
 is_root: false
 ---
 
-## get_referred_areas {#bool}
+## get_referred_areas(self, recalculate) {#bool}
 
 Gets all references referred by this name.
 
@@ -20,6 +20,7 @@ All ranges.
 
 
 ```python
+
 def get_referred_areas(self, recalculate):
     ...
 ```

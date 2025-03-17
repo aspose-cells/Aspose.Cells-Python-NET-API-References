@@ -8,13 +8,14 @@ url: /aspose.cells.digitalsignatures/digitalsignature/__init__/
 is_root: false
 ---
 
-## __init__ {#System.Security.Cryptography.X509Certificates.X509Certificate2-str-DateTime}
+## \_\_init\_\_(self, certificate, comments, sign_time) {#System.Security.Cryptography.X509Certificates.X509Certificate2-str-DateTime}
 
 Constructor of digitalSignature. Uses .Net implementation.
 
 
 
 ```python
+
 def __init__(self, certificate, comments, sign_time):
     ...
 ```
@@ -27,13 +28,14 @@ def __init__(self, certificate, comments, sign_time):
 | sign_time | DateTime | The utc time when the document was signed. |
 
 
-## __init__ {#bytes-str-str-DateTime}
+## \_\_init\_\_(self, raw_data, password, comments, sign_time) {#bytes-str-str-DateTime}
 
 Constructor of digitalSignature. Uses Bouncy Castle implementation.
 
 
 
 ```python
+
 def __init__(self, raw_data, password, comments, sign_time):
     ...
 ```

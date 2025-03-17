@@ -33,8 +33,8 @@ Gets the PivotItem Object at the specific index.
 ### Methods
 | Method | Description |
 | :- | :- |
-| [changeitems_order](/cells/python-net/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | Directly changes the orders of the two items. |
-| [swap_item](/cells/python-net/aspose.cells.pivot/pivotitemcollection/swap_item/#int-int) | Directly swap two items. |
+| [`changeitems_order(self, source_index, dest_index)`](/cells/python-net/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | Directly changes the orders of the two items. |
+| [`swap_item(self, index1, index2)`](/cells/python-net/aspose.cells.pivot/pivotitemcollection/swap_item/#int-int) | Directly swap two items. |
 
 
 

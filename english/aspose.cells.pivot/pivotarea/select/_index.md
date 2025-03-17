@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotarea/select/
 is_root: false
 ---
 
-## select {#aspose.cells.pivot.PivotFieldType-int-aspose.cells.pivot.PivotTableSelectionType}
+## select(self, axis_type, field_position, selection_type) {#aspose.cells.pivot.PivotFieldType-int-aspose.cells.pivot.PivotTableSelectionType}
 
 Select the area with filters.
 
 
 
 ```python
+
 def select(self, axis_type, field_position, selection_type):
     ...
 ```

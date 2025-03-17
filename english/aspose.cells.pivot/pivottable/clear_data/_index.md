@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/clear_data/
 is_root: false
 ---
 
-## clear_data {#}
+## clear_data(self) {#}
 
 Clear PivotTable's data and formatting
 
 
 
 ```python
+
 def clear_data(self):
     ...
 ```

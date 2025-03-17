@@ -3,18 +3,19 @@ title: set_column_width method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 850
+weight: 840
 url: /aspose.cells/cells/set_column_width/
 is_root: false
 ---
 
-## set_column_width {#int-float}
+## set_column_width(self, column, width) {#int-float}
 
 Sets the width of the specified column in normal view.
 
 
 
 ```python
+
 def set_column_width(self, column, width):
     ...
 ```

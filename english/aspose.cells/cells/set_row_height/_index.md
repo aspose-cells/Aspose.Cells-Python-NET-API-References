@@ -3,18 +3,19 @@ title: set_row_height method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 880
+weight: 870
 url: /aspose.cells/cells/set_row_height/
 is_root: false
 ---
 
-## set_row_height {#int-float}
+## set_row_height(self, row, height) {#int-float}
 
 Sets the height of the specified row.
 
 
 
 ```python
+
 def set_row_height(self, row, height):
     ...
 ```

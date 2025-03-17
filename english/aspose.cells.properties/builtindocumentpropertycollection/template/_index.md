@@ -3,7 +3,7 @@ title: template property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells.properties/builtindocumentpropertycollection/template/
 is_root: false
 ---

@@ -47,9 +47,9 @@ The Walls type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_cube_point_count](/cells/python-net/aspose.cells.charts/walls/get_cube_point_count/#) | Gets the number of cube points after calls Chart.Calculate() method. |
-| [get_cube_point_x_px](/cells/python-net/aspose.cells.charts/walls/get_cube_point_x_px/#int) | Gets x-coordinate of the apex point of walls cube after calls Chart.Calculate() method.<br/>The number of apex points of walls cube is eight |
-| [get_cube_point_y_px](/cells/python-net/aspose.cells.charts/walls/get_cube_point_y_px/#int) | Gets y-coordinate of the apex point of walls cube after calls Chart.Calculate() method.<br/>The number of apex points of walls cube is eight. |
+| [`get_cube_point_count(self)`](/cells/python-net/aspose.cells.charts/walls/get_cube_point_count/#) | Gets the number of cube points after calls Chart.Calculate() method. |
+| [`get_cube_point_x_px(self, index)`](/cells/python-net/aspose.cells.charts/walls/get_cube_point_x_px/#int) | Gets x-coordinate of the apex point of walls cube after calls Chart.Calculate() method.<br/>The number of apex points of walls cube is eight |
+| [`get_cube_point_y_px(self, index)`](/cells/python-net/aspose.cells.charts/walls/get_cube_point_y_px/#int) | Gets y-coordinate of the apex point of walls cube after calls Chart.Calculate() method.<br/>The number of apex points of walls cube is eight. |
 
 
 

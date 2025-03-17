@@ -21,7 +21,7 @@ The PivotPageFields type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.pivot/pivotpagefields/__init__/#) | Represents the pivot page field items. |
+| [`__init__(self)`](/cells/python-net/aspose.cells.pivot/pivotpagefields/__init__/#) | Represents the pivot page field items. |
 
 
 ### Properties
@@ -33,8 +33,8 @@ The PivotPageFields type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_page_field](/cells/python-net/aspose.cells.pivot/pivotpagefields/add_page_field/#list) | Adds a page field. |
-| [add_identify](/cells/python-net/aspose.cells.pivot/pivotpagefields/add_identify/#int-list) | Sets which item label in each page field to use to identify the data range.<br/>The pageItemIndex.Length must be equal to PageFieldCount, so please add the page field first. |
+| [`add_page_field(self, page_items)`](/cells/python-net/aspose.cells.pivot/pivotpagefields/add_page_field/#list) | Adds a page field. |
+| [`add_identify(self, range_index, page_item_index)`](/cells/python-net/aspose.cells.pivot/pivotpagefields/add_identify/#int-list) | Sets which item label in each page field to use to identify the data range.<br/>The pageItemIndex.Length must be equal to PageFieldCount, so please add the page field first. |
 
 
 

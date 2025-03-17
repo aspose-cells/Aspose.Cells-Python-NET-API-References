@@ -8,13 +8,14 @@ url: /aspose.cells.slicers/slicer/add_pivot_connection/
 is_root: false
 ---
 
-## add_pivot_connection {#aspose.cells.pivot.PivotTable}
+## add_pivot_connection(self, pivot) {#aspose.cells.pivot.PivotTable}
 
 Adds PivotTable connection.
 
 
 
 ```python
+
 def add_pivot_connection(self, pivot):
     ...
 ```

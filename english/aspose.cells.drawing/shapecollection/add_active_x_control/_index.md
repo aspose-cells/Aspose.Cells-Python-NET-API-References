@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_active_x_control/
 is_root: false
 ---
 
-## add_active_x_control {#aspose.cells.drawing.activexcontrols.ControlType-int-int-int-int-int-int}
+## add_active_x_control(self, type, top_row, top, left_column, left, width, height) {#aspose.cells.drawing.activexcontrols.ControlType-int-int-int-int-int-int}
 
 Creates an Activex Control.
 
@@ -20,6 +20,7 @@ Creates an Activex Control.
 
 
 ```python
+
 def add_active_x_control(self, type, top_row, top, left_column, left, width, height):
     ...
 ```

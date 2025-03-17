@@ -8,13 +8,14 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_sub_total/
 is_root: false
 ---
 
-## set_text_of_sub_total {#aspose.cells.pivot.PivotFieldSubtotalType-str}
+## set_text_of_sub_total(self, sub_total_type, text) {#aspose.cells.pivot.PivotFieldSubtotalType-str}
 
 Sets the text of [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) type in the PivotTable.
 
 
 
 ```python
+
 def set_text_of_sub_total(self, sub_total_type, text):
     ...
 ```

@@ -34,7 +34,7 @@ The PivotDateTimeRangeGroupSettings type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [is_grouped_by](/cells/python-net/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/#aspose.cells.pivot.PivotGroupByType) | Check whether the field is grouped by the type. |
+| [`is_grouped_by(self, type)`](/cells/python-net/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/#aspose.cells.pivot.pivotgroupbytype) | Check whether the field is grouped by the type. |
 
 
 

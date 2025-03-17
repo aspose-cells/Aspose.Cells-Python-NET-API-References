@@ -20,8 +20,9 @@ is_root: true
 | [`aspose.cells.drawing.equations`](/cells/python-net/aspose.cells.drawing.equations) | The **Aspose.Cells.Drawing.Equations**  namespace provides classes for creating various equation shapes (such as fractional equations, power equations, etc.) through equation nodes. |
 | [`aspose.cells.drawing.texts`](/cells/python-net/aspose.cells.drawing.texts) | The **Aspose.Cells.Drawing.Texts**  namespace provides classes that draw and format texts objects such paragraph, bullet and more. |
 | [`aspose.cells.externalconnections`](/cells/python-net/aspose.cells.externalconnections) | The **Aspose.Cells.ExternalConnections**  namespace provides classes for external connections to retrieve data from external sources such as Databases and the Web. |
-| [`aspose.cells.loading`](/cells/python-net/aspose.cells.loading) | The **Aspose.Cells.Loading** namespace contains all classes for options of loading. |
 | [`aspose.cells.json`](/cells/python-net/aspose.cells.json) | The **Aspose.Cells.Json**  namespace contains all classes of JSON. |
+| [`aspose.cells.loading`](/cells/python-net/aspose.cells.loading) | The **Aspose.Cells.Loading**  namespace provides options classes of loading files. |
+| [`aspose.cells.markdown`](/cells/python-net/aspose.cells.markdown) | The **Aspose.Cells.Markdown**  namespace contains classes that define settings for converting Excel to Markdown. |
 | [`aspose.cells.markup`](/cells/python-net/aspose.cells.markup) | The **Aspose.Cells.Markup**  namespace contains classes that represent customer defined semantics in a document: smart tags, custom XML and more markup tags. |
 | [`aspose.cells.metadata`](/cells/python-net/aspose.cells.metadata) | The **Aspose.Cells.Metadata**  namespace contains all classes of loading and saving metadata of Spreadsheets. |
 | [`aspose.cells.numbers`](/cells/python-net/aspose.cells.numbers) | The **Aspose.Cells.Numbers**  namespace contains all classes of loading and converting Apple Numbers files. |
@@ -42,4 +43,5 @@ is_root: true
 | [`aspose.cells.vba`](/cells/python-net/aspose.cells.vba) | The **Aspose.Cells.Vba**  namespace contains classes to access Visual Basic Analysis projects and modules in Excel Spreadsheet files. |
 | [`aspose.cells.webextensions`](/cells/python-net/aspose.cells.webextensions) | The **Aspose.Cells.WebExtensions**  namespace contains classes to access Office Add-in in Excel Files. |
 | [`aspose.cellsgridjs`](/cells/python-net/aspose.cellsgridjs) | The **Aspose.Cells.GridJs** namespace contains all classes of GridJs which provide basic operations for managing spreadsheets without utilizing Microsoft Excel . |
+
 

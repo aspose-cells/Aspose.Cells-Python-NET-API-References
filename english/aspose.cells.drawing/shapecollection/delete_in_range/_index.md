@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapecollection/delete_in_range/
 is_root: false
 ---
 
-## delete_in_range {#aspose.cells.CellArea}
+## delete_in_range(self, ca) {#aspose.cells.CellArea}
 
 Delete shapes in the range.Comment shapes will not be deleted.
 
 
 
 ```python
+
 def delete_in_range(self, ca):
     ...
 ```

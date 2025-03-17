@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/remove_all_drawing_objects/
 is_root: false
 ---
 
-## remove_all_drawing_objects {#}
+## remove_all_drawing_objects(self) {#}
 
 Removes all drawing objects in this worksheet.
 
 
 
 ```python
+
 def remove_all_drawing_objects(self):
     ...
 ```

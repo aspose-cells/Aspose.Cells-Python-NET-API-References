@@ -19,7 +19,7 @@ The ShapePath type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.drawing/shapepath/__init__/#) | Initializes a new instance of the [`ShapePath`](/cells/python-net/aspose.cells.drawing/shapepath) class. |
+| [`__init__(self)`](/cells/python-net/aspose.cells.drawing/shapepath/__init__/#) | Initializes a new instance of the [`ShapePath`](/cells/python-net/aspose.cells.drawing/shapepath) class. |
 
 
 ### Properties
@@ -31,11 +31,11 @@ The ShapePath type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [move_to](/cells/python-net/aspose.cells.drawing/shapepath/move_to/#float-float) | Starts a new figure from the specified point without closing the current figure. All subsequent points added to the path are added to this new figure. |
-| [line_to](/cells/python-net/aspose.cells.drawing/shapepath/line_to/#float-float) | Appends a line segment to the current figure. The starting point is the end point of the current figure. |
-| [cubic_bezier_to](/cells/python-net/aspose.cells.drawing/shapepath/cubic_bezier_to/#float-float-float-float-float-float) | Appends a cubic Bézier curve to the current figure. The starting point is the end point of the current figure. |
-| [arc_to](/cells/python-net/aspose.cells.drawing/shapepath/arc_to/#float-float-float-float) | Appends an elliptical arc to the current figure. The starting point is the end point of the current figure. |
-| [close](/cells/python-net/aspose.cells.drawing/shapepath/close/#) | Closes the current figure and starts a new figure. If the current figure contains a sequence of connected lines and curves, the method closes the loop by connecting a line from the endpoint to the starting point. |
+| [`move_to(self, x, y)`](/cells/python-net/aspose.cells.drawing/shapepath/move_to/#float-float) | Starts a new figure from the specified point without closing the current figure. All subsequent points added to the path are added to this new figure. |
+| [`line_to(self, x, y)`](/cells/python-net/aspose.cells.drawing/shapepath/line_to/#float-float) | Appends a line segment to the current figure. The starting point is the end point of the current figure. |
+| [`cubic_bezier_to(self, ctr_x1, ctr_y1, ctr_x2, ctr_y2, end_x, end_y)`](/cells/python-net/aspose.cells.drawing/shapepath/cubic_bezier_to/#float-float-float-float-float-float) | Appends a cubic Bézier curve to the current figure. The starting point is the end point of the current figure. |
+| [`arc_to(self, w_r, h_r, st_ang, sw_ang)`](/cells/python-net/aspose.cells.drawing/shapepath/arc_to/#float-float-float-float) | Appends an elliptical arc to the current figure. The starting point is the end point of the current figure. |
+| [`close(self)`](/cells/python-net/aspose.cells.drawing/shapepath/close/#) | Closes the current figure and starts a new figure. If the current figure contains a sequence of connected lines and curves, the method closes the loop by connecting a line from the endpoint to the starting point. |
 
 
 

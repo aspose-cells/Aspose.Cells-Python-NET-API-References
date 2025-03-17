@@ -8,7 +8,7 @@ url: /aspose.cells/worksheet/convert_formula_reference_style/
 is_root: false
 ---
 
-## convert_formula_reference_style {#str-bool-int-int}
+## convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_cell_column) {#str-bool-int-int}
 
 Converts the formula reference style.
 
@@ -20,6 +20,7 @@ The converted formula.
 
 
 ```python
+
 def convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_cell_column):
     ...
 ```

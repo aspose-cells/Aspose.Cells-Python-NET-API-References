@@ -3,18 +3,19 @@ title: remove_duplicates method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 820
+weight: 810
 url: /aspose.cells/cells/remove_duplicates/
 is_root: false
 ---
 
-## remove_duplicates {#}
+## remove_duplicates(self) {#}
 
 Removes duplicate rows in the sheet.
 
 
 
 ```python
+
 def remove_duplicates(self):
     ...
 ```
@@ -22,13 +23,14 @@ def remove_duplicates(self):
 
 
 
-## remove_duplicates {#int-int-int-int}
+## remove_duplicates(self, start_row, start_column, end_row, end_column) {#int-int-int-int}
 
 Removes duplicate values in the range.
 
 
 
 ```python
+
 def remove_duplicates(self, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -42,13 +44,14 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column):
 | end_column | int | The end column index. |
 
 
-## remove_duplicates {#int-int-int-int-bool-list}
+## remove_duplicates(self, start_row, start_column, end_row, end_column, has_headers, column_offsets) {#int-int-int-int-bool-list}
 
 Removes duplicate data of the range.
 
 
 
 ```python
+
 def remove_duplicates(self, start_row, start_column, end_row, end_column, has_headers, column_offsets):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/styleflag/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs an object with all flags as false.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

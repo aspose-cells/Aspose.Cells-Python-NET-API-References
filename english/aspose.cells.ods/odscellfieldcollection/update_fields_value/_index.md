@@ -8,13 +8,14 @@ url: /aspose.cells.ods/odscellfieldcollection/update_fields_value/
 is_root: false
 ---
 
-## update_fields_value {#}
+## update_fields_value(self) {#}
 
 Update fields value to the cells.
 
 
 
 ```python
+
 def update_fields_value(self):
     ...
 ```

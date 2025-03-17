@@ -8,13 +8,14 @@ url: /aspose.cells/htmlsaveoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Creates options for saving html file.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.cells.SaveFormat}
+## \_\_init\_\_(self, save_format) {#aspose.cells.SaveFormat}
 
 Creates options for saving htm file.
 
 
 
 ```python
+
 def __init__(self, save_format):
     ...
 ```

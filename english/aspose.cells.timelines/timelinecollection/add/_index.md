@@ -8,7 +8,7 @@ url: /aspose.cells.timelines/timelinecollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.pivot.PivotTable-str-str}
+## add(self, pivot, dest_cell_name, base_field_name) {#aspose.cells.pivot.PivotTable-str-str}
 
 Add a new Timeline using PivotTable as data source
 
@@ -20,6 +20,7 @@ The new add Timeline index
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field_name):
     ...
 ```
@@ -42,7 +43,7 @@ sheet.timelines.add(pivot, "i15", "date")
 ```
 
 
-## add {#aspose.cells.pivot.PivotTable-str-int}
+## add(self, pivot, dest_cell_name, base_field_index) {#aspose.cells.pivot.PivotTable-str-int}
 
 Add a new Timeline using PivotTable as data source
 
@@ -54,6 +55,7 @@ The new add Timeline index
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field_index):
     ...
 ```
@@ -76,7 +78,7 @@ sheet.timelines.add(pivot, "i5", 1)
 ```
 
 
-## add {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
+## add(self, pivot, dest_cell_name, base_field) {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
 
 Add a new Timeline using PivotTable as data source
 
@@ -88,6 +90,7 @@ The new add Timeline index
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field):
     ...
 ```
@@ -110,7 +113,7 @@ sheet.timelines.add(pivot, "i10", pivot.base_fields[1])
 ```
 
 
-## add {#aspose.cells.pivot.PivotTable-int-int-str}
+## add(self, pivot, row, column, base_field_name) {#aspose.cells.pivot.PivotTable-int-int-str}
 
 Add a new Timeline using PivotTable as data source
 
@@ -122,6 +125,7 @@ The new add Timeline index
 
 
 ```python
+
 def add(self, pivot, row, column, base_field_name):
     ...
 ```
@@ -145,7 +149,7 @@ sheet.timelines.add(pivot, 10, 5, "date")
 ```
 
 
-## add {#aspose.cells.pivot.PivotTable-int-int-int}
+## add(self, pivot, row, column, base_field_index) {#aspose.cells.pivot.PivotTable-int-int-int}
 
 Add a new Timeline using PivotTable as data source
 
@@ -157,6 +161,7 @@ The new add Timeline index
 
 
 ```python
+
 def add(self, pivot, row, column, base_field_index):
     ...
 ```
@@ -180,7 +185,7 @@ sheet.timelines.add(pivot, 15, 5, 1)
 ```
 
 
-## add {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
+## add(self, pivot, row, column, base_field) {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
 
 Add a new Timeline using PivotTable as data source
 
@@ -192,6 +197,7 @@ The new add Timeline index
 
 
 ```python
+
 def add(self, pivot, row, column, base_field):
     ...
 ```

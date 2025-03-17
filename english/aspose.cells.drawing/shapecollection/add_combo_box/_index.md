@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_combo_box/
 is_root: false
 ---
 
-## add_combo_box {#int-int-int-int-int-int}
+## add_combo_box(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a ComboBox to the worksheet.
 
@@ -20,6 +20,7 @@ A ComboBox object.
 
 
 ```python
+
 def add_combo_box(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

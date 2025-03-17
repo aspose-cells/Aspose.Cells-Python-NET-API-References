@@ -8,7 +8,7 @@ url: /aspose.cells.utility/jsonutility/export_range_to_json/
 is_root: false
 ---
 
-## export_range_to_json {#aspose.cells.Range-aspose.cells.utility.ExportRangeToJsonOptions}
+## export_range_to_json(, range, options) {#aspose.cells.Range-aspose.cells.utility.ExportRangeToJsonOptions}
 
 Exporting the range to json file.
 
@@ -20,7 +20,9 @@ The json string value.
 
 
 ```python
-def export_range_to_json(self, range, options):
+
+@staticmethod
+def export_range_to_json(range, options):
     ...
 ```
 
@@ -36,7 +38,7 @@ please use ExportRangeToJson(Range range, JsonSaveOptions options) method.
 This property will be removed 6 months later since November 2022. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## export_range_to_json {#aspose.cells.Range-aspose.cells.JsonSaveOptions}
+## export_range_to_json(, range, options) {#aspose.cells.Range-aspose.cells.JsonSaveOptions}
 
 Exporting the range to json file.
 
@@ -48,7 +50,9 @@ The json string value.
 
 
 ```python
-def export_range_to_json(self, range, options):
+
+@staticmethod
+def export_range_to_json(range, options):
     ...
 ```
 

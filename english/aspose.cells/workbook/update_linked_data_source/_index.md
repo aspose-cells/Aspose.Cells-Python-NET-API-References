@@ -3,12 +3,12 @@ title: update_linked_data_source method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 430
 url: /aspose.cells/workbook/update_linked_data_source/
 is_root: false
 ---
 
-## update_linked_data_source {#list}
+## update_linked_data_source(self, external_workbooks) {#list}
 
 If this workbook contains external links to other data source,
 Aspose.Cells will attempt to retrieve the latest data from give sources.
@@ -16,6 +16,7 @@ Aspose.Cells will attempt to retrieve the latest data from give sources.
 
 
 ```python
+
 def update_linked_data_source(self, external_workbooks):
     ...
 ```

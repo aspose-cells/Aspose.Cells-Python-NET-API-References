@@ -8,13 +8,14 @@ url: /aspose.cells/cell/set_table_formula/
 is_root: false
 ---
 
-## set_table_formula {#int-int-str-str-list}
+## set_table_formula(self, row_number, column_number, row_input_cell, column_input_cell, values) {#int-int-str-str-list}
 
 Create two-variable data table for given range starting from this cell.
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, row_input_cell, column_input_cell, values):
     ...
 ```
@@ -29,13 +30,14 @@ def set_table_formula(self, row_number, column_number, row_input_cell, column_in
 | values | list | values for cells in table formula range |
 
 
-## set_table_formula {#int-int-str-bool-list}
+## set_table_formula(self, row_number, column_number, input_cell, is_row_input, values) {#int-int-str-bool-list}
 
 Create one-variable data table for given range starting from this cell.
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, input_cell, is_row_input, values):
     ...
 ```
@@ -50,13 +52,14 @@ def set_table_formula(self, row_number, column_number, input_cell, is_row_input,
 | values | list | values for cells in table formula range |
 
 
-## set_table_formula {#int-int-int-int-bool-list}
+## set_table_formula(self, row_number, column_number, row_index_of_input_cell, column_index_of_input_cell, is_row_input, values) {#int-int-int-int-bool-list}
 
 Create one-variable data table for given range starting from this cell.
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, row_index_of_input_cell, column_index_of_input_cell, is_row_input, values):
     ...
 ```
@@ -72,13 +75,14 @@ def set_table_formula(self, row_number, column_number, row_index_of_input_cell, 
 | values | list | values for cells in table formula range |
 
 
-## set_table_formula {#int-int-int-int-int-int-list}
+## set_table_formula(self, row_number, column_number, row_index_of_row_input_cell, column_index_of_row_input_cell, row_index_of_column_input_cell, column_index_of_column_input_cell, values) {#int-int-int-int-int-int-list}
 
 Create two-variable data table for given range starting from this cell.
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, row_index_of_row_input_cell, column_index_of_row_input_cell, row_index_of_column_input_cell, column_index_of_column_input_cell, values):
     ...
 ```

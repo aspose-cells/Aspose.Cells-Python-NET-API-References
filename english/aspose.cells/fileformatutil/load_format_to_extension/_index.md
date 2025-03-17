@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/load_format_to_extension/
 is_root: false
 ---
 
-## load_format_to_extension {#aspose.cells.LoadFormat}
+## load_format_to_extension(, load_format) {#aspose.cells.LoadFormat}
 
 Converts a load format enumerated value into a file extension.
 
@@ -20,7 +20,9 @@ The returned extension is a lower-case string with a leading dot.
 
 
 ```python
-def load_format_to_extension(self, load_format):
+
+@staticmethod
+def load_format_to_extension(load_format):
     ...
 ```
 

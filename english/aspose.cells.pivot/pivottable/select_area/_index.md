@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/select_area/
 is_root: false
 ---
 
-## select_area {#aspose.cells.CellArea}
+## select_area(self, ca) {#aspose.cells.CellArea}
 
 Select an area of pivot table view.
 
@@ -20,6 +20,7 @@ Select an area of pivot table view.
 
 
 ```python
+
 def select_area(self, ca):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/range/to_html/
 is_root: false
 ---
 
-## to_html {#aspose.cells.HtmlSaveOptions}
+## to_html(self, save_options) {#aspose.cells.HtmlSaveOptions}
 
 Convert the range to html .
 
@@ -20,6 +20,7 @@ Convert the range to html .
 
 
 ```python
+
 def to_html(self, save_options):
     ...
 ```

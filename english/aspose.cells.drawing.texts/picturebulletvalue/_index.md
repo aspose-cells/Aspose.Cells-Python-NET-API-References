@@ -24,7 +24,7 @@ The PictureBulletValue type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue/__init__/#) | Constructs a new instance of PictureBulletValue |
+| [`__init__(self)`](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue/__init__/#) | Constructs a new instance of PictureBulletValue |
 
 
 ### Properties

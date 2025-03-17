@@ -56,7 +56,7 @@ The TextOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [equals](/cells/python-net/aspose.cells.drawing.texts/textoptions/equals/#aspose.cells.Font) | Checks if two fonts are equals. |
+| [`equals(self, font)`](/cells/python-net/aspose.cells.drawing.texts/textoptions/equals/#aspose.cells.font) | Checks if two fonts are equals. |
 
 
 

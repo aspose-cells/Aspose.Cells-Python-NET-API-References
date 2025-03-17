@@ -24,7 +24,7 @@ The NumbersLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.numbers/numbersloadoptions/__init__/#) | Constructor. |
+| [`__init__(self)`](/cells/python-net/aspose.cells.numbers/numbersloadoptions/__init__/#) | Constructor. |
 
 
 ### Properties
@@ -59,7 +59,7 @@ The NumbersLoadOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_paper_size](/cells/python-net/aspose.cells.numbers/numbersloadoptions/set_paper_size/#aspose.cells.PaperSizeType) | Sets the default print paper size from default printer's setting. |
+| [`set_paper_size(self, type)`](/cells/python-net/aspose.cells.numbers/numbersloadoptions/set_paper_size/#aspose.cells.papersizetype) | Sets the default print paper size from default printer's setting. |
 
 
 

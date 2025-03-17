@@ -3,12 +3,12 @@ title: get_option_index method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells.drawing/radiobutton/get_option_index/
 is_root: false
 ---
 
-## get_option_index {#}
+## get_option_index(self) {#}
 
 Gets the option index (one-based) in all the radio buttons of the GroupBox which contains this radio button.
 
@@ -20,6 +20,7 @@ Gets the option index (one-based) in all the radio buttons of the GroupBox which
 
 
 ```python
+
 def get_option_index(self):
     ...
 ```

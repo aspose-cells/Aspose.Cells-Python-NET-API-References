@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/row_index_to_name/
 is_root: false
 ---
 
-## row_index_to_name {#int}
+## row_index_to_name(, row) {#int}
 
 Gets row name according to row index.
 
@@ -20,7 +20,9 @@ Name of row.
 
 
 ```python
-def row_index_to_name(self, row):
+
+@staticmethod
+def row_index_to_name(row):
     ...
 ```
 

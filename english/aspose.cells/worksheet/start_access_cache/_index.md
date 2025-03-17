@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/start_access_cache/
 is_root: false
 ---
 
-## start_access_cache {#aspose.cells.AccessCacheOptions}
+## start_access_cache(self, opts) {#aspose.cells.AccessCacheOptions}
 
 Starts the session that uses caches to access the data in this worksheet.
 
 
 
 ```python
+
 def start_access_cache(self, opts):
     ...
 ```

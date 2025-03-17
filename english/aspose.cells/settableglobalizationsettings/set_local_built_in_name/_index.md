@@ -8,13 +8,14 @@ url: /aspose.cells/settableglobalizationsettings/set_local_built_in_name/
 is_root: false
 ---
 
-## set_local_built_in_name {#str-str-bool}
+## set_local_built_in_name(self, standard_name, local_name, bidirectional) {#str-str-bool}
 
 Sets the locale dependent text for the built-in name with given standard name text.
 
 
 
 ```python
+
 def set_local_built_in_name(self, standard_name, local_name, bidirectional):
     ...
 ```

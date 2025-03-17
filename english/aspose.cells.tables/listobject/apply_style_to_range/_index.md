@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listobject/apply_style_to_range/
 is_root: false
 ---
 
-## apply_style_to_range {#}
+## apply_style_to_range(self) {#}
 
 Apply the table style to the range.
 
 
 
 ```python
+
 def apply_style_to_range(self):
     ...
 ```
