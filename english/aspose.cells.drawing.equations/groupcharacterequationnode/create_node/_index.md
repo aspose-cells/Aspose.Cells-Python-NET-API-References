@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.equations/groupcharacterequationnode/create_node/
 is_root: false
 ---
 
-## create_node {#aspose.cells.drawing.equations.EquationNodeType-aspose.cells.Workbook-aspose.cells.drawing.equations.EquationNode}
+## create_node(, equation_type, workbook, parent) {#aspose.cells.drawing.equations.EquationNodeType-aspose.cells.Workbook-aspose.cells.drawing.equations.EquationNode}
 
 Create a node of the specified type.
 
@@ -20,7 +20,9 @@ If the specified type exists, the corresponding node is returned, and if the typ
 
 
 ```python
-def create_node(self, equation_type, workbook, parent):
+
+@staticmethod
+def create_node(equation_type, workbook, parent):
     ...
 ```
 

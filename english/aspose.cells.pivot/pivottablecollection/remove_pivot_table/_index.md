@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottablecollection/remove_pivot_table/
 is_root: false
 ---
 
-## remove_pivot_table {#aspose.cells.pivot.PivotTable}
+## remove_pivot_table(self, pivot_table) {#aspose.cells.pivot.PivotTable}
 
 Deletes the specified PivotTable and delete the PivotTable data
 
 
 
 ```python
+
 def remove_pivot_table(self, pivot_table):
     ...
 ```

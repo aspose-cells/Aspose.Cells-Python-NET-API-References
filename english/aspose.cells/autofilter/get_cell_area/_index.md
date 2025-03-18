@@ -8,7 +8,7 @@ url: /aspose.cells/autofilter/get_cell_area/
 is_root: false
 ---
 
-## get_cell_area {#}
+## get_cell_area(self) {#}
 
 Gets the [`CellArea`](/cells/python-net/aspose.cells/cellarea) where the this AutoFilter applies to.
 
@@ -20,6 +20,7 @@ the area this filter applies to
 
 
 ```python
+
 def get_cell_area(self):
     ...
 ```
@@ -27,7 +28,7 @@ def get_cell_area(self):
 
 
 
-## get_cell_area {#bool}
+## get_cell_area(self, refresh_applied_range) {#bool}
 
 Gets the [`CellArea`](/cells/python-net/aspose.cells/cellarea) where the specified AutoFilter applies to.
 
@@ -39,6 +40,7 @@ the area this filter applies to
 
 
 ```python
+
 def get_cell_area(self, refresh_applied_range):
     ...
 ```

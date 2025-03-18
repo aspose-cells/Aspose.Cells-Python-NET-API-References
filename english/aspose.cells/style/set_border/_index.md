@@ -8,7 +8,7 @@ url: /aspose.cells/style/set_border/
 is_root: false
 ---
 
-## set_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
+## set_border(self, border_type, border_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
 
 Sets the borders of the style.
 
@@ -20,6 +20,7 @@ Whether current border settings have been changed.
 
 
 ```python
+
 def set_border(self, border_type, border_style, border_color):
     ...
 ```
@@ -32,7 +33,7 @@ def set_border(self, border_type, border_style, border_color):
 | border_color | aspose.pydrawing.Color | The color of the border. |
 
 
-## set_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
+## set_border(self, border_type, border_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
 
 Sets the borders of the style.
 
@@ -44,6 +45,7 @@ Whether current border settings have been changed.
 
 
 ```python
+
 def set_border(self, border_type, border_style, border_color):
     ...
 ```

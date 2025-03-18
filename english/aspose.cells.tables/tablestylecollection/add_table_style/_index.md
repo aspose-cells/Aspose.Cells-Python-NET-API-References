@@ -8,7 +8,7 @@ url: /aspose.cells.tables/tablestylecollection/add_table_style/
 is_root: false
 ---
 
-## add_table_style {#str}
+## add_table_style(self, name) {#str}
 
 Adds a custom table style.
 
@@ -20,6 +20,7 @@ The index of the table style.
 
 
 ```python
+
 def add_table_style(self, name):
     ...
 ```

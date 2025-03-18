@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/spinner/calculate_text_size/
 is_root: false
 ---
 
-## calculate_text_size {#}
+## calculate_text_size(self) {#}
 
 Recalculate the text area
 
@@ -20,6 +20,7 @@ Text's Size in an array(width and height).
 
 
 ```python
+
 def calculate_text_size(self):
     ...
 ```

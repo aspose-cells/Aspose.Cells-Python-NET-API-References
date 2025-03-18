@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottablecollection/remove_by_index/
 is_root: false
 ---
 
-## remove_by_index {#int}
+## remove_by_index(self, index) {#int}
 
 Deletes the PivotTable at the specified index and delete the PivotTable data
 
 
 
 ```python
+
 def remove_by_index(self, index):
     ...
 ```

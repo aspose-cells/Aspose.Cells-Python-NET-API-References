@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/show_values_as/
 is_root: false
 ---
 
-## show_values_as {#aspose.cells.pivot.PivotFieldDataDisplayFormat-int-aspose.cells.pivot.PivotItemPositionType-int}
+## show_values_as(self, display_format, base_field, base_item_position_type, base_item) {#aspose.cells.pivot.PivotFieldDataDisplayFormat-int-aspose.cells.pivot.PivotItemPositionType-int}
 
 Shows values of data field as different display format when the ShowDataAs calculation is in use.
 
 
 
 ```python
+
 def show_values_as(self, display_format, base_field, base_item_position_type, base_item):
     ...
 ```

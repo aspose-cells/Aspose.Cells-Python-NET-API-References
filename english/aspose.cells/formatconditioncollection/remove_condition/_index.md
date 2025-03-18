@@ -8,13 +8,14 @@ url: /aspose.cells/formatconditioncollection/remove_condition/
 is_root: false
 ---
 
-## remove_condition {#int}
+## remove_condition(self, index) {#int}
 
 Removes the formatting condition by index.
 
 
 
 ```python
+
 def remove_condition(self, index):
     ...
 ```

@@ -3,7 +3,7 @@ title: MarkdownSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1110
+weight: 1120
 url: /aspose.cells/markdownsaveoptions/
 is_root: false
 ---
@@ -24,7 +24,7 @@ The MarkdownSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/markdownsaveoptions/__init__/#) | Creates options for saving markdown document |
+| [`__init__(self)`](/cells/python-net/aspose.cells/markdownsaveoptions/__init__/#) | Creates options for saving markdown document |
 
 
 ### Properties
@@ -47,6 +47,8 @@ The MarkdownSaveOptions type exposes the following members:
 | [format_strategy](/cells/python-net/aspose.cells/markdownsaveoptions/format_strategy) | Gets and sets the format strategy when exporting the cell value as string. |
 | [light_cells_data_provider](/cells/python-net/aspose.cells/markdownsaveoptions/light_cells_data_provider) | The Data provider to provide cells data for saving workbook in light mode. |
 | [line_separator](/cells/python-net/aspose.cells/markdownsaveoptions/line_separator) | Gets and sets the line separator. |
+| [table_header_type](/cells/python-net/aspose.cells/markdownsaveoptions/table_header_type) | Gets and sets how set the header of the table. |
+| [sheet_set](/cells/python-net/aspose.cells/markdownsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.active`](/cells/python-net/aspose.cells.rendering/sheetset#active). |
 
 
 

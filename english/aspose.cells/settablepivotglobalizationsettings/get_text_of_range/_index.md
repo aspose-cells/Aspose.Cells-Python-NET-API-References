@@ -8,7 +8,7 @@ url: /aspose.cells/settablepivotglobalizationsettings/get_text_of_range/
 is_root: false
 ---
 
-## get_text_of_range {#}
+## get_text_of_range(self) {#}
 
 Gets the local text of "Range"
 
@@ -20,6 +20,7 @@ Gets the local text of "Range"
 
 
 ```python
+
 def get_text_of_range(self):
     ...
 ```

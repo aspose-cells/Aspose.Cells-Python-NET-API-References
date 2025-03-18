@@ -30,12 +30,29 @@ The DocumentProperty type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [to_int](/cells/python-net/aspose.cells.properties/documentproperty/to_int/#) | Returns the property value as integer. |
-| [to_double](/cells/python-net/aspose.cells.properties/documentproperty/to_double/#) | Returns the property value as double. |
-| [to_date_time](/cells/python-net/aspose.cells.properties/documentproperty/to_date_time/#) | Returns the property value as DateTime in local timezone. |
-| [to_bool](/cells/python-net/aspose.cells.properties/documentproperty/to_bool/#) | Returns the property value as bool. |
+| [`to_int(self)`](/cells/python-net/aspose.cells.properties/documentproperty/to_int/#) | Returns the property value as integer. |
+| [`to_double(self)`](/cells/python-net/aspose.cells.properties/documentproperty/to_double/#) | Returns the property value as double. |
+| [`to_date_time(self)`](/cells/python-net/aspose.cells.properties/documentproperty/to_date_time/#) | Returns the property value as DateTime in local timezone. |
+| [`to_bool(self)`](/cells/python-net/aspose.cells.properties/documentproperty/to_bool/#) | Returns the property value as bool. |
 
 
+
+### Example 
+
+
+```python
+from aspose.cells import Workbook
+
+# Instantiate a Workbook object
+workbook = Workbook("book1.xls")
+# Retrieve a list of all custom document properties of the Excel file
+customProperties = workbook.worksheets.custom_document_properties
+# Accessng a custom document property by using the property index
+customProperty1 = customProperties[3]
+# Accessng a custom document property by using the property name
+customProperty2 = customProperties.get("Owner")
+
+```
 
 ### See Also
 * module [`aspose.cells.properties`](..)

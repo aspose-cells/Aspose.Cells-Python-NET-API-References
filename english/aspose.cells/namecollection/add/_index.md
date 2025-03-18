@@ -8,7 +8,7 @@ url: /aspose.cells/namecollection/add/
 is_root: false
 ---
 
-## add {#str}
+## add(self, text) {#str}
 
 Defines a new name.
 
@@ -20,6 +20,7 @@ Defines a new name.
 
 
 ```python
+
 def add(self, text):
     ...
 ```

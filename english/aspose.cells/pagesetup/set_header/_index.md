@@ -8,13 +8,14 @@ url: /aspose.cells/pagesetup/set_header/
 is_root: false
 ---
 
-## set_header {#int-str}
+## set_header(self, section, header_script) {#int-str}
 
 Sets a script formatting the header of an Excel file.
 
 
 
 ```python
+
 def set_header(self, section, header_script):
     ...
 ```

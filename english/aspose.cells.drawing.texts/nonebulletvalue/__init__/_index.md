@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.texts/nonebulletvalue/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of NoneBulletValue
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

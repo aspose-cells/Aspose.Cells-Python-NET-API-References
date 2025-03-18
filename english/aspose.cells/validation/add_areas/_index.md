@@ -8,13 +8,14 @@ url: /aspose.cells/validation/add_areas/
 is_root: false
 ---
 
-## add_areas {#list-bool-bool}
+## add_areas(self, areas, check_intersection, check_edge) {#list-bool-bool}
 
 Applies the validation to given areas.
 
 
 
 ```python
+
 def add_areas(self, areas, check_intersection, check_edge):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.charts/seriescollection/add/
 is_root: false
 ---
 
-## add {#str-bool}
+## add(self, area, is_vertical) {#str-bool}
 
 Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart.
 
@@ -20,6 +20,7 @@ Return the first index of the added ASeries in the NSeries.
 
 
 ```python
+
 def add(self, area, is_vertical):
     ...
 ```
@@ -33,7 +34,7 @@ def add(self, area, is_vertical):
 
 
 
-## add {#str-bool-bool}
+## add(self, area, is_vertical, check_labels) {#str-bool-bool}
 
 Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart.
 
@@ -45,6 +46,7 @@ Return the first index of the added ASeries in the NSeries.
 
 
 ```python
+
 def add(self, area, is_vertical, check_labels):
     ...
 ```

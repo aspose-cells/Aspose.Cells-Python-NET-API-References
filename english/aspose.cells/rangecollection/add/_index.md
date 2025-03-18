@@ -8,7 +8,7 @@ url: /aspose.cells/rangecollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.Range}
+## add(self, range) {#aspose.cells.Range}
 
 Adds a [`Range`](/cells/python-net/aspose.cells/range) item to the collection.
 
@@ -20,6 +20,7 @@ Adds a [`Range`](/cells/python-net/aspose.cells/range) item to the collection.
 
 
 ```python
+
 def add(self, range):
     ...
 ```

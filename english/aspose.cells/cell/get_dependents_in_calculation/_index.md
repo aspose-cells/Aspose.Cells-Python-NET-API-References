@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_dependents_in_calculation/
 is_root: false
 ---
 
-## get_dependents_in_calculation {#bool}
+## get_dependents_in_calculation(self, recursive) {#bool}
 
 Gets all cells whose calculated result depends on this cell.
 
@@ -20,6 +20,7 @@ Enumerator to enumerate all dependents(Cell objects)
 
 
 ```python
+
 def get_dependents_in_calculation(self, recursive):
     ...
 ```

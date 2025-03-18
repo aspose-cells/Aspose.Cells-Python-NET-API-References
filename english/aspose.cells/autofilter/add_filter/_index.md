@@ -8,13 +8,14 @@ url: /aspose.cells/autofilter/add_filter/
 is_root: false
 ---
 
-## add_filter {#int-str}
+## add_filter(self, field_index, criteria) {#int-str}
 
 Adds a filter for a filter column.
 
 
 
 ```python
+
 def add_filter(self, field_index, criteria):
     ...
 ```

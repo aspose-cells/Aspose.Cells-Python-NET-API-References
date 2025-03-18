@@ -19,7 +19,7 @@ The RevisionHeader type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.revisions/revisionheader/__init__/#) | Constructs a new instance of RevisionHeader |
+| [`__init__(self)`](/cells/python-net/aspose.cells.revisions/revisionheader/__init__/#) | Constructs a new instance of RevisionHeader |
 
 
 ### Properties

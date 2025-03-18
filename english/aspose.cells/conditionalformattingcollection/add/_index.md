@@ -8,7 +8,7 @@ url: /aspose.cells/conditionalformattingcollection/add/
 is_root: false
 ---
 
-## add {#}
+## add(self) {#}
 
 Adds a FormatConditions to the collection.
 
@@ -20,6 +20,7 @@ FormatConditions object index.
 
 
 ```python
+
 def add(self):
     ...
 ```

@@ -3,7 +3,7 @@ title: width_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1280
+weight: 1290
 url: /aspose.cells.drawing/listbox/width_inch/
 is_root: false
 ---

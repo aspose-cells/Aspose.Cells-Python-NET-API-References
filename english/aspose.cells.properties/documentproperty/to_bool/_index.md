@@ -8,13 +8,14 @@ url: /aspose.cells.properties/documentproperty/to_bool/
 is_root: false
 ---
 
-## to_bool {#}
+## to_bool(self) {#}
 
 Returns the property value as bool.
 
 
 
 ```python
+
 def to_bool(self):
     ...
 ```

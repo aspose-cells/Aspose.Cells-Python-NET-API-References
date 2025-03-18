@@ -3,7 +3,7 @@ title: revision_number property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /aspose.cells.properties/builtindocumentpropertycollection/revision_number/
 is_root: false
 ---

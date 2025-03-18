@@ -36,16 +36,28 @@ The ChartFrame type exposes the following members:
 | [shadow](/cells/python-net/aspose.cells.charts/chartframe/shadow) | True if the frame has a shadow. |
 | [shape_properties](/cells/python-net/aspose.cells.charts/chartframe/shape_properties) | Gets the [`ChartFrame.shape_properties`](/cells/python-net/aspose.cells.charts/chartframe#shape_properties) object. |
 | [is_default_pos_be_set](/cells/python-net/aspose.cells.charts/chartframe/is_default_pos_be_set) | Indicates whether default position(DefaultX, DefaultY, DefaultWidth and DefaultHeight) are set. |
-| [default_x](/cells/python-net/aspose.cells.charts/chartframe/default_x) | Represents x of default position |
-| [default_y](/cells/python-net/aspose.cells.charts/chartframe/default_y) | Represents y of default position |
-| [default_width](/cells/python-net/aspose.cells.charts/chartframe/default_width) | Represents width of default position |
-| [default_height](/cells/python-net/aspose.cells.charts/chartframe/default_height) | Represents height of default position |
+| [default_x](/cells/python-net/aspose.cells.charts/chartframe/default_x) | Represents x of default position in units of 1/4000 of the chart area. |
+| [default_y](/cells/python-net/aspose.cells.charts/chartframe/default_y) | Represents y of default position in units of 1/4000 of the chart area. |
+| [default_width](/cells/python-net/aspose.cells.charts/chartframe/default_width) | Represents width of default position in units of 1/4000 of the chart area. |
+| [default_height](/cells/python-net/aspose.cells.charts/chartframe/default_height) | Represents height of default position in units of 1/4000 of the chart area. |
+| [default_x_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartframe/default_x_ratio_to_chart) | Represents x of default position in units of Fraction of the chart area. |
+| [default_y_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartframe/default_y_ratio_to_chart) | Represents y of default position in units of Fraction of the chart area. |
+| [default_width_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartframe/default_width_ratio_to_chart) | Represents width of default position in units of Fraction of the chart area. |
+| [default_height_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartframe/default_height_ratio_to_chart) | Represents height of default position in units of Fraction of the chart area. |
+| [x_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartframe/x_ratio_to_chart) | Gets or sets the x coordinate of the upper left corner in units of ratio of the chart area. |
+| [y_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartframe/y_ratio_to_chart) | Gets or sets the y coordinate of the upper left corner in units of ratio of the chart area. |
+| [width_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartframe/width_ratio_to_chart) | Gets or sets the width of frame in units of ratio of the chart area. |
+| [height_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartframe/height_ratio_to_chart) | Gets or sets the height of frame in units of ratio of the chart area. |
+| [x_pixel](/cells/python-net/aspose.cells.charts/chartframe/x_pixel) | Gets or sets the x coordinate of the upper left corner in units of Pixel. |
+| [y_pixel](/cells/python-net/aspose.cells.charts/chartframe/y_pixel) | Gets or sets the y coordinate of the upper left corner in units of Pixel. |
+| [width_pixel](/cells/python-net/aspose.cells.charts/chartframe/width_pixel) | Gets or sets the width of frame in units of Pixel. |
+| [height_pixel](/cells/python-net/aspose.cells.charts/chartframe/height_pixel) | Gets or sets the height of frame in units of Pixel. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_position_auto](/cells/python-net/aspose.cells.charts/chartframe/set_position_auto/#) | Set position of the frame to automatic |
+| [`set_position_auto(self)`](/cells/python-net/aspose.cells.charts/chartframe/set_position_auto/#) | Set position of the frame to automatic |
 
 
 

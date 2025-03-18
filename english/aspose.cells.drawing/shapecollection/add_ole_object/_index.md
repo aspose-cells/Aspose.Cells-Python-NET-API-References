@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_ole_object/
 is_root: false
 ---
 
-## add_ole_object {#int-int-int-int-int-int-bytes}
+## add_ole_object(self, upper_left_row, top, upper_left_column, left, height, width, image_data) {#int-int-int-int-int-int-bytes}
 
 Adds an OleObject.
 
@@ -20,6 +20,7 @@ Adds an OleObject.
 
 
 ```python
+
 def add_ole_object(self, upper_left_row, top, upper_left_column, left, height, width, image_data):
     ...
 ```

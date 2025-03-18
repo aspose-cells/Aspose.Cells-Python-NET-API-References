@@ -3,18 +3,19 @@ title: move_range method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 810
+weight: 800
 url: /aspose.cells/cells/move_range/
 is_root: false
 ---
 
-## move_range {#aspose.cells.CellArea-int-int}
+## move_range(self, source_area, dest_row, dest_column) {#aspose.cells.CellArea-int-int}
 
 Moves the range.
 
 
 
 ```python
+
 def move_range(self, source_area, dest_row, dest_column):
     ...
 ```

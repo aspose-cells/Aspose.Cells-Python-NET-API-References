@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfiltercollection/add_value_filter/
 is_root: false
 ---
 
-## add_value_filter {#int-int-aspose.cells.pivot.PivotFilterType-float-float}
+## add_value_filter(self, base_field_index, value_field_index, type, value1, value2) {#int-int-aspose.cells.pivot.PivotFilterType-float-float}
 
 Filters by values of data pivot field.
 
 
 
 ```python
+
 def add_value_filter(self, base_field_index, value_field_index, type, value1, value2):
     ...
 ```

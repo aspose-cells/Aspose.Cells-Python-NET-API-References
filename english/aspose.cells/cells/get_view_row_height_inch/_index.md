@@ -3,12 +3,12 @@ title: get_view_row_height_inch method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 540
+weight: 550
 url: /aspose.cells/cells/get_view_row_height_inch/
 is_root: false
 ---
 
-## get_view_row_height_inch {#int}
+## get_view_row_height_inch(self, row) {#int}
 
 Gets the height of a specified row in unit of inches.
 
@@ -20,6 +20,7 @@ Height of row
 
 
 ```python
+
 def get_view_row_height_inch(self, row):
     ...
 ```

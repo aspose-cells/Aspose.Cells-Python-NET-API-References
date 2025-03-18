@@ -8,13 +8,14 @@ url: /aspose.cells/autofilter/match_non_blanks/
 is_root: false
 ---
 
-## match_non_blanks {#int}
+## match_non_blanks(self, field_index) {#int}
 
 Match all not blank cell in the list.
 
 
 
 ```python
+
 def match_non_blanks(self, field_index):
     ...
 ```

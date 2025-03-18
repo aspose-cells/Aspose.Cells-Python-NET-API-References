@@ -8,7 +8,7 @@ url: /aspose.cells/customfunctiondefinition/get_array_mode_parameters/
 is_root: false
 ---
 
-## get_array_mode_parameters {#str}
+## get_array_mode_parameters(self, function_name) {#str}
 
 Gets the indices of given custom function's parameters that need to be calculated in array mode.
 
@@ -21,6 +21,7 @@ Default is null, there is no parameter which needs to be calculated in array mod
 
 
 ```python
+
 def get_array_mode_parameters(self, function_name):
     ...
 ```

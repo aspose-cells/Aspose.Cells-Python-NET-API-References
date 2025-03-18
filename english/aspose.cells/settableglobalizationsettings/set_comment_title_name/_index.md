@@ -8,13 +8,14 @@ url: /aspose.cells/settableglobalizationsettings/set_comment_title_name/
 is_root: false
 ---
 
-## set_comment_title_name {#aspose.cells.rendering.CommentTitleType-str}
+## set_comment_title_name(self, type, name) {#aspose.cells.rendering.CommentTitleType-str}
 
 Gets the locale dependent comment title name according to comment title type.
 
 
 
 ```python
+
 def set_comment_title_name(self, type, name):
     ...
 ```

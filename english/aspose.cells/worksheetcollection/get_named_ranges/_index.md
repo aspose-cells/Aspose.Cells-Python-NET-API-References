@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/get_named_ranges/
 is_root: false
 ---
 
-## get_named_ranges {#}
+## get_named_ranges(self) {#}
 
 Gets all pre-defined named ranges in the spreadsheet.
 
@@ -25,6 +25,7 @@ Returns null if the named range does not exist.
 
 
 ```python
+
 def get_named_ranges(self):
     ...
 ```

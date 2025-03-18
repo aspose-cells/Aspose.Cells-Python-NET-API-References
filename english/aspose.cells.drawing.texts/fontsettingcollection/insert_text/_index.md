@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.texts/fontsettingcollection/insert_text/
 is_root: false
 ---
 
-## insert_text {#int-str}
+## insert_text(self, index, text) {#int-str}
 
 Insert index at the position.
 
 
 
 ```python
+
 def insert_text(self, index, text):
     ...
 ```

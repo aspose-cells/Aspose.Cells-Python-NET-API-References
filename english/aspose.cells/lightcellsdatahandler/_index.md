@@ -3,7 +3,7 @@ title: LightCellsDataHandler class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1070
+weight: 1080
 url: /aspose.cells/lightcellsdatahandler/
 is_root: false
 ---
@@ -19,11 +19,11 @@ The LightCellsDataHandler type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [start_sheet](/cells/python-net/aspose.cells/lightcellsdatahandler/start_sheet/#aspose.cells.Worksheet) | Starts to process a worksheet. |
-| [start_row](/cells/python-net/aspose.cells/lightcellsdatahandler/start_row/#int) | Prepares to process a row. |
-| [process_row](/cells/python-net/aspose.cells/lightcellsdatahandler/process_row/#aspose.cells.Row) | Starts to process one row. |
-| [start_cell](/cells/python-net/aspose.cells/lightcellsdatahandler/start_cell/#int) | Prepares to process a cell. |
-| [process_cell](/cells/python-net/aspose.cells/lightcellsdatahandler/process_cell/#aspose.cells.Cell) | Starts to process one cell. |
+| [`start_sheet(self, sheet)`](/cells/python-net/aspose.cells/lightcellsdatahandler/start_sheet/#aspose.cells.worksheet) | Starts to process a worksheet. |
+| [`start_row(self, row_index)`](/cells/python-net/aspose.cells/lightcellsdatahandler/start_row/#int) | Prepares to process a row. |
+| [`process_row(self, row)`](/cells/python-net/aspose.cells/lightcellsdatahandler/process_row/#aspose.cells.row) | Starts to process one row. |
+| [`start_cell(self, column_index)`](/cells/python-net/aspose.cells/lightcellsdatahandler/start_cell/#int) | Prepares to process a cell. |
+| [`process_cell(self, cell)`](/cells/python-net/aspose.cells/lightcellsdatahandler/process_cell/#aspose.cells.cell) | Starts to process one cell. |
 
 
 

@@ -8,13 +8,14 @@ url: /aspose.cells/settableglobalizationsettings/set_standard_header_footer_font
 is_root: false
 ---
 
-## set_standard_header_footer_font_style_name {#str-str}
+## set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name) {#str-str}
 
 Sets the locale dependent function name according to given standard function name.
 
 
 
 ```python
+
 def set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/set_ungroup/
 is_root: false
 ---
 
-## set_ungroup {#int}
+## set_ungroup(self, base_field_index) {#int}
 
 Sets ungroup by the PivotTable
 
 
 
 ```python
+
 def set_ungroup(self, base_field_index):
     ...
 ```
@@ -30,13 +31,14 @@ please use PivotField.Ungroup() method.
 This method will be removed 12 months later since October 2023. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## set_ungroup {#aspose.cells.pivot.PivotField}
+## set_ungroup(self, pivot_field) {#aspose.cells.pivot.PivotField}
 
 Sets ungroup by the PivotTable
 
 
 
 ```python
+
 def set_ungroup(self, pivot_field):
     ...
 ```

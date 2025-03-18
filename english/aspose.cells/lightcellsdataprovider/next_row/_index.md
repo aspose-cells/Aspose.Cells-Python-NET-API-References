@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdataprovider/next_row/
 is_root: false
 ---
 
-## next_row {#}
+## next_row(self) {#}
 
 Gets the next row to be saved.
 
@@ -20,6 +20,7 @@ the next row index to be saved. -1 means the end of current sheet data has been 
 
 
 ```python
+
 def next_row(self):
     ...
 ```

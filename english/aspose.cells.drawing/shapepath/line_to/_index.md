@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapepath/line_to/
 is_root: false
 ---
 
-## line_to {#float-float}
+## line_to(self, x, y) {#float-float}
 
 Appends a line segment to the current figure. The starting point is the end point of the current figure.
 
 
 
 ```python
+
 def line_to(self, x, y):
     ...
 ```

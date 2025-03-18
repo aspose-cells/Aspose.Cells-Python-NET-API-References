@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_list_box/
 is_root: false
 ---
 
-## add_list_box {#int-int-int-int-int-int}
+## add_list_box(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a ListBox to the worksheet.
 
@@ -20,6 +20,7 @@ A ListBox object.
 
 
 ```python
+
 def add_list_box(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

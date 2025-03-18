@@ -3,7 +3,7 @@ title: OdsSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1190
+weight: 1200
 url: /aspose.cells/odssaveoptions/
 is_root: false
 ---
@@ -24,8 +24,8 @@ The OdsSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/odssaveoptions/__init__/#) | Creates the options of saving ods file. |
-| [__init__](/cells/python-net/aspose.cells/odssaveoptions/__init__/#aspose.cells.SaveFormat) | Creates the options of saving ods file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/odssaveoptions/__init__/#) | Creates the options of saving ods file. |
+| [`__init__(self, save_format)`](/cells/python-net/aspose.cells/odssaveoptions/__init__/#aspose.cells.saveformat) | Creates the options of saving ods file. |
 
 
 ### Properties

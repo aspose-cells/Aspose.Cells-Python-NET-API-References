@@ -19,8 +19,8 @@ The DigitalSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature/__init__/#System.Security.Cryptography.X509Certificates.X509Certificate2-str-DateTime) | Constructor of digitalSignature. Uses .Net implementation. |
-| [__init__](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature/__init__/#bytes-str-str-DateTime) | Constructor of digitalSignature. Uses Bouncy Castle implementation. |
+| [`__init__(self, certificate, comments, sign_time)`](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature/__init__/#system.security.cryptography.x509certificates.x509certificate2-str-datetime) | Constructor of digitalSignature. Uses .Net implementation. |
+| [`__init__(self, raw_data, password, comments, sign_time)`](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature/__init__/#bytes-str-str-datetime) | Constructor of digitalSignature. Uses Bouncy Castle implementation. |
 
 
 ### Properties

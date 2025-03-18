@@ -8,13 +8,14 @@ url: /aspose.cells/copyoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 CopyOptions constructor.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

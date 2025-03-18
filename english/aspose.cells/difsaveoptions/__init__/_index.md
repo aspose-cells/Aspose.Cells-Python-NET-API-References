@@ -8,13 +8,14 @@ url: /aspose.cells/difsaveoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Creates the options for saving DIF file.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

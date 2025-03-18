@@ -3,7 +3,7 @@ title: StyleModifyFlag enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2720
+weight: 2740
 url: /aspose.cells/stylemodifyflag/
 is_root: false
 ---
@@ -25,9 +25,11 @@ The StyleModifyFlag type exposes the following members:
 | BOTTOM_BORDER | Indicates whether bottom border has been modified for the style. |
 | DIAGONAL_DOWN_BORDER | Indicates whether diagonal-down border has been modified for the style. |
 | DIAGONAL_UP_BORDER | Indicates whether diagonal-up border has been modified for the style. |
-| DIAGONAL | Indicates whether one or more diagonal borders([`StyleModifyFlag.DIAGONAL_DOWN_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#DIAGONAL_DOWN_BORDER),<br/>[`StyleModifyFlag.DIAGONAL_UP_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#DIAGONAL_UP_BORDER)) have been modified for the style. |
 | HORIZONTAL_BORDER | Indicates whether horizontal border has been modified for the style.<br/>Only for dynamic style, such as conditional formatting. |
 | VERTICAL_BORDER | Indicates whether vertical border has been modified for the style.<br/>Only for dynamic style, such as conditional formatting. |
+| SIDE_BORDERS | Indicates the four side borders: [`StyleModifyFlag.LEFT_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#LEFT_BORDER),<br/>[`StyleModifyFlag.RIGHT_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#RIGHT_BORDER), [`StyleModifyFlag.TOP_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#TOP_BORDER) and [`StyleModifyFlag.BOTTOM_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#BOTTOM_BORDER). |
+| DIAGONAL | Indicates diagonal borders: [`StyleModifyFlag.DIAGONAL_DOWN_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#DIAGONAL_DOWN_BORDER) and [`StyleModifyFlag.DIAGONAL_UP_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#DIAGONAL_UP_BORDER). |
+| DYNAMIC_STYLE_BORDERS | Indicates borders of dynamic style: [`StyleModifyFlag.HORIZONTAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#HORIZONTAL_BORDER) and [`StyleModifyFlag.VERTICAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#VERTICAL_BORDER). |
 | BORDERS | Indicates whether one or more borders([`StyleModifyFlag.LEFT_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#LEFT_BORDER),<br/>[`StyleModifyFlag.RIGHT_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#RIGHT_BORDER), [`StyleModifyFlag.TOP_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#TOP_BORDER), [`StyleModifyFlag.BOTTOM_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#BOTTOM_BORDER),<br/>[`StyleModifyFlag.DIAGONAL`](/cells/python-net/aspose.cells/stylemodifyflag#DIAGONAL), [`StyleModifyFlag.HORIZONTAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#HORIZONTAL_BORDER), [`StyleModifyFlag.VERTICAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#VERTICAL_BORDER))<br/>have been modified for the style. |
 | NUMBER_FORMAT | Indicates whether numberformat has been modified. |
 | HORIZONTAL_ALIGNMENT | Indicates whether horizontal alignment has been modified. |
@@ -66,9 +68,17 @@ The StyleModifyFlag type exposes the following members:
 | FONT_CAP | unused. |
 | FONT_VERTICAL_TEXT |  |
 | FONT | Indicates whether one or more properties have been modified for the font of the style. |
-| ALL | Indicates whether one or more properties have been modified for the style. |
+| ALL | All properties that can be modified for the style. |
+| NONE | No property has been specified. |
 
 
+
+### Remarks 
+
+
+Combinations of multiple properties are defined for user's convenience.
+When checking whether they are modified for one style, the returned value denotes
+whether one or more properties in the combination have been modified.
 
 ### See Also
 * module [`aspose.cells`](..)

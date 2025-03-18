@@ -3,12 +3,12 @@ title: get_dependents method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /aspose.cells/cells/get_dependents/
 is_root: false
 ---
 
-## get_dependents {#bool-int-int}
+## get_dependents(self, is_all, row, column) {#bool-int-int}
 
 Get all cells which refer to the specific cell.
 
@@ -20,6 +20,7 @@ Get all cells which refer to the specific cell.
 
 
 ```python
+
 def get_dependents(self, is_all, row, column):
     ...
 ```

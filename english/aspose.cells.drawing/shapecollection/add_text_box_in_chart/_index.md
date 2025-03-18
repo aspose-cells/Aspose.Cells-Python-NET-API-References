@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_text_box_in_chart/
 is_root: false
 ---
 
-## add_text_box_in_chart {#int-int-int-int}
+## add_text_box_in_chart(self, top, left, height, width) {#int-int-int-int}
 
 Adds a textbox to the chart.
 
@@ -20,6 +20,7 @@ A TextBox object.
 
 
 ```python
+
 def add_text_box_in_chart(self, top, left, height, width):
     ...
 ```

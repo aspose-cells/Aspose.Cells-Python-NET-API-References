@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotarea/__init__/
 is_root: false
 ---
 
-## __init__ {#aspose.cells.pivot.PivotTable}
+## \_\_init\_\_(self, table) {#aspose.cells.pivot.PivotTable}
 
 Presents the selected area of the PivotTable.
 
 
 
 ```python
+
 def __init__(self, table):
     ...
 ```

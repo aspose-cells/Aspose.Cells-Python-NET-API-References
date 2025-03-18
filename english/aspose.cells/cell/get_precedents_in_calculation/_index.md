@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_precedents_in_calculation/
 is_root: false
 ---
 
-## get_precedents_in_calculation {#}
+## get_precedents_in_calculation(self) {#}
 
 Gets all precedents(reference to cells in current workbook) used by this cell's formula while calculating it.
 
@@ -20,6 +20,7 @@ Enumerator to enumerate all references(ReferredArea)
 
 
 ```python
+
 def get_precedents_in_calculation(self):
     ...
 ```

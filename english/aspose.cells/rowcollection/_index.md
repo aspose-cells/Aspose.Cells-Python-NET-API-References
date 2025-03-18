@@ -3,7 +3,7 @@ title: RowCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1400
+weight: 1410
 url: /aspose.cells/rowcollection/
 is_root: false
 ---
@@ -33,10 +33,10 @@ Gets a [`Row`](/cells/python-net/aspose.cells/row) object by given row index. Th
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_enumerator](/cells/python-net/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Gets an enumerator that iterates rows through this collection |
-| [get_row_by_index](/cells/python-net/aspose.cells/rowcollection/get_row_by_index/#int) | Gets the row object by the position in the list. |
-| [clear](/cells/python-net/aspose.cells/rowcollection/clear/#) | Clear all rows and cells. |
-| [remove_at](/cells/python-net/aspose.cells/rowcollection/remove_at/#int) | Remove the row item at the specified index(position) in this collection. |
+| [`get_enumerator(self, reversed, sync)`](/cells/python-net/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Gets an enumerator that iterates rows through this collection |
+| [`get_row_by_index(self, index)`](/cells/python-net/aspose.cells/rowcollection/get_row_by_index/#int) | Gets the row object by the position in the list. |
+| [`clear(self)`](/cells/python-net/aspose.cells/rowcollection/clear/#) | Clear all rows and cells. |
+| [`remove_at(self, index)`](/cells/python-net/aspose.cells/rowcollection/remove_at/#int) | Remove the row item at the specified index(position) in this collection. |
 
 
 

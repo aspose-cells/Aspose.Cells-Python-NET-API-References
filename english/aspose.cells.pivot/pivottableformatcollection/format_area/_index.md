@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottableformatcollection/format_area/
 is_root: false
 ---
 
-## format_area {#aspose.cells.pivot.PivotFieldType-int-aspose.cells.pivot.PivotFieldSubtotalType-aspose.cells.pivot.PivotTableSelectionType-bool-bool-aspose.cells.Style}
+## format_area(self, axis_type, field_position, subtotal_type, selection_type, is_grand_row, is_grand_column, style) {#aspose.cells.pivot.PivotFieldType-int-aspose.cells.pivot.PivotFieldSubtotalType-aspose.cells.pivot.PivotTableSelectionType-bool-bool-aspose.cells.Style}
 
 Formats selected area.
 
@@ -20,6 +20,7 @@ Formats selected area.
 
 
 ```python
+
 def format_area(self, axis_type, field_position, subtotal_type, selection_type, is_grand_row, is_grand_column, style):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensionpropertycollection/add/
 is_root: false
 ---
 
-## add {#str-str}
+## add(self, name, value) {#str-str}
 
 Adds web extension property.
 
@@ -20,6 +20,7 @@ The index of added property.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```

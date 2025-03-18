@@ -8,7 +8,7 @@ url: /aspose.cells/row/get_cell_or_null/
 is_root: false
 ---
 
-## get_cell_or_null {#int}
+## get_cell_or_null(self, column) {#int}
 
 Gets the cell or null in the specific index.
 
@@ -21,6 +21,7 @@ Or returns null if the cell object does not exist.
 
 
 ```python
+
 def get_cell_or_null(self, column):
     ...
 ```

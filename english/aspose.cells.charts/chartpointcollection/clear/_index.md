@@ -8,13 +8,14 @@ url: /aspose.cells.charts/chartpointcollection/clear/
 is_root: false
 ---
 
-## clear {#}
+## clear(self) {#}
 
 Remove all setting of the chart points.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

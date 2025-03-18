@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdataprovider/next_cell/
 is_root: false
 ---
 
-## next_cell {#}
+## next_cell(self) {#}
 
 Gets next cell to be saved.
 
@@ -20,6 +20,7 @@ column index of the next cell to be saved. -1 means the end of current row data 
 
 
 ```python
+
 def next_cell(self):
     ...
 ```

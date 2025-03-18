@@ -8,7 +8,7 @@ url: /aspose.cells/bordercollection/get/
 is_root: false
 ---
 
-## get {#aspose.cells.BorderType}
+## get(self, border_type) {#aspose.cells.BorderType}
 
 Add API for Python Via .Net.since this[BorderType borderType] is unsupported
 
@@ -20,6 +20,7 @@ The element at the specified index.
 
 
 ```python
+
 def get(self, border_type):
     ...
 ```

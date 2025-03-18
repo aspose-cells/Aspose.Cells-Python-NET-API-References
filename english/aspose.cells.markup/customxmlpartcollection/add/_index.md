@@ -8,7 +8,7 @@ url: /aspose.cells.markup/customxmlpartcollection/add/
 is_root: false
 ---
 
-## add {#bytes-bytes}
+## add(self, data, shema_data) {#bytes-bytes}
 
 Adds an item to the collection.
 
@@ -20,6 +20,7 @@ Adds an item to the collection.
 
 
 ```python
+
 def add(self, data, shema_data):
     ...
 ```

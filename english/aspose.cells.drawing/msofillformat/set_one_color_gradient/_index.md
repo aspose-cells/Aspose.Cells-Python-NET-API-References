@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/msofillformat/set_one_color_gradient/
 is_root: false
 ---
 
-## set_one_color_gradient {#aspose.pydrawing.Color-float-aspose.cells.drawing.GradientStyleType-int}
+## set_one_color_gradient(self, color, degree, style, variant) {#aspose.pydrawing.Color-float-aspose.cells.drawing.GradientStyleType-int}
 
 Sets the specified fill to a one-color gradient.
 
 
 
 ```python
+
 def set_one_color_gradient(self, color, degree, style, variant):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.equations/naryequationnode/remove/
 is_root: false
 ---
 
-## remove {#}
+## remove(self) {#}
 
 Removes itself from the parent.
 
 
 
 ```python
+
 def remove(self):
     ...
 ```

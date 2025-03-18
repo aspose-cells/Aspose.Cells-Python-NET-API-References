@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/set_even_header/
 is_root: false
 ---
 
-## set_even_header {#int-str}
+## set_even_header(self, section, header_script) {#int-str}
 
 Sets a script formatting the even page header of an Excel file.
 Only effect in Excel 2007 when IsHFDiffOddEven is true.
@@ -16,6 +16,7 @@ Only effect in Excel 2007 when IsHFDiffOddEven is true.
 
 
 ```python
+
 def set_even_header(self, section, header_script):
     ...
 ```

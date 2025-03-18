@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottableformatcollection/add/
 is_root: false
 ---
 
-## add {#}
+## add(self) {#}
 
 Add a [`PivotTableFormat`](/cells/python-net/aspose.cells.pivot/pivottableformat).
 
@@ -20,6 +20,7 @@ The index of new format.
 
 
 ```python
+
 def add(self):
     ...
 ```

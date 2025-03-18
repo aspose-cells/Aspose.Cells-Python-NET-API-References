@@ -8,13 +8,14 @@ url: /aspose.cells/autofilter/remove_date_filter/
 is_root: false
 ---
 
-## remove_date_filter {#int-aspose.cells.DateTimeGroupingType-int-int-int-int-int-int}
+## remove_date_filter(self, field_index, date_time_grouping_type, year, month, day, hour, minute, second) {#int-aspose.cells.DateTimeGroupingType-int-int-int-int-int-int}
 
 Removes a date filter.
 
 
 
 ```python
+
 def remove_date_filter(self, field_index, date_time_grouping_type, year, month, day, hour, minute, second):
     ...
 ```

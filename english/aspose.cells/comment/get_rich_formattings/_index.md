@@ -8,7 +8,7 @@ url: /aspose.cells/comment/get_rich_formattings/
 is_root: false
 ---
 
-## get_rich_formattings {#}
+## get_rich_formattings(self) {#}
 
 Returns all Characters objects 
 that represents a range of characters within the comment text.
@@ -21,6 +21,7 @@ All Characters objects
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

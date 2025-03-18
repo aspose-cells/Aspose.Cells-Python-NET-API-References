@@ -25,28 +25,28 @@ The PivotTableCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Adds a new PivotTable. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Adds a new PivotTable. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Adds a new PivotTable. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Adds a new PivotTable. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool-bool) | Adds a new PivotTable. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool-bool) | Adds a new PivotTable. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-str-str) | Adds a new PivotTable based on another PivotTable. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Adds a new PivotTable based on another PivotTable. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-str-str) | Adds a new PivotTable Object to the collection with multiple consolidation ranges as data source. |
-| [add](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-int-int-str) | Adds a new PivotTable Object to the collection with multiple consolidation ranges as data source. |
-| [copy_to](/cells/python-net/aspose.cells.pivot/pivottablecollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
-| [copy_to](/cells/python-net/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
-| [index_of](/cells/python-net/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |
-| [index_of](/cells/python-net/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements. |
-| [last_index_of](/cells/python-net/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
-| [last_index_of](/cells/python-net/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
-| [last_index_of](/cells/python-net/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [remove_pivot_table](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_pivot_table/#aspose.cells.pivot.PivotTable) | Deletes the specified PivotTable and delete the PivotTable data |
-| [remove_pivot_table_data](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_pivot_table_data/#aspose.cells.pivot.PivotTable-bool) | Deletes the specified PivotTable |
-| [remove_by_index](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_by_index/#int) | Deletes the PivotTable at the specified index and delete the PivotTable data |
-| [remove_at](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Deletes the PivotTable at the specified index |
-| [binary_search](/cells/python-net/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.PivotTable) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
+| [`add(self, source_data, dest_cell_name, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Adds a new PivotTable. |
+| [`add(self, source_data, dest_cell_name, table_name, use_same_source)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Adds a new PivotTable. |
+| [`add(self, source_data, row, column, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Adds a new PivotTable. |
+| [`add(self, source_data, row, column, table_name, use_same_source)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Adds a new PivotTable. |
+| [`add(self, source_data, row, column, table_name, use_same_source, is_xls_classic)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool-bool) | Adds a new PivotTable. |
+| [`add(self, source_data, cell, table_name, use_same_source, is_xls_classic)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool-bool) | Adds a new PivotTable. |
+| [`add(self, pivot_table, dest_cell_name, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.pivottable-str-str) | Adds a new PivotTable based on another PivotTable. |
+| [`add(self, pivot_table, row, column, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Adds a new PivotTable based on another PivotTable. |
+| [`add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.pivotpagefields-str-str) | Adds a new PivotTable Object to the collection with multiple consolidation ranges as data source. |
+| [`add(self, source_data, is_auto_page, page_fields, row, column, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.pivotpagefields-int-int-str) | Adds a new PivotTable Object to the collection with multiple consolidation ranges as data source. |
+| [`copy_to(self, array)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
+| [`index_of(self, item, index)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.pivottable-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |
+| [`index_of(self, item, index, count)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.pivottable-int-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements. |
+| [`last_index_of(self, item)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
+| [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
+| [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [`remove_pivot_table(self, pivot_table)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_pivot_table/#aspose.cells.pivot.pivottable) | Deletes the specified PivotTable and delete the PivotTable data |
+| [`remove_pivot_table_data(self, pivot_table, keep_data)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_pivot_table_data/#aspose.cells.pivot.pivottable-bool) | Deletes the specified PivotTable |
+| [`remove_by_index(self, index)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_by_index/#int) | Deletes the PivotTable at the specified index and delete the PivotTable data |
+| [`remove_at(self, index, keep_data)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Deletes the PivotTable at the specified index |
+| [`binary_search(self, item)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.pivottable) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 
 

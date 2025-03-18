@@ -8,13 +8,14 @@ url: /aspose.cells/range/merge/
 is_root: false
 ---
 
-## merge {#}
+## merge(self) {#}
 
 Combines a range of cells into a single cell.
 
 
 
 ```python
+
 def merge(self):
     ...
 ```

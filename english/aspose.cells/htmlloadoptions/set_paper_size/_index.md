@@ -8,13 +8,14 @@ url: /aspose.cells/htmlloadoptions/set_paper_size/
 is_root: false
 ---
 
-## set_paper_size {#aspose.cells.PaperSizeType}
+## set_paper_size(self, type) {#aspose.cells.PaperSizeType}
 
 Sets the default print paper size from default printer's setting.
 
 
 
 ```python
+
 def set_paper_size(self, type):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdataprovider/is_gather_string/
 is_root: false
 ---
 
-## is_gather_string {#}
+## is_gather_string(self) {#}
 
 Checks whether the current string value of cell needs to be gathered into a global pool.
 
@@ -20,6 +20,7 @@ true if string value need to be gathered into a global pool for the resultant fi
 
 
 ```python
+
 def is_gather_string(self):
     ...
 ```

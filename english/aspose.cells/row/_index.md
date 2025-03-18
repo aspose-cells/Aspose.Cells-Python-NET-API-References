@@ -3,7 +3,7 @@ title: Row class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1390
+weight: 1400
 url: /aspose.cells/row/
 is_root: false
 ---
@@ -44,14 +44,14 @@ Gets the cell.
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_cell_by_index](/cells/python-net/aspose.cells/row/get_cell_by_index/#int) | Get the cell by specific index in the cells collection of this row. |
-| [get_enumerator](/cells/python-net/aspose.cells/row/get_enumerator/#bool-bool) | Gets an enumerator that iterates cells through this row. |
-| [get_cell_or_null](/cells/python-net/aspose.cells/row/get_cell_or_null/#int) | Gets the cell or null in the specific index. |
-| [get_style](/cells/python-net/aspose.cells/row/get_style/#) | Gets the style of this row. |
-| [set_style](/cells/python-net/aspose.cells/row/set_style/#aspose.cells.Style) | Sets the style of this row. |
-| [copy_settings](/cells/python-net/aspose.cells/row/copy_settings/#aspose.cells.Row-bool) | Copy settings of row, such as style, height, visibility, ...etc. |
-| [apply_style](/cells/python-net/aspose.cells/row/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Applies formats for a whole row. |
-| [equals](/cells/python-net/aspose.cells/row/equals/#aspose.cells.Row) | Checks whether this object refers to the same row with another row object. |
+| [`get_cell_by_index(self, index)`](/cells/python-net/aspose.cells/row/get_cell_by_index/#int) | Get the cell by specific index in the cells collection of this row. |
+| [`get_enumerator(self, reversed, sync)`](/cells/python-net/aspose.cells/row/get_enumerator/#bool-bool) | Gets an enumerator that iterates cells through this row. |
+| [`get_cell_or_null(self, column)`](/cells/python-net/aspose.cells/row/get_cell_or_null/#int) | Gets the cell or null in the specific index. |
+| [`get_style(self)`](/cells/python-net/aspose.cells/row/get_style/#) | Gets the style of this row. |
+| [`set_style(self, style)`](/cells/python-net/aspose.cells/row/set_style/#aspose.cells.style) | Sets the style of this row. |
+| [`copy_settings(self, source, check_style)`](/cells/python-net/aspose.cells/row/copy_settings/#aspose.cells.row-bool) | Copy settings of row, such as style, height, visibility, ...etc. |
+| [`apply_style(self, style, flag)`](/cells/python-net/aspose.cells/row/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Applies formats for a whole row. |
+| [`equals(self, row)`](/cells/python-net/aspose.cells/row/equals/#aspose.cells.row) | Checks whether this object refers to the same row with another row object. |
 
 
 

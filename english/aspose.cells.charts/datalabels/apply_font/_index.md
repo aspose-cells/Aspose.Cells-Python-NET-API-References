@@ -8,13 +8,14 @@ url: /aspose.cells.charts/datalabels/apply_font/
 is_root: false
 ---
 
-## apply_font {#}
+## apply_font(self) {#}
 
 Apply the font of the datalabels to all child nodes.
 
 
 
 ```python
+
 def apply_font(self):
     ...
 ```

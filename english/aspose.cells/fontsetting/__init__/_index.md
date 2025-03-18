@@ -8,13 +8,14 @@ url: /aspose.cells/fontsetting/__init__/
 is_root: false
 ---
 
-## __init__ {#int-int-aspose.cells.WorksheetCollection}
+## \_\_init\_\_(self, start_index, length, sheets) {#int-int-aspose.cells.WorksheetCollection}
 
 
 
 
 
 ```python
+
 def __init__(self, start_index, length, sheets):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/ungroup/
 is_root: false
 ---
 
-## ungroup {#}
+## ungroup(self) {#}
 
 Ungroup the pivot field.
 
 
 
 ```python
+
 def ungroup(self):
     ...
 ```

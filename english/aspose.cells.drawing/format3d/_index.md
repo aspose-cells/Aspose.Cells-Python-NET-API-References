@@ -28,7 +28,7 @@ The Format3D type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [has_top_bevel_data](/cells/python-net/aspose.cells.drawing/format3d/has_top_bevel_data/#) | Indicates if the shape has top bevel data. |
+| [`has_top_bevel_data(self)`](/cells/python-net/aspose.cells.drawing/format3d/has_top_bevel_data/#) | Indicates if the shape has top bevel data. |
 
 
 

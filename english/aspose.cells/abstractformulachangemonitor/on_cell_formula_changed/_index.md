@@ -8,13 +8,14 @@ url: /aspose.cells/abstractformulachangemonitor/on_cell_formula_changed/
 is_root: false
 ---
 
-## on_cell_formula_changed {#int-int-int}
+## on_cell_formula_changed(self, sheet_index, row_index, column_index) {#int-int-int}
 
 The event that will be triggered when the formula in a cell is changed.
 
 
 
 ```python
+
 def on_cell_formula_changed(self, sheet_index, row_index, column_index):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/cell/set_formula/
 is_root: false
 ---
 
-## set_formula {#str-any}
+## set_formula(self, formula, value) {#str-any}
 
 Set the formula and the value(calculated result) of the formula.
 
 
 
 ```python
+
 def set_formula(self, formula, value):
     ...
 ```
@@ -26,13 +27,14 @@ def set_formula(self, formula, value):
 | value | any | The value(calculated result) of the formula. |
 
 
-## set_formula {#str-aspose.cells.FormulaParseOptions}
+## set_formula(self, formula, options) {#str-aspose.cells.FormulaParseOptions}
 
 Set the formula and the value(calculated result) of the formula.
 
 
 
 ```python
+
 def set_formula(self, formula, options):
     ...
 ```
@@ -44,13 +46,14 @@ def set_formula(self, formula, options):
 | options | [`FormulaParseOptions`](/cells/python-net/aspose.cells/formulaparseoptions) | Options for parsing the formula. |
 
 
-## set_formula {#str-aspose.cells.FormulaParseOptions-any}
+## set_formula(self, formula, options, value) {#str-aspose.cells.FormulaParseOptions-any}
 
 Set the formula and the value(calculated result) of the formula.
 
 
 
 ```python
+
 def set_formula(self, formula, options, value):
     ...
 ```
@@ -63,13 +66,14 @@ def set_formula(self, formula, options, value):
 | value | any | The value(calculated result) of the formula. |
 
 
-## set_formula {#str-bool-bool-any}
+## set_formula(self, formula, is_r1c1, is_local, value) {#str-bool-bool-any}
 
 Set the formula and the value of the formula.
 
 
 
 ```python
+
 def set_formula(self, formula, is_r1c1, is_local, value):
     ...
 ```

@@ -3,7 +3,7 @@ title: text_direction property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 530
 url: /aspose.cells.charts/datalabels/text_direction/
 is_root: false
 ---

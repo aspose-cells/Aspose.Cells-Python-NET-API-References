@@ -3,7 +3,7 @@ title: XmlSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1860
+weight: 1870
 url: /aspose.cells/xmlsaveoptions/
 is_root: false
 ---
@@ -24,7 +24,7 @@ The XmlSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/xmlsaveoptions/__init__/#) | Creates options for saving xml file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/xmlsaveoptions/__init__/#) | Creates options for saving xml file. |
 
 
 ### Properties

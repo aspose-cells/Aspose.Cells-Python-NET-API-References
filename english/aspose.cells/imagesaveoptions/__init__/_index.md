@@ -8,13 +8,14 @@ url: /aspose.cells/imagesaveoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Creates the options for saving image file.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -24,13 +25,14 @@ def __init__(self):
 
 The default type is Tiff.
 
-## __init__ {#aspose.cells.SaveFormat}
+## \_\_init\_\_(self, save_format) {#aspose.cells.SaveFormat}
 
 Creates the options for saving image file.
 
 
 
 ```python
+
 def __init__(self, save_format):
     ...
 ```

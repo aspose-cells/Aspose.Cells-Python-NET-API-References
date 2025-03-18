@@ -8,13 +8,14 @@ url: /aspose.cells/pdfsaveoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Creates the options for saving pdf file.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

@@ -33,7 +33,7 @@ Gets the [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textpara
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_enumerator](/cells/python-net/aspose.cells.drawing.texts/textparagraphcollection/get_enumerator/#) | Gets the enumerator of the paragraphs. |
+| [`get_enumerator(self)`](/cells/python-net/aspose.cells.drawing.texts/textparagraphcollection/get_enumerator/#) | Gets the enumerator of the paragraphs. |
 
 
 

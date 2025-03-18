@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapecollection/delete_shape/
 is_root: false
 ---
 
-## delete_shape {#aspose.cells.drawing.Shape}
+## delete_shape(self, shape) {#aspose.cells.drawing.Shape}
 
 Delete a shape. If the shape is in the group or is a comment shape, it will not be deleted.
 
 
 
 ```python
+
 def delete_shape(self, shape):
     ...
 ```

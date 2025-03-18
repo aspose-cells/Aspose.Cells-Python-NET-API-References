@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
 
-## to_image {#io.RawIOBase}
+## to_image(self, stream) {#io.RawIOBase}
 
 Render whole workbook as Tiff Image to stream.
 
 
 
 ```python
+
 def to_image(self, stream):
     ...
 ```
@@ -25,13 +26,14 @@ def to_image(self, stream):
 | stream | io.RawIOBase | the stream of the output image |
 
 
-## to_image {#str}
+## to_image(self, filename) {#str}
 
 Render whole workbook as Tiff Image to a file.
 
 
 
 ```python
+
 def to_image(self, filename):
     ...
 ```
@@ -42,13 +44,14 @@ def to_image(self, filename):
 | filename | str | the filename of the output image |
 
 
-## to_image {#int-str}
+## to_image(self, page_index, file_name) {#int-str}
 
 Render certain page to a file.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -60,13 +63,14 @@ def to_image(self, page_index, file_name):
 | file_name | str | filename of the output image |
 
 
-## to_image {#int-io.RawIOBase}
+## to_image(self, page_index, stream) {#int-io.RawIOBase}
 
 Render certain page to a stream.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```

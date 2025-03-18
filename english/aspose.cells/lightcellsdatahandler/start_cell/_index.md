@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdatahandler/start_cell/
 is_root: false
 ---
 
-## start_cell {#int}
+## start_cell(self, column_index) {#int}
 
 Prepares to process a cell.
 
@@ -20,6 +20,7 @@ whether this cell needs to be processed. false to ignore the cell and check the 
 
 
 ```python
+
 def start_cell(self, column_index):
     ...
 ```

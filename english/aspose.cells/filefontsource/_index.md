@@ -24,7 +24,7 @@ The FileFontSource type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/filefontsource/__init__/#str) | Ctor. |
+| [`__init__(self, file_path)`](/cells/python-net/aspose.cells/filefontsource/__init__/#str) | Ctor. |
 
 
 ### Properties

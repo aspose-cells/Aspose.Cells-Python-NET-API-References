@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotareacollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.pivot.PivotArea}
+## add(self, pivot_area) {#aspose.cells.pivot.PivotArea}
 
 Adds pivot area.
 
@@ -20,6 +20,7 @@ Adds pivot area.
 
 
 ```python
+
 def add(self, pivot_area):
     ...
 ```
@@ -30,13 +31,14 @@ def add(self, pivot_area):
 | pivot_area | [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) | The pivot area. |
 
 
-## add {#aspose.cells.CellArea}
+## add(self, cell_area) {#aspose.cells.CellArea}
 
 Adds an area based on pivot table view.
 
 
 
 ```python
+
 def add(self, cell_area):
     ...
 ```

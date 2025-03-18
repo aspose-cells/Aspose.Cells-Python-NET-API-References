@@ -8,7 +8,7 @@ url: /aspose.cells/cells/create_range/
 is_root: false
 ---
 
-## create_range {#str}
+## create_range(self, address) {#str}
 
 Creates a [`Range`](/cells/python-net/aspose.cells/range) object from an address of the range.
 
@@ -20,6 +20,7 @@ A [`Range`](/cells/python-net/aspose.cells/range) object
 
 
 ```python
+
 def create_range(self, address):
     ...
 ```
@@ -30,7 +31,7 @@ def create_range(self, address):
 | address | str | The address of the range. |
 
 
-## create_range {#str-str}
+## create_range(self, upper_left_cell, lower_right_cell) {#str-str}
 
 Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells.
 
@@ -42,6 +43,7 @@ A [`Range`](/cells/python-net/aspose.cells/range) object
 
 
 ```python
+
 def create_range(self, upper_left_cell, lower_right_cell):
     ...
 ```
@@ -53,7 +55,7 @@ def create_range(self, upper_left_cell, lower_right_cell):
 | lower_right_cell | str | Lower right cell name. |
 
 
-## create_range {#int-int-bool}
+## create_range(self, first_index, number, is_vertical) {#int-int-bool}
 
 Creates a [`Range`](/cells/python-net/aspose.cells/range) object from rows of cells or columns of cells.
 
@@ -65,6 +67,7 @@ A [`Range`](/cells/python-net/aspose.cells/range) object.
 
 
 ```python
+
 def create_range(self, first_index, number, is_vertical):
     ...
 ```
@@ -77,7 +80,7 @@ def create_range(self, first_index, number, is_vertical):
 | is_vertical | bool | True - Range created from columns of cells. False - Range created from rows of cells. |
 
 
-## create_range {#int-int-int-int}
+## create_range(self, first_row, first_column, total_rows, total_columns) {#int-int-int-int}
 
 Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells.
 
@@ -89,6 +92,7 @@ A [`Range`](/cells/python-net/aspose.cells/range) object
 
 
 ```python
+
 def create_range(self, first_row, first_column, total_rows, total_columns):
     ...
 ```

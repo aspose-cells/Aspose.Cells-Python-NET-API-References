@@ -8,13 +8,14 @@ url: /aspose.cells/settablechartglobalizationsettings/set_chart_title_name/
 is_root: false
 ---
 
-## set_chart_title_name {#str}
+## set_chart_title_name(self, name) {#str}
 
 Sets the name of Chart Title.
 
 
 
 ```python
+
 def set_chart_title_name(self, name):
     ...
 ```

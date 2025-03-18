@@ -8,13 +8,14 @@ url: /aspose.cells/cell/get_dependents/
 is_root: false
 ---
 
-## get_dependents {#bool}
+## get_dependents(self, is_all) {#bool}
 
 Get all cells whose formula references to this cell directly.
 
 
 
 ```python
+
 def get_dependents(self, is_all):
     ...
 ```

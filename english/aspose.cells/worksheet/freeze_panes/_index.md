@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/freeze_panes/
 is_root: false
 ---
 
-## freeze_panes {#str-int-int}
+## freeze_panes(self, cell_name, freezed_rows, freezed_columns) {#str-int-int}
 
 Freezes panes at the specified cell in the worksheet.
 
 
 
 ```python
+
 def freeze_panes(self, cell_name, freezed_rows, freezed_columns):
     ...
 ```
@@ -30,13 +31,14 @@ def freeze_panes(self, cell_name, freezed_rows, freezed_columns):
 Row index and column index cannot all be zero. Number of rows and number of columns
 also cannot all be zero.
 
-## freeze_panes {#int-int-int-int}
+## freeze_panes(self, row, column, freezed_rows, freezed_columns) {#int-int-int-int}
 
 Freezes panes at the specified cell in the worksheet.
 
 
 
 ```python
+
 def freeze_panes(self, row, column, freezed_rows, freezed_columns):
     ...
 ```

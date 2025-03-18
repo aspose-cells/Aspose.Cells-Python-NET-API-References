@@ -8,13 +8,14 @@ url: /aspose.cells/fontsetting/set_word_art_style/
 is_root: false
 ---
 
-## set_word_art_style {#aspose.cells.drawing.PresetWordArtStyle}
+## set_word_art_style(self, style) {#aspose.cells.drawing.PresetWordArtStyle}
 
 Sets the preset WordArt style.
 
 
 
 ```python
+
 def set_word_art_style(self, style):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/range/set_inside_borders/
 is_root: false
 ---
 
-## set_inside_borders {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
+## set_inside_borders(self, border_edge, line_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
 
 Set inside borders of the range.
 
 
 
 ```python
+
 def set_inside_borders(self, border_edge, line_style, border_color):
     ...
 ```

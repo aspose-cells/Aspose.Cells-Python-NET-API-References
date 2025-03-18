@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/set_header_picture/
 is_root: false
 ---
 
-## set_header_picture {#int-bytes}
+## set_header_picture(self, section, header_picture) {#int-bytes}
 
 Sets an image in the header of a worksheet.
 
@@ -20,6 +20,7 @@ Returns [`Picture`](/cells/python-net/aspose.cells.drawing/picture) object.
 
 
 ```python
+
 def set_header_picture(self, section, header_picture):
     ...
 ```

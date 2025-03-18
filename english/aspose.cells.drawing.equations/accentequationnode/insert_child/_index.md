@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.equations/accentequationnode/insert_child/
 is_root: false
 ---
 
-## insert_child {#int-aspose.cells.drawing.equations.EquationNodeType}
+## insert_child(self, index, equation_type) {#int-aspose.cells.drawing.equations.EquationNodeType}
 
 Inserts a node of the specified type at the specified index position in the current node's child node list.
 
@@ -20,6 +20,7 @@ If the specified type exists, the corresponding node is returned, and if the typ
 
 
 ```python
+
 def insert_child(self, index, equation_type):
     ...
 ```

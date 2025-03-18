@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/renderingfont/__init__/
 is_root: false
 ---
 
-## __init__ {#str-float}
+## \_\_init\_\_(self, font_name, font_size) {#str-float}
 
 Initializes a new instance of the [`RenderingFont`](/cells/python-net/aspose.cells.rendering/renderingfont)
 
 
 
 ```python
+
 def __init__(self, font_name, font_size):
     ...
 ```

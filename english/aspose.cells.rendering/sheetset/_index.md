@@ -19,8 +19,8 @@ The SheetSet type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.rendering/sheetset/__init__/#list) | Creates a sheet set based on exact sheet indexes. |
-| [__init__](/cells/python-net/aspose.cells.rendering/sheetset/__init__/#list) | Creates a sheet set based on exact sheet names. |
+| [`__init__(self, sheet_indexes)`](/cells/python-net/aspose.cells.rendering/sheetset/__init__/#list) | Creates a sheet set based on exact sheet indexes. |
+| [`__init__(self, sheet_names)`](/cells/python-net/aspose.cells.rendering/sheetset/__init__/#list) | Creates a sheet set based on exact sheet names. |
 
 
 ### Properties

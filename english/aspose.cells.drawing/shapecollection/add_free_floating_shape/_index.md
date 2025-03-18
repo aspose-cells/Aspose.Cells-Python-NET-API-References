@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_free_floating_shape/
 is_root: false
 ---
 
-## add_free_floating_shape {#aspose.cells.drawing.MsoDrawingType-int-int-int-int-bytes-bool}
+## add_free_floating_shape(self, type, top, left, height, width, image_data, is_original_size) {#aspose.cells.drawing.MsoDrawingType-int-int-int-int-bytes-bool}
 
 Adds a free floating shape to the worksheet.Only applies for line/image shape.
 
@@ -20,6 +20,7 @@ Adds a free floating shape to the worksheet.Only applies for line/image shape.
 
 
 ```python
+
 def add_free_floating_shape(self, type, top, left, height, width, image_data, is_original_size):
     ...
 ```

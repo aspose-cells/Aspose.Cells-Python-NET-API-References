@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotitem/get_string_value/
 is_root: false
 ---
 
-## get_string_value {#}
+## get_string_value(self) {#}
 
 Gets the string value of the pivot item
 If the value is null, it will return ""
@@ -16,6 +16,7 @@ If the value is null, it will return ""
 
 
 ```python
+
 def get_string_value(self):
     ...
 ```

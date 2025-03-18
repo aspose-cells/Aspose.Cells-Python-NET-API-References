@@ -19,7 +19,7 @@ The WorkbookPrintingPreview type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.rendering/workbookprintingpreview/__init__/#aspose.cells.Workbook-aspose.cells.rendering.ImageOrPrintOptions) | The construct of WorkbookPrintingPreview |
+| [`__init__(self, workbook, options)`](/cells/python-net/aspose.cells.rendering/workbookprintingpreview/__init__/#aspose.cells.workbook-aspose.cells.rendering.imageorprintoptions) | The construct of WorkbookPrintingPreview |
 
 
 ### Properties

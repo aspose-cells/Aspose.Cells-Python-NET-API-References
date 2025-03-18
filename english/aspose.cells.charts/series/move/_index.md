@@ -8,13 +8,14 @@ url: /aspose.cells.charts/series/move/
 is_root: false
 ---
 
-## move {#int}
+## move(self, count) {#int}
 
 Moves the series up or down.
 
 
 
 ```python
+
 def move(self, count):
     ...
 ```

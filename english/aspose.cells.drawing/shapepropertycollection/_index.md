@@ -28,12 +28,12 @@ The ShapePropertyCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [clear_glow_effect](/cells/python-net/aspose.cells.drawing/shapepropertycollection/clear_glow_effect/#) | Clears the glow effect of the shape. |
-| [has_glow_effect](/cells/python-net/aspose.cells.drawing/shapepropertycollection/has_glow_effect/#) | Indicates if the shape has glow effect data. |
-| [has_format_3d](/cells/python-net/aspose.cells.drawing/shapepropertycollection/has_format_3d/#) | Indicates if the shape has 3d format data. |
-| [clear_format_3d](/cells/python-net/aspose.cells.drawing/shapepropertycollection/clear_format_3d/#) | Clears the 3D shape properties of the shape. |
-| [clear_shadow_effect](/cells/python-net/aspose.cells.drawing/shapepropertycollection/clear_shadow_effect/#) | Clears the shadow effect of the chart element or shape. |
-| [has_shadow_effect](/cells/python-net/aspose.cells.drawing/shapepropertycollection/has_shadow_effect/#) | Indicates if the shape has shadow effect data. |
+| [`clear_glow_effect(self)`](/cells/python-net/aspose.cells.drawing/shapepropertycollection/clear_glow_effect/#) | Clears the glow effect of the shape. |
+| [`has_glow_effect(self)`](/cells/python-net/aspose.cells.drawing/shapepropertycollection/has_glow_effect/#) | Indicates if the shape has glow effect data. |
+| [`has_format_3d(self)`](/cells/python-net/aspose.cells.drawing/shapepropertycollection/has_format_3d/#) | Indicates if the shape has 3d format data. |
+| [`clear_format_3d(self)`](/cells/python-net/aspose.cells.drawing/shapepropertycollection/clear_format_3d/#) | Clears the 3D shape properties of the shape. |
+| [`clear_shadow_effect(self)`](/cells/python-net/aspose.cells.drawing/shapepropertycollection/clear_shadow_effect/#) | Clears the shadow effect of the chart element or shape. |
+| [`has_shadow_effect(self)`](/cells/python-net/aspose.cells.drawing/shapepropertycollection/has_shadow_effect/#) | Indicates if the shape has shadow effect data. |
 
 
 

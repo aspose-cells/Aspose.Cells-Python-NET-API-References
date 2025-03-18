@@ -12,6 +12,10 @@ is_root: false
 
 
 Gets or set the end column of this area.
+### Definition:
+```python
+f end_column 
+```
 
 ### See Also
 * module [`aspose.cells`](../../)

@@ -8,13 +8,14 @@ url: /aspose.cells/license/set_license/
 is_root: false
 ---
 
-## set_license {#str}
+## set_license(self, license_name) {#str}
 
 Licenses the component.
 
 
 
 ```python
+
 def set_license(self, license_name):
     ...
 ```
@@ -71,13 +72,14 @@ Can be a full or short file name or name of an embedded resource.
 Use an empty string to switch to evaluation mode.
 
 
-## set_license {#io.RawIOBase}
+## set_license(self, stream) {#io.RawIOBase}
 
 Licenses the component.
 
 
 
 ```python
+
 def set_license(self, stream):
     ...
 ```

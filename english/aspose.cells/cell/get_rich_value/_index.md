@@ -8,13 +8,14 @@ url: /aspose.cells/cell/get_rich_value/
 is_root: false
 ---
 
-## get_rich_value {#}
+## get_rich_value(self) {#}
 
 Gets rich value of the cell.
 
 
 
 ```python
+
 def get_rich_value(self):
     ...
 ```

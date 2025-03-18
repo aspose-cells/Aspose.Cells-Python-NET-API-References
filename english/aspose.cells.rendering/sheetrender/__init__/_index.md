@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/sheetrender/__init__/
 is_root: false
 ---
 
-## __init__ {#aspose.cells.Worksheet-aspose.cells.rendering.ImageOrPrintOptions}
+## \_\_init\_\_(self, worksheet, options) {#aspose.cells.Worksheet-aspose.cells.rendering.ImageOrPrintOptions}
 
 the construct of SheetRender, need worksheet and ImageOrPrintOptions as params
 
 
 
 ```python
+
 def __init__(self, worksheet, options):
     ...
 ```

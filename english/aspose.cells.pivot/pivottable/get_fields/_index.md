@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/get_fields/
 is_root: false
 ---
 
-## get_fields {#aspose.cells.pivot.PivotFieldType}
+## get_fields(self, field_type) {#aspose.cells.pivot.PivotFieldType}
 
 Gets the specific pivot field list by the region.
 
@@ -20,6 +20,7 @@ the specific pivot field collection
 
 
 ```python
+
 def get_fields(self, field_type):
     ...
 ```

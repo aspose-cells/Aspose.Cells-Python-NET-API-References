@@ -8,13 +8,14 @@ url: /aspose.cells/autofilter/filter/
 is_root: false
 ---
 
-## filter {#int-str}
+## filter(self, field_index, criteria) {#int-str}
 
 Filters a list with specified criteria.
 
 
 
 ```python
+
 def filter(self, field_index, criteria):
     ...
 ```

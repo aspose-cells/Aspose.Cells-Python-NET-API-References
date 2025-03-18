@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfiltercollection/add_label_filter/
 is_root: false
 ---
 
-## add_label_filter {#int-aspose.cells.pivot.PivotFilterType-str-str}
+## add_label_filter(self, base_field_index, type, label1, label2) {#int-aspose.cells.pivot.PivotFilterType-str-str}
 
 Filters by captions of row or column pivot field.
 
 
 
 ```python
+
 def add_label_filter(self, base_field_index, type, label1, label2):
     ...
 ```

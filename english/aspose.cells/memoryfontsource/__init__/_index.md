@@ -8,13 +8,14 @@ url: /aspose.cells/memoryfontsource/__init__/
 is_root: false
 ---
 
-## __init__ {#bytes}
+## \_\_init\_\_(self, font_data) {#bytes}
 
 Ctor.
 
 
 
 ```python
+
 def __init__(self, font_data):
     ...
 ```

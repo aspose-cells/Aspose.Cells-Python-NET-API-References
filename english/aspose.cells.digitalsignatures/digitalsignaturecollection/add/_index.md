@@ -8,13 +8,14 @@ url: /aspose.cells.digitalsignatures/digitalsignaturecollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.digitalsignatures.DigitalSignature}
+## add(self, digital_signature) {#aspose.cells.digitalsignatures.DigitalSignature}
 
 Add one signature to DigitalSignatureCollection.
 
 
 
 ```python
+
 def add(self, digital_signature):
     ...
 ```

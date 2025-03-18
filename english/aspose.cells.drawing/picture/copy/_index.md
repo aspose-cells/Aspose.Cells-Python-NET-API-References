@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/picture/copy/
 is_root: false
 ---
 
-## copy {#aspose.cells.drawing.Picture-aspose.cells.CopyOptions}
+## copy(self, source, options) {#aspose.cells.drawing.Picture-aspose.cells.CopyOptions}
 
 Copy the picture.
 
 
 
 ```python
+
 def copy(self, source, options):
     ...
 ```

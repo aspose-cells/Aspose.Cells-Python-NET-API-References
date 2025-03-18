@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/filter_by_label/
 is_root: false
 ---
 
-## filter_by_label {#aspose.cells.pivot.PivotFilterType-str-str}
+## filter_by_label(self, type, label1, label2) {#aspose.cells.pivot.PivotFilterType-str-str}
 
 Filters by captions of row or column pivot field.
 
 
 
 ```python
+
 def filter_by_label(self, type, label1, label2):
     ...
 ```

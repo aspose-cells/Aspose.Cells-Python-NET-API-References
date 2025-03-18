@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/show_in_outline_form/
 is_root: false
 ---
 
-## show_in_outline_form {#}
+## show_in_outline_form(self) {#}
 
 Layouts the PivotTable in outline form.
 
 
 
 ```python
+
 def show_in_outline_form(self):
     ...
 ```

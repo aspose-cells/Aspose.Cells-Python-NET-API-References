@@ -8,13 +8,14 @@ url: /aspose.cells/cell/replace/
 is_root: false
 ---
 
-## replace {#str-str-aspose.cells.ReplaceOptions}
+## replace(self, place_holder, new_value, options) {#str-str-aspose.cells.ReplaceOptions}
 
 Replace text of the cell with options.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value, options):
     ...
 ```

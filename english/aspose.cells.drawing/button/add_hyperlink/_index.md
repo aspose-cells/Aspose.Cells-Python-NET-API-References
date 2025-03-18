@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/button/add_hyperlink/
 is_root: false
 ---
 
-## add_hyperlink {#str}
+## add_hyperlink(self, address) {#str}
 
 Adds a hyperlink to the shape.
 
@@ -20,6 +20,7 @@ Return the new hyperlink object.
 
 
 ```python
+
 def add_hyperlink(self, address):
     ...
 ```

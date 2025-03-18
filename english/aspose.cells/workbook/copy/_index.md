@@ -3,18 +3,19 @@ title: copy method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells/workbook/copy/
 is_root: false
 ---
 
-## copy {#aspose.cells.Workbook}
+## copy(self, source) {#aspose.cells.Workbook}
 
 Copies data from a source Workbook object.
 
 
 
 ```python
+
 def copy(self, source):
     ...
 ```
@@ -25,13 +26,14 @@ def copy(self, source):
 | source | [`Workbook`](/cells/python-net/aspose.cells/workbook) | Source Workbook object. |
 
 
-## copy {#aspose.cells.Workbook-aspose.cells.CopyOptions}
+## copy(self, source, copy_options) {#aspose.cells.Workbook-aspose.cells.CopyOptions}
 
 Copies another Workbook object.
 
 
 
 ```python
+
 def copy(self, source, copy_options):
     ...
 ```

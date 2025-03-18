@@ -35,11 +35,11 @@ The PivotItem type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [move](/cells/python-net/aspose.cells.pivot/pivotitem/move/#int-bool) | Moves the item up or down |
-| [get_formula](/cells/python-net/aspose.cells.pivot/pivotitem/get_formula/#) | Gets the formula of this calculated item.<br/>Only works when this item is calculated item. |
-| [get_string_value](/cells/python-net/aspose.cells.pivot/pivotitem/get_string_value/#) | Gets the string value of the pivot item<br/>If the value is null, it will return "" |
-| [get_double_value](/cells/python-net/aspose.cells.pivot/pivotitem/get_double_value/#) | Gets the double value of the pivot item<br/>If the value is null or not number ,it will return 0 |
-| [get_date_time_value](/cells/python-net/aspose.cells.pivot/pivotitem/get_date_time_value/#) | Gets the date time value of the pivot item<br/>If the value is null ,it will return DateTime.MinValue |
+| [`move(self, count, is_same_parent)`](/cells/python-net/aspose.cells.pivot/pivotitem/move/#int-bool) | Moves the item up or down |
+| [`get_formula(self)`](/cells/python-net/aspose.cells.pivot/pivotitem/get_formula/#) | Gets the formula of this calculated item.<br/>Only works when this item is calculated item. |
+| [`get_string_value(self)`](/cells/python-net/aspose.cells.pivot/pivotitem/get_string_value/#) | Gets the string value of the pivot item<br/>If the value is null, it will return "" |
+| [`get_double_value(self)`](/cells/python-net/aspose.cells.pivot/pivotitem/get_double_value/#) | Gets the double value of the pivot item<br/>If the value is null or not number ,it will return 0 |
+| [`get_date_time_value(self)`](/cells/python-net/aspose.cells.pivot/pivotitem/get_date_time_value/#) | Gets the date time value of the pivot item<br/>If the value is null ,it will return DateTime.MinValue |
 
 
 

@@ -8,13 +8,14 @@ url: /aspose.cells/cells/delete_rows/
 is_root: false
 ---
 
-## delete_rows {#int-int}
+## delete_rows(self, row_index, total_rows) {#int-int}
 
 Deletes multiple rows.
 
 
 
 ```python
+
 def delete_rows(self, row_index, total_rows):
     ...
 ```
@@ -30,7 +31,7 @@ If the deleted range contains the top part(not whole) of the table(ListObject),
 the ranged could not be deleted and nothing will be done.
 It works in the same way with MS Excel.
 
-## delete_rows {#int-int-bool}
+## delete_rows(self, row_index, total_rows, update_reference) {#int-int-bool}
 
 Deletes multiple rows in the worksheet.
 
@@ -42,6 +43,7 @@ Deletes multiple rows in the worksheet.
 
 
 ```python
+
 def delete_rows(self, row_index, total_rows, update_reference):
     ...
 ```
@@ -54,7 +56,7 @@ def delete_rows(self, row_index, total_rows, update_reference):
 | update_reference | bool | Indicates whether update references in other worksheets. |
 
 
-## delete_rows {#int-int-aspose.cells.DeleteOptions}
+## delete_rows(self, row_index, total_rows, options) {#int-int-aspose.cells.DeleteOptions}
 
 Deletes multiple rows in the worksheet.
 
@@ -66,6 +68,7 @@ Deletes multiple rows in the worksheet.
 
 
 ```python
+
 def delete_rows(self, row_index, total_rows, options):
     ...
 ```

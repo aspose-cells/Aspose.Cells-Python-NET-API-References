@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets a set with active sheet of the workbook.
+### Definition:
+```python
+@property
+def active(self):
+    ...
+```
 
 ### See Also
 * module [`aspose.cells.rendering`](../../)

@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottablerefreshoption/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Represents the options of refreshing data source of the pivot table.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

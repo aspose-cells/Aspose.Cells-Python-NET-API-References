@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/remove_split/
 is_root: false
 ---
 
-## remove_split {#}
+## remove_split(self) {#}
 
 Removes split window.
 
 
 
 ```python
+
 def remove_split(self):
     ...
 ```

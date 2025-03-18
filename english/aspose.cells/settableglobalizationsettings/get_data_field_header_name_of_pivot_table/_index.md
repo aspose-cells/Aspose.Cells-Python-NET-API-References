@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/get_data_field_header_name_of_p
 is_root: false
 ---
 
-## get_data_field_header_name_of_pivot_table {#}
+## get_data_field_header_name_of_pivot_table(self) {#}
 
 Gets the the name of the value area field header in the PivotTable.
 
@@ -20,6 +20,7 @@ The name of data field header name
 
 
 ```python
+
 def get_data_field_header_name_of_pivot_table(self):
     ...
 ```

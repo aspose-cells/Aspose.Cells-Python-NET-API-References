@@ -8,13 +8,14 @@ url: /aspose.cells/settableglobalizationsettings/set_table_row_type_of_all/
 is_root: false
 ---
 
-## set_table_row_type_of_all {#str}
+## set_table_row_type_of_all(self, name) {#str}
 
 Sets the type name of table rows that consists of all rows in referenced table.
 
 
 
 ```python
+
 def set_table_row_type_of_all(self, name):
     ...
 ```

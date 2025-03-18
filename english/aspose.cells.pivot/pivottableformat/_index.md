@@ -25,8 +25,8 @@ The PivotTableFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_style](/cells/python-net/aspose.cells.pivot/pivottableformat/get_style/#) | Gets the formatted style. |
-| [set_style](/cells/python-net/aspose.cells.pivot/pivottableformat/set_style/#aspose.cells.Style) | Sets the style of the pivot area. |
+| [`get_style(self)`](/cells/python-net/aspose.cells.pivot/pivottableformat/get_style/#) | Gets the formatted style. |
+| [`set_style(self, style)`](/cells/python-net/aspose.cells.pivot/pivottableformat/set_style/#aspose.cells.style) | Sets the style of the pivot area. |
 
 
 

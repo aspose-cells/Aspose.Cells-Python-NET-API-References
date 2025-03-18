@@ -3,7 +3,7 @@ title: PasteOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1250
+weight: 1260
 url: /aspose.cells/pasteoptions/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The PasteOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/pasteoptions/__init__/#) | Constructs a new instance of PasteOptions |
+| [`__init__(self)`](/cells/python-net/aspose.cells/pasteoptions/__init__/#) | Constructs a new instance of PasteOptions |
 
 
 ### Properties

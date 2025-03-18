@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/show_in_compact_form/
 is_root: false
 ---
 
-## show_in_compact_form {#}
+## show_in_compact_form(self) {#}
 
 Layouts the PivotTable in compact form.
 
 
 
 ```python
+
 def show_in_compact_form(self):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/namecollection/remove_names_by_array/
 is_root: false
 ---
 
-## remove_names_by_array {#list}
+## remove_names_by_array(self, names) {#list}
 
 Remove an array of name
 
 
 
 ```python
+
 def remove_names_by_array(self, names):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/customfilter/set_criteria/
 is_root: false
 ---
 
-## set_criteria {#aspose.cells.FilterOperatorType-any}
+## set_criteria(self, filter_operator, criteria) {#aspose.cells.FilterOperatorType-any}
 
 Sets the filter criteria.
 
 
 
 ```python
+
 def set_criteria(self, filter_operator, criteria):
     ...
 ```

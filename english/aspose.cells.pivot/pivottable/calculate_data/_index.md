@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/calculate_data/
 is_root: false
 ---
 
-## calculate_data {#}
+## calculate_data(self) {#}
 
 Calculates pivottable's data to cells.
 
 
 
 ```python
+
 def calculate_data(self):
     ...
 ```
@@ -26,13 +27,14 @@ Cell.Value in the pivot range could not return the correct result if the method 
 This method calculates data with an inner pivot cache,not original data source.
 So if the data source is changed, please call RefreshData() method first.
 
-## calculate_data {#aspose.cells.pivot.PivotTableCalculateOption}
+## calculate_data(self, option) {#aspose.cells.pivot.PivotTableCalculateOption}
 
 Calculating pivot tables with options
 
 
 
 ```python
+
 def calculate_data(self, option):
     ...
 ```

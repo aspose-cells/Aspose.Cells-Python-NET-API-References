@@ -8,7 +8,7 @@ url: /aspose.cells/range/is_intersect/
 is_root: false
 ---
 
-## is_intersect {#aspose.cells.Range}
+## is_intersect(self, range) {#aspose.cells.Range}
 
 Indicates whether the range is intersect.
 
@@ -20,6 +20,7 @@ Whether the range is intersect.
 
 
 ```python
+
 def is_intersect(self, range):
     ...
 ```

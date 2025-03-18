@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/gradientstopcollection/add/
 is_root: false
 ---
 
-## add {#float-aspose.cells.CellsColor-int}
+## add(self, position, color, alpha) {#float-aspose.cells.CellsColor-int}
 
 Add a gradient stop.
 
 
 
 ```python
+
 def add(self, position, color, alpha):
     ...
 ```
@@ -27,13 +28,14 @@ def add(self, position, color, alpha):
 | alpha | int | The alpha of the color. |
 
 
-## add {#float-aspose.pydrawing.Color-int}
+## add(self, position, color, alpha) {#float-aspose.pydrawing.Color-int}
 
 Add a gradient stop.
 
 
 
 ```python
+
 def add(self, position, color, alpha):
     ...
 ```

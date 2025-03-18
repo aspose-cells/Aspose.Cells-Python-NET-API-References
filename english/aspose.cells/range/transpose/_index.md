@@ -8,13 +8,14 @@ url: /aspose.cells/range/transpose/
 is_root: false
 ---
 
-## transpose {#}
+## transpose(self) {#}
 
 Transpose (rotate) data from rows to columns or vice versa.
 
 
 
 ```python
+
 def transpose(self):
     ...
 ```

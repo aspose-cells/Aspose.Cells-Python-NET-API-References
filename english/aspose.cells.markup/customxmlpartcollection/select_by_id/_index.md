@@ -8,7 +8,7 @@ url: /aspose.cells.markup/customxmlpartcollection/select_by_id/
 is_root: false
 ---
 
-## select_by_id {#str}
+## select_by_id(self, id) {#str}
 
 Gets an item by id.
 
@@ -20,6 +20,7 @@ Gets an item by id.
 
 
 ```python
+
 def select_by_id(self, id):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/format_all/
 is_root: false
 ---
 
-## format_all {#aspose.cells.Style}
+## format_all(self, style) {#aspose.cells.Style}
 
 Format all the cell in the pivottable area
 
 
 
 ```python
+
 def format_all(self, style):
     ...
 ```

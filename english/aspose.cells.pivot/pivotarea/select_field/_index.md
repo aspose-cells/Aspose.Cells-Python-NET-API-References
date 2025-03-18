@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotarea/select_field/
 is_root: false
 ---
 
-## select_field {#aspose.cells.pivot.PivotFieldType-str}
+## select_field(self, axis_type, field_name) {#aspose.cells.pivot.PivotFieldType-str}
 
 Select a field in the region as an area.
 
 
 
 ```python
+
 def select_field(self, axis_type, field_name):
     ...
 ```
@@ -26,13 +27,14 @@ def select_field(self, axis_type, field_name):
 | field_name | str | The name of pivot field. |
 
 
-## select_field {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
+## select_field(self, axis_type, field) {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
 
 Select a field in the region as an area.
 
 
 
 ```python
+
 def select_field(self, axis_type, field):
     ...
 ```

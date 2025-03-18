@@ -8,13 +8,14 @@ url: /aspose.cells/workbookdesigner/process/
 is_root: false
 ---
 
-## process {#}
+## process(self) {#}
 
 Processes the smart markers and populates the data source values.
 
 
 
 ```python
+
 def process(self):
     ...
 ```
@@ -22,13 +23,14 @@ def process(self):
 
 
 
-## process {#bool}
+## process(self, is_preserved) {#bool}
 
 Processes the smart markers and populates the data source values.
 
 
 
 ```python
+
 def process(self, is_preserved):
     ...
 ```
@@ -39,13 +41,33 @@ def process(self, is_preserved):
 | is_preserved | bool | True if the unrecognized smart marker is preserved. |
 
 
-## process {#int-bool}
+## process(self, range, is_preserved) {#aspose.cells.Range-bool}
 
 Processes the smart markers and populates the data source values.
 
 
 
 ```python
+
+def process(self, range, is_preserved):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| range | [`Range`](/cells/python-net/aspose.cells/range) | The range to be processed |
+| is_preserved | bool | True if the unrecognized smart marker is preserved. |
+
+
+## process(self, sheet_index, is_preserved) {#int-bool}
+
+Processes the smart markers and populates the data source values.
+
+
+
+```python
+
 def process(self, sheet_index, is_preserved):
     ...
 ```

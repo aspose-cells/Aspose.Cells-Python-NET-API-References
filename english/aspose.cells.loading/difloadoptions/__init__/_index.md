@@ -8,13 +8,14 @@ url: /aspose.cells.loading/difloadoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 The options.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

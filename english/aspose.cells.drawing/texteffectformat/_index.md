@@ -31,7 +31,7 @@ The TextEffectFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_text_effect](/cells/python-net/aspose.cells.drawing/texteffectformat/set_text_effect/#aspose.cells.drawing.MsoPresetTextEffect) | Sets the preset text effect. |
+| [`set_text_effect(self, effect)`](/cells/python-net/aspose.cells.drawing/texteffectformat/set_text_effect/#aspose.cells.drawing.msopresettexteffect) | Sets the preset text effect. |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells.charts/title/characters/
 is_root: false
 ---
 
-## characters {#}
+## characters(self) {#}
 
 Gets rich text formatting of this Title.
 
@@ -20,6 +20,7 @@ returns FontSetting array
 
 
 ```python
+
 def characters(self):
     ...
 ```
@@ -27,7 +28,7 @@ def characters(self):
 
 
 
-## characters {#int-int}
+## characters(self, start_index, length) {#int-int}
 
 Returns a Characters object that represents a range of characters within the text.
 
@@ -39,6 +40,7 @@ Characters object.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```

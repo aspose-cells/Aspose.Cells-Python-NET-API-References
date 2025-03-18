@@ -8,7 +8,7 @@ url: /aspose.cells/cell/to_json/
 is_root: false
 ---
 
-## to_json {#}
+## to_json(self) {#}
 
 Convert [`Cell`](/cells/python-net/aspose.cells/cell) to JSON struct data.
 
@@ -20,6 +20,7 @@ Convert [`Cell`](/cells/python-net/aspose.cells/cell) to JSON struct data.
 
 
 ```python
+
 def to_json(self):
     ...
 ```

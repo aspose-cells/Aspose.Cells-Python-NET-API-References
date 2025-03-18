@@ -8,13 +8,14 @@ url: /aspose.cells/autofilter/show_all/
 is_root: false
 ---
 
-## show_all {#}
+## show_all(self) {#}
 
 Unhide all rows.
 
 
 
 ```python
+
 def show_all(self):
     ...
 ```

@@ -3,7 +3,7 @@ title: HtmlTableLoadOption class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 870
 url: /aspose.cells/htmltableloadoption/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The HtmlTableLoadOption type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/htmltableloadoption/__init__/#) | Constructs a new instance of HtmlTableLoadOption |
+| [`__init__(self)`](/cells/python-net/aspose.cells/htmltableloadoption/__init__/#) | Constructs a new instance of HtmlTableLoadOption |
 
 
 ### Properties

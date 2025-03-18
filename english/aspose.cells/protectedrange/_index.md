@@ -3,7 +3,7 @@ title: ProtectedRange class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1290
+weight: 1300
 url: /aspose.cells/protectedrange/
 is_root: false
 ---
@@ -29,8 +29,8 @@ The ProtectedRange type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_areas](/cells/python-net/aspose.cells/protectedrange/get_areas/#) | Gets all referred areas. |
-| [add_area](/cells/python-net/aspose.cells/protectedrange/add_area/#int-int-int-int) | Adds a referred area to this |
+| [`get_areas(self)`](/cells/python-net/aspose.cells/protectedrange/get_areas/#) | Gets all referred areas. |
+| [`add_area(self, start_row, start_column, end_row, end_column)`](/cells/python-net/aspose.cells/protectedrange/add_area/#int-int-int-int) | Adds a referred area to this |
 
 
 

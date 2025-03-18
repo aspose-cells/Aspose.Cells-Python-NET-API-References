@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/picturecollection/add/
 is_root: false
 ---
 
-## add {#int-int-io.RawIOBase}
+## add(self, upper_left_row, upper_left_column, stream) {#int-int-io.RawIOBase}
 
 Adds a picture to the collection.
 
@@ -20,6 +20,7 @@ Adds a picture to the collection.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, stream):
     ...
 ```
@@ -43,7 +44,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add {#int-int-str}
+## add(self, upper_left_row, upper_left_column, file_name) {#int-int-str}
 
 Adds a picture to the collection.
 
@@ -55,6 +56,7 @@ Adds a picture to the collection.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, file_name):
     ...
 ```
@@ -77,7 +79,7 @@ pictures.add(1, 1, "image.jpg")
 ```
 
 
-## add {#int-int-int-int-io.RawIOBase}
+## add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
 
 Adds a picture to the collection.
 
@@ -89,6 +91,7 @@ Adds a picture to the collection.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream):
     ...
 ```
@@ -114,7 +117,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add {#int-int-int-int-str}
+## add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name) {#int-int-int-int-str}
 
 Adds a picture to the collection.
 
@@ -126,6 +129,7 @@ Adds a picture to the collection.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name):
     ...
 ```
@@ -150,7 +154,7 @@ pictures.add(1, 1, 5, 5, "image.jpg")
 ```
 
 
-## add {#int-int-io.RawIOBase-int-int}
+## add(self, upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
 
 Adds a picture to the collection.
 
@@ -162,6 +166,7 @@ Adds a picture to the collection.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, stream, width_scale, height_scale):
     ...
 ```
@@ -187,7 +192,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add {#int-int-str-int-int}
+## add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale) {#int-int-str-int-int}
 
 Adds a picture to the collection.
 
@@ -199,6 +204,7 @@ Adds a picture to the collection.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/check_row/
 is_root: false
 ---
 
-## check_row {#int}
+## check_row(self, row) {#int}
 
 Gets the [`Row`](/cells/python-net/aspose.cells/row) element or null at the specified cell row index.
 
@@ -20,6 +20,7 @@ Returns [`Row`](/cells/python-net/aspose.cells/row) object If the row object doe
 
 
 ```python
+
 def check_row(self, row):
     ...
 ```

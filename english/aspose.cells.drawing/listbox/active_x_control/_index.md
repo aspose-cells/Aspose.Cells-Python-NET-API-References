@@ -3,7 +3,7 @@ title: active_x_control property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells.drawing/listbox/active_x_control/
 is_root: false
 ---

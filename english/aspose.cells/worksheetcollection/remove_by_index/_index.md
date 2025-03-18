@@ -8,13 +8,14 @@ url: /aspose.cells/worksheetcollection/remove_by_index/
 is_root: false
 ---
 
-## remove_by_index {#int}
+## remove_by_index(self, index) {#int}
 
 Remove a sheet by sheet index
 
 
 
 ```python
+
 def remove_by_index(self, index):
     ...
 ```

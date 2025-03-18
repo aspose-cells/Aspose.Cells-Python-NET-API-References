@@ -52,7 +52,7 @@ The TextParagraph type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_word_art_style](/cells/python-net/aspose.cells.drawing.texts/textparagraph/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Sets the preset WordArt style. |
+| [`set_word_art_style(self, style)`](/cells/python-net/aspose.cells.drawing.texts/textparagraph/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) | Sets the preset WordArt style. |
 
 
 

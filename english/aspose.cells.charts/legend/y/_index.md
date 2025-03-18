@@ -3,7 +3,7 @@ title: y property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 530
 url: /aspose.cells.charts/legend/y/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Gets or sets the y coordinate of the upper left corner in units of 1/4000 of the
 
 
 How to convert units of 1/4000 to pixels? 
-Y In Pixels = Y * Chart.ChartObject.Height / 4000;
+Y In Pixels = Y * Chart.ChartObject.Height / 4000d;
 ### Definition:
 ```python
 @property

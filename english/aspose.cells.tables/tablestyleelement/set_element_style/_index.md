@@ -8,13 +8,14 @@ url: /aspose.cells.tables/tablestyleelement/set_element_style/
 is_root: false
 ---
 
-## set_element_style {#aspose.cells.Style}
+## set_element_style(self, style) {#aspose.cells.Style}
 
 Sets the element style.
 
 
 
 ```python
+
 def set_element_style(self, style):
     ...
 ```

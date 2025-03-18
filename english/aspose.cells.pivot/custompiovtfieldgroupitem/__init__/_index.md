@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/custompiovtfieldgroupitem/__init__/
 is_root: false
 ---
 
-## __init__ {#str-list}
+## \_\_init\_\_(self, name, item_indexes) {#str-list}
 
 The constructor of custom group item of pivot field.
 
 
 
 ```python
+
 def __init__(self, name, item_indexes):
     ...
 ```

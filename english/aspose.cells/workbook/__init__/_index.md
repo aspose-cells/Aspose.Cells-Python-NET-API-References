@@ -8,13 +8,14 @@ url: /aspose.cells/workbook/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -36,13 +37,14 @@ workbook = Workbook()
 ```
 
 
-## __init__ {#aspose.cells.FileFormatType}
+## \_\_init\_\_(self, file_format_type) {#aspose.cells.FileFormatType}
 
 Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class.
 
 
 
 ```python
+
 def __init__(self, file_format_type):
     ...
 ```
@@ -67,13 +69,14 @@ workbook = Workbook(FileFormatType.XLSX)
 ```
 
 
-## __init__ {#str}
+## \_\_init\_\_(self, file) {#str}
 
 Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a file.
 
 
 
 ```python
+
 def __init__(self, file):
     ...
 ```
@@ -84,13 +87,14 @@ def __init__(self, file):
 | file | str | The file name. |
 
 
-## __init__ {#io.RawIOBase}
+## \_\_init\_\_(self, stream) {#io.RawIOBase}
 
 Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a stream.
 
 
 
 ```python
+
 def __init__(self, stream):
     ...
 ```
@@ -101,13 +105,14 @@ def __init__(self, stream):
 | stream | io.RawIOBase | The stream. |
 
 
-## __init__ {#str-aspose.cells.LoadOptions}
+## \_\_init\_\_(self, file, load_options) {#str-aspose.cells.LoadOptions}
 
 Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a file.
 
 
 
 ```python
+
 def __init__(self, file, load_options):
     ...
 ```
@@ -119,13 +124,14 @@ def __init__(self, file, load_options):
 | load_options | [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) | The load options |
 
 
-## __init__ {#io.RawIOBase-aspose.cells.LoadOptions}
+## \_\_init\_\_(self, stream, load_options) {#io.RawIOBase-aspose.cells.LoadOptions}
 
 Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open stream.
 
 
 
 ```python
+
 def __init__(self, stream, load_options):
     ...
 ```

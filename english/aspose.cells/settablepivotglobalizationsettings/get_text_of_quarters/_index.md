@@ -8,7 +8,7 @@ url: /aspose.cells/settablepivotglobalizationsettings/get_text_of_quarters/
 is_root: false
 ---
 
-## get_text_of_quarters {#}
+## get_text_of_quarters(self) {#}
 
 Get the local text of "Quarters".
 
@@ -20,6 +20,7 @@ Get the local text of "Quarters".
 
 
 ```python
+
 def get_text_of_quarters(self):
     ...
 ```

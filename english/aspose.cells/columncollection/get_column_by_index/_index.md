@@ -8,7 +8,7 @@ url: /aspose.cells/columncollection/get_column_by_index/
 is_root: false
 ---
 
-## get_column_by_index {#int}
+## get_column_by_index(self, index) {#int}
 
 Gets the [`Column`](/cells/python-net/aspose.cells/column) object by the position in the list.
 
@@ -20,6 +20,7 @@ Returns the column object.
 
 
 ```python
+
 def get_column_by_index(self, index):
     ...
 ```

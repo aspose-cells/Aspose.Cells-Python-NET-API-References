@@ -8,7 +8,7 @@ url: /aspose.cells/cells/end_cell_in_row/
 is_root: false
 ---
 
-## end_cell_in_row {#int}
+## end_cell_in_row(self, row_index) {#int}
 
 Gets the last cell in this row.
 
@@ -20,6 +20,7 @@ Cell object.
 
 
 ```python
+
 def end_cell_in_row(self, row_index):
     ...
 ```
@@ -30,7 +31,7 @@ def end_cell_in_row(self, row_index):
 | row_index | int | Row index. |
 
 
-## end_cell_in_row {#int-int-int-int}
+## end_cell_in_row(self, start_row, end_row, start_column, end_column) {#int-int-int-int}
 
 Gets the last cell with maximum row index in this range.
 
@@ -42,6 +43,7 @@ Cell object.
 
 
 ```python
+
 def end_cell_in_row(self, start_row, end_row, start_column, end_column):
     ...
 ```

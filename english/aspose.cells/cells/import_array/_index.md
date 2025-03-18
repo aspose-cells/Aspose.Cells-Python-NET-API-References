@@ -3,18 +3,19 @@ title: import_array method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 620
+weight: 630
 url: /aspose.cells/cells/import_array/
 is_root: false
 ---
 
-## import_array {#list-int-int-bool}
+## import_array(self, string_array, first_row, first_column, is_vertical) {#list-int-int-bool}
 
 Imports an array of string into a worksheet.
 
 
 
 ```python
+
 def import_array(self, string_array, first_row, first_column, is_vertical):
     ...
 ```
@@ -28,13 +29,14 @@ def import_array(self, string_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Specifies to import data vertically or horizontally. |
 
 
-## import_array {#list-int-int-bool}
+## import_array(self, int_array, first_row, first_column, is_vertical) {#list-int-int-bool}
 
 Imports an array of integer into a worksheet.
 
 
 
 ```python
+
 def import_array(self, int_array, first_row, first_column, is_vertical):
     ...
 ```
@@ -48,13 +50,14 @@ def import_array(self, int_array, first_row, first_column, is_vertical):
 | is_vertical | bool | Specifies to import data vertically or horizontally. |
 
 
-## import_array {#list-int-int-bool}
+## import_array(self, double_array, first_row, first_column, is_vertical) {#list-int-int-bool}
 
 Imports an array of double into a worksheet.
 
 
 
 ```python
+
 def import_array(self, double_array, first_row, first_column, is_vertical):
     ...
 ```

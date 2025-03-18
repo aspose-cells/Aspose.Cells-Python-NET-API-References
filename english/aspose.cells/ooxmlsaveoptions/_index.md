@@ -3,7 +3,7 @@ title: OoxmlSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1200
+weight: 1210
 url: /aspose.cells/ooxmlsaveoptions/
 is_root: false
 ---
@@ -24,8 +24,8 @@ The OoxmlSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/ooxmlsaveoptions/__init__/#) | Creates the options for saving office open xml file. |
-| [__init__](/cells/python-net/aspose.cells/ooxmlsaveoptions/__init__/#aspose.cells.SaveFormat) | Creates the options for saving office open xml file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/ooxmlsaveoptions/__init__/#) | Creates the options for saving office open xml file. |
+| [`__init__(self, save_format)`](/cells/python-net/aspose.cells/ooxmlsaveoptions/__init__/#aspose.cells.saveformat) | Creates the options for saving office open xml file. |
 
 
 ### Properties

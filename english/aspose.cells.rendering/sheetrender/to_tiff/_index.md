@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
 
-## to_tiff {#io.RawIOBase}
+## to_tiff(self, stream) {#io.RawIOBase}
 
 Render whole worksheet as Tiff Image to stream.
 
 
 
 ```python
+
 def to_tiff(self, stream):
     ...
 ```
@@ -25,13 +26,14 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase | the stream of the output image |
 
 
-## to_tiff {#str}
+## to_tiff(self, filename) {#str}
 
 Render whole worksheet as Tiff Image to a file.
 
 
 
 ```python
+
 def to_tiff(self, filename):
     ...
 ```

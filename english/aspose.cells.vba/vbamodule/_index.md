@@ -21,6 +21,7 @@ The VbaModule type exposes the following members:
 | :- | :- |
 | [name](/cells/python-net/aspose.cells.vba/vbamodule/name) | Gets and sets the name of Module. |
 | [type](/cells/python-net/aspose.cells.vba/vbamodule/type) | Gets the type of module. |
+| [binary_codes](/cells/python-net/aspose.cells.vba/vbamodule/binary_codes) | Gets and sets the binary codes of module. |
 | [codes](/cells/python-net/aspose.cells.vba/vbamodule/codes) | Gets and sets the codes of module. |
 
 

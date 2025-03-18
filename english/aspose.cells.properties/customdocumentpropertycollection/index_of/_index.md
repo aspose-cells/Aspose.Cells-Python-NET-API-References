@@ -3,12 +3,12 @@ title: index_of method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells.properties/customdocumentpropertycollection/index_of/
 is_root: false
 ---
 
-## index_of {#str}
+## index_of(self, name) {#str}
 
 Gets the index of a property by name.
 
@@ -20,6 +20,7 @@ The zero based index. Negative value if not found.
 
 
 ```python
+
 def index_of(self, name):
     ...
 ```
@@ -30,7 +31,7 @@ def index_of(self, name):
 | name | str | The case-insensitive name of the property. |
 
 
-## index_of {#aspose.cells.properties.DocumentProperty-int}
+## index_of(self, item, index) {#aspose.cells.properties.DocumentProperty-int}
 
 Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element.
 
@@ -42,6 +43,7 @@ The zero-based index of the first occurrence of value within the range of elemen
 
 
 ```python
+
 def index_of(self, item, index):
     ...
 ```
@@ -53,7 +55,7 @@ def index_of(self, item, index):
 | index | int | The zero-based starting index of the search. 0 (zero) is valid in an empty list. |
 
 
-## index_of {#aspose.cells.properties.DocumentProperty-int-int}
+## index_of(self, item, index, count) {#aspose.cells.properties.DocumentProperty-int-int}
 
 Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements.
 
@@ -65,6 +67,7 @@ The zero-based index of the first occurrence of value within the range of elemen
 
 
 ```python
+
 def index_of(self, item, index, count):
     ...
 ```

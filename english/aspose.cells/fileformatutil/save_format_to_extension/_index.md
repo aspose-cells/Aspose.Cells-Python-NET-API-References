@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/save_format_to_extension/
 is_root: false
 ---
 
-## save_format_to_extension {#aspose.cells.SaveFormat}
+## save_format_to_extension(, format) {#aspose.cells.SaveFormat}
 
 Converts a save format enumerated value into a file extension.
 
@@ -20,7 +20,9 @@ The returned extension is a lower-case string with a leading dot.
 
 
 ```python
-def save_format_to_extension(self, format):
+
+@staticmethod
+def save_format_to_extension(format):
     ...
 ```
 

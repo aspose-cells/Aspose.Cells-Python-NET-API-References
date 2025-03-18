@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_grand_total/
 is_root: false
 ---
 
-## get_text_of_grand_total {#}
+## get_text_of_grand_total(self) {#}
 
 Gets the text of "Grand Total" label in the PivotTable.
 
@@ -20,6 +20,7 @@ The text of "Grand Total" label
 
 
 ```python
+
 def get_text_of_grand_total(self):
     ...
 ```

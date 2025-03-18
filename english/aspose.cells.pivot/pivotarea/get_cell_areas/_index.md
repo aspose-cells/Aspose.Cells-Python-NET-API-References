@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotarea/get_cell_areas/
 is_root: false
 ---
 
-## get_cell_areas {#}
+## get_cell_areas(self) {#}
 
 Gets cell areas of this pivot area.
 
@@ -20,6 +20,7 @@ Gets cell areas of this pivot area.
 
 
 ```python
+
 def get_cell_areas(self):
     ...
 ```

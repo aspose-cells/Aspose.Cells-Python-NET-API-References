@@ -8,7 +8,7 @@ url: /aspose.cells/abstractcalculationmonitor/on_circular/
 is_root: false
 ---
 
-## on_circular {#collections.abc.Iterator}
+## on_circular(self, circular_cells_data) {#collections.abc.Iterator}
 
 Implement this method to do business when calculating formulas with circular references.
 
@@ -22,6 +22,7 @@ False to let the formula engine just mark those cells as Calculated.
 
 
 ```python
+
 def on_circular(self, circular_cells_data):
     ...
 ```

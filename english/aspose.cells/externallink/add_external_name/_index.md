@@ -8,13 +8,14 @@ url: /aspose.cells/externallink/add_external_name/
 is_root: false
 ---
 
-## add_external_name {#str-str}
+## add_external_name(self, text, refer_to) {#str-str}
 
 Adds an external name.
 
 
 
 ```python
+
 def add_external_name(self, text, refer_to):
     ...
 ```

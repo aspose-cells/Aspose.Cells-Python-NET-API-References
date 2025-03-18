@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.equations/boxequationnode/to_math_ml/
 is_root: false
 ---
 
-## to_math_ml {#}
+## to_math_ml(self) {#}
 
 Convert this equtation to MathML expression.
 
@@ -20,6 +20,7 @@ Convert this equtation to MathML expression.
 
 
 ```python
+
 def to_math_ml(self):
     ...
 ```

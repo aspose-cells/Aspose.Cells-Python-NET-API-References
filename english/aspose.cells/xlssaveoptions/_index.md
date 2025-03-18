@@ -3,7 +3,7 @@ title: XlsSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1790
+weight: 1800
 url: /aspose.cells/xlssaveoptions/
 is_root: false
 ---
@@ -24,8 +24,8 @@ The XlsSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/xlssaveoptions/__init__/#) | Creates options for saving Excel 97-2003 xls file. |
-| [__init__](/cells/python-net/aspose.cells/xlssaveoptions/__init__/#aspose.cells.SaveFormat) | Creates options for saving Excel 97-2003 xls/xlt file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/xlssaveoptions/__init__/#) | Creates options for saving Excel 97-2003 xls file. |
+| [`__init__(self, save_format)`](/cells/python-net/aspose.cells/xlssaveoptions/__init__/#aspose.cells.saveformat) | Creates options for saving Excel 97-2003 xls/xlt file. |
 
 
 ### Properties

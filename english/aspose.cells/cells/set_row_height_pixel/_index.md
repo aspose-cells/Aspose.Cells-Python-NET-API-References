@@ -3,18 +3,19 @@ title: set_row_height_pixel method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 900
+weight: 890
 url: /aspose.cells/cells/set_row_height_pixel/
 is_root: false
 ---
 
-## set_row_height_pixel {#int-int}
+## set_row_height_pixel(self, row, pixels) {#int-int}
 
 Sets row height in unit of pixels.
 
 
 
 ```python
+
 def set_row_height_pixel(self, row, pixels):
     ...
 ```

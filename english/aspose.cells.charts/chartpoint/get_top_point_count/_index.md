@@ -8,13 +8,14 @@ url: /aspose.cells.charts/chartpoint/get_top_point_count/
 is_root: false
 ---
 
-## get_top_point_count {#}
+## get_top_point_count(self) {#}
 
 Gets the number of top points after calls Chart.Calculate() method.
 
 
 
 ```python
+
 def get_top_point_count(self):
     ...
 ```

@@ -24,7 +24,7 @@ The DbfSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.saving/dbfsaveoptions/__init__/#) | The options of saving .dbf file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells.saving/dbfsaveoptions/__init__/#) | The options of saving .dbf file. |
 
 
 ### Properties

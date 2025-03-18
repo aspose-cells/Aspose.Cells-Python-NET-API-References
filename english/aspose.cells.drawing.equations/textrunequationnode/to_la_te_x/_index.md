@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.equations/textrunequationnode/to_la_te_x/
 is_root: false
 ---
 
-## to_la_te_x {#}
+## to_la_te_x(self) {#}
 
 Convert this equtation to LaTeX expression.
 
 
 
 ```python
+
 def to_la_te_x(self):
     ...
 ```

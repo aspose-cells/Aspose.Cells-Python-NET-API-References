@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.equations/textrunequationnode/get_child/
 is_root: false
 ---
 
-## get_child {#int}
+## get_child(self, index) {#int}
 
 Returns the node at the specified index among the children of the current node.
 
@@ -20,6 +20,7 @@ Returns the corresponding node if the specified node exists, otherwise returns n
 
 
 ```python
+
 def get_child(self, index):
     ...
 ```

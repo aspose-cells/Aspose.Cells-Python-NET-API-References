@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.equations/unknowequationnode/insert_after/
 is_root: false
 ---
 
-## insert_after {#aspose.cells.drawing.equations.EquationNodeType}
+## insert_after(self, equation_type) {#aspose.cells.drawing.equations.EquationNodeType}
 
 Inserts the specified node after the current node.
 
@@ -20,6 +20,7 @@ If the specified type exists, the corresponding node is returned, and if the typ
 
 
 ```python
+
 def insert_after(self, equation_type):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/auto_fit_row/
 is_root: false
 ---
 
-## auto_fit_row {#int}
+## auto_fit_row(self, row_index) {#int}
 
 Autofits the row height.
 
 
 
 ```python
+
 def auto_fit_row(self, row_index):
     ...
 ```
@@ -27,13 +28,14 @@ def auto_fit_row(self, row_index):
 
 AutoFitRow is an imprecise function.
 
-## auto_fit_row {#int-int-int}
+## auto_fit_row(self, row_index, first_column, last_column) {#int-int-int}
 
 Autofits the row height.
 
 
 
 ```python
+
 def auto_fit_row(self, row_index, first_column, last_column):
     ...
 ```
@@ -48,13 +50,14 @@ def auto_fit_row(self, row_index, first_column, last_column):
 
 This method autofits a row based on content in a range of cells within the row.
 
-## auto_fit_row {#int-int-int-aspose.cells.AutoFitterOptions}
+## auto_fit_row(self, row_index, first_column, last_column, options) {#int-int-int-aspose.cells.AutoFitterOptions}
 
 Autofits the row height.
 
 
 
 ```python
+
 def auto_fit_row(self, row_index, first_column, last_column, options):
     ...
 ```
@@ -70,13 +73,14 @@ def auto_fit_row(self, row_index, first_column, last_column, options):
 
 This method autofits a row based on content in a range of cells within the row.
 
-## auto_fit_row {#int-int-int-int}
+## auto_fit_row(self, start_row, end_row, start_column, end_column) {#int-int-int-int}
 
 Autofits row height in a rectangle range.
 
 
 
 ```python
+
 def auto_fit_row(self, start_row, end_row, start_column, end_column):
     ...
 ```

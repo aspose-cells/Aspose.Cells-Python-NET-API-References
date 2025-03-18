@@ -3,18 +3,19 @@ title: insert_range method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 710
 url: /aspose.cells/cells/insert_range/
 is_root: false
 ---
 
-## insert_range {#aspose.cells.CellArea-aspose.cells.ShiftType}
+## insert_range(self, area, shift_type) {#aspose.cells.CellArea-aspose.cells.ShiftType}
 
 Inserts a range of cells and shift cells according to the shift option.
 
 
 
 ```python
+
 def insert_range(self, area, shift_type):
     ...
 ```
@@ -26,13 +27,14 @@ def insert_range(self, area, shift_type):
 | shift_type | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | Shift cells option. |
 
 
-## insert_range {#aspose.cells.CellArea-int-aspose.cells.ShiftType}
+## insert_range(self, area, shift_number, shift_type) {#aspose.cells.CellArea-int-aspose.cells.ShiftType}
 
 Inserts a range of cells and shift cells according to the shift option.
 
 
 
 ```python
+
 def insert_range(self, area, shift_number, shift_type):
     ...
 ```
@@ -45,13 +47,14 @@ def insert_range(self, area, shift_number, shift_type):
 | shift_type | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | Shift cells option. |
 
 
-## insert_range {#aspose.cells.CellArea-int-aspose.cells.ShiftType-bool}
+## insert_range(self, area, shift_number, shift_type, update_reference) {#aspose.cells.CellArea-int-aspose.cells.ShiftType-bool}
 
 Inserts a range of cells and shift cells according to the shift option.
 
 
 
 ```python
+
 def insert_range(self, area, shift_number, shift_type, update_reference):
     ...
 ```

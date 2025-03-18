@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotformatcondition/set_conditional_areas/
 is_root: false
 ---
 
-## set_conditional_areas {#}
+## set_conditional_areas(self) {#}
 
 
 
 
 
 ```python
+
 def set_conditional_areas(self):
     ...
 ```

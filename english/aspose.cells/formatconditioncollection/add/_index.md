@@ -8,7 +8,7 @@ url: /aspose.cells/formatconditioncollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str}
+## add(self, cell_area, type, operator_type, formula1, formula2) {#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str}
 
 Adds a formatting condition and effected cell rang to the FormatConditions
 The FormatConditions can contain up to three conditional formats.
@@ -22,6 +22,7 @@ References to the other sheets are not allowed in the formulas of conditional fo
 
 
 ```python
+
 def add(self, cell_area, type, operator_type, formula1, formula2):
     ...
 ```

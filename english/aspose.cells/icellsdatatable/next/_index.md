@@ -8,7 +8,7 @@ url: /aspose.cells/icellsdatatable/next/
 is_root: false
 ---
 
-## next {#}
+## next(self) {#}
 
 Moves the cursor down one row from its current position.
 
@@ -20,6 +20,7 @@ if the new current row is valid; false if there are no more rows
 
 
 ```python
+
 def next(self):
     ...
 ```

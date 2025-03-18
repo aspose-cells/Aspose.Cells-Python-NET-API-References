@@ -8,13 +8,14 @@ url: /aspose.cells/cell/put_value/
 is_root: false
 ---
 
-## put_value {#bool}
+## put_value(self, bool_value) {#bool}
 
 Puts a boolean value into the cell.
 
 
 
 ```python
+
 def put_value(self, bool_value):
     ...
 ```
@@ -25,13 +26,14 @@ def put_value(self, bool_value):
 | bool_value | bool |  |
 
 
-## put_value {#int}
+## put_value(self, int_value) {#int}
 
 Puts an integer value into the cell.
 
 
 
 ```python
+
 def put_value(self, int_value):
     ...
 ```
@@ -42,13 +44,14 @@ def put_value(self, int_value):
 | int_value | int | Input value |
 
 
-## put_value {#float}
+## put_value(self, double_value) {#float}
 
 Puts a double value into the cell.
 
 
 
 ```python
+
 def put_value(self, double_value):
     ...
 ```
@@ -59,13 +62,14 @@ def put_value(self, double_value):
 | double_value | float | Input value |
 
 
-## put_value {#str}
+## put_value(self, string_value) {#str}
 
 Puts a string value into the cell.
 
 
 
 ```python
+
 def put_value(self, string_value):
     ...
 ```
@@ -76,13 +80,14 @@ def put_value(self, string_value):
 | string_value | str | Input value |
 
 
-## put_value {#DateTime}
+## put_value(self, date_time) {#DateTime}
 
 Puts a DateTime value into the cell.
 
 
 
 ```python
+
 def put_value(self, date_time):
     ...
 ```
@@ -119,13 +124,14 @@ cell.set_style(style)
 ```
 
 
-## put_value {#any}
+## put_value(self, object_value) {#any}
 
 Puts an object value into the cell.
 
 
 
 ```python
+
 def put_value(self, object_value):
     ...
 ```
@@ -136,13 +142,14 @@ def put_value(self, object_value):
 | object_value | any | input value |
 
 
-## put_value {#str-bool}
+## put_value(self, string_value, is_converted) {#str-bool}
 
 Puts a string value into the cell and converts the value to other data type if appropriate.
 
 
 
 ```python
+
 def put_value(self, string_value, is_converted):
     ...
 ```
@@ -154,13 +161,14 @@ def put_value(self, string_value, is_converted):
 | is_converted | bool | True: converted to other data type if appropriate. |
 
 
-## put_value {#str-bool-bool}
+## put_value(self, string_value, is_converted, set_style) {#str-bool-bool}
 
 Puts a value into the cell, if appropriate the value will be converted to other data type and cell's number format will be reset.
 
 
 
 ```python
+
 def put_value(self, string_value, is_converted, set_style):
     ...
 ```

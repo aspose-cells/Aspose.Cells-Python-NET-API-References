@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/get_source_data_connections/
 is_root: false
 ---
 
-## get_source_data_connections {#}
+## get_source_data_connections(self) {#}
 
 Gets the external connection data sources.
 
 
 
 ```python
+
 def get_source_data_connections(self):
     ...
 ```

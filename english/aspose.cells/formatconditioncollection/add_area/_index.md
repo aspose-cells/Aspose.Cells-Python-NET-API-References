@@ -8,7 +8,7 @@ url: /aspose.cells/formatconditioncollection/add_area/
 is_root: false
 ---
 
-## add_area {#aspose.cells.CellArea}
+## add_area(self, cell_area) {#aspose.cells.CellArea}
 
 Adds a conditional formatted cell range.
 
@@ -20,6 +20,7 @@ Conditional formatted cell rang index.
 
 
 ```python
+
 def add_area(self, cell_area):
     ...
 ```

@@ -3,7 +3,7 @@ title: WarningType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2890
+weight: 2910
 url: /aspose.cells/warningtype/
 is_root: false
 ---

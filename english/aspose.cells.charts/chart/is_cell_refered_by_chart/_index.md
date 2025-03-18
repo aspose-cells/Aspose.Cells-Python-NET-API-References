@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chart/is_cell_refered_by_chart/
 is_root: false
 ---
 
-## is_cell_refered_by_chart {#int-int-int}
+## is_cell_refered_by_chart(self, sheet_index, row_index, column_index) {#int-int-int}
 
 Returns whether the cell refered by the chart.
 
@@ -20,6 +20,7 @@ Returns whether the cell refered by the chart.
 
 
 ```python
+
 def is_cell_refered_by_chart(self, sheet_index, row_index, column_index):
     ...
 ```

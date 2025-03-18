@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/close_access_cache/
 is_root: false
 ---
 
-## close_access_cache {#aspose.cells.AccessCacheOptions}
+## close_access_cache(self, opts) {#aspose.cells.AccessCacheOptions}
 
 Closes the session that uses caches to access the data in this worksheet.
 
 
 
 ```python
+
 def close_access_cache(self, opts):
     ...
 ```

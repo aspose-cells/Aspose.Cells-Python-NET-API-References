@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_equation/
 is_root: false
 ---
 
-## add_equation {#int-int-int-int-int-int}
+## add_equation(self, top_row, top, left_column, left, height, width) {#int-int-int-int-int-int}
 
 Add an equation object to the worksheet.
 
@@ -20,6 +20,7 @@ Add an equation object to the worksheet.
 
 
 ```python
+
 def add_equation(self, top_row, top, left_column, left, height, width):
     ...
 ```

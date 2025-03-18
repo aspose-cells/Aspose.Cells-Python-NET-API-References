@@ -8,7 +8,7 @@ url: /aspose.cells/settablepivotglobalizationsettings/get_text_of_protection/
 is_root: false
 ---
 
-## get_text_of_protection {#}
+## get_text_of_protection(self) {#}
 
 Gets the protection name in the PivotTable.
 
@@ -20,6 +20,7 @@ The protection name of PivotTable
 
 
 ```python
+
 def get_text_of_protection(self):
     ...
 ```

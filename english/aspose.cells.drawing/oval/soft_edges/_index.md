@@ -3,7 +3,7 @@ title: soft_edges property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 900
+weight: 910
 url: /aspose.cells.drawing/oval/soft_edges/
 is_root: false
 ---

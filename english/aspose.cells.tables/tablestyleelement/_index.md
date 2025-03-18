@@ -26,8 +26,8 @@ The TableStyleElement type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_element_style](/cells/python-net/aspose.cells.tables/tablestyleelement/get_element_style/#) | Gets the element style. |
-| [set_element_style](/cells/python-net/aspose.cells.tables/tablestyleelement/set_element_style/#aspose.cells.Style) | Sets the element style. |
+| [`get_element_style(self)`](/cells/python-net/aspose.cells.tables/tablestyleelement/get_element_style/#) | Gets the element style. |
+| [`set_element_style(self, style)`](/cells/python-net/aspose.cells.tables/tablestyleelement/set_element_style/#aspose.cells.style) | Sets the element style. |
 
 
 

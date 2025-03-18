@@ -3,7 +3,7 @@ title: WarningInfo class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1720
+weight: 1730
 url: /aspose.cells/warninginfo/
 is_root: false
 ---

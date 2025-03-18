@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_width_of_value/
 is_root: false
 ---
 
-## get_width_of_value {#}
+## get_width_of_value(self) {#}
 
 Gets the width of the value in unit of pixels.
 
@@ -20,6 +20,7 @@ Gets the width of the value in unit of pixels.
 
 
 ```python
+
 def get_width_of_value(self):
     ...
 ```

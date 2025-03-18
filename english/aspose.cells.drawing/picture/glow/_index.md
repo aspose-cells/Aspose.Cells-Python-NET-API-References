@@ -3,7 +3,7 @@ title: glow property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 480
 url: /aspose.cells.drawing/picture/glow/
 is_root: false
 ---

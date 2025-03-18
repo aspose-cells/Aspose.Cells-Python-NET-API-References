@@ -3,18 +3,19 @@ title: import_array_list method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 640
 url: /aspose.cells/cells/import_array_list/
 is_root: false
 ---
 
-## import_array_list {#list-int-int-bool}
+## import_array_list(self, array_list, first_row, first_column, is_vertical) {#list-int-int-bool}
 
 Imports an arraylist of data into a worksheet.
 
 
 
 ```python
+
 def import_array_list(self, array_list, first_row, first_column, is_vertical):
     ...
 ```

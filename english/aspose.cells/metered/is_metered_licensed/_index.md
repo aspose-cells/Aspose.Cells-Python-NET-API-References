@@ -8,7 +8,7 @@ url: /aspose.cells/metered/is_metered_licensed/
 is_root: false
 ---
 
-## is_metered_licensed {#}
+## is_metered_licensed() {#}
 
 Check whether metered is licensed
 
@@ -20,7 +20,9 @@ True or false
 
 
 ```python
-def is_metered_licensed(self):
+
+@staticmethod
+def is_metered_licensed():
     ...
 ```
 

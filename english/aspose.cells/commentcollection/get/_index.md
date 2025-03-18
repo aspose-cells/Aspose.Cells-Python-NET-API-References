@@ -8,7 +8,7 @@ url: /aspose.cells/commentcollection/get/
 is_root: false
 ---
 
-## get {#int}
+## get(self, index) {#int}
 
 Gets the [`Comment`](/cells/python-net/aspose.cells/comment) element at the specified index.
 
@@ -20,6 +20,7 @@ The element at the specified index.
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -30,7 +31,7 @@ def get(self, index):
 | index | int | The zero based index of the element. |
 
 
-## get {#str}
+## get(self, cell_name) {#str}
 
 Gets the [`Comment`](/cells/python-net/aspose.cells/comment) element at the specified cell.
 
@@ -42,6 +43,7 @@ The element at the specified cell.
 
 
 ```python
+
 def get(self, cell_name):
     ...
 ```
@@ -52,7 +54,7 @@ def get(self, cell_name):
 | cell_name | str | Cell name. |
 
 
-## get {#int-int}
+## get(self, row, column) {#int-int}
 
 Add API for Python Via .Net.since this[int, int] is unsupported
 
@@ -64,6 +66,7 @@ The element at the specified cell.
 
 
 ```python
+
 def get(self, row, column):
     ...
 ```

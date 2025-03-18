@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_sub_total/
 is_root: false
 ---
 
-## get_text_of_sub_total {#aspose.cells.pivot.PivotFieldSubtotalType}
+## get_text_of_sub_total(self, sub_total_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
 
 Gets the text of [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) type in the PivotTable.
 
@@ -20,6 +20,7 @@ The text of given type
 
 
 ```python
+
 def get_text_of_sub_total(self, sub_total_type):
     ...
 ```

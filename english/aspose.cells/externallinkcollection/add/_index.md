@@ -8,7 +8,7 @@ url: /aspose.cells/externallinkcollection/add/
 is_root: false
 ---
 
-## add {#str-list}
+## add(self, file_name, sheet_names) {#str-list}
 
 Adds an external link.
 
@@ -20,6 +20,7 @@ The position of the external name in this list.
 
 
 ```python
+
 def add(self, file_name, sheet_names):
     ...
 ```
@@ -31,7 +32,7 @@ def add(self, file_name, sheet_names):
 | sheet_names | list | All sheet names of the external file. |
 
 
-## add {#aspose.cells.DirectoryType-str-list}
+## add(self, directory_type, file_name, sheet_names) {#aspose.cells.DirectoryType-str-list}
 
 Add an external link .
 
@@ -43,6 +44,7 @@ The position of the external name in this list.
 
 
 ```python
+
 def add(self, directory_type, file_name, sheet_names):
     ...
 ```

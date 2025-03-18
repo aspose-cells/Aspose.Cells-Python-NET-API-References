@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_minutes/
 is_root: false
 ---
 
-## get_text_of_minutes {#}
+## get_text_of_minutes(self) {#}
 
 Gets the local text of "Minutes".
 
@@ -20,6 +20,7 @@ Gets the local text of "Minutes".
 
 
 ```python
+
 def get_text_of_minutes(self):
     ...
 ```

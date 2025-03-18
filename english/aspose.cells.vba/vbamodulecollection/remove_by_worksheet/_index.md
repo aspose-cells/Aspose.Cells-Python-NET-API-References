@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbamodulecollection/remove_by_worksheet/
 is_root: false
 ---
 
-## remove_by_worksheet {#aspose.cells.Worksheet}
+## remove_by_worksheet(self, sheet) {#aspose.cells.Worksheet}
 
 Removes module for a worksheet.
 
@@ -20,6 +20,7 @@ Removes module for a worksheet.
 
 
 ```python
+
 def remove_by_worksheet(self, sheet):
     ...
 ```

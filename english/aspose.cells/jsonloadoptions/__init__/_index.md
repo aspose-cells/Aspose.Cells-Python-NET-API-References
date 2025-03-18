@@ -8,13 +8,14 @@ url: /aspose.cells/jsonloadoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Creates an options of loading the file.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

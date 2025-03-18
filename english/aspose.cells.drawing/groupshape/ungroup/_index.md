@@ -3,18 +3,19 @@ title: ungroup method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /aspose.cells.drawing/groupshape/ungroup/
 is_root: false
 ---
 
-## ungroup {#}
+## ungroup(self) {#}
 
 Ungroups the shape items.
 
 
 
 ```python
+
 def ungroup(self):
     ...
 ```

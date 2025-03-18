@@ -3,12 +3,12 @@ title: get_column_width method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 360
 url: /aspose.cells/cells/get_column_width/
 is_root: false
 ---
 
-## get_column_width {#int}
+## get_column_width(self, column) {#int}
 
 Gets the width(in unit of characters) of the specified column in normal view
 
@@ -21,6 +21,7 @@ of the maximum digit width of the numbers 0~9 as rendered in the normal style's 
 
 
 ```python
+
 def get_column_width(self, column):
     ...
 ```
@@ -31,7 +32,7 @@ def get_column_width(self, column):
 | column | int | Column index |
 
 
-## get_column_width {#int-bool-aspose.cells.CellsUnitType}
+## get_column_width(self, column, is_original, unit_type) {#int-bool-aspose.cells.CellsUnitType}
 
 Gets the column width.
 
@@ -43,6 +44,7 @@ Gets the column width.
 
 
 ```python
+
 def get_column_width(self, column, is_original, unit_type):
     ...
 ```

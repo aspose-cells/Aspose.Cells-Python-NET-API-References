@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/get_sheet_by_code_name/
 is_root: false
 ---
 
-## get_sheet_by_code_name {#str}
+## get_sheet_by_code_name(self, code_name) {#str}
 
 Gets the worksheet by the code name.
 
@@ -20,6 +20,7 @@ The element with the specified code name.
 
 
 ```python
+
 def get_sheet_by_code_name(self, code_name):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.charts/trendlinecollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.charts.TrendlineType}
+## add(self, type) {#aspose.cells.charts.TrendlineType}
 
 Adds a [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) object to this collection with specified type.
 
@@ -20,6 +20,7 @@ Adds a [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) object to 
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -30,7 +31,7 @@ def add(self, type):
 | type | [`TrendlineType`](/cells/python-net/aspose.cells.charts/trendlinetype) | Trendline type. |
 
 
-## add {#aspose.cells.charts.TrendlineType-str}
+## add(self, type, name) {#aspose.cells.charts.TrendlineType-str}
 
 Adds a [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) object to this collection with specified type and name.
 
@@ -42,6 +43,7 @@ Adds a [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) object to 
 
 
 ```python
+
 def add(self, type, name):
     ...
 ```

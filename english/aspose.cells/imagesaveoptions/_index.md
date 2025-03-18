@@ -3,7 +3,7 @@ title: ImageSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 990
+weight: 1000
 url: /aspose.cells/imagesaveoptions/
 is_root: false
 ---
@@ -25,8 +25,8 @@ The ImageSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/imagesaveoptions/__init__/#) | Creates the options for saving image file. |
-| [__init__](/cells/python-net/aspose.cells/imagesaveoptions/__init__/#aspose.cells.SaveFormat) | Creates the options for saving image file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/imagesaveoptions/__init__/#) | Creates the options for saving image file. |
+| [`__init__(self, save_format)`](/cells/python-net/aspose.cells/imagesaveoptions/__init__/#aspose.cells.saveformat) | Creates the options for saving image file. |
 
 
 ### Properties

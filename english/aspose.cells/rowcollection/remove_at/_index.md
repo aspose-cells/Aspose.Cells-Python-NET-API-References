@@ -8,13 +8,14 @@ url: /aspose.cells/rowcollection/remove_at/
 is_root: false
 ---
 
-## remove_at {#int}
+## remove_at(self, index) {#int}
 
 Remove the row item at the specified index(position) in this collection.
 
 
 
 ```python
+
 def remove_at(self, index):
     ...
 ```

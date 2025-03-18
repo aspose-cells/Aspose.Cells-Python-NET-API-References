@@ -12,6 +12,10 @@ is_root: false
 
 
 Gets or set the start row of this area.
+### Definition:
+```python
+f start_row 
+```
 
 ### See Also
 * module [`aspose.cells`](../../)

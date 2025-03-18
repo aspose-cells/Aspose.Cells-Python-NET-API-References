@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotitemcollection/changeitems_order/
 is_root: false
 ---
 
-## changeitems_order {#int-int}
+## changeitems_order(self, source_index, dest_index) {#int-int}
 
 Directly changes the orders of the two items.
 
 
 
 ```python
+
 def changeitems_order(self, source_index, dest_index):
     ...
 ```

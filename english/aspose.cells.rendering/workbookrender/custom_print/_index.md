@@ -8,7 +8,7 @@ url: /aspose.cells.rendering/workbookrender/custom_print/
 is_root: false
 ---
 
-## custom_print {#bool-aspose.pydrawing.printing.PrintPageEventArgs}
+## custom_print(self, next_page_after_print, print_page_event_args) {#bool-aspose.pydrawing.printing.PrintPageEventArgs}
 
 Client can control page setting of printer when print each page using this function.
 
@@ -20,6 +20,7 @@ Indirect next page index,  based on zero
 
 
 ```python
+
 def custom_print(self, next_page_after_print, print_page_event_args):
     ...
 ```

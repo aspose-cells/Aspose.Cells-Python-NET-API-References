@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensiontaskpanecollection/add/
 is_root: false
 ---
 
-## add {#}
+## add(self) {#}
 
 Adds task pane.
 
@@ -20,6 +20,7 @@ The index.
 
 
 ```python
+
 def add(self):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/abstractglobalizationsettings/compare/
 is_root: false
 ---
 
-## compare {#str-str-bool}
+## compare(self, v1, v2, ignore_case) {#str-str-bool}
 
 Compares two string values according to certain collation rules.
 
@@ -20,6 +20,7 @@ Integer that indicates the lexical relationship between the two comparands
 
 
 ```python
+
 def compare(self, v1, v2, ignore_case):
     ...
 ```

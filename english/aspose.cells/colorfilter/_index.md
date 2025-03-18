@@ -25,7 +25,7 @@ The ColorFilter type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_color](/cells/python-net/aspose.cells/colorfilter/get_color/#aspose.cells.WorksheetCollection) | Gets the color of this filter. |
+| [`get_color(self, sheets)`](/cells/python-net/aspose.cells/colorfilter/get_color/#aspose.cells.worksheetcollection) | Gets the color of this filter. |
 
 
 

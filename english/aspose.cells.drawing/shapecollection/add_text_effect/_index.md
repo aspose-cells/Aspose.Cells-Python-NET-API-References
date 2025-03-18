@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_text_effect/
 is_root: false
 ---
 
-## add_text_effect {#aspose.cells.drawing.MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int-int-int}
+## add_text_effect(self, effect, text, font_name, size, font_bold, font_italic, upper_left_row, top, upper_left_column, left, height, width) {#aspose.cells.drawing.MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int-int-int}
 
 Inserts a WordArt object.
 
@@ -20,6 +20,7 @@ Returns a Shape object that represents the new WordArt object.
 
 
 ```python
+
 def add_text_effect(self, effect, text, font_name, size, font_bold, font_italic, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

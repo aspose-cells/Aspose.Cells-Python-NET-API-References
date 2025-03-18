@@ -3,18 +3,19 @@ title: update_selected_value method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells.drawing/dialogbox/update_selected_value/
 is_root: false
 ---
 
-## update_selected_value {#}
+## update_selected_value(self) {#}
 
 Update the selected value by the value of the linked cell.
 
 
 
 ```python
+
 def update_selected_value(self):
     ...
 ```

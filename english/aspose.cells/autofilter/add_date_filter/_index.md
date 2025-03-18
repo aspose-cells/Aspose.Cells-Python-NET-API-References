@@ -8,13 +8,14 @@ url: /aspose.cells/autofilter/add_date_filter/
 is_root: false
 ---
 
-## add_date_filter {#int-aspose.cells.DateTimeGroupingType-int-int-int-int-int-int}
+## add_date_filter(self, field_index, date_time_grouping_type, year, month, day, hour, minute, second) {#int-aspose.cells.DateTimeGroupingType-int-int-int-int-int-int}
 
 Adds a date filter.
 
 
 
 ```python
+
 def add_date_filter(self, field_index, date_time_grouping_type, year, month, day, hour, minute, second):
     ...
 ```

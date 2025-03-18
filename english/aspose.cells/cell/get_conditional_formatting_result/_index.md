@@ -8,13 +8,14 @@ url: /aspose.cells/cell/get_conditional_formatting_result/
 is_root: false
 ---
 
-## get_conditional_formatting_result {#}
+## get_conditional_formatting_result(self) {#}
 
 Get the result of the conditional formatting.
 
 
 
 ```python
+
 def get_conditional_formatting_result(self):
     ...
 ```

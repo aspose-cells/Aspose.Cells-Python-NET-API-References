@@ -3,12 +3,12 @@ title: create_cells_color method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /aspose.cells/workbook/create_cells_color/
 is_root: false
 ---
 
-## create_cells_color {#}
+## create_cells_color(self) {#}
 
 Creates a [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) object.
 
@@ -20,6 +20,7 @@ Returns a [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) object.
 
 
 ```python
+
 def create_cells_color(self):
     ...
 ```

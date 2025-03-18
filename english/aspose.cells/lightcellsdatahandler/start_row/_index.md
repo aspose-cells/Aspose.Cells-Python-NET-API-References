@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdatahandler/start_row/
 is_root: false
 ---
 
-## start_row {#int}
+## start_row(self, row_index) {#int}
 
 Prepares to process a row.
 
@@ -20,6 +20,7 @@ whether this row(properties or cells data) needs to be processed. false to ignor
 
 
 ```python
+
 def start_row(self, row_index):
     ...
 ```

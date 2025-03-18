@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.equations/delimiterequationnode/add_child/
 is_root: false
 ---
 
-## add_child {#aspose.cells.drawing.equations.EquationNodeType}
+## add_child(self, equation_type) {#aspose.cells.drawing.equations.EquationNodeType}
 
 Insert a node of the specified type at the end of the child node list of the current node.
 
@@ -20,6 +20,7 @@ If the specified type exists, the corresponding node is returned, and if the typ
 
 
 ```python
+
 def add_child(self, equation_type):
     ...
 ```
@@ -30,13 +31,14 @@ def add_child(self, equation_type):
 | equation_type | [`EquationNodeType`](/cells/python-net/aspose.cells.drawing.equations/equationnodetype) | Types of Equation Nodes |
 
 
-## add_child {#aspose.cells.drawing.equations.EquationNode}
+## add_child(self, node) {#aspose.cells.drawing.equations.EquationNode}
 
 Inserts the specified node at the end of the current node's list of child nodes.
 
 
 
 ```python
+
 def add_child(self, node):
     ...
 ```

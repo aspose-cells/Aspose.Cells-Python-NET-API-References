@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/gradientfill/set_gradient/
 is_root: false
 ---
 
-## set_gradient {#aspose.cells.drawing.GradientFillType-float-aspose.cells.drawing.GradientDirectionType}
+## set_gradient(self, type, angle, direction) {#aspose.cells.drawing.GradientFillType-float-aspose.cells.drawing.GradientDirectionType}
 
 Set the gradient fill type and direction.
 
 
 
 ```python
+
 def set_gradient(self, type, angle, direction):
     ...
 ```

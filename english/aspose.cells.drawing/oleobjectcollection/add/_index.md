@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/oleobjectcollection/add/
 is_root: false
 ---
 
-## add {#int-int-int-int-bytes}
+## add(self, upper_left_row, upper_left_column, height, width, image_data) {#int-int-int-int-bytes}
 
 Adds an OleObject to the collection.
 
@@ -20,6 +20,7 @@ Adds an OleObject to the collection.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, height, width, image_data):
     ...
 ```
@@ -34,7 +35,7 @@ def add(self, upper_left_row, upper_left_column, height, width, image_data):
 | image_data | bytes | Image of ole object as byte array. |
 
 
-## add {#int-int-int-int-bytes-str}
+## add(self, upper_left_row, upper_left_column, height, width, image_data, linked_file) {#int-int-int-int-bytes-str}
 
 Adds a linked OleObject to the collection.
 
@@ -46,6 +47,7 @@ Adds a linked OleObject to the collection.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, height, width, image_data, linked_file):
     ...
 ```

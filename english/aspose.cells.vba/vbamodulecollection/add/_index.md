@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbamodulecollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.Worksheet}
+## add(self, sheet) {#aspose.cells.Worksheet}
 
 Adds module for a worksheet.
 
@@ -20,6 +20,7 @@ Adds module for a worksheet.
 
 
 ```python
+
 def add(self, sheet):
     ...
 ```
@@ -30,7 +31,7 @@ def add(self, sheet):
 | sheet | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | The worksheet |
 
 
-## add {#aspose.cells.vba.VbaModuleType-str}
+## add(self, type, name) {#aspose.cells.vba.VbaModuleType-str}
 
 Adds module.
 
@@ -42,6 +43,7 @@ Adds module.
 
 
 ```python
+
 def add(self, type, name):
     ...
 ```

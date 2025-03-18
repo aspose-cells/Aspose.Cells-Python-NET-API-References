@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotitemcollection/swap_item/
 is_root: false
 ---
 
-## swap_item {#int-int}
+## swap_item(self, index1, index2) {#int-int}
 
 Directly swap two items.
 
 
 
 ```python
+
 def swap_item(self, index1, index2):
     ...
 ```

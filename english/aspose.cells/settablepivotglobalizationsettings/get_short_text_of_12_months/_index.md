@@ -8,7 +8,7 @@ url: /aspose.cells/settablepivotglobalizationsettings/get_short_text_of_12_month
 is_root: false
 ---
 
-## get_short_text_of_12_months {#}
+## get_short_text_of_12_months(self) {#}
 
 Gets all short formatted string of 12 months.
 
@@ -20,6 +20,7 @@ Gets all short formatted string of 12 months.
 
 
 ```python
+
 def get_short_text_of_12_months(self):
     ...
 ```

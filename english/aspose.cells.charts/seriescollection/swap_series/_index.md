@@ -8,13 +8,14 @@ url: /aspose.cells.charts/seriescollection/swap_series/
 is_root: false
 ---
 
-## swap_series {#int-int}
+## swap_series(self, source_index, dest_index) {#int-int}
 
 Directly changes the orders of the two series.
 
 
 
 ```python
+
 def swap_series(self, source_index, dest_index):
     ...
 ```

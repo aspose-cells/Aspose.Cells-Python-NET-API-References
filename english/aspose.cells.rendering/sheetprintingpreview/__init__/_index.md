@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/sheetprintingpreview/__init__/
 is_root: false
 ---
 
-## __init__ {#aspose.cells.Worksheet-aspose.cells.rendering.ImageOrPrintOptions}
+## \_\_init\_\_(self, sheet, options) {#aspose.cells.Worksheet-aspose.cells.rendering.ImageOrPrintOptions}
 
 The construct of SheetPrintingPreview
 
 
 
 ```python
+
 def __init__(self, sheet, options):
     ...
 ```

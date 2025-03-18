@@ -8,13 +8,14 @@ url: /aspose.cells.charts/chart/move/
 is_root: false
 ---
 
-## move {#int-int-int-int}
+## move(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column) {#int-int-int-int}
 
 Moves the chart to a specified location.
 
 
 
 ```python
+
 def move(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column):
     ...
 ```

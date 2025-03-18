@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagsetting/get/
 is_root: false
 ---
 
-## get {#int-int}
+## get(self, row, column) {#int-int}
 
 Add API for Python Via .Net.since this[int, int] is unsupported
 
@@ -21,6 +21,7 @@ Returns null if there is no any smart tags on the cell.
 
 
 ```python
+
 def get(self, row, column):
     ...
 ```

@@ -3,18 +3,19 @@ title: remove_external_links method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /aspose.cells/workbook/remove_external_links/
 is_root: false
 ---
 
-## remove_external_links {#}
+## remove_external_links(self) {#}
 
 Removes all external links in the workbook.
 
 
 
 ```python
+
 def remove_external_links(self):
     ...
 ```

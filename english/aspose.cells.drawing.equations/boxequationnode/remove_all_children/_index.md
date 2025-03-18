@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.equations/boxequationnode/remove_all_children/
 is_root: false
 ---
 
-## remove_all_children {#}
+## remove_all_children(self) {#}
 
 Removes all the child nodes of the current node.
 
 
 
 ```python
+
 def remove_all_children(self):
     ...
 ```

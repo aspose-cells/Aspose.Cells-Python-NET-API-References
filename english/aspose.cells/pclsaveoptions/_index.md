@@ -3,7 +3,7 @@ title: PclSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1260
+weight: 1270
 url: /aspose.cells/pclsaveoptions/
 is_root: false
 ---
@@ -25,7 +25,7 @@ The PclSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/pclsaveoptions/__init__/#) | Creates the options for saving pdf file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/pclsaveoptions/__init__/#) | Creates the options for saving pdf file. |
 
 
 ### Properties
@@ -67,7 +67,7 @@ The PclSaveOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_printer_font](/cells/python-net/aspose.cells/pclsaveoptions/add_printer_font/#str-str) | Adds information about font that is already added to the printer by manufacturer. |
+| [`add_printer_font(self, font_full_name, font_pcl_name)`](/cells/python-net/aspose.cells/pclsaveoptions/add_printer_font/#str-str) | Adds information about font that is already added to the printer by manufacturer. |
 
 
 

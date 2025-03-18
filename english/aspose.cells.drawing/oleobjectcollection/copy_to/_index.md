@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/oleobjectcollection/copy_to/
 is_root: false
 ---
 
-## copy_to {#list}
+## copy_to(self, array) {#list}
 
 Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list.
 
 
 
 ```python
+
 def copy_to(self, array):
     ...
 ```
@@ -25,13 +26,14 @@ def copy_to(self, array):
 | array | list | The one-dimensional array list that is the destination of the elements copied array list. The array list must have zero-based indexing. |
 
 
-## copy_to {#int-list-int-int}
+## copy_to(self, index, array, array_index, count) {#int-list-int-int}
 
 Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list.
 
 
 
 ```python
+
 def copy_to(self, index, array, array_index, count):
     ...
 ```

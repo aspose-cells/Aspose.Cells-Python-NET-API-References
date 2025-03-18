@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/imageorprintoptions/set_desired_size/
 is_root: false
 ---
 
-## set_desired_size {#int-int}
+## set_desired_size(self, desired_width, desired_height) {#int-int}
 
 Sets desired width and height of image.
 
 
 
 ```python
+
 def set_desired_size(self, desired_width, desired_height):
     ...
 ```
@@ -31,13 +32,14 @@ please use [`ImageOrPrintOptions.set_desired_size`](/cells/python-net/aspose.cel
 This property will be removed 12 months later since May 2023. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## set_desired_size {#int-int-bool}
+## set_desired_size(self, desired_width, desired_height, keep_aspect_ratio) {#int-int-bool}
 
 Sets desired width and height of image.
 
 
 
 ```python
+
 def set_desired_size(self, desired_width, desired_height, keep_aspect_ratio):
     ...
 ```

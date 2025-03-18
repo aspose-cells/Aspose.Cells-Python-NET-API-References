@@ -54,152 +54,151 @@ The Cells type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [create_range](/cells/python-net/aspose.cells/cells/create_range/#str-str) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells. |
-| [create_range](/cells/python-net/aspose.cells/cells/create_range/#int-int-int-int) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells. |
-| [create_range](/cells/python-net/aspose.cells/cells/create_range/#str) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from an address of the range. |
-| [create_range](/cells/python-net/aspose.cells/cells/create_range/#int-int-bool) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from rows of cells or columns of cells. |
-| [get](/cells/python-net/aspose.cells/cells/get/#int-int) | Add API for Python Via .Net.since this[int row, int column] is unsupported |
-| [get](/cells/python-net/aspose.cells/cells/get/#str) | Add API for Python Via .Net.since this[string cellName] is unsupported |
-| [import_object_array](/cells/python-net/aspose.cells/cells/import_object_array/#list-int-int-bool) | Imports an array of data into a worksheet. |
-| [import_object_array](/cells/python-net/aspose.cells/cells/import_object_array/#list-int-int-bool-int) | Imports an array of data into a worksheet. |
-| [import_array](/cells/python-net/aspose.cells/cells/import_array/#list-int-int-bool) | Imports an array of string into a worksheet. |
-| [import_array](/cells/python-net/aspose.cells/cells/import_array/#list-int-int-bool) | Imports an array of integer into a worksheet. |
-| [import_array](/cells/python-net/aspose.cells/cells/import_array/#list-int-int-bool) | Imports an array of double into a worksheet. |
-| [import_csv](/cells/python-net/aspose.cells/cells/import_csv/#str-str-bool-int-int) | Import a CSV file to the cells. |
-| [import_csv](/cells/python-net/aspose.cells/cells/import_csv/#io.RawIOBase-str-bool-int-int) | Import a CSV file to the cells. |
-| [import_csv](/cells/python-net/aspose.cells/cells/import_csv/#str-aspose.cells.TxtLoadOptions-int-int) | Import a CSV file to the cells. |
-| [import_csv](/cells/python-net/aspose.cells/cells/import_csv/#io.RawIOBase-aspose.cells.TxtLoadOptions-int-int) | Import a CSV file to the cells. |
-| [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int) | Merges a specified range of cells into a single cell. |
-| [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int-bool) | Merges a specified range of cells into a single cell. |
-| [merge](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int-bool-bool) | Merges a specified range of cells into a single cell. |
-| [get_row_height](/cells/python-net/aspose.cells/cells/get_row_height/#int-bool-aspose.cells.CellsUnitType) | Gets row's height. |
-| [get_row_height](/cells/python-net/aspose.cells/cells/get_row_height/#int) | Gets the height of a specified row, in unit of points. |
-| [get_column_width](/cells/python-net/aspose.cells/cells/get_column_width/#int-bool-aspose.cells.CellsUnitType) | Gets the column width. |
-| [get_column_width](/cells/python-net/aspose.cells/cells/get_column_width/#int) | Gets the width(in unit of characters) of the specified column in normal view |
-| [get_column_width_pixel](/cells/python-net/aspose.cells/cells/get_column_width_pixel/#int) | Gets the width of the specified column in normal view, in units of pixel. |
-| [get_column_width_pixel](/cells/python-net/aspose.cells/cells/get_column_width_pixel/#int-bool) | Gets the width of the specified column in normal view, in units of pixel. |
-| [copy_columns](/cells/python-net/aspose.cells/cells/copy_columns/#aspose.cells.Cells-int-int-int-aspose.cells.PasteOptions) | Copies data and formats of a whole column. |
-| [copy_columns](/cells/python-net/aspose.cells/cells/copy_columns/#aspose.cells.Cells-int-int-int) | Copies data and formats of a whole column. |
-| [copy_columns](/cells/python-net/aspose.cells/cells/copy_columns/#aspose.cells.Cells-int-int-int-int) | Copies data and formats of the whole columns. |
-| [copy_rows](/cells/python-net/aspose.cells/cells/copy_rows/#aspose.cells.Cells-int-int-int) | Copies data and formats of some whole rows. |
-| [copy_rows](/cells/python-net/aspose.cells/cells/copy_rows/#aspose.cells.Cells-int-int-int-aspose.cells.CopyOptions) | Copies data and formats of some whole rows. |
-| [copy_rows](/cells/python-net/aspose.cells/cells/copy_rows/#aspose.cells.Cells-int-int-int-aspose.cells.CopyOptions-aspose.cells.PasteOptions) | Copies data and formats of some whole rows. |
-| [group_columns](/cells/python-net/aspose.cells/cells/group_columns/#int-int) | Groups columns. |
-| [group_columns](/cells/python-net/aspose.cells/cells/group_columns/#int-int-bool) | Groups columns. |
-| [ungroup_rows](/cells/python-net/aspose.cells/cells/ungroup_rows/#int-int-bool) | Ungroups rows. |
-| [ungroup_rows](/cells/python-net/aspose.cells/cells/ungroup_rows/#int-int) | Ungroups rows. |
-| [group_rows](/cells/python-net/aspose.cells/cells/group_rows/#int-int-bool) | Groups rows. |
-| [group_rows](/cells/python-net/aspose.cells/cells/group_rows/#int-int) | Groups rows. |
-| [delete_column](/cells/python-net/aspose.cells/cells/delete_column/#int-bool) | Deletes a column. |
-| [delete_column](/cells/python-net/aspose.cells/cells/delete_column/#int) | Deletes a column. |
-| [delete_columns](/cells/python-net/aspose.cells/cells/delete_columns/#int-int-bool) | Deletes several columns. |
-| [delete_columns](/cells/python-net/aspose.cells/cells/delete_columns/#int-int-aspose.cells.DeleteOptions) | Deletes several columns. |
-| [delete_row](/cells/python-net/aspose.cells/cells/delete_row/#int) | Deletes a row. |
-| [delete_row](/cells/python-net/aspose.cells/cells/delete_row/#int-bool) | Deletes a row. |
-| [delete_rows](/cells/python-net/aspose.cells/cells/delete_rows/#int-int) | Deletes multiple rows. |
-| [delete_rows](/cells/python-net/aspose.cells/cells/delete_rows/#int-int-bool) | Deletes multiple rows in the worksheet. |
-| [delete_rows](/cells/python-net/aspose.cells/cells/delete_rows/#int-int-aspose.cells.DeleteOptions) | Deletes multiple rows in the worksheet. |
-| [delete_blank_columns](/cells/python-net/aspose.cells/cells/delete_blank_columns/#) | Delete all blank columns which do not contain any data. |
-| [delete_blank_columns](/cells/python-net/aspose.cells/cells/delete_blank_columns/#aspose.cells.DeleteOptions) | Delete all blank columns which do not contain any data. |
-| [delete_blank_rows](/cells/python-net/aspose.cells/cells/delete_blank_rows/#) | Delete all blank rows which do not contain any data or other object. |
-| [delete_blank_rows](/cells/python-net/aspose.cells/cells/delete_blank_rows/#aspose.cells.DeleteOptions) | Delete all blank rows which do not contain any data or some special objects such as visible comment, pivot table. |
-| [insert_columns](/cells/python-net/aspose.cells/cells/insert_columns/#int-int) | Inserts some columns into the worksheet. |
-| [insert_columns](/cells/python-net/aspose.cells/cells/insert_columns/#int-int-bool) | Inserts some columns into the worksheet. |
-| [insert_columns](/cells/python-net/aspose.cells/cells/insert_columns/#int-int-aspose.cells.InsertOptions) | Inserts some columns into the worksheet. |
-| [insert_column](/cells/python-net/aspose.cells/cells/insert_column/#int-bool) | Inserts a new column into the worksheet. |
-| [insert_column](/cells/python-net/aspose.cells/cells/insert_column/#int) | Inserts a new column into the worksheet. |
-| [insert_rows](/cells/python-net/aspose.cells/cells/insert_rows/#int-int-bool) | Inserts multiple rows into the worksheet. |
-| [insert_rows](/cells/python-net/aspose.cells/cells/insert_rows/#int-int-aspose.cells.InsertOptions) | Inserts multiple rows into the worksheet. |
-| [insert_rows](/cells/python-net/aspose.cells/cells/insert_rows/#int-int) | Inserts multiple rows into the worksheet. |
-| [clear_range](/cells/python-net/aspose.cells/cells/clear_range/#aspose.cells.CellArea) | Clears contents and formatting of a range. |
-| [clear_range](/cells/python-net/aspose.cells/cells/clear_range/#int-int-int-int) | Clears contents and formatting of a range. |
-| [clear_contents](/cells/python-net/aspose.cells/cells/clear_contents/#aspose.cells.CellArea) | Clears contents of a range. |
-| [clear_contents](/cells/python-net/aspose.cells/cells/clear_contents/#int-int-int-int) | Clears contents of a range. |
-| [clear_formats](/cells/python-net/aspose.cells/cells/clear_formats/#aspose.cells.CellArea) | Clears formatting of a range. |
-| [clear_formats](/cells/python-net/aspose.cells/cells/clear_formats/#int-int-int-int) | Clears formatting of a range. |
-| [find](/cells/python-net/aspose.cells/cells/find/#any-aspose.cells.Cell) | Finds the cell containing with the input object. |
-| [find](/cells/python-net/aspose.cells/cells/find/#any-aspose.cells.Cell-aspose.cells.FindOptions) | Finds the cell containing with the input object. |
-| [end_cell_in_row](/cells/python-net/aspose.cells/cells/end_cell_in_row/#int) | Gets the last cell in this row. |
-| [end_cell_in_row](/cells/python-net/aspose.cells/cells/end_cell_in_row/#int-int-int-int) | Gets the last cell with maximum row index in this range. |
-| [end_cell_in_column](/cells/python-net/aspose.cells/cells/end_cell_in_column/#int) | Gets the last cell in this column. |
-| [end_cell_in_column](/cells/python-net/aspose.cells/cells/end_cell_in_column/#int-int-int-int) | Gets the last cell with maximum column index in this range. |
-| [insert_range](/cells/python-net/aspose.cells/cells/insert_range/#aspose.cells.CellArea-int-aspose.cells.ShiftType-bool) | Inserts a range of cells and shift cells according to the shift option. |
-| [insert_range](/cells/python-net/aspose.cells/cells/insert_range/#aspose.cells.CellArea-aspose.cells.ShiftType) | Inserts a range of cells and shift cells according to the shift option. |
-| [insert_range](/cells/python-net/aspose.cells/cells/insert_range/#aspose.cells.CellArea-int-aspose.cells.ShiftType) | Inserts a range of cells and shift cells according to the shift option. |
-| [import_custom_objects](/cells/python-net/aspose.cells/cells/import_custom_objects/#list-list-bool-int-int-int-bool-str-bool) | Imports custom objects. |
-| [import_custom_objects](/cells/python-net/aspose.cells/cells/import_custom_objects/#list-int-int-aspose.cells.ImportTableOptions) | Imports custom objects. |
-| [subtotal](/cells/python-net/aspose.cells/cells/subtotal/#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list) | Creates subtotals for the range. |
-| [subtotal](/cells/python-net/aspose.cells/cells/subtotal/#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list-bool-bool-bool) | Creates subtotals for the range. |
-| [remove_duplicates](/cells/python-net/aspose.cells/cells/remove_duplicates/#) | Removes duplicate rows in the sheet. |
-| [remove_duplicates](/cells/python-net/aspose.cells/cells/remove_duplicates/#int-int-int-int) | Removes duplicate values in the range. |
-| [remove_duplicates](/cells/python-net/aspose.cells/cells/remove_duplicates/#int-int-int-int-bool-list) | Removes duplicate data of the range. |
-| [get_row_enumerator](/cells/python-net/aspose.cells/cells/get_row_enumerator/#) | Gets the rows enumerator. |
-| [get_merged_areas](/cells/python-net/aspose.cells/cells/get_merged_areas/#) | Gets all merged cells. |
-| [get_cell](/cells/python-net/aspose.cells/cells/get_cell/#int-int) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) element or null at the specified cell row index and column index. |
-| [get_row](/cells/python-net/aspose.cells/cells/get_row/#int) | Gets the [`Row`](/cells/python-net/aspose.cells/row) element at the specified cell row index. |
-| [check_cell](/cells/python-net/aspose.cells/cells/check_cell/#int-int) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) element or null at the specified cell row index and column index. |
-| [check_row](/cells/python-net/aspose.cells/cells/check_row/#int) | Gets the [`Row`](/cells/python-net/aspose.cells/row) element or null at the specified cell row index. |
-| [check_column](/cells/python-net/aspose.cells/cells/check_column/#int) | Gets the [`Column`](/cells/python-net/aspose.cells/column) element or null at the specified column index. |
-| [is_row_hidden](/cells/python-net/aspose.cells/cells/is_row_hidden/#int) | Checks whether a row at given index is hidden. |
-| [is_column_hidden](/cells/python-net/aspose.cells/cells/is_column_hidden/#int) | Checks whether a column at given index is hidden. |
-| [add_range](/cells/python-net/aspose.cells/cells/add_range/#aspose.cells.Range) | Adds a range object reference to cells |
-| [clear](/cells/python-net/aspose.cells/cells/clear/#) | Clears all data of the worksheet. |
-| [import_data](/cells/python-net/aspose.cells/cells/import_data/#aspose.cells.ICellsDataTable-int-int-aspose.cells.ImportTableOptions) | Import data from custom data table. |
-| [import_array_list](/cells/python-net/aspose.cells/cells/import_array_list/#list-int-int-bool) | Imports an arraylist of data into a worksheet. |
-| [import_formula_array](/cells/python-net/aspose.cells/cells/import_formula_array/#list-int-int-bool) | Imports an array of formula into a worksheet. |
-| [text_to_columns](/cells/python-net/aspose.cells/cells/text_to_columns/#int-int-int-aspose.cells.TxtLoadOptions) | Splits content in specified column into multiple columns.. |
-| [un_merge](/cells/python-net/aspose.cells/cells/un_merge/#int-int-int-int) | Unmerges a specified range of merged cells. |
-| [clear_merged_cells](/cells/python-net/aspose.cells/cells/clear_merged_cells/#) | Clears all merged ranges. |
-| [hide_row](/cells/python-net/aspose.cells/cells/hide_row/#int) | Hides a row. |
-| [unhide_row](/cells/python-net/aspose.cells/cells/unhide_row/#int-float) | Unhides a row. |
-| [hide_rows](/cells/python-net/aspose.cells/cells/hide_rows/#int-int) | Hides multiple rows. |
-| [unhide_rows](/cells/python-net/aspose.cells/cells/unhide_rows/#int-int-float) | Unhides the hidden rows. |
-| [set_row_height_pixel](/cells/python-net/aspose.cells/cells/set_row_height_pixel/#int-int) | Sets row height in unit of pixels. |
-| [set_row_height_inch](/cells/python-net/aspose.cells/cells/set_row_height_inch/#int-float) | Sets row height in unit of inches. |
-| [set_row_height](/cells/python-net/aspose.cells/cells/set_row_height/#int-float) | Sets the height of the specified row. |
-| [get_row_original_height_point](/cells/python-net/aspose.cells/cells/get_row_original_height_point/#int) | Gets original row's height in unit of point if the row is hidden |
-| [get_column_original_width_point](/cells/python-net/aspose.cells/cells/get_column_original_width_point/#int) | Gets original column's height in unit of point if the column is hidden |
-| [hide_column](/cells/python-net/aspose.cells/cells/hide_column/#int) | Hides a column. |
-| [unhide_column](/cells/python-net/aspose.cells/cells/unhide_column/#int-float) | Unhides a column |
-| [hide_columns](/cells/python-net/aspose.cells/cells/hide_columns/#int-int) | Hide multiple columns. |
-| [unhide_columns](/cells/python-net/aspose.cells/cells/unhide_columns/#int-int-float) | Unhide multiple columns. |
-| [get_view_row_height](/cells/python-net/aspose.cells/cells/get_view_row_height/#int) | Gets the height of a specified row. |
-| [get_row_height_inch](/cells/python-net/aspose.cells/cells/get_row_height_inch/#int) | Gets the height of a specified row in unit of inches. |
-| [get_view_row_height_inch](/cells/python-net/aspose.cells/cells/get_view_row_height_inch/#int) | Gets the height of a specified row in unit of inches. |
-| [get_row_height_pixel](/cells/python-net/aspose.cells/cells/get_row_height_pixel/#int) | Gets the height of a specified row in unit of pixel. |
-| [set_column_width_pixel](/cells/python-net/aspose.cells/cells/set_column_width_pixel/#int-int) | Sets column width in unit of pixels in normal view. |
-| [set_column_width_inch](/cells/python-net/aspose.cells/cells/set_column_width_inch/#int-float) | Sets column width in unit of inches  in normal view. |
-| [set_column_width](/cells/python-net/aspose.cells/cells/set_column_width/#int-float) | Sets the width of the specified column in normal view. |
-| [get_column_width_inch](/cells/python-net/aspose.cells/cells/get_column_width_inch/#int) | Gets the width of the specified column in normal view, in units of inches. |
-| [get_view_column_width_pixel](/cells/python-net/aspose.cells/cells/get_view_column_width_pixel/#int) | Get the width in different view type. |
-| [set_view_column_width_pixel](/cells/python-net/aspose.cells/cells/set_view_column_width_pixel/#int-int) | Sets the width of the column in different view. |
-| [get_last_data_row](/cells/python-net/aspose.cells/cells/get_last_data_row/#int) | Gets the last row index of cell which contains data in the specified column. |
-| [apply_column_style](/cells/python-net/aspose.cells/cells/apply_column_style/#int-aspose.cells.Style-aspose.cells.StyleFlag) | Applies formats for a whole column. |
-| [apply_row_style](/cells/python-net/aspose.cells/cells/apply_row_style/#int-aspose.cells.Style-aspose.cells.StyleFlag) | Applies formats for a whole row. |
-| [apply_style](/cells/python-net/aspose.cells/cells/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Applies formats for a whole worksheet. |
-| [copy_column](/cells/python-net/aspose.cells/cells/copy_column/#aspose.cells.Cells-int-int) | Copies data and formats of a whole column. |
-| [copy_row](/cells/python-net/aspose.cells/cells/copy_row/#aspose.cells.Cells-int-int) | Copies data and formats of a whole row. |
-| [get_grouped_row_outline_level](/cells/python-net/aspose.cells/cells/get_grouped_row_outline_level/#int) | Gets the outline level (zero-based) of the row. |
-| [get_grouped_column_outline_level](/cells/python-net/aspose.cells/cells/get_grouped_column_outline_level/#int) | Gets the outline level (zero-based) of the column. |
-| [get_max_grouped_column_outline_level](/cells/python-net/aspose.cells/cells/get_max_grouped_column_outline_level/#) | Gets the max grouped column outline level (zero-based). |
-| [get_max_grouped_row_outline_level](/cells/python-net/aspose.cells/cells/get_max_grouped_row_outline_level/#) | Gets the max grouped row outline level (zero-based). |
-| [show_group_detail](/cells/python-net/aspose.cells/cells/show_group_detail/#bool-int) | Expands the grouped rows/columns. |
-| [hide_group_detail](/cells/python-net/aspose.cells/cells/hide_group_detail/#bool-int) | Collapses the grouped rows/columns. |
-| [ungroup_columns](/cells/python-net/aspose.cells/cells/ungroup_columns/#int-int) | Ungroups columns. |
-| [is_deleting_range_enabled](/cells/python-net/aspose.cells/cells/is_deleting_range_enabled/#int-int-int-int) | Check whether the range could be deleted. |
-| [is_blank_column](/cells/python-net/aspose.cells/cells/is_blank_column/#int) | Checks whether given column is blank(does not contain any data). |
-| [insert_row](/cells/python-net/aspose.cells/cells/insert_row/#int) | Inserts a new row into the worksheet. |
-| [link_to_xml_map](/cells/python-net/aspose.cells/cells/link_to_xml_map/#str-int-int-str) | Link to a xml map. |
-| [move_range](/cells/python-net/aspose.cells/cells/move_range/#aspose.cells.CellArea-int-int) | Moves the range. |
-| [insert_cut_cells](/cells/python-net/aspose.cells/cells/insert_cut_cells/#aspose.cells.Range-int-int-aspose.cells.ShiftType) | Insert cut range. |
-| [delete_range](/cells/python-net/aspose.cells/cells/delete_range/#int-int-int-int-aspose.cells.ShiftType) | Deletes a range of cells and shift cells according to the shift option. |
-| [retrieve_subtotal_setting](/cells/python-net/aspose.cells/cells/retrieve_subtotal_setting/#aspose.cells.CellArea) | Retrieves subtotals setting of the range. |
-| [remove_formulas](/cells/python-net/aspose.cells/cells/remove_formulas/#) | Removes all formula and replaces with the value of the formula. |
-| [convert_string_to_numeric_value](/cells/python-net/aspose.cells/cells/convert_string_to_numeric_value/#) | Converts all string data in the worksheet to numeric value if possible. |
-| [get_dependents](/cells/python-net/aspose.cells/cells/get_dependents/#bool-int-int) | Get all cells which refer to the specific cell. |
-| [get_dependents_in_calculation](/cells/python-net/aspose.cells/cells/get_dependents_in_calculation/#int-int-bool) | Gets all cells whose calculated result depends on specific cell. |
-| [get_cells_with_place_in_cell_picture](/cells/python-net/aspose.cells/cells/get_cells_with_place_in_cell_picture/#) | Gets all cells that contain embedded picture. |
-| [get_cell_style](/cells/python-net/aspose.cells/cells/get_cell_style/#int-int) | Get the style of given cell. |
+| [`create_range(self, upper_left_cell, lower_right_cell)`](/cells/python-net/aspose.cells/cells/create_range/#str-str) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells. |
+| [`create_range(self, first_row, first_column, total_rows, total_columns)`](/cells/python-net/aspose.cells/cells/create_range/#int-int-int-int) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells. |
+| [`create_range(self, address)`](/cells/python-net/aspose.cells/cells/create_range/#str) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from an address of the range. |
+| [`create_range(self, first_index, number, is_vertical)`](/cells/python-net/aspose.cells/cells/create_range/#int-int-bool) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from rows of cells or columns of cells. |
+| [`get(self, row, column)`](/cells/python-net/aspose.cells/cells/get/#int-int) | Add API for Python Via .Net.since this[int row, int column] is unsupported |
+| [`get(self, cell_name)`](/cells/python-net/aspose.cells/cells/get/#str) | Add API for Python Via .Net.since this[string cellName] is unsupported |
+| [`import_object_array(self, obj_array, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_object_array/#list-int-int-bool) | Imports an array of data into a worksheet. |
+| [`import_object_array(self, obj_array, first_row, first_column, is_vertical, skip)`](/cells/python-net/aspose.cells/cells/import_object_array/#list-int-int-bool-int) | Imports an array of data into a worksheet. |
+| [`import_array(self, string_array, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_array/#list-int-int-bool) | Imports an array of string into a worksheet. |
+| [`import_array(self, int_array, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_array/#list-int-int-bool) | Imports an array of integer into a worksheet. |
+| [`import_array(self, double_array, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_array/#list-int-int-bool) | Imports an array of double into a worksheet. |
+| [`import_csv(self, file_name, splitter, convert_numeric_data, first_row, first_column)`](/cells/python-net/aspose.cells/cells/import_csv/#str-str-bool-int-int) | Import a CSV file to the cells. |
+| [`import_csv(self, stream, splitter, convert_numeric_data, first_row, first_column)`](/cells/python-net/aspose.cells/cells/import_csv/#io.rawiobase-str-bool-int-int) | Import a CSV file to the cells. |
+| [`import_csv(self, file_name, options, first_row, first_column)`](/cells/python-net/aspose.cells/cells/import_csv/#str-aspose.cells.txtloadoptions-int-int) | Import a CSV file to the cells. |
+| [`import_csv(self, stream, options, first_row, first_column)`](/cells/python-net/aspose.cells/cells/import_csv/#io.rawiobase-aspose.cells.txtloadoptions-int-int) | Import a CSV file to the cells. |
+| [`merge(self, first_row, first_column, total_rows, total_columns)`](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int) | Merges a specified range of cells into a single cell. |
+| [`merge(self, first_row, first_column, total_rows, total_columns, merge_conflict)`](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int-bool) | Merges a specified range of cells into a single cell. |
+| [`merge(self, first_row, first_column, total_rows, total_columns, check_conflict, merge_conflict)`](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int-bool-bool) | Merges a specified range of cells into a single cell. |
+| [`get_row_height(self, row, is_original, unit_type)`](/cells/python-net/aspose.cells/cells/get_row_height/#int-bool-aspose.cells.cellsunittype) | Gets row's height. |
+| [`get_row_height(self, row)`](/cells/python-net/aspose.cells/cells/get_row_height/#int) | Gets the height of a specified row, in unit of points. |
+| [`get_column_width(self, column, is_original, unit_type)`](/cells/python-net/aspose.cells/cells/get_column_width/#int-bool-aspose.cells.cellsunittype) | Gets the column width. |
+| [`get_column_width(self, column)`](/cells/python-net/aspose.cells/cells/get_column_width/#int) | Gets the width(in unit of characters) of the specified column in normal view |
+| [`get_column_width_pixel(self, column)`](/cells/python-net/aspose.cells/cells/get_column_width_pixel/#int) | Gets the width of the specified column in normal view, in units of pixel. |
+| [`get_column_width_pixel(self, column, original)`](/cells/python-net/aspose.cells/cells/get_column_width_pixel/#int-bool) | Gets the width of the specified column in normal view, in units of pixel. |
+| [`copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number, paste_options)`](/cells/python-net/aspose.cells/cells/copy_columns/#aspose.cells.cells-int-int-int-aspose.cells.pasteoptions) | Copies data and formats of a whole column. |
+| [`copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number)`](/cells/python-net/aspose.cells/cells/copy_columns/#aspose.cells.cells-int-int-int) | Copies data and formats of a whole column. |
+| [`copy_columns(self, source_cells, source_column_index, source_total_columns, destination_column_index, destination_total_columns)`](/cells/python-net/aspose.cells/cells/copy_columns/#aspose.cells.cells-int-int-int-int) | Copies data and formats of the whole columns. |
+| [`copy_rows(self, source_cells, source_row_index, destination_row_index, row_number)`](/cells/python-net/aspose.cells/cells/copy_rows/#aspose.cells.cells-int-int-int) | Copies data and formats of some whole rows. |
+| [`copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options)`](/cells/python-net/aspose.cells/cells/copy_rows/#aspose.cells.cells-int-int-int-aspose.cells.copyoptions) | Copies data and formats of some whole rows. |
+| [`copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options, paste_options)`](/cells/python-net/aspose.cells/cells/copy_rows/#aspose.cells.cells-int-int-int-aspose.cells.copyoptions-aspose.cells.pasteoptions) | Copies data and formats of some whole rows. |
+| [`group_columns(self, first_index, last_index)`](/cells/python-net/aspose.cells/cells/group_columns/#int-int) | Groups columns. |
+| [`group_columns(self, first_index, last_index, is_hidden)`](/cells/python-net/aspose.cells/cells/group_columns/#int-int-bool) | Groups columns. |
+| [`ungroup_rows(self, first_index, last_index, is_all)`](/cells/python-net/aspose.cells/cells/ungroup_rows/#int-int-bool) | Ungroups rows. |
+| [`ungroup_rows(self, first_index, last_index)`](/cells/python-net/aspose.cells/cells/ungroup_rows/#int-int) | Ungroups rows. |
+| [`group_rows(self, first_index, last_index, is_hidden)`](/cells/python-net/aspose.cells/cells/group_rows/#int-int-bool) | Groups rows. |
+| [`group_rows(self, first_index, last_index)`](/cells/python-net/aspose.cells/cells/group_rows/#int-int) | Groups rows. |
+| [`delete_column(self, column_index, update_reference)`](/cells/python-net/aspose.cells/cells/delete_column/#int-bool) | Deletes a column. |
+| [`delete_column(self, column_index)`](/cells/python-net/aspose.cells/cells/delete_column/#int) | Deletes a column. |
+| [`delete_columns(self, column_index, total_columns, update_reference)`](/cells/python-net/aspose.cells/cells/delete_columns/#int-int-bool) | Deletes several columns. |
+| [`delete_columns(self, column_index, total_columns, options)`](/cells/python-net/aspose.cells/cells/delete_columns/#int-int-aspose.cells.deleteoptions) | Deletes several columns. |
+| [`delete_row(self, row_index)`](/cells/python-net/aspose.cells/cells/delete_row/#int) | Deletes a row. |
+| [`delete_row(self, row_index, update_reference)`](/cells/python-net/aspose.cells/cells/delete_row/#int-bool) | Deletes a row. |
+| [`delete_rows(self, row_index, total_rows)`](/cells/python-net/aspose.cells/cells/delete_rows/#int-int) | Deletes multiple rows. |
+| [`delete_rows(self, row_index, total_rows, update_reference)`](/cells/python-net/aspose.cells/cells/delete_rows/#int-int-bool) | Deletes multiple rows in the worksheet. |
+| [`delete_rows(self, row_index, total_rows, options)`](/cells/python-net/aspose.cells/cells/delete_rows/#int-int-aspose.cells.deleteoptions) | Deletes multiple rows in the worksheet. |
+| [`delete_blank_columns(self)`](/cells/python-net/aspose.cells/cells/delete_blank_columns/#) | Delete all blank columns which do not contain any data. |
+| [`delete_blank_columns(self, options)`](/cells/python-net/aspose.cells/cells/delete_blank_columns/#aspose.cells.deleteoptions) | Delete all blank columns which do not contain any data. |
+| [`delete_blank_rows(self)`](/cells/python-net/aspose.cells/cells/delete_blank_rows/#) | Delete all blank rows which do not contain any data or other object. |
+| [`delete_blank_rows(self, options)`](/cells/python-net/aspose.cells/cells/delete_blank_rows/#aspose.cells.deleteoptions) | Delete all blank rows which do not contain any data or some special objects such as visible comment, pivot table. |
+| [`insert_columns(self, column_index, total_columns)`](/cells/python-net/aspose.cells/cells/insert_columns/#int-int) | Inserts some columns into the worksheet. |
+| [`insert_columns(self, column_index, total_columns, update_reference)`](/cells/python-net/aspose.cells/cells/insert_columns/#int-int-bool) | Inserts some columns into the worksheet. |
+| [`insert_columns(self, column_index, total_columns, options)`](/cells/python-net/aspose.cells/cells/insert_columns/#int-int-aspose.cells.insertoptions) | Inserts some columns into the worksheet. |
+| [`insert_column(self, column_index, update_reference)`](/cells/python-net/aspose.cells/cells/insert_column/#int-bool) | Inserts a new column into the worksheet. |
+| [`insert_column(self, column_index)`](/cells/python-net/aspose.cells/cells/insert_column/#int) | Inserts a new column into the worksheet. |
+| [`insert_rows(self, row_index, total_rows, update_reference)`](/cells/python-net/aspose.cells/cells/insert_rows/#int-int-bool) | Inserts multiple rows into the worksheet. |
+| [`insert_rows(self, row_index, total_rows, options)`](/cells/python-net/aspose.cells/cells/insert_rows/#int-int-aspose.cells.insertoptions) | Inserts multiple rows into the worksheet. |
+| [`insert_rows(self, row_index, total_rows)`](/cells/python-net/aspose.cells/cells/insert_rows/#int-int) | Inserts multiple rows into the worksheet. |
+| [`clear_range(self, range)`](/cells/python-net/aspose.cells/cells/clear_range/#aspose.cells.cellarea) | Clears contents and formatting of a range. |
+| [`clear_range(self, start_row, start_column, end_row, end_column)`](/cells/python-net/aspose.cells/cells/clear_range/#int-int-int-int) | Clears contents and formatting of a range. |
+| [`clear_contents(self, range)`](/cells/python-net/aspose.cells/cells/clear_contents/#aspose.cells.cellarea) | Clears contents of a range. |
+| [`clear_contents(self, start_row, start_column, end_row, end_column)`](/cells/python-net/aspose.cells/cells/clear_contents/#int-int-int-int) | Clears contents of a range. |
+| [`clear_formats(self, range)`](/cells/python-net/aspose.cells/cells/clear_formats/#aspose.cells.cellarea) | Clears formatting of a range. |
+| [`clear_formats(self, start_row, start_column, end_row, end_column)`](/cells/python-net/aspose.cells/cells/clear_formats/#int-int-int-int) | Clears formatting of a range. |
+| [`find(self, what, previous_cell)`](/cells/python-net/aspose.cells/cells/find/#any-aspose.cells.cell) | Finds the cell containing with the input object. |
+| [`find(self, what, previous_cell, find_options)`](/cells/python-net/aspose.cells/cells/find/#any-aspose.cells.cell-aspose.cells.findoptions) | Finds the cell containing with the input object. |
+| [`end_cell_in_row(self, row_index)`](/cells/python-net/aspose.cells/cells/end_cell_in_row/#int) | Gets the last cell in this row. |
+| [`end_cell_in_row(self, start_row, end_row, start_column, end_column)`](/cells/python-net/aspose.cells/cells/end_cell_in_row/#int-int-int-int) | Gets the last cell with maximum row index in this range. |
+| [`end_cell_in_column(self, column_index)`](/cells/python-net/aspose.cells/cells/end_cell_in_column/#int) | Gets the last cell in this column. |
+| [`end_cell_in_column(self, start_row, end_row, start_column, end_column)`](/cells/python-net/aspose.cells/cells/end_cell_in_column/#int-int-int-int) | Gets the last cell with maximum column index in this range. |
+| [`insert_range(self, area, shift_number, shift_type, update_reference)`](/cells/python-net/aspose.cells/cells/insert_range/#aspose.cells.cellarea-int-aspose.cells.shifttype-bool) | Inserts a range of cells and shift cells according to the shift option. |
+| [`insert_range(self, area, shift_type)`](/cells/python-net/aspose.cells/cells/insert_range/#aspose.cells.cellarea-aspose.cells.shifttype) | Inserts a range of cells and shift cells according to the shift option. |
+| [`insert_range(self, area, shift_number, shift_type)`](/cells/python-net/aspose.cells/cells/insert_range/#aspose.cells.cellarea-int-aspose.cells.shifttype) | Inserts a range of cells and shift cells according to the shift option. |
+| [`subtotal(self, ca, group_by, function, total_list)`](/cells/python-net/aspose.cells/cells/subtotal/#aspose.cells.cellarea-int-aspose.cells.consolidationfunction-list) | Creates subtotals for the range. |
+| [`subtotal(self, ca, group_by, function, total_list, replace, page_breaks, summary_below_data)`](/cells/python-net/aspose.cells/cells/subtotal/#aspose.cells.cellarea-int-aspose.cells.consolidationfunction-list-bool-bool-bool) | Creates subtotals for the range. |
+| [`remove_duplicates(self)`](/cells/python-net/aspose.cells/cells/remove_duplicates/#) | Removes duplicate rows in the sheet. |
+| [`remove_duplicates(self, start_row, start_column, end_row, end_column)`](/cells/python-net/aspose.cells/cells/remove_duplicates/#int-int-int-int) | Removes duplicate values in the range. |
+| [`remove_duplicates(self, start_row, start_column, end_row, end_column, has_headers, column_offsets)`](/cells/python-net/aspose.cells/cells/remove_duplicates/#int-int-int-int-bool-list) | Removes duplicate data of the range. |
+| [`get_cell_display_style(self, row, column)`](/cells/python-net/aspose.cells/cells/get_cell_display_style/#int-int) | Get the display style of given cell. |
+| [`get_cell_display_style(self, row, column, adjacent_borders)`](/cells/python-net/aspose.cells/cells/get_cell_display_style/#int-int-aspose.cells.bordertype) | Get the display style of given cell. |
+| [`get_row_enumerator(self)`](/cells/python-net/aspose.cells/cells/get_row_enumerator/#) | Gets the rows enumerator. |
+| [`get_merged_areas(self)`](/cells/python-net/aspose.cells/cells/get_merged_areas/#) | Gets all merged cells. |
+| [`get_cell(self, row, column)`](/cells/python-net/aspose.cells/cells/get_cell/#int-int) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) element or null at the specified cell row index and column index. |
+| [`get_row(self, row)`](/cells/python-net/aspose.cells/cells/get_row/#int) | Gets the [`Row`](/cells/python-net/aspose.cells/row) element at the specified cell row index. |
+| [`check_cell(self, row, column)`](/cells/python-net/aspose.cells/cells/check_cell/#int-int) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) element or null at the specified cell row index and column index. |
+| [`check_row(self, row)`](/cells/python-net/aspose.cells/cells/check_row/#int) | Gets the [`Row`](/cells/python-net/aspose.cells/row) element or null at the specified cell row index. |
+| [`check_column(self, column_index)`](/cells/python-net/aspose.cells/cells/check_column/#int) | Gets the [`Column`](/cells/python-net/aspose.cells/column) element or null at the specified column index. |
+| [`is_row_hidden(self, row_index)`](/cells/python-net/aspose.cells/cells/is_row_hidden/#int) | Checks whether a row at given index is hidden. |
+| [`is_column_hidden(self, column_index)`](/cells/python-net/aspose.cells/cells/is_column_hidden/#int) | Checks whether a column at given index is hidden. |
+| [`add_range(self, range_object)`](/cells/python-net/aspose.cells/cells/add_range/#aspose.cells.range) | Adds a range object reference to cells |
+| [`clear(self)`](/cells/python-net/aspose.cells/cells/clear/#) | Clears all data of the worksheet. |
+| [`import_array_list(self, array_list, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_array_list/#list-int-int-bool) | Imports an arraylist of data into a worksheet. |
+| [`import_formula_array(self, string_array, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_formula_array/#list-int-int-bool) | Imports an array of formula into a worksheet. |
+| [`text_to_columns(self, row, column, total_rows, options)`](/cells/python-net/aspose.cells/cells/text_to_columns/#int-int-int-aspose.cells.txtloadoptions) | Splits content in specified column into multiple columns.. |
+| [`un_merge(self, first_row, first_column, total_rows, total_columns)`](/cells/python-net/aspose.cells/cells/un_merge/#int-int-int-int) | Unmerges a specified range of merged cells. |
+| [`clear_merged_cells(self)`](/cells/python-net/aspose.cells/cells/clear_merged_cells/#) | Clears all merged ranges. |
+| [`hide_row(self, row)`](/cells/python-net/aspose.cells/cells/hide_row/#int) | Hides a row. |
+| [`unhide_row(self, row, height)`](/cells/python-net/aspose.cells/cells/unhide_row/#int-float) | Unhides a row. |
+| [`hide_rows(self, row, total_rows)`](/cells/python-net/aspose.cells/cells/hide_rows/#int-int) | Hides multiple rows. |
+| [`unhide_rows(self, row, total_rows, height)`](/cells/python-net/aspose.cells/cells/unhide_rows/#int-int-float) | Unhides the hidden rows. |
+| [`set_row_height_pixel(self, row, pixels)`](/cells/python-net/aspose.cells/cells/set_row_height_pixel/#int-int) | Sets row height in unit of pixels. |
+| [`set_row_height_inch(self, row, inches)`](/cells/python-net/aspose.cells/cells/set_row_height_inch/#int-float) | Sets row height in unit of inches. |
+| [`set_row_height(self, row, height)`](/cells/python-net/aspose.cells/cells/set_row_height/#int-float) | Sets the height of the specified row. |
+| [`get_row_original_height_point(self, row)`](/cells/python-net/aspose.cells/cells/get_row_original_height_point/#int) | Gets original row's height in unit of point if the row is hidden |
+| [`get_column_original_width_point(self, column)`](/cells/python-net/aspose.cells/cells/get_column_original_width_point/#int) | Gets original column's height in unit of point if the column is hidden |
+| [`hide_column(self, column)`](/cells/python-net/aspose.cells/cells/hide_column/#int) | Hides a column. |
+| [`unhide_column(self, column, width)`](/cells/python-net/aspose.cells/cells/unhide_column/#int-float) | Unhides a column |
+| [`hide_columns(self, column, total_columns)`](/cells/python-net/aspose.cells/cells/hide_columns/#int-int) | Hide multiple columns. |
+| [`unhide_columns(self, column, total_columns, width)`](/cells/python-net/aspose.cells/cells/unhide_columns/#int-int-float) | Unhide multiple columns. |
+| [`get_view_row_height(self, row)`](/cells/python-net/aspose.cells/cells/get_view_row_height/#int) | Gets the height of a specified row. |
+| [`get_row_height_inch(self, row)`](/cells/python-net/aspose.cells/cells/get_row_height_inch/#int) | Gets the height of a specified row in unit of inches. |
+| [`get_view_row_height_inch(self, row)`](/cells/python-net/aspose.cells/cells/get_view_row_height_inch/#int) | Gets the height of a specified row in unit of inches. |
+| [`get_row_height_pixel(self, row)`](/cells/python-net/aspose.cells/cells/get_row_height_pixel/#int) | Gets the height of a specified row in unit of pixel. |
+| [`set_column_width_pixel(self, column, pixels)`](/cells/python-net/aspose.cells/cells/set_column_width_pixel/#int-int) | Sets column width in unit of pixels in normal view. |
+| [`set_column_width_inch(self, column, inches)`](/cells/python-net/aspose.cells/cells/set_column_width_inch/#int-float) | Sets column width in unit of inches  in normal view. |
+| [`set_column_width(self, column, width)`](/cells/python-net/aspose.cells/cells/set_column_width/#int-float) | Sets the width of the specified column in normal view. |
+| [`get_column_width_inch(self, column)`](/cells/python-net/aspose.cells/cells/get_column_width_inch/#int) | Gets the width of the specified column in normal view, in units of inches. |
+| [`get_view_column_width_pixel(self, column)`](/cells/python-net/aspose.cells/cells/get_view_column_width_pixel/#int) | Get the width in different view type. |
+| [`set_view_column_width_pixel(self, column, pixels)`](/cells/python-net/aspose.cells/cells/set_view_column_width_pixel/#int-int) | Sets the width of the column in different view. |
+| [`get_last_data_row(self, column)`](/cells/python-net/aspose.cells/cells/get_last_data_row/#int) | Gets the last row index of cell which contains data in the specified column. |
+| [`apply_column_style(self, column, style, flag)`](/cells/python-net/aspose.cells/cells/apply_column_style/#int-aspose.cells.style-aspose.cells.styleflag) | Applies formats for a whole column. |
+| [`apply_row_style(self, row, style, flag)`](/cells/python-net/aspose.cells/cells/apply_row_style/#int-aspose.cells.style-aspose.cells.styleflag) | Applies formats for a whole row. |
+| [`apply_style(self, style, flag)`](/cells/python-net/aspose.cells/cells/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Applies formats for a whole worksheet. |
+| [`copy_column(self, source_cells, source_column_index, destination_column_index)`](/cells/python-net/aspose.cells/cells/copy_column/#aspose.cells.cells-int-int) | Copies data and formats of a whole column. |
+| [`copy_row(self, source_cells, source_row_index, destination_row_index)`](/cells/python-net/aspose.cells/cells/copy_row/#aspose.cells.cells-int-int) | Copies data and formats of a whole row. |
+| [`get_grouped_row_outline_level(self, row_index)`](/cells/python-net/aspose.cells/cells/get_grouped_row_outline_level/#int) | Gets the outline level (zero-based) of the row. |
+| [`get_grouped_column_outline_level(self, column_index)`](/cells/python-net/aspose.cells/cells/get_grouped_column_outline_level/#int) | Gets the outline level (zero-based) of the column. |
+| [`get_max_grouped_column_outline_level(self)`](/cells/python-net/aspose.cells/cells/get_max_grouped_column_outline_level/#) | Gets the max grouped column outline level (zero-based). |
+| [`get_max_grouped_row_outline_level(self)`](/cells/python-net/aspose.cells/cells/get_max_grouped_row_outline_level/#) | Gets the max grouped row outline level (zero-based). |
+| [`show_group_detail(self, is_vertical, index)`](/cells/python-net/aspose.cells/cells/show_group_detail/#bool-int) | Expands the grouped rows/columns. |
+| [`hide_group_detail(self, is_vertical, index)`](/cells/python-net/aspose.cells/cells/hide_group_detail/#bool-int) | Collapses the grouped rows/columns. |
+| [`ungroup_columns(self, first_index, last_index)`](/cells/python-net/aspose.cells/cells/ungroup_columns/#int-int) | Ungroups columns. |
+| [`is_deleting_range_enabled(self, start_row, start_column, total_rows, total_columns)`](/cells/python-net/aspose.cells/cells/is_deleting_range_enabled/#int-int-int-int) | Check whether the range could be deleted. |
+| [`is_blank_column(self, column_index)`](/cells/python-net/aspose.cells/cells/is_blank_column/#int) | Checks whether given column is blank(does not contain any data). |
+| [`insert_row(self, row_index)`](/cells/python-net/aspose.cells/cells/insert_row/#int) | Inserts a new row into the worksheet. |
+| [`link_to_xml_map(self, map_name, row, column, path)`](/cells/python-net/aspose.cells/cells/link_to_xml_map/#str-int-int-str) | Link to a xml map. |
+| [`move_range(self, source_area, dest_row, dest_column)`](/cells/python-net/aspose.cells/cells/move_range/#aspose.cells.cellarea-int-int) | Moves the range. |
+| [`insert_cut_cells(self, cut_range, row, column, shift_type)`](/cells/python-net/aspose.cells/cells/insert_cut_cells/#aspose.cells.range-int-int-aspose.cells.shifttype) | Insert cut range. |
+| [`delete_range(self, start_row, start_column, end_row, end_column, shift_type)`](/cells/python-net/aspose.cells/cells/delete_range/#int-int-int-int-aspose.cells.shifttype) | Deletes a range of cells and shift cells according to the shift option. |
+| [`retrieve_subtotal_setting(self, ca)`](/cells/python-net/aspose.cells/cells/retrieve_subtotal_setting/#aspose.cells.cellarea) | Retrieves subtotals setting of the range. |
+| [`remove_formulas(self)`](/cells/python-net/aspose.cells/cells/remove_formulas/#) | Removes all formula and replaces with the value of the formula. |
+| [`convert_string_to_numeric_value(self)`](/cells/python-net/aspose.cells/cells/convert_string_to_numeric_value/#) | Converts all string data in the worksheet to numeric value if possible. |
+| [`get_dependents(self, is_all, row, column)`](/cells/python-net/aspose.cells/cells/get_dependents/#bool-int-int) | Get all cells which refer to the specific cell. |
+| [`get_dependents_in_calculation(self, row, column, recursive)`](/cells/python-net/aspose.cells/cells/get_dependents_in_calculation/#int-int-bool) | Gets all cells whose calculated result depends on specific cell. |
+| [`get_cells_with_place_in_cell_picture(self)`](/cells/python-net/aspose.cells/cells/get_cells_with_place_in_cell_picture/#) | Gets all cells that contain embedded picture. |
+| [`get_cell_style(self, row, column)`](/cells/python-net/aspose.cells/cells/get_cell_style/#int-int) | Get the style of given cell. |
 
 
 

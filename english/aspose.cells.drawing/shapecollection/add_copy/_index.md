@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_copy/
 is_root: false
 ---
 
-## add_copy {#aspose.cells.drawing.Shape-int-int-int-int}
+## add_copy(self, source_shape, top_row, top, left_column, left) {#aspose.cells.drawing.Shape-int-int-int-int}
 
 Adds and copy a shape to the worksheet.
 
@@ -20,6 +20,7 @@ The new [`Shape`](/cells/python-net/aspose.cells.drawing/shape) object.
 
 
 ```python
+
 def add_copy(self, source_shape, top_row, top, left_column, left):
     ...
 ```

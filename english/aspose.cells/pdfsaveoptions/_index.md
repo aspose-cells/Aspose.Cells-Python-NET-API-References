@@ -3,7 +3,7 @@ title: PdfSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1270
+weight: 1280
 url: /aspose.cells/pdfsaveoptions/
 is_root: false
 ---
@@ -25,7 +25,7 @@ The PdfSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/pdfsaveoptions/__init__/#) | Creates the options for saving pdf file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/pdfsaveoptions/__init__/#) | Creates the options for saving pdf file. |
 
 
 ### Properties
@@ -83,7 +83,7 @@ The PdfSaveOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_image_resample](/cells/python-net/aspose.cells/pdfsaveoptions/set_image_resample/#int-int) | Sets desired PPI(pixels per inch) of resample images and jpeg quality.  <br/>All images will be converted to JPEG with the specified quality setting, <br/>and images that are greater than the specified PPI (pixels per inch) will be resampled. |
+| [`set_image_resample(self, desired_ppi, jpeg_quality)`](/cells/python-net/aspose.cells/pdfsaveoptions/set_image_resample/#int-int) | Sets desired PPI(pixels per inch) of resample images and jpeg quality.  <br/>All images will be converted to JPEG with the specified quality setting, <br/>and images that are greater than the specified PPI (pixels per inch) will be resampled. |
 
 
 

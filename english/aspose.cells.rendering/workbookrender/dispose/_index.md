@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/workbookrender/dispose/
 is_root: false
 ---
 
-## dispose {#}
+## dispose(self) {#}
 
 Releases resources created and used for rendering.
 
 
 
 ```python
+
 def dispose(self):
     ...
 ```

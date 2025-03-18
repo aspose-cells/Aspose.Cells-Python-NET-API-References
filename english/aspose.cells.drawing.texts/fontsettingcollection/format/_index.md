@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.texts/fontsettingcollection/format/
 is_root: false
 ---
 
-## format {#int-int-aspose.cells.Font-aspose.cells.StyleFlag}
+## format(self, start_index, length, font, flag) {#int-int-aspose.cells.Font-aspose.cells.StyleFlag}
 
 Format the text with font setting.
 
 
 
 ```python
+
 def format(self, start_index, length, font, flag):
     ...
 ```

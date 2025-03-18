@@ -8,13 +8,14 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_total/
 is_root: false
 ---
 
-## set_text_of_total {#str}
+## set_text_of_total(self, text) {#str}
 
 Sets the text of "Total" label in the PivotTable.
 
 
 
 ```python
+
 def set_text_of_total(self, text):
     ...
 ```

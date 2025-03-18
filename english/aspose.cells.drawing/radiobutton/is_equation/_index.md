@@ -3,7 +3,7 @@ title: is_equation property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 570
+weight: 580
 url: /aspose.cells.drawing/radiobutton/is_equation/
 is_root: false
 ---

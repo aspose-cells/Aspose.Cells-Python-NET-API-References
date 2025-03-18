@@ -8,7 +8,7 @@ url: /aspose.cells/range/to_image/
 is_root: false
 ---
 
-## to_image {#aspose.cells.rendering.ImageOrPrintOptions}
+## to_image(self, options) {#aspose.cells.rendering.ImageOrPrintOptions}
 
 Converts the range to image.
 
@@ -20,6 +20,7 @@ Converts the range to image.
 
 
 ```python
+
 def to_image(self, options):
     ...
 ```

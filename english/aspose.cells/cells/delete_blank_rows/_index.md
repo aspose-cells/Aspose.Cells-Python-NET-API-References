@@ -8,13 +8,14 @@ url: /aspose.cells/cells/delete_blank_rows/
 is_root: false
 ---
 
-## delete_blank_rows {#}
+## delete_blank_rows(self) {#}
 
 Delete all blank rows which do not contain any data or other object.
 
 
 
 ```python
+
 def delete_blank_rows(self):
     ...
 ```
@@ -22,13 +23,14 @@ def delete_blank_rows(self):
 
 
 
-## delete_blank_rows {#aspose.cells.DeleteOptions}
+## delete_blank_rows(self, options) {#aspose.cells.DeleteOptions}
 
 Delete all blank rows which do not contain any data or some special objects such as visible comment, pivot table.
 
 
 
 ```python
+
 def delete_blank_rows(self, options):
     ...
 ```

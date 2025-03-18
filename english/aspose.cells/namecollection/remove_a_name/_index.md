@@ -8,13 +8,14 @@ url: /aspose.cells/namecollection/remove_a_name/
 is_root: false
 ---
 
-## remove_a_name {#str}
+## remove_a_name(self, text) {#str}
 
 Remove the name.
 
 
 
 ```python
+
 def remove_a_name(self, text):
     ...
 ```

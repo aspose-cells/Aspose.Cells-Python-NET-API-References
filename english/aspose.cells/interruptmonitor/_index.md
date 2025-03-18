@@ -3,7 +3,7 @@ title: InterruptMonitor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1030
+weight: 1040
 url: /aspose.cells/interruptmonitor/
 is_root: false
 ---
@@ -24,7 +24,7 @@ The InterruptMonitor type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/interruptmonitor/__init__/#) | Constructs a new instance of InterruptMonitor |
+| [`__init__(self)`](/cells/python-net/aspose.cells/interruptmonitor/__init__/#) | Constructs a new instance of InterruptMonitor |
 
 
 ### Properties
@@ -37,7 +37,7 @@ The InterruptMonitor type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [interrupt](/cells/python-net/aspose.cells/interruptmonitor/interrupt/#) | Interrupt the current operator. |
+| [`interrupt(self)`](/cells/python-net/aspose.cells/interruptmonitor/interrupt/#) | Interrupt the current operator. |
 
 
 

@@ -8,13 +8,14 @@ url: /aspose.cells/unionrange/copy/
 is_root: false
 ---
 
-## copy {#aspose.cells.UnionRange-aspose.cells.PasteOptions}
+## copy(self, range, options) {#aspose.cells.UnionRange-aspose.cells.PasteOptions}
 
 Copying the range with paste special options.
 
 
 
 ```python
+
 def copy(self, range, options):
     ...
 ```

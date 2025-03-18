@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_default_sheet_name/
 is_root: false
 ---
 
-## get_default_sheet_name {#}
+## get_default_sheet_name(self) {#}
 
 Gets the default sheet name for adding worksheet automatically.
 Default is "Sheet".
@@ -21,6 +21,7 @@ the default sheet name for adding worksheet automatically
 
 
 ```python
+
 def get_default_sheet_name(self):
     ...
 ```

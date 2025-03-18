@@ -8,7 +8,7 @@ url: /aspose.cells/verticalpagebreakcollection/add/
 is_root: false
 ---
 
-## add {#int}
+## add(self, column) {#int}
 
 Adds a vertical page break to the collection.
 
@@ -20,6 +20,7 @@ Adds a vertical page break to the collection.
 
 
 ```python
+
 def add(self, column):
     ...
 ```
@@ -33,7 +34,7 @@ def add(self, column):
 Page break is added in the top left of the cell.
 Please set a horizontal page break and a vertical page break concurrently.
 
-## add {#str}
+## add(self, cell_name) {#str}
 
 Adds a vertical page break to the collection.
 
@@ -45,6 +46,7 @@ Adds a vertical page break to the collection.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -58,7 +60,7 @@ def add(self, cell_name):
 Page break is added in the top left of the cell.
 Please set a horizontal page break and a vertical page break concurrently.
 
-## add {#int-int}
+## add(self, row, column) {#int-int}
 
 Adds a vertical page break to the collection.
 
@@ -70,6 +72,7 @@ Adds a vertical page break to the collection.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -84,7 +87,7 @@ def add(self, row, column):
 Page break is added in the top left of the cell.
 Please set a horizontal page break and a vertical page break concurrently.
 
-## add {#int-int-int}
+## add(self, start_row, end_row, column) {#int-int-int}
 
 Adds a vertical page break to the collection.
 
@@ -96,6 +99,7 @@ Adds a vertical page break to the collection.
 
 
 ```python
+
 def add(self, start_row, end_row, column):
     ...
 ```

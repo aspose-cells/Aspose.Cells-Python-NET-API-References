@@ -19,8 +19,8 @@ The RenderingWatermark type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.rendering/renderingwatermark/__init__/#str-aspose.cells.rendering.RenderingFont) | Creates instance of text watermark. |
-| [__init__](/cells/python-net/aspose.cells.rendering/renderingwatermark/__init__/#bytes) | Creates instance of image watermark. |
+| [`__init__(self, text, rendering_font)`](/cells/python-net/aspose.cells.rendering/renderingwatermark/__init__/#str-aspose.cells.rendering.renderingfont) | Creates instance of text watermark. |
+| [`__init__(self, image_data)`](/cells/python-net/aspose.cells.rendering/renderingwatermark/__init__/#bytes) | Creates instance of image watermark. |
 
 
 ### Properties

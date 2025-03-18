@@ -3,12 +3,12 @@ title: is_color_in_palette method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /aspose.cells/workbook/is_color_in_palette/
 is_root: false
 ---
 
-## is_color_in_palette {#aspose.pydrawing.Color}
+## is_color_in_palette(self, color) {#aspose.pydrawing.Color}
 
 Checks if a color is in the palette for the spreadsheet.
 
@@ -20,6 +20,7 @@ Returns true if this color is in the palette. Otherwise, returns false
 
 
 ```python
+
 def is_color_in_palette(self, color):
     ...
 ```

@@ -3,7 +3,7 @@ title: built_in_document_properties property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 460
 url: /aspose.cells/workbook/built_in_document_properties/
 is_root: false
 ---
@@ -101,6 +101,18 @@ Number of Hidden Slides
 
 
 Number of Multimedia Clips
+
+### Example 
+
+
+```python
+from aspose.cells import Workbook
+
+workbook = Workbook()
+doc = workbook.built_in_document_properties.get("Author")
+doc.value = "John Smith"
+
+```
 ### Definition:
 ```python
 @property

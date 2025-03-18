@@ -3,12 +3,12 @@ title: is_same_setting method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /aspose.cells.drawing/picture/is_same_setting/
 is_root: false
 ---
 
-## is_same_setting {#any}
+## is_same_setting(self, obj) {#any}
 
 Returns whether the shape is same.
 
@@ -20,6 +20,7 @@ Returns whether the shape is same.
 
 
 ```python
+
 def is_same_setting(self, obj):
     ...
 ```

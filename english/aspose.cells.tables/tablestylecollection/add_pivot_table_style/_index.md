@@ -8,7 +8,7 @@ url: /aspose.cells.tables/tablestylecollection/add_pivot_table_style/
 is_root: false
 ---
 
-## add_pivot_table_style {#str}
+## add_pivot_table_style(self, name) {#str}
 
 Adds a custom pivot table style.
 
@@ -20,6 +20,7 @@ The index of the pivot table style.
 
 
 ```python
+
 def add_pivot_table_style(self, name):
     ...
 ```

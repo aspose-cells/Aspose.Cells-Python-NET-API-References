@@ -8,13 +8,14 @@ url: /aspose.cells/settablechartglobalizationsettings/set_series_name/
 is_root: false
 ---
 
-## set_series_name {#str}
+## set_series_name(self, name) {#str}
 
 Sets the name of Series in the Chart.
 
 
 
 ```python
+
 def set_series_name(self, name):
     ...
 ```

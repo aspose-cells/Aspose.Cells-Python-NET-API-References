@@ -8,13 +8,14 @@ url: /aspose.cells/settablechartglobalizationsettings/set_legend_increase_name/
 is_root: false
 ---
 
-## set_legend_increase_name {#str}
+## set_legend_increase_name(self, name) {#str}
 
 Sets the name of increase for Legend.
 
 
 
 ```python
+
 def set_legend_increase_name(self, name):
     ...
 ```

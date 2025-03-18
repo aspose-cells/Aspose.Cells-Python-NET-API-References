@@ -27,9 +27,9 @@ The AbstractCalculationMonitor type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [before_calculate](/cells/python-net/aspose.cells/abstractcalculationmonitor/before_calculate/#int-int-int) | Implement this method to do business before calculating one cell. |
-| [after_calculate](/cells/python-net/aspose.cells/abstractcalculationmonitor/after_calculate/#int-int-int) | Implement this method to do business after one cell has been calculated. |
-| [on_circular](/cells/python-net/aspose.cells/abstractcalculationmonitor/on_circular/#collections.abc.Iterator) | Implement this method to do business when calculating formulas with circular references. |
+| [`before_calculate(self, sheet_index, row_index, col_index)`](/cells/python-net/aspose.cells/abstractcalculationmonitor/before_calculate/#int-int-int) | Implement this method to do business before calculating one cell. |
+| [`after_calculate(self, sheet_index, row_index, col_index)`](/cells/python-net/aspose.cells/abstractcalculationmonitor/after_calculate/#int-int-int) | Implement this method to do business after one cell has been calculated. |
+| [`on_circular(self, circular_cells_data)`](/cells/python-net/aspose.cells/abstractcalculationmonitor/on_circular/#collections.abc.iterator) | Implement this method to do business when calculating formulas with circular references. |
 
 
 

@@ -8,13 +8,14 @@ url: /aspose.cells/name/get_refers_to/
 is_root: false
 ---
 
-## get_refers_to {#bool-bool}
+## get_refers_to(self, is_r1c1, is_local) {#bool-bool}
 
 Get the reference of this Name.
 
 
 
 ```python
+
 def get_refers_to(self, is_r1c1, is_local):
     ...
 ```
@@ -26,13 +27,14 @@ def get_refers_to(self, is_r1c1, is_local):
 | is_local | bool | Whether the reference needs to be formatted by locale. |
 
 
-## get_refers_to {#bool-bool-int-int}
+## get_refers_to(self, is_r1c1, is_local, row, column) {#bool-bool-int-int}
 
 Get the reference of this Name based on specified cell.
 
 
 
 ```python
+
 def get_refers_to(self, is_r1c1, is_local, row, column):
     ...
 ```

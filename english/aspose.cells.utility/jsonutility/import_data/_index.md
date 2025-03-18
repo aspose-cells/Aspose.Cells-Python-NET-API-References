@@ -8,7 +8,7 @@ url: /aspose.cells.utility/jsonutility/import_data/
 is_root: false
 ---
 
-## import_data {#str-aspose.cells.Cells-int-int-aspose.cells.utility.JsonLayoutOptions}
+## import_data(, json, cells, row, column, option) {#str-aspose.cells.Cells-int-int-aspose.cells.utility.JsonLayoutOptions}
 
 Import the json string.
 
@@ -20,7 +20,9 @@ Import the json string.
 
 
 ```python
-def import_data(self, json, cells, row, column, option):
+
+@staticmethod
+def import_data(json, cells, row, column, option):
     ...
 ```
 

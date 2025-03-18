@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotitem/move/
 is_root: false
 ---
 
-## move {#int-bool}
+## move(self, count, is_same_parent) {#int-bool}
 
 Moves the item up or down
 
 
 
 ```python
+
 def move(self, count, is_same_parent):
     ...
 ```

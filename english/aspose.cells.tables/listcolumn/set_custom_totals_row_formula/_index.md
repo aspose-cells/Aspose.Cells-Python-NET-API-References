@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listcolumn/set_custom_totals_row_formula/
 is_root: false
 ---
 
-## set_custom_totals_row_formula {#str-bool-bool}
+## set_custom_totals_row_formula(self, formula, is_r1c1, is_local) {#str-bool-bool}
 
 Gets the formula of totals row of this list column.
 
 
 
 ```python
+
 def set_custom_totals_row_formula(self, formula, is_r1c1, is_local):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chart/to_image/
 is_root: false
 ---
 
-## to_image {#str}
+## to_image(self, image_file) {#str}
 
 Creates the chart image and saves it to a file.
 The extension of the file name determines the format of the image.
@@ -16,6 +16,7 @@ The extension of the file name determines the format of the image.
 
 
 ```python
+
 def to_image(self, image_file):
     ...
 ```
@@ -34,13 +35,14 @@ in the PNG format. The following file extensions are recognized:
 
 If the width or height is zero or the chart is not supported according to Supported Charts List, this method will do nothing.
 
-## to_image {#str-aspose.cells.drawing.ImageType}
+## to_image(self, image_file, image_type) {#str-aspose.cells.drawing.ImageType}
 
 Creates the chart image and saves it to a file in the specified image type.
 
 
 
 ```python
+
 def to_image(self, image_file, image_type):
     ...
 ```
@@ -59,13 +61,14 @@ ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, Ima
 
 If the width or height is zero or the chart is not supported according to Supported Charts List, this method will do nothing.
 
-## to_image {#str-int}
+## to_image(self, image_file, jpeg_quality) {#str-int}
 
 Creates the chart image and saves it to a file in the Jpeg format.
 
 
 
 ```python
+
 def to_image(self, image_file, jpeg_quality):
     ...
 ```
@@ -78,14 +81,19 @@ def to_image(self, image_file, jpeg_quality):
 ### Remarks
 
 If the width or height is zero or the chart is not supported according to Supported Charts List, this method will do nothing.
+NOTE: This method is now obsolete. Instead, 
+please use ToImage(string,ImageOrPrintOptions) method with specified quality.
+This method will be removed 12 months later since March 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 
-## to_image {#io.RawIOBase-int}
+## to_image(self, stream, jpeg_quality) {#io.RawIOBase-int}
 
 Creates the chart image and saves it to a stream in the Jpeg format.
 
 
 
 ```python
+
 def to_image(self, stream, jpeg_quality):
     ...
 ```
@@ -99,13 +107,14 @@ def to_image(self, stream, jpeg_quality):
 
 If the width or height is zero or the chart is not supported according to Supported Charts List, this method will do nothing.
 
-## to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
+## to_image(self, stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
 
 Creates the chart image and saves it to a stream in the specified format.
 
 
 
 ```python
+
 def to_image(self, stream, image_type):
     ...
 ```
@@ -124,7 +133,7 @@ ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, Ima
 
 If the width or height is zero or the chart is not supported according to Supported Charts List, this method will do nothing.
 
-## to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 
 Creates the chart image and saves it to a file.
 The extension of the file name determines the format of the image.
@@ -132,6 +141,7 @@ The extension of the file name determines the format of the image.
 
 
 ```python
+
 def to_image(self, image_file, options):
     ...
 ```
@@ -186,13 +196,14 @@ book.worksheets[0].charts[0].to_image(r"chart.Jpeg", options)
 ```
 
 
-## to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 
 Creates the chart image and saves it to a stream in the specified format.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```

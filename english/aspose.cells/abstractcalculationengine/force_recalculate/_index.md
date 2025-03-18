@@ -8,7 +8,7 @@ url: /aspose.cells/abstractcalculationengine/force_recalculate/
 is_root: false
 ---
 
-## force_recalculate {#str}
+## force_recalculate(self, function_name) {#str}
 
 Whether force given function to be recalculated always when calculating shared formulas.
 
@@ -20,6 +20,7 @@ true if the specified function needs to be recalculated always.
 
 
 ```python
+
 def force_recalculate(self, function_name):
     ...
 ```

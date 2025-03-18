@@ -8,7 +8,7 @@ url: /aspose.cells/settablechartglobalizationsettings/get_series_name/
 is_root: false
 ---
 
-## get_series_name {#}
+## get_series_name(self) {#}
 
 Gets the name of Series in the Chart.
 
@@ -20,6 +20,7 @@ Gets the name of Series in the Chart.
 
 
 ```python
+
 def get_series_name(self):
     ...
 ```

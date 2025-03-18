@@ -8,13 +8,14 @@ url: /aspose.cells/worksheetcollection/remove_by_name/
 is_root: false
 ---
 
-## remove_by_name {#str}
+## remove_by_name(self, name) {#str}
 
 Remove a sheet by sheet name.(CELLSPYTHONNET-192)
 
 
 
 ```python
+
 def remove_by_name(self, name):
     ...
 ```

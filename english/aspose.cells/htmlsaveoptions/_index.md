@@ -3,7 +3,7 @@ title: HtmlSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 850
+weight: 860
 url: /aspose.cells/htmlsaveoptions/
 is_root: false
 ---
@@ -24,8 +24,8 @@ The HtmlSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/htmlsaveoptions/__init__/#) | Creates options for saving html file. |
-| [__init__](/cells/python-net/aspose.cells/htmlsaveoptions/__init__/#aspose.cells.SaveFormat) | Creates options for saving htm file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/htmlsaveoptions/__init__/#) | Creates options for saving html file. |
+| [`__init__(self, save_format)`](/cells/python-net/aspose.cells/htmlsaveoptions/__init__/#aspose.cells.saveformat) | Creates options for saving htm file. |
 
 
 ### Properties

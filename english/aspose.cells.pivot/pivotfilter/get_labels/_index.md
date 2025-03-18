@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfilter/get_labels/
 is_root: false
 ---
 
-## get_labels {#}
+## get_labels(self) {#}
 
 Gets labels of the caption filter.
 
@@ -20,6 +20,7 @@ Gets labels of the caption filter.
 
 
 ```python
+
 def get_labels(self):
     ...
 ```

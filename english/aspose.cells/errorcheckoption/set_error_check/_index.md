@@ -8,13 +8,14 @@ url: /aspose.cells/errorcheckoption/set_error_check/
 is_root: false
 ---
 
-## set_error_check {#aspose.cells.ErrorCheckType-bool}
+## set_error_check(self, error_check_type, is_check) {#aspose.cells.ErrorCheckType-bool}
 
 Sets whether given error type will be checked.
 
 
 
 ```python
+
 def set_error_check(self, error_check_type, is_check):
     ...
 ```

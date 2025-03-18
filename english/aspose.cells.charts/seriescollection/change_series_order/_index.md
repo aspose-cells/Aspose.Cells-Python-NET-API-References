@@ -8,13 +8,14 @@ url: /aspose.cells.charts/seriescollection/change_series_order/
 is_root: false
 ---
 
-## change_series_order {#int-int}
+## change_series_order(self, source_index, dest_index) {#int-int}
 
 Directly changes the orders of the two series.
 
 
 
 ```python
+
 def change_series_order(self, source_index, dest_index):
     ...
 ```

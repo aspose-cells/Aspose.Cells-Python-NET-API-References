@@ -3,7 +3,7 @@ title: y property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 500
 url: /aspose.cells.charts/title/y/
 is_root: false
 ---
@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the y coordinate of the upper left corner in units of 1/4000 of the chart area.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. 
+Please use Title.YRatioToChart property, instead.
+Y = YRatioToChart * 4000;
+This property will be removed 12 months later since February 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

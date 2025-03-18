@@ -8,13 +8,14 @@ url: /aspose.cells/range/set_style/
 is_root: false
 ---
 
-## set_style {#aspose.cells.Style}
+## set_style(self, style) {#aspose.cells.Style}
 
 Sets the style of the range.
 
 
 
 ```python
+
 def set_style(self, style):
     ...
 ```
@@ -25,13 +26,14 @@ def set_style(self, style):
 | style | [`Style`](/cells/python-net/aspose.cells/style) | The Style object. |
 
 
-## set_style {#aspose.cells.Style-bool}
+## set_style(self, style, explicit_flag) {#aspose.cells.Style-bool}
 
 Apply the cell style.
 
 
 
 ```python
+
 def set_style(self, style, explicit_flag):
     ...
 ```

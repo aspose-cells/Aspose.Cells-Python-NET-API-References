@@ -3,7 +3,7 @@ title: ReferredArea class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1360
+weight: 1370
 url: /aspose.cells/referredarea/
 is_root: false
 ---
@@ -35,10 +35,10 @@ The ReferredArea type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_values](/cells/python-net/aspose.cells/referredarea/get_values/#) | Gets cell values in this area. |
-| [get_values](/cells/python-net/aspose.cells/referredarea/get_values/#bool) | Gets cell values in this area. |
-| [get_value](/cells/python-net/aspose.cells/referredarea/get_value/#int-int) | Gets cell value with given offset from the top-left of this area. |
-| [get_value](/cells/python-net/aspose.cells/referredarea/get_value/#int-int-bool) | Gets cell value with given offset from the top-left of this area. |
+| [`get_values(self)`](/cells/python-net/aspose.cells/referredarea/get_values/#) | Gets cell values in this area. |
+| [`get_values(self, calculate_formulas)`](/cells/python-net/aspose.cells/referredarea/get_values/#bool) | Gets cell values in this area. |
+| [`get_value(self, row_offset, col_offset)`](/cells/python-net/aspose.cells/referredarea/get_value/#int-int) | Gets cell value with given offset from the top-left of this area. |
+| [`get_value(self, row_offset, col_offset, calculate_formulas)`](/cells/python-net/aspose.cells/referredarea/get_value/#int-int-bool) | Gets cell value with given offset from the top-left of this area. |
 
 
 

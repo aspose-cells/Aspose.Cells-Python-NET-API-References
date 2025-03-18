@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_text_box/
 is_root: false
 ---
 
-## add_text_box {#int-int-int-int-int-int}
+## add_text_box(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a text box to the worksheet.
 
@@ -20,6 +20,7 @@ A [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox) object.
 
 
 ```python
+
 def add_text_box(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

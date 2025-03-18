@@ -8,13 +8,14 @@ url: /aspose.cells/interruptmonitor/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of InterruptMonitor
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

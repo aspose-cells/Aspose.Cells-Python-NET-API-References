@@ -8,13 +8,14 @@ url: /aspose.cells/pagesetup/get_even_footer/
 is_root: false
 ---
 
-## get_even_footer {#int}
+## get_even_footer(self, section) {#int}
 
 Gets a script formatting the even footer of an Excel file.
 
 
 
 ```python
+
 def get_even_footer(self, section):
     ...
 ```

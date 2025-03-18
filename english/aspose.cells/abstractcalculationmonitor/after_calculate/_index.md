@@ -8,13 +8,14 @@ url: /aspose.cells/abstractcalculationmonitor/after_calculate/
 is_root: false
 ---
 
-## after_calculate {#int-int-int}
+## after_calculate(self, sheet_index, row_index, col_index) {#int-int-int}
 
 Implement this method to do business after one cell has been calculated.
 
 
 
 ```python
+
 def after_calculate(self, sheet_index, row_index, col_index):
     ...
 ```

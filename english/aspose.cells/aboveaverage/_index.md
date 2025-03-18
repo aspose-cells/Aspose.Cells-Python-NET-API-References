@@ -21,7 +21,7 @@ The AboveAverage type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/aboveaverage/__init__/#) | Constructs a new instance of AboveAverage |
+| [`__init__(self)`](/cells/python-net/aspose.cells/aboveaverage/__init__/#) | Constructs a new instance of AboveAverage |
 
 
 ### Properties

@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotitem/get_formula/
 is_root: false
 ---
 
-## get_formula {#}
+## get_formula(self) {#}
 
 Gets the formula of this calculated item.
 Only works when this item is calculated item.
@@ -21,6 +21,7 @@ Only works when this item is calculated item.
 
 
 ```python
+
 def get_formula(self):
     ...
 ```

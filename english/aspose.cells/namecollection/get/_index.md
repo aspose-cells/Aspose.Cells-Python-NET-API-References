@@ -8,7 +8,7 @@ url: /aspose.cells/namecollection/get/
 is_root: false
 ---
 
-## get {#int}
+## get(self, index) {#int}
 
 Add API for Python Via .Net.since this[int index] is unsupported
 
@@ -20,6 +20,7 @@ Add API for Python Via .Net.since this[int index] is unsupported
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -30,7 +31,7 @@ def get(self, index):
 | index | int | The zero based index of the element. |
 
 
-## get {#str}
+## get(self, text) {#str}
 
 Add API for Python Via .Net.since this[string text] is unsupported
 
@@ -42,6 +43,7 @@ Add API for Python Via .Net.since this[string text] is unsupported
 
 
 ```python
+
 def get(self, text):
     ...
 ```

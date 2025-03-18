@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapepath/move_to/
 is_root: false
 ---
 
-## move_to {#float-float}
+## move_to(self, x, y) {#float-float}
 
 Starts a new figure from the specified point without closing the current figure. All subsequent points added to the path are added to this new figure.
 
 
 
 ```python
+
 def move_to(self, x, y):
     ...
 ```

@@ -3,7 +3,7 @@ title: x property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1240
+weight: 1250
 url: /aspose.cells.drawing/oval/x/
 is_root: false
 ---

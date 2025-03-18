@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/get_panes/
 is_root: false
 ---
 
-## get_panes {#}
+## get_panes(self) {#}
 
 Gets the window panes.
 
 
 
 ```python
+
 def get_panes(self):
     ...
 ```

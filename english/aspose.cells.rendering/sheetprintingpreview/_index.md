@@ -19,7 +19,7 @@ The SheetPrintingPreview type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.rendering/sheetprintingpreview/__init__/#aspose.cells.Worksheet-aspose.cells.rendering.ImageOrPrintOptions) | The construct of SheetPrintingPreview |
+| [`__init__(self, sheet, options)`](/cells/python-net/aspose.cells.rendering/sheetprintingpreview/__init__/#aspose.cells.worksheet-aspose.cells.rendering.imageorprintoptions) | The construct of SheetPrintingPreview |
 
 
 ### Properties

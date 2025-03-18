@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/show_detail/
 is_root: false
 ---
 
-## show_detail {#int-int-bool-int-int}
+## show_detail(self, row_offset, column_offset, new_sheet, dest_row, dest_column) {#int-int-bool-int-int}
 
 Show the detail of one item in the data region to a new Table.
 
 
 
 ```python
+
 def show_detail(self, row_offset, column_offset, new_sheet, dest_row, dest_column):
     ...
 ```

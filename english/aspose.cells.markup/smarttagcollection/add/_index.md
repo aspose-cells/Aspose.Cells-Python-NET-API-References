@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagcollection/add/
 is_root: false
 ---
 
-## add {#str-str}
+## add(self, uri, name) {#str-str}
 
 Adds a smart tag.
 
@@ -20,6 +20,7 @@ The index of smart tag in the list.
 
 
 ```python
+
 def add(self, uri, name):
     ...
 ```

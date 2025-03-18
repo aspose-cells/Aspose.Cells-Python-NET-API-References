@@ -8,13 +8,14 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_protected_name
 is_root: false
 ---
 
-## set_text_of_protected_name {#str-str}
+## set_text_of_protected_name(self, protected_name, text) {#str-str}
 
 Sets the text for specific protected name.
 
 
 
 ```python
+
 def set_text_of_protected_name(self, protected_name, text):
     ...
 ```

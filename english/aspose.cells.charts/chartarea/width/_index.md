@@ -3,7 +3,7 @@ title: width property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 280
 url: /aspose.cells.charts/chartarea/width/
 is_root: false
 ---
@@ -11,7 +11,16 @@ is_root: false
 ## width property
 
 
-Gets or sets the horizontal offset from its lower right corner column.
+Gets or sets the horizontal offset from its lower right corner column, in units of 1/4000 of the chart area.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. 
+Please use ChartArea.WidthRatioToChart property, instead.
+Width = WidthRatioToChart * 4000.
+This property will be removed 12 months later since February 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

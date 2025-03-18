@@ -8,13 +8,14 @@ url: /aspose.cells.utility/jsonlayoutoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructor of loading JSON layout options.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

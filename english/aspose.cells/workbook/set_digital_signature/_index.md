@@ -3,18 +3,19 @@ title: set_digital_signature method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 360
 url: /aspose.cells/workbook/set_digital_signature/
 is_root: false
 ---
 
-## set_digital_signature {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
+## set_digital_signature(self, digital_signature_collection) {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
 
 Sets digital signature to an spreadsheet file (Excel2007 and later).
 
 
 
 ```python
+
 def set_digital_signature(self, digital_signature_collection):
     ...
 ```

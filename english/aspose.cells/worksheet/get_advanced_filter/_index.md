@@ -8,7 +8,7 @@ url: /aspose.cells/worksheet/get_advanced_filter/
 is_root: false
 ---
 
-## get_advanced_filter {#}
+## get_advanced_filter(self) {#}
 
 Gets the settings of advanced filter.
 
@@ -20,6 +20,7 @@ Gets the settings of advanced filter.
 
 
 ```python
+
 def get_advanced_filter(self):
     ...
 ```

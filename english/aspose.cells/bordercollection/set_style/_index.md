@@ -8,13 +8,14 @@ url: /aspose.cells/bordercollection/set_style/
 is_root: false
 ---
 
-## set_style {#aspose.cells.CellBorderType}
+## set_style(self, style) {#aspose.cells.CellBorderType}
 
 Sets the style of all borders of the collection.
 
 
 
 ```python
+
 def set_style(self, style):
     ...
 ```

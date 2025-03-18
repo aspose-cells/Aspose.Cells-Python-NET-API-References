@@ -8,13 +8,14 @@ url: /aspose.cells/lightcellsdataprovider/start_cell/
 is_root: false
 ---
 
-## start_cell {#aspose.cells.Cell}
+## start_cell(self, cell) {#aspose.cells.Cell}
 
 Starts to save data of one cell.
 
 
 
 ```python
+
 def start_cell(self, cell):
     ...
 ```

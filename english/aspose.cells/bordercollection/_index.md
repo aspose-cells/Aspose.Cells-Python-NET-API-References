@@ -26,9 +26,9 @@ The BorderCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get](/cells/python-net/aspose.cells/bordercollection/get/#aspose.cells.BorderType) | Add API for Python Via .Net.since this[BorderType borderType] is unsupported |
-| [set_color](/cells/python-net/aspose.cells/bordercollection/set_color/#aspose.pydrawing.Color) | Sets the Color of all borders in the collection. |
-| [set_style](/cells/python-net/aspose.cells/bordercollection/set_style/#aspose.cells.CellBorderType) | Sets the style of all borders of the collection. |
+| [`get(self, border_type)`](/cells/python-net/aspose.cells/bordercollection/get/#aspose.cells.bordertype) | Add API for Python Via .Net.since this[BorderType borderType] is unsupported |
+| [`set_color(self, color)`](/cells/python-net/aspose.cells/bordercollection/set_color/#aspose.pydrawing.color) | Sets the Color of all borders in the collection. |
+| [`set_style(self, style)`](/cells/python-net/aspose.cells/bordercollection/set_style/#aspose.cells.cellbordertype) | Sets the style of all borders of the collection. |
 
 
 

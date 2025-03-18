@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapecollection/add_shape_in_chart/
 is_root: false
 ---
 
-## add_shape_in_chart {#aspose.cells.drawing.MsoDrawingType-aspose.cells.drawing.PlacementType-int-int-int-int}
+## add_shape_in_chart(self, type, placement, left, top, right, bottom) {#aspose.cells.drawing.MsoDrawingType-aspose.cells.drawing.PlacementType-int-int-int-int}
 
 Add a shape to chart .All unit is 1/4000 of chart area.
 
 
 
 ```python
+
 def add_shape_in_chart(self, type, placement, left, top, right, bottom):
     ...
 ```
@@ -30,13 +31,14 @@ def add_shape_in_chart(self, type, placement, left, top, right, bottom):
 | bottom | int | In unit of 1/4000 chart area height. |
 
 
-## add_shape_in_chart {#aspose.cells.drawing.MsoDrawingType-aspose.cells.drawing.PlacementType-int-int-int-int-bytes}
+## add_shape_in_chart(self, type, placement, left, top, right, bottom, image_data) {#aspose.cells.drawing.MsoDrawingType-aspose.cells.drawing.PlacementType-int-int-int-int-bytes}
 
 Add a shape to chart .All unit is 1/4000 of chart area.
 
 
 
 ```python
+
 def add_shape_in_chart(self, type, placement, left, top, right, bottom, image_data):
     ...
 ```

@@ -3,18 +3,19 @@ title: insert_cut_cells method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 700
 url: /aspose.cells/cells/insert_cut_cells/
 is_root: false
 ---
 
-## insert_cut_cells {#aspose.cells.Range-int-int-aspose.cells.ShiftType}
+## insert_cut_cells(self, cut_range, row, column, shift_type) {#aspose.cells.Range-int-int-aspose.cells.ShiftType}
 
 Insert cut range.
 
 
 
 ```python
+
 def insert_cut_cells(self, cut_range, row, column, shift_type):
     ...
 ```

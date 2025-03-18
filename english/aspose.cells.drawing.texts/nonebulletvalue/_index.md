@@ -24,7 +24,7 @@ The NoneBulletValue type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue/__init__/#) | Constructs a new instance of NoneBulletValue |
+| [`__init__(self)`](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue/__init__/#) | Constructs a new instance of NoneBulletValue |
 
 
 ### Properties

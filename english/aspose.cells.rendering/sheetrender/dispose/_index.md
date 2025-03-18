@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/sheetrender/dispose/
 is_root: false
 ---
 
-## dispose {#}
+## dispose(self) {#}
 
 Releases resources created and used for rendering.
 
 
 
 ```python
+
 def dispose(self):
     ...
 ```

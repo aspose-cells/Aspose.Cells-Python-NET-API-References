@@ -8,13 +8,14 @@ url: /aspose.cells.charts/chart/set_chart_data_range/
 is_root: false
 ---
 
-## set_chart_data_range {#str-bool}
+## set_chart_data_range(self, area, is_vertical) {#str-bool}
 
 Specifies data range for a chart.
 
 
 
 ```python
+
 def set_chart_data_range(self, area, is_vertical):
     ...
 ```

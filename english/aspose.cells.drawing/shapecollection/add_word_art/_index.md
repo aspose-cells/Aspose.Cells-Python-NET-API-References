@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_word_art/
 is_root: false
 ---
 
-## add_word_art {#aspose.cells.drawing.PresetWordArtStyle-str-int-int-int-int-int-int}
+## add_word_art(self, style, text, upper_left_row, top, upper_left_column, left, height, width) {#aspose.cells.drawing.PresetWordArtStyle-str-int-int-int-int-int-int}
 
 Adds preset WordArt since Excel 2007.s
 
@@ -20,6 +20,7 @@ Adds preset WordArt since Excel 2007.s
 
 
 ```python
+
 def add_word_art(self, style, text, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

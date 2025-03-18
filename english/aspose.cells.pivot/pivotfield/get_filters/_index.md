@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/get_filters/
 is_root: false
 ---
 
-## get_filters {#}
+## get_filters(self) {#}
 
 Gets all pivot filters of this pivot field.
 
 
 
 ```python
+
 def get_filters(self):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/cellwatchcollection/add/
 is_root: false
 ---
 
-## add {#str}
+## add(self, cell_name) {#str}
 
 Adds [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) with the name the of cell.
 
@@ -20,6 +20,7 @@ Adds [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) with the name the o
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -30,7 +31,7 @@ def add(self, cell_name):
 | cell_name | str | The name of the cell. |
 
 
-## add {#int-int}
+## add(self, row, column) {#int-int}
 
 Adds [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) with row and column.
 
@@ -42,6 +43,7 @@ Returns the position of this item in the collection.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```

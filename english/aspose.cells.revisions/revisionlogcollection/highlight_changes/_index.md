@@ -8,13 +8,14 @@ url: /aspose.cells.revisions/revisionlogcollection/highlight_changes/
 is_root: false
 ---
 
-## highlight_changes {#aspose.cells.revisions.HighlightChangesOptions}
+## highlight_changes(self, options) {#aspose.cells.revisions.HighlightChangesOptions}
 
 Highlights changes of shared workbook.
 
 
 
 ```python
+
 def highlight_changes(self, options):
     ...
 ```

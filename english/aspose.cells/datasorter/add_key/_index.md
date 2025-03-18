@@ -8,13 +8,14 @@ url: /aspose.cells/datasorter/add_key/
 is_root: false
 ---
 
-## add_key {#int-aspose.cells.SortOrder}
+## add_key(self, key, order) {#int-aspose.cells.SortOrder}
 
 Adds sorted column index and sort order.
 
 
 
 ```python
+
 def add_key(self, key, order):
     ...
 ```
@@ -26,13 +27,14 @@ def add_key(self, key, order):
 | order | [`SortOrder`](/cells/python-net/aspose.cells/sortorder) | The sort order |
 
 
-## add_key {#int-aspose.cells.SortOrder-str}
+## add_key(self, key, order, custom_list) {#int-aspose.cells.SortOrder-str}
 
 Adds sorted column index and sort order with custom sort list.
 
 
 
 ```python
+
 def add_key(self, key, order, custom_list):
     ...
 ```
@@ -45,13 +47,14 @@ def add_key(self, key, order, custom_list):
 | custom_list | str | The custom sort list. |
 
 
-## add_key {#int-aspose.cells.SortOrder-list}
+## add_key(self, key, order, custom_list) {#int-aspose.cells.SortOrder-list}
 
 Adds sorted column index and sort order with custom sort list.
 
 
 
 ```python
+
 def add_key(self, key, order, custom_list):
     ...
 ```
@@ -64,13 +67,14 @@ def add_key(self, key, order, custom_list):
 | custom_list | list | The custom sort list. |
 
 
-## add_key {#int-aspose.cells.SortOnType-aspose.cells.SortOrder-any}
+## add_key(self, key, type, order, custom_list) {#int-aspose.cells.SortOnType-aspose.cells.SortOrder-any}
 
 Adds sorted column index and sort order with custom sort list.
 
 
 
 ```python
+
 def add_key(self, key, type, order, custom_list):
     ...
 ```

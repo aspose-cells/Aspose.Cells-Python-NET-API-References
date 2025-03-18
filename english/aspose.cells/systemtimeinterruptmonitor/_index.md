@@ -3,7 +3,7 @@ title: SystemTimeInterruptMonitor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1550
+weight: 1560
 url: /aspose.cells/systemtimeinterruptmonitor/
 is_root: false
 ---
@@ -24,7 +24,7 @@ The SystemTimeInterruptMonitor type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/systemtimeinterruptmonitor/__init__/#bool) | Constructs one interruption monitor. |
+| [`__init__(self, terminate_without_exception)`](/cells/python-net/aspose.cells/systemtimeinterruptmonitor/__init__/#bool) | Constructs one interruption monitor. |
 
 
 ### Properties
@@ -37,7 +37,7 @@ The SystemTimeInterruptMonitor type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [start_monitor](/cells/python-net/aspose.cells/systemtimeinterruptmonitor/start_monitor/#int) | Starts the monitor with the specified time limit. The start time to calculate time cost is just when this method is called,<br/>so the procedure which needs to be monitored should be started just after this call. |
+| [`start_monitor(self, ms_limit)`](/cells/python-net/aspose.cells/systemtimeinterruptmonitor/start_monitor/#int) | Starts the monitor with the specified time limit. The start time to calculate time cost is just when this method is called,<br/>so the procedure which needs to be monitored should be started just after this call. |
 
 
 

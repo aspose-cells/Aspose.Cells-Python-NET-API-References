@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdataprovider/start_sheet/
 is_root: false
 ---
 
-## start_sheet {#int}
+## start_sheet(self, sheet_index) {#int}
 
 Starts to save a worksheet.
 
@@ -20,6 +20,7 @@ true if this provider will provide data for the given sheet; false if given shee
 
 
 ```python
+
 def start_sheet(self, sheet_index):
     ...
 ```

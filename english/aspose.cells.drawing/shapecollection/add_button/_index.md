@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_button/
 is_root: false
 ---
 
-## add_button {#int-int-int-int-int-int}
+## add_button(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a Button to the worksheet.
 
@@ -20,6 +20,7 @@ A Button object.
 
 
 ```python
+
 def add_button(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

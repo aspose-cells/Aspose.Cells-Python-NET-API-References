@@ -8,7 +8,7 @@ url: /aspose.cells.rendering/workbookrender/get_page_size_inch/
 is_root: false
 ---
 
-## get_page_size_inch {#int}
+## get_page_size_inch(self, page_index) {#int}
 
 Get page size in inch of output image.
 
@@ -20,6 +20,7 @@ Page size of image, [0] for width and [1] for height
 
 
 ```python
+
 def get_page_size_inch(self, page_index):
     ...
 ```

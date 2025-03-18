@@ -8,13 +8,14 @@ url: /aspose.cells/cells/delete_blank_columns/
 is_root: false
 ---
 
-## delete_blank_columns {#}
+## delete_blank_columns(self) {#}
 
 Delete all blank columns which do not contain any data.
 
 
 
 ```python
+
 def delete_blank_columns(self):
     ...
 ```
@@ -22,13 +23,14 @@ def delete_blank_columns(self):
 
 
 
-## delete_blank_columns {#aspose.cells.DeleteOptions}
+## delete_blank_columns(self, options) {#aspose.cells.DeleteOptions}
 
 Delete all blank columns which do not contain any data.
 
 
 
 ```python
+
 def delete_blank_columns(self, options):
     ...
 ```

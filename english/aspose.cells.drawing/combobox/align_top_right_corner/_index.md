@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/combobox/align_top_right_corner/
 is_root: false
 ---
 
-## align_top_right_corner {#int-int}
+## align_top_right_corner(self, top_row, right_column) {#int-int}
 
 Moves the picture to the top-right corner.
 
 
 
 ```python
+
 def align_top_right_corner(self, top_row, right_column):
     ...
 ```

@@ -3,7 +3,7 @@ title: default_width property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.charts/legend/default_width/
 is_root: false
 ---
@@ -11,7 +11,16 @@ is_root: false
 ## default_width property
 
 
-Represents width of default position
+Represents width of default position in units of 1/4000 of the chart area.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. 
+Please use ChartFrame.DefaultWidthRatioToChart property, instead.
+DefaultWidth = (int)(DefaultWidthRatioToChart * 4000);
+This property will be removed 12 months later since February 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.texts/fontsettingcollection/replace/
 is_root: false
 ---
 
-## replace {#str-str}
+## replace(self, old_value, new_value) {#str-str}
 
 Replace the text.
 
 
 
 ```python
+
 def replace(self, old_value, new_value):
     ...
 ```
@@ -26,13 +27,14 @@ def replace(self, old_value, new_value):
 | new_value | str | The new text. |
 
 
-## replace {#int-int-str}
+## replace(self, index, count, text) {#int-int-str}
 
 Replace the text.
 
 
 
 ```python
+
 def replace(self, index, count, text):
     ...
 ```

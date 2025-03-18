@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/un_freeze_panes/
 is_root: false
 ---
 
-## un_freeze_panes {#}
+## un_freeze_panes(self) {#}
 
 Unfreezes panes in the worksheet.
 
 
 
 ```python
+
 def un_freeze_panes(self):
     ...
 ```

@@ -3,7 +3,7 @@ title: WorkbookSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1750
+weight: 1760
 url: /aspose.cells/workbooksettings/
 is_root: false
 ---
@@ -88,8 +88,8 @@ The WorkbookSettings type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_theme_font](/cells/python-net/aspose.cells/workbooksettings/get_theme_font/#aspose.cells.FontSchemeType) | Gets the default theme font name. |
-| [set_page_orientation_type](/cells/python-net/aspose.cells/workbooksettings/set_page_orientation_type/#aspose.cells.PageOrientationType) | Set the type of  print orientation for the whole workbook. |
+| [`get_theme_font(self, type)`](/cells/python-net/aspose.cells/workbooksettings/get_theme_font/#aspose.cells.fontschemetype) | Gets the default theme font name. |
+| [`set_page_orientation_type(self, page_orientation_type)`](/cells/python-net/aspose.cells/workbooksettings/set_page_orientation_type/#aspose.cells.pageorientationtype) | Set the type of  print orientation for the whole workbook. |
 
 
 

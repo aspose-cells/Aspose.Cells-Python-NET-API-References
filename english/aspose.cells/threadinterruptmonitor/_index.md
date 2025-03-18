@@ -3,7 +3,7 @@ title: ThreadInterruptMonitor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1570
+weight: 1580
 url: /aspose.cells/threadinterruptmonitor/
 is_root: false
 ---
@@ -24,7 +24,7 @@ The ThreadInterruptMonitor type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/threadinterruptmonitor/__init__/#bool) | Constructs one interruption monitor. |
+| [`__init__(self, terminate_without_exception)`](/cells/python-net/aspose.cells/threadinterruptmonitor/__init__/#bool) | Constructs one interruption monitor. |
 
 
 ### Properties
@@ -37,8 +37,8 @@ The ThreadInterruptMonitor type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [start_monitor](/cells/python-net/aspose.cells/threadinterruptmonitor/start_monitor/#int) | Starts the monitor with the specified time limit. The start time to calculate time cost is just when this method is called,<br/>so the procedure which needs to be monitored should be started just after this call. |
-| [finish_monitor](/cells/python-net/aspose.cells/threadinterruptmonitor/finish_monitor/#) | Finishes the monitor for one procedure. |
+| [`start_monitor(self, ms_limit)`](/cells/python-net/aspose.cells/threadinterruptmonitor/start_monitor/#int) | Starts the monitor with the specified time limit. The start time to calculate time cost is just when this method is called,<br/>so the procedure which needs to be monitored should be started just after this call. |
+| [`finish_monitor(self)`](/cells/python-net/aspose.cells/threadinterruptmonitor/finish_monitor/#) | Finishes the monitor for one procedure. |
 
 
 

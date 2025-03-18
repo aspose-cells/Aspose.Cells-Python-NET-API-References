@@ -19,7 +19,7 @@ The ChartCalculateOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.charts/chartcalculateoptions/__init__/#) | Creates the options for calculating chart. |
+| [`__init__(self)`](/cells/python-net/aspose.cells.charts/chartcalculateoptions/__init__/#) | Creates the options for calculating chart. |
 
 
 ### Properties

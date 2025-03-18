@@ -8,13 +8,14 @@ url: /aspose.cells/row/copy_settings/
 is_root: false
 ---
 
-## copy_settings {#aspose.cells.Row-bool}
+## copy_settings(self, source, check_style) {#aspose.cells.Row-bool}
 
 Copy settings of row, such as style, height, visibility, ...etc.
 
 
 
 ```python
+
 def copy_settings(self, source, check_style):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfieldcollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.pivot.PivotField}
+## add(self, pivot_field) {#aspose.cells.pivot.PivotField}
 
 Adds a PivotField Object to the specific type PivotFields.
 
@@ -20,6 +20,7 @@ the index of  the PivotField Object in this PivotFields.
 
 
 ```python
+
 def add(self, pivot_field):
     ...
 ```

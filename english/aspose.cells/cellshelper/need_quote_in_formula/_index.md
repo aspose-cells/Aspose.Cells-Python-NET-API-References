@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/need_quote_in_formula/
 is_root: false
 ---
 
-## need_quote_in_formula {#str}
+## need_quote_in_formula(, sheet_name) {#str}
 
 Indicates whether the name of the sheet should be enclosed in single quotes
 
@@ -20,7 +20,9 @@ Indicates whether the name of the sheet should be enclosed in single quotes
 
 
 ```python
-def need_quote_in_formula(self, sheet_name):
+
+@staticmethod
+def need_quote_in_formula(sheet_name):
     ...
 ```
 

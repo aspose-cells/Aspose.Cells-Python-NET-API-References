@@ -3,7 +3,7 @@ title: TxtSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1660
+weight: 1670
 url: /aspose.cells/txtsaveoptions/
 is_root: false
 ---
@@ -24,8 +24,8 @@ The TxtSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/txtsaveoptions/__init__/#) | Creates text file save options. |
-| [__init__](/cells/python-net/aspose.cells/txtsaveoptions/__init__/#aspose.cells.SaveFormat) | Creates text file save options. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/txtsaveoptions/__init__/#) | Creates text file save options. |
+| [`__init__(self, save_format)`](/cells/python-net/aspose.cells/txtsaveoptions/__init__/#aspose.cells.saveformat) | Creates text file save options. |
 
 
 ### Properties

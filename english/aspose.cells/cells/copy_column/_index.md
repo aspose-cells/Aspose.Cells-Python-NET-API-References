@@ -8,13 +8,14 @@ url: /aspose.cells/cells/copy_column/
 is_root: false
 ---
 
-## copy_column {#aspose.cells.Cells-int-int}
+## copy_column(self, source_cells, source_column_index, destination_column_index) {#aspose.cells.Cells-int-int}
 
 Copies data and formats of a whole column.
 
 
 
 ```python
+
 def copy_column(self, source_cells, source_column_index, destination_column_index):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfield/is_hidden_item/
 is_root: false
 ---
 
-## is_hidden_item {#int}
+## is_hidden_item(self, index) {#int}
 
 Gets whether the specific PivotItem is hidden.
 
@@ -20,6 +20,7 @@ whether the specific PivotItem is hidden
 
 
 ```python
+
 def is_hidden_item(self, index):
     ...
 ```

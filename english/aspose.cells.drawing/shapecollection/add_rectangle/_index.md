@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_rectangle/
 is_root: false
 ---
 
-## add_rectangle {#int-int-int-int-int-int}
+## add_rectangle(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a RectangleShape to the worksheet.
 
@@ -20,6 +20,7 @@ A RectangleShape object.
 
 
 ```python
+
 def add_rectangle(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

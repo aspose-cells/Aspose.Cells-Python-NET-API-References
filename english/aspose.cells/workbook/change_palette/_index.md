@@ -8,13 +8,14 @@ url: /aspose.cells/workbook/change_palette/
 is_root: false
 ---
 
-## change_palette {#aspose.pydrawing.Color-int}
+## change_palette(self, color, index) {#aspose.pydrawing.Color-int}
 
 Changes the palette for the spreadsheet in the specified index.
 
 
 
 ```python
+
 def change_palette(self, color, index):
     ...
 ```

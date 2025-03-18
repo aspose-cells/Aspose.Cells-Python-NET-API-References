@@ -3,18 +3,19 @@ title: insert_columns method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 700
+weight: 690
 url: /aspose.cells/cells/insert_columns/
 is_root: false
 ---
 
-## insert_columns {#int-int}
+## insert_columns(self, column_index, total_columns) {#int-int}
 
 Inserts some columns into the worksheet.
 
 
 
 ```python
+
 def insert_columns(self, column_index, total_columns):
     ...
 ```
@@ -26,13 +27,14 @@ def insert_columns(self, column_index, total_columns):
 | total_columns | int | The number of columns. |
 
 
-## insert_columns {#int-int-bool}
+## insert_columns(self, column_index, total_columns, update_reference) {#int-int-bool}
 
 Inserts some columns into the worksheet.
 
 
 
 ```python
+
 def insert_columns(self, column_index, total_columns, update_reference):
     ...
 ```
@@ -45,13 +47,14 @@ def insert_columns(self, column_index, total_columns, update_reference):
 | update_reference | bool | Indicates if references in other worksheets will be updated. |
 
 
-## insert_columns {#int-int-aspose.cells.InsertOptions}
+## insert_columns(self, column_index, total_columns, options) {#int-int-aspose.cells.InsertOptions}
 
 Inserts some columns into the worksheet.
 
 
 
 ```python
+
 def insert_columns(self, column_index, total_columns, options):
     ...
 ```

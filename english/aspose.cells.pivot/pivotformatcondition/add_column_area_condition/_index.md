@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotformatcondition/add_column_area_condition/
 is_root: false
 ---
 
-## add_column_area_condition {#str}
+## add_column_area_condition(self, field_name) {#str}
 
 
 
 
 
 ```python
+
 def add_column_area_condition(self, field_name):
     ...
 ```
@@ -25,13 +26,14 @@ def add_column_area_condition(self, field_name):
 | field_name | str |  |
 
 
-## add_column_area_condition {#aspose.cells.pivot.PivotField}
+## add_column_area_condition(self, column_field) {#aspose.cells.pivot.PivotField}
 
 
 
 
 
 ```python
+
 def add_column_area_condition(self, column_field):
     ...
 ```

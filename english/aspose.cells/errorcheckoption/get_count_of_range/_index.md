@@ -8,7 +8,7 @@ url: /aspose.cells/errorcheckoption/get_count_of_range/
 is_root: false
 ---
 
-## get_count_of_range {#}
+## get_count_of_range(self) {#}
 
 Gets the count of ranges that influenced by this setting.
 
@@ -20,6 +20,7 @@ the count of ranges that influenced by this setting.
 
 
 ```python
+
 def get_count_of_range(self):
     ...
 ```

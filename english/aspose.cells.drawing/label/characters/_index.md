@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/label/characters/
 is_root: false
 ---
 
-## characters {#int-int}
+## characters(self, start_index, length) {#int-int}
 
 Returns a Characters object that represents a range of characters within the text.
 
@@ -20,6 +20,7 @@ Characters object.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```

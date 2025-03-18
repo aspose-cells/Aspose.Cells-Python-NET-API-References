@@ -8,13 +8,14 @@ url: /aspose.cells/cells/clear_merged_cells/
 is_root: false
 ---
 
-## clear_merged_cells {#}
+## clear_merged_cells(self) {#}
 
 Clears all merged ranges.
 
 
 
 ```python
+
 def clear_merged_cells(self):
     ...
 ```

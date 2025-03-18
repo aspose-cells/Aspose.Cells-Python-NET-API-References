@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapecollection/copy_in_range/
 is_root: false
 ---
 
-## copy_in_range {#aspose.cells.drawing.ShapeCollection-aspose.cells.CellArea-int-int-bool}
+## copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained) {#aspose.cells.drawing.ShapeCollection-aspose.cells.CellArea-int-int-bool}
 
 Copy shapes in the range to destination range.
 
 
 
 ```python
+
 def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
     ...
 ```

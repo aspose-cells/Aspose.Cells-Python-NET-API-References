@@ -8,13 +8,14 @@ url: /aspose.cells/autofilter/add_font_color_filter/
 is_root: false
 ---
 
-## add_font_color_filter {#int-aspose.cells.CellsColor}
+## add_font_color_filter(self, field_index, color) {#int-aspose.cells.CellsColor}
 
 Adds a font color filter.
 
 
 
 ```python
+
 def add_font_color_filter(self, field_index, color):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapecollection/copy_comments_in_range/
 is_root: false
 ---
 
-## copy_comments_in_range {#aspose.cells.drawing.ShapeCollection-aspose.cells.CellArea-int-int}
+## copy_comments_in_range(self, shapes, ca, dest_row, dest_column) {#aspose.cells.drawing.ShapeCollection-aspose.cells.CellArea-int-int}
 
 Copy all comments in the range.
 
 
 
 ```python
+
 def copy_comments_in_range(self, shapes, ca, dest_row, dest_column):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.properties/customdocumentpropertycollection/add/
 is_root: false
 ---
 
-## add {#str-str}
+## add(self, name, value) {#str-str}
 
 Creates a new custom document property of the **PropertyType.String**  data type.
 
@@ -20,6 +20,7 @@ The newly created property object.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -31,7 +32,7 @@ def add(self, name, value):
 | value | str | The value of the property. |
 
 
-## add {#str-int}
+## add(self, name, value) {#str-int}
 
 Creates a new custom document property of the **PropertyType.Number**  data type.
 
@@ -43,6 +44,7 @@ The newly created property object.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -54,7 +56,7 @@ def add(self, name, value):
 | value | int | The value of the property. |
 
 
-## add {#str-DateTime}
+## add(self, name, value) {#str-DateTime}
 
 Creates a new custom document property of the **PropertyType.DateTime**  data type.
 
@@ -66,6 +68,7 @@ The newly created property object.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -77,7 +80,7 @@ def add(self, name, value):
 | value | DateTime | The value of the property. |
 
 
-## add {#str-bool}
+## add(self, name, value) {#str-bool}
 
 Creates a new custom document property of the **PropertyType.Boolean**  data type.
 
@@ -89,6 +92,7 @@ The newly created property object.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -100,7 +104,7 @@ def add(self, name, value):
 | value | bool | The value of the property. |
 
 
-## add {#str-float}
+## add(self, name, value) {#str-float}
 
 Creates a new custom document property of the **PropertyType.Float**  data type.
 
@@ -112,6 +116,7 @@ The newly created property object.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```

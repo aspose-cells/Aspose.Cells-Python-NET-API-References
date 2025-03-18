@@ -3,7 +3,7 @@ title: Style class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1510
+weight: 1520
 url: /aspose.cells/style/
 is_root: false
 ---
@@ -20,7 +20,7 @@ The Style type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/style/__init__/#) | Initializes a new instance of the [`Style`](/cells/python-net/aspose.cells/style) class. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/style/__init__/#) | Initializes a new instance of the [`Style`](/cells/python-net/aspose.cells/style) class. |
 
 
 ### Properties
@@ -67,17 +67,17 @@ The Style type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_border](/cells/python-net/aspose.cells/style/set_border/#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color) | Sets the borders of the style. |
-| [set_border](/cells/python-net/aspose.cells/style/set_border/#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor) | Sets the borders of the style. |
-| [set_pattern_color](/cells/python-net/aspose.cells/style/set_pattern_color/#aspose.cells.BackgroundType-aspose.pydrawing.Color-aspose.pydrawing.Color) | Sets the background color. |
-| [copy](/cells/python-net/aspose.cells/style/copy/#aspose.cells.Style) | Copies data from another style object |
-| [update](/cells/python-net/aspose.cells/style/update/#) | Apply the named style to the styles of the cells which use this named style.<br/>It works like clicking the "ok" button after you finished modifying the style.<br/>Only applies for named style. |
-| [is_modified](/cells/python-net/aspose.cells/style/is_modified/#aspose.cells.StyleModifyFlag) | Checks whether the specified properties of the style have been modified.<br/>Used for style of ConditionalFormattings to check whether the specified properties of this style should be used when applying the ConditionalFormattings on a cell. |
-| [set_custom](/cells/python-net/aspose.cells/style/set_custom/#str-bool) | Sets the Custom number format string of a cell. |
-| [set_two_color_gradient](/cells/python-net/aspose.cells/style/set_two_color_gradient/#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int) | Sets the specified fill to a two-color gradient. |
-| [get_two_color_gradient](/cells/python-net/aspose.cells/style/get_two_color_gradient/#aspose.pydrawing.Color&-aspose.pydrawing.Color&-any-any) | Get the two-color gradient setting. |
-| [get_two_color_gradient_setting](/cells/python-net/aspose.cells/style/get_two_color_gradient_setting/#) | Get the two-color gradient setting. |
-| [to_json](/cells/python-net/aspose.cells/style/to_json/#) | Convert [`Style`](/cells/python-net/aspose.cells/style) to JSON struct data. |
+| [`set_border(self, border_type, border_style, border_color)`](/cells/python-net/aspose.cells/style/set_border/#aspose.cells.bordertype-aspose.cells.cellbordertype-aspose.pydrawing.color) | Sets the borders of the style. |
+| [`set_border(self, border_type, border_style, border_color)`](/cells/python-net/aspose.cells/style/set_border/#aspose.cells.bordertype-aspose.cells.cellbordertype-aspose.cells.cellscolor) | Sets the borders of the style. |
+| [`set_pattern_color(self, pattern, color1, color2)`](/cells/python-net/aspose.cells/style/set_pattern_color/#aspose.cells.backgroundtype-aspose.pydrawing.color-aspose.pydrawing.color) | Sets the background color. |
+| [`copy(self, style)`](/cells/python-net/aspose.cells/style/copy/#aspose.cells.style) | Copies data from another style object |
+| [`update(self)`](/cells/python-net/aspose.cells/style/update/#) | Apply the named style to the styles of the cells which use this named style.<br/>It works like clicking the "ok" button after you finished modifying the style.<br/>Only applies for named style. |
+| [`is_modified(self, modify_flag)`](/cells/python-net/aspose.cells/style/is_modified/#aspose.cells.stylemodifyflag) | Checks whether the specified properties of the style have been modified.<br/>Used for style of ConditionalFormattings to check whether the specified properties of this style should be used when applying the ConditionalFormattings on a cell. |
+| [`set_custom(self, custom, builtin_preference)`](/cells/python-net/aspose.cells/style/set_custom/#str-bool) | Sets the Custom number format string of a cell. |
+| [`set_two_color_gradient(self, color1, color2, gradient_style_type, variant)`](/cells/python-net/aspose.cells/style/set_two_color_gradient/#aspose.pydrawing.color-aspose.pydrawing.color-aspose.cells.drawing.gradientstyletype-int) | Sets the specified fill to a two-color gradient. |
+| [`get_two_color_gradient(self, color1, color2, gradient_style_type, variant)`](/cells/python-net/aspose.cells/style/get_two_color_gradient/#aspose.pydrawing.color&-aspose.pydrawing.color&-any-any) | Get the two-color gradient setting. |
+| [`get_two_color_gradient_setting(self)`](/cells/python-net/aspose.cells/style/get_two_color_gradient_setting/#) | Get the two-color gradient setting. |
+| [`to_json(self)`](/cells/python-net/aspose.cells/style/to_json/#) | Convert [`Style`](/cells/python-net/aspose.cells/style) to JSON struct data. |
 
 
 

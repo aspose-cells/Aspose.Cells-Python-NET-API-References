@@ -3,7 +3,7 @@ title: IStreamProvider class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 950
+weight: 960
 url: /aspose.cells/istreamprovider/
 is_root: false
 ---
@@ -19,8 +19,8 @@ The IStreamProvider type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [init_stream](/cells/python-net/aspose.cells/istreamprovider/init_stream/#aspose.cells.StreamProviderOptions) | Gets the stream. |
-| [close_stream](/cells/python-net/aspose.cells/istreamprovider/close_stream/#aspose.cells.StreamProviderOptions) | Closes the stream. |
+| [`init_stream(self, options)`](/cells/python-net/aspose.cells/istreamprovider/init_stream/#aspose.cells.streamprovideroptions) | Gets the stream. |
+| [`close_stream(self, options)`](/cells/python-net/aspose.cells/istreamprovider/close_stream/#aspose.cells.streamprovideroptions) | Closes the stream. |
 
 
 

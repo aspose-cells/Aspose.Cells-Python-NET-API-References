@@ -19,7 +19,7 @@ The PivotTableCalculateOption type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells.pivot/pivottablecalculateoption/__init__/#) | Constructs a new instance of PivotTableCalculateOption |
+| [`__init__(self)`](/cells/python-net/aspose.cells.pivot/pivottablecalculateoption/__init__/#) | Constructs a new instance of PivotTableCalculateOption |
 
 
 ### Properties

@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartglobalizationsettings/get_chart_title_name/
 is_root: false
 ---
 
-## get_chart_title_name {#}
+## get_chart_title_name(self) {#}
 
 Gets the name of Chart Title.
 
@@ -20,6 +20,7 @@ Gets the name of Chart Title.
 
 
 ```python
+
 def get_chart_title_name(self):
     ...
 ```

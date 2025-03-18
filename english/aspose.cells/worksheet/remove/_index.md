@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/remove/
 is_root: false
 ---
 
-## remove {#}
+## remove(self) {#}
 
 Remove current sheet (CELLSPYTHONNET-192,User requests to add this API)
 
 
 
 ```python
+
 def remove(self):
     ...
 ```

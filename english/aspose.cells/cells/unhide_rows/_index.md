@@ -3,18 +3,19 @@ title: unhide_rows method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1010
+weight: 1000
 url: /aspose.cells/cells/unhide_rows/
 is_root: false
 ---
 
-## unhide_rows {#int-int-float}
+## unhide_rows(self, row, total_rows, height) {#int-int-float}
 
 Unhides the hidden rows.
 
 
 
 ```python
+
 def unhide_rows(self, row, total_rows, height):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/settableglobalizationsettings/set_table_row_type_of_current/
 is_root: false
 ---
 
-## set_table_row_type_of_current {#str}
+## set_table_row_type_of_current(self, name) {#str}
 
 Sets the type name of table rows that consists of the current row in referenced table.
 
 
 
 ```python
+
 def set_table_row_type_of_current(self, name):
     ...
 ```

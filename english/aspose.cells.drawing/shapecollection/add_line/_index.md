@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_line/
 is_root: false
 ---
 
-## add_line {#int-int-int-int-int-int}
+## add_line(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a LineShape to the worksheet.
 
@@ -20,6 +20,7 @@ A LineShape object.
 
 
 ```python
+
 def add_line(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

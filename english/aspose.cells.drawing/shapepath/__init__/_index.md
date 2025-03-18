@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapepath/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`ShapePath`](/cells/python-net/aspose.cells.drawing/shapepath) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

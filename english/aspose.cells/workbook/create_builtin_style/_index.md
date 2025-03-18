@@ -3,12 +3,12 @@ title: create_builtin_style method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells/workbook/create_builtin_style/
 is_root: false
 ---
 
-## create_builtin_style {#aspose.cells.BuiltinStyleType}
+## create_builtin_style(self, type) {#aspose.cells.BuiltinStyleType}
 
 Creates built-in style by given type.
 
@@ -20,6 +20,7 @@ Creates built-in style by given type.
 
 
 ```python
+
 def create_builtin_style(self, type):
     ...
 ```

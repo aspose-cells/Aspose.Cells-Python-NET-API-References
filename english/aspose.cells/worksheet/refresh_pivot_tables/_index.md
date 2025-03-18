@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/refresh_pivot_tables/
 is_root: false
 ---
 
-## refresh_pivot_tables {#}
+## refresh_pivot_tables(self) {#}
 
 Refreshes all the PivotTables in this Worksheet.
 
 
 
 ```python
+
 def refresh_pivot_tables(self):
     ...
 ```
@@ -22,13 +23,14 @@ def refresh_pivot_tables(self):
 
 
 
-## refresh_pivot_tables {#aspose.cells.pivot.PivotTableRefreshOption}
+## refresh_pivot_tables(self, option) {#aspose.cells.pivot.PivotTableRefreshOption}
 
 Refreshes all the PivotTables in this Worksheet.
 
 
 
 ```python
+
 def refresh_pivot_tables(self, option):
     ...
 ```

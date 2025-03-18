@@ -8,7 +8,7 @@ url: /aspose.cells/lightcellsdatahandler/process_row/
 is_root: false
 ---
 
-## process_row {#aspose.cells.Row}
+## process_row(self, row) {#aspose.cells.Row}
 
 Starts to process one row.
 
@@ -20,6 +20,7 @@ whether this row's cells need to be processed. false to ignore all cells in this
 
 
 ```python
+
 def process_row(self, row):
     ...
 ```

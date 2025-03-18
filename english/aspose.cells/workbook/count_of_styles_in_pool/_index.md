@@ -3,7 +3,7 @@ title: count_of_styles_in_pool property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 490
+weight: 500
 url: /aspose.cells/workbook/count_of_styles_in_pool/
 is_root: false
 ---

@@ -8,13 +8,14 @@ url: /aspose.cells/settableglobalizationsettings/set_boolean_value_string/
 is_root: false
 ---
 
-## set_boolean_value_string {#bool-str}
+## set_boolean_value_string(self, bv, name) {#bool-str}
 
 Sets the display string value for cell's boolean value
 
 
 
 ```python
+
 def set_boolean_value_string(self, bv, name):
     ...
 ```

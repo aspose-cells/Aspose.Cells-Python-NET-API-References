@@ -8,7 +8,7 @@ url: /aspose.cells/errorcheckoptioncollection/add/
 is_root: false
 ---
 
-## add {#}
+## add(self) {#}
 
 Add an error check option.
 
@@ -20,6 +20,7 @@ Add an error check option.
 
 
 ```python
+
 def add(self):
     ...
 ```

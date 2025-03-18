@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/lineformat/set_preset_color_gradient/
 is_root: false
 ---
 
-## set_preset_color_gradient {#aspose.cells.drawing.GradientPresetType-aspose.cells.drawing.GradientStyleType-int}
+## set_preset_color_gradient(self, preset_color, style, variant) {#aspose.cells.drawing.GradientPresetType-aspose.cells.drawing.GradientStyleType-int}
 
 Sets the specified fill to a preset-color gradient.
 Only applies for Excel 2007.
@@ -16,6 +16,7 @@ Only applies for Excel 2007.
 
 
 ```python
+
 def set_preset_color_gradient(self, preset_color, style, variant):
     ...
 ```

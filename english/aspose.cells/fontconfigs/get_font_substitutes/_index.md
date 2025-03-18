@@ -3,12 +3,12 @@ title: get_font_substitutes method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells/fontconfigs/get_font_substitutes/
 is_root: false
 ---
 
-## get_font_substitutes {#str}
+## get_font_substitutes(, original_font_name) {#str}
 
 Returns array containing font substitute names to be used if original font is not presented.
 
@@ -20,7 +20,9 @@ An array containing font substitute names to be used if original font is not pre
 
 
 ```python
-def get_font_substitutes(self, original_font_name):
+
+@staticmethod
+def get_font_substitutes(original_font_name):
     ...
 ```
 

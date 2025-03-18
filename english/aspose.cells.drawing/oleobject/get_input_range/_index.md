@@ -3,12 +3,12 @@ title: get_input_range method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells.drawing/oleobject/get_input_range/
 is_root: false
 ---
 
-## get_input_range {#bool-bool}
+## get_input_range(self, is_r1c1, is_local) {#bool-bool}
 
 Gets the range used to fill the control.
 
@@ -20,6 +20,7 @@ The range used to fill the control.
 
 
 ```python
+
 def get_input_range(self, is_r1c1, is_local):
     ...
 ```

@@ -3,7 +3,7 @@ title: XlsbSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1800
+weight: 1810
 url: /aspose.cells/xlsbsaveoptions/
 is_root: false
 ---
@@ -24,8 +24,8 @@ The XlsbSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/xlsbsaveoptions/__init__/#) | Creates xlsb file save options. |
-| [__init__](/cells/python-net/aspose.cells/xlsbsaveoptions/__init__/#aspose.cells.SaveFormat) | Creates xlsb file save options. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/xlsbsaveoptions/__init__/#) | Creates xlsb file save options. |
+| [`__init__(self, save_format)`](/cells/python-net/aspose.cells/xlsbsaveoptions/__init__/#aspose.cells.saveformat) | Creates xlsb file save options. |
 
 
 ### Properties

@@ -8,13 +8,14 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_multiple_items
 is_root: false
 ---
 
-## set_text_of_multiple_items {#str}
+## set_text_of_multiple_items(self, text) {#str}
 
 Sets the text of "(Multiple Items)" label in the PivotTable.
 
 
 
 ```python
+
 def set_text_of_multiple_items(self, text):
     ...
 ```

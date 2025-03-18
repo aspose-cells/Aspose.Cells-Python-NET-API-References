@@ -3,18 +3,19 @@ title: un_merge method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 950
+weight: 940
 url: /aspose.cells/cells/un_merge/
 is_root: false
 ---
 
-## un_merge {#int-int-int-int}
+## un_merge(self, first_row, first_column, total_rows, total_columns) {#int-int-int-int}
 
 Unmerges a specified range of merged cells.
 
 
 
 ```python
+
 def un_merge(self, first_row, first_column, total_rows, total_columns):
     ...
 ```

@@ -3,12 +3,12 @@ title: get_column_width_pixel method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells/cells/get_column_width_pixel/
 is_root: false
 ---
 
-## get_column_width_pixel {#int}
+## get_column_width_pixel(self, column) {#int}
 
 Gets the width of the specified column in normal view, in units of pixel.
 
@@ -20,6 +20,7 @@ Width of column in normal view.
 
 
 ```python
+
 def get_column_width_pixel(self, column):
     ...
 ```
@@ -30,7 +31,7 @@ def get_column_width_pixel(self, column):
 | column | int | Column index |
 
 
-## get_column_width_pixel {#int-bool}
+## get_column_width_pixel(self, column, original) {#int-bool}
 
 Gets the width of the specified column in normal view, in units of pixel.
 
@@ -42,6 +43,7 @@ Width of column in normal view.
 
 
 ```python
+
 def get_column_width_pixel(self, column, original):
     ...
 ```

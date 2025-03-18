@@ -8,7 +8,7 @@ url: /aspose.cells/hyperlinkcollection/add/
 is_root: false
 ---
 
-## add {#str-int-int-str}
+## add(self, cell_name, total_rows, total_columns, address) {#str-int-int-str}
 
 Adds a hyperlink to a specified cell or a range of cells.
 
@@ -20,6 +20,7 @@ Adds a hyperlink to a specified cell or a range of cells.
 
 
 ```python
+
 def add(self, cell_name, total_rows, total_columns, address):
     ...
 ```
@@ -33,7 +34,7 @@ def add(self, cell_name, total_rows, total_columns, address):
 | address | str | Address of the hyperlink. |
 
 
-## add {#int-int-int-int-str}
+## add(self, first_row, first_column, total_rows, total_columns, address) {#int-int-int-int-str}
 
 Adds a hyperlink to a specified cell or a range of cells.
 
@@ -45,6 +46,7 @@ Adds a hyperlink to a specified cell or a range of cells.
 
 
 ```python
+
 def add(self, first_row, first_column, total_rows, total_columns, address):
     ...
 ```
@@ -73,7 +75,7 @@ worksheet.hyperlinks.add("A5", 1, 1, "c:\\book1.xls")
 ```
 
 
-## add {#str-str-str-str-str}
+## add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip) {#str-str-str-str-str}
 
 Adds a hyperlink to a specified cell or a range of cells.
 
@@ -85,6 +87,7 @@ Adds a hyperlink to a specified cell or a range of cells.
 
 
 ```python
+
 def add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip):
     ...
 ```

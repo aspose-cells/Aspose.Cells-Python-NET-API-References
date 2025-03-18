@@ -8,7 +8,7 @@ url: /aspose.cells/workbooksettings/get_theme_font/
 is_root: false
 ---
 
-## get_theme_font {#aspose.cells.FontSchemeType}
+## get_theme_font(self, type) {#aspose.cells.FontSchemeType}
 
 Gets the default theme font name.
 
@@ -20,6 +20,7 @@ Gets the default theme font name.
 
 
 ```python
+
 def get_theme_font(self, type):
     ...
 ```

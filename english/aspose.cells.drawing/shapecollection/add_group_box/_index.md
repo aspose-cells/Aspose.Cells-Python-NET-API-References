@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_group_box/
 is_root: false
 ---
 
-## add_group_box {#int-int-int-int-int-int}
+## add_group_box(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a GroupBox to the worksheet.
 
@@ -20,6 +20,7 @@ A GroupBox object.
 
 
 ```python
+
 def add_group_box(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

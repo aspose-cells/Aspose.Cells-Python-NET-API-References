@@ -8,13 +8,14 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_column_labels/
 is_root: false
 ---
 
-## set_text_of_column_labels {#str}
+## set_text_of_column_labels(self, text) {#str}
 
 Gets the text of "Column Labels" label in the PivotTable.
 
 
 
 ```python
+
 def set_text_of_column_labels(self, text):
     ...
 ```

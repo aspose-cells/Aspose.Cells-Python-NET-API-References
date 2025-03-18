@@ -8,13 +8,14 @@ url: /aspose.cells/individualfontconfigs/set_font_substitutes/
 is_root: false
 ---
 
-## set_font_substitutes {#str-list}
+## set_font_substitutes(self, original_font_name, substitute_font_names) {#str-list}
 
 Font substitute names for given original font name.
 
 
 
 ```python
+
 def set_font_substitutes(self, original_font_name, substitute_font_names):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/namecollection/filter/
 is_root: false
 ---
 
-## filter {#aspose.cells.NameScopeType-int}
+## filter(self, type, sheet_index) {#aspose.cells.NameScopeType-int}
 
 Gets all defined name by scope.
 
@@ -20,6 +20,7 @@ Gets all defined name by scope.
 
 
 ```python
+
 def filter(self, type, sheet_index):
     ...
 ```

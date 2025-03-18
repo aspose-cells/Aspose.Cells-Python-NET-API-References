@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/calculate_array_formula/
 is_root: false
 ---
 
-## calculate_array_formula {#str-aspose.cells.CalculationOptions}
+## calculate_array_formula(self, formula, opts) {#str-aspose.cells.CalculationOptions}
 
 Calculates a formula as array formula.
 
 
 
 ```python
+
 def calculate_array_formula(self, formula, opts):
     ...
 ```
@@ -26,7 +27,7 @@ def calculate_array_formula(self, formula, opts):
 | opts | [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions) | Options for calculating formula |
 
 
-## calculate_array_formula {#str-aspose.cells.CalculationOptions-int-int}
+## calculate_array_formula(self, formula, opts, max_row_count, max_column_count) {#str-aspose.cells.CalculationOptions-int-int}
 
 Calculates a formula as array formula.
 
@@ -38,6 +39,7 @@ Calculated formula result.
 
 
 ```python
+
 def calculate_array_formula(self, formula, opts, max_row_count, max_column_count):
     ...
 ```
@@ -56,7 +58,7 @@ User specified maximum dimension is used for cases that the calculated result is
 (for example, the calculated result may correspond to a whole row or column data)
 but user does not need so large an array according to business requirement or for performance consideration.
 
-## calculate_array_formula {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-int-int-aspose.cells.CalculationData}
+## calculate_array_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, max_row_count, max_column_count, calculation_data) {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-int-int-aspose.cells.CalculationData}
 
 Calculates a formula as array formula.
 
@@ -68,6 +70,7 @@ Calculated formula result.
 
 
 ```python
+
 def calculate_array_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, max_row_count, max_column_count, calculation_data):
     ...
 ```

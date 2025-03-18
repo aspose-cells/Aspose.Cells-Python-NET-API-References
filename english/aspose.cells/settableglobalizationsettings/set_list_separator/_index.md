@@ -8,13 +8,14 @@ url: /aspose.cells/settableglobalizationsettings/set_list_separator/
 is_root: false
 ---
 
-## set_list_separator {#char}
+## set_list_separator(self, c) {#char}
 
 Sets the separator for list, parameters of function, ...etc.
 
 
 
 ```python
+
 def set_list_separator(self, c):
     ...
 ```

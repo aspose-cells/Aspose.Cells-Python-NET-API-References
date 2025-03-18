@@ -8,13 +8,14 @@ url: /aspose.cells/settableglobalizationsettings/set_row_separator_of_formula_ar
 is_root: false
 ---
 
-## set_row_separator_of_formula_array {#char}
+## set_row_separator_of_formula_array(self, c) {#char}
 
 Sets the separator for rows in array data in formula.
 
 
 
 ```python
+
 def set_row_separator_of_formula_array(self, c):
     ...
 ```

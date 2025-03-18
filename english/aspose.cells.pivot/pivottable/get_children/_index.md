@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/get_children/
 is_root: false
 ---
 
-## get_children {#}
+## get_children(self) {#}
 
 Gets the Children Pivot Tables which use this PivotTable data as data source.
 
@@ -20,6 +20,7 @@ the PivotTable array object
 
 
 ```python
+
 def get_children(self):
     ...
 ```

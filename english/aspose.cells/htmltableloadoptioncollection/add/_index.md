@@ -8,7 +8,7 @@ url: /aspose.cells/htmltableloadoptioncollection/add/
 is_root: false
 ---
 
-## add {#aspose.cells.HtmlTableLoadOption}
+## add(self, item) {#aspose.cells.HtmlTableLoadOption}
 
 Adds one HtmlTableLoadOption into this collection.
 
@@ -20,6 +20,7 @@ the index of the added item
 
 
 ```python
+
 def add(self, item):
     ...
 ```
@@ -30,7 +31,7 @@ def add(self, item):
 | item | [`HtmlTableLoadOption`](/cells/python-net/aspose.cells/htmltableloadoption) | one HtmlTableLoadOption |
 
 
-## add {#int}
+## add(self, table_index) {#int}
 
 Add a HtmlTableLoadOption to the list.
 
@@ -42,6 +43,7 @@ Add a HtmlTableLoadOption to the list.
 
 
 ```python
+
 def add(self, table_index):
     ...
 ```
@@ -52,7 +54,7 @@ def add(self, table_index):
 | table_index | int | Table index |
 
 
-## add {#str}
+## add(self, table_id) {#str}
 
 Add a HtmlTableLoadOption to the list.
 
@@ -64,6 +66,7 @@ Add a HtmlTableLoadOption to the list.
 
 
 ```python
+
 def add(self, table_id):
     ...
 ```
@@ -74,13 +77,14 @@ def add(self, table_id):
 | table_id | str | Table ID |
 
 
-## add {#int-int}
+## add(self, table_index, target_sheet_index) {#int-int}
 
 Add a HtmlTableLoadOption to the list.
 
 
 
 ```python
+
 def add(self, table_index, target_sheet_index):
     ...
 ```
@@ -92,7 +96,7 @@ def add(self, table_index, target_sheet_index):
 | target_sheet_index | int | The target index of worksheet in Excel |
 
 
-## add {#str-int}
+## add(self, table_id, target_sheet_index) {#str-int}
 
 Add a HtmlTableLoadOption to the list.
 
@@ -104,6 +108,7 @@ Add a HtmlTableLoadOption to the list.
 
 
 ```python
+
 def add(self, table_id, target_sheet_index):
     ...
 ```
@@ -115,13 +120,14 @@ def add(self, table_id, target_sheet_index):
 | target_sheet_index | int | The target index of worksheet in Excel |
 
 
-## add {#int-int-int}
+## add(self, table_index, target_sheet_index, original_sheet_index) {#int-int-int}
 
 Add a HtmlTableLoadOption to the list.
 
 
 
 ```python
+
 def add(self, table_index, target_sheet_index, original_sheet_index):
     ...
 ```
@@ -134,7 +140,7 @@ def add(self, table_index, target_sheet_index, original_sheet_index):
 | original_sheet_index | int | The original index of worksheet in the html |
 
 
-## add {#str-int-int}
+## add(self, table_id, target_sheet_index, original_sheet_index) {#str-int-int}
 
 Add a HtmlTableLoadOption to the list.
 
@@ -146,6 +152,7 @@ Add a HtmlTableLoadOption to the list.
 
 
 ```python
+
 def add(self, table_id, target_sheet_index, original_sheet_index):
     ...
 ```

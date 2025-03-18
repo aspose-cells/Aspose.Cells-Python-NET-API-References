@@ -8,7 +8,7 @@ url: /aspose.cells/name/get_range/
 is_root: false
 ---
 
-## get_range {#}
+## get_range(self) {#}
 
 Gets the range if this name refers to a range.
 
@@ -20,6 +20,7 @@ The range.
 
 
 ```python
+
 def get_range(self):
     ...
 ```
@@ -27,7 +28,7 @@ def get_range(self):
 
 
 
-## get_range {#bool}
+## get_range(self, recalculate) {#bool}
 
 Gets the range if this name refers to a range
 
@@ -39,6 +40,7 @@ The range.
 
 
 ```python
+
 def get_range(self, recalculate):
     ...
 ```
@@ -49,7 +51,7 @@ def get_range(self, recalculate):
 | recalculate | bool | whether recalculate it if this name has been calculated before this invocation. |
 
 
-## get_range {#int-int-int}
+## get_range(self, sheet_index, row, column) {#int-int-int}
 
 Gets the range if this name refers to a range.
 If the reference of this name is not absolute, the range may be different for different cell.
@@ -62,6 +64,7 @@ The range.
 
 
 ```python
+
 def get_range(self, sheet_index, row, column):
     ...
 ```

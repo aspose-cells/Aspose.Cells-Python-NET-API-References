@@ -8,13 +8,14 @@ url: /aspose.cells/hyperlink/delete/
 is_root: false
 ---
 
-## delete {#}
+## delete(self) {#}
 
 Deletes this hyperlink
 
 
 
 ```python
+
 def delete(self):
     ...
 ```

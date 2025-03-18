@@ -8,7 +8,7 @@ url: /aspose.cells/range/is_blank/
 is_root: false
 ---
 
-## is_blank {#}
+## is_blank(self) {#}
 
 Indicates whether the range contains values.
 
@@ -20,6 +20,7 @@ Indicates whether the range contains values.
 
 
 ```python
+
 def is_blank(self):
     ...
 ```

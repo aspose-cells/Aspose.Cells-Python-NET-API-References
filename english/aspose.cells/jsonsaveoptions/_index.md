@@ -3,7 +3,7 @@ title: JsonSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1050
+weight: 1060
 url: /aspose.cells/jsonsaveoptions/
 is_root: false
 ---
@@ -24,7 +24,7 @@ The JsonSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/jsonsaveoptions/__init__/#) | Creates options for saving json file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/jsonsaveoptions/__init__/#) | Creates options for saving json file. |
 
 
 ### Properties

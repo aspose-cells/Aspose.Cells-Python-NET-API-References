@@ -3,18 +3,19 @@ title: link_to_xml_map method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 780
 url: /aspose.cells/cells/link_to_xml_map/
 is_root: false
 ---
 
-## link_to_xml_map {#str-int-int-str}
+## link_to_xml_map(self, map_name, row, column, path) {#str-int-int-str}
 
 Link to a xml map.
 
 
 
 ```python
+
 def link_to_xml_map(self, map_name, row, column, path):
     ...
 ```

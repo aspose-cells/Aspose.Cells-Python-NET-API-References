@@ -3,12 +3,12 @@ title: get_equation_paragraph method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells.drawing/textbox/get_equation_paragraph/
 is_root: false
 ---
 
-## get_equation_paragraph {#}
+## get_equation_paragraph(self) {#}
 
 Gets the first math paragraph from the TextBody property of the TextBox object.
 
@@ -20,6 +20,7 @@ If there has math paragraph, returns the first one, otherwise returns null.
 
 
 ```python
+
 def get_equation_paragraph(self):
     ...
 ```
@@ -27,7 +28,7 @@ def get_equation_paragraph(self):
 
 
 
-## get_equation_paragraph {#int}
+## get_equation_paragraph(self, index) {#int}
 
 Get the specified math paragraph from the TextBody property of the TextBox object.
 Notice:
@@ -42,6 +43,7 @@ Returns the math paragraph specified by index.
 
 
 ```python
+
 def get_equation_paragraph(self, index):
     ...
 ```

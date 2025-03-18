@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/sheetset/__init__/
 is_root: false
 ---
 
-## __init__ {#list}
+## \_\_init\_\_(self, sheet_indexes) {#list}
 
 Creates a sheet set based on exact sheet indexes.
 
 
 
 ```python
+
 def __init__(self, sheet_indexes):
     ...
 ```
@@ -27,13 +28,14 @@ def __init__(self, sheet_indexes):
 
 If a sheet is encountered that is not in the workbook, an exception will be thrown during rendering.
 
-## __init__ {#list}
+## \_\_init\_\_(self, sheet_names) {#list}
 
 Creates a sheet set based on exact sheet names.
 
 
 
 ```python
+
 def __init__(self, sheet_names):
     ...
 ```

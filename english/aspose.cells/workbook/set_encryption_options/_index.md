@@ -3,18 +3,19 @@ title: set_encryption_options method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /aspose.cells/workbook/set_encryption_options/
 is_root: false
 ---
 
-## set_encryption_options {#aspose.cells.EncryptionType-int}
+## set_encryption_options(self, encryption_type, key_length) {#aspose.cells.EncryptionType-int}
 
 Set Encryption Options.
 
 
 
 ```python
+
 def set_encryption_options(self, encryption_type, key_length):
     ...
 ```

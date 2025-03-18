@@ -8,7 +8,7 @@ url: /aspose.cells/cellarea/compare_to/
 is_root: false
 ---
 
-## compare_to {#any}
+## compare_to(self, obj) {#any}
 
 Compare two CellArea objects according to their top-left corner.
 
@@ -21,6 +21,7 @@ If two corners are same, then 0 will be returned.
 
 
 ```python
+
 def compare_to(self, obj):
     ...
 ```

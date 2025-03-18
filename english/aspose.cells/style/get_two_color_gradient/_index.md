@@ -8,13 +8,14 @@ url: /aspose.cells/style/get_two_color_gradient/
 is_root: false
 ---
 
-## get_two_color_gradient {#aspose.pydrawing.Color&-aspose.pydrawing.Color&-any-any}
+## get_two_color_gradient(self, color1, color2, gradient_style_type, variant) {#aspose.pydrawing.Color&-aspose.pydrawing.Color&-any-any}
 
 Get the two-color gradient setting.
 
 
 
 ```python
+
 def get_two_color_gradient(self, color1, color2, gradient_style_type, variant):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/replace/
 is_root: false
 ---
 
-## replace {#str-str}
+## replace(self, old_string, new_string) {#str-str}
 
 Replaces all cells' text with a new string.
 
 
 
 ```python
+
 def replace(self, old_string, new_string):
     ...
 ```

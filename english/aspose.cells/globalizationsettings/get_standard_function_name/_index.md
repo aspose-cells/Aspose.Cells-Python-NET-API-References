@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_standard_function_name/
 is_root: false
 ---
 
-## get_standard_function_name {#str}
+## get_standard_function_name(self, local_name) {#str}
 
 Gets the standard function name according to given locale dependent function name.
 
@@ -20,6 +20,7 @@ Standard(en-US locale) function name.
 
 
 ```python
+
 def get_standard_function_name(self, local_name):
     ...
 ```

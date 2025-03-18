@@ -8,7 +8,7 @@ url: /aspose.cells/range/get_offset/
 is_root: false
 ---
 
-## get_offset {#int-int}
+## get_offset(self, row_offset, column_offset) {#int-int}
 
 Gets [`Range`](/cells/python-net/aspose.cells/range) range by offset.
 
@@ -20,6 +20,7 @@ Gets [`Range`](/cells/python-net/aspose.cells/range) range by offset.
 
 
 ```python
+
 def get_offset(self, row_offset, column_offset):
     ...
 ```

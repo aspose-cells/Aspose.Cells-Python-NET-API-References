@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/load_format_to_save_format/
 is_root: false
 ---
 
-## load_format_to_save_format {#aspose.cells.LoadFormat}
+## load_format_to_save_format(, load_format) {#aspose.cells.LoadFormat}
 
 Converts a LoadFormat value to a SaveFormat value if possible.
 
@@ -20,7 +20,9 @@ The save format.
 
 
 ```python
-def load_format_to_save_format(self, load_format):
+
+@staticmethod
+def load_format_to_save_format(load_format):
     ...
 ```
 

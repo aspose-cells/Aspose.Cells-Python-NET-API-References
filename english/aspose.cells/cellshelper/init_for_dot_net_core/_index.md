@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/init_for_dot_net_core/
 is_root: false
 ---
 
-## init_for_dot_net_core {#}
+## init_for_dot_net_core() {#}
 
 Do the initialization for .NetCore programme.
 We suggest you to call this method for all .NetCore initialization first. 
@@ -19,7 +19,9 @@ Workbook wb = new Workbook();
 
 
 ```python
-def init_for_dot_net_core(self):
+
+@staticmethod
+def init_for_dot_net_core():
     ...
 ```
 

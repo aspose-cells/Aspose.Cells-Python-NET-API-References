@@ -8,7 +8,7 @@ url: /aspose.cells/settablechartglobalizationsettings/get_other_name/
 is_root: false
 ---
 
-## get_other_name {#}
+## get_other_name(self) {#}
 
 Gets the name of "Other" labels for Chart.
 
@@ -20,6 +20,7 @@ Gets the name of "Other" labels for Chart.
 
 
 ```python
+
 def get_other_name(self):
     ...
 ```

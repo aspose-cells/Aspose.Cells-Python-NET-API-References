@@ -3,7 +3,7 @@ title: is_inner_mode property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 310
 url: /aspose.cells.charts/plotarea/is_inner_mode/
 is_root: false
 ---

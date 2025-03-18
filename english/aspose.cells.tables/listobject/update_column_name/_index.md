@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listobject/update_column_name/
 is_root: false
 ---
 
-## update_column_name {#}
+## update_column_name(self) {#}
 
 Updates all list columns' name from the worksheet.
 
 
 
 ```python
+
 def update_column_name(self):
     ...
 ```

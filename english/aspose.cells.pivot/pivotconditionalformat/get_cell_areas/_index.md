@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotconditionalformat/get_cell_areas/
 is_root: false
 ---
 
-## get_cell_areas {#}
+## get_cell_areas(self) {#}
 
 Gets all cell areas where this conditional format applies to.
 
@@ -20,6 +20,7 @@ Gets all cell areas where this conditional format applies to.
 
 
 ```python
+
 def get_cell_areas(self):
     ...
 ```

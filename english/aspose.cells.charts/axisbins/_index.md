@@ -30,8 +30,8 @@ The AxisBins type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [reset_overflow](/cells/python-net/aspose.cells.charts/axisbins/reset_overflow/#) | Reset the overflow |
-| [reset_underflow](/cells/python-net/aspose.cells.charts/axisbins/reset_underflow/#) | Reset the underflow |
+| [`reset_overflow(self)`](/cells/python-net/aspose.cells.charts/axisbins/reset_overflow/#) | Reset the overflow |
+| [`reset_underflow(self)`](/cells/python-net/aspose.cells.charts/axisbins/reset_underflow/#) | Reset the underflow |
 
 
 

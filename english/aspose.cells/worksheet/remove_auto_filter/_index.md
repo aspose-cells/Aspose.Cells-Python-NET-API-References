@@ -8,13 +8,14 @@ url: /aspose.cells/worksheet/remove_auto_filter/
 is_root: false
 ---
 
-## remove_auto_filter {#}
+## remove_auto_filter(self) {#}
 
 Removes the auto filter of the worksheet.
 
 
 
 ```python
+
 def remove_auto_filter(self):
     ...
 ```

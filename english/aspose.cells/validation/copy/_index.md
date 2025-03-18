@@ -8,13 +8,14 @@ url: /aspose.cells/validation/copy/
 is_root: false
 ---
 
-## copy {#aspose.cells.Validation-aspose.cells.CopyOptions}
+## copy(self, source, copy_option) {#aspose.cells.Validation-aspose.cells.CopyOptions}
 
 Copy validation.
 
 
 
 ```python
+
 def copy(self, source, copy_option):
     ...
 ```

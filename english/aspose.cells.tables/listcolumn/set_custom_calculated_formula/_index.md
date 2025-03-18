@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listcolumn/set_custom_calculated_formula/
 is_root: false
 ---
 
-## set_custom_calculated_formula {#str-bool-bool}
+## set_custom_calculated_formula(self, formula, is_r1c1, is_local) {#str-bool-bool}
 
 Sets the formula for this list column.
 
 
 
 ```python
+
 def set_custom_calculated_formula(self, formula, is_r1c1, is_local):
     ...
 ```

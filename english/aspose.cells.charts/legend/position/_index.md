@@ -3,7 +3,7 @@ title: position property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 360
 url: /aspose.cells.charts/legend/position/
 is_root: false
 ---

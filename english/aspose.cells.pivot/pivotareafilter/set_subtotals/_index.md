@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotareafilter/set_subtotals/
 is_root: false
 ---
 
-## set_subtotals {#aspose.cells.pivot.PivotFieldSubtotalType-bool}
+## set_subtotals(self, subtotal_type, shown) {#aspose.cells.pivot.PivotFieldSubtotalType-bool}
 
 Subtotal for the filter.
 
 
 
 ```python
+
 def set_subtotals(self, subtotal_type, shown):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_all/
 is_root: false
 ---
 
-## set_text_of_all {#str}
+## set_text_of_all(self, text) {#str}
 
 Sets the text of "(All)" label in the PivotTable.
 
 
 
 ```python
+
 def set_text_of_all(self, text):
     ...
 ```

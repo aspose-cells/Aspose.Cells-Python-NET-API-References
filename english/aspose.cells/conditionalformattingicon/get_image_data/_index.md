@@ -8,7 +8,7 @@ url: /aspose.cells/conditionalformattingicon/get_image_data/
 is_root: false
 ---
 
-## get_image_data {#aspose.cells.Cell}
+## get_image_data(self, cell) {#aspose.cells.Cell}
 
 Gets the image data with the setting of cell.
 
@@ -20,6 +20,7 @@ Returns the image data of icon.
 
 
 ```python
+
 def get_image_data(self, cell):
     ...
 ```

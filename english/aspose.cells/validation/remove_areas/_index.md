@@ -8,13 +8,14 @@ url: /aspose.cells/validation/remove_areas/
 is_root: false
 ---
 
-## remove_areas {#list}
+## remove_areas(self, areas) {#list}
 
 Removes this validation from given areas.
 
 
 
 ```python
+
 def remove_areas(self, areas):
     ...
 ```

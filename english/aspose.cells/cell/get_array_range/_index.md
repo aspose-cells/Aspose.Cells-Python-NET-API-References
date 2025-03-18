@@ -8,7 +8,7 @@ url: /aspose.cells/cell/get_array_range/
 is_root: false
 ---
 
-## get_array_range {#}
+## get_array_range(self) {#}
 
 Gets the array range if the cell's formula is an array formula.
 
@@ -20,6 +20,7 @@ The array range.
 
 
 ```python
+
 def get_array_range(self):
     ...
 ```

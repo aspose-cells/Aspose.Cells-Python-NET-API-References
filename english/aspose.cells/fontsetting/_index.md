@@ -3,7 +3,7 @@ title: FontSetting class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 740
+weight: 750
 url: /aspose.cells/fontsetting/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The FontSetting type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
+| [`__init__(self, start_index, length, sheets)`](/cells/python-net/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.worksheetcollection) |  |
 
 
 ### Properties
@@ -35,7 +35,7 @@ The FontSetting type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_word_art_style](/cells/python-net/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Sets the preset WordArt style. |
+| [`set_word_art_style(self, style)`](/cells/python-net/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) | Sets the preset WordArt style. |
 
 
 

@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/workbookrender/__init__/
 is_root: false
 ---
 
-## __init__ {#aspose.cells.Workbook-aspose.cells.rendering.ImageOrPrintOptions}
+## \_\_init\_\_(self, workbook, options) {#aspose.cells.Workbook-aspose.cells.rendering.ImageOrPrintOptions}
 
 The construct of WorkbookRender
 
 
 
 ```python
+
 def __init__(self, workbook, options):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/exporttableoptions/preprocess_exported_value/
 is_root: false
 ---
 
-## preprocess_exported_value {#int-int-aspose.cells.CellValue}
+## preprocess_exported_value(self, cell_row, cell_column, value) {#int-int-aspose.cells.CellValue}
 
 Preprocess the value of current cell to be exported.
 
@@ -20,6 +20,7 @@ Whether current cell has been replaced with different type and/or value.
 
 
 ```python
+
 def preprocess_exported_value(self, cell_row, cell_column, value):
     ...
 ```

@@ -3,7 +3,7 @@ title: is_link property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 740
 url: /aspose.cells.drawing/oleobject/is_link/
 is_root: false
 ---

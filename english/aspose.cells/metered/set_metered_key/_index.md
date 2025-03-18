@@ -8,7 +8,7 @@ url: /aspose.cells/metered/set_metered_key/
 is_root: false
 ---
 
-## set_metered_key {#str-str}
+## set_metered_key(self, public_key, private_key) {#str-str}
 
 Sets metered public and private key.
 If you purchase metered license, when start application, this API should be called, normally, this is enough. 
@@ -18,6 +18,7 @@ to avoid such case, you should regularly check the license status, if it is eval
 
 
 ```python
+
 def set_metered_key(self, public_key, private_key):
     ...
 ```

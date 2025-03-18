@@ -8,13 +8,14 @@ url: /aspose.cells/cells/clear_contents/
 is_root: false
 ---
 
-## clear_contents {#aspose.cells.CellArea}
+## clear_contents(self, range) {#aspose.cells.CellArea}
 
 Clears contents of a range.
 
 
 
 ```python
+
 def clear_contents(self, range):
     ...
 ```
@@ -25,13 +26,14 @@ def clear_contents(self, range):
 | range | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | Range to be cleared. |
 
 
-## clear_contents {#int-int-int-int}
+## clear_contents(self, start_row, start_column, end_row, end_column) {#int-int-int-int}
 
 Clears contents of a range.
 
 
 
 ```python
+
 def clear_contents(self, start_row, start_column, end_row, end_column):
     ...
 ```

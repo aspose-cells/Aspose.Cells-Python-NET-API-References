@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/file_format_to_save_format/
 is_root: false
 ---
 
-## file_format_to_save_format {#aspose.cells.FileFormatType}
+## file_format_to_save_format(, format) {#aspose.cells.FileFormatType}
 
 Converting file format to save format.
 
@@ -20,7 +20,9 @@ Converting file format to save format.
 
 
 ```python
-def file_format_to_save_format(self, format):
+
+@staticmethod
+def file_format_to_save_format(format):
     ...
 ```
 

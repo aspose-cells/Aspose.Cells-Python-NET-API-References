@@ -27,8 +27,8 @@ The ConditionalFormattingIcon type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_icon_image_data](/cells/python-net/aspose.cells/conditionalformattingicon/get_icon_image_data/#aspose.cells.IconSetType-int) | Get the icon set data |
-| [get_image_data](/cells/python-net/aspose.cells/conditionalformattingicon/get_image_data/#aspose.cells.Cell) | Gets the image data with the setting of cell. |
+| [`get_icon_image_data(, type, index)`](/cells/python-net/aspose.cells/conditionalformattingicon/get_icon_image_data/#aspose.cells.iconsettype-int) | Get the icon set data |
+| [`get_image_data(self, cell)`](/cells/python-net/aspose.cells/conditionalformattingicon/get_image_data/#aspose.cells.cell) | Gets the image data with the setting of cell. |
 
 
 

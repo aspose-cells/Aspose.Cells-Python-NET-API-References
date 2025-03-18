@@ -8,7 +8,7 @@ url: /aspose.cells/unionrange/union/
 is_root: false
 ---
 
-## union {#str}
+## union(self, range) {#str}
 
 Union another range.
 
@@ -20,6 +20,7 @@ Union another range.
 
 
 ```python
+
 def union(self, range):
     ...
 ```
@@ -30,7 +31,7 @@ def union(self, range):
 | range | str | The range. |
 
 
-## union {#aspose.cells.UnionRange}
+## union(self, union_range) {#aspose.cells.UnionRange}
 
 Union another range.
 
@@ -42,6 +43,7 @@ Union another range.
 
 
 ```python
+
 def union(self, union_range):
     ...
 ```
@@ -52,7 +54,7 @@ def union(self, union_range):
 | union_range | [`UnionRange`](/cells/python-net/aspose.cells/unionrange) | The range. |
 
 
-## union {#list}
+## union(self, ranges) {#list}
 
 Union the ranges.
 
@@ -64,6 +66,7 @@ Union the ranges.
 
 
 ```python
+
 def union(self, ranges):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.rendering/renderingwatermark/__init__/
 is_root: false
 ---
 
-## __init__ {#bytes}
+## \_\_init\_\_(self, image_data) {#bytes}
 
 Creates instance of image watermark.
 
 
 
 ```python
+
 def __init__(self, image_data):
     ...
 ```
@@ -25,13 +26,14 @@ def __init__(self, image_data):
 | image_data | bytes |  |
 
 
-## __init__ {#str-aspose.cells.rendering.RenderingFont}
+## \_\_init\_\_(self, text, rendering_font) {#str-aspose.cells.rendering.RenderingFont}
 
 Creates instance of text watermark.
 
 
 
 ```python
+
 def __init__(self, text, rendering_font):
     ...
 ```

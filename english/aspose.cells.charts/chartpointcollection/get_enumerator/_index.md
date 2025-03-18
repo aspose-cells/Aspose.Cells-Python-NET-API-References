@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chartpointcollection/get_enumerator/
 is_root: false
 ---
 
-## get_enumerator {#}
+## get_enumerator(self) {#}
 
 Returns an enumerator for the entire [`ChartPointCollection`](/cells/python-net/aspose.cells.charts/chartpointcollection).
 
@@ -20,6 +20,7 @@ Returns an enumerator for the entire [`ChartPointCollection`](/cells/python-net/
 
 
 ```python
+
 def get_enumerator(self):
     ...
 ```

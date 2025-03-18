@@ -8,13 +8,14 @@ url: /aspose.cells/abstractcalculationengine/calculate/
 is_root: false
 ---
 
-## calculate {#aspose.cells.CalculationData}
+## calculate(self, data) {#aspose.cells.CalculationData}
 
 Calculates one function with given data.
 
 
 
 ```python
+
 def calculate(self, data):
     ...
 ```

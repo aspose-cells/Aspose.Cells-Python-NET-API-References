@@ -8,7 +8,7 @@ url: /aspose.cells/errorcheckoption/get_range/
 is_root: false
 ---
 
-## get_range {#int}
+## get_range(self, index) {#int}
 
 Gets the influenced range of this setting by given index.
 
@@ -20,6 +20,7 @@ return influenced range at given index.
 
 
 ```python
+
 def get_range(self, index):
     ...
 ```

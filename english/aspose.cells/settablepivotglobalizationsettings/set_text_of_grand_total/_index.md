@@ -8,13 +8,14 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_grand_total/
 is_root: false
 ---
 
-## set_text_of_grand_total {#str}
+## set_text_of_grand_total(self, text) {#str}
 
 Sets the text of "Grand Total" label in the PivotTable.
 
 
 
 ```python
+
 def set_text_of_grand_total(self, text):
     ...
 ```

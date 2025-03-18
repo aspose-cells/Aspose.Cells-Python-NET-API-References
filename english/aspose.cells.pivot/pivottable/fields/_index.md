@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/fields/
 is_root: false
 ---
 
-## fields {#aspose.cells.pivot.PivotFieldType}
+## fields(self, field_type) {#aspose.cells.pivot.PivotFieldType}
 
 Gets the specific fields by the field type.
 
@@ -20,6 +20,7 @@ the specific field collection
 
 
 ```python
+
 def fields(self, field_type):
     ...
 ```

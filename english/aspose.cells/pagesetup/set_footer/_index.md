@@ -8,13 +8,14 @@ url: /aspose.cells/pagesetup/set_footer/
 is_root: false
 ---
 
-## set_footer {#int-str}
+## set_footer(self, section, footer_script) {#int-str}
 
 Sets a script formatting the footer of an Excel file.
 
 
 
 ```python
+
 def set_footer(self, section, footer_script):
     ...
 ```

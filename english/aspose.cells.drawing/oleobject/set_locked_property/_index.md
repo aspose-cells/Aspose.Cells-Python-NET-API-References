@@ -3,18 +3,19 @@ title: set_locked_property method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells.drawing/oleobject/set_locked_property/
 is_root: false
 ---
 
-## set_locked_property {#aspose.cells.drawing.ShapeLockType-bool}
+## set_locked_property(self, type, value) {#aspose.cells.drawing.ShapeLockType-bool}
 
 Set the locked property.
 
 
 
 ```python
+
 def set_locked_property(self, type, value):
     ...
 ```

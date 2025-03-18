@@ -8,13 +8,14 @@ url: /aspose.cells/datasorter/clear/
 is_root: false
 ---
 
-## clear {#}
+## clear(self) {#}
 
 Clear all settings.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

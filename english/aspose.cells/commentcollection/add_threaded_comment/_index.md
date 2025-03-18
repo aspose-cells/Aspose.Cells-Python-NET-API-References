@@ -8,7 +8,7 @@ url: /aspose.cells/commentcollection/add_threaded_comment/
 is_root: false
 ---
 
-## add_threaded_comment {#str-str-aspose.cells.ThreadedCommentAuthor}
+## add_threaded_comment(self, cell_name, text, author) {#str-str-aspose.cells.ThreadedCommentAuthor}
 
 Adds a threaded comment.
 
@@ -20,6 +20,7 @@ Adds a threaded comment.
 
 
 ```python
+
 def add_threaded_comment(self, cell_name, text, author):
     ...
 ```
@@ -32,7 +33,7 @@ def add_threaded_comment(self, cell_name, text, author):
 | author | [`ThreadedCommentAuthor`](/cells/python-net/aspose.cells/threadedcommentauthor) | The user of this threaded comment. |
 
 
-## add_threaded_comment {#int-int-str-aspose.cells.ThreadedCommentAuthor}
+## add_threaded_comment(self, row, column, text, author) {#int-int-str-aspose.cells.ThreadedCommentAuthor}
 
 Adds a threaded comment.
 
@@ -44,6 +45,7 @@ Adds a threaded comment.
 
 
 ```python
+
 def add_threaded_comment(self, row, column, text, author):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells/cells/check_column/
 is_root: false
 ---
 
-## check_column {#int}
+## check_column(self, column_index) {#int}
 
 Gets the [`Column`](/cells/python-net/aspose.cells/column) element or null at the specified column index.
 
@@ -20,6 +20,7 @@ The Column object.
 
 
 ```python
+
 def check_column(self, column_index):
     ...
 ```

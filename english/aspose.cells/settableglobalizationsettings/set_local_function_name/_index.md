@@ -8,13 +8,14 @@ url: /aspose.cells/settableglobalizationsettings/set_local_function_name/
 is_root: false
 ---
 
-## set_local_function_name {#str-str-bool}
+## set_local_function_name(self, standard_name, local_name, bidirectional) {#str-str-bool}
 
 Sets the locale dependent function name corresponding to given standard function name.
 
 
 
 ```python
+
 def set_local_function_name(self, standard_name, local_name, bidirectional):
     ...
 ```

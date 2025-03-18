@@ -8,7 +8,7 @@ url: /aspose.cells/worksheet/get_printing_page_breaks/
 is_root: false
 ---
 
-## get_printing_page_breaks {#aspose.cells.rendering.ImageOrPrintOptions}
+## get_printing_page_breaks(self, options) {#aspose.cells.rendering.ImageOrPrintOptions}
 
 Gets automatic page breaks.
 
@@ -20,6 +20,7 @@ The automatic page breaks areas.
 
 
 ```python
+
 def get_printing_page_breaks(self, options):
     ...
 ```

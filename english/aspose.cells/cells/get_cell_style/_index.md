@@ -3,12 +3,12 @@ title: get_cell_style method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /aspose.cells/cells/get_cell_style/
 is_root: false
 ---
 
-## get_cell_style {#int-int}
+## get_cell_style(self, row, column) {#int-int}
 
 Get the style of given cell.
 
@@ -20,6 +20,7 @@ the style of given cell.
 
 
 ```python
+
 def get_cell_style(self, row, column):
     ...
 ```
@@ -29,7 +30,10 @@ def get_cell_style(self, row, column):
 | :- | :- | :- |
 | row | int | row index |
 | column | int | column |
+### Remarks
 
+The returned style is only the one set for the cell or inherited from the row/column of the cell,
+does not include the applied properties by other settings such as conditional formattings.
 
 
 ### See Also

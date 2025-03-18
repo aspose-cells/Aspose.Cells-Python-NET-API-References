@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotitem/get_double_value/
 is_root: false
 ---
 
-## get_double_value {#}
+## get_double_value(self) {#}
 
 Gets the double value of the pivot item
 If the value is null or not number ,it will return 0
@@ -16,6 +16,7 @@ If the value is null or not number ,it will return 0
 
 
 ```python
+
 def get_double_value(self):
     ...
 ```

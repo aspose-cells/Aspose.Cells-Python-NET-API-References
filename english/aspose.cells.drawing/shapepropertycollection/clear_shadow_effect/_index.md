@@ -8,13 +8,14 @@ url: /aspose.cells.drawing/shapepropertycollection/clear_shadow_effect/
 is_root: false
 ---
 
-## clear_shadow_effect {#}
+## clear_shadow_effect(self) {#}
 
 Clears the shadow effect of the chart element or shape.
 
 
 
 ```python
+
 def clear_shadow_effect(self):
     ...
 ```

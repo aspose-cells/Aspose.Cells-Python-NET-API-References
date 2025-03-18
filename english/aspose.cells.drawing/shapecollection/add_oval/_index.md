@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_oval/
 is_root: false
 ---
 
-## add_oval {#int-int-int-int-int-int}
+## add_oval(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a Oval to the worksheet.
 
@@ -20,6 +20,7 @@ A Oval object.
 
 
 ```python
+
 def add_oval(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

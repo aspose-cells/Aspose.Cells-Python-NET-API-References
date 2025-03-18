@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/group_by/
 is_root: false
 ---
 
-## group_by {#float-bool}
+## group_by(self, interval, new_field) {#float-bool}
 
 Automatically group the field with internal
 
 
 
 ```python
+
 def group_by(self, interval, new_field):
     ...
 ```
@@ -26,7 +27,7 @@ def group_by(self, interval, new_field):
 | new_field | bool | Indicates whether adding a new field to the pivottable. |
 
 
-## group_by {#list-bool}
+## group_by(self, custom_group_items, new_field) {#list-bool}
 
 Custom group the field.
 
@@ -38,6 +39,7 @@ False means this field could not be grouped by date time.
 
 
 ```python
+
 def group_by(self, custom_group_items, new_field):
     ...
 ```
@@ -49,7 +51,7 @@ def group_by(self, custom_group_items, new_field):
 | new_field | bool | Indicates whether adding a new field to the pivottable |
 
 
-## group_by {#float-float-float-bool}
+## group_by(self, start, end, interval, new_field) {#float-float-float-bool}
 
 Group the file by number.
 
@@ -61,6 +63,7 @@ False means this field could not be grouped by date time.
 
 
 ```python
+
 def group_by(self, start, end, interval, new_field):
     ...
 ```
@@ -74,7 +77,7 @@ def group_by(self, start, end, interval, new_field):
 | new_field | bool | Indicates whether adding a new field to the pivottable |
 
 
-## group_by {#DateTime-DateTime-list-float-bool}
+## group_by(self, start, end, groups, interval, first_as_new_field) {#DateTime-DateTime-list-float-bool}
 
 Group the file by the date group types.
 
@@ -86,6 +89,7 @@ False means this field could not be grouped by date time.
 
 
 ```python
+
 def group_by(self, start, end, groups, interval, first_as_new_field):
     ...
 ```

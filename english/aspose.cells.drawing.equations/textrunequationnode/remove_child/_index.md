@@ -8,13 +8,14 @@ url: /aspose.cells.drawing.equations/textrunequationnode/remove_child/
 is_root: false
 ---
 
-## remove_child {#aspose.cells.drawing.equations.EquationNode}
+## remove_child(self, node) {#aspose.cells.drawing.equations.EquationNode}
 
 Removes the specified node from the current node's children.
 
 
 
 ```python
+
 def remove_child(self, node):
     ...
 ```
@@ -25,13 +26,14 @@ def remove_child(self, node):
 | node | [`EquationNode`](/cells/python-net/aspose.cells.drawing.equations/equationnode) | Node to be deleted. |
 
 
-## remove_child {#int}
+## remove_child(self, index) {#int}
 
 Removes the node at the specified index from the current node's children.
 
 
 
 ```python
+
 def remove_child(self, index):
     ...
 ```

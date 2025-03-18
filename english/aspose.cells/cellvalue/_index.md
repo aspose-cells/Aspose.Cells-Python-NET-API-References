@@ -19,7 +19,7 @@ The CellValue type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/cellvalue/__init__/#) | Constructs a new instance of CellValue |
+| [`__init__(self)`](/cells/python-net/aspose.cells/cellvalue/__init__/#) | Constructs a new instance of CellValue |
 
 
 ### Properties

@@ -8,13 +8,14 @@ url: /aspose.cells/calculationcell/set_calculated_value/
 is_root: false
 ---
 
-## set_calculated_value {#any}
+## set_calculated_value(self, v) {#any}
 
 Sets the calculated value for the cell.
 
 
 
 ```python
+
 def set_calculated_value(self, v):
     ...
 ```

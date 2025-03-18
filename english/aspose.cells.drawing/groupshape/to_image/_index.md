@@ -3,18 +3,19 @@ title: to_image method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells.drawing/groupshape/to_image/
 is_root: false
 ---
 
-## to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
+## to_image(self, stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
 
 Creates the shape image and saves it to a stream in the specified format.
 
 
 
 ```python
+
 def to_image(self, stream, image_type):
     ...
 ```
@@ -41,13 +42,14 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-## to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 
 Saves the shape to a file.
 
 
 
 ```python
+
 def to_image(self, image_file, options):
     ...
 ```
@@ -70,13 +72,14 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-## to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 
 Saves the shape to a stream.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```

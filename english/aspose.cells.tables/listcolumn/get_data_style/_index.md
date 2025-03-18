@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listcolumn/get_data_style/
 is_root: false
 ---
 
-## get_data_style {#}
+## get_data_style(self) {#}
 
 Gets the style of the data in this column of the table.
 
 
 
 ```python
+
 def get_data_style(self):
     ...
 ```

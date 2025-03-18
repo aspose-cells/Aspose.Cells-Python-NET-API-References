@@ -3,18 +3,19 @@ title: group_columns method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 560
 url: /aspose.cells/cells/group_columns/
 is_root: false
 ---
 
-## group_columns {#int-int}
+## group_columns(self, first_index, last_index) {#int-int}
 
 Groups columns.
 
 
 
 ```python
+
 def group_columns(self, first_index, last_index):
     ...
 ```
@@ -26,13 +27,14 @@ def group_columns(self, first_index, last_index):
 | last_index | int | The last column index to be grouped. |
 
 
-## group_columns {#int-int-bool}
+## group_columns(self, first_index, last_index, is_hidden) {#int-int-bool}
 
 Groups columns.
 
 
 
 ```python
+
 def group_columns(self, first_index, last_index, is_hidden):
     ...
 ```

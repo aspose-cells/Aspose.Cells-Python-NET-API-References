@@ -8,13 +8,14 @@ url: /aspose.cells/individualfontconfigs/set_font_folder/
 is_root: false
 ---
 
-## set_font_folder {#str-bool}
+## set_font_folder(self, font_folder, recursive) {#str-bool}
 
 Sets the fonts folder
 
 
 
 ```python
+
 def set_font_folder(self, font_folder, recursive):
     ...
 ```

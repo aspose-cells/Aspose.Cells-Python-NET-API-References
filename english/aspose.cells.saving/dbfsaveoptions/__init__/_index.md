@@ -8,13 +8,14 @@ url: /aspose.cells.saving/dbfsaveoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 The options of saving .dbf file.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

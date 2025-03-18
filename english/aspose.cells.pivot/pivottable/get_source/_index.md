@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivottable/get_source/
 is_root: false
 ---
 
-## get_source {#}
+## get_source(self) {#}
 
 Get pivottable's source data.
 
 
 
 ```python
+
 def get_source(self):
     ...
 ```
@@ -22,7 +23,7 @@ def get_source(self):
 
 
 
-## get_source {#bool}
+## get_source(self, is_original) {#bool}
 
 Get pivottable's source data.
 
@@ -34,6 +35,7 @@ Get pivottable's source data.
 
 
 ```python
+
 def get_source(self, is_original):
     ...
 ```

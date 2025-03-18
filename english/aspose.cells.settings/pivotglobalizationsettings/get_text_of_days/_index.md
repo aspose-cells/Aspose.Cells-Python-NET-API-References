@@ -8,7 +8,7 @@ url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_days/
 is_root: false
 ---
 
-## get_text_of_days {#}
+## get_text_of_days(self) {#}
 
 Gets the local text of "Days".
 
@@ -20,6 +20,7 @@ Gets the local text of "Days".
 
 
 ```python
+
 def get_text_of_days(self):
     ...
 ```

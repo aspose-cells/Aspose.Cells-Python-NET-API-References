@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/get_total_name/
 is_root: false
 ---
 
-## get_total_name {#aspose.cells.ConsolidationFunction}
+## get_total_name(self, function_type) {#aspose.cells.ConsolidationFunction}
 
 Gets the total name of specific function.
 
@@ -20,6 +20,7 @@ The total name of the function.
 
 
 ```python
+
 def get_total_name(self, function_type):
     ...
 ```

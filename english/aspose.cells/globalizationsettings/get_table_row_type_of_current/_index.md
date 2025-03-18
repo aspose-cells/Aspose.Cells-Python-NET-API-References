@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_table_row_type_of_current/
 is_root: false
 ---
 
-## get_table_row_type_of_current {#}
+## get_table_row_type_of_current(self) {#}
 
 Gets the type name of table rows that consists of the current row in referenced table.
 Default is "This Row", so in formula "#This Row" represents the current row in referenced table.
@@ -21,6 +21,7 @@ the type name of table rows
 
 
 ```python
+
 def get_table_row_type_of_current(self):
     ...
 ```

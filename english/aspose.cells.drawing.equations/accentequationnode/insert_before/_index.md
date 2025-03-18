@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.equations/accentequationnode/insert_before/
 is_root: false
 ---
 
-## insert_before {#aspose.cells.drawing.equations.EquationNodeType}
+## insert_before(self, equation_type) {#aspose.cells.drawing.equations.EquationNodeType}
 
 Inserts the specified node before the current node.
 
@@ -20,6 +20,7 @@ If the specified type exists, the corresponding node is returned, and if the typ
 
 
 ```python
+
 def insert_before(self, equation_type):
     ...
 ```

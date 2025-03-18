@@ -8,13 +8,14 @@ url: /aspose.cells/style/copy/
 is_root: false
 ---
 
-## copy {#aspose.cells.Style}
+## copy(self, style) {#aspose.cells.Style}
 
 Copies data from another style object
 
 
 
 ```python
+
 def copy(self, style):
     ...
 ```

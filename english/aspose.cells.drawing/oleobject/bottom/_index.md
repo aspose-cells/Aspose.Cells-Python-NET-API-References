@@ -3,7 +3,7 @@ title: bottom property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 360
 url: /aspose.cells.drawing/oleobject/bottom/
 is_root: false
 ---

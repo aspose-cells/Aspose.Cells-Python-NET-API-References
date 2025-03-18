@@ -8,7 +8,7 @@ url: /aspose.cells/worksheet/xml_map_query/
 is_root: false
 ---
 
-## xml_map_query {#str-aspose.cells.XmlMap}
+## xml_map_query(self, path, xml_map) {#str-aspose.cells.XmlMap}
 
 Query cell areas that mapped/linked to the specific path of xml map.
 
@@ -20,6 +20,7 @@ Query cell areas that mapped/linked to the specific path of xml map.
 
 
 ```python
+
 def xml_map_query(self, path, xml_map):
     ...
 ```

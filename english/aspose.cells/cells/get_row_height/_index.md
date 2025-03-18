@@ -3,12 +3,12 @@ title: get_row_height method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 490
 url: /aspose.cells/cells/get_row_height/
 is_root: false
 ---
 
-## get_row_height {#int}
+## get_row_height(self, row) {#int}
 
 Gets the height of a specified row, in unit of points.
 
@@ -20,6 +20,7 @@ Height of row
 
 
 ```python
+
 def get_row_height(self, row):
     ...
 ```
@@ -30,7 +31,7 @@ def get_row_height(self, row):
 | row | int | Row index |
 
 
-## get_row_height {#int-bool-aspose.cells.CellsUnitType}
+## get_row_height(self, row, is_original, unit_type) {#int-bool-aspose.cells.CellsUnitType}
 
 Gets row's height.
 
@@ -42,6 +43,7 @@ Row's height
 
 
 ```python
+
 def get_row_height(self, row, is_original, unit_type):
     ...
 ```

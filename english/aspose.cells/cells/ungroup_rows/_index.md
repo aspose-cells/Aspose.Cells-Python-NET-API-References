@@ -3,18 +3,19 @@ title: ungroup_rows method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 970
+weight: 960
 url: /aspose.cells/cells/ungroup_rows/
 is_root: false
 ---
 
-## ungroup_rows {#int-int}
+## ungroup_rows(self, first_index, last_index) {#int-int}
 
 Ungroups rows.
 
 
 
 ```python
+
 def ungroup_rows(self, first_index, last_index):
     ...
 ```
@@ -28,13 +29,14 @@ def ungroup_rows(self, first_index, last_index):
 
 Only removes outer group info.
 
-## ungroup_rows {#int-int-bool}
+## ungroup_rows(self, first_index, last_index, is_all) {#int-int-bool}
 
 Ungroups rows.
 
 
 
 ```python
+
 def ungroup_rows(self, first_index, last_index, is_all):
     ...
 ```

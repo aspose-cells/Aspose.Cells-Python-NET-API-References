@@ -3,7 +3,7 @@ title: CopyFormatType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2030
+weight: 2040
 url: /aspose.cells/copyformattype/
 is_root: false
 ---

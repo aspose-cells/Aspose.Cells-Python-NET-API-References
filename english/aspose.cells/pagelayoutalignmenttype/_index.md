@@ -3,7 +3,7 @@ title: PageLayoutAlignmentType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2520
+weight: 2540
 url: /aspose.cells/pagelayoutalignmenttype/
 is_root: false
 ---

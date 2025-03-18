@@ -8,13 +8,14 @@ url: /aspose.cells/settablechartglobalizationsettings/set_axis_title_name/
 is_root: false
 ---
 
-## set_axis_title_name {#str}
+## set_axis_title_name(self, name) {#str}
 
 Sets the name of Title for Axis.
 
 
 
 ```python
+
 def set_axis_title_name(self, name):
     ...
 ```

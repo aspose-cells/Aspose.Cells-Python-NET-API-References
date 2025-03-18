@@ -3,18 +3,19 @@ title: subtotal method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 930
+weight: 920
 url: /aspose.cells/cells/subtotal/
 is_root: false
 ---
 
-## subtotal {#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list}
+## subtotal(self, ca, group_by, function, total_list) {#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list}
 
 Creates subtotals for the range.
 
 
 
 ```python
+
 def subtotal(self, ca, group_by, function, total_list):
     ...
 ```
@@ -28,13 +29,14 @@ def subtotal(self, ca, group_by, function, total_list):
 | total_list | list | An array of zero-based field offsets, indicating the fields to which the subtotals are added. |
 
 
-## subtotal {#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list-bool-bool-bool}
+## subtotal(self, ca, group_by, function, total_list, replace, page_breaks, summary_below_data) {#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list-bool-bool-bool}
 
 Creates subtotals for the range.
 
 
 
 ```python
+
 def subtotal(self, ca, group_by, function, total_list, replace, page_breaks, summary_below_data):
     ...
 ```

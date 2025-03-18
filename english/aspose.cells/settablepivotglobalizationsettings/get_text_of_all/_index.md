@@ -8,7 +8,7 @@ url: /aspose.cells/settablepivotglobalizationsettings/get_text_of_all/
 is_root: false
 ---
 
-## get_text_of_all {#}
+## get_text_of_all(self) {#}
 
 Gets the text of "(All)" label in the PivotTable.
 
@@ -20,6 +20,7 @@ The text of "(All)" label
 
 
 ```python
+
 def get_text_of_all(self):
     ...
 ```

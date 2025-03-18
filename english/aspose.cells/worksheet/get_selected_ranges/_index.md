@@ -8,7 +8,7 @@ url: /aspose.cells/worksheet/get_selected_ranges/
 is_root: false
 ---
 
-## get_selected_ranges {#}
+## get_selected_ranges(self) {#}
 
 Gets selected ranges of cells in the designer spreadsheet.
 
@@ -20,6 +20,7 @@ An ArrayList which contains selected ranges.
 
 
 ```python
+
 def get_selected_ranges(self):
     ...
 ```

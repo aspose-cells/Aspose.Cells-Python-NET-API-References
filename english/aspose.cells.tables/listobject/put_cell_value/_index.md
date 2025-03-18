@@ -8,13 +8,14 @@ url: /aspose.cells.tables/listobject/put_cell_value/
 is_root: false
 ---
 
-## put_cell_value {#int-int-any}
+## put_cell_value(self, row_offset, column_offset, value) {#int-int-any}
 
 Put the value to the cell.
 
 
 
 ```python
+
 def put_cell_value(self, row_offset, column_offset, value):
     ...
 ```
@@ -27,13 +28,14 @@ def put_cell_value(self, row_offset, column_offset, value):
 | value | any | The cell value. |
 
 
-## put_cell_value {#int-int-any-bool}
+## put_cell_value(self, row_offset, column_offset, value, is_totals_row_label) {#int-int-any-bool}
 
 Put the value to the cell.
 
 
 
 ```python
+
 def put_cell_value(self, row_offset, column_offset, value, is_totals_row_label):
     ...
 ```

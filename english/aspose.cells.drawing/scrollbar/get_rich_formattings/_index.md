@@ -3,12 +3,12 @@ title: get_rich_formattings method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells.drawing/scrollbar/get_rich_formattings/
 is_root: false
 ---
 
-## get_rich_formattings {#}
+## get_rich_formattings(self) {#}
 
 Returns all Characters objects 
 that represents a range of characters within the text .
@@ -21,6 +21,7 @@ All Characters objects
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

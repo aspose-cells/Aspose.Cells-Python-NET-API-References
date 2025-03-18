@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfieldcollection/clear/
 is_root: false
 ---
 
-## clear {#}
+## clear(self) {#}
 
 clear all fields of PivotFieldCollection
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

@@ -25,8 +25,8 @@ The DocxSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cells/python-net/aspose.cells/docxsaveoptions/__init__/#) | Represents options of saving .docx file. |
-| [__init__](/cells/python-net/aspose.cells/docxsaveoptions/__init__/#bool) | Represents options of saving .docx file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/docxsaveoptions/__init__/#) | Represents options of saving .docx file. |
+| [`__init__(self, save_as_image)`](/cells/python-net/aspose.cells/docxsaveoptions/__init__/#bool) | Represents options of saving .docx file. |
 
 
 ### Properties

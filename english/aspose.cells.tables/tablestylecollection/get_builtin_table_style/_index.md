@@ -8,7 +8,7 @@ url: /aspose.cells.tables/tablestylecollection/get_builtin_table_style/
 is_root: false
 ---
 
-## get_builtin_table_style {#aspose.cells.tables.TableStyleType}
+## get_builtin_table_style(self, type) {#aspose.cells.tables.TableStyleType}
 
 Gets the builtin table style
 
@@ -20,6 +20,7 @@ Gets the builtin table style
 
 
 ```python
+
 def get_builtin_table_style(self, type):
     ...
 ```

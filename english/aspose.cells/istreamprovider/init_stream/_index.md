@@ -8,13 +8,14 @@ url: /aspose.cells/istreamprovider/init_stream/
 is_root: false
 ---
 
-## init_stream {#aspose.cells.StreamProviderOptions}
+## init_stream(self, options) {#aspose.cells.StreamProviderOptions}
 
 Gets the stream.
 
 
 
 ```python
+
 def init_stream(self, options):
     ...
 ```

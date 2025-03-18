@@ -8,13 +8,14 @@ url: /aspose.cells/name/set_refers_to/
 is_root: false
 ---
 
-## set_refers_to {#str-bool-bool}
+## set_refers_to(self, refers_to, is_r1c1, is_local) {#str-bool-bool}
 
 Set the reference of this Name.
 
 
 
 ```python
+
 def set_refers_to(self, refers_to, is_r1c1, is_local):
     ...
 ```

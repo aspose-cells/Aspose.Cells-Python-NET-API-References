@@ -8,13 +8,14 @@ url: /aspose.cells/multiplefiltercollection/add/
 is_root: false
 ---
 
-## add {#str}
+## add(self, filter) {#str}
 
 Adds string filter.
 
 
 
 ```python
+
 def add(self, filter):
     ...
 ```

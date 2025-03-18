@@ -8,13 +8,14 @@ url: /aspose.cells/autofilter/dynamic_filter/
 is_root: false
 ---
 
-## dynamic_filter {#int-aspose.cells.DynamicFilterType}
+## dynamic_filter(self, field_index, dynamic_filter_type) {#int-aspose.cells.DynamicFilterType}
 
 Adds a dynamic filter.
 
 
 
 ```python
+
 def dynamic_filter(self, field_index, dynamic_filter_type):
     ...
 ```

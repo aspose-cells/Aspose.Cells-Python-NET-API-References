@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/register_add_in_function/
 is_root: false
 ---
 
-## register_add_in_function {#int-str}
+## register_add_in_function(self, id, function_name) {#int-str}
 
 Adds addin function into the workbook
 
@@ -20,6 +20,7 @@ URL of the addin file which contains addin functions
 
 
 ```python
+
 def register_add_in_function(self, id, function_name):
     ...
 ```
@@ -31,7 +32,7 @@ def register_add_in_function(self, id, function_name):
 | function_name | str | the addin function name |
 
 
-## register_add_in_function {#str-str-bool}
+## register_add_in_function(self, add_in_file, function_name, lib) {#str-str-bool}
 
 Adds addin function into the workbook
 
@@ -43,6 +44,7 @@ ID of the data which contains given addin function
 
 
 ```python
+
 def register_add_in_function(self, add_in_file, function_name, lib):
     ...
 ```

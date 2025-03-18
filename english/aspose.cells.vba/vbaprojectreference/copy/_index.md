@@ -8,13 +8,14 @@ url: /aspose.cells.vba/vbaprojectreference/copy/
 is_root: false
 ---
 
-## copy {#aspose.cells.vba.VbaProjectReference}
+## copy(self, source) {#aspose.cells.vba.VbaProjectReference}
 
 
 
 
 
 ```python
+
 def copy(self, source):
     ...
 ```

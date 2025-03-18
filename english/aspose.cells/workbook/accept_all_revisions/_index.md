@@ -8,13 +8,14 @@ url: /aspose.cells/workbook/accept_all_revisions/
 is_root: false
 ---
 
-## accept_all_revisions {#}
+## accept_all_revisions(self) {#}
 
 Accepts all tracked changes in the workbook.
 
 
 
 ```python
+
 def accept_all_revisions(self):
     ...
 ```

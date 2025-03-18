@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_standard_header_footer_font_style_n
 is_root: false
 ---
 
-## get_standard_header_footer_font_style_name {#str}
+## get_standard_header_footer_font_style_name(self, localfont_style_name) {#str}
 
 Gets standard English font style name(Regular, Bold, Italic) for Header/Footer according to given locale font style name.
 
@@ -20,6 +20,7 @@ Standard English font style name(Regular, Bold, Italic)
 
 
 ```python
+
 def get_standard_header_footer_font_style_name(self, localfont_style_name):
     ...
 ```

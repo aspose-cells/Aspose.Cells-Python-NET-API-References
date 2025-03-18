@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_scroll_bar/
 is_root: false
 ---
 
-## add_scroll_bar {#int-int-int-int-int-int}
+## add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a ScrollBar to the worksheet.
 
@@ -20,6 +20,7 @@ A ScrollBar object.
 
 
 ```python
+
 def add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```

@@ -8,13 +8,14 @@ url: /aspose.cells.pivot/pivotfield/filter_top10/
 is_root: false
 ---
 
-## filter_top10 {#int-aspose.cells.pivot.PivotFilterType-bool-int}
+## filter_top10(self, value_field_index, type, is_top, item_count) {#int-aspose.cells.pivot.PivotFilterType-bool-int}
 
 Filters by values of data pivot field.
 
 
 
 ```python
+
 def filter_top10(self, value_field_index, type, is_top, item_count):
     ...
 ```

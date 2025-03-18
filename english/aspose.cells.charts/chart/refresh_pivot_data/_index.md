@@ -8,13 +8,14 @@ url: /aspose.cells.charts/chart/refresh_pivot_data/
 is_root: false
 ---
 
-## refresh_pivot_data {#}
+## refresh_pivot_data(self) {#}
 
 Refreshes chart's data from pivot table.
 
 
 
 ```python
+
 def refresh_pivot_data(self):
     ...
 ```

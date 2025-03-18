@@ -8,13 +8,14 @@ url: /aspose.cells/range/copy_value/
 is_root: false
 ---
 
-## copy_value {#aspose.cells.Range}
+## copy_value(self, range) {#aspose.cells.Range}
 
 Copies cell value from a source range.
 
 
 
 ```python
+
 def copy_value(self, range):
     ...
 ```

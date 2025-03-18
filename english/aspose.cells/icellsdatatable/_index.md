@@ -3,7 +3,7 @@ title: ICellsDataTable class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 900
+weight: 910
 url: /aspose.cells/icellsdatatable/
 is_root: false
 ---
@@ -34,8 +34,8 @@ Gets the data stored in the column specified by index.
 ### Methods
 | Method | Description |
 | :- | :- |
-| [before_first](/cells/python-net/aspose.cells/icellsdatatable/before_first/#) | Move the cursor to the front of this object, just before the first row. |
-| [next](/cells/python-net/aspose.cells/icellsdatatable/next/#) | Moves the cursor down one row from its current position. |
+| [`before_first(self)`](/cells/python-net/aspose.cells/icellsdatatable/before_first/#) | Move the cursor to the front of this object, just before the first row. |
+| [`next(self)`](/cells/python-net/aspose.cells/icellsdatatable/next/#) | Moves the cursor down one row from its current position. |
 
 
 

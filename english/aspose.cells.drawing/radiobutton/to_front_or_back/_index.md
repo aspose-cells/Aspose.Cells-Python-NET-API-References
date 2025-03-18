@@ -3,18 +3,19 @@ title: to_front_or_back method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /aspose.cells.drawing/radiobutton/to_front_or_back/
 is_root: false
 ---
 
-## to_front_or_back {#int}
+## to_front_or_back(self, orders) {#int}
 
 Brings the shape to the front or sends the shape to back.
 
 
 
 ```python
+
 def to_front_or_back(self, orders):
     ...
 ```

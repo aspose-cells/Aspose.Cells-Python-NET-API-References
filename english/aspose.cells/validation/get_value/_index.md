@@ -8,7 +8,7 @@ url: /aspose.cells/validation/get_value/
 is_root: false
 ---
 
-## get_value {#int-int-bool}
+## get_value(self, row, column, is_value1) {#int-int-bool}
 
 Get the value of validation on the specific cell.
 
@@ -20,6 +20,7 @@ Get the value of validation on the specific cell.
 
 
 ```python
+
 def get_value(self, row, column, is_value1):
     ...
 ```

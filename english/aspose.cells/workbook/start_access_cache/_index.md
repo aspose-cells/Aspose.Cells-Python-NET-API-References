@@ -3,18 +3,19 @@ title: start_access_cache method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /aspose.cells/workbook/start_access_cache/
 is_root: false
 ---
 
-## start_access_cache {#aspose.cells.AccessCacheOptions}
+## start_access_cache(self, opts) {#aspose.cells.AccessCacheOptions}
 
 Starts the session that uses caches to access data.
 
 
 
 ```python
+
 def start_access_cache(self, opts):
     ...
 ```
