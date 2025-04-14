@@ -3,7 +3,7 @@ title: first_row property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 150
 url: /aspose.cells/unionrange/first_row/
 is_root: false
 ---

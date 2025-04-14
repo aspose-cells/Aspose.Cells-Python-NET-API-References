@@ -3,7 +3,7 @@ title: count property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 30
 url: /aspose.cells.drawing.texts/textparagraphcollection/count/
 is_root: false
 ---

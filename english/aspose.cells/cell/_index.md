@@ -24,6 +24,7 @@ The Cell type exposes the following members:
 | [row](/cells/python-net/aspose.cells/cell/row) | Gets row number (zero based) of the cell. |
 | [column](/cells/python-net/aspose.cells/cell/column) | Gets column number (zero based) of the cell. |
 | [is_formula](/cells/python-net/aspose.cells/cell/is_formula) | Represents if the specified cell contains formula. |
+| [has_custom_function](/cells/python-net/aspose.cells/cell/has_custom_function) | Checks whether there is custom function(unsupported function) in this cell's formula. |
 | [type](/cells/python-net/aspose.cells/cell/type) | Represents cell value type. |
 | [name](/cells/python-net/aspose.cells/cell/name) | Gets the name of the cell. |
 | [is_error_value](/cells/python-net/aspose.cells/cell/is_error_value) | Checks if the value of this cell is an error. |

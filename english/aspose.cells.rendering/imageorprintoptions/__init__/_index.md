@@ -10,7 +10,7 @@ is_root: false
 
 ## \_\_init\_\_(self) {#}
 
-Constructs a new instance of ImageOrPrintOptions
+Ctor.
 
 
 

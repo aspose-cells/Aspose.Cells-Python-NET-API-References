@@ -30,12 +30,6 @@ Gets the [`TextParagraph`](/cells/python-net/aspose.cells.drawing.texts/textpara
 | [index] | The index. |
 
 
-### Methods
-| Method | Description |
-| :- | :- |
-| [`get_enumerator(self)`](/cells/python-net/aspose.cells.drawing.texts/textparagraphcollection/get_enumerator/#) | Gets the enumerator of the paragraphs. |
-
-
 
 ### See Also
 * module [`aspose.cells.drawing.texts`](..)

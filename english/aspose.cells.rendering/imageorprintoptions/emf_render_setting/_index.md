@@ -11,7 +11,7 @@ is_root: false
 ## emf_render_setting property
 
 
-Setting for rendering Emf metafile.
+Setting for rendering Emf metafiles in source file.
 
 ### Remarks 
 

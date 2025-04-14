@@ -26,6 +26,7 @@ The **Aspose.Cells.Rendering**  namespace provides classes for rendering image a
 | [`SheetPrintingPreview`](/cells/python-net/aspose.cells.rendering/sheetprintingpreview) | Worksheet printing preview. |
 | [`SheetRender`](/cells/python-net/aspose.cells.rendering/sheetrender) | Represents a worksheet render which can render worksheet to various images such as (BMP, PNG, JPEG, TIFF..)<br/>The constructor of this class , must be used after modification of pagesetup, cell style. |
 | [`SheetSet`](/cells/python-net/aspose.cells.rendering/sheetset) | Describes a set of sheets. |
+| [`SvgImageOptions`](/cells/python-net/aspose.cells.rendering/svgimageoptions) | Options for generating Svg image. |
 | [`WorkbookPrintingPreview`](/cells/python-net/aspose.cells.rendering/workbookprintingpreview) | Workbook printing preview. |
 | [`WorkbookRender`](/cells/python-net/aspose.cells.rendering/workbookrender) | Represents a Workbook render. <br/>The constructor of this class , must be used after modification of pagesetup, cell style. |
 
@@ -42,6 +43,7 @@ The **Aspose.Cells.Rendering**  namespace provides classes for rendering image a
 | [`PdfCustomPropertiesExport`](/cells/python-net/aspose.cells.rendering/pdfcustompropertiesexport) | Specifies the way [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection) are exported to PDF file. |
 | [`PdfFontEncoding`](/cells/python-net/aspose.cells.rendering/pdffontencoding) | Represents pdf embedded font encoding. |
 | [`PdfOptimizationType`](/cells/python-net/aspose.cells.rendering/pdfoptimizationtype) | Specifies a type of optimization. |
+| [`SvgEmbeddedFontType`](/cells/python-net/aspose.cells.rendering/svgembeddedfonttype) | Represents the embedded font type in Svg image. |
 | [`TiffCompression`](/cells/python-net/aspose.cells.rendering/tiffcompression) | Specifies what type of compression to apply when saving images into TIFF format file. |
 
 

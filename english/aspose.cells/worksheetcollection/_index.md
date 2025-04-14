@@ -34,6 +34,7 @@ The WorksheetCollection type exposes the following members:
 | [external_links](/cells/python-net/aspose.cells/worksheetcollection/external_links) | Represents external links in a workbook. |
 | [table_styles](/cells/python-net/aspose.cells/worksheetcollection/table_styles) | Gets [`WorksheetCollection.table_styles`](/cells/python-net/aspose.cells/worksheetcollection#table_styles) object. |
 | [revision_logs](/cells/python-net/aspose.cells/worksheetcollection/revision_logs) | Represents revision logs. |
+| [sensitivity_labels](/cells/python-net/aspose.cells/worksheetcollection/sensitivity_labels) | Represents all sensitivity labels. |
 | [capacity](/cells/python-net/aspose.cells/worksheetcollection/capacity) | Gets or sets the number of elements that the array list can contain. |
 
 

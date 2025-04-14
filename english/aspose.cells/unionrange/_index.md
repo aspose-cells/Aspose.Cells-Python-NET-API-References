@@ -50,7 +50,6 @@ The UnionRange type exposes the following members:
 | [`set_style(self, style)`](/cells/python-net/aspose.cells/unionrange/set_style/#aspose.cells.style) | Sets the style of the range. |
 | [`apply_style(self, style, flag)`](/cells/python-net/aspose.cells/unionrange/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Applies formats for a whole range. |
 | [`copy(self, range, options)`](/cells/python-net/aspose.cells/unionrange/copy/#aspose.cells.unionrange-aspose.cells.pasteoptions) | Copying the range with paste special options. |
-| [`get_enumerator(self)`](/cells/python-net/aspose.cells/unionrange/get_enumerator/#) | Gets the enumerator for cells in this Range. |
 
 
 
