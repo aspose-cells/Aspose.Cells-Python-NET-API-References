@@ -3,7 +3,7 @@ title: merge method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 50
 url: /aspose.cells/unionrange/merge/
 is_root: false
 ---

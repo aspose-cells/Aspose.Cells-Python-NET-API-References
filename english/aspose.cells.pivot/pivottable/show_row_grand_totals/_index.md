@@ -12,6 +12,11 @@ is_root: false
 
 
 Indicates whether to show grand totals for rows of the pivot table.
+
+### Remarks 
+
+
+
 ### Definition:
 ```python
 @property

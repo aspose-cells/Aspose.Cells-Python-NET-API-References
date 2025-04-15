@@ -24,7 +24,6 @@ The Worksheet type exposes the following members:
 | [workbook](/cells/python-net/aspose.cells/worksheet/workbook) | Gets the workbook object which contains this sheet. |
 | [cells](/cells/python-net/aspose.cells/worksheet/cells) | Gets the [`Worksheet.cells`](/cells/python-net/aspose.cells/worksheet#cells) collection. |
 | [query_tables](/cells/python-net/aspose.cells/worksheet/query_tables) | Gets [`QueryTableCollection`](/cells/python-net/aspose.cells/querytablecollection) in the worksheet. |
-| [pivot_tables](/cells/python-net/aspose.cells/worksheet/pivot_tables) | Gets all pivot tables in this worksheet. |
 | [type](/cells/python-net/aspose.cells/worksheet/type) | Represents worksheet type. |
 | [name](/cells/python-net/aspose.cells/worksheet/name) | Gets or sets the name of the worksheet. |
 | [show_formulas](/cells/python-net/aspose.cells/worksheet/show_formulas) | Indicates whether to show formulas or their results. |
@@ -35,6 +34,7 @@ The Worksheet type exposes the following members:
 | [display_right_to_left](/cells/python-net/aspose.cells/worksheet/display_right_to_left) | Indicates if the specified worksheet is displayed from right to left instead of from left to right.<br/>Default is false. |
 | [is_outline_shown](/cells/python-net/aspose.cells/worksheet/is_outline_shown) | Indicates whether to show outline. |
 | [is_selected](/cells/python-net/aspose.cells/worksheet/is_selected) | Indicates whether this worksheet is selected when the workbook is opened. |
+| [pivot_tables](/cells/python-net/aspose.cells/worksheet/pivot_tables) | Gets all pivot tables in this worksheet. |
 | [list_objects](/cells/python-net/aspose.cells/worksheet/list_objects) | Gets all ListObjects in this worksheet. |
 | [tab_id](/cells/python-net/aspose.cells/worksheet/tab_id) | Specifies the internal identifier for the sheet. |
 | [horizontal_page_breaks](/cells/python-net/aspose.cells/worksheet/horizontal_page_breaks) | Gets the [`HorizontalPageBreakCollection`](/cells/python-net/aspose.cells/horizontalpagebreakcollection) collection. |
@@ -70,6 +70,7 @@ The Worksheet type exposes the following members:
 | [is_page_break_preview](/cells/python-net/aspose.cells/worksheet/is_page_break_preview) | Indicates whether the specified worksheet is shown in normal view or page break preview. |
 | [is_ruler_visible](/cells/python-net/aspose.cells/worksheet/is_ruler_visible) | Indicates whether the ruler is visible. This property is only applied for page break preview. |
 | [tab_color](/cells/python-net/aspose.cells/worksheet/tab_color) | Represents worksheet tab color. |
+| [gridline_color](/cells/python-net/aspose.cells/worksheet/gridline_color) | Gets and sets the color of gridline |
 | [code_name](/cells/python-net/aspose.cells/worksheet/code_name) | Gets worksheet code name. |
 | [background_image](/cells/python-net/aspose.cells/worksheet/background_image) | Gets and sets worksheet background image. |
 | [conditional_formattings](/cells/python-net/aspose.cells/worksheet/conditional_formattings) | Gets the ConditionalFormattings in the worksheet. |
@@ -134,6 +135,7 @@ The Worksheet type exposes the following members:
 | [`move_to(self, index)`](/cells/python-net/aspose.cells/worksheet/move_to/#int) | Moves the sheet to another location in the spreadsheet. |
 | [`replace(self, old_string, new_string)`](/cells/python-net/aspose.cells/worksheet/replace/#str-str) | Replaces all cells' text with a new string. |
 | [`get_selected_ranges(self)`](/cells/python-net/aspose.cells/worksheet/get_selected_ranges/#) | Gets selected ranges of cells in the designer spreadsheet. |
+| [`get_selected_areas(self)`](/cells/python-net/aspose.cells/worksheet/get_selected_areas/#) | Gets selected ranges of cells in the designer spreadsheet. |
 | [`get_printing_page_breaks(self, options)`](/cells/python-net/aspose.cells/worksheet/get_printing_page_breaks/#aspose.cells.rendering.imageorprintoptions) | Gets automatic page breaks. |
 | [`start_access_cache(self, opts)`](/cells/python-net/aspose.cells/worksheet/start_access_cache/#aspose.cells.accesscacheoptions) | Starts the session that uses caches to access the data in this worksheet. |
 | [`close_access_cache(self, opts)`](/cells/python-net/aspose.cells/worksheet/close_access_cache/#aspose.cells.accesscacheoptions) | Closes the session that uses caches to access the data in this worksheet. |

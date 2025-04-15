@@ -55,7 +55,6 @@ The Range type exposes the following members:
 | [`copy(self, range, options)`](/cells/python-net/aspose.cells/range/copy/#aspose.cells.range-aspose.cells.pasteoptions) | Copying the range with paste special options. |
 | [`copy(self, range)`](/cells/python-net/aspose.cells/range/copy/#aspose.cells.range) | Copies data (including formulas), formatting, drawing objects etc. from a source range. |
 | [`add_hyperlink(self, address, text_to_display, screen_tip)`](/cells/python-net/aspose.cells/range/add_hyperlink/#str-str-str) | Adds a hyperlink to a specified cell or a range of cells. |
-| [`get_enumerator(self)`](/cells/python-net/aspose.cells/range/get_enumerator/#) | Gets the enumerator for cells in this Range. |
 | [`is_intersect(self, range)`](/cells/python-net/aspose.cells/range/is_intersect/#aspose.cells.range) | Indicates whether the range is intersect. |
 | [`intersect(self, range)`](/cells/python-net/aspose.cells/range/intersect/#aspose.cells.range) | Returns a [`Range`](/cells/python-net/aspose.cells/range) object that represents the rectangular intersection of two ranges. |
 | [`union_rang(self, range)`](/cells/python-net/aspose.cells/range/union_rang/#aspose.cells.range) | Returns the union result of two ranges. |

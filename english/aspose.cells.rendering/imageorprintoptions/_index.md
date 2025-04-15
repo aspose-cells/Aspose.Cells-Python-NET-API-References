@@ -19,7 +19,7 @@ The ImageOrPrintOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self)`](/cells/python-net/aspose.cells.rendering/imageorprintoptions/__init__/#) | Constructs a new instance of ImageOrPrintOptions |
+| [`__init__(self)`](/cells/python-net/aspose.cells.rendering/imageorprintoptions/__init__/#) | Ctor. |
 
 
 ### Properties
@@ -62,7 +62,7 @@ The ImageOrPrintOptions type exposes the following members:
 | [emf_type](/cells/python-net/aspose.cells.rendering/imageorprintoptions/emf_type) | Gets or sets an EmfType that specifies the format of the Metafile..<br/>The default value is EmfPlusDual. |
 | [default_edit_language](/cells/python-net/aspose.cells.rendering/imageorprintoptions/default_edit_language) | Gets or sets default edit language. |
 | [sheet_set](/cells/python-net/aspose.cells.rendering/imageorprintoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
-| [emf_render_setting](/cells/python-net/aspose.cells.rendering/imageorprintoptions/emf_render_setting) | Setting for rendering Emf metafile. |
+| [emf_render_setting](/cells/python-net/aspose.cells.rendering/imageorprintoptions/emf_render_setting) | Setting for rendering Emf metafiles in source file. |
 
 
 ### Methods

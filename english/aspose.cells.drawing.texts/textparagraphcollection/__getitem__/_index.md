@@ -3,7 +3,7 @@ title: TextParagraphCollection indexer
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 20
 url: /aspose.cells.drawing.texts/textparagraphcollection/__getitem__/
 is_root: false
 ---

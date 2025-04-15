@@ -48,6 +48,7 @@ The Workbook type exposes the following members:
 | [built_in_document_properties](/cells/python-net/aspose.cells/workbook/built_in_document_properties) | Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) collection that represents all the built-in document properties of the spreadsheet. |
 | [custom_document_properties](/cells/python-net/aspose.cells/workbook/custom_document_properties) | Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) collection that represents all the custom document properties of the spreadsheet. |
 | [file_format](/cells/python-net/aspose.cells/workbook/file_format) | Gets and sets the file format. |
+| [has_custom_function](/cells/python-net/aspose.cells/workbook/has_custom_function) | Detects whether there is custom function used in this workbook,<br/>such as in cell's formula, in defined names... |
 | [interrupt_monitor](/cells/python-net/aspose.cells/workbook/interrupt_monitor) | Gets and sets the interrupt monitor. |
 | [content_type_properties](/cells/python-net/aspose.cells/workbook/content_type_properties) | Gets the list of  [`ContentTypeProperty`](/cells/python-net/aspose.cells.properties/contenttypeproperty) objects in the workbook. |
 | [custom_xml_parts](/cells/python-net/aspose.cells/workbook/custom_xml_parts) | Represents a Custom XML Data Storage Part (custom XML data within a package). |

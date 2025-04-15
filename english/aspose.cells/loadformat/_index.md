@@ -38,6 +38,7 @@ The LoadFormat type exposes the following members:
 | EPUB | Reprents an EPUB file. |
 | AZW3 | Represents an AZW3 file. |
 | CHM | Represents a CHM file. |
+| MARKDOWN | Represents a Markdown file. |
 | UNKNOWN | Represents unrecognized format, cannot be loaded. |
 | IMAGE | Image |
 | JSON | Json |

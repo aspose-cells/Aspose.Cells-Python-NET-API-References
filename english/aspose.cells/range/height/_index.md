@@ -3,7 +3,7 @@ title: height property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 390
 url: /aspose.cells/range/height/
 is_root: false
 ---

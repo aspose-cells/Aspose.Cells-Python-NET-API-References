@@ -3,7 +3,7 @@ title: set_outline_border method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 190
 url: /aspose.cells/range/set_outline_border/
 is_root: false
 ---

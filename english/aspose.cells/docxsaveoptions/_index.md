@@ -63,6 +63,7 @@ The DocxSaveOptions type exposes the following members:
 | [draw_object_event_handler](/cells/python-net/aspose.cells/docxsaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/docxsaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
 | [emf_render_setting](/cells/python-net/aspose.cells/docxsaveoptions/emf_render_setting) | Setting for rendering Emf metafile. |
+| [save_as_editable_shaps](/cells/python-net/aspose.cells/docxsaveoptions/save_as_editable_shaps) | Save all drawing objecgts as editable shapes in word file.So you can edit them in Word. |
 
 
 
