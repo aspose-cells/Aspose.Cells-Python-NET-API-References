@@ -36,6 +36,7 @@ The VerticalPageBreakCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells/verticalpagebreakcollection/last_index_of/#aspose.cells.verticalpagebreak) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells/verticalpagebreakcollection/last_index_of/#aspose.cells.verticalpagebreak-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells/verticalpagebreakcollection/last_index_of/#aspose.cells.verticalpagebreak-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [`get(self, cell_name)`](/cells/python-net/aspose.cells/verticalpagebreakcollection/get/#str) | Gets the [`VerticalPageBreak`](/cells/python-net/aspose.cells/verticalpagebreak) element with the specified cell name. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells/verticalpagebreakcollection/binary_search/#aspose.cells.verticalpagebreak) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

@@ -58,6 +58,7 @@ The ImageOrPrintOptions type exposes the following members:
 | [check_workbook_default_font](/cells/python-net/aspose.cells.rendering/imageorprintoptions/check_workbook_default_font) | When characters in the Excel are Unicode and not be set with correct font in cell style,<br/>They may appear as block in pdf,image.<br/>Set this to true to try to use workbook's default font to show these characters first. |
 | [output_blank_page_when_nothing_to_print](/cells/python-net/aspose.cells.rendering/imageorprintoptions/output_blank_page_when_nothing_to_print) | Indicates whether to output a blank page when there is nothing to print. |
 | [gridline_type](/cells/python-net/aspose.cells.rendering/imageorprintoptions/gridline_type) | Gets or sets gridline type. |
+| [gridline_color](/cells/python-net/aspose.cells.rendering/imageorprintoptions/gridline_color) | Gets or sets gridline colr. |
 | [text_cross_type](/cells/python-net/aspose.cells.rendering/imageorprintoptions/text_cross_type) | Gets or sets displaying text type when the text width is larger than cell width. |
 | [emf_type](/cells/python-net/aspose.cells.rendering/imageorprintoptions/emf_type) | Gets or sets an EmfType that specifies the format of the Metafile..<br/>The default value is EmfPlusDual. |
 | [default_edit_language](/cells/python-net/aspose.cells.rendering/imageorprintoptions/default_edit_language) | Gets or sets default edit language. |

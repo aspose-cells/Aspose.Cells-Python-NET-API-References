@@ -77,6 +77,11 @@ The Range type exposes the following members:
 | [`to_image(self, options)`](/cells/python-net/aspose.cells/range/to_image/#aspose.cells.rendering.imageorprintoptions) | Converts the range to image. |
 | [`to_json(self, options)`](/cells/python-net/aspose.cells/range/to_json/#aspose.cells.jsonsaveoptions) | Convert the range to JSON value. |
 | [`to_html(self, save_options)`](/cells/python-net/aspose.cells/range/to_html/#aspose.cells.htmlsaveoptions) | Convert the range to html . |
+| [`clear(self)`](/cells/python-net/aspose.cells/range/clear/#) | Clears this range. |
+| [`clear_contents(self)`](/cells/python-net/aspose.cells/range/clear_contents/#) | Clears the contents of this range. |
+| [`clear_formats(self)`](/cells/python-net/aspose.cells/range/clear_formats/#) | Clears the formats of this range. |
+| [`clear_comments(self)`](/cells/python-net/aspose.cells/range/clear_comments/#) | Clears the comments of this range. |
+| [`clear_hyperlinks(self, clear_format)`](/cells/python-net/aspose.cells/range/clear_hyperlinks/#bool) | Only removes hyperlinks. |
 
 
 

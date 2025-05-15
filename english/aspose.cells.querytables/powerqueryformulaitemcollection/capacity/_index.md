@@ -3,7 +3,7 @@ title: capacity property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells.querytables/powerqueryformulaitemcollection/capacity/
 is_root: false
 ---

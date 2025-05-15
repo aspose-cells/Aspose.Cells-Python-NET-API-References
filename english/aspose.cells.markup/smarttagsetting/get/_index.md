@@ -8,6 +8,30 @@ url: /aspose.cells.markup/smarttagsetting/get/
 is_root: false
 ---
 
+## get(self, cell_name) {#str}
+
+Gets the [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection) object of the cell.
+
+
+### Returns 
+
+
+Returns the [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection) object of the cell.
+Returns null if there is no any smart tags on the cell.
+
+
+```python
+
+def get(self, cell_name):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| cell_name | str | The name of the cell. |
+
+
 ## get(self, row, column) {#int-int}
 
 Add API for Python Via .Net.since this[int, int] is unsupported

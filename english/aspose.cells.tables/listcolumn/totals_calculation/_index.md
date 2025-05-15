@@ -3,7 +3,7 @@ title: totals_calculation property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.tables/listcolumn/totals_calculation/
 is_root: false
 ---

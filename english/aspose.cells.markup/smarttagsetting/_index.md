@@ -22,6 +22,7 @@ The SmartTagSetting type exposes the following members:
 | [`add(self, row, column)`](/cells/python-net/aspose.cells.markup/smarttagsetting/add/#int-int) | Adds a [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection) object to a cell. |
 | [`add(self, cell_name)`](/cells/python-net/aspose.cells.markup/smarttagsetting/add/#str) | Add a cell smart tags. |
 | [`get(self, row, column)`](/cells/python-net/aspose.cells.markup/smarttagsetting/get/#int-int) | Add API for Python Via .Net.since this[int, int] is unsupported |
+| [`get(self, cell_name)`](/cells/python-net/aspose.cells.markup/smarttagsetting/get/#str) | Gets the [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection) object of the cell. |
 
 
 

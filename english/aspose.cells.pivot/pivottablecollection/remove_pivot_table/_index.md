@@ -3,7 +3,7 @@ title: remove_pivot_table method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /aspose.cells.pivot/pivottablecollection/remove_pivot_table/
 is_root: false
 ---

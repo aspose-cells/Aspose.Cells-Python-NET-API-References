@@ -28,9 +28,9 @@ def add(self):
 
 ### Remarks
 
-NOTE: This member is now obsolete. Instead, 
+NOTE: This method is now obsolete. Instead, 
 please use ValidationCollection.Add(CellArea) method.
-This property will be removed 12 months later since JANUARY 2015. 
+This method will be removed 12 months later since JANUARY 2015. 
 Aspose apologizes for any inconvenience you may have experienced.
 
 ## add(self, ca) {#aspose.cells.CellArea}

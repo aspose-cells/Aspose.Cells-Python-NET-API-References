@@ -173,6 +173,7 @@ The Cells type exposes the following members:
 | [`get_view_column_width_pixel(self, column)`](/cells/python-net/aspose.cells/cells/get_view_column_width_pixel/#int) | Get the width in different view type. |
 | [`set_view_column_width_pixel(self, column, pixels)`](/cells/python-net/aspose.cells/cells/set_view_column_width_pixel/#int-int) | Sets the width of the column in different view. |
 | [`get_last_data_row(self, column)`](/cells/python-net/aspose.cells/cells/get_last_data_row/#int) | Gets the last row index of cell which contains data in the specified column. |
+| [`get_first_data_row(self, column)`](/cells/python-net/aspose.cells/cells/get_first_data_row/#int) | Gets the first row index of cell which contains data in the specified column. |
 | [`apply_column_style(self, column, style, flag)`](/cells/python-net/aspose.cells/cells/apply_column_style/#int-aspose.cells.style-aspose.cells.styleflag) | Applies formats for a whole column. |
 | [`apply_row_style(self, row, style, flag)`](/cells/python-net/aspose.cells/cells/apply_row_style/#int-aspose.cells.style-aspose.cells.styleflag) | Applies formats for a whole row. |
 | [`apply_style(self, style, flag)`](/cells/python-net/aspose.cells/cells/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Applies formats for a whole worksheet. |

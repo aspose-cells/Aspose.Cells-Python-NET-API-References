@@ -3,7 +3,7 @@ title: transpose method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 300
 url: /aspose.cells/range/transpose/
 is_root: false
 ---
