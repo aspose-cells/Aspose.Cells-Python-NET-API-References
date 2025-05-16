@@ -3,7 +3,7 @@ title: get_builtin_table_style method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells.tables/tablestylecollection/get_builtin_table_style/
 is_root: false
 ---

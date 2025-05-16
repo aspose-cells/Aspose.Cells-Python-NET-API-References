@@ -40,6 +40,7 @@ The CellWatchCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells/cellwatchcollection/last_index_of/#aspose.cells.cellwatch) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells/cellwatchcollection/last_index_of/#aspose.cells.cellwatch-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells/cellwatchcollection/last_index_of/#aspose.cells.cellwatch-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [`get(self, cell_name)`](/cells/python-net/aspose.cells/cellwatchcollection/get/#str) | Gets and sets [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) by the name of the cell. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells/cellwatchcollection/binary_search/#aspose.cells.cellwatch) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

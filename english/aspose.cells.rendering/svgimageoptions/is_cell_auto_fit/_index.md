@@ -3,7 +3,7 @@ title: is_cell_auto_fit property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.rendering/svgimageoptions/is_cell_auto_fit/
 is_root: false
 ---
@@ -18,7 +18,7 @@ The default value is false.
 
 
 NOTE: This member is now obsolete. Instead, 
-please use [`Worksheet.auto_fit_columns`](/cells/python-net/aspose.cells/worksheet/auto_fit_columns) and [`Worksheet.auto_fit_rows`](/cells/python-net/aspose.cells/worksheet/auto_fit_rows).
+this property is not used, please remove this property..
 This property will be removed 12 months later since August 2022. 
 Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:

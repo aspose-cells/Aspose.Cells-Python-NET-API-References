@@ -3,7 +3,7 @@ title: retrieve_subtotal_setting method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 840
 url: /aspose.cells/cells/retrieve_subtotal_setting/
 is_root: false
 ---

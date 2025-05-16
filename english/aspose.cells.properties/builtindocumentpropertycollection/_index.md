@@ -64,8 +64,8 @@ The BuiltInDocumentPropertyCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
+| [`get(self, name)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/get/#int) | Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) object by the name of the property. |
 | [`get(self, name)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/get/#str) | Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) object by the name of the property. |
-| [`get(self, index)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/get/#int) | Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) object by index. |
 | [`index_of(self, name)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/index_of/#str) | Gets the index of a property by name. |
 | [`index_of(self, item, index)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/index_of/#aspose.cells.properties.documentproperty-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |
 | [`index_of(self, item, index, count)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/index_of/#aspose.cells.properties.documentproperty-int-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements. |

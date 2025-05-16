@@ -36,6 +36,7 @@ The TableStyleCollection type exposes the following members:
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.tables/tablestylecollection/last_index_of/#aspose.cells.tables.tablestyle-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [`add_table_style(self, name)`](/cells/python-net/aspose.cells.tables/tablestylecollection/add_table_style/#str) | Adds a custom table style. |
 | [`add_pivot_table_style(self, name)`](/cells/python-net/aspose.cells.tables/tablestylecollection/add_pivot_table_style/#str) | Adds a custom pivot table style. |
+| [`get(self, name)`](/cells/python-net/aspose.cells.tables/tablestylecollection/get/#str) | Gets the table style by the name. |
 | [`get_builtin_table_style(self, type)`](/cells/python-net/aspose.cells.tables/tablestylecollection/get_builtin_table_style/#aspose.cells.tables.tablestyletype) | Gets the builtin table style |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.tables/tablestylecollection/binary_search/#aspose.cells.tables.tablestyle) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 

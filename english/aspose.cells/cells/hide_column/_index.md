@@ -3,7 +3,7 @@ title: hide_column method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 580
+weight: 590
 url: /aspose.cells/cells/hide_column/
 is_root: false
 ---

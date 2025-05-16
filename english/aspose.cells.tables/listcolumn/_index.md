@@ -22,6 +22,7 @@ The ListColumn type exposes the following members:
 | [name](/cells/python-net/aspose.cells.tables/listcolumn/name) | Gets and sets the name of the column. |
 | [totals_calculation](/cells/python-net/aspose.cells.tables/listcolumn/totals_calculation) | Gets and sets the type of calculation in the Totals row of the list column. |
 | [range](/cells/python-net/aspose.cells.tables/listcolumn/range) | Gets the range of this list column. |
+| [is_array_formula](/cells/python-net/aspose.cells.tables/listcolumn/is_array_formula) | Indicates whether the fomula is array formula. |
 | [formula](/cells/python-net/aspose.cells.tables/listcolumn/formula) | Gets and sets the formula of the list column. |
 | [totals_row_label](/cells/python-net/aspose.cells.tables/listcolumn/totals_row_label) | Gets and sets the display labels of total row. |
 

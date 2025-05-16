@@ -38,6 +38,7 @@ The PictureCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells.drawing/picturecollection/last_index_of/#aspose.cells.drawing.picture) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.drawing/picturecollection/last_index_of/#aspose.cells.drawing.picture-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.drawing/picturecollection/last_index_of/#aspose.cells.drawing.picture-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [`camera(self, row, column, range)`](/cells/python-net/aspose.cells.drawing/picturecollection/camera/#int-int-str) | Takes a photo of the range. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.drawing/picturecollection/binary_search/#aspose.cells.drawing.picture) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

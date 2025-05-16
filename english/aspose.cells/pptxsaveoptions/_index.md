@@ -57,6 +57,7 @@ The PptxSaveOptions type exposes the following members:
 | [page_count](/cells/python-net/aspose.cells/pptxsaveoptions/page_count) | Gets or sets the number of pages to save. |
 | [printing_page_type](/cells/python-net/aspose.cells/pptxsaveoptions/printing_page_type) | Indicates which pages will not be printed. |
 | [gridline_type](/cells/python-net/aspose.cells/pptxsaveoptions/gridline_type) | Gets or sets gridline type. |
+| [gridline_color](/cells/python-net/aspose.cells/pptxsaveoptions/gridline_color) | Gets or sets gridline colr. |
 | [text_cross_type](/cells/python-net/aspose.cells/pptxsaveoptions/text_cross_type) | Gets or sets displaying text type when the text width is larger than cell width. |
 | [default_edit_language](/cells/python-net/aspose.cells/pptxsaveoptions/default_edit_language) | Gets or sets default edit language. |
 | [sheet_set](/cells/python-net/aspose.cells/pptxsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |

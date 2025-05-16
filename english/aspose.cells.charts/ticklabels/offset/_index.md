@@ -11,13 +11,14 @@ is_root: false
 ## offset property
 
 
-Gets and sets the distance between the axis labels and the axis line.
+Gets and sets the distance of labels from the category axis.  
+Only for category (x) axis.
 
 ### Remarks 
 
 
 The default distance is 100 percent, which represents the default spacing between the axis labels and the axis line.
-The value can be an integer percentage from 0 through 1000, relative to the axis label’s font size.
+The value can be an integer percentage from 0 through 1000, relative to the axis label''s font size.
 ### Definition:
 ```python
 @property

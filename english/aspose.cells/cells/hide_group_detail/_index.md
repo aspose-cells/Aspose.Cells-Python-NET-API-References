@@ -3,7 +3,7 @@ title: hide_group_detail method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 610
 url: /aspose.cells/cells/hide_group_detail/
 is_root: false
 ---

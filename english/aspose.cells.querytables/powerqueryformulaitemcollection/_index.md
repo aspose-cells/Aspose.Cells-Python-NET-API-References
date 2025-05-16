@@ -32,9 +32,11 @@ The PowerQueryFormulaItemCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitemcollection/last_index_of/#aspose.cells.querytables.powerqueryformulaitem) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitemcollection/last_index_of/#aspose.cells.querytables.powerqueryformulaitem-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitemcollection/last_index_of/#aspose.cells.querytables.powerqueryformulaitem-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [`get(self, name)`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitemcollection/get/#str) | Gets [`PowerQueryFormulaItem`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitem) by the name of the item. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitemcollection/binary_search/#aspose.cells.querytables.powerqueryformulaitem) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 
 
 ### See Also
 * module [`aspose.cells.querytables`](..)
+* class [`PowerQueryFormulaItem`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitem)

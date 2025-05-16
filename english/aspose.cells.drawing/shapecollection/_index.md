@@ -38,6 +38,7 @@ The ShapeCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells.drawing/shapecollection/last_index_of/#aspose.cells.drawing.shape) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.drawing/shapecollection/last_index_of/#aspose.cells.drawing.shape-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.drawing/shapecollection/last_index_of/#aspose.cells.drawing.shape-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [`get(self, name)`](/cells/python-net/aspose.cells.drawing/shapecollection/get/#str) | Gets the [`Shape`](/cells/python-net/aspose.cells.drawing/shape) object by the name of the shape. |
 | [`add_copy(self, source_shape, top_row, top, left_column, left)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_copy/#aspose.cells.drawing.shape-int-int-int-int) | Adds and copy a shape to the worksheet. |
 | [`add_check_box(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_check_box/#int-int-int-int-int-int) | Adds a checkbox to the worksheet. |
 | [`add_text_box(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_text_box/#int-int-int-int-int-int) | Adds a text box to the worksheet. |
@@ -102,3 +103,4 @@ workbook.save("result.xlsx")
 
 ### See Also
 * module [`aspose.cells.drawing`](..)
+* class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)

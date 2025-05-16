@@ -3,7 +3,7 @@ title: copy_value method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 130
 url: /aspose.cells/range/copy_value/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: get_external_connection_by_id method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells.externalconnections/externalconnectioncollection/get_external_connection_by_id/
 is_root: false
 ---

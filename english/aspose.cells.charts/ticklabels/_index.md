@@ -28,7 +28,7 @@ The TickLabels type exposes the following members:
 | [number](/cells/python-net/aspose.cells.charts/ticklabels/number) | Represents the format number for the TickLabels object. |
 | [number_format_linked](/cells/python-net/aspose.cells.charts/ticklabels/number_format_linked) | True if the number format is linked to the cells <br/>(so that the number format changes in the labels when it changes in the cells). |
 | [display_number_format](/cells/python-net/aspose.cells.charts/ticklabels/display_number_format) | Gets and sets the display number format of tick labels. |
-| [offset](/cells/python-net/aspose.cells.charts/ticklabels/offset) | Gets and sets the distance between the axis labels and the axis line. |
+| [offset](/cells/python-net/aspose.cells.charts/ticklabels/offset) | Gets and sets the distance of labels from the category axis.  <br/>Only for category (x) axis. |
 | [text_direction](/cells/python-net/aspose.cells.charts/ticklabels/text_direction) | Represents text reading order. |
 | [reading_order](/cells/python-net/aspose.cells.charts/ticklabels/reading_order) | Represents text reading order. |
 | [direction_type](/cells/python-net/aspose.cells.charts/ticklabels/direction_type) | Gets and sets the direction of text. |

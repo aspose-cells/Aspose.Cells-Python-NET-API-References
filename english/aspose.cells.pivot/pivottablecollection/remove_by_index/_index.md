@@ -3,7 +3,7 @@ title: remove_by_index method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.pivot/pivottablecollection/remove_by_index/
 is_root: false
 ---

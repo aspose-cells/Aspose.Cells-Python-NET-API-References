@@ -3,7 +3,7 @@ title: import_array_list method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 640
+weight: 650
 url: /aspose.cells/cells/import_array_list/
 is_root: false
 ---

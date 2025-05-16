@@ -49,6 +49,9 @@ The MarkdownSaveOptions type exposes the following members:
 | [line_separator](/cells/python-net/aspose.cells/markdownsaveoptions/line_separator) | Gets and sets the line separator. |
 | [table_header_type](/cells/python-net/aspose.cells/markdownsaveoptions/table_header_type) | Gets and sets how set the header of the table. |
 | [sheet_set](/cells/python-net/aspose.cells/markdownsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.active`](/cells/python-net/aspose.cells.rendering/sheetset#active). |
+| [image_options](/cells/python-net/aspose.cells/markdownsaveoptions/image_options) | Get the ImageOrPrintOptions object before exporting |
+| [export_images_as_base64](/cells/python-net/aspose.cells/markdownsaveoptions/export_images_as_base64) | Specifies whether images are saved in Base64 format to Markdown. |
+| [stream_provider](/cells/python-net/aspose.cells/markdownsaveoptions/stream_provider) | Gets or sets the IStreamProvider for exporting objects. |
 
 
 
