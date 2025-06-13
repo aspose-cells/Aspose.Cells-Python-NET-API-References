@@ -3,7 +3,7 @@ title: width_pixel property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.timelines/timeline/width_pixel/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Returns or sets the width of the specified timeline, in pixels.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead, 
+please use Shape.Width property. 
+This property will be removed 12 months later since May 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

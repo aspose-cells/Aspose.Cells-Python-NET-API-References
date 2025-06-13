@@ -3,7 +3,7 @@ title: ShapeLockType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1140
+weight: 1160
 url: /aspose.cells.drawing/shapelocktype/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: page_count property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 250
 url: /aspose.cells/pclsaveoptions/page_count/
 is_root: false
 ---

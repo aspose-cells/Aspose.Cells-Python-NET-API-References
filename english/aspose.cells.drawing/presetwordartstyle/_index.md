@@ -3,7 +3,7 @@ title: PresetWordArtStyle enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1090
+weight: 1110
 url: /aspose.cells.drawing/presetwordartstyle/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: MsoArrowheadStyle enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 970
+weight: 990
 url: /aspose.cells.drawing/msoarrowheadstyle/
 is_root: false
 ---

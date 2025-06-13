@@ -3,7 +3,7 @@ title: page_saving_callback property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells.rendering/svgimageoptions/page_saving_callback/
 is_root: false
 ---

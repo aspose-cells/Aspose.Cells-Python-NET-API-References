@@ -3,7 +3,7 @@ title: set_theme_color method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /aspose.cells/workbook/set_theme_color/
 is_root: false
 ---

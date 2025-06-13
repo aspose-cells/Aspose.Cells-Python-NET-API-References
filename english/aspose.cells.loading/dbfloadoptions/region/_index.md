@@ -11,13 +11,19 @@ is_root: false
 ## region property
 
 
-Gets or sets the system regional settings based on CountryCode at the time the file was loaded.
+Gets or sets the regional settings used for the Workbook that will be loaded.
 
 ### Remarks 
 
 
-If you do not want to use the region  saved in the file, 
-please reset it after reading the file.
+The regional settings may be used for initializing some features for the workbook
+such as fonts, themes, and so on.
+For text based file formats, such as CSV, HTML, ..., the regional setting
+also will be used to detect number formats and parse text values to numeric
+or datetime values for cells.
+This setting will be kept for the instantiated workbook later, that is,
+[`WorkbookSettings.region`](/cells/python-net/aspose.cells/workbooksettings#region) of the workbook will use the same region
+with this property.
 ### Definition:
 ```python
 @property

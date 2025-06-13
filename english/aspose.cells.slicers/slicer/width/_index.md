@@ -3,7 +3,7 @@ title: width property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells.slicers/slicer/width/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Returns or sets the width of the specified slicer, in points.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead, 
+please use Shape.WidthPt property. 
+This property will be removed 12 months later since May 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ### Example 
 

@@ -3,7 +3,7 @@ title: DrawObjectEventHandler class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /aspose.cells.rendering/drawobjecteventhandler/
 is_root: false
 ---

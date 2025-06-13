@@ -3,7 +3,7 @@ title: cells_data_table_factory property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 480
 url: /aspose.cells/workbook/cells_data_table_factory/
 is_root: false
 ---

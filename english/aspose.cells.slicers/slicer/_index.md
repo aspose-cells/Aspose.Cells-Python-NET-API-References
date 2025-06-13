@@ -26,6 +26,7 @@ The Slicer type exposes the following members:
 | [placement](/cells/python-net/aspose.cells.slicers/slicer/placement) | Represents the way the drawing object is attached to the cells below it.<br/>The property controls the placement of an object on a worksheet. |
 | [locked_aspect_ratio](/cells/python-net/aspose.cells.slicers/slicer/locked_aspect_ratio) | Indicates whether locking aspect ratio. |
 | [locked_position](/cells/python-net/aspose.cells.slicers/slicer/locked_position) | Indicates whether the specified slicer can be moved or resized by using the user interface. |
+| [shape](/cells/python-net/aspose.cells.slicers/slicer/shape) | Returns the Shape object associated with the specified slicer. Read-only. |
 | [slicer_cache](/cells/python-net/aspose.cells.slicers/slicer/slicer_cache) | Returns the SlicerCache object associated with the slicer. Read-only. |
 | [parent](/cells/python-net/aspose.cells.slicers/slicer/parent) | Returns the [`Worksheet`](/cells/python-net/aspose.cells/worksheet) object which contains this slicer. Read-only. |
 | [style_type](/cells/python-net/aspose.cells.slicers/slicer/style_type) | Specify the type of Built-in slicer style<br/>the default type is SlicerStyleLight1 |
@@ -39,7 +40,7 @@ The Slicer type exposes the following members:
 | [width_pixel](/cells/python-net/aspose.cells.slicers/slicer/width_pixel) | Returns or sets the width of the specified slicer, in pixels. |
 | [height](/cells/python-net/aspose.cells.slicers/slicer/height) | Returns or sets the height of the specified slicer, in points. |
 | [height_pixel](/cells/python-net/aspose.cells.slicers/slicer/height_pixel) | Returns or sets the height of the specified slicer, in pixels. |
-| [column_width_pixel](/cells/python-net/aspose.cells.slicers/slicer/column_width_pixel) | Gets or sets the width in unit of pixels for each column of the slicer. |
+| [column_width_pixel](/cells/python-net/aspose.cells.slicers/slicer/column_width_pixel) | Gets or sets the width of each column in the slicer, in unit of pixels. |
 | [column_width](/cells/python-net/aspose.cells.slicers/slicer/column_width) | Returns or sets the width, in points, of each column in the slicer. |
 | [row_height_pixel](/cells/python-net/aspose.cells.slicers/slicer/row_height_pixel) | Returns or sets the height, in pixels, of each row in the specified slicer. |
 | [row_height](/cells/python-net/aspose.cells.slicers/slicer/row_height) | Returns or sets the height, in points, of each row in the specified slicer. |

@@ -3,7 +3,7 @@ title: embed_standard_windows_fonts property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /aspose.cells/pdfsaveoptions/embed_standard_windows_fonts/
 is_root: false
 ---

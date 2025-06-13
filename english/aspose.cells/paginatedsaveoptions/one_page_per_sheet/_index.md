@@ -3,7 +3,7 @@ title: one_page_per_sheet property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells/paginatedsaveoptions/one_page_per_sheet/
 is_root: false
 ---

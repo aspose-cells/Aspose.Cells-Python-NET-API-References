@@ -3,7 +3,7 @@ title: WebExtensionShape class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 740
+weight: 760
 url: /aspose.cells.drawing/webextensionshape/
 is_root: false
 ---

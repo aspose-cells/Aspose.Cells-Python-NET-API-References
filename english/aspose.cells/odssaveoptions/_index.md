@@ -33,7 +33,7 @@ The OdsSaveOptions type exposes the following members:
 | :- | :- |
 | [save_format](/cells/python-net/aspose.cells/odssaveoptions/save_format) | Gets the save file format. |
 | [clear_data](/cells/python-net/aspose.cells/odssaveoptions/clear_data) | Make the workbook empty after saving the file. |
-| [cached_file_folder](/cells/python-net/aspose.cells/odssaveoptions/cached_file_folder) | The cached file folder is used to store some large data. |
+| [cached_file_folder](/cells/python-net/aspose.cells/odssaveoptions/cached_file_folder) | The folder for temporary files that may be used as data cache. |
 | [validate_merged_areas](/cells/python-net/aspose.cells/odssaveoptions/validate_merged_areas) | Indicates whether validate merged cells before saving the file. |
 | [merge_areas](/cells/python-net/aspose.cells/odssaveoptions/merge_areas) | Indicates whether merge the areas of conditional formatting and validation before saving the file. |
 | [create_directory](/cells/python-net/aspose.cells/odssaveoptions/create_directory) | If true and the directory does not exist, the directory will be automatically created before saving the file. |

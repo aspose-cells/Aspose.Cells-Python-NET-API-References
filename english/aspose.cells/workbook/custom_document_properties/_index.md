@@ -3,7 +3,7 @@ title: custom_document_properties property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 520
 url: /aspose.cells/workbook/custom_document_properties/
 is_root: false
 ---

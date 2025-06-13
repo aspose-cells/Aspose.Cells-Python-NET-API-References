@@ -3,7 +3,7 @@ title: SvgImageOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells.rendering/svgimageoptions/
 is_root: false
 ---
@@ -69,6 +69,7 @@ The SvgImageOptions type exposes the following members:
 | [default_edit_language](/cells/python-net/aspose.cells.rendering/svgimageoptions/default_edit_language) | Gets or sets default edit language. |
 | [sheet_set](/cells/python-net/aspose.cells.rendering/svgimageoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [emf_render_setting](/cells/python-net/aspose.cells.rendering/svgimageoptions/emf_render_setting) | Setting for rendering Emf metafiles in source file. |
+| [custom_render_settings](/cells/python-net/aspose.cells.rendering/svgimageoptions/custom_render_settings) | Gets or sets custom settings during rendering. |
 | [fit_to_view_port](/cells/python-net/aspose.cells.rendering/svgimageoptions/fit_to_view_port) | if this property is true, the generated svg will fit to view port. |
 | [css_prefix](/cells/python-net/aspose.cells.rendering/svgimageoptions/css_prefix) | Gets and sets the prefix of the css name in svg,the default value is empty string. |
 | [embedded_font_type](/cells/python-net/aspose.cells.rendering/svgimageoptions/embedded_font_type) | Gets or sets the type of font that embedded in Svg. |

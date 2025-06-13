@@ -265,7 +265,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`LoadFormat`](/cells/python-net/aspose.cells/loadformat) | Represents the load file format. |
 | [`LookAtType`](/cells/python-net/aspose.cells/lookattype) | Represents look at type. |
 | [`LookInType`](/cells/python-net/aspose.cells/lookintype) | Represents look in type. |
-| [`MemorySetting`](/cells/python-net/aspose.cells/memorysetting) | Memory usage options. |
+| [`MemorySetting`](/cells/python-net/aspose.cells/memorysetting) | Memory usage modes for cells data model. |
 | [`MergeEmptyTdType`](/cells/python-net/aspose.cells/mergeemptytdtype) | Represents the merge type for empty TD element when exporting file to html. |
 | [`MergedCellsShrinkType`](/cells/python-net/aspose.cells/mergedcellsshrinktype) | Represents the strategy to shrink merged cells for operations such as deleting blank rows/column. |
 | [`NameScopeType`](/cells/python-net/aspose.cells/namescopetype) | Represents the scope type of defined names. |

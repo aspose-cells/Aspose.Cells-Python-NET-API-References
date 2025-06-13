@@ -11,7 +11,14 @@ is_root: false
 ## cached_file_folder property
 
 
-The cached file folder is used to store some large data.
+The folder for temporary files that may be used as data cache.
+
+### Remarks 
+
+
+If the folder has not been specified,
+the default value for it is CellsHelper.GetCacheFolder.
+If it is empty, then no cache file will be used when saving the workbook.
 ### Definition:
 ```python
 @property

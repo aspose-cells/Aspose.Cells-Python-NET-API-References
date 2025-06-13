@@ -33,7 +33,7 @@ The PdfSaveOptions type exposes the following members:
 | :- | :- |
 | [save_format](/cells/python-net/aspose.cells/pdfsaveoptions/save_format) | Gets the save file format. |
 | [clear_data](/cells/python-net/aspose.cells/pdfsaveoptions/clear_data) | Make the workbook empty after saving the file. |
-| [cached_file_folder](/cells/python-net/aspose.cells/pdfsaveoptions/cached_file_folder) | The cached file folder is used to store some large data. |
+| [cached_file_folder](/cells/python-net/aspose.cells/pdfsaveoptions/cached_file_folder) | The folder for temporary files that may be used as data cache. |
 | [validate_merged_areas](/cells/python-net/aspose.cells/pdfsaveoptions/validate_merged_areas) | Indicates whether validate merged cells before saving the file. |
 | [merge_areas](/cells/python-net/aspose.cells/pdfsaveoptions/merge_areas) | Indicates whether merge the areas of conditional formatting and validation before saving the file. |
 | [create_directory](/cells/python-net/aspose.cells/pdfsaveoptions/create_directory) | If true and the directory does not exist, the directory will be automatically created before saving the file. |
@@ -56,13 +56,14 @@ The PdfSaveOptions type exposes the following members:
 | [page_count](/cells/python-net/aspose.cells/pdfsaveoptions/page_count) | Gets or sets the number of pages to save. |
 | [printing_page_type](/cells/python-net/aspose.cells/pdfsaveoptions/printing_page_type) | Indicates which pages will not be printed. |
 | [gridline_type](/cells/python-net/aspose.cells/pdfsaveoptions/gridline_type) | Gets or sets gridline type. |
-| [gridline_color](/cells/python-net/aspose.cells/pdfsaveoptions/gridline_color) | Gets or sets gridline colr. |
+| [gridline_color](/cells/python-net/aspose.cells/pdfsaveoptions/gridline_color) | Gets or sets gridline color. |
 | [text_cross_type](/cells/python-net/aspose.cells/pdfsaveoptions/text_cross_type) | Gets or sets displaying text type when the text width is larger than cell width. |
 | [default_edit_language](/cells/python-net/aspose.cells/pdfsaveoptions/default_edit_language) | Gets or sets default edit language. |
 | [sheet_set](/cells/python-net/aspose.cells/pdfsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [draw_object_event_handler](/cells/python-net/aspose.cells/pdfsaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/pdfsaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
 | [emf_render_setting](/cells/python-net/aspose.cells/pdfsaveoptions/emf_render_setting) | Setting for rendering Emf metafile. |
+| [custom_render_settings](/cells/python-net/aspose.cells/pdfsaveoptions/custom_render_settings) | Gets or sets custom settings during rendering. |
 | [embed_standard_windows_fonts](/cells/python-net/aspose.cells/pdfsaveoptions/embed_standard_windows_fonts) | True to embed true type fonts. <br/>Affects only ASCII characters 32-127.<br/>Fonts for character codes greater than 127 are always embedded.<br/>Fonts are always embedded for PDF/A-1a, PDF/A-1b standard.<br/>Default is true. |
 | [bookmark](/cells/python-net/aspose.cells/pdfsaveoptions/bookmark) | Gets and sets the [`PdfBookmarkEntry`](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry) object. |
 | [compliance](/cells/python-net/aspose.cells/pdfsaveoptions/compliance) | Gets or sets the PDF standards compliance level for output documents. |

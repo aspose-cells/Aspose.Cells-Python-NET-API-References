@@ -34,7 +34,7 @@ The DocxSaveOptions type exposes the following members:
 | :- | :- |
 | [save_format](/cells/python-net/aspose.cells/docxsaveoptions/save_format) | Gets the save file format. |
 | [clear_data](/cells/python-net/aspose.cells/docxsaveoptions/clear_data) | Make the workbook empty after saving the file. |
-| [cached_file_folder](/cells/python-net/aspose.cells/docxsaveoptions/cached_file_folder) | The cached file folder is used to store some large data. |
+| [cached_file_folder](/cells/python-net/aspose.cells/docxsaveoptions/cached_file_folder) | The folder for temporary files that may be used as data cache. |
 | [validate_merged_areas](/cells/python-net/aspose.cells/docxsaveoptions/validate_merged_areas) | Indicates whether validate merged cells before saving the file. |
 | [merge_areas](/cells/python-net/aspose.cells/docxsaveoptions/merge_areas) | Indicates whether merge the areas of conditional formatting and validation before saving the file. |
 | [create_directory](/cells/python-net/aspose.cells/docxsaveoptions/create_directory) | If true and the directory does not exist, the directory will be automatically created before saving the file. |
@@ -57,14 +57,16 @@ The DocxSaveOptions type exposes the following members:
 | [page_count](/cells/python-net/aspose.cells/docxsaveoptions/page_count) | Gets or sets the number of pages to save. |
 | [printing_page_type](/cells/python-net/aspose.cells/docxsaveoptions/printing_page_type) | Indicates which pages will not be printed. |
 | [gridline_type](/cells/python-net/aspose.cells/docxsaveoptions/gridline_type) | Gets or sets gridline type. |
-| [gridline_color](/cells/python-net/aspose.cells/docxsaveoptions/gridline_color) | Gets or sets gridline colr. |
+| [gridline_color](/cells/python-net/aspose.cells/docxsaveoptions/gridline_color) | Gets or sets gridline color. |
 | [text_cross_type](/cells/python-net/aspose.cells/docxsaveoptions/text_cross_type) | Gets or sets displaying text type when the text width is larger than cell width. |
 | [default_edit_language](/cells/python-net/aspose.cells/docxsaveoptions/default_edit_language) | Gets or sets default edit language. |
 | [sheet_set](/cells/python-net/aspose.cells/docxsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [draw_object_event_handler](/cells/python-net/aspose.cells/docxsaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/docxsaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
 | [emf_render_setting](/cells/python-net/aspose.cells/docxsaveoptions/emf_render_setting) | Setting for rendering Emf metafile. |
+| [custom_render_settings](/cells/python-net/aspose.cells/docxsaveoptions/custom_render_settings) | Gets or sets custom settings during rendering. |
 | [save_as_editable_shaps](/cells/python-net/aspose.cells/docxsaveoptions/save_as_editable_shaps) | Save all drawing objecgts as editable shapes in word file.So you can edit them in Word. |
+| [save_as_editable_shapes](/cells/python-net/aspose.cells/docxsaveoptions/save_as_editable_shapes) | Save all drawing objects as editable shapes in the word file, so you can edit them in Word. |
 
 
 

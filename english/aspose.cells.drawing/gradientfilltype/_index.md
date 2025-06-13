@@ -3,7 +3,7 @@ title: GradientFillType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 880
 url: /aspose.cells.drawing/gradientfilltype/
 is_root: false
 ---

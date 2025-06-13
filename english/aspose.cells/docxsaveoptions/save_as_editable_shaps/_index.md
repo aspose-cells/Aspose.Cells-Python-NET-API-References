@@ -3,7 +3,7 @@ title: save_as_editable_shaps property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 290
 url: /aspose.cells/docxsaveoptions/save_as_editable_shaps/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Save all drawing objecgts as editable shapes in word file.So you can edit them in Word.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead, 
+please use [`DocxSaveOptions.save_as_editable_shapes`](/cells/python-net/aspose.cells/docxsaveoptions#save_as_editable_shapes) property.
+This property will be removed 6 months later since May 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: refresh_dynamic_array_formulas method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells/workbook/refresh_dynamic_array_formulas/
 is_root: false
 ---

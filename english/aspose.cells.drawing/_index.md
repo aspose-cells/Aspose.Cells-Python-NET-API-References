@@ -76,6 +76,7 @@ The **Aspose.Cells.Drawing**  namespace provides classes that allow to create an
 | [`ShapeSegmentPath`](/cells/python-net/aspose.cells.drawing/shapesegmentpath) | Represents a segment path in a path of the freeform. |
 | [`ShapeSegmentPathCollection`](/cells/python-net/aspose.cells.drawing/shapesegmentpathcollection) | Represents a creation path consisting of a series of moves, lines and curves that when combined will form a geometric shape. |
 | [`SignatureLine`](/cells/python-net/aspose.cells.drawing/signatureline) | Represent the signature line. |
+| [`SlicerShape`](/cells/python-net/aspose.cells.drawing/slicershape) | Represents the slicer shape. |
 | [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape) | Represents the smart art. |
 | [`SolidFill`](/cells/python-net/aspose.cells.drawing/solidfill) | Encapsulates the object that represents solid fill format |
 | [`Spinner`](/cells/python-net/aspose.cells.drawing/spinner) | Represents the Forms control: Spinner. |
@@ -85,6 +86,7 @@ The **Aspose.Cells.Drawing**  namespace provides classes that allow to create an
 | [`TextureFill`](/cells/python-net/aspose.cells.drawing/texturefill) | Encapsulates the object that represents texture fill format |
 | [`ThreeDFormat`](/cells/python-net/aspose.cells.drawing/threedformat) | Represents a shape's three-dimensional formatting. |
 | [`TilePicOption`](/cells/python-net/aspose.cells.drawing/tilepicoption) | Represents tile picture as texture. |
+| [`TimelineShape`](/cells/python-net/aspose.cells.drawing/timelineshape) | Represents the Timeline msodrawing object. |
 | [`VmlShapeGuide`](/cells/python-net/aspose.cells.drawing/vmlshapeguide) | just for vml<br/>Encapsulates a shape guide specifies the presence of a shape <br/>guide that will be used to govern the geometry of the specified shape |
 | [`WebExtensionShape`](/cells/python-net/aspose.cells.drawing/webextensionshape) | Represents the shape of web extension. |
 

@@ -3,7 +3,7 @@ title: remove_macro method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 320
 url: /aspose.cells/workbook/remove_macro/
 is_root: false
 ---

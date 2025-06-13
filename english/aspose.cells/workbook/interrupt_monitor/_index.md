@@ -3,7 +3,7 @@ title: interrupt_monitor property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 640
 url: /aspose.cells/workbook/interrupt_monitor/
 is_root: false
 ---

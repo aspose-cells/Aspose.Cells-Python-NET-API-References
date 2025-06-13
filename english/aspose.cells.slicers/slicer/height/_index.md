@@ -13,6 +13,14 @@ is_root: false
 
 Returns or sets the height of the specified slicer, in points.
 
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead, 
+please use Shape.HeightPt property. 
+This property will be removed 12 months later since May 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
+
 ### Example 
 
 
