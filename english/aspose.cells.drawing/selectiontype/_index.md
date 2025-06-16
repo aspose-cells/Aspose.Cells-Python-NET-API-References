@@ -3,7 +3,7 @@ title: SelectionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1120
+weight: 1140
 url: /aspose.cells.drawing/selectiontype/
 is_root: false
 ---

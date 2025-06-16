@@ -3,7 +3,7 @@ title: default_font property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /aspose.cells/paginatedsaveoptions/default_font/
 is_root: false
 ---

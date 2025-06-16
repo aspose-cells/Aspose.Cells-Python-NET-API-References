@@ -3,7 +3,7 @@ title: ImageOrPrintOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells.rendering/imageorprintoptions/
 is_root: false
 ---
@@ -64,6 +64,7 @@ The ImageOrPrintOptions type exposes the following members:
 | [default_edit_language](/cells/python-net/aspose.cells.rendering/imageorprintoptions/default_edit_language) | Gets or sets default edit language. |
 | [sheet_set](/cells/python-net/aspose.cells.rendering/imageorprintoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [emf_render_setting](/cells/python-net/aspose.cells.rendering/imageorprintoptions/emf_render_setting) | Setting for rendering Emf metafiles in source file. |
+| [custom_render_settings](/cells/python-net/aspose.cells.rendering/imageorprintoptions/custom_render_settings) | Gets or sets custom settings during rendering. |
 
 
 ### Methods

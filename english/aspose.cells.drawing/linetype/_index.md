@@ -3,7 +3,7 @@ title: LineType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 960
 url: /aspose.cells.drawing/linetype/
 is_root: false
 ---

@@ -99,6 +99,7 @@ The Workbook type exposes the following members:
 | [`get_style_in_pool(self, index)`](/cells/python-net/aspose.cells/workbook/get_style_in_pool/#int) | Gets the style in the style pool.<br/>All styles in the workbook will be gathered into a pool.<br/>There is only a simple reference index in the cells. |
 | [`get_fonts(self)`](/cells/python-net/aspose.cells/workbook/get_fonts/#) | Gets all fonts in the style pool. |
 | [`get_named_style(self, name)`](/cells/python-net/aspose.cells/workbook/get_named_style/#str) | Gets the named style in the style pool. |
+| [`merge_named_styles(self, source)`](/cells/python-net/aspose.cells/workbook/merge_named_styles/#aspose.cells.workbook) | Merges named styles from the other Excel file. |
 | [`change_palette(self, color, index)`](/cells/python-net/aspose.cells/workbook/change_palette/#aspose.pydrawing.color-int) | Changes the palette for the spreadsheet in the specified index. |
 | [`is_color_in_palette(self, color)`](/cells/python-net/aspose.cells/workbook/is_color_in_palette/#aspose.pydrawing.color) | Checks if a color is in the palette for the spreadsheet. |
 | [`get_matching_color(self, raw_color)`](/cells/python-net/aspose.cells/workbook/get_matching_color/#aspose.pydrawing.color) | Find best matching Color in current palette. |

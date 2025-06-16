@@ -3,7 +3,7 @@ title: FormatSetType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 850
 url: /aspose.cells.drawing/formatsettype/
 is_root: false
 ---

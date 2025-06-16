@@ -3,7 +3,7 @@ title: encrypt_document_properties property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells/pptxsaveoptions/encrypt_document_properties/
 is_root: false
 ---

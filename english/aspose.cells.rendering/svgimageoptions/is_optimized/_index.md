@@ -3,7 +3,7 @@ title: is_optimized property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells.rendering/svgimageoptions/is_optimized/
 is_root: false
 ---

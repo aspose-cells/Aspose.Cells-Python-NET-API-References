@@ -32,7 +32,7 @@ The JsonSaveOptions type exposes the following members:
 | :- | :- |
 | [save_format](/cells/python-net/aspose.cells/jsonsaveoptions/save_format) | Gets the save file format. |
 | [clear_data](/cells/python-net/aspose.cells/jsonsaveoptions/clear_data) | Make the workbook empty after saving the file. |
-| [cached_file_folder](/cells/python-net/aspose.cells/jsonsaveoptions/cached_file_folder) | The cached file folder is used to store some large data. |
+| [cached_file_folder](/cells/python-net/aspose.cells/jsonsaveoptions/cached_file_folder) | The folder for temporary files that may be used as data cache. |
 | [validate_merged_areas](/cells/python-net/aspose.cells/jsonsaveoptions/validate_merged_areas) | Indicates whether validate merged cells before saving the file. |
 | [merge_areas](/cells/python-net/aspose.cells/jsonsaveoptions/merge_areas) | Indicates whether merge the areas of conditional formatting and validation before saving the file. |
 | [create_directory](/cells/python-net/aspose.cells/jsonsaveoptions/create_directory) | If true and the directory does not exist, the directory will be automatically created before saving the file. |
@@ -43,6 +43,7 @@ The JsonSaveOptions type exposes the following members:
 | [check_excel_restriction](/cells/python-net/aspose.cells/jsonsaveoptions/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K, it will be truncated. |
 | [update_smart_art](/cells/python-net/aspose.cells/jsonsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
 | [encrypt_document_properties](/cells/python-net/aspose.cells/jsonsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
+| [export_style_pool](/cells/python-net/aspose.cells/jsonsaveoptions/export_style_pool) | Exporting style pool when converting to json struct. |
 | [export_hyperlink_type](/cells/python-net/aspose.cells/jsonsaveoptions/export_hyperlink_type) | Represents the type of exporting hyperlink to json. |
 | [skip_empty_rows](/cells/python-net/aspose.cells/jsonsaveoptions/skip_empty_rows) | Indicates whether skipping emtpy rows. |
 | [sheet_indexes](/cells/python-net/aspose.cells/jsonsaveoptions/sheet_indexes) | Represents the indexes of exported sheets. |

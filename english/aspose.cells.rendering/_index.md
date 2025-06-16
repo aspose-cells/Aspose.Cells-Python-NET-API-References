@@ -13,6 +13,7 @@ The **Aspose.Cells.Rendering**  namespace provides classes for rendering image a
 ### Classes
 | Class | Description |
 | :- | :- |
+| [`CustomRenderSettings`](/cells/python-net/aspose.cells.rendering/customrendersettings) | Represents custom settings during rendering. |
 | [`DrawObject`](/cells/python-net/aspose.cells.rendering/drawobject) | DrawObject will be initialized and returned when rendering. |
 | [`DrawObjectEventHandler`](/cells/python-net/aspose.cells.rendering/drawobjecteventhandler) | Interface to get DrawObject and Bound when rendering. |
 | [`IPageSavingCallback`](/cells/python-net/aspose.cells.rendering/ipagesavingcallback) | Control/Indicate progress of page saving process. |

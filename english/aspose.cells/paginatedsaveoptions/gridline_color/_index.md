@@ -3,7 +3,7 @@ title: gridline_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells/paginatedsaveoptions/gridline_color/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## gridline_color property
 
 
-Gets or sets gridline colr.
+Gets or sets gridline color.
 
 ### Remarks 
 

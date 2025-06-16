@@ -37,7 +37,7 @@ The TxtLoadOptions type exposes the following members:
 | [parsing_formula_on_open](/cells/python-net/aspose.cells/txtloadoptions/parsing_formula_on_open) | Indicates whether parsing the formula when reading the file. |
 | [parsing_pivot_cached_records](/cells/python-net/aspose.cells/txtloadoptions/parsing_pivot_cached_records) | Indicates whether parsing pivot cached records when loading the file.<br/>The default value is false. |
 | [language_code](/cells/python-net/aspose.cells/txtloadoptions/language_code) | Gets or sets the user interface language of the Workbook version based on CountryCode that has saved the file. |
-| [region](/cells/python-net/aspose.cells/txtloadoptions/region) | Gets or sets the system regional settings based on CountryCode at the time the file was loaded. |
+| [region](/cells/python-net/aspose.cells/txtloadoptions/region) | Gets or sets the regional settings used for the Workbook that will be loaded. |
 | [default_style_settings](/cells/python-net/aspose.cells/txtloadoptions/default_style_settings) | Gets the default style settings for initializing styles of the workbook |
 | [standard_font](/cells/python-net/aspose.cells/txtloadoptions/standard_font) | Sets the default standard font name |
 | [standard_font_size](/cells/python-net/aspose.cells/txtloadoptions/standard_font_size) | Sets the default standard font size. |

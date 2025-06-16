@@ -11,7 +11,7 @@ is_root: false
 ## column_width_pixel property
 
 
-Gets or sets the width in unit of pixels for each column of the slicer.
+Gets or sets the width of each column in the slicer, in unit of pixels.
 
 ### Example 
 

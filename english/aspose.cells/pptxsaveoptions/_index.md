@@ -34,7 +34,7 @@ The PptxSaveOptions type exposes the following members:
 | :- | :- |
 | [save_format](/cells/python-net/aspose.cells/pptxsaveoptions/save_format) | Gets the save file format. |
 | [clear_data](/cells/python-net/aspose.cells/pptxsaveoptions/clear_data) | Make the workbook empty after saving the file. |
-| [cached_file_folder](/cells/python-net/aspose.cells/pptxsaveoptions/cached_file_folder) | The cached file folder is used to store some large data. |
+| [cached_file_folder](/cells/python-net/aspose.cells/pptxsaveoptions/cached_file_folder) | The folder for temporary files that may be used as data cache. |
 | [validate_merged_areas](/cells/python-net/aspose.cells/pptxsaveoptions/validate_merged_areas) | Indicates whether validate merged cells before saving the file. |
 | [merge_areas](/cells/python-net/aspose.cells/pptxsaveoptions/merge_areas) | Indicates whether merge the areas of conditional formatting and validation before saving the file. |
 | [create_directory](/cells/python-net/aspose.cells/pptxsaveoptions/create_directory) | If true and the directory does not exist, the directory will be automatically created before saving the file. |
@@ -57,13 +57,14 @@ The PptxSaveOptions type exposes the following members:
 | [page_count](/cells/python-net/aspose.cells/pptxsaveoptions/page_count) | Gets or sets the number of pages to save. |
 | [printing_page_type](/cells/python-net/aspose.cells/pptxsaveoptions/printing_page_type) | Indicates which pages will not be printed. |
 | [gridline_type](/cells/python-net/aspose.cells/pptxsaveoptions/gridline_type) | Gets or sets gridline type. |
-| [gridline_color](/cells/python-net/aspose.cells/pptxsaveoptions/gridline_color) | Gets or sets gridline colr. |
+| [gridline_color](/cells/python-net/aspose.cells/pptxsaveoptions/gridline_color) | Gets or sets gridline color. |
 | [text_cross_type](/cells/python-net/aspose.cells/pptxsaveoptions/text_cross_type) | Gets or sets displaying text type when the text width is larger than cell width. |
 | [default_edit_language](/cells/python-net/aspose.cells/pptxsaveoptions/default_edit_language) | Gets or sets default edit language. |
 | [sheet_set](/cells/python-net/aspose.cells/pptxsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [draw_object_event_handler](/cells/python-net/aspose.cells/pptxsaveoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [page_saving_callback](/cells/python-net/aspose.cells/pptxsaveoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
 | [emf_render_setting](/cells/python-net/aspose.cells/pptxsaveoptions/emf_render_setting) | Setting for rendering Emf metafile. |
+| [custom_render_settings](/cells/python-net/aspose.cells/pptxsaveoptions/custom_render_settings) | Gets or sets custom settings during rendering. |
 | [ignore_hidden_rows](/cells/python-net/aspose.cells/pptxsaveoptions/ignore_hidden_rows) | Inidicates whether ignoring hidden rows when converting Excel to PowerPoint. |
 | [adjust_font_size_for_row_type](/cells/python-net/aspose.cells/pptxsaveoptions/adjust_font_size_for_row_type) | Represents what type of line needs to be adjusted size of font if height of row is small. |
 | [export_view_type](/cells/python-net/aspose.cells/pptxsaveoptions/export_view_type) | Gets and sets the display type when exporting to PowerPoint.<br/>The default exporting type is working as printing. |

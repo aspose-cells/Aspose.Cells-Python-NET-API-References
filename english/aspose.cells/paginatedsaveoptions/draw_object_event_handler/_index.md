@@ -3,7 +3,7 @@ title: draw_object_event_handler property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells/paginatedsaveoptions/draw_object_event_handler/
 is_root: false
 ---

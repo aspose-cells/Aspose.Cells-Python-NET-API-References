@@ -3,7 +3,7 @@ title: parse_formulas method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /aspose.cells/workbook/parse_formulas/
 is_root: false
 ---

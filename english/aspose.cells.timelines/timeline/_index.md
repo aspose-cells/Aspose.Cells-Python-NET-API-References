@@ -21,6 +21,7 @@ The Timeline type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [caption](/cells/python-net/aspose.cells.timelines/timeline/caption) | Returns or sets the caption of the specified Timeline. |
+| [shape](/cells/python-net/aspose.cells.timelines/timeline/shape) | Returns the [`TimelineShape`](/cells/python-net/aspose.cells.drawing/timelineshape) object associated with this Timeline. Read-only. |
 | [name](/cells/python-net/aspose.cells.timelines/timeline/name) | Returns or sets the name of the specified Timeline |
 | [left_pixel](/cells/python-net/aspose.cells.timelines/timeline/left_pixel) | Returns or sets the horizontal offset of timeline shape from its left column, in pixels. |
 | [top_pixel](/cells/python-net/aspose.cells.timelines/timeline/top_pixel) | Returns or sets the vertical offset of timeline shape from its top row, in pixels. |
@@ -85,3 +86,4 @@ book.save("out.xlsx")
 
 ### See Also
 * module [`aspose.cells.timelines`](..)
+* class [`TimelineShape`](/cells/python-net/aspose.cells.drawing/timelineshape)

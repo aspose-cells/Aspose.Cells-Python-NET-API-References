@@ -24,10 +24,11 @@ def set_column_width(self, column, width):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | column | int | Column index. |
-| width | float | Width of column.Column width must be between 0 and 255. |
+| width | float | Width of column in unit of characters.Column width must be between 0 and 255. |
 ### Remarks
 
-To hide a column, sets column width to zero.
+For spreadsheet, column width is measured as the number of characters
+of the maximum digit width of the numbers 0~9 as rendered in the normal style's font.
 
 
 ### See Also

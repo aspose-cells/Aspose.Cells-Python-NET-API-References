@@ -3,7 +3,7 @@ title: GradientColorType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 840
+weight: 860
 url: /aspose.cells.drawing/gradientcolortype/
 is_root: false
 ---
