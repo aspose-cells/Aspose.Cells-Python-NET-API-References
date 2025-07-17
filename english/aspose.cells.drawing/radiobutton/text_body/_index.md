@@ -3,7 +3,7 @@ title: text_body property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 990
+weight: 980
 url: /aspose.cells.drawing/radiobutton/text_body/
 is_root: false
 ---

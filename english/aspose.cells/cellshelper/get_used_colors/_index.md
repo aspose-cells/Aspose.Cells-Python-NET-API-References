@@ -3,7 +3,7 @@ title: get_used_colors method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells/cellshelper/get_used_colors/
 is_root: false
 ---

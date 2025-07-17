@@ -3,7 +3,7 @@ title: AutoShapeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 770
+weight: 750
 url: /aspose.cells.drawing/autoshapetype/
 is_root: false
 ---

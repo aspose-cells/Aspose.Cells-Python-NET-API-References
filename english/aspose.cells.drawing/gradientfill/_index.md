@@ -3,7 +3,7 @@ title: GradientFill class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 200
 url: /aspose.cells.drawing/gradientfill/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents the gradient fill.
 
 
 
-**Inheritance:** [`GradientFill`](/cells/python-net/aspose.cells.drawing/gradientfill) → 
-[`Fill`](/cells/python-net/aspose.cells.drawing/fill)
+**Inheritance:** [`GradientFill`](/cells/python-net/aspose.cells.drawing/gradientfill)
 
 
 
@@ -43,5 +42,4 @@ The GradientFill type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.drawing`](..)
-* class [`Fill`](/cells/python-net/aspose.cells.drawing/fill)
 * class [`GradientFill`](/cells/python-net/aspose.cells.drawing/gradientfill)

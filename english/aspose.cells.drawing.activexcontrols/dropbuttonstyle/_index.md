@@ -3,7 +3,7 @@ title: DropButtonStyle enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 260
 url: /aspose.cells.drawing.activexcontrols/dropbuttonstyle/
 is_root: false
 ---

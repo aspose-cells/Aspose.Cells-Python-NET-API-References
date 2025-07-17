@@ -3,7 +3,7 @@ title: SolidFill class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 640
 url: /aspose.cells.drawing/solidfill/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Encapsulates the object that represents solid fill format
 
 
 
-**Inheritance:** [`SolidFill`](/cells/python-net/aspose.cells.drawing/solidfill) → 
-[`Fill`](/cells/python-net/aspose.cells.drawing/fill)
+**Inheritance:** [`SolidFill`](/cells/python-net/aspose.cells.drawing/solidfill)
 
 
 
@@ -32,5 +31,4 @@ The SolidFill type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.drawing`](..)
-* class [`Fill`](/cells/python-net/aspose.cells.drawing/fill)
 * class [`SolidFill`](/cells/python-net/aspose.cells.drawing/solidfill)

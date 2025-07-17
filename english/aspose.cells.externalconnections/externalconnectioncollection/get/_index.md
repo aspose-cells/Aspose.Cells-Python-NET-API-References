@@ -10,7 +10,7 @@ is_root: false
 
 ## get(self, connection_name) {#str}
 
-Gets the [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection) element with the specified name.
+Gets the ExternalConnection element with the specified name.
 
 
 ### Returns 
@@ -34,5 +34,4 @@ def get(self, connection_name):
 
 ### See Also
 * module [`aspose.cells.externalconnections`](../../)
-* class [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)
 * class [`ExternalConnectionCollection`](/cells/python-net/aspose.cells.externalconnections/externalconnectioncollection)

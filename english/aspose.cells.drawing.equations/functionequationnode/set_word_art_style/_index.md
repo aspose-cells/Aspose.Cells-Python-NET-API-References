@@ -10,7 +10,7 @@ is_root: false
 
 ## set_word_art_style(self, style) {#aspose.cells.drawing.PresetWordArtStyle}
 
-Sets the preset WordArt style.
+
 
 
 
@@ -23,10 +23,8 @@ def set_word_art_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`PresetWordArtStyle`](/cells/python-net/aspose.cells.drawing/presetwordartstyle) | The preset WordArt style. |
-### Remarks
+| style | [`PresetWordArtStyle`](/cells/python-net/aspose.cells.drawing/presetwordartstyle) |  |
 
-Only for the text of shape/chart.
 
 
 ### See Also

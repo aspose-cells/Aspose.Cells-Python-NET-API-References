@@ -10,9 +10,6 @@ is_root: false
 
 ## save_data property
 
-
-True if the external data fetched over the connection to populate a table is to be saved
-with the workbook; otherwise, false.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: gridline_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /aspose.cells.rendering/imageorprintoptions/gridline_color/
 is_root: false
 ---

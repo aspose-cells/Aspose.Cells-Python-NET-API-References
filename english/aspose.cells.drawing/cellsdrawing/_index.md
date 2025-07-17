@@ -122,7 +122,6 @@ The CellsDrawing type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/cellsdrawing/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/cellsdrawing/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/cellsdrawing/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/cellsdrawing/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/cellsdrawing/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/cellsdrawing/is_decorative) | Indicates whether the object is decorative. |
 

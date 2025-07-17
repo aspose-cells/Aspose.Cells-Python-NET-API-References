@@ -3,7 +3,7 @@ title: RevisionInsertDelete class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 110
 url: /aspose.cells.revisions/revisioninsertdelete/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents a revision record of a row/column insert/delete action.
 
 
 
-**Inheritance:** [`RevisionInsertDelete`](/cells/python-net/aspose.cells.revisions/revisioninsertdelete) → 
-[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionInsertDelete`](/cells/python-net/aspose.cells.revisions/revisioninsertdelete)
 
 
 
@@ -25,8 +24,8 @@ The RevisionInsertDelete type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [type](/cells/python-net/aspose.cells.revisions/revisioninsertdelete/type) | Represents the type of revision. |
-| [worksheet](/cells/python-net/aspose.cells.revisions/revisioninsertdelete/worksheet) | Gets the worksheet. |
-| [id](/cells/python-net/aspose.cells.revisions/revisioninsertdelete/id) | Gets the number of this revision. |
+| [worksheet](/cells/python-net/aspose.cells.revisions/revisioninsertdelete/worksheet) |  |
+| [id](/cells/python-net/aspose.cells.revisions/revisioninsertdelete/id) |  |
 | [cell_area](/cells/python-net/aspose.cells.revisions/revisioninsertdelete/cell_area) | Gets the inserting/deleting range. |
 | [action_type](/cells/python-net/aspose.cells.revisions/revisioninsertdelete/action_type) | Gets the action type of this revision. |
 | [revisions](/cells/python-net/aspose.cells.revisions/revisioninsertdelete/revisions) | Gets revision list by this operation. |
@@ -35,5 +34,4 @@ The RevisionInsertDelete type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.revisions`](..)
-* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 * class [`RevisionInsertDelete`](/cells/python-net/aspose.cells.revisions/revisioninsertdelete)

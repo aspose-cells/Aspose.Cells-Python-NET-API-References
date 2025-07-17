@@ -10,8 +10,6 @@ is_root: false
 
 ## data property
 
-
-Gets and sets the binary data of the control.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: ShapeGuideCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 530
 url: /aspose.cells.drawing/shapeguidecollection/
 is_root: false
 ---

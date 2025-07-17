@@ -3,7 +3,7 @@ title: vertical_resolution property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 430
 url: /aspose.cells.rendering/svgimageoptions/vertical_resolution/
 is_root: false
 ---

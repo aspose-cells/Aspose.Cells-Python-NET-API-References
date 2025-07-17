@@ -3,7 +3,7 @@ title: MemoryFontSource class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1130
+weight: 970
 url: /aspose.cells/memoryfontsource/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents the single TrueType font file stored in memory.
 
 
 
-**Inheritance:** [`MemoryFontSource`](/cells/python-net/aspose.cells/memoryfontsource) → 
-[`FontSourceBase`](/cells/python-net/aspose.cells/fontsourcebase)
+**Inheritance:** [`MemoryFontSource`](/cells/python-net/aspose.cells/memoryfontsource)
 
 
 
@@ -37,5 +36,4 @@ The MemoryFontSource type exposes the following members:
 
 ### See Also
 * module [`aspose.cells`](..)
-* class [`FontSourceBase`](/cells/python-net/aspose.cells/fontsourcebase)
 * class [`MemoryFontSource`](/cells/python-net/aspose.cells/memoryfontsource)

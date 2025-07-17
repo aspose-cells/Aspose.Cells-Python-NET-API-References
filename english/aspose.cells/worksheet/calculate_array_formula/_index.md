@@ -85,7 +85,7 @@ def calculate_array_formula(self, formula, p_opts, c_opts, base_cell_row, base_c
 | base_cell_column | int | The column index of the base cell. |
 | max_row_count | int | The maximum row count of resultant data.<br/>If it is non-positive or greater than the actual row count, then actual row count will be used. |
 | max_column_count | int | The maximum column count of resultant data.<br/>If it is non-positive or greater than the actual row count, then actual column count will be used. |
-| calculation_data | [`CalculationData`](/cells/python-net/aspose.cells/calculationdata) | The calculation data. It is used for the situation<br/>that user needs to calculate some static formulas when implementing custom calculation engine.<br/>For such kind of situation, user needs to specify it with the calculation data provided<br/>for [`AbstractCalculationEngine.calculate`](/cells/python-net/aspose.cells/abstractcalculationengine/calculate). |
+| calculation_data | [`CalculationData`](/cells/python-net/aspose.cells/calculationdata) | The calculation data. It is used for the situation<br/>that user needs to calculate some static formulas when implementing custom calculation engine.<br/>For such kind of situation, user needs to specify it with the calculation data provided<br/>for Aspose.Cells.AbstractCalculationEngine.Calculate. |
 ### Remarks
 
 The formula will be taken as dynamic array formula to calculate the dimension and result.

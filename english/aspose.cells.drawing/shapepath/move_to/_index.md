@@ -23,8 +23,8 @@ def move_to(self, x, y):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| x | float | The x-coordinate of the starting point of the figure. |
-| y | float | The y-coordinate of the starting point of the figure. |
+| x | float | The x-coordinate of the starting point of the figure(Unit: Pixel). |
+| y | float | The y-coordinate of the starting point of the figure(Unit: Pixel). |
 
 
 

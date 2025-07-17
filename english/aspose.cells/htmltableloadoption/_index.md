@@ -3,7 +3,7 @@ title: HtmlTableLoadOption class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 870
+weight: 800
 url: /aspose.cells/htmltableloadoption/
 is_root: false
 ---

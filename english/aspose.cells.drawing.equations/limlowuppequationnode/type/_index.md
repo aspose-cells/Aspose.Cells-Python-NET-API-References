@@ -3,15 +3,13 @@ title: type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 200
 url: /aspose.cells.drawing.equations/limlowuppequationnode/type/
 is_root: false
 ---
 
 ## type property
 
-
-Represents the type of the node.
 ### Definition:
 ```python
 @property

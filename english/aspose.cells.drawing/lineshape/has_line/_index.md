@@ -3,7 +3,7 @@ title: has_line property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 470
 url: /aspose.cells.drawing/lineshape/has_line/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: is_aspect_ratio_locked property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 530
+weight: 520
 url: /aspose.cells.drawing/oval/is_aspect_ratio_locked/
 is_root: false
 ---

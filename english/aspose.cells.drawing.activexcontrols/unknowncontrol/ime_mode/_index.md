@@ -10,8 +10,6 @@ is_root: false
 
 ## ime_mode property
 
-
-Gets and sets the default run-time mode of the Input Method Editor for the control as it receives focus.
 ### Definition:
 ```python
 @property

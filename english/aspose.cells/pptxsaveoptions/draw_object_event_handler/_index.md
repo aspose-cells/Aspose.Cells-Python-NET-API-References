@@ -10,8 +10,6 @@ is_root: false
 
 ## draw_object_event_handler property
 
-
-Implements this interface to get DrawObject and Bound when rendering.
 ### Definition:
 ```python
 @property
@@ -24,5 +22,4 @@ def draw_object_event_handler(self, value):
 
 ### See Also
 * module [`aspose.cells`](../../)
-* class [`DrawObjectEventHandler`](/cells/python-net/aspose.cells.rendering/drawobjecteventhandler)
 * class [`PptxSaveOptions`](/cells/python-net/aspose.cells/pptxsaveoptions)

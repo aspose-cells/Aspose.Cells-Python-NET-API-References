@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the memory usage options. The new option will be taken as the default option for newly created worksheets but does not take effect for existing worksheets.
+
+### Remarks 
+
+
+For more details about memory mode, please see [`Cells.memory_setting`](/cells/python-net/aspose.cells/cells#memory_setting).
 ### Definition:
 ```python
 @property

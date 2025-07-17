@@ -3,7 +3,7 @@ title: RevisionHeader class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 100
 url: /aspose.cells.revisions/revisionheader/
 is_root: false
 ---

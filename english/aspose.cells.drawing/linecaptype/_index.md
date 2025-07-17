@@ -3,7 +3,7 @@ title: LineCapType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 920
 url: /aspose.cells.drawing/linecaptype/
 is_root: false
 ---

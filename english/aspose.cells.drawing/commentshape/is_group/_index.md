@@ -3,7 +3,7 @@ title: is_group property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 590
 url: /aspose.cells.drawing/commentshape/is_group/
 is_root: false
 ---

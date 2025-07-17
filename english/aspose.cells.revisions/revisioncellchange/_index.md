@@ -3,7 +3,7 @@ title: RevisionCellChange class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 30
 url: /aspose.cells.revisions/revisioncellchange/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents the revision that changing cells.
 
 
 
-**Inheritance:** [`RevisionCellChange`](/cells/python-net/aspose.cells.revisions/revisioncellchange) → 
-[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionCellChange`](/cells/python-net/aspose.cells.revisions/revisioncellchange)
 
 
 
@@ -25,8 +24,8 @@ The RevisionCellChange type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [type](/cells/python-net/aspose.cells.revisions/revisioncellchange/type) | Represents the type of revision. |
-| [worksheet](/cells/python-net/aspose.cells.revisions/revisioncellchange/worksheet) | Gets the worksheet. |
-| [id](/cells/python-net/aspose.cells.revisions/revisioncellchange/id) | Gets the number of this revision. |
+| [worksheet](/cells/python-net/aspose.cells.revisions/revisioncellchange/worksheet) |  |
+| [id](/cells/python-net/aspose.cells.revisions/revisioncellchange/id) |  |
 | [cell_name](/cells/python-net/aspose.cells.revisions/revisioncellchange/cell_name) | Gets the name of the cell. |
 | [row](/cells/python-net/aspose.cells.revisions/revisioncellchange/row) | Gets the row index of the cell. |
 | [column](/cells/python-net/aspose.cells.revisions/revisioncellchange/column) | Gets the column index of the cell. |
@@ -43,5 +42,4 @@ The RevisionCellChange type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.revisions`](..)
-* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 * class [`RevisionCellChange`](/cells/python-net/aspose.cells.revisions/revisioncellchange)

@@ -3,7 +3,7 @@ title: top property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1140
+weight: 1130
 url: /aspose.cells.drawing/spinner/top/
 is_root: false
 ---

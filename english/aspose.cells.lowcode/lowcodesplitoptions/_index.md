@@ -3,7 +3,7 @@ title: LowCodeSplitOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 130
 url: /aspose.cells.lowcode/lowcodesplitoptions/
 is_root: false
 ---
@@ -27,7 +27,6 @@ The LowCodeSplitOptions type exposes the following members:
 | :- | :- |
 | [load_options](/cells/python-net/aspose.cells.lowcode/lowcodesplitoptions/load_options) | Load options for loading the spreadsheet that will be split. |
 | [save_options](/cells/python-net/aspose.cells.lowcode/lowcodesplitoptions/save_options) | Save options for saving the split parts. |
-| [save_options_provider](/cells/python-net/aspose.cells.lowcode/lowcodesplitoptions/save_options_provider) | Provider of save options for saving the split parts. |
 
 
 

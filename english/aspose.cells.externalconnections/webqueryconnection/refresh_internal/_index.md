@@ -10,8 +10,6 @@ is_root: false
 
 ## refresh_internal property
 
-
-Specifies the number of minutes between automatic refreshes of the connection.
 ### Definition:
 ```python
 @property

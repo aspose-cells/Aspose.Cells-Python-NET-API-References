@@ -3,7 +3,7 @@ title: top_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1110
+weight: 1100
 url: /aspose.cells.drawing/rectangleshape/top_inch/
 is_root: false
 ---

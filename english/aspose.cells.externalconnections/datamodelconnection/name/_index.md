@@ -10,8 +10,6 @@ is_root: false
 
 ## name property
 
-
-Specifies the name of the connection. Each connection must have a unique name.
 ### Definition:
 ```python
 @property

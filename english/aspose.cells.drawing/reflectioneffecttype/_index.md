@@ -3,7 +3,7 @@ title: ReflectionEffectType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1130
+weight: 1110
 url: /aspose.cells.drawing/reflectioneffecttype/
 is_root: false
 ---

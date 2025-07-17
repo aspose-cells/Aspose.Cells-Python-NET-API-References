@@ -28,7 +28,7 @@ def get(self, name):
 
 ## get(self, name) {#str}
 
-Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) object by the name of the property.
+
 
 
 
@@ -41,10 +41,8 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The case-insensitive name of the property to retrieve. |
-### Remarks
+| name | str |  |
 
-Returns null if a property with the specified name is not found.
 
 
 ### See Also

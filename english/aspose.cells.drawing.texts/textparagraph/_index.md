@@ -3,7 +3,7 @@ title: TextParagraph class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 100
 url: /aspose.cells.drawing.texts/textparagraph/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: width_scale property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1270
+weight: 1260
 url: /aspose.cells.drawing/checkbox/width_scale/
 is_root: false
 ---

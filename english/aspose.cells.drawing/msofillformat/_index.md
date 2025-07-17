@@ -3,7 +3,7 @@ title: MsoFillFormat class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 310
 url: /aspose.cells.drawing/msofillformat/
 is_root: false
 ---

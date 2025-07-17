@@ -3,7 +3,7 @@ title: worksheet property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1300
+weight: 1290
 url: /aspose.cells.drawing/lineshape/worksheet/
 is_root: false
 ---

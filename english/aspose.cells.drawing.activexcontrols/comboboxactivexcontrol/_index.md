@@ -3,7 +3,7 @@ title: ComboBoxActiveXControl class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 20
 url: /aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/
 is_root: false
 ---
@@ -14,9 +14,7 @@ Represents a ComboBox ActiveX control.
 
 
 
-**Inheritance:** [`ComboBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol) → 
-[`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[`ActiveXControlBase`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**Inheritance:** [`ComboBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
 
 
 
@@ -25,26 +23,26 @@ The ComboBoxActiveXControl type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/workbook) | Gets the [`ActiveXControlBase.workbook`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object. |
+| [workbook](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/workbook) |  |
 | [type](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/type) | Gets the type of the ActiveX control. |
-| [width](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/width) | Gets and sets the width of the control in unit of points. |
-| [height](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/height) | Gets and sets the height of the control in unit of points. |
-| [mouse_icon](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/mouse_icon) | Gets and sets a custom icon to display as the mouse pointer for the control. |
-| [mouse_pointer](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/mouse_pointer) | Gets and sets the type of icon displayed as the mouse pointer for the control. |
-| [fore_ole_color](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/fore_ole_color) | Gets and sets the ole color of the foreground. |
-| [back_ole_color](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/back_ole_color) | Gets and sets the ole color of the background. |
-| [is_visible](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_visible) | Indicates whether this control is visible. |
-| [shadow](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/shadow) | Indicates whether to show a shadow. |
-| [linked_cell](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/linked_cell) | Gets and sets the linked cell. |
-| [list_fill_range](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/list_fill_range) | Gets and sets the list fill range. |
-| [data](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/data) | Gets and sets the binary data of the control. |
-| [is_enabled](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_enabled) | Indicates whether the control can receive the focus and respond to user-generated events. |
-| [is_locked](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_locked) | Indicates whether data in the control is locked for editing. |
-| [is_transparent](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_transparent) | Indicates whether the control is transparent. |
-| [is_auto_size](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_auto_size) | Indicates whether the control will automatically resize to display its entire contents. |
-| [ime_mode](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/ime_mode) | Gets and sets the default run-time mode of the Input Method Editor for the control as it receives focus. |
-| [font](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/font) | Represents the font of the control. |
-| [text_align](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/text_align) | Represents how to align the text used by the control. |
+| [width](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/width) |  |
+| [height](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/height) |  |
+| [mouse_icon](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/mouse_icon) |  |
+| [mouse_pointer](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/mouse_pointer) |  |
+| [fore_ole_color](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/fore_ole_color) |  |
+| [back_ole_color](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/back_ole_color) |  |
+| [is_visible](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_visible) |  |
+| [shadow](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/shadow) |  |
+| [linked_cell](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/linked_cell) |  |
+| [list_fill_range](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/list_fill_range) |  |
+| [data](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/data) |  |
+| [is_enabled](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_enabled) |  |
+| [is_locked](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_locked) |  |
+| [is_transparent](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_transparent) |  |
+| [is_auto_size](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_auto_size) |  |
+| [ime_mode](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/ime_mode) |  |
+| [font](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/font) |  |
+| [text_align](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/text_align) |  |
 | [max_length](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/max_length) | Gets and sets the maximum number of characters |
 | [list_width](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/list_width) | Gets and set the width in unit of points. |
 | [bound_column](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/bound_column) | Represents how the Value property is determined for a ComboBox or ListBox<br/>when the MultiSelect properties value (fmMultiSelectSingle). |
@@ -72,6 +70,4 @@ The ComboBoxActiveXControl type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.drawing.activexcontrols`](..)
-* class [`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
-* class [`ActiveXControlBase`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase)
 * class [`ComboBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

@@ -3,7 +3,7 @@ title: IndividualFontConfigs class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1020
+weight: 880
 url: /aspose.cells/individualfontconfigs/
 is_root: false
 ---
@@ -29,7 +29,7 @@ The IndividualFontConfigs type exposes the following members:
 | [`get_font_substitutes(self, original_font_name)`](/cells/python-net/aspose.cells/individualfontconfigs/get_font_substitutes/#str) | Returns array containing font substitute names to be used if original font is not presented. |
 | [`set_font_folder(self, font_folder, recursive)`](/cells/python-net/aspose.cells/individualfontconfigs/set_font_folder/#str-bool) | Sets the fonts folder |
 | [`set_font_folders(self, font_folders, recursive)`](/cells/python-net/aspose.cells/individualfontconfigs/set_font_folders/#list-bool) | Sets the fonts folders |
-| [`set_font_sources(self, sources)`](/cells/python-net/aspose.cells/individualfontconfigs/set_font_sources/#list) | Sets the fonts sources. |
+| [`set_font_sources(self, sources)`](/cells/python-net/aspose.cells/individualfontconfigs/set_font_sources/#list) |  |
 | [`get_font_sources(self)`](/cells/python-net/aspose.cells/individualfontconfigs/get_font_sources/#) | Gets a copy of the array that contains the list of sources |
 
 

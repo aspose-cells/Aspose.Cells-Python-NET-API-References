@@ -10,9 +10,6 @@ is_root: false
 
 ## is_deleted property
 
-
-Indicates whether the associated workbook connection has been deleted.  true if the
-connection has been deleted; otherwise, false.
 ### Definition:
 ```python
 @property

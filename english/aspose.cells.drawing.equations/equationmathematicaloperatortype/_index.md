@@ -3,7 +3,7 @@ title: EquationMathematicalOperatorType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 260
 url: /aspose.cells.drawing.equations/equationmathematicaloperatortype/
 is_root: false
 ---

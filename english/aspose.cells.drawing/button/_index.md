@@ -122,7 +122,6 @@ The Button type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/button/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/button/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/button/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/button/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/button/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/button/is_decorative) | Indicates whether the object is decorative. |
 

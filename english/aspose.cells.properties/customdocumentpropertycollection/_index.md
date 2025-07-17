@@ -14,8 +14,7 @@ A collection of custom document properties.
 
 
 
-**Inheritance:** [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection) → 
-[`DocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/documentpropertycollection)
+**Inheritance:** [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
 
 
 
@@ -30,9 +29,9 @@ The CustomDocumentPropertyCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`get(self, name)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/get/#str) | Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) object by the name of the property. |
-| [`get(self, index)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/get/#int) | Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) object by index. |
-| [`index_of(self, name)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/index_of/#str) | Gets the index of a property by name. |
+| [`get(self, name)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/get/#str) |  |
+| [`get(self, index)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/get/#int) |  |
+| [`index_of(self, name)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/index_of/#str) |  |
 | [`index_of(self, item, index)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/index_of/#aspose.cells.properties.documentproperty-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |
 | [`index_of(self, item, index, count)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/index_of/#aspose.cells.properties.documentproperty-int-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements. |
 | [`copy_to(self, array)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
@@ -74,4 +73,3 @@ customProperties = workbook.worksheets.custom_document_properties
 * module [`aspose.cells.properties`](..)
 * class [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
 * class [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty)
-* class [`DocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/documentpropertycollection)

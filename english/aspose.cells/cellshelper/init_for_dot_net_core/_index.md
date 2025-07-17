@@ -3,7 +3,7 @@ title: init_for_dot_net_core method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells/cellshelper/init_for_dot_net_core/
 is_root: false
 ---

@@ -29,5 +29,4 @@ def external_connection_data_source(self):
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)
-* class [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)
 * class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

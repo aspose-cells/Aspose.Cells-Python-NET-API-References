@@ -3,7 +3,7 @@ title: Protection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1320
+weight: 1150
 url: /aspose.cells/protection/
 is_root: false
 ---

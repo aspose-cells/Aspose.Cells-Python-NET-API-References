@@ -14,8 +14,7 @@ Represents automatic numbered bullet.
 
 
 
-**Inheritance:** [`AutoNumberedBulletValue`](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue) → 
-[`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
+**Inheritance:** [`AutoNumberedBulletValue`](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue)
 
 
 
@@ -39,4 +38,3 @@ The AutoNumberedBulletValue type exposes the following members:
 ### See Also
 * module [`aspose.cells.drawing.texts`](..)
 * class [`AutoNumberedBulletValue`](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* class [`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)

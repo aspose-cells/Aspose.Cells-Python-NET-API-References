@@ -3,7 +3,7 @@ title: MsoDrawingType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1010
+weight: 990
 url: /aspose.cells.drawing/msodrawingtype/
 is_root: false
 ---

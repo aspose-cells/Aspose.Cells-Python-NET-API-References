@@ -8,9 +8,9 @@ url: /aspose.cells.drawing.equations/matrixequationnode/remove_child/
 is_root: false
 ---
 
-## remove_child(self, node) {#aspose.cells.drawing.equations.EquationNode}
+## remove_child(self, node) {#EquationNode}
 
-Removes the specified node from the current node's children.
+
 
 
 
@@ -23,12 +23,12 @@ def remove_child(self, node):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [`EquationNode`](/cells/python-net/aspose.cells.drawing.equations/equationnode) | Node to be deleted. |
+| node | EquationNode |  |
 
 
 ## remove_child(self, index) {#int}
 
-Removes the node at the specified index from the current node's children.
+
 
 
 
@@ -41,7 +41,7 @@ def remove_child(self, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| index | int | Index of the node |
+| index | int |  |
 
 
 

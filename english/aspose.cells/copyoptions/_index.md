@@ -3,7 +3,7 @@ title: CopyOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 340
 url: /aspose.cells/copyoptions/
 is_root: false
 ---

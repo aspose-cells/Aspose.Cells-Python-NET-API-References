@@ -3,7 +3,7 @@ title: TextureFill class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 690
 url: /aspose.cells.drawing/texturefill/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Encapsulates the object that represents texture fill format
 
 
 
-**Inheritance:** [`TextureFill`](/cells/python-net/aspose.cells.drawing/texturefill) → 
-[`Fill`](/cells/python-net/aspose.cells.drawing/fill)
+**Inheritance:** [`TextureFill`](/cells/python-net/aspose.cells.drawing/texturefill)
 
 
 
@@ -37,5 +36,4 @@ The TextureFill type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.drawing`](..)
-* class [`Fill`](/cells/python-net/aspose.cells.drawing/fill)
 * class [`TextureFill`](/cells/python-net/aspose.cells.drawing/texturefill)

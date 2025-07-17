@@ -3,7 +3,7 @@ title: width_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1250
+weight: 1240
 url: /aspose.cells.drawing/radiobutton/width_inch/
 is_root: false
 ---

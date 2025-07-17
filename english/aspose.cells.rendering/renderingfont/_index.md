@@ -3,7 +3,7 @@ title: RenderingFont class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 80
 url: /aspose.cells.rendering/renderingfont/
 is_root: false
 ---

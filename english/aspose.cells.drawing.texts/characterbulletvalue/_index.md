@@ -3,7 +3,7 @@ title: CharacterBulletValue class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 30
 url: /aspose.cells.drawing.texts/characterbulletvalue/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents the character bullet.
 
 
 
-**Inheritance:** [`CharacterBulletValue`](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue) → 
-[`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
+**Inheritance:** [`CharacterBulletValue`](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue)
 
 
 
@@ -37,5 +36,4 @@ The CharacterBulletValue type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.drawing.texts`](..)
-* class [`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
 * class [`CharacterBulletValue`](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue)

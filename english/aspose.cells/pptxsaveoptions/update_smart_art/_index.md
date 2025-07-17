@@ -10,14 +10,6 @@ is_root: false
 
 ## update_smart_art property
 
-
-Indicates whether updating smart art setting.
-The default value is false.
-
-### Remarks 
-
-
-Only effects after calling Shape.GetResultOfSmartArt() method and the cached shapes exist in the template file.
 ### Definition:
 ```python
 @property

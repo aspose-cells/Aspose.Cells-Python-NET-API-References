@@ -10,13 +10,6 @@ is_root: false
 
 ## output_blank_page_when_nothing_to_print property
 
-
-Indicates whether to output a blank page when there is nothing to print.
-
-### Remarks 
-
-
-Default is true.
 ### Definition:
 ```python
 @property

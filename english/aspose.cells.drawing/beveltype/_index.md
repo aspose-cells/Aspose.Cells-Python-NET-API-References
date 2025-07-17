@@ -3,7 +3,7 @@ title: BevelType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 770
 url: /aspose.cells.drawing/beveltype/
 is_root: false
 ---

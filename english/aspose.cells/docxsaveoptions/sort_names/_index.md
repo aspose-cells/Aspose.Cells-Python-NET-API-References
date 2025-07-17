@@ -3,15 +3,13 @@ title: sort_names property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells/docxsaveoptions/sort_names/
 is_root: false
 ---
 
 ## sort_names property
 
-
-Indicates whether sorting defined names before saving file.
 ### Definition:
 ```python
 @property

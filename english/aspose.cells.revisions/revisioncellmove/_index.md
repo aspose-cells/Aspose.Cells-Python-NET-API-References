@@ -3,7 +3,7 @@ title: RevisionCellMove class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 50
 url: /aspose.cells.revisions/revisioncellmove/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents a revision record on a cell(s) that moved.
 
 
 
-**Inheritance:** [`RevisionCellMove`](/cells/python-net/aspose.cells.revisions/revisioncellmove) → 
-[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionCellMove`](/cells/python-net/aspose.cells.revisions/revisioncellmove)
 
 
 
@@ -25,8 +24,8 @@ The RevisionCellMove type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [type](/cells/python-net/aspose.cells.revisions/revisioncellmove/type) | Represents the type of revision. |
-| [worksheet](/cells/python-net/aspose.cells.revisions/revisioncellmove/worksheet) | Gets the worksheet. |
-| [id](/cells/python-net/aspose.cells.revisions/revisioncellmove/id) | Gets the number of this revision. |
+| [worksheet](/cells/python-net/aspose.cells.revisions/revisioncellmove/worksheet) |  |
+| [id](/cells/python-net/aspose.cells.revisions/revisioncellmove/id) |  |
 | [source_area](/cells/python-net/aspose.cells.revisions/revisioncellmove/source_area) | Gets the source area. |
 | [destination_area](/cells/python-net/aspose.cells.revisions/revisioncellmove/destination_area) | Gets the destination area. |
 | [source_worksheet](/cells/python-net/aspose.cells.revisions/revisioncellmove/source_worksheet) | Gets the source worksheet. |
@@ -35,5 +34,4 @@ The RevisionCellMove type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.revisions`](..)
-* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 * class [`RevisionCellMove`](/cells/python-net/aspose.cells.revisions/revisioncellmove)

@@ -10,8 +10,6 @@ is_root: false
 
 ## font property
 
-
-Returns the font of this object.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: relative_to_original_picture_size property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 870
+weight: 860
 url: /aspose.cells.drawing/shape/relative_to_original_picture_size/
 is_root: false
 ---

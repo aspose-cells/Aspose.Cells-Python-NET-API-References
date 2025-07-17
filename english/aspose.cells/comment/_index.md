@@ -3,7 +3,7 @@ title: Comment class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 260
 url: /aspose.cells/comment/
 is_root: false
 ---

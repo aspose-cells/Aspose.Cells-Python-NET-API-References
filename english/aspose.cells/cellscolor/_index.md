@@ -3,7 +3,7 @@ title: CellsColor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 170
 url: /aspose.cells/cellscolor/
 is_root: false
 ---

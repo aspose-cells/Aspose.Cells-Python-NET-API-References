@@ -3,7 +3,7 @@ title: line_format property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 770
 url: /aspose.cells.drawing/listbox/line_format/
 is_root: false
 ---

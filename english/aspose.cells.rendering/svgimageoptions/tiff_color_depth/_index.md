@@ -3,7 +3,7 @@ title: tiff_color_depth property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 400
 url: /aspose.cells.rendering/svgimageoptions/tiff_color_depth/
 is_root: false
 ---

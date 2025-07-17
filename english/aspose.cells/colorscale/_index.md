@@ -3,7 +3,7 @@ title: ColorScale class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 230
 url: /aspose.cells/colorscale/
 is_root: false
 ---

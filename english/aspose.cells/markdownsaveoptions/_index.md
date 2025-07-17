@@ -3,7 +3,7 @@ title: MarkdownSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1120
+weight: 960
 url: /aspose.cells/markdownsaveoptions/
 is_root: false
 ---
@@ -39,19 +39,17 @@ The MarkdownSaveOptions type exposes the following members:
 | [sort_names](/cells/python-net/aspose.cells/markdownsaveoptions/sort_names) | Indicates whether sorting defined names before saving file. |
 | [sort_external_names](/cells/python-net/aspose.cells/markdownsaveoptions/sort_external_names) | Indicates whether sorting external defined names before saving file. |
 | [refresh_chart_cache](/cells/python-net/aspose.cells/markdownsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
-| [warning_callback](/cells/python-net/aspose.cells/markdownsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [check_excel_restriction](/cells/python-net/aspose.cells/markdownsaveoptions/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K, it will be truncated. |
 | [update_smart_art](/cells/python-net/aspose.cells/markdownsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
 | [encrypt_document_properties](/cells/python-net/aspose.cells/markdownsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [encoding](/cells/python-net/aspose.cells/markdownsaveoptions/encoding) | Gets and sets the default encoding. |
 | [format_strategy](/cells/python-net/aspose.cells/markdownsaveoptions/format_strategy) | Gets and sets the format strategy when exporting the cell value as string. |
-| [light_cells_data_provider](/cells/python-net/aspose.cells/markdownsaveoptions/light_cells_data_provider) | The Data provider to provide cells data for saving workbook in light mode. |
 | [line_separator](/cells/python-net/aspose.cells/markdownsaveoptions/line_separator) | Gets and sets the line separator. |
 | [table_header_type](/cells/python-net/aspose.cells/markdownsaveoptions/table_header_type) | Gets and sets how set the header of the table. |
 | [sheet_set](/cells/python-net/aspose.cells/markdownsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.active`](/cells/python-net/aspose.cells.rendering/sheetset#active). |
 | [image_options](/cells/python-net/aspose.cells/markdownsaveoptions/image_options) | Get the ImageOrPrintOptions object before exporting |
 | [export_images_as_base64](/cells/python-net/aspose.cells/markdownsaveoptions/export_images_as_base64) | Specifies whether images are saved in Base64 format to Markdown. |
-| [stream_provider](/cells/python-net/aspose.cells/markdownsaveoptions/stream_provider) | Gets or sets the IStreamProvider for exporting objects. |
+| [calculate_formula](/cells/python-net/aspose.cells/markdownsaveoptions/calculate_formula) | Indicates whether to calculate formulas before saving html file. |
 
 
 

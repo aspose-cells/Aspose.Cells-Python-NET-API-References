@@ -10,8 +10,6 @@ is_root: false
 
 ## id property
 
-
-Gets the id of the connection.
 ### Definition:
 ```python
 @property

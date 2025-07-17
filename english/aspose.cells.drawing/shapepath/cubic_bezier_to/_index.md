@@ -23,12 +23,12 @@ def cubic_bezier_to(self, ctr_x1, ctr_y1, ctr_x2, ctr_y2, end_x, end_y):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ctr_x1 | float | The x-coordinate of the first control point for the curve. |
-| ctr_y1 | float | The y-coordinate of the first control point for the curve. |
-| ctr_x2 | float | The x-coordinate of the second control point for the curve. |
-| ctr_y2 | float | The y-coordinate of the second control point for the curve. |
-| end_x | float | The x-coordinate of the endpoint of the curve. |
-| end_y | float | The y-coordinate of the endpoint of the curve. |
+| ctr_x1 | float | The x-coordinate of the first control point for the curve(Unit: Pixel). |
+| ctr_y1 | float | The y-coordinate of the first control point for the curve(Unit: Pixel). |
+| ctr_x2 | float | The x-coordinate of the second control point for the curve(Unit: Pixel). |
+| ctr_y2 | float | The y-coordinate of the second control point for the curve(Unit: Pixel). |
+| end_x | float | The x-coordinate of the endpoint of the curve(Unit: Pixel). |
+| end_y | float | The y-coordinate of the endpoint of the curve(Unit: Pixel). |
 
 
 

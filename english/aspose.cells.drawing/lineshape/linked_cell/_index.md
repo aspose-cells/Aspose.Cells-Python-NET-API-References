@@ -3,7 +3,7 @@ title: linked_cell property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 820
+weight: 810
 url: /aspose.cells.drawing/lineshape/linked_cell/
 is_root: false
 ---

@@ -10,8 +10,6 @@ is_root: false
 
 ## refresh_chart_cache property
 
-
-Indicates whether refreshing chart cache data
 ### Definition:
 ```python
 @property

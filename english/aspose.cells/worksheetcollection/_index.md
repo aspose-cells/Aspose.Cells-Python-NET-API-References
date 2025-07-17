@@ -3,7 +3,7 @@ title: WorksheetCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1780
+weight: 1610
 url: /aspose.cells/worksheetcollection/
 is_root: false
 ---
@@ -36,6 +36,14 @@ The WorksheetCollection type exposes the following members:
 | [revision_logs](/cells/python-net/aspose.cells/worksheetcollection/revision_logs) | Represents revision logs. |
 | [sensitivity_labels](/cells/python-net/aspose.cells/worksheetcollection/sensitivity_labels) | Represents all sensitivity labels. |
 | [capacity](/cells/python-net/aspose.cells/worksheetcollection/capacity) | Gets or sets the number of elements that the array list can contain. |
+
+
+
+Gets the [`Worksheet`](/cells/python-net/aspose.cells/worksheet) element at the specified index.
+### Indexer
+| Name | Description |
+| :- | :- |
+| [index] | The zero based index of the element. |
 
 
 ### Methods

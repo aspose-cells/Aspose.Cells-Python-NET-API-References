@@ -3,7 +3,7 @@ title: ControlListStyle enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 160
 url: /aspose.cells.drawing.activexcontrols/controlliststyle/
 is_root: false
 ---

@@ -10,7 +10,7 @@ is_root: false
 
 ## get_text_of_all_periods(self) {#}
 
-Gets the local text of "All Periods"
+Gets the localized text of "All Periods".
 
 
 ### Returns 

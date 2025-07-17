@@ -3,7 +3,7 @@ title: ControlPicturePositionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 200
 url: /aspose.cells.drawing.activexcontrols/controlpicturepositiontype/
 is_root: false
 ---

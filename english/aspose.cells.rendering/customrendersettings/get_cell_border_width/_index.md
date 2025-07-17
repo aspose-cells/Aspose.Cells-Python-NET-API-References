@@ -10,7 +10,7 @@ is_root: false
 
 ## get_cell_border_width(self, border_type) {#aspose.cells.CellBorderType}
 
-Get cell border width according to border type.
+Specifies cell border width according to border type.
 
 
 ### Returns 

@@ -10,8 +10,6 @@ is_root: false
 
 ## length property
 
-
-Gets the length of the characters.
 ### Definition:
 ```python
 @property

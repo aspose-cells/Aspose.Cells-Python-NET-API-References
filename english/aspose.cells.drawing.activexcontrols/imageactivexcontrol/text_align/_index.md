@@ -10,8 +10,6 @@ is_root: false
 
 ## text_align property
 
-
-Represents how to align the text used by the control.
 ### Definition:
 ```python
 @property

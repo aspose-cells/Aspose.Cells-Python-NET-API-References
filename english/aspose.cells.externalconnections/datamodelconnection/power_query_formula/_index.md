@@ -10,8 +10,6 @@ is_root: false
 
 ## power_query_formula property
 
-
-Gets the definition of power query formula.
 ### Definition:
 ```python
 @property

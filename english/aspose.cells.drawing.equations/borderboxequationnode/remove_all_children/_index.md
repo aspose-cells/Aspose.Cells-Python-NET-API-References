@@ -10,7 +10,7 @@ is_root: false
 
 ## remove_all_children(self) {#}
 
-Removes all the child nodes of the current node.
+
 
 
 

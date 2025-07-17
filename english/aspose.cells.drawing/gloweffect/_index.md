@@ -3,7 +3,7 @@ title: GlowEffect class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 190
 url: /aspose.cells.drawing/gloweffect/
 is_root: false
 ---

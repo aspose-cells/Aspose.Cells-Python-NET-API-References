@@ -3,7 +3,7 @@ title: JsonSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1060
+weight: 920
 url: /aspose.cells/jsonsaveoptions/
 is_root: false
 ---
@@ -39,11 +39,10 @@ The JsonSaveOptions type exposes the following members:
 | [sort_names](/cells/python-net/aspose.cells/jsonsaveoptions/sort_names) | Indicates whether sorting defined names before saving file. |
 | [sort_external_names](/cells/python-net/aspose.cells/jsonsaveoptions/sort_external_names) | Indicates whether sorting external defined names before saving file. |
 | [refresh_chart_cache](/cells/python-net/aspose.cells/jsonsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
-| [warning_callback](/cells/python-net/aspose.cells/jsonsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [check_excel_restriction](/cells/python-net/aspose.cells/jsonsaveoptions/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K, it will be truncated. |
 | [update_smart_art](/cells/python-net/aspose.cells/jsonsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
 | [encrypt_document_properties](/cells/python-net/aspose.cells/jsonsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
-| [export_style_pool](/cells/python-net/aspose.cells/jsonsaveoptions/export_style_pool) | Exporting style pool when converting to json struct. |
+| [export_style_pool](/cells/python-net/aspose.cells/jsonsaveoptions/export_style_pool) | Indicates whether to export styles collectively or individually to each cell. |
 | [export_hyperlink_type](/cells/python-net/aspose.cells/jsonsaveoptions/export_hyperlink_type) | Represents the type of exporting hyperlink to json. |
 | [skip_empty_rows](/cells/python-net/aspose.cells/jsonsaveoptions/skip_empty_rows) | Indicates whether skipping emtpy rows. |
 | [sheet_indexes](/cells/python-net/aspose.cells/jsonsaveoptions/sheet_indexes) | Represents the indexes of exported sheets. |

@@ -3,7 +3,7 @@ title: DataBar class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 390
 url: /aspose.cells/databar/
 is_root: false
 ---

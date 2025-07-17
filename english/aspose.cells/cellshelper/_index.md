@@ -3,7 +3,7 @@ title: CellsHelper class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 210
 url: /aspose.cells/cellshelper/
 is_root: false
 ---
@@ -48,6 +48,8 @@ The CellsHelper type exposes the following members:
 | [`get_used_colors(, workbook)`](/cells/python-net/aspose.cells/cellshelper/get_used_colors/#aspose.cells.workbook) | Gets all used colors in the workbook. |
 | [`add_add_in_function(, function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type)`](/cells/python-net/aspose.cells/cellshelper/add_add_in_function/#str-int-int-list-aspose.cells.parametertype) | Add addin function. |
 | [`merge_files(, files, cached_file, dest_file)`](/cells/python-net/aspose.cells/cellshelper/merge_files/#list-str-str) | Merges some large xls files to a xls file. |
+| [`get_cache_folder()`](/cells/python-net/aspose.cells/cellshelper/get_cache_folder/#) | Gets the folder for temporary files that may be used as data cache. |
+| [`set_cache_folder(, cache)`](/cells/python-net/aspose.cells/cellshelper/set_cache_folder/#str) | Sets the folder for temporary files that may be used as data cache. |
 | [`need_quote_in_formula(, sheet_name)`](/cells/python-net/aspose.cells/cellshelper/need_quote_in_formula/#str) | Indicates whether the name of the sheet should be enclosed in single quotes |
 | [`init_for_dot_net_core()`](/cells/python-net/aspose.cells/cellshelper/init_for_dot_net_core/#) | Do the initialization for .NetCore programme.<br/>We suggest you to call this method for all .NetCore initialization first. <br/>For example:<br/>CellsHelper.InitForDotNetCore();<br/>Workbook wb = new Workbook(); |
 

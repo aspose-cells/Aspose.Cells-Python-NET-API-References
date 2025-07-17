@@ -3,7 +3,7 @@ title: CellsDataTableFactory class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 180
 url: /aspose.cells/cellsdatatablefactory/
 is_root: false
 ---

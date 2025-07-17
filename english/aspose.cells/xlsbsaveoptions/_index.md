@@ -3,7 +3,7 @@ title: XlsbSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1810
+weight: 1640
 url: /aspose.cells/xlsbsaveoptions/
 is_root: false
 ---
@@ -40,13 +40,11 @@ The XlsbSaveOptions type exposes the following members:
 | [sort_names](/cells/python-net/aspose.cells/xlsbsaveoptions/sort_names) | Indicates whether sorting defined names before saving file. |
 | [sort_external_names](/cells/python-net/aspose.cells/xlsbsaveoptions/sort_external_names) | Indicates whether sorting external defined names before saving file. |
 | [refresh_chart_cache](/cells/python-net/aspose.cells/xlsbsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
-| [warning_callback](/cells/python-net/aspose.cells/xlsbsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [check_excel_restriction](/cells/python-net/aspose.cells/xlsbsaveoptions/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K, it will be truncated. |
 | [update_smart_art](/cells/python-net/aspose.cells/xlsbsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
 | [encrypt_document_properties](/cells/python-net/aspose.cells/xlsbsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [compression_type](/cells/python-net/aspose.cells/xlsbsaveoptions/compression_type) | Gets and sets the compression type for ooxml file. |
 | [export_all_column_indexes](/cells/python-net/aspose.cells/xlsbsaveoptions/export_all_column_indexes) | Indicates whether exporting all column indexes for cells. |
-| [light_cells_data_provider](/cells/python-net/aspose.cells/xlsbsaveoptions/light_cells_data_provider) | The data provider for saving workbook in light mode. |
 
 
 

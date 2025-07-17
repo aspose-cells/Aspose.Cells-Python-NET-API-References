@@ -10,9 +10,6 @@ is_root: false
 
 ## reconnection_method_type property
 
-
-Specifies what the spreadsheet application should do when a connection fails.
-The default value is ReConnectionMethodType.Required.
 ### Definition:
 ```python
 @property

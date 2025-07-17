@@ -10,8 +10,6 @@ is_root: false
 
 ## save_format property
 
-
-Gets the save file format.
 ### Definition:
 ```python
 @property

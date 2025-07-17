@@ -3,7 +3,7 @@ title: kept_schema property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /aspose.cells/jsonloadoptions/kept_schema/
 is_root: false
 ---

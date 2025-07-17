@@ -10,16 +10,6 @@ is_root: false
 
 ## connection_id property
 
-
-Specifies The unique identifier of this connection.
-
-### Remarks 
-
-
-NOTE: This property is now obsolete. Instead, 
-please use ExternalConnection.Id property.
-This property will be removed 12 months later since October 2024. 
-Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: LightRigDirectionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 900
 url: /aspose.cells.drawing/lightrigdirectiontype/
 is_root: false
 ---

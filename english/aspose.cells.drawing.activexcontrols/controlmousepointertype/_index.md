@@ -3,7 +3,7 @@ title: ControlMousePointerType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 180
 url: /aspose.cells.drawing.activexcontrols/controlmousepointertype/
 is_root: false
 ---

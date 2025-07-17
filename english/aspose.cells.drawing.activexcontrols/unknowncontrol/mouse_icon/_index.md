@@ -10,8 +10,6 @@ is_root: false
 
 ## mouse_icon property
 
-
-Gets and sets a custom icon to display as the mouse pointer for the control.
 ### Definition:
 ```python
 @property

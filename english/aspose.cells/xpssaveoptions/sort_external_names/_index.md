@@ -10,8 +10,6 @@ is_root: false
 
 ## sort_external_names property
 
-
-Indicates whether sorting external defined names before saving file.
 ### Definition:
 ```python
 @property

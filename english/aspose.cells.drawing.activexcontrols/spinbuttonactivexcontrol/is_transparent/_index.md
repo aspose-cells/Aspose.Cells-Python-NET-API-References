@@ -10,8 +10,6 @@ is_root: false
 
 ## is_transparent property
 
-
-Indicates whether the control is transparent.
 ### Definition:
 ```python
 @property

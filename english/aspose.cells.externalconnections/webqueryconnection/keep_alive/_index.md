@@ -10,10 +10,6 @@ is_root: false
 
 ## keep_alive property
 
-
-True when the spreadsheet application should make efforts to keep the connection 
-open. When false, the application should close the connection after retrieving the 
-information.
 ### Definition:
 ```python
 @property

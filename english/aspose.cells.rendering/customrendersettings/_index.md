@@ -25,7 +25,7 @@ The CustomRenderSettings type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`get_cell_border_width(self, border_type)`](/cells/python-net/aspose.cells.rendering/customrendersettings/get_cell_border_width/#aspose.cells.cellbordertype) | Get cell border width according to border type. |
+| [`get_cell_border_width(self, border_type)`](/cells/python-net/aspose.cells.rendering/customrendersettings/get_cell_border_width/#aspose.cells.cellbordertype) | Specifies cell border width according to border type. |
 
 
 

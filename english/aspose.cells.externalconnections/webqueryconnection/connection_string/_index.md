@@ -10,8 +10,6 @@ is_root: false
 
 ## connection_string property
 
-
-The connection information string is used to make contact with an OLE DB or ODBC data source.
 ### Definition:
 ```python
 @property

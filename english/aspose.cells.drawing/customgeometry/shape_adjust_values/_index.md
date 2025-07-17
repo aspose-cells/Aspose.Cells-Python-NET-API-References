@@ -10,8 +10,6 @@ is_root: false
 
 ## shape_adjust_values property
 
-
-Gets a collection of shape adjust value
 ### Definition:
 ```python
 @property

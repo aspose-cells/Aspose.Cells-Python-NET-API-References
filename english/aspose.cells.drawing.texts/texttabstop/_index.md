@@ -3,7 +3,7 @@ title: TextTabStop class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 120
 url: /aspose.cells.drawing.texts/texttabstop/
 is_root: false
 ---

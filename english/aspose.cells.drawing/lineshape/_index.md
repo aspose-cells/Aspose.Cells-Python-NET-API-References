@@ -3,7 +3,7 @@ title: LineShape class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 290
 url: /aspose.cells.drawing/lineshape/
 is_root: false
 ---
@@ -122,7 +122,6 @@ The LineShape type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/lineshape/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/lineshape/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/lineshape/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/lineshape/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/lineshape/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/lineshape/is_decorative) | Indicates whether the object is decorative. |
 | [begin_arrowhead_style](/cells/python-net/aspose.cells.drawing/lineshape/begin_arrowhead_style) | Gets and sets the begin arrow head style of the line. |

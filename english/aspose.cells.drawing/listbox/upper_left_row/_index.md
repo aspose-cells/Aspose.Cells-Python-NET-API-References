@@ -3,7 +3,7 @@ title: upper_left_row property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1250
+weight: 1240
 url: /aspose.cells.drawing/listbox/upper_left_row/
 is_root: false
 ---

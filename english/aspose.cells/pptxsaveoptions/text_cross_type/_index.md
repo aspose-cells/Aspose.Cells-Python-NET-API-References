@@ -10,8 +10,6 @@ is_root: false
 
 ## text_cross_type property
 
-
-Gets or sets displaying text type when the text width is larger than cell width.
 ### Definition:
 ```python
 @property

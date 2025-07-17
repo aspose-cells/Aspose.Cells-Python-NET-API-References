@@ -10,13 +10,6 @@ is_root: false
 
 ## validate_merged_areas property
 
-
-Indicates whether validate merged cells before saving the file.
-
-### Remarks 
-
-
-The default value is false.
 ### Definition:
 ```python
 @property

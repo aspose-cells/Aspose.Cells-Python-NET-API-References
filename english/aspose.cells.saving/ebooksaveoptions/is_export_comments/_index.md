@@ -3,7 +3,7 @@ title: is_export_comments property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 590
+weight: 570
 url: /aspose.cells.saving/ebooksaveoptions/is_export_comments/
 is_root: false
 ---

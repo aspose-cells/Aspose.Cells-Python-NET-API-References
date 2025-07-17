@@ -10,13 +10,6 @@ is_root: false
 
 ## id property
 
-
-Gets the number of this revision.
-
-### Remarks 
-
-
-Zero means this revision does not contains id.
 ### Definition:
 ```python
 @property

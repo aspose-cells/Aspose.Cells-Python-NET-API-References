@@ -3,7 +3,7 @@ title: is_hidden property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 600
 url: /aspose.cells.drawing/combobox/is_hidden/
 is_root: false
 ---

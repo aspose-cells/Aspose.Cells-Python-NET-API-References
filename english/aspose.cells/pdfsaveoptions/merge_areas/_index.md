@@ -10,13 +10,6 @@ is_root: false
 
 ## merge_areas property
 
-
-Indicates whether merge the areas of conditional formatting and validation before saving the file.
-
-### Remarks 
-
-
-The default value is false.
 ### Definition:
 ```python
 @property

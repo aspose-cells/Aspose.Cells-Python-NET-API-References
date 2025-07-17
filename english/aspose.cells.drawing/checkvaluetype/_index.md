@@ -3,7 +3,7 @@ title: CheckValueType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 800
+weight: 780
 url: /aspose.cells.drawing/checkvaluetype/
 is_root: false
 ---

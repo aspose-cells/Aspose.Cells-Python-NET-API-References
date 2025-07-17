@@ -3,7 +3,7 @@ title: ShadowEffect class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 490
 url: /aspose.cells.drawing/shadoweffect/
 is_root: false
 ---

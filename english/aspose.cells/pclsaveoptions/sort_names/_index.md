@@ -10,8 +10,6 @@ is_root: false
 
 ## sort_names property
 
-
-Indicates whether sorting defined names before saving file.
 ### Definition:
 ```python
 @property

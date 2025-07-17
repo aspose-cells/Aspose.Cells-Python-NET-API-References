@@ -3,7 +3,7 @@ title: TextBoxCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 670
 url: /aspose.cells.drawing/textboxcollection/
 is_root: false
 ---

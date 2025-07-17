@@ -3,7 +3,7 @@ title: RevisionCellComment class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 40
 url: /aspose.cells.revisions/revisioncellcomment/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents a revision record of a cell comment change.
 
 
 
-**Inheritance:** [`RevisionCellComment`](/cells/python-net/aspose.cells.revisions/revisioncellcomment) → 
-[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionCellComment`](/cells/python-net/aspose.cells.revisions/revisioncellcomment)
 
 
 
@@ -25,8 +24,8 @@ The RevisionCellComment type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [type](/cells/python-net/aspose.cells.revisions/revisioncellcomment/type) | Gets the type of revision. |
-| [worksheet](/cells/python-net/aspose.cells.revisions/revisioncellcomment/worksheet) | Gets the worksheet. |
-| [id](/cells/python-net/aspose.cells.revisions/revisioncellcomment/id) | Gets the number of this revision. |
+| [worksheet](/cells/python-net/aspose.cells.revisions/revisioncellcomment/worksheet) |  |
+| [id](/cells/python-net/aspose.cells.revisions/revisioncellcomment/id) |  |
 | [row](/cells/python-net/aspose.cells.revisions/revisioncellcomment/row) | Gets the row index of the which contains a comment. |
 | [column](/cells/python-net/aspose.cells.revisions/revisioncellcomment/column) | Gets the column index of the which contains a comment. |
 | [cell_name](/cells/python-net/aspose.cells.revisions/revisioncellcomment/cell_name) | Gets the name of the cell. |
@@ -39,5 +38,4 @@ The RevisionCellComment type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.revisions`](..)
-* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 * class [`RevisionCellComment`](/cells/python-net/aspose.cells.revisions/revisioncellcomment)

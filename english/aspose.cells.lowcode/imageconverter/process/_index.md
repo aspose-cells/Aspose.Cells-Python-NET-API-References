@@ -65,9 +65,9 @@ of the save options by appending sequence number of the sheet and split part.
 For example, if the specified output file is Image.png, then the generated image
 files will be Image_0_0.png, Image_0_1.png, ..., Image_1_0.png, ...
 
-## process(, load_options, save_options, provider) {#aspose.cells.lowcode.LowCodeLoadOptions-aspose.cells.lowcode.LowCodeSaveOptions-aspose.cells.lowcode.AbstractLowCodeSaveOptionsProvider}
+## process(, load_options, save_options, provider) {#aspose.cells.lowcode.LowCodeLoadOptions-aspose.cells.lowcode.LowCodeSaveOptions-AbstractLowCodeSaveOptionsProvider}
 
-Converts template file to images
+
 
 
 
@@ -81,9 +81,9 @@ def process(load_options, save_options, provider):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| load_options | [`LowCodeLoadOptions`](/cells/python-net/aspose.cells.lowcode/lowcodeloadoptions) | Options for input and loading |
-| save_options | [`LowCodeSaveOptions`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptions) | Options for saving.<br/>Its output([`LowCodeSaveOptions.output_file`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptions#output_file) or [`LowCodeSaveOptions.output_stream`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptions#output_stream))<br/>takes no effect because all outputs will be specified by the "provider" parameter |
-| provider | [`AbstractLowCodeSaveOptionsProvider`](/cells/python-net/aspose.cells.lowcode/abstractlowcodesaveoptionsprovider) | Provider of save options for saving the generated images |
+| load_options | [`LowCodeLoadOptions`](/cells/python-net/aspose.cells.lowcode/lowcodeloadoptions) |  |
+| save_options | [`LowCodeSaveOptions`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptions) |  |
+| provider | AbstractLowCodeSaveOptionsProvider |  |
 
 
 

@@ -10,8 +10,6 @@ is_root: false
 
 ## refresh_on_load property
 
-
-True if this connection should be refreshed when opening the file; otherwise, false.
 ### Definition:
 ```python
 @property

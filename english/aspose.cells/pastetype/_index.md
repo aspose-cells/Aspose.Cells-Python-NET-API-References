@@ -3,7 +3,7 @@ title: PasteType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2600
+weight: 2420
 url: /aspose.cells/pastetype/
 is_root: false
 ---
@@ -25,14 +25,14 @@ The PasteType type exposes the following members:
 | DEFAULT_EXCEPT_BORDERS | It works as "All except borders" behavior of MS Excel. |
 | COLUMN_WIDTHS | Only copies the widths of the range. |
 | ROW_HEIGHTS | Only copies the heights of the range. |
-| COMMENTS |  |
-| FORMATS |  |
-| FORMULAS |  |
-| FORMULAS_AND_NUMBER_FORMATS |  |
-| VALIDATION |  |
-| VALUES |  |
-| VALUES_AND_FORMATS |  |
-| VALUES_AND_NUMBER_FORMATS |  |
+| COMMENTS | Only copies comments in the range. |
+| FORMATS | Only copies formats in the range. |
+| FORMULAS | Only copies formulas in the range. |
+| FORMULAS_AND_NUMBER_FORMATS | Only copies formulas and number formats in the range. |
+| VALIDATION | Only copies validations in the range. |
+| VALUES | Only copies values in the range. |
+| VALUES_AND_FORMATS | Only copies values and formats in the range. |
+| VALUES_AND_NUMBER_FORMATS | Only copies values and number formats in the range. |
 
 
 

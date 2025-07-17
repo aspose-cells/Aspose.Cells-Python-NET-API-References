@@ -3,7 +3,7 @@ title: SpreadsheetSplitter class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 190
 url: /aspose.cells.lowcode/spreadsheetsplitter/
 is_root: false
 ---

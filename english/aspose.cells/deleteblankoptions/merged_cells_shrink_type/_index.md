@@ -3,7 +3,7 @@ title: merged_cells_shrink_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 70
 url: /aspose.cells/deleteblankoptions/merged_cells_shrink_type/
 is_root: false
 ---

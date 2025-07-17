@@ -20,7 +20,6 @@ The **Aspose.Cells.Properties**  namespace provides classes to work with custom 
 | [`CustomProperty`](/cells/python-net/aspose.cells.properties/customproperty) | Represents identifier information. |
 | [`CustomPropertyCollection`](/cells/python-net/aspose.cells.properties/custompropertycollection) | A collection of [`CustomProperty`](/cells/python-net/aspose.cells.properties/customproperty) objects that represent additional information. |
 | [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) | Represents a custom or built-in document property. |
-| [`DocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/documentpropertycollection) | Base class for [`BuiltInDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection) and [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection) collections. |
 
 
 ### Enumerations

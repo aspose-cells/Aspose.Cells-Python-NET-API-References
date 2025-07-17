@@ -3,7 +3,7 @@ title: top_to_corner property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1120
+weight: 1110
 url: /aspose.cells.drawing/slicershape/top_to_corner/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: mso_drawing_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 870
+weight: 860
 url: /aspose.cells.drawing/scrollbar/mso_drawing_type/
 is_root: false
 ---

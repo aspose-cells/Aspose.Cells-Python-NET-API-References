@@ -13,8 +13,6 @@ The **Aspose.Cells.Drawing.ActiveXControls**  namespace provides classes that al
 ### Classes
 | Class | Description |
 | :- | :- |
-| [`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) | Represents the ActiveX control. |
-| [`ActiveXControlBase`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase) | Represents the ActiveX control. |
 | [`CheckBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol) | Represents a CheckBox ActiveX control. |
 | [`ComboBoxActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol) | Represents a ComboBox ActiveX control. |
 | [`CommandButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol) | Represents a command button. |

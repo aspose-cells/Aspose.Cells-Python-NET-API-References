@@ -10,8 +10,6 @@ is_root: false
 
 ## height property
 
-
-Gets and sets the height of the control in unit of points.
 ### Definition:
 ```python
 @property

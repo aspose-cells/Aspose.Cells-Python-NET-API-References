@@ -10,8 +10,6 @@ is_root: false
 
 ## connection_description property
 
-
-Specifies the user description for this connection
 ### Definition:
 ```python
 @property

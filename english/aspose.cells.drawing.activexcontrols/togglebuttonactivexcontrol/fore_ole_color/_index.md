@@ -10,13 +10,6 @@ is_root: false
 
 ## fore_ole_color property
 
-
-Gets and sets the ole color of the foreground.
-
-### Remarks 
-
-
-Not applies to Image control.
 ### Definition:
 ```python
 @property

@@ -10,8 +10,6 @@ is_root: false
 
 ## worksheet property
 
-
-Gets the worksheet.
 ### Definition:
 ```python
 @property

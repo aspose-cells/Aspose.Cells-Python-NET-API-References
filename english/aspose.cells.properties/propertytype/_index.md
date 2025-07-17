@@ -3,7 +3,7 @@ title: PropertyType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 80
 url: /aspose.cells.properties/propertytype/
 is_root: false
 ---

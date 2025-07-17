@@ -3,7 +3,7 @@ title: Validation class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1690
+weight: 1520
 url: /aspose.cells/validation/
 is_root: false
 ---

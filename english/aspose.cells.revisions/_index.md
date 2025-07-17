@@ -14,7 +14,6 @@ The **Aspose.Cells.Revisions**  namespace provides classes to access revisions o
 | Class | Description |
 | :- | :- |
 | [`HighlightChangesOptions`](/cells/python-net/aspose.cells.revisions/highlightchangesoptions) | Represents options of highlighting revsions or changes of shared Excel files. |
-| [`Revision`](/cells/python-net/aspose.cells.revisions/revision) | Represents the revision. |
 | [`RevisionAutoFormat`](/cells/python-net/aspose.cells.revisions/revisionautoformat) | represents a revision record of information about a formatting change. |
 | [`RevisionCellChange`](/cells/python-net/aspose.cells.revisions/revisioncellchange) | Represents the revision that changing cells. |
 | [`RevisionCellComment`](/cells/python-net/aspose.cells.revisions/revisioncellcomment) | Represents a revision record of a cell comment change. |

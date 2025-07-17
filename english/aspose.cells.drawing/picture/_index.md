@@ -3,7 +3,7 @@ title: Picture class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 430
 url: /aspose.cells.drawing/picture/
 is_root: false
 ---
@@ -122,7 +122,6 @@ The Picture type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/picture/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/picture/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/picture/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/picture/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/picture/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/picture/is_decorative) | Indicates whether the object is decorative. |
 | [original_height](/cells/python-net/aspose.cells.drawing/picture/original_height) | Gets the original height of the picture. |

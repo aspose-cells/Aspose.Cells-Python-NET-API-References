@@ -10,8 +10,6 @@ is_root: false
 
 ## credentials_method_type property
 
-
-Specifies the authentication method to be used when establishing (or re-establishing) the connection.
 ### Definition:
 ```python
 @property

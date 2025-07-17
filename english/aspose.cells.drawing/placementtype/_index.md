@@ -3,7 +3,7 @@ title: PlacementType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1060
+weight: 1040
 url: /aspose.cells.drawing/placementtype/
 is_root: false
 ---

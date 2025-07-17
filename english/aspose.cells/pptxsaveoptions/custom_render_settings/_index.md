@@ -10,8 +10,6 @@ is_root: false
 
 ## custom_render_settings property
 
-
-Gets or sets custom settings during rendering.
 ### Definition:
 ```python
 @property

@@ -8,7 +8,7 @@ url: /aspose.cells.externalconnections/externalconnectioncollection/last_index_o
 is_root: false
 ---
 
-## last_index_of(self, item) {#aspose.cells.externalconnections.ExternalConnection}
+## last_index_of(self, item) {#ExternalConnection}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list.
 
@@ -28,10 +28,10 @@ def last_index_of(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection) | The object to locate in the array list. The value can be null. |
+| item | ExternalConnection | The object to locate in the array list. The value can be null. |
 
 
-## last_index_of(self, item, index) {#aspose.cells.externalconnections.ExternalConnection-int}
+## last_index_of(self, item, index) {#ExternalConnection-int}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index.
 
@@ -51,11 +51,11 @@ def last_index_of(self, item, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection) | The object to locate in the array list. The value can be null. |
+| item | ExternalConnection | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the backward search. |
 
 
-## last_index_of(self, item, index, count) {#aspose.cells.externalconnections.ExternalConnection-int-int}
+## last_index_of(self, item, index, count) {#ExternalConnection-int-int}
 
 Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index.
 
@@ -75,7 +75,7 @@ def last_index_of(self, item, index, count):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection) | The object to locate in the array list. The value can be null. |
+| item | ExternalConnection | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the backward search. |
 | count | int | The number of elements in the section to search. |
 

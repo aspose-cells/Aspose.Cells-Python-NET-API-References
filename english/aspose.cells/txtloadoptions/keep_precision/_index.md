@@ -3,7 +3,7 @@ title: keep_precision property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 210
 url: /aspose.cells/txtloadoptions/keep_precision/
 is_root: false
 ---

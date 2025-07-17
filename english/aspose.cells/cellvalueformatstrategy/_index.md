@@ -3,7 +3,7 @@ title: CellValueFormatStrategy enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1990
+weight: 1810
 url: /aspose.cells/cellvalueformatstrategy/
 is_root: false
 ---

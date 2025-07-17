@@ -3,7 +3,7 @@ title: is_decorative property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 540
+weight: 530
 url: /aspose.cells.drawing/cellsdrawing/is_decorative/
 is_root: false
 ---

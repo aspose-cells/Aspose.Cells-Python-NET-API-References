@@ -3,7 +3,7 @@ title: MsoLineDashStyle enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1020
+weight: 1000
 url: /aspose.cells.drawing/msolinedashstyle/
 is_root: false
 ---

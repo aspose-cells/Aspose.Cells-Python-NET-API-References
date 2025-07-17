@@ -10,13 +10,6 @@ is_root: false
 
 ## gridline_color property
 
-
-Gets or sets gridline color.
-
-### Remarks 
-
-
-It will ignore the gridline color settings in the source file.
 ### Definition:
 ```python
 @property

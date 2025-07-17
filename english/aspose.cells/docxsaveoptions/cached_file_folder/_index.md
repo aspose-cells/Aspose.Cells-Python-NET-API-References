@@ -3,22 +3,13 @@ title: cached_file_folder property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells/docxsaveoptions/cached_file_folder/
 is_root: false
 ---
 
 ## cached_file_folder property
 
-
-The folder for temporary files that may be used as data cache.
-
-### Remarks 
-
-
-If the folder has not been specified,
-the default value for it is CellsHelper.GetCacheFolder.
-If it is empty, then no cache file will be used when saving the workbook.
 ### Definition:
 ```python
 @property
