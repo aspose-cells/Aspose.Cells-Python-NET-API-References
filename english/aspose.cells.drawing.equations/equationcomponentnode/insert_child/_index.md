@@ -10,13 +10,8 @@ is_root: false
 
 ## insert_child(self, index, equation_type) {#int-aspose.cells.drawing.equations.EquationNodeType}
 
-Inserts a node of the specified type at the specified index position in the current node's child node list.
 
 
-### Returns 
-
-
-If the specified type exists, the corresponding node is returned, and if the type does not exist, a node of unknown type is returned.
 
 
 ```python
@@ -28,8 +23,8 @@ def insert_child(self, index, equation_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| index | int | index value |
-| equation_type | [`EquationNodeType`](/cells/python-net/aspose.cells.drawing.equations/equationnodetype) | Types of Equation Nodes |
+| index | int |  |
+| equation_type | [`EquationNodeType`](/cells/python-net/aspose.cells.drawing.equations/equationnodetype) |  |
 
 
 

@@ -3,7 +3,7 @@ title: FileFormatUtil class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 610
 url: /aspose.cells/fileformatutil/
 is_root: false
 ---

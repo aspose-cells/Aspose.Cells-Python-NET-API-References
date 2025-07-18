@@ -3,7 +3,7 @@ title: HtmlConverter class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 20
 url: /aspose.cells.lowcode/htmlconverter/
 is_root: false
 ---

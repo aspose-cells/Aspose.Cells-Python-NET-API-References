@@ -10,11 +10,6 @@ is_root: false
 
 ## only_use_connection_file property
 
-
-Indicates whether the spreadsheet application should always and only use the 
-connection information in the external connection file indicated by the odcFile attribute 
-when the connection is refreshed.  If false, then the spreadsheet application 
-should follow the procedure indicated by the reconnectionMethod attribute
 ### Definition:
 ```python
 @property

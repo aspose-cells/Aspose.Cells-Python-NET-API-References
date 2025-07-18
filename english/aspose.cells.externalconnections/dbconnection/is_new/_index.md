@@ -10,9 +10,6 @@ is_root: false
 
 ## is_new property
 
-
-True if the connection has not been refreshed for the first time; otherwise, false. 
-This state can happen when the user saves the file before a query has finished returning.
 ### Definition:
 ```python
 @property

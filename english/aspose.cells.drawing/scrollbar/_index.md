@@ -3,7 +3,7 @@ title: ScrollBar class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 500
+weight: 480
 url: /aspose.cells.drawing/scrollbar/
 is_root: false
 ---
@@ -122,7 +122,6 @@ The ScrollBar type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/scrollbar/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/scrollbar/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/scrollbar/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/scrollbar/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/scrollbar/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/scrollbar/is_decorative) | Indicates whether the object is decorative. |
 | [current_value](/cells/python-net/aspose.cells.drawing/scrollbar/current_value) | Gets or sets the current value. |

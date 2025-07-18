@@ -3,7 +3,7 @@ title: FileFontSource class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 590
 url: /aspose.cells/filefontsource/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents the single TrueType font file stored in the file system.
 
 
 
-**Inheritance:** [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource) → 
-[`FontSourceBase`](/cells/python-net/aspose.cells/fontsourcebase)
+**Inheritance:** [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource)
 
 
 
@@ -38,4 +37,3 @@ The FileFontSource type exposes the following members:
 ### See Also
 * module [`aspose.cells`](..)
 * class [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource)
-* class [`FontSourceBase`](/cells/python-net/aspose.cells/fontsourcebase)

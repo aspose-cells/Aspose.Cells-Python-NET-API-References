@@ -3,7 +3,7 @@ title: SettablePivotGlobalizationSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1490
+weight: 1320
 url: /aspose.cells/settablepivotglobalizationsettings/
 is_root: false
 ---
@@ -50,7 +50,7 @@ The SettablePivotGlobalizationSettings type exposes the following members:
 | [`get_text_of_minutes(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_minutes/#) | Gets the local text of "Minutes". |
 | [`get_text_of_seconds(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_seconds/#) | Gets the local text of "Seconds" |
 | [`get_text_of_range(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_range/#) | Gets the local text of "Range" |
-| [`get_text_of_all_periods(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_all_periods/#) | Gets the local text of "All Periods" |
+| [`get_text_of_all_periods(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_all_periods/#) | Gets the localized text of "All Periods". |
 | [`get_text_of_sub_total(self, sub_total_type)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_sub_total/#aspose.cells.pivot.pivotfieldsubtotaltype) | Gets the text of [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) type in the PivotTable. |
 | [`set_text_of_total(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_total/#str) | Sets the text of "Total" label in the PivotTable. |
 | [`set_text_of_grand_total(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_grand_total/#str) | Sets the text of "Grand Total" label in the PivotTable. |

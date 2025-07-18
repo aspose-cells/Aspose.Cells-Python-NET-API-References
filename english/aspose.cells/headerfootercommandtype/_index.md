@@ -3,7 +3,7 @@ title: HeaderFooterCommandType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2320
+weight: 2140
 url: /aspose.cells/headerfootercommandtype/
 is_root: false
 ---

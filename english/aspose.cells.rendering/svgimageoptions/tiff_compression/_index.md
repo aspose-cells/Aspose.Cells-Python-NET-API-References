@@ -3,7 +3,7 @@ title: tiff_compression property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 410
 url: /aspose.cells.rendering/svgimageoptions/tiff_compression/
 is_root: false
 ---

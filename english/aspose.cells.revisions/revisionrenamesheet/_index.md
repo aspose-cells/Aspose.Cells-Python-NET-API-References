@@ -3,7 +3,7 @@ title: RevisionRenameSheet class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 170
 url: /aspose.cells.revisions/revisionrenamesheet/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents a revision of renaming sheet.
 
 
 
-**Inheritance:** [`RevisionRenameSheet`](/cells/python-net/aspose.cells.revisions/revisionrenamesheet) → 
-[`Revision`](/cells/python-net/aspose.cells.revisions/revision)
+**Inheritance:** [`RevisionRenameSheet`](/cells/python-net/aspose.cells.revisions/revisionrenamesheet)
 
 
 
@@ -25,8 +24,8 @@ The RevisionRenameSheet type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [type](/cells/python-net/aspose.cells.revisions/revisionrenamesheet/type) | Represents the type of the revision. |
-| [worksheet](/cells/python-net/aspose.cells.revisions/revisionrenamesheet/worksheet) | Gets the worksheet. |
-| [id](/cells/python-net/aspose.cells.revisions/revisionrenamesheet/id) | Gets the number of this revision. |
+| [worksheet](/cells/python-net/aspose.cells.revisions/revisionrenamesheet/worksheet) |  |
+| [id](/cells/python-net/aspose.cells.revisions/revisionrenamesheet/id) |  |
 | [old_name](/cells/python-net/aspose.cells.revisions/revisionrenamesheet/old_name) | Gets the old name of the worksheet. |
 | [new_name](/cells/python-net/aspose.cells.revisions/revisionrenamesheet/new_name) | Gets the new name of the worksheet. |
 
@@ -34,5 +33,4 @@ The RevisionRenameSheet type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.revisions`](..)
-* class [`Revision`](/cells/python-net/aspose.cells.revisions/revision)
 * class [`RevisionRenameSheet`](/cells/python-net/aspose.cells.revisions/revisionrenamesheet)

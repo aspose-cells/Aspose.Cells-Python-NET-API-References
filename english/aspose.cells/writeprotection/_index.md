@@ -3,7 +3,7 @@ title: WriteProtection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1790
+weight: 1620
 url: /aspose.cells/writeprotection/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: FontFileFormatType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2250
+weight: 2070
 url: /aspose.cells/fontfileformattype/
 is_root: false
 ---

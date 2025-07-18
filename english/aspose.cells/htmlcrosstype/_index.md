@@ -3,7 +3,7 @@ title: HtmlCrossType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2330
+weight: 2150
 url: /aspose.cells/htmlcrosstype/
 is_root: false
 ---

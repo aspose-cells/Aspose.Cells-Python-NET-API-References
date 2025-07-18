@@ -3,7 +3,7 @@ title: CellValue class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 130
 url: /aspose.cells/cellvalue/
 is_root: false
 ---

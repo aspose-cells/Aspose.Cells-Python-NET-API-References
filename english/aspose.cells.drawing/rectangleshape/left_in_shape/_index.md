@@ -3,7 +3,7 @@ title: left_in_shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 700
 url: /aspose.cells.drawing/rectangleshape/left_in_shape/
 is_root: false
 ---

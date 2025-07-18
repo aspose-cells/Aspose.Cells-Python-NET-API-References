@@ -10,13 +10,6 @@ is_root: false
 
 ## gridline_type property
 
-
-Gets or sets gridline type.
-
-### Remarks 
-
-
-Default is Dotted type.
 ### Definition:
 ```python
 @property

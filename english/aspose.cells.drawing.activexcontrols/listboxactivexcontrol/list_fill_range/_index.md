@@ -10,8 +10,6 @@ is_root: false
 
 ## list_fill_range property
 
-
-Gets and sets the list fill range.
 ### Definition:
 ```python
 @property

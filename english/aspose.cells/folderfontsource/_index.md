@@ -3,7 +3,7 @@ title: FolderFontSource class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 650
 url: /aspose.cells/folderfontsource/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents the folder that contains TrueType font files.
 
 
 
-**Inheritance:** [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource) → 
-[`FontSourceBase`](/cells/python-net/aspose.cells/fontsourcebase)
+**Inheritance:** [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource)
 
 
 
@@ -39,4 +38,3 @@ The FolderFontSource type exposes the following members:
 ### See Also
 * module [`aspose.cells`](..)
 * class [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource)
-* class [`FontSourceBase`](/cells/python-net/aspose.cells/fontsourcebase)

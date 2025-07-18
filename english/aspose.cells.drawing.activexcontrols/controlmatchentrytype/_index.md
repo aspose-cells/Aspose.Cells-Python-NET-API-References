@@ -3,7 +3,7 @@ title: ControlMatchEntryType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 170
 url: /aspose.cells.drawing.activexcontrols/controlmatchentrytype/
 is_root: false
 ---

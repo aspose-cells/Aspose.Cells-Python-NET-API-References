@@ -3,7 +3,7 @@ title: LowCodeSaveOptionsProviderOfAssembling class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 110
 url: /aspose.cells.lowcode/lowcodesaveoptionsproviderofassembling/
 is_root: false
 ---
@@ -17,8 +17,7 @@ and the path of resultant file are named as(it may contains directories):
 
 
 
-**Inheritance:** [`LowCodeSaveOptionsProviderOfAssembling`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptionsproviderofassembling) → 
-[`AbstractLowCodeSaveOptionsProvider`](/cells/python-net/aspose.cells.lowcode/abstractlowcodesaveoptionsprovider)
+**Inheritance:** [`LowCodeSaveOptionsProviderOfAssembling`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptionsproviderofassembling)
 
 
 
@@ -49,11 +48,10 @@ The LowCodeSaveOptionsProviderOfAssembling type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`get_save_options(self, part)`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptionsproviderofassembling/get_save_options/#aspose.cells.lowcode.splitpartinfo) | Gets the save options from which to get the output settings for currently split part. |
-| [`finish(self, part)`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptionsproviderofassembling/finish/#aspose.cells.lowcode.lowcodesaveoptions) | Releases resources after processing currently split part. |
+| [`finish(self, part)`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptionsproviderofassembling/finish/#aspose.cells.lowcode.lowcodesaveoptions) |  |
 
 
 
 ### See Also
 * module [`aspose.cells.lowcode`](..)
-* class [`AbstractLowCodeSaveOptionsProvider`](/cells/python-net/aspose.cells.lowcode/abstractlowcodesaveoptionsprovider)
 * class [`LowCodeSaveOptionsProviderOfAssembling`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptionsproviderofassembling)

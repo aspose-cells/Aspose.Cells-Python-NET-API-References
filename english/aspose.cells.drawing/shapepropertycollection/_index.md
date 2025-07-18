@@ -3,7 +3,7 @@ title: ShapePropertyCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 580
 url: /aspose.cells.drawing/shapepropertycollection/
 is_root: false
 ---

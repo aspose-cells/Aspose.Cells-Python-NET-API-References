@@ -3,7 +3,7 @@ title: PatternFill class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 410
 url: /aspose.cells.drawing/patternfill/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Encapsulates the object that represents pattern fill format
 
 
 
-**Inheritance:** [`PatternFill`](/cells/python-net/aspose.cells.drawing/patternfill) → 
-[`Fill`](/cells/python-net/aspose.cells.drawing/fill)
+**Inheritance:** [`PatternFill`](/cells/python-net/aspose.cells.drawing/patternfill)
 
 
 
@@ -38,5 +37,4 @@ The PatternFill type exposes the following members:
 * module [`aspose.cells.drawing`](..)
 * class [`Area`](/cells/python-net/aspose.cells.drawing/area)
 * class [`CellsColor`](/cells/python-net/aspose.cells/cellscolor)
-* class [`Fill`](/cells/python-net/aspose.cells.drawing/fill)
 * class [`PatternFill`](/cells/python-net/aspose.cells.drawing/patternfill)

@@ -3,7 +3,7 @@ title: PresetMaterialType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1080
+weight: 1060
 url: /aspose.cells.drawing/presetmaterialtype/
 is_root: false
 ---

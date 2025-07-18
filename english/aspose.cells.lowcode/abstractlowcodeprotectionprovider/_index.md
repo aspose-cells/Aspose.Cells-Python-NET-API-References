@@ -3,7 +3,7 @@ title: AbstractLowCodeProtectionProvider class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 10
 url: /aspose.cells.lowcode/abstractlowcodeprotectionprovider/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: significant_digits property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 500
 url: /aspose.cells/workbooksettings/significant_digits/
 is_root: false
 ---

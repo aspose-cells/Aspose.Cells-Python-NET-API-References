@@ -10,7 +10,8 @@ is_root: false
 
 ## line_to(self, x, y) {#float-float}
 
-Appends a line segment to the current figure. The starting point is the end point of the current figure.
+Appends a line segment to the current figure.
+The starting point is the end point of the current figure.
 
 
 
@@ -23,8 +24,8 @@ def line_to(self, x, y):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| x | float | The x-coordinate of the endpoint of the line segment. |
-| y | float | The y-coordinate of the endpoint of the line segment. |
+| x | float | The x-coordinate of the endpoint of the line segment(Unit: Pixel). |
+| y | float | The y-coordinate of the endpoint of the line segment(Unit: Pixel). |
 
 
 

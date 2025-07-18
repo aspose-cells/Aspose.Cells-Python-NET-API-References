@@ -10,8 +10,6 @@ is_root: false
 
 ## workbook property
 
-
-Gets the [`ActiveXControlBase.workbook`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) object.
 ### Definition:
 ```python
 @property

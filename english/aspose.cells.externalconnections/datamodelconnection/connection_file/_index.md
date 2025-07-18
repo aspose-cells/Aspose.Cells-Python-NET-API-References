@@ -10,8 +10,6 @@ is_root: false
 
 ## connection_file property
 
-
-Gets the connection file.
 ### Definition:
 ```python
 @property

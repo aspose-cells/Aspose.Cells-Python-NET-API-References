@@ -3,7 +3,7 @@ title: type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1190
+weight: 1180
 url: /aspose.cells.drawing/arcshape/type/
 is_root: false
 ---

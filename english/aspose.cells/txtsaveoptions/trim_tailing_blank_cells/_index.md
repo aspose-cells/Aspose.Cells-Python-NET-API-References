@@ -3,7 +3,7 @@ title: trim_tailing_blank_cells property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 240
 url: /aspose.cells/txtsaveoptions/trim_tailing_blank_cells/
 is_root: false
 ---
@@ -18,7 +18,7 @@ Indicates whether tailing blank cells in one row should be trimmed. Default is f
 
 When saving with LightCells mode and the [`TxtSaveOptions.export_area`](/cells/python-net/aspose.cells/txtsaveoptions#export_area) has not been specified,
 this option takes no effect and one row will be extended to just the last cell provided by
-the implementation [`TxtSaveOptions.light_cells_data_provider`](/cells/python-net/aspose.cells/txtsaveoptions#light_cells_data_provider)
+the implementation [`TxtSaveOptions.LightCellsDataProvider`](/cells/python-net/aspose.cells/txtsaveoptions)
 ### Definition:
 ```python
 @property

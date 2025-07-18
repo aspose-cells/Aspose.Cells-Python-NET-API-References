@@ -23,7 +23,7 @@ def __init__(self, terminate_without_exception):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| terminate_without_exception | bool | [`AbstractInterruptMonitor.terminate_without_exception`](/cells/python-net/aspose.cells/abstractinterruptmonitor#terminate_without_exception) |
+| terminate_without_exception | bool | TerminateWithoutException |
 
 
 

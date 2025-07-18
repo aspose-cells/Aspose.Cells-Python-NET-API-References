@@ -3,7 +3,7 @@ title: PictureCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 440
 url: /aspose.cells.drawing/picturecollection/
 is_root: false
 ---

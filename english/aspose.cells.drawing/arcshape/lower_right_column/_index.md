@@ -3,7 +3,7 @@ title: lower_right_column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 850
+weight: 840
 url: /aspose.cells.drawing/arcshape/lower_right_column/
 is_root: false
 ---

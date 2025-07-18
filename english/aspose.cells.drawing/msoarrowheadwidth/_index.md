@@ -3,7 +3,7 @@ title: MsoArrowheadWidth enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1000
+weight: 980
 url: /aspose.cells.drawing/msoarrowheadwidth/
 is_root: false
 ---

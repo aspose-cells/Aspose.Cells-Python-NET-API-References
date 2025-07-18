@@ -3,7 +3,7 @@ title: ControlScrollOrientation enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 230
 url: /aspose.cells.drawing.activexcontrols/controlscrollorientation/
 is_root: false
 ---

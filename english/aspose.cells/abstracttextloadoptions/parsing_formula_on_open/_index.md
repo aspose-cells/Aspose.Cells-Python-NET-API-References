@@ -3,7 +3,7 @@ title: parsing_formula_on_open property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 220
 url: /aspose.cells/abstracttextloadoptions/parsing_formula_on_open/
 is_root: false
 ---

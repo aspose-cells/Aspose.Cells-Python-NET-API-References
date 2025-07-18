@@ -3,7 +3,7 @@ title: InsertOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1030
+weight: 890
 url: /aspose.cells/insertoptions/
 is_root: false
 ---
@@ -27,7 +27,6 @@ The InsertOptions type exposes the following members:
 | :- | :- |
 | [copy_format_type](/cells/python-net/aspose.cells/insertoptions/copy_format_type) |  |
 | [update_reference](/cells/python-net/aspose.cells/insertoptions/update_reference) | Indicates if references in other worksheets will be updated. |
-| [formula_change_monitor](/cells/python-net/aspose.cells/insertoptions/formula_change_monitor) | Gets/sets the monitor for tracking changes caused by the insertion. |
 
 
 

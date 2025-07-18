@@ -3,7 +3,7 @@ title: LowCodeMergeOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 80
 url: /aspose.cells.lowcode/lowcodemergeoptions/
 is_root: false
 ---
@@ -26,7 +26,6 @@ The LowCodeMergeOptions type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [save_options](/cells/python-net/aspose.cells.lowcode/lowcodemergeoptions/save_options) | Save options for saving the split parts. |
-| [load_options_provider](/cells/python-net/aspose.cells.lowcode/lowcodemergeoptions/load_options_provider) | Provider of save options for saving the split parts. |
 
 
 

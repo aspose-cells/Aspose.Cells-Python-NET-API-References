@@ -123,7 +123,6 @@ The ChartShape type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/chartshape/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/chartshape/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/chartshape/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/chartshape/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/chartshape/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/chartshape/is_decorative) | Indicates whether the object is decorative. |
 | [chart](/cells/python-net/aspose.cells.drawing/chartshape/chart) | Returns a Chart object that represents the chart contained in the object. |

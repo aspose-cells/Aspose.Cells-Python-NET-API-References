@@ -3,7 +3,7 @@ title: ExportObjectEvent class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 550
 url: /aspose.cells/exportobjectevent/
 is_root: false
 ---

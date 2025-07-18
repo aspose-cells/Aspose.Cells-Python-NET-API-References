@@ -3,7 +3,7 @@ title: TimePeriodType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2830
+weight: 2650
 url: /aspose.cells/timeperiodtype/
 is_root: false
 ---

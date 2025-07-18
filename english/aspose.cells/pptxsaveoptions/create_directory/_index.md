@@ -10,13 +10,6 @@ is_root: false
 
 ## create_directory property
 
-
-If true and the directory does not exist, the directory will be automatically created before saving the file.
-
-### Remarks 
-
-
-The default value is false.
 ### Definition:
 ```python
 @property

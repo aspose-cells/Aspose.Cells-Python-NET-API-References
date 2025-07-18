@@ -3,7 +3,7 @@ title: PictureBulletValue class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 60
 url: /aspose.cells.drawing.texts/picturebulletvalue/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents the value of the image bullet.
 
 
 
-**Inheritance:** [`PictureBulletValue`](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue) → 
-[`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
+**Inheritance:** [`PictureBulletValue`](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue)
 
 
 
@@ -37,5 +36,4 @@ The PictureBulletValue type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.drawing.texts`](..)
-* class [`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
 * class [`PictureBulletValue`](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue)

@@ -3,19 +3,18 @@ title: SystemTimeInterruptMonitor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1560
+weight: 1390
 url: /aspose.cells/systemtimeinterruptmonitor/
 is_root: false
 ---
 
 ## SystemTimeInterruptMonitor class
 
-Simple implementation of [`AbstractInterruptMonitor`](/cells/python-net/aspose.cells/abstractinterruptmonitor) by checking and comparing current system time with user specified limit.
+Simple implementation of AbstractInterruptMonitor by checking and comparing current system time with user specified limit.
 
 
 
-**Inheritance:** [`SystemTimeInterruptMonitor`](/cells/python-net/aspose.cells/systemtimeinterruptmonitor) → 
-[`AbstractInterruptMonitor`](/cells/python-net/aspose.cells/abstractinterruptmonitor)
+**Inheritance:** [`SystemTimeInterruptMonitor`](/cells/python-net/aspose.cells/systemtimeinterruptmonitor)
 
 
 
@@ -31,7 +30,7 @@ The SystemTimeInterruptMonitor type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [is_interruption_requested](/cells/python-net/aspose.cells/systemtimeinterruptmonitor/is_interruption_requested) | This implementation just checks whether the time cost(from the time when starting this monitor to now) is greater than user specified limit. |
-| [terminate_without_exception](/cells/python-net/aspose.cells/systemtimeinterruptmonitor/terminate_without_exception) | See [`AbstractInterruptMonitor.terminate_without_exception`](/cells/python-net/aspose.cells/abstractinterruptmonitor#terminate_without_exception).<br/>This property is specified by user when constructing this monitor instance. |
+| [terminate_without_exception](/cells/python-net/aspose.cells/systemtimeinterruptmonitor/terminate_without_exception) | See TerminateWithoutException.<br/>This property is specified by user when constructing this monitor instance. |
 
 
 ### Methods
@@ -47,27 +46,6 @@ The SystemTimeInterruptMonitor type exposes the following members:
 This implementation is just a simple solution for simple scenarios.
 It needs to frequently retrieve and check the system time so itself may have a negative impact on performance to some extent.
 
-### Example 
-
-
-The following example shows how to monitor the load and save procedure with specified time limit:
-
-```python
-from aspose.cells import LoadOptions, SystemTimeInterruptMonitor, Workbook
-
-monitor = SystemTimeInterruptMonitor(False)
-lopts = LoadOptions()
-lopts.interrupt_monitor = monitor
-monitor.start_monitor(1000)
-wb = Workbook("Large.xlsx", lopts)
-# if the time cost of loading the template file exceeds one second, interruption will be required and exception will be thrown here
-# otherwise starts to monitor the save procedure
-monitor.start_monitor(1500)
-wb.save("result.xlsx")
-
-```
-
 ### See Also
 * module [`aspose.cells`](..)
-* class [`AbstractInterruptMonitor`](/cells/python-net/aspose.cells/abstractinterruptmonitor)
 * class [`SystemTimeInterruptMonitor`](/cells/python-net/aspose.cells/systemtimeinterruptmonitor)

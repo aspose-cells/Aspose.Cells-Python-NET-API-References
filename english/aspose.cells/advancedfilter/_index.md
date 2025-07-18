@@ -3,7 +3,7 @@ title: AdvancedFilter class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 30
 url: /aspose.cells/advancedfilter/
 is_root: false
 ---

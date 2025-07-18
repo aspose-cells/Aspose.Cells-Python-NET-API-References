@@ -3,7 +3,7 @@ title: top_in_shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1110
+weight: 1100
 url: /aspose.cells.drawing/groupbox/top_in_shape/
 is_root: false
 ---

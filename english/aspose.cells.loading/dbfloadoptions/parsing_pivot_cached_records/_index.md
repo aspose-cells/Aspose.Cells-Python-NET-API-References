@@ -3,7 +3,7 @@ title: parsing_pivot_cached_records property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 180
 url: /aspose.cells.loading/dbfloadoptions/parsing_pivot_cached_records/
 is_root: false
 ---

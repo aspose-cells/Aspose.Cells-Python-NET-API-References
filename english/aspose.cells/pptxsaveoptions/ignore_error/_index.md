@@ -10,9 +10,6 @@ is_root: false
 
 ## ignore_error property
 
-
-Indicates if you need to hide the error while rendering.
-The error can be error in shape, image, chart rendering, etc.
 ### Definition:
 ```python
 @property

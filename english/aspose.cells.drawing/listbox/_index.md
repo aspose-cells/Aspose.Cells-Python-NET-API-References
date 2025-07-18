@@ -3,7 +3,7 @@ title: ListBox class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 300
 url: /aspose.cells.drawing/listbox/
 is_root: false
 ---
@@ -122,7 +122,6 @@ The ListBox type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/listbox/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/listbox/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/listbox/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/listbox/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/listbox/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/listbox/is_decorative) | Indicates whether the object is decorative. |
 | [item_count](/cells/python-net/aspose.cells.drawing/listbox/item_count) | Gets the number of items in the list box. |

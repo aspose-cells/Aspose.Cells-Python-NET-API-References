@@ -10,8 +10,6 @@ is_root: false
 
 ## shadow property
 
-
-Indicates whether to show a shadow.
 ### Definition:
 ```python
 @property

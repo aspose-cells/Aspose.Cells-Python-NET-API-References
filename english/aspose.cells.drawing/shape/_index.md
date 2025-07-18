@@ -3,7 +3,7 @@ title: Shape class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 520
+weight: 500
 url: /aspose.cells.drawing/shape/
 is_root: false
 ---
@@ -117,7 +117,6 @@ The Shape type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/shape/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/shape/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/shape/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/shape/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/shape/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/shape/is_decorative) | Indicates whether the object is decorative. |
 

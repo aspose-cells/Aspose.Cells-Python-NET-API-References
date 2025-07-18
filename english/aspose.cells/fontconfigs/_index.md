@@ -3,7 +3,7 @@ title: FontConfigs class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 670
 url: /aspose.cells/fontconfigs/
 is_root: false
 ---
@@ -38,7 +38,7 @@ The FontConfigs type exposes the following members:
 | [`get_font_substitutes(, original_font_name)`](/cells/python-net/aspose.cells/fontconfigs/get_font_substitutes/#str) | Returns array containing font substitute names to be used if original font is not presented. |
 | [`set_font_folder(, font_folder, recursive)`](/cells/python-net/aspose.cells/fontconfigs/set_font_folder/#str-bool) | Sets the fonts folder |
 | [`set_font_folders(, font_folders, recursive)`](/cells/python-net/aspose.cells/fontconfigs/set_font_folders/#list-bool) | Sets the fonts folders |
-| [`set_font_sources(, sources)`](/cells/python-net/aspose.cells/fontconfigs/set_font_sources/#list) | Sets the fonts sources. |
+| [`set_font_sources(, sources)`](/cells/python-net/aspose.cells/fontconfigs/set_font_sources/#list) |  |
 | [`get_font_sources()`](/cells/python-net/aspose.cells/fontconfigs/get_font_sources/#) | Gets a copy of the array that contains the list of sources |
 
 

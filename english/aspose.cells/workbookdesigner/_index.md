@@ -3,7 +3,7 @@ title: WorkbookDesigner class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1750
+weight: 1580
 url: /aspose.cells/workbookdesigner/
 is_root: false
 ---
@@ -31,14 +31,14 @@ The WorkbookDesigner type exposes the following members:
 | [update_empty_string_as_null](/cells/python-net/aspose.cells/workbookdesigner/update_empty_string_as_null) | If TRUE, Null will be inserted if the value is ""; |
 | [update_reference](/cells/python-net/aspose.cells/workbookdesigner/update_reference) | Indicates if references in other worksheets will be updated. |
 | [calculate_formula](/cells/python-net/aspose.cells/workbookdesigner/calculate_formula) | Indicates whether formulas should be calculated. |
-| [call_back](/cells/python-net/aspose.cells/workbookdesigner/call_back) | Gets and sets callback interface of processing smartmarker. |
 | [line_by_line](/cells/python-net/aspose.cells/workbookdesigner/line_by_line) | Indicates whether processing the smart marker line by line. |
+| [contains_variables](/cells/python-net/aspose.cells/workbookdesigner/contains_variables) | Indicates whether the first worksheet contains custom variables. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`set_data_source(self, data_source, cells_data_table)`](/cells/python-net/aspose.cells/workbookdesigner/set_data_source/#str-aspose.cells.icellsdatatable) | Sets data source of a [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable) object. |
+| [`set_data_source(self, data_source, cells_data_table)`](/cells/python-net/aspose.cells/workbookdesigner/set_data_source/#str-icellsdatatable) |  |
 | [`set_data_source(self, variable, data)`](/cells/python-net/aspose.cells/workbookdesigner/set_data_source/#str-any) | Sets data binding to a variable. |
 | [`process(self, range, is_preserved)`](/cells/python-net/aspose.cells/workbookdesigner/process/#aspose.cells.range-bool) | Processes the smart markers and populates the data source values. |
 | [`process(self)`](/cells/python-net/aspose.cells/workbookdesigner/process/#) | Processes the smart markers and populates the data source values. |
@@ -74,5 +74,4 @@ wd.workbook.save("outSmartMarker_Designer.xls")
 
 ### See Also
 * module [`aspose.cells`](..)
-* class [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable)
 * class [`WorkbookDesigner`](/cells/python-net/aspose.cells/workbookdesigner)

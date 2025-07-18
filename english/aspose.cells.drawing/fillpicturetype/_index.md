@@ -3,7 +3,7 @@ title: FillPictureType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 810
 url: /aspose.cells.drawing/fillpicturetype/
 is_root: false
 ---

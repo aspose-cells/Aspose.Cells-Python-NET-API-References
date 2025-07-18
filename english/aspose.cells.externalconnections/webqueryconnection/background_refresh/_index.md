@@ -10,10 +10,6 @@ is_root: false
 
 ## background_refresh property
 
-
-Indicates whether the connection can be refreshed in the background (asynchronously). 
-true if preferred usage of the connection is to refresh asynchronously in the background; 
-false if preferred usage of the connection is to refresh synchronously in the foreground.
 ### Definition:
 ```python
 @property

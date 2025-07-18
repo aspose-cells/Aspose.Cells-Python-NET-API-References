@@ -3,7 +3,7 @@ title: need_quote_in_formula method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells/cellshelper/need_quote_in_formula/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: ErrorCheckType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2180
+weight: 2000
 url: /aspose.cells/errorchecktype/
 is_root: false
 ---

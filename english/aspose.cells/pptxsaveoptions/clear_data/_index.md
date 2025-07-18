@@ -10,8 +10,6 @@ is_root: false
 
 ## clear_data property
 
-
-Make the workbook empty after saving the file.
 ### Definition:
 ```python
 @property

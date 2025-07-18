@@ -3,7 +3,7 @@ title: RadioButton class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 450
 url: /aspose.cells.drawing/radiobutton/
 is_root: false
 ---
@@ -122,7 +122,6 @@ The RadioButton type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/radiobutton/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/radiobutton/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/radiobutton/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/radiobutton/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/radiobutton/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/radiobutton/is_decorative) | Indicates whether the object is decorative. |
 | [is_checked](/cells/python-net/aspose.cells.drawing/radiobutton/is_checked) | Indicates if the radiobutton is checked or not. |

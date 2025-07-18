@@ -3,7 +3,7 @@ title: NoneBulletValue class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 50
 url: /aspose.cells.drawing.texts/nonebulletvalue/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents no bullet.
 
 
 
-**Inheritance:** [`NoneBulletValue`](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue) → 
-[`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
+**Inheritance:** [`NoneBulletValue`](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue)
 
 
 
@@ -36,5 +35,4 @@ The NoneBulletValue type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.drawing.texts`](..)
-* class [`BulletValue`](/cells/python-net/aspose.cells.drawing.texts/bulletvalue)
 * class [`NoneBulletValue`](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue)

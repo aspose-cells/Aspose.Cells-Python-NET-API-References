@@ -3,7 +3,7 @@ title: CellWatchCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 150
 url: /aspose.cells/cellwatchcollection/
 is_root: false
 ---

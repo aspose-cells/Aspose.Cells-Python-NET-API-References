@@ -3,7 +3,7 @@ title: ControlCaptionAlignmentType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 150
 url: /aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype/
 is_root: false
 ---

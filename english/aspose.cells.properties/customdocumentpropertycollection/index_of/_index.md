@@ -10,13 +10,8 @@ is_root: false
 
 ## index_of(self, name) {#str}
 
-Gets the index of a property by name.
 
 
-### Returns 
-
-
-The zero based index. Negative value if not found.
 
 
 ```python
@@ -28,7 +23,7 @@ def index_of(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The case-insensitive name of the property. |
+| name | str |  |
 
 
 ## index_of(self, item, index) {#aspose.cells.properties.DocumentProperty-int}

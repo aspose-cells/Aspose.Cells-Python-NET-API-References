@@ -3,7 +3,7 @@ title: is_dynamic_data_exchange property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 640
 url: /aspose.cells.drawing/picture/is_dynamic_data_exchange/
 is_root: false
 ---

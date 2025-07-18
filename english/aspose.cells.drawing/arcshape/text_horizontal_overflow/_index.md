@@ -3,7 +3,7 @@ title: text_horizontal_overflow property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1060
+weight: 1050
 url: /aspose.cells.drawing/arcshape/text_horizontal_overflow/
 is_root: false
 ---

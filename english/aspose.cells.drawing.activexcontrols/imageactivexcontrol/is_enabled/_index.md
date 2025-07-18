@@ -10,8 +10,6 @@ is_root: false
 
 ## is_enabled property
 
-
-Indicates whether the control can receive the focus and respond to user-generated events.
 ### Definition:
 ```python
 @property

@@ -10,8 +10,6 @@ is_root: false
 
 ## equation_type property
 
-
-Get the equation type of the current node
 ### Definition:
 ```python
 @property

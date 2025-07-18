@@ -10,8 +10,6 @@ is_root: false
 
 ## linked_cell property
 
-
-Gets and sets the linked cell.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: TimelineShape class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 740
+weight: 720
 url: /aspose.cells.drawing/timelineshape/
 is_root: false
 ---
@@ -122,7 +122,6 @@ The TimelineShape type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/timelineshape/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/timelineshape/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/timelineshape/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/timelineshape/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/timelineshape/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/timelineshape/is_decorative) | Indicates whether the object is decorative. |
 

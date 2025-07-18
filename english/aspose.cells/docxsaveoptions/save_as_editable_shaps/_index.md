@@ -3,7 +3,7 @@ title: save_as_editable_shaps property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /aspose.cells/docxsaveoptions/save_as_editable_shaps/
 is_root: false
 ---

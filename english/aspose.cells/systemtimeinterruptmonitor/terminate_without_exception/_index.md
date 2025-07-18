@@ -11,7 +11,7 @@ is_root: false
 ## terminate_without_exception property
 
 
-See [`AbstractInterruptMonitor.terminate_without_exception`](/cells/python-net/aspose.cells/abstractinterruptmonitor#terminate_without_exception).
+See TerminateWithoutException.
 This property is specified by user when constructing this monitor instance.
 ### Definition:
 ```python

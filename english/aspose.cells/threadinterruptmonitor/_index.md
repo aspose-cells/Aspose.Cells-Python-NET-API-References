@@ -3,19 +3,18 @@ title: ThreadInterruptMonitor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1580
+weight: 1410
 url: /aspose.cells/threadinterruptmonitor/
 is_root: false
 ---
 
 ## ThreadInterruptMonitor class
 
-Simple implementation of [`AbstractInterruptMonitor`](/cells/python-net/aspose.cells/abstractinterruptmonitor) by starting another thread to require the interruption after sleeping user specified limit.
+Simple implementation of AbstractInterruptMonitor by starting another thread to require the interruption after sleeping user specified limit.
 
 
 
-**Inheritance:** [`ThreadInterruptMonitor`](/cells/python-net/aspose.cells/threadinterruptmonitor) → 
-[`AbstractInterruptMonitor`](/cells/python-net/aspose.cells/abstractinterruptmonitor)
+**Inheritance:** [`ThreadInterruptMonitor`](/cells/python-net/aspose.cells/threadinterruptmonitor)
 
 
 
@@ -31,7 +30,7 @@ The ThreadInterruptMonitor type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [is_interruption_requested](/cells/python-net/aspose.cells/threadinterruptmonitor/is_interruption_requested) | This implementation just checks whether the time cost(from the time when starting this monitor to now) is greater than user specified limit. |
-| [terminate_without_exception](/cells/python-net/aspose.cells/threadinterruptmonitor/terminate_without_exception) | See [`AbstractInterruptMonitor.terminate_without_exception`](/cells/python-net/aspose.cells/abstractinterruptmonitor#terminate_without_exception).<br/>This property is specified by user when constructing this monitor instance. |
+| [terminate_without_exception](/cells/python-net/aspose.cells/threadinterruptmonitor/terminate_without_exception) | See TerminateWithoutException.<br/>This property is specified by user when constructing this monitor instance. |
 
 
 ### Methods
@@ -48,29 +47,6 @@ The ThreadInterruptMonitor type exposes the following members:
 One monitor instance can be used repeatedly, as long as you monitor each process in sequence.
 It should not be used to monitor multiple procedures concurrently in multi-threads.
 
-### Example 
-
-
-The following example shows how to monitor the load and save procedure with specified time limit:
-
-```python
-from aspose.cells import LoadOptions, ThreadInterruptMonitor, Workbook
-
-monitor = ThreadInterruptMonitor(False)
-lopts = LoadOptions()
-lopts.interrupt_monitor = monitor
-monitor.start_monitor(1000)
-wb = Workbook("Large.xlsx", lopts)
-# if the time cost of loading the template file exceeds one second, interruption will be required and exception will be thrown here
-# otherwise finishes the monitor thread and starts to monitor the save procedure
-monitor.finish_monitor()
-monitor.start_monitor(1500)
-wb.save("result.xlsx")
-monitor.finish_monitor()
-
-```
-
 ### See Also
 * module [`aspose.cells`](..)
-* class [`AbstractInterruptMonitor`](/cells/python-net/aspose.cells/abstractinterruptmonitor)
 * class [`ThreadInterruptMonitor`](/cells/python-net/aspose.cells/threadinterruptmonitor)

@@ -3,7 +3,7 @@ title: OLEDBCommandType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 120
 url: /aspose.cells.externalconnections/oledbcommandtype/
 is_root: false
 ---

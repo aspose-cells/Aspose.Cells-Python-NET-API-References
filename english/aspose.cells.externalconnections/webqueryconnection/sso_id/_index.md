@@ -10,9 +10,6 @@ is_root: false
 
 ## sso_id property
 
-
-Identifier for Single Sign On (SSO) used for authentication between an intermediate 
-spreadsheetML server and the external data source.
 ### Definition:
 ```python
 @property

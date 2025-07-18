@@ -3,7 +3,7 @@ title: StyleModifyFlag enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2740
+weight: 2560
 url: /aspose.cells/stylemodifyflag/
 is_root: false
 ---

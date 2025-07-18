@@ -10,8 +10,6 @@ is_root: false
 
 ## save_password property
 
-
-True if the password is to be saved as part of the connection string; otherwise, False.
 ### Definition:
 ```python
 @property

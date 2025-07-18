@@ -10,11 +10,6 @@ is_root: false
 
 ## to_math_ml(self) {#}
 
-Convert this equtation to MathML expression.
-
-
-### Returns 
-
 
 
 

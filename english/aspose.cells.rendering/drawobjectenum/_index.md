@@ -3,7 +3,7 @@ title: DrawObjectEnum enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 180
 url: /aspose.cells.rendering/drawobjectenum/
 is_root: false
 ---

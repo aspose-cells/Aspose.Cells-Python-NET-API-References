@@ -3,7 +3,7 @@ title: BorderCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 70
 url: /aspose.cells/bordercollection/
 is_root: false
 ---

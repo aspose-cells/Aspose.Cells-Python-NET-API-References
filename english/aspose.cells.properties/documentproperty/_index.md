@@ -37,22 +37,5 @@ The DocumentProperty type exposes the following members:
 
 
 
-### Example 
-
-
-```python
-from aspose.cells import Workbook
-
-# Instantiate a Workbook object
-workbook = Workbook("book1.xls")
-# Retrieve a list of all custom document properties of the Excel file
-customProperties = workbook.worksheets.custom_document_properties
-# Accessng a custom document property by using the property index
-customProperty1 = customProperties[3]
-# Accessng a custom document property by using the property name
-customProperty2 = customProperties.get("Owner")
-
-```
-
 ### See Also
 * module [`aspose.cells.properties`](..)

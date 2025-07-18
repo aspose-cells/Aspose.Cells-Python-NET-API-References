@@ -35,5 +35,4 @@ def active_x_control(self):
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
-* class [`ActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol)
 * class [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape)

@@ -3,7 +3,7 @@ title: Spinner class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 650
 url: /aspose.cells.drawing/spinner/
 is_root: false
 ---
@@ -122,7 +122,6 @@ The Spinner type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/spinner/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/spinner/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/spinner/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/spinner/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/spinner/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/spinner/is_decorative) | Indicates whether the object is decorative. |
 | [current_value](/cells/python-net/aspose.cells.drawing/spinner/current_value) | Gets or sets the current value. |

@@ -10,8 +10,6 @@ is_root: false
 
 ## is_locked property
 
-
-Indicates whether data in the control is locked for editing.
 ### Definition:
 ```python
 @property

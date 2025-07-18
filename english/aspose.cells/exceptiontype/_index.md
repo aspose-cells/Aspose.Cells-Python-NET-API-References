@@ -3,7 +3,7 @@ title: ExceptionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2190
+weight: 2010
 url: /aspose.cells/exceptiontype/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: ShapeTextAlignment class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 70
 url: /aspose.cells.drawing.texts/shapetextalignment/
 is_root: false
 ---

@@ -10,7 +10,7 @@ is_root: false
 
 ## get(self, name) {#str}
 
-Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) object by the name of the property.
+
 
 
 
@@ -23,17 +23,10 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The case-insensitive name of the property to retrieve. |
-### Remarks
+| name | str |  |
 
-Returns null if a property with the specified name is not found.
 
 ## get(self, index) {#int}
-
-Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) object by index.
-
-
-### Returns 
 
 
 
@@ -48,11 +41,10 @@ def get(self, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| index | int | Zero-based index of the [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) to retrieve. |
+| index | int |  |
 
 
 
 ### See Also
 * module [`aspose.cells.properties`](../../)
 * class [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
-* class [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty)

@@ -3,15 +3,13 @@ title: custom_render_settings property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells/docxsaveoptions/custom_render_settings/
 is_root: false
 ---
 
 ## custom_render_settings property
 
-
-Gets or sets custom settings during rendering.
 ### Definition:
 ```python
 @property

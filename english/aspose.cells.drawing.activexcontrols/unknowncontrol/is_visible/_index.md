@@ -10,8 +10,6 @@ is_root: false
 
 ## is_visible property
 
-
-Indicates whether this control is visible.
 ### Definition:
 ```python
 @property

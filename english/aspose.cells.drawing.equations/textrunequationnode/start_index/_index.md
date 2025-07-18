@@ -3,15 +3,13 @@ title: start_index property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 180
 url: /aspose.cells.drawing.equations/textrunequationnode/start_index/
 is_root: false
 ---
 
 ## start_index property
 
-
-Gets the start index of the characters.
 ### Definition:
 ```python
 @property

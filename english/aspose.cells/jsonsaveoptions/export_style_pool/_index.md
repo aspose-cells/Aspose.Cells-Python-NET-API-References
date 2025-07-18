@@ -11,7 +11,7 @@ is_root: false
 ## export_style_pool property
 
 
-Exporting style pool when converting to json struct.
+Indicates whether to export styles collectively or individually to each cell.
 ### Definition:
 ```python
 @property

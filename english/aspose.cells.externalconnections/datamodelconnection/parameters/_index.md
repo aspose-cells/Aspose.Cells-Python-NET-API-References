@@ -10,8 +10,6 @@ is_root: false
 
 ## parameters property
 
-
-Gets [`ConnectionParameterCollection`](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection) for an ODBC or web query.
 ### Definition:
 ```python
 @property

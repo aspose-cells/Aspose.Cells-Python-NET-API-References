@@ -3,7 +3,7 @@ title: standard_font_size property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 240
 url: /aspose.cells.numbers/numbersloadoptions/standard_font_size/
 is_root: false
 ---

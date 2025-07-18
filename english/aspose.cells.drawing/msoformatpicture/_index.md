@@ -3,7 +3,7 @@ title: MsoFormatPicture class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 330
 url: /aspose.cells.drawing/msoformatpicture/
 is_root: false
 ---

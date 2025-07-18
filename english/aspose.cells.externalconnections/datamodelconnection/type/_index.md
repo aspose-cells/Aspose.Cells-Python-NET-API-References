@@ -10,16 +10,6 @@ is_root: false
 
 ## type property
 
-
-Gets or Sets the external connection DataSource type.
-
-### Remarks 
-
-
-NOTE: This property is now obsolete. Instead, 
-please use ExternalConnection.SourceType property.
-This property will be removed 12 months later since October 2024. 
-Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: is_rich_text property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 640
 url: /aspose.cells.drawing/rectangleshape/is_rich_text/
 is_root: false
 ---

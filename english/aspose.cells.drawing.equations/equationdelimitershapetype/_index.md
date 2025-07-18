@@ -3,7 +3,7 @@ title: EquationDelimiterShapeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 220
 url: /aspose.cells.drawing.equations/equationdelimitershapetype/
 is_root: false
 ---

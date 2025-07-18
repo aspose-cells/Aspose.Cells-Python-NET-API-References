@@ -3,7 +3,7 @@ title: Name class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1160
+weight: 1000
 url: /aspose.cells/name/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: is_text_wrapped property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 660
 url: /aspose.cells.drawing/timelineshape/is_text_wrapped/
 is_root: false
 ---

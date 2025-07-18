@@ -10,8 +10,6 @@ is_root: false
 
 ## source_type property
 
-
-Gets or Sets the external connection DataSource type.
 ### Definition:
 ```python
 @property

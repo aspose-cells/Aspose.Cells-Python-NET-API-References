@@ -10,8 +10,6 @@ is_root: false
 
 ## width property
 
-
-Gets and sets the width of the control in unit of points.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: GradientStyleType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 900
+weight: 880
 url: /aspose.cells.drawing/gradientstyletype/
 is_root: false
 ---

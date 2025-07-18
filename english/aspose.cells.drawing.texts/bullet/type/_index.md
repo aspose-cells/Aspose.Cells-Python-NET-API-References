@@ -3,7 +3,7 @@ title: type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 40
 url: /aspose.cells.drawing.texts/bullet/type/
 is_root: false
 ---

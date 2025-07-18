@@ -10,8 +10,6 @@ is_root: false
 
 ## is_auto_size property
 
-
-Indicates whether the control will automatically resize to display its entire contents.
 ### Definition:
 ```python
 @property

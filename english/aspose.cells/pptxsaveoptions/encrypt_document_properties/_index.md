@@ -10,14 +10,6 @@ is_root: false
 
 ## encrypt_document_properties property
 
-
-Indicates whether encrypt document properties when saving as .xls file.
-The default value is true.
-
-### Remarks 
-
-
-Only for .xls,xlsx,xlsb and xlsm file.
 ### Definition:
 ```python
 @property

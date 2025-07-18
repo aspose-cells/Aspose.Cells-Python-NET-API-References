@@ -3,7 +3,7 @@ title: Cells class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 160
 url: /aspose.cells/cells/
 is_root: false
 ---
@@ -27,6 +27,7 @@ The Cells type exposes the following members:
 | [multi_thread_reading](/cells/python-net/aspose.cells/cells/multi_thread_reading) | Gets or sets whether the cells data model should support Multi-Thread reading.<br/>Default value of this property is false. |
 | [memory_setting](/cells/python-net/aspose.cells/cells/memory_setting) | Gets or sets the memory usage option for this cells. |
 | [style](/cells/python-net/aspose.cells/cells/style) | Gets and sets the default style of the worksheet. |
+| [is_default_column_hidden](/cells/python-net/aspose.cells/cells/is_default_column_hidden) |  |
 | [standard_width_inch](/cells/python-net/aspose.cells/cells/standard_width_inch) | Gets or sets the default column width in the worksheet, in unit of inches. |
 | [standard_width_pixels](/cells/python-net/aspose.cells/cells/standard_width_pixels) | Gets or sets the default column width in the worksheet, in unit of pixels. |
 | [standard_width](/cells/python-net/aspose.cells/cells/standard_width) | Gets or sets the default column width in the worksheet, in unit of characters. |
@@ -40,7 +41,7 @@ The Cells type exposes the following members:
 | [max_column](/cells/python-net/aspose.cells/cells/max_column) | Maximum column index of those cells that have been instantiated in the collection(does not include the column<br/>where style is defined for the whole column but no cell has been instantiated in it). |
 | [min_data_row](/cells/python-net/aspose.cells/cells/min_data_row) | Minimum row index of cell which contains data. |
 | [max_data_row](/cells/python-net/aspose.cells/cells/max_data_row) | Maximum row index of cell which contains data. |
-| [min_data_column](/cells/python-net/aspose.cells/cells/min_data_column) |  |
+| [min_data_column](/cells/python-net/aspose.cells/cells/min_data_column) | Minimum column index of cell which contains data. |
 | [max_data_column](/cells/python-net/aspose.cells/cells/max_data_column) | Maximum column index of cell which contains data. |
 | [is_default_row_height_matched](/cells/python-net/aspose.cells/cells/is_default_row_height_matched) | Indicates that row height and default font height matches |
 | [is_default_row_hidden](/cells/python-net/aspose.cells/cells/is_default_row_hidden) | Indicates whether the row is default hidden. |

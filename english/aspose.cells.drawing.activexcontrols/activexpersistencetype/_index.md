@@ -3,7 +3,7 @@ title: ActiveXPersistenceType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 130
 url: /aspose.cells.drawing.activexcontrols/activexpersistencetype/
 is_root: false
 ---

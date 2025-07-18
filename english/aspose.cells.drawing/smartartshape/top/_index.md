@@ -3,7 +3,7 @@ title: top property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1080
+weight: 1070
 url: /aspose.cells.drawing/smartartshape/top/
 is_root: false
 ---

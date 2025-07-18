@@ -3,7 +3,7 @@ title: update_smart_art property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 150
 url: /aspose.cells/svgsaveoptions/update_smart_art/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: TxtSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1670
+weight: 1500
 url: /aspose.cells/txtsaveoptions/
 is_root: false
 ---
@@ -40,7 +40,6 @@ The TxtSaveOptions type exposes the following members:
 | [sort_names](/cells/python-net/aspose.cells/txtsaveoptions/sort_names) | Indicates whether sorting defined names before saving file. |
 | [sort_external_names](/cells/python-net/aspose.cells/txtsaveoptions/sort_external_names) | Indicates whether sorting external defined names before saving file. |
 | [refresh_chart_cache](/cells/python-net/aspose.cells/txtsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
-| [warning_callback](/cells/python-net/aspose.cells/txtsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [check_excel_restriction](/cells/python-net/aspose.cells/txtsaveoptions/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K, it will be truncated. |
 | [update_smart_art](/cells/python-net/aspose.cells/txtsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
 | [encrypt_document_properties](/cells/python-net/aspose.cells/txtsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
@@ -50,7 +49,6 @@ The TxtSaveOptions type exposes the following members:
 | [always_quoted](/cells/python-net/aspose.cells/txtsaveoptions/always_quoted) | Indicates whether always adding '"' for each field.<br/>If true then all values will be quoted;<br/>If false then values will only be quoted when needed(for example,<br/>when values contain special characters such as '"' , '\n' or separator character).<br/>Default is false. |
 | [quote_type](/cells/python-net/aspose.cells/txtsaveoptions/quote_type) | Gets or sets how to quote values in the exported text file. |
 | [format_strategy](/cells/python-net/aspose.cells/txtsaveoptions/format_strategy) | Gets and sets the format strategy when exporting the cell value as string. |
-| [light_cells_data_provider](/cells/python-net/aspose.cells/txtsaveoptions/light_cells_data_provider) | The data provider for saving workbook in light mode. |
 | [trim_leading_blank_row_and_column](/cells/python-net/aspose.cells/txtsaveoptions/trim_leading_blank_row_and_column) | Indicates whether leading blank rows and columns should be trimmed like what ms excel does.<br/>Default is true. |
 | [trim_tailing_blank_cells](/cells/python-net/aspose.cells/txtsaveoptions/trim_tailing_blank_cells) | Indicates whether tailing blank cells in one row should be trimmed. Default is false. |
 | [keep_separators_for_blank_row](/cells/python-net/aspose.cells/txtsaveoptions/keep_separators_for_blank_row) | Indicates whether separators should be output for blank row.<br/>Default value is false so by default the content for blank row will be empty. |

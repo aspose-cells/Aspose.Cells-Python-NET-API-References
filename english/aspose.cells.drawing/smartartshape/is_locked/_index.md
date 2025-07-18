@@ -3,7 +3,7 @@ title: is_locked property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 620
 url: /aspose.cells.drawing/smartartshape/is_locked/
 is_root: false
 ---

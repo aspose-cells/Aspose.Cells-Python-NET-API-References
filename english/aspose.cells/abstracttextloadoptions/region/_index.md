@@ -3,7 +3,7 @@ title: region property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 260
 url: /aspose.cells/abstracttextloadoptions/region/
 is_root: false
 ---

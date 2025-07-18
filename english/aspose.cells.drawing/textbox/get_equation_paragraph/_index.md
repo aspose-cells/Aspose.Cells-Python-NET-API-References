@@ -57,5 +57,4 @@ def get_equation_paragraph(self, index):
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
-* class [`EquationNode`](/cells/python-net/aspose.cells.drawing.equations/equationnode)
 * class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

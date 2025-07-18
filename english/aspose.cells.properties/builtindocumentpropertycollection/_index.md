@@ -14,8 +14,7 @@ A collection of built-in document properties.
 
 
 
-**Inheritance:** [`BuiltInDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection) → 
-[`DocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/documentpropertycollection)
+**Inheritance:** [`BuiltInDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection)
 
 
 
@@ -65,8 +64,8 @@ The BuiltInDocumentPropertyCollection type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`get(self, name)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/get/#int) | Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) object by the name of the property. |
-| [`get(self, name)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/get/#str) | Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) object by the name of the property. |
-| [`index_of(self, name)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/index_of/#str) | Gets the index of a property by name. |
+| [`get(self, name)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/get/#str) |  |
+| [`index_of(self, name)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/index_of/#str) |  |
 | [`index_of(self, item, index)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/index_of/#aspose.cells.properties.documentproperty-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |
 | [`index_of(self, item, index, count)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/index_of/#aspose.cells.properties.documentproperty-int-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that starts at the specified index and contains the specified number of elements. |
 | [`copy_to(self, array)`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
@@ -88,4 +87,3 @@ via a set of typed properties that return values of appropriate types.
 * module [`aspose.cells.properties`](..)
 * class [`BuiltInDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/builtindocumentpropertycollection)
 * class [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty)
-* class [`DocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/documentpropertycollection)

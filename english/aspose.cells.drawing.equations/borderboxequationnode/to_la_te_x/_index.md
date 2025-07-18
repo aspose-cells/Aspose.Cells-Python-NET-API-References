@@ -10,7 +10,7 @@ is_root: false
 
 ## to_la_te_x(self) {#}
 
-Convert this equtation to LaTeX expression.
+
 
 
 

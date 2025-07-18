@@ -10,8 +10,6 @@ is_root: false
 
 ## back_ole_color property
 
-
-Gets and sets the ole color of the background.
 ### Definition:
 ```python
 @property

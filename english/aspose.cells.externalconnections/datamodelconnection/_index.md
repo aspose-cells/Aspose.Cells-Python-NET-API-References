@@ -14,8 +14,7 @@ Specifies a data model connection
 
 
 
-**Inheritance:** [`DataModelConnection`](/cells/python-net/aspose.cells.externalconnections/datamodelconnection) → 
-[`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)
+**Inheritance:** [`DataModelConnection`](/cells/python-net/aspose.cells.externalconnections/datamodelconnection)
 
 
 
@@ -24,42 +23,40 @@ The DataModelConnection type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [id](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/id) | Gets the id of the connection. |
-| [connection_id](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/connection_id) | Specifies The unique identifier of this connection. |
-| [class_type](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/class_type) | Gets the type of this [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection) object. |
-| [power_query_formula](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/power_query_formula) | Gets the definition of power query formula. |
-| [type](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/type) | Gets or Sets the external connection DataSource type. |
-| [source_type](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/source_type) | Gets or Sets the external connection DataSource type. |
-| [sso_id](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/sso_id) | Identifier for Single Sign On (SSO) used for authentication between an intermediate <br/>spreadsheetML server and the external data source. |
-| [save_password](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/save_password) | True if the password is to be saved as part of the connection string; otherwise, False. |
-| [save_data](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/save_data) | True if the external data fetched over the connection to populate a table is to be saved<br/>with the workbook; otherwise, false. |
-| [refresh_on_load](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/refresh_on_load) | True if this connection should be refreshed when opening the file; otherwise, false. |
-| [reconnection_method_type](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/reconnection_method_type) | Specifies what the spreadsheet application should do when a connection fails.<br/>The default value is ReConnectionMethodType.Required. |
-| [reconnection_method](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/reconnection_method) | Specifies what the spreadsheet application should do when a connection fails.<br/>The default value is ReConnectionMethodType.Required. |
-| [only_use_connection_file](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/only_use_connection_file) | Indicates whether the spreadsheet application should always and only use the <br/>connection information in the external connection file indicated by the odcFile attribute <br/>when the connection is refreshed.  If false, then the spreadsheet application <br/>should follow the procedure indicated by the reconnectionMethod attribute |
-| [odc_file](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/odc_file) | Specifies the full path to external connection file from which this connection was <br/>created. If a connection fails during an attempt to refresh data, and reconnectionMethod=1, <br/>then the spreadsheet application will try again using information from the external connection file <br/>instead of the connection object embedded within the workbook. |
-| [source_file](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/source_file) | Used when the external data source is file-based. <br/>When a connection to such a data source fails, the spreadsheet application attempts to connect directly to this file. May be <br/>expressed in URI or system-specific file path notation. |
-| [connection_file](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/connection_file) | Gets the connection file. |
-| [is_new](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/is_new) | True if the connection has not been refreshed for the first time; otherwise, false. <br/>This state can happen when the user saves the file before a query has finished returning. |
-| [name](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/name) | Specifies the name of the connection. Each connection must have a unique name. |
-| [keep_alive](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/keep_alive) | True when the spreadsheet application should make efforts to keep the connection <br/>open. When false, the application should close the connection after retrieving the <br/>information. |
-| [refresh_internal](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/refresh_internal) | Specifies the number of minutes between automatic refreshes of the connection. |
-| [connection_description](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/connection_description) | Specifies the user description for this connection |
-| [is_deleted](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/is_deleted) | Indicates whether the associated workbook connection has been deleted.  true if the<br/>connection has been deleted; otherwise, false. |
-| [credentials_method_type](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/credentials_method_type) | Specifies the authentication method to be used when establishing (or re-establishing) the connection. |
-| [credentials](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/credentials) | Specifies the authentication method to be used when establishing (or re-establishing) the connection. |
-| [background_refresh](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/background_refresh) | Indicates whether the connection can be refreshed in the background (asynchronously). <br/>true if preferred usage of the connection is to refresh asynchronously in the background; <br/>false if preferred usage of the connection is to refresh synchronously in the foreground. |
-| [parameters](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/parameters) | Gets [`ConnectionParameterCollection`](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection) for an ODBC or web query. |
+| [id](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/id) |  |
+| [connection_id](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/connection_id) |  |
+| [class_type](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/class_type) | Gets the type of this ExternalConnection object. |
+| [power_query_formula](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/power_query_formula) |  |
+| [type](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/type) |  |
+| [source_type](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/source_type) |  |
+| [sso_id](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/sso_id) |  |
+| [save_password](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/save_password) |  |
+| [save_data](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/save_data) |  |
+| [refresh_on_load](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/refresh_on_load) |  |
+| [reconnection_method_type](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/reconnection_method_type) |  |
+| [reconnection_method](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/reconnection_method) |  |
+| [only_use_connection_file](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/only_use_connection_file) |  |
+| [odc_file](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/odc_file) |  |
+| [source_file](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/source_file) |  |
+| [connection_file](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/connection_file) |  |
+| [is_new](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/is_new) |  |
+| [name](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/name) |  |
+| [keep_alive](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/keep_alive) |  |
+| [refresh_internal](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/refresh_internal) |  |
+| [connection_description](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/connection_description) |  |
+| [is_deleted](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/is_deleted) |  |
+| [credentials_method_type](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/credentials_method_type) |  |
+| [credentials](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/credentials) |  |
+| [background_refresh](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/background_refresh) |  |
+| [parameters](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/parameters) |  |
 | [command](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/command) | The string containing the database command to pass to the data provider API that will <br/>interact with the external source in order to retrieve data |
 | [command_type](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/command_type) | Returns [`OLEDBCommandType`](/cells/python-net/aspose.cells.externalconnections/oledbcommandtype) type. |
 | [connection_string](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/connection_string) | The connection information string is used to make contact with an OLE DB or ODBC data source. |
-| [second_command](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/second_command) | Specifies a second command text string that is persisted when PivotTable server-based <br/>page fields are in use. <br/>For ODBC connections, serverCommand is usually a broader query than command (no <br/>WHERE clause is present in the former). Based on these 2 commands(Command and ServerCommand),<br/>parameter UI can be populated and parameterized queries can be constructed |
+| [second_command](/cells/python-net/aspose.cells.externalconnections/datamodelconnection/second_command) |  |
 
 
 
 ### See Also
 * module [`aspose.cells.externalconnections`](..)
-* class [`ConnectionParameterCollection`](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection)
 * class [`DataModelConnection`](/cells/python-net/aspose.cells.externalconnections/datamodelconnection)
-* class [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)
 * class [`OLEDBCommandType`](/cells/python-net/aspose.cells.externalconnections/oledbcommandtype)

@@ -3,21 +3,13 @@ title: encrypt_document_properties property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells/docxsaveoptions/encrypt_document_properties/
 is_root: false
 ---
 
 ## encrypt_document_properties property
 
-
-Indicates whether encrypt document properties when saving as .xls file.
-The default value is true.
-
-### Remarks 
-
-
-Only for .xls,xlsx,xlsb and xlsm file.
 ### Definition:
 ```python
 @property

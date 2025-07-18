@@ -17,8 +17,7 @@ The **Aspose.Cells.ExternalConnections**  namespace provides classes for externa
 | [`ConnectionParameterCollection`](/cells/python-net/aspose.cells.externalconnections/connectionparametercollection) | Specifies the [`ConnectionParameter`](/cells/python-net/aspose.cells.externalconnections/connectionparameter) collection |
 | [`DBConnection`](/cells/python-net/aspose.cells.externalconnections/dbconnection) | Specifies all properties associated with an ODBC or OLE DB external data connection. |
 | [`DataModelConnection`](/cells/python-net/aspose.cells.externalconnections/datamodelconnection) | Specifies a data model connection |
-| [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection) | Specifies an external data connection |
-| [`ExternalConnectionCollection`](/cells/python-net/aspose.cells.externalconnections/externalconnectioncollection) | Specifies the [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection) collection |
+| [`ExternalConnectionCollection`](/cells/python-net/aspose.cells.externalconnections/externalconnectioncollection) | Specifies the ExternalConnection collection |
 | [`WebQueryConnection`](/cells/python-net/aspose.cells.externalconnections/webqueryconnection) | Specifies the properties for a web query source. A web query will retrieve data from HTML tables, <br/>and can also supply HTTP "Get" parameters to be processed by the web server in generating the HTML by <br/>including the parameters and parameter elements. |
 
 

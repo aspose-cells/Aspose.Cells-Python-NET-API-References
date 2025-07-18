@@ -3,7 +3,7 @@ title: EquationCharacterPositionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 200
 url: /aspose.cells.drawing.equations/equationcharacterpositiontype/
 is_root: false
 ---

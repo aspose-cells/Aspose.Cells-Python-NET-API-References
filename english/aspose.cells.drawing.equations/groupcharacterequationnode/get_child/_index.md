@@ -10,13 +10,8 @@ is_root: false
 
 ## get_child(self, index) {#int}
 
-Returns the node at the specified index among the children of the current node.
 
 
-### Returns 
-
-
-Returns the corresponding node if the specified node exists, otherwise returns null.
 
 
 ```python
@@ -28,7 +23,7 @@ def get_child(self, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| index | int | Index of the node |
+| index | int |  |
 
 
 

@@ -3,7 +3,7 @@ title: preserve_padding_spaces_in_formula property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 220
 url: /aspose.cells/odsloadoptions/preserve_padding_spaces_in_formula/
 is_root: false
 ---

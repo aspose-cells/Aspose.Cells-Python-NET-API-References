@@ -3,7 +3,7 @@ title: EquationNodeType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 270
 url: /aspose.cells.drawing.equations/equationnodetype/
 is_root: false
 ---

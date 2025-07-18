@@ -3,7 +3,7 @@ title: reflection property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 910
 url: /aspose.cells.drawing/lineshape/reflection/
 is_root: false
 ---

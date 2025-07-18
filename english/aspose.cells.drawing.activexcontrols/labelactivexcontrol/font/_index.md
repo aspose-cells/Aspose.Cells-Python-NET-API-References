@@ -10,8 +10,6 @@ is_root: false
 
 ## font property
 
-
-Represents the font of the control.
 ### Definition:
 ```python
 @property

@@ -10,7 +10,7 @@ is_root: false
 
 ## remove(self) {#}
 
-Removes itself from the parent.
+
 
 
 

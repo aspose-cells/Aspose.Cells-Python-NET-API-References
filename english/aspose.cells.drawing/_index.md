@@ -29,10 +29,8 @@ The **Aspose.Cells.Drawing**  namespace provides classes that allow to create an
 | [`CustomGeometry`](/cells/python-net/aspose.cells.drawing/customgeometry) | Represents a custom geometric shape. |
 | [`CustomXmlShape`](/cells/python-net/aspose.cells.drawing/customxmlshape) | Represents Custom xml shape ,such as Ink. |
 | [`DialogBox`](/cells/python-net/aspose.cells.drawing/dialogbox) | Represents the dialog box. |
-| [`Fill`](/cells/python-net/aspose.cells.drawing/fill) | Represents the fill format of the shape. |
 | [`FillFormat`](/cells/python-net/aspose.cells.drawing/fillformat) | Encapsulates the object that represents fill formatting for a shape. |
 | [`Format3D`](/cells/python-net/aspose.cells.drawing/format3d) | This class specifies the 3D shape properties for a chart element or shape. |
-| [`Geometry`](/cells/python-net/aspose.cells.drawing/geometry) | Represents a geometric shape. |
 | [`GlowEffect`](/cells/python-net/aspose.cells.drawing/gloweffect) | This class specifies a glow effect, in which a color blurred outline <br/>is added outside the edges of the object. |
 | [`GradientFill`](/cells/python-net/aspose.cells.drawing/gradientfill) | Represents the gradient fill. |
 | [`GradientStop`](/cells/python-net/aspose.cells.drawing/gradientstop) | Represents the gradient stop. |

@@ -122,7 +122,6 @@ The ComboBox type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/combobox/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/combobox/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/combobox/paths) | Gets the paths of a custom geometric shape. |
-| [geometry](/cells/python-net/aspose.cells.drawing/combobox/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/combobox/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/combobox/is_decorative) | Indicates whether the object is decorative. |
 | [selected_index](/cells/python-net/aspose.cells.drawing/combobox/selected_index) | Gets or sets the index number of the currently selected item in a list box or combo box.<br/>Zero-based. |

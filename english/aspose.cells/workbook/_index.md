@@ -3,7 +3,7 @@ title: Workbook class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1740
+weight: 1570
 url: /aspose.cells/workbook/
 is_root: false
 ---
@@ -49,13 +49,12 @@ The Workbook type exposes the following members:
 | [custom_document_properties](/cells/python-net/aspose.cells/workbook/custom_document_properties) | Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) collection that represents all the custom document properties of the spreadsheet. |
 | [file_format](/cells/python-net/aspose.cells/workbook/file_format) | Gets and sets the file format. |
 | [has_custom_function](/cells/python-net/aspose.cells/workbook/has_custom_function) | Detects whether there is custom function used in this workbook,<br/>such as in cell's formula, in defined names... |
-| [interrupt_monitor](/cells/python-net/aspose.cells/workbook/interrupt_monitor) | Gets and sets the interrupt monitor. |
 | [content_type_properties](/cells/python-net/aspose.cells/workbook/content_type_properties) | Gets the list of  [`ContentTypeProperty`](/cells/python-net/aspose.cells.properties/contenttypeproperty) objects in the workbook. |
 | [custom_xml_parts](/cells/python-net/aspose.cells/workbook/custom_xml_parts) | Represents a Custom XML Data Storage Part (custom XML data within a package). |
 | [data_mashup](/cells/python-net/aspose.cells/workbook/data_mashup) | Gets mashup data. |
 | [ribbon_xml](/cells/python-net/aspose.cells/workbook/ribbon_xml) | Gets and sets the XML file that defines the Ribbon UI. |
 | [absolute_path](/cells/python-net/aspose.cells/workbook/absolute_path) | Gets and sets the absolute path of the file. |
-| [data_connections](/cells/python-net/aspose.cells/workbook/data_connections) | Gets the [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection) collection. |
+| [data_connections](/cells/python-net/aspose.cells/workbook/data_connections) | Gets the ExternalConnection collection. |
 | [data_model](/cells/python-net/aspose.cells/workbook/data_model) | Gets data model in the workbook. |
 
 
@@ -163,7 +162,6 @@ workbook.save("result.xlsx")
 * class [`CellsColor`](/cells/python-net/aspose.cells/cellscolor)
 * class [`ContentTypeProperty`](/cells/python-net/aspose.cells.properties/contenttypeproperty)
 * class [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty)
-* class [`ExternalConnection`](/cells/python-net/aspose.cells.externalconnections/externalconnection)
 * class [`Style`](/cells/python-net/aspose.cells/style)
 * class [`Workbook`](/cells/python-net/aspose.cells/workbook)
 * class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

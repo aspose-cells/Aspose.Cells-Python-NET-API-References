@@ -10,13 +10,6 @@ is_root: false
 
 ## is_font_substitution_char_granularity property
 
-
-Indicates whether to only substitute the font of character when the cell font is not compatibility for it.
-
-### Remarks 
-
-
-Default is false. We will try default font of Workbook and PdfSaveOption/system for cell font first.
 ### Definition:
 ```python
 @property

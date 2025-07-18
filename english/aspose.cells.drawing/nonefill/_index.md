@@ -3,7 +3,7 @@ title: NoneFill class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 390
+weight: 370
 url: /aspose.cells.drawing/nonefill/
 is_root: false
 ---
@@ -14,8 +14,7 @@ Represents no fill.
 
 
 
-**Inheritance:** [`NoneFill`](/cells/python-net/aspose.cells.drawing/nonefill) → 
-[`Fill`](/cells/python-net/aspose.cells.drawing/fill)
+**Inheritance:** [`NoneFill`](/cells/python-net/aspose.cells.drawing/nonefill)
 
 
 
@@ -24,5 +23,4 @@ The NoneFill type exposes the following members:
 
 ### See Also
 * module [`aspose.cells.drawing`](..)
-* class [`Fill`](/cells/python-net/aspose.cells.drawing/fill)
 * class [`NoneFill`](/cells/python-net/aspose.cells.drawing/nonefill)

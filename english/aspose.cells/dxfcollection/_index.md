@@ -3,7 +3,7 @@ title: DxfCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 500
 url: /aspose.cells/dxfcollection/
 is_root: false
 ---

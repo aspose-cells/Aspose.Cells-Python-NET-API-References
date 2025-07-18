@@ -3,7 +3,7 @@ title: line property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 750
+weight: 740
 url: /aspose.cells.drawing/combobox/line/
 is_root: false
 ---
