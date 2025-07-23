@@ -14,20 +14,20 @@ is_root: false
 
 ChartMarkerType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | AUTOMATIC |自动标记。|
 | CIRCLE |圆形标记。|
-| DASH |长条标记|
+| DASH |长条形标记|
 | DIAMOND |菱形标记。|
 | DOT |短条标记。|
 | NONE |没有标记。|
 | SQUARE_PLUS |带有加号的方形标记。|
 | SQUARE |方形标记。|
-| SQUARE_STAR |带星号的方形标记。|
+| SQUARE_STAR |带有星号的方形标记。|
 | TRIANGLE |三角形标记。|
-| SQUARE_X |带 X 的方形标记。|
+| SQUARE_X |带有 X 的方形标记。|
 | PICTURE |图片|
 
 

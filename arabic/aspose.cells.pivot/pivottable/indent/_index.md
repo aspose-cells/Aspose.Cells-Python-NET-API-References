@@ -1,15 +1,15 @@
 ---
-title: indent الملكية
+title: indent عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 570
+weight: 670
 url: /ar/aspose.cells.pivot/pivottable/indent/
 is_root: false
 ---
-##  indent الملكية
+##  indent عقار
 
-يحدد زيادة المسافة البادئة للمحور المضغوط ويمكن استخدامه لتعيين تخطيط التقرير إلى نموذج مضغوط.
+يقوم بتحديد زيادة المسافة البادئة للمحور المضغوط ويمكن استخدامه لتعيين تخطيط التقرير إلى نموذج مضغوط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def indent(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

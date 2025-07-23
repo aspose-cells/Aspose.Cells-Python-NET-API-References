@@ -3,16 +3,17 @@ title: طريقة insert_rows
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 720
+weight: 740
 url: /ar/aspose.cells/cells/insert_rows/
 is_root: false
 ---
-##  insert_rows {#int-int}
+##  insert_rows(self, row_index, total_rows) {#int-int}
 إدراج صفوف متعددة في ورقة العمل.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows):
     ...
 ```
@@ -21,15 +22,16 @@ def insert_rows(self, row_index, total_rows):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | row_index | int | مؤشر الصف.|
-| total_rows | int | عدد الصفوف التي سيتم إدراجها.|
+| total_rows | int | عدد الصفوف المراد إدراجها.|
 
 
-##  insert_rows {#int-int-bool}
+##  insert_rows(self, row_index, total_rows, update_reference) {#int-int-bool}
 إدراج صفوف متعددة في ورقة العمل.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows, update_reference):
     ...
 ```
@@ -38,16 +40,17 @@ def insert_rows(self, row_index, total_rows, update_reference):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | row_index | int | مؤشر الصف.|
-| total_rows | int | عدد الصفوف التي سيتم إدراجها.|
+| total_rows | int | عدد الصفوف المراد إدراجها.|
 | update_reference | bool | يشير إلى ما إذا كان سيتم تحديث المراجع في أوراق العمل الأخرى.|
 
 
-##  insert_rows {#int-int-aspose.cells.InsertOptions}
+##  insert_rows(self, row_index, total_rows, options) {#int-int-aspose.cells.InsertOptions}
 إدراج صفوف متعددة في ورقة العمل.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows, options):
     ...
 ```
@@ -56,8 +59,8 @@ def insert_rows(self, row_index, total_rows, options):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | row_index | int | مؤشر الصف.|
-| total_rows | int | عدد الصفوف التي سيتم إدراجها.|
-| options | [`InsertOptions`](/cells/python-net/ar/aspose.cells/insertoptions) | يشير إلى ما إذا كان سيتم تحديث المراجع في أوراق العمل الأخرى.|
+| total_rows | int | عدد الصفوف المراد إدراجها.|
+| options | [`InsertOptions`](/cells/python-net/ar/aspose.cells/insertoptions) | خيارات لإدراج العملية.|
 
 
 

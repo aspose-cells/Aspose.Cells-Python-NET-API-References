@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  assemble_document_permission عقار
 
- يشير إلى ما إذا كان سيتم السماح بتجميع المستند (إدراج الصفحات أو تدويرها أو حذفها وإنشاء إشارات مرجعية أو صور مصغرة)،
+ يشير إلى ما إذا كان سيتم السماح بتجميع المستند (إدراج أو تدوير أو حذف الصفحات وإنشاء إشارات مرجعية أو صور مصغرة)،
 حتى لو كان [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) واضحا.
 ###  تعريف:
 ```python

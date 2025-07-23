@@ -3,7 +3,7 @@ title: SqlScriptOperatorType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells.saving/sqlscriptoperatortype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| INSERT | أدخل البيانات.|
+| INSERT | ادخال البيانات.|
 | UPDATE | تحديث البيانات.|
 | DELETE | حذف البيانات.|
 

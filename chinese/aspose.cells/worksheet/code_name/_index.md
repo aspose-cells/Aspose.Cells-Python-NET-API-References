@@ -3,7 +3,7 @@ title: code_name属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 430
+weight: 450
 url: /zh/aspose.cells/worksheet/code_name/
 is_root: false
 ---

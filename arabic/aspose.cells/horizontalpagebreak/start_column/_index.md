@@ -1,5 +1,5 @@
 ---
-title: start_column الملكية
+title: start_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells/horizontalpagebreak/start_column/
 is_root: false
 ---
-##  start_column الملكية
+##  start_column عقار
 
-الحصول على فهرس عمود البداية لفاصل الصفحات الأفقي هذا.
+يحصل على فهرس عمود البداية لكسر الصفحة الأفقية هذه.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def start_column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HorizontalPageBreak](/cells/python-net/ar/aspose.cells/horizontalpagebreak)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HorizontalPageBreak`](/cells/python-net/ar/aspose.cells/horizontalpagebreak)

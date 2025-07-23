@@ -3,18 +3,18 @@ title: selected_index属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 900
+weight: 910
 url: /zh/aspose.cells.drawing/combobox/selected_index/
 is_root: false
 ---
 ## selected_index属性
 
-获取或设置列表框或组合框中当前所选项目的索引号。
+获取或设置列表框或组合框中当前选定项的索引号。
 零基础。
 
-### 评论
+### 注意事项
 
--1表示没有选择任何项目。
+-1 表示未选择任何项目。
 ### 定义：
 ```python
 @property

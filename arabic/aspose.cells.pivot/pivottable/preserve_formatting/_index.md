@@ -1,15 +1,15 @@
 ---
-title: preserve_formatting الملكية
+title: preserve_formatting عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 760
+weight: 870
 url: /ar/aspose.cells.pivot/pivottable/preserve_formatting/
 is_root: false
 ---
-##  preserve_formatting الملكية
+##  preserve_formatting عقار
 
-الإشارة إلى ما إذا كان سيتم الاحتفاظ بالتنسيق عند تحديث PivotTable أو إعادة حسابه.
+يشير إلى ما إذا كان يتم الحفاظ على التنسيق عند تحديث الجدول المحوري أو إعادة حسابه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def preserve_formatting(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

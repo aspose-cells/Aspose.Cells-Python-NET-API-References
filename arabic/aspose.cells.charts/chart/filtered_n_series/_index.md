@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  filtered_n_series عقار
 
-الحصول على مجموعة [`SeriesCollection`](/cells/python-net/ar/aspose.cells.charts/seriescollection) تمثل سلسلة البيانات التي تمت تصفيتها في المخطط.
+يحصل على مجموعة [`SeriesCollection`](/cells/python-net/ar/aspose.cells.charts/seriescollection) تمثل سلسلة البيانات التي تم تصفيتها في الرسم البياني.
 ###  تعريف:
 ```python
 @property

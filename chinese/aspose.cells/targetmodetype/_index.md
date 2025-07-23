@@ -3,19 +3,19 @@ title: TargetModeType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2600
+weight: 2570
 url: /zh/aspose.cells/targetmodetype/
 is_root: false
 ---
 ## TargetModeType枚举
-代表目标模式的类型。
+表示目标模式的类型。
 
 
 
 TargetModeType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | EXTERNAL |外部链接|
 | FILE_PATH |文件或文件夹的本地路径和完整路径。|

@@ -3,7 +3,7 @@ title: position属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 300
+weight: 360
 url: /zh/aspose.cells.charts/legend/position/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 获取或设置图例 position 类型。
 
-### 评论
+### 注意事项
 
 
 ### 定义：

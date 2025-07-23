@@ -1,16 +1,16 @@
 ---
-title: auto_scaling الملكية
+title: auto_scaling عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 180
 url: /ar/aspose.cells.charts/chart/auto_scaling/
 is_root: false
 ---
-##  auto_scaling الملكية
+##  auto_scaling عقار
 
- صحيح إذا قام Microsoft Excel بقياس مخطط ثلاثي الأبعاد بحيث يكون أقرب في الحجم إلى المخطط ثنائي الأبعاد المكافئ.
-يجب أن تكون الخاصية RightAngleAxes صحيحة.
+ صحيح إذا كان Microsoft يقوم Excel بتغيير مقياس الرسم البياني ثلاثي الأبعاد بحيث يكون حجمه أقرب إلى الرسم البياني ثنائي الأبعاد المكافئ.
+يجب أن تكون خاصية RightAngleAxes صحيحة.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def auto_scaling(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

@@ -7,12 +7,13 @@ weight: 400
 url: /zh/aspose.cells/settableglobalizationsettings/set_table_row_type_of_all/
 is_root: false
 ---
-##  set_table_row_type_of_all {#str}
+##  set_table_row_type_of_all(self, name) {#str}
 设置由引用表中的所有行组成的表行的类型名称。
 
 
 
 ```python
+
 def set_table_row_type_of_all(self, name):
     ...
 ```

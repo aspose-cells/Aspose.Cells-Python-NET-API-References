@@ -3,13 +3,13 @@ title: base_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 300
 url: /ar/aspose.cells.pivot/pivotfield/base_index/
 is_root: false
 ---
 ##  base_index عقار
 
-يمثل فهرس PivotField في PivotFields الأساسي.
+يمثل مؤشر PivotField في PivotFields الأساسية.
 ###  تعريف:
 ```python
 @property

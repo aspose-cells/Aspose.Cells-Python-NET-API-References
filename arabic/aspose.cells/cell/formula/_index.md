@@ -3,18 +3,18 @@ title: formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 490
+weight: 500
 url: /ar/aspose.cells/cell/formula/
 is_root: false
 ---
 ##  formula عقار
 
-الحصول على أو تعيين formula من [`Cell`](/cells/python-net/ar/aspose.cells/cell).
+يحصل على أو يعين formula من [`Cell`](/cells/python-net/ar/aspose.cells/cell).
 
 ###  ملاحظات
 
- تبدأ السلسلة formula دائمًا بعلامة التساوي (=).
-ويرجى دائمًا استخدام الفاصلة (،) كمحدد للمعلمات، مثل "=SUM(A1, E1, H2)".
+ يبدأ السلسلة formula دائمًا بعلامة المساواة (=).
+ومن فضلك استخدم دائمًا الفاصلة (,) كفاصل للمعلمات، مثل "=SUM(A1، E1، H2)".
 
 ###  مثال
 

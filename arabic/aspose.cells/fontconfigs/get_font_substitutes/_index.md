@@ -3,31 +3,33 @@ title: طريقة get_font_substitutes
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ar/aspose.cells/fontconfigs/get_font_substitutes/
 is_root: false
 ---
-##  get_font_substitutes(original_font_name) {#str}
-إرجاع مصفوفة تحتوي على أسماء بديلة للخط لاستخدامها في حالة عدم تقديم الخط الأصلي.
+##  get_font_substitutes(اسم الخط الأصلي){#str}
+إرجاع المصفوفة التي تحتوي على أسماء الخطوط البديلة التي سيتم استخدامها إذا لم يتم تقديم الخط الأصلي.
 
 
 ###  عائدات
 
-مصفوفة تحتوي على أسماء بديلة للخط لاستخدامها في حالة عدم تقديم الخط الأصلي.
+مجموعة تحتوي على أسماء الخطوط البديلة التي سيتم استخدامها إذا لم يتم تقديم الخط الأصلي.
 
 
 ```python
-def get_font_substitutes(self, original_font_name):
+
+@staticmethod
+def get_font_substitutes(original_font_name):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| original_font_name | str | originalFontName|
+| original_font_name | str | اسم الخط الأصلي|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FontConfigs](/cells/python-net/ar/aspose.cells/fontconfigs)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FontConfigs`](/cells/python-net/ar/aspose.cells/fontconfigs)

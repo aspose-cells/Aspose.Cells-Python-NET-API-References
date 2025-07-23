@@ -7,12 +7,13 @@ weight: 110
 url: /zh/aspose.cells/validation/remove_areas/
 is_root: false
 ---
-##  remove_areas {#list}
+##  remove_areas(self, areas) {#list}
 从给定区域删除此验证。
 
 
 
 ```python
+
 def remove_areas(self, areas):
     ...
 ```

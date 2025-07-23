@@ -7,12 +7,13 @@ weight: 90
 url: /ar/aspose.cells/pagesetup/get_first_page_header/
 is_root: false
 ---
-##  get_first_page_header(section) {#int}
-يحصل على برنامج نصي بتنسيق رأس الصفحة الأولى لملف Excel.
+##  get_first_page_header(self, section) {#int}
+يحصل على نص برمجي لتنسيق رأس الصفحة الأولى لملف Excel.
 
 
 
 ```python
+
 def get_first_page_header(self, section):
     ...
 ```
@@ -20,10 +21,10 @@ def get_first_page_header(self, section):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| section | int | 0: القسم الأيسر ، 1: القسم الأوسط ، 2: القسم الأيمن.|
+| section | int |0: القسم الأيسر، 1: القسم الأوسط، 2: القسم الأيمن.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

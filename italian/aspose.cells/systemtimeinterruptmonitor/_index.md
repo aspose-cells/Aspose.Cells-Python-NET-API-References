@@ -1,0 +1,48 @@
+---
+title: SystemTimeInterruptMonitor classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
+description:
+type: docs
+weight: 1390
+url: /it/aspose.cells/systemtimeinterruptmonitor/
+is_root: false
+---
+##  SystemTimeInterruptMonitor classe
+Semplice implementazione di AbstractInterruptMonitor mediante il controllo e il confronto dell'ora di sistema corrente con il limite specificato dall'utente.
+
+
+
+**Eredità:** [`SystemTimeInterruptMonitor`](/cells/python-net/it/aspose.cells/systemtimeinterruptmonitor)
+
+
+
+Il tipo SystemTimeInterruptMonitor espone i seguenti membri:
+
+###  Costruttori
+| Costruttore| Descrizione|
+| :- | :- |
+| [`__init__(self, terminate_without_exception)`](/cells/python-net/it/aspose.cells/systemtimeinterruptmonitor/__init__/#bool) | Costruisce un monitor di interruzione.|
+
+
+###  Proprietà
+| Proprietà| Descrizione|
+| :- | :- |
+| [is_interruption_requested](/cells/python-net/it/aspose.cells/systemtimeinterruptmonitor/is_interruption_requested) | Questa implementazione controlla semplicemente se il costo temporale (dal momento in cui si avvia il monitor a adesso) è maggiore del limite specificato dall'utente.|
+| [terminate_without_exception](/cells/python-net/it/aspose.cells/systemtimeinterruptmonitor/terminate_without_exception) |Vedere TerminateWithoutException.<br/> Questa proprietà viene specificata dall'utente durante la creazione di questa istanza del monitor.|
+
+
+###  Metodi
+| Metodo| Descrizione|
+| :- | :- |
+| [`start_monitor(self, ms_limit)`](/cells/python-net/it/aspose.cells/systemtimeinterruptmonitor/start_monitor/#int) | Avvia il monitor con il limite di tempo specificato. L'ora di inizio per calcolare il costo del tempo è proprio quella in cui viene chiamato questo metodo.<br/> quindi la procedura da monitorare dovrebbe essere avviata subito dopo questa chiamata.|
+
+
+
+###  Osservazioni
+
+Questa implementazione è solo una soluzione semplice per scenari semplici.
+Ha bisogno di recuperare e controllare frequentemente l'ora del sistema, il che potrebbe avere un impatto negativo sulle prestazioni, in una certa misura.
+
+###  Guarda anche
+* modulo [`aspose.cells`](..)
+* classe [`SystemTimeInterruptMonitor`](/cells/python-net/it/aspose.cells/systemtimeinterruptmonitor)

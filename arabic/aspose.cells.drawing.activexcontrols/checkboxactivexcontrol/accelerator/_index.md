@@ -1,5 +1,5 @@
 ---
-title: accelerator الملكية
+title: accelerator عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/accelerator/
 is_root: false
 ---
-##  accelerator الملكية
+##  accelerator عقار
 
-الحصول على مفتاح accelerator لعنصر التحكم وتعيينه.
+يحصل على المفتاح accelerator للتحكم ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def accelerator(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [CheckBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`CheckBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

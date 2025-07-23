@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_cells عقار
 
-تصدير الخلايا المرئية فقط.
+يتم تصدير الخلايا المرئية فقط.
 ###  تعريف:
 ```python
 @property

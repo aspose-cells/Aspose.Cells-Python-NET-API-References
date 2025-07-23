@@ -3,13 +3,13 @@ title: first_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 420
 url: /ar/aspose.cells/range/first_column/
 is_root: false
 ---
 ##  first_column عقار
 
-الحصول على فهرس العمود الأول من النطاق.
+يحصل على فهرس العمود الأول من النطاق.
 ###  تعريف:
 ```python
 @property

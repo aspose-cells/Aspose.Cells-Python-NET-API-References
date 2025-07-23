@@ -1,15 +1,15 @@
 ---
-title: refresh_chart_cache 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: refresh_chart_cache属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 170
 url: /zh/aspose.cells/txtsaveoptions/refresh_chart_cache/
 is_root: false
 ---
-## refresh_chart_cache 属性
+## refresh_chart_cache属性
 
-指示是否刷新图表缓存数据
+是否刷新图表缓存数据
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def refresh_chart_cache(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [TxtSaveOptions](/cells/python-net/zh/aspose.cells/txtsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`TxtSaveOptions`](/cells/python-net/zh/aspose.cells/txtsaveoptions)

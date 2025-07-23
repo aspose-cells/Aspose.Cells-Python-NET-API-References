@@ -3,13 +3,13 @@ title: auto_filter属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 370
+weight: 390
 url: /zh/aspose.cells/worksheet/auto_filter/
 is_root: false
 ---
 ## auto_filter属性
 
-表示指定工作表的自动过滤器。
+表示指定工作表的自动过滤。
 ### 定义：
 ```python
 @property

@@ -3,11 +3,11 @@ title: طريقة get_validation
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells/cell/get_validation/
 is_root: false
 ---
-##  get_validation() {#}
+##  get_validation(self) {#}
 يحصل على التحقق المطبق على هذه الخلية.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_validation(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_validation(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

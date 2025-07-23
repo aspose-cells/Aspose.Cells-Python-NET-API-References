@@ -1,15 +1,15 @@
 ---
-title: is_color_varied الملكية
+title: is_color_varied عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells.charts/seriescollection/is_color_varied/
 is_root: false
 ---
-##  is_color_varied الملكية
+##  is_color_varied عقار
 
-يمثل إذا كان لون النقاط متنوعًا.
+يمثل ما إذا كان لون النقاط متنوعًا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_color_varied(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [SeriesCollection](/cells/python-net/ar/aspose.cells.charts/seriescollection)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`SeriesCollection`](/cells/python-net/ar/aspose.cells.charts/seriescollection)

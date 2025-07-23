@@ -1,5 +1,5 @@
 ---
-title: contains_multiple_worksheets الملكية
+title: contains_multiple_worksheets عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells/xmlloadoptions/contains_multiple_worksheets/
 is_root: false
 ---
-##  contains_multiple_worksheets الملكية
+##  contains_multiple_worksheets عقار
 
-يشير إلى ما إذا كان يتم استيراد xml كأوراق عمل متعددة.
+يشير إلى ما إذا كان يتم استيراد XML كأوراق عمل متعددة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def contains_multiple_worksheets(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [XmlLoadOptions](/cells/python-net/ar/aspose.cells/xmlloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`XmlLoadOptions`](/cells/python-net/ar/aspose.cells/xmlloadoptions)

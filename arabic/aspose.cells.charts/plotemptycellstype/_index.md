@@ -1,5 +1,5 @@
 ---
-title: العد PlotEmptyCellsType
+title: PlotEmptyCellsType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 590
 url: /ar/aspose.cells.charts/plotemptycellstype/
 is_root: false
 ---
-##  العد PlotEmptyCellsType
-يمثل كل نوع خلايا الرسم البياني الفارغة للمخطط.
+##  PlotEmptyCellsType التعداد
+يمثل جميع أنواع الخلايا الفارغة في الرسم البياني.
 
 
 
-يكشف نوع PlotEmptyCellsType الأعضاء التالية:
+يكشف النوع PlotEmptyCellsType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | NOT_PLOTTED | غير مرسوم (اترك فجوة)|
 | ZERO | صفر|
-| INTERPOLATED | محرف|
+| INTERPOLATED | مُقحَم|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

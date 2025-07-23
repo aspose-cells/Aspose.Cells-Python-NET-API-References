@@ -1,6 +1,6 @@
 ---
 title: ContentTypeProperty类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-ContentTypeProperty 类型公开了以下成员：
+ContentTypeProperty 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [name](/cells/python-net/zh/aspose.cells.properties/contenttypeproperty/name) |返回或设置对象的名称。|
 | [value](/cells/python-net/zh/aspose.cells.properties/contenttypeproperty/value) |返回或设置内容类型属性的值。|
-| [type](/cells/python-net/zh/aspose.cells.properties/contenttypeproperty/type) |获取和设置属性的类型。|
-| [is_nillable](/cells/python-net/zh/aspose.cells.properties/contenttypeproperty/is_nillable) |指示该值是否可以为空。|
+| [type](/cells/python-net/zh/aspose.cells.properties/contenttypeproperty/type) |获取并设置属性的类型。|
+| [is_nillable](/cells/python-net/zh/aspose.cells.properties/contenttypeproperty/is_nillable) |指示值是否可以为空。|
 
 
 
@@ -39,4 +39,4 @@ workbook.save("book1.xlsm")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.properties](..)
+* 模块[`aspose.cells.properties`](..)

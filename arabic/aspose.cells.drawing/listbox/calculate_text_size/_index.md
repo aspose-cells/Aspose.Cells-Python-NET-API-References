@@ -7,16 +7,17 @@ weight: 40
 url: /ar/aspose.cells.drawing/listbox/calculate_text_size/
 is_root: false
 ---
-##  calculate_text_size() {#}
-إعادة حساب منطقة النص
+##  calculate_text_size(self) {#}
+إعادة حساب مساحة النص
 
 
 ###  عائدات
 
-حجم النص في مصفوفة (العرض والارتفاع).
+حجم النص في المصفوفة (العرض والارتفاع).
 
 
 ```python
+
 def calculate_text_size(self):
     ...
 ```
@@ -35,5 +36,5 @@ size = shape.calculate_text_size()
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ListBox](/cells/python-net/ar/aspose.cells.drawing/listbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ListBox`](/cells/python-net/ar/aspose.cells.drawing/listbox)

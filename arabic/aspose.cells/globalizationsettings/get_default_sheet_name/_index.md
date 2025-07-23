@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells/globalizationsettings/get_default_sheet_name/
 is_root: false
 ---
-##  get_default_sheet_name {#}
+##  get_default_sheet_name(self) {#}
 يحصل على اسم الورقة الافتراضي لإضافة ورقة العمل تلقائيًا.
-الافتراضي هو "ورقة".
+الإفتراضي هو "ورقة".
 
 
 ###  عائدات
@@ -18,6 +18,7 @@ is_root: false
 
 
 ```python
+
 def get_default_sheet_name(self):
     ...
 ```
@@ -25,10 +26,10 @@ def get_default_sheet_name(self):
 
 ###  ملاحظات
 
-تمت إضافتها تلقائيًا (مثل [`WorksheetCollection.add`](/cells/python-net/ar/aspose.cells/worksheetcollection/add))
-سيكون اسم الورقة هو الاسم المحدد بالإضافة إلى الرقم التسلسلي.
- على سبيل المثال، ربما يريد المستخدم في ألمانيا أن يكون اسم الورقة "Tabellenblatt2" بدلاً من "Sheet2".
-ثم يمكن للمستخدم تنفيذ هذه الطريقة لإرجاع "Tabellenblatt".
+تمت الإضافة تلقائيًا (مثل [`WorksheetCollection.add`](/cells/python-net/ar/aspose.cells/worksheetcollection/add))
+سيكون اسم الورقة هو الاسم المحدد بالإضافة إلى رقم التسلسل.
+ على سبيل المثال، بالنسبة للمستخدم الألماني، قد يرغب في أن يكون اسم الورقة "Tabellenblatt2" بدلاً من "Sheet2".
+بعد ذلك، يمكن للمستخدم تنفيذ هذه الطريقة لإرجاع "Tabellenblatt".
 
 
 ###  أنظر أيضا

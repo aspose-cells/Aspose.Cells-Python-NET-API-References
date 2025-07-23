@@ -3,13 +3,13 @@ title: is_plot_order_reversed属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 260
 url: /zh/aspose.cells.charts/axis/is_plot_order_reversed/
 is_root: false
 ---
 ## is_plot_order_reversed属性
 
-表示 Microsoft Excel 是否从最后到第一个绘制数据点。
+Microsoft 表示 Excel 是否从最后一个到第一个绘制数据点。
 ### 定义：
 ```python
 @property

@@ -3,13 +3,13 @@ title: show_percentage属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 420
+weight: 490
 url: /zh/aspose.cells.charts/datalabels/show_percentage/
 is_root: false
 ---
 ## show_percentage属性
 
-表示指定图表的数据标签百分比值显示行为。 True 显示百分比值。假以掩饰。
+表示指定图表数据标签百分比值的显示行为。True 表示显示百分比值。False 表示隐藏。
 ### 定义：
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: ContentTypeProperty الدرجة
+title: ContentTypeProperty صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,19 +7,19 @@ weight: 20
 url: /ar/aspose.cells.properties/contenttypeproperty/
 is_root: false
 ---
-##  ContentTypeProperty الدرجة
-يمثل معلومات المعرف.
+##  ContentTypeProperty صف
+يمثل معلومات التعريف.
 
 
 
-يكشف نوع ContentTypeProperty الأعضاء التالية:
+يكشف النوع ContentTypeProperty عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [name](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty/name) | يرجع أو يحدد اسم الكائن.|
+| [name](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty/name) | إرجاع أو تعيين اسم الكائن.|
 | [value](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty/value) | إرجاع أو تعيين قيمة خاصية نوع المحتوى.|
-| [type](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty/type) | يحصل على نوع الملكية ويحددها.|
+| [type](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty/type) | يحصل على نوع الخاصية ويحدده.|
 | [is_nillable](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty/is_nillable) | يشير إلى ما إذا كانت القيمة يمكن أن تكون فارغة.|
 
 
@@ -39,4 +39,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](..)
+* الوحدة [`aspose.cells.properties`](..)

@@ -1,13 +1,13 @@
 ---
-title: print_drill 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: print_drill属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 770
+weight: 880
 url: /zh/aspose.cells.pivot/pivottable/print_drill/
 is_root: false
 ---
-## print_drill 属性
+## print_drill属性
 
 指定一个布尔值，指示是否应打印钻取指示器。
 在数据透视表上显示时打印展开/折叠按钮。
@@ -22,5 +22,5 @@ def print_drill(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotTable](/cells/python-net/zh/aspose.cells.pivot/pivottable)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotTable`](/cells/python-net/zh/aspose.cells.pivot/pivottable)

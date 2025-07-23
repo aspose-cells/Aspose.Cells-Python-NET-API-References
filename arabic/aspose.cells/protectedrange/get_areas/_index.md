@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells/protectedrange/get_areas/
 is_root: false
 ---
-##  get_areas() {#}
+##  get_areas(self) {#}
 يحصل على جميع المناطق المشار إليها.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_areas(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_areas(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ProtectedRange](/cells/python-net/ar/aspose.cells/protectedrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ProtectedRange`](/cells/python-net/ar/aspose.cells/protectedrange)

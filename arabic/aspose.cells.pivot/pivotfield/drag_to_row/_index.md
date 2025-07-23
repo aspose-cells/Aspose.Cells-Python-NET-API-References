@@ -3,14 +3,14 @@ title: drag_to_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 400
 url: /ar/aspose.cells.pivot/pivotfield/drag_to_row/
 is_root: false
 ---
 ##  drag_to_row عقار
 
-يشير إلى ما إذا كان يمكن سحب الحقل المحدد إلى موضع الصف.
-القيمة الافتراضية هي الحقيقية.
+يشير إلى ما إذا كان من الممكن سحب الحقل المحدد إلى موضع الصف.
+القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property

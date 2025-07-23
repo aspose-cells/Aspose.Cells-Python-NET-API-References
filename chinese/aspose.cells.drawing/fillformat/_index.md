@@ -1,30 +1,30 @@
 ---
 title: FillFormat类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 170
 url: /zh/aspose.cells.drawing/fillformat/
 is_root: false
 ---
 ## FillFormat类
-封装表示形状填充格式的对象。
+封装代表形状填充格式的对象。
 
 
 
-FillFormat 类型公开了以下成员：
+FillFormat 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [type](/cells/python-net/zh/aspose.cells.drawing/fillformat/type) |获取和设置填充类型。|
-| [fill_type](/cells/python-net/zh/aspose.cells.drawing/fillformat/fill_type) |获取和设置填充类型|
-| [transparency](/cells/python-net/zh/aspose.cells.drawing/fillformat/transparency) |将区域的透明度返回或设置为从 0.0（不透明）到 1.0（透明）的值。|
+| [type](/cells/python-net/zh/aspose.cells.drawing/fillformat/type) |获取并设置填充类型。|
+| [fill_type](/cells/python-net/zh/aspose.cells.drawing/fillformat/fill_type) |获取并设置填充类型|
+| [transparency](/cells/python-net/zh/aspose.cells.drawing/fillformat/transparency) |返回或设置该区域的透明度，范围是 0.0（不透明）到 1.0（透明）。|
 | [set_type](/cells/python-net/zh/aspose.cells.drawing/fillformat/set_type) |获取填充格式集类型。|
-| [gradient_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat/gradient_fill) |获取 [FillFormat.gradient_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat#gradient_fill) 对象。|
-| [texture_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat/texture_fill) |获取 [FillFormat.texture_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat#texture_fill) 对象。|
-| [solid_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat/solid_fill) |获取 [FillFormat.solid_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat#solid_fill) 对象。|
-| [pattern_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat/pattern_fill) |获取 [FillFormat.pattern_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat#pattern_fill) 对象。|
+| [gradient_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat/gradient_fill) |获取 [`FillFormat.gradient_fill`](/cells/python-net/zh/aspose.cells.drawing/fillformat#gradient_fill) 对象。|
+| [texture_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat/texture_fill) |获取 [`FillFormat.texture_fill`](/cells/python-net/zh/aspose.cells.drawing/fillformat#texture_fill) 对象。|
+| [solid_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat/solid_fill) |获取 [`FillFormat.solid_fill`](/cells/python-net/zh/aspose.cells.drawing/fillformat#solid_fill) 对象。|
+| [pattern_fill](/cells/python-net/zh/aspose.cells.drawing/fillformat/pattern_fill) |获取 [`FillFormat.pattern_fill`](/cells/python-net/zh/aspose.cells.drawing/fillformat#pattern_fill) 对象。|
 | [gradient_color_type](/cells/python-net/zh/aspose.cells.drawing/fillformat/gradient_color_type) |返回指定填充的渐变颜色类型。|
 | [gradient_style](/cells/python-net/zh/aspose.cells.drawing/fillformat/gradient_style) |返回指定填充的渐变样式。|
 | [gradient_color1](/cells/python-net/zh/aspose.cells.drawing/fillformat/gradient_color1) |返回指定填充的渐变颜色 1。|
@@ -33,7 +33,7 @@ FillFormat 类型公开了以下成员：
 | [gradient_variant](/cells/python-net/zh/aspose.cells.drawing/fillformat/gradient_variant) |返回指定填充的渐变变体。<br/>仅适用于 Excel 2007。|
 | [preset_color](/cells/python-net/zh/aspose.cells.drawing/fillformat/preset_color) |返回指定填充的渐变预设颜色。|
 | [texture](/cells/python-net/zh/aspose.cells.drawing/fillformat/texture) |表示指定填充的纹理类型。|
-| [pattern](/cells/python-net/zh/aspose.cells.drawing/fillformat/pattern) |表示一个区域的显示模式。|
+| [pattern](/cells/python-net/zh/aspose.cells.drawing/fillformat/pattern) |表示某个区域的显示模式。|
 | [picture_format_type](/cells/python-net/zh/aspose.cells.drawing/fillformat/picture_format_type) |获取和设置图片格式类型。|
 | [scale](/cells/python-net/zh/aspose.cells.drawing/fillformat/scale) |获取和设置图片格式比例。|
 | [image_data](/cells/python-net/zh/aspose.cells.drawing/fillformat/image_data) |获取和设置图片图像数据。|
@@ -42,10 +42,10 @@ FillFormat 类型公开了以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [set_two_color_gradient(color1, color2, style, variant)](/cells/python-net/zh/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-aspose.pydrawing.Color-GradientStyleType-int) |将指定的填充设置为双色渐变。<br/>仅适用于 Excel 2007。|
-| [set_two_color_gradient(color1, transparency1, color2, transparency2, style, variant)](/cells/python-net/zh/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-float-aspose.pydrawing.Color-float-GradientStyleType-int) |将指定的填充设置为双色渐变。<br/>仅适用于 Excel 2007。|
-| [set_one_color_gradient(color, degree, style, variant)](/cells/python-net/zh/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.Color-float-GradientStyleType-int) |将指定的填充设置为单色渐变。<br/>仅适用于 Excel 2007。|
-| [set_preset_color_gradient(preset_color, style, variant)](/cells/python-net/zh/aspose.cells.drawing/fillformat/set_preset_color_gradient/#GradientPresetType-GradientStyleType-int) |将指定的填充设置为预设颜色渐变。<br/>仅适用于 Excel 2007。|
+| [`set_two_color_gradient(self, color1, color2, style, variant)`](/cells/python-net/zh/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-aspose.pydrawing.color-aspose.cells.drawing.gradientstyletype-int) |将指定的填充设置为双色渐变。<br/>仅适用于 Excel 2007。|
+| [`set_two_color_gradient(self, color1, transparency1, color2, transparency2, style, variant)`](/cells/python-net/zh/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-float-aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) |将指定的填充设置为双色渐变。<br/>仅适用于 Excel 2007。|
+| [`set_one_color_gradient(self, color, degree, style, variant)`](/cells/python-net/zh/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) |将指定的填充设置为单色渐变。<br/>仅适用于 Excel 2007。|
+| [`set_preset_color_gradient(self, preset_color, style, variant)`](/cells/python-net/zh/aspose.cells.drawing/fillformat/set_preset_color_gradient/#aspose.cells.drawing.gradientpresettype-aspose.cells.drawing.gradientstyletype-int) |将指定的填充设置为预设颜色渐变。<br/>仅适用于 Excel 2007。|
 
 
 
@@ -101,4 +101,4 @@ chart.n_series[seriesIndex].area.fill_format.set_one_color_gradient(Color.lime, 
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

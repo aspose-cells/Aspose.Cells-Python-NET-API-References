@@ -1,19 +1,19 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 110
 url: /ar/aspose.cells.tables/listcolumn/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-الحصول على وتعيين name للعمود.
+يحصل على name من العمود ويقوم بتعيينه.
 
 ###  ملاحظات
 
-إذا تم تعيين name للعمود ، فسيتم تغيير قيمة الخلية وفقًا لذلك أيضًا.
+إذا تم تعيين name للعمود، فسيتم تغيير قيمة الخلية وفقًا لذلك أيضًا.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListColumn](/cells/python-net/ar/aspose.cells.tables/listcolumn)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListColumn`](/cells/python-net/ar/aspose.cells.tables/listcolumn)

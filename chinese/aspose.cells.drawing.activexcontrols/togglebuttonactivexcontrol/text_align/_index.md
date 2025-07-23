@@ -1,15 +1,13 @@
 ---
-title: text_align 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_align属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 250
 url: /zh/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/text_align/
 is_root: false
 ---
-## text_align 属性
-
-表示如何对齐控件使用的文本。
+## text_align属性
 ### 定义：
 ```python
 @property
@@ -21,6 +19,6 @@ def text_align(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [TextAlignmentType](/cells/python-net/zh/aspose.cells/textalignmenttype)
-* 类 [ToggleButtonActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`TextAlignmentType`](/cells/python-net/zh/aspose.cells/textalignmenttype)
+* 类 [`ToggleButtonActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

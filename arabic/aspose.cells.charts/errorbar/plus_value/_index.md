@@ -1,5 +1,5 @@
 ---
-title: plus_value الملكية
+title: plus_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 220
 url: /ar/aspose.cells.charts/errorbar/plus_value/
 is_root: false
 ---
-##  plus_value الملكية
+##  plus_value عقار
 
-يمثل مقدار الخطأ الإيجابي عندما يكون نوع شريط الخطأ مخصص.
+يمثل مقدار الخطأ الإيجابي عندما يكون نوع شريط الخطأ مخصصًا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def plus_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ErrorBar](/cells/python-net/ar/aspose.cells.charts/errorbar)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ErrorBar`](/cells/python-net/ar/aspose.cells.charts/errorbar)

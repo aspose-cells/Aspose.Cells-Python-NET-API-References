@@ -1,6 +1,6 @@
 ---
 title: HtmlFormatHandlingType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 110
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-HtmlFormatHandlingType 类型公开了以下成员：
+HtmlFormatHandlingType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| ALL |将所有 HTML 格式连同数据一起传输到工作表中。|
-| NONE |将数据作为无格式文本引入（设置数据类型仍然发生）。|
-| RTF |将带入工作表的数据的 HTML 格式转换为富文本格式。|
+| ALL |将所有 HTML 格式与数据一起传输到工作表中。|
+| NONE |将数据作为未格式化的文本引入（仍然会设置数据类型）。|
+| RTF |将 HTML 格式转换为工作表中数据的富文本格式。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.externalconnections](..)
+* 模块[`aspose.cells.externalconnections`](..)

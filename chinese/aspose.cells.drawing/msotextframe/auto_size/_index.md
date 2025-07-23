@@ -1,13 +1,13 @@
 ---
-title: auto_size 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: auto_size属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.drawing/msotextframe/auto_size/
 is_root: false
 ---
-## auto_size 属性
+## auto_size属性
 
 指示形状的大小是否根据其内容自动调整。
 ### 定义：
@@ -21,5 +21,5 @@ def auto_size(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [MsoTextFrame](/cells/python-net/zh/aspose.cells.drawing/msotextframe)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`MsoTextFrame`](/cells/python-net/zh/aspose.cells.drawing/msotextframe)

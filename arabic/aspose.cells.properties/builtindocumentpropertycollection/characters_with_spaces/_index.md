@@ -1,13 +1,13 @@
 ---
-title: characters_with_spaces الملكية
+title: characters_with_spaces عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/characters_with_spaces/
 is_root: false
 ---
-##  characters_with_spaces الملكية
+##  characters_with_spaces عقار
 
 يمثل تقديرًا لعدد الأحرف (بما في ذلك المسافات) في المستند.
 ###  تعريف:
@@ -21,5 +21,5 @@ def characters_with_spaces(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

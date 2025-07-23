@@ -3,7 +3,7 @@ title: is_horizontal属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 610
+weight: 620
 url: /zh/aspose.cells.drawing/scrollbar/is_horizontal/
 is_root: false
 ---

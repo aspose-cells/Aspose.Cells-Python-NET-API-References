@@ -1,5 +1,5 @@
 ---
-title: max_length الملكية
+title: max_length عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 110
 url: /ar/aspose.cells/databar/max_length/
 is_root: false
 ---
-##  max_length الملكية
+##  max_length عقار
 
 يمثل الحد الأقصى لطول شريط البيانات.
 ###  تعريف:
@@ -21,5 +21,5 @@ def max_length(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataBar](/cells/python-net/ar/aspose.cells/databar)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataBar`](/cells/python-net/ar/aspose.cells/databar)

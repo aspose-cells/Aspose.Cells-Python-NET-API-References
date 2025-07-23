@@ -1,5 +1,5 @@
 ---
-title: column الملكية
+title: column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/cellwatch/column/
 is_root: false
 ---
-##  column الملكية
+##  column عقار
 
-الحصول على وتعيين column للخلية.
+يحصل على column للخلية ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def column(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellWatch](/cells/python-net/ar/aspose.cells/cellwatch)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellWatch`](/cells/python-net/ar/aspose.cells/cellwatch)

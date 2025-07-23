@@ -1,5 +1,5 @@
 ---
-title: LoadOptions المنشئ
+title: LoadOptions منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/loadoptions/__init__/
 is_root: false
 ---
-##  LoadOptions() {#}
-ينشئ خيارات لتحميل الملف.
+##  \_\_init\_\_(الذات){#}
+إنشاء خيارات لتحميل الملف.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  LoadOptions(load_format) {#LoadFormat}
-ينشئ خيارات لتحميل الملف.
+##  \_\_init\_\_(الذات، تنسيق التحميل){#aspose.cells.LoadFormat}
+إنشاء خيارات لتحميل الملف.
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, load_format):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| load_format | [LoadFormat](/cells/python-net/ar/aspose.cells/loadformat) | تنسيق التحميل.|
+| load_format | [`LoadFormat`](/cells/python-net/ar/aspose.cells/loadformat) | تنسيق التحميل.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [LoadOptions](/cells/python-net/ar/aspose.cells/loadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`LoadOptions`](/cells/python-net/ar/aspose.cells/loadoptions)

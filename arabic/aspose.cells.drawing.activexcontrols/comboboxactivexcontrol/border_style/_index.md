@@ -1,5 +1,5 @@
 ---
-title: border_style الملكية
+title: border_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/border_style/
 is_root: false
 ---
-##  border_style الملكية
+##  border_style عقار
 
-يحصل ويضبط نوع الحدود المستخدمة بواسطة عنصر التحكم.
+يحصل على نوع الحدود التي يستخدمها عنصر التحكم ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def border_style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ComboBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* فئة [ControlBorderType](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/controlbordertype)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ComboBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* فئة [`ControlBorderType`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/controlbordertype)

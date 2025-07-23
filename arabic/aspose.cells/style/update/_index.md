@@ -7,14 +7,15 @@ weight: 110
 url: /ar/aspose.cells/style/update/
 is_root: false
 ---
-##  update() {#}
+##  update(self) {#}
 قم بتطبيق النمط المسمى على أنماط الخلايا التي تستخدم هذا النمط المسمى.
-يعمل مثل النقر فوق الزر "موافق" بعد الانتهاء من تعديل النمط.
+يعمل الأمر مثل النقر على زر "موافق" بعد الانتهاء من تعديل النمط.
 ينطبق فقط على النمط المسمى.
 
 
 
 ```python
+
 def update(self):
     ...
 ```
@@ -24,5 +25,5 @@ def update(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

@@ -1,15 +1,15 @@
 ---
-title: show_connector_lines الملكية
+title: show_connector_lines عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells.charts/serieslayoutproperties/show_connector_lines/
 is_root: false
 ---
-##  show_connector_lines الملكية
+##  show_connector_lines عقار
 
-يشير إلى ما إذا كان يتم عرض خطوط الموصل بين نقاط البيانات.
+يشير إلى ما إذا كان يتم عرض خطوط الاتصال بين نقاط البيانات.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_connector_lines(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [SeriesLayoutProperties](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`SeriesLayoutProperties`](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)

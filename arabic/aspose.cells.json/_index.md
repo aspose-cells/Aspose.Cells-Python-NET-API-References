@@ -7,11 +7,11 @@ weight: 10
 url: /ar/aspose.cells.json/
 is_root: false
 ---
- ال**Aspose.Cells.Json** يحتوي مساحة الاسم على جميع فئات JSON.
+ ال**Aspose.Cells.Json** تحتوي المساحة الاسمية على جميع فئات JSON.
 
-###  التعداد
-|تعداد| وصف|
+###  التعدادات
+| تعداد| وصف|
 | :- | :- |
-| [JsonExportHyperlinkType](/cells/python-net/ar/aspose.cells.json/jsonexporthyperlinktype) | يمثل نوع تصدير الارتباطات التشعبية إلى json.|
+| [`JsonExportHyperlinkType`](/cells/python-net/ar/aspose.cells.json/jsonexporthyperlinktype) | يمثل نوع تصدير الروابط التشعبية إلى json.|
 
 

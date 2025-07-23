@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells.slicers/slicer/remove_pivot_connection/
 is_root: false
 ---
-##  remove_pivot_connection(pivot) {#aspose.cells.pivot.PivotTable}
-يزيل اتصال PivotTable.
+##  remove_pivot_connection(self, pivot) {#aspose.cells.pivot.PivotTable}
+إزالة اتصال PivotTable.
 
 
 
 ```python
+
 def remove_pivot_connection(self, pivot):
     ...
 ```
@@ -33,5 +34,5 @@ slicer.remove_pivot_connection(pivot)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

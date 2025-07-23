@@ -1,15 +1,15 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ar/aspose.cells.vba/vbaproject/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-الحصول على وتعيين name لمشروع VBA.
+يحصل على name من مشروع VBA ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](../../)
-* فئة [VbaProject](/cells/python-net/ar/aspose.cells.vba/vbaproject)
+* الوحدة [`aspose.cells.vba`](../../)
+* فئة [`VbaProject`](/cells/python-net/ar/aspose.cells.vba/vbaproject)

@@ -1,15 +1,15 @@
 ---
-title: text 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 380
 url: /zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/text/
 is_root: false
 ---
-## text 属性
+## text属性
 
-获取并设置控件的 text。
+获取并设置控件的text。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [TextBoxActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`TextBoxActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

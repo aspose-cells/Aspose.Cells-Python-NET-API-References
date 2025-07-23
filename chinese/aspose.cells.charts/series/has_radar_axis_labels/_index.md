@@ -9,7 +9,7 @@ is_root: false
 ---
 ## has_radar_axis_labels属性
 
-如果雷达图具有类别轴标签，则为 true。仅适用于雷达图。
+如果雷达图具有分类轴标签，则为 True。仅适用于雷达图。
 ### 定义：
 ```python
 @property

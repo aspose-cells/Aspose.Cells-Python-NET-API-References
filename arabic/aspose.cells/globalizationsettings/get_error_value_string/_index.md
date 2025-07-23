@@ -7,16 +7,17 @@ weight: 100
 url: /ar/aspose.cells/globalizationsettings/get_error_value_string/
 is_root: false
 ---
-##  get_error_value_string {#str}
-يحصل على قيمة سلسلة العرض لقيمة الخطأ في الخلية
+##  get_error_value_string(self, err) {#str}
+يحصل على قيمة سلسلة العرض لقيمة خطأ الخلية
 
 
 ###  عائدات
 
-افتراضيًا، تُرجع قيمة الخطأ نفسها
+بشكل افتراضي، يتم إرجاع قيمة الخطأ نفسها
 
 
 ```python
+
 def get_error_value_string(self, err):
     ...
 ```
@@ -24,7 +25,7 @@ def get_error_value_string(self, err):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| err | str | قيم الخطأ مثل #VALUE!،#NAME؟|
+| err | str |قيم الخطأ مثل #VALUE!،#NAME؟|
 
 
 

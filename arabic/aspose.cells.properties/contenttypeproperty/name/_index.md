@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.properties/contenttypeproperty/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-ارجاع أو تحديد name للعنصر.
+إرجاع أو تعيين name للكائن.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [ContentTypeProperty](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`ContentTypeProperty`](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty)

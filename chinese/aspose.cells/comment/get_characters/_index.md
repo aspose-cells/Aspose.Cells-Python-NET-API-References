@@ -7,28 +7,29 @@ weight: 40
 url: /zh/aspose.cells/comment/get_characters/
 is_root: false
 ---
-##  get_characters {#}
-返回所有字符对象
-代表评论文本中的一系列字符。
+##  get_characters(self) {#}
+返回所有 Characters 对象
+代表注释文本内的字符范围。
 
 
-### 退货
+### 返回
 
-所有角色对象
+所有 Characters 对象
 
 
 ```python
+
 def get_characters(self):
     ...
 ```
 
 
-### 评论
+### 注意事项
 
-注意：此方法现已过时。反而，
+注意：此方法现已过时。取而代之的是
 请使用 Comment.GetRichFormattings() 方法。
-该方法将于2023年11月起12个月后删除。
-Aspose 对于给您带来的任何不便，我们深表歉意。
+该方法将于 2023 年 11 月起 12 个月后取消。
+Aspose 对于您所遇到的不便深表歉意。
 ### 例子
 
 ```python

@@ -3,7 +3,7 @@ title: slicers عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 770
+weight: 800
 url: /ar/aspose.cells/worksheet/slicers/
 is_root: false
 ---

@@ -1,15 +1,15 @@
 ---
-title: show_data_tips الملكية
+title: show_data_tips عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 880
+weight: 1010
 url: /ar/aspose.cells.pivot/pivottable/show_data_tips/
 is_root: false
 ---
-##  show_data_tips الملكية
+##  show_data_tips عقار
 
-تحدد قيمة منطقية تشير إلى ما إذا كان يجب عرض تلميحات الأدوات لخلايا بيانات PivotTable.
+يقوم بتحديد قيمة منطقية تشير إلى ما إذا كان يجب عرض تلميحات الأدوات لخلايا بيانات الجدول المحوري.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_data_tips(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

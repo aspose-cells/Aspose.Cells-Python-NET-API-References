@@ -1,15 +1,15 @@
 ---
-title: font_size الملكية
+title: font_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells/defaultstylesettings/font_size/
 is_root: false
 ---
-##  font_size الملكية
+##  font_size عقار
 
-الحصول على / تعيين حجم الخط القياسي الافتراضي للمصنف.
+يحصل على/يحدد حجم الخط القياسي الافتراضي للمصنف.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DefaultStyleSettings](/cells/python-net/ar/aspose.cells/defaultstylesettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DefaultStyleSettings`](/cells/python-net/ar/aspose.cells/defaultstylesettings)

@@ -3,13 +3,13 @@ title: auto_filter عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 390
 url: /ar/aspose.cells/worksheet/auto_filter/
 is_root: false
 ---
 ##  auto_filter عقار
 
-يمثل التصفية التلقائية لورقة العمل المحددة.
+يمثل التصفية التلقائية للورقة العمل المحددة.
 ###  تعريف:
 ```python
 @property

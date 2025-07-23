@@ -8,7 +8,7 @@ url: /ar/aspose.cells.charts/chartglobalizationsettings/
 is_root: false
 ---
 ##  ChartGlobalizationSettings صف
-يمثل إعدادات العولمة للمخطط.
+يمثل إعدادات العولمة للرسم البياني.
 
 
 
@@ -17,20 +17,20 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/__init__/#) | إنشاء مثيل جديد لـ ChartGlobalizationSettings|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/__init__/#) | إنشاء مثيل جديد لـ ChartGlobalizationSettings|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_series_name](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_series_name/#) | يحصل على اسم السلسلة في المخطط.|
-| [get_chart_title_name](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_chart_title_name/#) | يحصل على اسم عنوان المخطط.|
-| [get_legend_increase_name](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_legend_increase_name/#) | يحصل على اسم الزيادة للأسطورة.|
-| [get_legend_decrease_name](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_legend_decrease_name/#) | يحصل على اسم التخفيض للأسطورة.|
-| [get_legend_total_name](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_legend_total_name/#) | يحصل على اسم Total للأسطورة.|
-| [get_axis_title_name](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_axis_title_name/#) | يحصل على اسم عنوان المحور.|
-| [get_other_name](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_other_name/#) | يحصل على اسم التسميات "أخرى" للمخطط.|
-| [get_axis_unit_name](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_axis_unit_name/#aspose.cells.charts.DisplayUnitType) | يحصل على اسم وحدة المحور.|
+| [`get_series_name(self)`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_series_name/#) | يحصل على اسم السلسلة في الرسم البياني.|
+| [`get_chart_title_name(self)`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_chart_title_name/#) | يحصل على اسم عنوان الرسم البياني.|
+| [`get_legend_increase_name(self)`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_legend_increase_name/#) | يحصل على اسم الزيادة للأسطورة.|
+| [`get_legend_decrease_name(self)`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_legend_decrease_name/#) | يحصل على اسم النقصان للأسطورة.|
+| [`get_legend_total_name(self)`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_legend_total_name/#) | يحصل على اسم المجموع للأسطورة.|
+| [`get_axis_title_name(self)`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_axis_title_name/#) | يحصل على اسم العنوان للمحور.|
+| [`get_other_name(self)`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_other_name/#) | يحصل على اسم العلامات "الأخرى" للرسم البياني.|
+| [`get_axis_unit_name(self, type)`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings/get_axis_unit_name/#aspose.cells.charts.displayunittype) | يحصل على اسم وحدة المحور.|
 
 
 

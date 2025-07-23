@@ -1,15 +1,15 @@
 ---
-title: key2 الملكية
+title: key2 عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells/datasorter/key2/
 is_root: false
 ---
-##  key2 الملكية
+##  key2 عقار
 
-يمثل فهرس العمود الثاني المصنف (الموضع المطلق ، العمود A هو 0 ، B هو 1 ، ...).
+يمثل مؤشر العمود المرتب الثاني (الموضع المطلق، العمود A هو 0، B هو 1، ...).
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def key2(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataSorter](/cells/python-net/ar/aspose.cells/datasorter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataSorter`](/cells/python-net/ar/aspose.cells/datasorter)

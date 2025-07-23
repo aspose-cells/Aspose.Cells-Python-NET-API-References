@@ -3,7 +3,7 @@ title: tab_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 810
+weight: 830
 url: /ar/aspose.cells/worksheet/tab_color/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  ملاحظات
 
- هذه الميزة مدعومة فقط في ExcelXP(Excel2002) والإصدارات الأحدث.
+هذه الميزة مدعومة فقط في ExcelXP(Excel2002) والإصدارات الأحدث.
 إذا قمت بحفظ الملف بتنسيق Excel97 أو Excel2000، فسيتم حذفه.
 ###  تعريف:
 ```python

@@ -9,7 +9,7 @@ is_root: false
 ---
 ## plot_visible_rows属性
 
-仅导出可见行。
+仅导出可见的行。
 ### 定义：
 ```python
 @property

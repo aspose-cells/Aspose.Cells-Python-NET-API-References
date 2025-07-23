@@ -1,5 +1,5 @@
 ---
-title: is_html_string الملكية
+title: is_html_string عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 130
 url: /ar/aspose.cells/importtableoptions/is_html_string/
 is_root: false
 ---
-##  is_html_string الملكية
+##  is_html_string عقار
 
-يشير إلى ما إذا كانت القيمة تحتوي على علامات html.
+يشير إلى ما إذا كانت القيمة تحتوي على علامات HTML.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_html_string(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ImportTableOptions](/cells/python-net/ar/aspose.cells/importtableoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ImportTableOptions`](/cells/python-net/ar/aspose.cells/importtableoptions)

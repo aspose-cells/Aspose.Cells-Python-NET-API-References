@@ -3,13 +3,13 @@ title: is_hidden عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 280
 url: /ar/aspose.cells/workbooksettings/is_hidden/
 is_root: false
 ---
 ##  is_hidden عقار
 
-يشير إلى ما إذا كان هذا المصنف مخفياً.
+يشير إلى ما إذا كان هذا المصنف مخفيًا.
 ###  تعريف:
 ```python
 @property

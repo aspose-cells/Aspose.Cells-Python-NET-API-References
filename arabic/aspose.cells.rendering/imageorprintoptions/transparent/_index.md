@@ -3,17 +3,17 @@ title: transparent عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 390
 url: /ar/aspose.cells.rendering/imageorprintoptions/transparent/
 is_root: false
 ---
 ##  transparent عقار
 
-يشير إلى ما إذا كانت خلفية الصورة التي تم إنشاؤها يجب أن تكون transparent.
+يشير إلى ما إذا كانت خلفية الصورة المولدة يجب أن تكون transparent.
 
 ###  ملاحظات
 
-القيمة الافتراضية هي كاذبة. وهذا يعني أن خلفية الصور التي تم إنشاؤها بيضاء.
+القيمة الافتراضية هي "خطأ". هذا يعني أن خلفية الصور المُولّدة بيضاء.
 ###  تعريف:
 ```python
 @property

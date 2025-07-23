@@ -3,13 +3,13 @@ title: is_link عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 700
+weight: 720
 url: /ar/aspose.cells.drawing/picture/is_link/
 is_root: false
 ---
 ##  is_link عقار
 
-يُرجع صحيحًا إذا كانت الصورة مرتبطة بملف.
+يعود صحيحًا إذا كانت الصورة مرتبطة بملف.
 ###  تعريف:
 ```python
 @property

@@ -1,17 +1,17 @@
 ---
-title: text 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells/headerfootercommand/text/
 is_root: false
 ---
-## text 属性
+## text属性
 
-获取命令的 text。
+获取命令的text。
 
-### 评论
+### 注意事项
 
 仅对 HeaderFooterCommandType.Text 有效。
 ### 定义：
@@ -22,5 +22,5 @@ def text(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HeaderFooterCommand](/cells/python-net/zh/aspose.cells/headerfootercommand)
+* 模块[`aspose.cells`](../../)
+* 类 [`HeaderFooterCommand`](/cells/python-net/zh/aspose.cells/headerfootercommand)

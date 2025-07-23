@@ -1,5 +1,5 @@
 ---
-title: size الملكية
+title: size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 250
 url: /ar/aspose.cells.drawing.texts/textoptions/size/
 is_root: false
 ---
-##  size الملكية
+##  size عقار
 
-الحصول على او تحديد size للخط.
+يحصل على أو يعين size للخط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextOptions](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextOptions`](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)

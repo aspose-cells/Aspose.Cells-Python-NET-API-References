@@ -3,12 +3,12 @@ title: DynamicFilter صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 510
 url: /ar/aspose.cells/dynamicfilter/
 is_root: false
 ---
 ##  DynamicFilter صف
-يمثل المرشح الديناميكي.
+يمثل الفلتر الديناميكي.
 
 
 
@@ -17,9 +17,9 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [dynamic_filter_type](/cells/python-net/ar/aspose.cells/dynamicfilter/dynamic_filter_type) | الحصول على نوع الفلتر الديناميكي وتعيينه.|
-| [value](/cells/python-net/ar/aspose.cells/dynamicfilter/value) | الحصول على قيمة عامل التصفية الديناميكية وتعيينها.|
-| [max_value](/cells/python-net/ar/aspose.cells/dynamicfilter/max_value) | الحصول على القيمة القصوى للمرشح الديناميكي وتعيينها.|
+| [dynamic_filter_type](/cells/python-net/ar/aspose.cells/dynamicfilter/dynamic_filter_type) | يحصل على نوع الفلتر الديناميكي ويقوم بتعيينه.|
+| [value](/cells/python-net/ar/aspose.cells/dynamicfilter/value) | يحصل على قيمة الفلتر الديناميكي ويقوم بتعيينها.|
+| [max_value](/cells/python-net/ar/aspose.cells/dynamicfilter/max_value) | يحصل على القيمة القصوى للمرشح الديناميكي ويقوم بتعيينها.|
 
 
 

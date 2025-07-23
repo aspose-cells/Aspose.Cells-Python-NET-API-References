@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  param_count عقار
 
-الحصول على عدد المعلمات
+يحصل على عدد المعلمات
 ###  تعريف:
 ```python
 @property

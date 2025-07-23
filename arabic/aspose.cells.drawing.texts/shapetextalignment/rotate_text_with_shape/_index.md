@@ -1,15 +1,15 @@
 ---
-title: rotate_text_with_shape الملكية
+title: rotate_text_with_shape عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.drawing.texts/shapetextalignment/rotate_text_with_shape/
 is_root: false
 ---
-##  rotate_text_with_shape الملكية
+##  rotate_text_with_shape عقار
 
-يشير إلى ما إذا كان يتم تدوير النص بالشكل.
+يشير إلى ما إذا كان يتم تدوير النص مع الشكل.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def rotate_text_with_shape(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [ShapeTextAlignment](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`ShapeTextAlignment`](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)

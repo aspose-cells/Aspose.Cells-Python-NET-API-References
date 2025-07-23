@@ -1,14 +1,14 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/cellwatchcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-添加 [CellWatch](/cells/python-net/zh/aspose.cells/cellwatch) 和单元格的名称。
+##  add(self, cell_name) {#str}
+添加单元格名称为 [`CellWatch`](/cells/python-net/zh/aspose.cells/cellwatch)。
 
 
 ### 返回
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -27,8 +28,8 @@ def add(self, cell_name):
 | cell_name | str |单元格的名称。|
 
 
-##  add(row, column) {#int-int}
-添加带有行和列的 [CellWatch](/cells/python-net/zh/aspose.cells/cellwatch)。
+##  add(self, row, column) {#int-int}
+将 [`CellWatch`](/cells/python-net/zh/aspose.cells/cellwatch) 与行和列相加。
 
 
 ### 返回
@@ -37,6 +38,7 @@ def add(self, cell_name):
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -50,6 +52,6 @@ def add(self, row, column):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CellWatch](/cells/python-net/zh/aspose.cells/cellwatch)
-* 类 [CellWatchCollection](/cells/python-net/zh/aspose.cells/cellwatchcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`CellWatch`](/cells/python-net/zh/aspose.cells/cellwatch)
+* 类 [`CellWatchCollection`](/cells/python-net/zh/aspose.cells/cellwatchcollection)

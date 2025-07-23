@@ -3,14 +3,14 @@ title: is_full_path_link عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 580
 url: /ar/aspose.cells/htmlsaveoptions/is_full_path_link/
 is_root: false
 ---
 ##  is_full_path_link عقار
 
-الإشارة إلى ما إذا كان سيتم استخدام رابط المسار الكامل في Sheet00x.htm وfilelist.xml وtabstrip.htm.
-القيمة الافتراضية هي كاذبة.
+يشير إلى ما إذا كان يتم استخدام رابط المسار الكامل في sheet00x.htm وfilelist.xml وtabstrip.htm.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

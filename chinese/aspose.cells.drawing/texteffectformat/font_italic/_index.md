@@ -1,13 +1,13 @@
 ---
-title: font_italic 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: font_italic属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.drawing/texteffectformat/font_italic/
 is_root: false
 ---
-## font_italic 属性
+## font_italic属性
 
 指示字体是否为斜体。
 ### 定义：
@@ -21,5 +21,5 @@ def font_italic(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [TextEffectFormat](/cells/python-net/zh/aspose.cells.drawing/texteffectformat)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`TextEffectFormat`](/cells/python-net/zh/aspose.cells.drawing/texteffectformat)

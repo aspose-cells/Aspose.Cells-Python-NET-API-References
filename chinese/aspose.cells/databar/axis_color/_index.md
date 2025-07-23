@@ -1,15 +1,15 @@
 ---
-title: axis_color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: axis_color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells/databar/axis_color/
 is_root: false
 ---
-## axis_color 属性
+## axis_color属性
 
-获取具有条件格式的单元格的轴颜色作为数据条。
+获取具有条件格式的数据条单元格的轴的颜色。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def axis_color(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DataBar](/cells/python-net/zh/aspose.cells/databar)
+* 模块[`aspose.cells`](../../)
+* 类 [`DataBar`](/cells/python-net/zh/aspose.cells/databar)

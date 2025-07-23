@@ -3,13 +3,13 @@ title: text_horizontal_overflow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 980
+weight: 990
 url: /ar/aspose.cells.drawing/customxmlshape/text_horizontal_overflow/
 is_root: false
 ---
 ##  text_horizontal_overflow عقار
 
-الحصول على نوع النص الفائض الأفقي للشكل الذي يحتوي على النص وتعيينه.
+يحصل على نوع التدفق الأفقي للنص ويقوم بتعيينه للشكل الذي يحتوي على نص.
 
 ###  مثال
 

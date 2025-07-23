@@ -1,5 +1,5 @@
 ---
-title: zoom الملكية
+title: zoom عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 660
 url: /ar/aspose.cells/pagesetup/zoom/
 is_root: false
 ---
-##  zoom الملكية
+##  zoom عقار
 
-يمثل عامل التحجيم بالنسبة المئوية. يجب أن يكون بين 10 و 400.
+يُمثل عامل القياس كنسبة مئوية. يجب أن يكون بين ١٠ و٤٠٠.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def zoom(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

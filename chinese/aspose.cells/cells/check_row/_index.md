@@ -7,16 +7,17 @@ weight: 80
 url: /zh/aspose.cells/cells/check_row/
 is_root: false
 ---
-##  check_row {#int}
+##  check_row(self, row) {#int}
 获取指定单元格行索引处的 [`Row`](/cells/python-net/zh/aspose.cells/row) 元素或 null。
 
 
-### 退货
+### 返回
 
 如果行对象确实存在，则返回 [`Row`](/cells/python-net/zh/aspose.cells/row) 对象，否则返回 null。
 
 
 ```python
+
 def check_row(self, row):
     ...
 ```

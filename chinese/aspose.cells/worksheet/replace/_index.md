@@ -3,16 +3,17 @@ title: replace方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 280
 url: /zh/aspose.cells/worksheet/replace/
 is_root: false
 ---
-##  replace {#str-str}
+##  replace(self, old_string, new_string) {#str-str}
 用新字符串替换所有单元格的文本。
 
 
 
 ```python
+
 def replace(self, old_string, new_string):
     ...
 ```

@@ -3,13 +3,13 @@ title: top_to_corner属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /zh/aspose.cells.drawing/button/top_to_corner/
 is_root: false
 ---
 ## top_to_corner属性
 
-获取和设置形状距工作表顶部边框的垂直偏移量（以像素为单位）。
+获取或设置形状与工作表顶部边框的垂直偏移量，以像素为单位。
 
 ### 例子
 

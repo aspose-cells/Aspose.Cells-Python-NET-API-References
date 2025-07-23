@@ -1,15 +1,15 @@
 ---
-title: children 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: children属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 60
 url: /zh/aspose.cells.drawing.texts/textparagraph/children/
 is_root: false
 ---
-## children 属性
+## children属性
 
-获取此段落中的所有文本运行。
+获取此段落中的所有文本。
 如果此段落为空，则返回段落本身。
 ### 定义：
 ```python
@@ -19,5 +19,5 @@ def children(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](../../)
-* 类 [TextParagraph](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraph)
+* 模块[`aspose.cells.drawing.texts`](../../)
+* 类 [`TextParagraph`](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraph)

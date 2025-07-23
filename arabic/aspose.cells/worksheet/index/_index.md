@@ -3,13 +3,13 @@ title: index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 550
+weight: 580
 url: /ar/aspose.cells/worksheet/index/
 is_root: false
 ---
 ##  index عقار
 
-يحصل على index من الورقة في مجموعة أوراق العمل.
+يحصل على رقم index من الورقة الموجودة في مجموعة أوراق العمل.
 ###  تعريف:
 ```python
 @property

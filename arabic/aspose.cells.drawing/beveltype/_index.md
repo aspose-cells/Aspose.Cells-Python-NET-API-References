@@ -1,37 +1,37 @@
 ---
-title: العد BevelType
+title: BevelType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 780
+weight: 770
 url: /ar/aspose.cells.drawing/beveltype/
 is_root: false
 ---
-##  العد BevelType
-يمثل إعدادًا مسبقًا لنوع مجسم مشطوف الحواف يمكن تطبيقه على شكل ثلاثي الأبعاد.
+##  BevelType التعداد
+يمثل إعدادًا مسبقًا لنوع من الحواف التي يمكن تطبيقها على شكل ثلاثي الأبعاد.
 
 
 
-يكشف نوع BevelType الأعضاء التالية:
+يكشف النوع BevelType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | لا شطبة|
+| NONE | لا يوجد شطبة|
 | ANGLE | زاوية|
-| ART_DECO | الفن ديكو|
+| ART_DECO | آرت ديكو|
 | CIRCLE | دائرة|
 | CONVEX | محدب|
 | COOL_SLANT | ميل بارد|
 | CROSS | يعبر|
 | DIVOT | ديفوت|
 | HARD_EDGE | حافة صلبة|
-| RELAXED_INSET | استرخاء أقحم|
+| RELAXED_INSET | إدخال مريح|
 | RIBLET | ريبليت|
-| SLOPE | ميل|
+| SLOPE | المنحدر|
 | SOFT_ROUND | جولة ناعمة|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

@@ -1,15 +1,15 @@
 ---
-title: company الملكية
+title: company عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/company/
 is_root: false
 ---
-##  company الملكية
+##  company عقار
 
-الحصول على او تحديد الخاصية company.
+يحصل على الخاصية company أو يعينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def company(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

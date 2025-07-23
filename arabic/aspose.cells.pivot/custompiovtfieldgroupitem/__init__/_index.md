@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/
 is_root: false
 ---
-##  __فيه__ {#str-list}
-مُنشئ عنصر المجموعة المخصص للحقل المحوري.
+##  \_\_init\_\_(الذات، الاسم، فهرس العناصر){#str-list}
+منشئ عنصر المجموعة المخصص لحقل المحور.
 
 
 
 ```python
+
 def __init__(self, name, item_indexes):
     ...
 ```
@@ -21,7 +22,7 @@ def __init__(self, name, item_indexes):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | name | str | اسم عنصر المجموعة|
-| item_indexes | list | جميع الفهارس لعناصر الحقل المحوري الأساسي.|
+| item_indexes | list | جميع الفهارس لعناصر حقل المحور الأساسي.|
 
 
 

@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells/range/auto_fill/
 is_root: false
 ---
-##  auto_fill {#aspose.cells.Range}
-تعبئة النطاق المستهدف تلقائيًا.
+##  auto_fill(self, target) {#aspose.cells.Range}
+ملء النطاق المستهدف تلقائيًا.
 
 
 
 ```python
+
 def auto_fill(self, target):
     ...
 ```
@@ -43,12 +44,13 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  auto_fill {#aspose.cells.Range-aspose.cells.AutoFillType}
-تعبئة النطاق المستهدف تلقائيًا.
+##  auto_fill(self, target, auto_fill_type) {#aspose.cells.Range-aspose.cells.AutoFillType}
+ملء النطاق المستهدف تلقائيًا.
 
 
 
 ```python
+
 def auto_fill(self, target, auto_fill_type):
     ...
 ```
@@ -56,7 +58,7 @@ def auto_fill(self, target, auto_fill_type):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| target | [`Range`](/cells/python-net/ar/aspose.cells/range) | النطاق المستهدف.|
+| target | [`Range`](/cells/python-net/ar/aspose.cells/range) | المدى المستهدف.|
 | auto_fill_type | [`AutoFillType`](/cells/python-net/ar/aspose.cells/autofilltype) | نوع التعبئة التلقائية.|
 
 

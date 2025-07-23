@@ -1,13 +1,13 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.vba/vbamodulecollection/add/
 is_root: false
 ---
-##  add(sheet) {#Worksheet}
+##  add(self, sheet) {#aspose.cells.Worksheet}
 为工作表添加模块。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, sheet):
     ...
 ```
@@ -24,10 +25,10 @@ def add(self, sheet):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| sheet | [Worksheet](/cells/python-net/zh/aspose.cells/worksheet) |工作表|
+| sheet | [`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet) |工作表|
 
 
-##  add(type, name) {#VbaModuleType-str}
+##  add(self, type, name) {#aspose.cells.vba.VbaModuleType-str}
 添加模块。
 
 
@@ -37,6 +38,7 @@ def add(self, sheet):
 
 
 ```python
+
 def add(self, type, name):
     ...
 ```
@@ -44,11 +46,11 @@ def add(self, type, name):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| type | [VbaModuleType](/cells/python-net/zh/aspose.cells.vba/vbamoduletype) |模块的类型。|
+| type | [`VbaModuleType`](/cells/python-net/zh/aspose.cells.vba/vbamoduletype) |模块的类型。|
 | name | str |模块的名称。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.vba](../../)
-* 类 [VbaModuleCollection](/cells/python-net/zh/aspose.cells.vba/vbamodulecollection)
+* 模块[`aspose.cells.vba`](../../)
+* 类 [`VbaModuleCollection`](/cells/python-net/zh/aspose.cells.vba/vbamodulecollection)

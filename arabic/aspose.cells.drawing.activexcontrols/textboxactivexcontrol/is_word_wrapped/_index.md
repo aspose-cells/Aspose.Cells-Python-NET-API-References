@@ -1,5 +1,5 @@
 ---
-title: is_word_wrapped الملكية
+title: is_word_wrapped عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 260
 url: /ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_word_wrapped/
 is_root: false
 ---
-##  is_word_wrapped الملكية
+##  is_word_wrapped عقار
 
-الإشارة إلى ما إذا كانت محتويات عنصر التحكم تلتف تلقائيًا في نهاية السطر.
+يشير إلى ما إذا كان محتوى عنصر التحكم يلتف تلقائيًا في نهاية السطر.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_word_wrapped(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [TextBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`TextBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

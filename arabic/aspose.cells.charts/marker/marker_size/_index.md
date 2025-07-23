@@ -1,5 +1,5 @@
 ---
-title: marker_size الملكية
+title: marker_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells.charts/marker/marker_size/
 is_root: false
 ---
-##  marker_size الملكية
+##  marker_size عقار
 
-يمثل حجم العلامة بوحدة من النقاط. ينطبق على المخطط الخطي أو المخطط المبعثر أو المخطط النسيجي.
+يُمثل حجم العلامة بوحدة النقاط. ينطبق على المخططات الخطية، أو مخططات التشتت، أو مخططات الرادار.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def marker_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Marker](/cells/python-net/ar/aspose.cells.charts/marker)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Marker`](/cells/python-net/ar/aspose.cells.charts/marker)

@@ -1,22 +1,22 @@
 ---
-title: attached_files_directory 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: attached_files_directory属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells/htmlloadoptions/attached_files_directory/
 is_root: false
 ---
-## attached_files_directory 属性
+## attached_files_directory属性
 
 附加文件将保存到的目录。
 
-### 评论
+### 注意事项
 
-注意：该成员现已过时。反而，
+注意：此成员现已过时。取而代之的是
 请使用 HtmlLoadOptions.StreamProvider 属性。
-自 2014 年 12 月起 12 个月后，此属性将被删除。
-Aspose 对您可能遇到的任何不便深表歉意。
+该房产将于 2014 年 12 月起 12 个月后被拆除。
+Aspose 对于您所遇到的不便深表歉意。
 ### 定义：
 ```python
 @property
@@ -28,5 +28,5 @@ def attached_files_directory(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlLoadOptions](/cells/python-net/zh/aspose.cells/htmlloadoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlLoadOptions`](/cells/python-net/zh/aspose.cells/htmlloadoptions)

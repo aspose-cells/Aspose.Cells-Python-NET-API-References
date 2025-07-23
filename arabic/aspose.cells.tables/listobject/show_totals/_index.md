@@ -1,15 +1,15 @@
 ---
-title: show_totals الملكية
+title: show_totals عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ar/aspose.cells.tables/listobject/show_totals/
 is_root: false
 ---
-##  show_totals الملكية
+##  show_totals عقار
 
-الحصول على وتحديد ما إذا كان ListObject هذا يعرض صف الإجمالي أم لا.
+يحصل ويحدد ما إذا كان ListObject هذا يعرض إجمالي الصف.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_totals(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListObject](/cells/python-net/ar/aspose.cells.tables/listobject)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListObject`](/cells/python-net/ar/aspose.cells.tables/listobject)

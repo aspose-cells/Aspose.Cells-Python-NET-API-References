@@ -7,7 +7,7 @@ weight: 20
 url: /ar/aspose.cells/scenariocollection/add/
 is_root: false
 ---
-##  add(name) {#str}
+##  add(self, name) {#str}
 يضيف سيناريو.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, name):
     ...
 ```
@@ -29,5 +30,5 @@ def add(self, name):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ScenarioCollection](/cells/python-net/ar/aspose.cells/scenariocollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ScenarioCollection`](/cells/python-net/ar/aspose.cells/scenariocollection)

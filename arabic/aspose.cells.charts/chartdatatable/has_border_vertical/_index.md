@@ -1,15 +1,22 @@
 ---
-title: has_border_vertical الملكية
+title: has_border_vertical عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 90
 url: /ar/aspose.cells.charts/chartdatatable/has_border_vertical/
 is_root: false
 ---
-##  has_border_vertical الملكية
+##  has_border_vertical عقار
 
-صواب إذا كان جدول بيانات المخطط يحتوي على حدود خلية عمودية
+صحيح إذا كان جدول بيانات الرسم البياني يحتوي على حدود خلايا عمودية
+
+###  ملاحظات
+
+ ملاحظة: هذه الخاصية أصبحت قديمة الآن. بدلاً من ذلك،
+الرجاء استخدام الخاصية ChartDataTable.HasVerticalBorder.
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ يونيو 2024.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +28,5 @@ def has_border_vertical(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartDataTable](/cells/python-net/ar/aspose.cells.charts/chartdatatable)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartDataTable`](/cells/python-net/ar/aspose.cells.charts/chartdatatable)

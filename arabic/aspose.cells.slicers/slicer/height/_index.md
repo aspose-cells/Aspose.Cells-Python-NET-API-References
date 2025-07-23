@@ -1,5 +1,5 @@
 ---
-title: height الملكية
+title: height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,15 +7,22 @@ weight: 110
 url: /ar/aspose.cells.slicers/slicer/height/
 is_root: false
 ---
-##  height الملكية
+##  height عقار
 
-إرجاع أو تعيين height الخاص بمقسم طريقة العرض المحدد بالنقاط.
+إرجاع أو تعيين height للمقطع المحدد، بالنقاط.
+
+###  ملاحظات
+
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+ الرجاء استخدام خاصية Shape.HeightPt.
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ مايو 2025.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 ###  مثال
 
 ```python
 
-slicer.height = 120
+slicer.height = 120.0
 
 ```
 ###  تعريف:
@@ -29,5 +36,5 @@ def height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

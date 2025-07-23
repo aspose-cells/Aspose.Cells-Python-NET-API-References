@@ -7,11 +7,11 @@ weight: 10
 url: /ar/aspose.cells.settings/
 is_root: false
 ---
- ال**Aspose.Cells.Settings** تحتوي مساحة الاسم على الفئات التي تحدد الإعدادات لميزات مختلفة.
+ ال**Aspose.Cells.Settings** تحتوي مساحة الاسم على فئات تحدد الإعدادات لميزات مختلفة.
 
 ###  الطبقات
 | فصل| وصف|
 | :- | :- |
-| [PivotGlobalizationSettings](/cells/python-net/ar/aspose.cells.settings/pivotglobalizationsettings) | يمثل إعدادات العولمة للجداول المحورية.|
+| [`PivotGlobalizationSettings`](/cells/python-net/ar/aspose.cells.settings/pivotglobalizationsettings) | يمثل إعدادات العولمة لجداول المحور.|
 
 

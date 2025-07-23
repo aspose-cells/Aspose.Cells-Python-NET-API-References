@@ -1,5 +1,5 @@
 ---
-title: type الملكية
+title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 480
 url: /ar/aspose.cells.charts/series/type/
 is_root: false
 ---
-##  type الملكية
+##  type عقار
 
-الحصول على أو تعيين سلسلة بيانات "type.
+يحصل على سلسلة البيانات type أو يعينها.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartType](/cells/python-net/ar/aspose.cells.charts/charttype)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartType`](/cells/python-net/ar/aspose.cells.charts/charttype)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

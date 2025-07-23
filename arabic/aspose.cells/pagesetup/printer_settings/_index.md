@@ -1,5 +1,5 @@
 ---
-title: printer_settings الملكية
+title: printer_settings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 610
 url: /ar/aspose.cells/pagesetup/printer_settings/
 is_root: false
 ---
-##  printer_settings الملكية
+##  printer_settings عقار
 
-الحصول على إعدادات الطابعة الافتراضية وتعيينها.
+يحصل على إعدادات الطابعة الافتراضية ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def printer_settings(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

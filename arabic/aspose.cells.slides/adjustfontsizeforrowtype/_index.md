@@ -8,7 +8,7 @@ url: /ar/aspose.cells.slides/adjustfontsizeforrowtype/
 is_root: false
 ---
 ##  AdjustFontSizeForRowType التعداد
-يمثل أي نوع من الصفوف يجب تعديلها.
+يمثل نوع الصفوف التي يجب تعديلها.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | لا تعديل.|
-| EMPTY_ROWS | إذا كان الصف فارغًا، فقم بتغيير حجم الخط ليناسب ارتفاع الصف.|
+| NONE | لا يوجد تعديل.|
+| EMPTY_ROWS | إذا كان الصف فارغًا، قم بتغيير حجم الخط ليتناسب مع ارتفاع الصف.|
 
 
 

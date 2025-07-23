@@ -7,16 +7,17 @@ weight: 30
 url: /ar/aspose.cells.pivot/pivottable/add_field_to_area/
 is_root: false
 ---
-##  add_field_to_area(field_type, field_name) {#PivotFieldType-str}
-يضيف الحقل إلى منطقة معينة.
+##  add_field_to_area(self, field_type, field_name) {#aspose.cells.pivot.PivotFieldType-str}
+يضيف الحقل إلى المنطقة المحددة.
 
 
 ###  عائدات
 
-موضع الحقل في الحقول المحددة ، إذا لم يكن هناك حقل اسمه ، فارجع -1.
+موضع الحقل في الحقول المحددة. إذا لم يكن هناك حقل باسمه، قم بإرجاع -1.
 
 
 ```python
+
 def add_field_to_area(self, field_type, field_name):
     ...
 ```
@@ -24,20 +25,21 @@ def add_field_to_area(self, field_type, field_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/ar/aspose.cells.pivot/pivotfieldtype) | نوع منطقة الحقول.|
-| field_name | str | الاسم في الحقول الأساسية.|
+| field_type | [`PivotFieldType`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldtype) | نوع منطقة الحقول.|
+| field_name | str |الإسم الموجود في الحقول الأساسية.|
 
 
-##  add_field_to_area(field_type, base_field_index) {#PivotFieldType-int}
-يضيف الحقل إلى منطقة معينة.
+##  add_field_to_area(self, field_type, base_field_index) {#aspose.cells.pivot.PivotFieldType-int}
+يضيف الحقل إلى المنطقة المحددة.
 
 
 ###  عائدات
 
-الموقع الميداني في المجالات المحددة.
+موقع الحقل في الحقول المحددة.
 
 
 ```python
+
 def add_field_to_area(self, field_type, base_field_index):
     ...
 ```
@@ -45,20 +47,21 @@ def add_field_to_area(self, field_type, base_field_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/ar/aspose.cells.pivot/pivotfieldtype) | نوع منطقة الحقول.|
-| base_field_index | int | فهرس المجال في الحقول الأساسية.|
+| field_type | [`PivotFieldType`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldtype) | نوع منطقة الحقول.|
+| base_field_index | int | مؤشر الحقل في الحقول الأساسية.|
 
 
-##  add_field_to_area(field_type, pivot_field) {#PivotFieldType-PivotField}
-يضيف الحقل إلى منطقة معينة.
+##  add_field_to_area(self, field_type, pivot_field) {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
+يضيف الحقل إلى المنطقة المحددة.
 
 
 ###  عائدات
 
-الموقع الميداني في المجالات المحددة.
+موقع الحقل في الحقول المحددة.
 
 
 ```python
+
 def add_field_to_area(self, field_type, pivot_field):
     ...
 ```
@@ -66,11 +69,11 @@ def add_field_to_area(self, field_type, pivot_field):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/ar/aspose.cells.pivot/pivotfieldtype) | نوع منطقة الحقول.|
-| pivot_field | [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield) | الحقل في الحقول الأساسية.|
+| field_type | [`PivotFieldType`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldtype) | نوع منطقة الحقول.|
+| pivot_field | [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield) | الحقل في الحقول الأساسية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

@@ -1,15 +1,15 @@
 ---
-title: text_vertical_type الملكية
+title: text_vertical_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells.drawing.texts/shapetextalignment/text_vertical_type/
 is_root: false
 ---
-##  text_vertical_type الملكية
+##  text_vertical_type عقار
 
-يحصل ويضبط اتجاه النص.
+يحصل على اتجاه النص ويحدده.
 
 ###  مثال
 
@@ -30,6 +30,6 @@ def text_vertical_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [ShapeTextAlignment](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
-* فئة [TextVerticalType](/cells/python-net/ar/aspose.cells.drawing.texts/textverticaltype)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`ShapeTextAlignment`](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
+* فئة [`TextVerticalType`](/cells/python-net/ar/aspose.cells.drawing.texts/textverticaltype)

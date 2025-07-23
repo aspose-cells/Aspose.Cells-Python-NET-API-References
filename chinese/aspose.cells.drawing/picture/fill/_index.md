@@ -3,13 +3,13 @@ title: fill属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 420
 url: /zh/aspose.cells.drawing/picture/fill/
 is_root: false
 ---
 ## fill属性
 
-返回一个 [`Shape.fill_format`](/cells/python-net/zh/aspose.cells.drawing/shape#fill_format) 对象，其中包含指定形状的 fill 格式设置属性。
+返回一个 [`Shape.fill_format`](/cells/python-net/zh/aspose.cells.drawing/shape#fill_format) 对象，该对象包含指定形状的 fill 格式属性。
 
 ### 例子
 

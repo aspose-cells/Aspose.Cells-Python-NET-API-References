@@ -1,28 +1,28 @@
 ---
-title: العد GradientFillType
+title: GradientFillType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 870
+weight: 860
 url: /ar/aspose.cells.drawing/gradientfilltype/
 is_root: false
 ---
-##  العد GradientFillType
-يمثل كل أنواع التعبئة المتدرجة.
+##  GradientFillType التعداد
+يمثل جميع أنواع التعبئة المتدرجة.
 
 
 
-يكشف نوع GradientFillType الأعضاء التالية:
+يكشف النوع GradientFillType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | LINEAR | خطي|
 | RADIAL | شعاعي|
-| RECTANGLE | مستطيل|
+| RECTANGLE | المستطيل|
 | PATH | طريق|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

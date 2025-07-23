@@ -1,15 +1,15 @@
 ---
-title: has_header_row الملكية
+title: has_header_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 150
 url: /ar/aspose.cells/jsonsaveoptions/has_header_row/
 is_root: false
 ---
-##  has_header_row الملكية
+##  has_header_row عقار
 
-يشير إلى ما إذا كان النطاق يحتوي على صف الرأس.
+يشير إلى ما إذا كان النطاق يحتوي على صف رأس.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_header_row(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [JsonSaveOptions](/cells/python-net/ar/aspose.cells/jsonsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`JsonSaveOptions`](/cells/python-net/ar/aspose.cells/jsonsaveoptions)

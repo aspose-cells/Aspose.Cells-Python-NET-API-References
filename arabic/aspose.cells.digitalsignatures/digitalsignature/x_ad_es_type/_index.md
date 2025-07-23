@@ -1,16 +1,16 @@
 ---
-title: x_ad_es_type الملكية
+title: x_ad_es_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.digitalsignatures/digitalsignature/x_ad_es_type/
 is_root: false
 ---
-##  x_ad_es_type الملكية
+##  x_ad_es_type عقار
 
 نوع XAdES.
-القيمة الافتراضية هي بلا (XAdES قيد إيقاف التشغيل).
+القيمة الافتراضية هي None (XAdES متوقف).
 ###  تعريف:
 ```python
 @property
@@ -22,6 +22,6 @@ def x_ad_es_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.digitalsignatures](../../)
-* فئة [DigitalSignature](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature)
-* فئة [XAdESType](/cells/python-net/ar/aspose.cells.digitalsignatures/xadestype)
+* الوحدة [`aspose.cells.digitalsignatures`](../../)
+* فئة [`DigitalSignature`](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature)
+* فئة [`XAdESType`](/cells/python-net/ar/aspose.cells.digitalsignatures/xadestype)

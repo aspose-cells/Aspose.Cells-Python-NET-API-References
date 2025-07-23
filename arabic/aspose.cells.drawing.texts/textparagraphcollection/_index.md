@@ -1,5 +1,5 @@
 ---
-title: TextParagraphCollection الدرجة
+title: TextParagraphCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,12 @@ weight: 110
 url: /ar/aspose.cells.drawing.texts/textparagraphcollection/
 is_root: false
 ---
-##  TextParagraphCollection الدرجة
-يمثل كل نص فقرة.
+##  TextParagraphCollection صف
+يمثل فقرة النص بأكملها.
 
 
 
-يكشف نوع TextParagraphCollection الأعضاء التالية:
+يكشف النوع TextParagraphCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
@@ -21,20 +21,14 @@ is_root: false
 
 
 
-يحصل على العنصر [TextParagraph](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph) عند فهرس معين.
-###  مفهرس
+يحصل على الكائن [`TextParagraph`](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph) في فهرس معين.
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
-| [index] | مؤشر.|
-
-
-###  طُرق
-| طريقة| وصف|
-| :- | :- |
-| [get_enumerator()](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraphcollection/get_enumerator/#) | يحصل على تعداد الفقرات.|
+| [index] | الفهرس.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
-* فئة [TextParagraph](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)
+* الوحدة [`aspose.cells.drawing.texts`](..)
+* فئة [`TextParagraph`](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)

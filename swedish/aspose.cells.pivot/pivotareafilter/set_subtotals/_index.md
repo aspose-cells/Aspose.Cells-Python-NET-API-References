@@ -1,0 +1,31 @@
+---
+title: set_subtotals metod
+second_title: Aspose.Cells for Python via .NET API Referenser
+description:
+type: docs
+weight: 30
+url: /sv/aspose.cells.pivot/pivotareafilter/set_subtotals/
+is_root: false
+---
+##  set_subtotals(self, subtotal_type, shown) {#aspose.cells.pivot.PivotFieldSubtotalType-bool}
+Delsumma för filtret.
+
+
+
+```python
+
+def set_subtotals(self, subtotal_type, shown):
+    ...
+```
+
+
+| Parameter| Typ| Beskrivning|
+| :- | :- | :- |
+| subtotal_type | [`PivotFieldSubtotalType`](/cells/python-net/sv/aspose.cells.pivot/pivotfieldsubtotaltype) | Delsummefunktionen.|
+| shown | bool | Anger om denna delsumma visas.|
+
+
+
+###  Se även
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotAreaFilter`](/cells/python-net/sv/aspose.cells.pivot/pivotareafilter)

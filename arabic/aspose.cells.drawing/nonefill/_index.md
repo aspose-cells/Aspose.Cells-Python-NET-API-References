@@ -1,26 +1,24 @@
 ---
-title: NoneFill الدرجة
+title: NoneFill صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 370
 url: /ar/aspose.cells.drawing/nonefill/
 is_root: false
 ---
-##  NoneFill الدرجة
-لا يمثل ملء.
+##  NoneFill صف
+لا يمثل أي تعبئة.
 
 
 
-**ميراث:** [NoneFill](/cells/python-net/aspose.cells.drawing/nonefill) → 
-[Fill](/cells/python-net/ar/aspose.cells.drawing/fill)
+**الميراث:** [`NoneFill`](/cells/python-net/ar/aspose.cells.drawing/nonefill)
 
 
 
-يكشف نوع NoneFill الأعضاء التالية:
+يكشف النوع NoneFill عن الأعضاء التاليين:
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
-* فئة [Fill](/cells/python-net/ar/aspose.cells.drawing/fill)
-* فئة [NoneFill](/cells/python-net/ar/aspose.cells.drawing/nonefill)
+* الوحدة [`aspose.cells.drawing`](..)
+* فئة [`NoneFill`](/cells/python-net/ar/aspose.cells.drawing/nonefill)

@@ -3,13 +3,13 @@ title: refresh_chart_cache عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 130
 url: /ar/aspose.cells/odssaveoptions/refresh_chart_cache/
 is_root: false
 ---
 ##  refresh_chart_cache عقار
 
-يشير إلى ما إذا كان سيتم تحديث بيانات ذاكرة التخزين المؤقت للمخطط أم لا
+يشير إلى ما إذا كان يتم تحديث بيانات ذاكرة التخزين المؤقت للرسم البياني
 ###  تعريف:
 ```python
 @property

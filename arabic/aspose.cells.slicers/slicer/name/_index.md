@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 180
 url: /ar/aspose.cells.slicers/slicer/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-إرجاع أو تعيين name الخاص بمقسم طريقة العرض المحدد
+إرجاع أو تعيين name للمقطع المحدد
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

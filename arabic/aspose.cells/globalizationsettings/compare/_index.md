@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/globalizationsettings/compare/
 is_root: false
 ---
-##  compare(v1, v2, ignore_case) {#str-str-bool}
-يقارن قيمتي سلسلة وفقًا لقواعد ترتيب معينة.
+##  compare(self, v1, v2, ignore_case) {#str-str-bool}
+مقارنة قيمتين لسلسلتين وفقًا لقواعد الترتيب المحددة.
 
 
 ###  عائدات
 
-عدد صحيح يشير إلى العلاقة المعجمية بين المقارنات
+عدد صحيح يشير إلى العلاقة المعجمية بين المقارنتين
 
 
 ```python
+
 def compare(self, v1, v2, ignore_case):
     ...
 ```
@@ -24,12 +25,12 @@ def compare(self, v1, v2, ignore_case):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| v1 | str | السلسلة الأولى|
-| v2 | str | السلسلة الثانية|
-| ignore_case | bool | سواء تجاهل الحالة عند مقارنة القيم|
+| v1 | str | الوتر الأول|
+| v2 | str | الوتر الثاني|
+| ignore_case | bool | هل يتم تجاهل حالة الأحرف عند مقارنة القيم؟|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GlobalizationSettings](/cells/python-net/ar/aspose.cells/globalizationsettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GlobalizationSettings`](/cells/python-net/ar/aspose.cells/globalizationsettings)

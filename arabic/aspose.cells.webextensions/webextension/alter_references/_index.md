@@ -1,5 +1,5 @@
 ---
-title: alter_references الملكية
+title: alter_references عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells.webextensions/webextension/alter_references/
 is_root: false
 ---
-##  alter_references الملكية
+##  alter_references عقار
 
 يحصل على قائمة المراجع البديلة.
 ###  تعريف:
@@ -18,6 +18,6 @@ def alter_references(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtension](/cells/python-net/ar/aspose.cells.webextensions/webextension)
-* فئة [WebExtensionReferenceCollection](/cells/python-net/ar/aspose.cells.webextensions/webextensionreferencecollection)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtension`](/cells/python-net/ar/aspose.cells.webextensions/webextension)
+* فئة [`WebExtensionReferenceCollection`](/cells/python-net/ar/aspose.cells.webextensions/webextensionreferencecollection)

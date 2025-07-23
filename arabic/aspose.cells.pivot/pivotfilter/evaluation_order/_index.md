@@ -1,15 +1,15 @@
 ---
-title: evaluation_order الملكية
+title: evaluation_order عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 80
 url: /ar/aspose.cells.pivot/pivotfilter/evaluation_order/
 is_root: false
 ---
-##  evaluation_order الملكية
+##  evaluation_order عقار
 
-يحصل على ترتيب التقييم لعامل التصفية المحوري.
+يحصل على ترتيب التقييم لمرشح المحور.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def evaluation_order(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotFilter](/cells/python-net/ar/aspose.cells.pivot/pivotfilter)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotFilter`](/cells/python-net/ar/aspose.cells.pivot/pivotfilter)

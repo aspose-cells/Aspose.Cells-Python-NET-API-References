@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_columns عقار
 
-تصدير الأعمدة المرئية فقط.
+يتم تصدير الأعمدة المرئية فقط.
 ###  تعريف:
 ```python
 @property

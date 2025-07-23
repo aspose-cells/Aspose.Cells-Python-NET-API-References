@@ -3,13 +3,13 @@ title: upper_left_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /ar/aspose.cells.drawing/lineshape/upper_left_column/
 is_root: false
 ---
 ##  upper_left_column عقار
 
-يمثل فهرس عمود الزاوية اليسرى العليا.
+يمثل مؤشر العمود الموجود في الزاوية اليسرى العليا.
 
 ###  مثال
 

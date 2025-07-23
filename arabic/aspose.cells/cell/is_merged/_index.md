@@ -3,7 +3,7 @@ title: is_merged عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 640
 url: /ar/aspose.cells/cell/is_merged/
 is_root: false
 ---

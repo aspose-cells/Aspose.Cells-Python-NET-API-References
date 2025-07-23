@@ -1,5 +1,5 @@
 ---
-title: convert_grid_style الملكية
+title: convert_grid_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 50
 url: /ar/aspose.cells/importtableoptions/convert_grid_style/
 is_root: false
 ---
-##  convert_grid_style الملكية
+##  convert_grid_style عقار
 
 يشير إلى ما إذا كان سيتم تطبيق نمط عرض الشبكة على الخلايا.
 ###  تعريف:
@@ -21,5 +21,5 @@ def convert_grid_style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ImportTableOptions](/cells/python-net/ar/aspose.cells/importtableoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ImportTableOptions`](/cells/python-net/ar/aspose.cells/importtableoptions)

@@ -1,13 +1,13 @@
 ---
 title: is_template_format方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells/fileformatutil/is_template_format/
 is_root: false
 ---
-##  is_template_format(extension) {#str}
+##  is_template_format（分机号）{#str}
 如果扩展名是 .xlt、.xltX、.xltm、.ots，则返回 true。
 
 
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def is_template_format(self, extension):
+
+@staticmethod
+def is_template_format(extension):
     ...
 ```
 
@@ -29,5 +31,5 @@ def is_template_format(self, extension):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FileFormatUtil](/cells/python-net/zh/aspose.cells/fileformatutil)
+* 模块[`aspose.cells`](../../)
+* 类 [`FileFormatUtil`](/cells/python-net/zh/aspose.cells/fileformatutil)

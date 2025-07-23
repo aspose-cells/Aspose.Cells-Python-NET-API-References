@@ -3,7 +3,7 @@ title: original_height_cm属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 940
+weight: 960
 url: /zh/aspose.cells.drawing/picture/original_height_cm/
 is_root: false
 ---

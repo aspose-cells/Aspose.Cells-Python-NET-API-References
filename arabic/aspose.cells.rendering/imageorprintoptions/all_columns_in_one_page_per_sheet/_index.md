@@ -1,5 +1,5 @@
 ---
-title: all_columns_in_one_page_per_sheet الملكية
+title: all_columns_in_one_page_per_sheet عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,11 +7,11 @@ weight: 40
 url: /ar/aspose.cells.rendering/imageorprintoptions/all_columns_in_one_page_per_sheet/
 is_root: false
 ---
-##  all_columns_in_one_page_per_sheet الملكية
+##  all_columns_in_one_page_per_sheet عقار
 
- إذا كانت AllColumnsInOnePagePerSheet صحيحة ، فسيتم إخراج محتوى العمود بالكامل في ورقة واحدة إلى صفحة واحدة فقط في النتيجة.
- سيكون عرض حجم الورق الخاص بإعداد الصفحات غير صالح ، والإعدادات الأخرى لإعداد الصفحات
-ستظل نافذة المفعول.
+ إذا كانت قيمة AllColumnsInOnePagePerSheet صحيحة، فسيتم إخراج كل محتوى العمود في ورقة واحدة إلى صفحة واحدة فقط في النتيجة.
+ سيكون عرض حجم الورق لإعداد الصفحة غير صالح، والإعدادات الأخرى لإعداد الصفحة
+سوف تظل سارية المفعول.
 ###  تعريف:
 ```python
 @property
@@ -23,5 +23,5 @@ def all_columns_in_one_page_per_sheet(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [ImageOrPrintOptions](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`ImageOrPrintOptions`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions)

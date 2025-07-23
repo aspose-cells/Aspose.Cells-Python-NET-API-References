@@ -1,15 +1,15 @@
 ---
-title: text_horizontal_overflow الملكية
+title: text_horizontal_overflow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ar/aspose.cells.drawing.texts/shapetextalignment/text_horizontal_overflow/
 is_root: false
 ---
-##  text_horizontal_overflow الملكية
+##  text_horizontal_overflow عقار
 
-الحصول على نوع تجاوز النص الأفقي لمربع النص وتعيينه.
+يحصل على نوع تجاوز النص الأفقي لمربع النص ويقوم بتعيينه.
 
 ###  مثال
 
@@ -30,6 +30,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [ShapeTextAlignment](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
-* فئة [TextOverflowType](/cells/python-net/ar/aspose.cells.drawing/textoverflowtype)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`ShapeTextAlignment`](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
+* فئة [`TextOverflowType`](/cells/python-net/ar/aspose.cells.drawing/textoverflowtype)

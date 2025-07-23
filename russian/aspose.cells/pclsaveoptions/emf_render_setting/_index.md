@@ -1,0 +1,24 @@
+---
+title: emf_render_setting недвижимость
+second_title: Aspose.Cells for Python via .NET API Ссылки
+description:
+type: docs
+weight: 160
+url: /ru/aspose.cells/pclsaveoptions/emf_render_setting/
+is_root: false
+---
+##  emf_render_setting недвижимость
+###  Определение:
+```python
+@property
+def emf_render_setting(self):
+    ...
+@emf_render_setting.setter
+def emf_render_setting(self, value):
+    ...
+```
+
+###  Смотрите также
+* модуль [`aspose.cells`](../../)
+* класс [`EmfRenderSetting`](/cells/python-net/ru/aspose.cells/emfrendersetting)
+* класс [`PclSaveOptions`](/cells/python-net/ru/aspose.cells/pclsaveoptions)

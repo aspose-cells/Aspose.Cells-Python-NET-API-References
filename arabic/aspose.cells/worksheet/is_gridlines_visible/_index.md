@@ -3,13 +3,13 @@ title: is_gridlines_visible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 590
 url: /ar/aspose.cells/worksheet/is_gridlines_visible/
 is_root: false
 ---
 ##  is_gridlines_visible عقار
 
-الحصول على قيمة تشير إلى ما إذا كانت خطوط الشبكة مرئية أو تعيينها. القيمة الافتراضية صحيحة.
+يحصل على قيمة أو يعينها للإشارة إلى ما إذا كانت خطوط الشبكة مرئية أم لا. الإعداد الافتراضي هو true.
 ###  تعريف:
 ```python
 @property

@@ -1,19 +1,19 @@
 ---
-title: revision_number الملكية
+title: revision_number عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 350
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/revision_number/
 is_root: false
 ---
-##  revision_number الملكية
+##  revision_number عقار
 
-الحصول على أو تحديد رقم مراجعة المستند.
+يحصل على رقم مراجعة المستند أو يعينه.
 
 ###  ملاحظات
 
-Aspose.Cells لا يقوم بتحديث هذه الخاصية عند تعديل الوثيقة.
+Aspose.Cells لا يقوم بتحديث هذه الخاصية عند تعديل المستند.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def revision_number(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

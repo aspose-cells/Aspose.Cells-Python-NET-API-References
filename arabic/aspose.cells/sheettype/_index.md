@@ -3,7 +3,7 @@ title: SheetType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2550
+weight: 2520
 url: /ar/aspose.cells/sheettype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| VB | وحدة فيجوال بيسك|
+| VB | وحدة Visual Basic|
 | WORKSHEET |  |
 | CHART | جدول|
 | BIFF4_MACRO | ورقة ماكرو BIFF4|

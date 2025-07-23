@@ -1,13 +1,13 @@
 ---
-title: plot_empty_cells_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: plot_empty_cells_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 140
 url: /zh/aspose.cells.charts/sparklinegroup/plot_empty_cells_type/
 is_root: false
 ---
-## plot_empty_cells_type 属性
+## plot_empty_cells_type属性
 
 指示如何绘制空单元格。
 ### 定义：
@@ -21,6 +21,6 @@ def plot_empty_cells_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [PlotEmptyCellsType](/cells/python-net/zh/aspose.cells.charts/plotemptycellstype)
-* 类 [SparklineGroup](/cells/python-net/zh/aspose.cells.charts/sparklinegroup)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`PlotEmptyCellsType`](/cells/python-net/zh/aspose.cells.charts/plotemptycellstype)
+* 类 [`SparklineGroup`](/cells/python-net/zh/aspose.cells.charts/sparklinegroup)

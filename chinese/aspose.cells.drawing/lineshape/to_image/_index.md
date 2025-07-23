@@ -3,16 +3,17 @@ title: to_image方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 240
 url: /zh/aspose.cells.drawing/lineshape/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
-创建形状图像并将其以指定格式保存到流中。
+##  to_image(self, stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
+创建形状图像并将其保存到指定格式的流中。
 
 
 
 ```python
+
 def to_image(self, stream, image_type):
     ...
 ```
@@ -22,7 +23,7 @@ def to_image(self, stream, image_type):
 | :- | :- | :- |
 | stream | io.RawIOBase |输出流。|
 | image_type | [`ImageType`](/cells/python-net/zh/aspose.cells.drawing/imagetype) |保存图像的类型。|
-### 评论
+### 注意事项
 
 支持以下格式：
 .bmp、.gif、.jpg、.jpeg、.tiff、.emf。
@@ -38,12 +39,13 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-##  to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
-将形状保存到文件中。
+##  to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+将形状保存到文件。
 
 
 
 ```python
+
 def to_image(self, image_file, options):
     ...
 ```
@@ -65,12 +67,13 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-##  to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 将形状保存到流中。
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```

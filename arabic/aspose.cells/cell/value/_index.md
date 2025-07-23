@@ -3,13 +3,13 @@ title: value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 740
+weight: 770
 url: /ar/aspose.cells/cell/value/
 is_root: false
 ---
 ##  value عقار
 
-الحصول على/تعيين value الموجود في هذه الخلية.
+يحصل على/يضبط value الموجود في هذه الخلية.
 
 ###  ملاحظات
 
@@ -18,7 +18,7 @@ is_root: false
 باطل،
 
 
-منطقية،
+منطقي،
 
 
 التاريخ والوقت،
@@ -33,8 +33,8 @@ is_root: false
 خيط.
 
 
-بالنسبة إلى int value، قد يتم إرجاعه ككائن عدد صحيح أو كائن مزدوج.
-وليس هناك ما يضمن أن الرقم value الذي تم إرجاعه سيتم الاحتفاظ به بنفس نوع الكائن دائمًا.
+بالنسبة لـ int value، يمكن إرجاعه ككائن Integer أو كائن Double.
+ولا يوجد ضمان بأن يتم الاحتفاظ بالرقم value المرتجع بنفس نوع الكائن دائمًا.
 ###  تعريف:
 ```python
 @property

@@ -3,16 +3,17 @@ title: طريقة set_input_range
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ar/aspose.cells.drawing/chartshape/set_input_range/
 is_root: false
 ---
-##  set_input_range {#str-bool-bool}
-يضبط النطاق المستخدم لملء عنصر التحكم.
+##  set_input_range(self, formula, is_r1c1, is_local) {#str-bool-bool}
+تعيين النطاق المستخدم لملء عنصر التحكم.
 
 
 
 ```python
+
 def set_input_range(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -21,8 +22,8 @@ def set_input_range(self, formula, is_r1c1, is_local):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | formula | str | النطاق المستخدم لملء عنصر التحكم.|
-| is_r1c1 | bool | ما إذا كانت الصيغة بحاجة إلى التنسيق كـ R1C1.|
-| is_local | bool | ما إذا كانت الصيغة بحاجة إلى التنسيق حسب الإعدادات المحلية.|
+| is_r1c1 | bool | ما إذا كانت الصيغة تحتاج إلى تنسيقها كـ R1C1.|
+| is_local | bool | ما إذا كانت الصيغة تحتاج إلى تنسيق حسب الإعدادات المحلية.|
 
 ###  مثال
 

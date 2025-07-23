@@ -9,7 +9,7 @@ is_root: false
 ---
 ## is_gray属性
 
-指示该图片是否应以灰度显示。
+指示此图片是否应以灰度显示。
 ### 定义：
 ```python
 @property

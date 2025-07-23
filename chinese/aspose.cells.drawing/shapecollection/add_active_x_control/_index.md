@@ -1,13 +1,13 @@
 ---
 title: add_active_x_control方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.drawing/shapecollection/add_active_x_control/
 is_root: false
 ---
-##  add_active_x_control(type, top_row, top, left_column, left, width, height) {#aspose.cells.drawing.activexcontrols.ControlType-int-int-int-int-int-int}
+##  add_active_x_control(self, type, top_row, top, left_column, left, width, height) {#aspose.cells.drawing.activexcontrols.ControlType-int-int-int-int-int-int}
 创建一个 Activex 控件。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_active_x_control(self, type, top_row, top, left_column, left, width, height):
     ...
 ```
@@ -26,11 +27,11 @@ def add_active_x_control(self, type, top_row, top, left_column, left, width, hei
 | :- | :- | :- |
 | type | aspose.cells.drawing.activexcontrols.ControlType |控件的类型。|
 | top_row | int |左上行索引。|
-| top | int |表示 Shape 从其左行的垂直偏移量，以像素为单位。|
-| left_column | int |左上列索引。|
-| left | int |表示 Shape 从其左列的水平偏移量，以像素为单位。|
-| width | int |表示 Shape 的宽度，以像素为单位。|
-| height | int |表示Shape的高度，单位为像素。|
+| top | int |表示 Shape 距离其左行的垂直偏移量，以像素为单位。|
+| left_column | int |左上角的列索引。|
+| left | int |表示 Shape 距离其左列的水平偏移量，以像素为单位。|
+| width | int |表示Shape的宽度，以像素为单位。|
+| height | int |表示Shape的高度，以像素为单位。|
 
 ### 例子
 
@@ -45,5 +46,5 @@ activeXControl = shapes.add_active_x_control(ControlType.CHECK_BOX, 1, 0, 1, 0, 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapeCollection](/cells/python-net/zh/aspose.cells.drawing/shapecollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapeCollection`](/cells/python-net/zh/aspose.cells.drawing/shapecollection)

@@ -1,5 +1,5 @@
 ---
-title: is_normalize_heights الملكية
+title: is_normalize_heights عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 110
 url: /ar/aspose.cells/font/is_normalize_heights/
 is_root: false
 ---
-##  is_normalize_heights الملكية
+##  is_normalize_heights عقار
 
-يشير إلى ما إذا كان يتم تطبيق تسوية الارتفاع على تشغيل النص.
+يشير إلى ما إذا كان تطبيع الارتفاع الذي سيتم تطبيقه على النص يتم تنفيذه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_normalize_heights(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)

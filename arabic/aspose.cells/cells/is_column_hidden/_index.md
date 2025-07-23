@@ -3,11 +3,11 @@ title: طريقة is_column_hidden
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 740
+weight: 760
 url: /ar/aspose.cells/cells/is_column_hidden/
 is_root: false
 ---
-##  is_column_hidden {#int}
+##  is_column_hidden(self, column_index) {#int}
 التحقق مما إذا كان العمود الموجود في الفهرس المحدد مخفيًا.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def is_column_hidden(self, column_index):
     ...
 ```
@@ -24,7 +25,7 @@ def is_column_hidden(self, column_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| column_index | int | مؤشر العمود|
+| column_index | int | فهرس العمود|
 
 
 

@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells.charts/chartcalculateoptions/__init__/
 is_root: false
 ---
-##  __فيه__ {#}
-إنشاء الخيارات لحساب الرسم البياني.
+##  \_\_init\_\_(الذات){#}
+إنشاء خيارات لحساب الرسم البياني.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

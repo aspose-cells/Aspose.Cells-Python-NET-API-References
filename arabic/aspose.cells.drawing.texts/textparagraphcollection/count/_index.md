@@ -1,15 +1,15 @@
 ---
-title: count الملكية
+title: count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 30
 url: /ar/aspose.cells.drawing.texts/textparagraphcollection/count/
 is_root: false
 ---
-##  count الملكية
+##  count عقار
 
-الحصول على count للفقرات النصية.
+يحصل على count من فقرات النص.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextParagraphCollection](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraphcollection)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextParagraphCollection`](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraphcollection)

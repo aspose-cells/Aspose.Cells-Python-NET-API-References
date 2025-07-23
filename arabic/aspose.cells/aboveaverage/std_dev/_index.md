@@ -1,5 +1,5 @@
 ---
-title: std_dev الملكية
+title: std_dev عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,12 @@ weight: 50
 url: /ar/aspose.cells/aboveaverage/std_dev/
 is_root: false
 ---
-##  std_dev الملكية
+##  std_dev عقار
 
-احصل على أو عيّن عدد الانحرافات المعيارية لتضمينها أعلى أو أقل من المتوسط في
+احصل على أو حدد عدد الانحرافات المعيارية التي يجب تضمينها أعلى أو أسفل المتوسط في
  قاعدة التنسيق الشرطي.
- يجب أن تتراوح قيمة الإدخال بين 0 و 3 (بما في ذلك 0 و 3).
-تعيين هذه القيمة على 0 يعني أنه لم يتم تعيين stdDev.
+ يجب أن تكون قيمة الإدخال بين 0 و3 (تتضمن 0 و3).
+تعيين هذه القيمة إلى 0 يعني أن stdDev غير مضبوط.
 القيمة الافتراضية هي 0.
 ###  تعريف:
 ```python
@@ -25,5 +25,5 @@ def std_dev(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AboveAverage](/cells/python-net/ar/aspose.cells/aboveaverage)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AboveAverage`](/cells/python-net/ar/aspose.cells/aboveaverage)

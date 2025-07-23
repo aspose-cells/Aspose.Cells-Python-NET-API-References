@@ -1,5 +1,5 @@
 ---
-title: rotation_x الملكية
+title: rotation_x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 160
 url: /ar/aspose.cells.drawing/threedformat/rotation_x/
 is_root: false
 ---
-##  rotation_x الملكية
+##  rotation_x عقار
 
-الحصول على وتعيين دوران الشكل المبثوق حول المحور السيني بالدرجات.
+يحصل على ويضبط دوران الشكل المبثوق حول المحور x بالدرجات.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotation_x(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ThreeDFormat](/cells/python-net/ar/aspose.cells.drawing/threedformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ThreeDFormat`](/cells/python-net/ar/aspose.cells.drawing/threedformat)

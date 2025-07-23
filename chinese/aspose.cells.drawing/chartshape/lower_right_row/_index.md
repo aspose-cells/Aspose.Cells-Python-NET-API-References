@@ -3,13 +3,13 @@ title: lower_right_row属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 790
+weight: 800
 url: /zh/aspose.cells.drawing/chartshape/lower_right_row/
 is_root: false
 ---
 ## lower_right_row属性
 
-代表右下角行索引。
+表示右下角行索引。
 
 ### 例子
 

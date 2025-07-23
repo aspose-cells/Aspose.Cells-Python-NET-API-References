@@ -7,7 +7,7 @@ weight: 20
 url: /ar/aspose.cells.drawing/colorhelper/from_ole_color/
 is_root: false
 ---
-##  from_ole_color(ole_color) {#int}
+##  from_ole_color(, لون الزيت){#int}
 تحويل OLE_COLOR.
 
 
@@ -17,17 +17,19 @@ is_root: false
 
 
 ```python
-def from_ole_color(self, ole_color):
+
+@staticmethod
+def from_ole_color(ole_color):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| ole_color | int |قيمة OLE_COLOR.|
+| ole_color | int | قيمة OLE_COLOR.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ColorHelper](/cells/python-net/ar/aspose.cells.drawing/colorhelper)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ColorHelper`](/cells/python-net/ar/aspose.cells.drawing/colorhelper)

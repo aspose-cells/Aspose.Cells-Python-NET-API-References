@@ -1,16 +1,16 @@
 ---
-title: attached_files_directory الملكية
+title: attached_files_directory عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells/htmlsaveoptions/attached_files_directory/
 is_root: false
 ---
-##  attached_files_directory الملكية
+##  attached_files_directory عقار
 
 الدليل الذي سيتم حفظ الملفات المرفقة فيه.
-فقط للحفظ في دفق HTML.
+للحفظ في دفق HTML فقط.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def attached_files_directory(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlSaveOptions](/cells/python-net/ar/aspose.cells/htmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlSaveOptions`](/cells/python-net/ar/aspose.cells/htmlsaveoptions)

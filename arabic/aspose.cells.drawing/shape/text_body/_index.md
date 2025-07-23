@@ -3,13 +3,13 @@ title: text_body عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 930
+weight: 940
 url: /ar/aspose.cells.drawing/shape/text_body/
 is_root: false
 ---
 ##  text_body عقار
 
-الحصول على إعداد نص الشكل وتعيينه.
+يحصل على إعداد نص الشكل ويقوم بتعيينه.
 
 ###  مثال
 

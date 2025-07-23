@@ -3,13 +3,13 @@ title: error_check_options عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 490
+weight: 510
 url: /ar/aspose.cells/worksheet/error_check_options/
 is_root: false
 ---
 ##  error_check_options عقار
 
-يتم تطبيق إعداد التحقق من الأخطاء على نطاقات معينة.
+يحصل على إعداد فحص الأخطاء المطبق على نطاقات معينة.
 ###  تعريف:
 ```python
 @property

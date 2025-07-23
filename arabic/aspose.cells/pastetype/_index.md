@@ -3,7 +3,7 @@ title: PasteType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2450
+weight: 2420
 url: /ar/aspose.cells/pastetype/
 is_root: false
 ---
@@ -17,20 +17,20 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| ALL | نسخ جميع بيانات النطاق.|
-| DEFAULT | إنه يعمل كسلوك "الكل" لبرنامج MS Excel.|
-| ALL_EXCEPT_BORDERS | نسخ جميع بيانات النطاق بدون النطاق.|
-| DEFAULT_EXCEPT_BORDERS | إنه يعمل كسلوك "الكل ما عدا الحدود" لبرنامج MS Excel.|
-| COLUMN_WIDTHS | نسخ عرض النطاق فقط.|
+| ALL | نسخ كافة بيانات النطاق.|
+| DEFAULT |يعمل مثل سلوك "الكل" في MS Excel.|
+| ALL_EXCEPT_BORDERS | نسخ كافة بيانات النطاق بدون النطاق.|
+| DEFAULT_EXCEPT_BORDERS | يعمل مثل سلوك "كل شيء باستثناء الحدود" في MS Excel.|
+| COLUMN_WIDTHS | ينسخ فقط عرض النطاق.|
 | ROW_HEIGHTS | ينسخ فقط ارتفاعات النطاق.|
-| COMMENTS |  |
-| FORMATS |  |
-| FORMULAS |  |
-| FORMULAS_AND_NUMBER_FORMATS |  |
-| VALIDATION |  |
-| VALUES |  |
-| VALUES_AND_FORMATS |  |
-| VALUES_AND_NUMBER_FORMATS |  |
+| COMMENTS | نسخ التعليقات الموجودة في النطاق فقط.|
+| FORMATS | نسخ التنسيقات الموجودة ضمن النطاق فقط.|
+| FORMULAS | نسخ الصيغ الموجودة في النطاق فقط.|
+| FORMULAS_AND_NUMBER_FORMATS | نسخ الصيغ وتنسيقات الأرقام الموجودة في النطاق فقط.|
+| VALIDATION | نسخ عمليات التحقق في النطاق فقط.|
+| VALUES | نسخ القيم الموجودة في النطاق فقط.|
+| VALUES_AND_FORMATS | نسخ القيم والتنسيقات الموجودة في النطاق فقط.|
+| VALUES_AND_NUMBER_FORMATS | نسخ القيم وتنسيقات الأرقام الموجودة في النطاق فقط.|
 
 
 

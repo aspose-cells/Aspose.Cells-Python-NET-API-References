@@ -3,12 +3,12 @@ title: طريقة get_validation_value
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ar/aspose.cells/cell/get_validation_value/
 is_root: false
 ---
-##  get_validation_value() {#}
-الحصول على قيمة التحقق المطبقة على هذه الخلية.
+##  get_validation_value(self) {#}
+يحصل على قيمة التحقق التي تم تطبيقها على هذه الخلية.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_validation_value(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_validation_value(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

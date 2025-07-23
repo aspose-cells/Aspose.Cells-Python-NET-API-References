@@ -1,5 +1,5 @@
 ---
-title: list_width الملكية
+title: list_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 230
 url: /ar/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/list_width/
 is_root: false
 ---
-##  list_width الملكية
+##  list_width عقار
 
-الحصول على العرض وتعيينه بوحدة النقاط.
+يحصل على العرض ويضبطه بوحدة النقاط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def list_width(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ListBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ListBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

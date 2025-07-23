@@ -1,21 +1,21 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 180
 url: /ar/aspose.cells/unionrange/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-الحصول على أو تحديد name للنطاق.
+يحصل على أو يعين name من النطاق.
 
 ###  ملاحظات
 
-النطاق المحدد مدعوم. على سبيل المثال،
+النطاق المُسمّى مدعوم. على سبيل المثال،
 
-range.Name = "Sheet1! MyRange" ؛
+النطاق.الاسم = "Sheet1!MyRange";
 ###  تعريف:
 ```python
 @property
@@ -27,5 +27,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

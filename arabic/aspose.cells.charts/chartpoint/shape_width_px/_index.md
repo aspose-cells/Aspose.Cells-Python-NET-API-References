@@ -1,15 +1,15 @@
 ---
-title: shape_width_px الملكية
+title: shape_width_px عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 360
 url: /ar/aspose.cells.charts/chartpoint/shape_width_px/
 is_root: false
 ---
-##  shape_width_px الملكية
+##  shape_width_px عقار
 
-الحصول على العرض بوحدات البكسل بعد استدعاء طريقة Chart.Calculate ().
+يحصل على العرض بوحدات البكسل بعد استدعاء طريقة Chart.Calculate().
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def shape_width_px(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

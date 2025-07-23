@@ -1,5 +1,5 @@
 ---
-title: caption الملكية
+title: caption عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.slicers/slicer/caption/
 is_root: false
 ---
-##  caption الملكية
+##  caption عقار
 
-إرجاع أو تعيين caption الخاص بمقسم طريقة العرض المحدد.
+إرجاع أو تعيين caption للمقطع المحدد.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def caption(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

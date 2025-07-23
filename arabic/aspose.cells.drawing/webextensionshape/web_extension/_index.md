@@ -3,13 +3,13 @@ title: web_extension عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /ar/aspose.cells.drawing/webextensionshape/web_extension/
 is_root: false
 ---
 ##  web_extension عقار
 
-يحصل على ملحق الويب وتعيينه.
+يحصل على ملحق الويب ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property

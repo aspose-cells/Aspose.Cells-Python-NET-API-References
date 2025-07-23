@@ -1,5 +1,5 @@
 ---
-title: tab_position الملكية
+title: tab_position عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.drawing.texts/texttabstop/tab_position/
 is_root: false
 ---
-##  tab_position الملكية
+##  tab_position عقار
 
-يحدد موضع علامة الجدولة بالنسبة للهامش الأيسر.
+يقوم بتحديد موضع علامة التبويب بالنسبة إلى الهامش الأيسر.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def tab_position(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextTabStop](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstop)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextTabStop`](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstop)

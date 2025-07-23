@@ -1,5 +1,5 @@
 ---
-title: is_subscript الملكية
+title: is_subscript عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 150
 url: /ar/aspose.cells.drawing.texts/textoptions/is_subscript/
 is_root: false
 ---
-##  is_subscript الملكية
+##  is_subscript عقار
 
-الحصول على أو تحديد قيمة تشير إلى ما إذا كان الخط منخفضًا.
+يحصل على قيمة أو يعينها للإشارة إلى ما إذا كان الخط منخفضًا أم لا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_subscript(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextOptions](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextOptions`](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)

@@ -3,20 +3,21 @@ title: is_selected方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 170
 url: /zh/aspose.cells.drawing/listbox/is_selected/
 is_root: false
 ---
-##  is_selected {#int}
+##  is_selected(self, item_index) {#int}
 指示该项目是否被选中。
 
 
-### 退货
+### 返回
 
-是否选择该项目。
+该项目是否被选中。
 
 
 ```python
+
 def is_selected(self, item_index):
     ...
 ```

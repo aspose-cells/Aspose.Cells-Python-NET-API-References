@@ -3,12 +3,12 @@ title: طريقة get_row_height_pixel
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 520
 url: /ar/aspose.cells/cells/get_row_height_pixel/
 is_root: false
 ---
-##  get_row_height_pixel {#int}
-الحصول على ارتفاع صف محدد بوحدة البكسل.
+##  get_row_height_pixel(self, row) {#int}
+يحصل على ارتفاع الصف المحدد بوحدة البكسل.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_row_height_pixel(self, row):
     ...
 ```

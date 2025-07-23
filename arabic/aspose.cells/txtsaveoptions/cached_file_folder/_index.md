@@ -1,5 +1,5 @@
 ---
-title: cached_file_folder الملكية
+title: cached_file_folder عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,16 @@ weight: 40
 url: /ar/aspose.cells/txtsaveoptions/cached_file_folder/
 is_root: false
 ---
-##  cached_file_folder الملكية
+##  cached_file_folder عقار
 
-يتم استخدام مجلد الملف المخزن مؤقتًا لتخزين بعض البيانات الكبيرة.
+المجلد للملفات المؤقتة التي يمكن استخدامها كذاكرة تخزين مؤقتة للبيانات.
+
+###  ملاحظات
+
+إذا لم يتم تحديد المجلد،
+القيمة الافتراضية لها هي [`CellsHelper.get_cache_folder`](/cells/python-net/ar/aspose.cells/cellshelper/get_cache_folder).
+إذا كانت قيمتها الافتراضية فارغة أو لاغية، أو تم تحديدها على أنها فارغة أو لاغية،
+ثم لن يتم استخدام ملف ذاكرة التخزين المؤقت عند حفظ المصنف.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +28,5 @@ def cached_file_folder(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TxtSaveOptions](/cells/python-net/ar/aspose.cells/txtsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TxtSaveOptions`](/cells/python-net/ar/aspose.cells/txtsaveoptions)

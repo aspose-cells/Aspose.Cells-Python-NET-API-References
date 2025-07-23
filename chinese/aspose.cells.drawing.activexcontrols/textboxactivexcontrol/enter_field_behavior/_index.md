@@ -1,17 +1,17 @@
 ---
-title: enter_field_behavior 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: enter_field_behavior属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/enter_field_behavior/
 is_root: false
 ---
-## enter_field_behavior 属性
+## enter_field_behavior属性
 
 指定进入控件时的选择行为。
- True 指定选择与上次控件处于活动状态时保持不变。
-False 指定进入控件时将选中控件中的所有文本。
+ True 指定选择自控件上次处于活动状态以来保持不变。
+False 指定进入控件时将选择控件中的所有文本。
 ### 定义：
 ```python
 @property
@@ -23,5 +23,5 @@ def enter_field_behavior(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [TextBoxActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`TextBoxActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

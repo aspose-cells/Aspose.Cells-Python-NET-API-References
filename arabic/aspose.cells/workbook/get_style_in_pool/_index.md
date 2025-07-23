@@ -3,22 +3,23 @@ title: طريقة get_style_in_pool
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ar/aspose.cells/workbook/get_style_in_pool/
 is_root: false
 ---
-##  get_style_in_pool(index) {#int}
-يحصل على النمط في نمط حمام السباحة.
-سيتم تجميع كل الأنماط الموجودة في المصنف في مجموعة.
+##  get_style_in_pool(self, index) {#int}
+يحصل على الأسلوب في مجموعة الأسلوب.
+سيتم تجميع كافة الأنماط الموجودة في مصنف العمل في مجموعة واحدة.
 لا يوجد سوى فهرس مرجعي بسيط في الخلايا.
 
 
 ###  عائدات
 
-النمط في التجمع يتوافق مع فهرس معين ، قد يكون فارغًا.
+يتوافق النمط الموجود في المجمع مع المؤشر المحدد، وقد يكون فارغًا.
 
 
 ```python
+
 def get_style_in_pool(self, index):
     ...
 ```
@@ -26,13 +27,13 @@ def get_style_in_pool(self, index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| index | int | مؤشر.|
+| index | int | الفهرس.|
 ###  ملاحظات
 
-إذا تم تغيير النمط الذي تم إرجاعه ، فسيتم تغيير نمط جميع الخلايا (التي تشير إلى هذا النمط).
+إذا تم تغيير النمط المرتجع، فسيتم تغيير نمط جميع الخلايا (التي تشير إلى هذا النمط).
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

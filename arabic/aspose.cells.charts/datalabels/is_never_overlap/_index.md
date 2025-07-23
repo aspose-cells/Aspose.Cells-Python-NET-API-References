@@ -1,13 +1,13 @@
 ---
-title: is_never_overlap الملكية
+title: is_never_overlap عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 300
 url: /ar/aspose.cells.charts/datalabels/is_never_overlap/
 is_root: false
 ---
-##  is_never_overlap الملكية
+##  is_never_overlap عقار
 
 يشير إلى ما إذا كانت علامات البيانات المعروضة لا تتداخل أبدًا. (للمخطط الدائري)
 ###  تعريف:
@@ -21,5 +21,5 @@ def is_never_overlap(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

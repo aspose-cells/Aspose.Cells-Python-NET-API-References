@@ -1,22 +1,23 @@
 ---
 title: get_formula1方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/formatcondition/get_formula1/
 is_root: false
 ---
-##  get_formula1(is_r1c1, is_local) {#bool-bool}
+##  get_formula1(self, is_r1c1, is_local) {#bool-bool}
 获取与此格式条件关联的值或表达式。
 
 
 ### 返回
 
-与此格式条件关联的值或表达式。
+与此格式条件相关的值或表达式。
 
 
 ```python
+
 def get_formula1(self, is_r1c1, is_local):
     ...
 ```
@@ -25,10 +26,10 @@ def get_formula1(self, is_r1c1, is_local):
 |范围|类型|描述|
 | :- | :- | :- |
 | is_r1c1 | bool |公式是否需要格式化为R1C1。|
-| is_local | bool |公式是否需要按语言环境格式化。|
+| is_local | bool |公式是否需要根据语言环境进行格式化。|
 
 
-##  get_formula1(row, column) {#int-int}
+##  get_formula1(self, row, column) {#int-int}
 获取单元格条件格式的公式。
 
 
@@ -38,6 +39,7 @@ def get_formula1(self, is_r1c1, is_local):
 
 
 ```python
+
 def get_formula1(self, row, column):
     ...
 ```
@@ -49,16 +51,17 @@ def get_formula1(self, row, column):
 | column | int |列索引。|
 
 
-##  get_formula1(is_r1c1, is_local, row, column) {#bool-bool-int-int}
+##  get_formula1(self, is_r1c1, is_local, row, column) {#bool-bool-int-int}
 获取单元格条件格式的值或表达式。
 
 
 ### 返回
 
-与单元格的条件格式关联的值或表达式。
+与单元格的条件格式相关的值或表达式。
 
 
 ```python
+
 def get_formula1(self, is_r1c1, is_local, row, column):
     ...
 ```
@@ -67,15 +70,15 @@ def get_formula1(self, is_r1c1, is_local, row, column):
 |范围|类型|描述|
 | :- | :- | :- |
 | is_r1c1 | bool |公式是否需要格式化为R1C1。|
-| is_local | bool |公式是否需要按语言环境格式化。|
+| is_local | bool |公式是否需要根据语言环境进行格式化。|
 | row | int |行索引。|
 | column | int |列索引。|
-### 评论
+### 注意事项
 
-此条件格式必须包含给定的单元格，否则将返回 null。
+给定的单元格必须包含在此条件格式中，否则将返回 null。
 
 
 ### 也可以看看
 
-* 模块 [aspose.cells](../../)
-* 类 [FormatCondition](/cells/python-net/zh/aspose.cells/formatcondition)
+* 模块[`aspose.cells`](../../)
+* 类 [`FormatCondition`](/cells/python-net/zh/aspose.cells/formatcondition)

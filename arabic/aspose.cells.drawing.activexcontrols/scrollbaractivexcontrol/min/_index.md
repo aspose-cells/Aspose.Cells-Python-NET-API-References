@@ -1,5 +1,5 @@
 ---
-title: min الملكية
+title: min عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 180
 url: /ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/min/
 is_root: false
 ---
-##  min الملكية
+##  min عقار
 
-الحصول على الحد الأدنى للقيمة المقبولة وتعيينها.
+يحصل على الحد الأدنى للقيمة المقبولة ويحددها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def min(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ScrollBarActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ScrollBarActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

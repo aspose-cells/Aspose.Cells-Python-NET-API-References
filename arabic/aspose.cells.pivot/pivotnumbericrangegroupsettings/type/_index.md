@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type عقار
 
-تحصل على المجموعة type.
+يحصل على المجموعة type.
 ###  تعريف:
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 110
 url: /ar/aspose.cells.pivot/pivottable/format_all/
 is_root: false
 ---
-##  format_all(style) {#Style}
-قم بتنسيق كل الخلايا في المنطقة المحورية
+##  format_all(self, style) {#aspose.cells.Style}
+تنسيق كافة الخلايا في منطقة الجدول المحوري
 
 
 
 ```python
+
 def format_all(self, style):
     ...
 ```
@@ -20,10 +21,10 @@ def format_all(self, style):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/ar/aspose.cells/style) | النمط الذي يتم تنسيقه|
+| style | [`Style`](/cells/python-net/ar/aspose.cells/style) | النمط الذي هو التنسيق|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

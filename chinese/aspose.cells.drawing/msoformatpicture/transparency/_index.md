@@ -9,7 +9,7 @@ is_root: false
 ---
 ## transparency属性
 
-返回或设置区域 transparency 的度数为 0.0（不透明）到 1.0（透明）之间的值。
+返回或设置区域 transparency 的度数，范围是 0.0（不透明）到 1.0（透明）。
 ### 定义：
 ```python
 @property

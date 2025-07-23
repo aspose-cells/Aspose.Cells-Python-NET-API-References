@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/threadedcommentauthorcollection/add/
 is_root: false
 ---
-##  add(name, user_id, provider_id) {#str-str-str}
-يضيف شخص تعليق موضوع واحد.
+##  add(self, name, user_id, provider_id) {#str-str-str}
+يضيف تعليقًا واحدًا على الموضوع.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, name, user_id, provider_id):
     ...
 ```
@@ -26,10 +27,10 @@ def add(self, name, user_id, provider_id):
 | :- | :- | :- |
 | name | str | اسم الشخص.|
 | user_id | str |  |
-| provider_id | str | معرف المزود|
+| provider_id | str | معرف مقدم الخدمة|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ThreadedCommentAuthorCollection](/cells/python-net/ar/aspose.cells/threadedcommentauthorcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ThreadedCommentAuthorCollection`](/cells/python-net/ar/aspose.cells/threadedcommentauthorcollection)

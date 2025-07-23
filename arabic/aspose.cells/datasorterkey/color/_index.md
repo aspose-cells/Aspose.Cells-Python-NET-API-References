@@ -1,5 +1,5 @@
 ---
-title: color الملكية
+title: color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 30
 url: /ar/aspose.cells/datasorterkey/color/
 is_root: false
 ---
-##  color الملكية
+##  color عقار
 
-يحصل على الفرز color.
+يحصل على المرتبة color.
 
 ###  ملاحظات
 
-التأثيرات فقط عندما يكون [SortOnType](/cells/python-net/ar/aspose.cells/sortontype) هو SortOnType.CellColor أو SortOnType.FontColor.
+يتم تطبيقه فقط عندما يكون [`DataSorterKey.type`](/cells/python-net/ar/aspose.cells/datasorterkey#type) هو [`SortOnType.CELL_COLOR`](/cells/python-net/ar/aspose.cells/sortontype#CELL_COLOR) أو [`SortOnType.FONT_COLOR`](/cells/python-net/ar/aspose.cells/sortontype#FONT_COLOR).
 ###  تعريف:
 ```python
 @property
@@ -22,6 +22,5 @@ def color(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataSorterKey](/cells/python-net/ar/aspose.cells/datasorterkey)
-* فئة [SortOnType](/cells/python-net/ar/aspose.cells/sortontype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataSorterKey`](/cells/python-net/ar/aspose.cells/datasorterkey)

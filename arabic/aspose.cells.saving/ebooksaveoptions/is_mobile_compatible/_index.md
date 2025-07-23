@@ -3,14 +3,14 @@ title: is_mobile_compatible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 610
 url: /ar/aspose.cells.saving/ebooksaveoptions/is_mobile_compatible/
 is_root: false
 ---
 ##  is_mobile_compatible عقار
 
  يشير إلى ما إذا كان الإخراج HTML متوافقًا مع الأجهزة المحمولة.
-القيمة الافتراضية هي كاذبة.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

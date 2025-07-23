@@ -3,15 +3,15 @@ title: height_in_shape属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 460
+weight: 450
 url: /zh/aspose.cells.drawing/commentshape/height_in_shape/
 is_root: false
 ---
 ## height_in_shape属性
 
-表示形状相对于父形状上边框的垂直偏移量，单位为父形状高度的1/4000。
+表示形状与父形状上边框的垂直偏移量，以父形状高度的 1/4000 为单位。
 
-### 评论
+### 注意事项
 
 仅当此形状位于组或图表中时适用。
 

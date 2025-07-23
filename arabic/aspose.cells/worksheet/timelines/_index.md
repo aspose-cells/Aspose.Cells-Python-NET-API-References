@@ -3,7 +3,7 @@ title: timelines عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 840
+weight: 860
 url: /ar/aspose.cells/worksheet/timelines/
 is_root: false
 ---

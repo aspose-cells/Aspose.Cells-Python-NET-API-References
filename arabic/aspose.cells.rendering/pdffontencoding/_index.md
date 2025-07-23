@@ -1,26 +1,26 @@
 ---
-title: العد PdfFontEncoding
+title: PdfFontEncoding التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 230
 url: /ar/aspose.cells.rendering/pdffontencoding/
 is_root: false
 ---
-##  العد PdfFontEncoding
-يمثل ترميز خط pdf مضمن.
+##  PdfFontEncoding التعداد
+يمثل ترميز الخط المضمن في ملف pdf.
 
 
 
-يكشف نوع PdfFontEncoding الأعضاء التالية:
+يكشف النوع PdfFontEncoding عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| IDENTITY | تستخدم التمثيلات ترميز Identity-H لجميع الخطوط المضمنة في pdf.|
-| ANSI_PREFER | تفضل الممثلين استخدام WinAnsiEncoding لخطوط TrueType بأحرف 32-127 ،<br/> خلاف ذلك ، سيتم استخدام ترميز Identity-H للخطوط المضمنة في pdf.|
+| IDENTITY | يمثل استخدام ترميز Identity-H لجميع الخطوط المضمنة في ملف pdf.|
+| ANSI_PREFER | يُفضل استخدام WinAnsiEncoding لخطوط TrueType ذات الأحرف من 32 إلى 127،<br/> بخلاف ذلك، سيتم استخدام ترميز Identity-H للخطوط المضمنة في ملف pdf.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
+* الوحدة [`aspose.cells.rendering`](..)

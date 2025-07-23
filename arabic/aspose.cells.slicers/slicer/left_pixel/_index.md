@@ -1,5 +1,5 @@
 ---
-title: left_pixel الملكية
+title: left_pixel عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,16 @@ weight: 150
 url: /ar/aspose.cells.slicers/slicer/left_pixel/
 is_root: false
 ---
-##  left_pixel الملكية
+##  left_pixel عقار
 
-إرجاع أو تعيين الإزاحة الأفقية لشكل مقسم طريقة العرض من العمود الأيسر بالبكسل.
+إرجاع أو تعيين الإزاحة الأفقية لشكل المقطع من العمود الأيسر، بالبكسل.
+
+###  ملاحظات
+
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+ الرجاء استخدام خاصية Shape.Left.
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ مايو 2025.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 ###  مثال
 
@@ -29,5 +36,5 @@ def left_pixel(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

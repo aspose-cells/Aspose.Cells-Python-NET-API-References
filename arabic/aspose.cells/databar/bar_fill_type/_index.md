@@ -1,5 +1,5 @@
 ---
-title: bar_fill_type الملكية
+title: bar_fill_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells/databar/bar_fill_type/
 is_root: false
 ---
-##  bar_fill_type الملكية
+##  bar_fill_type عقار
 
-الحصول على أو تعيين كيفية تعبئة شريط البيانات باللون.
+يحصل على أو يعين كيفية ملء شريط البيانات باللون.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def bar_fill_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataBar](/cells/python-net/ar/aspose.cells/databar)
-* فئة [DataBarFillType](/cells/python-net/ar/aspose.cells/databarfilltype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataBar`](/cells/python-net/ar/aspose.cells/databar)
+* فئة [`DataBarFillType`](/cells/python-net/ar/aspose.cells/databarfilltype)

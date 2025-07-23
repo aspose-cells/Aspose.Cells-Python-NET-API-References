@@ -1,15 +1,15 @@
 ---
-title: pattern 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: pattern属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 250
 url: /zh/aspose.cells.drawing/lineformat/pattern/
 is_root: false
 ---
-## pattern 属性
+## pattern属性
 
-代表一个区域的显示pattern。
+代表某个区域的显示pattern。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [FillPattern](/cells/python-net/zh/aspose.cells.drawing/fillpattern)
-* 类 [LineFormat](/cells/python-net/zh/aspose.cells.drawing/lineformat)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`FillPattern`](/cells/python-net/zh/aspose.cells.drawing/fillpattern)
+* 类 [`LineFormat`](/cells/python-net/zh/aspose.cells.drawing/lineformat)

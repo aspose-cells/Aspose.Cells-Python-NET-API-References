@@ -7,12 +7,13 @@ weight: 60
 url: /ar/aspose.cells/formatcondition/set_formulas/
 is_root: false
 ---
-##  set_formulas(formula1, formula2, is_r1c1, is_local) {#str-str-bool-bool}
-يعيّن القيمة أو التعبير المرتبط بشرط التنسيق هذا.
+##  set_formulas(self, formula1, formula2, is_r1c1, is_local) {#str-str-bool-bool}
+تعيين القيمة أو التعبير المرتبط بشرط التنسيق هذا.
 
 
 
 ```python
+
 def set_formulas(self, formula1, formula2, is_r1c1, is_local):
     ...
 ```
@@ -20,13 +21,13 @@ def set_formulas(self, formula1, formula2, is_r1c1, is_local):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| formula1 | str | القيمة أو التعبير المرتبط بشرط التنسيق هذا.<br/>إذا بدأت قيمة الإدخال بـ '=' ، فسيتم اعتبارها معادلة. وإلا سيتم اعتباره كقيمة عادية (نص ، رقم ، منطقي).<br/> بالنسبة للقيمة النصية التي تبدأ بـ '=' ، يمكن للمستخدم إدخالها كصيغة بتنسيق: "= \" = ... \ "".|
-| formula2 | str | القيمة أو التعبير المرتبط بشرط التنسيق هذا. تنسيق الإدخال هو نفسه مع الصيغة 1|
-| is_r1c1 | bool | ما إذا كانت الصيغة هي صيغة R1C1.|
-| is_local | bool | ما إذا كانت الصيغة منسقة محليًا أم لا.|
+| formula1 | str | القيمة أو التعبير المرتبط بشرط التنسيق هذا.<br/>إذا بدأت قيمة الإدخال بـ '='، فسيتم اعتبارها صيغة. وإلا، فسيتم اعتبارها قيمة عادية (نص، رقم، قيمة منطقية).<br/> بالنسبة لقيمة النص التي تبدأ بـ '='، يمكن للمستخدم إدخالها كصيغة بالتنسيق: "=\"=...\"".|
+| formula2 | str | القيمة أو التعبير المرتبط بشرط التنسيق هذا. تنسيق الإدخال هو نفسه الصيغة 1.|
+| is_r1c1 | bool | هل الصيغة هي صيغة R1C1؟|
+| is_local | bool | سواء كانت الصيغة بتنسيق محلي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormatCondition](/cells/python-net/ar/aspose.cells/formatcondition)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormatCondition`](/cells/python-net/ar/aspose.cells/formatcondition)

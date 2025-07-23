@@ -1,15 +1,15 @@
 ---
-title: cell_shading 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: cell_shading属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
 url: /zh/aspose.cells/styleflag/cell_shading/
 is_root: false
 ---
-## cell_shading 属性
+## cell_shading属性
 
-Cell 将应用阴影设置。
+Cell 阴影设置将被应用。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def cell_shading(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [StyleFlag](/cells/python-net/zh/aspose.cells/styleflag)
+* 模块[`aspose.cells`](../../)
+* 类 [`StyleFlag`](/cells/python-net/zh/aspose.cells/styleflag)

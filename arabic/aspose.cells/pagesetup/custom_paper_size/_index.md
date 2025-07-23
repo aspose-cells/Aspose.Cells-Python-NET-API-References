@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells/pagesetup/custom_paper_size/
 is_root: false
 ---
-##  custom_paper_size(width, height) {#float-float}
-يضبط حجم الورق المخصص بوحدة البوصة.
+##  custom_paper_size(self, width, height) {#float-float}
+تعيين حجم الورق المخصص، بوحدة البوصات.
 
 
 
 ```python
+
 def custom_paper_size(self, width, height):
     ...
 ```
@@ -26,5 +27,5 @@ def custom_paper_size(self, width, height):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

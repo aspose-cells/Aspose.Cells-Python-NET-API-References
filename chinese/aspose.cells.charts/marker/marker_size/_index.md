@@ -1,13 +1,13 @@
 ---
-title: marker_size 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: marker_size属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
 url: /zh/aspose.cells.charts/marker/marker_size/
 is_root: false
 ---
-## marker_size 属性
+## marker_size属性
 
 表示以点为单位的标记大小。适用于折线图、散点图或雷达图。
 ### 定义：
@@ -21,5 +21,5 @@ def marker_size(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Marker](/cells/python-net/zh/aspose.cells.charts/marker)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Marker`](/cells/python-net/zh/aspose.cells.charts/marker)

@@ -3,13 +3,13 @@ title: reading_order属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 310
+weight: 370
 url: /zh/aspose.cells.charts/legend/reading_order/
 is_root: false
 ---
 ## reading_order属性
 
-代表文本阅读顺序。
+表示文本阅读顺序。
 ### 定义：
 ```python
 @property

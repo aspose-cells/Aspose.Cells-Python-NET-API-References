@@ -8,10 +8,6 @@ url: /ar/aspose.cells/pptxsaveoptions/all_columns_in_one_page_per_sheet/
 is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet عقار
-
- إذا كانت قيمة AllColumnsInOnePagePerSheet صحيحة، فسيتم إخراج كل محتوى العمود في ورقة واحدة إلى صفحة واحدة فقط في النتيجة.
- سيتم تجاهل عرض حجم الورق لإعداد الصفحات، والإعدادات الأخرى لإعداد الصفحات
-سوف لا تزال نافذة المفعول.
 ###  تعريف:
 ```python
 @property

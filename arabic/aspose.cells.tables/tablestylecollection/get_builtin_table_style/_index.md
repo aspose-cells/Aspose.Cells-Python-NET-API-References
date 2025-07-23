@@ -3,11 +3,11 @@ title: طريقة get_builtin_table_style
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells.tables/tablestylecollection/get_builtin_table_style/
 is_root: false
 ---
-##  get_builtin_table_style(type) {#TableStyleType}
+##  get_builtin_table_style(self, type) {#aspose.cells.tables.TableStyleType}
 يحصل على نمط الجدول المدمج
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_builtin_table_style(self, type):
     ...
 ```
@@ -24,10 +25,10 @@ def get_builtin_table_style(self, type):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| type | [TableStyleType](/cells/python-net/ar/aspose.cells.tables/tablestyletype) | نوع نمط الجدول المدمج.|
+| type | [`TableStyleType`](/cells/python-net/ar/aspose.cells.tables/tablestyletype) | نوع نمط الجدول المدمج.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [TableStyleCollection](/cells/python-net/ar/aspose.cells.tables/tablestylecollection)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`TableStyleCollection`](/cells/python-net/ar/aspose.cells.tables/tablestylecollection)

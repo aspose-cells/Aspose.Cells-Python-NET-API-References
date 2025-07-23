@@ -1,6 +1,6 @@
 ---
 title: SlicerCacheItemSortType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
@@ -12,15 +12,16 @@ is_root: false
 
 
 
-SlicerCacheItemSortType 类型公开了以下成员：
+SlicerCacheItemSortType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
+| NATURAL |原始数据顺序。|
 | ASCENDING |升序排序类型|
 | DESCENDING |降序排序类型|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](..)
+* 模块[`aspose.cells.slicers`](..)

@@ -3,13 +3,13 @@ title: border_line_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 350
 url: /ar/aspose.cells.drawing/picture/border_line_color/
 is_root: false
 ---
 ##  border_line_color عقار
 
-يمثل لون الخط الحدودي للصورة.
+يمثل لون خط الحدود للصورة.
 
 ###  مثال
 

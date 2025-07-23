@@ -1,15 +1,15 @@
 ---
-title: content_status الملكية
+title: content_status عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/content_status/
 is_root: false
 ---
-##  content_status الملكية
+##  content_status عقار
 
-الحصول على أو تحديد حالة محتوى المستند.
+يحصل على حالة محتوى المستند أو يعينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def content_status(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

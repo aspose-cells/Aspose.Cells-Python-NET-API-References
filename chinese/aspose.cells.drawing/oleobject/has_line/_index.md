@@ -3,13 +3,13 @@ title: has_line属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 500
+weight: 490
 url: /zh/aspose.cells.drawing/oleobject/has_line/
 is_root: false
 ---
 ## has_line属性
 
-获取和设置形状的线边框是否可见。
+获取并设置形状的线边框是否可见。
 
 ### 例子
 

@@ -1,15 +1,15 @@
 ---
-title: show_mean_line الملكية
+title: show_mean_line عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells.charts/serieslayoutproperties/show_mean_line/
 is_root: false
 ---
-##  show_mean_line الملكية
+##  show_mean_line عقار
 
-يشير إلى ما إذا كان يظهر الخط الذي يربط بين جميع النقاط المتوسطة.
+يشير إلى ما إذا كان يتم عرض الخط الذي يربط بين جميع النقاط المتوسطة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_mean_line(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [SeriesLayoutProperties](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`SeriesLayoutProperties`](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)

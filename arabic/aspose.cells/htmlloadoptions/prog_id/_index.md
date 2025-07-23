@@ -3,13 +3,13 @@ title: prog_id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 320
 url: /ar/aspose.cells/htmlloadoptions/prog_id/
 is_root: false
 ---
 ##  prog_id عقار
 
-يحصل على معرف البرنامج لإنشاء الملف.
+يحصل على معرف البرنامج الذي يقوم بإنشاء الملف.
 فقط لملفات MHT.
 ###  تعريف:
 ```python

@@ -1,5 +1,5 @@
 ---
-title: id الملكية
+title: id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.markup/customxmlpart/id/
 is_root: false
 ---
-##  id الملكية
+##  id عقار
 
-الحصول على وتعيين id لجزء xml المخصص.
+يحصل على id من جزء XML المخصص ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](../../)
-* فئة [CustomXmlPart](/cells/python-net/ar/aspose.cells.markup/customxmlpart)
+* الوحدة [`aspose.cells.markup`](../../)
+* فئة [`CustomXmlPart`](/cells/python-net/ar/aspose.cells.markup/customxmlpart)

@@ -3,13 +3,13 @@ title: merge_empty_td_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 570
+weight: 650
 url: /ar/aspose.cells.saving/ebooksaveoptions/merge_empty_td_type/
 is_root: false
 ---
 ##  merge_empty_td_type عقار
 
-يشير إلى ما إذا كان سيتم دمج عنصر TD الفارغ بنفس طريقة MS Excel عند حفظ ملف Excel بتنسيق html.
+خيار دمج الخلايا الفارغة المتجاورة (عناصر td الفارغة)
 القيمة الافتراضية هي MergeEmptyTdType.Default.
 ###  تعريف:
 ```python

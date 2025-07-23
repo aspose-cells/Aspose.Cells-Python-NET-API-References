@@ -3,16 +3,17 @@ title: طريقة intersect
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 40
 url: /ar/aspose.cells/unionrange/intersect/
 is_root: false
 ---
-##  intersect(range) {#str}
+##  intersect(self, range) {#str}
 يتقاطع مع نطاق آخر.
 
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```
@@ -20,18 +21,19 @@ def intersect(self, range):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| range | str | النطاق.|
+| range | str | المدى.|
 ###  ملاحظات
 
-في حالة عدم تقاطع نطاقي الاتحاد ، يتم إرجاع قيمة خالية.
+إذا لم يتقاطع نطاقا الاتحاد، فسيتم إرجاع قيمة فارغة.
 
-##  intersect(union_range) {#UnionRange}
+##  intersect(self, union_range) {#aspose.cells.UnionRange}
 
 يتقاطع مع نطاق آخر.
 
 
 
 ```python
+
 def intersect(self, union_range):
     ...
 ```
@@ -39,18 +41,19 @@ def intersect(self, union_range):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/ar/aspose.cells/unionrange) | النطاق.|
+| union_range | [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange) | المدى.|
 ###  ملاحظات
 
-في حالة عدم تقاطع نطاقي الاتحاد ، يتم إرجاع قيمة خالية.
+إذا لم يتقاطع نطاقا الاتحاد، فسيتم إرجاع قيمة فارغة.
 
-##  intersect(ranges) {#list}
+##  intersect(self, ranges) {#list}
 
 يتقاطع مع نطاق آخر.
 
 
 
 ```python
+
 def intersect(self, ranges):
     ...
 ```
@@ -58,13 +61,13 @@ def intersect(self, ranges):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| ranges | list | النطاق.|
+| ranges | list | المدى.|
 ###  ملاحظات
 
-في حالة عدم تقاطع نطاقي الاتحاد ، يتم إرجاع قيمة خالية.
+إذا لم يتقاطع نطاقا الاتحاد، فسيتم إرجاع قيمة فارغة.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

@@ -1,23 +1,25 @@
 ---
 title: verify_password方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 100
 url: /zh/aspose.cells/fileformatutil/verify_password/
 is_root: false
 ---
-##  verify_password(stream, password) {#io.RawIOBase-str}
-检测并返回有关存储在流中的 excel 格式的信息。
+##  verify_password（，流，密码）{#io.RawIOBase-str}
+检测并返回有关流中存储的 Excel 格式的信息。
 
 
 ### 返回
 
-返回密码是否被更正。
+返回密码是否正确。
 
 
 ```python
-def verify_password(self, stream, password):
+
+@staticmethod
+def verify_password(stream, password):
     ...
 ```
 
@@ -30,5 +32,5 @@ def verify_password(self, stream, password):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FileFormatUtil](/cells/python-net/zh/aspose.cells/fileformatutil)
+* 模块[`aspose.cells`](../../)
+* 类 [`FileFormatUtil`](/cells/python-net/zh/aspose.cells/fileformatutil)

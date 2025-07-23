@@ -3,7 +3,7 @@ title: SortOrder枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2580
+weight: 2550
 url: /zh/aspose.cells/sortorder/
 is_root: false
 ---
@@ -14,11 +14,12 @@ is_root: false
 
 SortOrder 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| ASCENDING |  |
-| DESCENDING |  |
+| ASCENDING |按升序对数据进行排序|
+| DESCENDING |按降序对数据进行排序|
+| NATURAL |保持数据原始顺序，不进行排序。仅适用于数据透视表等特殊场景。|
 
 
 

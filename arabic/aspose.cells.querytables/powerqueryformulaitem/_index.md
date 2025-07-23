@@ -1,5 +1,5 @@
 ---
-title: PowerQueryFormulaItem الدرجة
+title: PowerQueryFormulaItem صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,12 @@ weight: 50
 url: /ar/aspose.cells.querytables/powerqueryformulaitem/
 is_root: false
 ---
-##  PowerQueryFormulaItem الدرجة
-يمثل عنصر صيغة الاستعلام القوي.
+##  PowerQueryFormulaItem صف
+يمثل عنصر صيغة استعلام الطاقة.
 
 
 
-يكشف نوع PowerQueryFormulaItem الأعضاء التالية:
+يكشف النوع PowerQueryFormulaItem عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.querytables](..)
+* الوحدة [`aspose.cells.querytables`](..)

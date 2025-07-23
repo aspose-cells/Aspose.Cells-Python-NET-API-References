@@ -1,5 +1,5 @@
 ---
-title: small_change الملكية
+title: small_change عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 230
 url: /ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/small_change/
 is_root: false
 ---
-##  small_change الملكية
+##  small_change عقار
 
-الحصول على وتعيين المقدار الذي تتغير به خاصية الموضع
+يحصل على المبلغ الذي تتغير به خاصية الموضع ويحدده
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def small_change(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [SpinButtonActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`SpinButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

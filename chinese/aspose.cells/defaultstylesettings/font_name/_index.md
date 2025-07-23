@@ -1,13 +1,13 @@
 ---
-title: font_name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: font_name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 30
+weight: 40
 url: /zh/aspose.cells/defaultstylesettings/font_name/
 is_root: false
 ---
-## font_name 属性
+## font_name属性
 
 获取/设置工作簿的默认字体名称
 ### 定义：
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DefaultStyleSettings](/cells/python-net/zh/aspose.cells/defaultstylesettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`DefaultStyleSettings`](/cells/python-net/zh/aspose.cells/defaultstylesettings)

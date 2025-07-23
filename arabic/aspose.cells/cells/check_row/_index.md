@@ -7,16 +7,17 @@ weight: 80
 url: /ar/aspose.cells/cells/check_row/
 is_root: false
 ---
-##  check_row {#int}
-يحصل على العنصر [`Row`](/cells/python-net/ar/aspose.cells/row) أو خاليًا في فهرس صف الخلية المحدد.
+##  check_row(self, row) {#int}
+يحصل على العنصر [`Row`](/cells/python-net/ar/aspose.cells/row) أو null في مؤشر صف الخلية المحدد.
 
 
 ###  عائدات
 
-إرجاع كائن [`Row`](/cells/python-net/ar/aspose.cells/row) إذا كان كائن الصف موجودًا، وإلا فسيتم إرجاعه فارغًا.
+إرجاع الكائن [`Row`](/cells/python-net/ar/aspose.cells/row) إذا كان كائن الصف موجودًا، وإلا فسيتم إرجاع null.
 
 
 ```python
+
 def check_row(self, row):
     ...
 ```

@@ -1,5 +1,5 @@
 ---
-title: data الملكية
+title: data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 40
 url: /ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/data/
 is_root: false
 ---
-##  data الملكية
-
-الحصول على وتعيين الثنائي data لعنصر التحكم.
+##  data عقار
 ###  تعريف:
 ```python
 @property
@@ -18,5 +16,5 @@ def data(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ScrollBarActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ScrollBarActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

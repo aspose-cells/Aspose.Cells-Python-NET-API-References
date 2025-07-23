@@ -1,5 +1,5 @@
 ---
-title: back_ole_color الملكية
+title: back_ole_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 50
 url: /ar/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/back_ole_color/
 is_root: false
 ---
-##  back_ole_color الملكية
-
-الحصول على لون الخلفية للخلفية وتعيينه.
+##  back_ole_color عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def back_ole_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [RadioButtonActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`RadioButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

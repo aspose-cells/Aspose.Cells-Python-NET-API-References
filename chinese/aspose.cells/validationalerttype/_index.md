@@ -3,19 +3,19 @@ title: ValidationAlertType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2720
+weight: 2690
 url: /zh/aspose.cells/validationalerttype/
 is_root: false
 ---
 ## ValidationAlertType枚举
-代表数据验证警报样式。
+表示数据验证警报样式。
 
 
 
 ValidationAlertType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | INFORMATION |信息提醒样式。|
 | STOP |停止警报样式。|

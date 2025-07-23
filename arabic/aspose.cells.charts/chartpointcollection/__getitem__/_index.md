@@ -1,16 +1,16 @@
 ---
-title: ChartPointCollection مفهرس
+title: ChartPointCollection فهرس
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 40
 url: /ar/aspose.cells.charts/chartpointcollection/__getitem__/
 is_root: false
 ---
-##  ChartPointCollection مفهرس
+##  ChartPointCollection فهرس
 
-الحصول على عنصر [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint) بالفهرس المحدد في السلسلة.
-###  مفهرس
+يحصل على العنصر [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint) عند الفهرس المحدد في السلسلة.
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
 | index | مؤشر نقطة الرسم البياني في السلسلة.|
@@ -22,6 +22,6 @@ is_root: false
 كائن ChartPoint.
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
-* فئة [ChartPointCollection](/cells/python-net/ar/aspose.cells.charts/chartpointcollection)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* فئة [`ChartPointCollection`](/cells/python-net/ar/aspose.cells.charts/chartpointcollection)

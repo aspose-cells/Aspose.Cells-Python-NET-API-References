@@ -1,19 +1,19 @@
 ---
-title: last_saved_time الملكية
+title: last_saved_time عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/last_saved_time/
 is_root: false
 ---
-##  last_saved_time الملكية
+##  last_saved_time عقار
 
-الحصول على أو تحديد وقت آخر حفظ حسب المنطقة الزمنية المحلية.
+يحصل على وقت الحفظ الأخير بالتوقيت المحلي أو يضبطه.
 
 ###  ملاحظات
 
-Aspose.Cells لا يقوم بتحديث هذه الخاصية عند تعديل الوثيقة.
+Aspose.Cells لا يقوم بتحديث هذه الخاصية عند تعديل المستند.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def last_saved_time(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

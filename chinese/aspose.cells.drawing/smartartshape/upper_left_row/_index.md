@@ -3,17 +3,17 @@ title: upper_left_row属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /zh/aspose.cells.drawing/smartartshape/upper_left_row/
 is_root: false
 ---
 ## upper_left_row属性
 
-表示左上角行索引。
+表示顶行索引。
 
-### 评论
+### 注意事项
 
-如果形状在 shape 或 group 中，UpperLeftRow 将被忽略。
+如果形状在形状中或组中，则UpperLeftRow将被忽略。
 
 ### 例子
 

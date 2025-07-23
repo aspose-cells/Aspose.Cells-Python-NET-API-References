@@ -1,5 +1,5 @@
 ---
-title: variant الملكية
+title: variant عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/twocolorgradient/variant/
 is_root: false
 ---
-##  variant الملكية
+##  variant عقار
 
-الحصول على التدرج اللوني variant وتعيينه.
+يحصل على التدرج variant ويضبطه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def variant(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TwoColorGradient](/cells/python-net/ar/aspose.cells/twocolorgradient)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TwoColorGradient`](/cells/python-net/ar/aspose.cells/twocolorgradient)

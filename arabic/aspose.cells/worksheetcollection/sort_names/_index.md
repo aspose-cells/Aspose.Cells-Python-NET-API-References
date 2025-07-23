@@ -3,16 +3,17 @@ title: طريقة sort_names
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 230
 url: /ar/aspose.cells/worksheetcollection/sort_names/
 is_root: false
 ---
-##  sort_names {#}
+##  sort_names(self) {#}
 فرز الأسماء المحددة.
 
 
 
 ```python
+
 def sort_names(self):
     ...
 ```
@@ -20,8 +21,8 @@ def sort_names(self):
 
 ###  ملاحظات
 
-إذا قمت بإنشاء كمية كبيرة من النطاقات المسماة في ملف Excel،
-الرجاء استدعاء هذه الطريقة بعد إنشاء كافة النطاقات المسماة وقبل الحفظ
+إذا قمت بإنشاء عدد كبير من النطاقات المسماة في ملف Excel،
+يرجى استدعاء هذه الطريقة بعد إنشاء جميع النطاقات المسماة وقبل الحفظ
 
 
 ###  أنظر أيضا

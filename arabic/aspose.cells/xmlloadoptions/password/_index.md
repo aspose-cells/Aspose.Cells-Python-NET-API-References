@@ -1,15 +1,15 @@
 ---
-title: password الملكية
+title: password عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 250
 url: /ar/aspose.cells/xmlloadoptions/password/
 is_root: false
 ---
-##  password الملكية
+##  password عقار
 
-الحصول على password الخاص بالمصنف وتعيينه.
+يحصل على password من المصنف ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [XmlLoadOptions](/cells/python-net/ar/aspose.cells/xmlloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`XmlLoadOptions`](/cells/python-net/ar/aspose.cells/xmlloadoptions)

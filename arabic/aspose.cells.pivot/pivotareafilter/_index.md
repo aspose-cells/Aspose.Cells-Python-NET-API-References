@@ -3,7 +3,7 @@ title: PivotAreaFilter صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ar/aspose.cells.pivot/pivotareafilter/
 is_root: false
 ---
@@ -17,20 +17,20 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells.pivot/pivotareafilter/__init__/#) | إنشاء مثيل جديد لـ PivotAreaFilter|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.pivot/pivotareafilter/__init__/#) | إنشاء مثيل جديد لـ PivotAreaFilter|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [selected](/cells/python-net/ar/aspose.cells.pivot/pivotareafilter/selected) | يشير إلى ما إذا كان هذا الحقل يحتوي على تحديد.<br/> يعمل فقط عندما يكون PivotTable في طريقة عرض المخطط التفصيلي.|
+| [selected](/cells/python-net/ar/aspose.cells.pivot/pivotareafilter/selected) | يشير إلى ما إذا كان هذا الحقل يحتوي على اختيار.<br/> يعمل فقط عندما يكون الجدول المحوري في عرض المخطط التفصيلي.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [is_subtotal_set](/cells/python-net/ar/aspose.cells.pivot/pivotareafilter/is_subtotal_set/#aspose.cells.pivot.PivotFieldSubtotalType) | الحصول على الإجمالي الفرعي الذي تم تعيينه لهذا المرشح.|
-| [set_subtotals](/cells/python-net/ar/aspose.cells.pivot/pivotareafilter/set_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType-bool) | المجموع الفرعي للمرشح.|
+| [`is_subtotal_set(self, subtotal_type)`](/cells/python-net/ar/aspose.cells.pivot/pivotareafilter/is_subtotal_set/#aspose.cells.pivot.pivotfieldsubtotaltype) | يحصل على المجموع الفرعي الذي تم تعيينه لهذا المرشح.|
+| [`set_subtotals(self, subtotal_type, shown)`](/cells/python-net/ar/aspose.cells.pivot/pivotareafilter/set_subtotals/#aspose.cells.pivot.pivotfieldsubtotaltype-bool) | المجموع الفرعي للمرشح.|
 
 
 

@@ -1,51 +1,51 @@
 ---
-title: FillFormat الدرجة
+title: FillFormat صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 170
 url: /ar/aspose.cells.drawing/fillformat/
 is_root: false
 ---
-##  FillFormat الدرجة
-لتغليف الكائن الذي يمثل تنسيق تعبئة لشكل.
+##  FillFormat صف
+يقوم بتغليف الكائن الذي يمثل تنسيق التعبئة لشكل ما.
 
 
 
-يكشف نوع FillFormat الأعضاء التالية:
+يكشف النوع FillFormat عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells.drawing/fillformat/type) |الحصول على نوع التعبئة وتعيينه.|
-| [fill_type](/cells/python-net/ar/aspose.cells.drawing/fillformat/fill_type) | الحصول على نوع التعبئة وتعيينه|
-| [transparency](/cells/python-net/ar/aspose.cells.drawing/fillformat/transparency) | إرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (معتم) إلى 1.0 (واضح).|
-| [set_type](/cells/python-net/ar/aspose.cells.drawing/fillformat/set_type) | الحصول على نوع مجموعة تنسيق التعبئة.|
-| [gradient_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat/gradient_fill) | يحصل على كائن [FillFormat.gradient_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat#gradient_fill).|
-| [texture_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat/texture_fill) | يحصل على كائن [FillFormat.texture_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat#texture_fill).|
-| [solid_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat/solid_fill) | يحصل على كائن [FillFormat.solid_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat#solid_fill).|
-| [pattern_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat/pattern_fill) | يحصل على كائن [FillFormat.pattern_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat#pattern_fill).|
+| [type](/cells/python-net/ar/aspose.cells.drawing/fillformat/type) | يحصل على نوع التعبئة ويحدده.|
+| [fill_type](/cells/python-net/ar/aspose.cells.drawing/fillformat/fill_type) | يحصل على نوع التعبئة ويحدده|
+| [transparency](/cells/python-net/ar/aspose.cells.drawing/fillformat/transparency) |يقوم بإرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (غير شفافة) إلى 1.0 (واضحة).|
+| [set_type](/cells/python-net/ar/aspose.cells.drawing/fillformat/set_type) | يحصل على نوع مجموعة تنسيق التعبئة.|
+| [gradient_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat/gradient_fill) | يحصل على الكائن [`FillFormat.gradient_fill`](/cells/python-net/ar/aspose.cells.drawing/fillformat#gradient_fill).|
+| [texture_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat/texture_fill) | يحصل على الكائن [`FillFormat.texture_fill`](/cells/python-net/ar/aspose.cells.drawing/fillformat#texture_fill).|
+| [solid_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat/solid_fill) | يحصل على الكائن [`FillFormat.solid_fill`](/cells/python-net/ar/aspose.cells.drawing/fillformat#solid_fill).|
+| [pattern_fill](/cells/python-net/ar/aspose.cells.drawing/fillformat/pattern_fill) | يحصل على الكائن [`FillFormat.pattern_fill`](/cells/python-net/ar/aspose.cells.drawing/fillformat#pattern_fill).|
 | [gradient_color_type](/cells/python-net/ar/aspose.cells.drawing/fillformat/gradient_color_type) | إرجاع نوع لون التدرج للتعبئة المحددة.|
 | [gradient_style](/cells/python-net/ar/aspose.cells.drawing/fillformat/gradient_style) | إرجاع نمط التدرج للتعبئة المحددة.|
 | [gradient_color1](/cells/python-net/ar/aspose.cells.drawing/fillformat/gradient_color1) | إرجاع لون التدرج 1 للتعبئة المحددة.|
-| [gradient_color2](/cells/python-net/ar/aspose.cells.drawing/fillformat/gradient_color2) | إرجاع لون التدرج 2 للتعبئة المحددة.|
+| [gradient_color2](/cells/python-net/ar/aspose.cells.drawing/fillformat/gradient_color2) |إرجاع لون التدرج 2 للتعبئة المحددة.|
 | [gradient_degree](/cells/python-net/ar/aspose.cells.drawing/fillformat/gradient_degree) | إرجاع درجة التدرج للتعبئة المحددة.<br/> ينطبق فقط على Excel 2007.|
 | [gradient_variant](/cells/python-net/ar/aspose.cells.drawing/fillformat/gradient_variant) | إرجاع متغير التدرج للتعبئة المحددة.<br/> ينطبق فقط على Excel 2007.|
-| [preset_color](/cells/python-net/ar/aspose.cells.drawing/fillformat/preset_color) | إرجاع لون التدرج المعين مسبقًا للتعبئة المحددة.|
-| [texture](/cells/python-net/ar/aspose.cells.drawing/fillformat/texture) | يمثل نوع النسيج للتعبئة المحددة.|
-| [pattern](/cells/python-net/ar/aspose.cells.drawing/fillformat/pattern) | يمثل نمط عرض منطقة.|
-| [picture_format_type](/cells/python-net/ar/aspose.cells.drawing/fillformat/picture_format_type) | الحصول على نوع تنسيق الصورة وتعيينه.|
-| [scale](/cells/python-net/ar/aspose.cells.drawing/fillformat/scale) | الحصول على مقياس تنسيق الصورة وتعيينه.|
-| [image_data](/cells/python-net/ar/aspose.cells.drawing/fillformat/image_data) | الحصول على بيانات صورة الصورة وتعيينها.|
+| [preset_color](/cells/python-net/ar/aspose.cells.drawing/fillformat/preset_color) | إرجاع لون التدرج المحدد مسبقًا للتعبئة المحددة.|
+| [texture](/cells/python-net/ar/aspose.cells.drawing/fillformat/texture) | يمثل نوع الملمس للتعبئة المحددة.|
+| [pattern](/cells/python-net/ar/aspose.cells.drawing/fillformat/pattern) | يمثل نمط عرض المنطقة.|
+| [picture_format_type](/cells/python-net/ar/aspose.cells.drawing/fillformat/picture_format_type) | يحصل على نوع تنسيق الصورة ويحدده.|
+| [scale](/cells/python-net/ar/aspose.cells.drawing/fillformat/scale) | يحصل على مقياس تنسيق الصورة ويضبطه.|
+| [image_data](/cells/python-net/ar/aspose.cells.drawing/fillformat/image_data) | يحصل على بيانات الصورة ويقوم بتعيينها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [set_two_color_gradient(color1, color2, style, variant)](/cells/python-net/ar/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-aspose.pydrawing.Color-GradientStyleType-int) | يضبط التعبئة المحددة على تدرج لوني ثنائي اللون.<br/> ينطبق فقط على Excel 2007.|
-| [set_two_color_gradient(color1, transparency1, color2, transparency2, style, variant)](/cells/python-net/ar/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-float-aspose.pydrawing.Color-float-GradientStyleType-int) | يضبط التعبئة المحددة على تدرج لوني ثنائي اللون.<br/> ينطبق فقط على Excel 2007.|
-| [set_one_color_gradient(color, degree, style, variant)](/cells/python-net/ar/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.Color-float-GradientStyleType-int) | يضبط التعبئة المحددة لتدرج لوني أحادي اللون.<br/> ينطبق فقط على Excel 2007.|
-| [set_preset_color_gradient(preset_color, style, variant)](/cells/python-net/ar/aspose.cells.drawing/fillformat/set_preset_color_gradient/#GradientPresetType-GradientStyleType-int) | يضبط التعبئة المحددة على التدرج اللوني المحدد مسبقًا.<br/> ينطبق فقط على Excel 2007.|
+| [`set_two_color_gradient(self, color1, color2, style, variant)`](/cells/python-net/ar/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-aspose.pydrawing.color-aspose.cells.drawing.gradientstyletype-int) | تعيين التعبئة المحددة إلى تدرج لوني ثنائي اللون.<br/> ينطبق فقط على Excel 2007.|
+| [`set_two_color_gradient(self, color1, transparency1, color2, transparency2, style, variant)`](/cells/python-net/ar/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-float-aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | تعيين التعبئة المحددة إلى تدرج لوني ثنائي اللون.<br/> ينطبق فقط على Excel 2007.|
+| [`set_one_color_gradient(self, color, degree, style, variant)`](/cells/python-net/ar/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | تعيين التعبئة المحددة إلى تدرج لوني أحادي اللون.<br/> ينطبق فقط على Excel 2007.|
+| [`set_preset_color_gradient(self, preset_color, style, variant)`](/cells/python-net/ar/aspose.cells.drawing/fillformat/set_preset_color_gradient/#aspose.cells.drawing.gradientpresettype-aspose.cells.drawing.gradientstyletype-int) | تعيين التعبئة المحددة إلى تدرج لوني محدد مسبقًا.<br/> ينطبق فقط على Excel 2007.|
 
 
 
@@ -101,4 +101,4 @@ chart.n_series[seriesIndex].area.fill_format.set_one_color_gradient(Color.lime, 
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

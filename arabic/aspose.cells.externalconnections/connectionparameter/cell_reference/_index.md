@@ -1,5 +1,5 @@
 ---
-title: cell_reference الملكية
+title: cell_reference عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.externalconnections/connectionparameter/cell_reference/
 is_root: false
 ---
-##  cell_reference الملكية
+##  cell_reference عقار
 
-مرجع Cell يشير إلى قيمة الخانة التي سيتم استخدامها لمعامل الاستعلام. يُستخدم فقط عندما تكون معلمة نوع الخلية.
+Cell مرجع يُشير إلى قيمة الخلية المُراد استخدامها لمعلمة الاستعلام. يُستخدم فقط عندما يكون نوع المعلمة خلية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def cell_reference(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [ConnectionParameter](/cells/python-net/ar/aspose.cells.externalconnections/connectionparameter)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`ConnectionParameter`](/cells/python-net/ar/aspose.cells.externalconnections/connectionparameter)

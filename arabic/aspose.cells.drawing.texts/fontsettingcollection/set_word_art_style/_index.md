@@ -7,12 +7,13 @@ weight: 120
 url: /ar/aspose.cells.drawing.texts/fontsettingcollection/set_word_art_style/
 is_root: false
 ---
-##  set_word_art_style(style) {#PresetWordArtStyle}
-يعيّن نمط WordArt المعين مسبقًا.
+##  set_word_art_style(self, style) {#aspose.cells.drawing.PresetWordArtStyle}
+تعيين نمط WordArt المحدد مسبقًا.
 
 
 
 ```python
+
 def set_word_art_style(self, style):
     ...
 ```
@@ -20,10 +21,10 @@ def set_word_art_style(self, style):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| style | [PresetWordArtStyle](/cells/python-net/ar/aspose.cells.drawing/presetwordartstyle) | نمط WordArt المعين مسبقًا.|
+| style | [`PresetWordArtStyle`](/cells/python-net/ar/aspose.cells.drawing/presetwordartstyle) | نمط WordArt المحدد مسبقًا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [FontSettingCollection](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`FontSettingCollection`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection)

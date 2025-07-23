@@ -3,7 +3,7 @@ title: type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /zh/aspose.cells.drawing/listbox/type/
 is_root: false
 ---

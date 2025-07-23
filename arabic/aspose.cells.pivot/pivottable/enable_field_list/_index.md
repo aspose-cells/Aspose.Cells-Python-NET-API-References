@@ -1,15 +1,15 @@
 ---
-title: enable_field_list الملكية
+title: enable_field_list عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 600
 url: /ar/aspose.cells.pivot/pivottable/enable_field_list/
 is_root: false
 ---
-##  enable_field_list الملكية
+##  enable_field_list عقار
 
-الحصول على ما إذا كان يتم تمكين قائمة الحقول لجدول PivotTable أم لا.
+يشير إلى ما إذا كانت قائمة الحقول الخاصة بجدول البيانات المحوري متوفرة في عرض Excel.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def enable_field_list(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

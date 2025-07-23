@@ -3,13 +3,13 @@ title: width属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 430
+weight: 530
 url: /zh/aspose.cells/range/width/
 is_root: false
 ---
 ## width属性
 
-获取 width 点范围。
+获取点范围内的 width。
 ### 定义：
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: is_old_comment الملكية
+title: is_old_comment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.revisions/revisioncellcomment/is_old_comment/
 is_root: false
 ---
-##  is_old_comment الملكية
+##  is_old_comment عقار
 
-يشير إلى ما إذا كان تعليقًا قديمًا.
+يشير إلى ما إذا كان التعليق قديمًا.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_old_comment(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.revisions](../../)
-* فئة [RevisionCellComment](/cells/python-net/ar/aspose.cells.revisions/revisioncellcomment)
+* الوحدة [`aspose.cells.revisions`](../../)
+* فئة [`RevisionCellComment`](/cells/python-net/ar/aspose.cells.revisions/revisioncellcomment)

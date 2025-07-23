@@ -1,5 +1,5 @@
 ---
-title: العد WebExtensionStoreType
+title: WebExtensionStoreType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,25 +7,25 @@ weight: 110
 url: /ar/aspose.cells.webextensions/webextensionstoretype/
 is_root: false
 ---
-##  العد WebExtensionStoreType
-يمثل نوع متجر امتداد الويب.
+##  WebExtensionStoreType التعداد
+يمثل نوع المتجر لامتداد الويب.
 
 
 
-يكشف نوع WebExtensionStoreType الأعضاء التالية:
+يكشف النوع WebExtensionStoreType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| OMEX | تحديد أن نوع المتجر هو Office.com.|
-| SP_CATALOG | يحدد أن نوع المتجر هو SharePoint كتالوج الشركة.|
+| OMEX | يحدد أن نوع المتجر هو Office.com.|
+| SP_CATALOG | يحدد أن نوع المتجر هو كتالوج SharePoint الخاص بالشركة.|
 | SP_APP | يحدد أن نوع المتجر هو تطبيق ويب SharePoint.|
-| EXCHANGE | تحديد أن نوع المتجر هو خادم Exchange.|
-| FILE_SYSTEM | تحديد أن نوع المخزن هو مشاركة في نظام الملفات.|
-| REGISTRY | تحديد أن نوع المتجر هو سجل النظام.|
-| EX_CATALOG | تحديد أن نوع المتجر هو النشر المركزي عبر Exchange.|
+| EXCHANGE | يحدد أن نوع المتجر هو خادم Exchange.|
+| FILE_SYSTEM |يحدد أن نوع المتجر هو مشاركة نظام الملفات.|
+| REGISTRY | يحدد أن نوع المتجر هو سجل النظام.|
+| EX_CATALOG | يحدد أن نوع المتجر هو النشر المركزي عبر Exchange.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](..)
+* الوحدة [`aspose.cells.webextensions`](..)

@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/formatcondition/get_formula1/
 is_root: false
 ---
-##  get_formula1(is_r1c1, is_local) {#bool-bool}
-الحصول على القيمة أو التعبير المرتبط بشرط التنسيق هذا.
+##  get_formula1(self, is_r1c1, is_local) {#bool-bool}
+يحصل على القيمة أو التعبير المرتبط بشرط التنسيق هذا.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_formula1(self, is_r1c1, is_local):
     ...
 ```
@@ -25,11 +26,11 @@ def get_formula1(self, is_r1c1, is_local):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | is_r1c1 | bool | ما إذا كانت الصيغة تحتاج إلى تنسيقها كـ R1C1.|
-| is_local | bool | ما إذا كانت الصيغة تحتاج إلى التنسيق بواسطة الإعدادات المحلية.|
+| is_local | bool | ما إذا كانت الصيغة تحتاج إلى تنسيق حسب الإعدادات المحلية.|
 
 
-##  get_formula1(row, column) {#int-int}
-الحصول على صيغة التنسيق الشرطي للخلية.
+##  get_formula1(self, row, column) {#int-int}
+يحصل على صيغة التنسيق الشرطي للخلية.
 
 
 ###  عائدات
@@ -38,6 +39,7 @@ def get_formula1(self, is_r1c1, is_local):
 
 
 ```python
+
 def get_formula1(self, row, column):
     ...
 ```
@@ -45,12 +47,12 @@ def get_formula1(self, row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس الصف.|
+| row | int | مؤشر الصف.|
 | column | int | فهرس العمود.|
 
 
-##  get_formula1(is_r1c1, is_local, row, column) {#bool-bool-int-int}
-الحصول على قيمة أو تعبير التنسيق الشرطي للخلية.
+##  get_formula1(self, is_r1c1, is_local, row, column) {#bool-bool-int-int}
+يحصل على قيمة أو تعبير التنسيق الشرطي للخلية.
 
 
 ###  عائدات
@@ -59,6 +61,7 @@ def get_formula1(self, row, column):
 
 
 ```python
+
 def get_formula1(self, is_r1c1, is_local, row, column):
     ...
 ```
@@ -67,15 +70,15 @@ def get_formula1(self, is_r1c1, is_local, row, column):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | is_r1c1 | bool | ما إذا كانت الصيغة تحتاج إلى تنسيقها كـ R1C1.|
-| is_local | bool | ما إذا كانت الصيغة تحتاج إلى التنسيق بواسطة الإعدادات المحلية.|
-| row | int | فهرس الصف.|
+| is_local | bool | ما إذا كانت الصيغة تحتاج إلى تنسيق حسب الإعدادات المحلية.|
+| row | int | مؤشر الصف.|
 | column | int | فهرس العمود.|
 ###  ملاحظات
 
-يجب أن يتم احتواء الخلية المحددة بواسطة هذا التنسيق الشرطي ، وإلا فسيتم إرجاع القيمة الخالية.
+يجب أن تحتوي الخلية المحددة على هذا التنسيق الشرطي، وإلا سيتم إرجاع قيمة null.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [FormatCondition](/cells/python-net/ar/aspose.cells/formatcondition)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormatCondition`](/cells/python-net/ar/aspose.cells/formatcondition)

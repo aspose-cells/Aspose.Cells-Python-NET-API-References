@@ -1,5 +1,5 @@
 ---
-title: AutoNumberedBulletValue الدرجة
+title: AutoNumberedBulletValue صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,34 +7,32 @@ weight: 10
 url: /ar/aspose.cells.drawing.texts/autonumberedbulletvalue/
 is_root: false
 ---
-##  AutoNumberedBulletValue الدرجة
-يمثل تعداد نقطي آلي.
+##  AutoNumberedBulletValue صف
+يمثل رقمًا نقطيًا تلقائيًا.
 
 
 
-**ميراث:** [AutoNumberedBulletValue](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue) → 
-[BulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/bulletvalue)
+**الميراث:** [`AutoNumberedBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue)
 
 
 
-يكشف نوع AutoNumberedBulletValue الأعضاء التالية:
+يكشف النوع AutoNumberedBulletValue عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [AutoNumberedBulletValue()](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | إنشاء مثيل جديد لـ AutoNumberedBulletValue|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | إنشاء مثيل جديد لـ AutoNumberedBulletValue|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
 | [type](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue/type) | يحصل على نوع الرصاصة.|
-| [start_at](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue/start_at) | يحصل ويضبط رقم البداية للرصاصة.|
+| [start_at](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue/start_at) | يحصل على رقم البداية للرصاصة ويحدده.|
 | [autonumber_scheme](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue/autonumber_scheme) | يمثل مخطط الرقم التلقائي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
-* فئة [AutoNumberedBulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* فئة [BulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/bulletvalue)
+* الوحدة [`aspose.cells.drawing.texts`](..)
+* فئة [`AutoNumberedBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue)

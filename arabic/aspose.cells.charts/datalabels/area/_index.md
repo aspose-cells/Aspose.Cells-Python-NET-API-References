@@ -1,15 +1,15 @@
 ---
-title: area الملكية
+title: area عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells.charts/datalabels/area/
 is_root: false
 ---
-##  area الملكية
+##  area عقار
 
-يحصل على [DataLabels.area](/cells/python-net/ar/aspose.cells.charts/datalabels#area).
+يحصل على [`DataLabels.area`](/cells/python-net/ar/aspose.cells.charts/datalabels#area).
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Area](/cells/python-net/ar/aspose.cells.drawing/area)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Area`](/cells/python-net/ar/aspose.cells.drawing/area)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

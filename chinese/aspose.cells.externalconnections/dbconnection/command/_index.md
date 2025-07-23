@@ -1,15 +1,15 @@
 ---
-title: command 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: command属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 40
+weight: 50
 url: /zh/aspose.cells.externalconnections/dbconnection/command/
 is_root: false
 ---
-## command 属性
+## command属性
 
-包含要传递给数据提供者 API 的数据库 command 的字符串
+包含数据库 command 的字符串将传递给数据提供者 API，该数据库将
 与外部源交互以检索数据
 ### 定义：
 ```python
@@ -22,5 +22,5 @@ def command(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.externalconnections](../../)
-* 类 [DBConnection](/cells/python-net/zh/aspose.cells.externalconnections/dbconnection)
+* 模块[`aspose.cells.externalconnections`](../../)
+* 类 [`DBConnection`](/cells/python-net/zh/aspose.cells.externalconnections/dbconnection)

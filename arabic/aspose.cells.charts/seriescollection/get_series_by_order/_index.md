@@ -7,8 +7,8 @@ weight: 70
 url: /ar/aspose.cells.charts/seriescollection/get_series_by_order/
 is_root: false
 ---
-##  get_series_by_order(order) {#int}
-الحصول على عنصر [Series](/cells/python-net/ar/aspose.cells.charts/series) بالترتيب.
+##  get_series_by_order(self, order) {#int}
+يحصل على العنصر [`Series`](/cells/python-net/ar/aspose.cells.charts/series) حسب الطلب.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_series_by_order(self, order):
     ...
 ```
@@ -29,6 +30,6 @@ def get_series_by_order(self, order):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
-* فئة [SeriesCollection](/cells/python-net/ar/aspose.cells.charts/seriescollection)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)
+* فئة [`SeriesCollection`](/cells/python-net/ar/aspose.cells.charts/seriescollection)

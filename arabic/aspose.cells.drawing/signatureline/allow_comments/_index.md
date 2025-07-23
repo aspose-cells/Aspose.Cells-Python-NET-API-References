@@ -1,5 +1,5 @@
 ---
-title: allow_comments الملكية
+title: allow_comments عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.drawing/signatureline/allow_comments/
 is_root: false
 ---
-##  allow_comments الملكية
+##  allow_comments عقار
 
-يشير إلى إمكانية إرفاق التعليقات.
+يشير إلى ما إذا كان من الممكن إرفاق التعليقات.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def allow_comments(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline)

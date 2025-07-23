@@ -1,13 +1,13 @@
 ---
-title: capacity الملكية
+title: capacity عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 90
 url: /ar/aspose.cells.querytables/powerqueryformulacollection/capacity/
 is_root: false
 ---
-##  capacity الملكية
+##  capacity عقار
 ###  تعريف:
 ```python
 @property
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.querytables](../../)
-* فئة [PowerQueryFormulaCollection](/cells/python-net/ar/aspose.cells.querytables/powerqueryformulacollection)
+* الوحدة [`aspose.cells.querytables`](../../)
+* فئة [`PowerQueryFormulaCollection`](/cells/python-net/ar/aspose.cells.querytables/powerqueryformulacollection)

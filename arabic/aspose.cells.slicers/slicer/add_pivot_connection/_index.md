@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.slicers/slicer/add_pivot_connection/
 is_root: false
 ---
-##  add_pivot_connection(pivot) {#aspose.cells.pivot.PivotTable}
-يضيف اتصال PivotTable.
+##  add_pivot_connection(self, pivot) {#aspose.cells.pivot.PivotTable}
+إضافة اتصال PivotTable.
 
 
 
 ```python
+
 def add_pivot_connection(self, pivot):
     ...
 ```
@@ -33,5 +34,5 @@ slicer.add_pivot_connection(pivot)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

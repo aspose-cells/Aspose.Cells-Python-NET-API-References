@@ -3,13 +3,13 @@ title: height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 440
 url: /ar/aspose.cells/range/height/
 is_root: false
 ---
 ##  height عقار
 
-الحصول على عرض النطاق بالنقاط.
+يحصل على عرض النطاق بالنقاط.
 ###  تعريف:
 ```python
 @property

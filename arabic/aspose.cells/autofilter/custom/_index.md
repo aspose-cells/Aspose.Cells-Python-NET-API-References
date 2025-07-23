@@ -7,12 +7,13 @@ weight: 70
 url: /ar/aspose.cells/autofilter/custom/
 is_root: false
 ---
-##  custom(field_index, operator_type1, criteria1) {#int-FilterOperatorType-any}
-لتصفية قائمة بمعايير custom.
+##  custom(self, field_index, operator_type1, criteria1) {#int-aspose.cells.FilterOperatorType-any}
+يقوم بتصفية القائمة باستخدام المعيار custom.
 
 
 
 ```python
+
 def custom(self, field_index, operator_type1, criteria1):
     ...
 ```
@@ -20,17 +21,18 @@ def custom(self, field_index, operator_type1, criteria1):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_index | int | إزاحة العدد الصحيح للحقل الذي تريد أن يؤسس عامل التصفية عليه<br/> (من يسار القائمة ؛ الحقل الموجود في أقصى اليسار هو الحقل 0).|
-| operator_type1 | [FilterOperatorType](/cells/python-net/ar/aspose.cells/filteroperatortype) | نوع عامل التصفية|
-| criteria1 | any | المعايير المخصصة|
+| field_index | int | الإزاحة الصحيحة للحقل الذي تريد أن تستند إليه المرشح<br/> (من يسار القائمة؛ الحقل الأيسر هو الحقل 0).|
+| operator_type1 | [`FilterOperatorType`](/cells/python-net/ar/aspose.cells/filteroperatortype) | نوع عامل التصفية|
+| criteria1 | any | معايير العرف|
 
 
-##  custom(field_index, operator_type1, criteria1, is_and, operator_type2, criteria2) {#int-FilterOperatorType-any-bool-FilterOperatorType-any}
-لتصفية قائمة بمعايير custom.
+##  custom(self, field_index, operator_type1, criteria1, is_and, operator_type2, criteria2) {#int-aspose.cells.FilterOperatorType-any-bool-aspose.cells.FilterOperatorType-any}
+يقوم بتصفية القائمة باستخدام المعايير custom.
 
 
 
 ```python
+
 def custom(self, field_index, operator_type1, criteria1, is_and, operator_type2, criteria2):
     ...
 ```
@@ -38,15 +40,15 @@ def custom(self, field_index, operator_type1, criteria1, is_and, operator_type2,
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_index | int | إزاحة العدد الصحيح للحقل الذي تريد أن يؤسس عامل التصفية عليه<br/> (من يسار القائمة ؛ الحقل الموجود في أقصى اليسار هو الحقل 0).|
-| operator_type1 | [FilterOperatorType](/cells/python-net/ar/aspose.cells/filteroperatortype) | نوع عامل التصفية|
-| criteria1 | any | المعايير المخصصة|
+| field_index | int | الإزاحة الصحيحة للحقل الذي تريد أن تستند إليه المرشح<br/> (من يسار القائمة؛ الحقل الأيسر هو الحقل 0).|
+| operator_type1 | [`FilterOperatorType`](/cells/python-net/ar/aspose.cells/filteroperatortype) | نوع عامل التصفية|
+| criteria1 | any | معايير العرف|
 | is_and | bool |  |
-| operator_type2 | [FilterOperatorType](/cells/python-net/ar/aspose.cells/filteroperatortype) | نوع عامل التصفية|
-| criteria2 | any | المعايير المخصصة|
+| operator_type2 | [`FilterOperatorType`](/cells/python-net/ar/aspose.cells/filteroperatortype) | نوع عامل التصفية|
+| criteria2 | any | معايير العرف|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFilter](/cells/python-net/ar/aspose.cells/autofilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFilter`](/cells/python-net/ar/aspose.cells/autofilter)

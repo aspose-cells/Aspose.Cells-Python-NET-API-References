@@ -1,13 +1,13 @@
 ---
-title: caption 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: caption属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.timelines/timeline/caption/
 is_root: false
 ---
-## caption 属性
+## caption属性
 
 返回或设置指定时间轴的 caption。
 
@@ -30,5 +30,5 @@ def caption(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.timelines](../../)
-* 类 [Timeline](/cells/python-net/zh/aspose.cells.timelines/timeline)
+* 模块[`aspose.cells.timelines`](../../)
+* 类 [`Timeline`](/cells/python-net/zh/aspose.cells.timelines/timeline)

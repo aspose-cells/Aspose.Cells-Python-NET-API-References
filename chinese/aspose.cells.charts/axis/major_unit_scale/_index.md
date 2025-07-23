@@ -3,13 +3,13 @@ title: major_unit_scale属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 310
+weight: 320
 url: /zh/aspose.cells.charts/axis/major_unit_scale/
 is_root: false
 ---
 ## major_unit_scale属性
 
-表示类别轴的主要单位比例。
+表示类别轴的主要单位尺度。
 
 ### 例子
 

@@ -3,13 +3,13 @@ title: label عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 800
+weight: 810
 url: /ar/aspose.cells.drawing/oleobject/label/
 is_root: false
 ---
 ##  label عقار
 
-الحصول على العرض label لكائن ole المرتبط وتعيينه.
+يحصل على العرض label لكائن ole المرتبط ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property

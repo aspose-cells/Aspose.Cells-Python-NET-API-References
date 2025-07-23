@@ -3,14 +3,14 @@ title: auto_sort_field عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 280
 url: /ar/aspose.cells.pivot/pivotfield/auto_sort_field/
 is_root: false
 ---
 ##  auto_sort_field عقار
 
- يمثل فهرس حقل الفرز التلقائي.
--1 يعني PivotField نفسه، والبعض الآخر يعني موضع حقول البيانات.
+ يمثل مؤشر الحقل الذي يتم فرزه تلقائيًا.
+-1 يعني PivotField نفسه، وothers يعني موضع حقول البيانات.
 ###  تعريف:
 ```python
 @property

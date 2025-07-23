@@ -1,5 +1,5 @@
 ---
-title: العد QuartileCalculationType
+title: QuartileCalculationType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,20 +7,20 @@ weight: 600
 url: /ar/aspose.cells.charts/quartilecalculationtype/
 is_root: false
 ---
-##  العد QuartileCalculationType
-يمثل طرق الحساب الربعي.
+##  QuartileCalculationType التعداد
+يمثل طرق حساب الربع.
 
 
 
-يكشف نوع QuartileCalculationType الأعضاء التالية:
+يكشف النوع QuartileCalculationType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| EXCLUSIVE | يتضمن الحساب الربعي الوسيط عند تقسيم مجموعة البيانات إلى أرباع.|
-| INCLUSIVE | يستثني الحساب الربعي الوسيط عند تقسيم مجموعة البيانات إلى أرباع.|
+| EXCLUSIVE | يتضمن حساب الربع المتوسط عند تقسيم مجموعة البيانات إلى أرباع.|
+| INCLUSIVE | يستبعد حساب الربع المتوسط عند تقسيم مجموعة البيانات إلى أرباع.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

@@ -1,5 +1,5 @@
 ---
-title: refer_to_sheet_with_same_name الملكية
+title: refer_to_sheet_with_same_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 90
 url: /ar/aspose.cells/copyoptions/refer_to_sheet_with_same_name/
 is_root: false
 ---
-##  refer_to_sheet_with_same_name الملكية
+##  refer_to_sheet_with_same_name عقار
 
-عند نسخ ورقة عمل إلى مصنف آخر وتحتوي ورقة العمل على الصيغ التي تشير إلى أوراق عمل أخرى في MS Excel ،
-يجب أن تشير الصيغ المنسوخة إلى المصنف المصدر.
-لكن في بعض الأحيان نقوم بنسخ أوراق عمل أخرى ونأمل أن تشير الصيغ المنسوخة إلى أوراق عمل أخرى بالاسم الموجود في نفس المصنف ،
-يرجى تعيين هذه الخاصية على أنها صحيحة.
+في برنامج مايكروسوفت إكسل، عند نسخ الصيغ التي تشير إلى أوراق عمل أخرى أثناء نسخ ورقة عمل إلى ورقة عمل أخرى،
+ينبغي أن تشير الصيغ المنسوخة إلى المصنف المصدر.
+ومع ذلك، في بعض الحالات قد يحتاج المستخدم إلى الرجوع إلى الصيغ المنسوخة في أوراق العمل التي تحمل نفس الاسم
+في نفس المصنف، كما هو الحال عندما يتم نسخ أوراق العمل هذه قبل عملية النسخ هذه،
+ثم يجب أن تبقى هذه الخاصية صحيحة.
 
 ###  ملاحظات
 
-القيمة الافتراضية هي الحقيقية.
+القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property
@@ -28,5 +29,5 @@ def refer_to_sheet_with_same_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CopyOptions](/cells/python-net/ar/aspose.cells/copyoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CopyOptions`](/cells/python-net/ar/aspose.cells/copyoptions)

@@ -1,5 +1,5 @@
 ---
-title: print_title_columns الملكية
+title: print_title_columns عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 590
 url: /ar/aspose.cells/pagesetup/print_title_columns/
 is_root: false
 ---
-##  print_title_columns الملكية
+##  print_title_columns عقار
 
-يمثل الأعمدة التي تحتوي على الخلايا المراد تكرارها على الجانب الأيسر من كل صفحة.
+يمثل الأعمدة التي تحتوي على الخلايا التي سيتم تكرارها على الجانب الأيسر من كل صفحة.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def print_title_columns(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

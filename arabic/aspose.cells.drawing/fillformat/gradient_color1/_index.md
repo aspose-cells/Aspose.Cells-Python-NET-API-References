@@ -1,5 +1,5 @@
 ---
-title: gradient_color1 الملكية
+title: gradient_color1 عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 70
 url: /ar/aspose.cells.drawing/fillformat/gradient_color1/
 is_root: false
 ---
-##  gradient_color1 الملكية
+##  gradient_color1 عقار
 
 إرجاع لون التدرج 1 للتعبئة المحددة.
 ###  تعريف:
@@ -18,5 +18,5 @@ def gradient_color1(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [FillFormat](/cells/python-net/ar/aspose.cells.drawing/fillformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`FillFormat`](/cells/python-net/ar/aspose.cells.drawing/fillformat)

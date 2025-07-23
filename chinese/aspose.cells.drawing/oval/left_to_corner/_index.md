@@ -3,13 +3,13 @@ title: left_to_corner属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 710
+weight: 720
 url: /zh/aspose.cells.drawing/oval/left_to_corner/
 is_root: false
 ---
 ## left_to_corner属性
 
-获取和设置形状距工作表左边框的水平偏移量。
+获取并设置形状与工作表左边框的水平偏移量。
 
 ### 例子
 

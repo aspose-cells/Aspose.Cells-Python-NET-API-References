@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells.charts/legend/set_position_auto/
 is_root: false
 ---
-##  set_position_auto {#}
-اضبط موضع الإطار على الوضع التلقائي
+##  set_position_auto(self) {#}
+ضبط موضع الإطار إلى الوضع التلقائي
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```

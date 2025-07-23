@@ -3,13 +3,13 @@ title: is_table_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 650
+weight: 680
 url: /ar/aspose.cells/cell/is_table_formula/
 is_root: false
 ---
 ##  is_table_formula عقار
 
-الإشارة إلى ما إذا كانت هذه الخلية جزءًا من صيغة الجدول.
+يشير إلى ما إذا كانت هذه الخلية جزءًا من صيغة الجدول.
 ###  تعريف:
 ```python
 @property

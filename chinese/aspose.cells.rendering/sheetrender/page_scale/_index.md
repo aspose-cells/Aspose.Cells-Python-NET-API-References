@@ -9,8 +9,8 @@ is_root: false
 ---
 ## page_scale属性
 
-获取工作表的计算页面比例。
-如果设置了 [`PageSetup.zoom`](/cells/python-net/zh/aspose.cells/pagesetup#zoom)，则返回设置的比例。否则，返回根据[`PageSetup.fit_to_pages_wide`](/cells/python-net/zh/aspose.cells/pagesetup#fit_to_pages_wide)和[`PageSetup.fit_to_pages_tall`](/cells/python-net/zh/aspose.cells/pagesetup#fit_to_pages_tall)计算的比例。
+获取计算出的纸张页面比例。
+如果设置了 [`PageSetup.zoom`](/cells/python-net/zh/aspose.cells/pagesetup#zoom)，则返回设置的比例。否则，返回根据 [`PageSetup.fit_to_pages_wide`](/cells/python-net/zh/aspose.cells/pagesetup#fit_to_pages_wide) 和 [`PageSetup.fit_to_pages_tall`](/cells/python-net/zh/aspose.cells/pagesetup#fit_to_pages_tall) 计算出的比例。
 
 ### 例子
 

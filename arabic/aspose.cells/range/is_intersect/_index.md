@@ -3,11 +3,11 @@ title: طريقة is_intersect
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 190
 url: /ar/aspose.cells/range/is_intersect/
 is_root: false
 ---
-##  is_intersect {#aspose.cells.Range}
+##  is_intersect(self, range) {#aspose.cells.Range}
 يشير إلى ما إذا كان النطاق متقاطعًا.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def is_intersect(self, range):
     ...
 ```
@@ -24,10 +25,10 @@ def is_intersect(self, range):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/ar/aspose.cells/range) | النطاق.|
+| range | [`Range`](/cells/python-net/ar/aspose.cells/range) | المدى.|
 ###  ملاحظات
 
-إذا لم تكن منطقة النطاقين في نفس ورقة العمل، فسيتم إرجاع خطأ.
+إذا لم يكن النطاقان موجودين في نفس ورقة العمل، فسيتم إرجاع القيمة False.
 
 
 ###  أنظر أيضا

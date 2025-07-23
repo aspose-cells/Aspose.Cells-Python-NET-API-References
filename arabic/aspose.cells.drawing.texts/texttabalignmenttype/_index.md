@@ -1,28 +1,28 @@
 ---
-title: العد TextTabAlignmentType
+title: TextTabAlignmentType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ar/aspose.cells.drawing.texts/texttabalignmenttype/
 is_root: false
 ---
-##  العد TextTabAlignmentType
+##  TextTabAlignmentType التعداد
 يمثل أنواع محاذاة علامة تبويب النص.
 
 
 
-يكشف نوع TextTabAlignmentType الأعضاء التالية:
+يكشف النوع TextTabAlignmentType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| CENTER | يتم محاذاة النص الموجود في علامة الجدولة هذه إلى المنتصف.|
-| DECIMAL | في علامة الجدولة هذه ، يتم ترتيب الكسور العشرية.|
-| LEFT | يتم محاذاة النص الموجود في علامة الجدولة هذه إلى اليسار.|
-| RIGHT | النص الموجود في علامة الجدولة هذه محاذي إلى اليمين.|
+| CENTER | يتم محاذاة النص الموجود في علامة التبويب هذه إلى المركز.|
+| DECIMAL | في علامة التبويب هذه، يتم ترتيب الأرقام العشرية.|
+| LEFT | يتم محاذاة النص الموجود في علامة التبويب هذه إلى اليسار.|
+| RIGHT | يتم محاذاة النص الموجود في علامة التبويب هذه إلى اليمين.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
+* الوحدة [`aspose.cells.drawing.texts`](..)

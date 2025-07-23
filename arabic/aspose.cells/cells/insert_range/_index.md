@@ -3,16 +3,17 @@ title: طريقة insert_range
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 700
+weight: 720
 url: /ar/aspose.cells/cells/insert_range/
 is_root: false
 ---
-##  insert_range {#aspose.cells.CellArea-aspose.cells.ShiftType}
-إدراج نطاق من الخلايا وإزاحة الخلايا وفقًا لخيار النقل.
+##  insert_range(self, area, shift_type) {#aspose.cells.CellArea-aspose.cells.ShiftType}
+إدراج نطاق من الخلايا وتحريك الخلايا وفقًا لخيار التحويل.
 
 
 
 ```python
+
 def insert_range(self, area, shift_type):
     ...
 ```
@@ -21,15 +22,16 @@ def insert_range(self, area, shift_type):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | area | [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea) | منطقة التحول.|
-| shift_type | [`ShiftType`](/cells/python-net/ar/aspose.cells/shifttype) | خيار تحويل الخلايا|
+| shift_type | [`ShiftType`](/cells/python-net/ar/aspose.cells/shifttype) |خيار تحويل الخلايا.|
 
 
-##  insert_range {#aspose.cells.CellArea-int-aspose.cells.ShiftType}
-إدراج نطاق من الخلايا وإزاحة الخلايا وفقًا لخيار النقل.
+##  insert_range(self, area, shift_number, shift_type) {#aspose.cells.CellArea-int-aspose.cells.ShiftType}
+إدراج نطاق من الخلايا وتحريك الخلايا وفقًا لخيار التحويل.
 
 
 
 ```python
+
 def insert_range(self, area, shift_number, shift_type):
     ...
 ```
@@ -38,16 +40,17 @@ def insert_range(self, area, shift_number, shift_type):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | area | [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea) | منطقة التحول.|
-| shift_number | int | عدد الصفوف أو الأعمدة التي سيتم إدراجها.|
-| shift_type | [`ShiftType`](/cells/python-net/ar/aspose.cells/shifttype) | خيار تحويل الخلايا|
+| shift_number | int |عدد الصفوف أو الأعمدة المراد إدراجها.|
+| shift_type | [`ShiftType`](/cells/python-net/ar/aspose.cells/shifttype) |خيار تحويل الخلايا.|
 
 
-##  insert_range {#aspose.cells.CellArea-int-aspose.cells.ShiftType-bool}
-إدراج نطاق من الخلايا وإزاحة الخلايا وفقًا لخيار النقل.
+##  insert_range(self, area, shift_number, shift_type, update_reference) {#aspose.cells.CellArea-int-aspose.cells.ShiftType-bool}
+إدراج نطاق من الخلايا وتحريك الخلايا وفقًا لخيار التحويل.
 
 
 
 ```python
+
 def insert_range(self, area, shift_number, shift_type, update_reference):
     ...
 ```
@@ -56,9 +59,9 @@ def insert_range(self, area, shift_number, shift_type, update_reference):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | area | [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea) | منطقة التحول.|
-| shift_number | int | عدد الصفوف أو الأعمدة التي سيتم إدراجها.|
-| shift_type | [`ShiftType`](/cells/python-net/ar/aspose.cells/shifttype) | خيار تحويل الخلايا|
-| update_reference | bool | يشير إلى ما إذا كانت مراجع التحديث موجودة في أوراق العمل الأخرى.|
+| shift_number | int |عدد الصفوف أو الأعمدة المراد إدراجها.|
+| shift_type | [`ShiftType`](/cells/python-net/ar/aspose.cells/shifttype) |خيار تحويل الخلايا.|
+| update_reference | bool | يشير إلى ما إذا كان يتم تحديث المراجع في أوراق العمل الأخرى.|
 
 
 

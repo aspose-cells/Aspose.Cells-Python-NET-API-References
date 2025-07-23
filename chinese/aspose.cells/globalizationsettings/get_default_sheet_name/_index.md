@@ -7,28 +7,29 @@ weight: 80
 url: /zh/aspose.cells/globalizationsettings/get_default_sheet_name/
 is_root: false
 ---
-##  get_default_sheet_name {#}
+##  get_default_sheet_name(self) {#}
 获取自动添加工作表的默认工作表名称。
-默认为“工作表”。
+默认为“Sheet”。
 
 
-### 退货
+### 返回
 
 自动添加工作表的默认工作表名称
 
 
 ```python
+
 def get_default_sheet_name(self):
     ...
 ```
 
 
-### 评论
+### 注意事项
 
-自动添加（如[`WorksheetCollection.add`](/cells/python-net/zh/aspose.cells/worksheetcollection/add)）
+自动添加（例如 [`WorksheetCollection.add`](/cells/python-net/zh/aspose.cells/worksheetcollection/add)）
 工作表的名称将是指定的名称加上序列号。
 例如，对于德国用户可能希望工作表名称为“Tabellenblatt2”而不是“Sheet2”。
-然后用户可以实现此方法以返回“Tabellenblatt”。
+然后用户可以实现此方法来返回“Tabellenblatt”。
 
 
 ### 也可以看看

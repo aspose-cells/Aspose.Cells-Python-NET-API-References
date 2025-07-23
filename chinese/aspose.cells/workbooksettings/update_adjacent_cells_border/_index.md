@@ -3,19 +3,19 @@ title: update_adjacent_cells_border属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 490
+weight: 510
 url: /zh/aspose.cells/workbooksettings/update_adjacent_cells_border/
 is_root: false
 ---
 ## update_adjacent_cells_border属性
 
-是否更新相邻单元格的边框。
+指示是否更新相邻单元格的边框。
 
-### 评论
+### 注意事项
 
 默认值为 false。
-例如：更新单元格A1的下边框，
-单元格 A2 的上边框也应该更改。
+例如：单元格A1的下边框更新，
+单元格 A2 的顶部边框也应该改变。
 ### 定义：
 ```python
 @property

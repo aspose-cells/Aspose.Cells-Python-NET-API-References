@@ -1,5 +1,5 @@
 ---
-title: destination_name الملكية
+title: destination_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 40
 url: /ar/aspose.cells.rendering/pdfbookmarkentry/destination_name/
 is_root: false
 ---
-##  destination_name الملكية
+##  destination_name عقار
 
-يحصل أو يحدد اسم الوجهة.
+يحصل على اسم الوجهة أو يحدده.
 
 ###  ملاحظات
 
-إذا تم تعيين اسم الوجهة ، فسيتم تعريف الوجهة كوجهة مسماة بهذا الاسم.
+إذا تم تعيين اسم الوجهة، فسيتم تعريف الوجهة كوجهة مسماة بهذا الاسم.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def destination_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [PdfBookmarkEntry](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`PdfBookmarkEntry`](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry)

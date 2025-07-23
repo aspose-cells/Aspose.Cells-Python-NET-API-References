@@ -7,12 +7,13 @@ weight: 250
 url: /zh/aspose.cells/cells/delete_row/
 is_root: false
 ---
-##  delete_row {#int}
+##  delete_row(self, row_index) {#int}
 删除一行。
 
 
 
 ```python
+
 def delete_row(self, row_index):
     ...
 ```
@@ -23,12 +24,13 @@ def delete_row(self, row_index):
 | row_index | int |要删除的行的索引。|
 
 
-##  delete_row {#int-bool}
+##  delete_row(self, row_index, update_reference) {#int-bool}
 删除一行。
 
 
 
 ```python
+
 def delete_row(self, row_index, update_reference):
     ...
 ```

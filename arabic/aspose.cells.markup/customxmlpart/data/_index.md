@@ -1,5 +1,5 @@
 ---
-title: data الملكية
+title: data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.markup/customxmlpart/data/
 is_root: false
 ---
-##  data الملكية
+##  data عقار
 
-الحصول على محتوى XML الخاص بجزء تخزين بيانات XML المخصص هذا أو تعيينه.
+يحصل على محتوى XML الخاص بجزء تخزين بيانات XML المخصص هذا أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](../../)
-* فئة [CustomXmlPart](/cells/python-net/ar/aspose.cells.markup/customxmlpart)
+* الوحدة [`aspose.cells.markup`](../../)
+* فئة [`CustomXmlPart`](/cells/python-net/ar/aspose.cells.markup/customxmlpart)

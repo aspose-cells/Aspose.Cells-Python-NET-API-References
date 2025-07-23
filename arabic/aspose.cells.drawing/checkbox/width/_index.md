@@ -3,13 +3,13 @@ title: width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /ar/aspose.cells.drawing/checkbox/width/
 is_root: false
 ---
 ##  width عقار
 
-يمثل width من الشكل بوحدة البكسل.
+يمثل الشكل width، بوحدة البكسل.
 
 ###  مثال
 

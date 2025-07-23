@@ -3,13 +3,13 @@ title: is_rich_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 740
+weight: 760
 url: /ar/aspose.cells.drawing/picture/is_rich_text/
 is_root: false
 ---
 ##  is_rich_text عقار
 
-ما إذا كان النص نصًا منسقًا أم لا.
+سواء كان النص نصًا غنيًا أم لا.
 
 ###  مثال
 

@@ -3,12 +3,12 @@ title: HeaderFooterCommandType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2200
+weight: 2140
 url: /ar/aspose.cells/headerfootercommandtype/
 is_root: false
 ---
 ##  HeaderFooterCommandType التعداد
-يمثل نوع أمر الرأس والتذييل.
+يمثل نوع الأمر للرأس والتذييل.
 
 
 

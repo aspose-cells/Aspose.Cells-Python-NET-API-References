@@ -1,5 +1,5 @@
 ---
-title: offset_y الملكية
+title: offset_y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.drawing/tilepicoption/offset_y/
 is_root: false
 ---
-##  offset_y الملكية
+##  offset_y عقار
 
-الحصول على أو تحديد الإزاحة Y لصورة التجانب.
+يحصل على أو يعين إزاحة Y لتقسيم الصورة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def offset_y(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [TilePicOption](/cells/python-net/ar/aspose.cells.drawing/tilepicoption)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`TilePicOption`](/cells/python-net/ar/aspose.cells.drawing/tilepicoption)

@@ -1,13 +1,13 @@
 ---
 title: get_date_time_from_double方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 100
+weight: 110
 url: /zh/aspose.cells/cellshelper/get_date_time_from_double/
 is_root: false
 ---
-##  get_date_time_from_double(double_value, date1904) {#float-bool}
+##  get_date_time_from_double（，double_value，date1904）{#float-bool}
 将双精度值转换为日期时间值。
 
 
@@ -17,18 +17,20 @@ is_root: false
 
 
 ```python
-def get_date_time_from_double(self, double_value, date1904):
+
+@staticmethod
+def get_date_time_from_double(double_value, date1904):
     ...
 ```
 
 
 |范围|类型|描述|
 | :- | :- | :- |
-| double_value | float |双重价值。|
-| date1904 | bool |日期 1904 系统。|
+| double_value | float |双倍值。|
+| date1904 | bool |日期 1904 年系统。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CellsHelper](/cells/python-net/zh/aspose.cells/cellshelper)
+* 模块[`aspose.cells`](../../)
+* 类 [`CellsHelper`](/cells/python-net/zh/aspose.cells/cellshelper)

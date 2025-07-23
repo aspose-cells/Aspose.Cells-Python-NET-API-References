@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pattern عقار
 
-الحصول على أو تعيين نوع خلفية الخلية pattern.
+يحصل على أو يعين نوع الخلفية للخلية pattern.
 ###  تعريف:
 ```python
 @property

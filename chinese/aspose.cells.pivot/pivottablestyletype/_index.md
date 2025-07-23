@@ -3,19 +3,19 @@ title: PivotTableStyleType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 360
+weight: 470
 url: /zh/aspose.cells.pivot/pivottablestyletype/
 is_root: false
 ---
 ## PivotTableStyleType枚举
-代表数据透视表样式类型。
+表示数据透视表样式类型。
 
 
 
 PivotTableStyleType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | NONE |  |
 | PIVOT_TABLE_STYLE_LIGHT1 |  |

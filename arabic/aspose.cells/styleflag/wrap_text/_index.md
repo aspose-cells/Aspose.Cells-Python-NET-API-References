@@ -1,5 +1,5 @@
 ---
-title: wrap_text الملكية
+title: wrap_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 320
 url: /ar/aspose.cells/styleflag/wrap_text/
 is_root: false
 ---
-##  wrap_text الملكية
+##  wrap_text عقار
 
 سيتم تطبيق إعداد التفاف النص.
 ###  تعريف:
@@ -21,5 +21,5 @@ def wrap_text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

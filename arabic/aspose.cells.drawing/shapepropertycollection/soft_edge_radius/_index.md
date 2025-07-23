@@ -1,5 +1,5 @@
 ---
-title: soft_edge_radius الملكية
+title: soft_edge_radius عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 120
 url: /ar/aspose.cells.drawing/shapepropertycollection/soft_edge_radius/
 is_root: false
 ---
-##  soft_edge_radius الملكية
+##  soft_edge_radius عقار
 
-الحصول على نصف قطر التمويه وتعيينه لتطبيقه على الحواف ، في وحدة من النقاط.
+يحصل على نصف قطر التمويه الذي سيتم تطبيقه على الحواف، بوحدة النقاط، ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def soft_edge_radius(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapePropertyCollection](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapePropertyCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)

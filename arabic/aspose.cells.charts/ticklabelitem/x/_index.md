@@ -1,5 +1,5 @@
 ---
-title: x الملكية
+title: x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.charts/ticklabelitem/x/
 is_root: false
 ---
-##  x الملكية
+##  x عقار
 
-إحداثيات X لعنصر Ticklabel في نسبة عرض المخطط.
+إحداثيات X لعنصر Ticklabel بالنسبة إلى عرض الرسم البياني.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def x(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [TickLabelItem](/cells/python-net/ar/aspose.cells.charts/ticklabelitem)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`TickLabelItem`](/cells/python-net/ar/aspose.cells.charts/ticklabelitem)

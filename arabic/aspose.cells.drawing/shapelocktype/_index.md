@@ -1,31 +1,31 @@
 ---
-title: العد ShapeLockType
+title: ShapeLockType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1150
+weight: 1140
 url: /ar/aspose.cells.drawing/shapelocktype/
 is_root: false
 ---
-##  العد ShapeLockType
-يمثل نوع العقار المراد قفله.
+##  ShapeLockType التعداد
+يمثل نوع الخاصية التي سيتم قفلها.
 
 
 
-يكشف نوع ShapeLockType الأعضاء التالية:
+يكشف النوع ShapeLockType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | GROUP | مجموعة|
-| ADJUST_HANDLES | اضبط المقابض|
+| ADJUST_HANDLES | تعديل المقابض|
 | TEXT | نص|
 | POINTS | نقاط|
-| CROP |اقتصاص|
+| CROP | اقتصاص|
 | SELECTION | اختيار|
 | MOVE | يتحرك|
-| ASPECT_RATIO | ابعاد متزنة|
-| ROTATION | دوران|
+| ASPECT_RATIO | نسبة العرض إلى الارتفاع|
+| ROTATION | تناوب|
 | UNGROUP | فك التجميع|
 | RESIZE | تغيير الحجم|
 | SHAPE_TYPE | نوع الشكل|
@@ -34,4 +34,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

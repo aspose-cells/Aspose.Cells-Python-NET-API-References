@@ -3,12 +3,12 @@ title: PivotItemCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 190
 url: /ar/aspose.cells.pivot/pivotitemcollection/
 is_root: false
 ---
 ##  PivotItemCollection صف
-يمثل مجموعة من كافة كائنات PivotItem الموجودة في PivotField's
+يمثل جميع الكائنات [`PivotItem`](/cells/python-net/ar/aspose.cells.pivot/pivotitem) الموجودة في PivotField.
 
 
 
@@ -17,12 +17,12 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [count](/cells/python-net/ar/aspose.cells.pivot/pivotitemcollection/count) | الحصول على عدد العناصر المحورية.|
+| [count](/cells/python-net/ar/aspose.cells.pivot/pivotitemcollection/count) | يحصل على عدد العناصر المحورية.|
 
 
 
 يحصل على كائن PivotItem في الفهرس المحدد.
-###  مفهرس
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
 | [index] |  |
@@ -31,9 +31,12 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [changeitems_order](/cells/python-net/ar/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | يغير ترتيب العنصرين مباشرة.|
+| [`get(self, item_value)`](/cells/python-net/ar/aspose.cells.pivot/pivotitemcollection/get/#str) | يحصل على [`PivotItem`](/cells/python-net/ar/aspose.cells.pivot/pivotitem) بالاسم المحدد.|
+| [`changeitems_order(self, source_index, dest_index)`](/cells/python-net/ar/aspose.cells.pivot/pivotitemcollection/changeitems_order/#int-int) | تغيير ترتيب العنصرين بشكل مباشر.|
+| [`swap_item(self, index1, index2)`](/cells/python-net/ar/aspose.cells.pivot/pivotitemcollection/swap_item/#int-int) | تبديل عنصرين بشكل مباشر.|
 
 
 
 ###  أنظر أيضا
 * الوحدة [`aspose.cells.pivot`](..)
+* فئة [`PivotItem`](/cells/python-net/ar/aspose.cells.pivot/pivotitem)

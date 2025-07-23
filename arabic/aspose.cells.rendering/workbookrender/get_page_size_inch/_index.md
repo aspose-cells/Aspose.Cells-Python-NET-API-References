@@ -7,7 +7,7 @@ weight: 40
 url: /ar/aspose.cells.rendering/workbookrender/get_page_size_inch/
 is_root: false
 ---
-##  get_page_size_inch {#int}
+##  get_page_size_inch(self, page_index) {#int}
 احصل على حجم الصفحة بالبوصة من الصورة الناتجة.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_page_size_inch(self, page_index):
     ...
 ```
@@ -24,7 +25,7 @@ def get_page_size_inch(self, page_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| page_index | int |يعتمد فهرس الصفحة على الصفر.|
+| page_index | int | يعتمد فهرس الصفحة على الصفر.|
 
 
 

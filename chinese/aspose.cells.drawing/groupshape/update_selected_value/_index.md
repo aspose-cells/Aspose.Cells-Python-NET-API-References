@@ -3,16 +3,17 @@ title: update_selected_value方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 260
+weight: 270
 url: /zh/aspose.cells.drawing/groupshape/update_selected_value/
 is_root: false
 ---
-##  update_selected_value {#}
-用链接单元格的值更新所选值。
+##  update_selected_value(self) {#}
+通过链接单元格的值更新选定的值。
 
 
 
 ```python
+
 def update_selected_value(self):
     ...
 ```

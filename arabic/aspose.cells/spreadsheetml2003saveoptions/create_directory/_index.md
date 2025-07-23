@@ -1,19 +1,19 @@
 ---
-title: create_directory الملكية
+title: create_directory عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells/spreadsheetml2003saveoptions/create_directory/
 is_root: false
 ---
-##  create_directory الملكية
+##  create_directory عقار
 
-إذا كان صحيحًا وكان الدليل غير موجود ، فسيتم إنشاء الدليل تلقائيًا قبل حفظ الملف.
+إذا كانت القيمة صحيحة ولم يكن الدليل موجودًا، فسيتم إنشاء الدليل تلقائيًا قبل حفظ الملف.
 
 ###  ملاحظات
 
-القيمة الافتراضية هي كاذبة.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def create_directory(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [SpreadsheetML2003SaveOptions](/cells/python-net/ar/aspose.cells/spreadsheetml2003saveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`SpreadsheetML2003SaveOptions`](/cells/python-net/ar/aspose.cells/spreadsheetml2003saveoptions)

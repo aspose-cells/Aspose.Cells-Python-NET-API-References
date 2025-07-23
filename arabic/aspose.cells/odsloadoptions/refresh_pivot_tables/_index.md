@@ -3,13 +3,13 @@ title: refresh_pivot_tables عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 230
 url: /ar/aspose.cells/odsloadoptions/refresh_pivot_tables/
 is_root: false
 ---
 ##  refresh_pivot_tables عقار
 
-يشير إلى ما إذا كان سيتم تحديث الجداول المحورية عند تحميل الملف.
+يشير إلى ما إذا كان سيتم تحديث جداول المحور عند تحميل الملف.
 ###  تعريف:
 ```python
 @property

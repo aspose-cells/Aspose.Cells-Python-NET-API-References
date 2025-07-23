@@ -1,5 +1,5 @@
 ---
-title: العد SparklinePresetStyleType
+title: SparklinePresetStyleType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,12 @@ weight: 620
 url: /ar/aspose.cells.charts/sparklinepresetstyletype/
 is_root: false
 ---
-##  العد SparklinePresetStyleType
-يمثل أنواع الأنماط المحددة مسبقًا لخط المؤشر.
+##  SparklinePresetStyleType التعداد
+يمثل أنواع الأنماط المحددة مسبقًا للمخطط الشريطي.
 
 
 
-يكشف نوع SparklinePresetStyleType الأعضاء التالية:
+يكشف النوع SparklinePresetStyleType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -28,7 +28,7 @@ is_root: false
 | STYLE9 | النمط 9|
 | STYLE10 | النمط 10|
 | STYLE11 | النمط 11|
-| STYLE12 |النمط 12|
+| STYLE12 | النمط 12|
 | STYLE13 | النمط 13|
 | STYLE14 | النمط 14|
 | STYLE15 | النمط 15|
@@ -37,7 +37,7 @@ is_root: false
 | STYLE18 | النمط 18|
 | STYLE19 | النمط 19|
 | STYLE20 | النمط 20|
-| STYLE21 | نمط 21|
+| STYLE21 | النمط 21|
 | STYLE22 | النمط 22|
 | STYLE23 | النمط 23|
 | STYLE24 | النمط 24|
@@ -45,11 +45,11 @@ is_root: false
 | STYLE26 | النمط 26|
 | STYLE27 | النمط 27|
 | STYLE28 | النمط 28|
-| STYLE29 | أسلوب 29|
+| STYLE29 |النمط 29|
 | STYLE30 | النمط 30|
 | STYLE31 | النمط 31|
 | STYLE32 | النمط 32|
-| STYLE33 | أسلوب 33|
+| STYLE33 | النمط 33|
 | STYLE34 | النمط 34|
 | STYLE35 | النمط 35|
 | STYLE36 | النمط 36|
@@ -58,4 +58,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

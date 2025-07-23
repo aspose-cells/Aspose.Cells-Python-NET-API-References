@@ -1,5 +1,5 @@
 ---
-title: font الملكية
+title: font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 50
 url: /ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/font/
 is_root: false
 ---
-##  font الملكية
-
-يمثل font عنصر التحكم.
+##  font عقار
 ###  تعريف:
 ```python
 @property
@@ -18,6 +16,6 @@ def font(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
-* فئة [ScrollBarActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)
+* فئة [`ScrollBarActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

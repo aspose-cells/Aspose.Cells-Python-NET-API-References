@@ -9,7 +9,7 @@ is_root: false
 ---
 ## print_with_status_dialog属性
 
-如果 PrintWithStatusDialog = true ，将会出现一个对话框显示当前打印状态。
+如果 PrintWithStatusDialog = true ，将会有一个对话框显示当前打印状态。
 否则不会显示这样的对话框。
 ### 定义：
 ```python

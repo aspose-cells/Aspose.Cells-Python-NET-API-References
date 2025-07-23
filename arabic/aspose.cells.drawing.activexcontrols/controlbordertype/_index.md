@@ -1,26 +1,26 @@
 ---
-title: العد ControlBorderType
+title: ControlBorderType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 140
 url: /ar/aspose.cells.drawing.activexcontrols/controlbordertype/
 is_root: false
 ---
-##  العد ControlBorderType
-يمثل نوع حد عنصر تحكم ActiveX.
+##  ControlBorderType التعداد
+يمثل نوع الحدود لعنصر التحكم ActiveX.
 
 
 
-يكشف نوع ControlBorderType الأعضاء التالية:
+يكشف النوع ControlBorderType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | ليس لها حدود.|
-| SINGLE | الخط المفرد.|
+| NONE | لا حدود.|
+| SINGLE | الخط الواحد.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

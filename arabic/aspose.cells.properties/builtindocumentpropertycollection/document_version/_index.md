@@ -1,13 +1,13 @@
 ---
-title: document_version الملكية
+title: document_version عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/document_version/
 is_root: false
 ---
-##  document_version الملكية
+##  document_version عقار
 
 يمثل إصدار الملف.
 ###  تعريف:
@@ -21,5 +21,5 @@ def document_version(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

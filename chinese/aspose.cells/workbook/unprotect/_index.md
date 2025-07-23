@@ -1,18 +1,19 @@
 ---
 title: unprotect方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 390
+weight: 410
 url: /zh/aspose.cells/workbook/unprotect/
 is_root: false
 ---
-##  unprotect(password) {#str}
+##  unprotect(self, password) {#str}
 取消保护工作簿。
 
 
 
 ```python
+
 def unprotect(self, password):
     ...
 ```
@@ -25,5 +26,5 @@ def unprotect(self, password):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
+* 模块[`aspose.cells`](../../)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)

@@ -1,5 +1,5 @@
 ---
-title: print_errors الملكية
+title: print_errors عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 550
 url: /ar/aspose.cells/pagesetup/print_errors/
 is_root: false
 ---
-##  print_errors الملكية
+##  print_errors عقار
 
 يحدد نوع خطأ الطباعة المعروض.
 ###  تعريف:
@@ -21,6 +21,6 @@ def print_errors(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
-* فئة [PrintErrorsType](/cells/python-net/ar/aspose.cells/printerrorstype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)
+* فئة [`PrintErrorsType`](/cells/python-net/ar/aspose.cells/printerrorstype)

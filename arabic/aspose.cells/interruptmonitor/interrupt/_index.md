@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/interruptmonitor/interrupt/
 is_root: false
 ---
-##  interrupt() {#}
+##  interrupt(self) {#}
 مقاطعة المشغل الحالي.
 
 
 
 ```python
+
 def interrupt(self):
     ...
 ```
@@ -22,5 +23,5 @@ def interrupt(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [InterruptMonitor](/cells/python-net/ar/aspose.cells/interruptmonitor)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`InterruptMonitor`](/cells/python-net/ar/aspose.cells/interruptmonitor)

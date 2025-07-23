@@ -1,5 +1,5 @@
 ---
-title: icon_id الملكية
+title: icon_id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/iconfilter/icon_id/
 is_root: false
 ---
-##  icon_id الملكية
+##  icon_id عقار
 
-الحصول على الفهرس الصفري لأيقونة في مجموعة الرموز وتعيينه.
+يحصل على فهرس قائم على الصفر لأيقونة في مجموعة أيقونات ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def icon_id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [IconFilter](/cells/python-net/ar/aspose.cells/iconfilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`IconFilter`](/cells/python-net/ar/aspose.cells/iconfilter)

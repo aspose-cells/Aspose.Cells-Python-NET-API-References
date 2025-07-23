@@ -1,5 +1,5 @@
 ---
-title: spacing الملكية
+title: spacing عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 260
 url: /ar/aspose.cells.drawing.texts/textoptions/spacing/
 is_root: false
 ---
-##  spacing الملكية
+##  spacing عقار
 
-يحدد spacing بين الحروف في تشغيل النص.
+يحدد الرقم spacing بين الأحرف داخل تشغيل النص.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def spacing(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextOptions](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextOptions`](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)

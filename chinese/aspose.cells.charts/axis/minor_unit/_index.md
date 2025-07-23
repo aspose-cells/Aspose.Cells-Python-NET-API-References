@@ -3,7 +3,7 @@ title: minor_unit属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 360
+weight: 370
 url: /zh/aspose.cells.charts/axis/minor_unit/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 表示轴的小单位。
 
-### 评论
+### 注意事项
 
 小单位必须大于零。
 ### 定义：

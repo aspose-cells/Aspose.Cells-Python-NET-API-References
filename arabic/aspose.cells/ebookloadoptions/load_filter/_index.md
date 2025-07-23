@@ -3,13 +3,13 @@ title: load_filter عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 230
 url: /ar/aspose.cells/ebookloadoptions/load_filter/
 is_root: false
 ---
 ##  load_filter عقار
 
-عامل التصفية للإشارة إلى كيفية تحميل البيانات.
+الفلتر الذي يشير إلى كيفية تحميل البيانات.
 ###  تعريف:
 ```python
 @property

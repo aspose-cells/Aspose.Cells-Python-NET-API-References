@@ -1,13 +1,13 @@
 ---
-title: has_headers 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: has_headers属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 70
+weight: 80
 url: /zh/aspose.cells/datasorter/has_headers/
 is_root: false
 ---
-## has_headers 属性
+## has_headers属性
 
 表示范围是否有标题。
 ### 定义：
@@ -21,5 +21,5 @@ def has_headers(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DataSorter](/cells/python-net/zh/aspose.cells/datasorter)
+* 模块[`aspose.cells`](../../)
+* 类 [`DataSorter`](/cells/python-net/zh/aspose.cells/datasorter)

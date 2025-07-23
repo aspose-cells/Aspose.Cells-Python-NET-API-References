@@ -3,13 +3,13 @@ title: export_hidden_worksheet عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 350
 url: /ar/aspose.cells/htmlsaveoptions/export_hidden_worksheet/
 is_root: false
 ---
 ##  export_hidden_worksheet عقار
 
-الإشارة إلى ما إذا كان سيتم تصدير محتوى ورقة العمل المخفية. القيمة الافتراضية صحيحة.
+يشير إلى ما إذا كان سيتم تصدير محتوى ورقة العمل المخفية. القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property

@@ -8,7 +8,7 @@ url: /ar/aspose.cells.charts/chartcalculateoptions/
 is_root: false
 ---
 ##  ChartCalculateOptions صف
-يمثل الخيارات لحساب الرسم البياني.
+يمثل خيارات حساب الرسم البياني.
 
 
 
@@ -17,13 +17,13 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells.charts/chartcalculateoptions/__init__/#) | إنشاء الخيارات لحساب الرسم البياني.|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.charts/chartcalculateoptions/__init__/#) | إنشاء خيارات لحساب الرسم البياني.|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [update_all_points](/cells/python-net/ar/aspose.cells.charts/chartcalculateoptions/update_all_points) | ما إذا كان سيتم تحديث جميع نقاط البيانات عند إجراء حساب المخطط. الافتراضي: خطأ.<br/>عندما تريد الحصول على قيمة كل نقطة بيانات في المخطط على وجه التحديد، قم بتعيينها على "صحيح".<br/> إذا تم تعيين هذه المعلمة على True، فقد يتم إنشاء نقاط البيانات الجديدة عند حساب المخطط. قد يؤدي هذا إلى جعل ملف Excel أكبر.|
+| [update_all_points](/cells/python-net/ar/aspose.cells.charts/chartcalculateoptions/update_all_points) |هل سيتم تحديث جميع نقاط البيانات عند إجراء حساب الرسم البياني؟ الافتراضي: خطأ.<br/>عندما تريد الحصول على قيمة لكل نقطة بيانات في الرسم البياني على وجه التحديد، قم بتعيينها على true.<br/> إذا تم ضبط هذه المعلمة على "صحيح"، فقد يتم إنشاء نقاط بيانات جديدة عند حساب الرسم البياني. قد يؤدي هذا إلى تكبير حجم ملف Excel.|
 
 
 

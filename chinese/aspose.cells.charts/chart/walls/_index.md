@@ -9,11 +9,11 @@ is_root: false
 ---
 ## walls属性
 
-返回表示 3D 图表的 walls 的 [`Chart.walls`](/cells/python-net/zh/aspose.cells.charts/chart#walls) 对象。
+返回一个 [`Chart.walls`](/cells/python-net/zh/aspose.cells.charts/chart#walls) 对象，该对象表示三维图表的 walls。
 
-### 评论
+### 注意事项
 
-此属性不适用于 3D 饼图。
+此属性不适用于三维饼图。
 ### 定义：
 ```python
 @property

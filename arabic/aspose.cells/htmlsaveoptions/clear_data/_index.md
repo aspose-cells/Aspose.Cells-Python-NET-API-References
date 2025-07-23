@@ -3,7 +3,7 @@ title: clear_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 120
 url: /ar/aspose.cells/htmlsaveoptions/clear_data/
 is_root: false
 ---

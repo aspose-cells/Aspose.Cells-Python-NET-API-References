@@ -3,19 +3,19 @@ title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 470
 url: /ar/aspose.cells/range/name/
 is_root: false
 ---
 ##  name عقار
 
-الحصول على أو تعيين name للنطاق.
+يحصل على أو يعين name من النطاق.
 
 ###  ملاحظات
 
-النطاق المسمى مدعوم. على سبيل المثال،
+النطاق المُسمّى مدعوم. على سبيل المثال،
 
-range.Name = "Sheet1!MyRange";
+النطاق.الاسم = "Sheet1!MyRange";
 ###  تعريف:
 ```python
 @property

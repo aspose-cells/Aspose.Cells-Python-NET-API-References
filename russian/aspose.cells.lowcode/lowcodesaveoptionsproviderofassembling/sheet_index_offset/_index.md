@@ -1,0 +1,30 @@
+---
+title: sheet_index_offset недвижимость
+second_title: Aspose.Cells for Python via .NET API Ссылки
+description:
+type: docs
+weight: 100
+url: /ru/aspose.cells.lowcode/lowcodesaveoptionsproviderofassembling/sheet_index_offset/
+is_root: false
+---
+##  sheet_index_offset недвижимость
+
+Смещение индекса листа между тем, что используется в пути к файлу
+и его фактическое значение ([`SplitPartInfo.sheet_index`](/cells/python-net/ru/aspose.cells.lowcode/splitpartinfo#sheet_index)).
+
+###  Примечания
+
+Вступает в силу только в том случае, если [`LowCodeSaveOptionsProviderOfAssembling.use_sheet_name`](/cells/python-net/ru/aspose.cells.lowcode/lowcodesaveoptionsproviderofassembling#use_sheet_name) имеет значение false.
+###  Определение:
+```python
+@property
+def sheet_index_offset(self):
+    ...
+@sheet_index_offset.setter
+def sheet_index_offset(self, value):
+    ...
+```
+
+###  Смотрите также
+* модуль [`aspose.cells.lowcode`](../../)
+* класс [`LowCodeSaveOptionsProviderOfAssembling`](/cells/python-net/ru/aspose.cells.lowcode/lowcodesaveoptionsproviderofassembling)

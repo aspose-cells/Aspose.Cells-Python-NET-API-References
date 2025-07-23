@@ -3,13 +3,13 @@ title: absolute_path عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 460
 url: /ar/aspose.cells/workbook/absolute_path/
 is_root: false
 ---
 ##  absolute_path عقار
 
-يحصل ويحدد المسار المطلق للملف.
+يحصل على المسار المطلق للملف ويحدده.
 
 ###  ملاحظات
 

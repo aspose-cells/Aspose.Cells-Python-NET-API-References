@@ -1,5 +1,5 @@
 ---
-title: AutomaticFill الدرجة
+title: AutomaticFill صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,20 +7,18 @@ weight: 30
 url: /ar/aspose.cells.drawing/automaticfill/
 is_root: false
 ---
-##  AutomaticFill الدرجة
+##  AutomaticFill صف
 يمثل التعبئة التلقائية.
 
 
 
-**ميراث:** [AutomaticFill](/cells/python-net/aspose.cells.drawing/automaticfill) → 
-[Fill](/cells/python-net/ar/aspose.cells.drawing/fill)
+**الميراث:** [`AutomaticFill`](/cells/python-net/ar/aspose.cells.drawing/automaticfill)
 
 
 
-يكشف نوع AutomaticFill الأعضاء التالية:
+يكشف النوع AutomaticFill عن الأعضاء التاليين:
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
-* فئة [AutomaticFill](/cells/python-net/ar/aspose.cells.drawing/automaticfill)
-* فئة [Fill](/cells/python-net/ar/aspose.cells.drawing/fill)
+* الوحدة [`aspose.cells.drawing`](..)
+* فئة [`AutomaticFill`](/cells/python-net/ar/aspose.cells.drawing/automaticfill)

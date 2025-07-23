@@ -1,17 +1,17 @@
 ---
-title: sort_left_to_right الملكية
+title: sort_left_to_right عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ar/aspose.cells/datasorter/sort_left_to_right/
 is_root: false
 ---
-##  sort_left_to_right الملكية
+##  sort_left_to_right عقار
 
-صحيح يعني أن اتجاه الفرز يكون من اليسار إلى اليمين.
-خطأ يعني أن اتجاه الفرز من أعلى إلى أسفل.
-القيمة الافتراضية هي كاذبة.
+صحيح يعني أن اتجاه الفرز من اليسار إلى اليمين.
+خطأ يعني أن اتجاه الفرز من الأعلى إلى الأسفل.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property
@@ -23,5 +23,5 @@ def sort_left_to_right(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataSorter](/cells/python-net/ar/aspose.cells/datasorter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataSorter`](/cells/python-net/ar/aspose.cells/datasorter)

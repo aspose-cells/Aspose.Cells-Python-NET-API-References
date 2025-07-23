@@ -1,9 +1,9 @@
 ---
 title: MsoArrowheadLength枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 970
+weight: 960
 url: /zh/aspose.cells.drawing/msoarrowheadlength/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-MsoArrowheadLength 类型公开了以下成员：
+MsoArrowheadLength 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| SHORT |短线末端长度|
+| SHORT |短线端长度|
 | MEDIUM |中等线端长度|
-| LONG |长线端长度|
+| LONG |长线末端长度|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

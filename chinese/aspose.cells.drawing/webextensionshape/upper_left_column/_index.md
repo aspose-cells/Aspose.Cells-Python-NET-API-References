@@ -3,7 +3,7 @@ title: upper_left_column属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /zh/aspose.cells.drawing/webextensionshape/upper_left_column/
 is_root: false
 ---

@@ -3,13 +3,13 @@ title: checked_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 340
 url: /ar/aspose.cells.drawing/checkbox/checked_value/
 is_root: false
 ---
 ##  checked_value عقار
 
-الحصول على قيمة خانة الاختيار أو تعيينها.
+يحصل على قيمة مربع الاختيار أو يعينها.
 ###  تعريف:
 ```python
 @property

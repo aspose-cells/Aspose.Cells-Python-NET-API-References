@@ -1,29 +1,29 @@
 ---
-title: العد MsoLineStyle
+title: MsoLineStyle التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1020
+weight: 1010
 url: /ar/aspose.cells.drawing/msolinestyle/
 is_root: false
 ---
-##  العد MsoLineStyle
+##  MsoLineStyle التعداد
 يمثل أسلوب رسم الخطوط.
 
 
 
-يكشف نوع MsoLineStyle الأعضاء التالية:
+يكشف النوع MsoLineStyle عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| SINGLE | خط واحد (لخط العرض والعرض)|
-| THICK_BETWEEN_THIN | ثلاثة خطوط ، رفيعة ، سميكة ، رفيعة|
-| THIN_THICK |خطوط مزدوجة ، واحدة رفيعة ، واحدة سميكة|
-| THICK_THIN | خطوط مزدوجة ، واحدة سميكة ، واحدة رفيعة|
+| SINGLE | خط واحد (عرض lineWidth)|
+| THICK_BETWEEN_THIN | ثلاثة خطوط، رفيع، سميك، رفيع|
+| THIN_THICK | خطوط مزدوجة، واحدة رفيعة، وأخرى سميكة|
+| THICK_THIN | خطوط مزدوجة، واحدة سميكة والأخرى رفيعة|
 | THIN_THIN | خطوط مزدوجة متساوية العرض|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_with_status_dialog عقار
 
-إذا كانت PrintWithStatusDialog = true، فسيكون هناك مربع حوار يوضح حالة الطباعة الحالية.
+إذا كان PrintWithStatusDialog = true، فسيكون هناك مربع حوار يعرض حالة الطباعة الحالية.
 وإلا فلن يظهر مثل هذا الحوار.
 ###  تعريف:
 ```python

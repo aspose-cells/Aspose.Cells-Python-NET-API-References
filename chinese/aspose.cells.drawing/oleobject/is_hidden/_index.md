@@ -3,7 +3,7 @@ title: is_hidden属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 700
+weight: 710
 url: /zh/aspose.cells.drawing/oleobject/is_hidden/
 is_root: false
 ---

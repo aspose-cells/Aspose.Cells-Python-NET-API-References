@@ -3,13 +3,13 @@ title: upper_left_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /ar/aspose.cells.drawing/radiobutton/upper_left_row/
 is_root: false
 ---
 ##  upper_left_row عقار
 
-يمثل فهرس صف الزاوية اليسرى العليا.
+يمثل مؤشر الصف العلوي.
 
 ###  ملاحظات
 

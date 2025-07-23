@@ -3,13 +3,13 @@ title: item_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 460
+weight: 550
 url: /ar/aspose.cells.pivot/pivotfield/item_count/
 is_root: false
 ---
 ##  item_count عقار
 
-الحصول على عدد العناصر الأساسية لهذا الحقل المحوري.
+يحصل على عدد العناصر الأساسية في حقل المحور هذا.
 ###  تعريف:
 ```python
 @property

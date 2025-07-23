@@ -1,5 +1,5 @@
 ---
-title: SmartTagSetting الدرجة
+title: SmartTagSetting صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,23 @@ weight: 80
 url: /ar/aspose.cells.markup/smarttagsetting/
 is_root: false
 ---
-##  SmartTagSetting الدرجة
-يمثل كل كائن [SmartTagCollection](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) في ورقة العمل.
+##  SmartTagSetting صف
+يمثل جميع الكائنات [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) في ورقة العمل.
 
 
 
-يكشف نوع SmartTagSetting الأعضاء التالية:
+يكشف النوع SmartTagSetting عن الأعضاء التاليين:
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add(row, column)](/cells/python-net/ar/aspose.cells.markup/smarttagsetting/add/#int-int) | اضافة عنصر [SmartTagCollection](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) الى خلية.|
-| [add(cell_name)](/cells/python-net/ar/aspose.cells.markup/smarttagsetting/add/#str) | إضافة خلية العلامات الذكية.|
+| [`add(self, row, column)`](/cells/python-net/ar/aspose.cells.markup/smarttagsetting/add/#int-int) | يضيف الكائن [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) إلى خلية.|
+| [`add(self, cell_name)`](/cells/python-net/ar/aspose.cells.markup/smarttagsetting/add/#str) | أضف علامات خلية ذكية.|
+| [`get(self, row, column)`](/cells/python-net/ar/aspose.cells.markup/smarttagsetting/get/#int-int) | أضف API for Python عبر .Net. نظرًا لأن هذا [int، int] غير مدعوم|
+| [`get(self, cell_name)`](/cells/python-net/ar/aspose.cells.markup/smarttagsetting/get/#str) | يحصل على كائن [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) للخلية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](..)
-* فئة [SmartTagCollection](/cells/python-net/ar/aspose.cells.markup/smarttagcollection)
+* الوحدة [`aspose.cells.markup`](..)
+* فئة [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection)

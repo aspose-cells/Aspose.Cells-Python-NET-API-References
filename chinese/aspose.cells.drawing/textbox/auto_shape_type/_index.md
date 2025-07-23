@@ -3,13 +3,13 @@ title: auto_shape_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 310
+weight: 320
 url: /zh/aspose.cells.drawing/textbox/auto_shape_type/
 is_root: false
 ---
 ## auto_shape_type属性
 
-获取和设置自动形状类型。
+获取并设置自动形状类型。
 
 ### 例子
 

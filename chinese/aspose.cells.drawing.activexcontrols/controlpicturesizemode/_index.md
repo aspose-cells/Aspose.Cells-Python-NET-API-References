@@ -1,9 +1,9 @@
 ---
 title: ControlPictureSizeMode枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 210
 url: /zh/aspose.cells.drawing.activexcontrols/controlpicturesizemode/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-ControlPictureSizeMode 类型公开了以下成员：
+ControlPictureSizeMode 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| CLIP |裁剪图片中大于控件边界的任何部分。|
-| STRETCH |拉伸图片以填充控件的区域。<br/>此设置会在水平或垂直方向上扭曲图片。|
+| CLIP |裁剪大于控件边界的图片的任何部分。|
+| STRETCH |拉伸图片以填充控件的区域。<br/>此设置会使图像在水平或垂直方向上变形。|
 | ZOOM |放大图片，但不会在水平或垂直方向上扭曲图片。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](..)
+* 模块[`aspose.cells.drawing.activexcontrols`](..)

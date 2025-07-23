@@ -1,26 +1,26 @@
 ---
 title: TilePicOption类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 730
+weight: 710
 url: /zh/aspose.cells.drawing/tilepicoption/
 is_root: false
 ---
 ## TilePicOption类
-将平铺图片表示为纹理。
+将瓦片图片表示为纹理。
 
 
 
-TilePicOption 类型公开了以下成员：
+TilePicOption 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [TilePicOption()](/cells/python-net/zh/aspose.cells.drawing/tilepicoption/__init__/#) |构造一个新的 TilePicOption 实例|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells.drawing/tilepicoption/__init__/#) |构造一个新的 TilePicOption 实例|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [offset_x](/cells/python-net/zh/aspose.cells.drawing/tilepicoption/offset_x) |获取或设置平铺图片的 X 偏移量。|
@@ -33,4 +33,4 @@ TilePicOption 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

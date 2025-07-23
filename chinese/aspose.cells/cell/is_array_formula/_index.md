@@ -3,7 +3,7 @@ title: is_array_formula属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 540
+weight: 560
 url: /zh/aspose.cells/cell/is_array_formula/
 is_root: false
 ---

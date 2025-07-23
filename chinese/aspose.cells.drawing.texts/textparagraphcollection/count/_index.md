@@ -1,13 +1,13 @@
 ---
-title: count 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: count属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 40
+weight: 30
 url: /zh/aspose.cells.drawing.texts/textparagraphcollection/count/
 is_root: false
 ---
-## count 属性
+## count属性
 
 获取文本段落的 count。
 ### 定义：
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](../../)
-* 类 [TextParagraphCollection](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraphcollection)
+* 模块[`aspose.cells.drawing.texts`](../../)
+* 类 [`TextParagraphCollection`](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraphcollection)

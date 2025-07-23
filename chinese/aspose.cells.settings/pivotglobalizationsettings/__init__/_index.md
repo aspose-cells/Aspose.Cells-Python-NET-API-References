@@ -1,18 +1,19 @@
 ---
-title: PivotGlobalizationSettings 构造函数
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: PivotGlobalizationSettings 施工人员
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
 url: /zh/aspose.cells.settings/pivotglobalizationsettings/__init__/
 is_root: false
 ---
-##  PivotGlobalizationSettings() {#}
-构造 PivotGlobalizationSettings 的新实例
+##  \_\_init\_\_（自身）{#}
+构造PivotGlobalizationSettings的新实例
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.settings](../../)
-* 类 [PivotGlobalizationSettings](/cells/python-net/zh/aspose.cells.settings/pivotglobalizationsettings)
+* 模块[`aspose.cells.settings`](../../)
+* 类 [`PivotGlobalizationSettings`](/cells/python-net/zh/aspose.cells.settings/pivotglobalizationsettings)

@@ -3,14 +3,14 @@ title: width_scale عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /ar/aspose.cells.drawing/groupshape/width_scale/
 is_root: false
 ---
 ##  width_scale عقار
 
-الحصول على مقياس العرض وتعيينه بوحدة النسبة المئوية لعرض الصورة الأصلي.
-إذا لم يكن الشكل صورة، فإن خاصية WidthScale ترجع 100 فقط؛
+يحصل على مقياس العرض ويضبطه، بوحدة النسبة المئوية لعرض الصورة الأصلية.
+إذا لم يكن الشكل صورة، فإن خاصية WidthScale تعيد 100 فقط؛
 
 ###  مثال
 

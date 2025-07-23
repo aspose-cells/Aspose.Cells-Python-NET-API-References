@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/querytable/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-الحصول على name لجدول الاستعلام.
+يحصل على name من querytable.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [QueryTable](/cells/python-net/ar/aspose.cells/querytable)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`QueryTable`](/cells/python-net/ar/aspose.cells/querytable)

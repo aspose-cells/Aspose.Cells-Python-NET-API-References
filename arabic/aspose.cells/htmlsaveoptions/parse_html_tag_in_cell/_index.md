@@ -3,14 +3,14 @@ title: parse_html_tag_in_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 680
 url: /ar/aspose.cells/htmlsaveoptions/parse_html_tag_in_cell/
 is_root: false
 ---
 ##  parse_html_tag_in_cell عقار
 
-يشير إلى ما إذا كان يجب تحليل علامة html (مثل `<div></div>`) في الخلية كقيمة خلية أو الاحتفاظ بها كما هي.
-القيمة الافتراضية هي الحقيقية.
+يشير إلى ما إذا كان يجب تحليل علامة html (مثل `<div></div>`) في الخلية كقيمة خلية أو الحفاظ عليها كما هي.
+القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: FormatConditionCollection 索引器
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
@@ -22,5 +22,5 @@ is_root: false
 格式化条件
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FormatConditionCollection](/cells/python-net/zh/aspose.cells/formatconditioncollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`FormatConditionCollection`](/cells/python-net/zh/aspose.cells/formatconditioncollection)

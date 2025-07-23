@@ -1,5 +1,5 @@
 ---
-title: total_rows الملكية
+title: total_rows عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 170
 url: /ar/aspose.cells/importtableoptions/total_rows/
 is_root: false
 ---
-##  total_rows الملكية
+##  total_rows عقار
 
-الحصول على أو تعيين إجمالي عدد الصفوف للاستيراد من مصدر البيانات. -1 تعني جميع صفوف مصدر البيانات المحدد.
+يحصل على إجمالي عدد الصفوف المراد استيرادها من مصدر البيانات أو يعينه. -1 يعني جميع الصفوف الخاصة بمصدر البيانات المحدد.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def total_rows(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ImportTableOptions](/cells/python-net/ar/aspose.cells/importtableoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ImportTableOptions`](/cells/python-net/ar/aspose.cells/importtableoptions)

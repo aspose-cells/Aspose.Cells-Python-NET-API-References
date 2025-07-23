@@ -3,20 +3,21 @@ title: طريقة is_hidden_item
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 190
 url: /ar/aspose.cells.pivot/pivotfield/is_hidden_item/
 is_root: false
 ---
-##  is_hidden_item {#int}
-الإشارة إلى ما إذا كان عنصر PivotItem المحدد مخفيًا.
+##  is_hidden_item(self, index) {#int}
+يحصل على ما إذا كان PivotItem المحدد مخفيًا.
 
 
 ###  عائدات
 
-ما إذا كان عنصر PivotItem المحدد مخفيًا
+ما إذا كان العنصر المحوري المحدد مخفيًا
 
 
 ```python
+
 def is_hidden_item(self, index):
     ...
 ```
@@ -24,7 +25,7 @@ def is_hidden_item(self, index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| index | int | فهرس PivotItem في PivotField.|
+| index | int | مؤشر pivotItem في pivotField.|
 
 
 

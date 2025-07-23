@@ -1,15 +1,15 @@
 ---
-title: show_empty_row الملكية
+title: show_empty_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 910
+weight: 1040
 url: /ar/aspose.cells.pivot/pivottable/show_empty_row/
 is_root: false
 ---
-##  show_empty_row الملكية
+##  show_empty_row عقار
 
-تحدد قيمة منطقية تشير إلى ما إذا كان سيتم تضمين صفوف فارغة في الجدول أم لا.
+يشير إلى ما إذا كان سيتم تضمين الصفوف الفارغة في الجدول.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_empty_row(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

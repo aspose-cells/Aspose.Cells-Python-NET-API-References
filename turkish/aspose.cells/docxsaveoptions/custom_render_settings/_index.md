@@ -1,0 +1,24 @@
+---
+title: custom_render_settings mülk
+second_title: Aspose.Cells for Python via .NET API Referanslar
+description:
+type: docs
+weight: 110
+url: /tr/aspose.cells/docxsaveoptions/custom_render_settings/
+is_root: false
+---
+##  custom_render_settings mülk
+###  Tanım:
+```python
+@property
+def custom_render_settings(self):
+    ...
+@custom_render_settings.setter
+def custom_render_settings(self, value):
+    ...
+```
+
+###  Ayrıca bakınız
+* modül [`aspose.cells`](../../)
+* sınıf [`CustomRenderSettings`](/cells/python-net/tr/aspose.cells.rendering/customrendersettings)
+* sınıf [`DocxSaveOptions`](/cells/python-net/tr/aspose.cells/docxsaveoptions)

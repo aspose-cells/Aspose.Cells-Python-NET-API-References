@@ -1,15 +1,13 @@
 ---
-title: width 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: width属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 220
 url: /zh/aspose.cells.drawing.activexcontrols/unknowncontrol/width/
 is_root: false
 ---
-## width 属性
-
-以点为单位获取和设置控件的 width。
+## width属性
 ### 定义：
 ```python
 @property
@@ -21,5 +19,5 @@ def width(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [UnknownControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`UnknownControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/unknowncontrol)

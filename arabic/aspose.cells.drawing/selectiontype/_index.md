@@ -1,27 +1,27 @@
 ---
-title: العد SelectionType
+title: SelectionType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1130
+weight: 1120
 url: /ar/aspose.cells.drawing/selectiontype/
 is_root: false
 ---
-##  العد SelectionType
-نوع التحديد لمربع القائمة.
+##  SelectionType التعداد
+نوع اختيار مربع القائمة.
 
 
 
-يكشف نوع SelectionType الأعضاء التالية:
+يكشف النوع SelectionType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| SINGLE | نوع الاختيار Sigle.|
-| MULTI |نوع الاختيار المتعدد.|
-| EXTEND | توسيع نوع التحديد.|
+| SINGLE | نوع اختيار السيجل.|
+| MULTI | نوع الاختيار المتعدد.|
+| EXTEND | توسيع نوع الاختيار.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

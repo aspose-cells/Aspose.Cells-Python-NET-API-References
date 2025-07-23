@@ -7,12 +7,13 @@ weight: 70
 url: /ar/aspose.cells.ods/odscellfieldcollection/update_fields_value/
 is_root: false
 ---
-##  update_fields_value() {#}
-تحديث قيمة الحقول إلى الخلايا.
+##  update_fields_value(self) {#}
+تحديث قيمة الحقول للخلايا.
 
 
 
 ```python
+
 def update_fields_value(self):
     ...
 ```
@@ -22,5 +23,5 @@ def update_fields_value(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.ods](../../)
-* فئة [OdsCellFieldCollection](/cells/python-net/ar/aspose.cells.ods/odscellfieldcollection)
+* الوحدة [`aspose.cells.ods`](../../)
+* فئة [`OdsCellFieldCollection`](/cells/python-net/ar/aspose.cells.ods/odscellfieldcollection)

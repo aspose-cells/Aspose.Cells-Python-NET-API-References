@@ -1,13 +1,13 @@
 ---
-title: author 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: author属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 70
+weight: 80
 url: /zh/aspose.cells.properties/builtindocumentpropertycollection/author/
 is_root: false
 ---
-## author 属性
+## author属性
 
 获取或设置文档的名称 author。
 ### 定义：
@@ -21,5 +21,5 @@ def author(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.properties](../../)
-* 类 [BuiltInDocumentPropertyCollection](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)
+* 模块[`aspose.cells.properties`](../../)
+* 类 [`BuiltInDocumentPropertyCollection`](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)

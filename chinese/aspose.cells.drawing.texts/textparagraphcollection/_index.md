@@ -1,6 +1,6 @@
 ---
 title: TextParagraphCollection类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 110
@@ -12,29 +12,23 @@ is_root: false
 
 
 
-TextParagraphCollection 类型公开了以下成员：
+TextParagraphCollection 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [count](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraphcollection/count) |获取文本段落数。|
+| [count](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraphcollection/count) |获取文本段落的数量。|
 
 
 
-获取特定索引处的 [TextParagraph](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraph) 对象。
+获取特定索引处的 [`TextParagraph`](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraph) 对象。
 ### 索引器
 |名称|描述|
 | :- | :- |
 | [index] |索引。|
 
 
-### 方法
-|方法|描述|
-| :- | :- |
-| [get_enumerator()](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraphcollection/get_enumerator/#) |获取段落的枚举器。|
-
-
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](..)
-* 类 [TextParagraph](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraph)
+* 模块[`aspose.cells.drawing.texts`](..)
+* 类 [`TextParagraph`](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraph)

@@ -1,15 +1,15 @@
 ---
-title: group_by 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: group_by属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells/subtotalsetting/group_by/
 is_root: false
 ---
-## group_by 属性
+## group_by属性
 
-分组依据的字段，作为从零开始的整数偏移量
+分组字段，以零为基础的整数偏移量
 ### 定义：
 ```python
 @property
@@ -18,5 +18,5 @@ def group_by(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [SubtotalSetting](/cells/python-net/zh/aspose.cells/subtotalsetting)
+* 模块[`aspose.cells`](../../)
+* 类 [`SubtotalSetting`](/cells/python-net/zh/aspose.cells/subtotalsetting)

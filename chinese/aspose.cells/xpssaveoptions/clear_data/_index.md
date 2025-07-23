@@ -1,15 +1,13 @@
 ---
-title: clear_data 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: clear_data属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 70
+weight: 80
 url: /zh/aspose.cells/xpssaveoptions/clear_data/
 is_root: false
 ---
-## clear_data 属性
-
-保存文件后将工作簿清空。
+## clear_data属性
 ### 定义：
 ```python
 @property
@@ -21,5 +19,5 @@ def clear_data(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [XpsSaveOptions](/cells/python-net/zh/aspose.cells/xpssaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`XpsSaveOptions`](/cells/python-net/zh/aspose.cells/xpssaveoptions)

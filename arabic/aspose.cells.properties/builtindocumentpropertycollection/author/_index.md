@@ -1,15 +1,15 @@
 ---
-title: author الملكية
+title: author عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/author/
 is_root: false
 ---
-##  author الملكية
+##  author عقار
 
-الحصول على أو تحديد اسم الوثيقة author.
+يحصل على اسم المستند author أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def author(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

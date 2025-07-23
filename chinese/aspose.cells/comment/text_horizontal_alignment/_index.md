@@ -9,7 +9,7 @@ is_root: false
 ---
 ## text_horizontal_alignment属性
 
-获取和设置注释的文本水平对齐类型。
+获取和设置注意事项的文本水平对齐类型。
 
 ### 例子
 

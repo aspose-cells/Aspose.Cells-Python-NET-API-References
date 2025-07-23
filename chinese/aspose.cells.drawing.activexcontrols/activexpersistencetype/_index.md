@@ -1,9 +1,9 @@
 ---
 title: ActiveXPersistenceType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 150
+weight: 130
 url: /zh/aspose.cells.drawing.activexcontrols/activexpersistencetype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-ActiveXPersistenceType 类型公开了以下成员：
+ActiveXPersistenceType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| PROPERTY_BAG |数据存储为 xml 数据。|
-| STORAGE |数据存储为存储二进制数据。|
-| STREAM |数据存储为流二进制数据。|
-| STREAM_INIT |数据存储为 streaminit 二进制数据。|
+| PROPERTY_BAG |数据以 xml 数据形式存储。|
+| STORAGE |数据以存储二进制数据的形式存储。|
+| STREAM |数据以流二进制数据的形式存储。|
+| STREAM_INIT |数据以 streaminit 二进制数据形式存储。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](..)
+* 模块[`aspose.cells.drawing.activexcontrols`](..)

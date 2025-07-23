@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.markup/smarttagcollection/add/
 is_root: false
 ---
-##  add(uri, name) {#str-str}
-يضيف علامة ذكية.
+##  add(self, uri, name) {#str-str}
+إضافة علامة ذكية.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, uri, name):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, uri, name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| uri | str | يحدد مساحة الاسم URI للعلامة الذكية|
-| name | str | تحدد اسم العلامة الذكية.|
+| uri | str | يحدد اسم URI للمساحة الخاصة بالعلامة الذكية|
+| name | str | يحدد اسم العلامة الذكية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](../../)
-* فئة [SmartTagCollection](/cells/python-net/ar/aspose.cells.markup/smarttagcollection)
+* الوحدة [`aspose.cells.markup`](../../)
+* فئة [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection)

@@ -3,7 +3,7 @@ title: ViewType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2740
+weight: 2710
 url: /zh/aspose.cells/viewtype/
 is_root: false
 ---
@@ -14,8 +14,8 @@ is_root: false
 
 ViewType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | NORMAL_VIEW |  |
 | PAGE_BREAK_PREVIEW |  |

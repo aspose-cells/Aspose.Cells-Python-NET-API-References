@@ -1,20 +1,20 @@
 ---
-title: keep_unparsed_data الملكية
+title: keep_unparsed_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 210
 url: /ar/aspose.cells/htmlloadoptions/keep_unparsed_data/
 is_root: false
 ---
-##  keep_unparsed_data الملكية
+##  keep_unparsed_data عقار
 
-ما إذا كان سيتم الاحتفاظ بالبيانات التي لم يتم تحليلها في الذاكرة للمصنف عند تحميله من ملف القالب أم لا. الافتراضي هو الصحيح.
+هل سيتم الاحتفاظ بالبيانات غير المُحلَّلة في ذاكرة المصنف عند تحميلها من ملف القالب؟ الإعداد الافتراضي هو "صحيح".
 
 ###  ملاحظات
 
-بالنسبة للسيناريوهات التي يحتاجها المستخدم فقط لقراءة بعض المحتويات من ملف القالب ولا يحتاج إلى حفظ المصنف مرة أخرى ،
-قد يؤدي تعيين هذه الخاصية على أنها خطأ إلى تحسين الأداء ، خاصة عند استخدامها مع نوع من LoadFilter ،
+بالنسبة للسيناريوهات التي يحتاج فيها المستخدم فقط إلى قراءة بعض المحتويات من ملف القالب ولا يحتاج إلى حفظ المصنف مرة أخرى،
+قد يؤدي تعيين هذه الخاصية على false إلى تحسين الأداء، وخاصةً عند استخدامها مع نوع ما من LoadFilter،
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def keep_unparsed_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlLoadOptions](/cells/python-net/ar/aspose.cells/htmlloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlLoadOptions`](/cells/python-net/ar/aspose.cells/htmlloadoptions)

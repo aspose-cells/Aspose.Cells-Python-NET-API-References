@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.charts/plotarea/set_position_auto/
 is_root: false
 ---
-##  set_position_auto() {#}
-اضبط موضع منطقة الرسم على الوضع التلقائي
+##  set_position_auto(self) {#}
+تعيين موضع منطقة الرسم البياني إلى تلقائي
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```
@@ -22,5 +23,5 @@ def set_position_auto(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [PlotArea](/cells/python-net/ar/aspose.cells.charts/plotarea)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`PlotArea`](/cells/python-net/ar/aspose.cells.charts/plotarea)

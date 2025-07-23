@@ -3,13 +3,13 @@ title: view_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 910
+weight: 930
 url: /ar/aspose.cells/worksheet/view_type/
 is_root: false
 ---
 ##  view_type عقار
 
-الحصول على نوع العرض وتعيينه.
+يحصل على نوع العرض ويحدده.
 ###  تعريف:
 ```python
 @property

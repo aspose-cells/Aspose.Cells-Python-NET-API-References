@@ -1,13 +1,13 @@
 ---
-title: clear_data الملكية
+title: clear_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells/spreadsheetml2003saveoptions/clear_data/
 is_root: false
 ---
-##  clear_data الملكية
+##  clear_data عقار
 
 اجعل المصنف فارغًا بعد حفظ الملف.
 ###  تعريف:
@@ -21,5 +21,5 @@ def clear_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [SpreadsheetML2003SaveOptions](/cells/python-net/ar/aspose.cells/spreadsheetml2003saveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`SpreadsheetML2003SaveOptions`](/cells/python-net/ar/aspose.cells/spreadsheetml2003saveoptions)

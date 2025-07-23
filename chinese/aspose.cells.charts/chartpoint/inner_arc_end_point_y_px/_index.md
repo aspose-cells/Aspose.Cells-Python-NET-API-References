@@ -1,13 +1,13 @@
 ---
-title: inner_arc_end_point_y_px 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: inner_arc_end_point_y_px属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 240
 url: /zh/aspose.cells.charts/chartpoint/inner_arc_end_point_y_px/
 is_root: false
 ---
-## inner_arc_end_point_y_px 属性
+## inner_arc_end_point_y_px属性
 
 调用 Chart.Calculate() 方法后获取饼图部分终点的 y 坐标。
 适用于圆环图。
@@ -19,5 +19,5 @@ def inner_arc_end_point_y_px(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartPoint](/cells/python-net/zh/aspose.cells.charts/chartpoint)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartPoint`](/cells/python-net/zh/aspose.cells.charts/chartpoint)

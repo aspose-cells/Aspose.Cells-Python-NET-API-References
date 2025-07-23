@@ -3,13 +3,13 @@ title: height_inch属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 540
+weight: 530
 url: /zh/aspose.cells.drawing/oleobject/height_inch/
 is_root: false
 ---
 ## height_inch属性
 
-表示形状的高度，单位为英寸。
+表示形状的高度，以英寸为单位。
 
 ### 例子
 

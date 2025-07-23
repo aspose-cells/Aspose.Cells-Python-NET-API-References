@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/threadedcommentcollection/add/
 is_root: false
 ---
-##  add(text, author) {#str-ThreadedCommentAuthor}
-يضيف تعليقًا مترابطًا ؛
+##  add(self, text, author) {#str-aspose.cells.ThreadedCommentAuthor}
+يضيف تعليقًا مترابطًا؛
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, text, author):
     ...
 ```
@@ -25,10 +26,10 @@ def add(self, text, author):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | text | str | نص التعليق المترابط.|
-| author | [ThreadedCommentAuthor](/cells/python-net/ar/aspose.cells/threadedcommentauthor) | مؤلف التعليق المترابط|
+| author | [`ThreadedCommentAuthor`](/cells/python-net/ar/aspose.cells/threadedcommentauthor) | مؤلف التعليق المترابط|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ThreadedCommentCollection](/cells/python-net/ar/aspose.cells/threadedcommentcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ThreadedCommentCollection`](/cells/python-net/ar/aspose.cells/threadedcommentcollection)

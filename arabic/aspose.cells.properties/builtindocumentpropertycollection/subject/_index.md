@@ -1,15 +1,15 @@
 ---
-title: subject الملكية
+title: subject عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 370
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/subject/
 is_root: false
 ---
-##  subject الملكية
+##  subject عقار
 
-الحصول على أو تحديد subject الخاص بالوثيقة.
+يحصل على أو يعين subject من المستند.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def subject(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

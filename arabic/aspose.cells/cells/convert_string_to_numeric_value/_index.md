@@ -7,12 +7,13 @@ weight: 140
 url: /ar/aspose.cells/cells/convert_string_to_numeric_value/
 is_root: false
 ---
-##  convert_string_to_numeric_value {#}
-تحويل كافة بيانات السلسلة في ورقة العمل إلى قيمة رقمية إن أمكن.
+##  convert_string_to_numeric_value(self) {#}
+يقوم بتحويل كافة بيانات السلسلة الموجودة في ورقة العمل إلى قيمة رقمية إذا كان ذلك ممكنًا.
 
 
 
 ```python
+
 def convert_string_to_numeric_value(self):
     ...
 ```

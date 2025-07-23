@@ -1,15 +1,15 @@
 ---
-title: y_value الملكية
+title: y_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 430
+weight: 440
 url: /ar/aspose.cells.charts/chartpoint/y_value/
 is_root: false
 ---
-##  y_value الملكية
+##  y_value عقار
 
-الحصول على أو تحديد قيمة Y لنقطة المخطط.
+يحصل على قيمة Y لنقطة الرسم البياني أو يعينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def y_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

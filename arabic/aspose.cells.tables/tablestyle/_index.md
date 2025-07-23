@@ -1,5 +1,5 @@
 ---
-title: TableStyle الدرجة
+title: TableStyle صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,18 +7,18 @@ weight: 50
 url: /ar/aspose.cells.tables/tablestyle/
 is_root: false
 ---
-##  TableStyle الدرجة
+##  TableStyle صف
 يمثل نمط الجدول.
 
 
 
-يكشف نوع TableStyle الأعضاء التالية:
+يكشف النوع TableStyle عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
 | [name](/cells/python-net/ar/aspose.cells.tables/tablestyle/name) | يحصل على اسم نمط الجدول.|
-| [table_style_elements](/cells/python-net/ar/aspose.cells.tables/tablestyle/table_style_elements) | يحصل على جميع عناصر نمط الجدول.|
+| [table_style_elements](/cells/python-net/ar/aspose.cells.tables/tablestyle/table_style_elements) | يحصل على كافة عناصر نمط الجدول.|
 
 
 
@@ -65,4 +65,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](..)
+* الوحدة [`aspose.cells.tables`](..)

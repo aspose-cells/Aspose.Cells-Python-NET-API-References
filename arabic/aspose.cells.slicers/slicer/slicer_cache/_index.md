@@ -1,15 +1,15 @@
 ---
-title: slicer_cache الملكية
+title: slicer_cache عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ar/aspose.cells.slicers/slicer/slicer_cache/
 is_root: false
 ---
-##  slicer_cache الملكية
+##  slicer_cache عقار
 
-تُرجع كائن SlicerCache المرتبط بقطعة شرائح. يقرأ فقط.
+إرجاع كائن SlicerCache المرتبط بالمُقطّع. للقراءة فقط.
 
 ###  مثال
 
@@ -26,6 +26,6 @@ def slicer_cache(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
-* فئة [SlicerCache](/cells/python-net/ar/aspose.cells.slicers/slicercache)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* فئة [`SlicerCache`](/cells/python-net/ar/aspose.cells.slicers/slicercache)

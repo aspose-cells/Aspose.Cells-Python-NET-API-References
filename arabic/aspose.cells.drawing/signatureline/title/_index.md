@@ -1,15 +1,15 @@
 ---
-title: title الملكية
+title: title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells.drawing/signatureline/title/
 is_root: false
 ---
-##  title الملكية
+##  title عقار
 
-يحصل ويضع title للمغني.
+يحصل أو يضبط title للمغني.
 
 ###  مثال
 
@@ -32,5 +32,5 @@ def title(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline)

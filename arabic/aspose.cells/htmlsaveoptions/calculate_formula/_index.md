@@ -3,17 +3,17 @@ title: calculate_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells/htmlsaveoptions/calculate_formula/
 is_root: false
 ---
 ##  calculate_formula عقار
 
-يشير إلى ما إذا كان سيتم حساب الصيغ قبل حفظ ملف html.
+يشير إلى ما إذا كان سيتم حساب الصيغ قبل حفظ ملف HTML.
 
 ###  ملاحظات
 
-القيمة الافتراضية هي كاذبة.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

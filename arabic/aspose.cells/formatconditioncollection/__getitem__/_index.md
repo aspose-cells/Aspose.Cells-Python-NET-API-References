@@ -1,5 +1,5 @@
 ---
-title: FormatConditionCollection مفهرس
+title: FormatConditionCollection فهرس
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,20 +7,20 @@ weight: 80
 url: /ar/aspose.cells/formatconditioncollection/__getitem__/
 is_root: false
 ---
-##  FormatConditionCollection مفهرس
+##  FormatConditionCollection فهرس
 
-يحصل على شرط التنسيق بالفهرس.
-###  مفهرس
+يحصل على شرط التنسيق حسب الفهرس.
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
-| index | فهرس شرط التنسيق للرجوع.|
+| index | فهرس حالة التنسيق التي سيتم إرجاعها.|
 
 
 
 ###  عائدات
 
-شرط التنسيق
+حالة التنسيق
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormatConditionCollection](/cells/python-net/ar/aspose.cells/formatconditioncollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormatConditionCollection`](/cells/python-net/ar/aspose.cells/formatconditioncollection)

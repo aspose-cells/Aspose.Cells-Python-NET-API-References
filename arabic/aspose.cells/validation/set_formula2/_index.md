@@ -7,12 +7,13 @@ weight: 130
 url: /ar/aspose.cells/validation/set_formula2/
 is_root: false
 ---
-##  set_formula2 {#str-bool-bool}
-يضبط القيمة أو التعبير المرتبط بهذا التحقق من الصحة.
+##  set_formula2(self, formula, is_r1c1, is_local) {#str-bool-bool}
+تعيين القيمة أو التعبير المرتبط بهذا التحقق.
 
 
 
 ```python
+
 def set_formula2(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -21,8 +22,8 @@ def set_formula2(self, formula, is_r1c1, is_local):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | formula | str | القيمة أو التعبير المرتبط بشرط التنسيق هذا.|
-| is_r1c1 | bool | ما إذا كانت الصيغة هي صيغة R1C1.|
-| is_local | bool | ما إذا كانت الصيغة منسقة بالإعدادات المحلية.|
+| is_r1c1 | bool | هل الصيغة هي صيغة R1C1؟|
+| is_local | bool | سواء كانت الصيغة بتنسيق محلي.|
 
 
 

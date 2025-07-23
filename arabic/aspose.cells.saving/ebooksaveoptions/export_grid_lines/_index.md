@@ -3,13 +3,13 @@ title: export_grid_lines عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 330
 url: /ar/aspose.cells.saving/ebooksaveoptions/export_grid_lines/
 is_root: false
 ---
 ##  export_grid_lines عقار
 
-تشير إلى ما إذا كان سيتم تصدير خطوط الشبكة أم لا. القيمة الافتراضية خاطئة.
+يشير إلى ما إذا كان يتم تصدير خطوط الشبكة. القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

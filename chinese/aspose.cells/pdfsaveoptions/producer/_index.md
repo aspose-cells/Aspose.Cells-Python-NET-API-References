@@ -1,19 +1,19 @@
 ---
-title: producer 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: producer属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 360
+weight: 410
 url: /zh/aspose.cells/pdfsaveoptions/producer/
 is_root: false
 ---
-## producer 属性
+## producer属性
 
-获取并设置生成的 pdf 文档的 producer。
+获取并设置生成的pdf文档的producer。
 
-### 评论
+### 注意事项
 
-如果该值为 null，或者未设置有效的 LICENSE，则将使用字符串 Aspose.Cells vVERSION。
+如果值为空，或者未设置有效的 LICENSE，则将使用字符串 Aspose.Cells vVERSION。
 ### 定义：
 ```python
 @property
@@ -25,5 +25,5 @@ def producer(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PdfSaveOptions](/cells/python-net/zh/aspose.cells/pdfsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`PdfSaveOptions`](/cells/python-net/zh/aspose.cells/pdfsaveoptions)

@@ -1,5 +1,5 @@
 ---
-title: is_percent_scale الملكية
+title: is_percent_scale عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 420
 url: /ar/aspose.cells/pagesetup/is_percent_scale/
 is_root: false
 ---
-##  is_percent_scale الملكية
+##  is_percent_scale عقار
 
-إذا كانت هذه الخاصية خطأ ، فإن خصائص FitToPagesWide و FitToPagesTall تتحكم في كيفية قياس ورقة العمل.
+إذا كانت هذه الخاصية False، فإن الخاصيتين FitToPagesWide وFitToPagesTall تتحكمان في كيفية قياس ورقة العمل.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_percent_scale(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

@@ -3,17 +3,11 @@ title: gridline_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 180
 url: /zh/aspose.cells/docxsaveoptions/gridline_type/
 is_root: false
 ---
 ## gridline_type属性
-
-获取或设置网格线类型。
-
-### 评论
-
-默认为点类型。
 ### 定义：
 ```python
 @property

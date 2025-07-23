@@ -7,16 +7,17 @@ weight: 110
 url: /zh/aspose.cells/globalizationsettings/get_grand_total_name/
 is_root: false
 ---
-##  get_grand_total_name {#aspose.cells.ConsolidationFunction}
-获取函数的总名称。
+##  get_grand_total_name(self, function_type) {#aspose.cells.ConsolidationFunction}
+获取函数的总计名称。
 
 
-### 退货
+### 返回
 
-函数的总名称。
+函数的总计名称。
 
 
 ```python
+
 def get_grand_total_name(self, function_type):
     ...
 ```

@@ -1,5 +1,5 @@
 ---
-title: row الملكية
+title: row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.webextensions/webextensiontaskpane/row/
 is_root: false
 ---
-##  row الملكية
+##  row عقار
 
-الحصول على الفهرس وتعيينه ، مع تعداده من الخارج إلى الداخل ، لجزء المهام هذا من بين لوحات المهام المستمرة الأخرى المثبتة في نفس الموقع الافتراضي.
+يحصل على الفهرس ويقوم بتعيينه، بدءًا من الخارج إلى الداخل، لهذه لوحة المهام بين لوحات المهام الثابتة الأخرى الموجودة في نفس الموقع الافتراضي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def row(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionTaskPane](/cells/python-net/ar/aspose.cells.webextensions/webextensiontaskpane)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionTaskPane`](/cells/python-net/ar/aspose.cells.webextensions/webextensiontaskpane)

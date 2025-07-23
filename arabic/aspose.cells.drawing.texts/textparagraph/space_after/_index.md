@@ -1,5 +1,5 @@
 ---
-title: space_after الملكية
+title: space_after عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 190
 url: /ar/aspose.cells.drawing.texts/textparagraph/space_after/
 is_root: false
 ---
-##  space_after الملكية
+##  space_after عقار
 
-الحصول على مقدار المساحة البيضاء العمودية التي ستكون موجودة بعد فقرة وتعيينها.
+يحصل على مقدار المساحة البيضاء الرأسية التي ستكون موجودة بعد الفقرة ويحددها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def space_after(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextParagraph](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextParagraph`](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)

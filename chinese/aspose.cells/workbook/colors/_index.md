@@ -3,7 +3,7 @@ title: colors属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 470
+weight: 490
 url: /zh/aspose.cells/workbook/colors/
 is_root: false
 ---
@@ -11,9 +11,9 @@ is_root: false
 
 在电子表格的调色板中返回 colors。
 
-### 评论
+### 注意事项
 
-该调色板有 56 个条目，每个条目都由一个 RGB 值表示。
+调色板有 56 个条目，每个条目由一个 RGB 值表示。
 ### 定义：
 ```python
 @property

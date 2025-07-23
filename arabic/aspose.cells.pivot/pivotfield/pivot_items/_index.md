@@ -3,13 +3,13 @@ title: pivot_items عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 620
 url: /ar/aspose.cells.pivot/pivotfield/pivot_items/
 is_root: false
 ---
 ##  pivot_items عقار
 
-يحصل على العناصر المحورية للحقل المحوري
+يحصل على عناصر المحور لحقل المحور
 ###  تعريف:
 ```python
 @property

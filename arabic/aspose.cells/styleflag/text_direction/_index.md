@@ -1,5 +1,5 @@
 ---
-title: text_direction الملكية
+title: text_direction عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 290
 url: /ar/aspose.cells/styleflag/text_direction/
 is_root: false
 ---
-##  text_direction الملكية
+##  text_direction عقار
 
 سيتم تطبيق إعداد اتجاه النص.
 ###  تعريف:
@@ -21,5 +21,5 @@ def text_direction(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

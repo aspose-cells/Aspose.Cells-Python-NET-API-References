@@ -1,6 +1,6 @@
 ---
 title: SlicerCollection类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
@@ -12,34 +12,35 @@ is_root: false
 
 
 
-SlicerCollection 类型公开了以下成员：
+SlicerCollection 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [capacity](/cells/python-net/zh/aspose.cells.slicers/slicercollection/capacity) |获取或设置数组列表可以包含的元素数。|
+| [capacity](/cells/python-net/zh/aspose.cells.slicers/slicercollection/capacity) |获取或设置数组列表可包含的元素数量。|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [add(pivot, dest_cell_name, base_field_name)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-str) |使用数据透视表作为数据源添加新的切片器|
-| [add(pivot, row, column, base_field_name)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-str) |使用数据透视表作为数据源添加新的切片器|
-| [add(pivot, row, column, base_field_index)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-int) |使用数据透视表作为数据源添加新的切片器|
-| [add(pivot, dest_cell_name, base_field_index)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-int) |使用数据透视表作为数据源添加新的切片器|
-| [add(pivot, row, column, base_field)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField) |使用数据透视表作为数据源添加新的切片器|
-| [add(pivot, dest_cell_name, base_field)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField) |使用数据透视表作为数据源添加新的切片器|
-| [add(table, index, dest_cell_name)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-int-str) |使用 ListObjet 作为数据源添加一个新的切片器|
-| [add(table, list_column, dest_cell_name)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str) |使用 ListObjet 作为数据源添加一个新的切片器|
-| [add(table, list_column, row, column)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int) |使用 ListObjet 作为数据源添加一个新的切片器|
-| [copy_to(array)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/copy_to/#list) |将整个数组列表复制到兼容的一维数组列表，从目标数组列表的开头开始。|
-| [copy_to(index, array, array_index, count)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) |将数组列表中的一系列元素复制到兼容的一维数组列表，从目标数组列表的指定索引开始。|
-| [index_of(item, index)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/index_of/#Slicer-int) |搜索指定的对象并返回数组列表中从指定索引延伸到最后一个元素的元素范围内第一次出现的从零开始的索引。|
-| [index_of(item, index, count)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/index_of/#Slicer-int-int) |搜索指定的对象并返回数组列表中从指定索引开始并包含指定数量的元素的元素范围内第一次出现的从零开始的索引。|
-| [last_index_of(item)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/last_index_of/#Slicer) |搜索指定的对象并返回整个数组列表中最后一次出现的从零开始的索引。|
-| [last_index_of(item, index)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int) |搜索指定的对象并返回数组列表中从第一个元素到指定索引的元素范围内最后一次出现的从零开始的索引。|
-| [last_index_of(item, index, count)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int-int) |搜索指定的对象并返回数组列表中包含指定数量的元素并以指定索引结束的元素范围内最后一次出现的从零开始的索引。|
-| [binary_search(item)](/cells/python-net/zh/aspose.cells.slicers/slicercollection/binary_search/#Slicer) |使用默认比较器在整个排序数组列表中搜索元素，并返回元素的从零开始的索引。|
+| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-str) |使用数据透视表作为数据源添加新的切片器|
+| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-str) |使用数据透视表作为数据源添加新的切片器|
+| [`add(self, pivot, row, column, base_field_index)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-int) |使用数据透视表作为数据源添加新的切片器|
+| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-int) |使用数据透视表作为数据源添加新的切片器|
+| [`add(self, pivot, row, column, base_field)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-aspose.cells.pivot.pivotfield) |使用数据透视表作为数据源添加新的切片器|
+| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-aspose.cells.pivot.pivotfield) |使用数据透视表作为数据源添加新的切片器|
+| [`add(self, table, index, dest_cell_name)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-int-str) |使用 ListObjet 作为数据源添加新的切片器|
+| [`add(self, table, list_column, dest_cell_name)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-str) |使用 ListObjet 作为数据源添加新的切片器|
+| [`add(self, table, list_column, row, column)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-int-int) |使用 ListObjet 作为数据源添加新的切片器|
+| [`copy_to(self, array)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/copy_to/#list) |将整个数组列表复制到兼容的一维数组列表，从目标数组列表的开头开始。|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) |从目标数组列表的指定索引开始，将数组列表中的一系列元素复制到兼容的一维数组列表中。|
+| [`index_of(self, item, index)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int) |搜索指定的对象并返回从指定索引延伸到最后一个元素的数组列表中元素范围内第一个出现的从零开始的索引。|
+| [`index_of(self, item, index, count)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int-int) |搜索指定的对象并返回从指定索引开始并包含指定数量元素的数组列表中元素范围内第一次出现的从零开始的索引。|
+| [`last_index_of(self, item)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer) |搜索指定的对象并返回整个数组列表中最后一次出现的从零开始的索引。|
+| [`last_index_of(self, item, index)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int) |搜索指定的对象并返回从第一个元素延伸到指定索引的数组列表中元素范围内的最后一个出现的从零开始的索引。|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int-int) |搜索指定的对象并返回包含指定数量的元素并以指定索引结束的数组列表中元素范围内的最后一个出现的从零开始的索引。|
+| [`get(self, name)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/get/#str) |通过切片器的名称获取切片器。|
+| [`binary_search(self, item)`](/cells/python-net/zh/aspose.cells.slicers/slicercollection/binary_search/#aspose.cells.slicers.slicer) |使用默认比较器在整个排序数组列表中搜索元素，并返回该元素从零开始的索引。|
 
 
 
@@ -97,4 +98,4 @@ book.save("out.xlsx")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](..)
+* 模块[`aspose.cells.slicers`](..)

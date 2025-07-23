@@ -3,7 +3,7 @@ title: minor_unit عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 370
 url: /ar/aspose.cells.charts/axis/minor_unit/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  ملاحظات
 
-يجب أن تكون الوحدات الصغرى أكبر من الصفر.
+يجب أن تكون الوحدات الثانوية أكبر من الصفر.
 ###  تعريف:
 ```python
 @property

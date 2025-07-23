@@ -1,5 +1,5 @@
 ---
-title: default_style_settings الملكية
+title: default_style_settings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells/jsonloadoptions/default_style_settings/
 is_root: false
 ---
-##  default_style_settings الملكية
+##  default_style_settings عقار
 
-الحصول على إعدادات النمط الافتراضية لتهيئة أنماط المصنف
+يحصل على إعدادات النمط الافتراضية لتهيئة أنماط المصنف
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def default_style_settings(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DefaultStyleSettings](/cells/python-net/ar/aspose.cells/defaultstylesettings)
-* فئة [JsonLoadOptions](/cells/python-net/ar/aspose.cells/jsonloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DefaultStyleSettings`](/cells/python-net/ar/aspose.cells/defaultstylesettings)
+* فئة [`JsonLoadOptions`](/cells/python-net/ar/aspose.cells/jsonloadoptions)

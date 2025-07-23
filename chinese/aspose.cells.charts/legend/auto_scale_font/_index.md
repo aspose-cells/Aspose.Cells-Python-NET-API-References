@@ -9,7 +9,7 @@ is_root: false
 ---
 ## auto_scale_font属性
 
-如果对象中的文本随对象大小更改而更改字体大小，则为 true。默认值是true。
+如果对象中的文本字体大小随对象大小变化而变化，则为 True。默认值为 True。
 ### 定义：
 ```python
 @property

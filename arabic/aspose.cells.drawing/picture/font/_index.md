@@ -3,13 +3,13 @@ title: font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 430
+weight: 440
 url: /ar/aspose.cells.drawing/picture/font/
 is_root: false
 ---
 ##  font عقار
 
-يمثل font من الشكل.
+يمثل الشكل font.
 
 ###  مثال
 

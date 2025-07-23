@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.timelines/timeline/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-إرجاع أو تحديد name للمخطط الزمني المحدد
+إرجاع أو تعيين name للخط الزمني المحدد
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.timelines](../../)
-* فئة [Timeline](/cells/python-net/ar/aspose.cells.timelines/timeline)
+* الوحدة [`aspose.cells.timelines`](../../)
+* فئة [`Timeline`](/cells/python-net/ar/aspose.cells.timelines/timeline)

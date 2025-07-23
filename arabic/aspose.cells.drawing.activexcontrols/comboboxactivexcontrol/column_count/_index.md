@@ -1,5 +1,5 @@
 ---
-title: column_count الملكية
+title: column_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/column_count/
 is_root: false
 ---
-##  column_count الملكية
+##  column_count عقار
 
-يمثل عدد الأعمدة المراد عرضها في ComboBox أو ListBox.
+يمثل عدد الأعمدة التي سيتم عرضها في ComboBox أو ListBox.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_count(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ComboBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ComboBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

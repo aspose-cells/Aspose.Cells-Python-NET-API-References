@@ -7,12 +7,13 @@ weight: 190
 url: /ar/aspose.cells/worksheetcollection/remove_at/
 is_root: false
 ---
-##  remove_at {#str}
-إزالة العنصر باسم محدد.
+##  remove_at(self, name) {#str}
+يقوم بإزالة العنصر عند الاسم المحدد.
 
 
 
 ```python
+
 def remove_at(self, name):
     ...
 ```
@@ -20,7 +21,7 @@ def remove_at(self, name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| name | str | اسم العنصر المراد إزالته.|
+| name | str | اسم العنصر الذي سيتم إزالته.|
 
 
 

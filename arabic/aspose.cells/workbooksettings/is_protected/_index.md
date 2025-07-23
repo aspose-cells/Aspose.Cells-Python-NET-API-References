@@ -3,13 +3,13 @@ title: is_protected عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 300
 url: /ar/aspose.cells/workbooksettings/is_protected/
 is_root: false
 ---
 ##  is_protected عقار
 
-الحصول على قيمة تشير إلى ما إذا كانت بنية المصنف أو نافذةه محمية.
+يحصل على قيمة تشير إلى ما إذا كان هيكل أو نافذة المصنف محمية.
 ###  تعريف:
 ```python
 @property

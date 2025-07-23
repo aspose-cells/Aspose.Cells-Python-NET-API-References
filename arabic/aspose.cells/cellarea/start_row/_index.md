@@ -1,5 +1,5 @@
 ---
-title: start_row الملكية
+title: start_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,14 @@ weight: 80
 url: /ar/aspose.cells/cellarea/start_row/
 is_root: false
 ---
-##  start_row الملكية
+##  start_row عقار
 
-الحصول على صف البداية لهذه المنطقة أو تعيينه.
+يحصل على أو تعيين الصف الأولي لهذه المنطقة.
+###  تعريف:
+```python
+f start_row 
+```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellArea](/cells/python-net/ar/aspose.cells/cellarea)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea)

@@ -1,5 +1,5 @@
 ---
-title: display_type الملكية
+title: display_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 110
 url: /ar/aspose.cells.charts/errorbar/display_type/
 is_root: false
 ---
-##  display_type الملكية
+##  display_type عقار
 
 يمثل نوع عرض شريط الخطأ.
 ###  تعريف:
@@ -21,6 +21,6 @@ def display_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ErrorBar](/cells/python-net/ar/aspose.cells.charts/errorbar)
-* فئة [ErrorBarDisplayType](/cells/python-net/ar/aspose.cells.charts/errorbardisplaytype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ErrorBar`](/cells/python-net/ar/aspose.cells.charts/errorbar)
+* فئة [`ErrorBarDisplayType`](/cells/python-net/ar/aspose.cells.charts/errorbardisplaytype)

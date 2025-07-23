@@ -1,5 +1,5 @@
 ---
-title: color الملكية
+title: color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/databarborder/color/
 is_root: false
 ---
-##  color الملكية
+##  color عقار
 
-الحصول على أو تحديد color للحد من أشرطة البيانات المحددة بواسطة قاعدة تنسيق شرطي.
+يحصل على أو يعين حدود color لأشرطة البيانات المحددة بواسطة قاعدة التنسيق الشرطي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataBarBorder](/cells/python-net/ar/aspose.cells/databarborder)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataBarBorder`](/cells/python-net/ar/aspose.cells/databarborder)

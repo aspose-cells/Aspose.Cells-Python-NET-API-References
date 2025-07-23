@@ -1,15 +1,15 @@
 ---
-title: type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells/fontsetting/type/
 is_root: false
 ---
-## type 属性
+## type属性
 
-获取文本节点的 type。
+获取文本节点的type。
 ### 定义：
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FontSetting](/cells/python-net/zh/aspose.cells/fontsetting)
-* 类 [TextNodeType](/cells/python-net/zh/aspose.cells.drawing.texts/textnodetype)
+* 模块[`aspose.cells`](../../)
+* 类 [`FontSetting`](/cells/python-net/zh/aspose.cells/fontsetting)
+* 类 [`TextNodeType`](/cells/python-net/zh/aspose.cells.drawing.texts/textnodetype)

@@ -1,5 +1,5 @@
 ---
-title: range الملكية
+title: range عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 210
 url: /ar/aspose.cells/autofilter/range/
 is_root: false
 ---
-##  range الملكية
+##  range عقار
 
-يمثل range الذي ينطبق عليه التصفية التلقائية المحددة.
+يمثل range الذي ينطبق عليه AutoFilter المحدد.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def range(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFilter](/cells/python-net/ar/aspose.cells/autofilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFilter`](/cells/python-net/ar/aspose.cells/autofilter)

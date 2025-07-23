@@ -1,28 +1,28 @@
 ---
-title: العد PdfCompressionCore
+title: PdfCompressionCore التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 210
 url: /ar/aspose.cells.rendering/pdfcompressioncore/
 is_root: false
 ---
-##  العد PdfCompressionCore
-يحدد نوع الضغط المطبق على كل المحتويات في ملف PDF باستثناء الصور.
+##  PdfCompressionCore التعداد
+يحدد نوع الضغط المطبق على كافة المحتويات في الملف PDF باستثناء الصور.
 
 
 
-يكشف نوع PdfCompressionCore الأعضاء التالية:
+يكشف النوع PdfCompressionCore عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | NONE | لا أحد|
-| RLE | رلي|
-| LZW | Lzw|
-| FLATE | مسطح|
+| RLE | رل|
+| LZW | لزو|
+| FLATE | فلات|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
+* الوحدة [`aspose.cells.rendering`](..)

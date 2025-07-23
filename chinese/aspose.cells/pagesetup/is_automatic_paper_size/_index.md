@@ -1,13 +1,13 @@
 ---
-title: is_automatic_paper_size 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_automatic_paper_size属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 370
 url: /zh/aspose.cells/pagesetup/is_automatic_paper_size/
 is_root: false
 ---
-## is_automatic_paper_size 属性
+## is_automatic_paper_size属性
 
 指示纸张尺寸是否自动。
 ### 定义：
@@ -18,5 +18,5 @@ def is_automatic_paper_size(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PageSetup](/cells/python-net/zh/aspose.cells/pagesetup)
+* 模块[`aspose.cells`](../../)
+* 类 [`PageSetup`](/cells/python-net/zh/aspose.cells/pagesetup)

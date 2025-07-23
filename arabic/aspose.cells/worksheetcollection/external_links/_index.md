@@ -3,13 +3,13 @@ title: external_links عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ar/aspose.cells/worksheetcollection/external_links/
 is_root: false
 ---
 ##  external_links عقار
 
-يمثل الروابط الخارجية في المصنف.
+يمثل الروابط الخارجية في مصنف.
 ###  تعريف:
 ```python
 @property

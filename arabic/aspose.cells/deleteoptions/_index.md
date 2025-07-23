@@ -3,7 +3,7 @@ title: DeleteOptions صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 490
+weight: 470
 url: /ar/aspose.cells/deleteoptions/
 is_root: false
 ---
@@ -17,13 +17,13 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/deleteoptions/__init__/#) | إنشاء مثيل جديد لـDeleteOptions|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/deleteoptions/__init__/#) | إنشاء مثيل جديد لـ DeleteOptions|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [update_reference](/cells/python-net/ar/aspose.cells/deleteoptions/update_reference) |يشير إلى ما إذا كانت مراجع التحديث موجودة في أوراق العمل الأخرى.|
+| [update_reference](/cells/python-net/ar/aspose.cells/deleteoptions/update_reference) | يشير إلى ما إذا كان يتم تحديث المراجع في أوراق العمل الأخرى.|
 
 
 

@@ -7,7 +7,7 @@ weight: 40
 url: /ar/aspose.cells.vba/vbamodulecollection/add_user_form/
 is_root: false
 ---
-##  add_user_form {#str-str-bytes}
+##  add_user_form(self, name, codes, designer_storage) {#str-str-bytes}
 أدخل نموذج المستخدم في مشروع VBA.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_user_form(self, name, codes, designer_storage):
     ...
 ```

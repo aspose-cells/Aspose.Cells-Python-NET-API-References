@@ -3,14 +3,14 @@ title: is_js_browser_compatible属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 520
+weight: 600
 url: /zh/aspose.cells.saving/ebooksaveoptions/is_js_browser_compatible/
 is_root: false
 ---
 ## is_js_browser_compatible属性
 
 指示 JavaScript 是否与不支持 JavaScript 的浏览器兼容。
-默认值是true。
+默认值为 true。
 ### 定义：
 ```python
 @property

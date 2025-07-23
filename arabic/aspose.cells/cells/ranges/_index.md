@@ -3,13 +3,13 @@ title: ranges عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1220
+weight: 1250
 url: /ar/aspose.cells/cells/ranges/
 is_root: false
 ---
 ##  ranges عقار
 
-الحصول على مجموعة من الكائنات [`Range`](/cells/python-net/ar/aspose.cells/range) التي تم إنشاؤها في وقت التشغيل.
+يحصل على مجموعة من [`Range`](/cells/python-net/ar/aspose.cells/range) كائنًا تم إنشاؤها في وقت التشغيل.
 ###  تعريف:
 ```python
 @property

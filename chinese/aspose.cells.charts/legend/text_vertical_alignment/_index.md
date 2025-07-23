@@ -3,7 +3,7 @@ title: text_vertical_alignment属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 400
+weight: 460
 url: /zh/aspose.cells.charts/legend/text_vertical_alignment/
 is_root: false
 ---

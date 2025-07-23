@@ -14,14 +14,14 @@ is_root: false
 
 ChartTextDirectionType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| HORIZONTAL |水平方向型。|
-| VERTICAL |垂直方向型。|
-| ROTATE90 |旋转90度。|
+| HORIZONTAL |水平方向类型。|
+| VERTICAL |垂直方向类型。|
+| ROTATE90 |旋转90度角。|
 | ROTATE270 |旋转270度。|
-| STACKED |堆叠的文本。|
+| STACKED |堆叠文本。|
 
 
 

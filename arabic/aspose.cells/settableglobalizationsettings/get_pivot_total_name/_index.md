@@ -7,17 +7,18 @@ weight: 160
 url: /ar/aspose.cells/settableglobalizationsettings/get_pivot_total_name/
 is_root: false
 ---
-##  get_pivot_total_name {#}
-يحصل على اسم التصنيف "الإجمالي" في PivotTable.
-تحتاج إلى تجاوز هذا الأسلوب عندما يحتوي PivotTable على حقلي PivotField أو أكثر في منطقة البيانات.
+##  get_pivot_total_name(self) {#}
+يحصل على اسم علامة "الإجمالي" في جدول البيانات المحوري.
+يتعين عليك تجاوز هذه الطريقة عندما يحتوي جدول البيانات المحوري على حقلين محوريين أو أكثر في منطقة البيانات.
 
 
 ###  عائدات
 
-اسم التصنيف "الإجمالي".
+اسم العلامة "المجموع"
 
 
 ```python
+
 def get_pivot_total_name(self):
     ...
 ```
@@ -25,10 +26,10 @@ def get_pivot_total_name(self):
 
 ###  ملاحظات
 
-ملاحظة: هذا العضو قديم الآن. بدلاً من،
-الرجاء استخدام طريقة PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ ديسمبر 2022.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+يرجى استخدام طريقة PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ ديسمبر 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا

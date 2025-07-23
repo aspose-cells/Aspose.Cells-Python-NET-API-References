@@ -3,13 +3,13 @@ title: dxfs عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 310
 url: /ar/aspose.cells/worksheetcollection/dxfs/
 is_root: false
 ---
 ##  dxfs عقار
 
-يحصل على سجلات التنسيق التفاضلي الرئيسية.
+يحصل على سجلات التنسيق التفاضلية الرئيسية.
 ###  تعريف:
 ```python
 @property

@@ -3,16 +3,17 @@ title: طريقة set_text_of_protected_name
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ar/aspose.cells/settablepivotglobalizationsettings/set_text_of_protected_name/
 is_root: false
 ---
-##  set_text_of_protected_name {#str-str}
-يضبط النص لاسم محمي محدد.
+##  set_text_of_protected_name(self, protected_name, text) {#str-str}
+تعيين النص لاسم محمي محدد.
 
 
 
 ```python
+
 def set_text_of_protected_name(self, protected_name, text):
     ...
 ```
@@ -21,7 +22,7 @@ def set_text_of_protected_name(self, protected_name, text):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | protected_name | str | الاسم المحمي في PivotTable.|
-| text | str | الأسماء المحلية الموجّهة لـ PivotTable.|
+| text | str | الأسماء المحلية المصححة لـ PivotTable.|
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: is_vertical_values الملكية
+title: is_vertical_values عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 290
 url: /ar/aspose.cells.charts/series/is_vertical_values/
 is_root: false
 ---
-##  is_vertical_values الملكية
+##  is_vertical_values عقار
 
 يشير إلى ما إذا كان مصدر البيانات عموديًا.
 ###  تعريف:
@@ -18,5 +18,5 @@ def is_vertical_values(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

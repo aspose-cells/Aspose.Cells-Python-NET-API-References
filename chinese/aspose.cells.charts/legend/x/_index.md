@@ -3,18 +3,18 @@ title: x属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 420
+weight: 500
 url: /zh/aspose.cells.charts/legend/x/
 is_root: false
 ---
 ## x属性
 
-获取或设置图表区域左上角的坐标 x，以 1/4000 为单位。
+获取或设置图表区域左上角的 x 坐标，以 1/4000 为单位。
 
-### 评论
+### 注意事项
 
-如何将1/4000单位转换为像素？
-X 像素 = X * Chart.ChartObject.Width / 4000;
+如何将 1/4000 的单位转换为像素？
+（像素）= X * Chart.ChartObject.Width / 4000d；
 ### 定义：
 ```python
 @property

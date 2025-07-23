@@ -3,7 +3,7 @@ title: width_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1350
+weight: 1360
 url: /ar/aspose.cells.drawing/oleobject/width_cm/
 is_root: false
 ---

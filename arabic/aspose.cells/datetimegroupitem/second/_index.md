@@ -1,5 +1,5 @@
 ---
-title: second الملكية
+title: second عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells/datetimegroupitem/second/
 is_root: false
 ---
-##  second الملكية
+##  second عقار
 
-الحصول على وتعيين second لوقت التاريخ المجمع.
+يحصل على second لتاريخ الوقت المجمع ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def second(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DateTimeGroupItem](/cells/python-net/ar/aspose.cells/datetimegroupitem)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DateTimeGroupItem`](/cells/python-net/ar/aspose.cells/datetimegroupitem)

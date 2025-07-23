@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells.drawing/colorhelper/to_ole_color/
 is_root: false
 ---
-##  to_ole_color(color, workbook) {#aspose.pydrawing.Color-Workbook}
+##  to_ole_color(، ملون، كتاب عمل){#aspose.pydrawing.Color-aspose.cells.Workbook}
 تحويل اللون إلى OLE_COLOR
 
 
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def to_ole_color(self, color, workbook):
+
+@staticmethod
+def to_ole_color(color, workbook):
     ...
 ```
 
@@ -25,10 +27,10 @@ def to_ole_color(self, color, workbook):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | color | aspose.pydrawing.Color | كائن اللون.|
-| workbook | [Workbook](/cells/python-net/ar/aspose.cells/workbook) |  |
+| workbook | [`Workbook`](/cells/python-net/ar/aspose.cells/workbook) |  |
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ColorHelper](/cells/python-net/ar/aspose.cells.drawing/colorhelper)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ColorHelper`](/cells/python-net/ar/aspose.cells.drawing/colorhelper)

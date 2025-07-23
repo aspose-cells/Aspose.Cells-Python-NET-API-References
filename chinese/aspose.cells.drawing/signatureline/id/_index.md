@@ -1,13 +1,13 @@
 ---
-title: id 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: id属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.drawing/signatureline/id/
 is_root: false
 ---
-## id 属性
+## id属性
 
 获取或设置此签名行的标识符。
 
@@ -33,5 +33,5 @@ def id(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [SignatureLine](/cells/python-net/zh/aspose.cells.drawing/signatureline)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`SignatureLine`](/cells/python-net/zh/aspose.cells.drawing/signatureline)

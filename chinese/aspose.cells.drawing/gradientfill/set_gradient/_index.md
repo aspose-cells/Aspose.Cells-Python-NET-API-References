@@ -1,18 +1,19 @@
 ---
 title: set_gradient方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.drawing/gradientfill/set_gradient/
 is_root: false
 ---
-##  set_gradient(type, angle, direction) {#GradientFillType-float-GradientDirectionType}
+##  set_gradient(self, type, angle, direction) {#aspose.cells.drawing.GradientFillType-float-aspose.cells.drawing.GradientDirectionType}
 设置渐变填充类型和方向。
 
 
 
 ```python
+
 def set_gradient(self, type, angle, direction):
     ...
 ```
@@ -20,12 +21,12 @@ def set_gradient(self, type, angle, direction):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| type | [GradientFillType](/cells/python-net/zh/aspose.cells.drawing/gradientfilltype) |渐变填充类型。|
+| type | [`GradientFillType`](/cells/python-net/zh/aspose.cells.drawing/gradientfilltype) |渐变填充类型。|
 | angle | float |角度。仅适用于 GradientFillType.Linear。|
-| direction | [GradientDirectionType](/cells/python-net/zh/aspose.cells.drawing/gradientdirectiontype) |方向类型。仅适用于 GradientFillType.Radial 和 GradientFillType.Rectangle。|
+| direction | [`GradientDirectionType`](/cells/python-net/zh/aspose.cells.drawing/gradientdirectiontype) |方向类型。仅适用于 GradientFillType.Radial 和 GradientFillType.Rectangle。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GradientFill](/cells/python-net/zh/aspose.cells.drawing/gradientfill)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GradientFill`](/cells/python-net/zh/aspose.cells.drawing/gradientfill)

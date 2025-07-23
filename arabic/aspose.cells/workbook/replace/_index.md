@@ -3,16 +3,17 @@ title: طريقة replace
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 350
 url: /ar/aspose.cells/workbook/replace/
 is_root: false
 ---
-##  replace(place_holder, new_value) {#str-str}
-يستبدل قيمة الخلية بسلسلة جديدة.
+##  replace(self, place_holder, new_value) {#str-str}
+استبدال قيمة الخلية بسلسلة جديدة.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -20,8 +21,8 @@ def replace(self, place_holder, new_value):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| place_holder | str | Cell نائب|
-| new_value | str | قيمة السلسلة المطلوب استبدالها|
+| place_holder | str | Cell عنصر نائب|
+| new_value | str | قيمة السلسلة المراد استبدالها|
 
 ###  مثال
 
@@ -35,12 +36,13 @@ workbook.replace("AnOldValue", "NewValue")
 ```
 
 
-##  replace(place_holder, new_value) {#str-int}
-يستبدل قيمة الخلية بعدد صحيح جديد.
+##  replace(self, place_holder, new_value) {#str-int}
+استبدال قيمة الخلية برقم صحيح جديد.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -48,8 +50,8 @@ def replace(self, place_holder, new_value):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| place_holder | str | Cell نائب|
-| new_value | int | قيمة عدد صحيح ليحل محلها|
+| place_holder | str | Cell عنصر نائب|
+| new_value | int | القيمة الصحيحة المراد استبدالها|
 
 ###  مثال
 
@@ -64,12 +66,13 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-##  replace(place_holder, new_value) {#str-float}
-يستبدل قيمة خلية بمضاعفة جديدة.
+##  replace(self, place_holder, new_value) {#str-float}
+استبدال قيمة الخلية بقيمة مزدوجة جديدة.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -77,8 +80,8 @@ def replace(self, place_holder, new_value):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| place_holder | str | Cell نائب|
-| new_value | float | قيمة مزدوجة لتحل محلها|
+| place_holder | str | Cell عنصر نائب|
+| new_value | float | قيمة مزدوجة للاستبدال|
 
 ###  مثال
 
@@ -93,12 +96,13 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-##  replace(bool_value, new_value) {#bool-any}
-يستبدل قيم الخلايا ببيانات جديدة.
+##  replace(self, bool_value, new_value) {#bool-any}
+استبدال قيم الخلايا ببيانات جديدة.
 
 
 
 ```python
+
 def replace(self, bool_value, new_value):
     ...
 ```
@@ -106,16 +110,17 @@ def replace(self, bool_value, new_value):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| bool_value | bool | القيمة المنطقية المطلوب استبدالها.|
-| new_value | any | قيمة جديدة. يمكن أن تكون سلسلة أو عددًا صحيحًا أو مزدوجًا أو قيمة DateTime.|
+| bool_value | bool | القيمة المنطقية التي يجب استبدالها.|
+| new_value | any | قيمة جديدة. يمكن أن تكون سلسلة نصية، أو عددًا صحيحًا، أو قيمة مزدوجة، أو قيمة تاريخ ووقت.|
 
 
-##  replace(int_value, new_value) {#int-any}
-يستبدل قيم الخلايا ببيانات جديدة.
+##  replace(self, int_value, new_value) {#int-any}
+استبدال قيم الخلايا ببيانات جديدة.
 
 
 
 ```python
+
 def replace(self, int_value, new_value):
     ...
 ```
@@ -123,16 +128,17 @@ def replace(self, int_value, new_value):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| int_value | int | قيمة العدد الصحيح المطلوب استبداله.|
-| new_value | any | قيمة جديدة. يمكن أن تكون سلسلة أو عددًا صحيحًا أو مزدوجًا أو قيمة DateTime.|
+| int_value | int | القيمة الصحيحة التي يجب استبدالها.|
+| new_value | any | قيمة جديدة. يمكن أن تكون سلسلة نصية، أو عددًا صحيحًا، أو قيمة مزدوجة، أو قيمة تاريخ ووقت.|
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
-يستبدل قيمة الخلية بمصفوفة سلسلة جديدة.
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
+استبدال قيمة الخلية بمصفوفة سلسلة جديدة.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -140,9 +146,9 @@ def replace(self, place_holder, new_values, is_vertical):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| place_holder | str | Cell نائب|
-| new_values | list | مجموعة سلسلة ليحل محلها|
-| is_vertical | bool | صحيح - عمودي ، خطأ - أفقي|
+| place_holder | str | Cell عنصر نائب|
+| new_values | list | مجموعة من السلاسل المراد استبدالها|
+| is_vertical | bool | صحيح - عمودي، خطأ - أفقي|
 
 ###  مثال
 
@@ -157,12 +163,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
-يستبدل قيم الخلايا بمصفوفة عدد صحيح.
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
+استبدال قيم الخلايا بمصفوفة عددية صحيحة.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -170,9 +177,9 @@ def replace(self, place_holder, new_values, is_vertical):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| place_holder | str | Cell نائب|
-| new_values | list | مجموعة عدد صحيح ليحل محل|
-| is_vertical | bool | صحيح - عمودي ، خطأ - أفقي|
+| place_holder | str | Cell عنصر نائب|
+| new_values | list | مجموعة عدد صحيح لاستبدالها|
+| is_vertical | bool | صحيح - عمودي، خطأ - أفقي|
 
 ###  مثال
 
@@ -187,12 +194,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
-يستبدل قيم الخلايا بمصفوفة مزدوجة.
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
+استبدال قيم الخلايا بمصفوفة مزدوجة.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -200,9 +208,9 @@ def replace(self, place_holder, new_values, is_vertical):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| place_holder | str | Cell نائب|
-| new_values | list | صفيف مزدوج ليحل محل|
-| is_vertical | bool | صحيح - عمودي ، خطأ - أفقي|
+| place_holder | str | Cell عنصر نائب|
+| new_values | list | مجموعة مزدوجة للاستبدال|
+| is_vertical | bool | صحيح - عمودي، خطأ - أفقي|
 
 ###  مثال
 
@@ -217,12 +225,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_value, options) {#str-str-ReplaceOptions}
-يستبدل قيمة الخلية بسلسلة جديدة.
+##  replace(self, place_holder, new_value, options) {#str-str-aspose.cells.ReplaceOptions}
+استبدال قيمة الخلية بسلسلة جديدة.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value, options):
     ...
 ```
@@ -230,12 +239,12 @@ def replace(self, place_holder, new_value, options):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| place_holder | str | Cell نائب|
-| new_value | str | قيمة السلسلة المطلوب استبدالها|
-| options | [ReplaceOptions](/cells/python-net/ar/aspose.cells/replaceoptions) | خيارات الاستبدال|
+| place_holder | str | Cell عنصر نائب|
+| new_value | str | قيمة السلسلة المراد استبدالها|
+| options | [`ReplaceOptions`](/cells/python-net/ar/aspose.cells/replaceoptions) | خيارات الاستبدال|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

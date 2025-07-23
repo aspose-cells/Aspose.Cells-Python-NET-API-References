@@ -7,8 +7,8 @@ weight: 30
 url: /ar/aspose.cells/errorcheckoption/get_count_of_range/
 is_root: false
 ---
-##  get_count_of_range() {#}
-الحصول على عدد النطاقات التي تأثرت بهذا الإعداد.
+##  get_count_of_range(self) {#}
+يحصل على عدد النطاقات المتأثرة بهذا الإعداد.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_count_of_range(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_count_of_range(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ErrorCheckOption](/cells/python-net/ar/aspose.cells/errorcheckoption)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ErrorCheckOption`](/cells/python-net/ar/aspose.cells/errorcheckoption)

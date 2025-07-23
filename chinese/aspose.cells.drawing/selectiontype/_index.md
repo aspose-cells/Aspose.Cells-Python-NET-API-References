@@ -1,9 +1,9 @@
 ---
 title: SelectionType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1130
+weight: 1120
 url: /zh/aspose.cells.drawing/selectiontype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-SelectionType 类型公开了以下成员：
+SelectionType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| SINGLE |单一选择类型。|
+| SINGLE |单选类型。|
 | MULTI |多选类型。|
 | EXTEND |扩展选择类型。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

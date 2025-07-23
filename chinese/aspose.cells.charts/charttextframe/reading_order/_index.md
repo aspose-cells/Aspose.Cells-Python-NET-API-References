@@ -1,13 +1,13 @@
 ---
-title: reading_order 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: reading_order属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 260
+weight: 320
 url: /zh/aspose.cells.charts/charttextframe/reading_order/
 is_root: false
 ---
-## reading_order 属性
+## reading_order属性
 
 表示文本阅读顺序。
 ### 定义：
@@ -21,6 +21,6 @@ def reading_order(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartTextFrame](/cells/python-net/zh/aspose.cells.charts/charttextframe)
-* 类 [TextDirectionType](/cells/python-net/zh/aspose.cells/textdirectiontype)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartTextFrame`](/cells/python-net/zh/aspose.cells.charts/charttextframe)
+* 类 [`TextDirectionType`](/cells/python-net/zh/aspose.cells/textdirectiontype)

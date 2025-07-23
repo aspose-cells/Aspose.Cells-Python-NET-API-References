@@ -3,13 +3,13 @@ title: is_gridlines_visible属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 560
+weight: 590
 url: /zh/aspose.cells/worksheet/is_gridlines_visible/
 is_root: false
 ---
 ## is_gridlines_visible属性
 
-获取或设置一个值，该值指示网格线是否可见。默认值为 true。
+获取或设置一个值，指示网格线是否可见。默认值为 true。
 ### 定义：
 ```python
 @property

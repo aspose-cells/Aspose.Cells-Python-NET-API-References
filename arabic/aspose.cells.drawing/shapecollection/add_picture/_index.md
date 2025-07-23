@@ -3,20 +3,21 @@ title: طريقة add_picture
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 230
 url: /ar/aspose.cells.drawing/shapecollection/add_picture/
 is_root: false
 ---
-##  add_picture(upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
-يضيف صورة إلى المجموعة.
+##  add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
+إضافة صورة إلى المجموعة.
 
 
 ###  عائدات
 
-[Picture](/cells/python-net/ar/aspose.cells.drawing/picture) عنصر صورة.
+[`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture) صورة الكائن.
 
 
 ```python
+
 def add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream):
     ...
 ```
@@ -24,11 +25,11 @@ def add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| upper_left_row | int | فهرس الصف العلوي الأيسر.|
-| upper_left_column | int | فهرس العمود الأيسر العلوي.|
-| lower_right_row | int | فهرس الصف السفلي الأيمن|
-| lower_right_column | int | فهرس العمود الأيمن السفلي|
-| stream | io.RawIOBase | كائن دفق يحتوي على بيانات الصورة.|
+| upper_left_row | int | مؤشر الصف العلوي الأيسر.|
+| upper_left_column | int | فهرس العمود العلوي الأيسر.|
+| lower_right_row | int | مؤشر الصف السفلي الأيمن|
+| lower_right_column | int | فهرس العمود السفلي الأيمن|
+| stream | io.RawIOBase | كائن التدفق الذي يحتوي على بيانات الصورة.|
 
 ###  مثال
 
@@ -41,16 +42,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add_picture(upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
-يضيف صورة إلى المجموعة.
+##  add_picture(self, upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+إضافة صورة إلى المجموعة.
 
 
 ###  عائدات
 
-[Picture](/cells/python-net/ar/aspose.cells.drawing/picture) عنصر صورة.
+[`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture) صورة الكائن.
 
 
 ```python
+
 def add_picture(self, upper_left_row, upper_left_column, stream, width_scale, height_scale):
     ...
 ```
@@ -58,11 +60,11 @@ def add_picture(self, upper_left_row, upper_left_column, stream, width_scale, he
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| upper_left_row | int | فهرس الصف العلوي الأيسر.|
-| upper_left_column | int | فهرس العمود الأيسر العلوي.|
-| stream | io.RawIOBase | كائن دفق يحتوي على بيانات الصورة.|
-| width_scale | int | مقياس عرض الصورة ، نسبة مئوية.|
-| height_scale | int | مقياس ارتفاع الصورة ، نسبة مئوية.|
+| upper_left_row | int | مؤشر الصف العلوي الأيسر.|
+| upper_left_column | int | فهرس العمود العلوي الأيسر.|
+| stream | io.RawIOBase | كائن التدفق الذي يحتوي على بيانات الصورة.|
+| width_scale | int | مقياس عرض الصورة، نسبة مئوية.|
+| height_scale | int | مقياس ارتفاع الصورة، نسبة مئوية.|
 
 ###  مثال
 
@@ -77,6 +79,6 @@ with open("image.jpg", "rb") as fs:
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
-* فئة [ShapeCollection](/cells/python-net/ar/aspose.cells.drawing/shapecollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)
+* فئة [`ShapeCollection`](/cells/python-net/ar/aspose.cells.drawing/shapecollection)

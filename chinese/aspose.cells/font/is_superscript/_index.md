@@ -1,15 +1,15 @@
 ---
-title: is_superscript 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_superscript属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 140
 url: /zh/aspose.cells/font/is_superscript/
 is_root: false
 ---
-## is_superscript 属性
+## is_superscript属性
 
-获取或设置一个值，该值指示字体是否为超级脚本。
+获取或设置一个值，指示字体是否为上标。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def is_superscript(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Font](/cells/python-net/zh/aspose.cells/font)
+* 模块[`aspose.cells`](../../)
+* 类 [`Font`](/cells/python-net/zh/aspose.cells/font)

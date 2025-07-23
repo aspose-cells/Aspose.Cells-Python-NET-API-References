@@ -3,13 +3,13 @@ title: xml_maps عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 420
 url: /ar/aspose.cells/worksheetcollection/xml_maps/
 is_root: false
 ---
 ##  xml_maps عقار
 
-الحصول على خرائط XML وتعيينها في المصنف.
+يحصل على خرائط XML الموجودة في المصنف ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property

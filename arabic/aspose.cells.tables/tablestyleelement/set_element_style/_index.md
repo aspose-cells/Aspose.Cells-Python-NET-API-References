@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells.tables/tablestyleelement/set_element_style/
 is_root: false
 ---
-##  set_element_style(style) {#Style}
-يضبط نمط العنصر.
+##  set_element_style(self, style) {#aspose.cells.Style}
+تعيين نمط العنصر.
 
 
 
 ```python
+
 def set_element_style(self, style):
     ...
 ```
@@ -20,10 +21,10 @@ def set_element_style(self, style):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/ar/aspose.cells/style) | نمط العنصر.|
+| style | [`Style`](/cells/python-net/ar/aspose.cells/style) | نمط العنصر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [TableStyleElement](/cells/python-net/ar/aspose.cells.tables/tablestyleelement)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`TableStyleElement`](/cells/python-net/ar/aspose.cells.tables/tablestyleelement)

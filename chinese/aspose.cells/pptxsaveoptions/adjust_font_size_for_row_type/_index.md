@@ -9,7 +9,7 @@ is_root: false
 ---
 ## adjust_font_size_for_row_type属性
 
-表示如果行高较小，需要调整什么类型的行的字体大小。
+表示当行高较小时需要调整什么类型的线的字体大小。
 ### 定义：
 ```python
 @property

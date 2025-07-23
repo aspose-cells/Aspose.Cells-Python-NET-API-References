@@ -3,13 +3,13 @@ title: items عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 470
+weight: 560
 url: /ar/aspose.cells.pivot/pivotfield/items/
 is_root: false
 ---
 ##  items عقار
 
-احصل على كل قاعدة items؛
+احصل على جميع علامات Pivot items في هذا المجال.
 ###  تعريف:
 ```python
 @property

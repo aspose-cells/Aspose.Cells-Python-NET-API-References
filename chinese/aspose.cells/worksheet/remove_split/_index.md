@@ -3,16 +3,17 @@ title: remove_split方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 270
 url: /zh/aspose.cells/worksheet/remove_split/
 is_root: false
 ---
-##  remove_split {#}
+##  remove_split(self) {#}
 删除分割窗口。
 
 
 
 ```python
+
 def remove_split(self):
     ...
 ```

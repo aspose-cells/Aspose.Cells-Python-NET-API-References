@@ -3,21 +3,23 @@ title: row_index_to_name方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 190
 url: /zh/aspose.cells/cellshelper/row_index_to_name/
 is_root: false
 ---
-##  row_index_to_name {#int}
+## row_index_to_name（，行）{#int}
 根据行索引获取行名称。
 
 
-### 退货
+### 返回
 
 行的名称。
 
 
 ```python
-def row_index_to_name(self, row):
+
+@staticmethod
+def row_index_to_name(row):
     ...
 ```
 

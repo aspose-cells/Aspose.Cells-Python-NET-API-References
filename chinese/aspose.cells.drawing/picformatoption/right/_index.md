@@ -1,15 +1,15 @@
 ---
-title: right 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: right属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.drawing/picformatoption/right/
 is_root: false
 ---
-## right 属性
+## right属性
 
-获取或设置right 拉伸图片的偏移量。
+获取或设置拉伸图片的 right 偏移量。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def right(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [PicFormatOption](/cells/python-net/zh/aspose.cells.drawing/picformatoption)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`PicFormatOption`](/cells/python-net/zh/aspose.cells.drawing/picformatoption)

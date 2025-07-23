@@ -3,13 +3,13 @@ title: top_cm属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /zh/aspose.cells.drawing/groupshape/top_cm/
 is_root: false
 ---
 ## top_cm属性
 
-表示形状相对于其顶行的垂直偏移量，以厘米为单位。
+表示形状与其顶行的垂直偏移量，以厘米为单位。
 
 ### 例子
 

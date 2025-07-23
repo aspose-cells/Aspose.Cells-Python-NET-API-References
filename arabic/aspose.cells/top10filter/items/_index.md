@@ -1,5 +1,5 @@
 ---
-title: items الملكية
+title: items عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/top10filter/items/
 is_root: false
 ---
-##  items الملكية
+##  items عقار
 
-الحصول على items المرشح وتعيينه.
+يحصل على items من المرشح ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def items(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Top10Filter](/cells/python-net/ar/aspose.cells/top10filter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Top10Filter`](/cells/python-net/ar/aspose.cells/top10filter)

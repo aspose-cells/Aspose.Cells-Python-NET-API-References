@@ -3,13 +3,13 @@ title: check_boxes属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 420
+weight: 440
 url: /zh/aspose.cells/worksheet/check_boxes/
 is_root: false
 ---
 ## check_boxes属性
 
-获取 [`CheckBox`](/cells/python-net/zh/aspose.cells.drawing/checkbox) 集合。
+获得 [`CheckBox`](/cells/python-net/zh/aspose.cells.drawing/checkbox) 集合。
 ### 定义：
 ```python
 @property

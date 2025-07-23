@@ -3,13 +3,13 @@ title: cell_watches عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 410
 url: /ar/aspose.cells/worksheet/cell_watches/
 is_root: false
 ---
 ##  cell_watches عقار
 
-الحصول على مجموعة من الخلايا الموجودة في ورقة العمل هذه والتي تتم مشاهدتها في "نافذة المراقبة".
+يحصل على مجموعة من الخلايا الموجودة في ورقة العمل هذه والتي تتم مراقبتها في "نافذة المراقبة".
 ###  تعريف:
 ```python
 @property

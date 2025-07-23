@@ -1,9 +1,9 @@
 ---
 title: ShapePathPoint类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 590
+weight: 560
 url: /zh/aspose.cells.drawing/shapepathpoint/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-ShapePathPoint 类型公开了以下成员：
+ShapePathPoint 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [x](/cells/python-net/zh/aspose.cells.drawing/shapepathpoint/x) |获取和设置此位置坐标的 x 坐标。|
+| [x](/cells/python-net/zh/aspose.cells.drawing/shapepathpoint/x) |获取并设置此位置坐标的 x 坐标。|
 | [y](/cells/python-net/zh/aspose.cells.drawing/shapepathpoint/y) |获取此位置坐标的 y 坐标。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

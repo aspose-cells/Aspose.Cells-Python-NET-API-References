@@ -1,5 +1,5 @@
 ---
-title: scale الملكية
+title: scale عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 290
 url: /ar/aspose.cells.drawing/lineformat/scale/
 is_root: false
 ---
-##  scale الملكية
+##  scale عقار
 
-الحصول على تنسيق الصورة وتعيينه scale.
+يحصل على تنسيق الصورة ويضبطه scale.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)

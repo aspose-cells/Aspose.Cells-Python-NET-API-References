@@ -1,9 +1,9 @@
 ---
 title: InputMethodEditorMode枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 270
 url: /zh/aspose.cells.drawing.activexcontrols/inputmethodeditormode/
 is_root: false
 ---
@@ -12,26 +12,26 @@ is_root: false
 
 
 
-InputMethodEditorMode 类型公开了以下成员：
+InputMethodEditorMode 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | NO_CONTROL |不控制 IME。|
-| ON |输入法打开。|
-| OFF |输入法关闭。英文模式。|
+| ON | IME 开启。|
+| OFF | IME 关闭。英语模式。|
 | DISABLE | IME 关闭。用户无法通过键盘打开 IME。|
-| HIRAGANA | IME 开启全角平假名模式。|
-| KATAKANA | IME 开启全角片假名模式。|
+| HIRAGANA | IME 开启，采用全角平假名模式。|
+| KATAKANA |启用全角片假名模式的 IME。|
 | KATAKANA_HALF | IME 开启半角片假名模式。|
-| ALPHA_FULL | IME 开启全角字母数字模式。|
-| ALPHA | IME 以半角字母数字模式打开。|
-| HANGUL_FULL | IME 以全角韩语模式开启。|
-| HANGUL | IME 以半角韩语模式打开。|
-| HANZI_FULL | IME 开启全角汉字模式。|
-| HANZI | IME 开启半角汉字模式。|
+| ALPHA_FULL | IME 开启，采用全角字母数字模式。|
+| ALPHA | IME 开启，采用半角字母数字模式。|
+| HANGUL_FULL |启用全角韩语输入法模式。|
+| HANGUL |IME 开启，采用半角韩文模式。|
+| HANZI_FULL |启用全角汉字模式的 IME。|
+| HANZI | IME 开启，采用半角汉字模式。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](..)
+* 模块[`aspose.cells.drawing.activexcontrols`](..)

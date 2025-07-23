@@ -1,13 +1,13 @@
 ---
 title: get_precedents方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 180
 url: /zh/aspose.cells/cell/get_precedents/
 is_root: false
 ---
-##  get_precedents() {#}
+##  get_precedents(self) {#}
 获取此单元格公式中出现的所有引用。
 
 
@@ -17,25 +17,26 @@ is_root: false
 
 
 ```python
+
 def get_precedents(self):
     ...
 ```
 
 
-### 评论
+### 注意事项
 
-* 如果这不是公式单元格，则返回 null。所有出现在该单元格公式中的引用，无论在计算时是否被引用，都将被返回。
+* 如果这不是公式单元格，则返回 null。此单元格公式中出现的所有引用都将被返回，无论在计算时是否被引用。
 
-例如，公式“=IF(TRUE,A1,A2)”中的A2单元格在计算时虽然没有使用，
-它仍然作为公式的先例。要获得那些仅影响计算的参考，请使用 [Cell.get_precedents_in_calculation()](/cells/python-net/zh/aspose.cells/cell/get_precedents_in_calculation)。
+例如，虽然公式“=IF(TRUE,A1,A2)”在计算时没有使用单元格 A2，
+它仍然作为公式的先例。要获取仅影响计算的参考文献，请使用[`Cell.get_precedents_in_calculation`](/cells/python-net/zh/aspose.cells/cell/get_precedents_in_calculation)。
 
-* 如果这不是公式单元格，则返回 null。所有出现在该单元格公式中的引用，无论在计算时是否被引用，都将被返回。
-例如，公式“=IF(TRUE,A1,A2)”中的A2单元格在计算时虽然没有使用，
-它仍然作为公式的先例。要获得那些仅影响计算的参考，请使用 [Cell.get_precedents_in_calculation()](/cells/python-net/zh/aspose.cells/cell/get_precedents_in_calculation)。
+* 如果这不是公式单元格，则返回 null。此单元格公式中出现的所有引用都将被返回，无论在计算时是否被引用。
+例如，虽然公式“=IF(TRUE,A1,A2)”在计算时没有使用单元格 A2，
+它仍然作为公式的先例。要获取仅影响计算的参考文献，请使用[`Cell.get_precedents_in_calculation`](/cells/python-net/zh/aspose.cells/cell/get_precedents_in_calculation)。
 
-* 如果这不是公式单元格，则返回 null。所有出现在该单元格公式中的引用，无论在计算时是否被引用，都将被返回。
-例如，公式“=IF(TRUE,A1,A2)”中的A2单元格在计算时虽然没有使用，
-它仍然作为公式的先例。要获得那些仅影响计算的参考，请使用 [Cell.get_precedents_in_calculation()](/cells/python-net/zh/aspose.cells/cell/get_precedents_in_calculation)。
+* 如果这不是公式单元格，则返回 null。此单元格公式中出现的所有引用都将被返回，无论在计算时是否被引用。
+例如，虽然公式“=IF(TRUE,A1,A2)”在计算时没有使用单元格 A2，
+它仍然作为公式的先例。要获取仅影响计算的参考文献，请使用[`Cell.get_precedents_in_calculation`](/cells/python-net/zh/aspose.cells/cell/get_precedents_in_calculation)。
 ### 例子
 
 ```python
@@ -65,5 +66,5 @@ for i in range(len(areas)):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cell](/cells/python-net/zh/aspose.cells/cell)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cell`](/cells/python-net/zh/aspose.cells/cell)

@@ -1,39 +1,37 @@
 ---
-title: TextureFill الدرجة
+title: TextureFill صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 710
+weight: 690
 url: /ar/aspose.cells.drawing/texturefill/
 is_root: false
 ---
-##  TextureFill الدرجة
-لتغليف الكائن الذي يمثل تنسيق تعبئة النسيج
+##  TextureFill صف
+يغلف الكائن الذي يمثل تنسيق تعبئة الملمس
 
 
 
-**ميراث:** [TextureFill](/cells/python-net/aspose.cells.drawing/texturefill) → 
-[Fill](/cells/python-net/ar/aspose.cells.drawing/fill)
+**الميراث:** [`TextureFill`](/cells/python-net/ar/aspose.cells.drawing/texturefill)
 
 
 
-يكشف نوع TextureFill الأعضاء التالية:
+يكشف النوع TextureFill عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells.drawing/texturefill/type) | يحصل على نوع النسيج ويضبطه|
-| [image_data](/cells/python-net/ar/aspose.cells.drawing/texturefill/image_data) | الحصول على بيانات الصورة للتعبئة وتعيينها.|
-| [is_tiling](/cells/python-net/ar/aspose.cells.drawing/texturefill/is_tiling) | يشير إلى ما إذا كانت صورة التجانب على هيئة نسيج.|
-| [pic_format_option](/cells/python-net/ar/aspose.cells.drawing/texturefill/pic_format_option) | يحصل أو يحدد خيار تنسيق الصورة.|
-| [tile_pic_option](/cells/python-net/ar/aspose.cells.drawing/texturefill/tile_pic_option) | يحصل أو يحدد خيار صورة التجانب.|
-| [picture_format_type](/cells/python-net/ar/aspose.cells.drawing/texturefill/picture_format_type) | الحصول على نوع تنسيق الصورة وتعيينه.|
-| [scale](/cells/python-net/ar/aspose.cells.drawing/texturefill/scale) | الحصول على مقياس تنسيق الصورة وتعيينه.|
-| [transparency](/cells/python-net/ar/aspose.cells.drawing/texturefill/transparency) | إرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (معتم) إلى 1.0 (واضح).|
+| [type](/cells/python-net/ar/aspose.cells.drawing/texturefill/type) | يحصل على نوع الملمس ويحدده|
+| [image_data](/cells/python-net/ar/aspose.cells.drawing/texturefill/image_data) | يحصل على بيانات الصورة للتعبئة ويقوم بتعيينها.|
+| [is_tiling](/cells/python-net/ar/aspose.cells.drawing/texturefill/is_tiling) | يشير إلى ما إذا كانت صورة البلاط عبارة عن نسيج.|
+| [pic_format_option](/cells/python-net/ar/aspose.cells.drawing/texturefill/pic_format_option) | يحصل على خيار تنسيق الصورة أو يعينه.|
+| [tile_pic_option](/cells/python-net/ar/aspose.cells.drawing/texturefill/tile_pic_option) | يحصل على خيار صورة البلاط أو يعينه.|
+| [picture_format_type](/cells/python-net/ar/aspose.cells.drawing/texturefill/picture_format_type) | يحصل على نوع تنسيق الصورة ويحدده.|
+| [scale](/cells/python-net/ar/aspose.cells.drawing/texturefill/scale) | يحصل على مقياس تنسيق الصورة ويضبطه.|
+| [transparency](/cells/python-net/ar/aspose.cells.drawing/texturefill/transparency) |يقوم بإرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (غير شفافة) إلى 1.0 (واضحة).|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
-* فئة [Fill](/cells/python-net/ar/aspose.cells.drawing/fill)
-* فئة [TextureFill](/cells/python-net/ar/aspose.cells.drawing/texturefill)
+* الوحدة [`aspose.cells.drawing`](..)
+* فئة [`TextureFill`](/cells/python-net/ar/aspose.cells.drawing/texturefill)

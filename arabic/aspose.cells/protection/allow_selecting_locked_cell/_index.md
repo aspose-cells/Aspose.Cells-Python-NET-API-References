@@ -1,5 +1,5 @@
 ---
-title: allow_selecting_locked_cell الملكية
+title: allow_selecting_locked_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 180
 url: /ar/aspose.cells/protection/allow_selecting_locked_cell/
 is_root: false
 ---
-##  allow_selecting_locked_cell الملكية
+##  allow_selecting_locked_cell عقار
 
 يمثل ما إذا كان يُسمح للمستخدم بتحديد الخلايا المقفلة في ورقة عمل محمية.
 ###  تعريف:
@@ -21,5 +21,5 @@ def allow_selecting_locked_cell(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Protection](/cells/python-net/ar/aspose.cells/protection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Protection`](/cells/python-net/ar/aspose.cells/protection)

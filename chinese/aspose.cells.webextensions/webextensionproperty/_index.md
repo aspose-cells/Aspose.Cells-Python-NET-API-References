@@ -1,6 +1,6 @@
 ---
 title: WebExtensionProperty类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-WebExtensionProperty 类型公开了以下成员：
+WebExtensionProperty 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [name](/cells/python-net/zh/aspose.cells.webextensions/webextensionproperty/name) |获取和设置自定义属性名称。|
-| [value](/cells/python-net/zh/aspose.cells.webextensions/webextensionproperty/value) |获取和设置自定义属性值。|
+| [name](/cells/python-net/zh/aspose.cells.webextensions/webextensionproperty/name) |获取并设置自定义属性名称。|
+| [value](/cells/python-net/zh/aspose.cells.webextensions/webextensionproperty/value) |获取并设置自定义属性值。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.webextensions](..)
+* 模块[`aspose.cells.webextensions`](..)

@@ -3,16 +3,17 @@ title: طريقة export_xml
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells/workbook/export_xml/
 is_root: false
 ---
-##  export_xml(map_name, path) {#str-str}
-تصدير بيانات XML المرتبطة بواسطة مخطط XML المحدد.
+##  export_xml(self, map_name, path) {#str-str}
+تصدير بيانات XML المرتبطة بخريطة XML المحددة.
 
 
 
 ```python
+
 def export_xml(self, map_name, path):
     ...
 ```
@@ -20,12 +21,12 @@ def export_xml(self, map_name, path):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| map_name | str | اسم مخطط XML المطلوب تصديره|
+| map_name | str | اسم خريطة XML التي تحتاج إلى تصديرها|
 | path | str | مسار التصدير|
 
 ###  مثال
 
-قام الكود التالي بتصدير البيانات المرتبطة بأول XmlMap.
+قام الكود التالي بتصدير البيانات المرتبطة بـ XmlMap الأول.
 
 ```python
 from aspose.cells import Workbook
@@ -38,12 +39,13 @@ wb.export_xml(xmlMap.name, "output.xml")
 ```
 
 
-##  export_xml(map_name, stream) {#str-io.RawIOBase}
+##  export_xml(self, map_name, stream) {#str-io.RawIOBase}
 تصدير بيانات XML.
 
 
 
 ```python
+
 def export_xml(self, map_name, stream):
     ...
 ```
@@ -51,11 +53,11 @@ def export_xml(self, map_name, stream):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| map_name | str | اسم مخطط XML المطلوب تصديره|
+| map_name | str | اسم خريطة XML التي تحتاج إلى تصديرها|
 | stream | io.RawIOBase | تيار التصدير|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

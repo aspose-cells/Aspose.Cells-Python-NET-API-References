@@ -1,6 +1,6 @@
 ---
 title: RevisionQueryTable类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 160
@@ -12,25 +12,23 @@ is_root: false
 
 
 
-**继承：** [RevisionQueryTable](/cells/python-net/aspose.cells.revisions/revisionquerytable) → 
-[Revision](/cells/python-net/zh/aspose.cells.revisions/revision)
+**继承：** [`RevisionQueryTable`](/cells/python-net/zh/aspose.cells.revisions/revisionquerytable)
 
 
 
-RevisionQueryTable 类型公开了以下成员：
+RevisionQueryTable 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [type](/cells/python-net/zh/aspose.cells.revisions/revisionquerytable/type) |表示修订的类型。|
-| [worksheet](/cells/python-net/zh/aspose.cells.revisions/revisionquerytable/worksheet) |获取工作表。|
-| [id](/cells/python-net/zh/aspose.cells.revisions/revisionquerytable/id) |获取此修订的编号。|
+| [worksheet](/cells/python-net/zh/aspose.cells.revisions/revisionquerytable/worksheet) |  |
+| [id](/cells/python-net/zh/aspose.cells.revisions/revisionquerytable/id) |  |
 | [cell_area](/cells/python-net/zh/aspose.cells.revisions/revisionquerytable/cell_area) |获取受影响的查询表的位置。|
-| [field_id](/cells/python-net/zh/aspose.cells.revisions/revisionquerytable/field_id) |获取已删除的特定查询表字段的 ID。|
+| [field_id](/cells/python-net/zh/aspose.cells.revisions/revisionquerytable/field_id) |获取被移除的特定查询表字段的 ID。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.revisions](..)
-* 类 [Revision](/cells/python-net/zh/aspose.cells.revisions/revision)
-* 类 [RevisionQueryTable](/cells/python-net/zh/aspose.cells.revisions/revisionquerytable)
+* 模块[`aspose.cells.revisions`](..)
+* 类 [`RevisionQueryTable`](/cells/python-net/zh/aspose.cells.revisions/revisionquerytable)

@@ -1,18 +1,13 @@
 ---
-title: default_font الملكية
+title: default_font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 120
 url: /ar/aspose.cells/xpssaveoptions/default_font/
 is_root: false
 ---
-##  default_font الملكية
-
-عندما تكون الأحرف في Excel Unicode ولا يتم تعيينها بالخط الصحيح في نمط الخلية ،
-قد تظهر على شكل كتلة في صورة pdf.
-قم بتعيين الخط الافتراضي مثل MingLiu أو MS Gothic لإظهار هذه الأحرف.
-إذا لم يتم تعيين هذه الخاصية ، فسيستخدم Aspose.Cells الخط الافتراضي للنظام لإظهار أحرف unicode هذه.
+##  default_font عقار
 ###  تعريف:
 ```python
 @property
@@ -24,5 +19,5 @@ def default_font(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [XpsSaveOptions](/cells/python-net/ar/aspose.cells/xpssaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`XpsSaveOptions`](/cells/python-net/ar/aspose.cells/xpssaveoptions)

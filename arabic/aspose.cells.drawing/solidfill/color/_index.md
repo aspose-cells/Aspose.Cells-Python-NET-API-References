@@ -1,5 +1,5 @@
 ---
-title: color الملكية
+title: color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.drawing/solidfill/color/
 is_root: false
 ---
-##  color الملكية
+##  color عقار
 
-يحصل أو يحدد اللون.
+يحصل على اللون أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [SolidFill](/cells/python-net/ar/aspose.cells.drawing/solidfill)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SolidFill`](/cells/python-net/ar/aspose.cells.drawing/solidfill)

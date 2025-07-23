@@ -3,13 +3,13 @@ title: is_ascend_sort属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 370
+weight: 450
 url: /zh/aspose.cells.pivot/pivotfield/is_ascend_sort/
 is_root: false
 ---
 ## is_ascend_sort属性
 
-指示指定的数据透视表字段是否按升序自动排序。
+指示指定的数据透视表字段是否按自动升序排序。
 ### 定义：
 ```python
 @property

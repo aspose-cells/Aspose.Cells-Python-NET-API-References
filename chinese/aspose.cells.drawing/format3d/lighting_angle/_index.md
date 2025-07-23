@@ -1,15 +1,15 @@
 ---
-title: lighting_angle 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: lighting_angle属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells.drawing/format3d/lighting_angle/
 is_root: false
 ---
-## lighting_angle 属性
+## lighting_angle属性
 
-获取和设置照明角度。范围从 0 到 359.9 度。
+获取并设置光照角度。范围为 0 至 359.9 度。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def lighting_angle(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Format3D](/cells/python-net/zh/aspose.cells.drawing/format3d)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Format3D`](/cells/python-net/zh/aspose.cells.drawing/format3d)

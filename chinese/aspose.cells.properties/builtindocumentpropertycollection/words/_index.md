@@ -1,15 +1,15 @@
 ---
-title: words 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: words属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 420
 url: /zh/aspose.cells.properties/builtindocumentpropertycollection/words/
 is_root: false
 ---
-## words 属性
+## words属性
 
-表示对文档中 words 编号的估计。
+表示对文档中 words 的数量的估计。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def words(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.properties](../../)
-* 类 [BuiltInDocumentPropertyCollection](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)
+* 模块[`aspose.cells.properties`](../../)
+* 类 [`BuiltInDocumentPropertyCollection`](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)

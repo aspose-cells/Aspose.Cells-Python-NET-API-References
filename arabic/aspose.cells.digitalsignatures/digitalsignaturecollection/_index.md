@@ -1,5 +1,5 @@
 ---
-title: DigitalSignatureCollection الدرجة
+title: DigitalSignatureCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,23 +7,23 @@ weight: 20
 url: /ar/aspose.cells.digitalsignatures/digitalsignaturecollection/
 is_root: false
 ---
-##  DigitalSignatureCollection الدرجة
-يوفر مجموعة من التواقيع الرقمية المرفقة بمستند.
+##  DigitalSignatureCollection صف
+يوفر مجموعة من التوقيعات الرقمية المرفقة بالمستند.
 
 
 
-يكشف نوع DigitalSignatureCollection الأعضاء التالية:
+يكشف النوع DigitalSignatureCollection عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [DigitalSignatureCollection()](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) |مُنشئ DigitalSignatureCollection.|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) | منشئ DigitalSignatureCollection.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add(digital_signature)](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#DigitalSignature) | أضف توقيعًا واحدًا إلى DigitalSignatureCollection.|
+| [`add(self, digital_signature)`](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#aspose.cells.digitalsignatures.digitalsignature) | أضف توقيعًا واحدًا إلى DigitalSignatureCollection.|
 
 
 
@@ -48,4 +48,4 @@ for existingDs in existingDsc:
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.digitalsignatures](..)
+* الوحدة [`aspose.cells.digitalsignatures`](..)

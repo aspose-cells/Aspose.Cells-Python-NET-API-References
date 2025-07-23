@@ -1,5 +1,5 @@
 ---
-title: is_visible الملكية
+title: is_visible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 70
 url: /ar/aspose.cells.drawing/msofillformat/is_visible/
 is_root: false
 ---
-##  is_visible الملكية
+##  is_visible عقار
 
 يشير إلى ما إذا كان هناك تعبئة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoFillFormat](/cells/python-net/ar/aspose.cells.drawing/msofillformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoFillFormat`](/cells/python-net/ar/aspose.cells.drawing/msofillformat)

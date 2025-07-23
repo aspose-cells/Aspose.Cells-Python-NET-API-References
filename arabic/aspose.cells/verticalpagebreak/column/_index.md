@@ -1,5 +1,5 @@
 ---
-title: column الملكية
+title: column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/verticalpagebreak/column/
 is_root: false
 ---
-##  column الملكية
+##  column عقار
 
-الحصول على فهرس column لفاصل الصفحات الرأسي.
+يحصل على فهرس column لكسر الصفحة الرأسي.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [VerticalPageBreak](/cells/python-net/ar/aspose.cells/verticalpagebreak)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`VerticalPageBreak`](/cells/python-net/ar/aspose.cells/verticalpagebreak)

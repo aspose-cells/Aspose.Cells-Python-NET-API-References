@@ -1,15 +1,15 @@
 ---
-title: x_value الملكية
+title: x_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 420
 url: /ar/aspose.cells.charts/chartpoint/x_value/
 is_root: false
 ---
-##  x_value الملكية
+##  x_value عقار
 
-الحصول على أو تحديد قيمة X لنقطة المخطط.
+يحصل على قيمة X لنقطة الرسم البياني أو يعينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def x_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

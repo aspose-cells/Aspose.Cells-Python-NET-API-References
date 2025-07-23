@@ -1,5 +1,5 @@
 ---
-title: created_time الملكية
+title: created_time عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells/threadedcomment/created_time/
 is_root: false
 ---
-##  created_time الملكية
+##  created_time عقار
 
-الحصول على وقت إنشاء هذا التعليق المترابط وتعيينه.
+يحصل على وقت إنشاء هذا التعليق المترابط ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def created_time(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ThreadedComment](/cells/python-net/ar/aspose.cells/threadedcomment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ThreadedComment`](/cells/python-net/ar/aspose.cells/threadedcomment)

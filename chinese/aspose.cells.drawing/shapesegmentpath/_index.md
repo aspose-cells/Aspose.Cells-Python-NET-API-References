@@ -1,20 +1,20 @@
 ---
 title: ShapeSegmentPath类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 620
+weight: 590
 url: /zh/aspose.cells.drawing/shapesegmentpath/
 is_root: false
 ---
 ## ShapeSegmentPath类
-表示自由形式路径中的段路径。
+表示自由路径中的一段路径。
 
 
 
-ShapeSegmentPath 类型公开了以下成员：
+ShapeSegmentPath 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [type](/cells/python-net/zh/aspose.cells.drawing/shapesegmentpath/type) |获取路径段类型|
@@ -23,4 +23,4 @@ ShapeSegmentPath 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

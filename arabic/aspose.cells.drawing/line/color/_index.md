@@ -1,5 +1,5 @@
 ---
-title: color الملكية
+title: color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 70
 url: /ar/aspose.cells.drawing/line/color/
 is_root: false
 ---
-##  color الملكية
+##  color عقار
 
 يمثل لون الخط.
 ###  تعريف:
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)

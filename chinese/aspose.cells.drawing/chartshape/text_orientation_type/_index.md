@@ -3,13 +3,13 @@ title: text_orientation_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /zh/aspose.cells.drawing/chartshape/text_orientation_type/
 is_root: false
 ---
 ## text_orientation_type属性
 
-获取和设置形状的文本方向类型。
+获取并设置形状的文本方向类型。
 
 ### 例子
 

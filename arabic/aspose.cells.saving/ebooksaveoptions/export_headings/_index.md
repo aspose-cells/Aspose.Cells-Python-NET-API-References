@@ -3,20 +3,20 @@ title: export_headings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 340
 url: /ar/aspose.cells.saving/ebooksaveoptions/export_headings/
 is_root: false
 ---
 ##  export_headings عقار
 
-يشير إلى ما إذا كان يتم تصدير عناوين الصفوف والأعمدة في الورقة عند الحفظ في ملفات HTML.
+يشير إلى ما إذا كان يتم تصدير عناوين الصفوف والأعمدة الخاصة بالورقة عند الحفظ في الملفات HTML.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قديم الآن. بدلاً من،
-الرجاء استخدام خاصية HtmlSaveOptions.ExportRowColumnHeadings.
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ يونيو 2022.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+الرجاء استخدام الخاصية HtmlSaveOptions.ExportRowColumnHeadings.
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ يونيو 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property

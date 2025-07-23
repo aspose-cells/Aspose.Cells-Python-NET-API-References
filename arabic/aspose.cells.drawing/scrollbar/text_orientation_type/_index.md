@@ -3,13 +3,13 @@ title: text_orientation_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /ar/aspose.cells.drawing/scrollbar/text_orientation_type/
 is_root: false
 ---
 ##  text_orientation_type عقار
 
-الحصول على نوع اتجاه النص للشكل وتعيينه.
+يحصل على نوع اتجاه النص للشكل ويقوم بتعيينه.
 
 ###  مثال
 

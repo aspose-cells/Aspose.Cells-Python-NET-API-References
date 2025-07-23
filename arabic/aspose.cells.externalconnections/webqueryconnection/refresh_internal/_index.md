@@ -1,15 +1,13 @@
 ---
-title: refresh_internal الملكية
+title: refresh_internal عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 370
 url: /ar/aspose.cells.externalconnections/webqueryconnection/refresh_internal/
 is_root: false
 ---
-##  refresh_internal الملكية
-
-يحدد عدد الدقائق بين عمليات التحديث التلقائية للاتصال.
+##  refresh_internal عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def refresh_internal(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

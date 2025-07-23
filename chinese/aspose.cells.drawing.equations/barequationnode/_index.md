@@ -1,0 +1,55 @@
+---
+title: BarEquationNode类
+second_title: Aspose.Cells for Python via .NET API 参考文献
+description:
+type: docs
+weight: 30
+url: /zh/aspose.cells.drawing.equations/barequationnode/
+is_root: false
+---
+## BarEquationNode类
+该类指定了条形方程，由一个基本参数和一个上划线或下划线组成。
+
+
+
+**继承：** [`BarEquationNode`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode)
+
+
+
+BarEquationNode 类型公开以下成员：
+
+### 属性
+|属性|描述|
+| :- | :- |
+| [type](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/type) |  |
+| [start_index](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/start_index) |  |
+| [length](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/length) |  |
+| [font](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/font) |  |
+| [text_options](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/text_options) |  |
+| [equation_type](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/equation_type) |  |
+| [bar_position](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/bar_position) |该属性指定了条形对象中条形的位置|
+
+
+### 方法
+|方法|描述|
+| :- | :- |
+| [`add_child(self, equation_type)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/add_child/#aspose.cells.drawing.equations.equationnodetype) |  |
+| [`add_child(self, node)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/add_child/#equationnode) |  |
+| [`remove_child(self, node)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/remove_child/#equationnode) |  |
+| [`remove_child(self, index)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/remove_child/#int) |  |
+| [`set_word_art_style(self, style)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) |  |
+| [`to_la_te_x(self)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/to_la_te_x/#) |  |
+| [`to_math_ml(self)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/to_math_ml/#) |  |
+| [`insert_child(self, index, equation_type)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/insert_child/#int-aspose.cells.drawing.equations.equationnodetype) |  |
+| [`insert_after(self, equation_type)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/insert_after/#aspose.cells.drawing.equations.equationnodetype) |  |
+| [`insert_before(self, equation_type)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/insert_before/#aspose.cells.drawing.equations.equationnodetype) |  |
+| [`get_child(self, index)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/get_child/#int) |  |
+| [`remove(self)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/remove/#) |  |
+| [`remove_all_children(self)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/remove_all_children/#) |  |
+| [`create_node(, equation_type, workbook, parent)`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode/create_node/#aspose.cells.drawing.equations.equationnodetype-aspose.cells.workbook-equationnode) |  |
+
+
+
+### 也可以看看
+* 模块[`aspose.cells.drawing.equations`](..)
+* 类 [`BarEquationNode`](/cells/python-net/zh/aspose.cells.drawing.equations/barequationnode)

@@ -1,5 +1,5 @@
 ---
-title: plot_on_second_axis الملكية
+title: plot_on_second_axis عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 360
 url: /ar/aspose.cells.charts/series/plot_on_second_axis/
 is_root: false
 ---
-##  plot_on_second_axis الملكية
+##  plot_on_second_axis عقار
 
-الإشارة إلى ما إذا تم رسم هذه السلسلة على محور القيمة الثاني.
+يشير إلى ما إذا كانت هذه السلسلة مرسومة على محور القيمة الثاني.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def plot_on_second_axis(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

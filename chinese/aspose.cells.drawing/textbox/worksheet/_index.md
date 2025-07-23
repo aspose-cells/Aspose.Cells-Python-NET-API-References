@@ -3,7 +3,7 @@ title: worksheet属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /zh/aspose.cells.drawing/textbox/worksheet/
 is_root: false
 ---

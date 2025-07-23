@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/horizontalpagebreakcollection/add/
 is_root: false
 ---
-##  add(row) {#int}
-يضيف فاصل صفحات أفقيًا إلى المجموعة.
+##  add(self, row) {#int}
+إضافة فاصل صفحة أفقي للمجموعة.
 
 
 ###  عائدات
 
-[HorizontalPageBreak](/cells/python-net/ar/aspose.cells/horizontalpagebreak) فهرس العنصر.
+[`HorizontalPageBreak`](/cells/python-net/ar/aspose.cells/horizontalpagebreak) فهرس الكائن.
 
 
 ```python
+
 def add(self, row):
     ...
 ```
@@ -24,22 +25,23 @@ def add(self, row):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | Cell صف فهرس ، على أساس الصفر.|
+| row | int | Cell مؤشر الصف، يعتمد على الصفر.|
 ###  ملاحظات
 
-تتم إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
-يرجى تعيين فاصل صفحة أفقي وفاصل صفحة عمودي في نفس الوقت.
+تمت إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
+يرجى تعيين فاصل الصفحة الأفقي وفاصل الصفحة الرأسي في نفس الوقت.
 
-##  add(cell_name) {#str}
-يضيف فاصل صفحات أفقيًا إلى المجموعة.
+##  add(self, cell_name) {#str}
+إضافة فاصل صفحة أفقي للمجموعة.
 
 
 ###  عائدات
 
-[HorizontalPageBreak](/cells/python-net/ar/aspose.cells/horizontalpagebreak) فهرس العنصر.
+[`HorizontalPageBreak`](/cells/python-net/ar/aspose.cells/horizontalpagebreak) فهرس الكائن.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -50,19 +52,20 @@ def add(self, cell_name):
 | cell_name | str | Cell الاسم.|
 ###  ملاحظات
 
-تتم إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
-يرجى تعيين فاصل صفحة أفقي وفاصل صفحة عمودي في نفس الوقت.
+تمت إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
+يرجى تعيين فاصل الصفحة الأفقي وفاصل الصفحة الرأسي في نفس الوقت.
 
-##  add(row, column) {#int-int}
-يضيف فاصل صفحات أفقيًا إلى المجموعة.
+##  add(self, row, column) {#int-int}
+إضافة فاصل صفحة أفقي للمجموعة.
 
 
 ###  عائدات
 
-[HorizontalPageBreak](/cells/python-net/ar/aspose.cells/horizontalpagebreak) فهرس العنصر.
+[`HorizontalPageBreak`](/cells/python-net/ar/aspose.cells/horizontalpagebreak) فهرس الكائن.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -70,23 +73,24 @@ def add(self, row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | Cell صف فهرس ، على أساس الصفر.|
-| column | int | Cell عمود فهرس ، قائم على الصفر.|
+| row | int | Cell مؤشر الصف، يعتمد على الصفر.|
+| column | int | Cell فهرس العمود، يعتمد على الصفر.|
 ###  ملاحظات
 
-تتم إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
-يرجى تعيين فاصل صفحة أفقي وفاصل صفحة عمودي في نفس الوقت.
+تمت إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
+يرجى تعيين فاصل الصفحة الأفقي وفاصل الصفحة الرأسي في نفس الوقت.
 
-##  add(row, start_column, end_column) {#int-int-int}
-يضيف فاصل صفحات أفقيًا إلى المجموعة.
+##  add(self, row, start_column, end_column) {#int-int-int}
+إضافة فاصل صفحة أفقي للمجموعة.
 
 
 ###  عائدات
 
-[HorizontalPageBreak](/cells/python-net/ar/aspose.cells/horizontalpagebreak) فهرس العنصر.
+[`HorizontalPageBreak`](/cells/python-net/ar/aspose.cells/horizontalpagebreak) فهرس الكائن.
 
 
 ```python
+
 def add(self, row, start_column, end_column):
     ...
 ```
@@ -94,16 +98,16 @@ def add(self, row, start_column, end_column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | مؤشر الصف ، على أساس الصفر.|
-| start_column | int | فهرس عمود البداية ، قائم على الصفر.|
-| end_column | int | مؤشر عمود النهاية ، قائم على الصفر.|
+| row | int | مؤشر الصف، يعتمد على الصفر.|
+| start_column | int | مؤشر العمود الأولي، على أساس الصفر.|
+| end_column | int | مؤشر العمود النهائي، يعتمد على الصفر.|
 ###  ملاحظات
 
-تستخدم هذه الطريقة في add فاصل صفحات أفقي داخل منطقة الطباعة.
+يتم استخدام هذه الطريقة لإنشاء كسر أفقي للصفحة ضمن منطقة الطباعة.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [HorizontalPageBreak](/cells/python-net/ar/aspose.cells/horizontalpagebreak)
-* فئة [HorizontalPageBreakCollection](/cells/python-net/ar/aspose.cells/horizontalpagebreakcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HorizontalPageBreak`](/cells/python-net/ar/aspose.cells/horizontalpagebreak)
+* فئة [`HorizontalPageBreakCollection`](/cells/python-net/ar/aspose.cells/horizontalpagebreakcollection)

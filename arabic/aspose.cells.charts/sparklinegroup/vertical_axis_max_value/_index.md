@@ -1,5 +1,5 @@
 ---
-title: vertical_axis_max_value الملكية
+title: vertical_axis_max_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 280
 url: /ar/aspose.cells.charts/sparklinegroup/vertical_axis_max_value/
 is_root: false
 ---
-##  vertical_axis_max_value الملكية
+##  vertical_axis_max_value عقار
 
-الحصول على القيمة القصوى المخصصة للمحور العمودي وتعيينها.
+يحصل على الحد الأقصى للقيمة المخصصة للمحور الرأسي ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def vertical_axis_max_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [SparklineGroup](/cells/python-net/ar/aspose.cells.charts/sparklinegroup)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`SparklineGroup`](/cells/python-net/ar/aspose.cells.charts/sparklinegroup)

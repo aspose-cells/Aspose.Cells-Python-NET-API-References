@@ -3,13 +3,13 @@ title: auto_update属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 340
+weight: 350
 url: /zh/aspose.cells.drawing/oleobject/auto_update/
 is_root: false
 ---
 ## auto_update属性
 
-指定是否自动更新 OleObject 的链接。
+指定是否自动更新到 OleObject 的链接。
 ### 定义：
 ```python
 @property

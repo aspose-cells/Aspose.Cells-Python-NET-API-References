@@ -7,12 +7,13 @@ weight: 30
 url: /zh/aspose.cells.rendering/workbookrender/dispose/
 is_root: false
 ---
-##  dispose {#}
-释放创建并用于渲染的资源。
+##  dispose(self) {#}
+释放为渲染创建和使用的资源。
 
 
 
 ```python
+
 def dispose(self):
     ...
 ```

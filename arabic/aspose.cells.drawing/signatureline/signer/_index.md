@@ -1,15 +1,15 @@
 ---
-title: signer الملكية
+title: signer عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.drawing/signatureline/signer/
 is_root: false
 ---
-##  signer الملكية
+##  signer عقار
 
-يحصل على signer ويضبطه.
+يحصل على أو يعين signer.
 
 ###  مثال
 
@@ -32,5 +32,5 @@ def signer(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline)

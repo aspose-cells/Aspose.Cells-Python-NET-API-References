@@ -7,12 +7,13 @@ weight: 130
 url: /ar/aspose.cells/cells/clear_range/
 is_root: false
 ---
-##  clear_range(range) {#CellArea}
-يمسح محتويات وتنسيق النطاق.
+##  clear_range(self, range) {#aspose.cells.CellArea}
+مسح محتويات وتنسيق النطاق.
 
 
 
 ```python
+
 def clear_range(self, range):
     ...
 ```
@@ -20,15 +21,16 @@ def clear_range(self, range):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| range | [CellArea](/cells/python-net/ar/aspose.cells/cellarea) | النطاق المراد مسحه.|
+| range | [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea) | المدى الذي يجب تطهيره.|
 
 
-##  clear_range(start_row, start_column, end_row, end_column) {#int-int-int-int}
-يمسح محتويات وتنسيق النطاق.
+##  clear_range(self, start_row, start_column, end_row, end_column) {#int-int-int-int}
+مسح محتويات وتنسيق النطاق.
 
 
 
 ```python
+
 def clear_range(self, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -36,13 +38,13 @@ def clear_range(self, start_row, start_column, end_row, end_column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| start_row | int | فهرس صف البداية.|
-| start_column | int | فهرس عمود البداية.|
-| end_row | int | فهرس صف النهاية.|
-| end_column | int | فهرس عمود النهاية.|
+| start_row | int | مؤشر الصف الأول.|
+| start_column | int |مؤشر العمود البداية.|
+| end_row | int | مؤشر الصف النهائي.|
+| end_column | int | مؤشر العمود النهائي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

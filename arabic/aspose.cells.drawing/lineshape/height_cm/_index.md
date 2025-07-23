@@ -3,7 +3,7 @@ title: height_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 490
 url: /ar/aspose.cells.drawing/lineshape/height_cm/
 is_root: false
 ---

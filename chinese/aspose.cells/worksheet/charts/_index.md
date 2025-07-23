@@ -3,13 +3,13 @@ title: charts属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 430
 url: /zh/aspose.cells/worksheet/charts/
 is_root: false
 ---
 ## charts属性
 
-获取[`Chart`](/cells/python-net/zh/aspose.cells.charts/chart)集合
+获取 [`Chart`](/cells/python-net/zh/aspose.cells.charts/chart) 集合
 ### 定义：
 ```python
 @property

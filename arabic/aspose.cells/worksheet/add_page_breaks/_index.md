@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/worksheet/add_page_breaks/
 is_root: false
 ---
-##  add_page_breaks(cell_name) {#str}
-يضيف فاصل صفحة.
+##  add_page_breaks(self, cell_name) {#str}
+إضافة فاصل الصفحة.
 
 
 
 ```python
+
 def add_page_breaks(self, cell_name):
     ...
 ```
@@ -25,5 +26,5 @@ def add_page_breaks(self, cell_name):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

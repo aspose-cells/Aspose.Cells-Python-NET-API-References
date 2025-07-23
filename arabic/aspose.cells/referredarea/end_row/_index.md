@@ -1,5 +1,5 @@
 ---
-title: end_row الملكية
+title: end_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/referredarea/end_row/
 is_root: false
 ---
-##  end_row الملكية
+##  end_row عقار
 
-صف نهاية المنطقة.
+الصف نهاية المنطقة.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ReferredArea](/cells/python-net/ar/aspose.cells/referredarea)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ReferredArea`](/cells/python-net/ar/aspose.cells/referredarea)

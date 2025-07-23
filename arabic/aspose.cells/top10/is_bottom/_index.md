@@ -1,5 +1,5 @@
 ---
-title: is_bottom الملكية
+title: is_bottom عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 30
 url: /ar/aspose.cells/top10/is_bottom/
 is_root: false
 ---
-##  is_bottom الملكية
+##  is_bottom عقار
 
-احصل على أو عيّن ما إذا كانت قاعدة "أعلى / أسفل" قاعدة "سفلية".
-القيمة الافتراضية هي كاذبة.
+احصل على أو قم بتعيين ما إذا كانت قاعدة "أعلى/أسفل n" هي قاعدة "أسفل n".
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_bottom(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Top10](/cells/python-net/ar/aspose.cells/top10)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Top10`](/cells/python-net/ar/aspose.cells/top10)

@@ -1,13 +1,13 @@
 ---
-title: left_margin_pt الملكية
+title: left_margin_pt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells.drawing.texts/shapetextalignment/left_margin_pt/
 is_root: false
 ---
-##  left_margin_pt الملكية
+##  left_margin_pt عقار
 
 إرجاع الهامش الأيسر بوحدة النقاط
 
@@ -29,5 +29,5 @@ def left_margin_pt(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [ShapeTextAlignment](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`ShapeTextAlignment`](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)

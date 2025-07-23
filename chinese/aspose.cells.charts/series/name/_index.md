@@ -1,15 +1,15 @@
 ---
-title: name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 340
 url: /zh/aspose.cells.charts/series/name/
 is_root: false
 ---
-## name 属性
+## name属性
 
-获取或设置数据系列的 name。
+获取或设置数据系列的name。
 
 ### 例子
 
@@ -32,5 +32,5 @@ def name(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Series](/cells/python-net/zh/aspose.cells.charts/series)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Series`](/cells/python-net/zh/aspose.cells.charts/series)

@@ -3,13 +3,13 @@ title: export_data_options عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 280
 url: /ar/aspose.cells/htmlsaveoptions/export_data_options/
 is_root: false
 ---
 ##  export_data_options عقار
 
-تشير إلى قاعدة تصدير بيانات ملف html. القيمة الافتراضية هي الكل.
+يشير إلى قاعدة تصدير بيانات ملف html. القيمة الافتراضية هي الكل.
 ###  تعريف:
 ```python
 @property

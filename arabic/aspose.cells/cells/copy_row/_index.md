@@ -7,12 +7,13 @@ weight: 170
 url: /ar/aspose.cells/cells/copy_row/
 is_root: false
 ---
-##  copy_row(source_cells, source_row_index, destination_row_index) {#Cells-int-int}
-ينسخ بيانات وتنسيقات صف كامل.
+##  copy_row(self, source_cells, source_row_index, destination_row_index) {#aspose.cells.Cells-int-int}
+نسخ البيانات وتنسيقات الصف بأكمله.
 
 
 
 ```python
+
 def copy_row(self, source_cells, source_row_index, destination_row_index):
     ...
 ```
@@ -20,12 +21,12 @@ def copy_row(self, source_cells, source_row_index, destination_row_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| source_cells | [Cells](/cells/python-net/ar/aspose.cells/cells) | عنصر المصدر Cells يحتوي على بيانات وتنسيقات لنسخها.|
-| source_row_index | int | فهرس صف المصدر.|
-| destination_row_index | int | فهرس صف الوجهة.|
+| source_cells | [`Cells`](/cells/python-net/ar/aspose.cells/cells) | يحتوي الكائن المصدر Cells على بيانات وتنسيقات للنسخ.|
+| source_row_index | int | مؤشر صف المصدر.|
+| destination_row_index | int | مؤشر صف الوجهة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

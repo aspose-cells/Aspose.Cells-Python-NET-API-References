@@ -1,5 +1,5 @@
 ---
-title: min_length الملكية
+title: min_length عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 130
 url: /ar/aspose.cells/databar/min_length/
 is_root: false
 ---
-##  min_length الملكية
+##  min_length عقار
 
 يمثل الحد الأدنى لطول شريط البيانات.
 ###  تعريف:
@@ -21,5 +21,5 @@ def min_length(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataBar](/cells/python-net/ar/aspose.cells/databar)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataBar`](/cells/python-net/ar/aspose.cells/databar)

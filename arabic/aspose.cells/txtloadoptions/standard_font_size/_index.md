@@ -3,19 +3,19 @@ title: standard_font_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 390
 url: /ar/aspose.cells/txtloadoptions/standard_font_size/
 is_root: false
 ---
 ##  standard_font_size عقار
 
-يضبط حجم الخط القياسي الافتراضي.
+تعيين حجم الخط القياسي الافتراضي.
 
 ###  ملاحظات
 
-ملاحظة: هذا العضو قديم الآن. بدلاً من ذلك، الرجاء استخدام DefaultStyleSettings.
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ مارس 2022.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذا العنصر أصبح قديمًا. استخدم DefaultStyleSettings بدلاً منه.
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ مارس 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property

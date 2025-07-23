@@ -3,13 +3,13 @@ title: text属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1110
+weight: 1130
 url: /zh/aspose.cells.drawing/picture/text/
 is_root: false
 ---
 ## text属性
 
-表示此 TextBox 对象中的字符串。
+获取并设置此形状的 text。
 
 ### 例子
 

@@ -3,7 +3,7 @@ title: HyperlinkType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2260
+weight: 2220
 url: /ar/aspose.cells/hyperlinktype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ is_root: false
 | مجال| وصف|
 | :- | :- |
 | URL | URL |
-| FILE | رابط للملف الخارجي.|
+| FILE | رابط إلى ملف خارجي.|
 | CELL | ربط خلية المصنف.|
 | UNKNOWN | نوع غير معروف.|
 

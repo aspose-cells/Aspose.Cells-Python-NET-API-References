@@ -8,21 +8,21 @@ url: /zh/aspose.cells.charts/bar3dshapetype/
 is_root: false
 ---
 ## Bar3DShapeType枚举
-表示与 3-D 条形图或柱形图一起使用的形状。
+代表三维条形图或柱形图所使用的形状。
 
 
 
 Bar3DShapeType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | BOX |盒子|
 | PYRAMID_TO_POINT |金字塔到点|
-| PYRAMID_TO_MAX |金字塔到最大|
+| PYRAMID_TO_MAX |金字塔转最大|
 | CYLINDER |圆柱|
-| CONE_TO_POINT |锥到点|
-| CONE_TO_MAX |锥到最大|
+| CONE_TO_POINT |锥体到点|
+| CONE_TO_MAX |ConeToMax|
 
 
 

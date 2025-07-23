@@ -3,7 +3,7 @@ title: LoadFormat التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2290
+weight: 2250
 url: /ar/aspose.cells/loadformat/
 is_root: false
 ---
@@ -18,26 +18,30 @@ is_root: false
 | مجال| وصف|
 | :- | :- |
 | AUTO | يمثل التعرف على التنسيق تلقائيًا.|
-| CSV | القيم المفصولة بفواصل (CSV) ملف نصي.<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`LoadFormat.CSV`](/cells/python-net/ar/aspose.cells/loadformat#CSV).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
+| CSV | ملف نصي للقيم المنفصلة بفاصلة (CSV).<br/> ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،<br/>من فضلك استخدم رقم العقار [`LoadFormat.CSV`](/cells/python-net/ar/aspose.cells/loadformat#CSV).<br/> سيتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون واجهته.|
 | XLSX | يمثل مصنف أو قالب جدول بيانات Office Open XML، مع وحدات ماكرو أو بدونها.|
-| TSV | القيم المفصولة بعلامات جدولة (TSV) ملف نصي.<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`LoadFormat.TSV`](/cells/python-net/ar/aspose.cells/loadformat#TSV).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
-| TAB_DELIMITED | يمثل ملفًا نصيًا محددًا بعلامات جدولة، كما هو الحال مع [`LoadFormat.TSV`](/cells/python-net/ar/aspose.cells/loadformat#TSV).|
-| HTML | يمثل ملف HTML.|
-| M_HTML | يمثل ملف MHTML.|
-| ODS | افتح ملف ورقة المستندات (ODS).<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`LoadFormat.ODS`](/cells/python-net/ar/aspose.cells/loadformat#ODS).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
-| EXCEL_97_TO_2003 | يمثل ملف Excel97-2003 XLS.|
-| SPREADSHEET_ML | يمثل ملف Excel 2003 xml.|
+| TSV | ملف نصي القيم المنفصلة بعلامات التبويب (TSV).<br/> ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،<br/>من فضلك استخدم رقم العقار [`LoadFormat.TSV`](/cells/python-net/ar/aspose.cells/loadformat#TSV).<br/> سيتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون واجهته.|
+| TAB_DELIMITED | يمثل ملف نصي محدد بعلامات تبويب، مثل [`LoadFormat.TSV`](/cells/python-net/ar/aspose.cells/loadformat#TSV).|
+| HTML | يمثل ملف html.|
+| M_HTML |يمثل ملف mhtml.|
+| ODS | ملف ورقة المستندات المفتوحة (ODS).<br/> ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،<br/>من فضلك استخدم رقم العقار [`LoadFormat.ODS`](/cells/python-net/ar/aspose.cells/loadformat#ODS).<br/> سيتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون واجهته.|
+| EXCEL_97_TO_2003 | يمثل ملف XLS Excel97-2003.|
+| SPREADSHEET_ML | يمثل ملف XML الخاص بـ Excel 2003.|
 | XLSB | يمثل ملف xlsb.|
-| OTS | افتح ملف ورقة قالب المستند (OTS).|
-| NUMBERS | يمثل ملف أرقام.|
-| FODS | يمثل تنسيق ملف OpenDocument Flat XML Spreadsheet (.fods).<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`LoadFormat.FODS`](/cells/python-net/ar/aspose.cells/loadformat#FODS).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
-| SXC | يمثل تنسيق ملف StarOffice Calc Spreadsheet (.sxc).<br/> ملاحظة: هذا العضو قديم الآن. بدلاً من،<br/>يرجى استخدام خاصية [`LoadFormat.SXC`](/cells/python-net/ar/aspose.cells/loadformat#SXC).<br/> ستتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose نعتذر عن أي إزعاج قد تعرضت له.|
+| OTS | ملف ورقة قالب المستند المفتوح (OTS).|
+| NUMBERS | يمثل ملف الأرقام.|
+| FODS | يمثل تنسيق ملف OpenDocument Flat XML Spreadsheet (.fods).<br/> ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،<br/>من فضلك استخدم رقم العقار [`LoadFormat.FODS`](/cells/python-net/ar/aspose.cells/loadformat#FODS).<br/> سيتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون واجهته.|
+| SXC | يمثل تنسيق ملف StarOffice Calc Spreadsheet (.sxc).<br/> ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،<br/>من فضلك استخدم رقم العقار [`LoadFormat.SXC`](/cells/python-net/ar/aspose.cells/loadformat#SXC).<br/> سيتم إزالة هذه الخاصية بعد 6 أشهر منذ أبريل 2021.<br/> Aspose يعتذر عن أي إزعاج قد يكون واجهته.|
 | XML | يمثل ملف XML بسيط.|
-| EPUB | يعيد إنتاج ملف EPUB.|
-| AZW3 |يمثل ملف AZW3.|
-| UNKNOWN | يمثل تنسيقًا غير معروف، ولا يمكن تحميله.|
+| EPUB | يمثل ملف EPUB.|
+| AZW3 | يمثل ملف AZW3.|
+| CHM | يمثل ملف CHM.|
+| MARKDOWN | يمثل ملف Markdown.|
+| UNKNOWN |يمثل تنسيقًا غير معروف، ولا يمكن تحميله.|
 | IMAGE | صورة|
-| JSON | جسون|
+| JSON | جيسون|
+| DIF | تنسيق تبادل البيانات.|
+| DBF | ملف بيانات Xbase|
 
 
 

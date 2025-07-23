@@ -3,13 +3,13 @@ title: is_automatic_major_unit属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 190
+weight: 200
 url: /zh/aspose.cells.charts/axis/is_automatic_major_unit/
 is_root: false
 ---
 ## is_automatic_major_unit属性
 
-指示是否自动分配轴的主要单位。
+指示是否自动分配轴的主单位。
 ### 定义：
 ```python
 @property

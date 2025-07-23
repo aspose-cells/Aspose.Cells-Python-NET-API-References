@@ -1,5 +1,5 @@
 ---
-title: pattern الملكية
+title: pattern عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 250
 url: /ar/aspose.cells.drawing/lineformat/pattern/
 is_root: false
 ---
-##  pattern الملكية
+##  pattern عقار
 
 يمثل عرض المنطقة pattern.
 ###  تعريف:
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [FillPattern](/cells/python-net/ar/aspose.cells.drawing/fillpattern)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`FillPattern`](/cells/python-net/ar/aspose.cells.drawing/fillpattern)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)

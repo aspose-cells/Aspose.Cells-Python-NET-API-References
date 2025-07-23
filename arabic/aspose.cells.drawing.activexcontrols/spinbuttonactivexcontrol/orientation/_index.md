@@ -1,5 +1,5 @@
 ---
-title: orientation الملكية
+title: orientation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 200
 url: /ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/orientation/
 is_root: false
 ---
-##  orientation الملكية
+##  orientation عقار
 
-الحصول على وتعيين ما إذا كان SpinButton أو ScrollBar موجهًا رأسيًا أو أفقيًا.
+يحصل ويحدد ما إذا كان SpinButton أو ScrollBar موجهًا عموديًا أو أفقيًا.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ControlScrollOrientation](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/controlscrollorientation)
-* فئة [SpinButtonActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ControlScrollOrientation`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/controlscrollorientation)
+* فئة [`SpinButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

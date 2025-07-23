@@ -3,14 +3,14 @@ title: is_repeat_item_labels عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 530
 url: /ar/aspose.cells.pivot/pivotfield/is_repeat_item_labels/
 is_root: false
 ---
 ##  is_repeat_item_labels عقار
 
-يشير إلى ما إذا كان الحقل يمكنه تكرار تسميات العناصر
-القيمة الافتراضية هي كاذبة.
+يشير إلى ما إذا كان يتم تكرار تسميات الحقل في المنطقة.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

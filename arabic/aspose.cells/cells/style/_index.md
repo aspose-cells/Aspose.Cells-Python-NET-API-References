@@ -3,13 +3,13 @@ title: style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1300
+weight: 1330
 url: /ar/aspose.cells/cells/style/
 is_root: false
 ---
 ##  style عقار
 
-الحصول على الرقم الافتراضي style لورقة العمل وتعيينه.
+يحصل على القيمة الافتراضية style للورقة العاملة ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property

@@ -1,51 +1,51 @@
 ---
-title: FontSettingCollection الدرجة
+title: FontSettingCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 40
 url: /ar/aspose.cells.drawing.texts/fontsettingcollection/
 is_root: false
 ---
-##  FontSettingCollection الدرجة
-تمثل قائمة [FontSetting](/cells/python-net/ar/aspose.cells/fontsetting).
+##  FontSettingCollection صف
+يمثل قائمة [`FontSetting`](/cells/python-net/ar/aspose.cells/fontsetting).
 
 
 
-يكشف نوع FontSettingCollection الأعضاء التالية:
+يكشف النوع FontSettingCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [text_alignment](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/text_alignment) | يمثل إعداد المحاذاة لنص النص.|
-| [text_paragraphs](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/text_paragraphs) | يحصل على كل الفقرات.|
-| [text](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/text) | الحصول على نص الشكل وتعيينه.|
-| [html_string](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/html_string) | الحصول على وتعيين سلسلة html التي تحتوي على بيانات وبعض التنسيقات في هذا الشكل.|
-| [capacity](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/capacity) | الحصول على أو تحديد عدد العناصر التي يمكن أن تحتويها قائمة الصفيف.|
+| [text_alignment](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/text_alignment) |يمثل إعداد محاذاة نص الجسم.|
+| [text_paragraphs](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/text_paragraphs) | يحصل على كافة الفقرات.|
+| [text](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/text) | يحصل على نص الشكل ويحدده.|
+| [html_string](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/html_string) | يحصل على سلسلة HTML التي تحتوي على البيانات وبعض التنسيقات بهذا الشكل ويقوم بتعيينها.|
+| [capacity](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/capacity) | يحصل على عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة أو يعينها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [replace(index, count, text)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/replace/#int-int-str) | استبدل النص.|
-| [replace(old_value, new_value)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/replace/#str-str) | استبدل النص.|
-| [copy_to(array)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/copy_to/#list) | ينسخ قائمة المصفوفات بأكملها إلى قائمة مصفوفة متوافقة أحادية البعد ، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/copy_to/#int-list-int-int) |ينسخ نطاقًا من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة ، بدءًا من الفهرس المحدد لقائمة الصفيف الهدف.|
-| [index_of(item, index)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/index_of/#FontSetting-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of(item, index, count)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/index_of/#FontSetting-int-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ بالفهرس المحدد ويحتوي على عدد محدد من العناصر.|
-| [last_index_of(item)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/last_index_of/#FontSetting) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of(item, index)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/last_index_of/#FontSetting-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of(item, index, count)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/last_index_of/#FontSetting-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
-| [set_word_art_style(style)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/set_word_art_style/#PresetWordArtStyle) | يعيّن نمط WordArt المعين مسبقًا.|
-| [get_paragraph_enumerator()](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/get_paragraph_enumerator/#) | يحصل على تعداد الفقرات.|
-| [append_text(text)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/append_text/#str) | يُلحق النص.|
-| [insert_text(index, text)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/insert_text/#int-str) | أدخل الفهرس في الموضع.|
-| [delete_text(index, count)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/delete_text/#int-int) | احذف بعض الأحرف.|
-| [format(start_index, length, font, flag)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/format/#int-int-Font-StyleFlag) | تنسيق النص مع إعداد الخط.|
-| [binary_search(item)](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/binary_search/#FontSetting) | يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.|
+| [`replace(self, index, count, text)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/replace/#int-int-str) | استبدال النص.|
+| [`replace(self, old_value, new_value)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/replace/#str-str) | استبدال النص.|
+| [`copy_to(self, array)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/copy_to/#list) |يقوم بنسخ قائمة المصفوفة بأكملها إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من بداية قائمة المصفوفة المستهدفة.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/copy_to/#int-list-int-int) | يقوم بنسخ مجموعة من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لقائمة المصفوفة المستهدفة.|
+| [`index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/index_of/#aspose.cells.fontsetting-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/index_of/#aspose.cells.fontsetting-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ بالفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [`last_index_of(self, item)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/last_index_of/#aspose.cells.fontsetting) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن قائمة المصفوفة بأكملها.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/last_index_of/#aspose.cells.fontsetting-int) |يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/last_index_of/#aspose.cells.fontsetting-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبدئي للصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
+| [`set_word_art_style(self, style)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) | تعيين نمط WordArt المحدد مسبقًا.|
+| [`get_paragraph_enumerator(self)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/get_paragraph_enumerator/#) | يحصل على عداد الفقرات.|
+| [`append_text(self, text)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/append_text/#str) | يضيف النص.|
+| [`insert_text(self, index, text)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/insert_text/#int-str) | أدخل الفهرس في الموضع.|
+| [`delete_text(self, index, count)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/delete_text/#int-int) | حذف بعض الأحرف.|
+| [`format(self, start_index, length, font, flag)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/format/#int-int-aspose.cells.font-aspose.cells.styleflag) | تنسيق النص باستخدام إعدادات الخط.|
+| [`binary_search(self, item)`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection/binary_search/#aspose.cells.fontsetting) | يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
-* فئة [FontSetting](/cells/python-net/ar/aspose.cells/fontsetting)
+* الوحدة [`aspose.cells.drawing.texts`](..)
+* فئة [`FontSetting`](/cells/python-net/ar/aspose.cells/fontsetting)

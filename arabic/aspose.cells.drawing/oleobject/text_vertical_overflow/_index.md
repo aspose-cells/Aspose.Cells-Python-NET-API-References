@@ -3,13 +3,13 @@ title: text_vertical_overflow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /ar/aspose.cells.drawing/oleobject/text_vertical_overflow/
 is_root: false
 ---
 ##  text_vertical_overflow عقار
 
-الحصول على نوع التجاوز الرأسي للنص وتعيينه للشكل الذي يحتوي على نص.
+يحصل على نوع التدفق العمودي للنص للشكل الذي يحتوي على نص ويقوم بتعيينه.
 
 ###  مثال
 

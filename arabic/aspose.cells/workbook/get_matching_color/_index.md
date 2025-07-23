@@ -3,11 +3,11 @@ title: طريقة get_matching_color
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ar/aspose.cells/workbook/get_matching_color/
 is_root: false
 ---
-##  get_matching_color(raw_color) {#aspose.pydrawing.Color}
+##  get_matching_color(self, raw_color) {#aspose.pydrawing.Color}
 ابحث عن أفضل لون مطابق في اللوحة الحالية.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_matching_color(self, raw_color):
     ...
 ```
@@ -29,5 +30,5 @@ def get_matching_color(self, raw_color):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

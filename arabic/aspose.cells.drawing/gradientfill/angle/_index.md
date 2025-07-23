@@ -1,5 +1,5 @@
 ---
-title: angle الملكية
+title: angle عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.drawing/gradientfill/angle/
 is_root: false
 ---
-##  angle الملكية
+##  angle عقار
 
-angle تعبئة خطية.
+angle من التعبئة الخطية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def angle(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GradientFill](/cells/python-net/ar/aspose.cells.drawing/gradientfill)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GradientFill`](/cells/python-net/ar/aspose.cells.drawing/gradientfill)

@@ -3,7 +3,7 @@ title: refers_to属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 380
+weight: 480
 url: /zh/aspose.cells/range/refers_to/
 is_root: false
 ---

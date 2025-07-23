@@ -3,12 +3,12 @@ title: ExternalLink صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 570
 url: /ar/aspose.cells/externallink/
 is_root: false
 ---
 ##  ExternalLink صف
-يمثل رابطًا خارجيًا في المصنف.
+يمثل رابطًا خارجيًا في مصنف.
 
 
 
@@ -17,17 +17,18 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells/externallink/type) | يحصل على نوع الارتباط الخارجي.|
-| [original_data_source](/cells/python-net/ar/aspose.cells/externallink/original_data_source) | يمثل مصدر البيانات المخزنة للارتباط الخارجي.|
-| [data_source](/cells/python-net/ar/aspose.cells/externallink/data_source) | يمثل مصدر بيانات الارتباط الخارجي.|
-| [is_referred](/cells/python-net/ar/aspose.cells/externallink/is_referred) | يشير إلى ما إذا كان هذا الارتباط الخارجي قد تمت الإشارة إليه من قبل الآخرين.|
-| [is_visible](/cells/python-net/ar/aspose.cells/externallink/is_visible) | يشير إلى ما إذا كان هذا الارتباط الخارجي مرئيًا في MS Excel.|
+| [type](/cells/python-net/ar/aspose.cells/externallink/type) | يحصل على نوع الرابط الخارجي.|
+| [path_type](/cells/python-net/ar/aspose.cells/externallink/path_type) | احصل على نوع المسار لهذا الرابط الخارجي|
+| [original_data_source](/cells/python-net/ar/aspose.cells/externallink/original_data_source) | يمثل مصدر البيانات المخزنة للرابط الخارجي.|
+| [data_source](/cells/python-net/ar/aspose.cells/externallink/data_source) | يمثل مصدر البيانات للرابط الخارجي.|
+| [is_referred](/cells/python-net/ar/aspose.cells/externallink/is_referred) | يشير إلى ما إذا كان هذا الرابط الخارجي يتم الإشارة إليه من قبل الآخرين.|
+| [is_visible](/cells/python-net/ar/aspose.cells/externallink/is_visible) | يشير إلى ما إذا كان هذا الرابط الخارجي مرئيًا في MS Excel.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add_external_name](/cells/python-net/ar/aspose.cells/externallink/add_external_name/#str-str) | يضيف اسمًا خارجيًا.|
+| [`add_external_name(self, text, refer_to)`](/cells/python-net/ar/aspose.cells/externallink/add_external_name/#str-str) | يضيف اسمًا خارجيًا.|
 
 
 

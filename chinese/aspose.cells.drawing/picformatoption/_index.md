@@ -1,26 +1,26 @@
 ---
 title: PicFormatOption类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 440
+weight: 420
 url: /zh/aspose.cells.drawing/picformatoption/
 is_root: false
 ---
 ## PicFormatOption类
-代表图片格式选项
+表示图片格式选项
 
 
 
-PicFormatOption 类型公开了以下成员：
+PicFormatOption 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [PicFormatOption()](/cells/python-net/zh/aspose.cells.drawing/picformatoption/__init__/#) |构造 PicFormatOption 的新实例|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells.drawing/picformatoption/__init__/#) |构造一个新的 PicFormatOption 实例|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [type](/cells/python-net/zh/aspose.cells.drawing/picformatoption/type) |获取或设置图片填充类型。|
@@ -33,4 +33,4 @@ PicFormatOption 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

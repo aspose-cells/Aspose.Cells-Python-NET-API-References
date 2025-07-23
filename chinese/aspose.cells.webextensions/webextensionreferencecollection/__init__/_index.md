@@ -1,18 +1,19 @@
 ---
-title: WebExtensionReferenceCollection 构造函数
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: WebExtensionReferenceCollection 施工人员
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
 url: /zh/aspose.cells.webextensions/webextensionreferencecollection/__init__/
 is_root: false
 ---
-##  WebExtensionReferenceCollection() {#}
-构造 WebExtensionReferenceCollection 的新实例
+##  \_\_init\_\_（自身）{#}
+构造WebExtensionReferenceCollection的新实例
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.webextensions](../../)
-* 类 [WebExtensionReferenceCollection](/cells/python-net/zh/aspose.cells.webextensions/webextensionreferencecollection)
+* 模块[`aspose.cells.webextensions`](../../)
+* 类 [`WebExtensionReferenceCollection`](/cells/python-net/zh/aspose.cells.webextensions/webextensionreferencecollection)

@@ -3,7 +3,7 @@ title: SmartArtShape صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 630
 url: /ar/aspose.cells.drawing/smartartshape/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-**ميراث:** [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape) → 
+**الميراث:** [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape) → 
 [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape)
 
 
@@ -22,137 +22,137 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [macro_name](/cells/python-net/ar/aspose.cells.drawing/smartartshape/macro_name) | الحصول على اسم الماكرو وتعيينه.|
-| [is_equation](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_equation) | الإشارة إلى ما إذا كان الشكل يحتوي على معادلة فقط.|
+| [macro_name](/cells/python-net/ar/aspose.cells.drawing/smartartshape/macro_name) | يحصل على اسم الماكرو ويحدده.|
+| [is_equation](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_equation) | يشير إلى ما إذا كان الشكل يحتوي فقط على معادلة.|
 | [is_smart_art](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_smart_art) | يشير إلى ما إذا كان الشكل فنًا ذكيًا.|
-| [z_order_position](/cells/python-net/ar/aspose.cells.drawing/smartartshape/z_order_position) | إرجاع موضع الشكل بالترتيب z.|
-| [name](/cells/python-net/ar/aspose.cells.drawing/smartartshape/name) | الحصول على اسم الشكل وتعيينه.|
-| [alternative_text](/cells/python-net/ar/aspose.cells.drawing/smartartshape/alternative_text) | إرجاع أو تعيين السلسلة النصية الوصفية (البديلة) للكائن [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape).|
-| [title](/cells/python-net/ar/aspose.cells.drawing/smartartshape/title) | يحدد العنوان (التسمية التوضيحية) لكائن الشكل الحالي.|
-| [line_format](/cells/python-net/ar/aspose.cells.drawing/smartartshape/line_format) |إرجاع كائن MsoLineFormat الذي يحتوي على خصائص تنسيق الخط للشكل المحدد.|
-| [fill_format](/cells/python-net/ar/aspose.cells.drawing/smartartshape/fill_format) | إرجاع كائن MsoFillFormat الذي يحتوي على خصائص تنسيق التعبئة للشكل المحدد.|
+| [z_order_position](/cells/python-net/ar/aspose.cells.drawing/smartartshape/z_order_position) | إرجاع موضع الشكل في الترتيب z.|
+| [name](/cells/python-net/ar/aspose.cells.drawing/smartartshape/name) | يحصل على اسم الشكل ويحدده.|
+| [alternative_text](/cells/python-net/ar/aspose.cells.drawing/smartartshape/alternative_text) | يقوم بإرجاع أو تعيين سلسلة النص الوصفي (البديل) للكائن [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape).|
+| [title](/cells/python-net/ar/aspose.cells.drawing/smartartshape/title) | يحدد عنوان (التسمية التوضيحية) لكائن الشكل الحالي.|
+| [line_format](/cells/python-net/ar/aspose.cells.drawing/smartartshape/line_format) | يقوم بإرجاع كائن MsoLineFormat الذي يحتوي على خصائص تنسيق الخط للشكل المحدد.|
+| [fill_format](/cells/python-net/ar/aspose.cells.drawing/smartartshape/fill_format) | يقوم بإرجاع كائن MsoFillFormat الذي يحتوي على خصائص تنسيق التعبئة للشكل المحدد.|
 | [line](/cells/python-net/ar/aspose.cells.drawing/smartartshape/line) | يحصل على نمط الخط|
-| [fill](/cells/python-net/ar/aspose.cells.drawing/smartartshape/fill) | تقوم بإرجاع كائن [`Shape.fill_format`](/cells/python-net/ar/aspose.cells.drawing/shape#fill_format) الذي يحتوي على خصائص تنسيق التعبئة للشكل المحدد.|
-| [shadow_effect](/cells/python-net/ar/aspose.cells.drawing/smartartshape/shadow_effect) | يمثل كائن [`ShadowEffect`](/cells/python-net/ar/aspose.cells.drawing/shadoweffect) الذي يحدد تأثير الظل لعنصر المخطط أو شكله.|
-| [reflection](/cells/python-net/ar/aspose.cells.drawing/smartartshape/reflection) | يمثل كائن [`ReflectionEffect`](/cells/python-net/ar/aspose.cells.drawing/reflectioneffect) الذي يحدد تأثير الانعكاس لعنصر المخطط أو الشكل.|
-| [glow](/cells/python-net/ar/aspose.cells.drawing/smartartshape/glow) | يمثل كائن [`GlowEffect`](/cells/python-net/ar/aspose.cells.drawing/gloweffect) الذي يحدد تأثير التوهج لعنصر المخطط أو الشكل.|
-| [soft_edges](/cells/python-net/ar/aspose.cells.drawing/smartartshape/soft_edges) | الحصول على نصف قطر التمويه وتعيينه ليتم تطبيقه على الحواف، بوحدة النقاط.|
-| [three_d_format](/cells/python-net/ar/aspose.cells.drawing/smartartshape/three_d_format) | الحصول على التنسيق الثلاثي الأبعاد للشكل وتعيينه.|
-| [text_frame](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_frame) | تقوم بإرجاع كائن TextFrame الذي يحتوي على خصائص المحاذاة والتثبيت للشكل المحدد.|
-| [format_picture](/cells/python-net/ar/aspose.cells.drawing/smartartshape/format_picture) | الحصول على خيارات تنسيق الصورة وتعيينها.|
+| [fill](/cells/python-net/ar/aspose.cells.drawing/smartartshape/fill) | يقوم بإرجاع الكائن [`Shape.fill_format`](/cells/python-net/ar/aspose.cells.drawing/shape#fill_format) الذي يحتوي على خصائص تنسيق التعبئة للشكل المحدد.|
+| [shadow_effect](/cells/python-net/ar/aspose.cells.drawing/smartartshape/shadow_effect) | يمثل كائن [`ShadowEffect`](/cells/python-net/ar/aspose.cells.drawing/shadoweffect) الذي يحدد تأثير الظل لعناصر الرسم البياني أو الشكل.|
+| [reflection](/cells/python-net/ar/aspose.cells.drawing/smartartshape/reflection) |يمثل كائن [`ReflectionEffect`](/cells/python-net/ar/aspose.cells.drawing/reflectioneffect) الذي يحدد تأثير الانعكاس لعناصر الرسم البياني أو الشكل.|
+| [glow](/cells/python-net/ar/aspose.cells.drawing/smartartshape/glow) | يمثل كائن [`GlowEffect`](/cells/python-net/ar/aspose.cells.drawing/gloweffect) الذي يحدد تأثير التوهج لعناصر الرسم البياني أو الشكل.|
+| [soft_edges](/cells/python-net/ar/aspose.cells.drawing/smartartshape/soft_edges) | يحصل على نصف قطر التمويه الذي سيتم تطبيقه على الحواف، بوحدة النقاط، ويحدده.|
+| [three_d_format](/cells/python-net/ar/aspose.cells.drawing/smartartshape/three_d_format) | يحصل على تنسيق ثلاثي الأبعاد للشكل ويحدده.|
+| [format_picture](/cells/python-net/ar/aspose.cells.drawing/smartartshape/format_picture) | يحصل على خيارات تنسيق الصورة ويقوم بتعيينها.|
 | [is_hidden](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_hidden) | يشير إلى ما إذا كان الكائن مرئيًا.|
-| [is_lock_aspect_ratio](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_lock_aspect_ratio) |صحيح يعني أنه لا يسمح بإجراء تغييرات في نسبة العرض إلى الارتفاع.|
-| [rotation_angle](/cells/python-net/ar/aspose.cells.drawing/smartartshape/rotation_angle) | الحصول على دوران الشكل وتعيينه.|
-| [hyperlink](/cells/python-net/ar/aspose.cells.drawing/smartartshape/hyperlink) | يحصل على الارتباط التشعبي للشكل.|
+| [is_lock_aspect_ratio](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_lock_aspect_ratio) | صحيح يعني أن نسبة العرض إلى الارتفاع للشكل مقفلة.|
+| [is_aspect_ratio_locked](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_aspect_ratio_locked) | صحيح يعني أن نسبة العرض إلى الارتفاع للشكل مقفلة.|
+| [rotation_angle](/cells/python-net/ar/aspose.cells.drawing/smartartshape/rotation_angle) | يحصل على دوران الشكل ويحدده.|
+| [hyperlink](/cells/python-net/ar/aspose.cells.drawing/smartartshape/hyperlink) | يحصل على ارتباط تشعبي للشكل.|
 | [id](/cells/python-net/ar/aspose.cells.drawing/smartartshape/id) | يحصل على معرف هذا الشكل.|
-| [spid](/cells/python-net/ar/aspose.cells.drawing/smartartshape/spid) | يحدد سلسلة اختيارية يمكن للتطبيق استخدامها لتحديد شكل معين.|
-| [spt](/cells/python-net/ar/aspose.cells.drawing/smartartshape/spt) | يحدد رقمًا اختياريًا يمكن أن يستخدمه التطبيق لربط شكل معين بنوع شكل محدد.|
+| [spid](/cells/python-net/ar/aspose.cells.drawing/smartartshape/spid) | يقوم بتحديد معرف سلسلة اختياري يمكن للتطبيق استخدامه لتحديد الشكل المحدد.|
+| [spt](/cells/python-net/ar/aspose.cells.drawing/smartartshape/spt) | يقوم بتحديد رقم اختياري يمكن للتطبيق استخدامه لربط الشكل المحدد بنوع الشكل المحدد.|
 | [worksheet](/cells/python-net/ar/aspose.cells.drawing/smartartshape/worksheet) | يحصل على الكائن [`Shape.worksheet`](/cells/python-net/ar/aspose.cells.drawing/shape#worksheet) الذي يحتوي على هذا الشكل.|
-| [is_group](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_group) | الإشارة إلى ما إذا كان الشكل عبارة عن مجموعة.|
-| [is_in_group](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_in_group) | الإشارة إلى ما إذا كان الشكل مجمعاً أم لا.|
-| [is_word_art](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_word_art) | يشير إلى ما إذا كان هذا الشكل عبارة عن كلمة فنية.|
-| [text_effect](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_effect) | إرجاع كائن TextEffectFormat الذي يحتوي على خصائص تنسيق تأثير النص للشكل المحدد.<br/> ينطبق على كائنات الشكل التي تمثل WordArt.|
-| [is_locked](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_locked) | صحيح إذا كان الكائن مقفلاً، وخطأ إذا كان من الممكن تعديل الكائن عندما تكون الورقة محمية.|
-| [is_printable](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_printable) | صحيح إذا كان الكائن قابلاً للطباعة|
-| [mso_drawing_type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/mso_drawing_type) | يحصل على نوع الرسم MSO.|
-| [auto_shape_type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/auto_shape_type) | الحصول على نوع الشكل التلقائي وتعيينه.|
-| [anchor_type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/anchor_type) |الحصول على العنصر النائب لترسيخ الشكل وتعيينه.|
-| [placement](/cells/python-net/ar/aspose.cells.drawing/smartartshape/placement) | يمثل الطريقة التي يتم بها ربط الكائن الرسومي بالخلايا الموجودة أسفله.<br/> تتحكم الخاصية في موضع الكائن في ورقة العمل.|
-| [upper_left_row](/cells/python-net/ar/aspose.cells.drawing/smartartshape/upper_left_row) | يمثل فهرس صف الزاوية اليسرى العليا.|
-| [upper_delta_y](/cells/python-net/ar/aspose.cells.drawing/smartartshape/upper_delta_y) | الحصول على الإزاحة الرأسية للشكل أو تعيينها من الصف العلوي الأيسر الخاص به.|
-| [upper_left_column](/cells/python-net/ar/aspose.cells.drawing/smartartshape/upper_left_column) | يمثل فهرس عمود الزاوية اليسرى العليا.|
-| [upper_delta_x](/cells/python-net/ar/aspose.cells.drawing/smartartshape/upper_delta_x) | الحصول على الإزاحة الأفقية للشكل أو تعيينها من عمود الزاوية اليسرى العليا.|
-| [lower_right_row](/cells/python-net/ar/aspose.cells.drawing/smartartshape/lower_right_row) | يمثل مؤشر الصف السفلي الأيمن.|
-| [lower_delta_y](/cells/python-net/ar/aspose.cells.drawing/smartartshape/lower_delta_y) | الحصول على الإزاحة الرأسية للشكل أو تعيينها من صف الزاوية اليمنى السفلية.|
-| [lower_right_column](/cells/python-net/ar/aspose.cells.drawing/smartartshape/lower_right_column) | يمثل مؤشر عمود الزاوية اليمنى السفلى.|
-| [lower_delta_x](/cells/python-net/ar/aspose.cells.drawing/smartartshape/lower_delta_x) | الحصول على الإزاحة الأفقية للشكل أو تعيينها من عمود الزاوية اليمنى السفلية.|
+| [is_group](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_group) | يشير إلى ما إذا كان هذا الشكل هو شكل مجموعة.|
+| [is_in_group](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_in_group) | يشير إلى ما إذا كان الشكل مجمعًا.|
+| [is_word_art](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_word_art) |يشير إلى ما إذا كان هذا الشكل عبارة عن فن كلمة.|
+| [text_effect](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_effect) | يقوم بإرجاع كائن TextEffectFormat الذي يحتوي على خصائص تنسيق تأثير النص للشكل المحدد.<br/> ينطبق على كائنات الشكل التي تمثل WordArt.|
+| [is_locked](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_locked) | صحيح يعني أنه لا يمكن تعديل الكائن عندما تكون الورقة محمية.<br/> لاحظ أن هذه القيمة لها معنى فقط إذا كانت ورقة العمل أو الكائنات الموجودة في ورقة العمل محمية.|
+| [is_printable](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_printable) | يشير إلى ما إذا كان الكائن قابلاً للطباعة.<br/> إذا كان False، فلن تتم طباعة هذا الشكل عند الطباعة.|
+| [mso_drawing_type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/mso_drawing_type) | يحصل على نوع الرسم.|
+| [auto_shape_type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/auto_shape_type) | يحصل على نوع الشكل التلقائي ويقوم بتعيينه.|
+| [anchor_type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/anchor_type) | يحصل على نوع عنصر نائب مرساة الشكل ويحدده.|
+| [placement](/cells/python-net/ar/aspose.cells.drawing/smartartshape/placement) | يمثل الطريقة التي يتم بها ربط كائن الرسم بالخلايا الموجودة أسفله.<br/> تتحكم الخاصية في وضع الكائن على ورقة العمل.|
+| [upper_left_row](/cells/python-net/ar/aspose.cells.drawing/smartartshape/upper_left_row) | يمثل مؤشر الصف العلوي.|
+| [upper_delta_y](/cells/python-net/ar/aspose.cells.drawing/smartartshape/upper_delta_y) | يحصل على أو يعين الإزاحة الرأسية للشكل من صف الزاوية اليسرى العلوية.|
+| [upper_left_column](/cells/python-net/ar/aspose.cells.drawing/smartartshape/upper_left_column) | يمثل مؤشر العمود الموجود في الزاوية اليسرى العليا.|
+| [upper_delta_x](/cells/python-net/ar/aspose.cells.drawing/smartartshape/upper_delta_x) |يحصل على أو يعين الإزاحة الأفقية للشكل من عمود الزاوية اليسرى العلوية.|
+| [lower_right_row](/cells/python-net/ar/aspose.cells.drawing/smartartshape/lower_right_row) | يمثل مؤشر الصف الموجود في الزاوية اليمنى السفلية.|
+| [lower_delta_y](/cells/python-net/ar/aspose.cells.drawing/smartartshape/lower_delta_y) | يحصل على أو يعين الإزاحة الرأسية للشكل من صف الزاوية اليمنى السفلية.|
+| [lower_right_column](/cells/python-net/ar/aspose.cells.drawing/smartartshape/lower_right_column) | يمثل مؤشر العمود الموجود في الزاوية اليمنى السفلية.|
+| [lower_delta_x](/cells/python-net/ar/aspose.cells.drawing/smartartshape/lower_delta_x) | يحصل على أو يعين الإزاحة الأفقية للشكل من عمود الزاوية اليمنى السفلية.|
 | [right](/cells/python-net/ar/aspose.cells.drawing/smartartshape/right) | يمثل عرض الإزاحة الأفقية للشكل من عمود الزاوية اليمنى السفلية، بوحدة البكسل.|
 | [bottom](/cells/python-net/ar/aspose.cells.drawing/smartartshape/bottom) | يمثل عرض الإزاحة الرأسية للشكل من صف الزاوية السفلية السفلية، بوحدة البكسل.|
-| [width](/cells/python-net/ar/aspose.cells.drawing/smartartshape/width) |يمثل عرض الشكل بوحدة البكسل.|
+| [width](/cells/python-net/ar/aspose.cells.drawing/smartartshape/width) | يمثل عرض الشكل بوحدة البكسل.|
 | [width_inch](/cells/python-net/ar/aspose.cells.drawing/smartartshape/width_inch) | يمثل عرض الشكل بوحدة البوصة.|
 | [width_pt](/cells/python-net/ar/aspose.cells.drawing/smartartshape/width_pt) | يمثل عرض الشكل بوحدة النقطة.|
 | [width_cm](/cells/python-net/ar/aspose.cells.drawing/smartartshape/width_cm) | يمثل عرض الشكل بوحدة السنتيمتر.|
 | [height](/cells/python-net/ar/aspose.cells.drawing/smartartshape/height) | يمثل ارتفاع الشكل بوحدة البكسل.|
 | [height_inch](/cells/python-net/ar/aspose.cells.drawing/smartartshape/height_inch) | يمثل ارتفاع الشكل بوحدة البوصة.|
-| [height_pt](/cells/python-net/ar/aspose.cells.drawing/smartartshape/height_pt) | يمثل ارتفاع الشكل بوحدة النقاط.|
+| [height_pt](/cells/python-net/ar/aspose.cells.drawing/smartartshape/height_pt) |يمثل ارتفاع الشكل بوحدة النقاط.|
 | [height_cm](/cells/python-net/ar/aspose.cells.drawing/smartartshape/height_cm) | يمثل ارتفاع الشكل بوحدة السنتيمتر.|
-| [left](/cells/python-net/ar/aspose.cells.drawing/smartartshape/left) | يمثل الإزاحة الأفقية للشكل من عموده الأيسر، بوحدة البكسل.|
-| [left_inch](/cells/python-net/ar/aspose.cells.drawing/smartartshape/left_inch) | يمثل الإزاحة الأفقية للشكل من عموده الأيسر، بوحدة البوصة.|
-| [left_cm](/cells/python-net/ar/aspose.cells.drawing/smartartshape/left_cm) | يمثل الإزاحة الأفقية للشكل من عموده الأيسر، بوحدة السنتيمتر.|
-| [top](/cells/python-net/ar/aspose.cells.drawing/smartartshape/top) | يمثل الإزاحة الرأسية للشكل من الصف العلوي بوحدة البكسل.|
-| [top_inch](/cells/python-net/ar/aspose.cells.drawing/smartartshape/top_inch) | يمثل الإزاحة الرأسية للشكل من صفه العلوي، بوحدة البوصة.|
-| [top_cm](/cells/python-net/ar/aspose.cells.drawing/smartartshape/top_cm) |يمثل الإزاحة الرأسية للشكل من الصف العلوي بوحدة السنتيمتر.|
-| [top_to_corner](/cells/python-net/ar/aspose.cells.drawing/smartartshape/top_to_corner) | الحصول على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل وتعيينها، بوحدة البكسل.|
-| [left_to_corner](/cells/python-net/ar/aspose.cells.drawing/smartartshape/left_to_corner) | الحصول على الإزاحة الأفقية للشكل وتعيينها من الحد الأيسر لورقة العمل.|
-| [x](/cells/python-net/ar/aspose.cells.drawing/smartartshape/x) | الحصول على الإزاحة الأفقية للشكل من الحد الأيسر لورقة العمل وتعيينها، بوحدة البكسل.|
-| [y](/cells/python-net/ar/aspose.cells.drawing/smartartshape/y) | الحصول على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل وتعيينها، بوحدة البكسل.|
-| [width_scale](/cells/python-net/ar/aspose.cells.drawing/smartartshape/width_scale) | الحصول على مقياس العرض وتعيينه بوحدة النسبة المئوية لعرض الصورة الأصلي.<br/> إذا لم يكن الشكل صورة، فإن خاصية WidthScale ترجع 100 فقط؛|
-| [height_scale](/cells/python-net/ar/aspose.cells.drawing/smartartshape/height_scale) | الحصول على مقياس الارتفاع وتعيينه بوحدة النسبة المئوية لارتفاع الصورة الأصلية.<br/> إذا لم يكن الشكل صورة، فإن خاصية HeightScale تُرجع 100 فقط؛|
+| [left](/cells/python-net/ar/aspose.cells.drawing/smartartshape/left) | يمثل الإزاحة الأفقية للشكل من العمود الأيسر، بوحدة البكسل.|
+| [left_inch](/cells/python-net/ar/aspose.cells.drawing/smartartshape/left_inch) | يمثل الإزاحة الأفقية للشكل من العمود الأيسر، بوحدة البوصات.|
+| [left_cm](/cells/python-net/ar/aspose.cells.drawing/smartartshape/left_cm) | يمثل الإزاحة الأفقية للشكل من العمود الأيسر، بوحدة السنتيمتر.|
+| [top](/cells/python-net/ar/aspose.cells.drawing/smartartshape/top) | يمثل الإزاحة الرأسية للشكل من الصف العلوي، بوحدة البكسل.|
+| [top_inch](/cells/python-net/ar/aspose.cells.drawing/smartartshape/top_inch) | يمثل الإزاحة الرأسية للشكل من الصف العلوي، بوحدة البوصات.|
+| [top_cm](/cells/python-net/ar/aspose.cells.drawing/smartartshape/top_cm) | يمثل الإزاحة الرأسية للشكل من الصف العلوي، بوحدة السنتيمتر.|
+| [top_to_corner](/cells/python-net/ar/aspose.cells.drawing/smartartshape/top_to_corner) | يحصل على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل، ويحددها بوحدة البكسل.|
+| [left_to_corner](/cells/python-net/ar/aspose.cells.drawing/smartartshape/left_to_corner) | يحصل على الإزاحة الأفقية للشكل من الحد الأيسر لورقة العمل ويقوم بضبطها.|
+| [x](/cells/python-net/ar/aspose.cells.drawing/smartartshape/x) | يحصل على الإزاحة الأفقية للشكل من الحد الأيسر لورقة العمل، ويحددها بوحدة البكسل.|
+| [y](/cells/python-net/ar/aspose.cells.drawing/smartartshape/y) |يحصل على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل، ويحددها بوحدة البكسل.|
+| [width_scale](/cells/python-net/ar/aspose.cells.drawing/smartartshape/width_scale) | يحصل على مقياس العرض ويضبطه، بوحدة النسبة المئوية لعرض الصورة الأصلية.<br/> إذا لم يكن الشكل صورة، فإن خاصية WidthScale تعيد 100 فقط؛|
+| [height_scale](/cells/python-net/ar/aspose.cells.drawing/smartartshape/height_scale) | يحصل على مقياس الارتفاع ويضبطه، بوحدة النسبة المئوية لارتفاع الصورة الأصلية.<br/> إذا لم يكن الشكل صورة، فإن خاصية HeightScale تعيد 100 فقط؛|
 | [top_in_shape](/cells/python-net/ar/aspose.cells.drawing/smartartshape/top_in_shape) | يمثل الإزاحة الرأسية للشكل من الحد العلوي للشكل الأصلي،<br/> بوحدة 1/4000 من ارتفاع الشكل الأصلي.|
-| [left_in_shape](/cells/python-net/ar/aspose.cells.drawing/smartartshape/left_in_shape) |يمثل الإزاحة الأفقية للشكل من الحد الأيسر للشكل الأصلي،<br/> بوحدة 1/4000 من عرض الشكل الأصلي.|
+| [left_in_shape](/cells/python-net/ar/aspose.cells.drawing/smartartshape/left_in_shape) | يمثل الإزاحة الأفقية للشكل من الحد الأيسر للشكل الأصلي،<br/> بوحدة 1/4000 من عرض الشكل الأصلي.|
 | [width_in_shape](/cells/python-net/ar/aspose.cells.drawing/smartartshape/width_in_shape) | يمثل عرض الشكل بوحدة 1/4000 من الشكل الأصلي.|
 | [height_in_shape](/cells/python-net/ar/aspose.cells.drawing/smartartshape/height_in_shape) | يمثل الإزاحة الرأسية للشكل من الحد العلوي للشكل الأصلي، بوحدة 1/4000 من ارتفاع الشكل الأصلي.|
-| [group](/cells/python-net/ar/aspose.cells.drawing/smartartshape/group) | الحصول على شكل المجموعة الذي يحتوي على هذا الشكل.|
-| [type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/type) | يحصل على نوع الشكل التلقائي.|
-| [has_line](/cells/python-net/ar/aspose.cells.drawing/smartartshape/has_line) | يحصل على ويحدد حدود الخط للشكل مرئية.|
+| [group](/cells/python-net/ar/aspose.cells.drawing/smartartshape/group) | يحصل على شكل المجموعة الذي يحتوي على هذا الشكل.|
+| [type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/type) |يحصل على نوع الشكل التلقائي.|
+| [has_line](/cells/python-net/ar/aspose.cells.drawing/smartartshape/has_line) | يحصل على حدود الخط للشكل ويضبطها لتكون مرئية.|
 | [is_filled](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_filled) | يشير إلى ما إذا كان تنسيق التعبئة مرئيًا.|
-| [is_flipped_horizontally](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_flipped_horizontally) | الحصول على وتحديد ما إذا كان الشكل مقلوبًا أفقيًا.|
-| [is_flipped_vertically](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_flipped_vertically) | الحصول على وتحديد ما إذا كان الشكل مقلوبًا رأسيًا.|
+| [is_flipped_horizontally](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_flipped_horizontally) | يحصل ويحدد ما إذا كان الشكل مقلوبًا أفقيًا.|
+| [is_flipped_vertically](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_flipped_vertically) | يحصل ويحدد ما إذا كان الشكل مقلوبًا رأسيًا أم لا.|
 | [actual_lower_right_row](/cells/python-net/ar/aspose.cells.drawing/smartartshape/actual_lower_right_row) | احصل على الصف السفلي الفعلي.|
-| [connection_points](/cells/python-net/ar/aspose.cells.drawing/smartartshape/connection_points) | الحصول على نقاط الاتصال|
-| [relative_to_original_picture_size](/cells/python-net/ar/aspose.cells.drawing/smartartshape/relative_to_original_picture_size) | يشير إلى ما إذا كان الشكل متناسبًا مع حجم الصورة الأصلي.|
-| [linked_cell](/cells/python-net/ar/aspose.cells.drawing/smartartshape/linked_cell) | الحصول على نطاق ورقة العمل المرتبط بقيمة عنصر التحكم أو تعيينه.|
-| [input_range](/cells/python-net/ar/aspose.cells.drawing/smartartshape/input_range) | الحصول على أو تعيين نطاق ورقة العمل المستخدم لملء مربع التحرير والسرد المحدد.|
-| [text_shape_type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_shape_type) |الحصول على نوع شكل النص المحدد مسبقًا وتعيينه.|
-| [text_body](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_body) | الحصول على إعداد نص الشكل وتعيينه.|
+| [relative_to_original_picture_size](/cells/python-net/ar/aspose.cells.drawing/smartartshape/relative_to_original_picture_size) | يشير إلى ما إذا كان الشكل نسبيًا لحجم الصورة الأصلية.|
+| [linked_cell](/cells/python-net/ar/aspose.cells.drawing/smartartshape/linked_cell) | يحصل على نطاق ورقة العمل المرتبط بقيمة عنصر التحكم أو يعينه.|
+| [input_range](/cells/python-net/ar/aspose.cells.drawing/smartartshape/input_range) | يحصل على نطاق ورقة العمل المستخدم لملء المربع المختلط المحدد أو يعينه.|
+| [text_shape_type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_shape_type) | يحصل على نوع شكل النص المحدد مسبقًا ويقوم بتعيينه.|
+| [text_body](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_body) | يحصل على إعداد نص الشكل ويقوم بتعيينه.|
 | [font](/cells/python-net/ar/aspose.cells.drawing/smartartshape/font) | يمثل خط الشكل.|
 | [text_options](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_options) | يمثل خيارات النص للشكل.|
-| [text](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text) | يمثل السلسلة الموجودة في كائن TextBox هذا.|
-| [is_rich_text](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_rich_text) | ما إذا كان النص نصًا منسقًا أم لا.|
-| [html_text](/cells/python-net/ar/aspose.cells.drawing/smartartshape/html_text) | الحصول على سلسلة html التي تحتوي على البيانات وبعض التنسيقات في مربع النص هذا وتعيينها.|
-| [text_vertical_overflow](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_vertical_overflow) | الحصول على نوع التجاوز الرأسي للنص وتعيينه للشكل الذي يحتوي على نص.|
-| [text_horizontal_overflow](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_horizontal_overflow) | الحصول على نوع النص الفائض الأفقي للشكل الذي يحتوي على النص وتعيينه.|
-| [is_text_wrapped](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_text_wrapped) | الحصول على نوع النص الملتف للشكل الذي يحتوي على النص وتعيينه.|
-| [text_orientation_type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_orientation_type) | الحصول على نوع اتجاه النص للشكل وتعيينه.|
-| [text_horizontal_alignment](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_horizontal_alignment) | الحصول على نوع المحاذاة الأفقية للشكل وتعيينها.|
-| [text_vertical_alignment](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_vertical_alignment) | الحصول على نوع المحاذاة العمودية للشكل وتعيينها.|
-| [text_direction](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_direction) | الحصول على/تعيين اتجاه تدفق النص لهذا الكائن.|
-| [control_data](/cells/python-net/ar/aspose.cells.drawing/smartartshape/control_data) | يحصل على بيانات السيطرة.|
-| [active_x_control](/cells/python-net/ar/aspose.cells.drawing/smartartshape/active_x_control) | الحصول على عنصر تحكم ActiveX.|
-| [paths](/cells/python-net/ar/aspose.cells.drawing/smartartshape/paths) |الحصول على مسارات الشكل الهندسي المخصص.|
-| [geometry](/cells/python-net/ar/aspose.cells.drawing/smartartshape/geometry) | يحصل على الهندسة|
-| [create_id](/cells/python-net/ar/aspose.cells.drawing/smartartshape/create_id) | يحصل ويحدد معرفًا لهذا الشكل.|
+| [text](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text) | يحصل على نص هذا الشكل ويحدده.|
+| [is_rich_text](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_rich_text) | سواء كان النص نصًا غنيًا أم لا.|
+| [html_text](/cells/python-net/ar/aspose.cells.drawing/smartartshape/html_text) | يحصل على سلسلة HTML التي تحتوي على البيانات وبعض التنسيقات في مربع النص هذا ويقوم بتعيينها.|
+| [text_vertical_overflow](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_vertical_overflow) | يحصل على نوع التدفق العمودي للنص للشكل الذي يحتوي على نص ويقوم بتعيينه.|
+| [text_horizontal_overflow](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_horizontal_overflow) |يحصل على نوع التدفق الأفقي للنص ويقوم بتعيينه للشكل الذي يحتوي على نص.|
+| [is_text_wrapped](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_text_wrapped) | يحصل على نوع النص المغلف للشكل الذي يحتوي على نص ويقوم بتعيينه.|
+| [text_orientation_type](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_orientation_type) | يحصل على نوع اتجاه النص للشكل ويقوم بتعيينه.|
+| [text_horizontal_alignment](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_horizontal_alignment) | يحصل على نوع محاذاة النص الأفقية للشكل ويقوم بتعيينه.|
+| [text_vertical_alignment](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_vertical_alignment) | يحصل على نوع المحاذاة الرأسية للنص للشكل ويقوم بتعيينه.|
+| [text_direction](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_direction) | يحصل على/يحدد اتجاه تدفق النص لهذا الكائن.|
+| [text_box_options](/cells/python-net/ar/aspose.cells.drawing/smartartshape/text_box_options) | يحصل على معلومات النص في الشكل|
+| [control_data](/cells/python-net/ar/aspose.cells.drawing/smartartshape/control_data) | يحصل على بيانات التحكم.|
+| [active_x_control](/cells/python-net/ar/aspose.cells.drawing/smartartshape/active_x_control) | يحصل على عنصر التحكم ActiveX.|
+| [paths](/cells/python-net/ar/aspose.cells.drawing/smartartshape/paths) | يحصل على مسارات الشكل الهندسي المخصص.|
+| [create_id](/cells/python-net/ar/aspose.cells.drawing/smartartshape/create_id) | يحصل وينشئ معرفًا لهذا الشكل.|
+| [is_decorative](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_decorative) | يشير إلى ما إذا كان الكائن زخرفيًا.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [to_image](/cells/python-net/ar/aspose.cells.drawing/smartartshape/to_image/#io.RawIOBase-aspose.cells.drawing.ImageType) | يقوم بإنشاء صورة الشكل وحفظها في دفق بالتنسيق المحدد.|
-| [to_image](/cells/python-net/ar/aspose.cells.drawing/smartartshape/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | يحفظ الشكل في ملف.|
-| [to_image](/cells/python-net/ar/aspose.cells.drawing/smartartshape/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | يحفظ الشكل في دفق.|
-| [format_characters](/cells/python-net/ar/aspose.cells.drawing/smartartshape/format_characters/#int-int-aspose.cells.Font-aspose.cells.StyleFlag) | تنسيق بعض الأحرف باستخدام إعداد الخط.|
-| [format_characters](/cells/python-net/ar/aspose.cells.drawing/smartartshape/format_characters/#int-int-aspose.cells.Font) | تنسيق بعض الأحرف باستخدام إعداد الخط.|
-| [get_result_of_smart_art](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_result_of_smart_art/#) | تحويل الفن الذكي إلى أشكال مجمعة.|
-| [to_front_or_back](/cells/python-net/ar/aspose.cells.drawing/smartartshape/to_front_or_back/#int) | يجلب الشكل إلى الأمام أو يرسل الشكل إلى الخلف.|
-| [get_locked_property](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_locked_property/#aspose.cells.drawing.ShapeLockType) | يحصل على قيمة الممتلكات المقفلة.|
-| [set_locked_property](/cells/python-net/ar/aspose.cells.drawing/smartartshape/set_locked_property/#aspose.cells.drawing.ShapeLockType-bool) | قم بتعيين الخاصية المقفلة.|
-| [add_hyperlink](/cells/python-net/ar/aspose.cells.drawing/smartartshape/add_hyperlink/#str) | إضافة ارتباط تشعبي إلى الشكل.|
-| [remove_hyperlink](/cells/python-net/ar/aspose.cells.drawing/smartartshape/remove_hyperlink/#) | إزالة الارتباط التشعبي للشكل.|
-| [move_to_range](/cells/python-net/ar/aspose.cells.drawing/smartartshape/move_to_range/#int-int-int-int) | ينقل الشكل إلى نطاق محدد.|
-| [align_top_right_corner](/cells/python-net/ar/aspose.cells.drawing/smartartshape/align_top_right_corner/#int-int) |ينقل الصورة إلى الزاوية العلوية اليمنى.|
-| [get_connection_points](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_connection_points/#) | الحصول على نقاط الاتصال|
-| [get_linked_cell](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_linked_cell/#bool-bool) | الحصول على النطاق المرتبط بقيمة عنصر التحكم.|
-| [set_linked_cell](/cells/python-net/ar/aspose.cells.drawing/smartartshape/set_linked_cell/#str-bool-bool) | يضبط النطاق المرتبط بقيمة عنصر التحكم.|
-| [get_input_range](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_input_range/#bool-bool) | الحصول على النطاق المستخدم لملء عنصر التحكم.|
-| [set_input_range](/cells/python-net/ar/aspose.cells.drawing/smartartshape/set_input_range/#str-bool-bool) | يضبط النطاق المستخدم لملء عنصر التحكم.|
-| [update_selected_value](/cells/python-net/ar/aspose.cells.drawing/smartartshape/update_selected_value/#) | قم بتحديث القيمة المحددة بقيمة الخلية المرتبطة.|
-| [calculate_text_size](/cells/python-net/ar/aspose.cells.drawing/smartartshape/calculate_text_size/#) | إعادة حساب منطقة النص|
-| [characters](/cells/python-net/ar/aspose.cells.drawing/smartartshape/characters/#int-int) | تقوم بإرجاع كائن الأحرف الذي يمثل نطاقًا من الأحرف داخل النص.|
-| [get_characters](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_characters/#) | إرجاع كافة كائنات الأحرف<br/> الذي يمثل مجموعة من الأحرف داخل النص.|
-| [get_rich_formattings](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_rich_formattings/#) | إرجاع كافة كائنات الأحرف<br/> الذي يمثل مجموعة من الأحرف داخل النص.|
-| [remove_active_x_control](/cells/python-net/ar/aspose.cells.drawing/smartartshape/remove_active_x_control/#) | قم بإزالة عنصر التحكم ActiveX.|
-| [is_same_setting](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_same_setting/#any) | إرجاع ما إذا كان الشكل هو نفسه.|
-| [get_actual_box](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_actual_box/#) | احصل على الموضع والحجم الفعليين للشكل (بعد تطبيق التدوير والقلب وما إلى ذلك)|
+| [`to_image(self, stream, image_type)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/to_image/#io.rawiobase-aspose.cells.drawing.imagetype) | إنشاء صورة الشكل وحفظها في مجرى بالتنسيق المحدد.|
+| [`to_image(self, image_file, options)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/to_image/#str-aspose.cells.rendering.imageorprintoptions) | يحفظ الشكل في ملف.|
+| [`to_image(self, stream, options)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/to_image/#io.rawiobase-aspose.cells.rendering.imageorprintoptions) | يحفظ الشكل في مجرى.|
+| [`get_result_of_smart_art(self)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_result_of_smart_art/#) | تحويل الفن الذكي إلى أشكال مجمعة.|
+| [`to_front_or_back(self, orders)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/to_front_or_back/#int) | يجلب الشكل إلى الأمام أو يرسل الشكل إلى الخلف.|
+| [`get_locked_property(self, type)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_locked_property/#aspose.cells.drawing.shapelocktype) | يحصل على قيمة الممتلكات المقفولة.|
+| [`set_locked_property(self, type, value)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/set_locked_property/#aspose.cells.drawing.shapelocktype-bool) | تعيين الخاصية المقفلة.|
+| [`add_hyperlink(self, address)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/add_hyperlink/#str) | يضيف ارتباطًا تشعبيًا إلى الشكل.|
+| [`remove_hyperlink(self)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/remove_hyperlink/#) | إزالة الارتباط التشعبي الخاص بالشكل.|
+| [`move_to_range(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/move_to_range/#int-int-int-int) | نقل الشكل إلى نطاق محدد.|
+| [`align_top_right_corner(self, top_row, right_column)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/align_top_right_corner/#int-int) | نقل الصورة إلى الزاوية اليمنى العليا.|
+| [`get_connection_points(self)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_connection_points/#) | احصل على نقاط الاتصال|
+| [`get_linked_cell(self, is_r1c1, is_local)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_linked_cell/#bool-bool) | يحصل على النطاق المرتبط بقيمة عنصر التحكم.|
+| [`set_linked_cell(self, formula, is_r1c1, is_local)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/set_linked_cell/#str-bool-bool) | تعيين النطاق المرتبط بقيمة عنصر التحكم.|
+| [`get_input_range(self, is_r1c1, is_local)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_input_range/#bool-bool) | يحصل على النطاق المستخدم لملء عنصر التحكم.|
+| [`set_input_range(self, formula, is_r1c1, is_local)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/set_input_range/#str-bool-bool) | تعيين النطاق المستخدم لملء عنصر التحكم.|
+| [`update_selected_value(self)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/update_selected_value/#) | تحديث القيمة المحددة حسب قيمة الخلية المرتبطة.|
+| [`calculate_text_size(self)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/calculate_text_size/#) | إعادة حساب مساحة النص|
+| [`format_characters(self, start_index, length, font, flag)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/format_characters/#int-int-aspose.cells.font-aspose.cells.styleflag) | تنسيق بعض الأحرف باستخدام إعدادات الخط.|
+| [`characters(self, start_index, length)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/characters/#int-int) |يقوم بإرجاع كائن الأحرف الذي يمثل نطاقًا من الأحرف داخل النص.|
+| [`get_characters(self)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_characters/#) | إرجاع جميع كائنات الأحرف<br/>الذي يمثل مجموعة من الأحرف داخل النص.|
+| [`get_rich_formattings(self)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_rich_formattings/#) | إرجاع جميع كائنات الأحرف<br/>الذي يمثل مجموعة من الأحرف داخل النص.|
+| [`remove_active_x_control(self)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/remove_active_x_control/#) | إزالة عنصر التحكم ActiveX.|
+| [`is_same_setting(self, obj)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/is_same_setting/#any) | يعود ما إذا كان الشكل هو نفسه.|
+| [`get_actual_box(self)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/get_actual_box/#) | احصل على الموضع والحجم الفعلي للشكل (بعد تطبيق التدوير والانعكاس وما إلى ذلك)|
+| [`fit_to_text_size(self)`](/cells/python-net/ar/aspose.cells.drawing/smartartshape/fit_to_text_size/#) | إعادة حساب مساحة النص المناسبة لعرض كافة محتويات النص.|
 
 
 

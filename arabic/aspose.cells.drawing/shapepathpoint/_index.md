@@ -1,26 +1,26 @@
 ---
-title: ShapePathPoint الدرجة
+title: ShapePathPoint صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 560
 url: /ar/aspose.cells.drawing/shapepathpoint/
 is_root: false
 ---
-##  ShapePathPoint الدرجة
-يمثل إحداثيات س ص داخل مساحة إحداثيات المسار.
+##  ShapePathPoint صف
+يمثل إحداثيات xy ضمن مساحة إحداثيات المسار.
 
 
 
-يكشف نوع ShapePathPoint الأعضاء التالية:
+يكشف النوع ShapePathPoint عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [x](/cells/python-net/ar/aspose.cells.drawing/shapepathpoint/x) | يحصل على إحداثيات x لهذا الموقف ويضعها.|
-| [y](/cells/python-net/ar/aspose.cells.drawing/shapepathpoint/y) | يحصل على إحداثيات ص لهذا الموقف.|
+| [x](/cells/python-net/ar/aspose.cells.drawing/shapepathpoint/x) | يحصل على إحداثيات x ويقوم بتعيينها لإحداثيات هذا الموضع.|
+| [y](/cells/python-net/ar/aspose.cells.drawing/shapepathpoint/y) | يحصل على إحداثيات y لهذا الموضع.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

@@ -7,27 +7,29 @@ weight: 80
 url: /ar/aspose.cells/fileformatutil/save_format_to_extension/
 is_root: false
 ---
-##  save_format_to_extension(format) {#SaveFormat}
-يحول قيمة تعداد تنسيق الحفظ إلى امتداد ملف.
+##  save_format_to_extension(, تنسيق){#aspose.cells.SaveFormat}
+تحويل قيمة عددية بتنسيق الحفظ إلى امتداد ملف.
 
 
 ###  عائدات
 
-الامتداد الناتج عبارة عن سلسلة أحرف صغيرة بنقطة بادئة.
+الامتداد المرتجع هو سلسلة أحرف صغيرة مع نقطة بادئة.
 
 
 ```python
-def save_format_to_extension(self, format):
+
+@staticmethod
+def save_format_to_extension(format):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| format | [SaveFormat](/cells/python-net/ar/aspose.cells/saveformat) | تنسيق الحفظ.|
+| format | [`SaveFormat`](/cells/python-net/ar/aspose.cells/saveformat) | تنسيق الحفظ.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FileFormatUtil](/cells/python-net/ar/aspose.cells/fileformatutil)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FileFormatUtil`](/cells/python-net/ar/aspose.cells/fileformatutil)

@@ -3,13 +3,13 @@ title: is_array_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 540
+weight: 560
 url: /ar/aspose.cells/cell/is_array_formula/
 is_root: false
 ---
 ##  is_array_formula عقار
 
-الإشارة إلى ما إذا كانت صيغة الخلية عبارة عن صيغة صفيف.
+يشير إلى ما إذا كانت صيغة الخلية عبارة عن صيغة مصفوفة.
 ###  تعريف:
 ```python
 @property

@@ -3,13 +3,13 @@ title: first_visible_row属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 510
+weight: 530
 url: /zh/aspose.cells/worksheet/first_visible_row/
 is_root: false
 ---
 ## first_visible_row属性
 
-表示第一个可见行索引。
+表示第一个可见行的索引。
 ### 定义：
 ```python
 @property

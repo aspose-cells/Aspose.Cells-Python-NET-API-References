@@ -1,19 +1,19 @@
 ---
-title: name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 110
 url: /zh/aspose.cells.tables/listcolumn/name/
 is_root: false
 ---
-## name 属性
+## name属性
 
-获取和设置列的 name。
+获取并设置列的 name。
 
-### 评论
+### 注意事项
 
-如果设置列的name，相应单元格的值也会改变。
+如果设置列的name，则相应单元格的值也会改变。
 ### 定义：
 ```python
 @property
@@ -25,5 +25,5 @@ def name(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.tables](../../)
-* 类 [ListColumn](/cells/python-net/zh/aspose.cells.tables/listcolumn)
+* 模块[`aspose.cells.tables`](../../)
+* 类 [`ListColumn`](/cells/python-net/zh/aspose.cells.tables/listcolumn)

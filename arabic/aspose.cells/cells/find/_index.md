@@ -7,16 +7,17 @@ weight: 290
 url: /ar/aspose.cells/cells/find/
 is_root: false
 ---
-##  find(what, previous_cell) {#any-Cell}
+##  find(self, what, previous_cell) {#any-aspose.cells.Cell}
 يبحث عن الخلية التي تحتوي على كائن الإدخال.
 
 
 ###  عائدات
 
-Cell كائن.
+Cell الكائن.
 
 
 ```python
+
 def find(self, what, previous_cell):
     ...
 ```
@@ -24,23 +25,24 @@ def find(self, what, previous_cell):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| what | any | الكائن المطلوب البحث عنه.<br/> يجب أن يكون النوع int ، double ، DateTime ، string ، bool.|
-| previous_cell | [Cell](/cells/python-net/ar/aspose.cells/cell) | الخلية السابقة بنفس الكائن.<br/> يمكن ضبط هذه المعلمة على قيمة خالية في حالة البحث من البداية.|
+| what | any | الشيء الذي يجب البحث عنه.<br/> يجب أن يكون النوع int،double،DateTime،string،bool.|
+| previous_cell | [`Cell`](/cells/python-net/ar/aspose.cells/cell) | الخلية السابقة بنفس الكائن.<br/> يمكن ضبط هذه المعلمة على null إذا كنت تريد البحث من البداية.|
 ###  ملاحظات
 
-تُرجع فارغة (لا شيء) إذا لم يتم العثور على خلية.
+يتم إرجاع قيمة null (لا شيء) إذا لم يتم العثور على أي خلية.
 
-##  find(what, previous_cell, find_options) {#any-Cell-FindOptions}
+##  find(self, what, previous_cell, find_options) {#any-aspose.cells.Cell-aspose.cells.FindOptions}
 
 يبحث عن الخلية التي تحتوي على كائن الإدخال.
 
 
 ###  عائدات
 
-Cell كائن.
+Cell الكائن.
 
 
 ```python
+
 def find(self, what, previous_cell, find_options):
     ...
 ```
@@ -48,15 +50,15 @@ def find(self, what, previous_cell, find_options):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| what | any | الكائن المطلوب البحث عنه.<br/> يجب أن يكون النوع int ، double ، DateTime ، string ، bool.|
-| previous_cell | [Cell](/cells/python-net/ar/aspose.cells/cell) | الخلية السابقة بنفس الكائن.<br/> يمكن ضبط هذه المعلمة على قيمة خالية في حالة البحث من البداية.|
-| find_options | [FindOptions](/cells/python-net/ar/aspose.cells/findoptions) | ابحث عن الخيارات|
+| what | any | الشيء الذي يجب البحث عنه.<br/> يجب أن يكون النوع int،double،DateTime،string،bool.|
+| previous_cell | [`Cell`](/cells/python-net/ar/aspose.cells/cell) | الخلية السابقة بنفس الكائن.<br/> يمكن ضبط هذه المعلمة على null إذا كنت تريد البحث من البداية.|
+| find_options | [`FindOptions`](/cells/python-net/ar/aspose.cells/findoptions) | البحث عن الخيارات|
 ###  ملاحظات
 
-تُرجع فارغة (لا شيء) إذا لم يتم العثور على خلية.
+يتم إرجاع قيمة null (لا شيء) إذا لم يتم العثور على أي خلية.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

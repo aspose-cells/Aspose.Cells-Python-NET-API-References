@@ -3,13 +3,13 @@ title: three_d_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /ar/aspose.cells.drawing/cellsdrawing/three_d_format/
 is_root: false
 ---
 ##  three_d_format عقار
 
-الحصول على التنسيق الثلاثي الأبعاد للشكل وتعيينه.
+يحصل على تنسيق ثلاثي الأبعاد للشكل ويحدده.
 
 ###  مثال
 

@@ -3,13 +3,13 @@ title: style属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1300
+weight: 1330
 url: /zh/aspose.cells/cells/style/
 is_root: false
 ---
 ## style属性
 
-获取和设置工作表的默认值style。
+获取并设置工作表的默认值style。
 ### 定义：
 ```python
 @property

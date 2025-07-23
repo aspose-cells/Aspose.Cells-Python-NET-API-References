@@ -1,13 +1,13 @@
 ---
-title: cap_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: cap_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
 url: /zh/aspose.cells.drawing/lineformat/cap_type/
 is_root: false
 ---
-## cap_type 属性
+## cap_type属性
 
 指定结束大写。
 
@@ -30,6 +30,6 @@ def cap_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [LineCapType](/cells/python-net/zh/aspose.cells.drawing/linecaptype)
-* 类 [LineFormat](/cells/python-net/zh/aspose.cells.drawing/lineformat)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`LineCapType`](/cells/python-net/zh/aspose.cells.drawing/linecaptype)
+* 类 [`LineFormat`](/cells/python-net/zh/aspose.cells.drawing/lineformat)

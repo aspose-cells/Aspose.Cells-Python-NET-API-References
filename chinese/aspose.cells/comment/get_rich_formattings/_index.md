@@ -7,17 +7,18 @@ weight: 50
 url: /zh/aspose.cells/comment/get_rich_formattings/
 is_root: false
 ---
-##  get_rich_formattings {#}
-返回所有字符对象
-代表评论文本中的一系列字符。
+##  get_rich_formattings(self) {#}
+返回所有 Characters 对象
+代表注释文本内的字符范围。
 
 
-### 退货
+### 返回
 
-所有角色对象
+所有 Characters 对象
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

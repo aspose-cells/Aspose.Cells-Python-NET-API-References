@@ -9,12 +9,12 @@ is_root: false
 ---
 ## line_by_line属性
 
-是否逐行处理智能标记。
+指示是否逐行处理智能标记。
 
-### 评论
+### 注意事项
 
-默认值是true。
-如果为 False，则模板文件必须包含名为“_CellsSmartMarkers”的范围。
+默认值为 true。
+如果为 False，则模板文件必须包含一个名为“_CellsSmartMarkers”的范围。
 ### 定义：
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ## line属性
 
-获取line。
+获取 line。
 ### 定义：
 ```python
 @property

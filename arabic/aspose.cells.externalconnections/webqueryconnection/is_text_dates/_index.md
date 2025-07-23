@@ -1,15 +1,15 @@
 ---
-title: is_text_dates الملكية
+title: is_text_dates عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 230
 url: /ar/aspose.cells.externalconnections/webqueryconnection/is_text_dates/
 is_root: false
 ---
-##  is_text_dates الملكية
+##  is_text_dates عقار
 
-علامة تشير إلى ما إذا كان يجب استيراد التواريخ إلى خلايا في ورقة العمل كنص وليس كتواريخ.
+علم يشير إلى ما إذا كان ينبغي استيراد التواريخ إلى خلايا في ورقة العمل كنص بدلاً من التواريخ.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_text_dates(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

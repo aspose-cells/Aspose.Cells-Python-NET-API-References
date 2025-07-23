@@ -7,8 +7,8 @@ weight: 70
 url: /ar/aspose.cells.drawing/shapepropertycollection/has_shadow_effect/
 is_root: false
 ---
-##  has_shadow_effect() {#}
-يشير إلى ما إذا كان للشكل بيانات تأثير الظل.
+##  has_shadow_effect(self) {#}
+يشير إلى ما إذا كان الشكل يحتوي على بيانات تأثير الظل.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def has_shadow_effect(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_shadow_effect(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapePropertyCollection](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapePropertyCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)

@@ -1,5 +1,5 @@
 ---
-title: border_color الملكية
+title: border_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/negativebarformat/border_color/
 is_root: false
 ---
-##  border_color الملكية
+##  border_color عقار
 
-الحصول على كائن FormatColor أو تعيينه والذي يمكنك استخدامه لتحديد لون الحدود لأشرطة البيانات السالبة.
+يحصل على كائن FormatColor أو يعينه، ويمكنك استخدامه لتحديد لون الحدود لأشرطة البيانات السلبية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def border_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [NegativeBarFormat](/cells/python-net/ar/aspose.cells/negativebarformat)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`NegativeBarFormat`](/cells/python-net/ar/aspose.cells/negativebarformat)

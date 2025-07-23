@@ -1,5 +1,5 @@
 ---
-title: column الملكية
+title: column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells.markup/smarttagcollection/column/
 is_root: false
 ---
-##  column الملكية
+##  column عقار
 
-يحصل على column من العلامات الذكية للخلية.
+يحصل على column من علامات الخلية الذكية.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](../../)
-* فئة [SmartTagCollection](/cells/python-net/ar/aspose.cells.markup/smarttagcollection)
+* الوحدة [`aspose.cells.markup`](../../)
+* فئة [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ## end属性
 
-获取群组号码end。
+获取群号end。
 ### 定义：
 ```python
 @property

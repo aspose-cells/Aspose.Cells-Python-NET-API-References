@@ -3,13 +3,13 @@ title: bottom عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 350
 url: /ar/aspose.cells.drawing/lineshape/bottom/
 is_root: false
 ---
 ##  bottom عقار
 
-يمثل عرض الإزاحة الرأسية للشكل من صف الزاوية السفلي bottom، بوحدة البكسل.
+يمثل عرض الإزاحة الرأسية للشكل من صف الزاوية السفلية bottom، بوحدة البكسل.
 
 ###  مثال
 

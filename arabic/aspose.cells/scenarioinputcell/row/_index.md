@@ -1,5 +1,5 @@
 ---
-title: row الملكية
+title: row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/scenarioinputcell/row/
 is_root: false
 ---
-##  row الملكية
+##  row عقار
 
-الحصول على فهرس row لخلية الإدخال وتعيينه.
+يحصل على الفهرس row للخلية المدخلة ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ScenarioInputCell](/cells/python-net/ar/aspose.cells/scenarioinputcell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ScenarioInputCell`](/cells/python-net/ar/aspose.cells/scenarioinputcell)

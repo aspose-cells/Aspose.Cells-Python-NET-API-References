@@ -9,11 +9,11 @@ is_root: false
 ---
 ## auto_fitter_options属性
 
-获取和设置自动调整器选项
+获取并设置自动适配选项
 
-### 评论
+### 注意事项
 
-现在仅适用于 xlsx、spreadsheetML 文件。
+目前仅适用于 xlsx、spreadsheetML 文件。
 ### 定义：
 ```python
 @property

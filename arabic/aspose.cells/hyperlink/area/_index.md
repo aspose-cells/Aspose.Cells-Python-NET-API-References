@@ -1,5 +1,5 @@
 ---
-title: area الملكية
+title: area عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 50
 url: /ar/aspose.cells/hyperlink/area/
 is_root: false
 ---
-##  area الملكية
+##  area عقار
 
 يحصل على نطاق الارتباط التشعبي.
 ###  تعريف:
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellArea](/cells/python-net/ar/aspose.cells/cellarea)
-* فئة [Hyperlink](/cells/python-net/ar/aspose.cells/hyperlink)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea)
+* فئة [`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink)

@@ -1,15 +1,15 @@
 ---
-title: tag الملكية
+title: tag عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1030
+weight: 1180
 url: /ar/aspose.cells.pivot/pivottable/tag/
 is_root: false
 ---
-##  tag الملكية
+##  tag عقار
 
-الحصول على سلسلة محفوظة بتقرير PivotTable.
+يحصل على سلسلة محفوظة مع تقرير PivotTable.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def tag(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

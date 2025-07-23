@@ -1,5 +1,5 @@
 ---
-title: FontConfigs المنشئ
+title: FontConfigs منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/fontconfigs/__init__/
 is_root: false
 ---
-##  FontConfigs() {#}
-بناء نسخة جديدة من FontConfigs
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد لـ FontConfigs
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FontConfigs](/cells/python-net/ar/aspose.cells/fontconfigs)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FontConfigs`](/cells/python-net/ar/aspose.cells/fontconfigs)

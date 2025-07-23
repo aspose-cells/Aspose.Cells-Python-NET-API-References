@@ -3,13 +3,13 @@ title: page_setup属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 680
+weight: 710
 url: /zh/aspose.cells/worksheet/page_setup/
 is_root: false
 ---
 ## page_setup属性
 
-表示此表中的页面设置描述。
+代表此工作表中的页面设置描述。
 ### 定义：
 ```python
 @property

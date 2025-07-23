@@ -7,8 +7,8 @@ weight: 240
 url: /ar/aspose.cells/settableglobalizationsettings/get_table_row_type_of_current/
 is_root: false
 ---
-##  get_table_row_type_of_current {#}
-يحصل على اسم نوع صفوف الجدول الذي يتكون من الصف الحالي في الجدول المشار إليه.
+##  get_table_row_type_of_current(self) {#}
+يحصل على اسم نوع صفوف الجدول التي تتكون من الصف الحالي في الجدول المشار إليه.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_table_row_type_of_current(self):
     ...
 ```

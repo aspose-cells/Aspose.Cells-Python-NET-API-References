@@ -3,13 +3,13 @@ title: number عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 590
 url: /ar/aspose.cells.pivot/pivotfield/number/
 is_root: false
 ---
 ##  number عقار
 
-يمثل تنسيق العرض المدمج للأرقام والتواريخ.
+يمثل تنسيق العرض المدمج للأرقام والتاريخ.
 ###  تعريف:
 ```python
 @property

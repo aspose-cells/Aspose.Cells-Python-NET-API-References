@@ -7,9 +7,9 @@ weight: 260
 url: /ar/aspose.cells/globalizationsettings/get_table_row_type_of_headers/
 is_root: false
 ---
-##  get_table_row_type_of_headers {#}
-يحصل على اسم نوع صفوف الجدول الذي يتكون من رأس الجدول.
-الافتراضي هو "الرؤوس"، لذا في الصيغة، يمثل "#Headers" رأس الجدول.
+##  get_table_row_type_of_headers(self) {#}
+يحصل على اسم نوع صفوف الجدول التي تتكون من رأس الجدول.
+الإعداد الافتراضي هو "Headers"، لذا في الصيغة "#Headers" يمثل رأس الجدول.
 
 
 ###  عائدات
@@ -18,6 +18,7 @@ is_root: false
 
 
 ```python
+
 def get_table_row_type_of_headers(self):
     ...
 ```

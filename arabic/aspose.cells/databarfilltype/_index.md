@@ -3,12 +3,12 @@ title: DataBarFillType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1990
+weight: 1900
 url: /ar/aspose.cells/databarfilltype/
 is_root: false
 ---
 ##  DataBarFillType التعداد
-يحدد كيفية تعبئة شريط البيانات بالألوان.
+يحدد كيفية ملء شريط البيانات باللون.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| SOLID | يتم تعبئة شريط البيانات باللون الصلب.|
-| GRADIENT | يتم تعبئة شريط البيانات بتدرج لوني.|
+| SOLID | يتم ملء شريط البيانات بلون ثابت.|
+| GRADIENT | يتم ملء شريط البيانات بتدرج لوني.|
 
 
 

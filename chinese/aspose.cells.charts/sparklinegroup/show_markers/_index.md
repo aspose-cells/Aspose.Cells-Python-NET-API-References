@@ -1,15 +1,15 @@
 ---
-title: show_markers 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: show_markers属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 230
 url: /zh/aspose.cells.charts/sparklinegroup/show_markers/
 is_root: false
 ---
-## show_markers 属性
+## show_markers属性
 
-指示是否突出显示迷你图组中每条线迷你图中的每个点。
+指示是否突出显示迷你图组中每条迷你图中的每个点。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def show_markers(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [SparklineGroup](/cells/python-net/zh/aspose.cells.charts/sparklinegroup)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`SparklineGroup`](/cells/python-net/zh/aspose.cells.charts/sparklinegroup)

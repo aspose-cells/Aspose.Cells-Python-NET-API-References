@@ -1,29 +1,29 @@
 ---
-title: العد PresetThemeGradientType
+title: PresetThemeGradientType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1090
+weight: 1080
 url: /ar/aspose.cells.drawing/presetthemegradienttype/
 is_root: false
 ---
-##  العد PresetThemeGradientType
-يمثل نوع التدرج اللوني للنسق المعين مسبقًا.
+##  PresetThemeGradientType التعداد
+يمثل نوع التدرج اللوني المحدد مسبقًا.
 
 
 
-يكشف نوع PresetThemeGradientType الأعضاء التالية:
+يكشف النوع PresetThemeGradientType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| LIGHT_GRADIENT | التدرج الخفيف|
-| TOP_SPOTLIGHT | أعلى أضواء كاشفة|
-| MEDIUM_GRADIENT | متدرج متوسط|
-| BOTTOM_SPOTLIGHT | تسليط الضوء السفلي|
-| RADIAL_GRADIENT | شعاعي التدرج|
+| LIGHT_GRADIENT | تدرج الضوء|
+| TOP_SPOTLIGHT | أعلى الأضواء|
+| MEDIUM_GRADIENT | تدرج متوسط|
+| BOTTOM_SPOTLIGHT | الضوء السفلي|
+| RADIAL_GRADIENT | التدرج الشعاعي|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

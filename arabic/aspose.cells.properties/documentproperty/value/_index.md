@@ -1,5 +1,5 @@
 ---
-title: value الملكية
+title: value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 120
 url: /ar/aspose.cells.properties/documentproperty/value/
 is_root: false
 ---
-##  value الملكية
+##  value عقار
 
-الحصول على او تحديد value للعقار.
+يحصل على أو يعين value للخاصية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty)

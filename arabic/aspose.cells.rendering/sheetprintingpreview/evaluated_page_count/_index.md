@@ -1,5 +1,5 @@
 ---
-title: evaluated_page_count الملكية
+title: evaluated_page_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 30
 url: /ar/aspose.cells.rendering/sheetprintingpreview/evaluated_page_count/
 is_root: false
 ---
-##  evaluated_page_count الملكية
+##  evaluated_page_count عقار
 
-قم بتقييم إجمالي عدد الصفحات في ورقة العمل هذه
+تقييم إجمالي عدد الصفحات في ورقة العمل هذه
 
 ###  مثال
 
-يُظهر الكود التالي أسرع طريقة للحصول على عدد الصفحات في ورقة العمل.
+يُظهر الكود التالي أسرع طريقة للحصول على عدد صفحات ورقة العمل.
 
 ```python
 from aspose.cells import Workbook
@@ -33,5 +33,5 @@ def evaluated_page_count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [SheetPrintingPreview](/cells/python-net/ar/aspose.cells.rendering/sheetprintingpreview)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`SheetPrintingPreview`](/cells/python-net/ar/aspose.cells.rendering/sheetprintingpreview)

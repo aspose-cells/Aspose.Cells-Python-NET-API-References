@@ -18,8 +18,8 @@ is_root: false
 | مجال| وصف|
 | :- | :- |
 | AUTOMATIC_SCALE | مقياس تلقائي|
-| CATEGORY_SCALE | فئة مقياس|
-| TIME_SCALE | مقياس زمني|
+| CATEGORY_SCALE | الفئةالمقياس|
+| TIME_SCALE | الجدول الزمني|
 
 
 

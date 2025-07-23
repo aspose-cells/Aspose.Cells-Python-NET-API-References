@@ -1,5 +1,5 @@
 ---
-title: العد ErrorBarType
+title: ErrorBarType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,17 +7,17 @@ weight: 510
 url: /ar/aspose.cells.charts/errorbartype/
 is_root: false
 ---
-##  العد ErrorBarType
-يمثل نوع مقدار شريط الخطأ.
+##  ErrorBarType التعداد
+يمثل نوع مبلغ شريط الخطأ.
 
 
 
-يكشف نوع ErrorBarType الأعضاء التالية:
+يكشف النوع ErrorBarType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| CUSTOM | نوع قيمة InnerCustom.|
+| CUSTOM | نوع القيمة InnerCustom.|
 | FIXED_VALUE | نوع القيمة الثابتة.|
 | PERCENT | نوع النسبة المئوية|
 | ST_DEV | نوع الانحراف المعياري.|
@@ -26,4 +26,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

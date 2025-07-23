@@ -3,16 +3,17 @@ title: طريقة set_view_column_width_pixel
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 890
+weight: 910
 url: /ar/aspose.cells/cells/set_view_column_width_pixel/
 is_root: false
 ---
-##  set_view_column_width_pixel {#int-int}
-يضبط عرض العمود في طريقة عرض مختلفة.
+##  set_view_column_width_pixel(self, column, pixels) {#int-int}
+تعيين عرض العمود في عرض مختلف.
 
 
 
 ```python
+
 def set_view_column_width_pixel(self, column, pixels):
     ...
 ```
@@ -24,7 +25,7 @@ def set_view_column_width_pixel(self, column, pixels):
 | pixels | int | العرض بوحدة البكسل.|
 ###  ملاحظات
 
-إذا كان نوع العرض الحالي هو [`ViewType.PAGE_LAYOUT_VIEW`](/cells/python-net/ar/aspose.cells/viewtype#PAGE_LAYOUT_VIEW)، فإن عرض العمود هو نفس العرض المطبوع.
+إذا كان نوع العرض الحالي هو [`ViewType.PAGE_LAYOUT_VIEW`](/cells/python-net/ar/aspose.cells/viewtype#PAGE_LAYOUT_VIEW)، فسيكون عرض العمود هو نفسه العرض المطبوع.
 
 
 ###  أنظر أيضا

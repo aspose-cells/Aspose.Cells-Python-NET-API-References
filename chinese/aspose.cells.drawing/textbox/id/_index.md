@@ -3,13 +3,13 @@ title: id属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 520
+weight: 510
 url: /zh/aspose.cells.drawing/textbox/id/
 is_root: false
 ---
 ## id属性
 
-获取该形状的标识符。
+获取此形状的标识符。
 
 ### 例子
 

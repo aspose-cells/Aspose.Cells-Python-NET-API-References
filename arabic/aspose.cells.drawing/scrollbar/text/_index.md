@@ -3,13 +3,13 @@ title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /ar/aspose.cells.drawing/scrollbar/text/
 is_root: false
 ---
 ##  text عقار
 
-يمثل السلسلة الموجودة في كائن TextBox هذا.
+يحصل على text لهذا الشكل ويضبطه.
 
 ###  مثال
 

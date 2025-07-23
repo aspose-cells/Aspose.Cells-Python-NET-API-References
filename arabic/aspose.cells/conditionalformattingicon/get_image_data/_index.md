@@ -7,8 +7,8 @@ weight: 30
 url: /ar/aspose.cells/conditionalformattingicon/get_image_data/
 is_root: false
 ---
-##  get_image_data(cell) {#Cell}
-يحصل على بيانات الصورة بإعداد الخلية.
+##  get_image_data(self, cell) {#aspose.cells.Cell}
+يحصل على بيانات الصورة مع إعداد الخلية.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_image_data(self, cell):
     ...
 ```
@@ -24,10 +25,10 @@ def get_image_data(self, cell):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| cell | [Cell](/cells/python-net/ar/aspose.cells/cell) | إعداد الخلية.|
+| cell | [`Cell`](/cells/python-net/ar/aspose.cells/cell) | إعداد الخلية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ConditionalFormattingIcon](/cells/python-net/ar/aspose.cells/conditionalformattingicon)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ConditionalFormattingIcon`](/cells/python-net/ar/aspose.cells/conditionalformattingicon)

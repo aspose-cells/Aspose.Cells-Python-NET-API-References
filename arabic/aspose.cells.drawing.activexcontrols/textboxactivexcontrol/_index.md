@@ -1,66 +1,64 @@
 ---
-title: TextBoxActiveXControl الدرجة
+title: TextBoxActiveXControl صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 100
 url: /ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/
 is_root: false
 ---
-##  TextBoxActiveXControl الدرجة
-يمثل عنصر تحكم ActiveX في مربع نص.
+##  TextBoxActiveXControl صف
+يمثل عنصر تحكم ActiveX في مربع النص.
 
 
 
-**ميراث:** [TextBoxActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/textboxactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**الميراث:** [`TextBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
 
 
 
-يكشف نوع TextBoxActiveXControl الأعضاء التالية:
+يكشف النوع TextBoxActiveXControl عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/workbook) | الحصول على كائن [ActiveXControlBase.workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook).|
-| [type](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/type) | يحصل على نوع عنصر تحكم ActiveX.|
-| [width](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/width) |الحصول على عرض عنصر التحكم وتعيينه بوحدة النقاط.|
-| [height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/height) | الحصول على ارتفاع عنصر التحكم وتعيينه بوحدة النقاط.|
-| [mouse_icon](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/mouse_icon) | الحصول على رمز مخصص وتعيينه لعرضه كمؤشر الماوس لعنصر التحكم.|
-| [mouse_pointer](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/mouse_pointer) | الحصول على نوع الرمز المعروض كمؤشر الماوس لعنصر التحكم وتعيينه.|
-| [fore_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/fore_ole_color) | الحصول على لون الأولي للمقدمة وتعيينه.|
-| [back_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/back_ole_color) | الحصول على لون الخلفية للخلفية وتعيينه.|
-| [is_visible](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_visible) | يشير إلى ما إذا كان عنصر التحكم هذا مرئيًا أم لا.|
-| [shadow](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/shadow) | يشير إلى ما إذا كان سيتم إظهار ظل أم لا.|
-| [linked_cell](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/linked_cell) | الحصول على الخلية المرتبطة وتعيينها.|
-| [list_fill_range](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/list_fill_range) | الحصول على نطاق تعبئة القائمة وتعيينه.|
-| [data](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/data) | الحصول على البيانات الثنائية لعنصر التحكم وتعيينها.|
-| [is_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_enabled) | يشير إلى ما إذا كان عنصر التحكم يمكنه تلقي التركيز والاستجابة للأحداث التي ينشئها المستخدم.|
-| [is_locked](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_locked) | يشير إلى ما إذا كانت البيانات الموجودة في عنصر التحكم مؤمنة للتحرير.|
-| [is_transparent](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_transparent) | يشير إلى ما إذا كان عنصر التحكم شفافًا أم لا.|
-| [is_auto_size](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_auto_size) | الإشارة إلى ما إذا كان سيتم تغيير حجم عنصر التحكم تلقائيًا لعرض محتوياته بالكامل.|
-| [ime_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/ime_mode) |الحصول على وتعيين وضع وقت التشغيل الافتراضي لمحرر أسلوب الإدخال لعنصر التحكم أثناء تلقيه التركيز.|
-| [font](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/font) | يمثل خط عنصر التحكم.|
-| [text_align](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/text_align) | يمثل كيفية محاذاة النص المستخدم بواسطة عنصر التحكم.|
-| [border_style](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/border_style) | يحصل ويضبط نوع الحدود المستخدمة بواسطة عنصر التحكم.|
-| [border_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/border_ole_color) | الحصول على لون الخلفية للخلفية وتعيينه.|
-| [special_effect](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/special_effect) | الحصول على التأثير الخاص لعنصر التحكم وتعيينه.|
-| [max_length](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/max_length) | الحصول على وتعيين الحد الأقصى لعدد الأحرف|
-| [scroll_bars](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/scroll_bars) |يحدد ما إذا كان عنصر التحكم يحتوي على أشرطة تمرير عمودية أو أشرطة تمرير أفقية أو كليهما أو لا شيء.|
-| [password_char](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/password_char) | الحصول على وتعيين حرف ليتم عرضه في مكان الأحرف التي تم إدخالها.|
-| [is_editable](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_editable) | يشير إلى ما إذا كان يمكن للمستخدم الكتابة في عنصر التحكم.|
-| [integral_height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/integral_height) | الإشارة إلى ما إذا كان عنصر التحكم سيعرض سطورًا كاملة فقط من النص دون إظهار أي أسطر جزئية.|
-| [is_drag_behavior_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_drag_behavior_enabled) | الإشارة إلى ما إذا كان السحب والإفلات ممكّنًا لعنصر التحكم.|
-| [enter_key_behavior](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/enter_key_behavior) | تحدد سلوك المفتاح ENTER.<br/>تحدد True أن الضغط على ENTER سيؤدي إلى إنشاء سطر جديد.<br/>تحدد False أن الضغط على ENTER سينقل التركيز إلى الكائن التالي في ترتيب الجدولة.|
-| [enter_field_behavior](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/enter_field_behavior) | يحدد سلوك التحديد عند دخول عنصر التحكم.<br/> تحدد True أن التحديد يظل بدون تغيير منذ آخر مرة كان عنصر التحكم نشطًا.<br/> تحدد False أنه سيتم تحديد كل النص الموجود في عنصر التحكم عند إدخال عنصر التحكم.|
-| [tab_key_behavior](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/tab_key_behavior) | الإشارة إلى ما إذا كانت أحرف الجدولة مسموح بها في نص عنصر التحكم.|
-| [hide_selection](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/hide_selection) | يشير إلى ما إذا كان النص المحدد في عنصر التحكم سيظهر مميزًا عندما لا يكون هناك تركيز على عنصر التحكم.|
+| [workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/workbook) |  |
+| [type](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/type) | يحصل على نوع عنصر التحكم ActiveX.|
+| [width](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/width) |  |
+| [height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/height) |  |
+| [mouse_icon](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/mouse_icon) |  |
+| [mouse_pointer](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/mouse_pointer) |  |
+| [fore_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/fore_ole_color) |  |
+| [back_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/back_ole_color) |  |
+| [is_visible](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_visible) |  |
+| [shadow](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/shadow) |  |
+| [linked_cell](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/linked_cell) |  |
+| [list_fill_range](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/list_fill_range) |  |
+| [data](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/data) |  |
+| [is_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_enabled) |  |
+| [is_locked](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_locked) |  |
+| [is_transparent](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_transparent) |  |
+| [is_auto_size](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_auto_size) |  |
+| [ime_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/ime_mode) |  |
+| [font](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/font) |  |
+| [text_align](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/text_align) |  |
+| [border_style](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/border_style) | يحصل على نوع الحدود التي يستخدمها عنصر التحكم ويقوم بتعيينه.|
+| [border_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/border_ole_color) | يحصل على اللون الأصلي للخلفية ويحدده.|
+| [special_effect](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/special_effect) | يحصل على التأثير الخاص لعنصر التحكم ويقوم بتعيينه.|
+| [max_length](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/max_length) | يحصل على الحد الأقصى لعدد الأحرف ويحدده|
+| [scroll_bars](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/scroll_bars) | يشير إلى ما إذا كان عنصر التحكم يحتوي على أشرطة تمرير عمودية، أو أشرطة تمرير أفقية، أو كليهما، أو لا شيء منهما.|
+| [password_char](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/password_char) | يحصل على حرف ويحدده ليتم عرضه بدلاً من الأحرف المدخلة.|
+| [is_editable](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_editable) | يشير إلى ما إذا كان المستخدم قادرًا على الكتابة في عنصر التحكم.|
+| [integral_height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/integral_height) | يشير إلى ما إذا كان عنصر التحكم سيعرض فقط أسطر النص كاملة دون عرض أي أسطر جزئية.|
+| [is_drag_behavior_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_drag_behavior_enabled) | يشير إلى ما إذا كان السحب والإفلات ممكّنًا لعنصر التحكم.|
+| [enter_key_behavior](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/enter_key_behavior) | يحدد سلوك مفتاح ENTER.<br/>يشير True إلى أن الضغط على مفتاح ENTER سيؤدي إلى إنشاء سطر جديد.<br/> يشير "False" إلى أن الضغط على مفتاح ENTER سيؤدي إلى نقل التركيز إلى الكائن التالي في ترتيب علامات التبويب.|
+| [enter_field_behavior](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/enter_field_behavior) | يحدد سلوك الاختيار عند الدخول إلى عنصر التحكم.<br/> يحدد "صحيح" أن الاختيار يظل دون تغيير منذ المرة الأخيرة التي كان فيها عنصر التحكم نشطًا.<br/> يشير "False" إلى أنه سيتم تحديد كل النص الموجود في عنصر التحكم عند الدخول إلى عنصر التحكم.|
+| [tab_key_behavior](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/tab_key_behavior) | يشير إلى ما إذا كان يُسمح باستخدام أحرف التبويب في نص عنصر التحكم.|
+| [hide_selection](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/hide_selection) | يشير إلى ما إذا كان النص المحدد في عنصر التحكم يظهر مميزًا عندما لا يكون عنصر التحكم محط تركيز.|
 | [is_auto_tab](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_auto_tab) | يشير إلى ما إذا كان التركيز سينتقل تلقائيًا إلى عنصر التحكم التالي عندما يقوم المستخدم بإدخال الحد الأقصى لعدد الأحرف.|
-| [is_multi_line](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_multi_line) | الإشارة إلى ما إذا كان عنصر التحكم يمكنه عرض أكثر من سطر واحد من النص.|
-| [is_auto_word_selected](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_auto_word_selected) | يحدد الوحدة الأساسية المستخدمة لتوسيع التحديد.<br/>تحدد صواب أن الوحدة الأساسية هي حرف واحد.<br/> تحدد القيمة false أن الوحدة الأساسية هي كلمة كاملة.|
-| [is_word_wrapped](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_word_wrapped) | الإشارة إلى ما إذا كانت محتويات عنصر التحكم تلتف تلقائيًا في نهاية السطر.|
-| [text](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/text) | يحصل ويضبط نص عنصر التحكم.|
+| [is_multi_line](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_multi_line) | يشير إلى ما إذا كان عنصر التحكم يمكنه عرض أكثر من سطر واحد من النص.|
+| [is_auto_word_selected](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_auto_word_selected) | يحدد الوحدة الأساسية المستخدمة لتوسيع التحديد.<br/>تحدد القيمة True أن الوحدة الأساسية عبارة عن حرف واحد.<br/> يشير false إلى أن الوحدة الأساسية هي كلمة كاملة.|
+| [is_word_wrapped](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_word_wrapped) | يشير إلى ما إذا كان محتوى عنصر التحكم يلتف تلقائيًا في نهاية السطر.|
+| [text](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/text) |يحصل على نص عنصر التحكم ويضبطه.|
 | [drop_button_style](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/drop_button_style) | يحدد الرمز المعروض على زر الإسقاط|
 | [show_drop_button_type_when](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/show_drop_button_type_when) | يحدد الرمز المعروض على زر الإسقاط|
 
@@ -85,7 +83,5 @@ book.save("exmaple.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
-* فئة [ActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrol)
-* فئة [ActiveXControlBase](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* فئة [TextBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)
+* فئة [`TextBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

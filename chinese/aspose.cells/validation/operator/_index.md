@@ -9,7 +9,7 @@ is_root: false
 ---
 ## operator属性
 
-代表operator，用于数据验证。
+代表数据验证的 operator。
 ### 定义：
 ```python
 @property

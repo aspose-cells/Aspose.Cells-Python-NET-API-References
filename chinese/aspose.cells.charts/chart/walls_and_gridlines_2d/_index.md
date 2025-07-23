@@ -9,7 +9,7 @@ is_root: false
 ---
 ## walls_and_gridlines_2d属性
 
-如果在 3D 图表上以二维方式绘制网格线，则为 True。
+如果网格线在三维图表上以二维方式绘制，则为 True。
 ### 定义：
 ```python
 @property

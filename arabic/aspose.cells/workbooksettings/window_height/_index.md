@@ -3,13 +3,13 @@ title: window_height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 530
 url: /ar/aspose.cells/workbooksettings/window_height/
 is_root: false
 ---
 ##  window_height عقار
 
-ارتفاع النافذة بوحدة النقطة.
+ارتفاع النافذة، بوحدة النقطة.
 ###  تعريف:
 ```python
 @property

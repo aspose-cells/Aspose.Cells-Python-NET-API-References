@@ -1,14 +1,14 @@
 ---
 title: get_comment_title_name方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 60
 url: /zh/aspose.cells/globalizationsettings/get_comment_title_name/
 is_root: false
 ---
-##  get_comment_title_name(type) {#aspose.cells.rendering.CommentTitleType}
-根据评论标题类型获取依赖于语言环境的评论标题名称。
+##  get_comment_title_name(self, type) {#aspose.cells.rendering.CommentTitleType}
+根据注意事项标题类型获取与语言环境相关的注意事项标题名称。
 
 
 ### 返回
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_comment_title_name(self, type):
     ...
 ```
@@ -29,5 +30,5 @@ def get_comment_title_name(self, type):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [GlobalizationSettings](/cells/python-net/zh/aspose.cells/globalizationsettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`GlobalizationSettings`](/cells/python-net/zh/aspose.cells/globalizationsettings)

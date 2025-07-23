@@ -3,13 +3,13 @@ title: image_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 600
+weight: 590
 url: /ar/aspose.cells.drawing/oleobject/image_data/
 is_root: false
 ---
 ##  image_data عقار
 
-يمثل صورة كائن أولي كمصفوفة بايت.
+يمثل صورة كائن ole كمصفوفة بايتات.
 ###  تعريف:
 ```python
 @property

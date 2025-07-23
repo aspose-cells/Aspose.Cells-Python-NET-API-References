@@ -3,7 +3,7 @@ title: FontSchemeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2140
+weight: 2080
 url: /ar/aspose.cells/fontschemetype/
 is_root: false
 ---
@@ -19,7 +19,7 @@ is_root: false
 | :- | :- |
 | NONE | لا أحد|
 | MAJOR | مخطط رئيسي.|
-| MINOR | مخطط بسيط.|
+| MINOR | مخطط صغير.|
 
 
 

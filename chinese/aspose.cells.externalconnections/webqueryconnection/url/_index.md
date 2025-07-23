@@ -1,13 +1,13 @@
 ---
-title: url 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: url属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 390
+weight: 460
 url: /zh/aspose.cells.externalconnections/webqueryconnection/url/
 is_root: false
 ---
-## url 属性
+## url属性
 
 用于刷新外部数据的 URL。
 ### 定义：
@@ -21,5 +21,5 @@ def url(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.externalconnections](../../)
-* 类 [WebQueryConnection](/cells/python-net/zh/aspose.cells.externalconnections/webqueryconnection)
+* 模块[`aspose.cells.externalconnections`](../../)
+* 类 [`WebQueryConnection`](/cells/python-net/zh/aspose.cells.externalconnections/webqueryconnection)

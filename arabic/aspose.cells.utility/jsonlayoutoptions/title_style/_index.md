@@ -1,15 +1,15 @@
 ---
-title: title_style الملكية
+title: title_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells.utility/jsonlayoutoptions/title_style/
 is_root: false
 ---
-##  title_style الملكية
+##  title_style عقار
 
-الحصول على نمط العنوان وتعيينه.
+يحصل على نمط العنوان ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def title_style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.utility](../../)
-* فئة [JsonLayoutOptions](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells.utility`](../../)
+* فئة [`JsonLayoutOptions`](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

@@ -1,5 +1,5 @@
 ---
-title: orientation الملكية
+title: orientation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 470
 url: /ar/aspose.cells/pagesetup/orientation/
 is_root: false
 ---
-##  orientation الملكية
+##  orientation عقار
 
 يمثل طباعة الصفحة orientation.
 ###  تعريف:
@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageOrientationType](/cells/python-net/ar/aspose.cells/pageorientationtype)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageOrientationType`](/cells/python-net/ar/aspose.cells/pageorientationtype)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

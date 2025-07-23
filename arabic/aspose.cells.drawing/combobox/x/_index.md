@@ -3,13 +3,13 @@ title: x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1280
+weight: 1290
 url: /ar/aspose.cells.drawing/combobox/x/
 is_root: false
 ---
 ##  x عقار
 
-الحصول على الإزاحة الأفقية للشكل من الحد الأيسر لورقة العمل وتعيينها، بوحدة البكسل.
+يحصل على الإزاحة الأفقية للشكل من الحد الأيسر لورقة العمل، ويحددها بوحدة البكسل.
 
 ###  مثال
 

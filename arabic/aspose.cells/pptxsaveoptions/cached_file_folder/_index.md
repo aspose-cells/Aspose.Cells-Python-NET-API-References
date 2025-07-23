@@ -8,8 +8,6 @@ url: /ar/aspose.cells/pptxsaveoptions/cached_file_folder/
 is_root: false
 ---
 ##  cached_file_folder عقار
-
-يتم استخدام مجلد الملفات المخزنة مؤقتًا لتخزين بعض البيانات الكبيرة.
 ###  تعريف:
 ```python
 @property

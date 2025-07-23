@@ -3,17 +3,17 @@ title: lower_delta_x属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 750
+weight: 760
 url: /zh/aspose.cells.drawing/label/lower_delta_x/
 is_root: false
 ---
 ## lower_delta_x属性
 
-获取或设置形状相对于其右下角列的水平偏移量。
+获取或设置形状与其右下角列的水平偏移量。
 
-### 评论
+### 注意事项
 
-值的范围是0到1024。
+值的范围是 0 至 1024。
 
 ### 例子
 

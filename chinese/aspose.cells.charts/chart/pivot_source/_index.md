@@ -9,14 +9,14 @@ is_root: false
 ---
 ## pivot_source属性
 
-源是数据透视表的数据。
-如果 PivotSource 不为空，则图表为数据透视图。
+来源是数据透视表的数据。
+如果 PivotSource 不为空，则图表为 PivotChart。
 
-### 评论
+### 注意事项
 
-如果数据透视表“PivotTable1”位于文件“Book1.xls”中的工作表“Sheet1”中。
-如果图表和数据透视表不在同一工作簿中，则数据透视表来源可能是“[Book1.xls]Sheet1!PivotTable1”。
-如果设置该属性，之前的数据源设置将会丢失。
+假设文件“Book1.xls”中的工作表“Sheet1”中有数据透视表“PivotTable1”。
+如果图表和数据透视表不在同一个工作簿中，则pivotSource可以是“[Book1.xls]Sheet1！PivotTable1”。
+如果设置此属性，以前的数据源设置将会丢失。
 ### 定义：
 ```python
 @property

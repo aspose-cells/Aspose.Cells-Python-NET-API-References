@@ -1,6 +1,6 @@
 ---
 title: TableToRangeOptions类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
@@ -8,24 +8,24 @@ url: /zh/aspose.cells.tables/tabletorangeoptions/
 is_root: false
 ---
 ## TableToRangeOptions类
-表示将表转换为区域时的选项。
+表示将表转换为范围时的选项。
 
 
 
-TableToRangeOptions 类型公开了以下成员：
+TableToRangeOptions 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [TableToRangeOptions()](/cells/python-net/zh/aspose.cells.tables/tabletorangeoptions/__init__/#) |构造 TableToRangeOptions 的新实例|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells.tables/tabletorangeoptions/__init__/#) |构造 TableToRangeOptions 的新实例|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [last_row](/cells/python-net/zh/aspose.cells.tables/tabletorangeoptions/last_row) |获取和设置表的最后一行索引。|
+| [last_row](/cells/python-net/zh/aspose.cells.tables/tabletorangeoptions/last_row) |获取并设置表的最后一行索引。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.tables](..)
+* 模块[`aspose.cells.tables`](..)

@@ -10,9 +10,9 @@ is_root: false
  ال**Aspose.Cells.Slides** تحتوي مساحة الاسم على فئات تحدد الإعدادات لتحويل Excel إلى PowerPoint.
 
 ###  التعدادات
-|تعداد| وصف|
+| تعداد| وصف|
 | :- | :- |
-| [`AdjustFontSizeForRowType`](/cells/python-net/ar/aspose.cells.slides/adjustfontsizeforrowtype) | يمثل أي نوع من الصفوف يجب تعديلها.|
+| [`AdjustFontSizeForRowType`](/cells/python-net/ar/aspose.cells.slides/adjustfontsizeforrowtype) | يمثل نوع الصفوف التي يجب تعديلها.|
 | [`SlideViewType`](/cells/python-net/ar/aspose.cells.slides/slideviewtype) | يمثل النوع عند التصدير إلى الشرائح.|
 
 

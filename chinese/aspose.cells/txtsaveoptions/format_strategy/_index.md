@@ -1,15 +1,15 @@
 ---
-title: format_strategy 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: format_strategy属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 130
 url: /zh/aspose.cells/txtsaveoptions/format_strategy/
 is_root: false
 ---
-## format_strategy 属性
+## format_strategy属性
 
-获取和设置将单元格值导出为字符串时的格式策略。
+获取并设置将单元格值导出为字符串时的格式策略。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def format_strategy(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CellValueFormatStrategy](/cells/python-net/zh/aspose.cells/cellvalueformatstrategy)
-* 类 [TxtSaveOptions](/cells/python-net/zh/aspose.cells/txtsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`CellValueFormatStrategy`](/cells/python-net/zh/aspose.cells/cellvalueformatstrategy)
+* 类 [`TxtSaveOptions`](/cells/python-net/zh/aspose.cells/txtsaveoptions)

@@ -3,13 +3,13 @@ title: text_body属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 980
+weight: 990
 url: /zh/aspose.cells.drawing/combobox/text_body/
 is_root: false
 ---
 ## text_body属性
 
-获取和设置形状文本的设置。
+获取并设置形状文本的设置。
 
 ### 例子
 

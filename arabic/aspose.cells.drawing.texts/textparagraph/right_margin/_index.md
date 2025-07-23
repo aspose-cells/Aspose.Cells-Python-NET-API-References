@@ -1,5 +1,5 @@
 ---
-title: right_margin الملكية
+title: right_margin عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 180
 url: /ar/aspose.cells.drawing.texts/textparagraph/right_margin/
 is_root: false
 ---
-##  right_margin الملكية
+##  right_margin عقار
 
 يحدد الهامش الأيمن للفقرة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def right_margin(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextParagraph](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextParagraph`](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)

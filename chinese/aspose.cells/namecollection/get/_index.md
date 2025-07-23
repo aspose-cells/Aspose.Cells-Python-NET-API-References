@@ -1,14 +1,14 @@
 ---
 title: get方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 60
 url: /zh/aspose.cells/namecollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-添加 API for Python Via .Net.since this[int index] is unsupported
+##  get(self, index) {#int}
+通过 .Net 添加 API for Python，因为不支持 this[int index]
 
 
 ### 返回
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -27,8 +28,8 @@ def get(self, index):
 | index | int |元素的从零开始的索引。|
 
 
-##  get(text) {#str}
-添加 API for Python Via .Net.since this[string text] is unsupported
+##  get(self, text) {#str}
+通过 .Net 添加 API for Python，因为此[字符串文本]不受支持
 
 
 ### 返回
@@ -37,6 +38,7 @@ def get(self, index):
 
 
 ```python
+
 def get(self, text):
     ...
 ```
@@ -49,5 +51,5 @@ def get(self, text):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [NameCollection](/cells/python-net/zh/aspose.cells/namecollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`NameCollection`](/cells/python-net/zh/aspose.cells/namecollection)

@@ -3,13 +3,13 @@ title: reflection عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 880
+weight: 890
 url: /ar/aspose.cells.drawing/listbox/reflection/
 is_root: false
 ---
 ##  reflection عقار
 
-يمثل كائن [`ReflectionEffect`](/cells/python-net/ar/aspose.cells.drawing/reflectioneffect) الذي يحدد تأثير reflection لعنصر المخطط أو الشكل.
+يمثل كائن [`ReflectionEffect`](/cells/python-net/ar/aspose.cells.drawing/reflectioneffect) الذي يحدد التأثير reflection لعنصر الرسم البياني أو الشكل.
 
 ###  مثال
 

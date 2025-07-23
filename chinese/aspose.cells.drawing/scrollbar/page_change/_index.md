@@ -3,7 +3,7 @@ title: page_change属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 870
+weight: 880
 url: /zh/aspose.cells.drawing/scrollbar/page_change/
 is_root: false
 ---

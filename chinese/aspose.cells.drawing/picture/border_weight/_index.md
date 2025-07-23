@@ -3,13 +3,13 @@ title: border_weight属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 340
+weight: 360
 url: /zh/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
 ## border_weight属性
 
-获取或设置图片边框线的粗细，以 pt 为单位。
+获取或设置图片边框线的粗细，以pt为单位。
 
 ### 例子
 

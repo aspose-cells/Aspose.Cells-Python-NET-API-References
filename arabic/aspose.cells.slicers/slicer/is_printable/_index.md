@@ -1,5 +1,5 @@
 ---
-title: is_printable الملكية
+title: is_printable عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 140
 url: /ar/aspose.cells.slicers/slicer/is_printable/
 is_root: false
 ---
-##  is_printable الملكية
+##  is_printable عقار
 
-يشير إلى ما إذا كان كائن تقطيع الشرائح قابل للطباعة.
+يشير إلى ما إذا كان كائن المقطع قابلاً للطباعة.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def is_printable(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

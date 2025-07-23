@@ -9,7 +9,7 @@ is_root: false
 ---
 ## hi_lo_lines属性
 
-返回一个 HiLoLines 对象，该对象表示折线图上系列的高低线。
+返回一个 HiLoLines 对象，该对象代表折线图上一系列的高低线。
 仅适用于折线图。
 ### 定义：
 ```python

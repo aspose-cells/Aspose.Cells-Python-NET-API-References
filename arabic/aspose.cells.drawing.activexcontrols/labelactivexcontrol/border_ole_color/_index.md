@@ -1,5 +1,5 @@
 ---
-title: border_ole_color الملكية
+title: border_ole_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.drawing.activexcontrols/labelactivexcontrol/border_ole_color/
 is_root: false
 ---
-##  border_ole_color الملكية
+##  border_ole_color عقار
 
-الحصول على لون الخلفية للخلفية وتعيينه.
+يحصل على اللون الأصلي للخلفية ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def border_ole_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [LabelActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`LabelActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

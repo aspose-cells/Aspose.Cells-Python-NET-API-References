@@ -10,7 +10,7 @@ is_root: false
 ##  page_scale عقار
 
 يحصل على مقياس الصفحة المحسوب للورقة.
-يُرجع المقياس المحدد إذا تم ضبط [`PageSetup.zoom`](/cells/python-net/ar/aspose.cells/pagesetup#zoom). وبخلاف ذلك، يتم إرجاع المقياس المحسوب وفقًا لـ [`PageSetup.fit_to_pages_wide`](/cells/python-net/ar/aspose.cells/pagesetup#fit_to_pages_wide) و[`PageSetup.fit_to_pages_tall`](/cells/python-net/ar/aspose.cells/pagesetup#fit_to_pages_tall).
+يُرجع المقياس المُعيَّن إذا كان [`PageSetup.zoom`](/cells/python-net/ar/aspose.cells/pagesetup#zoom) مُعيَّنًا. وإلا، يُرجع المقياس المحسوب وفقًا لـ [`PageSetup.fit_to_pages_wide`](/cells/python-net/ar/aspose.cells/pagesetup#fit_to_pages_wide) و[`PageSetup.fit_to_pages_tall`](/cells/python-net/ar/aspose.cells/pagesetup#fit_to_pages_tall).
 
 ###  مثال
 

@@ -1,5 +1,5 @@
 ---
-title: text الملكية
+title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 160
 url: /ar/aspose.cells.drawing.texts/fontsettingcollection/text/
 is_root: false
 ---
-##  text الملكية
+##  text عقار
 
-الحصول على text للشكل وتعيينه.
+يحصل على text من الشكل ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [FontSettingCollection](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`FontSettingCollection`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection)

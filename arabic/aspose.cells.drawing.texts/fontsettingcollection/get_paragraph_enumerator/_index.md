@@ -7,8 +7,8 @@ weight: 70
 url: /ar/aspose.cells.drawing.texts/fontsettingcollection/get_paragraph_enumerator/
 is_root: false
 ---
-##  get_paragraph_enumerator() {#}
-يحصل على تعداد الفقرات.
+##  get_paragraph_enumerator(self) {#}
+يحصل على عداد الفقرات.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_paragraph_enumerator(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_paragraph_enumerator(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [FontSettingCollection](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`FontSettingCollection`](/cells/python-net/ar/aspose.cells.drawing.texts/fontsettingcollection)

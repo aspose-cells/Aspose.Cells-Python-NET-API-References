@@ -7,16 +7,17 @@ weight: 100
 url: /zh/aspose.cells/globalizationsettings/get_error_value_string/
 is_root: false
 ---
-##  get_error_value_string {#str}
+##  get_error_value_string(self, err) {#str}
 获取单元格错误值的显示字符串值
 
 
-### 退货
+### 返回
 
-默认情况下返回错误值本身
+默认返回错误值本身
 
 
 ```python
+
 def get_error_value_string(self, err):
     ...
 ```

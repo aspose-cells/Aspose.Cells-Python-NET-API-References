@@ -1,6 +1,6 @@
 ---
 title: TableStyle类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
@@ -8,13 +8,13 @@ url: /zh/aspose.cells.tables/tablestyle/
 is_root: false
 ---
 ## TableStyle类
-表示表格样式。
+代表表格样式。
 
 
 
-TableStyle 类型公开了以下成员：
+TableStyle 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [name](/cells/python-net/zh/aspose.cells.tables/tablestyle/name) |获取表格样式的名称。|
@@ -65,4 +65,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.tables](..)
+* 模块[`aspose.cells.tables`](..)

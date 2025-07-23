@@ -1,5 +1,5 @@
 ---
-title: allow_inserting_column الملكية
+title: allow_inserting_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 150
 url: /ar/aspose.cells/protection/allow_inserting_column/
 is_root: false
 ---
-##  allow_inserting_column الملكية
+##  allow_inserting_column عقار
 
-يمثل حالة السماح بإدراج الأعمدة في ورقة عمل محمية
+يمثل ما إذا كان يُسمح بإدراج الأعمدة في ورقة عمل محمية
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_inserting_column(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Protection](/cells/python-net/ar/aspose.cells/protection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Protection`](/cells/python-net/ar/aspose.cells/protection)

@@ -1,5 +1,5 @@
 ---
-title: data_labels الملكية
+title: data_labels عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 110
 url: /ar/aspose.cells.charts/trendline/data_labels/
 is_root: false
 ---
-##  data_labels الملكية
+##  data_labels عقار
 
-يمثل الكائن DataLabels للسلسلة المحددة.
+يمثل كائن DataLabels للسلسلة المحددة.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def data_labels(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
-* فئة [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* فئة [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline)

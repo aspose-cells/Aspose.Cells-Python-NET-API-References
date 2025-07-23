@@ -9,7 +9,7 @@ is_root: false
 ---
 ## param_count属性
 
-获取参数个数
+获取参数的数量
 ### 定义：
 ```python
 @property

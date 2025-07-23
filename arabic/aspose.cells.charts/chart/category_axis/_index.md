@@ -1,15 +1,15 @@
 ---
-title: category_axis الملكية
+title: category_axis عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 200
 url: /ar/aspose.cells.charts/chart/category_axis/
 is_root: false
 ---
-##  category_axis الملكية
+##  category_axis عقار
 
-الحصول على المحور "س" في الرسم البياني.
+يحصل على المحور X للرسم البياني.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def category_axis(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Axis](/cells/python-net/ar/aspose.cells.charts/axis)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Axis`](/cells/python-net/ar/aspose.cells.charts/axis)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

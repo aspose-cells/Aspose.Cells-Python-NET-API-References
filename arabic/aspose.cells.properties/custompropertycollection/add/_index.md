@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.properties/custompropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
-يضيف معلومات الخاصية المخصصة.
+##  add(self, name, value) {#str-str}
+إضافة معلومات الملكية المخصصة.
 
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self, name, value):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [CustomPropertyCollection](/cells/python-net/ar/aspose.cells.properties/custompropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`CustomPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/custompropertycollection)

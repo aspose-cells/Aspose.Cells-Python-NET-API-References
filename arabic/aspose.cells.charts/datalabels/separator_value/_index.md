@@ -3,13 +3,13 @@ title: separator_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 410
 url: /ar/aspose.cells.charts/datalabels/separator_value/
 is_root: false
 ---
 ##  separator_value عقار
 
-الحصول على قيمة الفاصل المستخدمة أو تعيينها لتسميات البيانات في المخطط.
+يحصل على قيمة الفاصل المستخدمة لعلامات البيانات على الرسم البياني أو يعينها.
 ###  تعريف:
 ```python
 @property

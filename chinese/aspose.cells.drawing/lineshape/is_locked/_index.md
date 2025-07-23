@@ -3,20 +3,25 @@ title: is_locked属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 670
+weight: 680
 url: /zh/aspose.cells.drawing/lineshape/is_locked/
 is_root: false
 ---
 ## is_locked属性
 
-如果对象被锁定，则为 True；如果在工作表受保护时可以修改对象，则为 False。
+ True 表示当工作表受到保护时，对象不能被修改。
+请注意，仅当工作表或工作表中的对象受到保护时，此值才有意义。
 
 ### 例子
 
 ```python
 
-if shape.is_locked:
+# Sets the specified shape to unlocked state
+if shape.worksheet.is_protected and shape.is_locked:
     shape.is_locked = False
+# Sets the specified shape to a locked state
+if shape.worksheet.is_protected and notshape.is_locked:
+    shape.is_locked = True
 
 ```
 ### 定义：

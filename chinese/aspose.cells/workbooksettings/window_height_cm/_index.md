@@ -3,13 +3,13 @@ title: window_height_cm属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 530
+weight: 540
 url: /zh/aspose.cells/workbooksettings/window_height_cm/
 is_root: false
 ---
 ## window_height_cm属性
 
-窗户的高度，单位为厘米。
+窗口的高度，单位为厘米。
 ### 定义：
 ```python
 @property

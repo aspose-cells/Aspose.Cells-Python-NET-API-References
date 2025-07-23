@@ -9,7 +9,7 @@ is_root: false
 ---
 ## convert_numeric_data属性
 
-获取或设置一个值，该值指示文本文件中的字符串是否转换为数值数据。
+获取或设置一个值，该值指示文本文件中的字符串是否转换为数字数据。
 ### 定义：
 ```python
 @property

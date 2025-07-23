@@ -1,5 +1,5 @@
 ---
-title: cell الملكية
+title: cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.rendering/drawobject/cell/
 is_root: false
 ---
-##  cell الملكية
+##  cell عقار
 
-يشير إلى عنصر Cell عند التجسيد.
+يشير إلى الكائن Cell عند العرض.
 يمكن الوصول إلى جميع خصائص cell.
 ###  تعريف:
 ```python
@@ -19,6 +19,6 @@ def cell(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
-* فئة [DrawObject](/cells/python-net/ar/aspose.cells.rendering/drawobject)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)
+* فئة [`DrawObject`](/cells/python-net/ar/aspose.cells.rendering/drawobject)

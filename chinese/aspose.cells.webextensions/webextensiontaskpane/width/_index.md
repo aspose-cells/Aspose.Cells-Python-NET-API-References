@@ -1,15 +1,15 @@
 ---
-title: width 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: width属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.webextensions/webextensiontaskpane/width/
 is_root: false
 ---
-## width 属性
+## width属性
 
-获取和设置此任务窗格实例的默认值 width。
+获取并设置此任务窗格实例的默认值 width。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def width(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.webextensions](../../)
-* 类 [WebExtensionTaskPane](/cells/python-net/zh/aspose.cells.webextensions/webextensiontaskpane)
+* 模块[`aspose.cells.webextensions`](../../)
+* 类 [`WebExtensionTaskPane`](/cells/python-net/zh/aspose.cells.webextensions/webextensiontaskpane)

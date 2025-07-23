@@ -3,13 +3,13 @@ title: sheet_tab_bar_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 480
 url: /ar/aspose.cells/workbooksettings/sheet_tab_bar_width/
 is_root: false
 ---
 ##  sheet_tab_bar_width عقار
 
-عرض شريط علامات تبويب ورقة العمل (بنسبة 1/1000 من عرض النافذة).
+عرض شريط علامات تبويب ورقة العمل (1/1000 من عرض النافذة).
 ###  تعريف:
 ```python
 @property

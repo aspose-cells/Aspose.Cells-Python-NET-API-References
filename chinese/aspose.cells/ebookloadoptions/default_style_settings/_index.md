@@ -9,7 +9,7 @@ is_root: false
 ---
 ## default_style_settings属性
 
-获取用于初始化工作簿样式的默认样式设置
+获取初始化工作簿样式的默认样式设置
 ### 定义：
 ```python
 @property

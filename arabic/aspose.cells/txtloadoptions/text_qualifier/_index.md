@@ -3,17 +3,17 @@ title: text_qualifier عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 400
 url: /ar/aspose.cells/txtloadoptions/text_qualifier/
 is_root: false
 ---
 ##  text_qualifier عقار
 
-يحدد مؤهل النص لقيم الخلية. المؤهل الافتراضي هو ''''.
+يُحدد مُؤهل النص لقيم الخلايا. المُؤهل الافتراضي هو '"'.
 
 ###  ملاحظات
 
-عند تعيين هذه الخاصية، يصبح [`TxtLoadOptions.has_text_qualifier`](/cells/python-net/ar/aspose.cells/txtloadoptions#has_text_qualifier) صحيحًا تلقائيًا.
+عند تعيين هذه الخاصية، سيصبح [`TxtLoadOptions.has_text_qualifier`](/cells/python-net/ar/aspose.cells/txtloadoptions#has_text_qualifier) صحيحًا تلقائيًا.
 ###  تعريف:
 ```python
 @property

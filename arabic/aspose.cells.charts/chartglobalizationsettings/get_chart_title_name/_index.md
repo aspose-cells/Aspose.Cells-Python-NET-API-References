@@ -7,8 +7,8 @@ weight: 40
 url: /ar/aspose.cells.charts/chartglobalizationsettings/get_chart_title_name/
 is_root: false
 ---
-##  get_chart_title_name() {#}
-الحصول على اسم عنوان المخطط.
+##  get_chart_title_name(self) {#}
+يحصل على اسم عنوان الرسم البياني.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_chart_title_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_chart_title_name(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartGlobalizationSettings](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartGlobalizationSettings`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings)

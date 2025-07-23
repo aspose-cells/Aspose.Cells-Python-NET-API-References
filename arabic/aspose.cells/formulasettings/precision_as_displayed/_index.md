@@ -1,5 +1,5 @@
 ---
-title: precision_as_displayed الملكية
+title: precision_as_displayed عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 120
 url: /ar/aspose.cells/formulasettings/precision_as_displayed/
 is_root: false
 ---
-##  precision_as_displayed الملكية
+##  precision_as_displayed عقار
 
-ما إذا كان سيتم تعيين دقة النتيجة المحسوبة كما يتم عرضها أثناء حساب الصيغ أم لا
+ما إذا كان سيتم ضبط دقة النتيجة المحسوبة كما يتم عرضها أثناء حساب الصيغ
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def precision_as_displayed(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormulaSettings](/cells/python-net/ar/aspose.cells/formulasettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormulaSettings`](/cells/python-net/ar/aspose.cells/formulasettings)

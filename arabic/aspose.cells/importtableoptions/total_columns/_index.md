@@ -1,5 +1,5 @@
 ---
-title: total_columns الملكية
+title: total_columns عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 160
 url: /ar/aspose.cells/importtableoptions/total_columns/
 is_root: false
 ---
-##  total_columns الملكية
+##  total_columns عقار
 
-الحصول على أو تعيين إجمالي عدد الأعمدة للاستيراد من مصدر البيانات. -1 تعني جميع صفوف مصدر البيانات المحدد.
+يحصل على إجمالي عدد الأعمدة المراد استيرادها من مصدر البيانات أو يعينه. -1 يعني جميع الصفوف الخاصة بمصدر البيانات المحدد.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def total_columns(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ImportTableOptions](/cells/python-net/ar/aspose.cells/importtableoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ImportTableOptions`](/cells/python-net/ar/aspose.cells/importtableoptions)

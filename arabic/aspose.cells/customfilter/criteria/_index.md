@@ -1,5 +1,5 @@
 ---
-title: criteria الملكية
+title: criteria عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/customfilter/criteria/
 is_root: false
 ---
-##  criteria الملكية
+##  criteria عقار
 
-يحصل على criteria ويضبطه.
+يحصل على criteria ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def criteria(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CustomFilter](/cells/python-net/ar/aspose.cells/customfilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CustomFilter`](/cells/python-net/ar/aspose.cells/customfilter)

@@ -7,8 +7,8 @@ weight: 120
 url: /ar/aspose.cells/worksheetcollection/get_range_by_name/
 is_root: false
 ---
-##  get_range_by_name(range_name) {#str}
-يحصل على كائن النطاق باسم محدد مسبقًا.
+##  get_range_by_name(self, range_name) {#str}
+يحصل على كائن النطاق حسب الاسم المحدد مسبقًا.
 
 
 ###  عائدات
@@ -16,10 +16,11 @@ is_root: false
 كائن النطاق.
 
 
-إرجاع القيمة فارغة إذا كان النطاق المسمى غير موجود.
+يتم إرجاع قيمة null إذا لم يكن النطاق المسمى موجودًا.
 
 
 ```python
+
 def get_range_by_name(self, range_name):
     ...
 ```
@@ -30,8 +31,8 @@ def get_range_by_name(self, range_name):
 | range_name | str | اسم النطاق.|
 
 
-##  get_range_by_name(range_name, current_sheet_index, include_table) {#str-int-bool}
-يحصل على [Range](/cells/python-net/ar/aspose.cells/range) بالاسم المحدد مسبقًا أو اسم الجدول
+##  get_range_by_name(self, range_name, current_sheet_index, include_table) {#str-int-bool}
+يحصل على [`Range`](/cells/python-net/ar/aspose.cells/range) حسب الاسم المحدد مسبقًا أو اسم الجدول
 
 
 ###  عائدات
@@ -40,6 +41,7 @@ def get_range_by_name(self, range_name):
 
 
 ```python
+
 def get_range_by_name(self, range_name, current_sheet_index, include_table):
     ...
 ```
@@ -48,12 +50,12 @@ def get_range_by_name(self, range_name, current_sheet_index, include_table):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | range_name | str | اسم النطاق أو اسم الجدول.|
-| current_sheet_index | int | فهرس الورقة. -1 يمثل العالمية.|
-| include_table | bool | يشير إلى ما إذا كان يتم فحص كل الجداول.|
+| current_sheet_index | int | مؤشر الورقة -1 يمثل العالمي.|
+| include_table | bool | يشير إلى ما إذا كان يتم التحقق من كافة الجداول.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

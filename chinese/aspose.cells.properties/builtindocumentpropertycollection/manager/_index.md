@@ -1,13 +1,13 @@
 ---
-title: manager 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: manager属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 300
+weight: 310
 url: /zh/aspose.cells.properties/builtindocumentpropertycollection/manager/
 is_root: false
 ---
-## manager 属性
+## manager属性
 
 获取或设置 manager 属性。
 ### 定义：
@@ -21,5 +21,5 @@ def manager(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.properties](../../)
-* 类 [BuiltInDocumentPropertyCollection](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)
+* 模块[`aspose.cells.properties`](../../)
+* 类 [`BuiltInDocumentPropertyCollection`](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)

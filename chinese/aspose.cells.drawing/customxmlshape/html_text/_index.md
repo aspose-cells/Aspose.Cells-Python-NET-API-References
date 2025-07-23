@@ -3,13 +3,13 @@ title: html_text属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 490
+weight: 480
 url: /zh/aspose.cells.drawing/customxmlshape/html_text/
 is_root: false
 ---
 ## html_text属性
 
-获取和设置包含此文本框中的数据和某些格式的 html 字符串。
+获取并设置此文本框中包含数据和一些格式的 html 字符串。
 
 ### 例子
 

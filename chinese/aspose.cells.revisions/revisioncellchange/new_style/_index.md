@@ -1,13 +1,13 @@
 ---
-title: new_style 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: new_style属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
 url: /zh/aspose.cells.revisions/revisioncellchange/new_style/
 is_root: false
 ---
-## new_style 属性
+## new_style属性
 
 获取单元格的新样式。
 ### 定义：
@@ -18,6 +18,6 @@ def new_style(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.revisions](../../)
-* 类 [RevisionCellChange](/cells/python-net/zh/aspose.cells.revisions/revisioncellchange)
-* 类 [Style](/cells/python-net/zh/aspose.cells/style)
+* 模块[`aspose.cells.revisions`](../../)
+* 类 [`RevisionCellChange`](/cells/python-net/zh/aspose.cells.revisions/revisioncellchange)
+* 类 [`Style`](/cells/python-net/zh/aspose.cells/style)

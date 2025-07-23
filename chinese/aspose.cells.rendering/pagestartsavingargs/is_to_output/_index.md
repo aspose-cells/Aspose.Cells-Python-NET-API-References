@@ -1,16 +1,16 @@
 ---
-title: is_to_output 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_to_output属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.rendering/pagestartsavingargs/is_to_output/
 is_root: false
 ---
-## is_to_output 属性
+## is_to_output属性
 
-获取或设置一个值，该值指示是否应输出页面。
-默认值是true。
+获取或设置一个值，该值指示是否应该输出页面。
+默认值为 true。
 ### 定义：
 ```python
 @property
@@ -22,5 +22,5 @@ def is_to_output(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](../../)
-* 类 [PageStartSavingArgs](/cells/python-net/zh/aspose.cells.rendering/pagestartsavingargs)
+* 模块[`aspose.cells.rendering`](../../)
+* 类 [`PageStartSavingArgs`](/cells/python-net/zh/aspose.cells.rendering/pagestartsavingargs)

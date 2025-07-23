@@ -1,5 +1,5 @@
 ---
-title: end_arrowhead_style الملكية
+title: end_arrowhead_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 130
 url: /ar/aspose.cells.drawing/lineformat/end_arrowhead_style/
 is_root: false
 ---
-##  end_arrowhead_style الملكية
+##  end_arrowhead_style عقار
 
-الحصول على نوع سهم النهاية للخط وتعيينه.
+يحصل على نوع السهم النهائي للخط ويحدده.
 
 ###  مثال
 
@@ -30,6 +30,6 @@ def end_arrowhead_style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
-* فئة [MsoArrowheadStyle](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadstyle)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* فئة [`MsoArrowheadStyle`](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadstyle)

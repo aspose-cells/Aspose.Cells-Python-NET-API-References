@@ -3,16 +3,16 @@ title: show_all_items عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 660
 url: /ar/aspose.cells.pivot/pivotfield/show_all_items/
 is_root: false
 ---
 ##  show_all_items عقار
 
- الإشارة إلى ما إذا كانت كافة العناصر معروضة في تقرير PivotTable أم لا،
+ يشير إلى ما إذا كان سيتم عرض جميع العناصر في تقرير PivotTable،
 حتى لو لم تحتوي على بيانات ملخصة.
 إظهار العناصر التي لا تحتوي على بيانات
-القيمة الافتراضية هي كاذبة.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

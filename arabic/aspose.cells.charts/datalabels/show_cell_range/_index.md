@@ -3,13 +3,13 @@ title: show_cell_range عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 470
 url: /ar/aspose.cells.charts/datalabels/show_cell_range/
 is_root: false
 ---
 ##  show_cell_range عقار
 
-يشير إلى ما إذا كان يتم عرض نطاق الخلايا كتسميات البيانات.
+يشير إلى ما إذا كان سيتم عرض نطاق الخلايا كعلامات بيانات.
 ###  تعريف:
 ```python
 @property

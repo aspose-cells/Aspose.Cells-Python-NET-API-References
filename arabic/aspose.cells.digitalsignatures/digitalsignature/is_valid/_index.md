@@ -1,16 +1,16 @@
 ---
-title: is_valid الملكية
+title: is_valid عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells.digitalsignatures/digitalsignature/is_valid/
 is_root: false
 ---
-##  is_valid الملكية
+##  is_valid عقار
 
-إذا كان هذا التوقيع الرقمي صحيحًا ولم يتم العبث بالمستند ،
-هذه القيمة ستكون صحيحة.
+إذا كان هذا التوقيع الرقمي صالحًا ولم يتم العبث بالمستند،
+ستكون هذه القيمة صحيحة.
 ###  تعريف:
 ```python
 @property
@@ -19,5 +19,5 @@ def is_valid(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.digitalsignatures](../../)
-* فئة [DigitalSignature](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature)
+* الوحدة [`aspose.cells.digitalsignatures`](../../)
+* فئة [`DigitalSignature`](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature)

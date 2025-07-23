@@ -9,11 +9,11 @@ is_root: false
 ---
 ## sheet_set属性
 
-获取或设置要渲染的工作表。默认为工作簿中的所有可见工作表：[`SheetSet.visible`](/cells/python-net/zh/aspose.cells.rendering/sheetset#visible)。
+获取或设置要渲染的工作表。默认值为工作簿中所有可见的工作表：[`SheetSet.visible`](/cells/python-net/zh/aspose.cells.rendering/sheetset#visible)。
 
-### 评论
+### 注意事项
 
-在 [`SheetRender`](/cells/python-net/zh/aspose.cells.rendering/sheetrender) 中使用该集合时会被忽略
+在 [`SheetRender`](/cells/python-net/zh/aspose.cells.rendering/sheetrender) 中使用时，该集合将被忽略
 ### 定义：
 ```python
 @property

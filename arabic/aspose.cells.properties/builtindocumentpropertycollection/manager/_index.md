@@ -1,15 +1,15 @@
 ---
-title: manager الملكية
+title: manager عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 310
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/manager/
 is_root: false
 ---
-##  manager الملكية
+##  manager عقار
 
-الحصول على او تحديد الخاصية manager.
+يحصل على الخاصية manager أو يعينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def manager(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

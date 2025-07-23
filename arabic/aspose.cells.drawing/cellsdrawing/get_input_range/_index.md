@@ -3,12 +3,12 @@ title: طريقة get_input_range
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 110
 url: /ar/aspose.cells.drawing/cellsdrawing/get_input_range/
 is_root: false
 ---
-##  get_input_range(is_r1c1, is_local) {#bool-bool}
-الحصول على النطاق المستخدم لملء عنصر التحكم.
+##  get_input_range(self, is_r1c1, is_local) {#bool-bool}
+يحصل على النطاق المستخدم لملء عنصر التحكم.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_input_range(self, is_r1c1, is_local):
     ...
 ```
@@ -25,7 +26,7 @@ def get_input_range(self, is_r1c1, is_local):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | is_r1c1 | bool | ما إذا كانت الصيغة تحتاج إلى تنسيقها كـ R1C1.|
-| is_local | bool | ما إذا كانت الصيغة تحتاج إلى التنسيق بواسطة الإعدادات المحلية.|
+| is_local | bool | ما إذا كانت الصيغة تحتاج إلى تنسيق حسب الإعدادات المحلية.|
 
 ###  مثال
 
@@ -38,5 +39,5 @@ range = shape.get_input_range(False, True)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CellsDrawing](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CellsDrawing`](/cells/python-net/ar/aspose.cells.drawing/cellsdrawing)

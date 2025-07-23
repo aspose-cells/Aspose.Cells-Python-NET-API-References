@@ -3,16 +3,17 @@ title: set_input_range方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 190
+weight: 200
 url: /zh/aspose.cells.drawing/customxmlshape/set_input_range/
 is_root: false
 ---
-##  set_input_range {#str-bool-bool}
+##  set_input_range(self, formula, is_r1c1, is_local) {#str-bool-bool}
 设置用于填充控件的范围。
 
 
 
 ```python
+
 def set_input_range(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -22,7 +23,7 @@ def set_input_range(self, formula, is_r1c1, is_local):
 | :- | :- | :- |
 | formula | str |用于填充控件的范围。|
 | is_r1c1 | bool |公式是否需要格式化为R1C1。|
-| is_local | bool |公式是否需要按区域设置格式化。|
+| is_local | bool |公式是否需要根据语言环境进行格式化。|
 
 ### 例子
 

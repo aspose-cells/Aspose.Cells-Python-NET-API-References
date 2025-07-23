@@ -1,15 +1,15 @@
 ---
-title: lighting 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: lighting属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 110
 url: /zh/aspose.cells.drawing/threedformat/lighting/
 is_root: false
 ---
-## lighting 属性
+## lighting属性
 
-获取和设置灯光装置的类型。
+获取并设置灯光装置的类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def lighting(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [LightRigType](/cells/python-net/zh/aspose.cells.drawing/lightrigtype)
-* 类 [ThreeDFormat](/cells/python-net/zh/aspose.cells.drawing/threedformat)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`LightRigType`](/cells/python-net/zh/aspose.cells.drawing/lightrigtype)
+* 类 [`ThreeDFormat`](/cells/python-net/zh/aspose.cells.drawing/threedformat)

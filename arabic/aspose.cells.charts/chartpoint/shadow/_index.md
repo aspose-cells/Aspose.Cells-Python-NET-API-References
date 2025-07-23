@@ -1,15 +1,15 @@
 ---
-title: shadow الملكية
+title: shadow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 310
 url: /ar/aspose.cells.charts/chartpoint/shadow/
 is_root: false
 ---
-##  shadow الملكية
+##  shadow عقار
 
-صحيح إذا كان الرسم البياني به shadow.
+صحيح إذا كانت نقطة الرسم البياني تحتوي على shadow.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

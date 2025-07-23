@@ -3,13 +3,13 @@ title: is_auto_sort عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 470
 url: /ar/aspose.cells.pivot/pivotfield/is_auto_sort/
 is_root: false
 ---
 ##  is_auto_sort عقار
 
-الإشارة إلى ما إذا كان سيتم فرز حقل PivotTable المحدد تلقائياً.
+يشير إلى ما إذا كان يتم فرز حقل الجدول المحوري المحدد تلقائيًا.
 ###  تعريف:
 ```python
 @property

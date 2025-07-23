@@ -3,7 +3,7 @@ title: HtmlExportDataOptions التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2220
+weight: 2160
 url: /ar/aspose.cells/htmlexportdataoptions/
 is_root: false
 ---
@@ -17,8 +17,8 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| TABLE | تصدير الملف إلى HTML الذي يحتوي فقط على جزء الجدول.|
-| ALL | تصدير كافة البيانات إلى HTML.|
+| TABLE | تصدير الملف إلى html والذي يحتوي فقط على جزء الجدول.|
+| ALL | تصدير كافة البيانات إلى html.|
 
 
 

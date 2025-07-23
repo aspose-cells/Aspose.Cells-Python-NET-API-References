@@ -7,12 +7,13 @@ weight: 160
 url: /ar/aspose.cells/worksheetcollection/refresh_all/
 is_root: false
 ---
-##  refresh_all {#}
-قم بتحديث كافة الجداول والمخططات المحورية باستخدام المصدر المحوري.
+##  refresh_all(self) {#}
+قم بتحديث كافة جداول البيانات المحورية والمخططات باستخدام مصدر البيانات المحورية.
 
 
 
 ```python
+
 def refresh_all(self):
     ...
 ```

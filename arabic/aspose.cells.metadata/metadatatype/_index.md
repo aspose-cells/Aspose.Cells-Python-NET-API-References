@@ -1,5 +1,5 @@
 ---
-title: العد MetadataType
+title: MetadataType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 30
 url: /ar/aspose.cells.metadata/metadatatype/
 is_root: false
 ---
-##  العد MetadataType
+##  MetadataType التعداد
 يمثل نوع البيانات الوصفية.
 
 
 
-يكشف نوع MetadataType الأعضاء التالية:
+يكشف النوع MetadataType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| ENCRYPTION | يشفر الملف.|
-| DECRYPTION | يفك تشفير الملف.|
-| DOCUMENT_PROPERTIES | قم بتحميل خصائص الملف.|
+| ENCRYPTION | تشفير الملف.|
+| DECRYPTION | فك تشفير الملف.|
+| DOCUMENT_PROPERTIES | تحميل خصائص الملف.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.metadata](..)
+* الوحدة [`aspose.cells.metadata`](..)

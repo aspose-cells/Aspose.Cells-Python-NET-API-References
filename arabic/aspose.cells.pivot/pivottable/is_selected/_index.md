@@ -1,15 +1,15 @@
 ---
-title: is_selected الملكية
+title: is_selected عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 620
+weight: 720
 url: /ar/aspose.cells.pivot/pivottable/is_selected/
 is_root: false
 ---
-##  is_selected الملكية
+##  is_selected عقار
 
-الإشارة إلى ما إذا كان PivotTable محددًا أم لا.
+يشير إلى ما إذا كان تم تحديد جدول المحور هذا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_selected(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

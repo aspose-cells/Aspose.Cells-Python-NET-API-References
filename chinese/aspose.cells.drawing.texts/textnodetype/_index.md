@@ -1,9 +1,9 @@
 ---
 title: TextNodeType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 190
 url: /zh/aspose.cells.drawing.texts/textnodetype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-TextNodeType 类型公开了以下成员：
+TextNodeType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| TEXT_RUN |表示文本节点。|
-| TEXT_PARAGRAPH |表示文本段落。|
-| EQUATION |表示公式文本。|
+| TEXT_RUN |代表文本节点。|
+| TEXT_PARAGRAPH |代表文本段落。|
+| EQUATION |代表方程文本。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](..)
+* 模块[`aspose.cells.drawing.texts`](..)

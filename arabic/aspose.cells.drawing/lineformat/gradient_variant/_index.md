@@ -1,5 +1,5 @@
 ---
-title: gradient_variant الملكية
+title: gradient_variant عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,14 +7,14 @@ weight: 220
 url: /ar/aspose.cells.drawing/lineformat/gradient_variant/
 is_root: false
 ---
-##  gradient_variant الملكية
+##  gradient_variant عقار
 
 إرجاع متغير التدرج للتعبئة المحددة.
 ينطبق فقط على Excel 2007.
 
 ###  ملاحظات
 
-يمكن أن تكون قيمة فقط من 1 إلى 4 ، تتوافق مع أحد المتغيرات الأربعة في علامة التبويب Gradient في مربع الحوار Fill Effects. إذا كان النمط هو GradientStyle.FromCenter ، يمكن أن تكون وسيطة Variant 1 أو 2 فقط.
+يمكن أن تكون القيمة من ١ إلى ٤ فقط، وهي تقابل أحد المتغيرات الأربعة في علامة تبويب "التدرج" ضمن مربع حوار "تأثيرات التعبئة". إذا كان النمط GradientStyle.FromCenter، فلا يمكن أن تكون وسيطة المتغير سوى ١ أو ٢.
 ###  تعريف:
 ```python
 @property
@@ -23,5 +23,5 @@ def gradient_variant(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)

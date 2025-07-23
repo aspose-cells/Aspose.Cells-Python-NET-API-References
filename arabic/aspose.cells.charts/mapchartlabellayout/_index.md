@@ -1,5 +1,5 @@
 ---
-title: العد MapChartLabelLayout
+title: MapChartLabelLayout التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 550
 url: /ar/aspose.cells.charts/mapchartlabellayout/
 is_root: false
 ---
-##  العد MapChartLabelLayout
+##  MapChartLabelLayout التعداد
 يمثل تخطيط تسميات مخطط الخريطة.
 
 
 
-يكشف نوع MapChartLabelLayout الأعضاء التالية:
+يكشف النوع MapChartLabelLayout عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| BEST_FIT_ONLY | الأفضل فقط.|
-| SHOW_ALL | يظهر كل التسميات.|
-| NONE | لا تسميات.|
+| BEST_FIT_ONLY | أفضل ملاءمة فقط.|
+| SHOW_ALL | يظهر كافة العلامات.|
+| NONE | لا يوجد ملصقات.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

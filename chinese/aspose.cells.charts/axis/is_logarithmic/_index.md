@@ -3,13 +3,13 @@ title: is_logarithmic属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 250
 url: /zh/aspose.cells.charts/axis/is_logarithmic/
 is_root: false
 ---
 ## is_logarithmic属性
 
-表示值轴刻度类型是否为对数。
+表示数值轴刻度类型是否为对数。
 ### 定义：
 ```python
 @property

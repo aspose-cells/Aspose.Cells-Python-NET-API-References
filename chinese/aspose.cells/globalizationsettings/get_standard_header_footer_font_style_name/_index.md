@@ -7,16 +7,17 @@ weight: 210
 url: /zh/aspose.cells/globalizationsettings/get_standard_header_footer_font_style_name/
 is_root: false
 ---
-##  get_standard_header_footer_font_style_name {#str}
-根据给定的语言环境字体样式名称获取页眉/页脚的标准英文字体样式名称（常规、粗体、斜体）。
+##  get_standard_header_footer_font_style_name(self, localfont_style_name) {#str}
+根据给定的区域字体样式名称获取页眉/页脚的标准英文字体样式名称（常规、粗体、斜体）。
 
 
-### 退货
+### 返回
 
 标准英文字体样式名称（Regular、Bold、Italic）
 
 
 ```python
+
 def get_standard_header_footer_font_style_name(self, localfont_style_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_standard_header_footer_font_style_name(self, localfont_style_name):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| localfont_style_name | str |页眉/页脚的区域设置字体样式名称。|
+| localfont_style_name | str |页眉/页脚的区域字体样式名称。|
 
 
 

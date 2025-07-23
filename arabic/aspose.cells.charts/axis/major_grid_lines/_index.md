@@ -3,13 +3,13 @@ title: major_grid_lines عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 290
 url: /ar/aspose.cells.charts/axis/major_grid_lines/
 is_root: false
 ---
 ##  major_grid_lines عقار
 
-يمثل خطوط الشبكة الرئيسية على محور المخطط.
+يمثل خطوط الشبكة الرئيسية على محور الرسم البياني.
 
 ###  مثال
 

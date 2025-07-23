@@ -1,5 +1,5 @@
 ---
-title: notes الملكية
+title: notes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/threadedcomment/notes/
 is_root: false
 ---
-##  notes الملكية
+##  notes عقار
 
-الحصول على نص التعليق وتعيينه.
+يحصل على نص التعليق ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def notes(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ThreadedComment](/cells/python-net/ar/aspose.cells/threadedcomment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ThreadedComment`](/cells/python-net/ar/aspose.cells/threadedcomment)

@@ -1,5 +1,5 @@
 ---
-title: size الملكية
+title: size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells.drawing/shadoweffect/size/
 is_root: false
 ---
-##  size الملكية
+##  size عقار
 
- الحصول على size الظل وتعيينه. تتراوح من 0 إلى 2.0.
+ يحصل على قيمة الظل ٠٧٦١٠٣٤٨١ ويضبطها. نطاق القيمة من ٠ إلى ٢.٠.
 لا معنى له في الظل الداخلي.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShadowEffect](/cells/python-net/ar/aspose.cells.drawing/shadoweffect)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShadowEffect`](/cells/python-net/ar/aspose.cells.drawing/shadoweffect)

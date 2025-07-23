@@ -3,17 +3,17 @@ title: max_rows_of_shared_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 350
 url: /ar/aspose.cells/workbooksettings/max_rows_of_shared_formula/
 is_root: false
 ---
 ##  max_rows_of_shared_formula عقار
 
-الحصول على الحد الأقصى لعدد الصف من الصيغة المشتركة وتعيينه.
+يحصل على الحد الأقصى لعدد صفوف الصيغة المشتركة ويقوم بتعيينه.
 
 ###  ملاحظات
 
-إذا كان الرقم كبيرًا جدًا، فإن عامل التصفية التلقائي يعمل ببطء شديد في MS Excel 2013.
+إذا كان الرقم كبيرًا جدًا، فسوف يعمل التصفية التلقائية ببطء شديد في MS Excel 2013.
 ###  تعريف:
 ```python
 @property

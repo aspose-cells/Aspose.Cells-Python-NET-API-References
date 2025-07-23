@@ -3,13 +3,13 @@ title: write_protection عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 650
 url: /ar/aspose.cells/workbooksettings/write_protection/
 is_root: false
 ---
 ##  write_protection عقار
 
-يوفر الوصول إلى خيارات الحماية ضد الكتابة في المصنف.
+يتيح الوصول إلى خيارات حماية المصنف ضد الكتابة.
 ###  تعريف:
 ```python
 @property

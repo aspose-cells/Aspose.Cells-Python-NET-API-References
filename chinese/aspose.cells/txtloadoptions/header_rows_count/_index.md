@@ -9,12 +9,12 @@ is_root: false
 ---
 ## header_rows_count属性
 
-扩展工作表重复的标题行数。
+扩展工作表中要重复的标题行数。
 
-### 评论
+### 注意事项
 
-对于这些扩展工作表，将重复此属性指定的标题行。
-该属性仅在 [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/zh/aspose.cells/txtloadoptions#extend_to_next_sheet) 为 true 时生效。
+此属性指定的标题行将被复制到这些扩展工作表中。
+此属性仅当 [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/zh/aspose.cells/txtloadoptions#extend_to_next_sheet) 为真时才生效。
 ### 定义：
 ```python
 @property

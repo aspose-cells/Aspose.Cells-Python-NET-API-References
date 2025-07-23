@@ -3,14 +3,14 @@ title: export_bogus_row_data属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 250
 url: /zh/aspose.cells.saving/ebooksaveoptions/export_bogus_row_data/
 is_root: false
 ---
 ## export_bogus_row_data属性
 
-是否导出伪造的底行数据。默认值为true。如果要导入html或mht文件
-为了更好，请保留默认值。
+是否导出伪造的底行数据，默认为 true。如果要导入 html 或 mht 文件
+若要excel，请保留默认值。
 ### 定义：
 ```python
 @property

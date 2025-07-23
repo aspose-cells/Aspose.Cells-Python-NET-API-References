@@ -3,37 +3,11 @@ title: page_index属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 200
+weight: 250
 url: /zh/aspose.cells/docxsaveoptions/page_index/
 is_root: false
 ---
 ## page_index属性
-
-获取或设置要保存的第一页的从 0 开始的索引。
-
-### 评论
-
-默认值为 0。
-
-### 例子
-
-以下示例演示如何将 Microsoft Excel 文件中的一系列页面（3 和 4）渲染为 PDF。
-
-```python
-from aspose.cells import PdfSaveOptions, Workbook
-
-# Open an Excel file
-wb = Workbook("Book1.xlsx")
-options = PdfSaveOptions()
-# Print only Page 3 and Page 4 in the output PDF
-# Starting page index (0-based index)
-options.page_index = 3
-# Number of pages to be printed
-options.page_count = 2
-# Save the PDF file
-wb.save("output.pdf", options)
-
-```
 ### 定义：
 ```python
 @property

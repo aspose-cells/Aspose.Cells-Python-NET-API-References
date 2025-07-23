@@ -3,13 +3,13 @@ title: fill عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 420
 url: /ar/aspose.cells.drawing/picture/fill/
 is_root: false
 ---
 ##  fill عقار
 
-تقوم بإرجاع كائن [`Shape.fill_format`](/cells/python-net/ar/aspose.cells.drawing/shape#fill_format) الذي يحتوي على fill خصائص التنسيق للشكل المحدد.
+يقوم بإرجاع الكائن [`Shape.fill_format`](/cells/python-net/ar/aspose.cells.drawing/shape#fill_format) الذي يحتوي على خصائص التنسيق fill للشكل المحدد.
 
 ###  مثال
 

@@ -3,20 +3,20 @@ title: is_cloud_platform属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 260
 url: /zh/aspose.cells/cellshelper/is_cloud_platform/
 is_root: false
 ---
 ## is_cloud_platform属性
 
-在云平台上运行时请设置该属性为True，例如：Azure、AWSLambda等，
+在云平台上运行时请设置此属性为 True，例如：Azure、AWSLambda 等，
 ### 定义：
 ```python
 @property
 def is_cloud_platform(self):
     ...
-@is_cloud_platform.setter
-def is_cloud_platform(self, value):
+@staticmethod
+def set_is_cloud_platform(value):
     ...
 ```
 

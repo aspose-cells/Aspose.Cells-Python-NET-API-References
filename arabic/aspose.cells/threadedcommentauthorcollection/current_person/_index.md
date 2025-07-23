@@ -1,15 +1,15 @@
 ---
-title: current_person الملكية
+title: current_person عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells/threadedcommentauthorcollection/current_person/
 is_root: false
 ---
-##  current_person الملكية
+##  current_person عقار
 
-يحصل ويضبط المستخدم الحالي.
+يحصل على المستخدم الحالي ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def current_person(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ThreadedCommentAuthor](/cells/python-net/ar/aspose.cells/threadedcommentauthor)
-* فئة [ThreadedCommentAuthorCollection](/cells/python-net/ar/aspose.cells/threadedcommentauthorcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ThreadedCommentAuthor`](/cells/python-net/ar/aspose.cells/threadedcommentauthor)
+* فئة [`ThreadedCommentAuthorCollection`](/cells/python-net/ar/aspose.cells/threadedcommentauthorcollection)

@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/hyperlink/delete/
 is_root: false
 ---
-##  delete() {#}
-يحذف هذا الارتباط التشعبي
+##  delete(self) {#}
+يحذف هذا الرابط التشعبي
 
 
 
 ```python
+
 def delete(self):
     ...
 ```
@@ -22,5 +23,5 @@ def delete(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Hyperlink](/cells/python-net/ar/aspose.cells/hyperlink)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink)

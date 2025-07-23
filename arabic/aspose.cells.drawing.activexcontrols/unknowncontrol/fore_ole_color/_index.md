@@ -1,5 +1,5 @@
 ---
-title: fore_ole_color الملكية
+title: fore_ole_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,13 +7,7 @@ weight: 70
 url: /ar/aspose.cells.drawing.activexcontrols/unknowncontrol/fore_ole_color/
 is_root: false
 ---
-##  fore_ole_color الملكية
-
-الحصول على لون الأولي للمقدمة وتعيينه.
-
-###  ملاحظات
-
-لا ينطبق على التحكم في الصورة.
+##  fore_ole_color عقار
 ###  تعريف:
 ```python
 @property
@@ -25,5 +19,5 @@ def fore_ole_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [UnknownControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`UnknownControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/unknowncontrol)

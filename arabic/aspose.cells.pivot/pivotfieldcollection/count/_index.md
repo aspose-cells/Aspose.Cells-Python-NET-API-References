@@ -3,13 +3,13 @@ title: count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells.pivot/pivotfieldcollection/count/
 is_root: false
 ---
 ##  count عقار
 
-يحصل على count من الحقول المحورية.
+يحصل على count من pivotFields.
 ###  تعريف:
 ```python
 @property

@@ -3,16 +3,17 @@ title: طريقة combine
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells/workbook/combine/
 is_root: false
 ---
-##  combine(second_workbook) {#Workbook}
-يجمع بين كائن مصنف آخر.
+##  combine(self, second_workbook) {#aspose.cells.Workbook}
+دمج كائن مصنف آخر.
 
 
 
 ```python
+
 def combine(self, second_workbook):
     ...
 ```
@@ -20,13 +21,13 @@ def combine(self, second_workbook):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| second_workbook | [Workbook](/cells/python-net/ar/aspose.cells/workbook) | كائن مصنف آخر.|
+| second_workbook | [`Workbook`](/cells/python-net/ar/aspose.cells/workbook) | كائن آخر من المصنف.|
 ###  ملاحظات
 
-حاليًا ، يمكن فقط دمج بيانات الخلية ونمط الخلية لكائن المصنف الثاني. الصور والمخططات والكائنات الرسومية الأخرى غير مدعومة.
+دمج ملفات Excel و ODS و CSV والملفات الأخرى في ملف واحد.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

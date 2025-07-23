@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.properties/customdocumentpropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
- ينشئ خاصية جديدة مخصصة للمستند**PropertyType.String** نوع البيانات.
+##  add(self, name, value) {#str-str}
+ إنشاء خاصية مستند مخصصة جديدة لـ**نوع الخاصية.سلسلة** نوع البيانات.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -28,8 +29,8 @@ def add(self, name, value):
 | value | str | قيمة العقار.|
 
 
-##  add(name, value) {#str-int}
- ينشئ خاصية جديدة مخصصة للمستند**نوع الملكية** نوع البيانات.
+##  add(self, name, value) {#str-int}
+ إنشاء خاصية مستند مخصصة جديدة لـ**نوع الملكية.الرقم** نوع البيانات.
 
 
 ###  عائدات
@@ -38,6 +39,7 @@ def add(self, name, value):
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -49,8 +51,8 @@ def add(self, name, value):
 | value | int | قيمة العقار.|
 
 
-##  add(name, value) {#str-DateTime}
- ينشئ خاصية جديدة مخصصة للمستند**PropertyType.DateTime** نوع البيانات.
+##  add(self, name, value) {#str-DateTime}
+ إنشاء خاصية مستند مخصصة جديدة لـ**نوع العقار.التاريخ والوقت** نوع البيانات.
 
 
 ###  عائدات
@@ -59,6 +61,7 @@ def add(self, name, value):
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -70,8 +73,8 @@ def add(self, name, value):
 | value | DateTime | قيمة العقار.|
 
 
-##  add(name, value) {#str-bool}
- ينشئ خاصية جديدة مخصصة للمستند**نوع الملكية. منطقي** نوع البيانات.
+##  add(self, name, value) {#str-bool}
+ إنشاء خاصية مستند مخصصة جديدة لـ**نوع الملكية. منطقي** نوع البيانات.
 
 
 ###  عائدات
@@ -80,6 +83,7 @@ def add(self, name, value):
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -91,8 +95,8 @@ def add(self, name, value):
 | value | bool | قيمة العقار.|
 
 
-##  add(name, value) {#str-float}
- ينشئ خاصية جديدة مخصصة للمستند**نوع الملكية** نوع البيانات.
+##  add(self, name, value) {#str-float}
+ إنشاء خاصية مستند مخصصة جديدة لـ**نوع الملكية.عائم** نوع البيانات.
 
 
 ###  عائدات
@@ -101,6 +105,7 @@ def add(self, name, value):
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -114,5 +119,5 @@ def add(self, name, value):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [CustomDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`CustomDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)

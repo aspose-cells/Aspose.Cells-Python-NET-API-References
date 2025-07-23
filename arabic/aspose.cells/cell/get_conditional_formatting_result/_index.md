@@ -7,12 +7,13 @@ weight: 80
 url: /ar/aspose.cells/cell/get_conditional_formatting_result/
 is_root: false
 ---
-##  get_conditional_formatting_result() {#}
+##  get_conditional_formatting_result(self) {#}
 احصل على نتيجة التنسيق الشرطي.
 
 
 
 ```python
+
 def get_conditional_formatting_result(self):
     ...
 ```
@@ -20,10 +21,10 @@ def get_conditional_formatting_result(self):
 
 ###  ملاحظات
 
-إرجاع فارغ إذا لم يتم تطبيق تنسيق شرطي على هذه الخلية ،
+يعود فارغًا إذا لم يتم تطبيق التنسيق الشرطي على هذه الخلية،
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

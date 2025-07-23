@@ -8,17 +8,17 @@ url: /zh/aspose.cells.charts/axistype/
 is_root: false
 ---
 ## AxisType枚举
-代表轴类型。
+表示轴类型。
 
 
 
 AxisType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | CATEGORY |类别轴|
-| VALUE |价值轴|
+| VALUE |值轴|
 | SERIES |系列轴|
 
 

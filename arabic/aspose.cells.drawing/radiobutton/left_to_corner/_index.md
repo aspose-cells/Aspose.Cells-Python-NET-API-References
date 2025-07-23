@@ -3,13 +3,13 @@ title: left_to_corner عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 740
+weight: 750
 url: /ar/aspose.cells.drawing/radiobutton/left_to_corner/
 is_root: false
 ---
 ##  left_to_corner عقار
 
-الحصول على الإزاحة الأفقية للشكل وتعيينها من الحد الأيسر لورقة العمل.
+يحصل على الإزاحة الأفقية للشكل من الحد الأيسر لورقة العمل ويقوم بضبطها.
 
 ###  مثال
 

@@ -1,5 +1,5 @@
 ---
-title: light_angle الملكية
+title: light_angle عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 100
 url: /ar/aspose.cells.drawing/threedformat/light_angle/
 is_root: false
 ---
-##  light_angle الملكية
+##  light_angle عقار
 
-الحصول على وضبط زاوية مصابيح البثق.
+يحصل على زاوية أضواء البثق ويحددها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def light_angle(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ThreeDFormat](/cells/python-net/ar/aspose.cells.drawing/threedformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ThreeDFormat`](/cells/python-net/ar/aspose.cells.drawing/threedformat)

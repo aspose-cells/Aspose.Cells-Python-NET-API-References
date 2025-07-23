@@ -1,22 +1,23 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/hyperlinkcollection/add/
 is_root: false
 ---
-##  add(cell_name, total_rows, total_columns, address) {#str-int-int-str}
-添加指向指定单元格或单元格区域的超链接。
+##  add(self, cell_name, total_rows, total_columns, address) {#str-int-int-str}
+将超链接添加到指定单元格或单元格区域。
 
 
 ### 返回
 
-[Hyperlink](/cells/python-net/zh/aspose.cells/hyperlink) 对象索引。
+[`Hyperlink`](/cells/python-net/zh/aspose.cells/hyperlink) 对象索引。
 
 
 ```python
+
 def add(self, cell_name, total_rows, total_columns, address):
     ...
 ```
@@ -30,16 +31,17 @@ def add(self, cell_name, total_rows, total_columns, address):
 | address | str |超链接的地址。|
 
 
-##  add(first_row, first_column, total_rows, total_columns, address) {#int-int-int-int-str}
-添加指向指定单元格或单元格区域的超链接。
+##  add(self, first_row, first_column, total_rows, total_columns, address) {#int-int-int-int-str}
+将超链接添加到指定单元格或单元格区域。
 
 
 ### 返回
 
-[Hyperlink](/cells/python-net/zh/aspose.cells/hyperlink) 对象索引。
+[`Hyperlink`](/cells/python-net/zh/aspose.cells/hyperlink) 对象索引。
 
 
 ```python
+
 def add(self, first_row, first_column, total_rows, total_columns, address):
     ...
 ```
@@ -67,16 +69,17 @@ worksheet.hyperlinks.add("A5", 1, 1, "c:\\book1.xls")
 ```
 
 
-##  add(start_cell_name, end_cell_name, address, text_to_display, screen_tip) {#str-str-str-str-str}
-添加指向指定单元格或单元格区域的超链接。
+##  add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip) {#str-str-str-str-str}
+将超链接添加到指定单元格或单元格区域。
 
 
 ### 返回
 
-[Hyperlink](/cells/python-net/zh/aspose.cells/hyperlink) 对象索引。
+[`Hyperlink`](/cells/python-net/zh/aspose.cells/hyperlink) 对象索引。
 
 
 ```python
+
 def add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip):
     ...
 ```
@@ -84,15 +87,15 @@ def add(self, start_cell_name, end_cell_name, address, text_to_display, screen_t
 
 |范围|类型|描述|
 | :- | :- | :- |
-| start_cell_name | str |区域左上角的单元格。|
-| end_cell_name | str |范围右下角的单元格。|
+| start_cell_name | str |范围的左上角单元格。|
+| end_cell_name | str |范围的右下角单元格。|
 | address | str |超链接的地址。|
-| text_to_display | str |要为指定超链接显示的文本。|
+| text_to_display | str |为指定超链接显示的文本。|
 | screen_tip | str |指定超链接的屏幕提示文本。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Hyperlink](/cells/python-net/zh/aspose.cells/hyperlink)
-* 类 [HyperlinkCollection](/cells/python-net/zh/aspose.cells/hyperlinkcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`Hyperlink`](/cells/python-net/zh/aspose.cells/hyperlink)
+* 类 [`HyperlinkCollection`](/cells/python-net/zh/aspose.cells/hyperlinkcollection)

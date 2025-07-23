@@ -3,13 +3,13 @@ title: show_all_sheets عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 740
 url: /ar/aspose.cells/htmlsaveoptions/show_all_sheets/
 is_root: false
 ---
 ##  show_all_sheets عقار
 
-يشير إلى ما إذا كان سيتم عرض جميع الأوراق عند الحفظ كملف html واحد.
+يشير إلى ما إذا كان سيتم عرض جميع الأوراق عند الحفظ كملف HTML واحد.
 
 ###  ملاحظات
 

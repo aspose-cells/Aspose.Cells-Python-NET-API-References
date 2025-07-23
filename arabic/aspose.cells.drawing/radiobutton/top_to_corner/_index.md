@@ -3,13 +3,13 @@ title: top_to_corner عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /ar/aspose.cells.drawing/radiobutton/top_to_corner/
 is_root: false
 ---
 ##  top_to_corner عقار
 
-الحصول على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل وتعيينها، بوحدة البكسل.
+يحصل على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل، ويحددها بوحدة البكسل.
 
 ###  مثال
 

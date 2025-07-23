@@ -3,7 +3,7 @@ title: height_pt属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 490
+weight: 480
 url: /zh/aspose.cells.drawing/groupshape/height_pt/
 is_root: false
 ---

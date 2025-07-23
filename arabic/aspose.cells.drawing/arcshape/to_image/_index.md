@@ -3,16 +3,17 @@ title: طريقة to_image
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells.drawing/arcshape/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
-يقوم بإنشاء صورة الشكل وحفظها في دفق بالتنسيق المحدد.
+##  to_image(self, stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
+إنشاء صورة الشكل وحفظها في مجرى بالتنسيق المحدد.
 
 
 
 ```python
+
 def to_image(self, stream, image_type):
     ...
 ```
@@ -21,7 +22,7 @@ def to_image(self, stream, image_type):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | stream | io.RawIOBase | تيار الإخراج.|
-| image_type | [`ImageType`](/cells/python-net/ar/aspose.cells.drawing/imagetype) | النوع الذي سيتم حفظ الصورة به.|
+| image_type | [`ImageType`](/cells/python-net/ar/aspose.cells.drawing/imagetype) | النوع الذي تريد حفظ الصورة فيه.|
 ###  ملاحظات
 
 يتم دعم التنسيقات التالية:
@@ -38,12 +39,13 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-##  to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 يحفظ الشكل في ملف.
 
 
 
 ```python
+
 def to_image(self, image_file, options):
     ...
 ```
@@ -65,12 +67,13 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-##  to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
-يحفظ الشكل في دفق.
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+يحفظ الشكل في مجرى.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```

@@ -1,13 +1,13 @@
 ---
-title: top_margin_pt الملكية
+title: top_margin_pt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ar/aspose.cells.drawing.texts/shapetextalignment/top_margin_pt/
 is_root: false
 ---
-##  top_margin_pt الملكية
+##  top_margin_pt عقار
 
 إرجاع الهامش العلوي بوحدة النقاط
 
@@ -29,5 +29,5 @@ def top_margin_pt(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [ShapeTextAlignment](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`ShapeTextAlignment`](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)

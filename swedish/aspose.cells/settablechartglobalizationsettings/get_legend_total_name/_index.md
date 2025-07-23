@@ -1,0 +1,31 @@
+---
+title: get_legend_total_name metod
+second_title: Aspose.Cells for Python via .NET API Referenser
+description:
+type: docs
+weight: 70
+url: /sv/aspose.cells/settablechartglobalizationsettings/get_legend_total_name/
+is_root: false
+---
+##  get_legend_total_name(self) {#}
+Hämtar namnet Totalt för Legend.
+
+
+###  Returnerar
+
+
+
+
+```python
+
+def get_legend_total_name(self):
+    ...
+```
+
+
+
+
+
+###  Se även
+* modul [`aspose.cells`](../../)
+* klass [`SettableChartGlobalizationSettings`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings)

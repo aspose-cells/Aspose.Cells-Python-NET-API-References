@@ -1,13 +1,13 @@
 ---
-title: bar_fill_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: bar_fill_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
 url: /zh/aspose.cells/databar/bar_fill_type/
 is_root: false
 ---
-## bar_fill_type 属性
+## bar_fill_type属性
 
 获取或设置数据条如何填充颜色。
 ### 定义：
@@ -21,6 +21,6 @@ def bar_fill_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DataBar](/cells/python-net/zh/aspose.cells/databar)
-* 类 [DataBarFillType](/cells/python-net/zh/aspose.cells/databarfilltype)
+* 模块[`aspose.cells`](../../)
+* 类 [`DataBar`](/cells/python-net/zh/aspose.cells/databar)
+* 类 [`DataBarFillType`](/cells/python-net/zh/aspose.cells/databarfilltype)

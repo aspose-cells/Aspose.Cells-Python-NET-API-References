@@ -3,12 +3,12 @@ title: DateTimeGroupingType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2010
+weight: 1920
 url: /ar/aspose.cells/datetimegroupingtype/
 is_root: false
 ---
 ##  DateTimeGroupingType التعداد
-يحدد كيفية تجميع قيم dateTime.
+يحدد كيفية تجميع قيم التاريخ والوقت.
 
 
 
@@ -17,12 +17,12 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DAY | مجموعة بعد يوم.|
-| HOUR | المجموعة حسب الساعة.|
+| DAY | تجميع حسب اليوم.|
+| HOUR | تجميع حسب الساعة.|
 | MINUTE | تجميع حسب الدقيقة.|
-| MONTH | المجموعة حسب الشهر.|
-| SECOND | المجموعة بالثانية.|
-| YEAR | المجموعة حسب السنة.|
+| MONTH | تجميع حسب الشهر.|
+| SECOND | تجميع حسب الثانية.|
+| YEAR | تجميع حسب السنة.|
 
 
 

@@ -7,16 +7,17 @@ weight: 50
 url: /ar/aspose.cells.vba/vbaproject/validate_password/
 is_root: false
 ---
-##  validate_password(password) {#str}
-يتحقق من صحة كلمة مرور الحماية.
+##  validate_password(self, password) {#str}
+التحقق من صحة كلمة مرور الحماية.
 
 
 ###  عائدات
 
-ما إذا كانت كلمة المرور هي كلمة مرور الحماية لمشروع VBA هذا
+هل كلمة المرور هي كلمة مرور الحماية لهذا المشروع VBA
 
 
 ```python
+
 def validate_password(self, password):
     ...
 ```
@@ -24,10 +25,10 @@ def validate_password(self, password):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| password | str | كلمة السر|
+| password | str | كلمة المرور|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](../../)
-* فئة [VbaProject](/cells/python-net/ar/aspose.cells.vba/vbaproject)
+* الوحدة [`aspose.cells.vba`](../../)
+* فئة [`VbaProject`](/cells/python-net/ar/aspose.cells.vba/vbaproject)

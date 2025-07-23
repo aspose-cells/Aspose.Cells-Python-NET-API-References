@@ -7,38 +7,42 @@ weight: 30
 url: /ar/aspose.cells/cellarea/create_cell_area/
 is_root: false
 ---
-##  create_cell_area(start_cell_name, end_cell_name) {#str-str}
-ينشئ منطقة خلية.
+##  create_cell_area(، اسم الخلية الأولية، اسم الخلية النهائية){#str-str}
+إنشاء منطقة خلية.
 
 
 ###  عائدات
 
-قم بإرجاع [CellArea](/cells/python-net/ar/aspose.cells/cellarea).
+إرجاع [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea).
 
 
 ```python
-def create_cell_area(self, start_cell_name, end_cell_name):
+
+@staticmethod
+def create_cell_area(start_cell_name, end_cell_name):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| start_cell_name | str | الخلية العلوية اليسرى من النطاق.|
-| end_cell_name | str | الخلية اليمنى السفلية من النطاق.|
+| start_cell_name | str |الخلية الموجودة في أعلى يسار النطاق.|
+| end_cell_name | str | الخلية الموجودة في أسفل يمين النطاق.|
 
 
-##  create_cell_area(start_row, start_column, end_row, end_column) {#int-int-int-int}
-ينشئ منطقة خلية.
+##  create_cell_area(، صف البداية، عمود البداية، صف النهاية، عمود النهاية){#int-int-int-int}
+إنشاء منطقة خلية.
 
 
 ###  عائدات
 
-قم بإرجاع [CellArea](/cells/python-net/ar/aspose.cells/cellarea).
+إرجاع [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea).
 
 
 ```python
-def create_cell_area(self, start_row, start_column, end_row, end_column):
+
+@staticmethod
+def create_cell_area(start_row, start_column, end_row, end_column):
     ...
 ```
 
@@ -47,11 +51,11 @@ def create_cell_area(self, start_row, start_column, end_row, end_column):
 | :- | :- | :- |
 | start_row | int | صف البداية.|
 | start_column | int | عمود البداية.|
-| end_row | int | صف النهاية.|
-| end_column | int | عمود النهاية.|
+| end_row | int | الصف الأخير.|
+| end_column | int | العمود النهائي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellArea](/cells/python-net/ar/aspose.cells/cellarea)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea)

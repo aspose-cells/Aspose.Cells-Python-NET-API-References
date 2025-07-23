@@ -9,8 +9,8 @@ is_root: false
 ---
 ## assemble_document_permission属性
 
-指示是否允许组合文档（插入、旋转或删除页面以及创建书签或缩略图），
-即使[`PdfSecurityOptions.modify_document_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission)是明确的。
+指示是否允许组装文档（插入、旋转或删除页面以及创建书签或缩略图），
+即使 [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) 很清楚。
 ### 定义：
 ```python
 @property

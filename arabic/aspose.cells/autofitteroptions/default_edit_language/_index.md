@@ -1,5 +1,5 @@
 ---
-title: default_edit_language الملكية
+title: default_edit_language عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,14 +7,14 @@ weight: 60
 url: /ar/aspose.cells/autofitteroptions/default_edit_language/
 is_root: false
 ---
-##  default_edit_language الملكية
+##  default_edit_language عقار
 
-الحصول على أو تعيين لغة التحرير الافتراضية.
+يحصل على لغة التحرير الافتراضية أو يعينها.
 
 ###  ملاحظات
 
-قد يعرض / يعرض تخطيطات مختلفة للفقرة النصية عند تعيين لغات تحرير مختلفة.
-الافتراضي هو [DefaultEditLanguage.AUTO](/cells/python-net/ar/aspose.cells/defaulteditlanguage#AUTO).
+قد يعرض/يقدم تخطيطات مختلفة لفقرة النص عند تعيين لغات تحرير مختلفة.
+الإفتراضي هو [`DefaultEditLanguage.AUTO`](/cells/python-net/ar/aspose.cells/defaulteditlanguage#AUTO).
 ###  تعريف:
 ```python
 @property
@@ -26,6 +26,6 @@ def default_edit_language(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFitterOptions](/cells/python-net/ar/aspose.cells/autofitteroptions)
-* فئة [DefaultEditLanguage](/cells/python-net/ar/aspose.cells/defaulteditlanguage)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFitterOptions`](/cells/python-net/ar/aspose.cells/autofitteroptions)
+* فئة [`DefaultEditLanguage`](/cells/python-net/ar/aspose.cells/defaulteditlanguage)

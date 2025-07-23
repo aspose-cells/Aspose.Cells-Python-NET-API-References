@@ -1,13 +1,13 @@
 ---
-title: order2 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: order2属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 140
 url: /zh/aspose.cells/datasorter/order2/
 is_root: false
 ---
-## order2 属性
+## order2属性
 
 表示第二个键的排序顺序。
 ### 定义：
@@ -21,6 +21,6 @@ def order2(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DataSorter](/cells/python-net/zh/aspose.cells/datasorter)
-* 类 [SortOrder](/cells/python-net/zh/aspose.cells/sortorder)
+* 模块[`aspose.cells`](../../)
+* 类 [`DataSorter`](/cells/python-net/zh/aspose.cells/datasorter)
+* 类 [`SortOrder`](/cells/python-net/zh/aspose.cells/sortorder)

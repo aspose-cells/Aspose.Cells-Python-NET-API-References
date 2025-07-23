@@ -3,7 +3,7 @@ title: ExceptionType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2090
+weight: 2010
 url: /zh/aspose.cells/exceptiontype/
 is_root: false
 ---
@@ -14,8 +14,8 @@ is_root: false
 
 ExceptionType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | CHART |图表设置无效。|
 | DATA_TYPE |数据类型设置无效。|
@@ -41,6 +41,10 @@ ExceptionType 类型公开以下成员：
 | UNSUPPORTED_STREAM |要打开的流不受支持。|
 | UNDISCLOSED_INFORMATION |文件包含一些未公开的信息。|
 | FILE_CORRUPTED |文件内容已损坏。|
+| DEFINED_NAME |无效的定义名称|
+| FONT |字体无效|
+| AUTO_FILTER |自动过滤设置无效。|
+| FONT_SUBSTITUTION |字体替换警告类型<br/>当未找到字体时，会出现此警告类型。|
 
 
 

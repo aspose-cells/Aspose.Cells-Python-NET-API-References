@@ -7,8 +7,8 @@ weight: 70
 url: /ar/aspose.cells/cellshelper/convert_a1_formula_to_r1c1/
 is_root: false
 ---
-##  convert_a1_formula_to_r1c1 {#str-int-int}
-تحويل صيغة A1 للخلية إلى صيغة r1c1.
+##  convert_a1_formula_to_r1c1(, صيغة، صف، عمود){#str-int-int}
+تحويل صيغة A1 الخاصة بالخلية إلى الصيغة r1c1.
 
 
 ###  عائدات
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def convert_a1_formula_to_r1c1(self, formula, row, column):
+
+@staticmethod
+def convert_a1_formula_to_r1c1(formula, row, column):
     ...
 ```
 
@@ -25,13 +27,13 @@ def convert_a1_formula_to_r1c1(self, formula, row, column):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | formula | str | صيغة A1.|
-| row | int | فهرس صف الخلية.|
-| column | int | فهرس عمود الخلية.|
+| row | int | مؤشر الصف للخلية.|
+| column | int | مؤشر عمود الخلية.|
 ###  ملاحظات
 
-ملاحظة: هذا العضو قديم الآن. بدلاً من ذلك، الرجاء استخدام أسلوب Worksheet.ConvertFormulaReferenceStyle().
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ أغسطس 2023.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذا العنصر أصبح قديمًا. بدلاً من ذلك، يُرجى استخدام دالة Worksheet.ConvertFormulaReferenceStyle().
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ أغسطس 2023.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا

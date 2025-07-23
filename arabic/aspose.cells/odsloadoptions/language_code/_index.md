@@ -1,15 +1,15 @@
 ---
-title: language_code الملكية
+title: language_code عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells/odsloadoptions/language_code/
 is_root: false
 ---
-##  language_code الملكية
+##  language_code عقار
 
-الحصول على أو تعيين لغة واجهة المستخدم لإصدار المصنف بناءً على كود البلد الذي حفظ الملف.
+يحصل على لغة واجهة المستخدم لإصدار المصنف أو يعينها استنادًا إلى رمز البلد الذي حفظ الملف.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CountryCode](/cells/python-net/ar/aspose.cells/countrycode)
-* فئة [OdsLoadOptions](/cells/python-net/ar/aspose.cells/odsloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CountryCode`](/cells/python-net/ar/aspose.cells/countrycode)
+* فئة [`OdsLoadOptions`](/cells/python-net/ar/aspose.cells/odsloadoptions)

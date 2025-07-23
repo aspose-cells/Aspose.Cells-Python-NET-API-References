@@ -1,5 +1,5 @@
 ---
-title: is_deleted الملكية
+title: is_deleted عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.charts/legendentry/is_deleted/
 is_root: false
 ---
-##  is_deleted الملكية
+##  is_deleted عقار
 
-الحصول على وتحديد ما إذا كان قد تم حذف إدخال وسيلة الإيضاح.
+يحصل على ويحدد ما إذا كان سيتم حذف إدخال الأسطورة أم لا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [LegendEntry](/cells/python-net/ar/aspose.cells.charts/legendentry)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`LegendEntry`](/cells/python-net/ar/aspose.cells.charts/legendentry)

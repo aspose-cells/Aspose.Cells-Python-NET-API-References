@@ -1,5 +1,5 @@
 ---
-title: scale الملكية
+title: scale عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.drawing/picformatoption/scale/
 is_root: false
 ---
-##  scale الملكية
+##  scale عقار
 
-الحصول على او تحديد عدد مكدس الصورة و scale بها.
+يحصل على أو يحدد عدد الصور المكدسة و scale مع.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [PicFormatOption](/cells/python-net/ar/aspose.cells.drawing/picformatoption)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`PicFormatOption`](/cells/python-net/ar/aspose.cells.drawing/picformatoption)

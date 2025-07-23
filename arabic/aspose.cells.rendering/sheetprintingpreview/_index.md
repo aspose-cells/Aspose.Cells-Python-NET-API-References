@@ -1,31 +1,31 @@
 ---
-title: SheetPrintingPreview الدرجة
+title: SheetPrintingPreview صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells.rendering/sheetprintingpreview/
 is_root: false
 ---
-##  SheetPrintingPreview الدرجة
+##  SheetPrintingPreview صف
 معاينة طباعة ورقة العمل.
 
 
 
-يكشف نوع SheetPrintingPreview الأعضاء التالية:
+يكشف النوع SheetPrintingPreview عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [SheetPrintingPreview(sheet, options)](/cells/python-net/ar/aspose.cells.rendering/sheetprintingpreview/__init__/#Worksheet-ImageOrPrintOptions) | بناء SheetPrintingPreview|
+| [`__init__(self, sheet, options)`](/cells/python-net/ar/aspose.cells.rendering/sheetprintingpreview/__init__/#aspose.cells.worksheet-aspose.cells.rendering.imageorprintoptions) | بناء SheetPrintingPreview|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [evaluated_page_count](/cells/python-net/ar/aspose.cells.rendering/sheetprintingpreview/evaluated_page_count) | قم بتقييم إجمالي عدد الصفحات في ورقة العمل هذه|
+| [evaluated_page_count](/cells/python-net/ar/aspose.cells.rendering/sheetprintingpreview/evaluated_page_count) |تقييم إجمالي عدد الصفحات في ورقة العمل هذه|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
+* الوحدة [`aspose.cells.rendering`](..)

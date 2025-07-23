@@ -3,7 +3,7 @@ title: AutoFitWrappedTextType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1840
+weight: 1740
 url: /ar/aspose.cells/autofitwrappedtexttype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ is_root: false
 | مجال| وصف|
 | :- | :- |
 | DEFAULT | يعمل كبرنامج MS Excel.|
-| PARAGRAPH | عرض الاحتواء التلقائي مع أطول فقرة.|
+| PARAGRAPH | ملائمة العرض تلقائيًا مع أطول فقرة.|
 
 
 

@@ -12,7 +12,7 @@ is_root: false
 
 
 
-**ميراث:** [`Walls`](/cells/python-net/aspose.cells.charts/walls) → 
+**الميراث:** [`Walls`](/cells/python-net/aspose.cells.charts/walls) → 
 [`Floor`](/cells/python-net/aspose.cells.charts/floor) → 
 [`Area`](/cells/python-net/ar/aspose.cells.drawing/area)
 
@@ -23,31 +23,31 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [background_color](/cells/python-net/ar/aspose.cells.charts/walls/background_color) | الحصول على أو تعيين لون الخلفية لـ [`Area`](/cells/python-net/ar/aspose.cells.drawing/area).|
-| [foreground_color](/cells/python-net/ar/aspose.cells.charts/walls/foreground_color) | الحصول على أو تعيين اللون الأمامي.|
+| [background_color](/cells/python-net/ar/aspose.cells.charts/walls/background_color) | يحصل على لون الخلفية لـ [`Area`](/cells/python-net/ar/aspose.cells.drawing/area) أو يعينه.|
+| [foreground_color](/cells/python-net/ar/aspose.cells.charts/walls/foreground_color) | يحصل على لون المقدمة أو يعينه.|
 | [formatting](/cells/python-net/ar/aspose.cells.charts/walls/formatting) | يمثل تنسيق المنطقة.|
-| [invert_if_negative](/cells/python-net/ar/aspose.cells.charts/walls/invert_if_negative) | إذا كانت الخاصية صحيحة وكانت قيمة نقطة المخطط رقمًا سالبًا،<br/> سيتم تبادل اللون الأمامي ولون الخلفية.|
-| [fill_format](/cells/python-net/ar/aspose.cells.charts/walls/fill_format) | يمثل كائن [`Area.fill_format`](/cells/python-net/ar/aspose.cells.drawing/area#fill_format) الذي يحتوي على خصائص تنسيق التعبئة للمخطط أو الشكل المحدد.|
-| [transparency](/cells/python-net/ar/aspose.cells.charts/walls/transparency) |إرجاع أو تعيين درجة شفافية المنطقة كقيمة تتراوح من 0.0 (معتم) إلى 1.0 (واضح).|
-| [border](/cells/python-net/ar/aspose.cells.charts/walls/border) | يحصل أو يحدد الحدود [`Line`](/cells/python-net/ar/aspose.cells.drawing/line).|
-| [center_x](/cells/python-net/ar/aspose.cells.charts/walls/center_x) | يحصل على إحداثي x للزاوية السفلية اليسرى لمركز الجدار بوحدات 1/4000 من عرض المخطط بعد استدعاء الأسلوب Chart.Calculate().|
-| [center_y](/cells/python-net/ar/aspose.cells.charts/walls/center_y) | يحصل على الإحداثي y للزاوية السفلية اليسرى لمركز الجدار بوحدات 1/4000 من ارتفاع المخطط بعد استدعاء أسلوب Chart.Calculate().|
-| [width](/cells/python-net/ar/aspose.cells.charts/walls/width) | الحصول على العرض من اليسار إلى اليمين بوحدات تبلغ 1/4000 من عرض المخطط بعد استدعاء الأسلوب Chart.Calculate().|
-| [depth](/cells/python-net/ar/aspose.cells.charts/walls/depth) |يحصل على العمق من الأمام إلى الخلف بوحدات تبلغ 1/4000 من عرض المخطط بعد استدعاء الأسلوب Chart.Calculate().|
-| [height](/cells/python-net/ar/aspose.cells.charts/walls/height) | الحصول على الارتفاع من أعلى إلى أسفل بوحدات تبلغ 1/4000 من ارتفاع المخطط بعد استدعاء أسلوب Chart.Calculate().|
-| [center_x_px](/cells/python-net/ar/aspose.cells.charts/walls/center_x_px) | يحصل على إحداثي x للزاوية السفلية اليسرى لمركز الحائط بوحدات البكسل بعد استدعاء أسلوب Chart.Calculate().|
-| [center_y_px](/cells/python-net/ar/aspose.cells.charts/walls/center_y_px) | يحصل على الإحداثي y للزاوية السفلية اليسرى لمركز الحائط بوحدات البكسل بعد استدعاء الأسلوب Chart.Calculate().|
-| [width_px](/cells/python-net/ar/aspose.cells.charts/walls/width_px) | الحصول على عرض اليسار إلى اليمين بوحدات البكسل بعد استدعاء الأسلوب Chart.Calculate().|
-| [depth_px](/cells/python-net/ar/aspose.cells.charts/walls/depth_px) | يحصل على العمق من الأمام إلى الخلف بوحدات البكسل بعد استدعاء الأسلوب Chart.Calculate().|
-| [height_px](/cells/python-net/ar/aspose.cells.charts/walls/height_px) | يحصل على الارتفاع من أعلى إلى أسفل بوحدات البكسل بعد استدعاء الأسلوب Chart.Calculate().|
+| [invert_if_negative](/cells/python-net/ar/aspose.cells.charts/walls/invert_if_negative) | إذا كانت الخاصية صحيحة وكانت قيمة نقطة الرسم البياني رقمًا سلبيًا،<br/> سيتم تبادل لون المقدمة ولون الخلفية.|
+| [fill_format](/cells/python-net/ar/aspose.cells.charts/walls/fill_format) | يمثل كائن [`Area.fill_format`](/cells/python-net/ar/aspose.cells.drawing/area#fill_format) يحتوي على خصائص تنسيق التعبئة للمخطط أو الشكل المحدد.|
+| [transparency](/cells/python-net/ar/aspose.cells.charts/walls/transparency) |يقوم بإرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (غير شفافة) إلى 1.0 (واضحة).|
+| [border](/cells/python-net/ar/aspose.cells.charts/walls/border) | يحصل على الحدود [`Line`](/cells/python-net/ar/aspose.cells.drawing/line) أو يعينها.|
+| [center_x](/cells/python-net/ar/aspose.cells.charts/walls/center_x) | يحصل على إحداثيات x للزاوية اليسرى السفلية من مركز الحائط بوحدات 1/4000 من عرض الرسم البياني بعد استدعاء طريقة Chart.Calculate().|
+| [center_y](/cells/python-net/ar/aspose.cells.charts/walls/center_y) |يحصل على إحداثيات y للزاوية اليسرى السفلية من مركز الحائط بوحدات 1/4000 من ارتفاع الرسم البياني بعد استدعاء طريقة Chart.Calculate().|
+| [width](/cells/python-net/ar/aspose.cells.charts/walls/width) | يحصل على عرض من اليسار إلى اليمين بوحدات 1/4000 من عرض الرسم البياني بعد استدعاء طريقة Chart.Calculate().|
+| [depth](/cells/python-net/ar/aspose.cells.charts/walls/depth) | يحصل على العمق من الأمام إلى الخلف بوحدات مقدارها 1/4000 من عرض الرسم البياني بعد استدعاء طريقة Chart.Calculate().|
+| [height](/cells/python-net/ar/aspose.cells.charts/walls/height) | يحصل على الارتفاع من الأعلى إلى الأسفل بوحدات مقدارها 1/4000 من ارتفاع الرسم البياني بعد استدعاء طريقة Chart.Calculate().|
+| [center_x_px](/cells/python-net/ar/aspose.cells.charts/walls/center_x_px) | يحصل على إحداثيات x للزاوية اليسرى السفلية من مركز الحائط بوحدات البكسل بعد استدعاء طريقة Chart.Calculate().|
+| [center_y_px](/cells/python-net/ar/aspose.cells.charts/walls/center_y_px) | يحصل على إحداثيات y للزاوية اليسرى السفلية من مركز الحائط بوحدات البكسل بعد استدعاء طريقة Chart.Calculate().|
+| [width_px](/cells/python-net/ar/aspose.cells.charts/walls/width_px) | يحصل على عرض من اليسار إلى اليمين بوحدات البكسل بعد استدعاء طريقة Chart.Calculate().|
+| [depth_px](/cells/python-net/ar/aspose.cells.charts/walls/depth_px) | يحصل على العمق من الأمام إلى الخلف بوحدات البكسل بعد استدعاء طريقة Chart.Calculate().|
+| [height_px](/cells/python-net/ar/aspose.cells.charts/walls/height_px) |يحصل على الارتفاع من الأعلى إلى الأسفل بوحدات البكسل بعد استدعاء طريقة Chart.Calculate().|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_cube_point_count](/cells/python-net/ar/aspose.cells.charts/walls/get_cube_point_count/#) | الحصول على عدد نقاط المكعب بعد استدعاء الأسلوب Chart.Calculate().|
-| [get_cube_point_x_px](/cells/python-net/ar/aspose.cells.charts/walls/get_cube_point_x_px/#int) | يحصل على إحداثي x لنقطة قمة مكعب الجدران بعد استدعاء الأسلوب Chart.Calculate().<br/> عدد نقاط قمة الجدار المكعب هو ثمانية|
-| [get_cube_point_y_px](/cells/python-net/ar/aspose.cells.charts/walls/get_cube_point_y_px/#int) |يحصل على إحداثي y لنقطة قمة مكعب الجدران بعد استدعاء الأسلوب Chart.Calculate().<br/> عدد نقاط قمة الجدار المكعب هو ثمانية.|
+| [`get_cube_point_count(self)`](/cells/python-net/ar/aspose.cells.charts/walls/get_cube_point_count/#) | يحصل على عدد نقاط المكعب بعد استدعاء طريقة Chart.Calculate().|
+| [`get_cube_point_x_px(self, index)`](/cells/python-net/ar/aspose.cells.charts/walls/get_cube_point_x_px/#int) | يحصل على إحداثيات x لنقطة قمة مكعب الجدران بعد استدعاء طريقة Chart.Calculate().<br/> عدد نقاط قمة جدران المكعب هو ثمانية|
+| [`get_cube_point_y_px(self, index)`](/cells/python-net/ar/aspose.cells.charts/walls/get_cube_point_y_px/#int) | يحصل على إحداثيات y لنقطة قمة مكعب الجدران بعد استدعاء طريقة Chart.Calculate().<br/> عدد نقاط قمة جدران المكعب هو ثمانية.|
 
 
 

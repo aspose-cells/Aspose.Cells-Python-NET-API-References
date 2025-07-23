@@ -1,39 +1,37 @@
 ---
 title: CharacterBulletValue类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 40
+weight: 30
 url: /zh/aspose.cells.drawing.texts/characterbulletvalue/
 is_root: false
 ---
 ## CharacterBulletValue类
-表示字符项目符号。
+代表字符项目符号。
 
 
 
-**继承：** [CharacterBulletValue](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue) → 
-[BulletValue](/cells/python-net/zh/aspose.cells.drawing.texts/bulletvalue)
+**继承：** [`CharacterBulletValue`](/cells/python-net/zh/aspose.cells.drawing.texts/characterbulletvalue)
 
 
 
-CharacterBulletValue 类型公开了以下成员：
+CharacterBulletValue 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [CharacterBulletValue()](/cells/python-net/zh/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) |构造 CharacterBulletValue 的新实例|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) |构造一个新的 CharacterBulletValue 实例|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [type](/cells/python-net/zh/aspose.cells.drawing.texts/characterbulletvalue/type) |获取子弹的类型。|
-| [character](/cells/python-net/zh/aspose.cells.drawing.texts/characterbulletvalue/character) |获取和设置子弹的字符。|
+| [character](/cells/python-net/zh/aspose.cells.drawing.texts/characterbulletvalue/character) |获取并设置子弹的特征。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](..)
-* 类 [BulletValue](/cells/python-net/zh/aspose.cells.drawing.texts/bulletvalue)
-* 类 [CharacterBulletValue](/cells/python-net/zh/aspose.cells.drawing.texts/characterbulletvalue)
+* 模块[`aspose.cells.drawing.texts`](..)
+* 类 [`CharacterBulletValue`](/cells/python-net/zh/aspose.cells.drawing.texts/characterbulletvalue)

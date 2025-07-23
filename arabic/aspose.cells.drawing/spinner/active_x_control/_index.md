@@ -3,13 +3,13 @@ title: active_x_control عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ar/aspose.cells.drawing/spinner/active_x_control/
 is_root: false
 ---
 ##  active_x_control عقار
 
-الحصول على عنصر تحكم ActiveX.
+يحصل على عنصر التحكم ActiveX.
 
 ###  مثال
 
@@ -32,5 +32,4 @@ def active_x_control(self):
 
 ###  أنظر أيضا
 * الوحدة [`aspose.cells.drawing`](../../)
-* فئة [`ActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrol)
 * فئة [`Spinner`](/cells/python-net/ar/aspose.cells.drawing/spinner)

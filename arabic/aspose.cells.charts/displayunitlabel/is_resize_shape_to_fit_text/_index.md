@@ -1,16 +1,16 @@
 ---
-title: is_resize_shape_to_fit_text الملكية
+title: is_resize_shape_to_fit_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 290
 url: /ar/aspose.cells.charts/displayunitlabel/is_resize_shape_to_fit_text/
 is_root: false
 ---
-##  is_resize_shape_to_fit_text الملكية
+##  is_resize_shape_to_fit_text عقار
 
-الحصول على أو تحديد ما إذا كان يجب أن يكون الشكل مناسبًا تلقائيًا ليحتوي بالكامل على النص الموصوف بداخله. التركيب التلقائي هو
-عندما يتم تحجيم النص داخل الشكل ليحتوي على كل النص الموجود بداخله.
+يحصل أو يضبط ما إذا كان يجب ملاءمة الشكل تلقائيًا لاحتواء النص الموصوف فيه بالكامل. الملاءمة التلقائية هي
+عندما يتم تغيير حجم النص داخل الشكل لاحتواء النص بأكمله بالداخل.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_resize_shape_to_fit_text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DisplayUnitLabel](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DisplayUnitLabel`](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)

@@ -3,13 +3,13 @@ title: is_default_row_hidden عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1060
+weight: 1090
 url: /ar/aspose.cells/cells/is_default_row_hidden/
 is_root: false
 ---
 ##  is_default_row_hidden عقار
 
-يشير إلى ما إذا كان الصف مخفيًا بشكل افتراضي.
+يشير إلى ما إذا كان الصف مخفيًا افتراضيًا.
 ###  تعريف:
 ```python
 @property

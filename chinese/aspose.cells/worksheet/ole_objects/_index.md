@@ -3,7 +3,7 @@ title: ole_objects属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 660
+weight: 690
 url: /zh/aspose.cells/worksheet/ole_objects/
 is_root: false
 ---

@@ -3,12 +3,12 @@ title: LoadFilter صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1050
+weight: 940
 url: /ar/aspose.cells/loadfilter/
 is_root: false
 ---
 ##  LoadFilter صف
-يمثل عامل التصفية الذي يوفر خيارات لتحميل البيانات عند تحميل المصنف من القالب.
+يمثل الفلتر الذي يوفر خيارات لتحميل البيانات عند تحميل المصنف من القالب.
 
 
 
@@ -17,21 +17,21 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/loadfilter/__init__/#) | إنشاء LoadFilter واحد باستخدام خيارات التصفية الافتراضية LoadDataFilterOptions.All.|
-| [__init__](/cells/python-net/ar/aspose.cells/loadfilter/__init__/#aspose.cells.LoadDataFilterOptions) | إنشاء LoadFilter واحد مع خيارات التصفية المحددة.|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/loadfilter/__init__/#) | إنشاء LoadFilter واحد باستخدام خيارات التصفية الافتراضية LoadDataFilterOptions.All.|
+| [`__init__(self, opts)`](/cells/python-net/ar/aspose.cells/loadfilter/__init__/#aspose.cells.loaddatafilteroptions) | إنشاء LoadFilter واحد مع خيارات التصفية المحددة.|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [load_data_filter_options](/cells/python-net/ar/aspose.cells/loadfilter/load_data_filter_options) | خيارات التصفية للإشارة إلى البيانات التي يجب تحميلها.|
-| [sheets_in_loading_order](/cells/python-net/ar/aspose.cells/loadfilter/sheets_in_loading_order) | يحدد الأوراق (الفهارس) وترتيب تحميلها.<br/>الافتراضي هو فارغ، مما يدل على تحميل كافة الأوراق بالترتيب الافتراضي في ملف القالب.<br/> إذا لم يكن فارغًا ولم يكن فهرس بعض الأوراق موجودًا في المصفوفة التي تم إرجاعها، فلن يتم تحميل الورقة.|
+| [load_data_filter_options](/cells/python-net/ar/aspose.cells/loadfilter/load_data_filter_options) |خيارات التصفية للإشارة إلى البيانات التي يجب تحميلها.|
+| [sheets_in_loading_order](/cells/python-net/ar/aspose.cells/loadfilter/sheets_in_loading_order) | يحدد الأوراق (المؤشرات) والترتيب الذي سيتم تحميلها.<br/>الإعداد الافتراضي هو null، وهو ما يشير إلى تحميل كافة الأوراق بالترتيب الافتراضي في ملف القالب.<br/> إذا لم يكن فارغًا ولم يكن فهرس بعض الأوراق موجودًا في المصفوفة المرتجعة، فلن يتم تحميل الورقة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [start_sheet](/cells/python-net/ar/aspose.cells/loadfilter/start_sheet/#aspose.cells.Worksheet) | يقوم بإعداد خيارات التصفية قبل تحميل ورقة العمل المحددة.<br/>يمكن أن يؤدي تطبيق المستخدم لـ LoadFilter إلى تغيير LoadDataFilterOptions هنا<br/> للإشارة إلى كيفية تحميل البيانات لورقة العمل هذه.|
+| [`start_sheet(self, sheet)`](/cells/python-net/ar/aspose.cells/loadfilter/start_sheet/#aspose.cells.worksheet) | إعداد خيارات التصفية قبل تحميل ورقة العمل المحددة.<br/>يمكن لتطبيق المستخدم LoadFilter تغيير LoadDataFilterOptions هنا<br/> للإشارة إلى كيفية تحميل البيانات لهذه ورقة العمل.|
 
 
 

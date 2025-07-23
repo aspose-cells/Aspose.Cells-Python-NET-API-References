@@ -3,13 +3,13 @@ title: text_direction属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 970
+weight: 990
 url: /zh/aspose.cells.drawing/checkbox/text_direction/
 is_root: false
 ---
 ## text_direction属性
 
-获取/设置该对象的文本流方向。
+获取/设置此对象的文本流方向。
 
 ### 例子
 

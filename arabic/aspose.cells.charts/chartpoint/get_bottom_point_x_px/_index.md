@@ -7,13 +7,14 @@ weight: 30
 url: /ar/aspose.cells.charts/chartpoint/get_bottom_point_x_px/
 is_root: false
 ---
-##  get_bottom_point_x_px(index) {#int}
-الحصول على إحداثيات x للنقطة السفلية للشكل بعد استدعاء طريقة Chart.Calculate ().
-يطبق المخططات ثلاثية الأبعاد: Column3D، Bar3D، Cone، Cylinder، Pyramid
+##  get_bottom_point_x_px(self, index) {#int}
+يحصل على إحداثيات x للنقطة السفلية للشكل بعد استدعاء طريقة Chart.Calculate().
+ينطبق على المخططات ثلاثية الأبعاد: العمود ثلاثي الأبعاد، الشريط ثلاثي الأبعاد، المخروط، الأسطوانة، الهرم
 
 
 
 ```python
+
 def get_bottom_point_x_px(self, index):
     ...
 ```
@@ -26,5 +27,5 @@ def get_bottom_point_x_px(self, index):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

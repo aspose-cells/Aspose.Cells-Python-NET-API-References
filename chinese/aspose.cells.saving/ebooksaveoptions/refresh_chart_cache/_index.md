@@ -3,7 +3,7 @@ title: refresh_chart_cache属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 610
+weight: 700
 url: /zh/aspose.cells.saving/ebooksaveoptions/refresh_chart_cache/
 is_root: false
 ---

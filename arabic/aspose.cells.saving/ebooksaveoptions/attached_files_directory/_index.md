@@ -3,14 +3,14 @@ title: attached_files_directory عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells.saving/ebooksaveoptions/attached_files_directory/
 is_root: false
 ---
 ##  attached_files_directory عقار
 
 الدليل الذي سيتم حفظ الملفات المرفقة فيه.
-فقط للحفظ في دفق HTML.
+للحفظ في دفق HTML فقط.
 ###  تعريف:
 ```python
 @property

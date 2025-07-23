@@ -1,22 +1,23 @@
 ---
 title: get_validation_in_cell方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells/validationcollection/get_validation_in_cell/
 is_root: false
 ---
-##  get_validation_in_cell(row, column) {#int-int}
+##  get_validation_in_cell(self, row, column) {#int-int}
 获取应用于给定单元格的验证。
 
 
 ### 返回
 
-返回 [Validation](/cells/python-net/zh/aspose.cells/validation) 对象，如果给定单元格没有验证则返回 null
+返回 [`Validation`](/cells/python-net/zh/aspose.cells/validation) 对象，如果给定单元格没有验证则返回 null
 
 
 ```python
+
 def get_validation_in_cell(self, row, column):
     ...
 ```
@@ -30,6 +31,6 @@ def get_validation_in_cell(self, row, column):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Validation](/cells/python-net/zh/aspose.cells/validation)
-* 类 [ValidationCollection](/cells/python-net/zh/aspose.cells/validationcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`Validation`](/cells/python-net/zh/aspose.cells/validation)
+* 类 [`ValidationCollection`](/cells/python-net/zh/aspose.cells/validationcollection)

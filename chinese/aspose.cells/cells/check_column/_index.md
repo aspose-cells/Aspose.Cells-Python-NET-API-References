@@ -1,14 +1,14 @@
 ---
 title: check_column方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
 url: /zh/aspose.cells/cells/check_column/
 is_root: false
 ---
-##  check_column(column_index) {#int}
-获取指定列索引处的 [Column](/cells/python-net/zh/aspose.cells/column) 元素或 null。
+##  check_column(self, column_index) {#int}
+获取指定列索引处的 [`Column`](/cells/python-net/zh/aspose.cells/column) 元素或 null。
 
 
 ### 返回
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def check_column(self, column_index):
     ...
 ```
@@ -29,6 +30,6 @@ def check_column(self, column_index):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
-* 类 [Column](/cells/python-net/zh/aspose.cells/column)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)
+* 类 [`Column`](/cells/python-net/zh/aspose.cells/column)

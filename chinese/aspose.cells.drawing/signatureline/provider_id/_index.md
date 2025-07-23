@@ -1,19 +1,19 @@
 ---
-title: provider_id 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: provider_id属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.drawing/signatureline/provider_id/
 is_root: false
 ---
-## provider_id 属性
+## provider_id属性
 
-获取和设置签名提供者的id。
+获取或设置签名提供者的 ID。
 
-### 评论
+### 注意事项
 
-它通常是提供商 com 加载项的 CLSID。
+它通常是提供程序 com 插件的 CLSID。
 
 ### 例子
 
@@ -23,7 +23,7 @@ from uuid import uuid4
 
 #  Create signature line object
 s2 = SignatureLine()
-s2.provider_id = uuid4()
+s2.provider_id = uuid4("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx")
 
 ```
 ### 定义：
@@ -37,5 +37,5 @@ def provider_id(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [SignatureLine](/cells/python-net/zh/aspose.cells.drawing/signatureline)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`SignatureLine`](/cells/python-net/zh/aspose.cells.drawing/signatureline)

@@ -1,9 +1,9 @@
 ---
 title: MsoArrowheadStyle枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 980
+weight: 970
 url: /zh/aspose.cells.drawing/msoarrowheadstyle/
 is_root: false
 ---
@@ -12,19 +12,19 @@ is_root: false
 
 
 
-MsoArrowheadStyle 类型公开了以下成员：
+MsoArrowheadStyle 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| NONE |没有行结束类型。|
-| ARROW |箭头线端类型。|
-| ARROW_STEALTH | Arrow Stealth 线端类型。|
-| ARROW_DIAMOND | Arrow Diamond Line 末端类型。|
-| ARROW_OVAL |箭头椭圆线端类型。|
-| ARROW_OPEN |箭头打开线端类型。|
+| NONE |无线端类型。|
+| ARROW |箭头线末端类型。|
+| ARROW_STEALTH |箭形隐形线末端类型。|
+| ARROW_DIAMOND |箭头钻石线末端类型。|
+| ARROW_OVAL |箭头椭圆形线端类型。|
+| ARROW_OPEN |箭头开放线端类型。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

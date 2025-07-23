@@ -9,7 +9,7 @@ is_root: false
 ---
 ## interval属性
 
-获取组内部信息。
+获取群组的内部信息。
 ### 定义：
 ```python
 @property

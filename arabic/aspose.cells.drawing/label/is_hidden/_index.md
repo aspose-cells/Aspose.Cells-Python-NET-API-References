@@ -3,7 +3,7 @@ title: is_hidden عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 590
 url: /ar/aspose.cells.drawing/label/is_hidden/
 is_root: false
 ---

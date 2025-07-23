@@ -3,13 +3,13 @@ title: minor_grid_lines عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 350
 url: /ar/aspose.cells.charts/axis/minor_grid_lines/
 is_root: false
 ---
 ##  minor_grid_lines عقار
 
-يمثل خطوط الشبكة الثانوية على محور المخطط.
+يمثل خطوط الشبكة الثانوية على محور الرسم البياني.
 ###  تعريف:
 ```python
 @property

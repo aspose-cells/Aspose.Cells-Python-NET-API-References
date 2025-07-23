@@ -3,14 +3,14 @@ title: class_identifier عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 370
 url: /ar/aspose.cells.drawing/oleobject/class_identifier/
 is_root: false
 ---
 ##  class_identifier عقار
 
- الحصول على معرف فئة الكائن المضمن وتعيينه.
-وهذا يعني التطبيق الذي يفتح الملف المضمن.
+ يحصل على معرف فئة الكائن المضمن ويقوم بتعيينه.
+يعني التطبيق الذي يفتح الملف المضمن.
 ###  تعريف:
 ```python
 @property

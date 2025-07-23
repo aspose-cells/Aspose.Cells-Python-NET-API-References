@@ -7,12 +7,13 @@ weight: 10
 url: /zh/aspose.cells/ebookloadoptions/__init__/
 is_root: false
 ---
-##  __在里面__ {#}
+##  \_\_init\_\_（自身）{#}
 创建加载电子书文件的选项。
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  __在里面__ {#aspose.cells.LoadFormat}
+##  \_\_init\_\_（自身，load_format）{#aspose.cells.LoadFormat}
 创建加载电子书文件的选项。
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```

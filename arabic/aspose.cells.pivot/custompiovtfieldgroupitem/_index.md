@@ -17,7 +17,7 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/#str-list) | مُنشئ عنصر المجموعة المخصص للحقل المحوري.|
+| [`__init__(self, name, item_indexes)`](/cells/python-net/ar/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/#str-list) | منشئ عنصر المجموعة المخصص لحقل المحور.|
 
 
 

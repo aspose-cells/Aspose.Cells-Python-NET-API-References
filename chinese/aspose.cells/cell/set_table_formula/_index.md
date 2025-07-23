@@ -3,16 +3,17 @@ title: set_table_formula方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 370
+weight: 380
 url: /zh/aspose.cells/cell/set_table_formula/
 is_root: false
 ---
-##  set_table_formula {#int-int-str-str-list}
-从该单元格开始为给定范围创建二变量数据表。
+##  set_table_formula(self, row_number, column_number, row_input_cell, column_input_cell, values) {#int-int-str-str-list}
+从该单元格开始为给定范围创建双变量数据表。
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, row_input_cell, column_input_cell, values):
     ...
 ```
@@ -21,18 +22,19 @@ def set_table_formula(self, row_number, column_number, row_input_cell, column_in
 |范围|类型|描述|
 | :- | :- | :- |
 | row_number | int |填充公式的行数。|
-| column_number | int |用于填充公式的列数。|
+| column_number | int |填充公式的列数。|
 | row_input_cell | str |行输入单元格|
 | column_input_cell | str |列输入单元格|
 | values | list |表格公式范围内的单元格值|
 
 
-##  set_table_formula {#int-int-str-bool-list}
+##  set_table_formula(self, row_number, column_number, input_cell, is_row_input, values) {#int-int-str-bool-list}
 从该单元格开始为给定范围创建单变量数据表。
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, input_cell, is_row_input, values):
     ...
 ```
@@ -41,18 +43,19 @@ def set_table_formula(self, row_number, column_number, input_cell, is_row_input,
 |范围|类型|描述|
 | :- | :- | :- |
 | row_number | int |填充公式的行数。|
-| column_number | int |用于填充公式的列数。|
-| input_cell | str |输入单元格|
+| column_number | int |填充公式的列数。|
+| input_cell | str |输入单元|
 | is_row_input | bool |指示输入单元格是行输入单元格（true）还是列输入单元格（false）。|
 | values | list |表格公式范围内的单元格值|
 
 
-##  set_table_formula {#int-int-int-int-bool-list}
+##  set_table_formula(self, row_number, column_number, row_index_of_input_cell, column_index_of_input_cell, is_row_input, values) {#int-int-int-int-bool-list}
 从该单元格开始为给定范围创建单变量数据表。
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, row_index_of_input_cell, column_index_of_input_cell, is_row_input, values):
     ...
 ```
@@ -61,19 +64,20 @@ def set_table_formula(self, row_number, column_number, row_index_of_input_cell, 
 |范围|类型|描述|
 | :- | :- | :- |
 | row_number | int |填充公式的行数。|
-| column_number | int |用于填充公式的列数。|
+| column_number | int |填充公式的列数。|
 | row_index_of_input_cell | int |输入单元格的行索引|
 | column_index_of_input_cell | int |输入单元格的列索引|
 | is_row_input | bool |指示输入单元格是行输入单元格（true）还是列输入单元格（false）。|
 | values | list |表格公式范围内的单元格值|
 
 
-##  set_table_formula {#int-int-int-int-int-int-list}
-从该单元格开始为给定范围创建二变量数据表。
+##  set_table_formula(self, row_number, column_number, row_index_of_row_input_cell, column_index_of_row_input_cell, row_index_of_column_input_cell, column_index_of_column_input_cell, values) {#int-int-int-int-int-int-list}
+从该单元格开始为给定范围创建双变量数据表。
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, row_index_of_row_input_cell, column_index_of_row_input_cell, row_index_of_column_input_cell, column_index_of_column_input_cell, values):
     ...
 ```
@@ -82,7 +86,7 @@ def set_table_formula(self, row_number, column_number, row_index_of_row_input_ce
 |范围|类型|描述|
 | :- | :- | :- |
 | row_number | int |填充公式的行数。|
-| column_number | int |用于填充公式的列数。|
+| column_number | int |填充公式的列数。|
 | row_index_of_row_input_cell | int |行输入单元格的行索引|
 | column_index_of_row_input_cell | int |行输入单元格的列索引|
 | row_index_of_column_input_cell | int |列输入单元格的行索引|

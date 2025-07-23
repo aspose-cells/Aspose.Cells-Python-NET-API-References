@@ -3,13 +3,13 @@ title: treat_consecutive_delimiters_as_one عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 430
+weight: 410
 url: /ar/aspose.cells/txtloadoptions/treat_consecutive_delimiters_as_one/
 is_root: false
 ---
 ##  treat_consecutive_delimiters_as_one عقار
 
-ما إذا كان يجب التعامل مع المحددات المتتالية كواحدة أم لا.
+ما إذا كان ينبغي التعامل مع الفواصل المتتالية باعتبارها واحدة.
 ###  تعريف:
 ```python
 @property

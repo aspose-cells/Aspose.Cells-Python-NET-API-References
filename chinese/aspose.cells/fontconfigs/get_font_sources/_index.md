@@ -1,14 +1,14 @@
 ---
 title: get_font_sources方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 20
+weight: 30
 url: /zh/aspose.cells/fontconfigs/get_font_sources/
 is_root: false
 ---
 ##  get_font_sources() {#}
-获取包含源列表的数组副本
+获取包含源列表的数组的副本
 
 
 ### 返回
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def get_font_sources(self):
+
+@staticmethod
+def get_font_sources():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_font_sources(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FontConfigs](/cells/python-net/zh/aspose.cells/fontconfigs)
+* 模块[`aspose.cells`](../../)
+* 类 [`FontConfigs`](/cells/python-net/zh/aspose.cells/fontconfigs)

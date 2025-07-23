@@ -3,12 +3,12 @@ title: FontSetting类
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 700
+weight: 690
 url: /zh/aspose.cells/fontsetting/
 is_root: false
 ---
 ## FontSetting类
-表示单元格文本中的一系列字符。
+表示单元格文本内的字符范围。
 
 
 
@@ -17,23 +17,23 @@ FontSetting 类型公开以下成员：
 ### 构造函数
 |构造函数|描述|
 | :- | :- |
-| [__init__](/cells/python-net/zh/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
+| [`__init__(self, start_index, length, sheets)`](/cells/python-net/zh/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.worksheetcollection) |  |
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [type](/cells/python-net/zh/aspose.cells/fontsetting/type) |获取文本节点的类型。|
 | [start_index](/cells/python-net/zh/aspose.cells/fontsetting/start_index) |获取字符的起始索引。|
 | [length](/cells/python-net/zh/aspose.cells/fontsetting/length) |获取字符的长度。|
-| [font](/cells/python-net/zh/aspose.cells/fontsetting/font) |返回该对象的字体。|
+| [font](/cells/python-net/zh/aspose.cells/fontsetting/font) |返回此对象的字体。|
 | [text_options](/cells/python-net/zh/aspose.cells/fontsetting/text_options) |返回文本选项。|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [set_word_art_style](/cells/python-net/zh/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) |设置预设的艺术字样式。|
+| [`set_word_art_style(self, style)`](/cells/python-net/zh/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) |设置预设的艺术字样式。|
 
 
 

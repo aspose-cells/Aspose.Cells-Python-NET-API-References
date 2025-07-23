@@ -7,16 +7,17 @@ weight: 120
 url: /ar/aspose.cells/cell/get_format_conditions/
 is_root: false
 ---
-##  get_format_conditions() {#}
+##  get_format_conditions(self) {#}
 يحصل على شروط التنسيق التي تنطبق على هذه الخلية.
 
 
 ###  عائدات
 
-إرجاع عنصر [FormatConditionCollection](/cells/python-net/ar/aspose.cells/formatconditioncollection)
+إرجاع الكائن [`FormatConditionCollection`](/cells/python-net/ar/aspose.cells/formatconditioncollection)
 
 
 ```python
+
 def get_format_conditions(self):
     ...
 ```
@@ -26,6 +27,6 @@ def get_format_conditions(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
-* فئة [FormatConditionCollection](/cells/python-net/ar/aspose.cells/formatconditioncollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)
+* فئة [`FormatConditionCollection`](/cells/python-net/ar/aspose.cells/formatconditioncollection)

@@ -1,15 +1,15 @@
 ---
-title: member_property_field_index الملكية
+title: member_property_field_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 140
 url: /ar/aspose.cells.pivot/pivotfilter/member_property_field_index/
 is_root: false
 ---
-##  member_property_field_index الملكية
+##  member_property_field_index عقار
 
-الحصول على فهرس حقل خاصية العضو لعامل التصفية المحوري.
+يحصل على فهرس حقل خاصية العضو لمرشح المحور.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def member_property_field_index(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotFilter](/cells/python-net/ar/aspose.cells.pivot/pivotfilter)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotFilter`](/cells/python-net/ar/aspose.cells.pivot/pivotfilter)

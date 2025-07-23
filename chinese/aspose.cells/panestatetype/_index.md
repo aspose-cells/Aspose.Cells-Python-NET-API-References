@@ -3,7 +3,7 @@ title: PaneStateType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2410
+weight: 2380
 url: /zh/aspose.cells/panestatetype/
 is_root: false
 ---
@@ -14,13 +14,13 @@ is_root: false
 
 PaneStateType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| FROZEN |玻璃被冻结，但冻结之前并未冻结。|
-| FROZEN_SPLIT |窗格被冻结并在冻结之前被分割。|
-| SPLIT |窗格被分割，但未冻结。|
-| NORMAL |窗格不会冻结，也不会分裂。|
+| FROZEN |窗格被冻结，但在冻结之前并非如此。|
+| FROZEN_SPLIT |窗格被冻结，并且在冻结之前被分割。|
+| SPLIT |窗格被分割，但没有冻结。|
+| NORMAL |窗格没有被冻结，也没有被分裂。|
 
 
 

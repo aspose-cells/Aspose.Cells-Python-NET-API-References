@@ -3,12 +3,12 @@ title: RowCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1350
+weight: 1240
 url: /ar/aspose.cells/rowcollection/
 is_root: false
 ---
 ##  RowCollection صف
-يجمع الكائنات [`Row`](/cells/python-net/ar/aspose.cells/row) التي تمثل الصفوف الفردية في ورقة العمل.
+يقوم بتجميع الكائنات [`Row`](/cells/python-net/ar/aspose.cells/row) التي تمثل الصفوف الفردية في ورقة العمل.
 
 
 
@@ -17,12 +17,12 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [count](/cells/python-net/ar/aspose.cells/rowcollection/count) | الحصول على عدد الصفوف في هذه المجموعة.|
+| [count](/cells/python-net/ar/aspose.cells/rowcollection/count) | يحصل على عدد الصفوف في هذه المجموعة.|
 
 
 
-يحصل على كائن [`Row`](/cells/python-net/ar/aspose.cells/row) حسب فهرس الصف المحدد. سيتم إنشاء كائن الصف الخاص بفهرس الصف المحدد إذا لم يكن موجودًا من قبل.
-###  مفهرس
+يحصل على الكائن [`Row`](/cells/python-net/ar/aspose.cells/row) بمؤشر الصف المُعطى. سيتم إنشاء كائن الصف بمؤشر الصف المُعطى إذا لم يكن موجودًا من قبل.
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
 | [index] |  |
@@ -31,10 +31,10 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_enumerator](/cells/python-net/ar/aspose.cells/rowcollection/get_enumerator/#bool-bool) | الحصول على عداد يقوم بتكرار الصفوف خلال هذه المجموعة|
-| [get_row_by_index](/cells/python-net/ar/aspose.cells/rowcollection/get_row_by_index/#int) | الحصول على كائن الصف حسب الموضع في القائمة.|
-| [clear](/cells/python-net/ar/aspose.cells/rowcollection/clear/#) | مسح كافة الصفوف والخلايا.|
-| [remove_at](/cells/python-net/ar/aspose.cells/rowcollection/remove_at/#int) | قم بإزالة عنصر الصف في الفهرس (الموضع) المحدد في هذه المجموعة.|
+| [`get_enumerator(self, reversed, sync)`](/cells/python-net/ar/aspose.cells/rowcollection/get_enumerator/#bool-bool) | يحصل على مُعَدِّد يكرر الصفوف عبر هذه المجموعة|
+| [`get_row_by_index(self, index)`](/cells/python-net/ar/aspose.cells/rowcollection/get_row_by_index/#int) | يحصل على كائن الصف حسب الموضع في القائمة.|
+| [`clear(self)`](/cells/python-net/ar/aspose.cells/rowcollection/clear/#) | مسح كافة الصفوف والخلايا.|
+| [`remove_at(self, index)`](/cells/python-net/ar/aspose.cells/rowcollection/remove_at/#int) | قم بإزالة عنصر الصف عند الفهرس (الموضع) المحدد في هذه المجموعة.|
 
 
 

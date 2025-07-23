@@ -1,5 +1,5 @@
 ---
-title: ThreadedCommentAuthorCollection المنشئ
+title: ThreadedCommentAuthorCollection منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/threadedcommentauthorcollection/__init__/
 is_root: false
 ---
-##  ThreadedCommentAuthorCollection() {#}
-بناء نسخة جديدة من ThreadedCommentAuthorCollection
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد لـ ThreadedCommentAuthorCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ThreadedCommentAuthorCollection](/cells/python-net/ar/aspose.cells/threadedcommentauthorcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ThreadedCommentAuthorCollection`](/cells/python-net/ar/aspose.cells/threadedcommentauthorcollection)

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  font_configs عقار
 
- الحصول على تكوينات الخطوط الفردية وتعيينها.
-يعمل فقط مع [`Workbook`](/cells/python-net/ar/aspose.cells/workbook) الذي يستخدم [`LoadOptions`](/cells/python-net/ar/aspose.cells/loadoptions) للتحميل.
+ يحصل على تكوينات الخطوط الفردية ويقوم بتعيينها.
+يعمل فقط مع [`Workbook`](/cells/python-net/ar/aspose.cells/workbook) الذي يستخدم هذا [`LoadOptions`](/cells/python-net/ar/aspose.cells/loadoptions) للتحميل.
 ###  تعريف:
 ```python
 @property

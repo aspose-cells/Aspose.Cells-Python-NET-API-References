@@ -3,13 +3,13 @@ title: is_style_set عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 670
 url: /ar/aspose.cells/cell/is_style_set/
 is_root: false
 ---
 ##  is_style_set عقار
 
-يشير إلى ما إذا تم تعيين نمط الخلية. إذا تم إرجاع خطأ، فهذا يعني أن هذه الخلية لها تنسيق خلية افتراضي.
+يشير إلى ما إذا كان نمط الخلية مُعيّنًا. إذا كانت القيمة "خطأ"، فهذا يعني أن تنسيق الخلية الافتراضي مُحدّد.
 ###  تعريف:
 ```python
 @property

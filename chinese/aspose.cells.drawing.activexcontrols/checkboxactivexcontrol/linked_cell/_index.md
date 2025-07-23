@@ -1,15 +1,13 @@
 ---
-title: linked_cell 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: linked_cell属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 200
 url: /zh/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/linked_cell/
 is_root: false
 ---
-## linked_cell 属性
-
-获取和设置链接的单元格。
+## linked_cell属性
 ### 定义：
 ```python
 @property
@@ -21,5 +19,5 @@ def linked_cell(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [CheckBoxActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`CheckBoxActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

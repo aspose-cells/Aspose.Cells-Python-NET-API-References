@@ -1,15 +1,15 @@
 ---
-title: compound_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: compound_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 100
 url: /zh/aspose.cells.drawing/lineformat/compound_type/
 is_root: false
 ---
-## compound_type 属性
+## compound_type属性
 
-指定线路复合类型。
+指定线复合类型。
 
 ### 例子
 
@@ -30,6 +30,6 @@ def compound_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [LineFormat](/cells/python-net/zh/aspose.cells.drawing/lineformat)
-* 类 [MsoLineStyle](/cells/python-net/zh/aspose.cells.drawing/msolinestyle)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`LineFormat`](/cells/python-net/zh/aspose.cells.drawing/lineformat)
+* 类 [`MsoLineStyle`](/cells/python-net/zh/aspose.cells.drawing/msolinestyle)

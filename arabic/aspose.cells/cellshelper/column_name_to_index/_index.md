@@ -7,7 +7,7 @@ weight: 60
 url: /ar/aspose.cells/cellshelper/column_name_to_index/
 is_root: false
 ---
-##  column_name_to_index(column_name) {#str}
+##  column_name_to_index(اسم العمود){#str}
 يحصل على فهرس العمود وفقًا لاسم العمود.
 
 
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def column_name_to_index(self, column_name):
+
+@staticmethod
+def column_name_to_index(column_name):
     ...
 ```
 
@@ -29,5 +31,5 @@ def column_name_to_index(self, column_name):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellsHelper](/cells/python-net/ar/aspose.cells/cellshelper)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellsHelper`](/cells/python-net/ar/aspose.cells/cellshelper)

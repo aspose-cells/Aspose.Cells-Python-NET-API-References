@@ -3,17 +3,11 @@ title: gridline_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 170
 url: /ar/aspose.cells/xpssaveoptions/gridline_type/
 is_root: false
 ---
 ##  gridline_type عقار
-
-الحصول على أو تعيين نوع خط الشبكة.
-
-###  ملاحظات
-
-الافتراضي هو النوع المنقط.
 ###  تعريف:
 ```python
 @property

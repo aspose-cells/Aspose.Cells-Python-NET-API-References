@@ -3,13 +3,13 @@ title: control_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 380
 url: /ar/aspose.cells.drawing/picture/control_data/
 is_root: false
 ---
 ##  control_data عقار
 
-يحصل على بيانات السيطرة.
+يحصل على بيانات التحكم.
 
 ###  مثال
 

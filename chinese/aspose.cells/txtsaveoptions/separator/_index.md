@@ -1,15 +1,15 @@
 ---
-title: separator 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: separator属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 190
 url: /zh/aspose.cells/txtsaveoptions/separator/
 is_root: false
 ---
-## separator 属性
+## separator属性
 
-获取和设置文本文件的字符定界符。
+获取并设置文本文件的字符分隔符。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def separator(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [TxtSaveOptions](/cells/python-net/zh/aspose.cells/txtsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`TxtSaveOptions`](/cells/python-net/zh/aspose.cells/txtsaveoptions)

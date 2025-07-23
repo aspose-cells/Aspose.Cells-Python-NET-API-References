@@ -1,5 +1,5 @@
 ---
-title: sheet_index الملكية
+title: sheet_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 140
 url: /ar/aspose.cells/name/sheet_index/
 is_root: false
 ---
-##  sheet_index الملكية
+##  sheet_index عقار
 
 يشير إلى أن هذا الاسم ينتمي إلى المصنف أو ورقة العمل.
-0 = الاسم العام ، وإلا فهرسة إلى ورقة (مستند إلى واحد)
+0 = الاسم العالمي، وإلا يتم الفهرسة إلى ورقة (على أساس واحد)
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def sheet_index(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Name](/cells/python-net/ar/aspose.cells/name)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Name`](/cells/python-net/ar/aspose.cells/name)

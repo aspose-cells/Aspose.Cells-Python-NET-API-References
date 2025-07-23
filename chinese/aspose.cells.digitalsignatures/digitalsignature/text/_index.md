@@ -1,13 +1,13 @@
 ---
-title: text 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 90
+weight: 100
 url: /zh/aspose.cells.digitalsignatures/digitalsignature/text/
 is_root: false
 ---
-## text 属性
+## text属性
 
 指定数字签名中实际签名的text。
 默认值为空。
@@ -22,5 +22,5 @@ def text(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.digitalsignatures](../../)
-* 类 [DigitalSignature](/cells/python-net/zh/aspose.cells.digitalsignatures/digitalsignature)
+* 模块[`aspose.cells.digitalsignatures`](../../)
+* 类 [`DigitalSignature`](/cells/python-net/zh/aspose.cells.digitalsignatures/digitalsignature)

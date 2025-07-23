@@ -1,16 +1,16 @@
 ---
-title: null_string الملكية
+title: null_string عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 680
+weight: 780
 url: /ar/aspose.cells.pivot/pivottable/null_string/
 is_root: false
 ---
-##  null_string الملكية
+##  null_string عقار
 
-الحصول على السلسلة المعروضة في الخلايا التي تحتوي على قيم خالية
-عندما تكون الخاصية DisplayNullString صحيحة ، فالقيمة الافتراضية هي سلسلة فارغة.
+يحصل على السلسلة المعروضة في الخلايا التي تحتوي على قيم فارغة
+عندما تكون خاصية DisplayNullString صحيحة. القيمة الافتراضية هي سلسلة فارغة.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def null_string(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

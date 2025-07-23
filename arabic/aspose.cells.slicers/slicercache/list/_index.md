@@ -1,5 +1,5 @@
 ---
-title: list الملكية
+title: list عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.slicers/slicercache/list/
 is_root: false
 ---
-##  list الملكية
+##  list عقار
 
-تُرجع ما إذا كانت أداة تقطيع الشرائح المقترنة بذاكرة التخزين المؤقت لقطاعة العرض المحددة تستند إلى مصدر بيانات غير OLAP. يقرأ فقط
+يُرجع ما إذا كانت الشريحة المرتبطة بذاكرة التخزين المؤقت للشريحة المحددة تستند إلى مصدر بيانات غير OLAP. للقراءة فقط
 
 ###  مثال
 
@@ -26,5 +26,5 @@ def list(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [SlicerCache](/cells/python-net/ar/aspose.cells.slicers/slicercache)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`SlicerCache`](/cells/python-net/ar/aspose.cells.slicers/slicercache)

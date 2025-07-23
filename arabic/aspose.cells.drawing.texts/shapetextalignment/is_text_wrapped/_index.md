@@ -1,15 +1,15 @@
 ---
-title: is_text_wrapped الملكية
+title: is_text_wrapped عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells.drawing.texts/shapetextalignment/is_text_wrapped/
 is_root: false
 ---
-##  is_text_wrapped الملكية
+##  is_text_wrapped عقار
 
-الحصول على وتعيين نوع التفاف النص للشكل الذي يحتوي على نص.
+يحصل على نوع النص المغلف للشكل الذي يحتوي على نص أو يعينه.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def is_text_wrapped(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [ShapeTextAlignment](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`ShapeTextAlignment`](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)

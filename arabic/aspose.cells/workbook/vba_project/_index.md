@@ -3,7 +3,7 @@ title: vba_project عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 670
+weight: 700
 url: /ar/aspose.cells/workbook/vba_project/
 is_root: false
 ---

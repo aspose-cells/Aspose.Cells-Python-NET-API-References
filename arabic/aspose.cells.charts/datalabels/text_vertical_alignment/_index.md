@@ -3,13 +3,13 @@ title: text_vertical_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 570
 url: /ar/aspose.cells.charts/datalabels/text_vertical_alignment/
 is_root: false
 ---
 ##  text_vertical_alignment عقار
 
-الحصول على أو تعيين المحاذاة العمودية للنص.
+يحصل على محاذاة النص الرأسية أو يعينها.
 ###  تعريف:
 ```python
 @property

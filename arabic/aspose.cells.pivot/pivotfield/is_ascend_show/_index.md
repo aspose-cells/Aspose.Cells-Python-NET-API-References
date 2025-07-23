@@ -3,13 +3,13 @@ title: is_ascend_show عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 440
 url: /ar/aspose.cells.pivot/pivotfield/is_ascend_show/
 is_root: false
 ---
 ##  is_ascend_show عقار
 
-الإشارة إلى ما إذا كان سيتم عرض حقل PivotTable المحدد بشكل تصاعدي تلقائياً.
+يشير إلى ما إذا كان حقل الجدول المحوري المحدد يتم عرضه تلقائيًا بترتيب تصاعدي.
 ###  تعريف:
 ```python
 @property

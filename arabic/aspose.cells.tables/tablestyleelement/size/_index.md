@@ -1,5 +1,5 @@
 ---
-title: size الملكية
+title: size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 50
 url: /ar/aspose.cells.tables/tablestyleelement/size/
 is_root: false
 ---
-##  size الملكية
+##  size عقار
 
-عدد الصفوف أو الأعمدة في شريط شريطي واحد.
-ينطبق فقط عندما يكون النوع هو firstRowStripe أو secondRowStripe أو firstColumnStripe أو secondColumnStripe.
+عدد الصفوف أو الأعمدة في شريط واحد من الشرائط.
+ينطبق فقط عندما يكون النوع هو firstRowStripe، أو secondRowStripe، أو firstColumnStripe، أو secondColumnStripe.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [TableStyleElement](/cells/python-net/ar/aspose.cells.tables/tablestyleelement)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`TableStyleElement`](/cells/python-net/ar/aspose.cells.tables/tablestyleelement)

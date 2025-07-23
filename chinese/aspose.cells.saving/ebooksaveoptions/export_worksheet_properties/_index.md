@@ -3,14 +3,14 @@ title: export_worksheet_properties属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 390
+weight: 450
 url: /zh/aspose.cells.saving/ebooksaveoptions/export_worksheet_properties/
 is_root: false
 ---
 ## export_worksheet_properties属性
 
-是否导出工作表属性。默认值为true。如果要导入
-html或mht文件到excel，请保留默认值。
+是否导出工作表属性。默认值为 true。如果要导入
+html或mht文件转换为excel，请保留默认值。
 ### 定义：
 ```python
 @property

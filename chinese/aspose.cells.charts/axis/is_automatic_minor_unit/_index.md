@@ -3,13 +3,13 @@ title: is_automatic_minor_unit属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 230
 url: /zh/aspose.cells.charts/axis/is_automatic_minor_unit/
 is_root: false
 ---
 ## is_automatic_minor_unit属性
 
-指示是否自动分配轴的小单位。
+指示是否自动分配轴的次要单位。
 ### 定义：
 ```python
 @property

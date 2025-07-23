@@ -7,12 +7,13 @@ weight: 20
 url: /zh/aspose.cells.charts/chart/calculate/
 is_root: false
 ---
-##  calculate {#}
-计算绘图区域、轴的自定义位置（如果它们的位置是自动分配的）。
+##  calculate(self) {#}
+如果绘图区域、轴的位置是自动分配的，则计算它们的自定义位置。
 
 
 
 ```python
+
 def calculate(self):
     ...
 ```
@@ -20,12 +21,13 @@ def calculate(self):
 
 
 
-##  calculate {#aspose.cells.charts.ChartCalculateOptions}
-使用图表计算选项计算绘图区域和轴的自定义位置（如果它们的位置是自动分配的）。
+##  calculate(self, calculate_options) {#aspose.cells.charts.ChartCalculateOptions}
+使用图表计算选项计算绘图区域、轴的自定义位置（如果它们的位置是自动分配的）。
 
 
 
 ```python
+
 def calculate(self, calculate_options):
     ...
 ```

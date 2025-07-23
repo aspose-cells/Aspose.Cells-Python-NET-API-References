@@ -1,5 +1,5 @@
 ---
-title: store_name الملكية
+title: store_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.webextensions/webextensionreference/store_name/
 is_root: false
 ---
-##  store_name الملكية
+##  store_name عقار
 
-الحصول على مثيل السوق حيث يتم تخزين الوظيفة الإضافية لـ Office وتعيينه. .
+يحصل على مثيل السوق الذي يتم تخزين الوظيفة الإضافية لـ Office فيه ويقوم بتعيينه. .
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def store_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionReference](/cells/python-net/ar/aspose.cells.webextensions/webextensionreference)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionReference`](/cells/python-net/ar/aspose.cells.webextensions/webextensionreference)

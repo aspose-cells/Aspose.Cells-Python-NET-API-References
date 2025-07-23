@@ -1,5 +1,5 @@
 ---
-title: background_color الملكية
+title: background_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,14 +7,14 @@ weight: 140
 url: /ar/aspose.cells/style/background_color/
 is_root: false
 ---
-##  background_color الملكية
+##  background_color عقار
 
-الحصول على لون خلفية النمط أو تعيينه.
+يحصل على لون خلفية النمط أو يعينه.
 
 ###  ملاحظات
 
- إذا كنت تريد تعيين لون خلية ، يرجى استخدام خاصية Style.ForegroundColor.
-فقط إذا كان نمط نمط الخلية مختلفًا عن أي شيء أو خالصًا ، فستصبح هذه الخاصية سارية المفعول.
+ إذا كنت تريد تعيين لون الخلية، يرجى استخدام الخاصية Style.ForegroundColor.
+سيتم تطبيق هذه الخاصية فقط إذا كان نمط نمط الخلية مختلفًا عن عدم وجود نمط أو نمط صلب.
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def background_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

@@ -7,16 +7,17 @@ weight: 40
 url: /ar/aspose.cells.settings/pivotglobalizationsettings/get_text_of_all/
 is_root: false
 ---
-##  get_text_of_all {#}
-الحصول على نص التسمية "(الكل)" في PivotTable.
+##  get_text_of_all(self) {#}
+يحصل على نص تسمية "(الكل)" في الجدول المحوري.
 
 
 ###  عائدات
 
-نص التسمية "(الكل)".
+نص علامة "(الكل)"
 
 
 ```python
+
 def get_text_of_all(self):
     ...
 ```

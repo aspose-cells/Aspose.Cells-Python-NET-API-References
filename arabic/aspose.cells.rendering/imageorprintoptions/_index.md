@@ -3,7 +3,7 @@ title: ImageOrPrintOptions صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 30
 url: /ar/aspose.cells.rendering/imageorprintoptions/
 is_root: false
 ---
@@ -17,56 +17,56 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/__init__/#) | إنشاء مثيل جديد لـ ImageOrPrintOptions|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/__init__/#) | ممرضة|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [save_format](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/save_format) | الحصول على أو تعيين نوع تنسيق ملف الإخراج<br/> دعم تيف/XPS|
-| [print_with_status_dialog](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/print_with_status_dialog) | إذا كانت PrintWithStatusDialog = true، فسيكون هناك مربع حوار يوضح حالة الطباعة الحالية.<br/>وإلا فلن يظهر مثل هذا الحوار.|
-| [horizontal_resolution](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/horizontal_resolution) | الحصول على أو تعيين الدقة الأفقية للصور التي تم إنشاؤها، بالنقاط في البوصة.<br/> يتم تطبيق طريقة إنشاء الصورة باستثناء الصور بتنسيق Emf.|
-| [vertical_resolution](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/vertical_resolution) | الحصول على أو تعيين الدقة الرأسية للصور التي تم إنشاؤها، بالنقاط في البوصة.<br/> يتم تطبيق طريقة إنشاء الصورة باستثناء الصورة بتنسيق Emf.|
-| [tiff_compression](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/tiff_compression) | الحصول على أو تعيين نوع الضغط الذي سيتم تطبيقه فقط عند حفظ الصفحات بتنسيق `Tiff`.|
-| [tiff_color_depth](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/tiff_color_depth) | الحصول على عمق البت أو تعيينه ليتم تطبيقه فقط عند حفظ الصفحات بتنسيق `Tiff`.|
-| [tiff_binarization_method](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/tiff_binarization_method) | يحصل أو يحدد الطريقة المستخدمة أثناء تحويل الصور إلى تنسيق 1 bpp<br/> عندما يكون [`ImageOrPrintOptions.image_type`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions#image_type) هو Tiff و[`ImageOrPrintOptions.tiff_compression`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions#tiff_compression) يساوي Ccitt3 أو Ccitt4.|
+| [save_format](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/save_format) | يحصل على نوع تنسيق ملف الإخراج أو يعينه<br/> دعم Tiff/XPS|
+| [print_with_status_dialog](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/print_with_status_dialog) | إذا كان PrintWithStatusDialog = true، فسيكون هناك مربع حوار يعرض حالة الطباعة الحالية.<br/> وإلا فلن يظهر مثل هذا الحوار.|
+| [horizontal_resolution](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/horizontal_resolution) | يحصل على الدقة الأفقية للصور المولدة أو يضبطها، بنقاط لكل بوصة.|
+| [vertical_resolution](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/vertical_resolution) | يحصل على الدقة الرأسية للصور المولدة أو يضبطها، بنقاط لكل بوصة.|
+| [tiff_compression](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/tiff_compression) | يحصل على نوع الضغط الذي سيتم تطبيقه فقط عند حفظ الصفحات بتنسيق `Tiff` أو يعينه.|
+| [tiff_color_depth](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/tiff_color_depth) | يحصل على عمق البت أو يعينه ليتم تطبيقه فقط عند حفظ الصفحات بتنسيق `Tiff`.|
+| [tiff_binarization_method](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/tiff_binarization_method) | يحصل على الطريقة المستخدمة أثناء تحويل الصور إلى تنسيق 1 بت لكل بوصة أو يعينها<br/>عندما يكون [`ImageOrPrintOptions.image_type`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions#image_type) هو Tiff و [`ImageOrPrintOptions.tiff_compression`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions#tiff_compression) يساوي Ccitt3 أو Ccitt4.|
 | [printing_page](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/printing_page) | يشير إلى الصفحات التي لن تتم طباعتها.|
-| [quality](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/quality) | الحصول على أو تعيين قيمة تحدد جودة الصور التي تم إنشاؤها<br/> يتم تطبيقه فقط عند حفظ الصفحات بتنسيق `Jpeg`. القيمة الافتراضية هي 100|
-| [image_type](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/image_type) | الحصول على أو تعيين تنسيق الصور التي تم إنشاؤها.<br/> القيمة الافتراضية: PNG.|
-| [is_cell_auto_fit](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/is_cell_auto_fit) | يشير إلى ما إذا كان عرض الخلايا وارتفاعها يتم ملاءمتهما تلقائيًا بقيمة الخلية.<br/> القيمة الافتراضية هي كاذبة.|
-| [one_page_per_sheet](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/one_page_per_sheet) | إذا كان OnePagePerSheet صحيحًا، فسيتم إخراج كل محتوى ورقة واحدة إلى صفحة واحدة فقط في النتيجة.<br/> سيكون حجم الورق الخاص بإعداد الصفحات غير صالح، كما أن الإعدادات الأخرى لإعداد الصفحات غير صالحة<br/> سوف لا تزال نافذة المفعول.|
-| [all_columns_in_one_page_per_sheet](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/all_columns_in_one_page_per_sheet) | إذا كانت قيمة AllColumnsInOnePagePerSheet صحيحة، فسيتم إخراج كل محتوى العمود في ورقة واحدة إلى صفحة واحدة فقط في النتيجة.<br/>سيكون عرض حجم الورق لإعداد الصفحات غير صالح، والإعدادات الأخرى لإعداد الصفحات<br/> سوف لا تزال نافذة المفعول.|
-| [draw_object_event_handler](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/draw_object_event_handler) | ينفذ هذه الواجهة للحصول على DrawObject وBound عند العرض.|
-| [chart_image_type](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/chart_image_type) | أشر إلى نوع صورة المخطط عند التحويل.<br/> القيمة الافتراضية: PNG.|
-| [embeded_image_name_in_svg](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/embeded_image_name_in_svg) | أشر إلى اسم ملف الصورة المضمنة في svg.<br/> يجب أن يكون هذا المسار كاملاً بدليل مثل "c:\\xpsEmbedded"|
-| [svg_fit_to_view_port](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/svg_fit_to_view_port) | إذا كانت هذه الخاصية صحيحة، فسيكون ملف svg الذي تم إنشاؤه مناسبًا لعرض المنفذ.|
-| [only_area](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/only_area) | إذا كانت هذه الخاصية صحيحة، فسيتم إخراج منطقة واحدة، ولن يتم تفعيل أي مقياس.|
+| [quality](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/quality) | يحصل على قيمة تحدد جودة الصور المولدة أو يحددها<br/> يُطبّق فقط عند حفظ الصفحات بتنسيق `Jpeg`. القيمة الافتراضية هي 100|
+| [image_type](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/image_type) | يحصل على تنسيق الصور المولدة أو يعينه.<br/> القيمة الافتراضية: PNG.|
+| [is_cell_auto_fit](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/is_cell_auto_fit) | يشير إلى ما إذا كان عرض وارتفاع الخلايا يتناسبان تلقائيًا مع قيمة الخلية.<br/> القيمة الافتراضية هي false.|
+| [one_page_per_sheet](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/one_page_per_sheet) | إذا كانت قيمة OnePagePerSheet صحيحة، فسيتم إخراج كل محتوى ورقة واحدة إلى صفحة واحدة فقط في النتيجة.<br/> سيكون حجم الورق في إعداد الصفحة غير صالح، والإعدادات الأخرى لإعداد الصفحة<br/> سوف تظل سارية المفعول.|
+| [all_columns_in_one_page_per_sheet](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/all_columns_in_one_page_per_sheet) | إذا كانت قيمة AllColumnsInOnePagePerSheet صحيحة، فسيتم إخراج كل محتوى العمود في ورقة واحدة إلى صفحة واحدة فقط في النتيجة.<br/> سيكون عرض حجم الورق لإعداد الصفحة غير صالح، والإعدادات الأخرى لإعداد الصفحة<br/> سوف تظل سارية المفعول.|
+| [chart_image_type](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/chart_image_type) | قم بالإشارة إلى نوع صورة الرسم البياني عند التحويل.<br/> القيمة الافتراضية: PNG.|
+| [embeded_image_name_in_svg](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/embeded_image_name_in_svg) | أشر إلى اسم ملف الصورة المضمنة في svg.<br/> يجب أن يكون هذا المسار الكامل مع الدليل مثل "c:\\xpsEmbedded"|
+| [svg_fit_to_view_port](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/svg_fit_to_view_port) | إذا كانت هذه الخاصية صحيحة، فسوف يتناسب ملف svg الناتج مع منفذ العرض.|
+| [svg_css_prefix](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/svg_css_prefix) |يحصل على ويعين بادئة اسم css في svg، والقيمة الافتراضية هي سلسلة فارغة.|
+| [only_area](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/only_area) | إذا كانت هذه الخاصية صحيحة، فسيتم إخراج منطقة واحدة، ولن يتم تطبيق أي مقياس.|
 | [text_rendering_hint](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/text_rendering_hint) | يحدد جودة عرض النص.<br/> القيمة الافتراضية هي TextRenderingHint.SystemDefault|
-| [smoothing_mode](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/smoothing_mode) | يحدد ما إذا كان سيتم تطبيق التجانس (منع الحواف) على الخطوط والمنحنيات وحواف المساحات المعبأة.<br/> القيمة الافتراضية هي SmoothingMode.None|
-| [transparent](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/transparent) | يشير إلى ما إذا كانت خلفية الصورة التي تم إنشاؤها يجب أن تكون شفافة.|
-| [pixel_format](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/pixel_format) | الحصول على أو تعيين تنسيق البكسل للصور التي تم إنشاؤها.|
-| [warning_callback](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/warning_callback) | الحصول على رد اتصال تحذيري أو تعيينه.|
-| [page_saving_callback](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/page_saving_callback) | التحكم/الإشارة إلى تقدم عملية حفظ الصفحة.|
-| [is_font_substitution_char_granularity](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/is_font_substitution_char_granularity) |يشير إلى ما إذا كان سيتم استبدال خط الحرف فقط عندما لا يكون خط الخلية متوافقًا معه.|
-| [page_index](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/page_index) | الحصول على أو تعيين الفهرس المستند إلى 0 للصفحة الأولى المراد حفظها.|
-| [page_count](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/page_count) | الحصول على أو تعيين عدد الصفحات المراد حفظها.|
+| [smoothing_mode](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/smoothing_mode) | يحدد ما إذا كان سيتم تطبيق التنعيم (التنعيم المضاد للتعرج) على الخطوط والمنحنيات وحواف المناطق المملوءة.<br/> القيمة الافتراضية هي SmoothingMode.None|
+| [transparent](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/transparent) | يشير إلى ما إذا كان ينبغي أن تكون خلفية الصورة المولدة شفافة.|
+| [pixel_format](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/pixel_format) | يحصل على تنسيق البكسل للصور المولدة أو يعينه.|
+| [is_font_substitution_char_granularity](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/is_font_substitution_char_granularity) | يشير إلى ما إذا كان سيتم استبدال خط الحرف فقط عندما لا يكون خط الخلية متوافقًا معه.|
+| [page_index](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/page_index) | يحصل على أو يعين الفهرس المستند إلى 0 للصفحة الأولى التي سيتم حفظها.|
+| [page_count](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/page_count) | يحصل على عدد الصفحات التي سيتم حفظها أو يحدده.|
 | [is_optimized](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/is_optimized) | يشير إلى ما إذا كان سيتم تحسين عناصر الإخراج.|
-| [default_font](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/default_font) | عندما تكون الأحرف في Excel هي Unicode ولا يتم تعيينها بالخط الصحيح في نمط الخلية،<br/>قد تظهر ككتلة في ملف pdf، صورة.<br/>قم بتعيين الخط الافتراضي مثل MingLiu أو MS Gothic لإظهار هذه الأحرف.<br/> إذا لم يتم تعيين هذه الخاصية، فسيستخدم Aspose.Cells الخط الافتراضي للنظام لإظهار أحرف Unicode هذه.|
-| [check_workbook_default_font](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/check_workbook_default_font) | عندما تكون الأحرف في Excel هي Unicode ولا يتم تعيينها بالخط الصحيح في نمط الخلية،<br/>قد تظهر ككتلة في ملف pdf، صورة.<br/> قم بتعيين هذا على "صحيح" لمحاولة استخدام الخط الافتراضي للمصنف لإظهار هذه الأحرف أولاً.|
-| [output_blank_page_when_nothing_to_print](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/output_blank_page_when_nothing_to_print) | يشير إلى ما إذا كان سيتم إخراج صفحة فارغة عندما لا يكون هناك أي شيء لطباعته.|
-| [gridline_type](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/gridline_type) | الحصول على أو تعيين نوع خط الشبكة.|
-| [text_cross_type](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/text_cross_type) | الحصول على أو تعيين عرض نوع النص عندما يكون عرض النص أكبر من عرض الخلية.|
-| [emf_type](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/emf_type) | الحصول على EmfType أو تعيينه الذي يحدد تنسيق ملف التعريف.<br/>القيمة الافتراضية هي EmfPlusDual.|
-| [default_edit_language](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/default_edit_language) | الحصول على لغة التحرير الافتراضية أو تعيينها.|
-| [sheet_set](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/sheet_set) |الحصول على الأوراق المراد عرضها أو تعيينها. الافتراضي هو كافة الأوراق المرئية في المصنف: [`SheetSet.visible`](/cells/python-net/ar/aspose.cells.rendering/sheetset#visible).|
-| [emf_render_setting](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/emf_render_setting) | الإعداد لتقديم ملف التعريف Emf.|
+| [default_font](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/default_font) | عندما تكون الأحرف في Excel عبارة عن Unicode ولا يتم ضبطها بالخط الصحيح في نمط الخلية،<br/>قد تظهر على شكل كتلة في ملف pdf أو صورة.<br/>قم بتعيين الخط الافتراضي مثل MingLiu أو MS Gothic لإظهار هذه الأحرف.<br/>إذا لم يتم تعيين هذه الخاصية، فسوف يستخدم Aspose.Cells الخط الافتراضي للنظام لإظهار أحرف Unicode هذه.|
+| [check_workbook_default_font](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/check_workbook_default_font) | عندما تكون الأحرف في Excel عبارة عن Unicode ولا يتم ضبطها بالخط الصحيح في نمط الخلية،<br/>قد تظهر على شكل كتلة في ملف pdf أو صورة.<br/> قم بتعيين هذا على true لمحاولة استخدام الخط الافتراضي للمصنف لإظهار هذه الأحرف أولاً.|
+| [output_blank_page_when_nothing_to_print](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/output_blank_page_when_nothing_to_print) | يشير إلى ما إذا كان سيتم إخراج صفحة فارغة عندما لا يكون هناك شيء للطباعة.|
+| [gridline_type](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/gridline_type) | يحصل على نوع خط الشبكة أو يعينه.|
+| [gridline_color](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/gridline_color) | يحصل على أو يعين لون خطوط الشبكة.|
+| [text_cross_type](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/text_cross_type) | يحصل على نوع النص المعروض أو يعينه عندما يكون عرض النص أكبر من عرض الخلية.|
+| [emf_type](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/emf_type) | يحصل على أو يعين EmfType الذي يحدد تنسيق الملف التعريفي.<br/> القيمة الافتراضية هي EmfPlusDual.|
+| [default_edit_language](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/default_edit_language) | يحصل على لغة التحرير الافتراضية أو يعينها.|
+| [sheet_set](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/sheet_set) | يُعرِّف أو يُعيِّن الأوراق المراد عرضها. الإعداد الافتراضي هو جميع الأوراق المرئية في المصنف: [`SheetSet.visible`](/cells/python-net/ar/aspose.cells.rendering/sheetset#visible).|
+| [emf_render_setting](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/emf_render_setting) | إعداد لعرض ملفات التعريف Emf في ملف المصدر.|
+| [custom_render_settings](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/custom_render_settings) | يحصل على إعدادات مخصصة أو يعينها أثناء العرض.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [set_desired_size](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/set_desired_size/#int-int) | يضبط العرض والارتفاع المطلوب للصورة.|
-| [set_desired_size](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/set_desired_size/#int-int-bool) | يضبط العرض والارتفاع المطلوب للصورة.|
+| [`set_desired_size(self, desired_width, desired_height)`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/set_desired_size/#int-int) | تعيين العرض والارتفاع المطلوبين للصورة.|
+| [`set_desired_size(self, desired_width, desired_height, keep_aspect_ratio)`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions/set_desired_size/#int-int-bool) | تعيين العرض والارتفاع المطلوبين للصورة.|
 
 
 

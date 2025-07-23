@@ -1,15 +1,15 @@
 ---
-title: index الملكية
+title: index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells.pivot/pivotitem/index/
 is_root: false
 ---
-##  index الملكية
+##  index عقار
 
-الحصول على index للعنصر المحوري في المجال المحوري
+يحصل على index من عنصر المحور في حقل ذاكرة التخزين المؤقت.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def index(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotItem](/cells/python-net/ar/aspose.cells.pivot/pivotitem)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotItem`](/cells/python-net/ar/aspose.cells.pivot/pivotitem)

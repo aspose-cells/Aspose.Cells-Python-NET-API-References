@@ -7,12 +7,13 @@ weight: 50
 url: /ar/aspose.cells.pivot/pivottable/calculate_range/
 is_root: false
 ---
-##  calculate_range() {#}
-يحسب نطاق pivottable.
+##  calculate_range(self) {#}
+يحسب نطاق الجدول المحوري.
 
 
 
 ```python
+
 def calculate_range(self):
     ...
 ```
@@ -20,10 +21,10 @@ def calculate_range(self):
 
 ###  ملاحظات
 
-إذا لم يتم استدعاء هذه الطريقة ، فربما لم يتم تصحيح النطاق المحوري.
+إذا لم يتم استدعاء هذه الطريقة، فقد لا يتم تصحيح نطاق الجدول المحوري.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

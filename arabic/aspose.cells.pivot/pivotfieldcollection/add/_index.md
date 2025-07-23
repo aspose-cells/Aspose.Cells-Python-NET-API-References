@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.pivot/pivotfieldcollection/add/
 is_root: false
 ---
-##  add(pivot_field) {#PivotField}
-يضيف كائن PivotField إلى نوع PivotFields المحدد.
+##  add(self, pivot_field) {#aspose.cells.pivot.PivotField}
+يضيف كائن PivotField إلى النوع المحدد PivotFields.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, pivot_field):
     ...
 ```
@@ -24,10 +25,10 @@ def add(self, pivot_field):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| pivot_field | [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield) | كائن PivotField.|
+| pivot_field | [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield) | كائن PivotField.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotFieldCollection](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotFieldCollection`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldcollection)

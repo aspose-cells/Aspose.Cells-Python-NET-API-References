@@ -3,7 +3,7 @@ title: CellsException صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 190
 url: /ar/aspose.cells/cellsexception/
 is_root: false
 ---

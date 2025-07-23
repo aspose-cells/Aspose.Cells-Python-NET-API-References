@@ -1,5 +1,5 @@
 ---
-title: points الملكية
+title: points عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 370
 url: /ar/aspose.cells.charts/series/points/
 is_root: false
 ---
-##  points الملكية
+##  points عقار
 
-الحصول على مجموعة points في سلسلة في مخطط.
+يحصل على مجموعة points في سلسلة في الرسم البياني.
 
 ###  ملاحظات
 
-عندما يكون المخطط هو Pie of Pie أو Bar of Pie ، فإن النقطة الأخيرة هي النقطة الأخرى في الرسم الدائري الأول.
+عندما يكون الرسم البياني عبارة عن فطيرة من فطيرة أو شريط من فطيرة، فإن النقطة الأخيرة هي نقطة أخرى في الرسم البياني للفطيرة الأولى.
 ###  تعريف:
 ```python
 @property
@@ -22,6 +22,6 @@ def points(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPointCollection](/cells/python-net/ar/aspose.cells.charts/chartpointcollection)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPointCollection`](/cells/python-net/ar/aspose.cells.charts/chartpointcollection)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

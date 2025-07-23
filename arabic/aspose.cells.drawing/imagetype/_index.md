@@ -1,38 +1,38 @@
 ---
-title: العد ImageType
+title: ImageType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 900
+weight: 890
 url: /ar/aspose.cells.drawing/imagetype/
 is_root: false
 ---
-##  العد ImageType
+##  ImageType التعداد
 يحدد نوع (تنسيق) الصورة.
 
 
 
-يكشف نوع ImageType الأعضاء التالية:
+يكشف النوع ImageType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | UNKNOWN | نوع صورة غير معروف.|
-| EMF | Windows ملف تعريف محسن.|
-| WMF | Windows ملف تعريف.|
-| PICT | ماكنتوش بيكت.|
-| JPEG | JPEG جفيف.|
+| EMF | Windows ملف تعريفي محسّن.|
+| WMF | Windows ملف تعريفي.|
+| PICT | ماكنتوش PICT.|
+| JPEG | JPEG JFIF.|
 | PNG | رسومات الشبكة المحمولة.|
-| BMP | Windows صورة نقطية|
-| GIF | GIF|
+| BMP | Windows خريطة نقطية|
+| GIF | صورة متحركة|
 | TIFF | شجار|
-| SVG | SVG|
-| SVM | Svm|
-| GLTF | جي إل تي إف|
-| OFFICE_COMPATIBLE_EMF | Windows Enhanced Metafile وهو أكثر توافقًا مع Office.|
-| WEB_P |تنسيق صورة Weppy|
+| SVG | إس في جي|
+| SVM | إس في إم|
+| GLTF | جي ال تي اف|
+| OFFICE_COMPATIBLE_EMF | Windows ملف تعريف محسّن متوافق أكثر مع Office.|
+| WEB_P | تنسيق الصورة Weppy|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

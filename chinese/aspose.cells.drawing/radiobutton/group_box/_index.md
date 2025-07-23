@@ -3,13 +3,13 @@ title: group_box属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 430
+weight: 420
 url: /zh/aspose.cells.drawing/radiobutton/group_box/
 is_root: false
 ---
 ## group_box属性
 
-获取包含此RadioButton 的GroupBox。
+获取包含此 RadioButton 的 GroupBox。
 ### 定义：
 ```python
 @property

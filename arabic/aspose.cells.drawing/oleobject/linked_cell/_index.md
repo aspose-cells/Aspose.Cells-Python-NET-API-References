@@ -3,13 +3,13 @@ title: linked_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 880
+weight: 890
 url: /ar/aspose.cells.drawing/oleobject/linked_cell/
 is_root: false
 ---
 ##  linked_cell عقار
 
-الحصول على نطاق ورقة العمل المرتبط بقيمة عنصر التحكم أو تعيينه.
+يحصل على نطاق ورقة العمل المرتبط بقيمة عنصر التحكم أو يعينه.
 
 ###  مثال
 

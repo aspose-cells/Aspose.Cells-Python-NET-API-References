@@ -3,13 +3,13 @@ title: names عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ar/aspose.cells/worksheetcollection/names/
 is_root: false
 ---
 ##  names عقار
 
-الحصول على مجموعة كافة كائنات الاسم في جدول البيانات.
+يحصل على مجموعة من كل كائنات الاسم في جدول البيانات.
 ###  تعريف:
 ```python
 @property

@@ -7,8 +7,8 @@ weight: 70
 url: /ar/aspose.cells.charts/chartglobalizationsettings/get_legend_total_name/
 is_root: false
 ---
-##  get_legend_total_name() {#}
-الحصول على اسم Total for Legend.
+##  get_legend_total_name(self) {#}
+يحصل على اسم المجموع للأسطورة.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_legend_total_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_legend_total_name(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartGlobalizationSettings](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartGlobalizationSettings`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings)

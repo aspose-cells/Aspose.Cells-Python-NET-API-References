@@ -1,13 +1,13 @@
 ---
-title: key_length 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: key_length属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.metadata/metadataoptions/key_length/
 is_root: false
 ---
-## key_length 属性
+## key_length属性
 
 密钥长度。
 ### 定义：
@@ -21,5 +21,5 @@ def key_length(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.metadata](../../)
-* 类 [MetadataOptions](/cells/python-net/zh/aspose.cells.metadata/metadataoptions)
+* 模块[`aspose.cells.metadata`](../../)
+* 类 [`MetadataOptions`](/cells/python-net/zh/aspose.cells.metadata/metadataoptions)

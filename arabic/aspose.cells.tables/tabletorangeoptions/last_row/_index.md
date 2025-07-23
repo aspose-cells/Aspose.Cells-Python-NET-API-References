@@ -1,5 +1,5 @@
 ---
-title: last_row الملكية
+title: last_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.tables/tabletorangeoptions/last_row/
 is_root: false
 ---
-##  last_row الملكية
+##  last_row عقار
 
-الحصول على فهرس الصف الأخير من الجدول وتعيينه.
+يحصل على مؤشر الصف الأخير في الجدول ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def last_row(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [TableToRangeOptions](/cells/python-net/ar/aspose.cells.tables/tabletorangeoptions)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`TableToRangeOptions`](/cells/python-net/ar/aspose.cells.tables/tabletorangeoptions)

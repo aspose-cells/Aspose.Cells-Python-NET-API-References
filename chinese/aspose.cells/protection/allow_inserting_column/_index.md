@@ -1,13 +1,13 @@
 ---
-title: allow_inserting_column 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: allow_inserting_column属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 150
 url: /zh/aspose.cells/protection/allow_inserting_column/
 is_root: false
 ---
-## allow_inserting_column 属性
+## allow_inserting_column属性
 
 表示是否允许在受保护的工作表上插入列
 ### 定义：
@@ -21,5 +21,5 @@ def allow_inserting_column(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Protection](/cells/python-net/zh/aspose.cells/protection)
+* 模块[`aspose.cells`](../../)
+* 类 [`Protection`](/cells/python-net/zh/aspose.cells/protection)

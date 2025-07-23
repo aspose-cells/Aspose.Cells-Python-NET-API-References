@@ -3,7 +3,7 @@ title: text_direction عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 420
 url: /ar/aspose.cells.charts/legend/text_direction/
 is_root: false
 ---
@@ -13,10 +13,10 @@ is_root: false
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قديم الآن. بدلاً من،
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
  الرجاء استخدام الخاصية ChartTextFrame.ReadingOrder.
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ مارس 2020.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ مارس 2020.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property

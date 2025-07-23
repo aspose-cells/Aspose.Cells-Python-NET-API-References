@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells.webextensions/webextensiontaskpanecollection/add/
 is_root: false
 ---
-##  add() {#}
-يضيف جزء المهام.
+##  add(self) {#}
+إضافة جزء المهام.
 
 
 ###  عائدات
 
-مؤشر.
+الفهرس.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionTaskPaneCollection](/cells/python-net/ar/aspose.cells.webextensions/webextensiontaskpanecollection)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionTaskPaneCollection`](/cells/python-net/ar/aspose.cells.webextensions/webextensiontaskpanecollection)

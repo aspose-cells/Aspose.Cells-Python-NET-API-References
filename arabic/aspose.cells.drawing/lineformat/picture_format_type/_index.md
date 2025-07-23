@@ -1,5 +1,5 @@
 ---
-title: picture_format_type الملكية
+title: picture_format_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 270
 url: /ar/aspose.cells.drawing/lineformat/picture_format_type/
 is_root: false
 ---
-##  picture_format_type الملكية
+##  picture_format_type عقار
 
-الحصول على نوع تنسيق الصورة وتعيينه.
+يحصل على نوع تنسيق الصورة ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def picture_format_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [FillPictureType](/cells/python-net/ar/aspose.cells.drawing/fillpicturetype)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`FillPictureType`](/cells/python-net/ar/aspose.cells.drawing/fillpicturetype)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)

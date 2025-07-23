@@ -7,12 +7,13 @@ weight: 60
 url: /ar/aspose.cells/individualfontconfigs/set_font_sources/
 is_root: false
 ---
-##  set_font_sources(sources) {#list}
-يضبط مصادر الخطوط.
+##  set_font_sources(self, sources) {#list}
+
 
 
 
 ```python
+
 def set_font_sources(self, sources):
     ...
 ```
@@ -20,10 +21,10 @@ def set_font_sources(self, sources):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| sources | list | مصفوفة من المصادر التي تحتوي على خطوط تروتايب.|
+| sources | list |  |
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [IndividualFontConfigs](/cells/python-net/ar/aspose.cells/individualfontconfigs)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`IndividualFontConfigs`](/cells/python-net/ar/aspose.cells/individualfontconfigs)

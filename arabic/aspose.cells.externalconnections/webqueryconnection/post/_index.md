@@ -1,15 +1,15 @@
 ---
-title: post الملكية
+title: post عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 330
 url: /ar/aspose.cells.externalconnections/webqueryconnection/post/
 is_root: false
 ---
-##  post الملكية
+##  post عقار
 
-إرجاع أو تعيين السلسلة المستخدمة مع أسلوب post لإدخال البيانات في خادم ويب
+إرجاع أو تعيين السلسلة المستخدمة مع طريقة post لإدخال البيانات في خادم الويب
 لإرجاع البيانات من استعلام الويب.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def post(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

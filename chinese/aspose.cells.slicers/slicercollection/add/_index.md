@@ -1,22 +1,23 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.slicers/slicercollection/add/
 is_root: false
 ---
-##  add(pivot, dest_cell_name, base_field_name) {#aspose.cells.pivot.PivotTable-str-str}
+##  add(self, pivot, dest_cell_name, base_field_name) {#aspose.cells.pivot.PivotTable-str-str}
 使用数据透视表作为数据源添加新的切片器
 
 
 ### 返回
 
-新的 add 切片器索引
+新的add切片机索引
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field_name):
     ...
 ```
@@ -37,16 +38,17 @@ slicers.add(pivot, "E3", "fruit")
 ```
 
 
-##  add(pivot, dest_cell_name, base_field_index) {#aspose.cells.pivot.PivotTable-str-int}
+##  add(self, pivot, dest_cell_name, base_field_index) {#aspose.cells.pivot.PivotTable-str-int}
 使用数据透视表作为数据源添加新的切片器
 
 
 ### 返回
 
-新的 add 切片器索引
+新的add切片机索引
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field_index):
     ...
 ```
@@ -56,7 +58,7 @@ def add(self, pivot, dest_cell_name, base_field_index):
 | :- | :- | :- |
 | pivot | aspose.cells.pivot.PivotTable |数据透视表对象|
 | dest_cell_name | str |切片器范围左上角的单元格。|
-| base_field_index | int |PivotTable.BaseFields 中 PivotField 的索引|
+| base_field_index | int |PivotField 在 PivotTable.BaseFields 中的索引|
 
 ### 例子
 
@@ -67,16 +69,17 @@ slicers.add(pivot, "E20", 0)
 ```
 
 
-##  add(pivot, dest_cell_name, base_field) {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
+##  add(self, pivot, dest_cell_name, base_field) {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
 使用数据透视表作为数据源添加新的切片器
 
 
 ### 返回
 
-新的 add 切片器索引
+新的add切片机索引
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field):
     ...
 ```
@@ -97,16 +100,17 @@ slicers.add(pivot, "I3", pivot.base_fields[0])
 ```
 
 
-##  add(table, index, dest_cell_name) {#aspose.cells.tables.ListObject-int-str}
-使用 ListObjet 作为数据源添加一个新的切片器
+##  add(self, table, index, dest_cell_name) {#aspose.cells.tables.ListObject-int-str}
+使用 ListObjet 作为数据源添加新的切片器
 
 
 ### 返回
 
-新的 add 切片器索引
+新的add切片机索引
 
 
 ```python
+
 def add(self, table, index, dest_cell_name):
     ...
 ```
@@ -127,16 +131,17 @@ slicers.add(table, 1, "E38")
 ```
 
 
-##  add(table, list_column, dest_cell_name) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str}
-使用 ListObjet 作为数据源添加一个新的切片器
+##  add(self, table, list_column, dest_cell_name) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str}
+使用 ListObjet 作为数据源添加新的切片器
 
 
 ### 返回
 
-新的 add 切片器索引
+新的add切片机索引
 
 
 ```python
+
 def add(self, table, list_column, dest_cell_name):
     ...
 ```
@@ -157,16 +162,17 @@ slicers.add(table, table.list_columns[1], "I38")
 ```
 
 
-##  add(pivot, row, column, base_field_name) {#aspose.cells.pivot.PivotTable-int-int-str}
+##  add(self, pivot, row, column, base_field_name) {#aspose.cells.pivot.PivotTable-int-int-str}
 使用数据透视表作为数据源添加新的切片器
 
 
 ### 返回
 
-新的 add 切片器索引
+新的add切片机索引
 
 
 ```python
+
 def add(self, pivot, row, column, base_field_name):
     ...
 ```
@@ -176,7 +182,7 @@ def add(self, pivot, row, column, base_field_name):
 | :- | :- | :- |
 | pivot | aspose.cells.pivot.PivotTable |数据透视表对象|
 | row | int |切片器范围左上角单元格的行索引。|
-| column | int |切片器区域左上角单元格的列索引。|
+| column | int |切片器范围左上角单元格的列索引。|
 | base_field_name | str | PivotTable.BaseFields 中 PivotField 的名称|
 
 ### 例子
@@ -188,16 +194,17 @@ slicers.add(pivot, 20, 12, "fruit")
 ```
 
 
-##  add(pivot, row, column, base_field_index) {#aspose.cells.pivot.PivotTable-int-int-int}
+##  add(self, pivot, row, column, base_field_index) {#aspose.cells.pivot.PivotTable-int-int-int}
 使用数据透视表作为数据源添加新的切片器
 
 
 ### 返回
 
-新的 add 切片器索引
+新的add切片机索引
 
 
 ```python
+
 def add(self, pivot, row, column, base_field_index):
     ...
 ```
@@ -207,8 +214,8 @@ def add(self, pivot, row, column, base_field_index):
 | :- | :- | :- |
 | pivot | aspose.cells.pivot.PivotTable |数据透视表对象|
 | row | int |切片器范围左上角单元格的行索引。|
-| column | int |切片器区域左上角单元格的列索引。|
-| base_field_index | int |PivotTable.BaseFields 中 PivotField 的索引|
+| column | int |切片器范围左上角单元格的列索引。|
+| base_field_index | int |PivotField 在 PivotTable.BaseFields 中的索引|
 
 ### 例子
 
@@ -219,16 +226,17 @@ slicers.add(pivot, 20, 8, 0)
 ```
 
 
-##  add(pivot, row, column, base_field) {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
+##  add(self, pivot, row, column, base_field) {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
 使用数据透视表作为数据源添加新的切片器
 
 
 ### 返回
 
-新的 add 切片器索引
+新的add切片机索引
 
 
 ```python
+
 def add(self, pivot, row, column, base_field):
     ...
 ```
@@ -238,7 +246,7 @@ def add(self, pivot, row, column, base_field):
 | :- | :- | :- |
 | pivot | aspose.cells.pivot.PivotTable |数据透视表对象|
 | row | int |切片器范围左上角单元格的行索引。|
-| column | int |切片器区域左上角单元格的列索引。|
+| column | int |切片器范围左上角单元格的列索引。|
 | base_field | aspose.cells.pivot.PivotField |PivotTable.BaseFields 中的 PivotField|
 
 ### 例子
@@ -250,16 +258,17 @@ slicers.add(pivot, 3, 12, pivot.base_fields[0])
 ```
 
 
-##  add(table, list_column, row, column) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int}
-使用 ListObjet 作为数据源添加一个新的切片器
+##  add(self, table, list_column, row, column) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int}
+使用 ListObjet 作为数据源添加新的切片器
 
 
 ### 返回
 
-新的 add 切片器索引
+新的add切片机索引
 
 
 ```python
+
 def add(self, table, list_column, row, column):
     ...
 ```
@@ -270,7 +279,7 @@ def add(self, table, list_column, row, column):
 | table | aspose.cells.tables.ListObject |ListObject 对象|
 | list_column | aspose.cells.tables.ListColumn |ListObject.ListColumns 中的 ListColumn|
 | row | int |切片器范围左上角单元格的行索引。|
-| column | int |切片器区域左上角单元格的列索引。|
+| column | int |切片器范围左上角单元格的列索引。|
 
 ### 例子
 
@@ -283,5 +292,5 @@ slicers.add(table, table.list_columns[1], 38, 12)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](../../)
-* 类 [SlicerCollection](/cells/python-net/zh/aspose.cells.slicers/slicercollection)
+* 模块[`aspose.cells.slicers`](../../)
+* 类 [`SlicerCollection`](/cells/python-net/zh/aspose.cells.slicers/slicercollection)

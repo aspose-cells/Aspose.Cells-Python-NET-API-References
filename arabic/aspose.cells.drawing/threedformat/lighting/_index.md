@@ -1,5 +1,5 @@
 ---
-title: lighting الملكية
+title: lighting عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 110
 url: /ar/aspose.cells.drawing/threedformat/lighting/
 is_root: false
 ---
-##  lighting الملكية
+##  lighting عقار
 
-يحصل ويضبط نوع الحفارة الخفيفة.
+يحصل ويحدد نوع جهاز الإضاءة.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def lighting(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LightRigType](/cells/python-net/ar/aspose.cells.drawing/lightrigtype)
-* فئة [ThreeDFormat](/cells/python-net/ar/aspose.cells.drawing/threedformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LightRigType`](/cells/python-net/ar/aspose.cells.drawing/lightrigtype)
+* فئة [`ThreeDFormat`](/cells/python-net/ar/aspose.cells.drawing/threedformat)

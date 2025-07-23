@@ -1,13 +1,13 @@
 ---
-title: text_horizontal_overflow 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_horizontal_overflow属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 120
+weight: 130
 url: /zh/aspose.cells.drawing.texts/shapetextalignment/text_horizontal_overflow/
 is_root: false
 ---
-## text_horizontal_overflow 属性
+## text_horizontal_overflow属性
 
 获取和设置文本框的文本水平溢出类型。
 
@@ -30,6 +30,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](../../)
-* 类 [ShapeTextAlignment](/cells/python-net/zh/aspose.cells.drawing.texts/shapetextalignment)
-* 类 [TextOverflowType](/cells/python-net/zh/aspose.cells.drawing/textoverflowtype)
+* 模块[`aspose.cells.drawing.texts`](../../)
+* 类 [`ShapeTextAlignment`](/cells/python-net/zh/aspose.cells.drawing.texts/shapetextalignment)
+* 类 [`TextOverflowType`](/cells/python-net/zh/aspose.cells.drawing/textoverflowtype)

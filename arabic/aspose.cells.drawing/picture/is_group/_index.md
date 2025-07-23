@@ -3,13 +3,13 @@ title: is_group عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 670
+weight: 690
 url: /ar/aspose.cells.drawing/picture/is_group/
 is_root: false
 ---
 ##  is_group عقار
 
-الإشارة إلى ما إذا كان الشكل عبارة عن مجموعة.
+يشير إلى ما إذا كان هذا الشكل هو شكل مجموعة.
 
 ###  مثال
 

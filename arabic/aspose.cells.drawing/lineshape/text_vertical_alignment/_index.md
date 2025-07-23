@@ -3,13 +3,13 @@ title: text_vertical_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /ar/aspose.cells.drawing/lineshape/text_vertical_alignment/
 is_root: false
 ---
 ##  text_vertical_alignment عقار
 
-الحصول على نوع المحاذاة العمودية للشكل وتعيينها.
+يحصل على نوع المحاذاة الرأسية للنص للشكل ويقوم بتعيينه.
 
 ###  مثال
 

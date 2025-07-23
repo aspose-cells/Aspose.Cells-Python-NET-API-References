@@ -1,25 +1,25 @@
 ---
-title: default_font_name الملكية
+title: default_font_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 110
 url: /ar/aspose.cells/fontconfigs/default_font_name/
 is_root: false
 ---
-##  default_font_name الملكية
+##  default_font_name عقار
 
-الحصول على اسم الخط الافتراضي أو تعيينه.
+يحصل على اسم الخط الافتراضي أو يعينه.
 ###  تعريف:
 ```python
 @property
 def default_font_name(self):
     ...
-@default_font_name.setter
-def default_font_name(self, value):
+@staticmethod
+def set_default_font_name(value):
     ...
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FontConfigs](/cells/python-net/ar/aspose.cells/fontconfigs)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FontConfigs`](/cells/python-net/ar/aspose.cells/fontconfigs)

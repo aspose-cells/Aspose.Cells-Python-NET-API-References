@@ -3,20 +3,20 @@ title: startup_path属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 270
+weight: 290
 url: /zh/aspose.cells/cellshelper/startup_path/
 is_root: false
 ---
 ## startup_path属性
 
-获取或设置启动路径，由一些外部公式引用引用。
+获取或设置启动路径，供一些外部公式引用使用。
 ### 定义：
 ```python
 @property
 def startup_path(self):
     ...
-@startup_path.setter
-def startup_path(self, value):
+@staticmethod
+def set_startup_path(value):
     ...
 ```
 

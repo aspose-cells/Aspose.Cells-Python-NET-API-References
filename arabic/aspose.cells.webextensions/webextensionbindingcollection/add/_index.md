@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.webextensions/webextensionbindingcollection/add/
 is_root: false
 ---
-##  add() {#}
-يضيف علاقة ربط بين وظيفة Office الإضافية والبيانات الموجودة في المستند.
+##  add(self) {#}
+يضيف علاقة ربط بين الوظيفة الإضافية لـ Office والبيانات الموجودة في المستند.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionBindingCollection](/cells/python-net/ar/aspose.cells.webextensions/webextensionbindingcollection)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionBindingCollection`](/cells/python-net/ar/aspose.cells.webextensions/webextensionbindingcollection)

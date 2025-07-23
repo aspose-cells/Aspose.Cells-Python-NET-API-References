@@ -9,7 +9,7 @@ is_root: false
 ---
 ## direction_type属性
 
-获取和设置文本的方向。
+获取并设置文本的方向。
 ### 定义：
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
-title: title الملكية
+title: title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ar/aspose.cells.slicers/slicer/title/
 is_root: false
 ---
-##  title الملكية
+##  title عقار
 
-يحدد title لعنصر Slicer الحالي.
+يحدد title لكائن Slicer الحالي.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

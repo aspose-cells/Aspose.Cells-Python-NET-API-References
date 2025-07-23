@@ -3,16 +3,17 @@ title: طريقة set_visible
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 300
 url: /ar/aspose.cells/worksheet/set_visible/
 is_root: false
 ---
-##  set_visible {#bool-bool}
-يضبط الخيارات المرئية.
+##  set_visible(self, is_visible, ignore_error) {#bool-bool}
+تعيين الخيارات المرئية.
 
 
 
 ```python
+
 def set_visible(self, is_visible, ignore_error):
     ...
 ```
@@ -20,7 +21,7 @@ def set_visible(self, is_visible, ignore_error):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| is_visible | bool | ما إذا كانت ورقة العمل مرئية أم لا|
+| is_visible | bool | ما إذا كانت ورقة العمل مرئية|
 | ignore_error | bool | ما إذا كان سيتم تجاهل الخطأ إذا كان هذا الخيار غير صالح.|
 
 

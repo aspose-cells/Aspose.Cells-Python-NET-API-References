@@ -1,5 +1,5 @@
 ---
-title: angle الملكية
+title: angle عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.drawing/shadoweffect/angle/
 is_root: false
 ---
-##  angle الملكية
+##  angle عقار
 
-الحصول على الإضاءة وتعيينها angle. تتراوح من 0 إلى 359.9 درجة.
+يحصل ويضبط الإضاءة angle. النطاق من 0 إلى 359.9 درجة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def angle(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShadowEffect](/cells/python-net/ar/aspose.cells.drawing/shadoweffect)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShadowEffect`](/cells/python-net/ar/aspose.cells.drawing/shadoweffect)

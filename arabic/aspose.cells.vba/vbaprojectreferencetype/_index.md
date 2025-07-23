@@ -1,5 +1,5 @@
 ---
-title: العد VbaProjectReferenceType
+title: VbaProjectReferenceType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 70
 url: /ar/aspose.cells.vba/vbaprojectreferencetype/
 is_root: false
 ---
-##  العد VbaProjectReferenceType
+##  VbaProjectReferenceType التعداد
 يمثل نوع مرجع مشروع VBA.
 
 
 
-يكشف نوع VbaProjectReferenceType الأعضاء التالية:
+يكشف النوع VbaProjectReferenceType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| REGISTERED | تحدد مرجعاً لمكتبة نوع التنفيذ التلقائي.|
-| CONTROL | تحدد مرجعاً لمكتبة من نوع twiddled ومكتبة النوع الموسعة الخاصة بها.|
-| PROJECT | يحدد مرجعاً لمشروع VBA خارجي.|
+| REGISTERED | يحدد مرجعًا لمكتبة نوع الأتمتة.|
+| CONTROL | يحدد مرجعًا لمكتبة النوع twiddled ومكتبة النوع الممتدة الخاصة بها.|
+| PROJECT | يحدد مرجعًا لمشروع VBA خارجي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](..)
+* الوحدة [`aspose.cells.vba`](..)

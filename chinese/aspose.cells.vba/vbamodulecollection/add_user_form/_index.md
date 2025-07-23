@@ -7,16 +7,17 @@ weight: 40
 url: /zh/aspose.cells.vba/vbamodulecollection/add_user_form/
 is_root: false
 ---
-##  add_user_form {#str-str-bytes}
-将用户表单插入到 VBA 项目中。
+##  add_user_form(self, name, codes, designer_storage) {#str-str-bytes}
+将用户表单插入 VBA 项目。
 
 
-### 退货
+### 返回
 
 
 
 
 ```python
+
 def add_user_form(self, name, codes, designer_storage):
     ...
 ```
@@ -24,9 +25,9 @@ def add_user_form(self, name, codes, designer_storage):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| name | str |用户表单名称|
+| name | str |用户表单的名称|
 | codes | str |用户表单的代码|
-| designer_storage | bytes |设计者对用户表单的设置|
+| designer_storage | bytes |关于用户表单的设计器设置|
 
 
 

@@ -3,13 +3,13 @@ title: columns عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1010
+weight: 1030
 url: /ar/aspose.cells/cells/columns/
 is_root: false
 ---
 ##  columns عقار
 
-الحصول على مجموعة الكائنات [`Column`](/cells/python-net/ar/aspose.cells/column) التي تمثل الفرد columns في ورقة العمل هذه.
+يحصل على مجموعة من الكائنات [`Column`](/cells/python-net/ar/aspose.cells/column) التي تمثل الفرد columns في ورقة العمل هذه.
 ###  تعريف:
 ```python
 @property

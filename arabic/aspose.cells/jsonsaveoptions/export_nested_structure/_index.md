@@ -1,15 +1,15 @@
 ---
-title: export_nested_structure الملكية
+title: export_nested_structure عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 130
 url: /ar/aspose.cells/jsonsaveoptions/export_nested_structure/
 is_root: false
 ---
-##  export_nested_structure الملكية
+##  export_nested_structure عقار
 
-تم تصديره كهيكل Json للتسلسل الهرمي الأصل - الفرعي.
+تم تصديرها كهيكل هرمي Json للوالد والطفل.
 
 ###  ملاحظات
 
@@ -25,5 +25,5 @@ def export_nested_structure(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [JsonSaveOptions](/cells/python-net/ar/aspose.cells/jsonsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`JsonSaveOptions`](/cells/python-net/ar/aspose.cells/jsonsaveoptions)

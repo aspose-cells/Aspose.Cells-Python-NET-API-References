@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/exportobjectevent/get_source/
 is_root: false
 ---
-##  get_source() {#}
-يحصل على الكائن المراد تصديره.
+##  get_source(self) {#}
+يحصل على الكائن الذي سيتم تصديره.
 
 
 ###  عائدات
 
-الكائن المراد تصديره.
+الكائن الذي سيتم تصديره.
 
 
 ```python
+
 def get_source(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_source(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ExportObjectEvent](/cells/python-net/ar/aspose.cells/exportobjectevent)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ExportObjectEvent`](/cells/python-net/ar/aspose.cells/exportobjectevent)

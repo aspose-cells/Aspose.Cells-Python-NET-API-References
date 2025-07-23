@@ -1,5 +1,5 @@
 ---
-title: is_percent الملكية
+title: is_percent عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 40
 url: /ar/aspose.cells/top10/is_percent/
 is_root: false
 ---
-##  is_percent الملكية
+##  is_percent عقار
 
-الحصول على أو تحديد ما إذا كانت قاعدة "أعلى / أسفل" قاعدة "أعلى / أسفل ن" قاعدة.
-القيمة الافتراضية هي كاذبة.
+احصل على أو قم بتعيين ما إذا كانت قاعدة "أعلى/أسفل n" هي قاعدة "أعلى/أسفل n بالمائة".
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_percent(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Top10](/cells/python-net/ar/aspose.cells/top10)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Top10`](/cells/python-net/ar/aspose.cells/top10)

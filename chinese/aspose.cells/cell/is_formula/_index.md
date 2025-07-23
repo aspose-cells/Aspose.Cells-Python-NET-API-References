@@ -3,13 +3,13 @@ title: is_formula属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 580
+weight: 610
 url: /zh/aspose.cells/cell/is_formula/
 is_root: false
 ---
 ## is_formula属性
 
-表示指定单元格是否包含公式。
+表示指定的单元格是否包含公式。
 ### 定义：
 ```python
 @property

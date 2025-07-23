@@ -7,16 +7,17 @@ weight: 50
 url: /ar/aspose.cells.drawing/chartshape/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-تقوم بإرجاع عنصر الحروف الذي يمثل نطاقًا من characters داخل النص.
+##  characters(self, start_index, length) {#int-int}
+يقوم بإرجاع كائن أحرف يمثل نطاق characters داخل النص.
 
 
 ###  عائدات
 
-كائن الأحرف.
+كائنات الأحرف.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -24,11 +25,11 @@ def characters(self, start_index, length):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| start_index | int | فهرس بداية الحرف.|
+| start_index | int | مؤشر بداية الحرف.|
 | length | int | عدد الأحرف.|
 ###  ملاحظات
 
-هذه الطريقة تعمل فقط على الشكل مع العنوان.
+تعمل هذه الطريقة فقط على الشكل الذي يحمل عنوانًا.
 ###  مثال
 
 
@@ -41,5 +42,5 @@ fontSetting = shape.characters(0, 4)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ChartShape](/cells/python-net/ar/aspose.cells.drawing/chartshape)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ChartShape`](/cells/python-net/ar/aspose.cells.drawing/chartshape)

@@ -1,22 +1,23 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/commentcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-向集合添加评论。
+##  add(self, cell_name) {#str}
+向集合中添加注意事项。
 
 
 ### 返回
 
-[Comment](/cells/python-net/zh/aspose.cells/comment) 对象索引。
+[`Comment`](/cells/python-net/zh/aspose.cells/comment) 对象索引。
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -38,16 +39,17 @@ comment2.font.name = "Times New Roman"
 ```
 
 
-##  add(row, column) {#int-int}
-向集合添加评论。
+##  add(self, row, column) {#int-int}
+向集合中添加注意事项。
 
 
 ### 返回
 
-[Comment](/cells/python-net/zh/aspose.cells/comment) 对象索引。
+[`Comment`](/cells/python-net/zh/aspose.cells/comment) 对象索引。
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -72,6 +74,6 @@ comment1.font.name = "Times New Roman"
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
-* 类 [CommentCollection](/cells/python-net/zh/aspose.cells/commentcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)
+* 类 [`CommentCollection`](/cells/python-net/zh/aspose.cells/commentcollection)

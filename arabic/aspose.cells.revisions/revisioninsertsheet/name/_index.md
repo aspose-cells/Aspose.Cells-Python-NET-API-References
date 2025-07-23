@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.revisions/revisioninsertsheet/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-الحصول على name الخاص بورقة العمل.
+يحصل على name من ورقة العمل.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.revisions](../../)
-* فئة [RevisionInsertSheet](/cells/python-net/ar/aspose.cells.revisions/revisioninsertsheet)
+* الوحدة [`aspose.cells.revisions`](../../)
+* فئة [`RevisionInsertSheet`](/cells/python-net/ar/aspose.cells.revisions/revisioninsertsheet)

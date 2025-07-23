@@ -3,18 +3,24 @@ title: region属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 370
+weight: 350
 url: /zh/aspose.cells/txtloadoptions/region/
 is_root: false
 ---
 ## region属性
 
-根据加载文件时的 CountryCode 获取或设置系统区域设置。
+获取或设置将要加载的工作簿所使用的区域设置。
 
-### 评论
+### 注意事项
 
-如果您不想使用文件中保存的region，
-请在阅读文件后重置它。
+区域设置可用于初始化工作簿的某些功能
+例如字体、主题等等。
+对于基于文本的文件格式，例如 CSV、HTML，...，区域设置
+还将用于检测数字格式并将文本值解析为数字
+或单元格的日期时间值。
+此设置稍后将保留用于实例化的工作簿，即
+工作簿的 [`WorkbookSettings.region`](/cells/python-net/zh/aspose.cells/workbooksettings#region) 将使用相同的 region
+具有此属性。
 ### 定义：
 ```python
 @property

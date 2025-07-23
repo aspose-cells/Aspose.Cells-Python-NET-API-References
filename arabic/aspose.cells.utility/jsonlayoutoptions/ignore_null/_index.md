@@ -1,5 +1,5 @@
 ---
-title: ignore_null الملكية
+title: ignore_null عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.utility/jsonlayoutoptions/ignore_null/
 is_root: false
 ---
-##  ignore_null الملكية
+##  ignore_null عقار
 
-يشير إلى ما إذا كان يتم تجاهل قيمة فارغة.
+يشير إلى ما إذا كان سيتم تجاهل القيمة الفارغة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def ignore_null(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.utility](../../)
-* فئة [JsonLayoutOptions](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)
+* الوحدة [`aspose.cells.utility`](../../)
+* فئة [`JsonLayoutOptions`](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)

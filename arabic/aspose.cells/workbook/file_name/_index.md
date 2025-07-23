@@ -3,17 +3,17 @@ title: file_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 570
+weight: 600
 url: /ar/aspose.cells/workbook/file_name/
 is_root: false
 ---
 ##  file_name عقار
 
-الحصول على اسم الملف الحالي وتعيينه.
+يحصل على اسم الملف الحالي ويقوم بتعيينه.
 
 ###  ملاحظات
 
-إذا تم فتح الملف عن طريق الدفق وكانت هناك بعض مراجع الصيغة الخارجية،
+إذا تم فتح الملف بواسطة الدفق وكان هناك بعض المراجع الخارجية للصيغ،
 يرجى تعيين اسم الملف.
 ###  تعريف:
 ```python

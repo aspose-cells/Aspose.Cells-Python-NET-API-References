@@ -1,19 +1,19 @@
 ---
-title: embed_standard_windows_fonts الملكية
+title: embed_standard_windows_fonts عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 220
 url: /ar/aspose.cells/pdfsaveoptions/embed_standard_windows_fonts/
 is_root: false
 ---
-##  embed_standard_windows_fonts الملكية
+##  embed_standard_windows_fonts عقار
 
-صحيح لدمج خطوط الكتابة الحقيقية.
-يؤثر فقط على أحرف ASCII من 32 إلى 127.
-يتم دائمًا تضمين خطوط رموز الأحرف الأكبر من 127.
-يتم دائمًا تضمين الخطوط للمعيار PDF / A-1a ، PDF / A-1b.
-الافتراضي هو الصحيح.
+ صحيح لتضمين خطوط النوع الحقيقي.
+يؤثر فقط على أحرف ASCII 32-127.
+يتم دائمًا تضمين الخطوط الخاصة برموز الأحرف التي يزيد حجمها عن 127.
+يتم تضمين الخطوط دائمًا للمعيارين PDF/A-1a وPDF/A-1b.
+الإفتراضي هو الصحيح.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def embed_standard_windows_fonts(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PdfSaveOptions](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PdfSaveOptions`](/cells/python-net/ar/aspose.cells/pdfsaveoptions)

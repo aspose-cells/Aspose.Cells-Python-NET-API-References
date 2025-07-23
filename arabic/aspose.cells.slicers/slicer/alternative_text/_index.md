@@ -1,5 +1,5 @@
 ---
-title: alternative_text الملكية
+title: alternative_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.slicers/slicer/alternative_text/
 is_root: false
 ---
-##  alternative_text الملكية
+##  alternative_text عقار
 
-إرجاع أو تعيين السلسلة النصية الوصفية (البديلة) لكائن Slicer.
+إرجاع أو تعيين سلسلة النص الوصفي (البديل) لكائن Slicer.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def alternative_text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

@@ -1,5 +1,5 @@
 ---
-title: author الملكية
+title: author عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/writeprotection/author/
 is_root: false
 ---
-##  author الملكية
+##  author عقار
 
-يحصل على author ويضبطه.
+يحصل على author ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def author(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WriteProtection](/cells/python-net/ar/aspose.cells/writeprotection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WriteProtection`](/cells/python-net/ar/aspose.cells/writeprotection)

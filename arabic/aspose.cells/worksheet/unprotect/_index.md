@@ -3,16 +3,17 @@ title: طريقة unprotect
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ar/aspose.cells/worksheet/unprotect/
 is_root: false
 ---
-##  unprotect {#}
+##  unprotect(self) {#}
 إلغاء حماية ورقة العمل.
 
 
 
 ```python
+
 def unprotect(self):
     ...
 ```
@@ -20,15 +21,16 @@ def unprotect(self):
 
 ###  ملاحظات
 
-تقوم هذه الطريقة بإلغاء حماية ورقة العمل المحمية بدون كلمة مرور.
+تعمل هذه الطريقة على إلغاء حماية ورقة العمل المحمية بدون كلمة مرور.
 
-##  unprotect {#str}
+##  unprotect(self, password) {#str}
 
 إلغاء حماية ورقة العمل.
 
 
 
 ```python
+
 def unprotect(self, password):
     ...
 ```

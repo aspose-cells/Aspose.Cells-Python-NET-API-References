@@ -3,13 +3,13 @@ title: image_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 620
+weight: 610
 url: /zh/aspose.cells.drawing/oleobject/image_type/
 is_root: false
 ---
 ## image_type属性
 
-获取ole对象的图像格式。
+获取 ole 对象的图像格式。
 ### 定义：
 ```python
 @property

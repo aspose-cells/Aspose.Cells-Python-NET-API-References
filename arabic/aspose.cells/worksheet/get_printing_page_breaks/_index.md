@@ -3,20 +3,21 @@ title: طريقة get_printing_page_breaks
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ar/aspose.cells/worksheet/get_printing_page_breaks/
 is_root: false
 ---
-##  get_printing_page_breaks {#aspose.cells.rendering.ImageOrPrintOptions}
+##  get_printing_page_breaks(self, options) {#aspose.cells.rendering.ImageOrPrintOptions}
 يحصل على فواصل الصفحات التلقائية.
 
 
 ###  عائدات
 
-تقوم الصفحة التلقائية بفواصل المناطق.
+مناطق فواصل الصفحات التلقائية.
 
 
 ```python
+
 def get_printing_page_breaks(self, options):
     ...
 ```

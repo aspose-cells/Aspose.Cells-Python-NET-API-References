@@ -1,5 +1,5 @@
 ---
-title: العد OdsPageBackgroundGraphicPositionType
+title: OdsPageBackgroundGraphicPositionType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,27 +7,27 @@ weight: 60
 url: /ar/aspose.cells.ods/odspagebackgroundgraphicpositiontype/
 is_root: false
 ---
-##  العد OdsPageBackgroundGraphicPositionType
+##  OdsPageBackgroundGraphicPositionType التعداد
 يمثل الموقف.
 
 
 
-يكشف نوع OdsPageBackgroundGraphicPositionType الأعضاء التالية:
+يكشف النوع OdsPageBackgroundGraphicPositionType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | TOP_LEFT | أعلى اليسار.|
-| TOP_CENTER | مركز أعلى.|
-| TOP_RIGHT | اعلى اليمين.|
-| CENTER_LEFT | يسار الوسط.|
+| TOP_CENTER | المركز العلوي.|
+| TOP_RIGHT | أعلى اليمين.|
+| CENTER_LEFT | وسط اليسار.|
 | CENTER_CENTER | مركز.|
-| CENTER_RIGHT | يمين الوسط.|
+| CENTER_RIGHT | وسط اليمين.|
 | BOTTOM_LEFT | أسفل اليسار.|
-| BOTTOM_CENTER | مركز القاع.|
+| BOTTOM_CENTER | أسفل المركز.|
 | BOTTOM_RIGHT | أسفل اليمين.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.ods](..)
+* الوحدة [`aspose.cells.ods`](..)

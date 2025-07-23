@@ -1,13 +1,13 @@
 ---
-title: line_style 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: line_style属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells/border/line_style/
 is_root: false
 ---
-## line_style 属性
+## line_style属性
 
 获取或设置单元格边框类型。
 ### 定义：
@@ -21,6 +21,6 @@ def line_style(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Border](/cells/python-net/zh/aspose.cells/border)
-* 类 [CellBorderType](/cells/python-net/zh/aspose.cells/cellbordertype)
+* 模块[`aspose.cells`](../../)
+* 类 [`Border`](/cells/python-net/zh/aspose.cells/border)
+* 类 [`CellBorderType`](/cells/python-net/zh/aspose.cells/cellbordertype)

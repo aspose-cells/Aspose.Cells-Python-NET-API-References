@@ -3,18 +3,18 @@ title: x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 500
 url: /ar/aspose.cells.charts/legend/x/
 is_root: false
 ---
 ##  x عقار
 
-الحصول على أو تعيين الإحداثيات x للزاوية اليسرى العليا بوحدات 1/4000 من منطقة المخطط.
+يحصل على أو يضبط إحداثيات x للزاوية اليسرى العليا بوحدات 1/4000 من مساحة الرسم البياني.
 
 ###  ملاحظات
 
- كيفية تحويل وحدات من 1/4000 إلى بكسل؟
-X بالبكسل = X * Chart.ChartObject.Width / 4000؛
+ كيفية تحويل وحدات 1/4000 إلى بكسل؟
+بالبكسل = X * Chart.ChartObject.Width / 4000d؛
 ###  تعريف:
 ```python
 @property

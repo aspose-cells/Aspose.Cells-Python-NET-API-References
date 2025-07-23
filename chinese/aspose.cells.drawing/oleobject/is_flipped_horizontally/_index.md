@@ -3,13 +3,13 @@ title: is_flipped_horizontally属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 670
+weight: 680
 url: /zh/aspose.cells.drawing/oleobject/is_flipped_horizontally/
 is_root: false
 ---
 ## is_flipped_horizontally属性
 
-获取并设置形状是否水平翻转。
+获取或设置形状是否水平翻转。
 
 ### 例子
 

@@ -3,13 +3,13 @@ title: z_order_position عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1320
+weight: 1330
 url: /ar/aspose.cells.drawing/scrollbar/z_order_position/
 is_root: false
 ---
 ##  z_order_position عقار
 
-إرجاع موضع الشكل بالترتيب z.
+إرجاع موضع الشكل في الترتيب z.
 
 ###  مثال
 

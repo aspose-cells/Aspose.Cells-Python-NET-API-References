@@ -3,7 +3,7 @@ title: dpi属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 250
 url: /zh/aspose.cells/cellshelper/dpi/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 获取机器的DPI。
 
-### 评论
+### 注意事项
 
 
 ### 定义：
@@ -19,8 +19,8 @@ is_root: false
 @property
 def dpi(self):
     ...
-@dpi.setter
-def dpi(self, value):
+@staticmethod
+def set_dpi(value):
     ...
 ```
 

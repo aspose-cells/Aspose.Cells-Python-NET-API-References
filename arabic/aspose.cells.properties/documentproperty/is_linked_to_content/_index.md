@@ -1,5 +1,5 @@
 ---
-title: is_linked_to_content الملكية
+title: is_linked_to_content عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 80
 url: /ar/aspose.cells.properties/documentproperty/is_linked_to_content/
 is_root: false
 ---
-##  is_linked_to_content الملكية
+##  is_linked_to_content عقار
 
 يشير إلى ما إذا كانت هذه الخاصية مرتبطة بالمحتوى
 ###  تعريف:
@@ -18,5 +18,5 @@ def is_linked_to_content(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty)

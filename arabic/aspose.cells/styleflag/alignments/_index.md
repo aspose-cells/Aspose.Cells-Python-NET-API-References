@@ -1,5 +1,5 @@
 ---
-title: alignments الملكية
+title: alignments عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells/styleflag/alignments/
 is_root: false
 ---
-##  alignments الملكية
+##  alignments عقار
 
 سيتم تطبيق إعداد المحاذاة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def alignments(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

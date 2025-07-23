@@ -9,7 +9,7 @@ is_root: false
 ---
 ## ignore_blank属性
 
-指示范围数据验证是否允许空白值。
+指示范围数据验证是否允许空值。
 ### 定义：
 ```python
 @property

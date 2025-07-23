@@ -1,5 +1,5 @@
 ---
-title: font_underline الملكية
+title: font_underline عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 180
 url: /ar/aspose.cells/styleflag/font_underline/
 is_root: false
 ---
-##  font_underline الملكية
+##  font_underline عقار
 
 سيتم تطبيق إعداد تسطير الخط.
 ###  تعريف:
@@ -21,5 +21,5 @@ def font_underline(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

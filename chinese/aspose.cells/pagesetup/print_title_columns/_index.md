@@ -1,13 +1,13 @@
 ---
-title: print_title_columns 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: print_title_columns属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 590
 url: /zh/aspose.cells/pagesetup/print_title_columns/
 is_root: false
 ---
-## print_title_columns 属性
+## print_title_columns属性
 
 表示包含要在每页左侧重复的单元格的列。
 
@@ -30,5 +30,5 @@ def print_title_columns(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PageSetup](/cells/python-net/zh/aspose.cells/pagesetup)
+* 模块[`aspose.cells`](../../)
+* 类 [`PageSetup`](/cells/python-net/zh/aspose.cells/pagesetup)

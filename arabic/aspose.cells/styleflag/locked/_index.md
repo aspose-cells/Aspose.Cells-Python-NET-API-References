@@ -1,5 +1,5 @@
 ---
-title: locked الملكية
+title: locked عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 230
 url: /ar/aspose.cells/styleflag/locked/
 is_root: false
 ---
-##  locked الملكية
+##  locked عقار
 
 سيتم تطبيق الإعداد المقفل.
 ###  تعريف:
@@ -21,5 +21,5 @@ def locked(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

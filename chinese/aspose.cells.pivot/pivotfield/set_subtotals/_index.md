@@ -3,16 +3,17 @@ title: set_subtotals方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 150
+weight: 210
 url: /zh/aspose.cells.pivot/pivotfield/set_subtotals/
 is_root: false
 ---
-##  set_subtotals {#aspose.cells.pivot.PivotFieldSubtotalType-bool}
+##  set_subtotals(self, subtotal_type, shown) {#aspose.cells.pivot.PivotFieldSubtotalType-bool}
 设置指定字段是否显示小计。
 
 
 
 ```python
+
 def set_subtotals(self, subtotal_type, shown):
     ...
 ```

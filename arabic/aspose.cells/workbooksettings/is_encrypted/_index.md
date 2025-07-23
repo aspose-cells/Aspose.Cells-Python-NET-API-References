@@ -3,13 +3,13 @@ title: is_encrypted عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 260
 url: /ar/aspose.cells/workbooksettings/is_encrypted/
 is_root: false
 ---
 ##  is_encrypted عقار
 
-الحصول على قيمة تشير إلى ما إذا كانت كلمة المرور مطلوبة لفتح هذا المصنف.
+يحصل على قيمة تشير إلى ما إذا كانت كلمة المرور مطلوبة لفتح هذا المصنف.
 ###  تعريف:
 ```python
 @property

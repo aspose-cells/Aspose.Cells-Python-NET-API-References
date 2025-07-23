@@ -1,5 +1,5 @@
 ---
-title: old_style الملكية
+title: old_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 120
 url: /ar/aspose.cells.revisions/revisioncellchange/old_style/
 is_root: false
 ---
-##  old_style الملكية
+##  old_style عقار
 
 يحصل على النمط القديم للخلية.
 ###  تعريف:
@@ -18,6 +18,6 @@ def old_style(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.revisions](../../)
-* فئة [RevisionCellChange](/cells/python-net/ar/aspose.cells.revisions/revisioncellchange)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells.revisions`](../../)
+* فئة [`RevisionCellChange`](/cells/python-net/ar/aspose.cells.revisions/revisioncellchange)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

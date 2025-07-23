@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.drawing/gradientstopcollection/add/
 is_root: false
 ---
-##  add(position, color, alpha) {#float-CellsColor-int}
-أضف نقطة توقف متدرجة.
+##  add(self, position, color, alpha) {#float-aspose.cells.CellsColor-int}
+أضف توقف التدرج.
 
 
 
 ```python
+
 def add(self, position, color, alpha):
     ...
 ```
@@ -20,17 +21,18 @@ def add(self, position, color, alpha):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| position | float | موضع التوقف ، بوحدة النسبة المئوية.|
-| color | [CellsColor](/cells/python-net/ar/aspose.cells/cellscolor) | لون التوقف.|
-| alpha | int | ألفا من اللون.|
+| position | float | موضع التوقف، بوحدة النسبة المئوية.|
+| color | [`CellsColor`](/cells/python-net/ar/aspose.cells/cellscolor) | لون التوقف.|
+| alpha | int | ألفا اللون.|
 
 
-##  add(position, color, alpha) {#float-aspose.pydrawing.Color-int}
-أضف نقطة توقف متدرجة.
+##  add(self, position, color, alpha) {#float-aspose.pydrawing.Color-int}
+أضف توقف التدرج.
 
 
 
 ```python
+
 def add(self, position, color, alpha):
     ...
 ```
@@ -38,12 +40,12 @@ def add(self, position, color, alpha):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| position | float | موضع التوقف ، بوحدة النسبة المئوية.|
+| position | float | موضع التوقف، بوحدة النسبة المئوية.|
 | color | aspose.pydrawing.Color | لون التوقف.|
-| alpha | int | ألفا من اللون.|
+| alpha | int | ألفا اللون.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GradientStopCollection](/cells/python-net/ar/aspose.cells.drawing/gradientstopcollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GradientStopCollection`](/cells/python-net/ar/aspose.cells.drawing/gradientstopcollection)

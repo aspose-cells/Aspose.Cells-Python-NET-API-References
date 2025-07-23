@@ -1,13 +1,13 @@
 ---
-title: data_bar 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: data_bar属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 100
 url: /zh/aspose.cells/formatcondition/data_bar/
 is_root: false
 ---
-## data_bar 属性
+## data_bar属性
 
 获取条件格式的“DataBar”实例。
 默认实例的颜色是蓝色。
@@ -20,6 +20,6 @@ def data_bar(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DataBar](/cells/python-net/zh/aspose.cells/databar)
-* 类 [FormatCondition](/cells/python-net/zh/aspose.cells/formatcondition)
+* 模块[`aspose.cells`](../../)
+* 类 [`DataBar`](/cells/python-net/zh/aspose.cells/databar)
+* 类 [`FormatCondition`](/cells/python-net/zh/aspose.cells/formatcondition)

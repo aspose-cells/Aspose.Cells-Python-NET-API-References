@@ -1,5 +1,5 @@
 ---
-title: is_to_output الملكية
+title: is_to_output عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 30
 url: /ar/aspose.cells.rendering/pagestartsavingargs/is_to_output/
 is_root: false
 ---
-##  is_to_output الملكية
+##  is_to_output عقار
 
- الحصول على أو تعيين قيمة تشير إلى ما إذا كان يجب إخراج الصفحة أم لا.
-القيمة الافتراضية هي الحقيقية.
+ يحصل على قيمة أو يعينها للإشارة إلى ما إذا كان يجب إخراج الصفحة أم لا.
+القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_to_output(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [PageStartSavingArgs](/cells/python-net/ar/aspose.cells.rendering/pagestartsavingargs)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`PageStartSavingArgs`](/cells/python-net/ar/aspose.cells.rendering/pagestartsavingargs)

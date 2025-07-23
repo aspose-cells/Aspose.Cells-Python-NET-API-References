@@ -3,17 +3,19 @@ title: طريقة set_font_folder
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 60
 url: /ar/aspose.cells/fontconfigs/set_font_folder/
 is_root: false
 ---
-##  set_font_folder(font_folder, recursive) {#str-bool}
+##  set_font_folder(, مجلد الخط، متكرر){#str-bool}
 يضبط مجلد الخطوط
 
 
 
 ```python
-def set_font_folder(self, font_folder, recursive):
+
+@staticmethod
+def set_font_folder(font_folder, recursive):
     ...
 ```
 
@@ -26,5 +28,5 @@ def set_font_folder(self, font_folder, recursive):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FontConfigs](/cells/python-net/ar/aspose.cells/fontconfigs)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FontConfigs`](/cells/python-net/ar/aspose.cells/fontconfigs)

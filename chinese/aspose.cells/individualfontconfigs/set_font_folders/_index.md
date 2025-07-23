@@ -1,18 +1,19 @@
 ---
 title: set_font_folders方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells/individualfontconfigs/set_font_folders/
 is_root: false
 ---
-##  set_font_folders(font_folders, recursive) {#list-bool}
+##  set_font_folders(self, font_folders, recursive) {#list-bool}
 设置字体文件夹
 
 
 
 ```python
+
 def set_font_folders(self, font_folders, recursive):
     ...
 ```
@@ -26,5 +27,5 @@ def set_font_folders(self, font_folders, recursive):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [IndividualFontConfigs](/cells/python-net/zh/aspose.cells/individualfontconfigs)
+* 模块[`aspose.cells`](../../)
+* 类 [`IndividualFontConfigs`](/cells/python-net/zh/aspose.cells/individualfontconfigs)

@@ -1,15 +1,15 @@
 ---
-title: operator 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: operator属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 140
 url: /zh/aspose.cells/formatcondition/operator/
 is_root: false
 ---
-## operator 属性
+## operator属性
 
-获取和设置条件格式 operator 类型。
+获取并设置条件格式 operator 类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def operator(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FormatCondition](/cells/python-net/zh/aspose.cells/formatcondition)
-* 类 [OperatorType](/cells/python-net/zh/aspose.cells/operatortype)
+* 模块[`aspose.cells`](../../)
+* 类 [`FormatCondition`](/cells/python-net/zh/aspose.cells/formatcondition)
+* 类 [`OperatorType`](/cells/python-net/zh/aspose.cells/operatortype)

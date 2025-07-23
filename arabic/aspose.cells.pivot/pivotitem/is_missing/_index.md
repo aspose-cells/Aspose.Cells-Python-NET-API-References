@@ -3,17 +3,17 @@ title: is_missing عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 140
 url: /ar/aspose.cells.pivot/pivotitem/is_missing/
 is_root: false
 ---
 ##  is_missing عقار
 
-يشير إلى ما إذا كان العنصر يحتوي على قيمة مفقودة.
+يشير إلى ما إذا كان سيتم إزالة العنصر من مصدر البيانات.
 
 ###  ملاحظات
 
-صحيح يعني أنه تمت إزالة هذه القيمة من مصدر البيانات.
+تعني "صحيح" أن هذه القيمة قد تمت إزالتها من مصدر البيانات.
 ###  تعريف:
 ```python
 @property

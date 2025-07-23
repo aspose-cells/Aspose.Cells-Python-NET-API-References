@@ -9,7 +9,7 @@ is_root: false
 ---
 ## is_vertical属性
 
-如果工作簿文件中的一行代表数据表中的一行，则为 True。如果工作簿文件中的列代表数据表中的行，则为 False。
+如果 Workbook 文件中的一行代表 DataTable 中的一行，则为 True。如果 Workbook 文件中的列代表 DataTable 中的一行，则为 False。
 ### 定义：
 ```python
 @property

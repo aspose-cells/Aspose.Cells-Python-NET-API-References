@@ -1,13 +1,13 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/errorcheckoptioncollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 添加错误检查选项。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ErrorCheckOptionCollection](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`ErrorCheckOptionCollection`](/cells/python-net/zh/aspose.cells/errorcheckoptioncollection)

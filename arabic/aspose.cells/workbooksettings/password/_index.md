@@ -3,7 +3,7 @@ title: password عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 400
 url: /ar/aspose.cells/workbooksettings/password/
 is_root: false
 ---

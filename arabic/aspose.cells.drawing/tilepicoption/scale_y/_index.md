@@ -1,5 +1,5 @@
 ---
-title: scale_y الملكية
+title: scale_y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells.drawing/tilepicoption/scale_y/
 is_root: false
 ---
-##  scale_y الملكية
+##  scale_y عقار
 
-الحصول على أو تحديد مقياس Y للصورة المتجانبة.
+يحصل على مقياس Y لتقسيم الصورة أو يضبطه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale_y(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [TilePicOption](/cells/python-net/ar/aspose.cells.drawing/tilepicoption)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`TilePicOption`](/cells/python-net/ar/aspose.cells.drawing/tilepicoption)

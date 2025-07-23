@@ -1,15 +1,15 @@
 ---
-title: space_before 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: space_before属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 210
 url: /zh/aspose.cells.drawing.texts/textparagraph/space_before/
 is_root: false
 ---
-## space_before 属性
+## space_before属性
 
-获取和设置将出现在段落之前的垂直空白的数量。
+获取并设置段落前的垂直空白量。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def space_before(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](../../)
-* 类 [TextParagraph](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraph)
+* 模块[`aspose.cells.drawing.texts`](../../)
+* 类 [`TextParagraph`](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraph)

@@ -1,5 +1,5 @@
 ---
-title: right الملكية
+title: right عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.drawing/picformatoption/right/
 is_root: false
 ---
-##  right الملكية
+##  right عقار
 
-الحصول على أو تحديد الإزاحة right لتمديد الصورة.
+يحصل على أو يضبط الإزاحة right لتمديد الصورة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def right(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [PicFormatOption](/cells/python-net/ar/aspose.cells.drawing/picformatoption)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`PicFormatOption`](/cells/python-net/ar/aspose.cells.drawing/picformatoption)

@@ -1,13 +1,13 @@
 ---
-title: plot_right_to_left 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: plot_right_to_left属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 150
 url: /zh/aspose.cells.charts/sparklinegroup/plot_right_to_left/
 is_root: false
 ---
-## plot_right_to_left 属性
+## plot_right_to_left属性
 
 指示绘图数据是否从右到左。
 ### 定义：
@@ -21,5 +21,5 @@ def plot_right_to_left(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [SparklineGroup](/cells/python-net/zh/aspose.cells.charts/sparklinegroup)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`SparklineGroup`](/cells/python-net/zh/aspose.cells.charts/sparklinegroup)

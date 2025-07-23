@@ -7,16 +7,17 @@ weight: 30
 url: /ar/aspose.cells/commentcollection/add_threaded_comment/
 is_root: false
 ---
-##  add_threaded_comment(cell_name, text, author) {#str-str-ThreadedCommentAuthor}
-يضيف تعليق مترابط.
+##  add_threaded_comment(self, cell_name, text, author) {#str-str-aspose.cells.ThreadedCommentAuthor}
+يضيف تعليقًا مترابطًا.
 
 
 ###  عائدات
 
-[ThreadedComment](/cells/python-net/ar/aspose.cells/threadedcomment) فهرس العنصر.
+[`ThreadedComment`](/cells/python-net/ar/aspose.cells/threadedcomment) فهرس الكائن.
 
 
 ```python
+
 def add_threaded_comment(self, cell_name, text, author):
     ...
 ```
@@ -26,19 +27,20 @@ def add_threaded_comment(self, cell_name, text, author):
 | :- | :- | :- |
 | cell_name | str | اسم الخلية.|
 | text | str | نص التعليق|
-| author | [ThreadedCommentAuthor](/cells/python-net/ar/aspose.cells/threadedcommentauthor) | مستخدم هذا التعليق المترابط.|
+| author | [`ThreadedCommentAuthor`](/cells/python-net/ar/aspose.cells/threadedcommentauthor) |مستخدم هذا التعليق المترابط.|
 
 
-##  add_threaded_comment(row, column, text, author) {#int-int-str-ThreadedCommentAuthor}
-يضيف تعليق مترابط.
+##  add_threaded_comment(self, row, column, text, author) {#int-int-str-aspose.cells.ThreadedCommentAuthor}
+يضيف تعليقًا مترابطًا.
 
 
 ###  عائدات
 
-[ThreadedComment](/cells/python-net/ar/aspose.cells/threadedcomment) فهرس العنصر.
+[`ThreadedComment`](/cells/python-net/ar/aspose.cells/threadedcomment) فهرس الكائن.
 
 
 ```python
+
 def add_threaded_comment(self, row, column, text, author):
     ...
 ```
@@ -49,11 +51,11 @@ def add_threaded_comment(self, row, column, text, author):
 | row | int | Cell فهرس الصف.|
 | column | int | Cell فهرس العمود.|
 | text | str | نص التعليق|
-| author | [ThreadedCommentAuthor](/cells/python-net/ar/aspose.cells/threadedcommentauthor) | مستخدم هذا التعليق المترابط.|
+| author | [`ThreadedCommentAuthor`](/cells/python-net/ar/aspose.cells/threadedcommentauthor) |مستخدم هذا التعليق المترابط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CommentCollection](/cells/python-net/ar/aspose.cells/commentcollection)
-* فئة [ThreadedComment](/cells/python-net/ar/aspose.cells/threadedcomment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CommentCollection`](/cells/python-net/ar/aspose.cells/commentcollection)
+* فئة [`ThreadedComment`](/cells/python-net/ar/aspose.cells/threadedcomment)

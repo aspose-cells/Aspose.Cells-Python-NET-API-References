@@ -1,5 +1,5 @@
 ---
-title: caption الملكية
+title: caption عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.timelines/timeline/caption/
 is_root: false
 ---
-##  caption الملكية
+##  caption عقار
 
-إرجاع أو تحديد caption للمخطط الزمني المحدد.
+إرجاع أو تعيين caption للخط الزمني المحدد.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def caption(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.timelines](../../)
-* فئة [Timeline](/cells/python-net/ar/aspose.cells.timelines/timeline)
+* الوحدة [`aspose.cells.timelines`](../../)
+* فئة [`Timeline`](/cells/python-net/ar/aspose.cells.timelines/timeline)

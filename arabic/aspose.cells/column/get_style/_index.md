@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells/column/get_style/
 is_root: false
 ---
-##  get_style() {#}
+##  get_style(self) {#}
 يحصل على نمط هذا العمود.
 
 
 
 ```python
+
 def get_style(self):
     ...
 ```
@@ -20,14 +21,14 @@ def get_style(self):
 
 ###  ملاحظات
 
-تعديل كائن النمط الذي تم إرجاعه مباشرة لا يكون له أي تأثير لهذا العمود أو أي خلايا في هذا العمود.
-يجب عليك الاتصال بالطريقة [Column.apply_style(style, flag)](/cells/python-net/ar/aspose.cells/column/apply_style) أو [Column.set_style(style)](/cells/python-net/ar/aspose.cells/column/set_style)
+لا يؤدي تعديل كائن النمط المُرجع مباشرةً إلى أي تأثير على هذا العمود أو أي خلايا في هذا العمود.
+عليك الاتصال على الرقم [`Column.apply_style`](/cells/python-net/ar/aspose.cells/column/apply_style) أو [`Column.set_style`](/cells/python-net/ar/aspose.cells/column/set_style)
 لتطبيق التغيير على هذا العمود.
 
-نمط العمود هو النمط الذي سترثه الخلايا في هذا العمود (تلك الخلايا التي لا تحتوي على إعدادات نمط مخصصة ،
-مثل الخلايا الموجودة التي لم يتم تعيين نمط صريح لها ، أو تلك التي لم يتم إنشاء مثيل لها)
+نمط العمود هو النمط الذي سيتم وراثته بواسطة الخلايا في هذا العمود (تلك الخلايا التي ليس لها إعدادات نمط مخصصة،
+مثل الخلايا الموجودة التي لم يتم تعيين أسلوبها صراحةً، أو تلك التي لم يتم إنشاؤها)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Column](/cells/python-net/ar/aspose.cells/column)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Column`](/cells/python-net/ar/aspose.cells/column)

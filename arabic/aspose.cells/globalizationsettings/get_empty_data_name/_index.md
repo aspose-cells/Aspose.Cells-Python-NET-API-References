@@ -7,8 +7,8 @@ weight: 90
 url: /ar/aspose.cells/globalizationsettings/get_empty_data_name/
 is_root: false
 ---
-##  get_empty_data_name {#}
-الحصول على اسم التسمية "(فارغة)" في PivotTable.
+##  get_empty_data_name(self) {#}
+يحصل على اسم العلامة "(فارغ)" في الجدول المحوري.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_empty_data_name(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_empty_data_name(self):
 
 ###  ملاحظات
 
-ملاحظة: هذا العضو قديم الآن. بدلاً من،
-الرجاء استخدام طريقة PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ ديسمبر 2022.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+يرجى استخدام طريقة PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ ديسمبر 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا

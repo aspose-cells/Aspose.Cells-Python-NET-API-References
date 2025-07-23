@@ -1,14 +1,14 @@
 ---
 title: get_threaded_comments方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 70
 url: /zh/aspose.cells/commentcollection/get_threaded_comments/
 is_root: false
 ---
-##  get_threaded_comments(cell_name) {#str}
-按单元格名称获取线程注释。
+##  get_threaded_comments(self, cell_name) {#str}
+根据单元格名称获取线程注意事项。
 
 
 ### 返回
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_threaded_comments(self, cell_name):
     ...
 ```
@@ -38,8 +39,8 @@ for i in range(len(threadedComments2)):
 ```
 
 
-##  get_threaded_comments(row, column) {#int-int}
-按行和列索引获取线程评论。
+##  get_threaded_comments(self, row, column) {#int-int}
+按行和列索引获取线程注意事项。
 
 
 ### 返回
@@ -48,6 +49,7 @@ for i in range(len(threadedComments2)):
 
 
 ```python
+
 def get_threaded_comments(self, row, column):
     ...
 ```
@@ -72,5 +74,5 @@ for i in range(len(threadedComments1)):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CommentCollection](/cells/python-net/zh/aspose.cells/commentcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`CommentCollection`](/cells/python-net/zh/aspose.cells/commentcollection)

@@ -1,5 +1,5 @@
 ---
-title: font_color الملكية
+title: font_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 120
 url: /ar/aspose.cells/styleflag/font_color/
 is_root: false
 ---
-##  font_color الملكية
+##  font_color عقار
 
 سيتم تطبيق إعداد لون الخط.
 ###  تعريف:
@@ -21,5 +21,5 @@ def font_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

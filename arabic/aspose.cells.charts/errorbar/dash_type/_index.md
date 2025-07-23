@@ -1,5 +1,5 @@
 ---
-title: dash_type الملكية
+title: dash_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 100
 url: /ar/aspose.cells.charts/errorbar/dash_type/
 is_root: false
 ---
-##  dash_type الملكية
+##  dash_type عقار
 
 يحدد نوع خط الشرطة
 ###  تعريف:
@@ -21,6 +21,6 @@ def dash_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ErrorBar](/cells/python-net/ar/aspose.cells.charts/errorbar)
-* فئة [MsoLineDashStyle](/cells/python-net/ar/aspose.cells.drawing/msolinedashstyle)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ErrorBar`](/cells/python-net/ar/aspose.cells.charts/errorbar)
+* فئة [`MsoLineDashStyle`](/cells/python-net/ar/aspose.cells.drawing/msolinedashstyle)

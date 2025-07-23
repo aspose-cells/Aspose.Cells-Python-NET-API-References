@@ -3,14 +3,14 @@ title: export_view_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 170
 url: /ar/aspose.cells/pptxsaveoptions/export_view_type/
 is_root: false
 ---
 ##  export_view_type عقار
 
-الحصول على نوع العرض وتعيينه عند التصدير إلى PowerPoint.
-نوع التصدير الافتراضي يعمل كطباعة.
+يحصل على نوع العرض ويقوم بتعيينه عند التصدير إلى PowerPoint.
+نوع التصدير الافتراضي يعمل كالطباعة.
 ###  تعريف:
 ```python
 @property

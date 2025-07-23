@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_rows عقار
 
-تصدير الصفوف المرئية فقط.
+يتم تصدير الصفوف المرئية فقط.
 ###  تعريف:
 ```python
 @property

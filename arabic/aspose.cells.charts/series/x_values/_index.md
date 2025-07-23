@@ -1,5 +1,5 @@
 ---
-title: x_values الملكية
+title: x_values عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 530
 url: /ar/aspose.cells.charts/series/x_values/
 is_root: false
 ---
-##  x_values الملكية
+##  x_values عقار
 
 يمثل قيم x لسلسلة الرسم البياني.
 ###  تعريف:
@@ -21,5 +21,5 @@ def x_values(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

@@ -3,13 +3,13 @@ title: image_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 620
+weight: 610
 url: /ar/aspose.cells.drawing/oleobject/image_type/
 is_root: false
 ---
 ##  image_type عقار
 
-يحصل على تنسيق الصورة لكائن ole.
+يحصل على تنسيق الصورة للكائن ole.
 ###  تعريف:
 ```python
 @property

@@ -3,7 +3,7 @@ title: content_type_properties属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 480
+weight: 500
 url: /zh/aspose.cells/workbook/content_type_properties/
 is_root: false
 ---

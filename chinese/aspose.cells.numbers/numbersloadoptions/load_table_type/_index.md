@@ -1,15 +1,15 @@
 ---
-title: load_table_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: load_table_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 160
 url: /zh/aspose.cells.numbers/numbersloadoptions/load_table_type/
 is_root: false
 ---
-## load_table_type 属性
+## load_table_type属性
 
-获取和设置在一个工作表中加载多个表的类型。
+获取并设置在一个工作表中加载多个表的类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def load_table_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.numbers](../../)
-* 类 [LoadNumbersTableType](/cells/python-net/zh/aspose.cells.numbers/loadnumberstabletype)
-* 类 [NumbersLoadOptions](/cells/python-net/zh/aspose.cells.numbers/numbersloadoptions)
+* 模块[`aspose.cells.numbers`](../../)
+* 类 [`LoadNumbersTableType`](/cells/python-net/zh/aspose.cells.numbers/loadnumberstabletype)
+* 类 [`NumbersLoadOptions`](/cells/python-net/zh/aspose.cells.numbers/numbersloadoptions)

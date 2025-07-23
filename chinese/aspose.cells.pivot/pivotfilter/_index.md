@@ -3,7 +3,7 @@ title: PivotFilter类
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 100
+weight: 140
 url: /zh/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
@@ -14,18 +14,31 @@ is_root: false
 
 PivotFilter 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
+| [use_whole_day](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/use_whole_day) |指示是否在过滤条件中使用整天。|
 | [auto_filter](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/auto_filter) |获取枢轴过滤器的自动过滤器。|
 | [filter_type](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/filter_type) |获取数据透视过滤器的自动过滤类型。|
-| [field_index](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/field_index) |获取数据透视过滤器的字段索引。|
-| [value1](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/value1) |获取标签透视过滤器的字符串 value1。|
-| [value2](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/value2) |获取标签透视过滤器的字符串 value2。|
-| [measure_fld_index](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/measure_fld_index) |获取数据透视过滤器的度量字段索引。|
+| [field_index](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/field_index) |获取此枢轴过滤器所应用的源字段的索引。|
+| [filter_category](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/filter_category) |获取此过滤器的类别。|
+| [value1](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/value1) |获取标签枢轴过滤器的字符串值1。|
+| [value2](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/value2) |获取标签枢轴过滤器的字符串值2。|
+| [measure_fld_index](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/measure_fld_index) |获取枢轴过滤器的度量字段索引。|
+| [value_field_index](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/value_field_index) |获取值域中值字段的索引。|
+| [measure_cube_field_index](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/measure_cube_field_index) |指定度量立方体字段的索引。<br/>此属性仅由 OLAP 数据透视表中的过滤器使用，并指定应在哪个度量上应用值过滤器。|
 | [member_property_field_index](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/member_property_field_index) |获取数据透视过滤器的成员属性字段索引。|
-| [name](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/name) |获取数据透视过滤器的名称。|
+| [name](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/name) |获取枢轴过滤器的名称。|
 | [evaluation_order](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/evaluation_order) |获取枢轴过滤器的评估顺序。|
+
+
+### 方法
+|方法|描述|
+| :- | :- |
+| [`get_top_10_value(self)`](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/get_top_10_value/#) |获取过滤器的前 10 个设置。|
+| [`get_labels(self)`](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/get_labels/#) |获取标题过滤器的标签。|
+| [`get_number_values(self)`](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/get_number_values/#) |获取数字过滤器的值。|
+| [`get_date_time_values(self)`](/cells/python-net/zh/aspose.cells.pivot/pivotfilter/get_date_time_values/#) |获取数字过滤器的值。|
 
 
 
@@ -72,10 +85,8 @@ pivot.add_field_to_area(PivotFieldType.ROW, "fruit")
 pivot.add_field_to_area(PivotFieldType.COLUMN, "year")
 pivot.add_field_to_area(PivotFieldType.DATA, "amount")
 pivot.pivot_table_style_type = PivotTableStyleType.PIVOT_TABLE_STYLE_MEDIUM10
-# Add PivotFilter
-index = pivot.pivot_filters.add(0, PivotFilterType.COUNT)
-filter = pivot.pivot_filters[index]
-filter.auto_filter.filter_top10(0, False, False, 2)
+# Add top 10 filter
+pivot.base_fields[0].filter_top10(0, PivotFilterType.COUNT, False, 2)
 pivot.refresh_data()
 pivot.calculate_data()
 # do your business

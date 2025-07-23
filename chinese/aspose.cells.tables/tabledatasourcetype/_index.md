@@ -1,6 +1,6 @@
 ---
 title: TableDataSourceType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 100
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-TableDataSourceType 类型公开了以下成员：
+TableDataSourceType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| WORKSHEET | Excel 工作表表|
-| SHARE_POINT |读写 SharePoint 链表|
-| XML |XML 映射表|
+| WORKSHEET | Excel 工作表表格|
+| SHARE_POINT |读写 SharePoint 链接列表|
+| XML |XML映射器表|
 | QUERY_TABLE |查询表|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.tables](..)
+* 模块[`aspose.cells.tables`](..)

@@ -3,13 +3,13 @@ title: hide_pivot_field_list属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 240
 url: /zh/aspose.cells/workbooksettings/hide_pivot_field_list/
 is_root: false
 ---
 ## hide_pivot_field_list属性
 
-获取并设置是否隐藏数据透视表的字段列表。
+获取或设置是否隐藏数据透视表的字段列表。
 ### 定义：
 ```python
 @property

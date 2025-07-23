@@ -1,13 +1,13 @@
 ---
-title: texture 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: texture属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.drawing/msofillformat/texture/
 is_root: false
 ---
-## texture 属性
+## texture属性
 
 获取 texture 填充类型。
 ### 定义：
@@ -18,6 +18,6 @@ def texture(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [MsoFillFormat](/cells/python-net/zh/aspose.cells.drawing/msofillformat)
-* 类 [TextureType](/cells/python-net/zh/aspose.cells.drawing/texturetype)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`MsoFillFormat`](/cells/python-net/zh/aspose.cells.drawing/msofillformat)
+* 类 [`TextureType`](/cells/python-net/zh/aspose.cells.drawing/texturetype)

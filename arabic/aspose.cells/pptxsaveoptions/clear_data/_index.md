@@ -3,13 +3,11 @@ title: clear_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells/pptxsaveoptions/clear_data/
 is_root: false
 ---
 ##  clear_data عقار
-
-اجعل المصنف فارغًا بعد حفظ الملف.
 ###  تعريف:
 ```python
 @property

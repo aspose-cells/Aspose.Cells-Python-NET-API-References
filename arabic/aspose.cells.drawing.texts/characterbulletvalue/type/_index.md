@@ -1,5 +1,5 @@
 ---
-title: type الملكية
+title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 40
 url: /ar/aspose.cells.drawing.texts/characterbulletvalue/type/
 is_root: false
 ---
-##  type الملكية
+##  type عقار
 
 يحصل على type من الرصاصة.
 ###  تعريف:
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [BulletType](/cells/python-net/ar/aspose.cells.drawing.texts/bullettype)
-* فئة [CharacterBulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/characterbulletvalue)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`BulletType`](/cells/python-net/ar/aspose.cells.drawing.texts/bullettype)
+* فئة [`CharacterBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/characterbulletvalue)

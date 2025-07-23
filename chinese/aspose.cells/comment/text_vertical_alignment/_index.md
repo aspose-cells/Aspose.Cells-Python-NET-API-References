@@ -9,7 +9,7 @@ is_root: false
 ---
 ## text_vertical_alignment属性
 
-获取和设置注释的文本垂直对齐类型。
+获取和设置注意事项的文本垂直对齐类型。
 
 ### 例子
 

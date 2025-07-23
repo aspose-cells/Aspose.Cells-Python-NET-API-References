@@ -1,15 +1,15 @@
 ---
-title: xml_map الملكية
+title: xml_map عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 310
 url: /ar/aspose.cells.tables/listobject/xml_map/
 is_root: false
 ---
-##  xml_map الملكية
+##  xml_map عقار
 
-الحصول على [ListObject.xml_map](/cells/python-net/ar/aspose.cells.tables/listobject#xml_map) المستخدم لهذه القائمة.
+يحصل على [`ListObject.xml_map`](/cells/python-net/ar/aspose.cells.tables/listobject#xml_map) المستخدم لهذه القائمة.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def xml_map(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListObject](/cells/python-net/ar/aspose.cells.tables/listobject)
-* فئة [XmlMap](/cells/python-net/ar/aspose.cells/xmlmap)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListObject`](/cells/python-net/ar/aspose.cells.tables/listobject)
+* فئة [`XmlMap`](/cells/python-net/ar/aspose.cells/xmlmap)

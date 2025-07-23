@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 340
 url: /ar/aspose.cells.charts/series/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-الحصول على او تحديد name لسلسلة البيانات.
+يحصل على أو يعين name من سلسلة البيانات.
 
 ###  مثال
 
@@ -32,5 +32,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

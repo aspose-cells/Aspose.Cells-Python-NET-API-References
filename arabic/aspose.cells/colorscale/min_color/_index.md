@@ -1,5 +1,5 @@
 ---
-title: min_color الملكية
+title: min_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells/colorscale/min_color/
 is_root: false
 ---
-##  min_color الملكية
+##  min_color عقار
 
-احصل على لون التدرج أو عيّنه للحد الأدنى لقيمة في النطاق.
+احصل على لون التدرج أو قم بتعيينه للقيمة الدنيا في النطاق.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def min_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ColorScale](/cells/python-net/ar/aspose.cells/colorscale)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ColorScale`](/cells/python-net/ar/aspose.cells/colorscale)

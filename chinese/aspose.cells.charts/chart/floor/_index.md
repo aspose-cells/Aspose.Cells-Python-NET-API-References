@@ -9,11 +9,11 @@ is_root: false
 ---
 ## floor属性
 
-返回代表 3D 图表墙的 [`Chart.floor`](/cells/python-net/zh/aspose.cells.charts/chart#floor) 对象。
+返回代表三维图表墙的 [`Chart.floor`](/cells/python-net/zh/aspose.cells.charts/chart#floor) 对象。
 
-### 评论
+### 注意事项
 
-此属性不适用于 3D 饼图。
+此属性不适用于三维饼图。
 ### 定义：
 ```python
 @property

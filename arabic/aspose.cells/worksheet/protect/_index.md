@@ -3,16 +3,17 @@ title: طريقة protect
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 220
 url: /ar/aspose.cells/worksheet/protect/
 is_root: false
 ---
-##  protect {#aspose.cells.ProtectionType}
+##  protect(self, type) {#aspose.cells.ProtectionType}
 يحمي ورقة العمل.
 
 
 
 ```python
+
 def protect(self, type):
     ...
 ```
@@ -23,15 +24,16 @@ def protect(self, type):
 | type | [`ProtectionType`](/cells/python-net/ar/aspose.cells/protectiontype) | نوع الحماية.|
 ###  ملاحظات
 
-تحمي هذه الطريقة ورقة العمل بدون كلمة مرور. ويمكن protect ورقة عمل في كافة إصدارات ملف Excel.
+هذه الطريقة تحمي أوراق العمل دون كلمة مرور. تتوافق مع جميع إصدارات ملفات إكسل.
 
-##  protect {#aspose.cells.ProtectionType-str-str}
+##  protect(self, type, password, old_password) {#aspose.cells.ProtectionType-str-str}
 
 يحمي ورقة العمل.
 
 
 
 ```python
+
 def protect(self, type, password, old_password):
     ...
 ```
@@ -41,10 +43,10 @@ def protect(self, type, password, old_password):
 | :- | :- | :- |
 | type | [`ProtectionType`](/cells/python-net/ar/aspose.cells/protectiontype) | نوع الحماية.|
 | password | str | كلمة المرور.|
-| old_password | str | إذا كانت ورقة العمل محمية بالفعل بكلمة مرور، فيرجى إدخال كلمة المرور القديمة.<br/> بخلاف ذلك، يمكنك تعيين قيمة فارغة أو سلسلة فارغة لهذه المعلمة.|
+| old_password | str | إذا كانت ورقة العمل محمية بالفعل بكلمة مرور، فيرجى تقديم كلمة المرور القديمة.<br/> يمكنك أيضًا تعيين قيمة فارغة أو سلسلة فارغة لهذه المعلمة.|
 ###  ملاحظات
 
-يمكن بهذه الطريقة protect ورقة عمل في كافة إصدارات ملف Excel.
+يمكن لهذه الطريقة protect ورقة عمل في جميع إصدارات ملف Excel.
 ###  مثال
 
 

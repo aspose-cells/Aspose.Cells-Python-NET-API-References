@@ -3,12 +3,12 @@ title: StyleFlag类
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1470
+weight: 1360
 url: /zh/aspose.cells/styleflag/
 is_root: false
 ---
 ## StyleFlag类
-表示指示应用的格式属性的标志。
+表示指示所应用的格式属性的标志。
 
 
 
@@ -17,19 +17,19 @@ StyleFlag 类型公开以下成员：
 ### 构造函数
 |构造函数|描述|
 | :- | :- |
-| [__init__](/cells/python-net/zh/aspose.cells/styleflag/__init__/#) |构造一个所有标志均为 false 的对象。|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells/styleflag/__init__/#) |构造一个所有标志都为 false 的对象。|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [all](/cells/python-net/zh/aspose.cells/styleflag/all) |将应用所有属性。|
-| [borders](/cells/python-net/zh/aspose.cells/styleflag/borders) |将应用所有边框设置。|
+| [all](/cells/python-net/zh/aspose.cells/styleflag/all) |所有属性都将被应用。|
+| [borders](/cells/python-net/zh/aspose.cells/styleflag/borders) |所有边框设置都将被应用。|
 | [left_border](/cells/python-net/zh/aspose.cells/styleflag/left_border) |将应用左边框设置。|
 | [right_border](/cells/python-net/zh/aspose.cells/styleflag/right_border) |将应用右边框设置。|
 | [top_border](/cells/python-net/zh/aspose.cells/styleflag/top_border) |将应用顶部边框设置。|
 | [bottom_border](/cells/python-net/zh/aspose.cells/styleflag/bottom_border) |将应用底部边框设置。|
-| [diagonal_down_border](/cells/python-net/zh/aspose.cells/styleflag/diagonal_down_border) |将应用对角线下边框设置。|
+| [diagonal_down_border](/cells/python-net/zh/aspose.cells/styleflag/diagonal_down_border) |将应用对角向下的边框设置。|
 | [diagonal_up_border](/cells/python-net/zh/aspose.cells/styleflag/diagonal_up_border) |将应用对角向上边框设置。|
 | [font](/cells/python-net/zh/aspose.cells/styleflag/font) |将应用字体设置。|
 | [font_size](/cells/python-net/zh/aspose.cells/styleflag/font_size) |将应用字体大小设置。|
@@ -47,9 +47,9 @@ StyleFlag 类型公开以下成员：
 | [indent](/cells/python-net/zh/aspose.cells/styleflag/indent) |将应用缩进级别设置。|
 | [rotation](/cells/python-net/zh/aspose.cells/styleflag/rotation) |将应用旋转设置。|
 | [wrap_text](/cells/python-net/zh/aspose.cells/styleflag/wrap_text) |将应用换行文本设置。|
-| [shrink_to_fit](/cells/python-net/zh/aspose.cells/styleflag/shrink_to_fit) |将应用收缩至适合设置。|
+| [shrink_to_fit](/cells/python-net/zh/aspose.cells/styleflag/shrink_to_fit) |将应用“缩小以适应”设置。|
 | [text_direction](/cells/python-net/zh/aspose.cells/styleflag/text_direction) |将应用文本方向设置。|
-| [cell_shading](/cells/python-net/zh/aspose.cells/styleflag/cell_shading) | Cell 将应用阴影设置。|
+| [cell_shading](/cells/python-net/zh/aspose.cells/styleflag/cell_shading) | Cell 阴影设置将被应用。|
 | [locked](/cells/python-net/zh/aspose.cells/styleflag/locked) |将应用锁定设置。|
 | [hide_formula](/cells/python-net/zh/aspose.cells/styleflag/hide_formula) |将应用隐藏公式设置。|
 | [quote_prefix](/cells/python-net/zh/aspose.cells/styleflag/quote_prefix) |将应用隐藏公式设置。|

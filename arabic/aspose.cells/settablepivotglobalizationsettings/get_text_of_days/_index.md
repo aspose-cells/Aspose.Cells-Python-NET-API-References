@@ -3,12 +3,12 @@ title: طريقة get_text_of_days
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells/settablepivotglobalizationsettings/get_text_of_days/
 is_root: false
 ---
-##  get_text_of_days {#}
-الحصول على النص المحلي لـ "الأيام".
+##  get_text_of_days(self) {#}
+يحصل على النص المحلي لـ "الأيام".
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_days(self):
     ...
 ```

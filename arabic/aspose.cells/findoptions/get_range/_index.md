@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/findoptions/get_range/
 is_root: false
 ---
-##  get_range() {#}
-يحصل ويضبط النطاق الذي تم البحث فيه.
+##  get_range(self) {#}
+يحصل على نطاق البحث ويحدده.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_range(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_range(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FindOptions](/cells/python-net/ar/aspose.cells/findoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FindOptions`](/cells/python-net/ar/aspose.cells/findoptions)

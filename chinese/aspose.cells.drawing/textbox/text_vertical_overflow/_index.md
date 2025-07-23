@@ -3,13 +3,13 @@ title: text_vertical_overflow属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /zh/aspose.cells.drawing/textbox/text_vertical_overflow/
 is_root: false
 ---
 ## text_vertical_overflow属性
 
-获取和设置包含文本的形状的文本垂直溢出类型。
+获取并设置包含文本的形状的文本垂直溢出类型。
 
 ### 例子
 

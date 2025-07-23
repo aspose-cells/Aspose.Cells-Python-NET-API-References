@@ -1,15 +1,15 @@
 ---
-title: value الملكية
+title: value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 230
 url: /ar/aspose.cells/unionrange/value/
 is_root: false
 ---
-##  value الملكية
+##  value عقار
 
-الحصول على قيم النطاق وتعيينها.
+يحصل على قيم النطاق ويحددها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

@@ -1,5 +1,5 @@
 ---
-title: row_height الملكية
+title: row_height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,15 +7,15 @@ weight: 220
 url: /ar/aspose.cells.slicers/slicer/row_height/
 is_root: false
 ---
-##  row_height الملكية
+##  row_height عقار
 
-إرجاع أو تعيين ارتفاع كل صف في مقسم طريقة العرض المحدد بالنقاط.
+يقوم بإرجاع أو تعيين الارتفاع، بالنقاط، لكل صف في المقطع المحدد.
 
 ###  مثال
 
 ```python
 
-slicer.row_height = 20
+slicer.row_height = 20.0
 
 ```
 ###  تعريف:
@@ -29,5 +29,5 @@ def row_height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

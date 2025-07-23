@@ -9,7 +9,7 @@ is_root: false
 ---
 ## type属性
 
-获取数据透视表字段的组 type。
+获取数据透视字段的组 type。
 ### 定义：
 ```python
 @property

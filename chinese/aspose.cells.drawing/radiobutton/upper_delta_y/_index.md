@@ -3,15 +3,15 @@ title: upper_delta_y属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /zh/aspose.cells.drawing/radiobutton/upper_delta_y/
 is_root: false
 ---
 ## upper_delta_y属性
 
-获取或设置形状相对于其左上角行的垂直偏移量。
+获取或设置形状与其左上角行的垂直偏移量。
 
-### 评论
+### 注意事项
 
 值的范围是0到256。
 

@@ -3,13 +3,13 @@ title: shadow属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 920
+weight: 930
 url: /zh/aspose.cells.drawing/combobox/shadow/
 is_root: false
 ---
 ## shadow属性
 
-指示组合框是否具有 3-D 着色。
+指示组合框是否具有三维阴影。
 ### 定义：
 ```python
 @property

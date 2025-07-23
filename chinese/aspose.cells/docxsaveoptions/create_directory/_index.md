@@ -1,19 +1,13 @@
 ---
-title: create_directory 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: create_directory属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 50
+weight: 100
 url: /zh/aspose.cells/docxsaveoptions/create_directory/
 is_root: false
 ---
-## create_directory 属性
-
-如果为 true 并且目录不存在，则在保存文件之前会自动创建目录。
-
-### 评论
-
-默认值为假。
+## create_directory属性
 ### 定义：
 ```python
 @property
@@ -25,5 +19,5 @@ def create_directory(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DocxSaveOptions](/cells/python-net/zh/aspose.cells/docxsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`DocxSaveOptions`](/cells/python-net/zh/aspose.cells/docxsaveoptions)

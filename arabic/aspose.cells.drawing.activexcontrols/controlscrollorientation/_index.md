@@ -1,27 +1,27 @@
 ---
-title: العد ControlScrollOrientation
+title: ControlScrollOrientation التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 230
 url: /ar/aspose.cells.drawing.activexcontrols/controlscrollorientation/
 is_root: false
 ---
-##  العد ControlScrollOrientation
+##  ControlScrollOrientation التعداد
 يمثل نوع اتجاه التمرير
 
 
 
-يكشف نوع ControlScrollOrientation الأعضاء التالية:
+يكشف النوع ControlScrollOrientation عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| AUTO | يتم تقديم التحكم أفقيًا عندما يكون عرض عنصر التحكم أكبر من ارتفاعه.<br/> يتم تقديم التحكم عموديًا بخلاف ذلك.|
-| VERTICAL |يتم تقديم التحكم عموديًا.|
-| HORIZONTAL | يتم تقديم التحكم أفقيًا.|
+| AUTO | يتم عرض عنصر التحكم أفقيًا عندما يكون عرض عنصر التحكم أكبر من ارتفاعه.<br/> يتم تقديم التحكم عموديا بخلاف ذلك.|
+| VERTICAL | يتم التحكم بشكل عمودي.|
+| HORIZONTAL | يتم التحكم أفقيًا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

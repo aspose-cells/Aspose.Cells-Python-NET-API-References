@@ -1,5 +1,5 @@
 ---
-title: drop_zones_visible الملكية
+title: drop_zones_visible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.charts/pivotoptions/drop_zones_visible/
 is_root: false
 ---
-##  drop_zones_visible الملكية
+##  drop_zones_visible عقار
 
-يحدد ما إذا كان يمكن ظهور أي عناصر تحكم محورية على المخطط المحوري.
+يحدد ما إذا كان من الممكن ظهور أي عناصر تحكم محورية على مخطط المحور.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def drop_zones_visible(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [PivotOptions](/cells/python-net/ar/aspose.cells.charts/pivotoptions)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`PivotOptions`](/cells/python-net/ar/aspose.cells.charts/pivotoptions)

@@ -3,7 +3,7 @@ title: is_visible属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 630
+weight: 660
 url: /zh/aspose.cells/worksheet/is_visible/
 is_root: false
 ---

@@ -3,16 +3,17 @@ title: طريقة start_access_cache
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 400
 url: /ar/aspose.cells/workbook/start_access_cache/
 is_root: false
 ---
-##  start_access_cache(opts) {#AccessCacheOptions}
-يبدأ الجلسة التي تستخدم ذاكرات التخزين المؤقت للوصول إلى البيانات.
+##  start_access_cache(self, opts) {#aspose.cells.AccessCacheOptions}
+بدء الجلسة التي تستخدم ذاكرة التخزين المؤقت للوصول إلى البيانات.
 
 
 
 ```python
+
 def start_access_cache(self, opts):
     ...
 ```
@@ -20,18 +21,18 @@ def start_access_cache(self, opts):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| opts | [AccessCacheOptions](/cells/python-net/ar/aspose.cells/accesscacheoptions) | خيارات الوصول إلى البيانات|
+| opts | [`AccessCacheOptions`](/cells/python-net/ar/aspose.cells/accesscacheoptions) | خيارات الوصول إلى البيانات|
 ###  ملاحظات
 
-إذا كانت ذاكرة التخزين المؤقت للوصول إلى البيانات المحددة تتطلب أن تكون بعض نماذج البيانات في ورقة العمل "للقراءة فقط" ،
-ثم سيتم اعتبار نماذج البيانات المقابلة في كل ورقة عمل في هذا المصنف على أنها "للقراءة فقط"
-ويجب ألا يغير المستخدم أيًا منها.
+إذا كانت ذاكرة التخزين المؤقت لوصول البيانات المحددة تتطلب أن تكون بعض نماذج البيانات في ورقة العمل "للقراءة فقط"،
+ثم سيتم اعتبار نماذج البيانات المقابلة في كل ورقة عمل في هذا المصنف "للقراءة فقط"
+ويجب على المستخدم عدم تغيير أي منها.
 
 
-بعد الانتهاء من الوصول إلى البيانات يجب على [Workbook.close_access_cache(opts)](/cells/python-net/ar/aspose.cells/workbook/close_access_cache)
-يتم استدعاؤها بنفس الخيارات لمسح جميع ذاكرات التخزين المؤقت واستعادة وضع الوصول العادي.
+بعد الانتهاء من الوصول إلى البيانات، يجب الاتصال بالرقم [`Workbook.close_access_cache`](/cells/python-net/ar/aspose.cells/workbook/close_access_cache)
+يمكن استدعاؤها بنفس الخيارات لمسح كافة ذاكرات التخزين المؤقت واستعادة وضع الوصول العادي.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

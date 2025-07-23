@@ -7,16 +7,17 @@ weight: 120
 url: /zh/aspose.cells/settableglobalizationsettings/get_local_built_in_name/
 is_root: false
 ---
-##  get_local_built_in_name {#str}
-根据给定的标准文本获取内置名称的区域设置相关文本。
+##  get_local_built_in_name(self, standard_name) {#str}
+根据给定的标准文本获取内置名称的区域相关文本。
 
 
-### 退货
+### 返回
 
-区域设置相关文本。区域设置由使用此设置的工作簿指定。
+依赖于区域设置的文本。区域设置由使用此设置的工作簿指定。
 
 
 ```python
+
 def get_local_built_in_name(self, standard_name):
     ...
 ```

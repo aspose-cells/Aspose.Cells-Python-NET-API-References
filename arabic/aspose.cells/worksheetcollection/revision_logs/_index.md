@@ -3,7 +3,7 @@ title: revision_logs عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 360
 url: /ar/aspose.cells/worksheetcollection/revision_logs/
 is_root: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: file_format_type الملكية
+title: file_format_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells/fileformatinfo/file_format_type/
 is_root: false
 ---
-##  file_format_type الملكية
+##  file_format_type عقار
 
 يحصل على تنسيق الملف المكتشف.
 ###  تعريف:
@@ -18,6 +18,6 @@ def file_format_type(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FileFormatInfo](/cells/python-net/ar/aspose.cells/fileformatinfo)
-* فئة [FileFormatType](/cells/python-net/ar/aspose.cells/fileformattype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FileFormatInfo`](/cells/python-net/ar/aspose.cells/fileformatinfo)
+* فئة [`FileFormatType`](/cells/python-net/ar/aspose.cells/fileformattype)

@@ -1,5 +1,5 @@
 ---
-title: العد TextOverflowType
+title: TextOverflowType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 1170
 url: /ar/aspose.cells.drawing/textoverflowtype/
 is_root: false
 ---
-##  العد TextOverflowType
-يمثل طريقة تجاوز النص الرأسي أو الأفقي.
+##  TextOverflowType التعداد
+يمثل الطريقة التي يفيض بها النص عموديا أو أفقيا.
 
 
 
-يكشف نوع TextOverflowType الأعضاء التالية:
+يكشف النوع TextOverflowType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| CLIP | انتبه للحواجز العلوية والسفلية.<br/>لا تقدم أي إشارة إلى وجود نص غير مرئي.|
-| ELLIPSIS | انتبه للحواجز العلوية والسفلية.<br/>استخدم علامة القطع للإشارة إلى وجود نص غير مرئي.<br/> فقط من أجل الفائض الرأسي.|
-| OVERFLOW | تجاوز النص ولا تولي اهتماما للحواجز العلوية والسفلية.|
+| CLIP | انتبه إلى الحواجز العلوية والسفلية.<br/> لا تقدم أي إشارة إلى وجود نص غير مرئي.|
+| ELLIPSIS | انتبه إلى الحواجز العلوية والسفلية.<br/>استخدم علامة الحذف للإشارة إلى وجود نص غير مرئي.<br/> فقط للفيضان الرأسي.|
+| OVERFLOW | تجاوز النص ولا تهتم بالحواجز العلوية والسفلية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

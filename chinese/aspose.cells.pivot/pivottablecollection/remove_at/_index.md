@@ -1,18 +1,19 @@
 ---
 title: remove_at方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 70
+weight: 80
 url: /zh/aspose.cells.pivot/pivottablecollection/remove_at/
 is_root: false
 ---
-##  remove_at(index, keep_data) {#int-bool}
+##  remove_at(self, index, keep_data) {#int-bool}
 删除指定索引处的数据透视表
 
 
 
 ```python
+
 def remove_at(self, index, keep_data):
     ...
 ```
@@ -26,5 +27,5 @@ def remove_at(self, index, keep_data):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotTableCollection](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotTableCollection`](/cells/python-net/zh/aspose.cells.pivot/pivottablecollection)

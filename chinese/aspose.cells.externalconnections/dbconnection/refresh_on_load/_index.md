@@ -1,15 +1,13 @@
 ---
-title: refresh_on_load 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: refresh_on_load属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 260
 url: /zh/aspose.cells.externalconnections/dbconnection/refresh_on_load/
 is_root: false
 ---
-## refresh_on_load 属性
-
-如果在打开文件时应刷新此连接，则为真；否则为真。否则，假的。
+## refresh_on_load属性
 ### 定义：
 ```python
 @property
@@ -21,5 +19,5 @@ def refresh_on_load(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.externalconnections](../../)
-* 类 [DBConnection](/cells/python-net/zh/aspose.cells.externalconnections/dbconnection)
+* 模块[`aspose.cells.externalconnections`](../../)
+* 类 [`DBConnection`](/cells/python-net/zh/aspose.cells.externalconnections/dbconnection)

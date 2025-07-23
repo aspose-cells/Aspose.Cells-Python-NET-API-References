@@ -3,7 +3,7 @@ title: PasteOperationType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2440
+weight: 2410
 url: /zh/aspose.cells/pasteoperationtype/
 is_root: false
 ---
@@ -14,10 +14,10 @@ is_root: false
 
 PasteOperationType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| NONE |没有操作。|
+| NONE |无操作。|
 | ADD |添加|
 | SUBTRACT |减去|
 | MULTIPLY |乘|

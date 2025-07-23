@@ -1,0 +1,26 @@
+---
+title: language_code propiedad
+second_title: Aspose.Cells for Python via .NET API Referencias
+description:
+type: docs
+weight: 130
+url: /es/aspose.cells.loading/dbfloadoptions/language_code/
+is_root: false
+---
+##  language_code propiedad
+
+Obtiene o establece el idioma de la interfaz de usuario de la versión del libro de trabajo según el código de país que ha guardado el archivo.
+###  Definición:
+```python
+@property
+def language_code(self):
+    ...
+@language_code.setter
+def language_code(self, value):
+    ...
+```
+
+###  Ver también
+* módulo [`aspose.cells.loading`](../../)
+* clase [`CountryCode`](/cells/python-net/es/aspose.cells/countrycode)
+* clase [`DbfLoadOptions`](/cells/python-net/es/aspose.cells.loading/dbfloadoptions)

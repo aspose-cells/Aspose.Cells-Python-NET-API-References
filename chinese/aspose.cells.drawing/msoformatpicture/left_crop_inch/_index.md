@@ -9,7 +9,7 @@ is_root: false
 ---
 ## left_crop_inch属性
 
-表示所表示的裁剪矩形左侧的位置，单位为英寸。
+表示裁剪矩形左边的位置，单位为英寸。
 ### 定义：
 ```python
 @property

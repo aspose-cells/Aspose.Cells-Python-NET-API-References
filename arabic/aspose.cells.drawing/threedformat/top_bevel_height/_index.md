@@ -1,5 +1,5 @@
 ---
-title: top_bevel_height الملكية
+title: top_bevel_height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 190
 url: /ar/aspose.cells.drawing/threedformat/top_bevel_height/
 is_root: false
 ---
-##  top_bevel_height الملكية
+##  top_bevel_height عقار
 
-الحصول على ارتفاع الحافة العلوية وتعيينه ، أو إلى أي مدى يتم تطبيقه على الشكل.
-في وحدة النقاط.
+يحصل على ارتفاع الحافة العلوية ويضبطها، أو إلى أي مدى يتم تطبيقها في الشكل.
+بوحدة النقاط.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def top_bevel_height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ThreeDFormat](/cells/python-net/ar/aspose.cells.drawing/threedformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ThreeDFormat`](/cells/python-net/ar/aspose.cells.drawing/threedformat)

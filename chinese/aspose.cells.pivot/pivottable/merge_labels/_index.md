@@ -1,16 +1,15 @@
 ---
-title: merge_labels 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: merge_labels属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 650
+weight: 750
 url: /zh/aspose.cells.pivot/pivottable/merge_labels/
 is_root: false
 ---
-## merge_labels 属性
+## merge_labels属性
 
-指示指定数据透视表的外行项、列项、小计、
-总计标签使用合并的单元格。
+如果指定的数据透视表的外部行项、列项、小计和总计标签使用合并单元格，则为 True。
 ### 定义：
 ```python
 @property
@@ -22,5 +21,5 @@ def merge_labels(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotTable](/cells/python-net/zh/aspose.cells.pivot/pivottable)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotTable`](/cells/python-net/zh/aspose.cells.pivot/pivottable)

@@ -3,7 +3,7 @@ title: comment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 430
 url: /ar/aspose.cells/cell/comment/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  ملاحظات
 
-إذا لم يكن هناك comment ينطبق على الخلية، فسيتم إرجاع قيمة فارغة.
+إذا لم يتم تطبيق comment على الخلية، يتم إرجاع قيمة فارغة.
 ###  تعريف:
 ```python
 @property

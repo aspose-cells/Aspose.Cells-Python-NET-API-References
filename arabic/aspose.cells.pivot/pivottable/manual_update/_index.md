@@ -1,15 +1,15 @@
 ---
-title: manual_update الملكية
+title: manual_update عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 740
 url: /ar/aspose.cells.pivot/pivottable/manual_update/
 is_root: false
 ---
-##  manual_update الملكية
+##  manual_update عقار
 
-الإشارة إلى ما إذا كان سيتم إعادة حساب تقرير PivotTable بناءً على طلب المستخدم فقط.
+يشير إلى ما إذا كان سيتم إعادة حساب تقرير PivotTable فقط بناءً على طلب المستخدم.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def manual_update(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

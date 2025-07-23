@@ -1,20 +1,20 @@
 ---
-title: y الملكية
+title: y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 340
 url: /ar/aspose.cells.charts/chartframe/y/
 is_root: false
 ---
-##  y الملكية
+##  y عقار
 
-الحصول على أو تحديد إحداثيات y للركن الأيسر العلوي بوحدات 1/4000 من منطقة المخطط.
+يحصل على أو يضبط إحداثيات y للزاوية اليسرى العليا بوحدات 1/4000 من مساحة الرسم البياني.
 
 ###  ملاحظات
 
- كيفية تحويل وحدات من 1/4000 إلى بكسل؟
-ص بالبكسل = Y * Chart.ChartObject.Height / 4000 ؛
+ كيفية تحويل وحدات 1/4000 إلى بكسل؟
+Y بالبكسل = Y * Chart.ChartObject.Height / 4000d؛
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def y(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartFrame](/cells/python-net/ar/aspose.cells.charts/chartframe)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartFrame`](/cells/python-net/ar/aspose.cells.charts/chartframe)

@@ -1,31 +1,31 @@
 ---
-title: العد TextVerticalType
+title: TextVerticalType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 210
 url: /ar/aspose.cells.drawing.texts/textverticaltype/
 is_root: false
 ---
-##  العد TextVerticalType
+##  TextVerticalType التعداد
 يمثل نوع النص المباشر.
 
 
 
-يكشف نوع TextVerticalType الأعضاء التالية:
+يكشف النوع TextVerticalType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| VERTICAL | العرض الرأسي لشرق آسيا.|
+| VERTICAL | عرض عمودي في شرق آسيا.|
 | HORIZONTAL | نص أفقي.|
-| VERTICAL_LEFT_TO_RIGHT | يُعرض عموديًا ويتدفق النص من أعلى لأسفل ثم من اليسار إلى اليمين|
-| VERTICAL90 | يتم تدوير كل سطر 90 درجة في اتجاه عقارب الساعة|
+| VERTICAL_LEFT_TO_RIGHT | يتم عرضه عموديًا ويتدفق النص من أعلى إلى أسفل ثم من اليسار إلى اليمين|
+| VERTICAL90 | يتم تدوير كل خط بزاوية 90 درجة في اتجاه عقارب الساعة|
 | VERTICAL270 | يتم تدوير كل خط بمقدار 270 درجة في اتجاه عقارب الساعة|
-| STACKED | تحديد ما إذا كان النص كله رأسيًا|
-| STACKED_RIGHT_TO_LEFT | يحدد أن WordArt الرأسي يجب أن يظهر من اليمين إلى اليسار بدلاً من اليسار إلى اليمين.|
+| STACKED | يحدد ما إذا كان النص بأكمله عموديًا|
+| STACKED_RIGHT_TO_LEFT | يحدد أنه يجب عرض WordArt العمودي من اليمين إلى اليسار وليس من اليسار إلى اليمين.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
+* الوحدة [`aspose.cells.drawing.texts`](..)

@@ -3,12 +3,12 @@ title: طريقة get_text_of_seconds
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ar/aspose.cells.settings/pivotglobalizationsettings/get_text_of_seconds/
 is_root: false
 ---
-##  get_text_of_seconds {#}
-الحصول على النص المحلي لـ "الثواني"
+##  get_text_of_seconds(self) {#}
+يحصل على النص المحلي لـ "الثواني"
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_seconds(self):
     ...
 ```

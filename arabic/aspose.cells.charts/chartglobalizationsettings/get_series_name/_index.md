@@ -7,8 +7,8 @@ weight: 90
 url: /ar/aspose.cells.charts/chartglobalizationsettings/get_series_name/
 is_root: false
 ---
-##  get_series_name() {#}
-الحصول على اسم السلسلة في الرسم البياني.
+##  get_series_name(self) {#}
+يحصل على اسم السلسلة في الرسم البياني.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_series_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_series_name(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartGlobalizationSettings](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartGlobalizationSettings`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings)

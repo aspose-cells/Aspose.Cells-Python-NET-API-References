@@ -1,31 +1,31 @@
 ---
-title: ShadowEffect الدرجة
+title: ShadowEffect صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 510
+weight: 490
 url: /ar/aspose.cells.drawing/shadoweffect/
 is_root: false
 ---
-##  ShadowEffect الدرجة
-تحدد هذه الفئة تأثير الظل لعنصر المخطط أو الشكل.
+##  ShadowEffect صف
+تحدد هذه الفئة تأثير الظل لعناصر الرسم البياني أو الشكل.
 
 
 
-يكشف نوع ShadowEffect الأعضاء التالية:
+يكشف النوع ShadowEffect عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [preset_type](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/preset_type) | الحصول على نوع الظل المحدد مسبقًا للظل وتعيينه.|
-| [color](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/color) | الحصول على لون الظل وتعيينه.|
-| [transparency](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/transparency) | الحصول على درجة شفافية الظل وتعيينها. تتراوح من 0.0 (معتم) إلى 1.0 (واضح).|
-| [size](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/size) | الحصول على حجم الظل وتعيينه. تتراوح من 0 إلى 2.0.<br/> لا معنى له في الظل الداخلي.|
-| [blur](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/blur) |الحصول على ضبابية الظل وتعيينها. تتراوح من 0 إلى 100 نقطة.|
-| [angle](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/angle) | الحصول على وضبط زاوية الإضاءة. تتراوح من 0 إلى 359.9 درجة.|
-| [distance](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/distance) | يحصل ويضبط مسافة الظل. تتراوح من 0 إلى 200 نقطة.|
+| [preset_type](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/preset_type) | يحصل على نوع الظل المحدد مسبقًا ويقوم بتعيينه.|
+| [color](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/color) |يحصل على لون الظل ويحدده.|
+| [transparency](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/transparency) | يُحدِّد درجة شفافية الظل. يتراوح نطاقها بين ٠.٠ (معتم) و١.٠ (شفاف).|
+| [size](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/size) | يُحدِّد حجم الظل. يتراوح من ٠ إلى ٢.٠.<br/> لا معنى له في الظل الداخلي.|
+| [blur](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/blur) | يُحدِّد ضبابية الظل. نطاق من ٠ إلى ١٠٠ نقطة.|
+| [angle](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/angle) | يُحدِّد زاوية الإضاءة. يتراوح نطاقها بين ٠ و٣٥٩.٩ درجة.|
+| [distance](/cells/python-net/ar/aspose.cells.drawing/shadoweffect/distance) | يُحدِّد مسافة الظل. يتراوح النطاق بين ٠ و٢٠٠ نقطة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

@@ -8,7 +8,7 @@ url: /ar/aspose.cells.charts/backgroundmode/
 is_root: false
 ---
 ##  BackgroundMode التعداد
-يمثل وضع العرض للخلفية.
+يمثل وضع عرض الخلفية.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| AUTOMATIC |تلقائي|
-| OPAQUE | مبهمة|
+| AUTOMATIC | أوتوماتيكي|
+| OPAQUE | معتم|
 | TRANSPARENT | شفاف|
 
 

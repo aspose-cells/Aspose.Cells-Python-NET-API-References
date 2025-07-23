@@ -3,13 +3,20 @@ title: is_lock_aspect_ratio عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 660
+weight: 670
 url: /ar/aspose.cells.drawing/arcshape/is_lock_aspect_ratio/
 is_root: false
 ---
 ##  is_lock_aspect_ratio عقار
 
-صحيح يعني أنه لا يسمح بإجراء تغييرات في نسبة العرض إلى الارتفاع.
+صحيح يعني أن نسبة العرض إلى الارتفاع للشكل مقفلة.
+
+###  ملاحظات
+
+للصور والأشياء القديمة فقط.
+ ملاحظة: هذا العنصر أصبح قديمًا. بدلاً من ذلك، يُرجى استخدام خاصية Shape.IsAspectRatioLocked.
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ يوليو 2024.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 ###  مثال
 

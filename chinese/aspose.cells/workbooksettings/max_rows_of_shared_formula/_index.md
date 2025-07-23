@@ -3,17 +3,17 @@ title: max_rows_of_shared_formula属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 320
+weight: 350
 url: /zh/aspose.cells/workbooksettings/max_rows_of_shared_formula/
 is_root: false
 ---
 ## max_rows_of_shared_formula属性
 
-获取和设置共享公式的最大行数。
+获取并设置共享公式的最大行数。
 
-### 评论
+### 注意事项
 
-如果数字太大，自动筛选器在 MS Excel 2013 中运行速度会非常慢。
+如果数字太大，自动过滤器在 MS Excel 2013 中的运行速度会非常慢。
 ### 定义：
 ```python
 @property

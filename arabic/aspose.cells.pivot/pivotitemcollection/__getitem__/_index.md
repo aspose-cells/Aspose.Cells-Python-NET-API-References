@@ -1,16 +1,16 @@
 ---
-title: PivotItemCollection مفهرس
+title: PivotItemCollection فهرس
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 50
 url: /ar/aspose.cells.pivot/pivotitemcollection/__getitem__/
 is_root: false
 ---
-##  PivotItemCollection مفهرس
+##  PivotItemCollection فهرس
 
-الحصول على كائن PivotItem عند الفهرس المحدد.
-###  مفهرس
+يحصل على كائن PivotItem في الفهرس المحدد.
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
 | index |  |
@@ -18,5 +18,5 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotItemCollection](/cells/python-net/ar/aspose.cells.pivot/pivotitemcollection)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotItemCollection`](/cells/python-net/ar/aspose.cells.pivot/pivotitemcollection)

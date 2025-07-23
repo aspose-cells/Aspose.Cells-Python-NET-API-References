@@ -9,7 +9,7 @@ is_root: false
 ---
 ## cross_type属性
 
-表示指定轴上与其他轴相交的 [`Axis.cross_type`](/cells/python-net/zh/aspose.cells.charts/axis#cross_type)。
+表示指定轴上与另一个轴相交的 [`Axis.cross_type`](/cells/python-net/zh/aspose.cells.charts/axis#cross_type)。
 ### 定义：
 ```python
 @property

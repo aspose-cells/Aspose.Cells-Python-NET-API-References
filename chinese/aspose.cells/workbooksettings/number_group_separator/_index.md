@@ -3,13 +3,13 @@ title: number_group_separator属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 350
+weight: 380
 url: /zh/aspose.cells/workbooksettings/number_group_separator/
 is_root: false
 ---
 ## number_group_separator属性
 
-获取或设置分隔数值中小数点左侧数字组的字符。默认为当前Region的组分隔符。
+获取或设置数值中小数点左侧数字组的分隔符。默认值为当前区域的组分隔符。
 ### 定义：
 ```python
 @property

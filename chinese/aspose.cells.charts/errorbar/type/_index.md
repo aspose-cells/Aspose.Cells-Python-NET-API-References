@@ -1,15 +1,15 @@
 ---
-title: type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 270
 url: /zh/aspose.cells.charts/errorbar/type/
 is_root: false
 ---
-## type 属性
+## type属性
 
-表示错误栏金额 type。
+表示误差线数量 type。
 
 ### 例子
 
@@ -37,6 +37,6 @@ def type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ErrorBar](/cells/python-net/zh/aspose.cells.charts/errorbar)
-* 类 [ErrorBarType](/cells/python-net/zh/aspose.cells.charts/errorbartype)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ErrorBar`](/cells/python-net/zh/aspose.cells.charts/errorbar)
+* 类 [`ErrorBarType`](/cells/python-net/zh/aspose.cells.charts/errorbartype)

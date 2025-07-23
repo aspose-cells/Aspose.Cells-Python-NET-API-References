@@ -1,13 +1,13 @@
 ---
-title: shadow 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: shadow属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 280
+weight: 340
 url: /zh/aspose.cells.charts/charttextframe/shadow/
 is_root: false
 ---
-## shadow 属性
+## shadow属性
 
 如果框架具有 shadow，则为真。
 ### 定义：
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartTextFrame](/cells/python-net/zh/aspose.cells.charts/charttextframe)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartTextFrame`](/cells/python-net/zh/aspose.cells.charts/charttextframe)

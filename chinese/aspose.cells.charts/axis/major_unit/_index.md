@@ -3,7 +3,7 @@ title: major_unit属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 300
+weight: 310
 url: /zh/aspose.cells.charts/axis/major_unit/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 代表轴的主要单位。
 
-### 评论
+### 注意事项
 
 主要单位必须大于零。
 ### 定义：

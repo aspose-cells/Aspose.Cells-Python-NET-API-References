@@ -3,7 +3,7 @@ title: show_all_sheets属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 640
+weight: 740
 url: /zh/aspose.cells/htmlsaveoptions/show_all_sheets/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 指示保存为单个 html 文件时是否显示所有工作表。
 
-### 评论
+### 注意事项
 
 仅当 [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/zh/aspose.cells/htmlsaveoptions#save_as_single_file) 为 True 时才有效。
 ### 定义：

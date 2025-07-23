@@ -1,21 +1,21 @@
 ---
-title: trim_tailing_blank_cells الملكية
+title: trim_tailing_blank_cells عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells/txtsaveoptions/trim_tailing_blank_cells/
 is_root: false
 ---
-##  trim_tailing_blank_cells الملكية
+##  trim_tailing_blank_cells عقار
 
-يشير إلى ما إذا كان يجب قطع خلايا فارغة في صف واحد أم لا. الافتراضي هو خطأ.
+يشير إلى ما إذا كان يجب تقليم الخلايا الفارغة في نهاية صف واحد. القيمة الافتراضية هي خطأ.
 
 ###  ملاحظات
 
-عند الحفظ باستخدام وضع LightCells ولم يتم تحديد [TxtSaveOptions.export_area](/cells/python-net/ar/aspose.cells/txtsaveoptions#export_area) ،
-لا يسري هذا الخيار وسيمتد صف واحد فقط إلى الخلية الأخيرة التي يوفرها
-تنفيذ [TxtSaveOptions.light_cells_data_provider](/cells/python-net/ar/aspose.cells/txtsaveoptions#light_cells_data_provider)
+عند الحفظ باستخدام وضع LightCells ولم يتم تحديد [`TxtSaveOptions.export_area`](/cells/python-net/ar/aspose.cells/txtsaveoptions#export_area)،
+لا يؤثر هذا الخيار على أي شيء وسيتم تمديد صف واحد فقط إلى الخلية الأخيرة التي يوفرها
+التنفيذ [`TxtSaveOptions.LightCellsDataProvider`](/cells/python-net/ar/aspose.cells/txtsaveoptions)
 ###  تعريف:
 ```python
 @property
@@ -27,5 +27,5 @@ def trim_tailing_blank_cells(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TxtSaveOptions](/cells/python-net/ar/aspose.cells/txtsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TxtSaveOptions`](/cells/python-net/ar/aspose.cells/txtsaveoptions)

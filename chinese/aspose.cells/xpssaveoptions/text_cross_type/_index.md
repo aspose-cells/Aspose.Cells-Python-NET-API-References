@@ -3,13 +3,11 @@ title: text_cross_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 280
+weight: 320
 url: /zh/aspose.cells/xpssaveoptions/text_cross_type/
 is_root: false
 ---
 ## text_cross_type属性
-
-获取或设置当文本宽度大于单元格宽度时显示的文本类型。
 ### 定义：
 ```python
 @property

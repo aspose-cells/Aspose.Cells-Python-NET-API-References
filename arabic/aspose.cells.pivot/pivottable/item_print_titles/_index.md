@@ -1,16 +1,22 @@
 ---
-title: item_print_titles الملكية
+title: item_print_titles عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 630
+weight: 730
 url: /ar/aspose.cells.pivot/pivottable/item_print_titles/
 is_root: false
 ---
-##  item_print_titles الملكية
+##  item_print_titles عقار
 
-بت يحدد ما إذا كانت تسميات توضيحية لعنصر محوري على محور الصف أم لا
-تتكرر في كل صفحة مطبوعة للحقول المحورية في شكل جدول.
+يشير إلى ما إذا كان يجب تكرار أسماء PivotItem في الجزء العلوي من كل صفحة مطبوعة.
+
+###  ملاحظات
+
+ ملاحظة: هذه الخاصية أصبحت قديمة الآن. بدلاً من ذلك،
+الرجاء استخدام الخاصية PivotTable.RepeatItemsOnEachPrintedPage.
+ سيتم إزالة هذه الطريقة بعد مرور 12 شهرًا منذ أكتوبر 2024.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +28,5 @@ def item_print_titles(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

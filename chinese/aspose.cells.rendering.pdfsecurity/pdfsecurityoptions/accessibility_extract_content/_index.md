@@ -9,7 +9,7 @@ is_root: false
 ---
 ## accessibility_extract_content属性
 
-指示是否允许提取文本和图形（以支持残障用户的辅助功能或用于其他目的）。
+指示是否允许提取文本和图形（以支持残障用户的可访问性或用于其他目的）。
 ### 定义：
 ```python
 @property

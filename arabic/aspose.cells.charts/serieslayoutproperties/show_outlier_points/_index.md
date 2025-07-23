@@ -1,15 +1,15 @@
 ---
-title: show_outlier_points الملكية
+title: show_outlier_points عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells.charts/serieslayoutproperties/show_outlier_points/
 is_root: false
 ---
-##  show_outlier_points الملكية
+##  show_outlier_points عقار
 
-يشير إلى ما إذا كان يظهر نقاط البيانات الخارجية.
+يشير إلى ما إذا كان يتم عرض نقاط البيانات المتطرفة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_outlier_points(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [SeriesLayoutProperties](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`SeriesLayoutProperties`](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ## start属性
 
-获取群组的日期时间 start。
+获取组的 start 日期时间。
 ### 定义：
 ```python
 @property

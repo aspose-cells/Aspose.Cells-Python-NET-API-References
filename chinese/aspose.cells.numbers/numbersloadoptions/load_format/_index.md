@@ -1,13 +1,13 @@
 ---
-title: load_format 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: load_format属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 150
 url: /zh/aspose.cells.numbers/numbersloadoptions/load_format/
 is_root: false
 ---
-## load_format 属性
+## load_format属性
 
 获取加载格式。
 ### 定义：
@@ -18,6 +18,6 @@ def load_format(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.numbers](../../)
-* 类 [LoadFormat](/cells/python-net/zh/aspose.cells/loadformat)
-* 类 [NumbersLoadOptions](/cells/python-net/zh/aspose.cells.numbers/numbersloadoptions)
+* 模块[`aspose.cells.numbers`](../../)
+* 类 [`LoadFormat`](/cells/python-net/zh/aspose.cells/loadformat)
+* 类 [`NumbersLoadOptions`](/cells/python-net/zh/aspose.cells.numbers/numbersloadoptions)

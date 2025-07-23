@@ -1,19 +1,19 @@
 ---
-title: version الملكية
+title: version عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 410
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/version/
 is_root: false
 ---
-##  version الملكية
+##  version عقار
 
-يمثل رقم version للتطبيق الذي قام بتكوين الوثيقة.
+يمثل رقم version للتطبيق الذي أنشأ المستند.
 
 ###  ملاحظات
 
-تنسيقها هو "00.0000" ، على سبيل المثال: 12.0000
+تنسيقه هو "00.0000"، على سبيل المثال: 12.0000
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def version(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

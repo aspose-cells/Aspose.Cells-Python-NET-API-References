@@ -1,5 +1,5 @@
 ---
-title: appref الملكية
+title: appref عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.webextensions/webextensionbinding/appref/
 is_root: false
 ---
-##  appref الملكية
+##  appref عقار
 
-الحصول على وتعيين مفتاح الربط المستخدم لتعيين إدخال الربط في هذه القائمة بالبيانات المرتبطة في المستند.
+يحصل على مفتاح الربط المستخدم لربط إدخال الربط في هذه القائمة بالبيانات المرتبطة في المستند ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def appref(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionBinding](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionBinding`](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding)

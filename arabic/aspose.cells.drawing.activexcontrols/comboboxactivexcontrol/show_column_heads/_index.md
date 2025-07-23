@@ -1,5 +1,5 @@
 ---
-title: show_column_heads الملكية
+title: show_column_heads عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 360
 url: /ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/show_column_heads/
 is_root: false
 ---
-##  show_column_heads الملكية
+##  show_column_heads عقار
 
-يشير إلى ما إذا كانت عناوين الأعمدة معروضة أم لا.
+يشير إلى ما إذا كان يتم عرض عناوين الأعمدة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_column_heads(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ComboBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ComboBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

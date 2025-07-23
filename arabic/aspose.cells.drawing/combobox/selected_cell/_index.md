@@ -3,13 +3,13 @@ title: selected_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 890
+weight: 900
 url: /ar/aspose.cells.drawing/combobox/selected_cell/
 is_root: false
 ---
 ##  selected_cell عقار
 
-الحصول على الخلية المحددة في نطاق الإدخال لمربع التحرير والسرد.
+يحصل على الخلية المحددة في نطاق الإدخال الخاص بالمربع المختلط.
 ###  تعريف:
 ```python
 @property

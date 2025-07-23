@@ -1,5 +1,5 @@
 ---
-title: end_arrowhead_length الملكية
+title: end_arrowhead_length عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 120
 url: /ar/aspose.cells.drawing/lineformat/end_arrowhead_length/
 is_root: false
 ---
-##  end_arrowhead_length الملكية
+##  end_arrowhead_length عقار
 
-الحصول على نوع طول سهم النهاية للخط وتعيينه.
+يحصل على نوع طول السهم النهائي للخط ويقوم بتعيينه.
 
 ###  مثال
 
@@ -30,6 +30,6 @@ def end_arrowhead_length(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
-* فئة [MsoArrowheadLength](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadlength)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* فئة [`MsoArrowheadLength`](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadlength)

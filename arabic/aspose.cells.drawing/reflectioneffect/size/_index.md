@@ -1,5 +1,5 @@
 ---
-title: size الملكية
+title: size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells.drawing/reflectioneffect/size/
 is_root: false
 ---
-##  size الملكية
+##  size عقار
 
-الحصول على وتعيين موضع النهاية (على طول منحدر التدرج ألفا) لقيمة ألفا النهائية ، بوحدة النسبة المئوية
+يحصل على ويحدد موضع النهاية (على طول منحدر التدرج ألفا) لقيمة ألفا النهائية، بوحدة النسبة المئوية
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ReflectionEffect](/cells/python-net/ar/aspose.cells.drawing/reflectioneffect)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ReflectionEffect`](/cells/python-net/ar/aspose.cells.drawing/reflectioneffect)

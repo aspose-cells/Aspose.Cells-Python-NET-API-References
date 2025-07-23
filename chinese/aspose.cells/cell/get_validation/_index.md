@@ -1,13 +1,13 @@
 ---
 title: get_validation方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 240
 url: /zh/aspose.cells/cell/get_validation/
 is_root: false
 ---
-##  get_validation() {#}
+##  get_validation(self) {#}
 获取应用于此单元格的验证。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_validation(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_validation(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cell](/cells/python-net/zh/aspose.cells/cell)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cell`](/cells/python-net/zh/aspose.cells/cell)

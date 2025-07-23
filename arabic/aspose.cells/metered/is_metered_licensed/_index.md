@@ -7,17 +7,19 @@ weight: 50
 url: /ar/aspose.cells/metered/is_metered_licensed/
 is_root: false
 ---
-##  is_metered_licensed {#}
+##  is_metered_licensed() {#}
 تحقق مما إذا كان القياس مرخصًا
 
 
 ###  عائدات
 
-صحيحة أو خاطئة
+صحيح أو خطأ
 
 
 ```python
-def is_metered_licensed(self):
+
+@staticmethod
+def is_metered_licensed():
     ...
 ```
 

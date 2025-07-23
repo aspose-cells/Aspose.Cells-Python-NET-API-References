@@ -7,7 +7,7 @@ weight: 130
 url: /ar/aspose.cells/cell/get_formula/
 is_root: false
 ---
-##  get_formula(is_r1c1, is_local) {#bool-bool}
+##  get_formula(self, is_r1c1, is_local) {#bool-bool}
 احصل على صيغة هذه الخلية.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_formula(self, is_r1c1, is_local):
     ...
 ```
@@ -25,10 +26,10 @@ def get_formula(self, is_r1c1, is_local):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | is_r1c1 | bool | ما إذا كانت الصيغة تحتاج إلى تنسيقها كـ R1C1.|
-| is_local | bool | ما إذا كانت الصيغة تحتاج إلى التنسيق بواسطة الإعدادات المحلية.|
+| is_local | bool | ما إذا كانت الصيغة تحتاج إلى تنسيق حسب الإعدادات المحلية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

@@ -11,11 +11,11 @@ is_root: false
 
 解析自定义函数的定义。
 
-### 评论
+### 注意事项
 
-对于一些特殊的需求，比如在用户自定义引擎中计算自定义函数时，
-其某些参数需要以数组方式计算，使用该属性可以标记这些参数
-解析公式时作为数组模式。否则用户需要稍后更新这些自定义功能
+对于一些特殊需求，比如在用户自定义引擎中计算自定义函数时，
+有些参数需要以数组的方式计算，利用此属性可以标记这些参数
+解析公式时使用数组模式。否则，用户需要稍后通过以下方式更新这些自定义函数：
 [`Workbook.update_custom_function_definition`](/cells/python-net/zh/aspose.cells/workbook/update_custom_function_definition) 得到相同的结果。
 ### 定义：
 ```python

@@ -1,13 +1,13 @@
 ---
-title: locked_aspect_ratio 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: locked_aspect_ratio属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 160
 url: /zh/aspose.cells.slicers/slicer/locked_aspect_ratio/
 is_root: false
 ---
-## locked_aspect_ratio 属性
+## locked_aspect_ratio属性
 
 指示是否锁定纵横比。
 
@@ -29,5 +29,5 @@ def locked_aspect_ratio(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](../../)
-* 类 [Slicer](/cells/python-net/zh/aspose.cells.slicers/slicer)
+* 模块[`aspose.cells.slicers`](../../)
+* 类 [`Slicer`](/cells/python-net/zh/aspose.cells.slicers/slicer)

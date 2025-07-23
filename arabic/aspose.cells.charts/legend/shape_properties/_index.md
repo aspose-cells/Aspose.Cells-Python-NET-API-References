@@ -3,7 +3,7 @@ title: shape_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 400
 url: /ar/aspose.cells.charts/legend/shape_properties/
 is_root: false
 ---

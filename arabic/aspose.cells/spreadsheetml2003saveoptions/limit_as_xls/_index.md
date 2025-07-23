@@ -1,15 +1,15 @@
 ---
-title: limit_as_xls الملكية
+title: limit_as_xls عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 100
 url: /ar/aspose.cells/spreadsheetml2003saveoptions/limit_as_xls/
 is_root: false
 ---
-##  limit_as_xls الملكية
+##  limit_as_xls عقار
 
-حد xls ، مؤشر الصف الأقصى هو 65535 وفهرس العمود الأقصى هو 255.
+الحد الأقصى هو xls، الحد الأقصى لمؤشر الصف هو 65535 والحد الأقصى لمؤشر العمود هو 255.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def limit_as_xls(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [SpreadsheetML2003SaveOptions](/cells/python-net/ar/aspose.cells/spreadsheetml2003saveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`SpreadsheetML2003SaveOptions`](/cells/python-net/ar/aspose.cells/spreadsheetml2003saveoptions)

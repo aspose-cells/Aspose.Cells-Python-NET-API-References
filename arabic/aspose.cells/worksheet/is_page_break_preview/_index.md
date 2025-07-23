@@ -3,13 +3,13 @@ title: is_page_break_preview عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 610
 url: /ar/aspose.cells/worksheet/is_page_break_preview/
 is_root: false
 ---
 ##  is_page_break_preview عقار
 
-يشير إلى ما إذا كانت ورقة العمل المحددة ستظهر في العرض العادي أو معاينة فاصل الصفحات.
+يشير إلى ما إذا كانت ورقة العمل المحددة تظهر في العرض العادي أو معاينة كسر الصفحة.
 ###  تعريف:
 ```python
 @property

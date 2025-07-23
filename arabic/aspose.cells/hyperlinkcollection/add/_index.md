@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/hyperlinkcollection/add/
 is_root: false
 ---
-##  add(cell_name, total_rows, total_columns, address) {#str-int-int-str}
+##  add(self, cell_name, total_rows, total_columns, address) {#str-int-int-str}
 يضيف ارتباطًا تشعبيًا إلى خلية محددة أو نطاق من الخلايا.
 
 
 ###  عائدات
 
-[Hyperlink](/cells/python-net/ar/aspose.cells/hyperlink) فهرس العنصر.
+[`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink) فهرس الكائن.
 
 
 ```python
+
 def add(self, cell_name, total_rows, total_columns, address):
     ...
 ```
@@ -26,20 +27,21 @@ def add(self, cell_name, total_rows, total_columns, address):
 | :- | :- | :- |
 | cell_name | str | Cell الاسم.|
 | total_rows | int | عدد الصفوف في نطاق الارتباط التشعبي هذا.|
-| total_columns | int | عدد الأعمدة في نطاق الارتباط التشعبي هذا.|
-| address | str | عنوان الارتباط التشعبي.|
+| total_columns | int |عدد الأعمدة في نطاق الارتباط التشعبي هذا.|
+| address | str | عنوان الرابط التشعبي.|
 
 
-##  add(first_row, first_column, total_rows, total_columns, address) {#int-int-int-int-str}
+##  add(self, first_row, first_column, total_rows, total_columns, address) {#int-int-int-int-str}
 يضيف ارتباطًا تشعبيًا إلى خلية محددة أو نطاق من الخلايا.
 
 
 ###  عائدات
 
-[Hyperlink](/cells/python-net/ar/aspose.cells/hyperlink) فهرس العنصر.
+[`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink) فهرس الكائن.
 
 
 ```python
+
 def add(self, first_row, first_column, total_rows, total_columns, address):
     ...
 ```
@@ -50,8 +52,8 @@ def add(self, first_row, first_column, total_rows, total_columns, address):
 | first_row | int | الصف الأول من نطاق الارتباط التشعبي.|
 | first_column | int | العمود الأول من نطاق الارتباط التشعبي.|
 | total_rows | int | عدد الصفوف في نطاق الارتباط التشعبي هذا.|
-| total_columns | int | عدد الأعمدة في نطاق الارتباط التشعبي هذا.|
-| address | str | عنوان الارتباط التشعبي.|
+| total_columns | int |عدد الأعمدة في نطاق الارتباط التشعبي هذا.|
+| address | str | عنوان الرابط التشعبي.|
 
 ###  مثال
 
@@ -67,16 +69,17 @@ worksheet.hyperlinks.add("A5", 1, 1, "c:\\book1.xls")
 ```
 
 
-##  add(start_cell_name, end_cell_name, address, text_to_display, screen_tip) {#str-str-str-str-str}
+##  add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip) {#str-str-str-str-str}
 يضيف ارتباطًا تشعبيًا إلى خلية محددة أو نطاق من الخلايا.
 
 
 ###  عائدات
 
-[Hyperlink](/cells/python-net/ar/aspose.cells/hyperlink) فهرس العنصر.
+[`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink) فهرس الكائن.
 
 
 ```python
+
 def add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip):
     ...
 ```
@@ -84,15 +87,15 @@ def add(self, start_cell_name, end_cell_name, address, text_to_display, screen_t
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| start_cell_name | str | الخلية العلوية اليسرى من النطاق.|
-| end_cell_name | str | الخلية اليمنى السفلية من النطاق.|
-| address | str | عنوان الارتباط التشعبي.|
-| text_to_display | str | النص الذي سيتم عرضه للارتباط التشعبي المحدد.|
-| screen_tip | str |نص تلميح الشاشة للارتباط التشعبي المحدد.|
+| start_cell_name | str |الخلية الموجودة في أعلى يسار النطاق.|
+| end_cell_name | str | الخلية الموجودة في أسفل يمين النطاق.|
+| address | str | عنوان الرابط التشعبي.|
+| text_to_display | str | النص الذي سيتم عرضه للرابط التشعبي المحدد.|
+| screen_tip | str | نص تلميح الشاشة للرابط التشعبي المحدد.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Hyperlink](/cells/python-net/ar/aspose.cells/hyperlink)
-* فئة [HyperlinkCollection](/cells/python-net/ar/aspose.cells/hyperlinkcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink)
+* فئة [`HyperlinkCollection`](/cells/python-net/ar/aspose.cells/hyperlinkcollection)

@@ -3,13 +3,13 @@ title: is_calculated_field عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 490
 url: /ar/aspose.cells.pivot/pivotfield/is_calculated_field/
 is_root: false
 ---
 ##  is_calculated_field عقار
 
-الإشارة إلى ما إذا كان حقل PivotTable المحدد هو حقل محسوب.
+يشير إلى ما إذا كان حقل PivotTable المحدد هو حقل محسوب.
 ###  تعريف:
 ```python
 @property

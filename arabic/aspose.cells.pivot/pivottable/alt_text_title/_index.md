@@ -1,15 +1,15 @@
 ---
-title: alt_text_title الملكية
+title: alt_text_title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 390
 url: /ar/aspose.cells.pivot/pivottable/alt_text_title/
 is_root: false
 ---
-##  alt_text_title الملكية
+##  alt_text_title عقار
 
-يحصل على عنوان النص البديل
+يحصل على عنوان النص البديل ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def alt_text_title(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

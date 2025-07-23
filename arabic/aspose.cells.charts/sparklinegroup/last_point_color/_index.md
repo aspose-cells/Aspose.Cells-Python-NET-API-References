@@ -1,5 +1,5 @@
 ---
-title: last_point_color الملكية
+title: last_point_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells.charts/sparklinegroup/last_point_color/
 is_root: false
 ---
-##  last_point_color الملكية
+##  last_point_color عقار
 
-الحصول على لون النقطة الأخيرة من البيانات وتعيينه في مجموعة خط المؤشر.
+يحصل على لون آخر نقطة بيانات في مجموعة المخطط الشريطي ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def last_point_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [CellsColor](/cells/python-net/ar/aspose.cells/cellscolor)
-* فئة [SparklineGroup](/cells/python-net/ar/aspose.cells.charts/sparklinegroup)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`CellsColor`](/cells/python-net/ar/aspose.cells/cellscolor)
+* فئة [`SparklineGroup`](/cells/python-net/ar/aspose.cells.charts/sparklinegroup)

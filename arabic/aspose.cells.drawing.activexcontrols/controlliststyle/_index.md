@@ -1,26 +1,26 @@
 ---
-title: العد ControlListStyle
+title: ControlListStyle التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 160
 url: /ar/aspose.cells.drawing.activexcontrols/controlliststyle/
 is_root: false
 ---
-##  العد ControlListStyle
+##  ControlListStyle التعداد
 يمثل المظهر المرئي للقائمة في ListBox أو ComboBox.
 
 
 
-يكشف نوع ControlListStyle الأعضاء التالية:
+يكشف النوع ControlListStyle عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| PLAIN | يعرض قائمة يتم فيها تمييز خلفية عنصر عند تحديده.|
-| OPTION | يعرض قائمة يعرض فيها زر خيار أو مربع اختيار بجوار كل إدخال حالة التحديد لهذا العنصر.|
+| PLAIN | يعرض قائمة يتم فيها تسليط الضوء على خلفية العنصر عند تحديده.|
+| OPTION | يعرض قائمة حيث يعرض زر الخيار أو مربع الاختيار بجوار كل إدخال حالة التحديد لهذا العنصر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

@@ -3,20 +3,21 @@ title: طريقة get_external_connection_by_id
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells.externalconnections/externalconnectioncollection/get_external_connection_by_id/
 is_root: false
 ---
-##  get_external_connection_by_id(conn_id) {#int}
-الحصول على عنصر [ExternalConnection](/cells/python-net/ar/aspose.cells.externalconnections/externalconnection) بالكود المحدد.
+##  get_external_connection_by_id(self, conn_id) {#int}
+يحصل على عنصر ExternalConnection بالمعرف المحدد.
 
 
 ###  عائدات
 
-العنصر بالمعرف المحدد.
+العنصر ذو المعرف المحدد.
 
 
 ```python
+
 def get_external_connection_by_id(self, conn_id):
     ...
 ```
@@ -29,6 +30,5 @@ def get_external_connection_by_id(self, conn_id):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [ExternalConnection](/cells/python-net/ar/aspose.cells.externalconnections/externalconnection)
-* فئة [ExternalConnectionCollection](/cells/python-net/ar/aspose.cells.externalconnections/externalconnectioncollection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`ExternalConnectionCollection`](/cells/python-net/ar/aspose.cells.externalconnections/externalconnectioncollection)

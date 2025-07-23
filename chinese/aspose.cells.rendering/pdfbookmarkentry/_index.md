@@ -1,36 +1,36 @@
 ---
 title: PdfBookmarkEntry类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 70
 url: /zh/aspose.cells.rendering/pdfbookmarkentry/
 is_root: false
 ---
 ## PdfBookmarkEntry类
 PdfBookmarkEntry 是 pdf 书签中的条目。
-如果当前实例的 Text 属性为 null 或 ""，
-当前实例将被隐藏，子实例将被插入到当前级别。
+如果当前实例的 Text 属性为 null 或“”，
+当前实例将被隐藏，并且子实例将插入到当前级别。
 
 
 
-PdfBookmarkEntry 类型公开了以下成员：
+PdfBookmarkEntry 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [PdfBookmarkEntry()](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/__init__/#) |构造 PdfBookmarkEntry 的新实例|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/__init__/#) |构造一个新的 PdfBookmarkEntry 实例|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [text](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/text) |书签的标题。|
 | [destination](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/destination) |书签链接到的单元格。|
-| [destination_name](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/destination_name) |获取或设置目的地名称。|
-| [sub_entry](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/sub_entry) |书签的子条目。|
-| [is_open](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/is_open) |当此属性为真时，书签条目将展开，否则将折叠。|
-| [is_collapse](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/is_collapse) |当此属性为真时，书签条目将折叠，否则将展开。|
+| [destination_name](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/destination_name) |获取或设置目的地的名称。|
+| [sub_entry](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/sub_entry) |书签的 SubEntry。|
+| [is_open](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/is_open) |当此属性为真时，书签条目将会展开，否则将会折叠。|
+| [is_collapse](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry/is_collapse) |当此属性为真时，书签条目将会折叠，否则将会展开。|
 
 
 
@@ -69,4 +69,4 @@ workbook.save("output_bookmark.pdf", saveOptions)
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](..)
+* 模块[`aspose.cells.rendering`](..)

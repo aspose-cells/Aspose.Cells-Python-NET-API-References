@@ -1,18 +1,19 @@
 ---
 title: replace方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 330
+weight: 350
 url: /zh/aspose.cells/workbook/replace/
 is_root: false
 ---
-##  replace(place_holder, new_value) {#str-str}
+##  replace(self, place_holder, new_value) {#str-str}
 用新字符串替换单元格的值。
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -35,12 +36,13 @@ workbook.replace("AnOldValue", "NewValue")
 ```
 
 
-##  replace(place_holder, new_value) {#str-int}
-用新整数替换单元格的值。
+##  replace(self, place_holder, new_value) {#str-int}
+用新的整数替换单元格的值。
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -64,12 +66,13 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-##  replace(place_holder, new_value) {#str-float}
-用新的双精度替换单元格的值。
+##  replace(self, place_holder, new_value) {#str-float}
+用新的双精度值替换单元格的值。
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -78,7 +81,7 @@ def replace(self, place_holder, new_value):
 |范围|类型|描述|
 | :- | :- | :- |
 | place_holder | str | Cell 占位符|
-| new_value | float |要替换的双值|
+| new_value | float |替换的双倍值|
 
 ### 例子
 
@@ -93,12 +96,13 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-##  replace(bool_value, new_value) {#bool-any}
+##  replace(self, bool_value, new_value) {#bool-any}
 用新数据替换单元格的值。
 
 
 
 ```python
+
 def replace(self, bool_value, new_value):
     ...
 ```
@@ -107,15 +111,16 @@ def replace(self, bool_value, new_value):
 |范围|类型|描述|
 | :- | :- | :- |
 | bool_value | bool |要替换的布尔值。|
-| new_value | any |新价值。可以是字符串、整数、双精度或 DateTime 值。|
+| new_value | any |新值。可以是字符串、整数、双精度值或 DateTime 值。|
 
 
-##  replace(int_value, new_value) {#int-any}
+##  replace(self, int_value, new_value) {#int-any}
 用新数据替换单元格的值。
 
 
 
 ```python
+
 def replace(self, int_value, new_value):
     ...
 ```
@@ -124,15 +129,16 @@ def replace(self, int_value, new_value):
 |范围|类型|描述|
 | :- | :- | :- |
 | int_value | int |要替换的整数值。|
-| new_value | any |新价值。可以是字符串、整数、双精度或 DateTime 值。|
+| new_value | any |新值。可以是字符串、整数、双精度值或 DateTime 值。|
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
 用新的字符串数组替换单元格的值。
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -157,12 +163,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
 用整数数组替换单元格的值。
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -187,12 +194,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
 用双精度数组替换单元格的值。
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -201,7 +209,7 @@ def replace(self, place_holder, new_values, is_vertical):
 |范围|类型|描述|
 | :- | :- | :- |
 | place_holder | str | Cell 占位符|
-| new_values | list |要替换的双数组|
+| new_values | list |双阵列替换|
 | is_vertical | bool |真 - 垂直，假 - 水平|
 
 ### 例子
@@ -217,12 +225,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_value, options) {#str-str-ReplaceOptions}
+##  replace(self, place_holder, new_value, options) {#str-str-aspose.cells.ReplaceOptions}
 用新字符串替换单元格的值。
 
 
 
 ```python
+
 def replace(self, place_holder, new_value, options):
     ...
 ```
@@ -232,10 +241,10 @@ def replace(self, place_holder, new_value, options):
 | :- | :- | :- |
 | place_holder | str | Cell 占位符|
 | new_value | str |要替换的字符串值|
-| options | [ReplaceOptions](/cells/python-net/zh/aspose.cells/replaceoptions) |替换选项|
+| options | [`ReplaceOptions`](/cells/python-net/zh/aspose.cells/replaceoptions) |替换选项|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
+* 模块[`aspose.cells`](../../)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)

@@ -3,18 +3,18 @@ title: VerticalPageBreak类
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1630
+weight: 1540
 url: /zh/aspose.cells/verticalpagebreak/
 is_root: false
 ---
 ## VerticalPageBreak类
-封装表示垂直分页符的对象。
+封装代表垂直分页符的对象。
 
 
 
 VerticalPageBreak 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [start_row](/cells/python-net/zh/aspose.cells/verticalpagebreak/start_row) |获取垂直分页符的起始行索引。|

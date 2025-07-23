@@ -9,7 +9,7 @@ is_root: false
 ---
 ## auto_fit_cols_and_rows属性
 
-指示是否自动调整列和行。默认值为 false。
+是否自动调整行列大小，默认值为 false。
 ### 定义：
 ```python
 @property

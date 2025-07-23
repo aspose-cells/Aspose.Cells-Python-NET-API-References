@@ -1,5 +1,5 @@
 ---
-title: horizontal_alignment الملكية
+title: horizontal_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 200
 url: /ar/aspose.cells/styleflag/horizontal_alignment/
 is_root: false
 ---
-##  horizontal_alignment الملكية
+##  horizontal_alignment عقار
 
 سيتم تطبيق إعداد المحاذاة الأفقية.
 ###  تعريف:
@@ -21,5 +21,5 @@ def horizontal_alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

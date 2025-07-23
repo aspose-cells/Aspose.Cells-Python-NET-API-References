@@ -1,13 +1,13 @@
 ---
-title: list 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: list属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells.slicers/slicercache/list/
 is_root: false
 ---
-## list 属性
+## list属性
 
 返回与指定切片器缓存关联的切片器是否基于非 OLAP 数据源。只读
 
@@ -26,5 +26,5 @@ def list(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](../../)
-* 类 [SlicerCache](/cells/python-net/zh/aspose.cells.slicers/slicercache)
+* 模块[`aspose.cells.slicers`](../../)
+* 类 [`SlicerCache`](/cells/python-net/zh/aspose.cells.slicers/slicercache)

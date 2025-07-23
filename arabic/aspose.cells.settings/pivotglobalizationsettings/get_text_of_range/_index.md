@@ -3,12 +3,12 @@ title: طريقة get_text_of_range
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ar/aspose.cells.settings/pivotglobalizationsettings/get_text_of_range/
 is_root: false
 ---
-##  get_text_of_range {#}
-الحصول على النص المحلي لـ "Range"
+##  get_text_of_range(self) {#}
+يحصل على النص المحلي لـ "Range"
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_range(self):
     ...
 ```

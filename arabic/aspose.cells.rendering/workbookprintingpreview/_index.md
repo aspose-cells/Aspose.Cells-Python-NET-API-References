@@ -1,31 +1,31 @@
 ---
-title: WorkbookPrintingPreview الدرجة
+title: WorkbookPrintingPreview صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 140
 url: /ar/aspose.cells.rendering/workbookprintingpreview/
 is_root: false
 ---
-##  WorkbookPrintingPreview الدرجة
+##  WorkbookPrintingPreview صف
 معاينة طباعة المصنف.
 
 
 
-يكشف نوع WorkbookPrintingPreview الأعضاء التالية:
+يكشف النوع WorkbookPrintingPreview عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [WorkbookPrintingPreview(workbook, options)](/cells/python-net/ar/aspose.cells.rendering/workbookprintingpreview/__init__/#Workbook-ImageOrPrintOptions) | بناء WorkbookPrintingPreview|
+| [`__init__(self, workbook, options)`](/cells/python-net/ar/aspose.cells.rendering/workbookprintingpreview/__init__/#aspose.cells.workbook-aspose.cells.rendering.imageorprintoptions) | بناء WorkbookPrintingPreview|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [evaluated_page_count](/cells/python-net/ar/aspose.cells.rendering/workbookprintingpreview/evaluated_page_count) | قم بتقييم إجمالي عدد الصفحات في هذا المصنف|
+| [evaluated_page_count](/cells/python-net/ar/aspose.cells.rendering/workbookprintingpreview/evaluated_page_count) | تقييم إجمالي عدد الصفحات في هذا المصنف|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
+* الوحدة [`aspose.cells.rendering`](..)

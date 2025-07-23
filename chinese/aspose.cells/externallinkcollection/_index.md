@@ -3,7 +3,7 @@ title: ExternalLinkCollection类
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 600
+weight: 580
 url: /zh/aspose.cells/externallinkcollection/
 is_root: false
 ---
@@ -14,10 +14,10 @@ is_root: false
 
 ExternalLinkCollection 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [count](/cells/python-net/zh/aspose.cells/externallinkcollection/count) |获取集合中实际包含的元素数。|
+| [count](/cells/python-net/zh/aspose.cells/externallinkcollection/count) |获取集合中实际包含的元素数量。|
 
 
 
@@ -31,12 +31,12 @@ ExternalLinkCollection 类型公开以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [add](/cells/python-net/zh/aspose.cells/externallinkcollection/add/#str-list) |添加外部链接。|
-| [add](/cells/python-net/zh/aspose.cells/externallinkcollection/add/#aspose.cells.DirectoryType-str-list) |添加外部链接。|
-| [clear](/cells/python-net/zh/aspose.cells/externallinkcollection/clear/#) |删除所有外部链接。|
-| [clear](/cells/python-net/zh/aspose.cells/externallinkcollection/clear/#bool) |删除所有外部链接。|
-| [remove_at](/cells/python-net/zh/aspose.cells/externallinkcollection/remove_at/#int) |从工作簿中删除指定的外部链接。|
-| [remove_at](/cells/python-net/zh/aspose.cells/externallinkcollection/remove_at/#int-bool) |从工作簿中删除指定的外部链接。|
+| [`add(self, file_name, sheet_names)`](/cells/python-net/zh/aspose.cells/externallinkcollection/add/#str-list) |添加外部链接。|
+| [`add(self, directory_type, file_name, sheet_names)`](/cells/python-net/zh/aspose.cells/externallinkcollection/add/#aspose.cells.directorytype-str-list) |添加外部链接。|
+| [`clear(self)`](/cells/python-net/zh/aspose.cells/externallinkcollection/clear/#) |删除所有外部链接。|
+| [`clear(self, update_references_as_local)`](/cells/python-net/zh/aspose.cells/externallinkcollection/clear/#bool) |删除所有外部链接。|
+| [`remove_at(self, index)`](/cells/python-net/zh/aspose.cells/externallinkcollection/remove_at/#int) |从工作簿中删除指定的外部链接。|
+| [`remove_at(self, index, update_references_as_local)`](/cells/python-net/zh/aspose.cells/externallinkcollection/remove_at/#int-bool) |从工作簿中删除指定的外部链接。|
 
 
 

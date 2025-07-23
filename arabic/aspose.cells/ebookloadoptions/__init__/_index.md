@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/ebookloadoptions/__init__/
 is_root: false
 ---
-##  __فيه__ {#}
-يخلق خيارات لتحميل ملف الكتاب الاليكتروني.
+##  \_\_init\_\_(الذات){#}
+إنشاء خيارات لتحميل ملف الكتاب الإلكتروني.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  __فيه__ {#aspose.cells.LoadFormat}
-يخلق خيارات لتحميل ملف الكتاب الاليكتروني.
+##  \_\_init\_\_(الذات، تنسيق التحميل){#aspose.cells.LoadFormat}
+إنشاء خيارات لتحميل ملف الكتاب الإلكتروني.
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```

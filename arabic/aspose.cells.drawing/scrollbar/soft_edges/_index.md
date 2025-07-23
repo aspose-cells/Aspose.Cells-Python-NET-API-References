@@ -3,13 +3,13 @@ title: soft_edges عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 960
+weight: 970
 url: /ar/aspose.cells.drawing/scrollbar/soft_edges/
 is_root: false
 ---
 ##  soft_edges عقار
 
-الحصول على نصف قطر التمويه وتعيينه ليتم تطبيقه على الحواف، بوحدة النقاط.
+يحصل على نصف قطر التمويه الذي سيتم تطبيقه على الحواف، بوحدة النقاط، ويحدده.
 
 ###  مثال
 

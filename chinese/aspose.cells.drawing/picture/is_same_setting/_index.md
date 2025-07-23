@@ -3,20 +3,21 @@ title: is_same_setting方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 170
 url: /zh/aspose.cells.drawing/picture/is_same_setting/
 is_root: false
 ---
-##  is_same_setting {#any}
+##  is_same_setting(self, obj) {#any}
 返回形状是否相同。
 
 
-### 退货
+### 返回
 
 
 
 
 ```python
+
 def is_same_setting(self, obj):
     ...
 ```

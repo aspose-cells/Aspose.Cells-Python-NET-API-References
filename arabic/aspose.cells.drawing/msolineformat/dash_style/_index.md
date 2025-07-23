@@ -1,5 +1,5 @@
 ---
-title: dash_style الملكية
+title: dash_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.drawing/msolineformat/dash_style/
 is_root: false
 ---
-##  dash_style الملكية
+##  dash_style عقار
 
-الحصول على أو تحديد نمط الشرطة للخط المحدد.
+يحصل على نمط الشرطة للسطر المحدد أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def dash_style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoLineDashStyle](/cells/python-net/ar/aspose.cells.drawing/msolinedashstyle)
-* فئة [MsoLineFormat](/cells/python-net/ar/aspose.cells.drawing/msolineformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoLineDashStyle`](/cells/python-net/ar/aspose.cells.drawing/msolinedashstyle)
+* فئة [`MsoLineFormat`](/cells/python-net/ar/aspose.cells.drawing/msolineformat)

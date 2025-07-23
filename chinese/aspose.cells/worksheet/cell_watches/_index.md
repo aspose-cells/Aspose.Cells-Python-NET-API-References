@@ -3,13 +3,13 @@ title: cell_watches属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 390
+weight: 410
 url: /zh/aspose.cells/worksheet/cell_watches/
 is_root: false
 ---
 ## cell_watches属性
 
-获取在“监视窗口”中监视的此工作表上的单元格集合。
+获取此工作表上在“监视窗口”中监视的单元格集合。
 ### 定义：
 ```python
 @property

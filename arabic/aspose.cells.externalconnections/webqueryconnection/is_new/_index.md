@@ -1,16 +1,13 @@
 ---
-title: is_new الملكية
+title: is_new عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 200
 url: /ar/aspose.cells.externalconnections/webqueryconnection/is_new/
 is_root: false
 ---
-##  is_new الملكية
-
- صحيح إذا لم يتم تحديث الاتصال لأول مرة ؛ خلاف ذلك ، خطأ.
-يمكن أن تحدث هذه الحالة عندما يحفظ المستخدم الملف قبل أن ينتهي الاستعلام من العودة.
+##  is_new عقار
 ###  تعريف:
 ```python
 @property
@@ -22,5 +19,5 @@ def is_new(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

@@ -1,15 +1,15 @@
 ---
-title: text_horizontal_alignment الملكية
+title: text_horizontal_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 390
 url: /ar/aspose.cells.charts/charttextframe/text_horizontal_alignment/
 is_root: false
 ---
-##  text_horizontal_alignment الملكية
+##  text_horizontal_alignment عقار
 
-الحصول على المحاذاة الأفقية للنص وتعيينها.
+يحصل على محاذاة النص الأفقية ويضبطها.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartTextFrame](/cells/python-net/ar/aspose.cells.charts/charttextframe)
-* فئة [TextAlignmentType](/cells/python-net/ar/aspose.cells/textalignmenttype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartTextFrame`](/cells/python-net/ar/aspose.cells.charts/charttextframe)
+* فئة [`TextAlignmentType`](/cells/python-net/ar/aspose.cells/textalignmenttype)

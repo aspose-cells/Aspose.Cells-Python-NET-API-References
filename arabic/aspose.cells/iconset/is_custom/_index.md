@@ -1,5 +1,5 @@
 ---
-title: is_custom الملكية
+title: is_custom عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 50
 url: /ar/aspose.cells/iconset/is_custom/
 is_root: false
 ---
-##  is_custom الملكية
+##  is_custom عقار
 
 يشير إلى ما إذا كانت مجموعة الرموز مخصصة.
-القيمة الافتراضية هي كاذبة.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property
@@ -19,5 +19,5 @@ def is_custom(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [IconSet](/cells/python-net/ar/aspose.cells/iconset)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`IconSet`](/cells/python-net/ar/aspose.cells/iconset)

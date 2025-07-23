@@ -7,12 +7,13 @@ weight: 90
 url: /zh/aspose.cells/validation/remove_a_cell/
 is_root: false
 ---
-##  remove_a_cell {#int-int}
+##  remove_a_cell(self, row, column) {#int-int}
 删除单元格中的验证设置。
 
 
 
 ```python
+
 def remove_a_cell(self, row, column):
     ...
 ```

@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/databar/to_image/
 is_root: false
 ---
-##  to_image(cell, img_opts) {#Cell-aspose.cells.rendering.ImageOrPrintOptions}
-تقديم شريط البيانات في الخلية إلى مصفوفة بايت الصورة.
+##  to_image(self, cell, img_opts) {#aspose.cells.Cell-aspose.cells.rendering.ImageOrPrintOptions}
+عرض شريط البيانات في الخلية إلى مجموعة بايتات الصورة.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def to_image(self, cell, img_opts):
     ...
 ```
@@ -24,11 +25,11 @@ def to_image(self, cell, img_opts):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| cell | [Cell](/cells/python-net/ar/aspose.cells/cell) | حدد شريط البيانات في أي خلية سيتم عرضها|
-| img_opts | aspose.cells.rendering.ImageOrPrintOptions | يحتوي ImageOrPrintOptions على بعض خصائص صورة الإخراج|
+| cell | [`Cell`](/cells/python-net/ar/aspose.cells/cell) |حدد شريط البيانات الذي سيتم عرض الخلية فيه|
+| img_opts | aspose.cells.rendering.ImageOrPrintOptions | يحتوي ImageOrPrintOptions على بعض خصائص الصورة الناتجة|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataBar](/cells/python-net/ar/aspose.cells/databar)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataBar`](/cells/python-net/ar/aspose.cells/databar)

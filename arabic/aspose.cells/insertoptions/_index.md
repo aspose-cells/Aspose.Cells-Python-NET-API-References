@@ -3,7 +3,7 @@ title: InsertOptions صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 980
+weight: 890
 url: /ar/aspose.cells/insertoptions/
 is_root: false
 ---
@@ -17,7 +17,7 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/insertoptions/__init__/#) | إنشاء مثيل جديد لـ InsertOptions|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/insertoptions/__init__/#) | إنشاء مثيل جديد لـ InsertOptions|
 
 
 ###  ملكيات

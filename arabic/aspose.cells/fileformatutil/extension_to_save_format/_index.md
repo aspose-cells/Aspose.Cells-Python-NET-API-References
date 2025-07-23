@@ -7,8 +7,8 @@ weight: 30
 url: /ar/aspose.cells/fileformatutil/extension_to_save_format/
 is_root: false
 ---
-##  extension_to_save_format(extension) {#str}
-يحول ملحق اسم الملف إلى قيمة SaveFormat.
+##  extension_to_save_format(امتداد){#str}
+يقوم بتحويل ملحق اسم الملف إلى قيمة SaveFormat.
 
 
 ###  عائدات
@@ -17,20 +17,22 @@ is_root: false
 
 
 ```python
-def extension_to_save_format(self, extension):
+
+@staticmethod
+def extension_to_save_format(extension):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| extension | str | امتداد الملف. يمكن أن يكون بنقطة بادئة أو بدونها. حالة الأحرف.|
+| extension | str | امتداد الملف. يمكن أن يكون بنقطة بادئة أو بدونها. لا يراعي حالة الأحرف.|
 ###  ملاحظات
 
-إذا تعذر التعرف على الامتداد ، يتم إرجاع [SaveFormat.UNKNOWN](/cells/python-net/ar/aspose.cells/saveformat#UNKNOWN).
+إذا لم يتم التعرف على الامتداد، فسيتم إرجاع [`SaveFormat.UNKNOWN`](/cells/python-net/ar/aspose.cells/saveformat#UNKNOWN).
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [FileFormatUtil](/cells/python-net/ar/aspose.cells/fileformatutil)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FileFormatUtil`](/cells/python-net/ar/aspose.cells/fileformatutil)

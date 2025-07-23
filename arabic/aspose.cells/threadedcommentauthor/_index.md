@@ -3,12 +3,12 @@ title: ThreadedCommentAuthor صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1520
+weight: 1430
 url: /ar/aspose.cells/threadedcommentauthor/
 is_root: false
 ---
 ##  ThreadedCommentAuthor صف
-يمثل الشخص الذي يقوم بإنشاء التعليقات المترابطة؛
+يمثل الشخص الذي ينشئ التعليقات المترابطة؛
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [name](/cells/python-net/ar/aspose.cells/threadedcommentauthor/name) | يحصل ويحدد الاسم.|
-| [user_id](/cells/python-net/ar/aspose.cells/threadedcommentauthor/user_id) | الحصول على معرف المستخدم وتعيينه.|
+| [name](/cells/python-net/ar/aspose.cells/threadedcommentauthor/name) | يحصل على الاسم ويحدده.|
+| [user_id](/cells/python-net/ar/aspose.cells/threadedcommentauthor/user_id) | يحصل على معرف المستخدم ويحدده.|
 | [provider_id](/cells/python-net/ar/aspose.cells/threadedcommentauthor/provider_id) | يحصل على معرف المزود.|
 
 

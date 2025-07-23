@@ -3,12 +3,12 @@ title: PivotTableSelectionType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 450
 url: /ar/aspose.cells.pivot/pivottableselectiontype/
 is_root: false
 ---
 ##  PivotTableSelectionType التعداد
-يحدد ما يمكن تحديده في PivotTable أثناء التحديد المنظم.
+يحدد ما يمكن تحديده في جدول محوري أثناء التحديد المنظم.
 يمكن دمج هذه الثوابت لتحديد أنواع متعددة.
 
 
@@ -18,9 +18,9 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DATA_AND_LABEL |البيانات والتسميات|
+| DATA_AND_LABEL | البيانات والعلامات|
 | DATA_ONLY | يختار البيانات فقط|
-| LABEL_ONLY | يختار التسميات فقط|
+| LABEL_ONLY | يختار فقط العلامات|
 
 
 

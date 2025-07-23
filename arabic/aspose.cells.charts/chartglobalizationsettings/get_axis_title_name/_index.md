@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.charts/chartglobalizationsettings/get_axis_title_name/
 is_root: false
 ---
-##  get_axis_title_name() {#}
-الحصول على اسم العنوان للمحور.
+##  get_axis_title_name(self) {#}
+يحصل على اسم العنوان للمحور.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_axis_title_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_axis_title_name(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartGlobalizationSettings](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartGlobalizationSettings`](/cells/python-net/ar/aspose.cells.charts/chartglobalizationsettings)

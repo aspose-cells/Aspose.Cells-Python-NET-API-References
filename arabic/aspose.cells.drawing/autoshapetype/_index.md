@@ -1,18 +1,18 @@
 ---
-title: العد AutoShapeType
+title: AutoShapeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 760
+weight: 750
 url: /ar/aspose.cells.drawing/autoshapetype/
 is_root: false
 ---
-##  العد AutoShapeType
-يمثل كل نوع الشكل التلقائي المدمج.
+##  AutoShapeType التعداد
+يمثل جميع أنواع الأشكال التلقائية المضمنة.
 
 
 
-يكشف نوع AutoShapeType الأعضاء التالية:
+يكشف النوع AutoShapeType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -116,7 +116,7 @@ is_root: false
 | VERTICAL_SCROLL |  |
 | HORIZONTAL_SCROLL |  |
 | CIRCULAR_ARROW |  |
-| NOTCHED_CIRCULAR_ARROW | قيمة لا يجب استخدامها.|
+| NOTCHED_CIRCULAR_ARROW | قيمة لا ينبغي استخدامها.|
 | U_TURN_ARROW |  |
 | CURVED_RIGHT_ARROW |  |
 | CURVED_LEFT_ARROW |  |
@@ -153,45 +153,45 @@ is_root: false
 | FLOW_CHART_DISPLAY |  |
 | FLOW_CHART_DELAY |  |
 | TEXT_PLAIN_TEXT | شكل نص عادي.|
-| TEXT_STOP | شكل نص ثماني الأضلاع.|
-| TEXT_TRIANGLE | شكل نص ثلاثي يشير لأعلى.|
-| TEXT_TRIANGLE_INVERTED | شكل نصي مثلث يشير لأسفل.|
-| TEXT_CHEVRON | شكل نص على شكل رتبة عسكرية يشير لأعلى.|
-| TEXT_CHEVRON_INVERTED | شكل نص على شكل رتبة عسكرية يشير إلى أسفل.|
-| TEXT_RING_INSIDE |شكل نص دائري ، كما لو كان يقرأ نقشاً على الحلقة من الداخل.|
-| TEXT_RING_OUTSIDE | شكل نص دائري ، كما لو كان يقرأ نقشاً خارج الحلقة.|
-| TEXT_ARCH_UP_CURVE | شكل نص منحني مقوس لأعلى.|
-| TEXT_ARCH_DOWN_CURVE | شكل نص منحني يتقوس لأسفل.|
-| TEXT_CIRCLE_CURVE | شكل نص دائري.|
-| TEXT_BUTTON_CURVE | شكل نصي على شكل زر.|
-| TEXT_ARCH_UP_POUR | شكل نص مقوس لأعلى.|
-| TEXT_ARCH_DOWN_POUR | شكل نص مقوس لأسفل.|
-| TEXT_CIRCLE_POUR | شكل نص دائري.|
-| TEXT_BUTTON_POUR | شكل نصي على شكل زر.|
-| TEXT_CURVE_UP | شكل نص منحني صاعد.|
-| TEXT_CURVE_DOWN | شكل نص منحني لأسفل.|
-| TEXT_CASCADE_UP | يشير شكل نص متتالي إلى أعلى.|
-| TEXT_CASCADE_DOWN | شكل نص متتالي يشير لأسفل.|
-| TEXT_WAVE1 | شكل نص مموج.|
-| TEXT_WAVE2 | شكل نص مموج.|
-| TEXT_DOUBLE_WAVE1 | شكل نص مموج.|
-| TEXT_DOUBLE_WAVE2 | شكل نص مموج.|
-| TEXT_INFLATE | شكل نص يتمدد رأسيًا في المنتصف.|
-| TEXT_DEFLATE | شكل نص يتقلص رأسيًا في المنتصف.|
-| TEXT_INFLATE_BOTTOM | شكل نص يتسع لأسفل في المنتصف.|
-| TEXT_DEFLATE_BOTTOM | شكل نص يتقلص لأعلى في المنتصف.|
-| TEXT_INFLATE_TOP | شكل نص يتوسع لأعلى في المنتصف.|
-| TEXT_DEFLATE_TOP | شكل نص يتقلص لأسفل في المنتصف.|
-| TEXT_DEFLATE_INFLATE |شكل نص تتوسع فيه الأسطر السفلية لأعلى. تتقلص الخطوط العلوية للتعويض.|
-| TEXT_DEFLATE_INFLATE_DEFLATE | شكل نص تتسع فيه الخطوط الموجودة في المركز عموديًا. تتقلص الخطوط العلوية والسفلية للتعويض.|
-| TEXT_FADE_RIGHT | شكل نص يتقلص رأسيًا على الجانب الأيمن.|
-| TEXT_FADE_LEFT | شكل نص يتقلص رأسيًا على الجانب الأيسر.|
-| TEXT_FADE_UP | شكل نص يتقلص أفقيًا في الأعلى.|
+| TEXT_STOP | شكل نص مثمن الشكل.|
+| TEXT_TRIANGLE | شكل نص مثلث يشير إلى الأعلى.|
+| TEXT_TRIANGLE_INVERTED | شكل نص مثلث يشير إلى الأسفل.|
+| TEXT_CHEVRON | شكل نص شيفرون يشير إلى الأعلى.|
+| TEXT_CHEVRON_INVERTED | شكل نص شيفرون يشير إلى الأسفل.|
+| TEXT_RING_INSIDE | شكل نص دائري، كما لو كنت تقرأ نقشًا داخل خاتم.|
+| TEXT_RING_OUTSIDE | شكل نص دائري، كما لو كنت تقرأ نقشًا على الجانب الخارجي للخاتم.|
+| TEXT_ARCH_UP_CURVE | شكل نص منحني مقوس للأعلى.|
+| TEXT_ARCH_DOWN_CURVE | شكل نص منحني مقوس للأسفل.|
+| TEXT_CIRCLE_CURVE |شكل نص دائري.|
+| TEXT_BUTTON_CURVE | شكل نص يشبه الزر.|
+| TEXT_ARCH_UP_POUR | شكل نص مقوس للأعلى.|
+| TEXT_ARCH_DOWN_POUR | شكل نص مقوس للأسفل.|
+| TEXT_CIRCLE_POUR |شكل نص دائري.|
+| TEXT_BUTTON_POUR | شكل نص يشبه الزر.|
+| TEXT_CURVE_UP | شكل نص منحني للأعلى.|
+| TEXT_CURVE_DOWN | شكل نص منحني للأسفل.|
+| TEXT_CASCADE_UP | شكل نص متتالي يشير إلى الأعلى.|
+| TEXT_CASCADE_DOWN | شكل نص متتالي يشير إلى الأسفل.|
+| TEXT_WAVE1 | شكل نص متموج.|
+| TEXT_WAVE2 | شكل نص متموج.|
+| TEXT_DOUBLE_WAVE1 | شكل نص متموج.|
+| TEXT_DOUBLE_WAVE2 | شكل نص متموج.|
+| TEXT_INFLATE | شكل نص يتوسع عموديًا في المنتصف.|
+| TEXT_DEFLATE | شكل نص يتقلص عموديًا في المنتصف.|
+| TEXT_INFLATE_BOTTOM | شكل نص يتوسع إلى الأسفل في المنتصف.|
+| TEXT_DEFLATE_BOTTOM | شكل نص يتقلص إلى الأعلى في المنتصف.|
+| TEXT_INFLATE_TOP | شكل نص يتوسع إلى الأعلى في المنتصف.|
+| TEXT_DEFLATE_TOP | شكل نص يتقلص إلى الأسفل في المنتصف.|
+| TEXT_DEFLATE_INFLATE | شكل نصي تتمدد فيه الخطوط السفلية للأعلى، بينما تتقلص الخطوط العلوية للتعويض.|
+| TEXT_DEFLATE_INFLATE_DEFLATE | شكل نصي تتمدد فيه الخطوط في المنتصف عموديًا. تتقلص الخطوط العلوية والسفلية للتعويض.|
+| TEXT_FADE_RIGHT | شكل نص يتقلص عموديًا على الجانب الأيمن.|
+| TEXT_FADE_LEFT | شكل نص يتقلص عموديًا على الجانب الأيسر.|
+| TEXT_FADE_UP |شكل نص يتقلص أفقيًا في الأعلى.|
 | TEXT_FADE_DOWN | شكل نص يتقلص أفقيًا في الأسفل.|
-| TEXT_SLANT_UP | شكل نص مائل لأعلى.|
+| TEXT_SLANT_UP | شكل نص مائل إلى الأعلى.|
 | TEXT_SLANT_DOWN | شكل نص مائل للأسفل.|
-| TEXT_CAN_UP | شكل نص منحني لأعلى كما لو كان يُقرأ على جانب علبة.|
-| TEXT_CAN_DOWN | شكل نص منحني لأسفل كما لو كان يُقرأ على جانب العلبة.|
+| TEXT_CAN_UP | شكل نص منحني للأعلى كما لو كان يتم قراءته على جانب علبة.|
+| TEXT_CAN_DOWN | شكل نص منحني للأسفل كما لو كان يتم قراءته على جانب علبة.|
 | FLOW_CHART_ALTERNATE_PROCESS |  |
 | FLOW_CHART_OFFPAGE_CONNECTOR |  |
 | LINE_CALLOUT_NO_BORDER1 |  |
@@ -217,7 +217,7 @@ is_root: false
 | DOCUMENT_ACTION_BUTTON |  |
 | SOUND_ACTION_BUTTON |  |
 | MOVIE_ACTION_BUTTON |  |
-| HOST_CONTROL | يجب عدم استخدام هذه القيمة.|
+| HOST_CONTROL | لا ينبغي استخدام هذه القيمة.|
 | TEXT_BOX |  |
 | HEPTAGON |  |
 | DECAGON |  |
@@ -275,4 +275,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

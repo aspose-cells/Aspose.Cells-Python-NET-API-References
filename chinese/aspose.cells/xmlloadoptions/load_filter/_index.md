@@ -1,15 +1,15 @@
 ---
-title: load_filter 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: load_filter属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 190
 url: /zh/aspose.cells/xmlloadoptions/load_filter/
 is_root: false
 ---
-## load_filter 属性
+## load_filter属性
 
-表示如何加载数据的过滤器。
+指示如何加载数据的过滤器。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def load_filter(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [LoadFilter](/cells/python-net/zh/aspose.cells/loadfilter)
-* 类 [XmlLoadOptions](/cells/python-net/zh/aspose.cells/xmlloadoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`LoadFilter`](/cells/python-net/zh/aspose.cells/loadfilter)
+* 类 [`XmlLoadOptions`](/cells/python-net/zh/aspose.cells/xmlloadoptions)

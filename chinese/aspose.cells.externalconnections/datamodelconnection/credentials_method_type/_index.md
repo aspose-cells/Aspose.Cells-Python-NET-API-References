@@ -1,15 +1,13 @@
 ---
-title: credentials_method_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: credentials_method_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 70
+weight: 120
 url: /zh/aspose.cells.externalconnections/datamodelconnection/credentials_method_type/
 is_root: false
 ---
-## credentials_method_type 属性
-
-指定建立（或重新建立）连接时要使用的身份验证方法。
+## credentials_method_type属性
 ### 定义：
 ```python
 @property
@@ -21,6 +19,6 @@ def credentials_method_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.externalconnections](../../)
-* 类 [CredentialsMethodType](/cells/python-net/zh/aspose.cells.externalconnections/credentialsmethodtype)
-* 类 [DataModelConnection](/cells/python-net/zh/aspose.cells.externalconnections/datamodelconnection)
+* 模块[`aspose.cells.externalconnections`](../../)
+* 类 [`CredentialsMethodType`](/cells/python-net/zh/aspose.cells.externalconnections/credentialsmethodtype)
+* 类 [`DataModelConnection`](/cells/python-net/zh/aspose.cells.externalconnections/datamodelconnection)

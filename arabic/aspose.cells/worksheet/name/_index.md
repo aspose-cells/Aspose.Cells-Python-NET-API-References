@@ -3,17 +3,17 @@ title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 650
+weight: 680
 url: /ar/aspose.cells/worksheet/name/
 is_root: false
 ---
 ##  name عقار
 
-الحصول على name من ورقة العمل أو تعيينه.
+يحصل على أو يعين name من ورقة العمل.
 
 ###  ملاحظات
 
- الحد الأقصى لطول الورقة name هو 31. ولا يمكنك تعيين نفس name (غير حساس لحالة الأحرف) لورقتي عمل.
+ الحد الأقصى لطول الورقة name هو 31. ولا يمكنك تعيين نفس name (غير حساس لحالة الأحرف) إلى ورقتي عمل.
 على سبيل المثال، لا يمكنك تعيين "SheetName1" إلى ورقة العمل الأولى وتعيين "SHEETNAME1" إلى ورقة العمل الثانية.
 ###  تعريف:
 ```python

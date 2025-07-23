@@ -3,7 +3,7 @@ title: active_x_control属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 280
+weight: 300
 url: /zh/aspose.cells.drawing/picture/active_x_control/
 is_root: false
 ---
@@ -32,5 +32,4 @@ def active_x_control(self):
 
 ### 也可以看看
 * 模块[`aspose.cells.drawing`](../../)
-* 类 [`ActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/activexcontrol)
 * 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)

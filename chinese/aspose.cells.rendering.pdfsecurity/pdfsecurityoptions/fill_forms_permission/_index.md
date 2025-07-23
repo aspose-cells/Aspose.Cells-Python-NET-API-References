@@ -9,8 +9,8 @@ is_root: false
 ---
 ## fill_forms_permission属性
 
-指示是否允许填写现有的交互式表单字段（包括签名字段），
-即使[`PdfSecurityOptions.modify_document_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission)是明确的。
+是否允许填写现有的交互式表单字段（包括签名字段），
+即使 [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) 很清楚。
 ### 定义：
 ```python
 @property

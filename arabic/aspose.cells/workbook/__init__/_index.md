@@ -1,5 +1,5 @@
 ---
-title: Workbook المنشئ
+title: Workbook منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/workbook/__init__/
 is_root: false
 ---
-##  Workbook() {#}
-يقوم بتهيئة نسخة جديدة من الفئة [Workbook](/cells/python-net/ar/aspose.cells/workbook).
+##  \_\_init\_\_(الذات){#}
+يقوم بتهيئة مثيل جديد للفئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook).
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,11 +21,11 @@ def __init__(self):
 
 ###  ملاحظات
 
-نوع تنسيق الملف الافتراضي هو Xlsx. لإنشاء نوع ملف بتنسيق آخر ، يرجى استخدام Workbook (FileFormatType).
+تنسيق الملف الافتراضي هو Xlsx. لإنشاء أنواع ملفات أخرى، يُرجى استخدام Workbook(FileFormatType).
 ###  مثال
 
 
-يوضح الكود التالي كيفية استخدام المُنشئ Workbook لإنشاء مثيل جديد للفئة وتهيئته.
+يُظهر الكود التالي كيفية استخدام المنشئ Workbook لإنشاء مثيل جديد للفئة وتهيئته.
 
 ```python
 from aspose.cells import Workbook
@@ -34,12 +35,13 @@ workbook = Workbook()
 ```
 
 
-##  Workbook(file_format_type) {#FileFormatType}
-يقوم بتهيئة نسخة جديدة من الفئة [Workbook](/cells/python-net/ar/aspose.cells/workbook).
+##  \_\_init\_\_(ذاتي، نوع تنسيق الملف){#aspose.cells.FileFormatType}
+يقوم بتهيئة مثيل جديد للفئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook).
 
 
 
 ```python
+
 def __init__(self, file_format_type):
     ...
 ```
@@ -47,14 +49,14 @@ def __init__(self, file_format_type):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| file_format_type | [FileFormatType](/cells/python-net/ar/aspose.cells/fileformattype) | تنسيق الملف الجديد.|
+| file_format_type | [`FileFormatType`](/cells/python-net/ar/aspose.cells/fileformattype) | تنسيق الملف الجديد.|
 ###  ملاحظات
 
 نوع تنسيق الملف الافتراضي هو Excel97To2003.
 ###  مثال
 
 
-يوضح الكود التالي كيفية استخدام المُنشئ Workbook لإنشاء مثيل جديد للفئة وتهيئته.
+يُظهر الكود التالي كيفية استخدام المنشئ Workbook لإنشاء مثيل جديد للفئة وتهيئته باستخدام نوع تنسيق ملف مختلف.
 
 ```python
 from aspose.cells import FileFormatType, Workbook
@@ -64,12 +66,13 @@ workbook = Workbook(FileFormatType.XLSX)
 ```
 
 
-##  Workbook(file) {#str}
-يقوم بتهيئة نسخة جديدة من الفئة [Workbook](/cells/python-net/ar/aspose.cells/workbook) وفتح ملف.
+##  \_\_init\_\_(الذات، الملف){#str}
+يقوم بتهيئة مثيل جديد لفئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook) وفتح ملف.
 
 
 
 ```python
+
 def __init__(self, file):
     ...
 ```
@@ -80,12 +83,13 @@ def __init__(self, file):
 | file | str | اسم الملف.|
 
 
-##  Workbook(stream) {#io.RawIOBase}
-يقوم بتهيئة نسخة جديدة من الفئة [Workbook](/cells/python-net/ar/aspose.cells/workbook) وافتح تدفق.
+##  \_\_init\_\_(الذات، الدفق){#io.RawIOBase}
+يقوم بتهيئة مثيل جديد للفئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook) وفتح مجرى.
 
 
 
 ```python
+
 def __init__(self, stream):
     ...
 ```
@@ -93,15 +97,16 @@ def __init__(self, stream):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| stream | io.RawIOBase | الدفق.|
+| stream | io.RawIOBase | النهر.|
 
 
-##  Workbook(file, load_options) {#str-LoadOptions}
-يقوم بتهيئة نسخة جديدة من الفئة [Workbook](/cells/python-net/ar/aspose.cells/workbook) وفتح ملف.
+##  \_\_init\_\_(الذات، الملف، خيارات التحميل){#str-aspose.cells.LoadOptions}
+يقوم بتهيئة مثيل جديد لفئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook) وفتح ملف.
 
 
 
 ```python
+
 def __init__(self, file, load_options):
     ...
 ```
@@ -110,15 +115,16 @@ def __init__(self, file, load_options):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | file | str | اسم الملف.|
-| load_options | [LoadOptions](/cells/python-net/ar/aspose.cells/loadoptions) | خيارات التحميل|
+| load_options | [`LoadOptions`](/cells/python-net/ar/aspose.cells/loadoptions) | خيارات التحميل|
 
 
-##  Workbook(stream, load_options) {#io.RawIOBase-LoadOptions}
-يقوم بتهيئة نسخة جديدة من الفئة [Workbook](/cells/python-net/ar/aspose.cells/workbook) وفتح الدفق.
+##  \_\_init\_\_(الذات، التدفق، خيارات التحميل){#io.RawIOBase-aspose.cells.LoadOptions}
+يقوم بتهيئة مثيل جديد لفئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook) ويفتح مجرى مفتوح.
 
 
 
 ```python
+
 def __init__(self, stream, load_options):
     ...
 ```
@@ -126,11 +132,11 @@ def __init__(self, stream, load_options):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| stream | io.RawIOBase | الدفق.|
-| load_options | [LoadOptions](/cells/python-net/ar/aspose.cells/loadoptions) | خيارات التحميل|
+| stream | io.RawIOBase | النهر.|
+| load_options | [`LoadOptions`](/cells/python-net/ar/aspose.cells/loadoptions) | خيارات التحميل|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

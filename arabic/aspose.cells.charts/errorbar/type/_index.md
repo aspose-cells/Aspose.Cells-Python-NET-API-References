@@ -1,5 +1,5 @@
 ---
-title: type الملكية
+title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 270
 url: /ar/aspose.cells.charts/errorbar/type/
 is_root: false
 ---
-##  type الملكية
+##  type عقار
 
-يمثل مقدار شريط الخطأ type.
+يمثل مبلغ شريط الخطأ type.
 
 ###  مثال
 
@@ -37,6 +37,6 @@ def type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ErrorBar](/cells/python-net/ar/aspose.cells.charts/errorbar)
-* فئة [ErrorBarType](/cells/python-net/ar/aspose.cells.charts/errorbartype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ErrorBar`](/cells/python-net/ar/aspose.cells.charts/errorbar)
+* فئة [`ErrorBarType`](/cells/python-net/ar/aspose.cells.charts/errorbartype)

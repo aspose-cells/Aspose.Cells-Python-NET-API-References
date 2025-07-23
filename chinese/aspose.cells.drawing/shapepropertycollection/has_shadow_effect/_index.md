@@ -1,13 +1,13 @@
 ---
 title: has_shadow_effect方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
 url: /zh/aspose.cells.drawing/shapepropertycollection/has_shadow_effect/
 is_root: false
 ---
-##  has_shadow_effect() {#}
+##  has_shadow_effect(self) {#}
 指示形状是否具有阴影效果数据。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def has_shadow_effect(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_shadow_effect(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapePropertyCollection](/cells/python-net/zh/aspose.cells.drawing/shapepropertycollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapePropertyCollection`](/cells/python-net/zh/aspose.cells.drawing/shapepropertycollection)

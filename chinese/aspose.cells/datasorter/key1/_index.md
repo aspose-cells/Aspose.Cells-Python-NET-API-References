@@ -1,15 +1,15 @@
 ---
-title: key1 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: key1属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 90
 url: /zh/aspose.cells/datasorter/key1/
 is_root: false
 ---
-## key1 属性
+## key1属性
 
-表示第一个排好序的列索引（绝对位置，A列为0，B列为1，...）。
+表示第一个排序列的索引（绝对位置，A 列为 0，B 列为 1，...）。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def key1(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DataSorter](/cells/python-net/zh/aspose.cells/datasorter)
+* 模块[`aspose.cells`](../../)
+* 类 [`DataSorter`](/cells/python-net/zh/aspose.cells/datasorter)

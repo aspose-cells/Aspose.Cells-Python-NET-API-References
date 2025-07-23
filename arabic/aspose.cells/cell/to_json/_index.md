@@ -3,12 +3,12 @@ title: طريقة to_json
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 390
 url: /ar/aspose.cells/cell/to_json/
 is_root: false
 ---
-##  to_json {#}
-تحويل [`Cell`](/cells/python-net/ar/aspose.cells/cell) إلى JSON بيانات الهيكل.
+##  to_json(self) {#}
+تحويل بيانات الهيكل [`Cell`](/cells/python-net/ar/aspose.cells/cell) إلى JSON.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def to_json(self):
     ...
 ```

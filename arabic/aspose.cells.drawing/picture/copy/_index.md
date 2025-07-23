@@ -7,12 +7,13 @@ weight: 60
 url: /ar/aspose.cells.drawing/picture/copy/
 is_root: false
 ---
-##  copy(source, options) {#Picture-CopyOptions}
-انسخ الصورة.
+##  copy(self, source, options) {#aspose.cells.drawing.Picture-aspose.cells.CopyOptions}
+انسخ الصورة
 
 
 
 ```python
+
 def copy(self, source, options):
     ...
 ```
@@ -20,8 +21,8 @@ def copy(self, source, options):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| source | [Picture](/cells/python-net/ar/aspose.cells.drawing/picture) | الصورة المصدر.|
-| options | [CopyOptions](/cells/python-net/ar/aspose.cells/copyoptions) | خيارات النسخ.|
+| source | [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture) | الصورة المصدر.|
+| options | [`CopyOptions`](/cells/python-net/ar/aspose.cells/copyoptions) | خيارات النسخ.|
 
 ###  مثال
 
@@ -50,5 +51,5 @@ workbook.save("result.xlsx")
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Picture](/cells/python-net/ar/aspose.cells.drawing/picture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Picture`](/cells/python-net/ar/aspose.cells.drawing/picture)

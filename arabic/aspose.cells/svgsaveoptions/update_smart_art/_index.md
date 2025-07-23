@@ -1,20 +1,20 @@
 ---
-title: update_smart_art الملكية
+title: update_smart_art عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells/svgsaveoptions/update_smart_art/
 is_root: false
 ---
-##  update_smart_art الملكية
+##  update_smart_art عقار
 
-يشير إلى ما إذا كان يتم تحديث إعداد الفن الذكي.
-القيمة الافتراضية هي كاذبة.
+يشير إلى ما إذا كان يتم تحديث إعدادات الفن الذكي.
+القيمة الافتراضية هي false.
 
 ###  ملاحظات
 
-توجد التأثيرات فقط بعد استدعاء طريقة Shape.GetResultOfSmartArt () والأشكال المخزنة مؤقتًا في ملف القالب.
+توجد التأثيرات فقط بعد استدعاء طريقة Shape.GetResultOfSmartArt() والأشكال المخزنة مؤقتًا في ملف القالب.
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def update_smart_art(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [SvgSaveOptions](/cells/python-net/ar/aspose.cells/svgsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`SvgSaveOptions`](/cells/python-net/ar/aspose.cells/svgsaveoptions)

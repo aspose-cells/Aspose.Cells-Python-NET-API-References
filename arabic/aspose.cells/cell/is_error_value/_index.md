@@ -3,17 +3,17 @@ title: is_error_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 570
+weight: 600
 url: /ar/aspose.cells/cell/is_error_value/
 is_root: false
 ---
 ##  is_error_value عقار
 
-يتحقق مما إذا كانت قيمة هذه الخلية خطأ.
+التحقق مما إذا كانت قيمة هذه الخلية خطأ.
 
 ###  ملاحظات
 
-ينطبق أيضًا على خلية الصيغة للتحقق مما إذا كانت النتيجة المحسوبة خطأ.
+ينطبق أيضًا على خلية الصيغة للتحقق مما إذا كانت النتيجة المحسوبة خطأً.
 ###  تعريف:
 ```python
 @property

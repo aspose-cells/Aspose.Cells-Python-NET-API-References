@@ -1,5 +1,5 @@
 ---
-title: shadow الملكية
+title: shadow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 400
 url: /ar/aspose.cells.charts/series/shadow/
 is_root: false
 ---
-##  shadow الملكية
+##  shadow عقار
 
 صحيح إذا كانت السلسلة تحتوي على shadow.
 ###  تعريف:
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

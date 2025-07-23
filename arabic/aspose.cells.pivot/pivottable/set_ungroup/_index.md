@@ -3,16 +3,17 @@ title: طريقة set_ungroup
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 280
 url: /ar/aspose.cells.pivot/pivottable/set_ungroup/
 is_root: false
 ---
-##  set_ungroup {#int}
-يقوم بتعيين فك التجميع بواسطة PivotTable
+##  set_ungroup(self, base_field_index) {#int}
+تعيين إلغاء التجميع حسب جدول البيانات المحوري
 
 
 
 ```python
+
 def set_ungroup(self, base_field_index):
     ...
 ```
@@ -23,17 +24,18 @@ def set_ungroup(self, base_field_index):
 | base_field_index | int | فهرس حقل الصف أو العمود في الحقول الأساسية|
 ###  ملاحظات
 
-ملاحظة: هذه الطريقة أصبحت الآن قديمة. بدلاً من،
-الرجاء استخدام طريقة PivotField.Ungroup().
- ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ أكتوبر 2023.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذه الطريقة أصبحت قديمة الآن. بدلاً من ذلك،
+من فضلك استخدم طريقة PivotField.Ungroup().
+ سيتم إزالة هذه الطريقة بعد مرور 12 شهرًا منذ أكتوبر 2023.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
-##  set_ungroup {#aspose.cells.pivot.PivotField}
-يقوم بتعيين فك التجميع بواسطة PivotTable
+##  set_ungroup(self, pivot_field) {#aspose.cells.pivot.PivotField}
+تعيين إلغاء التجميع حسب جدول البيانات المحوري
 
 
 
 ```python
+
 def set_ungroup(self, pivot_field):
     ...
 ```
@@ -44,10 +46,10 @@ def set_ungroup(self, pivot_field):
 | pivot_field | [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield) | حقل الصف أو العمود في الحقول الأساسية|
 ###  ملاحظات
 
-ملاحظة: هذه الطريقة أصبحت الآن قديمة. بدلاً من،
-الرجاء استخدام طريقة PivotField.Ungroup().
- ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ أكتوبر 2023.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذه الطريقة أصبحت قديمة الآن. بدلاً من ذلك،
+من فضلك استخدم طريقة PivotField.Ungroup().
+ سيتم إزالة هذه الطريقة بعد مرور 12 شهرًا منذ أكتوبر 2023.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا

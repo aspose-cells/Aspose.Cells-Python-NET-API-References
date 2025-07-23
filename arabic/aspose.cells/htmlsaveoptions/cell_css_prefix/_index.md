@@ -3,13 +3,13 @@ title: cell_css_prefix عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells/htmlsaveoptions/cell_css_prefix/
 is_root: false
 ---
 ##  cell_css_prefix عقار
 
-الحصول على بادئة اسم CSS وتعيينها، القيمة الافتراضية هي "".
+يحصل على بادئة اسم css ويقوم بتعيينها، والقيمة الافتراضية هي "".
 ###  تعريف:
 ```python
 @property

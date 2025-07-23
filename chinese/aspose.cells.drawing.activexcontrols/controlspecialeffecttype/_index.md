@@ -1,24 +1,24 @@
 ---
 title: ControlSpecialEffectType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 260
+weight: 240
 url: /zh/aspose.cells.drawing.activexcontrols/controlspecialeffecttype/
 is_root: false
 ---
 ## ControlSpecialEffectType枚举
-表示特殊效果的类型。
+代表特殊效果的类型。
 
 
 
-ControlSpecialEffectType 类型公开了以下成员：
+ControlSpecialEffectType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | FLAT |平坦的|
-| RAISED |上调|
+| RAISED |已筹集|
 | SUNKEN |凹陷|
 | ETCHED |蚀刻|
 | BUMP |撞|
@@ -26,4 +26,4 @@ ControlSpecialEffectType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](..)
+* 模块[`aspose.cells.drawing.activexcontrols`](..)

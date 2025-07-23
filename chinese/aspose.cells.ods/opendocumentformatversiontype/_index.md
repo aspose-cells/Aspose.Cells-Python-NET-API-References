@@ -8,19 +8,19 @@ url: /zh/aspose.cells.ods/opendocumentformatversiontype/
 is_root: false
 ---
 ## OpenDocumentFormatVersionType枚举
-打开文档格式版本类型。
+开放文档格式版本类型。
 
 
 
 OpenDocumentFormatVersionType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| NONE |没有严格的。|
+| NONE |无严格。|
 | ODF11 | ODF 版本 1.1|
 | ODF12 | ODF 版本 1.2|
-| ODF13 |ODF 版本 1.3|
+| ODF13 | ODF 版本 1.3|
 
 
 

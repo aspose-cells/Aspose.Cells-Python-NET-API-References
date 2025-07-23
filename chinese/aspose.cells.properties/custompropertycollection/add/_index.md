@@ -1,18 +1,19 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.properties/custompropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
+##  add(self, name, value) {#str-str}
 添加自定义属性信息。
 
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self, name, value):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.properties](../../)
-* 类 [CustomPropertyCollection](/cells/python-net/zh/aspose.cells.properties/custompropertycollection)
+* 模块[`aspose.cells.properties`](../../)
+* 类 [`CustomPropertyCollection`](/cells/python-net/zh/aspose.cells.properties/custompropertycollection)

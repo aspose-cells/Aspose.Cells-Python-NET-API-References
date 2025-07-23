@@ -1,5 +1,5 @@
 ---
-title: font_strike الملكية
+title: font_strike عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 170
 url: /ar/aspose.cells/styleflag/font_strike/
 is_root: false
 ---
-##  font_strike الملكية
+##  font_strike عقار
 
-سيتم تطبيق إعداد خط الخط.
+سيتم تطبيق إعداد شطب الخط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_strike(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

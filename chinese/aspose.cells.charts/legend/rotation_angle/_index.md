@@ -3,15 +3,15 @@ title: rotation_angle属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 320
+weight: 380
 url: /zh/aspose.cells.charts/legend/rotation_angle/
 is_root: false
 ---
 ## rotation_angle属性
 
-代表文本旋转角度。
+表示文本旋转角度。
 
-### 评论
+### 注意事项
 
 
 ### 定义：

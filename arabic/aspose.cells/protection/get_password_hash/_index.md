@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells/protection/get_password_hash/
 is_root: false
 ---
-##  get_password_hash() {#}
+##  get_password_hash(self) {#}
 يحصل على تجزئة كلمة المرور الحالية.
 
 
 
 ```python
+
 def get_password_hash(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_password_hash(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Protection](/cells/python-net/ar/aspose.cells/protection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Protection`](/cells/python-net/ar/aspose.cells/protection)

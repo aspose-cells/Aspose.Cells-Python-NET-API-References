@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/customfunctiondefinition/__init__/
 is_root: false
 ---
-##  __فيه__ {#}
+##  \_\_init\_\_(الذات){#}
 إنشاء مثيل جديد لـ CustomFunctionDefinition
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

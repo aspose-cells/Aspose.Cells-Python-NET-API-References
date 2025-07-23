@@ -1,5 +1,5 @@
 ---
-title: blur الملكية
+title: blur عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.drawing/shadoweffect/blur/
 is_root: false
 ---
-##  blur الملكية
+##  blur عقار
 
-الحصول على blur الظل وتعيينه. تتراوح من 0 إلى 100 نقطة.
+يحصل على قيمة الظل ٠٧٦١٠٣٤٨١ ويضبطها. نطاق من ٠ إلى ١٠٠ نقطة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def blur(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShadowEffect](/cells/python-net/ar/aspose.cells.drawing/shadoweffect)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShadowEffect`](/cells/python-net/ar/aspose.cells.drawing/shadoweffect)

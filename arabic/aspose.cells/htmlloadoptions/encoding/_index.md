@@ -1,5 +1,5 @@
 ---
-title: encoding الملكية
+title: encoding عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 150
 url: /ar/aspose.cells/htmlloadoptions/encoding/
 is_root: false
 ---
-##  encoding الملكية
+##  encoding عقار
 
-الحصول على وتعيين الافتراضي encoding. ينطبق فقط على ملف csv.
+يحصل على القيمة الافتراضية encoding ويقوم بتعيينها. ينطبق فقط على ملف csv.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def encoding(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlLoadOptions](/cells/python-net/ar/aspose.cells/htmlloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlLoadOptions`](/cells/python-net/ar/aspose.cells/htmlloadoptions)

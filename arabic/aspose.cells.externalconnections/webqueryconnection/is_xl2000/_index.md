@@ -1,15 +1,15 @@
 ---
-title: is_xl2000 الملكية
+title: is_xl2000 عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 240
 url: /ar/aspose.cells.externalconnections/webqueryconnection/is_xl2000/
 is_root: false
 ---
-##  is_xl2000 الملكية
+##  is_xl2000 عقار
 
-توجد هذه العلامة للتوافق مع ملفات جداول البيانات الحالية القديمة ، وتم تعيينها
+تم إنشاء هذا العلم للتوافق مع ملفات جداول البيانات القديمة الموجودة، وتم تعيينه
 إلى true إذا تم تحديث استعلام الويب هذا في تطبيق جدول بيانات أحدث من أو يساوي
 إلى Microsoft Excel 2000.
 هذه سمة اختيارية يمكن تجاهلها.
@@ -24,5 +24,5 @@ def is_xl2000(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

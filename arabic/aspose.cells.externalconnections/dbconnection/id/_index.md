@@ -1,15 +1,13 @@
 ---
-title: id الملكية
+title: id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 140
 url: /ar/aspose.cells.externalconnections/dbconnection/id/
 is_root: false
 ---
-##  id الملكية
-
-يحصل على id الخاص بالاتصال.
+##  id عقار
 ###  تعريف:
 ```python
 @property
@@ -18,5 +16,5 @@ def id(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [DBConnection](/cells/python-net/ar/aspose.cells.externalconnections/dbconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`DBConnection`](/cells/python-net/ar/aspose.cells.externalconnections/dbconnection)

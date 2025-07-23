@@ -1,15 +1,15 @@
 ---
-title: background_color_set_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: background_color_set_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.charts/marker/background_color_set_type/
 is_root: false
 ---
-## background_color_set_type 属性
+## background_color_set_type属性
 
-获取或设置标记背景颜色集类型。
+获取或设置标记背景颜色设置类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def background_color_set_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [FormattingType](/cells/python-net/zh/aspose.cells.charts/formattingtype)
-* 类 [Marker](/cells/python-net/zh/aspose.cells.charts/marker)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`FormattingType`](/cells/python-net/zh/aspose.cells.charts/formattingtype)
+* 类 [`Marker`](/cells/python-net/zh/aspose.cells.charts/marker)

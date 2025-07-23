@@ -3,20 +3,21 @@ title: طريقة get_grouped_row_outline_level
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 430
 url: /ar/aspose.cells/cells/get_grouped_row_outline_level/
 is_root: false
 ---
-##  get_grouped_row_outline_level {#int}
-الحصول على مستوى المخطط التفصيلي (يعتمد على الصفر) للصف.
+##  get_grouped_row_outline_level(self, row_index) {#int}
+يحصل على مستوى المخطط التفصيلي (المستند إلى الصفر) للصف.
 
 
 ###  عائدات
 
-مستوى المخطط التفصيلي (يعتمد على الصفر) للصف.
+مستوى المخطط التفصيلي (المستند إلى الصفر) للصف.
 
 
 ```python
+
 def get_grouped_row_outline_level(self, row_index):
     ...
 ```
@@ -27,7 +28,7 @@ def get_grouped_row_outline_level(self, row_index):
 | row_index | int | مؤشر الصف.|
 ###  ملاحظات
 
-إذا لم يتم تجميع الصف، فسيتم إرجاع صفر.
+إذا لم يتم تجميع الصف، فسيتم إرجاع الصفر.
 
 
 ###  أنظر أيضا

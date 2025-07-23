@@ -3,7 +3,7 @@ title: is_font_substitution_char_granularity عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ar/aspose.cells.rendering/imageorprintoptions/is_font_substitution_char_granularity/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  ملاحظات
 
-الافتراضي خطأ. سنجرب الخط الافتراضي لـ Workbook وPdfSaveOption/system لخط الخلية أولاً.
+الإعداد الافتراضي خاطئ. سنجرب الخط الافتراضي لـ Workbook وPdfSaveOption/system لخط الخلية أولًا.
 ###  تعريف:
 ```python
 @property

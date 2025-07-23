@@ -3,13 +3,13 @@ title: scenarios属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 740
+weight: 770
 url: /zh/aspose.cells/worksheet/scenarios/
 is_root: false
 ---
 ## scenarios属性
 
-获取[`Scenario`](/cells/python-net/zh/aspose.cells/scenario)的集合。
+获取 [`Scenario`](/cells/python-net/zh/aspose.cells/scenario) 的集合。
 ### 定义：
 ```python
 @property

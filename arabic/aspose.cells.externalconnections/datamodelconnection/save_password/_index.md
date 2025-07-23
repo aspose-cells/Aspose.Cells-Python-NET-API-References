@@ -1,15 +1,13 @@
 ---
-title: save_password الملكية
+title: save_password عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 270
 url: /ar/aspose.cells.externalconnections/datamodelconnection/save_password/
 is_root: false
 ---
-##  save_password الملكية
-
-صحيح إذا كان سيتم حفظ كلمة المرور كجزء من سلسلة الاتصال ؛ خلاف ذلك ، خطأ.
+##  save_password عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def save_password(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [DataModelConnection](/cells/python-net/ar/aspose.cells.externalconnections/datamodelconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`DataModelConnection`](/cells/python-net/ar/aspose.cells.externalconnections/datamodelconnection)

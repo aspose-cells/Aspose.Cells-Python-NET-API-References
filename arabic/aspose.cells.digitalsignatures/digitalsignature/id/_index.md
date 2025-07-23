@@ -1,20 +1,20 @@
 ---
-title: id الملكية
+title: id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells.digitalsignatures/digitalsignature/id/
 is_root: false
 ---
-##  id الملكية
+##  id عقار
 
-يحدد GUID الذي يمكن الرجوع إليه باستخدام GUID الخاص بسطر التوقيع المخزن في محتوى المستند.
-القيمة الافتراضية هي فارغة (جميع الأصفار).
+يقوم بتحديد GUID الذي يمكن الرجوع إليه بشكل متبادل مع GUID لسطر التوقيع المخزن في محتوى المستند.
+القيمة الافتراضية هي Guid فارغ (كلها أصفار).
 
 ###  ملاحظات
 
-عند التعيين ، فإنه يربط [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline) بالمقابل [DigitalSignature](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature).
+عند ضبطه، فإنه يربط [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline) مع [`DigitalSignature`](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature) المقابل.
 ###  تعريف:
 ```python
 @property
@@ -26,6 +26,6 @@ def id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.digitalsignatures](../../)
-* فئة [DigitalSignature](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature)
-* فئة [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline)
+* الوحدة [`aspose.cells.digitalsignatures`](../../)
+* فئة [`DigitalSignature`](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature)
+* فئة [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline)

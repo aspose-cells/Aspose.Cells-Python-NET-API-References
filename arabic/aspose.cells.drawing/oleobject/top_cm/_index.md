@@ -3,13 +3,13 @@ title: top_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1250
+weight: 1260
 url: /ar/aspose.cells.drawing/oleobject/top_cm/
 is_root: false
 ---
 ##  top_cm عقار
 
-يمثل الإزاحة الرأسية للشكل من الصف العلوي بوحدة السنتيمتر.
+يمثل الإزاحة الرأسية للشكل من الصف العلوي، بوحدة السنتيمتر.
 
 ###  مثال
 

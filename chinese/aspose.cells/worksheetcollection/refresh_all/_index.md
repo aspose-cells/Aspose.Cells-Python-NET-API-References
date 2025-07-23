@@ -7,12 +7,13 @@ weight: 160
 url: /zh/aspose.cells/worksheetcollection/refresh_all/
 is_root: false
 ---
-##  refresh_all {#}
+##  refresh_all(self) {#}
 使用数据透视源刷新所有数据透视表和图表。
 
 
 
 ```python
+
 def refresh_all(self):
     ...
 ```

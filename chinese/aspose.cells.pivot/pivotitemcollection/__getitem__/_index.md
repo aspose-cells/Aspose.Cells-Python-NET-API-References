@@ -1,9 +1,9 @@
 ---
 title: PivotItemCollection 索引器
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 30
+weight: 50
 url: /zh/aspose.cells.pivot/pivotitemcollection/__getitem__/
 is_root: false
 ---
@@ -18,5 +18,5 @@ is_root: false
 
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotItemCollection](/cells/python-net/zh/aspose.cells.pivot/pivotitemcollection)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotItemCollection`](/cells/python-net/zh/aspose.cells.pivot/pivotitemcollection)

@@ -1,5 +1,5 @@
 ---
-title: large_change الملكية
+title: large_change عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 140
 url: /ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/large_change/
 is_root: false
 ---
-##  large_change الملكية
+##  large_change عقار
 
-الحصول على وتعيين المقدار الذي تتغير به خاصية الموضع
+يحصل على المبلغ الذي تتغير به خاصية الموضع ويحدده
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def large_change(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ScrollBarActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ScrollBarActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

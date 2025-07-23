@@ -1,15 +1,15 @@
 ---
-title: f الملكية
+title: f عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ar/aspose.cells.querytables/powerqueryformulafunction/f/
 is_root: false
 ---
-##  f الملكية
+##  f عقار
 
-يحصل ويضع تعريف الوظيفة.
+يحصل على تعريف الوظيفة ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def f(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.querytables](../../)
-* فئة [PowerQueryFormulaFunction](/cells/python-net/ar/aspose.cells.querytables/powerqueryformulafunction)
+* الوحدة [`aspose.cells.querytables`](../../)
+* فئة [`PowerQueryFormulaFunction`](/cells/python-net/ar/aspose.cells.querytables/powerqueryformulafunction)

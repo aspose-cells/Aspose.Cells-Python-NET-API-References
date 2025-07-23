@@ -3,7 +3,7 @@ title: is_hidden属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 590
+weight: 600
 url: /zh/aspose.cells.drawing/commentshape/is_hidden/
 is_root: false
 ---

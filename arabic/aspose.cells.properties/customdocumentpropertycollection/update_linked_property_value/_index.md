@@ -3,16 +3,17 @@ title: طريقة update_linked_property_value
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells.properties/customdocumentpropertycollection/update_linked_property_value/
 is_root: false
 ---
-##  update_linked_property_value() {#}
-تحديث قيمة خاصية الوثيقة المخصصة التي ترتبط بالمحتوى.
+##  update_linked_property_value(self) {#}
+تحديث قيمة خاصية المستند المخصصة التي ترتبط بالمحتوى.
 
 
 
 ```python
+
 def update_linked_property_value(self):
     ...
 ```
@@ -22,5 +23,5 @@ def update_linked_property_value(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [CustomDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`CustomDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)

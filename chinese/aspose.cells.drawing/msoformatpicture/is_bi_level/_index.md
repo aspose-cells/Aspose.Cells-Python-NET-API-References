@@ -9,7 +9,7 @@ is_root: false
 ---
 ## is_bi_level属性
 
-指示该图片是否应以黑白两种颜色显示。
+指示此图片是否应以黑白双色显示。
 ### 定义：
 ```python
 @property

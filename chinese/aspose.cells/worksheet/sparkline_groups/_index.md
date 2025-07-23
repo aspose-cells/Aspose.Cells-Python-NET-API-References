@@ -3,7 +3,7 @@ title: sparkline_groups属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 800
+weight: 820
 url: /zh/aspose.cells/worksheet/sparkline_groups/
 is_root: false
 ---

@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.markup/smarttagsetting/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-إضافة خلية العلامات الذكية.
+##  add(self, cell_name) {#str}
+أضف علامات خلية ذكية.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -27,16 +28,17 @@ def add(self, cell_name):
 | cell_name | str | اسم الخلية.|
 
 
-##  add(row, column) {#int-int}
-اضافة عنصر [SmartTagCollection](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) الى خلية.
+##  add(self, row, column) {#int-int}
+يضيف الكائن [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) إلى خلية.
 
 
 ###  عائدات
 
-إرجاع فهرس لكائن [SmartTagCollection](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) في ورقة العمل.
+إرجاع فهرس الكائن [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) في ورقة العمل.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -50,6 +52,6 @@ def add(self, row, column):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](../../)
-* فئة [SmartTagCollection](/cells/python-net/ar/aspose.cells.markup/smarttagcollection)
-* فئة [SmartTagSetting](/cells/python-net/ar/aspose.cells.markup/smarttagsetting)
+* الوحدة [`aspose.cells.markup`](../../)
+* فئة [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection)
+* فئة [`SmartTagSetting`](/cells/python-net/ar/aspose.cells.markup/smarttagsetting)

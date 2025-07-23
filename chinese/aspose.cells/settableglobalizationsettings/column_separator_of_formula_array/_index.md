@@ -9,7 +9,7 @@ is_root: false
 ---
 ## column_separator_of_formula_array属性
 
-获取公式中数组行数据中项目的分隔符。
+获取公式中数组行数据项的分隔符。
 ### 定义：
 ```python
 @property

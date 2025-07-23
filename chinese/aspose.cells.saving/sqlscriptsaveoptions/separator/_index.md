@@ -1,19 +1,19 @@
 ---
-title: separator 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: separator属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 200
+weight: 220
 url: /zh/aspose.cells.saving/sqlscriptsaveoptions/separator/
 is_root: false
 ---
-## separator 属性
+## separator属性
 
-获取和设置 sql 脚本的字符 separator。
+获取并设置 sql 脚本的字符 separator。
 
-### 评论
+### 注意事项
 
-只能是 ' ' 或 '\n'。
+只能是‘ ’或‘\n’。
 如果
 ### 定义：
 ```python
@@ -26,5 +26,5 @@ def separator(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.saving](../../)
-* 类 [SqlScriptSaveOptions](/cells/python-net/zh/aspose.cells.saving/sqlscriptsaveoptions)
+* 模块[`aspose.cells.saving`](../../)
+* 类 [`SqlScriptSaveOptions`](/cells/python-net/zh/aspose.cells.saving/sqlscriptsaveoptions)

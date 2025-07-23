@@ -1,5 +1,5 @@
 ---
-title: ignore_object_title الملكية
+title: ignore_object_title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,16 +7,16 @@ weight: 80
 url: /ar/aspose.cells.utility/jsonlayoutoptions/ignore_object_title/
 is_root: false
 ---
-##  ignore_object_title الملكية
+##  ignore_object_title عقار
 
-يشير إلى ما إذا كان تجاهل العنوان إذا كان الكائن خاصية لكائن.
+يشير إلى ما إذا كان سيتم تجاهل العنوان إذا كان الكائن خاصية للكائن.
 
 ###  ملاحظات
 
- ملاحظة: هذه الخاصية عفا عليها الزمن الآن.
-بدلاً من ذلك ، يرجى استخدام الخاصية JsonLayoutOptions.IgnoreTitle بدلاً من ذلك.
- ستتم إزالة هذا العقار بعد 6 أشهر منذ فبراير 2023.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ملحوظة: هذه الخاصية أصبحت قديمة الآن.
+بدلاً من ذلك، يرجى استخدام الخاصية JsonLayoutOptions.IgnoreTitle بدلاً من ذلك.
+ سيتم إزالة هذه الخاصية بعد 6 أشهر منذ فبراير 2023.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property
@@ -28,5 +28,5 @@ def ignore_object_title(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.utility](../../)
-* فئة [JsonLayoutOptions](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)
+* الوحدة [`aspose.cells.utility`](../../)
+* فئة [`JsonLayoutOptions`](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)

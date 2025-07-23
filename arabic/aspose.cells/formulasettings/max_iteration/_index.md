@@ -1,5 +1,5 @@
 ---
-title: max_iteration الملكية
+title: max_iteration عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 110
 url: /ar/aspose.cells/formulasettings/max_iteration/
 is_root: false
 ---
-##  max_iteration الملكية
+##  max_iteration عقار
 
-الحد الأقصى من التكرارات لحل مرجع معاد.
+الحد الأقصى للتكرارات لحل مرجع دائري.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_iteration(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormulaSettings](/cells/python-net/ar/aspose.cells/formulasettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormulaSettings`](/cells/python-net/ar/aspose.cells/formulasettings)

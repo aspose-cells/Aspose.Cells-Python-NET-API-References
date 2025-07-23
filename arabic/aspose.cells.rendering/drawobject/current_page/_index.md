@@ -1,5 +1,5 @@
 ---
-title: current_page الملكية
+title: current_page عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,11 +7,11 @@ weight: 40
 url: /ar/aspose.cells.rendering/drawobject/current_page/
 is_root: false
 ---
-##  current_page الملكية
+##  current_page عقار
 
- يشير إلى فهرس صفحة DrawObject.
-فهرس الصفحة يعتمد على الصفر.
-تحتوي ورقة واحدة على عدة صفحات عند التقديم.
+ يشير إلى فهرس الصفحة لـ DrawObject.
+يعتمد فهرس الصفحة على الصفر.
+تحتوي الورقة الواحدة على عدة صفحات عند العرض.
 ###  تعريف:
 ```python
 @property
@@ -20,5 +20,5 @@ def current_page(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [DrawObject](/cells/python-net/ar/aspose.cells.rendering/drawobject)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`DrawObject`](/cells/python-net/ar/aspose.cells.rendering/drawobject)

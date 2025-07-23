@@ -3,13 +3,13 @@ title: count_large属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1030
+weight: 1050
 url: /zh/aspose.cells/cells/count_large/
 is_root: false
 ---
 ## count_large属性
 
-获取实例化 Cell 对象的总数。
+获取实例化的 Cell 对象的总数。
 ### 定义：
 ```python
 @property

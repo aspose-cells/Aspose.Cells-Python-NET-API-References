@@ -1,5 +1,5 @@
 ---
-title: keep_precision الملكية
+title: keep_precision عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 150
 url: /ar/aspose.cells/abstracttextloadoptions/keep_precision/
 is_root: false
 ---
-##  keep_precision الملكية
+##  keep_precision عقار
 
-يشير إلى ما إذا كان لا يتم تحليل قيمة سلسلة إذا كان الطول 15.
+يشير إلى ما إذا كان سيتم تحليل قيمة السلسلة إذا كان الطول 15.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def keep_precision(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AbstractTextLoadOptions](/cells/python-net/ar/aspose.cells/abstracttextloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AbstractTextLoadOptions`](/cells/python-net/ar/aspose.cells/abstracttextloadoptions)

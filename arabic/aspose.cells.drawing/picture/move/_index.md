@@ -3,16 +3,17 @@ title: طريقة move
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ar/aspose.cells.drawing/picture/move/
 is_root: false
 ---
-##  move {#int-int}
-ينقل الصورة إلى موقع محدد.
+##  move(self, upper_left_row, upper_left_column) {#int-int}
+نقل الصورة إلى موقع محدد.
 
 
 
 ```python
+
 def move(self, upper_left_row, upper_left_column):
     ...
 ```
@@ -21,7 +22,7 @@ def move(self, upper_left_row, upper_left_column):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | upper_left_row | int | مؤشر الصف العلوي الأيسر.|
-| upper_left_column | int | فهرس العمود الأيسر العلوي.|
+| upper_left_column | int | فهرس العمود العلوي الأيسر.|
 
 ###  مثال
 

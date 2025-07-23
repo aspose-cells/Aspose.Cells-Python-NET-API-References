@@ -3,13 +3,13 @@ title: content_type_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 500
 url: /ar/aspose.cells/workbook/content_type_properties/
 is_root: false
 ---
 ##  content_type_properties عقار
 
-الحصول على قائمة الكائنات [`ContentTypeProperty`](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty) في المصنف.
+يحصل على قائمة [`ContentTypeProperty`](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty) من الكائنات الموجودة في المصنف.
 ###  تعريف:
 ```python
 @property

@@ -3,15 +3,15 @@ title: hidden_col_display_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 420
+weight: 470
 url: /zh/aspose.cells.saving/ebooksaveoptions/hidden_col_display_type/
 is_root: false
 ---
 ## hidden_col_display_type属性
 
-Excel中的隐藏列（该列的宽度为0），在将其保存为html格式之前，
-如果 HtmlHiddenColDisplayType 为“Remove”，则不会输出隐藏列，
-如果值为“Hidden”，则该列将被输出，但被隐藏，默认值为“Hidden”
+excel 中的隐藏列（此列的宽度为 0），在将其保存为 html 格式之前，
+如果HtmlHiddenColDisplayType为“Remove”，则隐藏列将不会输出，
+如果值为“Hidden”，则该列会被输出，但被隐藏，默认值为“Hidden”
 ### 定义：
 ```python
 @property

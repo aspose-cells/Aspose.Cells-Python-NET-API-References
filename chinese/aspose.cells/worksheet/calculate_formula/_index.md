@@ -7,16 +7,17 @@ weight: 90
 url: /zh/aspose.cells/worksheet/calculate_formula/
 is_root: false
 ---
-##  calculate_formula {#str}
+##  calculate_formula(self, formula) {#str}
 计算公式。
 
 
-### 退货
+### 返回
 
 计算公式结果。
 
 
 ```python
+
 def calculate_formula(self, formula):
     ...
 ```
@@ -24,20 +25,21 @@ def calculate_formula(self, formula):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| formula | str |计算公式。|
+| formula | str |要计算的公式。|
 
 
-##  calculate_formula {#str-aspose.cells.CalculationOptions}
+##  calculate_formula(self, formula, opts) {#str-aspose.cells.CalculationOptions}
 直接计算公式表达式。
 
 
-### 退货
+### 返回
 
 给定公式的计算结果。
-返回的对象可能是 [`Cell.value`](/cells/python-net/zh/aspose.cells/cell#value) 或 ReferredArea 类型。
+返回的对象可能的类型为 [`Cell.value`](/cells/python-net/zh/aspose.cells/cell#value) 或 ReferredArea。
 
 
 ```python
+
 def calculate_formula(self, formula, opts):
     ...
 ```
@@ -45,21 +47,22 @@ def calculate_formula(self, formula, opts):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| formula | str |计算公式。|
+| formula | str |要计算的公式。|
 | opts | [`CalculationOptions`](/cells/python-net/zh/aspose.cells/calculationoptions) |计算公式的选项|
-### 评论
+### 注意事项
 
-公式的计算方式与单元格 A1 中设置的公式相同。
+公式将按照设置到单元格 A1 的方式进行计算。
 并且该公式将被视为正常公式。
-如果您需要将公式计算为数组公式并获取计算结果的数组，
-请改用[`Worksheet.calculate_array_formula`](/cells/python-net/zh/aspose.cells/worksheet/calculate_array_formula)。
+如果需要将公式作为数组公式进行计算并获取计算结果的数组，
+请改用 [`Worksheet.calculate_array_formula`](/cells/python-net/zh/aspose.cells/worksheet/calculate_array_formula)。
 
-##  calculate_formula {#aspose.cells.CalculationOptions-bool}
+##  calculate_formula(self, options, recursive) {#aspose.cells.CalculationOptions-bool}
 计算此工作表中的所有公式。
 
 
 
 ```python
+
 def calculate_formula(self, options, recursive):
     ...
 ```
@@ -68,20 +71,21 @@ def calculate_formula(self, options, recursive):
 |范围|类型|描述|
 | :- | :- | :- |
 | options | [`CalculationOptions`](/cells/python-net/zh/aspose.cells/calculationoptions) |计算选项|
-| recursive | bool | True 表示如果工作表的单元格依赖于其他工作表的单元格，<br/>其他工作表中的依赖单元格也会被计算。<br/> False 表示工作表中的所有公式均已计算且值正确。|
+| recursive | bool | True 表示如果工作表的单元格依赖于其他工作表的单元格，<br/>其他工作表中的相关单元格也将被计算。<br/> False 表示工作表中的所有公式都已计算并且值正确。|
 
 
-##  calculate_formula {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
+##  calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data) {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
 直接计算公式表达式。
 
 
-### 退货
+### 返回
 
 给定公式的计算结果。
-返回的对象可能是 [`Cell.value`](/cells/python-net/zh/aspose.cells/cell#value) 或 ReferredArea 类型。
+返回的对象可能的类型为 [`Cell.value`](/cells/python-net/zh/aspose.cells/cell#value) 或 ReferredArea。
 
 
 ```python
+
 def calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data):
     ...
 ```
@@ -89,18 +93,18 @@ def calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_co
 
 |范围|类型|描述|
 | :- | :- | :- |
-| formula | str |计算公式。|
+| formula | str |要计算的公式。|
 | p_opts | [`FormulaParseOptions`](/cells/python-net/zh/aspose.cells/formulaparseoptions) |解析公式的选项。|
 | c_opts | [`CalculationOptions`](/cells/python-net/zh/aspose.cells/calculationoptions) |计算公式的选项。|
-| base_cell_row | int |基本单元格的行索引。|
-| base_cell_column | int |基本单元格的列索引。|
-| calculation_data | [`CalculationData`](/cells/python-net/zh/aspose.cells/calculationdata) |计算数据。这是用于情况<br/>用户在实现自定义计算引擎时需要计算一些静态公式。<br/>对于这种情况，用户需要通过提供的计算数据来指定<br/>[`AbstractCalculationEngine.calculate`](/cells/python-net/zh/aspose.cells/abstractcalculationengine/calculate)。|
-### 评论
+| base_cell_row | int |基准单元格的行索引。|
+| base_cell_column | int |基准单元格的列索引。|
+| calculation_data | [`CalculationData`](/cells/python-net/zh/aspose.cells/calculationdata) |计算数据。它用于以下情况<br/>用户在实现自定义计算引擎时需要计算一些静态公式。<br/>对于这种情况，用户需要使用提供的计算数据进行指定<br/>对于 Aspose.Cells.AbstractCalculationEngine.Calculate。|
+### 注意事项
 
-公式的计算方式就像设置为指定的基本单元格一样。
-并且该公式将被视为正常公式。如果您需要将公式计算为数组公式
+公式将按照设置到指定基准单元格的方式进行计算。
+公式将被视为普通公式。如果需要将公式作为数组公式计算
 要获取计算结果的数组，请使用
-改为[`Worksheet.calculate_array_formula`](/cells/python-net/zh/aspose.cells/worksheet/calculate_array_formula)。
+[`Worksheet.calculate_array_formula`](/cells/python-net/zh/aspose.cells/worksheet/calculate_array_formula)。
 
 
 ### 也可以看看

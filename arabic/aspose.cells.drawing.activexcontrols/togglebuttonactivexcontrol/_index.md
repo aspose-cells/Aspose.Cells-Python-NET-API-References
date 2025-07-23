@@ -1,55 +1,53 @@
 ---
-title: ToggleButtonActiveXControl الدرجة
+title: ToggleButtonActiveXControl صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 110
 url: /ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/
 is_root: false
 ---
-##  ToggleButtonActiveXControl الدرجة
-يمثل عنصر تحكم ToggleButton ActiveX.
+##  ToggleButtonActiveXControl صف
+يمثل عنصر التحكم ToggleButton ActiveX.
 
 
 
-**ميراث:** [ToggleButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**الميراث:** [`ToggleButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
 
 
 
-يكشف نوع ToggleButtonActiveXControl الأعضاء التالية:
+يكشف النوع ToggleButtonActiveXControl عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/workbook) | الحصول على كائن [ActiveXControlBase.workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook).|
-| [type](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/type) | يحصل على نوع عنصر تحكم ActiveX.|
-| [width](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/width) |الحصول على عرض عنصر التحكم وتعيينه بوحدة النقاط.|
-| [height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/height) | الحصول على ارتفاع عنصر التحكم وتعيينه بوحدة النقاط.|
-| [mouse_icon](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_icon) | الحصول على رمز مخصص وتعيينه لعرضه كمؤشر الماوس لعنصر التحكم.|
-| [mouse_pointer](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_pointer) | الحصول على نوع الرمز المعروض كمؤشر الماوس لعنصر التحكم وتعيينه.|
-| [fore_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/fore_ole_color) | الحصول على لون الأولي للمقدمة وتعيينه.|
-| [back_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/back_ole_color) | الحصول على لون الخلفية للخلفية وتعيينه.|
-| [is_visible](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_visible) | يشير إلى ما إذا كان عنصر التحكم هذا مرئيًا أم لا.|
-| [shadow](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/shadow) | يشير إلى ما إذا كان سيتم إظهار ظل أم لا.|
-| [linked_cell](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/linked_cell) | الحصول على الخلية المرتبطة وتعيينها.|
-| [list_fill_range](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/list_fill_range) | الحصول على نطاق تعبئة القائمة وتعيينه.|
-| [data](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/data) | الحصول على البيانات الثنائية لعنصر التحكم وتعيينها.|
-| [is_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_enabled) | يشير إلى ما إذا كان عنصر التحكم يمكنه تلقي التركيز والاستجابة للأحداث التي ينشئها المستخدم.|
-| [is_locked](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_locked) | يشير إلى ما إذا كانت البيانات الموجودة في عنصر التحكم مؤمنة للتحرير.|
-| [is_transparent](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_transparent) | يشير إلى ما إذا كان عنصر التحكم شفافًا أم لا.|
-| [is_auto_size](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_auto_size) | الإشارة إلى ما إذا كان سيتم تغيير حجم عنصر التحكم تلقائيًا لعرض محتوياته بالكامل.|
-| [ime_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/ime_mode) |الحصول على وتعيين وضع وقت التشغيل الافتراضي لمحرر أسلوب الإدخال لعنصر التحكم أثناء تلقيه التركيز.|
-| [font](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/font) | يمثل خط عنصر التحكم.|
-| [text_align](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/text_align) | يمثل كيفية محاذاة النص المستخدم بواسطة عنصر التحكم.|
-| [caption](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/caption) | الحصول على النص الوصفي الذي يظهر في عنصر التحكم وتعيينه.|
-| [picture_position](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/picture_position) | الحصول على موقع صورة عنصر التحكم وتعيينه بالنسبة إلى التسمية التوضيحية الخاصة به.|
-| [special_effect](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/special_effect) | الحصول على التأثير الخاص لعنصر التحكم وتعيينه.|
-| [picture](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/picture) | الحصول على بيانات الصورة وتعيينها.|
-| [accelerator](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/accelerator) | يحصل ويضبط مفتاح التسريع للتحكم.|
-| [value](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/value) |يشير إلى ما إذا كان عنصر التحكم محددًا أم لا.|
-| [is_triple_state](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_triple_state) | يشير إلى كيفية عرض عنصر التحكم المحدد القيم الخالية.|
+| [workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/workbook) |  |
+| [type](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/type) | يحصل على نوع عنصر التحكم ActiveX.|
+| [width](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/width) |  |
+| [height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/height) |  |
+| [mouse_icon](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_icon) |  |
+| [mouse_pointer](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_pointer) |  |
+| [fore_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/fore_ole_color) |  |
+| [back_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/back_ole_color) |  |
+| [is_visible](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_visible) |  |
+| [shadow](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/shadow) |  |
+| [linked_cell](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/linked_cell) |  |
+| [list_fill_range](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/list_fill_range) |  |
+| [data](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/data) |  |
+| [is_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_enabled) |  |
+| [is_locked](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_locked) |  |
+| [is_transparent](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_transparent) |  |
+| [is_auto_size](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_auto_size) |  |
+| [ime_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/ime_mode) |  |
+| [font](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/font) |  |
+| [text_align](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/text_align) |  |
+| [caption](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/caption) | يحصل على النص الوصفي الذي يظهر على عنصر التحكم ويقوم بتعيينه.|
+| [picture_position](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/picture_position) |يحصل على موقع صورة عنصر التحكم ويحدده بالنسبة لتسميتها التوضيحية.|
+| [special_effect](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/special_effect) | يحصل على التأثير الخاص لعنصر التحكم ويقوم بتعيينه.|
+| [picture](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/picture) | يحصل على بيانات الصورة ويضبطها.|
+| [accelerator](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/accelerator) | يحصل على مفتاح التسريع للتحكم ويقوم بتعيينه.|
+| [value](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/value) | يشير إلى ما إذا كان التحكم محددًا أم لا.|
+| [is_triple_state](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_triple_state) | يشير إلى كيفية عرض عنصر التحكم المحدد للقيم الفارغة.|
 
 
 
@@ -72,7 +70,5 @@ book.save("exmaple.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
-* فئة [ActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrol)
-* فئة [ActiveXControlBase](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* فئة [ToggleButtonActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)
+* فئة [`ToggleButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

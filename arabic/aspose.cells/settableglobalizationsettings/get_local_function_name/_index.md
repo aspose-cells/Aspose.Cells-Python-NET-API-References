@@ -7,16 +7,17 @@ weight: 130
 url: /ar/aspose.cells/settableglobalizationsettings/get_local_function_name/
 is_root: false
 ---
-##  get_local_function_name {#str}
-يحصل على اسم الوظيفة التابعة للغة المحلية وفقًا لاسم الوظيفة القياسي المحدد.
+##  get_local_function_name(self, standard_name) {#str}
+يحصل على اسم الوظيفة المعتمدة على الإعدادات المحلية وفقًا لاسم الوظيفة القياسي المقدم.
 
 
 ###  عائدات
 
-اسم الوظيفة المعتمدة على اللغة. تم تحديد الإعدادات المحلية بواسطة المصنف الذي يتم استخدام هذه الإعدادات له.
+اسم دالة تعتمد على الإعدادات المحلية. تم تحديد الإعدادات المحلية بواسطة المصنف الذي استُخدمت فيه هذه الإعدادات.
 
 
 ```python
+
 def get_local_function_name(self, standard_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_local_function_name(self, standard_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| standard_name | str | اسم الوظيفة القياسي (اللغة الإنجليزية الأمريكية).|
+| standard_name | str | اسم الوظيفة القياسية (en-US locale).|
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: WebExtensionBinding الدرجة
+title: WebExtensionBinding صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,27 +7,27 @@ weight: 20
 url: /ar/aspose.cells.webextensions/webextensionbinding/
 is_root: false
 ---
-##  WebExtensionBinding الدرجة
-يمثل علاقة ربط بين وظيفة Office الإضافية والبيانات الموجودة في المستند.
+##  WebExtensionBinding صف
+يمثل علاقة ملزمة بين الوظيفة الإضافية لـ Office والبيانات الموجودة في المستند.
 
 
 
-يكشف نوع WebExtensionBinding الأعضاء التالية:
+يكشف النوع WebExtensionBinding عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [WebExtensionBinding()](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding/__init__/#) | إنشاء مثيل جديد من WebExtensionBinding|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding/__init__/#) |إنشاء مثيل جديد لـ WebExtensionBinding|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [id](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding/id) | الحصول على معرف الربط وتعيينه.|
-| [type](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding/type) | يحصل على نوع الربط ويضبطه.|
-| [appref](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding/appref) | الحصول على وتعيين مفتاح الربط المستخدم لتعيين إدخال الربط في هذه القائمة بالبيانات المرتبطة في المستند.|
+| [id](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding/id) | يحصل على معرف الربط ويقوم بتعيينه.|
+| [type](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding/type) | يحصل على نوع الربط ويحدده.|
+| [appref](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding/appref) | يحصل على مفتاح الربط المستخدم لربط إدخال الربط في هذه القائمة بالبيانات المرتبطة في المستند ويقوم بتعيينه.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](..)
+* الوحدة [`aspose.cells.webextensions`](..)

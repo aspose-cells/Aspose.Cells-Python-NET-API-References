@@ -1,5 +1,5 @@
 ---
-title: all الملكية
+title: all عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/styleflag/all/
 is_root: false
 ---
-##  all الملكية
+##  all عقار
 
-سيتم تطبيق جميع الخصائص.
+سيتم تطبيق كافة الخصائص.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def all(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

@@ -3,7 +3,7 @@ title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /ar/aspose.cells.drawing/groupshape/type/
 is_root: false
 ---

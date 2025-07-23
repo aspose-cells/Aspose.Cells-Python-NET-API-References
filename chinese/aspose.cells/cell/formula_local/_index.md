@@ -3,13 +3,13 @@ title: formula_local属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 500
+weight: 510
 url: /zh/aspose.cells/cell/formula_local/
 is_root: false
 ---
 ## formula_local属性
 
-获取单元格的区域设置格式的公式。
+获取单元格的区域格式公式。
 ### 定义：
 ```python
 @property

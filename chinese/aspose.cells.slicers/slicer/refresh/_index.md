@@ -1,18 +1,19 @@
 ---
 title: refresh方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.slicers/slicer/refresh/
 is_root: false
 ---
-##  refresh() {#}
-刷新切片器。同时，刷新和计算相关数据透视表。
+##  refresh(self) {#}
+刷新切片器。同时刷新并计算相关的数据透视表。
 
 
 
 ```python
+
 def refresh(self):
     ...
 ```
@@ -30,5 +31,5 @@ slicer.refresh()
 
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](../../)
-* 类 [Slicer](/cells/python-net/zh/aspose.cells.slicers/slicer)
+* 模块[`aspose.cells.slicers`](../../)
+* 类 [`Slicer`](/cells/python-net/zh/aspose.cells.slicers/slicer)

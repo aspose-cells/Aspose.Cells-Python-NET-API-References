@@ -3,17 +3,17 @@ title: active_sheet_index属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 260
 url: /zh/aspose.cells/worksheetcollection/active_sheet_index/
 is_root: false
 ---
 ## active_sheet_index属性
 
-表示打开电子表格时活动工作表的索引。
+表示电子表格打开时活动工作表的索引。
 
-### 评论
+### 注意事项
 
-图纸索引从零开始。
+工作表索引从零开始。
 ### 定义：
 ```python
 @property

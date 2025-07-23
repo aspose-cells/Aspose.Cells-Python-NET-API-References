@@ -1,15 +1,15 @@
 ---
-title: last_cell الملكية
+title: last_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 210
 url: /ar/aspose.cells/row/last_cell/
 is_root: false
 ---
-##  last_cell الملكية
+##  last_cell عقار
 
-الحصول على آخر كائن خلية في الصف.
+يحصل على آخر كائن خلية في الصف.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def last_cell(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
-* فئة [Row](/cells/python-net/ar/aspose.cells/row)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)
+* فئة [`Row`](/cells/python-net/ar/aspose.cells/row)

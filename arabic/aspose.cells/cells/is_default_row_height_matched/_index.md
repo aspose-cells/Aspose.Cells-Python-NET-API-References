@@ -3,13 +3,13 @@ title: is_default_row_height_matched عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1050
+weight: 1080
 url: /ar/aspose.cells/cells/is_default_row_height_matched/
 is_root: false
 ---
 ##  is_default_row_height_matched عقار
 
-يشير إلى تطابق ارتفاع الصف مع ارتفاع الخط الافتراضي
+يشير إلى أن ارتفاع الصف وارتفاع الخط الافتراضي يتطابقان
 ###  تعريف:
 ```python
 @property

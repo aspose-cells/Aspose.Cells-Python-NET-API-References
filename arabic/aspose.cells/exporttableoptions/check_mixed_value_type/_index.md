@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  check_mixed_value_type عقار
 
-خطأ، Aspose.Cells سيقوم بتعيين نوع DataColumn حسب نوع قيمة الصف الأول للأداء.
- صحيح، Aspose.Cells سيتحقق مما إذا كان نوع القيمة في العمود مختلطًا قبل تعيين نوع DataColumn
-ونوع القيمة مختلط، وسيكون نوع DataColumn عبارة عن سلسلة.
+خطأ، Aspose.Cells سوف يقوم بتعيين نوع DataColumn حسب نوع القيمة للصف الأول للأداء.
+ صحيح، Aspose.Cells سوف يتحقق ما إذا كان نوع القيمة في العمود مختلطًا قبل تعيين نوع DataColumn
+ويتم خلط أنواع القيم، وسيكون نوع DataColumn عبارة عن سلسلة.
 ###  تعريف:
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: active_index الملكية
+title: active_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells/scenariocollection/active_index/
 is_root: false
 ---
-##  active_index الملكية
+##  active_index عقار
 
-يحصل ويحدد السيناريو الذي تم تحديده.
+يحصل على السيناريو المحدد ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def active_index(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ScenarioCollection](/cells/python-net/ar/aspose.cells/scenariocollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ScenarioCollection`](/cells/python-net/ar/aspose.cells/scenariocollection)

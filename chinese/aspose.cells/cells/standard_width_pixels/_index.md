@@ -3,13 +3,13 @@ title: standard_width_pixels属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1290
+weight: 1320
 url: /zh/aspose.cells/cells/standard_width_pixels/
 is_root: false
 ---
 ## standard_width_pixels属性
 
-获取或设置工作表中的默认列宽（以像素为单位）。
+获取或设置工作表中的默认列宽，以像素为单位。
 ### 定义：
 ```python
 @property

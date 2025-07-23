@@ -1,6 +1,6 @@
 ---
 title: Timeline类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
@@ -8,22 +8,23 @@ url: /zh/aspose.cells.timelines/timeline/
 is_root: false
 ---
 ## Timeline类
-Timeline查看概要说明
+Timeline 的摘要说明 查看
 由于 MS Excel，Excel 2003 不支持 Timeline
 
 
 
-Timeline 类型公开了以下成员：
+Timeline 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [caption](/cells/python-net/zh/aspose.cells.timelines/timeline/caption) |返回或设置指定时间轴的标题。|
+| [shape](/cells/python-net/zh/aspose.cells.timelines/timeline/shape) |返回与此时间轴关联的 [`TimelineShape`](/cells/python-net/zh/aspose.cells.drawing/timelineshape) 对象。只读。|
 | [name](/cells/python-net/zh/aspose.cells.timelines/timeline/name) |返回或设置指定时间轴的名称|
 | [left_pixel](/cells/python-net/zh/aspose.cells.timelines/timeline/left_pixel) |返回或设置时间线形状与其左列的水平偏移量（以像素为单位）。|
 | [top_pixel](/cells/python-net/zh/aspose.cells.timelines/timeline/top_pixel) |返回或设置时间线形状与其顶行的垂直偏移量（以像素为单位）。|
-| [width_pixel](/cells/python-net/zh/aspose.cells.timelines/timeline/width_pixel) |返回或设置指定时间线的宽度，以像素为单位。|
-| [height_pixel](/cells/python-net/zh/aspose.cells.timelines/timeline/height_pixel) |返回或设置指定时间线的高度，以像素为单位。|
+| [width_pixel](/cells/python-net/zh/aspose.cells.timelines/timeline/width_pixel) |返回或设置指定时间线的宽度（以像素为单位）。|
+| [height_pixel](/cells/python-net/zh/aspose.cells.timelines/timeline/height_pixel) |返回或设置指定时间线的高度（以像素为单位）。|
 
 
 
@@ -32,7 +33,7 @@ Timeline 类型公开了以下成员：
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -81,4 +82,5 @@ book.save("out.xlsx")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.timelines](..)
+* 模块[`aspose.cells.timelines`](..)
+* 类 [`TimelineShape`](/cells/python-net/zh/aspose.cells.drawing/timelineshape)

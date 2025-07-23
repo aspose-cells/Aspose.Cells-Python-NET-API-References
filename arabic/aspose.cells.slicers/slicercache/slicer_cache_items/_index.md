@@ -1,5 +1,5 @@
 ---
-title: slicer_cache_items الملكية
+title: slicer_cache_items عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.slicers/slicercache/slicer_cache_items/
 is_root: false
 ---
-##  slicer_cache_items الملكية
+##  slicer_cache_items عقار
 
-تُرجع مجموعة SlicerCacheItem التي تحتوي على مجموعة كل العناصر الموجودة في ذاكرة التخزين المؤقت لمقسم طريقة العرض. يقرأ فقط
+يُرجع مجموعة SlicerCacheItem التي تحتوي على مجموعة جميع العناصر في ذاكرة التخزين المؤقت للمُقطّع. للقراءة فقط
 
 ###  مثال
 
@@ -28,6 +28,6 @@ def slicer_cache_items(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [SlicerCache](/cells/python-net/ar/aspose.cells.slicers/slicercache)
-* فئة [SlicerCacheItemCollection](/cells/python-net/ar/aspose.cells.slicers/slicercacheitemcollection)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`SlicerCache`](/cells/python-net/ar/aspose.cells.slicers/slicercache)
+* فئة [`SlicerCacheItemCollection`](/cells/python-net/ar/aspose.cells.slicers/slicercacheitemcollection)

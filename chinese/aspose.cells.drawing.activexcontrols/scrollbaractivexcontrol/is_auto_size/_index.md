@@ -1,15 +1,13 @@
 ---
-title: is_auto_size 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_auto_size属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
 url: /zh/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_auto_size/
 is_root: false
 ---
-## is_auto_size 属性
-
-指示控件是否会自动调整大小以显示其全部内容。
+## is_auto_size属性
 ### 定义：
 ```python
 @property
@@ -21,5 +19,5 @@ def is_auto_size(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [ScrollBarActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`ScrollBarActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

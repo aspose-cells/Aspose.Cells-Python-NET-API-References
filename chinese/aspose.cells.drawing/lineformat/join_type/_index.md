@@ -1,13 +1,13 @@
 ---
-title: join_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: join_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 240
 url: /zh/aspose.cells.drawing/lineformat/join_type/
 is_root: false
 ---
-## join_type 属性
+## join_type属性
 
 指定线连接类型。
 
@@ -30,6 +30,6 @@ def join_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [LineFormat](/cells/python-net/zh/aspose.cells.drawing/lineformat)
-* 类 [LineJoinType](/cells/python-net/zh/aspose.cells.drawing/linejointype)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`LineFormat`](/cells/python-net/zh/aspose.cells.drawing/lineformat)
+* 类 [`LineJoinType`](/cells/python-net/zh/aspose.cells.drawing/linejointype)

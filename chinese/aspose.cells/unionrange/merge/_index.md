@@ -1,29 +1,30 @@
 ---
 title: merge方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 50
 url: /zh/aspose.cells/unionrange/merge/
 is_root: false
 ---
-##  merge() {#}
-将一系列单元格组合成一个单元格。
+##  merge(self) {#}
+将一系列单元格合并为一个单元格。
 
 
 
 ```python
+
 def merge(self):
     ...
 ```
 
 
-### 评论
+### 注意事项
 
-通过区域中左上角单元格的地址引用合并的单元格。
+通过范围内左上角单元格的地址引用合并的单元格。
 
 
 ### 也可以看看
 
-* 模块 [aspose.cells](../../)
-* 类 [UnionRange](/cells/python-net/zh/aspose.cells/unionrange)
+* 模块[`aspose.cells`](../../)
+* 类 [`UnionRange`](/cells/python-net/zh/aspose.cells/unionrange)

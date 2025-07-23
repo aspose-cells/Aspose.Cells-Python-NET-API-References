@@ -1,5 +1,5 @@
 ---
-title: FindOptions المنشئ
+title: FindOptions منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/findoptions/__init__/
 is_root: false
 ---
-##  FindOptions() {#}
-بناء نسخة جديدة من FindOptions
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد لـ FindOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FindOptions](/cells/python-net/ar/aspose.cells/findoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FindOptions`](/cells/python-net/ar/aspose.cells/findoptions)

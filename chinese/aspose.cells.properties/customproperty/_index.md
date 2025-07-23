@@ -1,6 +1,6 @@
 ---
 title: CustomProperty类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-CustomProperty 类型公开了以下成员：
+CustomProperty 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [CustomProperty()](/cells/python-net/zh/aspose.cells.properties/customproperty/__init__/#) |构造 CustomProperty 的新实例|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells.properties/customproperty/__init__/#) |构造一个新的 CustomProperty 实例|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [name](/cells/python-net/zh/aspose.cells.properties/customproperty/name) |返回或设置对象的名称。|
@@ -30,4 +30,4 @@ CustomProperty 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.properties](..)
+* 模块[`aspose.cells.properties`](..)

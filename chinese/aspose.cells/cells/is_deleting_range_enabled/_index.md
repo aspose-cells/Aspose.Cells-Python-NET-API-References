@@ -3,20 +3,21 @@ title: is_deleting_range_enabled方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 750
+weight: 770
 url: /zh/aspose.cells/cells/is_deleting_range_enabled/
 is_root: false
 ---
-##  is_deleting_range_enabled {#int-int-int-int}
+##  is_deleting_range_enabled(self, start_row, start_column, total_rows, total_columns) {#int-int-int-int}
 检查该范围是否可以删除。
 
 
-### 退货
+### 返回
 
 
 
 
 ```python
+
 def is_deleting_range_enabled(self, start_row, start_column, total_rows, total_columns):
     ...
 ```

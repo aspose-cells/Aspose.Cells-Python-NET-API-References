@@ -1,5 +1,5 @@
 ---
-title: max_cfvo الملكية
+title: max_cfvo عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 100
 url: /ar/aspose.cells/databar/max_cfvo/
 is_root: false
 ---
-##  max_cfvo الملكية
+##  max_cfvo عقار
 
-الحصول على كائن القيمة القصوى لـ DataBar هذا أو تعيينه.
-لا يمكن تعيين القيمة الخالية أو CFValueObject بالنوع FormatConditionValueType.Min إليها.
+الحصول على أو تعيين الحد الأقصى لقيمة كائن DataBar هذا.
+لا يمكن تعيين null أو CFValueObject مع نوع FormatConditionValueType.Min إليه.
 ###  تعريف:
 ```python
 @property
@@ -19,6 +19,6 @@ def max_cfvo(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ConditionalFormattingValue](/cells/python-net/ar/aspose.cells/conditionalformattingvalue)
-* فئة [DataBar](/cells/python-net/ar/aspose.cells/databar)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ConditionalFormattingValue`](/cells/python-net/ar/aspose.cells/conditionalformattingvalue)
+* فئة [`DataBar`](/cells/python-net/ar/aspose.cells/databar)

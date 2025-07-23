@@ -3,13 +3,13 @@ title: language_code عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 220
 url: /ar/aspose.cells/ebookloadoptions/language_code/
 is_root: false
 ---
 ##  language_code عقار
 
-الحصول على لغة واجهة المستخدم الخاصة بإصدار المصنف أو تعيينها بناءً على رمز البلد الذي قام بحفظ الملف.
+يحصل على لغة واجهة المستخدم لإصدار المصنف أو يعينها استنادًا إلى رمز البلد الذي حفظ الملف.
 ###  تعريف:
 ```python
 @property

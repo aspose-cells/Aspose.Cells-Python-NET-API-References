@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.drawing/shapepathpointcollection/add/
 is_root: false
 ---
-##  add(x, y) {#int-int}
-يضيف نقطة مسار.
+##  add(self, x, y) {#int-int}
+إضافة نقطة مسار.
 
 
 
 ```python
+
 def add(self, x, y):
     ...
 ```
@@ -21,10 +22,10 @@ def add(self, x, y):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | x | int | إحداثيات x.|
-| y | int | الإحداثي ص.|
+| y | int | إحداثيات y.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapePathPointCollection](/cells/python-net/ar/aspose.cells.drawing/shapepathpointcollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapePathPointCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepathpointcollection)

@@ -3,13 +3,13 @@ title: spid属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 910
+weight: 920
 url: /zh/aspose.cells.drawing/groupbox/spid/
 is_root: false
 ---
 ## spid属性
 
-指定应用程序可用于识别特定形状的可选字符串。
+指定应用程序可用于识别特定形状的可选字符串标识符。
 
 ### 例子
 

@@ -1,15 +1,15 @@
 ---
-title: border الملكية
+title: border عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells.charts/datalabels/border/
 is_root: false
 ---
-##  border الملكية
+##  border عقار
 
-يحصل على [Line](/cells/python-net/ar/aspose.cells.drawing/line).
+يحصل على [`Line`](/cells/python-net/ar/aspose.cells.drawing/line).
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def border(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)

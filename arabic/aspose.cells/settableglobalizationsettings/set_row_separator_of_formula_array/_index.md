@@ -7,12 +7,13 @@ weight: 360
 url: /ar/aspose.cells/settableglobalizationsettings/set_row_separator_of_formula_array/
 is_root: false
 ---
-##  set_row_separator_of_formula_array {#char}
-يضبط الفاصل للصفوف في بيانات الصفيف في الصيغة.
+##  set_row_separator_of_formula_array(self, c) {#char}
+تعيين الفاصل للصفوف في بيانات المصفوفة في الصيغة.
 
 
 
 ```python
+
 def set_row_separator_of_formula_array(self, c):
     ...
 ```

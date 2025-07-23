@@ -3,7 +3,7 @@ title: max_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ar/aspose.cells.charts/axis/max_value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  ملاحظات
 
-يمكن أن يكون نوع maxValue مزدوجًا أو DateTime فقط
+يمكن أن يكون نوع maxValue فقط مزدوجًا أو تاريخًا ووقتًا
 ###  تعريف:
 ```python
 @property

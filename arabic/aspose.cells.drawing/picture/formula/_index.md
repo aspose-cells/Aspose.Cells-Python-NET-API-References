@@ -3,13 +3,13 @@ title: formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 460
 url: /ar/aspose.cells.drawing/picture/formula/
 is_root: false
 ---
 ##  formula عقار
 
-الحصول على بيانات formula وتعيينها.
+يحصل على بيانات formula ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property

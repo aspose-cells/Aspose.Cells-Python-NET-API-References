@@ -3,13 +3,13 @@ title: is_flipped_vertically属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 570
+weight: 580
 url: /zh/aspose.cells.drawing/textbox/is_flipped_vertically/
 is_root: false
 ---
 ## is_flipped_vertically属性
 
-获取并设置形状是否垂直翻转。
+获取或设置形状是否垂直翻转。
 
 ### 例子
 

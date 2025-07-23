@@ -3,12 +3,12 @@ title: PivotConditionFormatRuleType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 310
 url: /ar/aspose.cells.pivot/pivotconditionformatruletype/
 is_root: false
 ---
 ##  PivotConditionFormatRuleType التعداد
-يمثل نوع قاعدة تنسيق شرط PivotTable.
+يمثل نوع قاعدة تنسيق شرط جدول البيانات المحوري.
 
 
 
@@ -17,10 +17,10 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | يشير إلى أنه لم يتم تقييم التنسيق الشرطي Top N|
-| ALL | يشير إلى أن التنسيق الشرطي Top N هو<br/> يتم تقييمها عبر نطاق النطاق بأكمله.|
+| NONE | يشير إلى أن التنسيق الشرطي Top N لم يتم تقييمه|
+| ALL | يشير إلى أن التنسيق الشرطي Top N هو<br/> تم تقييمها عبر نطاق النطاق بأكمله.|
 | ROW | يشير إلى أنه يتم تقييم التنسيق الشرطي Top N لكل صف.|
-| COLUMN | يشير إلى أن التنسيق الشرطي Top N هو<br/> تم تقييمه لكل عمود.|
+| COLUMN | يشير إلى أن التنسيق الشرطي Top N هو<br/> تم تقييمها لكل عمود.|
 
 
 

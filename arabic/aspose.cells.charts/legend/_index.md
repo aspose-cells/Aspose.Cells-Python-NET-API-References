@@ -8,11 +8,11 @@ url: /ar/aspose.cells.charts/legend/
 is_root: false
 ---
 ##  Legend صف
-يقوم بتغليف الكائن الذي يمثل وسيلة إيضاح المخطط.
+يقوم بتغليف الكائن الذي يمثل أسطورة الرسم البياني.
 
 
 
-**ميراث:** [`Legend`](/cells/python-net/aspose.cells.charts/legend) → 
+**الميراث:** [`Legend`](/cells/python-net/aspose.cells.charts/legend) → 
 [`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe) → 
 [`ChartFrame`](/cells/python-net/ar/aspose.cells.charts/chartframe)
 
@@ -23,52 +23,64 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [is_inner_mode](/cells/python-net/ar/aspose.cells.charts/legend/is_inner_mode) | الإشارة إلى ما إذا كان حجم مساحة الرسم يتضمن علامات التجزئة وتسميات المحاور.<br/> يحدد False أن الحجم يجب أن يحدد حجم منطقة الرسم وعلامات التجزئة وتسميات المحاور.|
+| [is_inner_mode](/cells/python-net/ar/aspose.cells.charts/legend/is_inner_mode) | يشير إلى ما إذا كان حجم مساحة الرسم البياني يتضمن علامات التجزئة وعلامات المحور.<br/> يشير "خطأ" إلى أن الحجم يجب أن يحدد حجم منطقة الرسم البياني وعلامات التجزئة وعلامات المحور.|
 | [border](/cells/python-net/ar/aspose.cells.charts/legend/border) | يحصل على [`Line`](/cells/python-net/ar/aspose.cells.drawing/line).|
 | [area](/cells/python-net/ar/aspose.cells.charts/legend/area) | يحصل على [`ChartFrame.area`](/cells/python-net/ar/aspose.cells.charts/chartframe#area).|
-| [text_font](/cells/python-net/ar/aspose.cells.charts/legend/text_font) | يحصل على كائن [`ChartFrame.font`](/cells/python-net/ar/aspose.cells.charts/chartframe#font) من كائن ChartFrame المحدد.|
-| [text_options](/cells/python-net/ar/aspose.cells.charts/legend/text_options) | الحصول على خيارات النص وتعيينها.|
-| [font](/cells/python-net/ar/aspose.cells.charts/legend/font) | يحصل على كائن [`ChartFrame.font`](/cells/python-net/ar/aspose.cells.charts/chartframe#font) من كائن ChartFrame المحدد.|
-| [auto_scale_font](/cells/python-net/ar/aspose.cells.charts/legend/auto_scale_font) | صحيح إذا تغير حجم الخط النص الموجود في الكائن عندما يتغير حجم الكائن. القيمة الافتراضية هي الحقيقية.|
-| [background_mode](/cells/python-net/ar/aspose.cells.charts/legend/background_mode) | الحصول على وضع عرض الخلفية وتعيينه|
-| [background](/cells/python-net/ar/aspose.cells.charts/legend/background) | الحصول على وضع عرض الخلفية وتعيينه|
-| [is_automatic_size](/cells/python-net/ar/aspose.cells.charts/legend/is_automatic_size) | يشير إلى ما إذا كان إطار المخطط ذو حجم تلقائي.|
-| [x](/cells/python-net/ar/aspose.cells.charts/legend/x) |الحصول على إحداثي x للزاوية العلوية اليسرى أو تعيينه بوحدات 1/4000 من منطقة المخطط.|
-| [y](/cells/python-net/ar/aspose.cells.charts/legend/y) | الحصول على أو تعيين إحداثي y للزاوية اليسرى العليا بوحدات 1/4000 من منطقة المخطط.|
-| [height](/cells/python-net/ar/aspose.cells.charts/legend/height) | الحصول على ارتفاع الإطار أو تعيينه بوحدات 1/4000 من منطقة المخطط.|
-| [width](/cells/python-net/ar/aspose.cells.charts/legend/width) | الحصول على أو تعيين عرض الإطار بوحدات 1/4000 من منطقة المخطط.|
+| [text_font](/cells/python-net/ar/aspose.cells.charts/legend/text_font) |يحصل على كائن [`ChartFrame.font`](/cells/python-net/ar/aspose.cells.charts/chartframe#font) من كائن ChartFrame المحدد.|
+| [text_options](/cells/python-net/ar/aspose.cells.charts/legend/text_options) | يحصل على خيارات النص ويحددها.|
+| [font](/cells/python-net/ar/aspose.cells.charts/legend/font) |يحصل على كائن [`ChartFrame.font`](/cells/python-net/ar/aspose.cells.charts/chartframe#font) من كائن ChartFrame المحدد.|
+| [auto_scale_font](/cells/python-net/ar/aspose.cells.charts/legend/auto_scale_font) | صحيح إذا تغير حجم خط النص في الكائن عند تغيير حجم الكائن. القيمة الافتراضية هي صحيح.|
+| [background_mode](/cells/python-net/ar/aspose.cells.charts/legend/background_mode) | يحصل على وضع عرض الخلفية ويحدده|
+| [background](/cells/python-net/ar/aspose.cells.charts/legend/background) | يحصل على وضع عرض الخلفية ويحدده|
+| [is_automatic_size](/cells/python-net/ar/aspose.cells.charts/legend/is_automatic_size) | يشير إلى ما إذا كان إطار الرسم البياني يتم تغيير حجمه تلقائيًا.|
+| [x](/cells/python-net/ar/aspose.cells.charts/legend/x) | يحصل على أو يضبط إحداثيات x للزاوية اليسرى العلوية بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
+| [y](/cells/python-net/ar/aspose.cells.charts/legend/y) | يحصل على أو يضبط إحداثيات y للزاوية اليسرى العلوية بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
+| [height](/cells/python-net/ar/aspose.cells.charts/legend/height) | يحصل على أو يضبط ارتفاع الإطار بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
+| [width](/cells/python-net/ar/aspose.cells.charts/legend/width) | يحصل على عرض الإطار أو يضبطه بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
 | [shadow](/cells/python-net/ar/aspose.cells.charts/legend/shadow) | صحيح إذا كان الإطار يحتوي على ظل.|
 | [shape_properties](/cells/python-net/ar/aspose.cells.charts/legend/shape_properties) | يحصل على الكائن [`ChartFrame.shape_properties`](/cells/python-net/ar/aspose.cells.charts/chartframe#shape_properties).|
-| [is_default_pos_be_set](/cells/python-net/ar/aspose.cells.charts/legend/is_default_pos_be_set) | يشير إلى ما إذا كان قد تم تعيين الموضع الافتراضي (DefaultX وDefaultY وDefaultWidth وDefaultHeight).|
-| [default_x](/cells/python-net/ar/aspose.cells.charts/legend/default_x) | يمثل x من الموضع الافتراضي|
-| [default_y](/cells/python-net/ar/aspose.cells.charts/legend/default_y) | يمثل y للموضع الافتراضي|
-| [default_width](/cells/python-net/ar/aspose.cells.charts/legend/default_width) | يمثل عرض الموضع الافتراضي|
-| [default_height](/cells/python-net/ar/aspose.cells.charts/legend/default_height) | يمثل ارتفاع الموضع الافتراضي|
+| [is_default_pos_be_set](/cells/python-net/ar/aspose.cells.charts/legend/is_default_pos_be_set) |يشير إلى ما إذا كان الموضع الافتراضي (DefaultX وDefaultY وDefaultWidth وDefaultHeight) مضبوطًا.|
+| [default_x](/cells/python-net/ar/aspose.cells.charts/legend/default_x) | يمثل x للموضع الافتراضي بوحدات 1/4000 من مساحة الرسم البياني.|
+| [default_y](/cells/python-net/ar/aspose.cells.charts/legend/default_y) | يمثل y للموضع الافتراضي بوحدات 1/4000 من مساحة الرسم البياني.|
+| [default_width](/cells/python-net/ar/aspose.cells.charts/legend/default_width) | يمثل عرض الموضع الافتراضي بوحدات 1/4000 من مساحة الرسم البياني.|
+| [default_height](/cells/python-net/ar/aspose.cells.charts/legend/default_height) | يمثل ارتفاع الموضع الافتراضي بوحدات 1/4000 من مساحة الرسم البياني.|
+| [default_x_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/legend/default_x_ratio_to_chart) | يمثل x للموضع الافتراضي بوحدات جزء من مساحة الرسم البياني.|
+| [default_y_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/legend/default_y_ratio_to_chart) | يمثل y للموضع الافتراضي بوحدات جزء من مساحة الرسم البياني.|
+| [default_width_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/legend/default_width_ratio_to_chart) | يمثل عرض الموضع الافتراضي بوحدات جزء من مساحة الرسم البياني.|
+| [default_height_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/legend/default_height_ratio_to_chart) | يمثل ارتفاع الموضع الافتراضي بوحدات جزء من مساحة الرسم البياني.|
+| [x_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/legend/x_ratio_to_chart) | يحصل على أو يضبط إحداثيات x للزاوية اليسرى العليا بوحدات نسبة مساحة الرسم البياني.|
+| [y_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/legend/y_ratio_to_chart) |يحصل على أو يضبط إحداثيات y للزاوية اليسرى العلوية بوحدات نسبة مساحة الرسم البياني.|
+| [width_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/legend/width_ratio_to_chart) | يحصل على عرض الإطار أو يعينه بوحدات نسبة مساحة الرسم البياني.|
+| [height_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/legend/height_ratio_to_chart) | يحصل على أو يضبط ارتفاع الإطار بوحدات نسبة مساحة الرسم البياني.|
+| [x_pixel](/cells/python-net/ar/aspose.cells.charts/legend/x_pixel) | يحصل على أو يضبط إحداثيات x للزاوية اليسرى العليا بوحدات البكسل.|
+| [y_pixel](/cells/python-net/ar/aspose.cells.charts/legend/y_pixel) | يحصل على أو يضبط إحداثيات y للزاوية اليسرى العلوية بوحدات البكسل.|
+| [width_pixel](/cells/python-net/ar/aspose.cells.charts/legend/width_pixel) | يحصل على عرض الإطار بوحدات البكسل أو يعينه.|
+| [height_pixel](/cells/python-net/ar/aspose.cells.charts/legend/height_pixel) | يحصل على أو يضبط ارتفاع الإطار بوحدات البكسل.|
 | [is_auto_text](/cells/python-net/ar/aspose.cells.charts/legend/is_auto_text) | يشير إلى أن النص تم إنشاؤه تلقائيًا.|
-| [is_deleted](/cells/python-net/ar/aspose.cells.charts/legend/is_deleted) | يشير إلى ما إذا تم حذف تسميات البيانات هذه.|
-| [text_horizontal_alignment](/cells/python-net/ar/aspose.cells.charts/legend/text_horizontal_alignment) | الحصول على المحاذاة الأفقية للنص وتعيينها.|
-| [text_vertical_alignment](/cells/python-net/ar/aspose.cells.charts/legend/text_vertical_alignment) | الحصول على أو تعيين المحاذاة العمودية للنص.|
+| [is_deleted](/cells/python-net/ar/aspose.cells.charts/legend/is_deleted) | يشير إلى ما إذا كان سيتم حذف علامات البيانات هذه.|
+| [text_horizontal_alignment](/cells/python-net/ar/aspose.cells.charts/legend/text_horizontal_alignment) | يحصل على محاذاة النص الأفقية ويضبطها.|
+| [text_vertical_alignment](/cells/python-net/ar/aspose.cells.charts/legend/text_vertical_alignment) | يحصل على محاذاة النص الرأسية أو يعينها.|
 | [rotation_angle](/cells/python-net/ar/aspose.cells.charts/legend/rotation_angle) | يمثل زاوية دوران النص.|
-| [is_automatic_rotation](/cells/python-net/ar/aspose.cells.charts/legend/is_automatic_rotation) | يشير إلى ما إذا كان سيتم تدوير نص المخطط تلقائيًا.|
-| [text](/cells/python-net/ar/aspose.cells.charts/legend/text) |الحصول على نص عنوان الإطار أو تعيينه.|
-| [linked_source](/cells/python-net/ar/aspose.cells.charts/legend/linked_source) | الحصول على مرجع إلى ورقة العمل وتعيينه.|
+| [is_automatic_rotation](/cells/python-net/ar/aspose.cells.charts/legend/is_automatic_rotation) | يشير إلى ما إذا كان يتم تدوير نص الرسم البياني تلقائيًا.|
+| [text](/cells/python-net/ar/aspose.cells.charts/legend/text) | يحصل على نص عنوان الإطار أو يعينه.|
+| [linked_source](/cells/python-net/ar/aspose.cells.charts/legend/linked_source) | يحصل على مرجع إلى ورقة العمل ويعينه.|
 | [text_direction](/cells/python-net/ar/aspose.cells.charts/legend/text_direction) | يمثل ترتيب قراءة النص.|
 | [reading_order](/cells/python-net/ar/aspose.cells.charts/legend/reading_order) | يمثل ترتيب قراءة النص.|
-| [direction_type](/cells/python-net/ar/aspose.cells.charts/legend/direction_type) | يحصل على ويحدد اتجاه النص.|
-| [is_text_wrapped](/cells/python-net/ar/aspose.cells.charts/legend/is_text_wrapped) | الحصول على قيمة أو تعيينها تشير إلى ما إذا كان النص ملتفًا أم لا.|
-| [is_resize_shape_to_fit_text](/cells/python-net/ar/aspose.cells.charts/legend/is_resize_shape_to_fit_text) | الحصول على أو تعيين ما إذا كان الشكل يجب أن يتم احتواؤه تلقائيًا ليحتوي على النص الموصوف بداخله بالكامل. التركيب التلقائي هو<br/> عندما يتم تغيير حجم النص داخل الشكل ليحتوي على النص بأكمله بداخله.|
-| [position](/cells/python-net/ar/aspose.cells.charts/legend/position) | الحصول على نوع موضع وسيلة الإيضاح أو تعيينه.|
-| [legend_entries](/cells/python-net/ar/aspose.cells.charts/legend/legend_entries) | الحصول على مجموعة من كافة كائنات LegendEntry في وسيلة إيضاح المخطط المحدد.<br/>لا يتم دعم تعيين إدخالات وسيلة الإيضاح للمخطط السطحي.<br/> لذلك سيعود فارغًا إذا كان نوع المخطط هو نوع المخطط السطحي.|
-| [legend_entries_labels](/cells/python-net/ar/aspose.cells.charts/legend/legend_entries_labels) | يحصل على تسميات إدخالات وسيلة الإيضاح بعد استدعاء أسلوب Chart.Calculate().|
-| [is_over_lay](/cells/python-net/ar/aspose.cells.charts/legend/is_over_lay) | الحصول على أو تعيين ما إذا كان سيتم السماح لعناصر المخطط الأخرى بالتداخل مع عنصر المخطط هذا.|
+| [direction_type](/cells/python-net/ar/aspose.cells.charts/legend/direction_type) | يحصل على اتجاه النص ويحدده.|
+| [is_text_wrapped](/cells/python-net/ar/aspose.cells.charts/legend/is_text_wrapped) | يحصل على قيمة أو يعينها للإشارة إلى ما إذا كان النص ملفوفًا أم لا.|
+| [is_resize_shape_to_fit_text](/cells/python-net/ar/aspose.cells.charts/legend/is_resize_shape_to_fit_text) | يحصل أو يضبط ما إذا كان يجب ملاءمة الشكل تلقائيًا لاحتواء النص الموصوف فيه بالكامل. الملاءمة التلقائية هي<br/> عندما يتم تغيير حجم النص داخل الشكل لاحتواء النص بأكمله بالداخل.|
+| [position](/cells/python-net/ar/aspose.cells.charts/legend/position) | يحصل على نوع موضع الأسطورة أو يعينه.|
+| [legend_entries](/cells/python-net/ar/aspose.cells.charts/legend/legend_entries) | يحصل على مجموعة من كل كائنات LegendEntry الموجودة في أسطورة الرسم البياني المحددة.<br/>لا يتم دعم تعيين إدخالات الأسطورة لمخطط السطح.<br/> لذلك سيتم إرجاع قيمة null إذا كان نوع الرسم البياني هو نوع الرسم البياني السطحي.|
+| [legend_entries_labels](/cells/python-net/ar/aspose.cells.charts/legend/legend_entries_labels) | يحصل على تسميات إدخالات الأسطورة بعد استدعاء طريقة Chart.Calculate().|
+| [is_over_lay](/cells/python-net/ar/aspose.cells.charts/legend/is_over_lay) | يحصل أو يعين ما إذا كان سيتم عرض الأسطورة دون تداخل الرسم البياني.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [set_position_auto](/cells/python-net/ar/aspose.cells.charts/legend/set_position_auto/#) | اضبط موضع الإطار على الوضع التلقائي|
-| [characters](/cells/python-net/ar/aspose.cells.charts/legend/characters/#int-int) | تقوم بإرجاع كائن الأحرف الذي يمثل نطاقًا من الأحرف داخل النص.|
-| [get_legend_labels](/cells/python-net/ar/aspose.cells.charts/legend/get_legend_labels/#) | يحصل على تسميات إدخالات وسيلة الإيضاح بعد استدعاء أسلوب Chart.Calculate().|
+| [`set_position_auto(self)`](/cells/python-net/ar/aspose.cells.charts/legend/set_position_auto/#) | ضبط موضع الإطار إلى الوضع التلقائي|
+| [`characters(self, start_index, length)`](/cells/python-net/ar/aspose.cells.charts/legend/characters/#int-int) |يقوم بإرجاع كائن الأحرف الذي يمثل نطاقًا من الأحرف داخل النص.|
+| [`get_legend_labels(self)`](/cells/python-net/ar/aspose.cells.charts/legend/get_legend_labels/#) | يحصل على تسميات إدخالات الأسطورة بعد استدعاء طريقة Chart.Calculate().|
 
 
 

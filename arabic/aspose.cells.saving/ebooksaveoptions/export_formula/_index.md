@@ -3,14 +3,14 @@ title: export_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 310
 url: /ar/aspose.cells.saving/ebooksaveoptions/export_formula/
 is_root: false
 ---
 ##  export_formula عقار
 
-يشير إلى ما إذا كان سيتم تصدير الصيغة عند حفظ الملف إلى html. القيمة الافتراضية هي الحقيقية.
-إذا كنت تريد استيراد ملف HTML الناتج إلى برنامج Excel، فيرجى الاحتفاظ بالقيمة الافتراضية.
+يشير إلى ما إذا كان سيتم تصدير الصيغة عند حفظ الملف بتنسيق HTML. القيمة الافتراضية هي "صحيح".
+إذا كنت تريد استيراد الناتج html إلى excel، يرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python
 @property

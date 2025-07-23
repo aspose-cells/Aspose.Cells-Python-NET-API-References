@@ -1,5 +1,5 @@
 ---
-title: value الملكية
+title: value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells/scenarioinputcell/value/
 is_root: false
 ---
-##  value الملكية
+##  value عقار
 
-الحصول على وتعيين value لخلية الإدخال.
+يحصل على value من خلية الإدخال ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ScenarioInputCell](/cells/python-net/ar/aspose.cells/scenarioinputcell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ScenarioInputCell`](/cells/python-net/ar/aspose.cells/scenarioinputcell)

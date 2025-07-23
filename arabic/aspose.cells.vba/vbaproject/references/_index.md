@@ -1,15 +1,15 @@
 ---
-title: references الملكية
+title: references عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells.vba/vbaproject/references/
 is_root: false
 ---
-##  references الملكية
+##  references عقار
 
-يحصل على جميع references من مشروع VBA.
+يحصل على كل references من مشروع VBA.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def references(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](../../)
-* فئة [VbaProject](/cells/python-net/ar/aspose.cells.vba/vbaproject)
-* فئة [VbaProjectReferenceCollection](/cells/python-net/ar/aspose.cells.vba/vbaprojectreferencecollection)
+* الوحدة [`aspose.cells.vba`](../../)
+* فئة [`VbaProject`](/cells/python-net/ar/aspose.cells.vba/vbaproject)
+* فئة [`VbaProjectReferenceCollection`](/cells/python-net/ar/aspose.cells.vba/vbaprojectreferencecollection)

@@ -3,16 +3,17 @@ title: insert_row方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 710
+weight: 730
 url: /zh/aspose.cells/cells/insert_row/
 is_root: false
 ---
-##  insert_row {#int}
-将新行插入工作表中。
+##  insert_row(self, row_index) {#int}
+在工作表中插入新行。
 
 
 
 ```python
+
 def insert_row(self, row_index):
     ...
 ```

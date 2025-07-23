@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font عقار
 
-تقوم بإرجاع كائن [`TickLabels.font`](/cells/python-net/ar/aspose.cells.charts/ticklabels#font) الذي يمثل font لكائن TickLabels المحدد.
+يقوم بإرجاع الكائن [`TickLabels.font`](/cells/python-net/ar/aspose.cells.charts/ticklabels#font) الذي يمثل font لكائن TickLabels المحدد.
 ###  تعريف:
 ```python
 @property

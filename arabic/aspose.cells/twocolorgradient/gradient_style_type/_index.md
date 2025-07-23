@@ -1,5 +1,5 @@
 ---
-title: gradient_style_type الملكية
+title: gradient_style_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells/twocolorgradient/gradient_style_type/
 is_root: false
 ---
-##  gradient_style_type الملكية
+##  gradient_style_type عقار
 
-الحصول على نمط تظليل متدرج وتعيينه.
+يحصل على نمط التظليل المتدرج ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def gradient_style_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GradientStyleType](/cells/python-net/ar/aspose.cells.drawing/gradientstyletype)
-* فئة [TwoColorGradient](/cells/python-net/ar/aspose.cells/twocolorgradient)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GradientStyleType`](/cells/python-net/ar/aspose.cells.drawing/gradientstyletype)
+* فئة [`TwoColorGradient`](/cells/python-net/ar/aspose.cells/twocolorgradient)

@@ -1,5 +1,5 @@
 ---
-title: icon_set_type الملكية
+title: icon_set_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/iconfilter/icon_set_type/
 is_root: false
 ---
-##  icon_set_type الملكية
+##  icon_set_type عقار
 
-الحصول على مجموعة الرموز المستخدمة في معايير التصفية وتعيينها.
+يحصل على مجموعة الأيقونات التي سيتم استخدامها في معايير التصفية ويحددها.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def icon_set_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [IconFilter](/cells/python-net/ar/aspose.cells/iconfilter)
-* فئة [IconSetType](/cells/python-net/ar/aspose.cells/iconsettype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`IconFilter`](/cells/python-net/ar/aspose.cells/iconfilter)
+* فئة [`IconSetType`](/cells/python-net/ar/aspose.cells/iconsettype)

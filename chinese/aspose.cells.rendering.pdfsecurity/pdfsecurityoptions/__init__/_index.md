@@ -7,12 +7,13 @@ weight: 10
 url: /zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions/__init__/
 is_root: false
 ---
-##  __在里面__ {#}
+##  \_\_init\_\_（自身）{#}
 PdfSecurityOptions的构造函数
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -21,7 +22,7 @@ def __init__(self):
 
 ### 例子
 
-以下代码设置输出 pdf 的高分辨率打印权限。
+以下代码为输出 pdf 设置高分辨率打印权限。
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook

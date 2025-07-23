@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/conditionalformattingcollection/add/
 is_root: false
 ---
-##  add() {#}
-يضيف FormatConditions إلى المجموعة.
+##  add(self) {#}
+إضافة FormatConditions إلى المجموعة.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ConditionalFormattingCollection](/cells/python-net/ar/aspose.cells/conditionalformattingcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ConditionalFormattingCollection`](/cells/python-net/ar/aspose.cells/conditionalformattingcollection)

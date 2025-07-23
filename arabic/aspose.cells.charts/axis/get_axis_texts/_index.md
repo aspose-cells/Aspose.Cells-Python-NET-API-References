@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.charts/axis/get_axis_texts/
 is_root: false
 ---
-##  get_axis_texts {#}
-يحصل على تسميات المحور بعد استدعاء الأسلوب Chart.Calculate().
+##  get_axis_texts(self) {#}
+يحصل على تسميات المحور بعد استدعاء طريقة Chart.Calculate().
 
 
 
 ```python
+
 def get_axis_texts(self):
     ...
 ```

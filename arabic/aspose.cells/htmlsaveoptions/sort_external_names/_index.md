@@ -3,13 +3,13 @@ title: sort_external_names عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 650
+weight: 750
 url: /ar/aspose.cells/htmlsaveoptions/sort_external_names/
 is_root: false
 ---
 ##  sort_external_names عقار
 
-يشير إلى ما إذا كان سيتم فرز الأسماء المحددة الخارجية قبل حفظ الملف.
+يشير إلى ما إذا كان يتم فرز الأسماء المحددة خارجيًا قبل حفظ الملف.
 ###  تعريف:
 ```python
 @property

@@ -9,9 +9,9 @@ is_root: false
 ---
 ## check_mixed_value_type属性
 
-False，Aspose.Cells 将根据第一行的值类型设置 DataColumn 的类型以提高性能。
- True, Aspose.Cells 在设置DataColumn的类型之前会检查列中的值类型是否混合
-并且值类型是混合的，DataColumn 的类型将为字符串。
+False，Aspose.Cells 将通过第一行的值类型设置 DataColumn 的类型以提高性能。
+正确，Aspose.Cells 将在设置 DataColumn 的类型之前检查列中的值类型是否混合
+并且值类型混合，DataColumn 的类型将为字符串。
 ### 定义：
 ```python
 @property

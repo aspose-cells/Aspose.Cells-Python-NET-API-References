@@ -7,8 +7,8 @@ weight: 90
 url: /ar/aspose.cells/worksheet/calculate_formula/
 is_root: false
 ---
-##  calculate_formula {#str}
-يحسب صيغة.
+##  calculate_formula(self, formula) {#str}
+يحسب الصيغة.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def calculate_formula(self, formula):
     ...
 ```
@@ -24,20 +25,21 @@ def calculate_formula(self, formula):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| formula | str | الصيغة التي سيتم حسابها.|
+| formula | str | الصيغة المراد حسابها.|
 
 
-##  calculate_formula {#str-aspose.cells.CalculationOptions}
-حساب تعبير الصيغة مباشرة.
+##  calculate_formula(self, formula, opts) {#str-aspose.cells.CalculationOptions}
+يحسب تعبير الصيغة بشكل مباشر.
 
 
 ###  عائدات
 
-النتيجة المحسوبة للصيغة المحددة.
-قد يكون الكائن الذي تم إرجاعه من الأنواع المحتملة [`Cell.value`](/cells/python-net/ar/aspose.cells/cell#value) أو المنطقة المرجعية.
+النتيجة المحسوبة للصيغة المعطاة.
+من الممكن أن يكون الكائن المرتجع من الأنواع التالية: [`Cell.value`](/cells/python-net/ar/aspose.cells/cell#value)، أو ReferredArea.
 
 
 ```python
+
 def calculate_formula(self, formula, opts):
     ...
 ```
@@ -45,21 +47,22 @@ def calculate_formula(self, formula, opts):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| formula | str | الصيغة التي سيتم حسابها.|
+| formula | str | الصيغة المراد حسابها.|
 | opts | [`CalculationOptions`](/cells/python-net/ar/aspose.cells/calculationoptions) | خيارات لحساب الصيغة|
 ###  ملاحظات
 
-سيتم حساب الصيغة تمامًا كما تم تعيينها على الخلية A1.
-وسيتم أخذ الصيغة كصيغة عادية.
-إذا كنت تريد حساب الصيغة كصيغة صفيف والحصول على صفيف للنتيجة المحسوبة،
-الرجاء استخدام [`Worksheet.calculate_array_formula`](/cells/python-net/ar/aspose.cells/worksheet/calculate_array_formula) بدلا من ذلك.
+سيتم حساب الصيغة كما تم تعيينها للخلية A1.
+وسوف تؤخذ الصيغة كالصيغة العادية.
+إذا كنت تريد أن يتم حساب الصيغة كصيغة مصفوفة والحصول على مصفوفة للنتيجة المحسوبة،
+من فضلك استخدم [`Worksheet.calculate_array_formula`](/cells/python-net/ar/aspose.cells/worksheet/calculate_array_formula) بدلا من ذلك.
 
-##  calculate_formula {#aspose.cells.CalculationOptions-bool}
-حساب كافة الصيغ في ورقة العمل هذه.
+##  calculate_formula(self, options, recursive) {#aspose.cells.CalculationOptions-bool}
+يحسب جميع الصيغ في ورقة العمل هذه.
 
 
 
 ```python
+
 def calculate_formula(self, options, recursive):
     ...
 ```
@@ -67,21 +70,22 @@ def calculate_formula(self, options, recursive):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| options | [`CalculationOptions`](/cells/python-net/ar/aspose.cells/calculationoptions) | خيارات للحساب|
-| recursive | bool | صحيح يعني أنه إذا كانت خلايا ورقة العمل تعتمد على خلايا أوراق العمل الأخرى،<br/>سيتم حساب الخلايا التابعة في أوراق العمل الأخرى أيضًا.<br/> "خطأ" يعني أن جميع الصيغ الموجودة في ورقة العمل قد تم حسابها وأن القيم صحيحة.|
+| options | [`CalculationOptions`](/cells/python-net/ar/aspose.cells/calculationoptions) | خيارات الحساب|
+| recursive | bool | صحيح يعني إذا كانت خلايا ورقة العمل تعتمد على خلايا أوراق عمل أخرى،<br/>سيتم حساب الخلايا التابعة في أوراق العمل الأخرى أيضًا.<br/> تعني كلمة "خطأ" أن جميع الصيغ في ورقة العمل تم حسابها وأن القيم صحيحة.|
 
 
-##  calculate_formula {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
-حساب تعبير الصيغة مباشرة.
+##  calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data) {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
+يحسب تعبير الصيغة بشكل مباشر.
 
 
 ###  عائدات
 
-النتيجة المحسوبة للصيغة المحددة.
-قد يكون الكائن الذي تم إرجاعه من الأنواع المحتملة [`Cell.value`](/cells/python-net/ar/aspose.cells/cell#value) أو المنطقة المرجعية.
+النتيجة المحسوبة للصيغة المعطاة.
+من الممكن أن يكون الكائن المرتجع من الأنواع التالية: [`Cell.value`](/cells/python-net/ar/aspose.cells/cell#value)، أو ReferredArea.
 
 
 ```python
+
 def calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data):
     ...
 ```
@@ -89,17 +93,17 @@ def calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_co
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| formula | str | الصيغة التي سيتم حسابها.|
+| formula | str | الصيغة المراد حسابها.|
 | p_opts | [`FormulaParseOptions`](/cells/python-net/ar/aspose.cells/formulaparseoptions) | خيارات لتحليل الصيغة.|
 | c_opts | [`CalculationOptions`](/cells/python-net/ar/aspose.cells/calculationoptions) | خيارات لحساب الصيغة.|
-| base_cell_row | int | فهرس صف الخلية الأساسية.|
-| base_cell_column | int | فهرس العمود للخلية الأساسية.|
-| calculation_data | [`CalculationData`](/cells/python-net/ar/aspose.cells/calculationdata) | بيانات الحساب. يتم استخدامه للحالة<br/>يحتاج هذا المستخدم إلى حساب بعض الصيغ الثابتة عند تنفيذ محرك الحساب المخصص.<br/>لمثل هذا النوع من الحالات، يحتاج المستخدم إلى تحديده باستخدام بيانات الحساب المقدمة<br/> ل [`AbstractCalculationEngine.calculate`](/cells/python-net/ar/aspose.cells/abstractcalculationengine/calculate).|
+| base_cell_row | int | مؤشر الصف للخلية الأساسية.|
+| base_cell_column | int | مؤشر العمود للخلية الأساسية.|
+| calculation_data | [`CalculationData`](/cells/python-net/ar/aspose.cells/calculationdata) | بيانات الحساب. تُستخدم للحالة<br/>يحتاج المستخدم إلى حساب بعض الصيغ الثابتة عند تنفيذ محرك حساب مخصص.<br/>بالنسبة لهذا النوع من المواقف، يحتاج المستخدم إلى تحديده باستخدام بيانات الحساب المقدمة<br/> لـ Aspose.Cells.AbstractCalculationEngine.Calculate.|
 ###  ملاحظات
 
-سيتم حساب الصيغة تمامًا كما تم تعيينها على الخلية الأساسية المحددة.
-وسيتم أخذ الصيغة كصيغة عادية. إذا كنت بحاجة إلى حساب الصيغة كصيغة صفيف
-وللحصول على مصفوفة للنتيجة المحسوبة، يرجى استخدامها
+سيتم حساب الصيغة كما لو تم تعيينها للخلية الأساسية المحددة.
+وستُؤخذ الصيغة كصيغة عادية. إذا كنت ترغب في حساب الصيغة كصيغة مصفوفة،
+وللحصول على مصفوفة للنتيجة المحسوبة، يرجى استخدام
 [`Worksheet.calculate_array_formula`](/cells/python-net/ar/aspose.cells/worksheet/calculate_array_formula) بدلا من ذلك.
 
 

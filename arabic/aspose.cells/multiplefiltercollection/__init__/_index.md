@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/multiplefiltercollection/__init__/
 is_root: false
 ---
-##  __فيه__ {#}
-يبني مثيل واحد جديد.
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد واحد.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

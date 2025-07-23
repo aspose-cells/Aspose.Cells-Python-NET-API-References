@@ -1,15 +1,13 @@
 ---
-title: text_cross_type الملكية
+title: text_cross_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 430
+weight: 480
 url: /ar/aspose.cells/pdfsaveoptions/text_cross_type/
 is_root: false
 ---
-##  text_cross_type الملكية
-
-الحصول على عرض نوع النص أو تعيينه عندما يكون عرض النص أكبر من عرض الخلية.
+##  text_cross_type عقار
 ###  تعريف:
 ```python
 @property
@@ -21,6 +19,6 @@ def text_cross_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PdfSaveOptions](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
-* فئة [TextCrossType](/cells/python-net/ar/aspose.cells/textcrosstype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PdfSaveOptions`](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
+* فئة [`TextCrossType`](/cells/python-net/ar/aspose.cells/textcrosstype)

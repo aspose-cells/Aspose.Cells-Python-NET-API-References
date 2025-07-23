@@ -3,13 +3,13 @@ title: text_shape_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /ar/aspose.cells.drawing/scrollbar/text_shape_type/
 is_root: false
 ---
 ##  text_shape_type عقار
 
-الحصول على نوع شكل النص المحدد مسبقًا وتعيينه.
+يحصل على نوع شكل النص المحدد مسبقًا ويقوم بتعيينه.
 
 ###  مثال
 

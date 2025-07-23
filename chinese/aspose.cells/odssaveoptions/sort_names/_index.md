@@ -3,13 +3,13 @@ title: sort_names属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 160
 url: /zh/aspose.cells/odssaveoptions/sort_names/
 is_root: false
 ---
 ## sort_names属性
 
-指示在保存文件之前是否对定义的名称进行排序。
+表示在保存文件之前是否对定义的名称进行排序。
 ### 定义：
 ```python
 @property

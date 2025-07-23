@@ -1,15 +1,13 @@
 ---
-title: text_align الملكية
+title: text_align عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 200
 url: /ar/aspose.cells.drawing.activexcontrols/unknowncontrol/text_align/
 is_root: false
 ---
-##  text_align الملكية
-
-يمثل كيفية محاذاة النص المستخدم بواسطة عنصر التحكم.
+##  text_align عقار
 ###  تعريف:
 ```python
 @property
@@ -21,6 +19,6 @@ def text_align(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [TextAlignmentType](/cells/python-net/ar/aspose.cells/textalignmenttype)
-* فئة [UnknownControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`TextAlignmentType`](/cells/python-net/ar/aspose.cells/textalignmenttype)
+* فئة [`UnknownControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/unknowncontrol)

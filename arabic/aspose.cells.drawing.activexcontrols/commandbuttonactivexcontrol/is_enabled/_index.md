@@ -1,5 +1,5 @@
 ---
-title: is_enabled الملكية
+title: is_enabled عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 120
 url: /ar/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol/is_enabled/
 is_root: false
 ---
-##  is_enabled الملكية
-
-يشير إلى ما إذا كان عنصر التحكم يمكنه تلقي التركيز والاستجابة للأحداث التي ينشئها المستخدم.
+##  is_enabled عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_enabled(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [CommandButtonActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`CommandButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

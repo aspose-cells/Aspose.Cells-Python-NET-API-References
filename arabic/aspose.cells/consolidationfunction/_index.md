@@ -3,7 +3,7 @@ title: ConsolidationFunction التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1940
+weight: 1850
 url: /ar/aspose.cells/consolidationfunction/
 is_root: false
 ---
@@ -18,17 +18,17 @@ is_root: false
 | مجال| وصف|
 | :- | :- |
 | SUM | يمثل دالة المجموع.|
-| COUNT | يمثل وظيفة العد.|
-| AVERAGE | يمثل متوسط الدالة.|
-| MAX | يمثل وظيفة ماكس.|
-| MIN | يمثل وظيفة دقيقة.|
+| COUNT | يمثل دالة العد.|
+| AVERAGE | يمثل دالة المتوسط.|
+| MAX | يمثل وظيفة Max.|
+| MIN | يمثل دالة Min.|
 | PRODUCT | يمثل وظيفة المنتج.|
-| COUNT_NUMS | يمثل وظيفة العد الأعداد.|
-| STD_DEV |يمثل وظيفة StdDev.|
+| COUNT_NUMS | يمثل دالة Count Nums.|
+| STD_DEV | يمثل دالة StdDev.|
 | STD_DEVP | يمثل وظيفة StdDevp.|
-| VAR | يمثل وظيفة فار.|
-| VARP | يمثل وظيفة Varp.|
-| DISTINCT_COUNT | يمثل وظيفة العد المميزة.|
+| VAR | يمثل دالة Var.|
+| VARP | يمثل دالة Varp.|
+| DISTINCT_COUNT | يمثل دالة العدد المميز.|
 
 
 

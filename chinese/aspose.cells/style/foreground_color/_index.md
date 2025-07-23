@@ -1,17 +1,17 @@
 ---
-title: foreground_color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: foreground_color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 210
 url: /zh/aspose.cells/style/foreground_color/
 is_root: false
 ---
-## foreground_color 属性
+## foreground_color属性
 
 获取或设置样式的前景色。
 
-### 评论
+### 注意事项
 
 如果返回 Color.Empty，则表示没有颜色设置。
 ### 定义：
@@ -25,5 +25,5 @@ def foreground_color(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Style](/cells/python-net/zh/aspose.cells/style)
+* 模块[`aspose.cells`](../../)
+* 类 [`Style`](/cells/python-net/zh/aspose.cells/style)

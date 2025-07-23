@@ -7,12 +7,13 @@ weight: 330
 url: /ar/aspose.cells/settableglobalizationsettings/set_list_separator/
 is_root: false
 ---
-##  set_list_separator {#char}
-يضبط الفاصل للقائمة، ومعلمات الوظيفة، ...إلخ.
+##  set_list_separator(self, c) {#char}
+تعيين الفاصل للقائمة، ومعلمات الوظيفة، ...إلخ.
 
 
 
 ```python
+
 def set_list_separator(self, c):
     ...
 ```

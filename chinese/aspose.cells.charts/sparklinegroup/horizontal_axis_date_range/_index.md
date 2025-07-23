@@ -1,13 +1,13 @@
 ---
-title: horizontal_axis_date_range 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: horizontal_axis_date_range属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.charts/sparklinegroup/horizontal_axis_date_range/
 is_root: false
 ---
-## horizontal_axis_date_range 属性
+## horizontal_axis_date_range属性
 
 表示包含迷你图数据的日期值的范围。
 ### 定义：
@@ -21,5 +21,5 @@ def horizontal_axis_date_range(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [SparklineGroup](/cells/python-net/zh/aspose.cells.charts/sparklinegroup)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`SparklineGroup`](/cells/python-net/zh/aspose.cells.charts/sparklinegroup)

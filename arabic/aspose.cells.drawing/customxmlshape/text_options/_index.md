@@ -3,7 +3,7 @@ title: text_options عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /ar/aspose.cells.drawing/customxmlshape/text_options/
 is_root: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: DateTimeGroupItem المنشئ
+title: DateTimeGroupItem منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/datetimegroupitem/__init__/
 is_root: false
 ---
-##  DateTimeGroupItem(type, year, month, day, hour, minute, second) {#DateTimeGroupingType-int-int-int-int-int-int}
+##  \_\_init\_\_(الذات، النوع، السنة، الشهر، اليوم، الساعة، الدقيقة، الثانية){#aspose.cells.DateTimeGroupingType-int-int-int-int-int-int}
 
 
 
 
 ```python
+
 def __init__(self, type, year, month, day, hour, minute, second):
     ...
 ```
@@ -20,7 +21,7 @@ def __init__(self, type, year, month, day, hour, minute, second):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| type | [DateTimeGroupingType](/cells/python-net/ar/aspose.cells/datetimegroupingtype) |  |
+| type | [`DateTimeGroupingType`](/cells/python-net/ar/aspose.cells/datetimegroupingtype) |  |
 | year | int |  |
 | month | int |  |
 | day | int |  |
@@ -31,5 +32,5 @@ def __init__(self, type, year, month, day, hour, minute, second):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DateTimeGroupItem](/cells/python-net/ar/aspose.cells/datetimegroupitem)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DateTimeGroupItem`](/cells/python-net/ar/aspose.cells/datetimegroupitem)

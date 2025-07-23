@@ -1,5 +1,5 @@
 ---
-title: fore_transparency الملكية
+title: fore_transparency عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.drawing/patternfill/fore_transparency/
 is_root: false
 ---
-##  fore_transparency الملكية
+##  fore_transparency عقار
 
-الحصول على شفافية لون المقدمة أو ضبطها.
+يحصل على شفافية لون المقدمة أو يضبطها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_transparency(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [PatternFill](/cells/python-net/ar/aspose.cells.drawing/patternfill)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`PatternFill`](/cells/python-net/ar/aspose.cells.drawing/patternfill)

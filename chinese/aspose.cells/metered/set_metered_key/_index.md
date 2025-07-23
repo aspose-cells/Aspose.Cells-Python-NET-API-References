@@ -7,15 +7,16 @@ weight: 60
 url: /zh/aspose.cells/metered/set_metered_key/
 is_root: false
 ---
-##  set_metered_key {#str-str}
-设置计量公钥和私钥。
-如果您购买了计量许可证，那么在开始应用时，应该调用这个API，通常情况下，这就足够了。
+##  set_metered_key(self, public_key, private_key) {#str-str}
+设置计量的公钥和私钥。
+如果您购买了计量许可证，则在启动应用程序时应该调用此 API，通常这就足够了。
 但如果始终无法上传消费数据且超过24小时，许可证将被设置为评估状态，
 为了避免这种情况，您应该定期检查许可证状态，如果是评估状态，请再次拨打API。
 
 
 
 ```python
+
 def set_metered_key(self, public_key, private_key):
     ...
 ```

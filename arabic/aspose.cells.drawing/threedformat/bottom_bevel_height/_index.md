@@ -1,5 +1,5 @@
 ---
-title: bottom_bevel_height الملكية
+title: bottom_bevel_height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 30
 url: /ar/aspose.cells.drawing/threedformat/bottom_bevel_height/
 is_root: false
 ---
-##  bottom_bevel_height الملكية
+##  bottom_bevel_height عقار
 
-الحصول على ارتفاع الشطبة السفلية وتعيينها ، أو إلى أي مدى يتم تطبيقه على الشكل.
-في وحدة النقاط.
+يحصل على ارتفاع الحافة السفلية ويضبطها، أو إلى أي مدى يتم تطبيقها في الشكل.
+بوحدة النقاط.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def bottom_bevel_height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ThreeDFormat](/cells/python-net/ar/aspose.cells.drawing/threedformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ThreeDFormat`](/cells/python-net/ar/aspose.cells.drawing/threedformat)

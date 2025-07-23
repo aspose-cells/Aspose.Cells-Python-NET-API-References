@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/unionrange/apply_style/
 is_root: false
 ---
-##  apply_style(style, flag) {#Style-StyleFlag}
-يطبق التنسيقات على نطاق كامل.
+##  apply_style(self, style, flag) {#aspose.cells.Style-aspose.cells.StyleFlag}
+ينطبق التنسيقات على نطاق كامل.
 
 
 
 ```python
+
 def apply_style(self, style, flag):
     ...
 ```
@@ -20,15 +21,15 @@ def apply_style(self, style, flag):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/ar/aspose.cells/style) | كائن النمط الذي سيتم تطبيقه.|
-| flag | [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag) |علامات تشير إلى خصائص التنسيق المطبقة.|
+| style | [`Style`](/cells/python-net/ar/aspose.cells/style) | كائن النمط الذي سيتم تطبيقه.|
+| flag | [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag) | العلامات التي تشير إلى خصائص التنسيق المطبقة.|
 ###  ملاحظات
 
-ستحتوي كل خلية في هذا النطاق على عنصر [Style](/cells/python-net/ar/aspose.cells/style).
-لذا فهذه طريقة تستهلك الذاكرة. الرجاء استخدامه بعناية.
+ستحتوي كل خلية في هذا النطاق على الكائن [`Style`](/cells/python-net/ar/aspose.cells/style).
+هذه طريقة تستهلك الذاكرة. يُرجى استخدامها بحذر.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

@@ -8,7 +8,7 @@ url: /ar/aspose.cells.charts/sparklinegroupcollection/
 is_root: false
 ---
 ##  SparklineGroupCollection صف
-يغلف مجموعة من [`SparklineGroup`](/cells/python-net/ar/aspose.cells.charts/sparklinegroup) كائن.
+يقوم بتغليف مجموعة من الكائنات [`SparklineGroup`](/cells/python-net/ar/aspose.cells.charts/sparklinegroup).
 
 
 
@@ -17,23 +17,24 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [capacity](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/capacity) | الحصول على أو تعيين عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة.|
+| [capacity](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/capacity) | يحصل على عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة أو يعينها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [copy_to](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/copy_to/#list) | نسخ قائمة الصفيف بأكملها إلى قائمة صفيف أحادية البعد متوافقة، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/copy_to/#int-list-int-int) | نسخ نطاق من العناصر من قائمة المصفوفات إلى قائمة مصفوفات متوافقة أحادية البعد، بدءًا من الفهرس المحدد لقائمة المصفوفات المستهدفة.|
-| [index_of](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/index_of/#aspose.cells.charts.SparklineGroup-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/index_of/#aspose.cells.charts.SparklineGroup-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ عند الفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
-| [last_index_of](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.SparklineGroup) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.SparklineGroup-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.SparklineGroup-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على العدد المحدد من العناصر وينتهي عند الفهرس المحدد.|
-| [add](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/add/#aspose.cells.charts.SparklineType-str-bool-aspose.cells.CellArea) | يضيف عنصر [`SparklineGroup`](/cells/python-net/ar/aspose.cells.charts/sparklinegroup) إلى المجموعة.|
-| [clear_sparklines](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/clear_sparklines/#aspose.cells.CellArea) | يمسح خطوط المؤشرات الموجودة داخل منطقة الخلايا.|
-| [clear_sparkline_groups](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/clear_sparkline_groups/#aspose.cells.CellArea) | يمسح مجموعات الخطوط المميزة التي تتداخل مع مساحة من الخلايا.|
-| [binary_search](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/binary_search/#aspose.cells.charts.SparklineGroup) | يبحث في قائمة المصفوفات التي تم فرزها بالكامل عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس الصفري للعنصر.|
+| [`add(self, type)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/add/#aspose.cells.charts.sparklinetype) | يضيف [`SparklineGroup`](/cells/python-net/ar/aspose.cells.charts/sparklinegroup) مع [`Sparkline`](/cells/python-net/ar/aspose.cells.charts/sparkline) إلى المجموعة.|
+| [`add(self, type, data_range, is_vertical, location_range)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/add/#aspose.cells.charts.sparklinetype-str-bool-aspose.cells.cellarea) | يضيف [`SparklineGroup`](/cells/python-net/ar/aspose.cells.charts/sparklinegroup) مع [`Sparkline`](/cells/python-net/ar/aspose.cells.charts/sparkline) إلى المجموعة.|
+| [`copy_to(self, array)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/copy_to/#list) |يقوم بنسخ قائمة المصفوفة بأكملها إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من بداية قائمة المصفوفة المستهدفة.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/copy_to/#int-list-int-int) | يقوم بنسخ مجموعة من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لقائمة المصفوفة المستهدفة.|
+| [`index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/index_of/#aspose.cells.charts.sparklinegroup-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/index_of/#aspose.cells.charts.sparklinegroup-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ بالفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [`last_index_of(self, item)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.sparklinegroup) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن قائمة المصفوفة بأكملها.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.sparklinegroup-int) |يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.sparklinegroup-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبدئي للصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
+| [`clear_sparklines(self, cell_area)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/clear_sparklines/#aspose.cells.cellarea) | يقوم بمسح الخطوط الشريطية الموجودة داخل منطقة الخلايا.|
+| [`clear_sparkline_groups(self, cell_area)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/clear_sparkline_groups/#aspose.cells.cellarea) | يقوم بمسح مجموعات الخطوط الشريطية التي تتداخل مع منطقة من الخلايا.|
+| [`binary_search(self, item)`](/cells/python-net/ar/aspose.cells.charts/sparklinegroupcollection/binary_search/#aspose.cells.charts.sparklinegroup) | يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.|
 
 
 
@@ -55,13 +56,14 @@ ca.start_column = 4
 ca.end_column = 4
 ca.start_row = 0
 ca.end_row = 0
-idx = sheet.sparkline_group_collection.add(SparklineType.LINE, "A1:D1", False, ca)
-group = sheet.sparkline_group_collection[idx]
-group.sparkline_collection.add(sheet.name + "!A1:D1", 0, 4)
+idx = sheet.sparkline_groups.add(SparklineType.LINE, "A1:D1", False, ca)
+group = sheet.sparkline_groups[idx]
+group.sparklines.add(sheet.name + "!A1:D1", 0, 4)
 book.save("output.xlsx", SaveFormat.XLSX)
 
 ```
 
 ###  أنظر أيضا
 * الوحدة [`aspose.cells.charts`](..)
+* فئة [`Sparkline`](/cells/python-net/ar/aspose.cells.charts/sparkline)
 * فئة [`SparklineGroup`](/cells/python-net/ar/aspose.cells.charts/sparklinegroup)

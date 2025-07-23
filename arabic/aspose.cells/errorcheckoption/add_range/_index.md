@@ -7,7 +7,7 @@ weight: 20
 url: /ar/aspose.cells/errorcheckoption/add_range/
 is_root: false
 ---
-##  add_range(ca) {#CellArea}
+##  add_range(self, ca) {#aspose.cells.CellArea}
 يضيف نطاقًا واحدًا متأثرًا بهذا الإعداد.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_range(self, ca):
     ...
 ```
@@ -24,10 +25,10 @@ def add_range(self, ca):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/ar/aspose.cells/cellarea) | النطاق المراد إضافته.|
+| ca | [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea) | النطاق الذي سيتم إضافته.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ErrorCheckOption](/cells/python-net/ar/aspose.cells/errorcheckoption)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ErrorCheckOption`](/cells/python-net/ar/aspose.cells/errorcheckoption)

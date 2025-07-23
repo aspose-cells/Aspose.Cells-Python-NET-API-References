@@ -1,5 +1,5 @@
 ---
-title: back_color الملكية
+title: back_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.drawing/msolineformathelper/back_color/
 is_root: false
 ---
-##  back_color الملكية
+##  back_color عقار
 
-الحصول على اللون الخلفي لخط الحدود وتعيينه.
+يحصل على لون خط الحدود الخلفي ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def back_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoLineFormatHelper](/cells/python-net/ar/aspose.cells.drawing/msolineformathelper)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoLineFormatHelper`](/cells/python-net/ar/aspose.cells.drawing/msolineformathelper)

@@ -1,18 +1,19 @@
 ---
 title: remove_at方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 90
+weight: 100
 url: /zh/aspose.cells/commentcollection/remove_at/
 is_root: false
 ---
-##  remove_at(cell_name) {#str}
+##  remove_at(self, cell_name) {#str}
 删除特定单元格的注释。
 
 
 
 ```python
+
 def remove_at(self, cell_name):
     ...
 ```
@@ -31,12 +32,13 @@ comments.remove_at("B2")
 ```
 
 
-##  remove_at(row, column) {#int-int}
+##  remove_at(self, row, column) {#int-int}
 删除特定单元格的注释。
 
 
 
 ```python
+
 def remove_at(self, row, column):
     ...
 ```
@@ -58,5 +60,5 @@ comments.remove_at(1, 1)
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CommentCollection](/cells/python-net/zh/aspose.cells/commentcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`CommentCollection`](/cells/python-net/zh/aspose.cells/commentcollection)

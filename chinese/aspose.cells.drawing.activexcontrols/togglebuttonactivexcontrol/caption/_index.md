@@ -1,15 +1,15 @@
 ---
-title: caption 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: caption属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/caption/
 is_root: false
 ---
-## caption 属性
+## caption属性
 
-获取和设置出现在控件上的描述性文本。
+获取并设置控件上显示的描述性文本。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def caption(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [ToggleButtonActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`ToggleButtonActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

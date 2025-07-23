@@ -3,13 +3,13 @@ title: table_styles عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 380
 url: /ar/aspose.cells/worksheetcollection/table_styles/
 is_root: false
 ---
 ##  table_styles عقار
 
-يحصل على كائن [`WorksheetCollection.table_styles`](/cells/python-net/ar/aspose.cells/worksheetcollection#table_styles).
+يحصل على الكائن [`WorksheetCollection.table_styles`](/cells/python-net/ar/aspose.cells/worksheetcollection#table_styles).
 ###  تعريف:
 ```python
 @property

@@ -3,7 +3,7 @@ title: default_style属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 550
+weight: 580
 url: /zh/aspose.cells/workbook/default_style/
 is_root: false
 ---
@@ -11,9 +11,9 @@ is_root: false
 
 获取或设置工作簿的默认 [`Style`](/cells/python-net/zh/aspose.cells/style) 对象。
 
-### 评论
+### 注意事项
 
-DefaultStyle 属性对于实现整个工作簿的样式非常有用。
+DefaultStyle 属性对于为整个工作簿实现样式很有用。
 
 ### 例子
 

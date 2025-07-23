@@ -1,15 +1,15 @@
 ---
-title: first_data_cell الملكية
+title: first_data_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells/row/first_data_cell/
 is_root: false
 ---
-##  first_data_cell الملكية
+##  first_data_cell عقار
 
-الحصول على أول خلية غير فارغة في الصف.
+يحصل على أول خلية غير فارغة في الصف.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def first_data_cell(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
-* فئة [Row](/cells/python-net/ar/aspose.cells/row)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)
+* فئة [`Row`](/cells/python-net/ar/aspose.cells/row)

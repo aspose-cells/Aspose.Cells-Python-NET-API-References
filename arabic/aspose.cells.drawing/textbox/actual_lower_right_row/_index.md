@@ -3,7 +3,7 @@ title: actual_lower_right_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 290
 url: /ar/aspose.cells.drawing/textbox/actual_lower_right_row/
 is_root: false
 ---

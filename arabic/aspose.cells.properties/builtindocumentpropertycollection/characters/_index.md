@@ -1,15 +1,15 @@
 ---
-title: characters الملكية
+title: characters عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/characters/
 is_root: false
 ---
-##  characters الملكية
+##  characters عقار
 
-يمثل تقديرًا لعدد characters في الوثيقة.
+يمثل تقديرًا لعدد characters في المستند.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def characters(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

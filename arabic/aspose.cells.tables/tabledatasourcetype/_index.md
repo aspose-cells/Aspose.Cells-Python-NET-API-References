@@ -1,5 +1,5 @@
 ---
-title: العد TableDataSourceType
+title: TableDataSourceType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,22 +7,22 @@ weight: 100
 url: /ar/aspose.cells.tables/tabledatasourcetype/
 is_root: false
 ---
-##  العد TableDataSourceType
+##  TableDataSourceType التعداد
 يمثل نوع مصدر بيانات الجدول.
 
 
 
-يكشف نوع TableDataSourceType الأعضاء التالية:
+يكشف النوع TableDataSourceType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | WORKSHEET | جدول ورقة عمل Excel|
-| SHARE_POINT | قراءة وكتابة قائمة SharePoint المرتبطة|
-| XML | جدول مخطط XML|
+| SHARE_POINT | قائمة مرتبطة بـ SharePoint قابلة للقراءة والكتابة|
+| XML | جدول XML mapper|
 | QUERY_TABLE | جدول الاستعلام|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](..)
+* الوحدة [`aspose.cells.tables`](..)

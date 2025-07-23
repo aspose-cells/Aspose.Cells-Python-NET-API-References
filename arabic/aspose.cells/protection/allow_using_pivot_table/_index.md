@@ -1,5 +1,5 @@
 ---
-title: allow_using_pivot_table الملكية
+title: allow_using_pivot_table عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 210
 url: /ar/aspose.cells/protection/allow_using_pivot_table/
 is_root: false
 ---
-##  allow_using_pivot_table الملكية
+##  allow_using_pivot_table عقار
 
-يمثل ما إذا كان يُسمح للمستخدم بمعالجة الجداول المحورية في ورقة عمل محمية.
+يمثل ما إذا كان يُسمح للمستخدم بالتلاعب بجداول البيانات المحورية في ورقة عمل محمية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_using_pivot_table(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Protection](/cells/python-net/ar/aspose.cells/protection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Protection`](/cells/python-net/ar/aspose.cells/protection)

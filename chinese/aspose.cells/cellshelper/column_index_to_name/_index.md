@@ -1,13 +1,13 @@
 ---
 title: column_index_to_name方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells/cellshelper/column_index_to_name/
 is_root: false
 ---
-##  column_index_to_name(column) {#int}
+## column_index_to_name（，列）{#int}
 根据列索引获取列名。
 
 
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def column_index_to_name(self, column):
+
+@staticmethod
+def column_index_to_name(column):
     ...
 ```
 
@@ -29,5 +31,5 @@ def column_index_to_name(self, column):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CellsHelper](/cells/python-net/zh/aspose.cells/cellshelper)
+* 模块[`aspose.cells`](../../)
+* 类 [`CellsHelper`](/cells/python-net/zh/aspose.cells/cellshelper)

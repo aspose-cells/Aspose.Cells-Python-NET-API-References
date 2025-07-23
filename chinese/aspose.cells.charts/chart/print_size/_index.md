@@ -9,7 +9,7 @@ is_root: false
 ---
 ## print_size属性
 
-获取和设置打印图表大小。
+获取并设置打印图表的大小。
 ### 定义：
 ```python
 @property

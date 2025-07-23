@@ -1,13 +1,13 @@
 ---
-title: load_format الملكية
+title: load_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 150
 url: /ar/aspose.cells.numbers/numbersloadoptions/load_format/
 is_root: false
 ---
-##  load_format الملكية
+##  load_format عقار
 
 يحصل على تنسيق التحميل.
 ###  تعريف:
@@ -18,6 +18,6 @@ def load_format(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.numbers](../../)
-* فئة [LoadFormat](/cells/python-net/ar/aspose.cells/loadformat)
-* فئة [NumbersLoadOptions](/cells/python-net/ar/aspose.cells.numbers/numbersloadoptions)
+* الوحدة [`aspose.cells.numbers`](../../)
+* فئة [`LoadFormat`](/cells/python-net/ar/aspose.cells/loadformat)
+* فئة [`NumbersLoadOptions`](/cells/python-net/ar/aspose.cells.numbers/numbersloadoptions)

@@ -1,5 +1,5 @@
 ---
-title: apply_excel_default_style_to_hyperlink الملكية
+title: apply_excel_default_style_to_hyperlink عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 40
 url: /ar/aspose.cells/odsloadoptions/apply_excel_default_style_to_hyperlink/
 is_root: false
 ---
-##  apply_excel_default_style_to_hyperlink الملكية
+##  apply_excel_default_style_to_hyperlink عقار
 
 يشير إلى ما إذا كان يتم تطبيق النمط الافتراضي لـ Excel على الارتباط التشعبي.
 ###  تعريف:
@@ -21,5 +21,5 @@ def apply_excel_default_style_to_hyperlink(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [OdsLoadOptions](/cells/python-net/ar/aspose.cells/odsloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`OdsLoadOptions`](/cells/python-net/ar/aspose.cells/odsloadoptions)

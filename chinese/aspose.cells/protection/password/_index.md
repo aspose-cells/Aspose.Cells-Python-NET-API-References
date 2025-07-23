@@ -1,19 +1,21 @@
 ---
-title: password 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: password属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 390
+weight: 230
 url: /zh/aspose.cells/protection/password/
 is_root: false
 ---
-## password 属性
+## password属性
 
-代表password保护工作表。
+password 代表保护工作表。
 
-### 评论
+### 注意事项
 
-如果 password 设置为 null 或空白字符串，则无需使用 password 即可取消保护工作表或工作簿。否则，必须指定 password 才能取消保护工作表或工作簿。
+如果 password 设置为空或空白字符串，
+您无需使用 password 即可取消保护工作表或工作簿。
+否则，您必须指定 password 来取消保护工作表或工作簿。
 ### 定义：
 ```python
 @property
@@ -25,5 +27,5 @@ def password(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Protection](/cells/python-net/zh/aspose.cells/protection)
+* 模块[`aspose.cells`](../../)
+* 类 [`Protection`](/cells/python-net/zh/aspose.cells/protection)

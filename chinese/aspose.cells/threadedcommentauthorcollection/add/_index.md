@@ -1,14 +1,14 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/threadedcommentauthorcollection/add/
 is_root: false
 ---
-##  add(name, user_id, provider_id) {#str-str-str}
-添加一个线程评论人。
+##  add(self, name, user_id, provider_id) {#str-str-str}
+添加一个主题注意事项者。
 
 
 ### 返回
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, name, user_id, provider_id):
     ...
 ```
@@ -24,12 +25,12 @@ def add(self, name, user_id, provider_id):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| name | str |人的名字。|
+| name | str |此人的名称。|
 | user_id | str |  |
-| provider_id | str |提供者的id|
+| provider_id | str |提供商的 ID|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ThreadedCommentAuthorCollection](/cells/python-net/zh/aspose.cells/threadedcommentauthorcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`ThreadedCommentAuthorCollection`](/cells/python-net/zh/aspose.cells/threadedcommentauthorcollection)

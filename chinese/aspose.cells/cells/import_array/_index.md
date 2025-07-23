@@ -3,16 +3,17 @@ title: import_array方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 600
+weight: 640
 url: /zh/aspose.cells/cells/import_array/
 is_root: false
 ---
-##  import_array {#list-int-int-bool}
-将字符串数组导入到工作表中。
+##  import_array(self, string_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+将字符串数组导入工作表。
 
 
 
 ```python
+
 def import_array(self, string_array, first_row, first_column, is_vertical):
     ...
 ```
@@ -26,12 +27,13 @@ def import_array(self, string_array, first_row, first_column, is_vertical):
 | is_vertical | bool |指定垂直或水平导入数据。|
 
 
-##  import_array {#list-int-int-bool}
-将整数数组导入到工作表中。
+##  import_array(self, int_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+将整数数组导入工作表。
 
 
 
 ```python
+
 def import_array(self, int_array, first_row, first_column, is_vertical):
     ...
 ```
@@ -45,12 +47,13 @@ def import_array(self, int_array, first_row, first_column, is_vertical):
 | is_vertical | bool |指定垂直或水平导入数据。|
 
 
-##  import_array {#list-int-int-bool}
-将双精度数组导入到工作表中。
+##  import_array(self, double_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+将双精度数组导入工作表。
 
 
 
 ```python
+
 def import_array(self, double_array, first_row, first_column, is_vertical):
     ...
 ```
@@ -58,7 +61,7 @@ def import_array(self, double_array, first_row, first_column, is_vertical):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| double_array | list |双数组。|
+| double_array | list |双阵列。|
 | first_row | int |要导入的第一个单元格的行号。|
 | first_column | int |要导入的第一个单元格的列号。|
 | is_vertical | bool |指定垂直或水平导入数据。|

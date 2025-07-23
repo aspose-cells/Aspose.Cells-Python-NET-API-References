@@ -3,13 +3,13 @@ title: export_print_area_only عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 390
 url: /ar/aspose.cells/htmlsaveoptions/export_print_area_only/
 is_root: false
 ---
 ##  export_print_area_only عقار
 
-يشير إلى ما إذا كان سيتم تصدير منطقة الطباعة إلى ملف html فقط. القيمة الافتراضية هي كاذبة.
+يشير إلى تصدير منطقة الطباعة إلى ملف HTML فقط. القيمة الافتراضية هي خطأ.
 ###  تعريف:
 ```python
 @property

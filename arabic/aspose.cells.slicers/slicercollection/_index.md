@@ -1,5 +1,5 @@
 ---
-title: SlicerCollection الدرجة
+title: SlicerCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,39 +7,40 @@ weight: 50
 url: /ar/aspose.cells.slicers/slicercollection/
 is_root: false
 ---
-##  SlicerCollection الدرجة
-يحدد مجموعة كل كائنات Slicer في ورقة العمل المحددة.
+##  SlicerCollection صف
+يقوم بتحديد مجموعة كل كائنات Slicer الموجودة في ورقة العمل المحددة.
 
 
 
-يكشف نوع SlicerCollection الأعضاء التالية:
+يكشف النوع SlicerCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [capacity](/cells/python-net/ar/aspose.cells.slicers/slicercollection/capacity) | الحصول على أو تحديد عدد العناصر التي يمكن أن تحتويها قائمة الصفيف.|
+| [capacity](/cells/python-net/ar/aspose.cells.slicers/slicercollection/capacity) | يحصل على عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة أو يعينها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add(pivot, dest_cell_name, base_field_name)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-str) | إضافة Slicer جديد باستخدام PivotTable كمصدر بيانات|
-| [add(pivot, row, column, base_field_name)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | إضافة Slicer جديد باستخدام PivotTable كمصدر بيانات|
-| [add(pivot, row, column, base_field_index)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-int) | إضافة Slicer جديد باستخدام PivotTable كمصدر بيانات|
-| [add(pivot, dest_cell_name, base_field_index)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-int) | إضافة Slicer جديد باستخدام PivotTable كمصدر بيانات|
-| [add(pivot, row, column, base_field)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField) | إضافة Slicer جديد باستخدام PivotTable كمصدر بيانات|
-| [add(pivot, dest_cell_name, base_field)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField) | إضافة Slicer جديد باستخدام PivotTable كمصدر بيانات|
-| [add(table, index, dest_cell_name)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-int-str) | أضف أداة تقطيع جديدة باستخدام ListObjet كمصدر بيانات|
-| [add(table, list_column, dest_cell_name)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str) | أضف أداة تقطيع جديدة باستخدام ListObjet كمصدر بيانات|
-| [add(table, list_column, row, column)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int) | أضف أداة تقطيع جديدة باستخدام ListObjet كمصدر بيانات|
-| [copy_to(array)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/copy_to/#list) | ينسخ قائمة المصفوفات بأكملها إلى قائمة مصفوفة متوافقة أحادية البعد ، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) |ينسخ نطاقًا من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة ، بدءًا من الفهرس المحدد لقائمة الصفيف الهدف.|
-| [index_of(item, index)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/index_of/#Slicer-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of(item, index, count)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/index_of/#Slicer-int-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ بالفهرس المحدد ويحتوي على عدد محدد من العناصر.|
-| [last_index_of(item)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/last_index_of/#Slicer) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of(item, index)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of(item, index, count)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
-| [binary_search(item)](/cells/python-net/ar/aspose.cells.slicers/slicercollection/binary_search/#Slicer) | يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.|
+| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-str) | إضافة شريحة جديدة باستخدام PivotTable كمصدر بيانات|
+| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-str) | إضافة شريحة جديدة باستخدام PivotTable كمصدر بيانات|
+| [`add(self, pivot, row, column, base_field_index)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-int) | إضافة شريحة جديدة باستخدام PivotTable كمصدر بيانات|
+| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-int) | إضافة شريحة جديدة باستخدام PivotTable كمصدر بيانات|
+| [`add(self, pivot, row, column, base_field)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-aspose.cells.pivot.pivotfield) | إضافة شريحة جديدة باستخدام PivotTable كمصدر بيانات|
+| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-aspose.cells.pivot.pivotfield) | إضافة شريحة جديدة باستخدام PivotTable كمصدر بيانات|
+| [`add(self, table, index, dest_cell_name)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-int-str) | إضافة شريحة جديدة باستخدام ListObjet كمصدر بيانات|
+| [`add(self, table, list_column, dest_cell_name)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-str) | إضافة شريحة جديدة باستخدام ListObjet كمصدر بيانات|
+| [`add(self, table, list_column, row, column)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-int-int) | إضافة شريحة جديدة باستخدام ListObjet كمصدر بيانات|
+| [`copy_to(self, array)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/copy_to/#list) |يقوم بنسخ قائمة المصفوفة بأكملها إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من بداية قائمة المصفوفة المستهدفة.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) | يقوم بنسخ مجموعة من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لقائمة المصفوفة المستهدفة.|
+| [`index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ بالفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [`last_index_of(self, item)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن قائمة المصفوفة بأكملها.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int) |يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبدئي للصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
+| [`get(self, name)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/get/#str) | يحصل على المقطع حسب اسم المقطع.|
+| [`binary_search(self, item)`](/cells/python-net/ar/aspose.cells.slicers/slicercollection/binary_search/#aspose.cells.slicers.slicer) | يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.|
 
 
 
@@ -97,4 +98,4 @@ book.save("out.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](..)
+* الوحدة [`aspose.cells.slicers`](..)

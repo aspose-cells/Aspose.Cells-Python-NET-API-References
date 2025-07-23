@@ -1,18 +1,19 @@
 ---
 title: to_image方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.charts/sparkline/to_image/
 is_root: false
 ---
-##  to_image(file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 将迷你图转换为图像。
 
 
 
 ```python
+
 def to_image(self, file_name, options):
     ...
 ```
@@ -24,12 +25,13 @@ def to_image(self, file_name, options):
 | options | aspose.cells.rendering.ImageOrPrintOptions |图像选项|
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 将迷你图转换为图像。
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```
@@ -43,5 +45,5 @@ def to_image(self, stream, options):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Sparkline](/cells/python-net/zh/aspose.cells.charts/sparkline)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Sparkline`](/cells/python-net/zh/aspose.cells.charts/sparkline)

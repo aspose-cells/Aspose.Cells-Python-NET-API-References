@@ -3,16 +3,16 @@ title: left_in_shape属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 750
+weight: 760
 url: /zh/aspose.cells.drawing/lineshape/left_in_shape/
 is_root: false
 ---
 ## left_in_shape属性
 
-表示形状相对于父形状左边框的水平偏移，
+表示形状与父形状左边界的水平偏移量，
 以父形状宽度的 1/4000 为单位。
 
-### 评论
+### 注意事项
 
 仅当此形状位于组或图表中时适用。
 

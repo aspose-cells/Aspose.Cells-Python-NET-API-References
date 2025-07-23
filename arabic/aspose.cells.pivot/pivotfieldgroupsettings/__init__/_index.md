@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells.pivot/pivotfieldgroupsettings/__init__/
 is_root: false
 ---
-##  __فيه__ {#}
+##  \_\_init\_\_(الذات){#}
 إنشاء مثيل جديد لـ PivotFieldGroupSettings
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

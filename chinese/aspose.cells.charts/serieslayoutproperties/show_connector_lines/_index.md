@@ -1,13 +1,13 @@
 ---
-title: show_connector_lines 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: show_connector_lines属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 70
+weight: 80
 url: /zh/aspose.cells.charts/serieslayoutproperties/show_connector_lines/
 is_root: false
 ---
-## show_connector_lines 属性
+## show_connector_lines属性
 
 指示是否显示数据点之间的连接线。
 ### 定义：
@@ -21,5 +21,5 @@ def show_connector_lines(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [SeriesLayoutProperties](/cells/python-net/zh/aspose.cells.charts/serieslayoutproperties)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`SeriesLayoutProperties`](/cells/python-net/zh/aspose.cells.charts/serieslayoutproperties)

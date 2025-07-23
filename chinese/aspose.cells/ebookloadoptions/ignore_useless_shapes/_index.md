@@ -9,9 +9,9 @@ is_root: false
 ---
 ## ignore_useless_shapes属性
 
-指示是否忽略无用的形状。
+表示是否忽略无用的形状。
 
-### 评论
+### 注意事项
 
 仅适用于 xlsx、xlsb 和 xlsm 文件。
 有许多重叠的相同形状在某些文件中是无用的，

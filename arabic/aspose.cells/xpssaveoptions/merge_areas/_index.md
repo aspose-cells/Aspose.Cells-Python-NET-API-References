@@ -3,17 +3,11 @@ title: merge_areas عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 200
 url: /ar/aspose.cells/xpssaveoptions/merge_areas/
 is_root: false
 ---
 ##  merge_areas عقار
-
-يشير إلى ما إذا كان سيتم دمج مناطق التنسيق الشرطي والتحقق من الصحة قبل حفظ الملف.
-
-###  ملاحظات
-
-القيمة الافتراضية هي كاذبة.
 ###  تعريف:
 ```python
 @property

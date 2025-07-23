@@ -3,17 +3,17 @@ title: page_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells.rendering/imageorprintoptions/page_index/
 is_root: false
 ---
 ##  page_index عقار
 
-الحصول على أو تعيين الفهرس المستند إلى 0 للصفحة الأولى المراد حفظها.
+يحصل على أو يعين الفهرس المستند إلى 0 للصفحة الأولى التي سيتم حفظها.
 
 ###  ملاحظات
 
-الافتراضي هو 0.
+الإفتراضي هو 0.
 ###  تعريف:
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: العد OdsPageBackgroundType
+title: OdsPageBackgroundType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 80
 url: /ar/aspose.cells.ods/odspagebackgroundtype/
 is_root: false
 ---
-##  العد OdsPageBackgroundType
-يمثل نوع خلفية الصفحة من ods.
+##  OdsPageBackgroundType التعداد
+يمثل نوع خلفية الصفحة للملفات.
 
 
 
-يكشف نوع OdsPageBackgroundType الأعضاء التالية:
+يكشف النوع OdsPageBackgroundType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | أي خلفية.|
-| COLOR | لتنسيق الخلفية باللون.|
+| NONE | لا يوجد خلفية.|
+| COLOR | تنسيق الخلفية حسب اللون.|
 | GRAPHIC | تنسيق الخلفية بالصورة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.ods](..)
+* الوحدة [`aspose.cells.ods`](..)

@@ -1,13 +1,13 @@
 ---
-title: comments الملكية
+title: comments عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ar/aspose.cells.digitalsignatures/digitalsignature/comments/
 is_root: false
 ---
-##  comments الملكية
+##  comments عقار
 
 الغرض من التوقيع.
 ###  تعريف:
@@ -21,5 +21,5 @@ def comments(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.digitalsignatures](../../)
-* فئة [DigitalSignature](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature)
+* الوحدة [`aspose.cells.digitalsignatures`](../../)
+* فئة [`DigitalSignature`](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature)

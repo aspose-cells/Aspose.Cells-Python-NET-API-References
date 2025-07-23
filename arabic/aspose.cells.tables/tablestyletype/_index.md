@@ -1,5 +1,5 @@
 ---
-title: العد TableStyleType
+title: TableStyleType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,12 @@ weight: 120
 url: /ar/aspose.cells.tables/tablestyletype/
 is_root: false
 ---
-##  العد TableStyleType
-يمثل نوع نمط الجدول المضمن.
+##  TableStyleType التعداد
+يمثل نوع نمط الجدول المدمج.
 
 
 
-يكشف نوع TableStyleType الأعضاء التالية:
+يكشف النوع TableStyleType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -83,4 +83,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](..)
+* الوحدة [`aspose.cells.tables`](..)

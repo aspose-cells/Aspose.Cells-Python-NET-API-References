@@ -3,14 +3,14 @@ title: height_scale عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 470
 url: /ar/aspose.cells.drawing/groupbox/height_scale/
 is_root: false
 ---
 ##  height_scale عقار
 
-الحصول على مقياس الارتفاع وتعيينه بوحدة النسبة المئوية لارتفاع الصورة الأصلية.
-إذا لم يكن الشكل صورة، فإن خاصية HeightScale تُرجع 100 فقط؛
+يحصل على مقياس الارتفاع ويضبطه، بوحدة النسبة المئوية لارتفاع الصورة الأصلية.
+إذا لم يكن الشكل صورة، فإن خاصية HeightScale تعيد 100 فقط؛
 
 ###  مثال
 

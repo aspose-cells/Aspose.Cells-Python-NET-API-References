@@ -9,7 +9,7 @@ is_root: false
 ---
 ## text_orientation_type属性
 
-获取和设置注释的文本方向类型。
+获取并设置注意事项的文本方向类型。
 
 ### 例子
 

@@ -8,8 +8,6 @@ url: /zh/aspose.cells/pptxsaveoptions/cached_file_folder/
 is_root: false
 ---
 ## cached_file_folder属性
-
-缓存文件夹用于存储一些大数据。
 ### 定义：
 ```python
 @property

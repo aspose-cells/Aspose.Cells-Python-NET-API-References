@@ -3,24 +3,25 @@ title: merge方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 150
+weight: 200
 url: /zh/aspose.cells/range/merge/
 is_root: false
 ---
-##  merge {#}
+##  merge(self) {#}
 将一系列单元格合并为一个单元格。
 
 
 
 ```python
+
 def merge(self):
     ...
 ```
 
 
-### 评论
+### 注意事项
 
-通过区域中左上角单元格的地址引用合并的单元格。
+通过范围内左上角单元格的地址引用合并的单元格。
 
 
 ### 也可以看看

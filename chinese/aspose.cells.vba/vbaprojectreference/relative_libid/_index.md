@@ -1,17 +1,17 @@
 ---
-title: relative_libid 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: relative_libid属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
 url: /zh/aspose.cells.vba/vbaprojectreference/relative_libid/
 is_root: false
 ---
-## relative_libid 属性
+## relative_libid属性
 
-使用相对路径获取和设置引用的 VBA 项目的标识符。
+获取并设置引用的 VBA 项目的相对路径标识符。
 
-### 评论
+### 注意事项
 
 仅供项目参考。
 ### 定义：
@@ -25,5 +25,5 @@ def relative_libid(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.vba](../../)
-* 类 [VbaProjectReference](/cells/python-net/zh/aspose.cells.vba/vbaprojectreference)
+* 模块[`aspose.cells.vba`](../../)
+* 类 [`VbaProjectReference`](/cells/python-net/zh/aspose.cells.vba/vbaprojectreference)

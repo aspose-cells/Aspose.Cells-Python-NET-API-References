@@ -1,15 +1,15 @@
 ---
-title: auto_scaling 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: auto_scaling属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 180
 url: /zh/aspose.cells.charts/chart/auto_scaling/
 is_root: false
 ---
-## auto_scaling 属性
+## auto_scaling属性
 
-如果 Microsoft Excel 缩放 3-D 图表，使其在大小上更接近等效的 2-D 图表，则为真。
+如果 Microsoft 则为真 Excel 缩放三维图表，以使其大小更接近等效的二维图表。
 RightAngleAxes 属性必须为 True。
 ### 定义：
 ```python
@@ -22,5 +22,5 @@ def auto_scaling(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Chart](/cells/python-net/zh/aspose.cells.charts/chart)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Chart`](/cells/python-net/zh/aspose.cells.charts/chart)

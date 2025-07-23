@@ -1,5 +1,5 @@
 ---
-title: column_width_pixel الملكية
+title: column_width_pixel عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 100
 url: /ar/aspose.cells.slicers/slicer/column_width_pixel/
 is_root: false
 ---
-##  column_width_pixel الملكية
+##  column_width_pixel عقار
 
-الحصول على أو تحديد العرض بوحدة البكسل لكل عمود في آلة التقطيع.
+يحصل على أو يعين عرض كل عمود في المقطع، بوحدة البكسل.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def column_width_pixel(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

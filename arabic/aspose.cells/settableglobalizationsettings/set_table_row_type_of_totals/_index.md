@@ -7,12 +7,13 @@ weight: 440
 url: /ar/aspose.cells/settableglobalizationsettings/set_table_row_type_of_totals/
 is_root: false
 ---
-##  set_table_row_type_of_totals {#str}
-يضبط اسم النوع لصفوف الجدول الذي يتكون من الصف الإجمالي للجدول المشار إليه.
+##  set_table_row_type_of_totals(self, name) {#str}
+تعيين اسم نوع صفوف الجدول التي تتكون من إجمالي صف الجدول المشار إليه.
 
 
 
 ```python
+
 def set_table_row_type_of_totals(self, name):
     ...
 ```

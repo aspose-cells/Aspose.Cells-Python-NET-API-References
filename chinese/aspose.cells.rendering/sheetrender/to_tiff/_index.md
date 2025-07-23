@@ -7,12 +7,13 @@ weight: 70
 url: /zh/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff {#io.RawIOBase}
-将整个工作表渲染为 Tiff 图像以进行流式传输。
+##  to_tiff(self, stream) {#io.RawIOBase}
+将整个工作表作为 Tiff 图像渲染到流中。
 
 
 
 ```python
+
 def to_tiff(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase |输出图像的流|
 
 
-##  to_tiff {#str}
-将整个工作表作为 Tiff 图像渲染到文件中。
+##  to_tiff(self, filename) {#str}
+将整个工作表作为 Tiff 图像呈现到文件中。
 
 
 
 ```python
+
 def to_tiff(self, filename):
     ...
 ```
@@ -40,7 +42,7 @@ def to_tiff(self, filename):
 
 ### 例子
 
-以下代码将第一张纸的所有页面输出为 Tiff 图像。
+以下代码将第一张表的所有页面输出为 Tiff 图像。
 
 ```python
 from aspose.cells import SaveFormat, Workbook

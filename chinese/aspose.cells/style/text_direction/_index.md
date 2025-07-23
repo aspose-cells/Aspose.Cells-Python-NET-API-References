@@ -9,7 +9,7 @@ is_root: false
 ---
 ## text_direction属性
 
-代表文本阅读顺序。
+表示文本阅读顺序。
 ### 定义：
 ```python
 @property

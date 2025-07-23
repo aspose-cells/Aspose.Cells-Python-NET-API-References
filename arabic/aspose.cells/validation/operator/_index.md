@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  operator عقار
 
-يمثل الرقم operator للتحقق من صحة البيانات.
+يمثل operator للتحقق من صحة البيانات.
 ###  تعريف:
 ```python
 @property

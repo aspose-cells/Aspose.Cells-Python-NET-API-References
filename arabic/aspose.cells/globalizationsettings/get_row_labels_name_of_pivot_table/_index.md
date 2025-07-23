@@ -7,8 +7,8 @@ weight: 180
 url: /ar/aspose.cells/globalizationsettings/get_row_labels_name_of_pivot_table/
 is_root: false
 ---
-##  get_row_labels_name_of_pivot_table {#}
-الحصول على اسم تسمية "تسميات الصفوف" في PivotTable.
+##  get_row_labels_name_of_pivot_table(self) {#}
+يحصل على اسم تسمية "عناوين الصفوف" في الجدول المحوري.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_row_labels_name_of_pivot_table(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_row_labels_name_of_pivot_table(self):
 
 ###  ملاحظات
 
-ملاحظة: هذا العضو قديم الآن. بدلاً من،
-الرجاء استخدام طريقة PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ ديسمبر 2022.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+يرجى استخدام طريقة PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ ديسمبر 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا

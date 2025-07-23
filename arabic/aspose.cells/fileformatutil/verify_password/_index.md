@@ -7,17 +7,19 @@ weight: 100
 url: /ar/aspose.cells/fileformatutil/verify_password/
 is_root: false
 ---
-##  verify_password(stream, password) {#io.RawIOBase-str}
-يكتشف ويعيد المعلومات المتعلقة بتنسيق Excel المخزنة في التدفق.
+##  verify_password(, تيار, كلمة المرور){#io.RawIOBase-str}
+يكتشف ويعيد المعلومات حول تنسيق Excel المخزن في مجرى.
 
 
 ###  عائدات
 
-يُرجع ما إذا كان قد تم تصحيح كلمة المرور.
+يعود ما إذا كانت كلمة المرور صحيحة أم لا.
 
 
 ```python
-def verify_password(self, stream, password):
+
+@staticmethod
+def verify_password(stream, password):
     ...
 ```
 
@@ -30,5 +32,5 @@ def verify_password(self, stream, password):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FileFormatUtil](/cells/python-net/ar/aspose.cells/fileformatutil)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FileFormatUtil`](/cells/python-net/ar/aspose.cells/fileformatutil)

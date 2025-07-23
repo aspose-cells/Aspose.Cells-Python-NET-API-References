@@ -1,5 +1,5 @@
 ---
-title: refresh_on_change الملكية
+title: refresh_on_change عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,12 @@ weight: 60
 url: /ar/aspose.cells.externalconnections/connectionparameter/refresh_on_change/
 is_root: false
 ---
-##  refresh_on_change الملكية
+##  refresh_on_change عقار
 
- علامة تشير إلى ما إذا كان يجب تحديث الاستعلام تلقائيًا عند تحديث محتويات ملف
- الخلية التي توفر تغيير قيمة المعلمة. إذا كان هذا صحيحًا ، فسيتم تحديث البيانات الخارجية
- باستخدام قيمة المعلمة الجديدة في كل مرة يحدث فيها تغيير. إذا كانت خاطئة ، ثم البيانات الخارجية
-يتم تحديثه فقط عند طلب المستخدم ، أو تحديث بعض مشغلات الأحداث الأخرى (على سبيل المثال ، تم فتح المصنف).
+ علم يشير إلى ما إذا كان يجب تحديث الاستعلام تلقائيًا عند ظهور محتويات
+ الخلية التي تُوفر قيمة المعلمة تتغير. إذا كانت صحيحة، فسيتم تحديث البيانات الخارجية.
+ باستخدام قيمة المعلمة الجديدة في كل مرة يحدث فيها تغيير. إذا كانت القيمة خاطئة، فسيتم استخدام البيانات الخارجية
+يتم تحديثه فقط عندما يطلبه المستخدم، أو عندما يؤدي حدث آخر إلى التحديث (على سبيل المثال، فتح مصنف).
 ###  تعريف:
 ```python
 @property
@@ -24,5 +24,5 @@ def refresh_on_change(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [ConnectionParameter](/cells/python-net/ar/aspose.cells.externalconnections/connectionparameter)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`ConnectionParameter`](/cells/python-net/ar/aspose.cells.externalconnections/connectionparameter)

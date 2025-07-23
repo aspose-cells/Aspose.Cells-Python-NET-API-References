@@ -1,15 +1,15 @@
 ---
-title: recommend_read_only الملكية
+title: recommend_read_only عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells/writeprotection/recommend_read_only/
 is_root: false
 ---
-##  recommend_read_only الملكية
+##  recommend_read_only عقار
 
-يشير إلى ما إذا كان خيار القراءة فقط الموصى به قد تم تحديده.
+يشير إلى ما إذا كان خيار "الموصى به للقراءة فقط" محددًا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def recommend_read_only(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WriteProtection](/cells/python-net/ar/aspose.cells/writeprotection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WriteProtection`](/cells/python-net/ar/aspose.cells/writeprotection)

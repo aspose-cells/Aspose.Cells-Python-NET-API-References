@@ -3,14 +3,14 @@ title: export_single_tab عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 420
 url: /ar/aspose.cells/htmlsaveoptions/export_single_tab/
 is_root: false
 ---
 ##  export_single_tab عقار
 
 يشير إلى ما إذا كان سيتم تصدير علامة تبويب واحدة عندما يحتوي الملف على ورقة عمل واحدة فقط.
-القيمة الافتراضية هي كاذبة.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

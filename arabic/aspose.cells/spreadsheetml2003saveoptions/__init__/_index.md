@@ -1,5 +1,5 @@
 ---
-title: SpreadsheetML2003SaveOptions المنشئ
+title: SpreadsheetML2003SaveOptions منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/spreadsheetml2003saveoptions/__init__/
 is_root: false
 ---
-##  SpreadsheetML2003SaveOptions() {#}
-ينشئ خيارات حفظ ملف Excel 2003 Spreadml.
+##  \_\_init\_\_(الذات){#}
+إنشاء خيارات لحفظ ملف Spreadml الخاص بـ Excel 2003.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  SpreadsheetML2003SaveOptions(save_format) {#SaveFormat}
-ينشئ خيارات حفظ ملف Excel 2003 Spreadml.
+##  \_\_init\_\_(الذات، تنسيق الحفظ){#aspose.cells.SaveFormat}
+إنشاء خيارات لحفظ ملف Spreadml الخاص بـ Excel 2003.
 
 
 
 ```python
+
 def __init__(self, save_format):
     ...
 ```
@@ -33,15 +35,15 @@ def __init__(self, save_format):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/ar/aspose.cells/saveformat) | تنسيق الحفظ.|
+| save_format | [`SaveFormat`](/cells/python-net/ar/aspose.cells/saveformat) | تنسيق الحفظ.|
 ###  ملاحظات
 
-ملاحظة: هذا المُنشئ الآن قديم.
-بدلاً من ذلك ، الرجاء استخدام مُنشئ SpreadsheetML2003SaveOptions ().
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ يناير 2021.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملحوظة: هذا المنشئ أصبح الآن قديمًا.
+بدلاً من ذلك، الرجاء استخدام المنشئ SpreadsheetML2003SaveOptions().
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ يناير 2021.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [SpreadsheetML2003SaveOptions](/cells/python-net/ar/aspose.cells/spreadsheetml2003saveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`SpreadsheetML2003SaveOptions`](/cells/python-net/ar/aspose.cells/spreadsheetml2003saveoptions)

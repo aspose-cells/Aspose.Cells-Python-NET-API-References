@@ -3,13 +3,13 @@ title: object_data属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 960
+weight: 970
 url: /zh/aspose.cells.drawing/oleobject/object_data/
 is_root: false
 ---
 ## object_data属性
 
-将嵌入的 ole 对象数据表示为字节数组。
+将嵌入的 OLE 对象数据表示为字节数组。
 ### 定义：
 ```python
 @property

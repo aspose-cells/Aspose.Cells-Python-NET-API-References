@@ -1,6 +1,6 @@
 ---
 title: get_consumption_quantity方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def get_consumption_quantity(self):
+
+@staticmethod
+def get_consumption_quantity():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_quantity(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Metered](/cells/python-net/zh/aspose.cells/metered)
+* 模块[`aspose.cells`](../../)
+* 类 [`Metered`](/cells/python-net/zh/aspose.cells/metered)

@@ -1,13 +1,13 @@
 ---
 title: add_pivot_table_style方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.tables/tablestylecollection/add_pivot_table_style/
 is_root: false
 ---
-##  add_pivot_table_style(name) {#str}
+##  add_pivot_table_style(self, name) {#str}
 添加自定义数据透视表样式。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_pivot_table_style(self, name):
     ...
 ```
@@ -29,5 +30,5 @@ def add_pivot_table_style(self, name):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.tables](../../)
-* 类 [TableStyleCollection](/cells/python-net/zh/aspose.cells.tables/tablestylecollection)
+* 模块[`aspose.cells.tables`](../../)
+* 类 [`TableStyleCollection`](/cells/python-net/zh/aspose.cells.tables/tablestylecollection)

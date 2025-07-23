@@ -1,5 +1,5 @@
 ---
-title: ContentTypePropertyCollection الدرجة
+title: ContentTypePropertyCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,32 +7,33 @@ weight: 30
 url: /ar/aspose.cells.properties/contenttypepropertycollection/
 is_root: false
 ---
-##  ContentTypePropertyCollection الدرجة
-مجموعة من [ContentTypeProperty](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty) عنصر تمثل معلومات اضافية.
+##  ContentTypePropertyCollection صف
+مجموعة من [`ContentTypeProperty`](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty) كائنًا تمثل معلومات إضافية.
 
 
 
-يكشف نوع ContentTypePropertyCollection الأعضاء التالية:
+يكشف النوع ContentTypePropertyCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [capacity](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/capacity) | الحصول على أو تحديد عدد العناصر التي يمكن أن تحتويها قائمة الصفيف.|
+| [capacity](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/capacity) | يحصل على عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة أو يعينها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add(name, value)](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/add/#str-str) | يضيف معلومات خاصية نوع المحتوى.|
-| [add(name, value, type)](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/add/#str-str-str) | يضيف معلومات خاصية نوع المحتوى.|
-| [copy_to(array)](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/copy_to/#list) | ينسخ قائمة المصفوفات بأكملها إلى قائمة مصفوفة متوافقة أحادية البعد ، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/copy_to/#int-list-int-int) |ينسخ نطاقًا من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة ، بدءًا من الفهرس المحدد لقائمة الصفيف الهدف.|
-| [index_of(item, index)](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/index_of/#ContentTypeProperty-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of(item, index, count)](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/index_of/#ContentTypeProperty-int-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ بالفهرس المحدد ويحتوي على عدد محدد من العناصر.|
-| [last_index_of(item)](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/last_index_of/#ContentTypeProperty) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of(item, index)](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/last_index_of/#ContentTypeProperty-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of(item, index, count)](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/last_index_of/#ContentTypeProperty-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
-| [binary_search(item)](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/binary_search/#ContentTypeProperty) | يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.|
+| [`add(self, name, value)`](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/add/#str-str) | إضافة معلومات خاصية نوع المحتوى.|
+| [`add(self, name, value, type)`](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/add/#str-str-str) | إضافة معلومات خاصية نوع المحتوى.|
+| [`copy_to(self, array)`](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/copy_to/#list) |يقوم بنسخ قائمة المصفوفة بأكملها إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من بداية قائمة المصفوفة المستهدفة.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/copy_to/#int-list-int-int) | يقوم بنسخ مجموعة من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لقائمة المصفوفة المستهدفة.|
+| [`index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/index_of/#aspose.cells.properties.contenttypeproperty-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/index_of/#aspose.cells.properties.contenttypeproperty-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ بالفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [`last_index_of(self, item)`](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/last_index_of/#aspose.cells.properties.contenttypeproperty) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن قائمة المصفوفة بأكملها.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/last_index_of/#aspose.cells.properties.contenttypeproperty-int) |يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/last_index_of/#aspose.cells.properties.contenttypeproperty-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبدئي للصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
+| [`get(self, name)`](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/get/#str) | يحصل على خاصية نوع المحتوى حسب اسم الخاصية.|
+| [`binary_search(self, item)`](/cells/python-net/ar/aspose.cells.properties/contenttypepropertycollection/binary_search/#aspose.cells.properties.contenttypeproperty) | يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.|
 
 
 
@@ -51,5 +52,5 @@ workbook.save("book1.xlsm")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](..)
-* فئة [ContentTypeProperty](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty)
+* الوحدة [`aspose.cells.properties`](..)
+* فئة [`ContentTypeProperty`](/cells/python-net/ar/aspose.cells.properties/contenttypeproperty)

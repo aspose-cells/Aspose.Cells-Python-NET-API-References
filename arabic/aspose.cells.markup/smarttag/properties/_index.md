@@ -1,5 +1,5 @@
 ---
-title: properties الملكية
+title: properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.markup/smarttag/properties/
 is_root: false
 ---
-##  properties الملكية
+##  properties عقار
 
-الحصول على properties للعلامة الذكية وتعيينه.
+يحصل على properties للعلامة الذكية ويقوم بضبطها.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def properties(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](../../)
-* فئة [SmartTag](/cells/python-net/ar/aspose.cells.markup/smarttag)
-* فئة [SmartTagPropertyCollection](/cells/python-net/ar/aspose.cells.markup/smarttagpropertycollection)
+* الوحدة [`aspose.cells.markup`](../../)
+* فئة [`SmartTag`](/cells/python-net/ar/aspose.cells.markup/smarttag)
+* فئة [`SmartTagPropertyCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagpropertycollection)

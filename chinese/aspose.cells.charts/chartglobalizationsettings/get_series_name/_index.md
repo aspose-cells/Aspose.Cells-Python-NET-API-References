@@ -1,13 +1,13 @@
 ---
 title: get_series_name方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
 url: /zh/aspose.cells.charts/chartglobalizationsettings/get_series_name/
 is_root: false
 ---
-##  get_series_name() {#}
+##  get_series_name(self) {#}
 获取图表中系列的名称。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_series_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_series_name(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartGlobalizationSettings](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartGlobalizationSettings`](/cells/python-net/zh/aspose.cells.charts/chartglobalizationsettings)

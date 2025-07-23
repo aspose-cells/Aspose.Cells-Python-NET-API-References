@@ -1,16 +1,15 @@
 ---
-title: show_values_row الملكية
+title: show_values_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 990
+weight: 1130
 url: /ar/aspose.cells.pivot/pivottable/show_values_row/
 is_root: false
 ---
-##  show_values_row الملكية
+##  show_values_row عقار
 
-يحدد قيمة منطقية تشير إلى ما إذا كان سيتم إظهار صف القيم أم لا.
-إظهار صف القيم
+يشير إلى ما إذا كان يتم عرض صف القيم.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +21,5 @@ def show_values_row(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

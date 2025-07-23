@@ -3,16 +3,16 @@ title: PivotNumbericRangeGroupSettings صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 200
 url: /ar/aspose.cells.pivot/pivotnumbericrangegroupsettings/
 is_root: false
 ---
 ##  PivotNumbericRangeGroupSettings صف
-يمثل مجموعة النطاق الرقمي للحقل المحوري.
+يمثل مجموعة النطاق الرقمي لحقل المحور.
 
 
 
-**ميراث:** [`PivotNumbericRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotnumbericrangegroupsettings) → 
+**الميراث:** [`PivotNumbericRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotnumbericrangegroupsettings) → 
 [`PivotFieldGroupSettings`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldgroupsettings)
 
 
@@ -22,10 +22,10 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells.pivot/pivotnumbericrangegroupsettings/type) | الحصول على نوع المجموعة.|
-| [start](/cells/python-net/ar/aspose.cells.pivot/pivotnumbericrangegroupsettings/start) | الحصول على رقم بداية المجموعة.|
-| [end](/cells/python-net/ar/aspose.cells.pivot/pivotnumbericrangegroupsettings/end) | الحصول على الرقم النهائي للمجموعة.|
-| [interval](/cells/python-net/ar/aspose.cells.pivot/pivotnumbericrangegroupsettings/interval) | يحصل على الفاصل الزمني للمجموعة.|
+| [type](/cells/python-net/ar/aspose.cells.pivot/pivotnumbericrangegroupsettings/type) | يحصل على نوع المجموعة.|
+| [start](/cells/python-net/ar/aspose.cells.pivot/pivotnumbericrangegroupsettings/start) | يحصل على رقم بداية المجموعة.|
+| [end](/cells/python-net/ar/aspose.cells.pivot/pivotnumbericrangegroupsettings/end) | يحصل على الرقم النهائي للمجموعة.|
+| [interval](/cells/python-net/ar/aspose.cells.pivot/pivotnumbericrangegroupsettings/interval) | يحصل على فاصل المجموعة.|
 
 
 

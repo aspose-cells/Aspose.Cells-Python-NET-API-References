@@ -1,5 +1,5 @@
 ---
-title: calculate_on_save الملكية
+title: calculate_on_save عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,16 +7,16 @@ weight: 40
 url: /ar/aspose.cells/formulasettings/calculate_on_save/
 is_root: false
 ---
-##  calculate_on_save الملكية
+##  calculate_on_save عقار
 
-يشير إلى ما إذا كان سيتم إعادة حساب المصنف قبل حفظ المستند ، عندما تكون في وضع الحساب اليدوي.
+يشير إلى ما إذا كان من الأفضل إعادة حساب المصنف قبل حفظ المستند، عند وضع الحساب اليدوي.
 
 ###  ملاحظات
 
 هذه الخاصية مخصصة فقط لحفظ الإعدادات في ملف جدول البيانات الناتج
-بحيث تعمل التطبيقات الأخرى (مثل ms excel) وفقًا لذلك عند تحميل الملف الناتج ومعالجته.
-للنظر في الأداء لمعظم تطبيقات المستخدمين ، لا نقوم بحساب أي صيغة في المصنف تلقائيًا ،
-بغض النظر عن القيمة التي تم تحديدها لهذه الخاصية.
+حتى تتمكن التطبيقات الأخرى (مثل ms excel) من التصرف وفقًا لذلك عند تحميل الملف الناتج ومعالجته.
+من أجل مراعاة الأداء بالنسبة لتطبيقات معظم المستخدمين، فإننا لا نحسب أي صيغة في المصنف تلقائيًا،
+بغض النظر عن القيمة التي تم تعيينها لهذه الخاصية.
 ###  تعريف:
 ```python
 @property
@@ -28,5 +28,5 @@ def calculate_on_save(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormulaSettings](/cells/python-net/ar/aspose.cells/formulasettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormulaSettings`](/cells/python-net/ar/aspose.cells/formulasettings)

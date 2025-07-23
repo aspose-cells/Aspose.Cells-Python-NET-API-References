@@ -1,5 +1,5 @@
 ---
-title: date_format الملكية
+title: date_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells/importtableoptions/date_format/
 is_root: false
 ---
-##  date_format الملكية
+##  date_format عقار
 
-الحصول على سلسلة تنسيق التاريخ أو تعيينها للخلايا ذات قيم التاريخ والوقت المستوردة.
+يحصل على سلسلة تنسيق التاريخ أو يعينها للخلايا التي تحتوي على قيم التاريخ والوقت المستوردة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def date_format(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ImportTableOptions](/cells/python-net/ar/aspose.cells/importtableoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ImportTableOptions`](/cells/python-net/ar/aspose.cells/importtableoptions)

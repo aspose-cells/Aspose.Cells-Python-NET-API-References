@@ -3,7 +3,7 @@ title: has_multi_level_labels属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 180
 url: /zh/aspose.cells.charts/axis/has_multi_level_labels/
 is_root: false
 ---
@@ -11,9 +11,9 @@ is_root: false
 
 指示标签是否应显示为多级。
 
-### 评论
+### 注意事项
 
-仅对类别轴有效。
+仅对分类轴有效。
 ### 定义：
 ```python
 @property

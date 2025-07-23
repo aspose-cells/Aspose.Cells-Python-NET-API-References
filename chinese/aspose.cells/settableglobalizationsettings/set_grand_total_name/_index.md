@@ -7,12 +7,13 @@ weight: 320
 url: /zh/aspose.cells/settableglobalizationsettings/set_grand_total_name/
 is_root: false
 ---
-##  set_grand_total_name {#aspose.cells.ConsolidationFunction-str}
-设置特定函数的总名称。
+##  set_grand_total_name(self, function_type, name) {#aspose.cells.ConsolidationFunction-str}
+设置特定函数的总计名称。
 
 
 
 ```python
+
 def set_grand_total_name(self, function_type, name):
     ...
 ```
@@ -21,7 +22,7 @@ def set_grand_total_name(self, function_type, name):
 |范围|类型|描述|
 | :- | :- | :- |
 | function_type | [`ConsolidationFunction`](/cells/python-net/zh/aspose.cells/consolidationfunction) |函数类型。|
-| name | str |函数的总名称。|
+| name | str |函数的总计名称。|
 
 
 

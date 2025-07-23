@@ -1,15 +1,15 @@
 ---
-title: acitve_pane_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: acitve_pane_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells/panecollection/acitve_pane_type/
 is_root: false
 ---
-## acitve_pane_type 属性
+## acitve_pane_type属性
 
-获取和设置活动窗格。
+获取并设置活动窗格。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def acitve_pane_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PaneCollection](/cells/python-net/zh/aspose.cells/panecollection)
-* 类 [RectangleAlignmentType](/cells/python-net/zh/aspose.cells.drawing/rectanglealignmenttype)
+* 模块[`aspose.cells`](../../)
+* 类 [`PaneCollection`](/cells/python-net/zh/aspose.cells/panecollection)
+* 类 [`RectangleAlignmentType`](/cells/python-net/zh/aspose.cells.drawing/rectanglealignmenttype)

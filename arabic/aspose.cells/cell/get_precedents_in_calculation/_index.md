@@ -7,16 +7,17 @@ weight: 190
 url: /ar/aspose.cells/cell/get_precedents_in_calculation/
 is_root: false
 ---
-##  get_precedents_in_calculation() {#}
-الحصول على جميع السابقات (مرجع إلى الخلايا في المصنف الحالي) المستخدمة بواسطة صيغة هذه الخلية أثناء حسابها.
+##  get_precedents_in_calculation(self) {#}
+يحصل على جميع السوابق (الإشارة إلى الخلايا في المصنف الحالي) التي تستخدمها صيغة هذه الخلية أثناء حسابها.
 
 
 ###  عائدات
 
-العداد لتعداد جميع المراجع (RefifiedArea)
+مُعَدِّد لإحصاء جميع المراجع (ReferredArea)
 
 
 ```python
+
 def get_precedents_in_calculation(self):
     ...
 ```
@@ -24,9 +25,9 @@ def get_precedents_in_calculation(self):
 
 ###  ملاحظات
 
-يمكن أن تعمل هذه الطريقة فقط مع الموقف الذي هو [FormulaSettings.enable_calculation_chain](/cells/python-net/ar/aspose.cells/formulasettings#enable_calculation_chain)
+لا يمكن لهذه الطريقة أن تعمل إلا في حالة [`FormulaSettings.enable_calculation_chain`](/cells/python-net/ar/aspose.cells/formulasettings#enable_calculation_chain)
 هذا صحيح بالنسبة للمصنف وقد تم حساب المصنف بالكامل.
-إذا لم تكن هذه الخلية صيغة أو لا تشير إلى أي خلايا أخرى ، فسيتم إرجاع القيمة الخالية.
+إذا لم تكن هذه الخلية عبارة عن صيغة أو لم تشير إلى أي خلايا أخرى، فسيتم إرجاع القيمة null.
 ###  مثال
 
 ```python
@@ -47,5 +48,5 @@ for r in en:
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

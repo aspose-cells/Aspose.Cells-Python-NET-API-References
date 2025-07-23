@@ -3,13 +3,13 @@ title: image_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 150
+weight: 160
 url: /zh/aspose.cells.rendering/imageorprintoptions/image_type/
 is_root: false
 ---
 ## image_type属性
 
-获取或设置生成图像的格式。
+获取或设置生成的图像的格式。
 默认值：PNG。
 ### 定义：
 ```python

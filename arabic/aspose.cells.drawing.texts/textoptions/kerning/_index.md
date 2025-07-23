@@ -1,5 +1,5 @@
 ---
-title: kerning الملكية
+title: kerning عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 170
 url: /ar/aspose.cells.drawing.texts/textoptions/kerning/
 is_root: false
 ---
-##  kerning الملكية
+##  kerning عقار
 
-يحدد الحد الأدنى لحجم الخط الذي سيظهر عنده الحرف kerning لتشغيل هذا النص.
+يحدد الحد الأدنى لحجم الخط الذي سيظهر به الحرف kerning لتشغيل النص هذا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def kerning(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextOptions](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextOptions`](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)

@@ -3,13 +3,13 @@ title: items属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 470
+weight: 560
 url: /zh/aspose.cells.pivot/pivotfield/items/
 is_root: false
 ---
 ## items属性
 
-获取所有基址items；
+获取此字段中枢轴 items 的所有标签。
 ### 定义：
 ```python
 @property

@@ -3,12 +3,12 @@ title: GridlineType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2190
+weight: 2130
 url: /ar/aspose.cells/gridlinetype/
 is_root: false
 ---
 ##  GridlineType التعداد
-تعداد نوع خط الشبكة.
+يقوم بإحصاء نوع خط الشبكة.
 
 
 

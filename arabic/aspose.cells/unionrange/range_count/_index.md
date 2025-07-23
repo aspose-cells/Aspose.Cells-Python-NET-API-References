@@ -1,13 +1,13 @@
 ---
-title: range_count الملكية
+title: range_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 190
 url: /ar/aspose.cells/unionrange/range_count/
 is_root: false
 ---
-##  range_count الملكية
+##  range_count عقار
 
 يحصل على عدد النطاقات.
 ###  تعريف:
@@ -18,5 +18,5 @@ def range_count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

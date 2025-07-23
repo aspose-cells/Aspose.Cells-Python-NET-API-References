@@ -1,5 +1,5 @@
 ---
-title: ime_mode الملكية
+title: ime_mode عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 100
 url: /ar/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol/ime_mode/
 is_root: false
 ---
-##  ime_mode الملكية
-
-الحصول على وتعيين وضع وقت التشغيل الافتراضي لمحرر أسلوب الإدخال لعنصر التحكم أثناء تلقيه التركيز.
+##  ime_mode عقار
 ###  تعريف:
 ```python
 @property
@@ -21,6 +19,6 @@ def ime_mode(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [CommandButtonActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
-* فئة [InputMethodEditorMode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/inputmethodeditormode)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`CommandButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* فئة [`InputMethodEditorMode`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/inputmethodeditormode)

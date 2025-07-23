@@ -9,7 +9,7 @@ is_root: false
 ---
 ## drop_down_lines属性
 
-获取或设置组合框下拉部分中显示的列表行数。
+获取或设置组合框下拉部分显示的列表行数。
 ### 定义：
 ```python
 @property

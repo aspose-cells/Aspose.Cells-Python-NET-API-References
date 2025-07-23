@@ -3,13 +3,14 @@ title: is_printable عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 680
+weight: 690
 url: /ar/aspose.cells.drawing/arcshape/is_printable/
 is_root: false
 ---
 ##  is_printable عقار
 
-صحيح إذا كان الكائن قابلاً للطباعة
+يشير إلى ما إذا كان الكائن قابلاً للطباعة.
+إذا كان False، فلن تتم طباعة هذا الشكل عند الطباعة.
 
 ###  مثال
 

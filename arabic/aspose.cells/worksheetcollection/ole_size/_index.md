@@ -3,13 +3,13 @@ title: ole_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 350
 url: /ar/aspose.cells/worksheetcollection/ole_size/
 is_root: false
 ---
 ##  ole_size عقار
 
-الحصول على الحجم المعروض وتعيينه عند استخدام ملف المصنف ككائن Ole.
+يحصل على الحجم المعروض ويحدده عند استخدام ملف المصنف ككائن Ole.
 
 ###  ملاحظات
 

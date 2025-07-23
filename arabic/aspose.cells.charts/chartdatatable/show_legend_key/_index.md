@@ -1,15 +1,15 @@
 ---
-title: show_legend_key الملكية
+title: show_legend_key عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 130
 url: /ar/aspose.cells.charts/chartdatatable/show_legend_key/
 is_root: false
 ---
-##  show_legend_key الملكية
+##  show_legend_key عقار
 
-صواب إذا كان مفتاح وسيلة إيضاح تسمية البيانات مرئيًا.
+صحيح إذا كان مفتاح أسطورة تسمية البيانات مرئيًا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_legend_key(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartDataTable](/cells/python-net/ar/aspose.cells.charts/chartdatatable)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartDataTable`](/cells/python-net/ar/aspose.cells.charts/chartdatatable)

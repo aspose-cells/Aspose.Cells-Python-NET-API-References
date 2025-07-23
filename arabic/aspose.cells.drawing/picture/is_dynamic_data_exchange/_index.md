@@ -3,13 +3,13 @@ title: is_dynamic_data_exchange عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 620
+weight: 640
 url: /ar/aspose.cells.drawing/picture/is_dynamic_data_exchange/
 is_root: false
 ---
 ##  is_dynamic_data_exchange عقار
 
-يحصل أو يحدد ما إذا كان تبادل البيانات الديناميكي
+يحصل على أو يحدد ما إذا كان تبادل البيانات الديناميكي
 ###  تعريف:
 ```python
 @property

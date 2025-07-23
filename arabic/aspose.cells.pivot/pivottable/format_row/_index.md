@@ -7,12 +7,13 @@ weight: 120
 url: /ar/aspose.cells.pivot/pivottable/format_row/
 is_root: false
 ---
-##  format_row(row, style) {#int-Style}
-قم بتنسيق بيانات الصف في المنطقة المحورية
+##  format_row(self, row, style) {#int-aspose.cells.Style}
+تنسيق بيانات الصف في منطقة الجدول المحوري
 
 
 
 ```python
+
 def format_row(self, row, style):
     ...
 ```
@@ -21,10 +22,10 @@ def format_row(self, row, style):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | row | int | فهرس الصف لكائن الصف|
-| style | [Style](/cells/python-net/ar/aspose.cells/style) | النمط الذي يتم تنسيقه|
+| style | [`Style`](/cells/python-net/ar/aspose.cells/style) | النمط الذي هو التنسيق|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

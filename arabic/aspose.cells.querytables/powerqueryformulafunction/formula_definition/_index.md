@@ -1,13 +1,13 @@
 ---
-title: formula_definition الملكية
+title: formula_definition عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ar/aspose.cells.querytables/powerqueryformulafunction/formula_definition/
 is_root: false
 ---
-##  formula_definition الملكية
+##  formula_definition عقار
 
 يحصل على تعريف صيغة استعلام الطاقة.
 ###  تعريف:
@@ -18,5 +18,5 @@ def formula_definition(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.querytables](../../)
-* فئة [PowerQueryFormulaFunction](/cells/python-net/ar/aspose.cells.querytables/powerqueryformulafunction)
+* الوحدة [`aspose.cells.querytables`](../../)
+* فئة [`PowerQueryFormulaFunction`](/cells/python-net/ar/aspose.cells.querytables/powerqueryformulafunction)

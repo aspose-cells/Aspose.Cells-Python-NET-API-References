@@ -3,7 +3,7 @@ title: has_custom_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 510
+weight: 530
 url: /ar/aspose.cells/cell/has_custom_style/
 is_root: false
 ---

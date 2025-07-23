@@ -1,5 +1,5 @@
 ---
-title: underline الملكية
+title: underline عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 290
 url: /ar/aspose.cells.drawing.texts/textoptions/underline/
 is_root: false
 ---
-##  underline الملكية
+##  underline عقار
 
-الحصول على او تحديد نوع الخط underline.
+يحصل على نوع الخط underline أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def underline(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [FontUnderlineType](/cells/python-net/ar/aspose.cells/fontunderlinetype)
-* فئة [TextOptions](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`FontUnderlineType`](/cells/python-net/ar/aspose.cells/fontunderlinetype)
+* فئة [`TextOptions`](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ## printing_page属性
 
-指示将不打印哪些页面。
+指示哪些页面将不会被打印。
 ### 定义：
 ```python
 @property

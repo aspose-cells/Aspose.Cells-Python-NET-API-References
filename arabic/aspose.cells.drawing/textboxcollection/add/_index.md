@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells.drawing/textboxcollection/add/
 is_root: false
 ---
-##  add(upper_left_row, upper_left_column, height, width) {#int-int-int-int}
-يضيف مربع نص إلى المجموعة.
+##  add(self, upper_left_row, upper_left_column, height, width) {#int-int-int-int}
+إضافة مربع نص إلى المجموعة.
 
 
 ###  عائدات
 
-[TextBox](/cells/python-net/ar/aspose.cells.drawing/textbox) فهرس العنصر.
+[`TextBox`](/cells/python-net/ar/aspose.cells.drawing/textbox) فهرس الكائن.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, height, width):
     ...
 ```
@@ -24,10 +25,10 @@ def add(self, upper_left_row, upper_left_column, height, width):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| upper_left_row | int | فهرس الصف العلوي الأيسر.|
-| upper_left_column | int | فهرس العمود الأيسر العلوي.|
-| height | int | ارتفاع مربع النص ، بوحدة البكسل.|
-| width | int | عرض مربع النص ، بوحدة البكسل.|
+| upper_left_row | int | مؤشر الصف العلوي الأيسر.|
+| upper_left_column | int | فهرس العمود العلوي الأيسر.|
+| height | int | ارتفاع مربع النص، بوحدة البكسل.|
+| width | int | عرض مربع النص، بوحدة البكسل.|
 
 ###  مثال
 
@@ -41,6 +42,6 @@ index2 = textBoxCollection.add(1, 1, 50, 100)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [TextBox](/cells/python-net/ar/aspose.cells.drawing/textbox)
-* فئة [TextBoxCollection](/cells/python-net/ar/aspose.cells.drawing/textboxcollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`TextBox`](/cells/python-net/ar/aspose.cells.drawing/textbox)
+* فئة [`TextBoxCollection`](/cells/python-net/ar/aspose.cells.drawing/textboxcollection)

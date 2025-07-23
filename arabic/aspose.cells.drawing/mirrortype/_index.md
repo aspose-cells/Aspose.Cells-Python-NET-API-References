@@ -1,28 +1,28 @@
 ---
-title: العد MirrorType
+title: MirrorType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 960
+weight: 950
 url: /ar/aspose.cells.drawing/mirrortype/
 is_root: false
 ---
-##  العد MirrorType
-يمثل نوعًا معكوسًا لتعبئة النسيج
+##  MirrorType التعداد
+يمثل نوع المرآة من تعبئة الملمس
 
 
 
-يكشف نوع MirrorType الأعضاء التالية:
+يكشف النوع MirrorType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | NONE | لا أحد|
-| HORIZONAL | أفقى|
+| HORIZONAL | أفقي|
 | VERTICAL | رَأسِيّ|
 | BOTH | كلاهما|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

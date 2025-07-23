@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells.charts/displayunitlabel/set_position_auto/
 is_root: false
 ---
-##  set_position_auto() {#}
-اضبط موضع الإطار على تلقائي
+##  set_position_auto(self) {#}
+ضبط موضع الإطار إلى الوضع التلقائي
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```
@@ -22,5 +23,5 @@ def set_position_auto(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DisplayUnitLabel](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DisplayUnitLabel`](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)

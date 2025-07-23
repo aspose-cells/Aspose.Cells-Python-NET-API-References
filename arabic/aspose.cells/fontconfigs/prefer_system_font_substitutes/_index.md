@@ -1,27 +1,27 @@
 ---
-title: prefer_system_font_substitutes الملكية
+title: prefer_system_font_substitutes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 120
 url: /ar/aspose.cells/fontconfigs/prefer_system_font_substitutes/
 is_root: false
 ---
-##  prefer_system_font_substitutes الملكية
+##  prefer_system_font_substitutes عقار
 
-حدد ما إذا كنت تريد استخدام بدائل خط النظام أولاً أم لا عند عدم تقديم خط وعدم تعيين هذا الخط البديل.
-على سبيل المثال في Ubuntu ، يتم استبدال الخط "Arial" بشكل عام بـ "Liberation Sans".
-القيمة الافتراضية هي كاذبة.
+أشر إلى ما إذا كان سيتم استخدام بدائل الخطوط النظامية أولاً أم لا عندما لا يتم تقديم الخط ولم يتم تعيين بديل هذا الخط.
+على سبيل المثال في Ubuntu، يتم استبدال الخط "Arial" عمومًا بخط "Liberation Sans".
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property
 def prefer_system_font_substitutes(self):
     ...
-@prefer_system_font_substitutes.setter
-def prefer_system_font_substitutes(self, value):
+@staticmethod
+def set_prefer_system_font_substitutes(value):
     ...
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FontConfigs](/cells/python-net/ar/aspose.cells/fontconfigs)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FontConfigs`](/cells/python-net/ar/aspose.cells/fontconfigs)

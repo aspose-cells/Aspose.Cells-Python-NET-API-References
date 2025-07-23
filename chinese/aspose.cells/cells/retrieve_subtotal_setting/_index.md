@@ -3,20 +3,21 @@ title: retrieve_subtotal_setting方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 820
+weight: 840
 url: /zh/aspose.cells/cells/retrieve_subtotal_setting/
 is_root: false
 ---
-##  retrieve_subtotal_setting {#aspose.cells.CellArea}
+##  retrieve_subtotal_setting(self, ca) {#aspose.cells.CellArea}
 检索范围的小计设置。
 
 
-### 退货
+### 返回
 
 
 
 
 ```python
+
 def retrieve_subtotal_setting(self, ca):
     ...
 ```

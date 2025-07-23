@@ -1,44 +1,48 @@
 ---
 title: create_cell_area方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells/cellarea/create_cell_area/
 is_root: false
 ---
-##  create_cell_area(start_cell_name, end_cell_name) {#str-str}
-创建单元格区域。
+##  create_cell_area（，起始单元名称，结束单元名称）{#str-str}
+创建一个单元格区域。
 
 
 ### 返回
 
-返回 [CellArea](/cells/python-net/zh/aspose.cells/cellarea)。
+返回 [`CellArea`](/cells/python-net/zh/aspose.cells/cellarea)。
 
 
 ```python
-def create_cell_area(self, start_cell_name, end_cell_name):
+
+@staticmethod
+def create_cell_area(start_cell_name, end_cell_name):
     ...
 ```
 
 
 |范围|类型|描述|
 | :- | :- | :- |
-| start_cell_name | str |区域左上角的单元格。|
-| end_cell_name | str |范围右下角的单元格。|
+| start_cell_name | str |范围的左上角单元格。|
+| end_cell_name | str |范围的右下角单元格。|
 
 
-##  create_cell_area(start_row, start_column, end_row, end_column) {#int-int-int-int}
-创建单元格区域。
+##  create_cell_area（，起始行，起始列，结束行，结束列）{#int-int-int-int}
+创建一个单元格区域。
 
 
 ### 返回
 
-返回 [CellArea](/cells/python-net/zh/aspose.cells/cellarea)。
+返回 [`CellArea`](/cells/python-net/zh/aspose.cells/cellarea)。
 
 
 ```python
-def create_cell_area(self, start_row, start_column, end_row, end_column):
+
+@staticmethod
+def create_cell_area(start_row, start_column, end_row, end_column):
     ...
 ```
 
@@ -47,11 +51,11 @@ def create_cell_area(self, start_row, start_column, end_row, end_column):
 | :- | :- | :- |
 | start_row | int |起始行。|
 | start_column | int |起始列。|
-| end_row | int |最后一排。|
-| end_column | int |结束专栏。|
+| end_row | int |末行。|
+| end_column | int |结束列。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CellArea](/cells/python-net/zh/aspose.cells/cellarea)
+* 模块[`aspose.cells`](../../)
+* 类 [`CellArea`](/cells/python-net/zh/aspose.cells/cellarea)

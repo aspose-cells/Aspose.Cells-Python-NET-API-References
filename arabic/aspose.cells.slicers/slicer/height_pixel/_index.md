@@ -1,5 +1,5 @@
 ---
-title: height_pixel الملكية
+title: height_pixel عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,16 @@ weight: 120
 url: /ar/aspose.cells.slicers/slicer/height_pixel/
 is_root: false
 ---
-##  height_pixel الملكية
+##  height_pixel عقار
 
-تُرجع أو تحدد ارتفاع أداة تقطيع الشرائح المحددة بالبكسل.
+إرجاع أو تعيين ارتفاع المقطع المحدد بالبكسل.
+
+###  ملاحظات
+
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+ الرجاء استخدام خاصية Shape.Height.
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ مايو 2025.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 ###  مثال
 
@@ -29,5 +36,5 @@ def height_pixel(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

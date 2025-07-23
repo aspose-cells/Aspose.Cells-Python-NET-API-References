@@ -1,5 +1,5 @@
 ---
-title: type الملكية
+title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells/conditionalformattingicon/type/
 is_root: false
 ---
-##  type الملكية
+##  type عقار
 
-الحصول على مجموعة الرموز type وضبطها.
+يحصل على مجموعة الأيقونات type ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ConditionalFormattingIcon](/cells/python-net/ar/aspose.cells/conditionalformattingicon)
-* فئة [IconSetType](/cells/python-net/ar/aspose.cells/iconsettype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ConditionalFormattingIcon`](/cells/python-net/ar/aspose.cells/conditionalformattingicon)
+* فئة [`IconSetType`](/cells/python-net/ar/aspose.cells/iconsettype)

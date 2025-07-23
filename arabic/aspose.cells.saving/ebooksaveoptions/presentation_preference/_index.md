@@ -3,15 +3,15 @@ title: presentation_preference عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 600
+weight: 690
 url: /ar/aspose.cells.saving/ebooksaveoptions/presentation_preference/
 is_root: false
 ---
 ##  presentation_preference عقار
 
-الإشارة إلى ما إذا كان ملف html أو mht هو تفضيل العرض التقديمي.
-القيمة الافتراضية هي كاذبة.
-إذا كنت ترغب في الحصول على عرض أكثر جمالا، يرجى ضبط القيمة على صحيح.
+يشير إلى ما إذا كان ملف html أو mht هو تفضيل العرض التقديمي.
+القيمة الافتراضية هي false.
+إذا كنت تريد الحصول على عرض تقديمي أكثر جمالا، فيرجى تعيين القيمة على true.
 ###  تعريف:
 ```python
 @property

@@ -7,17 +7,35 @@ weight: 170
 url: /zh/aspose.cells/worksheetcollection/refresh_pivot_tables/
 is_root: false
 ---
-##  refresh_pivot_tables {#}
-刷新 WorksheetCollection 中的所有数据透视表。
+##  refresh_pivot_tables(self) {#}
+刷新 Excel 文件中的所有数据透视表。
 
 
 
 ```python
+
 def refresh_pivot_tables(self):
     ...
 ```
 
 
+
+
+##  refresh_pivot_tables(self, option) {#aspose.cells.pivot.PivotTableRefreshOption}
+刷新 Excel 文件中的所有数据透视表。
+
+
+
+```python
+
+def refresh_pivot_tables(self, option):
+    ...
+```
+
+
+|范围|类型|描述|
+| :- | :- | :- |
+| option | aspose.cells.pivot.PivotTableRefreshOption |用于刷新数据透视表数据源的选项。|
 
 
 

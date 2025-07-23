@@ -3,15 +3,15 @@ title: hidden_col_display_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 470
 url: /ar/aspose.cells/htmlsaveoptions/hidden_col_display_type/
 is_root: false
 ---
 ##  hidden_col_display_type عقار
 
-العمود المخفي (عرض هذا العمود هو 0) في Excel، قبل حفظه بتنسيق html،
-إذا كان HtmlHiddenColDisplayType هو "إزالة"، فلن يتم إخراج العمود المخفي،
-إذا كانت القيمة "مخفية"، فسيتم إخراج العمود، ولكنه كان مخفيًا، والقيمة الافتراضية هي "مخفية"
+عمود مخفي (عرض هذا العمود هو 0) في excel، قبل حفظه بتنسيق html،
+إذا كان HtmlHiddenColDisplayType هو "Remove"، فلن يتم إخراج العمود المخفي،
+إذا كانت القيمة "مخفي"، فسيتم إخراج العمود، ولكن تم إخفاؤه، والقيمة الافتراضية هي "مخفي"
 ###  تعريف:
 ```python
 @property

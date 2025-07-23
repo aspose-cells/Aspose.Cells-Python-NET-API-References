@@ -3,13 +3,13 @@ title: formula_settings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 220
 url: /ar/aspose.cells/workbooksettings/formula_settings/
 is_root: false
 ---
 ##  formula_settings عقار
 
-الحصول على إعدادات الميزات المتعلقة بالصيغة.
+يحصل على الإعدادات للميزات المتعلقة بالصيغة.
 ###  تعريف:
 ```python
 @property

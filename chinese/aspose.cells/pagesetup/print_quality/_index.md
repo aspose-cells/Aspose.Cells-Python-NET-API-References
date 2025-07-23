@@ -1,13 +1,13 @@
 ---
-title: print_quality 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: print_quality属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 580
 url: /zh/aspose.cells/pagesetup/print_quality/
 is_root: false
 ---
-## print_quality 属性
+## print_quality属性
 
 代表打印质量。
 ### 定义：
@@ -21,5 +21,5 @@ def print_quality(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PageSetup](/cells/python-net/zh/aspose.cells/pagesetup)
+* 模块[`aspose.cells`](../../)
+* 类 [`PageSetup`](/cells/python-net/zh/aspose.cells/pagesetup)

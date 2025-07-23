@@ -3,13 +3,13 @@ title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 410
 url: /ar/aspose.cells.charts/legend/text/
 is_root: false
 ---
 ##  text عقار
 
-الحصول على أو تعيين text لعنوان الإطار.
+يحصل على أو يعين text لعنوان الإطار.
 ###  تعريف:
 ```python
 @property

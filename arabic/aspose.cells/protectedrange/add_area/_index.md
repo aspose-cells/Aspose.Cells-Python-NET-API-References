@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/protectedrange/add_area/
 is_root: false
 ---
-##  add_area(start_row, start_column, end_row, end_column) {#int-int-int-int}
-يضيف منطقة المشار إليها
+##  add_area(self, start_row, start_column, end_row, end_column) {#int-int-int-int}
+يضيف منطقة مرجعية إلى هذه
 
 
 
 ```python
+
 def add_area(self, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -22,11 +23,11 @@ def add_area(self, start_row, start_column, end_row, end_column):
 | :- | :- | :- |
 | start_row | int | صف البداية.|
 | start_column | int | عمود البداية.|
-| end_row | int | صف النهاية.|
-| end_column | int | عمود النهاية.|
+| end_row | int | الصف الأخير.|
+| end_column | int | العمود النهائي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ProtectedRange](/cells/python-net/ar/aspose.cells/protectedrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ProtectedRange`](/cells/python-net/ar/aspose.cells/protectedrange)

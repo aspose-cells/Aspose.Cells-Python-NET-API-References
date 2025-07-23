@@ -1,15 +1,15 @@
 ---
-title: template الملكية
+title: template عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 380
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/template/
 is_root: false
 ---
-##  template الملكية
+##  template عقار
 
-الحصول على أو تحديد الاسم المعلوماتي للوثيقة template.
+يحصل على أو يعين الاسم المعلوماتي للمستند template.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def template(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

@@ -3,20 +3,20 @@ title: begin_arrowhead_width属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 330
+weight: 340
 url: /zh/aspose.cells.drawing/lineshape/begin_arrowhead_width/
 is_root: false
 ---
 ## begin_arrowhead_width属性
 
-获取和设置线条的开始箭头宽度。
+获取并设置线的起始箭头宽度。
 
-### 评论
+### 注意事项
 
-注意：该成员现已过时。反而，
+注意：此成员现已过时。取而代之的是
 请使用 Shape.Line.BeginArrowheadWidth 属性。
-该房产将于 2016 年 8 月起 12 个月后被拆除。
-Aspose 对于给您带来的任何不便，我们深表歉意。
+自 2016 年 8 月起，该房产将于 12 个月后被移除。
+Aspose 对于您所遇到的不便深表歉意。
 ### 定义：
 ```python
 @property

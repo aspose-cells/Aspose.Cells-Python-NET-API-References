@@ -1,18 +1,19 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.charts/sparklinecollection/add/
 is_root: false
 ---
-##  add(data_range, row, column) {#str-int-int}
+##  add(self, data_range, row, column) {#str-int-int}
 添加迷你图。
 
 
 
 ```python
+
 def add(self, data_range, row, column):
     ...
 ```
@@ -27,5 +28,5 @@ def add(self, data_range, row, column):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [SparklineCollection](/cells/python-net/zh/aspose.cells.charts/sparklinecollection)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`SparklineCollection`](/cells/python-net/zh/aspose.cells.charts/sparklinecollection)

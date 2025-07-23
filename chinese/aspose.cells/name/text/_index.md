@@ -1,13 +1,13 @@
 ---
-title: text 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 150
 url: /zh/aspose.cells/name/text/
 is_root: false
 ---
-## text 属性
+## text属性
 
 获取对象的名称 text。
 ### 定义：
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Name](/cells/python-net/zh/aspose.cells/name)
+* 模块[`aspose.cells`](../../)
+* 类 [`Name`](/cells/python-net/zh/aspose.cells/name)

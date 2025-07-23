@@ -1,18 +1,19 @@
 ---
 title: delete_shape方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 440
 url: /zh/aspose.cells.drawing/shapecollection/delete_shape/
 is_root: false
 ---
-##  delete_shape(shape) {#Shape}
-删除形状。如果形状在组中或者是评论形状，则不会被删除。
+##  delete_shape(self, shape) {#aspose.cells.drawing.Shape}
+删除形状。如果形状在组中或为注释形状，则不会被删除。
 
 
 
 ```python
+
 def delete_shape(self, shape):
     ...
 ```
@@ -20,7 +21,7 @@ def delete_shape(self, shape):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| shape | [Shape](/cells/python-net/zh/aspose.cells.drawing/shape) |  |
+| shape | [`Shape`](/cells/python-net/zh/aspose.cells.drawing/shape) |  |
 
 ### 例子
 
@@ -38,5 +39,5 @@ shapes.delete_shape(firstShape)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapeCollection](/cells/python-net/zh/aspose.cells.drawing/shapecollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapeCollection`](/cells/python-net/zh/aspose.cells.drawing/shapecollection)

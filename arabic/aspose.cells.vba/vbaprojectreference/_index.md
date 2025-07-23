@@ -1,5 +1,5 @@
 ---
-title: VbaProjectReference الدرجة
+title: VbaProjectReference صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,28 +7,28 @@ weight: 40
 url: /ar/aspose.cells.vba/vbaprojectreference/
 is_root: false
 ---
-##  VbaProjectReference الدرجة
+##  VbaProjectReference صف
 يمثل مرجع مشروع VBA.
 
 
 
-يكشف نوع VbaProjectReference الأعضاء التالية:
+يكشف النوع VbaProjectReference عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/type) | يحصل على نوع هذا المرجع.|
-| [name](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/name) | الحصول على اسم المرجع وتعيينه.|
-| [libid](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/libid) | الحصول على وتعيين Libid الخاص بالمرجع.|
-| [twiddledlibid](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/twiddledlibid) | الحصول على وتعيين الفهرس الملتوي للمرجع.|
-| [extended_libid](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/extended_libid) | الحصول على وتعيين Libid الموسع للمرجع.|
-| [relative_libid](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/relative_libid) | الحصول على معرف مشروع VBA المشار إليه مع مسار نسبي وتعيينه.|
+| [type](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/type) |يحصل على نوع هذا المرجع.|
+| [name](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/name) | يحصل على اسم المرجع ويحدده.|
+| [libid](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/libid) | يحصل على Libid الخاص بالمرجع ويقوم بتعيينه.|
+| [twiddledlibid](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/twiddledlibid) | يحصل على Libid المتغير للمرجع ويقوم بتعيينه.|
+| [extended_libid](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/extended_libid) | يحصل على Libid الممتد للمرجع ويقوم بتعيينه.|
+| [relative_libid](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/relative_libid) | يحصل على معرف مشروع VBA المشار إليه ويقوم بتعيينه باستخدام مسار نسبي.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [copy(source)](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/copy/#VbaProjectReference) |  |
+| [`copy(self, source)`](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference/copy/#aspose.cells.vba.vbaprojectreference) |  |
 
 
 
@@ -49,4 +49,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](..)
+* الوحدة [`aspose.cells.vba`](..)

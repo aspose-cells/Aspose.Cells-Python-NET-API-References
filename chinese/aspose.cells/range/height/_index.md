@@ -3,13 +3,13 @@ title: height属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 340
+weight: 440
 url: /zh/aspose.cells/range/height/
 is_root: false
 ---
 ## height属性
 
-获取范围的宽度（以磅为单位）。
+获取范围的宽度（以点为单位）。
 ### 定义：
 ```python
 @property

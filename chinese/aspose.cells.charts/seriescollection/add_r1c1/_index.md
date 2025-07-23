@@ -7,16 +7,17 @@ weight: 30
 url: /zh/aspose.cells.charts/seriescollection/add_r1c1/
 is_root: false
 ---
-##  add_r1c1 {#str-bool}
-将 [`Series`](/cells/python-net/zh/aspose.cells.charts/series) 集合添加到图表中。
+##  add_r1c1(self, area, is_vertical) {#str-bool}
+将 [`Series`](/cells/python-net/zh/aspose.cells.charts/series) 集合添加到图表。
 
 
-### 退货
+### 返回
 
-返回添加的 ASeries 在 NSeries 中的第一个索引。
+返回 NSeries 中添加的 ASeries 的第一个索引。
 
 
 ```python
+
 def add_r1c1(self, area, is_vertical):
     ...
 ```
@@ -25,8 +26,8 @@ def add_r1c1(self, area, is_vertical):
 |范围|类型|描述|
 | :- | :- | :- |
 | area | str |指定绘制数据系列的值|
-| is_vertical | bool |指定是按行还是按列绘制一系列单元格值的序列。|
-### 评论
+| is_vertical | bool |指定是否按行或按列绘制单元格值范围的序列。|
+### 注意事项
 
 
 

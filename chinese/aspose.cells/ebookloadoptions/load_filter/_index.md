@@ -3,13 +3,13 @@ title: load_filter属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 230
 url: /zh/aspose.cells/ebookloadoptions/load_filter/
 is_root: false
 ---
 ## load_filter属性
 
-过滤器表示如何加载数据。
+指示如何加载数据的过滤器。
 ### 定义：
 ```python
 @property

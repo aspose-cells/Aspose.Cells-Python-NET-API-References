@@ -9,7 +9,7 @@ is_root: false
 ---
 ## create_id属性
 
-获取并设置该形状的创建 ID。
+获取并设置此形状的创建 ID。
 ### 定义：
 ```python
 @property

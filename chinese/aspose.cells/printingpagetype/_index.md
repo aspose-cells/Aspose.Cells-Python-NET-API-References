@@ -3,19 +3,19 @@ title: PrintingPageType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2500
+weight: 2470
 url: /zh/aspose.cells/printingpagetype/
 is_root: false
 ---
 ## PrintingPageType枚举
-指示将不打印哪些页面。
+指示哪些页面将不会被打印。
 
 
 
 PrintingPageType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | DEFAULT |打印所有页面。|
 | IGNORE_BLANK |不要打印单元格为空白的页面。|

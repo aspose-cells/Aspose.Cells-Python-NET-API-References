@@ -1,5 +1,5 @@
 ---
-title: is_latin_line_break الملكية
+title: is_latin_line_break عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 130
 url: /ar/aspose.cells.drawing.texts/textparagraph/is_latin_line_break/
 is_root: false
 ---
-##  is_latin_line_break الملكية
+##  is_latin_line_break عقار
 
-يحدد ما إذا كان يمكن تقسيم الكلمة اللاتينية إلى نصفين ولفها في السطر التالي بدون إضافة واصلة.
+يحدد ما إذا كان من الممكن تقسيم الكلمة اللاتينية إلى نصفين ووضعها على السطر التالي دون إضافة شرطة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_latin_line_break(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextParagraph](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextParagraph`](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)

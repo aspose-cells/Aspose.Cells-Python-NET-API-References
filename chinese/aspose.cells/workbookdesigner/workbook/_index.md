@@ -9,7 +9,7 @@ is_root: false
 ---
 ## workbook属性
 
-获取和设置 [`WorkbookDesigner.workbook`](/cells/python-net/zh/aspose.cells/workbookdesigner#workbook) 对象。
+获取并设置 [`WorkbookDesigner.workbook`](/cells/python-net/zh/aspose.cells/workbookdesigner#workbook) 对象。
 ### 定义：
 ```python
 @property

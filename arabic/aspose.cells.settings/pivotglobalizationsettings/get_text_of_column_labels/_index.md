@@ -3,12 +3,12 @@ title: طريقة get_text_of_column_labels
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells.settings/pivotglobalizationsettings/get_text_of_column_labels/
 is_root: false
 ---
-##  get_text_of_column_labels {#}
-الحصول على نص تسمية "تسميات الأعمدة" في PivotTable.
+##  get_text_of_column_labels(self) {#}
+يحصل على نص تسمية "عناوين الأعمدة" في الجدول المحوري.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_column_labels(self):
     ...
 ```

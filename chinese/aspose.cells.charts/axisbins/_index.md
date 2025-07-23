@@ -8,28 +8,28 @@ url: /zh/aspose.cells.charts/axisbins/
 is_root: false
 ---
 ## AxisBins类
-代表轴箱
+表示轴箱
 
 
 
 AxisBins 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [is_by_category](/cells/python-net/zh/aspose.cells.charts/axisbins/is_by_category) |指示是否按类别对数据进行分组|
-| [is_automatic](/cells/python-net/zh/aspose.cells.charts/axisbins/is_automatic) |指示轴箱是否自动。|
-| [width](/cells/python-net/zh/aspose.cells.charts/axisbins/width) |获取或设置轴 bin 的宽度|
+| [is_by_category](/cells/python-net/zh/aspose.cells.charts/axisbins/is_by_category) |指示是否按类别分组数据|
+| [is_automatic](/cells/python-net/zh/aspose.cells.charts/axisbins/is_automatic) |指示轴箱是否是自动的。|
+| [width](/cells/python-net/zh/aspose.cells.charts/axisbins/width) |获取或设置轴箱的宽度|
 | [count](/cells/python-net/zh/aspose.cells.charts/axisbins/count) |获取或设置轴箱的数量|
-| [overflow](/cells/python-net/zh/aspose.cells.charts/axisbins/overflow) |获取或设置轴箱的溢出|
+| [overflow](/cells/python-net/zh/aspose.cells.charts/axisbins/overflow) |获取或设置轴箱溢出|
 | [underflow](/cells/python-net/zh/aspose.cells.charts/axisbins/underflow) |获取或设置轴箱的下溢|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [reset_overflow](/cells/python-net/zh/aspose.cells.charts/axisbins/reset_overflow/#) |重置溢出|
-| [reset_underflow](/cells/python-net/zh/aspose.cells.charts/axisbins/reset_underflow/#) |重置下溢|
+| [`reset_overflow(self)`](/cells/python-net/zh/aspose.cells.charts/axisbins/reset_overflow/#) |重置溢出|
+| [`reset_underflow(self)`](/cells/python-net/zh/aspose.cells.charts/axisbins/reset_underflow/#) |重置下溢|
 
 
 

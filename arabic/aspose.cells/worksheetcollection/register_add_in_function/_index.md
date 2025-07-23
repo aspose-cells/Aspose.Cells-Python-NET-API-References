@@ -7,16 +7,17 @@ weight: 180
 url: /ar/aspose.cells/worksheetcollection/register_add_in_function/
 is_root: false
 ---
-##  register_add_in_function {#int-str}
-يضيف وظيفة الوظيفة الإضافية إلى المصنف
+##  register_add_in_function(self, id, function_name) {#int-str}
+إضافة وظيفة إضافية إلى المصنف
 
 
 ###  عائدات
 
-عنوان URL لملف الوظيفة الإضافية الذي يحتوي على وظائف الوظيفة الإضافية
+عنوان URL لملف الإضافة الذي يحتوي على وظائف الإضافة
 
 
 ```python
+
 def register_add_in_function(self, id, function_name):
     ...
 ```
@@ -24,20 +25,21 @@ def register_add_in_function(self, id, function_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| id | int | معرف البيانات التي تحتوي على وظائف الوظيفة الإضافية،<br/> يمكن الحصول عليها عن طريق الاتصال الأول على الرقم [`WorksheetCollection.register_add_in_function`](/cells/python-net/ar/aspose.cells/worksheetcollection/register_add_in_function) لنفس الملف الإضافي.|
-| function_name | str | اسم الوظيفة الإضافية|
+| id | int |معرف البيانات التي تحتوي على وظائف الإضافة،<br/> يمكن الحصول عليها من خلال المكالمة الأولى على الرقم [`WorksheetCollection.register_add_in_function`](/cells/python-net/ar/aspose.cells/worksheetcollection/register_add_in_function) لنفس الملف الإضافي.|
+| function_name | str | اسم وظيفة الإضافة|
 
 
-##  register_add_in_function {#str-str-bool}
-يضيف وظيفة الوظيفة الإضافية إلى المصنف
+##  register_add_in_function(self, add_in_file, function_name, lib) {#str-str-bool}
+إضافة وظيفة إضافية إلى المصنف
 
 
 ###  عائدات
 
-معرف البيانات التي تحتوي على وظيفة الوظيفة الإضافية المحددة
+معرف البيانات التي تحتوي على وظيفة الإضافة المحددة
 
 
 ```python
+
 def register_add_in_function(self, add_in_file, function_name, lib):
     ...
 ```
@@ -45,9 +47,9 @@ def register_add_in_function(self, add_in_file, function_name, lib):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| add_in_file | str | يحتوي الملف على وظائف الوظيفة الإضافية|
-| function_name | str | اسم الوظيفة الإضافية|
-| lib | bool | ما إذا كان ملف الوظيفة الإضافية المحدد موجودًا في الدليل أو الدليل الفرعي لمكتبة Workbook Add-In.<br/>تصبح هذه العلامة سارية المفعول وتُحدث فرقًا عندما يكون ملف addInFile ذو مسار نسبي:<br/> يشير "صحيح" إلى أن المسار مرتبط بمكتبة الوظائف الإضافية ويشير "خطأ" إلى أن المسار مرتبط بهذا المصنف.|
+| add_in_file | str | يحتوي الملف على وظائف الإضافة|
+| function_name | str | اسم وظيفة الإضافة|
+| lib | bool | ما إذا كان ملف الإضافة المحدد موجودًا في الدليل أو الدليل الفرعي لمكتبة Workbook Add-In.<br/>يسري هذا العلم ويحدث فرقًا عندما يكون addInFile الخاص به على مسار نسبي:<br/> يشير true إلى أن المسار نسبي لمكتبة Add-In ويشير false إلى أن المسار نسبي لهذا المصنف.|
 
 
 

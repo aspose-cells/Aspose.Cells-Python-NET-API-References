@@ -9,11 +9,11 @@ is_root: false
 ---
 ## right_angle_axes属性
 
-如果图表轴成直角，则为 true。仅适用于 3-D 图表（Column3D 和 3-D 饼图除外）。
+如果图表轴为直角，则为 True。仅适用于三维图表（3D 柱形图和三维饼图除外）。
 
-### 评论
+### 注意事项
 
-如果此属性为 True，则忽略 Perspective 属性。
+如果此属性为 True，则 Perspective 属性将被忽略。
 ### 定义：
 ```python
 @property

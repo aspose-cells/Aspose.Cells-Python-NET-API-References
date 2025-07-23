@@ -3,7 +3,7 @@ title: DisplayDrawingObjects枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2040
+weight: 1950
 url: /zh/aspose.cells/displaydrawingobjects/
 is_root: false
 ---
@@ -14,8 +14,8 @@ is_root: false
 
 DisplayDrawingObjects 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | DISPLAY_SHAPES |显示所有对象|
 | PLACEHOLDERS |显示占位符|

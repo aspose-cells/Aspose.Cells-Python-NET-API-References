@@ -1,5 +1,5 @@
 ---
-title: drop_button_style الملكية
+title: drop_button_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 70
 url: /ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/drop_button_style/
 is_root: false
 ---
-##  drop_button_style الملكية
+##  drop_button_style عقار
 
 يحدد الرمز المعروض على زر الإسقاط
 ###  تعريف:
@@ -21,6 +21,6 @@ def drop_button_style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [DropButtonStyle](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/dropbuttonstyle)
-* فئة [TextBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`DropButtonStyle`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/dropbuttonstyle)
+* فئة [`TextBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

@@ -1,16 +1,16 @@
 ---
-title: style_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: style_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 260
 url: /zh/aspose.cells.slicers/slicer/style_type/
 is_root: false
 ---
-## style_type 属性
+## style_type属性
 
 指定内置切片器样式的类型
-默认类型是 SlicerStyleLight1
+默认类型为 SlicerStyleLight1
 
 ### 例子
 
@@ -31,6 +31,6 @@ def style_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](../../)
-* 类 [Slicer](/cells/python-net/zh/aspose.cells.slicers/slicer)
-* 类 [SlicerStyleType](/cells/python-net/zh/aspose.cells.slicers/slicerstyletype)
+* 模块[`aspose.cells.slicers`](../../)
+* 类 [`Slicer`](/cells/python-net/zh/aspose.cells.slicers/slicer)
+* 类 [`SlicerStyleType`](/cells/python-net/zh/aspose.cells.slicers/slicerstyletype)

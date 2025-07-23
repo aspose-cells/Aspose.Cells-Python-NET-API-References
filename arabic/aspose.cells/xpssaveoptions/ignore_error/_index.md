@@ -3,14 +3,11 @@ title: ignore_error عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 180
 url: /ar/aspose.cells/xpssaveoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error عقار
-
-يشير إلى ما إذا كنت بحاجة إلى إخفاء الخطأ أثناء العرض.
-يمكن أن يكون الخطأ خطأ في الشكل أو الصورة أو عرض المخطط وما إلى ذلك.
 ###  تعريف:
 ```python
 @property

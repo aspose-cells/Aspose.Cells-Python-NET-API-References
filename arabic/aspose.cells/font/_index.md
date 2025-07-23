@@ -3,12 +3,12 @@ title: Font صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 680
+weight: 660
 url: /ar/aspose.cells/font/
 is_root: false
 ---
 ##  Font صف
-يقوم بتغليف كائن الخط المستخدم في جدول البيانات.
+يقوم بتغليف كائن الخط المستخدم في جدول بيانات.
 
 
 
@@ -17,30 +17,30 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [charset](/cells/python-net/ar/aspose.cells/font/charset) | تمثيل مجموعة الأحرف.|
-| [is_italic](/cells/python-net/ar/aspose.cells/font/is_italic) | الحصول على قيمة أو تعيينها تشير إلى ما إذا كان الخط مائلًا.|
-| [is_bold](/cells/python-net/ar/aspose.cells/font/is_bold) | الحصول على قيمة تشير إلى ما إذا كان الخط غامقًا أو تعيينها.|
-| [caps_type](/cells/python-net/ar/aspose.cells/font/caps_type) | الحصول على نوع الحروف الكبيرة للنص وتعيينه.|
-| [strike_type](/cells/python-net/ar/aspose.cells/font/strike_type) | يحصل على نوع المخالفة للنص.|
-| [is_strikeout](/cells/python-net/ar/aspose.cells/font/is_strikeout) | الحصول على قيمة أو تعيينها تشير إلى ما إذا كان الخط يتوسطه خط واحد.|
-| [script_offset](/cells/python-net/ar/aspose.cells/font/script_offset) | الحصول على إزاحة البرنامج النصي وتعيينها بوحدة النسبة المئوية|
-| [is_superscript](/cells/python-net/ar/aspose.cells/font/is_superscript) | الحصول على قيمة أو تعيينها تشير إلى ما إذا كان الخط نصًا فائقًا.|
-| [is_subscript](/cells/python-net/ar/aspose.cells/font/is_subscript) | الحصول على قيمة تشير إلى ما إذا كان الخط منخفضًا أو تعيينها.|
-| [underline](/cells/python-net/ar/aspose.cells/font/underline) | الحصول على نوع التسطير أو تعيينه.|
-| [name](/cells/python-net/ar/aspose.cells/font/name) | الحصول على أو تعيين اسم [`Font`](/cells/python-net/ar/aspose.cells/font).|
-| [double_size](/cells/python-net/ar/aspose.cells/font/double_size) | الحصول على الحجم المزدوج للخط وتعيينه.|
-| [size](/cells/python-net/ar/aspose.cells/font/size) | الحصول على حجم الخط أو تعيينه.|
-| [theme_color](/cells/python-net/ar/aspose.cells/font/theme_color) | الحصول على لون السمة وتعيينه.|
-| [color](/cells/python-net/ar/aspose.cells/font/color) | الحصول على أو تعيين لون الخط.|
-| [argb_color](/cells/python-net/ar/aspose.cells/font/argb_color) | الحصول على اللون وتعيينه بقيمة ARGB 32 بت.|
-| [is_normalize_heights](/cells/python-net/ar/aspose.cells/font/is_normalize_heights) | يشير إلى ما إذا كان سيتم تطبيق تسوية الارتفاع على تشغيل النص.|
-| [scheme_type](/cells/python-net/ar/aspose.cells/font/scheme_type) |الحصول على نوع مخطط الخط وتعيينه.|
+| [charset](/cells/python-net/ar/aspose.cells/font/charset) | تمثل مجموعة الأحرف.|
+| [is_italic](/cells/python-net/ar/aspose.cells/font/is_italic) | يحصل على قيمة أو يعينها تشير إلى ما إذا كان الخط مائلًا أم لا.|
+| [is_bold](/cells/python-net/ar/aspose.cells/font/is_bold) | يحصل على قيمة أو يعينها للإشارة إلى ما إذا كان الخط غامقًا أم لا.|
+| [caps_type](/cells/python-net/ar/aspose.cells/font/caps_type) | يحصل على نوع أحرف النص ويقوم بتعيينه.|
+| [strike_type](/cells/python-net/ar/aspose.cells/font/strike_type) | يحصل على نوع الضربة للنص.|
+| [is_strikeout](/cells/python-net/ar/aspose.cells/font/is_strikeout) | يحصل على قيمة أو يعينها للإشارة إلى ما إذا كان الخط مشطوبًا بشكل فردي.|
+| [script_offset](/cells/python-net/ar/aspose.cells/font/script_offset) | يحصل على إزاحة البرنامج النصي ويضبطها، بوحدة النسبة المئوية|
+| [is_superscript](/cells/python-net/ar/aspose.cells/font/is_superscript) | يحصل على قيمة أو يعينها للإشارة إلى ما إذا كان الخط علويًا.|
+| [is_subscript](/cells/python-net/ar/aspose.cells/font/is_subscript) | يحصل على قيمة أو يعينها للإشارة إلى ما إذا كان الخط منخفضًا أم لا.|
+| [underline](/cells/python-net/ar/aspose.cells/font/underline) | يحصل على نوع الخط المسطر أو يعينه.|
+| [name](/cells/python-net/ar/aspose.cells/font/name) | يحصل على اسم [`Font`](/cells/python-net/ar/aspose.cells/font) أو يعينه.|
+| [double_size](/cells/python-net/ar/aspose.cells/font/double_size) | يحصل على حجم الخط المزدوج ويحدده.|
+| [size](/cells/python-net/ar/aspose.cells/font/size) | يحصل على حجم الخط أو يعينه.|
+| [theme_color](/cells/python-net/ar/aspose.cells/font/theme_color) | يحصل على لون السمة ويحدده.|
+| [color](/cells/python-net/ar/aspose.cells/font/color) | يحصل على لون الخط أو يعينه.|
+| [argb_color](/cells/python-net/ar/aspose.cells/font/argb_color) | يحصل على اللون ويضبطه بقيمة ARGB 32 بت.|
+| [is_normalize_heights](/cells/python-net/ar/aspose.cells/font/is_normalize_heights) | يشير إلى ما إذا كان تطبيع الارتفاع الذي سيتم تطبيقه على النص يتم تنفيذه.|
+| [scheme_type](/cells/python-net/ar/aspose.cells/font/scheme_type) |يحصل على نوع مخطط الخط ويقوم بتعيينه.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [equals](/cells/python-net/ar/aspose.cells/font/equals/#aspose.cells.Font) | يتحقق مما إذا كان الخطان متساويان.|
+| [`equals(self, font)`](/cells/python-net/ar/aspose.cells/font/equals/#aspose.cells.font) | التحقق من تساوي الخطين.|
 
 
 

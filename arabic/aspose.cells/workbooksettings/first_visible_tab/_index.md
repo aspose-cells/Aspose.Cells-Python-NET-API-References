@@ -3,13 +3,13 @@ title: first_visible_tab عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 210
 url: /ar/aspose.cells/workbooksettings/first_visible_tab/
 is_root: false
 ---
 ##  first_visible_tab عقار
 
-الحصول على علامة تبويب ورقة العمل المرئية الأولى أو تعيينها.
+يحصل على علامة تبويب ورقة العمل المرئية الأولى أو يعينها.
 ###  تعريف:
 ```python
 @property

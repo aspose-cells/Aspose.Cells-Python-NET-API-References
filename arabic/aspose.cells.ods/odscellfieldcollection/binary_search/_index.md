@@ -7,16 +7,17 @@ weight: 30
 url: /ar/aspose.cells.ods/odscellfieldcollection/binary_search/
 is_root: false
 ---
-##  binary_search(item) {#OdsCellField}
-يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.
+##  binary_search(self, item) {#aspose.cells.ods.OdsCellField}
+يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.
 
 
 ###  عائدات
 
-فهرس القيمة الصفري في قائمة الصفيف التي تم فرزها ، إذا تم العثور على العنصر ؛ خلاف ذلك ، رقم سالب ، وهو تكملة البتات لفهرس العنصر التالي الأكبر من القيمة ، أو إذا لم يكن هناك عنصر أكبر ، فإن تكملة البت لقائمة الصفيف العدد.
+مؤشر القيمة المبدئي من الصفر في قائمة المصفوفة المفرزة، إذا تم العثور على العنصر؛ وإلا، فهو رقم سلبي، وهو المكمل البتّي لمؤشر العنصر التالي الأكبر من القيمة أو، إذا لم يكن هناك عنصر أكبر، المكمل البتّي لقائمة المصفوفة Count.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,10 +25,10 @@ def binary_search(self, item):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| item | [OdsCellField](/cells/python-net/ar/aspose.cells.ods/odscellfield) | System.Object لتحديد موقع. يمكن أن تكون القيمة فارغة.|
+| item | [`OdsCellField`](/cells/python-net/ar/aspose.cells.ods/odscellfield) | كائن النظام المطلوب تحديد موقعه. يمكن أن تكون القيمة فارغة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.ods](../../)
-* فئة [OdsCellFieldCollection](/cells/python-net/ar/aspose.cells.ods/odscellfieldcollection)
+* الوحدة [`aspose.cells.ods`](../../)
+* فئة [`OdsCellFieldCollection`](/cells/python-net/ar/aspose.cells.ods/odscellfieldcollection)

@@ -1,15 +1,15 @@
 ---
-title: number_format الملكية
+title: number_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.utility/jsonlayoutoptions/number_format/
 is_root: false
 ---
-##  number_format الملكية
+##  number_format عقار
 
-الحصول على تنسيق القيمة الرقمية وتعيينه.
+يحصل على تنسيق القيمة الرقمية ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def number_format(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.utility](../../)
-* فئة [JsonLayoutOptions](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)
+* الوحدة [`aspose.cells.utility`](../../)
+* فئة [`JsonLayoutOptions`](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)

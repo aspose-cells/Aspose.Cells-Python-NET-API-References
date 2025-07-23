@@ -7,12 +7,13 @@ weight: 110
 url: /ar/aspose.cells/validation/remove_areas/
 is_root: false
 ---
-##  remove_areas {#list}
-يزيل هذا التحقق من الصحة من مناطق معينة.
+##  remove_areas(self, areas) {#list}
+يزيل هذا التحقق من المناطق المحددة.
 
 
 
 ```python
+
 def remove_areas(self, areas):
     ...
 ```
@@ -20,7 +21,7 @@ def remove_areas(self, areas):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| areas | list | المناطق التي يجب إزالة إعدادات التحقق من الصحة فيها.|
+| areas | list | المناطق التي يجب إزالة إعدادات التحقق منها.|
 
 
 

@@ -3,13 +3,13 @@ title: ranges属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1220
+weight: 1250
 url: /zh/aspose.cells/cells/ranges/
 is_root: false
 ---
 ## ranges属性
 
-获取运行时创建的 [`Range`](/cells/python-net/zh/aspose.cells/range) 对象的集合。
+获取在运行时创建的 [`Range`](/cells/python-net/zh/aspose.cells/range) 对象的集合。
 ### 定义：
 ```python
 @property

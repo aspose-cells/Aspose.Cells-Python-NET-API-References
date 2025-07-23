@@ -3,7 +3,7 @@ title: text_cross_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 330
+weight: 340
 url: /zh/aspose.cells.rendering/imageorprintoptions/text_cross_type/
 is_root: false
 ---

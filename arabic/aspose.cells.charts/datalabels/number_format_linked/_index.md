@@ -1,16 +1,16 @@
 ---
-title: number_format_linked الملكية
+title: number_format_linked عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 360
 url: /ar/aspose.cells.charts/datalabels/number_format_linked/
 is_root: false
 ---
-##  number_format_linked الملكية
+##  number_format_linked عقار
 
- صواب إذا كان تنسيق الأرقام مرتبطًا بالخلايا
-(بحيث يتغير تنسيق الأرقام في التسميات عندما يتغير في الخلايا).
+ صحيح إذا كان تنسيق الرقم مرتبطًا بالخلايا
+(بحيث يتغير تنسيق الأرقام في التسميات عند تغيرها في الخلايا).
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def number_format_linked(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

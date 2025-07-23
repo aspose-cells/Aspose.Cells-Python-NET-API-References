@@ -1,13 +1,13 @@
 ---
-title: limit_as_xls 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: limit_as_xls属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 100
 url: /zh/aspose.cells/spreadsheetml2003saveoptions/limit_as_xls/
 is_root: false
 ---
-## limit_as_xls 属性
+## limit_as_xls属性
 
 限制为 xls，最大行索引为 65535，最大列索引为 255。
 ### 定义：
@@ -21,5 +21,5 @@ def limit_as_xls(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [SpreadsheetML2003SaveOptions](/cells/python-net/zh/aspose.cells/spreadsheetml2003saveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`SpreadsheetML2003SaveOptions`](/cells/python-net/zh/aspose.cells/spreadsheetml2003saveoptions)

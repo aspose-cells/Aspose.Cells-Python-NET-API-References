@@ -1,23 +1,23 @@
 ---
-title: العد ColorDepth
+title: ColorDepth التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 160
 url: /ar/aspose.cells.rendering/colordepth/
 is_root: false
 ---
-##  العد ColorDepth
-تعداد نوع عمق البت لصورة tiff.
+##  ColorDepth التعداد
+يقوم بإحصاء نوع عمق البت لصورة tiff.
 
 
 
-يكشف نوع ColorDepth الأعضاء التالية:
+يكشف النوع ColorDepth عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DEFAULT | القيمة الافتراضية ، غير محددة القيمة.|
+| DEFAULT | القيمة الافتراضية، القيمة غير المحددة.|
 | FORMAT_1BPP | 1 بت لكل بكسل|
 | FORMAT_4BPP | 4 بت لكل بكسل|
 | FORMAT_8BPP | 8 بت لكل بكسل|
@@ -27,4 +27,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
+* الوحدة [`aspose.cells.rendering`](..)

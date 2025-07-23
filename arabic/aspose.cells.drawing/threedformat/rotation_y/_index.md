@@ -1,5 +1,5 @@
 ---
-title: rotation_y الملكية
+title: rotation_y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 170
 url: /ar/aspose.cells.drawing/threedformat/rotation_y/
 is_root: false
 ---
-##  rotation_y الملكية
+##  rotation_y عقار
 
-الحصول على وتعيين دوران الشكل المبثوق حول المحور y بالدرجات.
+يحصل على ويضبط دوران الشكل المبثوق حول المحور y بالدرجات.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotation_y(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ThreeDFormat](/cells/python-net/ar/aspose.cells.drawing/threedformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ThreeDFormat`](/cells/python-net/ar/aspose.cells.drawing/threedformat)

@@ -3,12 +3,12 @@ title: StyleModifyFlag التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2590
+weight: 2560
 url: /ar/aspose.cells/stylemodifyflag/
 is_root: false
 ---
 ##  StyleModifyFlag التعداد
-تم تعديل النمط.
+تم تعديل أسلوب الأعلام.
 
 
 
@@ -17,56 +17,65 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| LEFT_BORDER | يشير إلى ما إذا كان قد تم تعديل الحد الأيسر للنمط.|
-| RIGHT_BORDER | يشير إلى ما إذا كان قد تم تعديل الحد الأيمن للنمط.|
-| TOP_BORDER |يشير إلى ما إذا كان قد تم تعديل الحد العلوي للنمط.|
-| BOTTOM_BORDER | يشير إلى ما إذا كان قد تم تعديل الحد السفلي للنمط.|
-| DIAGONAL_DOWN_BORDER | يشير إلى ما إذا كان قد تم تعديل الحد القطري للأسفل للنمط.|
-| DIAGONAL_UP_BORDER | يشير إلى ما إذا كان قد تم تعديل الحد القطري لأعلى للنمط.|
-| DIAGONAL | يشير إلى ما إذا كان هناك حد قطري واحد أو أكثر ([`StyleModifyFlag.DIAGONAL_DOWN_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#DIAGONAL_DOWN_BORDER)،<br/> [`StyleModifyFlag.DIAGONAL_UP_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#DIAGONAL_UP_BORDER)) تم تعديلها للنمط.|
-| HORIZONTAL_BORDER | يشير إلى ما إذا كان قد تم تعديل الحد الأفقي للنمط.<br/> فقط للنمط الديناميكي، مثل التنسيق الشرطي.|
-| VERTICAL_BORDER | يشير إلى ما إذا كان قد تم تعديل الحد الرأسي للنمط.<br/> فقط للنمط الديناميكي، مثل التنسيق الشرطي.|
-| BORDERS | يشير إلى ما إذا كان هناك حد واحد أو أكثر ([`StyleModifyFlag.LEFT_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#LEFT_BORDER)،<br/>[`StyleModifyFlag.RIGHT_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#RIGHT_BORDER), [`StyleModifyFlag.TOP_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#TOP_BORDER), [`StyleModifyFlag.BOTTOM_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#BOTTOM_BORDER),<br/>[`StyleModifyFlag.DIAGONAL`](/cells/python-net/aspose.cells/stylemodifyflag#DIAGONAL), [`StyleModifyFlag.HORIZONTAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#HORIZONTAL_BORDER), [`StyleModifyFlag.VERTICAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#VERTICAL_BORDER))<br/> تم تعديلها للأسلوب.|
-| NUMBER_FORMAT | الإشارة إلى ما إذا كان قد تم تعديل تنسيق الأرقام.|
-| HORIZONTAL_ALIGNMENT | يشير إلى ما إذا كان قد تم تعديل المحاذاة الأفقية.|
-| VERTICAL_ALIGNMENT | يشير إلى ما إذا كان قد تم تعديل المحاذاة العمودية.|
-| INDENT | الإشارة إلى ما إذا كان قد تم تعديل خاصية المسافة البادئة.|
-| ROTATION |يشير إلى ما إذا كان قد تم تعديل خاصية التدوير.|
+| LEFT_BORDER | يشير إلى ما إذا كان الحد الأيسر قد تم تعديله للنمط.|
+| RIGHT_BORDER | يشير إلى ما إذا كان الحد الأيمن قد تم تعديله للنمط.|
+| TOP_BORDER | يشير إلى ما إذا كان الحد العلوي قد تم تعديله للنمط.|
+| BOTTOM_BORDER | يشير إلى ما إذا كان الحد السفلي قد تم تعديله للنمط.|
+| DIAGONAL_DOWN_BORDER | يشير إلى ما إذا كان قد تم تعديل الحد المائل لأسفل للنمط.|
+| DIAGONAL_UP_BORDER | يشير إلى ما إذا كان قد تم تعديل الحد المائل لأعلى للنمط.|
+| HORIZONTAL_BORDER |يشير إلى ما إذا كان قد تم تعديل الحد الأفقي للنمط.<br/> فقط للأسلوب الديناميكي، مثل التنسيق الشرطي.|
+| VERTICAL_BORDER | يشير إلى ما إذا كان قد تم تعديل الحد العمودي للنمط.<br/> فقط للأسلوب الديناميكي، مثل التنسيق الشرطي.|
+| SIDE_BORDERS | يشير إلى الحدود الجانبية الأربعة: [`StyleModifyFlag.LEFT_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#LEFT_BORDER)،<br/> [`StyleModifyFlag.RIGHT_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#RIGHT_BORDER)، [`StyleModifyFlag.TOP_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#TOP_BORDER) و [`StyleModifyFlag.BOTTOM_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#BOTTOM_BORDER).|
+| DIAGONAL | يشير إلى الحدود القطرية: [`StyleModifyFlag.DIAGONAL_DOWN_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#DIAGONAL_DOWN_BORDER) و [`StyleModifyFlag.DIAGONAL_UP_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#DIAGONAL_UP_BORDER).|
+| DYNAMIC_STYLE_BORDERS | يشير إلى حدود النمط الديناميكي: [`StyleModifyFlag.HORIZONTAL_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#HORIZONTAL_BORDER) و[`StyleModifyFlag.VERTICAL_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#VERTICAL_BORDER).|
+| BORDERS | يشير إلى ما إذا كان هناك حدود واحدة أو أكثر ([`StyleModifyFlag.LEFT_BORDER`](/cells/python-net/ar/aspose.cells/stylemodifyflag#LEFT_BORDER)،<br/>[`StyleModifyFlag.RIGHT_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#RIGHT_BORDER), [`StyleModifyFlag.TOP_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#TOP_BORDER), [`StyleModifyFlag.BOTTOM_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#BOTTOM_BORDER),<br/>[`StyleModifyFlag.DIAGONAL`](/cells/python-net/aspose.cells/stylemodifyflag#DIAGONAL), [`StyleModifyFlag.HORIZONTAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#HORIZONTAL_BORDER), [`StyleModifyFlag.VERTICAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#VERTICAL_BORDER))<br/> تم تعديلها لتناسب النمط.|
+| NUMBER_FORMAT | يشير إلى ما إذا كان تنسيق الرقم قد تم تعديله.|
+| HORIZONTAL_ALIGNMENT | يشير إلى ما إذا كان تم تعديل المحاذاة الأفقية.|
+| VERTICAL_ALIGNMENT | يشير إلى ما إذا كان تم تعديل المحاذاة الرأسية.|
+| INDENT | يشير إلى ما إذا كان قد تم تعديل خاصية المسافة البادئة.|
+| ROTATION | يشير إلى ما إذا كان قد تم تعديل خاصية الدوران.|
 | WRAP_TEXT | يشير إلى ما إذا كان قد تم تعديل خاصية التفاف النص.|
-| SHRINK_TO_FIT | يشير إلى ما إذا كان قد تم تعديل التقليص ليناسب الخاصية.|
-| TEXT_DIRECTION | يشير إلى ما إذا كان قد تم تعديل خاصية اتجاه النص.|
-| RELATIVE_INDENT | يشير إلى ما إذا كان قد تم تعديل خاصية المسافة البادئة النسبية للنمط.<br/> فقط للنمط الديناميكي، مثل التنسيق الشرطي.|
-| ALIGNMENT_SETTINGS | يشير إلى ما إذا كانت واحدة أو أكثر من الخصائص المتعلقة بالمحاذاة ([`StyleModifyFlag.HORIZONTAL_ALIGNMENT`](/cells/python-net/ar/aspose.cells/stylemodifyflag#HORIZONTAL_ALIGNMENT)،<br/>[`StyleModifyFlag.VERTICAL_ALIGNMENT`](/cells/python-net/aspose.cells/stylemodifyflag#VERTICAL_ALIGNMENT), [`StyleModifyFlag.ROTATION`](/cells/python-net/aspose.cells/stylemodifyflag#ROTATION), [`StyleModifyFlag.WRAP_TEXT`](/cells/python-net/aspose.cells/stylemodifyflag#WRAP_TEXT),<br/>[`StyleModifyFlag.WRAP_TEXT`](/cells/python-net/aspose.cells/stylemodifyflag#WRAP_TEXT), [`StyleModifyFlag.INDENT`](/cells/python-net/aspose.cells/stylemodifyflag#INDENT), [`StyleModifyFlag.SHRINK_TO_FIT`](/cells/python-net/aspose.cells/stylemodifyflag#SHRINK_TO_FIT), [`StyleModifyFlag.TEXT_DIRECTION`](/cells/python-net/aspose.cells/stylemodifyflag#TEXT_DIRECTION),<br/> [`StyleModifyFlag.RELATIVE_INDENT`](/cells/python-net/ar/aspose.cells/stylemodifyflag#RELATIVE_INDENT)) تم التعديل.|
-| PATTERN | يشير إلى ما إذا كان قد تم تعديل نمط التظليل.|
-| FOREGROUND_COLOR | يشير إلى ما إذا كان قد تم تعديل اللون الأمامي.|
-| BACKGROUND_COLOR | يشير إلى ما إذا كان قد تم تعديل لون الخلفية.|
-| CELL_SHADING | يشير إلى ما إذا كانت واحدة أو أكثر من الخصائص المتعلقة بالتظليل ([`StyleModifyFlag.PATTERN`](/cells/python-net/ar/aspose.cells/stylemodifyflag#PATTERN)،<br/> ([`StyleModifyFlag.FOREGROUND_COLOR`](/cells/python-net/ar/aspose.cells/stylemodifyflag#FOREGROUND_COLOR)، [`StyleModifyFlag.BACKGROUND_COLOR`](/cells/python-net/ar/aspose.cells/stylemodifyflag#BACKGROUND_COLOR)) تم التعديل.|
+| SHRINK_TO_FIT | يشير إلى ما إذا كان قد تم تعديل خاصية الانكماش لتناسب.|
+| TEXT_DIRECTION | يشير إلى ما إذا كان تم تعديل خاصية اتجاه النص.|
+| RELATIVE_INDENT |يشير إلى ما إذا كان تم تعديل خاصية المسافة البادئة النسبية للنمط.<br/> فقط للأسلوب الديناميكي، مثل التنسيق الشرطي.|
+| ALIGNMENT_SETTINGS | يشير إلى ما إذا كانت هناك خاصية واحدة أو أكثر متعلقة بالمحاذاة ([`StyleModifyFlag.HORIZONTAL_ALIGNMENT`](/cells/python-net/ar/aspose.cells/stylemodifyflag#HORIZONTAL_ALIGNMENT)،<br/>[`StyleModifyFlag.VERTICAL_ALIGNMENT`](/cells/python-net/aspose.cells/stylemodifyflag#VERTICAL_ALIGNMENT), [`StyleModifyFlag.ROTATION`](/cells/python-net/aspose.cells/stylemodifyflag#ROTATION), [`StyleModifyFlag.WRAP_TEXT`](/cells/python-net/aspose.cells/stylemodifyflag#WRAP_TEXT),<br/>[`StyleModifyFlag.WRAP_TEXT`](/cells/python-net/aspose.cells/stylemodifyflag#WRAP_TEXT), [`StyleModifyFlag.INDENT`](/cells/python-net/aspose.cells/stylemodifyflag#INDENT), [`StyleModifyFlag.SHRINK_TO_FIT`](/cells/python-net/aspose.cells/stylemodifyflag#SHRINK_TO_FIT), [`StyleModifyFlag.TEXT_DIRECTION`](/cells/python-net/aspose.cells/stylemodifyflag#TEXT_DIRECTION),<br/> [`StyleModifyFlag.RELATIVE_INDENT`](/cells/python-net/ar/aspose.cells/stylemodifyflag#RELATIVE_INDENT)) تم تعديلها.|
+| PATTERN | يشير إلى ما إذا كان نمط التظليل قد تم تعديله.|
+| FOREGROUND_COLOR | يشير إلى ما إذا كان تم تعديل لون المقدمة.|
+| BACKGROUND_COLOR | يشير إلى ما إذا كان لون الخلفية قد تم تعديله.|
+| CELL_SHADING | يشير إلى ما إذا كانت هناك خاصية واحدة أو أكثر مرتبطة بالتظليل ([`StyleModifyFlag.PATTERN`](/cells/python-net/ar/aspose.cells/stylemodifyflag#PATTERN)،<br/> تم تعديل ([`StyleModifyFlag.FOREGROUND_COLOR`](/cells/python-net/ar/aspose.cells/stylemodifyflag#FOREGROUND_COLOR)، [`StyleModifyFlag.BACKGROUND_COLOR`](/cells/python-net/ar/aspose.cells/stylemodifyflag#BACKGROUND_COLOR)).|
 | LOCKED | يشير إلى ما إذا كان قد تم تعديل الخاصية المقفلة.|
 | HIDE_FORMULA | يشير إلى ما إذا كان قد تم تعديل صيغة الإخفاء.|
-| PROTECTION_SETTINGS | يشير إلى ما إذا كانت واحدة أو أكثر من الخصائص المتعلقة بالحماية ([`StyleModifyFlag.LOCKED`](/cells/python-net/ar/aspose.cells/stylemodifyflag#LOCKED)،<br/> [`StyleModifyFlag.HIDE_FORMULA`](/cells/python-net/ar/aspose.cells/stylemodifyflag#HIDE_FORMULA)) تم التعديل.|
-| FONT_SIZE | يشير إلى ما إذا كان قد تم تعديل حجم الخط.|
-| FONT_NAME |يشير إلى ما إذا كان قد تم تعديل اسم الخط.|
-| FONT_COLOR | يشير إلى ما إذا كان قد تم تعديل لون الخط.|
+| PROTECTION_SETTINGS | يشير إلى ما إذا كانت هناك خاصية واحدة أو أكثر متعلقة بالحماية ([`StyleModifyFlag.LOCKED`](/cells/python-net/ar/aspose.cells/stylemodifyflag#LOCKED)،<br/> [`StyleModifyFlag.HIDE_FORMULA`](/cells/python-net/ar/aspose.cells/stylemodifyflag#HIDE_FORMULA)) تم تعديلها.|
+| FONT_SIZE | يشير إلى ما إذا كان حجم الخط قد تم تعديله.|
+| FONT_NAME | يشير إلى ما إذا كان اسم الخط قد تم تعديله.|
+| FONT_COLOR | يشير إلى ما إذا كان لون الخط قد تم تعديله.|
 | FONT_WEIGHT | يشير إلى ما إذا كان قد تم تعديل وزن الخط.|
-| FONT_ITALIC | يشير إلى ما إذا كان قد تم تعديل الخاصية المائلة للخط.|
-| FONT_UNDERLINE | يشير إلى ما إذا كان قد تم تعديل خاصية التسطير للخط.|
-| FONT_STRIKE | يشير إلى ما إذا كان قد تم تعديل خط خاصية المخالفة.|
-| FONT_SCRIPT | يشير إلى ما إذا كان قد تم تعديل خاصية الخط المنخفض أو المرتفع.|
-| FONT_FAMILY | يشير إلى ما إذا كان قد تم تعديل عائلة الخطوط.|
+| FONT_ITALIC | يشير إلى ما إذا كان تم تعديل خاصية الخط المائل.|
+| FONT_UNDERLINE |يشير إلى ما إذا كان تم تعديل خاصية التسطير للخط.|
+| FONT_STRIKE | يشير إلى ما إذا كان تم تعديل خاصية الخط.|
+| FONT_SCRIPT | يشير إلى ما إذا كان قد تم تعديل خاصية الخط السفلي أو العلوي.|
+| FONT_FAMILY | يشير إلى ما إذا كان قد تم تعديل عائلة الخط.|
 | FONT_CHARSET | يشير إلى ما إذا كان قد تم تعديل مجموعة أحرف الخط.|
-| FONT_SCHEME | غير مستعمل.|
-| FONT_DIRTY | غير مستعمل.|
-| FONT_SPELLING_ERROR | غير مستعمل.|
-| FONT_U_FILL_TX | غير مستعمل.|
-| FONT_SPACING | غير مستعمل.|
-| FONT_KERNING | غير مستعمل.|
-| FONT_EQUALIZE | غير مستعمل.|
-| FONT_CAP | غير مستعمل.|
+| FONT_SCHEME | غير مستخدمة.|
+| FONT_DIRTY | غير مستخدمة.|
+| FONT_SPELLING_ERROR | غير مستخدمة.|
+| FONT_U_FILL_TX | غير مستخدمة.|
+| FONT_SPACING | غير مستخدمة.|
+| FONT_KERNING | غير مستخدمة.|
+| FONT_EQUALIZE | غير مستخدمة.|
+| FONT_CAP | غير مستخدمة.|
 | FONT_VERTICAL_TEXT |  |
 | FONT | يشير إلى ما إذا كان قد تم تعديل خاصية واحدة أو أكثر لخط النمط.|
-| ALL | يشير إلى ما إذا كان قد تم تعديل خاصية واحدة أو أكثر للنمط.|
+| ALL | جميع الخصائص التي يمكن تعديلها للنمط.|
+| NONE | لم يتم تحديد أي خاصية.|
 
 
+
+###  ملاحظات
+
+يتم تعريف مجموعات من الخصائص المتعددة لراحة المستخدم.
+عند التحقق مما إذا كانت معدلة لنمط واحد، تشير القيمة المرتجعة إلى
+ما إذا كان قد تم تعديل خاصية واحدة أو أكثر في المجموعة.
 
 ###  أنظر أيضا
 * الوحدة [`aspose.cells`](..)

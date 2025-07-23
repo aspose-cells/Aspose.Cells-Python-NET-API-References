@@ -7,12 +7,13 @@ weight: 50
 url: /ar/aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
-##  to_image {#int-str}
+##  to_image(self, page_index, file_name) {#int-str}
 تقديم صفحة معينة إلى ملف.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -20,12 +21,12 @@ def to_image(self, page_index, file_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| page_index | int | تشير إلى الصفحة التي سيتم تحويلها|
-| file_name | str | اسم الملف لصورة الإخراج|
+| page_index | int | الإشارة إلى الصفحة التي سيتم تحويلها|
+| file_name | str | اسم ملف الصورة الناتجة|
 
 ###  مثال
 
-يقوم التعليمة البرمجية التالية بإخراج الصفحة الأولى من الورقة الأولى إلى صورة png.
+يقوم الكود التالي بإخراج الصفحة الأولى من الورقة الأولى إلى صورة png.
 
 ```python
 from aspose.cells import Workbook
@@ -45,12 +46,13 @@ sr.to_image(0, "output.png")
 ```
 
 
-##  to_image {#int-io.RawIOBase}
-تقديم صفحة معينة إلى دفق.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+عرض صفحة معينة على مجرى مائي.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```
@@ -58,8 +60,8 @@ def to_image(self, page_index, stream):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| page_index | int | تشير إلى الصفحة التي سيتم تحويلها|
-| stream | io.RawIOBase | دفق صورة الإخراج|
+| page_index | int | الإشارة إلى الصفحة التي سيتم تحويلها|
+| stream | io.RawIOBase | تدفق الصورة الناتجة|
 
 
 

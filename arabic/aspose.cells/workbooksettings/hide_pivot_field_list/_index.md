@@ -3,13 +3,13 @@ title: hide_pivot_field_list عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 240
 url: /ar/aspose.cells/workbooksettings/hide_pivot_field_list/
 is_root: false
 ---
 ##  hide_pivot_field_list عقار
 
-الحصول على ما إذا كان سيتم إخفاء قائمة الحقول لـ PivotTable أم لا.
+يحصل على ويحدد ما إذا كان سيتم إخفاء قائمة الحقول لجدول PivotTable.
 ###  تعريف:
 ```python
 @property

@@ -3,12 +3,12 @@ title: TextStrikeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2660
+weight: 2630
 url: /ar/aspose.cells/textstriketype/
 is_root: false
 ---
 ##  TextStrikeType التعداد
-يحدد هذا النوع نوع المخالفة.
+يحدد هذا النوع نوع الضربة.
 
 
 
@@ -17,9 +17,9 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| SINGLE | يتوسطه خط واحد مطبق على النص.|
-| DOUBLE | يتم تطبيق خط مزدوج على النص.|
-| NONE | لا يتم تطبيق أي مخالفة على النص.|
+| SINGLE | تم تطبيق خط شطب واحد على النص.|
+| DOUBLE | تم تطبيق خط مزدوج على النص.<br/> يعمل فقط على نصوص الأشكال أو المخططات البيانية.|
+| NONE | لا يتم تطبيق أي ضربة على النص.|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ## parent_style属性
 
-获取该样式的父样式。
+获取此样式的父样式。
 ### 定义：
 ```python
 @property

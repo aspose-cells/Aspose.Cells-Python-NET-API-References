@@ -1,6 +1,6 @@
 ---
 title: PlotDataByType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 580
@@ -8,19 +8,19 @@ url: /zh/aspose.cells.charts/plotdatabytype/
 is_root: false
 ---
 ## PlotDataByType枚举
-按行或列表示数据图的类型。
+表示按行或列绘制的数据类型。
 
 
 
-PlotDataByType 类型公开了以下成员：
+PlotDataByType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| ROW |按排。|
-| COLUMN |按专栏。|
+| ROW |按行。|
+| COLUMN |按列。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

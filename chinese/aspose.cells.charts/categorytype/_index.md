@@ -8,18 +8,18 @@ url: /zh/aspose.cells.charts/categorytype/
 is_root: false
 ---
 ## CategoryType枚举
-代表类别轴类型。
+表示分类轴类型。
 
 
 
 CategoryType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| AUTOMATIC_SCALE |自动秤|
-| CATEGORY_SCALE |类别规模|
-| TIME_SCALE |时间刻度|
+| AUTOMATIC_SCALE |自动缩放|
+| CATEGORY_SCALE |类别量表|
+| TIME_SCALE |时间尺度|
 
 
 

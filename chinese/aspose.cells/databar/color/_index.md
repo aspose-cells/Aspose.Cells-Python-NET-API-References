@@ -1,13 +1,13 @@
 ---
-title: color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells/databar/color/
 is_root: false
 ---
-## color 属性
+## color属性
 
 获取或设置此 DataBar 的颜色。
 ### 定义：
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DataBar](/cells/python-net/zh/aspose.cells/databar)
+* 模块[`aspose.cells`](../../)
+* 类 [`DataBar`](/cells/python-net/zh/aspose.cells/databar)

@@ -3,16 +3,17 @@ title: طريقة set_shared_formula
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 360
 url: /ar/aspose.cells/cell/set_shared_formula/
 is_root: false
 ---
-##  set_shared_formula {#str-int-int}
-تعيين الصيغ المشتركة لنطاق من الخلايا.
+##  set_shared_formula(self, shared_formula, row_number, column_number) {#str-int-int}
+تعيين الصيغ المشتركة لمجموعة من الخلايا.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number):
     ...
 ```
@@ -27,13 +28,14 @@ def set_shared_formula(self, shared_formula, row_number, column_number):
 
 
 
-##  set_shared_formula {#str-int-int-aspose.cells.FormulaParseOptions}
+##  set_shared_formula(self, shared_formula, row_number, column_number, options) {#str-int-int-aspose.cells.FormulaParseOptions}
 
-تعيين الصيغ المشتركة لنطاق من الخلايا.
+تعيين الصيغ المشتركة لمجموعة من الخلايا.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number, options):
     ...
 ```
@@ -47,12 +49,13 @@ def set_shared_formula(self, shared_formula, row_number, column_number, options)
 | options | [`FormulaParseOptions`](/cells/python-net/ar/aspose.cells/formulaparseoptions) | خيارات لتحليل الصيغة.|
 
 
-##  set_shared_formula {#str-int-int-bool-bool}
-تعيين صيغة لنطاق من الخلايا.
+##  set_shared_formula(self, shared_formula, row_number, column_number, is_r1c1, is_local) {#str-int-int-bool-bool}
+تعيين صيغة لمجموعة من الخلايا.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number, is_r1c1, is_local):
     ...
 ```
@@ -63,21 +66,22 @@ def set_shared_formula(self, shared_formula, row_number, column_number, is_r1c1,
 | shared_formula | str | صيغة مشتركة.|
 | row_number | int | عدد الصفوف لملء الصيغة.|
 | column_number | int | عدد الأعمدة لملء الصيغة.|
-| is_r1c1 | bool | ما إذا كانت الصيغة هي صيغة R1C1|
-| is_local | bool | ما إذا كانت الصيغة منسقة بالإعدادات المحلية|
+| is_r1c1 | bool | هل الصيغة هي صيغة R1C1|
+| is_local | bool | ما إذا كانت الصيغة بتنسيق محلي|
 ###  ملاحظات
 
-ملاحظة: هذه الفئة أصبحت الآن قديمة. بدلاً من،
-الرجاء استخدام Cell.SetSharedFormula(string,int,int,FormulaParseOptions).
-ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ ديسمبر 2019.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذه الفئة أصبحت قديمة الآن. بدلاً من ذلك،
+من فضلك استخدم Cell.SetSharedFormula(string,int,int,FormulaParseOptions).
+سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ ديسمبر 2019.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
-##  set_shared_formula {#str-int-int-aspose.cells.FormulaParseOptions-list}
-تعيين الصيغ المشتركة لنطاق من الخلايا.
+##  set_shared_formula(self, shared_formula, row_number, column_number, options, values) {#str-int-int-aspose.cells.FormulaParseOptions-list}
+تعيين الصيغ المشتركة لمجموعة من الخلايا.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number, options, values):
     ...
 ```
@@ -89,7 +93,7 @@ def set_shared_formula(self, shared_formula, row_number, column_number, options,
 | row_number | int | عدد الصفوف لملء الصيغة.|
 | column_number | int | عدد الأعمدة لملء الصيغة.|
 | options | [`FormulaParseOptions`](/cells/python-net/ar/aspose.cells/formulaparseoptions) | خيارات لتحليل الصيغة.|
-| values | list | قيم تلك الخلايا ذات الصيغة المشتركة المحددة|
+| values | list | القيم لتلك الخلايا ذات الصيغة المشتركة المحددة|
 
 
 

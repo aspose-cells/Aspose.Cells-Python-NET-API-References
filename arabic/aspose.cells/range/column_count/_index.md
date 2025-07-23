@@ -3,13 +3,13 @@ title: column_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 370
 url: /ar/aspose.cells/range/column_count/
 is_root: false
 ---
 ##  column_count عقار
 
-الحصول على عدد الأعمدة في النطاق.
+يحصل على عدد الأعمدة في النطاق.
 ###  تعريف:
 ```python
 @property

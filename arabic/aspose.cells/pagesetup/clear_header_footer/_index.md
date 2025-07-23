@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/pagesetup/clear_header_footer/
 is_root: false
 ---
-##  clear_header_footer() {#}
-يمسح إعداد الرأس والتذييل.
+##  clear_header_footer(self) {#}
+مسح إعدادات الرأس والتذييل.
 
 
 
 ```python
+
 def clear_header_footer(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_header_footer(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

@@ -1,5 +1,5 @@
 ---
-title: group_name الملكية
+title: group_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 100
 url: /ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/group_name/
 is_root: false
 ---
-##  group_name الملكية
+##  group_name عقار
 
-الحصول على اسم المجموعة وتعيينه.
+يحصل على اسم المجموعة ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def group_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [CheckBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`CheckBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

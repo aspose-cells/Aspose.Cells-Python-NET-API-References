@@ -14,14 +14,14 @@ is_root: false
 
 LegendEntry 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [is_deleted](/cells/python-net/zh/aspose.cells.charts/legendentry/is_deleted) |获取并设置是否删除图例条目。|
-| [font](/cells/python-net/zh/aspose.cells.charts/legendentry/font) |获取指定ChartFrame对象的[`LegendEntry.font`](/cells/python-net/zh/aspose.cells.charts/legendentry#font)对象。|
-| [text_font](/cells/python-net/zh/aspose.cells.charts/legendentry/text_font) |获取指定LegendEntry对象的[`LegendEntry.font`](/cells/python-net/zh/aspose.cells.charts/legendentry#font)对象。|
-| [is_text_no_fill](/cells/python-net/zh/aspose.cells.charts/legendentry/is_text_no_fill) |获取或设置不填充文本。|
-| [auto_scale_font](/cells/python-net/zh/aspose.cells.charts/legendentry/auto_scale_font) |如果对象中的文本随对象大小更改而更改字体大小，则为 true。<br/>默认值是true。|
+| [is_deleted](/cells/python-net/zh/aspose.cells.charts/legendentry/is_deleted) |获取或设置图例条目是否被删除。|
+| [font](/cells/python-net/zh/aspose.cells.charts/legendentry/font) |获取指定 ChartFrame 对象的 [`LegendEntry.font`](/cells/python-net/zh/aspose.cells.charts/legendentry#font) 对象。|
+| [text_font](/cells/python-net/zh/aspose.cells.charts/legendentry/text_font) |获取指定 LegendEntry 对象的 [`LegendEntry.font`](/cells/python-net/zh/aspose.cells.charts/legendentry#font) 对象。|
+| [is_text_no_fill](/cells/python-net/zh/aspose.cells.charts/legendentry/is_text_no_fill) |获取或设置无填充文本。|
+| [auto_scale_font](/cells/python-net/zh/aspose.cells.charts/legendentry/auto_scale_font) |如果对象中的文本的字体大小随着对象大小的改变而改变，则为真。<br/>默认值为 True。|
 | [background](/cells/python-net/zh/aspose.cells.charts/legendentry/background) |获取和设置背景的显示模式|
 | [background_mode](/cells/python-net/zh/aspose.cells.charts/legendentry/background_mode) |获取和设置背景的显示模式|
 

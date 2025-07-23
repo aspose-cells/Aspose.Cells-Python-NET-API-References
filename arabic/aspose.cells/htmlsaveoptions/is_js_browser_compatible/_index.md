@@ -3,14 +3,14 @@ title: is_js_browser_compatible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 600
 url: /ar/aspose.cells/htmlsaveoptions/is_js_browser_compatible/
 is_root: false
 ---
 ##  is_js_browser_compatible عقار
 
- يشير إلى ما إذا كانت JavaScript متوافقة مع المتصفحات التي لا تدعم JavaScript.
-القيمة الافتراضية هي الحقيقية.
+ يشير إلى ما إذا كان JavaScript متوافقًا مع المتصفحات التي لا تدعم JavaScript.
+القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property

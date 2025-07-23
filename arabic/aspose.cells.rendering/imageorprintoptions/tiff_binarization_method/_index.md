@@ -3,14 +3,14 @@ title: tiff_binarization_method عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 360
 url: /ar/aspose.cells.rendering/imageorprintoptions/tiff_binarization_method/
 is_root: false
 ---
 ##  tiff_binarization_method عقار
 
- يحصل أو يحدد الطريقة المستخدمة أثناء تحويل الصور إلى تنسيق 1 bpp
-عندما يكون [`ImageOrPrintOptions.image_type`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions#image_type) هو Tiff و[`ImageOrPrintOptions.tiff_compression`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions#tiff_compression) يساوي Ccitt3 أو Ccitt4.
+ يحصل على الطريقة المستخدمة أثناء تحويل الصور إلى تنسيق 1 بت لكل بوصة أو يعينها
+عندما يكون [`ImageOrPrintOptions.image_type`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions#image_type) هو Tiff و [`ImageOrPrintOptions.tiff_compression`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions#tiff_compression) يساوي Ccitt3 أو Ccitt4.
 
 ###  ملاحظات
 

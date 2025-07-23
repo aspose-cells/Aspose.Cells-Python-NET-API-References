@@ -1,5 +1,5 @@
 ---
-title: show_type الملكية
+title: show_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.markup/smarttagoptions/show_type/
 is_root: false
 ---
-##  show_type الملكية
+##  show_type عقار
 
-يمثل نوع العرض من العلامة الذكية.
+يمثل نوع العرض للعلامة الذكية.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def show_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](../../)
-* فئة [SmartTagOptions](/cells/python-net/ar/aspose.cells.markup/smarttagoptions)
-* فئة [SmartTagShowType](/cells/python-net/ar/aspose.cells.markup/smarttagshowtype)
+* الوحدة [`aspose.cells.markup`](../../)
+* فئة [`SmartTagOptions`](/cells/python-net/ar/aspose.cells.markup/smarttagoptions)
+* فئة [`SmartTagShowType`](/cells/python-net/ar/aspose.cells.markup/smarttagshowtype)

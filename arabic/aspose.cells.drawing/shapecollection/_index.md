@@ -1,80 +1,85 @@
 ---
-title: ShapeCollection الدرجة
+title: ShapeCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 510
 url: /ar/aspose.cells.drawing/shapecollection/
 is_root: false
 ---
-##  ShapeCollection الدرجة
-يمثل كل الأشكال في ورقة عمل / مخطط.
+##  ShapeCollection صف
+يمثل كافة الأشكال في ورقة العمل/المخطط.
 
 
 
-يكشف نوع ShapeCollection الأعضاء التالية:
+يكشف النوع ShapeCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [capacity](/cells/python-net/ar/aspose.cells.drawing/shapecollection/capacity) | الحصول على أو تحديد عدد العناصر التي يمكن أن تحتويها قائمة الصفيف.|
+| [capacity](/cells/python-net/ar/aspose.cells.drawing/shapecollection/capacity) | يحصل على عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة أو يعينها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add_shape_in_chart(type, placement, left, top, right, bottom, image_data)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_shape_in_chart/#MsoDrawingType-PlacementType-int-int-int-int-bytes) | أضف شكلاً إلى الرسم البياني. كل وحدة هي 1/4000 من منطقة المخطط.|
-| [add_shape_in_chart(type, placement, left, top, right, bottom)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_shape_in_chart/#MsoDrawingType-PlacementType-int-int-int-int) | أضف شكلاً إلى الرسم البياني. كل وحدة هي 1/4000 من منطقة المخطط.|
-| [add_shape_in_chart_by_scale(type, placement, left, top, right, bottom)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_shape_in_chart_by_scale/#MsoDrawingType-PlacementType-float-float-float-float) | أضف شكلاً إلى الرسم البياني. كل الوحدات هي مقياس النسبة المئوية لمساحة المخطط.|
-| [add_shape_in_chart_by_scale(type, placement, left, top, right, bottom, image_data)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_shape_in_chart_by_scale/#MsoDrawingType-PlacementType-float-float-float-float-bytes) | أضف شكلاً إلى الرسم البياني. كل وحدة هي 1/4000 من منطقة المخطط.|
-| [add_picture(upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_picture/#int-int-int-int-io.RawIOBase) | يضيف صورة إلى المجموعة.|
-| [add_picture(upper_left_row, upper_left_column, stream, width_scale, height_scale)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_picture/#int-int-io.RawIOBase-int-int) | يضيف صورة إلى المجموعة.|
-| [copy_to(array)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/copy_to/#list) | ينسخ قائمة المصفوفات بأكملها إلى قائمة مصفوفة متوافقة أحادية البعد ، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/copy_to/#int-list-int-int) |ينسخ نطاقًا من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة ، بدءًا من الفهرس المحدد لقائمة الصفيف الهدف.|
-| [index_of(item, index)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/index_of/#Shape-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of(item, index, count)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/index_of/#Shape-int-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ بالفهرس المحدد ويحتوي على عدد محدد من العناصر.|
-| [last_index_of(item)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/last_index_of/#Shape) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of(item, index)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/last_index_of/#Shape-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of(item, index, count)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/last_index_of/#Shape-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
-| [add_copy(source_shape, upper_left_row, top, upper_left_column, left)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_copy/#Shape-int-int-int-int) | يضيف شكلاً ونسخه إلى ورقة العمل.|
-| [add_check_box(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_check_box/#int-int-int-int-int-int) | يضيف مربع اختيار إلى ورقة العمل.|
-| [add_text_box(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_text_box/#int-int-int-int-int-int) | يضيف مربع نص إلى ورقة العمل.|
-| [add_spinner(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_spinner/#int-int-int-int-int-int) | يضيف Spinner إلى ورقة العمل.|
-| [add_scroll_bar(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_scroll_bar/#int-int-int-int-int-int) | يضيف شريط تمرير إلى ورقة العمل.|
-| [add_radio_button(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_radio_button/#int-int-int-int-int-int) | يضيف RadioButton إلى ورقة العمل.|
-| [add_list_box(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_list_box/#int-int-int-int-int-int) | يضيف ListBox إلى ورقة العمل.|
-| [add_combo_box(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_combo_box/#int-int-int-int-int-int) | يضيف ComboBox إلى ورقة العمل.|
-| [add_group_box(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_group_box/#int-int-int-int-int-int) |يضيف GroupBox إلى ورقة العمل.|
-| [add_button(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_button/#int-int-int-int-int-int) | يضيف زرًا إلى ورقة العمل.|
-| [add_label(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_label/#int-int-int-int-int-int) | يضيف تسمية إلى ورقة العمل.|
-| [add_label_in_chart(top, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_label_in_chart/#int-int-int-int) | يضيف تسمية إلى المخطط.|
-| [add_text_box_in_chart(top, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_text_box_in_chart/#int-int-int-int) | يضيف مربع نص إلى الرسم البياني.|
-| [add_text_effect_in_chart(effect, text, font_name, size, font_bold, font_italic, top, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_text_effect_in_chart/#MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int) | إدراج كائن WordArt في المخطط|
-| [add_text_effect(effect, text, font_name, size, font_bold, font_italic, upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_text_effect/#MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int-int-int) | يُدرج كائن WordArt.|
-| [add_word_art(style, text, upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_word_art/#PresetWordArtStyle-str-int-int-int-int-int-int) | يضيف WordArt المعين مسبقًا منذ Excel 2007.s|
-| [add_rectangle(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_rectangle/#int-int-int-int-int-int) | يضيف RectangleShape إلى ورقة العمل.|
-| [add_oval(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_oval/#int-int-int-int-int-int) | يضيف شكل بيضوي إلى ورقة العمل.|
-| [add_line(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_line/#int-int-int-int-int-int) | يضيف LineShape إلى ورقة العمل.|
-| [add_free_floating_shape(type, top, left, height, width, image_data, is_original_size)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_free_floating_shape/#MsoDrawingType-int-int-int-int-bytes-bool) | يضيف شكلاً عائمًا حرًا إلى ورقة العمل. ينطبق فقط على شكل الخط / الصورة.|
-| [add_arc(upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_arc/#int-int-int-int-int-int) | يضيف شكل قوس إلى ورقة العمل.|
-| [add_shape(type, upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_shape/#MsoDrawingType-int-int-int-int-int-int) | يضيف شكلاً إلى ورقة العمل.|
-| [add_auto_shape(type, upper_left_row, top, upper_left_column, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int) | يضيف شكلاً تلقائيًا إلى ورقة العمل.|
-| [add_auto_shape_in_chart(type, top, left, height, width)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_auto_shape_in_chart/#AutoShapeType-int-int-int-int) | يضيف شكلاً تلقائيًا إلى المخطط.|
-| [add_active_x_control(type, top_row, top, left_column, left, width, height)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_active_x_control/#aspose.cells.drawing.activexcontrols.ControlType-int-int-int-int-int-int) | ينشئ عنصر تحكم Activex.|
-| [add_svg(upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_svg/#int-int-int-int-int-int-bytes-bytes) | يضيف صورة svg.|
-| [add_icons(upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_icons/#int-int-int-int-int-int-bytes-bytes) | يضيف صورة svg.|
-| [add_linked_picture(upper_left_row, upper_left_column, height, width, source_full_name)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_linked_picture/#int-int-int-int-str) | أضف صورة مرتبطة.|
-| [add_ole_object_with_linked_image(upper_left_row, upper_left_column, height, width, source_full_name)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_ole_object_with_linked_image/#int-int-int-int-str) | أضف صورة مرتبطة.|
-| [add_picture_in_chart(top, left, stream, width_scale, height_scale)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_picture_in_chart/#int-int-io.RawIOBase-int-int) | يضيف صورة إلى المخطط.|
-| [add_ole_object(upper_left_row, top, upper_left_column, left, height, width, image_data)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_ole_object/#int-int-int-int-int-int-bytes) | يضيف OleObject.|
-| [copy_comments_in_range(shapes, ca, dest_row, dest_column)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/copy_comments_in_range/#ShapeCollection-CellArea-int-int) | انسخ جميع التعليقات في النطاق.|
-| [copy_in_range(source_shapes, ca, dest_row, dest_column, is_contained)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/copy_in_range/#ShapeCollection-CellArea-int-int-bool) | انسخ الأشكال الموجودة في النطاق إلى النطاق الوجهة.|
-| [delete_in_range(ca)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/delete_in_range/#CellArea) | احذف الأشكال الموجودة في النطاق. لن يتم حذف أشكال التعليقات.|
-| [delete_shape(shape)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/delete_shape/#Shape) |حذف شكل. إذا كان الشكل في المجموعة أو كان شكل تعليق ، فلن يتم حذفه.|
-| [group(group_items)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/group/#list) | اجمع الأشكال.|
-| [ungroup(group)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/ungroup/#GroupShape) | يفك تجميع عناصر الشكل.|
-| [update_selected_value()](/cells/python-net/ar/aspose.cells.drawing/shapecollection/update_selected_value/#) | قم بتحديث القيمة المحددة بقيمة الخلية المرتبطة بالأشكال.|
-| [binary_search(item)](/cells/python-net/ar/aspose.cells.drawing/shapecollection/binary_search/#Shape) | يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.|
+| [`add_shape_in_chart(self, type, placement, left, top, right, bottom, image_data)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_shape_in_chart/#aspose.cells.drawing.msodrawingtype-aspose.cells.drawing.placementtype-int-int-int-int-bytes) | أضف شكلاً إلى الرسم البياني. كل وحدة هي 1/4000 من مساحة الرسم البياني.|
+| [`add_shape_in_chart(self, type, placement, left, top, right, bottom)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_shape_in_chart/#aspose.cells.drawing.msodrawingtype-aspose.cells.drawing.placementtype-int-int-int-int) | أضف شكلاً إلى الرسم البياني. كل وحدة هي 1/4000 من مساحة الرسم البياني.|
+| [`add_shape_in_chart_by_scale(self, type, placement, left, top, right, bottom)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_shape_in_chart_by_scale/#aspose.cells.drawing.msodrawingtype-aspose.cells.drawing.placementtype-float-float-float-float) | أضف شكلاً إلى الرسم البياني. جميع الوحدات هي نسبة مئوية من مساحة الرسم البياني.|
+| [`add_shape_in_chart_by_scale(self, type, placement, left, top, right, bottom, image_data)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_shape_in_chart_by_scale/#aspose.cells.drawing.msodrawingtype-aspose.cells.drawing.placementtype-float-float-float-float-bytes) | أضف شكلاً إلى الرسم البياني. كل وحدة هي 1/4000 من مساحة الرسم البياني.|
+| [`add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_picture/#int-int-int-int-io.rawiobase) | إضافة صورة إلى المجموعة.|
+| [`add_picture(self, upper_left_row, upper_left_column, stream, width_scale, height_scale)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_picture/#int-int-io.rawiobase-int-int) | إضافة صورة إلى المجموعة.|
+| [`copy_to(self, array)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/copy_to/#list) |يقوم بنسخ قائمة المصفوفة بأكملها إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من بداية قائمة المصفوفة المستهدفة.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/copy_to/#int-list-int-int) | يقوم بنسخ مجموعة من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لقائمة المصفوفة المستهدفة.|
+| [`index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/index_of/#aspose.cells.drawing.shape-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/index_of/#aspose.cells.drawing.shape-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ بالفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [`last_index_of(self, item)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/last_index_of/#aspose.cells.drawing.shape) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن قائمة المصفوفة بأكملها.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/last_index_of/#aspose.cells.drawing.shape-int) |يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/last_index_of/#aspose.cells.drawing.shape-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبدئي للصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
+| [`get(self, name)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/get/#str) | يحصل على الكائن [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape) حسب اسم الشكل.|
+| [`add_copy(self, source_shape, top_row, top, left_column, left)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_copy/#aspose.cells.drawing.shape-int-int-int-int) | إضافة شكل ونسخه إلى ورقة العمل.|
+| [`add_check_box(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_check_box/#int-int-int-int-int-int) | إضافة مربع اختيار إلى ورقة العمل.|
+| [`add_text_box(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_text_box/#int-int-int-int-int-int) | إضافة مربع نص إلى ورقة العمل.|
+| [`add_equation(self, top_row, top, left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_equation/#int-int-int-int-int-int) |أضف كائن المعادلة إلى ورقة العمل.|
+| [`add_spinner(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_spinner/#int-int-int-int-int-int) | إضافة Spinner إلى ورقة العمل.|
+| [`add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_scroll_bar/#int-int-int-int-int-int) | إضافة شريط التمرير إلى ورقة العمل.|
+| [`add_radio_button(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_radio_button/#int-int-int-int-int-int) | إضافة زر راديو إلى ورقة العمل.|
+| [`add_list_box(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_list_box/#int-int-int-int-int-int) | إضافة ListBox إلى ورقة العمل.|
+| [`add_combo_box(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_combo_box/#int-int-int-int-int-int) | إضافة مربع تحرير وسرد إلى ورقة العمل.|
+| [`add_group_box(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_group_box/#int-int-int-int-int-int) | إضافة GroupBox إلى ورقة العمل.|
+| [`add_button(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_button/#int-int-int-int-int-int) | إضافة زر إلى ورقة العمل.|
+| [`add_label(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_label/#int-int-int-int-int-int) | إضافة تسمية إلى ورقة العمل.|
+| [`add_label_in_chart(self, top, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_label_in_chart/#int-int-int-int) | إضافة تسمية إلى الرسم البياني.|
+| [`add_text_box_in_chart(self, top, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_text_box_in_chart/#int-int-int-int) | إضافة مربع نص إلى الرسم البياني.|
+| [`add_text_effect_in_chart(self, effect, text, font_name, size, font_bold, font_italic, top, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_text_effect_in_chart/#aspose.cells.drawing.msopresettexteffect-str-str-int-bool-bool-int-int-int-int) | إدراج كائن WordArt في الرسم البياني|
+| [`add_text_effect(self, effect, text, font_name, size, font_bold, font_italic, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_text_effect/#aspose.cells.drawing.msopresettexteffect-str-str-int-bool-bool-int-int-int-int-int-int) | إدراج كائن WordArt.|
+| [`add_word_art(self, style, text, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_word_art/#aspose.cells.drawing.presetwordartstyle-str-int-int-int-int-int-int) | إضافة WordArt مُعد مسبقًا منذ Excel 2007s|
+| [`add_rectangle(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_rectangle/#int-int-int-int-int-int) | إضافة شكل مستطيل إلى ورقة العمل.|
+| [`add_oval(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_oval/#int-int-int-int-int-int) | إضافة شكل بيضاوي إلى ورقة العمل.|
+| [`add_line(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_line/#int-int-int-int-int-int) | إضافة شكل خطي إلى ورقة العمل.|
+| [`add_free_floating_shape(self, type, top, left, height, width, image_data, is_original_size)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_free_floating_shape/#aspose.cells.drawing.msodrawingtype-int-int-int-int-bytes-bool) | يضيف شكلاً عائمًا حرًا إلى ورقة العمل. ينطبق فقط على شكل الخط/الصورة.|
+| [`add_arc(self, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_arc/#int-int-int-int-int-int) | إضافة ArcShape إلى ورقة العمل.|
+| [`add_shape(self, type, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_shape/#aspose.cells.drawing.msodrawingtype-int-int-int-int-int-int) | إضافة شكل إلى ورقة العمل.|
+| [`add_auto_shape(self, type, upper_left_row, top, upper_left_column, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_auto_shape/#aspose.cells.drawing.autoshapetype-int-int-int-int-int-int) | إضافة شكل تلقائي إلى ورقة العمل.|
+| [`add_auto_shape_in_chart(self, type, top, left, height, width)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_auto_shape_in_chart/#aspose.cells.drawing.autoshapetype-int-int-int-int) | إضافة شكل تلقائي إلى الرسم البياني.|
+| [`add_active_x_control(self, type, top_row, top, left_column, left, width, height)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_active_x_control/#aspose.cells.drawing.activexcontrols.controltype-int-int-int-int-int-int) | إنشاء عنصر تحكم Activex.|
+| [`add_svg(self, upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_svg/#int-int-int-int-int-int-bytes-bytes) | إضافة صورة svg.|
+| [`add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_icons/#int-int-int-int-int-int-bytes-bytes) | إضافة صورة svg.|
+| [`add_linked_picture(self, upper_left_row, upper_left_column, height, width, source_full_name)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_linked_picture/#int-int-int-int-str) |أضف صورة مرتبطة.|
+| [`add_ole_object_with_linked_image(self, upper_left_row, upper_left_column, height, width, source_full_name)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_ole_object_with_linked_image/#int-int-int-int-str) |أضف صورة مرتبطة.|
+| [`add_picture_in_chart(self, top, left, stream, width_scale, height_scale)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_picture_in_chart/#int-int-io.rawiobase-int-int) | إضافة صورة إلى الرسم البياني.|
+| [`add_ole_object(self, upper_left_row, top, upper_left_column, left, height, width, image_data)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_ole_object/#int-int-int-int-int-int-bytes) | يضيف OleObject.|
+| [`copy_comments_in_range(self, shapes, ca, dest_row, dest_column)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/copy_comments_in_range/#aspose.cells.drawing.shapecollection-aspose.cells.cellarea-int-int) | انسخ جميع التعليقات الموجودة في النطاق.|
+| [`copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/copy_in_range/#aspose.cells.drawing.shapecollection-aspose.cells.cellarea-int-int-bool) | نسخ الأشكال الموجودة في النطاق إلى نطاق الوجهة.|
+| [`delete_in_range(self, ca)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/delete_in_range/#aspose.cells.cellarea) | حذف الأشكال الموجودة في النطاق. لن يتم حذف أشكال التعليق.|
+| [`delete_shape(self, shape)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/delete_shape/#aspose.cells.drawing.shape) | احذف شكلاً. إذا كان الشكل ضمن المجموعة أو شكل تعليق، فلن يُحذف.|
+| [`group(self, group_items)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/group/#list) | تجميع الأشكال.|
+| [`ungroup(self, group)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/ungroup/#aspose.cells.drawing.groupshape) | إلغاء تجميع عناصر الشكل.|
+| [`remove_a_shape(self, shape)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/remove_a_shape/#aspose.cells.drawing.shape) | أضف API for Python عبر .Net. نظرًا لأن هذا API غير مدعوم|
+| [`update_selected_value(self)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/update_selected_value/#) | قم بتحديث القيمة المحددة حسب قيمة الخلية المرتبطة أو نطاق الشكل.|
+| [`add_freeform(self, upper_left_row, top, upper_left_column, left, height, width, paths)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_freeform/#int-int-int-int-int-int-list) | يضيف شكلًا حرًا إلى ورقة العمل.|
+| [`add_signature_line(self, upper_left_row, upper_left_column, signature_line)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/add_signature_line/#int-int-aspose.cells.drawing.signatureline) | إضافة سطر التوقيع إلى ورقة العمل.|
+| [`binary_search(self, item)`](/cells/python-net/ar/aspose.cells.drawing/shapecollection/binary_search/#aspose.cells.drawing.shape) | يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.|
 
 
 
@@ -94,4 +99,5 @@ workbook.save("result.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)
+* فئة [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape)

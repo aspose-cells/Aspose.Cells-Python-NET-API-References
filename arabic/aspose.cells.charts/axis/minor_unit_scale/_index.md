@@ -3,13 +3,13 @@ title: minor_unit_scale عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 380
 url: /ar/aspose.cells.charts/axis/minor_unit_scale/
 is_root: false
 ---
 ##  minor_unit_scale عقار
 
-يمثل مقياس الوحدة الرئيسية لمحور الفئة.
+يمثل مقياس الوحدة الرئيسي لمحور الفئة.
 
 ###  مثال
 

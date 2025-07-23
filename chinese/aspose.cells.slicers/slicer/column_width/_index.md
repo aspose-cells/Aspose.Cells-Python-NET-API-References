@@ -1,13 +1,13 @@
 ---
-title: column_width 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: column_width属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
 url: /zh/aspose.cells.slicers/slicer/column_width/
 is_root: false
 ---
-## column_width 属性
+## column_width属性
 
 返回或设置切片器中每列的宽度（以磅为单位）。
 
@@ -15,7 +15,7 @@ is_root: false
 
 ```python
 
-slicer.column_width = 80
+slicer.column_width = 80.0
 
 ```
 ### 定义：
@@ -29,5 +29,5 @@ def column_width(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](../../)
-* 类 [Slicer](/cells/python-net/zh/aspose.cells.slicers/slicer)
+* 模块[`aspose.cells.slicers`](../../)
+* 类 [`Slicer`](/cells/python-net/zh/aspose.cells.slicers/slicer)

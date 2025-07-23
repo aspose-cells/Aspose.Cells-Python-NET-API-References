@@ -1,27 +1,27 @@
 ---
-title: العد PlacementType
+title: PlacementType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1050
+weight: 1040
 url: /ar/aspose.cells.drawing/placementtype/
 is_root: false
 ---
-##  العد PlacementType
-يمثل الطريقة التي يتم بها إرفاق الكائن الرسومي بالخلايا الموجودة أسفله.
+##  PlacementType التعداد
+يمثل الطريقة التي يتم بها ربط كائن الرسم بالخلايا الموجودة أسفله.
 
 
 
-يكشف نوع PlacementType الأعضاء التالية:
+يكشف النوع PlacementType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| FREE_FLOATING | لا تتحرك أو تحجم بالخلايا.|
-| MOVE | تحرك ولكن لا تتناسب مع حجم الخلايا.|
-| MOVE_AND_SIZE | التحرك والحجم مع الخلايا.|
+| FREE_FLOATING | لا تتحرك أو تغير حجمها مع الخلايا.|
+| MOVE | التحرك ولكن لا تغيير الحجم مع الخلايا.|
+| MOVE_AND_SIZE | نقل وتغيير الحجم باستخدام الخلايا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

@@ -1,5 +1,5 @@
 ---
-title: is_range_set الملكية
+title: is_range_set عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 80
 url: /ar/aspose.cells/findoptions/is_range_set/
 is_root: false
 ---
-##  is_range_set الملكية
+##  is_range_set عقار
 
 يشير إلى ما إذا كان النطاق الذي تم البحث عنه قد تم تعيينه.
 ###  تعريف:
@@ -18,5 +18,5 @@ def is_range_set(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FindOptions](/cells/python-net/ar/aspose.cells/findoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FindOptions`](/cells/python-net/ar/aspose.cells/findoptions)

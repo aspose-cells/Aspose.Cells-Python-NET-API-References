@@ -1,13 +1,13 @@
 ---
-title: extrusion_color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: extrusion_color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.drawing/threedformat/extrusion_color/
 is_root: false
 ---
-## extrusion_color 属性
+## extrusion_color属性
 
 获取形状上的挤压颜色。
 ### 定义：
@@ -21,6 +21,6 @@ def extrusion_color(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CellsColor](/cells/python-net/zh/aspose.cells/cellscolor)
-* 类 [ThreeDFormat](/cells/python-net/zh/aspose.cells.drawing/threedformat)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CellsColor`](/cells/python-net/zh/aspose.cells/cellscolor)
+* 类 [`ThreeDFormat`](/cells/python-net/zh/aspose.cells.drawing/threedformat)

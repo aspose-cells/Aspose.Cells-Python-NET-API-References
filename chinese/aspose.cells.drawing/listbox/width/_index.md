@@ -3,13 +3,13 @@ title: width属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /zh/aspose.cells.drawing/listbox/width/
 is_root: false
 ---
 ## width属性
 
-代表形状的width，以像素为单位。
+表示形状的width，以像素为单位。
 
 ### 例子
 

@@ -1,15 +1,15 @@
 ---
-title: number الملكية
+title: number عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 340
 url: /ar/aspose.cells.charts/datalabels/number/
 is_root: false
 ---
-##  number الملكية
+##  number عقار
 
-الحصول على التنسيق المدمج number وتعيينه.
+يحصل على التنسيق المدمج number ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def number(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

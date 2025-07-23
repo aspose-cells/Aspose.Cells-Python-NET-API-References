@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_empty_string_as_null عقار
 
-إذا كانت القيمة TRUE، فسيتم إدراج Null إذا كانت القيمة هي ""؛
+إذا كانت القيمة TRUE، فسيتم إدراج Null إذا كانت القيمة ""؛
 ###  تعريف:
 ```python
 @property

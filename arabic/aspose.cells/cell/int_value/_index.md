@@ -3,13 +3,13 @@ title: int_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 550
 url: /ar/aspose.cells/cell/int_value/
 is_root: false
 ---
 ##  int_value عقار
 
-الحصول على القيمة الصحيحة الموجودة في الخلية.
+يحصل على القيمة الصحيحة الموجودة في الخلية.
 ###  تعريف:
 ```python
 @property

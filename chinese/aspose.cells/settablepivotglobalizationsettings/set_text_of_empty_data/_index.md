@@ -3,16 +3,17 @@ title: set_text_of_empty_data方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 260
+weight: 270
 url: /zh/aspose.cells/settablepivotglobalizationsettings/set_text_of_empty_data/
 is_root: false
 ---
-##  set_text_of_empty_data {#str}
+##  set_text_of_empty_data(self, text) {#str}
 设置数据透视表中“（空白）”标签的文本。
 
 
 
 ```python
+
 def set_text_of_empty_data(self, text):
     ...
 ```

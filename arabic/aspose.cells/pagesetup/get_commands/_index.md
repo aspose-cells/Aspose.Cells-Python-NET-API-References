@@ -7,7 +7,7 @@ weight: 50
 url: /ar/aspose.cells/pagesetup/get_commands/
 is_root: false
 ---
-##  get_commands(header_footer_script) {#str}
+##  get_commands(self, header_footer_script) {#str}
 يحصل على كافة أوامر الرأس أو التذييل.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_commands(self, header_footer_script):
     ...
 ```
@@ -24,10 +25,10 @@ def get_commands(self, header_footer_script):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| header_footer_script | str | نص الرأس / التذييل|
+| header_footer_script | str | نص الرأس/التذييل|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

@@ -3,12 +3,12 @@ title: TextOrientationType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2650
+weight: 2620
 url: /ar/aspose.cells/textorientationtype/
 is_root: false
 ---
 ##  TextOrientationType التعداد
-تعداد أنواع اتجاه النص.
+يقوم بإحصاء أنواع اتجاه النص.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| CLOCK_WISE | تدوير النص بمقدار 90 درجة في اتجاه عقارب الساعة.|
-| COUNTER_CLOCK_WISE | تدوير النص بمقدار 90 درجة عكس اتجاه عقارب الساعة.|
+| CLOCK_WISE | تدوير النص بزاوية 90 درجة في اتجاه عقارب الساعة.|
+| COUNTER_CLOCK_WISE | تدوير النص بزاوية 90 درجة عكس اتجاه عقارب الساعة.|
 | NO_ROTATION | يمثل القيمة الافتراضية.|
 | TOP_TO_BOTTOM | يعرض النص من أعلى إلى أسفل الخلية. نص مكدس.|
 

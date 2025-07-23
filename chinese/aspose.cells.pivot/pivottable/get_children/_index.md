@@ -1,13 +1,13 @@
 ---
 title: get_children方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 140
 url: /zh/aspose.cells.pivot/pivottable/get_children/
 is_root: false
 ---
-##  get_children() {#}
+##  get_children(self) {#}
 获取使用此数据透视表数据作为数据源的子数据透视表。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_children(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_children(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotTable](/cells/python-net/zh/aspose.cells.pivot/pivottable)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotTable`](/cells/python-net/zh/aspose.cells.pivot/pivottable)

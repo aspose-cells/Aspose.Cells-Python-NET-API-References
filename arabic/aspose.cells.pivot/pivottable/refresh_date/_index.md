@@ -1,15 +1,15 @@
 ---
-title: refresh_date الملكية
+title: refresh_date عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 810
+weight: 920
 url: /ar/aspose.cells.pivot/pivottable/refresh_date/
 is_root: false
 ---
-##  refresh_date الملكية
+##  refresh_date عقار
 
-الحصول على تاريخ آخر تحديث لـ PivotTable.
+يحصل على تاريخ الوقت الأخير الذي تم فيه تحديث الجدول المحوري.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def refresh_date(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

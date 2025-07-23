@@ -3,7 +3,7 @@ title: ignore_invisible_shapes属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 450
+weight: 520
 url: /zh/aspose.cells/htmlsaveoptions/ignore_invisible_shapes/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 指示是否导出那些不可见的形状
 
-### 评论
+### 注意事项
 
 默认值为 false。
 ### 定义：

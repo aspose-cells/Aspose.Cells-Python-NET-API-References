@@ -7,12 +7,13 @@ weight: 50
 url: /ar/aspose.cells/individualfontconfigs/set_font_folders/
 is_root: false
 ---
-##  set_font_folders(font_folders, recursive) {#list-bool}
+##  set_font_folders(self, font_folders, recursive) {#list-bool}
 يضبط مجلدات الخطوط
 
 
 
 ```python
+
 def set_font_folders(self, font_folders, recursive):
     ...
 ```
@@ -26,5 +27,5 @@ def set_font_folders(self, font_folders, recursive):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [IndividualFontConfigs](/cells/python-net/ar/aspose.cells/individualfontconfigs)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`IndividualFontConfigs`](/cells/python-net/ar/aspose.cells/individualfontconfigs)

@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/namecollection/add/
 is_root: false
 ---
-##  add(text) {#str}
-يعرّف اسمًا جديدًا.
+##  add(self, text) {#str}
+يحدد اسمًا جديدًا.
 
 
 ###  عائدات
 
-[Name](/cells/python-net/ar/aspose.cells/name) فهرس العنصر.
+[`Name`](/cells/python-net/ar/aspose.cells/name) فهرس الكائن.
 
 
 ```python
+
 def add(self, text):
     ...
 ```
@@ -24,14 +25,14 @@ def add(self, text):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| text | str | النص المراد استخدامه كاسم.|
+| text | str | النص الذي سيتم استخدامه كاسم.|
 ###  ملاحظات
 
-لا يمكن أن يحتوي الاسم على مسافات ولا يمكن أن يبدو مثل مراجع الخلايا.
+لا يمكن أن يتضمن الاسم مسافات ولا يمكن أن يبدو مثل مراجع الخلايا.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Name](/cells/python-net/ar/aspose.cells/name)
-* فئة [NameCollection](/cells/python-net/ar/aspose.cells/namecollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Name`](/cells/python-net/ar/aspose.cells/name)
+* فئة [`NameCollection`](/cells/python-net/ar/aspose.cells/namecollection)

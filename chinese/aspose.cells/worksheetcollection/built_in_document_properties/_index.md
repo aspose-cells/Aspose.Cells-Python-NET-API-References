@@ -3,15 +3,15 @@ title: built_in_document_properties属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 260
+weight: 280
 url: /zh/aspose.cells/worksheetcollection/built_in_document_properties/
 is_root: false
 ---
 ## built_in_document_properties属性
 
-返回 [`DocumentProperty`](/cells/python-net/zh/aspose.cells.properties/documentproperty) 集合，该集合表示电子表格的所有内置文档属性。
+返回一个 [`DocumentProperty`](/cells/python-net/zh/aspose.cells.properties/documentproperty) 集合，该集合代表电子表格的所有内置文档属性。
 
-### 评论
+### 注意事项
 
 无法将新属性添加到内置文档属性列表中。您只能获取内置属性并更改其值。
 以下是内置属性名称列表：
@@ -28,19 +28,19 @@ is_root: false
 关键词
 
 
-评论
+注意事项
 
 
 模板
 
 
-最后作者
+最后一位作者
 
 
 修订号
 
 
-应用名称
+应用程序名称
 
 
 最后打印日期
@@ -88,16 +88,27 @@ is_root: false
 段落数
 
 
-载玻片数量
+幻灯片数量
 
 
-笔记数量
+注释数量
 
 
-隐藏幻灯片数量
+隐藏幻灯片的数量
 
 
 多媒体剪辑数量
+
+### 例子
+
+```python
+from aspose.cells import Workbook
+
+workbook = Workbook()
+doc = workbook.worksheets.built_in_document_properties.get("Author")
+doc.value = "John Smith"
+
+```
 ### 定义：
 ```python
 @property

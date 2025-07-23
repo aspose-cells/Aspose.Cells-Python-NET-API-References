@@ -1,19 +1,13 @@
 ---
-title: create_directory الملكية
+title: create_directory عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells/xpssaveoptions/create_directory/
 is_root: false
 ---
-##  create_directory الملكية
-
-إذا كان صحيحًا وكان الدليل غير موجود ، فسيتم إنشاء الدليل تلقائيًا قبل حفظ الملف.
-
-###  ملاحظات
-
-القيمة الافتراضية هي كاذبة.
+##  create_directory عقار
 ###  تعريف:
 ```python
 @property
@@ -25,5 +19,5 @@ def create_directory(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [XpsSaveOptions](/cells/python-net/ar/aspose.cells/xpssaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`XpsSaveOptions`](/cells/python-net/ar/aspose.cells/xpssaveoptions)

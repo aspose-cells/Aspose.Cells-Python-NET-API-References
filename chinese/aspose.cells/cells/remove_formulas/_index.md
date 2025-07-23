@@ -3,16 +3,17 @@ title: remove_formulas方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 810
+weight: 830
 url: /zh/aspose.cells/cells/remove_formulas/
 is_root: false
 ---
-##  remove_formulas {#}
+##  remove_formulas(self) {#}
 删除所有公式并替换为公式的值。
 
 
 
 ```python
+
 def remove_formulas(self):
     ...
 ```

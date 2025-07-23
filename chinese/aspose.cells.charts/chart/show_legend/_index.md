@@ -9,7 +9,7 @@ is_root: false
 ---
 ## show_legend属性
 
-获取或设置一个值，该值指示是否显示图表图例。默认为 true。
+获取或设置一个值，指示是否显示图表图例。默认值为 true。
 ### 定义：
 ```python
 @property

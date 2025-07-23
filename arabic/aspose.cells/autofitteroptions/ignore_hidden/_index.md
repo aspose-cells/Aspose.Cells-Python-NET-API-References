@@ -1,15 +1,15 @@
 ---
-title: ignore_hidden الملكية
+title: ignore_hidden عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells/autofitteroptions/ignore_hidden/
 is_root: false
 ---
-##  ignore_hidden الملكية
+##  ignore_hidden عقار
 
-يتجاهل الصفوف / الأعمدة المخفية.
+يتجاهل الصفوف/الأعمدة المخفية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def ignore_hidden(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFitterOptions](/cells/python-net/ar/aspose.cells/autofitteroptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFitterOptions`](/cells/python-net/ar/aspose.cells/autofitteroptions)

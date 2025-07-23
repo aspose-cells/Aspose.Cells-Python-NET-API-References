@@ -9,7 +9,7 @@ is_root: false
 ---
 ## alignment_type属性
 
-获取和设置轴上刻度标签的文本对齐方式。
+获取并设置轴上刻度标签的文本对齐方式。
 ### 定义：
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions/__init__/
 is_root: false
 ---
-##  __فيه__ {#}
+##  \_\_init\_\_(الذات){#}
 منشئ PdfSecurityOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -21,7 +22,7 @@ def __init__(self):
 
 ###  مثال
 
-يقوم التعليمة البرمجية التالية بتعيين إذن طباعة عالي الدقة لملف pdf الناتج.
+يحدد الكود التالي أذونات الطباعة عالية الدقة لملف pdf الناتج.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook

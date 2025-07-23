@@ -1,6 +1,6 @@
 ---
 title: VbaProjectReferenceType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
@@ -12,10 +12,10 @@ is_root: false
 
 
 
-VbaProjectReferenceType 类型公开了以下成员：
+VbaProjectReferenceType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | REGISTERED |指定对自动化类型库的引用。|
 | CONTROL |指定对旋转类型库及其扩展类型库的引用。|
@@ -24,4 +24,4 @@ VbaProjectReferenceType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.vba](..)
+* 模块[`aspose.cells.vba`](..)

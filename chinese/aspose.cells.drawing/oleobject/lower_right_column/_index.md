@@ -3,13 +3,13 @@ title: lower_right_column属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 910
+weight: 920
 url: /zh/aspose.cells.drawing/oleobject/lower_right_column/
 is_root: false
 ---
 ## lower_right_column属性
 
-代表右下角列索引。
+表示右下角列索引。
 
 ### 例子
 

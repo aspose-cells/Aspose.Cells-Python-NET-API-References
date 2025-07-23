@@ -7,12 +7,13 @@ weight: 420
 url: /ar/aspose.cells/settableglobalizationsettings/set_table_row_type_of_data/
 is_root: false
 ---
-##  set_table_row_type_of_data {#str}
-يضبط اسم النوع لصفوف الجدول الذي يتكون من منطقة بيانات الجدول المشار إليه.
+##  set_table_row_type_of_data(self, name) {#str}
+تعيين اسم نوع صفوف الجدول التي تتكون من منطقة البيانات للجدول المرجعي.
 
 
 
 ```python
+
 def set_table_row_type_of_data(self, name):
     ...
 ```

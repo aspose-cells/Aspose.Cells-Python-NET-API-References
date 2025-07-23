@@ -1,5 +1,5 @@
 ---
-title: dynamic_filter_type الملكية
+title: dynamic_filter_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/dynamicfilter/dynamic_filter_type/
 is_root: false
 ---
-##  dynamic_filter_type الملكية
+##  dynamic_filter_type عقار
 
-الحصول على نوع المرشح الديناميكي وتعيينه.
+يحصل على نوع الفلتر الديناميكي ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def dynamic_filter_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DynamicFilter](/cells/python-net/ar/aspose.cells/dynamicfilter)
-* فئة [DynamicFilterType](/cells/python-net/ar/aspose.cells/dynamicfiltertype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DynamicFilter`](/cells/python-net/ar/aspose.cells/dynamicfilter)
+* فئة [`DynamicFilterType`](/cells/python-net/ar/aspose.cells/dynamicfiltertype)

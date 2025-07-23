@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.settings/pivotglobalizationsettings/get_short_text_of_12_months/
 is_root: false
 ---
-##  get_short_text_of_12_months {#}
-يحصل على كل سلسلة قصيرة منسقة مدتها 12 شهرًا.
+##  get_short_text_of_12_months(self) {#}
+يحصل على كل سلسلة قصيرة منسقة لمدة 12 شهرًا.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_short_text_of_12_months(self):
     ...
 ```

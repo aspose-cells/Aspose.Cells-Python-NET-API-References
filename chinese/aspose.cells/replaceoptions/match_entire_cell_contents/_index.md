@@ -9,7 +9,11 @@ is_root: false
 ---
 ## match_entire_cell_contents属性
 
-指示是否匹配整个单元格内容
+指示是否匹配整个单元格的内容
+
+### 注意事项
+
+默认值为 true。
 ### 定义：
 ```python
 @property

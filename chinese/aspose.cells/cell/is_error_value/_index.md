@@ -3,7 +3,7 @@ title: is_error_value属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 570
+weight: 600
 url: /zh/aspose.cells/cell/is_error_value/
 is_root: false
 ---
@@ -11,9 +11,9 @@ is_root: false
 
 检查此单元格的值是否有错误。
 
-### 评论
+### 注意事项
 
-也适用于公式单元格，检查计算结果是否错误。
+也适用于公式单元格，检查计算结果是否有错误。
 ### 定义：
 ```python
 @property

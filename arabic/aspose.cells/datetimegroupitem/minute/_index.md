@@ -1,5 +1,5 @@
 ---
-title: minute الملكية
+title: minute عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells/datetimegroupitem/minute/
 is_root: false
 ---
-##  minute الملكية
+##  minute عقار
 
-الحصول على وتعيين minute لوقت التاريخ المجمع.
+يحصل على minute لتاريخ الوقت المجمع ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def minute(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DateTimeGroupItem](/cells/python-net/ar/aspose.cells/datetimegroupitem)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DateTimeGroupItem`](/cells/python-net/ar/aspose.cells/datetimegroupitem)

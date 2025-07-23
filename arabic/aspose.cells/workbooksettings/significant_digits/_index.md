@@ -3,18 +3,18 @@ title: significant_digits عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 470
+weight: 500
 url: /ar/aspose.cells/workbooksettings/significant_digits/
 is_root: false
 ---
 ##  significant_digits عقار
 
-الحصول على عدد الأرقام المهمة وتعيينها.
+يحصل على عدد الأرقام المهمة ويحدده.
 القيمة الافتراضية هي [`CellsHelper.significant_digits`](/cells/python-net/ar/aspose.cells/cellshelper#significant_digits).
 
 ###  ملاحظات
 
-يمكن أن يكون عمرك 15 أو 17 عامًا فقط الآن.
+ربما يبلغ عمره 15 أو 17 عامًا الآن.
 ###  تعريف:
 ```python
 @property

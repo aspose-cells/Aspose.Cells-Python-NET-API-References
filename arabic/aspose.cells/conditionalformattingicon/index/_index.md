@@ -1,5 +1,5 @@
 ---
-title: index الملكية
+title: index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/conditionalformattingicon/index/
 is_root: false
 ---
-##  index الملكية
+##  index عقار
 
-الحصول على index الايقونة وضبطه فى مجموعة الايقونات.
+يحصل على رمز index ويقوم بتعيينه في مجموعة الرموز.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def index(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ConditionalFormattingIcon](/cells/python-net/ar/aspose.cells/conditionalformattingicon)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ConditionalFormattingIcon`](/cells/python-net/ar/aspose.cells/conditionalformattingicon)

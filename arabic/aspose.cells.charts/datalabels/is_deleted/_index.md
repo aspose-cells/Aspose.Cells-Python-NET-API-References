@@ -1,15 +1,15 @@
 ---
-title: is_deleted الملكية
+title: is_deleted عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 280
 url: /ar/aspose.cells.charts/datalabels/is_deleted/
 is_root: false
 ---
-##  is_deleted الملكية
+##  is_deleted عقار
 
-يشير إلى ما إذا تم حذف تسميات البيانات هذه.
+يشير إلى ما إذا كان سيتم حذف علامات البيانات هذه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

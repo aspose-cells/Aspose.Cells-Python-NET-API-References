@@ -3,13 +3,13 @@ title: is_multi_encoded属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 200
 url: /zh/aspose.cells/txtloadoptions/is_multi_encoded/
 is_root: false
 ---
 ## is_multi_encoded属性
 
-True 表示该文件包含多种编码。
+True 表示文件包含几种编码。
 ### 定义：
 ```python
 @property

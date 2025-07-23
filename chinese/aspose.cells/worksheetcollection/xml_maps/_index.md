@@ -3,13 +3,13 @@ title: xml_maps属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 390
+weight: 420
 url: /zh/aspose.cells/worksheetcollection/xml_maps/
 is_root: false
 ---
 ## xml_maps属性
 
-获取和设置工作簿中的 XML 映射。
+获取并设置工作簿中的 XML 映射。
 ### 定义：
 ```python
 @property

@@ -3,13 +3,13 @@ title: is_refresh_all_connections عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 330
 url: /ar/aspose.cells/worksheetcollection/is_refresh_all_connections/
 is_root: false
 ---
 ##  is_refresh_all_connections عقار
 
-يشير إلى ما إذا كان سيتم تحديث جميع الاتصالات عند فتح الملف في MS Excel.
+يشير إلى ما إذا كان سيتم تحديث كافة الاتصالات عند فتح الملف في MS Excel.
 ###  تعريف:
 ```python
 @property

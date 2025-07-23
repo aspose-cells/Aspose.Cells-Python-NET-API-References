@@ -1,15 +1,15 @@
 ---
-title: pivot_table_style_name الملكية
+title: pivot_table_style_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 740
+weight: 850
 url: /ar/aspose.cells.pivot/pivottable/pivot_table_style_name/
 is_root: false
 ---
-##  pivot_table_style_name الملكية
+##  pivot_table_style_name عقار
 
-الحصول على اسم النمط المحوري وتعيينه.
+يحصل على اسم نمط الجدول المحوري ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def pivot_table_style_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

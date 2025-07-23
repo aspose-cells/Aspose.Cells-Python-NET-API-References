@@ -1,5 +1,5 @@
 ---
-title: max الملكية
+title: max عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 170
 url: /ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/max/
 is_root: false
 ---
-##  max الملكية
+##  max عقار
 
-الحصول على الحد الأقصى للقيمة المقبولة وتعيينها.
+يحصل على الحد الأقصى للقيمة المقبولة ويحددها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def max(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ScrollBarActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ScrollBarActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

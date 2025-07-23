@@ -3,17 +3,17 @@ title: is_numeric_value属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 620
+weight: 650
 url: /zh/aspose.cells/cell/is_numeric_value/
 is_root: false
 ---
 ## is_numeric_value属性
 
-指示该单元格的值是否为数字（int、double 和 datetime）
+指示此单元格的值是否为数字（int、double 和 datetime）
 
-### 评论
+### 注意事项
 
-也适用于公式单元格以检查计算结果
+也适用于公式单元格检查计算结果
 ### 定义：
 ```python
 @property

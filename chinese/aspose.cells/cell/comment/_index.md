@@ -3,15 +3,15 @@ title: comment属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 420
+weight: 430
 url: /zh/aspose.cells/cell/comment/
 is_root: false
 ---
 ## comment属性
 
-获取该单元格的comment。
+获取此单元格的 comment。
 
-### 评论
+### 注意事项
 
 如果没有 comment 适用于该单元格，则返回 null。
 ### 定义：

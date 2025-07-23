@@ -1,13 +1,13 @@
 ---
-title: title_style 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: title_style属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 120
 url: /zh/aspose.cells.utility/jsonlayoutoptions/title_style/
 is_root: false
 ---
-## title_style 属性
+## title_style属性
 
 获取和设置标题的样式。
 ### 定义：
@@ -21,6 +21,6 @@ def title_style(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.utility](../../)
-* 类 [JsonLayoutOptions](/cells/python-net/zh/aspose.cells.utility/jsonlayoutoptions)
-* 类 [Style](/cells/python-net/zh/aspose.cells/style)
+* 模块[`aspose.cells.utility`](../../)
+* 类 [`JsonLayoutOptions`](/cells/python-net/zh/aspose.cells.utility/jsonlayoutoptions)
+* 类 [`Style`](/cells/python-net/zh/aspose.cells/style)

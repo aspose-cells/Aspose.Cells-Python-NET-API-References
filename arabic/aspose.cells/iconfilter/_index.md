@@ -3,7 +3,7 @@ title: IconFilter صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 930
+weight: 840
 url: /ar/aspose.cells/iconfilter/
 is_root: false
 ---
@@ -17,8 +17,8 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [icon_set_type](/cells/python-net/ar/aspose.cells/iconfilter/icon_set_type) | الحصول على مجموعة الرموز المستخدمة في معايير التصفية وتعيينها.|
-| [icon_id](/cells/python-net/ar/aspose.cells/iconfilter/icon_id) | الحصول على فهرس يستند إلى الصفر لرمز في مجموعة أيقونات وتعيينه.|
+| [icon_set_type](/cells/python-net/ar/aspose.cells/iconfilter/icon_set_type) | يحصل على مجموعة الأيقونات التي سيتم استخدامها في معايير التصفية ويحددها.|
+| [icon_id](/cells/python-net/ar/aspose.cells/iconfilter/icon_id) | يحصل على فهرس قائم على الصفر لأيقونة في مجموعة أيقونات ويقوم بتعيينه.|
 
 
 

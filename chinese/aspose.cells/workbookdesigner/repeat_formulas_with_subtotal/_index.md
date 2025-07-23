@@ -9,7 +9,7 @@ is_root: false
 ---
 ## repeat_formulas_with_subtotal属性
 
-指示是否与小计行重复公式。
+指示是否重复带有小计行的公式。
 ### 定义：
 ```python
 @property

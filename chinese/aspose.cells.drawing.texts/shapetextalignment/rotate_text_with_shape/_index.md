@@ -1,15 +1,15 @@
 ---
-title: rotate_text_with_shape 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: rotate_text_with_shape属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 100
+weight: 110
 url: /zh/aspose.cells.drawing.texts/shapetextalignment/rotate_text_with_shape/
 is_root: false
 ---
-## rotate_text_with_shape 属性
+## rotate_text_with_shape属性
 
-指示是否旋转带有形状的文本。
+指示是否旋转具有形状的文本。
 
 ### 例子
 
@@ -29,5 +29,5 @@ def rotate_text_with_shape(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](../../)
-* 类 [ShapeTextAlignment](/cells/python-net/zh/aspose.cells.drawing.texts/shapetextalignment)
+* 模块[`aspose.cells.drawing.texts`](../../)
+* 类 [`ShapeTextAlignment`](/cells/python-net/zh/aspose.cells.drawing.texts/shapetextalignment)

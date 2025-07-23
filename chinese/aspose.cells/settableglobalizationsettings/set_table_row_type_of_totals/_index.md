@@ -7,12 +7,13 @@ weight: 440
 url: /zh/aspose.cells/settableglobalizationsettings/set_table_row_type_of_totals/
 is_root: false
 ---
-##  set_table_row_type_of_totals {#str}
+##  set_table_row_type_of_totals(self, name) {#str}
 设置由引用表的总行组成的表行的类型名称。
 
 
 
 ```python
+
 def set_table_row_type_of_totals(self, name):
     ...
 ```

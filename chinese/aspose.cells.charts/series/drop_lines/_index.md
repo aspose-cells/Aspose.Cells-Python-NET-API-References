@@ -9,7 +9,7 @@ is_root: false
 ---
 ## drop_lines属性
 
-返回一个 [`Line`](/cells/python-net/zh/aspose.cells.drawing/line) 对象，该对象表示折线图或面积图上系列的下降线。
+返回一个 [`Line`](/cells/python-net/zh/aspose.cells.drawing/line) 对象，该对象代表折线图或面积图上一系列的下拉线。
 仅适用于折线图或面积图。
 ### 定义：
 ```python

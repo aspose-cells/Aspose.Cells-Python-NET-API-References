@@ -1,15 +1,22 @@
 ---
-title: top_pixel الملكية
+title: top_pixel عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ar/aspose.cells.slicers/slicer/top_pixel/
 is_root: false
 ---
-##  top_pixel الملكية
+##  top_pixel عقار
 
-إرجاع أو تعيين الإزاحة الرأسية لشكل مقسم طريقة العرض من صفها العلوي بالبكسل.
+إرجاع أو تعيين الإزاحة الرأسية لشكل المقطع من الصف العلوي، بالبكسل.
+
+###  ملاحظات
+
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+ الرجاء استخدام خاصية Shape.Top.
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ مايو 2025.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 ###  مثال
 
@@ -29,5 +36,5 @@ def top_pixel(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

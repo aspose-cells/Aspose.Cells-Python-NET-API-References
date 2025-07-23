@@ -1,5 +1,5 @@
 ---
-title: DocumentProperty الدرجة
+title: DocumentProperty صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,33 +7,33 @@ weight: 70
 url: /ar/aspose.cells.properties/documentproperty/
 is_root: false
 ---
-##  DocumentProperty الدرجة
+##  DocumentProperty صف
 يمثل خاصية مستند مخصصة أو مضمنة.
 
 
 
-يكشف نوع DocumentProperty الأعضاء التالية:
+يكشف النوع DocumentProperty عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [name](/cells/python-net/ar/aspose.cells.properties/documentproperty/name) | يُرجع اسم الخاصية.|
-| [value](/cells/python-net/ar/aspose.cells.properties/documentproperty/value) | الحصول على أو تحديد قيمة الممتلكات.|
+| [name](/cells/python-net/ar/aspose.cells.properties/documentproperty/name) | إرجاع اسم الخاصية.|
+| [value](/cells/python-net/ar/aspose.cells.properties/documentproperty/value) | يحصل على قيمة الخاصية أو يعينها.|
 | [is_linked_to_content](/cells/python-net/ar/aspose.cells.properties/documentproperty/is_linked_to_content) | يشير إلى ما إذا كانت هذه الخاصية مرتبطة بالمحتوى|
 | [source](/cells/python-net/ar/aspose.cells.properties/documentproperty/source) | مصدر المحتوى المرتبط.|
 | [type](/cells/python-net/ar/aspose.cells.properties/documentproperty/type) | يحصل على نوع بيانات الخاصية.|
-| [is_generated_name](/cells/python-net/ar/aspose.cells.properties/documentproperty/is_generated_name) | إرجاع صحيح إذا لم يكن لهذه الخاصية اسم في تخزين OLE2<br/> وتم إنشاء اسم فريد للجمهور API فقط.|
+| [is_generated_name](/cells/python-net/ar/aspose.cells.properties/documentproperty/is_generated_name) |يعود صحيحًا إذا لم يكن لهذه الخاصية اسم في وحدة تخزين OLE2<br/> وتم إنشاء اسم فريد فقط للعامة API.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [to_int()](/cells/python-net/ar/aspose.cells.properties/documentproperty/to_int/#) | ترجع قيمة الخاصية كعدد صحيح.|
-| [to_double()](/cells/python-net/ar/aspose.cells.properties/documentproperty/to_double/#) |ترجع قيمة الخاصية كمضاعفة.|
-| [to_date_time()](/cells/python-net/ar/aspose.cells.properties/documentproperty/to_date_time/#) | تُرجع قيمة الخاصية كـ DateTime في المنطقة الزمنية المحلية.|
-| [to_bool()](/cells/python-net/ar/aspose.cells.properties/documentproperty/to_bool/#) | ترجع قيمة الخاصية على هيئة منطقي.|
+| [`to_int(self)`](/cells/python-net/ar/aspose.cells.properties/documentproperty/to_int/#) | إرجاع قيمة الخاصية كعدد صحيح.|
+| [`to_double(self)`](/cells/python-net/ar/aspose.cells.properties/documentproperty/to_double/#) | إرجاع قيمة الخاصية على هيئة double.|
+| [`to_date_time(self)`](/cells/python-net/ar/aspose.cells.properties/documentproperty/to_date_time/#) | يقوم بإرجاع قيمة الخاصية كـ DateTime في المنطقة الزمنية المحلية.|
+| [`to_bool(self)`](/cells/python-net/ar/aspose.cells.properties/documentproperty/to_bool/#) | إرجاع قيمة الخاصية كقيمة منطقية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](..)
+* الوحدة [`aspose.cells.properties`](..)

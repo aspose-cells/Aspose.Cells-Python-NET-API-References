@@ -3,7 +3,7 @@ title: bool_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 410
 url: /ar/aspose.cells/cell/bool_value/
 is_root: false
 ---

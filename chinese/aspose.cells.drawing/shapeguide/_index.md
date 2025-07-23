@@ -1,26 +1,26 @@
 ---
 title: ShapeGuide类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 550
+weight: 520
 url: /zh/aspose.cells.drawing/shapeguide/
 is_root: false
 ---
 ## ShapeGuide类
-封装形状指南指定形状指南的存在，该形状指南将用于
+封装形状指南指定将用于的形状指南的存在
 控制指定形状的几何形状
 
 
 
-**继承：** [ShapeGuide](/cells/python-net/aspose.cells.drawing/shapeguide) → 
-[BaseShapeGuide](/cells/python-net/zh/aspose.cells.drawing/baseshapeguide)
+**继承：** [`ShapeGuide`](/cells/python-net/aspose.cells.drawing/shapeguide) → 
+[`BaseShapeGuide`](/cells/python-net/zh/aspose.cells.drawing/baseshapeguide)
 
 
 
-ShapeGuide 类型公开了以下成员：
+ShapeGuide 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [value](/cells/python-net/zh/aspose.cells.drawing/shapeguide/value) |获取或设置本指南的值|
@@ -28,6 +28,6 @@ ShapeGuide 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
-* 类 [BaseShapeGuide](/cells/python-net/zh/aspose.cells.drawing/baseshapeguide)
-* 类 [ShapeGuide](/cells/python-net/zh/aspose.cells.drawing/shapeguide)
+* 模块[`aspose.cells.drawing`](..)
+* 类 [`BaseShapeGuide`](/cells/python-net/zh/aspose.cells.drawing/baseshapeguide)
+* 类 [`ShapeGuide`](/cells/python-net/zh/aspose.cells.drawing/shapeguide)

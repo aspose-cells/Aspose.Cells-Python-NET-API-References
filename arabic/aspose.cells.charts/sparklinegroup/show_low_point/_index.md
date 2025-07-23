@@ -1,5 +1,5 @@
 ---
-title: show_low_point الملكية
+title: show_low_point عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 220
 url: /ar/aspose.cells.charts/sparklinegroup/show_low_point/
 is_root: false
 ---
-##  show_low_point الملكية
+##  show_low_point عقار
 
-يشير إلى ما إذا كان سيتم تمييز أدنى نقاط البيانات في مجموعة خط المؤشر أم لا.
+يشير إلى ما إذا كان سيتم تسليط الضوء على أدنى نقاط البيانات في مجموعة المخطط الشريطي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_low_point(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [SparklineGroup](/cells/python-net/ar/aspose.cells.charts/sparklinegroup)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`SparklineGroup`](/cells/python-net/ar/aspose.cells.charts/sparklinegroup)

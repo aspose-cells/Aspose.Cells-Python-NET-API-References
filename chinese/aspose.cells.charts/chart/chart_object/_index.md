@@ -1,15 +1,15 @@
 ---
-title: chart_object 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: chart_object属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 230
 url: /zh/aspose.cells.charts/chart/chart_object/
 is_root: false
 ---
-## chart_object 属性
+## chart_object属性
 
-代表图表形状；
+表示图表形状；
 ### 定义：
 ```python
 @property
@@ -18,6 +18,6 @@ def chart_object(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Chart](/cells/python-net/zh/aspose.cells.charts/chart)
-* 类 [ChartShape](/cells/python-net/zh/aspose.cells.drawing/chartshape)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Chart`](/cells/python-net/zh/aspose.cells.charts/chart)
+* 类 [`ChartShape`](/cells/python-net/zh/aspose.cells.drawing/chartshape)

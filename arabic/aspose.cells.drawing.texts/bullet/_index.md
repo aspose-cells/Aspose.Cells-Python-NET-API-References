@@ -8,7 +8,7 @@ url: /ar/aspose.cells.drawing.texts/bullet/
 is_root: false
 ---
 ##  Bullet صف
-يمثل النقاط النقطية التي يجب تطبيقها على الفقرة.
+تمثل النقاط الأساسية التي ينبغي تطبيقها على الفقرة.
 
 
 
@@ -17,9 +17,8 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [bullet_value](/cells/python-net/ar/aspose.cells.drawing.texts/bullet/bullet_value) | يحصل على قيمة الرصاصة.|
-| [type](/cells/python-net/ar/aspose.cells.drawing.texts/bullet/type) | يحصل ويحدد نوع الرصاصة.|
-| [font_name](/cells/python-net/ar/aspose.cells.drawing.texts/bullet/font_name) | الحصول على وتعيين اسم الخط.|
+| [type](/cells/python-net/ar/aspose.cells.drawing.texts/bullet/type) | يحصل على نوع الرصاصة ويحدده.|
+| [font_name](/cells/python-net/ar/aspose.cells.drawing.texts/bullet/font_name) | احصل على اسم الخط وحدده.|
 
 
 

@@ -1,22 +1,23 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/worksheetcollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 将工作表添加到集合中。
 
 
 ### 返回
 
-[Worksheet](/cells/python-net/zh/aspose.cells/worksheet) 对象索引。
+[`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet) 对象索引。
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -24,16 +25,17 @@ def add(self):
 
 
 
-##  add(type) {#SheetType}
+##  add(self, type) {#aspose.cells.SheetType}
 将工作表添加到集合中。
 
 
 ### 返回
 
-[Worksheet](/cells/python-net/zh/aspose.cells/worksheet) 对象索引。
+[`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet) 对象索引。
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -41,7 +43,7 @@ def add(self, type):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| type | [SheetType](/cells/python-net/zh/aspose.cells/sheettype) |工作表类型。|
+| type | [`SheetType`](/cells/python-net/zh/aspose.cells/sheettype) |工作表类型。|
 
 ### 例子
 
@@ -65,16 +67,17 @@ chart.n_series.add("Sheet1!C2:C6", True)
 ```
 
 
-##  add(sheet_name) {#str}
+##  add(self, sheet_name) {#str}
 将工作表添加到集合中。
 
 
 ### 返回
 
-[Worksheet](/cells/python-net/zh/aspose.cells/worksheet) 对象。
+[`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet) 对象。
 
 
 ```python
+
 def add(self, sheet_name):
     ...
 ```
@@ -87,6 +90,6 @@ def add(self, sheet_name):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Worksheet](/cells/python-net/zh/aspose.cells/worksheet)
-* 类 [WorksheetCollection](/cells/python-net/zh/aspose.cells/worksheetcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`Worksheet`](/cells/python-net/zh/aspose.cells/worksheet)
+* 类 [`WorksheetCollection`](/cells/python-net/zh/aspose.cells/worksheetcollection)

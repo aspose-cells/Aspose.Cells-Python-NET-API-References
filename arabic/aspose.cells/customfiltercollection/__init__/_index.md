@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
-##  __فيه__ {#}
-يبني مثيل جديد.
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

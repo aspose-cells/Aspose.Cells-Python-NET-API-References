@@ -1,15 +1,15 @@
 ---
-title: sort_names 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: sort_names属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 220
 url: /zh/aspose.cells/txtsaveoptions/sort_names/
 is_root: false
 ---
-## sort_names 属性
+## sort_names属性
 
-指示是否在保存文件之前对定义的名称进行排序。
+表示在保存文件之前是否对定义的名称进行排序。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def sort_names(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [TxtSaveOptions](/cells/python-net/zh/aspose.cells/txtsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`TxtSaveOptions`](/cells/python-net/zh/aspose.cells/txtsaveoptions)

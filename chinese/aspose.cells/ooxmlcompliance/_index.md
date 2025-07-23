@@ -3,7 +3,7 @@ title: OoxmlCompliance枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2360
+weight: 2330
 url: /zh/aspose.cells/ooxmlcompliance/
 is_root: false
 ---
@@ -14,10 +14,10 @@ is_root: false
 
 OoxmlCompliance 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| ECMA_376_2006 | ECMA-376 第一版，2006 年。|
+| ECMA_376_2006 | ECMA-376 第 1 版，2006 年。|
 | ISO_29500_2008_STRICT | ISO/IEC 29500:2008 严格合规级别。|
 
 

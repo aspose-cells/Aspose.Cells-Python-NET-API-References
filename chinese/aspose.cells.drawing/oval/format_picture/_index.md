@@ -9,7 +9,7 @@ is_root: false
 ---
 ## format_picture属性
 
-获取和设置图片格式选项。
+获取和设置图片格式的选项。
 
 ### 例子
 

@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells/workbookdesigner/get_smart_markers/
 is_root: false
 ---
-##  get_smart_markers() {#}
+##  get_smart_markers(self) {#}
 إرجاع مجموعة من العلامات الذكية في جدول بيانات.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_smart_markers(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_smart_markers(self):
 
 ###  ملاحظات
 
-يتم إنشاء مجموعة سلسلة في كل مكالمة. يتم فرز المصفوفة وإزالة القيم المكررة.
+يتم إنشاء مصفوفة نصية عند كل استدعاء. يتم فرز المصفوفة وإزالة القيم المكررة.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookDesigner](/cells/python-net/ar/aspose.cells/workbookdesigner)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookDesigner`](/cells/python-net/ar/aspose.cells/workbookdesigner)

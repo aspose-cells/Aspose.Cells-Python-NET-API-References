@@ -1,13 +1,13 @@
 ---
-title: resource_loading_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: resource_loading_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells/streamprovideroptions/resource_loading_type/
 is_root: false
 ---
-## resource_loading_type 属性
+## resource_loading_type属性
 
 获取和设置加载资源的类型。
 ### 定义：
@@ -21,6 +21,6 @@ def resource_loading_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ResourceLoadingType](/cells/python-net/zh/aspose.cells/resourceloadingtype)
-* 类 [StreamProviderOptions](/cells/python-net/zh/aspose.cells/streamprovideroptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`ResourceLoadingType`](/cells/python-net/zh/aspose.cells/resourceloadingtype)
+* 类 [`StreamProviderOptions`](/cells/python-net/zh/aspose.cells/streamprovideroptions)

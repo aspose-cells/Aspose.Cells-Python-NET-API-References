@@ -1,18 +1,18 @@
 ---
-title: العد LightRigDirectionType
+title: LightRigDirectionType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 910
+weight: 900
 url: /ar/aspose.cells.drawing/lightrigdirectiontype/
 is_root: false
 ---
-##  العد LightRigDirectionType
-يمثل نوع اتجاه منصة الحفر الخفيفة.
+##  LightRigDirectionType التعداد
+يمثل نوع اتجاه منصة الضوء.
 
 
 
-يكشف نوع LightRigDirectionType الأعضاء التالية:
+يكشف النوع LightRigDirectionType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -24,9 +24,9 @@ is_root: false
 | RIGHT | يمين.|
 | TOP | قمة.|
 | TOP_LEFT | أعلى اليسار.|
-| TOP_RIGHT | اعلى اليمين.|
+| TOP_RIGHT | أعلى اليمين.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

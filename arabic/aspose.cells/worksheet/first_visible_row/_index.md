@@ -3,13 +3,13 @@ title: first_visible_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 510
+weight: 530
 url: /ar/aspose.cells/worksheet/first_visible_row/
 is_root: false
 ---
 ##  first_visible_row عقار
 
-يمثل فهرس الصف المرئي الأول.
+يمثل أول مؤشر صف مرئي.
 ###  تعريف:
 ```python
 @property

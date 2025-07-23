@@ -7,8 +7,8 @@ weight: 140
 url: /ar/aspose.cells/cell/get_height_of_value/
 is_root: false
 ---
-##  get_height_of_value() {#}
-الحصول على ارتفاع القيمة بوحدة البكسل.
+##  get_height_of_value(self) {#}
+يحصل على ارتفاع القيمة بوحدة البكسل.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_height_of_value(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_height_of_value(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

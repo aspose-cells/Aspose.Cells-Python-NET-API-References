@@ -3,12 +3,12 @@ title: XmlDataBinding صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1750
+weight: 1650
 url: /ar/aspose.cells/xmldatabinding/
 is_root: false
 ---
 ##  XmlDataBinding صف
-يمثل معلومات ربط بيانات Xml.
+يمثل معلومات ربط بيانات XML.
 
 
 

@@ -3,16 +3,17 @@ title: hide_item_detail方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 170
 url: /zh/aspose.cells.pivot/pivotfield/hide_item_detail/
 is_root: false
 ---
-##  hide_item_detail {#int-bool}
-设置数据透视字段中的特定数据透视项是否隐藏详细信息。
+##  hide_item_detail(self, index, is_hidden_detail) {#int-bool}
+设置数据透视字段中的特定 PivotItem 是否隐藏详细信息。
 
 
 
 ```python
+
 def hide_item_detail(self, index, is_hidden_detail):
     ...
 ```
@@ -20,8 +21,8 @@ def hide_item_detail(self, index, is_hidden_detail):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| index | int |数据透视项在数据透视字段中的索引。|
-| is_hidden_detail | bool |特定的 PivotItem 是否隐藏|
+| index | int |枢轴字段 (pivotField) 中枢轴项 (pivotItem) 的索引。|
+| is_hidden_detail | bool |特定的 PivotItem 是否被隐藏|
 
 
 

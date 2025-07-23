@@ -3,12 +3,12 @@ title: CellWatch صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 140
 url: /ar/aspose.cells/cellwatch/
 is_root: false
 ---
 ##  CellWatch صف
-يمثل Cell عنصر الساعة في "نافذة الساعة".
+يمثل عنصر المراقبة Cell في "نافذة المراقبة".
 
 
 
@@ -17,15 +17,15 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/cellwatch/__init__/#) |إنشاء مثيل جديد لـ CellWatch|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/cellwatch/__init__/#) | إنشاء مثيل جديد لـ CellWatch|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [row](/cells/python-net/ar/aspose.cells/cellwatch/row) | الحصول على صف الخلية وتعيينه.|
-| [column](/cells/python-net/ar/aspose.cells/cellwatch/column) | الحصول على عمود الخلية وتعيينه.|
-| [cell_name](/cells/python-net/ar/aspose.cells/cellwatch/cell_name) | الحصول على اسم الخلية وتعيينه.|
+| [row](/cells/python-net/ar/aspose.cells/cellwatch/row) | يحصل على صف الخلية ويحدده.|
+| [column](/cells/python-net/ar/aspose.cells/cellwatch/column) | يحصل على عمود الخلية ويحدده.|
+| [cell_name](/cells/python-net/ar/aspose.cells/cellwatch/cell_name) | يحصل على اسم الخلية ويحدده.|
 
 
 

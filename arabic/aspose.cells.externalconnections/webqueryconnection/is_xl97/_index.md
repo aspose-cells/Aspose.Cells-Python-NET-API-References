@@ -1,15 +1,15 @@
 ---
-title: is_xl97 الملكية
+title: is_xl97 عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 250
 url: /ar/aspose.cells.externalconnections/webqueryconnection/is_xl97/
 is_root: false
 ---
-##  is_xl97 الملكية
+##  is_xl97 عقار
 
-توجد هذه العلامة للتوافق مع ملفات جداول البيانات الحالية القديمة ، وتم تعيينها
+تم إنشاء هذا العلم للتوافق مع ملفات جداول البيانات القديمة الموجودة، وتم تعيينه
 إلى true إذا تم إنشاء استعلام الويب هذا في Microsoft Excel 97.
 هذه سمة اختيارية يمكن تجاهلها.
 ###  تعريف:
@@ -23,5 +23,5 @@ def is_xl97(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

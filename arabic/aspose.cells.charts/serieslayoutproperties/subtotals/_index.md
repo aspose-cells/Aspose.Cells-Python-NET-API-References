@@ -1,15 +1,15 @@
 ---
-title: subtotals الملكية
+title: subtotals عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ar/aspose.cells.charts/serieslayoutproperties/subtotals/
 is_root: false
 ---
-##  subtotals الملكية
+##  subtotals عقار
 
-يمثل فهرس نقطة بيانات المجموع الفرعي.
+يمثل مؤشر نقطة بيانات المجموع الفرعي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def subtotals(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [SeriesLayoutProperties](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`SeriesLayoutProperties`](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)

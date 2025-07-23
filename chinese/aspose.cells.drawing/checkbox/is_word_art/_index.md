@@ -3,17 +3,17 @@ title: is_word_art属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 680
+weight: 690
 url: /zh/aspose.cells.drawing/checkbox/is_word_art/
 is_root: false
 ---
 ## is_word_art属性
 
-指示该形状是否为艺术字。
+指示此形状是否为艺术字。
 
-### 评论
+### 注意事项
 
-仅适用于 xls 文件的旧形状。
+仅适用于 xls 文件的旧式形状。
 
 ### 例子
 

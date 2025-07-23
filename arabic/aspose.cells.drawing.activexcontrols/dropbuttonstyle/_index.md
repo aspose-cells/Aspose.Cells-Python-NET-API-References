@@ -1,28 +1,28 @@
 ---
-title: العد DropButtonStyle
+title: DropButtonStyle التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 260
 url: /ar/aspose.cells.drawing.activexcontrols/dropbuttonstyle/
 is_root: false
 ---
-##  العد DropButtonStyle
+##  DropButtonStyle التعداد
 يمثل الرمز المعروض على زر الإسقاط.
 
 
 
-يكشف نوع DropButtonStyle الأعضاء التالية:
+يكشف النوع DropButtonStyle عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| PLAIN | يعرض زر بدون رمز.|
-| ARROW | يعرض زر مع سهم لأسفل.|
-| ELLIPSIS | يعرض زرًا بعلامة حذف (...).|
-| REDUCE | يعرض زرًا بخط أفقي مثل حرف تسطير أسفل السطر.|
+| PLAIN | يعرض زرًا بدون رمز.|
+| ARROW | يعرض زرًا يحتوي على سهم لأسفل.|
+| ELLIPSIS | يعرض زرًا يحتوي على علامة حذف (...).|
+| REDUCE | يعرض زرًا بخط أفقي يشبه حرف الشرطة السفلية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

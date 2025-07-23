@@ -7,18 +7,18 @@ weight: 10
 url: /ar/aspose.cells.metadata/
 is_root: false
 ---
- ال**Aspose.Cells.Metadata** تحتوي مساحة الاسم على جميع فئات تحميل وحفظ البيانات الوصفية لجداول البيانات.
+ ال**Aspose.Cells.Metadata** تحتوي مساحة الاسم على جميع فئات تحميل وحفظ بيانات التعريف الخاصة بجداول البيانات.
 
 ###  الطبقات
 | فصل| وصف|
 | :- | :- |
-| [MetadataOptions](/cells/python-net/ar/aspose.cells.metadata/metadataoptions) | يمثل خيارات تحميل البيانات الوصفية للملف.|
-| [WorkbookMetadata](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata) | يمثل البيانات الوصفية.|
+| [`MetadataOptions`](/cells/python-net/ar/aspose.cells.metadata/metadataoptions) | يمثل خيارات تحميل البيانات الوصفية للملف.|
+| [`WorkbookMetadata`](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata) |يمثل البيانات الوصفية.|
 
 
-###  التعداد
-|تعداد| وصف|
+###  التعدادات
+| تعداد| وصف|
 | :- | :- |
-| [MetadataType](/cells/python-net/ar/aspose.cells.metadata/metadatatype) | يمثل نوع البيانات الوصفية.|
+| [`MetadataType`](/cells/python-net/ar/aspose.cells.metadata/metadatatype) | يمثل نوع البيانات الوصفية.|
 
 

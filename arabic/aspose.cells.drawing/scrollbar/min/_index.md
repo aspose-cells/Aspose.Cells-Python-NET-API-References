@@ -3,13 +3,13 @@ title: min عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 840
+weight: 850
 url: /ar/aspose.cells.drawing/scrollbar/min/
 is_root: false
 ---
 ##  min عقار
 
-الحصول على أو تعيين الحد الأدنى لقيمة شريط التمرير أو نطاق القرص الدوار.
+يحصل على الحد الأدنى لقيمة شريط التمرير أو نطاق الدوار أو يعينه.
 ###  تعريف:
 ```python
 @property

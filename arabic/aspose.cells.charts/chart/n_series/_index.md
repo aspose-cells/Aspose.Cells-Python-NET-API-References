@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  n_series عقار
 
-يحصل على مجموعة [`SeriesCollection`](/cells/python-net/ar/aspose.cells.charts/seriescollection) تمثل سلسلة البيانات في المخطط.
+يحصل على مجموعة [`SeriesCollection`](/cells/python-net/ar/aspose.cells.charts/seriescollection) تمثل سلسلة البيانات في الرسم البياني.
 ###  تعريف:
 ```python
 @property

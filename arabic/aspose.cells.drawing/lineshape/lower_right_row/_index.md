@@ -3,13 +3,13 @@ title: lower_right_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 840
+weight: 850
 url: /ar/aspose.cells.drawing/lineshape/lower_right_row/
 is_root: false
 ---
 ##  lower_right_row عقار
 
-يمثل مؤشر الصف السفلي الأيمن.
+يمثل مؤشر الصف الموجود في الزاوية اليمنى السفلية.
 
 ###  مثال
 

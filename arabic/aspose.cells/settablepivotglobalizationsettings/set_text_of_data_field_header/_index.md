@@ -3,16 +3,17 @@ title: طريقة set_text_of_data_field_header
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ar/aspose.cells/settablepivotglobalizationsettings/set_text_of_data_field_header/
 is_root: false
 ---
-##  set_text_of_data_field_header {#str}
-يقوم بتعيين نص رأس حقل منطقة القيمة في PivotTable.
+##  set_text_of_data_field_header(self, text) {#str}
+تعيين نص رأس حقل منطقة القيمة في الجدول المحوري.
 
 
 
 ```python
+
 def set_text_of_data_field_header(self, text):
     ...
 ```

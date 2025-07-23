@@ -1,5 +1,5 @@
 ---
-title: is_name_auto الملكية
+title: is_name_auto عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 230
 url: /ar/aspose.cells.charts/trendline/is_name_auto/
 is_root: false
 ---
-##  is_name_auto الملكية
+##  is_name_auto عقار
 
-إرجاع إذا قام Microsoft Excel بتحديد اسم خط الاتجاه تلقائيًا.
+يعود إذا كان Microsoft يحدد Excel تلقائيًا اسم خط الاتجاه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_name_auto(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline)

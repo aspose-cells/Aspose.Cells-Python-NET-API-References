@@ -7,8 +7,8 @@ weight: 50
 url: /ar/aspose.cells.charts/chart/get_chart_data_range/
 is_root: false
 ---
-##  get_chart_data_range() {#}
-يحصل على نطاق مصدر البيانات للمخطط.
+##  get_chart_data_range(self) {#}
+يحصل على نطاق مصدر البيانات للرسم البياني.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_chart_data_range(self):
     ...
 ```
@@ -29,5 +30,5 @@ def get_chart_data_range(self):
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

@@ -1,15 +1,15 @@
 ---
-title: column 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: column属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.revisions/revisioncellcomment/column/
 is_root: false
 ---
-## column 属性
+## column属性
 
-获取包含评论的 的 column 索引。
+获取包含注意事项的 column 索引。
 ### 定义：
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.revisions](../../)
-* 类 [RevisionCellComment](/cells/python-net/zh/aspose.cells.revisions/revisioncellcomment)
+* 模块[`aspose.cells.revisions`](../../)
+* 类 [`RevisionCellComment`](/cells/python-net/zh/aspose.cells.revisions/revisioncellcomment)

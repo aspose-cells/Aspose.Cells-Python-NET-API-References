@@ -3,13 +3,13 @@ title: show_compact属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 570
+weight: 670
 url: /zh/aspose.cells.pivot/pivotfield/show_compact/
 is_root: false
 ---
 ## show_compact属性
 
-指示是否显示数据透视表视图上同一列中下一个字段的标签
+指示是否在数据透视表视图中显示同一列中下一个字段的标签
 ### 定义：
 ```python
 @property

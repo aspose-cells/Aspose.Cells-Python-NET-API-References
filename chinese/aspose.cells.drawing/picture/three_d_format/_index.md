@@ -3,13 +3,13 @@ title: three_d_format属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1230
+weight: 1250
 url: /zh/aspose.cells.drawing/picture/three_d_format/
 is_root: false
 ---
 ## three_d_format属性
 
-获取和设置形状的 3d 格式。
+获取并设置形状的 3d 格式。
 
 ### 例子
 

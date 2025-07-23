@@ -1,15 +1,15 @@
 ---
-title: line_separator الملكية
+title: line_separator عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 130
 url: /ar/aspose.cells/markdownsaveoptions/line_separator/
 is_root: false
 ---
-##  line_separator الملكية
+##  line_separator عقار
 
-الحصول على فاصل الخط وتعيينه.
+يحصل على فاصل السطر ويضبطه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def line_separator(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [MarkdownSaveOptions](/cells/python-net/ar/aspose.cells/markdownsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`MarkdownSaveOptions`](/cells/python-net/ar/aspose.cells/markdownsaveoptions)

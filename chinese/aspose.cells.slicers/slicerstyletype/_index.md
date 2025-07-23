@@ -1,6 +1,6 @@
 ---
 title: SlicerStyleType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
@@ -12,28 +12,28 @@ is_root: false
 
 
 
-SlicerStyleType 类型公开了以下成员：
+SlicerStyleType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| SLICER_STYLE_LIGHT1 |内置灯样式一|
-| SLICER_STYLE_LIGHT2 |内置灯样式二|
-| SLICER_STYLE_LIGHT3 |内置灯样式三|
-| SLICER_STYLE_LIGHT4 |内置灯样式四|
-| SLICER_STYLE_LIGHT5 |内置灯样式五|
-| SLICER_STYLE_LIGHT6 |内置灯样式六|
-| SLICER_STYLE_OTHER1 |内置式另一个|
-| SLICER_STYLE_OTHER2 |内置样式另外两个|
-| SLICER_STYLE_DARK1 |内置深色风格一|
-| SLICER_STYLE_DARK2 |内置深色风格拖车|
-| SLICER_STYLE_DARK3 |内置深色风格三|
-| SLICER_STYLE_DARK4 |内置深色风格四|
-| SLICER_STYLE_DARK5 |内置深色风格五|
-| SLICER_STYLE_DARK6 |内置深色风格六|
-| CUSTOM |自定义样式，暂不支持|
+| SLICER_STYLE_LIGHT1 |内置灯款式一|
+| SLICER_STYLE_LIGHT2 |内置灯款式二|
+| SLICER_STYLE_LIGHT3 |内置灯款式三|
+| SLICER_STYLE_LIGHT4 |内置灯款式四|
+| SLICER_STYLE_LIGHT5 |内置灯款式五|
+| SLICER_STYLE_LIGHT6 |内置灯款式六|
+| SLICER_STYLE_OTHER1 |内置样式 另一个|
+| SLICER_STYLE_OTHER2 |内置式 其他两种|
+| SLICER_STYLE_DARK1 |内置暗色风格|
+| SLICER_STYLE_DARK2 |内置深色风格拖曳|
+| SLICER_STYLE_DARK3 |内置暗黑风格三|
+| SLICER_STYLE_DARK4 |内置暗色风格四|
+| SLICER_STYLE_DARK5 |内置暗黑风格五|
+| SLICER_STYLE_DARK6 |内置暗色风格六|
+| CUSTOM |用户自定义样式，暂不支持|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](..)
+* 模块[`aspose.cells.slicers`](..)

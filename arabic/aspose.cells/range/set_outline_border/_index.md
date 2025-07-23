@@ -3,16 +3,17 @@ title: طريقة set_outline_border
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 240
 url: /ar/aspose.cells/range/set_outline_border/
 is_root: false
 ---
-##  set_outline_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
-يعين حدودًا تفصيلية حول نطاق من الخلايا.
+##  set_outline_border(self, border_edge, border_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
+تعيين حدود تفصيلية حول نطاق من الخلايا.
 
 
 
 ```python
+
 def set_outline_border(self, border_edge, border_style, border_color):
     ...
 ```
@@ -25,12 +26,13 @@ def set_outline_border(self, border_edge, border_style, border_color):
 | border_color | [`CellsColor`](/cells/python-net/ar/aspose.cells/cellscolor) | لون الحدود.|
 
 
-##  set_outline_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
-يعين حدودًا تفصيلية حول نطاق من الخلايا.
+##  set_outline_border(self, border_edge, border_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
+تعيين حدود تفصيلية حول نطاق من الخلايا.
 
 
 
 ```python
+
 def set_outline_border(self, border_edge, border_style, border_color):
     ...
 ```

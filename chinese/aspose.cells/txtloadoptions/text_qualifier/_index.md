@@ -3,17 +3,17 @@ title: text_qualifier属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 420
+weight: 400
 url: /zh/aspose.cells/txtloadoptions/text_qualifier/
 is_root: false
 ---
 ## text_qualifier属性
 
-指定单元格值的文本限定符。默认限定符是“”。
+指定单元格值的文本限定符。默认限定符为“"”。
 
-### 评论
+### 注意事项
 
-当设置该属性时，[`TxtLoadOptions.has_text_qualifier`](/cells/python-net/zh/aspose.cells/txtloadoptions#has_text_qualifier)将自动变为true。
+设置此属性时，[`TxtLoadOptions.has_text_qualifier`](/cells/python-net/zh/aspose.cells/txtloadoptions#has_text_qualifier) 将自动变为真。
 ### 定义：
 ```python
 @property

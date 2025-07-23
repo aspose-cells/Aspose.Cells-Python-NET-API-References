@@ -1,5 +1,5 @@
 ---
-title: text الملكية
+title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 100
 url: /ar/aspose.cells.drawing/texteffectformat/text/
 is_root: false
 ---
-##  text الملكية
+##  text عقار
 
 text في WordArt.
 ###  تعريف:
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [TextEffectFormat](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`TextEffectFormat`](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)

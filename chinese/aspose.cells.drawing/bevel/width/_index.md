@@ -1,15 +1,15 @@
 ---
-title: width 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: width属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.drawing/bevel/width/
 is_root: false
 ---
-## width 属性
+## width属性
 
-获取并设置斜面的 width，或者它应用到形状中的深度。
+获取并设置斜面的 width，或者它应用到形状的深度。
 以点为单位。
 ### 定义：
 ```python
@@ -22,5 +22,5 @@ def width(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Bevel](/cells/python-net/zh/aspose.cells.drawing/bevel)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Bevel`](/cells/python-net/zh/aspose.cells.drawing/bevel)

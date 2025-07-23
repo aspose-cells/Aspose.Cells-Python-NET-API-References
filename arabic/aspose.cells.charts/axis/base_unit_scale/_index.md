@@ -13,7 +13,7 @@ is_root: false
 
 ###  ملاحظات
 
-يتم تفعيل تعيين هذه الخاصية فقط عند تعيين خاصية CategoryType على TimeScale.
+يصبح تعيين هذه الخاصية ساري المفعول فقط عندما يتم تعيين الخاصية CategoryType على TimeScale.
 ###  تعريف:
 ```python
 @property

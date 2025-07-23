@@ -3,13 +3,13 @@ title: background_image عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 400
 url: /ar/aspose.cells/worksheet/background_image/
 is_root: false
 ---
 ##  background_image عقار
 
-الحصول على صورة خلفية ورقة العمل وتعيينها.
+يحصل على صورة خلفية ورقة العمل ويعينها.
 ###  تعريف:
 ```python
 @property

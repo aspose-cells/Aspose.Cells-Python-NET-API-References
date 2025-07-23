@@ -9,7 +9,7 @@ is_root: false
 ---
 ## name属性
 
-获取和设置图表的name。
+获取并设置图表的name。
 ### 定义：
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: has_more_pages الملكية
+title: has_more_pages عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 30
 url: /ar/aspose.cells.rendering/pageendsavingargs/has_more_pages/
 is_root: false
 ---
-##  has_more_pages الملكية
+##  has_more_pages عقار
 
-الحصول على أو تحديد قيمة تشير إلى ما إذا كان سيتم إخراج المزيد من الصفحات أم لا.
-القيمة الافتراضية هي الحقيقية.
+يحصل على قيمة أو يعينها للإشارة إلى ما إذا كان هناك المزيد من الصفحات التي سيتم إخراجها.
+القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def has_more_pages(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [PageEndSavingArgs](/cells/python-net/ar/aspose.cells.rendering/pageendsavingargs)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`PageEndSavingArgs`](/cells/python-net/ar/aspose.cells.rendering/pageendsavingargs)

@@ -3,13 +3,13 @@ title: type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 730
+weight: 760
 url: /zh/aspose.cells/cell/type/
 is_root: false
 ---
 ## type属性
 
-代表单元格值 type。
+表示单元格值 type。
 ### 定义：
 ```python
 @property

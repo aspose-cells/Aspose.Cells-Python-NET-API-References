@@ -3,13 +3,11 @@ title: sort_names عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 310
 url: /ar/aspose.cells/xpssaveoptions/sort_names/
 is_root: false
 ---
 ##  sort_names عقار
-
-يشير إلى ما إذا كان سيتم فرز الأسماء المحددة قبل حفظ الملف.
 ###  تعريف:
 ```python
 @property

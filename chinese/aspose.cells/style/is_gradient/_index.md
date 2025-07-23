@@ -9,7 +9,7 @@ is_root: false
 ---
 ## is_gradient属性
 
-指示单元格底纹是否为渐变图案。
+指示单元格阴影是否为渐变图案。
 ### 定义：
 ```python
 @property

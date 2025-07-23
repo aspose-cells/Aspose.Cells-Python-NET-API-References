@@ -1,15 +1,15 @@
 ---
-title: is_html_tables الملكية
+title: is_html_tables عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 190
 url: /ar/aspose.cells.externalconnections/webqueryconnection/is_html_tables/
 is_root: false
 ---
-##  is_html_tables الملكية
+##  is_html_tables عقار
 
-إشارة تشير إلى ما إذا كان يجب أن تعمل استعلامات الويب على جداول HTML فقط.
+علم يشير إلى ما إذا كان ينبغي أن تعمل استعلامات الويب فقط على الجداول HTML.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_html_tables(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

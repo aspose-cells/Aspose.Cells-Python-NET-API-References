@@ -8,16 +8,16 @@ url: /zh/aspose.cells.charts/chartpointcollection/
 is_root: false
 ---
 ## ChartPointCollection类
-表示包含一个系列中所有点的集合。
+表示包含一个系列中的所有点的集合。
 
 
 
 ChartPointCollection 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [count](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/count) |获取图表点的计数。|
+| [count](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/count) |获取图表点的数量。|
 
 
 
@@ -31,9 +31,8 @@ ChartPointCollection 类型公开以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [get_enumerator](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/get_enumerator/#) |返回整个 [`ChartPointCollection`](/cells/python-net/zh/aspose.cells.charts/chartpointcollection) 的枚举数。|
-| [clear](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/clear/#) |删除图表点的所有设置。|
-| [remove_at](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/remove_at/#int) |删除系列索引处的点..|
+| [`clear(self)`](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/clear/#) |删除所有图表点的设置。|
+| [`remove_at(self, index)`](/cells/python-net/zh/aspose.cells.charts/chartpointcollection/remove_at/#int) |删除系列索引处的点。|
 
 
 
@@ -84,4 +83,3 @@ workbook.save("book1.xls")
 ### 也可以看看
 * 模块[`aspose.cells.charts`](..)
 * 类 [`ChartPoint`](/cells/python-net/zh/aspose.cells.charts/chartpoint)
-* 类 [`ChartPointCollection`](/cells/python-net/zh/aspose.cells.charts/chartpointcollection)

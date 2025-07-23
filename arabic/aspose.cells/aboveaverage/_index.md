@@ -1,5 +1,5 @@
 ---
-title: AboveAverage الدرجة
+title: AboveAverage صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,29 +7,29 @@ weight: 10
 url: /ar/aspose.cells/aboveaverage/
 is_root: false
 ---
-##  AboveAverage الدرجة
- صِف قاعدة التنسيق الشرطي AboveAverage.
-تبرز قاعدة التنسيق الشرطي هذه الخلايا التي
-تكون أعلى أو أقل من المتوسط لجميع القيم في النطاق.
+##  AboveAverage صف
+ وصف قاعدة التنسيق الشرطي AboveAverage.
+تسلط قاعدة التنسيق الشرطي هذه الضوء على الخلايا التي
+أعلى أو أقل من المتوسط لجميع القيم في النطاق.
 
 
 
-يكشف نوع AboveAverage الأعضاء التالية:
+يكشف النوع AboveAverage عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [AboveAverage()](/cells/python-net/ar/aspose.cells/aboveaverage/__init__/#) | ينشئ مثيلاً جديدًا من AboveAverage|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/aboveaverage/__init__/#) | إنشاء مثيل جديد لـ AboveAverage|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [is_above_average](/cells/python-net/ar/aspose.cells/aboveaverage/is_above_average) | احصل على العلامة أو عيّنها للإشارة إلى ما إذا كانت القاعدة قاعدة "أعلى من المتوسط".<br/>"صواب" يشير إلى "أعلى من المتوسط".<br/> القيمة الافتراضية صحيحة.|
-| [is_equal_average](/cells/python-net/ar/aspose.cells/aboveaverage/is_equal_average) | احصل على أو عيّن العلامة التي تشير إلى ما إذا كان المعيارين "aboveAverage" و "belowAverage"<br/> شاملًا للمتوسط نفسه ، أو غير شامل لتلك القيمة.<br/>صحيح "يشير إلى تضمين متوسط القيمة في المعايير.<br/> القيمة الافتراضية هي كاذبة.|
-| [std_dev](/cells/python-net/ar/aspose.cells/aboveaverage/std_dev) | احصل على أو عيّن عدد الانحرافات المعيارية لتضمينها أعلى أو أقل من المتوسط في<br/> قاعدة التنسيق الشرطي.<br/> يجب أن تتراوح قيمة الإدخال بين 0 و 3 (بما في ذلك 0 و 3).<br/>تعيين هذه القيمة على 0 يعني أنه لم يتم تعيين stdDev.<br/> القيمة الافتراضية هي 0.|
+| [is_above_average](/cells/python-net/ar/aspose.cells/aboveaverage/is_above_average) |احصل على أو قم بتعيين العلم الذي يشير إلى ما إذا كانت القاعدة "أعلى من المتوسط".<br/>يشير 'صحيح' إلى 'أعلى من المتوسط'.<br/> القيمة الافتراضية هي true.|
+| [is_equal_average](/cells/python-net/ar/aspose.cells/aboveaverage/is_equal_average) | احصل على أو قم بتعيين العلم الذي يشير إلى ما إذا كانت معايير "aboveAverage" و"belowAverage"<br/> يشمل المتوسط نفسه، أو لا يشمل تلك القيمة.<br/>يشير "true" إلى تضمين القيمة المتوسطة في المعايير.<br/> القيمة الافتراضية هي false.|
+| [std_dev](/cells/python-net/ar/aspose.cells/aboveaverage/std_dev) | احصل على أو حدد عدد الانحرافات المعيارية التي يجب تضمينها أعلى أو أسفل المتوسط في<br/> قاعدة التنسيق الشرطي.<br/> يجب أن تكون قيمة الإدخال بين 0 و3 (تتضمن 0 و3).<br/>تعيين هذه القيمة إلى 0 يعني أن stdDev غير مضبوط.<br/> القيمة الافتراضية هي 0.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -1,5 +1,5 @@
 ---
-title: paper_width الملكية
+title: paper_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 500
 url: /ar/aspose.cells/pagesetup/paper_width/
 is_root: false
 ---
-##  paper_width الملكية
+##  paper_width عقار
 
-الحصول على عرض الورق بوحدة البوصة ، مع مراعاة اتجاه الصفحة.
+يحصل على عرض الورقة بوحدة البوصة، مع الأخذ في الاعتبار اتجاه الصفحة.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def paper_width(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

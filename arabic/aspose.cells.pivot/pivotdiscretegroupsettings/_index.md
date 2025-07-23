@@ -3,16 +3,16 @@ title: PivotDiscreteGroupSettings صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 90
 url: /ar/aspose.cells.pivot/pivotdiscretegroupsettings/
 is_root: false
 ---
 ##  PivotDiscreteGroupSettings صف
-يمثل المجموعة المنفصلة من المجال المحوري
+يمثل المجموعة المنفصلة لحقل المحور
 
 
 
-**ميراث:** [`PivotDiscreteGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotdiscretegroupsettings) → 
+**الميراث:** [`PivotDiscreteGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotdiscretegroupsettings) → 
 [`PivotFieldGroupSettings`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldgroupsettings)
 
 
@@ -22,7 +22,7 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells.pivot/pivotdiscretegroupsettings/type) | الحصول على نوع المجموعة.|
+| [type](/cells/python-net/ar/aspose.cells.pivot/pivotdiscretegroupsettings/type) | يحصل على نوع المجموعة.|
 | [items](/cells/python-net/ar/aspose.cells.pivot/pivotdiscretegroupsettings/items) | يحصل على العناصر المنفصلة.|
 
 

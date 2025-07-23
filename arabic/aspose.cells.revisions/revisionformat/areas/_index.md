@@ -1,5 +1,5 @@
 ---
-title: areas الملكية
+title: areas عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells.revisions/revisionformat/areas/
 is_root: false
 ---
-##  areas الملكية
+##  areas عقار
 
 النطاق الذي تم تطبيق هذا التنسيق عليه.
 ###  تعريف:
@@ -18,5 +18,5 @@ def areas(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.revisions](../../)
-* فئة [RevisionFormat](/cells/python-net/ar/aspose.cells.revisions/revisionformat)
+* الوحدة [`aspose.cells.revisions`](../../)
+* فئة [`RevisionFormat`](/cells/python-net/ar/aspose.cells.revisions/revisionformat)

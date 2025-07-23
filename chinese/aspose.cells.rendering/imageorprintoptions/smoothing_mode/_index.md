@@ -9,7 +9,7 @@ is_root: false
 ---
 ## smoothing_mode属性
 
-指定是否将平滑（抗锯齿）应用于直线、曲线以及填充区域的边缘。
+指定是否对直线、曲线和填充区域的边缘应用平滑（抗锯齿）。
 默认值为 SmoothingMode.None
 ### 定义：
 ```python

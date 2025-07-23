@@ -1,19 +1,19 @@
 ---
-title: indent الملكية
+title: indent عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 160
 url: /ar/aspose.cells/jsonsaveoptions/indent/
 is_root: false
 ---
-##  indent الملكية
+##  indent عقار
 
 يشير إلى indent.
 
 ###  ملاحظات
 
-إذا كان indent فارغًا أو فارغًا ، فلن يتم تنسيق json المُصدَّر.
+إذا كان indent فارغًا أو فارغًا، فلن يتم تنسيق ملف json المُصدَّر.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def indent(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [JsonSaveOptions](/cells/python-net/ar/aspose.cells/jsonsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`JsonSaveOptions`](/cells/python-net/ar/aspose.cells/jsonsaveoptions)

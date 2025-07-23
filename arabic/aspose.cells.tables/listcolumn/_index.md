@@ -1,5 +1,5 @@
 ---
-title: ListColumn الدرجة
+title: ListColumn صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,29 +7,33 @@ weight: 10
 url: /ar/aspose.cells.tables/listcolumn/
 is_root: false
 ---
-##  ListColumn الدرجة
-يمثل عمودًا في قائمة.
+##  ListColumn صف
+يمثل عمودًا في جدول.
 
 
 
-يكشف نوع ListColumn الأعضاء التالية:
+يكشف النوع ListColumn عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [name](/cells/python-net/ar/aspose.cells.tables/listcolumn/name) | الحصول على اسم العمود وتعيينه.|
-| [totals_calculation](/cells/python-net/ar/aspose.cells.tables/listcolumn/totals_calculation) | الحصول على نوع الحساب وتعيينه في صف الإجماليات في عمود القائمة.|
+| [name](/cells/python-net/ar/aspose.cells.tables/listcolumn/name) | يحصل على اسم العمود ويحدده.|
+| [totals_calculation](/cells/python-net/ar/aspose.cells.tables/listcolumn/totals_calculation) | يحصل على نوع الحساب ويحدده في صف الإجماليات في عمود القائمة.|
 | [range](/cells/python-net/ar/aspose.cells.tables/listcolumn/range) | يحصل على نطاق عمود القائمة هذا.|
-| [formula](/cells/python-net/ar/aspose.cells.tables/listcolumn/formula) | الحصول على صيغة عمود القائمة وتعيينها.|
+| [is_array_formula](/cells/python-net/ar/aspose.cells.tables/listcolumn/is_array_formula) | يشير إلى ما إذا كانت الصيغة عبارة عن صيغة مصفوفة.|
+| [formula](/cells/python-net/ar/aspose.cells.tables/listcolumn/formula) | يحصل على صيغة عمود القائمة ويقوم بتعيينها.|
+| [totals_row_label](/cells/python-net/ar/aspose.cells.tables/listcolumn/totals_row_label) | يحصل على ويقوم بتعيين تسميات العرض للصف الإجمالي.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_custom_totals_row_formula(is_r1c1, is_local)](/cells/python-net/ar/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/#bool-bool) | يحصل على صيغة صف الإجماليات في عمود القائمة هذا.|
-| [set_custom_totals_row_formula(formula, is_r1c1, is_local)](/cells/python-net/ar/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#str-bool-bool) | يحصل على صيغة صف الإجماليات في عمود القائمة هذا.|
-| [get_custom_calculated_formula(is_r1c1, is_local)](/cells/python-net/ar/aspose.cells.tables/listcolumn/get_custom_calculated_formula/#bool-bool) | يحصل على صيغة عمود القائمة هذا.|
-| [set_custom_calculated_formula(formula, is_r1c1, is_local)](/cells/python-net/ar/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#str-bool-bool) | يعيّن صيغة عمود القائمة هذا.|
+| [`get_custom_totals_row_formula(self, is_r1c1, is_local)`](/cells/python-net/ar/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/#bool-bool) | يحصل على صيغة إجمالي صف عمود القائمة هذا.|
+| [`set_custom_totals_row_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/ar/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#str-bool-bool) | يحصل على صيغة إجمالي صف عمود القائمة هذا.|
+| [`get_custom_calculated_formula(self, is_r1c1, is_local)`](/cells/python-net/ar/aspose.cells.tables/listcolumn/get_custom_calculated_formula/#bool-bool) | يحصل على صيغة عمود القائمة هذا.|
+| [`set_custom_calculated_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/ar/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#str-bool-bool) | تعيين الصيغة لهذا العمود القائمة.|
+| [`get_data_style(self)`](/cells/python-net/ar/aspose.cells.tables/listcolumn/get_data_style/#) | يحصل على نمط البيانات في هذا العمود من الجدول.|
+| [`set_data_style(self, style)`](/cells/python-net/ar/aspose.cells.tables/listcolumn/set_data_style/#aspose.cells.style) | تعيين نمط البيانات في هذا العمود من الجدول.|
 
 
 
@@ -58,4 +62,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](..)
+* الوحدة [`aspose.cells.tables`](..)

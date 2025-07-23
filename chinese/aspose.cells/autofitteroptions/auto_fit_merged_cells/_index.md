@@ -1,23 +1,23 @@
 ---
-title: auto_fit_merged_cells 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: auto_fit_merged_cells属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells/autofitteroptions/auto_fit_merged_cells/
 is_root: false
 ---
-## auto_fit_merged_cells 属性
+## auto_fit_merged_cells属性
 
-指示当单元格合并成一行时是否自动调整行高。
-默认值为假。
+指示当单元格合并在一行时是否自动调整行高。
+默认值为 false。
 
-### 评论
+### 注意事项
 
-注意：该成员现已过时。反而，
+注意：此成员现已过时。取而代之的是
 请改用 AutoFitterOptions.AutoFitMergedCellsType 属性。
-自 2018 年 12 月起 12 个月后，此属性将被删除。
-Aspose 对您可能遇到的任何不便深表歉意。
+该房产将于 2018 年 12 月起 12 个月后被移除。
+Aspose 对于您所遇到的不便深表歉意。
 ### 定义：
 ```python
 @property
@@ -29,5 +29,5 @@ def auto_fit_merged_cells(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [AutoFitterOptions](/cells/python-net/zh/aspose.cells/autofitteroptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`AutoFitterOptions`](/cells/python-net/zh/aspose.cells/autofitteroptions)

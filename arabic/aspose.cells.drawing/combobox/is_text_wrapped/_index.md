@@ -3,13 +3,13 @@ title: is_text_wrapped عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 660
+weight: 670
 url: /ar/aspose.cells.drawing/combobox/is_text_wrapped/
 is_root: false
 ---
 ##  is_text_wrapped عقار
 
-الحصول على نوع النص الملتف للشكل الذي يحتوي على النص وتعيينه.
+يحصل على نوع النص المغلف للشكل الذي يحتوي على نص ويقوم بتعيينه.
 
 ###  مثال
 

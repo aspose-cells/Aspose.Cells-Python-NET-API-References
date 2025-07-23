@@ -1,6 +1,6 @@
 ---
 title: TextOverflowType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 1170
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-TextOverflowType 类型公开了以下成员：
+TextOverflowType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| CLIP |注意顶部和底部障碍。<br/>不提供不可见文本的指示。|
-| ELLIPSIS |注意顶部和底部障碍。<br/>使用省略号表示存在不可见的文本。<br/>仅适用于垂直溢出。|
-| OVERFLOW |溢出文本，不注意顶部和底部的障碍。|
+| CLIP |注意顶部和底部的障碍。<br/>不提供任何迹象表明存在不可见的文本。|
+| ELLIPSIS |注意顶部和底部的障碍。<br/>使用省略号来表示不可见的文本。<br/>仅适用于垂直溢流。|
+| OVERFLOW |溢出文本，不理会顶部和底部的障碍。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

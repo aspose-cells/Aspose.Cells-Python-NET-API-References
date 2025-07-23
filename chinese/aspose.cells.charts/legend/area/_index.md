@@ -9,7 +9,7 @@ is_root: false
 ---
 ## area属性
 
-获取[`ChartFrame.area`](/cells/python-net/zh/aspose.cells.charts/chartframe#area)。
+获取 [`ChartFrame.area`](/cells/python-net/zh/aspose.cells.charts/chartframe#area)。
 ### 定义：
 ```python
 @property

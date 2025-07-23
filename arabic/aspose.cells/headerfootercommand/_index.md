@@ -3,7 +3,7 @@ title: HeaderFooterCommand صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 770
+weight: 750
 url: /ar/aspose.cells/headerfootercommand/
 is_root: false
 ---
@@ -17,7 +17,7 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells/headerfootercommand/type) | يحصل على نوع أمر الرأس/التذييل.|
+| [type](/cells/python-net/ar/aspose.cells/headerfootercommand/type) | يحصل على نوع أمر "الرأس/التذييل".|
 | [font](/cells/python-net/ar/aspose.cells/headerfootercommand/font) | يحصل على خط قيمة الأمر.|
 | [text](/cells/python-net/ar/aspose.cells/headerfootercommand/text) | يحصل على نص الأمر.|
 

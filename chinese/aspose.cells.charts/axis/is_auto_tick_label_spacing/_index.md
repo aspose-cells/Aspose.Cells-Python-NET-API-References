@@ -3,13 +3,13 @@ title: is_auto_tick_label_spacing属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 190
 url: /zh/aspose.cells.charts/axis/is_auto_tick_label_spacing/
 is_root: false
 ---
 ## is_auto_tick_label_spacing属性
 
-指示刻度标签的间距是否自动
+表示刻度标签的间距是否自动
 ### 定义：
 ```python
 @property

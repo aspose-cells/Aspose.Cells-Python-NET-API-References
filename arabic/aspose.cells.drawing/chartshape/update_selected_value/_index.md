@@ -3,16 +3,17 @@ title: طريقة update_selected_value
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ar/aspose.cells.drawing/chartshape/update_selected_value/
 is_root: false
 ---
-##  update_selected_value {#}
-قم بتحديث القيمة المحددة بقيمة الخلية المرتبطة.
+##  update_selected_value(self) {#}
+تحديث القيمة المحددة حسب قيمة الخلية المرتبطة.
 
 
 
 ```python
+
 def update_selected_value(self):
     ...
 ```

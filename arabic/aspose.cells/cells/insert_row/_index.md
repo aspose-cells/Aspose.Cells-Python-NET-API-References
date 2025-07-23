@@ -3,16 +3,17 @@ title: طريقة insert_row
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 710
+weight: 730
 url: /ar/aspose.cells/cells/insert_row/
 is_root: false
 ---
-##  insert_row {#int}
+##  insert_row(self, row_index) {#int}
 إدراج صف جديد في ورقة العمل.
 
 
 
 ```python
+
 def insert_row(self, row_index):
     ...
 ```

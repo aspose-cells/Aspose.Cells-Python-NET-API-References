@@ -15,10 +15,10 @@ is_root: false
 
 عند حساب صيغة دون تعيينها على cell،
 مثل [`Worksheet.calculate_formula`](/cells/python-net/ar/aspose.cells/worksheet/calculate_formula)،
-سيتم حساب الصيغة تمامًا كما تم ضبطها على cell A1،
-لذا فإن كلا من [`CalculationData.cell_row`](/cells/python-net/ar/aspose.cells/calculationdata#cell_row) و[`CalculationData.cell_column`](/cells/python-net/ar/aspose.cells/calculationdata#cell_column) هما 0.
-ومع ذلك، ربما لم يتم إنشاء مثيل للرقم cell A1 في ورقة العمل.
-لذا، في مثل هذا النوع من المواقف، ستكون هذه الخاصية فارغة.
+سيتم حساب الصيغة كما تم ضبطها على cell A1،
+لذلك فإن كل من [`CalculationData.cell_row`](/cells/python-net/ar/aspose.cells/calculationdata#cell_row) و [`CalculationData.cell_column`](/cells/python-net/ar/aspose.cells/calculationdata#cell_column) يساوي 0.
+ومع ذلك، قد لا يتم إنشاء مثيل لـ cell A1 في ورقة العمل.
+لذلك، بالنسبة لهذا النوع من المواقف، ستكون هذه الخاصية فارغة.
 ###  تعريف:
 ```python
 @property

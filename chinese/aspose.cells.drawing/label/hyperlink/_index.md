@@ -3,13 +3,13 @@ title: hyperlink属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 500
+weight: 490
 url: /zh/aspose.cells.drawing/label/hyperlink/
 is_root: false
 ---
 ## hyperlink属性
 
-获取形状的hyperlink。
+获取形状的 hyperlink。
 
 ### 例子
 

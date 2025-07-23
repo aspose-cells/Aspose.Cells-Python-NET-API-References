@@ -1,15 +1,15 @@
 ---
-title: shadow الملكية
+title: shadow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 320
 url: /ar/aspose.cells.charts/plotarea/shadow/
 is_root: false
 ---
-##  shadow الملكية
+##  shadow عقار
 
-صحيح إذا كان للإطار shadow.
+صحيح إذا كان الإطار يحتوي على shadow.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [PlotArea](/cells/python-net/ar/aspose.cells.charts/plotarea)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`PlotArea`](/cells/python-net/ar/aspose.cells.charts/plotarea)

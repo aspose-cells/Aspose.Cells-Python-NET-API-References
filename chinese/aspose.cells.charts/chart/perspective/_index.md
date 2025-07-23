@@ -9,7 +9,7 @@ is_root: false
 ---
 ## perspective属性
 
-返回或设置 3D 图表视图的 perspective。必须介于 0 到 100 之间。
+返回或设置三维图表视图的 perspective。必须介于 0 到 100 之间。
 如果 RightAngleAxes 属性为 True，则忽略此属性。
 ### 定义：
 ```python

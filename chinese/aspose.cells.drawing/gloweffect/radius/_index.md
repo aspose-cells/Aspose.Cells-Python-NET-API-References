@@ -1,22 +1,22 @@
 ---
-title: radius 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: radius属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells.drawing/gloweffect/radius/
 is_root: false
 ---
-## radius 属性
+## radius属性
 
-获取和设置发光的 radius，以点为单位。
+获取并设置光晕的 radius，以点为单位。
 
-### 评论
+### 注意事项
 
-注意：该成员现已过时。反而，
+注意：此成员现已过时。取而代之的是
 请使用 GlowEffect.Size 属性。
-自 2016 年 9 月起，此属性将在 6 个月后移除。
-Aspose 对您可能遇到的任何不便深表歉意。
+该房产将于2016年9月起6个月后拆除。
+Aspose 对于您所遇到的不便深表歉意。
 ### 定义：
 ```python
 @property
@@ -28,5 +28,5 @@ def radius(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GlowEffect](/cells/python-net/zh/aspose.cells.drawing/gloweffect)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GlowEffect`](/cells/python-net/zh/aspose.cells.drawing/gloweffect)

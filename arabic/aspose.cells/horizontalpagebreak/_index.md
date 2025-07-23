@@ -3,12 +3,12 @@ title: HorizontalPageBreak صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 780
+weight: 760
 url: /ar/aspose.cells/horizontalpagebreak/
 is_root: false
 ---
 ##  HorizontalPageBreak صف
-يقوم بتغليف الكائن الذي يمثل فاصل الصفحات الأفقي.
+يغلف الكائن الذي يمثل فاصل الصفحة الأفقي.
 
 
 
@@ -17,9 +17,9 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [start_column](/cells/python-net/ar/aspose.cells/horizontalpagebreak/start_column) | الحصول على فهرس عمود البداية لفاصل الصفحات الأفقي هذا.|
-| [end_column](/cells/python-net/ar/aspose.cells/horizontalpagebreak/end_column) | الحصول على فهرس عمود النهاية لفاصل الصفحات الأفقي هذا.|
-| [row](/cells/python-net/ar/aspose.cells/horizontalpagebreak/row) | يحصل على فهرس الصف القائم على الصفر.|
+| [start_column](/cells/python-net/ar/aspose.cells/horizontalpagebreak/start_column) | يحصل على فهرس عمود البداية لكسر الصفحة الأفقية هذه.|
+| [end_column](/cells/python-net/ar/aspose.cells/horizontalpagebreak/end_column) | يحصل على فهرس العمود النهائي لكسر الصفحة الأفقية هذه.|
+| [row](/cells/python-net/ar/aspose.cells/horizontalpagebreak/row) |يحصل على مؤشر الصف المستند إلى الصفر.|
 
 
 

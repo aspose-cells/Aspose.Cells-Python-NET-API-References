@@ -3,13 +3,13 @@ title: export_page_footers عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 370
 url: /ar/aspose.cells.saving/ebooksaveoptions/export_page_footers/
 is_root: false
 ---
 ##  export_page_footers عقار
 
-يشير إلى ما إذا كان سيتم تصدير رؤوس الصفحات.
+يشير إلى ما إذا كان يتم تصدير رؤوس الصفحات.
 
 ###  ملاحظات
 

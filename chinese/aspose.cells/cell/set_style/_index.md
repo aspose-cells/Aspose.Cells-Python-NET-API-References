@@ -3,16 +3,17 @@ title: set_style方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 360
+weight: 370
 url: /zh/aspose.cells/cell/set_style/
 is_root: false
 ---
-##  set_style {#aspose.cells.Style}
+##  set_style(self, style) {#aspose.cells.Style}
 设置单元格样式。
 
 
 
 ```python
+
 def set_style(self, style):
     ...
 ```
@@ -21,17 +22,18 @@ def set_style(self, style):
 |范围|类型|描述|
 | :- | :- | :- |
 | style | [`Style`](/cells/python-net/zh/aspose.cells/style) |单元格样式。|
-### 评论
+### 注意事项
 
-如果更改边框设置，调整单元格的边框也会更新。
+如果边框设置发生变化，调整单元格的边框也会更新。
 
-##  set_style {#aspose.cells.Style-bool}
+##  set_style(self, style, explicit_flag) {#aspose.cells.Style-bool}
 
-将更改后的样式属性应用到单元格。
+将改变的样式属性应用到单元格。
 
 
 
 ```python
+
 def set_style(self, style, explicit_flag):
     ...
 ```
@@ -40,15 +42,16 @@ def set_style(self, style, explicit_flag):
 |范围|类型|描述|
 | :- | :- | :- |
 | style | [`Style`](/cells/python-net/zh/aspose.cells/style) |单元格样式。|
-| explicit_flag | bool |是的，仅覆盖显式设置的格式。|
+| explicit_flag | bool |确实，仅覆盖明确设置的格式。|
 
 
-##  set_style {#aspose.cells.Style-aspose.cells.StyleFlag}
-应用基于标志的单元格样式。
+##  set_style(self, style, flag) {#aspose.cells.Style-aspose.cells.StyleFlag}
+根据标志应用单元格样式。
 
 
 
 ```python
+
 def set_style(self, style, flag):
     ...
 ```
@@ -57,7 +60,7 @@ def set_style(self, style, flag):
 |范围|类型|描述|
 | :- | :- | :- |
 | style | [`Style`](/cells/python-net/zh/aspose.cells/style) |单元格样式。|
-| flag | [`StyleFlag`](/cells/python-net/zh/aspose.cells/styleflag) |风格标志。|
+| flag | [`StyleFlag`](/cells/python-net/zh/aspose.cells/styleflag) |样式标志。|
 
 
 

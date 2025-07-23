@@ -3,13 +3,13 @@ title: group_box عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 430
+weight: 420
 url: /ar/aspose.cells.drawing/radiobutton/group_box/
 is_root: false
 ---
 ##  group_box عقار
 
-يحصل على GroupBox الذي يحتوي على زر الراديو هذا.
+يحصل على GroupBox الذي يحتوي على RadioButton هذا.
 ###  تعريف:
 ```python
 @property

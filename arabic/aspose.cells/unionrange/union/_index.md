@@ -3,12 +3,12 @@ title: طريقة union
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 100
 url: /ar/aspose.cells/unionrange/union/
 is_root: false
 ---
-##  union(range) {#str}
-اتحاد مجموعة أخرى.
+##  union(self, range) {#str}
+اتحاد نطاق آخر.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def union(self, range):
     ...
 ```
@@ -24,11 +25,11 @@ def union(self, range):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| range | str | النطاق.|
+| range | str | المدى.|
 
 
-##  union(union_range) {#UnionRange}
-اتحاد مجموعة أخرى.
+##  union(self, union_range) {#aspose.cells.UnionRange}
+اتحاد نطاق آخر.
 
 
 ###  عائدات
@@ -37,6 +38,7 @@ def union(self, range):
 
 
 ```python
+
 def union(self, union_range):
     ...
 ```
@@ -44,10 +46,10 @@ def union(self, union_range):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/ar/aspose.cells/unionrange) | النطاق.|
+| union_range | [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange) | المدى.|
 
 
-##  union(ranges) {#list}
+##  union(self, ranges) {#list}
 اتحاد النطاقات.
 
 
@@ -57,6 +59,7 @@ def union(self, union_range):
 
 
 ```python
+
 def union(self, ranges):
     ...
 ```
@@ -69,5 +72,5 @@ def union(self, ranges):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

@@ -1,20 +1,13 @@
 ---
-title: update_smart_art 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: update_smart_art属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 440
+weight: 490
 url: /zh/aspose.cells/pdfsaveoptions/update_smart_art/
 is_root: false
 ---
-## update_smart_art 属性
-
-指示是否更新智能艺术设置。
-默认值为假。
-
-### 评论
-
-只有调用 Shape.GetResultOfSmartArt() 方法后的效果和缓存的形状存在于模板文件中。
+## update_smart_art属性
 ### 定义：
 ```python
 @property
@@ -26,5 +19,5 @@ def update_smart_art(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PdfSaveOptions](/cells/python-net/zh/aspose.cells/pdfsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`PdfSaveOptions`](/cells/python-net/zh/aspose.cells/pdfsaveoptions)

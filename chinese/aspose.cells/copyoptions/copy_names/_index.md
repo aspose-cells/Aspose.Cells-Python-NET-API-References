@@ -1,13 +1,13 @@
 ---
-title: copy_names 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: copy_names属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells/copyoptions/copy_names/
 is_root: false
 ---
-## copy_names 属性
+## copy_names属性
 
 表示是否复制名称。
 ### 定义：
@@ -21,5 +21,5 @@ def copy_names(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CopyOptions](/cells/python-net/zh/aspose.cells/copyoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`CopyOptions`](/cells/python-net/zh/aspose.cells/copyoptions)

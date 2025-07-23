@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/font/equals/
 is_root: false
 ---
-##  equals(font) {#Font}
-للتحقق مما إذا كان الخطان هما equals.
+##  equals(self, font) {#aspose.cells.Font}
+التحقق مما إذا كان الخطان هما equals.
 
 
 ###  عائدات
 
-صواب إذا كان مساويًا لكائن الخط المقارن.
+صحيح إذا كان مساويًا لكائن الخط المقارن.
 
 
 ```python
+
 def equals(self, font):
     ...
 ```
@@ -24,10 +25,10 @@ def equals(self, font):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| font | [Font](/cells/python-net/ar/aspose.cells/font) |مقارنة كائن الخط.|
+| font | [`Font`](/cells/python-net/ar/aspose.cells/font) | مقارنة كائن الخط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)

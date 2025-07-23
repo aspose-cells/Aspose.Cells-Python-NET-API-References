@@ -7,12 +7,13 @@ weight: 60
 url: /ar/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/
 is_root: false
 ---
-##  get_on_category_axis_point_x_px(index) {#int}
-الحصول على تنسيق x للنقطة على محور الفئة بعد استدعاء طريقة Chart.Calculate (). ينطبق فقط على مخطط المنطقة.
+##  get_on_category_axis_point_x_px(self, index) {#int}
+يحصل على إحداثيات x للنقطة على محور الفئة بعد استدعاء دالة Chart.Calculate(). ينطبق فقط على مخطط المساحة.
 
 
 
 ```python
+
 def get_on_category_axis_point_x_px(self, index):
     ...
 ```
@@ -23,10 +24,10 @@ def get_on_category_axis_point_x_px(self, index):
 | index | int |  |
 ###  ملاحظات
 
-مخطط المنطقة 2D: الفهرس هو 0.
-مخطط المنطقة ثلاثي الأبعاد: الفهرس هو 0 أو 1.
+الرسم البياني ثنائي الأبعاد: المؤشر هو 0.
+مخطط ثلاثي الأبعاد للمنطقة: المؤشر هو 0 أو 1.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

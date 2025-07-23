@@ -1,15 +1,15 @@
 ---
-title: refresh_chart_cache الملكية
+title: refresh_chart_cache عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 180
 url: /ar/aspose.cells/jsonsaveoptions/refresh_chart_cache/
 is_root: false
 ---
-##  refresh_chart_cache الملكية
+##  refresh_chart_cache عقار
 
-يشير إلى ما إذا كان يتم تحديث بيانات ذاكرة التخزين المؤقت للرسم البياني أم لا
+يشير إلى ما إذا كان يتم تحديث بيانات ذاكرة التخزين المؤقت للرسم البياني
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def refresh_chart_cache(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [JsonSaveOptions](/cells/python-net/ar/aspose.cells/jsonsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`JsonSaveOptions`](/cells/python-net/ar/aspose.cells/jsonsaveoptions)

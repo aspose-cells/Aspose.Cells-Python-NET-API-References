@@ -3,14 +3,14 @@ title: is_include_new_items_in_filter عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 500
 url: /ar/aspose.cells.pivot/pivotfield/is_include_new_items_in_filter/
 is_root: false
 ---
 ##  is_include_new_items_in_filter عقار
 
-يشير إلى ما إذا كان يمكن أن يتضمن الحقل عناصر جديدة في التصفية اليدوية
-القيمة الافتراضية هي كاذبة.
+يشير إلى ما إذا كان سيتم تضمين عناصر جديدة في الحقل في الفلتر اليدوي.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ## file_format_type属性
 
-获取和设置嵌入 ole 对象数据的文件类型
+获取并设置嵌入的ole对象数据的文件类型
 ### 定义：
 ```python
 @property

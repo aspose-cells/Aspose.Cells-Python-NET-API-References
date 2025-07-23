@@ -3,7 +3,7 @@ title: width_pt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1280
+weight: 1290
 url: /ar/aspose.cells.drawing/listbox/width_pt/
 is_root: false
 ---

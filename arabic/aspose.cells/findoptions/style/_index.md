@@ -1,15 +1,15 @@
 ---
-title: style الملكية
+title: style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells/findoptions/style/
 is_root: false
 ---
-##  style الملكية
+##  style عقار
 
-التنسيق المطلوب البحث عنه.
+التنسيق الذي يجب البحث عنه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FindOptions](/cells/python-net/ar/aspose.cells/findoptions)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FindOptions`](/cells/python-net/ar/aspose.cells/findoptions)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

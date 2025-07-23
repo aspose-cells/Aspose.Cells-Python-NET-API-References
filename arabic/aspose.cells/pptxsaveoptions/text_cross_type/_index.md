@@ -3,13 +3,11 @@ title: text_cross_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 350
 url: /ar/aspose.cells/pptxsaveoptions/text_cross_type/
 is_root: false
 ---
 ##  text_cross_type عقار
-
-الحصول على أو تعيين عرض نوع النص عندما يكون عرض النص أكبر من عرض الخلية.
 ###  تعريف:
 ```python
 @property

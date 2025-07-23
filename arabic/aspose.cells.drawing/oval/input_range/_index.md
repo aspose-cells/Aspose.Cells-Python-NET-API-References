@@ -3,13 +3,13 @@ title: input_range عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 510
 url: /ar/aspose.cells.drawing/oval/input_range/
 is_root: false
 ---
 ##  input_range عقار
 
-الحصول على أو تعيين نطاق ورقة العمل المستخدم لملء مربع التحرير والسرد المحدد.
+يحصل على نطاق ورقة العمل المستخدم لملء المربع المختلط المحدد أو يعينه.
 
 ###  مثال
 

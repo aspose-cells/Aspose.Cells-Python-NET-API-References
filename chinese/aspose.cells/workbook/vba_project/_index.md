@@ -3,13 +3,13 @@ title: vba_project属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 670
+weight: 700
 url: /zh/aspose.cells/workbook/vba_project/
 is_root: false
 ---
 ## vba_project属性
 
-获取电子表格中的 [`Workbook.vba_project`](/cells/python-net/zh/aspose.cells/workbook#vba_project)。
+在电子表格中获取 [`Workbook.vba_project`](/cells/python-net/zh/aspose.cells/workbook#vba_project)。
 ### 定义：
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.charts/chart/calculate/
 is_root: false
 ---
-##  calculate {#}
-يحسب الموضع المخصص لمنطقة قطعة الأرض، والمحاور إذا تم تعيين موضعها تلقائيًا.
+##  calculate(self) {#}
+يحسب الموضع المخصص لمنطقة الرسم البياني، والمحاور إذا تم تعيين موضعها تلقائيًا.
 
 
 
 ```python
+
 def calculate(self):
     ...
 ```
@@ -20,12 +21,13 @@ def calculate(self):
 
 
 
-##  calculate {#aspose.cells.charts.ChartCalculateOptions}
-حساب الموضع المخصص لمنطقة قطعة الأرض، والمحاور إذا تم تعيين موضعها تلقائيًا، باستخدام خيارات حساب المخطط.
+##  calculate(self, calculate_options) {#aspose.cells.charts.ChartCalculateOptions}
+يحسب الموضع المخصص لمنطقة الرسم البياني، والمحاور إذا تم تعيين موضعها تلقائيًا، باستخدام خيارات حساب الرسم البياني.
 
 
 
 ```python
+
 def calculate(self, calculate_options):
     ...
 ```

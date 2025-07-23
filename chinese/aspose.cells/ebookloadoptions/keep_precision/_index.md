@@ -3,13 +3,13 @@ title: keep_precision属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 200
 url: /zh/aspose.cells/ebookloadoptions/keep_precision/
 is_root: false
 ---
 ## keep_precision属性
 
-表示如果长度为15，是否不解析字符串值。
+指示如果长度为 15 则是否不解析字符串值。
 ### 定义：
 ```python
 @property

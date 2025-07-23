@@ -1,5 +1,5 @@
 ---
-title: العد VbaModuleType
+title: VbaModuleType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,22 +7,22 @@ weight: 60
 url: /ar/aspose.cells.vba/vbamoduletype/
 is_root: false
 ---
-##  العد VbaModuleType
+##  VbaModuleType التعداد
 يمثل نوع وحدة VBA.
 
 
 
-يكشف نوع VbaModuleType الأعضاء التالية:
+يكشف النوع VbaModuleType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | PROCEDURAL | يمثل وحدة إجرائية.|
-| DOCUMENT | يمثل وحدة وثيقة.|
-| CLASS | يمثل وحدة فصل دراسي.|
-| DESIGNER | يمثل وحدة المصمم.|
+| DOCUMENT | يمثل وحدة مستند.|
+| CLASS | يمثل وحدة نمطية للفصل.|
+| DESIGNER | يمثل وحدة التصميم.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](..)
+* الوحدة [`aspose.cells.vba`](..)

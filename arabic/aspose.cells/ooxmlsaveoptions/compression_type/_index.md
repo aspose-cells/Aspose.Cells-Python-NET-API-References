@@ -1,15 +1,15 @@
 ---
-title: compression_type الملكية
+title: compression_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells/ooxmlsaveoptions/compression_type/
 is_root: false
 ---
-##  compression_type الملكية
+##  compression_type عقار
 
-الحصول على نوع الضغط لملف ooxml وتعيينه.
+يحصل على نوع الضغط لملف ooxml ويقوم بتعيينه.
 
 ###  ملاحظات
 
@@ -25,6 +25,6 @@ def compression_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [OoxmlCompressionType](/cells/python-net/ar/aspose.cells/ooxmlcompressiontype)
-* فئة [OoxmlSaveOptions](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`OoxmlCompressionType`](/cells/python-net/ar/aspose.cells/ooxmlcompressiontype)
+* فئة [`OoxmlSaveOptions`](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions)

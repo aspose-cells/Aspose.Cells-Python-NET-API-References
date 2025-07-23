@@ -1,5 +1,5 @@
 ---
-title: weight الملكية
+title: weight عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 220
 url: /ar/aspose.cells.drawing/line/weight/
 is_root: false
 ---
-##  weight الملكية
+##  weight عقار
 
-الحصول على او تحديد [WeightType](/cells/python-net/ar/aspose.cells.drawing/weighttype) للخط.
+يحصل على أو يعين [`WeightType`](/cells/python-net/ar/aspose.cells.drawing/weighttype) من السطر.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def weight(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
-* فئة [WeightType](/cells/python-net/ar/aspose.cells.drawing/weighttype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)
+* فئة [`WeightType`](/cells/python-net/ar/aspose.cells.drawing/weighttype)

@@ -1,0 +1,25 @@
+---
+title: bottom_margin_pt عقار
+second_title: Aspose.Cells for Python via .NET API المراجع
+description:
+type: docs
+weight: 40
+url: /ar/aspose.cells.drawing.texts/textboxoptions/bottom_margin_pt/
+is_root: false
+---
+##  bottom_margin_pt عقار
+
+إرجاع الهامش السفلي بوحدة النقاط
+###  تعريف:
+```python
+@property
+def bottom_margin_pt(self):
+    ...
+@bottom_margin_pt.setter
+def bottom_margin_pt(self, value):
+    ...
+```
+
+###  أنظر أيضا
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextBoxOptions`](/cells/python-net/ar/aspose.cells.drawing.texts/textboxoptions)

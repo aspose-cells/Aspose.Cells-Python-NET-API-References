@@ -1,18 +1,18 @@
 ---
-title: العد ControlPictureAlignmentType
+title: ControlPictureAlignmentType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 190
 url: /ar/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype/
 is_root: false
 ---
-##  العد ControlPictureAlignmentType
+##  ControlPictureAlignmentType التعداد
 يمثل محاذاة الصورة داخل النموذج أو الصورة.
 
 
 
-يكشف نوع ControlPictureAlignmentType الأعضاء التالية:
+يكشف النوع ControlPictureAlignmentType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -26,4 +26,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

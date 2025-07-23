@@ -3,20 +3,20 @@ title: begin_arrowhead_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 340
 url: /ar/aspose.cells.drawing/arcshape/begin_arrowhead_width/
 is_root: false
 ---
 ##  begin_arrowhead_width عقار
 
-الحصول على عرض رأس سهم البداية للخط وتعيينه.
+يحصل على عرض رأس السهم الأولي للخط ويحدده.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قديم الآن. بدلاً من،
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
  الرجاء استخدام الخاصية Shape.Line.BeginArrowheadWidth.
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ أغسطس 2016.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ أغسطس 2016.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property

@@ -7,8 +7,8 @@ weight: 30
 url: /ar/aspose.cells.properties/customdocumentpropertycollection/add_link_to_content/
 is_root: false
 ---
-##  add_link_to_content(name, source) {#str-str}
-يقوم بإنشاء خاصية وثيقة مخصصة جديدة ترتبط بالمحتوى.
+##  add_link_to_content(self, name, source) {#str-str}
+إنشاء خاصية مستند مخصصة جديدة ترتبط بالمحتوى.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_link_to_content(self, name, source):
     ...
 ```
@@ -25,10 +26,10 @@ def add_link_to_content(self, name, source):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | name | str | اسم العقار.|
-| source | str | مصدر العقار|
+| source | str | مصدر الخاصية. يجب أن يكون اسم النطاق المُسمّى.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [CustomDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`CustomDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)

@@ -1,15 +1,15 @@
 ---
-title: data_source الملكية
+title: data_source عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 430
+weight: 530
 url: /ar/aspose.cells.pivot/pivottable/data_source/
 is_root: false
 ---
-##  data_source الملكية
+##  data_source عقار
 
-الحصول على مصدر البيانات للجدول المحوري وتعيينه.
+يحصل على مصدر البيانات للجدول المحوري ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def data_source(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

@@ -1,18 +1,19 @@
 ---
 title: set_data_source方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells/workbookdesigner/set_data_source/
 is_root: false
 ---
-##  set_data_source(data_source, cells_data_table) {#str-ICellsDataTable}
-设置 [ICellsDataTable](/cells/python-net/zh/aspose.cells/icellsdatatable) 对象的数据源。
+##  set_data_source(self, data_source, cells_data_table) {#str-ICellsDataTable}
+
 
 
 
 ```python
+
 def set_data_source(self, data_source, cells_data_table):
     ...
 ```
@@ -20,16 +21,17 @@ def set_data_source(self, data_source, cells_data_table):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| data_source | str |数据源的名称。|
-| cells_data_table | [ICellsDataTable](/cells/python-net/zh/aspose.cells/icellsdatatable) |数据表。|
+| data_source | str |  |
+| cells_data_table | ICellsDataTable |  |
 
 
-##  set_data_source(variable, data) {#str-any}
+##  set_data_source(self, variable, data) {#str-any}
 将数据绑定设置为变量。
 
 
 
 ```python
+
 def set_data_source(self, variable, data):
     ...
 ```
@@ -43,6 +45,5 @@ def set_data_source(self, variable, data):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ICellsDataTable](/cells/python-net/zh/aspose.cells/icellsdatatable)
-* 类 [WorkbookDesigner](/cells/python-net/zh/aspose.cells/workbookdesigner)
+* 模块[`aspose.cells`](../../)
+* 类 [`WorkbookDesigner`](/cells/python-net/zh/aspose.cells/workbookdesigner)

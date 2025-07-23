@@ -9,7 +9,7 @@ is_root: false
 ---
 ## export_column_name属性
 
-是否将第一行的数据导出到DataTable的列名。
+指示是否将第一行的数据导出到DataTable的列名中。
 默认值为 false。
 ### 定义：
 ```python

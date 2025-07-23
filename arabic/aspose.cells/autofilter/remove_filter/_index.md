@@ -7,12 +7,13 @@ weight: 160
 url: /ar/aspose.cells/autofilter/remove_filter/
 is_root: false
 ---
-##  remove_filter(field_index) {#int}
-قم بإزالة الفلتر المحدد.
+##  remove_filter(self, field_index) {#int}
+إزالة الفلتر المحدد.
 
 
 
 ```python
+
 def remove_filter(self, field_index):
     ...
 ```
@@ -20,15 +21,16 @@ def remove_filter(self, field_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_index | int | فهرس المرشح المحدد|
+| field_index | int | مؤشر الفلتر المحدد|
 
 
-##  remove_filter(field_index, criteria) {#int-str}
-يزيل عامل تصفية لعمود مرشح.
+##  remove_filter(self, field_index, criteria) {#int-str}
+إزالة مرشح لعمود المرشح.
 
 
 
 ```python
+
 def remove_filter(self, field_index, criteria):
     ...
 ```
@@ -36,11 +38,11 @@ def remove_filter(self, field_index, criteria):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_index | int | إزاحة العدد الصحيح للحقل الذي تريد أن يؤسس عامل التصفية عليه<br/> (من يسار القائمة ؛ الحقل الموجود في أقصى اليسار هو الحقل 0).|
-| criteria | str | المعايير المحددة (سلسلة ؛ على سبيل المثال ، "101").<br/> يمكن أن تكون فارغة فقط أو تكون إحدى قيم الخلايا في هذا العمود.|
+| field_index | int | الإزاحة الصحيحة للحقل الذي تريد أن تستند إليه المرشح<br/> (من يسار القائمة؛ الحقل الأيسر هو الحقل 0).|
+| criteria | str | المعايير المحددة (سلسلة؛ على سبيل المثال، "101").<br/>لا يمكن أن يكون إلا فارغًا أو أحد قيم الخلايا في هذا العمود.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFilter](/cells/python-net/ar/aspose.cells/autofilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFilter`](/cells/python-net/ar/aspose.cells/autofilter)

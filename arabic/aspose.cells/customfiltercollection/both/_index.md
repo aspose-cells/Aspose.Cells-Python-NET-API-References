@@ -1,5 +1,5 @@
 ---
-title: both الملكية
+title: both عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 70
 url: /ar/aspose.cells/customfiltercollection/both/
 is_root: false
 ---
-##  both الملكية
+##  both عقار
 
 يشير إلى ما إذا كان المعياران لهما علاقة "و".
 ###  تعريف:
@@ -21,5 +21,5 @@ def both(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CustomFilterCollection](/cells/python-net/ar/aspose.cells/customfiltercollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CustomFilterCollection`](/cells/python-net/ar/aspose.cells/customfiltercollection)

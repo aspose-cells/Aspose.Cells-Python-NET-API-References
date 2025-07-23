@@ -1,5 +1,5 @@
 ---
-title: tab_alignment الملكية
+title: tab_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.drawing.texts/texttabstop/tab_alignment/
 is_root: false
 ---
-##  tab_alignment الملكية
+##  tab_alignment عقار
 
-يحدد المحاذاة التي سيتم تطبيقها على النص باستخدام علامة الجدولة هذه.
+يقوم بتحديد المحاذاة التي سيتم تطبيقها على النص باستخدام علامة التبويب هذه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def tab_alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextTabAlignmentType](/cells/python-net/ar/aspose.cells.drawing.texts/texttabalignmenttype)
-* فئة [TextTabStop](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstop)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextTabAlignmentType`](/cells/python-net/ar/aspose.cells.drawing.texts/texttabalignmenttype)
+* فئة [`TextTabStop`](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstop)

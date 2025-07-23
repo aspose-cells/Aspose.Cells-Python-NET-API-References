@@ -3,13 +3,13 @@ title: is_full_path_link属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 500
+weight: 580
 url: /zh/aspose.cells/htmlsaveoptions/is_full_path_link/
 is_root: false
 ---
 ## is_full_path_link属性
 
-指示是否在sheet00x.htm、filelist.xml和tabstrip.htm中使用全路径链接。
+指示sheet00x.htm、filelist.xml和tabstrip.htm中是否使用完整路径链接。
 默认值为 false。
 ### 定义：
 ```python

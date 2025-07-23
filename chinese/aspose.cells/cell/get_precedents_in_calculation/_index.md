@@ -1,13 +1,13 @@
 ---
 title: get_precedents_in_calculation方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 190
 url: /zh/aspose.cells/cell/get_precedents_in_calculation/
 is_root: false
 ---
-##  get_precedents_in_calculation() {#}
+##  get_precedents_in_calculation(self) {#}
 获取此单元格公式在计算时使用的所有先例（引用当前工作簿中的单元格）。
 
 
@@ -17,16 +17,17 @@ is_root: false
 
 
 ```python
+
 def get_precedents_in_calculation(self):
     ...
 ```
 
 
-### 评论
+### 注意事项
 
-此方法只适用于[FormulaSettings.enable_calculation_chain](/cells/python-net/zh/aspose.cells/formulasettings#enable_calculation_chain)的情况
-对于工作簿为真，并且工作簿已完全计算。
-如果此单元格不是公式或未引用任何其他单元格，则返回 null。
+此方法仅适用于 [`FormulaSettings.enable_calculation_chain`](/cells/python-net/zh/aspose.cells/formulasettings#enable_calculation_chain) 的情况
+对于工作簿来说是正确的，并且工作簿已经完全计算。
+如果此单元格不是公式或者它没有引用任何其他单元格，则将返回 null。
 ### 例子
 
 ```python
@@ -47,5 +48,5 @@ for r in en:
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cell](/cells/python-net/zh/aspose.cells/cell)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cell`](/cells/python-net/zh/aspose.cells/cell)

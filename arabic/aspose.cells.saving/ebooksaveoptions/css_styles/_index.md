@@ -3,16 +3,16 @@ title: css_styles عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 140
 url: /ar/aspose.cells.saving/ebooksaveoptions/css_styles/
 is_root: false
 ---
 ##  css_styles عقار
 
-الحصول على أو تعيين أنماط CSS الإضافية للمنسق.
+يحصل على أنماط CSS الإضافية للمنسق أو يعينها.
 يعمل فقط عندما يكون [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/ar/aspose.cells/htmlsaveoptions#save_as_single_file) صحيحًا.
 
-CssStyles = "body { الحشو: 5px }";
+CssStyles="الجسم { الحشو: 5 بكسل }";
 ###  تعريف:
 ```python
 @property

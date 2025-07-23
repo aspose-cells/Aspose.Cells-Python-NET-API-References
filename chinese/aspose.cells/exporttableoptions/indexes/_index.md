@@ -9,7 +9,7 @@ is_root: false
 ---
 ## indexes属性
 
-应导出的列/行的 indexes。
+应导出的列/行数为 indexes。
 ### 定义：
 ```python
 @property

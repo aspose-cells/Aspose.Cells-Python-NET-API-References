@@ -1,5 +1,5 @@
 ---
-title: print_draft الملكية
+title: print_draft عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 540
 url: /ar/aspose.cells/pagesetup/print_draft/
 is_root: false
 ---
-##  print_draft الملكية
+##  print_draft عقار
 
 يمثل ما إذا كانت الورقة ستتم طباعتها بدون رسومات.
 ###  تعريف:
@@ -21,5 +21,5 @@ def print_draft(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

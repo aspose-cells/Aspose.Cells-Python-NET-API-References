@@ -3,16 +3,17 @@ title: طريقة remove_auto_filter
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 260
 url: /ar/aspose.cells/worksheet/remove_auto_filter/
 is_root: false
 ---
-##  remove_auto_filter {#}
-إزالة عامل التصفية التلقائي لورقة العمل.
+##  remove_auto_filter(self) {#}
+إزالة الفلتر التلقائي للورقة العمل.
 
 
 
 ```python
+
 def remove_auto_filter(self):
     ...
 ```

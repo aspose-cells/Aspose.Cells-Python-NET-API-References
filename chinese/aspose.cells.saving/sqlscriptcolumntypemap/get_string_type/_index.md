@@ -1,13 +1,13 @@
 ---
 title: get_string_type方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.saving/sqlscriptcolumntypemap/get_string_type/
 is_root: false
 ---
-##  get_string_type() {#}
+##  get_string_type(self) {#}
 获取数据库中的字符串类型。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_string_type(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_string_type(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.saving](../../)
-* 类 [SqlScriptColumnTypeMap](/cells/python-net/zh/aspose.cells.saving/sqlscriptcolumntypemap)
+* 模块[`aspose.cells.saving`](../../)
+* 类 [`SqlScriptColumnTypeMap`](/cells/python-net/zh/aspose.cells.saving/sqlscriptcolumntypemap)

@@ -1,5 +1,5 @@
 ---
-title: WorkbookMetadata الدرجة
+title: WorkbookMetadata صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,39 +7,39 @@ weight: 20
 url: /ar/aspose.cells.metadata/workbookmetadata/
 is_root: false
 ---
-##  WorkbookMetadata الدرجة
+##  WorkbookMetadata صف
 يمثل البيانات الوصفية.
 
 
 
-يكشف نوع WorkbookMetadata الأعضاء التالية:
+يكشف النوع WorkbookMetadata عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [WorkbookMetadata(file_name, options)](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/__init__/#str-MetadataOptions) | إنشاء كائن البيانات الوصفية.|
-| [WorkbookMetadata(stream, options)](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/__init__/#io.RawIOBase-MetadataOptions) | إنشاء كائن البيانات الوصفية.|
+| [`__init__(self, file_name, options)`](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/__init__/#str-aspose.cells.metadata.metadataoptions) | إنشاء كائن البيانات الوصفية.|
+| [`__init__(self, stream, options)`](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/__init__/#io.rawiobase-aspose.cells.metadata.metadataoptions) | إنشاء كائن البيانات الوصفية.|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
 | [options](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/options) | يحصل على خيارات البيانات الوصفية.|
-| [built_in_document_properties](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/built_in_document_properties) |تقوم بارجاع مجموعة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كل خصائص الوثيقة المضمنة لجدول حسابي.|
-| [custom_document_properties](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/custom_document_properties) | تقوم بارجاع مجموعة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كل خصائص الوثيقة المهيأة للجدول الحسابي.|
+| [built_in_document_properties](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/built_in_document_properties) | إرجاع مجموعة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كافة خصائص المستند المضمنة في جدول البيانات.|
+| [custom_document_properties](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/custom_document_properties) | إرجاع مجموعة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كافة خصائص المستند المخصصة لجدول البيانات.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [save(file_name)](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/save/#str) | احفظ البيانات الأولية المعدلة في الملف.|
-| [save(stream)](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/save/#io.RawIOBase) | احفظ البيانات الوصفية المعدلة في الدفق.|
+| [`save(self, file_name)`](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/save/#str) | احفظ البيانات الوصفية المعدلة في الملف.|
+| [`save(self, stream)`](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata/save/#io.rawiobase) | احفظ البيانات الوصفية المعدلة في الدفق.|
 
 
 
 ###  مثال
 
-يقوم المثال التالي بإنشاء WorkbookMetadata.
+المثال التالي ينشئ WorkbookMetadata.
 
 ```python
 from aspose.cells.metadata import MetadataOptions, MetadataType, WorkbookMetadata
@@ -52,5 +52,5 @@ meta.save("book2.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.metadata](..)
-* فئة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty)
+* الوحدة [`aspose.cells.metadata`](..)
+* فئة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty)

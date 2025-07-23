@@ -1,22 +1,22 @@
 ---
-title: last_printed الملكية
+title: last_printed عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/last_printed/
 is_root: false
 ---
-##  last_printed الملكية
+##  last_printed عقار
 
-الحصول على أو تحديد تاريخ آخر طباعة للمستند حسب المنطقة الزمنية المحلية.
+يحصل على التاريخ الذي تمت فيه طباعة المستند آخر مرة بالتوقيت المحلي أو يعينه.
 
 ###  ملاحظات
 
-إذا لم تتم طباعة المستند مطلقًا ، فستُرجع هذه الخاصية DateTime.MinValue.
+إذا لم تتم طباعة المستند مطلقًا، فسوف تقوم هذه الخاصية بإرجاع DateTime.MinValue.
 
 
-Aspose.Cells لا يقوم بتحديث هذه الخاصية عند تعديل الوثيقة.
+Aspose.Cells لا يقوم بتحديث هذه الخاصية عند تعديل المستند.
 ###  تعريف:
 ```python
 @property
@@ -28,5 +28,5 @@ def last_printed(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

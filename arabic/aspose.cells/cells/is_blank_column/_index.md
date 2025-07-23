@@ -3,20 +3,21 @@ title: طريقة is_blank_column
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 730
+weight: 750
 url: /ar/aspose.cells/cells/is_blank_column/
 is_root: false
 ---
-##  is_blank_column {#int}
-يتحقق مما إذا كان العمود المحدد فارغًا (لا يحتوي على أي بيانات).
+##  is_blank_column(self, column_index) {#int}
+التحقق مما إذا كان العمود المحدد فارغًا (لا يحتوي على أي بيانات).
 
 
 ###  عائدات
 
-صحيح إذا كان العمود المحدد لا يحتوي على أية بيانات
+صحيح إذا كان العمود المحدد لا يحتوي على أي بيانات
 
 
 ```python
+
 def is_blank_column(self, column_index):
     ...
 ```

@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells.drawing/button/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink(address) {#str}
+##  add_hyperlink(self, address) {#str}
 يضيف ارتباطًا تشعبيًا إلى الشكل.
 
 
 ###  عائدات
 
-أعد كائن الارتباط التشعبي الجديد.
+إرجاع كائن الارتباط التشعبي الجديد.
 
 
 ```python
+
 def add_hyperlink(self, address):
     ...
 ```
@@ -24,7 +25,7 @@ def add_hyperlink(self, address):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| address | str | عنوان الارتباط التشعبي.|
+| address | str | عنوان الرابط التشعبي.|
 
 ###  مثال
 
@@ -37,5 +38,5 @@ hyperlink = shape.add_hyperlink("https://www.aspose.com/")
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Button](/cells/python-net/ar/aspose.cells.drawing/button)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Button`](/cells/python-net/ar/aspose.cells.drawing/button)

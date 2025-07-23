@@ -1,5 +1,5 @@
 ---
-title: العد LineSpaceSizeType
+title: LineSpaceSizeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,20 +7,20 @@ weight: 150
 url: /ar/aspose.cells.drawing.texts/linespacesizetype/
 is_root: false
 ---
-##  العد LineSpaceSizeType
-يمثل نوع الوحدة من حجم مساحة الخط.
+##  LineSpaceSizeType التعداد
+يمثل نوع وحدة حجم مساحة الخط.
 
 
 
-يكشف نوع LineSpaceSizeType الأعضاء التالية:
+يكشف النوع LineSpaceSizeType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| PERCENTAGE | يمثل وحدة نسبة مئوية من حجم النص.|
-| POINTS | يمثل وحدة النقاط.|
+| PERCENTAGE | يمثل نسبة مئوية من حجم النص كوحدة.|
+| POINTS | يمثل بوحدة النقاط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
+* الوحدة [`aspose.cells.drawing.texts`](..)

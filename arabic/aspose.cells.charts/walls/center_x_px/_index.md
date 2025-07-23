@@ -1,5 +1,5 @@
 ---
-title: center_x_px الملكية
+title: center_x_px عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells.charts/walls/center_x_px/
 is_root: false
 ---
-##  center_x_px الملكية
+##  center_x_px عقار
 
-الحصول على إحداثيات x للركن السفلي الأيسر من Wall center بوحدات البكسل بعد استدعاء طريقة Chart.Calculate ().
+يحصل على إحداثيات x للزاوية اليسرى السفلية من مركز الحائط بوحدات البكسل بعد استدعاء طريقة Chart.Calculate().
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def center_x_px(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Walls](/cells/python-net/ar/aspose.cells.charts/walls)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Walls`](/cells/python-net/ar/aspose.cells.charts/walls)

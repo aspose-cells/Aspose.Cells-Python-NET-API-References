@@ -3,13 +3,13 @@ title: chart عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ar/aspose.cells.drawing/chartshape/chart/
 is_root: false
 ---
 ##  chart عقار
 
-تقوم بإرجاع كائن مخطط يمثل الرقم chart الموجود في الكائن.
+يقوم بإرجاع كائن مخطط يمثل chart الموجود في الكائن.
 ###  تعريف:
 ```python
 @property

@@ -7,8 +7,8 @@ weight: 40
 url: /ar/aspose.cells/protection/verify_password/
 is_root: false
 ---
-##  verify_password(password) {#str}
-يتحقق من كلمة المرور.
+##  verify_password(self, password) {#str}
+التحقق من كلمة المرور.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def verify_password(self, password):
     ...
 ```
@@ -24,10 +25,10 @@ def verify_password(self, password):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| password | str | كلمة السر.|
+| password | str | كلمة المرور.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Protection](/cells/python-net/ar/aspose.cells/protection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Protection`](/cells/python-net/ar/aspose.cells/protection)

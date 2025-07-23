@@ -3,13 +3,13 @@ title: create_id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 390
 url: /ar/aspose.cells.drawing/picture/create_id/
 is_root: false
 ---
 ##  create_id عقار
 
-يحصل ويحدد معرفًا لهذا الشكل.
+يحصل وينشئ معرفًا لهذا الشكل.
 ###  تعريف:
 ```python
 @property

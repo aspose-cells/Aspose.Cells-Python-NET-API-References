@@ -1,15 +1,15 @@
 ---
-title: table_style_name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: table_style_name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 280
+weight: 290
 url: /zh/aspose.cells.tables/listobject/table_style_name/
 is_root: false
 ---
-## table_style_name 属性
+## table_style_name属性
 
-获取和设置表格样式名称。
+获取并设置表格样式名称。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def table_style_name(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.tables](../../)
-* 类 [ListObject](/cells/python-net/zh/aspose.cells.tables/listobject)
+* 模块[`aspose.cells.tables`](../../)
+* 类 [`ListObject`](/cells/python-net/zh/aspose.cells.tables/listobject)

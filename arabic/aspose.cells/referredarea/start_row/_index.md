@@ -1,13 +1,13 @@
 ---
-title: start_row الملكية
+title: start_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 150
 url: /ar/aspose.cells/referredarea/start_row/
 is_root: false
 ---
-##  start_row الملكية
+##  start_row عقار
 
 صف البداية للمنطقة.
 ###  تعريف:
@@ -18,5 +18,5 @@ def start_row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ReferredArea](/cells/python-net/ar/aspose.cells/referredarea)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ReferredArea`](/cells/python-net/ar/aspose.cells/referredarea)

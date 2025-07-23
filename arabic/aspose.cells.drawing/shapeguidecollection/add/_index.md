@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.drawing/shapeguidecollection/add/
 is_root: false
 ---
-##  add(name, val) {#str-float}
-يضيف دليلاً للشكل. (هام: هذه الميزة متوفرة حاليًا فقط لـ Excel07 وما فوق)
+##  add(self, name, val) {#str-float}
+يضيف دليل الشكل. (هام: هذه الميزة متاحة حاليًا فقط لبرنامج Excel07 والإصدارات الأحدث)
 
 
 
 ```python
+
 def add(self, name, val):
     ...
 ```
@@ -20,11 +21,11 @@ def add(self, name, val):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| name | str | اسم الضبط. إنها "صفة (تُستخدم عندما يكون هناك قيمة ضبط واحدة فقط)" ، "إضافة 1" ، "إضافة 2" ، "إضافة 3" وهكذا.|
-| val | float | قيمة الضبط|
+| name | str |اسم التعديل. يكون كالتالي: "adj (يُستخدم عند وجود قيمة تعديل واحدة فقط)"، "adj1"، "adj2"، "adj3"، وهكذا.|
+| val | float | قيمة التعديل|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapeGuideCollection](/cells/python-net/ar/aspose.cells.drawing/shapeguidecollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapeGuideCollection`](/cells/python-net/ar/aspose.cells.drawing/shapeguidecollection)

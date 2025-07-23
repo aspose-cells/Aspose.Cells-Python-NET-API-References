@@ -3,7 +3,7 @@ title: height_pt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 470
 url: /ar/aspose.cells.drawing/scrollbar/height_pt/
 is_root: false
 ---

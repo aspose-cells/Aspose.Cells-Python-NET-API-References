@@ -1,31 +1,31 @@
 ---
-title: MsoLineFormat الدرجة
+title: MsoLineFormat صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 340
 url: /ar/aspose.cells.drawing/msolineformat/
 is_root: false
 ---
-##  MsoLineFormat الدرجة
+##  MsoLineFormat صف
 يمثل تنسيق الخط ورأس السهم.
 
 
 
-يكشف نوع MsoLineFormat الأعضاء التالية:
+يكشف النوع MsoLineFormat عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [is_visible](/cells/python-net/ar/aspose.cells.drawing/msolineformat/is_visible) | يشير إلى ما إذا كان الكائن مرئيًا أم لا.|
-| [style](/cells/python-net/ar/aspose.cells.drawing/msolineformat/style) | إرجاع كائن نمط يمثل نمط النطاق المحدد.|
-| [fore_color](/cells/python-net/ar/aspose.cells.drawing/msolineformat/fore_color) | الحصول على لون الصدارة لخط الحدود وتعيينه.|
-| [back_color](/cells/python-net/ar/aspose.cells.drawing/msolineformat/back_color) | الحصول على اللون الخلفي لخط الحدود وتعيينه.|
-| [dash_style](/cells/python-net/ar/aspose.cells.drawing/msolineformat/dash_style) | الحصول على أو تحديد نمط الشرطة للخط المحدد.|
-| [transparency](/cells/python-net/ar/aspose.cells.drawing/msolineformat/transparency) | إرجاع أو تعيين درجة شفافية التعبئة المحددة كقيمة من 0.0 (معتم) إلى 1.0 (مسح).|
+| [is_visible](/cells/python-net/ar/aspose.cells.drawing/msolineformat/is_visible) | يشير إلى ما إذا كان الكائن مرئيًا.|
+| [style](/cells/python-net/ar/aspose.cells.drawing/msolineformat/style) | يقوم بإرجاع كائن نمط يمثل نمط النطاق المحدد.|
+| [fore_color](/cells/python-net/ar/aspose.cells.drawing/msolineformat/fore_color) | يحصل على لون خط الحدود الأمامي ويحدده.|
+| [back_color](/cells/python-net/ar/aspose.cells.drawing/msolineformat/back_color) | يحصل على لون خط الحدود الخلفي ويقوم بتعيينه.|
+| [dash_style](/cells/python-net/ar/aspose.cells.drawing/msolineformat/dash_style) | يحصل على نمط الشرطة للسطر المحدد أو يعينه.|
+| [transparency](/cells/python-net/ar/aspose.cells.drawing/msolineformat/transparency) | يقوم بإرجاع أو تعيين درجة شفافية التعبئة المحددة كقيمة من 0.0 (غير شفاف) إلى 1.0 (واضح).|
 | [weight](/cells/python-net/ar/aspose.cells.drawing/msolineformat/weight) | إرجاع أو تعيين وزن الخط بوحدات pt.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

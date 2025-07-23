@@ -1,16 +1,16 @@
 ---
-title: image الملكية
+title: image عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells.digitalsignatures/digitalsignature/image/
 is_root: false
 ---
-##  image الملكية
+##  image عقار
 
 يحدد image للتوقيع الرقمي.
-القيمة الافتراضية خالية.
+القيمة الافتراضية هي null.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def image(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.digitalsignatures](../../)
-* فئة [DigitalSignature](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature)
+* الوحدة [`aspose.cells.digitalsignatures`](../../)
+* فئة [`DigitalSignature`](/cells/python-net/ar/aspose.cells.digitalsignatures/digitalsignature)

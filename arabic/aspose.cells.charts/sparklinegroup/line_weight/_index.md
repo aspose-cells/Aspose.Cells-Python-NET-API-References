@@ -1,5 +1,5 @@
 ---
-title: line_weight الملكية
+title: line_weight عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 100
 url: /ar/aspose.cells.charts/sparklinegroup/line_weight/
 is_root: false
 ---
-##  line_weight الملكية
+##  line_weight عقار
 
-الحصول على سمك الخط وتعيينه في كل خط مؤشر في مجموعة خط المؤشر ، في وحدة النقاط.
+يحصل على وزن الخط ويحدده في كل شريط مؤشر في مجموعة أشرطة المؤشر، بوحدة النقاط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def line_weight(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [SparklineGroup](/cells/python-net/ar/aspose.cells.charts/sparklinegroup)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`SparklineGroup`](/cells/python-net/ar/aspose.cells.charts/sparklinegroup)

@@ -1,22 +1,23 @@
 ---
 title: add_list_box方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 190
 url: /zh/aspose.cells.drawing/shapecollection/add_list_box/
 is_root: false
 ---
-##  add_list_box(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
-将 ListBox 添加到工作表。
+##  add_list_box(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+向工作表添加一个 ListBox。
 
 
 ### 返回
 
-一个列表框对象。
+ListBox 对象。
 
 
 ```python
+
 def add_list_box(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -25,9 +26,9 @@ def add_list_box(self, upper_left_row, top, upper_left_column, left, height, wid
 |范围|类型|描述|
 | :- | :- | :- |
 | upper_left_row | int |左上行索引。|
-| top | int |表示 ListBox 与其左行的垂直偏移量，以像素为单位。|
-| upper_left_column | int |左上列索引。|
-| left | int |表示 ListBox 与其左列的水平偏移量，以像素为单位。|
+| top | int |表示ListBox相对于其左行的垂直偏移量，以像素为单位。|
+| upper_left_column | int |左上角的列索引。|
+| left | int |表示ListBox相对于其左列的水平偏移量，以像素为单位。|
 | height | int |表示ListBox的高度，单位为像素。|
 | width | int |表示ListBox的宽度，以像素为单位。|
 
@@ -43,5 +44,5 @@ listBox = shapes.add_list_box(1, 0, 1, 0, 100, 50)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapeCollection](/cells/python-net/zh/aspose.cells.drawing/shapecollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapeCollection`](/cells/python-net/zh/aspose.cells.drawing/shapecollection)

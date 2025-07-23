@@ -3,7 +3,7 @@ title: is_hidden属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 580
+weight: 590
 url: /zh/aspose.cells.drawing/groupbox/is_hidden/
 is_root: false
 ---

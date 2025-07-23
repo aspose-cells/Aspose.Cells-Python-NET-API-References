@@ -3,17 +3,17 @@ title: tiff_compression عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 380
 url: /ar/aspose.cells.rendering/imageorprintoptions/tiff_compression/
 is_root: false
 ---
 ##  tiff_compression عقار
 
-الحصول على أو تعيين نوع الضغط الذي سيتم تطبيقه فقط عند حفظ الصفحات بتنسيق `Tiff`.
+يحصل على نوع الضغط الذي سيتم تطبيقه فقط عند حفظ الصفحات بتنسيق `Tiff` أو يعينه.
 
 ###  ملاحظات
 
-يكون له تأثير فقط عند الحفظ على TIFF.
+لا يكون له تأثير إلا عند الحفظ في TIFF.
 القيمة الافتراضية هي Lzw.
 ###  تعريف:
 ```python

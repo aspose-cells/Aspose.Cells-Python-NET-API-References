@@ -7,16 +7,17 @@ weight: 40
 url: /ar/aspose.cells.slicers/slicercacheitemcollection/index_of/
 is_root: false
 ---
-##  index_of(item, index) {#SlicerCacheItem-int}
-البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من الفهرس المحدد إلى العنصر الأخير.
+##  index_of(self, item, index) {#aspose.cells.slicers.SlicerCacheItem-int}
+يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.
 
 
 ###  عائدات
 
-الفهرس الصفري للتواجد الأول للقيمة ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من startIndex إلى العنصر الأخير ، إذا تم العثور عليه ؛ خلاف ذلك ، -1.
+الفهرس الذي يبدأ من الصفر للظهور الأول للقيمة ضمن نطاق العناصر في قائمة المصفوفة والذي يمتد من startIndex إلى العنصر الأخير، إذا تم العثور عليه؛ وإلا، -1.
 
 
 ```python
+
 def index_of(self, item, index):
     ...
 ```
@@ -24,20 +25,21 @@ def index_of(self, item, index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| item | [SlicerCacheItem](/cells/python-net/ar/aspose.cells.slicers/slicercacheitem) | الكائن المطلوب تحديد موقعه في قائمة الصفيف. يمكن أن تكون القيمة فارغة.|
-| index | int | فهرس البداية الصفري للبحث. 0 (صفر) صالح في قائمة فارغة.|
+| item | [`SlicerCacheItem`](/cells/python-net/ar/aspose.cells.slicers/slicercacheitem) | الكائن المطلوب تحديد موقعه في قائمة المصفوفة. يمكن أن تكون القيمة فارغة.|
+| index | int | مؤشر البداية المبني على الصفر للبحث. 0 (صفر) صالح في قائمة فارغة.|
 
 
-##  index_of(item, index, count) {#SlicerCacheItem-int-int}
-البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ بالفهرس المحدد ويحتوي على عدد محدد من العناصر.
+##  index_of(self, item, index, count) {#aspose.cells.slicers.SlicerCacheItem-int-int}
+يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ بالفهرس المحدد وتحتوي على العدد المحدد من العناصر.
 
 
 ###  عائدات
 
-الفهرس الصفري للتواجد الأول للقيمة ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ في startIndex ويحتوي على عدد العناصر ، إذا تم العثور عليه ؛ خلاف ذلك ، -1.
+الفهرس المبني على الصفر للظهور الأول للقيمة ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ عند startIndex وتحتوي على عدد العناصر، إذا تم العثور عليها؛ وإلا، -1.
 
 
 ```python
+
 def index_of(self, item, index, count):
     ...
 ```
@@ -45,12 +47,12 @@ def index_of(self, item, index, count):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| item | [SlicerCacheItem](/cells/python-net/ar/aspose.cells.slicers/slicercacheitem) | الكائن المطلوب تحديد موقعه في قائمة الصفيف. يمكن أن تكون القيمة فارغة.|
-| index | int | فهرس البداية الصفري للبحث. 0 (صفر) صالح في قائمة فارغة.|
-| count | int | عدد العناصر في القسم للبحث.|
+| item | [`SlicerCacheItem`](/cells/python-net/ar/aspose.cells.slicers/slicercacheitem) | الكائن المطلوب تحديد موقعه في قائمة المصفوفة. يمكن أن تكون القيمة فارغة.|
+| index | int | مؤشر البداية المبني على الصفر للبحث. 0 (صفر) صالح في قائمة فارغة.|
+| count | int | عدد العناصر في القسم المراد البحث فيه.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [SlicerCacheItemCollection](/cells/python-net/ar/aspose.cells.slicers/slicercacheitemcollection)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`SlicerCacheItemCollection`](/cells/python-net/ar/aspose.cells.slicers/slicercacheitemcollection)

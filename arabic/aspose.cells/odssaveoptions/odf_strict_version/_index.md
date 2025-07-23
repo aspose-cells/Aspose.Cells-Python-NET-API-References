@@ -3,13 +3,13 @@ title: odf_strict_version عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 120
 url: /ar/aspose.cells/odssaveoptions/odf_strict_version/
 is_root: false
 ---
 ##  odf_strict_version عقار
 
-الحصول على إصدار ODF وتعيينه.
+يحصل على إصدار ODF ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property

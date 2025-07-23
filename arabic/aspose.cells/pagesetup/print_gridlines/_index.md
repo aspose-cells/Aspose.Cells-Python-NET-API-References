@@ -1,5 +1,5 @@
 ---
-title: print_gridlines الملكية
+title: print_gridlines عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 560
 url: /ar/aspose.cells/pagesetup/print_gridlines/
 is_root: false
 ---
-##  print_gridlines الملكية
+##  print_gridlines عقار
 
-يمثل حالة طباعة خطوط شبكة الخلية على الصفحة.
+يمثل ما إذا كانت خطوط الشبكة الخلوية مطبوعة على الصفحة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_gridlines(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

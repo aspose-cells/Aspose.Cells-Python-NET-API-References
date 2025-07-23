@@ -3,20 +3,20 @@ title: begin_arrowhead_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ar/aspose.cells.drawing/lineshape/begin_arrowhead_style/
 is_root: false
 ---
 ##  begin_arrowhead_style عقار
 
-الحصول على نمط رأس سهم البداية للخط وتعيينه.
+يحصل على نمط رأس السهم الأولي للخط ويحدده.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قديم الآن. بدلاً من،
- الرجاء استخدام الخاصية Shape.Line.BeginArrowheadStyle.
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ أغسطس 2016.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+ الرجاء استخدام خاصية Shape.Line.BeginArrowheadStyle.
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ أغسطس 2016.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property

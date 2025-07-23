@@ -3,13 +3,13 @@ title: refers_to عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 480
 url: /ar/aspose.cells/range/refers_to/
 is_root: false
 ---
 ##  refers_to عقار
 
-يحصل على إشارة النطاق إلى.
+يحصل على النطاق الذي يشير إليه.
 ###  تعريف:
 ```python
 @property

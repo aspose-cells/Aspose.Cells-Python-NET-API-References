@@ -8,19 +8,19 @@ url: /zh/aspose.cells.charts/ticklabelitem/
 is_root: false
 ---
 ## TickLabelItem类
-代表图表中的刻度标签。
+表示图表中的刻度标签。
 
 
 
 TickLabelItem 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [x](/cells/python-net/zh/aspose.cells.charts/ticklabelitem/x) | Ticklabel 项目的 X 坐标与图表宽度的比率。|
-| [y](/cells/python-net/zh/aspose.cells.charts/ticklabelitem/y) | Ticklabel 项目的 Y 坐标与图表高度的比率。|
-| [width](/cells/python-net/zh/aspose.cells.charts/ticklabelitem/width) | Ticklabel 项目的宽度与图表宽度的比率。|
-| [height](/cells/python-net/zh/aspose.cells.charts/ticklabelitem/height) |Ticklabel 项目的高度与图表高度的比率。|
+| [x](/cells/python-net/zh/aspose.cells.charts/ticklabelitem/x) |刻度标签项的 X 坐标与图表宽度的比例。|
+| [y](/cells/python-net/zh/aspose.cells.charts/ticklabelitem/y) |刻度标签项的 Y 坐标与图表高度的比例。|
+| [width](/cells/python-net/zh/aspose.cells.charts/ticklabelitem/width) |刻度标签项的宽度与图表宽度的比例。|
+| [height](/cells/python-net/zh/aspose.cells.charts/ticklabelitem/height) |刻度标签项的高度与图表高度的比例。|
 
 
 

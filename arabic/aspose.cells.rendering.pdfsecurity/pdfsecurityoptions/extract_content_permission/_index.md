@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  extract_content_permission عقار
 
- يشير إلى ما إذا كان سيتم السماح بنسخ النص والرسومات من المستند أو استخراجها بطريقة أخرى
-بعمليات غير تلك التي يسيطر عليها [`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content).
+ يشير إلى ما إذا كان سيتم السماح بنسخ أو استخراج النصوص والرسومات من المستند
+من خلال عمليات أخرى غير تلك التي يتم التحكم فيها بواسطة [`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content).
 ###  تعريف:
 ```python
 @property

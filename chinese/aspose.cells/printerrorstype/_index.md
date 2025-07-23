@@ -3,7 +3,7 @@ title: PrintErrorsType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2470
+weight: 2440
 url: /zh/aspose.cells/printerrorstype/
 is_root: false
 ---
@@ -14,10 +14,10 @@ is_root: false
 
 PrintErrorsType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| PRINT_ERRORS_BLANK |代表不打印错误。|
+| PRINT_ERRORS_BLANK |表示不打印错误。|
 | PRINT_ERRORS_DASH |表示将错误打印为“--”。|
 | PRINT_ERRORS_DISPLAYED |表示打印显示的错误。|
 | PRINT_ERRORS_NA |表示将错误打印为“#N/A”。|

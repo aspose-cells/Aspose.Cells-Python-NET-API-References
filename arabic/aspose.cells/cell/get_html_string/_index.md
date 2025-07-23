@@ -7,8 +7,8 @@ weight: 150
 url: /ar/aspose.cells/cell/get_html_string/
 is_root: false
 ---
-##  get_html_string(html5) {#bool}
-الحصول على سلسلة html التي تحتوي على بيانات وبعض التنسيقات في هذه الخلية.
+##  get_html_string(self, html5) {#bool}
+يحصل على سلسلة HTML التي تحتوي على البيانات وبعض التنسيقات في هذه الخلية.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_html_string(self, html5):
     ...
 ```
@@ -29,5 +30,5 @@ def get_html_string(self, html5):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

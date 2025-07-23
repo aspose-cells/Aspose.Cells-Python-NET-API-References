@@ -1,5 +1,5 @@
 ---
-title: ShapeGuideCollection المنشئ
+title: ShapeGuideCollection منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells.drawing/shapeguidecollection/__init__/
 is_root: false
 ---
-##  ShapeGuideCollection() {#}
-بناء نسخة جديدة من ShapeGuideCollection
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد لـ ShapeGuideCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapeGuideCollection](/cells/python-net/ar/aspose.cells.drawing/shapeguidecollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapeGuideCollection`](/cells/python-net/ar/aspose.cells.drawing/shapeguidecollection)

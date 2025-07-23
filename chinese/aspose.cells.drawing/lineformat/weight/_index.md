@@ -1,15 +1,15 @@
 ---
-title: weight 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: weight属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 360
 url: /zh/aspose.cells.drawing/lineformat/weight/
 is_root: false
 ---
-## weight 属性
+## weight属性
 
-获取或设置直线的 weight，以点为单位。
+以点为单位获取或设置线的weight。
 
 ### 例子
 
@@ -29,5 +29,5 @@ def weight(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [LineFormat](/cells/python-net/zh/aspose.cells.drawing/lineformat)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`LineFormat`](/cells/python-net/zh/aspose.cells.drawing/lineformat)

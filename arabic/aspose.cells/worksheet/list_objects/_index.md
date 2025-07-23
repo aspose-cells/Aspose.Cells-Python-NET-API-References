@@ -3,13 +3,13 @@ title: list_objects عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 670
 url: /ar/aspose.cells/worksheet/list_objects/
 is_root: false
 ---
 ##  list_objects عقار
 
-يحصل على كافة كائنات القائمة في ورقة العمل هذه.
+يحصل على كافة ListObjects في ورقة العمل هذه.
 ###  تعريف:
 ```python
 @property

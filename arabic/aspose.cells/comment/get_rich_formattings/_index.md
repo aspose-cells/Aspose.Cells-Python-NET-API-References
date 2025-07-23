@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells/comment/get_rich_formattings/
 is_root: false
 ---
-##  get_rich_formattings {#}
- إرجاع كافة كائنات الأحرف
-يمثل نطاقًا من الأحرف داخل نص التعليق.
+##  get_rich_formattings(self) {#}
+ إرجاع جميع كائنات الأحرف
+وهو ما يمثل مجموعة من الأحرف داخل نص التعليق.
 
 
 ###  عائدات
@@ -18,6 +18,7 @@ is_root: false
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

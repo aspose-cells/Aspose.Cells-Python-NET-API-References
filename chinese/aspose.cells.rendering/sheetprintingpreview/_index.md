@@ -1,9 +1,9 @@
 ---
 title: SheetPrintingPreview类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 90
+weight: 100
 url: /zh/aspose.cells.rendering/sheetprintingpreview/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-SheetPrintingPreview 类型公开了以下成员：
+SheetPrintingPreview 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [SheetPrintingPreview(sheet, options)](/cells/python-net/zh/aspose.cells.rendering/sheetprintingpreview/__init__/#Worksheet-ImageOrPrintOptions) | SheetPrintingPreview 的构造|
+| [`__init__(self, sheet, options)`](/cells/python-net/zh/aspose.cells.rendering/sheetprintingpreview/__init__/#aspose.cells.worksheet-aspose.cells.rendering.imageorprintoptions) | SheetPrintingPreview 的构造|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [evaluated_page_count](/cells/python-net/zh/aspose.cells.rendering/sheetprintingpreview/evaluated_page_count) |评估此工作表的总页数|
@@ -28,4 +28,4 @@ SheetPrintingPreview 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](..)
+* 模块[`aspose.cells.rendering`](..)

@@ -1,5 +1,5 @@
 ---
-title: text الملكية
+title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,11 +7,11 @@ weight: 180
 url: /ar/aspose.cells/formatcondition/text/
 is_root: false
 ---
-##  text الملكية
+##  text عقار
 
- تحتوي القيمة text في "text على" قاعدة التنسيق الشرطي.
-صالح فقط للنوع = يحتوي على نص ، لا يحتوي على نص ، يبدأ مع وينتهي.
-القيمه الافتراضيه فارغه.
+ القيمة text في قاعدة التنسيق الشرطي "يحتوي على text".
+صالح فقط لنوع = containsText، notContainsText، startsWith و endsWith.
+القيمة الافتراضية هي null.
 ###  تعريف:
 ```python
 @property
@@ -23,5 +23,5 @@ def text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormatCondition](/cells/python-net/ar/aspose.cells/formatcondition)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormatCondition`](/cells/python-net/ar/aspose.cells/formatcondition)

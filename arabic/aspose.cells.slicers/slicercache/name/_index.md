@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.slicers/slicercache/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-تُرجع name لذاكرة التخزين المؤقت لمقسم طريقة العرض.
+إرجاع name من ذاكرة التخزين المؤقت للتقطيع.
 
 ###  مثال
 
@@ -27,5 +27,5 @@ def name(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [SlicerCache](/cells/python-net/ar/aspose.cells.slicers/slicercache)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`SlicerCache`](/cells/python-net/ar/aspose.cells.slicers/slicercache)

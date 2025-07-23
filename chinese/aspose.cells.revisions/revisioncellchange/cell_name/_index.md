@@ -1,13 +1,13 @@
 ---
-title: cell_name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: cell_name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.revisions/revisioncellchange/cell_name/
 is_root: false
 ---
-## cell_name 属性
+## cell_name属性
 
 获取单元格的名称。
 ### 定义：
@@ -18,5 +18,5 @@ def cell_name(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.revisions](../../)
-* 类 [RevisionCellChange](/cells/python-net/zh/aspose.cells.revisions/revisioncellchange)
+* 模块[`aspose.cells.revisions`](../../)
+* 类 [`RevisionCellChange`](/cells/python-net/zh/aspose.cells.revisions/revisioncellchange)

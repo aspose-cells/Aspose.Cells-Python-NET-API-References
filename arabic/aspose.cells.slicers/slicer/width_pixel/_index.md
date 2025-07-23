@@ -1,15 +1,22 @@
 ---
-title: width_pixel الملكية
+title: width_pixel عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ar/aspose.cells.slicers/slicer/width_pixel/
 is_root: false
 ---
-##  width_pixel الملكية
+##  width_pixel عقار
 
-إرجاع أو تعيين عرض أداة تقطيع الشرائح المحددة بالبكسل.
+إرجاع أو تعيين عرض المقطع المحدد بالبكسل.
+
+###  ملاحظات
+
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+ الرجاء استخدام خاصية Shape.Width.
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ مايو 2025.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 ###  مثال
 
@@ -29,5 +36,5 @@ def width_pixel(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ## bottom_crop_inch属性
 
-表示所表示的裁剪矩形底部的位置，单位为英寸。
+表示裁剪矩形底部的位置，以英寸为单位。
 ### 定义：
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: show_signed_date الملكية
+title: show_signed_date عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells.drawing/signatureline/show_signed_date/
 is_root: false
 ---
-##  show_signed_date الملكية
+##  show_signed_date عقار
 
-يشير إلى ما إذا كان إظهار التاريخ الموقع.
+يشير إلى ما إذا كان سيتم عرض تاريخ التوقيع.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def show_signed_date(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline)

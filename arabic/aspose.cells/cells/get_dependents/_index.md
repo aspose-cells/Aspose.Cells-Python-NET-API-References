@@ -3,12 +3,12 @@ title: طريقة get_dependents
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 390
 url: /ar/aspose.cells/cells/get_dependents/
 is_root: false
 ---
-##  get_dependents {#bool-int-int}
-الحصول على كافة الخلايا التي تشير إلى خلية معينة.
+##  get_dependents(self, is_all, row, column) {#bool-int-int}
+احصل على جميع الخلايا التي تشير إلى الخلية المحددة.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_dependents(self, is_all, row, column):
     ...
 ```
@@ -24,7 +25,7 @@ def get_dependents(self, is_all, row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| is_all | bool | يشير إلى ما إذا كان التحقق من أوراق العمل الأخرى|
+| is_all | bool | يشير إلى ما إذا كان سيتم التحقق من أوراق العمل الأخرى|
 | row | int | مؤشر الصف.|
 | column | int | فهرس العمود.|
 

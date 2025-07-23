@@ -3,13 +3,13 @@ title: anchor_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 300
 url: /zh/aspose.cells.drawing/groupbox/anchor_type/
 is_root: false
 ---
 ## anchor_type属性
 
-获取并设置形状锚点占位符。
+获取和设置形状锚点占位符的类型。
 
 ### 例子
 

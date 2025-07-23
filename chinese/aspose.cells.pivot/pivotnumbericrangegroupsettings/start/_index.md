@@ -9,7 +9,7 @@ is_root: false
 ---
 ## start属性
 
-获取群组号码start。
+获取群号start。
 ### 定义：
 ```python
 @property

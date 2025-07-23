@@ -1,5 +1,5 @@
 ---
-title: paper_size الملكية
+title: paper_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 490
 url: /ar/aspose.cells/pagesetup/paper_size/
 is_root: false
 ---
-##  paper_size الملكية
+##  paper_size عقار
 
-يمثل حجم الورق.
+يمثل حجم الورقة.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def paper_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
-* فئة [PaperSizeType](/cells/python-net/ar/aspose.cells/papersizetype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)
+* فئة [`PaperSizeType`](/cells/python-net/ar/aspose.cells/papersizetype)

@@ -7,12 +7,13 @@ weight: 60
 url: /ar/aspose.cells/errorcheckoption/remove_range/
 is_root: false
 ---
-##  remove_range(index) {#int}
-يزيل نطاق واحد بفهرس معين.
+##  remove_range(self, index) {#int}
+يقوم بإزالة نطاق واحد حسب الفهرس المحدد.
 
 
 
 ```python
+
 def remove_range(self, index):
     ...
 ```
@@ -20,10 +21,10 @@ def remove_range(self, index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| index | int | فهرس النطاق المراد إزالته.|
+| index | int | مؤشر النطاق الذي سيتم إزالته.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ErrorCheckOption](/cells/python-net/ar/aspose.cells/errorcheckoption)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ErrorCheckOption`](/cells/python-net/ar/aspose.cells/errorcheckoption)

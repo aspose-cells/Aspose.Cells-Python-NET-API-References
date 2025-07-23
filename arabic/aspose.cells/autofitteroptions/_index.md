@@ -1,38 +1,39 @@
 ---
-title: AutoFitterOptions الدرجة
+title: AutoFitterOptions صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 50
 url: /ar/aspose.cells/autofitteroptions/
 is_root: false
 ---
-##  AutoFitterOptions الدرجة
+##  AutoFitterOptions صف
 يمثل جميع خيارات التركيب التلقائي.
 
 
 
-يكشف نوع AutoFitterOptions الأعضاء التالية:
+يكشف النوع AutoFitterOptions عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [AutoFitterOptions()](/cells/python-net/ar/aspose.cells/autofitteroptions/__init__/#) | إنشاء مثيل جديد لـ AutoFitterOptions|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/autofitteroptions/__init__/#) | إنشاء مثيل جديد لـ AutoFitterOptions|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [default_edit_language](/cells/python-net/ar/aspose.cells/autofitteroptions/default_edit_language) | الحصول على أو تعيين لغة التحرير الافتراضية.|
-| [auto_fit_merged_cells](/cells/python-net/ar/aspose.cells/autofitteroptions/auto_fit_merged_cells) | يشير إلى ما إذا كان احتواء ارتفاع الصف تلقائيًا عند دمج الخلايا في صف.<br/> القيمة الافتراضية هي كاذبة.|
-| [auto_fit_merged_cells_type](/cells/python-net/ar/aspose.cells/autofitteroptions/auto_fit_merged_cells_type) | الحصول على نوع الملاءمة التلقائية لارتفاع صف الخلايا المدمجة وتعيينه.|
-| [only_auto](/cells/python-net/ar/aspose.cells/autofitteroptions/only_auto) | يشير إلى ما إذا كانت تناسب الصفوف التي لم يتم تخصيص ارتفاعها.|
-| [ignore_hidden](/cells/python-net/ar/aspose.cells/autofitteroptions/ignore_hidden) | يتجاهل الصفوف / الأعمدة المخفية.|
-| [max_row_height](/cells/python-net/ar/aspose.cells/autofitteroptions/max_row_height) | الحصول على أقصى ارتفاع للصف وتعيينه (بوحدة النقطة) عند احتواء الصفوف تلقائيًا.|
-| [auto_fit_wrapped_text_type](/cells/python-net/ar/aspose.cells/autofitteroptions/auto_fit_wrapped_text_type) | الحصول على نوع النص المغلف المناسب تلقائيًا وتعيينه.|
-| [format_strategy](/cells/python-net/ar/aspose.cells/autofitteroptions/format_strategy) | الحصول على الاستراتيجية المنسقة وتعيينها.|
+| [default_edit_language](/cells/python-net/ar/aspose.cells/autofitteroptions/default_edit_language) | يحصل على لغة التحرير الافتراضية أو يعينها.|
+| [auto_fit_merged_cells](/cells/python-net/ar/aspose.cells/autofitteroptions/auto_fit_merged_cells) | يشير إلى ما إذا كان ارتفاع الصف يتناسب تلقائيًا عند دمج الخلايا في صف واحد.<br/> القيمة الافتراضية هي false.|
+| [auto_fit_merged_cells_type](/cells/python-net/ar/aspose.cells/autofitteroptions/auto_fit_merged_cells_type) |يحصل على نوع ارتفاع الصف المناسب تلقائيًا للخلايا المدمجة ويقوم بتعيينه.|
+| [only_auto](/cells/python-net/ar/aspose.cells/autofitteroptions/only_auto) | يشير إلى ما إذا كان مناسبًا فقط للصفوف التي لا يتم تخصيص ارتفاعها.|
+| [ignore_hidden](/cells/python-net/ar/aspose.cells/autofitteroptions/ignore_hidden) | يتجاهل الصفوف/الأعمدة المخفية.|
+| [max_row_height](/cells/python-net/ar/aspose.cells/autofitteroptions/max_row_height) | يحصل على الحد الأقصى لارتفاع الصف (بوحدة النقطة) ويحدده عند تركيب الصفوف تلقائيًا.|
+| [auto_fit_wrapped_text_type](/cells/python-net/ar/aspose.cells/autofitteroptions/auto_fit_wrapped_text_type) | يحصل على نوع النص الملتف المناسب تلقائيًا ويقوم بتعيينه.|
+| [format_strategy](/cells/python-net/ar/aspose.cells/autofitteroptions/format_strategy) | يحصل على الاستراتيجية المنسقة ويحددها.|
+| [for_rendering](/cells/python-net/ar/aspose.cells/autofitteroptions/for_rendering) | يشير إلى ما إذا كان مناسبًا لغرض العرض.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

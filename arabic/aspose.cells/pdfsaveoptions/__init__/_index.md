@@ -1,5 +1,5 @@
 ---
-title: PdfSaveOptions المنشئ
+title: PdfSaveOptions منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/pdfsaveoptions/__init__/
 is_root: false
 ---
-##  PdfSaveOptions() {#}
-ينشئ خيارات لحفظ ملف pdf.
+##  \_\_init\_\_(الذات){#}
+إنشاء خيارات لحفظ ملف pdf.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PdfSaveOptions](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PdfSaveOptions`](/cells/python-net/ar/aspose.cells/pdfsaveoptions)

@@ -1,22 +1,23 @@
 ---
 title: get_connection_points方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 100
 url: /zh/aspose.cells.drawing/shape/get_connection_points/
 is_root: false
 ---
-##  get_connection_points() {#}
+##  get_connection_points(self) {#}
 获取连接点
 
 
 ### 返回
 
-[X,Y] 对连接点。每一项都是一个float[2]数组，[0]代表x，[1]代表y。
+连接点的 [X,Y] 对。每一项都是一个 float[2] 数组，[0] 代表 x，[1] 代表 y。
 
 
 ```python
+
 def get_connection_points(self):
     ...
 ```
@@ -34,5 +35,5 @@ points = shape.get_connection_points()
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Shape](/cells/python-net/zh/aspose.cells.drawing/shape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Shape`](/cells/python-net/zh/aspose.cells.drawing/shape)

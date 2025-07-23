@@ -3,20 +3,21 @@ title: طريقة get_row_enumerator
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 490
 url: /ar/aspose.cells/cells/get_row_enumerator/
 is_root: false
 ---
-##  get_row_enumerator {#}
+##  get_row_enumerator(self) {#}
 يحصل على عداد الصفوف.
 
 
 ###  عائدات
 
-عداد الصفوف.
+عدّاد الصفوف.
 
 
 ```python
+
 def get_row_enumerator(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_row_enumerator(self):
 
 ###  ملاحظات
 
-ملاحظة: هذا العضو قديم الآن. بدلاً من،
-الرجاء استخدام طريقة RowCollection.GetEnumerator().
-ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ مايو 2023.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+من فضلك استخدم طريقة RowCollection.GetEnumerator().
+سيتم إزالة هذه الطريقة بعد مرور 12 شهرًا منذ مايو 2023.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا

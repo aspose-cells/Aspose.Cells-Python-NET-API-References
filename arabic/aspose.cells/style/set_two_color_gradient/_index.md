@@ -7,12 +7,13 @@ weight: 90
 url: /ar/aspose.cells/style/set_two_color_gradient/
 is_root: false
 ---
-##  set_two_color_gradient(color1, color2, gradient_style_type, variant) {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
-يضبط التعبئة المحددة على تدرج لوني ثنائي اللون.
+##  set_two_color_gradient(self, color1, color2, gradient_style_type, variant) {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
+تعيين التعبئة المحددة إلى تدرج لوني ثنائي اللون.
 
 
 
 ```python
+
 def set_two_color_gradient(self, color1, color2, gradient_style_type, variant):
     ...
 ```
@@ -20,13 +21,13 @@ def set_two_color_gradient(self, color1, color2, gradient_style_type, variant):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| color1 | aspose.pydrawing.Color | لون واحد متدرج.|
-| color2 | aspose.pydrawing.Color | اثنين من لون التدرج.|
-| gradient_style_type | aspose.cells.drawing.GradientStyleType | أسلوب التظليل المتدرج.|
-| variant | int |متغير التدرج. يمكن أن تكون قيمة من 1 إلى 4 ، مطابقة لأحد المتغيرات الأربعة في علامة التبويب Gradient في مربع حوار Fill Effects. إذا كان النمط هو GradientStyle.FromCenter ، يمكن أن تكون وسيطة Variant 1 أو 2 فقط.|
+| color1 | aspose.pydrawing.Color | لون متدرج واحد.|
+| color2 | aspose.pydrawing.Color | لونين متدرجين.|
+| gradient_style_type | aspose.cells.drawing.GradientStyleType | نمط التظليل المتدرج.|
+| variant | int | متغير التدرج. يمكن أن تكون قيمة من ١ إلى ٤، تتوافق مع أحد المتغيرات الأربعة في علامة تبويب "التدرج" ضمن مربع حوار "تأثيرات التعبئة". إذا كان النمط GradientStyle.FromCenter، فلا يمكن أن تكون وسيطة المتغير سوى ١ أو ٢.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

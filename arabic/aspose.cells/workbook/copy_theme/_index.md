@@ -3,16 +3,17 @@ title: طريقة copy_theme
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells/workbook/copy_theme/
 is_root: false
 ---
-##  copy_theme(source) {#Workbook}
-ينسخ النسق من مصنف آخر.
+##  copy_theme(self, source) {#aspose.cells.Workbook}
+نسخ الموضوع من مصنف آخر.
 
 
 
 ```python
+
 def copy_theme(self, source):
     ...
 ```
@@ -20,10 +21,10 @@ def copy_theme(self, source):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| source | [Workbook](/cells/python-net/ar/aspose.cells/workbook) | المصنف المصدر.|
+| source | [`Workbook`](/cells/python-net/ar/aspose.cells/workbook) | كتاب عمل المصدر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

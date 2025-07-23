@@ -1,5 +1,5 @@
 ---
-title: calculate_on_open الملكية
+title: calculate_on_open عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,16 +7,16 @@ weight: 30
 url: /ar/aspose.cells/formulasettings/calculate_on_open/
 is_root: false
 ---
-##  calculate_on_open الملكية
+##  calculate_on_open عقار
 
-يشير إلى ما إذا كان التطبيق مطلوبًا لإجراء عملية حسابية كاملة عند فتح المصنف.
+يشير إلى ما إذا كان مطلوبًا من التطبيق إجراء حساب كامل عند فتح المصنف.
 
 ###  ملاحظات
 
 هذه الخاصية مخصصة فقط لحفظ الإعدادات في ملف جدول البيانات الناتج
-بحيث تعمل التطبيقات الأخرى (مثل ms excel) وفقًا لذلك عند تحميل الملف الناتج.
-للنظر في الأداء لمعظم تطبيقات المستخدمين ، لا نقوم بحساب أي صيغة في المصنف تلقائيًا ،
-بغض النظر عن القيمة التي تم تحديدها لهذه الخاصية.
+حتى تتمكن التطبيقات الأخرى (مثل ms excel) من التصرف وفقًا لذلك عند تحميل الملف الناتج.
+من أجل مراعاة الأداء بالنسبة لتطبيقات معظم المستخدمين، فإننا لا نحسب أي صيغة في المصنف تلقائيًا،
+بغض النظر عن القيمة التي تم تعيينها لهذه الخاصية.
 ###  تعريف:
 ```python
 @property
@@ -28,5 +28,5 @@ def calculate_on_open(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormulaSettings](/cells/python-net/ar/aspose.cells/formulasettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormulaSettings`](/cells/python-net/ar/aspose.cells/formulasettings)

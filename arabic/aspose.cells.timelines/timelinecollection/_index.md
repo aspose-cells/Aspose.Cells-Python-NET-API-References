@@ -1,5 +1,5 @@
 ---
-title: TimelineCollection الدرجة
+title: TimelineCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,37 +7,38 @@ weight: 20
 url: /ar/aspose.cells.timelines/timelinecollection/
 is_root: false
 ---
-##  TimelineCollection الدرجة
-يحدد مجموعة كل كائنات المخطط الزمني في ورقة العمل المحددة.
-بسبب MS Excel ، لا يدعم Excel 2003 الجدول الزمني.
+##  TimelineCollection صف
+يحدد مجموعة كل كائنات الجدول الزمني الموجودة في ورقة العمل المحددة.
+بسبب MS Excel، لا يدعم Excel 2003 الجدول الزمني.
 
 
 
-يكشف نوع TimelineCollection الأعضاء التالية:
+يكشف النوع TimelineCollection عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [capacity](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/capacity) | الحصول على أو تحديد عدد العناصر التي يمكن أن تحتويها قائمة الصفيف.|
+| [capacity](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/capacity) | يحصل على عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة أو يعينها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add(pivot, row, column, base_field_name)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | أضف مخططًا زمنيًا جديدًا باستخدام PivotTable كمصدر بيانات|
-| [add(pivot, dest_cell_name, base_field_name)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-str-str) | أضف مخططًا زمنيًا جديدًا باستخدام PivotTable كمصدر بيانات|
-| [add(pivot, row, column, base_field_index)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-int-int-int) | أضف مخططًا زمنيًا جديدًا باستخدام PivotTable كمصدر بيانات|
-| [add(pivot, dest_cell_name, base_field_index)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-str-int) | أضف مخططًا زمنيًا جديدًا باستخدام PivotTable كمصدر بيانات|
-| [add(pivot, row, column, base_field)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField) | أضف مخططًا زمنيًا جديدًا باستخدام PivotTable كمصدر بيانات|
-| [add(pivot, dest_cell_name, base_field)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField) | أضف مخططًا زمنيًا جديدًا باستخدام PivotTable كمصدر بيانات|
-| [copy_to(array)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/copy_to/#list) | ينسخ قائمة المصفوفات بأكملها إلى قائمة مصفوفة متوافقة أحادية البعد ، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/copy_to/#int-list-int-int) |ينسخ نطاقًا من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة ، بدءًا من الفهرس المحدد لقائمة الصفيف الهدف.|
-| [index_of(item, index)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/index_of/#Timeline-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of(item, index, count)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/index_of/#Timeline-int-int) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة الصفيف الذي يبدأ بالفهرس المحدد ويحتوي على عدد محدد من العناصر.|
-| [last_index_of(item)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/last_index_of/#Timeline) | البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of(item, index)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/last_index_of/#Timeline-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of(item, index, count)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/last_index_of/#Timeline-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
-| [binary_search(item)](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/binary_search/#Timeline) | يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.|
+| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-int-int-str) | إضافة جدول زمني جديد باستخدام PivotTable كمصدر للبيانات|
+| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-str-str) | إضافة جدول زمني جديد باستخدام PivotTable كمصدر للبيانات|
+| [`add(self, pivot, row, column, base_field_index)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-int-int-int) | إضافة جدول زمني جديد باستخدام PivotTable كمصدر للبيانات|
+| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-str-int) | إضافة جدول زمني جديد باستخدام PivotTable كمصدر للبيانات|
+| [`add(self, pivot, row, column, base_field)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-int-int-aspose.cells.pivot.pivotfield) | إضافة جدول زمني جديد باستخدام PivotTable كمصدر للبيانات|
+| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-str-aspose.cells.pivot.pivotfield) | إضافة جدول زمني جديد باستخدام PivotTable كمصدر للبيانات|
+| [`copy_to(self, array)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/copy_to/#list) |يقوم بنسخ قائمة المصفوفة بأكملها إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من بداية قائمة المصفوفة المستهدفة.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/copy_to/#int-list-int-int) | يقوم بنسخ مجموعة من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لقائمة المصفوفة المستهدفة.|
+| [`index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/index_of/#aspose.cells.timelines.timeline-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/index_of/#aspose.cells.timelines.timeline-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ بالفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [`last_index_of(self, item)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/last_index_of/#aspose.cells.timelines.timeline) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن قائمة المصفوفة بأكملها.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/last_index_of/#aspose.cells.timelines.timeline-int) |يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/last_index_of/#aspose.cells.timelines.timeline-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبدئي للصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
+| [`get(self, name)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/get/#str) | يحصل على الجدول الزمني حسب اسم الجدول الزمني.|
+| [`binary_search(self, item)`](/cells/python-net/ar/aspose.cells.timelines/timelinecollection/binary_search/#aspose.cells.timelines.timeline) | يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.|
 
 
 
@@ -46,7 +47,7 @@ is_root: false
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -91,4 +92,4 @@ book.save("out.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.timelines](..)
+* الوحدة [`aspose.cells.timelines`](..)

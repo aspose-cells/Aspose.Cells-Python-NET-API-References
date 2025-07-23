@@ -1,5 +1,5 @@
 ---
-title: PictureBulletValue المنشئ
+title: PictureBulletValue منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells.drawing.texts/picturebulletvalue/__init__/
 is_root: false
 ---
-##  PictureBulletValue() {#}
-بناء نسخة جديدة من PictureBulletValue
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد لـ PictureBulletValue
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [PictureBulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/picturebulletvalue)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`PictureBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/picturebulletvalue)

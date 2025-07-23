@@ -3,7 +3,7 @@ title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /ar/aspose.cells.drawing/combobox/type/
 is_root: false
 ---

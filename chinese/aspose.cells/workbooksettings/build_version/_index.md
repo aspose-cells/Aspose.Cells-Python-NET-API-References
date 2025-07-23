@@ -1,13 +1,13 @@
 ---
-title: build_version 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: build_version属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells/workbooksettings/build_version/
 is_root: false
 ---
-## build_version 属性
+## build_version属性
 
 指定应用程序的增量公开发布。
 ### 定义：
@@ -21,5 +21,5 @@ def build_version(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)

@@ -11,9 +11,9 @@ is_root: false
 
 指示是否允许添加或修改文本注释、填写交互式表单字段。
 
-### 评论
+### 注意事项
 
-如果还设置了 [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission)，则创建或修改交互式表单字段（包括签名字段）。
+如果还设置了[`PdfSecurityOptions.modify_document_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission)，则创建或修改交互式表单字段（包括签名字段）。
 ### 定义：
 ```python
 @property

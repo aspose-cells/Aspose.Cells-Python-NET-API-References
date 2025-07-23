@@ -3,13 +3,13 @@ title: comments عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 460
 url: /ar/aspose.cells/worksheet/comments/
 is_root: false
 ---
 ##  comments عقار
 
-يحصل على مجموعة [`Comment`](/cells/python-net/ar/aspose.cells/comment).
+يحصل على المجموعة [`Comment`](/cells/python-net/ar/aspose.cells/comment).
 ###  تعريف:
 ```python
 @property

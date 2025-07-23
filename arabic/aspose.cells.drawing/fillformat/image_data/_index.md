@@ -1,5 +1,5 @@
 ---
-title: image_data الملكية
+title: image_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 140
 url: /ar/aspose.cells.drawing/fillformat/image_data/
 is_root: false
 ---
-##  image_data الملكية
+##  image_data عقار
 
-الحصول على بيانات صورة الصورة وتعيينها.
+يحصل على بيانات الصورة ويقوم بتعيينها.
 
 ###  ملاحظات
 
-إذا لم يكن تنسيق التعبئة هو تنسيق نسيج مخصص ، يتم إرجاع قيمة خالية.
+إذا لم يكن تنسيق التعبئة هو تنسيق نسيج مخصص، فسيتم إرجاع القيمة null.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def image_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [FillFormat](/cells/python-net/ar/aspose.cells.drawing/fillformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`FillFormat`](/cells/python-net/ar/aspose.cells.drawing/fillformat)

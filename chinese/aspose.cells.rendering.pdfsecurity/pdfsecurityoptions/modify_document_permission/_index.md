@@ -9,8 +9,8 @@ is_root: false
 ---
 ## modify_document_permission属性
 
-指示是否允许通过非受控操作来修改文档内容
-通过 [`PdfSecurityOptions.annotations_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#annotations_permission)、[`PdfSecurityOptions.fill_forms_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#fill_forms_permission) 和 [`PdfSecurityOptions.assemble_document_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#assemble_document_permission)。
+指示是否允许通过受控操作以外的操作修改文档内容
+编号为 [`PdfSecurityOptions.annotations_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#annotations_permission)、[`PdfSecurityOptions.fill_forms_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#fill_forms_permission) 和 [`PdfSecurityOptions.assemble_document_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#assemble_document_permission)。
 ### 定义：
 ```python
 @property

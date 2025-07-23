@@ -3,7 +3,7 @@ title: top_in_shape عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /ar/aspose.cells.drawing/radiobutton/top_in_shape/
 is_root: false
 ---
@@ -14,7 +14,7 @@ is_root: false
 
 ###  ملاحظات
 
-ينطبق فقط عندما يكون هذا الشكل في المجموعة أو المخطط.
+ينطبق فقط عندما يكون هذا الشكل في المجموعة أو الرسم البياني.
 
 ###  مثال
 

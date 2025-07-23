@@ -3,7 +3,7 @@ title: major_unit عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 310
 url: /ar/aspose.cells.charts/axis/major_unit/
 is_root: false
 ---

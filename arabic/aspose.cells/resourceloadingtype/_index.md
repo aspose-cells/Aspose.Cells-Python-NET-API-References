@@ -3,7 +3,7 @@ title: ResourceLoadingType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2530
+weight: 2500
 url: /ar/aspose.cells/resourceloadingtype/
 is_root: false
 ---
@@ -18,8 +18,8 @@ is_root: false
 | مجال| وصف|
 | :- | :- |
 | DEFAULT | يقوم بتحميل هذا المورد كالمعتاد.|
-| SKIP | تخطي تحميل هذا المورد.|
-| USER_PROVIDED | استخدام الدفق المقدم من قبل المستخدم|
+| SKIP | يتخطى تحميل هذا المورد.|
+| USER_PROVIDED | استخدم البث المقدم من قبل المستخدم|
 
 
 

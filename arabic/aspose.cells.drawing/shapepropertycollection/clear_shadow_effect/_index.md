@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells.drawing/shapepropertycollection/clear_shadow_effect/
 is_root: false
 ---
-##  clear_shadow_effect() {#}
-يمسح تأثير الظل لعنصر المخطط أو شكله.
+##  clear_shadow_effect(self) {#}
+يقوم بمسح تأثير الظل لعناصر الرسم البياني أو الشكل.
 
 
 
 ```python
+
 def clear_shadow_effect(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_shadow_effect(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapePropertyCollection](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapePropertyCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)

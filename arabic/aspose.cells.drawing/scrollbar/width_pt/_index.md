@@ -3,7 +3,7 @@ title: width_pt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1270
+weight: 1280
 url: /ar/aspose.cells.drawing/scrollbar/width_pt/
 is_root: false
 ---

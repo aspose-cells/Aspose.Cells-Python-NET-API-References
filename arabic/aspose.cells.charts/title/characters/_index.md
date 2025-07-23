@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.charts/title/characters/
 is_root: false
 ---
-##  characters() {#}
-يحصل على تنسيق النص المنسق لهذا العنوان.
+##  characters(self) {#}
+يحصل على تنسيق النص الغني لهذا العنوان.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def characters(self):
     ...
 ```
@@ -24,16 +25,17 @@ def characters(self):
 
 
 
-##  characters(start_index, length) {#int-int}
-تقوم بإرجاع عنصر الحروف الذي يمثل نطاقًا من characters داخل النص.
+##  characters(self, start_index, length) {#int-int}
+يقوم بإرجاع كائن أحرف يمثل نطاق characters داخل النص.
 
 
 ###  عائدات
 
-كائن الأحرف.
+كائنات الأحرف.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -41,11 +43,11 @@ def characters(self, start_index, length):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| start_index | int | فهرس بداية الحرف.|
+| start_index | int | مؤشر بداية الحرف.|
 | length | int | عدد الأحرف.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Title](/cells/python-net/ar/aspose.cells.charts/title)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Title`](/cells/python-net/ar/aspose.cells.charts/title)

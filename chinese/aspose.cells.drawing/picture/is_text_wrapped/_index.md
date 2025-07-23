@@ -3,13 +3,13 @@ title: is_text_wrapped属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 760
+weight: 780
 url: /zh/aspose.cells.drawing/picture/is_text_wrapped/
 is_root: false
 ---
 ## is_text_wrapped属性
 
-获取和设置包含文本的形状的文本环绕类型。
+获取并设置包含文本的形状的文本环绕类型。
 
 ### 例子
 

@@ -3,13 +3,13 @@ title: shape_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 440
 url: /ar/aspose.cells.charts/datalabels/shape_type/
 is_root: false
 ---
 ##  shape_type عقار
 
-الحصول على نوع شكل تسمية البيانات أو تعيينه.
+يحصل على نوع شكل تسمية البيانات أو يعينه.
 ###  تعريف:
 ```python
 @property

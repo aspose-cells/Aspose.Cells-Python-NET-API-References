@@ -1,15 +1,22 @@
 ---
-title: has_border_horizontal الملكية
+title: has_border_horizontal عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 70
 url: /ar/aspose.cells.charts/chartdatatable/has_border_horizontal/
 is_root: false
 ---
-##  has_border_horizontal الملكية
+##  has_border_horizontal عقار
 
-صواب إذا كان جدول بيانات المخطط يحتوي على حدود خلية أفقية
+صحيح إذا كان جدول بيانات الرسم البياني يحتوي على حدود خلوية أفقية
+
+###  ملاحظات
+
+ ملاحظة: هذه الخاصية أصبحت قديمة الآن. بدلاً من ذلك،
+الرجاء استخدام الخاصية ChartDataTable.HasHorizontalBorder.
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ يونيو 2024.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +28,5 @@ def has_border_horizontal(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartDataTable](/cells/python-net/ar/aspose.cells.charts/chartdatatable)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartDataTable`](/cells/python-net/ar/aspose.cells.charts/chartdatatable)

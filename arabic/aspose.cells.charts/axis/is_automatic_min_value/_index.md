@@ -3,13 +3,13 @@ title: is_automatic_min_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells.charts/axis/is_automatic_min_value/
 is_root: false
 ---
 ##  is_automatic_min_value عقار
 
-يشير إلى ما إذا تم تعيين القيمة الدنيا تلقائيًا.
+يشير إلى ما إذا كان يتم تعيين الحد الأدنى للقيمة تلقائيًا.
 ###  تعريف:
 ```python
 @property

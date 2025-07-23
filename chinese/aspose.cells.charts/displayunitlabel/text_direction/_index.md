@@ -1,22 +1,22 @@
 ---
-title: text_direction 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text_direction属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 310
+weight: 370
 url: /zh/aspose.cells.charts/displayunitlabel/text_direction/
 is_root: false
 ---
-## text_direction 属性
+## text_direction属性
 
 表示文本阅读顺序。
 
-### 评论
+### 注意事项
 
-注意：该成员现已过时。反而，
+注意：此成员现已过时。取而代之的是
 请使用 ChartTextFrame.ReadingOrder 属性。
-自 2020 年 3 月起 12 个月后，此属性将被删除。
-Aspose 对您可能遇到的任何不便深表歉意。
+自 2020 年 3 月起，该房产将于 12 个月后被移除。
+Aspose 对于您所遇到的不便深表歉意。
 ### 定义：
 ```python
 @property
@@ -28,6 +28,6 @@ def text_direction(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [DisplayUnitLabel](/cells/python-net/zh/aspose.cells.charts/displayunitlabel)
-* 类 [TextDirectionType](/cells/python-net/zh/aspose.cells/textdirectiontype)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`DisplayUnitLabel`](/cells/python-net/zh/aspose.cells.charts/displayunitlabel)
+* 类 [`TextDirectionType`](/cells/python-net/zh/aspose.cells/textdirectiontype)

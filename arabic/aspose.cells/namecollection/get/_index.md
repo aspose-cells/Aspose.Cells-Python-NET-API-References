@@ -7,8 +7,8 @@ weight: 60
 url: /ar/aspose.cells/namecollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-أضف API for Python عبر .Net. لأن هذا [الفهرس] غير مدعوم
+##  get(self, index) {#int}
+أضف API for Python عبر .Net. نظرًا لأن هذا [int index] غير مدعوم
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| index | int | الفهرس الصفري للعنصر.|
+| index | int | مؤشر العنصر المبني على الصفر.|
 
 
-##  get(text) {#str}
-أضف API for Python عبر .Net. لأن هذا [نص سلسلة] غير مدعوم
+##  get(self, text) {#str}
+أضف API for Python عبر .Net. نظرًا لأن هذا [نص السلسلة] غير مدعوم
 
 
 ###  عائدات
@@ -37,6 +38,7 @@ def get(self, index):
 
 
 ```python
+
 def get(self, text):
     ...
 ```
@@ -44,10 +46,10 @@ def get(self, text):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| text | str | نص الاسم.|
+| text | str | اسم النص.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [NameCollection](/cells/python-net/ar/aspose.cells/namecollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`NameCollection`](/cells/python-net/ar/aspose.cells/namecollection)

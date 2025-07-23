@@ -3,13 +3,13 @@ title: float_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 490
 url: /ar/aspose.cells/cell/float_value/
 is_root: false
 ---
 ##  float_value عقار
 
-الحصول على القيمة العائمة الموجودة في الخلية.
+يحصل على القيمة العائمة الموجودة في الخلية.
 ###  تعريف:
 ```python
 @property

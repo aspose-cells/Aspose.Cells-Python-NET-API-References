@@ -1,0 +1,26 @@
+---
+title: smoothing_mode propriété
+second_title: Aspose.Cells for Python via .NET API Références
+description:
+type: docs
+weight: 340
+url: /fr/aspose.cells.rendering/svgimageoptions/smoothing_mode/
+is_root: false
+---
+##  smoothing_mode propriété
+
+Spécifie si le lissage (anticrénelage) est appliqué aux lignes et aux courbes ainsi qu'aux bords des zones remplies.
+La valeur par défaut est SmoothingMode.None
+###  Définition:
+```python
+@property
+def smoothing_mode(self):
+    ...
+@smoothing_mode.setter
+def smoothing_mode(self, value):
+    ...
+```
+
+###  Voir également
+* module [`aspose.cells.rendering`](../../)
+* classe [`SvgImageOptions`](/cells/python-net/fr/aspose.cells.rendering/svgimageoptions)

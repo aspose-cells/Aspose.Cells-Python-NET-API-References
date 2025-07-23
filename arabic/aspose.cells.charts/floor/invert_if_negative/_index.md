@@ -1,5 +1,5 @@
 ---
-title: invert_if_negative الملكية
+title: invert_if_negative عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 80
 url: /ar/aspose.cells.charts/floor/invert_if_negative/
 is_root: false
 ---
-##  invert_if_negative الملكية
+##  invert_if_negative عقار
 
-إذا كانت الخاصية صحيحة وكانت قيمة نقطة المخطط رقمًا سالبًا ،
-سيتم استبدال لون المقدمة ولون الخلفية.
+إذا كانت الخاصية صحيحة وكانت قيمة نقطة الرسم البياني رقمًا سلبيًا،
+سيتم تبادل لون المقدمة ولون الخلفية.
 
 ###  مثال
 
@@ -58,5 +58,5 @@ def invert_if_negative(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Floor](/cells/python-net/ar/aspose.cells.charts/floor)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Floor`](/cells/python-net/ar/aspose.cells.charts/floor)

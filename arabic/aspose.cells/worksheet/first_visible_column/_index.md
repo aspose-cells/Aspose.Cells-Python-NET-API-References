@@ -3,13 +3,13 @@ title: first_visible_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 520
 url: /ar/aspose.cells/worksheet/first_visible_column/
 is_root: false
 ---
 ##  first_visible_column عقار
 
-يمثل أول فهرس العمود المرئي.
+يمثل أول مؤشر عمود مرئي.
 ###  تعريف:
 ```python
 @property

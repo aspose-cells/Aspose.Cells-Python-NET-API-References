@@ -3,13 +3,13 @@ title: export_page_headers عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 380
 url: /ar/aspose.cells/htmlsaveoptions/export_page_headers/
 is_root: false
 ---
 ##  export_page_headers عقار
 
-يشير إلى ما إذا كان سيتم تصدير رؤوس الصفحات.
+يشير إلى ما إذا كان يتم تصدير رؤوس الصفحات.
 
 ###  ملاحظات
 

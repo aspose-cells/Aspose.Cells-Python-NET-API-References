@@ -7,21 +7,22 @@ weight: 100
 url: /ar/aspose.cells/worksheetcollection/get_named_ranges/
 is_root: false
 ---
-##  get_named_ranges() {#}
-يحصل على جميع النطاقات المسماة المحددة مسبقًا في جدول البيانات.
+##  get_named_ranges(self) {#}
+يحصل على جميع النطاقات المحددة مسبقًا في جدول البيانات.
 
 
 ###  عائدات
 
-مصفوفة من كائنات النطاق.
-إذا كان مرجع الاسم المحدد خارجيًا أو له نطاقات متعددة ، فلن يتم إرجاع أي كائن نطاق لهذا الاسم.
+مجموعة من كائنات Range.
+إذا كان مرجع الاسم المحدد خارجيًا أو يحتوي على نطاقات متعددة، فلن يتم إرجاع كائن النطاق لهذا الاسم.
 
 
 
-إرجاع القيمة فارغة إذا كان النطاق المسمى غير موجود.
+يتم إرجاع قيمة null إذا لم يكن النطاق المسمى موجودًا.
 
 
 ```python
+
 def get_named_ranges(self):
     ...
 ```
@@ -31,5 +32,5 @@ def get_named_ranges(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

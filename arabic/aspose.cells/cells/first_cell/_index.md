@@ -3,17 +3,17 @@ title: first_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1040
+weight: 1060
 url: /ar/aspose.cells/cells/first_cell/
 is_root: false
 ---
 ##  first_cell عقار
 
-الحصول على الخلية الأولى في ورقة العمل هذه.
+يحصل على الخلية الأولى في ورقة العمل هذه.
 
 ###  ملاحظات
 
-إرجاع قيمة فارغة إذا لم تكن هناك بيانات في ورقة العمل.
+يتم إرجاع قيمة null إذا لم تكن هناك بيانات في ورقة العمل.
 ###  تعريف:
 ```python
 @property

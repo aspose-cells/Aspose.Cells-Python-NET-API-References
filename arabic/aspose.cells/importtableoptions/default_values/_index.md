@@ -1,5 +1,5 @@
 ---
-title: default_values الملكية
+title: default_values عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells/importtableoptions/default_values/
 is_root: false
 ---
-##  default_values الملكية
+##  default_values عقار
 
-القيمة الافتراضية للقيمة في الجدول خالية.
+القيمة الافتراضية للقيمة الموجودة في الجدول هي null.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def default_values(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ImportTableOptions](/cells/python-net/ar/aspose.cells/importtableoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ImportTableOptions`](/cells/python-net/ar/aspose.cells/importtableoptions)

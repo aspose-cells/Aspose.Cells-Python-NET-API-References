@@ -3,13 +3,13 @@ title: precision_strategy عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 70
 url: /ar/aspose.cells/calculationoptions/precision_strategy/
 is_root: false
 ---
 ##  precision_strategy عقار
 
-يحدد استراتيجية معالجة دقة الحساب.
+يحدد الإستراتيجية الخاصة بمعالجة دقة الحساب.
 ###  تعريف:
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: filter_operator_type الملكية
+title: filter_operator_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells/customfilter/filter_operator_type/
 is_root: false
 ---
-##  filter_operator_type الملكية
+##  filter_operator_type عقار
 
-الحصول على نوع عامل التصفية وتعيينه.
+يحصل على نوع عامل التصفية ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def filter_operator_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CustomFilter](/cells/python-net/ar/aspose.cells/customfilter)
-* فئة [FilterOperatorType](/cells/python-net/ar/aspose.cells/filteroperatortype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CustomFilter`](/cells/python-net/ar/aspose.cells/customfilter)
+* فئة [`FilterOperatorType`](/cells/python-net/ar/aspose.cells/filteroperatortype)

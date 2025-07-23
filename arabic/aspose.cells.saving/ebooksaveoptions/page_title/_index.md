@@ -3,14 +3,14 @@ title: page_title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 670
 url: /ar/aspose.cells.saving/ebooksaveoptions/page_title/
 is_root: false
 ---
 ##  page_title عقار
 
 عنوان صفحة HTML.
-فقط للحفظ في دفق HTML.
+للحفظ في دفق HTML فقط.
 ###  تعريف:
 ```python
 @property

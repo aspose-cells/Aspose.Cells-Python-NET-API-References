@@ -1,15 +1,15 @@
 ---
-title: type الملكية
+title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells/externallink/type/
 is_root: false
 ---
-##  type الملكية
+##  type عقار
 
-يحصل على type من الارتباط الخارجي.
+يحصل على type من الرابط الخارجي.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ExternalLink](/cells/python-net/ar/aspose.cells/externallink)
-* فئة [ExternalLinkType](/cells/python-net/ar/aspose.cells/externallinktype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ExternalLink`](/cells/python-net/ar/aspose.cells/externallink)
+* فئة [`ExternalLinkType`](/cells/python-net/ar/aspose.cells/externallinktype)

@@ -1,5 +1,5 @@
 ---
-title: argb_color الملكية
+title: argb_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/font/argb_color/
 is_root: false
 ---
-##  argb_color الملكية
+##  argb_color عقار
 
-الحصول على اللون وتعيينه بقيمة ARGB 32 بت.
+يحصل على اللون ويضبطه بقيمة ARGB 32 بت.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def argb_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)

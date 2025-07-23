@@ -3,13 +3,13 @@ title: export_frame_scripts_and_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 320
 url: /ar/aspose.cells/htmlsaveoptions/export_frame_scripts_and_properties/
 is_root: false
 ---
 ##  export_frame_scripts_and_properties عقار
 
-الإشارة إلى ما إذا كان سيتم تصدير البرامج النصية للإطار وخصائص المستند. القيمة الافتراضية هي true.إذا كنت تريد استيراد ملف html أو mht
+يُشير إلى إمكانية تصدير نصوص الإطارات وخصائص المستندات. القيمة الافتراضية هي "صحيح". إذا كنت ترغب في استيراد ملف HTML أو MHT،
 للتفوق، يرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python

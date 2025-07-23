@@ -3,13 +3,13 @@ title: is_auto_subtotals عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 480
 url: /ar/aspose.cells.pivot/pivotfield/is_auto_subtotals/
 is_root: false
 ---
 ##  is_auto_subtotals عقار
 
-الإشارة إلى ما إذا كان الحقل المحدد يعرض الإجماليات الفرعية التلقائية. الافتراضي صحيح.
+يشير إلى ما إذا كان الحقل المحدد يعرض إجماليات فرعية تلقائية. القيمة الافتراضية هي "صحيح".
 ###  تعريف:
 ```python
 @property

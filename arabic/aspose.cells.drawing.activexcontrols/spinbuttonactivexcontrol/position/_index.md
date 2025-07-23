@@ -1,5 +1,5 @@
 ---
-title: position الملكية
+title: position عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 210
 url: /ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/position/
 is_root: false
 ---
-##  position الملكية
+##  position عقار
 
-الحصول على القيمة وتعيينها.
+يحصل على القيمة ويحددها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def position(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [SpinButtonActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`SpinButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

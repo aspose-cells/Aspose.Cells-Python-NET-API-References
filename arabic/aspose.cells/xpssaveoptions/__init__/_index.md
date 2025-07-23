@@ -1,5 +1,5 @@
 ---
-title: XpsSaveOptions المنشئ
+title: XpsSaveOptions منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/xpssaveoptions/__init__/
 is_root: false
 ---
-##  XpsSaveOptions() {#}
-يخلق خيارات لحفظ ملف xps.
+##  \_\_init\_\_(الذات){#}
+إنشاء خيارات لحفظ ملف XPS.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  XpsSaveOptions(save_format) {#SaveFormat}
-يخلق خيارات لحفظ ملف xps.
+##  \_\_init\_\_(الذات، تنسيق الحفظ){#aspose.cells.SaveFormat}
+إنشاء خيارات لحفظ ملف XPS.
 
 
 
 ```python
+
 def __init__(self, save_format):
     ...
 ```
@@ -33,15 +35,15 @@ def __init__(self, save_format):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/ar/aspose.cells/saveformat) | يجب أن يكون تنسيق الحفظ بتنسيق xps.|
+| save_format | [`SaveFormat`](/cells/python-net/ar/aspose.cells/saveformat) | صيغة الحفظ يجب أن تكون صيغة XPS.|
 ###  ملاحظات
 
-ملاحظة: هذا المُنشئ الآن قديم.
-بدلاً من ذلك ، الرجاء استخدام مُنشئ XpsSaveOptions ().
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ أغسطس 2022.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملحوظة: هذا المنشئ أصبح الآن قديمًا.
+بدلاً من ذلك، الرجاء استخدام المنشئ XpsSaveOptions().
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ أغسطس 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [XpsSaveOptions](/cells/python-net/ar/aspose.cells/xpssaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`XpsSaveOptions`](/cells/python-net/ar/aspose.cells/xpssaveoptions)

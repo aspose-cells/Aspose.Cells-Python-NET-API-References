@@ -1,5 +1,5 @@
 ---
-title: text الملكية
+title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/headerfootercommand/text/
 is_root: false
 ---
-##  text الملكية
+##  text عقار
 
-يحصل على text الخاص بالأمر.
+يحصل على text من الأمر.
 
 ###  ملاحظات
 
@@ -22,5 +22,5 @@ def text(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HeaderFooterCommand](/cells/python-net/ar/aspose.cells/headerfootercommand)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HeaderFooterCommand`](/cells/python-net/ar/aspose.cells/headerfootercommand)

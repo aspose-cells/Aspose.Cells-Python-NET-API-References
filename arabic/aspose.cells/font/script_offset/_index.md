@@ -1,5 +1,5 @@
 ---
-title: script_offset الملكية
+title: script_offset عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 170
 url: /ar/aspose.cells/font/script_offset/
 is_root: false
 ---
-##  script_offset الملكية
+##  script_offset عقار
 
-الحصول على تعويض البرنامج النصي وتعيينه ، في وحدة النسبة المئوية
+يحصل على إزاحة البرنامج النصي ويضبطها، بوحدة النسبة المئوية
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def script_offset(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)

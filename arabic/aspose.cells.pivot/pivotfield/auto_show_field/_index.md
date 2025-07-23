@@ -3,13 +3,13 @@ title: auto_show_field عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 270
 url: /ar/aspose.cells.pivot/pivotfield/auto_show_field/
 is_root: false
 ---
 ##  auto_show_field عقار
 
-يمثل فهرس حقل العرض التلقائي. -1 يعني PivotField نفسه.
+يمثل مؤشر حقل العرض التلقائي. -1 يعني PivotField نفسه.
 يجب أن يكون فهرس حقول البيانات.
 ###  تعريف:
 ```python

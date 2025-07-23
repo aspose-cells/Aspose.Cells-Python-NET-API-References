@@ -1,15 +1,15 @@
 ---
-title: content_type الملكية
+title: content_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/content_type/
 is_root: false
 ---
-##  content_type الملكية
+##  content_type عقار
 
-الحصول على نوع محتوى الوثيقة أو تحديده.
+يحصل على نوع محتوى المستند أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def content_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

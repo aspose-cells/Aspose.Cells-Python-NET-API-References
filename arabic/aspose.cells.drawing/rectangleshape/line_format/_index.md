@@ -3,20 +3,20 @@ title: line_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 730
+weight: 740
 url: /ar/aspose.cells.drawing/rectangleshape/line_format/
 is_root: false
 ---
 ##  line_format عقار
 
-إرجاع كائن MsoLineFormat الذي يحتوي على خصائص تنسيق الخط للشكل المحدد.
+يقوم بإرجاع كائن MsoLineFormat الذي يحتوي على خصائص تنسيق الخط للشكل المحدد.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قديم الآن. بدلاً من،
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
  الرجاء استخدام خاصية Shape.Line.
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ يوليو 2016.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ يوليو 2016.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property

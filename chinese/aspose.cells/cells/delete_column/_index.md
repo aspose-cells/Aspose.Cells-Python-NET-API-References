@@ -7,12 +7,13 @@ weight: 220
 url: /zh/aspose.cells/cells/delete_column/
 is_root: false
 ---
-##  delete_column {#int}
+##  delete_column(self, column_index) {#int}
 删除一列。
 
 
 
 ```python
+
 def delete_column(self, column_index):
     ...
 ```
@@ -23,12 +24,13 @@ def delete_column(self, column_index):
 | column_index | int |要删除的列的索引。|
 
 
-##  delete_column {#int-bool}
+##  delete_column(self, column_index, update_reference) {#int-bool}
 删除一列。
 
 
 
 ```python
+
 def delete_column(self, column_index, update_reference):
     ...
 ```

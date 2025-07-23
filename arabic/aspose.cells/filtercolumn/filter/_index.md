@@ -1,5 +1,5 @@
 ---
-title: filter الملكية
+title: filter عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/filtercolumn/filter/
 is_root: false
 ---
-##  filter الملكية
+##  filter عقار
 
-يحصل ويضبط شرط تصفية البيانات.
+يحصل على حالة تصفية البيانات ويحددها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def filter(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FilterColumn](/cells/python-net/ar/aspose.cells/filtercolumn)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FilterColumn`](/cells/python-net/ar/aspose.cells/filtercolumn)

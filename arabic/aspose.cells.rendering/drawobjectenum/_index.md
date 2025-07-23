@@ -1,26 +1,26 @@
 ---
-title: العد DrawObjectEnum
+title: DrawObjectEnum التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 180
 url: /ar/aspose.cells.rendering/drawobjectenum/
 is_root: false
 ---
-##  العد DrawObjectEnum
+##  DrawObjectEnum التعداد
 أشر إلى Cell أو صورة DrawObject.
 
 
 
-يكشف نوع DrawObjectEnum الأعضاء التالية:
+يكشف النوع DrawObjectEnum عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| IMAGE | تشير إلى أن DrawObject هي صورة|
-| CELL | تشير إلى أن DrawObject هو Cell|
+| IMAGE | يشير DrawObject إلى أنه صورة|
+| CELL |يشير DrawObject إلى Cell|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
+* الوحدة [`aspose.cells.rendering`](..)

@@ -1,17 +1,13 @@
 ---
-title: one_page_per_sheet الملكية
+title: one_page_per_sheet عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 330
 url: /ar/aspose.cells/pdfsaveoptions/one_page_per_sheet/
 is_root: false
 ---
-##  one_page_per_sheet الملكية
-
- إذا كانت OnePagePerSheet صحيحة ، فسيتم إخراج كل محتوى ورقة واحدة إلى صفحة واحدة فقط نتيجة لذلك.
- سيكون حجم الورق الخاص بإعداد الصفحات غير صالح ، والإعدادات الأخرى لإعداد الصفحات
-ستظل نافذة المفعول.
+##  one_page_per_sheet عقار
 ###  تعريف:
 ```python
 @property
@@ -23,5 +19,5 @@ def one_page_per_sheet(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PdfSaveOptions](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PdfSaveOptions`](/cells/python-net/ar/aspose.cells/pdfsaveoptions)

@@ -1,5 +1,5 @@
 ---
-title: OdsPageBackground الدرجة
+title: OdsPageBackground صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,31 +7,31 @@ weight: 30
 url: /ar/aspose.cells.ods/odspagebackground/
 is_root: false
 ---
-##  OdsPageBackground الدرجة
-يمثل خلفية الصفحة من ods.
+##  OdsPageBackground صف
+يمثل خلفية الصفحة الخاصة بـ ods.
 
 
 
-يكشف نوع OdsPageBackground الأعضاء التالية:
+يكشف النوع OdsPageBackground عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [OdsPageBackground()](/cells/python-net/ar/aspose.cells.ods/odspagebackground/__init__/#) | إنشاء مثيل جديد لـ OdsPageBackground|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.ods/odspagebackground/__init__/#) | إنشاء مثيل جديد من OdsPageBackground|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells.ods/odspagebackground/type) | الحصول على نوع خلفية الصفحة وتعيينه.|
-| [color](/cells/python-net/ar/aspose.cells.ods/odspagebackground/color) | الحصول على لون الخلفية وتعيينه.|
-| [graphic_type](/cells/python-net/ar/aspose.cells.ods/odspagebackground/graphic_type) | الحصول على نوع رسم خلفية الصفحة وتعيينه.|
-| [graphic_position_type](/cells/python-net/ar/aspose.cells.ods/odspagebackground/graphic_position_type) | يحصل ويضبط موضع رسم الخلفية.|
-| [is_link](/cells/python-net/ar/aspose.cells.ods/odspagebackground/is_link) | يشير إلى ما إذا كان رسمًا مرتبطًا.|
-| [linked_graphic](/cells/python-net/ar/aspose.cells.ods/odspagebackground/linked_graphic) | الحصول على مسار الرسوم المرتبط وتعيينه.|
-| [graphic_data](/cells/python-net/ar/aspose.cells.ods/odspagebackground/graphic_data) | الحصول على البيانات الرسومية وتعيينها.|
+| [type](/cells/python-net/ar/aspose.cells.ods/odspagebackground/type) | يحصل على نوع خلفية الصفحة ويقوم بتعيينه.|
+| [color](/cells/python-net/ar/aspose.cells.ods/odspagebackground/color) |يحصل على لون الخلفية ويحدده.|
+| [graphic_type](/cells/python-net/ar/aspose.cells.ods/odspagebackground/graphic_type) | يحصل على نوع الرسوم الخلفية للصفحة ويقوم بتعيينه.|
+| [graphic_position_type](/cells/python-net/ar/aspose.cells.ods/odspagebackground/graphic_position_type) | يحصل على موضع الرسوم الخلفية ويضبطه.|
+| [is_link](/cells/python-net/ar/aspose.cells.ods/odspagebackground/is_link) | يشير إلى ما إذا كان رسمًا بيانيًا مرتبطًا.|
+| [linked_graphic](/cells/python-net/ar/aspose.cells.ods/odspagebackground/linked_graphic) | يحصل على مسار الرسوم المرتبط ويقوم بتعيينه.|
+| [graphic_data](/cells/python-net/ar/aspose.cells.ods/odspagebackground/graphic_data) | يحصل على البيانات الرسومية ويقوم بتعيينها.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.ods](..)
+* الوحدة [`aspose.cells.ods`](..)
