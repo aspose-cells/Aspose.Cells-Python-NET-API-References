@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  check_data_valid mülk
 
-Verilerin şablon dosyasında geçerli olup olmadığını kontrol edin.
+Şablon dosyasındaki verilerin geçerli olup olmadığını kontrol edin.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def check_data_valid(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.numbers](../../)
-* sınıf [NumbersLoadOptions](/cells/python-net/tr/aspose.cells.numbers/numbersloadoptions)
+* modül [`aspose.cells.numbers`](../../)
+* sınıf [`NumbersLoadOptions`](/cells/python-net/tr/aspose.cells.numbers/numbersloadoptions)

@@ -3,7 +3,7 @@ title: text_shape_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1030
+weight: 1040
 url: /tr/aspose.cells.drawing/groupshape/text_shape_type/
 is_root: false
 ---

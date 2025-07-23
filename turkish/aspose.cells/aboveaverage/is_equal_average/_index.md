@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  is_equal_average mülk
 
- 'AboveAverage' ve 'underAverage' kriterlerinin olup olmadığını gösteren bayrağı alın veya ayarlayın
- ortalamanın kendisini içerir veya bu değerin dışındadır.
-true', ortalama değeri ölçütlere dahil etmeyi belirtir.
-Varsayılan değer yanlıştır.
+ 'Ortalamanın üzerinde' ve 'Ortalamanın altında' ölçütlerinin geçerli olup olmadığını gösteren bayrağı alın veya ayarlayın
+ ortalamanın kendisini de kapsar veya bu değerin dışındadır.
+'true' kritere ortalama değerin dahil edilmesini belirtir.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -24,5 +24,5 @@ def is_equal_average(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AboveAverage](/cells/python-net/tr/aspose.cells/aboveaverage)
+* modül [`aspose.cells`](../../)
+* sınıf [`AboveAverage`](/cells/python-net/tr/aspose.cells/aboveaverage)

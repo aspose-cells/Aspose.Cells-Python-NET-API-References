@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight mülk
 
-Satırın [WeightType](/cells/python-net/tr/aspose.cells.drawing/weighttype)'ini alır veya ayarlar.
+Satırın [`WeightType`](/cells/python-net/tr/aspose.cells.drawing/weighttype) değerini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def weight(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ErrorBar](/cells/python-net/tr/aspose.cells.charts/errorbar)
-* sınıf [WeightType](/cells/python-net/tr/aspose.cells.drawing/weighttype)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ErrorBar`](/cells/python-net/tr/aspose.cells.charts/errorbar)
+* sınıf [`WeightType`](/cells/python-net/tr/aspose.cells.drawing/weighttype)

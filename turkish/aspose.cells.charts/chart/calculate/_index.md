@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.charts/chart/calculate/
 is_root: false
 ---
-##  calculate {#}
-Konumları otomatik olarak atanmışsa çizim alanının ve eksenlerin özel konumunu hesaplar.
+##  calculate(self) {#}
+Arsa alanının özel konumunu, eksenlerin konumları otomatik olarak atanmışsa hesaplar.
 
 
 
 ```python
+
 def calculate(self):
     ...
 ```
@@ -20,12 +21,13 @@ def calculate(self):
 
 
 
-##  calculate {#aspose.cells.charts.ChartCalculateOptions}
-Grafik Hesaplama Seçenekleri ile çizim alanının özel konumunu, konumları otomatik olarak atanmışsa eksenleri hesaplar.
+##  calculate(self, calculate_options) {#aspose.cells.charts.ChartCalculateOptions}
+Grafik Hesaplama Seçenekleri ile çizim alanının özel konumunu, eksenlerin konumları otomatik olarak atanmışsa, eksenleri hesaplar.
 
 
 
 ```python
+
 def calculate(self, calculate_options):
     ...
 ```

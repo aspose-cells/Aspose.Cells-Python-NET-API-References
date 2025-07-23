@@ -3,7 +3,7 @@ title: add_tooltip_text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 30
+weight: 40
 url: /tr/aspose.cells.saving/ebooksaveoptions/add_tooltip_text/
 is_root: false
 ---

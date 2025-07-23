@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_negative_bubbles mülk
 
-Grafik grubu için negatif baloncuklar gösteriliyorsa doğrudur. Yalnızca kabarcık çizelgeleri için geçerlidir.
+Grafik grubu için negatif baloncuklar gösteriliyorsa doğrudur. Sadece baloncuk grafikleri için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_negative_bubbles(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

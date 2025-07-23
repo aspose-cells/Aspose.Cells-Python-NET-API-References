@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  precision_as_displayed mülk
 
-Hesaplanan sonucun hassasiyetinin, formüller hesaplanırken görüntülendiği şekilde ayarlanıp ayarlanmayacağı
+Hesaplanan sonucun kesinliği, formüller hesaplanırken görüntülendiği gibi ayarlanmalı mı?
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def precision_as_displayed(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormulaSettings](/cells/python-net/tr/aspose.cells/formulasettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormulaSettings`](/cells/python-net/tr/aspose.cells/formulasettings)

@@ -3,13 +3,13 @@ title: is_over_lay mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 300
 url: /tr/aspose.cells.charts/legend/is_over_lay/
 is_root: false
 ---
 ##  is_over_lay mülk
 
-Diğer grafik öğelerinin bu grafik öğesiyle örtüşmesine izin verilip verilmeyeceğini alır veya ayarlar.
+Göstergenin grafiğin üzerine bindirilmeden gösterilip gösterilmeyeceğini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

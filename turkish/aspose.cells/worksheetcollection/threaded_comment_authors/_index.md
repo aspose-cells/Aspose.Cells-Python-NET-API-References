@@ -3,13 +3,13 @@ title: threaded_comment_authors mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 390
 url: /tr/aspose.cells/worksheetcollection/threaded_comment_authors/
 is_root: false
 ---
 ##  threaded_comment_authors mülk
 
-İş parçacığı haline getirilmiş yorum yazarlarının listesini alır.
+Yorum yapan yazarların listesini alır.
 ###  Tanım:
 ```python
 @property

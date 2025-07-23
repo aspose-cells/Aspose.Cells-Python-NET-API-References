@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_color mülk
 
-Negatif veri çubukları için kenarlık rengini belirtmek için kullanabileceğiniz bir FormatColor nesnesi alır veya ayarlar.
+Negatif veri çubuklarının kenarlık rengini belirtmek için kullanabileceğiniz bir FormatColor nesnesi alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def border_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [NegativeBarFormat](/cells/python-net/tr/aspose.cells/negativebarformat)
+* modül [`aspose.cells`](../../)
+* sınıf [`NegativeBarFormat`](/cells/python-net/tr/aspose.cells/negativebarformat)

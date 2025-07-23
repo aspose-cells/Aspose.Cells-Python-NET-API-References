@@ -7,11 +7,11 @@ weight: 90
 url: /tr/aspose.cells/cellshelper/create_safe_sheet_name/
 is_root: false
 ---
-##  create_safe_sheet_name(name_proposal) {#str}
-Verilen sayfa adını kontrol eder ve gerektiğinde geçerli bir tane oluşturur.
-Verilen sayfa adı excel sayfa adı kurallarına uygunsa iade edin.
-Aksi takdirde, uzunluk sınırı aşarsa dize kesilir
-ve geçersiz karakterler '' ile değiştirilecek, ardından yeniden oluşturulmuş dize değerini döndürecektir.
+##  create_safe_sheet_name(, ad_teklifi){#str}
+Verilen sayfa adını kontrol eder ve gerektiğinde geçerli bir sayfa oluşturur.
+Eğer verilen sayfa adı excel sayfa adı kurallarına uyuyorsa geri döndür.
+Aksi takdirde uzunluk sınırı aşarsa dize kesilecektir
+ve geçersiz karakterler ' ' ile değiştirilecek, ardından yeniden oluşturulan dize değeri döndürülecektir.
 
 
 ###  İadeler
@@ -20,7 +20,9 @@ ve geçersiz karakterler '' ile değiştirilecek, ardından yeniden oluşturulmu
 
 
 ```python
-def create_safe_sheet_name(self, name_proposal):
+
+@staticmethod
+def create_safe_sheet_name(name_proposal):
     ...
 ```
 
@@ -30,11 +32,11 @@ def create_safe_sheet_name(self, name_proposal):
 | name_proposal | str | kullanılacak sayfa adı|
 
 
-##  create_safe_sheet_name(name_proposal, replace_char) {#str-char}
-Verilen sayfa adını kontrol eder ve gerektiğinde geçerli bir tane oluşturur.
-Verilen sayfa adı excel sayfa adı kurallarına uygunsa iade edin.
-Aksi takdirde, uzunluk sınırı aşarsa dize kesilir
-ve geçersiz karakterler verilen karakterle değiştirilecek, ardından yeniden oluşturulmuş dize değerini döndürecektir.
+##  create_safe_sheet_name(, ad_teklifi, değiştir_karakteri){#str-char}
+Verilen sayfa adını kontrol eder ve gerektiğinde geçerli bir sayfa oluşturur.
+Eğer verilen sayfa adı excel sayfa adı kurallarına uyuyorsa geri döndür.
+Aksi takdirde uzunluk sınırı aşarsa dize kesilecektir
+ve geçersiz karakterler verilen karakterle değiştirilecek, ardından yeniden oluşturulan dize değeri döndürülecektir.
 
 
 ###  İadeler
@@ -43,7 +45,9 @@ ve geçersiz karakterler verilen karakterle değiştirilecek, ardından yeniden 
 
 
 ```python
-def create_safe_sheet_name(self, name_proposal, replace_char):
+
+@staticmethod
+def create_safe_sheet_name(name_proposal, replace_char):
     ...
 ```
 
@@ -51,10 +55,10 @@ def create_safe_sheet_name(self, name_proposal, replace_char):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | name_proposal | str | kullanılacak sayfa adı|
-| replace_char | char | verilen sayfa adındaki geçersiz karakterleri değiştirmek için kullanılacak karakter|
+| replace_char | char | verilen sayfa adında geçersiz karakterlerin yerine kullanılacak karakter|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsHelper](/cells/python-net/tr/aspose.cells/cellshelper)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsHelper`](/cells/python-net/tr/aspose.cells/cellshelper)

@@ -3,17 +3,17 @@ title: created_time mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 130
+weight: 140
 url: /tr/aspose.cells/pdfsaveoptions/created_time/
 is_root: false
 ---
 ##  created_time mülk
 
-Pdf belgesi oluşturma zamanını alır ve ayarlar.
+PDF belgesinin oluşturulma zamanını alır ve ayarlar.
 
 ###  Notlar
 
-ayarlanmamışsa, pdf oluşturma zamanı olacaktır.
+eğer ayarlanmazsa pdf'in oluşturulma zamanı gelecektir.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def created_time(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PdfSaveOptions](/cells/python-net/tr/aspose.cells/pdfsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PdfSaveOptions`](/cells/python-net/tr/aspose.cells/pdfsaveoptions)

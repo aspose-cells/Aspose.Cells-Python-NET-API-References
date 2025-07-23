@@ -3,17 +3,17 @@ title: is_missing mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 140
 url: /tr/aspose.cells.pivot/pivotitem/is_missing/
 is_root: false
 ---
 ##  is_missing mülk
 
-Öğenin eksik bir değere sahip olup olmadığını gösterir.
+Öğenin veri kaynağından kaldırılıp kaldırılmadığını gösterir.
 
 ###  Notlar
 
-Doğru, bu değerin veri kaynağından kaldırıldığı anlamına gelir.
+True, bu değerin veri kaynağından kaldırıldığı anlamına gelir.
 ###  Tanım:
 ```python
 @property

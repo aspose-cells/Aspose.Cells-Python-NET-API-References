@@ -3,13 +3,11 @@ title: text_cross_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 280
+weight: 350
 url: /tr/aspose.cells/docxsaveoptions/text_cross_type/
 is_root: false
 ---
 ##  text_cross_type mülk
-
-Metin genişliği hücre genişliğinden büyük olduğunda görüntülenen metin türünü alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

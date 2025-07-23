@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  custom_function_definition mülk
 
-Özel işlevleri ayrıştırmanın tanımı.
+Özel işlevleri ayrıştırmak için tanım.
 
 ###  Notlar
 
 Kullanıcının özel motorunda özel işlevin hesaplanması gibi bazı özel gereksinimler için,
-bazı parametrelerin dizi modunda hesaplanması gerekir, bu özelliğin kullanılması bu parametreleri işaretleyebilir
-formülü ayrıştırırken dizi modu olarak. Aksi takdirde kullanıcının bu özel işlevleri daha sonra güncellemesi gerekir.
-Aynı sonucu elde etmek için [`Workbook.update_custom_function_definition`](/cells/python-net/tr/aspose.cells/workbook/update_custom_function_definition)'i arayın.
+bazı parametrelerinin dizi modunda hesaplanması gerekir, bu özelliği kullanarak bu parametreleri işaretleyebilirsiniz
+Formülü ayrıştırırken dizi modu olarak kullanın. Aksi takdirde, kullanıcının daha sonra bu özel işlevleri güncellemesi gerekir.
+Aynı sonucu almak için [`Workbook.update_custom_function_definition`](/cells/python-net/tr/aspose.cells/workbook/update_custom_function_definition)'i arayın.
 ###  Tanım:
 ```python
 @property

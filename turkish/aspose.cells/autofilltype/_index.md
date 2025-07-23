@@ -3,7 +3,7 @@ title: AutoFillType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1820
+weight: 1720
 url: /tr/aspose.cells/autofilltype/
 is_root: false
 ---
@@ -19,9 +19,9 @@ AutoFillType türü aşağıdaki üyeleri ortaya çıkarır:
 | :- | :- |
 | COPY | Kaynak alanın değerini ve biçimini hedef alana kopyalar|
 | DEFAULT | Hedef alanı otomatik olarak değer ve formatla doldurur.|
-| FORMATS |Hedef alana yalnızca kaynak alanın formatını kopyalar,|
-| SERIES | Kaynak alandaki değeri seri halinde hedef alana genişletin ve formatı hedef alana kopyalayın.|
-| VALUES | Hedef alana yalnızca kaynak alanın değerini kopyalar,|
+| FORMATS |Yalnızca kaynak alanın biçimini hedef alana kopyalar,|
+| SERIES | Kaynak alandaki değeri hedef alana seri şeklinde genişletin ve formatı hedef alana kopyalayın.|
+| VALUES | Yalnızca kaynak alanın değerini hedef alana kopyalar,|
 
 
 

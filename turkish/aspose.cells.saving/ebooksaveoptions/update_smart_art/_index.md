@@ -3,18 +3,18 @@ title: update_smart_art mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 690
+weight: 780
 url: /tr/aspose.cells.saving/ebooksaveoptions/update_smart_art/
 is_root: false
 ---
 ##  update_smart_art mülk
 
-Smart art ayarının güncellenip güncellenmeyeceğini belirtir.
+Akıllı sanat ayarının güncellenip güncellenmediğini gösterir.
 Varsayılan değer false'tur.
 
 ###  Notlar
 
-Yalnızca Shape.GetResultOfSmartArt() yöntemi çağrıldıktan sonraki efektler ve önbelleğe alınmış şekiller şablon dosyasında bulunur.
+Sadece Shape.GetResultOfSmartArt() metodunu çağırdıktan sonraki efektler ve önbelleğe alınan şekiller şablon dosyasında mevcuttur.
 ###  Tanım:
 ```python
 @property

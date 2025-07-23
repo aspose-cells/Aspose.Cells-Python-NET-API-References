@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/style/copy/
 is_root: false
 ---
-##  copy(style) {#Style}
-Verileri başka bir stil nesnesinden kopyalar
+##  copy(self, style) {#aspose.cells.Style}
+Başka bir stil nesnesinden veri kopyalar
 
 
 
 ```python
+
 def copy(self, style):
     ...
 ```
@@ -20,14 +21,14 @@ def copy(self, style):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/tr/aspose.cells/style) | Kaynak Stili nesnesi|
+| style | [`Style`](/cells/python-net/tr/aspose.cells/style) | Kaynak Stil nesnesi|
 ###  Notlar
 
-Bu yöntem, stilin adını copy yapmaz.
-copy adını isterseniz, lütfen stili kopyaladıktan sonra aşağıdaki kodları arayın:
-destStyle.Name = stil.Ad.
+Bu yöntem copy stilin adını vermez.
+copy ismini istiyorsanız, stili kopyaladıktan sonra aşağıdaki kodları çağırın:
+destStyle.Name = style.Name.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

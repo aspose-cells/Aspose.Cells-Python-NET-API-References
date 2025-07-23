@@ -3,18 +3,18 @@ title: tiff_color_depth mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 370
 url: /tr/aspose.cells.rendering/imageorprintoptions/tiff_color_depth/
 is_root: false
 ---
 ##  tiff_color_depth mülk
 
-Yalnızca sayfaları `Tiff` biçiminde kaydederken uygulanacak bit derinliğini alır veya ayarlar.
+Sayfalar yalnızca `Tiff` biçiminde kaydedilirken uygulanacak bit derinliğini alır veya ayarlar.
 
 ###  Notlar
 
-Yalnızca TIFF'e kaydederken etkili olur.
-TiffCompression CCITT3, CCITT4 olarak ayarlanmışsa bu etkili olmayacaktır, oluşturulan tiff görüntüsünün bit derinliği her zaman 1 olacaktır.
+Sadece TIFF'e kaydedildiğinde etkilidir.
+TiffCompression CCITT3, CCITT4 olarak ayarlanırsa bu etkili olmaz, oluşturulan tiff görüntüsünün bit derinliği her zaman 1 olur.
 ###  Tanım:
 ```python
 @property

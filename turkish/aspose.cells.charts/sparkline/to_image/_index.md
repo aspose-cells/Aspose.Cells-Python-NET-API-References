@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.charts/sparkline/to_image/
 is_root: false
 ---
-##  to_image(file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
-Sparkline'ı görüntüye dönüştürür.
+##  to_image(self, file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+Kıvılcım çizgisini görüntüye dönüştürür.
 
 
 
 ```python
+
 def to_image(self, file_name, options):
     ...
 ```
@@ -20,16 +21,17 @@ def to_image(self, file_name, options):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| file_name | str | Görüntü dosyası adı.|
-| options | aspose.cells.rendering.ImageOrPrintOptions | görüntü seçenekleri|
+| file_name | str | Resim dosyasının adı.|
+| options | aspose.cells.rendering.ImageOrPrintOptions | Görüntü seçenekleri|
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
-Sparkline'ı görüntüye dönüştürür.
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+Kıvılcım çizgisini görüntüye dönüştürür.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```
@@ -43,5 +45,5 @@ def to_image(self, stream, options):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Sparkline](/cells/python-net/tr/aspose.cells.charts/sparkline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Sparkline`](/cells/python-net/tr/aspose.cells.charts/sparkline)

@@ -7,16 +7,17 @@ weight: 40
 url: /tr/aspose.cells/row/equals/
 is_root: false
 ---
-##  equals(row) {#Row}
-Bu nesnenin başka bir satır nesnesiyle aynı satıra atıfta bulunup bulunmadığını kontrol eder.
+##  equals(self, row) {#aspose.cells.Row}
+Bu nesnenin başka bir satır nesnesiyle aynı satıra başvurup başvurmadığını kontrol eder.
 
 
 ###  İadeler
 
-true iki satır nesnesi aynı satıra başvuruyorsa.
+eğer iki satır nesnesi aynı satıra atıfta bulunuyorsa doğrudur.
 
 
 ```python
+
 def equals(self, row):
     ...
 ```
@@ -24,10 +25,10 @@ def equals(self, row):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| row | [Row](/cells/python-net/tr/aspose.cells/row) | başka bir satır nesnesi|
+| row | [`Row`](/cells/python-net/tr/aspose.cells/row) | başka bir satır nesnesi|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Row](/cells/python-net/tr/aspose.cells/row)
+* modül [`aspose.cells`](../../)
+* sınıf [`Row`](/cells/python-net/tr/aspose.cells/row)

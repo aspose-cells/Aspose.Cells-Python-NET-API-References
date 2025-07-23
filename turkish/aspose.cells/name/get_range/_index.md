@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells/name/get_range/
 is_root: false
 ---
-##  get_range() {#}
-Bu ad bir aralığa başvuruyorsa aralığı alır.
+##  get_range(self) {#}
+Bu isim bir aralığa atıfta bulunuyorsa aralığı alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Menzil.
 
 
 ```python
+
 def get_range(self):
     ...
 ```
@@ -24,8 +25,8 @@ def get_range(self):
 
 
 
-##  get_range(recalculate) {#bool}
-Bu ad bir aralığa başvuruyorsa aralığı alır
+##  get_range(self, recalculate) {#bool}
+Bu isim bir aralığa atıfta bulunuyorsa aralığı alır
 
 
 ###  İadeler
@@ -34,6 +35,7 @@ Menzil.
 
 
 ```python
+
 def get_range(self, recalculate):
     ...
 ```
@@ -41,11 +43,11 @@ def get_range(self, recalculate):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| recalculate | bool | bu ad bu çağrıdan önce hesaplandıysa yeniden hesaplayın.|
+| recalculate | bool | Bu isim bu çağrıdan önce hesaplanmışsa yeniden hesaplansın mı?|
 
 
-##  get_range(sheet_index, row, column) {#int-int-int}
-Bu ad bir aralığa başvuruyorsa aralığı alır.
+##  get_range(self, sheet_index, row, column) {#int-int-int}
+Bu isim bir aralığa atıfta bulunuyorsa aralığı alır.
 Bu ismin referansı mutlak değilse, aralık farklı hücreler için farklı olabilir.
 
 
@@ -55,6 +57,7 @@ Menzil.
 
 
 ```python
+
 def get_range(self, sheet_index, row, column):
     ...
 ```
@@ -62,12 +65,12 @@ def get_range(self, sheet_index, row, column):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| sheet_index | int | İlgili sayfa dizini.|
-| row | int | Uygun satır dizini.|
-| column | int | Uygun sütun dizini|
+| sheet_index | int | İlgili sayfa indeksi.|
+| row | int | İlgili satır indeksi.|
+| column | int | İlgili sütun indeksi|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Name](/cells/python-net/tr/aspose.cells/name)
+* modül [`aspose.cells`](../../)
+* sınıf [`Name`](/cells/python-net/tr/aspose.cells/name)

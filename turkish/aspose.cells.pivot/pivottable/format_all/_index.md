@@ -7,12 +7,13 @@ weight: 110
 url: /tr/aspose.cells.pivot/pivottable/format_all/
 is_root: false
 ---
-##  format_all(style) {#Style}
-Pivot tablo alanındaki tüm hücreyi biçimlendir
+##  format_all(self, style) {#aspose.cells.Style}
+Pivot tablo alanındaki tüm hücreleri biçimlendir
 
 
 
 ```python
+
 def format_all(self, style):
     ...
 ```
@@ -20,10 +21,10 @@ def format_all(self, style):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/tr/aspose.cells/style) | Biçimlendirilecek stil|
+| style | [`Style`](/cells/python-net/tr/aspose.cells/style) | Biçimlendirilecek stil|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

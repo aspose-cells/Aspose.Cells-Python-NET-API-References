@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  indexes mülk
 
-Dışa aktarılması gereken sütunların/satırların indexes'i.
+Dışarıya aktarılması gereken sütun/satırların indexes'i.
 ###  Tanım:
 ```python
 @property

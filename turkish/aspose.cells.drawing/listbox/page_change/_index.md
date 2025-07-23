@@ -3,14 +3,14 @@ title: page_change mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 850
+weight: 860
 url: /tr/aspose.cells.drawing/listbox/page_change/
 is_root: false
 ---
 ##  page_change mülk
 
- Denetimin değerinin değiştirilme miktarını belirtir
-kullanıcı kaydırma çubuğunun sayfa yukarı veya sayfa aşağı bölgesine tıkladığında.
+ Denetimin değerinin ne kadar değiştirileceğini belirtir
+Kullanıcı kaydırma çubuğunun sayfa yukarı veya sayfa aşağı bölgesine tıkladığında.
 ###  Tanım:
 ```python
 @property

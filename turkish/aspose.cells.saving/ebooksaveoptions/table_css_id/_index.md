@@ -3,14 +3,14 @@ title: table_css_id mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 680
+weight: 770
 url: /tr/aspose.cells.saving/ebooksaveoptions/table_css_id/
 is_root: false
 ---
 ##  table_css_id mülk
 
- Css adının tr,col,td vb. gibi önekini alır ve ayarlar; bunlar tablo öğesinde bulunur
-belirli TableCssId niteliğine sahip olan. Varsayılan değer ""dir.
+tr,col,td vb. gibi CSS tipinin önekini alır ve ayarlar, bunlar tablo öğesinde bulunur
+Belirli TableCssId özniteliğine sahip. Varsayılan değer ""'dir.
 ###  Tanım:
 ```python
 @property

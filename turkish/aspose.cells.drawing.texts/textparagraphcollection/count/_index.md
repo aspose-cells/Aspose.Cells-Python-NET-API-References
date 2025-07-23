@@ -3,7 +3,7 @@ title: count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 30
 url: /tr/aspose.cells.drawing.texts/textparagraphcollection/count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextParagraphCollection](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraphcollection)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextParagraphCollection`](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraphcollection)

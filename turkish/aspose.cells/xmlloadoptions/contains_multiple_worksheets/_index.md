@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  contains_multiple_worksheets mülk
 
-Xml'nin birden çok çalışma sayfası olarak içe aktarılıp aktarılmadığını gösterir.
+XML'in birden fazla çalışma sayfası olarak içe aktarılıp aktarılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def contains_multiple_worksheets(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XmlLoadOptions](/cells/python-net/tr/aspose.cells/xmlloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`XmlLoadOptions`](/cells/python-net/tr/aspose.cells/xmlloadoptions)

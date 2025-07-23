@@ -3,13 +3,13 @@ title: row_header_caption mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 850
+weight: 970
 url: /tr/aspose.cells.pivot/pivottable/row_header_caption/
 is_root: false
 ---
 ##  row_header_caption mülk
 
-PivotTable'ın Satır Başlığı Resim Yazısını alır.
+PivotTable'ın Satır Başlığı Başlığını alır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def row_header_caption(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

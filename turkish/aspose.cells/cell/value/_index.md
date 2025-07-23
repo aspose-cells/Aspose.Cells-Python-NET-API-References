@@ -3,7 +3,7 @@ title: value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 740
+weight: 770
 url: /tr/aspose.cells/cell/value/
 is_root: false
 ---
@@ -21,20 +21,20 @@ hükümsüz,
 Boolean,
 
 
-TarihSaat,
+Tarih/Saat,
 
 
 Çift,
 
 
-Tamsayı
+Tam sayı
 
 
 Sicim.
 
 
 int value için Integer nesnesi veya Double nesnesi olarak döndürülebilir.
-Ve döndürülen value'in her zaman aynı tür nesne olarak tutulacağına dair bir garanti yoktur.
+Ve döndürülen value'in her zaman aynı tür nesne olarak tutulacağının garantisi yoktur.
 ###  Tanım:
 ```python
 @property

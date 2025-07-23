@@ -3,13 +3,13 @@ title: grand_total_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 550
+weight: 650
 url: /tr/aspose.cells.pivot/pivottable/grand_total_name/
 is_root: false
 ---
 ##  grand_total_name mülk
 
-Genel toplam sütununda veya satır başlığında görüntülenen metin dizesi etiketini döndürür.
+Genel toplam sütun veya satır başlığında görüntülenen etiketi döndürür.
 Varsayılan değer "Genel Toplam" dizesidir.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def grand_total_name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

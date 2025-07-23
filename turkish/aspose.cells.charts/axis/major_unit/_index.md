@@ -3,13 +3,13 @@ title: major_unit mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 310
 url: /tr/aspose.cells.charts/axis/major_unit/
 is_root: false
 ---
 ##  major_unit mülk
 
-Eksenin ana birimlerini temsil eder.
+Eksen için ana birimleri temsil eder.
 
 ###  Notlar
 

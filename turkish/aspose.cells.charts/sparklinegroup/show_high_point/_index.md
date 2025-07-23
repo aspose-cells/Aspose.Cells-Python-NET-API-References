@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_high_point mülk
 
-Mini grafik grubundaki verilerin en yüksek noktalarının vurgulanıp vurgulanmayacağını belirtir.
+Kıvılcım grafiği grubundaki en yüksek veri noktalarının vurgulanıp vurgulanmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_high_point(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

@@ -3,13 +3,13 @@ title: mso_drawing_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 820
+weight: 830
 url: /tr/aspose.cells.drawing/checkbox/mso_drawing_type/
 is_root: false
 ---
 ##  mso_drawing_type mülk
 
-Mso çizim tipini alır.
+Çizim türünü alır.
 
 ###  Örnek
 

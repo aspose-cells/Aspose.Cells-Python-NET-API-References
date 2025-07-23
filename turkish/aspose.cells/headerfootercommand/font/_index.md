@@ -22,6 +22,6 @@ def font(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
-* sınıf [HeaderFooterCommand](/cells/python-net/tr/aspose.cells/headerfootercommand)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)
+* sınıf [`HeaderFooterCommand`](/cells/python-net/tr/aspose.cells/headerfootercommand)

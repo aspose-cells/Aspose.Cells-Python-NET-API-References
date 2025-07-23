@@ -18,6 +18,6 @@ def destination_area(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [CellArea](/cells/python-net/tr/aspose.cells/cellarea)
-* sınıf [RevisionCellMove](/cells/python-net/tr/aspose.cells.revisions/revisioncellmove)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea)
+* sınıf [`RevisionCellMove`](/cells/python-net/tr/aspose.cells.revisions/revisioncellmove)

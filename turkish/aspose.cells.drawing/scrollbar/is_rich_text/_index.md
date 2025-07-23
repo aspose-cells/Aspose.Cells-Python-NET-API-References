@@ -3,7 +3,7 @@ title: is_rich_text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 660
+weight: 670
 url: /tr/aspose.cells.drawing/scrollbar/is_rich_text/
 is_root: false
 ---

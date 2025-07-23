@@ -3,7 +3,7 @@ title: spt mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 970
+weight: 980
 url: /tr/aspose.cells.drawing/spinner/spt/
 is_root: false
 ---

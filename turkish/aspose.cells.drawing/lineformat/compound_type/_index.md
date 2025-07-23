@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  compound_type mülk
 
-Çizgi bileşik tipini belirtir.
+Satır bileşik türünü belirtir.
 
 ###  Örnek
 
@@ -30,6 +30,6 @@ def compound_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
-* sınıf [MsoLineStyle](/cells/python-net/tr/aspose.cells.drawing/msolinestyle)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* sınıf [`MsoLineStyle`](/cells/python-net/tr/aspose.cells.drawing/msolinestyle)

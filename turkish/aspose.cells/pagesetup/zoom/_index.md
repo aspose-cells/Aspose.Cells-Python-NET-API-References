@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  zoom mülk
 
-Yüzde cinsinden ölçeklendirme faktörünü temsil eder. 10 ile 400 arasında olmalıdır.
+Ölçekleme faktörünü yüzde cinsinden gösterir. 10 ile 400 arasında olmalıdır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def zoom(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

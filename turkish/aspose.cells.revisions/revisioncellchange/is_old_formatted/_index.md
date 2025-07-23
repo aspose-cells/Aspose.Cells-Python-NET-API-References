@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_old_formatted mülk
 
-Bu hücrenin eski biçimlendirilmiş olup olmadığını gösterir.
+Bu hücrenin eski formatlı olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_old_formatted(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionCellChange](/cells/python-net/tr/aspose.cells.revisions/revisioncellchange)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionCellChange`](/cells/python-net/tr/aspose.cells.revisions/revisioncellchange)

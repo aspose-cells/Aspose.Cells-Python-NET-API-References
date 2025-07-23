@@ -7,18 +7,18 @@ weight: 10
 url: /tr/aspose.cells.digitalsignatures/
 is_root: false
 ---
- bu**Aspose.Cells.DigitalSignatures** ad alanı, belgeleri imzalamak ve imzaları doğrulamak için sınıflar sağlar.
+**Aspose.Cells.DigitalSignatures** namespace, belgeleri imzalamak ve imzaları doğrulamak için sınıflar sağlar.
 
-###  sınıflar
+###  Sınıflar
 | Sınıf| Tanım|
 | :- | :- |
-| [DigitalSignature](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignature) | Dosyadaki imza.|
-| [DigitalSignatureCollection](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignaturecollection) | Bir belgeye iliştirilmiş bir dijital imza koleksiyonu sağlar.|
+| [`DigitalSignature`](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignature) | İmza dosyada.|
+| [`DigitalSignatureCollection`](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignaturecollection) | Bir belgeye ekli dijital imzaların bir koleksiyonunu sağlar.|
 
 
 ###  Numaralandırmalar
-|numaralandırma| Tanım|
+| Numaralandırma| Tanım|
 | :- | :- |
-| [XAdESType](/cells/python-net/tr/aspose.cells.digitalsignatures/xadestype) | XML Gelişmiş Elektronik İmza (XAdES) türü.|
+| [`XAdESType`](/cells/python-net/tr/aspose.cells.digitalsignatures/xadestype) | XML Gelişmiş Elektronik İmza (XAdES) türü.|
 
 

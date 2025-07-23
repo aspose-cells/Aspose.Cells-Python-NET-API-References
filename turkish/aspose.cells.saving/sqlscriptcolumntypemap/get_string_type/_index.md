@@ -7,8 +7,8 @@ weight: 30
 url: /tr/aspose.cells.saving/sqlscriptcolumntypemap/get_string_type/
 is_root: false
 ---
-##  get_string_type() {#}
-Veritabanındaki string tipini alır.
+##  get_string_type(self) {#}
+Veritabanındaki string türünü alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Veritabanındaki string tipini alır.
 
 
 ```python
+
 def get_string_type(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_string_type(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.saving](../../)
-* sınıf [SqlScriptColumnTypeMap](/cells/python-net/tr/aspose.cells.saving/sqlscriptcolumntypemap)
+* modül [`aspose.cells.saving`](../../)
+* sınıf [`SqlScriptColumnTypeMap`](/cells/python-net/tr/aspose.cells.saving/sqlscriptcolumntypemap)

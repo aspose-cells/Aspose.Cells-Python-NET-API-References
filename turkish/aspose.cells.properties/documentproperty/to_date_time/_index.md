@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells.properties/documentproperty/to_date_time/
 is_root: false
 ---
-##  to_date_time() {#}
-Özellik değerini yerel saat diliminde DateTime olarak döndürür.
+##  to_date_time(self) {#}
+Özelliğin değerini yerel saat diliminde DateTime olarak döndürür.
 
 
 
 ```python
+
 def to_date_time(self):
     ...
 ```
@@ -20,10 +21,10 @@ def to_date_time(self):
 
 ###  Notlar
 
-Özellik türü PropertyType.Date değilse bir istisna atar.
+Özellik türü PropertyType.Date değilse bir istisna fırlatır.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells.properties](../../)
-* sınıf [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty)

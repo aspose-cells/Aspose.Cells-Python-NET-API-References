@@ -3,11 +3,11 @@ title: get_text_of_months yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 130
 url: /tr/aspose.cells.settings/pivotglobalizationsettings/get_text_of_months/
 is_root: false
 ---
-##  get_text_of_months {#}
+##  get_text_of_months(self) {#}
 "Aylar"ın yerel metnini alır.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_months(self):
     ...
 ```

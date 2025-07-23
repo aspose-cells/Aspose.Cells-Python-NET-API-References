@@ -3,7 +3,7 @@ title: current_person mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 100
 url: /tr/aspose.cells/threadedcommentauthorcollection/current_person/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def current_person(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ThreadedCommentAuthor](/cells/python-net/tr/aspose.cells/threadedcommentauthor)
-* sınıf [ThreadedCommentAuthorCollection](/cells/python-net/tr/aspose.cells/threadedcommentauthorcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ThreadedCommentAuthor`](/cells/python-net/tr/aspose.cells/threadedcommentauthor)
+* sınıf [`ThreadedCommentAuthorCollection`](/cells/python-net/tr/aspose.cells/threadedcommentauthorcollection)

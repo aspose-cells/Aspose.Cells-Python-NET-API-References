@@ -3,13 +3,13 @@ title: formula_local mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 500
+weight: 510
 url: /tr/aspose.cells/cell/formula_local/
 is_root: false
 ---
 ##  formula_local mülk
 
-Hücrenin yerel ayarlı formülünü alın.
+Hücrenin yerel biçimlendirilmiş formülünü alın.
 ###  Tanım:
 ```python
 @property

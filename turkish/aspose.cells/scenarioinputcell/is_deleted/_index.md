@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ScenarioInputCell](/cells/python-net/tr/aspose.cells/scenarioinputcell)
+* modül [`aspose.cells`](../../)
+* sınıf [`ScenarioInputCell`](/cells/python-net/tr/aspose.cells/scenarioinputcell)

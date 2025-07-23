@@ -3,7 +3,7 @@ title: name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 150
 url: /tr/aspose.cells.pivot/pivotitem/name/
 is_root: false
 ---
@@ -14,6 +14,9 @@ Pivot öğesinin name'ini alır.
 ```python
 @property
 def name(self):
+    ...
+@name.setter
+def name(self, value):
     ...
 ```
 

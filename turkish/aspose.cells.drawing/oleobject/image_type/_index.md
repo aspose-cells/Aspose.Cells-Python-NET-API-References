@@ -3,13 +3,13 @@ title: image_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 620
+weight: 610
 url: /tr/aspose.cells.drawing/oleobject/image_type/
 is_root: false
 ---
 ##  image_type mülk
 
-Ole nesnesinin görüntü formatını alır.
+Ole nesnesinin görüntü biçimini alır.
 ###  Tanım:
 ```python
 @property

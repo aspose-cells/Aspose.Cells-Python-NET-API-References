@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet mülk
 
- AllColumnsInOnePagePerSheet true olursa, bir sayfanın tüm sütun içeriği sonuçta yalnızca bir sayfaya çıkar.
- pagesetup'ın kağıt boyutunun genişliği geçersiz olacaktır ve pagesetup'ın diğer ayarları geçersiz olacaktır.
-yine de geçerli olacaktır.
+ AllColumnsInOnePagePerSheet true ise, bir sayfanın tüm sütun içeriği sonuçta yalnızca bir sayfaya çıktı olarak verilir.
+ Pagesetup'ın kağıt boyutunun genişliği geçersiz olacak ve pagesetup'ın diğer ayarları
+hala geçerliliğini koruyacaktır.
 ###  Tanım:
 ```python
 @property
@@ -23,5 +23,5 @@ def all_columns_in_one_page_per_sheet(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [ImageOrPrintOptions](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`ImageOrPrintOptions`](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)

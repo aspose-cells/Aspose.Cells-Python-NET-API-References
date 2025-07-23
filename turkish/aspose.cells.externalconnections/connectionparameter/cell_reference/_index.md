@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_reference mülk
 
-Cell sorgu parametresi için hangi hücrenin değerinin kullanılacağını gösteren referans. Yalnızca parameterType hücre olduğunda kullanılır.
+Cell, sorgu parametresi için hangi hücrenin değerinin kullanılacağını belirten referanstır. Yalnızca parameterType hücre olduğunda kullanılır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def cell_reference(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [ConnectionParameter](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`ConnectionParameter`](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter)

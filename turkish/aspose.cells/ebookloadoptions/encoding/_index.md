@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  encoding mülk
 
-Varsayılan encoding'i alır ve ayarlar. Yalnızca csv dosyası için geçerlidir.
+Varsayılan encoding değerini alır ve ayarlar. Sadece csv dosyası için geçerlidir.
 ###  Tanım:
 ```python
 @property

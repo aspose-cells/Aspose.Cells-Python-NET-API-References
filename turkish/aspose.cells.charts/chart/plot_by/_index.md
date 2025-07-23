@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_by mülk
 
-Satıra mı yoksa sütuna göre mi çizileceğini alır ve ayarlar.
+Satır veya sütun bazında çizim yapılıp yapılmayacağını alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

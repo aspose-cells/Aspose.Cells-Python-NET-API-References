@@ -3,13 +3,13 @@ title: base_index mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 300
 url: /tr/aspose.cells.pivot/pivotfield/base_index/
 is_root: false
 ---
 ##  base_index mülk
 
-PivotFields tabanındaki PivotField dizinini temsil eder.
+Temel PivotField'lardaki PivotField dizinini temsil eder.
 ###  Tanım:
 ```python
 @property

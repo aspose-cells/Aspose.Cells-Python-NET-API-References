@@ -7,7 +7,7 @@ weight: 50
 url: /tr/aspose.cells.charts/chart/get_chart_data_range/
 is_root: false
 ---
-##  get_chart_data_range() {#}
+##  get_chart_data_range(self) {#}
 Grafiğin veri kaynağı aralığını alır.
 
 
@@ -17,6 +17,7 @@ Veri kaynağı.
 
 
 ```python
+
 def get_chart_data_range(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_chart_data_range(self):
 
 ###  Notlar
 
-Yalnızca menzili destekler.
+Sadece menzili destekler.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells.charts](../../)
-* sınıf [Chart](/cells/python-net/tr/aspose.cells.charts/chart)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Chart`](/cells/python-net/tr/aspose.cells.charts/chart)

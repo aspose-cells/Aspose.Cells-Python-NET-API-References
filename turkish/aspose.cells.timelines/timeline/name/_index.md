@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-Belirtilen Zaman Çizelgesinin name'ini döndürür veya ayarlar
+Belirtilen Zaman Çizelgesinin name değerini döndürür veya ayarlar
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.timelines](../../)
-* sınıf [Timeline](/cells/python-net/tr/aspose.cells.timelines/timeline)
+* modül [`aspose.cells.timelines`](../../)
+* sınıf [`Timeline`](/cells/python-net/tr/aspose.cells.timelines/timeline)

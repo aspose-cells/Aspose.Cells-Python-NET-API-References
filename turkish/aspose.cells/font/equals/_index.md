@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells/font/equals/
 is_root: false
 ---
-##  equals(font) {#Font}
+##  equals(self, font) {#aspose.cells.Font}
 İki yazı tipinin equals olup olmadığını kontrol eder.
 
 
@@ -17,6 +17,7 @@ Karşılaştırılan yazı tipi nesnesine eşitse doğrudur.
 
 
 ```python
+
 def equals(self, font):
     ...
 ```
@@ -24,10 +25,10 @@ def equals(self, font):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| font | [Font](/cells/python-net/tr/aspose.cells/font) |Karşılaştırılan yazı tipi nesnesi.|
+| font | [`Font`](/cells/python-net/tr/aspose.cells/font) | Karşılaştırılan yazı tipi nesnesi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)

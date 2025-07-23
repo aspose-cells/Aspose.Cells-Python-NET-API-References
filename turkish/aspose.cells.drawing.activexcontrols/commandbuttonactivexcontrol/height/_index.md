@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol/height
 is_root: false
 ---
 ##  height mülk
-
-Kontrolün height'ini puan birimi cinsinden alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def height(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [CommandButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`CommandButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

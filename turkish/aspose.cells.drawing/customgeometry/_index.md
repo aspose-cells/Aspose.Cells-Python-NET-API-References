@@ -12,22 +12,20 @@ is_root: false
 
 
 
-**Miras:** [CustomGeometry](/cells/python-net/aspose.cells.drawing/customgeometry) → 
-[Geometry](/cells/python-net/tr/aspose.cells.drawing/geometry)
+**Miras:** [`CustomGeometry`](/cells/python-net/tr/aspose.cells.drawing/customgeometry)
 
 
 
-CustomGeometry türü aşağıdaki üyeleri gösterir:
+CustomGeometry türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [shape_adjust_values](/cells/python-net/tr/aspose.cells.drawing/customgeometry/shape_adjust_values) | Şekil ayarlama değeri koleksiyonunu alır|
-| [paths](/cells/python-net/tr/aspose.cells.drawing/customgeometry/paths) | Şekil bir NotPrimitive otomatik şekli olduğunda yol toplama bilgilerini alır|
+| [shape_adjust_values](/cells/python-net/tr/aspose.cells.drawing/customgeometry/shape_adjust_values) |  |
+| [paths](/cells/python-net/tr/aspose.cells.drawing/customgeometry/paths) | Şekil NotPrimitive otomatik şekli olduğunda yol toplama bilgilerini alır|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
-* sınıf [CustomGeometry](/cells/python-net/tr/aspose.cells.drawing/customgeometry)
-* sınıf [Geometry](/cells/python-net/tr/aspose.cells.drawing/geometry)
+* modül [`aspose.cells.drawing`](..)
+* sınıf [`CustomGeometry`](/cells/python-net/tr/aspose.cells.drawing/customgeometry)

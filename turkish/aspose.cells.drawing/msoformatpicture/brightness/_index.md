@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  brightness mülk
 
-Yüzde birimi cinsinden resim için brightness değişikliğini temsil eder.
+Resimdeki brightness değişikliğini yüzde cinsinden temsil eder.
 
 ###  Notlar
 
--%100 ile %100 arasındadır. Excel 2007 ve üzeri versiyonlarla aynı şekilde çalışır.
+-100% ile 100% arasındadır. Excel 2007 ve üzeri sürümlerde aynı şekilde çalışır.
 ###  Tanım:
 ```python
 @property

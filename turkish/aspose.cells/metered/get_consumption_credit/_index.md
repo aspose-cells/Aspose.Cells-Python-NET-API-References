@@ -8,7 +8,7 @@ url: /tr/aspose.cells/metered/get_consumption_credit/
 is_root: false
 ---
 ##  get_consumption_credit() {#}
-Tüketim kredisi alıyor
+Tüketim kredisi alır
 
 
 ###  İadeler
@@ -17,7 +17,9 @@ tüketim miktarı
 
 
 ```python
-def get_consumption_credit(self):
+
+@staticmethod
+def get_consumption_credit():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_credit(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Metered](/cells/python-net/tr/aspose.cells/metered)
+* modül [`aspose.cells`](../../)
+* sınıf [`Metered`](/cells/python-net/tr/aspose.cells/metered)

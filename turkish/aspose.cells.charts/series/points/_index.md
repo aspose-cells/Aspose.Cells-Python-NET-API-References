@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  points mülk
 
-points koleksiyonunu bir grafikte bir dizi halinde alır.
+Bir grafikteki serideki points koleksiyonunu alır.
 
 ###  Notlar
 
-Grafik Pie of Pie veya Bar of Pie olduğunda, son nokta ilk pasta grafiğindeki diğer noktadır.
+Grafik Pasta Pastası veya Pasta Çubuğu olduğunda son nokta ilk pasta grafiğindeki diğer noktadır.
 ###  Tanım:
 ```python
 @property
@@ -22,6 +22,6 @@ def points(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartPointCollection](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartPointCollection`](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

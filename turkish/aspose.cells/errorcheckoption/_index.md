@@ -3,12 +3,12 @@ title: ErrorCheckOption sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 550
+weight: 530
 url: /tr/aspose.cells/errorcheckoption/
 is_root: false
 ---
 ##  ErrorCheckOption sınıfı
-Belirli aralıklara uygulanan hata kontrolü ayarı.
+Belirli aralıklarda hata kontrol ayarı uygulandı.
 
 
 
@@ -17,12 +17,12 @@ ErrorCheckOption türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [is_error_check](/cells/python-net/tr/aspose.cells/errorcheckoption/is_error_check/#aspose.cells.ErrorCheckType) | Verilen hata tipinin kontrol edilip edilmeyeceğini kontrol eder.|
-| [set_error_check](/cells/python-net/tr/aspose.cells/errorcheckoption/set_error_check/#aspose.cells.ErrorCheckType-bool) | Verilen hata tipinin kontrol edilip edilmeyeceğini ayarlar.|
-| [get_count_of_range](/cells/python-net/tr/aspose.cells/errorcheckoption/get_count_of_range/#) | Bu ayardan etkilenen aralıkların sayısını alır.|
-| [add_range](/cells/python-net/tr/aspose.cells/errorcheckoption/add_range/#aspose.cells.CellArea) | Bu ayardan etkilenen bir aralık ekler.|
-| [get_range](/cells/python-net/tr/aspose.cells/errorcheckoption/get_range/#int) | Verilen dizine göre bu ayarın etkilenen aralığını alır.|
-| [remove_range](/cells/python-net/tr/aspose.cells/errorcheckoption/remove_range/#int) | Verilen dizine göre bir aralığı kaldırır.|
+| [`is_error_check(self, error_check_type)`](/cells/python-net/tr/aspose.cells/errorcheckoption/is_error_check/#aspose.cells.errorchecktype) | Verilen hata türünün kontrol edilip edilmeyeceğini kontrol eder.|
+| [`set_error_check(self, error_check_type, is_check)`](/cells/python-net/tr/aspose.cells/errorcheckoption/set_error_check/#aspose.cells.errorchecktype-bool) | Verilen hata türünün kontrol edilip edilmeyeceğini ayarlar.|
+| [`get_count_of_range(self)`](/cells/python-net/tr/aspose.cells/errorcheckoption/get_count_of_range/#) | Bu ayardan etkilenen aralıkların sayısını alır.|
+| [`add_range(self, ca)`](/cells/python-net/tr/aspose.cells/errorcheckoption/add_range/#aspose.cells.cellarea) | Bu ayardan etkilenen bir aralık ekler.|
+| [`get_range(self, index)`](/cells/python-net/tr/aspose.cells/errorcheckoption/get_range/#int) | Verilen indekse göre bu ayarın etkilenen aralığını alır.|
+| [`remove_range(self, index)`](/cells/python-net/tr/aspose.cells/errorcheckoption/remove_range/#int) | Belirtilen indekse göre bir aralığı kaldırır.|
 
 
 

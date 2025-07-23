@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  drop_lines mülk
 
-Çizgi grafiği veya alan grafiğindeki bir serinin bırakma çizgilerini temsil eden [`Line`](/cells/python-net/tr/aspose.cells.drawing/line) nesnesini döndürür.
-Yalnızca çizgi grafik veya alan grafikleri için geçerlidir.
+Çizgi grafiğinde veya alan grafiğinde bir serinin bırakma çizgilerini temsil eden [`Line`](/cells/python-net/tr/aspose.cells.drawing/line) nesnesini döndürür.
+Sadece çizgi grafiği veya alan grafikleri için geçerlidir.
 ###  Tanım:
 ```python
 @property

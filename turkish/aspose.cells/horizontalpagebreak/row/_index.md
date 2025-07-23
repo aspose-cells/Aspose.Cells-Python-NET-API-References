@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row mülk
 
-Sıfır tabanlı row dizinini alır.
+Sıfır tabanlı row indeksini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HorizontalPageBreak](/cells/python-net/tr/aspose.cells/horizontalpagebreak)
+* modül [`aspose.cells`](../../)
+* sınıf [`HorizontalPageBreak`](/cells/python-net/tr/aspose.cells/horizontalpagebreak)

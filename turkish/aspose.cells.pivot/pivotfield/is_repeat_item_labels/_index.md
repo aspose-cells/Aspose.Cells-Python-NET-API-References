@@ -3,13 +3,13 @@ title: is_repeat_item_labels mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 450
+weight: 530
 url: /tr/aspose.cells.pivot/pivotfield/is_repeat_item_labels/
 is_root: false
 ---
 ##  is_repeat_item_labels mülk
 
-alanın öğe etiketlerini tekrarlayıp tekrarlayamayacağını belirtir
+Bölgedeki alan etiketlerinin tekrarlanıp tekrarlanmadığını gösterir.
 Varsayılan değer false'tur.
 ###  Tanım:
 ```python

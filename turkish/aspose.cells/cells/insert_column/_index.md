@@ -3,16 +3,17 @@ title: insert_column yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 670
+weight: 690
 url: /tr/aspose.cells/cells/insert_column/
 is_root: false
 ---
-##  insert_column {#int}
+##  insert_column(self, column_index) {#int}
 Çalışma sayfasına yeni bir sütun ekler.
 
 
 
 ```python
+
 def insert_column(self, column_index):
     ...
 ```
@@ -23,12 +24,13 @@ def insert_column(self, column_index):
 | column_index | int | Sütun dizini.|
 
 
-##  insert_column {#int-bool}
+##  insert_column(self, column_index, update_reference) {#int-bool}
 Çalışma sayfasına yeni bir sütun ekler.
 
 
 
 ```python
+
 def insert_column(self, column_index, update_reference):
     ...
 ```

@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/labelactivexcontrol/back_ole_color
 is_root: false
 ---
 ##  back_ole_color mülk
-
-Arka planın ole rengini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def back_ole_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [LabelActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`LabelActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

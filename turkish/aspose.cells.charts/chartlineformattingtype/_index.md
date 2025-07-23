@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/chartlineformattingtype/
 is_root: false
 ---
 ##  ChartLineFormattingType numaralandırma
-Grafik çizgisinin çizgi biçimi türünü temsil eder.
+Grafik çizgisinin çizgi biçim türünü temsil eder.
 
 
 
@@ -19,7 +19,7 @@ ChartLineFormattingType türü aşağıdaki üyeleri ortaya çıkarır:
 | :- | :- |
 | AUTOMATIC | Otomatik biçimlendirme türünü temsil eder.|
 | SOLID | Katı biçimlendirme türünü temsil eder.|
-| NONE |Hiçbir biçimlendirme türünü temsil etmez.|
+| NONE | Hiçbir biçimlendirme türünü temsil etmez.|
 | GRADIENT | Gradyan|
 
 

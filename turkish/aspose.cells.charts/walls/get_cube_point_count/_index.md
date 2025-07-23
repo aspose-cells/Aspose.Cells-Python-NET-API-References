@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.charts/walls/get_cube_point_count/
 is_root: false
 ---
-##  get_cube_point_count() {#}
-Chart.Calculate() yöntemini çağırdıktan sonra küp noktalarının sayısını alır.
+##  get_cube_point_count(self) {#}
+Chart.Calculate() metodu çağrıldıktan sonra küp noktalarının sayısını alır.
 
 
 
 ```python
+
 def get_cube_point_count(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_cube_point_count(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Walls](/cells/python-net/tr/aspose.cells.charts/walls)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Walls`](/cells/python-net/tr/aspose.cells.charts/walls)

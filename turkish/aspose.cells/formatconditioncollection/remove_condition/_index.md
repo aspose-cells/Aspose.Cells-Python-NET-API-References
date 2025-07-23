@@ -7,12 +7,13 @@ weight: 70
 url: /tr/aspose.cells/formatconditioncollection/remove_condition/
 is_root: false
 ---
-##  remove_condition(index) {#int}
-Biçimlendirme koşulunu dizine göre kaldırır.
+##  remove_condition(self, index) {#int}
+Dizin bazında biçimlendirme koşulunu kaldırır.
 
 
 
 ```python
+
 def remove_condition(self, index):
     ...
 ```
@@ -25,5 +26,5 @@ def remove_condition(self, index):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormatConditionCollection](/cells/python-net/tr/aspose.cells/formatconditioncollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormatConditionCollection`](/cells/python-net/tr/aspose.cells/formatconditioncollection)

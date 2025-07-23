@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  walls mülk
 
-3 boyutlu grafiğin walls'ini temsil eden [`Chart.walls`](/cells/python-net/tr/aspose.cells.charts/chart#walls) nesnesini döndürür.
+3 boyutlu bir grafiğin walls'ini temsil eden [`Chart.walls`](/cells/python-net/tr/aspose.cells.charts/chart#walls) nesnesini döndürür.
 
 ###  Notlar
 
-Bu özellik 3 boyutlu pasta grafikler için geçerli değildir.
+Bu özellik 3 boyutlu pasta grafikleri için geçerli değildir.
 ###  Tanım:
 ```python
 @property

@@ -22,32 +22,32 @@ ErrorBar türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [compound_type](/cells/python-net/tr/aspose.cells.charts/errorbar/compound_type) | Bileşik çizgi türünü belirtir|
-| [dash_type](/cells/python-net/tr/aspose.cells.charts/errorbar/dash_type) | Kesikli çizgi türünü belirtir|
-| [cap_type](/cells/python-net/tr/aspose.cells.charts/errorbar/cap_type) |Bitiş büyük harflerini belirtir.|
-| [join_type](/cells/python-net/tr/aspose.cells.charts/errorbar/join_type) | Birleştirme büyük harflerini belirtir.|
+| [compound_type](/cells/python-net/tr/aspose.cells.charts/errorbar/compound_type) | Bileşik satır türünü belirtir|
+| [dash_type](/cells/python-net/tr/aspose.cells.charts/errorbar/dash_type) | Kesik çizgi türünü belirtir|
+| [cap_type](/cells/python-net/tr/aspose.cells.charts/errorbar/cap_type) | Son harfleri belirtir.|
+| [join_type](/cells/python-net/tr/aspose.cells.charts/errorbar/join_type) | Birleştirme kapaklarını belirtir.|
 | [begin_type](/cells/python-net/tr/aspose.cells.charts/errorbar/begin_type) | Bir satırın başlangıcı için bir ok ucu belirtir.|
-| [end_type](/cells/python-net/tr/aspose.cells.charts/errorbar/end_type) | Satır sonu için bir ok ucu belirtir.|
-| [begin_arrow_length](/cells/python-net/tr/aspose.cells.charts/errorbar/begin_arrow_length) | Bir satırın başlangıcı için ok ucunun uzunluğunu belirtir.|
-| [end_arrow_length](/cells/python-net/tr/aspose.cells.charts/errorbar/end_arrow_length) | Satır sonu için ok ucunun uzunluğunu belirtir.|
-| [begin_arrow_width](/cells/python-net/tr/aspose.cells.charts/errorbar/begin_arrow_width) | Bir satırın başlangıcı için ok ucunun genişliğini belirtir.|
-| [end_arrow_width](/cells/python-net/tr/aspose.cells.charts/errorbar/end_arrow_width) | Satır sonu için ok ucunun genişliğini belirtir.|
+| [end_type](/cells/python-net/tr/aspose.cells.charts/errorbar/end_type) | Bir satırın sonu için bir ok ucu belirtir.|
+| [begin_arrow_length](/cells/python-net/tr/aspose.cells.charts/errorbar/begin_arrow_length) | Bir çizginin başlangıcındaki ok ucunun uzunluğunu belirtir.|
+| [end_arrow_length](/cells/python-net/tr/aspose.cells.charts/errorbar/end_arrow_length) | Bir satırın sonundaki ok ucunun uzunluğunu belirtir.|
+| [begin_arrow_width](/cells/python-net/tr/aspose.cells.charts/errorbar/begin_arrow_width) | Bir çizginin başlangıcındaki ok ucunun genişliğini belirtir.|
+| [end_arrow_width](/cells/python-net/tr/aspose.cells.charts/errorbar/end_arrow_width) | Bir satırın sonundaki ok ucunun genişliğini belirtir.|
 | [theme_color](/cells/python-net/tr/aspose.cells.charts/errorbar/theme_color) | Tema rengini alır ve ayarlar.|
 | [color](/cells/python-net/tr/aspose.cells.charts/errorbar/color) | Çizginin rengini temsil eder.|
-| [transparency](/cells/python-net/tr/aspose.cells.charts/errorbar/transparency) | Çizginin şeffaflık derecesini 0,0 (opak) ila 1,0 (şeffaf) arasında bir değer olarak döndürür veya ayarlar.|
-| [style](/cells/python-net/tr/aspose.cells.charts/errorbar/style) | Çizginin stilini temsil eder.|
-| [weight](/cells/python-net/tr/aspose.cells.charts/errorbar/weight) | Satırın [`WeightType`](/cells/python-net/tr/aspose.cells.drawing/weighttype)'ini alır veya ayarlar.|
-| [weight_pt](/cells/python-net/tr/aspose.cells.charts/errorbar/weight_pt) | Çizginin ağırlığını nokta birimi cinsinden alır veya ayarlar.|
-| [weight_px](/cells/python-net/tr/aspose.cells.charts/errorbar/weight_px) | Satırın ağırlığını piksel birimi cinsinden alır veya ayarlar.|
+| [transparency](/cells/python-net/tr/aspose.cells.charts/errorbar/transparency) | Çizginin şeffaflık derecesini 0,0 (opak) ile 1,0 (temiz) arasında bir değer olarak döndürür veya ayarlar.|
+| [style](/cells/python-net/tr/aspose.cells.charts/errorbar/style) | Çizginin tarzını temsil eder.|
+| [weight](/cells/python-net/tr/aspose.cells.charts/errorbar/weight) | Satırın [`WeightType`](/cells/python-net/tr/aspose.cells.drawing/weighttype) değerini alır veya ayarlar.|
+| [weight_pt](/cells/python-net/tr/aspose.cells.charts/errorbar/weight_pt) |Çizginin ağırlığını nokta biriminde alır veya ayarlar.|
+| [weight_px](/cells/python-net/tr/aspose.cells.charts/errorbar/weight_px) | Çizginin kalınlığını piksel cinsinden alır veya ayarlar.|
 | [formatting_type](/cells/python-net/tr/aspose.cells.charts/errorbar/formatting_type) | Biçim türünü alır veya ayarlar.|
-| [is_automatic_color](/cells/python-net/tr/aspose.cells.charts/errorbar/is_automatic_color) | Çizgi renginin otomatik olarak atanıp atanmadığını belirtir.|
-| [is_visible](/cells/python-net/tr/aspose.cells.charts/errorbar/is_visible) | Çizginin görünür olup olmadığını temsil eder.|
-| [is_auto](/cells/python-net/tr/aspose.cells.charts/errorbar/is_auto) |Bu çizgi stilinin otomatik olarak atanıp atanmadığını belirtir.|
+| [is_automatic_color](/cells/python-net/tr/aspose.cells.charts/errorbar/is_automatic_color) | Çizginin renginin otomatik olarak atanıp atanmadığını belirtir.|
+| [is_visible](/cells/python-net/tr/aspose.cells.charts/errorbar/is_visible) | Çizginin görünür olup olmadığını gösterir.|
+| [is_auto](/cells/python-net/tr/aspose.cells.charts/errorbar/is_auto) | Bu çizgi stilinin otomatik olarak atanıp atanmadığını belirtir.|
 | [gradient_fill](/cells/python-net/tr/aspose.cells.charts/errorbar/gradient_fill) | Degrade dolguyu temsil eder.|
-| [type](/cells/python-net/tr/aspose.cells.charts/errorbar/type) | Hata çubuğu miktarı türünü temsil eder.|
-| [display_type](/cells/python-net/tr/aspose.cells.charts/errorbar/display_type) | Hata çubuğu görüntüleme türünü temsil eder.|
-| [amount](/cells/python-net/tr/aspose.cells.charts/errorbar/amount) | Hata çubuğunun miktarını temsil eder.<br/> Tutar sıfırdan büyük veya sıfıra eşit olmalıdır.|
-| [show_marker_t_top](/cells/python-net/tr/aspose.cells.charts/errorbar/show_marker_t_top) | Hata çubuklarının bir T-top ile biçimlendirilip biçimlendirilmediğini gösterir.|
+| [type](/cells/python-net/tr/aspose.cells.charts/errorbar/type) | Hata çubuğu miktar türünü temsil eder.|
+| [display_type](/cells/python-net/tr/aspose.cells.charts/errorbar/display_type) | Hata çubuğunun görüntülenme türünü temsil eder.|
+| [amount](/cells/python-net/tr/aspose.cells.charts/errorbar/amount) | Hata çubuğunun miktarını temsil eder.|
+| [show_marker_t_top](/cells/python-net/tr/aspose.cells.charts/errorbar/show_marker_t_top) | Biçimlendirme hatası çubuklarının T-üst ile gösterildiğini belirtir.|
 | [plus_value](/cells/python-net/tr/aspose.cells.charts/errorbar/plus_value) | Hata çubuğu türü Özel olduğunda pozitif hata miktarını temsil eder.|
 | [minus_value](/cells/python-net/tr/aspose.cells.charts/errorbar/minus_value) | Hata çubuğu türü Özel olduğunda negatif hata miktarını temsil eder.|
 

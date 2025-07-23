@@ -3,13 +3,13 @@ title: left_to_corner mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 710
+weight: 720
 url: /tr/aspose.cells.drawing/smartartshape/left_to_corner/
 is_root: false
 ---
 ##  left_to_corner mülk
 
-Çalışma sayfasının sol kenarından şeklin yatay uzaklığını alır ve ayarlar.
+Şeklin çalışma sayfasının sol kenarından yatay uzaklığını alır ve ayarlar.
 
 ###  Örnek
 

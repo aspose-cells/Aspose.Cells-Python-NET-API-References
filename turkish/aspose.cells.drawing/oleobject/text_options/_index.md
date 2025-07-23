@@ -3,7 +3,7 @@ title: text_options mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /tr/aspose.cells.drawing/oleobject/text_options/
 is_root: false
 ---

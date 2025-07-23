@@ -3,13 +3,13 @@ title: width_scalable mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 720
+weight: 800
 url: /tr/aspose.cells.saving/ebooksaveoptions/width_scalable/
 is_root: false
 ---
 ##  width_scalable mülk
 
-Ölçek birimi cinsinden sütun genişliğinin html'ye aktarılıp aktarılmayacağını belirtir.
+Sütun genişliğinin ölçek biriminde HTML'e aktarılıp aktarılmayacağını belirtir.
 Varsayılan değer false'tur.
 ###  Tanım:
 ```python

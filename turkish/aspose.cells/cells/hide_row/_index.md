@@ -3,16 +3,17 @@ title: hide_row yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 580
+weight: 620
 url: /tr/aspose.cells/cells/hide_row/
 is_root: false
 ---
-##  hide_row {#int}
+##  hide_row(self, row) {#int}
 Bir satırı gizler.
 
 
 
 ```python
+
 def hide_row(self, row):
     ...
 ```

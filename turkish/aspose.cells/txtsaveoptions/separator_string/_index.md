@@ -3,7 +3,7 @@ title: separator_string mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 190
+weight: 200
 url: /tr/aspose.cells/txtsaveoptions/separator_string/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def separator_string(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TxtSaveOptions](/cells/python-net/tr/aspose.cells/txtsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`TxtSaveOptions`](/cells/python-net/tr/aspose.cells/txtsaveoptions)

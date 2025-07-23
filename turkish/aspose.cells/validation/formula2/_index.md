@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  formula2 mülk
 
-Veri doğrulamayla ilişkili değeri veya ifadeyi temsil eder.
+Veri doğrulamasıyla ilişkili değeri veya ifadeyi temsil eder.
 ###  Tanım:
 ```python
 @property

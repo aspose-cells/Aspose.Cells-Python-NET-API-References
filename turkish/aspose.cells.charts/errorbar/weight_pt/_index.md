@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight_pt mülk
 
-Nokta birimi cinsinden çizginin ağırlığını alır veya ayarlar.
+Çizginin ağırlığını nokta biriminde alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight_pt(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ErrorBar](/cells/python-net/tr/aspose.cells.charts/errorbar)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ErrorBar`](/cells/python-net/tr/aspose.cells.charts/errorbar)

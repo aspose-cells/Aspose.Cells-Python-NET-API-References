@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  split_value mülk
 
-Hangi veri noktalarının ikinci pastada veya çubukta olduğunu belirlemek için kullanılacak bir değer döndürür veya ayarlar.
-bir pasta pastası veya pasta grafiği çubuğu.
+İkinci pasta veya çubukta hangi veri noktalarının olacağını belirlemek için kullanılacak bir değeri döndürür veya ayarlar
+bir pasta pastası veya pasta grafiğinin çubuğu.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def split_value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

@@ -11,7 +11,7 @@ is_root: false
 
 Koşullu biçimlendirmenin "IconSet" örneğini alın.
 Varsayılan örneğin IconSetType'ı TrafficLights31'dir.
-Yalnızca type = IconSet için geçerlidir.
+Sadece type = IconSet için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -20,6 +20,6 @@ def icon_set(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormatCondition](/cells/python-net/tr/aspose.cells/formatcondition)
-* sınıf [IconSet](/cells/python-net/tr/aspose.cells/iconset)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormatCondition`](/cells/python-net/tr/aspose.cells/formatcondition)
+* sınıf [`IconSet`](/cells/python-net/tr/aspose.cells/iconset)

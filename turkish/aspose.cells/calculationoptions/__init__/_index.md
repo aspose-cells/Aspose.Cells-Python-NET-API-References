@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/calculationoptions/__init__/
 is_root: false
 ---
-##  CalculationOptions() {#}
+##  \_\_init\_\_(kendi){#}
 CalculationOptions'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CalculationOptions](/cells/python-net/tr/aspose.cells/calculationoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CalculationOptions`](/cells/python-net/tr/aspose.cells/calculationoptions)

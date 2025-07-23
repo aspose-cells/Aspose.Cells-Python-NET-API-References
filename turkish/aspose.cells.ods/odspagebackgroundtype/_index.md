@@ -8,20 +8,20 @@ url: /tr/aspose.cells.ods/odspagebackgroundtype/
 is_root: false
 ---
 ##  OdsPageBackgroundType numaralandırma
-ods'un sayfa arka plan tipini temsil eder.
+Ods'un sayfa arka plan türünü temsil eder.
 
 
 
-OdsPageBackgroundType türü aşağıdaki üyeleri gösterir:
+OdsPageBackgroundType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NONE | Arkaplan yok.|
 | COLOR | Arka planı renkle biçimlendirir.|
-| GRAPHIC | Arka planı görüntü ile biçimlendirir.|
+| GRAPHIC | Arka planı resimle biçimlendirir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](..)
+* modül [`aspose.cells.ods`](..)

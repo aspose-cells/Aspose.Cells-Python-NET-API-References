@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  crash_save mülk
 
-uygulamanın bir kilitlenmeden sonra çalışma kitabı dosyasını en son kaydedip kaydetmediğini belirtir.
+Uygulamanın çökmeden sonra çalışma kitabı dosyasını en son kaydedip kaydetmediğini gösterir.
 ###  Tanım:
 ```python
 @property

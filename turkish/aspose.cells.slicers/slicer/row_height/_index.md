@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  row_height mülk
 
-Belirtilen dilimleyicideki her satırın punto cinsinden yüksekliğini döndürür veya ayarlar.
+Belirtilen dilimleyicideki her satırın yüksekliğini puan cinsinden döndürür veya ayarlar.
 
 ###  Örnek
 
 ```python
 
-slicer.row_height = 20
+slicer.row_height = 20.0
 
 ```
 ###  Tanım:
@@ -29,5 +29,5 @@ def row_height(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

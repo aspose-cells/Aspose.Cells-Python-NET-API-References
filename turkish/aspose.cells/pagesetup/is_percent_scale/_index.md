@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent_scale mülk
 
-Bu özellik False ise, FitToPagesWide ve FitToPagesTall özellikleri çalışma sayfasının nasıl ölçeklendiğini denetler.
+Bu özellik False ise, FitToPagesWide ve FitToPagesTall özellikleri çalışma sayfasının nasıl ölçekleneceğini kontrol eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_percent_scale(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

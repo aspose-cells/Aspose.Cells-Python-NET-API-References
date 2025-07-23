@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  appref mülk
 
-Bu listedeki bağlama girişini belgedeki ilişkili verilerle eşlemek için kullanılan bağlama anahtarını alır ve ayarlar.
+Bu listedeki bağlama girdisini belgedeki bağlı verilerle eşlemek için kullanılan bağlama anahtarını alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def appref(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionBinding](/cells/python-net/tr/aspose.cells.webextensions/webextensionbinding)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionBinding`](/cells/python-net/tr/aspose.cells.webextensions/webextensionbinding)

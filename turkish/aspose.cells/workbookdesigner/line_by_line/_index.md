@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  line_by_line mülk
 
-Akıllı işaretleyicinin satır satır işlenip işlenmeyeceğini belirtir.
+Akıllı işaretleyicinin satır satır işlenip işlenmediğini belirtir.
 
 ###  Notlar
 
 Varsayılan değer doğrudur.
-False ise şablon dosyası "_CellsSmartMarkers" olarak adlandırılan bir aralık içermelidir.
+Eğer False ise, şablon dosyası "_CellsSmartMarkers" adında bir aralık içermelidir.
 ###  Tanım:
 ```python
 @property

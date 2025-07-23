@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells.pivot/pivottable/calculate_data/
 is_root: false
 ---
-##  calculate_data() {#}
-Pivottable'ın verilerini hücrelere göre hesaplar.
+##  calculate_data(self) {#}
+Pivottable'ın verilerini hücrelere hesaplar.
 
 
 
 ```python
+
 def calculate_data(self):
     ...
 ```
@@ -20,11 +21,28 @@ def calculate_data(self):
 
 ###  Notlar
 
-Cell. Yöntem çağrılmadığı takdirde pivot aralığındaki değer doğru sonucu döndüremez.
-Bu yöntem, verileri orijinal veri kaynağıyla değil, bir iç pivot önbelleğiyle hesaplar.
-Bu nedenle, veri kaynağı değiştirilirse, lütfen önce RefreshData() yöntemini çağırın.
+Cell.Metot çağrılmamışsa pivot aralığındaki değer doğru sonucu döndüremez.
+Bu yöntem, orijinal veri kaynağıyla değil, iç pivot önbelleğiyle veri hesaplar.
+Dolayısıyla veri kaynağı değiştiğinde öncelikle RefreshData() metodunu çağırmalıyız.
+
+##  calculate_data(self, option) {#aspose.cells.pivot.PivotTableCalculateOption}
+Pivot tabloların seçeneklerle hesaplanması
+
+
+
+```python
+
+def calculate_data(self, option):
+    ...
+```
+
+
+| Parametre| Tip| Tanım|
+| :- | :- | :- |
+| option | [`PivotTableCalculateOption`](/cells/python-net/tr/aspose.cells.pivot/pivottablecalculateoption) |  |
+
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

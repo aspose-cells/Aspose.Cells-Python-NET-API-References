@@ -3,13 +3,13 @@ title: width_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1370
+weight: 1380
 url: /tr/aspose.cells.drawing/oleobject/width_inch/
 is_root: false
 ---
 ##  width_inch mülk
 
-Şeklin genişliğini inç birimi cinsinden temsil eder.
+Şeklin genişliğini inç cinsinden gösterir.
 
 ###  Örnek
 

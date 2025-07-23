@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-Aralık başlığını alır. Bu, adlandırılmış bir aralık tanımı olarak değil, tanımlayıcı olarak kullanılır.
+Aralık başlığını alır. Bu, adlandırılmış bir aralık tanımı olarak değil, bir tanımlayıcı olarak kullanılır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ProtectedRange](/cells/python-net/tr/aspose.cells/protectedrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`ProtectedRange`](/cells/python-net/tr/aspose.cells/protectedrange)

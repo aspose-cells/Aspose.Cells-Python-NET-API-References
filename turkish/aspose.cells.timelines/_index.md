@@ -7,12 +7,12 @@ weight: 10
 url: /tr/aspose.cells.timelines/
 is_root: false
 ---
- bu**Aspose.Cells.Timelines** ad alanı, Excel Elektronik Tablo dosyalarına erişmeye ve zaman çizelgeleri çizmeye izin veren sınıflar içerir.
+**Aspose.Cells.Timelines** namespace, Excel Elektronik Tablo dosyalarındaki zaman çizelgelerine erişmeyi ve bunları çizmeyi sağlayan sınıfları içerir.
 
-###  sınıflar
+###  Sınıflar
 | Sınıf| Tanım|
 | :- | :- |
-| [Timeline](/cells/python-net/tr/aspose.cells.timelines/timeline) |Zaman Çizelgesi Görünümünün özet açıklaması<br/> MS Excel nedeniyle Excel 2003, Zaman Çizelgesi'ni desteklemiyor|
-| [TimelineCollection](/cells/python-net/tr/aspose.cells.timelines/timelinecollection) | Belirtilen çalışma sayfasındaki tüm Zaman Çizelgesi nesnelerinin toplanmasını belirtir.<br/> MS Excel nedeniyle Excel 2003, Zaman Çizelgesi'ni desteklemez.|
+| [`Timeline`](/cells/python-net/tr/aspose.cells.timelines/timeline) | Zaman Çizelgesi Görünümünün özet açıklaması<br/> MS Excel nedeniyle Excel 2003 Zaman Çizelgesi'ni desteklemez|
+| [`TimelineCollection`](/cells/python-net/tr/aspose.cells.timelines/timelinecollection) | Belirtilen çalışma sayfasındaki tüm Zaman Çizelgesi nesnelerinin koleksiyonunu belirtir.<br/> MS Excel nedeniyle Excel 2003 Zaman Çizelgesi'ni desteklemez.|
 
 

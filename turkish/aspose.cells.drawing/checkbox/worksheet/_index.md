@@ -3,7 +3,7 @@ title: worksheet mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1260
+weight: 1270
 url: /tr/aspose.cells.drawing/checkbox/worksheet/
 is_root: false
 ---

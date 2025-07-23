@@ -3,13 +3,13 @@ title: clear_data mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 50
 url: /tr/aspose.cells/spreadsheetml2003saveoptions/clear_data/
 is_root: false
 ---
 ##  clear_data mülk
 
-Dosyayı kaydettikten sonra çalışma kitabını boşaltın.
+Dosyayı kaydettikten sonra çalışma kitabını boş hale getirin.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def clear_data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [SpreadsheetML2003SaveOptions](/cells/python-net/tr/aspose.cells/spreadsheetml2003saveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`SpreadsheetML2003SaveOptions`](/cells/python-net/tr/aspose.cells/spreadsheetml2003saveoptions)

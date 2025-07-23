@@ -3,13 +3,13 @@ title: cell_watches mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 390
+weight: 410
 url: /tr/aspose.cells/worksheet/cell_watches/
 is_root: false
 ---
 ##  cell_watches mülk
 
-Bu çalışma sayfasındaki 'gözetleme penceresinde' izlenen hücrelerin koleksiyonunu alır.
+Bu çalışma sayfasındaki 'izleme penceresinde' izlenen hücrelerin koleksiyonunu alır.
 ###  Tanım:
 ```python
 @property

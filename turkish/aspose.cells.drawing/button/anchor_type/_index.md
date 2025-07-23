@@ -3,13 +3,13 @@ title: anchor_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 290
+weight: 300
 url: /tr/aspose.cells.drawing/button/anchor_type/
 is_root: false
 ---
 ##  anchor_type mülk
 
-Şekil bağlantı yer tutucusunu alır ve ayarlar.
+Şekil bağlantı yer tutucusunun türünü alır ve ayarlar.
 
 ###  Örnek
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight_px mülk
 
-Çizginin ağırlığını piksel birimi cinsinden alır veya ayarlar.
+Çizginin kalınlığını piksel cinsinden alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight_px(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Line](/cells/python-net/tr/aspose.cells.drawing/line)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)

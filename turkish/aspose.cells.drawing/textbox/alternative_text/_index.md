@@ -3,7 +3,7 @@ title: alternative_text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 290
+weight: 300
 url: /tr/aspose.cells.drawing/textbox/alternative_text/
 is_root: false
 ---

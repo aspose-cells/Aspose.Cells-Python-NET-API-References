@@ -8,13 +8,13 @@ url: /tr/aspose.cells.charts/errorbardisplaytype/
 is_root: false
 ---
 ##  ErrorBarDisplayType numaralandırma
-Hata çubuğu görüntüleme tipini temsil eder.
+Hata çubuğu görüntüleme türünü temsil eder.
 
 
 
-ErrorBarDisplayType türü aşağıdaki üyeleri gösterir:
+ErrorBarDisplayType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | BOTH | İkisi birden|
@@ -25,4 +25,4 @@ ErrorBarDisplayType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

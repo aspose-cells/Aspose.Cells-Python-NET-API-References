@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column mülk
 
-Yorumun column dizinini alır.
+Yorumun column indeksini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ThreadedComment](/cells/python-net/tr/aspose.cells/threadedcomment)
+* modül [`aspose.cells`](../../)
+* sınıf [`ThreadedComment`](/cells/python-net/tr/aspose.cells/threadedcomment)

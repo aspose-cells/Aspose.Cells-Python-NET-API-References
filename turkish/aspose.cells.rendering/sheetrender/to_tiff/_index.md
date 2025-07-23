@@ -7,12 +7,13 @@ weight: 70
 url: /tr/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff {#io.RawIOBase}
-Akış için tüm çalışma sayfasını Tiff Image olarak işleyin.
+##  to_tiff(self, stream) {#io.RawIOBase}
+Tüm çalışma sayfasını Tiff Görüntüsü olarak yayına dönüştürün.
 
 
 
 ```python
+
 def to_tiff(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase | çıktı görüntüsünün akışı|
 
 
-##  to_tiff {#str}
-Çalışma sayfasının tamamını Tiff Görüntüsü olarak bir dosyaya dönüştürün.
+##  to_tiff(self, filename) {#str}
+Tüm çalışma sayfasını Tiff Görüntüsü olarak bir dosyaya aktarın.
 
 
 
 ```python
+
 def to_tiff(self, filename):
     ...
 ```
@@ -40,7 +42,7 @@ def to_tiff(self, filename):
 
 ###  Örnek
 
-Aşağıdaki kod, ilk sayfanın tüm sayfalarını Tiff görüntüsüne çıkarır.
+Aşağıdaki kod, ilk sayfanın tüm sayfalarını Tiff görüntüsüne çıktı olarak verir.
 
 ```python
 from aspose.cells import SaveFormat, Workbook

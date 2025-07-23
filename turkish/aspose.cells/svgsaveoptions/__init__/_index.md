@@ -7,25 +7,30 @@ weight: 10
 url: /tr/aspose.cells/svgsaveoptions/__init__/
 is_root: false
 ---
-##  SvgSaveOptions() {#}
-svg dosyasını kaydetme seçeneklerini oluşturur.
+##  \_\_init\_\_(kendi){#}
+Resim dosyasını kaydetme seçeneklerini oluşturur.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
 
 
+###  Notlar
 
+Varsayılan tür Tiff'tir.
 
-##  SvgSaveOptions(save_format) {#SaveFormat}
-svg dosyasını kaydetme seçeneklerini oluşturur.
+##  \_\_init\_\_(self, save_format){#aspose.cells.SaveFormat}
+
+Resim dosyasını kaydetme seçeneklerini oluşturur.
 
 
 
 ```python
+
 def __init__(self, save_format):
     ...
 ```
@@ -33,15 +38,10 @@ def __init__(self, save_format):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/tr/aspose.cells/saveformat) | Dosya biçimi.<br/> svg olmalıdır.|
-###  Notlar
+| save_format | [`SaveFormat`](/cells/python-net/tr/aspose.cells/saveformat) | Dosya formatı.<br/>Aşağıdaki türlerden biri olmalıdır: [`SaveFormat.TIFF`](/cells/python-net/tr/aspose.cells/saveformat#TIFF), [`SaveFormat.SVG`](/cells/python-net/tr/aspose.cells/saveformat#SVG),<br/>[`SaveFormat.BMP`](/cells/python-net/aspose.cells/saveformat#BMP), [`SaveFormat.PNG`](/cells/python-net/aspose.cells/saveformat#PNG), [`SaveFormat.JPG`](/cells/python-net/aspose.cells/saveformat#JPG),<br/>[`SaveFormat.EMF`](/cells/python-net/tr/aspose.cells/saveformat#EMF) veya [`SaveFormat.GIF`](/cells/python-net/tr/aspose.cells/saveformat#GIF),<br/> Aksi takdirde kaydedilen format otomatik olarak [`SaveFormat.TIFF`](/cells/python-net/tr/aspose.cells/saveformat#TIFF) olarak ayarlanacaktır.|
 
-NOT: Bu yapıcı artık kullanılmıyor.
-Bunun yerine, lütfen SvgSaveOptions() yapıcısını kullanın.
- Bu mülk, Ağustos 2022'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [SvgSaveOptions](/cells/python-net/tr/aspose.cells/svgsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`SvgSaveOptions`](/cells/python-net/tr/aspose.cells/svgsaveoptions)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_transparency mülk
 
-Ön plan renginin saydamlığını alır veya ayarlar.
+Ön plan renginin şeffaflığını alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_transparency(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [PatternFill](/cells/python-net/tr/aspose.cells.drawing/patternfill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`PatternFill`](/cells/python-net/tr/aspose.cells.drawing/patternfill)

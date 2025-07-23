@@ -3,13 +3,13 @@ title: left_in_shape mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 750
+weight: 760
 url: /tr/aspose.cells.drawing/lineshape/left_in_shape/
 is_root: false
 ---
 ##  left_in_shape mülk
 
- Şeklin üst şeklin sol kenarlığından yatay uzaklığını temsil eder,
+ Şeklin ana şeklin sol sınırından yatay olarak uzaklığını temsil eder.
 ana şeklin genişliğinin 1/4000'i biriminde.
 
 ###  Notlar

@@ -25,9 +25,9 @@ Floor türü aşağıdaki üyeleri ortaya çıkarır:
 | [background_color](/cells/python-net/tr/aspose.cells.charts/floor/background_color) | [`Area`](/cells/python-net/tr/aspose.cells.drawing/area)'in arka plan rengini alır veya ayarlar.|
 | [foreground_color](/cells/python-net/tr/aspose.cells.charts/floor/foreground_color) | Ön plan rengini alır veya ayarlar.|
 | [formatting](/cells/python-net/tr/aspose.cells.charts/floor/formatting) | Alanın biçimlendirmesini temsil eder.|
-| [invert_if_negative](/cells/python-net/tr/aspose.cells.charts/floor/invert_if_negative) | Özellik doğruysa ve grafik noktasının değeri negatif bir sayı ise,<br/> ön plan rengi ve arka plan rengi değiştirilecektir.|
+| [invert_if_negative](/cells/python-net/tr/aspose.cells.charts/floor/invert_if_negative) | Özellik doğruysa ve grafik noktasının değeri negatif bir sayıysa,<br/> ön plan rengi ve arka plan rengi değiştirilecektir.|
 | [fill_format](/cells/python-net/tr/aspose.cells.charts/floor/fill_format) | Belirtilen grafik veya şekil için dolgu biçimlendirme özelliklerini içeren [`Area.fill_format`](/cells/python-net/tr/aspose.cells.drawing/area#fill_format) nesnesini temsil eder.|
-| [transparency](/cells/python-net/tr/aspose.cells.charts/floor/transparency) |Alanın şeffaflık derecesini 0,0 (opak) ila 1,0 (şeffaf) arasında bir değer olarak döndürür veya ayarlar.|
+| [transparency](/cells/python-net/tr/aspose.cells.charts/floor/transparency) |Alanın şeffaflık derecesini 0,0 (opak) ile 1,0 (temiz) arasında bir değer olarak döndürür veya ayarlar.|
 | [border](/cells/python-net/tr/aspose.cells.charts/floor/border) | [`Line`](/cells/python-net/tr/aspose.cells.drawing/line) sınırını alır veya ayarlar.|
 
 

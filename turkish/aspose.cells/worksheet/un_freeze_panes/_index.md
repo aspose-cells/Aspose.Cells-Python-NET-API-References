@@ -3,16 +3,17 @@ title: un_freeze_panes yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 330
 url: /tr/aspose.cells/worksheet/un_freeze_panes/
 is_root: false
 ---
-##  un_freeze_panes {#}
+##  un_freeze_panes(self) {#}
 Çalışma sayfasındaki bölmeleri çözer.
 
 
 
 ```python
+
 def un_freeze_panes(self):
     ...
 ```

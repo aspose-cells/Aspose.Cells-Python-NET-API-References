@@ -12,17 +12,17 @@ Tablonun veri kaynağı türünü temsil eder.
 
 
 
-TableDataSourceType türü aşağıdaki üyeleri gösterir:
+TableDataSourceType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | WORKSHEET | Excel Çalışma Sayfası Tablosu|
-| SHARE_POINT | SharePoint bağlantılı Listesini oku-yaz|
+| SHARE_POINT | Okuma-yazma SharePoint Bağlantılı Listesi|
 | XML | XML eşleyici Tablosu|
 | QUERY_TABLE | Sorgu Tablosu|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](..)
+* modül [`aspose.cells.tables`](..)

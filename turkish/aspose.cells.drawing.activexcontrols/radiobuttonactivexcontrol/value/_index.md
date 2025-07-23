@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value mülk
 
-Kontrolün kontrol edilip edilmediğini gösterir.
+Kontrolün işaretli olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [CheckValueType](/cells/python-net/tr/aspose.cells.drawing/checkvaluetype)
-* sınıf [RadioButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`CheckValueType`](/cells/python-net/tr/aspose.cells.drawing/checkvaluetype)
+* sınıf [`RadioButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  input_title mülk
 
-Veri doğrulama girişi iletişim kutusunun başlığını temsil eder.
+Veri doğrulama giriş iletişim kutusunun başlığını temsil eder.
 ###  Tanım:
 ```python
 @property

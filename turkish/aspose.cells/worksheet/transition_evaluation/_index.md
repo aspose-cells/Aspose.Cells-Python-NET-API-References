@@ -3,13 +3,13 @@ title: transition_evaluation mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 860
+weight: 880
 url: /tr/aspose.cells/worksheet/transition_evaluation/
 is_root: false
 ---
 ##  transition_evaluation mülk
 
-Geçiş Formülü Değerlendirmesi (Lotus uyumluluğu) seçeneğinin etkin olup olmadığını belirtir.
+Geçiş Formülü Değerlendirmesi (Lotus uyumluluğu) seçeneğinin etkin olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property

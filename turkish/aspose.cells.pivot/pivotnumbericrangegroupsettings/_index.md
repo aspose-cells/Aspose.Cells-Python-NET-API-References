@@ -3,7 +3,7 @@ title: PivotNumbericRangeGroupSettings sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 200
 url: /tr/aspose.cells.pivot/pivotnumbericrangegroupsettings/
 is_root: false
 ---
@@ -24,7 +24,7 @@ PivotNumbericRangeGroupSettings türü aşağıdaki üyeleri ortaya çıkarır:
 | :- | :- |
 | [type](/cells/python-net/tr/aspose.cells.pivot/pivotnumbericrangegroupsettings/type) | Grup türünü alır.|
 | [start](/cells/python-net/tr/aspose.cells.pivot/pivotnumbericrangegroupsettings/start) | Grubun başlangıç numarasını alır.|
-| [end](/cells/python-net/tr/aspose.cells.pivot/pivotnumbericrangegroupsettings/end) | Grubun bitiş numarasını alır.|
+| [end](/cells/python-net/tr/aspose.cells.pivot/pivotnumbericrangegroupsettings/end) | Grubun son numarasını alır.|
 | [interval](/cells/python-net/tr/aspose.cells.pivot/pivotnumbericrangegroupsettings/interval) | Grubun aralığını alır.|
 
 

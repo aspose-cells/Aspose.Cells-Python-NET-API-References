@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  stream mülk
 
-stream'i Alır/Ayarlar
+stream'i alır/ayarlar
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def stream(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [StreamProviderOptions](/cells/python-net/tr/aspose.cells/streamprovideroptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`StreamProviderOptions`](/cells/python-net/tr/aspose.cells/streamprovideroptions)

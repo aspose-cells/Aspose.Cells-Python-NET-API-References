@@ -8,19 +8,19 @@ url: /tr/aspose.cells.webextensions/webextensionproperty/
 is_root: false
 ---
 ##  WebExtensionProperty sınıfı
-Bir Office Eklentisi özel özelliğini temsil eder.
+Office Eklentisi özel özelliğini temsil eder.
 
 
 
-WebExtensionProperty türü aşağıdaki üyeleri gösterir:
+WebExtensionProperty türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [name](/cells/python-net/tr/aspose.cells.webextensions/webextensionproperty/name) | Özel bir özellik adı alır ve ayarlar.|
-| [value](/cells/python-net/tr/aspose.cells.webextensions/webextensionproperty/value) | Özel bir özellik değeri alır ve ayarlar.|
+| [value](/cells/python-net/tr/aspose.cells.webextensions/webextensionproperty/value) | Özel bir özellik değerini alır ve ayarlar.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](..)
+* modül [`aspose.cells.webextensions`](..)

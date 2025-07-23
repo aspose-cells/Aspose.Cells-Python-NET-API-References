@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cap_type mülk
 
-Bitiş büyük harflerini belirtir.
+Son harfleri belirtir.
 
 ###  Örnek
 
@@ -30,6 +30,6 @@ def cap_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineCapType](/cells/python-net/tr/aspose.cells.drawing/linecaptype)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineCapType`](/cells/python-net/tr/aspose.cells.drawing/linecaptype)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)

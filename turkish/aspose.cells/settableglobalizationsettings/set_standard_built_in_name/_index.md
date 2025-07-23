@@ -7,12 +7,13 @@ weight: 370
 url: /tr/aspose.cells/settableglobalizationsettings/set_standard_built_in_name/
 is_root: false
 ---
-##  set_standard_built_in_name {#str-str-bool}
-Verilen standart işlev adına göre yerel ayara bağlı işlev adını ayarlar.
+##  set_standard_built_in_name(self, local_name, standard_name, bidirectional) {#str-str-bool}
+Yerel bağımlı fonksiyon adını, verilen standart fonksiyon adına göre ayarlar.
 
 
 
 ```python
+
 def set_standard_built_in_name(self, local_name, standard_name, bidirectional):
     ...
 ```
@@ -21,8 +22,8 @@ def set_standard_built_in_name(self, local_name, standard_name, bidirectional):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | local_name | str | Yerel ayara bağlı işlev adı|
-| standard_name | str | Standart(en-ABD yerel ayarı) işlev adı.|
-| bidirectional | bool | Standart ad metninin yerel ad metniyle otomatik olarak eşlenip eşlenmeyeceği.<br/>Doğruysa standart ad metni yerel ad metniyle otomatik olarak eşleştirilecektir<br/>böylece kullanıcının tekrar [`SettableGlobalizationSettings.set_local_built_in_name`](/cells/python-net/tr/aspose.cells/settableglobalizationsettings/set_local_built_in_name)'i aramasına gerek kalmaz<br/> aynı standart ve yerel ad çifti için|
+| standard_name | str | Standart(en-US yerel) fonksiyon adı.|
+| bidirectional | bool | Standart ad metninin otomatik olarak yerel ad metnine eşlenmesi.<br/>Doğruysa, standart ad metni otomatik olarak yerel ad metnine eşlenecektir<br/>böylece kullanıcının [`SettableGlobalizationSettings.set_local_built_in_name`](/cells/python-net/tr/aspose.cells/settableglobalizationsettings/set_local_built_in_name)'i tekrar aramasına gerek kalmaz<br/> aynı standart ve yerel ad çifti için|
 
 
 

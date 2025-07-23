@@ -8,31 +8,31 @@ url: /tr/aspose.cells.revisions/revisiontype/
 is_root: false
 ---
 ##  RevisionType numaralandırma
-Revizyon tipini temsil eder.
+Revizyon türünü temsil eder.
 
 
 
-RevisionType türü aşağıdaki üyeleri gösterir:
+RevisionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| CUSTOM_VIEW | Kişiselleştirilmiş görünüm.|
-| DEFINED_NAME | Tanımlı isim|
-| CHANGE_CELLS | Cells değiştir.|
-| AUTO_FORMAT | Otomatik biçim.|
+| CUSTOM_VIEW | Özel görünüm.|
+| DEFINED_NAME | Tanımlı isim.|
+| CHANGE_CELLS | Cells değişiklik.|
+| AUTO_FORMAT | Otomatik format.|
 | MERGE_CONFLICT | Birleştirme çatışması.|
 | COMMENT | Yorum.|
 | FORMAT | Biçim.|
-| INSERT_SHEET | Çalışma sayfası ekle.|
-| MOVE_CELLS |Hücreleri taşı.|
-| UNDO | Geri alma.|
+| INSERT_SHEET | Çalışma sayfasını ekle.|
+| MOVE_CELLS | Hücreleri taşı.|
+| UNDO | Geri al.|
 | QUERY_TABLE | Sorgu tablosu.|
 | INSERT_DELETE | Ekleme veya silme.|
 | RENAME_SHEET | Çalışma sayfasını yeniden adlandırın.|
-| UNKNOWN | Bilinmeyen.|
+| UNKNOWN |Bilinmiyor.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](..)
+* modül [`aspose.cells.revisions`](..)

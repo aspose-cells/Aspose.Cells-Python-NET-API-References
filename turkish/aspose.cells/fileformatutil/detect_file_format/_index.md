@@ -7,17 +7,19 @@ weight: 20
 url: /tr/aspose.cells/fileformatutil/detect_file_format/
 is_root: false
 ---
-##  detect_file_format(stream) {#io.RawIOBase}
-Bir akışta saklanan bir excel biçimi hakkındaki bilgileri algılar ve döndürür.
+##  detect_file_format(, akış){#io.RawIOBase}
+Bir akışta saklanan bir Excel dosyası formatı hakkında bilgiyi algılar ve döndürür.
 
 
 ###  İadeler
 
-Algılanan bilgileri içeren bir [FileFormatInfo](/cells/python-net/tr/aspose.cells/fileformatinfo) nesnesi.
+Tespit edilen bilgileri içeren [`FileFormatInfo`](/cells/python-net/tr/aspose.cells/fileformatinfo) nesnesi.
 
 
 ```python
-def detect_file_format(self, stream):
+
+@staticmethod
+def detect_file_format(stream):
     ...
 ```
 
@@ -27,17 +29,19 @@ def detect_file_format(self, stream):
 | stream | io.RawIOBase |  |
 
 
-##  detect_file_format(file_path) {#str}
-Bir dosyada saklanan bir excel biçimi hakkındaki bilgileri algılar ve döndürür.
+##  detect_file_format(, dosya_yolu){#str}
+Bir dosyada saklanan Excel formatı hakkında bilgiyi algılar ve döndürür.
 
 
 ###  İadeler
 
-Algılanan bilgileri içeren bir [FileFormatInfo](/cells/python-net/tr/aspose.cells/fileformatinfo) nesnesi.
+Tespit edilen bilgileri içeren [`FileFormatInfo`](/cells/python-net/tr/aspose.cells/fileformatinfo) nesnesi.
 
 
 ```python
-def detect_file_format(self, file_path):
+
+@staticmethod
+def detect_file_format(file_path):
     ...
 ```
 
@@ -47,17 +51,19 @@ def detect_file_format(self, file_path):
 | file_path | str | Dosya yolu.|
 
 
-##  detect_file_format(stream, password) {#io.RawIOBase-str}
-Bir akışta saklanan bir excel biçimi hakkındaki bilgileri algılar ve döndürür.
+##  detect_file_format(, akış, şifre){#io.RawIOBase-str}
+Bir akışta saklanan bir Excel dosyası formatı hakkında bilgiyi algılar ve döndürür.
 
 
 ###  İadeler
 
-Algılanan bilgileri içeren bir [FileFormatInfo](/cells/python-net/tr/aspose.cells/fileformatinfo) nesnesi.
+Tespit edilen bilgileri içeren [`FileFormatInfo`](/cells/python-net/tr/aspose.cells/fileformatinfo) nesnesi.
 
 
 ```python
-def detect_file_format(self, stream, password):
+
+@staticmethod
+def detect_file_format(stream, password):
     ...
 ```
 
@@ -65,20 +71,22 @@ def detect_file_format(self, stream, password):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | stream | io.RawIOBase |  |
-| password | str | Şifrelenmiş ooxml dosyaları için parola.|
+| password | str | Şifrelenmiş ooxml dosyalarının şifresi.|
 
 
-##  detect_file_format(file_path, password) {#str-str}
-Bir dosyada saklanan bir excel biçimi hakkındaki bilgileri algılar ve döndürür.
+##  detect_file_format(, dosya_yolu, parola){#str-str}
+Bir dosyada saklanan Excel formatı hakkında bilgiyi algılar ve döndürür.
 
 
 ###  İadeler
 
-Algılanan bilgileri içeren bir [FileFormatInfo](/cells/python-net/tr/aspose.cells/fileformatinfo) nesnesi.
+Tespit edilen bilgileri içeren [`FileFormatInfo`](/cells/python-net/tr/aspose.cells/fileformatinfo) nesnesi.
 
 
 ```python
-def detect_file_format(self, file_path, password):
+
+@staticmethod
+def detect_file_format(file_path, password):
     ...
 ```
 
@@ -86,11 +94,11 @@ def detect_file_format(self, file_path, password):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | file_path | str | Dosya yolu.|
-| password | str | Şifrelenmiş ooxml dosyaları için parola.|
+| password | str | Şifrelenmiş ooxml dosyalarının şifresi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FileFormatInfo](/cells/python-net/tr/aspose.cells/fileformatinfo)
-* sınıf [FileFormatUtil](/cells/python-net/tr/aspose.cells/fileformatutil)
+* modül [`aspose.cells`](../../)
+* sınıf [`FileFormatInfo`](/cells/python-net/tr/aspose.cells/fileformatinfo)
+* sınıf [`FileFormatUtil`](/cells/python-net/tr/aspose.cells/fileformatutil)

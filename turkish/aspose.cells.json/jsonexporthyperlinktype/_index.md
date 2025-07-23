@@ -8,20 +8,20 @@ url: /tr/aspose.cells.json/jsonexporthyperlinktype/
 is_root: false
 ---
 ##  JsonExportHyperlinkType numaralandırma
-Köprüleri json'a dışa aktarma türünü temsil eder.
+Bağlantıların json'a aktarılması türünü temsil eder.
 
 
 
-JsonExportHyperlinkType türü aşağıdaki üyeleri gösterir:
+JsonExportHyperlinkType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | DISPLAY_STRING | Görüntü dizesini dışa aktar|
 | ADDRESS | URL'yi dışa aktar|
-| HTML_STRING | HTML dizesi olarak dışa aktarın.|
+| HTML_STRING | HTML dizisi olarak dışa aktar.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.json](..)
+* modül [`aspose.cells.json`](..)

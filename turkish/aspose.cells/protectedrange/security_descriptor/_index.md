@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  security_descriptor mülk
 
-Güvenlik tanımlayıcısı, aralığa erişmek için bir parola sağlamadan bu aralığı düzenleyebilecek kullanıcı hesaplarını tanımlar.
+Güvenlik tanımlayıcısı, aralığa erişmek için parola sağlamadan bu aralığı düzenleyebilecek kullanıcı hesaplarını tanımlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def security_descriptor(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ProtectedRange](/cells/python-net/tr/aspose.cells/protectedrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`ProtectedRange`](/cells/python-net/tr/aspose.cells/protectedrange)

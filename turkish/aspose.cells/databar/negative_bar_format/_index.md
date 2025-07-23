@@ -18,6 +18,6 @@ def negative_bar_format(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataBar](/cells/python-net/tr/aspose.cells/databar)
-* sınıf [NegativeBarFormat](/cells/python-net/tr/aspose.cells/negativebarformat)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataBar`](/cells/python-net/tr/aspose.cells/databar)
+* sınıf [`NegativeBarFormat`](/cells/python-net/tr/aspose.cells/negativebarformat)

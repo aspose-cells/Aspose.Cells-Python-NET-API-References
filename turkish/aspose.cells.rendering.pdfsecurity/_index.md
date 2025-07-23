@@ -7,11 +7,11 @@ weight: 10
 url: /tr/aspose.cells.rendering.pdfsecurity/
 is_root: false
 ---
-**Aspose.Cells.Rendering.PdfSecurity** ad alanı, pdf oluşturmanın sınıf güvenlik seçeneklerini sağlar.
+**Aspose.Cells.Rendering.PdfSecurity** namespace, pdf oluşturmada sınıflara güvenlik seçenekleri sağlar.
 
 ###  Sınıflar
 | Sınıf| Tanım|
 | :- | :- |
-| [`PdfSecurityOptions`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions) | PDF belgesine ilişkin şifreleme ve erişim izinlerine ilişkin seçenekler.<br/> PDF/A güvenlik ayarına izin vermiyor.|
+| [`PdfSecurityOptions`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions) | PDF numaralı belge için şifreleme ve erişim izinleri seçenekleri.<br/> PDF/A güvenlik ayarına izin vermiyor.|
 
 

@@ -3,34 +3,34 @@ title: MsoFillFormatHelper sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 320
 url: /tr/aspose.cells.drawing/msofillformathelper/
 is_root: false
 ---
 ##  MsoFillFormatHelper sınıfı
-Bir şekil için dolgu biçimlendirmesini temsil eder.
+Bir şeklin dolgu biçimlendirmesini temsil eder.
 
 
 
-MsoFillFormatHelper türü aşağıdaki üyeleri gösterir:
+MsoFillFormatHelper türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [fore_color](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/fore_color) | Dolgu ön rengini alır ve ayarlar.|
-| [fore_color_transparency](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/fore_color_transparency) | Belirtilen dolgunun ön renginin derecesini 0,0 (opak) ila 1,0 (açık) arasında bir değer olarak döndürür veya ayarlar.|
-| [back_color](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/back_color) | Dosya arka rengini alır ve ayarlar.|
+| [fore_color_transparency](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/fore_color_transparency) | Belirtilen dolgunun ön renk derecesini 0,0 (opak) ile 1,0 (temiz) arasında bir değer olarak döndürür veya ayarlar.|
+| [back_color](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/back_color) | Dosyanın rengini alır ve ayarlar.|
 | [image_data](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/image_data) | Doku ve Resim dolgu verilerini alır ve ayarlar.|
-| [texture](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/texture) | Doku dolgu türünü alır.|
-| [is_visible](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/is_visible) | Dolgu olup olmadığını gösterir.|
+| [texture](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/texture) | Dokunun dolgu tipini alır.|
+| [is_visible](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/is_visible) | Doldurma olup olmadığını gösterir.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [set_one_color_gradient(color, degree, style, variant)](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/set_one_color_gradient/#aspose.pydrawing.Color-float-GradientStyleType-int) | Belirtilen dolguyu tek renkli bir degradeye ayarlar.|
+| [`set_one_color_gradient(self, color, degree, style, variant)`](/cells/python-net/tr/aspose.cells.drawing/msofillformathelper/set_one_color_gradient/#aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | Belirtilen dolguyu tek renkli bir degradeye ayarlar.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

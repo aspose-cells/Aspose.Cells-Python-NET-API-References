@@ -3,13 +3,13 @@ title: error_check_options mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 490
+weight: 510
 url: /tr/aspose.cells/worksheet/error_check_options/
 is_root: false
 ---
 ##  error_check_options mülk
 
-Belirli aralıklara uygulanan hata kontrolü ayarını alır.
+Belirli aralıklarda uygulanan hata kontrol ayarını alır.
 ###  Tanım:
 ```python
 @property

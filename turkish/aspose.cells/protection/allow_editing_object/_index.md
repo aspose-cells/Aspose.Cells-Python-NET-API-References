@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_object mülk
 
-Kullanıcının korumalı bir çalışma sayfasındaki çizim nesnelerini değiştirmesine izin verilip verilmediğini temsil eder.
+Kullanıcının korumalı bir çalışma sayfasındaki çizim nesnelerini değiştirmesine izin verilip verilmediğini gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_object(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

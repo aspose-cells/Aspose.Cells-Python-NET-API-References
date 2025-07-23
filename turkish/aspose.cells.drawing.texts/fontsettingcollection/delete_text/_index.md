@@ -7,12 +7,13 @@ weight: 50
 url: /tr/aspose.cells.drawing.texts/fontsettingcollection/delete_text/
 is_root: false
 ---
-##  delete_text(index, count) {#int-int}
+##  delete_text(self, index, count) {#int-int}
 Bazı karakterleri silin.
 
 
 
 ```python
+
 def delete_text(self, index, count):
     ...
 ```
@@ -20,11 +21,11 @@ def delete_text(self, index, count):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | Başlangıç dizini.|
+| index | int | Başlangıç indeksi.|
 | count | int | Karakter sayısı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [FontSettingCollection](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`FontSettingCollection`](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_nillable mülk
 
-Değerin boş olup olamayacağını gösterir.
+Değerin boş olup olamayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_nillable(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [ContentTypeProperty](/cells/python-net/tr/aspose.cells.properties/contenttypeproperty)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`ContentTypeProperty`](/cells/python-net/tr/aspose.cells.properties/contenttypeproperty)

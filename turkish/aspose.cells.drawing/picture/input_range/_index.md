@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  input_range mülk
 
-Belirtilen birleşik giriş kutusunu doldurmak için kullanılan çalışma sayfası aralığını alır veya ayarlar.
+Belirtilen birleşik kutuyu doldurmak için kullanılan çalışma sayfası aralığını alır veya ayarlar.
 
 ###  Örnek
 

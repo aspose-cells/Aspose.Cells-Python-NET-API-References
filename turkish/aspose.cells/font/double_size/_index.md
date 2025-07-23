@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  double_size mülk
 
-Yazı tipinin çift boyutunu alır ve ayarlar.
+Yazı tipinin boyutunu iki katına çıkarır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def double_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)

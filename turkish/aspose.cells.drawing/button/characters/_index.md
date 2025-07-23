@@ -7,16 +7,17 @@ weight: 50
 url: /tr/aspose.cells.drawing/button/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-Metin içinde characters aralığını temsil eden bir Characters nesnesi döndürür.
+##  characters(self, start_index, length) {#int-int}
+Metin içerisinde characters aralığını temsil eden bir Characters nesnesi döndürür.
 
 
 ###  İadeler
 
-Karakterler nesnesi.
+Karakter nesnesi.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -24,11 +25,11 @@ def characters(self, start_index, length):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| start_index | int | Karakterin başlangıç dizini.|
+| start_index | int | Karakterin başlangıcının indeksi.|
 | length | int | Karakter sayısı.|
 ###  Notlar
 
-Bu yöntem yalnızca başlıklı şekil üzerinde çalışır.
+Bu yöntem sadece başlıklı şekillerde işe yarar.
 ###  Örnek
 
 
@@ -41,5 +42,5 @@ fontSetting = shape.characters(0, 4)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Button](/cells/python-net/tr/aspose.cells.drawing/button)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Button`](/cells/python-net/tr/aspose.cells.drawing/button)

@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.vba/vbaprojectreference/copy/
 is_root: false
 ---
-##  copy(source) {#VbaProjectReference}
+##  copy(self, source) {#aspose.cells.vba.VbaProjectReference}
 
 
 
 
 ```python
+
 def copy(self, source):
     ...
 ```
@@ -20,10 +21,10 @@ def copy(self, source):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source | [VbaProjectReference](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference) |  |
+| source | [`VbaProjectReference`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference) |  |
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](../../)
-* sınıf [VbaProjectReference](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference)
+* modül [`aspose.cells.vba`](../../)
+* sınıf [`VbaProjectReference`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference)

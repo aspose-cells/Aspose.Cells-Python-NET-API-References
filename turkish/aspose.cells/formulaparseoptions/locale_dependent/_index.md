@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locale_dependent mülk
 
-Formülün yerel ayarlı olup olmadığı. Varsayılan yanlıştır.
+Formülün yerel olarak biçimlendirilip biçimlendirilmediği. Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property

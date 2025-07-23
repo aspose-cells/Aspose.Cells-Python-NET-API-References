@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  back_color mülk
 
-Sınır çizgisi arka rengini alır ve ayarlar.
+Sınır çizgisinin rengini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def back_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoLineFormat](/cells/python-net/tr/aspose.cells.drawing/msolineformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoLineFormat`](/cells/python-net/tr/aspose.cells.drawing/msolineformat)

@@ -3,20 +3,20 @@ title: begin_arrowhead_length mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 320
 url: /tr/aspose.cells.drawing/lineshape/begin_arrowhead_length/
 is_root: false
 ---
 ##  begin_arrowhead_length mülk
 
-Çizginin başlangıç ok ucu uzunluğunu alır ve ayarlar.
+Çizginin başlangıç ok ucunun uzunluğunu alır ve ayarlar.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen Shape.Line.BeginArrowheadLength özelliğini kullanın.
- Bu mülk, Ağustos 2016'dan bu yana 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen Shape.Line.BeginArrowheadLength özelliğini kullanın.
+ Bu özellik Ağustos 2016'dan itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

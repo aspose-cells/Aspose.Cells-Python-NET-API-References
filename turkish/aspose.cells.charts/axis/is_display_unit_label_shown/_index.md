@@ -3,17 +3,17 @@ title: is_display_unit_label_shown mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 230
+weight: 240
 url: /tr/aspose.cells.charts/axis/is_display_unit_label_shown/
 is_root: false
 ---
 ##  is_display_unit_label_shown mülk
 
-Görüntüleme birimi etiketinin belirtilen eksende gösterilip gösterilmediğini temsil eder.
+Görüntü birimi etiketinin belirtilen eksen üzerinde gösterilip gösterilmediğini gösterir.
 
 ###  Notlar
 
-Varsayılan değer Doğru'dur.
+Varsayılan değer True'dur.
 ###  Tanım:
 ```python
 @property

@@ -21,6 +21,6 @@ def web_extension(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtension](/cells/python-net/tr/aspose.cells.webextensions/webextension)
-* sınıf [WebExtensionTaskPane](/cells/python-net/tr/aspose.cells.webextensions/webextensiontaskpane)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtension`](/cells/python-net/tr/aspose.cells.webextensions/webextension)
+* sınıf [`WebExtensionTaskPane`](/cells/python-net/tr/aspose.cells.webextensions/webextensiontaskpane)

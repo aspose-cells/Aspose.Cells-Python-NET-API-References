@@ -7,8 +7,8 @@ weight: 50
 url: /tr/aspose.cells.charts/chartglobalizationsettings/get_legend_decrease_name/
 is_root: false
 ---
-##  get_legend_decrease_name() {#}
-Legend için Azaltma adını alır.
+##  get_legend_decrease_name(self) {#}
+Efsane için Azaltma adını alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Legend için Azaltma adını alır.
 
 
 ```python
+
 def get_legend_decrease_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_legend_decrease_name(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartGlobalizationSettings](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartGlobalizationSettings`](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)

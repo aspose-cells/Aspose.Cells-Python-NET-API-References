@@ -3,7 +3,7 @@ title: direction_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 140
+weight: 180
 url: /tr/aspose.cells.charts/charttextframe/direction_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def direction_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartTextDirectionType](/cells/python-net/tr/aspose.cells.charts/charttextdirectiontype)
-* sınıf [ChartTextFrame](/cells/python-net/tr/aspose.cells.charts/charttextframe)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartTextDirectionType`](/cells/python-net/tr/aspose.cells.charts/charttextdirectiontype)
+* sınıf [`ChartTextFrame`](/cells/python-net/tr/aspose.cells.charts/charttextframe)

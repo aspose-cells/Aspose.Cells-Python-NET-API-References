@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells/cellwatchcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-Hücrenin adı ile [CellWatch](/cells/python-net/tr/aspose.cells/cellwatch) ekler.
+##  add(self, cell_name) {#str}
+Hücrenin adı olan [`CellWatch`](/cells/python-net/tr/aspose.cells/cellwatch)'i ekler.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Hücrenin adı ile [CellWatch](/cells/python-net/tr/aspose.cells/cellwatch) ekle
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -27,8 +28,8 @@ def add(self, cell_name):
 | cell_name | str | Hücrenin adı.|
 
 
-##  add(row, column) {#int-int}
-Satır ve sütun ile [CellWatch](/cells/python-net/tr/aspose.cells/cellwatch) ekler.
+##  add(self, row, column) {#int-int}
+[`CellWatch`](/cells/python-net/tr/aspose.cells/cellwatch) satır ve sütununu ekler.
 
 
 ###  İadeler
@@ -37,6 +38,7 @@ Bu öğenin koleksiyondaki konumunu döndürür.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -50,6 +52,6 @@ def add(self, row, column):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellWatch](/cells/python-net/tr/aspose.cells/cellwatch)
-* sınıf [CellWatchCollection](/cells/python-net/tr/aspose.cells/cellwatchcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellWatch`](/cells/python-net/tr/aspose.cells/cellwatch)
+* sınıf [`CellWatchCollection`](/cells/python-net/tr/aspose.cells/cellwatchcollection)

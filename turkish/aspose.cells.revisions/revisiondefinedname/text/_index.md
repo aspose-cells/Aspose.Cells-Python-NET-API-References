@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text mülk
 
-Tanımlanan adın text'ini alır.
+Tanımlanan ismin text'ini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def text(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionDefinedName](/cells/python-net/tr/aspose.cells.revisions/revisiondefinedname)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionDefinedName`](/cells/python-net/tr/aspose.cells.revisions/revisiondefinedname)

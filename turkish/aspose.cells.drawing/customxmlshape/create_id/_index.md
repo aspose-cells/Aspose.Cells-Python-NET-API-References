@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  create_id mülk
 
-Bu şekil için oluşturma kimliğini alır ve ayarlar.
+Bu şeklin oluşturma kimliğini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

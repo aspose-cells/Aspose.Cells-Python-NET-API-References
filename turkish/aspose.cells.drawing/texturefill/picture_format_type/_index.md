@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  picture_format_type mülk
 
-Resim biçimi türünü alır ve ayarlar.
+Resim format türünü alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def picture_format_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [FillPictureType](/cells/python-net/tr/aspose.cells.drawing/fillpicturetype)
-* sınıf [TextureFill](/cells/python-net/tr/aspose.cells.drawing/texturefill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`FillPictureType`](/cells/python-net/tr/aspose.cells.drawing/fillpicturetype)
+* sınıf [`TextureFill`](/cells/python-net/tr/aspose.cells.drawing/texturefill)

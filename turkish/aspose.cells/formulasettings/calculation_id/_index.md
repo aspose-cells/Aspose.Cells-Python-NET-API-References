@@ -13,13 +13,13 @@ is_root: false
 
 ###  Notlar
 
-Bu özellik, yalnızca ayarları sonuçtaki elektronik tablo dosyasına kaydetmek içindir
-böylece diğer uygulamalar (ms excel gibi) ortaya çıkan dosyayı yüklerken ve değiştirirken buna göre hareket edebilir.
-ms excel söz konusu olduğunda, bu özelliğin değeri ilişkili yeniden hesaplama motoru tanımlayıcısından küçükse
-sonuç dosyasını açan uygulama ile uygulama tüm formüllerin sonuçlarını yeniden hesaplayacaktır.
-dosyayı yükledikten hemen sonra bu çalışma kitabında.
-Çoğu kullanıcının uygulamalarındaki performans değerlendirmesi için, çalışma kitabında otomatik olarak herhangi bir formül hesaplamayız,
-Bu özellik için hangi değer ayarlanmış olursa olsun.
+Bu özellik yalnızca ayarların sonuç elektronik tablosu dosyasına kaydedilmesi içindir
+Böylece diğer uygulamalar (örneğin ms excel) ortaya çıkan dosyayı yüklerken ve düzenlerken buna göre hareket edebilir.
+MS Excel'de bu özelliğin değeri, ilişkili yeniden hesaplama motoru tanımlayıcısından daha az ise
+Sonuç dosyasını açan uygulama ile uygulama tüm formüllerin sonuçlarını yeniden hesaplayacaktır
+dosyayı yükledikten hemen sonra bu çalışma kitabına.
+Çoğu kullanıcının uygulamaları için performans değerlendirmesi amacıyla, çalışma kitabındaki hiçbir formülü otomatik olarak hesaplamıyoruz.
+Bu mülk için hangi değer belirlenmiş olursa olsun.
 ###  Tanım:
 ```python
 @property
@@ -31,5 +31,5 @@ def calculation_id(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormulaSettings](/cells/python-net/tr/aspose.cells/formulasettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormulaSettings`](/cells/python-net/tr/aspose.cells/formulasettings)

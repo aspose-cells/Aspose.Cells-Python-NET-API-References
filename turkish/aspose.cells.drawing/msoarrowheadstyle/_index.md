@@ -3,28 +3,28 @@ title: MsoArrowheadStyle numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 980
+weight: 970
 url: /tr/aspose.cells.drawing/msoarrowheadstyle/
 is_root: false
 ---
 ##  MsoArrowheadStyle numaralandırma
-Şekil sınır çizgisinin satır sonu türünü numaralandırır.
+Şekil kenarlık çizgisinin çizgi sonu türünü numaralandırır.
 
 
 
-MsoArrowheadStyle türü aşağıdaki üyeleri gösterir:
+MsoArrowheadStyle türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NONE | Satır sonu türü yok.|
-| ARROW | Ok çizgisi uç tipi.|
-| ARROW_STEALTH | Ok Gizli hat sonu tipi.|
+| NONE | Satır sonu tipi yok.|
+| ARROW | Ok ucu tipi.|
+| ARROW_STEALTH | Arrow Stealth misina ucu tipi.|
 | ARROW_DIAMOND | Arrow Diamond Line uç tipi.|
 | ARROW_OVAL | Ok Oval çizgi uç tipi.|
-| ARROW_OPEN | Ok Açık satır sonu türü.|
+| ARROW_OPEN |Ok Açık hat sonu tipi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

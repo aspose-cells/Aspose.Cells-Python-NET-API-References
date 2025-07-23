@@ -3,13 +3,13 @@ title: is_automatic_major_unit mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 190
+weight: 200
 url: /tr/aspose.cells.charts/axis/is_automatic_major_unit/
 is_root: false
 ---
 ##  is_automatic_major_unit mülk
 
-Eksenin ana biriminin otomatik olarak atanıp atanmadığını gösterir.
+Eksenin ana biriminin otomatik olarak atanıp atanmadığını belirtir.
 ###  Tanım:
 ```python
 @property

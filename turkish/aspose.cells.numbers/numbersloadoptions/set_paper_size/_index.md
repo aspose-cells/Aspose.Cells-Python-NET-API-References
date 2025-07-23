@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.numbers/numbersloadoptions/set_paper_size/
 is_root: false
 ---
-##  set_paper_size(type) {#PaperSizeType}
-Varsayılan yazıcı ayarından varsayılan yazdırma kağıdı boyutunu ayarlar.
+##  set_paper_size(self, type) {#aspose.cells.PaperSizeType}
+Varsayılan yazıcı ayarından varsayılan baskı kağıdı boyutunu ayarlar.
 
 
 
 ```python
+
 def set_paper_size(self, type):
     ...
 ```
@@ -20,7 +21,7 @@ def set_paper_size(self, type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | [PaperSizeType](/cells/python-net/tr/aspose.cells/papersizetype) | Varsayılan kağıt boyutu.|
+| type | [`PaperSizeType`](/cells/python-net/tr/aspose.cells/papersizetype) | Varsayılan kağıt boyutu.|
 ###  Notlar
 
 Kağıt boyutuyla ilgili bir ayar yoksa, MS Excel varsayılan yazıcı ayarını kullanacaktır.
@@ -28,5 +29,5 @@ Kağıt boyutuyla ilgili bir ayar yoksa, MS Excel varsayılan yazıcı ayarını
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells.numbers](../../)
-* sınıf [NumbersLoadOptions](/cells/python-net/tr/aspose.cells.numbers/numbersloadoptions)
+* modül [`aspose.cells.numbers`](../../)
+* sınıf [`NumbersLoadOptions`](/cells/python-net/tr/aspose.cells.numbers/numbersloadoptions)

@@ -3,7 +3,7 @@ title: validations mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 890
+weight: 910
 url: /tr/aspose.cells/worksheet/validations/
 is_root: false
 ---

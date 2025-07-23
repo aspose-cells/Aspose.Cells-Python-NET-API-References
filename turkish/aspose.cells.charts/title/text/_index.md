@@ -3,13 +3,13 @@ title: text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 380
 url: /tr/aspose.cells.charts/title/text/
 is_root: false
 ---
 ##  text mülk
 
-Ekran birimi etiketinin text'ini alır veya ayarlar.
+Ekran birimi etiketinin text değerini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Title](/cells/python-net/tr/aspose.cells.charts/title)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Title`](/cells/python-net/tr/aspose.cells.charts/title)

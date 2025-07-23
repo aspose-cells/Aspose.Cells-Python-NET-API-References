@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_sorting mülk
 
-Korumalı bir çalışma sayfasında sıralama seçeneğine izin verilip verilmediğini temsil eder.
+Korunan bir çalışma sayfasında sıralama seçeneğinin izin verilip verilmediğini gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_sorting(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

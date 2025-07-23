@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  end_arrowhead_length mülk
 
-Çizginin uç ok başı uzunluğunu alır ve ayarlar.
+Çizginin son ok ucunun uzunluğunu alır ve ayarlar.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen Shape.Line.EndArrowheadLength özelliğini kullanın.
- Bu mülk, Ağustos 2016'dan bu yana 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen Shape.Line.EndArrowheadLength özelliğini kullanın.
+ Bu özellik Ağustos 2016'dan itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

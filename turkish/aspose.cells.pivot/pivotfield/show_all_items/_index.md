@@ -3,14 +3,14 @@ title: show_all_items mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 560
+weight: 660
 url: /tr/aspose.cells.pivot/pivotfield/show_all_items/
 is_root: false
 ---
 ##  show_all_items mülk
 
- PivotTable raporunda tüm öğelerin görüntülenip görüntülenmeyeceğini belirtir.
-özet veriler içermeseler bile.
+ PivotTable raporunda tüm öğelerin görüntülenip görüntülenmediğini belirtir.
+Özet veri içermeseler bile.
 veri içermeyen öğeleri göster
 Varsayılan değer false'tur.
 ###  Tanım:

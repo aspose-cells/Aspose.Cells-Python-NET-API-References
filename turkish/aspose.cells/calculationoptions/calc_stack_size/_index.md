@@ -14,12 +14,12 @@ Hücreleri yinelemeli olarak hesaplamak için yığın boyutu. Varsayılan değe
 ###  Notlar
 
 Bağımlılık ağacında çok sayıda hücrenin yinelemeli olarak hesaplanması gerektiğinde,
-Hesaplama sürecinde StackOverflowException meydana gelebilir.
+Hesaplama sürecinde StackOverflowException oluşabilir.
 Eğer öyleyse, kullanıcı bu özellik için daha küçük bir değer belirtmelidir.
-Böyle bir durumda kullanıcının bu özelliğe uygun değeri gerçek formüllere ve verilere göre belirlemesi gerekir.
-Ancak çok küçük bir değer, formül hesaplamasında performansın düşmesine ve 2'den küçük bir değere neden olabilir.
-başka bir formüle bağlı formülün hesaplanmasını imkansız hale getirecektir. Yani belirtilen değer 2'den küçükse,
-2'ye sıfırlanacaktır.
+Böyle bir durumda kullanıcının gerçek formüllere ve verilere göre bu özellik için uygun değeri belirlemesi gerekir.
+Ancak çok küçük bir değer, formül hesaplamasında performans düşüşüne ve 2'den küçük bir değere neden olabilir.
+Başka bir formüle bağlı formülün hesaplanmasını imkansız hale getirecektir. Dolayısıyla, belirtilen değer 2'den küçükse,
+2'ye sıfırlanacak.
 ###  Tanım:
 ```python
 @property

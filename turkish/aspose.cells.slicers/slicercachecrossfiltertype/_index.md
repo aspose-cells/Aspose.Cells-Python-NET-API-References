@@ -8,20 +8,20 @@ url: /tr/aspose.cells.slicers/slicercachecrossfiltertype/
 is_root: false
 ---
 ##  SlicerCacheCrossFilterType numaralandırma
-SlicerCacheCrossFilterType tipini temsil eder
+SlicerCacheCrossFilterType türünü temsil eder
 
 
 
-SlicerCacheCrossFilterType türü aşağıdaki üyeleri gösterir:
+SlicerCacheCrossFilterType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NONE | Dilimleyici öğeleri için dilimleyici stilinin tablo stili öğesi<br/>hiçbir veri içermeyen dilimleyici öğelerine ve dilimleyici öğelerine hiçbir veri uygulanmaz ve dilimleyici öğeleri<br/> hiçbir veri olmadan, dilimleyici görünümündeki dilimleyici öğeleri listesinde ayrı olarak sıralanmaz|
-| SHOW_ITEMS_WITH_DATA_AT_TOP |Dilimleyici öğeleri için dilimleyici stilinin tablo stili öğesi<br/>veri içermeyen dilimleyici öğelere hiçbir veri uygulanmaz ve dilimleyici öğeler<br/> dilimleyici görünümündeki dilimleyici öğeleri listesinin en altında sıralanır.|
-| SHOW_ITEMS_WITH_NO_DATA | Veri içermeyen dilimleyici öğeleri için dilimleyici stilinin tablo stili öğesi<br/> veri içermeyen dilimleyici öğelerine ve veri içermeyen dilimleyici öğelerine uygulanır<br/> dilimleyici görünümündeki dilimleyici öğeleri listesinde ayrı olarak sıralanmaz.|
+| NONE | Dilimleyici öğeleri için dilimleyici stilinin tablo stili öğesi<br/>veri içermeyen dilimleyici öğelerine ve veri içermeyen dilimleyici öğelerine uygulanmaz<br/>dilimleyici görünümündeki dilimleyici öğelerinin listesinde veri olmadan ayrı olarak sıralanmaz|
+| SHOW_ITEMS_WITH_DATA_AT_TOP | Dilimleyici öğeleri için dilimleyici stilinin tablo stili öğesi<br/>veri içermeyen dilimleyici öğelerine veri uygulanmaz ve dilimleyici öğeleri<br/> dilimleyici görünümündeki dilimleyici öğelerinin listesinde veri bulunmayanlar en altta sıralanır|
+| SHOW_ITEMS_WITH_NO_DATA | Veri içermeyen dilimleyici öğeleri için dilimleyici stilinin tablo stili öğesi<br/> veri içermeyen dilimleyici öğelerine ve veri içermeyen dilimleyici öğelerine uygulanır<br/> dilimleyici görünümündeki dilimleyici öğelerinin listesinde ayrı olarak sıralanmaz.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](..)
+* modül [`aspose.cells.slicers`](..)

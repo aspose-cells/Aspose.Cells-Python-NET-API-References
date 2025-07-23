@@ -3,53 +3,51 @@ title: ToggleButtonActiveXControl sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 130
+weight: 110
 url: /tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/
 is_root: false
 ---
 ##  ToggleButtonActiveXControl sınıfı
-Bir ToggleButton ActiveX denetimini temsil eder.
+ToggleButton ActiveX denetimini temsil eder.
 
 
 
-**Miras:** [ToggleButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**Miras:** [`ToggleButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
 
 
 
-ToggleButtonActiveXControl türü aşağıdaki üyeleri gösterir:
+ToggleButtonActiveXControl türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [workbook](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/workbook) | [ActiveXControlBase.workbook](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) nesnesini alır.|
+| [workbook](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/workbook) |  |
 | [type](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/type) | ActiveX denetiminin türünü alır.|
-| [width](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/width) |Denetimin genişliğini nokta birimi cinsinden alır ve ayarlar.|
-| [height](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/height) | Kontrolün yüksekliğini puan birimi cinsinden alır ve ayarlar.|
-| [mouse_icon](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_icon) | Denetim için fare işaretçisi olarak görüntülenecek özel bir simge alır ve ayarlar.|
-| [mouse_pointer](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_pointer) | Denetim için fare işaretçisi olarak görüntülenen simge türünü alır ve ayarlar.|
-| [fore_ole_color](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/fore_ole_color) | Ön planın ole rengini alır ve ayarlar.|
-| [back_ole_color](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/back_ole_color) | Arka planın ole rengini alır ve ayarlar.|
-| [is_visible](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_visible) | Bu kontrolün görünür olup olmadığını gösterir.|
-| [shadow](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/shadow) | Gölge gösterilip gösterilmeyeceğini belirtir.|
-| [linked_cell](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/linked_cell) | Bağlı hücreyi alır ve ayarlar.|
-| [list_fill_range](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/list_fill_range) | Liste doldurma aralığını alır ve ayarlar.|
-| [data](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/data) | Denetimin ikili verilerini alır ve ayarlar.|
-| [is_enabled](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_enabled) | Denetimin odağı alıp alamayacağını ve kullanıcı tarafından oluşturulan olaylara yanıt verip veremeyeceğini belirtir.|
-| [is_locked](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_locked) | Denetimdeki verilerin düzenleme için kilitli olup olmadığını gösterir.|
-| [is_transparent](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_transparent) | Kontrolün şeffaf olup olmadığını gösterir.|
-| [is_auto_size](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_auto_size) | Denetimin tüm içeriğini görüntülemek için otomatik olarak yeniden boyutlandırılıp boyutlandırılmayacağını belirtir.|
-| [ime_mode](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/ime_mode) |Odağı alırken denetim için Giriş Yöntemi Düzenleyicisi'nin varsayılan çalışma zamanı modunu alır ve ayarlar.|
-| [font](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/font) | Denetimin yazı tipini temsil eder.|
-| [text_align](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/text_align) | Denetim tarafından kullanılan metnin nasıl hizalanacağını temsil eder.|
-| [caption](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/caption) | Bir denetimde görünen açıklayıcı metni alır ve ayarlar.|
-| [picture_position](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/picture_position) | Kontrol resminin başlığına göre konumunu alır ve ayarlar.|
+| [width](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/width) |  |
+| [height](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/height) |  |
+| [mouse_icon](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_icon) |  |
+| [mouse_pointer](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_pointer) |  |
+| [fore_ole_color](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/fore_ole_color) |  |
+| [back_ole_color](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/back_ole_color) |  |
+| [is_visible](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_visible) |  |
+| [shadow](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/shadow) |  |
+| [linked_cell](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/linked_cell) |  |
+| [list_fill_range](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/list_fill_range) |  |
+| [data](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/data) |  |
+| [is_enabled](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_enabled) |  |
+| [is_locked](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_locked) |  |
+| [is_transparent](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_transparent) |  |
+| [is_auto_size](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_auto_size) |  |
+| [ime_mode](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/ime_mode) |  |
+| [font](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/font) |  |
+| [text_align](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/text_align) |  |
+| [caption](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/caption) | Bir kontrolde görünen açıklayıcı metni alır ve ayarlar.|
+| [picture_position](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/picture_position) |Kontrolün resminin başlığına göre konumunu alır ve ayarlar.|
 | [special_effect](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/special_effect) | Kontrolün özel efektini alır ve ayarlar.|
 | [picture](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/picture) | Resmin verilerini alır ve ayarlar.|
-| [accelerator](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/accelerator) | Denetim için hızlandırıcı anahtarı alır ve ayarlar.|
-| [value](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/value) |Kontrolün kontrol edilip edilmediğini gösterir.|
-| [is_triple_state](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_triple_state) | Belirtilen kontrolün Boş değerleri nasıl görüntüleyeceğini gösterir.|
+| [accelerator](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/accelerator) | Kontrol için hızlandırıcı tuşunu alır ve ayarlar.|
+| [value](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/value) | Kontrolün işaretli olup olmadığını gösterir.|
+| [is_triple_state](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_triple_state) | Belirtilen denetimin Null değerlerini nasıl görüntüleyeceğini belirtir.|
 
 
 
@@ -72,7 +70,5 @@ book.save("exmaple.xlsx")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
-* sınıf [ActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/activexcontrol)
-* sınıf [ActiveXControlBase](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* sınıf [ToggleButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](..)
+* sınıf [`ToggleButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

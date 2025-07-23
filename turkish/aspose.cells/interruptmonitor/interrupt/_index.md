@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/interruptmonitor/interrupt/
 is_root: false
 ---
-##  interrupt() {#}
-Mevcut operatörü kes.
+##  interrupt(self) {#}
+Geçerli operatörün sözünü kesin.
 
 
 
 ```python
+
 def interrupt(self):
     ...
 ```
@@ -22,5 +23,5 @@ def interrupt(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [InterruptMonitor](/cells/python-net/tr/aspose.cells/interruptmonitor)
+* modül [`aspose.cells`](../../)
+* sınıf [`InterruptMonitor`](/cells/python-net/tr/aspose.cells/interruptmonitor)

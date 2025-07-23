@@ -3,7 +3,7 @@ title: table_load_options mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 400
+weight: 370
 url: /tr/aspose.cells/htmlloadoptions/table_load_options/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: file_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 570
+weight: 600
 url: /tr/aspose.cells/workbook/file_name/
 is_root: false
 ---
@@ -13,8 +13,8 @@ Geçerli dosya adını alır ve ayarlar.
 
 ###  Notlar
 
-Dosya akışla açıldıysa ve bazı harici formül referansları varsa,
-lütfen dosya adını ayarlayın.
+Dosya akış tarafından açılırsa ve bazı harici formül referansları varsa,
+Lütfen dosya adını ayarlayın.
 ###  Tanım:
 ```python
 @property

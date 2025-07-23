@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_markers mülk
 
-Mini grafik grubundaki her çizgi mini grafiğindeki her bir noktanın vurgulanıp vurgulanmayacağını belirtir.
+Kıvılcım çizelgesi grubundaki her satır kıvılcım çizelgesindeki her noktanın vurgulanıp vurgulanmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_markers(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

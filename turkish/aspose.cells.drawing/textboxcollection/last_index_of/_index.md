@@ -3,20 +3,21 @@ title: last_index_of yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 70
 url: /tr/aspose.cells.drawing/textboxcollection/last_index_of/
 is_root: false
 ---
-##  last_index_of(item) {#TextBox}
-Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.
+##  last_index_of(self, item) {#aspose.cells.drawing.TextBox}
+Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfırdan başlayan dizinini döndürür.
 
 
 ###  İadeler
 
-Bulunursa, dizi listesinin tamamı içindeki son değer oluşumunun sıfır tabanlı dizini; aksi takdirde, -1.
+Eğer bulunursa, tüm dizi listesindeki değerin son oluşumunun sıfırdan başlayan indeksi; aksi takdirde -1.
 
 
 ```python
+
 def last_index_of(self, item):
     ...
 ```
@@ -24,19 +25,20 @@ def last_index_of(self, item):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item | [TextBox](/cells/python-net/tr/aspose.cells.drawing/textbox) | Dizi listesinde bulunacak nesne. Değer null olabilir.|
+| item | [`TextBox`](/cells/python-net/tr/aspose.cells.drawing/textbox) | Dizi listesinde bulunacak nesne. Değeri null olabilir.|
 
 
-##  last_index_of(item, index) {#TextBox-int}
-Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.
+##  last_index_of(self, item, index) {#aspose.cells.drawing.TextBox-int}
+Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının ilk elemanından belirtilen dizine kadar uzanan son oluşumun sıfır tabanlı dizinini döndürür.
 
 
 ###  İadeler
 
-Bulunursa, ilk öğeden startIndex'e uzanan dizi listesindeki öğeler aralığındaki değerin son oluşumunun sıfır tabanlı dizini; aksi takdirde, -1.
+Dizi listesindeki eleman aralığındaki değerin ilk elemandan startIndex'e kadar uzanan son oluşumunun sıfır tabanlı indeksi, bulunursa; aksi takdirde -1.
 
 
 ```python
+
 def last_index_of(self, item, index):
     ...
 ```
@@ -44,20 +46,21 @@ def last_index_of(self, item, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item | [TextBox](/cells/python-net/tr/aspose.cells.drawing/textbox) | Dizi listesinde bulunacak nesne. Değer null olabilir.|
-| index | int | Geriye doğru aramanın sıfır tabanlı başlangıç dizini.|
+| item | [`TextBox`](/cells/python-net/tr/aspose.cells.drawing/textbox) | Dizi listesinde bulunacak nesne. Değeri null olabilir.|
+| index | int | Geriye doğru aramanın sıfırdan başlayan başlangıç indeksi.|
 
 
-##  last_index_of(item, index, count) {#TextBox-int-int}
-Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.
+##  last_index_of(self, item, index, count) {#aspose.cells.drawing.TextBox-int-int}
+Belirtilen nesneyi arar ve dizi listesindeki belirtilen sayıda öğeyi içeren ve belirtilen dizinde sona eren öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.
 
 
 ###  İadeler
 
-System.Collections içindeki öğe aralığındaki son değer oluşumunun sıfır tabanlı dizini. Eleman sayısını içeren ve bulunursa startIndex'te biten dizi listesi; aksi takdirde, -1.
+System.Collections. Array listesindeki öğe aralığındaki değerin son oluşumunun sıfırdan başlayan indeksi. Bu indeks, öğe sayısını içerir ve bulunursa startIndex'te biter; aksi takdirde -1 olur.
 
 
 ```python
+
 def last_index_of(self, item, index, count):
     ...
 ```
@@ -65,12 +68,12 @@ def last_index_of(self, item, index, count):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item | [TextBox](/cells/python-net/tr/aspose.cells.drawing/textbox) | Dizi listesinde bulunacak nesne. Değer null olabilir.|
-| index | int | Geriye doğru aramanın sıfır tabanlı başlangıç dizini.|
-| count | int | Aranacak bölümdeki öğe sayısı.|
+| item | [`TextBox`](/cells/python-net/tr/aspose.cells.drawing/textbox) | Dizi listesinde bulunacak nesne. Değeri null olabilir.|
+| index | int | Geriye doğru aramanın sıfırdan başlayan başlangıç indeksi.|
+| count | int | Aranacak bölümdeki eleman sayısı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextBoxCollection](/cells/python-net/tr/aspose.cells.drawing/textboxcollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextBoxCollection`](/cells/python-net/tr/aspose.cells.drawing/textboxcollection)

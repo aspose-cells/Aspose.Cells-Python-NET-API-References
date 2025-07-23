@@ -3,13 +3,13 @@ title: left_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 700
+weight: 710
 url: /tr/aspose.cells.drawing/cellsdrawing/left_inch/
 is_root: false
 ---
 ##  left_inch mülk
 
-İnç birimi cinsinden şeklin sol sütunundan yatay uzaklığını temsil eder.
+Şeklin sol sütundan yatay uzaklığını inç cinsinden gösterir.
 
 ###  Örnek
 

@@ -3,16 +3,17 @@ title: merge yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 50
 url: /tr/aspose.cells/unionrange/merge/
 is_root: false
 ---
-##  merge() {#}
+##  merge(self) {#}
 Bir dizi hücreyi tek bir hücrede birleştirir.
 
 
 
 ```python
+
 def merge(self):
     ...
 ```
@@ -20,10 +21,10 @@ def merge(self):
 
 ###  Notlar
 
-Aralıktaki sol üst hücrenin adresi aracılığıyla birleştirilmiş hücreye başvurun.
+Birleştirilmiş hücreye, aralıktaki sol üst hücrenin adresi aracılığıyla başvurun.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [UnionRange](/cells/python-net/tr/aspose.cells/unionrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  intercept mülk
 
-Eğilim çizgisinin değer eksenini kestiği noktayı döndürür veya ayarlar.
+Trend çizgisinin değer eksenini kestiği noktayı döndürür veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def intercept(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

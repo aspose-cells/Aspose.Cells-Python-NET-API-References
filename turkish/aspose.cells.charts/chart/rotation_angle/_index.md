@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  rotation_angle mülk
 
-3 boyutlu harita görünümünün dönüşünü temsil eder (grafik alanının z ekseni etrafında derece cinsinden dönüşü).
+3 boyutlu grafik görünümünün dönüşünü (grafik alanının z ekseni etrafındaki dönüşünü, derece cinsinden) temsil eder.
 
 ###  Notlar
 
- Değerin 0 ile 44 arasında olması gereken 3 boyutlu çubuk grafikler hariç, bu özelliğin değeri 0 ile 360 arasında olmalıdır.
-Varsayılan değer 20'dir. Yalnızca 3 boyutlu grafikler için geçerlidir.
+ Bu özelliğin değeri 0 ile 360 arasında olmalıdır; ancak 3 boyutlu çubuk grafiklerde değer 0 ile 44 arasında olmalıdır.
+Varsayılan değer 20'dir. Sadece 3 boyutlu grafikler için geçerlidir.
 ###  Tanım:
 ```python
 @property

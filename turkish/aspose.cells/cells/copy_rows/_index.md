@@ -7,12 +7,13 @@ weight: 180
 url: /tr/aspose.cells/cells/copy_rows/
 is_root: false
 ---
-##  copy_rows(source_cells, source_row_index, destination_row_index, row_number) {#Cells-int-int-int}
-Bazı tam satırların verilerini ve biçimlerini kopyalar.
+##  copy_rows(self, source_cells, source_row_index, destination_row_index, row_number) {#aspose.cells.Cells-int-int-int}
+Bazı satırların verilerini ve formatlarını kopyalar.
 
 
 
 ```python
+
 def copy_rows(self, source_cells, source_row_index, destination_row_index, row_number):
     ...
 ```
@@ -20,18 +21,19 @@ def copy_rows(self, source_cells, source_row_index, destination_row_index, row_n
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_cells | [Cells](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi, kopyalanacak verileri ve biçimleri içerir.|
+| source_cells | [`Cells`](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi kopyalanacak verileri ve biçimleri içerir.|
 | source_row_index | int | Kaynak satır dizini.|
 | destination_row_index | int | Hedef satır dizini.|
 | row_number | int | Kopyalanan satır numarası.|
 
 
-##  copy_rows(source_cells0, source_row_index, destination_row_index, row_number, copy_options) {#Cells-int-int-int-CopyOptions}
-Bazı tam satırların verilerini ve biçimlerini kopyalar.
+##  copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options) {#aspose.cells.Cells-int-int-int-aspose.cells.CopyOptions}
+Bazı satırların verilerini ve formatlarını kopyalar.
 
 
 
 ```python
+
 def copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options):
     ...
 ```
@@ -39,19 +41,20 @@ def copy_rows(self, source_cells0, source_row_index, destination_row_index, row_
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_cells0 | [Cells](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi, kopyalanacak verileri ve biçimleri içerir.|
+| source_cells0 | [`Cells`](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi kopyalanacak verileri ve biçimleri içerir.|
 | source_row_index | int | Kaynak satır dizini.|
 | destination_row_index | int | Hedef satır dizini.|
 | row_number | int | Kopyalanan satır numarası.|
-| copy_options | [CopyOptions](/cells/python-net/tr/aspose.cells/copyoptions) | Kopyalama seçenekleri.|
+| copy_options | [`CopyOptions`](/cells/python-net/tr/aspose.cells/copyoptions) | Kopyalama seçenekleri.|
 
 
-##  copy_rows(source_cells0, source_row_index, destination_row_index, row_number, copy_options, paste_options) {#Cells-int-int-int-CopyOptions-PasteOptions}
-Bazı tam satırların verilerini ve biçimlerini kopyalar.
+##  copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options, paste_options) {#aspose.cells.Cells-int-int-int-aspose.cells.CopyOptions-aspose.cells.PasteOptions}
+Bazı satırların verilerini ve formatlarını kopyalar.
 
 
 
 ```python
+
 def copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options, paste_options):
     ...
 ```
@@ -59,15 +62,15 @@ def copy_rows(self, source_cells0, source_row_index, destination_row_index, row_
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_cells0 | [Cells](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi, kopyalanacak verileri ve biçimleri içerir.|
+| source_cells0 | [`Cells`](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi kopyalanacak verileri ve biçimleri içerir.|
 | source_row_index | int | Kaynak satır dizini.|
 | destination_row_index | int | Hedef satır dizini.|
 | row_number | int | Kopyalanan satır numarası.|
-| copy_options | [CopyOptions](/cells/python-net/tr/aspose.cells/copyoptions) | Kopyalama seçenekleri.|
-| paste_options | [PasteOptions](/cells/python-net/tr/aspose.cells/pasteoptions) | yapıştırma seçenekleri.|
+| copy_options | [`CopyOptions`](/cells/python-net/tr/aspose.cells/copyoptions) | Kopyalama seçenekleri.|
+| paste_options | [`PasteOptions`](/cells/python-net/tr/aspose.cells/pasteoptions) | Yapıştırma seçenekleri.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

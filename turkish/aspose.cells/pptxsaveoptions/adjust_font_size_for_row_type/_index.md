@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  adjust_font_size_for_row_type mülk
 
-Satır yüksekliği küçükse, yazı tipi boyutunun ayarlanması gereken satır türünü temsil eder.
+Satır yüksekliği küçükse hangi satır tipinin yazı tipi boyutunun ayarlanması gerektiğini gösterir.
 ###  Tanım:
 ```python
 @property

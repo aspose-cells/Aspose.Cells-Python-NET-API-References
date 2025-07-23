@@ -21,6 +21,6 @@ def paper_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
-* sınıf [PaperSizeType](/cells/python-net/tr/aspose.cells/papersizetype)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)
+* sınıf [`PaperSizeType`](/cells/python-net/tr/aspose.cells/papersizetype)

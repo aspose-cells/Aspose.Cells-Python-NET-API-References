@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_size mülk
 
-Nokta birimi cinsinden işaretçi boyutunu temsil eder. Çizgi grafiği, dağılım grafiği veya radar grafiği için geçerlidir.
+İşaretleyici boyutunu nokta biriminde gösterir. Çizgi grafiği, dağılım grafiği veya radar grafiği için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def marker_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Marker](/cells/python-net/tr/aspose.cells.charts/marker)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Marker`](/cells/python-net/tr/aspose.cells.charts/marker)

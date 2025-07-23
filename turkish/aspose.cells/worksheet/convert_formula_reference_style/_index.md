@@ -7,7 +7,7 @@ weight: 120
 url: /tr/aspose.cells/worksheet/convert_formula_reference_style/
 is_root: false
 ---
-##  convert_formula_reference_style {#str-bool-int-int}
+##  convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_cell_column) {#str-bool-int-int}
 Formül referans stilini dönüştürür.
 
 
@@ -17,6 +17,7 @@ Dönüştürülen formül.
 
 
 ```python
+
 def convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_cell_column):
     ...
 ```
@@ -25,9 +26,9 @@ def convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | formula | str | Dönüştürülecek formül.|
-| to_r1c1 | bool | Formülün dönüştürüleceği referans stili.<br/>Orijinal formül A1 referans stilindeyse,<br/>bu durumda formülün A1'den R1C1 referans stiline dönüştürülmesi için bu değerin doğru olması gerekir;<br/>Orijinal formül R1C1 referans stilindeyse,<br/> formülün R1C1'den A1 referans stiline dönüştürülmesi için bu değerin false olması gerekir;|
-| base_cell_row | int | Temel hücrenin satır dizini.|
-| base_cell_column | int | Temel hücrenin sütun dizini.|
+| to_r1c1 | bool | Formülün hangi referans stiline dönüştürüleceği.<br/>Orijinal formül A1 referans stilinde ise,<br/>o zaman bu değer true olmalı ki formül A1'den R1C1 referans stiline dönüştürülsün;<br/>Orijinal formül R1C1 referans stilinde ise,<br/> o zaman bu değer false olmalı ki formül R1C1'den A1 referans stiline dönüştürülsün;|
+| base_cell_row | int | Temel hücrenin satır indeksi.|
+| base_cell_column | int | Temel hücrenin sütun indeksi.|
 
 
 

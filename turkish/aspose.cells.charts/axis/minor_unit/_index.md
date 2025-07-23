@@ -3,13 +3,13 @@ title: minor_unit mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 370
 url: /tr/aspose.cells.charts/axis/minor_unit/
 is_root: false
 ---
 ##  minor_unit mülk
 
-Eksenin küçük birimlerini temsil eder.
+Eksen için küçük birimleri temsil eder.
 
 ###  Notlar
 

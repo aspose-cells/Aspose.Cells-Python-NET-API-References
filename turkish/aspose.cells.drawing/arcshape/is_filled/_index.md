@@ -3,7 +3,7 @@ title: is_filled mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 600
+weight: 610
 url: /tr/aspose.cells.drawing/arcshape/is_filled/
 is_root: false
 ---

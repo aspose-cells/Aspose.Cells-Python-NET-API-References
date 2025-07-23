@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.properties/documentproperty/to_bool/
 is_root: false
 ---
-##  to_bool() {#}
+##  to_bool(self) {#}
 Özellik değerini bool olarak döndürür.
 
 
 
 ```python
+
 def to_bool(self):
     ...
 ```
@@ -20,10 +21,10 @@ def to_bool(self):
 
 ###  Notlar
 
-Özellik türü PropertyType.Boolean değilse bir istisna atar.
+Özellik türü PropertyType.Boolean değilse bir istisna fırlatır.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells.properties](../../)
-* sınıf [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty)

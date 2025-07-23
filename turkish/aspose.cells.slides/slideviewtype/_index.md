@@ -8,7 +8,7 @@ url: /tr/aspose.cells.slides/slideviewtype/
 is_root: false
 ---
 ##  SlideViewType numaralandırma
-Slaytlara dışa aktarırken türü temsil eder.
+Slaytlara aktarırken türü temsil eder.
 
 
 
@@ -18,7 +18,7 @@ SlideViewType türü aşağıdaki üyeleri ortaya çıkarır:
 | Alan| Tanım|
 | :- | :- |
 | VIEW | MS Excel'de görünüm olarak dışa aktarma.|
-| PRINT | Yazdırma olarak dışa aktarma.|
+| PRINT | Yazdırma olarak dışa aktarılıyor.|
 
 
 

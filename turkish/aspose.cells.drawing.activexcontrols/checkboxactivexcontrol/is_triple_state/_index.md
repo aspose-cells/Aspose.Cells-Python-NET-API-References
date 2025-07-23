@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  is_triple_state mülk
 
-Belirtilen kontrolün Boş değerleri nasıl görüntüleyeceğini gösterir.
+Belirtilen denetimin Null değerlerini nasıl görüntüleyeceğini belirtir.
 
 ###  Notlar
 
 | Ayar| Tanım|
 | :- | :- |
-| Doğru| Kontrol, Evet, Hayır ve Boş değerler için durumlar arasında geçiş yapacaktır. Value özelliği Null olarak ayarlandığında denetim soluk (gri) görünür.|
-| YANLIŞ|(Varsayılan) Kontrol, Evet ve Hayır değerleri için durumlar arasında geçiş yapacaktır. Boş değerler, Değer yokmuş gibi görüntülenir.|
+| Doğru|Kontrol, Evet, Hayır ve Boş değerleri için durumlar arasında geçiş yapacaktır. Değer özelliği Boş olarak ayarlandığında kontrol soluk (gri) görünür.|
+| YANLIŞ| (Varsayılan) Kontrol, Evet ve Hayır değerleri için durumlar arasında geçiş yapacaktır. Boş değerler, Hayır değerleriymiş gibi görüntülenir.|
 ###  Tanım:
 ```python
 @property
@@ -28,5 +28,5 @@ def is_triple_state(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [CheckBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`CheckBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

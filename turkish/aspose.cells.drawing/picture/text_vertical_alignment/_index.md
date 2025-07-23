@@ -3,7 +3,7 @@ title: text_vertical_alignment mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1210
+weight: 1230
 url: /tr/aspose.cells.drawing/picture/text_vertical_alignment/
 is_root: false
 ---

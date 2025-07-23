@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  footer_margin_inch mülk
 
-Sayfanın altından altbilgiye olan mesafeyi inç cinsinden temsil eder.
+Sayfanın alt kısmından alt bilgiye kadar olan mesafeyi inç cinsinden gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def footer_margin_inch(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

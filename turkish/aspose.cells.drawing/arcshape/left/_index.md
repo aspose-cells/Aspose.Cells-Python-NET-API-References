@@ -3,13 +3,13 @@ title: left mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 730
+weight: 740
 url: /tr/aspose.cells.drawing/arcshape/left/
 is_root: false
 ---
 ##  left mülk
 
-Şeklin left sütunundan yatay uzaklığını piksel cinsinden temsil eder.
+Şeklin left sütunundan yatay olarak uzaklığını piksel cinsinden temsil eder.
 
 ###  Örnek
 

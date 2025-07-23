@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  mid_color mülk
 
-Aralıktaki orta değer için gradyan rengini alın veya ayarlayın.
+Aralığın orta değeri için degrade rengini alın veya ayarlayın.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def mid_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ColorScale](/cells/python-net/tr/aspose.cells/colorscale)
+* modül [`aspose.cells`](../../)
+* sınıf [`ColorScale`](/cells/python-net/tr/aspose.cells/colorscale)

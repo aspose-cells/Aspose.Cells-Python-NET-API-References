@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_crop_inch mülk
 
-İnç birimi cinsinden ifade edilen kırpma dikdörtgeninin üst kısmının konumunu temsil eder.
+Mahsul dikdörtgeninin tepesinin konumunu inç cinsinden ifade eder.
 ###  Tanım:
 ```python
 @property

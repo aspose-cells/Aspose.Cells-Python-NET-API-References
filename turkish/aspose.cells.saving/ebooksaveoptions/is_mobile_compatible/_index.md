@@ -3,13 +3,13 @@ title: is_mobile_compatible mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 530
+weight: 610
 url: /tr/aspose.cells.saving/ebooksaveoptions/is_mobile_compatible/
 is_root: false
 ---
 ##  is_mobile_compatible mülk
 
- HTML çıkışının mobil cihazlarla uyumlu olup olmadığını gösterir.
+ HTML çıktısının mobil cihazlarla uyumlu olup olmadığını gösterir.
 Varsayılan değer false'tur.
 ###  Tanım:
 ```python

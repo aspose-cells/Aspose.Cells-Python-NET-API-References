@@ -7,16 +7,17 @@ weight: 190
 url: /tr/aspose.cells/cells/create_range/
 is_root: false
 ---
-##  create_range(address) {#str}
-Aralığın adresinden bir [Range](/cells/python-net/tr/aspose.cells/range) nesnesi oluşturur.
+##  create_range(self, address) {#str}
+Aralığın bir adresinden [`Range`](/cells/python-net/tr/aspose.cells/range) nesnesini oluşturur.
 
 
 ###  İadeler
 
-[Range](/cells/python-net/tr/aspose.cells/range) nesnesi
+[`Range`](/cells/python-net/tr/aspose.cells/range) nesnesi
 
 
 ```python
+
 def create_range(self, address):
     ...
 ```
@@ -27,16 +28,17 @@ def create_range(self, address):
 | address | str | Aralığın adresi.|
 
 
-##  create_range(upper_left_cell, lower_right_cell) {#str-str}
-Bir dizi hücreden bir [Range](/cells/python-net/tr/aspose.cells/range) nesnesi oluşturur.
+##  create_range(self, upper_left_cell, lower_right_cell) {#str-str}
+Bir hücre aralığından [`Range`](/cells/python-net/tr/aspose.cells/range) nesnesini oluşturur.
 
 
 ###  İadeler
 
-[Range](/cells/python-net/tr/aspose.cells/range) nesnesi
+[`Range`](/cells/python-net/tr/aspose.cells/range) nesnesi
 
 
 ```python
+
 def create_range(self, upper_left_cell, lower_right_cell):
     ...
 ```
@@ -48,16 +50,17 @@ def create_range(self, upper_left_cell, lower_right_cell):
 | lower_right_cell | str | Sağ alt hücre adı.|
 
 
-##  create_range(first_index, number, is_vertical) {#int-int-bool}
-Hücre sıralarından veya hücre sütunlarından bir [Range](/cells/python-net/tr/aspose.cells/range) nesnesi oluşturur.
+##  create_range(self, first_index, number, is_vertical) {#int-int-bool}
+Hücre satırlarından veya hücre sütunlarından [`Range`](/cells/python-net/tr/aspose.cells/range) nesnesini oluşturur.
 
 
 ###  İadeler
 
-Bir [Range](/cells/python-net/tr/aspose.cells/range) nesnesi.
+[`Range`](/cells/python-net/tr/aspose.cells/range) nesnesi.
 
 
 ```python
+
 def create_range(self, first_index, number, is_vertical):
     ...
 ```
@@ -65,21 +68,22 @@ def create_range(self, first_index, number, is_vertical):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| first_index | int | İlk satır dizini veya ilk sütun dizini, sıfır tabanlı.|
-| number | int | Bir tabanlı toplam satır veya sütun sayısı.|
-| is_vertical | bool | True - Hücre sütunlarından oluşturulan aralık. Yanlış - Hücre sıralarından oluşturulan aralık.|
+| first_index | int | İlk satır indeksi veya ilk sütun indeksi, sıfır tabanlı.|
+| number | int | Toplam satır veya sütun sayısı, bir baz alınarak.|
+| is_vertical | bool | Doğru - Hücre sütunlarından oluşturulan aralık. Yanlış - Hücre satırlarından oluşturulan aralık.|
 
 
-##  create_range(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
-Bir dizi hücreden bir [Range](/cells/python-net/tr/aspose.cells/range) nesnesi oluşturur.
+##  create_range(self, first_row, first_column, total_rows, total_columns) {#int-int-int-int}
+Bir hücre aralığından [`Range`](/cells/python-net/tr/aspose.cells/range) nesnesini oluşturur.
 
 
 ###  İadeler
 
-[Range](/cells/python-net/tr/aspose.cells/range) nesnesi
+[`Range`](/cells/python-net/tr/aspose.cells/range) nesnesi
 
 
 ```python
+
 def create_range(self, first_row, first_column, total_rows, total_columns):
     ...
 ```
@@ -87,7 +91,7 @@ def create_range(self, first_row, first_column, total_rows, total_columns):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| first_row | int | Bu aralığın ilk satırı|
+| first_row | int |Bu aralığın ilk satırı|
 | first_column | int | Bu aralığın ilk sütunu|
 | total_rows | int | Satır sayısı|
 | total_columns | int | Sütun sayısı|
@@ -95,6 +99,6 @@ def create_range(self, first_row, first_column, total_rows, total_columns):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)

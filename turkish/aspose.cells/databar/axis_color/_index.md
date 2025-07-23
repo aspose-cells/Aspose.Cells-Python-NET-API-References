@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_color mülk
 
-Veri çubukları olarak koşullu biçimlendirmeye sahip hücreler için eksen rengini alır.
+Koşullu biçimlendirme uygulanmış veri çubukları için eksenin rengini alır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def axis_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataBar](/cells/python-net/tr/aspose.cells/databar)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataBar`](/cells/python-net/tr/aspose.cells/databar)

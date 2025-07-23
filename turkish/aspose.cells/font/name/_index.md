@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-[Font](/cells/python-net/tr/aspose.cells/font)'in name'ini alır veya ayarlar.
+[`Font`](/cells/python-net/tr/aspose.cells/font)'in name'ini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)

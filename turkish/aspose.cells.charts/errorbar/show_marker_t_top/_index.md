@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_marker_t_top mülk
 
-Biçimlendirme hata çubuklarının bir T-top ile olup olmadığını gösterir.
+Biçimlendirme hatası çubuklarının T-üst ile gösterildiğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_marker_t_top(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ErrorBar](/cells/python-net/tr/aspose.cells.charts/errorbar)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ErrorBar`](/cells/python-net/tr/aspose.cells.charts/errorbar)

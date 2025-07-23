@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  is_hf_align_margins mülk
 
-Üstbilgi ve altbilgi kenar boşluklarının sayfa kenar boşluklarıyla hizalanıp hizalanmadığını gösterir.
-Bu özellik doğruysa, sol üstbilgi ve altbilgi sol kenar boşluğuyla hizalanır,
-ve sağ üstbilgi ve altbilgi sağ kenar boşluğuyla hizalanır.
+Üstbilgi ve altbilgi kenar boşluklarının sayfa kenar boşluklarıyla hizalı olup olmadığını gösterir.
+Bu özellik doğruysa, sol üst bilgi ve alt bilgi sol kenar boşluğuyla hizalanacaktır.
+ve sağ üst bilgi ve alt bilgi sağ kenar boşluğuna hizalanacaktır.
 Bu seçenek varsayılan olarak etkindir.
 ###  Tanım:
 ```python
@@ -24,5 +24,5 @@ def is_hf_align_margins(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

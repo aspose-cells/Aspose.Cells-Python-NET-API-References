@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_visible/
 is_root: false
 ---
 ##  is_visible mülk
-
-Bu kontrolün görünür olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_visible(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [TextBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`TextBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

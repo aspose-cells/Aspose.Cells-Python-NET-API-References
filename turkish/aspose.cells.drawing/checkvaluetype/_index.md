@@ -3,25 +3,25 @@ title: CheckValueType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 790
+weight: 780
 url: /tr/aspose.cells.drawing/checkvaluetype/
 is_root: false
 ---
 ##  CheckValueType numaralandırma
-Onay kutusunun onay değeri türünü temsil eder.
+Onay kutusunun kontrol değeri türünü temsil eder.
 
 
 
-CheckValueType türü aşağıdaki üyeleri gösterir:
+CheckValueType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| UN_CHECKED | İşaretlenmemiş|
-| CHECKED | Kontrol|
+| UN_CHECKED | Kontrol edilmemiş|
+| CHECKED | Kontrol edildi|
 | MIXED | Karışık|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

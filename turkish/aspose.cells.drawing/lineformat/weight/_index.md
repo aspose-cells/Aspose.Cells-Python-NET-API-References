@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight mülk
 
-Çizginin weight'ini puan birimi olarak alır veya ayarlar.
+Satırın weight değerini nokta biriminde alır veya ayarlar.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def weight(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)

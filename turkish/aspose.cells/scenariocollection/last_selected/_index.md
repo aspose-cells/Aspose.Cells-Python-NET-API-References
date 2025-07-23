@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  last_selected mülk
 
-Çalıştırılmak/gösterilmek üzere kullanıcı tarafından en son hangi senaryonun seçildiğini gösterir.
+Kullanıcının en son hangi senaryoyu çalıştırmayı/göstermeyi seçtiğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def last_selected(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ScenarioCollection](/cells/python-net/tr/aspose.cells/scenariocollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ScenarioCollection`](/cells/python-net/tr/aspose.cells/scenariocollection)

@@ -18,6 +18,6 @@ def reference(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtension](/cells/python-net/tr/aspose.cells.webextensions/webextension)
-* sınıf [WebExtensionReference](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtension`](/cells/python-net/tr/aspose.cells.webextensions/webextension)
+* sınıf [`WebExtensionReference`](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference)

@@ -7,16 +7,17 @@ weight: 30
 url: /tr/aspose.cells/protectedrange/get_areas/
 is_root: false
 ---
-##  get_areas() {#}
+##  get_areas(self) {#}
 Yönlendirilen tüm alanları alır.
 
 
 ###  İadeler
 
-Başvurulan tüm alanları döndürür.
+Yönlendirilen tüm alanları döndürür.
 
 
 ```python
+
 def get_areas(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_areas(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ProtectedRange](/cells/python-net/tr/aspose.cells/protectedrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`ProtectedRange`](/cells/python-net/tr/aspose.cells/protectedrange)

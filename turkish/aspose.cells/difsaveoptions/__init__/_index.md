@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/difsaveoptions/__init__/
 is_root: false
 ---
-##  DifSaveOptions() {#}
+##  \_\_init\_\_(kendi){#}
 DIF dosyasını kaydetme seçeneklerini oluşturur.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DifSaveOptions](/cells/python-net/tr/aspose.cells/difsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`DifSaveOptions`](/cells/python-net/tr/aspose.cells/difsaveoptions)

@@ -3,13 +3,13 @@ title: width mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /tr/aspose.cells.drawing/listbox/width/
 is_root: false
 ---
 ##  width mülk
 
-Piksel birimi cinsinden şeklin width'ini temsil eder.
+Şeklin width'ini piksel cinsinden temsil eder.
 
 ###  Örnek
 

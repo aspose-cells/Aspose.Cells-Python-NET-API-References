@@ -13,7 +13,7 @@ Tema rengini alır ve ayarlar.
 
 ###  Notlar
 
-Ön plan rengi bir tema rengi değilse, NULL döndürülür.
+Ön plan rengi tema rengi değilse NULL döndürülür.
 ###  Tanım:
 ```python
 @property
@@ -25,6 +25,6 @@ def theme_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Line](/cells/python-net/tr/aspose.cells.drawing/line)
-* sınıf [ThemeColor](/cells/python-net/tr/aspose.cells/themecolor)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)
+* sınıf [`ThemeColor`](/cells/python-net/tr/aspose.cells/themecolor)

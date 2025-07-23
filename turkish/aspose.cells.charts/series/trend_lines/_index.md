@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  trend_lines mülk
 
-Seri için tüm eğilim çizgilerinin bir koleksiyonunu temsil eden bir nesne döndürür.
+Bu serinin tüm trend çizgilerini döndürür.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def trend_lines(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
-* sınıf [TrendlineCollection](/cells/python-net/tr/aspose.cells.charts/trendlinecollection)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)
+* sınıf [`TrendlineCollection`](/cells/python-net/tr/aspose.cells.charts/trendlinecollection)

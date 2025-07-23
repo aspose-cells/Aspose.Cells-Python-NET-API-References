@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells.slicers/slicer/refresh/
 is_root: false
 ---
-##  refresh() {#}
-Dilimleyici yenileniyor.Bu arada, Göreli PivotTable'lar Yenileniyor ve Hesaplanıyor.
+##  refresh(self) {#}
+Dilimleyiciyi yeniliyoruz. Bu arada, göreceli PivotTable'ları yeniliyoruz ve hesaplıyoruz.
 
 
 
 ```python
+
 def refresh(self):
     ...
 ```
@@ -30,5 +31,5 @@ slicer.refresh()
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

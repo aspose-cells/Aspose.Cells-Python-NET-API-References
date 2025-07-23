@@ -3,17 +3,17 @@ title: tiff_compression mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 370
+weight: 380
 url: /tr/aspose.cells.rendering/imageorprintoptions/tiff_compression/
 is_root: false
 ---
 ##  tiff_compression mülk
 
-Yalnızca sayfaları `Tiff` biçiminde kaydederken uygulanacak sıkıştırma türünü alır veya ayarlar.
+Sayfalar yalnızca `Tiff` biçiminde kaydedilirken uygulanacak sıkıştırma türünü alır veya ayarlar.
 
 ###  Notlar
 
-Yalnızca TIFF'e kaydederken etkili olur.
+Sadece TIFF'e kaydedildiğinde etkilidir.
 Varsayılan değer Lzw'dir.
 ###  Tanım:
 ```python

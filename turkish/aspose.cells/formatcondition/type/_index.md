@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-Alır ve koşullu biçim Type ayarlar.
+Koşullu biçimlendirme Türünü alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormatCondition](/cells/python-net/tr/aspose.cells/formatcondition)
-* sınıf [FormatConditionType](/cells/python-net/tr/aspose.cells/formatconditiontype)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormatCondition`](/cells/python-net/tr/aspose.cells/formatcondition)
+* sınıf [`FormatConditionType`](/cells/python-net/tr/aspose.cells/formatconditiontype)

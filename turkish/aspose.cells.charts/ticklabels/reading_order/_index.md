@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  reading_order mülk
 
-Metin okuma sırasını temsil eder.
+Metnin okuma sırasını gösterir.
 ###  Tanım:
 ```python
 @property

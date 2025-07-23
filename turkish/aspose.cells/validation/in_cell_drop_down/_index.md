@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  in_cell_drop_down mülk
 
-Veri doğrulamanın kabul edilebilir değerler içeren bir açılır liste görüntüleyip görüntülemediğini belirtir.
+Veri doğrulamasının kabul edilebilir değerleri içeren bir açılır liste görüntüleyip görüntülemediğini belirtir.
 ###  Tanım:
 ```python
 @property

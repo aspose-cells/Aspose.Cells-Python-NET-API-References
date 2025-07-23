@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_locked mülk
 
-Sayfa korumalıyken senaryonun düzenleme için kilitli olup olmadığını gösterir.
+Sayfa korunduğunda senaryonun düzenlemeye karşı kilitli olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_locked(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Scenario](/cells/python-net/tr/aspose.cells/scenario)
+* modül [`aspose.cells`](../../)
+* sınıf [`Scenario`](/cells/python-net/tr/aspose.cells/scenario)

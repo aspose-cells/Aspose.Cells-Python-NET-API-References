@@ -7,12 +7,13 @@ weight: 160
 url: /tr/aspose.cells/worksheetcollection/refresh_all/
 is_root: false
 ---
-##  refresh_all {#}
-Tüm pivot tabloları ve grafikleri pivot kaynağıyla yenileyin.
+##  refresh_all(self) {#}
+Pivot kaynağı ile tüm pivot tabloları ve grafikleri yenile.
 
 
 
 ```python
+
 def refresh_all(self):
     ...
 ```

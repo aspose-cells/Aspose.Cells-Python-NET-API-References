@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-Giriş hücre adresini alır ve ayarlar.
+Giriş hücresi adresini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ScenarioInputCell](/cells/python-net/tr/aspose.cells/scenarioinputcell)
+* modül [`aspose.cells`](../../)
+* sınıf [`ScenarioInputCell`](/cells/python-net/tr/aspose.cells/scenarioinputcell)

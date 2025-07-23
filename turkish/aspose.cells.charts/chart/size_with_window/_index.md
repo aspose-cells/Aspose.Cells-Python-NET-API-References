@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size_with_window mülk
 
-Microsoft Excel grafiği, grafik sayfası penceresinin boyutuyla eşleşecek şekilde yeniden boyutlandırıyorsa doğrudur.
+Microsoft Excel, grafiği grafik sayfası penceresinin boyutuna uyacak şekilde yeniden boyutlandırırsa doğrudur.
 ###  Tanım:
 ```python
 @property

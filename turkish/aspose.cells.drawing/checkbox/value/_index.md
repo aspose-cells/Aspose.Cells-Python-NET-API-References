@@ -3,13 +3,13 @@ title: value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /tr/aspose.cells.drawing/checkbox/value/
 is_root: false
 ---
 ##  value mülk
 
-Onay kutusunun işaretli olup olmadığını belirtir.
+Onay kutusunun işaretli olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property

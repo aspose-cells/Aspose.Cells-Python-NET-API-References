@@ -3,13 +3,13 @@ title: window_top_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 590
+weight: 600
 url: /tr/aspose.cells/workbooksettings/window_top_cm/
 is_root: false
 ---
 ##  window_top_cm mülk
 
-İstemci alanının üst kenarından pencerenin üst kenarına kadar santimetre cinsinden mesafe.
+Müşteri alanının üst kenarından pencerenin üst kenarına kadar olan mesafe, santimetre cinsinden.
 ###  Tanım:
 ```python
 @property

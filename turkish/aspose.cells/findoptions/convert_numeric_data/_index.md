@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data mülk
 
-Aranan dize değerinin sayısal verilere dönüştürülüp dönüştürülmediğini gösteren bir değer alır veya ayarlar.
+Aranan dize değerinin sayısal verilere dönüştürülüp dönüştürülmeyeceğini belirten bir değeri alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FindOptions](/cells/python-net/tr/aspose.cells/findoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`FindOptions`](/cells/python-net/tr/aspose.cells/findoptions)

@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  source_name mülk
 
-Önbellek alanının adını döndürür
+Bu dilimleyici önbelleğinin adını döndürür.
 
 ###  Örnek
 
 ```python
 
-# get the name of cache field.
+# get the name of this slicer cache.
 print(slicerCache.source_name)
 
 ```
@@ -27,5 +27,5 @@ def source_name(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [SlicerCache](/cells/python-net/tr/aspose.cells.slicers/slicercache)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`SlicerCache`](/cells/python-net/tr/aspose.cells.slicers/slicercache)

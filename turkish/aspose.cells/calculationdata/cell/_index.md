@@ -13,12 +13,12 @@ Fonksiyonun bulunduğu Cell nesnesini alır.
 
 ###  Notlar
 
-Bir formülü cell'e ayarlamadan hesaplarken,
-[`Worksheet.calculate_formula`](/cells/python-net/tr/aspose.cells/worksheet/calculate_formula) gibi,
-formül tıpkı cell A1 olarak ayarlandığı gibi hesaplanacaktır,
+cell'e ayarlamadan bir formülü hesapladığınızda,
+örneğin [`Worksheet.calculate_formula`](/cells/python-net/tr/aspose.cells/worksheet/calculate_formula) gibi,
+formül cell A1 olarak ayarlandığı gibi hesaplanacaktır,
 yani hem [`CalculationData.cell_row`](/cells/python-net/tr/aspose.cells/calculationdata#cell_row) hem de [`CalculationData.cell_column`](/cells/python-net/tr/aspose.cells/calculationdata#cell_column) 0'dır.
-Ancak çalışma sayfasındaki cell A1 örneği oluşturulmamış olabilir.
-Yani böyle bir durum için bu özellik null olacaktır.
+Ancak çalışma sayfasındaki cell A1 örneği henüz oluşturulmamış olabilir.
+Yani böyle bir durumda bu özellik boş olacaktır.
 ###  Tanım:
 ```python
 @property

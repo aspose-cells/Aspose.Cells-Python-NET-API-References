@@ -3,7 +3,7 @@ title: count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 80
 url: /tr/aspose.cells.pivot/pivotfieldcollection/count/
 is_root: false
 ---

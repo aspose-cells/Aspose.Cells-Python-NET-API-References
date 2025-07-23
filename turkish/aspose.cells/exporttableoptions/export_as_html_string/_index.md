@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_as_html_string mülk
 
-Hücrelerin html dize değerini DataTable'a aktarır.
+Hücrelerin html string değerini DataTable'a aktarır.
 ###  Tanım:
 ```python
 @property

@@ -3,11 +3,11 @@ title: intersect yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 170
 url: /tr/aspose.cells/range/intersect/
 is_root: false
 ---
-##  intersect {#aspose.cells.Range}
+##  intersect(self, range) {#aspose.cells.Range}
 İki aralığın dikdörtgen kesişimini temsil eden [`Range`](/cells/python-net/tr/aspose.cells/range) nesnesini döndürür.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```
@@ -27,7 +28,7 @@ def intersect(self, range):
 | range | [`Range`](/cells/python-net/tr/aspose.cells/range) | Kesişen aralık.|
 ###  Notlar
 
-İki aralık kesişmiyorsa null değerini döndürür.
+Eğer iki aralık kesişmiyorsa null döndürür.
 ###  Örnek
 
 

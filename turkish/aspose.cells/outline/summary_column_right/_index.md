@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_column_right mülk
 
-Özet sütununun anahatta ayrıntı sütunlarının sağına yerleştirilip yerleştirilmeyeceğini belirtir.
+Özet sütununun anahattaki ayrıntı sütunlarının sağında konumlandırılıp konumlandırılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def summary_column_right(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Outline](/cells/python-net/tr/aspose.cells/outline)
+* modül [`aspose.cells`](../../)
+* sınıf [`Outline`](/cells/python-net/tr/aspose.cells/outline)

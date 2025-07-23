@@ -8,33 +8,33 @@ url: /tr/aspose.cells.markup/customxmlpartcollection/
 is_root: false
 ---
 ##  CustomXmlPartCollection sınıfı
-Bir Özel XML Veri Depolama Bölümünü (bir paket içindeki özel XML verileri) temsil eder.
+Özel XML Veri Depolama Bölümünü (bir paket içindeki özel XML verileri) temsil eder.
 
 
 
-CustomXmlPartCollection türü aşağıdaki üyeleri gösterir:
+CustomXmlPartCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [capacity](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/capacity) | Dizi listesinin içerebileceği öğe sayısını alır veya ayarlar.|
+| [capacity](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/capacity) | Dizi listesinin içerebileceği eleman sayısını alır veya ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/copy_to/#int-list-int-int) |Dizi listesindeki bir dizi öğeyi, hedef dizi listesinin belirtilen dizininden başlayarak uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of(item, index)](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/index_of/#CustomXmlPart-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of(item, index, count)](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/index_of/#CustomXmlPart-int-int) | Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item)](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/last_index_of/#CustomXmlPart) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index)](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/last_index_of/#CustomXmlPart-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index, count)](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/last_index_of/#CustomXmlPart-int-int) |Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [add(data, shema_data)](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/add/#bytes-bytes) | Koleksiyona bir öğe ekler.|
-| [select_by_id(id)](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/select_by_id/#str) | Kimliğe göre bir öğe alır.|
-| [binary_search(item)](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/binary_search/#CustomXmlPart) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [`copy_to(self, array)`](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/copy_to/#list) |Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen indeksinden başlayarak, dizi listesindeki bir dizi öğeyi uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/index_of/#aspose.cells.markup.customxmlpart-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının, belirtilen indeksten son elemana kadar uzanan ilk oluşumunun sıfırdan başlayan indeksini döndürür.|
+| [`index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/index_of/#aspose.cells.markup.customxmlpart-int-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığında belirtilen indeksten başlayıp belirtilen sayıda eleman içeren ilk oluşumun sıfırdan başlayan indeksini döndürür.|
+| [`last_index_of(self, item)`](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/last_index_of/#aspose.cells.markup.customxmlpart) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfırdan başlayan dizinini döndürür.|
+| [`last_index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/last_index_of/#aspose.cells.markup.customxmlpart-int) |Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının ilk elemanından belirtilen dizine kadar uzanan son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/last_index_of/#aspose.cells.markup.customxmlpart-int-int) | Belirtilen nesneyi arar ve dizi listesindeki belirtilen sayıda öğeyi içeren ve belirtilen dizinde sona eren öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`add(self, data, shema_data)`](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/add/#bytes-bytes) | Koleksiyona bir öğe ekler.|
+| [`select_by_id(self, id)`](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/select_by_id/#str) | Bir öğeyi kimliğine göre alır.|
+| [`binary_search(self, item)`](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection/binary_search/#aspose.cells.markup.customxmlpart) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfırdan başlayan dizinini döndürür.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](..)
+* modül [`aspose.cells.markup`](..)

@@ -3,13 +3,13 @@ title: active_x_control mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 270
 url: /tr/aspose.cells.drawing/button/active_x_control/
 is_root: false
 ---
 ##  active_x_control mülk
 
-ActiveX kontrolünü alır.
+ActiveX denetimini alır.
 
 ###  Örnek
 
@@ -32,5 +32,4 @@ def active_x_control(self):
 
 ###  Ayrıca bakınız
 * modül [`aspose.cells.drawing`](../../)
-* sınıf [`ActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/activexcontrol)
 * sınıf [`Button`](/cells/python-net/tr/aspose.cells.drawing/button)

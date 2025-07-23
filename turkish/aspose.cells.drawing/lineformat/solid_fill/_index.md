@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  solid_fill mülk
 
-[FillFormat.solid_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat#solid_fill) nesnesini alır.
+[`FillFormat.solid_fill`](/cells/python-net/tr/aspose.cells.drawing/fillformat#solid_fill) nesnesini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def solid_fill(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
-* sınıf [SolidFill](/cells/python-net/tr/aspose.cells.drawing/solidfill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* sınıf [`SolidFill`](/cells/python-net/tr/aspose.cells.drawing/solidfill)

@@ -3,13 +3,13 @@ title: drag_to_hide mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 380
 url: /tr/aspose.cells.pivot/pivotfield/drag_to_hide/
 is_root: false
 ---
 ##  drag_to_hide mülk
 
-Belirtilen alanın gizleme konumuna sürüklenip sürüklenemeyeceğini belirtir.
+Belirtilen alanın gizli konuma sürüklenip sürüklenemeyeceğini belirtir.
 Varsayılan değer doğrudur.
 ###  Tanım:
 ```python

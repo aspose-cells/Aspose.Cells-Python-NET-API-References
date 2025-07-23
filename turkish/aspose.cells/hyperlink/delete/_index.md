@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/hyperlink/delete/
 is_root: false
 ---
-##  delete() {#}
+##  delete(self) {#}
 Bu köprüyü siler
 
 
 
 ```python
+
 def delete(self):
     ...
 ```
@@ -22,5 +23,5 @@ def delete(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Hyperlink](/cells/python-net/tr/aspose.cells/hyperlink)
+* modül [`aspose.cells`](../../)
+* sınıf [`Hyperlink`](/cells/python-net/tr/aspose.cells/hyperlink)

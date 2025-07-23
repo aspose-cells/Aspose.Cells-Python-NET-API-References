@@ -3,17 +3,17 @@ title: top mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /tr/aspose.cells.drawing/oleobject/top/
 is_root: false
 ---
 ##  top mülk
 
-Şeklin top satırındaki dikey uzaklığını piksel cinsinden temsil eder.
+Şeklin top satırından itibaren dikey ofsetini piksel cinsinden temsil eder.
 
 ###  Notlar
 
-Şekil grafikte yer alıyorsa, şeklin top sınırından dikey uzaklığını temsil eder.
+Şekil grafikte ise, şeklin top sınırından dikey uzaklığını temsil eder.
 
 ###  Örnek
 

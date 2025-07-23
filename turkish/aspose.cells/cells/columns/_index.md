@@ -3,13 +3,13 @@ title: columns mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1010
+weight: 1030
 url: /tr/aspose.cells/cells/columns/
 is_root: false
 ---
 ##  columns mülk
 
-Bu çalışma sayfasındaki columns bireyselini temsil eden [`Column`](/cells/python-net/tr/aspose.cells/column) nesnelerinin koleksiyonunu alır.
+Bu çalışma sayfasındaki columns numaralı kişiyi temsil eden [`Column`](/cells/python-net/tr/aspose.cells/column) nesnesinin koleksiyonunu alır.
 ###  Tanım:
 ```python
 @property

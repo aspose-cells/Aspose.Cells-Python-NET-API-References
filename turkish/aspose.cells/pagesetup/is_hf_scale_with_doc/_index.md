@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_hf_scale_with_doc mülk
 
-Belge ölçekleme ile üst bilginin ve alt bilginin ölçeklenip ölçeklenmediğini gösterir.
-Yalnızca Excel 2007 için geçerlidir.
+Üstbilgi ve altbilginin belge ölçeklemesiyle ölçeklenip ölçeklenmediğini belirtir.
+Sadece Excel 2007 için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_hf_scale_with_doc(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

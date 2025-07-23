@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_protection_applied mülk
 
-Koruma formatının uygulanması gerekip gerekmediğini belirtin.
+Koruma biçimlendirmesinin uygulanıp uygulanmayacağını belirtin.
 
 ###  Notlar
 
-Yalnızca adlandırılmış stil için.
+Sadece adlandırılmış stil için.
 ###  Tanım:
 ```python
 @property

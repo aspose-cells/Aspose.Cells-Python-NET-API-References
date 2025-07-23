@@ -3,13 +3,13 @@ title: subtotals mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 130
 url: /tr/aspose.cells.charts/serieslayoutproperties/subtotals/
 is_root: false
 ---
 ##  subtotals mülk
 
-Bir alt toplam veri noktasının dizinini temsil eder.
+Bir ara toplam veri noktasının indeksini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def subtotals(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SeriesLayoutProperties](/cells/python-net/tr/aspose.cells.charts/serieslayoutproperties)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SeriesLayoutProperties`](/cells/python-net/tr/aspose.cells.charts/serieslayoutproperties)

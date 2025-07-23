@@ -11,7 +11,7 @@ is_root: false
 
  Bir seçimi genişletmek için kullanılan temel birimi belirtir.
 True, temel birimin tek bir karakter olduğunu belirtir.
-false, temel birimin tam bir sözcük olduğunu belirtir.
+false temel birimin bir tam kelime olduğunu belirtir.
 ###  Tanım:
 ```python
 @property
@@ -23,5 +23,5 @@ def is_auto_word_selected(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [TextBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`TextBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/cellwatchcollection/__init__/
 is_root: false
 ---
-##  CellWatchCollection() {#}
+##  \_\_init\_\_(kendi){#}
 CellWatchCollection'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellWatchCollection](/cells/python-net/tr/aspose.cells/cellwatchcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellWatchCollection`](/cells/python-net/tr/aspose.cells/cellwatchcollection)

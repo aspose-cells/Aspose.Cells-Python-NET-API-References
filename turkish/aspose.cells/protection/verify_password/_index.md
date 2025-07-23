@@ -7,8 +7,8 @@ weight: 40
 url: /tr/aspose.cells/protection/verify_password/
 is_root: false
 ---
-##  verify_password(password) {#str}
-Parolayı doğrular.
+##  verify_password(self, password) {#str}
+Şifreyi doğrular.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Parolayı doğrular.
 
 
 ```python
+
 def verify_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def verify_password(self, password):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

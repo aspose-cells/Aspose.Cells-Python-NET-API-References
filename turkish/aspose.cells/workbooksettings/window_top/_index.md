@@ -3,13 +3,13 @@ title: window_top mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 580
+weight: 590
 url: /tr/aspose.cells/workbooksettings/window_top/
 is_root: false
 ---
 ##  window_top mülk
 
-Nokta birimi cinsinden istemci alanının üst kenarından pencerenin üst kenarına kadar olan mesafe.
+Müşteri alanının üst kenarından pencerenin üst kenarına kadar olan mesafe, nokta birimiyle.
 ###  Tanım:
 ```python
 @property

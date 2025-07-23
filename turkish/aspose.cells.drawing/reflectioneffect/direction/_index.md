@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction mülk
 
-Şeklin kendisine göre alfa gradyan rampasının direction'ini alır ve ayarlar.
+Şeklin kendisine göre alfa gradyan rampasının direction değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def direction(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ReflectionEffect](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ReflectionEffect`](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect)

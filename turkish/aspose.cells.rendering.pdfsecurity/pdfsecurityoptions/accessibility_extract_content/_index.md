@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  accessibility_extract_content mülk
 
-Metin ve grafiklerin çıkarılmasına izin verilip verilmeyeceğini belirtir (engelli kullanıcıların erişilebilirliğini desteklemek amacıyla veya başka amaçlarla).
+Engelli kullanıcıların erişilebilirliğini desteklemek veya diğer amaçlar için metin ve grafiklerin çıkarılmasına izin verilip verilmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property

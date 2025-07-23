@@ -8,26 +8,26 @@ url: /tr/aspose.cells.metadata/metadataoptions/
 is_root: false
 ---
 ##  MetadataOptions sınıfı
-Dosyanın meta verilerini yükleme seçeneklerini temsil eder.
+Dosyanın meta verilerinin yüklenmesine ilişkin seçenekleri temsil eder.
 
 
 
-MetadataOptions türü aşağıdaki üyeleri gösterir:
+MetadataOptions türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [MetadataOptions(metadata_type)](/cells/python-net/tr/aspose.cells.metadata/metadataoptions/__init__/#MetadataType) | Meta verileri yükleme seçeneklerini oluşturur.|
+| [`__init__(self, metadata_type)`](/cells/python-net/tr/aspose.cells.metadata/metadataoptions/__init__/#aspose.cells.metadata.metadatatype) | Meta verileri yükleme seçenekleri oluşturur.|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [metadata_type](/cells/python-net/tr/aspose.cells.metadata/metadataoptions/metadata_type) | Yüklenen meta verinin türünü alır ve ayarlar.|
-| [password](/cells/python-net/tr/aspose.cells.metadata/metadataoptions/password) | Çalışma Kitabı dosya şifreleme parolasını temsil eder.|
+| [password](/cells/python-net/tr/aspose.cells.metadata/metadataoptions/password) | Çalışma kitabı dosya şifreleme parolasını temsil eder.|
 | [key_length](/cells/python-net/tr/aspose.cells.metadata/metadataoptions/key_length) | Anahtar uzunluğu.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.metadata](..)
+* modül [`aspose.cells.metadata`](..)

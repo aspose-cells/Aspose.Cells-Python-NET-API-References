@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/ticklabelitem/
 is_root: false
 ---
 ##  TickLabelItem sınıfı
-Grafikteki onay etiketini temsil eder.
+Grafikte bir onay işaretini temsil eder.
 
 
 
@@ -17,10 +17,10 @@ TickLabelItem türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [x](/cells/python-net/tr/aspose.cells.charts/ticklabelitem/x) | Grafik genişliği oranında Ticklabel öğesinin X koordinatları.|
-| [y](/cells/python-net/tr/aspose.cells.charts/ticklabelitem/y) | Grafik yüksekliği oranında Ticklabel öğesinin Y koordinatları.|
+| [x](/cells/python-net/tr/aspose.cells.charts/ticklabelitem/x) | Ticklabel öğesinin grafik genişliğine oranındaki X koordinatları.|
+| [y](/cells/python-net/tr/aspose.cells.charts/ticklabelitem/y) | Ticklabel öğesinin grafik yüksekliğine oranındaki Y koordinatları.|
 | [width](/cells/python-net/tr/aspose.cells.charts/ticklabelitem/width) | Ticklabel öğesinin genişliğinin grafik genişliğine oranı.|
-| [height](/cells/python-net/tr/aspose.cells.charts/ticklabelitem/height) |Grafik yüksekliğine oranla Ticklabel öğesinin yüksekliği.|
+| [height](/cells/python-net/tr/aspose.cells.charts/ticklabelitem/height) |Ticklabel öğesinin yüksekliğinin grafik yüksekliğine oranı.|
 
 
 

@@ -3,13 +3,13 @@ title: text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 960
+weight: 970
 url: /tr/aspose.cells.drawing/radiobutton/text/
 is_root: false
 ---
 ##  text mülk
 
-Bu TextBox nesnesindeki dizeyi temsil eder.
+Bu şeklin text değerini alır ve ayarlar.
 
 ###  Örnek
 

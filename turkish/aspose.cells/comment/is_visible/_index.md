@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible mülk
 
-Yorumun görünür olup olmadığını temsil eder.
+Yorumun görünür olup olmadığını gösterir.
 
 ###  Örnek
 

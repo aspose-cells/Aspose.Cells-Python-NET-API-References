@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width mülk
 
-Bu görev panosu örneği için varsayılan width değerini alır ve ayarlar.
+Bu görev bölmesi örneği için varsayılan width değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionTaskPane](/cells/python-net/tr/aspose.cells.webextensions/webextensiontaskpane)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionTaskPane`](/cells/python-net/tr/aspose.cells.webextensions/webextensiontaskpane)

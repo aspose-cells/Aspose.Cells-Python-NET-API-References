@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells.drawing/textboxcollection/add/
 is_root: false
 ---
-##  add(upper_left_row, upper_left_column, height, width) {#int-int-int-int}
+##  add(self, upper_left_row, upper_left_column, height, width) {#int-int-int-int}
 Koleksiyona bir metin kutusu ekler.
 
 
 ###  İadeler
 
-[TextBox](/cells/python-net/tr/aspose.cells.drawing/textbox) nesne dizini.
+[`TextBox`](/cells/python-net/tr/aspose.cells.drawing/textbox) nesne dizini.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, height, width):
     ...
 ```
@@ -26,8 +27,8 @@ def add(self, upper_left_row, upper_left_column, height, width):
 | :- | :- | :- |
 | upper_left_row | int | Sol üst sıra dizini.|
 | upper_left_column | int | Sol üst sütun dizini.|
-| height | int | Metin kutusunun piksel birimi cinsinden yüksekliği.|
-| width | int | Metin kutusunun piksel birimi cinsinden genişliği.|
+| height | int | Metin kutusunun yüksekliği, piksel cinsinden.|
+| width | int | Metin kutusunun genişliği, piksel cinsinden.|
 
 ###  Örnek
 
@@ -41,6 +42,6 @@ index2 = textBoxCollection.add(1, 1, 50, 100)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextBox](/cells/python-net/tr/aspose.cells.drawing/textbox)
-* sınıf [TextBoxCollection](/cells/python-net/tr/aspose.cells.drawing/textboxcollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextBox`](/cells/python-net/tr/aspose.cells.drawing/textbox)
+* sınıf [`TextBoxCollection`](/cells/python-net/tr/aspose.cells.drawing/textboxcollection)

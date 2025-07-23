@@ -3,13 +3,13 @@ title: selected_cell mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 890
+weight: 900
 url: /tr/aspose.cells.drawing/combobox/selected_cell/
 is_root: false
 ---
 ##  selected_cell mülk
 
-Açılan kutunun giriş aralığında seçilen hücreyi alır.
+Giriş kutusunun giriş aralığındaki seçili hücreyi alır.
 ###  Tanım:
 ```python
 @property

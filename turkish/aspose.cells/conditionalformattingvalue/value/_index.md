@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  value mülk
 
-Bu koşullu biçimlendirme value nesnesinin value'ini alın veya ayarlayın.
-Tip ile birlikte kullanılmalıdır.
+Bu koşullu biçimlendirme value nesnesinin value değerini alın veya ayarlayın.
+Type ile birlikte kullanılmalıdır.
 
 ###  Notlar
 
-value string ise ve "=" ile başlıyorsa, formül olarak işlenir,
-aksi halde basit bir value olarak işleyeceğiz.
+value bir dize ise ve "=" ile başlıyorsa, formül olarak işlenecektir.
+Aksi takdirde basit bir value olarak işleme koyacağız.
 ###  Tanım:
 ```python
 @property
@@ -27,5 +27,5 @@ def value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingValue](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingValue`](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)

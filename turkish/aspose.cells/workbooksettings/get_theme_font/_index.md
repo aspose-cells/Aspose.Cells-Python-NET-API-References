@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells/workbooksettings/get_theme_font/
 is_root: false
 ---
-##  get_theme_font(type) {#FontSchemeType}
+##  get_theme_font(self, type) {#aspose.cells.FontSchemeType}
 Varsayılan tema yazı tipi adını alır.
 
 
@@ -17,6 +17,7 @@ Varsayılan tema yazı tipi adını alır.
 
 
 ```python
+
 def get_theme_font(self, type):
     ...
 ```
@@ -24,10 +25,10 @@ def get_theme_font(self, type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | [FontSchemeType](/cells/python-net/tr/aspose.cells/fontschemetype) | Yazı tipinin şema türü.|
+| type | [`FontSchemeType`](/cells/python-net/tr/aspose.cells/fontschemetype) | Yazı tipinin şema türü.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

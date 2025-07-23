@@ -3,17 +3,17 @@ title: max_column mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 330
 url: /tr/aspose.cells/workbooksettings/max_column/
 is_root: false
 ---
 ##  max_column mülk
 
-Sıfır tabanlı maksimum sütun dizinini alır.
+Sıfırdan başlayarak maksimum sütun indeksini alır.
 
 ###  Notlar
 
-Dosya biçimi Excel97-2003 ise 255 değerini döndürür;
+Dosya biçimi Excel97-2003 ise 255 döndürür;
 ###  Tanım:
 ```python
 @property

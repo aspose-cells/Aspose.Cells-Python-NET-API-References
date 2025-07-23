@@ -9,19 +9,19 @@ is_root: false
 ---
 ##  ExternalLinkCollection indeksleyici
 
-Belirtilen dizindeki [ExternalLink](/cells/python-net/tr/aspose.cells/externallink) öğesini alır.
-###  İndeksleyici
+Belirtilen indeksteki [`ExternalLink`](/cells/python-net/tr/aspose.cells/externallink) öğesini alır.
+###  Dizinleyici
 | İsim| Tanım|
 | :- | :- |
-| index | Öğenin sıfır tabanlı dizini.|
+| index | Elemanın sıfırdan başlayan indeksi.|
 
 
 
 ###  İadeler
 
-Belirtilen dizindeki öğe.
+Belirtilen indeksteki eleman.
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExternalLink](/cells/python-net/tr/aspose.cells/externallink)
-* sınıf [ExternalLinkCollection](/cells/python-net/tr/aspose.cells/externallinkcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ExternalLink`](/cells/python-net/tr/aspose.cells/externallink)
+* sınıf [`ExternalLinkCollection`](/cells/python-net/tr/aspose.cells/externallinkcollection)

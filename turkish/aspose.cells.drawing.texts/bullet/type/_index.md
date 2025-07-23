@@ -3,13 +3,13 @@ title: type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 50
+weight: 40
 url: /tr/aspose.cells.drawing.texts/bullet/type/
 is_root: false
 ---
 ##  type mülk
 
-Madde işaretinin type'ini alır ve ayarlar.
+Bullet'in type'ini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

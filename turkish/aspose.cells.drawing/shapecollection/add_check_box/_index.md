@@ -7,7 +7,7 @@ weight: 70
 url: /tr/aspose.cells.drawing/shapecollection/add_check_box/
 is_root: false
 ---
-##  add_check_box(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+##  add_check_box(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 Çalışma sayfasına bir onay kutusu ekler.
 
 
@@ -17,6 +17,7 @@ Yeni CheckBox nesne dizini.
 
 
 ```python
+
 def add_check_box(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -25,11 +26,11 @@ def add_check_box(self, upper_left_row, top, upper_left_column, left, height, wi
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | upper_left_row | int | Sol üst sıra dizini.|
-| top | int |Piksel birimi cinsinden, onay kutusunun sol satırından dikey uzaklığını temsil eder.|
+| top | int | Onay kutusunun en üst satırından itibaren dikey uzaklığını piksel cinsinden temsil eder.|
 | upper_left_column | int | Sol üst sütun dizini.|
-| left | int | Metin kutusunun sol sütunundan yatay uzaklığını piksel birimi cinsinden temsil eder.|
-| height | int | Metin kutusunun piksel birimi cinsinden yüksekliği.|
-| width | int | Metin kutusunun piksel birimi cinsinden genişliği.|
+| left | int | Metin kutusunun sol sütunundan yatay uzaklığını piksel cinsinden temsil eder.|
+| height | int | Metin kutusunun yüksekliği, piksel cinsinden.|
+| width | int | Metin kutusunun genişliği, piksel cinsinden.|
 
 ###  Örnek
 
@@ -43,5 +44,5 @@ checkBox = shapes.add_check_box(1, 0, 1, 0, 100, 50)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapeCollection](/cells/python-net/tr/aspose.cells.drawing/shapecollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapeCollection`](/cells/python-net/tr/aspose.cells.drawing/shapecollection)

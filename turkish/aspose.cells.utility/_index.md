@@ -7,13 +7,14 @@ weight: 10
 url: /tr/aspose.cells.utility/
 is_root: false
 ---
- bu**Aspose.Cells.Utility** ad alanı, Excel Elektronik Tablo dosyaları için JSON biçimlerini işleyen yardımcı program sınıfları içerir.
+**Aspose.Cells.Utility** namespace, Excel Elektronik Tablo dosyaları için JSON biçimlerini işleyen yardımcı sınıfları içerir.
 
-###  sınıflar
+###  Sınıflar
 | Sınıf| Tanım|
 | :- | :- |
-| [ExportRangeToJsonOptions](/cells/python-net/tr/aspose.cells.utility/exportrangetojsonoptions) | Aralığın json'a dışa aktarıldığı seçenekleri belirtir.|
-| [JsonLayoutOptions](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions) | Json yerleşim tipi seçeneklerini temsil eder.|
-| [JsonUtility](/cells/python-net/tr/aspose.cells.utility/jsonutility) | Json işlemenin yardımcı program sınıfını temsil eder.|
+| [`ConversionUtility`](/cells/python-net/tr/aspose.cells.utility/conversionutility) | Dosyaları diğer biçimlere dönüştürmek için yardımcı programı temsil eder.|
+| [`ExportRangeToJsonOptions`](/cells/python-net/tr/aspose.cells.utility/exportrangetojsonoptions) | Aralıkları json'a aktarma seçeneklerini belirtir.|
+| [`JsonLayoutOptions`](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions) | Json düzen türünün seçeneklerini temsil eder.|
+| [`JsonUtility`](/cells/python-net/tr/aspose.cells.utility/jsonutility) | Json işlemenin yardımcı sınıfını temsil eder.|
 
 

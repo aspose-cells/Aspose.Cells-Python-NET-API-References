@@ -7,16 +7,17 @@ weight: 40
 url: /tr/aspose.cells/globalizationsettings/get_boolean_value_string/
 is_root: false
 ---
-##  get_boolean_value_string(bv) {#bool}
-Hücrenin boole değeri için görünen dize değerini alır
+##  get_boolean_value_string(self, bv) {#bool}
+Hücrenin Boolean değeri için görüntüleme dizesi değerini alır
 
 
 ###  İadeler
 
-Varsayılan, doğru değer için "TRUE" ve yanlış değer için "FALSE" döndürür.
+Varsayılan olarak doğru değer için "TRUE", yanlış değer için "FALSE" döndürür.
 
 
 ```python
+
 def get_boolean_value_string(self, bv):
     ...
 ```
@@ -24,10 +25,10 @@ def get_boolean_value_string(self, bv):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| bv | bool | boole değeri|
+| bv | bool | Boole değeri|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [GlobalizationSettings](/cells/python-net/tr/aspose.cells/globalizationsettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`GlobalizationSettings`](/cells/python-net/tr/aspose.cells/globalizationsettings)

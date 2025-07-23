@@ -7,12 +7,13 @@ weight: 360
 url: /tr/aspose.cells/settableglobalizationsettings/set_row_separator_of_formula_array/
 is_root: false
 ---
-##  set_row_separator_of_formula_array {#char}
-Formüldeki dizi verilerindeki satırların ayırıcısını ayarlar.
+##  set_row_separator_of_formula_array(self, c) {#char}
+Formüldeki dizi verilerindeki satırlar için ayırıcıyı ayarlar.
 
 
 
 ```python
+
 def set_row_separator_of_formula_array(self, c):
     ...
 ```

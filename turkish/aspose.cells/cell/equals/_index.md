@@ -7,16 +7,17 @@ weight: 50
 url: /tr/aspose.cells/cell/equals/
 is_root: false
 ---
-##  equals(cell) {#Cell}
-Bu nesnenin, başka bir hücre nesnesiyle aynı hücreye atıfta bulunup bulunmadığını kontrol eder.
+##  equals(self, cell) {#aspose.cells.Cell}
+Bu nesnenin başka bir hücre nesnesiyle aynı hücreye başvurup başvurmadığını kontrol eder.
 
 
 ###  İadeler
 
-true iki hücre nesnesi aynı hücreye başvuruyorsa.
+iki hücre nesnesi aynı hücreye atıfta bulunuyorsa doğrudur.
 
 
 ```python
+
 def equals(self, cell):
     ...
 ```
@@ -24,10 +25,10 @@ def equals(self, cell):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| cell | [Cell](/cells/python-net/tr/aspose.cells/cell) | başka bir hücre nesnesi|
+| cell | [`Cell`](/cells/python-net/tr/aspose.cells/cell) | başka bir hücre nesnesi|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

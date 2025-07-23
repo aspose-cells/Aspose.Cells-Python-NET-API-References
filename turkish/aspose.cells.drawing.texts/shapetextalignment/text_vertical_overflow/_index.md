@@ -3,7 +3,7 @@ title: text_vertical_overflow mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 140
+weight: 150
 url: /tr/aspose.cells.drawing.texts/shapetextalignment/text_vertical_overflow/
 is_root: false
 ---
@@ -30,6 +30,6 @@ def text_vertical_overflow(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [ShapeTextAlignment](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)
-* sınıf [TextOverflowType](/cells/python-net/tr/aspose.cells.drawing/textoverflowtype)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`ShapeTextAlignment`](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)
+* sınıf [`TextOverflowType`](/cells/python-net/tr/aspose.cells.drawing/textoverflowtype)

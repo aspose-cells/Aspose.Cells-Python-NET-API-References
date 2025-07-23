@@ -7,14 +7,15 @@ weight: 110
 url: /tr/aspose.cells/style/update/
 is_root: false
 ---
-##  update() {#}
+##  update(self) {#}
 Adlandırılmış stili, bu adlandırılmış stili kullanan hücrelerin stillerine uygulayın.
-Stili değiştirmeyi bitirdikten sonra "tamam" düğmesine tıklamak gibi çalışır.
-Yalnızca adlandırılmış stil için geçerlidir.
+Bu, stili değiştirmeyi bitirdikten sonra "tamam" butonuna tıklamak gibi çalışır.
+Sadece adlandırılmış stil için geçerlidir.
 
 
 
 ```python
+
 def update(self):
     ...
 ```
@@ -24,5 +25,5 @@ def update(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

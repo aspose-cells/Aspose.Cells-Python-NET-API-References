@@ -3,7 +3,7 @@ title: paths mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 840
+weight: 850
 url: /tr/aspose.cells.drawing/groupshape/paths/
 is_root: false
 ---

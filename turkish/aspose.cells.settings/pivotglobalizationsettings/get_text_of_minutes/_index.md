@@ -3,12 +3,12 @@ title: get_text_of_minutes yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 120
 url: /tr/aspose.cells.settings/pivotglobalizationsettings/get_text_of_minutes/
 is_root: false
 ---
-##  get_text_of_minutes {#}
-"Dakika"nın yerel metnini alır.
+##  get_text_of_minutes(self) {#}
+"Dakikalar"ın yerel metnini alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_minutes(self):
     ...
 ```

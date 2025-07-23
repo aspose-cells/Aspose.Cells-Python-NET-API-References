@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_hi_lo_lines mülk
 
- Çizgi grafiğinde yüksek-düşük çizgiler varsa doğrudur.
-Yalnızca çizgi grafikleri için geçerlidir.
+ Çizgi grafiğinde yüksek-düşük çizgileri varsa doğrudur.
+Sadece çizgi grafikler için geçerlidir.
 ###  Tanım:
 ```python
 @property

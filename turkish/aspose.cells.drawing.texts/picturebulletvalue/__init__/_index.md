@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells.drawing.texts/picturebulletvalue/__init__/
 is_root: false
 ---
-##  PictureBulletValue() {#}
+##  \_\_init\_\_(kendi){#}
 PictureBulletValue'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [PictureBulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/picturebulletvalue)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`PictureBulletValue`](/cells/python-net/tr/aspose.cells.drawing.texts/picturebulletvalue)

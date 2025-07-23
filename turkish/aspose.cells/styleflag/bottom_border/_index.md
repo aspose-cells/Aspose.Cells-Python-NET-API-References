@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_border mülk
 
-Alt kenarlık ayarları uygulanacaktır.
+Alt sınır ayarları uygulanacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_border(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag)
+* modül [`aspose.cells`](../../)
+* sınıf [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag)

@@ -3,7 +3,7 @@ title: linked_source mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 310
 url: /tr/aspose.cells.charts/charttextframe/linked_source/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def linked_source(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartTextFrame](/cells/python-net/tr/aspose.cells.charts/charttextframe)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartTextFrame`](/cells/python-net/tr/aspose.cells.charts/charttextframe)

@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  refresh_on_change mülk
 
- Bir sorgunun içeriği değiştiğinde sorgunun otomatik olarak yenilenip yenilenmeyeceğini gösteren bayrak
- parametre değeri değişikliklerini sağlayan hücre. Doğruysa, harici veriler yenilenir
- her değişiklik olduğunda yeni parametre değerini kullanarak. Yanlışsa, harici veriler
-yalnızca kullanıcı tarafından istendiğinde veya başka bir olay yenilemeyi tetiklediğinde (örneğin, çalışma kitabı açıldı) yenilenir.
+ Bir sorgunun içeriği güncellendiğinde otomatik olarak yenilenip yenilenmeyeceğini belirten bayrak
+ Parametre değerini sağlayan hücre değişir. Doğruysa, harici veriler yenilenir.
+ Her değişiklik olduğunda yeni parametre değeri kullanılır. Yanlış ise, harici veriler
+yalnızca kullanıcı tarafından istendiğinde veya başka bir olay yenilemeyi tetiklediğinde (örneğin, çalışma kitabı açıldığında) yenilenir.
 ###  Tanım:
 ```python
 @property
@@ -24,5 +24,5 @@ def refresh_on_change(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [ConnectionParameter](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`ConnectionParameter`](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter)

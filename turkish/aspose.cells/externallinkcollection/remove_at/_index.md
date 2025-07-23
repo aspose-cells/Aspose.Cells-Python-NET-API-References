@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells/externallinkcollection/remove_at/
 is_root: false
 ---
-##  remove_at(index) {#int}
+##  remove_at(self, index) {#int}
 Belirtilen dış bağlantıyı çalışma kitabından kaldırır.
 
 
 
 ```python
+
 def remove_at(self, index):
     ...
 ```
@@ -20,18 +21,19 @@ def remove_at(self, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | kaldırılacak harici bağlantının dizini.|
+| index | int | Kaldırılacak dış bağlantının dizini.|
 ###  Notlar
 
-Dış bağlantı kaldırılırken, ona başvuran tüm formüller de kaldırılacaktır çünkü
+Dış bağlantıyı kaldırdığınızda, ona başvuran tüm formüller de kaldırılacaktır çünkü
 referanslar geçersiz hale gelir.
 
-##  remove_at(index, update_references_as_local) {#int-bool}
+##  remove_at(self, index, update_references_as_local) {#int-bool}
 Belirtilen dış bağlantıyı çalışma kitabından kaldırır.
 
 
 
 ```python
+
 def remove_at(self, index, update_references_as_local):
     ...
 ```
@@ -39,18 +41,11 @@ def remove_at(self, index, update_references_as_local):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | kaldırılacak harici bağlantının dizini.|
-| update_references_as_local | bool | Verilen harici bağlantının tüm referanslarını geçerli çalışma kitabının referansına güncelleyip güncellemeyeceği.|
-###  Notlar
+| index | int | Kaldırılacak dış bağlantının dizini.|
+| update_references_as_local | bool | Verilen dış bağlantının tüm referanslarını güncel çalışma kitabının referansına güncelleyin.<br/> Bu parametre hakkında daha fazla bilgi edinmek için [`ExternalLinkCollection.clear`](/cells/python-net/tr/aspose.cells/externallinkcollection/clear)'i kontrol edin.|
 
-Başvuruların güncellenmesi gerekiyorsa, formüllerdeki dış bağlantılara yapılan başvurular geçerli çalışma kitabına değiştirilecektir.
-Örneğin, kaldırılacak harici bağlantı "externalsource.xlam"dır ve "customfunction()" bir özel işlevi tanımlar,
-bir hücrenin orijinal formülü "='externalsource.xlam'!customfunction()" şeklindedir,
-kaldırdıktan sonra formül "= customfunction()" olacaktır.
-Referansın güncellenmesi gerekmiyorsa, bu harici bağlantıya referans veren tüm formüller
-bu referanslar geçersiz hale geldiği için de kaldırılacaktır.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExternalLinkCollection](/cells/python-net/tr/aspose.cells/externallinkcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ExternalLinkCollection`](/cells/python-net/tr/aspose.cells/externallinkcollection)

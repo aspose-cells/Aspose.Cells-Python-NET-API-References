@@ -3,7 +3,7 @@ title: PresetCameraType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1060
+weight: 1050
 url: /tr/aspose.cells.drawing/presetcameratype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Konum dahil tüm kamera özelliklerini ayarlamak için farklı algoritmik yönte
 
 
 
-PresetCameraType türü aşağıdaki üyeleri gösterir:
+PresetCameraType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | ISOMETRIC_BOTTOM_DOWN |  |
@@ -83,4 +83,4 @@ PresetCameraType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

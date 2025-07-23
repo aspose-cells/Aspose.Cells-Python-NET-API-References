@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells.charts/chartglobalizationsettings/get_axis_title_name/
 is_root: false
 ---
-##  get_axis_title_name() {#}
+##  get_axis_title_name(self) {#}
 Eksen için Başlık adını alır.
 
 
@@ -17,6 +17,7 @@ Eksen için Başlık adını alır.
 
 
 ```python
+
 def get_axis_title_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_axis_title_name(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartGlobalizationSettings](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartGlobalizationSettings`](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)

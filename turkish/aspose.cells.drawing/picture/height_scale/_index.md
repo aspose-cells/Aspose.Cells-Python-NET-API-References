@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  height_scale mülk
 
-Orijinal resim yüksekliğinin yüzde birimi cinsinden yükseklik ölçeğini alır ve ayarlar.
-Şekil resim değilse HeightScale özelliği yalnızca 100 değerini döndürür;
+Orijinal resim yüksekliğinin yüzde biriminde yükseklik ölçeğini alır ve ayarlar.
+Eğer şekil resim değilse, HeightScale özelliği sadece 100 değerini döndürür;
 
 ###  Örnek
 

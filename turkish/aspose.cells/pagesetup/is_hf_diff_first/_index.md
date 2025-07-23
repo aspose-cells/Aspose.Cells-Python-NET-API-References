@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hf_diff_first mülk
 
-Doğru, ilk sayfanın üstbilgisinin/altbilgisinin diğer sayfalardan farklı olduğu anlamına gelir.
+True, ilk sayfanın üstbilgisinin/altbilgisinin diğer sayfalardan farklı olduğu anlamına gelir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hf_diff_first(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

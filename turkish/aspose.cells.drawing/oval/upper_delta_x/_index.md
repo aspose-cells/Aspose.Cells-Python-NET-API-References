@@ -3,13 +3,13 @@ title: upper_delta_x mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /tr/aspose.cells.drawing/oval/upper_delta_x/
 is_root: false
 ---
 ##  upper_delta_x mülk
 
-Şeklin yatay uzaklığını sol üst köşe sütunundan alır veya ayarlar.
+Şeklin sol üst köşesindeki sütundan yatay uzaklığını alır veya ayarlar.
 
 ###  Notlar
 

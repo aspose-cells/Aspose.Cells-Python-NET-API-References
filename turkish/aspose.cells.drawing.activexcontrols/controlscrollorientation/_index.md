@@ -3,7 +3,7 @@ title: ControlScrollOrientation numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 230
 url: /tr/aspose.cells.drawing.activexcontrols/controlscrollorientation/
 is_root: false
 ---
@@ -12,16 +12,16 @@ Kaydırma yönünün türünü temsil eder
 
 
 
-ControlScrollOrientation türü aşağıdaki üyeleri gösterir:
+ControlScrollOrientation türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| AUTO | Denetimin genişliği yüksekliğinden büyük olduğunda denetim yatay olarak işlenir.<br/> Aksi takdirde kontrol dikey olarak sağlanır.|
-| VERTICAL |Kontrol dikey olarak yapılır.|
-| HORIZONTAL | Kontrol yatay olarak yapılır.|
+| AUTO | Kontrolün genişliği yüksekliğinden büyük olduğunda kontrol yatay olarak oluşturulur.<br/> Aksi takdirde kontrol dikey olarak sağlanır.|
+| VERTICAL | Kontrol dikey olarak sağlanır.|
+| HORIZONTAL | Kontrol yatay olarak gerçekleştirilir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
+* modül [`aspose.cells.drawing.activexcontrols`](..)

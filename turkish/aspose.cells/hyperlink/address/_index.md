@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  address mülk
 
-Bir köprünün address'ini temsil eder.
+Bir hiperlinkin address'ini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def address(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Hyperlink](/cells/python-net/tr/aspose.cells/hyperlink)
+* modül [`aspose.cells`](../../)
+* sınıf [`Hyperlink`](/cells/python-net/tr/aspose.cells/hyperlink)

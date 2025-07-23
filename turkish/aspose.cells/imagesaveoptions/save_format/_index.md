@@ -3,13 +3,13 @@ title: save_format mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 110
 url: /tr/aspose.cells/imagesaveoptions/save_format/
 is_root: false
 ---
 ##  save_format mülk
 
-Kayıt dosyası formatını alır.
+Kaydetme dosyasının formatını alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def save_format(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImageSaveOptions](/cells/python-net/tr/aspose.cells/imagesaveoptions)
-* sınıf [SaveFormat](/cells/python-net/tr/aspose.cells/saveformat)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImageSaveOptions`](/cells/python-net/tr/aspose.cells/imagesaveoptions)
+* sınıf [`SaveFormat`](/cells/python-net/tr/aspose.cells/saveformat)

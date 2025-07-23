@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_area mülk
 
-Eksen onay etiketlerini içeren grafiğin çizim alanını alır.
+Eksen işaret etiketlerini içeren grafiğin çizim alanını alır.
 
 ###  Notlar
 

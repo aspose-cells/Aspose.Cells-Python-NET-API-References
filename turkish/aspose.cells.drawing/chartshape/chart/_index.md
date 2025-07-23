@@ -3,13 +3,13 @@ title: chart mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 330
 url: /tr/aspose.cells.drawing/chartshape/chart/
 is_root: false
 ---
 ##  chart mülk
 
-Nesnenin içerdiği chart'i temsil eden bir Chart nesnesi döndürür.
+Nesnede bulunan chart'i temsil eden bir Chart nesnesi döndürür.
 ###  Tanım:
 ```python
 @property

@@ -3,13 +3,13 @@ title: contains_external_link mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 430
+weight: 440
 url: /tr/aspose.cells/cell/contains_external_link/
 is_root: false
 ---
 ##  contains_external_link mülk
 
-Bu hücrenin harici bir bağlantı içerip içermediğini gösterir.
+Bu hücrenin harici bir bağlantı içerip içermediğini belirtir.
 Yalnızca hücre bir formül hücresi olduğunda geçerlidir.
 ###  Tanım:
 ```python

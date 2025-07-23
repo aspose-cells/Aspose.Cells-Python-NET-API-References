@@ -3,13 +3,13 @@ title: is_ascend_sort mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 370
+weight: 450
 url: /tr/aspose.cells.pivot/pivotfield/is_ascend_sort/
 is_root: false
 ---
 ##  is_ascend_sort mülk
 
-Belirtilen PivotTable alanının otomatik olarak artan şekilde sıralanıp sıralanmadığını gösterir.
+Belirtilen PivotTable alanının otomatik olarak artan şekilde sıralanıp sıralanmayacağını gösterir.
 ###  Tanım:
 ```python
 @property

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  placement mülk
 
-Çizim nesnesinin altındaki hücrelere iliştirilme şeklini temsil eder.
-Özellik, çalışma sayfasındaki bir nesnenin placement'ini denetler.
+Çizim nesnesinin altındaki hücrelere bağlanma şeklini gösterir.
+Özellik, bir çalışma sayfasındaki nesnenin placement değerini kontrol eder.
 
 ###  Örnek
 
@@ -31,6 +31,6 @@ def placement(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [PlacementType](/cells/python-net/tr/aspose.cells.drawing/placementtype)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`PlacementType`](/cells/python-net/tr/aspose.cells.drawing/placementtype)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FontSetting](/cells/python-net/tr/aspose.cells/fontsetting)
-* sınıf [TextNodeType](/cells/python-net/tr/aspose.cells.drawing.texts/textnodetype)
+* modül [`aspose.cells`](../../)
+* sınıf [`FontSetting`](/cells/python-net/tr/aspose.cells/fontsetting)
+* sınıf [`TextNodeType`](/cells/python-net/tr/aspose.cells.drawing.texts/textnodetype)

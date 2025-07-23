@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color mülk
 
-Bir çizgi grafikte, dağılım grafiğinde veya radar grafiğinde işaretçi ön plan rengini temsil eder.
+Bir çizgi grafiğinde, dağılım grafiğinde veya radar grafiğinde işaretleyici ön plan rengini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def foreground_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Marker](/cells/python-net/tr/aspose.cells.charts/marker)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Marker`](/cells/python-net/tr/aspose.cells.charts/marker)

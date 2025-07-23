@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells/cell/copy/
 is_root: false
 ---
-##  copy(cell) {#Cell}
-Verileri bir kaynak hücreden kopyalar.
+##  copy(self, cell) {#aspose.cells.Cell}
+Kaynak hücreden veri kopyalar.
 
 
 
 ```python
+
 def copy(self, cell):
     ...
 ```
@@ -20,10 +21,10 @@ def copy(self, cell):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| cell | [Cell](/cells/python-net/tr/aspose.cells/cell) | Kaynak [Cell](/cells/python-net/tr/aspose.cells/cell) nesnesi.|
+| cell | [`Cell`](/cells/python-net/tr/aspose.cells/cell) | Kaynak [`Cell`](/cells/python-net/tr/aspose.cells/cell) nesnesi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

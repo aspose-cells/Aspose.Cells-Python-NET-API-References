@@ -18,6 +18,6 @@ def default_style_settings(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DefaultStyleSettings](/cells/python-net/tr/aspose.cells/defaultstylesettings)
-* sınıf [LoadOptions](/cells/python-net/tr/aspose.cells/loadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`DefaultStyleSettings`](/cells/python-net/tr/aspose.cells/defaultstylesettings)
+* sınıf [`LoadOptions`](/cells/python-net/tr/aspose.cells/loadoptions)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value mülk
 
-Dilimleyici öğesi için etiket metnini döndürür. Sadece oku.
+Dilimleyici öğesinin etiket metnini döndürür. Salt okunur.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def value(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [SlicerCacheItem](/cells/python-net/tr/aspose.cells.slicers/slicercacheitem)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`SlicerCacheItem`](/cells/python-net/tr/aspose.cells.slicers/slicercacheitem)

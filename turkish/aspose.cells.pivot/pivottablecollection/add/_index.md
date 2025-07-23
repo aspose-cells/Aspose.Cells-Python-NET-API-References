@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells.pivot/pivottablecollection/add/
 is_root: false
 ---
-##  add(source_data, dest_cell_name, table_name) {#str-str-str}
-PivotCaches koleksiyonuna yeni bir PivotTable önbelleği ekler.
+##  add(self, source_data, dest_cell_name, table_name) {#str-str-str}
+Yeni bir PivotTable ekler.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Yeni eklenen önbellek dizini.
 
 
 ```python
+
 def add(self, source_data, dest_cell_name, table_name):
     ...
 ```
@@ -24,13 +25,13 @@ def add(self, source_data, dest_cell_name, table_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_data | str | Yeni PivotTable önbelleği için veriler.|
-| dest_cell_name | str |PivotTable raporunun hedef aralığının sol üst köşesindeki hücre.|
+| source_data | str | Yeni PivotTable önbelleğine ait veriler.|
+| dest_cell_name | str | PivotTable raporunun hedef aralığının sol üst köşesindeki hücre.|
 | table_name | str | Yeni PivotTable raporunun adı.|
 
 
-##  add(pivot_table, dest_cell_name, table_name) {#PivotTable-str-str}
-Koleksiyona başka bir PivotTable'dan yeni bir PivotTable Nesnesi ekler.
+##  add(self, pivot_table, dest_cell_name, table_name) {#aspose.cells.pivot.PivotTable-str-str}
+Başka bir PivotTable'a dayalı yeni bir PivotTable ekler.
 
 
 ###  İadeler
@@ -39,6 +40,7 @@ Yeni eklenen PivotTable dizini.
 
 
 ```python
+
 def add(self, pivot_table, dest_cell_name, table_name):
     ...
 ```
@@ -46,13 +48,13 @@ def add(self, pivot_table, dest_cell_name, table_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| pivot_table | [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable) | Kaynak özet tablosu.|
-| dest_cell_name | str |PivotTable raporunun hedef aralığının sol üst köşesindeki hücre.|
+| pivot_table | [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable) | Kaynak pivotTable.|
+| dest_cell_name | str | PivotTable raporunun hedef aralığının sol üst köşesindeki hücre.|
 | table_name | str | Yeni PivotTable raporunun adı.|
 
 
-##  add(source_data, dest_cell_name, table_name, use_same_source) {#str-str-str-bool}
-PivotCaches koleksiyonuna yeni bir PivotTable önbelleği ekler.
+##  add(self, source_data, dest_cell_name, table_name, use_same_source) {#str-str-str-bool}
+Yeni bir PivotTable ekler.
 
 
 ###  İadeler
@@ -61,6 +63,7 @@ Yeni eklenen önbellek dizini.
 
 
 ```python
+
 def add(self, source_data, dest_cell_name, table_name, use_same_source):
     ...
 ```
@@ -68,14 +71,14 @@ def add(self, source_data, dest_cell_name, table_name, use_same_source):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_data | str | Yeni PivotTable önbelleği için veriler.|
-| dest_cell_name | str |PivotTable raporunun hedef aralığının sol üst köşesindeki hücre.|
+| source_data | str | Yeni PivotTable önbelleğine ait veriler.|
+| dest_cell_name | str | PivotTable raporunun hedef aralığının sol üst köşesindeki hücre.|
 | table_name | str | Yeni PivotTable raporunun adı.|
-| use_same_source | bool | Mevcut başka bir pivot tablonun bu veri kaynağını kullanıp kullanmadığını gösterir.<br/> Özellik true ise, bellekten tasarruf sağlayacaktır.|
+| use_same_source | bool | Mevcut başka bir pivot tablonun bu veri kaynağını kullanmış olması durumunda aynı veri kaynağının kullanılıp kullanılmadığını belirtir.<br/> Özellik doğruysa hafızadan tasarruf edilecektir.|
 
 
-##  add(source_data, row, column, table_name) {#str-int-int-str}
-PivotCaches koleksiyonuna yeni bir PivotTable önbelleği ekler.
+##  add(self, source_data, row, column, table_name) {#str-int-int-str}
+Yeni bir PivotTable ekler.
 
 
 ###  İadeler
@@ -84,6 +87,7 @@ Yeni eklenen önbellek dizini.
 
 
 ```python
+
 def add(self, source_data, row, column, table_name):
     ...
 ```
@@ -91,14 +95,14 @@ def add(self, source_data, row, column, table_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_data | str | Yeni PivotTable için veri hücresi aralığı. Örnek: Sheet1!A1:C8|
-| row | int | PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin satır dizini.|
+| source_data | str | Yeni PivotTable için veri hücre aralığı.Örnek: Sheet1!A1:C8|
+| row | int |PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin satır dizini.|
 | column | int | PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin sütun dizini.|
 | table_name | str | Yeni PivotTable raporunun adı.|
 
 
-##  add(pivot_table, row, column, table_name) {#PivotTable-int-int-str}
-Koleksiyona başka bir PivotTable'dan yeni bir PivotTable Nesnesi ekler.
+##  add(self, pivot_table, row, column, table_name) {#aspose.cells.pivot.PivotTable-int-int-str}
+Başka bir PivotTable'a dayalı yeni bir PivotTable ekler.
 
 
 ###  İadeler
@@ -107,6 +111,7 @@ Yeni eklenen PivotTable dizini.
 
 
 ```python
+
 def add(self, pivot_table, row, column, table_name):
     ...
 ```
@@ -114,14 +119,14 @@ def add(self, pivot_table, row, column, table_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| pivot_table | [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable) | Kaynak özet tablosu.|
-| row | int | PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin satır dizini.|
+| pivot_table | [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable) | Kaynak pivotTable.|
+| row | int |PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin satır dizini.|
 | column | int | PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin sütun dizini.|
 | table_name | str | Yeni PivotTable raporunun adı.|
 
 
-##  add(source_data, row, column, table_name, use_same_source) {#str-int-int-str-bool}
-PivotCaches koleksiyonuna yeni bir PivotTable önbelleği ekler.
+##  add(self, source_data, row, column, table_name, use_same_source) {#str-int-int-str-bool}
+Yeni bir PivotTable ekler.
 
 
 ###  İadeler
@@ -130,6 +135,7 @@ Yeni eklenen önbellek dizini.
 
 
 ```python
+
 def add(self, source_data, row, column, table_name, use_same_source):
     ...
 ```
@@ -137,15 +143,40 @@ def add(self, source_data, row, column, table_name, use_same_source):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_data | str | Yeni PivotTable için veri hücresi aralığı. Örnek: Sheet1!A1:C8|
-| row | int | PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin satır dizini.|
+| source_data | str | Yeni PivotTable için veri hücre aralığı.Örnek: Sheet1!A1:C8|
+| row | int |PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin satır dizini.|
 | column | int | PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin sütun dizini.|
 | table_name | str | Yeni PivotTable raporunun adı.|
-| use_same_source | bool | Mevcut başka bir pivot tablonun bu veri kaynağını kullanıp kullanmadığını gösterir.<br/> Özellik true ise, bellekten tasarruf sağlayacaktır.|
+| use_same_source | bool | Mevcut başka bir pivot tablonun bu veri kaynağını kullanmış olması durumunda aynı veri kaynağının kullanılıp kullanılmadığını belirtir.<br/> Özellik doğruysa hafızadan tasarruf edilecektir.|
 
 
-##  add(source_data, is_auto_page, page_fields, dest_cell_name, table_name) {#list-bool-PivotPageFields-str-str}
-Veri kaynağı olarak birden çok konsolidasyon aralığıyla koleksiyona yeni bir PivotTable Nesnesi ekler.
+##  add(self, source_data, cell, table_name, use_same_source, is_xls_classic) {#str-str-str-bool-bool}
+Yeni bir PivotTable ekler.
+
+
+###  İadeler
+
+Yeni eklenen önbellek dizini.
+
+
+```python
+
+def add(self, source_data, cell, table_name, use_same_source, is_xls_classic):
+    ...
+```
+
+
+| Parametre| Tip| Tanım|
+| :- | :- | :- |
+| source_data | str | Yeni PivotTable için veri hücre aralığı.Örnek: Sheet1!A1:C8|
+| cell | str | PivotTable raporunun hedef aralığının sol üst köşesindeki hücre.|
+| table_name | str | Yeni PivotTable raporunun adı.|
+| use_same_source | bool | Mevcut başka bir pivot tablonun bu veri kaynağını kullanmış olması durumunda aynı veri kaynağının kullanılıp kullanılmadığını belirtir.<br/> Özellik doğruysa hafızadan tasarruf edilecektir.|
+| is_xls_classic | bool | Excel 97-2003'ün klasik pivot tablosunun eklenip eklenmeyeceğini belirtir.|
+
+
+##  add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name) {#list-bool-aspose.cells.pivot.PivotPageFields-str-str}
+Veri kaynağı olarak birden fazla birleştirme aralığına sahip yeni bir PivotTable Nesnesi koleksiyona ekler.
 
 
 ###  İadeler
@@ -154,6 +185,7 @@ Yeni eklenen PivotTable dizini.
 
 
 ```python
+
 def add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name):
     ...
 ```
@@ -161,15 +193,41 @@ def add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_data | list | {"Sayfa1!A1:C8","Sayfa2!A1:B8"} gibi çoklu birleştirme aralıkları |
-| is_auto_page | bool | İster otomatik tek sayfa alanı oluşturun.<br/>Doğruysa, aşağıdaki pageFields parametresi yok sayılır.|
-| page_fields | [PivotPageFields](/cells/python-net/tr/aspose.cells.pivot/pivotpagefields) | Pivot sayfa alanı öğeleri.|
+| source_data | list | {"Sayfa1!A1:C8","Sayfa2!A1:B8"} gibi çoklu konsolidasyon aralıkları |
+| is_auto_page | bool | Tek sayfalık alanın otomatik olarak oluşturulması.<br/> Eğer doğruysa, pageFields parametresi göz ardı edilecektir.|
+| page_fields | [`PivotPageFields`](/cells/python-net/tr/aspose.cells.pivot/pivotpagefields) | Pivot sayfa alan öğeleri.|
 | dest_cell_name | str | destCellName Yeni PivotTable raporunun adı.|
 | table_name | str | yeni PivotTable raporunun adı.|
 
 
-##  add(source_data, is_auto_page, page_fields, row, column, table_name) {#list-bool-PivotPageFields-int-int-str}
-Veri kaynağı olarak birden çok konsolidasyon aralığıyla koleksiyona yeni bir PivotTable Nesnesi ekler.
+##  add(self, source_data, row, column, table_name, use_same_source, is_xls_classic) {#str-int-int-str-bool-bool}
+Yeni bir PivotTable ekler.
+
+
+###  İadeler
+
+Yeni eklenen önbellek dizini.
+
+
+```python
+
+def add(self, source_data, row, column, table_name, use_same_source, is_xls_classic):
+    ...
+```
+
+
+| Parametre| Tip| Tanım|
+| :- | :- | :- |
+| source_data | str | Yeni PivotTable için veri hücre aralığı.Örnek: Sheet1!A1:C8|
+| row | int |PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin satır dizini.|
+| column | int | PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin sütun dizini.|
+| table_name | str | Yeni PivotTable raporunun adı.|
+| use_same_source | bool | Mevcut başka bir pivot tablonun bu veri kaynağını kullanmış olması durumunda aynı veri kaynağının kullanılıp kullanılmadığını belirtir.<br/> Özellik doğruysa hafızadan tasarruf edilecektir.|
+| is_xls_classic | bool | Excel 97-2003'ün klasik pivot tablosunun eklenip eklenmeyeceğini belirtir.|
+
+
+##  add(self, source_data, is_auto_page, page_fields, row, column, table_name) {#list-bool-aspose.cells.pivot.PivotPageFields-int-int-str}
+Veri kaynağı olarak birden fazla birleştirme aralığına sahip yeni bir PivotTable Nesnesi koleksiyona ekler.
 
 
 ###  İadeler
@@ -178,6 +236,7 @@ Yeni eklenen PivotTable dizini.
 
 
 ```python
+
 def add(self, source_data, is_auto_page, page_fields, row, column, table_name):
     ...
 ```
@@ -185,15 +244,15 @@ def add(self, source_data, is_auto_page, page_fields, row, column, table_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_data | list | {"Sayfa1!A1:C8","Sayfa2!A1:B8"} gibi çoklu birleştirme aralıkları |
-| is_auto_page | bool | İster otomatik tek sayfa alanı oluşturun.<br/> Doğruysa, aşağıdaki pageFields parametresi yok sayılır|
-| page_fields | [PivotPageFields](/cells/python-net/tr/aspose.cells.pivot/pivotpagefields) | Pivot sayfa alanı öğeleri.|
-| row | int | PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin satır dizini.|
+| source_data | list | {"Sayfa1!A1:C8","Sayfa2!A1:B8"} gibi çoklu konsolidasyon aralıkları |
+| is_auto_page | bool | Tek sayfalık alanın otomatik olarak oluşturulması.<br/> Doğruysa, aşağıdaki parametre pageFields yok sayılacaktır|
+| page_fields | [`PivotPageFields`](/cells/python-net/tr/aspose.cells.pivot/pivotpagefields) | Pivot sayfa alan öğeleri.|
+| row | int |PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin satır dizini.|
 | column | int | PivotTable raporunun hedef aralığının sol üst köşesindeki hücrenin sütun dizini.|
 | table_name | str | Yeni PivotTable raporunun adı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTableCollection](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTableCollection`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection)

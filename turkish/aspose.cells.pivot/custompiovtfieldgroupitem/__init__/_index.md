@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/
 is_root: false
 ---
-##  __içinde__ {#str-list}
-Pivot alanının özel grup öğesinin yapıcısı.
+##  \_\_init\_\_(kendi, ad, öğe_indeksleri){#str-list}
+Pivot alanının özel grup öğesinin oluşturucusu.
 
 
 
 ```python
+
 def __init__(self, name, item_indexes):
     ...
 ```
@@ -21,7 +22,7 @@ def __init__(self, name, item_indexes):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | name | str | Grup öğesinin adı|
-| item_indexes | list | Temel pivot alanının öğelerine ilişkin tüm dizinler.|
+| item_indexes | list | Temel pivot alanının öğelerine ait tüm indeksler.|
 
 
 

@@ -21,5 +21,5 @@ def user_id(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ThreadedCommentAuthor](/cells/python-net/tr/aspose.cells/threadedcommentauthor)
+* modül [`aspose.cells`](../../)
+* sınıf [`ThreadedCommentAuthor`](/cells/python-net/tr/aspose.cells/threadedcommentauthor)

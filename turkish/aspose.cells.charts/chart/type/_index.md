@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-Bir grafiğin type'ini alır veya ayarlar.
+Bir grafiğin type değerini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

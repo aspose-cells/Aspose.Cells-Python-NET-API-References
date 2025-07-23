@@ -3,13 +3,13 @@ title: compliance mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 120
 url: /tr/aspose.cells/pdfsaveoptions/compliance/
 is_root: false
 ---
 ##  compliance mülk
 
-Çıktı belgeleri için PDF standartlarının compliance düzeyini alır veya ayarlar.
+Çıktı belgeleri için PDF standartlarını compliance düzeyini alır veya ayarlar.
 
 ###  Notlar
 

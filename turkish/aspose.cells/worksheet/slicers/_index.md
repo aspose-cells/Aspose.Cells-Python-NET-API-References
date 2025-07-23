@@ -3,13 +3,13 @@ title: slicers mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 770
+weight: 800
 url: /tr/aspose.cells/worksheet/slicers/
 is_root: false
 ---
 ##  slicers mülk
 
-Çalışma sayfasında Dilimleyici koleksiyonunu edinin
+Çalışma sayfasındaki Slicer koleksiyonunu alın
 ###  Tanım:
 ```python
 @property

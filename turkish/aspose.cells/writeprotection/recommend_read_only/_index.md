@@ -3,7 +3,7 @@ title: recommend_read_only mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 70
 url: /tr/aspose.cells/writeprotection/recommend_read_only/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def recommend_read_only(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WriteProtection](/cells/python-net/tr/aspose.cells/writeprotection)
+* modül [`aspose.cells`](../../)
+* sınıf [`WriteProtection`](/cells/python-net/tr/aspose.cells/writeprotection)

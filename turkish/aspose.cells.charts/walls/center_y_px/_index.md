@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_y_px mülk
 
-Chart.Calculate() yöntemi çağrıldıktan sonra Duvar merkezinin sol alt köşesinin y koordinatını piksel birimleri cinsinden alır.
+Chart.Calculate() metodunu çağırdıktan sonra Duvar merkezinin sol alt köşesinin y koordinatını piksel cinsinden alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def center_y_px(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Walls](/cells/python-net/tr/aspose.cells.charts/walls)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Walls`](/cells/python-net/tr/aspose.cells.charts/walls)

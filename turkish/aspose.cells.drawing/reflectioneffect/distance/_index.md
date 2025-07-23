@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  distance mülk
 
-Nokta birimi cinsinden gölgenin distance'e ne kadar uzak olduğunu alır ve ayarlar.
+Gölgenin distance'e olan uzaklığını nokta biriminde alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def distance(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ReflectionEffect](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ReflectionEffect`](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect)

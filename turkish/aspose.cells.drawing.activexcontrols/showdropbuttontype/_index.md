@@ -3,25 +3,25 @@ title: ShowDropButtonType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 280
 url: /tr/aspose.cells.drawing.activexcontrols/showdropbuttontype/
 is_root: false
 ---
 ##  ShowDropButtonType numaralandırma
-Bırak düğmesinin ne zaman gösterileceğini belirtir
+Bırakma düğmesinin ne zaman gösterileceğini belirtir
 
 
 
-ShowDropButtonType türü aşağıdaki üyeleri gösterir:
+ShowDropButtonType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NEVER | Bırak düğmesini asla gösterme.|
-| FOCUS | Denetim odağa sahip olduğunda bırakma düğmesini gösterin.|
-| ALWAYS | Her zaman bırak düğmesini göster.|
+| NEVER | Bırakma düğmesini asla göstermeyin.|
+| FOCUS | Kontrol odakta olduğunda bırakma düğmesini göster.|
+| ALWAYS | Her zaman bırakma düğmesini göster.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
+* modül [`aspose.cells.drawing.activexcontrols`](..)

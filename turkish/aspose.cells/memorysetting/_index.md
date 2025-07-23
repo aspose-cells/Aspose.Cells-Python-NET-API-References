@@ -3,12 +3,12 @@ title: MemorySetting numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2320
+weight: 2280
 url: /tr/aspose.cells/memorysetting/
 is_root: false
 ---
 ##  MemorySetting numaralandırma
-Bellek kullanım seçenekleri.
+Hücre veri modeli için bellek kullanım modları.
 
 
 
@@ -17,8 +17,9 @@ MemorySetting türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NORMAL | Hücre modeli için varsayılan seçenek.|
-| MEMORY_PREFERENCE | Bellek performansı tercih edilir.<br/>Bu seçenekle veriler kompakt formatta tutulacağından yaygın senaryolarda daha düşük bellek maliyeti sağlanabilir.<br/> Ancak bu seçenek bazı özel durumlarda R/W performansını da bir miktar düşürebilir.|
+| NORMAL | Hücre modeli için varsayılan mod.|
+| MEMORY_PREFERENCE | Bellek performansı tercih sebebidir.|
+| FILE_CACHE | Bellek performansı tercih edilir ve bellek yerine dosya kullanılır<br/> hücre verilerini korumak için.|
 
 
 

@@ -7,17 +7,18 @@ weight: 50
 url: /tr/aspose.cells/comment/get_rich_formattings/
 is_root: false
 ---
-##  get_rich_formattings {#}
+##  get_rich_formattings(self) {#}
  Tüm Karakter nesnelerini döndürür
-bu, yorum metnindeki bir dizi karakteri temsil eder.
+yorum metnindeki karakter aralığını temsil eder.
 
 
 ###  İadeler
 
-Tüm Karakterler nesneleri
+Tüm Karakter nesneleri
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

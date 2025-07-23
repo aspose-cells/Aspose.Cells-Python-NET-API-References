@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/chartsplittype/
 is_root: false
 ---
 ##  ChartSplitType numaralandırma
-Pasta grafiğinin veya pasta grafiğinin çubuğunun iki bölümünün bölünme şeklini temsil eder.
+Bir pasta grafiğinin veya pasta grafiğinin çubuğunun iki bölümünün nasıl bölündüğünü gösterir.
 
 
 
@@ -17,11 +17,11 @@ ChartSplitType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| POSITION | Pasta arasında bölünecek veri noktalarını temsil eder<br/>ve ikinci grafikte son Bölünmüş Konumu koyarak<br/>ikinci grafikteki veri noktalarının|
-| VALUE | Pasta arasında bölünecek veri noktalarını temsil eder<br/>ve veri noktalarını koyarak ikinci grafik<br/> ikinci grafikteki Bölünmüş Konum'dan daha düşük bir değer.|
-| PERCENT_VALUE | Pasta arasında bölünecek veri noktalarını temsil eder<br/>ve ikinci grafikte noktaları koyarak<br/>yüzdesi, Bölünmüş Konum yüzdesinden daha az<br/> ikinci grafik.|
-| CUSTOM | Pasta arasında bölünecek veri noktalarını temsil eder<br/>ve Özel Bölmeye göre ikinci grafik<br/> değerler.|
-| AUTO | Veri noktalarının varsayılan kullanılarak bölüneceğini temsil eder<br/> Bu grafik türü için mekanizma.|
+| POSITION | Veri noktalarının pasta arasında bölüneceğini gösterir<br/>ve son Bölünmüş Pozisyonu koyarak ikinci grafik<br/> ikinci grafikteki veri noktalarının|
+| VALUE | Veri noktalarının pasta arasında bölüneceğini gösterir<br/>ve ikinci grafik, veri noktalarını yerleştirerek<br/> İkinci grafikte Bölünmüş Pozisyondan daha düşük değer.|
+| PERCENT_VALUE | Veri noktalarının pasta arasında bölüneceğini gösterir<br/>ve ikinci grafik, noktaları koyarak<br/>Bölünmüş Pozisyon yüzdesinden daha az yüzde<br/> ikinci grafik.|
+| CUSTOM | Veri noktalarının pasta arasında bölüneceğini gösterir<br/>ve Özel Bölmeye göre ikinci grafik<br/> değerler.|
+| AUTO |Veri noktalarının varsayılan değer kullanılarak bölüneceğini gösterir<br/> Bu grafik türü için mekanizma.|
 
 
 

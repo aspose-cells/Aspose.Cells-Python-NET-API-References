@@ -7,7 +7,7 @@ weight: 50
 url: /tr/aspose.cells/globalizationsettings/get_column_labels_of_pivot_table/
 is_root: false
 ---
-##  get_column_labels_of_pivot_table() {#}
+##  get_column_labels_of_pivot_table(self) {#}
 PivotTable'daki "Sütun Etiketleri" etiketinin adını alır.
 
 
@@ -17,6 +17,7 @@ Sütun etiketlerinin adı
 
 
 ```python
+
 def get_column_labels_of_pivot_table(self):
     ...
 ```
@@ -24,12 +25,12 @@ def get_column_labels_of_pivot_table(self):
 
 ###  Notlar
 
-NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen GlobalizationSettings.GetColumnLabelsOfPivotTable() yöntemini kullanın.
- Bu mülk, Aralık 2022'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen PivotGlobalizationSettings.GetColumnLabelsOfPivotTable() metodunu kullanın.
+ Bu özellik Aralık 2022'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [GlobalizationSettings](/cells/python-net/tr/aspose.cells/globalizationsettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`GlobalizationSettings`](/cells/python-net/tr/aspose.cells/globalizationsettings)

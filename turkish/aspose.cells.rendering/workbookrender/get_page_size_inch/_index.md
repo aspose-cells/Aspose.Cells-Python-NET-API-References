@@ -7,7 +7,7 @@ weight: 40
 url: /tr/aspose.cells.rendering/workbookrender/get_page_size_inch/
 is_root: false
 ---
-##  get_page_size_inch {#int}
+##  get_page_size_inch(self, page_index) {#int}
 Çıktı görüntüsünün inç cinsinden sayfa boyutunu alın.
 
 
@@ -17,6 +17,7 @@ Görüntünün sayfa boyutu, genişlik için [0] ve yükseklik için [1]
 
 
 ```python
+
 def get_page_size_inch(self, page_index):
     ...
 ```
@@ -24,7 +25,7 @@ def get_page_size_inch(self, page_index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| page_index | int |Sayfa dizini sıfıra dayalıdır.|
+| page_index | int | Sayfa indeksi sıfıra dayanmaktadır.|
 
 
 

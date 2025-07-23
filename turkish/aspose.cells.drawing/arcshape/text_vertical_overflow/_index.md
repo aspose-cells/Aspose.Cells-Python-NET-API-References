@@ -3,7 +3,7 @@ title: text_vertical_overflow mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /tr/aspose.cells.drawing/arcshape/text_vertical_overflow/
 is_root: false
 ---

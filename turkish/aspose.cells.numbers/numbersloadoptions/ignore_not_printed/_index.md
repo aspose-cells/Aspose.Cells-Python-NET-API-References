@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  ignore_not_printed mülk
 
-Dosya doğrudan yazdırılıyorsa yazdırılmayan verileri yok sayın
+Dosyayı doğrudan yazdırıyorsanız yazdırılmayan verileri yoksayın
 
 ###  Notlar
 
-Yalnızca xlsx dosyası için.
+Sadece xlsx dosyası için.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def ignore_not_printed(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.numbers](../../)
-* sınıf [NumbersLoadOptions](/cells/python-net/tr/aspose.cells.numbers/numbersloadoptions)
+* modül [`aspose.cells.numbers`](../../)
+* sınıf [`NumbersLoadOptions`](/cells/python-net/tr/aspose.cells.numbers/numbersloadoptions)

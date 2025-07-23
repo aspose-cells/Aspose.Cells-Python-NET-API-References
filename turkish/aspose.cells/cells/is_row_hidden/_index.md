@@ -3,20 +3,21 @@ title: is_row_hidden yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 760
+weight: 780
 url: /tr/aspose.cells/cells/is_row_hidden/
 is_root: false
 ---
-##  is_row_hidden {#int}
-Verilen dizindeki bir satırın gizli olup olmadığını kontrol eder.
+##  is_row_hidden(self, row_index) {#int}
+Belirtilen indeksteki satırın gizli olup olmadığını kontrol eder.
 
 
 ###  İadeler
 
-satır gizliyse true
+satır gizliyse doğru
 
 
 ```python
+
 def is_row_hidden(self, row_index):
     ...
 ```

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_east_asian_line_break mülk
 
-Bir Doğu Asya kelimesinin ikiye bölünüp tire eklenmeden bir sonraki satıra sarılıp kaydırılamayacağını belirtir.
+Doğu Asya kökenli bir kelimenin tire eklenmeden ikiye bölünüp bir sonraki satıra aktarılıp aktarılamayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_east_asian_line_break(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextParagraph](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextParagraph`](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)

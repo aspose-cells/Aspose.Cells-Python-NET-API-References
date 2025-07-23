@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrowhead_length mülk
 
-Satırın bitiş ok uzunluğu türünü alır ve ayarlar.
+Çizginin bitiş okunun uzunluk türünü alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,6 +30,6 @@ def end_arrowhead_length(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
-* sınıf [MsoArrowheadLength](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadlength)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* sınıf [`MsoArrowheadLength`](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadlength)

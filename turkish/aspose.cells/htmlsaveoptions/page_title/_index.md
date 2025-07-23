@@ -3,14 +3,14 @@ title: page_title mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 580
+weight: 670
 url: /tr/aspose.cells/htmlsaveoptions/page_title/
 is_root: false
 ---
 ##  page_title mülk
 
-Html sayfasının başlığı.
-Yalnızca html akışına kaydetmek için.
+HTML sayfasının başlığı.
+Sadece html akışına kaydetmek için.
 ###  Tanım:
 ```python
 @property

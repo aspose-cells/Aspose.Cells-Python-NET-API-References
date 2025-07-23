@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fill mülk
 
-Metnin fill biçimini temsil eder.
+Metnin fill formatını temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def fill(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [FillFormat](/cells/python-net/tr/aspose.cells.drawing/fillformat)
-* sınıf [TextOptions](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`FillFormat`](/cells/python-net/tr/aspose.cells.drawing/fillformat)
+* sınıf [`TextOptions`](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)

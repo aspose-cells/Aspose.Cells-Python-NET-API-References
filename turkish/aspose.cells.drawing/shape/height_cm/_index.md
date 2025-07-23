@@ -3,13 +3,13 @@ title: height_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 430
 url: /tr/aspose.cells.drawing/shape/height_cm/
 is_root: false
 ---
 ##  height_cm mülk
 
-Şeklin yüksekliğini santimetre cinsinden temsil eder.
+Şeklin yüksekliğini santimetre cinsinden gösterir.
 
 ###  Örnek
 

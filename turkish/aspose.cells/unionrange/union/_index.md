@@ -3,12 +3,12 @@ title: union yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 100
 url: /tr/aspose.cells/unionrange/union/
 is_root: false
 ---
-##  union(range) {#str}
-Birlik başka bir aralık.
+##  union(self, range) {#str}
+Bir başka aralık birliği.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Birlik başka bir aralık.
 
 
 ```python
+
 def union(self, range):
     ...
 ```
@@ -27,8 +28,8 @@ def union(self, range):
 | range | str | Menzil.|
 
 
-##  union(union_range) {#UnionRange}
-Birlik başka bir aralık.
+##  union(self, union_range) {#aspose.cells.UnionRange}
+Bir başka aralık birliği.
 
 
 ###  İadeler
@@ -37,6 +38,7 @@ Birlik başka bir aralık.
 
 
 ```python
+
 def union(self, union_range):
     ...
 ```
@@ -44,10 +46,10 @@ def union(self, union_range):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/tr/aspose.cells/unionrange) | Menzil.|
+| union_range | [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange) | Menzil.|
 
 
-##  union(ranges) {#list}
+##  union(self, ranges) {#list}
 Aralıkları birleştirin.
 
 
@@ -57,6 +59,7 @@ Aralıkları birleştirin.
 
 
 ```python
+
 def union(self, ranges):
     ...
 ```
@@ -69,5 +72,5 @@ def union(self, ranges):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [UnionRange](/cells/python-net/tr/aspose.cells/unionrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange)

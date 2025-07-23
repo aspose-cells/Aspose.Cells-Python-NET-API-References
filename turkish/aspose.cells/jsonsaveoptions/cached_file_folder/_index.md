@@ -9,7 +9,14 @@ is_root: false
 ---
 ##  cached_file_folder mülk
 
-Önbelleğe alınmış dosya klasörü, bazı büyük verileri depolamak için kullanılır.
+Veri önbelleği olarak kullanılabilecek geçici dosyalar için klasör.
+
+###  Notlar
+
+Klasör belirtilmemişse,
+bunun varsayılan değeri [`CellsHelper.get_cache_folder`](/cells/python-net/tr/aspose.cells/cellshelper/get_cache_folder)'dir.
+Varsayılan değeri null veya boş ise ya da null veya boş olarak belirtilmişse,
+o zaman çalışma kitabını kaydederken önbellek dosyası kullanılmayacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +28,5 @@ def cached_file_folder(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [JsonSaveOptions](/cells/python-net/tr/aspose.cells/jsonsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`JsonSaveOptions`](/cells/python-net/tr/aspose.cells/jsonsaveoptions)

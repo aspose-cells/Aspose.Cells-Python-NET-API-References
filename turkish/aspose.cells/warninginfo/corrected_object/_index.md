@@ -21,5 +21,5 @@ def corrected_object(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WarningInfo](/cells/python-net/tr/aspose.cells/warninginfo)
+* modül [`aspose.cells`](../../)
+* sınıf [`WarningInfo`](/cells/python-net/tr/aspose.cells/warninginfo)

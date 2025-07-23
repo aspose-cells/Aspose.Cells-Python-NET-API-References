@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tile_pic_option mülk
 
-Döşeme resmi seçeneğini alır veya ayarlar.
+Karo resim seçeneğini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def tile_pic_option(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextureFill](/cells/python-net/tr/aspose.cells.drawing/texturefill)
-* sınıf [TilePicOption](/cells/python-net/tr/aspose.cells.drawing/tilepicoption)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextureFill`](/cells/python-net/tr/aspose.cells.drawing/texturefill)
+* sınıf [`TilePicOption`](/cells/python-net/tr/aspose.cells.drawing/tilepicoption)

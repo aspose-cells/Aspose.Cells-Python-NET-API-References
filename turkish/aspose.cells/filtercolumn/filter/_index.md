@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  filter mülk
 
-Verileri filtreleme koşulunu alır ve ayarlar.
+Verilerin filtrelenme koşulunu alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def filter(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FilterColumn](/cells/python-net/tr/aspose.cells/filtercolumn)
+* modül [`aspose.cells`](../../)
+* sınıf [`FilterColumn`](/cells/python-net/tr/aspose.cells/filtercolumn)

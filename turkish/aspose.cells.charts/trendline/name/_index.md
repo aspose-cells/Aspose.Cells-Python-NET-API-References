@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-Trend çizgisinin name'ini döndürür.
+Trend çizgisinin name değerini döndürür.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

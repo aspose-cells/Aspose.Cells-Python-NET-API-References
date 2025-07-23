@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  end_arrowhead_width mülk
 
-Çizginin uç ok başı genişliğini alır ve ayarlar.
+Çizginin bitiş ok ucu genişliğini alır ve ayarlar.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen Shape.Line.EndArrowheadWidth özelliğini kullanın.
- Bu mülk, Ağustos 2016'dan bu yana 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen Shape.Line.EndArrowheadWidth özelliğini kullanın.
+ Bu özellik Ağustos 2016'dan itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

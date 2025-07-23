@@ -7,7 +7,7 @@ weight: 40
 url: /tr/aspose.cells.vba/vbamodulecollection/add_user_form/
 is_root: false
 ---
-##  add_user_form {#str-str-bytes}
+##  add_user_form(self, name, codes, designer_storage) {#str-str-bytes}
 Kullanıcı formunu VBA Projesine ekleyin.
 
 
@@ -17,6 +17,7 @@ Kullanıcı formunu VBA Projesine ekleyin.
 
 
 ```python
+
 def add_user_form(self, name, codes, designer_storage):
     ...
 ```
@@ -25,8 +26,8 @@ def add_user_form(self, name, codes, designer_storage):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | name | str | Kullanıcı formunun adı|
-| codes | str | Kullanıcı formu kodları|
-| designer_storage | bytes |kullanıcı formuyla ilgili tasarımcı ayarı|
+| codes | str | Kullanıcı formu için kodlar|
+| designer_storage | bytes |kullanıcı formu hakkında tasarımcı ayarı|
 
 
 

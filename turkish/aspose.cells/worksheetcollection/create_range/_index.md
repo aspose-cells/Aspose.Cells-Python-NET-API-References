@@ -7,16 +7,17 @@ weight: 70
 url: /tr/aspose.cells/worksheetcollection/create_range/
 is_root: false
 ---
-##  create_range(address, sheet_index) {#str-int}
-Aralığın adresinden bir [Range](/cells/python-net/tr/aspose.cells/range) nesnesi oluşturur.
+##  create_range(self, address, sheet_index) {#str-int}
+Aralığın bir adresinden [`Range`](/cells/python-net/tr/aspose.cells/range) nesnesini oluşturur.
 
 
 ###  İadeler
 
-[Range](/cells/python-net/tr/aspose.cells/range) nesnesi
+[`Range`](/cells/python-net/tr/aspose.cells/range) nesnesi
 
 
 ```python
+
 def create_range(self, address, sheet_index):
     ...
 ```
@@ -30,6 +31,6 @@ def create_range(self, address, sheet_index):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
-* sınıf [WorksheetCollection](/cells/python-net/tr/aspose.cells/worksheetcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)
+* sınıf [`WorksheetCollection`](/cells/python-net/tr/aspose.cells/worksheetcollection)

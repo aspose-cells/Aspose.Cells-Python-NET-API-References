@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_interruption_requested mülk
 
-Monitörü kesinti istiyor olarak işaretleyin
+Monitörü kesinti isteği olarak işaretleyin
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_interruption_requested(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [InterruptMonitor](/cells/python-net/tr/aspose.cells/interruptmonitor)
+* modül [`aspose.cells`](../../)
+* sınıf [`InterruptMonitor`](/cells/python-net/tr/aspose.cells/interruptmonitor)

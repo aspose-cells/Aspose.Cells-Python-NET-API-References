@@ -3,7 +3,7 @@ title: QueryTable sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1270
+weight: 1160
 url: /tr/aspose.cells/querytable/
 is_root: false
 ---
@@ -18,11 +18,11 @@ QueryTable türü aşağıdaki üyeleri ortaya çıkarır:
 | Mülk| Tanım|
 | :- | :- |
 | [connection_id](/cells/python-net/tr/aspose.cells/querytable/connection_id) | Sorgu tablosunun bağlantı kimliğini alır.|
-| [external_connection](/cells/python-net/tr/aspose.cells/querytable/external_connection) | İlgili harici bağlantıyı alır.|
-| [name](/cells/python-net/tr/aspose.cells/querytable/name) | Sorgulanabilirin adını alır.|
+| [external_connection](/cells/python-net/tr/aspose.cells/querytable/external_connection) | İlişkili dış bağlantıyı alır.|
+| [name](/cells/python-net/tr/aspose.cells/querytable/name) |Sorgu tablosunun adını alır.|
 | [result_range](/cells/python-net/tr/aspose.cells/querytable/result_range) | Sonucun aralığını alır.|
 | [preserve_formatting](/cells/python-net/tr/aspose.cells/querytable/preserve_formatting) | Nesnenin PreserveFormatting'ini döndürür veya ayarlar.|
-| [adjust_column_width](/cells/python-net/tr/aspose.cells/querytable/adjust_column_width) | NesneninAdjustColumnWidth değerini döndürür veya ayarlar.|
+| [adjust_column_width](/cells/python-net/tr/aspose.cells/querytable/adjust_column_width) | Nesnenin AdjustColumnWidth değerini döndürür veya ayarlar.|
 
 
 

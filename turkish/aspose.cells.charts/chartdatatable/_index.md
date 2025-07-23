@@ -18,14 +18,16 @@ ChartDataTable türü aşağıdaki üyeleri ortaya çıkarır:
 | Mülk| Tanım|
 | :- | :- |
 | [font](/cells/python-net/tr/aspose.cells.charts/chartdatatable/font) | Belirtilen grafik veri tablosunun yazı tipi ayarını temsil eden [`ChartDataTable.font`](/cells/python-net/tr/aspose.cells.charts/chartdatatable#font) nesnesini alır.|
-| [auto_scale_font](/cells/python-net/tr/aspose.cells.charts/chartdatatable/auto_scale_font) | Nesne boyutu değiştiğinde nesnedeki metnin yazı tipi boyutu da değişirse doğrudur.<br/>Varsayılan değer Doğru'dur.|
+| [auto_scale_font](/cells/python-net/tr/aspose.cells.charts/chartdatatable/auto_scale_font) | Nesnenin boyutu değiştiğinde nesnedeki metnin yazı tipi boyutu da değişiyorsa doğrudur.<br/> Varsayılan değer True'dur.|
 | [background_mode](/cells/python-net/tr/aspose.cells.charts/chartdatatable/background_mode) | Arka planın görüntüleme modunu alır ve ayarlar|
-| [background](/cells/python-net/tr/aspose.cells.charts/chartdatatable/background) | Arka planın görüntüleme modunu alır ve ayarlar|
 | [has_border_horizontal](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_border_horizontal) | Grafik veri tablosunun yatay hücre sınırları varsa doğrudur|
-| [has_border_vertical](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_border_vertical) | Grafik veri tablosunun dikey hücre sınırları varsa doğrudur|
-| [has_border_outline](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_border_outline) | Grafik veri tablosunun anahat sınırları varsa doğrudur|
-| [show_legend_key](/cells/python-net/tr/aspose.cells.charts/chartdatatable/show_legend_key) | Veri etiketi açıklama anahtarı görünür durumdaysa doğrudur.|
-| [border](/cells/python-net/tr/aspose.cells.charts/chartdatatable/border) | Nesnenin kenarlığını temsil eden bir Border nesnesi döndürür|
+| [has_horizontal_border](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_horizontal_border) | Grafik veri tablosunun yatay hücre sınırları varsa doğrudur|
+| [has_border_vertical](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_border_vertical) |Grafik veri tablosunun dikey hücre sınırları varsa doğrudur|
+| [has_vertical_border](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_vertical_border) |Grafik veri tablosunun dikey hücre sınırları varsa doğrudur|
+| [has_border_outline](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_border_outline) | Grafik veri tablosunun dış hatları varsa doğrudur|
+| [has_outline_border](/cells/python-net/tr/aspose.cells.charts/chartdatatable/has_outline_border) | Grafik veri tablosunun dış hatları varsa doğrudur|
+| [show_legend_key](/cells/python-net/tr/aspose.cells.charts/chartdatatable/show_legend_key) | Veri etiketi efsane anahtarı görünür durumdaysa doğrudur.|
+| [border](/cells/python-net/tr/aspose.cells.charts/chartdatatable/border) | Nesnenin sınırını temsil eden bir Border nesnesi döndürür|
 
 
 

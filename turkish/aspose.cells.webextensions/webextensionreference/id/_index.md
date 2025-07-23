@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  id mülk
 
-Bir katalog sağlayıcı içinde Office Eklentisi ile ilişkili tanımlayıcıyı alır ve ayarlar.
-Tanımlayıcı, bir katalog sağlayıcı içinde benzersiz OLMALIDIR.
+Bir katalog sağlayıcısı içindeki Office Eklentisi ile ilişkili tanımlayıcıyı alır ve ayarlar.
+Tanımlayıcı, katalog sağlayıcısı içinde benzersiz OLMALIDIR.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def id(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionReference](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionReference`](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference)

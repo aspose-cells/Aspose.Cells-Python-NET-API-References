@@ -7,12 +7,13 @@ weight: 290
 url: /tr/aspose.cells/settableglobalizationsettings/set_boolean_value_string/
 is_root: false
 ---
-##  set_boolean_value_string {#bool-str}
-Hücrenin boole değeri için görüntüleme dizesi değerini ayarlar
+##  set_boolean_value_string(self, bv, name) {#bool-str}
+Hücrenin Boole değeri için görüntüleme dizesi değerini ayarlar
 
 
 
 ```python
+
 def set_boolean_value_string(self, bv, name):
     ...
 ```
@@ -21,7 +22,7 @@ def set_boolean_value_string(self, bv, name):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | bv | bool | Boole değeri|
-| name | str | boolean değerinin dize değeri|
+| name | str | Boolean değerinin dize değeri|
 
 
 

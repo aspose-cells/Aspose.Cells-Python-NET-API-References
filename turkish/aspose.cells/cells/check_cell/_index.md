@@ -7,17 +7,18 @@ weight: 60
 url: /tr/aspose.cells/cells/check_cell/
 is_root: false
 ---
-##  check_cell(row, column) {#int-int}
-Belirtilen hücre satır dizini ve sütun dizininde [Cell](/cells/python-net/tr/aspose.cells/cell) öğesini veya boş değeri alır.
+##  check_cell(self, row, column) {#int-int}
+Belirtilen hücre satır dizini ve sütun dizinindeki [`Cell`](/cells/python-net/tr/aspose.cells/cell) öğesini veya null değerini alır.
 
 
 ###  İadeler
 
-Bir Cell nesnesi varsa, Cell nesnesini döndür.
-Hücre yoksa null döndürür.
+Cell nesnesi varsa Cell nesnesini döndür.
+Hücre yoksa null değerini döndür.
 
 
 ```python
+
 def check_cell(self, row, column):
     ...
 ```
@@ -31,6 +32,6 @@ def check_cell(self, row, column):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

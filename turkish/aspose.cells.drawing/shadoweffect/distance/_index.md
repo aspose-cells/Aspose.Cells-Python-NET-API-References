@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  distance mülk
 
-Gölgenin distance değerini alır ve ayarlar. 0 ila 200 puan aralığındadır.
+Gölgenin distance değerini alır ve ayarlar. 0 ile 200 puan arasında değişir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def distance(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShadowEffect](/cells/python-net/tr/aspose.cells.drawing/shadoweffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShadowEffect`](/cells/python-net/tr/aspose.cells.drawing/shadoweffect)

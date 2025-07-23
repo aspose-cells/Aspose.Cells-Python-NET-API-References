@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_crop mülk
 
-Görüntünün genişliğinin oranı olarak ifade edilen, kırpma dikdörtgeninin sağındaki konumunu temsil eder.
+Görüntünün genişliğine oranla ifade edilen kırpma dikdörtgeninin sağ tarafının konumunu temsil eder.
 ###  Tanım:
 ```python
 @property

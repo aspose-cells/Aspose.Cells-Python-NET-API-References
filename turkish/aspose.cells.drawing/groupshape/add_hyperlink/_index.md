@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells.drawing/groupshape/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink(address) {#str}
+##  add_hyperlink(self, address) {#str}
 Şekle bir köprü ekler.
 
 
 ###  İadeler
 
-Yeni köprü nesnesini döndürün.
+Yeni köprü nesnesini döndür.
 
 
 ```python
+
 def add_hyperlink(self, address):
     ...
 ```
@@ -24,7 +25,7 @@ def add_hyperlink(self, address):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| address | str | Köprünün adresi.|
+| address | str | Bağlantının adresi.|
 
 ###  Örnek
 
@@ -37,5 +38,5 @@ hyperlink = shape.add_hyperlink("https://www.aspose.com/")
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GroupShape](/cells/python-net/tr/aspose.cells.drawing/groupshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GroupShape`](/cells/python-net/tr/aspose.cells.drawing/groupshape)

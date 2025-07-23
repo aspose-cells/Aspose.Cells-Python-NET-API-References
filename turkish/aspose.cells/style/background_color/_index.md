@@ -13,8 +13,8 @@ Bir stilin arka plan rengini alır veya ayarlar.
 
 ###  Notlar
 
- Bir hücrenin rengini ayarlamak istiyorsanız, lütfen Style.ForegroundColor özelliğini kullanın.
-Yalnızca hücre stili deseni hiçbiri veya katı dışındaysa, bu özellik geçerli olacaktır.
+ Bir hücrenin rengini ayarlamak istiyorsanız lütfen Style.ForegroundColor özelliğini kullanın.
+Yalnızca hücre stili deseni hiçbiri veya katı dışında bir değerse bu özellik geçerli olur.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def background_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

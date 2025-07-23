@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells.tables/listobjectcollection/add/
 is_root: false
 ---
-##  add(start_cell, end_cell, has_headers) {#str-str-bool}
+##  add(self, start_cell, end_cell, has_headers) {#str-str-bool}
 Çalışma sayfasına bir ListObject ekler.
 
 
 ###  İadeler
 
-Yeni ListObject dizini
+Yeni ListObject'in dizini
 
 
 ```python
+
 def add(self, start_cell, end_cell, has_headers):
     ...
 ```
@@ -24,21 +25,22 @@ def add(self, start_cell, end_cell, has_headers):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| start_cell | str | Liste aralığının başlangıç hücresi.|
-| end_cell | str | Liste aralığının bitiş hücresi.|
-| has_headers | bool | Aralığın başlıkları olup olmadığı.|
+| start_cell | str |Liste aralığının başlangıç hücresi.|
+| end_cell | str | Liste aralığının son hücresi.|
+| has_headers | bool | Aralığın başlıkları var mı?|
 
 
-##  add(start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
+##  add(self, start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
 Çalışma sayfasına bir ListObject ekler.
 
 
 ###  İadeler
 
-Yeni ListObject dizini
+Yeni ListObject'in dizini
 
 
 ```python
+
 def add(self, start_row, start_column, end_row, end_column, has_headers):
     ...
 ```
@@ -50,10 +52,10 @@ def add(self, start_row, start_column, end_row, end_column, has_headers):
 | start_column | int | Liste aralığının başlangıç satırı.|
 | end_row | int | Liste aralığının başlangıç satırı.|
 | end_column | int | Liste aralığının başlangıç satırı.|
-| has_headers | bool | Aralığın başlıkları olup olmadığı.|
+| has_headers | bool | Aralığın başlıkları var mı?|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [ListObjectCollection](/cells/python-net/tr/aspose.cells.tables/listobjectcollection)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`ListObjectCollection`](/cells/python-net/tr/aspose.cells.tables/listobjectcollection)

@@ -10,7 +10,7 @@ is_root: false
 ##  has_up_down_bars mülk
 
 Çizgi grafiğinde yukarı ve aşağı çubuklar varsa doğrudur.
-Yalnızca çizgi grafikleri için geçerlidir.
+Sadece çizgi grafikler için geçerlidir.
 ###  Tanım:
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells/style/get_two_color_gradient_setting/
 is_root: false
 ---
-##  get_two_color_gradient_setting() {#}
-İki renkli gradyan ayarını alın.
+##  get_two_color_gradient_setting(self) {#}
+İki renkli degrade ayarını edinin.
 
 
 
 ```python
+
 def get_two_color_gradient_setting(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_two_color_gradient_setting(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

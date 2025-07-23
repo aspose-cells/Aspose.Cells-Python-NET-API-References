@@ -8,21 +8,21 @@ url: /tr/aspose.cells.webextensions/webextensionreference/
 is_root: false
 ---
 ##  WebExtensionReference sınıfı
-Uzantının sağlayıcı konumunu ve sürümünü tanımlamayı temsil eder.
+Sağlayıcının konumunu ve uzantının sürümünü belirtir.
 
 
 
-WebExtensionReference türü aşağıdaki üyeleri gösterir:
+WebExtensionReference türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [id](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference/id) | Bir katalog sağlayıcı içinde Office Eklentisi ile ilişkili tanımlayıcıyı alır ve ayarlar.<br/> Tanımlayıcı, bir katalog sağlayıcı içinde benzersiz OLMALIDIR.|
+| [id](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference/id) | Bir katalog sağlayıcısı içindeki Office Eklentisi ile ilişkili tanımlayıcıyı alır ve ayarlar.<br/> Tanımlayıcı, katalog sağlayıcısı içinde benzersiz OLMALIDIR.|
 | [version](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference/version) | Sürümü alır ve ayarlar.|
-| [store_name](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference/store_name) | Office Eklentisinin depolandığı pazar yeri örneğini alır ve ayarlar. .|
-| [store_type](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference/store_type) | Store özniteliğinin tanımladığı pazar yeri türünü alır ve ayarlar.|
+| [store_name](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference/store_name) | Office Eklentisinin depolandığı pazaryerinin örneğini alır ve ayarlar.|
+| [store_type](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference/store_type) | Mağaza niteliğinin tanımladığı pazaryeri türünü alır ve ayarlar.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](..)
+* modül [`aspose.cells.webextensions`](..)

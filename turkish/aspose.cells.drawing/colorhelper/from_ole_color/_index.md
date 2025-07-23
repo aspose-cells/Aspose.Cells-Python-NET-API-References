@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells.drawing/colorhelper/from_ole_color/
 is_root: false
 ---
-##  from_ole_color(ole_color) {#int}
-OLE_COLOR'u dönüştürün.
+##  from_ole_color(, ole_color){#int}
+OLE_COLOR'u dönüştür.
 
 
 ###  İadeler
@@ -17,17 +17,19 @@ Renk nesnesi.
 
 
 ```python
-def from_ole_color(self, ole_color):
+
+@staticmethod
+def from_ole_color(ole_color):
     ...
 ```
 
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| ole_color | int |OLE_COLOR değeri.|
+| ole_color | int | OLE_COLOR değeri.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ColorHelper](/cells/python-net/tr/aspose.cells.drawing/colorhelper)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ColorHelper`](/cells/python-net/tr/aspose.cells.drawing/colorhelper)

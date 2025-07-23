@@ -3,7 +3,7 @@ title: paper_size mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 390
 url: /tr/aspose.cells/workbooksettings/paper_size/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Varsayılan yazdırma kağıdı boyutunu alır ve ayarlar.
 
 ###  Notlar
 
-Kağıt boyutu ile ilgili bir ayar yoksa MS Excel varsayılan yazıcı ayarını kullanacaktır.
+Kağıt boyutuyla ilgili bir ayar yoksa, MS Excel varsayılan yazıcı ayarını kullanacaktır.
 ###  Tanım:
 ```python
 @property

@@ -3,13 +3,13 @@ title: hyperlinks mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 350
+weight: 450
 url: /tr/aspose.cells/range/hyperlinks/
 is_root: false
 ---
 ##  hyperlinks mülk
 
-Aralıktaki tüm köprüleri alır.
+Aralıktaki tüm hiper bağlantıları alır.
 ###  Tanım:
 ```python
 @property

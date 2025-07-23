@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  legend_entry mülk
 
-Bu trend çizgisine göre gösterge girişini alır
+Bu trend çizgisine göre efsane girişini alır
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def legend_entry(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [LegendEntry](/cells/python-net/tr/aspose.cells.charts/legendentry)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`LegendEntry`](/cells/python-net/tr/aspose.cells.charts/legendentry)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

@@ -3,7 +3,7 @@ title: case_sensitive mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 70
 url: /tr/aspose.cells/datasorter/case_sensitive/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def case_sensitive(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataSorter](/cells/python-net/tr/aspose.cells/datasorter)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataSorter`](/cells/python-net/tr/aspose.cells/datasorter)

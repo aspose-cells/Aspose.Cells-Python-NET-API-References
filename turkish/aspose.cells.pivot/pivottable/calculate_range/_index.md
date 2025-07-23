@@ -7,12 +7,13 @@ weight: 50
 url: /tr/aspose.cells.pivot/pivottable/calculate_range/
 is_root: false
 ---
-##  calculate_range() {#}
-Pivot tablonun aralığını hesaplar.
+##  calculate_range(self) {#}
+Pivottable'ın aralığını hesaplar.
 
 
 
 ```python
+
 def calculate_range(self):
     ...
 ```
@@ -20,10 +21,10 @@ def calculate_range(self):
 
 ###  Notlar
 
-Bu yöntem çağrılmazsa, pivot tablo aralığı düzeltilmemiş olabilir.
+Eğer bu metot çağrılmazsa pivottable aralığı düzeltilemeyebilir.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

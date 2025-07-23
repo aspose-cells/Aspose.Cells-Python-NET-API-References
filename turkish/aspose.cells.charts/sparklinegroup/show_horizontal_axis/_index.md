@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  show_horizontal_axis mülk
 
-Mini grafik yatay ekseninin gösterilip gösterilmeyeceğini belirtir.
-Mini grafikte sıfır eksenini geçen veriler varsa yatay eksen görünür.
+Kıvılcım çizgisinin yatay ekseninin gösterilip gösterilmeyeceğini belirtir.
+Kıvılcım çizgisi sıfır eksenini geçen veriler içeriyorsa yatay eksen görünür.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def show_horizontal_axis(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

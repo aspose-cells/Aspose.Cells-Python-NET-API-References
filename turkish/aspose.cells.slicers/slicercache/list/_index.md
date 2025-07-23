@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list mülk
 
-Belirtilen dilimleyici önbelleğiyle ilişkili dilimleyicinin OLAP Olmayan bir veri kaynağına dayalı olup olmadığını döndürür. Sadece oku
+Belirtilen dilimleyici önbelleğiyle ilişkili dilimleyicinin OLAP dışı bir veri kaynağına dayalı olup olmadığını döndürür. Salt okunur
 
 ###  Örnek
 
@@ -26,5 +26,5 @@ def list(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [SlicerCache](/cells/python-net/tr/aspose.cells.slicers/slicercache)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`SlicerCache`](/cells/python-net/tr/aspose.cells.slicers/slicercache)

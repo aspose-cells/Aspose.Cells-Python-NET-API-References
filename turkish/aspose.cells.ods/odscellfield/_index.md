@@ -8,21 +8,21 @@ url: /tr/aspose.cells.ods/odscellfield/
 is_root: false
 ---
 ##  OdsCellField sınıfı
-ods hücre alanını temsil eder.
+Ods hücre alanını temsil eder.
 
 
 
-OdsCellField türü aşağıdaki üyeleri gösterir:
+OdsCellField türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [custom_format](/cells/python-net/tr/aspose.cells.ods/odscellfield/custom_format) | Alan değerinin özel biçimini temsil eder.|
+| [custom_format](/cells/python-net/tr/aspose.cells.ods/odscellfield/custom_format) | Alanın değerinin özel biçimini temsil eder.|
 | [field_type](/cells/python-net/tr/aspose.cells.ods/odscellfield/field_type) | Alanın türünü alır ve ayarlar.|
-| [row](/cells/python-net/tr/aspose.cells.ods/odscellfield/row) | Al ve hücrenin satır dizinini ayarlar.|
-| [column](/cells/python-net/tr/aspose.cells.ods/odscellfield/column) | Hücrenin sütun dizinini alın ve ayarlar.|
+| [row](/cells/python-net/tr/aspose.cells.ods/odscellfield/row) | Hücrenin satır indeksini alır ve ayarlar.|
+| [column](/cells/python-net/tr/aspose.cells.ods/odscellfield/column) |Hücrenin sütun indeksini alır ve ayarlar.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](..)
+* modül [`aspose.cells.ods`](..)

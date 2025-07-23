@@ -7,12 +7,13 @@ weight: 310
 url: /tr/aspose.cells/settableglobalizationsettings/set_comment_title_name/
 is_root: false
 ---
-##  set_comment_title_name {#aspose.cells.rendering.CommentTitleType-str}
-Yorum başlığı türüne göre yerel ayara bağlı yorum başlığı adını alır.
+##  set_comment_title_name(self, type, name) {#aspose.cells.rendering.CommentTitleType-str}
+Yorum başlığı türüne göre yerel ayarlara bağlı yorum başlığı adını alır.
 
 
 
 ```python
+
 def set_comment_title_name(self, type, name):
     ...
 ```
@@ -20,8 +21,8 @@ def set_comment_title_name(self, type, name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | aspose.cells.rendering.CommentTitleType | yorum başlığı türü|
-| name | str | yerel ayara bağlı yorum başlığı adı|
+| type | aspose.cells.rendering.CommentTitleType | yorum başlığının türü|
+| name | str | yerel ayarlara bağlı yorum başlığı adı|
 
 
 

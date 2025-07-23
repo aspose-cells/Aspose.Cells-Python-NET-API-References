@@ -3,13 +3,13 @@ title: refresh_data_on_opening_file mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 800
+weight: 910
 url: /tr/aspose.cells.pivot/pivottable/refresh_data_on_opening_file/
 is_root: false
 ---
 ##  refresh_data_on_opening_file mülk
 
-Dosya Açılırken Verilerin Yenilenip Yenilenmeyeceğini belirtir.
+Dosyayı Açarken Verileri Yenile'yi belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def refresh_data_on_opening_file(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

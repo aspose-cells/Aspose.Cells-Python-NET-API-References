@@ -7,9 +7,9 @@ weight: 230
 url: /tr/aspose.cells/globalizationsettings/get_table_row_type_of_all/
 is_root: false
 ---
-##  get_table_row_type_of_all {#}
+##  get_table_row_type_of_all(self) {#}
 Başvurulan tablodaki tüm satırlardan oluşan tablo satırlarının tür adını alır.
-Varsayılan "Tümü" olduğundan formülde "#Tümü" başvurulan tablodaki tüm satırları temsil eder.
+Varsayılan "Tümü"dür, dolayısıyla formülde "#Tümü" referans alınan tablodaki tüm satırları temsil eder.
 
 
 ###  İadeler
@@ -18,6 +18,7 @@ tablo satırlarının tür adı
 
 
 ```python
+
 def get_table_row_type_of_all(self):
     ...
 ```

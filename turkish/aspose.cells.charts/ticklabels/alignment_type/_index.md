@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment_type mülk
 
-Eksen üzerindeki onay etiketleri için metin hizalamasını alır ve ayarlar.
+Eksen üzerindeki tik etiketleri için metin hizalamasını alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

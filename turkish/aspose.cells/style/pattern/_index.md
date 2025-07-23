@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pattern mülk
 
-Hücre arka planı pattern türünü alır veya ayarlar.
+Hücre arka plan türünü alır veya ayarlar pattern.
 ###  Tanım:
 ```python
 @property

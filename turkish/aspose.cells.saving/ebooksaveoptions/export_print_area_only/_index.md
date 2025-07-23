@@ -3,13 +3,13 @@ title: export_print_area_only mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 330
+weight: 390
 url: /tr/aspose.cells.saving/ebooksaveoptions/export_print_area_only/
 is_root: false
 ---
 ##  export_print_area_only mülk
 
-Yazdırma alanının yalnızca html dosyasına aktarılıp aktarılmayacağını belirtir. Varsayılan değer false'tur.
+Yalnızca yazdırma alanının HTML dosyasına aktarılacağını belirtir. Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property

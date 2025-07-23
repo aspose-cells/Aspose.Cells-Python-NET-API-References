@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hide_selection mülk
 
-Denetimin odak noktası olmadığında, denetimdeki seçili metnin vurgulanmış olarak görünüp görünmediğini belirtir.
+Kontrolde odak olmadığında seçili metnin vurgulanmış olarak görünüp görünmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def hide_selection(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ComboBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ComboBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

@@ -3,13 +3,13 @@ title: is_text_wrapped mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 650
+weight: 660
 url: /tr/aspose.cells.drawing/button/is_text_wrapped/
 is_root: false
 ---
 ##  is_text_wrapped mülk
 
-Metin içeren şeklin metin sarma türünü alır ve ayarlar.
+Metni içeren şeklin metin sarma türünü alır ve ayarlar.
 
 ###  Örnek
 

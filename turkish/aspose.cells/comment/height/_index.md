@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height mülk
 
-Yorumun Yüksekliğini piksel birimi cinsinden temsil eder.
+Yorumun yüksekliğini piksel cinsinden temsil eder.
 
 ###  Örnek
 

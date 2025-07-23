@@ -7,27 +7,29 @@ weight: 80
 url: /tr/aspose.cells/fileformatutil/save_format_to_extension/
 is_root: false
 ---
-##  save_format_to_extension(format) {#SaveFormat}
-Kaydetme biçimi numaralandırılmış değerini bir dosya uzantısına dönüştürür.
+##  save_format_to_extension(, biçim){#aspose.cells.SaveFormat}
+Kayıt biçiminde numaralandırılmış bir değeri dosya uzantısına dönüştürür.
 
 
 ###  İadeler
 
-Döndürülen uzantı, başında nokta bulunan küçük harfli bir dizedir.
+Dönen uzantı, başında bir nokta bulunan küçük harfli bir dizedir.
 
 
 ```python
-def save_format_to_extension(self, format):
+
+@staticmethod
+def save_format_to_extension(format):
     ...
 ```
 
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| format | [SaveFormat](/cells/python-net/tr/aspose.cells/saveformat) | Kaydetme biçimi.|
+| format | [`SaveFormat`](/cells/python-net/tr/aspose.cells/saveformat) | Kaydetme biçimi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FileFormatUtil](/cells/python-net/tr/aspose.cells/fileformatutil)
+* modül [`aspose.cells`](../../)
+* sınıf [`FileFormatUtil`](/cells/python-net/tr/aspose.cells/fileformatutil)

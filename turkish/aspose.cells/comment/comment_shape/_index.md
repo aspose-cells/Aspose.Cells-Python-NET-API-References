@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  comment_shape mülk
 
-Belirtilen açıklamaya eklenen şekli temsil eden bir Shape nesnesi alın.
+Belirtilen yoruma eklenen şekli temsil eden bir Şekil nesnesi alın.
 
 ###  Örnek
 

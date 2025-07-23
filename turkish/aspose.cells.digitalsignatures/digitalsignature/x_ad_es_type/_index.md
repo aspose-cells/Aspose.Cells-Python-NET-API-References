@@ -3,14 +3,14 @@ title: x_ad_es_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 110
 url: /tr/aspose.cells.digitalsignatures/digitalsignature/x_ad_es_type/
 is_root: false
 ---
 ##  x_ad_es_type mülk
 
 XAdES türü.
-Varsayılan değer Yok'tur (XAdES kapalıdır).
+Varsayılan değer None'dur (XAdES kapalıdır).
 ###  Tanım:
 ```python
 @property
@@ -22,6 +22,6 @@ def x_ad_es_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.digitalsignatures](../../)
-* sınıf [DigitalSignature](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignature)
-* sınıf [XAdESType](/cells/python-net/tr/aspose.cells.digitalsignatures/xadestype)
+* modül [`aspose.cells.digitalsignatures`](../../)
+* sınıf [`DigitalSignature`](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignature)
+* sınıf [`XAdESType`](/cells/python-net/tr/aspose.cells.digitalsignatures/xadestype)

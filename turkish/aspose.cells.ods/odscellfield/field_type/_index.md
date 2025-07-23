@@ -21,6 +21,6 @@ def field_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](../../)
-* sınıf [OdsCellField](/cells/python-net/tr/aspose.cells.ods/odscellfield)
-* sınıf [OdsCellFieldType](/cells/python-net/tr/aspose.cells.ods/odscellfieldtype)
+* modül [`aspose.cells.ods`](../../)
+* sınıf [`OdsCellField`](/cells/python-net/tr/aspose.cells.ods/odscellfield)
+* sınıf [`OdsCellFieldType`](/cells/python-net/tr/aspose.cells.ods/odscellfieldtype)

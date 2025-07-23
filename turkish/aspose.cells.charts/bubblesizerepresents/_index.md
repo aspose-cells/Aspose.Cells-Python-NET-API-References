@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/bubblesizerepresents/
 is_root: false
 ---
 ##  BubbleSizeRepresents numaralandırma
-Kabarcık boyutunun kabarcık grafiğinde neyi temsil ettiğini temsil eder.
+Bir balon grafiğinde balon boyutunun neyi temsil ettiğini gösterir.
 
 
 
@@ -17,8 +17,8 @@ BubbleSizeRepresents türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| SIZE_IS_AREA | [`Series.bubble_sizes`](/cells/python-net/tr/aspose.cells.charts/series#bubble_sizes) değerini temsil eden balonun alanıdır.|
-| SIZE_IS_WIDTH | [`Series.bubble_sizes`](/cells/python-net/tr/aspose.cells.charts/series#bubble_sizes) değerini temsil eden balonun genişliğidir.|
+| SIZE_IS_AREA | [`Series.bubble_sizes`](/cells/python-net/tr/aspose.cells.charts/series#bubble_sizes) balonun alanını temsil eder.|
+| SIZE_IS_WIDTH | [`Series.bubble_sizes`](/cells/python-net/tr/aspose.cells.charts/series#bubble_sizes) değeri baloncuğun genişliğini temsil eder.|
 
 
 

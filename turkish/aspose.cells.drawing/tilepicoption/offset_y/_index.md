@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  offset_y mülk
 
-Resim döşeme için Y ofsetini alır veya ayarlar.
+Resim döşemek için Y ofsetini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def offset_y(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TilePicOption](/cells/python-net/tr/aspose.cells.drawing/tilepicoption)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TilePicOption`](/cells/python-net/tr/aspose.cells.drawing/tilepicoption)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_iteration mülk
 
-Döngüsel bir başvuruyu çözmek için maksimum yineleme.
+Dairesel bir referansı çözmek için gereken maksimum yineleme sayısı.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_iteration(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormulaSettings](/cells/python-net/tr/aspose.cells/formulasettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormulaSettings`](/cells/python-net/tr/aspose.cells/formulasettings)

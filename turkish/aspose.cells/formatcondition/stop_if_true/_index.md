@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  stop_if_true mülk
 
-Doğru, bu kural doğru olarak değerlendirildiğinde, daha düşük önceliğe sahip hiçbir kural bu kurala uygulanamaz.
-Yalnızca Excel 2007 için geçerlidir;
+Doğru, bu kural doğru olarak değerlendirildiğinde, bu kurala daha düşük önceliğe sahip hiçbir kural uygulanamaz.
+Sadece Excel 2007 için geçerlidir;
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def stop_if_true(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormatCondition](/cells/python-net/tr/aspose.cells/formatcondition)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormatCondition`](/cells/python-net/tr/aspose.cells/formatcondition)

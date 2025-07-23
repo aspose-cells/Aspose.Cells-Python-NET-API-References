@@ -3,7 +3,7 @@ title: capacity mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 130
 url: /tr/aspose.cells/namecollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [NameCollection](/cells/python-net/tr/aspose.cells/namecollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`NameCollection`](/cells/python-net/tr/aspose.cells/namecollection)

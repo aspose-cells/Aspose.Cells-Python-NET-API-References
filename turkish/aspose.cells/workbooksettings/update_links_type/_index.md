@@ -3,13 +3,13 @@ title: update_links_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 500
+weight: 520
 url: /tr/aspose.cells/workbooksettings/update_links_type/
 is_root: false
 ---
 ##  update_links_type mülk
 
-Çalışma kitabı açıldığında dış bağlantıların nasıl güncelleştirileceğini alır ve ayarlar.
+Çalışma kitabı açıldığında harici bağlantıların nasıl güncelleneceğini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

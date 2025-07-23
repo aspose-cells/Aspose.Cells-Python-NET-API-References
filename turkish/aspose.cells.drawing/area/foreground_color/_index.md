@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color mülk
 
-Ön plan Rengini alır veya ayarlar.
+Ön plan rengini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def foreground_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Area](/cells/python-net/tr/aspose.cells.drawing/area)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Area`](/cells/python-net/tr/aspose.cells.drawing/area)

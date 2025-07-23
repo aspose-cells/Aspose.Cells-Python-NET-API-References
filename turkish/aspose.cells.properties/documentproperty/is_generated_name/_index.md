@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_generated_name mülk
 
-Bu özelliğin OLE2 deposunda bir adı yoksa true değerini döndürür.
-ve yalnızca genel API için benzersiz bir ad oluşturuldu.
+Bu özelliğin OLE2 depolamasında bir adı yoksa doğruyu döndürür
+ve yalnızca herkese açık API isimli benzersiz bir isim üretildi.
 ###  Tanım:
 ```python
 @property
@@ -19,5 +19,5 @@ def is_generated_name(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty)

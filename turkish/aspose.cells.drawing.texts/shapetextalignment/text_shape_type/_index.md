@@ -3,13 +3,13 @@ title: text_shape_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 130
+weight: 140
 url: /tr/aspose.cells.drawing.texts/shapetextalignment/text_shape_type/
 is_root: false
 ---
 ##  text_shape_type mülk
 
-Metnin dönüştürme türünü alır ve ayarlar.
+Metnin dönüşüm türünü alır ve ayarlar.
 
 ###  Örnek
 
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [AutoShapeType](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)
-* sınıf [ShapeTextAlignment](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`AutoShapeType`](/cells/python-net/tr/aspose.cells.drawing/autoshapetype)
+* sınıf [`ShapeTextAlignment`](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)

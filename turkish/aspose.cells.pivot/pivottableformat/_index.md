@@ -3,12 +3,12 @@ title: PivotTableFormat sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 260
 url: /tr/aspose.cells.pivot/pivottableformat/
 is_root: false
 ---
 ##  PivotTableFormat sınıfı
-PivotTable'da tanımlanan biçimi temsil eder.
+PivotTable'da tanımlanan formatı temsil eder.
 
 
 
@@ -23,8 +23,8 @@ PivotTableFormat türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [get_style](/cells/python-net/tr/aspose.cells.pivot/pivottableformat/get_style/#) | Biçimlendirilmiş stili alır.|
-| [set_style](/cells/python-net/tr/aspose.cells.pivot/pivottableformat/set_style/#aspose.cells.Style) | Pivot alanının stilini ayarlar.|
+| [`get_style(self)`](/cells/python-net/tr/aspose.cells.pivot/pivottableformat/get_style/#) |Biçimlendirilmiş stili alır.|
+| [`set_style(self, style)`](/cells/python-net/tr/aspose.cells.pivot/pivottableformat/set_style/#aspose.cells.style) | Pivot alanının stilini ayarlar.|
 
 
 

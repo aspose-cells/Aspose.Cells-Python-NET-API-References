@@ -3,7 +3,7 @@ title: XpsSaveOptions sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1800
+weight: 1700
 url: /tr/aspose.cells/xpssaveoptions/
 is_root: false
 ---
@@ -12,9 +12,7 @@ Dosyayı Xps olarak kaydederken ek seçenekleri temsil eder.
 
 
 
-**Miras:** [`XpsSaveOptions`](/cells/python-net/aspose.cells/xpssaveoptions) → 
-[`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
-[`SaveOptions`](/cells/python-net/tr/aspose.cells/saveoptions)
+**Miras:** [`XpsSaveOptions`](/cells/python-net/tr/aspose.cells/xpssaveoptions)
 
 
 
@@ -23,47 +21,48 @@ XpsSaveOptions türü aşağıdaki üyeleri ortaya çıkarır:
 ###  İnşaatçılar
 | Oluşturucu| Tanım|
 | :- | :- |
-| [__init__](/cells/python-net/tr/aspose.cells/xpssaveoptions/__init__/#) | Xps dosyasını kaydetmek için seçenekler oluşturur.|
-| [__init__](/cells/python-net/tr/aspose.cells/xpssaveoptions/__init__/#aspose.cells.SaveFormat) | Xps dosyasını kaydetmek için seçenekler oluşturur.|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells/xpssaveoptions/__init__/#) | XPS dosyasını kaydetmek için seçenekler oluşturur.|
+| [`__init__(self, save_format)`](/cells/python-net/tr/aspose.cells/xpssaveoptions/__init__/#aspose.cells.saveformat) | XPS dosyasını kaydetmek için seçenekler oluşturur.|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [save_format](/cells/python-net/tr/aspose.cells/xpssaveoptions/save_format) | Kaydetme dosyası formatını alır.|
-| [clear_data](/cells/python-net/tr/aspose.cells/xpssaveoptions/clear_data) | Dosyayı kaydettikten sonra çalışma kitabını boşaltın.|
-| [cached_file_folder](/cells/python-net/tr/aspose.cells/xpssaveoptions/cached_file_folder) | Önbelleğe alınmış dosya klasörü bazı büyük verileri depolamak için kullanılır.|
-| [validate_merged_areas](/cells/python-net/tr/aspose.cells/xpssaveoptions/validate_merged_areas) | Dosyayı kaydetmeden önce birleştirilmiş hücrelerin doğrulanıp doğrulanmayacağını belirtir.|
-| [merge_areas](/cells/python-net/tr/aspose.cells/xpssaveoptions/merge_areas) | Dosyayı kaydetmeden önce koşullu biçimlendirme ve doğrulama alanlarının birleştirilip birleştirilmeyeceğini belirtir.|
-| [create_directory](/cells/python-net/tr/aspose.cells/xpssaveoptions/create_directory) | Doğruysa ve dizin mevcut değilse, dosya kaydedilmeden önce dizin otomatik olarak oluşturulacaktır.|
-| [sort_names](/cells/python-net/tr/aspose.cells/xpssaveoptions/sort_names) | Dosyayı kaydetmeden önce tanımlı adların sıralanıp sıralanmayacağını belirtir.|
-| [sort_external_names](/cells/python-net/tr/aspose.cells/xpssaveoptions/sort_external_names) | Dosyayı kaydetmeden önce harici tanımlı adların sıralanıp sıralanmayacağını belirtir.|
-| [refresh_chart_cache](/cells/python-net/tr/aspose.cells/xpssaveoptions/refresh_chart_cache) | Grafik önbellek verilerinin yenilenip yenilenmeyeceğini belirtir|
-| [warning_callback](/cells/python-net/tr/aspose.cells/xpssaveoptions/warning_callback) | Uyarı geri aramasını alır veya ayarlar.|
-| [update_smart_art](/cells/python-net/tr/aspose.cells/xpssaveoptions/update_smart_art) | Smart art ayarının güncellenip güncellenmeyeceğini belirtir.<br/> Varsayılan değer false'tur.|
-| [default_font](/cells/python-net/tr/aspose.cells/xpssaveoptions/default_font) | Excel'deki karakterler Unicode olduğunda ve hücre stilinde doğru yazı tipiyle ayarlanmadığında,<br/>PDF, resimde blok olarak görünebilirler.<br/>Bu karakterleri göstermek için MingLiu veya MS Gotik gibi Varsayılan Yazı Tipini ayarlayın.<br/> Bu özellik ayarlanmazsa, Aspose.Cells bu unicode karakterleri göstermek için sistem varsayılan yazı tipini kullanır.|
-| [check_workbook_default_font](/cells/python-net/tr/aspose.cells/xpssaveoptions/check_workbook_default_font) | Excel'deki karakterler Unicode olduğunda ve hücre stilinde doğru yazı tipiyle ayarlanmadığında,<br/>PDF, resimde blok olarak görünebilirler.<br/> Önce bu karakterleri göstermek amacıyla çalışma kitabının varsayılan yazı tipini kullanmayı denemek için bunu true olarak ayarlayın.|
-| [check_font_compatibility](/cells/python-net/tr/aspose.cells/xpssaveoptions/check_font_compatibility) | Metindeki her karakter için yazı tipi uyumluluğunun kontrol edilip edilmeyeceğini belirtir.|
-| [is_font_substitution_char_granularity](/cells/python-net/tr/aspose.cells/xpssaveoptions/is_font_substitution_char_granularity) |Yalnızca hücre yazı tipi uyumlu olmadığında karakterin yazı tipinin değiştirilip değiştirilmeyeceğini belirtir.|
-| [one_page_per_sheet](/cells/python-net/tr/aspose.cells/xpssaveoptions/one_page_per_sheet) | OnePagePerSheet true olursa, sonuçta bir sayfanın tüm içeriği yalnızca bir sayfaya yazdırılır.<br/> Pagesetup'ın kağıt boyutu ve diğer pagesetup ayarları geçersiz olacaktır.<br/> hâlâ geçerli olacaktır.|
-| [all_columns_in_one_page_per_sheet](/cells/python-net/tr/aspose.cells/xpssaveoptions/all_columns_in_one_page_per_sheet) | AllColumnsInOnePagePerSheet true ise, sonuçta bir sayfanın tüm sütun içeriğinin çıktısı yalnızca bir sayfaya çıkar.<br/> Pagesetup'ın kağıt boyutunun genişliği göz ardı edilecek ve diğer pagesetup ayarları göz ardı edilecektir.<br/> hâlâ geçerli olacaktır.|
-| [ignore_error](/cells/python-net/tr/aspose.cells/xpssaveoptions/ignore_error) | Oluşturma sırasında hatayı gizlemeniz gerekip gerekmediğini belirtir.<br/> Hata; şekil, resim, grafik oluşturma vb. hatalar olabilir.|
-| [output_blank_page_when_nothing_to_print](/cells/python-net/tr/aspose.cells/xpssaveoptions/output_blank_page_when_nothing_to_print) | Yazdırılacak bir şey olmadığında boş sayfa çıktısının alınıp alınmayacağını belirtir.|
-| [page_index](/cells/python-net/tr/aspose.cells/xpssaveoptions/page_index) | Kaydedilecek ilk sayfanın 0 tabanlı dizinini alır veya ayarlar.|
-| [page_count](/cells/python-net/tr/aspose.cells/xpssaveoptions/page_count) | Kaydedilecek sayfa sayısını alır veya ayarlar.|
-| [printing_page_type](/cells/python-net/tr/aspose.cells/xpssaveoptions/printing_page_type) | Hangi sayfaların yazdırılmayacağını belirtir.|
-| [gridline_type](/cells/python-net/tr/aspose.cells/xpssaveoptions/gridline_type) | Kılavuz çizgisi türünü alır veya ayarlar.|
-| [text_cross_type](/cells/python-net/tr/aspose.cells/xpssaveoptions/text_cross_type) | Metin genişliği hücre genişliğinden büyük olduğunda görüntülenen metin türünü alır veya ayarlar.|
-| [default_edit_language](/cells/python-net/tr/aspose.cells/xpssaveoptions/default_edit_language) | Varsayılan düzenleme dilini alır veya ayarlar.|
-| [sheet_set](/cells/python-net/tr/aspose.cells/xpssaveoptions/sheet_set) |Oluşturulacak sayfaları alır veya ayarlar. Varsayılan, çalışma kitabındaki tüm görünür sayfalardır: [`SheetSet.visible`](/cells/python-net/tr/aspose.cells.rendering/sheetset#visible).|
-| [draw_object_event_handler](/cells/python-net/tr/aspose.cells/xpssaveoptions/draw_object_event_handler) | İşleme sırasında DrawObject ve Bound'u almak için bu arayüzü uygular.|
-| [page_saving_callback](/cells/python-net/tr/aspose.cells/xpssaveoptions/page_saving_callback) | Sayfa kaydetme işleminin ilerlemesini kontrol edin/gösterin.|
-| [emf_render_setting](/cells/python-net/tr/aspose.cells/xpssaveoptions/emf_render_setting) | Emf meta dosyasını işlemeye yönelik ayar.|
+| [save_format](/cells/python-net/tr/aspose.cells/xpssaveoptions/save_format) |  |
+| [clear_data](/cells/python-net/tr/aspose.cells/xpssaveoptions/clear_data) |  |
+| [cached_file_folder](/cells/python-net/tr/aspose.cells/xpssaveoptions/cached_file_folder) |  |
+| [validate_merged_areas](/cells/python-net/tr/aspose.cells/xpssaveoptions/validate_merged_areas) |  |
+| [merge_areas](/cells/python-net/tr/aspose.cells/xpssaveoptions/merge_areas) |  |
+| [create_directory](/cells/python-net/tr/aspose.cells/xpssaveoptions/create_directory) |  |
+| [sort_names](/cells/python-net/tr/aspose.cells/xpssaveoptions/sort_names) |  |
+| [sort_external_names](/cells/python-net/tr/aspose.cells/xpssaveoptions/sort_external_names) |  |
+| [refresh_chart_cache](/cells/python-net/tr/aspose.cells/xpssaveoptions/refresh_chart_cache) |  |
+| [check_excel_restriction](/cells/python-net/tr/aspose.cells/xpssaveoptions/check_excel_restriction) |  |
+| [update_smart_art](/cells/python-net/tr/aspose.cells/xpssaveoptions/update_smart_art) |  |
+| [encrypt_document_properties](/cells/python-net/tr/aspose.cells/xpssaveoptions/encrypt_document_properties) |  |
+| [default_font](/cells/python-net/tr/aspose.cells/xpssaveoptions/default_font) |  |
+| [check_workbook_default_font](/cells/python-net/tr/aspose.cells/xpssaveoptions/check_workbook_default_font) |  |
+| [check_font_compatibility](/cells/python-net/tr/aspose.cells/xpssaveoptions/check_font_compatibility) |  |
+| [is_font_substitution_char_granularity](/cells/python-net/tr/aspose.cells/xpssaveoptions/is_font_substitution_char_granularity) |  |
+| [one_page_per_sheet](/cells/python-net/tr/aspose.cells/xpssaveoptions/one_page_per_sheet) |  |
+| [all_columns_in_one_page_per_sheet](/cells/python-net/tr/aspose.cells/xpssaveoptions/all_columns_in_one_page_per_sheet) |  |
+| [ignore_error](/cells/python-net/tr/aspose.cells/xpssaveoptions/ignore_error) |  |
+| [output_blank_page_when_nothing_to_print](/cells/python-net/tr/aspose.cells/xpssaveoptions/output_blank_page_when_nothing_to_print) |  |
+| [page_index](/cells/python-net/tr/aspose.cells/xpssaveoptions/page_index) |  |
+| [page_count](/cells/python-net/tr/aspose.cells/xpssaveoptions/page_count) |  |
+| [printing_page_type](/cells/python-net/tr/aspose.cells/xpssaveoptions/printing_page_type) |  |
+| [gridline_type](/cells/python-net/tr/aspose.cells/xpssaveoptions/gridline_type) |  |
+| [gridline_color](/cells/python-net/tr/aspose.cells/xpssaveoptions/gridline_color) |  |
+| [text_cross_type](/cells/python-net/tr/aspose.cells/xpssaveoptions/text_cross_type) |  |
+| [default_edit_language](/cells/python-net/tr/aspose.cells/xpssaveoptions/default_edit_language) |  |
+| [sheet_set](/cells/python-net/tr/aspose.cells/xpssaveoptions/sheet_set) |  |
+| [draw_object_event_handler](/cells/python-net/tr/aspose.cells/xpssaveoptions/draw_object_event_handler) |  |
+| [page_saving_callback](/cells/python-net/tr/aspose.cells/xpssaveoptions/page_saving_callback) |  |
+| [emf_render_setting](/cells/python-net/tr/aspose.cells/xpssaveoptions/emf_render_setting) |  |
+| [custom_render_settings](/cells/python-net/tr/aspose.cells/xpssaveoptions/custom_render_settings) |  |
 
 
 
 ###  Ayrıca bakınız
 * modül [`aspose.cells`](..)
-* sınıf [`PaginatedSaveOptions`](/cells/python-net/tr/aspose.cells/paginatedsaveoptions)
-* sınıf [`SaveOptions`](/cells/python-net/tr/aspose.cells/saveoptions)
 * sınıf [`XpsSaveOptions`](/cells/python-net/tr/aspose.cells/xpssaveoptions)

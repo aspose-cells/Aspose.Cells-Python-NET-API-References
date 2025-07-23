@@ -7,22 +7,22 @@ weight: 10
 url: /tr/aspose.cells.vba/
 is_root: false
 ---
- bu**Aspose.Cells.Vba** ad alanı, Excel Elektronik Tablo dosyalarındaki Visual Basic Analysis projelerine ve modüllerine erişmek için sınıflar içerir.
+**Aspose.Cells.Vba** namespace, Excel Elektronik Tablo dosyalarındaki Visual Basic Analiz projelerine ve modüllerine erişmek için sınıflar içerir.
 
-###  sınıflar
+###  Sınıflar
 | Sınıf| Tanım|
 | :- | :- |
-| [VbaModule](/cells/python-net/tr/aspose.cells.vba/vbamodule) | VBA projesindeki modülü temsil eder.|
-| [VbaModuleCollection](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection) | [VbaModule](/cells/python-net/tr/aspose.cells.vba/vbamodule) listesini temsil eder |
-| [VbaProject](/cells/python-net/tr/aspose.cells.vba/vbaproject) | VBA projesini temsil eder.|
-| [VbaProjectReference](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference) |VBA projesinin referansını temsil eder.|
-| [VbaProjectReferenceCollection](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection) | VBA projesinin tüm referanslarını temsil eder.|
+| [`VbaModule`](/cells/python-net/tr/aspose.cells.vba/vbamodule) | VBA projesindeki modülü temsil eder.|
+| [`VbaModuleCollection`](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection) | [`VbaModule`](/cells/python-net/tr/aspose.cells.vba/vbamodule) listesini temsil eder |
+| [`VbaProject`](/cells/python-net/tr/aspose.cells.vba/vbaproject) | VBA projesini temsil eder.|
+| [`VbaProjectReference`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference) | VBA projesinin referansını temsil eder.|
+| [`VbaProjectReferenceCollection`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection) | VBA projesinin tüm referanslarını temsil eder.|
 
 
 ###  Numaralandırmalar
-|numaralandırma| Tanım|
+| Numaralandırma| Tanım|
 | :- | :- |
-| [VbaModuleType](/cells/python-net/tr/aspose.cells.vba/vbamoduletype) | VBA modülünün türünü temsil eder.|
-| [VbaProjectReferenceType](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencetype) | VBA proje başvurusunun türünü temsil eder.|
+| [`VbaModuleType`](/cells/python-net/tr/aspose.cells.vba/vbamoduletype) | VBA modülünün türünü temsil eder.|
+| [`VbaProjectReferenceType`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencetype) | VBA proje referansının türünü temsil eder.|
 
 

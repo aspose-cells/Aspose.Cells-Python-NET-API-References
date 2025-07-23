@@ -3,7 +3,7 @@ title: background_mode mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 50
+weight: 40
 url: /tr/aspose.cells.charts/chartdatatable/background_mode/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def background_mode(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [BackgroundMode](/cells/python-net/tr/aspose.cells.charts/backgroundmode)
-* sınıf [ChartDataTable](/cells/python-net/tr/aspose.cells.charts/chartdatatable)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`BackgroundMode`](/cells/python-net/tr/aspose.cells.charts/backgroundmode)
+* sınıf [`ChartDataTable`](/cells/python-net/tr/aspose.cells.charts/chartdatatable)

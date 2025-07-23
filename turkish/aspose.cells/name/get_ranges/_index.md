@@ -7,8 +7,8 @@ weight: 30
 url: /tr/aspose.cells/name/get_ranges/
 is_root: false
 ---
-##  get_ranges() {#}
-Bu adla anılan tüm aralıkları alır.
+##  get_ranges(self) {#}
+Bu isimle anılan tüm aralıkları alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Tüm aralıklar.
 
 
 ```python
+
 def get_ranges(self):
     ...
 ```
@@ -24,8 +25,8 @@ def get_ranges(self):
 
 
 
-##  get_ranges(recalculate) {#bool}
-Bu adla anılan tüm aralıkları alır.
+##  get_ranges(self, recalculate) {#bool}
+Bu isimle anılan tüm aralıkları alır.
 
 
 ###  İadeler
@@ -34,6 +35,7 @@ Tüm aralıklar.
 
 
 ```python
+
 def get_ranges(self, recalculate):
     ...
 ```
@@ -41,10 +43,10 @@ def get_ranges(self, recalculate):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| recalculate | bool | bu ad bu çağrıdan önce hesaplandıysa yeniden hesaplayın.|
+| recalculate | bool | Bu isim bu çağrıdan önce hesaplanmışsa yeniden hesaplansın mı?|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Name](/cells/python-net/tr/aspose.cells/name)
+* modül [`aspose.cells`](../../)
+* sınıf [`Name`](/cells/python-net/tr/aspose.cells/name)

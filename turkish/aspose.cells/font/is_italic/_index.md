@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_italic mülk
 
-Yazı tipinin italik olup olmadığını gösteren bir değer alır veya ayarlar.
+Yazı tipinin italik olup olmadığını belirten bir değer alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_italic(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)

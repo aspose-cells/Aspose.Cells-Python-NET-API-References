@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  x mülk
 
-Grafik genişliği oranında Ticklabel öğesinin X koordinatları.
+Ticklabel öğesinin grafik genişliğine oranındaki X koordinatları.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def x(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [TickLabelItem](/cells/python-net/tr/aspose.cells.charts/ticklabelitem)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`TickLabelItem`](/cells/python-net/tr/aspose.cells.charts/ticklabelitem)

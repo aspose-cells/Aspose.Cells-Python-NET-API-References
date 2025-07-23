@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  texture mülk
 
-texture dolgu türünü alır.
+texture doldurma tipini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def texture(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoFillFormat](/cells/python-net/tr/aspose.cells.drawing/msofillformat)
-* sınıf [TextureType](/cells/python-net/tr/aspose.cells.drawing/texturetype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoFillFormat`](/cells/python-net/tr/aspose.cells.drawing/msofillformat)
+* sınıf [`TextureType`](/cells/python-net/tr/aspose.cells.drawing/texturetype)

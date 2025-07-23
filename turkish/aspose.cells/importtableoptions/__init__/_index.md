@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/importtableoptions/__init__/
 is_root: false
 ---
-##  ImportTableOptions() {#}
+##  \_\_init\_\_(kendi){#}
 Varsayılan içe aktarma seçeneklerini oluşturur.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions)

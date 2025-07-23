@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  custom_format mülk
 
-Alan değerinin özel biçimini temsil eder.
+Alanın değerinin özel biçimini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def custom_format(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](../../)
-* sınıf [OdsCellField](/cells/python-net/tr/aspose.cells.ods/odscellfield)
+* modül [`aspose.cells.ods`](../../)
+* sınıf [`OdsCellField`](/cells/python-net/tr/aspose.cells.ods/odscellfield)

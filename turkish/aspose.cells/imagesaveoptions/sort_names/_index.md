@@ -3,13 +3,13 @@ title: sort_names mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 130
 url: /tr/aspose.cells/imagesaveoptions/sort_names/
 is_root: false
 ---
 ##  sort_names mülk
 
-Dosyayı kaydetmeden önce tanımlı adların sıralanıp sıralanmadığını gösterir.
+Dosyayı kaydetmeden önce tanımlanmış isimlerin sıralanıp sıralanmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def sort_names(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImageSaveOptions](/cells/python-net/tr/aspose.cells/imagesaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImageSaveOptions`](/cells/python-net/tr/aspose.cells/imagesaveoptions)

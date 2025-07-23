@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.tables/listobject/apply_style_to_range/
 is_root: false
 ---
-##  apply_style_to_range() {#}
+##  apply_style_to_range(self) {#}
 Tablo stilini aralığa uygulayın.
 
 
 
 ```python
+
 def apply_style_to_range(self):
     ...
 ```
@@ -22,5 +23,5 @@ def apply_style_to_range(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [ListObject](/cells/python-net/tr/aspose.cells.tables/listobject)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`ListObject`](/cells/python-net/tr/aspose.cells.tables/listobject)

@@ -7,16 +7,17 @@ weight: 30
 url: /tr/aspose.cells/errorcheckoption/get_count_of_range/
 is_root: false
 ---
-##  get_count_of_range() {#}
+##  get_count_of_range(self) {#}
 Bu ayardan etkilenen aralıkların sayısını alır.
 
 
 ###  İadeler
 
-bu ayardan etkilenen aralıkların sayısı.
+Bu ayardan etkilenen aralıkların sayısı.
 
 
 ```python
+
 def get_count_of_range(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_count_of_range(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ErrorCheckOption](/cells/python-net/tr/aspose.cells/errorcheckoption)
+* modül [`aspose.cells`](../../)
+* sınıf [`ErrorCheckOption`](/cells/python-net/tr/aspose.cells/errorcheckoption)

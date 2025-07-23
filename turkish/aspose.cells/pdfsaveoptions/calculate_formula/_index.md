@@ -13,7 +13,7 @@ PDF dosyasını kaydetmeden önce formüllerin hesaplanıp hesaplanmayacağını
 
 ###  Notlar
 
-Varsayılan değer yanlıştır.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def calculate_formula(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PdfSaveOptions](/cells/python-net/tr/aspose.cells/pdfsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PdfSaveOptions`](/cells/python-net/tr/aspose.cells/pdfsaveoptions)

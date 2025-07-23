@@ -3,14 +3,14 @@ title: is_ie_compatible mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 510
+weight: 590
 url: /tr/aspose.cells.saving/ebooksaveoptions/is_ie_compatible/
 is_root: false
 ---
 ##  is_ie_compatible mülk
 
-HTML çıkışının IE tarayıcısıyla uyumlu olup olmadığını belirtir.
-Varsayılan değer yanlış
+HTML çıktısının IE tarayıcısıyla uyumlu olup olmadığını belirtir.
+Varsayılan değer yanlıştır
 ###  Tanım:
 ```python
 @property

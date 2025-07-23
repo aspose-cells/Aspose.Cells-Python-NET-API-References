@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  twiddledlibid mülk
 
-Referansın karışık Libid'ini alır ve ayarlar.
+Referansın çevrilmiş Libid'ini alır ve ayarlar.
 
 ###  Notlar
 
-Sadece kontrol referansı için.
+Sadece kontrol referansı içindir.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def twiddledlibid(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](../../)
-* sınıf [VbaProjectReference](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference)
+* modül [`aspose.cells.vba`](../../)
+* sınıf [`VbaProjectReference`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference)

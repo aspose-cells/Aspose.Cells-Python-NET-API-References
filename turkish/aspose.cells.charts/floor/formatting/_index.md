@@ -21,6 +21,6 @@ def formatting(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Floor](/cells/python-net/tr/aspose.cells.charts/floor)
-* sınıf [FormattingType](/cells/python-net/tr/aspose.cells.charts/formattingtype)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Floor`](/cells/python-net/tr/aspose.cells.charts/floor)
+* sınıf [`FormattingType`](/cells/python-net/tr/aspose.cells.charts/formattingtype)

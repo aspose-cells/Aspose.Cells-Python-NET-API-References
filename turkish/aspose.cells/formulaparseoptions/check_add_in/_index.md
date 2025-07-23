@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  check_add_in mülk
 
-Harici bağlantı olmadan kullanıcı tanımlı işlev için mevcut çalışma kitabının mevcut harici bağlantılarındaki eklentileri kontrol edin.
-Varsayılan doğrudur (kullanıcı tanımlı işlev, mevcut harici bağlantılardaki bir eklentiyle eşleşirse, onu eklenti olarak alın).
+Mevcut çalışma kitabının harici bağlantıları içindeki eklentileri, harici bağlantısı olmayan kullanıcı tanımlı fonksiyonlar için kontrol edin.
+Varsayılan değer true'dur (eğer kullanıcı tanımlı fonksiyon mevcut harici bağlantılarda bir eklenti ile eşleşirse, o zaman onu eklenti olarak kabul et).
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def check_add_in(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormulaParseOptions](/cells/python-net/tr/aspose.cells/formulaparseoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormulaParseOptions`](/cells/python-net/tr/aspose.cells/formulaparseoptions)

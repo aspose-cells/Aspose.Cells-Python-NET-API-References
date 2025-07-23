@@ -18,6 +18,6 @@ def new_style(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionCellChange](/cells/python-net/tr/aspose.cells.revisions/revisioncellchange)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionCellChange`](/cells/python-net/tr/aspose.cells.revisions/revisioncellchange)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

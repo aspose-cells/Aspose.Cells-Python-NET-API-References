@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  plot_visible_cells mülk
 
-Yalnızca görünür hücrelerin çizilip çizilmeyeceğini belirtir.
+Sadece görünen hücrelerin çizilip çizilmeyeceğini belirtir.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen PlotVisibleCellsOnly özelliğini kullanın.
-Bu yöntem Aralık 2022'den 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen PlotVisibleCellsOnly özelliğini kullanın.
+ Bu yöntem 2022 Aralık ayından itibaren 12 ay sonra kaldırılacak.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

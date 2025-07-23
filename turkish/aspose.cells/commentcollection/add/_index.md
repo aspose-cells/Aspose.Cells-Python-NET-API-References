@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/commentcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
+##  add(self, cell_name) {#str}
 Koleksiyona bir yorum ekler.
 
 
 ###  İadeler
 
-[Comment](/cells/python-net/tr/aspose.cells/comment) nesne dizini.
+[`Comment`](/cells/python-net/tr/aspose.cells/comment) nesne dizini.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -38,16 +39,17 @@ comment2.font.name = "Times New Roman"
 ```
 
 
-##  add(row, column) {#int-int}
+##  add(self, row, column) {#int-int}
 Koleksiyona bir yorum ekler.
 
 
 ###  İadeler
 
-[Comment](/cells/python-net/tr/aspose.cells/comment) nesne dizini.
+[`Comment`](/cells/python-net/tr/aspose.cells/comment) nesne dizini.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -72,6 +74,6 @@ comment1.font.name = "Times New Roman"
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
-* sınıf [CommentCollection](/cells/python-net/tr/aspose.cells/commentcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)
+* sınıf [`CommentCollection`](/cells/python-net/tr/aspose.cells/commentcollection)

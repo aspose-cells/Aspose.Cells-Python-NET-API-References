@@ -21,6 +21,6 @@ def scheme_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
-* sınıf [FontSchemeType](/cells/python-net/tr/aspose.cells/fontschemetype)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)
+* sınıf [`FontSchemeType`](/cells/python-net/tr/aspose.cells/fontschemetype)

@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.charts/chartpointcollection/clear/
 is_root: false
 ---
-##  clear() {#}
+##  clear(self) {#}
 Grafik noktalarının tüm ayarlarını kaldırın.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartPointCollection](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartPointCollection`](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)

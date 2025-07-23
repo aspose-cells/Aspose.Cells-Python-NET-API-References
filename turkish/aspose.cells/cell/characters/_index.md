@@ -7,16 +7,17 @@ weight: 30
 url: /tr/aspose.cells/cell/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
+##  characters(self, start_index, length) {#int-int}
 Hücre metni içinde characters aralığını temsil eden bir Characters nesnesi döndürür.
 
 
 ###  İadeler
 
-Karakterler nesnesi.
+Karakter nesnesi.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -24,11 +25,11 @@ def characters(self, start_index, length):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| start_index | int | Karakterin başlangıç dizini.|
+| start_index | int | Karakterin başlangıcının indeksi.|
 | length | int | Karakter sayısı.|
 ###  Notlar
 
-Bu yöntem yalnızca dize değeri olan hücrede çalışır.
+Bu yöntem yalnızca string değeri olan hücrelerde çalışır.
 ###  Örnek
 
 
@@ -47,5 +48,5 @@ cells.get("A1").characters(5, 5).font.color = Color.blue
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

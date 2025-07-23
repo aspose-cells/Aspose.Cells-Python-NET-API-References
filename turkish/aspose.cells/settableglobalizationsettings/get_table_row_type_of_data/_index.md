@@ -7,7 +7,7 @@ weight: 250
 url: /tr/aspose.cells/settableglobalizationsettings/get_table_row_type_of_data/
 is_root: false
 ---
-##  get_table_row_type_of_data {#}
+##  get_table_row_type_of_data(self) {#}
 Başvurulan tablonun veri bölgesinden oluşan tablo satırlarının tür adını alır.
 Varsayılan "Veri"dir, dolayısıyla formülde "#Veri" tablonun veri bölgesini temsil eder.
 
@@ -18,6 +18,7 @@ tablo satırlarının tür adı
 
 
 ```python
+
 def get_table_row_type_of_data(self):
     ...
 ```

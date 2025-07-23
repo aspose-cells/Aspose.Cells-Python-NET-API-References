@@ -3,13 +3,13 @@ title: is_minimized mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 290
 url: /tr/aspose.cells/workbooksettings/is_minimized/
 is_root: false
 ---
 ##  is_minimized mülk
 
-Oluşturulan elektronik tablonun Küçültülmüş olarak açılıp açılmayacağını temsil eder.
+Oluşturulan elektronik tablonun Küçültülmüş olarak açılıp açılmayacağını gösterir.
 ###  Tanım:
 ```python
 @property

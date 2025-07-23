@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_pt mülk
 
-Nokta birimi cinsinden şeklin yüksekliğini temsil eder.
+Şeklin yüksekliğini nokta birimiyle gösterir.
 
 ###  Örnek
 

@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/tickmarktype/
 is_root: false
 ---
 ##  TickMarkType numaralandırma
-Belirtilen eksen için onay işareti türünü temsil eder.
+Belirtilen eksen için işaret türünü temsil eder.
 
 
 
@@ -17,10 +17,10 @@ TickMarkType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| CROSS | Onay işareti türü Çaprazdır.|
-| INSIDE | Onay işareti türü İçeridedir.|
-| NONE | Onay işareti türü Yok'tur.|
-| OUTSIDE | Onay işareti türü Dıştır|
+| CROSS | Onay işareti türü Çarpı'dır.|
+| INSIDE | İşaret türü İçerde'dir.|
+| NONE | Onay işareti türü Hiçbiri'dir.|
+| OUTSIDE | Onay işareti türü Dış'tır|
 
 
 

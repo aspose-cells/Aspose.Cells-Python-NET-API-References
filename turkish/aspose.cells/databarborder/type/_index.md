@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-Koşullu biçimlendirme kuralı tarafından belirtilen kenarlığın type veri çubuklarını alır veya ayarlar.
+Koşullu biçimlendirme kuralı tarafından belirtilen veri çubuklarının type kenarlığını alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataBarBorder](/cells/python-net/tr/aspose.cells/databarborder)
-* sınıf [DataBarBorderType](/cells/python-net/tr/aspose.cells/databarbordertype)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataBarBorder`](/cells/python-net/tr/aspose.cells/databarborder)
+* sınıf [`DataBarBorderType`](/cells/python-net/tr/aspose.cells/databarbordertype)

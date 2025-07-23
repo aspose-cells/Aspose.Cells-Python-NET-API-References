@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  is_height_matched mülk
 
-Satır yüksekliğinin çalışma kitabının geçerli varsayılan yazı tipi ayarıyla eşleşip eşleşmediğini belirtir.
-Bu özelliğin doğruluğu aynı zamanda satır yüksekliğinin kullanıcı tarafından ayarlanan özel yükseklik değeri olmadan "otomatik" olduğunu da belirtir.
+Satır yüksekliğinin çalışma kitabının geçerli varsayılan yazı tipi ayarıyla eşleşip eşleşmediğini gösterir.
+Bu özelliğin doğru olması, kullanıcı tarafından özel bir yükseklik değeri ayarlanmadan satır yüksekliğinin "otomatik" olduğunu da gösterir.
 
 ###  Notlar
 
-Bu özellik true olduğunda bu satırdaki içerik değişirse,
-genellikle satır yüksekliğinin yeniden hesaplanması gerekir ([`Worksheet.auto_fit_rows`](/cells/python-net/tr/aspose.cells/worksheet/auto_fit_rows) gibi)
-çalışma kitabını açtığınızda ms excel'de gösterilenle aynı sonucu elde etmek için.
+Bu özellik doğru olduğunda, bu satırdaki içerik değişirse,
+genellikle satır yüksekliğinin yeniden hesaplanması gerekir (örneğin [`Worksheet.auto_fit_rows`](/cells/python-net/tr/aspose.cells/worksheet/auto_fit_rows) ile)
+ms excel'de çalışma kitabını açtığınızda gösterilenle aynı sonucu elde etmek için.
 ###  Tanım:
 ```python
 @property

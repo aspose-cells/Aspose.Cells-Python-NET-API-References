@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  slicer_cache_items mülk
 
-Dilimleyici önbelleğindeki tüm öğelerin koleksiyonunu içeren bir SlicerCacheItem koleksiyonu döndürür. Sadece oku
+Dilimleyici önbelleğindeki tüm öğelerin koleksiyonunu içeren bir SlicerCacheItem koleksiyonu döndürür. Salt okunur
 
 ###  Örnek
 
@@ -28,6 +28,6 @@ def slicer_cache_items(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [SlicerCache](/cells/python-net/tr/aspose.cells.slicers/slicercache)
-* sınıf [SlicerCacheItemCollection](/cells/python-net/tr/aspose.cells.slicers/slicercacheitemcollection)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`SlicerCache`](/cells/python-net/tr/aspose.cells.slicers/slicercache)
+* sınıf [`SlicerCacheItemCollection`](/cells/python-net/tr/aspose.cells.slicers/slicercacheitemcollection)

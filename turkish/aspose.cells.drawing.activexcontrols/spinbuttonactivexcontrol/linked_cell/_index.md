@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/linked_ce
 is_root: false
 ---
 ##  linked_cell mülk
-
-Bağlı hücreyi alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def linked_cell(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [SpinButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`SpinButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

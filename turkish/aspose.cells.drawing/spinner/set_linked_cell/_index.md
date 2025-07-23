@@ -3,16 +3,17 @@ title: set_linked_cell yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 210
 url: /tr/aspose.cells.drawing/spinner/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell {#str-bool-bool}
-Denetimin değerine bağlı aralığı ayarlar.
+##  set_linked_cell(self, formula, is_r1c1, is_local) {#str-bool-bool}
+Kontrolün değerine bağlı aralığı ayarlar.
 
 
 
 ```python
+
 def set_linked_cell(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -20,9 +21,9 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| formula | str | Denetimin değerine bağlı aralık.|
+| formula | str | Kontrolün değerine bağlı aralık.|
 | is_r1c1 | bool | Formülün R1C1 olarak biçimlendirilmesi gerekip gerekmediği.|
-| is_local | bool | Formülün yerel ayara göre biçimlendirilmesi gerekip gerekmediği.|
+| is_local | bool | Formülün yerel ayarlara göre biçimlendirilmesi gerekip gerekmediği.|
 
 ###  Örnek
 

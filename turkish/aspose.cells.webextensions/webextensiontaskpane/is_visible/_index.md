@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible mülk
 
-Belge açıldığında Görev Panosunun varsayılan olarak görünür görünüp görünmediğini belirtir.
+Belge açıldığında Görev Bölmesinin varsayılan olarak görünür olarak gösterilip gösterilmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionTaskPane](/cells/python-net/tr/aspose.cells.webextensions/webextensiontaskpane)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionTaskPane`](/cells/python-net/tr/aspose.cells.webextensions/webextensiontaskpane)

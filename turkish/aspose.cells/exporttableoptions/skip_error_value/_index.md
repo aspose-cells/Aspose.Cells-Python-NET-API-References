@@ -10,8 +10,8 @@ is_root: false
 ##  skip_error_value mülk
 
 Sütun için geçersiz değerin atlanıp atlanmayacağını belirtir.
- Örneğin, sütun türü ondalık ise değer ondalıktan büyüktür.MaxValue
-ve bu özellik doğrudur, bir daha istisna atmayacağız.
+ Örneğin, sütun türü ondalık ise, değer ondalıktan büyüktür.MaxValue
+ve bu özellik doğruysa, bir daha istisna fırlatmayacağız.
 Varsayılan değer false'tur.
 ###  Tanım:
 ```python

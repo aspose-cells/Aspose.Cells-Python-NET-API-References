@@ -7,20 +7,26 @@ weight: 30
 url: /tr/aspose.cells.charts/axisbins/reset_underflow/
 is_root: false
 ---
-##  reset_underflow() {#}
+##  reset_underflow(self) {#}
 Alt akışı sıfırla
 
 
 
 ```python
+
 def reset_underflow(self):
     ...
 ```
 
 
+###  Notlar
 
+NOT: Bu yöntem artık geçerliliğini yitirmiştir.
+Bu, sorunlara yol açmamak için dışarıdan çağrılmasına gerek olmayan dahili bir yöntemdir.
+ Bu özellik Temmuz 2024'ten itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [AxisBins](/cells/python-net/tr/aspose.cells.charts/axisbins)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`AxisBins`](/cells/python-net/tr/aspose.cells.charts/axisbins)

@@ -3,13 +3,13 @@ title: border_weight mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 360
 url: /tr/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
 ##  border_weight mülk
 
-Bir resmin kenar çizgisinin ağırlığını pt birimi cinsinden alır veya ayarlar.
+Bir resmin kenar çizgisinin ağırlığını pt cinsinden alır veya ayarlar.
 
 ###  Örnek
 

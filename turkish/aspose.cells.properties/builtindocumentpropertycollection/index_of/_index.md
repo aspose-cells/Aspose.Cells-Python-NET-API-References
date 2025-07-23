@@ -3,20 +3,17 @@ title: index_of yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 50
 url: /tr/aspose.cells.properties/builtindocumentpropertycollection/index_of/
 is_root: false
 ---
-##  index_of(name) {#str}
-Ada göre bir özelliğin dizinini alır.
+##  index_of(self, name) {#str}
 
 
-###  İadeler
-
-Sıfır tabanlı dizin. Bulunmazsa negatif değer.
 
 
 ```python
+
 def index_of(self, name):
     ...
 ```
@@ -24,19 +21,20 @@ def index_of(self, name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| name | str | Özelliğin büyük/küçük harf duyarlı olmayan adı.|
+| name | str |  |
 
 
-##  index_of(item, index) {#DocumentProperty-int}
-Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.
+##  index_of(self, item, index) {#aspose.cells.properties.DocumentProperty-int}
+Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının, belirtilen indeksten son elemana kadar uzanan ilk oluşumunun sıfırdan başlayan indeksini döndürür.
 
 
 ###  İadeler
 
-Bulunursa, startIndex'ten son öğeye uzanan dizi listesindeki öğeler aralığındaki değerin ilk oluşumunun sıfır tabanlı dizini; aksi takdirde, -1.
+Dizi listesindeki eleman aralığının başlangıç indeksinden son elemana kadar uzanan ilk değer oluşumunun sıfırdan başlayan indeksi, bulunursa; aksi takdirde -1.
 
 
 ```python
+
 def index_of(self, item, index):
     ...
 ```
@@ -44,20 +42,21 @@ def index_of(self, item, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item | [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty) | Dizi listesinde bulunacak nesne. Değer null olabilir.|
-| index | int | Aramanın sıfır tabanlı başlangıç dizini. 0 (sıfır) boş bir listede geçerlidir.|
+| item | [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty) | Dizi listesinde bulunacak nesne. Değeri null olabilir.|
+| index | int | Aramanın sıfırdan başlayan başlangıç indeksi. Boş bir listede 0 (sıfır) geçerlidir.|
 
 
-##  index_of(item, index, count) {#DocumentProperty-int-int}
-Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.
+##  index_of(self, item, index, count) {#aspose.cells.properties.DocumentProperty-int-int}
+Belirtilen nesneyi arar ve dizi listesindeki eleman aralığında belirtilen indeksten başlayıp belirtilen sayıda eleman içeren ilk oluşumun sıfırdan başlayan indeksini döndürür.
 
 
 ###  İadeler
 
-dizi listesindeki öğeler aralığındaki değerin ilk geçtiği sıfır tabanlı dizin, startIndex'te başlar ve bulunursa öğe sayısını içerir; aksi takdirde, -1.
+Dizi listesindeki eleman aralığındaki değerin ilk oluşumunun sıfırdan başlayan indeksi, startIndex'ten başlar ve bulunursa eleman sayısını içerir; aksi takdirde -1.
 
 
 ```python
+
 def index_of(self, item, index, count):
     ...
 ```
@@ -65,12 +64,12 @@ def index_of(self, item, index, count):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item | [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty) | Dizi listesinde bulunacak nesne. Değer null olabilir.|
-| index | int | Aramanın sıfır tabanlı başlangıç dizini. 0 (sıfır) boş bir listede geçerlidir.|
-| count | int | Aranacak bölümdeki öğe sayısı.|
+| item | [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty) | Dizi listesinde bulunacak nesne. Değeri null olabilir.|
+| index | int | Aramanın sıfırdan başlayan başlangıç indeksi. Boş bir listede 0 (sıfır) geçerlidir.|
+| count | int | Aranacak bölümdeki eleman sayısı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [BuiltInDocumentPropertyCollection](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`BuiltInDocumentPropertyCollection`](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)

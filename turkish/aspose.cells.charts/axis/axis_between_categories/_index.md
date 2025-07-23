@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  axis_between_categories mülk
 
-Değer ekseninin kategoriler arasında kategori eksenini geçip geçmediğini temsil eder.
+Kategoriler arasında değer ekseninin kategori eksenini kesip kesmediğini gösterir.
 
 ###  Notlar
 
-Bu özellik yalnızca kategori eksenleri için geçerlidir ve 3 boyutlu grafikler için geçerli değildir.
+Bu özellik yalnızca kategori eksenleri için geçerlidir ve 3 boyutlu grafiklere uygulanmaz.
 ###  Tanım:
 ```python
 @property

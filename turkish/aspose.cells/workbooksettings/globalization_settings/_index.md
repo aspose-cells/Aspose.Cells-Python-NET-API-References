@@ -3,13 +3,13 @@ title: globalization_settings mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 230
 url: /tr/aspose.cells/workbooksettings/globalization_settings/
 is_root: false
 ---
 ##  globalization_settings mülk
 
-Genelleştirme ayarlarını alır ve ayarlar.
+Küreselleştirme ayarlarını alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

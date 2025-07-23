@@ -3,14 +3,14 @@ title: style_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 260
 url: /tr/aspose.cells.slicers/slicer/style_type/
 is_root: false
 ---
 ##  style_type mülk
 
 Yerleşik dilimleyici stilinin türünü belirtin
-varsayılan tür SlicerStyleLight1'dir.
+varsayılan tür SlicerStyleLight1'dir
 
 ###  Örnek
 
@@ -31,6 +31,6 @@ def style_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
-* sınıf [SlicerStyleType](/cells/python-net/tr/aspose.cells.slicers/slicerstyletype)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* sınıf [`SlicerStyleType`](/cells/python-net/tr/aspose.cells.slicers/slicerstyletype)

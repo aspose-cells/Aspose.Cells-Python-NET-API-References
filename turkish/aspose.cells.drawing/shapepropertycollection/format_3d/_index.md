@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  format_3d mülk
 
-Grafik öğesi veya şekil için 3B şekil özelliklerini belirten bir [ShapePropertyCollection.format_3d](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection#format_3d) nesnesini temsil eder.
+Grafik öğesi veya şekli için 3B şekil özelliklerini belirten [`ShapePropertyCollection.format_3d`](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection#format_3d) nesnesini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def format_3d(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Format3D](/cells/python-net/tr/aspose.cells.drawing/format3d)
-* sınıf [ShapePropertyCollection](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Format3D`](/cells/python-net/tr/aspose.cells.drawing/format3d)
+* sınıf [`ShapePropertyCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)

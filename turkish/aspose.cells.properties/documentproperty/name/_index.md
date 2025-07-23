@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-Özelliğin name'ini döndürür.
+Özelliğin name değerini döndürür.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty)

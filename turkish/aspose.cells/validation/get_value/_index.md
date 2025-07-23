@@ -7,8 +7,8 @@ weight: 80
 url: /tr/aspose.cells/validation/get_value/
 is_root: false
 ---
-##  get_value {#int-int-bool}
-Belirli bir hücredeki doğrulama değerini alın.
+##  get_value(self, row, column, is_value1) {#int-int-bool}
+Belirli hücredeki doğrulama değerini al.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Belirli bir hücredeki doğrulama değerini alın.
 
 
 ```python
+
 def get_value(self, row, column, is_value1):
     ...
 ```
@@ -26,7 +27,7 @@ def get_value(self, row, column, is_value1):
 | :- | :- | :- |
 | row | int | Satır dizini.|
 | column | int | Sütun dizini.|
-| is_value1 | bool |İlk değerin alınıp alınmadığını gösterir.|
+| is_value1 | bool | İlk değerin alınıp alınmadığını gösterir.|
 
 
 

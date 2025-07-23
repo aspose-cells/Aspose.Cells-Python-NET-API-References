@@ -3,13 +3,13 @@ title: is_visible mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 270
 url: /tr/aspose.cells.charts/axis/is_visible/
 is_root: false
 ---
 ##  is_visible mülk
 
-Eksenin görünür olup olmadığını temsil eder.
+Eksenin görünür olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property

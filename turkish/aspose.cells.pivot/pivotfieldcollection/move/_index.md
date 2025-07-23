@@ -3,16 +3,17 @@ title: move yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 50
+weight: 60
 url: /tr/aspose.cells.pivot/pivotfieldcollection/move/
 is_root: false
 ---
-##  move {#int-int}
+##  move(self, curr_pos, dest_pos) {#int-int}
 PivotField'ı geçerli konumdan hedef konuma taşır
 
 
 
 ```python
+
 def move(self, curr_pos, dest_pos):
     ...
 ```
@@ -20,7 +21,7 @@ def move(self, curr_pos, dest_pos):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| curr_pos | int | PivotField'ın sıfıra dayalı mevcut konumu|
+| curr_pos | int | PivotField'ın sıfıra dayalı geçerli konumu|
 | dest_pos | int | PivotField'ın sıfıra dayalı hedef konumu|
 
 

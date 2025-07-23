@@ -3,14 +3,14 @@ title: export_document_properties mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 290
 url: /tr/aspose.cells.saving/ebooksaveoptions/export_document_properties/
 is_root: false
 ---
 ##  export_document_properties mülk
 
- Belge özelliklerinin dışa aktarılıp aktarılmayacağını belirtir. Varsayılan değer true'dur. İçe aktarmak istiyorsanız
-html veya mht dosyasını Excel'e aktarın, lütfen varsayılan değeri koruyun.
+ Belge özelliklerinin dışa aktarılıp aktarılmayacağını belirtir. Varsayılan değer doğrudur. İçe aktarmak istiyorsanız
+html veya mht dosyasını excel'e aktarırken lütfen varsayılan değeri koruyun.
 ###  Tanım:
 ```python
 @property

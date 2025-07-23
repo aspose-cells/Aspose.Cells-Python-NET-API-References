@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start mülk
 
-Grubun start tarih saatini alır.
+Grubun start tarih ve saatini alır.
 ###  Tanım:
 ```python
 @property

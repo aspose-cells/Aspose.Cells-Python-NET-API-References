@@ -7,14 +7,15 @@ weight: 20
 url: /tr/aspose.cells/pdfsaveoptions/set_image_resample/
 is_root: false
 ---
-##  set_image_resample(desired_ppi, jpeg_quality) {#int-int}
- Yeniden örnekleme görüntüleri ve jpeg kalitesinin istenen ÜFE'sini (piksel/inç) ayarlar.
- Tüm resimler belirtilen kalite ayarıyla JPEG'e dönüştürülecek,
-ve belirtilen ÜFE'den (inç başına piksel) daha büyük olan resimler yeniden örneklenir.
+##  set_image_resample(self, desired_ppi, jpeg_quality) {#int-int}
+ Yeniden örnekleme görüntülerinin istenilen PPI'sini (inç başına piksel) ve jpeg kalitesini ayarlar.
+ Tüm görseller belirtilen kalite ayarıyla JPEG'e dönüştürülecektir.
+ve belirtilen PPI'dan (inç başına piksel) daha büyük olan görüntüler yeniden örneklenecektir.
 
 
 
 ```python
+
 def set_image_resample(self, desired_ppi, jpeg_quality):
     ...
 ```
@@ -22,12 +23,12 @@ def set_image_resample(self, desired_ppi, jpeg_quality):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| desired_ppi | int | İnç başına istenen piksel sayısı. 220 yüksek kalite. 150 ekran kalitesi. 96 e-posta kalitesi.|
+| desired_ppi | int | İstenilen inç başına piksel sayısı. 220 yüksek kalite. 150 ekran kalitesi. 96 e-posta kalitesi.|
 | jpeg_quality | int | 0 - 100% JPEG kalite.|
 
 ###  Örnek
 
-Aşağıdaki kod, çıktı pdf'deki resimler için istenen ÜFE'yi 96 ve jpeg kalitesini 80 olarak ayarlar.
+Aşağıdaki kod çıktı pdf'deki resimler için istenilen PPI değerini 96, jpeg kalitesini ise 80 olarak ayarlar.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -44,5 +45,5 @@ wb.save("output.pdf", pdfSaveOptions)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PdfSaveOptions](/cells/python-net/tr/aspose.cells/pdfsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PdfSaveOptions`](/cells/python-net/tr/aspose.cells/pdfsaveoptions)

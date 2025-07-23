@@ -7,12 +7,13 @@ weight: 330
 url: /tr/aspose.cells/settableglobalizationsettings/set_list_separator/
 is_root: false
 ---
-##  set_list_separator {#char}
+##  set_list_separator(self, c) {#char}
 Liste, fonksiyon parametreleri vb. için ayırıcıyı ayarlar.
 
 
 
 ```python
+
 def set_list_separator(self, c):
     ...
 ```

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  insert_rows mülk
 
-Veri kayıtlarını içe aktarmak için yeni satırların eklenmesi gerekip gerekmediğini belirtir.
+Veri kayıtlarını içe aktarmak için yeni satırların eklenip eklenmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def insert_rows(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions)

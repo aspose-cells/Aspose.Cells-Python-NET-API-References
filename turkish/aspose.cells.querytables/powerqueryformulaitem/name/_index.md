@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.querytables](../../)
-* sınıf [PowerQueryFormulaItem](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaitem)
+* modül [`aspose.cells.querytables`](../../)
+* sınıf [`PowerQueryFormulaItem`](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaitem)

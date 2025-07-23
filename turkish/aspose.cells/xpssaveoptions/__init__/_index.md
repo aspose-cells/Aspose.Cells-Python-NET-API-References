@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/xpssaveoptions/__init__/
 is_root: false
 ---
-##  XpsSaveOptions() {#}
-xps dosyasını kaydetmek için seçenekler oluşturur.
+##  \_\_init\_\_(kendi){#}
+XPS dosyasını kaydetmek için seçenekler oluşturur.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  XpsSaveOptions(save_format) {#SaveFormat}
-xps dosyasını kaydetmek için seçenekler oluşturur.
+##  \_\_init\_\_(self, save_format){#aspose.cells.SaveFormat}
+XPS dosyasını kaydetmek için seçenekler oluşturur.
 
 
 
 ```python
+
 def __init__(self, save_format):
     ...
 ```
@@ -33,15 +35,15 @@ def __init__(self, save_format):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/tr/aspose.cells/saveformat) | Kayıt formatı, xps formatında olmalıdır.|
+| save_format | [`SaveFormat`](/cells/python-net/tr/aspose.cells/saveformat) | Kayıt formatı xps formatında olmalı.|
 ###  Notlar
 
-NOT: Bu yapıcı artık kullanılmıyor.
-Bunun yerine, lütfen XpsSaveOptions() yapıcısını kullanın.
- Bu mülk, Ağustos 2022'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+NOT: Bu oluşturucu artık kullanımdan kaldırıldı.
+Bunun yerine lütfen XpsSaveOptions() yapıcısını kullanın.
+ Bu özellik Ağustos 2022'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XpsSaveOptions](/cells/python-net/tr/aspose.cells/xpssaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`XpsSaveOptions`](/cells/python-net/tr/aspose.cells/xpssaveoptions)

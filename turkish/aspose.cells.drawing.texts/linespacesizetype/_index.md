@@ -8,19 +8,19 @@ url: /tr/aspose.cells.drawing.texts/linespacesizetype/
 is_root: false
 ---
 ##  LineSpaceSizeType numaralandırma
-Satır alanı boyutunun birim tipini temsil eder.
+Satır aralığı boyutunun birim türünü temsil eder.
 
 
 
-LineSpaceSizeType türü aşağıdaki üyeleri gösterir:
+LineSpaceSizeType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| PERCENTAGE | Metin boyutunun yüzde birimini temsil eder.|
-| POINTS | Puan biriminde temsil eder.|
+| PERCENTAGE | Metin boyutunun yüzdelik birimini temsil eder.|
+| POINTS | Puan biriminde temsil edilir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](..)
+* modül [`aspose.cells.drawing.texts`](..)

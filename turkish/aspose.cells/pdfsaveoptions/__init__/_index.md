@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/pdfsaveoptions/__init__/
 is_root: false
 ---
-##  PdfSaveOptions() {#}
-Pdf dosyasını kaydetme seçeneklerini oluşturur.
+##  \_\_init\_\_(kendi){#}
+PDF dosyasını kaydetme seçeneklerini oluşturur.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PdfSaveOptions](/cells/python-net/tr/aspose.cells/pdfsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PdfSaveOptions`](/cells/python-net/tr/aspose.cells/pdfsaveoptions)

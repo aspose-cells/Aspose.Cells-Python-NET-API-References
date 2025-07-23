@@ -8,20 +8,20 @@ url: /tr/aspose.cells.metadata/metadatatype/
 is_root: false
 ---
 ##  MetadataType numaralandırma
-Meta veri türünü temsil eder.
+Meta verinin türünü temsil eder.
 
 
 
-MetadataType türü aşağıdaki üyeleri gösterir:
+MetadataType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | ENCRYPTION | Dosyayı şifreler.|
-| DECRYPTION | Dosyanın şifresini çözer.|
+| DECRYPTION | Dosyayı şifresini çözer.|
 | DOCUMENT_PROPERTIES | Dosyanın özelliklerini yükleyin.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.metadata](..)
+* modül [`aspose.cells.metadata`](..)

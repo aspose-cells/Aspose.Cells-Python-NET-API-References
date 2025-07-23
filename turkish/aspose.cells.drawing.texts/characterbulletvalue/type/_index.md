@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [BulletType](/cells/python-net/tr/aspose.cells.drawing.texts/bullettype)
-* sınıf [CharacterBulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/characterbulletvalue)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`BulletType`](/cells/python-net/tr/aspose.cells.drawing.texts/bullettype)
+* sınıf [`CharacterBulletValue`](/cells/python-net/tr/aspose.cells.drawing.texts/characterbulletvalue)

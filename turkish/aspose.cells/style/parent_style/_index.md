@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  parent_style mülk
 
-Bu stilin ana stilini alır.
+Bu stilin üst stilini alır.
 ###  Tanım:
 ```python
 @property

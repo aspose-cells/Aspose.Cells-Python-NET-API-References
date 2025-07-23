@@ -3,7 +3,7 @@ title: text_horizontal_alignment mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 480
+weight: 550
 url: /tr/aspose.cells.charts/datalabels/text_horizontal_alignment/
 is_root: false
 ---

@@ -11,15 +11,15 @@ is_root: false
 
 Sayı biçimi için kültürden bağımsız desen dizesini alır.
 Bu nesne için herhangi bir sayı biçimi ayarlanmamışsa, null döndürülür.
-Sayı biçimi yerleşikse, yerleşik sayıya karşılık gelen kalıp dizisi döndürülür.
+Sayı biçimi yerleşik ise yerleşik sayıya karşılık gelen desen dizesi döndürülecektir.
 
 ###  Notlar
 
-Yerleşik sayı biçimleri için döndürülen kalıp içeriği hala kültüre bağlıdır,
-örneğin, bazı yerel ayarlar için "m/d/y" ve diğer bazı yerel ayarlar için "d/m/y" döndürür.
-[Style.culture_custom](/cells/python-net/tr/aspose.cells/style#culture_custom)'den farkı şudur (kültürden bağımsız olan da budur):
-biçim belirticileri ve ayırıcılar standart olarak tutulur, '/' gibi her zaman tarih-saat ayırıcı olarak kullanılır
-ve belirli yerel ayar için başka hangi özel karakter kullanılırsa kullanılsın, "y" her zaman "yıl" bölümü olarak kullanılacaktır.
+Yerleşik sayı biçimleri için, döndürülen desen içeriği hala kültüre bağlıdır.
+örneğin, bazı yerel ayarlar için "a/g/y" değerini döndürürken, bazı diğer yerel ayarlar için "g/a/y" değerini döndürür.
+[`Style.culture_custom`](/cells/python-net/tr/aspose.cells/style#culture_custom)'den farkı (kültürden bağımsızlığın anlamı da budur):
+biçim belirteçleri ve ayırıcılar standart olarak tutulur, örneğin '/' her zaman tarih-saat ayırıcısı olarak kullanılır
+ve "y" her zaman belirli bir yerel için hangi özel karakter kullanılırsa kullanılsın "yıl" kısmı olarak kullanılacaktır.
 ###  Tanım:
 ```python
 @property
@@ -28,5 +28,5 @@ def invariant_custom(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

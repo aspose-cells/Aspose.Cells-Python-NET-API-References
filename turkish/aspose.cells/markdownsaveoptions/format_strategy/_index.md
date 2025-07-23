@@ -3,7 +3,7 @@ title: format_strategy mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 110
 url: /tr/aspose.cells/markdownsaveoptions/format_strategy/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def format_strategy(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellValueFormatStrategy](/cells/python-net/tr/aspose.cells/cellvalueformatstrategy)
-* sınıf [MarkdownSaveOptions](/cells/python-net/tr/aspose.cells/markdownsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellValueFormatStrategy`](/cells/python-net/tr/aspose.cells/cellvalueformatstrategy)
+* sınıf [`MarkdownSaveOptions`](/cells/python-net/tr/aspose.cells/markdownsaveoptions)

@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
-* sınıf [FontSetting](/cells/python-net/tr/aspose.cells/fontsetting)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)
+* sınıf [`FontSetting`](/cells/python-net/tr/aspose.cells/fontsetting)

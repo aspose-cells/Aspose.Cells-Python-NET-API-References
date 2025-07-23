@@ -3,13 +3,13 @@ title: auto_update mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 350
 url: /tr/aspose.cells.drawing/oleobject/auto_update/
 is_root: false
 ---
 ##  auto_update mülk
 
-OleObject bağlantısının otomatik olarak güncelleştirilip güncelleştirilmeyeceğini belirtir.
+OleObject'e olan bağlantının otomatik olarak güncellenip güncellenmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property

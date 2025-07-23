@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scroll_bars mülk
 
-Denetimin dikey kaydırma çubuklarına, yatay kaydırma çubuklarına veya her ikisine birden sahip olup olmadığını veya hiçbirine sahip olmadığını belirtir.
+Denetimin dikey kaydırma çubuklarına, yatay kaydırma çubuklarına, her ikisine veya hiçbirine sahip olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def scroll_bars(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ControlScrollBarType](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlscrollbartype)
-* sınıf [ListBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ControlScrollBarType`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlscrollbartype)
+* sınıf [`ListBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

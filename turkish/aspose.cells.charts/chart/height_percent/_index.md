@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_percent mülk
 
-3 boyutlu grafiğin yüksekliğini grafik genişliğinin yüzdesi olarak döndürür veya ayarlar (yüzde 5 ile 500 arasında).
+boyutlu grafiğin yüksekliğini grafik genişliğinin yüzdesi olarak döndürür veya ayarlar (yüzde 5 ile 500 arasında).
 ###  Tanım:
 ```python
 @property

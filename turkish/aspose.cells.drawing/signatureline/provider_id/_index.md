@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  provider_id mülk
 
-İmza sağlayıcının kimliğini alır ve ayarlar.
+İmza sağlayıcısının kimliğini alır veya ayarlar.
 
 ###  Notlar
 
@@ -23,7 +23,7 @@ from uuid import uuid4
 
 #  Create signature line object
 s2 = SignatureLine()
-s2.provider_id = uuid4()
+s2.provider_id = uuid4("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx")
 
 ```
 ###  Tanım:
@@ -37,5 +37,5 @@ def provider_id(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [SignatureLine](/cells/python-net/tr/aspose.cells.drawing/signatureline)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`SignatureLine`](/cells/python-net/tr/aspose.cells.drawing/signatureline)

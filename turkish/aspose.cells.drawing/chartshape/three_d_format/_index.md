@@ -3,7 +3,7 @@ title: three_d_format mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /tr/aspose.cells.drawing/chartshape/three_d_format/
 is_root: false
 ---

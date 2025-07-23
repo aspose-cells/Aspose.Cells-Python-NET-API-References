@@ -3,13 +3,13 @@ title: height mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 440
 url: /tr/aspose.cells/range/height/
 is_root: false
 ---
 ##  height mülk
 
-Bir aralığın genişliğini nokta cinsinden alır.
+Bir aralığın genişliğini puan cinsinden alır.
 ###  Tanım:
 ```python
 @property

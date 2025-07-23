@@ -21,5 +21,5 @@ def author(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WriteProtection](/cells/python-net/tr/aspose.cells/writeprotection)
+* modül [`aspose.cells`](../../)
+* sınıf [`WriteProtection`](/cells/python-net/tr/aspose.cells/writeprotection)

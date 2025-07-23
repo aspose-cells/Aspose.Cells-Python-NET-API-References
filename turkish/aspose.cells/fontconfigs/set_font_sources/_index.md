@@ -3,27 +3,29 @@ title: set_font_sources yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 80
 url: /tr/aspose.cells/fontconfigs/set_font_sources/
 is_root: false
 ---
-##  set_font_sources(sources) {#list}
-Yazı tipi kaynaklarını ayarlar.
+##  set_font_sources(, kaynaklar){#list}
+
 
 
 
 ```python
-def set_font_sources(self, sources):
+
+@staticmethod
+def set_font_sources(sources):
     ...
 ```
 
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| sources | list | TrueType yazı tiplerini içeren bir dizi kaynak.|
+| sources | list |  |
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FontConfigs](/cells/python-net/tr/aspose.cells/fontconfigs)
+* modül [`aspose.cells`](../../)
+* sınıf [`FontConfigs`](/cells/python-net/tr/aspose.cells/fontconfigs)

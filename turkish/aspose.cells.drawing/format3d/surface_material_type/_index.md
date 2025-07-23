@@ -22,6 +22,6 @@ def surface_material_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Format3D](/cells/python-net/tr/aspose.cells.drawing/format3d)
-* sınıf [PresetMaterialType](/cells/python-net/tr/aspose.cells.drawing/presetmaterialtype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Format3D`](/cells/python-net/tr/aspose.cells.drawing/format3d)
+* sınıf [`PresetMaterialType`](/cells/python-net/tr/aspose.cells.drawing/presetmaterialtype)

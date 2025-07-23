@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  chart_settings mülk
 
-Chart için genelleştirme ayarlarını alır veya ayarlar.
+Chart için küreselleştirme ayarlarını alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

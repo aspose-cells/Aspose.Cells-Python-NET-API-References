@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  forward mülk
 
-Eğilim çizgisinin forward'i uzattığı dönemlerin (veya bir dağılım grafiğindeki birimlerin) sayısını döndürür veya ayarlar.
-Nokta sayısı sıfırdan büyük veya sıfıra eşit olmalıdır.
+Trend çizgisinin forward'i uzattığı periyot (veya dağılım grafiğindeki birim) sayısını döndürür veya ayarlar.
+Periyot sayısı sıfırdan büyük veya sıfıra eşit olmalıdır.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def forward(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

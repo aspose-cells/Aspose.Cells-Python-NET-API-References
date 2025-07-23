@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom mülk
 
-Resmi uzatmak için bottom ofsetini alır veya ayarlar.
+Resmin gerilmesi için bottom ofsetini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [PicFormatOption](/cells/python-net/tr/aspose.cells.drawing/picformatoption)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`PicFormatOption`](/cells/python-net/tr/aspose.cells.drawing/picformatoption)

@@ -3,13 +3,13 @@ title: height mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 510
+weight: 500
 url: /tr/aspose.cells.drawing/oleobject/height/
 is_root: false
 ---
 ##  height mülk
 
-Piksel birimi cinsinden şeklin height'ini temsil eder.
+Şeklin height'ini piksel biriminde temsil eder.
 
 ###  Örnek
 

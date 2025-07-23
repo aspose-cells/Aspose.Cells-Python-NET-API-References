@@ -3,7 +3,7 @@ title: shape_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 370
+weight: 440
 url: /tr/aspose.cells.charts/datalabels/shape_type/
 is_root: false
 ---

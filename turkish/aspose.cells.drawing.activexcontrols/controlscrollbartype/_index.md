@@ -3,7 +3,7 @@ title: ControlScrollBarType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 220
 url: /tr/aspose.cells.drawing.activexcontrols/controlscrollbartype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Kaydırma çubuğunun türünü temsil eder.
 
 
 
-ControlScrollBarType türü aşağıdaki üyeleri gösterir:
+ControlScrollBarType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NONE | Kaydırma çubuğu göstermez.|
-| HORIZONTAL | Yatay bir kaydırma çubuğu görüntüler.|
-| BARS_VERTICAL | Dikey bir kaydırma çubuğu görüntüler.|
+| NONE |Kaydırma çubukları görüntülenmiyor.|
+| HORIZONTAL | Yatay kaydırma çubuğu görüntüler.|
+| BARS_VERTICAL | Dikey kaydırma çubuğu görüntüler.|
 | BARS_BOTH | Hem yatay hem de dikey kaydırma çubuğu görüntüler.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
+* modül [`aspose.cells.drawing.activexcontrols`](..)

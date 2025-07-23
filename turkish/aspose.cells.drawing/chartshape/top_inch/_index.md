@@ -3,13 +3,13 @@ title: top_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /tr/aspose.cells.drawing/chartshape/top_inch/
 is_root: false
 ---
 ##  top_inch mülk
 
-İnç birimi cinsinden şeklin üst satırından dikey uzaklığını temsil eder.
+Şeklin üst sırasından dikey uzaklığını inç cinsinden gösterir.
 
 ###  Örnek
 

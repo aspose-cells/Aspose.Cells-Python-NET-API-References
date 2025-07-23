@@ -7,13 +7,14 @@ weight: 130
 url: /tr/aspose.cells/pagesetup/set_even_footer/
 is_root: false
 ---
-##  set_even_footer(section, footer_script) {#int-str}
-Bir Excel dosyasının çift sayfa altbilgisini biçimlendiren bir komut dosyası ayarlar.
-Yalnızca IsHFDiffOddEven doğru olduğunda Excel 2007'de etkilidir.
+##  set_even_footer(self, section, footer_script) {#int-str}
+Excel dosyasının çift sayfa alt bilgisini biçimlendiren bir betik ayarlar.
+Yalnızca Excel 2007'de IsHFDiffOddEven doğru olduğunda etkilidir.
 
 
 
 ```python
+
 def set_even_footer(self, section, footer_script):
     ...
 ```
@@ -21,11 +22,11 @@ def set_even_footer(self, section, footer_script):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| section | int | 0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
-| footer_script | str | Altbilgi biçimi komut dosyası.|
+| section | int |0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
+| footer_script | str | Altbilgi format betiği.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

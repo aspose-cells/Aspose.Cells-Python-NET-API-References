@@ -21,6 +21,6 @@ def color_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataBarNegativeColorType](/cells/python-net/tr/aspose.cells/databarnegativecolortype)
-* sınıf [NegativeBarFormat](/cells/python-net/tr/aspose.cells/negativebarformat)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataBarNegativeColorType`](/cells/python-net/tr/aspose.cells/databarnegativecolortype)
+* sınıf [`NegativeBarFormat`](/cells/python-net/tr/aspose.cells/negativebarformat)

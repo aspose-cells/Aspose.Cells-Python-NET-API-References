@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  match_blank mülk
 
-Boşluğa göre filtrelenip filtrelenmeyeceğini gösterir.
+Boşluğa göre filtreleme yapılıp yapılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def match_blank(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [MultipleFilterCollection](/cells/python-net/tr/aspose.cells/multiplefiltercollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`MultipleFilterCollection`](/cells/python-net/tr/aspose.cells/multiplefiltercollection)

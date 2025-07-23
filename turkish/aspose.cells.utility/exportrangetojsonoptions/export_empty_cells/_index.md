@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_empty_cells mülk
 
-Boş hücrelerin null olarak dışa aktarılıp aktarılmadığını gösterir.
+Boş hücrelerin null olarak dışa aktarılıp aktarılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_empty_cells(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.utility](../../)
-* sınıf [ExportRangeToJsonOptions](/cells/python-net/tr/aspose.cells.utility/exportrangetojsonoptions)
+* modül [`aspose.cells.utility`](../../)
+* sınıf [`ExportRangeToJsonOptions`](/cells/python-net/tr/aspose.cells.utility/exportrangetojsonoptions)

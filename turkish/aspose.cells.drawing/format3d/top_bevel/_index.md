@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_bevel mülk
 
-Bir şeklin üst veya ön yüzünde bir eğim tanımlamayla ilişkili özellikleri tutan [Bevel](/cells/python-net/tr/aspose.cells.drawing/bevel) nesnesini alır.
+Bir şeklin üst veya ön yüzündeki eğimi tanımlamaya ilişkin özellikleri tutan [`Bevel`](/cells/python-net/tr/aspose.cells.drawing/bevel) nesnesini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def top_bevel(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Bevel](/cells/python-net/tr/aspose.cells.drawing/bevel)
-* sınıf [Format3D](/cells/python-net/tr/aspose.cells.drawing/format3d)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Bevel`](/cells/python-net/tr/aspose.cells.drawing/bevel)
+* sınıf [`Format3D`](/cells/python-net/tr/aspose.cells.drawing/format3d)

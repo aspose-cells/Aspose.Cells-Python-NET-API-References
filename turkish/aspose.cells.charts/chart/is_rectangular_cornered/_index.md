@@ -10,7 +10,7 @@ is_root: false
 ##  is_rectangular_cornered mülk
 
 Grafik alanının dikdörtgen köşeli olup olmadığını gösteren bir değer alır veya ayarlar.
-Varsayılan doğrudur.
+Varsayılan değer doğrudur.
 ###  Tanım:
 ```python
 @property

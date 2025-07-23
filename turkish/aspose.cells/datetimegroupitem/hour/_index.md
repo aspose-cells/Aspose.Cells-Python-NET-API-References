@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hour mülk
 
-Gruplandırılmış tarih saatinin hour'ini alır ve ayarlar.
+Gruplanmış tarih ve saatin hour değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def hour(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DateTimeGroupItem](/cells/python-net/tr/aspose.cells/datetimegroupitem)
+* modül [`aspose.cells`](../../)
+* sınıf [`DateTimeGroupItem`](/cells/python-net/tr/aspose.cells/datetimegroupitem)

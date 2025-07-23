@@ -12,19 +12,20 @@ OLE DB komut türünü belirtir.
 
 
 
-OLEDBCommandType türü aşağıdaki üyeleri gösterir:
+OLEDBCommandType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NONE | Komut türü belirtilmemiş.|
 | CUBE_NAME | Bir küp adı belirtir|
-| SQL_STATEMENT | Bir SQL deyimi belirtir|
+| SQL_STATEMENT | Bir SQL ifadesi belirtir|
 | TABLE_NAME | Bir tablo adı belirtir|
-| DEFAULT_INFORMATION | Varsayılan bilgilerin verildiğini belirtir ve nasıl yorumlanacağı sağlayıcıya bağlıdır.|
-| WEB_BASED_LIST |Web tabanlı bir Liste Veri Sağlayıcısına karşı bir sorgu belirtir.|
+| DEFAULT_INFORMATION | Varsayılan bilginin verildiğini ve bunun nasıl yorumlanacağının sağlayıcıya bağlı olduğunu belirtir.|
+| WEB_BASED_LIST | Web tabanlı bir Liste Veri Sağlayıcısına karşı olan bir sorguyu belirtir.|
+| TABLE_COLLECTION | Tablo listesini belirtir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](..)
+* modül [`aspose.cells.externalconnections`](..)

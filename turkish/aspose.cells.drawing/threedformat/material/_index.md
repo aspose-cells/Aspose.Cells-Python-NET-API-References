@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  material mülk
 
-vermek için aydınlatma özellikleriyle birleştirilen material ön ayarını temsil eder.
+Aydınlatma özelliklerini birleştirerek material ön ayarını temsil eder.
 bir şeklin son görünümü ve hissi.
 ###  Tanım:
 ```python
@@ -22,6 +22,6 @@ def material(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [PresetMaterialType](/cells/python-net/tr/aspose.cells.drawing/presetmaterialtype)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`PresetMaterialType`](/cells/python-net/tr/aspose.cells.drawing/presetmaterialtype)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

@@ -3,7 +3,7 @@ title: original_height_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 940
+weight: 960
 url: /tr/aspose.cells.drawing/picture/original_height_cm/
 is_root: false
 ---

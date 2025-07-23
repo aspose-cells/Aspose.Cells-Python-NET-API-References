@@ -7,8 +7,8 @@ weight: 40
 url: /tr/aspose.cells/fileformatutil/file_format_to_save_format/
 is_root: false
 ---
-##  file_format_to_save_format(format) {#FileFormatType}
-Formatı kaydetmek için dosya formatını dönüştürme.
+##  file_format_to_save_format(, biçim){#aspose.cells.FileFormatType}
+Dosya biçimini kaydetme biçimine dönüştürüyoruz.
 
 
 ###  İadeler
@@ -17,17 +17,19 @@ Formatı kaydetmek için dosya formatını dönüştürme.
 
 
 ```python
-def file_format_to_save_format(self, format):
+
+@staticmethod
+def file_format_to_save_format(format):
     ...
 ```
 
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| format | [FileFormatType](/cells/python-net/tr/aspose.cells/fileformattype) | Dosya biçimi türü.|
+| format | [`FileFormatType`](/cells/python-net/tr/aspose.cells/fileformattype) | Dosya biçimi türü.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FileFormatUtil](/cells/python-net/tr/aspose.cells/fileformatutil)
+* modül [`aspose.cells`](../../)
+* sınıf [`FileFormatUtil`](/cells/python-net/tr/aspose.cells/fileformatutil)

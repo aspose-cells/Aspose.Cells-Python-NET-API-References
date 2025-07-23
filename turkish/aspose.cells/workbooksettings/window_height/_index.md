@@ -3,13 +3,13 @@ title: window_height mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 520
+weight: 530
 url: /tr/aspose.cells/workbooksettings/window_height/
 is_root: false
 ---
 ##  window_height mülk
 
-Nokta birimi cinsinden pencerenin yüksekliği.
+Pencerenin yüksekliği, nokta birimiyle.
 ###  Tanım:
 ```python
 @property

@@ -3,7 +3,7 @@ title: SheetType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2550
+weight: 2520
 url: /tr/aspose.cells/sheettype/
 is_root: false
 ---

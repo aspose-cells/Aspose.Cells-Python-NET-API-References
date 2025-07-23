@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible mülk
 
-Bu harici bağlantının MS Excel'de görünüp görünmediğini gösterir.
+Bu harici bağlantının MS Excel'de görünür olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_visible(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExternalLink](/cells/python-net/tr/aspose.cells/externallink)
+* modül [`aspose.cells`](../../)
+* sınıf [`ExternalLink`](/cells/python-net/tr/aspose.cells/externallink)

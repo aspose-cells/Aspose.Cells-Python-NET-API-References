@@ -7,12 +7,13 @@ weight: 150
 url: /tr/aspose.cells/pagesetup/set_first_page_footer/
 is_root: false
 ---
-##  set_first_page_footer(section, footer_script) {#int-str}
-Bir Excel dosyasının ilk sayfa altbilgisini biçimlendiren bir komut dosyası ayarlar.
+##  set_first_page_footer(self, section, footer_script) {#int-str}
+Bir Excel dosyasının ilk sayfa alt bilgisini biçimlendiren bir betik ayarlar.
 
 
 
 ```python
+
 def set_first_page_footer(self, section, footer_script):
     ...
 ```
@@ -20,11 +21,11 @@ def set_first_page_footer(self, section, footer_script):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| section | int | 0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
-| footer_script | str | Altbilgi biçimi komut dosyası.|
+| section | int |0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
+| footer_script | str | Altbilgi format betiği.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

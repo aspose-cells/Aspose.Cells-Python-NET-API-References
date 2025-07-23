@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionCollection](/cells/python-net/tr/aspose.cells.revisions/revisioncollection)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionCollection`](/cells/python-net/tr/aspose.cells.revisions/revisioncollection)

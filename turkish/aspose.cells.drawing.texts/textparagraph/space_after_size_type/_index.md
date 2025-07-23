@@ -21,6 +21,6 @@ def space_after_size_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [LineSpaceSizeType](/cells/python-net/tr/aspose.cells.drawing.texts/linespacesizetype)
-* sınıf [TextParagraph](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`LineSpaceSizeType`](/cells/python-net/tr/aspose.cells.drawing.texts/linespacesizetype)
+* sınıf [`TextParagraph`](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)

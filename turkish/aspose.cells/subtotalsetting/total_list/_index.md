@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  total_list mülk
 
-Ara toplamların eklendiği alanları gösteren sıfır tabanlı alan ofsetleri dizisi.
+Ara toplamların ekleneceği alanları belirten sıfır tabanlı alan ofsetlerinin bir dizisi.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def total_list(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [SubtotalSetting](/cells/python-net/tr/aspose.cells/subtotalsetting)
+* modül [`aspose.cells`](../../)
+* sınıf [`SubtotalSetting`](/cells/python-net/tr/aspose.cells/subtotalsetting)

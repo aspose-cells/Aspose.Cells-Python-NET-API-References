@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  diagonal_down_border mülk
 
-Çapraz aşağı kenarlık ayarları uygulanacaktır.
+Çapraz aşağı sınır ayarları uygulanacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def diagonal_down_border(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag)
+* modül [`aspose.cells`](../../)
+* sınıf [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag)

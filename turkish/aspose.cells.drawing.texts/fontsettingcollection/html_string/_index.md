@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  html_string mülk
 
-Bu şekildeki verileri ve bazı biçimleri içeren html dizesini alır ve ayarlar.
+Bu şeklin içindeki verileri ve bazı formatları içeren html dizesini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def html_string(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [FontSettingCollection](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`FontSettingCollection`](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)

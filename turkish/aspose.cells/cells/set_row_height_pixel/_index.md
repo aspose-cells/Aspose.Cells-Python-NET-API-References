@@ -3,16 +3,17 @@ title: set_row_height_pixel yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 880
+weight: 900
 url: /tr/aspose.cells/cells/set_row_height_pixel/
 is_root: false
 ---
-##  set_row_height_pixel {#int-int}
-Satır yüksekliğini piksel birimi cinsinden ayarlar.
+##  set_row_height_pixel(self, row, pixels) {#int-int}
+Satır yüksekliğini piksel biriminde ayarlar.
 
 
 
 ```python
+
 def set_row_height_pixel(self, row, pixels):
     ...
 ```

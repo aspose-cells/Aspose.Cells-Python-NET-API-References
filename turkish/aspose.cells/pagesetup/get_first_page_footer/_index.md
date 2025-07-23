@@ -7,12 +7,13 @@ weight: 80
 url: /tr/aspose.cells/pagesetup/get_first_page_footer/
 is_root: false
 ---
-##  get_first_page_footer(section) {#int}
-Bir Excel dosyasının ilk sayfa altbilgisini biçimlendiren bir komut dosyası alır.
+##  get_first_page_footer(self, section) {#int}
+Bir Excel dosyasının ilk sayfa alt bilgisini biçimlendiren bir betik alır.
 
 
 
 ```python
+
 def get_first_page_footer(self, section):
     ...
 ```
@@ -20,10 +21,10 @@ def get_first_page_footer(self, section):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| section | int | 0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
+| section | int |0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

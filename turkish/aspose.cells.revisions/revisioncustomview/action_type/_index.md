@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  action_type mülk
 
-Eylem türünü alır.
+Eylemin türünü alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def action_type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionActionType](/cells/python-net/tr/aspose.cells.revisions/revisionactiontype)
-* sınıf [RevisionCustomView](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionActionType`](/cells/python-net/tr/aspose.cells.revisions/revisionactiontype)
+* sınıf [`RevisionCustomView`](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview)

@@ -11,7 +11,7 @@ is_root: false
 
 Koşullu biçimlendirmenin "DataBar" örneğini alın.
 Varsayılan örneğin rengi mavidir.
-Yalnızca tür için geçerli olan DataBar'dır.
+Sadece DataBar türü için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -20,6 +20,6 @@ def data_bar(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataBar](/cells/python-net/tr/aspose.cells/databar)
-* sınıf [FormatCondition](/cells/python-net/tr/aspose.cells/formatcondition)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataBar`](/cells/python-net/tr/aspose.cells/databar)
+* sınıf [`FormatCondition`](/cells/python-net/tr/aspose.cells/formatcondition)

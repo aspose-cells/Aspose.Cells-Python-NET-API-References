@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value mülk
 
-Özelliğin value'ini alır ve ayarlar.
+Özelliğin value değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [SmartTagProperty](/cells/python-net/tr/aspose.cells.markup/smarttagproperty)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`SmartTagProperty`](/cells/python-net/tr/aspose.cells.markup/smarttagproperty)

@@ -3,7 +3,7 @@ title: title_style mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 120
 url: /tr/aspose.cells.utility/jsonlayoutoptions/title_style/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def title_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.utility](../../)
-* sınıf [JsonLayoutOptions](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells.utility`](../../)
+* sınıf [`JsonLayoutOptions`](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

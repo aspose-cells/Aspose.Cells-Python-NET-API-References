@@ -3,20 +3,21 @@ title: get_named_style yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 190
 url: /tr/aspose.cells/workbook/get_named_style/
 is_root: false
 ---
-##  get_named_style(name) {#str}
-Stil havuzunda belirtilen stili alır.
+##  get_named_style(self, name) {#str}
+Stil havuzundaki adlandırılmış stili alır.
 
 
 ###  İadeler
 
-adlı stil, belki boş.
+adlandırılmış stil, belki boş.
 
 
 ```python
+
 def get_named_style(self, name):
     ...
 ```
@@ -29,5 +30,5 @@ def get_named_style(self, name):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Workbook](/cells/python-net/tr/aspose.cells/workbook)
+* modül [`aspose.cells`](../../)
+* sınıf [`Workbook`](/cells/python-net/tr/aspose.cells/workbook)

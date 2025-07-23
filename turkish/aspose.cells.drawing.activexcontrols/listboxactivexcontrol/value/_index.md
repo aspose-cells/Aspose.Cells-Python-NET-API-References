@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  value mülk
 
-Denetimin value değerini alır ve ayarlar.
+Kontrolün value'ini alır ve ayarlar.
 
 ###  Notlar
 
-Yalnızca [ListBoxActiveXControl.selection_type](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol#selection_type), SelectionType.Single olduğunda etkilidir;
+Yalnızca [`ListBoxActiveXControl.selection_type`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol#selection_type) SelectionType.Single olduğunda etkilidir;
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ListBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ListBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

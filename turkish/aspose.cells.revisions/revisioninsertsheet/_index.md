@@ -12,26 +12,24 @@ Eklenen bir sayfanın revizyon kaydını temsil eder.
 
 
 
-**Miras:** [RevisionInsertSheet](/cells/python-net/aspose.cells.revisions/revisioninsertsheet) → 
-[Revision](/cells/python-net/tr/aspose.cells.revisions/revision)
+**Miras:** [`RevisionInsertSheet`](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet)
 
 
 
-RevisionInsertSheet türü aşağıdaki üyeleri gösterir:
+RevisionInsertSheet türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [type](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet/type) | Revizyon türünü alır.|
-| [worksheet](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet/worksheet) | Çalışma sayfasını alır.|
-| [id](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet/id) | Bu revizyonun numarasını alır.|
-| [action_type](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet/action_type) | Düzeltmenin eylem türünü alır.|
+| [worksheet](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet/worksheet) |  |
+| [id](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet/id) |  |
+| [action_type](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet/action_type) | Revizyonun eylem türünü alır.|
 | [name](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet/name) | Çalışma sayfasının adını alır.|
-| [sheet_position](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet/sheet_position) | Sayfa sekme çubuğundaki yeni sayfanın sıfır tabanlı konumunu alır.|
+| [sheet_position](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet/sheet_position) | Sayfa sekme çubuğunda yeni sayfanın sıfır tabanlı konumunu alır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](..)
-* sınıf [Revision](/cells/python-net/tr/aspose.cells.revisions/revision)
-* sınıf [RevisionInsertSheet](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet)
+* modül [`aspose.cells.revisions`](..)
+* sınıf [`RevisionInsertSheet`](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet)

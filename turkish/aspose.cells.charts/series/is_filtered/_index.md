@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_filtered mülk
 
-Serinin seçili mi yoksa filtrelenmiş mi olduğunu belirtir. Doğru, bu serinin filtrelendiğini ve grafikte görüntülenmeyeceğini gösterir.
+Serinin seçili mi yoksa filtrelenmiş mi olduğunu gösterir. True değeri, bu serinin filtrelendiğini ve grafikte gösterilmeyeceğini gösterir.
 ###  Tanım:
 ```python
 @property

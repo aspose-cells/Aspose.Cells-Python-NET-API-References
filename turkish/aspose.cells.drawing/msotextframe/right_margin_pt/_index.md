@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_margin_pt mülk
 
-Sağ kenar boşluğunu Puan birimi cinsinden verir
+Sağ kenar boşluğunu Puan biriminde döndürür
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def right_margin_pt(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoTextFrame](/cells/python-net/tr/aspose.cells.drawing/msotextframe)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoTextFrame`](/cells/python-net/tr/aspose.cells.drawing/msotextframe)

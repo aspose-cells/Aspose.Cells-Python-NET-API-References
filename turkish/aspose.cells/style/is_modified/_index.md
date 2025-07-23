@@ -7,17 +7,18 @@ weight: 50
 url: /tr/aspose.cells/style/is_modified/
 is_root: false
 ---
-##  is_modified(modify_flag) {#StyleModifyFlag}
-Stilin belirtilen özelliklerinin değiştirilip değiştirilmediğini kontrol eder.
-Bir hücreye ConditionalFormattings uygulanırken bu stilin belirtilen özelliklerinin kullanılıp kullanılmayacağını kontrol etmek için ConditionalFormattings stili için kullanılır.
+##  is_modified(self, modify_flag) {#aspose.cells.StyleModifyFlag}
+Belirtilen stil özelliklerinin değiştirilip değiştirilmediğini kontrol eder.
+ConditionalFormattings stilinin belirtilen özelliklerinin bir hücreye ConditionalFormattings uygulanırken kullanılıp kullanılmayacağını kontrol etmek için kullanılır.
 
 
 ###  İadeler
 
-true belirtilen özellikler değiştirilmişse
+belirtilen özellikler değiştirilmişse doğru
 
 
 ```python
+
 def is_modified(self, modify_flag):
     ...
 ```
@@ -25,10 +26,10 @@ def is_modified(self, modify_flag):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| modify_flag | [StyleModifyFlag](/cells/python-net/tr/aspose.cells/stylemodifyflag) | Stil değiştirilmiş bayraklar|
+| modify_flag | [`StyleModifyFlag`](/cells/python-net/tr/aspose.cells/stylemodifyflag) | Stil değiştirilmiş bayraklar|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

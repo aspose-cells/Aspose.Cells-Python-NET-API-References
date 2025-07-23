@@ -7,8 +7,8 @@ weight: 30
 url: /tr/aspose.cells.charts/chartglobalizationsettings/get_axis_unit_name/
 is_root: false
 ---
-##  get_axis_unit_name(type) {#DisplayUnitType}
-Eksen Biriminin Adını alır.
+##  get_axis_unit_name(self, type) {#aspose.cells.charts.DisplayUnitType}
+Eksen Biriminin Adını Alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Eksen Biriminin Adını alır.
 
 
 ```python
+
 def get_axis_unit_name(self, type):
     ...
 ```
@@ -24,10 +25,10 @@ def get_axis_unit_name(self, type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | [DisplayUnitType](/cells/python-net/tr/aspose.cells.charts/displayunittype) |  |
+| type | [`DisplayUnitType`](/cells/python-net/tr/aspose.cells.charts/displayunittype) |  |
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartGlobalizationSettings](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartGlobalizationSettings`](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)

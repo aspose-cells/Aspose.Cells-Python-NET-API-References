@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells.saving/sqlscriptcolumntypemap/get_numberic_type/
 is_root: false
 ---
-##  get_numberic_type() {#}
+##  get_numberic_type(self) {#}
 Veritabanındaki sayısal türü alır.
 
 
@@ -17,6 +17,7 @@ Veritabanındaki sayısal türü alır.
 
 
 ```python
+
 def get_numberic_type(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_numberic_type(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.saving](../../)
-* sınıf [SqlScriptColumnTypeMap](/cells/python-net/tr/aspose.cells.saving/sqlscriptcolumntypemap)
+* modül [`aspose.cells.saving`](../../)
+* sınıf [`SqlScriptColumnTypeMap`](/cells/python-net/tr/aspose.cells.saving/sqlscriptcolumntypemap)

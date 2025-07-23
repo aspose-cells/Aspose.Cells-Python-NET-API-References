@@ -3,13 +3,13 @@ title: is_logarithmic mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 250
 url: /tr/aspose.cells.charts/axis/is_logarithmic/
 is_root: false
 ---
 ##  is_logarithmic mülk
 
-Değer ekseni ölçek türünün logaritmik olup olmadığını temsil eder.
+Değer ekseni ölçek türünün logaritmik olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property

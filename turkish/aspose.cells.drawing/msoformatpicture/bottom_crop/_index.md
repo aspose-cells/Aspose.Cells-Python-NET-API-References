@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_crop mülk
 
-Görüntünün yüksekliğinin bir oranı olarak ifade edilen, kırpma dikdörtgeninin alt kısmının konumunu temsil eder.
+Görüntünün yüksekliğine oranla ifade edilen kırpma dikdörtgeninin alt kısmının konumunu temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_crop(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoFormatPicture](/cells/python-net/tr/aspose.cells.drawing/msoformatpicture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoFormatPicture`](/cells/python-net/tr/aspose.cells.drawing/msoformatpicture)

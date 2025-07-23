@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/license/set_license/
 is_root: false
 ---
-##  set_license(license_name) {#str}
+##  set_license(self, license_name) {#str}
 Bileşeni lisanslar.
 
 
 
 ```python
+
 def set_license(self, license_name):
     ...
 ```
@@ -23,31 +24,31 @@ def set_license(self, license_name):
 | license_name | str |  |
 ###  Notlar
 
-Lisansı aşağıdaki konumlarda bulmaya çalışır:
+Aşağıdaki konumlarda lisansı bulmaya çalışır:
 
 
 1. Açık yol.
 
 
-2. Aspose bileşen tertibatını içeren klasör.
+2. Aspose bileşen montajını içeren klasör.
 
 
-3. İstemcinin çağrı derlemesini içeren klasör.
+3. İstemcinin çağırdığı derlemeyi içeren klasör.
 
 
 4. Giriş (başlangıç) derlemesini içeren klasör.
 
 
-5. İstemcinin çağrı derlemesinde katıştırılmış bir kaynak.
+5. İstemcinin çağıran derlemesinde gömülü bir kaynak.
 
 
-**Not:** .NET Kompakt Çerçeve üzerinde, lisansı yalnızca şu konumlarda bulmaya çalışır:
+**Not:**.NET Compact Framework'te, yalnızca şu konumlarda lisansı bulmaya çalışır:
 
 
 1. Açık yol.
 
 
-2. İstemcinin çağrı derlemesinde katıştırılmış bir kaynak.
+2. İstemcinin çağıran derlemesinde gömülü bir kaynak.
 ###  Örnek
 
 
@@ -55,8 +56,8 @@ Bu örnekte, MyLicense.lic adlı bir lisans dosyası bulunmaya çalışılacakt�
  içeren klasörde
 
 
-çağıran derlemeyi içeren klasördeki bileşen,
-giriş derlemesinin klasöründe ve ardından çağıran derlemenin katıştırılmış kaynaklarında.
+çağrıyı yapan derlemeyi içeren klasördeki bileşen,
+giriş derlemesinin klasöründe ve ardından çağıran derlemenin gömülü kaynaklarında.
 
 ```python
 from aspose.cells import License
@@ -65,16 +66,17 @@ license = License()
 license.set_license("MyLicense.lic")
 
 ```
-Tam veya kısa dosya adı veya katıştırılmış bir kaynağın adı olabilir.
+Tam veya kısa dosya adı veya gömülü bir kaynağın adı olabilir.
 Değerlendirme moduna geçmek için boş bir dize kullanın.
 
 
-##  set_license(stream) {#io.RawIOBase}
+##  set_license(self, stream) {#io.RawIOBase}
 Bileşeni lisanslar.
 
 
 
 ```python
+
 def set_license(self, stream):
     ...
 ```
@@ -82,10 +84,10 @@ def set_license(self, stream):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| stream | io.RawIOBase | Lisansı içeren bir akış.|
+| stream | io.RawIOBase |Lisansı içeren bir akış.|
 ###  Notlar
 
-Akıştan lisans yüklemek için bu yöntemi kullanın.
+Bir akıştan lisans yüklemek için bu yöntemi kullanın.
 ###  Örnek
 
 
@@ -100,5 +102,5 @@ license.set_license(myStream)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [License](/cells/python-net/tr/aspose.cells/license)
+* modül [`aspose.cells`](../../)
+* sınıf [`License`](/cells/python-net/tr/aspose.cells/license)

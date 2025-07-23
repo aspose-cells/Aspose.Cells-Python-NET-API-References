@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area mülk
 
-[DropBars.area](/cells/python-net/tr/aspose.cells.charts/dropbars#area)'i alır.
+[`DropBars.area`](/cells/python-net/tr/aspose.cells.charts/dropbars#area)'i alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Area](/cells/python-net/tr/aspose.cells.drawing/area)
-* sınıf [DropBars](/cells/python-net/tr/aspose.cells.charts/dropbars)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Area`](/cells/python-net/tr/aspose.cells.drawing/area)
+* sınıf [`DropBars`](/cells/python-net/tr/aspose.cells.charts/dropbars)

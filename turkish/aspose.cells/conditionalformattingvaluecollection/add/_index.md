@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/conditionalformattingvaluecollection/add/
 is_root: false
 ---
-##  add(type, value) {#FormatConditionValueType-str}
-[ConditionalFormattingValue](/cells/python-net/tr/aspose.cells/conditionalformattingvalue) nesnesini ekler.
+##  add(self, type, value) {#aspose.cells.FormatConditionValueType-str}
+[`ConditionalFormattingValue`](/cells/python-net/tr/aspose.cells/conditionalformattingvalue) nesnesini ekler.
 
 
 ###  İadeler
 
-Listedeki yeni nesnenin dizinini döndürür.
+Listedeki yeni nesnenin indeksini döndürür.
 
 
 ```python
+
 def add(self, type, value):
     ...
 ```
@@ -24,12 +25,12 @@ def add(self, type, value):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | [FormatConditionValueType](/cells/python-net/tr/aspose.cells/formatconditionvaluetype) | değer türü.|
+| type | [`FormatConditionValueType`](/cells/python-net/tr/aspose.cells/formatconditionvaluetype) | Değer türü.|
 | value | str | Değer.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingValue](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)
-* sınıf [ConditionalFormattingValueCollection](/cells/python-net/tr/aspose.cells/conditionalformattingvaluecollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingValue`](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)
+* sınıf [`ConditionalFormattingValueCollection`](/cells/python-net/tr/aspose.cells/conditionalformattingvaluecollection)

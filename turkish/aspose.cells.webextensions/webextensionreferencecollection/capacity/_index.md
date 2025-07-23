@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionReferenceCollection](/cells/python-net/tr/aspose.cells.webextensions/webextensionreferencecollection)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionReferenceCollection`](/cells/python-net/tr/aspose.cells.webextensions/webextensionreferencecollection)

@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  auto_size mülk
 
-Yorum boyutunun içeriğine göre otomatik olarak ayarlanıp ayarlanmadığını belirtir.
+Yorumun boyutunun içeriğine göre otomatik olarak ayarlanıp ayarlanmadığını belirtir.
+Not: Bazı özel durumlarda (Mac ortamı gibi) bu ayar etkili olmayabilir. Bu ayar etkili olmazsa, lütfen FitToTextSize() ile değiştirin.
 
 ###  Örnek
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_extract_load mülk
 
-uygulamanın veri kurtarma için çalışma kitabını en son açıp açmadığını gösterir.
+Uygulamanın veri kurtarma amacıyla çalışma kitabını en son açıp açmadığını gösterir.
 ###  Tanım:
 ```python
 @property

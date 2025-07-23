@@ -3,20 +3,21 @@ title: get_subtotals yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 130
 url: /tr/aspose.cells.pivot/pivotfield/get_subtotals/
 is_root: false
 ---
-##  get_subtotals {#aspose.cells.pivot.PivotFieldSubtotalType}
-Belirtilen alt toplamın gösterilip gösterilmediğini belirtir.
+##  get_subtotals(self, subtotal_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
+Belirtilen ara toplamın gösterilip gösterilmeyeceğini belirtir.
 
 
 ###  İadeler
 
-Belirtilen alt toplamın gösterilip gösterilmediğini döndürür.
+Belirtilen ara toplamın gösterilip gösterilmediğini döndürür.
 
 
 ```python
+
 def get_subtotals(self, subtotal_type):
     ...
 ```

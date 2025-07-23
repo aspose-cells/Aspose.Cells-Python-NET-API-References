@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FolderFontSource](/cells/python-net/tr/aspose.cells/folderfontsource)
-* sınıf [FontSourceType](/cells/python-net/tr/aspose.cells/fontsourcetype)
+* modül [`aspose.cells`](../../)
+* sınıf [`FolderFontSource`](/cells/python-net/tr/aspose.cells/folderfontsource)
+* sınıf [`FontSourceType`](/cells/python-net/tr/aspose.cells/fontsourcetype)

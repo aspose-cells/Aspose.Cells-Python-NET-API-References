@@ -3,7 +3,7 @@ title: shared mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 470
 url: /tr/aspose.cells/workbooksettings/shared/
 is_root: false
 ---

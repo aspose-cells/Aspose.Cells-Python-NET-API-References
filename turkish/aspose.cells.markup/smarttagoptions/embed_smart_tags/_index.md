@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  embed_smart_tags mülk
 
-Akıllı etiketlerin çalışma kitabıyla birlikte kaydedilip kaydedilmediğini gösterir.
+Akıllı etiketlerin çalışma kitabıyla birlikte kaydedilip kaydedilmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def embed_smart_tags(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [SmartTagOptions](/cells/python-net/tr/aspose.cells.markup/smarttagoptions)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`SmartTagOptions`](/cells/python-net/tr/aspose.cells.markup/smarttagoptions)

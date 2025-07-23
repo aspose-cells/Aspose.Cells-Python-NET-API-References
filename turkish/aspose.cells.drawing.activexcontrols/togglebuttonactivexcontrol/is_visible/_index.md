@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_visi
 is_root: false
 ---
 ##  is_visible mülk
-
-Bu kontrolün görünür olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_visible(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ToggleButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ToggleButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

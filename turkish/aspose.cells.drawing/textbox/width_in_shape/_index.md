@@ -3,13 +3,13 @@ title: width_in_shape mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /tr/aspose.cells.drawing/textbox/width_in_shape/
 is_root: false
 ---
 ##  width_in_shape mülk
 
-Ana şeklin 1/4000 birimi cinsinden şeklin genişliğini temsil eder.
+Şeklin genişliğini, ana şeklin 1/4000'i biriminde temsil eder.
 
 ###  Notlar
 

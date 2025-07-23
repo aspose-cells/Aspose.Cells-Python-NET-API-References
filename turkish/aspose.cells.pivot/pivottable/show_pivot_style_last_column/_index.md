@@ -3,13 +3,13 @@ title: show_pivot_style_last_column mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 950
+weight: 1080
 url: /tr/aspose.cells.pivot/pivottable/show_pivot_style_last_column/
 is_root: false
 ---
 ##  show_pivot_style_last_column mülk
 
-Sütun şerit biçimlendirmesinin uygulanıp uygulanmadığını gösterir.
+Sütun biçimlendirmesinin uygulanıp uygulanmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_pivot_style_last_column(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

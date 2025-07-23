@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  leader_lines mülk
 
- Bir grafikte öncü çizgileri temsil eder. Lider çizgiler, veri etiketlerini veri noktalarına bağlar.
-Bu nesne bir koleksiyon değil; tek bir öncü çizgiyi temsil eden hiçbir nesne yoktur.
+ Bir grafikteki öncü çizgileri temsil eder. Öncü çizgiler, veri etiketlerini veri noktalarına bağlar.
+Bu nesne bir koleksiyon değil; tek bir lider çizgisini temsil eden bir nesne yok.
 ###  Tanım:
 ```python
 @property
@@ -19,6 +19,6 @@ def leader_lines(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Line](/cells/python-net/tr/aspose.cells.drawing/line)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

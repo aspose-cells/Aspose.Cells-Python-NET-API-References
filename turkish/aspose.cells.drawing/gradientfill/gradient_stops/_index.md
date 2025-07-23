@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_stops mülk
 
-Degrade durdurma koleksiyonunu temsil eder.
+Gradyan durdurma koleksiyonunu temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def gradient_stops(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GradientFill](/cells/python-net/tr/aspose.cells.drawing/gradientfill)
-* sınıf [GradientStopCollection](/cells/python-net/tr/aspose.cells.drawing/gradientstopcollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GradientFill`](/cells/python-net/tr/aspose.cells.drawing/gradientfill)
+* sınıf [`GradientStopCollection`](/cells/python-net/tr/aspose.cells.drawing/gradientstopcollection)

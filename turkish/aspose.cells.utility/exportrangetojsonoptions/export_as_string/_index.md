@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_as_string mülk
 
-Hücrelerin dize değerini json'a verir.
+Hücrelerin string değerini json'a aktarır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_as_string(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.utility](../../)
-* sınıf [ExportRangeToJsonOptions](/cells/python-net/tr/aspose.cells.utility/exportrangetojsonoptions)
+* modül [`aspose.cells.utility`](../../)
+* sınıf [`ExportRangeToJsonOptions`](/cells/python-net/tr/aspose.cells.utility/exportrangetojsonoptions)

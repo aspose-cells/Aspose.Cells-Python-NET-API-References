@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  category_type mülk
 
-Kategori ekseni türünü temsil eder.
+Kategori ekseninin türünü temsil eder.
 ###  Tanım:
 ```python
 @property

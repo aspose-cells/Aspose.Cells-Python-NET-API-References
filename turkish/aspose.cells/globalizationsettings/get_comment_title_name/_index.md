@@ -7,7 +7,7 @@ weight: 60
 url: /tr/aspose.cells/globalizationsettings/get_comment_title_name/
 is_root: false
 ---
-##  get_comment_title_name(type) {#aspose.cells.rendering.CommentTitleType}
+##  get_comment_title_name(self, type) {#aspose.cells.rendering.CommentTitleType}
 Yorum başlığı türüne göre yerel ayarlara bağlı yorum başlığı adını alır.
 
 
@@ -17,6 +17,7 @@ Yorum başlığı türüne göre yerel ayarlara bağlı yorum başlığı adın�
 
 
 ```python
+
 def get_comment_title_name(self, type):
     ...
 ```
@@ -29,5 +30,5 @@ def get_comment_title_name(self, type):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [GlobalizationSettings](/cells/python-net/tr/aspose.cells/globalizationsettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`GlobalizationSettings`](/cells/python-net/tr/aspose.cells/globalizationsettings)

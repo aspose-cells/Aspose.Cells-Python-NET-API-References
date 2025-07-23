@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  prompt mülk
 
- Parametre için bilgi istemi dizesi. Elektronik tablo kullanıcısına giriş kullanıcı arabirimiyle birlikte sunulur
- harici verileri yenilemeden önce parametre değerini toplamak için. Sadece ne zaman kullanılır
+ Parametre için istem dizesi. Giriş kullanıcı arayüzüyle birlikte elektronik tablo kullanıcısına sunulur.
+ Harici verileri yenilemeden önce parametre değerini toplamak için kullanılır. Yalnızca şu durumlarda kullanılır:
 parametreTürü = prompt.
 ###  Tanım:
 ```python
@@ -23,5 +23,5 @@ def prompt(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [ConnectionParameter](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`ConnectionParameter`](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter)

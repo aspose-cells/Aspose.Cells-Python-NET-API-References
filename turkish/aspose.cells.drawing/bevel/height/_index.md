@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height mülk
 
-Eğimin height'ini veya uygulandığı şeklin ne kadar yukarısını alır ve ayarlar.
+Eğimin height değerini veya şeklin ne kadar yukarısına uygulandığını alır ve ayarlar.
 Puan biriminde.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def height(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Bevel](/cells/python-net/tr/aspose.cells.drawing/bevel)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Bevel`](/cells/python-net/tr/aspose.cells.drawing/bevel)

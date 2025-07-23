@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_above_average mülk
 
- Kuralın "ortalamanın üzerinde" bir kural olup olmadığını gösteren bayrağı alın veya ayarlayın.
-true', 'ortalamanın üzerinde' anlamına gelir.
+ Kuralın "ortalamanın üstünde" bir kural olup olmadığını gösteren bayrağı alın veya ayarlayın.
+'true' 'ortalamanın üstünde' anlamına gelir.
 Varsayılan değer doğrudur.
 ###  Tanım:
 ```python
@@ -23,5 +23,5 @@ def is_above_average(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AboveAverage](/cells/python-net/tr/aspose.cells/aboveaverage)
+* modül [`aspose.cells`](../../)
+* sınıf [`AboveAverage`](/cells/python-net/tr/aspose.cells/aboveaverage)

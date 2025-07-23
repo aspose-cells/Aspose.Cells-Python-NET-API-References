@@ -15,8 +15,11 @@ Sütunun grup düzeyini alır.
 @property
 def group_level(self):
     ...
+@group_level.setter
+def group_level(self, value):
+    ...
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Column](/cells/python-net/tr/aspose.cells/column)
+* modül [`aspose.cells`](../../)
+* sınıf [`Column`](/cells/python-net/tr/aspose.cells/column)

@@ -3,12 +3,12 @@ title: get_by_index yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 50
 url: /tr/aspose.cells/columncollection/get_by_index/
 is_root: false
 ---
-##  get_by_index(index) {#int}
-Sütun nesnesini dizine göre alır.
+##  get_by_index(self, index) {#int}
+İndeks ile sütun nesnesini alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Sütun nesnesini döndürür.
 
 
 ```python
+
 def get_by_index(self, index):
     ...
 ```
@@ -27,12 +28,12 @@ def get_by_index(self, index):
 | index | int |  |
 ###  Notlar
 
-NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen Columns.GetColumnByIndex() yöntemini kullanın.
- Bu mülk, Haziran 2010'dan bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen Columns.GetColumnByIndex() metodunu kullanın.
+ Bu özellik Haziran 2010'dan itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ColumnCollection](/cells/python-net/tr/aspose.cells/columncollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ColumnCollection`](/cells/python-net/tr/aspose.cells/columncollection)

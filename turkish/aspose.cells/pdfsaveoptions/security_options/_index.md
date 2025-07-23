@@ -3,17 +3,17 @@ title: security_options mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 390
+weight: 440
 url: /tr/aspose.cells/pdfsaveoptions/security_options/
 is_root: false
 ---
 ##  security_options mülk
 
-xls2pdf sonucunda güvenlik gerektiğinde bu seçenekleri ayarlayın.
+Xls2pdf sonucunda güvenliğe ihtiyaç duyulduğunda bu seçeneği ayarlayın.
 
 ###  Örnek
 
-Aşağıdaki kod, çıktı pdf için yüksek çözünürlüklü yazdırma iznini ayarlar.
+Aşağıdaki kod çıktı pdf'i için yüksek çözünürlüklü yazdırma iznini ayarlar.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -46,6 +46,6 @@ def security_options(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PdfSaveOptions](/cells/python-net/tr/aspose.cells/pdfsaveoptions)
-* sınıf [PdfSecurityOptions](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PdfSaveOptions`](/cells/python-net/tr/aspose.cells/pdfsaveoptions)
+* sınıf [`PdfSecurityOptions`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

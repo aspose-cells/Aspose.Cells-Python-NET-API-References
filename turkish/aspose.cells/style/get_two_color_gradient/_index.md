@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells/style/get_two_color_gradient/
 is_root: false
 ---
-##  get_two_color_gradient(color1, color2, gradient_style_type, variant) {#aspose.pydrawing.Color&-aspose.pydrawing.Color&-any-any}
-İki renkli gradyan ayarını alın.
+##  get_two_color_gradient(self, color1, color2, gradient_style_type, variant) {#aspose.pydrawing.Color&-aspose.pydrawing.Color&-any-any}
+İki renkli degrade ayarını edinin.
 
 
 
 ```python
+
 def get_two_color_gradient(self, color1, color2, gradient_style_type, variant):
     ...
 ```
@@ -22,16 +23,16 @@ def get_two_color_gradient(self, color1, color2, gradient_style_type, variant):
 | :- | :- | :- |
 | color1 | aspose.pydrawing.Color& | Bir degrade renk.|
 | color2 | aspose.pydrawing.Color& | İki degrade renk.|
-| gradient_style_type | any | Degrade gölgeleme stili.|
+| gradient_style_type | any | Degrade gölgelendirme stili.|
 | variant | any | Gradyan varyantı.|
 ###  Notlar
 
-NOT: Bu yöntem artık kullanılmıyor.
-Bunun yerine lütfen Style.GetTwoColorGradientSetting() yöntemini kullanın.
- Bu mülk, Aralık 2022'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+NOT: Bu yöntem artık geçerliliğini yitirmiştir.
+Bunun yerine lütfen Style.GetTwoColorGradientSetting() metodunu kullanın.
+ Bu özellik Aralık 2022'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

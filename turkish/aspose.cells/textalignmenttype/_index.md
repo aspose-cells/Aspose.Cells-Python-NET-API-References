@@ -3,12 +3,12 @@ title: TextAlignmentType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2610
+weight: 2580
 url: /tr/aspose.cells/textalignmenttype/
 is_root: false
 ---
 ##  TextAlignmentType numaralandırma
-Metin hizalama türlerini numaralandırır.
+Metin hizalama türlerini sıralar.
 
 
 
@@ -17,18 +17,18 @@ TextAlignmentType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| GENERAL |Genel metin hizalamasını temsil eder.|
+| GENERAL | Genel metin hizalamasını temsil eder.|
 | BOTTOM | Alt metin hizalamasını temsil eder.|
-| CENTER | Orta metin hizalamasını temsil eder.|
-| CENTER_ACROSS | Metin hizalaması boyunca merkezi temsil eder.|
+| CENTER | Metnin orta hizalamasını temsil eder.|
+| CENTER_ACROSS |Metnin merkez hizalamasını temsil eder.|
 | DISTRIBUTED | Dağıtılmış metin hizalamasını temsil eder.|
-| FILL | Dolgu metni hizalamasını temsil eder.|
-| JUSTIFY | Metin hizalamasını yaslamayı temsil eder.|
-| LEFT | Sola metin hizalamasını temsil eder.|
-| RIGHT | Sağ metin hizalamasını temsil eder.|
+| FILL | Dolgu metninin hizalanmasını temsil eder.|
+| JUSTIFY | Metnin hizalanmasını temsil eder.|
+| LEFT | Metnin sol hizalanmasını temsil eder.|
+| RIGHT | Metnin doğru hizalanmasını temsil eder.|
 | TOP | Üst metin hizalamasını temsil eder.|
-| JUSTIFIED_LOW | Metni Arapça metin için ayarlanmış kashida uzunluğuyla hizalar.|
-| THAI_DISTRIBUTED | Tayca metni özel olarak dağıtır çünkü her karakter bir kelime olarak değerlendirilir.|
+| JUSTIFIED_LOW | Metni Arapça metin için ayarlanmış bir kashida uzunluğuyla hizalar.|
+| THAI_DISTRIBUTED | Tayca metin özel olarak dağıtılır, çünkü her karakter bir kelime olarak ele alınır.|
 
 
 

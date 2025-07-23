@@ -3,12 +3,12 @@ title: FontSetting sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 700
+weight: 690
 url: /tr/aspose.cells/fontsetting/
 is_root: false
 ---
 ##  FontSetting sınıfı
-Hücre metni içindeki bir karakter aralığını temsil eder.
+Hücre metnindeki karakter aralığını temsil eder.
 
 
 
@@ -17,14 +17,14 @@ FontSetting türü aşağıdaki üyeleri ortaya çıkarır:
 ###  İnşaatçılar
 | Oluşturucu| Tanım|
 | :- | :- |
-| [__init__](/cells/python-net/tr/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
+| [`__init__(self, start_index, length, sheets)`](/cells/python-net/tr/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.worksheetcollection) |  |
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [type](/cells/python-net/tr/aspose.cells/fontsetting/type) | Metin düğümünün türünü alır.|
-| [start_index](/cells/python-net/tr/aspose.cells/fontsetting/start_index) |Karakterlerin başlangıç indeksini alır.|
+| [type](/cells/python-net/tr/aspose.cells/fontsetting/type) |Metin düğümünün türünü alır.|
+| [start_index](/cells/python-net/tr/aspose.cells/fontsetting/start_index) | Karakterlerin başlangıç indeksini alır.|
 | [length](/cells/python-net/tr/aspose.cells/fontsetting/length) | Karakterlerin uzunluğunu alır.|
 | [font](/cells/python-net/tr/aspose.cells/fontsetting/font) | Bu nesnenin yazı tipini döndürür.|
 | [text_options](/cells/python-net/tr/aspose.cells/fontsetting/text_options) | Metin seçeneklerini döndürür.|
@@ -33,7 +33,7 @@ FontSetting türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [set_word_art_style](/cells/python-net/tr/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Önceden ayarlanmış WordArt stilini ayarlar.|
+| [`set_word_art_style(self, style)`](/cells/python-net/tr/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) | Önceden ayarlanmış WordArt stilini ayarlar.|
 
 
 

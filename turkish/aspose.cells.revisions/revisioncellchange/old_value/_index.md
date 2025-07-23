@@ -18,5 +18,5 @@ def old_value(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionCellChange](/cells/python-net/tr/aspose.cells.revisions/revisioncellchange)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionCellChange`](/cells/python-net/tr/aspose.cells.revisions/revisioncellchange)

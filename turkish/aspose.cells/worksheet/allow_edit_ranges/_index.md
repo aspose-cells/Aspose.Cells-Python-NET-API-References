@@ -3,13 +3,13 @@ title: allow_edit_ranges mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 380
 url: /tr/aspose.cells/worksheet/allow_edit_ranges/
 is_root: false
 ---
 ##  allow_edit_ranges mülk
 
-Çalışma sayfasında izin verilen düzenleme aralığı koleksiyonunu alır.
+Çalışma sayfasında düzenleme aralığı koleksiyonuna izin ver'i alır.
 ###  Tanım:
 ```python
 @property

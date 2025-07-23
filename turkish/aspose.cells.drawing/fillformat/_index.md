@@ -3,49 +3,49 @@ title: FillFormat sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 170
 url: /tr/aspose.cells.drawing/fillformat/
 is_root: false
 ---
 ##  FillFormat sınıfı
-Bir şekil için dolgu biçimlendirmesini temsil eden nesneyi kapsüller.
+Bir şeklin dolgu biçimlendirmesini temsil eden nesneyi kapsüller.
 
 
 
-FillFormat türü aşağıdaki üyeleri gösterir:
+FillFormat türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [type](/cells/python-net/tr/aspose.cells.drawing/fillformat/type) |Doldurma türünü alır ve ayarlar.|
+| [type](/cells/python-net/tr/aspose.cells.drawing/fillformat/type) | Doldurma türünü alır ve ayarlar.|
 | [fill_type](/cells/python-net/tr/aspose.cells.drawing/fillformat/fill_type) | Doldurma türünü alır ve ayarlar|
-| [transparency](/cells/python-net/tr/aspose.cells.drawing/fillformat/transparency) | Alanın şeffaflık derecesini 0,0 (opak) ila 1,0 (temiz) arasında bir değer olarak döndürür veya ayarlar.|
-| [set_type](/cells/python-net/tr/aspose.cells.drawing/fillformat/set_type) | Dolgu formatı set tipini alır.|
-| [gradient_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat/gradient_fill) | [FillFormat.gradient_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat#gradient_fill) nesnesini alır.|
-| [texture_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat/texture_fill) | [FillFormat.texture_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat#texture_fill) nesnesini alır.|
-| [solid_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat/solid_fill) | [FillFormat.solid_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat#solid_fill) nesnesini alır.|
-| [pattern_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat/pattern_fill) | [FillFormat.pattern_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat#pattern_fill) nesnesini alır.|
+| [transparency](/cells/python-net/tr/aspose.cells.drawing/fillformat/transparency) |Alanın şeffaflık derecesini 0,0 (opak) ile 1,0 (temiz) arasında bir değer olarak döndürür veya ayarlar.|
+| [set_type](/cells/python-net/tr/aspose.cells.drawing/fillformat/set_type) | Doldurma biçimi kümesi türünü alır.|
+| [gradient_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat/gradient_fill) | [`FillFormat.gradient_fill`](/cells/python-net/tr/aspose.cells.drawing/fillformat#gradient_fill) nesnesini alır.|
+| [texture_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat/texture_fill) | [`FillFormat.texture_fill`](/cells/python-net/tr/aspose.cells.drawing/fillformat#texture_fill) nesnesini alır.|
+| [solid_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat/solid_fill) | [`FillFormat.solid_fill`](/cells/python-net/tr/aspose.cells.drawing/fillformat#solid_fill) nesnesini alır.|
+| [pattern_fill](/cells/python-net/tr/aspose.cells.drawing/fillformat/pattern_fill) | [`FillFormat.pattern_fill`](/cells/python-net/tr/aspose.cells.drawing/fillformat#pattern_fill) nesnesini alır.|
 | [gradient_color_type](/cells/python-net/tr/aspose.cells.drawing/fillformat/gradient_color_type) | Belirtilen dolgu için degrade renk türünü döndürür.|
 | [gradient_style](/cells/python-net/tr/aspose.cells.drawing/fillformat/gradient_style) | Belirtilen dolgu için degrade stilini döndürür.|
 | [gradient_color1](/cells/python-net/tr/aspose.cells.drawing/fillformat/gradient_color1) | Belirtilen dolgu için degrade rengi 1'i döndürür.|
-| [gradient_color2](/cells/python-net/tr/aspose.cells.drawing/fillformat/gradient_color2) | Belirtilen dolgu için degrade rengi 2'yi döndürür.|
-| [gradient_degree](/cells/python-net/tr/aspose.cells.drawing/fillformat/gradient_degree) | Belirtilen dolgu için gradyan derecesini döndürür.<br/> Yalnızca Excel 2007 için geçerlidir.|
-| [gradient_variant](/cells/python-net/tr/aspose.cells.drawing/fillformat/gradient_variant) | Belirtilen dolgu için gradyan değişkenini döndürür.<br/> Yalnızca Excel 2007 için geçerlidir.|
+| [gradient_color2](/cells/python-net/tr/aspose.cells.drawing/fillformat/gradient_color2) |Belirtilen dolgu için degrade rengi 2'yi döndürür.|
+| [gradient_degree](/cells/python-net/tr/aspose.cells.drawing/fillformat/gradient_degree) | Belirtilen dolgu için gradyan derecesini döndürür.<br/> Sadece Excel 2007 için geçerlidir.|
+| [gradient_variant](/cells/python-net/tr/aspose.cells.drawing/fillformat/gradient_variant) | Belirtilen dolgu için degrade değişkenini döndürür.<br/> Sadece Excel 2007 için geçerlidir.|
 | [preset_color](/cells/python-net/tr/aspose.cells.drawing/fillformat/preset_color) | Belirtilen dolgu için degrade ön ayar rengini döndürür.|
-| [texture](/cells/python-net/tr/aspose.cells.drawing/fillformat/texture) | Belirtilen dolgu için doku tipini temsil eder.|
-| [pattern](/cells/python-net/tr/aspose.cells.drawing/fillformat/pattern) | Bir alanın görüntüleme modelini temsil eder.|
-| [picture_format_type](/cells/python-net/tr/aspose.cells.drawing/fillformat/picture_format_type) | Resim biçimi türünü alır ve ayarlar.|
-| [scale](/cells/python-net/tr/aspose.cells.drawing/fillformat/scale) | Resim biçimi ölçeğini alır ve ayarlar.|
+| [texture](/cells/python-net/tr/aspose.cells.drawing/fillformat/texture) | Belirtilen dolgu için doku türünü temsil eder.|
+| [pattern](/cells/python-net/tr/aspose.cells.drawing/fillformat/pattern) | Bir alanın görüntülenme düzenini temsil eder.|
+| [picture_format_type](/cells/python-net/tr/aspose.cells.drawing/fillformat/picture_format_type) | Resim format türünü alır ve ayarlar.|
+| [scale](/cells/python-net/tr/aspose.cells.drawing/fillformat/scale) | Resim format ölçeğini alır ve ayarlar.|
 | [image_data](/cells/python-net/tr/aspose.cells.drawing/fillformat/image_data) | Resim görüntü verilerini alır ve ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [set_two_color_gradient(color1, color2, style, variant)](/cells/python-net/tr/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-aspose.pydrawing.Color-GradientStyleType-int) | Belirtilen dolguyu iki renkli bir degradeye ayarlar.<br/> Yalnızca Excel 2007 için geçerlidir.|
-| [set_two_color_gradient(color1, transparency1, color2, transparency2, style, variant)](/cells/python-net/tr/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-float-aspose.pydrawing.Color-float-GradientStyleType-int) | Belirtilen dolguyu iki renkli bir degradeye ayarlar.<br/> Yalnızca Excel 2007 için geçerlidir.|
-| [set_one_color_gradient(color, degree, style, variant)](/cells/python-net/tr/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.Color-float-GradientStyleType-int) | Belirtilen dolguyu tek renkli bir degradeye ayarlar.<br/> Yalnızca Excel 2007 için geçerlidir.|
-| [set_preset_color_gradient(preset_color, style, variant)](/cells/python-net/tr/aspose.cells.drawing/fillformat/set_preset_color_gradient/#GradientPresetType-GradientStyleType-int) | Belirtilen dolguyu önceden ayarlanmış bir renk gradyanına ayarlar.<br/> Yalnızca Excel 2007 için geçerlidir.|
+| [`set_two_color_gradient(self, color1, color2, style, variant)`](/cells/python-net/tr/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-aspose.pydrawing.color-aspose.cells.drawing.gradientstyletype-int) | Belirtilen dolguyu iki renkli bir degradeye ayarlar.<br/> Sadece Excel 2007 için geçerlidir.|
+| [`set_two_color_gradient(self, color1, transparency1, color2, transparency2, style, variant)`](/cells/python-net/tr/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-float-aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | Belirtilen dolguyu iki renkli bir degradeye ayarlar.<br/> Sadece Excel 2007 için geçerlidir.|
+| [`set_one_color_gradient(self, color, degree, style, variant)`](/cells/python-net/tr/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | Belirtilen dolguyu tek renkli bir degradeye ayarlar.<br/> Sadece Excel 2007 için geçerlidir.|
+| [`set_preset_color_gradient(self, preset_color, style, variant)`](/cells/python-net/tr/aspose.cells.drawing/fillformat/set_preset_color_gradient/#aspose.cells.drawing.gradientpresettype-aspose.cells.drawing.gradientstyletype-int) | Belirtilen dolguyu önceden ayarlanmış bir renk gradyanına ayarlar.<br/> Sadece Excel 2007 için geçerlidir.|
 
 
 
@@ -101,4 +101,4 @@ chart.n_series[seriesIndex].area.fill_format.set_one_color_gradient(Color.lime, 
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

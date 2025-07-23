@@ -3,14 +3,14 @@ title: has_blank_rows mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 560
+weight: 660
 url: /tr/aspose.cells.pivot/pivottable/has_blank_rows/
 is_root: false
 ---
 ##  has_blank_rows mülk
 
 Boş satırların eklenip eklenmeyeceğini belirtir.
-Bu özellik yalnızca boş satırlar eklemesi gereken PivotTable otomatik biçim türleri için geçerlidir.
+Bu özellik yalnızca boş satırlar eklemesi gereken PivotTable otomatik biçimlendirme türleri için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def has_blank_rows(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

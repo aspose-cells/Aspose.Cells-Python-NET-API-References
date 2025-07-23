@@ -7,18 +7,19 @@ weight: 70
 url: /tr/aspose.cells/validation/get_list_value/
 is_root: false
 ---
-##  get_list_value(row, column) {#int-int}
-Belirtilen hücre için doğrulama listesi için değeri alın.
+##  get_list_value(self, row, column) {#int-int}
+Belirtilen hücre için doğrulama listesinin değerini al.
 
 
 ###  İadeler
 
-Belirtilen hücre için bu doğrulamanın listesini oluşturacak değer.
-Liste bir aralığa başvuruyorsa, döndürülen değer bir [ReferredArea](/cells/python-net/tr/aspose.cells/referredarea) nesnesi olacaktır;
-Aksi takdirde döndürülen değer boş, nesne[] veya basit nesne olabilir.
+Belirtilen hücre için bu doğrulama listesini üretecek değer.
+Eğer liste bir aralığa referans veriyorsa, döndürülen değer [`ReferredArea`](/cells/python-net/tr/aspose.cells/referredarea) nesnesi olacaktır;
+Aksi takdirde döndürülen değer null, object[] veya simple object olabilir.
 
 
 ```python
+
 def get_list_value(self, row, column):
     ...
 ```
@@ -31,10 +32,10 @@ def get_list_value(self, row, column):
 ###  Notlar
 
 Yalnızca türü Liste olan ve verilen hücreye uygulanan doğrulama için,
-aksi takdirde null döndürülür.
+aksi takdirde null döndürülecektir.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ReferredArea](/cells/python-net/tr/aspose.cells/referredarea)
-* sınıf [Validation](/cells/python-net/tr/aspose.cells/validation)
+* modül [`aspose.cells`](../../)
+* sınıf [`ReferredArea`](/cells/python-net/tr/aspose.cells/referredarea)
+* sınıf [`Validation`](/cells/python-net/tr/aspose.cells/validation)

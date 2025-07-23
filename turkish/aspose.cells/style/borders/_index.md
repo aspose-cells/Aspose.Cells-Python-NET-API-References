@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  borders mülk
 
-Stilin [BorderCollection](/cells/python-net/tr/aspose.cells/bordercollection)'ini alır.
+Stilin [`BorderCollection`](/cells/python-net/tr/aspose.cells/bordercollection)'ini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def borders(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [BorderCollection](/cells/python-net/tr/aspose.cells/bordercollection)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`BorderCollection`](/cells/python-net/tr/aspose.cells/bordercollection)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

@@ -8,8 +8,6 @@ url: /tr/aspose.cells.revisions/revisioncellcomment/worksheet/
 is_root: false
 ---
 ##  worksheet mülk
-
-worksheet'i alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +16,6 @@ def worksheet(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionCellComment](/cells/python-net/tr/aspose.cells.revisions/revisioncellcomment)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionCellComment`](/cells/python-net/tr/aspose.cells.revisions/revisioncellcomment)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

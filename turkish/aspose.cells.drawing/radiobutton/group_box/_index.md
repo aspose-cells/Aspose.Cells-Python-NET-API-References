@@ -3,13 +3,13 @@ title: group_box mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 430
+weight: 420
 url: /tr/aspose.cells.drawing/radiobutton/group_box/
 is_root: false
 ---
 ##  group_box mülk
 
-Bu RadioButton'u içeren GroupBox'u alır.
+Bu RadioButton'ı içeren GroupBox'ı alır.
 ###  Tanım:
 ```python
 @property

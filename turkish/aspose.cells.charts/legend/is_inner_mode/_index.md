@@ -3,18 +3,18 @@ title: is_inner_mode mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 230
+weight: 290
 url: /tr/aspose.cells.charts/legend/is_inner_mode/
 is_root: false
 ---
 ##  is_inner_mode mülk
 
-Çizim alanı boyutunun onay işaretlerini ve eksen etiketlerini içerip içermediğini belirtir.
-False, boyutun çizim alanının, onay işaretlerinin ve eksen etiketlerinin boyutunu belirleyeceğini belirtir.
+Arsa alanının boyutunun, onay işaretlerini ve eksen etiketlerini içerip içermediğini belirtir.
+False, boyutun çizim alanının boyutunu, işaret çizgilerini ve eksen etiketlerini belirleyeceğini belirtir.
 
 ###  Notlar
 
-Yalnızca Xlsx dosyası için.
+Sadece Xlsx dosyası için.
 ###  Tanım:
 ```python
 @property

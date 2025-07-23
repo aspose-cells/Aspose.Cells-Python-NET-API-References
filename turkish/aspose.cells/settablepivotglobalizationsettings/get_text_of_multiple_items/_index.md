@@ -3,20 +3,21 @@ title: get_text_of_multiple_items yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 130
+weight: 140
 url: /tr/aspose.cells/settablepivotglobalizationsettings/get_text_of_multiple_items/
 is_root: false
 ---
-##  get_text_of_multiple_items {#}
+##  get_text_of_multiple_items(self) {#}
 PivotTable'daki "(Birden Çok Öğe)" etiketinin metnini alır.
 
 
 ###  İadeler
 
-"(Birden Çok Öğe)" etiketinin metni
+"(Birden Fazla Öğe)" etiketinin metni
 
 
 ```python
+
 def get_text_of_multiple_items(self):
     ...
 ```

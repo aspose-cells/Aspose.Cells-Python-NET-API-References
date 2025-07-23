@@ -12,23 +12,23 @@ Liste sütununun Toplamlar satırındaki hesaplama türünü belirler.
 
 
 
-TotalsCalculation türü aşağıdaki üyeleri gösterir:
+TotalsCalculation türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| SUM | Sum toplamları hesaplamasını temsil eder.|
-| COUNT | Sayım toplamları hesaplamasını temsil eder.|
-| AVERAGE |Ortalama toplam hesaplamayı temsil eder.|
-| MAX | Maksimum toplam hesaplamasını temsil eder.|
-| MIN | Minimum toplam hesaplamasını temsil eder.|
-| VAR | Var toplamları hesaplamasını temsil eder.|
-| COUNT_NUMS | Count Nums toplam hesaplamasını temsil eder.|
-| STD_DEV | StdDev toplamları hesaplamasını temsil eder.|
-| NONE | Toplam hesaplama olmadığını temsil eder.|
+| SUM | Toplamların hesaplanmasını temsil eder.|
+| COUNT | Toplam sayım hesaplamasını temsil eder.|
+| AVERAGE | Ortalama toplamların hesaplanmasını temsil eder.|
+| MAX | Maksimum toplamların hesaplanmasını temsil eder.|
+| MIN | Min toplam hesaplamasını temsil eder.|
+| VAR | Var toplamlarının hesaplanmasını temsil eder.|
+| COUNT_NUMS | Count Nums toplamlarının hesaplanmasını temsil eder.|
+| STD_DEV | StdDev toplamlarının hesaplanmasını temsil eder.|
+| NONE | Toplam hesaplaması yapılmadığını gösterir.|
 | CUSTOM | Özel hesaplamayı temsil eder.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](..)
+* modül [`aspose.cells.tables`](..)

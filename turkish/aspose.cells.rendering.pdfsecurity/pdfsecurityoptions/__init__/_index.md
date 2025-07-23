@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions/__init__/
 is_root: false
 ---
-##  __içinde__ {#}
+##  \_\_init\_\_(kendi){#}
 PdfSecurityOptions'in kurucusu
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -21,7 +22,7 @@ def __init__(self):
 
 ###  Örnek
 
-Aşağıdaki kod, çıktı pdf'si için yüksek çözünürlüklü yazdırma iznini ayarlar.
+Aşağıdaki kod çıktı pdf'i için yüksek çözünürlüklü yazdırma iznini ayarlar.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook

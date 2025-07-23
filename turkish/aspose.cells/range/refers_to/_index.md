@@ -3,13 +3,13 @@ title: refers_to mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 380
+weight: 480
 url: /tr/aspose.cells/range/refers_to/
 is_root: false
 ---
 ##  refers_to mülk
 
-Aralığın referanslarını alır.
+Aralığın referansını alır.
 ###  Tanım:
 ```python
 @property

@@ -3,14 +3,14 @@ title: Top10 sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1550
+weight: 1460
 url: /tr/aspose.cells/top10/
 is_root: false
 ---
 ##  Top10 sınıfı
  Top10 koşullu biçimlendirme kuralını açıklayın.
-Bu koşullu biçimlendirme kuralı,
-değerler belirtildiği gibi üst N veya alt N parantezinde yer alır.
+Bu koşullu biçimlendirme kuralı, hangi hücrelerin vurgulandığını belirtir.
+değerler belirtildiği gibi üst N veya alt N parantezine düşer.
 
 
 
@@ -19,15 +19,15 @@ Top10 türü aşağıdaki üyeleri ortaya çıkarır:
 ###  İnşaatçılar
 | Oluşturucu| Tanım|
 | :- | :- |
-| [__init__](/cells/python-net/tr/aspose.cells/top10/__init__/#) | Top10'un yeni bir örneğini oluşturur|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells/top10/__init__/#) | Top10'un yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [is_percent](/cells/python-net/tr/aspose.cells/top10/is_percent) | Bir "üst/alt n" kuralının "üst/alt yüzde n" kuralı olup olmadığını alın veya ayarlayın.<br/> Varsayılan değer false'tur.|
-| [is_bottom](/cells/python-net/tr/aspose.cells/top10/is_bottom) | Bir "üst/alt n" kuralının "alt n" kuralı olup olmadığını alın veya ayarlayın.<br/> Varsayılan değer false'tur.|
-| [rank](/cells/python-net/tr/aspose.cells/top10/rank) | "Üst/alt n" koşullu biçimlendirme kuralında "n" değerini alın veya ayarlayın.<br/>IsPercent doğruysa değer 0 ile 100 arasında olmalıdır.<br/>Aksi takdirde 0 ile 1000 arasında olmalıdır.<br/> Varsayılan değer 10'dur.|
+| [is_percent](/cells/python-net/tr/aspose.cells/top10/is_percent) | "En üst/en alt n" kuralının "en üst/en alt yüzde n" kuralı olup olmadığını alın veya ayarlayın.<br/> Varsayılan değer false'tur.|
+| [is_bottom](/cells/python-net/tr/aspose.cells/top10/is_bottom) | "Top/bottom n" kuralının "bottom n" kuralı olup olmadığını alın veya ayarlayın.<br/> Varsayılan değer false'tur.|
+| [rank](/cells/python-net/tr/aspose.cells/top10/rank) | "Top/bottom n" koşullu biçimlendirme kuralında "n" değerini al veya ayarla.<br/>IsPercent true ise değer 0 ile 100 arasında olmalıdır.<br/>Aksi takdirde 0 ile 1000 arasında olmalıdır.<br/> Varsayılan değer 10'dur.|
 
 
 

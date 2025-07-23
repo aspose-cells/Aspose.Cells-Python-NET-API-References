@@ -3,13 +3,13 @@ title: count_large mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1030
+weight: 1050
 url: /tr/aspose.cells/cells/count_large/
 is_root: false
 ---
 ##  count_large mülk
 
-Örneklenen Cell nesnenin toplam sayısını alır.
+Toplam Cell adet örneklenmiş nesnenin sayısını alır.
 ###  Tanım:
 ```python
 @property

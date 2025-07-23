@@ -3,7 +3,7 @@ title: is_external_link mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 110
 url: /tr/aspose.cells/referredarea/is_external_link/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_external_link(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ReferredArea](/cells/python-net/tr/aspose.cells/referredarea)
+* modül [`aspose.cells`](../../)
+* sınıf [`ReferredArea`](/cells/python-net/tr/aspose.cells/referredarea)

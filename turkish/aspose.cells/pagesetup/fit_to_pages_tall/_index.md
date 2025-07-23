@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  fit_to_pages_tall mülk
 
-Çalışma sayfasının yazdırıldığında ölçekleneceği uzun sayfa sayısını temsil eder.
+Çalışma sayfası yazdırıldığında ölçekleneceği sayfa sayısını temsil eder.
 Varsayılan değer 1'dir.
 
 ###  Notlar
 
-Tüm satırları bir sayfaya sığdırmak istiyorsanız FitToPagesWide'ı sıfır olarak ayarlamanız gerekir.
+Tüm satırları tek sayfaya sığdırmak istiyorsanız FitToPagesWide değerini sıfır olarak ayarlamanız gerekir.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def fit_to_pages_tall(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

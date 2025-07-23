@@ -7,8 +7,8 @@ weight: 40
 url: /tr/aspose.cells.vba/vbaprojectreferencecollection/add_registered_reference/
 is_root: false
 ---
-##  add_registered_reference(name, libid) {#str-str}
-Bir Otomasyon türü kitaplığına bir başvuru ekleyin.
+##  add_registered_reference(self, name, libid) {#str-str}
+Otomasyon türü bir kütüphaneye referans ekleyin.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Bir Otomasyon türü kitaplığına bir başvuru ekleyin.
 
 
 ```python
+
 def add_registered_reference(self, name, libid):
     ...
 ```
@@ -24,11 +25,11 @@ def add_registered_reference(self, name, libid):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| name | str | Referans adı.|
-| libid | str | Bir Otomasyon türü kitaplığının tanımlayıcısı.|
+| name | str | Referansın adı.|
+| libid | str | Bir Otomasyon türü kütüphanesinin tanımlayıcısı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](../../)
-* sınıf [VbaProjectReferenceCollection](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection)
+* modül [`aspose.cells.vba`](../../)
+* sınıf [`VbaProjectReferenceCollection`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection)

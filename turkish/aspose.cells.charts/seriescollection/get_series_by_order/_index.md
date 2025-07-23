@@ -7,16 +7,17 @@ weight: 70
 url: /tr/aspose.cells.charts/seriescollection/get_series_by_order/
 is_root: false
 ---
-##  get_series_by_order(order) {#int}
-[Series](/cells/python-net/tr/aspose.cells.charts/series) öğesini sırayla alır.
+##  get_series_by_order(self, order) {#int}
+[`Series`](/cells/python-net/tr/aspose.cells.charts/series) elemanını sıraya göre alır.
 
 
 ###  İadeler
 
-eleman serisi
+Element serisi
 
 
 ```python
+
 def get_series_by_order(self, order):
     ...
 ```
@@ -24,11 +25,11 @@ def get_series_by_order(self, order):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| order | int | dizi sırası|
+| order | int | Serinin sırası|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
-* sınıf [SeriesCollection](/cells/python-net/tr/aspose.cells.charts/seriescollection)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)
+* sınıf [`SeriesCollection`](/cells/python-net/tr/aspose.cells.charts/seriescollection)

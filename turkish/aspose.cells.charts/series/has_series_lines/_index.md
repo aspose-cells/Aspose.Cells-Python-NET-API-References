@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  has_series_lines mülk
 
-Yığılmış bir sütun grafiğinde veya çubuk grafiğinde seri çizgiler veya
- Pasta Pasta grafiği veya Pasta Çubuğu grafiğinde iki bölüm arasında bağlayıcı çizgiler varsa.
-Yalnızca yığılmış sütun grafikleri, çubuk grafikler, Pasta Pasta grafikleri veya Pasta Çubuğu grafikleri için geçerlidir.
+Yığılmış sütun grafiği veya çubuk grafiğinde seri çizgileri varsa doğrudur veya
+ Pasta grafiğinin veya Pasta grafiğinin çubuğu grafiğinin iki bölümü arasında bağlayıcı çizgiler varsa.
+Yalnızca yığılmış sütun grafikleri, çubuk grafikleri, Pasta Pasta grafikleri veya Pasta Çubuk grafikleri için geçerlidir.
 ###  Tanım:
 ```python
 @property

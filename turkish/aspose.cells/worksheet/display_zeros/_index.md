@@ -3,13 +3,13 @@ title: display_zeros mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 480
+weight: 500
 url: /tr/aspose.cells/worksheet/display_zeros/
 is_root: false
 ---
 ##  display_zeros mülk
 
-Sıfır değerler görüntüleniyorsa doğrudur.
+Sıfır değerleri görüntüleniyorsa doğrudur.
 ###  Tanım:
 ```python
 @property

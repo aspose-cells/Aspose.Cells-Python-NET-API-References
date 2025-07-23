@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  refer_to_destination_sheet mülk
 
-Aralığı aynı dosyaya kopyalarken ve grafik kaynak sayfaya atıfta bulunurken,
+Aynı dosyadaki aralığı kopyalarken ve grafik kaynak sayfasına atıfta bulunurken,
 Yanlış, kopyalanan grafiğin veri kaynağının değiştirilmeyeceği anlamına gelir.
-Doğru, kopyalanan grafiğin veri kaynağının hedef sayfaya başvurduğu anlamına gelir.
+True, kopyalanan grafiğin veri kaynağının hedef sayfaya atıfta bulunduğu anlamına gelir.
 
 ###  Notlar
 
-Varsayılan değer false'tur, MS Excel olarak çalışır.
+Varsayılan değeri false'tur, MS Excel gibi çalışır.
 ###  Tanım:
 ```python
 @property
@@ -27,5 +27,5 @@ def refer_to_destination_sheet(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CopyOptions](/cells/python-net/tr/aspose.cells/copyoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CopyOptions`](/cells/python-net/tr/aspose.cells/copyoptions)

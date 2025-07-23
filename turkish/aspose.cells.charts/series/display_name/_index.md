@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_name mülk
 
-Grafik grafiğinde görüntülenen serinin adını alır.
+Grafikte görüntülenen serinin adını alır.
 ###  Tanım:
 ```python
 @property

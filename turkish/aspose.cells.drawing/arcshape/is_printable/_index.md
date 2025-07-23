@@ -3,13 +3,14 @@ title: is_printable mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 680
+weight: 690
 url: /tr/aspose.cells.drawing/arcshape/is_printable/
 is_root: false
 ---
 ##  is_printable mülk
 
-Nesne yazdırılabilirse doğrudur
+Nesnenin yazdırılabilir olup olmadığını belirtir.
+Eğer False ise, yazdırma sırasında bu şekil yazdırılmayacaktır.
 
 ###  Örnek
 

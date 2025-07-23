@@ -3,7 +3,7 @@ title: MirrorType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 960
+weight: 950
 url: /tr/aspose.cells.drawing/mirrortype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Doku dolgusunun ayna tipini temsil eder
 
 
 
-MirrorType türü aşağıdaki üyeleri gösterir:
+MirrorType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NONE | Hiçbiri|
-| HORIZONAL | yatay|
+| HORIZONAL | Yatay|
 | VERTICAL | Dikey|
 | BOTH | İkisi birden|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

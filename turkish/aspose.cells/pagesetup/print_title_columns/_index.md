@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_title_columns mülk
 
-Her sayfanın sol tarafında yinelenecek hücrelerin bulunduğu sütunları temsil eder.
+Her sayfanın sol tarafında tekrarlanacak hücreleri içeren sütunları temsil eder.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def print_title_columns(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

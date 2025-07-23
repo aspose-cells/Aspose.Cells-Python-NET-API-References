@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotate_text_with_shape mülk
 
-Metnin şekil ile döndürülüp döndürülmediğini gösterir.
+Metnin şekille birlikte döndürülüp döndürülmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotate_text_with_shape(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoTextFrame](/cells/python-net/tr/aspose.cells.drawing/msotextframe)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoTextFrame`](/cells/python-net/tr/aspose.cells.drawing/msotextframe)

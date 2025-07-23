@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  perspective mülk
 
-Bir ThreeDFormat nesnesinin görüntülenebileceği açıyı alır ve ayarlar.
+ThreeDFormat nesnesinin görüntülenebileceği açıyı alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def perspective(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

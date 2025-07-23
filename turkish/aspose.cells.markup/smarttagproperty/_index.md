@@ -12,7 +12,7 @@ Hücre akıllı etiketinin özelliğini temsil eder.
 
 
 
-SmartTagProperty türü aşağıdaki üyeleri gösterir:
+SmartTagProperty türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -23,4 +23,4 @@ SmartTagProperty türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](..)
+* modül [`aspose.cells.markup`](..)

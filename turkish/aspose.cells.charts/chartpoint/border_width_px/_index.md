@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_width_px mülk
 
-Chart.Calculate() yöntemi çağrıldıktan sonra kenarlığın genişliğini piksel birimi cinsinden alır.
+Chart.Calculate() metodunu çağırdıktan sonra kenarlığın genişliğini piksel cinsinden alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def border_width_px(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartPoint](/cells/python-net/tr/aspose.cells.charts/chartpoint)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint)

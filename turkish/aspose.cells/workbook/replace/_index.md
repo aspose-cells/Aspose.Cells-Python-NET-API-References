@@ -3,16 +3,17 @@ title: replace yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 330
+weight: 350
 url: /tr/aspose.cells/workbook/replace/
 is_root: false
 ---
-##  replace(place_holder, new_value) {#str-str}
+##  replace(self, place_holder, new_value) {#str-str}
 Bir hücrenin değerini yeni bir dizeyle değiştirir.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -35,12 +36,13 @@ workbook.replace("AnOldValue", "NewValue")
 ```
 
 
-##  replace(place_holder, new_value) {#str-int}
-Bir hücrenin değerini yeni bir tamsayı ile değiştirir.
+##  replace(self, place_holder, new_value) {#str-int}
+Bir hücrenin değerini yeni bir tam sayı ile değiştirir.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -49,7 +51,7 @@ def replace(self, place_holder, new_value):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | place_holder | str | Cell yer tutucu|
-| new_value | int | Değiştirilecek tamsayı değeri|
+| new_value | int | Değiştirilecek tam sayı değeri|
 
 ###  Örnek
 
@@ -64,12 +66,13 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-##  replace(place_holder, new_value) {#str-float}
-Bir hücrenin değerini yeni bir çift ile değiştirir.
+##  replace(self, place_holder, new_value) {#str-float}
+Bir hücrenin değerini yeni bir double ile değiştirir.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -93,12 +96,13 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-##  replace(bool_value, new_value) {#bool-any}
+##  replace(self, bool_value, new_value) {#bool-any}
 Hücrelerin değerlerini yeni verilerle değiştirir.
 
 
 
 ```python
+
 def replace(self, bool_value, new_value):
     ...
 ```
@@ -106,16 +110,17 @@ def replace(self, bool_value, new_value):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| bool_value | bool | Değiştirilecek boole değeri.|
-| new_value | any | Yeni değer. Dize, tamsayı, çift veya DateTime değeri olabilir.|
+| bool_value | bool | Değiştirilecek boolean değeri.|
+| new_value | any | Yeni değer. Dize, tam sayı, çift sayı veya DateTime değeri olabilir.|
 
 
-##  replace(int_value, new_value) {#int-any}
+##  replace(self, int_value, new_value) {#int-any}
 Hücrelerin değerlerini yeni verilerle değiştirir.
 
 
 
 ```python
+
 def replace(self, int_value, new_value):
     ...
 ```
@@ -123,16 +128,17 @@ def replace(self, int_value, new_value):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| int_value | int | Değiştirilecek tamsayı değeri.|
-| new_value | any | Yeni değer. Dize, tamsayı, çift veya DateTime değeri olabilir.|
+| int_value | int | Değiştirilecek tam sayı değeri.|
+| new_value | any | Yeni değer. Dize, tam sayı, çift sayı veya DateTime değeri olabilir.|
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
 Bir hücrenin değerini yeni bir dize dizisiyle değiştirir.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -157,12 +163,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
 Hücrelerin değerlerini bir tamsayı dizisiyle değiştirir.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -187,12 +194,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
-Hücrelerin değerlerini çift dizi ile değiştirir.
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
+Hücrelerin değerlerini double diziyle değiştirir.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -217,12 +225,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_value, options) {#str-str-ReplaceOptions}
+##  replace(self, place_holder, new_value, options) {#str-str-aspose.cells.ReplaceOptions}
 Bir hücrenin değerini yeni bir dizeyle değiştirir.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value, options):
     ...
 ```
@@ -232,10 +241,10 @@ def replace(self, place_holder, new_value, options):
 | :- | :- | :- |
 | place_holder | str | Cell yer tutucu|
 | new_value | str | Değiştirilecek dize değeri|
-| options | [ReplaceOptions](/cells/python-net/tr/aspose.cells/replaceoptions) | değiştirme seçenekleri|
+| options | [`ReplaceOptions`](/cells/python-net/tr/aspose.cells/replaceoptions) | Değiştirme seçenekleri|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Workbook](/cells/python-net/tr/aspose.cells/workbook)
+* modül [`aspose.cells`](../../)
+* sınıf [`Workbook`](/cells/python-net/tr/aspose.cells/workbook)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shift_first_row_down mülk
 
-Satır eklerken ilk satırın aşağı kaydırılıp kaydırılmayacağını gösterir.
+Satır eklerken ilk satırın aşağıya kaydırılıp kaydırılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def shift_first_row_down(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions)

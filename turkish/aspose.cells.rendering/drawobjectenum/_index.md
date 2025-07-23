@@ -3,7 +3,7 @@ title: DrawObjectEnum numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 180
 url: /tr/aspose.cells.rendering/drawobjectenum/
 is_root: false
 ---
@@ -12,15 +12,15 @@ Cell veya DrawObject Görüntüsünü belirtin.
 
 
 
-DrawObjectEnum türü aşağıdaki üyeleri gösterir:
+DrawObjectEnum türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | IMAGE | DrawObject'in bir Görüntü olduğunu belirtin|
-| CELL | DrawObject'in bir Cell olduğunu belirtin|
+| CELL |DrawObject'in Cell olduğunu belirtin|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](..)
+* modül [`aspose.cells.rendering`](..)

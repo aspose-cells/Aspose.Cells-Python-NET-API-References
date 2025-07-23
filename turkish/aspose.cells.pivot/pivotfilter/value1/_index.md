@@ -3,7 +3,7 @@ title: value1 mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 170
 url: /tr/aspose.cells.pivot/pivotfilter/value1/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def value1(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotFilter](/cells/python-net/tr/aspose.cells.pivot/pivotfilter)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotFilter`](/cells/python-net/tr/aspose.cells.pivot/pivotfilter)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-Belirtilen dilimleyicinin name'ini döndürür veya ayarlar
+Belirtilen dilimleyicinin name değerini döndürür veya ayarlar
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

@@ -3,16 +3,17 @@ title: remove_at yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 100
 url: /tr/aspose.cells/commentcollection/remove_at/
 is_root: false
 ---
-##  remove_at(cell_name) {#str}
+##  remove_at(self, cell_name) {#str}
 Belirli hücrenin yorumunu kaldırır.
 
 
 
 ```python
+
 def remove_at(self, cell_name):
     ...
 ```
@@ -31,12 +32,13 @@ comments.remove_at("B2")
 ```
 
 
-##  remove_at(row, column) {#int-int}
+##  remove_at(self, row, column) {#int-int}
 Belirli hücrenin yorumunu kaldırır.
 
 
 
 ```python
+
 def remove_at(self, row, column):
     ...
 ```
@@ -45,7 +47,7 @@ def remove_at(self, row, column):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | row | int | Satır dizini.|
-| column | int | sütun indeksi.|
+| column | int | sütun dizini.|
 
 ###  Örnek
 
@@ -58,5 +60,5 @@ comments.remove_at(1, 1)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CommentCollection](/cells/python-net/tr/aspose.cells/commentcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`CommentCollection`](/cells/python-net/tr/aspose.cells/commentcollection)

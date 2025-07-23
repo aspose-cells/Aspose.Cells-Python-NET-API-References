@@ -3,16 +3,17 @@ title: get_pivot_filter_by_type yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 50
+weight: 110
 url: /tr/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/
 is_root: false
 ---
-##  get_pivot_filter_by_type {#aspose.cells.pivot.PivotFilterType}
-Pivot alanının pivot filtresini türe göre alır
+##  get_pivot_filter_by_type(self, type) {#aspose.cells.pivot.PivotFilterType}
+Pivot alanının pivot filtresini türüne göre alır
 
 
 
 ```python
+
 def get_pivot_filter_by_type(self, type):
     ...
 ```

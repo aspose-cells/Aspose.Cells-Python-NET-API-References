@@ -3,13 +3,13 @@ title: is_auto_subtotals mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 400
+weight: 480
 url: /tr/aspose.cells.pivot/pivotfield/is_auto_subtotals/
 is_root: false
 ---
 ##  is_auto_subtotals mülk
 
-Belirtilen alanın otomatik alt toplamları gösterip göstermediğini belirtir. Varsayılan doğrudur.
+Belirtilen alanın otomatik ara toplamları gösterip göstermeyeceğini belirtir. Varsayılan değeri true'dur.
 ###  Tanım:
 ```python
 @property

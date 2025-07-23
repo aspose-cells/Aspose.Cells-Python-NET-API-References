@@ -3,13 +3,13 @@ title: tick_mark_spacing mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 420
 url: /tr/aspose.cells.charts/axis/tick_mark_spacing/
 is_root: false
 ---
 ##  tick_mark_spacing mülk
 
-Onay işaretleri arasındaki kategori veya seri sayısını döndürür veya ayarlar. Yalnızca kategori ve seri eksenleri için geçerlidir.
+İşaretler arasındaki kategori veya seri sayısını döndürür veya ayarlar. Yalnızca kategori ve seri eksenleri için geçerlidir.
 
 ###  Notlar
 

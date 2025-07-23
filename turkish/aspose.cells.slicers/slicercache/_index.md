@@ -8,20 +8,20 @@ url: /tr/aspose.cells.slicers/slicercache/
 is_root: false
 ---
 ##  SlicerCache sınıfı
-dilimleyici önbelleğinin özet açıklaması
+Dilimleyici önbelleğinin özet açıklamasını temsil eder
 
 
 
-SlicerCache türü aşağıdaki üyeleri gösterir:
+SlicerCache türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [cross_filter_type](/cells/python-net/tr/aspose.cells.slicers/slicercache/cross_filter_type) | Bir dilimleyicinin diğer dilimleyicilerle çapraz filtrelemeye katılıp katılmadığını döndürür veya ayarlar<br/> aynı dilimleyici önbelleğini paylaşan ve çapraz filtrelemenin nasıl görüntülendiği. Okuma yazma|
-| [list](/cells/python-net/tr/aspose.cells.slicers/slicercache/list) | Belirtilen dilimleyici önbelleğiyle ilişkili dilimleyicinin OLAP Olmayan bir veri kaynağına dayalı olup olmadığını döndürür. Sadece oku|
-| [slicer_cache_items](/cells/python-net/tr/aspose.cells.slicers/slicercache/slicer_cache_items) | Dilimleyici önbelleğindeki tüm öğelerin koleksiyonunu içeren bir SlicerCacheItem koleksiyonu döndürür. Sadece oku|
+| [cross_filter_type](/cells/python-net/tr/aspose.cells.slicers/slicercache/cross_filter_type) | Bir dilimleyicinin diğer dilimleyicilerle çapraz filtrelemeye katılıp katılmadığını döndürür veya ayarlar<br/> aynı dilimleyici önbelleğini paylaşan ve çapraz filtrelemenin nasıl görüntülendiği. Okuma/yazma|
+| [list](/cells/python-net/tr/aspose.cells.slicers/slicercache/list) | Belirtilen dilimleyici önbelleğiyle ilişkili dilimleyicinin OLAP dışı bir veri kaynağına dayalı olup olmadığını döndürür. Salt okunur|
+| [slicer_cache_items](/cells/python-net/tr/aspose.cells.slicers/slicercache/slicer_cache_items) | Dilimleyici önbelleğindeki tüm öğelerin koleksiyonunu içeren bir SlicerCacheItem koleksiyonu döndürür. Salt okunur|
 | [name](/cells/python-net/tr/aspose.cells.slicers/slicercache/name) | Dilimleyici önbelleğinin adını döndürür.|
-| [source_name](/cells/python-net/tr/aspose.cells.slicers/slicercache/source_name) | Önbellek alanının adını döndürür|
+| [source_name](/cells/python-net/tr/aspose.cells.slicers/slicercache/source_name) | Bu dilimleyici önbelleğinin adını döndürür.|
 
 
 
@@ -83,4 +83,4 @@ book.save("out.xlsx")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](..)
+* modül [`aspose.cells.slicers`](..)

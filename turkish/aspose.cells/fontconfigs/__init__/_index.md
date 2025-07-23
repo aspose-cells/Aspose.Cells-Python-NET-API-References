@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/fontconfigs/__init__/
 is_root: false
 ---
-##  FontConfigs() {#}
+##  \_\_init\_\_(kendi){#}
 FontConfigs'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FontConfigs](/cells/python-net/tr/aspose.cells/fontconfigs)
+* modül [`aspose.cells`](../../)
+* sınıf [`FontConfigs`](/cells/python-net/tr/aspose.cells/fontconfigs)

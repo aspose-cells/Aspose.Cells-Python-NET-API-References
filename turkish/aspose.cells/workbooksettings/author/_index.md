@@ -13,7 +13,7 @@ Dosyanın author'ini alır ve ayarlar.
 
 ###  Notlar
 
-Ayarlanmadı, önce [BuiltInDocumentPropertyCollection.author](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection#author)'i kontrol edin, ardından Ortam kullanıcısını kontrol edin.
+Ayarlanmamış, önce [`BuiltInDocumentPropertyCollection.author`](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection#author)'i kontrol edin, sonra Environment kullanıcısını kontrol edin.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def author(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

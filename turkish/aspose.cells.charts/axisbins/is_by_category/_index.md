@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_by_category mülk
 
-Verilerin kategoriye göre gruplanıp gruplanmadığını gösterir.
+Verilerin kategoriye göre gruplandırılıp gruplandırılmayacağını belirtir
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_by_category(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [AxisBins](/cells/python-net/tr/aspose.cells.charts/axisbins)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`AxisBins`](/cells/python-net/tr/aspose.cells.charts/axisbins)

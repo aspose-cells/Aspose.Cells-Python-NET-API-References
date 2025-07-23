@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells.markup/smarttagsetting/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-Hücre akıllı etiketleri ekleyin.
+##  add(self, cell_name) {#str}
+Hücreye akıllı etiketler ekleyin.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Hücre akıllı etiketleri ekleyin.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -27,16 +28,17 @@ def add(self, cell_name):
 | cell_name | str | Hücrenin adı.|
 
 
-##  add(row, column) {#int-int}
-Bir hücreye [SmartTagCollection](/cells/python-net/tr/aspose.cells.markup/smarttagcollection) nesnesi ekler.
+##  add(self, row, column) {#int-int}
+Bir hücreye [`SmartTagCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagcollection) nesnesini ekler.
 
 
 ###  İadeler
 
-Çalışma sayfasındaki bir [SmartTagCollection](/cells/python-net/tr/aspose.cells.markup/smarttagcollection) nesnesinin dizinini döndürür.
+Çalışma sayfasındaki [`SmartTagCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagcollection) nesnesinin dizinini döndürür.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -50,6 +52,6 @@ def add(self, row, column):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [SmartTagCollection](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)
-* sınıf [SmartTagSetting](/cells/python-net/tr/aspose.cells.markup/smarttagsetting)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`SmartTagCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)
+* sınıf [`SmartTagSetting`](/cells/python-net/tr/aspose.cells.markup/smarttagsetting)

@@ -13,7 +13,7 @@ Bu çalışma sayfasının toplam sayfa sayısını değerlendirin
 
 ###  Örnek
 
-Aşağıdaki kod, bir çalışma sayfasının sayfa sayısını almanın en hızlı yolunu gösterir.
+Aşağıdaki kod bir çalışma sayfasının sayfa sayısını almanın en hızlı yolunu göstermektedir.
 
 ```python
 from aspose.cells import Workbook
@@ -33,5 +33,5 @@ def evaluated_page_count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [SheetPrintingPreview](/cells/python-net/tr/aspose.cells.rendering/sheetprintingpreview)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`SheetPrintingPreview`](/cells/python-net/tr/aspose.cells.rendering/sheetprintingpreview)

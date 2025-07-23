@@ -3,14 +3,14 @@ title: auto_show_count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 260
 url: /tr/aspose.cells.pivot/pivotfield/auto_show_count/
 is_root: false
 ---
 ##  auto_show_count mülk
 
-Üst veya alt öğelerin sayısını temsil edin
-belirtilen PivotTable alanında otomatik olarak gösterilir.
+Üst veya alt öğelerin sayısını temsil eder
+belirtilen PivotTable alanında otomatik olarak gösterilenler.
 ###  Tanım:
 ```python
 @property

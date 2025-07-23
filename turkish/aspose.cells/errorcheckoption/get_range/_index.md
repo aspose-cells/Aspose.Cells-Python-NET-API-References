@@ -7,16 +7,17 @@ weight: 40
 url: /tr/aspose.cells/errorcheckoption/get_range/
 is_root: false
 ---
-##  get_range(index) {#int}
-Verilen dizine göre bu ayarın etkilenen aralığını alır.
+##  get_range(self, index) {#int}
+Verilen indekse göre bu ayarın etkilenen aralığını alır.
 
 
 ###  İadeler
 
-verilen endekste etkilenen aralığı döndürür.
+Verilen endekste etkilenen aralığı geri döndürdü.
 
 
 ```python
+
 def get_range(self, index):
     ...
 ```
@@ -29,5 +30,5 @@ def get_range(self, index):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ErrorCheckOption](/cells/python-net/tr/aspose.cells/errorcheckoption)
+* modül [`aspose.cells`](../../)
+* sınıf [`ErrorCheckOption`](/cells/python-net/tr/aspose.cells/errorcheckoption)

@@ -3,13 +3,13 @@ title: is_automatic_size mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 210
 url: /tr/aspose.cells.charts/chartarea/is_automatic_size/
 is_root: false
 ---
 ##  is_automatic_size mülk
 
-Grafik çerçevesinin otomatik boyutlandırılıp boyutlandırılmadığını gösterir.
+Grafik çerçevesinin otomatik olarak boyutlandırılıp boyutlandırılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_automatic_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartArea](/cells/python-net/tr/aspose.cells.charts/chartarea)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartArea`](/cells/python-net/tr/aspose.cells.charts/chartarea)

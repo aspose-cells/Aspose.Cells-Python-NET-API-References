@@ -3,14 +3,14 @@ title: show_legend_key mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 480
 url: /tr/aspose.cells.charts/datalabels/show_legend_key/
 is_root: false
 ---
 ##  show_legend_key mülk
 
-Belirtilen grafiğin veri etiketi açıklaması anahtar görüntüleme davranışını temsil eder.
-Veri etiketi açıklama anahtarı görünür durumdaysa doğrudur.
+Belirtilen bir grafiğin veri etiketi göstergesinin anahtar görüntüleme davranışını temsil eder.
+Veri etiketi efsane anahtarı görünür durumdaysa doğrudur.
 ###  Tanım:
 ```python
 @property

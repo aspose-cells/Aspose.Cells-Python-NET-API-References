@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  delete_redundant_spaces mülk
 
-Metin `<br>` etiketini kullanarak satırları kaydırdığında gereksiz boşlukların silinip silinmeyeceğini belirtir.
+`<br>` etiketi kullanılarak metin satırları sarıldığında gereksiz boşlukların silinip silinmeyeceğini belirtir.
 Varsayılan değer false'tur.
 ###  Tanım:
 ```python

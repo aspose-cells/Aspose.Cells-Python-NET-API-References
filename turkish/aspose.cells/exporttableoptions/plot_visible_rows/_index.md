@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_rows mülk
 
-Yalnızca görünür satırları dışa aktarır.
+Sadece görünen satırları dışa aktarır.
 ###  Tanım:
 ```python
 @property

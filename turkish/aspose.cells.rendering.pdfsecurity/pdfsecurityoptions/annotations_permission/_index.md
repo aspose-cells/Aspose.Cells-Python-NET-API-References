@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  annotations_permission mülk
 
-Metin açıklamalarının eklenmesine veya değiştirilmesine izin verilip verilmeyeceğini, etkileşimli form alanlarının doldurulup doldurulmayacağını belirtir.
+Metin açıklamalarının eklenmesine veya değiştirilmesine, etkileşimli form alanlarının doldurulmasına izin verilip verilmeyeceğini belirtir.
 
 ###  Notlar
 
-[`PdfSecurityOptions.modify_document_permission`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) de ayarlanmışsa etkileşimli form alanları oluşturun veya değiştirin (imza alanları dahil).
+[`PdfSecurityOptions.modify_document_permission`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) de ayarlanmışsa, etkileşimli form alanlarını (imza alanları dahil) oluşturun veya değiştirin.
 ###  Tanım:
 ```python
 @property

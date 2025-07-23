@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  right_angle_axes mülk
 
-Grafik eksenleri dik açıdaysa doğrudur. Yalnızca 3 boyutlu grafikler için geçerlidir (3B Sütun ve 3B Pasta Grafikleri hariç).
+Grafik eksenleri dik açılıysa doğrudur. Sadece 3 boyutlu grafikler için geçerlidir (Sütun3B ve 3 boyutlu pasta grafikleri hariç).
 
 ###  Notlar
 
-Bu özellik True ise Perspective özelliği yoksayılır.
+Bu özellik True ise Perspective özelliği yok sayılır.
 ###  Tanım:
 ```python
 @property

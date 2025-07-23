@@ -3,7 +3,7 @@ title: FillType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 830
+weight: 820
 url: /tr/aspose.cells.drawing/filltype/
 is_root: false
 ---
@@ -12,20 +12,20 @@ Doldurma biçimi türü.
 
 
 
-FillType türü aşağıdaki üyeleri gösterir:
+FillType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | AUTOMATIC | Otomatik biçimlendirme türünü temsil eder.|
-| NONE | Yok biçimlendirme türünü temsil eder.|
+| NONE | Hiçbir biçimlendirme türünü temsil etmez.|
 | SOLID | Katı dolgu formatı.|
 | GRADIENT | Degrade dolgu formatı.|
-| TEXTURE | Doku dolgu formatı (resim dolgusunu içerir).|
-| PATTERN | Desen dolgu formatı.|
-| GROUP | Grubun dolgu özelliklerini devralır.|
+| TEXTURE | Doku dolgu formatı (resim dolgusu dahil).|
+| PATTERN | Desen doldurma formatı.|
+| GROUP | Grubun dolgu özelliklerini devral.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

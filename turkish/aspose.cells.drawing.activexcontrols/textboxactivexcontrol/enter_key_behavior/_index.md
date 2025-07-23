@@ -10,8 +10,8 @@ is_root: false
 ##  enter_key_behavior mülk
 
 ENTER tuşunun davranışını belirtir.
-True, ENTER tuşuna basıldığında yeni bir satır oluşturulacağını belirtir.
-False, ENTER tuşuna basmanın odağı sekme sırasındaki bir sonraki nesneye taşıyacağını belirtir.
+True, ENTER'a basıldığında yeni bir satır oluşturulacağını belirtir.
+False, ENTER tuşuna basıldığında odak noktasının sekme sırasındaki bir sonraki nesneye taşınacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -23,5 +23,5 @@ def enter_key_behavior(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [TextBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`TextBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

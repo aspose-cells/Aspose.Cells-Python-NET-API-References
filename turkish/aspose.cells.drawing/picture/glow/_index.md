@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  glow mülk
 
-Grafik öğesi veya şekli için glow efektini belirten bir [`GlowEffect`](/cells/python-net/tr/aspose.cells.drawing/gloweffect) nesnesini temsil eder.
+Grafik öğesi veya şekli için glow efektini belirten [`GlowEffect`](/cells/python-net/tr/aspose.cells.drawing/gloweffect) nesnesini temsil eder.
 
 ###  Örnek
 

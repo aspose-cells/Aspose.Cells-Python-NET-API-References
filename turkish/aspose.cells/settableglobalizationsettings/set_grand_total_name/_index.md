@@ -7,12 +7,13 @@ weight: 320
 url: /tr/aspose.cells/settableglobalizationsettings/set_grand_total_name/
 is_root: false
 ---
-##  set_grand_total_name {#aspose.cells.ConsolidationFunction-str}
-Belirli bir işlevin genel toplam adını ayarlar.
+##  set_grand_total_name(self, function_type, name) {#aspose.cells.ConsolidationFunction-str}
+Belirli bir fonksiyonun genel adını ayarlar.
 
 
 
 ```python
+
 def set_grand_total_name(self, function_type, name):
     ...
 ```
@@ -20,8 +21,8 @@ def set_grand_total_name(self, function_type, name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| function_type | [`ConsolidationFunction`](/cells/python-net/tr/aspose.cells/consolidationfunction) | İşlev türü.|
-| name | str | Fonksiyonun genel toplam adı.|
+| function_type | [`ConsolidationFunction`](/cells/python-net/tr/aspose.cells/consolidationfunction) | Fonksiyon tipi.|
+| name | str | Fonksiyonun genel adı.|
 
 
 

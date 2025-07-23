@@ -10,7 +10,7 @@ is_root: false
 ##  is_custom mülk
 
 Simge setinin özel olup olmadığını gösterir.
-Varsayılan değer yanlıştır.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -19,5 +19,5 @@ def is_custom(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [IconSet](/cells/python-net/tr/aspose.cells/iconset)
+* modül [`aspose.cells`](../../)
+* sınıf [`IconSet`](/cells/python-net/tr/aspose.cells/iconset)

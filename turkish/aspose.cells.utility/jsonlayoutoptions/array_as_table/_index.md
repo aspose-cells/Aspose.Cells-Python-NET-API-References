@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  array_as_table mülk
 
-Diziyi tablo olarak işler.
+İşlem Dizisi tablo olarak.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def array_as_table(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.utility](../../)
-* sınıf [JsonLayoutOptions](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions)
+* modül [`aspose.cells.utility`](../../)
+* sınıf [`JsonLayoutOptions`](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions)

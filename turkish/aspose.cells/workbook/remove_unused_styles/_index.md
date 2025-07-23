@@ -3,16 +3,17 @@ title: remove_unused_styles yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 340
 url: /tr/aspose.cells/workbook/remove_unused_styles/
 is_root: false
 ---
-##  remove_unused_styles() {#}
+##  remove_unused_styles(self) {#}
 Kullanılmayan tüm stilleri kaldırın.
 
 
 
 ```python
+
 def remove_unused_styles(self):
     ...
 ```
@@ -22,5 +23,5 @@ def remove_unused_styles(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Workbook](/cells/python-net/tr/aspose.cells/workbook)
+* modül [`aspose.cells`](../../)
+* sınıf [`Workbook`](/cells/python-net/tr/aspose.cells/workbook)

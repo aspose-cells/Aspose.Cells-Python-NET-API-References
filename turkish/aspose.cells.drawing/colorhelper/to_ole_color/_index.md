@@ -7,7 +7,7 @@ weight: 30
 url: /tr/aspose.cells.drawing/colorhelper/to_ole_color/
 is_root: false
 ---
-##  to_ole_color(color, workbook) {#aspose.pydrawing.Color-Workbook}
+##  to_ole_color(, renk, çalışma kitabı){#aspose.pydrawing.Color-aspose.cells.Workbook}
 Rengi OLE_COLOR'a dönüştür
 
 
@@ -17,7 +17,9 @@ OLE_COLOR değeri
 
 
 ```python
-def to_ole_color(self, color, workbook):
+
+@staticmethod
+def to_ole_color(color, workbook):
     ...
 ```
 
@@ -25,10 +27,10 @@ def to_ole_color(self, color, workbook):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | color | aspose.pydrawing.Color | Renk nesnesi.|
-| workbook | [Workbook](/cells/python-net/tr/aspose.cells/workbook) |  |
+| workbook | [`Workbook`](/cells/python-net/tr/aspose.cells/workbook) |  |
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ColorHelper](/cells/python-net/tr/aspose.cells.drawing/colorhelper)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ColorHelper`](/cells/python-net/tr/aspose.cells.drawing/colorhelper)

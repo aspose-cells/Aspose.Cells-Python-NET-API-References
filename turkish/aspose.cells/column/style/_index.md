@@ -13,10 +13,10 @@ Bu sütunun style'ini alır.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor.
-Bunun yerine, bu sütunun varsayılan style'ini almak için lütfen Column.GetStyle() yöntemini kullanın.
- Bu mülk, Aralık 2022'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir.
+Bunun yerine lütfen Column.GetStyle() metodunu kullanarak bu sütunun varsayılan style değerini alın.
+ Bu özellik Aralık 2022'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -25,6 +25,6 @@ def style(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Column](/cells/python-net/tr/aspose.cells/column)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Column`](/cells/python-net/tr/aspose.cells/column)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

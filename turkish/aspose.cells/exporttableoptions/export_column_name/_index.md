@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_column_name mülk
 
-İlk satırdaki verilerin DataTable'ın sütun adına aktarılıp aktarılmadığını gösterir.
+DataTable'ın ilk satırındaki verilerin sütun adına aktarılıp aktarılmayacağını belirtir.
 Varsayılan değer false'tur.
 ###  Tanım:
 ```python

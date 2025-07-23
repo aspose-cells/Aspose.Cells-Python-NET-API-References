@@ -7,17 +7,35 @@ weight: 170
 url: /tr/aspose.cells/worksheetcollection/refresh_pivot_tables/
 is_root: false
 ---
-##  refresh_pivot_tables {#}
-WorksheetCollection'daki tüm PivotTable'ları yeniler.
+##  refresh_pivot_tables(self) {#}
+Excel dosyasındaki tüm PivotTable'ları yeniler.
 
 
 
 ```python
+
 def refresh_pivot_tables(self):
     ...
 ```
 
 
+
+
+##  refresh_pivot_tables(self, option) {#aspose.cells.pivot.PivotTableRefreshOption}
+Excel dosyasındaki tüm PivotTable'ları yeniler.
+
+
+
+```python
+
+def refresh_pivot_tables(self, option):
+    ...
+```
+
+
+| Parametre| Tip| Tanım|
+| :- | :- | :- |
+| option | aspose.cells.pivot.PivotTableRefreshOption | Pivot tabloların veri kaynağını yenileme seçeneği.|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  compound_type mülk
 
-Bileşik çizgi tipini belirtir
+Bileşik satır türünü belirtir
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def compound_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ErrorBar](/cells/python-net/tr/aspose.cells.charts/errorbar)
-* sınıf [MsoLineStyle](/cells/python-net/tr/aspose.cells.drawing/msolinestyle)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ErrorBar`](/cells/python-net/tr/aspose.cells.charts/errorbar)
+* sınıf [`MsoLineStyle`](/cells/python-net/tr/aspose.cells.drawing/msolinestyle)

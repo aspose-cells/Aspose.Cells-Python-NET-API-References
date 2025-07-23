@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  z mülk
 
-3B şekil için yerden mesafeyi tanımlar.
+3B şeklin yerden uzaklığını tanımlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def z(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

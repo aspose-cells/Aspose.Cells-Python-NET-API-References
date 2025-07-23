@@ -3,13 +3,13 @@ title: export_hidden_worksheet mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 280
+weight: 350
 url: /tr/aspose.cells/htmlsaveoptions/export_hidden_worksheet/
 is_root: false
 ---
 ##  export_hidden_worksheet mülk
 
-Gizli çalışma sayfası içeriğinin dışa aktarılıp aktarılmadığını belirtir. Varsayılan değer true'dur.
+Gizli çalışma sayfası içeriğinin dışa aktarılıp aktarılmayacağını belirtir. Varsayılan değer doğrudur.
 ###  Tanım:
 ```python
 @property

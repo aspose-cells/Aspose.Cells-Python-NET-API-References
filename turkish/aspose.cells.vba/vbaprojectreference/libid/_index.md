@@ -21,5 +21,5 @@ def libid(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](../../)
-* sınıf [VbaProjectReference](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference)
+* modül [`aspose.cells.vba`](../../)
+* sınıf [`VbaProjectReference`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference)

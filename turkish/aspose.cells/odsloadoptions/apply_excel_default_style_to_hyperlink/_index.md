@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  apply_excel_default_style_to_hyperlink mülk
 
-Köprüye Excel'in varsayılan stilinin uygulanıp uygulanmadığını gösterir.
+Excel'in varsayılan stilinin köprüye uygulanıp uygulanmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def apply_excel_default_style_to_hyperlink(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [OdsLoadOptions](/cells/python-net/tr/aspose.cells/odsloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`OdsLoadOptions`](/cells/python-net/tr/aspose.cells/odsloadoptions)

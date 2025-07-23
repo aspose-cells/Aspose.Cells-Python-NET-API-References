@@ -3,13 +3,13 @@ title: password mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 370
+weight: 400
 url: /tr/aspose.cells/workbooksettings/password/
 is_root: false
 ---
 ##  password mülk
 
-Çalışma Kitabı dosya şifrelemesini temsil eder password.
+Çalışma kitabı dosya şifrelemesi password'i temsil eder.
 ###  Tanım:
 ```python
 @property

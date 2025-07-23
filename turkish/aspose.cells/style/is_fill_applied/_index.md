@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_fill_applied mülk
 
-Dolgu formatının uygulanması gerekip gerekmediğini belirtin.
+Dolgu biçimlendirmesinin uygulanıp uygulanmayacağını belirtin.
 
 ###  Notlar
 
-Yalnızca adlandırılmış stil için.
+Sadece adlandırılmış stil için.
 ###  Tanım:
 ```python
 @property

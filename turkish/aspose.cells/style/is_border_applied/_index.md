@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_border_applied mülk
 
-Kenarlık biçimlendirmesinin uygulanıp uygulanmayacağını belirtin.
+Sınır biçimlendirmesinin uygulanıp uygulanmayacağını belirtin.
 
 ###  Notlar
 
-Yalnızca adlandırılmış stil için.
+Sadece adlandırılmış stil için.
 ###  Tanım:
 ```python
 @property

@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  search_next mülk
 
-Arama sırası. Doğru: sonra ara. Yanlış: öncekini ara.
+Arama sırası. Doğru: sonrakini ara. Yanlış: öncekini ara.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen FindOptions.SearchBackward özelliğini kullanın.
- Bu mülk, Kasım 2018'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen FindOptions.SearchBackward özelliğini kullanın.
+ Bu özellik Kasım 2018'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -28,5 +28,5 @@ def search_next(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FindOptions](/cells/python-net/tr/aspose.cells/findoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`FindOptions`](/cells/python-net/tr/aspose.cells/findoptions)

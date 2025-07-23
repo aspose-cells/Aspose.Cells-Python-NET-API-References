@@ -3,7 +3,7 @@ title: group mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 430
+weight: 420
 url: /tr/aspose.cells.drawing/checkbox/group/
 is_root: false
 ---

@@ -10,7 +10,7 @@ is_root: false
 ##  number_format_linked mülk
 
  Sayı biçimi hücrelere bağlıysa doğrudur
-(böylece hücrelerde değiştiğinde etiketlerdeki sayı formatı da değişir).
+(böylece hücrelerde sayı biçimi değiştiğinde etiketlerdeki sayı biçimi de değişir).
 ###  Tanım:
 ```python
 @property

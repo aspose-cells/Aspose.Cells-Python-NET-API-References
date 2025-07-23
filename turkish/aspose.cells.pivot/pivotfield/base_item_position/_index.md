@@ -3,16 +3,23 @@ title: base_item_position mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 320
 url: /tr/aspose.cells.pivot/pivotfield/base_item_position/
 is_root: false
 ---
 ##  base_item_position mülk
 
-Özel bir hesaplama için temel alandaki öğeyi temsil eder.
- Yalnızca veri alanları için geçerlidir.
-PivotItemPosition.Custom yalnızca okuma amaçlı olduğundan, PivotItemPosition.Custom'u ayarlamanız gerekiyorsa,
-lütfen PivotField.BaseItemIndex niteliğini ayarlayın.
+ShowDataAs hesaplaması kullanıldığında özel bir hesaplama için temel alandaki öğeyi temsil eder.
+ Sadece veri alanları için geçerlidir.
+Çünkü PivotItemPosition.Custom yalnızca okuma amaçlıdır, PivotItemPosition.Custom'ı ayarlamanız gerekiyorsa,
+Lütfen PivotField.BaseItemIndex niteliğini ayarlayın.
+
+###  Notlar
+
+ NOT: Bu özellik artık kullanımdan kaldırıldı. Bunun yerine,
+Lütfen bunun yerine PivotField.ShowValuesSetting.BaseItemPositionType özelliğini kullanın.
+ Bu yöntem 12 ay sonra, Haziran 2024'ten itibaren kaldırılacak.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

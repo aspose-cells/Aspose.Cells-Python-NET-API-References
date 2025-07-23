@@ -3,12 +3,12 @@ title: FilterOperatorType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2120
+weight: 2050
 url: /tr/aspose.cells/filteroperatortype/
 is_root: false
 ---
 ##  FilterOperatorType numaralandırma
-Özel Filtre operatör türü.
+Özel Filtre operatörü türü.
 
 
 
@@ -23,11 +23,13 @@ FilterOperatorType türü aşağıdaki üyeleri ortaya çıkarır:
 | GREATER_THAN | GreaterThan operatörünü temsil eder.|
 | NOT_EQUAL | NotEqual operatörünü temsil eder.|
 | GREATER_OR_EQUAL | GreaterOrEqual operatörünü temsil eder.|
-| NONE | Hiçbir karşılaştırmayı temsil etmez.|
+| NONE | Hiçbir karşılaştırmayı temsil etmiyor.|
 | BEGINS_WITH | Metinle başlar.|
-| ENDS_WITH | Metinle biter.|
+| ENDS_WITH | Metinle son bulur.|
 | CONTAINS | Metni içerir.|
-| NOT_CONTAINS | Metni içermez.|
+| NOT_CONTAINS | Metni içermiyor.|
+| NOT_BEGINS_WITH | Metinle başlamıyor.|
+| NOT_ENDS_WITH | Yazıyla bitmiyor.|
 
 
 

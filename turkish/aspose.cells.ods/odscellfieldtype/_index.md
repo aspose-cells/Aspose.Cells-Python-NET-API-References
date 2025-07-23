@@ -8,20 +8,20 @@ url: /tr/aspose.cells.ods/odscellfieldtype/
 is_root: false
 ---
 ##  OdsCellFieldType numaralandırma
-ods hücre alanı tipini temsil eder.
+Ods'un hücre alanı türünü temsil eder.
 
 
 
-OdsCellFieldType türü aşağıdaki üyeleri gösterir:
+OdsCellFieldType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| DATE | Geçerli tarih.|
+| DATE | Güncel tarih.|
 | SHEET_NAME | Sayfanın adı.|
 | TITLE | Dosyanın adı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](..)
+* modül [`aspose.cells.ods`](..)

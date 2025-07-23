@@ -3,14 +3,14 @@ title: export_similar_border_style mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 350
+weight: 410
 url: /tr/aspose.cells.saving/ebooksaveoptions/export_similar_border_style/
 is_root: false
 ---
 ##  export_similar_border_style mülk
 
-Kenarlık stili tarayıcılar tarafından desteklenmediğinde benzer kenarlık stilinin dışa aktarılıp aktarılmayacağını belirtir.
-Html veya mht dosyasını excel'e aktarmak istiyorsanız lütfen varsayılan değeri koruyun.
+Tarayıcılar tarafından desteklenmeyen kenarlık stilinin dışa aktarılıp aktarılmayacağını belirtir.
+Eğer html veya mht dosyasını excel'e aktarmak istiyorsanız lütfen varsayılan değeri koruyun.
 Varsayılan değer false'tur.
 ###  Tanım:
 ```python

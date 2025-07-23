@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_selecting_unlocked_cell mülk
 
-Kullanıcının korumalı bir çalışma sayfasında kilitlenmemiş hücreleri seçmesine izin verilip verilmediğini temsil eder.
+Kullanıcının korumalı bir çalışma sayfasındaki kilitsiz hücreleri seçmesine izin verilip verilmediğini gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_selecting_unlocked_cell(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

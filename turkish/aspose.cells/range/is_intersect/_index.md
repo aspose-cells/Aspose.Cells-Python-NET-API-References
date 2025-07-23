@@ -3,12 +3,12 @@ title: is_intersect yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 140
+weight: 190
 url: /tr/aspose.cells/range/is_intersect/
 is_root: false
 ---
-##  is_intersect {#aspose.cells.Range}
-Aralığın kesişip kesişmediğini belirtir.
+##  is_intersect(self, range) {#aspose.cells.Range}
+Aralığın kesişip kesişmediğini gösterir.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Aralığın kesişip kesişmediği.
 
 
 ```python
+
 def is_intersect(self, range):
     ...
 ```
@@ -27,7 +28,7 @@ def is_intersect(self, range):
 | range | [`Range`](/cells/python-net/tr/aspose.cells/range) | Menzil.|
 ###  Notlar
 
-İki aralık aynı çalışma sayfasında değilse false değerini döndürür.
+Eğer iki aralık alanı aynı çalışma sayfasında değilse false değerini döndür.
 
 
 ###  Ayrıca bakınız

@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  keep_macros mülk
 
-Makroların tutulup tutulmadığını gösterir;
+Makroların tutulup tutulmayacağını gösterir;
 
 ###  Notlar
 
-Yalnızca çalışma kitabını kopyalamak için.
+Sadece çalışma kitabını kopyalamak için.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def keep_macros(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CopyOptions](/cells/python-net/tr/aspose.cells/copyoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CopyOptions`](/cells/python-net/tr/aspose.cells/copyoptions)

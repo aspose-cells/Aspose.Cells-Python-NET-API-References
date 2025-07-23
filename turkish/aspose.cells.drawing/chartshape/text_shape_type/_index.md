@@ -3,7 +3,7 @@ title: text_shape_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1020
+weight: 1030
 url: /tr/aspose.cells.drawing/chartshape/text_shape_type/
 is_root: false
 ---

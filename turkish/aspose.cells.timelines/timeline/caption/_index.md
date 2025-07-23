@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption mülk
 
-Belirtilen Zaman Çizelgesi'nin caption'ini döndürür veya ayarlar.
+Belirtilen Zaman Çizelgesinin caption değerini döndürür veya ayarlar.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def caption(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.timelines](../../)
-* sınıf [Timeline](/cells/python-net/tr/aspose.cells.timelines/timeline)
+* modül [`aspose.cells.timelines`](../../)
+* sınıf [`Timeline`](/cells/python-net/tr/aspose.cells.timelines/timeline)

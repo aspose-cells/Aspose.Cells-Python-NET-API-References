@@ -12,21 +12,21 @@ Akıllı etiketin seçeneklerini temsil eder.
 
 
 
-SmartTagOptions türü aşağıdaki üyeleri gösterir:
+SmartTagOptions türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [SmartTagOptions()](/cells/python-net/tr/aspose.cells.markup/smarttagoptions/__init__/#) | SmartTagOptions'ın yeni bir örneğini oluşturur|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells.markup/smarttagoptions/__init__/#) | SmartTagOptions'ın yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [embed_smart_tags](/cells/python-net/tr/aspose.cells.markup/smarttagoptions/embed_smart_tags) | Akıllı etiketlerin çalışma kitabıyla birlikte kaydedilip kaydedilmediğini gösterir.|
-| [show_type](/cells/python-net/tr/aspose.cells.markup/smarttagoptions/show_type) | Akıllı etiketin gösteri türünü temsil eder.|
+| [embed_smart_tags](/cells/python-net/tr/aspose.cells.markup/smarttagoptions/embed_smart_tags) | Akıllı etiketlerin çalışma kitabıyla birlikte kaydedilip kaydedilmeyeceğini belirtir.|
+| [show_type](/cells/python-net/tr/aspose.cells.markup/smarttagoptions/show_type) | Akıllı etiketin gösterim türünü temsil eder.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](..)
+* modül [`aspose.cells.markup`](..)

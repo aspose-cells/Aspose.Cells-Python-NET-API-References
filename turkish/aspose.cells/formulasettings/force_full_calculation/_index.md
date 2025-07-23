@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  force_full_calculation mülk
 
-Bir hesaplama tetiklendiğinde her seferinde tüm formülleri hesaplayıp hesaplamadığını gösterir.
+Bir hesaplama tetiklendiğinde her seferinde tüm formüllerin hesaplanıp hesaplanmayacağını belirtir.
 
 ###  Notlar
 
-Bu özellik, yalnızca ayarları sonuçtaki elektronik tablo dosyasına kaydetmek içindir
-böylece diğer uygulamalar (ms excel gibi) ortaya çıkan dosyayı yüklerken ve değiştirirken buna göre hareket edebilir.
-Çoğu kullanıcının uygulamalarındaki performans değerlendirmesi için, çalışma kitabındaki hiçbir formülü otomatik olarak hesaplamayız,
-Bu özellik için hangi değer ayarlanmış olursa olsun.
+Bu özellik yalnızca ayarların sonuç elektronik tablosu dosyasına kaydedilmesi içindir
+Böylece diğer uygulamalar (örneğin ms excel) ortaya çıkan dosyayı yüklerken ve düzenlerken buna göre hareket edebilir.
+Çoğu kullanıcının uygulamaları için performans değerlendirmesi amacıyla, çalışma kitabındaki hiçbir formülü otomatik olarak hesaplamıyoruz.
+Bu mülk için hangi değer belirlenmiş olursa olsun.
 ###  Tanım:
 ```python
 @property
@@ -28,5 +28,5 @@ def force_full_calculation(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormulaSettings](/cells/python-net/tr/aspose.cells/formulasettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormulaSettings`](/cells/python-net/tr/aspose.cells/formulasettings)

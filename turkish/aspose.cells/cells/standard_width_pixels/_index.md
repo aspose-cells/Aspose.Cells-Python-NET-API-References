@@ -3,13 +3,13 @@ title: standard_width_pixels mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1290
+weight: 1320
 url: /tr/aspose.cells/cells/standard_width_pixels/
 is_root: false
 ---
 ##  standard_width_pixels mülk
 
-Çalışma sayfasındaki varsayılan sütun genişliğini piksel birimi cinsinden alır veya ayarlar.
+Çalışma sayfasındaki varsayılan sütun genişliğini piksel cinsinden alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

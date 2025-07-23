@@ -7,12 +7,13 @@ weight: 440
 url: /tr/aspose.cells/settableglobalizationsettings/set_table_row_type_of_totals/
 is_root: false
 ---
-##  set_table_row_type_of_totals {#str}
+##  set_table_row_type_of_totals(self, name) {#str}
 Başvurulan tablonun toplam satırından oluşan tablo satırlarının tür adını ayarlar.
 
 
 
 ```python
+
 def set_table_row_type_of_totals(self, name):
     ...
 ```

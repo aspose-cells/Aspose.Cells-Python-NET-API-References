@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  print_with_status_dialog mülk
 
-PrintWithStatusDialog = true ise geçerli yazdırma durumunu gösteren bir iletişim kutusu olacaktır.
-aksi takdirde böyle bir diyalog gösterilmez.
+PrintWithStatusDialog = true ise, geçerli yazdırma durumunu gösteren bir iletişim kutusu açılacaktır.
+aksi takdirde böyle bir iletişim kutusu gösterilmeyecektir.
 ###  Tanım:
 ```python
 @property

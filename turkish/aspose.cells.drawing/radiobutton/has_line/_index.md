@@ -3,13 +3,13 @@ title: has_line mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 430
 url: /tr/aspose.cells.drawing/radiobutton/has_line/
 is_root: false
 ---
 ##  has_line mülk
 
-Şeklin görünür kenar çizgisini alır ve ayarlar.
+Şeklin çizgi sınırının görünür olmasını sağlar ve ayarlar.
 
 ###  Örnek
 

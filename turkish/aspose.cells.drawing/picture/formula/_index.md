@@ -3,7 +3,7 @@ title: formula mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 450
+weight: 460
 url: /tr/aspose.cells.drawing/picture/formula/
 is_root: false
 ---

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height mülk
 
-Piksel birimi cinsinden şeklin height'ini temsil eder.
+Şeklin height'ini piksel biriminde temsil eder.
 
 ###  Örnek
 

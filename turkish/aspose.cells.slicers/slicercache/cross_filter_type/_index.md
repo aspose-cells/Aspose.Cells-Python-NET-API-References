@@ -10,7 +10,7 @@ is_root: false
 ##  cross_filter_type mülk
 
 Bir dilimleyicinin diğer dilimleyicilerle çapraz filtrelemeye katılıp katılmadığını döndürür veya ayarlar
-aynı dilimleyici önbelleğini paylaşan ve çapraz filtrelemenin nasıl görüntülendiği. Okuma yazma
+aynı dilimleyici önbelleğini paylaşan ve çapraz filtrelemenin nasıl görüntülendiği. Okuma/yazma
 ###  Tanım:
 ```python
 @property
@@ -22,6 +22,6 @@ def cross_filter_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [SlicerCache](/cells/python-net/tr/aspose.cells.slicers/slicercache)
-* sınıf [SlicerCacheCrossFilterType](/cells/python-net/tr/aspose.cells.slicers/slicercachecrossfiltertype)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`SlicerCache`](/cells/python-net/tr/aspose.cells.slicers/slicercache)
+* sınıf [`SlicerCacheCrossFilterType`](/cells/python-net/tr/aspose.cells.slicers/slicercachecrossfiltertype)

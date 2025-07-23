@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  values mülk
 
-Grafik serisinin verilerini temsil eder.
+Bu grafik serisinin Y values'ini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def values(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

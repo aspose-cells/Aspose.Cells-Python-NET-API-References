@@ -3,16 +3,17 @@ title: remove_field yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 190
+weight: 240
 url: /tr/aspose.cells.pivot/pivottable/remove_field/
 is_root: false
 ---
-##  remove_field(field_type, field_name) {#PivotFieldType-str}
-Belirli alan alanından bir alanı kaldırır
+##  remove_field(self, field_type, field_name) {#aspose.cells.pivot.PivotFieldType-str}
+Belirli bir alandan bir alanı kaldırır
 
 
 
 ```python
+
 def remove_field(self, field_type, field_name):
     ...
 ```
@@ -20,16 +21,17 @@ def remove_field(self, field_type, field_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | Alanlar alan tipi.|
-| field_name | str | Temel alanlardaki ad.|
+| field_type | [`PivotFieldType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | Alanların alan türü.|
+| field_name | str |Temel alanlardaki isim.|
 
 
-##  remove_field(field_type, base_field_index) {#PivotFieldType-int}
-Belirli alan alanından bir alanı kaldırır
+##  remove_field(self, field_type, base_field_index) {#aspose.cells.pivot.PivotFieldType-int}
+Belirli bir alandan bir alanı kaldırır
 
 
 
 ```python
+
 def remove_field(self, field_type, base_field_index):
     ...
 ```
@@ -37,16 +39,17 @@ def remove_field(self, field_type, base_field_index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | Alanlar alan tipi.|
-| base_field_index | int | Temel alanlardaki alan dizini.|
+| field_type | [`PivotFieldType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | Alanların alan türü.|
+| base_field_index | int | Temel alanlardaki alan indeksi.|
 
 
-##  remove_field(field_type, pivot_field) {#PivotFieldType-PivotField}
-Belirli alan alanından alanı kaldır
+##  remove_field(self, field_type, pivot_field) {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
+Belirli alandan alanı kaldır
 
 
 
 ```python
+
 def remove_field(self, field_type, pivot_field):
     ...
 ```
@@ -54,11 +57,11 @@ def remove_field(self, field_type, pivot_field):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | alanlar alan türü.|
-| pivot_field | [PivotField](/cells/python-net/tr/aspose.cells.pivot/pivotfield) | temel alanlardaki alan.|
+| field_type | [`PivotFieldType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | alanlar alan türü.|
+| pivot_field | [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield) | taban alanlarındaki alan.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

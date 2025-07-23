@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_3d mülk
 
-Grafiğin 3 boyutlu bir grafik olup olmadığını belirtir.
+Grafiğin 3 boyutlu bir grafik olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property

@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells/exportobjectevent/get_source/
 is_root: false
 ---
-##  get_source() {#}
+##  get_source(self) {#}
 Dışa aktarılacak nesneyi alır.
 
 
@@ -17,6 +17,7 @@ dışa aktarılacak nesne.
 
 
 ```python
+
 def get_source(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_source(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExportObjectEvent](/cells/python-net/tr/aspose.cells/exportobjectevent)
+* modül [`aspose.cells`](../../)
+* sınıf [`ExportObjectEvent`](/cells/python-net/tr/aspose.cells/exportobjectevent)

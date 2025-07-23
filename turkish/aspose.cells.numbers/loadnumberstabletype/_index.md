@@ -8,13 +8,13 @@ url: /tr/aspose.cells.numbers/loadnumberstabletype/
 is_root: false
 ---
 ##  LoadNumbersTableType numaralandırma
-Bazı tablolar bir sayfada olduğunda yükleme tablolarının türünü belirtir.
+Bir sayfada bazı tablolar olduğunda yükleme tablolarının türünü belirtir.
 
 
 
-LoadNumbersTableType türü aşağıdaki üyeleri gösterir:
+LoadNumbersTableType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | ONE_TABLE_PER_SHEET |  |
@@ -24,4 +24,4 @@ LoadNumbersTableType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.numbers](..)
+* modül [`aspose.cells.numbers`](..)

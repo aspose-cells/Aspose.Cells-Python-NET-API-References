@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_x mülk
 
-Kalıptan çekilmiş şeklin x ekseni etrafındaki dönüşünü derece cinsinden alır ve ayarlar.
+Ekstrüde edilen şeklin x ekseni etrafındaki dönüşünü derece cinsinden alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotation_x(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

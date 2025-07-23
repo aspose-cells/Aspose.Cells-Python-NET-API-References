@@ -3,13 +3,11 @@ title: draw_object_event_handler mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 130
 url: /tr/aspose.cells/xpssaveoptions/draw_object_event_handler/
 is_root: false
 ---
 ##  draw_object_event_handler mülk
-
-İşleme sırasında DrawObject ve Bound'u almak için bu arabirimi uygular.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +19,5 @@ def draw_object_event_handler(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DrawObjectEventHandler](/cells/python-net/tr/aspose.cells.rendering/drawobjecteventhandler)
-* sınıf [XpsSaveOptions](/cells/python-net/tr/aspose.cells/xpssaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`XpsSaveOptions`](/cells/python-net/tr/aspose.cells/xpssaveoptions)

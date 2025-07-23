@@ -3,13 +3,13 @@ title: position mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 360
 url: /tr/aspose.cells.charts/legend/position/
 is_root: false
 ---
 ##  position mülk
 
-Gösterge position türünü alır veya ayarlar.
+position efsane türünü alır veya ayarlar.
 
 ###  Notlar
 

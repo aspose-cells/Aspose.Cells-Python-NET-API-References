@@ -18,6 +18,6 @@ def gradient_style(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GradientStyleType](/cells/python-net/tr/aspose.cells.drawing/gradientstyletype)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GradientStyleType`](/cells/python-net/tr/aspose.cells.drawing/gradientstyletype)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)

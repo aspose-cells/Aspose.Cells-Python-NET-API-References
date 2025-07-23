@@ -3,14 +3,14 @@ title: placement mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 830
+weight: 840
 url: /tr/aspose.cells.drawing/smartartshape/placement/
 is_root: false
 ---
 ##  placement mülk
 
-Çizim nesnesinin altındaki hücrelere bağlanma şeklini temsil eder.
-Özellik, çalışma sayfasındaki bir nesnenin placement'ini kontrol eder.
+Çizim nesnesinin altındaki hücrelere bağlanma şeklini gösterir.
+Özellik, bir çalışma sayfasındaki nesnenin placement değerini kontrol eder.
 
 ###  Örnek
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_separator mülk
 
-Liste, fonksiyon parametreleri vb. için ayırıcıyı alır.
+Liste için ayırıcıyı, fonksiyon parametrelerini, ...vb. alır.
 ###  Tanım:
 ```python
 @property

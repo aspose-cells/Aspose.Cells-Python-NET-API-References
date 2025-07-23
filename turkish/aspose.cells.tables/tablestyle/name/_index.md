@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-name tablo stilini alır.
+Tablo stilinin name'ini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [TableStyle](/cells/python-net/tr/aspose.cells.tables/tablestyle)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`TableStyle`](/cells/python-net/tr/aspose.cells.tables/tablestyle)

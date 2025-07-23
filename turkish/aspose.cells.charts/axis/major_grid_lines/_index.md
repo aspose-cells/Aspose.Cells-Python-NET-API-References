@@ -3,13 +3,13 @@ title: major_grid_lines mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 280
+weight: 290
 url: /tr/aspose.cells.charts/axis/major_grid_lines/
 is_root: false
 ---
 ##  major_grid_lines mülk
 
-Grafik eksenindeki ana kılavuz çizgilerini temsil eder.
+Bir grafik eksenindeki ana kılavuz çizgilerini temsil eder.
 
 ###  Örnek
 

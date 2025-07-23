@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  floor mülk
 
-boyutlu bir grafiğin duvarlarını temsil eden [`Chart.floor`](/cells/python-net/tr/aspose.cells.charts/chart#floor) nesnesini döndürür.
+3 boyutlu bir grafiğin duvarlarını temsil eden [`Chart.floor`](/cells/python-net/tr/aspose.cells.charts/chart#floor) nesnesini döndürür.
 
 ###  Notlar
 
-Bu özellik 3 boyutlu pasta grafikler için geçerli değildir.
+Bu özellik 3 boyutlu pasta grafikleri için geçerli değildir.
 ###  Tanım:
 ```python
 @property

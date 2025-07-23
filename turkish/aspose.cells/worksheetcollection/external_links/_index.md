@@ -3,13 +3,13 @@ title: external_links mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 320
 url: /tr/aspose.cells/worksheetcollection/external_links/
 is_root: false
 ---
 ##  external_links mülk
 
-Bir çalışma kitabındaki dış bağlantıları temsil eder.
+Bir çalışma kitabındaki harici bağlantıları temsil eder.
 ###  Tanım:
 ```python
 @property

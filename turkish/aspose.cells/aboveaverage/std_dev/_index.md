@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  std_dev mülk
 
-Ortalamanın üstüne veya altına dahil edilecek standart sapmaların sayısını alın veya ayarlayın.
- koşullu biçimlendirme kuralı
- Giriş değeri 0 ile 3 arasında olmalıdır (0 ile 3 dahil).
-Bu değerin 0 olarak ayarlanması, stdDev'in ayarlanmadığı anlamına gelir.
+Ortalamanın üstünde veya altında yer alacak standart sapma sayısını alın veya ayarlayın
+ koşullu biçimlendirme kuralı.
+ Giriş değeri 0 ile 3 arasında olmalıdır (0 ve 3 dahil).
+Bu değeri 0 olarak ayarlamak stdDev'in ayarlanmadığı anlamına gelir.
 Varsayılan değer 0'dır.
 ###  Tanım:
 ```python
@@ -25,5 +25,5 @@ def std_dev(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AboveAverage](/cells/python-net/tr/aspose.cells/aboveaverage)
+* modül [`aspose.cells`](../../)
+* sınıf [`AboveAverage`](/cells/python-net/tr/aspose.cells/aboveaverage)

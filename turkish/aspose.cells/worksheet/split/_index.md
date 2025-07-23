@@ -3,16 +3,17 @@ title: split yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 290
+weight: 310
 url: /tr/aspose.cells/worksheet/split/
 is_root: false
 ---
-##  split {#}
+##  split(self) {#}
 Pencereyi böler.
 
 
 
 ```python
+
 def split(self):
     ...
 ```

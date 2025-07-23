@@ -3,13 +3,13 @@ title: top_to_corner mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /tr/aspose.cells.drawing/checkbox/top_to_corner/
 is_root: false
 ---
 ##  top_to_corner mülk
 
-Çalışma sayfasının üst kenarlığından şeklin dikey uzaklığını piksel biriminde alır ve ayarlar.
+Şeklin çalışma sayfasının üst sınırından dikey uzaklığını piksel cinsinden alır ve ayarlar.
 
 ###  Örnek
 

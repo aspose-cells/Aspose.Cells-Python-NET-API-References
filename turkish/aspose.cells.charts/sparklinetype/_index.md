@@ -8,20 +8,20 @@ url: /tr/aspose.cells.charts/sparklinetype/
 is_root: false
 ---
 ##  SparklineType numaralandırma
-Mini grafik türlerini temsil eder.
+Kıvılcım çizgisi türlerini temsil eder.
 
 
 
-SparklineType türü aşağıdaki üyeleri gösterir:
+SparklineType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | LINE | Çizgi kıvılcımı.|
-| COLUMN | Sütun kıvılcımı.|
-| STACKED | Kazan/Kaybet mini grafiği.|
+| COLUMN | Sütun kıvılcım çizgisi.|
+| STACKED | Kazanç/Kaybetme kıvılcım çizelgesi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

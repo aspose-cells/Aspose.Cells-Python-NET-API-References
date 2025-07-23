@@ -9,18 +9,18 @@ is_root: false
 ---
 ##  always_quoted mülk
 
-Her alan için her zaman ''' eklenip eklenmeyeceğini belirtir.
-true ise, tüm değerler alıntılanacaktır;
-false ise, değerler yalnızca gerektiğinde alıntılanır (örneğin,
-değerler '"' , '\n' veya ayırıcı karakter gibi özel karakterler içerdiğinde).
-Varsayılan yanlıştır.
+Her alan için her zaman '"' eklenip eklenmeyeceğini belirtir.
+Eğer doğruysa tüm değerler tırnak içine alınacaktır;
+Eğer yanlışsa, değerler yalnızca ihtiyaç duyulduğunda tırnak işareti içine alınacaktır (örneğin,
+değerler '"', '\n' veya ayırıcı karakter gibi özel karakterler içerdiğinde).
+Varsayılan değer false'tur.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen bunun yerine QuoteType özelliğini kullanın.
- Bu mülk, Ağustos 2012'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen bunun yerine QuoteType özelliğini kullanın.
+ Bu özellik Ağustos 2012'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -32,5 +32,5 @@ def always_quoted(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TxtSaveOptions](/cells/python-net/tr/aspose.cells/txtsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`TxtSaveOptions`](/cells/python-net/tr/aspose.cells/txtsaveoptions)

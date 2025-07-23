@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  graphic_type mülk
 
-Sayfa arka planı grafik türünü alır ve ayarlar.
+Sayfa arka plan grafik türünü alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def graphic_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](../../)
-* sınıf [OdsPageBackground](/cells/python-net/tr/aspose.cells.ods/odspagebackground)
-* sınıf [OdsPageBackgroundGraphicType](/cells/python-net/tr/aspose.cells.ods/odspagebackgroundgraphictype)
+* modül [`aspose.cells.ods`](../../)
+* sınıf [`OdsPageBackground`](/cells/python-net/tr/aspose.cells.ods/odspagebackground)
+* sınıf [`OdsPageBackgroundGraphicType`](/cells/python-net/tr/aspose.cells.ods/odspagebackgroundgraphictype)

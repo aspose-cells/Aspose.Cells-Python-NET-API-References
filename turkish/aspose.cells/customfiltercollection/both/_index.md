@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  both mülk
 
-İki kriterin bir "ve" ilişkisine sahip olup olmadığını gösterir.
+İki kriter arasında "ve" ilişkisi olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def both(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CustomFilterCollection](/cells/python-net/tr/aspose.cells/customfiltercollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`CustomFilterCollection`](/cells/python-net/tr/aspose.cells/customfiltercollection)

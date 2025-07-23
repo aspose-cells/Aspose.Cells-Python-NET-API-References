@@ -3,7 +3,7 @@ title: CredentialsMethodType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 90
 url: /tr/aspose.cells.externalconnections/credentialsmethodtype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Sunucu erişimi için kullanılan Kimlik Bilgileri yöntemini belirtir.
 
 
 
-CredentialsMethodType türü aşağıdaki üyeleri gösterir:
+CredentialsMethodType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | INTEGRATED | Entegre Kimlik Doğrulama|
-| NONE | kimlik bilgisi yok|
-| PROMPT | Kimlik Bilgilerini Sor|
-| STORED | Kayıtlı Kimlik Bilgileri|
+| NONE |Kimlik Bilgisi Yok|
+| PROMPT | Hızlı Kimlik Bilgileri|
+| STORED | Saklanan Kimlik Bilgileri|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](..)
+* modül [`aspose.cells.externalconnections`](..)

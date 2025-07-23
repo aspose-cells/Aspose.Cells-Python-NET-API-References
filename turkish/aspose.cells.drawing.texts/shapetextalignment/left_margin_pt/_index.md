@@ -3,13 +3,13 @@ title: left_margin_pt mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 80
 url: /tr/aspose.cells.drawing.texts/shapetextalignment/left_margin_pt/
 is_root: false
 ---
 ##  left_margin_pt mülk
 
-Sol kenar boşluğunu Puan birimi cinsinden verir
+Sol kenar boşluğunu Nokta biriminde döndürür
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def left_margin_pt(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [ShapeTextAlignment](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`ShapeTextAlignment`](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)

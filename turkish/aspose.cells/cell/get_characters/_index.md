@@ -7,17 +7,18 @@ weight: 70
 url: /tr/aspose.cells/cell/get_characters/
 is_root: false
 ---
-##  get_characters() {#}
- Tüm Karakterler nesnelerini döndürür
-hücre metni içindeki bir karakter aralığını temsil eder.
+##  get_characters(self) {#}
+ Tüm Karakter nesnelerini döndürür
+hücre metni içindeki karakter aralığını temsil eder.
 
 
 ###  İadeler
 
-Tüm Karakterler nesneleri
+Tüm Karakter nesneleri
 
 
 ```python
+
 def get_characters(self):
     ...
 ```
@@ -25,17 +26,18 @@ def get_characters(self):
 
 
 
-##  get_characters(flag) {#bool}
- Tüm Karakterler nesnelerini döndürür
-hücre metni içindeki bir karakter aralığını temsil eder.
+##  get_characters(self, flag) {#bool}
+ Tüm Karakter nesnelerini döndürür
+hücre metni içindeki karakter aralığını temsil eder.
 
 
 ###  İadeler
 
-Tüm Karakterler nesneleri
+Tüm Karakter nesneleri
 
 
 ```python
+
 def get_characters(self, flag):
     ...
 ```
@@ -43,10 +45,10 @@ def get_characters(self, flag):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| flag | bool | Hücre tablonun içindeyse hücreye tablo stili uygulanıp uygulanmayacağını gösterir.|
+| flag | bool | Hücre tabloda ise hücreye tablo stili uygulanıp uygulanmayacağını belirtir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

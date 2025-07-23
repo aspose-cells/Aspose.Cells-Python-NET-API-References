@@ -7,8 +7,8 @@ weight: 70
 url: /tr/aspose.cells/cells/check_column/
 is_root: false
 ---
-##  check_column(column_index) {#int}
-Belirtilen sütun dizininde [Column](/cells/python-net/tr/aspose.cells/column) öğesini veya boş değeri alır.
+##  check_column(self, column_index) {#int}
+Belirtilen sütun dizinindeki [`Column`](/cells/python-net/tr/aspose.cells/column) öğesini veya null değerini alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Sütun nesnesi.
 
 
 ```python
+
 def check_column(self, column_index):
     ...
 ```
@@ -29,6 +30,6 @@ def check_column(self, column_index):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
-* sınıf [Column](/cells/python-net/tr/aspose.cells/column)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)
+* sınıf [`Column`](/cells/python-net/tr/aspose.cells/column)

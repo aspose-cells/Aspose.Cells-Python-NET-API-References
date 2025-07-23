@@ -3,15 +3,15 @@ title: format_data_ignore_column_width mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 460
 url: /tr/aspose.cells.saving/ebooksaveoptions/format_data_ignore_column_width/
 is_root: false
 ---
 ##  format_data_ignore_column_width mülk
 
-Sütun taşarken hücrenin tüm biçimlendirilmiş verilerinin gösterilip gösterilmeyeceğini belirtir.
-Doğruysa sütun genişliğini göz ardı edin; hücrenin tüm verileri dışa aktarılacaktır.
-Yanlışsa veriler Excel ile aynı şekilde dışa aktarılacaktır.
+Sütun taştığında hücrenin tüm biçimlendirilmiş verilerinin gösterilip gösterilmeyeceğini belirtir.
+Eğer doğruysa sütun genişliğini yoksayarsınız ve hücrenin tüm verileri dışarı aktarılır.
+Eğer false ise veriler Excel'deki gibi dışarı aktarılacaktır.
 Varsayılan değer false'tur.
 ###  Tanım:
 ```python

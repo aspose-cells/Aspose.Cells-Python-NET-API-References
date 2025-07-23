@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_margin_inch mülk
 
-İnç birimi cinsinden üst kenar boşluğunun boyutunu temsil eder.
+Üst kenar boşluğunun boyutunu inç cinsinden gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def top_margin_inch(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

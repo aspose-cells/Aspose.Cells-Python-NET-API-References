@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_bevel_width mülk
 
-Alt eğimin genişliğini veya şeklin ne kadar içine uygulandığını alır ve ayarlar.
+Alt eğimin genişliğini veya şeklin içine ne kadar derine uygulanacağını alır ve ayarlar.
 Puan biriminde.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def bottom_bevel_width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

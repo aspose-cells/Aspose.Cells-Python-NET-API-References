@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_data_table mülk
 
-Grafiğin bir veri tablosu görüntüleyip görüntülemediğini gösteren bir değer alır veya ayarlar.
+Grafiğin bir veri tablosu gösterip göstermediğini belirten bir değeri alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

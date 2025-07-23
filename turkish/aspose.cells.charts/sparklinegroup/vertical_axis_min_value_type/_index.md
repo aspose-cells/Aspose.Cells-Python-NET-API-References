@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  vertical_axis_min_value_type mülk
 
-Dikey eksen minimum değer türünü temsil eder.
+Dikey eksenin minimum değer türünü temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def vertical_axis_min_value_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineAxisMinMaxType](/cells/python-net/tr/aspose.cells.charts/sparklineaxisminmaxtype)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineAxisMinMaxType`](/cells/python-net/tr/aspose.cells.charts/sparklineaxisminmaxtype)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

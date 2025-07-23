@@ -8,7 +8,7 @@ url: /tr/aspose.cells.drawing.texts/bullet/
 is_root: false
 ---
 ##  Bullet sınıfı
-Bir paragrafa uygulanması gereken madde işaretlerini temsil eder.
+Madde işaretlerinin bir paragrafa uygulanması gerektiğini gösterir.
 
 
 
@@ -17,9 +17,8 @@ Bullet türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [bullet_value](/cells/python-net/tr/aspose.cells.drawing.texts/bullet/bullet_value) | Mermi değerini alır.|
-| [type](/cells/python-net/tr/aspose.cells.drawing.texts/bullet/type) | Mermi türünü alır ve ayarlar.|
-| [font_name](/cells/python-net/tr/aspose.cells.drawing.texts/bullet/font_name) | Yazı tipinin adını alın ve ayarlar.|
+| [type](/cells/python-net/tr/aspose.cells.drawing.texts/bullet/type) | Merminin türünü alır ve ayarlar.|
+| [font_name](/cells/python-net/tr/aspose.cells.drawing.texts/bullet/font_name) | Yazı tipinin adını alın ve ayarlayın.|
 
 
 

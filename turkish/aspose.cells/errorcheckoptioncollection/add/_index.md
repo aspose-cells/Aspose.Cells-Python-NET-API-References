@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells/errorcheckoptioncollection/add/
 is_root: false
 ---
-##  add() {#}
-Bir hata kontrol seçeneği ekleyin.
+##  add(self) {#}
+Hata kontrol seçeneği ekleyin.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Bir hata kontrol seçeneği ekleyin.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ErrorCheckOptionCollection](/cells/python-net/tr/aspose.cells/errorcheckoptioncollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ErrorCheckOptionCollection`](/cells/python-net/tr/aspose.cells/errorcheckoptioncollection)

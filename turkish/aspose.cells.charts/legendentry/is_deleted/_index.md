@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_deleted mülk
 
-Açıklama girişinin silinip silinmediğini alır ve ayarlar.
+Efsane girişinin silinip silinmeyeceğini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [LegendEntry](/cells/python-net/tr/aspose.cells.charts/legendentry)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`LegendEntry`](/cells/python-net/tr/aspose.cells.charts/legendentry)

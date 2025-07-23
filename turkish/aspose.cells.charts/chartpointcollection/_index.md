@@ -21,8 +21,8 @@ ChartPointCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 
 
-Seride belirtilen dizindeki [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint) öğesini alır.
-###  Dizin oluşturucu
+Serideki belirtilen indeksteki [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint) elemanını alır.
+###  Dizinleyici
 | İsim| Tanım|
 | :- | :- |
 | [index] | Serideki grafik noktasının indeksi.|
@@ -31,9 +31,8 @@ Seride belirtilen dizindeki [`ChartPoint`](/cells/python-net/tr/aspose.cells.cha
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [get_enumerator](/cells/python-net/tr/aspose.cells.charts/chartpointcollection/get_enumerator/#) | [`ChartPointCollection`](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)'in tamamı için bir numaralandırıcı döndürür.|
-| [clear](/cells/python-net/tr/aspose.cells.charts/chartpointcollection/clear/#) | Grafik noktalarının tüm ayarlarını kaldırın.|
-| [remove_at](/cells/python-net/tr/aspose.cells.charts/chartpointcollection/remove_at/#int) | Serinin indeksindeki noktayı kaldırır.|
+| [`clear(self)`](/cells/python-net/tr/aspose.cells.charts/chartpointcollection/clear/#) | Grafik noktalarının tüm ayarlarını kaldırın.|
+| [`remove_at(self, index)`](/cells/python-net/tr/aspose.cells.charts/chartpointcollection/remove_at/#int) | Dizinin indeksindeki noktayı kaldırır.|
 
 
 
@@ -84,4 +83,3 @@ workbook.save("book1.xls")
 ###  Ayrıca bakınız
 * modül [`aspose.cells.charts`](..)
 * sınıf [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint)
-* sınıf [`ChartPointCollection`](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)

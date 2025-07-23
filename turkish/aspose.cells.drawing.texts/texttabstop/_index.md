@@ -12,15 +12,15 @@ Sekme durağını temsil eder.
 
 
 
-TextTabStop türü aşağıdaki üyeleri gösterir:
+TextTabStop türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [tab_alignment](/cells/python-net/tr/aspose.cells.drawing.texts/texttabstop/tab_alignment) | Bu sekme durağı kullanılarak metne uygulanacak hizalamayı belirtir.|
-| [tab_position](/cells/python-net/tr/aspose.cells.drawing.texts/texttabstop/tab_position) | Sekme durağının sol kenar boşluğuna göre konumunu belirtir.|
+| [tab_position](/cells/python-net/tr/aspose.cells.drawing.texts/texttabstop/tab_position) |Sekme durağının sol kenar boşluğuna göre konumunu belirtir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](..)
+* modül [`aspose.cells.drawing.texts`](..)

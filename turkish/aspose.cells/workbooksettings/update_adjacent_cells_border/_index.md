@@ -3,19 +3,19 @@ title: update_adjacent_cells_border mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 490
+weight: 510
 url: /tr/aspose.cells/workbooksettings/update_adjacent_cells_border/
 is_root: false
 ---
 ##  update_adjacent_cells_border mülk
 
-Bitişik hücrelerin kenarlarının güncellenip güncellenmeyeceğini belirtir.
+Bitişik hücrelerin kenarlığının güncellenip güncellenmeyeceğini belirtir.
 
 ###  Notlar
 
 Varsayılan değer false'tur.
- Örneğin: A1 hücresinin alt kenarlığı günceldir,
-A2 hücresinin üst kenarlığı da değiştirilmelidir.
+ Örneğin: A1 hücresinin alt sınırı güncellenir,
+A2 hücresinin üst sınırının da değiştirilmesi gerekir.
 ###  Tanım:
 ```python
 @property

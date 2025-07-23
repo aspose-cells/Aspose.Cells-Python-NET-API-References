@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  search_backward mülk
 
-Hücreler için geriye doğru arama olup olmadığı.
+Hücreler için geriye doğru arama yapın.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def search_backward(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FindOptions](/cells/python-net/tr/aspose.cells/findoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`FindOptions`](/cells/python-net/tr/aspose.cells/findoptions)

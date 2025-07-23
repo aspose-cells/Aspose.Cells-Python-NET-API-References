@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_r_squared mülk
 
-Eğilim çizgisinin R-kare değerinin grafikte gösterilip gösterilmediğini temsil eder (denklemle aynı veri etiketinde). Bu özelliği True olarak ayarlamak veri etiketlerini otomatik olarak açar.
+Trend çizgisinin R kare değerinin grafikte (denklemin aynı veri etiketinde) görüntülenip görüntülenmediğini gösterir. Bu özelliğin True olarak ayarlanması, veri etiketlerini otomatik olarak açar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_r_squared(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

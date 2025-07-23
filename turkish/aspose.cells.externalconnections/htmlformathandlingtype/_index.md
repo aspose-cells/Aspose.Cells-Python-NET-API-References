@@ -12,16 +12,16 @@ HTML kaynağından biçimlendirmenin nasıl işleneceğini belirtir
 
 
 
-HtmlFormatHandlingType türü aşağıdaki üyeleri gösterir:
+HtmlFormatHandlingType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| ALL | Tüm HTML biçimlendirmesini verilerle birlikte çalışma sayfasına aktarın.|
-| NONE | Verileri biçimlendirilmemiş metin olarak getirin (veri türlerinin ayarlanması yine de gerçekleşir).|
-| RTF | Çalışma sayfasına getirilen verilerde HTML biçimlendirmesini zengin metin biçimlendirmesine çevirin.|
+| ALL | HTML biçimlendirmesini verilerle birlikte çalışma sayfasına aktarın.|
+| NONE | Verileri biçimlendirilmemiş metin olarak getirin (veri türlerinin ayarlanması yine gerçekleşir).|
+| RTF |Çalışma sayfasına getirilen veriler üzerinde HTML biçimlendirmesini zengin metin biçimlendirmesine çevirin.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](..)
+* modül [`aspose.cells.externalconnections`](..)

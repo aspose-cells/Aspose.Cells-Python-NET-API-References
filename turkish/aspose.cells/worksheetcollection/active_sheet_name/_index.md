@@ -3,7 +3,7 @@ title: active_sheet_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 270
 url: /tr/aspose.cells/worksheetcollection/active_sheet_name/
 is_root: false
 ---

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  arc_start_point_y_px mülk
 
-Chart.Calculate() yöntemini çağırdıktan sonra pasta bölümü için başlangıç noktasının y koordinatını alır.
-Pasta ve Halka grafiği için geçerlidir.
+Chart.Calculate() metodunu çağırdıktan sonra pasta bölümünün başlangıç noktasının y koordinatını alır.
+Pasta ve Halka grafikleri için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -19,5 +19,5 @@ def arc_start_point_y_px(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartPoint](/cells/python-net/tr/aspose.cells.charts/chartpoint)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint)

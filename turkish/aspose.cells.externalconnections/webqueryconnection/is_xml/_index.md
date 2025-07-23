@@ -3,13 +3,13 @@ title: is_xml mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 260
 url: /tr/aspose.cells.externalconnections/webqueryconnection/is_xml/
 is_root: false
 ---
 ##  is_xml mülk
 
-web sorgu kaynağı XML ise true (HTML'e karşı), aksi takdirde false.
+Web sorgu kaynağı XML ise (HTML'e kıyasla) doğru, aksi takdirde yanlış.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_xml(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [WebQueryConnection](/cells/python-net/tr/aspose.cells.externalconnections/webqueryconnection)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`WebQueryConnection`](/cells/python-net/tr/aspose.cells.externalconnections/webqueryconnection)

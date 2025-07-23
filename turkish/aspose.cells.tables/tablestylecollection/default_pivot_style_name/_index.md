@@ -3,7 +3,7 @@ title: default_pivot_style_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 120
 url: /tr/aspose.cells.tables/tablestylecollection/default_pivot_style_name/
 is_root: false
 ---

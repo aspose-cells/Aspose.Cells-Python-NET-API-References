@@ -3,31 +3,31 @@ title: MsoLineDashStyle numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1010
+weight: 1000
 url: /tr/aspose.cells.drawing/msolinedashstyle/
 is_root: false
 ---
 ##  MsoLineDashStyle numaralandırma
-Kısa çizgi çizim çizgilerinin stilini temsil eder.
+Çizgi çizim stilini temsil eder.
 
 
 
-MsoLineDashStyle türü aşağıdaki üyeleri gösterir:
+MsoLineDashStyle türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| DASH | Bir tire çizgisini temsil eder.|
-| DASH_DOT |Bir tire nokta çizgisini temsil eder.|
-| DASH_DOT_DOT | Bir tire-nokta-nokta çizgisini temsil eder.|
-| DASH_LONG_DASH | Uzun çizgi-kısa çizgi çizgisini temsil eder.|
-| DASH_LONG_DASH_DOT | Uzun çizgi-kısa çizgi-nokta çizgisini temsil eder.|
-| ROUND_DOT | Yuvarlak nokta çizgisini temsil eder.|
-| SOLID | Düz bir çizgiyi temsil eder.|
-| SQUARE_DOT | Kare noktalı bir çizgiyi temsil eder.|
-| CUSTOM | Özel tire stili.|
+| DASH | Bir kesik çizgiyi temsil eder.|
+| DASH_DOT | Kesik çizgilerden oluşan bir çizgiyi temsil eder.|
+| DASH_DOT_DOT | Tire-nokta-nokta çizgisini temsil eder.|
+| DASH_LONG_DASH | Uzun çizgi-kısa çizgiyi temsil eder.|
+| DASH_LONG_DASH_DOT | Uzun çizgi-kısa çizgi-nokta şeklinde bir çizgiyi temsil eder.|
+| ROUND_DOT | Yuvarlak noktalı bir çizgiyi temsil eder.|
+| SOLID | Kesintisiz bir çizgiyi temsil eder.|
+| SQUARE_DOT | Kare-nokta çizgisini temsil eder.|
+| CUSTOM | Özel gösterge paneli stili.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

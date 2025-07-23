@@ -3,13 +3,13 @@ title: vba_project mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 670
+weight: 700
 url: /tr/aspose.cells/workbook/vba_project/
 is_root: false
 ---
 ##  vba_project mülk
 
-Bir e-tabloda [`Workbook.vba_project`](/cells/python-net/tr/aspose.cells/workbook#vba_project)'i alır.
+[`Workbook.vba_project`](/cells/python-net/tr/aspose.cells/workbook#vba_project)'i bir elektronik tabloda alır.
 ###  Tanım:
 ```python
 @property

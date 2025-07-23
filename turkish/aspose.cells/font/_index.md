@@ -3,7 +3,7 @@ title: Font sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 680
+weight: 660
 url: /tr/aspose.cells/font/
 is_root: false
 ---
@@ -17,30 +17,30 @@ Font türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [charset](/cells/python-net/tr/aspose.cells/font/charset) | Karakter setini temsil edin.|
-| [is_italic](/cells/python-net/tr/aspose.cells/font/is_italic) | Yazı tipinin italik olup olmadığını gösteren bir değer alır veya ayarlar.|
+| [charset](/cells/python-net/tr/aspose.cells/font/charset) | Karakter setini temsil eder.|
+| [is_italic](/cells/python-net/tr/aspose.cells/font/is_italic) | Yazı tipinin italik olup olmadığını belirten bir değer alır veya ayarlar.|
 | [is_bold](/cells/python-net/tr/aspose.cells/font/is_bold) | Yazı tipinin kalın olup olmadığını gösteren bir değer alır veya ayarlar.|
 | [caps_type](/cells/python-net/tr/aspose.cells/font/caps_type) | Metin büyük harf türünü alır ve ayarlar.|
 | [strike_type](/cells/python-net/tr/aspose.cells/font/strike_type) | Metnin vuruş türünü alır.|
-| [is_strikeout](/cells/python-net/tr/aspose.cells/font/is_strikeout) | Yazı tipinin tek üstü çizili olup olmadığını gösteren bir değer alır veya ayarlar.|
-| [script_offset](/cells/python-net/tr/aspose.cells/font/script_offset) | Komut dosyası uzaklığını yüzde birimi cinsinden alır ve ayarlar|
-| [is_superscript](/cells/python-net/tr/aspose.cells/font/is_superscript) | Yazı tipinin süper komut dosyası olup olmadığını gösteren bir değer alır veya ayarlar.|
-| [is_subscript](/cells/python-net/tr/aspose.cells/font/is_subscript) | Yazı tipinin alt simge olup olmadığını gösteren bir değer alır veya ayarlar.|
-| [underline](/cells/python-net/tr/aspose.cells/font/underline) | Yazı tipi alt çizgi türünü alır veya ayarlar.|
+| [is_strikeout](/cells/python-net/tr/aspose.cells/font/is_strikeout) | Yazı tipinin tek çizgili olup olmadığını belirten bir değer alır veya ayarlar.|
+| [script_offset](/cells/python-net/tr/aspose.cells/font/script_offset) | Komut dosyası ofsetini yüzde biriminde alır ve ayarlar|
+| [is_superscript](/cells/python-net/tr/aspose.cells/font/is_superscript) | Yazı tipinin üst simge olup olmadığını belirten bir değer alır veya ayarlar.|
+| [is_subscript](/cells/python-net/tr/aspose.cells/font/is_subscript) | Yazı tipinin alt simge olup olmadığını belirten bir değer alır veya ayarlar.|
+| [underline](/cells/python-net/tr/aspose.cells/font/underline) | Alt çizgi yazı tipini alır veya ayarlar.|
 | [name](/cells/python-net/tr/aspose.cells/font/name) | [`Font`](/cells/python-net/tr/aspose.cells/font)'in adını alır veya ayarlar.|
-| [double_size](/cells/python-net/tr/aspose.cells/font/double_size) | Yazı tipinin çift boyutunu alır ve ayarlar.|
+| [double_size](/cells/python-net/tr/aspose.cells/font/double_size) | Yazı tipinin boyutunu iki katına çıkarır ve ayarlar.|
 | [size](/cells/python-net/tr/aspose.cells/font/size) | Yazı tipinin boyutunu alır veya ayarlar.|
 | [theme_color](/cells/python-net/tr/aspose.cells/font/theme_color) | Tema rengini alır ve ayarlar.|
 | [color](/cells/python-net/tr/aspose.cells/font/color) | Yazı tipinin rengini alır veya ayarlar.|
-| [argb_color](/cells/python-net/tr/aspose.cells/font/argb_color) | Rengi 32 bit ARGB değeriyle alır ve ayarlar.|
-| [is_normalize_heights](/cells/python-net/tr/aspose.cells/font/is_normalize_heights) | Metin akışına yükseklik normalleştirmesinin uygulanıp uygulanmayacağını belirtir.|
-| [scheme_type](/cells/python-net/tr/aspose.cells/font/scheme_type) |Yazı tipinin düzen türünü alır ve ayarlar.|
+| [argb_color](/cells/python-net/tr/aspose.cells/font/argb_color) | 32-bit ARGB değerine sahip rengi alır ve ayarlar.|
+| [is_normalize_heights](/cells/python-net/tr/aspose.cells/font/is_normalize_heights) | Metne uygulanacak yükseklik normalizasyonunun çalışıp çalışmayacağını belirtir.|
+| [scheme_type](/cells/python-net/tr/aspose.cells/font/scheme_type) |Yazı tipinin şema türünü alır ve ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [equals](/cells/python-net/tr/aspose.cells/font/equals/#aspose.cells.Font) | İki yazı tipinin eşit olup olmadığını kontrol eder.|
+| [`equals(self, font)`](/cells/python-net/tr/aspose.cells/font/equals/#aspose.cells.font) | İki yazı tipinin eşit olup olmadığını kontrol eder.|
 
 
 

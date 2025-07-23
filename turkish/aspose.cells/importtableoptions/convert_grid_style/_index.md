@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_grid_style mülk
 
-Izgara görünümü stilinin hücrelere uygulanıp uygulanmayacağını gösterir.
+Hücrelere ızgara görünümünün stilinin uygulanıp uygulanmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_grid_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions)

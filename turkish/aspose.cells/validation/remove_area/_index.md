@@ -7,12 +7,13 @@ weight: 100
 url: /tr/aspose.cells/validation/remove_area/
 is_root: false
 ---
-##  remove_area {#aspose.cells.CellArea}
+##  remove_area(self, cell_area) {#aspose.cells.CellArea}
 Aralıktaki doğrulama ayarlarını kaldırın.
 
 
 
 ```python
+
 def remove_area(self, cell_area):
     ...
 ```
@@ -20,7 +21,7 @@ def remove_area(self, cell_area):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| cell_area | [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea) | bu doğrulama ayarlarının kaldırılması gereken alanlar.|
+| cell_area | [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea) | Bu doğrulama ayarlarının kaldırılması gereken alanlar.|
 
 
 

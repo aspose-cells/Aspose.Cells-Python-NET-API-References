@@ -21,6 +21,6 @@ def background_mode(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [BackgroundMode](/cells/python-net/tr/aspose.cells.charts/backgroundmode)
-* sınıf [Title](/cells/python-net/tr/aspose.cells.charts/title)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`BackgroundMode`](/cells/python-net/tr/aspose.cells.charts/backgroundmode)
+* sınıf [`Title`](/cells/python-net/tr/aspose.cells.charts/title)

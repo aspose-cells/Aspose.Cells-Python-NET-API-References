@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell mülk
 
-Hesaplanmakta olan Cell nesnesini alır.
+Hesaplanan Cell nesnesini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def cell(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CalculationCell](/cells/python-net/tr/aspose.cells/calculationcell)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`CalculationCell`](/cells/python-net/tr/aspose.cells/calculationcell)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

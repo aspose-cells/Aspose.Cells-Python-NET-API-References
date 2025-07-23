@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_data mülk
 
-Madde işaretinin görüntü verilerini alır ve ayarlar.
+Merminin görüntü verilerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [PictureBulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/picturebulletvalue)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`PictureBulletValue`](/cells/python-net/tr/aspose.cells.drawing.texts/picturebulletvalue)

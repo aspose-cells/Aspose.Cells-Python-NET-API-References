@@ -3,13 +3,13 @@ title: dpi mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 230
+weight: 250
 url: /tr/aspose.cells/cellshelper/dpi/
 is_root: false
 ---
 ##  dpi mülk
 
-Makinenin DPI'sını alır.
+Makinenin DPI değerini alır.
 
 ###  Notlar
 
@@ -19,8 +19,8 @@ Makinenin DPI'sını alır.
 @property
 def dpi(self):
     ...
-@dpi.setter
-def dpi(self, value):
+@staticmethod
+def set_dpi(value):
     ...
 ```
 

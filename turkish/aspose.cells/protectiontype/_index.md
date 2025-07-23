@@ -3,7 +3,7 @@ title: ProtectionType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2510
+weight: 2480
 url: /tr/aspose.cells/protectiontype/
 is_root: false
 ---
@@ -19,11 +19,11 @@ ProtectionType türü aşağıdaki üyeleri ortaya çıkarır:
 | :- | :- |
 | ALL | Herkesi korumayı temsil eder.|
 | CONTENTS | Çalışma Sayfası korumasında kullanılan içerikleri korumayı temsil eder.|
-| OBJECTS | Çalışma Sayfası korumasında kullanılan nesneleri korumayı temsil eder.|
-| SCENARIOS | Çalışma Sayfası korumasında kullanılan koruma senaryolarını temsil eder.|
+| OBJECTS | Nesneleri korumayı temsil eder, Çalışma Sayfası korumasında kullanılır.|
+| SCENARIOS | Çalışma Sayfası korumasında kullanılan senaryoları korumak için kullanılır.|
 | STRUCTURE | Çalışma Kitabı korumasında kullanılan yapıyı korumayı temsil eder.|
-| WINDOWS | Çalışma Kitabı korumasında kullanılan koruma penceresini temsil eder.|
-| NONE | Hiçbir korumayı temsil etmez. Yalnızca Reading mülkleri için.|
+| WINDOWS | Çalışma Kitabı korumasında kullanılan pencereyi korumayı temsil eder.|
+| NONE | Hiçbir koruma sağlamaz. Sadece Reading mülkü için geçerlidir.|
 
 
 

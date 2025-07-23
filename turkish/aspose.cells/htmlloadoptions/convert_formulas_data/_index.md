@@ -9,7 +9,14 @@ is_root: false
 ---
 ##  convert_formulas_data mülk
 
-true ise, dize değeri '=' karakteriyle başladığında dizeyi formüle dönüştürün, varsayılan değer yanlıştır.
+Eğer doğruysa, dize değeri '=' karakteriyle başladığında dizeyi formüle dönüştür, varsayılan değer false'tur.
+
+###  Notlar
+
+ NOT: Bu özellik artık geçerliliğini yitirmiştir.
+Bunun yerine HtmlLoadOptions.HasFormula özelliğini kullanın.
+ Bu özellik Mart 2023'ten itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +28,5 @@ def convert_formulas_data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlLoadOptions](/cells/python-net/tr/aspose.cells/htmlloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlLoadOptions`](/cells/python-net/tr/aspose.cells/htmlloadoptions)

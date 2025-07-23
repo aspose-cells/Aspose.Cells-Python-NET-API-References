@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  lighting_direction mülk
 
-Sahneye göre ışık teçhizatının yönlendirildiği yönü alır ve ayarlar.
+Sahneye göre ışık donanımının hangi yöne yönlendirileceğini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def lighting_direction(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LightRigDirectionType](/cells/python-net/tr/aspose.cells.drawing/lightrigdirectiontype)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LightRigDirectionType`](/cells/python-net/tr/aspose.cells.drawing/lightrigdirectiontype)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

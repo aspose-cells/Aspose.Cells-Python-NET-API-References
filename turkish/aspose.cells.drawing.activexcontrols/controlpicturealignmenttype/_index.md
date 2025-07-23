@@ -3,7 +3,7 @@ title: ControlPictureAlignmentType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 190
 url: /tr/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Resmin Form veya Görüntü içindeki hizalamasını temsil eder.
 
 
 
-ControlPictureAlignmentType türü aşağıdaki üyeleri gösterir:
+ControlPictureAlignmentType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | TOP_LEFT | Sol üst köşe.|
@@ -26,4 +26,4 @@ ControlPictureAlignmentType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
+* modül [`aspose.cells.drawing.activexcontrols`](..)

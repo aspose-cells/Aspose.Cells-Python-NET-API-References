@@ -21,5 +21,5 @@ def fore_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoFillFormat](/cells/python-net/tr/aspose.cells.drawing/msofillformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoFillFormat`](/cells/python-net/tr/aspose.cells.drawing/msofillformat)

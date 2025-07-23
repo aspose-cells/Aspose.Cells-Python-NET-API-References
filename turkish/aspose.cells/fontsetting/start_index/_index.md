@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start_index mülk
 
-Karakterlerin başlangıç dizinini alır.
+Karakterlerin başlangıç indeksini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def start_index(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FontSetting](/cells/python-net/tr/aspose.cells/fontsetting)
+* modül [`aspose.cells`](../../)
+* sınıf [`FontSetting`](/cells/python-net/tr/aspose.cells/fontsetting)

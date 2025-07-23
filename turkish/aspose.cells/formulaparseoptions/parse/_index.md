@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  parse mülk
 
-parse formülü verilmiş olsun. Varsayılan doğrudur.
-Yanlışsa, kullanıcı parse'e diğer yöntemleri çağırıncaya kadar verilen formül dizisi hücre için olduğu gibi tutulacaktır.
-veya ayrıştırılmış formül verileri, formüllerin hesaplanması gibi diğer işlemler için gereklidir.
+parse formülü verildi. Varsayılanı true'dur.
+Eğer yanlışsa, verilen formül dizesi kullanıcı diğer yöntemleri çağırana kadar hücre için olduğu gibi tutulacaktır.
+veya formül hesaplama gibi diğer işlemler için ayrıştırılmış formül verilerine ihtiyaç duyulur.
 ###  Tanım:
 ```python
 @property

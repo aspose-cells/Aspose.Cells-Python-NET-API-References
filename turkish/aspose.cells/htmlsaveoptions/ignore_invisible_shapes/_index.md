@@ -3,7 +3,7 @@ title: ignore_invisible_shapes mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 450
+weight: 520
 url: /tr/aspose.cells/htmlsaveoptions/ignore_invisible_shapes/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Görünmeyen şekillerin dışa aktarılıp aktarılmayacağını belirtin
 
 ###  Notlar
 
-Varsayılan değerler false'tur.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paper_height mülk
 
-Kağıdın yüksekliğini, sayfa yönlendirmesi olarak kabul edilen inç cinsinden alır.
+Sayfa yönü dikkate alınarak kağıdın yüksekliğini inç cinsinden alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def paper_height(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

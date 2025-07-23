@@ -7,8 +7,8 @@ weight: 50
 url: /tr/aspose.cells.drawing/shapepropertycollection/has_format_3d/
 is_root: false
 ---
-##  has_format_3d() {#}
-Şeklin 3B biçim verisine sahip olup olmadığını gösterir.
+##  has_format_3d(self) {#}
+Şeklin 3d format verisine sahip olup olmadığını belirtir.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def has_format_3d(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_format_3d(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapePropertyCollection](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapePropertyCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)

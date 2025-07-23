@@ -8,22 +8,22 @@ url: /tr/aspose.cells.charts/formattingtype/
 is_root: false
 ---
 ##  FormattingType numaralandırma
-[Area](/cells/python-net/tr/aspose.cells.drawing/area) nesnesine veya [Line](/cells/python-net/tr/aspose.cells.drawing/line) nesnesine uygulanan biçimlendirme türünü temsil eder.
+[`Area`](/cells/python-net/tr/aspose.cells.drawing/area) nesnesine veya [`Line`](/cells/python-net/tr/aspose.cells.drawing/line) nesnesine uygulanan biçimlendirme türünü temsil eder.
 
 
 
-FormattingType türü aşağıdaki üyeleri gösterir:
+FormattingType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | AUTOMATIC | Otomatik biçimlendirme türünü temsil eder.|
 | CUSTOM | Özel biçimlendirme türünü temsil eder.|
-| NONE | Yok biçimlendirme türünü temsil eder.|
+| NONE | Hiçbir biçimlendirme türünü temsil etmez.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
-* sınıf [Area](/cells/python-net/tr/aspose.cells.drawing/area)
-* sınıf [Line](/cells/python-net/tr/aspose.cells.drawing/line)
+* modül [`aspose.cells.charts`](..)
+* sınıf [`Area`](/cells/python-net/tr/aspose.cells.drawing/area)
+* sınıf [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)

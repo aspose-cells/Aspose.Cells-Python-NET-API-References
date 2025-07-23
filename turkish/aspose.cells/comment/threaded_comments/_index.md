@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  threaded_comments mülk
 
-Zincirlenmiş yorumların listesini alır;
+Konulu yorumların listesini alır;
 
 ###  Örnek
 

@@ -3,7 +3,7 @@ title: linked_cell mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 850
+weight: 870
 url: /tr/aspose.cells.drawing/picture/linked_cell/
 is_root: false
 ---

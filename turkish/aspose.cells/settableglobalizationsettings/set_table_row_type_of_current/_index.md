@@ -7,12 +7,13 @@ weight: 410
 url: /tr/aspose.cells/settableglobalizationsettings/set_table_row_type_of_current/
 is_root: false
 ---
-##  set_table_row_type_of_current {#str}
-Başvurulan tablodaki geçerli satırdan oluşan tablo satırlarının tür adını ayarlar.
+##  set_table_row_type_of_current(self, name) {#str}
+Başvurulan tablodaki geçerli satırı içeren tablo satırlarının tür adını ayarlar.
 
 
 
 ```python
+
 def set_table_row_type_of_current(self, name):
     ...
 ```

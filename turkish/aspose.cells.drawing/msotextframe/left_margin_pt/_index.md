@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_margin_pt mülk
 
-Sol kenar boşluğunu Puan birimi cinsinden verir
+Sol kenar boşluğunu Nokta biriminde döndürür
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_margin_pt(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoTextFrame](/cells/python-net/tr/aspose.cells.drawing/msotextframe)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoTextFrame`](/cells/python-net/tr/aspose.cells.drawing/msotextframe)

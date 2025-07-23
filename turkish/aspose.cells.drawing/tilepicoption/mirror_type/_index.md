@@ -21,6 +21,6 @@ def mirror_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MirrorType](/cells/python-net/tr/aspose.cells.drawing/mirrortype)
-* sınıf [TilePicOption](/cells/python-net/tr/aspose.cells.drawing/tilepicoption)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MirrorType`](/cells/python-net/tr/aspose.cells.drawing/mirrortype)
+* sınıf [`TilePicOption`](/cells/python-net/tr/aspose.cells.drawing/tilepicoption)

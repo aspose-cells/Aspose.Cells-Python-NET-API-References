@@ -3,13 +3,13 @@ title: language_code mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 140
+weight: 150
 url: /tr/aspose.cells/odsloadoptions/language_code/
 is_root: false
 ---
 ##  language_code mülk
 
-Dosyayı kaydeden CountryCode'a dayalı olarak Çalışma Kitabı sürümünün kullanıcı arabirimi dilini alır veya ayarlar.
+Dosyayı kaydeden CountryCode'a bağlı olarak Çalışma Kitabı sürümünün kullanıcı arayüzü dilini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CountryCode](/cells/python-net/tr/aspose.cells/countrycode)
-* sınıf [OdsLoadOptions](/cells/python-net/tr/aspose.cells/odsloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CountryCode`](/cells/python-net/tr/aspose.cells/countrycode)
+* sınıf [`OdsLoadOptions`](/cells/python-net/tr/aspose.cells/odsloadoptions)

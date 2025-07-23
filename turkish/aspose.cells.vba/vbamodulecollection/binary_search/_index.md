@@ -7,16 +7,17 @@ weight: 50
 url: /tr/aspose.cells.vba/vbamodulecollection/binary_search/
 is_root: false
 ---
-##  binary_search {#aspose.cells.vba.VbaModule}
-Varsayılan karşılaştırıcıyı kullanarak bir öğe için sıralanmış dizi listesinin tamamını arar ve öğenin sıfır tabanlı dizinini döndürür.
+##  binary_search(self, item) {#aspose.cells.vba.VbaModule}
+Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfırdan başlayan dizinini döndürür.
 
 
 ###  İadeler
 
-Öğe bulunursa, sıralanmış dizi listesindeki sıfır tabanlı değer dizini; aksi takdirde, değerden büyük olan bir sonraki öğenin indeksinin bit düzeyinde tamamlayıcısı olan negatif bir sayı veya daha büyük bir öğe yoksa Count dizi listesinin bit düzeyinde tamamlayıcısı.
+Sıralanmış dizi listesindeki değerin sıfırdan başlayan indeksi, eğer öğe bulunursa; aksi takdirde, değerden büyük olan bir sonraki öğenin indeksinin bitsel tamamlayıcısı olan negatif bir sayı veya daha büyük bir öğe yoksa dizi listesi Sayısının bitsel tamamlayıcısı.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,7 +25,7 @@ def binary_search(self, item):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item | [`VbaModule`](/cells/python-net/tr/aspose.cells.vba/vbamodule) | Bulunacak System.Object. Değer null olabilir.|
+| item | [`VbaModule`](/cells/python-net/tr/aspose.cells.vba/vbamodule) | Bulunacak System.Object. Değeri null olabilir.|
 
 
 

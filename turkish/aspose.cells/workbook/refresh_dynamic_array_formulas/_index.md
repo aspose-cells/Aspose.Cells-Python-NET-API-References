@@ -3,17 +3,18 @@ title: refresh_dynamic_array_formulas yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 290
 url: /tr/aspose.cells/workbook/refresh_dynamic_array_formulas/
 is_root: false
 ---
-##  refresh_dynamic_array_formulas {#bool}
-Dinamik dizi formüllerini yeniler (mevcut verilere göre yeni komşu hücre aralığına yayılır)
-Çalışma kitabındaki diğer formüller, dinamik dizi formülleri tarafından kullanılmış olsalar bile yinelemeli olarak hesaplanmayacaktır.
+##  refresh_dynamic_array_formulas(self, calculate) {#bool}
+Dinamik dizi formüllerini yeniler (geçerli verilere göre komşu hücrelerin yeni aralığına taşır)
+Çalışma kitabındaki diğer formüller, dinamik dizi formülleri tarafından kullanılsalar bile yinelemeli olarak hesaplanmayacaktır.
 
 
 
 ```python
+
 def refresh_dynamic_array_formulas(self, calculate):
     ...
 ```
@@ -21,15 +22,16 @@ def refresh_dynamic_array_formulas(self, calculate):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| calculate | bool | Bu dinamik dizi formülleri için hücre değerlerinin hesaplanıp güncellenmediği|
+| calculate | bool | Bu dinamik dizi formülleri için hücre değerlerini hesaplar ve günceller mi?|
 
 
-##  refresh_dynamic_array_formulas {#bool-aspose.cells.CalculationOptions}
-Dinamik dizi formüllerini yeniler (mevcut verilere göre yeni komşu hücre aralığına yayılır)
+##  refresh_dynamic_array_formulas(self, calculate, copts) {#bool-aspose.cells.CalculationOptions}
+Dinamik dizi formüllerini yeniler (geçerli verilere göre komşu hücrelerin yeni aralığına taşır)
 
 
 
 ```python
+
 def refresh_dynamic_array_formulas(self, calculate, copts):
     ...
 ```
@@ -37,21 +39,21 @@ def refresh_dynamic_array_formulas(self, calculate, copts):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| calculate | bool | Bu dinamik dizi formülleri için hücre değerlerinin hesaplanıp güncellenmediği|
+| calculate | bool | Bu dinamik dizi formülleri için hücre değerlerini hesaplar ve günceller mi?|
 | copts | [`CalculationOptions`](/cells/python-net/tr/aspose.cells/calculationoptions) | Formülleri hesaplama seçenekleri|
 ###  Notlar
 
-Performansı değerlendirmek amacıyla tüm dinamik dizi formüllerini otomatik olarak yenilemiyoruz
-formülün kendisi veya başvurduğu veriler değiştiğinde.
-Dolayısıyla kullanıcının dinamik dizi formüllerini etkileyebilecek işlemlerden sonra bu yöntemi manuel olarak çağırması gerekir.
-hücre değerlerini içe aktarma/ayarlama, satır/sütun/aralık ekleme/silme vb. gibi.
+Performans değerlendirmesi için tüm dinamik dizi formüllerini otomatik olarak yenilemiyoruz
+Formülün kendisi veya başvurduğu veriler değiştiğinde.
+Bu nedenle, kullanıcının dinamik dizi formüllerini etkileyebilecek işlemlerden sonra bu yöntemi manuel olarak çağırması gerekir.
+hücre değerlerini içe aktarmak/ayarlamak, satır/sütun/aralık eklemek/silmek, ...vb. gibi.
 
-Fonksiyonlara sahip çoğu formül için dökülme aralığının hesaplanması aynı zamanda formülün de hesaplanmasını gerektirir,
+Fonksiyonlu formüllerin çoğu için, dökülme aralığının hesaplanması aynı zamanda formülün hesaplanmasını da gerektirir.
 bu nedenle genel olarak "hesapla" bayrağı için gerçek değer tercih edilir.
-Formül, aralık başvurusu veya dizi gibi basitse (örneğin "=C1:E5", "={1,2;3,4}", ...),
-bir aralık veya dizideki basit işlev (örneğin "=ABS(C1:E5)", "=1+{1,2;3,4}", ...),
-ve tüm formüller daha sonra hesaplanacaktır ([`Workbook.calculate_formula`](/cells/python-net/tr/aspose.cells/workbook/calculate_formula) gibi),
-daha sonra "hesapla" bayrağı için yanlış değerin kullanılması, performans yararına yinelenen hesaplamayı önleyebilir.
+Formül basit ise, örneğin bir aralık başvurusu veya dizi ise (örneğin "=C1:E5", "={1,2;3,4}", ...),
+bir aralık veya dizi üzerinde basit bir fonksiyon (örneğin "=ABS(C1:E5)", "=1+{1,2;3,4}", ...),
+ve tüm formüller daha sonra hesaplanacaktır (örneğin [`Workbook.calculate_formula`](/cells/python-net/tr/aspose.cells/workbook/calculate_formula)),
+o zaman "hesapla" bayrağı için false değerini kullanmak, performans açısından tekrarlanan hesaplamanın önüne geçebilir.
 
 
 ###  Ayrıca bakınız

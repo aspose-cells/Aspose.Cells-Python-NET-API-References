@@ -7,13 +7,14 @@ weight: 30
 url: /tr/aspose.cells.charts/chartpoint/get_bottom_point_x_px/
 is_root: false
 ---
-##  get_bottom_point_x_px(index) {#int}
-Chart.Calculate() yöntemini çağırdıktan sonra şeklin alt noktasının x koordinatını alır.
-3B çizelgeleri uygular: Sütun3D, Bar3D, Koni, Silindir, Piramit
+##  get_bottom_point_x_px(self, index) {#int}
+Chart.Calculate() metodunu çağırdıktan sonra şeklin alt noktasının x koordinatını alır.
+3B grafikleri uygular: Sütun3B, Çubuk3B, Koni, Silindir, Piramit
 
 
 
 ```python
+
 def get_bottom_point_x_px(self, index):
     ...
 ```
@@ -26,5 +27,5 @@ def get_bottom_point_x_px(self, index):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartPoint](/cells/python-net/tr/aspose.cells.charts/chartpoint)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint)

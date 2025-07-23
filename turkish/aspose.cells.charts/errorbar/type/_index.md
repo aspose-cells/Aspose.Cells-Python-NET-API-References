@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-type hata çubuğu miktarını temsil eder.
+Hata çubuğu miktarı type'i temsil eder.
 
 ###  Örnek
 
@@ -37,6 +37,6 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ErrorBar](/cells/python-net/tr/aspose.cells.charts/errorbar)
-* sınıf [ErrorBarType](/cells/python-net/tr/aspose.cells.charts/errorbartype)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ErrorBar`](/cells/python-net/tr/aspose.cells.charts/errorbar)
+* sınıf [`ErrorBarType`](/cells/python-net/tr/aspose.cells.charts/errorbartype)

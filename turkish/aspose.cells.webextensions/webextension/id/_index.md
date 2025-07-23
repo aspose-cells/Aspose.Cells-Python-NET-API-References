@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id mülk
 
-Geçerli belgedeki Office Eklenti örneğini benzersiz şekilde tanımlayanı alır ve ayarlar.
+Geçerli belgedeki Office Eklentisi örneğini benzersiz şekilde tanımlar ve alır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtension](/cells/python-net/tr/aspose.cells.webextensions/webextension)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtension`](/cells/python-net/tr/aspose.cells.webextensions/webextension)

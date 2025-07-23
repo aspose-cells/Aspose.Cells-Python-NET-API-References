@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  min_color mülk
 
-Aralıktaki minimum değer için gradyan rengini alın veya ayarlayın.
+Aralıktaki minimum değer için degrade rengini alın veya ayarlayın.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def min_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ColorScale](/cells/python-net/tr/aspose.cells/colorscale)
+* modül [`aspose.cells`](../../)
+* sınıf [`ColorScale`](/cells/python-net/tr/aspose.cells/colorscale)

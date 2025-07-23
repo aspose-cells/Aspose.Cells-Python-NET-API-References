@@ -3,17 +3,17 @@ title: optimization_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 290
+weight: 340
 url: /tr/aspose.cells/pdfsaveoptions/optimization_type/
 is_root: false
 ---
 ##  optimization_type mülk
 
-Pdf optimizasyon türünü alır ve ayarlar.
+PDF optimizasyon türünü alır ve ayarlar.
 
 ###  Notlar
 
-Varsayılan değer [PdfOptimizationType.STANDARD](/cells/python-net/tr/aspose.cells.rendering/pdfoptimizationtype#STANDARD)'dir.
+Varsayılan değer [`PdfOptimizationType.STANDARD`](/cells/python-net/tr/aspose.cells.rendering/pdfoptimizationtype#STANDARD)'dir
 ###  Tanım:
 ```python
 @property
@@ -25,6 +25,6 @@ def optimization_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PdfOptimizationType](/cells/python-net/tr/aspose.cells.rendering/pdfoptimizationtype)
-* sınıf [PdfSaveOptions](/cells/python-net/tr/aspose.cells/pdfsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PdfOptimizationType`](/cells/python-net/tr/aspose.cells.rendering/pdfoptimizationtype)
+* sınıf [`PdfSaveOptions`](/cells/python-net/tr/aspose.cells/pdfsaveoptions)

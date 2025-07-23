@@ -7,7 +7,7 @@ weight: 40
 url: /tr/aspose.cells.settings/pivotglobalizationsettings/get_text_of_all/
 is_root: false
 ---
-##  get_text_of_all {#}
+##  get_text_of_all(self) {#}
 PivotTable'daki "(Tümü)" etiketinin metnini alır.
 
 
@@ -17,6 +17,7 @@ PivotTable'daki "(Tümü)" etiketinin metnini alır.
 
 
 ```python
+
 def get_text_of_all(self):
     ...
 ```

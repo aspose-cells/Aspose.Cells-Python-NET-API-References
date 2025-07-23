@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  picture_position mülk
 
-Kontrol resminin başlığına göre konumunu alır ve ayarlar.
+Kontrolün resminin başlığına göre konumunu alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def picture_position(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [CheckBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* sınıf [ControlPicturePositionType](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`CheckBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* sınıf [`ControlPicturePositionType`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)

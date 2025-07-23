@@ -3,7 +3,7 @@ title: prog_id mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1000
+weight: 1010
 url: /tr/aspose.cells.drawing/oleobject/prog_id/
 is_root: false
 ---

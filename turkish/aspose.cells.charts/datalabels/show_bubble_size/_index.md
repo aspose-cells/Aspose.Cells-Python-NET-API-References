@@ -3,13 +3,13 @@ title: show_bubble_size mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 380
+weight: 450
 url: /tr/aspose.cells.charts/datalabels/show_bubble_size/
 is_root: false
 ---
 ##  show_bubble_size mülk
 
-Belirtilen grafiğin veri etiketi yüzde değeri görüntüleme davranışını temsil eder. True yüzde değerini görüntüler. Saklanacak yanlış.
+Belirtilen bir grafiğin veri etiketi yüzde değeri görüntüleme davranışını temsil eder. True, yüzde değerini görüntüler. Gizlemek için False kullanılır.
 ###  Tanım:
 ```python
 @property

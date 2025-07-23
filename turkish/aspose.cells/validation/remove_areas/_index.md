@@ -7,12 +7,13 @@ weight: 110
 url: /tr/aspose.cells/validation/remove_areas/
 is_root: false
 ---
-##  remove_areas {#list}
-Bu doğrulamayı belirli alanlardan kaldırır.
+##  remove_areas(self, areas) {#list}
+Bu doğrulamayı belirtilen alanlardan kaldırır.
 
 
 
 ```python
+
 def remove_areas(self, areas):
     ...
 ```
@@ -20,7 +21,7 @@ def remove_areas(self, areas):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| areas | list | bu doğrulama ayarlarının kaldırılması gereken alanlar.|
+| areas | list | Bu doğrulama ayarlarının kaldırılması gereken alanlar.|
 
 
 

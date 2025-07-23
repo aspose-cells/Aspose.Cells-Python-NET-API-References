@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_margin_pt mülk
 
-Alt kenar boşluğunu Puan birimi cinsinden verir
+Alt kenar boşluğunu Puan biriminde döndürür
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def bottom_margin_pt(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [ShapeTextAlignment](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`ShapeTextAlignment`](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)

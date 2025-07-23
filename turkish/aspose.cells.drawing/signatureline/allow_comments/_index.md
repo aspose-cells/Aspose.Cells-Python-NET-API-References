@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_comments mülk
 
-Yorumların iliştirilip eklenemeyeceğini belirtir.
+Yorumların eklenip eklenemeyeceğini belirtir.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def allow_comments(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [SignatureLine](/cells/python-net/tr/aspose.cells.drawing/signatureline)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`SignatureLine`](/cells/python-net/tr/aspose.cells.drawing/signatureline)

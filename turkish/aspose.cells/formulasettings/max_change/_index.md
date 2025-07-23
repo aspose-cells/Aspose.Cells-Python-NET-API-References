@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_change mülk
 
-Döngüsel bir referansı çözmek için maksimum değişiklik.
+Dairesel bir referansı çözmek için gereken maksimum değişiklik.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_change(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormulaSettings](/cells/python-net/tr/aspose.cells/formulasettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormulaSettings`](/cells/python-net/tr/aspose.cells/formulasettings)

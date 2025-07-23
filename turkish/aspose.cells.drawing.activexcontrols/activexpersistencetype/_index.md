@@ -3,26 +3,26 @@ title: ActiveXPersistenceType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 130
 url: /tr/aspose.cells.drawing.activexcontrols/activexpersistencetype/
 is_root: false
 ---
 ##  ActiveXPersistenceType numaralandırma
-Bir ActiveX denetimini sürdürmek için kalıcılık yöntemini temsil eder.
+Bir ActiveX denetimini kalıcı hale getirmek için kullanılan kalıcılık yöntemini temsil eder.
 
 
 
-ActiveXPersistenceType türü aşağıdaki üyeleri gösterir:
+ActiveXPersistenceType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | PROPERTY_BAG | Veriler xml verisi olarak saklanır.|
-| STORAGE | Veriler, bir depolama ikili verisi olarak depolanır.|
-| STREAM | Veriler, bir akış ikili verisi olarak depolanır.|
-| STREAM_INIT | Veriler, bir streaminit ikili verisi olarak depolanır.|
+| STORAGE | Veriler depolama ikili verisi olarak saklanır.|
+| STREAM | Veriler ikili veri akışı olarak saklanır.|
+| STREAM_INIT | Veriler streaminit ikili verisi olarak saklanır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
+* modül [`aspose.cells.drawing.activexcontrols`](..)

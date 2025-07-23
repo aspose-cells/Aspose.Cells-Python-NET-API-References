@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border mülk
 
-Series nesnesinin border'ini temsil eder.
+Seri nesnesinin border'ini temsil eder.
 ###  Tanım:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_argb_color mülk
 
-Ön plan rengini 32 bit ARGB değeriyle alır ve ayarlar.
+Ön plan rengini 32-bit ARGB değeriyle alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def foreground_argb_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

@@ -10,11 +10,11 @@ is_root: false
 ##  gradient_degree mülk
 
 Belirtilen dolgu için gradyan derecesini döndürür.
-Yalnızca Excel 2007 için geçerlidir.
+Sadece Excel 2007 için geçerlidir.
 
 ###  Notlar
 
-Yalnızca 0,0 (koyu) ila 1,0 (açık) arasında bir değer olabilir.
+Sadece 0.0 (koyu) ile 1.0 (açık) arasında bir değer olabilir.
 ###  Tanım:
 ```python
 @property
@@ -23,5 +23,5 @@ def gradient_degree(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [FillFormat](/cells/python-net/tr/aspose.cells.drawing/fillformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`FillFormat`](/cells/python-net/tr/aspose.cells.drawing/fillformat)

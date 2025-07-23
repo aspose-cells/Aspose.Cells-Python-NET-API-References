@@ -3,13 +3,13 @@ title: is_dynamic_data_exchange mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 620
+weight: 640
 url: /tr/aspose.cells.drawing/picture/is_dynamic_data_exchange/
 is_root: false
 ---
 ##  is_dynamic_data_exchange mülk
 
-Dinamik veri alışverişinin olup olmayacağını alır veya ayarlar
+Dinamik veri değişiminin yapılıp yapılmayacağını alır veya ayarlar
 ###  Tanım:
 ```python
 @property

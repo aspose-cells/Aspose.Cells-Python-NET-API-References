@@ -8,7 +8,7 @@ url: /tr/aspose.cells.rendering/commenttitletype/
 is_root: false
 ---
 ##  CommentTitleType numaralandırma
-Yorum sayfanın sonunda görüntülenecek şekilde ayarlandığında, oluşturma sırasında yorum başlık türünü temsil eder.
+Yorumun sayfanın sonunda görüntülenmesi ayarlandığında, oluşturma sırasında yorum başlığı türünü temsil eder.
 
 
 
@@ -17,10 +17,10 @@ CommentTitleType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| CELL | Yorum başlık hücresini temsil eder.|
-| COMMENT | Yorum başlığı yorumunu temsil eder.|
+| CELL | Yorum başlığı hücresini temsil eder.|
+| COMMENT | Yorum başlığını temsil eder.|
 | NOTE | Yorum başlığı notunu temsil eder.|
-| REPLY | Yorum başlığı yanıtını temsil eder.|
+| REPLY | Yorum başlığını yanıt olarak temsil eder.|
 
 
 

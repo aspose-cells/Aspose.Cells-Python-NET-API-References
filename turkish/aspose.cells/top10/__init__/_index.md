@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/top10/__init__/
 is_root: false
 ---
-##  Top10() {#}
+##  \_\_init\_\_(kendi){#}
 Top10'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Top10](/cells/python-net/tr/aspose.cells/top10)
+* modül [`aspose.cells`](../../)
+* sınıf [`Top10`](/cells/python-net/tr/aspose.cells/top10)

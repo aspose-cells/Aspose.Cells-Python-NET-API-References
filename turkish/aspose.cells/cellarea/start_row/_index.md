@@ -10,7 +10,11 @@ is_root: false
 ##  start_row mülk
 
 Bu alanın başlangıç satırını alır veya ayarlar.
+###  Tanım:
+```python
+f start_row 
+```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellArea](/cells/python-net/tr/aspose.cells/cellarea)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea)

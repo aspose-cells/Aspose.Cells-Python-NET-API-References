@@ -18,5 +18,5 @@ def error_object(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WarningInfo](/cells/python-net/tr/aspose.cells/warninginfo)
+* modül [`aspose.cells`](../../)
+* sınıf [`WarningInfo`](/cells/python-net/tr/aspose.cells/warninginfo)

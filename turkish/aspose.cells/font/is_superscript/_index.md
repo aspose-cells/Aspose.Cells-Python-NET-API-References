@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_superscript mülk
 
-Yazı tipinin süper betik olup olmadığını gösteren bir değer alır veya ayarlar.
+Yazı tipinin üst simge olup olmadığını belirten bir değer alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_superscript(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)

@@ -8,20 +8,23 @@ url: /tr/aspose.cells.querytables/powerqueryformula/
 is_root: false
 ---
 ##  PowerQueryFormula sınıfı
-Güçlü sorgu formülünün tanımını temsil eder.
+Güç sorgusu formülünün tanımını temsil eder.
 
 
 
-PowerQueryFormula türü aşağıdaki üyeleri gösterir:
+PowerQueryFormula türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [formula_definition](/cells/python-net/tr/aspose.cells.querytables/powerqueryformula/formula_definition) | Güçlü sorgu formülünün tanımını alır.|
-| [name](/cells/python-net/tr/aspose.cells.querytables/powerqueryformula/name) | Güçlü sorgu formülünün adını alır ve ayarlar.|
-| [power_query_formula_items](/cells/python-net/tr/aspose.cells.querytables/powerqueryformula/power_query_formula_items) | Güç sorgu formülünün tüm öğelerini alır.|
+| [type](/cells/python-net/tr/aspose.cells.querytables/powerqueryformula/type) | Bu güç sorgusu formülünün türünü alır.|
+| [group_name](/cells/python-net/tr/aspose.cells.querytables/powerqueryformula/group_name) | Bu güç sorgusu formülünü içeren grubun adını alır.|
+| [formula_definition](/cells/python-net/tr/aspose.cells.querytables/powerqueryformula/formula_definition) | Güç sorgusu formülünün tanımını alır.|
+| [name](/cells/python-net/tr/aspose.cells.querytables/powerqueryformula/name) | Güç sorgusu formülünün adını alır ve ayarlar.|
+| [description](/cells/python-net/tr/aspose.cells.querytables/powerqueryformula/description) |Güç sorgusu formülünün açıklamasını alır ve ayarlar.|
+| [power_query_formula_items](/cells/python-net/tr/aspose.cells.querytables/powerqueryformula/power_query_formula_items) | Güç sorgusu formülünün tüm öğelerini alır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.querytables](..)
+* modül [`aspose.cells.querytables`](..)

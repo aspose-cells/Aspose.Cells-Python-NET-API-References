@@ -9,10 +9,11 @@ is_root: false
 ---
 ##  refer_to_sheet_with_same_name mülk
 
-Bir çalışma sayfasını başka bir çalışma kitabına kopyalarken ve çalışma sayfası MS Excel'deki diğer çalışma sayfalarına atıfta bulunan formülleri içeriyorsa,
-kopyalanan formüller kaynak çalışma kitabına başvurmalıdır.
-Ancak bazen başka çalışma sayfalarını kopyaladık ve kopyalanan formüllerin aynı çalışma kitabındaki diğer çalışma sayfalarına atıfta bulunduğunu umuyoruz.
-lütfen bu özelliği true olarak ayarlayın.
+Ms Excel'de, bir çalışma sayfasını diğerine kopyalarken diğer çalışma sayfalarına atıfta bulunan formülleri kopyalarken,
+Kopyalanan formüller kaynak çalışma kitabına atıfta bulunmalıdır.
+Ancak bazı durumlarda kullanıcının kopyalanan formüllerin aynı adı taşıyan çalışma sayfalarına atıfta bulunması gerekebilir
+aynı çalışma kitabında, örneğin bu kopyalama işleminden önce bu çalışma sayfaları kopyalandığında,
+o zaman bu özellik true olarak tutulmalıdır.
 
 ###  Notlar
 
@@ -28,5 +29,5 @@ def refer_to_sheet_with_same_name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CopyOptions](/cells/python-net/tr/aspose.cells/copyoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CopyOptions`](/cells/python-net/tr/aspose.cells/copyoptions)

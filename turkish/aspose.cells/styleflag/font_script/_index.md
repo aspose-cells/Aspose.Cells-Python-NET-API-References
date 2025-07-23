@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_script mülk
 
-Yazı tipi komut dosyası ayarı uygulanacaktır.
+Yazı tipi betiği ayarı uygulanacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_script(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag)
+* modül [`aspose.cells`](../../)
+* sınıf [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag)

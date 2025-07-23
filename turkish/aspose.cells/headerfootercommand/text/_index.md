@@ -13,7 +13,7 @@ Komutun text'ini alır.
 
 ###  Notlar
 
-Yalnızca HeaderFooterCommandType.Text için geçerlidir.
+Sadece HeaderFooterCommandType.Text için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def text(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HeaderFooterCommand](/cells/python-net/tr/aspose.cells/headerfootercommand)
+* modül [`aspose.cells`](../../)
+* sınıf [`HeaderFooterCommand`](/cells/python-net/tr/aspose.cells/headerfootercommand)

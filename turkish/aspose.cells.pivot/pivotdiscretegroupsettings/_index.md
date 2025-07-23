@@ -3,12 +3,12 @@ title: PivotDiscreteGroupSettings sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 90
 url: /tr/aspose.cells.pivot/pivotdiscretegroupsettings/
 is_root: false
 ---
 ##  PivotDiscreteGroupSettings sınıfı
-Ayrık pivot alanı grubunu temsil eder
+Pivot alanının ayrık grubunu temsil eder
 
 
 

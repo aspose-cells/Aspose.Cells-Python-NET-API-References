@@ -3,16 +3,17 @@ title: remove_duplicates yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 800
+weight: 820
 url: /tr/aspose.cells/cells/remove_duplicates/
 is_root: false
 ---
-##  remove_duplicates {#}
+##  remove_duplicates(self) {#}
 Sayfadaki yinelenen satırları kaldırır.
 
 
 
 ```python
+
 def remove_duplicates(self):
     ...
 ```
@@ -20,12 +21,13 @@ def remove_duplicates(self):
 
 
 
-##  remove_duplicates {#int-int-int-int}
+##  remove_duplicates(self, start_row, start_column, end_row, end_column) {#int-int-int-int}
 Aralıktaki yinelenen değerleri kaldırır.
 
 
 
 ```python
+
 def remove_duplicates(self, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -33,18 +35,19 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| start_row | int | Başlangıç satırı.|
-| start_column | int | Başlangıç sütunu|
+| start_row | int | Başlangıç sırası.|
+| start_column | int |Başlangıç sütunu|
 | end_row | int | Son satır dizini.|
-| end_column | int | Son sütun dizini.|
+| end_column | int | Son sütun indeksi.|
 
 
-##  remove_duplicates {#int-int-int-int-bool-list}
+##  remove_duplicates(self, start_row, start_column, end_row, end_column, has_headers, column_offsets) {#int-int-int-int-bool-list}
 Aralığın yinelenen verilerini kaldırır.
 
 
 
 ```python
+
 def remove_duplicates(self, start_row, start_column, end_row, end_column, has_headers, column_offsets):
     ...
 ```
@@ -52,12 +55,12 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column, has_he
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| start_row | int | Başlangıç satırı.|
-| start_column | int | Başlangıç sütunu|
+| start_row | int | Başlangıç sırası.|
+| start_column | int |Başlangıç sütunu|
 | end_row | int | Son satır dizini.|
-| end_column | int | Son sütun dizini.|
-| has_headers | bool | Aralığın üstbilgi içerip içermediğini gösterir.|
-| column_offsets | list | Sütun ofsetlenir.|
+| end_column | int | Son sütun indeksi.|
+| has_headers | bool | Aralığın başlık içerip içermediğini belirtir.|
+| column_offsets | list | Sütun ofsetleri.|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_first_point mülk
 
-Mini grafik grubundaki verilerin ilk noktasının vurgulanıp vurgulanmayacağını belirtir.
+Kıvılcım çizelgesi grubundaki ilk veri noktasının vurgulanıp vurgulanmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_first_point(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.digitalsignatures/digitalsignaturecollection/add/
 is_root: false
 ---
-##  add(digital_signature) {#DigitalSignature}
+##  add(self, digital_signature) {#aspose.cells.digitalsignatures.DigitalSignature}
 DigitalSignatureCollection'a bir imza ekleyin.
 
 
 
 ```python
+
 def add(self, digital_signature):
     ...
 ```
@@ -20,10 +21,10 @@ def add(self, digital_signature):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| digital_signature | [DigitalSignature](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignature) | Koleksiyonda dijital imza.|
+| digital_signature | [`DigitalSignature`](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignature) | Koleksiyonda dijital imza.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.digitalsignatures](../../)
-* sınıf [DigitalSignatureCollection](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignaturecollection)
+* modül [`aspose.cells.digitalsignatures`](../../)
+* sınıf [`DigitalSignatureCollection`](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignaturecollection)

@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells.drawing/shapeguidecollection/__init__/
 is_root: false
 ---
-##  ShapeGuideCollection() {#}
+##  \_\_init\_\_(kendi){#}
 ShapeGuideCollection'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapeGuideCollection](/cells/python-net/tr/aspose.cells.drawing/shapeguidecollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapeGuideCollection`](/cells/python-net/tr/aspose.cells.drawing/shapeguidecollection)

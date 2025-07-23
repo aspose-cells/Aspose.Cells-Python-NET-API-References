@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells/protection/get_password_hash/
 is_root: false
 ---
-##  get_password_hash() {#}
-Geçerli parolanın karmasını alır.
+##  get_password_hash(self) {#}
+Mevcut şifrenin özetini alır.
 
 
 
 ```python
+
 def get_password_hash(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_password_hash(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

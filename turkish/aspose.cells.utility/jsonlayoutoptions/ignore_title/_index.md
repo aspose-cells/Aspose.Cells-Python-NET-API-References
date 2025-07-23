@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ignore_title mülk
 
-Özniteliklerin başlıklarını alır
+Ingores öznitelik başlıkları
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def ignore_title(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.utility](../../)
-* sınıf [JsonLayoutOptions](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions)
+* modül [`aspose.cells.utility`](../../)
+* sınıf [`JsonLayoutOptions`](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions)

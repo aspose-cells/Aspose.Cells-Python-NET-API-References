@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_color_set_type mülk
 
-İşaretçi arka plan rengi kümesi türünü alır veya ayarlar.
+İşaretleyici arka plan rengi kümesi türünü alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_color_set_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [FormattingType](/cells/python-net/tr/aspose.cells.charts/formattingtype)
-* sınıf [Marker](/cells/python-net/tr/aspose.cells.charts/marker)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`FormattingType`](/cells/python-net/tr/aspose.cells.charts/formattingtype)
+* sınıf [`Marker`](/cells/python-net/tr/aspose.cells.charts/marker)

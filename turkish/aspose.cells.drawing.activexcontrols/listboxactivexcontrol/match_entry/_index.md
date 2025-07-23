@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  match_entry mülk
 
-Kullanıcı yazarken bir ListBox veya ComboBox'un kendi listesinde nasıl arama yaptığını gösterir.
+Kullanıcı yazarken bir ListBox veya ComboBox'ın listesini nasıl aradığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def match_entry(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ControlMatchEntryType](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlmatchentrytype)
-* sınıf [ListBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ControlMatchEntryType`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlmatchentrytype)
+* sınıf [`ListBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

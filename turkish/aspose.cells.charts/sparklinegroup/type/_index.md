@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-Mini grafik grubunun type mini grafiğini gösterir.
+Sparkline grubunun type kıvılcım çizgisini gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
-* sınıf [SparklineType](/cells/python-net/tr/aspose.cells.charts/sparklinetype)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* sınıf [`SparklineType`](/cells/python-net/tr/aspose.cells.charts/sparklinetype)

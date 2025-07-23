@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_number_format mülk
 
-Onay etiketlerinin görüntülenme numarası biçimini alır ve ayarlar.
+Tik etiketlerinin görüntülenme sayısı biçimini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

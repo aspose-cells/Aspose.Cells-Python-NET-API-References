@@ -3,7 +3,7 @@ title: text_orientation_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /tr/aspose.cells.drawing/radiobutton/text_orientation_type/
 is_root: false
 ---

@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/individualfontconfigs/__init__/
 is_root: false
 ---
-##  IndividualFontConfigs() {#}
-Ctor.
+##  \_\_init\_\_(kendi){#}
+Kondüktör.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [IndividualFontConfigs](/cells/python-net/tr/aspose.cells/individualfontconfigs)
+* modül [`aspose.cells`](../../)
+* sınıf [`IndividualFontConfigs`](/cells/python-net/tr/aspose.cells/individualfontconfigs)

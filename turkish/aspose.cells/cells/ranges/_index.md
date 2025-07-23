@@ -3,7 +3,7 @@ title: ranges mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1220
+weight: 1250
 url: /tr/aspose.cells/cells/ranges/
 is_root: false
 ---

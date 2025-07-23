@@ -3,13 +3,13 @@ title: code_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 430
+weight: 450
 url: /tr/aspose.cells/worksheet/code_name/
 is_root: false
 ---
 ##  code_name mülk
 
-Çalışma sayfası kod adını alır.
+Çalışma sayfasının kod adını alır.
 ###  Tanım:
 ```python
 @property

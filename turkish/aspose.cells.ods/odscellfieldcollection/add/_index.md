@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells.ods/odscellfieldcollection/add/
 is_root: false
 ---
-##  add(row, column, field_type, format) {#int-int-OdsCellFieldType-str}
+##  add(self, row, column, field_type, format) {#int-int-aspose.cells.ods.OdsCellFieldType-str}
 Bir alan ekler.
 
 
@@ -17,6 +17,7 @@ Bir alan ekler.
 
 
 ```python
+
 def add(self, row, column, field_type, format):
     ...
 ```
@@ -26,11 +27,11 @@ def add(self, row, column, field_type, format):
 | :- | :- | :- |
 | row | int | Satır dizini.|
 | column | int | Sütun dizini.|
-| field_type | [OdsCellFieldType](/cells/python-net/tr/aspose.cells.ods/odscellfieldtype) | Alanın türü.|
+| field_type | [`OdsCellFieldType`](/cells/python-net/tr/aspose.cells.ods/odscellfieldtype) | Alanın türü.|
 | format | str | Alanın sayı biçimi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](../../)
-* sınıf [OdsCellFieldCollection](/cells/python-net/tr/aspose.cells.ods/odscellfieldcollection)
+* modül [`aspose.cells.ods`](../../)
+* sınıf [`OdsCellFieldCollection`](/cells/python-net/tr/aspose.cells.ods/odscellfieldcollection)

@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  end_arrowhead_style mülk
 
-Çizginin bitiş ok başı stilini alır ve ayarlar.
+Satırın son ok ucu stilini alır ve ayarlar.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen Shape.Line.EndArrowheadStyle özelliğini kullanın.
- Bu mülk, Ağustos 2016'dan bu yana 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen Shape.Line.EndArrowheadStyle özelliğini kullanın.
+ Bu özellik Ağustos 2016'dan itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

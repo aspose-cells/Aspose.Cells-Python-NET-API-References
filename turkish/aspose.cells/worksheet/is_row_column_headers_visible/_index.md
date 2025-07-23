@@ -3,14 +3,14 @@ title: is_row_column_headers_visible mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 600
+weight: 630
 url: /tr/aspose.cells/worksheet/is_row_column_headers_visible/
 is_root: false
 ---
 ##  is_row_column_headers_visible mülk
 
 Çalışma sayfasının satır ve sütun başlıklarını görüntüleyip görüntülemeyeceğini belirten bir değer alır veya ayarlar.
-Varsayılan doğrudur.
+Varsayılan değer doğrudur.
 ###  Tanım:
 ```python
 @property

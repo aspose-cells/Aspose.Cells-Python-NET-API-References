@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_columns mülk
 
-Yalnızca görünür sütunları dışa aktarır.
+Sadece görünen sütunları dışa aktarır.
 ###  Tanım:
 ```python
 @property

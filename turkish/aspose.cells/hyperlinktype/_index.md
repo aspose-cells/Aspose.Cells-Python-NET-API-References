@@ -3,12 +3,12 @@ title: HyperlinkType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2260
+weight: 2220
 url: /tr/aspose.cells/hyperlinktype/
 is_root: false
 ---
 ##  HyperlinkType numaralandırma
-Köprünün türünü temsil eder.
+Köprü metninin türünü temsil eder.
 
 
 
@@ -20,7 +20,7 @@ HyperlinkType türü aşağıdaki üyeleri ortaya çıkarır:
 | URL | URL |
 | FILE | Harici dosyaya bağlantı.|
 | CELL | Çalışma kitabının hücresini bağlayın.|
-| UNKNOWN | Bilinmeyen tür.|
+| UNKNOWN | Bilinmeyen tip.|
 
 
 

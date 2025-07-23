@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells/worksheet/auto_fit_column/
 is_root: false
 ---
-##  auto_fit_column(column_index) {#int}
-Sütun genişliğini otomatik sığdırır.
+##  auto_fit_column(self, column_index) {#int}
+Sütun genişliğini otomatik olarak ayarlar.
 
 
 
 ```python
+
 def auto_fit_column(self, column_index):
     ...
 ```
@@ -23,15 +24,16 @@ def auto_fit_column(self, column_index):
 | column_index | int | Sütun dizini.|
 ###  Notlar
 
-AutoFitColumn kesin olmayan bir işlevdir.
+AutoFitColumn kesin olmayan bir fonksiyondur.
 
-##  auto_fit_column(column_index, first_row, last_row) {#int-int-int}
+##  auto_fit_column(self, column_index, first_row, last_row) {#int-int-int}
 
-Sütun genişliğini otomatik sığdırır.
+Sütun genişliğini otomatik olarak ayarlar.
 
 
 
 ```python
+
 def auto_fit_column(self, column_index, first_row, last_row):
     ...
 ```
@@ -40,14 +42,14 @@ def auto_fit_column(self, column_index, first_row, last_row):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | column_index | int | Sütun dizini.|
-| first_row | int | İlk satır dizini.|
+| first_row | int | Birinci satır dizini.|
 | last_row | int | Son satır dizini.|
 ###  Notlar
 
-Bu yöntem, satır içindeki bir hücre aralığındaki içeriğe göre bir satırı otomatik olarak sığdırır.
+Bu yöntem, satırın içindeki hücre aralığındaki içeriğe göre satırı otomatik olarak sığdırır.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

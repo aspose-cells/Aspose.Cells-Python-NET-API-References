@@ -3,18 +3,18 @@ title: AutoShapeType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 760
+weight: 750
 url: /tr/aspose.cells.drawing/autoshapetype/
 is_root: false
 ---
 ##  AutoShapeType numaralandırma
-Tüm yerleşik otomatik şekil türünü temsil eder.
+Tüm yerleşik otomatik şekil türlerini temsil eder.
 
 
 
-AutoShapeType türü aşağıdaki üyeleri gösterir:
+AutoShapeType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NOT_PRIMITIVE |  |
@@ -116,7 +116,7 @@ AutoShapeType türü aşağıdaki üyeleri gösterir:
 | VERTICAL_SCROLL |  |
 | HORIZONTAL_SCROLL |  |
 | CIRCULAR_ARROW |  |
-| NOTCHED_CIRCULAR_ARROW | KULLANILMAMASI GEREKEN bir değer.|
+| NOTCHED_CIRCULAR_ARROW | Kullanılmaması gereken bir değer.|
 | U_TURN_ARROW |  |
 | CURVED_RIGHT_ARROW |  |
 | CURVED_LEFT_ARROW |  |
@@ -153,45 +153,45 @@ AutoShapeType türü aşağıdaki üyeleri gösterir:
 | FLOW_CHART_DISPLAY |  |
 | FLOW_CHART_DELAY |  |
 | TEXT_PLAIN_TEXT | Düz metin şekli.|
-| TEXT_STOP | Sekizgen bir metin şekli.|
-| TEXT_TRIANGLE | Yukarıyı gösteren üçgen bir metin şekli.|
-| TEXT_TRIANGLE_INVERTED | Aşağıyı gösteren üçgen bir metin şekli.|
-| TEXT_CHEVRON | Yukarıyı gösteren bir şerit metin şekli.|
-| TEXT_CHEVRON_INVERTED | Aşağıyı gösteren bir şerit metin şekli.|
-| TEXT_RING_INSIDE |Dairesel bir metin şekli, sanki bir yüzüğün içindeki yazıyı okuyormuş gibi.|
-| TEXT_RING_OUTSIDE | Dairesel bir metin şekli, sanki bir halkanın dışında bir yazı okuyormuş gibi.|
-| TEXT_ARCH_UP_CURVE | Yukarı doğru kavisli, kavisli bir metin şekli.|
-| TEXT_ARCH_DOWN_CURVE | Aşağıya doğru kavisli bir metin şekli.|
-| TEXT_CIRCLE_CURVE | Dairesel bir metin şekli.|
+| TEXT_STOP | Sekizgen bir yazı şekli.|
+| TEXT_TRIANGLE | Yukarıya doğru bakan üçgen bir metin şekli.|
+| TEXT_TRIANGLE_INVERTED | Aşağıya doğru bakan üçgen bir metin şekli.|
+| TEXT_CHEVRON | Yukarıyı gösteren bir şeritli metin şekli.|
+| TEXT_CHEVRON_INVERTED | Aşağıya doğru bakan bir şeritli metin şekli.|
+| TEXT_RING_INSIDE | Bir yüzüğün iç kısmındaki yazıyı okuyormuş gibi dairesel bir yazı şekli.|
+| TEXT_RING_OUTSIDE | Bir yüzüğün dış yüzeyindeki yazıyı okuyormuş gibi dairesel bir yazı şekli.|
+| TEXT_ARCH_UP_CURVE | Yukarı doğru kavisli bir yazı şekli.|
+| TEXT_ARCH_DOWN_CURVE | Aşağı doğru kavisli, eğimli bir yazı şekli.|
+| TEXT_CIRCLE_CURVE |Dairesel bir yazı şekli.|
 | TEXT_BUTTON_CURVE | Düğmeye benzeyen bir metin şekli.|
-| TEXT_ARCH_UP_POUR | Yukarı doğru kavisli bir metin şekli.|
-| TEXT_ARCH_DOWN_POUR | Aşağı doğru kavisli bir metin şekli.|
-| TEXT_CIRCLE_POUR | Dairesel bir metin şekli.|
+| TEXT_ARCH_UP_POUR | Yukarı doğru kavisli bir yazı şekli.|
+| TEXT_ARCH_DOWN_POUR | Aşağı doğru kavisli bir yazı şekli.|
+| TEXT_CIRCLE_POUR |Dairesel bir yazı şekli.|
 | TEXT_BUTTON_POUR | Düğmeye benzeyen bir metin şekli.|
-| TEXT_CURVE_UP | Yukarı doğru kıvrılan bir metin şekli.|
-| TEXT_CURVE_DOWN | Aşağı doğru kıvrılan bir metin şekli.|
-| TEXT_CASCADE_UP | Basamaklı bir metin şekli yukarıyı işaret etti.|
-| TEXT_CASCADE_DOWN | Basamaklı bir metin şekli aşağı doğru işaret etti.|
-| TEXT_WAVE1 | Dalgalı bir metin şekli.|
-| TEXT_WAVE2 | Dalgalı bir metin şekli.|
-| TEXT_DOUBLE_WAVE1 | Dalgalı bir metin şekli.|
-| TEXT_DOUBLE_WAVE2 | Dalgalı bir metin şekli.|
+| TEXT_CURVE_UP | Yukarı doğru kıvrılan bir yazı şekli.|
+| TEXT_CURVE_DOWN | Aşağı doğru kıvrılan bir yazı şekli.|
+| TEXT_CASCADE_UP | Yukarıya doğru uzanan basamaklı bir yazı şekli.|
+| TEXT_CASCADE_DOWN | Aşağıya doğru uzanan basamaklı bir metin şekli.|
+| TEXT_WAVE1 | Dalgalı bir yazı şekli.|
+| TEXT_WAVE2 | Dalgalı bir yazı şekli.|
+| TEXT_DOUBLE_WAVE1 | Dalgalı bir yazı şekli.|
+| TEXT_DOUBLE_WAVE2 | Dalgalı bir yazı şekli.|
 | TEXT_INFLATE | Ortada dikey olarak genişleyen bir metin şekli.|
-| TEXT_DEFLATE | Ortada dikey olarak daralan bir metin şekli.|
-| TEXT_INFLATE_BOTTOM | Ortada aşağı doğru genişleyen bir metin şekli.|
-| TEXT_DEFLATE_BOTTOM | Ortada yukarı doğru daralan bir metin şekli.|
-| TEXT_INFLATE_TOP | Ortada yukarı doğru genişleyen bir metin şekli.|
-| TEXT_DEFLATE_TOP | Ortada aşağı doğru daralan bir metin şekli.|
-| TEXT_DEFLATE_INFLATE |Alt satırların yukarı doğru genişlediği bir metin şekli. Üst çizgiler telafi etmek için küçülür.|
-| TEXT_DEFLATE_INFLATE_DEFLATE | Ortadaki çizgilerin dikey olarak genişlediği bir metin şekli. Üst ve alt çizgiler telafi etmek için küçülür.|
-| TEXT_FADE_RIGHT | Sağ tarafta dikey olarak daralan bir metin şekli.|
+| TEXT_DEFLATE | Ortadan dikey olarak küçülen bir metin şekli.|
+| TEXT_INFLATE_BOTTOM | Ortada aşağıya doğru genişleyen bir metin şekli.|
+| TEXT_DEFLATE_BOTTOM | Ortadan yukarıya doğru küçülen bir metin şekli.|
+| TEXT_INFLATE_TOP | Ortada yukarıya doğru genişleyen bir metin şekli.|
+| TEXT_DEFLATE_TOP | Ortadan aşağıya doğru küçülen bir metin şekli.|
+| TEXT_DEFLATE_INFLATE | Alt satırların yukarıya doğru genişlediği, üst satırların ise bunu telafi etmek için daraldığı bir metin şekli.|
+| TEXT_DEFLATE_INFLATE_DEFLATE | Ortadaki çizgilerin dikey olarak genişlediği bir metin şekli. Üst ve alt çizgiler bunu telafi etmek için daralır.|
+| TEXT_FADE_RIGHT | Sağ tarafta dikey olarak küçülen bir metin şekli.|
 | TEXT_FADE_LEFT | Sol tarafta dikey olarak küçülen bir metin şekli.|
-| TEXT_FADE_UP | Üstte yatay olarak daralan bir metin şekli.|
+| TEXT_FADE_UP |Üstte yatay olarak küçülen bir metin şekli.|
 | TEXT_FADE_DOWN | Altta yatay olarak küçülen bir metin şekli.|
-| TEXT_SLANT_UP | Yukarı eğimli bir metin şekli.|
-| TEXT_SLANT_DOWN | Aşağıya eğimli bir metin şekli.|
-| TEXT_CAN_UP | Bir kutunun yanında okunuyormuş gibi yukarı doğru kıvrılan bir metin şekli.|
-| TEXT_CAN_DOWN | Bir kutunun yanında okunuyormuş gibi aşağı doğru kıvrılan bir metin şekli.|
+| TEXT_SLANT_UP | Yukarıya doğru eğimli bir yazı şekli.|
+| TEXT_SLANT_DOWN | Aşağıya doğru eğimli bir yazı şekli.|
+| TEXT_CAN_UP | Bir kutunun kenarında okunuyormuş gibi yukarı doğru kıvrılan bir metin şekli.|
+| TEXT_CAN_DOWN | Bir kutunun kenarında okunuyormuş gibi aşağı doğru kıvrılan bir metin şekli.|
 | FLOW_CHART_ALTERNATE_PROCESS |  |
 | FLOW_CHART_OFFPAGE_CONNECTOR |  |
 | LINE_CALLOUT_NO_BORDER1 |  |
@@ -201,7 +201,7 @@ AutoShapeType türü aşağıdaki üyeleri gösterir:
 | LEFT_RIGHT_UP_ARROW |  |
 | SUN |  |
 | MOON |  |
-| DOUBLE_BRACKET | Parantez içinde bir şekil.|
+| DOUBLE_BRACKET | Parantez içinde yer alan bir şekil.|
 | DOUBLE_BRACE | Parantez içine alınmış bir şekil.|
 | STAR4 |  |
 | DOUBLE_WAVE |  |
@@ -275,4 +275,4 @@ AutoShapeType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

@@ -13,7 +13,7 @@ is_root: false
 
 ###  Notlar
 
-Sahip parolası, kullanıcının herhangi bir erişim kısıtlaması belirtilmeden şifrelenmiş bir PDF belgesini açmasına olanak tanır.
+Sahip şifresi, kullanıcının herhangi bir erişim kısıtlaması belirtilmeden şifrelenmiş PDF belgesini açmasına olanak tanır.
 ###  Tanım:
 ```python
 @property

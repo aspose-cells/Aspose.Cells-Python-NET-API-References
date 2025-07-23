@@ -8,19 +8,19 @@ url: /tr/aspose.cells.charts/plotdatabytype/
 is_root: false
 ---
 ##  PlotDataByType numaralandırma
-Satır veya sütuna göre veri grafiği türünü temsil eder.
+Satır veya sütun bazında veri grafiğinin türünü temsil eder.
 
 
 
-PlotDataByType türü aşağıdaki üyeleri gösterir:
+PlotDataByType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | ROW | Sırayla.|
-| COLUMN | Sütuna göre.|
+| COLUMN | Sütun bazında.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

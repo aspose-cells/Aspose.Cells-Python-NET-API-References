@@ -21,6 +21,6 @@ def special_effect(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ControlSpecialEffectType](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
-* sınıf [RadioButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ControlSpecialEffectType`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
+* sınıf [`RadioButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

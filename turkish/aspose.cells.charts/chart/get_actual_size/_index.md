@@ -7,8 +7,8 @@ weight: 40
 url: /tr/aspose.cells.charts/chart/get_actual_size/
 is_root: false
 ---
-##  get_actual_size() {#}
-Grafiğin gerçek boyutunu piksel birimi cinsinden alır.
+##  get_actual_size(self) {#}
+Grafiğin gerçek boyutunu piksel cinsinden alır.
 
 
 ###  İadeler
@@ -18,6 +18,7 @@ Bir dizideki gerçek boyut (genişlik ve yükseklik).
 
 
 ```python
+
 def get_actual_size(self):
     ...
 ```
@@ -27,5 +28,5 @@ def get_actual_size(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Chart](/cells/python-net/tr/aspose.cells.charts/chart)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Chart`](/cells/python-net/tr/aspose.cells.charts/chart)

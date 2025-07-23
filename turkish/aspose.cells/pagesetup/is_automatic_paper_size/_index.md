@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_automatic_paper_size mülk
 
-Kağıt boyutunun otomatik olup olmadığını gösterir.
+Kağıt boyutunun otomatik olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_automatic_paper_size(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

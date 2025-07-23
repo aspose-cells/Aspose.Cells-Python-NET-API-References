@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_fit_wrapped_text_type mülk
 
-Sarılmış metnin otomatik sığdırma türünü alır ve ayarlar.
+Otomatik olarak sığdırılan sarılmış metnin türünü alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def auto_fit_wrapped_text_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AutoFitWrappedTextType](/cells/python-net/tr/aspose.cells/autofitwrappedtexttype)
-* sınıf [AutoFitterOptions](/cells/python-net/tr/aspose.cells/autofitteroptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`AutoFitWrappedTextType`](/cells/python-net/tr/aspose.cells/autofitwrappedtexttype)
+* sınıf [`AutoFitterOptions`](/cells/python-net/tr/aspose.cells/autofitteroptions)

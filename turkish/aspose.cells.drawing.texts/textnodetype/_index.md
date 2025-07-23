@@ -3,7 +3,7 @@ title: TextNodeType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 190
 url: /tr/aspose.cells.drawing.texts/textnodetype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ Düğüm türünü temsil eder.
 
 
 
-TextNodeType türü aşağıdaki üyeleri gösterir:
+TextNodeType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | TEXT_RUN | Metin düğümünü temsil eder.|
@@ -24,4 +24,4 @@ TextNodeType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](..)
+* modül [`aspose.cells.drawing.texts`](..)

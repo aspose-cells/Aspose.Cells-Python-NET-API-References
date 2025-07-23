@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_comments mülk
 
-Yorumların sayfa ile yazdırılma şeklini temsil eder.
+Yorumların sayfaya yazdırılma şeklini gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def print_comments(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
-* sınıf [PrintCommentsType](/cells/python-net/tr/aspose.cells/printcommentstype)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)
+* sınıf [`PrintCommentsType`](/cells/python-net/tr/aspose.cells/printcommentstype)

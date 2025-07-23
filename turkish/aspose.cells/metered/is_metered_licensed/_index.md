@@ -7,17 +7,19 @@ weight: 50
 url: /tr/aspose.cells/metered/is_metered_licensed/
 is_root: false
 ---
-##  is_metered_licensed {#}
+##  is_metered_licensed() {#}
 Ölçüm cihazının lisanslı olup olmadığını kontrol edin
 
 
 ###  İadeler
 
-Doğru ya da yanlış
+Doğru mu yanlış mı
 
 
 ```python
-def is_metered_licensed(self):
+
+@staticmethod
+def is_metered_licensed():
     ...
 ```
 

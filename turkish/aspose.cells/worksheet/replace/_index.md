@@ -3,16 +3,17 @@ title: replace yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 280
 url: /tr/aspose.cells/worksheet/replace/
 is_root: false
 ---
-##  replace {#str-str}
+##  replace(self, old_string, new_string) {#str-str}
 Tüm hücrelerin metnini yeni bir dizeyle değiştirir.
 
 
 
 ```python
+
 def replace(self, old_string, new_string):
     ...
 ```

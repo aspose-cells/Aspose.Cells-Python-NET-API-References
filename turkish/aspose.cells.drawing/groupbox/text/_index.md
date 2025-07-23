@@ -3,13 +3,13 @@ title: text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 930
+weight: 940
 url: /tr/aspose.cells.drawing/groupbox/text/
 is_root: false
 ---
 ##  text mülk
 
-Bu TextBox nesnesindeki dizeyi temsil eder.
+Bu şeklin text değerini alır ve ayarlar.
 
 ###  Örnek
 

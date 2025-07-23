@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_more_pages mülk
 
-Çıktılanacak daha fazla sayfa olup olmadığını gösteren bir değer alır veya ayarlar.
+Daha fazla sayfanın çıktı olarak verilip verilmeyeceğini belirten bir değer alır veya ayarlar.
 Varsayılan değer doğrudur.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def has_more_pages(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [PageEndSavingArgs](/cells/python-net/tr/aspose.cells.rendering/pageendsavingargs)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`PageEndSavingArgs`](/cells/python-net/tr/aspose.cells.rendering/pageendsavingargs)

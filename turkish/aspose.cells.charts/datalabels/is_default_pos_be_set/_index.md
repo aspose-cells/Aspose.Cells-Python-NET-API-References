@@ -3,7 +3,7 @@ title: is_default_pos_be_set mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 270
 url: /tr/aspose.cells.charts/datalabels/is_default_pos_be_set/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_default_pos_be_set(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [DataLabels](/cells/python-net/tr/aspose.cells.charts/datalabels)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`DataLabels`](/cells/python-net/tr/aspose.cells.charts/datalabels)

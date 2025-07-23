@@ -3,13 +3,13 @@ title: tick_label_position mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 380
+weight: 390
 url: /tr/aspose.cells.charts/axis/tick_label_position/
 is_root: false
 ---
 ##  tick_label_position mülk
 
-Belirtilen eksendeki onay işareti etiketlerinin konumunu temsil eder.
+Belirtilen eksen üzerindeki onay işareti etiketlerinin konumunu temsil eder.
 ###  Tanım:
 ```python
 @property

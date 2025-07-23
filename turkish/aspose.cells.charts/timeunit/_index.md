@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/timeunit/
 is_root: false
 ---
 ##  TimeUnit numaralandırma
-Kategori ekseni için temel birimi temsil eder.
+Kategori ekseninin temel birimini temsil eder.
 
 
 

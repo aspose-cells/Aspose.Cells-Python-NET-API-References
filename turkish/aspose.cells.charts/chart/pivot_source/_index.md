@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  pivot_source mülk
 
-Kaynak, pivotTable'ın verileridir.
+Kaynak pivotTable'ın verileridir.
 PivotSource boş değilse grafik PivotChart'tır.
 
 ###  Notlar
 
-Pivot tablo "PivotTable1" ise "Sayfa1" Çalışma Sayfasındaki "Kitap1.xls" dosyasındadır.
-Grafik ve PivotTable aynı çalışma kitabında değilse pivotSource "[Kitap1.xls]Sayfa1!PivotTable1" olabilir.
-Bu özelliği ayarlarsanız önceki veri kaynağı ayarı kaybolacaktır.
+Çalışma Sayfasındaki "Sayfa1" dosyasındaki "PivotTable1" pivot tablosu ise "Book1.xls" dosyasındadır.
+Grafik ve PivotTable aynı çalışma kitabında değilse pivotSource "[Book1.xls]Sheet1!PivotTable1" olabilir.
+Bu özelliği ayarlarsanız, önceki veri kaynağı ayarı kaybolacaktır.
 ###  Tanım:
 ```python
 @property

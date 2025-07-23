@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column mülk
 
-Yorumun column dizinini alır.
+Yorumun column indeksini alır.
 
 ###  Örnek
 

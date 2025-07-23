@@ -3,7 +3,7 @@ title: absolute_path mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 460
 url: /tr/aspose.cells/workbook/absolute_path/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Dosyanın mutlak yolunu alır ve ayarlar.
 
 ###  Notlar
 
-Yalnızca harici bağlantılar için kullanılır.
+Sadece dış bağlantılar için kullanılır.
 ###  Tanım:
 ```python
 @property

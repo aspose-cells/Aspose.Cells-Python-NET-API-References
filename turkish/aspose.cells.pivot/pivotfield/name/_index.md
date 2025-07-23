@@ -3,7 +3,7 @@ title: name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 480
+weight: 570
 url: /tr/aspose.cells.pivot/pivotfield/name/
 is_root: false
 ---

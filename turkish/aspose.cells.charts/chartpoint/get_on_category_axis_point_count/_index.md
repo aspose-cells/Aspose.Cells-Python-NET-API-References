@@ -7,12 +7,13 @@ weight: 50
 url: /tr/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/
 is_root: false
 ---
-##  get_on_category_axis_point_count() {#}
-Chart.Calculate() yöntemi çağrıldıktan sonra kategori eksenindeki noktaların sayısını alır. Yalnızca alan grafiği için geçerlidir.
+##  get_on_category_axis_point_count(self) {#}
+Chart.Calculate() metodu çağrıldıktan sonra kategori eksenindeki nokta sayısını alır. Sadece alan grafiği için geçerlidir.
 
 
 
 ```python
+
 def get_on_category_axis_point_count(self):
     ...
 ```
@@ -25,5 +26,5 @@ Alan 3D grafik dönüşü 2.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartPoint](/cells/python-net/tr/aspose.cells.charts/chartpoint)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint)

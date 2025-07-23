@@ -3,7 +3,7 @@ title: PasteOperationType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2440
+weight: 2410
 url: /tr/aspose.cells/pasteoperationtype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ PasteOperationType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NONE | İşlem yok.|
+| NONE | Hiçbir işlem yapılmadı.|
 | ADD | Eklemek|
 | SUBTRACT | Çıkar|
 | MULTIPLY | Çarpmak|

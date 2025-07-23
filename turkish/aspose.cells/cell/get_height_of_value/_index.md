@@ -7,8 +7,8 @@ weight: 140
 url: /tr/aspose.cells/cell/get_height_of_value/
 is_root: false
 ---
-##  get_height_of_value() {#}
-Değerin yüksekliğini piksel birimi cinsinden alır.
+##  get_height_of_value(self) {#}
+Değerin yüksekliğini piksel cinsinden alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Değerin yüksekliğini piksel birimi cinsinden alır.
 
 
 ```python
+
 def get_height_of_value(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_height_of_value(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

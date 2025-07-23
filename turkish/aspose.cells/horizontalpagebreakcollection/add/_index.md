@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/horizontalpagebreakcollection/add/
 is_root: false
 ---
-##  add(row) {#int}
-Koleksiyona yatay bir sayfa sonu ekler.
+##  add(self, row) {#int}
+Koleksiyona yatay sayfa sonu ekler.
 
 
 ###  İadeler
 
-[HorizontalPageBreak](/cells/python-net/tr/aspose.cells/horizontalpagebreak) nesne dizini.
+[`HorizontalPageBreak`](/cells/python-net/tr/aspose.cells/horizontalpagebreak) nesne dizini.
 
 
 ```python
+
 def add(self, row):
     ...
 ```
@@ -24,22 +25,23 @@ def add(self, row):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| row | int | Cell satır dizini, sıfır tabanlı.|
+| row | int | Cell satır indeksi, sıfır tabanlı.|
 ###  Notlar
 
-Sayfa sonu, hücrenin sol üst kısmına eklenir.
-Lütfen aynı anda yatay sayfa sonu ve dikey sayfa sonu ayarlayın.
+Sayfa sonu hücrenin sol üst köşesine eklenir.
+Lütfen yatay sayfa sonu ve dikey sayfa sonu ayarlarını aynı anda yapın.
 
-##  add(cell_name) {#str}
-Koleksiyona yatay bir sayfa sonu ekler.
+##  add(self, cell_name) {#str}
+Koleksiyona yatay sayfa sonu ekler.
 
 
 ###  İadeler
 
-[HorizontalPageBreak](/cells/python-net/tr/aspose.cells/horizontalpagebreak) nesne dizini.
+[`HorizontalPageBreak`](/cells/python-net/tr/aspose.cells/horizontalpagebreak) nesne dizini.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -50,19 +52,20 @@ def add(self, cell_name):
 | cell_name | str | Cell adı.|
 ###  Notlar
 
-Sayfa sonu, hücrenin sol üst kısmına eklenir.
-Lütfen aynı anda yatay sayfa sonu ve dikey sayfa sonu ayarlayın.
+Sayfa sonu hücrenin sol üst köşesine eklenir.
+Lütfen yatay sayfa sonu ve dikey sayfa sonu ayarlarını aynı anda yapın.
 
-##  add(row, column) {#int-int}
-Koleksiyona yatay bir sayfa sonu ekler.
+##  add(self, row, column) {#int-int}
+Koleksiyona yatay sayfa sonu ekler.
 
 
 ###  İadeler
 
-[HorizontalPageBreak](/cells/python-net/tr/aspose.cells/horizontalpagebreak) nesne dizini.
+[`HorizontalPageBreak`](/cells/python-net/tr/aspose.cells/horizontalpagebreak) nesne dizini.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -70,23 +73,24 @@ def add(self, row, column):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| row | int | Cell satır dizini, sıfır tabanlı.|
-| column | int | Cell sütun dizini, sıfır tabanlı.|
+| row | int | Cell satır indeksi, sıfır tabanlı.|
+| column | int | Cell sütun indeksi, sıfır tabanlı.|
 ###  Notlar
 
-Sayfa sonu, hücrenin sol üst kısmına eklenir.
-Lütfen aynı anda yatay sayfa sonu ve dikey sayfa sonu ayarlayın.
+Sayfa sonu hücrenin sol üst köşesine eklenir.
+Lütfen yatay sayfa sonu ve dikey sayfa sonu ayarlarını aynı anda yapın.
 
-##  add(row, start_column, end_column) {#int-int-int}
-Koleksiyona yatay bir sayfa sonu ekler.
+##  add(self, row, start_column, end_column) {#int-int-int}
+Koleksiyona yatay sayfa sonu ekler.
 
 
 ###  İadeler
 
-[HorizontalPageBreak](/cells/python-net/tr/aspose.cells/horizontalpagebreak) nesne dizini.
+[`HorizontalPageBreak`](/cells/python-net/tr/aspose.cells/horizontalpagebreak) nesne dizini.
 
 
 ```python
+
 def add(self, row, start_column, end_column):
     ...
 ```
@@ -94,16 +98,16 @@ def add(self, row, start_column, end_column):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| row | int | Satır dizini, sıfır tabanlı.|
-| start_column | int | Başlangıç sütunu indeksi, sıfır tabanlı.|
-| end_column | int | Son sütun dizini, sıfır tabanlı.|
+| row | int | Satır indeksi, sıfır tabanlı.|
+| start_column | int | Başlangıç sütun indeksi, sıfır tabanlı.|
+| end_column | int | Sütun sonu indeksi, sıfır tabanlı.|
 ###  Notlar
 
-Bu yöntem, bir yazdırma alanı içinde yatay bir sayfa sonu add için kullanılır.
+Bu yöntem, yazdırma alanı içerisinde yatay sayfa sonu oluşturmak için kullanılır.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [HorizontalPageBreak](/cells/python-net/tr/aspose.cells/horizontalpagebreak)
-* sınıf [HorizontalPageBreakCollection](/cells/python-net/tr/aspose.cells/horizontalpagebreakcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`HorizontalPageBreak`](/cells/python-net/tr/aspose.cells/horizontalpagebreak)
+* sınıf [`HorizontalPageBreakCollection`](/cells/python-net/tr/aspose.cells/horizontalpagebreakcollection)

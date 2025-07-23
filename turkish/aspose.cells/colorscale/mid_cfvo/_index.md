@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  mid_cfvo mülk
 
-Bu ColorScale'in orta değer nesnesini alın veya ayarlayın.
-FormatConditionValueType.Max veya FormatConditionValueType.Min türüyle CFValueObject ayarlanamaz.
+Bu ColorScale'in orta değer nesnesini al veya ayarla.
+FormatConditionValueType.Max veya FormatConditionValueType.Min türündeki CFValueObject nesnesi buna ayarlanamaz.
 ###  Tanım:
 ```python
 @property
@@ -19,6 +19,6 @@ def mid_cfvo(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ColorScale](/cells/python-net/tr/aspose.cells/colorscale)
-* sınıf [ConditionalFormattingValue](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)
+* modül [`aspose.cells`](../../)
+* sınıf [`ColorScale`](/cells/python-net/tr/aspose.cells/colorscale)
+* sınıf [`ConditionalFormattingValue`](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)

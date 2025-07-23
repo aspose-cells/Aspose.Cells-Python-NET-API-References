@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_auto_size mülk
 
-True, ole nesnesinin boyutunun, gömülü içeriğin anlık görüntüsünün boyutuna göre otomatik olarak değiştirileceğini belirtir.
-ole nesnesi etkinleştirildiğinde.
+True, ole nesnesinin boyutunun gömülü içeriğin anlık görüntüsünün boyutuyla otomatik olarak değiştirileceğini belirtir
+ole nesnesi aktifleştirildiğinde.
 ###  Tanım:
 ```python
 @property

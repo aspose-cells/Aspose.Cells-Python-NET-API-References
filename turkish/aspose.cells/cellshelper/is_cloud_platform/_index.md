@@ -3,7 +3,7 @@ title: is_cloud_platform mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 260
 url: /tr/aspose.cells/cellshelper/is_cloud_platform/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Lütfen Azure, AWSLambda vb. gibi bir bulut platformunda çalışırken bu özel
 @property
 def is_cloud_platform(self):
     ...
-@is_cloud_platform.setter
-def is_cloud_platform(self, value):
+@staticmethod
+def set_is_cloud_platform(value):
     ...
 ```
 

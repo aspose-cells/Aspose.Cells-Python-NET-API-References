@@ -3,13 +3,13 @@ title: upper_delta_y mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /tr/aspose.cells.drawing/smartartshape/upper_delta_y/
 is_root: false
 ---
 ##  upper_delta_y mülk
 
-Şeklin dikey uzaklığını sol üst köşe satırından alır veya ayarlar.
+Şeklin sol üst köşe satırından dikey uzaklığını alır veya ayarlar.
 
 ###  Notlar
 

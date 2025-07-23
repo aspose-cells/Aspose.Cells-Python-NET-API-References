@@ -18,5 +18,5 @@ def summary_below_data(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [SubtotalSetting](/cells/python-net/tr/aspose.cells/subtotalsetting)
+* modül [`aspose.cells`](../../)
+* sınıf [`SubtotalSetting`](/cells/python-net/tr/aspose.cells/subtotalsetting)

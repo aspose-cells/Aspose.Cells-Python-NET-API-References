@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data mülk
 
-Dize değerinin sayısal değere mi yoksa tarih değerine mi dönüştürüleceğini gösteren bir değer alır veya ayarlar.
+Dize değerinin sayısal veya tarih değerine dönüştürülüp dönüştürülmeyeceğini belirten bir değeri alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions)

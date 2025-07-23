@@ -7,7 +7,7 @@ weight: 30
 url: /tr/aspose.cells/cellshelper/cell_index_to_name/
 is_root: false
 ---
-##  cell_index_to_name(row, column) {#int-int}
+##  cell_index_to_name(, satır, sütun){#int-int}
 Satır ve sütun indekslerine göre hücre adını alır.
 
 
@@ -17,7 +17,9 @@ Hücrenin adı.
 
 
 ```python
-def cell_index_to_name(self, row, column):
+
+@staticmethod
+def cell_index_to_name(row, column):
     ...
 ```
 
@@ -30,5 +32,5 @@ def cell_index_to_name(self, row, column):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsHelper](/cells/python-net/tr/aspose.cells/cellshelper)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsHelper`](/cells/python-net/tr/aspose.cells/cellshelper)

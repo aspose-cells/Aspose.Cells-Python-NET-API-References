@@ -13,17 +13,17 @@ is_root: false
 
 ###  Notlar
 
-Şifrelenmiş bir PDF belgesini görüntülemek üzere açmak için sahip parolası veya kullanıcı parolası gerekecektir.
+Şifrelenmiş PDF dokümanını görüntülemek için açmak amacıyla sahip şifresi veya kullanıcı şifresi gerekecektir.
 
 
-Kullanıcı şifresi null veya boş dize olabilir, bu durumda PDF belgesini açarken kullanıcıdan şifre istenmeyecektir.
+Kullanıcı şifresi null veya boş bir dize olabilir, bu durumda PDF belgesi açılırken kullanıcıdan şifre istenmeyecektir.
 
 
-Belgeyi doğru sahip parolasıyla açmak, belgeye tam erişim sağlar.
+Belgenin doğru sahip şifresiyle açılması belgeye tam erişim sağlar.
 
 
- Belgeyi doğru kullanıcı parolasıyla açmak (veya kullanıcı parolası olmayan bir belgeyi açmak)
-Belirtilen izinler olarak sınırlı erişime izin verir.
+ Doğru kullanıcı şifresiyle belgeyi açma (veya kullanıcı şifresi olmayan bir belgeyi açma)
+belirtilen izinlere göre sınırlı erişime izin verir.
 ###  Tanım:
 ```python
 @property

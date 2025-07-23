@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  extract_content_permission mülk
 
- Belgeden metin ve grafiklerin kopyalanmasına veya başka şekilde çıkarılmasına izin verilip verilmeyeceğini belirtir
-[`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content) tarafından kontrol edilenler dışındaki operasyonlar tarafından.
+ Belgeden metin ve grafiklerin kopyalanmasına veya başka bir şekilde çıkarılmasına izin verilip verilmeyeceğini belirtir
+[`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content) tarafından kontrol edilenin dışındaki işlemlerle.
 ###  Tanım:
 ```python
 @property

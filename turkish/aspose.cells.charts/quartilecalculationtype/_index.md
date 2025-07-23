@@ -8,19 +8,19 @@ url: /tr/aspose.cells.charts/quartilecalculationtype/
 is_root: false
 ---
 ##  QuartileCalculationType numaralandırma
-Çeyrek hesaplama yöntemlerini temsil eder.
+Dörtte birlik hesaplama yöntemlerini temsil eder.
 
 
 
-QuartileCalculationType türü aşağıdaki üyeleri gösterir:
+QuartileCalculationType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| EXCLUSIVE | Çeyrek hesaplaması, veri kümesini çeyreklere bölerken medyanı da içerir.|
-| INCLUSIVE | Çeyrek hesaplaması, veri kümesini çeyreklere bölerken medyanı hariç tutar.|
+| EXCLUSIVE | Veri setini çeyreklere ayırırken çeyrek hesaplaması medyanı da hesaba katar.|
+| INCLUSIVE | Veri setini çeyreklere ayırırken çeyreklik hesaplaması medyanı hariç tutar.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

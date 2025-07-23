@@ -3,13 +3,13 @@ title: html_text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 570
+weight: 560
 url: /tr/aspose.cells.drawing/oleobject/html_text/
 is_root: false
 ---
 ##  html_text mülk
 
-Bu metin kutusundaki verileri ve bazı formatları içeren html dizesini alır ve ayarlar.
+Bu metin kutusunda veri ve bazı formatları içeren html dizesini alır ve ayarlar.
 
 ###  Örnek
 

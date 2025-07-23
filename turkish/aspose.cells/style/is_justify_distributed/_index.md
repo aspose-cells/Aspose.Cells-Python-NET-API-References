@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_justify_distributed mülk
 
-Metnin son satırında hücrelerin hizalı mı yoksa dağıtılmış hizalama mı kullanılması gerektiğini belirtir.
+Metnin son satırında hücrelerin hizalanmış mı yoksa dağıtılmış mı hizalanması gerektiğini belirtir.
 
 ###  Notlar
 
-Bu, Doğu Asya hizalamaları için tipiktir ancak diğer bağlamlarda tipik değildir.
+Bu, Doğu Asya ittifakları için tipik bir durumdur ancak diğer bağlamlarda tipik değildir.
 ###  Tanım:
 ```python
 @property

@@ -8,20 +8,20 @@ url: /tr/aspose.cells.externalconnections/reconnectionmethodtype/
 is_root: false
 ---
 ##  ReConnectionMethodType numaralandırma
-Bir bağlantı başarısız olduğunda elektronik tablo uygulamasının ne yapması gerektiğini belirtir.
+Bağlantı başarısız olduğunda elektronik tablo uygulamasının ne yapması gerektiğini belirtir.
 
 
 
-ReConnectionMethodType türü aşağıdaki üyeleri gösterir:
+ReConnectionMethodType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| REQUIRED | Yenileme sırasında mevcut bağlantı bilgilerini kullanın ve geçersiz olması durumunda<br/> ardından harici bağlantı dosyasında mevcutsa güncellenmiş bağlantı bilgilerini alın.|
-| ALWAYS | Her yenilemede harici bağlantı dosyasından güncellenmiş bağlantı bilgilerini alın,<br/> varsa, mevcut bağlantı bilgileri yerine bunu kullanın.<br/> Bu durumda, harici bağlantı dosyası kullanılamıyorsa veri yenileme başarısız olur.|
-| NEVER | Harici bağlantı dosyasından asla güncel bağlantı bilgileri almayın<br/> mevcut olsa bile ve mevcut bağlantı bilgileri geçersiz olsa bile|
+| REQUIRED | Yenileme sırasında mevcut bağlantı bilgilerini kullanın ve geçersiz olursa<br/> Daha sonra harici bağlantı dosyasından güncel bağlantı bilgilerini alabilirsiniz.|
+| ALWAYS | Her yenilemede harici bağlantı dosyasından güncellenmiş bağlantı bilgilerini alın,<br/> eğer mümkünse, mevcut bağlantı bilgisi yerine bunu kullanın.<br/>Bu durumda harici bağlantı dosyası mevcut değilse veri yenileme işlemi başarısız olacaktır.|
+| NEVER | Harici bağlantı dosyasından hiçbir zaman güncellenmiş bağlantı bilgisi alınmıyor<br/> mevcut olsa bile ve mevcut bağlantı bilgileri geçersiz olsa bile|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](..)
+* modül [`aspose.cells.externalconnections`](..)

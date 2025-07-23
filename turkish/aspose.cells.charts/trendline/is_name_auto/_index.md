@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_name_auto mülk
 
-Microsoft Excel trend çizgisinin adını otomatik olarak belirlerse döndürür.
+Microsoft değerini döndürür. Excel trend çizgisinin adını otomatik olarak belirler.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_name_auto(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

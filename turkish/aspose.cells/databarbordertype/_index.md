@@ -3,7 +3,7 @@ title: DataBarBorderType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1980
+weight: 1890
 url: /tr/aspose.cells/databarbordertype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ DataBarBorderType türü aşağıdaki üyeleri ortaya çıkarır:
 | Alan| Tanım|
 | :- | :- |
 | NONE | Veri çubuğunun sınırı yoktur.|
-| SOLID | Veri çubuğunun sağlam bir sınırı vardır.|
+| SOLID | Veri çubuğunun düz bir sınırı vardır.|
 
 
 

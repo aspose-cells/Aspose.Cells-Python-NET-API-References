@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border mülk
 
-[Line](/cells/python-net/tr/aspose.cells.drawing/line)'i alır.
+[`Line`](/cells/python-net/tr/aspose.cells.drawing/line)'i alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def border(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartTextFrame](/cells/python-net/tr/aspose.cells.charts/charttextframe)
-* sınıf [Line](/cells/python-net/tr/aspose.cells.drawing/line)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartTextFrame`](/cells/python-net/tr/aspose.cells.charts/charttextframe)
+* sınıf [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)

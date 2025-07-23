@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_space mülk
 
-Bir paragrafta kullanılacak dikey boşluk miktarını alır ve ayarlar.
+Bir paragraf içerisinde kullanılacak dikey boşluk miktarını alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def line_space(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextParagraph](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextParagraph`](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)

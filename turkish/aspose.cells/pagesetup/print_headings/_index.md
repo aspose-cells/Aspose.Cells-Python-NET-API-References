@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_headings mülk
 
-Satır ve sütun başlıklarının bu sayfa ile yazdırılıp yazdırılmadığını gösterir.
+Bu sayfada satır ve sütun başlıklarının yazdırılıp yazdırılmayacağını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_headings(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

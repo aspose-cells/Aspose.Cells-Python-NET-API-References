@@ -3,7 +3,7 @@ title: ValidationAlertType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2720
+weight: 2690
 url: /tr/aspose.cells/validationalerttype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ ValidationAlertType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| INFORMATION | Bilgi uyarı stili.|
-| STOP | Uyarı stilini durdurun.|
-| WARNING | Uyarı uyarı stili.|
+| INFORMATION | Bilgi uyarısı stili.|
+| STOP | Dur uyarısı tarzında.|
+| WARNING | Uyarı uyarı tarzı.|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  number mülk
 
-TickLabels nesnesinin number biçimini temsil eder.
+TickLabels nesnesi için number biçimini temsil eder.
 ###  Tanım:
 ```python
 @property

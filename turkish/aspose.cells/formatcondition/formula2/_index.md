@@ -14,8 +14,8 @@ Koşullu biçimlendirmeyle ilişkili değeri veya ifadeyi alır ve ayarlar.
 ###  Notlar
 
 Formülü ayarlamadan önce lütfen tüm alanları ekleyin.
-Bu koşul için formül ayarlamak için, giriş değeri '=' ile başlıyorsa formül olarak alınacaktır.
-Aksi takdirde düz değer(metin, sayı, bool) olarak alınacaktır. '=' ile başlayan metin değeri için, kullanıcı bunu şu biçimde formül olarak girebilir: "=\"=...\"".
+Bu koşul için formül belirlemek amacıyla, eğer giriş değeri '=' ile başlıyorsa formül olarak alınacaktır.
+Aksi takdirde düz değer (metin, sayı, bool) olarak alınacaktır. '=' ile başlayan metin değerleri için kullanıcı bunu şu formatta formül olarak girebilir: "=\"=...\"".
 ###  Tanım:
 ```python
 @property
@@ -27,5 +27,5 @@ def formula2(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormatCondition](/cells/python-net/tr/aspose.cells/formatcondition)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormatCondition`](/cells/python-net/tr/aspose.cells/formatcondition)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_tab_size mülk
 
-Bu paragraftaki sekme karakteri için varsayılan boyutu alır ve ayarlar.
+Bu paragraftaki bir sekme karakteri için varsayılan boyutu alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def default_tab_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextParagraph](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextParagraph`](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)

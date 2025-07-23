@@ -3,13 +3,13 @@ title: is_auto_tick_label_spacing mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 190
 url: /tr/aspose.cells.charts/axis/is_auto_tick_label_spacing/
 is_root: false
 ---
 ##  is_auto_tick_label_spacing mülk
 
-Onay etiketi aralığının otomatik olup olmadığını belirtir
+Kene etiketinin aralığının otomatik olup olmadığını gösterir
 ###  Tanım:
 ```python
 @property

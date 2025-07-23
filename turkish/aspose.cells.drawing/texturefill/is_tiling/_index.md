@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_tiling mülk
 
-Resmin doku olarak döşenip döşenmediğini belirtir.
+Doku olarak fayans resminin olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_tiling(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextureFill](/cells/python-net/tr/aspose.cells.drawing/texturefill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextureFill`](/cells/python-net/tr/aspose.cells.drawing/texturefill)

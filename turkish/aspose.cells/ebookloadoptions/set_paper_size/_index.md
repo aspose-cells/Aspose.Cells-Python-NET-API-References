@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/ebookloadoptions/set_paper_size/
 is_root: false
 ---
-##  set_paper_size {#aspose.cells.PaperSizeType}
-Varsayılan yazıcının ayarından varsayılan yazdırma kağıdı boyutunu ayarlar.
+##  set_paper_size(self, type) {#aspose.cells.PaperSizeType}
+Varsayılan yazıcı ayarından varsayılan baskı kağıdı boyutunu ayarlar.
 
 
 
 ```python
+
 def set_paper_size(self, type):
     ...
 ```
@@ -23,7 +24,7 @@ def set_paper_size(self, type):
 | type | [`PaperSizeType`](/cells/python-net/tr/aspose.cells/papersizetype) | Varsayılan kağıt boyutu.|
 ###  Notlar
 
-Kağıt boyutu ile ilgili bir ayar yoksa MS Excel varsayılan yazıcı ayarını kullanacaktır.
+Kağıt boyutuyla ilgili bir ayar yoksa, MS Excel varsayılan yazıcı ayarını kullanacaktır.
 
 
 ###  Ayrıca bakınız

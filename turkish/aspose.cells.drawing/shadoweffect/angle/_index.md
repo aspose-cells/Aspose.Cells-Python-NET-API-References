@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  angle mülk
 
-Aydınlatmayı alır ve ayarlar angle. 0 ila 359,9 derece aralığındadır.
+angle aydınlatmasını alır ve ayarlar. 0 ile 359,9 derece arasında değişir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def angle(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShadowEffect](/cells/python-net/tr/aspose.cells.drawing/shadoweffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShadowEffect`](/cells/python-net/tr/aspose.cells.drawing/shadoweffect)

@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells.drawing/picturecollection/add/
 is_root: false
 ---
-##  add(upper_left_row, upper_left_column, stream) {#int-int-io.RawIOBase}
+##  add(self, upper_left_row, upper_left_column, stream) {#int-int-io.RawIOBase}
 Koleksiyona bir resim ekler.
 
 
 ###  İadeler
 
-[Picture](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
+[`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, stream):
     ...
 ```
@@ -39,16 +40,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add(upper_left_row, upper_left_column, file_name) {#int-int-str}
+##  add(self, upper_left_row, upper_left_column, file_name) {#int-int-str}
 Koleksiyona bir resim ekler.
 
 
 ###  İadeler
 
-[Picture](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
+[`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, file_name):
     ...
 ```
@@ -58,7 +60,7 @@ def add(self, upper_left_row, upper_left_column, file_name):
 | :- | :- | :- |
 | upper_left_row | int | Sol üst sıra dizini.|
 | upper_left_column | int | Sol üst sütun dizini.|
-| file_name | str | Görüntü dosya adı.|
+| file_name | str | Resim dosya adı.|
 
 ###  Örnek
 
@@ -70,16 +72,17 @@ pictures.add(1, 1, "image.jpg")
 ```
 
 
-##  add(upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
+##  add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
 Koleksiyona bir resim ekler.
 
 
 ###  İadeler
 
-[Picture](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
+[`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream):
     ...
 ```
@@ -89,7 +92,7 @@ def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_co
 | :- | :- | :- |
 | upper_left_row | int | Sol üst sıra dizini.|
 | upper_left_column | int | Sol üst sütun dizini.|
-| lower_right_row | int | Sağ alt sıra dizini|
+| lower_right_row | int | Sağ alt satır dizini|
 | lower_right_column | int | Sağ alt sütun dizini|
 | stream | io.RawIOBase | Görüntü verilerini içeren akış nesnesi.|
 
@@ -104,16 +107,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add(upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name) {#int-int-int-int-str}
+##  add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name) {#int-int-int-int-str}
 Koleksiyona bir resim ekler.
 
 
 ###  İadeler
 
-[Picture](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
+[`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name):
     ...
 ```
@@ -123,9 +127,9 @@ def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_co
 | :- | :- | :- |
 | upper_left_row | int | Sol üst sıra dizini.|
 | upper_left_column | int | Sol üst sütun dizini.|
-| lower_right_row | int | Sağ alt sıra dizini|
+| lower_right_row | int | Sağ alt satır dizini|
 | lower_right_column | int | Sağ alt sütun dizini|
-| file_name | str | Görüntü dosya adı.|
+| file_name | str | Resim dosya adı.|
 
 ###  Örnek
 
@@ -137,16 +141,17 @@ pictures.add(1, 1, 5, 5, "image.jpg")
 ```
 
 
-##  add(upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+##  add(self, upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
 Koleksiyona bir resim ekler.
 
 
 ###  İadeler
 
-[Picture](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
+[`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, stream, width_scale, height_scale):
     ...
 ```
@@ -157,8 +162,8 @@ def add(self, upper_left_row, upper_left_column, stream, width_scale, height_sca
 | upper_left_row | int | Sol üst sıra dizini.|
 | upper_left_column | int | Sol üst sütun dizini.|
 | stream | io.RawIOBase | Görüntü verilerini içeren akış nesnesi.|
-| width_scale | int | Görüntü genişliği ölçeği, yüzde.|
-| height_scale | int | Görüntü yüksekliği ölçeği, yüzde.|
+| width_scale | int | Görüntü genişliğinin ölçeği, yüzde.|
+| height_scale | int | Görüntü yüksekliğinin ölçeği, yüzde.|
 
 ###  Örnek
 
@@ -171,16 +176,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add(upper_left_row, upper_left_column, file_name, width_scale, height_scale) {#int-int-str-int-int}
+##  add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale) {#int-int-str-int-int}
 Koleksiyona bir resim ekler.
 
 
 ###  İadeler
 
-[Picture](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
+[`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture) nesne dizini.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale):
     ...
 ```
@@ -190,9 +196,9 @@ def add(self, upper_left_row, upper_left_column, file_name, width_scale, height_
 | :- | :- | :- |
 | upper_left_row | int | Sol üst sıra dizini.|
 | upper_left_column | int | Sol üst sütun dizini.|
-| file_name | str | Görüntü dosya adı.|
-| width_scale | int | Görüntü genişliği ölçeği, yüzde.|
-| height_scale | int | Görüntü yüksekliği ölçeği, yüzde.|
+| file_name | str | Resim dosya adı.|
+| width_scale | int | Görüntü genişliğinin ölçeği, yüzde.|
+| height_scale | int | Görüntü yüksekliğinin ölçeği, yüzde.|
 
 ###  Örnek
 
@@ -206,6 +212,6 @@ pictures.add(1, 1, "image.jpg", 50, 50)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
-* sınıf [PictureCollection](/cells/python-net/tr/aspose.cells.drawing/picturecollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)
+* sınıf [`PictureCollection`](/cells/python-net/tr/aspose.cells.drawing/picturecollection)

@@ -3,13 +3,13 @@ title: index mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 550
+weight: 580
 url: /tr/aspose.cells/worksheet/index/
 is_root: false
 ---
 ##  index mülk
 
-Çalışma sayfası koleksiyonundaki index sayfasını alır.
+Çalışma sayfası koleksiyonundaki index numaralı sayfayı alır.
 ###  Tanım:
 ```python
 @property

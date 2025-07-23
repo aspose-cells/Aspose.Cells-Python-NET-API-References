@@ -13,9 +13,9 @@ Yararsız şekillerin göz ardı edilip edilmeyeceğini belirtir.
 
 ###  Notlar
 
-Yalnızca xlsx,xlsb ve xlsm dosyaları için çalışır.
- Bazı dosyalarda işe yaramayan birçok örtüşen özdeş şekil vardır.
-dosyaları yüklerken bunları anlayabiliriz.
+Sadece xlsx,xlsb ve xlsm dosyaları için çalışır.
+ Bazı dosyalarda işe yaramayan birçok örtüşen aynı şekil var,
+dosyaları yüklerken bunları göz ardı edebiliriz.
 ###  Tanım:
 ```python
 @property

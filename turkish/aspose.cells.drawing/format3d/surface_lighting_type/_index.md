@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  surface_lighting_type mülk
 
-Şeklin sahnesine uygulanacak aydınlatma tipini alır ve ayarlar.
+Şeklin sahnesine uygulanacak aydınlatma türünü alır ve ayarlar.
 Varsayılan değer LightRigType.ThreePoint'tir.
 ###  Tanım:
 ```python
@@ -22,6 +22,6 @@ def surface_lighting_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Format3D](/cells/python-net/tr/aspose.cells.drawing/format3d)
-* sınıf [LightRigType](/cells/python-net/tr/aspose.cells.drawing/lightrigtype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Format3D`](/cells/python-net/tr/aspose.cells.drawing/format3d)
+* sınıf [`LightRigType`](/cells/python-net/tr/aspose.cells.drawing/lightrigtype)

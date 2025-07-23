@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_referred mülk
 
-Bu harici bağlantıya başkaları tarafından başvuruda bulunulup bulunulmadığını gösterir.
+Bu harici bağlantının başkaları tarafından referans alınıp alınmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_referred(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExternalLink](/cells/python-net/tr/aspose.cells/externallink)
+* modül [`aspose.cells`](../../)
+* sınıf [`ExternalLink`](/cells/python-net/tr/aspose.cells/externallink)

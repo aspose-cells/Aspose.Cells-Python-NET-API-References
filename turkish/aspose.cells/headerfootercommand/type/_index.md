@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-Üstbilgi/altbilgi' komutunu alır type .
+type numaralı 'header/footer' komutunu alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HeaderFooterCommand](/cells/python-net/tr/aspose.cells/headerfootercommand)
-* sınıf [HeaderFooterCommandType](/cells/python-net/tr/aspose.cells/headerfootercommandtype)
+* modül [`aspose.cells`](../../)
+* sınıf [`HeaderFooterCommand`](/cells/python-net/tr/aspose.cells/headerfootercommand)
+* sınıf [`HeaderFooterCommandType`](/cells/python-net/tr/aspose.cells/headerfootercommandtype)

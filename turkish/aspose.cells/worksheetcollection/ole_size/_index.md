@@ -3,17 +3,17 @@ title: ole_size mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 330
+weight: 350
 url: /tr/aspose.cells/worksheetcollection/ole_size/
 is_root: false
 ---
 ##  ole_size mülk
 
-Çalışma Kitabı dosyası bir Ole nesnesi olarak kullanıldığında görüntülenen boyutu alır ve ayarlar.
+Çalışma kitabı dosyası bir Ole nesnesi olarak kullanıldığında görüntülenen boyutu alır ve ayarlar.
 
 ###  Notlar
 
-Null, ole boyutu ayarının olmadığı anlamına gelir.
+Null, ole boyut ayarının olmadığı anlamına gelir.
 ###  Tanım:
 ```python
 @property

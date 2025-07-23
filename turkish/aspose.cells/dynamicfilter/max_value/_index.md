@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_value mülk
 
-Dinamik filtre maksimum değerini alır ve ayarlar.
+Dinamik filtrenin maksimum değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DynamicFilter](/cells/python-net/tr/aspose.cells/dynamicfilter)
+* modül [`aspose.cells`](../../)
+* sınıf [`DynamicFilter`](/cells/python-net/tr/aspose.cells/dynamicfilter)

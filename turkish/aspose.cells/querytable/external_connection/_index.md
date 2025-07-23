@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  external_connection mülk
 
-İlgili dış bağlantıyı alır.
+İlişkili dış bağlantıyı alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,5 @@ def external_connection(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExternalConnection](/cells/python-net/tr/aspose.cells.externalconnections/externalconnection)
-* sınıf [QueryTable](/cells/python-net/tr/aspose.cells/querytable)
+* modül [`aspose.cells`](../../)
+* sınıf [`QueryTable`](/cells/python-net/tr/aspose.cells/querytable)

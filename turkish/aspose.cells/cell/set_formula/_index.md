@@ -3,16 +3,17 @@ title: set_formula yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 350
 url: /tr/aspose.cells/cell/set_formula/
 is_root: false
 ---
-##  set_formula {#str-any}
-Formülü ve formülün değerini (hesaplanan sonuç) ayarlayın.
+##  set_formula(self, formula, value) {#str-any}
+Formülü ve formülün değerini (hesaplanan sonucu) ayarlayın.
 
 
 
 ```python
+
 def set_formula(self, formula, value):
     ...
 ```
@@ -21,15 +22,34 @@ def set_formula(self, formula, value):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | formula | str | Formül.|
-| value | any |Formülün değeri (hesaplanan sonuç).|
+| value | any | Formülün değeri (hesaplanan sonuç).|
 
 
-##  set_formula {#str-aspose.cells.FormulaParseOptions-any}
-Formülü ve formülün değerini (hesaplanan sonuç) ayarlayın.
+##  set_formula(self, formula, options) {#str-aspose.cells.FormulaParseOptions}
+Formülü ve formülün değerini (hesaplanan sonucu) ayarlayın.
 
 
 
 ```python
+
+def set_formula(self, formula, options):
+    ...
+```
+
+
+| Parametre| Tip| Tanım|
+| :- | :- | :- |
+| formula | str | Formül.|
+| options | [`FormulaParseOptions`](/cells/python-net/tr/aspose.cells/formulaparseoptions) | Formülü ayrıştırma seçenekleri.|
+
+
+##  set_formula(self, formula, options, value) {#str-aspose.cells.FormulaParseOptions-any}
+Formülü ve formülün değerini (hesaplanan sonucu) ayarlayın.
+
+
+
+```python
+
 def set_formula(self, formula, options, value):
     ...
 ```
@@ -38,16 +58,17 @@ def set_formula(self, formula, options, value):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | formula | str | Formül.|
-| options | [`FormulaParseOptions`](/cells/python-net/tr/aspose.cells/formulaparseoptions) | Formülü ayrıştırmaya yönelik seçenekler.|
-| value | any |Formülün değeri (hesaplanan sonuç).|
+| options | [`FormulaParseOptions`](/cells/python-net/tr/aspose.cells/formulaparseoptions) | Formülü ayrıştırma seçenekleri.|
+| value | any | Formülün değeri (hesaplanan sonuç).|
 
 
-##  set_formula {#str-bool-bool-any}
+##  set_formula(self, formula, is_r1c1, is_local, value) {#str-bool-bool-any}
 Formülü ve formülün değerini ayarlayın.
 
 
 
 ```python
+
 def set_formula(self, formula, is_r1c1, is_local, value):
     ...
 ```
@@ -56,15 +77,15 @@ def set_formula(self, formula, is_r1c1, is_local, value):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | formula | str | Formül.|
-| is_r1c1 | bool | Formülün R1C1 formülü olup olmadığı.|
-| is_local | bool | Formülün yerel ayarlı olup olmadığı.|
+| is_r1c1 | bool | Formül R1C1 formülü müdür?|
+| is_local | bool | Formülün yerel formatlı olup olmadığı.|
 | value | any | Formülün değeri.|
 ###  Notlar
 
-NOT: Bu sınıf artık kullanılmıyor. Yerine,
-lütfen Cell.SetFormula(string,FormulaParseOptions,object) komutunu kullanın.
-Bu mülk Aralık 2019'dan 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+NOT: Bu sınıf artık kullanımdan kaldırıldı. Bunun yerine,
+Lütfen Cell.SetFormula(string,FormulaParseOptions,nesne) kullanın.
+Bu özellik Aralık 2019'dan itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız

@@ -3,12 +3,12 @@ title: PivotDateTimeRangeGroupSettings sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 50
+weight: 80
 url: /tr/aspose.cells.pivot/pivotdatetimerangegroupsettings/
 is_root: false
 ---
 ##  PivotDateTimeRangeGroupSettings sınıfı
-Tarih saat aralığına göre gruplandırılmış alanı temsil eder.
+Tarih/saat aralığına göre gruplandırılmış alanı temsil eder.
 
 
 
@@ -23,16 +23,16 @@ PivotDateTimeRangeGroupSettings türü aşağıdaki üyeleri ortaya çıkarır:
 | Mülk| Tanım|
 | :- | :- |
 | [type](/cells/python-net/tr/aspose.cells.pivot/pivotdatetimerangegroupsettings/type) | Veri zaman grubu türünü alır.|
-| [start](/cells/python-net/tr/aspose.cells.pivot/pivotdatetimerangegroupsettings/start) | Grubun başlangıç tarihi saatini alır.|
-| [end](/cells/python-net/tr/aspose.cells.pivot/pivotdatetimerangegroupsettings/end) | Grubun bitiş tarihi saatini alır.|
-| [interval](/cells/python-net/tr/aspose.cells.pivot/pivotdatetimerangegroupsettings/interval) | Grubun iç bilgilerini alır.|
+| [start](/cells/python-net/tr/aspose.cells.pivot/pivotdatetimerangegroupsettings/start) | Grubun başlangıç tarihini ve saatini alır.|
+| [end](/cells/python-net/tr/aspose.cells.pivot/pivotdatetimerangegroupsettings/end) | Grubun bitiş tarihini alır.|
+| [interval](/cells/python-net/tr/aspose.cells.pivot/pivotdatetimerangegroupsettings/interval) | Grubun iç yapısını alır.|
 | [group_by_types](/cells/python-net/tr/aspose.cells.pivot/pivotdatetimerangegroupsettings/group_by_types) | Tarih saate göre gruplama türlerini alır.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [is_grouped_by](/cells/python-net/tr/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/#aspose.cells.pivot.PivotGroupByType) | Alanın türe göre gruplandırılıp gruplandırılmadığını kontrol edin.|
+| [`is_grouped_by(self, type)`](/cells/python-net/tr/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/#aspose.cells.pivot.pivotgroupbytype) | Alanın türe göre gruplandırılıp gruplandırılmadığını kontrol edin.|
 
 
 

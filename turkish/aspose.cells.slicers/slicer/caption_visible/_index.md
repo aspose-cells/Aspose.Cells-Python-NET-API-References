@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption_visible mülk
 
-Dilimleyici Resim Yazısını görüntüleyen başlığın görünür olup olmadığını döndürür veya ayarlar
+Dilimleyici Başlığını görüntüleyen başlığın görünür olup olmadığını döndürür veya ayarlar
 varsayılan değer doğrudur
 
 ###  Örnek
@@ -30,5 +30,5 @@ def caption_visible(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_transpa
 is_root: false
 ---
 ##  is_transparent mülk
-
-Kontrolün şeffaf olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_transparent(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ScrollBarActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ScrollBarActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

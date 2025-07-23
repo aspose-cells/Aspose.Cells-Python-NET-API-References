@@ -7,7 +7,7 @@ weight: 90
 url: /tr/aspose.cells.charts/chartglobalizationsettings/get_series_name/
 is_root: false
 ---
-##  get_series_name() {#}
+##  get_series_name(self) {#}
 Grafikteki Serinin adını alır.
 
 
@@ -17,6 +17,7 @@ Grafikteki Serinin adını alır.
 
 
 ```python
+
 def get_series_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_series_name(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartGlobalizationSettings](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartGlobalizationSettings`](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)

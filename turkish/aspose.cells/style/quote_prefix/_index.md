@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  quote_prefix mülk
 
-Hücrenin değerinin tek tırnak işaretiyle başlayıp başlamadığını belirtir.
+Hücre değerinin tek tırnak işaretiyle başlayıp başlamadığını belirtir.
 ###  Tanım:
 ```python
 @property

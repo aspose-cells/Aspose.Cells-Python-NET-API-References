@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  worksheet mülk
 
-Fonksiyonun bulunduğu Worksheet nesnesini alır.
+Fonksiyonun içinde bulunduğu Worksheet nesnesini alır.
 ###  Tanım:
 ```python
 @property

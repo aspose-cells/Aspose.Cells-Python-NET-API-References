@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_color mülk
 
-[Area](/cells/python-net/tr/aspose.cells.drawing/area)'in arka plan rengini alır veya ayarlar.
+[`Area`](/cells/python-net/tr/aspose.cells.drawing/area)'in arka plan rengini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Area](/cells/python-net/tr/aspose.cells.drawing/area)
-* sınıf [PatternFill](/cells/python-net/tr/aspose.cells.drawing/patternfill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Area`](/cells/python-net/tr/aspose.cells.drawing/area)
+* sınıf [`PatternFill`](/cells/python-net/tr/aspose.cells.drawing/patternfill)

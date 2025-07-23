@@ -7,12 +7,13 @@ weight: 190
 url: /tr/aspose.cells/worksheetcollection/remove_at/
 is_root: false
 ---
-##  remove_at {#str}
-Belirtilen addaki öğeyi kaldırır.
+##  remove_at(self, name) {#str}
+Belirtilen isimdeki öğeyi kaldırır.
 
 
 
 ```python
+
 def remove_at(self, name):
     ...
 ```

@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/unknowncontrol/mouse_pointer/
 is_root: false
 ---
 ##  mouse_pointer mülk
-
-Denetim için fare işaretçisi olarak görüntülenen simge türünü alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +19,6 @@ def mouse_pointer(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ControlMousePointerType](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlmousepointertype)
-* sınıf [UnknownControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ControlMousePointerType`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlmousepointertype)
+* sınıf [`UnknownControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)

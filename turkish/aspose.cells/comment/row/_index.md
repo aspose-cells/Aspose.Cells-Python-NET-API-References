@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row mülk
 
-Yorumun row dizinini alır.
+Yorumun row indeksini alır.
 
 ###  Örnek
 

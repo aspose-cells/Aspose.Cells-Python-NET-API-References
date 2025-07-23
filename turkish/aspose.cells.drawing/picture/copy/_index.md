@@ -7,12 +7,13 @@ weight: 60
 url: /tr/aspose.cells.drawing/picture/copy/
 is_root: false
 ---
-##  copy(source, options) {#Picture-CopyOptions}
-Resmi kopyalayın.
+##  copy(self, source, options) {#aspose.cells.drawing.Picture-aspose.cells.CopyOptions}
+Resmi kopyala.
 
 
 
 ```python
+
 def copy(self, source, options):
     ...
 ```
@@ -20,8 +21,8 @@ def copy(self, source, options):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source | [Picture](/cells/python-net/tr/aspose.cells.drawing/picture) | Kaynak resim.|
-| options | [CopyOptions](/cells/python-net/tr/aspose.cells/copyoptions) | Kopyalama seçenekleri.|
+| source | [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture) | Kaynak resim.|
+| options | [`CopyOptions`](/cells/python-net/tr/aspose.cells/copyoptions) | Kopyalama seçenekleri.|
 
 ###  Örnek
 
@@ -50,5 +51,5 @@ workbook.save("result.xlsx")
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Picture](/cells/python-net/tr/aspose.cells.drawing/picture)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Picture`](/cells/python-net/tr/aspose.cells.drawing/picture)

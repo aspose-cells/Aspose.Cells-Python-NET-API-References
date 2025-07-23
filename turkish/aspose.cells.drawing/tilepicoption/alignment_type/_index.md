@@ -21,6 +21,6 @@ def alignment_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RectangleAlignmentType](/cells/python-net/tr/aspose.cells.drawing/rectanglealignmenttype)
-* sınıf [TilePicOption](/cells/python-net/tr/aspose.cells.drawing/tilepicoption)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RectangleAlignmentType`](/cells/python-net/tr/aspose.cells.drawing/rectanglealignmenttype)
+* sınıf [`TilePicOption`](/cells/python-net/tr/aspose.cells.drawing/tilepicoption)

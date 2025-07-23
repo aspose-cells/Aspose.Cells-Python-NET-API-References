@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
-##  __içinde__ {#}
+##  \_\_init\_\_(kendi){#}
 Yeni örnek oluşturur.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

@@ -3,12 +3,12 @@ title: ExternalLinkCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 600
+weight: 580
 url: /tr/aspose.cells/externallinkcollection/
 is_root: false
 ---
 ##  ExternalLinkCollection sınıfı
-Bir çalışma kitabındaki dış bağlantı koleksiyonunu temsil eder.
+Bir çalışma kitabındaki harici bağlantılar koleksiyonunu temsil eder.
 
 
 
@@ -21,22 +21,22 @@ ExternalLinkCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 
 
-Belirtilen dizindeki [`ExternalLink`](/cells/python-net/tr/aspose.cells/externallink) öğesini alır.
-###  Dizin oluşturucu
+Belirtilen indeksteki [`ExternalLink`](/cells/python-net/tr/aspose.cells/externallink) öğesini alır.
+###  Dizinleyici
 | İsim| Tanım|
 | :- | :- |
-| [index] | Öğenin sıfır tabanlı dizini.|
+| [index] | Elemanın sıfırdan başlayan indeksi.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add](/cells/python-net/tr/aspose.cells/externallinkcollection/add/#str-list) | Harici bir bağlantı ekler.|
-| [add](/cells/python-net/tr/aspose.cells/externallinkcollection/add/#aspose.cells.DirectoryType-str-list) | Harici bir bağlantı ekleyin.|
-| [clear](/cells/python-net/tr/aspose.cells/externallinkcollection/clear/#) | Tüm dış bağlantıları kaldırır.|
-| [clear](/cells/python-net/tr/aspose.cells/externallinkcollection/clear/#bool) | Tüm dış bağlantıları kaldırır.|
-| [remove_at](/cells/python-net/tr/aspose.cells/externallinkcollection/remove_at/#int) | Belirtilen dış bağlantıyı çalışma kitabından kaldırır.|
-| [remove_at](/cells/python-net/tr/aspose.cells/externallinkcollection/remove_at/#int-bool) | Belirtilen dış bağlantıyı çalışma kitabından kaldırır.|
+| [`add(self, file_name, sheet_names)`](/cells/python-net/tr/aspose.cells/externallinkcollection/add/#str-list) | Harici bir bağlantı ekler.|
+| [`add(self, directory_type, file_name, sheet_names)`](/cells/python-net/tr/aspose.cells/externallinkcollection/add/#aspose.cells.directorytype-str-list) | Harici bir bağlantı ekleyin.|
+| [`clear(self)`](/cells/python-net/tr/aspose.cells/externallinkcollection/clear/#) | Tüm harici bağlantıları kaldırır.|
+| [`clear(self, update_references_as_local)`](/cells/python-net/tr/aspose.cells/externallinkcollection/clear/#bool) | Tüm harici bağlantıları kaldırır.|
+| [`remove_at(self, index)`](/cells/python-net/tr/aspose.cells/externallinkcollection/remove_at/#int) | Belirtilen dış bağlantıyı çalışma kitabından kaldırır.|
+| [`remove_at(self, index, update_references_as_local)`](/cells/python-net/tr/aspose.cells/externallinkcollection/remove_at/#int-bool) | Belirtilen dış bağlantıyı çalışma kitabından kaldırır.|
 
 
 

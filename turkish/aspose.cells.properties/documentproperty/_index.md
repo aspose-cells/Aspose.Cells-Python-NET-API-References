@@ -12,7 +12,7 @@ is_root: false
 
 
 
-DocumentProperty türü aşağıdaki üyeleri gösterir:
+DocumentProperty türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -22,18 +22,18 @@ DocumentProperty türü aşağıdaki üyeleri gösterir:
 | [is_linked_to_content](/cells/python-net/tr/aspose.cells.properties/documentproperty/is_linked_to_content) | Bu özelliğin içeriğe bağlı olup olmadığını gösterir|
 | [source](/cells/python-net/tr/aspose.cells.properties/documentproperty/source) | Bağlantılı içerik kaynağı.|
 | [type](/cells/python-net/tr/aspose.cells.properties/documentproperty/type) | Özelliğin veri türünü alır.|
-| [is_generated_name](/cells/python-net/tr/aspose.cells.properties/documentproperty/is_generated_name) | Bu özelliğin OLE2 deposunda bir adı yoksa true değerini döndürür.<br/> ve yalnızca genel API için benzersiz bir ad oluşturuldu.|
+| [is_generated_name](/cells/python-net/tr/aspose.cells.properties/documentproperty/is_generated_name) |Bu özelliğin OLE2 depolamasında bir adı yoksa doğruyu döndürür<br/> ve yalnızca herkese açık API isimli benzersiz bir isim üretildi.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [to_int()](/cells/python-net/tr/aspose.cells.properties/documentproperty/to_int/#) | Özellik değerini tamsayı olarak döndürür.|
-| [to_double()](/cells/python-net/tr/aspose.cells.properties/documentproperty/to_double/#) |Özellik değerini double olarak döndürür.|
-| [to_date_time()](/cells/python-net/tr/aspose.cells.properties/documentproperty/to_date_time/#) | Özellik değerini yerel saat diliminde DateTime olarak döndürür.|
-| [to_bool()](/cells/python-net/tr/aspose.cells.properties/documentproperty/to_bool/#) | Özellik değerini bool olarak döndürür.|
+| [`to_int(self)`](/cells/python-net/tr/aspose.cells.properties/documentproperty/to_int/#) | Özellik değerini tam sayı olarak döndürür.|
+| [`to_double(self)`](/cells/python-net/tr/aspose.cells.properties/documentproperty/to_double/#) | Özellik değerini double olarak döndürür.|
+| [`to_date_time(self)`](/cells/python-net/tr/aspose.cells.properties/documentproperty/to_date_time/#) | Özelliğin değerini yerel saat diliminde DateTime olarak döndürür.|
+| [`to_bool(self)`](/cells/python-net/tr/aspose.cells.properties/documentproperty/to_bool/#) | Özellik değerini bool olarak döndürür.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](..)
+* modül [`aspose.cells.properties`](..)

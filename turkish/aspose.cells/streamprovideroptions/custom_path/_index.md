@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  custom_path mülk
 
-Başvurulan kaynak için oluşturulan html dosyasına kaydedilen kullanıcı özel yolu (URL). Kullanıcı tarafından tanımlanmamışsa, DefaultPath kullanılacaktır.
-Örneğin, sayfa verileri kullanıcı tarafından d:/sheet001.htm'ye kaydedilecek, ana html dosyasında kullanılan url "d:/sheet001.htm" veya ana html tarafından erişilebilen diğer geçerli göreli yol olmalıdır. dosya.
+Kullanıcı tarafından tanımlanan yol (URL), başvurulan kaynak için oluşturulan HTML dosyasına kaydedilir. Kullanıcı tarafından tanımlanmamışsa, DefaultPath kullanılır.
+Örneğin, sayfa verileri kullanıcı tarafından d:/sheet001.htm'ye kaydedilecek, ana html dosyasında kullanılan URL "d:/sheet001.htm" veya ana html dosyası tarafından erişilebilen başka geçerli bir bağıl yol olmalıdır.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def custom_path(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [StreamProviderOptions](/cells/python-net/tr/aspose.cells/streamprovideroptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`StreamProviderOptions`](/cells/python-net/tr/aspose.cells/streamprovideroptions)

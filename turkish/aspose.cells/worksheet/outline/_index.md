@@ -3,13 +3,13 @@ title: outline mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 670
+weight: 700
 url: /tr/aspose.cells/worksheet/outline/
 is_root: false
 ---
 ##  outline mülk
 
-Bu çalışma sayfasında outline'i alır.
+Bu çalışma kağıdında outline'i alır.
 ###  Tanım:
 ```python
 @property

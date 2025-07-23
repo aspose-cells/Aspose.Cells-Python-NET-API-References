@@ -3,14 +3,14 @@ title: export_formula mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 310
 url: /tr/aspose.cells.saving/ebooksaveoptions/export_formula/
 is_root: false
 ---
 ##  export_formula mülk
 
-Dosyayı html'ye kaydederken formülün dışa aktarılıp aktarılmayacağını belirtir. Varsayılan değer doğrudur.
-Çıktı html'sini excel'e aktarmak istiyorsanız lütfen varsayılan değeri koruyun.
+Dosyayı HTML'e kaydederken formülün dışa aktarılıp aktarılmayacağını belirtir. Varsayılan değer true'dur.
+Çıktı html'ini Excel'e aktarmak istiyorsanız lütfen varsayılan değeri koruyun.
 ###  Tanım:
 ```python
 @property

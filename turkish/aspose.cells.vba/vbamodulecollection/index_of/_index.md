@@ -3,20 +3,21 @@ title: index_of yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 80
+weight: 90
 url: /tr/aspose.cells.vba/vbamodulecollection/index_of/
 is_root: false
 ---
-##  index_of {#aspose.cells.vba.VbaModule-int}
-Belirtilen nesneyi arar ve belirtilen dizinden son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.
+##  index_of(self, item, index) {#aspose.cells.vba.VbaModule-int}
+Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının, belirtilen indeksten son elemana kadar uzanan ilk oluşumunun sıfırdan başlayan indeksini döndürür.
 
 
 ###  İadeler
 
-StartIndex'ten bulunursa son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki değerin ilk oluşumunun sıfır tabanlı dizini; aksi halde -1.
+Dizi listesindeki eleman aralığının başlangıç indeksinden son elemana kadar uzanan ilk değer oluşumunun sıfırdan başlayan indeksi, bulunursa; aksi takdirde -1.
 
 
 ```python
+
 def index_of(self, item, index):
     ...
 ```
@@ -24,20 +25,21 @@ def index_of(self, item, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item | [`VbaModule`](/cells/python-net/tr/aspose.cells.vba/vbamodule) | Dizi listesinde bulunacak nesne. Değer null olabilir.|
-| index | int | Aramanın sıfır tabanlı başlangıç dizini. 0 (sıfır) boş bir listede geçerlidir.|
+| item | [`VbaModule`](/cells/python-net/tr/aspose.cells.vba/vbamodule) | Dizi listesinde bulunacak nesne. Değeri null olabilir.|
+| index | int | Aramanın sıfırdan başlayan başlangıç indeksi. Boş bir listede 0 (sıfır) geçerlidir.|
 
 
-##  index_of {#aspose.cells.vba.VbaModule-int-int}
-Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğeyi içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.
+##  index_of(self, item, index, count) {#aspose.cells.vba.VbaModule-int-int}
+Belirtilen nesneyi arar ve dizi listesindeki eleman aralığında belirtilen indeksten başlayıp belirtilen sayıda eleman içeren ilk oluşumun sıfırdan başlayan indeksini döndürür.
 
 
 ###  İadeler
 
-startIndex ile başlayan ve bulunursa öğelerin sayısını içeren dizi listesindeki öğe aralığı içindeki değerin ilk oluşumunun sıfır tabanlı dizini; aksi halde -1.
+Dizi listesindeki eleman aralığındaki değerin ilk oluşumunun sıfırdan başlayan indeksi, startIndex'ten başlar ve bulunursa eleman sayısını içerir; aksi takdirde -1.
 
 
 ```python
+
 def index_of(self, item, index, count):
     ...
 ```
@@ -45,9 +47,9 @@ def index_of(self, item, index, count):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item | [`VbaModule`](/cells/python-net/tr/aspose.cells.vba/vbamodule) | Dizi listesinde bulunacak nesne. Değer null olabilir.|
-| index | int | Aramanın sıfır tabanlı başlangıç dizini. 0 (sıfır) boş bir listede geçerlidir.|
-| count | int | Aranacak bölümdeki öğe sayısı.|
+| item | [`VbaModule`](/cells/python-net/tr/aspose.cells.vba/vbamodule) | Dizi listesinde bulunacak nesne. Değeri null olabilir.|
+| index | int | Aramanın sıfırdan başlayan başlangıç indeksi. Boş bir listede 0 (sıfır) geçerlidir.|
+| count | int | Aranacak bölümdeki eleman sayısı.|
 
 
 

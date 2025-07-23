@@ -3,7 +3,7 @@ title: text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 100
 url: /tr/aspose.cells.digitalsignatures/digitalsignature/text/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def text(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.digitalsignatures](../../)
-* sınıf [DigitalSignature](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignature)
+* modül [`aspose.cells.digitalsignatures`](../../)
+* sınıf [`DigitalSignature`](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignature)

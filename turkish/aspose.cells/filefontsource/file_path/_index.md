@@ -18,5 +18,5 @@ def file_path(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FileFontSource](/cells/python-net/tr/aspose.cells/filefontsource)
+* modül [`aspose.cells`](../../)
+* sınıf [`FileFontSource`](/cells/python-net/tr/aspose.cells/filefontsource)

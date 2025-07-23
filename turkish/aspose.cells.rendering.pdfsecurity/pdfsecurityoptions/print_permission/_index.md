@@ -14,7 +14,7 @@ Belgenin yazdırılmasına izin verilip verilmeyeceğini belirtir.
 ###  Notlar
 
  Muhtemelen en yüksek kalite seviyesinde değil,
-[`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission)'in de ayarlanıp ayarlanmayacağına bağlı olarak.
+[`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission)'in de ayarlanıp ayarlanmadığını kontrol edin.
 ###  Tanım:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_reference mülk
 
-Diğer çalışma sayfalarındaki güncelleme başvurularının olup olmadığını gösterir.
+Diğer çalışma sayfalarındaki referansların güncellenip güncellenmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DeleteOptions](/cells/python-net/tr/aspose.cells/deleteoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`DeleteOptions`](/cells/python-net/tr/aspose.cells/deleteoptions)

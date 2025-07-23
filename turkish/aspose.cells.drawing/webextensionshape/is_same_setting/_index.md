@@ -3,11 +3,11 @@ title: is_same_setting yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 160
 url: /tr/aspose.cells.drawing/webextensionshape/is_same_setting/
 is_root: false
 ---
-##  is_same_setting {#any}
+##  is_same_setting(self, obj) {#any}
 Şeklin aynı olup olmadığını döndürür.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def is_same_setting(self, obj):
     ...
 ```

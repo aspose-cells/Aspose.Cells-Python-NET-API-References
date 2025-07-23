@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Line](/cells/python-net/tr/aspose.cells.drawing/line)
-* sınıf [LineType](/cells/python-net/tr/aspose.cells.drawing/linetype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)
+* sınıf [`LineType`](/cells/python-net/tr/aspose.cells.drawing/linetype)

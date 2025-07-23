@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  icon_set_type mülk
 
-Simge seti türünü temsil eder.
+Simge kümesi türünü temsil eder.
 
 ###  Notlar
 
-Yalnızca [SortOnType](/cells/python-net/tr/aspose.cells/sortontype), SortOnType.Icon olduğunda etkiler.
+Sadece [`DataSorterKey.type`](/cells/python-net/tr/aspose.cells/datasorterkey#type) [`SortOnType.ICON`](/cells/python-net/tr/aspose.cells/sortontype#ICON) olduğunda geçerli olur.
 ###  Tanım:
 ```python
 @property
@@ -22,7 +22,6 @@ def icon_set_type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataSorterKey](/cells/python-net/tr/aspose.cells/datasorterkey)
-* sınıf [IconSetType](/cells/python-net/tr/aspose.cells/iconsettype)
-* sınıf [SortOnType](/cells/python-net/tr/aspose.cells/sortontype)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataSorterKey`](/cells/python-net/tr/aspose.cells/datasorterkey)
+* sınıf [`IconSetType`](/cells/python-net/tr/aspose.cells/iconsettype)

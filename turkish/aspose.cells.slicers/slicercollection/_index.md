@@ -12,34 +12,35 @@ Belirtilen çalışma sayfasındaki tüm Slicer nesnelerinin koleksiyonunu belir
 
 
 
-SlicerCollection türü aşağıdaki üyeleri gösterir:
+SlicerCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [capacity](/cells/python-net/tr/aspose.cells.slicers/slicercollection/capacity) | Dizi listesinin içerebileceği öğe sayısını alır veya ayarlar.|
+| [capacity](/cells/python-net/tr/aspose.cells.slicers/slicercollection/capacity) | Dizi listesinin içerebileceği eleman sayısını alır veya ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add(pivot, dest_cell_name, base_field_name)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-str) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
-| [add(pivot, row, column, base_field_name)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
-| [add(pivot, row, column, base_field_index)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-int) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
-| [add(pivot, dest_cell_name, base_field_index)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-int) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
-| [add(pivot, row, column, base_field)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
-| [add(pivot, dest_cell_name, base_field)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
-| [add(table, index, dest_cell_name)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-int-str) | Veri kaynağı olarak ListObjet kullanarak yeni bir Dilimleyici ekleyin|
-| [add(table, list_column, dest_cell_name)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str) | Veri kaynağı olarak ListObjet kullanarak yeni bir Dilimleyici ekleyin|
-| [add(table, list_column, row, column)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int) | Veri kaynağı olarak ListObjet kullanarak yeni bir Dilimleyici ekleyin|
-| [copy_to(array)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) |Dizi listesindeki bir dizi öğeyi, hedef dizi listesinin belirtilen dizininden başlayarak uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of(item, index)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/index_of/#Slicer-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of(item, index, count)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/index_of/#Slicer-int-int) | Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/last_index_of/#Slicer) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index, count)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int-int) |Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [binary_search(item)](/cells/python-net/tr/aspose.cells.slicers/slicercollection/binary_search/#Slicer) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-str) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
+| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
+| [`add(self, pivot, row, column, base_field_index)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-int) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
+| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-int) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
+| [`add(self, pivot, row, column, base_field)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-aspose.cells.pivot.pivotfield) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
+| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-aspose.cells.pivot.pivotfield) | Veri kaynağı olarak PivotTable'ı kullanarak yeni bir Dilimleyici ekleyin|
+| [`add(self, table, index, dest_cell_name)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-int-str) | Veri kaynağı olarak ListObjet'i kullanarak yeni bir Dilimleyici ekleyin|
+| [`add(self, table, list_column, dest_cell_name)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-str) | Veri kaynağı olarak ListObjet'i kullanarak yeni bir Dilimleyici ekleyin|
+| [`add(self, table, list_column, row, column)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-int-int) | Veri kaynağı olarak ListObjet'i kullanarak yeni bir Dilimleyici ekleyin|
+| [`copy_to(self, array)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/copy_to/#list) |Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen indeksinden başlayarak, dizi listesindeki bir dizi öğeyi uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının, belirtilen indeksten son elemana kadar uzanan ilk oluşumunun sıfırdan başlayan indeksini döndürür.|
+| [`index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığında belirtilen indeksten başlayıp belirtilen sayıda eleman içeren ilk oluşumun sıfırdan başlayan indeksini döndürür.|
+| [`last_index_of(self, item)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfırdan başlayan dizinini döndürür.|
+| [`last_index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int) |Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının ilk elemanından belirtilen dizine kadar uzanan son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int-int) | Belirtilen nesneyi arar ve dizi listesindeki belirtilen sayıda öğeyi içeren ve belirtilen dizinde sona eren öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`get(self, name)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/get/#str) | Dilimleyicinin adına göre dilimleyiciyi alır.|
+| [`binary_search(self, item)`](/cells/python-net/tr/aspose.cells.slicers/slicercollection/binary_search/#aspose.cells.slicers.slicer) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfırdan başlayan dizinini döndürür.|
 
 
 
@@ -97,4 +98,4 @@ book.save("out.xlsx")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](..)
+* modül [`aspose.cells.slicers`](..)

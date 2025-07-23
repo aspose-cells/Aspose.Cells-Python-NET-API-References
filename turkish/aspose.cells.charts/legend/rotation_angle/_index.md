@@ -3,13 +3,13 @@ title: rotation_angle mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 380
 url: /tr/aspose.cells.charts/legend/rotation_angle/
 is_root: false
 ---
 ##  rotation_angle mülk
 
-Metin döndürme açısını temsil eder.
+Metnin dönüş açısını temsil eder.
 
 ###  Notlar
 

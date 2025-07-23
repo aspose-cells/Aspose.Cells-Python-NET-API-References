@@ -3,13 +3,13 @@ title: lower_right_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 780
+weight: 790
 url: /tr/aspose.cells.drawing/smartartshape/lower_right_row/
 is_root: false
 ---
 ##  lower_right_row mülk
 
-Sağ alt köşe satır dizinini temsil eder.
+Sağ alt köşedeki satır indeksini temsil eder.
 
 ###  Örnek
 

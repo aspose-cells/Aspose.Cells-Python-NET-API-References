@@ -3,17 +3,17 @@ title: is_font_substitution_char_granularity mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 180
 url: /tr/aspose.cells.rendering/imageorprintoptions/is_font_substitution_char_granularity/
 is_root: false
 ---
 ##  is_font_substitution_char_granularity mülk
 
-Yalnızca hücre yazı tipi uyumlu olmadığında karakterin yazı tipinin değiştirilip değiştirilmeyeceğini belirtir.
+Hücre yazı tipi karakterle uyumlu olmadığında yalnızca karakterin yazı tipinin değiştirilip değiştirilmeyeceğini belirtir.
 
 ###  Notlar
 
-Varsayılan yanlıştır. Önce Workbook'un varsayılan yazı tipini ve hücre yazı tipi için PdfSaveOption/system'i deneyeceğiz.
+Varsayılan değer false'tur. Öncelikle Workbook ve PdfSaveOption/system'in varsayılan yazı tipini deneyeceğiz.
 ###  Tanım:
 ```python
 @property

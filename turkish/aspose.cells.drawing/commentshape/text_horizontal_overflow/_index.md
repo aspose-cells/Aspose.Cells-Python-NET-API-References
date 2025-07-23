@@ -3,7 +3,7 @@ title: text_horizontal_overflow mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /tr/aspose.cells.drawing/commentshape/text_horizontal_overflow/
 is_root: false
 ---

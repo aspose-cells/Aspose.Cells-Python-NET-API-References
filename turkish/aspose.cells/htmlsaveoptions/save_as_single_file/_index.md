@@ -3,7 +3,7 @@ title: save_as_single_file mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 620
+weight: 710
 url: /tr/aspose.cells/htmlsaveoptions/save_as_single_file/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Varsayılan değer false'tur.
 ###  Notlar
 
 Çalışma kitabında birden fazla çalışma sayfası veya resim gibi diğer gerekli kaynaklar varsa,
- genellikle bu çalışma sayfalarının ve diğer kaynakların ayrı dosyalara kaydedilmesi gerekir.
-Bazı senaryolarda, örneğin aktarım kolaylığı sağlamak amacıyla, kullanıcının yalnızca tek bir sonuç dosyasını alması gerekebilir.
+ Genellikle bu çalışma sayfaları ve diğer kaynakların ayrı dosyalara kaydedilmesi gerekir.
+Bazı senaryolarda, kullanıcının yalnızca bir sonuç dosyası alması gerekebilir, örneğin aktarımın kolaylığı için.
 Eğer öyleyse, kullanıcı bu özelliği true olarak ayarlayabilir.
 ###  Tanım:
 ```python

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_crop mülk
 
-Görüntünün yüksekliğinin oranı olarak ifade edilen, kırpma dikdörtgeninin üst kısmının konumunu temsil eder.
+Görüntünün yüksekliğine oranla ifade edilen kırpma dikdörtgeninin üst kısmının konumunu temsil eder.
 ###  Tanım:
 ```python
 @property

@@ -3,7 +3,7 @@ title: query_tables mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 730
+weight: 760
 url: /tr/aspose.cells/worksheet/query_tables/
 is_root: false
 ---

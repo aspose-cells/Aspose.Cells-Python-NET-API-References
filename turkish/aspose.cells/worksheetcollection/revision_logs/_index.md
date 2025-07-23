@@ -3,13 +3,13 @@ title: revision_logs mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 360
 url: /tr/aspose.cells/worksheetcollection/revision_logs/
 is_root: false
 ---
 ##  revision_logs mülk
 
-Revizyon günlüklerini temsil eder.
+Revizyon kayıtlarını temsil eder.
 ###  Tanım:
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 50
 url: /tr/aspose.cells.charts/seriescollection/change_series_order/
 is_root: false
 ---
-##  change_series_order(source_index, dest_index) {#int-int}
-İki dizinin sıralamasını doğrudan değiştirir.
+##  change_series_order(self, source_index, dest_index) {#int-int}
+İki serinin sırasını doğrudan değiştirir.
 
 
 
 ```python
+
 def change_series_order(self, source_index, dest_index):
     ...
 ```
@@ -20,11 +21,16 @@ def change_series_order(self, source_index, dest_index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_index | int | geçerli dizin|
-| dest_index | int | hedef dizin|
+| source_index | int | Mevcut endeks|
+| dest_index | int | Hedef endeksi|
+###  Notlar
 
+NOT: Bu yöntem artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen SeriesCollection.SwapSeries metodunu kullanın.
+ Bu yöntem 12 ay sonra, Haziran 2024'ten itibaren kaldırılacak.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SeriesCollection](/cells/python-net/tr/aspose.cells.charts/seriescollection)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SeriesCollection`](/cells/python-net/tr/aspose.cells.charts/seriescollection)

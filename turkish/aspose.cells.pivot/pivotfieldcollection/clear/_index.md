@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells.pivot/pivotfieldcollection/clear/
 is_root: false
 ---
-##  clear() {#}
+##  clear(self) {#}
 clear PivotFieldCollection'ın tüm alanları
 
 
 
 ```python
+
 def clear(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotFieldCollection](/cells/python-net/tr/aspose.cells.pivot/pivotfieldcollection)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotFieldCollection`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldcollection)

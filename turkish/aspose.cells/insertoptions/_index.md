@@ -3,7 +3,7 @@ title: InsertOptions sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 980
+weight: 890
 url: /tr/aspose.cells/insertoptions/
 is_root: false
 ---
@@ -17,7 +17,7 @@ InsertOptions türü aşağıdaki üyeleri ortaya çıkarır:
 ###  İnşaatçılar
 | Oluşturucu| Tanım|
 | :- | :- |
-| [__init__](/cells/python-net/tr/aspose.cells/insertoptions/__init__/#) | InsertOptions'ın yeni bir örneğini oluşturur|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells/insertoptions/__init__/#) | InsertOptions'ın yeni bir örneğini oluşturur|
 
 
 ###  Özellikler

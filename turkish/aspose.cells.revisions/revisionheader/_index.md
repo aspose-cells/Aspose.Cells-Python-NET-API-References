@@ -8,25 +8,25 @@ url: /tr/aspose.cells.revisions/revisionheader/
 is_root: false
 ---
 ##  RevisionHeader sınıfı
-Bu çalışma kitabı için gerçekleşen belirli değişikliklerin bir listesini temsil eder.
+Bu çalışma kitabında gerçekleşen belirli değişikliklerin listesini temsil eder.
 
 
 
-RevisionHeader türü aşağıdaki üyeleri gösterir:
+RevisionHeader türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [RevisionHeader()](/cells/python-net/tr/aspose.cells.revisions/revisionheader/__init__/#) | RevisionHeader'ın yeni bir örneğini oluşturur|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells.revisions/revisionheader/__init__/#) | RevisionHeader'ın yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [saved_time](/cells/python-net/tr/aspose.cells.revisions/revisionheader/saved_time) | Bu düzeltme kümesinin kaydedildiği tarihi ve saati alır ve ayarlar.|
+| [saved_time](/cells/python-net/tr/aspose.cells.revisions/revisionheader/saved_time) | Bu revizyon kümesinin kaydedildiği tarihi ve saati alır ve ayarlar.|
 | [user_name](/cells/python-net/tr/aspose.cells.revisions/revisionheader/user_name) | Revizyonu yapan kullanıcının adını alır ve ayarlar.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](..)
+* modül [`aspose.cells.revisions`](..)

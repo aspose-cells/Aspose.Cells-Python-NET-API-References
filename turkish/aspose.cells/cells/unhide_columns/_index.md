@@ -3,16 +3,17 @@ title: unhide_columns yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 970
+weight: 990
 url: /tr/aspose.cells/cells/unhide_columns/
 is_root: false
 ---
-##  unhide_columns {#int-int-float}
-Birden çok sütunu gösterin.
+##  unhide_columns(self, column, total_columns, width) {#int-int-float}
+Birden fazla sütunu göster.
 
 
 
 ```python
+
 def unhide_columns(self, column, total_columns, width):
     ...
 ```

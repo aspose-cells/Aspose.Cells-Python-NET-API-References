@@ -13,7 +13,7 @@ indent'i gösterir.
 
 ###  Notlar
 
-indent null veya boşsa, dışa aktarılan json formatlanmaz.
+indent boşsa veya null ise, dışa aktarılan json biçimlendirilmez.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def indent(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.utility](../../)
-* sınıf [ExportRangeToJsonOptions](/cells/python-net/tr/aspose.cells.utility/exportrangetojsonoptions)
+* modül [`aspose.cells.utility`](../../)
+* sınıf [`ExportRangeToJsonOptions`](/cells/python-net/tr/aspose.cells.utility/exportrangetojsonoptions)

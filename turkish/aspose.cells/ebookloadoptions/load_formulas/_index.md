@@ -3,13 +3,13 @@ title: load_formulas mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 250
 url: /tr/aspose.cells/ebookloadoptions/load_formulas/
 is_root: false
 ---
 ##  load_formulas mülk
 
-Orijinal html dosyası formüller içeriyorsa formüllerin içe aktarılıp aktarılmayacağını belirtir
+Orijinal HTML dosyası formüller içeriyorsa formüllerin içe aktarılıp aktarılmayacağını belirtir
 ###  Tanım:
 ```python
 @property

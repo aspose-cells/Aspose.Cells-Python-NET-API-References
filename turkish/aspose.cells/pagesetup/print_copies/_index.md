@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_copies mülk
 
-Yazdırılacak kopya sayısını alın ve ayarlar.
+Yazdırılacak kopya sayısını al ve ayarla.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_copies(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  store_type mülk
 
-Store özniteliğinin tanımladığı pazar yeri türünü alır ve ayarlar.
+Mağaza niteliğinin tanımladığı pazaryeri türünü alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def store_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionReference](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference)
-* sınıf [WebExtensionStoreType](/cells/python-net/tr/aspose.cells.webextensions/webextensionstoretype)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionReference`](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference)
+* sınıf [`WebExtensionStoreType`](/cells/python-net/tr/aspose.cells.webextensions/webextensionstoretype)

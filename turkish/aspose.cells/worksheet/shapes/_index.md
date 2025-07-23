@@ -3,13 +3,13 @@ title: shapes mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 750
+weight: 780
 url: /tr/aspose.cells/worksheet/shapes/
 is_root: false
 ---
 ##  shapes mülk
 
-Bu çalışma sayfasındaki shapes numaralı çizimin tamamını döndürür.
+Bu çalışma sayfasındaki shapes çizimlerinin tamamını döndürür.
 ###  Tanım:
 ```python
 @property

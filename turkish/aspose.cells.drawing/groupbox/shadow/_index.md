@@ -3,13 +3,13 @@ title: shadow mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 880
+weight: 890
 url: /tr/aspose.cells.drawing/groupbox/shadow/
 is_root: false
 ---
 ##  shadow mülk
 
-Grup kutusunda shadow olup olmadığını gösterir.
+Grup kutusunun shadow olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property

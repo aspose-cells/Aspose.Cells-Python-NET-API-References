@@ -3,13 +3,13 @@ title: is_multiple_item_selection_allowed mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 520
 url: /tr/aspose.cells.pivot/pivotfield/is_multiple_item_selection_allowed/
 is_root: false
 ---
 ##  is_multiple_item_selection_allowed mülk
 
-alanın birden fazla öğeye sahip olup olamayacağını belirtir
+alanın birden fazla öğeye sahip olup olamayacağını gösterir
 sayfa alanında seçili
 Varsayılan değer false'tur.
 ###  Tanım:

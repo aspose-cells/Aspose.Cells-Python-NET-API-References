@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  guid mülk
 
-Özel görünümün genel olarak benzersiz tanımlayıcısını alır.
+Özel görünümün küresel olarak benzersiz tanımlayıcısını alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def guid(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionCustomView](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionCustomView`](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview)

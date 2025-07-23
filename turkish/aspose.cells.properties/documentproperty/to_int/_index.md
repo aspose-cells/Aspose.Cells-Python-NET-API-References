@@ -7,12 +7,13 @@ weight: 50
 url: /tr/aspose.cells.properties/documentproperty/to_int/
 is_root: false
 ---
-##  to_int() {#}
-Özellik değerini tamsayı olarak döndürür.
+##  to_int(self) {#}
+Özellik değerini tam sayı olarak döndürür.
 
 
 
 ```python
+
 def to_int(self):
     ...
 ```
@@ -20,10 +21,10 @@ def to_int(self):
 
 ###  Notlar
 
-Özellik türü PropertyType.Number değilse bir istisna atar.
+Özellik türü PropertyType.Number değilse bir istisna fırlatır.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells.properties](../../)
-* sınıf [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty)

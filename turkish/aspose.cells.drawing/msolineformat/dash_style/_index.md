@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_style mülk
 
-Belirtilen satır için kısa çizgi stilini alır veya ayarlar.
+Belirtilen satır için çizgi stilini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def dash_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoLineDashStyle](/cells/python-net/tr/aspose.cells.drawing/msolinedashstyle)
-* sınıf [MsoLineFormat](/cells/python-net/tr/aspose.cells.drawing/msolineformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoLineDashStyle`](/cells/python-net/tr/aspose.cells.drawing/msolinedashstyle)
+* sınıf [`MsoLineFormat`](/cells/python-net/tr/aspose.cells.drawing/msolineformat)

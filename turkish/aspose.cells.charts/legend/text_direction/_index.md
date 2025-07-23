@@ -3,20 +3,20 @@ title: text_direction mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 420
 url: /tr/aspose.cells.charts/legend/text_direction/
 is_root: false
 ---
 ##  text_direction mülk
 
-Metin okuma sırasını temsil eder.
+Metnin okuma sırasını gösterir.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen ChartTextFrame.ReadingOrder özelliğini kullanın.
- Bu mülk, Mart 2020'den itibaren 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen ChartTextFrame.ReadingOrder özelliğini kullanın.
+Bu özellik Mart 2020'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

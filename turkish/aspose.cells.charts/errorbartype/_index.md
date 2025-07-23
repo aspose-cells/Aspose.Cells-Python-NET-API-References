@@ -12,18 +12,18 @@ Hata çubuğu miktar türünü temsil eder.
 
 
 
-ErrorBarType türü aşağıdaki üyeleri gösterir:
+ErrorBarType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | CUSTOM | InnerCustom değer türü.|
 | FIXED_VALUE | Sabit değer türü.|
-| PERCENT | yüzde türü|
+| PERCENT | Yüzde türü|
 | ST_DEV | Standart sapma türü.|
 | ST_ERROR | Standart hata türü.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

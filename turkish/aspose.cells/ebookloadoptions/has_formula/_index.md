@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_formula mülk
 
-Metnin "=" ile başlıyorsa formül olup olmadığını belirtir.
+"=" ile başlıyorsa metnin formül olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property

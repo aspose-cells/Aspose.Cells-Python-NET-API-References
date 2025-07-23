@@ -7,12 +7,13 @@ weight: 100
 url: /tr/aspose.cells/autofilter/filter_top10/
 is_root: false
 ---
-##  filter_top10(field_index, is_top, is_percent, item_count) {#int-bool-bool-int}
+##  filter_top10(self, field_index, is_top, is_percent, item_count) {#int-bool-bool-int}
 Listedeki ilk 10 öğeyi filtrele
 
 
 
 ```python
+
 def filter_top10(self, field_index, is_top, is_percent, item_count):
     ...
 ```
@@ -20,13 +21,13 @@ def filter_top10(self, field_index, is_top, is_percent, item_count):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| field_index | int | Filtreyi temel almak istediğiniz alanın tamsayı ofseti<br/> (listenin solundan; en soldaki alan 0 alanıdır).|
-| is_top | bool | Filtrenin üstten mi yoksa alttan mı olduğunu gösterir|
+| field_index | int | Filtreyi temel almak istediğiniz alanın tam sayı ofseti<br/> (listenin solundan; en soldaki alan 0 alanıdır).|
+| is_top | bool | Filtrenin üstten mi yoksa alttan mı yapılacağını belirtir|
 | is_percent | bool | Öğelerin yüzde mi yoksa sayı mı olduğunu gösterir|
-| item_count | int | öğe sayısı|
+| item_count | int | Öğe sayısı|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AutoFilter](/cells/python-net/tr/aspose.cells/autofilter)
+* modül [`aspose.cells`](../../)
+* sınıf [`AutoFilter`](/cells/python-net/tr/aspose.cells/autofilter)

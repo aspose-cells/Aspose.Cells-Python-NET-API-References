@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  page_setup mülk
 
-Bu grafikteki sayfa yapısı açıklamasını temsil eder.
+Bu grafikteki sayfa düzeni açıklamasını temsil eder.
 ###  Tanım:
 ```python
 @property

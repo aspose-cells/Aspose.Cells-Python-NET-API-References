@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_alignment_applied mülk
 
-Hizalama formatının uygulanması gerekip gerekmediğini belirtin.
+Hizalama biçimlendirmesinin uygulanıp uygulanmayacağını belirtin.
 
 ###  Notlar
 
-Yalnızca adlandırılmış stil için.
+Sadece adlandırılmış stil için.
 ###  Tanım:
 ```python
 @property

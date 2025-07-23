@@ -7,12 +7,13 @@ weight: 50
 url: /tr/aspose.cells/individualfontconfigs/set_font_folders/
 is_root: false
 ---
-##  set_font_folders(font_folders, recursive) {#list-bool}
+##  set_font_folders(self, font_folders, recursive) {#list-bool}
 Yazı tipi klasörlerini ayarlar
 
 
 
 ```python
+
 def set_font_folders(self, font_folders, recursive):
     ...
 ```
@@ -26,5 +27,5 @@ def set_font_folders(self, font_folders, recursive):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [IndividualFontConfigs](/cells/python-net/tr/aspose.cells/individualfontconfigs)
+* modül [`aspose.cells`](../../)
+* sınıf [`IndividualFontConfigs`](/cells/python-net/tr/aspose.cells/individualfontconfigs)

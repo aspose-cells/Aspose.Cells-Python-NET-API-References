@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_area mülk
 
-Korunacak hücre alanını temsil eden [ProtectedRange.cell_area](/cells/python-net/tr/aspose.cells/protectedrange#cell_area) nesnesini alır.
+Korunacak hücre alanını temsil eden [`ProtectedRange.cell_area`](/cells/python-net/tr/aspose.cells/protectedrange#cell_area) nesnesini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def cell_area(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellArea](/cells/python-net/tr/aspose.cells/cellarea)
-* sınıf [ProtectedRange](/cells/python-net/tr/aspose.cells/protectedrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea)
+* sınıf [`ProtectedRange`](/cells/python-net/tr/aspose.cells/protectedrange)

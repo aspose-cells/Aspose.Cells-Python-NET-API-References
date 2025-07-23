@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value2 mülk
 
-Veri doğrulamayla ilişkili ikinci değeri temsil eder.
+Veri doğrulamasıyla ilişkili ikinci değeri temsil eder.
 ###  Tanım:
 ```python
 @property

@@ -12,25 +12,23 @@ Yeniden adlandırma sayfasının revizyonunu temsil eder.
 
 
 
-**Miras:** [RevisionRenameSheet](/cells/python-net/aspose.cells.revisions/revisionrenamesheet) → 
-[Revision](/cells/python-net/tr/aspose.cells.revisions/revision)
+**Miras:** [`RevisionRenameSheet`](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet)
 
 
 
-RevisionRenameSheet türü aşağıdaki üyeleri gösterir:
+RevisionRenameSheet türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [type](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet/type) | Düzeltmenin türünü temsil eder.|
-| [worksheet](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet/worksheet) | Çalışma sayfasını alır.|
-| [id](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet/id) | Bu revizyonun numarasını alır.|
+| [type](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet/type) | Revizyonun türünü temsil eder.|
+| [worksheet](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet/worksheet) |  |
+| [id](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet/id) |  |
 | [old_name](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet/old_name) | Çalışma sayfasının eski adını alır.|
 | [new_name](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet/new_name) | Çalışma sayfasının yeni adını alır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](..)
-* sınıf [Revision](/cells/python-net/tr/aspose.cells.revisions/revision)
-* sınıf [RevisionRenameSheet](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet)
+* modül [`aspose.cells.revisions`](..)
+* sınıf [`RevisionRenameSheet`](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet)

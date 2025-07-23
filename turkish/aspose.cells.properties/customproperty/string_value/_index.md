@@ -13,10 +13,10 @@ is_root: false
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen CustomProperty.Value özelliğini kullanın.
- Bu mülk, Haziran 2010'dan bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen CustomProperty.Value özelliğini kullanın.
+ Bu özellik Haziran 2010'dan itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -28,5 +28,5 @@ def string_value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [CustomProperty](/cells/python-net/tr/aspose.cells.properties/customproperty)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`CustomProperty`](/cells/python-net/tr/aspose.cells.properties/customproperty)

@@ -3,13 +3,13 @@ title: x mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1300
+weight: 1310
 url: /tr/aspose.cells.drawing/scrollbar/x/
 is_root: false
 ---
 ##  x mülk
 
-Çalışma sayfasının sol kenarlığından şeklin yatay uzaklığını piksel biriminde alır ve ayarlar.
+Çalışma sayfasının sol kenarından şeklin yatay ofsetini piksel cinsinden alır ve ayarlar.
 
 ###  Örnek
 

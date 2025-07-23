@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_gridlines mülk
 
-Hücre kılavuz çizgilerinin sayfada yazdırılıp yazdırılmadığını temsil eder.
+Sayfada hücre kılavuz çizgilerinin yazdırılıp yazdırılmayacağını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_gridlines(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

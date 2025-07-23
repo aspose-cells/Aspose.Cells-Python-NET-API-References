@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  revisions mülk
 
-Bu günlükteki tüm revisions'i alır.
+Bu günlükteki tüm revisions'leri alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def revisions(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionCollection](/cells/python-net/tr/aspose.cells.revisions/revisioncollection)
-* sınıf [RevisionLog](/cells/python-net/tr/aspose.cells.revisions/revisionlog)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionCollection`](/cells/python-net/tr/aspose.cells.revisions/revisioncollection)
+* sınıf [`RevisionLog`](/cells/python-net/tr/aspose.cells.revisions/revisionlog)

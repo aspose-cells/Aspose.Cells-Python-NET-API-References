@@ -3,7 +3,7 @@ title: range mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 120
 url: /tr/aspose.cells.tables/listcolumn/range/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def range(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [ListColumn](/cells/python-net/tr/aspose.cells.tables/listcolumn)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`ListColumn`](/cells/python-net/tr/aspose.cells.tables/listcolumn)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)

@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells.webextensions/webextensionbindingcollection/add/
 is_root: false
 ---
-##  add() {#}
-Bir Office Eklentisi ile belgedeki veriler arasında bağlayıcı bir ilişki ekler.
+##  add(self) {#}
+Office Eklentisi ile belgedeki veriler arasında bağlayıcı bir ilişki ekler.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Bir Office Eklentisi ile belgedeki veriler arasında bağlayıcı bir ilişki ek
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionBindingCollection](/cells/python-net/tr/aspose.cells.webextensions/webextensionbindingcollection)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionBindingCollection`](/cells/python-net/tr/aspose.cells.webextensions/webextensionbindingcollection)

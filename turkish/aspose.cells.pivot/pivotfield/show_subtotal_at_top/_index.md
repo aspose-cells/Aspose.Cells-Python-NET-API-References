@@ -3,17 +3,17 @@ title: show_subtotal_at_top mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 590
+weight: 690
 url: /tr/aspose.cells.pivot/pivotfield/show_subtotal_at_top/
 is_root: false
 ---
 ##  show_subtotal_at_top mülk
 
-ShowInOutlineForm doğru olduğunda, alt toplamları öğe listesinin alt kısmı yerine üst kısmında görüntüleyin
+ShowInOutlineForm true olduğunda, ara toplamları öğe listesinin en altında değil en üstünde görüntüle
 
 ###  Notlar
 
-Yalnızca ShowInOutlineForm doğru olduğunda çalışır.
+Yalnızca ShowInOutlineForm true olduğunda çalışır.
 ###  Tanım:
 ```python
 @property

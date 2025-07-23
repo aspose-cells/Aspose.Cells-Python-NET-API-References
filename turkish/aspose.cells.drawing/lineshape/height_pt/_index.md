@@ -3,13 +3,13 @@ title: height_pt mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 530
+weight: 520
 url: /tr/aspose.cells.drawing/lineshape/height_pt/
 is_root: false
 ---
 ##  height_pt mülk
 
-Nokta birimi cinsinden şeklin yüksekliğini temsil eder.
+Şeklin yüksekliğini nokta birimiyle gösterir.
 
 ###  Örnek
 

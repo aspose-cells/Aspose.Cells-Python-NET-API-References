@@ -3,13 +3,13 @@ title: shadow_effect mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 960
+weight: 970
 url: /tr/aspose.cells.drawing/listbox/shadow_effect/
 is_root: false
 ---
 ##  shadow_effect mülk
 
-Grafik öğesi veya şekil için gölge efektini belirten [`ShadowEffect`](/cells/python-net/tr/aspose.cells.drawing/shadoweffect) nesnesini temsil eder.
+Grafik öğesi veya şekli için gölge efektini belirten [`ShadowEffect`](/cells/python-net/tr/aspose.cells.drawing/shadoweffect) nesnesini temsil eder.
 
 ###  Örnek
 

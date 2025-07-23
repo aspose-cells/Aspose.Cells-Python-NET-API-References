@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  html_note mülk
 
-Bu yorumdaki verileri ve bazı biçimleri içeren html dizesini alır ve ayarlar.
+Bu yorumda veri ve bazı formatları içeren html dizesini alır ve ayarlar.
 
 ###  Notlar
 
-Bu, zincirleme bir yorumsa not değiştirilemez; aksi halde MS Excel, bunu zincirleme yorum olarak işleyemedi.
+Bu bir dizi yorum ise not değiştirilemez, aksi takdirde MS Excel bunu dizi yorum olarak işleyemez.
 
 ###  Örnek
 

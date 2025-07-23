@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sheet_position mülk
 
-Sayfa sekme çubuğundaki yeni sayfanın sıfır tabanlı konumunu alır.
+Sayfa sekme çubuğunda yeni sayfanın sıfır tabanlı konumunu alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def sheet_position(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionInsertSheet](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionInsertSheet`](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet)

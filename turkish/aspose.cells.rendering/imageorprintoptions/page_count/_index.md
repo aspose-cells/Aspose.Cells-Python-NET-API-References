@@ -3,7 +3,7 @@ title: page_count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 230
 url: /tr/aspose.cells.rendering/imageorprintoptions/page_count/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Kaydedilecek sayfa sayısını alır veya ayarlar.
 
 ###  Notlar
 
-Varsayılan, System.Int32.MaxValue'dur; bu, tüm sayfaların oluşturulacağı anlamına gelir.
+Varsayılan değer System.Int32.MaxValue'dir, bu da tüm sayfaların işleneceği anlamına gelir.
 ###  Tanım:
 ```python
 @property

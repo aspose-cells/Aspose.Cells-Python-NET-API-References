@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_as_icon mülk
 
- Belirtilen nesne bir simge olarak görüntüleniyorsa doğrudur
+ Belirtilen nesne bir simge olarak görüntüleniyorsa Doğru
 ve görüntü otomatik olarak değiştirilmeyecektir.
 ###  Tanım:
 ```python

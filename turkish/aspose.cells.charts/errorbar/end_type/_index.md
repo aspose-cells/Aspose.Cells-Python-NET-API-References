@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_type mülk
 
-Bir satırın sonu için bir ok başı belirtir.
+Bir satırın sonu için bir ok ucu belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def end_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ErrorBar](/cells/python-net/tr/aspose.cells.charts/errorbar)
-* sınıf [MsoArrowheadStyle](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadstyle)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ErrorBar`](/cells/python-net/tr/aspose.cells.charts/errorbar)
+* sınıf [`MsoArrowheadStyle`](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadstyle)

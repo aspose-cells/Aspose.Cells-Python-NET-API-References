@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_normalize_heights mülk
 
-Metne uygulanacak olan yüksekliğin normalizasyonunun normalize edilip edilmediğini gösterir.
+Metne uygulanacak yükseklik normalizasyonunun çalışıp çalışmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_normalize_heights(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)

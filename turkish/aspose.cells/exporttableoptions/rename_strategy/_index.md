@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rename_strategy mülk
 
-Sütunların yinelenen adlarına yönelik strateji.
+Sütun adlarının tekrarlanmasına yönelik strateji.
 ###  Tanım:
 ```python
 @property

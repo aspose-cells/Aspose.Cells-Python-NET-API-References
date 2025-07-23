@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_draft mülk
 
-Sayfanın grafiksiz yazdırılıp yazdırılmayacağını gösterir.
+Sayfanın grafiksiz olarak yazdırılıp yazdırılmayacağını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_draft(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

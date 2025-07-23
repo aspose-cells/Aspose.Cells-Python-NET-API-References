@@ -7,12 +7,13 @@ weight: 200
 url: /tr/aspose.cells/cells/delete_blank_columns/
 is_root: false
 ---
-##  delete_blank_columns() {#}
-Herhangi bir veri içermeyen tüm boş sütunları silin.
+##  delete_blank_columns(self) {#}
+Hiçbir veri içermeyen tüm boş sütunları silin.
 
 
 
 ```python
+
 def delete_blank_columns(self):
     ...
 ```
@@ -20,12 +21,13 @@ def delete_blank_columns(self):
 
 
 
-##  delete_blank_columns(options) {#DeleteOptions}
-Herhangi bir veri içermeyen tüm boş sütunları silin.
+##  delete_blank_columns(self, options) {#aspose.cells.DeleteOptions}
+Hiçbir veri içermeyen tüm boş sütunları silin.
 
 
 
 ```python
+
 def delete_blank_columns(self, options):
     ...
 ```
@@ -33,10 +35,10 @@ def delete_blank_columns(self, options):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| options | [DeleteOptions](/cells/python-net/tr/aspose.cells/deleteoptions) | Aralığı silme seçenekleri.|
+| options | [`DeleteOptions`](/cells/python-net/tr/aspose.cells/deleteoptions) | Aralığı silme seçenekleri.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

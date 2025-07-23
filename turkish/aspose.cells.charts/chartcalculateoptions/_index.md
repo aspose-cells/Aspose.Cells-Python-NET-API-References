@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/chartcalculateoptions/
 is_root: false
 ---
 ##  ChartCalculateOptions sınıfı
-Grafiğin hesaplanmasına yönelik seçenekleri temsil eder.
+Grafik hesaplama seçeneklerini temsil eder.
 
 
 
@@ -17,13 +17,13 @@ ChartCalculateOptions türü aşağıdaki üyeleri ortaya çıkarır:
 ###  İnşaatçılar
 | Oluşturucu| Tanım|
 | :- | :- |
-| [__init__](/cells/python-net/tr/aspose.cells.charts/chartcalculateoptions/__init__/#) | Grafiği hesaplamak için seçenekler oluşturur.|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells.charts/chartcalculateoptions/__init__/#) | Grafik hesaplama seçeneklerini oluşturur.|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [update_all_points](/cells/python-net/tr/aspose.cells.charts/chartcalculateoptions/update_all_points) | Grafik hesaplamasını gerçekleştirirken tüm veri noktalarının güncellenip güncellenmeyeceği. Varsayılan: Yanlış.<br/>Grafikteki her veri noktasının değerini özel olarak almak istediğinizde bunu true olarak ayarlayın.<br/> Bu parametre True olarak ayarlanırsa grafik hesaplanırken yeni veri noktaları oluşturulabilir. Bu, Excel dosyasının daha büyük olmasına neden olabilir.|
+| [update_all_points](/cells/python-net/tr/aspose.cells.charts/chartcalculateoptions/update_all_points) |Grafik hesaplaması yapılırken tüm veri noktaları güncellensin mi? Varsayılan: False.<br/>Grafikteki her veri noktasının değerini özel olarak almak istediğinizde, bunu true olarak ayarlayın.<br/> Bu parametre True olarak ayarlanırsa, grafik hesaplanırken yeni veri noktaları oluşturulabilir. Bu, Excel dosyasının boyutunu büyütebilir.|
 
 
 

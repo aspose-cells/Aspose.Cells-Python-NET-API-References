@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_gradient mülk
 
-Hücre gölgelemesinin degrade deseni olup olmadığını belirtir.
+Hücre gölgelendirmesinin bir degrade deseni olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property

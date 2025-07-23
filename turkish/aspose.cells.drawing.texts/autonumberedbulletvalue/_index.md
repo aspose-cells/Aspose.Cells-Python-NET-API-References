@@ -8,21 +8,20 @@ url: /tr/aspose.cells.drawing.texts/autonumberedbulletvalue/
 is_root: false
 ---
 ##  AutoNumberedBulletValue sınıfı
-Otomatik numaralı madde işaretini temsil eder.
+Otomatik numaralandırılmış madde işaretini temsil eder.
 
 
 
-**Miras:** [AutoNumberedBulletValue](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue) → 
-[BulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/bulletvalue)
+**Miras:** [`AutoNumberedBulletValue`](/cells/python-net/tr/aspose.cells.drawing.texts/autonumberedbulletvalue)
 
 
 
-AutoNumberedBulletValue türü aşağıdaki üyeleri gösterir:
+AutoNumberedBulletValue türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [AutoNumberedBulletValue()](/cells/python-net/tr/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | Yeni bir AutoNumberedBulletValue örneği oluşturur|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | AutoNumberedBulletValue'nin yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
@@ -35,6 +34,5 @@ AutoNumberedBulletValue türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](..)
-* sınıf [AutoNumberedBulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* sınıf [BulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/bulletvalue)
+* modül [`aspose.cells.drawing.texts`](..)
+* sınıf [`AutoNumberedBulletValue`](/cells/python-net/tr/aspose.cells.drawing.texts/autonumberedbulletvalue)

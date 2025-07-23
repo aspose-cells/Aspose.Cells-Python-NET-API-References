@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_font_applied mülk
 
-Yazı tipi formatının uygulanması gerekip gerekmediğini belirtin.
+Yazı tipi biçimlendirmesinin uygulanıp uygulanmayacağını belirtin.
 
 ###  Notlar
 
-Yalnızca adlandırılmış stil için.
+Sadece adlandırılmış stil için.
 ###  Tanım:
 ```python
 @property

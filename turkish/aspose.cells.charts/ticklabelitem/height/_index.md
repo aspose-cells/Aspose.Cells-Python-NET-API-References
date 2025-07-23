@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height mülk
 
-Ticklabel öğesinin grafik height oranındaki yüksekliği.
+height numaralı grafikteki Ticklabel öğesinin oranının yüksekliği.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [TickLabelItem](/cells/python-net/tr/aspose.cells.charts/ticklabelitem)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`TickLabelItem`](/cells/python-net/tr/aspose.cells.charts/ticklabelitem)

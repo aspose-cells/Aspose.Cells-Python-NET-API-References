@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  text_direction mülk
 
-Metin okuma sırasını temsil eder.
+Metnin okuma sırasını gösterir.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen TickLabels.ReadingOrder özelliğini kullanın.
- Bu mülk, Mart 2020'den itibaren 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen TickLabels.ReadingOrder özelliğini kullanın.
+Bu özellik Mart 2020'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

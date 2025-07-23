@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  style mülk
 
-style yerleşikini alır ve ayarlar.
+Yerleşik style'i alır ve ayarlar.
 
 ###  Notlar
 
-1 ile 48 arasında olmalıdır.
-Ayarlanmamışsa -1 değerini döndürün.
+1 ile 48 arasında olması gerekir.
+Ayarlanmamışsa -1 döndür.
 ###  Tanım:
 ```python
 @property

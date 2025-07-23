@@ -3,7 +3,7 @@ title: CountryCode numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1960
+weight: 1870
 url: /tr/aspose.cells/countrycode/
 is_root: false
 ---
@@ -20,21 +20,21 @@ CountryCode türü aşağıdaki üyeleri ortaya çıkarır:
 | DEFAULT |  |
 | USA | Amerika Birleşik Devletleri|
 | CANADA | Kanada|
-| LATIN_AMERIC | Brezilya hariç Latin Amerika|
+| LATIN_AMERIC | Latin Amerika, Brezilya hariç|
 | RUSSIA | Rusya|
 | EGYPT | Mısır|
 | GREECE | Yunanistan|
 | NETHERLANDS | Hollanda|
 | BELGIUM | Belçika|
 | FRANCE | Fransa|
-| SPAIN | ispanya|
+| SPAIN | İspanya|
 | HUNGARY | Macaristan|
 | ITALY | İtalya|
 | SWITZERLAND | İsviçre|
 | AUSTRIA | Avusturya|
 | UNITED_KINGDOM | Birleşik Krallık|
 | DENMARK | Danimarka|
-| SWEDEN | İsveç|
+| SWEDEN |İsveç|
 | NORWAY | Norveç|
 | POLAND | Polonya|
 | GERMANY | Almanya|
@@ -51,7 +51,7 @@ CountryCode türü aşağıdaki üyeleri ortaya çıkarır:
 | INDIA | Hindistan|
 | ALGERIA | Cezayir|
 | MOROCCO | Fas|
-| LIBYA |Libya|
+| LIBYA | Libya|
 | PORTUGAL | Portekiz|
 | ICELAND | İzlanda|
 | FINLAND | Finlandiya|

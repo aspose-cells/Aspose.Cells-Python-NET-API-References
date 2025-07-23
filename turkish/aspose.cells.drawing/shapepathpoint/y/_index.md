@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  y mülk
 
-Bu konum koordinatı için y koordinatını alır.
+Bu pozisyon koordinatı için y koordinatını alır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def y(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapePathPoint](/cells/python-net/tr/aspose.cells.drawing/shapepathpoint)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapePathPoint`](/cells/python-net/tr/aspose.cells.drawing/shapepathpoint)

@@ -7,12 +7,12 @@ weight: 10
 url: /tr/aspose.cells.slides/
 is_root: false
 ---
-**Aspose.Cells.Slides** ad alanı, Excel'i PowerPoint'e dönüştürmeye yönelik ayarları tanımlayan sınıfları içerir.
+**Aspose.Cells.Slides** namespace, Excel'i PowerPoint'e dönüştürmek için ayarları tanımlayan sınıfları içerir.
 
 ###  Numaralandırmalar
-|Numaralandırma| Tanım|
+| Numaralandırma| Tanım|
 | :- | :- |
-| [`AdjustFontSizeForRowType`](/cells/python-net/tr/aspose.cells.slides/adjustfontsizeforrowtype) | Hangi tür satırların ayarlanması gerektiğini temsil eder.|
-| [`SlideViewType`](/cells/python-net/tr/aspose.cells.slides/slideviewtype) | Slaytlara dışa aktarırken türü temsil eder.|
+| [`AdjustFontSizeForRowType`](/cells/python-net/tr/aspose.cells.slides/adjustfontsizeforrowtype) | Hangi tür satırların ayarlanması gerektiğini gösterir.|
+| [`SlideViewType`](/cells/python-net/tr/aspose.cells.slides/slideviewtype) | Slaytlara aktarırken türü temsil eder.|
 
 

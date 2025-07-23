@@ -3,12 +3,12 @@ title: get_text_width yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 130
 url: /tr/aspose.cells/cellshelper/get_text_width/
 is_root: false
 ---
-##  get_text_width(text, font, scaling) {#str-Font-float}
-Nokta birimi cinsinden metnin genişliğini alın.
+##  get_text_width(, metin, yazı tipi, ölçekleme){#str-aspose.cells.Font-float}
+Metnin genişliğini nokta biriminde alın.
 
 
 ###  İadeler
@@ -17,7 +17,9 @@ Nokta birimi cinsinden metnin genişliğini alın.
 
 
 ```python
-def get_text_width(self, text, font, scaling):
+
+@staticmethod
+def get_text_width(text, font, scaling):
     ...
 ```
 
@@ -25,11 +27,11 @@ def get_text_width(self, text, font, scaling):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | text | str | Metin.|
-| font | [Font](/cells/python-net/tr/aspose.cells/font) | Metnin yazı tipi.|
-| scaling | float | Metnin ölçeklenmesi.|
+| font | [`Font`](/cells/python-net/tr/aspose.cells/font) | Metnin yazı tipi.|
+| scaling | float | Metnin ölçeklendirilmesi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsHelper](/cells/python-net/tr/aspose.cells/cellshelper)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsHelper`](/cells/python-net/tr/aspose.cells/cellshelper)

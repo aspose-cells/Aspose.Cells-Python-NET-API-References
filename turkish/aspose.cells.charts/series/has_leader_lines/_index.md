@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_leader_lines mülk
 
-Serinin lider çizgileri varsa doğrudur.
+Seride lider çizgileri varsa doğrudur.
 ###  Tanım:
 ```python
 @property

@@ -3,13 +3,13 @@ title: merge_empty_td_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 570
+weight: 650
 url: /tr/aspose.cells.saving/ebooksaveoptions/merge_empty_td_type/
 is_root: false
 ---
 ##  merge_empty_td_type mülk
 
-Bir Excel dosyasını html formatında kaydederken boş TD öğesinin MS Excel ile aynı şekilde birleştirilip birleştirilmeyeceğini belirtir.
+Bitişik boş hücreleri (boş td öğeleri) birleştirme seçeneği
 Varsayılan değer MergeEmptyTdType.Default'dur.
 ###  Tanım:
 ```python

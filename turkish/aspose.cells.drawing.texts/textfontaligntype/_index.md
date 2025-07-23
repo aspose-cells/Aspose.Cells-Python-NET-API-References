@@ -3,7 +3,7 @@ title: TextFontAlignType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 180
 url: /tr/aspose.cells.drawing.texts/textfontaligntype/
 is_root: false
 ---
@@ -12,18 +12,18 @@ Farklı yazı tipi hizalama türlerini temsil eder.
 
 
 
-TextFontAlignType türü aşağıdaki üyeleri gösterir:
+TextFontAlignType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| AUTOMATIC | Metin akışı fontBaseline ile aynı yatay veya basit dikey olduğunda<br/> ancak fontCenter ile aynı olan diğer dikey modlar için.|
+| AUTOMATIC | Metin akışı yatay veya basit dikey olduğunda fontBaseline ile aynıdır<br/> ancak diğer dikey modlar için fontCenter ile aynıdır.|
 | BOTTOM | Harfler tek bir satırın en altına sabitlenmiştir.|
-| BASELINE | Harfler, tek bir satırın alt taban çizgisine sabitlenmiştir.|
-| CENTER | Harfler, tek bir satırın iki taban çizgisi arasına sabitlenir.|
-| TOP | Harfler, tek bir satırın üst taban çizgisine sabitlenir.|
+| BASELINE | Harfler tek bir satırın alt taban çizgisine sabitlenmiştir.|
+| CENTER | Harfler tek bir satırın iki taban çizgisi arasına sabitlenmiştir.|
+| TOP | Harfler tek bir satırın en üst taban çizgisine sabitlenmiştir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](..)
+* modül [`aspose.cells.drawing.texts`](..)

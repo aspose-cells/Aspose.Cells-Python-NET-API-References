@@ -3,13 +3,13 @@ title: top mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 510
 url: /tr/aspose.cells/range/top/
 is_root: false
 ---
 ##  top mülk
 
-1. satırın top kenarından aralığın top kenarına kadar olan mesafeyi nokta cinsinden alır.
+1. satırın top kenarı ile aralığın top kenarı arasındaki mesafeyi puan cinsinden alır.
 ###  Tanım:
 ```python
 @property

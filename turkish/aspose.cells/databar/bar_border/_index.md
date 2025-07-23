@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bar_border mülk
 
-Veri çubuğunun kenarlığını belirten bir nesne alır.
+Bir veri çubuğunun sınırını belirten bir nesne alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def bar_border(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataBar](/cells/python-net/tr/aspose.cells/databar)
-* sınıf [DataBarBorder](/cells/python-net/tr/aspose.cells/databarborder)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataBar`](/cells/python-net/tr/aspose.cells/databar)
+* sınıf [`DataBarBorder`](/cells/python-net/tr/aspose.cells/databarborder)

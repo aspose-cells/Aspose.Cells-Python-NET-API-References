@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/range/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink {#str-str-str}
+##  add_hyperlink(self, address, text_to_display, screen_tip) {#str-str-str}
 Belirtilen bir hücreye veya hücre aralığına köprü ekler.
 
 
 ###  İadeler
 
-[`Hyperlink`](/cells/python-net/tr/aspose.cells/hyperlink) nesne.
+[`Hyperlink`](/cells/python-net/tr/aspose.cells/hyperlink) nesnesi.
 
 
 ```python
+
 def add_hyperlink(self, address, text_to_display, screen_tip):
     ...
 ```
@@ -24,9 +25,9 @@ def add_hyperlink(self, address, text_to_display, screen_tip):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| address | str | Köprünün adresi.|
-| text_to_display | str | Belirtilen köprü için görüntülenecek metin.|
-| screen_tip | str | Belirtilen köprünün ekran ipucu metni.|
+| address | str | Bağlantının adresi.|
+| text_to_display | str | Belirtilen köprü metni için görüntülenecek metin.|
+| screen_tip | str | Belirtilen köprü metni için ekran ipucu metni.|
 
 
 

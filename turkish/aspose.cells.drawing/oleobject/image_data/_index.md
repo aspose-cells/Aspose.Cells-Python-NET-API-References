@@ -3,7 +3,7 @@ title: image_data mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 600
+weight: 590
 url: /tr/aspose.cells.drawing/oleobject/image_data/
 is_root: false
 ---

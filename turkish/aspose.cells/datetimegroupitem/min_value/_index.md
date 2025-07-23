@@ -18,5 +18,5 @@ def min_value(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DateTimeGroupItem](/cells/python-net/tr/aspose.cells/datetimegroupitem)
+* modül [`aspose.cells`](../../)
+* sınıf [`DateTimeGroupItem`](/cells/python-net/tr/aspose.cells/datetimegroupitem)

@@ -7,16 +7,17 @@ weight: 100
 url: /tr/aspose.cells/cell/get_dependents_in_calculation/
 is_root: false
 ---
-##  get_dependents_in_calculation(recursive) {#bool}
+##  get_dependents_in_calculation(self, recursive) {#bool}
 Hesaplanan sonucu bu hücreye bağlı olan tüm hücreleri alır.
 
 
 ###  İadeler
 
-Tüm bağımlıları numaralandırmak için numaralandırıcı(Cell nesneler)
+Tüm bağımlıları (Cell nesne) numaralandıran Sayıcı
 
 
 ```python
+
 def get_dependents_in_calculation(self, recursive):
     ...
 ```
@@ -24,12 +25,12 @@ def get_dependents_in_calculation(self, recursive):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| recursive | bool | Doğrudan bu hücreye başvurmayan bağımlıları döndürür.<br/> ancak bu hücrenin diğer yapraklarına referans|
+| recursive | bool | Bu hücreye doğrudan başvurmayan bağımlıları döndürür mü?<br/> ancak bu hücrenin diğer yapraklarına referans|
 ###  Notlar
 
-Bu yöntemi kullanmak için lütfen çalışma kitabının şu değer için doğru değere ayarlandığından emin olun:
-[FormulaSettings.enable_calculation_chain](/cells/python-net/tr/aspose.cells/formulasettings#enable_calculation_chain) ve tamamen bu ayarla hesaplanmıştır.
-Bu hücreye herhangi bir formül başvurusu yoksa, null döndürülür.
+Bu yöntemi kullanmak için lütfen çalışma kitabının doğru değerle ayarlandığından emin olun.
+[`FormulaSettings.enable_calculation_chain`](/cells/python-net/tr/aspose.cells/formulasettings#enable_calculation_chain) ve bu ayar ile tamamen hesaplanmıştır.
+Bu hücreye ait bir formül referansı yoksa null döndürülür.
 ###  Örnek
 
 ```python
@@ -55,5 +56,5 @@ for c in en:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

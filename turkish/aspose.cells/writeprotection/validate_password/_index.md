@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells/writeprotection/validate_password/
 is_root: false
 ---
-##  validate_password(password) {#str}
+##  validate_password(self, password) {#str}
 Belirtilen parola, dosyanın korunduğu yazma koruması parolasıyla aynıysa true değerini döndürür.
 
 
@@ -17,6 +17,7 @@ Belirtilen parola, dosyanın korunduğu yazma koruması parolasıyla aynıysa tr
 
 
 ```python
+
 def validate_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def validate_password(self, password):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WriteProtection](/cells/python-net/tr/aspose.cells/writeprotection)
+* modül [`aspose.cells`](../../)
+* sınıf [`WriteProtection`](/cells/python-net/tr/aspose.cells/writeprotection)

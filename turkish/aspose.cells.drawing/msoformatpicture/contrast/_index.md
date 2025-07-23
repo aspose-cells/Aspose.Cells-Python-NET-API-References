@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  contrast mülk
 
-Resim için contrast değişikliğini yüzde birimi cinsinden temsil eder.
+Resimdeki contrast değişikliğini yüzde cinsinden temsil eder.
 
 ###  Notlar
 
--%100 ile %100 arasındadır. Excel 2007 ve üzeri versiyonlarla aynı şekilde çalışır.
+-100% ile 100% arasındadır. Excel 2007 ve üzeri sürümlerde aynı şekilde çalışır.
 ###  Tanım:
 ```python
 @property

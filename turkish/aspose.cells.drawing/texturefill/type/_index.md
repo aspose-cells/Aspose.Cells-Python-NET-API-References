@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-Dokuyu alır ve ayarlar type
+type dokusunu alır ve ayarlar
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextureFill](/cells/python-net/tr/aspose.cells.drawing/texturefill)
-* sınıf [TextureType](/cells/python-net/tr/aspose.cells.drawing/texturetype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextureFill`](/cells/python-net/tr/aspose.cells.drawing/texturefill)
+* sınıf [`TextureType`](/cells/python-net/tr/aspose.cells.drawing/texturetype)

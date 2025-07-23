@@ -9,8 +9,15 @@ is_root: false
 ---
 ##  embeded_image_name_in_svg mülk
 
- Gömülü görüntünün dosya adını svg'de belirtin.
+SVG'deki gömülü resmin dosya adını belirtin.
 Bu, "c:\\xpsEmbedded" gibi bir dizine sahip tam yol olmalıdır.
+
+###  Notlar
+
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen bu özelliği kaldırın çünkü resimler artık her zaman base64 formatında SVG'ye gömülüyor.
+ Bu özellik 2025 Nisan ayından itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +29,5 @@ def embeded_image_name_in_svg(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [ImageOrPrintOptions](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`ImageOrPrintOptions`](/cells/python-net/tr/aspose.cells.rendering/imageorprintoptions)

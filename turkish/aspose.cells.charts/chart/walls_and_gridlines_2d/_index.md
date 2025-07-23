@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  walls_and_gridlines_2d mülk
 
-Kılavuz çizgileri 3 boyutlu bir grafik üzerinde iki boyutlu olarak çiziliyorsa doğrudur.
+3 boyutlu bir grafikte iki boyutlu olarak ızgara çizgileri çiziliyorsa doğrudur.
 ###  Tanım:
 ```python
 @property

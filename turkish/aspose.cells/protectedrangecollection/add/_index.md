@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/protectedrangecollection/add/
 is_root: false
 ---
-##  add(name, start_row, start_column, end_row, end_column) {#str-int-int-int-int}
-Koleksiyona bir [ProtectedRange](/cells/python-net/tr/aspose.cells/protectedrange) öğe ekler.
+##  add(self, name, start_row, start_column, end_row, end_column) {#str-int-int-int-int}
+Koleksiyona [`ProtectedRange`](/cells/python-net/tr/aspose.cells/protectedrange) numaralı ürünü ekler.
 
 
 ###  İadeler
 
-nesne dizini
+nesne dizini.
 
 
 ```python
+
 def add(self, name, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -27,12 +28,12 @@ def add(self, name, start_row, start_column, end_row, end_column):
 | name | str | Aralık başlığı. Bu, adlandırılmış bir aralık tanımı olarak değil, tanımlayıcı olarak kullanılır.|
 | start_row | int | Aralığın başlangıç satır dizini.|
 | start_column | int | Aralığın başlangıç sütun indeksi.|
-| end_row | int | Aralığın son satır dizini.|
-| end_column | int | Aralığın bitiş sütun dizini.|
+| end_row | int | Aralığın satır sonu indeksi.|
+| end_column | int | Aralığın son sütun indeksi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ProtectedRange](/cells/python-net/tr/aspose.cells/protectedrange)
-* sınıf [ProtectedRangeCollection](/cells/python-net/tr/aspose.cells/protectedrangecollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ProtectedRange`](/cells/python-net/tr/aspose.cells/protectedrange)
+* sınıf [`ProtectedRangeCollection`](/cells/python-net/tr/aspose.cells/protectedrangecollection)

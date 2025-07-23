@@ -17,7 +17,7 @@ CustomPiovtFieldGroupItem türü aşağıdaki üyeleri ortaya çıkarır:
 ###  İnşaatçılar
 | Oluşturucu| Tanım|
 | :- | :- |
-| [__init__](/cells/python-net/tr/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/#str-list) | Pivot alanının özel grup öğesinin yapıcısı.|
+| [`__init__(self, name, item_indexes)`](/cells/python-net/tr/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/#str-list) | Pivot alanının özel grup öğesinin oluşturucusu.|
 
 
 

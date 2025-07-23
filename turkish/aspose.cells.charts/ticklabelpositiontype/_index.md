@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/ticklabelpositiontype/
 is_root: false
 ---
 ##  TickLabelPositionType numaralandırma
-Belirtilen eksendeki onay işareti etiketlerinin konum türünü temsil eder.
+Belirtilen eksen üzerindeki onay işareti etiketlerinin konum türünü temsil eder.
 
 
 
@@ -17,10 +17,10 @@ TickLabelPositionType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| HIGH | Pozisyon türü yüksek.|
-| LOW | Pozisyon türü düşük.|
-| NEXT_TO_AXIS | Konum türü eksenin yanındadır.|
-| NONE | Pozisyon türü yok.|
+| HIGH | Pozisyon tipi yüksek.|
+| LOW | Pozisyon tipi düşük.|
+| NEXT_TO_AXIS | Pozisyon tipi eksenin yanındadır.|
+| NONE | Pozisyon tipi hiçbiri.|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  instructions mülk
 
-İmzalama anında kullanıcıya gösterilen metni alır ve ayarlar.
+İmzalama sırasında kullanıcıya gösterilen metni alır veya ayarlar.
 
 ###  Örnek
 
@@ -32,5 +32,5 @@ def instructions(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [SignatureLine](/cells/python-net/tr/aspose.cells.drawing/signatureline)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`SignatureLine`](/cells/python-net/tr/aspose.cells.drawing/signatureline)

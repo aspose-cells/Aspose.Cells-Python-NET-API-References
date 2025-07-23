@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotated_chars mülk
 
-Doğruysa, belirtilen WordArt'taki karakterler, WordArt'ın sınırlayıcı şekline göre 90 derece döndürülür.
+Doğruysa, belirtilen WordArt'taki karakterler WordArt'ın sınırlayıcı şekline göre 90 derece döndürülür.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotated_chars(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextEffectFormat](/cells/python-net/tr/aspose.cells.drawing/texteffectformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextEffectFormat`](/cells/python-net/tr/aspose.cells.drawing/texteffectformat)

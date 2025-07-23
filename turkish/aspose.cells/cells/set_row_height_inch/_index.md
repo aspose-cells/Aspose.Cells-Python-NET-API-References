@@ -3,16 +3,17 @@ title: set_row_height_inch yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 870
+weight: 890
 url: /tr/aspose.cells/cells/set_row_height_inch/
 is_root: false
 ---
-##  set_row_height_inch {#int-float}
+##  set_row_height_inch(self, row, inches) {#int-float}
 Satır yüksekliğini inç cinsinden ayarlar.
 
 
 
 ```python
+
 def set_row_height_inch(self, row, inches):
     ...
 ```

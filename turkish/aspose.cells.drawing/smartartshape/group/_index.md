@@ -3,7 +3,7 @@ title: group mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 400
 url: /tr/aspose.cells.drawing/smartartshape/group/
 is_root: false
 ---

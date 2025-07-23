@@ -3,7 +3,7 @@ title: count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 70
 url: /tr/aspose.cells/rowcollection/count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [RowCollection](/cells/python-net/tr/aspose.cells/rowcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`RowCollection`](/cells/python-net/tr/aspose.cells/rowcollection)

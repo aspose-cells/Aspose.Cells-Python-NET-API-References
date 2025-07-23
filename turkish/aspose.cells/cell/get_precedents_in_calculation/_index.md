@@ -7,16 +7,17 @@ weight: 190
 url: /tr/aspose.cells/cell/get_precedents_in_calculation/
 is_root: false
 ---
-##  get_precedents_in_calculation() {#}
-Hesaplarken bu hücrenin formülü tarafından kullanılan tüm emsalleri (mevcut çalışma kitabındaki hücrelere referans) alır.
+##  get_precedents_in_calculation(self) {#}
+Bu hücrenin formülü hesaplanırken kullanılan tüm emsalleri (geçerli çalışma kitabındaki hücrelere yapılan referanslar) alır.
 
 
 ###  İadeler
 
-Tüm referansları numaralandırmak için numaralandırıcı(ReferredArea)
+Tüm referansları numaralandırmak için Sayım Aracı (Referans Alanı)
 
 
 ```python
+
 def get_precedents_in_calculation(self):
     ...
 ```
@@ -24,9 +25,9 @@ def get_precedents_in_calculation(self):
 
 ###  Notlar
 
-Bu yöntem yalnızca [FormulaSettings.enable_calculation_chain](/cells/python-net/tr/aspose.cells/formulasettings#enable_calculation_chain)'in geçerli olduğu durumla çalışabilir.
-çalışma kitabı için doğrudur ve çalışma kitabı tam olarak hesaplanmıştır.
-Bu hücre bir formül değilse veya başka hücrelere referans vermiyorsa, null döndürülür.
+Bu yöntem yalnızca [`FormulaSettings.enable_calculation_chain`](/cells/python-net/tr/aspose.cells/formulasettings#enable_calculation_chain) numaralı telefonla çalışabilmektedir.
+çalışma kitabı için doğrudur ve çalışma kitabı tamamen hesaplanmıştır.
+Eğer bu hücre bir formül değilse veya başka herhangi bir hücreye referans vermiyorsa null döndürülür.
 ###  Örnek
 
 ```python
@@ -47,5 +48,5 @@ for r in en:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

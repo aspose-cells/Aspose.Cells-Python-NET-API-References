@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  is_gte mülk
 
- Büyüktür veya Eşittir bayrağını alın veya ayarlayın.
- Yalnızca simge kümeleri için kullan, bu eşik değerinin kullanılıp kullanılmadığını belirler
- operatörden büyük veya eşittir.
-false', 'büyüktür veya eşittir' yerine 'büyüktür' ifadesinin kullanıldığını belirtir.
+ Büyüktür veya Eşittir bayrağını al veya ayarla.
+ Yalnızca simge kümeleri için kullanın, bu eşik değerinin kullanılıp kullanılmayacağını belirler
+ büyük veya eşit operatörü.
+'false', 'büyüktür veya eşittir' yerine 'büyüktür' ifadesinin kullanıldığını gösterir.
 Varsayılan değer doğrudur.
 ###  Tanım:
 ```python
@@ -25,5 +25,5 @@ def is_gte(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingValue](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingValue`](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)

@@ -3,16 +3,17 @@ title: put_value yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 60
 url: /tr/aspose.cells/unionrange/put_value/
 is_root: false
 ---
-##  put_value(string_value, is_converted, set_style) {#str-bool-bool}
-Aralığa bir değer koyar, uygunsa değer diğer veri tipine dönüştürülür ve hücrenin sayı formatı sıfırlanır.
+##  put_value(self, string_value, is_converted, set_style) {#str-bool-bool}
+Aralığa bir değer koyar, uygunsa değer başka bir veri türüne dönüştürülür ve hücrenin sayı biçimi sıfırlanır.
 
 
 
 ```python
+
 def put_value(self, string_value, is_converted, set_style):
     ...
 ```
@@ -20,12 +21,12 @@ def put_value(self, string_value, is_converted, set_style):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| string_value | str | Girdi değeri|
-| is_converted | bool | Doğru: uygunsa diğer veri türüne dönüştürülür.|
-| set_style | bool | Doğru: diğer veri türüne dönüştürürken sayı biçimini hücrenin stiline ayarlayın|
+| string_value | str | Giriş değeri|
+| is_converted | bool | Doğru: Uygunsa diğer veri türüne dönüştürülür.|
+| set_style | bool | Doğru: Diğer veri türüne dönüştürürken sayı biçimini hücrenin stiline ayarlayın|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [UnionRange](/cells/python-net/tr/aspose.cells/unionrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange)

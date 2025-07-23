@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  email mülk
 
-Şarkıcının email'ini alır ve ayarlar.
+Şarkıcının email'ini alır veya ayarlar.
 
 ###  Örnek
 
@@ -32,5 +32,5 @@ def email(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [SignatureLine](/cells/python-net/tr/aspose.cells.drawing/signatureline)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`SignatureLine`](/cells/python-net/tr/aspose.cells.drawing/signatureline)

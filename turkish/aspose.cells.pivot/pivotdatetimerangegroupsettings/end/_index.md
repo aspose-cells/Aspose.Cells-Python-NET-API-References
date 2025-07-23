@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end mülk
 
-Grubun end tarih saatini alır.
+Grubun end tarih ve saatini alır.
 ###  Tanım:
 ```python
 @property

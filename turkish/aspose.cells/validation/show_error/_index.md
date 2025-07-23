@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_error mülk
 
-Kullanıcı geçersiz veri girdiğinde veri doğrulama hata mesajının görüntülenip görüntülenmeyeceğini belirtir.
+Kullanıcı geçersiz veri girdiğinde veri doğrulama hatası mesajının görüntülenip görüntülenmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property

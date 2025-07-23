@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_style mülk
 
-Çizgi tire tipini belirtir.
+Çizgi tipini belirtir.
 
 ###  Örnek
 
@@ -30,6 +30,6 @@ def dash_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
-* sınıf [MsoLineDashStyle](/cells/python-net/tr/aspose.cells.drawing/msolinedashstyle)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* sınıf [`MsoLineDashStyle`](/cells/python-net/tr/aspose.cells.drawing/msolinedashstyle)

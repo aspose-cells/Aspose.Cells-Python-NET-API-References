@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency mülk
 
-Işıma efektinin transparency derecesini alır ve ayarlar. 0,0 (opak) ile 1,0 (berrak) arasında değişir.
+Parıltı efektinin transparency derecesini alır ve ayarlar. 0,0 (opak) ile 1,0 (temiz) arasında değişir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GlowEffect](/cells/python-net/tr/aspose.cells.drawing/gloweffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GlowEffect`](/cells/python-net/tr/aspose.cells.drawing/gloweffect)

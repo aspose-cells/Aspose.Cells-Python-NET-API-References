@@ -7,7 +7,7 @@ weight: 270
 url: /tr/aspose.cells/settableglobalizationsettings/get_table_row_type_of_totals/
 is_root: false
 ---
-##  get_table_row_type_of_totals {#}
+##  get_table_row_type_of_totals(self) {#}
 Başvurulan tablonun toplam satırından oluşan tablo satırlarının tür adını alır.
 
 
@@ -17,6 +17,7 @@ tablo satırlarının tür adı
 
 
 ```python
+
 def get_table_row_type_of_totals(self):
     ...
 ```

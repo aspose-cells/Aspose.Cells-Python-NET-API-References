@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionInsertSheet](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionInsertSheet`](/cells/python-net/tr/aspose.cells.revisions/revisioninsertsheet)

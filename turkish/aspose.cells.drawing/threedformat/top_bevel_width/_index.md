@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_bevel_width mülk
 
-Üst eğimin genişliğini veya şeklin ne kadar içine uygulandığını alır ve ayarlar.
+Üst eğimin genişliğini veya şeklin içine ne kadar derine uygulanacağını alır ve ayarlar.
 Puan biriminde.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def top_bevel_width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

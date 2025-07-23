@@ -3,13 +3,13 @@ title: shadow mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 920
+weight: 930
 url: /tr/aspose.cells.drawing/combobox/shadow/
 is_root: false
 ---
 ##  shadow mülk
 
-Açılan kutunun 3 boyutlu gölgelendirmeye sahip olup olmadığını belirtir.
+Combobox'ın 3 boyutlu gölgelendirmeye sahip olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property

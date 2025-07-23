@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_automatic mülk
 
-Eksen bölmelerinin otomatik olup olmadığını gösterir.
+Eksen bölmelerinin otomatik olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_automatic(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [AxisBins](/cells/python-net/tr/aspose.cells.charts/axisbins)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`AxisBins`](/cells/python-net/tr/aspose.cells.charts/axisbins)

@@ -7,16 +7,17 @@ weight: 120
 url: /tr/aspose.cells/globalizationsettings/get_local_built_in_name/
 is_root: false
 ---
-##  get_local_built_in_name {#str}
-Verilen standart metne göre yerleşik Name için yerel ayara bağlı metni alır.
+##  get_local_built_in_name(self, standard_name) {#str}
+Verilen standart metne göre yerleşik Ad için yerel bağımlı metni alır.
 
 
 ###  İadeler
 
-Yerel ayara bağlı metin. Yerel ayar, bu ayarların kullanıldığı Çalışma Kitabı tarafından belirtildi.
+Yerel ayarlara bağlı metin. Yerel ayarlar, bu ayarın kullanıldığı Çalışma Kitabı tarafından belirtilmiştir.
 
 
 ```python
+
 def get_local_built_in_name(self, standard_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_local_built_in_name(self, standard_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| standard_name | str | Yerleşik Adın standart (en-ABD yerel ayarı) metni.|
+| standard_name | str | Yerleşik Adın standart (en-US yerel) metni.|
 
 
 

@@ -12,13 +12,14 @@ VBA projesindeki modülü temsil eder.
 
 
 
-VbaModule türü aşağıdaki üyeleri gösterir:
+VbaModule türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [name](/cells/python-net/tr/aspose.cells.vba/vbamodule/name) | Module adını alır ve ayarlar.|
-| [type](/cells/python-net/tr/aspose.cells.vba/vbamodule/type) | Modül tipini alır.|
+| [name](/cells/python-net/tr/aspose.cells.vba/vbamodule/name) | Modülün adını alır ve ayarlar.|
+| [type](/cells/python-net/tr/aspose.cells.vba/vbamodule/type) | Modülün türünü alır.|
+| [binary_codes](/cells/python-net/tr/aspose.cells.vba/vbamodule/binary_codes) | Modülün ikili kodlarını alır ve ayarlar.|
 | [codes](/cells/python-net/tr/aspose.cells.vba/vbamodule/codes) | Modülün kodlarını alır ve ayarlar.|
 
 
@@ -45,4 +46,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](..)
+* modül [`aspose.cells.vba`](..)

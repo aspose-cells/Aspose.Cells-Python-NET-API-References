@@ -3,12 +3,12 @@ title: Hyperlink sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 840
+weight: 820
 url: /tr/aspose.cells/hyperlink/
 is_root: false
 ---
 ##  Hyperlink sınıfı
-Köprüyü temsil eden nesneyi kapsüller.
+Bir köprü metnini temsil eden nesneyi kapsüller.
 
 
 
@@ -17,17 +17,17 @@ Hyperlink türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [address](/cells/python-net/tr/aspose.cells/hyperlink/address) | Bir köprünün adresini temsil eder.|
-| [text_to_display](/cells/python-net/tr/aspose.cells/hyperlink/text_to_display) | Belirtilen köprü için görüntülenecek metni temsil eder. Varsayılan değer köprünün adresidir.|
-| [area](/cells/python-net/tr/aspose.cells/hyperlink/area) | Köprü aralığını alır.|
-| [screen_tip](/cells/python-net/tr/aspose.cells/hyperlink/screen_tip) | Belirtilen köprünün Ekran İpucu metnini döndürür veya ayarlar.|
+| [address](/cells/python-net/tr/aspose.cells/hyperlink/address) | Bir hiperlinkin adresini temsil eder.|
+| [text_to_display](/cells/python-net/tr/aspose.cells/hyperlink/text_to_display) | Belirtilen köprü metni için görüntülenecek metni temsil eder. Varsayılan değer köprü metninin adresidir.|
+| [area](/cells/python-net/tr/aspose.cells/hyperlink/area) | Hiperlink aralığını alır.|
+| [screen_tip](/cells/python-net/tr/aspose.cells/hyperlink/screen_tip) | Belirtilen köprü metni için Ekran İpucu metnini döndürür veya ayarlar.|
 | [link_type](/cells/python-net/tr/aspose.cells/hyperlink/link_type) | Bağlantı türünü alır.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [delete](/cells/python-net/tr/aspose.cells/hyperlink/delete/#) |Bu köprüyü siler|
+| [`delete(self)`](/cells/python-net/tr/aspose.cells/hyperlink/delete/#) | Bu köprüyü siler|
 
 
 

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  smoothing_mode mülk
 
-Çizgilere, eğrilere ve doldurulmuş alanların kenarlarına yumuşatma (kenar yumuşatma) uygulanıp uygulanmayacağını belirtir.
-Varsayılan değer: SmoothingMode.None
+Çizgilere, eğrilere ve doldurulmuş alanların kenarlarına yumuşatma (antialiasing) uygulanıp uygulanmayacağını belirtir.
+Varsayılan değer SmoothingMode.None'dur
 ###  Tanım:
 ```python
 @property

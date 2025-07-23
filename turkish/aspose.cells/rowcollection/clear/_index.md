@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/rowcollection/clear/
 is_root: false
 ---
-##  clear() {#}
-Tüm satırları ve hücreleri temizleyin.
+##  clear(self) {#}
+Tüm satırları ve hücreleri temizle.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [RowCollection](/cells/python-net/tr/aspose.cells/rowcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`RowCollection`](/cells/python-net/tr/aspose.cells/rowcollection)

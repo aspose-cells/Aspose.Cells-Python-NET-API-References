@@ -7,18 +7,19 @@ weight: 30
 url: /tr/aspose.cells/referredarea/get_values/
 is_root: false
 ---
-##  get_values() {#}
+##  get_values(self) {#}
 Bu alandaki hücre değerlerini alır.
 
 
 ###  İadeler
 
-Bu alan geçersiz ise "#REF!" iade edilecek;
-Bu alan tek bir hücreyse, hücre değeri nesnesini döndürür;
-Aksi takdirde, bu alandaki tüm değerler için bir 2B dizi döndürün.
+Bu alan geçersizse "#REF!" iade edilecek;
+Bu alan tek bir hücre ise hücre değeri nesnesini döndürün;
+Aksi takdirde bu alandaki tüm değerler için tek bir 2 boyutlu dizi döndürün.
 
 
 ```python
+
 def get_values(self):
     ...
 ```
@@ -26,18 +27,19 @@ def get_values(self):
 
 
 
-##  get_values(calculate_formulas) {#bool}
+##  get_values(self, calculate_formulas) {#bool}
 Bu alandaki hücre değerlerini alır.
 
 
 ###  İadeler
 
-Bu alan geçersiz ise "#REF!" iade edilecek;
-Bu alan tek bir hücreyse, hücre değeri nesnesini döndürür;
-Aksi takdirde, bu alandaki tüm değerler için bir 2B dizi döndürün.
+Bu alan geçersizse "#REF!" iade edilecek;
+Bu alan tek bir hücre ise hücre değeri nesnesini döndürün;
+Aksi takdirde bu alandaki tüm değerler için tek bir 2 boyutlu dizi döndürün.
 
 
 ```python
+
 def get_values(self, calculate_formulas):
     ...
 ```
@@ -50,5 +52,5 @@ def get_values(self, calculate_formulas):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ReferredArea](/cells/python-net/tr/aspose.cells/referredarea)
+* modül [`aspose.cells`](../../)
+* sınıf [`ReferredArea`](/cells/python-net/tr/aspose.cells/referredarea)

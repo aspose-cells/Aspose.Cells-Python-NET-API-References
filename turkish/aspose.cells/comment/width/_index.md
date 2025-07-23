@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width mülk
 
-Yorumun width'ini piksel birimi cinsinden temsil eder.
+Yorumun width'ini piksel cinsinden temsil eder.
 
 ###  Örnek
 

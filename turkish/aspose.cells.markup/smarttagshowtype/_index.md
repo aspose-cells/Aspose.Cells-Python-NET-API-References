@@ -8,20 +8,20 @@ url: /tr/aspose.cells.markup/smarttagshowtype/
 is_root: false
 ---
 ##  SmartTagShowType numaralandırma
-Akıllı etiketin gösteri türünü temsil eder.
+Akıllı etiketin gösterim türünü temsil eder.
 
 
 
-SmartTagShowType türü aşağıdaki üyeleri gösterir:
+SmartTagShowType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| ALL | Akıllı etiketlerin etkinleştirildiğini ve gösterildiğini gösterir|
-| NO_SMART_TAG_INDICATOR | Akıllı etiketlerin etkinleştirildiğini ancak göstergenin gösterilmediğini gösterir.|
-| NONE | Akıllı etiketlerin devre dışı bırakıldığını ve gösterilmediğini belirtir.|
+| ALL | Akıllı etiketlerin etkinleştirildiğini ve gösterildiğini belirtir|
+| NO_SMART_TAG_INDICATOR |Akıllı etiketlerin etkinleştirildiğini ancak göstergenin gösterilmediğini belirtir.|
+| NONE | Akıllı etiketlerin devre dışı olduğunu ve görüntülenmediğini belirtir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](..)
+* modül [`aspose.cells.markup`](..)

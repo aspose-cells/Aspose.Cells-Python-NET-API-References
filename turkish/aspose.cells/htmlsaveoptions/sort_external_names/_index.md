@@ -3,13 +3,13 @@ title: sort_external_names mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 650
+weight: 750
 url: /tr/aspose.cells/htmlsaveoptions/sort_external_names/
 is_root: false
 ---
 ##  sort_external_names mülk
 
-Dosyayı kaydetmeden önce harici tanımlı adların sıralanıp sıralanmayacağını belirtir.
+Dosyayı kaydetmeden önce harici olarak tanımlanmış adların sıralanıp sıralanmayacağını belirtir.
 ###  Tanım:
 ```python
 @property

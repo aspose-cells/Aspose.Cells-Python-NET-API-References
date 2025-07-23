@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start_row mülk
 
-Dikey sayfa sonunun başlangıç satır dizinini alır.
+Dikey sayfa sonunun başlangıç satırı dizinini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def start_row(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [VerticalPageBreak](/cells/python-net/tr/aspose.cells/verticalpagebreak)
+* modül [`aspose.cells`](../../)
+* sınıf [`VerticalPageBreak`](/cells/python-net/tr/aspose.cells/verticalpagebreak)

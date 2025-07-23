@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_line mülk
 
-Şeklin görünür kenar çizgisini alır ve ayarlar.
+Şeklin çizgi sınırının görünür olmasını sağlar ve ayarlar.
 
 ###  Örnek
 

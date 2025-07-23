@@ -3,7 +3,7 @@ title: drag_to_page mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 390
 url: /tr/aspose.cells.pivot/pivotfield/drag_to_page/
 is_root: false
 ---

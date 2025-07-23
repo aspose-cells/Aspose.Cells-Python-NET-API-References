@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  day mülk
 
-Gruplandırılmış tarih saatinin day'ini alır ve ayarlar.
+Gruplanmış tarih ve saatin day değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def day(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DateTimeGroupItem](/cells/python-net/tr/aspose.cells/datetimegroupitem)
+* modül [`aspose.cells`](../../)
+* sınıf [`DateTimeGroupItem`](/cells/python-net/tr/aspose.cells/datetimegroupitem)

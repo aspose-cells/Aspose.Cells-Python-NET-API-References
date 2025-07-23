@@ -7,16 +7,17 @@ weight: 50
 url: /tr/aspose.cells/pagesetup/get_commands/
 is_root: false
 ---
-##  get_commands(header_footer_script) {#str}
-Tüm üst bilgi veya alt bilgi komutlarını alır.
+##  get_commands(self, header_footer_script) {#str}
+Başlık veya altbilginin tüm komutlarını alır.
 
 
 ###  İadeler
 
-Tüm üst bilgi veya alt bilgi komutlarını döndürür.
+Başlık veya altbilginin tüm komutlarını döndürür.
 
 
 ```python
+
 def get_commands(self, header_footer_script):
     ...
 ```
@@ -24,10 +25,10 @@ def get_commands(self, header_footer_script):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| header_footer_script | str | Üstbilgi/altbilgi betiği|
+| header_footer_script | str | Başlık/altbilgi betiği|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

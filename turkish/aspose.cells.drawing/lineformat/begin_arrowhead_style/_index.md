@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrowhead_style mülk
 
-Satırın başlangıç oku türünü alır ve ayarlar.
+Satırın başlangıç ok tipini alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,6 +30,6 @@ def begin_arrowhead_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
-* sınıf [MsoArrowheadStyle](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadstyle)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* sınıf [`MsoArrowheadStyle`](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadstyle)

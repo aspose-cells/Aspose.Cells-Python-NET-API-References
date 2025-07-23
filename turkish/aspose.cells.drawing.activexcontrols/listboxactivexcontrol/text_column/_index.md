@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_column mülk
 
-Kullanıcıya görüntülenecek bir ComboBox veya ListBox içindeki sütunu temsil eder.
+Kullanıcıya gösterilecek olan ComboBox veya ListBox'taki sütunu temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def text_column(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ListBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ListBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

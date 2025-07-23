@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_locked mülk
 
-Bir hücrenin değiştirilip değiştirilemeyeceğini gösteren bir değer alır veya ayarlar.
+Bir hücrenin değiştirilip değiştirilemeyeceğini belirten bir değer alır veya ayarlar.
 
 ###  Notlar
 
-Çalışma sayfası korunmadığı sürece hücreleri kilitlemenin hiçbir etkisi yoktur.
+Çalışma sayfası korunmuyorsa hücreleri kilitlemenin hiçbir etkisi yoktur.
 ###  Tanım:
 ```python
 @property

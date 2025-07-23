@@ -3,35 +3,35 @@ title: ControlPicturePositionType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 200
 url: /tr/aspose.cells.drawing.activexcontrols/controlpicturepositiontype/
 is_root: false
 ---
 ##  ControlPicturePositionType numaralandırma
-Denetimin resminin başlığına göre konumunu temsil eder.
+Kontrolün resminin başlığına göre konumunu temsil eder.
 
 
 
-ControlPicturePositionType türü aşağıdaki üyeleri gösterir:
+ControlPicturePositionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| LEFT_TOP | Resim, başlığın solunda görünür.<br/> Başlık, resmin üst kısmıyla hizalanır.|
-| LEFT_CENTER | Resim, başlığın solunda görünür.<br/> Resim yazısı, resme göre ortalanır.|
-| LEFT_BOTTOM | Resim, başlığın solunda görünür.<br/> Başlık, resmin alt kısmıyla hizalanır.|
-| RIGHT_TOP | Resim, başlığın sağında görünür.<br/> Başlık, resmin üst kısmıyla hizalanır.|
-| RIGHT_CENTER | Resim, başlığın sağında görünür.<br/> Resim yazısı, resme göre ortalanır.|
-| RIGHT_BOTTOM | Resim, başlığın sağında görünür.<br/> Başlık, resmin alt kısmıyla hizalanır.|
-| ABOVE_LEFT | Resim, başlığın üzerinde görünür.<br/> Başlık, resmin sol kenarıyla hizalanır.|
-| ABOVE_CENTER | Resim, başlığın üzerinde görünür.<br/> Başlık, resmin altında ortalanır.|
-| ABOVE_RIGHT | Resim, başlığın üzerinde görünür.<br/> Başlık, resmin sağ kenarıyla hizalanır.|
-| BELOW_LEFT | Resim, başlığın altında görünür.<br/> Başlık, resmin sol kenarıyla hizalanır.|
-| BELOW_CENTER | Resim, başlığın altında görünür.<br/>Başlık, resmin üzerinde ortalanır.|
-| BELOW_RIGHT | Resim, başlığın altında görünür.<br/> Başlık, resmin sağ kenarıyla hizalanır.|
-| CENTER | Resim, kontrolün ortasında görünür.<br/> Başlık, resmin üstünde yatay ve dikey olarak ortalanır.|
+| LEFT_TOP | Resim, açıklamanın solunda görünüyor.<br/> Açıklama resmin üst kısmına hizalanmıştır.|
+| LEFT_CENTER | Resim, açıklamanın solunda görünüyor.<br/> Başlık resme göre ortalanmıştır.|
+| LEFT_BOTTOM | Resim, açıklamanın solunda görünüyor.<br/>Açıklama resmin alt kısmına hizalanmıştır.|
+| RIGHT_TOP | Resim, açıklamanın sağında görünüyor.<br/> Açıklama resmin üst kısmına hizalanmıştır.|
+| RIGHT_CENTER | Resim, açıklamanın sağında görünüyor.<br/> Başlık resme göre ortalanmıştır.|
+| RIGHT_BOTTOM | Resim, açıklamanın sağında görünüyor.<br/>Açıklama resmin alt kısmına hizalanmıştır.|
+| ABOVE_LEFT | Resim, açıklamanın üstünde yer alıyor.<br/> Açıklama resmin sol kenarına hizalanır.|
+| ABOVE_CENTER | Resim, açıklamanın üstünde yer alıyor.<br/> Açıklama resmin hemen altında ortalanmış olarak yer almaktadır.|
+| ABOVE_RIGHT | Resim, açıklamanın üstünde yer alıyor.<br/> Açıklama resmin sağ kenarına hizalanır.|
+| BELOW_LEFT | Resim, açıklamanın altında görünüyor.<br/> Açıklama resmin sol kenarına hizalanır.|
+| BELOW_CENTER | Resim, açıklamanın altında görünüyor.<br/> Açıklama resmin tam üstünde ortada yer alıyor.|
+| BELOW_RIGHT | Resim, açıklamanın altında görünüyor.<br/> Açıklama resmin sağ kenarına hizalanır.|
+| CENTER | Resim kontrolün ortasında belirir.<br/> Resim yazısı, resmin üst kısmında yatay ve dikey olarak ortalanır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
+* modül [`aspose.cells.drawing.activexcontrols`](..)

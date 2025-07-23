@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  look_in_type mülk
 
-Tipe bak.
+Yazılışına bak.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def look_in_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FindOptions](/cells/python-net/tr/aspose.cells/findoptions)
-* sınıf [LookInType](/cells/python-net/tr/aspose.cells/lookintype)
+* modül [`aspose.cells`](../../)
+* sınıf [`FindOptions`](/cells/python-net/tr/aspose.cells/findoptions)
+* sınıf [`LookInType`](/cells/python-net/tr/aspose.cells/lookintype)

@@ -3,13 +3,11 @@ title: parameters mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 200
 url: /tr/aspose.cells.externalconnections/datamodelconnection/parameters/
 is_root: false
 ---
 ##  parameters mülk
-
-ODBC veya web sorgusu için [ConnectionParameterCollection](/cells/python-net/tr/aspose.cells.externalconnections/connectionparametercollection) alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +16,6 @@ def parameters(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [ConnectionParameterCollection](/cells/python-net/tr/aspose.cells.externalconnections/connectionparametercollection)
-* sınıf [DataModelConnection](/cells/python-net/tr/aspose.cells.externalconnections/datamodelconnection)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`ConnectionParameterCollection`](/cells/python-net/tr/aspose.cells.externalconnections/connectionparametercollection)
+* sınıf [`DataModelConnection`](/cells/python-net/tr/aspose.cells.externalconnections/datamodelconnection)

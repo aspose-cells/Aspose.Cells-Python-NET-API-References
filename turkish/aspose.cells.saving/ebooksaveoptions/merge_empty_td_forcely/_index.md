@@ -3,16 +3,16 @@ title: merge_empty_td_forcely mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 560
+weight: 640
 url: /tr/aspose.cells.saving/ebooksaveoptions/merge_empty_td_forcely/
 is_root: false
 ---
 ##  merge_empty_td_forcely mülk
 
- Dosyayı html'ye aktarırken boş TD öğesinin zorla birleştirilip birleştirilmeyeceğini belirtir.
- Değeri true olarak ayarladıktan sonra html dosyasının boyutu önemli ölçüde azalacaktır. Varsayılan değer false'tur.
- Html dosyasını excel'e aktarmak veya dosyayı html'ye kaydederken mükemmel ızgara çizgilerini dışa aktarmak istiyorsanız,
-lütfen varsayılan değeri koruyun.
+ Dosyayı HTML'e aktarırken boş TD öğesinin zorunlu olarak birleştirilip birleştirilmeyeceğini belirtir.
+ Değeri true olarak ayarlandığında HTML dosyasının boyutu önemli ölçüde azalacaktır. Varsayılan değer false'tur.
+ Html dosyasını Excel'e aktarmak veya dosyayı HTML'e kaydederken mükemmel ızgara çizgileri dışa aktarmak istiyorsanız,
+Lütfen varsayılan değeri koruyun.
 ###  Tanım:
 ```python
 @property

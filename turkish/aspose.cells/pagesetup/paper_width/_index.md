@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paper_width mülk
 
-Kağıdın genişliğini, sayfa yönlendirmesi olarak kabul edilen inç cinsinden alır.
+Sayfa yönü dikkate alınarak kağıdın genişliğini inç cinsinden alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def paper_width(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

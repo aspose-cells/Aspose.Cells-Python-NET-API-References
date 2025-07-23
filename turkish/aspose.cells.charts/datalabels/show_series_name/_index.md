@@ -3,14 +3,14 @@ title: show_series_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 430
+weight: 500
 url: /tr/aspose.cells.charts/datalabels/show_series_name/
 is_root: false
 ---
 ##  show_series_name mülk
 
-Grafikteki veri etiketleri için seri adı görüntüleme davranışını belirtmek üzere bir Boole değeri döndürür veya ayarlar.
-Dizi adını göstermek için True. Saklanacak yanlış.
+Bir grafikteki veri etiketleri için seri adının görüntülenip görüntülenmeyeceğini belirtir.
+Dizinin ismini göstermek için True, gizlemek için False kullanılır.
 ###  Tanım:
 ```python
 @property

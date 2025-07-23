@@ -3,13 +3,13 @@ title: lower_right_column mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 830
+weight: 840
 url: /tr/aspose.cells.drawing/lineshape/lower_right_column/
 is_root: false
 ---
 ##  lower_right_column mülk
 
-Sağ alt köşe sütun dizinini temsil eder.
+Sağ alt köşedeki sütun indeksini temsil eder.
 
 ###  Örnek
 

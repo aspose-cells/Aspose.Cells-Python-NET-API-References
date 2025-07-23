@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scale mülk
 
-scale resim biçimini alır ve ayarlar.
+Resim formatını alır ve ayarlar scale.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextureFill](/cells/python-net/tr/aspose.cells.drawing/texturefill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextureFill`](/cells/python-net/tr/aspose.cells.drawing/texturefill)

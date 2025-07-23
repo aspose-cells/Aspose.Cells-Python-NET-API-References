@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.charts/plotarea/set_position_auto/
 is_root: false
 ---
-##  set_position_auto() {#}
-Çizim alanının konumunu otomatik olarak ayarlayın
+##  set_position_auto(self) {#}
+Arsa alanının konumunu otomatik olarak ayarlayın
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```
@@ -22,5 +23,5 @@ def set_position_auto(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [PlotArea](/cells/python-net/tr/aspose.cells.charts/plotarea)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`PlotArea`](/cells/python-net/tr/aspose.cells.charts/plotarea)

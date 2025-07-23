@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_crop_inch mülk
 
-İnç birimi cinsinden ifade edilen kırpma dikdörtgeninin solundaki konumu temsil eder.
+Mahsul dikdörtgeninin sol tarafının konumunu inç cinsinden ifade eder.
 ###  Tanım:
 ```python
 @property

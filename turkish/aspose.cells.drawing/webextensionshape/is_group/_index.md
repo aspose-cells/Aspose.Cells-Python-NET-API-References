@@ -3,13 +3,13 @@ title: is_group mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 570
+weight: 580
 url: /tr/aspose.cells.drawing/webextensionshape/is_group/
 is_root: false
 ---
 ##  is_group mülk
 
-Şeklin bir grup olup olmadığını belirtir.
+Bu şeklin bir grup şekli olup olmadığını gösterir.
 
 ###  Örnek
 

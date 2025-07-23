@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/protection/copy/
 is_root: false
 ---
-##  copy(source) {#Protection}
-Kopya koruma bilgisi.
+##  copy(self, source) {#aspose.cells.Protection}
+Kopyalama koruma bilgisi.
 
 
 
 ```python
+
 def copy(self, source):
     ...
 ```
@@ -20,10 +21,10 @@ def copy(self, source):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source | [Protection](/cells/python-net/tr/aspose.cells/protection) |  |
+| source | [`Protection`](/cells/python-net/tr/aspose.cells/protection) |  |
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

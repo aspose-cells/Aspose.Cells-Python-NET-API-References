@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_text_no_fill mülk
 
-Metnin doldurulmamasını alır veya ayarlar.
+Metnin doldurulmasını almaz veya ayarlamaz.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_text_no_fill(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [LegendEntry](/cells/python-net/tr/aspose.cells.charts/legendentry)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`LegendEntry`](/cells/python-net/tr/aspose.cells.charts/legendentry)

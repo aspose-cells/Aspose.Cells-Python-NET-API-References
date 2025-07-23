@@ -3,7 +3,7 @@ title: id mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 510
+weight: 500
 url: /tr/aspose.cells.drawing/button/id/
 is_root: false
 ---

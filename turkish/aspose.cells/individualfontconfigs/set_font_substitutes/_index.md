@@ -7,12 +7,13 @@ weight: 70
 url: /tr/aspose.cells/individualfontconfigs/set_font_substitutes/
 is_root: false
 ---
-##  set_font_substitutes(original_font_name, substitute_font_names) {#str-list}
-Verilen orijinal yazı tipi adı için yazı tipi yedek adları.
+##  set_font_substitutes(self, original_font_name, substitute_font_names) {#str-list}
+Verilen orijinal yazı tipi adı yerine yazı tipi adları.
 
 
 
 ```python
+
 def set_font_substitutes(self, original_font_name, substitute_font_names):
     ...
 ```
@@ -21,10 +22,10 @@ def set_font_substitutes(self, original_font_name, substitute_font_names):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | original_font_name | str | Orijinal yazı tipi adı.|
-| substitute_font_names | list | Orijinal yazı tipinin sunulmaması durumunda kullanılacak yazı tipi yedek adlarının listesi.|
+| substitute_font_names | list | Orijinal yazı tipi sunulmadığı takdirde kullanılacak yazı tipi ikame isimlerinin listesi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [IndividualFontConfigs](/cells/python-net/tr/aspose.cells/individualfontconfigs)
+* modül [`aspose.cells`](../../)
+* sınıf [`IndividualFontConfigs`](/cells/python-net/tr/aspose.cells/individualfontconfigs)

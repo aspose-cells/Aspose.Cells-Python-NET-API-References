@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  icon_set_type mülk
 
-Filtre kriterlerinde hangi simge setinin kullanıldığını alır ve ayarlar.
+Filtre kriterlerinde hangi simge setinin kullanılacağını alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def icon_set_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [IconFilter](/cells/python-net/tr/aspose.cells/iconfilter)
-* sınıf [IconSetType](/cells/python-net/tr/aspose.cells/iconsettype)
+* modül [`aspose.cells`](../../)
+* sınıf [`IconFilter`](/cells/python-net/tr/aspose.cells/iconfilter)
+* sınıf [`IconSetType`](/cells/python-net/tr/aspose.cells/iconsettype)

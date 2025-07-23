@@ -7,23 +7,23 @@ weight: 10
 url: /tr/aspose.cells.slicers/
 is_root: false
 ---
- bu**Aspose.Cells.Slicers** ad alanı, Excel Elektronik Tablo dosyaları için Pivot Tablo Dilimleyici seçenekleri için tüm sınıfları sağlar.
+**Aspose.Cells.Slicers** namespace, Excel Elektronik Tablo dosyaları için Pivot Tablo Dilimleyici seçeneklerinin tüm sınıflarını sağlar.
 
-###  sınıflar
+###  Sınıflar
 | Sınıf| Tanım|
 | :- | :- |
-| [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer) | Dilimleyici Görünümünün özet açıklaması|
-| [SlicerCache](/cells/python-net/tr/aspose.cells.slicers/slicercache) | dilimleyici önbelleğinin özet açıklaması|
-| [SlicerCacheItem](/cells/python-net/tr/aspose.cells.slicers/slicercacheitem) | Dilimleyici veri kaynağı öğesini temsil eder|
-| [SlicerCacheItemCollection](/cells/python-net/tr/aspose.cells.slicers/slicercacheitemcollection) | SlicerCacheItem koleksiyonunu temsil eder|
-| [SlicerCollection](/cells/python-net/tr/aspose.cells.slicers/slicercollection) | Belirtilen çalışma sayfasındaki tüm Slicer nesnelerinin koleksiyonunu belirtir.|
+| [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer) | Dilimleyici Görünümünün özet açıklaması|
+| [`SlicerCache`](/cells/python-net/tr/aspose.cells.slicers/slicercache) | Dilimleyici önbelleğinin özet açıklamasını temsil eder|
+| [`SlicerCacheItem`](/cells/python-net/tr/aspose.cells.slicers/slicercacheitem) | Dilimleyici veri kaynağı öğesini temsil et|
+| [`SlicerCacheItemCollection`](/cells/python-net/tr/aspose.cells.slicers/slicercacheitemcollection) | SlicerCacheItem koleksiyonunu temsil eder|
+| [`SlicerCollection`](/cells/python-net/tr/aspose.cells.slicers/slicercollection) | Belirtilen çalışma sayfasındaki tüm Slicer nesnelerinin koleksiyonunu belirtir.|
 
 
 ###  Numaralandırmalar
-|numaralandırma| Tanım|
+| Numaralandırma| Tanım|
 | :- | :- |
-| [SlicerCacheCrossFilterType](/cells/python-net/tr/aspose.cells.slicers/slicercachecrossfiltertype) | SlicerCacheCrossFilterType türünü temsil eder|
-| [SlicerCacheItemSortType](/cells/python-net/tr/aspose.cells.slicers/slicercacheitemsorttype) | SlicerCacheItem'in sıralama türünü belirtin|
-| [SlicerStyleType](/cells/python-net/tr/aspose.cells.slicers/slicerstyletype) | Dilimleyici görünümünün stilini belirtin|
+| [`SlicerCacheCrossFilterType`](/cells/python-net/tr/aspose.cells.slicers/slicercachecrossfiltertype) | SlicerCacheCrossFilterType türünü temsil eder|
+| [`SlicerCacheItemSortType`](/cells/python-net/tr/aspose.cells.slicers/slicercacheitemsorttype) | SlicerCacheItem'ın sıralama türünü belirtin|
+| [`SlicerStyleType`](/cells/python-net/tr/aspose.cells.slicers/slicerstyletype) |Dilimleyici görünümünün stilini belirtin|
 
 

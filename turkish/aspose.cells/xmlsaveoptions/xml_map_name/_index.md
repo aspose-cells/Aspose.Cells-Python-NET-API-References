@@ -3,13 +3,13 @@ title: xml_map_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 200
 url: /tr/aspose.cells/xmlsaveoptions/xml_map_name/
 is_root: false
 ---
 ##  xml_map_name mülk
 
-Dosyada xml haritasının dışa aktarılıp aktarılmadığını gösterir.
+Dosyada xml haritasının dışa aktarılıp aktarılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def xml_map_name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XmlSaveOptions](/cells/python-net/tr/aspose.cells/xmlsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`XmlSaveOptions`](/cells/python-net/tr/aspose.cells/xmlsaveoptions)

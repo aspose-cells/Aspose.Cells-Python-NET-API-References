@@ -3,13 +3,13 @@ title: load_style_strategy mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 280
+weight: 260
 url: /tr/aspose.cells/txtloadoptions/load_style_strategy/
 is_root: false
 ---
 ##  load_style_strategy mülk
 
-Dize değerini sayıya veya tarihsaat değerine dönüştürürken ayrıştırılan değerlere stil uygulama stratejisini belirtir.
+Dize değerini sayıya veya tarih/saat değerine dönüştürürken ayrıştırılmış değerlere uygulanacak stil stratejisini belirtir.
 ###  Tanım:
 ```python
 @property

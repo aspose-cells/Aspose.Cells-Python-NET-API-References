@@ -3,13 +3,13 @@ title: language_code mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 290
+weight: 320
 url: /tr/aspose.cells/workbooksettings/language_code/
 is_root: false
 ---
 ##  language_code mülk
 
-Dosyayı kaydeden CountryCode'a göre Çalışma Kitabı sürümünün kullanıcı arayüzü dilini alır veya ayarlar.
+Dosyayı kaydeden CountryCode'a bağlı olarak Çalışma Kitabı sürümünün kullanıcı arayüzü dilini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  cross_at mülk
 
-Değer ekseninde kategori ekseninin kesiştiği noktayı temsil eder.
+Kategori ekseninin değer eksenini kestiği noktayı temsil eder.
 
 ###  Notlar
 
-Sayı, kategori eksenine uygulandığında tam sayı olmalıdır.
-Ve değer 1 ile 31999 arasında olmalıdır.
+Kategori eksenine uygulandığında sayı tam sayı olmalıdır.
+Ve değerin 1 ile 31999 arasında olması gerekiyor.
 ###  Tanım:
 ```python
 @property

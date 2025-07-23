@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pivot_settings mülk
 
-Pivot tablo için genelleştirme ayarlarını alır veya ayarlar.
+Pivot tablonun küreselleştirme ayarlarını alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

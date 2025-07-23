@@ -3,7 +3,7 @@ title: active_cell mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 350
+weight: 370
 url: /tr/aspose.cells/worksheet/active_cell/
 is_root: false
 ---

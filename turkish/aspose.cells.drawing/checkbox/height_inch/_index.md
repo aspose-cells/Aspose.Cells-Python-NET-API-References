@@ -3,13 +3,13 @@ title: height_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 480
+weight: 470
 url: /tr/aspose.cells.drawing/checkbox/height_inch/
 is_root: false
 ---
 ##  height_inch mülk
 
-Şeklin yüksekliğini inç cinsinden temsil eder.
+Şeklin yüksekliğini inç cinsinden gösterir.
 
 ###  Örnek
 

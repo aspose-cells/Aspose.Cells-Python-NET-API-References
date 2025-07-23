@@ -12,17 +12,17 @@ Harita grafiğinin projeksiyon tipini temsil eder.
 
 
 
-MapChartProjectionType türü aşağıdaki üyeleri gösterir:
+MapChartProjectionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | AUTOMATIC | Otomatik|
 | MERCATOR | Merkator|
 | MILLER | Miller|
-| ALBERS | Alberler|
+| ALBERS | Alberts|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

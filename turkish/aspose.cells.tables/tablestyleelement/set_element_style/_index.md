@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells.tables/tablestyleelement/set_element_style/
 is_root: false
 ---
-##  set_element_style(style) {#Style}
-Öğe stilini ayarlar.
+##  set_element_style(self, style) {#aspose.cells.Style}
+Eleman stilini ayarlar.
 
 
 
 ```python
+
 def set_element_style(self, style):
     ...
 ```
@@ -20,10 +21,10 @@ def set_element_style(self, style):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/tr/aspose.cells/style) | Öğe stili.|
+| style | [`Style`](/cells/python-net/tr/aspose.cells/style) | Element stili.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [TableStyleElement](/cells/python-net/tr/aspose.cells.tables/tablestyleelement)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`TableStyleElement`](/cells/python-net/tr/aspose.cells.tables/tablestyleelement)

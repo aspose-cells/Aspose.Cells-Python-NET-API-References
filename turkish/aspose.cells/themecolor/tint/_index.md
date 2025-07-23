@@ -13,8 +13,8 @@ tint değerini alır ve ayarlar.
 
 ###  Notlar
 
- tint değeri, -1.0 .. 1.0'dan çift olarak saklanır, burada -1.0, %100 karartma anlamına gelir
-ve 1.0, %100 aydınlatma anlamına gelir. Ayrıca, 0.0, değişiklik olmadığı anlamına gelir.
+ tint değeri -1.0 .. 1.0'dan oluşan bir çift olarak saklanır, burada -1.0 %100 koyulaştırma anlamına gelir
+ve 1.0 %100 aydınlatma anlamına gelir. Ayrıca 0.0 hiçbir değişiklik olmadığı anlamına gelir.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def tint(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ThemeColor](/cells/python-net/tr/aspose.cells/themecolor)
+* modül [`aspose.cells`](../../)
+* sınıf [`ThemeColor`](/cells/python-net/tr/aspose.cells/themecolor)

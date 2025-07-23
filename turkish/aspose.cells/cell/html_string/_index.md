@@ -3,13 +3,13 @@ title: html_string mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 520
+weight: 540
 url: /tr/aspose.cells/cell/html_string/
 is_root: false
 ---
 ##  html_string mülk
 
-Bu hücredeki verileri ve bazı biçimleri içeren html dizesini alır ve ayarlar.
+Bu hücrede veri ve bazı formatları içeren html dizesini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

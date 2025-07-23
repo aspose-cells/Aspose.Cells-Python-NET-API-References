@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol/mouse_icon/
 is_root: false
 ---
 ##  mouse_icon mülk
-
-Denetim için fare işaretçisi olarak görüntülenecek özel bir simge alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def mouse_icon(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ImageActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ImageActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

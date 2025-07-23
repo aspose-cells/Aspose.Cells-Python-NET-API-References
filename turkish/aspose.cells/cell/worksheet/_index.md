@@ -3,13 +3,13 @@ title: worksheet mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 750
+weight: 780
 url: /tr/aspose.cells/cell/worksheet/
 is_root: false
 ---
 ##  worksheet mülk
 
-worksheet ebeveynini alır.
+worksheet numaralı ebeveyni alır.
 ###  Tanım:
 ```python
 @property

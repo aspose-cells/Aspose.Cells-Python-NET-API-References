@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  orientation mülk
 
-SpinButton veya ScrollBar öğesinin dikey mi yoksa yatay mı yönlendirildiğini alır ve ayarlar.
+SpinButton veya ScrollBar'ın dikey mi yoksa yatay mı yönlendirildiğini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ControlScrollOrientation](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlscrollorientation)
-* sınıf [SpinButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ControlScrollOrientation`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlscrollorientation)
+* sınıf [`SpinButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

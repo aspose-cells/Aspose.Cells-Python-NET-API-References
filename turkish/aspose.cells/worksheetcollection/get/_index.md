@@ -7,8 +7,8 @@ weight: 90
 url: /tr/aspose.cells/worksheetcollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-API for Python .Net yoluyla ekleyin, çünkü bu [int dizini] desteklenmiyor
+##  get(self, index) {#int}
+API for Python'i .Net yoluyla ekleyin. Bu[int index] desteklenmediğinden
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ API for Python .Net yoluyla ekleyin, çünkü bu [int dizini] desteklenmiyor
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | Öğenin sıfır tabanlı dizini.|
+| index | int | Elemanın sıfırdan başlayan indeksi.|
 
 
-##  get(sheet_name) {#str}
-API for Python .Net yoluyla ekleyin, çünkü bu [dize sayfasıAdı] desteklenmiyor
+##  get(self, sheet_name) {#str}
+API for Python'i .Net yoluyla ekleyin. Bu[string sheetName] desteklenmediğinden
 
 
 ###  İadeler
@@ -37,6 +38,7 @@ API for Python .Net yoluyla ekleyin, çünkü bu [dize sayfasıAdı] desteklenmi
 
 
 ```python
+
 def get(self, sheet_name):
     ...
 ```
@@ -44,10 +46,10 @@ def get(self, sheet_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| sheet_name | str | çalışma sayfası adı|
+| sheet_name | str | Çalışma sayfası adı|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorksheetCollection](/cells/python-net/tr/aspose.cells/worksheetcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorksheetCollection`](/cells/python-net/tr/aspose.cells/worksheetcollection)

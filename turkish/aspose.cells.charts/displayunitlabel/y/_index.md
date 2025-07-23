@@ -3,18 +3,18 @@ title: y mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 380
+weight: 480
 url: /tr/aspose.cells.charts/displayunitlabel/y/
 is_root: false
 ---
 ##  y mülk
 
-Grafik alanının 1/4000'lik birimlerinde sol üst köşenin y koordinatını alır veya ayarlar.
+Grafik alanının sol üst köşesinin y koordinatını 1/4000'lik birimlerle alır veya ayarlar.
 
 ###  Notlar
 
- 1/4000 birimleri piksele nasıl çevrilir?
-Y Piksel = Y * Chart.ChartObject.Height / 4000;
+ 1/4000 birimleri piksele nasıl dönüştürülür?
+Y Piksel = Y * Chart.ChartObject.Height / 4000d;
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def y(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [DisplayUnitLabel](/cells/python-net/tr/aspose.cells.charts/displayunitlabel)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`DisplayUnitLabel`](/cells/python-net/tr/aspose.cells.charts/displayunitlabel)

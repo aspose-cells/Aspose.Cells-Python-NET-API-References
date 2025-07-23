@@ -3,7 +3,7 @@ title: ControlBorderType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 140
 url: /tr/aspose.cells.drawing.activexcontrols/controlbordertype/
 is_root: false
 ---
@@ -12,9 +12,9 @@ ActiveX denetiminin kenarlık türünü temsil eder.
 
 
 
-ControlBorderType türü aşağıdaki üyeleri gösterir:
+ControlBorderType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NONE | Sınır yok.|
@@ -23,4 +23,4 @@ ControlBorderType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
+* modül [`aspose.cells.drawing.activexcontrols`](..)

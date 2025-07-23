@@ -3,16 +3,17 @@ title: set_auto_group_field yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 260
 url: /tr/aspose.cells.pivot/pivottable/set_auto_group_field/
 is_root: false
 ---
-##  set_auto_group_field {#int}
-PivotTable'a göre otomatik alan grubunu ayarlar.
+##  set_auto_group_field(self, base_field_index) {#int}
+PivotTable'a göre otomatik alan grubu ayarlar.
 
 
 
 ```python
+
 def set_auto_group_field(self, base_field_index):
     ...
 ```
@@ -20,21 +21,21 @@ def set_auto_group_field(self, base_field_index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| base_field_index | int |  |
+| base_field_index | int | Temel alanlardaki satır veya sütun alanı dizini|
 ###  Notlar
 
-Temel alanlardaki satır veya sütun alanı dizini
- NOT: Bu yöntem artık geçerliliğini yitirmiştir. Yerine,
-lütfen PivotField.GroupBy() yöntemini kullanın.
- Bu yöntem Ekim 2023'ten 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+NOT: Bu yöntem artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen PivotField.GroupBy() metodunu kullanın.
+ Bu yöntem 12 ay sonra, Ekim 2023'ten itibaren kaldırılacak.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
-##  set_auto_group_field {#aspose.cells.pivot.PivotField}
-PivotTable'a göre otomatik alan grubunu ayarlar.
+##  set_auto_group_field(self, pivot_field) {#aspose.cells.pivot.PivotField}
+PivotTable'a göre otomatik alan grubu ayarlar.
 
 
 
 ```python
+
 def set_auto_group_field(self, pivot_field):
     ...
 ```
@@ -45,10 +46,10 @@ def set_auto_group_field(self, pivot_field):
 | pivot_field | [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield) | Belirli alanlardaki satır veya sütun alanı|
 ###  Notlar
 
-NOT: Bu yöntem artık geçerliliğini yitirmiştir. Yerine,
-lütfen PivotField.GroupBy() yöntemini kullanın.
- Bu yöntem Ekim 2023'ten 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+NOT: Bu yöntem artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen PivotField.GroupBy() metodunu kullanın.
+ Bu yöntem 12 ay sonra, Ekim 2023'ten itibaren kaldırılacak.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız

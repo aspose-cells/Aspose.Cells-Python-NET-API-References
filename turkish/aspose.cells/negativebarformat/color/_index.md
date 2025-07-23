@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [NegativeBarFormat](/cells/python-net/tr/aspose.cells/negativebarformat)
+* modül [`aspose.cells`](../../)
+* sınıf [`NegativeBarFormat`](/cells/python-net/tr/aspose.cells/negativebarformat)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  group_by mülk
 
-Sıfır tabanlı bir tamsayı ofseti olarak gruplandırılacak alan
+Sıfır tabanlı bir tam sayı ofseti olarak gruplanacak alan
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def group_by(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [SubtotalSetting](/cells/python-net/tr/aspose.cells/subtotalsetting)
+* modül [`aspose.cells`](../../)
+* sınıf [`SubtotalSetting`](/cells/python-net/tr/aspose.cells/subtotalsetting)

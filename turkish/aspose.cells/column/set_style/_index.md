@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells/column/set_style/
 is_root: false
 ---
-##  set_style(style) {#Style}
+##  set_style(self, style) {#aspose.cells.Style}
 Bu sütunun stilini ayarlar.
 
 
 
 ```python
+
 def set_style(self, style):
     ...
 ```
@@ -20,15 +21,15 @@ def set_style(self, style):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/tr/aspose.cells/style) | bu sütundaki hücreler için varsayılan stil olarak kullanılacak stil.|
+| style | [`Style`](/cells/python-net/tr/aspose.cells/style) | Bu sütundaki hücreler için varsayılan stil olarak kullanılacak stil.|
 ###  Notlar
 
-Bu yöntem, yalnızca verilen stili bu sütun için varsayılan stil olarak ayarlar,
-bu sütundaki mevcut hücreler için stil ayarlarını değiştirmeden.
+Bu yöntem yalnızca belirtilen stili bu sütun için varsayılan stil olarak ayarlar.
+Bu sütundaki mevcut hücrelerin stil ayarlarını değiştirmeden.
 Mevcut hücrelerin stil ayarlarını aynı anda belirtilen stile güncellemek için,
-lütfen [Column.apply_style(style, flag)](/cells/python-net/tr/aspose.cells/column/apply_style)'i kullanın
+lütfen [`Column.apply_style`](/cells/python-net/tr/aspose.cells/column/apply_style)'i kullanın
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Column](/cells/python-net/tr/aspose.cells/column)
+* modül [`aspose.cells`](../../)
+* sınıf [`Column`](/cells/python-net/tr/aspose.cells/column)

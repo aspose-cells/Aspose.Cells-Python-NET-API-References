@@ -21,5 +21,5 @@ def variant(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TwoColorGradient](/cells/python-net/tr/aspose.cells/twocolorgradient)
+* modül [`aspose.cells`](../../)
+* sınıf [`TwoColorGradient`](/cells/python-net/tr/aspose.cells/twocolorgradient)

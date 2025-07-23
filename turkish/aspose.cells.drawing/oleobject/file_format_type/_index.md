@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  file_format_type mülk
 
-Gömülü ole nesnesi verilerinin dosya türünü alır ve ayarlar
+Katıştırılmış ole nesnesi verilerinin dosya türünü alır ve ayarlar
 ###  Tanım:
 ```python
 @property

@@ -3,13 +3,13 @@ title: is_flipped_vertically mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 560
+weight: 570
 url: /tr/aspose.cells.drawing/label/is_flipped_vertically/
 is_root: false
 ---
 ##  is_flipped_vertically mülk
 
-Şeklin dikey olarak çevrilip çevrilmediğini alır ve ayarlar.
+Şeklin dikey olarak çevrilip çevrilmeyeceğini alır ve ayarlar.
 
 ###  Örnek
 

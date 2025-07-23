@@ -18,6 +18,6 @@ def cell_area(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [CellArea](/cells/python-net/tr/aspose.cells/cellarea)
-* sınıf [RevisionQueryTable](/cells/python-net/tr/aspose.cells.revisions/revisionquerytable)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea)
+* sınıf [`RevisionQueryTable`](/cells/python-net/tr/aspose.cells.revisions/revisionquerytable)

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_bottom mülk
 
-Bir "üst/alt n" kuralının bir "alt n" kuralı olup olmadığını alın veya ayarlayın.
-Varsayılan değer yanlıştır.
+"Top/bottom n" kuralının "bottom n" kuralı olup olmadığını alın veya ayarlayın.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_bottom(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Top10](/cells/python-net/tr/aspose.cells/top10)
+* modül [`aspose.cells`](../../)
+* sınıf [`Top10`](/cells/python-net/tr/aspose.cells/top10)

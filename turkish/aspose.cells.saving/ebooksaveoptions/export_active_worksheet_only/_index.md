@@ -3,15 +3,15 @@ title: export_active_worksheet_only mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 230
 url: /tr/aspose.cells.saving/ebooksaveoptions/export_active_worksheet_only/
 is_root: false
 ---
 ##  export_active_worksheet_only mülk
 
-Yalnızca etkin çalışma sayfasının html dosyasına aktarılıp aktarılmayacağını belirtir.
-Doğruysa yalnızca etkin çalışma sayfası html dosyasına aktarılacaktır;
-Yanlışsa çalışma kitabının tamamı html dosyasına aktarılacaktır.
+Yalnızca etkin çalışma sayfasının HTML dosyasına aktarılacağını belirtir.
+Eğer doğruysa, yalnızca etkin çalışma sayfası html dosyasına aktarılacaktır;
+Eğer false ise tüm çalışma kitabı html dosyasına aktarılacaktır.
 Varsayılan değer false'tur.
 ###  Tanım:
 ```python

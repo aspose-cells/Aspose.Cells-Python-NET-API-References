@@ -3,13 +3,13 @@ title: auto_scale_font mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 70
 url: /tr/aspose.cells.charts/datalabels/auto_scale_font/
 is_root: false
 ---
 ##  auto_scale_font mülk
 
-Nesne boyutu değiştiğinde, nesnedeki metin yazı tipi boyutunu değiştirirse doğrudur. Varsayılan değer True'dur.
+Nesnenin boyutu değiştiğinde nesnedeki metnin yazı tipi boyutu da değişiyorsa True değeri geçerlidir. Varsayılan değer True'dur.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_scale_font(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [DataLabels](/cells/python-net/tr/aspose.cells.charts/datalabels)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`DataLabels`](/cells/python-net/tr/aspose.cells.charts/datalabels)

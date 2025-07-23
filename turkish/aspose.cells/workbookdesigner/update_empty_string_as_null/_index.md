@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_empty_string_as_null mülk
 
-DOĞRU ise, değer "" ise Null eklenecektir;
+TRUE ise, değer "" ise Null eklenecektir;
 ###  Tanım:
 ```python
 @property

@@ -7,15 +7,16 @@ weight: 60
 url: /tr/aspose.cells/metered/set_metered_key/
 is_root: false
 ---
-##  set_metered_key {#str-str}
-Ölçülen genel ve özel anahtarı ayarlar.
- Tarifeli lisans satın alırsanız başvuruya başladığınızda bu API'i aramanız gerekiyor, normalde bu yeterli.
- Ancak tüketim verilerinin yüklenememesi ve 24 saati aşması halinde lisans değerlendirme durumuna geçecektir.
-böyle bir durumla karşılaşmamak için lisans durumunu düzenli olarak kontrol etmelisiniz, değerlendirme durumu ise API'i tekrar arayın.
+##  set_metered_key(self, public_key, private_key) {#str-str}
+Ölçülü genel ve özel anahtarları ayarlar.
+Eğer tarifeli lisans satın aldıysanız, uygulamayı başlattığınızda API numarasını aramanız gerekiyor, normalde bu yeterlidir.
+ Ancak, tüketim verilerini yüklemede her zaman başarısız olunursa ve 24 saati aşarsa, lisans değerlendirme durumuna ayarlanacaktır.
+Bu gibi durumlarla karşılaşmamak için lisans durumunuzu düzenli olarak kontrol etmeli, değerlendirme durumunda ise API'i tekrar aramalısınız.
 
 
 
 ```python
+
 def set_metered_key(self, public_key, private_key):
     ...
 ```
@@ -23,8 +24,8 @@ def set_metered_key(self, public_key, private_key):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| public_key | str | Genel anahtar|
-| private_key | str | Özel anahtar|
+| public_key | str | genel anahtar|
+| private_key | str | özel anahtar|
 
 
 

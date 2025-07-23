@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_printable mülk
 
-Dilimleyici nesnesinin yazdırılabilir olup olmadığını gösterir.
+Dilimleyici nesnesinin yazdırılabilir olup olmadığını belirtir.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def is_printable(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

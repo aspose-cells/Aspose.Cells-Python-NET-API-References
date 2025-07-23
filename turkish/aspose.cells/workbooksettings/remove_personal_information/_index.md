@@ -3,13 +3,13 @@ title: remove_personal_information mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 450
 url: /tr/aspose.cells/workbooksettings/remove_personal_information/
 is_root: false
 ---
 ##  remove_personal_information mülk
 
-Kişisel bilgiler belirtilen çalışma kitabından kaldırılabiliyorsa doğrudur.
+Belirtilen çalışma kitabından kişisel bilgilerin kaldırılabilmesi durumunda doğrudur.
 
 ###  Notlar
 

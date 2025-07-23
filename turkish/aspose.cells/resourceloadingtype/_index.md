@@ -3,12 +3,12 @@ title: ResourceLoadingType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2530
+weight: 2500
 url: /tr/aspose.cells/resourceloadingtype/
 is_root: false
 ---
 ##  ResourceLoadingType numaralandırma
-Bağlantılı kaynağın nasıl yükleneceğini temsil eder.
+Bağlantılı kaynağın nasıl yükleneceğini gösterir.
 
 
 

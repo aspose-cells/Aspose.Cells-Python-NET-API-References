@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  selected mülk
 
-SlicerItem öğesinin selected olup olmadığını belirtir.
+SlicerItem'ın selected olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def selected(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [SlicerCacheItem](/cells/python-net/tr/aspose.cells.slicers/slicercacheitem)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`SlicerCacheItem`](/cells/python-net/tr/aspose.cells.slicers/slicercacheitem)
